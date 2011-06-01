@@ -168,6 +168,26 @@
 
 - [45 (Repealed)](#Repealed)
 
+- [46 (Repealed)](#Repealed)
+
+- [47 (Repealed)](#Repealed)
+
+- [48 (Repealed)](#Repealed)
+
+- [49 (Repealed)](#Repealed)
+
+- [50 (Repealed)](#Repealed)
+
+- [51 (Repealed)](#Repealed)
+
+- [52 (Repealed)](#Repealed)
+
+- [53 (Repealed)](#Repealed)
+
+- [54 (Repealed)](#Repealed)
+
+- [55 (Repealed)](#Repealed)
+
 - [56 (Repealed)](#Repealed)
 
 [**Part VIII FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT**](#Part-VIII)
@@ -218,11 +238,39 @@
 
 - [75 (Repealed)](#Repealed)
 
+- [76 (Repealed)](#Repealed)
+
+- [77 (Repealed)](#Repealed)
+
+- [78 (Repealed)](#Repealed)
+
+- [79 (Repealed)](#Repealed)
+
+- [80 (Repealed)](#Repealed)
+
+- [81 (Repealed)](#Repealed)
+
+- [82 (Repealed)](#Repealed)
+
+- [83 (Repealed)](#Repealed)
+
 - [84 (Repealed)](#Repealed)
 
 [**Part XII (Repealed)**](#Part-XII)
 
 - [85 (Repealed)](#Repealed)
+
+- [86 (Repealed)](#Repealed)
+
+- [87 (Repealed)](#Repealed)
+
+- [88 (Repealed)](#Repealed)
+
+- [89 (Repealed)](#Repealed)
+
+- [90 (Repealed)](#Repealed)
+
+- [91 (Repealed)](#Repealed)
 
 - [92 (Repealed)](#Repealed)
 
@@ -230,11 +278,27 @@
 
 - [93 (Repealed)](#Repealed)
 
+- [94 (Repealed)](#Repealed)
+
+- [95 (Repealed)](#Repealed)
+
+- [96 (Repealed)](#Repealed)
+
 - [97 (Repealed)](#Repealed)
 
 [**Part XIIIA (Repealed)**](#Part-XIIIA)
 
 - [97A (Repealed)](#Repealed)
+
+- [97B (Repealed)](#Repealed)
+
+- [97C (Repealed)](#Repealed)
+
+- [97D (Repealed)](#Repealed)
+
+- [97E (Repealed)](#Repealed)
+
+- [97F (Repealed)](#Repealed)
 
 - [97G (Repealed)](#Repealed)
 
@@ -348,7 +412,7 @@ REVISED EDITION 2005
 
 (31st March 2005)
 
-Act relating to incentives for the establishment of pioneer industries and for economic expansion generally, by way of providing relief from income tax.
+An Act relating to incentives for the establishment of pioneer industries and for economic expansion generally, by way of providing relief from income tax.
 
 [15th December 1967]
 
@@ -480,7 +544,7 @@ PIONEER INDUSTRIES
 
 (4) Where in the opinion of the Comptroller the carrying on of such separate trade is subordinate and incidental to the carrying on of the trade or business relating to the relevant pioneer product, the income or loss arising from such activities shall be deemed to form part of the income or loss of the pioneer enterprise.
 
-(5) In this section, "relevant pioneer product" means the pioneer product specified in its pioneer certificate.
+(5) In this section, “relevant pioneer product” means the pioneer product specified in its pioneer certificate.
 
 ### Power to give directions
 
@@ -504,7 +568,7 @@ PIONEER INDUSTRIES
 
 (b) the allowances computed in accordance with paragraph (a) shall be apportioned between the old trade or business and the new trade or business of the pioneer enterprise in such manner as appears to the Comptroller to be reasonable in the circumstances.
 
-[36/93; 48/2004]
+[36/93; 48/2004; 29/2010]
 
 (4) Where in any year of assessment full effect cannot, by reason of an insufficiency of profits for that year of assessment, be given to the allowances mentioned in subsection (2), then the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment.
 
@@ -516,11 +580,11 @@ PIONEER INDUSTRIES
 
 the capital expenditure so incurred by the pioneer enterprise within its tax relief period in respect of any asset used for the purposes of its new trade or business shall, subject to such conditions as the Minister may impose, be deemed, for the purposes of sections 16, 17, 18, 18B, 18C, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134), to have been incurred on the day immediately following the last day of its tax relief period.
 
-[29/91; 48/2004]
+[29/91; 48/2004; 29/2010]
 
 (6) Where a pioneer enterprise referred to in subsection (5) carries on a separate trade or business, and any building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (5) shall apply to that building, plant or machinery.
 
-[29/91; 11/2004]
+[29/91; 11/2004; 29/2010]
 
 (7) Where a pioneer enterprise has, before 16th August 1991, incurred a capital expenditure of not less than $1,000 million, subsection (5) shall apply to that enterprise in respect of that expenditure notwithstanding that the enterprise has not complied with paragraphs (a) and (b) of that subsection.
 
@@ -528,7 +592,7 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 (8) Where a pioneer enterprise referred to in subsection (5) or (7) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 18B, 18C, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
 
-[S 143/89]
+[S 143/89; 29/91; 48/2004; 29/2010]
 
 (9) In subsections (5) and (7), “capital expenditure” means capital expenditure in connection with a pioneer product, on factory building (excluding land) in Singapore, on any new plant or new machinery used in Singapore and on intellectual property rights for use in Singapore and, subject to the approval of the Minister, on any secondhand plant or secondhand machinery used in Singapore.
 
@@ -682,11 +746,11 @@ POST-PIONEER COMPANIES
 
 19H\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-## PART IIIB1
+## PART IIIB\*
 
 DEVELOPMENT AND EXPANSION INCENTIVE
 
-1From year of assessment 1997.
+\*From year of assessment 1997.
 
 ### Interpretation of this Part
 
@@ -742,7 +806,7 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96; 11/2004]
 
-(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K(1) (b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
+(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K(1)(b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
 
 [48/2004]
 
@@ -839,8 +903,6 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 (9) Notwithstanding subsections (1) to (8), where it appears to the Comptroller that —
 
 (a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J or 19KA; or
-
-[1/2012 wef 01/04/2010]
 
 (b) any dividends which have been exempted from tax in the hands of any shareholder,
 
@@ -986,6 +1048,8 @@ PRODUCTION FOR EXPORT
 
 ## PART VIA
 
+EXPORT OF SERVICES
+
 44A\. [Repealed by Act 33/2010 wef 14/01/2011]
 
 44B\. [Repealed by Act 33/2010 wef 14/01/2011]
@@ -1008,15 +1072,35 @@ PRODUCTION FOR EXPORT
 
 INTERNATIONAL TRADE INCENTIVES
 
-45\. [Repealed by Act 11/2004]
+45\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-56\. [Repealed by Act 11/2004]
+46\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-## PART VIII2
+47\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+48\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+49\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+50\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+51\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+52\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+53\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+54\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+55\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+56\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+## PART VIII\*
 
 FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
-2From year of assessment 1967.
+\*From year of assessment 1967.
 
 ### Application for and issue of approved foreign loan certificate
 
@@ -1038,7 +1122,7 @@ FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
 59\.—(1) Notwithstanding section 43(1) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved foreign loan certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any interest on an approved foreign loan payable to a foreign lender.
 
-[1/95]
+[1/95; 53/2007 Y/A 2008 and sub Y/A]
 
 (2) Where a company has contravened section 58 or any conditions imposed by the Minister under section 57(5), the amount which, but for subsection (1), would have been deductible by the company from the interest paid by it to the foreign lender under section 45 of the Income Tax Act shall be deemed to have been deducted from that interest and shall be a debt due from the company to the Government and be recoverable in the manner provided by section 89 of the Income Tax Act (Cap. 134).
 
@@ -1074,13 +1158,13 @@ ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
 
 Relief conditional on no increase in foreign tax
 
-63\. [Repealed by Act 1/95]
+63\. [Repealed byAct 1/95]
 
 ### Reduction of tax for approved royalties, fees or contributions
 
 64\.—(1) Notwithstanding section 43(1) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved royalties, fees or contributions certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any approved royalties, fees or contributions received by a non-resident person.
 
-[1/95]
+[1/95; 53/2007 Y/A 2008 and sub Y/A]
 
 (2) Where a company has contravened section 62(2) or any condition imposed by the Minister under section 61(3), the amount of tax which, but for subsection (1), would have been deductible by the company from the royalties, fees or contributions paid by it to the non-resident person under section 45A of the Income Tax Act shall be deemed to have been deducted from the royalties, fees and contributions and shall be a debt due from the company to the Government and shall, with the prior sanction of the Minister, be recoverable in the manner provided by section 89 of the Income Tax Act (Cap. 134).
 
@@ -1106,7 +1190,9 @@ INVESTMENT ALLOWANCES
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC,43ZD or 43ZE of the Income Tax Act, or the regulations made under any of those provisions, as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF of the Income Tax Act, or the regulations made under any of those provisions, as the case may be;
+
+[14/2007; 53/2007; 34/2008; 29/2010; 22/2011 wef 01/06/2011]
 
 “concessionary investment allowance” means an investment allowance given to a company for an approved project from which the concessionary income of the company is derived;
 
@@ -1127,6 +1213,8 @@ INVESTMENT ALLOWANCES
 (b) the acquisition of any know-how or patent rights; and
 
 (c) any new productive equipment (and, subject to the approval of the Minister, any secondhand productive equipment) to be used in Singapore and, in relation to any project under section 67(1)(h) or (i), includes any productive equipment to be used outside Singapore as approved under section 67(3);
+
+[14/2007]
 
 “investment day”, in relation to a company, means the date specified in its certificate as the date from which the company shall qualify for the investment allowance;
 
@@ -1156,7 +1244,7 @@ INVESTMENT ALLOWANCES
 
 (c) in the case of any productive equipment to be used in relation to a project under section 67(1)(h) or (i), the company has received delivery of the equipment.
 
-[8/79; 4/98]
+[8/79; 4/98; 14/2007]
 
 ### Capital expenditure investment allowance
 
@@ -1178,6 +1266,8 @@ INVESTMENT ALLOWANCES
 
 (h) for the operation of any space satellite;
 
+[33/2010]
+
 (i) for the provision of maintenance, repair and overhaul services to any aircraft; or
 
 [14/2007 wef 09/09/2004]
@@ -1196,9 +1286,9 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 [8/79]
 
-(3) For the purposes of subsection (2), the Minister may approve any investment allowance in respect of the fixed capital expenditure to be incurred on any productive equipment to be used outside Singapore for any project under subsection (1) (h) or (i).
+(3) For the purposes of subsection (2), the Minister may approve any investment allowance in respect of the fixed capital expenditure to be incurred on any productive equipment to be used outside Singapore for any project under subsection (1)(h) or (i).
 
-[4/98]
+[4/98; 14/2007]
 
 (4) Every certificate issued under this section shall specify a date as the investment day from which the company shall be entitled to an investment allowance under this Part.
 
@@ -1206,7 +1296,7 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 (5) The Minister may, in his discretion, upon the application of a company, amend its certificate by substituting for the investment day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the investment day in relation to that certificate.
 
-(6) Approval under this section shall only be granted during the following periods to a company in respect of any project under subsection (1)(i):
+(6) Approval under this section shall only be granted during the following periods to a company in respect of any project under subsection (1)(i)
 
 (a) between 9th September 2004 and 8th September 2009 (both dates inclusive); and
 
@@ -1332,13 +1422,13 @@ is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for t
 
 (i) the amount shall be deducted from that account; and
 
-(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72), shall be debited accordingly; and
+(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72, shall be debited accordingly; and
 
 (b) where the investment allowance given had been credited to the concessionary investment allowance account —
 
 (i) the amount shall be deducted from that account; and
 
-(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72), shall be debited accordingly.
+(ii) where that account is insufficient to give full effect to the recovery, an assessment or additional assessment in respect of the amount unrecovered shall be made upon the company or any shareholder of the company and the tax exempt account, kept in accordance with section 72, shall be debited accordingly.
 
 [1/95; 11/2004; 48/2004]
 
@@ -1438,33 +1528,77 @@ ought not to have been exempted by reason of the revocation under section 99 of 
 
 WAREHOUSING AND SERVICING INCENTIVES
 
-75\. [Repealed by Act 11/2004]
+75\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-84\. [Repealed by Act 11/2004]
+76\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+77\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+78\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+79\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+80\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+81\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+82\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+83\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+84\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART XII
 
 INTERNATIONAL CONSULTANCY SERVICES
 
-85\. [Repealed by Act 11/2004]
+85\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-92\. [Repealed by Act 11/2004]
+86\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+87\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+88\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+89\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+90\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+91\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+92\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART XIII
 
 INVESTMENTS IN NEW TECHNOLOGY COMPANIES
 
-93\. [Repealed by Act 11/2004]
+93\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-97\. [Repealed by Act 11/2004]
+94\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+95\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+96\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+97\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART XIIIA
 
 OVERSEAS INVESTMENT AND VENTURE CAPITAL INCENTIVES
 
-97A\. [Repealed by Act 11/2004]
+97A\. [Repealed by Act 11/2004 wef 28/04/2004]
 
-97G\. [Repealed by Act 11/2004]
+97B\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+97C\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+97D\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+97E\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+97F\. [Repealed by Act 11/2004 wef 28/04/2004]
+
+97G\. [Repealed by Act 11/2004 wef 28/04/2004]
 
 ## PART XIIIB
 
@@ -1484,31 +1618,31 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (d) technical services including construction, distribution, design and engineering services;
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 (e) consultancy, management, supervisory or advisory services relating to any technical matter or to any trade or business;
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 (f) fabrication of machinery and equipment and procurement of materials, components and equipment;
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 (g) data processing, programming, computer software development, telecommunications and other computer services;
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 (h) professional services including accounting, legal, medical and architectural services;
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 (i) educational and training services; and
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 (j) any other activities or services as may be prescribed;
 
-[33/2010 wef 15/02/2007]
+[33/2010 wef 14/01/2011]
 
 “qualifying income” means —
 
@@ -1612,7 +1746,7 @@ unless the Minister otherwise decides.
 
 97O\. For each year of assessment, the Comptroller shall issue to the overseas enterprise a statement (to be included in a notice of any assessment served on the enterprise under section 76 of the Income Tax Act) showing the amount of qualifying income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
-[36/93]
+[36/93; 34/2008 Y/A 2009 & sub Y/A]
 
 ### Exemption from income tax
 
@@ -2341,6 +2475,16 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|14 January 2011 (Section 6)|
+|48.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 June 2011|
+|49.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+||Date of First Reading|12 November 2012 (Bill No. 39/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|1 June 2011|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
