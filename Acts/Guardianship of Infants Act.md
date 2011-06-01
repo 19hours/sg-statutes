@@ -28,6 +28,8 @@
 
 - [11 Matters to be considered](#Matters-to-be-considered)
 
+- [11A Court to have regard to advice of welfare officers, etc.](#Court-to-have-regard-to-advice-of-welfare-officers-etc)
+
 - [12 Variation of trusts for maintenance of infant](#Variation-of-trusts-for-maintenance-of-infant)
 
 - [13 Production of infant](#Production-of-infant)
@@ -134,6 +136,12 @@ An Act relating to the guardianship of infants.
 
 11\. The court or a judge, in exercising the powers conferred by this Act, shall have regard primarily to the welfare of the infant, and shall, where the infant has a parent or parents, consider the wishes of such parent or both of them, as the case may be.
 
+### Court to have regard to advice of welfare officers, etc.
+
+11A\. When considering any question relating to the custody of any child, the court shall, whenever it is practicable, have regard to the advice of a person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
+
+[2/2011 wef 01/06/2011]
+
 ### Variation of trusts for maintenance of infant
 
 12\. Where an infant is by an order of any court made under this Act removed from the care of any person and that person is entitled under any trust to receive any sum of money in respect of the maintenance of the infant, the court may order the whole or any part of the sum so payable under the trust to be paid to the person to whose care the infant is committed, to be applied by that person for the benefit of the infant in such manner as, having regard to the terms of the trust, the court may direct.
@@ -192,7 +200,7 @@ An Act relating to the guardianship of infants.
 
 \*SeeG.N. No. S 59/86.
 
-[16/1993 wef 01/07/1993]
+[Act 16/93 wef 01/07/1993]
 
 ## LEGISLATIVE HISTORY
 
@@ -223,3 +231,9 @@ This Legislative History is provided for the convenience of users of the Guardia
 |||(Bill No. 12/1993 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|7.|**Act 2 of 2011—Women’s Charter (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 November 2010|
+|||(Bill No. 34/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|1 June 2011|
