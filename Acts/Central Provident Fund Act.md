@@ -2506,15 +2506,23 @@ DIVISION OF FUND-RELATED ASSETS IN MATRIMONIAL PROCEEDINGS
 
 “order of court” means —
 
-(a) an order made under section 112 of the Women’s Charter (Cap. 353) in proceedings for divorce, judicial separation or nullity of marriage under Part X of the Women’s Charter; or
+(a) an order made under section 112 of the Women’s Charter (Cap. 353) in proceedings for divorce, judicial separation or nullity of marriage under Part X of the Women’s Charter;
 
-(b) an order made under section 52(3)(d), (7) or (9) of the Administration of Muslim Law Act (Cap. 3) in proceedings for divorce or nullity of marriage under Part III of that Act;
+[2/2011 wef 01/06/2011]
+
+(b) an order made under section 52(3)(d), (7) or (9) of the Administration of Muslim Law Act (Cap. 3) in proceedings for divorce or nullity of marriage under Part III of that Act; or
+
+[2/2011 wef 01/06/2011]
+
+(c) an order made under section 121G of the Women’s Charter, being an order which the court could have made under section 112 of the Women’s Charter;
 
 [2/2011 wef 01/06/2011]
 
 “public authority” has the same meaning as in section 21(12);
 
 “spouse” includes a former spouse.
+
+[40/2007 wef 01/10/2007]
 
 ### Order of court for transfer or payment of money standing to credit of member
 
@@ -4496,9 +4504,9 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1\. Subject to paragraphs 1A to 7, with effect from 1st March 2011, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1st March 2011, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-1.—(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 55 years of age:
 
 35 Years of Age and below
 
@@ -4664,9 +4672,7 @@ An amount equal to the sum of —
 
 (b) 18% of the amount of the additional wages payable to the employee in the month.
 
-(b)
-
-where the employee is above 55 years of age:
+(b) where the employee is above 55 years of age:
 
 Above 55 but not more than 60 Years of Age
 
@@ -4831,8 +4837,6 @@ An amount equal to the sum of —
 (b) 11% of the amount of the additional wages payable to the employee in the month.
 
 (b) 5% of the amount of the additional wages payable to the employee in the month.
-
-[S 107/2011 wef 01/03/2011]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -6238,11 +6242,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (da) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
 
-[S 107/2011 wef 01/03/2011]
-
 (db) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
-
-[S 107/2011 wef 01/03/2011]
 
 (e) “ordinary wages for the month” means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
 
@@ -6250,11 +6250,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (eb) “permanent resident” means a person who holds a valid entry permit or re-entry permit issued by the Controller of Immigration under the Immigration Act (Cap. 133);
 
-[S 107/2011 wef 01/03/2011]
-
 (ec) “second anniversary month”, in relation to an employee who becomes a permanent resident, means the calendar month in which the second anniversary of the day the employee becomes a permanent resident falls;
-
-[S 107/2011 wef 01/03/2011]
 
 (f) “total amount of employee’s wages for the calendar month” means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
 
@@ -6265,8 +6261,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 6. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following:
 
 (1) The managers of any aided school other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations (Cap. 87, Rg 3).
-
-[S 107/2011 wef 01/03/2011]
 
 (2) Accounting and Corporate Regulatory Authority.
 
@@ -6410,9 +6404,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (70) Urban Redevelopment Authority.
 
-7\. Contributions shall be payable for and recoverable from the wages of such employees who are —
-
-7.
+7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
 (a) employees of the Government;
 
@@ -6421,8 +6413,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 (c) persons employed in an aided school by the managers of the school, other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations (Cap. 87, Rg 3),
 
 at the rates prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011 (G.N. No. S 106/2011).
-
-[S 107/2011 wef 01/03/2011]
 
 SECOND SCHEDULE
 
@@ -7253,6 +7243,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|2 January 2011|
 |176.|**G.N. No. S 107/2011—Central Provident Fund Act (Amendment of First Schedule) Notification 2011**|
 ||Date of commencement|1 March 2011|
+|177.|**Act 2 of 2011—Women’s Charter (Amendment) Act 2011**|
+||(Related amendments made to Act by)||
+||Date of First Reading|22 November 2010|
+|||(Bill No. 34/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|1 June 2011 (Section 15)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
