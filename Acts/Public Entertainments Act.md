@@ -52,7 +52,7 @@
 
 - [23 Rules](#Rules)
 
-[**THE SCHEDULE Meaning of Public Entertainment**](#THE-SCHEDULE)
+[**THE SCHEDULE Meaning of public entertainment**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -396,7 +396,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Section 2(1)
 
-Meaning of Public Entertainment
+Meaning of public entertainment
 
 1. In this Schedule —
 
@@ -444,7 +444,9 @@ in any place to which the public or any class of the public has access whether g
 
 (c) any circus or any exhibition of animals;
 
-(d) any amusement centre, amusement park or fun fair;
+(d) any amusement centre;
+
+[S 349/2011 wef 01/07/2011]
 
 (e) any computer games centre;
 
@@ -506,7 +508,7 @@ Public Entertainments and Meetings Act
 
 (CHAPTER 257)
 
-This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -558,6 +560,8 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second Reading and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (Item 84 of the Sixth Schedule – Amendment of Public Entertainments and Meeting Act)|
+|15.|**G.N. No. S 349/2011—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2011**|
+||Date of commencement|1 July 2011|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
