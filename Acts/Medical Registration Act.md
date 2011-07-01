@@ -60,6 +60,8 @@
 
 - [22 Registration of specialists](#Registration-of-specialists)
 
+- [22A Registration of family physicians](#Registration-of-family-physicians)
+
 - [23 Temporary registration](#Temporary-registration)
 
 - [24 Provisional registration](#Provisional-registration)
@@ -580,6 +582,10 @@ REGISTRATION OF MEDICAL PRACTITIONERS
 
 (b) a register to be called “The Register of Specialists” containing the names of persons registered as specialists under section 22;
 
+(ba) a register to be called “The Register of Family Physicians” containing the names of persons registered as family physicians under section 22A;
+
+[1/2010 wef 01/07/2011]
+
 (c) a register to be called “The Register of Temporarily Registered Medical Practitioners” containing the names of persons who are registered temporarily as medical practitioners under section 23; and
 
 (d) a register to be called “The Register of Provisionally Registered Medical Practitioners” containing the names of persons registered provisionally under section 24.
@@ -704,6 +710,8 @@ shall be entitled to be registered as a medical practitioner with conditional re
 
 [1/2010 wef 01/12/2010]
 
+(5) [Deleted by Act 1/2010 wef 01/12/2010]
+
 (6) The Medical Council may cancel the conditional registration of a medical practitioner if —
 
 (a) the medical practitioner fails to comply with any of the conditions or restrictions specified in the direction by virtue of which he is registered; or
@@ -722,7 +730,7 @@ apply to the Medical Council to be registered as a fully registered medical prac
 
 (8) If the Medical Council thinks fit so to direct, having regard to the knowledge and skill shown and the experience acquired by the applicant referred to in subsection (7), he shall be registered under section 20 as a fully registered medical practitioner.
 
-(9) On a medical practitioner with conditional registration becoming registered otherwise than conditionally , his name shall be removed from Part II of the Register of Medical Practitioners.
+(9) On a medical practitioner with conditional registration becoming registered otherwise than conditionally, his name shall be removed from Part II of the Register of Medical Practitioners.
 
 ### Registration of specialists
 
@@ -759,6 +767,40 @@ in a particular branch or branches of medicine, may apply to the Medical Council
 (iii) any restoration of names to the Register of Specialists; and
 
 (iv) any appeal.
+
+### Registration of family physicians
+
+22A\.—(1) Subject to the provisions of this Act, any person —
+
+(a) who holds such postgraduate degrees or qualifications; or
+
+(b) who has gained such special knowledge of and skill and experience,
+
+in family medicine, may apply to the Medical Council to be registered as a family physician in the Register of Family Physicians.
+
+(2) A person may be registered under subsection (1) as a family physician subject to such conditions or restrictions as the Medical Council may impose.
+
+(3) The Medical Council shall not register any person under subsection (1) as a family physician unless the person has obtained a certificate from the Family Physicians Accreditation Board under section 35B.
+
+(4) The Medical Council may, with the approval of the Minister, make regulations for all or any of the following purposes:
+
+(a) providing for the registration of family physicians;
+
+(b) regulating the recording in, removal from, and restoration to the Register of Family Physicians of the names, particulars and qualifications of persons so registered;
+
+(c) providing for appeals by medical practitioners against any decision of the Medical Council refusing to register them in the Register of Family Physicians or to restore their names to that Register or against any decision of the Medical Council to remove their names from that Register;
+
+(d) prescribing the fees payable in respect of —
+
+(i) any application for registration as a family physician;
+
+(ii) any such registration as a family physician;
+
+(iii) any restoration of names to the Register of Family Physicians; and
+
+(iv) any appeal.
+
+[1/2010 wef 01/07/2011]
 
 ### Temporary registration
 
@@ -2672,8 +2714,6 @@ Master of Medicine, Doctor of Medicine
 
 8. The West China College of Medicine, Sichuan University
 
-Bachelor of Medicine
-
 Master of Medicine, Doctor of Medicine
 
 South Korea
@@ -2816,10 +2856,6 @@ MB ChB
 12. The University of London Medical Schools, as follows:
 
 (a) Kings College London
-
-
-
-
 School of Medicine
 
 MB BS
@@ -2828,7 +2864,7 @@ MB BS
 
 MB BS
 
-(c) Royal Free and University College Medical School
+(c) University College London Medical School — formerly known as Royal Free and University College Medical School
 
 MB BS
 
@@ -3095,6 +3131,7 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|10 August 2010|
 |||1 December 2010|
+|||1 July 2011|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
