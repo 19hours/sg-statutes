@@ -30,6 +30,10 @@
 
 - [12 Effect of suspension or revocation of licence](#Effect-of-suspension-or-revocation-of-licence)
 
+- [12A Registration of employment agency personnel](#Registration-of-employment-agency-personnel)
+
+- [12B Registration cards](#Registration-cards)
+
 - [13 Appeals](#Appeals)
 
 - [14 Fees for services rendered](#Fees-for-services-rendered)
@@ -124,8 +128,6 @@ An Act to provide for the regulation of employment agencies.
 
 “Commissioner” means the Commissioner for Employment Agencies appointed under section 3(1);
 
-[5/2011 wef 01/04/2011]
-
 “employment agency” means any agency or registry carried on or represented as being or intended to be carried on (whether for the purpose of gain or reward or not) for or in connection with the employment of persons in any capacity, but does not include any registry set up by an employer for the sole purpose of recruiting persons for employment on his own behalf;
 
 “employment agency personnel” means any person who performs any work for an employment agency (including work which is not specified employment agency work) for or in connection with the employment of persons in any capacity, and includes —
@@ -134,23 +136,17 @@ An Act to provide for the regulation of employment agencies.
 
 (b) any person who is engaged, whether on a permanent, temporary or contractual basis, by the employment agency to perform such work;
 
-[5/2011 wef 01/04/2011]
-
 “key appointment holder”, in relation to an employment agency, means —
 
 (a) any director, chief executive officer, chief financial officer, chief operating officer, partner or sole-proprietor of the employment agency; or
 
 (b) any person, by whatever name called, who has general control and management of the administration of any specified employment agency work of the employment agency;
 
-[5/2011 wef 01/04/2011]
-
 “licence” means a licence granted under this Act;
 
 “licensee” means the person to whom a licence is granted under this Act;
 
 “partner” includes a partner of a limited liability partnership, a general partner of a limited partnership and a limited partner of a limited partnership;
-
-[5/2011 wef 01/04/2011]
 
 “premises” includes —
 
@@ -163,8 +159,6 @@ An Act to provide for the regulation of employment agencies.
 (d) any vessel, aircraft, train or vehicle (whether mechanically propelled or otherwise) or any other means of transport; and
 
 (e) any part of any premises referred to in paragraphs (a) to (d);
-
-[5/2011 wef 01/04/2011]
 
 “public officer” means a person holding a paid office in the service of the Government;
 
@@ -180,8 +174,6 @@ An Act to provide for the regulation of employment agencies.
 
 (d) facilitation of the placement of any applicant for employment with an employer.
 
-[5/2011 wef 01/04/2011]
-
 ### Appointment of officers
 
 3\.—(1) The Minister may appoint a Commissioner for Employment Agencies who shall have such functions and powers as are conferred on him by this Act.
@@ -194,23 +186,15 @@ An Act to provide for the regulation of employment agencies.
 
 (5) The Commissioner, Deputy Commissioners for Employment Agencies and Assistant Commissioners for Employment Agencies shall have and may exercise and perform all the powers, duties and functions of an employment agency inspector or an employment agency licensing officer conferred by this Act.
 
-[5/2011 wef 01/04/2011]
-
 ### Application
 
 4\.—(1) Nothing in this Act shall apply to any employment agency wholly maintained or wholly managed by any department of the Government.
 
 (2) The Minister may, by order, exempt any person or employment agency, or any class thereof, when performing any type of work or activity as may be stated in the order, from all or any of the provisions of this Act, either absolutely or subject to such conditions as he may think fit to impose.
 
-[5/2011 wef 01/04/2011]
-
 (3) The Minister may, at any time, in his discretion, revoke any exemption order made under subsection (2), or cancel, alter or add to any condition in the exemption order.
 
-[5/2011 wef 01/04/2011]
-
 (4) Without limiting the conditions that may be imposed under subsection (2), the Minister may, when exempting any person or employment agency, or any class thereof, from the requirement for a licence, impose a condition requiring the person or employment agency, or any class thereof, to obtain the approval of the Commissioner to be registered, in such form and manner as the Commissioner may determine, as an exempt person or exempt employment agency, as the case may be.
-
-[5/2011 wef 01/04/2011]
 
 ### Other laws not affected
 
@@ -232,8 +216,6 @@ An Act to provide for the regulation of employment agencies.
 
 unless he is the holder of a licence from the Commissioner authorising him to perform such work or activity.
 
-[5/2011 wef 01/04/2011]
-
 (3) Subsection (2) shall not apply in relation to —
 
 (a) any person who is the holder of a licence referred to in subsection (1);
@@ -242,15 +224,11 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 
 (c) any person who performs such work or activity referred to in subsection (2) for the sole purpose of recruiting persons for employment on his own behalf.
 
-[5/2011 wef 01/04/2011]
-
 (4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
 (b) in the case of a second or subsequent conviction, to a fine not exceeding $160,000 or to imprisonment for a term not exceeding 4 years or to both.
-
-[5/2011 wef 01/04/2011]
 
 ### Application for licence
 
@@ -280,8 +258,6 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 
 (2) Any sum deposited under this section may be forfeited in whole or in part at the discretion of the Commissioner on the revocation of the licence under section 11, or if the Commissioner is satisfied that the licensee has failed to comply with any condition as may be specified by the Commissioner in respect of any security given under subsection (1).
 
-[5/2011 wef 01/04/2011]
-
 [7A
 
 9\. [Deleted by Act 5/2011 wef 01/04/2011]
@@ -300,8 +276,6 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 
 (4) Where the Commissioner has renewed a licence under subsection (3), the renewal shall take effect from the date immediately after the date on which the licence would have expired had it not been renewed.
 
-[5/2011 wef 01/04/2011]
-
 ### Suspension or revocation of licence
 
 11\.—(1) The Commissioner may suspend or revoke a licence if he is satisfied that the licensee —
@@ -316,8 +290,6 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 
 (c) has carried on or is carrying on an employment agency, or has performed or is performing any work or activity referred to in section 6(2), in a manner likely to be detrimental to the interests of the clients of the licensee;
 
-[5/2011 wef 01/04/2011]
-
 (d) has ceased to carry on an employment agency or ceased to perform any work or activity referred to in section 6(2) for which the licensee has been licensed or, if the licensee is a company, goes into liquidation or is wound up or otherwise dissolved;
 
 [5/2011 wef 01/04/2011]
@@ -326,25 +298,13 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 
 (e) has not carried on an employment agency or performed any work or activity referred to in section 6(2), for which the licence is granted, for a continuous period of 6 months;
 
-[5/2011 wef 01/04/2011]
-
 (f) has acted in a manner detrimental to public interest;
-
-[5/2011 wef 01/04/2011]
 
 (g) has committed a criminal offence; or
 
-[5/2011 wef 01/04/2011]
-
 (h) is no longer a fit and proper person to continue to hold the licence.
 
-[5/2011 wef 01/04/2011]
-
-[5/2011 wef 01/04/2011]
-
 (2) The Commissioner may, in his discretion, revoke a licence upon the application for revocation of the licence by the licensee.
-
-[5/2011 wef 01/04/2011]
 
 (3) When the Commissioner has suspended or revoked a licence under subsection (1), he shall forthwith inform the licensee concerned by notice in writing of the suspension or revocation.
 
@@ -361,8 +321,6 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 [7D
 
 (6) The Commissioner may at any time reinstate a licence which has been suspended.
-
-[5/2011 wef 01/04/2011]
 
 ### Effect of suspension or revocation of licence
 
@@ -392,7 +350,73 @@ unless he is the holder of a licence from the Commissioner authorising him to pe
 
 (b) in the case of a second or subsequent conviction, to a fine not exceeding $160,000 or to imprisonment for a term not exceeding 4 years or to both.
 
-[5/2011 wef 01/04/2011]
+### Registration of employment agency personnel
+
+12A\.—(1) Any licensee shall, before permitting or authorising any employment agency personnel to perform any specified employment agency work, apply to the Commissioner for the employment agency personnel to be registered as such.
+
+(2) Any application under subsection (1) shall be in such form as the Commissioner may require, and be accompanied by the prescribed registration fee.
+
+(3) Upon receiving an application under subsection (1), the Commissioner shall consider the application and may grant the application or refuse to grant the application.
+
+(4) The Commissioner may, before or after granting the application, require the employment agency personnel to be certified as having attended or successfully completed, to the satisfaction of the Commissioner, such courses as the Commissioner may determine.
+
+(5) The Commissioner may, in any particular case if he thinks fit, grant the application notwithstanding that the employment agency personnel has not satisfied such requirements of the Commissioner under subsection (4).
+
+(6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(7) Any person who performs any specified employment agency work when he knows or ought reasonably to have known that he is not registered in accordance with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(8) Where any employment agency personnel of a licensee —
+
+(a) has ceased to be engaged by the licensee; or
+
+(b) has ceased to perform all specified employment agency work upon the request of the employment agency personnel or the instruction of the licensee, notwithstanding that the employment agency personnel concerned is still engaged by the licensee,
+
+the licensee concerned shall, within such time as may be prescribed, apply to the Commissioner, using such form as the Commissioner may require, to de-register the employment agency personnel.
+
+(9) Upon receiving an application under subsection (8) —
+
+(a) in a case where the application is accompanied by the written consent of the employment agency personnel referred to in that subsection stating that he wishes to be de-registered, the Commissioner shall grant the application for de-registration; or
+
+(b) in any other case, the Commissioner may grant or refuse to grant the application for de-registration.
+
+(10) The Commissioner may, in any particular case if he thinks fit, de-register any employment agency personnel.
+
+(11) Any licensee who contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(12) A licensee shall remain liable for any act, omission, neglect or default of a person in relation to any specified employment agency work performed by that person who —
+
+(a) has ceased to be engaged by the licensee to perform such work; and
+
+(b) continues to be registered as an employment agency personnel of the licensee,
+
+unless the licensee has applied to de-register the person in accordance with subsection (8).
+
+[5/2011 wef 01/07/2011]
+
+### Registration cards
+
+12B\. (1) Upon the registration of an employment agency personnel under section 12A, the licensee concerned shall issue a registration card to the employment agency personnel in such form as may be prescribed.
+
+(2) Any person who —
+
+(a) forges or unlawfully alters a registration card;
+
+(b) uses or has in his possession any forged or unlawfully altered registration card;
+
+(c) uses a registration card which is not issued to him; or
+
+(d) without reasonable excuse, gives or sells any registration card,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) Any licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $1,000; and
+
+(b) in respect of a second or subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[5/2011 wef 01/07/2011]
 
 ### Appeals
 
@@ -416,8 +440,6 @@ may, within 14 days of the date of receipt of the notice of such decision, appea
 
 (4) A power so delegated, when exercised by the delegate, shall for the purposes of this section be deemed to have been exercised by the Minister.
 
-[5/2011 wef 01/04/2011]
-
 ### Fees for services rendered
 
 14\.—(1) It shall be lawful for a licensee to charge and receive such fees as may be prescribed from time to time.
@@ -439,8 +461,6 @@ may, within 14 days of the date of receipt of the notice of such decision, appea
 (c) as a financial guarantee related, whether directly or indirectly, to the employment of a person as the employee of the employer or prospective employer.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[5/2011 wef 01/04/2011]
 
 16\. [Deleted by Act 5/2011 wef 01/04/2011]
 
@@ -480,8 +500,6 @@ that person shall be deemed, for the purposes of section 23(4), to obstruct an e
 
 (4) Every employment agency inspector shall have authority to appear in court and may, with the authorisation of the Public Prosecutor, conduct any prosecution in respect of any offence under this Act.
 
-[5/2011 wef 01/04/2011]
-
 ### Power to arrest without warrant
 
 19\.—(1) Any police officer or employment agency inspector may arrest without warrant any person whom he reasonably believes to be carrying on an employment agency or performing any work or activity referred to in section 6(2) without a licence.
@@ -492,15 +510,11 @@ that person shall be deemed, for the purposes of section 23(4), to obstruct an e
 
 (4) Any person who has been arrested by an employment agency inspector may be released on bail, or on his own bond.
 
-[5/2011 wef 01/04/2011]
-
 ### Arrest how made
 
 19A\.—(1) In making an arrest, an employment agency inspector making the arrest shall touch or confine the body of the person to be arrested unless the person submits to arrest by word or action.
 
 (2) If the person forcibly resists or tries to evade arrest, the employment agency inspector may use all means necessary to effect the arrest.
-
-[5/2011 wef 01/04/2011]
 
 ### No unnecessary restraint
 
@@ -518,33 +532,23 @@ that person shall be deemed, for the purposes of section 23(4), to obstruct an e
 
 (3) The handcuffs or means of restraint shall not be used for the purpose of punishment.
 
-[5/2011 wef 01/04/2011]
-
 ### Search of persons arrested
 
 19C\.—(1) When a person is arrested, the employment agency inspector making the arrest may search the person and take possession of all articles (other than necessary wearing apparel) found upon the person that the employment agency inspector has reason to believe were connected with the offence for which the person was being arrested.
 
 (2) Whenever it is necessary to cause a person to be searched, the search shall be made by an employment agency inspector of the same sex as the person, with strict regard to decency.
 
-[5/2011 wef 01/04/2011]
-
 ### Employment agency inspector to be armed
 
 19D\. Every employment agency inspector shall be provided with such batons and accoutrements as may be necessary for the effective discharge of his duties.
-
-[5/2011 wef 01/04/2011]
 
 ### Power to seize offensive weapons
 
 19E\. An employment agency inspector making any arrest may take from the person arrested any offensive weapons which he has about his person.
 
-[5/2011 wef 01/04/2011]
-
 ### Power on escape to pursue and arrest
 
 19F\. If a person in lawful custody escapes or is rescued, the employment agency inspector from whose custody he escaped or was rescued may immediately pursue and arrest him in any place within Singapore and deal with that person as he might have done on the original arrest.
-
-[5/2011 wef 01/04/2011]
 
 ### Disposal of documents or articles
 
@@ -566,13 +570,9 @@ that person shall be deemed, for the purposes of section 23(4), to obstruct an e
 
 (3) Nothing in this section shall be taken to prejudice any right to retain or dispose of property which may exist in law apart from this section.
 
-[5/2011 wef 01/04/2011]
-
 ### Complaint by employment agency inspector
 
 19H\. For the purpose of section 151 of the Criminal Procedure Code 2010 (Act 15 of 2010) on receiving the complaint in writing and signed by any employment agency inspector, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of that Code.
-
-[5/2011 wef 01/04/2011]
 
 ### Power to enter and inspect premises
 
@@ -590,13 +590,9 @@ that person shall be deemed, for the purposes of section 23(4), to obstruct an e
 
 (b) any of the partners, where the employment agency is a partnership, limited liability partnership or limited partnership.
 
-[5/2011 wef 01/04/2011]
-
 ### Furnishing false information
 
 22\. Any person who makes any statement or furnishes any information to the Commissioner or any officer authorised under this Act which he knows or ought reasonably to know is false in any material particular or is misleading by reason of the omission of any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[5/2011 wef 01/04/2011]
 
 ### Offence for persons to engage unlicensed persons
 
@@ -605,8 +601,6 @@ that person shall be deemed, for the purposes of section 23(4), to obstruct an e
 (2) In any proceedings for an offence under subsection (1), it shall not be a defence for a defendant to prove that he did not know that the person has not obtained a licence as required under section 6 unless the defendant further proves that he had exercised due diligence to ascertain the status of such person.
 
 (3) For the purpose of subsection (2), a defendant shall not be deemed to have exercised due diligence unless he had verified, in such manner as may be prescribed, that the person referred to in that subsection has obtained a licence as required under section 6.
-
-[5/2011 wef 01/04/2011]
 
 ### Offence for licensed employment agencies to make certain applications
 
@@ -627,8 +621,6 @@ the licensee and the employment agency personnel shall each be guilty of an offe
 (3) In any proceedings for an offence under subsection (1), it shall not be a defence for a defendant to prove that he did not know that the person has not obtained a licence as required under section 6 unless the defendant further proves that he had exercised due diligence to ascertain the status of such person.
 
 (4) For the purpose of subsection (3), a defendant shall not be deemed to have exercised due diligence unless he had verified, in such manner as may be prescribed, that the person referred to in that subsection has obtained a licence as required under section 6.
-
-[5/2011 wef 01/04/2011]
 
 ### Disqualification of key appointment holders or employment agency personnel
 
@@ -654,8 +646,6 @@ shall not, without the consent in writing of the Commissioner, act or continue t
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[5/2011 wef 01/04/2011]
-
 ### Miscellaneous offences
 
 23\.—(1) Where any employment agency personnel of a licensee, directly or indirectly, charges or receives for his services any sum greater than the prescribed fee, the licensee and the employment agency personnel shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in respect of a second or subsequent offence, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
@@ -668,13 +658,9 @@ shall not, without the consent in writing of the Commissioner, act or continue t
 
 (5) Any licensee who contravenes any of the conditions of the licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[5/2011 wef 01/04/2011]
-
 ### Certain offences deemed to be arrestable offences
 
 24\. Every offence under section 6(4) shall be deemed to be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
-
-[5/2011 wef 01/04/2011]
 
 ### Officers to be public servants
 
@@ -685,8 +671,6 @@ shall not, without the consent in writing of the Commissioner, act or continue t
 ### Employment agency deemed to be public place
 
 26\. For the purposes of section 18 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184), the premises of every employment agency shall be deemed to be a public place.
-
-[5/2011 wef 01/04/2011]
 
 ### Right of hearing
 
@@ -742,13 +726,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate, limited liability partnership or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
-[5/2011 wef 01/04/2011]
-
 ### Abetment
 
 28B\. Any person who abets the commission of an offence under this Act shall be guilty of the offence and shall be liable on conviction to be punished with the punishment provided for that offence.
-
-[5/2011 wef 01/04/2011]
 
 ### Composition of offences
 
@@ -760,19 +740,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-[5/2011 wef 01/04/2011]
-
 ### Protection from personal liability
 
 28D\. No suit or other legal proceedings shall lie against the Commissioner or any public officer acting under the direction of the Commissioner for anything which is done with reasonable care and in good faith in the execution or purported execution of this Act.
 
-[5/2011 wef 01/04/2011]
-
 ### Jurisdiction of court
 
 28E\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
-
-[5/2011 wef 01/04/2011]
 
 ### Registers
 
@@ -792,8 +766,6 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (4) Any extract taken under subsection (3), if certified by the Commissioner to be a true copy, shall be admissible as evidence in any legal proceedings.
 
-[5/2011 wef 01/04/2011]
-
 ### Power to make rules
 
 29\.—(1) The Minister may make rules for carrying out the purposes of this Act and in particular and without prejudice to the generality of the foregoing powers he may make rules to prescribe —
@@ -802,19 +774,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (b) the manner, circumstances and conditions under which licences may be granted to persons for the purpose of operating employment agencies or for performing any work or activity referred to in section 6(2);
 
-[5/2011 wef 01/04/2011]
-
 (c) the fees payable to licensees by applicants for employment and applicants for employees;
 
 [30/2007 wef 01/07/2007]
 
 (d) the fees payable for the application, grant and renewal of licences;
 
-[5/2011 wef 01/04/2011]
-
 (da) the fee payable for the registration of employment agency personnel;
-
-[5/2011 wef 01/04/2011]
 
 (e) the forms of licence, applications for the grant or renewal of licences, registers and monthly returns;
 
@@ -834,23 +800,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (i) the kind and amount of security required to be given under this Act, and the circumstances and conditions under which the amount of security may be varied;
 
-[5/2011 wef 01/04/2011]
-
 (j) the form of the registration card to be issued by a licensee;
-
-[5/2011 wef 01/04/2011]
 
 (k) the imposition of any requirement, restriction or prohibition on licensees or employment agency personnel in relation to the carrying on of any employment agency, or the performance of any work or activity referred to in section 6(2);
 
-[5/2011 wef 01/04/2011]
-
 (l) any matter relating to the release of any arrested person on any bail or bond under this Act; and
 
-[5/2011 wef 01/04/2011]
-
 (m) anything that is required or permitted to be prescribed under this Act.
-
-[5/2011 wef 01/04/2011]
 
 (2) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
@@ -891,3 +847,4 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 37/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|11 January 2011|
 ||Dates of commencement|1 April 2011 (except section 12)|
+|||1 July 2011 (section 12)|
