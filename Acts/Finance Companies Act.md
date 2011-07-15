@@ -94,7 +94,7 @@
 
 - [34 Finance company unable to meet obligation to inform Authority](#Finance-company-unable-to-meet-obligation-to-inform-Authority)
 
-- [35 Action by Authority if finance company is unable to meet obligations or is conducting business to the detriment of its depositors or creditors](#Action-by-Authority-if-finance-company-is-unable-to-meet-obligations-or-is-conducting-business-to-the-detriment-of-its-depositors-or-creditors)
+- [35 Action by Authority if finance company is unable to meet obligations or is conducting business to detriment of its depositors or creditors](#Action-by-Authority-if-finance-company-is-unable-to-meet-obligations-or-is-conducting-business-to-detriment-of-its-depositors-or-creditors)
 
 - [36 Powers of Authority](#Powers-of-Authority)
 
@@ -134,7 +134,7 @@
 
 - [51 Holding out as finance company](#Holding-out-as-finance-company)
 
-- [52 Fiat of Attorney-General](#Fiat-of-Attorney-General)
+- [52 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [52A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
@@ -158,9 +158,9 @@
 
 (Original Enactment: Act 43 of 1967)
 
-REVISED EDITION 2000
+REVISED EDITION 2011
 
-(30th December 2000)
+(15th July 2011)
 
 An Act to license and control finance companies and for matters connected therewith.
 
@@ -206,13 +206,13 @@ PRELIMINARY
 
 (a) borrowing money from the public, by acceptance of deposits and issuing certificates or other documents acknowledging or evidencing indebtedness to the public and undertaking to repay the money on call or after an agreed maturity period; and
 
-(b) lending money to the public or to a company deemed to be related to the finance company by virtue of section 6 of the Companies Act (Cap. 50) (referred to in this Act as the related company) on the basis that the public or the related company undertakes to repay the money, whether within an agreed period of time or not, or by instalments,
+(b) lending money to the public or to a company deemed to be related to the finance company by virtue of section 6 of the Companies Act (referred to in this Act as the related company) on the basis that the public or the related company undertakes to repay the money, whether within an agreed period of time or not, or by instalments,
 
 and includes the business of financing hire-purchase transactions arising out of hire-purchase agreements, as defined in the Hire-Purchase Act (Cap. 125), where the money used, or to be used, for such business is borrowed from the public and such other business as the Authority may prescribe for the purposes of this Act;
 
 “Government securities” has the same meaning as in the Government Securities Act (Cap. 121A);
 
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
 “officer”, in relation to a corporation, includes —
 
@@ -222,7 +222,7 @@ and includes the business of financing hire-purchase transactions arising out of
 
 (c) the liquidator of the corporation appointed in a voluntary winding up;
 
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
+“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act;
 
 “person” includes a corporation;
 
@@ -232,7 +232,7 @@ and includes the business of financing hire-purchase transactions arising out of
 
 “share”, in relation to a finance company, means a share in the share capital of the finance company and includes an interest in such a share.
 
-[33/84; 27/94]
+[33/84; 27/94; 5/2005]
 
 ## PART II
 
@@ -262,7 +262,7 @@ LICENSING OF FINANCE COMPANIES
 
 (3) Upon the conviction of any person under subsection (2), the court shall have power to order the production of any books, accounts and records to the Authority.
 
-[9/2003 wef 16/05/2003]
+[9/2003]
 
 (4) Any person failing to comply with any order under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
@@ -384,7 +384,7 @@ unless all the new substantial shareholders are finance companies each with capi
 
 and the decision of the Authority shall be final.
 
-(4) Any finance company that fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues.
+(4) Any finance company which fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues.
 
 [33/84]
 
@@ -510,11 +510,11 @@ and the finance company shall comply with that direction within such time as is 
 
 [33/84]
 
-(2) For the purposes of this section, “voting shares” has the same meaning as in the Companies Act.
+(2) For the purposes of this section, “voting shares” has the same meaning as in the Companies Act (Cap. 50).
 
 [33/84]
 
-(3) A finance company that fails to comply with a direction under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(3) A finance company which fails to comply with a direction under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [33/84]
 
@@ -556,9 +556,7 @@ and the finance company shall comply with that direction within such time as is 
 
 (v) is contravening or has contravened the provisions of this Act;
 
-[31/2005 wef 18/10/2005]
-
-(vi) is contravening or has contravened any provision of the Deposit Insurance Act 2005 or any rules issued by the deposit insurance agency under the Deposit Insurance Act 2005; and
+(vi) is contravening or has contravened any provision of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 (Act 15 of 2011) or any Rules issued by the deposit insurance and policy owners’ protection fund agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011; and
 
 (c) may, also in its discretion, by order, revoke the licence of a finance company —
 
@@ -566,7 +564,7 @@ and the finance company shall comply with that direction within such time as is 
 
 (ii) if, upon taking action under section 35(2), it considers it in the public interest to do so.
 
-[33/84]
+[33/84; 31/2005; 15/2011]
 
 (2) Before revoking any licence, the Authority shall give the finance company notice in writing of its intention to do so, specifying a date, not less than 21 days after the date of the notice, upon which the revocation will take effect and calling upon the finance company to show cause to the Authority why the licence should not be revoked.
 
@@ -658,7 +656,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [27/94]
 
-(7) Any finance company which fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+(7) Any finance company which fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
 [27/94]
 
@@ -668,7 +666,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (2) Nothing in this Act shall authorise the Authority to enquire specifically into the affairs of an individual depositor of a finance company and any information relating to the affairs of that individual depositor obtained by the Authority in the course of an inspection or investigation made under this Act shall be secret between the Authority and that finance company.
 
-(3) Every finance company that fails or neglects to furnish any information required by the Authority under subsection (1) within the time specified by the Authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 for every day during which the default continues after conviction.
+(3) Every finance company which fails or neglects to furnish any information required by the Authority under subsection (1) within the time specified by the Authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 for every day during which the default continues after conviction.
 
 [33/84]
 
@@ -690,7 +688,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (g) any individual in whom, and any firm or limited liability partnership or company in which, any of the directors of the finance company has, directly or indirectly, such interest as is required to be declared under section 21B, other than those advances, loans and credit facilities, the particulars of which have been supplied under paragraphs (a) to (f).
 
-[27/94]
+[27/94; 5/2005]
 
 (2) Where it appears to the Authority, on examination of the particulars supplied by a finance company under subsection (1), that any advance, loan or credit facility has been or may be granted to the detriment of the interests of the depositors of the finance company (referred to in this subsection as the advance, loan or credit facility), the Authority may as it thinks fit by notice in writing —
 
@@ -724,15 +722,11 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (a) it specifies the nature and extent of his interest in the particular company, firm or limited liability partnership;
 
-[5/2005 wef 11/04/2005]
-
 (b) his interest is not different in nature or greater in extent than the nature and extent so specified in the notice at the time any advance, loan or credit facility is made; and
 
 (c) it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
 
-[27/94]
-
-[5/2005 wef 11/04/2005]
+[27/94; 5/2005]
 
 (4) Every director of a finance company who holds any office or possesses any property whereby, directly or indirectly, duties or interests might be created in conflict with his duties or interests as director shall declare at a meeting of the directors of that finance company the fact and the nature, character and extent of such conflict.
 
@@ -818,13 +812,11 @@ REGULATION OF BUSINESS
 
 (ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
 
-(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act 2001, and the subsidiaries of such public company; or
-
-[42/2001 wef 01/10/2002]
+(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act (Cap. 289), and the subsidiaries of such public company; or
 
 (d) a corporation that is deemed to be related to the finance company as described in section 6 of the Companies Act (Cap. 50).
 
-[27/94]
+[27/94; 42/2001; 5/2005]
 
 (6) In this section —
 
@@ -862,7 +854,7 @@ REGULATION OF BUSINESS
 
 25\.—(1) No finance company shall engage, whether on its own account or on a commission basis, and whether alone or with others, in the wholesale or retail trade, including the import or export trade, except for the purpose of carrying on its financing business.
 
-(2) Except as provided in this Act, a finance company shall not carry on any kind of business other than financing business.
+(2) Except as is otherwise provided in this Act, a finance company shall not carry on any kind of business other than financing business.
 
 ### Restrictions on investments by finance companies
 
@@ -888,7 +880,7 @@ REGULATION OF BUSINESS
 
 (3) This section shall not apply to such property as may from time to time be approved by the Authority.
 
-(4) The Registrar of Titles in issuing any certificate of title or registering any assurance in the Registry of Titles and Deeds or any purchaser shall be exonerated from enquiring as to any matter or fact relating to the title of a finance company to, or to the power of a finance company in dealing with, any immovable property, or any right, title and interest therein, which has been purchased or acquired in contravention of the prohibition contained in this section and shall be protected from the effect of notice of any such matter or fact.
+(4) The Registrar of Titles in issuing any certificate of title or registering any assurance in the Land Titles Registry or any purchaser shall be exonerated from enquiring as to any matter or fact relating to the title of a finance company to, or to the power of a finance company in dealing with, any immovable property, or any right, title and interest therein, which has been purchased or acquired in contravention of the prohibition contained in this section and shall be protected from the effect of notice of any such matter or fact.
 
 ### Control over finance companies in the acquisition of shares in companies
 
@@ -912,7 +904,7 @@ REGULATION OF BUSINESS
 
 [33/84]
 
-(6) A finance company that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(6) A finance company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 [33/84]
 
@@ -926,7 +918,7 @@ REGULATION OF BUSINESS
 
 [33/84]
 
-(3) A finance company that fails to comply with any requirement of the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues after conviction.
+(3) A finance company which fails to comply with any requirement of the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues after conviction.
 
 [33/84]
 
@@ -1022,7 +1014,7 @@ MINIMUM LIQUID ASSETS
 
 [27/94; 37/98]
 
-(5) Any finance company that fails to comply with any requirement of this section shall be liable, on being called upon to do so by the Authority (in addition to any other penalty that may be imposed under this Act), to pay a penalty interest charge of $100 per day or such larger amount as the Authority may determine for every day during which the default continues and shall not while the default continues accept any deposits or enter into new commitments without the approval of the Authority.
+(5) Any finance company which fails to comply with any requirement of this section shall be liable, on being called upon to do so by the Authority (in addition to any other penalty that may be imposed under this Act), to pay a penalty interest charge of $100 per day or such larger amount as the Authority may determine for every day during which the default continues and shall not while the default continues accept any deposits or enter into new commitments without the approval of the Authority.
 
 [33/84]
 
@@ -1052,15 +1044,13 @@ INSPECTION AND CONTROL OF FINANCE COMPANIES
 
 [33/84]
 
-[33/84]
-
 ### Finance company unable to meet obligation to inform Authority
 
 34\. Any finance company that considers that it is likely to become unable to meet its obligations or is about to suspend payments shall forthwith inform the Authority of such fact.
 
 [33/84]
 
-### Action by Authority if finance company is unable to meet obligations or is conducting business to the detriment of its depositors or creditors
+### Action by Authority if finance company is unable to meet obligations or is conducting business to detriment of its depositors or creditors
 
 35\.—(1) Where —
 
@@ -1108,9 +1098,7 @@ the Authority may exercise one or more of the powers specified in subsection (2)
 
 (c) apply to the High Court for the winding up of the finance company by the High Court.
 
-[42/2005 wef 01/04/2006]
-
-[33/84]
+[33/84; 42/2005]
 
 ### Duration of control
 
@@ -1154,7 +1142,7 @@ SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS
 
 ### Appointment and duties of auditors
 
-41\.—(1) Notwithstanding the provisions of the Companies Act, every finance company shall appoint annually an auditor approved by the Authority.
+41\.—(1) Notwithstanding the provisions of the Companies Act (Cap. 50), every finance company shall appoint annually an auditor approved by the Authority.
 
 [33/84]
 
@@ -1230,21 +1218,33 @@ MISCELLANEOUS
 
 44\.—(1) Where a finance company becomes unable to meet its obligations or becomes insolvent or suspends payment, the assets of the finance company shall be available to meet the liabilities in Singapore of the finance company specified in section 44A.
 
+[31/2005]
+
 (2) The liabilities in Singapore specified in section 44A shall have priority over all unsecured liabilities of the finance company other than the preferential debts specified in section 328(1) of the Companies Act (Cap. 50).
+
+[31/2005]
 
 ### Priority of specified liabilities inter se
 
 44A\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a finance company, the following liabilities in Singapore of the finance company shall, amongst themselves, rank in the following order of priority:
 
-(a) firstly, any premium contributions due and payable by the finance company under the Deposit Insurance Act 2005;
+(a) firstly, any premium contributions due and payable by the finance company under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 (Act 15 of 2011);
 
-(b) secondly, liabilities incurred by the finance company under the Deposit Insurance Act 2005 in respect of insured deposits, up to the amount of compensation paid or payable out of the Fund by the Agency under the Deposit Insurance Act 2005 in respect of such insured deposits.
+(b) secondly, liabilities incurred by the finance company under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of insured deposits, up to the amount of compensation paid or payable out of the DI Fund by the Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such insured deposits.
+
+[31/2005; 15/2011]
 
 (2) The liabilities in each class specified in subsection (1) shall —
 
 (a) rank in the order specified but as between liabilities of the same class, such liabilities shall rank equally between themselves; and
 
 (b) be paid in full unless the assets of the finance company are insufficient to meet them in which case they shall abate in equal proportions between themselves.
+
+[31/2005]
+
+(3) In this section, “Agency” and “DI Fund” have the same respective meanings as in section 2(1) of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
+
+[15/2011]
 
 ### Moratorium
 
@@ -1290,7 +1290,7 @@ but whose memorandum or articles of association do not include all or any of the
 
 [33/84]
 
-(2) The Authority may, without instituting proceedings against any person for any offence under this Act, or any regulations made thereunder, which is punishable only by a fine or a default penalty, demand and receive the amount of such fine or default penalty or such reduced amount as he thinks fit from that person, whereupon —
+(2) The Authority may, without instituting proceedings against any person for any offence under this Act, or any regulations made thereunder, which is punishable only by a fine or a default penalty, demand and receive the amount of such fine or default penalty or such reduced amount as the Authority thinks fit from that person, whereupon —
 
 (a) if that person pays such amount to the Authority within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; and
 
@@ -1306,9 +1306,7 @@ but whose memorandum or articles of association do not include all or any of the
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[9/2003 wef 16/05/2003]
-
-[33/84]
+[33/84; 9/2003]
 
 (2) In any proceedings against a person under subsection (1), it shall be a defence to prove that he had reasonable grounds to believe and did believe that a competent and reliable person was charged with the duty of securing compliance with the provisions of this Act or any order made under this Act or any other written law relating to finance companies in Singapore or with the duty of securing that those statements were accurate and correct and that the person was in a position to discharge that duty.
 
@@ -1332,15 +1330,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 51\. Where any public or private company or firm or limited liability partnership holds itself out to be a licensed finance company when it is not licensed under this Act, such company or firm or limited liability partnership shall be guilty of an offence and every director, manager or every officer of that company and the proprietor or every partner or officer of that firm and every partner or manager of the limited liability partnership shall, unless he proves that such holding out by the company or firm or limited liability partnership was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[33/84]
+[33/84; 5/2005]
 
-### Fiat of Attorney-General
+### Consent of Public Prosecutor
 
-52\. No prosecution in respect of any offence under this Act shall be instituted except by, or under the direction of, the Attorney-General acting upon a complaint made by the Authority.
+52\. No prosecution in respect of any offence under this Act shall be instituted except by, or with the consent of, the Public Prosecutor acting upon a complaint made by the Authority.
+
+[15/2010]
 
 ### Jurisdiction of District Court
 
-52A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+52A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003]
 
 ### Exemptions
 
@@ -1348,17 +1350,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) any bank licensed under the Banking Act (Cap. 19); or
 
-[23/2008 wef 20/10/2008]
-
 (b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222).
 
-[23/2008 wef 20/10/2008]
-
-[37/98]
+[37/98; 23/2008]
 
 (1A) Every co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62) to provide financial services shall, to the extent that such services amount to financing business, be exempt from section 3 in respect of such services.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) Notwithstanding the provisions of this Act, the Authority may exempt any finance company from all or any of the provisions of this Act.
 
@@ -1368,13 +1366,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) a company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Authority; and
 
-[42/2005 wef 01/04/2006]
-
 (b) the court may order the winding up of a company if —
 
 (i) the company has held a licence under this Act and that licence has expired or has been revoked; or
 
 (ii) the company has carried on financing business in Singapore in contravention of the provisions of this Act.
+
+[42/2005]
 
 (2) In the winding up of a company that has been carrying on financing business, the depositors shall be deemed to be holders of debentures issued to them by the company and secured by a floating charge over all the property and undertaking of the company.
 
@@ -1392,7 +1390,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Operation of Act not to affect Companies Act
 
-56\. Nothing in this Act shall affect the operation of the Companies Act, and any company that is liable to be incorporated under that Act shall continue to be so liable as if this Act had not been passed but in case of conflict between that Act and this Act the provisions of this Act shall prevail unless otherwise provided in this Act.
+56\. Nothing in this Act shall affect the operation of the Companies Act (Cap. 50), and any company that is liable to be incorporated under that Act shall continue to be so liable as if this Act had not been passed but in case of conflict between that Act and this Act the provisions of this Act shall prevail unless otherwise provided in this Act.
 
 ### Regulations
 
@@ -1517,6 +1515,8 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 10/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
+|21.|**2011 Revised Edition—Finance Companies Act**|
+||Date of operation|15 July 2011|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
@@ -1531,45 +1531,45 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1995 Ed\. 
 
-5 — (1) and (2)
+5 —(1) and (2)
 
-5 — (1)
+5 —(1)
 
 (3) and (4)
 
 (2)
 
-6 — (8)
+6 —(8)
 
 6A 
 
-Omitted—Spent
+Omitted — Spent
 
-7A — (3)
+7A —(3)
 
-7A — (3)
+7A —(3)
 
-7A — (4)
+7A —(4)
 
-14 — (3) and (4)
+14 —(3) and (4)
 
-14 — (3)
+14 —(3)
 
 (5)
 
 (4)
 
-17 — (1) and (2)
+17 —(1) and (2)
 
 17 
 
-Omitted—Spent
+Omitted — Spent
 
-23 — (3)
+23 —(3)
 
-23 — (3)
+23 —(3)
 
-23 — (4)
+23 —(4)
 
 (4)
 
@@ -1587,9 +1587,9 @@ Omitted—Spent
 
 (8)
 
-27 — (1) and (2)
+27 —(1) and (2)
 
-27 — (1)
+27 —(1)
 
 (3)
 
@@ -1599,9 +1599,9 @@ Omitted—Spent
 
 (3)
 
-28 — (3) and (4)
+28 —(3) and (4)
 
-28 — (3)
+28 —(3)
 
 (5)
 
@@ -1614,8 +1614,4 @@ Omitted—Spent
 Repealed by Act 25/99
 
 33A 
-
-Repealed by Act 25/99
-
-33B 
 
