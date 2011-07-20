@@ -1028,7 +1028,7 @@ Published by Authority
 
 NO. 13]
 
-Tuesday, January 12
+Tuesday, September 28
 
 [2010
 
@@ -5652,9 +5652,11 @@ then, if the court is satisfied that it is expedient for the protection of the p
 
 (a) of or above the age of 16 years but below the age of 21 years; or
 
-(b) of or above the age of 14 years but below the age of 16 years and has, before that conviction, been dealt with by a court in connection with another offence and had, for that offence, been ordered to be sent to an approved school established under section 64 of the Children and Young Persons Act (Cap. 38),
+(b) of or above the age of 14 years but below the age of 16 years and has, before that conviction, been dealt with by a court in connection with another offence and had, for that offence, been ordered to be sent to a juvenile rehabilitation centre established under section 64 of the Children and Young Persons Act (Cap. 38),
 
 the court may impose a sentence of reformative training in lieu of any other sentence if it is satisfied, having regard to his character, previous conduct and the circumstances of the offence, that to reform him and to prevent crime he should undergo a period of training in a reformative training centre.
+
+[Act 3 of 2011 wef 20/07/2011]
 
 (2) Where a young person has been ordered by a Juvenile Court under the Children and Young Persons Act to be brought before a District Court, then the court must inquire into the circumstances of the case and may —
 
