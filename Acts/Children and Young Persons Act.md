@@ -14,9 +14,13 @@
 
 - [3 Appointment of Director of Social Welfare and other officers](#Appointment-of-Director-of-Social-Welfare-and-other-officers)
 
-[**Part II PROTECTION OF CHILDREN AND YOUNG PERSONSWELFARE**](#Part-II)
+- [3A Principles](#Principles)
 
-- [4 When child or young person in need of care and protection](#When-child-or-young-person-in-need-of-care-and-protection)
+[**Part II PROTECTION OF CHILDREN AND YOUNG PERSONS**](#Part-II)
+
+[**Welfare**](#Welfare)
+
+- [4 When child or young person in need of care or protection](#When-child-or-young-person-in-need-of-care-or-protection)
 
 - [5 Ill-treatment of child or young person](#Ill-treatment-of-child-or-young-person)
 
@@ -26,7 +30,11 @@
 
 - [8 Protector’s power to obtain information](#Protector’s-power-to-obtain-information)
 
-- [9 Power to remove child or young person to place of safety, etc.](#Power-to-remove-child-or-young-person-to-place-of-safety-etc)
+- [8A Power to order child or young person to be produced for assessment or treatment, etc.](#Power-to-order-child-or-young-person-to-be-produced-for-assessment-or-treatment-etc)
+
+- [9 Power to remove child or young person to place of temporary care and protection, etc.](#Power-to-remove-child-or-young-person-to-place-of-temporary-care-and-protection-etc)
+
+- [9A Assessment, examination and treatment of child or young person, etc.](#Assessment-examination-and-treatment-of-child-or-young-person-etc)
 
 - [10 Warrant to search for or remove child or young person](#Warrant-to-search-for-or-remove-child-or-young-person)
 
@@ -66,7 +74,9 @@
 
 - [26 Powers of District Court](#Powers-of-District-Court)
 
-- [27 Provision of places of safety](#Provision-of-places-of-safety)
+- [27 Provision of places of temporary care and protection](#Provision-of-places-of-temporary-care-and-protection)
+
+- [27A Restriction on publication of information leading to identification of child or young person who is subject of investigation, etc.](#Restriction-on-publication-of-information-leading-to-identification-of-child-or-young-person-who-is-subject-of-investigation-etc)
 
 [**Part III JUVENILE COURT**](#Part-III)
 
@@ -102,17 +112,23 @@
 
 - [43 Presumption as to age](#Presumption-as-to-age)
 
-- [44 Powers of Juvenile Courts on proof of offence](#Powers-of-Juvenile-Courts-on-proof-of-offence)
+- [44 Powers of Juvenile Court on proof of offence](#Powers-of-Juvenile-Court-on-proof-of-offence)
 
-- [45 Power to convene family conference to deal with child or young person guilty of offence](#Power-to-convene-family-conference-to-deal-with-child-or-young-person-guilty-of-offence)
+- [45 Power to convene juvenile case conference to deal with child or young person guilty of offence](#Power-to-convene-juvenile-case-conference-to-deal-with-child-or-young-person-guilty-of-offence)
 
 - [46 Additional orders which may be made by Juvenile Court in relation to child or young person found guilty of offence](#Additional-orders-which-may-be-made-by-Juvenile-Court-in-relation-to-child-or-young-person-found-guilty-of-offence)
 
-- [47 Maximum age limit for detention in place of detention, approved home or approved school](#Maximum-age-limit-for-detention-in-place-of-detention-approved-home-or-approved-school)
+- [47 Maximum age limit for detention in place of detention, juvenile rehabilitation centre or place of safety](#Maximum-age-limit-for-detention-in-place-of-detention-juvenile-rehabilitation-centre-or-place-of-safety)
 
 - [48 Appeals](#Appeals)
 
 [**Children and Young Persons in need of Care and Protection**](#Children-and-Young-Persons-in-need-of-Care-and-Protection)
+
+- [48A Voluntary care agreements](#Voluntary-care-agreements)
+
+- [48B Procedure](#Procedure)
+
+- [48C Service of summons](#Service-of-summons)
 
 - [49 Powers of Juvenile Court in respect of children and young persons in need of care or protection](#Powers-of-Juvenile-Court-in-respect-of-children-and-young-persons-in-need-of-care-or-protection)
 
@@ -126,6 +142,42 @@
 
 - [52 Failure to comply with requirements of supervision order](#Failure-to-comply-with-requirements-of-supervision-order)
 
+[**Part IIIA LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS**](#Part-IIIA)
+
+- [52A Homes for children and young persons to be licensed](#Homes-for-children-and-young-persons-to-be-licensed)
+
+- [52B Application for licence](#Application-for-licence)
+
+- [52C Fee for and duration of licence](#Fee-for-and-duration-of-licence)
+
+- [52D Display of licence](#Display-of-licence)
+
+- [52E Transfer of licence](#Transfer-of-licence)
+
+- [52F Inspection of homes for children and young persons](#Inspection-of-homes-for-children-and-young-persons)
+
+- [52G Review Board](#Review-Board)
+
+- [52H Director may direct remedial measures](#Director-may-direct-remedial-measures)
+
+- [52I Duty to furnish information](#Duty-to-furnish-information)
+
+- [52J Director may order closure of home for children and young persons](#Director-may-order-closure-of-home-for-children-and-young-persons)
+
+- [52K Cancellation of licence at request of licensee](#Cancellation-of-licence-at-request-of-licensee)
+
+- [52L Revocation and suspension of licence](#Revocation-and-suspension-of-licence)
+
+- [52M Effect of cancellation, revocation or suspension of licence](#Effect-of-cancellation-revocation-or-suspension-of-licence)
+
+- [52N Discharge or transfer of children and young persons](#Discharge-or-transfer-of-children-and-young-persons)
+
+- [52O Appeal](#Appeal)
+
+- [52P Exemption](#Exemption)
+
+- [52Q Regulations for this Part](#Regulations-for-this-Part)
+
 [**Part IV REMAND HOMES**](#Part-IV)
 
 - [53 Custody of children and young persons not released on bail](#Custody-of-children-and-young-persons-not-released-on-bail)
@@ -136,9 +188,9 @@
 
 - [55 Provision of places of detention](#Provision-of-places-of-detention)
 
-[**Part VI APPROVED SCHOOLS AND APPROVED HOMES**](#Part-VI)
+[**Part VI JUVENILE REHABILITATION CENTRES AND PLACES OF SAFETY**](#Part-VI)
 
-- [56 Minister may appoint approved schools and approved homes](#Minister-may-appoint-approved-schools-and-approved-homes)
+- [56 Minister may appoint juvenile rehabilitation centres and places of safety](#Minister-may-appoint-juvenile-rehabilitation-centres-and-places-of-safety)
 
 - [57 Manager may make regulations with approval of Minister](#Manager-may-make-regulations-with-approval-of-Minister)
 
@@ -154,39 +206,39 @@
 
 - [63 Discharge or transfer of juveniles](#Discharge-or-transfer-of-juveniles)
 
-- [64 Minister may establish approved schools and approved homes](#Minister-may-establish-approved-schools-and-approved-homes)
+- [64 Minister may establish juvenile rehabilitation centres and places of safety](#Minister-may-establish-juvenile-rehabilitation-centres-and-places-of-safety)
 
-- [65 Control and management of approved schools and approved homes established under section 64](#Control-and-management-of-approved-schools-and-approved-homes-established-under-section-64)
+- [65 Control and management of juvenile rehabilitation centres and places of safety established under section 64](#Control-and-management-of-juvenile-rehabilitation-centres-and-places-of-safety-established-under-section-64)
 
-- [66 Director may make regulations for approved schools and approved homes](#Director-may-make-regulations-for-approved-schools-and-approved-homes)
+- [66 Director may make regulations for juvenile rehabilitation centres and places of safety](#Director-may-make-regulations-for-juvenile-rehabilitation-centres-and-places-of-safety)
 
-- [67 Board of visitors](#Board-of-visitors)
+- [67 (Repealed)](#Repealed)
 
-[**Part VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION**](#Part-VII)
+[**Part VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN JUVENILE REHABILITATION CENTRES, PLACES OF SAFETY, REMAND HOMES AND PLACES OF DETENTION**](#Part-VII)
 
-- [68 Duties and powers of manager of approved school, approved home, remand home or place of detention in respect of persons detained therein](#Duties-and-powers-of-manager-of-approved-school-approved-home-remand-home-or-place-of-detention-in-respect-of-persons-detained-therein)
+- [68 Duties and powers of manager of juvenile rehabilitation centre, place of safety, remand home or place of detention in respect of persons detained therein](#Duties-and-powers-of-manager-of-juvenile-rehabilitation-centre-place-of-safety-remand-home-or-place-of-detention-in-respect-of-persons-detained-therein)
 
-- [69 Minister may discharge or transfer any person from one approved school, approved home or place of detention to another](#Minister-may-discharge-or-transfer-any-person-from-one-approved-school-approved-home-or-place-of-detention-to-another)
+- [69 Minister may discharge or transfer any person from one juvenile rehabilitation centre, place of safety or place of detention to another](#Minister-may-discharge-or-transfer-any-person-from-one-juvenile-rehabilitation-centre-place-of-safety-or-place-of-detention-to-another)
 
 - [70 Illness of child or young person detained](#Illness-of-child-or-young-person-detained)
 
-- [71 Return from approved hospital to approved school, approved home, remand home or place of detention](#Return-from-approved-hospital-to-approved-school-approved-home-remand-home-or-place-of-detention)
+- [71 Return from approved hospital to juvenile rehabilitation centre, place of safety, remand home or place of detention](#Return-from-approved-hospital-to-juvenile-rehabilitation-centre-place-of-safety-remand-home-or-place-of-detention)
 
 - [72 Duty to inform manager](#Duty-to-inform-manager)
 
 - [73 Special custody in hospital](#Special-custody-in-hospital)
 
-- [74 Power of Director or protector to give consent to medical treatment to child or young person in need thereof](#Power-of-Director-or-protector-to-give-consent-to-medical-treatment-to-child-or-young-person-in-need-thereof)
+- [74 Power of Director or protector to give consent to medical examination or medical treatment to child or young person in need thereof](#Power-of-Director-or-protector-to-give-consent-to-medical-examination-or-medical-treatment-to-child-or-young-person-in-need-thereof)
 
 - [75 Saving of powers of High Court](#Saving-of-powers-of-High-Court)
 
-- [76 Review of cases of persons ordered to be detained in approved schools or approved homes](#Review-of-cases-of-persons-ordered-to-be-detained-in-approved-schools-or-approved-homes)
+- [76 Review of cases of persons ordered to be detained in juvenile rehabilitation centres or places of safety](#Review-of-cases-of-persons-ordered-to-be-detained-in-juvenile-rehabilitation-centres-or-places-of-safety)
 
-- [77 Escape from approved schools or approved homes](#Escape-from-approved-schools-or-approved-homes)
+- [77 Escape from juvenile rehabilitation centres or places of safety](#Escape-from-juvenile-rehabilitation-centres-or-places-of-safety)
 
 - [78 Penalties for assisting or inducing persons to escape and for harbouring or concealing escaped persons](#Penalties-for-assisting-or-inducing-persons-to-escape-and-for-harbouring-or-concealing-escaped-persons)
 
-- [79 Prohibition against conveying certain articles to persons being detained in approved school, approved home, remand home or place of detention](#Prohibition-against-conveying-certain-articles-to-persons-being-detained-in-approved-school-approved-home-remand-home-or-place-of-detention)
+- [79 Prohibition against conveying certain articles to persons being detained in juvenile rehabilitation centre, place of safety, remand home or place of detention](#Prohibition-against-conveying-certain-articles-to-persons-being-detained-in-juvenile-rehabilitation-centre-place-of-safety-remand-home-or-place-of-detention)
 
 - [80 Evidence of orders of Minister](#Evidence-of-orders-of-Minister)
 
@@ -208,6 +260,10 @@
 
 - [87 Information relating to children and young persons in need of care or protection](#Information-relating-to-children-and-young-persons-in-need-of-care-or-protection)
 
+- [87A Confidentiality of information relating to children and young persons](#Confidentiality-of-information-relating-to-children-and-young-persons)
+
+- [87B Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+
 - [88 Regulations](#Regulations)
 
 - [89 Rules of Court](#Rules-of-Court)
@@ -226,7 +282,9 @@ REVISED EDITION 2001
 
 (31st December 2001)
 
-An Act to consolidate the law relating to children and young persons.
+An Act to provide for the welfare, care, protection and rehabilitation of children and young persons who are in need of such care, protection or rehabilitation, to regulate homes for children and young persons and to consolidate the law relating to children and young persons.
+
+[3/2011 wef 20/07/2011]
 
 [21st March 1993]
 
@@ -240,21 +298,21 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. 
-
-(1) In this Act, unless the context otherwise requires —
-
-“approved home” means any institution or part thereof appointed or established under Part VI as an approved home;
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “approved institution” means an institution approved under section 12 of the Probation of Offenders Act (Cap. 252) for the reception of persons who may be required to reside therein by a probation order;
 
-“approved school” means any institution or part thereof appointed or established under Part VI as an approved school;
-
 “approved welfare officer” means a person who is appointed by the Director under section 3(4) to carry out any investigation, assessment, supervision, consultation or evaluation in relation to any child or young person or the parent, guardian or family members thereof for the purpose of determining the welfare and state of development of such child or young person or for any other purpose under this Act;
+
+“assessment” means an assessment to determine either the state of the health or development of the child or young person or whether the child or young person is in need of care or protection or both;
+
+[3/2011 wef 20/07/2011]
 
 “child” means a person who is below the age of 14 years;
 
-“development” means physical, intellectual, emotional, social or behavioural development;
+“development” means physical, intellectual, psychological, emotional, social or behavioural development;
+
+[3/2011 wef 20/07/2011]
 
 “Director” means the Director of Social Welfare appointed under section 3(1) and, in relation to any provision in this Act in which the word is used, includes any public officer or other person who is appointed or authorised by the Director under section 3(3) to perform any of the duties or exercise any of the powers of the Director under that provision;
 
@@ -264,15 +322,43 @@ PRELIMINARY
 
 “health” means physical or mental health;
 
+“home for children and young persons” means any establishment the object of which is, or is held out to be, the provision of residential accommodation with board and personal care for children or young persons, for the purposes of their protection or rehabilitation or both;
+
+[3/2011 wef 20/07/2011]
+
 “ill-treatment”, in relation to a child or young person, has the meaning assigned to it in section 5;
 
 “juvenile” means a male or female person who is 7 years of age or above and below the age of 16 years;
 
-“manager” includes a director, manager and superintendent or other person having the management or control of any approved school, approved home, remand home, place of detention or place of safety;
+“juvenile rehabilitation centre” means any institution or part thereof appointed or established under Part VI as a juvenile rehabilitation centre;
+
+[3/2011 wef 20/07/2011]
+
+“licence” means a licence issued under section 52B and licensee shall be construed accordingly;
+
+[3/2011 wef 20/07/2011]
+
+“licensed home for children and young persons” means a home for children and young persons in respect of which a licence is issued under section 52B;
+
+[3/2011 wef 20/07/2011]
+
+“manager” includes a director, manager and superintendent or other person having the management or control of any juvenile rehabilitation centre, place of safety, remand home, place of detention or place of temporary care and protection;
+
+[3/2011 wef 20/07/2011]
+
+“place” includes any vessel, conveyance, house, building, enclosure, street, land or open space;
+
+[3/2011 wef 20/07/2011]
 
 “place of detention” means a place provided or appointed by the Minister as a place of detention under section 55(1);
 
-“place of safety” means any place or institution appointed or declared to be a place of safety under section 27 or any other suitable place the occupier of which is willing temporarily to receive a child or young person;
+“place of safety” means any institution or part thereof appointed or established under Part VI as a place of safety;
+
+[3/2011 wef 20/07/2011]
+
+“place of temporary care and protection” means any place or institution appointed or declared to be a place of temporary care and protection under section 27 or any other suitable place the occupier of which is willing temporarily to receive a child or young person committed under section 8A, 9 or 49;
+
+[3/2011 wef 20/07/2011]
 
 “protector” means the Director and includes any public officer or other person who is appointed or authorised by the Director under section 3(3) to exercise the powers and perform the duties of a protector under this Act;
 
@@ -286,13 +372,21 @@ PRELIMINARY
 
 (c) any offence involving the causing of bodily injury to a child or young person;
 
-“remand home” means any home or institution or part thereof provided or appointed by the Minister as a remand home under section 53 for the detention of juveniles sent there under the provisions of this Act;
+“remand home” means any home or institution or part thereof provided or appointed by the Minister as a remand home under section 53(1) for the detention of juveniles sent there under the provisions of this Act;
 
-“visitor” means a person appointed to be a member of a board of visitors under section 67;
+“Review Board” means the Review Board appointed under section 52G;
+
+[3/2011 wef 20/07/2011]
+
+“voluntary care agreement” means a care agreement entered into between the Director and the parent or guardian of a child or young person to secure the safety and welfare of the child or young person;
+
+[3/2011 wef 20/07/2011]
 
 “young person” means a person who is 14 years of age or above and below the age of 16 years.
 
 [20/2001]
+
+(2) For the purposes of this Act, a person shall be deemed to have already reached any specified age when he has since his birth completed that number of years of life reckoned according to the Gregorian calendar.
 
 ### Appointment of Director of Social Welfare and other officers
 
@@ -310,7 +404,7 @@ PRELIMINARY
 
 (b) with the approval of the Minister, in writing authorise any other person,
 
-to perform any of the duties or exercise any of the powers of the Director or a protector under this Act subject to such conditions and limitations as may be specified by the Director.
+to perform any of the duties or exercise any of the powers of the Director or a protector under this Act, subject to such conditions and limitations as may be specified by the Director.
 
 [20/2001]
 
@@ -324,13 +418,25 @@ to perform any of the duties or exercise any of the powers of the Director or a 
 
 [20/2001]
 
+### Principles
+
+3A\. The following principles apply for the purposes of this Act:
+
+(a) the parents or guardian of a child or young person are primarily responsible for the care and welfare of the child or young person and they should discharge their responsibilities to promote the welfare of the child or young person; and
+
+[3/2011 wef 20/07/2011]
+
+(b) in all matters relating to the administration or application of this Act, the welfare and best interests of the child or young person shall be the first and paramount consideration.
+
+[3/2011 wef 20/07/2011]
+
 ## PART II
 
 PROTECTION OF CHILDREN AND YOUNG PERSONS
 
-WELFARE
+Welfare
 
-### When child or young person in need of care and protection
+### When child or young person in need of care or protection
 
 4\. For the purposes of this Act, a child or young person is in need of care or protection if —
 
@@ -338,7 +444,11 @@ WELFARE
 
 (b) the child or young person has been abandoned by his parent or guardian and despite reasonable inquiries the parent or guardian cannot be found, and no other suitable person is willing and able to exercise care or guardianship in respect of the child or young person;
 
-(c) the parent or guardian of the child or young person is unfit or unable or has neglected to exercise proper supervision and control over the child or young person, and the child or young person is falling into bad association, or is exposed to moral danger, or is beyond control;
+(c) the parent or guardian of the child or young person —
+
+(i) is unable or has neglected to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for the child or young person; or
+
+(ii) is unfit or unable or has neglected to exercise proper supervision and control over the child or young person, and the child or young person is falling into bad association, or is exposed to moral danger, or is beyond control;
 
 (d) the child or young person has been, is being or is at risk of being ill-treated —
 
@@ -374,9 +484,11 @@ and either the person who committed or is believed to have committed the offence
 
 (iv) using or inhaling any intoxicating substance (as defined in the Intoxicating Substances Act (Cap. 146A)) for the purpose of inducing or causing in himself a state of intoxication.
 
-[3
+[3/2011 wef 20/07/2011]
 
 [20/2001]
+
+[3
 
 ### Ill-treatment of child or young person
 
@@ -442,7 +554,7 @@ and either the person who committed or is believed to have committed the offence
 
 ### Contribution to delinquency of child or young person
 
-6\.—(1) Any person who causes or procures any child or young person or, having the custody, charge or care of a child or young person, allows that child or young person to be in any street, premises or place for the purpose of —
+6\.—(1) Any person who causes or procures any child or young person or, having the custody, charge or care of a child or young person, allows that child or young person to be in any place for the purpose of —
 
 (a) begging or receiving alms, or of inducing the giving of alms, whether or not there is any pretence of singing, playing, performing or offering anything for sale; or
 
@@ -450,7 +562,11 @@ and either the person who committed or is believed to have committed the offence
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) If a person having the custody, charge or care of a child or young person is charged with an offence under this section and it is proved that the child or young person was in any street, premises or place for any such purpose and that the person charged allowed the child or young person to be in the street, premises or place, he shall be presumed to have allowed him to be in the street, premises or place for that purpose unless the contrary is proved.
+[3/2011 wef 20/07/2011]
+
+(2) If a person having the custody, charge or care of a child or young person is charged with an offence under this section and it is proved that the child or young person was in any place for any such purpose and that the person charged allowed the child or young person to be in the place, he shall be presumed to have allowed him to be in the place for that purpose unless the contrary is proved.
+
+[3/2011 wef 20/07/2011]
 
 [5
 
@@ -462,49 +578,93 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) procures or attempts to procure the commission of any obscene or indecent act by any child or young person,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 4 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both.
+
+[3/2011 wef 20/07/2011]
 
 [51/2007 wef 01/02/2008]
 
 ### Protector’s power to obtain information
 
-8\.—(1) Where a protector has reason to believe that any person can furnish any information regarding the commission of any relevant offence in respect of a child or young person, the protector may, by order in writing —
+8\.—(1) Where a protector —
 
-(a) require that person to furnish such information to the protector in writing within such time as may be specified by the protector; or
+(a) has reasonable grounds to believe that a relevant offence has been, is being or will be committed against any child or young person or that any child or young person is in need of care or protection; and
 
-(b) require that person to appear before and furnish such information to the protector at such time and place as may be specified by the protector.
+(b) has reason to believe that any person can —
+
+(i) furnish any information regarding the commission of any relevant offence in respect of a child or young person; or
+
+(ii) furnish any information which will assist him in ascertaining whether a child or young person is in need of care or protection,
+
+the protector may exercise the powers conferred under subsection (1A).
+
+[3/2011 wef 20/07/2011]
+
+(1A) The protector may, by order in writing —
+
+(a) require the person referred to in subsection (1)(b)(i) or (ii) to furnish such information to the protector in writing within such time as may be specified by the protector; or
+
+(b) require such person to appear before and furnish such information to the protector at such time and place as may be specified by the protector.
+
+[3/2011 wef 20/07/2011]
+
+(2) The person referred to in subsection (1A)(b) shall be bound, as the case may be, to furnish the required information in writing or to attend before the protector and answer truthfully and to the best of his ability any question concerning the offence.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
-
-(2) The person referred to in subsection (1) shall be bound, as the case may be, to furnish the required information in writing or to attend before the protector and answer truthfully and to the best of his ability any question concerning the offence.
 
 [7
 
-[20/2001]
+### Power to order child or young person to be produced for assessment or treatment, etc.
 
-### Power to remove child or young person to place of safety, etc.
+8A\.—(1) Where the Director, a protector or a police officer is satisfied on reasonable grounds that a child or young person is in need of care or protection, the Director, protector or police officer may by notice in writing order any person to —
 
-9\.—(1) Where the Director, a protector or a police officer not below the rank of sergeant is satisfied on reasonable grounds that a child or young person is in need of care or protection, the Director, protector or police officer may —
+(a) produce the child or young person before the Director, protector or police officer at a specified time and place; or
 
-(a) without warrant and with such assistance and by such force as is necessary, by day or by night enter any premises in which the child or young person is to be found and —
+(b) produce the child or young person before a registered medical practitioner, a psychologist or an approved welfare officer for an assessment or for any medical or other treatment as may be necessary,
 
-(i) remove the child or young person and commit him to a place of safety until he can be brought before a Juvenile Court to be dealt with under section 49; or
+following which the Director, protector or police officer may, if he thinks necessary, remove the child or young person and commit the child or young person to a place of temporary care and protection or to the care of a fit person until the child or young person can be brought before a Juvenile Court to be dealt with under section 49.
 
-(ii) remove the child or young person and, before committing him to a place of safety under sub-paragraph (i), present the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may appear to be necessary; or
+(2) For the purposes of this section and sections 9 and 9A, a reference to a police officer is a reference to a police officer not below the rank of sergeant.
 
-(b) by notice in writing order the parent or guardian of the child or young person to —
+[3/2011 wef 20/07/2011]
 
-(i) produce the child or young person before the Director, protector or police officer at a specified time and place; or
+### Power to remove child or young person to place of temporary care and protection, etc.
 
-(ii) produce the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may be necessary,
+9\.—(1) Where the Director, a protector or a police officer is satisfied on reasonable grounds that a child or young person is in need of care or protection, the Director, protector or police officer may without warrant and with such assistance and by such force as is necessary, by day or by night enter any place in which the child or young person is to be found and —
 
-following which the Director, protector or police officer may, if he thinks necessary, remove the child or young person and commit him to a place of safety until he can be brought before a Juvenile Court to be dealt with under section 49.
+(a) remove the child or young person and commit him to a place of temporary care and protection or to the care of a fit person until the child or young person can be brought before a Juvenile Court to be dealt with under section 49; or
 
-[20/2001]
+(b) remove the child or young person and, before committing him to a place of temporary care and protection or to the care of a fit person under paragraph (a), present the child or young person before a registered medical practitioner, a psychologist or an approved welfare officer for an assessment or for any medical or other treatment as may be necessary.
 
-(2) A registered medical practitioner to whom a child or young person is brought under subsection (1)(a)(ii) or (b)(ii) —
+[3/2011 wef 20/07/2011]
 
-(a) shall conduct the requisite assessment of the child or young person and report his assessment to the Director, protector or police officer, as the case may be; and
+(2) Subject to subsection (3), every child or young person who is removed by the Director, a protector or a police officer under section 8A or this section shall, unless he is sooner returned to the custody of his parent or guardian, be brought before a Juvenile Court within 3 working days from the date of his being so removed in order that he may be dealt with under section 49.
+
+[3/2011 wef 20/07/2011]
+
+(3) If for any reason it is not possible for the child or young person to be brought before a Juvenile Court within the time specified in subsection (2) —
+
+(a) the Director, protector or police officer (as the case may be) who removed the child or young person under subsection (1) shall, within 3 working days from the date of the removal of the child or young person, inform the Juvenile Court of the removal and the reason for which it is not possible to comply with subsection (2); and
+
+(b) the Juvenile Court may make such order as the circumstances may admit and require in relation to the custody, charge and care of the child or young person until such time as the child or young person may be brought before the Juvenile Court.
+
+[3/2011 wef 20/07/2011]
+
+(4) Where the Director or a protector is of the view that any contact or access between the child or young person removed under subsection (1) and any other person is not in the best interests of the child or young person, the Director or protector may order that —
+
+(a) the other person concerned shall not make any contact or have access to the child or young person during the period before the child or young person is brought before the Juvenile Court under subsection (2); or
+
+(b) the other person concerned may only have contact or access to the child or young person subject to such conditions as the Director or protector may impose.
+
+[3/2011 wef 20/07/2011]
+
+### Assessment, examination and treatment of child or young person, etc.
+
+9A\.—(1) A registered medical practitioner, a psychologist or an approved welfare officer to whom a child or young person is brought under section 8A or 9 —
+
+(a) shall conduct the requisite assessment of the child or young person and report his assessment to the Director, protector or police officer, as the case may be, who presented the child or young person for assessment; and
 
 (b) may, with the consent of the parent or guardian of the child or young person or, if such consent cannot be obtained or if there is immediate risk to the health of the child or young person, with the authorisation of the Director, protector or police officer —
 
@@ -512,45 +672,37 @@ following which the Director, protector or police officer may, if he thinks nece
 
 (ii) provide or cause to be provided to the child or young person such treatment (including any surgical treatment) as he considers necessary as a result of his assessment or diagnosis.
 
-[20/2001]
+[3/2011 wef 20/07/2011]
 
-(3) If the registered medical practitioner or approved welfare officer conducting the assessment of the child or young person under this section believes on reasonable grounds that the child or young person is suffering from any physical or emotional injury or any injury to his health or development as a result of being ill-treated, the registered medical practitioner or approved welfare officer shall immediately notify the Director, protector or police officer, as the case may be, and the provisions of section 88 shall apply to a registered medical practitioner or an approved welfare officer who makes a notification under this subsection.
+(2) If the registered medical practitioner, psychologist or approved welfare officer conducting the assessment of the child or young person under subsection (1) believes on reasonable grounds that the child or young person is suffering from any physical or emotional injury or any injury to his health or development as a result of being ill-treated, the registered medical practitioner, psychologist or approved welfare officer shall immediately notify the Director, protector or police officer, as the case may be, who presented the child or young person for assessment.
 
-[20/2001]
+[3/2011 wef 20/07/2011]
 
-(4) If the registered medical practitioner conducting the assessment of the child or young person under this section is of the opinion that the hospitalization of the child or young person is necessary for the purpose of treating the child or young person, the Director, protector or police officer may authorise the hospitalization of the child or young person.
+(3) Section 87 shall apply to a registered medical practitioner, a psychologist or an approved welfare officer who makes a notification under this section as if it were a notification made under section 87(1).
 
-[20/2001]
+[3/2011 wef 20/07/2011]
 
-(5) Subject to subsection (6), every child or young person who is removed by the Director, a protector or a police officer under this section shall, unless he is sooner returned to the custody of his parent or guardian, be brought before a Juvenile Court within 3 working days of his being so removed in order that he may be dealt with under section 49.
+(4) If the registered medical practitioner conducting the assessment of the child or young person under this section is of the opinion that the hospitalisation of the child or young person is necessary for the purpose of treating the child or young person, the Director, protector or police officer may authorise the hospitalisation of the child or young person.
 
-[20/2001]
-
-(6) If for any reason it is not possible for the child or young person to be brought before a Juvenile Court within the time specified in subsection (5) —
-
-(a) the Director, protector or police officer (as the case may be) shall, within 3 working days of the removal of the child or young person, inform the Juvenile Court of the removal and the reason for which it is not possible to comply with subsection (5); and
-
-(b) the Juvenile Court may make such order as the circumstances may admit and require in relation to the custody, charge and care of the child or young person until such time as the child or young person may be brought before the Juvenile Court.
-
-[20/2001]
-
-(7) In this section, “assessment” means an assessment to determine the state of the health or development of the child or young person and whether the child or young person has been subjected to any ill-treatment.
-
-[8
-
-[20/2001]
+[3/2011 wef 20/07/2011]
 
 ### Warrant to search for or remove child or young person
 
-10\.—(1) If a Magistrate’s Court, upon receiving any information or complaint, has reason to believe that a relevant offence has been or is being committed in respect of a child or young person, the Court may issue a warrant authorising any police officer named therein to search for the child or young person, if necessary, and remove the child or young person and commit him to a place of safety until he can be brought before a Juvenile Court to be dealt with under section 49.
+10\.—(1) If a Magistrate’s Court, upon receiving any information or complaint, has reason to believe that a relevant offence has been or is being committed in respect of a child or young person, the Court may issue a warrant authorising any police officer named therein to search for the child or young person, if necessary, and remove the child or young person and commit him to a place of temporary care and protection until he can be brought before a Juvenile Court to be dealt with under section 49.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(2) A warrant issued by a Magistrate’s Court under this section may authorise the police officer named therein, before committing the child or young person concerned to a place of safety, to present the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may appear to be necessary.
+(2) A warrant issued by a Magistrate’s Court under this section may authorise the police officer named therein, before committing the child or young person concerned to a place of temporary care and protection, to present the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may appear to be necessary.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(3) Section 9(2) to (7) shall apply, with the necessary modifications, in the case where a child or young person is removed under this section as they apply in the case where a child or young person is removed under that section.
+(3) Sections 9(2), (3) and (4) and 9A(1) to (4) shall apply, with the necessary modifications, in the case where a child or young person is removed under this section as they apply in the case where a child or young person is removed under section 9.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -578,7 +730,9 @@ following which the Director, protector or police officer may, if he thinks nece
 
 (c) without the consent of his parent or guardian.
 
-(2) Any person who causes or procures such a child or young person, or being his parent or guardian allows him, to take part in any public entertainment in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who causes or procures such a child or young person, or being his parent or guardian allows him, to take part in any public entertainment in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[3/2011 wef 20/07/2011]
 
 (3) If the person convicted under subsection (2) is the holder of a licence under the Public Entertainments and Meetings Act (Cap. 257), the court may also order the cancellation of the licence or its suspension for such period as the court may think fit.
 
@@ -594,7 +748,9 @@ Trafficking in Children
 
 12\.—(1) Every person who takes any part in any transaction the object or one of the objects of which is to transfer or confer, wholly or partly, temporarily or permanently, the possession, custody or control of a child for any valuable consideration shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 4 years.
 
-(2) Every person who, without lawful authority or excuse harbours or has in his possession, custody or control any child with respect to whom the temporary or permanent possession, custody or control has been transferred or conferred for valuable consideration by any other person within or outside Singapore shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 4 years.
+(2) Every person who, without lawful authority or excuse, harbours or has in his possession, custody or control any child with respect to whom the temporary or permanent possession, custody or control has been transferred or conferred for valuable consideration by any other person within or outside Singapore shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[3/2011 wef 20/07/2011]
 
 (3) It shall be a defence in any prosecution under this section to prove that the transfer took place in contemplation of or pursuant to a bona fide marriage or adoption and that at least one of the natural parents of the child or the legal guardian was a consenting party to the marriage or to the adoption by the adopting party, and had expressly consented to the marriage or adoption.
 
@@ -604,7 +760,7 @@ Trafficking in Children
 
 ### Importation of child by false pretences
 
-13\. Any person who, by or under any false pretence, false representations or fraudulent or deceitful means made or used either within or outside Singapore, brings or assists in bringing any child into Singapore shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 4 years or to both.
+13\. Any person who, by or under any false pretence, false representations or fraudulent or deceitful means made or used either within or outside Singapore, brings or assists in bringing any child into Singapore shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 ### Power to examine children and persons in charge of them
 
@@ -634,7 +790,9 @@ he may either —
 
 (B) to furnish security to his satisfaction that the child or young person will not leave Singapore without the previous consent in writing of the protector, and that the child or young person will be produced before the protector whenever he requires it; or
 
-(ii) in the first instance, or if default be made in complying with any order made under sub-paragraph (i), order that the child or young person be taken out of the custody of the person in whose care, custody or control the child or young person is and commit the child or young person to a place of safety or, on such security and on such conditions as the protector may require, to the custody of a relative or other fit person until the child or young person attains the age of 18 years or for any shorter period.
+(ii) in the first instance, or if default be made in complying with any order made under sub-paragraph (i), order that the child or young person be taken out of the custody of the person in whose care, custody or control the child or young person is and commit the child or young person to a place of temporary care and protection or, on such security and on such conditions as the protector may require, to the custody of a relative or other fit person until the child or young person attains the age of 18 years or for any shorter period.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -648,7 +806,7 @@ he may either —
 
 [20/2001]
 
-(3) Any person who obstructs or hinders or attempts to obstruct or hinder a protector or any such officer in the exercise of the powers conferred by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who obstructs or hinders or attempts to obstruct or hinder a protector or any such officer in the exercise of the powers conferred by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Powers of arrest
 
@@ -658,7 +816,9 @@ General
 
 ### Powers of search
 
-19\.—(1) A protector or any officer generally or specially authorised in that behalf in writing by a protector may enter and, for that purpose, use such force as may be reasonably necessary, and search any vessel, house, building, land, enclosure or other place where he has reasonable cause to suspect that an offence under this Act has been or is being committed.
+19\.—(1) A protector or any officer generally or specially authorised in that behalf in writing by a protector may enter and, for that purpose, use such force as may be reasonably necessary, and search any place where he has reasonable cause to suspect that an offence under this Act has been or is being committed.
+
+[3/2011 wef 20/07/2011]
 
 (2) Any person who obstructs or hinders or attempts to obstruct a protector or any such officer in the exercise of the powers conferred by this section shall be guilty of an offence.
 
@@ -692,11 +852,13 @@ General
 
 (b) makes, signs or delivers or causes to be made, signed or delivered any wilfully false or incorrect notification, report or statement;
 
-(c) refuses to allow an officer appointed or authorised under this Act such entry or access to any house, building, land, enclosure, vessel or other place as he is required by this Act to allow; or
+(c) refuses to allow an officer appointed or authorised under this Act such entry or access to any place as he is required by this Act to allow; or
 
 (d) contravenes any order made by a protector under this Act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -728,17 +890,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) assists any other person in doing any of the acts mentioned in sub-paragraphs (i) and (ii),
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(3) For the purposes of this section, a child or young person who, under this Act, is committed or sent to an approved school, an approved home, a remand home, a place of detention or a place of safety shall be deemed to have been committed to the care of the manager of the approved school, approved home, remand home, place of detention or place of safety, as the case may be.
+(3) For the purposes of this section, a child or young person who, under this Act, is committed or sent to a juvenile rehabilitation centre, a place of safety, a remand home, a place of detention or a place of temporary care and protection shall be deemed to have been committed to the care of the manager of the juvenile rehabilitation centre, place of safety, remand home, place of detention or place of temporary care and protection, as the case may be.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 ### Contribution orders
 
-25\.—(1) Where an order has been made by a protector under section 16 committing a child or young person to a place of safety or to the custody of a relative or other fit person, the protector may at the time of or subsequent to the making of such order make a further order (referred to in this section as a protector’s contribution order) requiring the parent or guardian or the person having the custody of the child or young person at the time of the making of the order to contribute such weekly or monthly sum in respect of the maintenance of the child or young person as the protector having regard to his means thinks fit.
+25\.—(1) Where an order has been made by a protector under section 16 committing a child or young person to a place of temporary care and protection or to the custody of a relative or other fit person, the protector may at the time of or subsequent to the making of such order make a further order (referred to in this section as a protector’s contribution order) requiring the parent or guardian or the person having the custody of the child or young person at the time of the making of the order to contribute such weekly or monthly sum in respect of the maintenance of the child or young person as the protector having regard to his means thinks fit.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -754,19 +922,43 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [20/2001]
 
-(5) If any person wilfully neglects to comply with a protector’s contribution order made under this section, a court may, for every breach of the order, by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by Magistrate’s Court, or may sentence the person to imprisonment for a term not exceeding one month for each month’s contribution remaining unpaid.
+(5) If any person wilfully neglects to comply with a protector’s contribution order made under this section, a court may, for every breach of the order, by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court, or may sentence the person to imprisonment for a term not exceeding one month for each month’s contribution remaining unpaid.
 
 ### Powers of District Court
 
 26\. Any power exercisable by a Magistrate’s Court under this Part may also be exercised by a District Court.
 
-### Provision of places of safety
+### Provision of places of temporary care and protection
 
 27\. The Minister may, by notification in theGazette—
 
-(a) appoint any place or institution to be a place of safety under this Act; and
+(a) appoint any place or institution to be a place of temporary care and protection under this Act; and
 
-(b) declare any orphanage, hospital, home, institution or other place to be a place of safety for the purposes of this Act.
+(b) declare any orphanage, hospital, home, institution or other place to be a place of temporary care and protection for the purposes of this Act.
+
+[3/2011 wef 20/07/2011]
+
+### Restriction on publication of information leading to identification of child or young person who is subject of investigation, etc.
+
+27A\.—(1) No person shall, without the Director’s approval, publish or broadcast any information that identifies, or is likely to lead to the identification of any child or young person as a child or young person —
+
+(a) who has been or is the subject of any investigation under this Act;
+
+(b) who has been taken into care or custody by the Director, a protector or a police officer under this Act; or
+
+(c) who is the subject of an order made by a court under this Act.
+
+(2) If any information or picture is published or broadcast in contravention of subsection (1) —
+
+(a) in the case of the publication of any information or picture as part of a newspaper or periodical publication, every proprietor, editor, publisher or distributor thereof;
+
+(b) in the case of the publication of any information or picture otherwise than as part of a newspaper or periodical publication, the person who publishes or distributes it; or
+
+(c) in the case of the broadcast of any information or picture, every person who transmits or provides the programme in which the information or picture is broadcast and every person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication,
+
+shall jointly be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+
+(3) In this section, “broadcast” and “publish” have the same meanings as in section 35(5).
 
 ## PART III
 
@@ -776,7 +968,9 @@ JUVENILE COURT
 
 28\.—(1) Every court in dealing with a child or young person who is brought before it, either as being in need of care or protection, or as an offender or otherwise, shall have regard to the welfare of the child or young person and shall, in a proper case, take steps for removing him from undesirable surroundings, and for securing that proper provision is made for his education and training.
 
-(2) A court shall not order a child below the age of 10 years to be sent to an approved school, a remand home or place of detention unless for any reason, including the want of a fit person of his own religious persuasion who is willing to undertake the care of him, the court is satisfied that he cannot suitably be dealt with otherwise.
+(2) A court shall not order a child below the age of 10 years to be sent to a juvenile rehabilitation centre, a remand home or place of detention unless for any reason, including the want of a fit person of his own religious persuasion who is willing to undertake the care of him, the court is satisfied that he cannot suitably be dealt with otherwise.
+
+[3/2011 wef 20/07/2011]
 
 ### Children and young persons not to associate with adult offenders
 
@@ -784,17 +978,41 @@ JUVENILE COURT
 
 ### Bail of children and young persons arrested
 
-30\.—(1) Where a person apparently below the age of 16 years is arrested with or without warrant, he shall be brought before a Juvenile Court.
+30\.—(1) Where a person apparently below the age of 16 years is arrested with or without warrant and he is not released, he shall be brought before a Juvenile Court.
 
-(2) Where the person cannot be brought immediately before a Juvenile Court, the officer making the arrest shall, without unnecessary delay, take or send the person arrested before a Magistrate who shall inquire into the case and unless —
+[3/2011 wef 20/07/2011]
+
+(2) Where the person cannot be brought immediately before a Juvenile Court as required under subsection (1), the police officer or other officer from a law enforcement agency making the arrest shall, without unnecessary delay, take or send the person arrested before a Magistrate.
+
+[3/2011 wef 20/07/2011]
+
+(3) The Juvenile Court or Magistrate, as the case may be, before whom a person is brought under subsection (1) or (2) shall inquire into the case and shall determine whether —
 
 (a) the charge is one of an offence triable only by the High Court;
 
-(b) it is necessary in the interest of that person to remove him from association with any undesirable person; or
+(b) it is necessary in the interest of the person to remove him from association with any undesirable person;
 
-(c) the Magistrate has reason to believe that the release of that person would defeat the ends of justice,
+(c) the person is likely to abscond;
 
-the Magistrate shall release that person on a bond, with or without sureties, for such amount as will, in the opinion of the Magistrate, secure the attendance of that person upon the hearing of the charge, being entered into by his parent or guardian or other responsible person.
+(d) the person may commit further offences;
+
+(e) it is necessary to —
+
+(i) prevent the loss or destruction of evidence relating to the offence with which the person is charged; or
+
+(ii) prevent interference with any witness in respect of any such offence; or
+
+(f) there is reason to believe that the release of that person would otherwise defeat the ends of justice.
+
+[3/2011 wef 20/07/2011]
+
+(4) If none of the circumstances referred to in subsection (3) exist, the Juvenile Court or Magistrate shall release the person on a bond, with or without sureties, for such amount as will, in the opinion of the Juvenile Court or Magistrate, secure the attendance of the person upon the hearing of the charge.
+
+[3/2011 wef 20/07/2011]
+
+(5) The bond shall be entered into by the parent or guardian of the person or any other person responsible for the care and control of the person.
+
+[3/2011 wef 20/07/2011]
 
 ### Attendance at court of parent or guardian of child or young person charged with an offence, etc.
 
@@ -817,6 +1035,14 @@ the Magistrate shall release that person on a bond, with or without sureties, fo
 (2) If at any time, by reason of illness or other emergency, the Magistrate nominated under subsection (1) is not available, any Magistrate, although not so nominated, may preside over a Juvenile Court.
 
 (3) The presiding Magistrate, when determining the method of dealing with a child or young person in respect of whom a written report is obtained by the Juvenile Court regarding his background, family history, school record or such other matters, shall sit with 2 advisers from a panel of advisers nominated by the President except that where it appears that the Court cannot without adjournment be fully constituted and that an adjournment would be inexpedient in the interests of justice, he may sit with one adviser or he may sit alone.
+
+(3A) The functions of the panel of advisers referred to in subsection (3) shall be to inform and advise the Juvenile Court with respect to —
+
+(a) any matter or consideration which may affect the treatment of any child or young person; or
+
+(b) any order that may be made in respect of any child or young person brought before the Juvenile Court.
+
+[3/2011 wef 20/07/2011]
 
 (4) Except as modified or extended by this Act, the provisions of the Criminal Procedure Code (Cap. 68) shall apply to a Juvenile Court as if that Court were a Magistrate’s Court.
 
@@ -892,7 +1118,7 @@ the Magistrate shall release that person on a bond, with or without sureties, fo
 
 (c) in the case of the broadcast of any information or picture, any person who transmits or provides the programme in which the information or picture is broadcast and any person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
 [20/2001]
 
@@ -916,7 +1142,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 37\.—(1) A child shall not be sentenced or ordered to be imprisoned for any offence or be committed to prison in default of payment of a fine or costs.
 
-(2) A young person shall not be ordered to be imprisoned for any offence, or be committed to prison in default of a fine, damages or costs, unless the court certifies that he is of so unruly a character that he cannot be detained in a place of detention or an approved school.
+(2) A young person shall not be ordered to be imprisoned for any offence, or be committed to prison in default of a fine, damages or costs, unless the court certifies that he is of so unruly a character that he cannot be detained in a place of detention or a juvenile rehabilitation centre.
+
+[3/2011 wef 20/07/2011]
 
 (3) Notwithstanding the provisions of any other written law, no child or young person shall be sentenced by any court other than the High Court to corporal punishment.
 
@@ -1028,7 +1256,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [20/2001]
 
-### Powers of Juvenile Courts on proof of offence
+### Powers of Juvenile Court on proof of offence
 
 44\.—(1) Subject to the provisions of this section, where a Juvenile Court is satisfied that an offence has been proved, or where the child or young person (referred to in this section as the offender) admits the facts constituting the offence, the Court shall, in addition to any other powers exercisable by virtue of this Act or any other written law for the time being in force, have power —
 
@@ -1046,9 +1274,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (g) to order the offender to be detained in a place of detention for a period not exceeding 6 months;
 
-(h) to order the offender to be detained in a place of detention or an approved institution over such number of weekends, not exceeding 52, as the Court thinks fit;
+(h) to order the offender to be detained in a place of detention or an approved institution over such number of weekends, not exceeding 26, as the Court thinks fit;
 
-(i) to order the offender to be sent to an approved school for a period of not less than 2 years and not more than 3 years;
+(i) to order the offender to be sent to a juvenile rehabilitation centre for a period of not more than 3 years;
 
 (j) to order the offender to pay a fine, damages or costs;
 
@@ -1056,9 +1284,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) has attained the age of 16 years; or
 
-(ii) having attained the age of 14 years but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under paragraph (i) to be sent to an approved school established under section 64,
+(ii) having attained the age of 14 years but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under paragraph (i) to be sent to a juvenile rehabilitation centre established under section 64,
 
 and the Juvenile Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1082,9 +1312,7 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 [20/2001]
 
-(4) Where the Juvenile Court makes an order under subsection (1)(h) for the detention of an offender over a weekend, the offender’s detention shall commence at 3 p.m. on Saturday and end at 5 p.m. on the Sunday immediately following.
-
-[20/2001]
+(4) [Deleted by Act 3/2011 wef 20/07/2011]
 
 (5) If an offender, without reasonable excuse, contravenes any order made by the Juvenile Court under subsection (1) (referred to hereinafter as the original order) or any condition thereof, the Juvenile Court may make such order as is necessary for the offender to be produced before it and thereafter, deal with the offender by —
 
@@ -1096,65 +1324,75 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 [20/2001]
 
-(6) Where an offender, while being detained in a place of detention or an approved school pursuant to an order under subsection (1)(g) or (i), is found guilty of another offence by the Juvenile Court, the Court may, instead of making a fresh order against the offender under subsection (1)(g) or (i), extend the period of detention that is being served by the offender.
+(6) Where an offender, while being detained in a place of detention or a juvenile rehabilitation centre pursuant to an order under subsection (1)(g) or (i), is found guilty of another offence by the Juvenile Court, the Court may, instead of making a fresh order against the offender under subsection (1)(g) or (i), extend the period of detention that is being served by the offender.
 
 [20/2001]
 
-(7) Where a Juvenile Court is satisfied, on the representations of the manager of a place of detention, an approved school or an approved home, that a person ordered to be detained in the place of detention, approved school or approved home is of so unruly a character that he cannot be so detained, the Court may —
+(7) Where a Juvenile Court is satisfied, on the representations of the manager of a place of detention, a juvenile rehabilitation centre or a place of safety, that a person ordered to be detained in the place of detention, juvenile rehabilitation centre or place of safety is of so unruly a character that he cannot be so detained, the Court may —
 
-(a) order the person to be transferred to and detained in an approved school or in another approved school, as the case may be, which the Court considers more suitable for him and to be detained there for the whole or any part of the unexpired period of detention; or
+(a) order the person to be transferred to and detained in a juvenile rehabilitation centre or in another juvenile rehabilitation centre, as the case may be, which the Court considers more suitable for him and to be detained there for the whole or any part of the unexpired period of detention; or
 
 (b) order the person to be brought before a District Court to be dealt with under section 305 of the Criminal Procedure Code 2010 if the person —
 
 (i) has attained the age of 16 years; or
 
-(ii) having attained the age of 14 years but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under subsection (1)(i) to be sent to an approved school,
+(ii) having attained the age of 14 years but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under subsection (1)(i) to be sent to a juvenile rehabilitation centre,
 
 and the Juvenile Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre.
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
-### Power to convene family conference to deal with child or young person guilty of offence
+### Power to convene juvenile case conference to deal with child or young person guilty of offence
 
-45\.—(1) Without prejudice to section 44, the Juvenile Court may, for the purpose of dealing with a child or young person who has been found guilty of committing an offence (referred to in this section as the offender), convene a family conference in accordance with the prescribed requirements and a family conference so convened may deal with the offender by —
+45\.—(1) Without prejudice to section 44, the Juvenile Court may, for the purpose of dealing with a child or young person who has been found guilty of committing an offence (referred to in this section as the offender), convene a juvenile case conference in accordance with the prescribed requirements and a juvenile case conference so convened may deal with the offender by —
 
 (a) reprimanding the offender;
 
 (b) administering a formal caution to the offender in the prescribed manner against further committing any offence;
 
-(c) requiring the offender to pay compensation to the victim of the offence in such manner and of such amount as may be determined by the family conference;
+(c) requiring the offender to pay compensation to the victim of the offence in such manner and of such amount as may be determined by the juvenile case conference;
 
-(d) requiring the offender, in accordance with the prescribed requirements, to perform community service, not exceeding 240 hours in the aggregate, of such nature and at such time and place and subject to such conditions as may be specified by the family conference;
+(d) requiring the offender, in accordance with the prescribed requirements, to perform community service, not exceeding 240 hours in the aggregate, of such nature and at such time and place and subject to such conditions as may be specified by the juvenile case conference;
 
-(e) requiring the offender to apologise to the victim of the offence in such manner as may be specified by the family conference; or
+(e) requiring the offender to apologise to the victim of the offence in such manner as may be specified by the juvenile case conference; or
 
-(f) requiring the offender to do such other act as the family conference thinks appropriate in the circumstances.
+(f) requiring the offender to do such other act as the juvenile case conference thinks appropriate in the circumstances.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(2) In exercising its powers under this section, the family conference shall —
+(2) In exercising its powers under this section, the juvenile case conference shall —
 
 (a) comply with the prescribed procedure; and
 
 (b) have regard to the orders which may be made by the Juvenile Court under section 44 for dealing with a person who has been found guilty by the Court of a comparable offence.
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
 (3) If the offender fails —
 
-(a) to attend at the time and place appointed for a family conference; or
+(a) to attend at the time and place appointed for a juvenile case conference; or
 
-(b) to comply with any requirement of the family conference,
+(b) to comply with any requirement of the juvenile case conference,
 
-the family conference shall report the matter to the Juvenile Court and the Court shall thereupon make such order as is necessary for the offender to be produced before the Court and thereafter deal with the offender as the Court thinks fit in accordance with section 44.
+the juvenile case conference shall report the matter to the Juvenile Court and the Court shall thereupon make such order as is necessary for the offender to be produced before the Court and thereafter deal with the offender as the Court thinks fit in accordance with section 44.
 
-[20/2001]
-
-(4) A person who attends a family conference (not being the offender, the parent or guardian of the offender or any other member of the offender’s family) shall not divulge any personal information obtained at the conference relating to any of those persons.
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(4) A person who attends a juvenile case conference (not being the offender, the parent or guardian of the offender or any other member of the offender’s family) shall not divulge any personal information obtained at the conference relating to any of those persons.
+
+[3/2011 wef 20/07/2011]
+
+[20/2001]
+
+(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [44A
 
@@ -1162,7 +1400,7 @@ the family conference shall report the matter to the Juvenile Court and the Cour
 
 ### Additional orders which may be made by Juvenile Court in relation to child or young person found guilty of offence
 
-46\.—(1) Where a child or young person has been dealt with in connection with an offence by a court or by a family conference, the Juvenile Court may, on its own motion or on the application of the Director or a protector, make an additional order requiring either or both the child or young person and the parent or guardian thereof to undergo such counselling, psychotherapy or other programme or to partake in such activity as the Court thinks necessary for the purpose of —
+46\.—(1) Where a child or young person has been dealt with in connection with an offence by a court or by a juvenile case conference, the Juvenile Court may, on its own motion or on the application of the Director or a protector, make an additional order requiring either or both the child or young person and the parent or guardian thereof to undergo such counselling, psychotherapy or other programme or to partake in such activity as the Court thinks necessary for the purpose of —
 
 (a) resolving any relationship problems between the child or young person and the parent or guardian thereof;
 
@@ -1172,27 +1410,31 @@ the family conference shall report the matter to the Juvenile Court and the Cour
 
 (d) enhancing, promoting or protecting the physical, social and emotional well-being and safety of the child or young person.
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
 (2) In making an order referred to in subsection (1), the Juvenile Court may require the parent or guardian of the child or young person to enter into a bond to comply with such order.
 
 [20/2001]
 
-(3) Where the parent or guardian of any child or young person contravenes any order made by the Juvenile Court under subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(3) Where the parent or guardian of any child or young person contravenes with any order made by the Juvenile Court under subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [44B
 
 [20/2001]
 
-### Maximum age limit for detention in place of detention, approved home or approved school
+### Maximum age limit for detention in place of detention, juvenile rehabilitation centre or place of safety
 
 47\. Subject to section 77 —
 
 (a) no person shall be detained in a place of detention after he has attained the age of 18 years; and
 
-(b) no person shall be detained in an approved school or an approved home after he has attained the age of 19 years.
+(b) no person shall be detained in a juvenile rehabilitation centre or a place of safety after he has attained the age of 19 years.
 
 [45
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1206,17 +1448,55 @@ the family conference shall report the matter to the Juvenile Court and the Cour
 
 Children and Young Persons in need of Care and Protection
 
+### Voluntary care agreements
+
+48A\. Where the Director is of the view that a voluntary care agreement will promote the welfare of a child or young person and it is practicable to enter into such voluntary care agreement with the parent or guardian of the child or young person, the Director may enter into such voluntary care agreement subject to such conditions and requirements as may be prescribed.
+
+[3/2011 wef 20/07/2011]
+
+### Procedure
+
+48B\.—(1) Subject to section 48C, all applications to a Juvenile Court under section 49 or 50 shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by the District Court or a Magistrate’s Court under the provisions of the Criminal Procedure Code 2010 (Act 15 of 2010) and an application under section 49 or 50 shall be deemed to be a complaint for the purposes of that Code.
+
+[3/2011 wef 20/07/2011]
+
+(2) For the avoidance of doubt, proceedings under section 49 or 50 shall not be treated as criminal proceedings.
+
+[3/2011 wef 20/07/2011]
+
+### Service of summons
+
+48C\.—(1) Every summons issued by a court in connection with any proceedings under section 49 or 50 may be served on the person concerned —
+
+(a) by delivering it to him;
+
+(b) by delivering it to any adult person who is a member of the family residing at his last known place of residence; or
+
+(c) by forwarding it by registered post in a cover addressed to him at his last known place of residence or business or at any address furnished by him.
+
+[3/2011 wef 20/07/2011]
+
+(2) Any summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the summons is addressed at the time when the summons would in the ordinary course of post be delivered.
+
+[3/2011 wef 20/07/2011]
+
+(3) In proving service by registered post, it shall be sufficient to prove that the cover containing the summons was properly addressed, stamped and posted by registered post.
+
+[3/2011 wef 20/07/2011]
+
 ### Powers of Juvenile Court in respect of children and young persons in need of care or protection
 
-49\.—(1) Subject to the provisions of this section, if a Juvenile Court is satisfied that any person brought before it is a child or young person in need of care or protection, the Court may —
+49\.—(1) Subject to the provisions of this section and on the application made by the Director or a protector, if a Juvenile Court is satisfied that any person brought before it is a child or young person in need of care or protection, the Court may —
 
 (a) order the parent or guardian of the child or young person to enter into a bond to exercise proper care and guardianship of the child or young person for such period as may be specified by the Court;
 
 (b) order the child or young person to be committed to the care of a fit person for such period as may be specified by the Court;
 
-(c) order the child or young person to be committed to an approved home or a place of safety for such period as may be specified by the Court; or
+(c) order the child or young person to be committed to a place of safety or a place of temporary care and protection for such period as may be specified by the Court; or
 
 (d) without making any other order or in addition to an order under paragraph (a), (b) or (c), make an order placing the child or young person under the supervision of a protector, an approved welfare officer or any other person appointed for that purpose by the Court, for such period as may be specified by the Court.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1228,11 +1508,21 @@ Children and Young Persons in need of Care and Protection
 
 [20/2001]
 
+(3A) Where the Juvenile Court considers the presence of a child or young person or his parent or guardian to be necessary or expedient for the purposes of the proceedings, the Court may compel the attendance of the child or young person or his parent or guardian by summons.
+
+[3/2011 wef 20/07/2011]
+
+(3B) The Juvenile Court may dispense with the attendance of a child or young person in Court if it considers that the prejudicial effects, if any, of dispensing with his attendance is outweighed by any harm or injury to or any other detrimental effect on the welfare of the child or young person that will or may be caused to him by his attendance in Court.
+
+[3/2011 wef 20/07/2011]
+
 (4) Notwithstanding subsection (3), an order under subsection (1) may be made if the parent or guardian of the child or young person, having been required to attend, has failed to do so or cannot be found within a reasonable time.
 
 [20/2001]
 
-(5) In determining what order to be made under subsection (1), the Juvenile Court shall treat the welfare of the child or young person as the paramount consideration and shall endeavour to obtain such information as to the family background, general conduct, home surroundings, school record, medical history and state of development of the child or young person as may enable the Court to deal with the case in the best interests of the child or young person.
+(5) In determining what order to be made under subsection (1), the Juvenile Court shall treat the welfare of the child or young person as the paramount consideration and shall endeavour to obtain such information as to the family background, general conduct, home environment, school record, medical history and state of development of the child or young person as may enable the Court to deal with the case in the best interests of the child or young person.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1244,31 +1534,47 @@ Children and Young Persons in need of Care and Protection
 
 (c) order the child or young person to be sent for an assessment by a registered medical practitioner or an approved welfare officer;
 
-(d) require the parent or guardian of the child or young person to undergo such medical, psychological or other assessment as the Court thinks necessary; and
+(d) require the parent or guardian of the child or young person to undergo such medical, psychiatric, psychological or other assessment as the Court thinks necessary; and
 
 (e) from time to time adjourn the case for such period as it thinks necessary and make in respect of the child or young person, as an interim order having effect only during the period of adjournment, any order which it could have made under subsection (1).
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 (7) Where the Juvenile Court requires any child or young person or the parent or guardian thereof to undergo any assessment under subsection (6)(c) or (d) —
 
-(a) the person carrying out the assessment shall provide a written report to the Court stating the results of his assessment, and such report may be received and considered by the Court without being read aloud; and
+(a) the person carrying out the assessment shall provide a written report to the Court and a protector stating the results of his assessment, and such report may be received and considered by the Court without being read aloud; and
 
 (b) the costs of and incidental to any such assessment shall be borne by the parent or guardian of the child or young person, unless the Court directs otherwise.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 (8) If the Juvenile Court is not satisfied that the child or young person brought before it is in need of protection, the Court may order that the child or young person be returned to the care and custody of his parent or guardian.
 
-[48
+(9) The Juvenile Court may, at any time before the expiry of an order made under subsection (1) and on the application of the Director or a protector, vary or discharge the order if the Court is satisfied that it would be in the best interests of the person in respect of whom the order was made.
+
+[3/2011 wef 20/07/2011]
+
+(10) For the avoidance of doubt, where an order to be varied or discharged under subsection (9) is an order made under subsection (1)(b), (c) or (d) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Juvenile Court shall not vary the period for which the person is to be detained, committed to care or placed under supervision, as the case may be.
+
+[3/2011 wef 20/07/2011]
+
+(11) If the parent or guardian of the child or young person fails to enter into the bond within the time specified in the order made under subsection (1)(a) or breaches any condition of the bond, the parent or guardian shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
+
+[48
 
 Children and Young Persons beyond Parental Control
 
 ### Power of parent or guardian to bring child or young person before Juvenile Court
 
-50\.—(1) Where the parent or guardian of a child or young person proves to a Juvenile Court that he is unable to control the child or young person, the Court, if satisfied —
+50\.—(1) Where the parent or guardian of a child or young person proves to a Juvenile Court that he is unable to control the child or young person, the Court, may on the application made by the parent or guardian and if satisfied —
 
 (a) that it is expedient so to deal with the child or young person; and
 
@@ -1278,9 +1584,15 @@ may order the child or young person —
 
 (i) to be placed on supervision under the supervision of an approved welfare officer or of some other person appointed for the purpose by the Court for a period not exceeding 3 years; or
 
-(ii) to be sent to an approved home for a period of not less than 2 years and not more than 3 years.
+(ii) to be sent to a place of safety for a period not exceeding 3 years.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
+
+(1A) Where the Juvenile Court requires further information to be provided as to the family background, general conduct, home environment, school record, medical history and state of development of the child or young person, the Court may order that the child or young person be kept in custody at such place as may be determined by a protector pending the receipt of such information by the Court.
+
+[3/2011 wef 20/07/2011]
 
 (2) The provisions of section 49(5), (6) and (7) shall apply, with the necessary modifications, in respect of an order made by the Juvenile Court under subsection (1) as they apply in respect of an order made by the Juvenile Court under section 49(1).
 
@@ -1288,9 +1600,13 @@ may order the child or young person —
 
 (3) The Juvenile Court may, on the application of the Director, a protector or the parent or guardian of any child or young person in respect of whom an order under subsection (1) has been made, vary or discharge the order if the Court is satisfied that it is in the best interests of the child or young person to do so.
 
-[49
+(4) For the avoidance of doubt, where an order to be varied or discharged under subsection (3) is an order made under subsection (1)(i) or (ii) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Juvenile Court shall not vary the period for which the person is to be placed on supervision or detained in a place of safety, as the case may be.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
+
+[49
 
 Additional powers of Juvenile Court
 
@@ -1314,15 +1630,410 @@ Additional powers of Juvenile Court
 
 (3) Where the parent or guardian of any child or young person fails to comply with any order or requirement of the Juvenile Court under subsection (1) or (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-[49A
-
 [20/2001]
+
+[49A
 
 ### Failure to comply with requirements of supervision order
 
 52\. If it appears on information to the Juvenile Court that a child or young person against whom a supervision order made under section 50 is in force has failed to comply with any of the requirements of the supervision order, the Court may make a fresh order against the child or young person under that section.
 
 [50
+
+## PART IIIA
+
+LICENSING OF HOMES FOR CHILDREN
+
+
+
+
+AND YOUNG PERSONS
+
+### Homes for children and young persons to be licensed
+
+52A\.—(1) No person shall operate a home for children and young persons except under the authority of and in accordance with the terms and conditions of a licence issued by the Director.
+
+[3/2011 wef 20/07/2011]
+
+(2) Any —
+
+(a) person who operates a home for children and young persons without a licence issued by the Director under subsection (1); or
+
+(b) licensee who breaches any term or condition of the licence in respect of a licensed home for children and young persons,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[3/2011 wef 20/07/2011]
+
+### Application for licence
+
+52B\.—(1) An application for the issuance or renewal of a licence shall be made to the Director in such form as may be prescribed.
+
+[3/2011 wef 20/07/2011]
+
+(2) A licensee who wishes to renew his licence must make an application for the renewal of his licence at least 6 months before the expiry of his licence.
+
+[3/2011 wef 20/07/2011]
+
+(3) On receipt of an application, the Director may, in his discretion —
+
+(a) issue or renew a licence subject to such terms and conditions as he may think fit to impose; or
+
+(b) refuse to issue or renew the licence.
+
+[3/2011 wef 20/07/2011]
+
+(4) The Director may refuse to issue or renew a licence if —
+
+(a) the Director is not satisfied that —
+
+(i) the applicant is a fit or proper person to hold or continue to hold a licence in respect of a home for children and young persons; or
+
+(ii) where the applicant is a body corporate, any member of the board of directors, the committee, board of trustees or other governing body of the body corporate is a fit and proper person;
+
+(b) the premises are unfit to be used as a home for children and young persons by reason of the situation, construction, accommodation, staffing, cleanliness or equipment or any other condition of the premises of the proposed home;
+
+(c) the premises to be used as a home for children and young persons do not comply with the prescribed requirements;
+
+(d) the home for children and young persons would not be under the continuous personal management and supervision of a person of sufficient qualifications and experience to ensure the satisfactory operation of the home; or
+
+(e) it is not in the public interest to issue or renew the licence.
+
+[3/2011 wef 20/07/2011]
+
+(5) In deciding for the purposes of this section whether a person is a fit and proper person, the Director may consider any of the following matters as indicating that the person may not be a fit and proper person:
+
+(a) that the person associates with a criminal in a way that indicates involvement in an unlawful activity;
+
+(b) that in dealings in which the person has been involved, the person or officer —
+
+(i) has shown dishonesty or lack of integrity; or
+
+(ii) has used harassing tactics;
+
+(c) that the person is or was suffering from a mental disorder; or
+
+(d) that the person is an undischarged bankrupt or has entered into a composition with his debtors.
+
+[3/2011 wef 20/07/2011]
+
+(6) Subsection (5) shall not be construed so as to limit the circumstances in which a person or an officer of a business entity may be considered by the Director not to be a fit and proper person.
+
+[3/2011 wef 20/07/2011]
+
+(7) Where the Director refuses to issue a licence, he shall state in writing the reasons for his refusal.
+
+[3/2011 wef 20/07/2011]
+
+### Fee for and duration of licence
+
+52C\.—(1) On the issue or renewal of a licence, the licensee shall pay a fee of such amount as may be prescribed.
+
+[3/2011 wef 20/07/2011]
+
+(2) Unless earlier revoked, a licence shall be valid for a period of 2 years from the date of its issue or such shorter period as may be specified in the licence in any particular case.
+
+[3/2011 wef 20/07/2011]
+
+### Display of licence
+
+52D\.—(1) Every licensee shall cause his or its licence to be permanently displayed in a conspicuous place in the home for children and young persons to which the licence relates where the licence can readily be seen by all persons having access to that home for children and young persons.
+
+[3/2011 wef 20/07/2011]
+
+(2) Any licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[3/2011 wef 20/07/2011]
+
+### Transfer of licence
+
+52E\.—(1) On an application in writing signed by the licensee of any licensed home for children and young persons and by the person to whom the licensee desires to transfer the licence (referred to in this section as the transferee), the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to the transferee, and thereupon the transferee shall become the licensee of the home for children and young persons.
+
+[3/2011 wef 20/07/2011]
+
+(2) The Director may refuse to approve the transfer of a licence on any of the grounds on which —
+
+(a) he could have refused to issue a licence to the transferee under section 52B; or
+
+(b) he could have revoked the licence under section 52L.
+
+[3/2011 wef 20/07/2011]
+
+### Inspection of homes for children and young persons
+
+52F\.—(1) The Director and any officer authorised by him may —
+
+(a) at any time, enter and inspect —
+
+(i) any licensed home for children and young persons; or
+
+(ii) any premises which he has reason to suspect are used for the purposes of a home for children and young persons without a licence;
+
+(b) require any person taking part in the operation or management of a licensed home for children and young persons to —
+
+(i) produce any record, document or other article relating to the management of that home for children and young persons or to any other activity in respect of the home for children and young persons; and
+
+(ii) furnish any other information relating to such management or activity;
+
+(c) remove for further examination any record, document or other article which he has reason to suspect is evidence of the commission of an offence under this Act, or is evidence of a ground for —
+
+(i) the suspension or revocation of the licence of a person in respect of a home for children and young persons; or
+
+(ii) where the home for children and young persons is a juvenile rehabilitation centre or place of safety, the cancellation of the certificate of appointment of the juvenile rehabilitation centre or place of safety; and
+
+(d) do such other things as are necessary for the inspection of a licensed home for children and young persons.
+
+[3/2011 wef 20/07/2011]
+
+(2) Any person who prevents or obstructs the Director or any officer authorised by him in the execution of his powers, or refuses to produce any record, document, article or other information upon being required to do so under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[3/2011 wef 20/07/2011]
+
+(3) In this section, a reference to a record, document, article or information includes any record, document, article or information which exists in any form or medium.
+
+[3/2011 wef 20/07/2011]
+
+### Review Board
+
+52G\.—(1) The Minister may, by notification in theGazette, appoint such persons as he may think fit to be the members of the Review Board.
+
+[3/2011 wef 20/07/2011]
+
+(2) The members of the Review Board shall hold office for such period as may be specified in the notification referred to in subsection (1).
+
+[3/2011 wef 20/07/2011]
+
+(3) The functions of the Review Board shall be to —
+
+(a) review the living conditions in and the standard of care and supervision provided by any licensed home for children and young persons to the children and young persons residing therein;
+
+(b) review all cases of children and young persons admitted to a licensed home for children and young persons with a view to ensuring that a proper care plan is in place for such children and young persons; and
+
+(c) advise the Director on —
+
+(i) whether any child or young person who has been placed in a juvenile rehabilitation centre or place of safety, may be released on licence from the juvenile rehabilitation centre or place of safety at any time before the completion of his full period of detention; and
+
+(ii) the conditions subject to which such child or young person should be released.
+
+[3/2011 wef 20/07/2011]
+
+(4) Every member of the Review Board appointed under subsection (1) may enter at any time any licensed home for children and young persons and make such inquiries or examination therein as appear to him necessary and shall also make such reports as may be required by the Minister.
+
+[3/2011 wef 20/07/2011]
+
+(5) Any person who refuses admittance to any such member of the Review Board appointed under subsection (1) or offers any hindrance or obstruction to such member after his identity is reasonably established shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[3/2011 wef 20/07/2011]
+
+(6) For the purpose of this section, a proper care plan must meet such requirements as may be specified by the Director.
+
+[3/2011 wef 20/07/2011]
+
+### Director may direct remedial measures
+
+52H\.—(1) The Director may, in respect of any licensed home for children and young persons, by notice in writing, give such directions as he thinks necessary to ensure that —
+
+(a) it is operated and managed satisfactorily;
+
+(b) the welfare of the children and young persons residing in the home is properly safeguarded and promoted; and
+
+(c) the provisions of this Act are complied with.
+
+[3/2011 wef 20/07/2011]
+
+(2) For the avoidance of doubt, a direction under subsection (1) may include a direction requiring the licensee of a licensed home for children and young persons to suspend any staff of the home from his duties.
+
+[3/2011 wef 20/07/2011]
+
+(3) A notice under subsection (1) shall —
+
+(a) be served upon the licensee of the home for children and young persons; and
+
+(b) specify the period of time within which a direction shall be complied with.
+
+[3/2011 wef 20/07/2011]
+
+### Duty to furnish information
+
+52I\.—(1) The Director may, from time to time, by notice in writing, require the licensee of a home for children and young persons to furnish such information as the Director may require relating to —
+
+(a) the staff and residents;
+
+(b) the condition or treatment of any resident;
+
+(c) the premises of the home, the accommodation provided at the home and the environment at the home; and
+
+(d) any matter relevant to the administration or enforcement of this Act.
+
+[3/2011 wef 20/07/2011]
+
+(2) A licensee who on receipt of any notice under subsection (1) —
+
+(a) refuses or fails to furnish any information required by the Director; or
+
+(b) gives any false or misleading information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[3/2011 wef 20/07/2011]
+
+### Director may order closure of home for children and young persons
+
+52J\.—(1) If the Director has reason to believe that —
+
+(a) the premises of a licensed home for children and young persons are unfit or unsafe for use as such; or
+
+(b) the safety or welfare of the children and young persons residing in the home is being endangered,
+
+he may, by order in writing, direct the immediate closure of the home for children and young persons.
+
+[3/2011 wef 20/07/2011]
+
+(2) The Director may make an order under subsection (1) notwithstanding that the licence in respect of the home for children and young persons has not been cancelled, revoked or suspended.
+
+[3/2011 wef 20/07/2011]
+
+(3) An order under this section shall be served on the licensee of the home for children and young persons and shall take effect from the date of the service thereof.
+
+[3/2011 wef 20/07/2011]
+
+(4) It shall be sufficient service of an order under this section if —
+
+(a) it is delivered personally to the licensee;
+
+(b) it is sent by registered post to the last known residential or business address of the licensee; or
+
+(c) a copy of the order is posted in a conspicuous place on or in the premises of the home for children and young persons to which the order relates.
+
+[3/2011 wef 20/07/2011]
+
+(5) Any person who fails to comply with an order served on him under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[3/2011 wef 20/07/2011]
+
+### Cancellation of licence at request of licensee
+
+52K\.—(1) The licensee of any licensed home for children and young persons may, upon giving 6 months’ prior notice of his intention to do so, apply for the cancellation of the licence issued in respect of the licensed home for children and young persons.
+
+[3/2011 wef 20/07/2011]
+
+(2) The executor or administrator of a deceased licensee, may, upon giving one month’s prior notice in writing of his intention to do so, apply for the cancellation of the licence issued in respect of the licensed home for children and young persons.
+
+[3/2011 wef 20/07/2011]
+
+(3) Where a notice has been given under subsection (1) or (2) and has not been withdrawn, the licence shall be deemed to be cancelled upon the expiry of the notice period referred to in that subsection.
+
+[3/2011 wef 20/07/2011]
+
+### Revocation and suspension of licence
+
+52L\.—(1) The Director may revoke or suspend a licence to use any premises as a home for children and young persons —
+
+(a) on any of the grounds on which he could have refused to issue a licence under section 52B;
+
+(b) if the licensee fails to comply with any direction given by the Director under section 52H;
+
+(c) if the premises has ceased to be used as a home for children and young persons;
+
+(d) if in the opinion of the Director —
+
+(i) the standard of care available to or provided to any resident in the home is unsatisfactory;
+
+(ii) any resident has been ill-treated or neglected in a manner likely to cause unnecessary suffering to him or has been kept in an environment that is injurious to his mental or physical health;
+
+(iii) the premises of the home are in such a condition, or the home is managed or conducted in such a manner, that the revocation of the licence is required in the interests of the residents or in the public interest;
+
+(e) if a licensee is convicted of any offence under this Act; or
+
+(f) if a licensee has contravened or failed to comply with any of the provisions of this Act or any condition specified in the licence issued to him.
+
+[3/2011 wef 20/07/2011]
+
+(2) Before revoking or suspending a licence, the Director shall give notice to the licensee of the ground or grounds on which he proposes to revoke or suspend the licence and shall give the licensee an opportunity to show cause as to why the licence should not be revoked or suspended.
+
+[3/2011 wef 20/07/2011]
+
+(3) A licensee who wishes to show cause against the revocation or suspension of the licence shall submit his reasons in writing to the Director within 14 days after the date of the notice given by the Director under subsection (2), failing which the Director may nonetheless proceed to revoke or suspend the licence, as the case may be.
+
+[3/2011 wef 20/07/2011]
+
+(4) The Director shall give written notice to the licensee of the Director’s decision to revoke or suspend a licence.
+
+[3/2011 wef 20/07/2011]
+
+### Effect of cancellation, revocation or suspension of licence
+
+52M\.—(1) Where the licence of a home for children and young persons is cancelled under section 52K, or revoked or suspended under section 52L, the home shall cease to be used as such with effect from the date on which the licence is cancelled, revoked or suspended, as the case may be.
+
+[3/2011 wef 20/07/2011]
+
+(2) For the avoidance of doubt, subsection (1) shall have effect notwithstanding any appeal by the licensee to the Minister under section 52O.
+
+[3/2011 wef 20/07/2011]
+
+### Discharge or transfer of children and young persons
+
+52N\. When the licence of a home for children and young persons is cancelled, revoked or suspended, or the Director has ordered its immediate closure under section 52J, the children and young persons residing therein shall by order of the Minister, either be discharged or transferred to another licensed home for children and young persons specified in the order.
+
+[3/2011 wef 20/07/2011]
+
+### Appeal
+
+52O\. Any person aggrieved by any decision of the Director under section 52B or 52L may, within 21 days after the date of the written notice of the decision, appeal to the Minister whose decision shall be final.
+
+[3/2011 wef 20/07/2011]
+
+### Exemption
+
+52P\.—(1) Subject to subsection (2), this Part shall not apply to —
+
+(a) any home for children and young persons which is under the management or control of the Government;
+
+(b) any child care centre licensed under the Child Care Centres Act (Cap. 37A);
+
+(c) any school which is registered under the Education Act (Cap. 87);
+
+(d) any approved institution established under the Probation of Offenders Act (Cap. 252);
+
+(e) any place where a child or young person is being cared for by a parent, family member or foster parent; and
+
+(f) such other home for children and young persons as may be prescribed.
+
+[3/2011 wef 20/07/2011]
+
+(4) Sections 52F and 52G shall apply to a home for children and young persons under the management or control of the Government.
+
+[3/2011 wef 20/07/2011]
+
+### Regulations for this Part
+
+52Q\.—(1) The Minister may make regulations for the purposes of this Part and, in particular, for the management of licensed homes for children and young persons and for the maintenance of order and discipline of the staff and of the persons residing in such homes.
+
+[3/2011 wef 20/07/2011]
+
+(2) Without prejudice to the generality of subsection (1), the Minister may make regulations providing for all or any of the following matters:
+
+(a) the forms, fees and registers for the purposes of this Act;
+
+(b) the operation, management and supervision of a licensed home for children and young persons;
+
+(c) the duties and responsibilities of licensees of licensed homes for children and young persons;
+
+(d) the standard of care and supervision of children and young persons residing in a licensed home for children and young persons;
+
+(e) the control and supervision of activities in a licensed home for children and young persons;
+
+(f) the keeping of records;
+
+(g) the reports and information to be supplied to the Director in respect of a licensed home for children and young persons;
+
+(h) the prescribing of anything which may be prescribed under this Part.
+
+[3/2011 wef 20/07/2011]
+
+(3) The Director may, by notice in writing to the licensee of a licensed home for children and young person, vary or waive wholly, partly or conditionally the requirements of any regulation in respect of that home for children and young persons and may amend or withdraw any such notice.
+
+[3/2011 wef 20/07/2011]
 
 ## PART IV
 
@@ -1338,7 +2049,7 @@ REMAND HOMES
 
 (b) that he is of so unruly a character that he cannot be safely so remanded; or
 
-(c) that by reason of his state of health or of his mental or bodily condition it is inadvisable to so remand him,
+(c) that by reason of his state of health or of his mental or bodily condition it is inadvisable to so remand him.
 
 (3) The certificate shall be produced to the court before which the person is brought.
 
@@ -1349,6 +2060,10 @@ REMAND HOMES
 54\.—(1) A court on remanding a child or young person who is not released on bail shall, notwithstanding anything to the contrary in any other written law, instead of remanding him in custody in a prison, remand him in custody in a remand home named in the order of remand for the period for which he is remanded or until he is from that place delivered in due course of law.
 
 (2) A court committing for trial a child or young person who is not released on bail shall, notwithstanding anything to the contrary in any other written law, instead of committing him to prison, commit him to a remand home, to be remanded there for the period for which he is committed or until he is delivered from that place in due course of law.
+
+(2A) Where an order made by the Juvenile Court in respect of a child or young person under section 44(1) has been contravened, the Juvenile Court may, notwithstanding that the person is above the age of 16 years (but below the age of 19 years) at the time of the contravention, order that the person be remanded in a remand home pending any further order by the Court on how he is to be dealt with.
+
+[3/2011 wef 20/07/2011]
 
 (3) Notwithstanding subsection (1), any person whilst being subject to the jurisdiction of the Juvenile Court who has attained the age of 16 years but is below the age of 19 years may be remanded at a remand home.
 
@@ -1380,47 +2095,64 @@ PLACES OF DETENTION
 
 ## PART VI
 
-APPROVED SCHOOLS AND APPROVED HOMES
+JUVENILE REHABILITATION CENTRES
 
-### Minister may appoint approved schools and approved homes
 
-56\.—(1) The manager of any institution intended for the reception, care and rehabilitation of persons to be sent there under this Act may apply to the Minister to appoint the institution as an approved school or approved home.
+
+
+AND PLACES OF SAFETY
+
+[3/2011 wef 20/07/2011]
+
+### Minister may appoint juvenile rehabilitation centres and places of safety
+
+56\.—(1) The manager of any institution intended for the reception, care and rehabilitation of persons to be sent there under this Act may apply to the Minister to appoint the institution as a juvenile rehabilitation centre or place of safety.
 
 (2) The Minister may, after directing the Director to make such inquiries as he thinks fit, so appoint the institution and issue a certificate of appointment and approval to the manager thereof, and such certificate shall be published in theGazette.
 
-(3) Any institution appointed under subsection (2) shall, while that certificate remains in force, be an appointed approved school or approved home, as the case may be, for the purposes of this Act.
+(3) Any institution appointed under subsection (2) shall, while that certificate remains in force, be an appointed juvenile rehabilitation centre or place of safety for the purposes of this Act.
 
 [54
 
+[3/2011 wef 20/07/2011]
+
 ### Manager may make regulations with approval of Minister
 
-57\. The manager of an appointed approved school or approved home may, with the approval of the Minister, make regulations for the regulation and management of the institution under his charge.
+57\. The manager of an appointed juvenile rehabilitation centre or place of safety may, with the approval of the Minister, make regulations for the regulation and management of the institution under his charge.
 
 [55
 
 ### Manager shall send monthly report to Director
 
-58\. The manager of an appointed approved school or approved home shall send a monthly report to the Director containing such particulars as may be required by the regulations for the approved school or approved home.
+58\. The manager of an appointed juvenile rehabilitation centre or place of safety shall send a monthly report to the Director containing such particulars as may be required by the regulations for the juvenile rehabilitation centre or place of safety.
 
 [56
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 ### Minister may cancel certificate
 
-59\.—(1) A report on the condition of any appointed approved school or approved home shall be made to the Minister by the Director if the Director is dissatisfied with the condition of the approved school or approved home.
+59\.—(1) A report on the condition of any appointed juvenile rehabilitation centre or place of safety shall be made to the Minister by the Director if the Director is dissatisfied with the condition of the juvenile rehabilitation centre or place of safety.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(2) The Minister may, upon consideration of this report, cancel his certificate and, upon notice in writing of such cancellation having been given to the manager thereof, the school or home shall cease to be an appointed approved school or approved home, as the case may be, from such time as is specified in the notice, and such cancellation shall be notified in theGazette.
+(2) The Minister may, upon consideration of this report, cancel his certificate and, upon notice in writing of such cancellation having been given to the manager thereof, the juvenile rehabilitation centre or place of safety shall cease to be an appointed juvenile rehabilitation centre or place of safety from such time as is specified in the notice, and such cancellation shall be notified in theGazette.
 
 [57
 
+[3/2011 wef 20/07/2011]
+
 ### Manager or his executor or administrator may cancel certificate
 
-60\.—(1) The manager of any appointed approved school or approved home may, upon giving 6 months’ previous notice, and the executors and administrators of a deceased manager may, upon giving one month’s previous notice in writing of his or their intention to do so, apply for the cancellation of the certificate given to the approved school or approved home.
+60\.—(1) The manager of any appointed juvenile rehabilitation centre or place of safety may, upon giving 6 months’ previous notice, and the executors and administrators of a deceased manager may, upon giving one month’s previous notice in writing of his or their intention to do so, apply for the cancellation of the certificate given to the juvenile rehabilitation centre or place of safety.
 
 [20/2001]
+
+[3/2011 wef 20/07/2011]
 
 (2) Where a notice has been given under subsection (1) and has not been withdrawn, the certificate shall be deemed on the expiration of the notice to be cancelled, and such cancellation shall be published in theGazette.
 
@@ -1428,73 +2160,81 @@ APPROVED SCHOOLS AND APPROVED HOMES
 
 ### Duties of managers
 
-61\. The manager of an appointed approved school or approved home shall carry out all duties necessary for the reception, care and rehabilitation of any child or young person sent to him under this Act for the period which the child or young person is liable to be detained or until the certificate is cancelled.
+61\. The manager of an appointed juvenile rehabilitation centre or place of safety shall carry out all duties necessary for the reception, care and rehabilitation of any child or young person sent to him under this Act for the period which the child or young person is liable to be detained or until the certificate is cancelled.
 
 [59
 
 ### Effect of cancellation of certificate
 
-62\. Whenever the certificate of an appointed approved school or approved home is cancelled under section 59, no child or young person shall be received into the approved school or approved home, under any of the provisions of this Act, after notice in writing of such cancellation is given to the manager of the approved school or approved home.
+62\. Whenever the certificate of an appointed juvenile rehabilitation centre or place of safety is cancelled under section 59, no child or young person shall be received into the juvenile rehabilitation centre or place of safety, under any of the provisions of this Act, after notice in writing of such cancellation is given to the manager of the juvenile rehabilitation centre or place of safety.
 
 [60
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 ### Discharge or transfer of juveniles
 
-63\.—(1) When the certificate of an appointed approved school or approved home is cancelled, the persons resident therein shall be, by order of the Minister, either discharged or transferred to some other appointed approved school or approved home or to an approved school or approved home established under section 64.
+63\.—(1) When the certificate of an appointed juvenile rehabilitation centre or place of safety is cancelled, the persons resident therein shall be, by order of the Minister, either discharged or transferred to some other appointed juvenile rehabilitation centre or place of safety or to a juvenile rehabilitation centre or place of safety established under section 64.
 
-(2) The whole period of detention for which any person was sent to such approved school or approved home shall not be increased by the transfer.
+[3/2011 20/07/2011]
+
+(2) The whole period of detention for which any person was sent to such juvenile rehabilitation centre or place of safety shall not be increased by the transfer.
+
+[3/2011 wef 20/07/2011]
 
 [61
 
-### Minister may establish approved schools and approved homes
+### Minister may establish juvenile rehabilitation centres and places of safety
 
-64\.—(1) The Minister may, by order published in theGazette, establish such approved schools and approved homes as may be necessary for the purposes of this Act.
+64\.—(1) The Minister may, by order published in theGazette, establish such juvenile rehabilitation centres and places of safety as may be necessary for the purposes of this Act.
 
-(2) Every such order shall specify the premises in which the approved school or approved home to which it refers is to be established and shall state whether the same is to be used for male or female persons, or both.
+[3/2011 wef 20/07/2011]
+
+(2) Every such order shall specify the premises in which the juvenile rehabilitation centre or place of safety to which it refers is to be established and shall state whether the same is to be used for male or female persons, or both.
 
 [62
 
-### Control and management of approved schools and approved homes established under section 64
+[3/2011 wef 20/07/2011]
 
-65\.—(1) Approved schools and approved homes established by the Minister under section 64 shall be under the control and management of —
+### Control and management of juvenile rehabilitation centres and places of safety established under section 64
+
+65\.—(1) Juvenile rehabilitation centres and places of safety established by the Minister under section 64 shall be under the control and management of —
 
 (a) the Director; or
 
 (b) a governing board consisting of such persons as may be appointed by the Minister.
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
-(2) In controlling and managing any approved school or approved home established under section 64, the Director or a governing board appointed under subsection (1)(b) shall have the powers, functions and duties conferred or imposed on the manager of an approved school or an approved home by this Act.
+(2) In controlling and managing any juvenile rehabilitation centre or place of safety established under section 64, the Director or a governing board appointed under subsection (1)(b) shall have the powers, functions and duties conferred or imposed on the manager of a juvenile rehabilitation centre or a place of safety by this Act.
 
 [63
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
-### Director may make regulations for approved schools and approved homes
+### Director may make regulations for juvenile rehabilitation centres and places of safety
 
-66\. The Director may, with the approval of the Minister, make regulations for the management of approved schools or approved homes established under the provisions of this Act and for the maintenance of order and discipline of the staff and the persons detained therein.
+66\. The Director may, with the approval of the Minister, make regulations for the management of juvenile rehabilitation centres or places of safety established under the provisions of this Act and for the maintenance of order and discipline of the staff and the persons detained therein.
 
 [64
 
-### Board of visitors
+[3/2011 wef 20/07/2011]
 
-67\.—(1) The Minister may, by notification in theGazette, appoint such persons as he may think fit to be members of a board of visitors in respect of any approved school, approved home, remand home, place of detention or place of safety for such period as may be specified in the notification.
-
-(2) Every person appointed under subsection (1) may enter at all reasonable times any approved school, approved home, remand home, place of detention or place of safety and make such inquiries or examination therein as appear to him necessary and shall also make such reports as may be required by the Minister.
-
-(3) Any manager who refuses admittance to any such visitor or to the Director or any officer deputed by the Director for the purpose or offers any hindrance or obstruction to those persons after their identity is reasonably established shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[65
+67\. [Repealed by Act 3/2011 wef 20/07/2011]
 
 ## PART VII
 
-PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN JUVENILE REHABILITATION CENTRES, PLACES OF SAFETY, REMAND HOMES AND PLACES OF DETENTION
 
-### Duties and powers of manager of approved school, approved home, remand home or place of detention in respect of persons detained therein
+### Duties and powers of manager of juvenile rehabilitation centre, place of safety, remand home or place of detention in respect of persons detained therein
 
-68\.—(1) Without prejudice to section 61, the manager of an approved school, an approved home, a remand home or a place of detention shall have the following duties in respect of persons who are detained therein under this Act:
+68\.—(1) Without prejudice to section 61, the manager of a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention shall have the following duties in respect of persons who are detained therein under this Act:
 
 (a) to prevent the escape of such persons from lawful custody;
 
@@ -1506,77 +2246,95 @@ PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HO
 
 (e) to carry out in respect of such persons such other duties as may be prescribed.
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
-(2) For the purpose of discharging his duties under subsection (1), the manager of an approved school, an approved home, a remand home or a place of detention may —
+(2) For the purpose of discharging his duties under subsection (1), the manager of a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention may —
 
-(a) give to any person being detained in the approved school, approved home, remand home or place of detention any order that the manager believes on reasonable grounds to be necessary —
+(a) give to any person being detained in the juvenile rehabilitation centre, place of safety, remand home or place of detention any order that the manager believes on reasonable grounds to be necessary —
 
-(i) for the security or good order in the approved school, approved home, remand home or place of detention;
+(i) for the security or good order in the juvenile rehabilitation centre, place of safety, remand home or place of detention;
 
-(ii) for the welfare or safe custody of that person or the other persons being detained in the approved school, approved home, remand home or place of detention; or
+(ii) for the welfare or safe custody of that person or the other persons being detained in the juvenile rehabilitation centre, place of safety, remand home or place of detention; or
 
-(iii) for ensuring that that person or any other person being detained in the approved school, approved home, remand home or place of detention does not commit any offence or any breach of discipline;
+(iii) for ensuring that that person or any other person being detained in the juvenile rehabilitation centre, place of safety, remand home or place of detention does not commit any offence or any breach of discipline;
 
-(b) require any person being detained in the approved school, approved home, remand home or place of detention to provide any information or answer any question that may be relevant to any duty being performed by the manager;
+(b) require any person being detained in the juvenile rehabilitation centre, place of safety, remand home or place of detention to provide any information or answer any question that may be relevant to any duty being performed by the manager;
 
-(c) search any person being detained in the approved school, approved home, remand home or place of detention and any article in the possession of such person;
+(c) search any person being detained in the juvenile rehabilitation centre, place of safety, remand home or place of detention and any article in the possession of such person;
 
 (d) use such force as is reasonable and necessary —
 
-(i) to compel a person being detained in the approved school, approved home, remand home or place of detention to obey any order or requirement given or made by the manager under this section; or
+(i) to compel a person being detained in the juvenile rehabilitation centre, place of safety, remand home or place of detention to obey any order or requirement given or made by the manager under this section; or
 
 (ii) to restrain any such person who is attempting or preparing to commit or is committing any offence or any breach of discipline; and
 
 (e) exercise such other powers as may be conferred on him by this Act.
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
-(3) In this section, the reference to the manager of an approved school, an approved home, a remand home or a place of detention includes any person assisting the manager of the approved school, approved home, remand home or place of detention in the management thereof.
+(3) In this section, the reference to the manager of a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention includes any person assisting the manager of the juvenile rehabilitation centre, place of safety, remand home or place of detention in the management thereof.
 
 [66
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
-### Minister may discharge or transfer any person from one approved school, approved home or place of detention to another
+### Minister may discharge or transfer any person from one juvenile rehabilitation centre, place of safety or place of detention to another
 
-69\.—(1) The Minister may at any time, notwithstanding any order made by any court, order any person to be discharged from any approved school, approved home or place of detention or to be transferred from one approved school, approved home or place of detention to another.
+69\.—(1) The Minister may at any time, notwithstanding any order made by any court, order any person to be discharged from any juvenile rehabilitation centre, place of safety or place of detention or to be transferred from one juvenile rehabilitation centre, place of safety or place of detention to another.
 
-(2) The whole period of detention for which any person was sent to such approved school, approved home or place of detention shall not be increased by the transfer.
+(2) The whole period of detention for which any person was sent to such juvenile rehabilitation centre, place of safety or place of detention shall not be increased by the transfer.
 
 [67
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 ### Illness of child or young person detained
 
-70\.—(1) In the case of the serious illness of any child or young person who is detained in an approved school, an approved home, a remand home or a place of detention under the provisions of this Act, in which there is no suitable facilities for the child or young person, the manager of such approved school, approved home, remand home or place of detention may, on the certificate of a registered medical practitioner, make an order for his admittance to an approved hospital.
+70\.—(1) In the case of the serious illness of any child or young person who is detained in a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention under the provisions of this Act, in which there is no suitable facilities for the child or young person, the manager of such juvenile rehabilitation centre, place of safety, remand home or place of detention may, on the certificate of a registered medical practitioner, make an order for his admittance to an approved hospital.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(2) So long as any child or young person who has been removed to an approved hospital under subsection (1) remains therein, the registered medical practitioner thereof shall, at the end of every month, transmit to the manager of the approved school, approved home, remand home or place of detention where the child or young person was detained a certificate signed by him that it is in his opinion necessary that he should remain in the approved hospital.
+(2) So long as any child or young person who has been removed to an approved hospital under subsection (1) remains therein, the registered medical practitioner thereof shall, at the end of every month, transmit to the manager of the juvenile rehabilitation centre, place of safety, remand home or place of detention where the child or young person was detained a certificate signed by him that it is in his opinion necessary that he should remain in the approved hospital.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(3) In this section, “approved hospital” includes any hospital which the Minister may, by notification in theGazette, may declare to be a hospital for the purposes of this section.
+(3) In this section, “approved hospital” includes any hospital which the Minister may, by notification in theGazette, declare to be a hospital for the purposes of this section.
 
 [68
 
-### Return from approved hospital to approved school, approved home, remand home or place of detention
+### Return from approved hospital to juvenile rehabilitation centre, place of safety, remand home or place of detention
 
-71\.—(1) So soon as, in the opinion of the registered medical practitioner in charge in any approved hospital, it is no longer necessary that any child or young person who has been removed to the approved hospital should remain therein, he shall transmit to the manager of the approved school, approved home, remand home or place of detention where the child or young person was detained a certificate stating that the necessity has ceased.
+71\.—(1) So soon as, in the opinion of the registered medical practitioner in charge in any approved hospital, it is no longer necessary that any child or young person who has been removed to the approved hospital should remain therein, he shall transmit to the manager of the juvenile rehabilitation centre, place of safety, remand home or place of detention where the child or young person was detained a certificate stating that the necessity has ceased.
 
-(2) Upon the transmission of the certificate, the manager shall immediately cause the child or young person to be brought back to the approved school, approved home, remand home or place of detention if he is still liable to be detained therein.
+[3/2011 wef 20/07/2011]
+
+(2) Upon the transmission of the certificate, the manager shall immediately cause the child or young person to be brought back to the juvenile rehabilitation centre, place of safety, remand home or place of detention if he is still liable to be detained therein.
 
 [69
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
 ### Duty to inform manager
 
-72\. Where a child or young person detained in an approved school or approved home is admitted to an approved hospital, it shall be the duty of a registered medical practitioner or any officer of the approved hospital to inform the manager of the approved school or approved home, if he has reason to believe that the child or young person may escape.
+72\. Where a child or young person detained in a juvenile rehabilitation centre or place of safety is admitted to an approved hospital, it shall be the duty of a registered medical practitioner or any officer of the approved hospital to inform the manager of the juvenile rehabilitation centre or place of safety, if he has reason to believe that the child or young person may escape.
 
 [70
+
+[3/2011 wef 20/07/2011]
 
 ### Special custody in hospital
 
@@ -1588,15 +2346,17 @@ PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HO
 
 [20/2001]
 
-### Power of Director or protector to give consent to medical treatment to child or young person in need thereof
+### Power of Director or protector to give consent to medical examination or medical treatment to child or young person in need thereof
 
-74\. Where a child or young person who has been committed to the care of a fit person or who is being detained in an approved school, an approved home, an approved institution, a remand home, a place of detention, a place of safety or any other place being used for the reception and care of children or young persons is in need of any medical treatment (including any surgical procedure) and —
+74\. Where a child or young person who has been committed to the care of a fit person or who is being detained in a juvenile rehabilitation centre, a place of safety, an approved institution, a remand home, a place of detention, a place of temporary care and protection or any other place being used for the reception and care of children or young persons is in need of any medical examination or medical treatment (including any surgical procedure) and —
 
-(a) the consent of the parent or guardian of the child or young person to such medical treatment cannot be obtained despite all reasonable efforts; and
+(a) the consent of the parent or guardian of the child or young person to such medical examination or medical treatment cannot be obtained despite all reasonable efforts; and
 
-(b) any delay in carrying out the medical treatment would cause the child or young person unnecessary suffering or endanger his health,
+(b) any delay in carrying out the medical examination or medical treatment would cause the child or young person unnecessary suffering or endanger his health,
 
-the Director or a protector may give consent to the carrying out of such medical treatment and any consent so given shall, for all intents and purposes, be sufficient consent and authorisation for the carrying out of the medical treatment.
+the Director or a protector may give consent to the carrying out of such medical examination or medical treatment and any consent so given shall, for all intents and purposes, be sufficient consent and authorisation for the carrying out of the medical examination or medical treatment.
+
+[3/2011 wef 20/07/2011]
 
 [71A
 
@@ -1604,75 +2364,97 @@ the Director or a protector may give consent to the carrying out of such medical
 
 ### Saving of powers of High Court
 
-75\. Nothing contained in this Act contained shall be held to lessen or affect the powers of the Judges of the High Court to direct persons confined in Singapore to be brought before the Court by an Order for Review of Detention.
+75\. Nothing contained in this Act shall be held to lessen or affect the powers of the Judges of the High Court to direct persons confined in Singapore to be brought before the Court by an Order for Review of Detention.
 
 [72
 
-### Review of cases of persons ordered to be detained in approved schools or approved homes
+### Review of cases of persons ordered to be detained in juvenile rehabilitation centres or places of safety
 
-76\.—(1) The manager of any approved school or approved home shall review all cases of children or young persons committed to the approved school or approved home under section 44 or 50, when they have been detained for 12 months and may, after such review, recommend to the Director that any child or young person shall be released on licence.
+76\.—(1) The manager of any juvenile rehabilitation centre or place of safety shall review all cases of children or young persons committed to the juvenile rehabilitation centre or place of safety under section 44 or 50 and may, after such review, recommend to the Director that any child or young person shall be released on licence.
 
-(2) The Director, on the advice of the advisory board mentioned in subsection (3) and notwithstanding any order made by any court, shall have power to order the release on licence of any person who has been detained in an approved school or approved home for 12 months, at any time before the completion of his full period of detention and on such conditions as may be stated by the Director in the order, including a condition that he shall be under the supervision of such person as may be specified in the order.
+[3/2011 wef 20/07/2011]
+
+(2) The Director, on the advice of the Review Board and notwithstanding any order made by any court, shall have power to order the release on licence of any person who has been detained in a juvenile rehabilitation centre or a place of safety, at any time before the completion of his full period of detention and on such conditions as may be stated by the Director in the order, including a condition that he shall be under the supervision of such person as may be specified in the order.
+
+[3/2011 wef 20/07/2011]
 
 (3) The Director may at any time modify or cancel any of the conditions.
 
-(4) The Minister shall appoint one or more advisory boards which shall advise and make recommendations to the Director on such cases as may be referred to it by the Minister.
+[3/2011 wef 20/07/2011]
 
-(5) Any member of an advisory board shall hold office for such period as may be stated in their notice of appointment, which shall be published in theGazette.
+(4) [Deleted by Act 3/2011 wef 20/07/2011]
 
-(6) If a person released from an approved school or approved home on licence by order of the Director fails to comply with any condition of his licence, the Director may order the return of that person to the approved school or approved home from which he was released, to be detained there for the unexpired portion of his original period of detention or such shorter period as the Director thinks fit.
+(5) [Deleted by Act 3/2011 wef 20/07/2011]
+
+(6) If a person released from a juvenile rehabilitation centre or a place of safety on licence by order of the Director fails to comply with any condition of his licence, the Director may order the return of that person to the juvenile rehabilitation centre or place of safety from which he was released, to be detained there for the unexpired portion of his original period of detention or such shorter period as the Director thinks fit.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(7) Where a person has returned to the approved school or approved home under subsection (6), the Director may, on the advice of an advisory board, may order the release on licence of that person if he has served a minimum period of 6 months under detention after his return.
+(7) Where a person has returned to the juvenile rehabilitation centre or place of safety under subsection (6), the Director may, on the advice of the Review Board, order the release on licence of that person if he has served a minimum period of 6 months under detention after his return.
 
-(8) If any person while under licence or after his recall is sentenced to imprisonment, any period for which he is imprisoned under that sentence shall count as part of the period for which he is liable to detention in an approved school or approved home under his original detention order.
+[3/2011 wef 20/07/2011]
+
+(8) If any person while under licence or after his recall is sentenced to imprisonment, any period for which he is imprisoned under that sentence shall count as part of the period for which he is liable to detention in a juvenile rehabilitation centre or a place of safety under his original detention order.
 
 [73
 
-### Escape from approved schools or approved homes
+[3/2011 wef 20/07/2011]
 
-77\.—(1) Every person detained under this Act in an approved school or an approved home shall serve the full period of his detention as ordered by the court and shall be deemed to be in lawful custody until he is lawfully discharged therefrom.
+### Escape from juvenile rehabilitation centres or places of safety
 
-[20/2001]
+77\.—(1) Every person detained under this Act in a juvenile rehabilitation centre or a place of safety shall serve the full period of his detention as ordered by the court and shall be deemed to be in lawful custody until he is lawfully discharged therefrom.
 
-(2) If any person who is being detained under this Act in an approved school or approved home escapes from the approved school or approved home before the expiry of his period of detention —
-
-(a) he may be apprehended without warrant by a police officer or an approved welfare officer and brought back to the approved school or approved home by the police officer or approved welfare officer, as the case may be; and
-
-(b) the period of his detention in the approved school or approved home shall be extended by the period (as computed by the manager of the approved school or approved home) for which he was at large.
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(3) Notwithstanding anything stated in this section, no person shall be detained in any approved school or approved home after he attains the age of 19 years and 6 months.
+(2) If any person who is being detained under this Act in a juvenile rehabilitation centre or place of safety escapes from the juvenile rehabilitation centre or place of safety before the expiry of his period of detention —
+
+(a) he may be apprehended without warrant by a police officer or an approved welfare officer and brought back to the juvenile rehabilitation centre or place of safety by the police officer or approved welfare officer, as the case may be; and
+
+(b) the period of his detention in the juvenile rehabilitation centre or place of safety shall be extended by the period (as computed by the manager of the juvenile rehabilitation centre or place of safety) for which he was at large.
+
+[3/2011 wef 20/07/2011]
+
+[20/2001]
+
+(3) Notwithstanding anything stated in this section, no person shall be detained in any juvenile rehabilitation centre or place of safety after he attains the age of 19 years and 6 months.
 
 [74
+
+[3/2011 wef 20/07/2011]
 
 ### Penalties for assisting or inducing persons to escape and for harbouring or concealing escaped persons
 
 78\. Any person who —
 
-(a) knowingly assists, directly or indirectly, any person legally detained in any approved school, approved home or place of detention or committed to the care or custody of a person or detained in any approved hospital to escape therefrom;
+(a) knowingly assists, directly or indirectly, any person legally detained in any juvenile rehabilitation centre, place of safety or place of detention or committed to the care or custody of a person or detained in any approved hospital to escape therefrom;
 
 (b) induces any such person so to escape; or
 
-(c) knowing that any such person ordered to be detained or committed has escaped from any such approved school, approved home or place of detention or from the care or custody of a person or from an approved hospital, harbours or conceals or assists in harbouring or concealing that person, or causes or induces him not to return to such school, home, person, place of detention or approved hospital,
+(c) knowing that any such person ordered to be detained or committed has escaped from any such juvenile rehabilitation centre, place of safety or place of detention or from the care or custody of a person or from an approved hospital, harbours or conceals or assists in harbouring or concealing that person, or causes or induces him not to return to such school, home, person, place of detention or approved hospital,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [75
 
-### Prohibition against conveying certain articles to persons being detained in approved school, approved home, remand home or place of detention
+[3/2011 wef 20/07/2011]
+
+### Prohibition against conveying certain articles to persons being detained in juvenile rehabilitation centre, place of safety, remand home or place of detention
 
 79\. Any person who without lawful authority —
 
-(a) conveys, supplies or causes to be conveyed or supplied to any person being detained in an approved school, an approved home, a remand home or a place of detention; or
+(a) conveys, supplies or causes to be conveyed or supplied to any person being detained in a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention; or
 
-(b) hides or places in an approved school, an approved home, a remand home or a place of detention for the use of any person being detained therein,
+(b) hides or places in a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention for the use of any person being detained therein,
 
-any letter or document, or any intoxicating liquor, tobacco, drug, opiate, money, clothing, provisions, toiletry or any other article shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+any letter or document, or any intoxicating liquor, tobacco, drug, opiate, money, clothing, provisions, toiletry or any other article shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [75A
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1684,9 +2466,9 @@ any letter or document, or any intoxicating liquor, tobacco, drug, opiate, money
 
 ### Presumption
 
-81\. The production of the warrant or other document, in pursuance of which a child or young person is directed to be sent to an approved school, an approved home, a remand home or a place of detention or committed to the care or custody of a person or directed to be sent to an approved hospital, with a statement endorsed thereon or annexed thereto purporting to be signed by the manager of the approved school, approved home, place of detention, remand home or approved hospital or by the person to whose care or custody the child or young person is committed, as the case may be, to the effect that the child or young person named therein was duly —
+81\. The production of the warrant or other document, in pursuance of which a child or young person is directed to be sent to a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention or committed to the care or custody of a person or directed to be sent to an approved hospital, with a statement endorsed thereon or annexed thereto purporting to be signed by the manager of the juvenile rehabilitation centre, place of safety, place of detention, remand home or approved hospital or by the person to whose care or custody the child or young person is committed, as the case may be, to the effect that the child or young person named therein was duly —
 
-(a) received into and is at the date of the signing thereof detained in such approved school, approved home, remand home or place of detention; or
+(a) received into and is at the date of the signing thereof detained in such juvenile rehabilitation centre, place of safety, remand home or place of detention; or
 
 (b) taken into his care or custody and is at the date of signing thereof still in his care or custody, or has been otherwise dealt with according to law,
 
@@ -1694,13 +2476,17 @@ shall in all proceedings relating to that child or young person be prima facie e
 
 [77
 
+[3/2011 wef 20/07/2011]
+
 [20/2001]
 
 ### Evidence
 
-82\. A copy of the regulations of an approved school, an approved home, a remand home or a place of detention appointed or established under the provisions of this Act or of an approved hospital, purporting to be signed by the Director shall be evidence of such regulations in all legal proceedings.
+82\. A copy of the regulations of a juvenile rehabilitation centre, a place of safety, a remand home or a place of detention appointed or established under the provisions of this Act or of an approved hospital, purporting to be signed by the Director shall be evidence of such regulations in all legal proceedings.
 
 [78
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1710,13 +2496,17 @@ EXPENSES AND CONTRIBUTIONS
 
 ### Contributions by parents or guardians
 
-83\. Where an order has been made by a Juvenile Court under any of the provisions of this Act committing a child or young person to the care of a fit person, or sending the child or young person to a place of safety, place of detention, an approved school or approved home, it shall be the duty of a parent or guardian or other person having the custody of the child or young person to make contributions in respect of the maintenance of the child or young person.
+83\. Where an order has been made by a Juvenile Court under any of the provisions of this Act committing a child or young person to the care of a fit person, or sending the child or young person to a place of temporary care and protection, place of detention, juvenile rehabilitation centre or place of safety, it shall be the duty of a parent or guardian or other person having the custody of the child or young person to make contributions in respect of the maintenance of the child or young person.
 
 [79
 
+[3/2011 wef 20/07/2011]
+
 ### Contribution order
 
-84\.—(1) When an order has been made by a Juvenile Court committing a child or young person to the care of a fit person or sending the child or young person to a place of safety, a place of detention, a hostel, an approved school or approved home, the Court which makes the order may, at the same time or subsequently, make an order (referred to in this section as a contribution order) on the parent or guardian or person having the custody of the child or young person requiring him to contribute such weekly or monthly sum as the Court, having regard to the means of the parent, guardian or person having the custody of the child or young person, thinks fit.
+84\.—(1) When an order has been made by a Juvenile Court committing a child or young person to the care of a fit person or sending the child or young person to a place of temporary care and protection, a place of detention, a hostel, a juvenile rehabilitation centre or a place of safety, the Court which makes the order may, at the same time or subsequently, make an order (referred to in this section as a contribution order) on the parent or guardian or person having the custody of the child or young person requiring him to contribute such weekly or monthly sum as the Court, having regard to the means of the parent, guardian or person having the custody of the child or young person, thinks fit.
+
+[3/2011 wef 20/07/2011]
 
 (2) An order made under subsection (1) may be made against a parent or guardian or person having the custody of the child or young person, who, having been required to attend, has failed to do so.
 
@@ -1724,11 +2514,15 @@ EXPENSES AND CONTRIBUTIONS
 
 (4) A contribution order shall remain in force —
 
-(a) in the case of a child or young person committed to the care of a fit person, so long as the order for his committal is in force,
+(a) in the case of a child or young person committed to the care of a fit person, so long as the order for his committal is in force; and
 
-(b) in the case of a child or young person ordered to be sent to a place of safety, place of detention, an approved school or approved home, until he ceases to be under the care of the person in charge for the time being of such place of safety, place of detention, approved school, or approved home.
+(b) in the case of a child or young person ordered to be sent to a place of temporary care and protection, place of detention, juvenile rehabilitation centre or place of safety, until he ceases to be under the care of the person in charge for the time being of such place of temporary care and protection, place of detention, juvenile rehabilitation centre or place of safety.
 
-(5) No contribution shall be payable under a contribution order in respect of any period during which a person ordered to be sent to a place of safety, place of detention, an approved school or approved home is released on licence from an approved school or approved home or placed under the supervision of an approved welfare officer.
+[3/2011 wef 20/07/2011]
+
+(5) No contribution shall be payable under a contribution order in respect of any period during which a person ordered to be sent to a place of temporary care and protection, place of detention, juvenile rehabilitation centre or place of safety is released on licence from a juvenile rehabilitation centre or a place of safety or placed under the supervision of an approved welfare officer.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1756,9 +2550,11 @@ MISCELLANEOUS
 
 ### Protection from personal liability
 
-86\. No suit or other legal proceedings shall lie personally against the Director or any protector, police officer, approved welfare officer, probation officer or member of a board of visitors or a governing board or any other person acting under the direction of the Director or a protector for anything which is in good faith done or intended to be done in the enforcement or purported enforcement of this Act.
+86\. No suit or other legal proceedings shall lie personally against the Director or any protector, police officer, approved welfare officer, probation officer or member of the Review Board or a governing board or any other person acting under the direction of the Director or a protector for anything which is in good faith done or intended to be done in the enforcement or purported enforcement of this Act.
 
 [84
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1768,7 +2564,15 @@ MISCELLANEOUS
 
 [20/2001]
 
-(2) Where the Director or a police officer receives any notification under subsection (1), the Director or police officer may, without prejudice to any other power conferred on him by this Act, transmit any information contained in the notification to a protector or any other person assisting the Director in the administration or enforcement of this Act, in order that such protector or person may take such action as may be necessary in accordance with this Act to ensure that the child or young person concerned receives the care or protection that he needs.
+(2) Where the Director or a police officer not below the rank of sergeant receives any notification under subsection (1), the Director or police officer may, without prejudice to any other power conferred on him by this Act, transmit any information contained in the notification to —
+
+(a) a protector or any other person assisting the Director in the administration or enforcement of this Act; and
+
+(b) any other person or class of persons specified by the Director,
+
+in order that the protector or person may take such action as may be necessary in accordance with this Act to ensure that the child or young person concerned receives the care or protection that he needs.
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1790,6 +2594,74 @@ MISCELLANEOUS
 
 [20/2001]
 
+### Confidentiality of information relating to children and young persons
+
+87A\.—(1) Any person to whom any information relating to a child or young person has been disclosed to him by the Director in the performance of any duty or the exercise of any power by the person shall not disclose such information to another person unless such disclosure has been authorised by the Director.
+
+[3/2011 wef 20/07/2011]
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[3/2011 wef 20/07/2011]
+
+### Offences by bodies corporate, etc.
+
+87B\.—(1) Where an offence under this Act committed by a body corporate is proved —
+
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any act or default on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[3/2011 wef 20/07/2011]
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[3/2011 wef 20/07/2011]
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any act or default on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[3/2011 wef 20/07/2011]
+
+(4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[3/2011 wef 20/07/2011]
+
+(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any act or default on the part of such an officer or a member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[3/2011 wef 20/07/2011]
+
+(6) In this section —
+
+“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+[3/2011 wef 20/07/2011]
+
+(7) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate, limited liability partnership or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[3/2011 wef 20/07/2011]
+
 ### Regulations
 
 88\.—(1) The Minister may make regulations for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
@@ -1798,15 +2670,23 @@ MISCELLANEOUS
 
 (a) the care, maintenance and education of children and young persons committed to the care, custody or control of any person under the provisions of this Act and the duties of persons to whose care, custody or control the children and young persons have been committed;
 
-(b) the care, detention, temporary absence, maintenance, education, and conduct and discipline of children and young persons in approved schools, approved homes, remand homes, places of detention and places of safety;
+(b) the care, detention, temporary absence, maintenance, education, and conduct and discipline of children and young persons in juvenile rehabilitation centres, places of safety, remand homes, places of detention and places of temporary care and protection;
 
-(c) the constitution, functions and procedures of a governing board, a board of visitors and an advisory board;
+(c) the constitution, functions and procedures of a governing board and the Review Board;
 
-(d) the inspection of approved schools, approved homes, remand homes, places of detention and places of safety and returns to be furnished by persons in charge of such places; and
+(d) the inspection of juvenile rehabilitation centres, places of safety, remand homes, places of detention and places of temporary care and protection and returns to be furnished by persons in charge of such places;
 
-(e) the management of approved schools, approved homes, remand homes, places of detention and places of safety.
+(e) the management of juvenile rehabilitation centres, places of safety, remand homes, places of detention and places of temporary care and protection;
+
+(f) the considerations, conditions and requirements subject to which a voluntary care agreement may be made;
+
+(g) the effect of a voluntary care agreement and the validity period of such voluntary care agreement;
+
+(h) the implementation, variation and termination of a voluntary care agreement.
 
 [85
+
+[3/2011 wef 20/07/2011]
 
 [20/2001]
 
@@ -1866,6 +2746,11 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|9.|**Act 3 of 2011—Children and Young Persons (Amendment) Act 2011**|
+||Date of First Reading|22 November 2010|
+|||(Bill No. 35/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|11 January 2011|
+||Date of commencement|20 July 2011|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
@@ -2310,7 +3195,8 @@ PART VIII
 
 —
 
-PART VIII (Deleted by Act 20/2001)
+PART VIII
+(Deleted by Act 20/2001)
 
 85 
 
