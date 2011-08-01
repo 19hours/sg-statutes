@@ -58,7 +58,7 @@
 
 - [18 Restrictions on and relief against forfeiture of leases](#Restrictions-on-and-relief-against-forfeiture-of-leases)
 
-- [18A Relief against forfeiture by action for non-payment of rent. Cf. 4 George II c. 28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 138](#Relief-against-forfeiture-by-action-for-non-payment-of-rent-Cf-4-George-II-c-28-Landlord-and-Tenant-Act-1730-County-Courts-Act-1984-s-138)
+- [18A Relief against forfeiture by action for non-payment of rent.](#Relief-against-forfeiture-by-action-for-non-payment-of-rent)
 
 [**Part IV MORTGAGES**](#Part-IV)
 
@@ -172,11 +172,11 @@
 
 - [63 Construction of implied covenants](#Construction-of-implied-covenants)
 
-- [64 Receipt in deed or endorsed, authority for payment to solicitor](#Receipt-in-deed-or-endorsed-authority-for-payment-to-solicitor)
+- [64 Receipt in deed or endorsed thereon authority for payment, etc.](#Receipt-in-deed-or-endorsed-thereon-authority-for-payment-etc)
 
 - [65 Receipt in deed sufficient](#Receipt-in-deed-sufficient)
 
-- [65A Consideration expressed in instrument authority for payment to solicitor](#Consideration-expressed-in-instrument-authority-for-payment-to-solicitor)
+- [65A Consideration expressed in instrument authority for payment, etc.](#Consideration-expressed-in-instrument-authority-for-payment-etc)
 
 - [66 Receipt in deed or endorsed evidence for subsequent purchaser](#Receipt-in-deed-or-endorsed-evidence-for-subsequent-purchaser)
 
@@ -206,11 +206,15 @@
 
 - [73 Moneys payable under policy of assurance not to form part of the estate of the insured](#Moneys-payable-under-policy-of-assurance-not-to-form-part-of-the-estate-of-the-insured)
 
-- [73A Co-owner liable to account. Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)](#Co-owner-liable-to-account-Cf-4-and-5-Ann-c-3-Administration-of-Justice-Act-1705)
+- [73A Co-owner liable to account.](#Co-owner-liable-to-account)
 
-- [73B Voluntary conveyances to defraud creditors voidable. Cf. 13 Eliz. c.5 (1571) Law of Property Act 1925, s.172](#Voluntary-conveyances-to-defraud-creditors-voidable-Cf-13-Eliz-c5-1571-Law-of-Property-Act-1925-s172)
+- [73B Voluntary conveyances to defraud creditors voidable.](#Voluntary-conveyances-to-defraud-creditors-voidable)
 
-- [73C Voluntary disposition of land how far voidable as against purchasers. Cf. 27 Eliz. c.4 (1584-5) Law of Property Act 1925, s. 173](#Voluntary-disposition-of-land-how-far-voidable-as-against-purchasers-Cf-27-Eliz-c4-1584-5-Law-of-Property-Act-1925-s-173)
+- [73C Voluntary disposition of land how far voidable as against purchasers.](#Voluntary-disposition-of-land-how-far-voidable-as-against-purchasers)
+
+- [73D Rules to regulate conveyancing transactions, etc.](#Rules-to-regulate-conveyancing-transactions-etc)
+
+- [73E Adjudication of certain disputes relating to conveyancing money](#Adjudication-of-certain-disputes-relating-to-conveyancing-money)
 
 [**Part XVI PROCEDURE**](#Part-XVI)
 
@@ -218,7 +222,7 @@
 
 - [75 Orders of court not to be invalidated as against a purchaser](#Orders-of-court-not-to-be-invalidated-as-against-a-purchaser)
 
-[**THE SCHEDULE Forms Relating to Statutory Mortgages**](#THE-SCHEDULE)
+[**THE SCHEDULE Forms relating to Statutory Mortgages**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -264,7 +268,9 @@ PRELIMINARY
 
 “instrument” includes deed and will;
 
-“land” includes land freehold and leasehold, or of whatever tenure, and tenements and hereditaments, corporeal or incorporeal, and houses and other buildings, and also an undivided share in land; In relation to land; “income” includes rents and profits; and “possession” includes receipt of income;
+“land” includes land freehold and leasehold, or of whatever tenure, and tenements and hereditaments, corporeal or incorporeal, and houses and other buildings, and also an undivided share in land;
+
+In relation to land; “income” includes rents and profits; and “possession” includes receipt of income;
 
 “lease” includes an agreement for a lease where the lessee has become entitled to have his lease granted;
 
@@ -636,7 +642,7 @@ Forfeiture
 
 (10) This section shall apply to leases made before, on or after 1st August 1886, and shall have effect notwithstanding any stipulation to the contrary.
 
-### Relief against forfeiture by action for non-payment of rent. Cf. 4 George II c. 28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 138
+### Relief against forfeiture by action for non-payment of rent.
 
 18A\.—(1) This section has effect where a lessor is proceeding by action to enforce against a lessee a right of re-entry or forfeiture in respect of any immovable property for non-payment of rent.
 
@@ -697,6 +703,10 @@ the court shall suspend the writ for the extended period, and if, before the exp
 (a) the power of the court to enter final judgment in a case where the defendant fails to give notice of intention to defend; or
 
 (b) the power of the court to make any order which it would otherwise have power to make as respects a right of re-entry or forfeiture on any ground other than non-payment of rent.
+
+[Cf. 4 George II c. 28 (Landlord and Tenant Act 1730)]
+
+[County Courts Act 1984, s. 138]
 
 [35/93]
 
@@ -950,7 +960,7 @@ MARRIED WOMEN, ALIENS, CORPORATIONS
 
 ### Power for corporations to hold property as joint tenants
 
-39\.—(1) Subject to the provisions of the Residential Property Act, a body corporate shall be capable of acquiring and holding any real or personal property in joint tenancy in the same manner as if it were an individual; and where a body corporate and an individual, or two or more bodies corporate, become entitled to any such property under circumstances or by virtue of any instrument which would, if the body corporate had been an individual, have created a joint tenancy, they shall be entitled to the property as joint tenants:
+39\.—(1) Subject to the provisions of the Residential Property Act [Cap. 274], a body corporate shall be capable of acquiring and holding any real or personal property in joint tenancy in the same manner as if it were an individual; and where a body corporate and an individual, or two or more bodies corporate, become entitled to any such property under circumstances or by virtue of any instrument which would, if the body corporate had been an individual, have created a joint tenancy, they shall be entitled to the property as joint tenants:
 
 Provided that the acquisition and holding of property by a body corporate in joint tenancy shall be subject to the like conditions and restrictions as attach to the acquisition and holding of property by a body corporate in severalty.
 
@@ -962,13 +972,13 @@ MINORS
 
 ### Sales and leases on behalf of minor owner
 
-40\.—(1) Where a person in his own right seised of or entitled to any land is a minor, the land shall be deemed to be a settled estate within and the Settled Estates Act.
+40\.—(1) Where a person in his own right seised of or entitled to any land is a minor, the land shall be deemed to be a settled estate within the Settled Estates Act [Cap. 293].
 
 [7/2009 wef 01/03/2009]
 
 (2) Subsection (1) does not apply in the case of a lease not exceeding 3 years which is executed by a minor who has attained the age of 18 years as a principal.
 
-[Cap 293.]
+[7/2009 wef 01/03/2009]
 
 ### Management of land and receipt and application of income during minority
 
@@ -1002,6 +1012,8 @@ but so that, where the minor is impeachable for waste, the trustees shall not co
 
 (4) The trustees may, in their discretion, apply any income which, in the exercise of their discretion they consider proper, according to the minor’s age, for his or her maintenance, education or benefit, or pay thereout any money to the minor’s parent or guardian, to be applied for the same purposes.
 
+[7/2009 wef 01/03/2009]
+
 (5) The trustees shall lay out of the residue of the income of the land in investment on securities on which they are by the settlement (if any) or by law, authorised to invest trust money, with power to vary investments; and shall accumulate the income of the investments so made in the way of compound interest, by from time to time similarly investing the income and the resulting income of investments; and shall stand possessed of the accumulated fund arising from income of the land and from investments of income on the trusts following:
 
 (a) if the minor attains the age of 21 years, then in trust for the minor;
@@ -1017,6 +1029,8 @@ but so that, where the minor is impeachable for waste, the trustees shall not co
 [7/2009 wef 01/03/2009]
 
 (6) Where the minor’s estate or interest is in an undivided share of land, the powers of this section relative to the land may be exercised jointly with persons entitled to possession of, or having power to act in relation to, the other undivided share or shares.
+
+[7/2009 wef 01/03/2009]
 
 (7) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the minor arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
 
@@ -1106,15 +1120,11 @@ POWERS OF ATTORNEY
 
 ### Deposit of power of attorney
 
-48\.—(1)(a) An instrument creating a power of attorney, its execution being verified by affidavit, statutory declaration, notarial certificate or other sufficient evidence, or a true copy of the instrument duly compared therewith and marked by the Registrar, Deputy Registrar or Assistant Registrar of the Supreme Court with the words “true copy”, or, if the instrument is registered in Malaysia, an office copy thereof, may be deposited in the Registry of the Supreme Court.
+48\.—(1) (a) An instrument creating a power of attorney, its execution being verified by affidavit, statutory declaration, notarial certificate or other sufficient evidence, or a true copy of the instrument duly compared therewith and marked by the Registrar, Deputy Registrar or Assistant Registrar of the Supreme Court with the words “true copy”, or, if the instrument is registered in Malaysia, an office copy thereof, may be deposited in the Registry of the Supreme Court.
 
-(b)
+(b) For the purposes of this section, a photographic reproduction of any such instrument made in such manner and of such dimensions as may be prescribed by general rule shall be deemed to be a true copy of the instrument.
 
-For the purposes of this section, a photographic reproduction of any such instrument made in such manner and of such dimensions as may be prescribed by general rule shall be deemed to be a true copy of the instrument.
-
-(c)
-
-The affidavit or declaration, if any, verifying the execution of any instrument creating a power of attorney, or, where an office or true copy of such an instrument is deposited, an office or true copy of that affidavit or declaration, shall be deposited with the instrument or copy of the instrument, and paragraphs (a) and (b) shall apply, mutatis mutandis, to such office or true copy.
+(c) The affidavit or declaration, if any, verifying the execution of any instrument creating a power of attorney, or, where an office or true copy of such an instrument is deposited, an office or true copy of that affidavit or declaration, shall be deposited with the instrument or copy of the instrument, and paragraphs (a) and (b) shall apply, mutatis mutandis, to such office or true copy.
 
 (2) In the case of any instrument creating a power of attorney in a foreign language being so deposited, there shall be deposited therewith a translation thereof, certified by a sworn interpreter of the court, or if there is no interpreter attached to the court sworn to interpret in the language in which the instrument is written, the translation shall be verified by a statutory declaration of some person qualified to translate it.
 
@@ -1127,6 +1137,8 @@ The affidavit or declaration, if any, verifying the execution of any instrument 
 (6) If the instrument so deposited is in a foreign language, an office copy of the translation deposited with the instrument shall without further proof be admissible in evidence as a correct translation of the original document.
 
 (7) The fees to be taken in the Registry shall be fixed by the Chief Justice.
+
+[7/1997 wef 01/10/1997]
 
 (8) If any such instrument so deposited at any time thereafter has been or is revoked, the Registrar of the Supreme Court, on being satisfied by affidavit or statutory declaration or otherwise that the instrument has been revoked, shall endorse thereon a certificate stating that it has been revoked and the date thereof, and thereupon the instrument shall be deemed to have been duly revoked as from the date of that certificate.
 
@@ -1160,8 +1172,6 @@ CONSTRUCTION AND EFFECT OF DEEDS AND OTHER INSTRUMENTS
 
 (2) This section shall apply only to instruments coming into operation on or after 1st August 1886.
 
-[27 Hen.VIII.c.10.]
-
 ### Estates may be conveyed by deed though not operating under Statute of Uses
 
 52\.—(1) Any estate or interest in land, whether in possession, remainder or reversion, may be conveyed by a simple deed, whether the deed operates under the Statute of Uses\*or not.
@@ -1169,6 +1179,8 @@ CONSTRUCTION AND EFFECT OF DEEDS AND OTHER INSTRUMENTS
 \*The Statute of Uses was repealed as to Singapore by Ordinance 6 of 1886.
 
 (2) This section shall apply to deeds executed before, on or after 1st August 1886.
+
+[27 Hen. VIII. c. 10.]
 
 ### Conveyance to be by deed in English language
 
@@ -1252,21 +1264,41 @@ the mortgage money, or other money or money’s worth, for the time being due to
 
 63\. In the construction of a covenant or proviso, or other provision, implied in a deed by virtue of this Act, words importing the singular or plural number, or the masculine gender, shall be read as also importing the plural or singular number, or as extending to the feminine gender, as the case may require.
 
-### Receipt in deed or endorsed, authority for payment to solicitor
+### Receipt in deed or endorsed thereon authority for payment, etc.
 
-64\. Where a solicitor produces a deed, having in the body thereof or endorsed thereon a receipt for consideration money or other consideration, the deed being executed, or the endorsed receipt being signed, by the person entitled to give a receipt for that consideration, the deed shall be sufficient authority to the person liable to pay or give the same for his paying or giving the same to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the deed.
+64\.—(1) Where, before the appointed day, a solicitor produces a deed, having in the body thereof or endorsed thereon a receipt for consideration, the deed being executed, or the endorsed receipt being signed, by the person who is entitled to give a receipt for that consideration, the deed shall be sufficient authority to the person who is liable to pay or give the consideration for his paying or giving the consideration to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the deed.
+
+(2) Where, on or after the appointed day, a solicitor produces a deed, having in the body thereof or endorsed thereon a receipt for consideration, the deed being executed, or the endorsed receipt being signed, by the person who is entitled to give a receipt for that consideration, the deed shall be sufficient authority to the person who is liable to pay or give the consideration —
+
+(a) if the consideration is in the form of money, for his tendering to the solicitor any cashiers’ orders, cheques or other similar physical payment instruments pertaining to the payment of the consideration; or
+
+(b) if the consideration is in any other form, for his giving the consideration to the solicitor,
+
+without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the deed.
+
+(3) In this section, “appointed day” means the date of commencement of section 2(a) of the Conveyancing (Miscellaneous Amendments) Act 2011.
+
+[17/2011 wef 01/08/2011]
 
 ### Receipt in deed sufficient
 
 65\. A receipt for consideration money or securities in the body of a deed shall be a sufficient discharge for the same to the person paying or delivering the same, without any further receipt for the same being endorsed on the deed.
 
-### Consideration expressed in instrument authority for payment to solicitor
+### Consideration expressed in instrument authority for payment, etc.
 
-65A\. Where a solicitor produces an instrument as defined in the Land Titles Act in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or partly payable and partly paid, that instrument shall be sufficient authority to the person liable to pay or give the same for his paying or giving the same to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
+65A\.—(1) Where, before the appointed day, a solicitor produces an instrument as defined in the Land Titles Act (Cap. 157) in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or is partly payable and partly paid, that instrument shall be sufficient authority to the person who is liable to pay or give the consideration for his paying or giving the consideration to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
 
-[Cap 157.]
+(2) Where, on or after the appointed day, a solicitor produces an instrument as defined in the Land Titles Act in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or is partly payable and partly paid, that instrument shall be sufficient authority to the person who is liable to pay or give the consideration —
 
-[27/93]
+(a) if the consideration is in the form of money, for his tendering to the solicitor any cashiers’ orders, cheques or other similar physical payment instruments pertaining to the payment of the consideration; or
+
+(b) if the consideration is in any other form, for his giving the consideration to the solicitor,
+
+without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
+
+(3) In this section, “appointed day” means the date of commencement of section 2(b) of the Conveyancing (Miscellaneous Amendments) Act 2011.
+
+[17/2011 wef 01/08/2011]
 
 ### Receipt in deed or endorsed evidence for subsequent purchaser
 
@@ -1279,6 +1311,8 @@ the mortgage money, or other money or money’s worth, for the time being due to
 66A\.—(1) Tenants in common entitled in equal shares who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
 
 [27/93]
+
+[25/2001 wef 20/08/2001]
 
 (2) Upon the making of the deed of declaration referred to in subsection (1) —
 
@@ -1382,7 +1416,7 @@ MISCELLANEOUS
 
 ### Moneys payable under policy of assurance not to form part of the estate of the insured
 
-73\.—(1) A policy of assurance effected by any man on his own life and expressed , before the date of commencement of section 10 of the Insurance (Amendment) Act 2009, to be for the benefit of his wife or of his children or of his wife and children or any of them, or by any woman on her own life and expressed, before the date of commencement of section 10 of the Insurance (Amendment) Act 2009, to be for the benefit of her husband or of her children or of her husband and children or any of them, shall create a trust in favour of the objects therein named, and the moneys payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts.
+73\.—(1) A policy of assurance effected by any man on his own life and expressed, before the date of commencement of section 10 of the Insurance (Amendment) Act 2009, to be for the benefit of his wife or of his children or of his wife and children or any of them, or by any woman on her own life and expressed, before the date of commencement of section 10 of the Insurance (Amendment) Act 2009, to be for the benefit of her husband or of her children or of her husband and children or any of them, shall create a trust in favour of the objects therein named, and the moneys payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts.
 
 (2) If it is proved that the policy was effected and the premiums paid with intent to defraud the creditors of the insured, they shall be entitled to receive out of the moneys payable under the policy a sum equal to the premiums so paid.
 
@@ -1396,13 +1430,15 @@ MISCELLANEOUS
 
 (6) The receipt of a trustee or trustees duly appointed or, in default of any such appointment or in default of notice to the insurance office, the receipt of the legal personal representative of the insured, shall be a discharge to the office for the sum secured by the policy or for the value thereof in whole or in part.
 
-### Co-owner liable to account. Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)
+### Co-owner liable to account.
 
 73A\. A joint tenant or tenant in common shall be liable to account to his co-owner for receiving more than his share or proportion of any rents or profits arising from the property.
 
+[Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)]
+
 [35/93]
 
-### Voluntary conveyances to defraud creditors voidable. Cf. 13 Eliz. c.5 (1571) Law of Property Act 1925, s.172
+### Voluntary conveyances to defraud creditors voidable.
 
 73B\.—(1) Except as provided in this section, every conveyance of property, made whether before or after 12th November 1993, with intent to defraud creditors, shall be voidable, at the instance of any person thereby prejudiced.
 
@@ -1410,15 +1446,149 @@ MISCELLANEOUS
 
 (3) This section does not extend to any estate or interest in property disposed of for valuable consideration and in good faith or upon good consideration and in good faith to any person not having, at the time of the disposition, notice of the intent to defraud creditors.
 
+[Cf. 13 Eliz. c.5 (1571)]
+
+[Law of Property Act 1925, s. 172]
+
 [35/93]
 
-### Voluntary disposition of land how far voidable as against purchasers. Cf. 27 Eliz. c.4 (1584-5) Law of Property Act 1925, s. 173
+### Voluntary disposition of land how far voidable as against purchasers.
 
 73C\.—(1) Every voluntary disposition of immovable property made with intent to defraud a subsequent purchaser is voidable at the instance of that purchaser.
 
 (2) For the purposes of this section, no voluntary disposition shall be deemed to have been made with intent to defraud by reason only that a subsequent disposition for valuable consideration was made.
 
+[Cf. 27 Eliz. c.4 (1584-5)]
+
+[Law of Property Act 1925, s. 173]
+
 [35/93]
+
+### Rules to regulate conveyancing transactions, etc.
+
+73D\.—(1) The Minister may make rules to regulate conveyancing transactions and the receipt, holding and distribution of conveyancing money.
+
+(2) Without prejudice to the generality of subsection (1), the rules made under this section may —
+
+(a) specify what constitutes —
+
+(i) a conveyancing transaction; and
+
+(ii) conveyancing money;
+
+(b) prohibit such persons as may be prescribed from holding conveyancing money, except in such circumstances and subject to such conditions as may be prescribed;
+
+(c) require any person referred to in paragraph (b) who receives any conveyancing money to deposit the money with any entity appointed by the Minister under subsection (3);
+
+(d) provide for the receipt, holding and distribution of conveyancing money by any entity referred to in paragraph (c);
+
+(e) prescribe the terms and conditions which shall apply to every conveyancing transaction;
+
+(f) provide for measures to ensure compliance with the requirements of the rules;
+
+(g) provide for any person who is required by the rules to countersign any document for the purpose of facilitating the payment of any conveyancing money to be protected from liability for countersigning that document in accordance with the rules, if his act of countersigning that document —
+
+(i) was done in good faith; and
+
+(ii) did not involve any fraud or wilful misconduct on his part;
+
+(h) provide that any contravention of any provision of the rules shall be an offence punishable with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 3 years or with both;
+
+(i) exempt any person or entity, or any class of persons or entities, from any provision of the rules; and
+
+(j) contain such transitional, savings or other consequential provisions as the Minister considers necessary or expedient.
+
+(3) The Minister may, by the rules made under this section, appoint, upon such conditions as he may think fit, any entity or class of entities as an entity, or a class of entities, with which conveyancing money may be deposited for the purposes of the rules.
+
+(4) Where an agreement entered into on or after the date of commencement of section 2(c) of the Conveyancing (Miscellaneous Amendments) Act 2011 in respect of a conveyancing transaction contains any contractual term that is inconsistent with the rules made under this section, that term shall, to the extent of the inconsistency, not have effect.
+
+(5) The Public Prosecutor may, on such terms and conditions as he may determine, compound any offence under the rules made under this section.
+
+(6) Where an offence under the rules made under this section is compounded under subsection (5), no further proceedings shall be taken against the person reasonably suspected of having committed the offence.
+
+(7) The Minister shall designate the public officer who may collect any sum of money paid for the composition of any offence under the rules made under this section.
+
+(8) All sums collected for the composition of offences under the rules made under this section shall be paid into the Consolidated Fund.
+
+[17/2011 wef 01/08/2011]
+
+### Adjudication of certain disputes relating to conveyancing money
+
+73E\.—(1) The Minister may make rules to establish a Scheme for the adjudication of relevant disputes.
+
+(2) Without prejudice to the generality of subsection (1), the rules made under this section may —
+
+(a) specify the types of disputes (being disputes relating to the receipt, holding and distribution of conveyancing money under the relevant rules) which will constitute relevant disputes;
+
+(b) prescribe the procedure for the adjudication, under the Scheme, of any relevant dispute;
+
+(c) provide for the appointment of an administrator for the Scheme;
+
+(d) provide for the appointment of adjudicators for the Scheme;
+
+(e) provide for the powers of an adjudicator, including —
+
+(i) the power to determine any relevant dispute that is submitted for adjudication under the Scheme;
+
+(ii) the power to order any party to a relevant dispute submitted for adjudication under the Scheme to do one or more of the following:
+
+(A) to comply with any requirement under the relevant rules;
+
+(B) to pay such compensation (including interest for the late completion of a conveyancing transaction) as the adjudicator may determine for any loss caused, by reason of that party’s failure to comply with any requirement under the relevant rules, to any other party to that dispute;
+
+(C) to pay such costs as the adjudicator may determine to any other party to that dispute; and
+
+(iii) if the adjudicator is of the opinion that any dispute submitted for adjudication under the Scheme is not a relevant dispute, or that any issue raised during the adjudication of a relevant dispute falls outside the purview of the Scheme, the power to do either or both of the following:
+
+(A) to determine that the Scheme does not apply to that dispute or issue;
+
+(B) to order the party submitting that dispute or raising that issue to pay such costs as the adjudicator may determine to any other party to that dispute;
+
+(f) provide for an adjudicator’s determination of a relevant dispute submitted for adjudication under the Scheme, and every order made by the adjudicator in relation to that dispute, to be binding on the parties to that dispute, and on any person claiming through or under any such party, unless the determination or order is set aside or varied by the court;
+
+(g) provide for the enforcement of any determination or order of an adjudicator referred to in paragraph (e), including the recovery of any compensation or costs ordered by the adjudicator as a debt;
+
+(h) empower any individual appointed for this purpose by the administrator of the Scheme, or by the persons in whom the management of the administrator is vested, to countersign, on behalf of any party to a relevant dispute, any document which that party has failed to countersign after being ordered to do so by an adjudicator;
+
+(i) provide for an adjudicator to be protected from liability for any thing done or omitted to be done by him for the purposes of an adjudication under the Scheme, if —
+
+(i) the thing was done or omitted in good faith; and
+
+(ii) the thing done or omission did not involve any fraud or wilful misconduct on his part;
+
+(j) provide for the administrator of the Scheme, the persons in whom the management of the administrator is vested, and any appointed individual referred to in paragraph (h) to be protected from liability for any thing done or omitted to be done by all or any of them for the purposes of the Scheme, if —
+
+(i) the thing was done or omitted in good faith; and
+
+(ii) the thing done or omission did not involve any fraud or wilful misconduct on the part of all or any of them; and
+
+(k) provide for the payment of such deposits, expenses, fees and charges for the Scheme (including any deposits, expenses, fees and charges payable to an adjudicator) as may be prescribed.
+
+(3) Notwithstanding subsections (1) and (2) and the rules made under this section, any party to a relevant dispute may apply to the court to determine that dispute —
+
+(a) at any time before that dispute is submitted for adjudication under the Scheme; or
+
+(b) if that dispute has been submitted for adjudication under that Scheme, at any time before an adjudicator has determined that dispute or made any order referred to in subsection (2)(e) in relation to that dispute.
+
+(4) Where an adjudicator has determined any relevant dispute submitted for adjudication under the Scheme or made any order in relation to that dispute, any party to that dispute who is dissatisfied with the determination or order may apply to the court, within such period as may be prescribed by the rules made under this section, to set aside or vary the determination or order.
+
+(5) An application under subsection (3) or (4) shall be —
+
+(a) made by originating summons; and
+
+(b) served on every party to the relevant dispute other than the applicant.
+
+(6) Where any proceedings in an application under subsection (3) or (4) cause any delay in the completion of any conveyancing transaction, the court hearing the application may extend the time for the completion of that conveyancing transaction and make such other order as the court considers necessary or appropriate.
+
+(7) In this section —
+
+“adjudicator” means an adjudicator appointed for the Scheme;
+
+“relevant rules” means the rules made under section 73D;
+
+“Scheme” means the Scheme established by the rules made under this section.
+
+[17/2011 wef 01/08/2011]
 
 ## PART XVI
 
@@ -1450,27 +1620,32 @@ PROCEDURE
 
 ## THE SCHEDULE
 
-Section 31(1).
+Section 31(1)
 
-Forms Relating to Statutory Mortgages
+Forms relating to Statutory Mortgages
 
 Part I
 
-Statutory Mortgage
+STATUTORY MORTGAGE
 
-This Indenture of Statutory Mortgage made the of 19 , betweenAof (etc.) of the one part andMof (etc.) of the other part,
+This Indenture of Statutory Mortgage made the of 9 , betweenAof (etc.) of the one part andMof (etc.) of the other part,
 
 WITNESSETH that in consideration of $ advanced toAbyM(whereofAacknowledges the receipt)Aas mortgagor conveys toMall that (etc.) TO HOLD toMfor securing payment on the of 19 of the principal sum of $ with interest thereon at the rate of % per annum.
 
 IN WITNESS, etc.
 
+
+
+
 * * Variations in this and subsequent Forms to be made if required for mortgages by demise or other matter.
 
-Part IIA
-
-Statutory Transfer, Mortgagor Not Joining
+Part II
 
 Section 32(1).
+
+A
+
+STATUTORY TRANSFER, MORTGAGOR NOT JOINING
 
 This Indenture of Statutory Transfer of Mortgage made the of 19 , betweenMof (etc.) of the one part andTof (etc.) of the other part, supplemental to an Indenture of Statutory Mortgage dated the of 19 , and made between (etc.).
 
@@ -1480,23 +1655,23 @@ IN WITNESS, etc.
 
 B
 
-Statutory Transfer, A Covenantor Joining
+STATUTORY TRANSFER, A COVENANTOR JOINING
 
 This Indenture of Statutory Transfer of Mortgage made the of 19 , betweenAof (etc.) of the first part,Bof (etc.) of the second part, andCof (etc.) of the third part, supplemental to an Indenture of Statutory Mortgage dated the of 19 , and made between (etc.).
 
-WITNESSETH that in consideration of $ now paid toAbyC(whereof A acknowledges the receipt), being the principal money due in respect of the said mortgage, no interest being now due and payable thereon,Aas mortgagee, with the concurrence ofB, who joins as covenantor, transfers toCthe benefit of the said mortgage.
+WITNESSETH that in consideration of $ now paid toAbyC(whereofAacknowledges the receipt), being the principal money due in respect of the said mortgage, no interest being now due and payable thereon,Aas mortgagee, with the concurrence ofB, who joins as covenantor, transfers toCthe benefit of the said mortgage.
 
 IN WITNESS, etc.
 
 C
 
-Statutory Transfer and Statutory Mortgage Combined
+STATUTORY TRANSFER AND STATUTORY MORTGAGE COMBINED
 
 This Indenture of Statutory Transfer of Mortgage and of Statutory Mortgage made the of 19 , betweenAof (etc.) of the first part,Bof (etc.) of the second part, andCof (etc.) of the third part, supplemental to an Indenture of Statutory Mortgage dated the of 19 , and made between (etc.)
 
 WHEREAS the principal sum of $ only remains due in respect of the said mortgage and no interest is now due and payable thereon, AND WHEREASBis seised in fee simple of the land comprised in the said mortgage subject to that mortgage.
 
-NOW THIS INDENTURE WITNESSETH that in consideration of $ now paid toAbyC(whereofAacknowledges the receipt andBacknowledges the payment and receipt as aforesaid*)Aas mortgagee transfers toCthe benefit of the said mortgage, AND THIS INDENTURE ALSO WITNESSETH that for the same considerationAas mortgagee, by direction ofB, conveys andBconveys and confirms toCALL THAT (etc.) TO HOLD toCfor securing payment on the of 19 , of†$ with interest thereon at the rate of % per annum.
+NOW THIS INDENTURE WITNESSETH that in consideration of $ now paid toAbyC(whereofAacknowledges the receipt and B acknowledges the payment and receipt as aforesaid*)Aas mortgagee transfers toCthe benefit of the said mortgage, AND THIS INDENTURE ALSO WITNESSETH that for the same considerationAas mortgagee, by direction ofB, conveys andBconveys and confirms toCALL THAT (etc.) TO HOLD toCfor securing payment on the of 19 , of †$ with interest thereon at the rate of % per annum.
 
 IN WITNESS, etc.
 
@@ -1506,15 +1681,18 @@ IN WITNESS, etc.
 
 Part III
 
-Statutory Reconveyance
+STATUTORY RECONVEYANCE
 
-Section 34.
+Section 34
 
 This Indenture of Statutory Reconveyance made the of 19 , betweenCof (etc.) of the one part andBof (etc.) of the other part, supplemental to an Indenture of Statutory Transfer of Mortgage dated the of 19 , and made between (etc.).
 
 WITNESSETH that in consideration of all principal money and interest due under that Indenture having been paid (asCacknowledges)Cas mortgagee conveys toBall the lands and premises now vested inCunder the Indenture TO HOLD toBdischarged from all principal money and interest secured by and from all claims and demands under the Indenture.
 
-IN WITNESS, etc
+IN WITNESS, etc.
+
+
+
 
 * * Variation as noted above.
 
@@ -1524,7 +1702,7 @@ Conveyancing and Law of Property Act
 
 (CHAPTER 61)
 
-This Legislative History is provided for the convenience of users of the Conveyancing and Law of Property Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Conveyancing and Law of Property Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1605,30 +1783,30 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
 |26.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 July 2001|
 |||(Bill No. 23/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|20 August 2001|
 |27.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 September 2004|
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |28.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 30/2005 published on 17 October 2005)|
+|||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
-||Date of commencement|1 April 2006|
+||Date of commencement|1 January 2006|
 |29.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 November 2008|
-|||(Bill No. 38/2008 published on 17 November 2008)|
+|||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 March 2009|
 |30.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|20 October 2008|
 |||(Bill No. 28/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|19 January 2009|
@@ -1636,12 +1814,17 @@ This Legislative History is provided for the convenience of users of the Conveya
 |31.|**Act 22 of 2008—Mental Capacity Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
-|||(Bill No. 13/2008 published on 21 July 2008)|
+|||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
 |32.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
-|||(Bill No. 11/2008 published on 21 July 2008)|
-||Date of Second and Third Readings|16 September 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|33.|**Act 17 of 2011—Conveyancing (Miscellaneous Amendments) Act 2011**|
+||Date of First Reading|10 March 2011|
+|||(Bill No. 12/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 August 2011|
