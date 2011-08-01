@@ -996,6 +996,8 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 17\. Without prejudice to the generality of section 18(2) of, and item 7 of the First Schedule to, the Supreme Court of Judicature Act (Cap. 322), the court may, at any time and on such terms as it thinks just, by order extend or abridge the time prescribed for any thing under any rules made under section 10(2)(g).
 
+[Sections 18 to 24 repealed by Act 8 of 2011 wef 3 May 2011]
+
 ## PART III
 
 PRACTISING CERTIFICATES
@@ -1092,7 +1094,9 @@ PRACTISING CERTIFICATES
 
 (g) whom the Attorney-General or the Council is satisfied is incapacitated by illness or accident, or by the solicitor’s physical or mental condition, to such extent as to be unable to attend to his practice; or
 
-(h) whom the Attorney-General or the Council is satisfied has failed to comply with any of the rules made under section 72.
+(h) whom the Attorney-General or the Council is satisfied has failed to comply with any of the rules made under section 72 or any of the rules made under section 73D of the Conveyancing and Law of Property Act (Cap. 61).
+
+[17/2011 wef 01/08/2011]
 
 [40/96; 19/2008]
 
@@ -2522,13 +2526,23 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 [19/2008]
 
-(2) Such rules may provide for the manner in which the matters referred to in subsection (1) shall apply to law corporations or to limited liability law partnerships.
+(2) Any rules made under this section may provide for the manner in which the matters referred to in subsection (1) shall apply to law corporations or to limited liability law partnerships.
 
 [4/2000; 41/2005; 19/2008]
 
-(2A) Such rules shall apply only to Singapore law practices and solicitors practising therein.
+[17/2011 wef 01/08/2011]
 
-(3) Such rules shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
+(2A) Any rules made under this section shall —
+
+(a) subject to section 130W, apply only to Singapore law practices and solicitors practising therein; and
+
+(b) be subject to any rules made under section 73D of the Conveyancing and Law of Property Act (Cap. 61).
+
+[17/2011 wef 01/08/2011]
+
+(3) Any rules made under this section shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
+
+[17/2011 wef 01/08/2011]
 
 (4) Disciplinary proceedings may be taken against any solicitor who contravenes any rules made under this section.
 
@@ -5222,7 +5236,7 @@ FOREIGN LAW PRACTICES
 
 “permitted areas of legal practice” means all areas of legal practice other than any area of legal practice prescribed as an area to be excluded from the ambit of this definition;
 
-“relevant date” means 19th September 2008\*;
+“relevant date” means 19th September 2008\**;
 
 \*Date of commencement of section 53 of the Legal Profession (Amendment) Act 2008 (Act 19 of 2008).
 
@@ -6336,7 +6350,13 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (b) the Council considers that there has been undue delay on the part of the personal representatives of a deceased solicitor who immediately before his death was practising as a sole solicitor in connection with that solicitor’s practice or in connection with any trust of which that solicitor was the sole trustee or was co-trustee only with one or more of his partners or employees;
 
-(c) the Council is satisfied that a solicitor has contravened the rules made under section 72;
+(c) the Council is satisfied that a solicitor has contravened —
+
+(i) any rules made under section 72; or
+
+(ii) any rules made under section 73D of the Conveyancing and Law of Property Act (Cap. 61);
+
+[17/2011 wef 01/08/2011]
 
 (d) a solicitor has been adjudicated bankrupt or he has made a composition or an arrangement with his creditors;
 
@@ -6360,7 +6380,9 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (2) The powers conferred by Part II shall only be exercisable under sub-paragraph (1)(c) if the Society has given the solicitor notice in writing that the Council is satisfied that he has contravened the rules specified in the notice and also (at the same or any later time) notice that the powers conferred by Part II are accordingly exercisable in his case.
 
-2\. On the death of a sole solicitor, paragraphs 10, 11 and 12 shall apply to the client accounts of his practice.
+2. On the death of a sole solicitor, paragraphs 10, 11 and 12 shall apply to the client accounts, conveyancing accounts (if any) and conveyancing (CPF) accounts (if any) of his practice.
+
+[17/2011 wef 01/08/2011]
 
 3. The powers conferred by Part II shall also be exercisable, subject to paragraph 9(4), where —
 
@@ -6378,9 +6400,15 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 Law corporation
 
-5.—(1) Subject to Sub-paragraph (2) of paragraph 5 of _5 of Part I of the First ScheduledocId=;docVerId=;transactionDate=;provId=Sc2-s15-;fragId=43e61e7a-4e22-480f-bbf0-d02228aa657a;urn=;validDate=;validated=validdocId=;docVerId=;transactionDate=;provId=Sc1-S1I-S2_5-s15-s22-;fragId=;urn=;validDate=;validated=notValid, where —
+5.—(1) Subject to sub-paragraph (2), where —
 
-(a) the Council is satisfied that a law corporation has contravened any rules applicable to it by virtue of section 72;
+(a) the Council is satisfied that a law corporation has contravened —
+
+(i) any rules made under section 72 which are applicable to the law corporation by virtue of that section; or
+
+(ii) any rules made under section 73D of the Conveyancing and Law of Property Act (Cap. 61);
+
+[17/2011 wef 01/08/2011]
 
 (b) a person has been appointed receiver or manager of property of a law corporation;
 
@@ -6390,9 +6418,9 @@ Law corporation
 
 the powers conferred by Part II shall be exercisable in relation to the law corporation and its business in like manner as they are exercisable in relation to a solicitor and his practice.
 
-(2) Those powers shall only be exercisable by virtue of sub-paragraph 1 a of sub-paragraph (1) of paragraph 5 of _5 of Part I of the First Schedule if the Society has given the law corporation notice in writing that the Council is satisfied that the law corporation has contravened the rules specified in the notice and also (at the same or any later time) notice that those powers are accordingly exercisable in its case by virtue of sub-paragraph 1 a of sub-paragraph (1) of paragraph 5 of _5 of Part I of the First Schedule.
+(2) Those powers shall only be exercisable by virtue of sub-paragraph (1)(a) if the Society has given the law corporation notice in writing that the Council is satisfied that the law corporation has contravened the rules specified in the notice and also (at the same or any later time) notice that those powers are accordingly exercisable in its case by virtue of sub-paragraph (1)(a).
 
-6. The powers conferred by Part II shall also be exercisable as mentioned in paragraph 5(1)docId=;docVerId=;transactionDate=;provId=Sc2-s15-;fragId=43e61e7a-4e22-480f-bbf0-d02228aa657a;urn=;validDate=;validated=valid where —
+6. The powers conferred by Part II shall also be exercisable as mentioned in paragraph 5(1) where —
 
 (a) a complaint is made to the Society that there has been undue delay on the part of a law corporation in connection with any matter in which it was instructed on behalf of a client or with any controlled trust;
 
@@ -6404,21 +6432,27 @@ the powers conferred by Part II shall be exercisable in relation to the law corp
 
 7.—(1) Where the registration of a law corporation has been cancelled under section 81K, the powers conferred by Part II shall be exercisable in relation to the law corporation and its former business as a law corporation as they are exercisable in relation to a solicitor and his practice.
 
-(2) Where the powers conferred by Part II are exercisable in relation to a law corporation in accordance with _5 of Part I of the First Schedule or 6, they shall continue to be so exercisable after that law corporation’s registration has been cancelled or has otherwise ceased to be in force.
+(2) Where the powers conferred by Part II are exercisable in relation to a law corporation in accordance with paragraph 5 or 6, they shall continue to be so exercisable after that law corporation’s registration has been cancelled or has otherwise ceased to be in force.
 
 8. In connection with the application of Part II to a law corporation in that Part —
 
-(a) any reference to the solicitor or to his practice shall be construed as including a reference to the law corporation in relation to which the powers conferred by that Part are exercisable by virtue of _5 of Part I of the First Schedule, 6 or 7(1) or to its business (or former business) as a law corporation;
+(a) any reference to the solicitor or to his practice shall be construed as including a reference to the law corporation in relation to which the powers conferred by that Part are exercisable by virtue of paragraph 5, 6 or 7(1) or to its business (or former business) as a law corporation;
 
-(b) any reference to paragraph 1 shall be construed as including a reference to _5 of Part I of the First Schedule or 7(1); and
+(b) any reference to paragraph 1 shall be construed as including a reference to paragraph 5 or 7(1); and
 
-(c) any reference to paragraph 3 shall be construed as including a reference to paragraph 6 of _5 of Part I of the First Schedule.
+(c) any reference to paragraph 3 shall be construed as including a reference to paragraph 6.
 
 Limited liability law partnership
 
 8A.—(1) Subject to sub-paragraph (2), where —
 
-(a) the Council is satisfied that a limited liability law partnership has contravened any rules applicable to it by virtue of section 72;
+(a) the Council is satisfied that a limited liability law partnership has contravened —
+
+(i) any rules made under section 72 which are applicable to the limited liability law partnership by virtue of that section; or
+
+(ii) any rules made under section 73D of the Conveyancing and Law of Property Act (Cap. 61);
+
+[17/2011 wef 01/08/2011]
 
 (b) a person has been appointed receiver or manager of property of a limited liability law partnership;
 
@@ -6428,7 +6462,7 @@ Limited liability law partnership
 
 the powers conferred by Part II shall be exercisable in relation to the limited liability law partnership and its business in like manner as they are exercisable in relation to a solicitor and his practice.
 
-(2) Those powers shall only be exercisable by virtue of sub-paragraph (1)(a)docId=;docVerId=;transactionDate=;provId=Sc1-S1I-S2_5-s15-s21-;fragId=;urn=;validDate=;validated=notValiddocId=;docVerId=;transactionDate=;provId=Sc1-S1I-S2_5-s15-s21-;fragId=;urn=;validDate=;validated=notValid if the Society has given the limited liability law partnership notice in writing that the Council is satisfied that the limited liability law partnership has contravened the rules specified in the notice and also (at the same or any later time) notice that those powers are accordingly exercisable in its case by virtue of sub-paragraph (1)(a).
+(2) Those powers shall only be exercisable by virtue of sub-paragraph (1)(a) if the Society has given the limited liability law partnership notice in writing that the Council is satisfied that the limited liability law partnership has contravened the rules specified in the notice and also (at the same or any later time) notice that those powers are accordingly exercisable in its case by virtue of sub-paragraph (1)(a).
 
 8B. The powers conferred by Part II shall also be exercisable as mentioned in paragraph 8A(1) where —
 
@@ -6448,7 +6482,7 @@ the powers conferred by Part II shall be exercisable in relation to the limited 
 
 (a) any reference to the solicitor or to his practice shall be construed as including a reference to the limited liability law partnership in relation to which the powers conferred by that Part are exercisable by virtue of paragraph 8A, 8B or 8C(1) or to its business (or former business) as a limited liability law partnership;
 
-(b) any reference to paragraph 1docId=;docVerId=;transactionDate=;provId=Sc1-S1I-S2_1-s11-;fragId=b87afa90-5863-4a98-9783-4c4381542aca;urn=;validDate=;validated=validdocId=;docVerId=;transactionDate=;provId=Sc1-S1I-S2_1-s11-;fragId=b87afa90-5863-4a98-9783-4c4381542aca;urn=;validDate=;validated=valid shall be construed as including a reference to paragraph 8A or 8C(1); and
+(b) any reference to paragraph 1shall be construed as including a reference to paragraph 8A or 8C(1); and
 
 (c) any reference to paragraph 3 shall be construed as including a reference to paragraph 8B.
 
@@ -6472,7 +6506,9 @@ Money
 
 (a) where the powers conferred by this paragraph are exercisable, by virtue of paragraph 1, to all sums of money held by or on behalf of the solicitor or his firm in connection with his practice or with any trust of which he is or formerly was a trustee;
 
-(b) where the powers conferred by this paragraph are exercisable by virtue of paragraph 2, to all sums of money in any client account; and
+(b) where the powers conferred by this paragraph are exercisable by virtue of paragraph 2, to all sums of money in any client account, conveyancing account or conveyancing (CPF) account; and
+
+[17/2011 wef 01/08/2011]
 
 (c) where the powers conferred by this paragraph are exercisable by virtue of paragraph 3, to all sums of money held by or on behalf of the solicitor or his firm in connection with the trust or other matter to which the complaint relates.
 
@@ -6542,7 +6578,15 @@ General
 
 19\. The Society may do all things which are reasonably necessary for the purpose of facilitating the exercise of its powers under this Schedule.
 
-20. In this Schedule, “controlled trust”, in relation to a solicitor, means a trust of which he is a sole trustee or co-trustee only with one or more of his partners or employees.
+20. In this Schedule —
+
+“controlled trust”, in relation to a solicitor, means a trust of which he is a sole trustee or co-trustee only with one or more of his partners or employees;
+
+“conveyancing account” means a bank account maintained in accordance with any rules made under section 73D of the Conveyancing and Law of Property Act (Cap. 61) for the purpose of depositing conveyancing money;
+
+“conveyancing (CPF) account” means a bank account maintained in accordance with any rules made under section 73D of the Conveyancing and Law of Property Act for the purpose of depositing money withdrawn from the Central Provident Fund for or in connection with a conveyancing transaction.
+
+[17/2011 wef 01/08/2011]
 
 [41/93; 15/95; 40/96; 4/2000; 35/2001; 41/2005; 19/2008]
 
@@ -6909,6 +6953,12 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 3/2011 published on 10 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|3 May 2011|
+|50.|**Act 17 of 2011—Conveyancing (Miscellaneous Amendments) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2011|
+|||(Bill No. 12/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 August 2011|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
