@@ -74,7 +74,7 @@ An Act relating to statistics.
 
 “statistical purposes” means the compilation of statistics or the preparation of anonymised microdata relating to any subject matter listed in the First Schedule.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010 wef 12/02/2010]
 
 [19/86; 9/90]
 
@@ -82,7 +82,7 @@ An Act relating to statistics.
 
 3\.—(1) The Department of Statistics and all research and statistics units may, in accordance with the provisions of this Act, collect and process data for statistical purposes.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010 wef 12/02/2010]
 
 (2) The Department of Statistics shall be under the control and management of a Chief Statistician and such other officers as the Minister may appoint.
 
@@ -129,7 +129,7 @@ co-ordinator whose duties shall be —
 
 5\.—(1) It shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person or the occupier of any premises to furnish particulars and supply information to him, for the purpose of obtaining data for statistical purposes, and every such person or occupier is bound to furnish the particulars and supply the information to the best of his knowledge and belief.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010 wef 12/02/2010]
 
 (2) A requisition shall —
 
@@ -403,6 +403,10 @@ Subject Matters
 
 39\. Recreation
 
+39A. Research and development
+
+[S 474/2011 wef 19/08/2011]
+
 40\. Social security
 
 41\. Sports
@@ -441,7 +445,9 @@ Research and Statistics Units
 
 7\. Financial Studies and Statistics Division of the Monetary Authority of Singapore.
 
-8\. Strategic Planning Division of the Info-communications Development Authority of Singapore.
+8. Research and Statistics Unit of the Info-communications Development Authority of Singapore.
+
+[S 474/2011 wef 19/08/2011]
 
 9\. Research and Statistics Unit of the National Environment Agency.
 
@@ -450,6 +456,10 @@ Research and Statistics Units
 [S 151/2010 wef 12/03/2010]
 
 [S 536/2002; S 393/2006; S 451/2007]
+
+11. Research and Statistics Unit of the Agency for Science, Technology and Research.
+
+[S 474/2011 wef 19/08/2011]
 
 THIRD SCHEDULE
 
@@ -538,6 +548,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|12 March 2010|
 |20.|**G. N. No. S 40/2011—Statistics Act (Amendment of Second Schedule) Order 2011**|
 ||Date of commencement|3 August 2010|
+|21.|**G.N. No. S 474/2011—Statistics Act (Amendment of First and Second Schedules) Order 2011**|
+||Date of commencement|19 August 2011|
 ## COMPARATIVE TABLE
 
 Statistics Act
