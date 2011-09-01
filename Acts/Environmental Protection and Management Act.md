@@ -22,9 +22,9 @@
 
 [**Part III USE OF SCHEDULED PREMISES**](#Part-III)
 
-- [6 Licence for use of scheduled premises](#Licence-for-use-of-scheduled-premises)
+- [6 Written permission for use of scheduled premises](#Written-permission-for-use-of-scheduled-premises)
 
-- [7 Power of Director-General to attach conditions to licence](#Power-of-Director-General-to-attach-conditions-to-licence)
+- [7 Power of Director-General to attach conditions to written permission](#Power-of-Director-General-to-attach-conditions-to-written-permission)
 
 - [8 Permit for certain works on scheduled premises](#Permit-for-certain-works-on-scheduled-premises)
 
@@ -44,7 +44,7 @@
 
 [**Part V WATER POLLUTION CONTROL**](#Part-V)
 
-- [15 Licence for discharge of trade effluent, oil, chemical, sewage or other polluting matters](#Licence-for-discharge-of-trade-effluent-oil-chemical-sewage-or-other-polluting-matters)
+- [15 Written permission for discharge of trade effluent, oil, chemical, sewage or other polluting matters](#Written-permission-for-discharge-of-trade-effluent-oil-chemical-sewage-or-other-polluting-matters)
 
 - [16 Plant for treatment of trade effluent](#Plant-for-treatment-of-trade-effluent)
 
@@ -62,9 +62,9 @@
 
 - [21 Application of this Part to hazardous substances](#Application-of-this-Part-to-hazardous-substances)
 
-- [22 General prohibition with respect to importation and sale of hazardous substances](#General-prohibition-with-respect-to-importation-and-sale-of-hazardous-substances)
+- [22 General prohibition with respect to importation, manufacture and sale of hazardous substances](#General-prohibition-with-respect-to-importation-manufacture-and-sale-of-hazardous-substances)
 
-- [23 Prohibitions and regulations with respect to sale of hazardous substances](#Prohibitions-and-regulations-with-respect-to-sale-of-hazardous-substances)
+- [23 Prohibitions and regulations with respect to importation, manufacture and sale of hazardous substances](#Prohibitions-and-regulations-with-respect-to-importation-manufacture-and-sale-of-hazardous-substances)
 
 - [24 Storage, use and dealing of hazardous substances](#Storage-use-and-dealing-of-hazardous-substances)
 
@@ -140,6 +140,8 @@
 
 - [44 Powers of Director-General to examine and secure attendance](#Powers-of-Director-General-to-examine-and-secure-attendance)
 
+- [44A Power to obtain information](#Power-to-obtain-information)
+
 - [45 Powers of arrest](#Powers-of-arrest)
 
 - [46 Director-General may act in cases of emergency](#Director-General-may-act-in-cases-of-emergency)
@@ -151,6 +153,8 @@
 - [49 Penalty for obstructing Director-General in his duty](#Penalty-for-obstructing-Director-General-in-his-duty)
 
 - [50 Powers of search and seizure](#Powers-of-search-and-seizure)
+
+- [50A Power to examine motor vehicles](#Power-to-examine-motor-vehicles)
 
 [**Part XII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-XII)
 
@@ -188,7 +192,7 @@
 
 - [65 Notices, orders and other documents may be given by authorised officer](#Notices-orders-and-other-documents-may-be-given-by-authorised-officer)
 
-- [66 Service of notices, etc.](#Service-of-notices-etc)
+- [66 Service of documents, etc.](#Service-of-documents-etc)
 
 - [67 General penalties](#General-penalties)
 
@@ -200,7 +204,7 @@
 
 - [70 Evidence of analyst](#Evidence-of-analyst)
 
-- [71 Offence by body corporate](#Offence-by-body-corporate)
+- [71 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
 - [72 Composition of offences](#Composition-of-offences)
 
@@ -216,17 +220,22 @@
 
 - [78 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Scheduled Premises**](#FIRST-SCHEDULE-Scheduled-Premises)
+[**FIRST SCHEDULE Scheduled premises**](#FIRST-SCHEDULE-Scheduled-premises)
 
-[**SECOND SCHEDULE Control of Hazardous Substances Part I Hazardous Substances**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Control of Hazardous Substances Part i Hazardous Substances**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Subject Matters of Regulations**](#THIRD-SCHEDULE-Subject-Matters-of-Regulations)
+[**THIRD SCHEDULE Subject matters of Regulations**](#THIRD-SCHEDULE-Subject-matters-of-Regulations)
 
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
 
-# Environmental Protection and Management Act
+# Environmental Protection and
+
+# 
+
+
+# Management Act
 
 (CHAPTER 94A)
 
@@ -238,6 +247,8 @@ REVISED EDITION 2002
 
 An Act to consolidate the laws relating to environmental pollution control, to provide for the protection and management of the environment and resource conservation, and for purposes connected therewith.
 
+[26/2007 wef 01/01/2008]
+
 [1st April 1999]
 
 ## PART I
@@ -247,6 +258,8 @@ PRELIMINARY
 ### Short title
 
 1\. This Act may be cited as the Environmental Protection and Management Act.
+
+[26/2007 wef 01/01/2008]
 
 ### Interpretation
 
@@ -332,6 +345,10 @@ but does not include the carrying tank of a road tanker, a tank container or a f
 
 “licensee” means any person licensed under this Act;
 
+“motor vehicle” shall have the same meaning as in the Road Traffic Act (Cap. 276);
+
+[12/2011 wef 01/09/2011]
+
 “occupier”, in relation to —
 
 (a) any premises, means the person in occupation of the premises or having the charge, management or control thereof; and
@@ -343,6 +360,8 @@ but does not include the carrying tank of a road tanker, a tank container or a f
 (a) any premises, includes the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254);
 
 (b) any premises where building works are carried out, includes the developer and the building contractor;
+
+[47/2004 wef 01/04/2005]
 
 (c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
 
@@ -360,7 +379,9 @@ but does not include the carrying tank of a road tanker, a tank container or a f
 
 “process” means any activity carried on in Singapore, whether on premises or by way of plant which is designed to move or to be moved whether on roads or otherwise, which are capable of causing pollution to the environment;
 
-“qualified person”, in relation to any industrial plant works, means an appropriate qualified person appointed under section 6(3) or 9(1)(b) of the Building Control Act (Cap. 29) in respect of building works which include industrial plant works;
+“qualified person”, in relation to any industrial plant works referred to in section 33, means an appropriate qualified person appointed under section 8 or 11 of the Building Control Act (Cap. 29) in respect of building works which include industrial plant works;
+
+[12/2011 wef 01/09/2011]
 
 “registered inspector” means a person whose name is registered under section 34;
 
@@ -410,9 +431,11 @@ ADMINISTRATION
 
 [4/2002]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority or any member or employee of any Town Council to be an authorised officer for the purposes of this Act.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority or any member or employee of any Town Council or any auxiliary police officer appointed as such under the Police Force Act (Cap. 235) to be an authorised officer for the purposes of this Act.
 
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 (3) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
 
@@ -426,11 +449,13 @@ ADMINISTRATION
 
 ### Protection from personal liability
 
-5\.—(1) No liability shall lie against the Agency or any authorised officer by reason of the fact that —
+5\.—(1) No liability shall lie against any authorised officer by reason of the fact that —
 
 (a) any works are carried out in accordance with the provisions of this Act; or
 
 (b) such works or plans of the works are subject to inspection, approval or certification by the Director-General or an authorised officer.
+
+[12/2011 wef 01/09/2011]
 
 [4/2002]
 
@@ -438,9 +463,9 @@ ADMINISTRATION
 
 [4/2002]
 
-(3) No matter or thing done by the Director-General or by any authorised officer shall, if it were done in good faith for the purpose of carrying out the provisions of this Act, subject him or such person personally to any action, liability, claim or demand whatsoever.
+(3) No matter or thing done by the Director-General or by any authorised officer shall, if it were done with reasonable care and in good faith for the purpose of carrying out the provisions of this Act, subject him or such person personally to any liability whatsoever.
 
-[4/2002]
+[12/2011 wef 01/09/2011]
 
 (4) Where the Director-General or any authorised officer provides any information to any person in respect of any building or works by electronic or other means, neither the Agency, the Director-General nor any authorised officer shall be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or howsoever caused, including any defect or breakdown in the equipment used for providing the information, if such error or omission is made in good faith and in the ordinary course of duties of the Director-General or authorised officer.
 
@@ -450,15 +475,17 @@ ADMINISTRATION
 
 USE OF SCHEDULED PREMISES
 
-### Licence for use of scheduled premises
+### Written permission for use of scheduled premises
 
-6\.—(1) No person shall occupy or use any scheduled premises specified in the First Schedule without a licence granted by the Director-General.
+6\.—(1) No person shall occupy or use any scheduled premises specified in the First Schedule without a written permission granted by the Director-General.
 
 [4/2002]
 
+[12/2011 wef 01/09/2011]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(3) Any application for a licence under this section shall be made to the Director-General giving details of —
+(3) Any application for a written permission under this section shall be made to the Director-General giving details of —
 
 (a) the trade, industry or process proposed to be carried in or on the premises;
 
@@ -468,9 +495,11 @@ USE OF SCHEDULED PREMISES
 
 [4/2002]
 
-### Power of Director-General to attach conditions to licence
+[12/2011 wef 01/09/2011]
 
-7\. Without prejudice to the generality of section 32, the Director-General may, in granting a licence under section 6, impose conditions to ensure that pollution of the environment, as well as hazardous substances are adequately managed and controlled which may include but not be limited to the following:
+### Power of Director-General to attach conditions to written permission
+
+7\.—(1) Without prejudice to the generality of section 32, the Director-General may, in granting a written permission under section 6, impose conditions to ensure that pollution of the environment, as well as hazardous substances are adequately managed and controlled which may include but not be limited to the following:
 
 (a) requiring the owner or occupier —
 
@@ -490,13 +519,23 @@ USE OF SCHEDULED PREMISES
 
 (b) prohibiting the owner or occupier from altering or replacing any control equipment or treatment plant installed in or on the scheduled premises except with the approval of the Director-General; or
 
-(c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the licence has been granted unless approval to do so has been given by the Director-General.
+(c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the written permission has been granted unless approval to do so has been given by the Director-General.
+
+[12/2011 wef 01/09/2011]
 
 [4/2002]
 
+(2) An owner or occupier of scheduled premises to whom any written permission is granted shall comply with every condition imposed under subsection (1).
+
+[12/2011 wef 01/09/2011]
+
+(3) Any person who fails to comply with subsection (2) shall be guilty of an offence.
+
+[12/2011 wef 01/09/2011]
+
 ### Permit for certain works on scheduled premises
 
-8\.—(1) The owner or occupier of any scheduled premises shall not without the written permission of the Director-General —
+8\.—(1) The owner or occupier of any scheduled premises shall not without a permit granted by the Director-General —
 
 (a) alter the method of operation of any trade or industrial process, fuel burning equipment, control equipment, treatment plant or industrial plant in or on the scheduled premises;
 
@@ -508,13 +547,25 @@ USE OF SCHEDULED PREMISES
 
 [4/2002]
 
+[12/2011 wef 01/09/2011]
+
 (2) An application for a permit under subsection (1) shall contain details of the proposed installation, alteration, replacement or erection.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[12/2011 wef 01/09/2011]
 
 ### Change of owner or occupier
 
-9\. Where there has been any change in the ownership or occupancy of any scheduled premises, the person who becomes the owner or occupier thereof shall notify the Director-General in writing of such change within 14 days from the date he becomes the owner or occupier of those premises.
+9\.—(1) Where there has been any change in the ownership or occupancy of any scheduled premises, the person who becomes the owner or occupier thereof shall notify the Director-General in writing of such change within 14 days from the date he becomes the owner or occupier of those premises.
+
+[12/2011 wef 01/09/2011]
+
+(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 ## PART IV
 
@@ -562,7 +613,9 @@ AIR POLLUTION CONTROL
 
 (c) to erect or alter the height or dimension of any chimney through which air impurities may be discharged from the premises;
 
-(d) to alter the method of operation or process used in or on the premises to prevent or reduce air pollution;
+(d) to alter or cease the method of operation or process used in or on the premises to prevent, cease or reduce air pollution;
+
+[12/2011 wef 01/09/2011]
 
 (e) to use a specified type of fuel to prevent or reduce air pollution;
 
@@ -602,17 +655,21 @@ by the occupier of such premises, other than a principal contractor to which sec
 
 WATER POLLUTION CONTROL
 
-### Licence for discharge of trade effluent, oil, chemical, sewage or other polluting matters
+### Written permission for discharge of trade effluent, oil, chemical, sewage or other polluting matters
 
-15\.—(1) Any person who discharges or causes or permits to be discharged any trade effluent, oil, chemical, sewage or other polluting matters into any drain or land, without a licence from the Director-General, shall be guilty of an offence.
+15\.—(1) Any person who discharges or causes or permits to be discharged any trade effluent, oil, chemical, sewage or other polluting matters into any drain or land, without a written permission from the Director-General, shall be guilty of an offence.
 
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 (2) Where any trade effluent, oil, chemical, sewage or other polluting matters has been discharged from any premises into any drain or land, it shall be presumed, until the contrary is proved, that the occupier of the premises, other than a principal contractor to which section 35 applies, had discharged or caused or permitted to be discharged the trade effluent, oil, chemical, sewage or other polluting matters in contravention of subsection (1).
 
-(3) Subject to subsection (4), any person who causes or suffers any trade effluent, oil, chemical, sewage or other polluting matters to enter or pass into any drain or land without a licence from the Director-General (whether wilfully or by accident) shall immediately inform the Director-General of such occurrence.
+(3) Subject to subsection (4), any person who causes or suffers any trade effluent, oil, chemical, sewage or other polluting matters to enter or pass into any drain or land without a written permission from the Director-General (whether wilfully or by accident) shall immediately inform the Director-General of such occurrence.
 
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 (4) The requirements in subsection (3) may be waived by the Director-General in any case where the amount of trade effluent, oil, chemical, sewage or other polluting matters is, in the opinion of the Director-General, not of a substantial nature.
 
@@ -624,7 +681,9 @@ WATER POLLUTION CONTROL
 
 ### Plant for treatment of trade effluent
 
-16\.—(1) The occupier of any premises shall treat any trade effluent discharged therefrom in such manner as may be prescribed before such trade effluent is discharged into any drain or land in pursuance of a licence granted under section 15.
+16\.—(1) The occupier of any premises shall treat any trade effluent discharged therefrom in such manner as may be prescribed before such trade effluent is discharged into any drain or land in pursuance of a written permission granted under section 15.
+
+[12/2011 wef 01/09/2011]
 
 (2) A person using, working or operating any plant for the purpose of treating any trade effluent shall use, work or operate and maintain such plant in such manner as the Director-General may require.
 
@@ -720,27 +779,37 @@ HAZARDOUS SUBSTANCES CONTROL
 
 (b) they are contained in any substance, preparation or product specified in Part II of that Schedule.
 
-### General prohibition with respect to importation and sale of hazardous substances
+### General prohibition with respect to importation, manufacture and sale of hazardous substances
 
-22\.—(1) No person shall import, possess for sale, sell or offer for sale any hazardous substance unless he holds a licence granted by the Director-General for such purpose.
+22\.—(1) No person shall import, manufacture, possess for sale, sell or offer for sale any hazardous substance unless he holds a licence granted by the Director-General for such purpose.
 
 [4/2002]
 
-(2) Every licence granted to any person under this section shall not be transferable to any other person and no licence shall authorise the import, possession for sale, sale or offer for sale of any hazardous substance by any individual other than the individual named therein.
+[12/2011 wef 01/09/2011]
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
+(2) Every licence granted to any person under this section shall not be transferable to any other person and no licence shall authorise the import, manufacture, possession for sale, sale or offer for sale of any hazardous substance by any individual other than the individual named therein.
 
-### Prohibitions and regulations with respect to sale of hazardous substances
+[12/2011 wef 01/09/2011]
 
-23\.—(1) No person shall import, possess for sale, sell or offer for sale any hazardous substance unless —
+(3) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(a) the importation, possession for sale, sale or offer for sale is effected in accordance with the provisions of the licence and with any condition specified therein;
+[12/2011 wef 01/09/2011]
+
+### Prohibitions and regulations with respect to importation, manufacture and sale of hazardous substances
+
+23\.—(1) No person shall import, manufacture, possess for sale, sell or offer for sale any hazardous substance unless —
+
+(a) the importation, manufacture, possession for sale, sale or offer for sale is effected in accordance with the provisions of the licence and with any condition specified therein;
+
+[12/2011 wef 01/09/2011]
 
 (b) the sale is effected by or under the personal supervision of the person named in the licence; and
 
 (c) proper records of the sale as required by the Director-General are kept.
 
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 (2) No person shall possess for sale, sell or offer for sale any hazardous substance unless the container of the hazardous substance is labelled in the manner prescribed in regulations made by the Agency, with the approval of the Minister.
 
@@ -758,13 +827,21 @@ HAZARDOUS SUBSTANCES CONTROL
 
 ### Power of Director-General to require removal of hazardous substances from premises
 
-25\.—(1) If, in the opinion of the Director-General, the hazardous substance stored or kept in any premises is likely to threaten the health or safety of any person or to cause pollution of the environment, he may, by notice in writing, require the owner or occupier of any premises to remove the hazardous substance to a disposal facility.
+25\.—(1) If, in the opinion of the Director-General, any of the following items used, stored or kept in any premises is likely to threaten the health or safety of any person or to cause pollution of the environment, he may, by notice in writing, require the owner or occupier of any premises to remove the item to a disposal facility:
+
+(a) any hazardous substance;
+
+(b) any material contaminated with a hazardous substance; or
+
+(c) any equipment, device or pipeline contaminated with a hazardous substance.
+
+[12/2011 wef 01/09/2011]
+
+(2) The Director-General may, by notice in writing, require the owner or occupier upon whom a notice has been served under subsection (1) to furnish evidence that the item referred to in the notice has been disposed of at a disposal facility in accordance with the notice.
 
 [4/2002]
 
-(2) The Director-General may, by notice in writing, require the owner or occupier upon whom a notice has been served under subsection (1) to furnish evidence that the hazardous substance stored or kept in the premises has been disposed of at a disposal facility in accordance with the notice.
-
-[4/2002]
+[12/2011 wef 01/09/2011]
 
 (3) Any person who fails to comply with a notice made under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
@@ -989,6 +1066,10 @@ LICENCES AND INDUSTRIAL PLANT WORKS
 33\.—(1) No person shall commence or carry out, or cause or permit the carrying out of any industrial plant works without the Director-General certifying that the plans of the industrial plant works comply with such requirements as he may specify for the purposes of this Act (referred to in this section as a clearance certificate).
 
 [4/2002]
+
+(1A) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[12/2011 wef 01/09/2011]
 
 (2) Every application under this section shall be made by a qualified person or any approved person in such form and manner as the Director-General may require.
 
@@ -1226,11 +1307,15 @@ ENERGY CONSERVATION
 
 ### Restriction on supply of registrable goods
 
-40C\.—(1) No person shall, in the course of any trade or business, supply any registrable goods in Singapore on or after the effective date unless the registrable goods are —
+40C\.—(1) No person shall, in the course of any trade or business, supply any registrable goods in Singapore on or after the effective date unless the registrable goods —
 
-(a) registered under section 40D(3); and
+(a) are registered under section 40D(3);
 
-(b) labelled in the prescribed manner.
+(b) are labelled in the prescribed manner; and
+
+(c) meet such minimum energy efficiency standards as may be prescribed.
+
+[12/2011 wef 01/09/2011]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -1298,13 +1383,19 @@ ENERGY CONSERVATION
 
 (a) if the registered supplier has procured the registration by providing any particulars, information or document, or by making any statement or representation, to the Director-General which is false or misleading in any material particular;
 
-(b) if the Director-General is satisfied that the registered supplier has contravened any term or condition of the registration; or
+(b) if the Director-General is satisfied that the registered supplier has contravened any term or condition of the registration;
 
-(c) in the event of such other occurrence or in such other circumstances as may be prescribed.
+(c) if the registered supplier has been convicted of an offence under section 40C(2) for supplying registrable goods that do not meet the prescribed minimum energy efficiency standards; or
+
+(d) in the event of such other occurrence or in such other circumstances as may be prescribed.
+
+[12/2011 wef 01/09/2011]
 
 (3) The Director-General may revoke the registration of any registered goods by a registered supplier after giving notice to the registered supplier and after such inquiry as the Director-General thinks fit if he is satisfied —
 
 (a) that the registered goods do not conform with the results of any test or examination declared by the registered supplier;
+
+(aa) that the registered goods do not meet the prescribed minimum energy efficiency standards;
 
 (b) that a modification to the registered goods has resulted in a change that affects the performance of the registered goods;
 
@@ -1315,6 +1406,8 @@ ENERGY CONSERVATION
 (e) that the registered supplier has contravened any of the prescribed requirements relating to labelling; or
 
 (f) that the registered supplier has contravened any of the provisions of this Act.
+
+[12/2011 wef 01/09/2011]
 
 (4) The Director-General shall, within 14 days of revoking any registration under subsection (2) or (3), inform the registered supplier in writing of the revocation and the grounds for the revocation.
 
@@ -1370,11 +1463,13 @@ as the case may be, shall take effect from the date specified by the Director-Ge
 
 40K\. If any person —
 
-(a) in relation to an application for registration made under section 40D(1), makes or causes to be made any statement or declaration which is false or misleading in any material particular; or
+(a) in relation to an application for registration made under section 40D(1) or renewal of the registration made under section 40F(5), makes or causes to be made any statement or declaration which is false or misleading in any material particular; or
 
 (b) makes or causes to be made any entry in a record, register or other document required to be kept under this Part which to his knowledge is false or misleading in any material particular,
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[12/2011 wef 01/09/2011]
 
 ## PART XI
 
@@ -1474,6 +1569,48 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [4/2002]
 
+### Power to obtain information
+
+44A\.—(1) The Director-General or an authorised officer may by notice in writing require any licensee or other person to furnish, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information relating to any matter which the Agency considers necessary to carry out the functions or duties of or assigned to the Agency by or under any provision of this Act, which are within the knowledge of that person or in his custody or under his control.
+
+[12/2011 wef 01/09/2011]
+
+(2) The power to require a person to furnish any document or information under subsection (1) includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of his, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require that person to state, to the best of his knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Agency in legible form.
+
+[12/2011 wef 01/09/2011]
+
+(3) Any person who, without reasonable excuse, fails to do anything required of him by notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[12/2011 wef 01/09/2011]
+
+(4) Any person who —
+
+(a) intentionally alters, suppresses or destroys any document or information which he has been required by a notice under subsection (1) to furnish; or
+
+(b) in furnishing any document or information required under subsection (1), makes any statement which he knows to be false in a material particular or recklessly makes such a statement,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[12/2011 wef 01/09/2011]
+
+(5) If any person fails to comply with a notice under subsection (1), the court may, on the application of the Agency, make such order as the court thinks fit to secure compliance with such notice and any such order may provide that all the costs or expenses of and incidental to the application shall be borne by such person or by any officer of a company or other association who is responsible for the failure.
+
+[12/2011 wef 01/09/2011]
+
+(6) Where a notice under subsection (1) is issued in connection with investigations into a suspected offence under this Act, the Agency through an authorised officer may, at any time after the expiry of the period specified therein, enter any building or place where the Agency has reason to believe that any document or information, in respect of which it has given the notice, may be found, and seize or take extracts or copies of any such document or information.
+
+[12/2011 wef 01/09/2011]
+
+(7) The Agency shall be entitled without payment to keep any document or information, or any copy or extract thereof, furnished to it under subsection (1) or obtained under subsection (6).
+
+[12/2011 wef 01/09/2011]
+
 ### Powers of arrest
 
 45\.—(1) The Director-General, an authorised officer or a police officer may arrest any person, whom the Director-General or officer has reason to believe has committed an offence under this Act, if the name and address of the person are unknown to him and —
@@ -1490,9 +1627,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Director-General may act in cases of emergency
 
-46\. Where the Director-General considers it necessary in the case of an emergency, he may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in his opinion necessary to prevent injury or danger to public health or serious pollution of the environment.
+46\.—(1) Where the Director-General considers it necessary in the case of an emergency, he may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in his opinion necessary to prevent injury or danger to public health or serious pollution of the environment.
+
+(2) Any expenses reasonably incurred by the Director-General under subsection (1) may be recovered from the person whose act or omission resulted in the emergency or the owner of the premises where the emergency originated, and section 51 and, if that person is the owner of the premises, section 53 shall apply in respect of those expenses.
 
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 ### Power of entry
 
@@ -1568,6 +1709,22 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [4/2002]
 
+### Power to examine motor vehicles
+
+50A\.—(1) Where the Director-General or any authorised officer has reason to suspect that an offence under this Act or the regulations made thereunder has been committed in connection with the use of a motor vehicle, the Director-General or authorised officer may —
+
+(a) examine the motor vehicle;
+
+(b) require the owner or driver of the motor vehicle to provide his name and address and such other proof of identity; and
+
+(c) order the owner or driver of the motor vehicle to produce the same for an examination of vehicle emissions at such time and place as may be specified.
+
+[12/2011 wef 01/09/2011]
+
+(2) Any person who without reasonable excuse fails to comply with any requirement under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[12/2011 wef 01/09/2011]
+
 ## PART XII
 
 COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
@@ -1606,7 +1763,7 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 (2) The expense of the work executed under subsection (1) shall be paid to the occupier by the owner of the premises or the amount may be deducted out of the rent from time to time becoming due from him to the owner.
 
-(3) The occupier may, in the absence of any special agreement to the contrary, retain possession until the expense of the work executed under subsection (1) has been fully reimbursed to him.
+(3) The occupier of the premises may, in the absence of any special agreement to the contrary, retain possession until the expense of the work executed under subsection (1) has been fully reimbursed to him.
 
 ### Recovery of costs and expenses payable by owners
 
@@ -1696,7 +1853,7 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 [4/2002]
 
-(2) A person appointed under subsection (1) shall be deemed to be a public servant, for the purposes of the Penal Code (Cap. 224).
+(2) A person appointed under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
 
 (3) Such a person may break open in the day time any house or building for the purpose of effecting the attachment.
 
@@ -1736,7 +1893,7 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 ### Application to Court
 
-61\.—(1) If any person whose movable property, crop or land has been attached or offered for sale disputes the attachment or sale, he may apply to the High Court or where the arrears do not exceed the District Court’s limit, to a District Court for an order to stay the proceedings.
+61\.—(1) If any person whose movable property, crop or land has been attached or offered for sale disputes the attachment or sale, he may apply to the High Court or, where the arrears do not exceed the District Court’s limit, to a District Court for an order to stay the proceedings.
 
 (2) The High Court or District Court, after hearing the Director-General and making such further inquiry as is necessary, shall make such order as is just.
 
@@ -1782,29 +1939,59 @@ MISCELLANEOUS PROVISIONS
 
 [4/2002]
 
-### Service of notices, etc.
+### Service of documents, etc.
 
-66\.—(1) Every notice, order, summons or document required or authorised by this Act to be served on any person may be served —
+66\.—(1) Subject to subsection (3), any notice, order or other document required or authorised to be given or served under this Act may be served —
 
-(a) by delivering it to that person or by delivering it at the last known place of residence of that person to some adult member of his family or his employee;
+(a) in the case of an individual —
 
-(b) by leaving it at the usual or last known place of residence or place of business of that person in an envelope addressed to that person; or
+(i) by delivering it to the individual personally;
 
-(c) by forwarding it by post in a prepaid letter addressed to that person at his usual or last known place of residence or place of business.
+(ii) by leaving it with an adult person apparently resident at, or by sending it by pre-paid registered post to, the usual or last known address of the place of residence of the individual;
 
-(2) A notice, order, summons or document required or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
+(iii) by leaving it with an adult person apparently employed at, or by sending it by pre-paid registered post to, the usual or last known address of the place of business of the individual;
 
-(3) A notice, order, summons or document required or authorised by this Act to be served on the owner or occupier of any premises may be served —
+(iv) by affixing a copy of the document in a conspicuous place at the usual or last known address of residence or business of the individual; or
 
-(a) by delivering it or a true copy thereof to some adult person on the premises; or
+(v) by sending it by facsimile transmission to the fax transmission number operated at the usual or last known address of the place of residence or business of the individual, or the last fax number given to the Agency or an authorised officer by the individual as the facsimile transmission number for the service of documents on the individual;
 
-(b) if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order, summons or document to some conspicuous part of the premises.
+(b) in the case of a partnership other than a limited liability partnership —
 
-(4) When a notice, order, summons or document is to be served on any body corporate, it may be served —
+(i) by delivering it to any one of the partners or the secretary or other like officer of the partnership;
 
-(a) by delivering it to the secretary or other like officer of the body corporate at its registered office or principal place of business; or
+(ii) by leaving it at, or by sending it by pre-paid registered post to, the principal or last known place of business of the partnership in Singapore; or
 
-(b) by sending it by registered post addressed to the body corporate at its registered office or principal place of business.
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the principal or last known place of business of the partnership in Singapore; and
+
+(c) in the case of any limited liability partnership or any other body corporate —
+
+(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager thereof;
+
+(ii) by leaving it at, or by sending it by pre-paid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore; or
+
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the registered office or principal office of the limited liability partnership or body corporate in Singapore.
+
+[12/2011 wef 01/09/2011]
+
+(2) Where any notice or other document to be served by the Agency or the Director-General is —
+
+(a) sent by a facsimile transmission to the fax transmission number operated at the last known place of residence or business or registered office or principal office in accordance with subsection (1), it shall be deemed to have been duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending facsimile machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal office, as the case may be; and
+
+(b) sent by pre-paid registered post, it shall be deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, whether or not it is returned undelivered.
+
+[12/2011 wef 01/09/2011]
+
+(3) Any notice, order or other document required or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
+
+[12/2011 wef 01/09/2011]
+
+(4) Any notice, order or other document required or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
+
+[12/2011 wef 01/09/2011]
+
+(5) This section shall not apply to notices, summonses and other documents to be served in proceedings in court.
+
+[12/2011 wef 01/09/2011]
 
 ### General penalties
 
@@ -1860,9 +2047,63 @@ MISCELLANEOUS PROVISIONS
 
 (5) For the purposes of this section, a document purporting to be a certificate referred to in subsection (2) on its production by the prosecution shall, unless the contrary is proved, be deemed to be such a certificate.
 
-### Offence by body corporate
+### Offences by bodies corporate, etc.
 
-71\. Where a body corporate is guilty of an offence under this Act, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+71\.—(1) Where an offence under this Act committed by a body corporate is proved —
+
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any act or default on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[12/2011 wef 01/09/2011]
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[12/2011 wef 01/09/2011]
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any act or default on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[12/2011 wef 01/09/2011]
+
+(4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[12/2011 wef 01/09/2011]
+
+(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any act or default on the part of such an officer or a member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[12/2011 wef 01/09/2011]
+
+(6) In this section —
+
+“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+[12/2011 wef 01/09/2011]
+
+(7) Regulations may provide for the application of any provision of this section, with such modifications as the Agency considers appropriate, to any body corporate, limited liability partnership or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[12/2011 wef 01/09/2011]
 
 ### Composition of offences
 
@@ -1875,6 +2116,8 @@ MISCELLANEOUS PROVISIONS
 whichever is the lower.
 
 [4/2002]
+
+[26/2007 wef 01/10/2007]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence except that any compensation, damages, fees, costs or expenses which are provided to be paid under this Act shall remain payable.
 
@@ -1924,9 +2167,9 @@ whichever is the lower.
 
 78\.—(1) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
-(2) Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Director of Environmental Pollution Control under any provision of this Act immediately before 1st July 20021shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+(2) Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Director of Environmental Pollution Control under any provision of this Act immediately before 1st July 2002\*shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-1Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002)
+\*Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002).
 
 [4/2002]
 
@@ -1934,7 +2177,7 @@ FIRST SCHEDULE
 
 Section 6
 
-Scheduled Premises
+Scheduled premises
 
 Scheduled premises are any premises —
 
@@ -1982,7 +2225,7 @@ Section 21
 
 Control of Hazardous Substances
 
-Part I
+Part i
 
 Hazardous Substances
 
@@ -1996,11 +2239,13 @@ Acetic acid
 
 Substances containing not more than 80%, weight in weight, of acetic acid;
 
-Acetic Anhydride
-
 Preparations and solutions for photographic use.
 
+Acetic Anhydride
+
 Acetyl bromide
+
+Alachor
 
 Allyl isothiocyanate
 
@@ -2238,6 +2483,8 @@ Methoxychlor [1,1,1-trichloro-2,2-di-(p-methoxyphenyl) ethane]
 
 Mirex
 
+Polychlorinated butadienes
+
 Tetrachlorodiphenylethane [TDE; 1,1-dichloro-2,2-bis (p-chlorophenyl) ethane]
 
 Tetradifon
@@ -2332,7 +2579,7 @@ Dibromochloropropane
 
 Diethyl sulphate
 
-Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium salt, potassium salt and sodium salt)”
+Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium salt, potassium salt and sodium salt)
 
 Dinosam; its compounds with a metal or a base
 
@@ -2398,7 +2645,7 @@ Hydrazine anhydrous; Hydrazine aqueous solutions
 
 Hydrochloric acid
 
-Substances containing not more than 9% , weight in weight, of hydrochloric acid.
+Substances containing not more than 9%, weight in weight, of hydrochloric acid.
 
 Hydrofluoric acid
 
@@ -2437,6 +2684,8 @@ The labels to be used for paints containing lead compounds are in accordance wit
 Lead tetra-ethyl and similar lead containing compounds —Deleted by S 43/2008, wef 31/01/2008.
 
 Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles
+
+Mercury
 
 Mercury in Clinical Thermometers
 
@@ -2520,73 +2769,31 @@ Products containing any ozone depleting substance other than the following produ
 
 Chloroheptafluoropropane
 
-
-
-
 Chloropentafluoroethane
-
-
-
 
 Chlorotrifluoromethane
 
-
-
-
 Dichlorodifluoromethane
-
-
-
 
 Dichlorohexafluoropropane
 
-
-
-
 Dichlorotetrafluoroethane
-
-
-
 
 Heptachlorofluoropropane
 
-
-
-
 Hexachlorodifluoropropane
-
-
-
 
 Pentachlorofluoroethane
 
-
-
-
 Pentachlorotrifluoropropane
-
-
-
 
 Tetrachlorodifluoroethane
 
-
-
-
 Tetrachlorotetrafluoropropane
-
-
-
 
 Trichlorofluoromethane
 
-
-
-
 Trichloropentafluoropropane
-
-
-
 
 Trichlorotrifluoroethane
 
@@ -2903,13 +3110,7 @@ Phosphorus trichloride
 
 Polybrominated biphenyls
 
-Polybrominated diphenyl ethers (PBDEs), the following:
-
-Penta-brominated diphenyl ether
-
-Octa-brominated diphenyl ether
-
-Deca-brominated diphenyl ether
+Polybrominated diphenyl ethers (PBDEs)
 
 Polychlorinated biphenyls
 
@@ -3033,13 +3234,13 @@ Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
 [S 43/2008 wef 31/01/2008]
 
+[S 441/2011 wef 01/09/2011]
+
 Part II
 
 General Exemptions
 
 Adhesives;
-
-Anti-fouling compositions;
 
 Anti-fouling compositions other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
@@ -3093,13 +3294,15 @@ Varnishes;
 
 Vascular plants and their seeds.
 
+[S 43/2008 wef 31/01/2008]
+
 Part III
 
 Deleted by S 43/2008, wef 31/01/2008.
 
 Part IV
 
-Labels for Paints Containing Lead Compounds
+Labels for Paints Containing Lead Compounds 
 
 Type 1 Label:
 
@@ -3147,19 +3350,27 @@ Capacity of Package
 
 Dimension of Label
 
-(a) Not exceeding 3 litres
+(a)
+
+Not exceeding 3 litres
 
 not less than 52 x 74 millimetres.
 
-(b) Exceeding 3 litres but not exceeding 50 litres
+(b)
+
+Exceeding 3 litres but not exceeding 50 litres
 
 not less than 74 x 105 millimetres.
 
-(c) Exceeding 50 litres but not exceeding 500 litres
+(c)
+
+Exceeding 50 litres but not exceeding 500 litres
 
 not less than 105 x 148 millimetres.
 
-(d) Exceeding 500 litres
+(d)
+
+Exceeding 500 litres
 
 not less than 148 x 210 millimetres.
 
@@ -3167,7 +3378,7 @@ THIRD SCHEDULE
 
 Sections 76(1) and 77(1)
 
-Subject Matters of Regulations
+Subject matters of Regulations
 
 1\. The prescribing of types of tests to be carried out and the records to be maintained by occupiers of industrial or trade premises with respect to the emission of air impurities from and the consumption of fuel on such premises.
 
@@ -3211,6 +3422,10 @@ Subject Matters of Regulations
 
 21\. The specification of the times at which specified levels of noise may not be emitted from particular premises, activities, equipment, appliances, machinery and fuel burning equipment.
 
+21A. The restriction or prohibition of building works either generally or in specified areas during Saturdays, Sundays and public holidays (including between the hours of 10 pm on the eve of a public holiday and 7 am on the day after the public holiday) and between the hours of 12 midnight and 7 am on Mondays for the purpose of noise control.
+
+[12/2011 wef 01/09/2011]
+
 22\. The prescribing of codes of practice relating to the control and regulation of noise levels in work places and construction sites.
 
 23\. The prescribing of standards, codes of practice for the design, manufacture and use of equipment, appliances, machinery, industrial plant and fuel burning equipment to reduce pollution.
@@ -3218,6 +3433,10 @@ Subject Matters of Regulations
 23A. The prescribing of registration requirements in relation to registrable goods, and the regulation of the labelling of registrable goods, for the purpose of facilitating energy conservation.
 
 [26/2007 wef 01/01/2008]
+
+23B. The prescribing of energy efficiency standards in relation to registrable goods, and the regulation of the labelling of registrable goods, for the purpose of facilitating energy conservation.
+
+[12/2011 wef 01/09/2011]
 
 24\. The prescribing of fees for licences and the prescribing of fees and charges for any of the purposes of this Act or the regulations.
 
@@ -3276,6 +3495,13 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|31 January 2008|
 |14.|**G. N. No. S 62/2009—Environmental Protection And Management Act (Amendment Of Second Schedule) Order 2009**|
 ||Date of commencement|1 July 2009|
+|15.|**Act 12 of 2011—Environmental Protection And Management (Amendment) Act 2011**|
+||Date of First Reading|14 February 2011|
+|||(Bill No. 1/2010 published on 14 February 2011)|
+||Date of Second and Third Readings|10 March 2011|
+||Date of commencement|1 September 2011|
+|16.|**G. N. No. S 441/2011—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2011**|
+||Date of commencement|1 September 2011|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
