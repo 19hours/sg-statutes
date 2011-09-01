@@ -3753,3 +3753,8 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 34/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|10 January 2011|
 ||Date of commencement|1 June 2011 (sections 2(a), 5 to 14 — Amendment of Women’s Charter)|
+|23.|**Act 2 of 2011—Women’s Charter (Amendment) Act 2011**|
+||Date of First Reading|22 November 2010|
+|||(Bill No. 34/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|1 September 2011 (sections 2(b), (c), (d) and (e), 3 and 4 — Amendment of Women’s Charter)|
