@@ -42,6 +42,8 @@
 
 - [14 Duties of principals](#Duties-of-principals)
 
+- [14A Additional duties of principals in relation to contractors](#Additional-duties-of-principals-in-relation-to-contractors)
+
 - [15 Duties of persons at work](#Duties-of-persons-at-work)
 
 - [16 Duties of manufacturers and suppliers of machinery, equipment or hazardous substances used at work](#Duties-of-manufacturers-and-suppliers-of-machinery-equipment-or-hazardous-substances-used-at-work)
@@ -166,13 +168,13 @@
 
 - [66 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-[**FIRST SCHEDULE Workplaces subject to Act**](#FIRST-SCHEDULE-Workplaces-subject-to-Act)
+[**FIRST SCHEDULE Dangerous occurrences**](#FIRST-SCHEDULE-Dangerous-occurrences)
 
-[**SECOND SCHEDULE Dangerous occurrences**](#SECOND-SCHEDULE-Dangerous-occurrences)
+[**SECOND SCHEDULE Occupational diseases**](#SECOND-SCHEDULE-Occupational-diseases)
 
-[**THIRD SCHEDULE Occupational diseases**](#THIRD-SCHEDULE-Occupational-diseases)
+[**THIRD SCHEDULE Work of engineering construction**](#THIRD-SCHEDULE-Work-of-engineering-construction)
 
-[**FOURTH SCHEDULE Work of engineering construction**](#FOURTH-SCHEDULE-Work-of-engineering-construction)
+[**FOURTH SCHEDULE Workplaces specified as factories**](#FOURTH-SCHEDULE-Workplaces-specified-as-factories)
 
 [**FIFTH SCHEDULE Machinery, equipment or hazardous substances**](#FIFTH-SCHEDULE-Machinery-equipment-or-hazardous-substances)
 
@@ -208,11 +210,9 @@ PRELIMINARY
 
 ### Application of Act
 
-2\.—(1) Except as otherwise expressly provided in this Act (but not the regulations), the provisions of this Act shall apply to workplaces within the class or description of workplaces specified in the First Schedule.
+2\. Except as otherwise provided in this Act (but not the regulations), the provisions of this Act shall apply to all workplaces.
 
-(2) The Minister may, by order published in theGazette, add to the class or description of workplaces specified in the First Schedule, and may prescribe in the order such transitional provisions as may be necessary or expedient.
-
-(3) Every order made under subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
+[18/2011 wef 01/09/2011]
 
 ### Application of Act to Government
 
@@ -310,7 +310,9 @@ in connection with any trade, business, profession or undertaking carried on by 
 
 “Council” means the Workplace Safety and Health Council established under section 39;
 
-“dangerous occurrence” means any occurrence which is specified in the Second Schedule;
+“dangerous occurrence” means any occurrence which is specified in The First Schedule;
+
+[18/2011 wef 01/09/2011]
 
 “Deputy Commissioner” means a Deputy Commissioner for Workplace Safety and Health appointed under section 7;
 
@@ -360,13 +362,19 @@ but does not include any machinery used solely for the propulsion of vehicles;
 
 “mechanical power” means any energy derived from steam, water, wind, electricity, compressed air or gas, or the combustion of fuel or explosive, which is used to drive or work any machinery;
 
-“occupational disease” means any disease specified in the Third Schedule;
+“occupational disease” means any disease specified in the Second Schedule and any other disease that is directly attributable to any exposure to any chemical or biological agent arising out of and in the course of any employment;
+
+[18/2011 wef 01/09/2011]
 
 “occupier”, in relation to any premises or part of any premises, means —
 
-(a) in the case of a factory where a certificate of registration or a factory permit has to be obtained in relation to the premises pursuant to any regulations — the person who is, or is required to be, the holder of the certificate or permit; and
+(a) in the case of a factory where a certificate of registration has to be obtained in relation to the premises pursuant to any regulations — the person who is, or is required to be, the holder of the certificate;
 
-(b) in the case of any other premises — the person who has charge, management or control of those premises either on his own account or as an agent of another person, whether or not he is also the owner of those premises;
+(b) in the case of a factory where a notification has to be submitted in relation to the factory pursuant to any regulations — the person who is named in the notification, or is required to submit a notification; and
+
+(c) in the case of any other premises — the person who has charge, management or control of those premises either on his own account or as an agent of another person, whether or not he is also the owner of those premises;
+
+[18/2011 wef 01/09/2011]
 
 “owner”, in relation to any premises, means —
 
@@ -430,7 +438,9 @@ but does not include any machinery used solely for the propulsion of vehicles;
 
 which the contractor or subcontractor has been engaged as contractor or subcontractor, as the case may be, to do;
 
-“work of engineering construction” means any work specified in the Fourth Schedule;
+“work of engineering construction” means any work specified in The Third Schedule;
+
+[18/2011 wef 01/09/2011]
 
 “workplace safety and health auditor” means a workplace safety and health auditor appointed under section 30;
 
@@ -454,63 +464,33 @@ which the contractor or subcontractor has been engaged as contractor or subcontr
 
 5\.—(1) In this Act, “workplace” means any premises where a person is at work or is to work, for the time being works, or customarily works, and includes a factory.
 
-(2) Subject to this section, “factory” means any premises within which —
+(2) Subject to this section, “factory” means any premises —
 
-(a) persons are employed in any process for or incidental to any of the following purposes:
+(a) within which persons are employed in any of the following processes:
 
-(i) the making of any article or part of any article;
+(i) the handling, sorting, packing, storing, altering, repairing, construction, processing or manufacturing of any goods or product;
 
-(ii) the altering, repairing, ornamenting, finishing, cleaning or washing, or the breaking up or demolition of any article; or
+(ii) the handling, sorting, packing, storing, processing, manufacturing or use of any hazardous substances;
 
-(iii) the adapting for sale of any article; and
+(iii) the repair, construction or manufacturing of any vessel or vehicle;
 
-(b) any work referred to in paragraph (a) is carried out by way of trade or for purposes of gain and to or over which the employer of the persons employed therein has the right of access or control.
+(iv) any building operation or work of engineering construction;
 
-(3) The following premises within which persons are employed are deemed to be factories:
+(v) the operation or maintenance of any facility or system related to the provision of any public utility; and
 
-(a) any yard (including any dock, wharf, jetty, quay and the precincts thereof) where the construction, reconstruction, repair, refitting, finishing or breaking up of ships is carried out, including the waters adjacent to any such yard where the construction, reconstruction, repair, refitting, finishing or breaking up of ships is carried out by or on behalf of the occupier of that yard;
+[18/2011 wef 01/09/2011]
 
-(b) any premises where the sorting of articles is carried on as a preliminary to the work carried on in any other factory, or incidentally to the purposes of any other factory, whether that other factory is situated within or outside Singapore;
+(b) which is specified in the Fourth Schedule.
 
-(c) any premises where the washing or filling of bottles or containers or packing of articles is carried on incidentally to the purposes of any other factory, whether that other factory is situated within or outside Singapore;
+[18/2011 wef 01/09/2011]
 
-(d) any premises in which the business of hooking, plaiting, lapping, making up or packing of yarn or cloth is carried out;
-
-(e) any laundry ancillary to another business or incidental to the purposes of any public institution;
-
-(f) any premises where the construction, reconstruction or repair of locomotives, aircraft, vehicles or other plant for use for transport purposes is carried on as ancillary to a transport undertaking or other industrial or commercial undertaking, not being any premises used for the purpose of housing locomotives, aircraft or vehicles where only cleaning, washing, running repairs or minor adjustments are carried out;
-
-(g) any premises where the printing by letter press, offset, lithography, photogravure, rotogravure, or other similar process, or the binding of such printed materials is carried on by way of trade or for purposes of gain or incidentally to another business so carried on;
-
-(h) any premises where the making, adaptation or repair of dresses, scenery or props is carried on incidentally to the production of films, tapes or discs for public broadcast or screening or to the presentation of theatrical performances by way of trade or for purposes of gain, but not a stage or dressing-room of a theatre in which only occasional adaptations or repairs are made;
-
-(i) any premises where the business of making or mending nets is carried on incidentally to the fishing industry;
-
-(j) any premises where mechanical power is used in connection with the making or repair of any article incidentally to any business carried on by way of trade or for purposes of gain;
-
-(k) any premises where the production of cinematograph films is carried on by way of trade or for purposes of gain, but not a stage or a dressing-room of any actor in or connected with the production of any cinematograph film;
-
-(l) any premises where articles are made or prepared incidentally to the carrying on of any building operations or any work of engineering construction, not being premises in which such operations or work are being carried on;
-
-(m) any premises which are used for the storage of gas, including liquefied gas, in a container having a storage capacity of not less than 140 cubic metres;
-
-(n) any premises where work is carried out for or in connection with the generating of electrical energy for supply by way of trade or for purposes of gain;
-
-(o) any premises where mechanical power is used for the purposes of or in connection with a water supply;
-
-(p) any sewage works where mechanical power is used and any pumping station used in connection therewith;
-
-(q) any premises where building operations or any work of engineering construction are carried on;
-
-(r) any premises where mechanical power is used in connection with the sorting, packing, handling or storing of articles carried on by way of trade or for purposes of gain or incidentally to another business so carried on; and
-
-(s) any premises which are used for the bulk storage of toxic or flammable liquid (excluding liquefied gas) in a container, not being an underground container, that has a storage capacity of not less than 5,000 cubic metres.
-
-(4) Where any person carries on any work referred to in subsection (2) or (3) in a workplace with the express or implied permission of, or under any agreement with, the occupier of the workplace, then, notwithstanding that the person is not an employee of the occupier of the workplace —
+(4) Where any person carries on any work referred to in subsection (2) in a workplace with the express or implied permission of, or under any agreement with, the occupier of the workplace, then, notwithstanding that the person is not an employee of the occupier of the workplace —
 
 (a) the workplace shall be treated as a factory for the purposes of this Act; and
 
 (b) the provisions of this Act relating to the duty of an occupier shall apply to the occupier of the workplace as if he were the occupier of a factory.
+
+[18/2011 wef 01/09/2011]
 
 (5) Notwithstanding subsection (2), where any place situated within a factory is solely used for some purpose other than any of the processes carried on in the factory —
 
@@ -721,6 +701,44 @@ are safe and without risks to health to every person within those premises, whet
 
 (5) Every principal shall, where required by the regulations, give to persons (other than a person referred to in subsection (1)(a), (b) or (c) working under the principal’s direction) the prescribed information about such aspects of the way in which he conducts his undertaking as might affect their safety or health while those persons are at his workplace.
 
+### Additional duties of principals in relation to contractors
+
+14A\.—(1) It shall be the duty of every principal to take, so far as is reasonably practicable, such measures as are necessary to ensure that any contractor engaged by the principal on or after the date of commencement of section 5 of the Workplace Safety and Health (Amendment) Act 2011 —
+
+(a) has the necessary expertise to carry out the work for which the contractor is engaged by the principal to do; and
+
+(b) has taken adequate safety and health measures in respect of any machinery, equipment, plant, article or process used, or to be used, by the contractor or any employee employed by the contractor.
+
+[18/2011 wef 01/09/2011]
+
+(2) The duty imposed on every principal under subsection (1)(a) includes ascertaining that the contractor engaged by the principal and any employee of the contractor —
+
+(a) have sufficient experience and training to carry out the work for which the contractor is engaged by the principal to do; and
+
+(b) have obtained any necessary licence, permit, certificate or any other document in order to carry out the work for which the contractor is engaged by the principal to do.
+
+[18/2011 wef 01/09/2011]
+
+(3) The duty imposed on every principal under subsection (1)(b) includes ascertaining that the contractor engaged by the principal —
+
+(a) has conducted a risk assessment in relation to the safety and health risks posed to any person who may be affected by the work for which the contractor is engaged by the principal to do; and
+
+(b) has informed any person who may be affected by the work for which the contractor is engaged by the principal to do of the nature of the risk involved in the work and any measure or safe work procedure which is implemented at the workplace.
+
+[18/2011 wef 01/09/2011]
+
+(4) In any proceedings for an offence under this section, it shall not be a defence for the principal to prove that he has taken, so far as is reasonably practicable, such measures as are necessary to ensure compliance with this section solely by providing directly or indirectly, by a term in a contract with his contractor, that the contractor has complied with or will comply with the requirements referred to in paragraph (a) or (b) of subsection (1).
+
+[18/2011 wef 01/09/2011]
+
+(5) In this section, “risk assessment” means the process of evaluating the probability and consequences of injury or illness arising from exposure to an identified hazard, and determining the appropriate measure for risk control.
+
+[18/2011 wef 01/09/2011]
+
+(6) Nothing in section 14 limits the duty of a principal under this section.
+
+[18/2011 wef 01/09/2011]
+
 ### Duties of persons at work
 
 15\.—(1) It shall be the duty of every person at work —
@@ -732,6 +750,10 @@ are safe and without risks to health to every person within those premises, whet
 (2) No person at work shall wilfully or recklessly interfere with or misuse any appliance, protective clothing, convenience, equipment or other means or thing provided (whether for his use alone or for use by him in common with others) pursuant to any requirement under this Act for securing the safety, health or welfare of persons (including himself) at work.
 
 (3) Any person at work who, without reasonable cause, wilfully or recklessly does any act which endangers the safety or health of himself or others shall be guilty of an offence.
+
+(3A) Any person at work who, without reasonable cause, does any negligent act which endangers the safety or health of himself or others shall be guilty of an offence and shall be liable upon conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[18/2011 wef 01/09/2011]
 
 (4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.
 
@@ -1048,11 +1070,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 27\.—(1) The Minister may by regulations require an employer, an occupier, a registered medical practitioner or any other person to notify or to submit a report to the Commissioner in the event of an accident, a dangerous occurrence or an occupational disease in a prescribed workplace.
 
-(2) Regulations made under subsection (1) may apply to —
+(2) Regulations made under subsection (1) may apply to a person who is an exempt person at work specified in the Sixth Schedule.
 
-(a) a workplace which is not specified in the First Schedule; and
-
-(b) a person who is an exempt person at work specified in the Sixth Schedule.
+[18/2011 wef 01/09/2011]
 
 ## PART VII
 
@@ -1542,9 +1562,13 @@ AND PROCEEDINGS
 
 46\.—(1) No person shall occupy or use any premises as a factory if —
 
-(a) the regulations require the person to hold a certificate of registration of a factory or a factory permit issued under the regulations; and
+(a) the regulations require the person to hold a certificate of registration of a factory issued under the regulations; and
 
-(b) the person does not hold such a valid certificate of registration of a factory or factory permit.
+[18/2011 wef 01/09/2011]
+
+(b) the person does not hold such a valid certificate of registration of a factory.
+
+[18/2011 wef 01/09/2011]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -1764,7 +1788,9 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 ### Exempt workers, workplaces and equipment, etc.
 
-62\.—(1) The provisions of this Act shall not apply to such persons at work as are specified in the Sixth Schedule, notwithstanding that their work is carried out or performed in a workplace specified in the First Schedule.
+62\.—(1) The provisions of this Act shall not apply to such persons at work as are specified in the Sixth Schedule, notwithstanding that their work is carried out or performed in a workplace.
+
+[18/2011 wef 01/09/2011]
 
 (2) The Minister may, by order published in theGazetteand with or without conditions, exempt —
 
@@ -1798,7 +1824,9 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 ### Amendment of Schedules
 
-64\.—(1) Subject to section 2(2) and this section, the Minister may, by order published in theGazette, amend any of the Schedules.
+64\.—(1) Subject to this section, the Minister may, by order published in theGazette, amend any of the Schedules.
+
+[18/2011 wef 01/09/2011]
 
 (2) The Minister may prescribe in the order under subsection (1) such transitional, incidental and consequential provisions as may be necessary or expedient.
 
@@ -1820,17 +1848,27 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (iv) the circumstances under which an application for registration may be granted or refused;
 
-(v) the issuance of a certificate of registration of a factory or a factory permit in lieu of such a certificate;
+(v) the issuance of a certificate of registration of a factory;
 
-(vi) the duration of a certificate of registration of a factory or factory permit;
+[18/2011 wef 01/09/2011]
 
-(vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a factory permit is issued;
+(vi) the duration of a certificate of registration of a factory;
 
-(viii) the circumstances under which a certificate of registration of a factory or a factory permit may be renewed, extended or revoked;
+[18/2011 wef 01/09/2011]
+
+(vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a certificates of registration of a factory is issued;
+
+[18/2011 wef 01/09/2011]
+
+(viii) the circumstances under which a certificate of registration of a factory may be renewed, extended or revoked;
+
+[18/2011 wef 01/09/2011]
 
 (ix) the imposition of any duty on the occupier of a factory to provide such information to the Commissioner with respect to any change in any matter in relation to the factory;
 
-(x) the bringing of appeals to the Minister in respect of the registration of factories or the issue of factory permits;
+(x) the bringing of appeals to the Minister in respect of the registration of factories or the issue of certificates of registration of factories;
+
+[18/2011 wef 01/09/2011]
 
 (b) the lighting, ventilation, temperature, humidity, radiant heat, noise, drainage and hygiene in workplaces, and the fixing of standards therefor;
 
@@ -2016,78 +2054,6 @@ and any rights, priorities, liabilities, reliefs, obligations, requirements, pow
 
 FIRST SCHEDULE
 
-Sections 2(1) or (2), 27(2) and 62(1)
-
-Workplaces subject to Act
-
-1\. Any factory, including any premises immediately adjacent to the factory over which the occupier of the factory has charge, management or control.
-
-2. Any premises within an airport where —
-
-(a) any checking or inspection of an aircraft or its contents; or
-
-(b) any cleaning, loading, unloading or refueling of an aircraft,
-
-is carried out by any person other than by the crew of the aircraft.
-
-3. Any ship in a harbour where —
-
-(a) any scaling, scurfing or cleaning of boilers (including combustion chambers and smoke boxes) in the ship;
-
-(b) any cleaning of any tank, bilges or holds in the ship; or
-
-(c) any construction, re-construction, repair, fitting, furnishing or breaking up,
-
-is carried out.
-
-4\. Any dock, wharf or quay where loading, unloading or bunkering of a ship is carried out by persons other than by the crew of the ship.
-
-5\. Any premises delineated as a railway area under the Rapid Transit Systems Act (Cap. 263A) and where any inspection, testing or maintenance of any railway is carried out.
-
-6\. Any premises (other than domestic premises) in which a steam boiler, a steam receiver or an air receiver is used.
-
-7\. Any laboratory or other premises where the testing, examination or analysis of any article is carried out.
-
-8\. Any ship where any survey or inspection of the ship or its contents is carried out by any person other than by the crew of the ship.
-
-9\. Any tunnel, bridge or viaduct where any survey or inspection of the tunnel, bridge or viaduct is carried out.
-
-10\. Any hotel, lodging house, dormitory, service apartment, chalet, camping site or other premises where the provision of short-stay accommodation is carried out by way of trade or for purposes of gain.
-
-11\. Any restaurant, bar, canteen or other premises where food or drinks are sold or catered for consumption within those premises or elsewhere.
-
-12\. Any hospital, hospice, nursing home or medical or dental clinic or other premises providing nursing and rehabilitation services.
-
-13. Any veterinary centre providing any of the following services:
-
-(a) diagnosis of disease in, and injuries to, animals or birds, including tests performed for diagnostic purposes;
-
-(b) the treatment, vaccination or innoculation of animals or birds.
-
-14\. Any premises where landscaping or garden maintenance is carried out.
-
-15\. Any premises where the collection, purification or distribution of water is carried out.
-
-16\. Any premises where the disposal or treatment of sewage or refuse is carried out.
-
-17\. Any premises where the recycling of metal or non-metal waste or scrap is carried out.
-
-18. Any premises where —
-
-(a) freight forwarding, packing or crating services;
-
-(b) cargo surveying services;
-
-(c) container services; or
-
-(d) crane services,
-
-are carried out by way of trade or for purposes of gain or incidentally to another business so carried out.
-
-[S 72/2007; S 634/2007]
-
-SECOND SCHEDULE
-
 Section 4(1)
 
 Dangerous occurrences
@@ -2108,9 +2074,11 @@ Dangerous occurrences
 
 8\. Collapse, in part or in whole, of a scaffold exceeding 15 metres in height or of a suspended scaffold or a hanging scaffold from which any person may fall more than 2 metres.
 
-9\. Accidental seepage or entry of seawater into a dry dock or floating dock causing flooding of the dry dock or floating dock.
+9. Accidental seepage or entry of seawater into a dry dock or floating dock causing flooding of the dry dock or floating dock.
 
-THIRD SCHEDULE
+[18/2011 wef 01/09/2011]
+
+SECOND SCHEDULE
 
 Section 4(1)
 
@@ -2134,51 +2102,61 @@ Occupational diseases
 
 9\. Carbamate poisoning
 
-10\. Carbon Bisulphide poisoning
+10\. Compressed air illness or its sequelae, including dysbaric osteonecrosis
 
-11\. Chrome ulceration
+11\. Cyanide poisoning
 
-12\. Chronic benzene poisoning
+12\. Diseases caused by ionizing radiation
 
-13\. Compressed air illness
+13\. Diseases caused by excessive heat
 
-14\. Cyanide poisoning
+14\. Hydrogen Sulphide poisoning
 
-15\. Epitheliomatous ulceration (due to tar, pitch, bitumen, mineral oil or paraffin or any compound, product or residue of any such substance)
+15\. Lead poisoning
 
-16\. Hydrogen Sulphide poisoning
+16\. Leptospirosis
 
-17\. Occupational skin diseases
+17\. Liver angiosarcoma
 
-18\. Lead poisoning
+18\. Manganese poisoning
 
-19\. Liver angiosarcoma
+19\. Mercurial poisoning
 
-20\. Manganese poisoning
+20\. Mesothelioma
 
-21\. Mercurial poisoning
+21\. Noise-induced deafness
 
-22\. Mesothelioma
+22\. Occupational asthma
 
-23\. Noise-induced deafness
+23\. Occupational skin cancers
 
-24\. Occupational asthma
+24\. Occupational skin diseases
 
 25\. Organophosphate poisoning
 
-26\. Phosphorous poisoning
+26\. Phosphorus poisoning
 
-27\. Poisoning from halogen derivatives of hydrocarbon compounds
+27\. Poisoning by benzene or a homologue of benzene
 
-28\. Repetitive strain disorder of the upper limb
+28\. Poisoning by carbon monoxide gas
 
-29\. Silicosis
+29\. Poisoning by carbon disulphide
 
-30\. Toxic anaemia
+30\. Poisoning by oxides of nitrogen
 
-31\. Toxic hepatitis.
+31\. Poisoning from halogen derivatives of hydrocarbon compounds
 
-FOURTH SCHEDULE
+32\. Musculoskeletal disorders of the upper limb
+
+33\. Silicosis
+
+34\. Toxic anaemia
+
+35. Toxic hepatitis.
+
+[18/2011 wef 01/09/2011]
+
+THIRD SCHEDULE
 
 Section 4(1)
 
@@ -2200,7 +2178,55 @@ Work of engineering construction
 
 5\. The construction of any road or car park.
 
-6\. The reclamation of any land.
+6. The reclamation of any land.
+
+[18/2011 wef 01/09/2011]
+
+FOURTH SCHEDULE
+
+Section 5(2)
+
+Workplaces specified as factories
+
+1\. Any premises using an assembly-line manufacturing process in connection with the manufacturing, for the purposes of trade or gain, of any goods or products using mechanical power, not being a restaurant or kitchen.
+
+2\. Any premises used for the manufacturing, for the purposes of trade or gain, of fabricated metal products, machinery or equipment.
+
+3\. Any premises used for the manufacturing, for the purposes of trade or gain, of wood products using mechanical power.
+
+4\. Any premises used for the production of gas for commercial sale.
+
+5\. Any premises used for the manufacture of pharmaceutical products or its intermediates.
+
+6\. Any premises where the printing by letter press, offset, lithography, photogravure, rotogravure or other similar process, or the binding of such printed materials, is carried out.
+
+7\. Any premises where mechanical power is used in connection with the sorting, packing, handling or storing of articles.
+
+8\. Any premises used for the processing or manufacturing of flammable, corrosive or toxic substances, including petroleum, petroleum products, petrochemical or petrochemical products.
+
+9\. Any premises where the treatment, coating or electroplating of metal products involving the use of flammable, corrosive or toxic substances is carried out.
+
+10\. Any premises where the washing or filling of bottles, containers or vessels that contains or had contained flammable, corrosive or toxic substances is carried out, not being any premises where the filling of fuel into vehicles for their propulsion is carried out as a commercial undertaking.
+
+11\. Any premises used for the storage of gas (including liquefied gas) in a container having a storage capacity of not less than 140 cubic metres, not being any premises where the gas is stored for filling of fuel into vehicles for their propulsion as a commercial undertaking.
+
+12\. Any premises used for the bulk storage of toxic or flammable liquid (excluding liquefied gas) in a container, not being an underground container, that has a storage capacity of not less than 5,000 cubic metres.
+
+13\. Any yard (including any dock, wharf, jetty, quay and the precincts thereof) where the construction, reconstruction, repair, refitting, finishing or breaking up of ships is carried out, including the waters adjacent to any such yard where the construction, reconstruction, repair, refitting, finishing or breaking up of ships is carried out by or on behalf of the occupier of that yard.
+
+14\. Any premises where the construction, reconstruction or repair of locomotives, aircraft, vehicles or other plant for use for transport purposes is carried on as ancillary to a transport undertaking or other industrial or commercial undertaking, not being any premises used for the purpose of housing locomotives, aircraft or vehicles where only cleaning, washing, running repairs or minor adjustments are carried out.
+
+15\. Any premises where building operations or any work of engineering construction are carried out.
+
+16\. Any premises where articles are made or prepared incidentally to the carrying on of any building operations or any work of engineering construction, not being premises in which such operations or work are being carried out.
+
+17\. Any premises where work is carried out for or in connection with the generating of electrical energy for supply by way of trade or for purposes of gain.
+
+18\. Any premises where mechanical power is used for the purposes of or in connection with a water supply.
+
+19. Any sewage works where mechanical power is used and any pumping station used in connection therewith.
+
+[18/2011 wef 01/09/2011]
 
 FIFTH SCHEDULE
 
@@ -2288,7 +2314,7 @@ Workplace Safety and Health Act
 
 (CHAPTER 354A)
 
-This Legislative History is provided for the convenience of users of the Workplace Safety and Health Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Workplace Safety and Health Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2299,7 +2325,7 @@ This Legislative History is provided for the convenience of users of the Workpla
 ||Date of commencement|1 March 2006|
 Note:
 
-The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104, 1998 Revised Edition
+The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104, 1998 Revised Edition).
 
 |2.|**G. N. No. S 72/2007—Workplace Safety and Health (Workplaces Subject to Act) Order 2007**|
 ||Date of operation|1 March 2007|
@@ -2312,19 +2338,23 @@ The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104
 |||(Bill No. 2/2008 published on 16 February 2008)|
 ||Date of Second and Third Readings|6 March 2008|
 ||Date of commencement|1 April 2008|
-|6.|**2009 Revised Edition—Workplace Safety and Health Act**|
+|6.|**2009 Revised Edition—Workplace Safety and Health Act (Chapter 354A)**|
 ||Date of operation|31 July 2009|
 |7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
 ||Date of First Reading|23 November 2009|
-|||(Bill No. 26/2009 published on 24 November 2009)|
+|||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010 (section 6)|
 |8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
-||Date of Second Reading|19 May 2010|
-||Date of Third Reading|19 May 2010|
+||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|9.|**Act 18 of 2011—Workplace Safety and Health (Amendment) Act 2011**|
+||Date of First Reading|10 March 2011|
+|||(Bill No. 13/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 September 2011|
 ## COMPARATIVE TABLE
 
 Workplace Safety and Health Act
