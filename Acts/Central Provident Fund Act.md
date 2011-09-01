@@ -4504,29 +4504,31 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 1A to 7, with effect from 1st March 2011, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1st September 2011, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
 35 Years of Age and below
 
-Above 35 but not more than 50 Years of Age
+Above 35 but not more than
+50 Years of Age
 
-Above 50 but not more than 55 Years of Age
+Above 50 but not more than
+55 Years of Age
 
-Total amount of the employee’s wages for the calendar month.
+Total amount of the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
 (1)
 
@@ -4544,15 +4546,15 @@ Amount recoverable from the employee’s wages for the calendar month.
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 15.5% of the total amount of the employee’s wages for the month.
+An amount equal to 16% of the total amount of the employee’s wages for the month.
 
 NIL
 
-An amount equal to 0.103 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.1063 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 0.0763 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0797 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
@@ -4560,139 +4562,201 @@ Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
 An amount equal to 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.1063 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
+
+(a)
+
+0.0797 of the difference between the total amount of the employee’s wages for the month and $50; and
 
 An amount equal to 0.432 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 15.5% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) 0.103 of the difference between the total amount of the employee’s wages for the month and $50; and
+0.48 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0763 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(b) 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
+0.48 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(b) 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
+(b)
 
-(b) 0.432 of the difference between the total amount of the employee’s wages for the month and $500.
+0.432 of the difference between the total amount of the employee’s wages for the month and $500.
 
 Exceeding $750 but not exceeding $1,200
 
 An amount equal to the sum of —
 
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
 An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$74.475 and 0.2171 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
+
+(a)
+
+$55.80 and 0.1504 of the difference between the total amount of the employee’s wages for the month and $750; and
 
 An amount equal to the sum of $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 15.5% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) $72.15 and 0.2103 of the difference between the total amount of the employee’s wages for the month and $750; and
+$120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $53.475 and 0.1441 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+$120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
+$108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,200 but not exceeding $1,500
 
 An amount equal to the sum of —
 
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
 An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$172.20 and 0.226 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
+
+(a)
+
+$123.48 and 0.1884 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
 An amount equal to the sum of $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 15.5% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) $166.80 and 0.219 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+$120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $118.32 and 0.1806 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+$120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
+$108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,500
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+36% of the employee’s ordinary wages for the month subject to a maximum of $1,800; and
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+20% of the employee’s ordinary wages for the month subject to a maximum of $1,000; and
 
 An amount equal to the sum of —
 
+(a)
+
+36% of the employee’s ordinary wages for the month subject to a maximum of $1,800; and
+
 An amount equal to the sum of —
 
-(a) 35.5% of the employee’s ordinary wages for the month subject to a maximum of $1,597.50; and
+(a)
 
-(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
+20% of the employee’s ordinary wages for the month subject to a maximum of $1,000; and
 
-(a) 35.5% of the employee’s ordinary wages for the month subject to a maximum of $1,597.50; and
+An amount equal to the sum of —
 
-(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
+(a)
 
-(a) 29.5% of the employee’s ordinary wages for the month subject to a maximum of $1,327.50; and
+30% of the employee’s ordinary wages for the month subject to a maximum of $1,500; and
 
-(a) 18% of the employee’s ordinary wages for the month subject to a maximum of $810; and
+An amount equal to the sum of —
 
-(b) 35.5% of the amount of the additional wages payable to the employee in the month.
+(a)
 
-(b) 20% of the amount of the additional wages payable to the employee in the month.
+18% of the employee’s ordinary wages for the month subject to a maximum of $900; and
 
-(b) 35.5% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 20% of the amount of the additional wages payable to the employee in the month.
+36% of the additional wages payable to the employee in the month.
 
-(b) 29.5% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 18% of the amount of the additional wages payable to the employee in the month.
+20% of the additional wages payable to the employee in the month.
+
+(b)
+
+36% of the additional wages payable to the employee in the month.
+
+(b)
+
+20% of the additional wages payable to the employee in the month.
+
+(b)
+
+30% of the additional wages payable to the employee in the month.
+
+(b)
+
+18% of the additional wages payable to the employee in the month.
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than 60 Years of Age
+Above 55 but not more than
+60 Years of Age
 
-Above 60 but not more than 65 Years of Age
+Above 60 but not more than
+65 Years of Age
 
 Above 65 Years of Age
 
-Total amount of the employee’s wages for the calendar month.
+Total amount of the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
 (1)
 
@@ -4710,157 +4774,222 @@ Amount recoverable from the employee’s wages for the calendar month.
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0564 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0597 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0431 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0431 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
 Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
+
+(a)
+
+0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
 
 An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0431 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0431 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0564 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+0.3 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+0.18 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(b) 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+(b)
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 Exceeding $750 but not exceeding $1,200
 
 An amount equal to the sum of —
 
+(a)
+
+$41.85 and 0.099 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
+
+(a)
+
+$30.225 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
 
 An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$30.225 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $39.525 and 0.0935 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+$75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+$45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,200 but not exceeding $1,500
 
 An amount equal to the sum of —
 
+(a)
+
+$86.40 and 0.162 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
+
+(a)
+
+$54.60 and 0.143 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
 An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$54.60 and 0.143 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $81.60 and 0.153 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+$75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+$45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,500
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+21.5% of the employee’s ordinary wages for the month subject to a maximum of $1,075; and
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
 
 An amount equal to the sum of —
 
+(a)
+
+14% of the employee’s ordinary wages for the month subject to a maximum of $700; and
+
 An amount equal to the sum of —
 
-(a) 21% of the employee’s ordinary wages for the month subject to a maximum of $945; and
+(a)
 
-(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
+7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
 
-(a) 13.5% of the employee’s ordinary wages for the month subject to a maximum of $607.50; and
+An amount equal to the sum of —
 
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
+(a)
 
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+An amount equal to the sum of —
 
-(b) 21% of the amount of the additional wages payable to the employee in the month.
+(a)
 
-(b) 12.5% of the amount of the additional wages payable to the employee in the month.
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
-(b) 13.5% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
+21.5% of the additional wages payable to the employee in the month.
 
-(b) 11% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+12.5% of the additional wages payable to the employee in the month.
 
-1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+(b)
+
+14% of the additional wages payable to the employee in the month.
+
+(b)
+
+7.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+11.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+[S 508/2011 wef 01/09/2011]
+
+1A. Subject to paragraphs 1E to 7, with effect from 1st September 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
+
 35 Years of Age and below
 
-Above 35 but not more than 50 Years of Age
+Above 35 but not more than
+50 Years of Age
 
-Above 50 but not more than 55 Years of Age
+Above 50 but not more than
+55 Years of Age
 
-Total amount of the employee’s wages for the calendar month.
+Total amount of the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
 (1)
 
@@ -4894,139 +5023,202 @@ Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
+(a)
+
+4% of the total amount of the employee’s wages for the month; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 4% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) 0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+(b)
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 Exceeding $750 but not exceeding $1,200
 
 An amount equal to the sum of —
 
+(a)
+
+4% of the total amount of the employee’s wages for the month; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$18.60 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$18.60 and 0.0498 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 4% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) $18.60 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $18.60 and 0.0498 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,200 but not exceeding $1,500
 
 An amount equal to the sum of —
 
+(a)
+
+4% of the total amount of the employee’s wages for the month; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$42.96 and 0.0568 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$41.04 and 0.0632 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 4% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) $42.96 and 0.0568 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $41.04 and 0.0632 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,500
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
 An amount equal to the sum of —
 
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+
 An amount equal to the sum of —
 
-(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+(a)
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
-(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+An amount equal to the sum of —
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+(a)
 
-(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+An amount equal to the sum of —
 
-(b) 9% of the amount of the additional wages payable to the employee in the month.
+(a)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
-(b) 9% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+9% of the additional wages payable to the employee in the month.
 
-(b) 9% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+9% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+9% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than 60 Years of Age
+Above 55 but not more than
+60 Years of Age
 
-Above 60 but not more than 65 Years of Age
+Above 60 but not more than
+65 Years of Age
+
 
 Above 65 Years of Age
 
-Total amount of the employee’s wages for the calendar month.
+Total amount of the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
 (1)
 
@@ -5060,119 +5252,181 @@ Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
+(a)
+
+0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0265 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+(b)
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 Exceeding $750 but not exceeding $1,200
 
 An amount equal to the sum of —
 
+(a)
+
+$18.60 and 0.044 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $18.60 and 0.044 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,200 but not exceeding $1,500
 
 An amount equal to the sum of —
 
+(a)
+
+$38.40 and 0.072 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $38.40 and 0.072 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,500
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
 An amount equal to the sum of —
 
+(a)
+
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
+
 An amount equal to the sum of —
 
-(a) 9% of the employee’s ordinary wages for the month subject to a maximum of $405; and
+(a)
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
-(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+An amount equal to the sum of —
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+(a)
 
-(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+An amount equal to the sum of —
 
-(b) 9% of the amount of the additional wages payable to the employee in the month.
+(a)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
-(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+9% of the additional wages payable to the employee in the month.
 
-(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+5% of the additional wages payable to the employee in the month.
 
-1B. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+(b)
+
+8.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+8.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+[S 508/2011 wef 01/09/2011]
+
+1B. Subject to paragraphs 1E to 7, with effect from 1st September 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
@@ -5184,19 +5438,19 @@ Above 35 but not more than
 Above 50 but not more than
 55 Years of Age
 
-Total amount of the employee’s wages for the calendar month.
+Total amount of the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
 (1)
 
@@ -5230,139 +5484,202 @@ Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
+(a)
+
+9% of the total amount of the employee’s wages for the month; and
+
 An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 9% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) 0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+0.36 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+0.36 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+(b)
 
-(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+0.36 of the difference between the total amount of the employee’s wages for the month and $500.
 
 Exceeding $750 but not exceeding $1,200
 
 An amount equal to the sum of —
 
+(a)
+
+9% of the total amount of the employee’s wages for the month; and
+
 An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$41.85 and 0.1219 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$41.85 and 0.1126 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 9% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) $41.85 and 0.1219 of the difference between the total amount of the employee’s wages for the month and $750; and
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $41.85 and 0.1126 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,200 but not exceeding $1,500
 
 An amount equal to the sum of —
 
+(a)
+
+9% of the total amount of the employee’s wages for the month; and
+
 An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$96.72 and 0.1276 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$92.52 and 0.1416 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 9% of the total amount of the employee’s wages for the month; and
+(b)
 
-(a) $96.72 and 0.1276 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $92.52 and 0.1416 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,500
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 An amount equal to the sum of —
 
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+
 An amount equal to the sum of —
 
-(a) 24% of the employee’s ordinary wages for the month subject to a maximum of $1080; and
+(a)
 
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
-(a) 24% of the employee’s ordinary wages for the month subject to a maximum of $1080; and
+An amount equal to the sum of —
 
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+(a)
 
-(a) 24% of the employee’s ordinary wages for the month subject to a maximum of $1080; and
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
 
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+An amount equal to the sum of —
 
-(b) 24% of the amount of the additional wages payable to the employee in the month.
+(a)
 
-(b) 15% of the amount of the additional wages payable to the employee in the month.
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
-(b) 24% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 15% of the amount of the additional wages payable to the employee in the month.
+24% of the additional wages payable to the employee in the month.
 
-(b) 24% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 15% of the amount of the additional wages payable to the employee in the month.
+15% of the additional wages payable to the employee in the month.
+
+(b)
+
+24% of the additional wages payable to the employee in the month.
+
+(b)
+
+15% of the additional wages payable to the employee in the month.
+
+(b)
+
+24% of the additional wages payable to the employee in the month.
+
+(b)
+
+15% of the additional wages payable to the employee in the month.
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than 60 Years of Age
+Above 55 but not more than
+60 Years of Age
 
-Above 60 but not more than 65 Years of Age
+Above 60 but not more than
+65 Years of Age
+
 
 Above 65 Years of Age
 
-Total amount of the employee’s wages for the calendar month.
+Total amount of the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month.
+Contributions payable by the employer for the calendar month
 
-Amount recoverable from the employee’s wages for the calendar month.
+Amount recoverable from the employee’s wages for the calendar month
 
 (1)
 
@@ -5396,785 +5713,1103 @@ Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
-An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+(a)
 
-An amount equal to the sum of —
-
-An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(a) 0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) $27.90 and 0.066 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(a) $16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) $57.60 and 0.108 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(a) $29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $832.50; and
-
-(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
-
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
-
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
-
-(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(b) 18.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 12.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 11% of the amount of the additional wages payable to the employee in the month.
-
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 8.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-1C. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
-
-(a) where the employee is not more than 55 years of age:
-
-35 Years of Age and below
-
-Above 35 but not more than 50 Years of Age
-
-Above 50 but not more than 55 Years of Age
-
-Total amount of the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 15.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 0.103 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-An amount equal to 0.0763 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 15.5% of the total amount of the employee’s wages for the month; and
-
-(a) 0.103 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(a) 0.0763 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) 15.5% of the total amount of the employee’s wages for the month; and
-
-(a) $72.15 and 0.2103 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(a) $53.475 and 0.1441 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) 15.5% of the total amount of the employee’s wages for the month; and
-
-(a) $166.80 and 0.219 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(a) $118.32 and 0.1806 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 20.5% of the employee’s ordinary wages for the month subject to a maximum of $922.50; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(a) 20.5% of the employee’s ordinary wages for the month subject to a maximum of $922.50; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(a) 16.5% of the employee’s ordinary wages for the month subject to a maximum of $742.50; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(b) 20.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 20.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 16.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-(b) where the employee is above 55 years of age:
-
-Above 55 but not more than 60 Years of Age
-
-Above 60 but not more than 65 Years of Age
-
-Above 65 Years of Age
-
-Total amount of the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 0.0564 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 0.0564 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) $39.525 and 0.0935 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) $81.60 and 0.153 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 13.5% of the employee’s ordinary wages for the month subject to a maximum of $607.50; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
-
-(b) 13.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 11% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 11% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-1D. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates) for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
-
-(a) where the employee is not more than 55 years of age:
-
-35 Years of Age and below
-
-Above 35 but not more than 50 Years of Age
-
-Above 50 but not more than 55 Years of Age
-
-Total amount of the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 15.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 0.103 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-An amount equal to 0.0763 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
-
-An amount equal to the sum of —
-
-An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 15.5% of the total amount of the employee’s wages for the month; and
-
-(a) 0.103 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(a) 0.0763 of the difference between the total amount of the employee’s wages for the month and $50; and
-
-(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) 15.5% of the total amount of the employee’s wages for the month; and
-
-(a) $72.15 and 0.2103 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(a) $53.475 and 0.1441 of the difference between the total amount of the employee’s wages for the month and $750; and
-
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(a) 15.5% of the total amount of the employee’s wages for the month; and
-
-(a) $166.80 and 0.219 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(a) $118.32 and 0.1806 of the difference between the total amount of the employee’s wages for the month and $1,200; and
-
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-(b) $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
-
-Exceeding $1,500
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 30.5% of the employee’s ordinary wages for the month subject to a maximum of $1,372.50; and
-
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
-
-(a) 30.5% of the employee’s ordinary wages for the month subject to a maximum of $1,372.50; and
-
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
-
-(a) 26.5% of the employee’s ordinary wages for the month subject to a maximum of $1,192.50; and
-
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $675; and
-
-(b) 30.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 15% of the amount of the additional wages payable to the employee in the month.
-
-(b) 30.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 15% of the amount of the additional wages payable to the employee in the month.
-
-(b) 26.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 15% of the amount of the additional wages payable to the employee in the month.
-
-(b) where the employee is above 55 years of age:
-
-Above 55 but not more than 60 Years of Age
-
-Above 60 but not more than 65 Years of Age
-
-Above 65 Years of Age
-
-Total amount of the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 0.0564 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
+0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
 
 An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
 
 An amount equal to the sum of —
 
+(a)
+
+0.0232 of the difference between the total amount of the employee’s wages for the month and $50; and
+
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0564 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+0.3 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
+(b)
 
-(b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+0.18 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(b) 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+(b)
 
-(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
 Exceeding $750 but not exceeding $1,200
 
 An amount equal to the sum of —
 
+(a)
+
+$27.90 and 0.066 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
+
+(a)
+
+$16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
 
 An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$16.275 and 0.0291 of the difference between the total amount of the employee’s wages for the month and $750; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $39.525 and 0.0935 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+$75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
+(b)
 
-(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+$45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,200 but not exceeding $1,500
 
 An amount equal to the sum of —
 
+(a)
+
+$57.60 and 0.108 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
+
+(a)
+
+$29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
 An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
 An amount equal to the sum of —
 
+(a)
+
+$29.40 and 0.077 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $81.60 and 0.153 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+$75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(b)
 
-(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+$45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+(b)
 
-(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
 Exceeding $1,500
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+18.5% of the employee’s ordinary wages for the month subject to a maximum of $925; and
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
+(a)
+
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
 
 An amount equal to the sum of —
 
+(a)
+
+11% of the employee’s ordinary wages for the month subject to a maximum of $550; and
+
 An amount equal to the sum of —
 
-(a) 21% of the employee’s ordinary wages for the month subject to a maximum of $945; and
+(a)
 
-(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
+7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
 
-(a) 13.5% of the employee’s ordinary wages for the month subject to a maximum of $607.50; and
+An amount equal to the sum of —
 
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
+(a)
 
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
 
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+An amount equal to the sum of —
 
-(b) 21% of the amount of the additional wages payable to the employee in the month.
+(a)
 
-(b) 12.5% of the amount of the additional wages payable to the employee in the month.
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
-(b) 13.5% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
+18.5% of the additional wages payable to the employee in the month.
 
-(b) 11% of the amount of the additional wages payable to the employee in the month.
+(b)
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.
+12.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+11% of the additional wages payable to the employee in the month.
+
+(b)
+
+7.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+8.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+[S 508/2011 wef 01/09/2011]
+
+1C. Subject to paragraphs 1E to 7, with effect from 1st September 2011, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month are as follows:
+
+(a) where the employee is not more than 55 years of age:
+
+
+35 Years of Age and below
+
+Above 35 but not more than
+50 Years of Age
+
+Above 50 but not more than
+55 Years of Age
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 16% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 0.1063 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0797 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.1063 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.0797 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$74.475 and 0.2171 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$55.80 and 0.1504 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$172.20 and 0.226 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$123.48 and 0.1884 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+21% of the employee’s ordinary wages for the month subject to a maximum of $1,050; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+21% of the employee’s ordinary wages for the month subject to a maximum of $1,050; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+17% of the employee’s ordinary wages for the month subject to a maximum of $850; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+(b)
+
+21% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+21% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+17% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b) where the employee is above 55 years of age:
+
+Above 55 but not more than
+60 Years of Age
+
+Above 60 but not more than
+65 Years of Age
+
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 0.0597 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0431 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0431 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.0431 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.0431 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+(a)
+
+$41.85 and 0.099 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$30.225 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$30.225 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+$86.40 and 0.162 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$54.60 and 0.143 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$54.60 and 0.143 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+14% of the employee’s ordinary wages for the month subject to a maximum of $700; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+(b)
+
+14% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+11.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+(b)
+
+11.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+[S 508/2011 wef 01/09/2011]
+
+1D. Subject to paragraphs 1E to 7, with effect from 1st September 2011, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates) for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month are as follows:
+
+(a) where the employee is not more than 55 years of age:
+
+
+35 Years of Age and below
+
+Above 35 but not more than
+50 Years of Age
+
+Above 50 but not more than
+55 Years of Age
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 16% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 0.1063 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0797 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.1063 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.0797 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.36 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$74.475 and 0.2171 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$55.80 and 0.1504 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+16% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$172.20 and 0.226 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$123.48 and 0.1884 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$90 and 0.18 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+27% of the employee’s ordinary wages for the month subject to a maximum of $1,350; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+(b)
+
+31% of the additional wages payable to the employee in the month.
+
+(b)
+
+15% of the additional wages payable to the employee in the month.
+
+(b)
+
+31% of the additional wages payable to the employee in the month.
+
+(b)
+
+15% of the additional wages payable to the employee in the month.
+
+(b)
+
+27% of the additional wages payable to the employee in the month.
+
+(b)
+
+15% of the additional wages payable to the employee in the month.
+
+(b) where the employee is above 55 years of age:
+
+Above 55 but not more than
+60 Years of Age
+
+Above 60 but not more than
+65 Years of Age
+
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 0.0597 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0431 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0431 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+0.0597 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.0431 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+0.0431 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b)
+
+0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+(a)
+
+$41.85 and 0.099 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$30.225 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$30.225 and 0.0541 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+$86.40 and 0.162 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$54.60 and 0.143 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+(a)
+
+$54.60 and 0.143 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b)
+
+$30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
+An amount equal to the sum of —
+
+(a)
+
+21.5% of the employee’s ordinary wages for the month subject to a maximum of $1,075; and
+
+An amount equal to the sum of —
+
+(a)
+
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
+
+An amount equal to the sum of —
+
+(a)
+
+14% of the employee’s ordinary wages for the month subject to a maximum of $700; and
+
+An amount equal to the sum of —
+
+(a)
+
+7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
+
+An amount equal to the sum of —
+
+(a)
+
+11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+(b)
+
+21.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+12.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+14% of the additional wages payable to the employee in the month.
+
+(b)
+
+7.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+11.5% of the additional wages payable to the employee in the month.
+
+(b)
+
+5% of the additional wages payable to the employee in the month.
+
+[S 508/2011 wef 01/09/2011]
 
 1E\. Subject to paragraphs 1F to 7, where a foreign employee becomes a permanent resident after 1st March 2009 but before 1st March 2011, or where a person becomes a permanent resident after 1st March 2009 but before 1st March 2011 and subsequently becomes an employee, the contributions payable in respect of that employee during the period beginning on 1st March 2011 and ending on the last day of the second anniversary month, shall be in accordance with the rates of contributions set out in paragraphs 1A and 1B.
 
@@ -6210,17 +6845,21 @@ until the employee leaves the employment of the employer or the agreement expire
 
 (a) was entered into before 1st October 2002 between an employer and an employee who is a permanent resident under regulation 3(2)(b) of the revoked Central Provident Fund (Permanent Residents — Employees) Regulations (Rg 21, 1998 Ed.) in relation to the contributions payable in respect of that employee; and
 
-(b) was in force immediately before 1st March 2011; or
+(b) was in force immediately before 1st March 2011, or
 
 then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of $76,500 less the amount of ordinary wages for that year.
+2. No contributions shall be payable by an employer on the additional wages in a year which are in excess of the applicable amount less the amount of ordinary wages for that year.
 
-3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: $76,500 less —
+[S 508/2011 wef 01/09/2011]
+
+3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: the applicable amount less —
 
 (a) the ordinary wages of the employee for the preceding year; and
 
 (b) the additional wages of the employee already paid for the current year.
+
+[S 508/2011 wef 01/09/2011]
 
 4.—(1) Where the contributions on additional wages for any year have been paid at any time before the relevant time and before the amount of ordinary wages for that year is computed, the amount of contributions payable on the additional wages for that year shall be recomputed at the relevant time, subject to the limit in paragraph 2.
 
@@ -6228,7 +6867,19 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
 
-4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $4,500 for any month shall be disregarded.
+4A. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
+
+(a) for the year beginning 1st January 2011, the amount of ordinary wages for any month which is in excess of —
+
+(i) $4,500 for the months of January to August; and
+
+(ii) $5,000 for the months of September to December,
+
+shall be disregarded; and
+
+(b) for the year beginning 1st January 2012 and every subsequent year, the amount of ordinary wages for any month which is in excess of $5,000 shall be disregarded.
+
+[S 508/2011 wef 01/09/2011]
 
 5. For the purpose of this Schedule —
 
@@ -6240,9 +6891,21 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (d) “additional wages” means any remuneration other than ordinary wages;
 
-(da) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
+(da) “applicable amount” —
 
-(db) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
+(i) in respect of the year beginning 1st January 2011, means the sum of $79,333; and
+
+(ii) in respect of the year beginning 1st January 2012 and every subsequent year, means the sum of $85,000;
+
+[S 508/2011 wef 01/09/2011]
+
+(db) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
+
+[S 508/2011 wef 01/09/2011]
+
+(dc) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
+
+[S 508/2011 wef 01/09/2011]
 
 (e) “ordinary wages for the month” means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
 
@@ -6254,7 +6917,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (f) “total amount of employee’s wages for the calendar month” means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
 
-(g) [Deleted by S 657/2003 wef 01/01/2004]
+(g) [ [ [Deleted by S 657/2003 wef 01/01/2004 wef 01/01/2004 wef 01/01/2004 wef 01/01/2004 wef 01/01/2004 wef 01/01/2004 wef 01/01/2004]]]
 
 (h) “year” means the period beginning on 1st January and ending on 31st December.
 
@@ -6330,7 +6993,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (33) Nanyang Polytechnic.
 
-(34) [Deleted by S 193/2006 wef 01/04/2006]
+(34) [ [ [Deleted by S 193/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006]]]
 
 (35) National Arts Council.
 
@@ -6346,13 +7009,13 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (41) National Parks Board.
 
-(42) [Deleted by S 193/2006 wef 01/04/2006]
+(42) [ [ [Deleted by S 193/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006 wef 01/04/2006]]]
 
 (43) Ngee Ann Polytechnic.
 
 (44) People’s Association.
 
-(45) [Deleted by Act 16/2009 wef 01/07/2009]
+(45) [ [ [Deleted by Act 16/2009 wef 01/07/2009 wef 01/07/2009 wef 01/07/2009 wef 01/07/2009 wef 01/07/2009 wef 01/07/2009 wef 01/07/2009]]]
 
 (46) Professional Engineers Board.
 
@@ -7249,6 +7912,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|10 January 2011|
 ||Date of commencement|1 June 2011 (Section 15)|
+|178.|**G.N. No. S 508/2011—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2011**|
+||Date of commencement|1 September 2011|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
