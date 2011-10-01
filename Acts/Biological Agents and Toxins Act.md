@@ -204,7 +204,7 @@
 
 [**SEVENTH SCHEDULE Biohazard Sign**](#SEVENTH-SCHEDULE-Biohazard-Sign)
 
-[**EIGHTH SCHEDULE Non-compoundable Offences**](#EIGHTH-SCHEDULE-Non-compoundable-Offences)
+[**EIGHTH SCHEDULE Non-Compoundable Offences**](#EIGHTH-SCHEDULE-Non-Compoundable-Offences)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1931,41 +1931,69 @@ Part I
 
 Bacteria
 
-1\.Brucella canis
+1. 
 
-2\.Chlamydia psittaci (avian strains)
+Brucella canis
 
-3\.Mycobacterium canettii
+2. 
 
-4\.Mycobacterium africanum
+Chlamydia psittaci (avian strains)
 
-5\.Mycobacterium bovis (non-BCG strains)
+3. 
 
-6\.Mycobacterium microti
+Mycobacterium canettii
 
-7\.Mycobacterium tuberculosis
+4. 
 
-8. Any biological agent that is a constructed or reconstructed replication-competent form of any bacterium set out in this Part
+Mycobacterium africanum
+
+5. 
+
+Mycobacterium bovis (non-BCG strains)
+
+6. 
+
+Mycobacterium microti
+
+7. 
+
+Mycobacterium tuberculosis
+
+8. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any bacterium set out in this Part
 
 [S 573/2009 wef 01/12/2009]
 
 Fungi
 
-1\.Blastomyces dermatitidis
+1. 
 
-2\.Histoplasma capsulatum var. capsulatum
+Blastomyces dermatitidis
 
-3\.Histoplasma capsulatum var. duboisii
+2. 
 
-4\.Paracoccidioides brasiliensis
+Histoplasma capsulatum var. capsulatum
 
-5. Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
+3. 
+
+Histoplasma capsulatum var. duboisii
+
+4. 
+
+Paracoccidioides brasiliensis
+
+5. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
 
 [S 573/2009 wef 01/12/2009]
 
 Viruses
 
-1.Arenaviridae
+1. 
+
+Arenaviridae
 
 (a) Lymphocytic choriomeningitis virus
 
@@ -1973,7 +2001,9 @@ Viruses
 
 (c) LCM-Lassa complex viruses (except Lassa virus)
 
-2.Bunyaviridae
+2. 
+
+Bunyaviridae
 
 (a) Akabane virus
 
@@ -1987,11 +2017,13 @@ Viruses
 
 (f) Nairobi sheep disease virus
 
-3.Flaviviridae
+3. 
+
+Flaviviridae
 
 (a) Japanese encephalitis virus (except for the vaccine strain 14-14-2 virus)
 
-[S 676/2007 wef 01/01/2008]
+[S 676/2007 wef 1/1/2008]
 
 (b) Murray Valley encephalitis virus
 
@@ -2009,11 +2041,15 @@ Viruses
 
 (i) Powassan virus
 
-4.Herpesviridae
+4. 
+
+Herpesviridae
 
 (a) Herpesvirus ateles
 
-5.Orthomyxoviridae
+5. 
+
+Orthomyxoviridae
 
 (a) Dhori virus
 
@@ -2021,7 +2057,9 @@ Viruses
 
 (c) Influenza A virus subtype H5N1
 
-6.Picornaviridae
+6. 
+
+Picornaviridae
 
 (a) Poliovirus, except for the following vaccine strains:
 
@@ -2033,25 +2071,51 @@ Viruses
 
 [S 676/2007 wef 01/01/2008]
 
-7.Reoviridae
+7. 
+
+Reoviridae
 
 (a) Orungo virus
 
-8.Retroviridae
+8. 
 
-(a) Human immunodeficiency virus (HIV) Types 1 and 2
+Retroviridae
+
+(a) Human immunodeficiency virus (HIV) Types 1 and 2, except for any advanced generation HIV lentiviral vector, which means —
+
+(i) any third or higher generation HIV vector; or
+
+(ii) any HIV vector with all of the following features:
+
+(A) comprises a minimum of 4 plasmids in total which includes all types of plasmid (e.g. packaging, structural, accessory, etc.);
+
+(B) HIV genes are split to a minimum of 2 packaging plasmids;
+
+(C) theenvgene encoding for the HIV envelope is replaced;
+
+(D) thevif,vpr,vpuandnefgenes are either absent or altered to be non-functional;
+
+(E) therevandtatgenes are absent, non-functional or expressed from a separate construct; and
+
+(F) theGagandPolgenes are split over at least 2 plasmids or there is deletion in the 3’LTR or both.
+
+[S 541/2011 wef 01/10/2011]
 
 (b) Human T lymphotropic virus (HTLV) Types 1 and 2
 
 (c) Simian immunodeficiency virus
 
-9.Rhabdoviridae
+9. 
+
+Rhabdoviridae
 
 (a) Rabies virus
 
 (b) Vesicular stomatitis virus
 
-10.Togaviridae
+10. 
+
+Togaviridae
 
 (a) [Deleted by S 676/2007 wef 01/01/2008]
 
@@ -2071,7 +2135,9 @@ Viruses
 
 (i) Western equine encephalitis virus
 
-11. Unconventional agents associated with the transmission of Spongiform Encephalitis
+11. 
+
+Unconventional agents associated with the transmission of Spongiform Encephalitis
 
 (a) Bovine spongiform encephalopathy prion and other related animal transmissible spongiform encephalopathy prion
 
@@ -2085,7 +2151,9 @@ Viruses
 
 (f) Fatal familial insomnia prion
 
-12. Any biological agent that is a constructed or reconstructed replication-competent form of any virus set out in this Part
+12. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any virus set out in this Part
 
 [S 573/2009 wef 01/12/2009]
 
@@ -2093,7 +2161,9 @@ Part II
 
 Bacteria
 
-1.Bacillus anthracis, except for the attenuated strains devoid of —
+1. 
+
+Bacillus anthracis, except for the attenuated strains devoid of —
 
 (a) plasmid pX02; or
 
@@ -2101,7 +2171,9 @@ Bacteria
 
 [S 676/2007 wef 01/01/2008]
 
-2.Brucella abortus, except for the attenuated strains —
+2. 
+
+Brucella abortus, except for the attenuated strains —
 
 (a) 19; or
 
@@ -2109,17 +2181,29 @@ Bacteria
 
 [S 676/2007 wef 01/01/2008]
 
-3\.Brucella melitensis
+3. 
 
-4\.Brucella suis
+Brucella melitensis
 
-5\.Burkholderia mallei
+4. 
 
-6\.Burkholderia pseudomallei
+Brucella suis
 
-7\.Clostridium botulinum
+5. 
 
-8.Franciscella tularensis, except for the attenuated strains of —
+Burkholderia mallei
+
+6. 
+
+Burkholderia pseudomallei
+
+7. 
+
+Clostridium botulinum
+
+8. 
+
+Franciscella tularensis, except for the attenuated strains of —
 
 (a) the subspecies of novicida (the UTAH 112 [ATCC 15482]);
 
@@ -2127,55 +2211,75 @@ Bacteria
 
 (c) the B38 strain [ATTC 6223]
 
-[S 676/2007 wef 01/01/2008 wef 01/01/2008]
+[S 676/2007 wef 01/01/2008]
 
-9.Yersinia pestis, except for the attenuated strains devoid of —
+9. 
+
+Yersinia pestis, except for the attenuated strains devoid of —
 
 (a) Pgm locus [EV76 strain];
 
 (b) 75 kb low-calcium response virulence plasmid [Tjiwidej S strain]
 
-[S 676/2007 wef 01/01/2008 wef 01/01/2008]
+[S 676/2007 wef 01/01/2008]
 
-10. Any biological agent that is a constructed or reconstructed replication-competent form of any bacterium set out in this Part
+10. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any bacterium set out in this Part
 
 [S 573/2009 wef 01/12/2009]
 
 Rickettsiae
 
-1.Coxiella burnetii (except for the attenuated Phase II, plaque purified clone 4 of the Nine Mile strain)
+1. 
+
+Coxiella burnetii(except for the attenuated Phase II, plaque purified clone 4 of the Nine Mile strain)
 
 [S 676/2007 wef 01/01/2008]
 
-2\.Rickettsia — all species
+2. 
 
-3. Any biological agent that is a constructed or reconstructed replication-competent form of any rickettsia set out in this Part
+Rickettsia —all species
+
+3. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any rickettsia set out in this Part
 
 [S 573/2009 wef 01/12/2009]
 
 Fungi
 
-1\.Coccidioides immitis
+1. 
 
-2.Coccidioides posadasii, except for the following attenuated strains:
+Coccidioides immitis
 
-(a) ∆chs5; an d
+2. 
+
+Coccidioides posadasii, except for the following attenuated strains:
+
+(a) ∆chs5; and
 
 (b) ∆cts2/∆ard1/∆cts3;
 
 [S 676/2007 wef 01/01/2008]
 
-3. Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
+3. 
 
-[S 573/2009 wef 01/12/2009 wef 1/12/2009]
+Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
+
+[S 573/2009 wef 01/12/2009]
 
 Viruses
 
-1.Arenaviridae
+1. 
+
+Arenaviridae
 
 (a) Flexal virus
 
-2.Bunyaviridae
+2. 
+
+Bunyaviridae
 
 (a) Hantaan virus
 
@@ -2185,33 +2289,41 @@ Viruses
 
 (d) Rift Valley fever virus (except for the vaccine strain MP-12)
 
-[S 676/2007 wef 01/01/2008 wef 1/1/2008]
+[S 676/2007 wef 01/01/2008]
 
-3.Coronaviridae
+3. 
+
+Coronaviridae
 
 (a) SARS coronavirus
 
-4.Flaviviridae
+4. 
+
+Flaviviridae
 
 (a) Yellow fever virus (except for the vaccine strain 17-D)
 
 [S 676/2007 wef 01/01/2008]
 
-5.Poxviridae
+5. 
+
+Poxviridae
 
 (a) Monkeypox virus
 
-6.Togaviridae
+6. 
+
+Togaviridae
 
 (a) Eastern equine encephalitis virus
 
 (b) Venezuelan equine encephalitis virus
 
-[S 573/2009 wef 01/01/2008 wef 01/12/2009]
-
-7. Any biological agent that is a constructed or reconstructed replication-competent form of any virus set out in this Part.
-
 [S 589/2006]
+
+7. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any virus set out in this Part.
 
 [S 573/2009 wef 01/12/2009]
 
@@ -2221,39 +2333,71 @@ Section 2
 
 Second Schedule Biological Agents
 
-1\. Crimean-Congo haemorrhagic fever virus
+1. 
 
-2\. Cercopithecine herpesvirus 1
+Crimean-Congo haemorrhagic fever virus
 
-3\. Ebola virus
+2. 
 
-4\. Guanarito virus
+Cercopithecine herpesvirus 1
 
-5\. Hendra virus
+3. 
 
-6\. Junin virus
+Ebola virus
 
-7\. Lassa fever virus
+4. 
 
-8\. Machupo virus
+Guanarito virus
 
-9\. Marburg virus
+5. 
 
-10\. Nipah virus
+Hendra virus
 
-11\. Sabia virus
+6. 
 
-12\. Tick-borne encephalitis viruses (including Central European tick-borne encephalitis virus, Far Eastern tick-borne encephalitis virus, Russian spring-summer encephalitis virus, Kyasanur forest virus, Omsk haemorrhagic fever virus, with the exception of Louping ill, Negishi and Powassan viruses listed in Schedule 1)
+Junin virus
 
-13\. Variola major (Smallpox) virus
+7. 
 
-14\. Variola minor (Alastrim) virus
+Lassa fever virus
 
-15. 1918 pandemic influenza virus
+8. 
+
+Machupo virus
+
+9. 
+
+Marburg virus
+
+10. 
+
+Nipah virus
+
+11. 
+
+Sabia virus
+
+12. 
+
+Tick-borne encephalitis viruses (including Central European tick-borne encephalitis virus, Far Eastern tick-borne encephalitis virus, Russian spring-summer encephalitis virus, Kyasanur forest virus, Omsk haemorrhagic fever virus, with the exception of Louping ill, Negishi and Powassan viruses listed in Schedule 1)
+
+13. 
+
+Variola major (Smallpox) virus
+
+14. 
+
+Variola minor (Alastrim) virus
+
+15. 
+
+1918 pandemic influenza virus
 
 [S 573/2009 wef 01/12/2009]
 
-16. Any biological agent that is a constructed or reconstructed replication-competent form of any biological agent set out in this Schedule.
+16. 
+
+Any biological agent that is a constructed or reconstructed replication-competent form of any biological agent set out in this Schedule.
 
 [S 573/2009 wef 01/12/2009]
 
@@ -2299,9 +2443,13 @@ Fifth Schedule Toxins
 
 6\. T-2 toxin
 
-7. Tetanus toxin.
+7. Tetanus toxin
 
 [S 589/2006]
+
+8. HT-2 toxin.
+
+[S 541/2011 wef 01/10/2011]
 
 SIXTH SCHEDULE
 
@@ -2331,7 +2479,7 @@ EIGHTH SCHEDULE
 
 Section 59(1)
 
-Non-compoundable Offences
+Non-Compoundable Offences
 
 The following offences are not compoundable under section 59:
 
@@ -2376,3 +2524,5 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of commencement|10 June 2008|
 |7.|**G. N. No. S 573/2009—Biological Agents and Toxins Act (Amendment of First and Second Schedules) Order 2009**|
 ||Date of commencement|1 December 2009|
+|8.|**G. N. No. S 541/2011—Biological Agents and Toxins Act (Amendment of First and Fifth Schedules) Order 2011**|
+||Date of commencement|1 October 2011|
