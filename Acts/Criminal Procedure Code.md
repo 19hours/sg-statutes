@@ -8885,6 +8885,8 @@ Ditto
 
 The same as for the offence
 
+The court by which the offence is triable
+
 196
 
 Corruptly using or attempting to use evidence known to be false or fabricated
@@ -8897,7 +8899,7 @@ Bailable
 
 The same as for giving or fabricating false evidence
 
-District Court
+The court by which the offence of giving or fabricating evidence is triable
 
 197
 
@@ -8967,7 +8969,7 @@ Not bailable
 
 Imprisonment for 10 years, and fine
 
-Ditto
+District Court
 
 201
 
@@ -9857,7 +9859,7 @@ Ditto
 
 Imprisonment for 5 years, and fine
 
-Ditto
+Magistrate’s Court or District Court
 
 240
 
@@ -9871,7 +9873,7 @@ Ditto
 
 Imprisonment for 7 years, and fine
 
-Ditto
+District Court
 
 241
 
@@ -9899,7 +9901,7 @@ Ditto
 
 Imprisonment for 5 years, or fine, or both
 
-District Court
+Magistrate’s Court or District Court
 
 242
 
@@ -9927,7 +9929,7 @@ Ditto
 
 Imprisonment for 5 years, and fine
 
-District Court
+Magistrate’s Court or District Court
 
 246
 
@@ -10067,7 +10069,7 @@ Ditto
 
 Imprisonment for 5 years, or fine, or both
 
-District Court
+Magistrate’s Court or District Court
 
 255
 
@@ -10081,7 +10083,7 @@ Bailable
 
 Imprisonment for 10 years, and fine
 
-Ditto
+District Court
 
 256
 
@@ -10764,6 +10766,8 @@ Ditto
 
 Imprisonment for 10 years, or fine, or caning, or any combination of such punishments
 
+District Court
+
 304A(a)
 
 Causing death by rash act
@@ -10960,6 +10964,8 @@ Ditto
 
 Imprisonment for 10 years, and fine
 
+District Court
+
 314
 
 If act done without woman’s consent
@@ -10984,6 +10990,8 @@ Ditto
 
 Imprisonment for 10 years, or fine, or both
 
+District Court
+
 316
 
 Causing death of a quick unborn child by an act amounting to culpable homicide
@@ -10995,6 +11003,8 @@ Ditto
 Ditto
 
 Imprisonment for 10 years, and fine
+
+District Court
 
 317
 
@@ -11640,6 +11650,8 @@ Ditto
 
 Ditto
 
+District Court
+
 367
 
 Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.
@@ -11651,6 +11663,8 @@ Ditto
 Ditto
 
 Ditto
+
+District Court
 
 368
 
@@ -11706,6 +11720,8 @@ Not bailable
 
 Imprisonment for life, or imprisonment for 10 years, and fine
 
+District Court
+
 372
 
 Selling or letting to hire a minor for purposes of prostitution, etc.
@@ -11717,6 +11733,8 @@ Ditto
 Ditto
 
 Imprisonment for 10 years, and fine
+
+District Court
 
 373
 
@@ -11730,6 +11748,8 @@ Ditto
 
 Ditto
 
+District Court
+
 373A
 
 Importing woman by fraud with intent, etc.
@@ -11741,6 +11761,8 @@ Ditto
 Ditto
 
 Ditto
+
+District Court
 
 374
 
@@ -11980,7 +12002,7 @@ Ditto
 
 Imprisonment for 5 years
 
-Ditto
+Magistrate’s Court or District Court
 
 376G(4)
 
@@ -11994,7 +12016,7 @@ Ditto
 
 Imprisonment for 14 years
 
-Ditto
+District Court
 
 376G(5)
 
@@ -12008,7 +12030,7 @@ Ditto
 
 Imprisonment for 5 years
 
-District Court
+Magistrate’s Court or District Court
 
 377(2)
 
@@ -12159,6 +12181,8 @@ Ditto
 Ditto
 
 Imprisonment for 10 years, and caning
+
+District Court
 
 Extortion
 
@@ -12910,7 +12934,7 @@ Ditto
 
 Imprisonment for 5 years, and fine
 
-Ditto
+Magistrate’s Court or District Court
 
 Criminal trespass
 
@@ -12965,6 +12989,8 @@ Ditto
 Ditto
 
 Imprisonment for 10 years, and fine
+
+District Court
 
 451
 
@@ -13754,6 +13780,8 @@ Ditto
 Ditto
 
 According to sections 7, 8 and 9 of this Code
+
+[S 664/2011 wef 20/12/2011]
 
 SECOND SCHEDULE
 
