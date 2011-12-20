@@ -3345,6 +3345,58 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 [This section is amended by section 7 of the Income Tax (Amendment) Act 2017 (Act 39 of 2017) wef 22/02/2010]
 
+### Exemption of certain dividends
+
+13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, the following provisions of this section shall have effect.
+
+[1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
+
+(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+
+[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
+
+(3) Where the account is in credit at the date on which any dividends are paid by the company out of the net amount of the income credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+
+[15/83]
+
+(4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+
+(4A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+[37/2002]
+
+(5) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
+
+[1/90]
+
+(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
+
+[37/2002]
+
+(6A) Notwithstanding subsections (4) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+[21/2003]
+
+(7) A company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+
+(8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
+
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder; or
+
+(b) any dividend which has been exempted from tax in the hands of any shareholder,
+
+ought not to have been so taxed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
+
+(i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
+
+(ii) direct the company to debit the account with such amount as the circumstances require.
+
+[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 11/94; 1/98; 31/98; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
+
+(9) This section shall not, in relation to any income of an insurance company which is subject to the concessionary rate of tax prescribed by regulations made under section 43C, apply to such part of the income ascertained under section 26(7) as is apportioned to the policyholders of the company in accordance with those regulations.
+
+[28/92]
+
 ### Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore
 
 13C\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of the trustee of any prescribed trust fund arising from funds managed in Singapore by any fund manager.
@@ -4349,9 +4401,13 @@ then the individual may, at any time at or before filing with the Comptroller a 
 
 (b) B — A if A < B,
 
-where A is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
+where A
 
-B is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
+is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
+
+B
+
+is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
 
 “relevant employment income”, in relation to an NOR individual, means —
 
@@ -5120,38 +5176,6 @@ whichever is the earlier;
 “real estate investment trusts” has the same meaning as in section 43(10);
 
 “trust fund” does not include any trust that is a pension or provident fund approved by the Comptroller under section 5, approved CPF unit trust, designated unit trust and real estate investment trust.
-
-### Exemption of certain income of prescribed sovereign fund entity and approved foreign government-owned entity
-
-13Y\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of —
-
-(a) a prescribed sovereign fund entity arising from its funds that are managed in Singapore by an approved foreign government-owned entity; and
-
-(b) an approved foreign government-owned entity arising from its funds that are managed in Singapore, and from managing in Singapore the funds of, or providing in Singapore any investment advisory service to, a prescribed sovereign fund entity.
-
-[22/2011 wef 01/04/2010]
-
-(2) The Minister or such person as he may appoint may, at any time between 1st April 2010 and 31st March 2015 (both dates inclusive), approve a foreign government-owned entity for the purpose of subsection (1).
-
-(3) Regulations made under subsection (1) may —
-
-(a) provide for the period of each approval, and that the conditions to which any approval is subject may be stated in the letter of approval issued to the foreign government-owned entity;
-
-[22/2011 wef 01/04/2010]
-
-(b) provide for the determination of the amount of income of a prescribed sovereign fund entity or an approved foreign government-owned entity that is exempt from tax;
-
-(c) provide for the deduction of expenses, allowances, losses and donations of a prescribed sovereign fund entity or an approved foreign government-owned entity otherwise than in accordance with this Act; and
-
-(d) make provision generally for giving full effect to or for carrying out the purposes of this section.
-
-(4) In this section —
-
-“foreign government-owned entity” means an entity wholly and beneficially owned, whether directly or indirectly, by the government of a foreign country and whose principal activity is to manage its own funds or the funds of a prescribed sovereign fund entity;
-
-“prescribed sovereign fund entity” means a sovereign fund entity that satisfies such conditions as may be prescribed;
-
-“sovereign fund entity” means the government of a foreign country or an entity wholly and beneficially owned by such government, whose funds (which may include the reserves of that government and any pension or provident fund of that country) are managed by an approved foreign government-owned entity.
 
 ## PART V
 
@@ -19707,6 +19731,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 September 2011 (Section 16(a))|
+|280.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|20 December 2011 (Sections 2, 5, 6(g), 12, 30(j), (k), 32(a), 36(1), 39,42, 43, 45, 46, 47, 50, 51, 52, 55 to 60, 62 to 68(b), 72)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
