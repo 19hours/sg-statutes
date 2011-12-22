@@ -5246,7 +5246,11 @@ Hylidae (Tree frogs)
 
 Agalychnis
 
-spp\. 
+spp\. 10
+
+10
+
+The following species are the only ones considered to be included in Appendix II:Agalychnis annae,Agalychnis callidryas,Agalychnis moreletii,Agalychnis saltatorandAgalychnis spurrelli.
 
 E
 
@@ -6522,6 +6526,857 @@ Dionaea muscipula
 
 #4
 
+XXA 
+
+EBENACEAE (Ebonies)
+
+1.
+
+Diospyros aculeata
+
+#5(Includes the var.meridionalis)
+
+(Madagascar)
+
+2.
+
+Diospyros analamerensis
+
+#5
+
+(Madagascar)
+
+3.
+
+Diospyros anosivolensis
+
+#5
+
+(Madagascar)
+
+4.
+
+Diospyros baroniana
+
+#5
+
+(Madagascar)
+
+5.
+
+Diospyros bemarivensis
+
+#5
+
+(Madagascar)
+
+6.
+
+Diospyros bernieri
+
+#5
+
+(Madagascar)
+
+7.
+
+Diospyros bernieriana
+
+#5
+
+(Madagascar)
+
+8.
+
+Diospyros bezofensis
+
+#5
+
+(Madagascar)
+
+9.
+
+Diospyros boinensis
+
+#5
+
+(Madagascar)
+
+10.
+
+Diospyros boivinii
+
+#5
+
+(Includes the var.manongarivensis)
+
+(Madagascar)
+
+11.
+
+Diospyros calophylla
+
+#5
+
+(Madagascar)
+
+12.
+
+Diospyros caucheana
+
+#5
+
+(Madagascar)
+
+13.
+
+Diospyros
+
+
+cinnamomoides#5
+
+(Madagascar)
+
+14.
+
+Diospyros clusiifolia
+
+#5
+
+(Madagascar)
+
+15.
+
+Diospyros conifera
+
+#5
+
+(Madagascar)
+
+16.
+
+Diospyros coursiana
+
+#5
+
+(Madagascar)
+
+17.
+
+Diospyros crassiflorides
+
+#5
+
+(Diospyros crassiflora)
+
+(Madagascar)
+
+18.
+
+Diospyros cupulifera
+
+#5
+
+(Madagascar)
+
+19.
+
+Diospyros danguyana
+
+#5
+
+(Madagascar)
+
+20.
+
+Diospyros decaryana
+
+#5
+
+(Madagascar)
+
+21.
+
+Diospyros dycorypheoides
+
+#5
+
+(Includes the var.meridionalis)
+
+(Madagascar)
+
+22.
+
+Diospyros ebenifera
+
+#5
+
+(Madagascar)
+
+23.
+
+Diospyros enervis
+
+#5
+
+(Madagascar)
+
+24.
+
+Diospyros erinacea
+
+#5
+
+(Madagascar)
+
+25.
+
+Diospyros erythrosperma
+
+#5
+
+(Madagascar)
+
+26.
+
+Diospyros filipes
+
+#5
+
+(Madagascar)
+
+27.
+
+Diospyros fuscovelutina
+
+#5
+
+(Madagascar)
+
+28.
+
+Diospyros geayana
+
+#5
+
+(Madagascar)
+
+29.
+
+Diospyros gneissicola
+
+#5
+
+(Madagascar)
+
+30.
+
+Diospyros gracilipes
+
+#5(Includes the varslecomtei,parvifolia,velutipesandsubenervis)
+
+(Madagascar)
+
+31.
+
+Diospyros greveana
+
+#5(Includes the var.boinensis)
+
+(Madagascar)
+
+32.
+
+Diospyros haplostylis
+
+#5(Includes the var.hildebrandtii)
+
+(Madagascar)
+
+33.
+
+Diospyros hazomainty
+
+#5
+
+(Madagascar)
+
+34.
+
+Diospyros hemiteles
+
+#5
+
+(Madagascar)
+
+35.
+
+Diospyros heterosepala
+
+#5
+
+(Madagascar)
+
+36.
+
+Diospyros humbertiana
+
+#5
+
+(Madagascar)
+
+37.
+
+Diospyros humbertii
+
+#5
+
+(Madagascar)
+
+38.
+
+Diospyros implexicalyx
+
+#5
+
+(Madagascar)
+
+39.
+
+Diospyros ketsensis
+
+#5
+
+(Madagascar)
+
+40.
+
+Diospyros laevis
+
+#5
+
+(Madagascar)
+
+41.
+
+Diospyros lamiana
+
+#5
+
+(Madagascar)
+
+42.
+
+Diospyros lanceolata
+
+#5
+
+(Madagascar)
+
+43.
+
+Diospyros latispathulata
+
+#5
+
+(Madagascar)
+
+44.
+
+Diospyros lenticellata
+
+#5
+
+(Madagascar)
+
+45.
+
+Diospyros leucomelas
+
+#5
+
+(Madagascar)
+
+46.
+
+Diospyros leucocalyx
+
+#5
+
+(Madagascar)
+
+47.
+
+Diospyros lokohensis
+
+#5
+
+(Madagascar)
+
+48.
+
+Diospyros louveli
+
+#5
+
+(Madagascar)
+
+49.
+
+Diospyros madagascariensis
+
+#5
+
+(Madagascar)
+
+50.
+
+Diospyros madecassa
+
+#5
+
+(Madagascar)
+
+51.
+
+Diospyros magnifolia
+
+#5
+
+(Madagascar)
+
+52.
+
+Diospyros manampetsae
+
+#5
+
+(Madagascar)
+
+53.
+
+Diospyros mangabensis
+
+#5
+
+(Madagascar)
+
+54.
+
+Diospyros mangorensis
+
+#5
+
+(Madagascar)
+
+55.
+
+Diospyros mapingo
+
+#5
+
+(Madagascar)
+
+56.
+
+Diospyros masoalensis
+
+#5
+
+(Madagascar)
+
+57.
+
+Diospyros mcphersonii
+
+#5
+
+(Madagascar)
+
+58.
+
+Diospyros meeusiana
+
+#5
+
+(Madagascar)
+
+59.
+
+Diospyros microrhombus
+
+#5
+
+(Madagascar)
+
+60.
+
+Diospyros montigena
+
+#5(Madagascar)
+
+61.
+
+Diospyros myriophylla
+
+#5
+
+(Madagascar)
+
+62.
+
+Diospyros myrtifolia
+
+#5
+
+(Madagascar)
+
+63.
+
+Diospyros myrtilloides
+
+#5
+
+(Madagascar)
+
+64.
+
+Diospyros natalensis
+
+#5
+
+(Madagascar)
+
+65.
+
+Diospyros neraudii
+
+#5
+
+(Madagascar)
+
+66.
+
+Diospyros nigricans
+
+#5
+
+(Madagascar)
+
+67.
+
+Diospyros nodosa
+
+#5
+
+(Madagascar)
+
+68.
+
+Diospyros obducta
+
+#5
+
+(Madagascar)
+
+69.
+
+Diospyros occlusa
+
+#5
+
+(Madagascar)
+
+70.
+
+Diospyros olacinoides
+
+#5
+
+(Madagascar)
+
+71.
+
+Diospyros onivensis
+
+#5
+
+(Madagascar)
+
+72.
+
+Diospyros parifolia
+
+#5
+
+(Madagascar)
+
+73.
+
+Diospyros parvifolia
+
+#5
+
+(Madagascar)
+
+74.
+
+Diospyros perreticulata
+
+#5
+
+(Madagascar)
+
+75.
+
+Diospyros perrieri
+
+#5
+
+(Madagascar)
+
+76.
+
+Diospyros pervillei
+
+#5
+
+(Madagascar)
+
+77.
+
+Diospyros platycalyx
+
+#5
+
+(Madagascar)
+
+78.
+
+Diospyros pruinosa
+
+#5
+
+(Madagascar)
+
+79.
+
+Diospyros quartzitarium
+
+#5
+
+(Madagascar)
+
+80.
+
+Diospyros quercina
+
+#5
+
+(Madagascar)
+
+81.
+
+Diospyros revaughanii
+
+#5
+
+(Madagascar)
+
+82.
+
+Diospyros rubrolanata
+
+#5
+
+(Madagascar)
+
+83.
+
+Diospyros sakalavarum
+
+#5
+
+(Includes the var.mollifolia)
+
+(Madagascar)
+
+84.
+
+Diospyros sclerophylla
+
+#5
+
+(Madagascar)
+
+85.
+
+Diospyros seychellarum
+
+#5
+
+(Madagascar)
+
+86.
+
+Diospyros sphaerosepala
+
+#5
+
+(Includes the var.calyculata)
+
+(Madagascar)
+
+87.
+
+Diospyros stenocarpa
+
+#5
+
+(Madagascar)
+
+88.
+
+Diospyros striicalyx
+
+#5
+
+(Madagascar)
+
+89.
+
+Diospyros subacuta
+
+#5
+
+(Madagascar)
+
+90.
+
+Diospyros subenervis
+
+#5
+
+(Madagascar)
+
+91.
+
+Diospyros subfalciformis
+
+#5
+
+(Madagascar)
+
+92.
+
+Diospyros subsessifolia
+
+#5
+
+(Madagascar)
+
+93.
+
+Diospyros subtrinervis
+
+#5
+
+(Madagascar)
+
+94.
+
+Diospyros tampinensis
+
+#5
+
+(Madagascar)
+
+95.
+
+Diospyros tetraceros
+
+#5
+
+(Madagascar)
+
+96.
+
+Diospyros tetrapoda
+
+#5
+
+(Madagascar)
+
+97.
+
+Diospyros torquata
+
+#5
+
+(Includes the var.mabaoides)
+
+(Madagascar)
+
+98.
+
+Diospyros toxicaria
+
+#5
+
+(Madagascar)
+
+99.
+
+Diospyros tropophylla
+
+#5
+
+(Madagascar)
+
+100.
+
+Diospyros urschii
+
+#5
+
+(Madagascar)
+
+101.
+
+Diospyros velutipes
+
+#5
+
+(Madagascar)
+
+102.
+
+Diospyros vera
+
+#5
+
+(Madagascar)
+
+103.
+
+Diospyros vescoi
+
+#5
+
+(Includes the var.mandrarensis)
+
+(Madagascar)
+
+104.
+
+Diospyros viguieriana
+
+#5
+
+(Madagascar)
+
+#5 Logs, sawn wood and veneer sheets.
+
 XXI 
 
 EUPHORBIACEAE (Spurges)
@@ -6676,51 +7531,143 @@ Caesalpinia echinata
 
 #10
 
-#10Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
-
 2.
 
-Dalbergia nigra
+Dalbergia darienensis
+
+#2
+
+[population of Panama (Panama)]
 
 3.
 
-Dalbergia retusa
+Dalbergia louvelii
 
-#5[population of Guatemala (Guatemala)]
+#5
+
+(Madagascar)
 
 4.
 
-Dalbergia stevensonii
+Dalbergia monticola
 
-#5[population of Guatemala (Guatemala)]
+#5
+
+(Madagascar)
 
 5.
+
+Dalbergia nigra
+
+6.
+
+Dalbergia normandii
+
+#5
+
+(Madagascar)
+
+7.
+
+Dalbergia purpurascens
+
+#5
+
+(Madagascar)
+
+8.
+
+Dalbergia retusa
+
+[population of Guatemala
+
+(Guatemala)]#5
+
+[population of Panama
+
+(Panama)]#2
+
+9.
+
+Dalbergia stevensonii
+
+#5
+
+[population of Guatemala
+
+(Guatemala)]
+
+10.
+
+Dalbergia xerophila
+
+#5
+
+(Madagascar)
+
+11.
 
 Dipteryx panamensis
 
 (Costa Rica, Nicaragua)
 
-6.
+12.
 
 Pericopsis elata
 
 #5
 
-#5Logs, sawn wood and veneer sheets.
+13.
 
-7.
-
-Platymiscium pleiostachyum
+Platymiscium Pleiostachyum
 
 #4
 
-8.
+14.
 
 Pterocarpus santalinus
 
 #7
 
-#7Logs, wood-chips, powder and extracts.
+#10Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
+
+#2All parts and derivatives except:
+
+(a) seeds and pollen; and
+
+(b) finished products packaged and ready for retail trade.
+
+#5Logs, sawn wood and veneer sheets.
+
+#4All parts and derivatives except:
+
+(a)
+
+seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds fromBeccariophoenix madagascariensisandNeodypsis decaryiexported from Madagascar;
+
+(b)
+
+seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
+
+(c)
+
+cut flowers of artificially propagated plants;
+
+(d)
+
+fruits, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genusVanilla(Orchidaceae) and of the family Cactaceae;
+
+(e)
+
+stems, flowers, and parts and derivatives thereof, of naturalized or artificially propagated plants of the generaOpuntiasubgenusOpuntiaandSelenicereus(Cactaceae); and
+
+(f)
+
+finished products ofEuphorbia antisyphiliticapackaged and ready for retail trade.
+
+#7
+
+Logs, wood-chips, powder and extracts.
 
 XXVII 
 
@@ -7603,6 +8550,8 @@ Guaiacum spp.#2
 
 (b) finished products packaged and ready for retail trade.
 
+[S 666/2011 wef 22/12/2011]
+
 [S 214/2011 wef 27/04/2011]
 
 [S 590/2010 wef 14/10/2010]
@@ -7639,7 +8588,7 @@ This Legislative History is provided for the convenience of users of the Endange
 |||(Bill No. 29/1992 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|20 November 1992|
-|8.|**G. N. No. S344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
+|8.|**G. N. No. S 344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
 ||Date of commencement|4 November 1994|
 |9.|**G. N. No. S 49/1995—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1995**|
 ||Date of commencement|16 February 1995|
@@ -7706,6 +8655,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|2 January 2011|
 |33.|**G.N. No. S 214/2011—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2011**|
 ||Date of commencement|27 April 2011|
+|34.|**G.N. No. S 666/2011—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2011**|
+||Date of commencement|22 December 2011|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
