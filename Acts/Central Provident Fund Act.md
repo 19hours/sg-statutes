@@ -196,7 +196,7 @@
 
 - [49A Transfer of Board’s liabilities under Scheme](#Transfer-of-Board’s-liabilities-under-Scheme)
 
-- [49B Application of moneys in dissolved Dependants’ Protection Insurance Fund](#Application-of-moneys-in-dissolved-Dependants’-Protection-Insurance-Fund)
+- [49B Application of moneys in dissolved Dependants’ Protection Insurance Fund, etc.](#Application-of-moneys-in-dissolved-Dependants’-Protection-Insurance-Fund-etc)
 
 - [49C Disclosure of information](#Disclosure-of-information)
 
@@ -454,7 +454,7 @@ PRELIMINARY
 
 (2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
-(3) Where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act —
+(3) In this Act, unless the context otherwise requires, where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act —
 
 (a) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(b), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(b), may likewise be done by, or will likewise apply to, a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act with power in relation to the person for the purposes of this Act; and
 
@@ -465,6 +465,8 @@ PRELIMINARY
 [22/2010 wef 01/10/2010]
 
 [18/2009 wef 01/03/2010]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (4) The Minister may, by regulations made under all or any of sections 23, 27Q, 39, 49A, 51, 56A, 57, 57F, 75(1) and 77(1), prescribe —
 
@@ -980,49 +982,37 @@ CONTRIBUTIONS TO FUND
 
 ### Voluntary contributions
 
-13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77 —
+13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77(1) —
 
-(a) a person who is a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
+(a) any person may —
 
-(b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
+(i) if he is a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act, contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; or
 
-[30/98]
+(ii) on or after 1st January 2011, voluntarily pay to the Fund contributions for any other person (being a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act) in such manner and at such rate as the Minister may direct;
 
-(2) The amount which a person may contribute voluntarily under subsection (1) or section 7(4) shall not exceed the sum of $28,800 in any year or such other sum as the Minister may, from time to time, prescribe by notification in theGazette.
+(b) the Board shall credit every contribution received under paragraph (a)(i) or (ii) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct; and
 
-(3) For the purpose of computing the sum referred to in subsection (2) in any year —
+(c) the Minister may give different directions in respect of different classes of members.
 
-(a) the following amounts shall be included:
+(2) Notwithstanding anything in this Act but subject to any regulations made under section 77(1) —
 
-(i) the amount contributed by a person in that year which is obligatory under this Act; and
+(a) any person may, on or after 1st January 2011, voluntarily pay to the Fund contributions for any other person (being a citizen or permanent resident of Singapore in respect of whom any contribution is required to be paid under this Act, but no contribution is required to be paid under this Act by the first-mentioned person) in such manner and at such rate as the Minister may direct;
 
-[40/2007 wef 01/01/2008]
+(b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct; and
 
-[25/2008 wef 01/11/2008]
+(c) the Minister may give different directions in respect of different classes of members.
 
-(ii) subject to paragraph (b)(ii), any voluntary contribution paid by the employer of that person under section 7(4)(c) in that year; and
+(3) The aggregate of the following amounts which may be contributed by or for a person shall not, in any year, exceed such sum as the Minister may prescribe by regulations made under section 77(1):
 
-(iii) [Deleted by Act 25/2008 wef 01/11/2008]
+(a) the amount which that person may contribute voluntarily in that year under subsection (1)(a)(i);
 
-(b) the following amounts shall be excluded:
+(b) the amount which may be contributed for that person in that year under subsection (1)(a)(ii) or (2)(a); and
 
-(i) any contribution made by a person in that year under sections 73 and 79;
+(c) such other amounts which may be contributed by or for that person in that year as the Minister may prescribe by regulations made under section 77(1).
 
-[40/2007 wef 01/10/2007]
+(4) Every amount voluntarily paid to the Fund on or after 1st January 2011, but before the date of commencement of section 5 of the Central Provident Fund (Amendment) Act 2011, by a person as a contribution for any other person (being a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act, or being a citizen or permanent resident of Singapore in respect of whom any contribution is required to be paid under this Act, but no contribution is required to be paid under this Act by the first-mentioned person) shall be deemed to be and always to have been validly paid, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such payment.
 
-(ia) [Deleted by Act 25/2008 wef 01/11/2008]
-
-(ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500; and
-
-[40/2007 wef 01/10/2007]
-
-(iii) any contribution made in that year by that person or any other person under section 27B, 27C, 27D, 27E or 27F or under any regulations referred to in section 27G or 27H.
-
-[31/2003 wef 01/01/2004]
-
-(4) [Deleted by Act 25/2008 wef 01/11/2008]
-
-(5) [Deleted by Act 25/2008 wef 01/11/2008]
+[Act 20 of 2011 wef 30/12/2011]
 
 ### Payment of cash grant by Government into Fund
 
@@ -1136,11 +1126,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [18/2009 wef 01/03/2010]
 
-(2A) A member of the Fund who is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
+(2A) Where a member of the Fund is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
 
-(a) set aside or top-up in his retirement account such amount as the Minister may specify; and
+(a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
 
-(b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund; and
+
+(b) the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (2B) The amount referred to in subsection (2A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -1162,15 +1162,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (c) any sum transferred or paid, or to be transferred or paid, to another person under section 27B.
 
-(6) Subject to subsections (6A), (8) and (8A), a member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund shall, at the time of withdrawal and in accordance with any regulations made under this Act —
+(6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
 
-(a) set aside or top-up a prescribed sum (referred to in this Act as the minimum sum); and
+(a) a prescribed sum (referred to in this Act as the minimum sum) shall be set aside or topped-up —
 
-(b) unless the Board otherwise allows, set aside or top-up in his medisave account a sum of up to $2,500 or such other amount as may be specified under subsection (6D) in respect of any class of persons.
+(i) by the member; or
 
-[31/2003 wef 01/01/2004]
+(ii) from the sum standing to the member’s credit in the Fund; and
 
-[15/2006 wef 01/07/2006]
+(b) unless the Board otherwise allows, such amount as may be specified under subsection (6D) shall be set aside or topped-up in the member’s medisave account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund after deducting any sum standing to the member’s credit in his retirement account.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on their joint application, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
 
@@ -1192,7 +1198,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
-(6C) The minimum sum set aside or topped-up by a member shall be utilised as follows:
+(6C) The minimum sum shall be utilised as follows:
 
 (a) such amount (if any) as the Board may determine shall be deposited in the member’s retirement account for the payment of a premium referred to in section 27L(1) or (1A); and
 
@@ -1212,13 +1218,17 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [18/2009 wef 01/09/2009]
 
+[Act 20 of 2011 wef 30/12/2011]
+
 (6CA) For the purposes of subsections (6)(a) and (6C), where a member becomes entitled under subsection (2)(a) to withdraw the sum standing to his credit in the Fund, the Board shall, if required by any regulations made under section 77(1), transfer from that sum to his retirement account, towards the maintenance of the minimum sum, such amount as may be prescribed in those regulations.
 
 (6D) The Minister may, by order published in theGazette—
 
-(a) substitute the amount of $2,500 in subsection (6)(b) with such other amount as he thinks fit; and
+(a) specify such amount as he thinks fit for the purposes of subsection (6)(b); and
 
-(b) specify any other amount as he thinks fit in respect of any class of persons for the purposes of subsection (6)(b).
+(b) specify different amounts in respect of different classes of members.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
 
@@ -1238,17 +1248,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (e) is receiving any pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
 
-(7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
+(7B) Where a member of the Fund is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
 
-(a) set aside or top-up in his retirement account such amount as the Minister may specify; and
+(a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
 
-(b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
+(i) by the member; or
 
-[15/2006 wef 01/07/2006]
+(ii) from the sum standing to the member’s credit in the Fund; and
 
-[18/2009 wef 01/09/2009]
+(b) the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
 
-[22/2010 wef 01/10/2010]
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (7C) The amount referred to in subsection (7B)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -1274,15 +1288,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [18/2009 wef 01/09/2009]
 
-(8A) A member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and who, under subsection (8)(a), (b) or (c), need not comply with subsection (6)(a) shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
+(8A) Where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and, under subsection (8)(a), (b) or (c), need not comply with subsection (6)(a), at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
 
-(a) set aside or top-up in his retirement account such amount as the Minister may specify; and
+(a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
 
-(b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
+(i) by the member; or
 
-[15/2006 wef 01/07/2006]
+(ii) from the sum standing to the member’s credit in the Fund; and
 
-[18/2009 wef 01/09/2009]
+(b) the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -1326,11 +1346,13 @@ if the member and the related person or persons, as the case may be, agree to th
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6C) in the event the property is sold or otherwise disposed of.
+if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside for any of the purposes mentioned in subsection (6C) in the event the property is sold or otherwise disposed of.
 
 [18/2009 wef 01/09/2009]
 
 [5/87]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
@@ -1340,11 +1362,13 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 (b) to surrender his approved annuity,
 
-if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6C) in the event the property is sold or otherwise disposed of.
+if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside for any of the purposes mentioned in subsection (6C) in the event the property is sold or otherwise disposed of.
 
 [18/2009 wef 01/09/2009]
 
 [39/2000]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
 
@@ -1394,13 +1418,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [15/2006 wef 01/07/2006]
 
-(iv) the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7), the payment by him of a premium referred to in section 27L(1) or (1A), or both; or
+(iv) the member’s minimum sum has been exhausted on account of withdrawals made by him under subsection (7), the payment by him of a premium referred to in section 27L(1) or (1A), or both; or
 
 [15/2006 wef 01/07/2006]
 
 [18/2009 wef 01/09/2009]
 
 [22/2010 wef 01/01/2011]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (v) the member satisfies any of the grounds for withdrawals under subsection (2)(b) or (c).
 
@@ -1452,9 +1478,11 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Setting aside additional sum
 
-15B\.—(1) A member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum that the member is required to set aside under section 15, set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
+15B\.—(1) A member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum required to be set aside under section 15(6)(a), set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
 
 [39/2000]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (2) The additional sum set aside under subsection (1) may be deposited with an approved bank or used to purchase an approved annuity from an insurer.
 
@@ -1476,11 +1504,17 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (2) Where the amount in a member’s medisave account exceeds the prescribed amount —
 
-(a) if the member is required to top-up the minimum sum under section 15(6)(a), the amount in excess of the prescribed amount (referred to in this subsection as the excess amount) shall be applied to meet any shortfall in the minimum sum, and any balance of the excess amount may be withdrawn under section 15(3) or (4);
+(a) if the member is a person in respect of whom there is a requirement to set aside or top-up the minimum sum under section 15(6)(a), the amount in excess of the prescribed amount (referred to in this subsection as the excess amount) shall be applied to meet any shortfall in the minimum sum, and any balance of the excess amount may be withdrawn under section 15(3) or (4);
 
-(b) if the member is required to set aside or top-up in his retirement account the amount referred to in section 15(2A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(d), (e) or (f);
+[Act 20 of 2011 wef 30/12/2011]
 
-(c) if the member is required to set aside or top-up in his retirement account the amount referred to in section 15(7B)(a) or (8A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(a), (3) or (4); or
+(b) if the member is a person in respect of whom there is a requirement to set aside or top-up in his retirement account the amount referred to in section 15(2A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(d), (e) or (f);
+
+[Act 20 of 2011 wef 30/12/2011]
+
+(c) if the member is a person in respect of whom there is a requirement to set aside or top-up in his retirement account the amount referred to in section 15(7B)(a) or (8A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(a), (3) or (4); or
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (d) in any other case, the excess amount may be withdrawn under section 15(2)(a) or (g), (3) or (4).
 
@@ -1588,7 +1622,7 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 ### Transfer of member’s moneys in ordinary account to special account
 
-18B\.—(1) Subject to subsection (2), a member who has less than the prescribed amount standing to his credit in his special account may apply to the Board to transfer to his special account a sum standing to his credit in his ordinary account, being a sum not exceeding the difference between —
+18B\.—(1) The Board may, on the application of a member who has less than the prescribed amount standing to his credit in his special account and subject to such terms and conditions as the Board may impose, transfer to his special account a sum standing to his credit in his ordinary account, being a sum not exceeding the difference between —
 
 (a) the prescribed amount; and
 
@@ -1598,9 +1632,9 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (ii) any amount withdrawn from his special account for the making of investments under any scheme in accordance with any regulations made under section 77(1)(n).
 
-(2) An application by a member to transfer the sum standing to his credit in his ordinary account to his special account under subsection (1) shall be irrevocable and the transfer shall be subject to such terms and conditions as the Board may determine.
+[Act 20 of 2011 wef 30/12/2011]
 
-[30/98]
+(2) [Deleted by Act 20 of 2011 wef 30/12/2011].
 
 (3) In this section, “prescribed amount” means —
 
@@ -1614,9 +1648,11 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 ### Transfer of member’s moneys in ordinary or special account to medisave account
 
-18C\.—(1) Subject to subsection (2), a member who has less than the requisite amount standing to his credit in his medisave account may apply to the Board to transfer any sum standing to his credit in his ordinary or special account, or in both accounts, to his medisave account.
+18C\.—(1) The Board may, on the application of a member who has less than the requisite amount standing to his credit in his medisave account and subject to such terms and conditions as the Board may impose, transfer to his medisave account a sum standing to his credit in his ordinary account or special account, or in both accounts.
 
-(2) An application by a member to transfer any sum standing to his credit in his ordinary or special account, or in both accounts, under subsection (1) shall be irrevocable and any transfer shall be subject to such terms and conditions as the Board may determine.
+[Act 20 of 2011 wef 30/12/2011]
+
+(2) [Deleted by Act 20 of 2011 wef 30/12/2012].
 
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
@@ -2562,7 +2598,9 @@ is less than the amount awarded under the order of court, the Board shall transf
 
 (b) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6);
 
-(c) the amounts which the member is required to set aside under sections 15 and 16; and
+(c) the amounts required to be set aside by the member, or from the amount standing to the credit of the member in the Fund, under sections 15 and 16; and
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (d) any amount which the member may be required to set aside under any condition referred to in section 27(2)(b) or (3),
 
@@ -2608,7 +2646,9 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
 
-(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the minimum sum which the member is required to set aside;
+(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s minimum sum;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (c) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
 
@@ -2616,9 +2656,13 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 then, subject to any regulations made under section 77(1), the following provisions shall apply:
 
-(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the minimum sum which the member is required to set aside, that person shall pay to the Board that amount;
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s minimum sum, that person shall pay to the Board that amount;
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the minimum sum which the member is required to set aside;
+[Act 20 of 2011 wef 30/12/2011]
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (iii) if —
 
@@ -2628,23 +2672,33 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (BA) the spouse has not attained the age of 55 years; or
 
-(BB) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+(BB) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
+
+[Act 20 of 2011 wef 30/12/2011]
 
 the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
 (iv) notwithstanding section 15(15)(e), upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable —
 
-(A) the charge referred to in paragraph (b) shall cease to secure the payment to the Board of the minimum sum which the member is required to set aside; and
+(A) the charge referred to in paragraph (b) shall cease to secure the payment to the Board of the member’s minimum sum; and
 
-(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the payment to the Board of the minimum sum which the member is required to set aside;
+[Act 20 of 2011 wef 30/12/2011]
+
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the payment to the Board of the member’s minimum sum;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (v) if, at the time of the transfer of the member’s estate or interest in the immovable property to the spouse —
 
 (A) the spouse has not attained the age of 55 years; or
 
-(B) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+(B) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
 
-there shall be a charge on the spouse’s estate or interest in the immovable property to secure the payment referred to in paragraph (iii), such charge to subsist only until such time as the spouse has set aside the minimum sum which the spouse is required to set aside;
+[Act 20 of 2011 wef 30/12/2011]
+
+there shall be a charge on the spouse’s estate or interest in the immovable property to secure the payment referred to in paragraph (iii), such charge to subsist only until such time as the spouse’s minimum sum has been set aside;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (vi) sections 15(15)(b) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v), and for the purposes of such application —
 
@@ -2666,17 +2720,21 @@ there shall be a charge on the spouse’s estate or interest in the immovable pr
 
 (a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
 
-(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the minimum sum which the member is required to set aside; and
+(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s minimum sum; and
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (c) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
 
 the charge shall continue in force until —
 
-(i) an amount sufficient to cover the deficiency in the minimum sum which the member is required to set aside —
+(i) an amount sufficient to cover the deficiency in the member’s minimum sum —
 
 (A) has been paid to the Board; or
 
 (B) is no longer required by any regulations made under section 77(1) to be paid to the Board; or
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
 
@@ -2690,7 +2748,9 @@ in which event the member, the person referred to in paragraph (c) or any other 
 
 (b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
 
-(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside in the event the immovable property is sold or otherwise disposed of;
+(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the immovable property is sold or otherwise disposed of;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (d) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
 
@@ -2698,9 +2758,13 @@ in which event the member, the person referred to in paragraph (c) or any other 
 
 then, subject to any regulations made under section 77(1), the following provisions shall apply:
 
-(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the minimum sum which the member is required to set aside, that person shall pay to the Board that amount;
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the members minimum sum, that person shall pay to the Board that amount;
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the minimum sum which the member is required to set aside;
+[Act 20 of 2011 wef 30/12/2011]
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (iii) if —
 
@@ -2710,17 +2774,23 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (BA) the spouse has not attained the age of 55 years; or
 
-(BB) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+(BB) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
+
+[Act 20 of 2011 wef 30/12/2011]
 
 the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
-(iv) upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable, the Board shall not enforce the undertaking under section 15(10) or (10A) against any person who has given that undertaking, in so far as it secures the refund to the Board of the minimum sum or part thereof which the member is required to set aside;
+(iv) upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable, the Board shall not enforce the undertaking under section 15(10) or (10A) against any person who has given that undertaking, in so far as it secures the refund to the Board of the member’s minimum sum or part thereof which is required to be set aside;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (v) if, at the time of the transfer of the member’s estate or interest in the immovable property to the spouse —
 
 (A) the spouse has not attained the age of 55 years; or
 
-(B) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+(B) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
+
+[Act 20 of 2011 wef 30/12/2011]
 
 the spouse shall give an undertaking to pay to the Board, in the event the property is sold or otherwise disposed of, the amount referred to in paragraph (iii);
 
@@ -2732,11 +2802,13 @@ the spouse shall give an undertaking to pay to the Board, in the event the prope
 
 (C) the spouse has complied with the requirements of section 15(2A), (6), (7B) or (8A);
 
-(D) the minimum sum set aside by the spouse under section 15(6) has been exhausted on account of withdrawals made by the spouse under section 15(7), the payment by the spouse of a premium referred to in section 27L(1) or (1A), or both; or
+(D) the spouse’s minimum sum has been exhausted on account of withdrawals made by the spouse under section 15(7), the payment by the spouse of a premium referred to in section 27L(1) or (1A), or both; or
 
 [18/2009 wef 01/09/2009]
 
 [22/2010 wef 01/01/2011]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (E) the spouse satisfies any of the grounds for withdrawals under section 15(2)(b) or (c); and
 
@@ -2754,11 +2826,13 @@ the spouse shall give an undertaking to pay to the Board, in the event the prope
 
 (b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
 
-(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside in the event the immovable property is sold or otherwise disposed of; and
+(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the immovable property is sold or otherwise disposed of; and
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (d) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
 
-the Board shall be entitled to enforce that undertaking against every person who has given that undertaking, in so far as it secures the refund to the Board of the minimum sum or part thereof which the member is required to set aside, until —
+the Board shall be entitled to enforce that undertaking against every person who has given that undertaking, in so far as it secures the refund to the Board of the member’s minimum sum or part thereof which is required to be set aside, until —
 
 (i) the minimum sum or part thereof which the member is required to set aside —
 
@@ -2766,9 +2840,13 @@ the Board shall be entitled to enforce that undertaking against every person who
 
 (B) is no longer required by any regulations made under section 77(1) to be refunded to the Board; or
 
+[Act 20 of 2011 wef 30/12/2011]
+
 (ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
 
 in which event the Board shall not enforce that undertaking.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (3) In this section, “Lease Buyback Scheme” has the same meaning as in section 15(16).
 
@@ -2952,7 +3030,7 @@ then, subject to subsection (2) and any regulations made under section 77(1), th
 
 ### Order of court for sale of investments
 
-27H\.—(1) Where —
+27H\. Where —
 
 (a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
 
@@ -3200,6 +3278,10 @@ LIFELONG INCOME SCHEME
 
 (e) provide for the manner by which the Board will pay a relevant member his monthly income under section 27K(6) or any amount to be refunded to him;
 
+(ea) without prejudice to the generality of paragraph (e), provide for the Board to pay a relevant member’s monthly income under section 27K(6), or any amount to be refunded to a relevant member, into the relevant member’s account in the Fund, and for the circumstances in which payment will be made to a relevant member in this manner;
+
+[Act 20 of 2011 wef 30/12/2011]
+
 (f) provide for the manner by which a relevant member is to satisfy the Board that he is alive;
 
 (g) provide for the withdrawal of any amount paid into a relevant member’s account in the Fund under section 27L(5)(a);
@@ -3320,17 +3402,23 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Medical condition of member of Scheme
 
-31\.—(1) No person shall be entitled to join the Scheme unless the Board is satisfied that he is in good health at the time he joins the Scheme.
+31\.—(1) Subject to subsection (2), no person shall be entitled to join the Scheme unless the Board is satisfied that he is in good health at the time he joins the Scheme.
 
 [30/87]
 
-(2) For the purposes of determining whether a person is fit to join the Scheme, the Board may require that person to undergo such medical examination as the Board thinks fit.
+[Act 20 of 2011 wef 30/12/2011]
 
-[30/87]
+(2) The Board may, on the application of a person who is not entitled to join the Scheme solely by reason that the Board is not satisfied that the person is in good health, and subject to such terms and conditions as the Board may impose either generally or in a particular case, permit the person to join the Scheme.
 
-(3) Any person who joins the Scheme shall disclose to the Board such facts or information concerning his health as the Board may require.
+[Act 20 of 2011 wef 30/12/2011]
 
-[30/87]
+(3) A member of the Scheme or person who wishes to join the Scheme shall —
+
+(a) if required by the Board, undergo such medical examination as the Board thinks fit; and
+
+(b) disclose to the Board such facts or information concerning his health as the Board may require.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 ### Premium
 
@@ -3358,9 +3446,15 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Establishment of Home Protection Fund
 
-33\.—(1) The Board shall establish and maintain a fund to be known as the Home Protection Fund into which shall be paid all premiums collected under this Part and out of which shall be met all payments to be paid by it under the Scheme.
+33\.—(1) The Board shall establish and maintain a fund to be known as the Home Protection Fund into which shall be paid all premiums collected under this Part and out of which shall be met all payments to be paid by the Board under the Scheme (including any costs and expenses incurred by the Board in establishing and maintaining the Scheme).
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (2) The Home Protection Fund shall be controlled and administered by the Board.
+
+(3) Every amount paid by the Board out of the Home Protection Fund before the date of commencement of section 21 of the Central Provident Fund (Amendment) Act 2011 to defray the costs and expenses incurred by the Board in establishing and maintaining the Scheme shall be deemed to be and always to have been validly paid, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such payment.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 Premium when due
 
@@ -3464,9 +3558,17 @@ is the total amount paid by the Board to the Housing Authority or the approved m
 
 (c) provide for the period and commencement of cover under the Scheme;
 
-(d) provide for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
+(ca) provide, in respect of each class of members of the Scheme, for the amount of money for which a member of the Scheme may be insured under the Scheme;
 
-(e) provide for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
+[Act 20 of 2011 wef 30/12/2011]
+
+(d) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
+
+[Act 20 of 2011 wef 30/12/2011]
+
+(e) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (f) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
@@ -3646,13 +3748,23 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (b) the terms and conditions subject to which the appointed insurer may issue insurance cover to the person.
 
-### Application of moneys in dissolved Dependants’ Protection Insurance Fund
+### Application of moneys in dissolved Dependants’ Protection Insurance Fund, etc.
 
-49B\. Upon the dissolution of the Dependants’ Protection Insurance Fund (referred to in this section as the dissolved Fund), the Board may —
+49B\.—(1) Upon the dissolution of the Dependants’ Protection Insurance Fund (referred to in this section as the dissolved Fund), the Board may —
 
 (a) subject to such terms or conditions as it thinks fit to impose, pay such part of the moneys of the dissolved Fund as the Board may determine to each of the appointed insurers to which the Board’s liabilities under the Scheme has been transferred under section 49A; and
 
-(b) retain such part of the moneys of the dissolved Fund as it thinks necessary for meeting any of its own liabilities under the Scheme that may have arisen prior to the transfer.
+(b) retain such part of the moneys of the dissolved Fund as it thinks necessary for meeting —
+
+(i) any of its own liabilities under the Scheme that may have arisen prior to the transfer; and
+
+(ii) any costs and expenses incurred by it in maintaining the Scheme.
+
+[Act 20 of 2011 wef 30/12/2011]
+
+(2) Every amount paid by the Board out of the dissolved Fund before the dissolution of that Fund, or out of the moneys of the dissolved Fund upon or after the dissolution of that Fund but before the date of commencement of section 23 of the Central Provident Fund (Amendment) Act 2011, to defray the costs and expenses incurred by the Board in establishing and maintaining the Scheme shall be deemed to be and always to have been validly paid, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such payment.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 ### Disclosure of information
 
@@ -3762,9 +3874,11 @@ MEDISHIELD SCHEME
 
 ### Establishment of MediShield Fund
 
-56\.—(1) The Board shall establish and maintain a fund to be known as the MediShield Fund into which shall be paid all premiums collected under this Part and out of which shall be met all payments to be paid by it under the Scheme.
+56\.—(1) The Board shall establish and maintain a fund to be known as the MediShield Fund into which shall be paid all premiums collected under this Part and out of which shall be met all payments to be paid by the Board under the Scheme (including any costs and expenses incurred by the Board in establishing and maintaining the Scheme).
 
 [15/90]
+
+[Act 20 of 2011 wef 30/12/2011]
 
 (2) The MediShield Fund shall be controlled and administered by the Board.
 
@@ -3773,6 +3887,10 @@ MEDISHIELD SCHEME
 (3) The moneys in the MediShield Fund may be invested by the Board in such manner as the Board thinks fit.
 
 [15/90]
+
+(4) Every amount paid by the Board out of the MediShield Fund before the date of commencement of section 24 of the Central Provident Fund (Amendment) Act 2011 to defray the costs and expenses incurred by the Board in establishing and maintaining the Scheme shall be deemed to be and always to have been validly paid, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such payment.
+
+[Act 20 of 2011 wef 30/12/2011]
 
 ### Transfer of liabilities under Scheme
 
@@ -4354,7 +4472,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
 
-(m) [Deleted by Act 31/2003 wef 01/07/2004]
+(m) [ [Deleted by Act 31/2003 wef 01/07/2004 wef 01/07/2004 wef 01/07/2004 wef 01/07/2004 wef 01/07/2004]]
 
 (n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of making such investments as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
@@ -4366,17 +4484,17 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (na) without prejudice to the generality of paragraph (n), for the purposes of sections 26 to 26D;
 
-(o) for the purposes of sections 15(6) and 18(1) and (1A) and, in particular, to prescribe —
+(o) for the purposes of sections 15(6) and (7) and 18(1) and (1A) and, in particular, to —
 
-(i) the minimum sum referred to in section 15(6)(a), including different minimum sums for different classes of members;
+(i) prescribe the minimum sum referred to in section 15(6)(a), including different minimum sums for different classes of members;
 
-(ii) the method of computing the minimum sum; and
+(ii) prescribe the method of computing the minimum sum;
 
-(iii) the amount of the minimum sum which may be withdrawn, and the manner in which the minimum sum may be withdrawn, after a member has attained the prescribed age;
+(iii) prescribe the amount of the minimum sum which may be withdrawn, and provide for the manner in which the minimum sum may be withdrawn, after a member has attained the prescribed age; and
 
-[25/2008 wef 01/11/2008]
+(iv) without prejudice to the generality of sub paragraph (iii), provide for the Board to pay an amount of the minimum sum withdrawn by a member into the member’s account in the Fund, and for the circumstances in which payment will be made to a member in this manner;
 
-[40/2007 wef 01/10/2007]
+[Act 20 of 2011 wef 30/12/2011]
 
 (oa) for the purposes of section 18(3) and (7) and, in particular, to prescribe —
 
@@ -7914,6 +8032,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 June 2011 (Section 15)|
 |178.|**G.N. No. S 508/2011—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2011**|
 ||Date of commencement|1 September 2011|
+|179.|**Act 20 of 2011—Central Provident Fund (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011 (Bill No. 17/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|21 November 2011|
+||Date of commencement|30 December 2011 (sections 2(b), 5, 6(a) and (c) to (j), 7 to 10, 16 to 24 and 25(b))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
