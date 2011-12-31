@@ -1,16 +1,14 @@
-**Estate Agents Act 2010**
+**Estate Agents Act**
 
-**(No. 25 of 2010)**
+**(CHAPTER 95A)**
 
 **Table of Contents**
 
 [**Long Title**](#Estate-Agents-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Scope of application](#Scope-of-application)
 
@@ -168,59 +166,41 @@
 
 - [72 Regulations](#Regulations)
 
-- [73 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [73 Amendment of references in written law or other documents to estate agents](#Amendment-of-references-in-written-law-or-other-documents-to-estate-agents)
 
-- [74 Amendment of references in written law or other documents to estate agents](#Amendment-of-references-in-written-law-or-other-documents-to-estate-agents)
+- [74 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-- [75 Saving and transitional provisions](#Saving-and-transitional-provisions)
+[**FIRST SCHEDULE Constitution and proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Council)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Council)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**Legislative History**](#Legislative-History)
 
-[**THIRD SCHEDULE Consequential Amendments to Other Written Laws**](#THIRD-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Estate Agents Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 95A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 25 of 2010)
 
-Published by Authority
+REVISED EDITION 2011
 
-NO. 25]
+(31st December 2011)
 
-Friday, October 8
+An Act to establish an enhanced framework for the regulation of real estate agents and their salespersons and to form a Council for Estate Agencies.
 
-[2010
+[22nd October 2010: except sections 29, 39, 41 and 44 ;
 
-The following Act was passed by Parliament on 15th September 2010 and assented to by the President on 1st October 2010:—
-
-Estate Agents Act 2010
-
-(No. 25 of 2010)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-1st October 2010.
-
-Date of Commencement: 22nd October 2010
-
-An Act to establish an enhanced framework for the regulation of real estate agents and their salespersons, to form a Council for Estate Agencies and to make consequential amendments to the Appraisers and House Agents Act (Chapter 16 of the 2000 Revised Edition) and certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+1st January 2011: sections 29, 39, 41 and 44 ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Estate Agents Act 2010 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Estate Agents Act.
 
 ### Scope of application
 
@@ -251,8 +231,6 @@ PRELIMINARY
 and any reference to the issue or publication of advertisements shall be construed accordingly;
 
 “Appeals Board” means the Appeals Board constituted under section 57;
-
-“appointed day” means the date of commencement of Part II;
 
 “body corporate” includes a limited liability partnership;
 
@@ -352,7 +330,7 @@ and any reference to the issue or publication of advertisements shall be constru
 
 (iii) he has been convicted of any offence under this Act; or
 
-(iv) he is an undischarged bankrupt or has made a composition or arrangement with his creditors;
+(iv) he is an undischarged bankrupt or has made a composition or arrangement with his creditors; and
 
 (b) a person (other than an individual) shall not be a “fit and proper person” if —
 
@@ -388,7 +366,7 @@ and any reference to the issue or publication of advertisements shall be constru
 
 (f) by any person as the vendor or purchaser, or where there is more than one vendor or purchaser, a vendor or purchaser of a property in connection with —
 
-(i) where the person is the vendor or a vendor of the property, the disposition of the property;
+(i) where the person is the vendor or a vendor of the property, the disposition of the property; or
 
 (ii) where the person is the purchaser or a purchaser of the property, the acquisition of the property;
 
@@ -580,7 +558,7 @@ shall disclose any information relating to the affairs of the Council or any oth
 
 ### Financial year
 
-17\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on the appointed day and end on 31st March of the succeeding year.
+17\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 22nd October 2010 and end on 31st March of the succeeding year.
 
 ### Annual estimates
 
@@ -874,7 +852,7 @@ DUTIES AND LIABILITY
 
 39\.—(1) An estate agent shall not appoint, associate with, employ or continue to employ as a salesperson any person who for the time being is not a registered salesperson.
 
-(2) Any person who contravenes subsection (l) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction for each salesperson appointed, associated or employed in contravention of subsection (1), as the case may be.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction for each salesperson appointed, associated or employed in contravention of subsection (1), as the case may be.
 
 ### Salesperson to act for one estate agent at any one time
 
@@ -924,7 +902,7 @@ the company shall, before the expiration of the period of 7 days (or such other 
 
 the licensed estate agent shall, before the expiration of the period of 7 days (or such other period prescribed) beginning on the date of his so becoming or ceasing to be such a member, notify the Council in a manner prescribed thereof.
 
-(5) In addition to notification of the matters contained in subsections (1), (2), (3), and (4), a notice for the purposes of any of those subsections shall contain such additional particulars (if any) as are prescribed for the time being for the purposes of this section which shall be verified in such manner as may be prescribed.
+(5) In addition to notification of the matters contained in subsections (1), (2), (3) and (4), a notice for the purposes of any of those subsections shall contain such additional particulars (if any) as are prescribed for the time being for the purposes of this section which shall be verified in such manner as may be prescribed.
 
 (6) A licensee who fails to comply with subsection (1), (2), (3), (4) or (5) shall be guilty of an offence.
 
@@ -1218,7 +1196,7 @@ SUSPENSION AND REVOCATION OF LICENCE AND REGISTRATION
 
 (4) A salesperson whose registration is suspended shall, while the suspension remains in force, be deemed to be a person who is not registered as a salesperson.
 
-(5) Any security furnished under section 33 may be forfeited to the Council in whole or part at the discretion of the Council on the suspension or revocation of a licence.
+(5) Any security furnished under section 33 may be forfeited to the Council in whole or in part at the discretion of the Council on the suspension or revocation of a licence.
 
 ## PART VII
 
@@ -1450,7 +1428,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Jurisdiction of court
 
-67\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+67\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Offences by bodies corporate, etc.
 
@@ -1484,7 +1462,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, partner, member of the committee of management, key executive officer, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity.
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity.
 
 (6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -1610,29 +1588,29 @@ whichever is the lower.
 
 (d) may provide for penalties not exceeding a fine of $25,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of $1,000 for that offence for every day or part thereof during which the offence continues after conviction.
 
-### Consequential amendments to other written laws
-
-73\. The provisions of the Acts specified in the first column of the Third Schedule are amended in the manner set out in the second column thereof.
-
 ### Amendment of references in written law or other documents to estate agents
 
-74\. Any reference to a “house agent” within the meaning of the Appraisers and House Agents Act (Cap. 16) in any written law (not mentioned in the Third Schedule) or any document shall be construed as a reference to an “estate agent” within the meaning of this Act.
+73\. Any reference to a “house agent” within the meaning of the Appraisers and House Agents Act (Cap. 16) (in force before 22nd October 2010) in any written law or any document shall be construed as a reference to an “estate agent” within the meaning of this Act.
+
+[74
 
 ### Saving and transitional provisions
 
-75\.—(1) Notwithstanding the provisions of this Act, any person who, immediately before the commencement of section 28 is the holder of a valid house agent’s licence under the Appraisers and House Agents Act shall be deemed to have applied for and be licensed as an estate agent under this Act, for the remainder of the duration of the licence issued under the Appraisers and House Agents Act.
+74\.—(1) Notwithstanding the provisions of this Act, any person who, immediately before 22nd October 2010 is the holder of a valid house agent’s licence under the Appraisers and House Agents Act (Cap. 16) shall be deemed to have applied for and be licensed as an estate agent under this Act, for the remainder of the duration of the licence issued under the Appraisers and House Agents Act.
 
 (2) Subsection (1) does not apply to any person who is exempted from having to take out a licence as a house agent by section 9 of the Appraisers and House Agents Act.
 
-(3) Any application for a house agent’s licence under the Appraisers and House Agents Act before the appointed day which application was not dealt with before that date shall lapse.
+(3) Any application for a house agent’s licence under the Appraisers and House Agents Act before 22nd October 2010 which application was not dealt with before that date shall lapse.
 
-(4) For a period of 2 years after the commencement of this section, the Minister may, by rules, prescribe such provisions of a savings or transitional nature consequent on the enactment of any provision of this Act as he may consider necessary or expedient.
+(4) For a period of 2 years after 22nd October 2010, the Minister may, by rules, prescribe such provisions of a savings or transitional nature consequent on the enactment of any provision of this Act as he may consider necessary or expedient.
+
+[75
 
 FIRST SCHEDULE
 
 Sections 8 and 71
 
-Constitution and Proceedings of Council
+Constitution and proceedings of Council
 
 Appointment of President and members
 
@@ -1770,7 +1748,7 @@ SECOND SCHEDULE
 
 Section 26
 
-Financial Provisions
+Financial provisions
 
 Accounts of Council
 
@@ -1838,180 +1816,51 @@ Presentation to Parliament
 
 12\. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-## THE SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 73
+Estate Agents Act
 
-Consequential Amendments to Other Written Laws
+(CHAPTER 95A)
 
-First column
+This Legislative History is provided for the convenience of users of the Estate Agents Act. It is not part of the Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 25 of 2010—Estate Agents Act 2010**|
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010 published on 17 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Dates of commencement|22 October 2010 (except sections 29, 39, 41 and 44)|
+|2.|**Act 25 of 2010—Estate Agents Act 2010**|
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010 published on 17 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Dates of commencement|1 January 2011 (sections 29, 39, 41 and 44)|
+|3.|**2011 Revised Edition—Estate Agents Act (Chapter 95A)**|
+||Date of operation|31 December 2011|
+## COMPARATIVE TABLE
 
-1.
+Estate Agents Act
 
-Accounting Standards Act (Chapter 2B, 2008 Ed.)
+(CHAPTER 95A)
 
-The Schedule
+The following provisions in the Estate Agents Act 2010 (Act 25 of 2010) have been renumbered by the Law Revision Commissioners in this 2011 Revised Edition.
 
-Insert, immediately after item 9A, the following item:
+This Comparative Table is provided for the convenience of users. It is not part of the Estate Agents Act.
 
-“9B.
+2011 Ed\. 
 
-Council for Estate Agencies
+Act 25 of 2010 
 
-Estate Agents Act 2010”.
+Omitted
 
-2.
+73 
 
-Appraisers and House Agents Act
+73 
 
+74 
 
+74 —(1) to (4)
 
-
-(Chapter 16, 2000 Ed.)
-
-(a)
-
-Long title
-
-Delete the words “and house agents”.
-
-(b)
-
-Section 1
-
-Delete the words “and House Agents”.
-
-(c)
-
-Section 3
-
-Repeal.
-
-(d)
-
-Section 5
-
-Repeal.
-
-(e)
-
-Section 9
-
-Delete subsection (1) and substitute the following subsection:
-
-“
-
-(1) This Act shall not extend to require any appraiser of any property listed in the Second Schedule to take out a licence under this Act for that purpose.
-
-”.
-
-(f)
-
-Section 11
-
-(i)
-
-Insert the word “or” at the end of paragraph (a).
-
-(ii)
-
-Delete paragraph (b).
-
-(iii)
-
-Renumber paragraph (c) as paragraph (b).
-
-(g)
-
-Section 13
-
-Delete the words “, including but not limited to the length of notice to be given and the manner of advertising sales on the instructions of mortgagees acting under powers of sale or of any person in a position of trust with respect to or liable to account for the proceeds of sale”.
-
-(h)
-
-First Schedule
-
-(i)
-
-Delete the words “AND HOUSE AGENTS” and “and House Agents” in FORM A.
-
-(ii)
-
-Delete FORM B.
-
-3.
-
-Central Provident Fund Act (Chapter 36, 2001 Ed.)
-
-(a)
-
-First Schedule, paragraph 6
-
-Insert, immediately after item (11), the following item:
-
-“
-
-(11A) Council for Estate Agencies.
-
-”.
-
-(b)
-
-Third Schedule
-
-(i)
-
-Delete the words “and House Agents” in item 3.
-
-(ii)
-
-Insert, immediately after item 13, the following item:
-
-“
-
-13A. Estate Agents Act 2010.
-
-”.
-
-4.
-
-Income Tax Act (Chapter 134, 2008 Ed.)
-
-Section 37(3)
-
-Delete the words “and House Agents” in paragraph (f).
-
-5.
-
-Inland Revenue Authority of Singapore Act
-
-
-
-
-(Chapter 138A, 1993 Ed.)
-
-Third Schedule, item 1
-
-Delete the words “and House Agents”.
-
-6.
-
-Statutory Corporations (Contributions to Consolidated Fund) Act
-
-
-
-
-(Chapter 319A, 2004 Ed.)
-
-The Schedule
-
-Insert, immediately after item 9A, the following item:
-
-“9B.
-
-Council for Estate Agencies
-
-Estate Agents Act 2010”.
+75 —(1) to (4)
 
