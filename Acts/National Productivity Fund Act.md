@@ -1,16 +1,14 @@
-**National Productivity Fund Act 2010**
+**National Productivity Fund Act**
 
-**(No. 26 of 2010)**
+**(CHAPTER 199A)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Productivity-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -76,53 +74,35 @@
 
 - [29 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
+[**FIRST SCHEDULE Constitution and proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Board)
 
 [**SECOND SCHEDULE Powers of Board**](#SECOND-SCHEDULE-Powers-of-Board)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# National Productivity Fund Act
 
-ACTS SUPPLEMENT
+(CHAPTER 199A)
 
-Published by Authority
+(Original Enactment: Act 26 of 2010)
 
-NO. 26]
+REVISED EDITION 2011
 
-Friday, October 22
-
-[2010
-
-The following Act was passed by Parliament on 16th September 2010 and assented to by the President on 1st October 2010:—
-
-National Productivity Fund Act 2010
-
-(No. 26 of 2010)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-1st October 2010.
-
-Date of Commencement: 1st November 2010
+(31st December 2011)
 
 An Act to establish the National Productivity Fund and to establish the Productivity Fund Administration Board for its proper administration.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 2010]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Productivity Fund Act 2010 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Productivity Fund Act.
 
 ### Interpretation
 
@@ -429,7 +409,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -441,7 +421,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
-(b) a sum of $2,000,
+(b) $2,000,
 
 whichever is the lower.
 
@@ -459,7 +439,7 @@ FIRST SCHEDULE
 
 Section 9(2)
 
-Constitution and Proceedings of Board
+Constitution and proceedings of Board
 
 Appointment of Chairman and members
 
@@ -615,7 +595,7 @@ THIRD SCHEDULE
 
 Section 21
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
@@ -681,3 +661,20 @@ Penalty for obstructing auditor
 
 10\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor or authorised person under paragraph 9 or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
+## LEGISLATIVE HISTORY
+
+National Productivity Fund Act
+
+(CHAPTER 199A)
+
+This Legislative History is provided for the convenience of users of the National Productivity Fund Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 26 of 2010—National Productivity Fund Act 2010**|
+||Date of First Reading|16 August 2010|
+|||(Bill No. 20/2010 published on 17 August 2010)|
+||Date of Second and Third Readings|16 September 2010|
+||Date of commencement|1 November 2010|
+|2.|**2011 Revised Edition—National Productivity Fund Act (Chapter 199A)**|
+||Date of operation|31 December 2011|
