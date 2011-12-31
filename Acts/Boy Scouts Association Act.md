@@ -28,9 +28,9 @@
 
 (Original Enactment: Ordinance 10 of 1926)
 
-REVISED EDITION 1985
+REVISED EDITION 2011
 
-(30th March 1987)
+(31st December 2011)
 
 An Act to further and protect the activities and interests of the Boy Scouts Association.
 
@@ -91,3 +91,5 @@ This Legislative History is provided for the convenience of users of the Boy Sco
 ||Date of operation|31 August 1971|
 |4.|**1985 Revised Edition—Boy Scouts Association Act**|
 ||Date of operation|30 March 1987|
+|5.|**2011 Revised Edition—Boy Scouts Association Act**|
+||Date of operation|31 December 2011|
