@@ -60,9 +60,9 @@
 
 (Original Enactment: Ordinance 30 of 1960)
 
-REVISED EDITION 1985
+REVISED EDITION 2011
 
-(30th March 1987)
+(31st December 2011)
 
 An Act to suppress common betting-houses, betting in public places and bookmaking.
 
@@ -74,15 +74,13 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 ### Interpretation
 
-2\.—(1) In this Act, unless there is something repugnant in the subject or context —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “access” includes access through the telephone, by post or by telegram;
 
 “betting information centre” means any place kept or used for receiving or transmitting by telephone or other means any information relating to any horse-race or other sporting event for the purpose of betting or wagering in contravention of this Act;
 
-“bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees or any other person or organisation operating or conducting a totalisator or parimutuel or any other system or method of cash or credit betting authorised under section 22;
-
-[13/2004 wef 01/05/2004]
+“bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees or any other person or organisation operating or conducting a totalisator or pari-mutuel or any other system or method of cash or credit betting authorised under section 22;
 
 “common betting-house” means —
 
@@ -92,9 +90,7 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 (c) any place used by a bookmaker for the purpose of receiving or negotiating bets or wagers on any such event or contingency as aforesaid whether the bets or wagers reach the bookmaker by the hand of the person placing the bet or his agent or the bookmaker’s agent or through the telephone or by post or by telegram or by any other means;
 
-“equipment” has the same meaning as in the Telecommunications Act 1999;
-
-[43/1999 wef 01/12/1999]
+“equipment” has the same meaning as in the Telecommunications Act (Cap. 323);
 
 “penciller” means a person who helps a bookmaker to keep his accounts or record of bets in connection with horse-races;
 
@@ -104,11 +100,9 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 “sporting event” includes any race, fight, game, sport or exercise;
 
-“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
+“telecommunication system” has the same meaning as in the Telecommunications Act.
 
-[8/86]
-
-[43/1999 wef 01/12/1999]
+[8/86; 43/99; 13/2004]
 
 (2) A place shall be deemed to be used for a purpose if it is used for that purpose on only one occasion.
 
@@ -130,7 +124,7 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 (d) receives directly or indirectly any money or valuable thing, for or in respect of any bet or wager on any such event or contingency, as is mentioned in this Act, in a common betting-house or betting information centre; or
 
-(e) announces, exhibits or publishes, or causes to be announced, exhibited or published, either orally or by means of any letter, circular, telegram, placard, handbill, card, print, writing, design, sign, advertisement or otherwise that a place is opened, kept or used as a common betting-house or betting information centre within or without Singapore, or in any other manner invites or solicits any person to commit a breach of any of the provisions of this Act,
+(e) announces, exhibits or publishes, or causes to be announced, exhibited or published, either orally or by means of any letter, circular, telegram, placard, handbill, card, print, writing, design, sign, advertisement or otherwise that a place is opened, kept or used as a common betting-house or betting information centre in Singapore or elsewhere, or in any other manner invites or solicits any person to commit a breach of any of the provisions of this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
 
@@ -144,9 +138,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 (c) any agent appointed by the Singapore Totalisator Board to operate or conduct any totalisator, lottery, betting or gaming activity.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 (2) Any person who occupies or has the use temporarily of a place which is kept or used by another person as a common betting-house or betting information centre shall be presumed until the contrary is proved to have permitted that place to be so kept or used.
+
+[8/86]
 
 ### Advancing money for conducting business of common betting-house
 
@@ -172,15 +168,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 shall be guilty of an offence and shall be liable on conviction to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
 
+[8/86]
+
 (4) When any person is convicted of an offence under this section all books, accounts, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, and all moneys or securities for money found in his possession which a Magistrate’s Court or District Court is of opinion were used or intended to be used for betting or wagering shall be declared by that Court to be forfeited to the State and shall be dealt with accordingly.
 
-(5) An offence under subsection (3) shall be a non-bailable seizable offence and any person making an arrest for such an offence may seize and detain any articles liable to be forfeited.
+(5) An offence under subsection (3) shall be a non-bailable arrestable offence and any person making an arrest for such an offence may seize and detain any articles liable to be forfeited.
 
-(6) Notwithstanding anything to the contrary in section 93 of the Criminal Procedure Code 2010 a police officer shall have power to release on bail a person accused of an offence under subsection (3).
+(6) Notwithstanding anything to the contrary in section 93 of the Criminal Procedure Code 2010 (Act 15 of 2010) a police officer shall have power to release on bail a person accused of an offence under subsection (3).
 
-[21/73]
-
-[15/2010 wef 02/01/2011]
+[21/73; 15/2010]
 
 ### Penalty for unlawful announcement of information on horse-race, etc.
 
@@ -208,7 +204,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 (b) any person found in a place so entered was erasing, tampering with or destroying any writing, sign, mark or symbol relating to the results or dividends payable on any horse-race or other sporting event; or
 
-(c) two or more telephone calls were received at any such place enquiring about the results, commentary or dividends payable on any horse-race or other sporting event,
+(c) 2 or more telephone calls were received at any such place enquiring about the results, commentary or dividends payable on any horse-race or other sporting event,
 
 it shall be presumed, until the contrary is proved, that the place is a betting information centre and that it is so kept, used or permitted to be used by the owner or occupier thereof, and that any other person found in such place is assisting in the business of the betting information centre.
 
@@ -220,9 +216,11 @@ it shall be presumed, until the contrary is proved, that the place is a betting 
 
 (b) any person found in a place entered under this Act was erasing, tampering with or destroying any writing, sign, mark or symbol relating to bets or wagers on any horse-race or other sporting event; or
 
-(c) two or more telephone calls were received at any place entered under this Act and the calls relate to the receiving or negotiating of bets or wagers or to any results, commentary or dividends payable on any horse-race or other sporting event,
+(c) 2 or more telephone calls were received at any place entered under this Act and the calls relate to the receiving or negotiating of bets or wagers or to any results, commentary or dividends payable on any horse-race or other sporting event,
 
 it shall be presumed, until the contrary is proved, that the place is a common betting-house and that it is so kept, used or permitted to be used by the owner or occupier thereof, and that any other person found in such place in possession of any such document or thing as is referred to in paragraph (a) is assisting in the management of such common betting-house.
+
+[8/86]
 
 ### Court to make order for demolition of structural contrivances for facilitating betting
 
@@ -274,13 +272,13 @@ it shall be presumed, until the contrary is proved, that the place is a common b
 
 ### Obstruction of police officers
 
-17\. Any person who obstructs any police officer in the exercise of any powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+17\. Any person who obstructs any police officer in the exercise of any powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [8/86]
 
 ### Examination of offenders
 
-18\.—(1) Whenever two or more persons are charged with any offence under this Act, the Magistrate’s Court or District Court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
+18\.—(1) Whenever 2 or more persons are charged with any offence under this Act, the Magistrate’s Court or District Court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
 
 (2) Any such person who refuses to be sworn or affirmed or to answer any lawful question, shall be dealt with in the same way as witnesses so refusing may by law be dealt with by a Magistrate’s Court or District Court.
 
@@ -288,15 +286,15 @@ it shall be presumed, until the contrary is proved, that the place is a common b
 
 ### Binding over on second conviction
 
-19\.—(1) If a person, who has been convicted of an offence under this Act, is again convicted of the same or any other offence under this Act, the Magistrate’s Court or District Court may, in addition to the punishment provided for such offence, make an order requiring him to give security, by bond with one or more sureties, that he will not offend against this Act for such period not exceeding one year, as the court thinks fit to fix.
+19\.—(1) If a person, who has been convicted of an offence under this Act, is again convicted of the same or any other offence under this Act, the Magistrate’s Court or District Court may, in addition to the punishment provided for such offence, make an order requiring him to give security, by bond with one or more sureties, that he will not offend against this Act for such period not exceeding 12 months, as the court thinks fit to fix.
 
-(2) Every such order shall be made as nearly as may be in the same manner, and shall have the like effect and consequences as if the order were made under section 44 of the Criminal Procedure Code 2010.
+(2) Every such order shall be made as nearly as may be in the same manner, and shall have the like effect and consequences as if the order were made under section 44 of the Criminal Procedure Code 2010 (Act 15 of 2010).
 
-[15/2010 wef 02/01/2011]
+[15/2010]
 
 ### Jurisdiction of courts
 
-20\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary contained in the Criminal Procedure Code, shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+20\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary contained in the Criminal Procedure Code 2010 (Act 15 of 2010), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 [8/86]
 
@@ -312,13 +310,13 @@ it shall be presumed, until the contrary is proved, that the place is a common b
 
 (b) any other person or organisation in respect of any system or method of cash or credit betting held, promoted, organised, administered or operated by the person or organisation where the betting takes place under the control or supervision of that person or organisation.
 
-[13/2004 wef 01/05/2004]
+[13/2004]
 
 (2) Every racing club or association exempted under subsection (1) shall place on the totalisator or pari-mutuel under its control or supervision all bets made under any system of cash or credit betting held, promoted, organised, administered or operated by it.
 
 (3) It shall be lawful at any time for any racing club or association exempted under subsection (1) to admit members of the public to its premises when racing takes place on payment of an admission fee or to places under the control or supervision of any one or more of its officers either without payment or on payment of an admission fee.
 
-(4) Where an admission fee is charged, the admission fee shall be subject to the payment of duty under the Entertainments Duty Act [Cap. 94].
+(4) Where an admission fee is charged, the admission fee shall be subject to the payment of duty under the Entertainments Duty Act (Cap. 94).
 
 ### Reward to informer
 
@@ -330,7 +328,7 @@ Betting Act
 
 (CHAPTER 21)
 
-This Legislative History is provided for the convenience of users of the Betting Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Betting Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -377,3 +375,5 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|10.|**2011 Revised Edition—Betting Act (Chapter 21)**|
+||Date of operation|31 December 2011|
