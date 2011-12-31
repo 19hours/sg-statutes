@@ -1,16 +1,14 @@
-**Private Education Act 2009**
+**Private Education Act**
 
-**(No. 21 of 2009)**
+**(CHAPTER 247A)**
 
 **Table of Contents**
 
 [**Long Title**](#Private-Education-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -190,59 +188,41 @@
 
 - [72 Non-application to certain education institutions](#Non-application-to-certain-education-institutions)
 
-- [73 Consequential amendment to Education Act](#Consequential-amendment-to-Education-Act)
+- [73 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-- [74 Saving and transitional provisions](#Saving-and-transitional-provisions)
+[**FIRST SCHEDULE Definition of private education**](#FIRST-SCHEDULE-Definition-of-private-education)
 
-[**FIRST SCHEDULE Definition of Private Education**](#FIRST-SCHEDULE-Definition-of-Private-Education)
+[**SECOND SCHEDULE Constitution and proceedings of Council**](#SECOND-SCHEDULE-Constitution-and-proceedings-of-Council)
 
-[**SECOND SCHEDULE Constitution and Proceedings of Council**](#SECOND-SCHEDULE-Constitution-and-Proceedings-of-Council)
+[**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Private Education Act
 
-ACTS SUPPLEMENT
+(CHAPTER 247A)
 
-Published by Authority
+(Original Enactment: Act 21 of 2009)
 
-NO. 25]
+REVISED EDITION 2011
 
-Tuesday, September 8
+(31st December 2011)
 
-[2009
+An Act to establish and incorporate the Council for Private Education, to provide for its functions, duties and powers, to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith.
 
-The following Act was passed by Parliament on 14th September 2009 and assented to by the President on 25th September 2009:—
+[1st December 2009: with the exception of Parts III to VII ;
 
-Private Education Act 2009
-
-(No. 21 of 2009)
-
-I assent.
-
-S R NATHAN
-
-President.
-
-25th September 2009.
-
-Date of Commencement: 1st December 2009 - with the exception of Parts III to VII
-
-Date of Commencement: 21st December 2009 - Parts III to VII
-
-An Act to establish and incorporate the Council for Private Education, to provide for its functions, duties and powers, to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith, and to make a consequential amendment to the Education Act (Chapter 87 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+21st December 2009: Parts III to VII ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Private Education Act 2009 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Private Education Act.
 
 ### Interpretation
 
@@ -259,8 +239,6 @@ PRELIMINARY
 (d) in any other form or manner whatsoever;
 
 “Appeals Board” means the Appeals Board constituted under section 51;
-
-“appointed day” means the date of commencement of Part II;
 
 “award”, in relation to a private education institution, includes the conferment of any degree, diploma or certificate by the private education institution, whether on its own behalf or otherwise;
 
@@ -312,7 +290,7 @@ for a course that the private education institution is providing or offering to 
 
 “partner” includes any person purporting to act as a partner;
 
-“partnership” includes a limited partnership within the meaning of the Limited Partnerships Act 2008 (Act 37 of 2008);
+“partnership” includes a limited partnership within the meaning of the Limited Partnerships Act (Cap. 163B);
 
 “premises”, in relation to a private education institution (whether registered or unregistered) or a proposed private education institution, means any building, enclosure, ground, open-air space or other place used or to be used by the private education institution or proposed private education institution in connection with the provision of private education;
 
@@ -520,7 +498,7 @@ Financial provisions
 
 ### Financial year
 
-13\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on the appointed day and end on 31st March of the succeeding year.
+13\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 1st December 2009 and end on 31st March of the succeeding year.
 
 ### Annual estimates
 
@@ -582,7 +560,7 @@ Transfer of property, assets, liabilities and employees
 
 ### Transfer to Council of property, assets and liabilities
 
-23\.—(1) As from the appointed day —
+23\.—(1) As from 1st December 2009 —
 
 (a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Private Education Division of the Ministry of Education (referred to in this Division as the transferred Division); and
 
@@ -594,15 +572,15 @@ shall be transferred to and shall vest in the Council without further assurance,
 
 (3) Any immovable property to be transferred to and vested in the Council under subsection (1) shall be held by the Council upon such tenure and subject to such terms and conditions as the President may determine.
 
-(4) Every agreement relating to any of the transferred properties to which the Government was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
+(4) Every agreement relating to any of the transferred properties to which the Government was a party immediately before 1st December 2009, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the Council had been a party to such an agreement; and
 
-(b) for any reference to the Government there was substituted in respect of anything to be done on or after the appointed day a reference to the Council.
+(b) for any reference to the Government there was substituted in respect of anything to be done on or after 1st December 2009 a reference to the Council.
 
 ### Transfer of employees
 
-24\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in the transferred Division shall be transferred to the service of the Council on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+24\.—(1) As from 1st December 2009, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the transferred Division shall be transferred to the service of the Council on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Council under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
 
@@ -622,21 +600,21 @@ shall be transferred to and shall vest in the Council without further assurance,
 
 ### No benefits in respect of abolition or reorganisation of office
 
-26\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Council under section 24 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the public service on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Council.
+26\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Council under section 24 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the public service on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Council.
 
 ### Existing contracts
 
-27\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the transferred Division or to any person transferred to the service of the Council under section 24 shall continue in force on and after that day and shall be enforceable by or against the Council as if the Council had been named therein or had been a party thereto instead of the Government.
+27\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st December 2009 to which the Government is a party and relating to the transferred Division or to any person transferred to the service of the Council under section 24 shall continue in force on and after that date and shall be enforceable by or against the Council as if the Council had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary proceedings and other legal proceedings
 
-28\.—(1) Where, on the appointed day, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Council, the proceedings shall be carried on and completed by the Council.
+28\.—(1) Where, on 1st December 2009, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Council, the proceedings shall be carried on and completed by the Council.
 
-(2) Where, on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where, on 1st December 2009, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Council and have the same force or effect as if it had been made by the Council pursuant to the authority vested in the Council under this Act.
 
-(4) Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Government, or any person acting on its behalf, in relation to —
+(4) Any proceedings or cause of action pending or existing immediately before 1st December 2009 by or against the Government, or any person acting on its behalf, in relation to —
 
 (a) the transferred Division;
 
@@ -906,7 +884,7 @@ unless the person is a registered private education institution.
 
 (2) For the purposes of subsection (1), a manager of the registered private education institution which intends to effect a change of name under subsection (1) shall submit to the Council an application for approval of the new name in such form and manner as may be prescribed, and that application shall be accompanied by the prescribed fee.
 
-(3) The Council may refuse to grant its approval under subsection (1) if it is satisfied that the new name of the private education institution, or the premises, school (or any faculty or department thereof) or education provided by the private education institution, as the case may be, is a name which is referred to in section 37(1)(h).
+(3) The Council may refuse to grant its approval under subsection (1) if it is satisfied that the new name of the private education institution, or the premises, school (or any department or faculty thereof) or education provided by the private education institution, as the case may be, is a name which is referred to in section 37(1)(h).
 
 ### Power to direct change of name
 
@@ -942,7 +920,7 @@ Management of registered private education institutions
 
 (b) to ensure that, in the event the provision of private education by the private education institution is about to cease, the Council and each student and intending student of the private education institution are informed, in writing and in the time delimited as follows, of the cessation and of the necessary arrangements made by the private education institution for the student or intending student to be offered a place in another registered private education institution to complete the same or similar course at the private education institution’s expense or otherwise:
 
-(i) where the provision of private education by the private education institution must cease because the Council refused to renew the registration of the private education institution under section 37 or the registration of the private education institution is suspended or cancelled, or the period of its registration is reduced, under section 38 —at least 14 days before the cessation or such other period as the Council may allow in any particular case; or
+(i) where the provision of private education by the private education institution must cease because the Council refused to renew the registration of the private education institution under section 37 or the registration of the private education institution is suspended or cancelled, or the period of its registration is reduced, under section 38 — at least 14 days before the cessation or such other period as the Council may allow in any particular case; or
 
 (ii) where the provision of private education by the private education institution must cease for any other reason — at least 30 days before the cessation;
 
@@ -1006,7 +984,7 @@ Provisions relating to courses by registered private education institutions
 
 (4) An application for the permission of the Council under subsection (1) shall —
 
-(a) be made on behalf of the registered education institution by a manager of the registered private education institution (referred to in this section as the applicant) to the Council in such form and manner, and within such time, as may be prescribed; and
+(a) be made on behalf of the registered private education institution by a manager of the registered private education institution (referred to in this section as the applicant) to the Council in such form and manner, and within such time, as may be prescribed; and
 
 (b) be accompanied by the prescribed fee.
 
@@ -1084,7 +1062,7 @@ Provisions relating to advertising
 
 (2) For the purposes of subsection (1) —
 
-(a) "advertisement" includes an advertisement that is made available —
+(a) “advertisement” includes an advertisement that is made available —
 
 (i) in a newspaper, magazine, journal or other periodical published or circulated in Singapore or elsewhere;
 
@@ -1400,7 +1378,7 @@ the Council may, by notice in writing addressed to the managers of the registere
 
 (2) The registered private education institution in respect of which the Council has issued a direction under subsection (1) shall bear all costs and expenses arising from complying with the direction.
 
-(3) Where the managers of the registered private education to whom the Council has addressed a direction under subsection (1) fail to comply with the direction, the Council may take such steps as it thinks reasonable and necessary to give effect to the direction and recover all costs and expenses reasonably incurred by it in so doing from the registered private education institution as a civil debt due to the Council.
+(3) Where the managers of the registered private education institution to whom the Council has addressed a direction under subsection (1) fail to comply with the direction, the Council may take such steps as it thinks reasonable and necessary to give effect to the direction and recover all costs and expenses reasonably incurred by it in so doing from the registered private education institution as a civil debt due to the Council.
 
 (4) Where any direction issued by the Council under subsection (1) addressed to the managers of a registered private education institution has not been complied with, every manager of the registered private education institution shall each be guilty of an offence.
 
@@ -1538,7 +1516,7 @@ MISCELLANEOUS
 
 ### Jurisdiction of court
 
-65\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+65\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Offences by bodies corporate, etc.
 
@@ -1568,11 +1546,11 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(5) In this section, "officer" —
+(5) In this section, “officer” —
 
 (a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity.
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity.
 
 (6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -1732,59 +1710,19 @@ whichever is the lower.
 
 (f) the organisation, committee of management, managers and teachers at any special education school for students with physical or intellectual disabilities which is registered under the Education Act and which receives a subvention extended by the Government;
 
-(g) the organisation, committee of management, managers and teachers of any education institution providing education in accordance with religious beliefs and principles and no other education, including any school exempted under section 3 of the Education Act (Cap. 87) and any Muslim religious school referred to in section 87(1) of the Administration of Muslim Law Act (Cap. 3);
+(g) the organisation, committee of management, managers and teachers of any education institution providing education in accordance with religious beliefs and principles and no other education, including any school exempted under section 3 of the Education Act and any Muslim religious school referred to in section 87(1) of the Administration of Muslim Law Act (Cap. 3);
 
 (h) the governing board constituted for any school under the School Boards (Incorporation) Act (Cap. 284A), its governors and the teachers of such a school;
 
 (i) the Nanyang Technological University, the National University of Singapore, the Singapore Management University, the Singapore University of Technology and Design and any other person whose function of providing university education is determined by written law, any entity owned (wholly or partly) or controlled by any such University or person, and the teachers of the respective Universities and entities; and
 
-[14/2011 wef 18/10/2011]
-
 (j) any place of safety or juvenile rehabilitation centre approved, appointed or established under the Children and Young Persons Act (Cap. 38) or any approved institution approved under section 12 of the Probation of Offenders Act (Cap. 252), respectively, and the respective managers thereof.
 
-[3/2011 wef 20/07/2011]
-
-### Consequential amendment to Education Act
-
-73\. Section 4 of the Education Act (Cap. 87) is repealed and the following sections substituted therefor:
-
-“
-
-Schools to which this Act does not apply
-
-4\. This Act shall not apply —
-
-(a) to or in relation to the Institute of Technical Education, Singapore established under the Institute of Technical Education Act (Cap. 141A); and
-
-(b) to any private education institution within the meaning of the Private Education Act 2009.
-
-### Restriction on use of “school”, etc.
-
-4A\.—(1) Subject to subsection (2), no person or organisation shall, except with the written consent of the Director-General —
-
-(a) use the words “academy”, “college”, “school”, “university” or any other term which the Minister may specify by notification in theGazette, or any of its derivatives, in any language or any other word or words indicating that the person or organisation provides education, in the name, description or title under which that person or organisation is providing education; or
-
-(b) make or continue to make any representation to that effect in any bill-head, letter-paper, notice, advertisement or in any other manner.
-
-(2) Subsection (1) shall not apply to —
-
-(a) a school that is registered or exempted from registration under this Act;
-
-(b) the Government;
-
-(c) any body established or constituted by or under a public Act and that has a public function, or any wholly-owned entity of such a body;
-
-(d) an education institution established by any other written law or the functions of which are provided by any other written law; and
-
-(e) such other person or organisation, or any class thereof, as may be prescribed.
-
-(3) Any person or organisation that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-”.
+[3/2011; 14/2011]
 
 ### Saving and transitional provisions
 
-74\.—(1) Notwithstanding the provisions of this Act, any person who, immediately before the date of commencement of Part III, is registered under the Education Act (Cap. 87) and is in Singapore —
+73\.—(1) Notwithstanding the provisions of this Act, any person who, immediately before the date of commencement of Part III, is registered under the Education Act (Cap. 87) and is in Singapore —
 
 (a) offering to provide or providing private education, whether in Singapore or elsewhere; or
 
@@ -1810,15 +1748,17 @@ shall be entitled to continue doing so for a period of 2 months from that date, 
 
 (ii) the application for registration under that Part is refused or withdrawn.
 
-(6) Any application by a private education institution for registration under the Education Act (Cap. 87) before the date of commencement of Part III which application was not dealt with before that commencement shall lapse.
+(6) Any application by a private education institution for registration under the Education Act before the date of commencement of Part III which application was not dealt with before that commencement shall lapse.
 
 (7) For a period of 2 years after the commencement of this section, the Minister may, by rules, prescribe such provisions of a savings or transitional nature consequent on the enactment of any provision of this Act as he may consider necessary or expedient.
+
+[74
 
 FIRST SCHEDULE
 
 Sections 2 and 70(1)
 
-Definition of Private Education
+Definition of private education
 
 1. In this Schedule, unless the context otherwise requires —
 
@@ -1826,7 +1766,7 @@ Definition of Private Education
 
 “employee” means a person who has entered into or works under a contract of service with an employer;
 
-“employer” has the same meaning as in section 2 of the Employment Act (Cap. 91);
+“employer” has the same meaning as in section 2 of the Employment Act;
 
 “full-time”, in relation to the provision of education, means the provision of education of a duration of at least one month and that is conducted for 5 days of a week for at least 3 hours each day;
 
@@ -1860,7 +1800,7 @@ SECOND SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Council
+Constitution and proceedings of Council
 
 Appointment of Chairman and members
 
@@ -1970,7 +1910,7 @@ THIRD SCHEDULE
 
 Section 22
 
-Financial Provisions
+Financial provisions
 
 Accounts of Council
 
@@ -2037,4 +1977,66 @@ Copy of auditor’s report for Auditor-General
 Presentation to Parliament
 
 12\. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+## LEGISLATIVE HISTORY
+
+Private Education Act
+
+(CHAPTER 247A)
+
+This Legislative History is provided for the convenience of users of the Private Education Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 21 of 2009—Private Education Act 2009**|
+||Date of First Reading|18 August 2009|
+|||(Bill No. 15/2009 published on 18 August 2009)|
+||Date of Second and Third Readings|14 September 2009|
+||Date of commencement|1 December 2009|
+
+|
+(except Parts III to VII)|
+|2.|**Act 21 of 2009—Private Education Act 2009**|
+||Date of First Reading|18 August 2009|
+|||(Bill No. 15/2009 published on 18 August 2009)|
+||Date of Second and Third Readings|14 September 2009|
+||Date of commencement|21 December 2009|
+
+|
+(Parts III to VII)|
+|3.|**Act 3 of 2011—Children and Young Persons (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 November 2010|
+|||(Bill No. 35/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|20 July 2011|
+|4.|**Act 14 of 2011—Singapore University of Technology and Design Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 March 2011|
+|||(Bill No. 9/2011 published on 2 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|18 October 2011|
+|5.|**2011 Revised Edition—Private Education Act (Chapter 247A)**|
+||Date of operation|31 December 2011|
+## COMPARATIVE TABLE
+
+Private Education Act
+
+(CHAPTER 247A)
+
+The following provisions in the Private Education Act 2009 (Act 21 of 2009) have been renumbered by the Law Revision Commissioners in this 2011 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Private Education Act.
+
+2011 Ed\. 
+
+Act 21 of 2009 
+
+Omitted
+
+73 
+
+73 —(1) to (7)
+
+74 —(1) to (7)
 
