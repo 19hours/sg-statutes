@@ -40,9 +40,9 @@
 
 (Original Enactment: Act 32 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 2011
 
-(30th March 1987)
+(31st December 2011)
 
 An Act to implement the International Agreement for the establishment and operation of the Asian Development Bank and to enable Singapore to become a member thereof and for matters connected therewith.
 
@@ -78,13 +78,13 @@ And Whereas it is desirable and expedient that Singapore should become a member 
 
 4\. The Minister is hereby authorised to subscribe on behalf of the Government —
 
-(a) to shares of the original authorised capital stock of the Bank in accordance with paragraph 1 of Article 5 to such amount as will not exceed five million United States dollars;
+(a) to shares of the original authorised capital stock of the Bank in accordance with paragraph 1 of Article 5 to such amount as will not exceed US$5 million;
 
 (b) where the original authorised capital stock of the Bank is increased in accordance with paragraph 2 of Article 5, to a proportion of the increase of stock as provided in that paragraph; and
 
 (c) where the shares of Singapore have been increased at the request of the Government in accordance with paragraph 3 of Article 5, to the amount of such increase:
 
-Provided that the subscription of Singapore shall not be increased, except with the approval signified by resolution of Parliament, so that its total subscription exceeds the sum of ten million United States dollars.
+Provided that the subscription of Singapore shall not be increased, except with the approval signified by resolution of Parliament, so that its total subscription exceeds the sum of US$10 million.
 
 ### Sums payable to Bank to be charged on Consolidated Fund
 
@@ -106,13 +106,13 @@ Provided that the subscription of Singapore shall not be increased, except with 
 
 6\. For the purposes of providing any sums required for making any payments to the Bank, the Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit, and the principal and interest of such securities and any expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
 
-[Act 11/1991 wef 30/11/1991]
+[11/91]
 
 ### Issue of non-negotiable notes and creation of other obligations
 
 7\. The Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the Bank in such form as he thinks fit, any such non-interest-bearing and non-negotiable notes or other obligations as are provided for by paragraph 3 of Article 6.
 
-[Act 11/1991 wef 30/11/1991]
+[11/91]
 
 ### Moneys received by Government to be paid into Consolidated Fund
 
@@ -136,15 +136,11 @@ Provided that nothing in Article 56 of the Agreement shall be construed as —
 
 10\. The Bank shall be deemed not to be a corporation within the meaning of the Companies Act (Cap. 50); and the provisions of that Act shall not accordingly apply to the Bank or to the issue by the Bank of any shares, debentures, bonds, notes or other securities.
 
-[9A
-
 ### Power to make rules
 
 11\.—(1) The Minister may make rules for the purpose of carrying out the provisions of this Act.
 
 (2) Such rules shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
-
-[10
 
 ## THE SCHEDULE
 
@@ -158,13 +154,13 @@ Status, Immunities, Exemptions and Privileges
 
 Article 48
 
-Purpose of Chapter
+PURPOSE OF CHAPTER
 
 To enable the Bank effectively to fulfil its purpose and carry out the functions entrusted to it, the status, immunities, exemptions and privileges set forth in this Chapter shall be accorded to the Bank in the territory of each member.
 
 Article 49
 
-legal Status
+LEGAL STATUS
 
 The Bank shall possess full juridical personality and, in particular, full capacity:
 
@@ -176,7 +172,7 @@ The Bank shall possess full juridical personality and, in particular, full capac
 
 Article 50
 
-Immunity from Judicial Proceedings
+IMMUNITY FROM JUDICIAL PROCEEDINGS
 
 1\. The Bank shall enjoy immunity from every form of legal process, except in cases arising out of or in connection with the exercise of its powers to borrow money, to guarantee obligations, or to buy and sell or underwrite the sale of securities, in which cases actions may be brought against the Bank in a court of competent jurisdiction in the territory of a country in which the Bank has its principal or a branch office, or has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities.
 
@@ -186,31 +182,31 @@ Immunity from Judicial Proceedings
 
 Article 51
 
-Immunity of Assets
+IMMUNITY OF ASSETS
 
 Property and assets of the Bank, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of taking or foreclosure by executive or legislative action.
 
 Article 52
 
-Immunity of Archives
+IMMUNITY OF ARCHIVES
 
 The archives of the Bank and, in general, all documents belonging to it, or held by it, shall be inviolable, wherever located.
 
 Article 53
 
-Freedom of Assets from Restrictions
+FREEDOM OF ASSETS FROM RESTRICTIONS
 
 To the extent necessary to carry out the purpose and functions of the Bank effectively, and subject to the provisions of this Agreement, all property and assets of the Bank shall be free from restrictions, regulations, controls and moratoria of any nature.
 
 Article 54
 
-Privilege for Communications
+PRIVILEGE FOR COMMUNICATIONS
 
 Official communications of the Bank shall be accorded by each member treatment not less favourable than that it accords to the official communications of any other member.
 
 Article 55
 
-Immunities and Privileges of Bank Personnel
+IMMUNITIES AND PRIVILEGES OF BANK PERSONNEL
 
 All Governors, Directors, alternates, officers and employees of the Bank, including experts performing missions for the Bank:
 
@@ -222,7 +218,7 @@ All Governors, Directors, alternates, officers and employees of the Bank, includ
 
 Article 56
 
-Exemption from Taxation
+EXEMPTION FROM TAXATION
 
 1\. The Bank, its assets, property, income and its operations and transactions, shall be exempt from all taxation and from all customs duties. The Bank shall also be exempt from any obligation for the payment, withholding or collection of any tax or duty.
 
@@ -238,13 +234,13 @@ Exemption from Taxation
 
 (i) which discriminates against such obligation or security solely because it is guaranteed by the Bank; or
 
-(ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank
+(ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.
 
-. . . . . . . . . .
+........................................
 
 Article 58
 
-Waiver of Immunities, Exemptions and Privileges
+WAIVER OF IMMUNITIES, EXEMPTIONS AND PRIVILEGES
 
 The Bank at its discretion may waive any of the privileges, immunities and exemptions conferred under this Chapter in any case or instance, in such manner and upon such conditions as it may determine to be appropriate in the best interests of the Bank.
 
@@ -277,3 +273,5 @@ This Legislative History is provided for the convenience of users of the Asian D
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991 (Item (2) of the Schedule — Amendment of the Asian Development Bank Act)|
+|6.|**2011 Revised Edition—Asian Development Bank Act (Chapter 15)**|
+||Date of operation|31 December 2011|
