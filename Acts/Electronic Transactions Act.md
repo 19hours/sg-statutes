@@ -1,16 +1,14 @@
-**Electronic Transactions Act 2010**
+**Electronic Transactions Act**
 
-**(No. 16 of 2010)**
+**(CHAPTER 88)**
 
 **Table of Contents**
 
 [**Long Title**](#Electronic-Transactions-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -98,57 +96,43 @@
 
 - [38 Regulations](#Regulations)
 
-- [39 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [39 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Matters Excluded by Section 4**](#FIRST-SCHEDULE-Matters-Excluded-by-Section-4)
+[**FIRST SCHEDULE Matters excluded by section 4**](#FIRST-SCHEDULE-Matters-excluded-by-section-4)
 
-[**SECOND SCHEDULE Specified Security Procedures**](#SECOND-SCHEDULE-Specified-Security-Procedures)
+[**SECOND SCHEDULE Specified security procedures**](#SECOND-SCHEDULE-Specified-security-procedures)
 
-[**THIRD SCHEDULE Digital SignaturesPart 1General**](#THIRD-SCHEDULE)
+[**THIRD SCHEDULE Digital signatures**](#THIRD-SCHEDULE-Digital-signatures)
 
-[**FOURTH SCHEDULE Designated Persons**](#FOURTH-SCHEDULE-Designated-Persons)
+[**FOURTH SCHEDULE Designated persons**](#FOURTH-SCHEDULE-Designated-persons)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+[**Comparative Table**](#Comparative-Table)
 
-Published by Authority
+# Electronic Transactions Act
 
-NO. 18]
+(CHAPTER 88)
 
-Friday, July 2
+(Original Enactment: Act 16 of 2010)
 
-[2010
+REVISED EDITION 2011
 
-The following Act was passed by Parliament on 19th May 2010 and assented to by the President on 10th June 2010:—
+(31st December 2011)
 
-Electronic Transactions Act 2010
+An Act to provide for the security and use of electronic transactions, to implement the United Nations Convention on the Use of Electronic Communications in International Contracts adopted by the General Assembly of the United Nations on 23rd November 2005 and to provide for matters connected therewith.
 
-(No. 16 of 2010)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-10th June 2010.
-
-Date of Commencement: 1st July 2010
-
-An Act to repeal and re-enact with amendments the Electronic Transactions Act (Chapter 88 of the 1999 Revised Edition) to provide for the security and use of electronic transactions, to implement the United Nations Convention on the Use of Electronic Communications in International Contracts adopted by the General Assembly of the United Nations on 23rd November 2005 and to provide for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 2010]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Electronic Transactions Act 2010 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Electronic Transactions Act.
 
 ### Interpretation
 
@@ -222,6 +206,8 @@ which may require the use of algorithms or codes, identifying words or numbers, 
 
 (4) Where an electronic communication does not relate to any contract, references to a contract in subsection (3) shall refer to the relevant transaction.
 
+[ETA, ss. 2 and 18(4); UN, Art. 4, 6 and 9(3)(a); US, s. 106(2)]
+
 ### Purposes and construction
 
 3\. This Act shall be construed consistently with what is commercially reasonable under the circumstances and to give effect to the following purposes:
@@ -240,11 +226,15 @@ which may require the use of algorithms or codes, identifying words or numbers, 
 
 (g) to implement the United Nations Convention on the Use of Electronic Communications in International Contracts adopted by the General Assembly of the United Nations on 23rd November 2005 and to make the law of Singapore on electronic transactions, whether or not involving parties whose places of business are in different States, consistent with the provisions of that Convention.
 
+[ETA, s. 3]
+
 ### Excluded matters
 
 4\.—(1) The provisions of this Act specified in the first column of the First Schedule shall not apply to any rule of law requiring writing or signatures in any of the matters specified in the second column of that Schedule.
 
 (2) The Minister may, by order published in theGazette, amend the First Schedule.
+
+[ETA, s. 4]
 
 ### Party autonomy
 
@@ -262,6 +252,8 @@ which may require the use of algorithms or codes, identifying words or numbers, 
 
 (b) derogate from or vary the effect of all or any of those provisions in respect of the contract or transaction.
 
+[ETA, s. 5; UN, Art. 3 and 8(2)]
+
 ## PART II
 
 ELECTRONIC RECORDS,
@@ -275,9 +267,13 @@ SIGNATURES AND CONTRACTS
 
 6\. For the avoidance of doubt, it is declared that information shall not be denied legal effect, validity or enforceability solely on the ground that it is in the form of an electronic record.
 
+[ETA, s. 6; UNCITRAL, Art. 5; UN, Art. 8]
+
 ### Requirement for writing
 
 7\. Where a rule of law requires information to be written, in writing, to be presented in writing or provides for certain consequences if it is not, an electronic record satisfies that rule of law if the information contained therein is accessible so as to be usable for subsequent reference.
+
+[ETA, s. 7; UNCITRAL, Art. 6; UN, Art. 9(2)]
 
 ### Requirement for signature
 
@@ -290,6 +286,8 @@ SIGNATURES AND CONTRACTS
 (i) as reliable as appropriate for the purpose for which the electronic record was generated or communicated, in the light of all the circumstances, including any relevant agreement; or
 
 (ii) proven in fact to have fulfilled the functions described in paragraph (a), by itself or together with further evidence.
+
+[UN, Art. 9(3)]
 
 ### Retention of electronic records
 
@@ -313,6 +311,8 @@ SIGNATURES AND CONTRACTS
 
 (b) any rule of law requiring that any document, record or information be retained (or which provides for consequences if not) that the Minister, by order published in theGazette, excludes from the application of this section in respect of such document, record or information.
 
+[ETA, s. 9; UNCITRAL, Art. 10]
+
 ### Provision of originals
 
 10\.—(1) Where a rule of law requires any document, record or information to be provided or retained in its original form, or provides for certain consequences if it is not, that requirement is satisfied by providing or retaining the document, record or information in the form of an electronic record if the following conditions are satisfied:
@@ -333,15 +333,21 @@ SIGNATURES AND CONTRACTS
 
 (4) Nothing in this section shall apply to any rule of law requiring that any document, record or information be provided or retained in its original form (or which provides for consequences if not) that the Minister, by order published in theGazette, excludes from the application of this section in respect of such document, record or information.
 
+[UNCITRAL, Art. 8; UN, Art. 9(4) and (5)]
+
 ### Formation and validity of contracts
 
 11\.—(1) For the avoidance of doubt, it is declared that in the context of the formation of contracts, an offer and the acceptance of an offer may be expressed by means of electronic communications.
 
 (2) Where an electronic communication is used in the formation of a contract, that contract shall not be denied validity or enforceability solely on the ground that an electronic communication was used for that purpose.
 
+[ETA, s. 11; UNCITRAL, Art. 11(1); UN, Art. 8(1)]
+
 ### Effectiveness between parties
 
 12\. As between the originator and the addressee of an electronic communication, a declaration of intent or other statement shall not be denied legal effect, validity or enforceability solely on the ground that it is in the form of an electronic communication.
+
+[ETA, s. 12; UNCITRAL, Art. 12(1)]
 
 ### Time and place of despatch and receipt
 
@@ -361,13 +367,19 @@ SIGNATURES AND CONTRACTS
 
 (6) Subsections (2), (3) and (4) shall apply notwithstanding that the place where the information system supporting an electronic address is located may be different from the place where the electronic communication is deemed to be received under subsection (5).
 
+[ETA, s. 15; UN, Art. 10]
+
 ### Invitation to make offer
 
 14\. A proposal to conclude a contract made through one or more electronic communications which is not addressed to one or more specific parties, but is generally accessible to parties making use of information systems, including a proposal that makes use of interactive applications for the placement of orders through such information systems, is to be considered as an invitation to make offers, unless it clearly indicates the intention of the party making the proposal to be bound in case of acceptance.
 
+[UN, Art. 11]
+
 ### Use of automated message systems for contract formation
 
 15\. A contract formed by the interaction of an automated message system and a natural person, or by the interaction of automated message systems, shall not be denied validity or enforceability solely on the ground that no natural person reviewed or intervened in each of the individual actions carried out by the automated message systems or the resulting contract.
+
+[UN, Art. 12]
 
 ### Error in electronic communications
 
@@ -380,6 +392,8 @@ SIGNATURES AND CONTRACTS
 (b) has not used or received any material benefit or value from the goods or services, if any, received from the other party.
 
 (3) Nothing in this section shall affect the application of any rule of law that may govern the consequences of any error other than as provided for in subsections (1) and (2).
+
+[UN, Art. 14]
 
 ## PART III
 
@@ -403,6 +417,8 @@ SECURE ELECTRONIC RECORDS AND SIGNATURES
 
 (f) the procedures in general use for similar types of transactions.
 
+[ETA, s. 16]
+
 ### Secure electronic signature
 
 18\.—(1) If, through the application of a specified security procedure, or a commercially reasonable security procedure agreed to by the parties involved, it can be verified that an electronic signature was, at the time it was made —
@@ -419,6 +435,8 @@ such signature shall be treated as a secure electronic signature.
 
 (2) Whether a security procedure is commercially reasonable shall be determined in accordance with section 17(2).
 
+[ETA, s. 17]
+
 ### Presumptions relating to secure electronic records and signatures
 
 19\.—(1) In any proceedings involving a secure electronic record, it shall be presumed, unless evidence to the contrary is adduced, that the secure electronic record has not been altered since the specific point in time to which the secure status relates.
@@ -430,6 +448,8 @@ such signature shall be treated as a secure electronic signature.
 (b) the secure electronic signature was affixed by that person with the intention of signing or approving the electronic record.
 
 (3) In the absence of a secure electronic record or a secure electronic signature, nothing in this Part shall create any presumption relating to the authenticity and integrity of the electronic record or electronic signature.
+
+[ETA, s. 18]
 
 ## PART IV
 
@@ -511,6 +531,8 @@ under a particular registration, accreditation or licensing scheme (as the case 
 
 (4) Regulations made under this section may provide that a contravention of a specified provision shall be an offence and may provide penalties for a fine not exceeding $50,000 or imprisonment for a term not exceeding 12 months or both.
 
+[ETA, ss. 42, 43 and 46]
+
 ### Controller may give directions for compliance
 
 23\.—(1) The Controller may, by notice in writing, direct any designated person, or any officer, employee or authorised representative of a designated person —
@@ -523,11 +545,15 @@ under a particular registration, accreditation or licensing scheme (as the case 
 
 (3) If any doubt arises as to the existence of a public emergency for the purposes of subsection (1)(b), a certificate signed by the Minister delivered to the designated person shall be conclusive evidence of the matters stated therein.
 
+[ETA, s. 51]
+
 ### Power to investigate
 
 24\.—(1) The Controller or an authorised officer may investigate the activities of any designated person, or any officer, employee or authorised representative of a designated person, in relation to their compliance with this Part.
 
 (2) For the purposes of subsection (1), the Controller may in writing issue an order to any designated person, or any officer, employee or authorised representative of a designated person, to further an investigation under this section or to secure compliance with this Part, including an order to produce records, accounts, data and documents kept by the designated person, and to allow the Controller or an authorised officer to examine and copy any of them.
+
+[ETA, ss. 52 and 55(a)]
 
 ## PART V
 
@@ -588,6 +614,8 @@ such a requirement is satisfied by an electronic record specified by the public 
 
 (4) Subject to sections 9 and 10, nothing in this Act shall by itself compel any public agency to accept or issue any document or information in the form of electronic records or to accept any payment in electronic form.
 
+[ETA, s. 47]
+
 ## PART VI
 
 LIABILITY OF NETWORK SERVICE PROVIDERS
@@ -622,6 +650,8 @@ LIABILITY OF NETWORK SERVICE PROVIDERS
 
 “third-party”, in relation to a network service provider, means a person over whom the provider has no effective control.
 
+[ETA, s. 10]
+
 ## PART VII
 
 GENERAL
@@ -640,6 +670,8 @@ GENERAL
 
 (6) The Controller, every officer appointed under subsection (3) and every authorised officer shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
 
+[ETA, ss. 41 and 50]
+
 ### Obligation of confidentiality
 
 28\.—(1) No person shall disclose any information which has been obtained by him in the performance of his duties or the exercise of his powers under this Act, unless such disclosure is made —
@@ -655,6 +687,8 @@ GENERAL
 (2) For the purposes of this section, the reference to a person disclosing any information includes his permitting any other person to have access to any electronic record, book, register, correspondence, information, document or other material which has been obtained by him in the performance of his duties or the exercise of his powers under this Act.
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[ETA, s. 48; ACRA, s. 34]
 
 ### Access to computers and data
 
@@ -680,6 +714,8 @@ to provide him with such reasonable technical and other assistance as he may req
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[ETA, s. 53]
+
 ### Production of documents, etc.
 
 30\. The Controller or an authorised officer shall, for the purposes of the execution of this Act, have power to do all or any of the following:
@@ -688,9 +724,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) make such inquiry as may be necessary to ascertain whether the provisions of this Act have been complied with.
 
+[ETA, s. 55]
+
 ### Obstruction of Controller or authorised officer
 
 31\. Any person who obstructs, impedes, assaults or interferes with the Controller or any authorised officer in the performance of his functions under this Act shall be guilty of an offence.
+
+[ETA, s. 54]
 
 ### Offences by bodies corporate, etc.
 
@@ -728,23 +768,31 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
 (6) Regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
+[ETA, s. 49]
+
 ### General penalties
 
 33\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[ETA, s. 56]
 
 ### Consent of Public Prosecutor
 
 34\. No prosecution in respect of any offence under this Act shall be instituted except by or with the consent of the Public Prosecutor.
 
+[ETA, s. 57]
+
 ### Jurisdiction of court
 
-35\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+35\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[ETA, s. 58]
 
 ### Composition of offences
 
@@ -760,23 +808,27 @@ whichever is the lower.
 
 (3) The Minister may make regulations prescribing the offences which may be compounded.
 
+[ETA, s. 59]
+
 ### Power to exempt
 
 37\. The Minister may, by order published in theGazette, exempt, subject to such terms and conditions as he thinks fit, any person or class of persons from all or any of the provisions of this Act.
+
+[ETA, s. 60]
 
 ### Regulations
 
 38\. The Minister may make regulations to prescribe anything which is required to be prescribed under this Act (except section 22) and generally for the carrying out of the provisions of this Act (except section 22).
 
-### Repeal and transitional provisions
+[ETA, s. 61]
 
-39\.—(1) The Electronic Transactions Act (Cap. 88) (referred to in this section as the repealed Act) is repealed.
+### Transitional provisions
 
-(2) Subject to subsection (3), this Act shall apply to all acts or transactions done in relation to an electronic record, including the generation, signing or communication of an electronic record, made on or after the date of commencement of this Act.
+39\.—(1) Subject to subsection (2), this Act shall apply to all acts or transactions done in relation to an electronic record, including the generation, signing or communication of an electronic record, made on or after the date of commencement of this Act.
 
-(3) If, immediately before the date of commencement of this Act —
+(2) If, immediately before the date of commencement of this Act —
 
-(a) by virtue of section 8 of the repealed Act, an electronic signature was treated as having satisfied a rule of law requiring a signature, or providing certain consequences if a document is not signed;
+(a) by virtue of section 8 of the repealed Electronic Transactions Act (Cap. 88, 1999 Ed.) (referred to in this section as the repealed Act), an electronic signature was treated as having satisfied a rule of law requiring a signature, or providing certain consequences if a document is not signed;
 
 (b) by virtue of section 9 of the repealed Act, an electronic record was treated as having satisfied a rule of law requiring certain documents, records or information to be retained; or
 
@@ -788,7 +840,7 @@ FIRST SCHEDULE
 
 Section 4
 
-Matters Excluded by Section 4
+Matters excluded by section 4
 
 First column
 
@@ -798,51 +850,43 @@ Provision
 
 Matter
 
-1.
-
-Part II
+1. Part II
 
 The creation or execution of a will
 
-2.
-
-Part II
+2. Part II
 
 Negotiable instruments, documents of title, bills of exchange, promissory notes, consignment notes, bills of lading, warehouse receipts or any transferable document or instrument that entitles the bearer or beneficiary to claim the delivery of goods or the payment of a sum of money
 
-3.
-
-Part II
+3. Part II
 
 The creation, performance or enforcement of an indenture, declaration of trust or power of attorney, with the exception of implied, constructive and resulting trusts
 
-4.
-
-Part II
+4. Part II
 
 Any contract for the sale or other disposition of immovable property, or any interest in such property
 
-5.
-
-Part II
+5. Part II
 
 The conveyance of immovable property or the transfer of any interest in immovable property.
+
+[ETA, s. 4; UN, Art. 2(2)]
 
 SECOND SCHEDULE
 
 Sections 2, 20 and 21
 
-Specified Security Procedures
+Specified security procedures
 
 1\. Digital signatures, as defined in the Third Schedule.
 
 THIRD SCHEDULE
 
-Sections 20 and 21 and paragraph 1 of the Second Schedule
+Sections 20 and 21, paragraph 1 of the Second Schedule and paragraph 1 of the Fourth Schedule
 
-Digital Signatures
+Digital signatures
 
-Part 1
+Part I
 
 General
 
@@ -1152,13 +1196,112 @@ Control of private key
 
 Initiating suspension or revocation of certificate
 
-25\. A subscriber who has accepted a certificate shall as soon as possible request the issuing certification authority to suspend or revoke the certificate if the private key corresponding to the public key listed in the certificate has been compromised.
+25. A subscriber who has accepted a certificate shall as soon as possible request the issuing certification authority to suspend or revoke the certificate if the private key corresponding to the public key listed in the certificate has been compromised.
+
+[ETA, ss. 2, 19 to 40, 41(5), 44 and 45]
 
 FOURTH SCHEDULE
 
 Sections 20 and 21
 
-Designated Persons
+Designated persons
 
 1\. Certification authorities, as defined in paragraph 1 of the Third Schedule.
+
+## LEGISLATIVE SOURCE KEY
+
+Electronic Transactions Act
+
+(CHAPTER 88)
+
+Unless otherwise stated, the abbreviations used in the references to other statutory provisions are references to the following statutory provisions. The references are provided for convenience and are not part of the Act.
+
+UNCITRAL
+
+:
+
+UNCITRAL Model Law on Electronic Commerce adopted by the General Assembly of the United Nations on 16th December 1996
+
+UN
+
+:
+
+United Nations Convention on the Use of Electronic Communications in International Contracts adopted by the General Assembly of the United Nations on 23rd November 2005
+
+US
+
+:
+
+United States Electronic Signatures in Global and National Commerce Act (15 U.S.C Chapter 96)
+
+ACRA
+
+:
+
+Accounting and Corporate Regulatory Authority Act (Chapter 2A, 2005 Revised Edition)
+
+ETA
+
+:
+
+Electronic Transactions Act (Chapter 88, 1999 Revised Edition)
+
+## LEGISLATIVE HISTORY
+
+Electronic Transactions Act
+
+(CHAPTER 88)
+
+This Legislative History is provided for the convenience of users of the Electronic Transactions Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 25 of 1998—Electronic Transactions Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 23/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|10 July 1998|
+|2.|**1999 Revised Edition—Electronic Transactions Act (Chapter 88)**|
+||Date of operation|30 December 1999|
+|3.|**Act 54 of 2004—Electronic Transactions (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 49/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|1 January 2005|
+|4.|**Act 16 of 2010—Electronic Transactions Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 12/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|1 July 2010|
+Note:
+
+The Electronic Transactions Act 2010 repealed and re-enacted with amendments the Electronic Transactions Act (Chapter 88, 1999 Revised Edition).
+
+|5.|**2011 Revised Edition—Electronic Transactions Act (Chapter 88)**|
+||Date of operation|31 December 2011|
+## COMPARATIVE TABLE
+
+Electronic Transactions Act
+
+(CHAPTER 88)
+
+The following provisions in the Electronic Transactions Act 2010 (Act 16 of 2010) have been renumbered by the Law Revision Commissioners in this 2011 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Electronic Transactions Act.
+
+2011 Ed\. 
+
+Act 16 of 2010 
+
+Omitted
+
+39 —(1)
+
+39 —(1)
+
+(2)
+
+(2)
+
+(3)
 
