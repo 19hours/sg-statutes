@@ -20,9 +20,9 @@
 
 - [7 Bill of sale not to protect chattels against rent or property tax](#Bill-of-sale-not-to-protect-chattels-against-rent-or-property-tax)
 
-- [8 Possession to be taken under bill of sale under certain circumstances only.](#Possession-to-be-taken-under-bill-of-sale-under-certain-circumstances-only)
+- [8 Possession to be taken under bill of sale under certain circumstances only](#Possession-to-be-taken-under-bill-of-sale-under-certain-circumstances-only)
 
-- [9 Sales by public auction.](#Sales-by-public-auction)
+- [9 Sales by public auction](#Sales-by-public-auction)
 
 - [10 Mode of registering bills of sale](#Mode-of-registering-bills-of-sale)
 
@@ -48,9 +48,9 @@
 
 - [21 Rules](#Rules)
 
-[**FIRST SCHEDULE Form of Bill of Sale**](#FIRST-SCHEDULE-Form-of-Bill-of-Sale)
+[**FIRST SCHEDULE Form of bill of sale**](#FIRST-SCHEDULE-Form-of-bill-of-sale)
 
-[**SECOND SCHEDULE Forms of Statutory Declaration**](#SECOND-SCHEDULE-Forms-of-Statutory-Declaration)
+[**SECOND SCHEDULE Forms of statutory declaration**](#SECOND-SCHEDULE-Forms-of-statutory-declaration)
 
 [**THIRD SCHEDULE Form of register**](#THIRD-SCHEDULE-Form-of-register)
 
@@ -62,9 +62,9 @@
 
 (Original Enactment: Ordinance 12 of 1886)
 
-REVISED EDITION 1985
+REVISED EDITION 2011
 
-(30th March 1987)
+(31st December 2011)
 
 An Act relating to bills of sale.
 
@@ -76,7 +76,17 @@ An Act relating to bills of sale.
 
 ### Application of this Act
 
-2\. This Act shall apply to every bill of sale, whether the same is absolute or subject or not subject to any trust whereby the holder or grantee has power, either with or without notice and either immediately or at any future time, to seize or take possession of any personal chattels comprised in or made subject to such bill of sale, but shall not, except as in this Act expressly mentioned, apply to any mortgages or debentures issued by any incorporated company and secured upon the stock or goods, chattels, and effects of such company.
+2\.—(1) This Act shall apply to every bill of sale, whether the same is absolute or subject or not subject to any trust whereby the holder or grantee has power, either with or without notice and either immediately or at any future time, to seize or take possession of any personal chattels comprised in or made subject to such bill of sale, but shall not, except as in this Act expressly mentioned, apply to any mortgages or debentures issued by any incorporated company and secured upon the stock or goods, chattels, and effects of such company.
+
+[5/2009]
+
+(2) This Act shall not apply to a bill of sale executed at any time on or after the date of commencement of the International Interests in Aircraft Equipment Act 2009 (Act 5 of 2009) to the extent that any interest therein is capable of being registered under that Act.
+
+[5/2009]
+
+(3) In subsection (2), “registered” has the same meaning as in section 2(1) of the International Interests in Aircraft Equipment Act 2009.
+
+[5/2009]
 
 ### Interpretation
 
@@ -92,7 +102,7 @@ An Act relating to bills of sale.
 
 (d) transfers of goods in the ordinary course of business of any trade or calling;
 
-(e) bills of sale of goods in foreign parts or at sea; and
+(e) bills of sale of goods in foreign parts or at sea;
 
 (f) bills of lading, warehouse-keeper’s certificates, warrants or orders for the delivery of goods, or any other documents used in the ordinary course of business as proof of the possession or control of goods, or authorising or purporting to authorise, either by endorsement or by delivery, the possessor of such documents to transfer or receive goods thereby represented;
 
@@ -124,9 +134,11 @@ An Act relating to bills of sale.
 
 4\.—(1) Every bill of sale shall be duly attested and shall be registered under this Act within 3 clear days after the execution thereof, and shall truly set out the consideration for which it was given, otherwise the following consequences shall ensue:
 
-(a) in the case of a bill of sale made or given by way of security for the payment of money by the grantor thereof, such bill of sale shall be void in respect of the personal chattels comprised therein; and
+(a) in the case of a bill of sale made or given by way of security for the payment of money by the grantor thereof, such bill of sale shall be void in respect of the personal chattels comprised therein;
 
-(b) in the case of any other bill of sale it shall, as against all trustees or assignees of the estate of the person whose chattels or any of them are comprised in such bill of sale under the law of bankruptcy or liquidation or under any assignment for the benefit of the creditors of such person, and also as against all sheriff’s officers and other persons seizing any chattels comprised in that bill of sale in the execution of any process of any court authorising the seizure of the chattels of the person by whom or of whose chattels that bill has been made, and also as against every person on whose behalf such process shall have been issued, be deemed fraudulent and void so far as regards the property in or right to the possession of any chattels comprised in that bill of sale which at or after the time of filing the petition for bankruptcy or liquidation or of the execution of such assignment or of executing such process, as the case may be, and after the expiration of such 3 days are in the possession or apparent possession of the person making that bill of sale or of any person against whom the process has issued under or in the execution of which that bill has been made or given, as the case may be.
+(b) in the case of any other bill of sale it shall, as against all trustees or assignees of the estate of the person whose chattels or any of them are comprised in such bill of sale under the law of bankruptcy or liquidation or under any assignment for the benefit of the creditors of such person, and also as against all sheriff’s officers and other persons seizing any chattels comprised in that bill of sale in the execution of any process of any court authorising the seizure of the chattels of the person by whom or of whose chattels that bill has been made, and also as against every person on whose behalf such process shall have been issued, be deemed fraudulent and void so far as regards the property in or right to the possession of any chattels comprised in that bill of sale which at or after the time of filing the application for bankruptcy or liquidation or of the execution of such assignment or of executing such process, as the case may be, and after the expiration of such 3 days are in the possession or apparent possession of the person making that bill of sale or of any person against whom the process has issued under or in the execution of which that bill has been made or given, as the case may be.
+
+[42/2005]
 
 (2) Personal chattels shall be deemed to be in the apparent possession of the person making or giving a bill of sale so long as they remain or are in or upon any house, warehouse, shop, building, vessel, works, yard, land or other premises occupied by him, or are used and enjoyed by him in any place whatsoever, notwithstanding that formal possession thereof may have been taken or given by or to any other person.
 
@@ -142,7 +154,7 @@ An Act relating to bills of sale.
 
 (3) Nothing in this section shall render a bill of sale void in respect of any of the following things:
 
-(a) any growing crops separately assigned or charged where such crops were actually growing at the time when the bill of sale was executed; and
+(a) any growing crops separately assigned or charged where such crops were actually growing at the time when the bill of sale was executed;
 
 (b) any fixtures separately assigned or charged and any plant or trade machinery where such fixtures, plant or trade machinery are used in, attached to, or brought upon any land, plantation, factory, workshop, warehouse or other place in substitution for any of the like fixtures, plant or trade machinery specifically described in the schedule to such bill of sale.
 
@@ -152,7 +164,7 @@ An Act relating to bills of sale.
 
 (a) if the amount the payment of which is thereby secured is less than $100;
 
-(b) if it is not made in the form set out in the First Schedule; and
+(b) if it is not made in the form set out in the First Schedule;
 
 (c) if it is made or given wholly or in part in consideration of a pre-existing debt.
 
@@ -160,7 +172,7 @@ An Act relating to bills of sale.
 
 7\. A bill of sale made or given by way of security for the payment of money by the grantor thereof shall be no protection against a distress for the recovery of rent or property tax.
 
-### Possession to be taken under bill of sale under certain circumstances only.
+### Possession to be taken under bill of sale under certain circumstances only
 
 8\.—(1) Personal chattels included in a bill of sale made or given by way of security for the payment of money by the grantor thereof shall not be liable to be seized or taken possession of by the grantee for any other than the following causes:
 
@@ -170,15 +182,15 @@ An Act relating to bills of sale.
 
 (c) if the grantor fraudulently either removes or suffers to be removed from the premises the chattels or any of them;
 
-(d) if the grantor does not without reasonable excuse upon demand in writing by the grantee produce to him his last receipts for rent and property tax; and
+(d) if the grantor does not without reasonable excuse upon demand in writing by the grantee produce to him his last receipts for rent and property tax;
 
 (e) if execution has been levied against the goods of the grantor under process of any court.
 
 (2) All personal chattels seized or taken possession of under or by virtue of any bill of sale shall remain on the premises where they were so seized or taken possession of, and shall not be removed or sold until after the expiration of 5 clear days from the day on which they were so seized or taken possession of.
 
-(3) The grantor may within 5 days from the seizure or taking possession of any chattels on account of any of the above-mentioned causes, apply to the High Court, and the Court, if satisfied that by payment of money or otherwise the said cause of seizure no longer exists, may restrain the grantee from removing or selling the chattels and may make such other order as seems just.
+(3) The grantor may within 5 days from the seizure or taking possession of any chattels on account of any of the abovementioned causes, apply to the High Court, and the Court, if satisfied that by payment of money or otherwise the said cause of seizure no longer exists, may restrain the grantee from removing or selling the chattels and may make such other order as seems just.
 
-### Sales by public auction.
+### Sales by public auction
 
 9\.—(1) No sale by the grantee of any chattels so seized or taken possession of as aforesaid shall be made otherwise than by public auction, conducted by some person duly licensed under any statutory provision for the licensing of auctioneers.
 
@@ -208,7 +220,7 @@ who shall personally explain to the grantor the effect thereof, and the attestat
 
 ### Priority given by registration
 
-11\. In case two or more bills of sale are given comprising in whole or in part any of the same chattels they shall have priority in the order of the date of their registration respectively as regards such chattels.
+11\. In case 2 or more bills of sale are given comprising in whole or in part any of the same chattels they shall have priority in the order of the date of their registration respectively as regards such chattels.
 
 ### Transfers need not be attested
 
@@ -230,27 +242,31 @@ who shall personally explain to the grantor the effect thereof, and the attestat
 
 ### Rectification of register
 
-15\.—(1) A Judge of the Supreme Court, on being satisfied that the omission to register a bill of sale or a declaration of renewal or transfer or assignment thereof within the time prescribed, or the omission or mis-statement of the name, residence or occupation of any person, was accidental or due to inadvertence or to absence from Singapore, may, in his discretion, order such omission or mis-statement to be rectified by the insertion in the register of the true name, residence or occupation, or by extending the time for such registration on such terms and conditions, if any, as to security, notice by advertisement or otherwise, or as to any other matter, as he thinks fit.
+15\.—(1) A Judge of the High Court, on being satisfied that the omission to register a bill of sale or a declaration of renewal or transfer or assignment thereof within the time prescribed, or the omission or mis-statement of the name, residence or occupation of any person, was accidental or due to inadvertence or to absence from Singapore, may, in his discretion, order such omission or mis-statement to be rectified by the insertion in the register of the true name, residence or occupation, or by extending the time for such registration on such terms and conditions, if any, as to security, notice by advertisement or otherwise, or as to any other matter, as he thinks fit.
+
+[16/93]
 
 (2) Any application for the rectification of the register under this section shall be made in chambers.
 
 ### Entry of satisfaction
 
-16\.—(1) A Judge of the Supreme Court may order a memorandum of satisfaction to be written on any registered copy of a bill of sale upon being satisfied that the debt, if any, for which such bill was made or given has been satisfied or discharged.
+16\.—(1) A Judge of the High Court may order a memorandum of satisfaction to be written on any registered copy of a bill of sale upon being satisfied that the debt, if any, for which such bill was made or given has been satisfied or discharged.
+
+[16/93]
 
 (2) The Registrar or Deputy Registrar of the Supreme Court may write a memorandum of satisfaction upon any registered copy of a bill of sale on a consent to the satisfaction signed by the person entitled to the benefit of the bill of sale and verified by affidavit being produced to him and filed in the Registry of the Supreme Court and on the original bill of sale being also produced to him.
 
 ### Inspection of register and office copies
 
-17\.—(1) Any person shall be entitled to have an office copy of or extract from any registered bill of sale and declaration of execution filed therewith or registered declaration of renewal upon paying for the same at the rate of 25 cents for every page or at such other rate as is prescribed\*, and every such copy shall be prima facie evidence of the original and of the fact and date of registration as shown thereon.
+17\.—(1) Any person shall be entitled to have an office copy of or extract from any registered bill of sale and declaration of execution filed therewith or registered declaration of renewal upon paying for the same at the rate of 25 cents for every page or at such other rate as is prescribed1, and every such copy shall be prima facie evidence of the original and of the fact and date of registration as shown thereon.
 
-\*SeeG.N. S 260/84.
+1SeeG.N. No. S 260/84.
 
 (2) Any person shall be entitled at all reasonable times, subject to such regulations as are prescribed —
 
-(a) to search the register on payment of a fee of 25 cents or such other fee as is prescribed\*; and
+(a) to search the register on payment of a fee of 25 cents or such other fee as is prescribed1; and
 
-\*SeeG.N. S 260/84.
+1SeeG.N. No. S 260/84.
 
 (b) on a like payment in respect of each bill of sale inspected to inspect, examine, and make extracts from any registered bill of sale:
 
@@ -260,7 +276,7 @@ Provided that the said extracts shall be limited to the dates of execution, regi
 
 18\.—(1) Every declaration required by or for the purposes of this Act may be made before the Registrar or Deputy Registrar of the Supreme Court, or before any commissioner for oaths, or before the registrar or a deputy registrar.
 
-(2) Every such declaration shall be deemed to be a declaration within the meaning of sections 199 and 200 of the Penal Code [Cap. 224].
+(2) Every such declaration shall be deemed to be a declaration within the meaning of sections 199 and 200 of the Penal Code (Cap. 224).
 
 ### Registrars
 
@@ -284,23 +300,123 @@ Provided that the said extracts shall be limited to the dates of execution, regi
 
 (d) the forms of declarations and other instruments to be used for the purposes of this Act;
 
-(e) the fees to be taken; and
+(e) the fees to be taken;
 
-(f) generally in relation to any matters, whether similar or not to those above-mentioned, as to which it is expedient to make rules for carrying into effect the objects of this Act.
+(f) generally in relation to any matters, whether similar or not to those abovementioned, as to which it is expedient to make rules for carrying into effect the objects of this Act.
 
 (2) All rules made under this section shall be published in theGazette.
 
 FIRST SCHEDULE
 
-Section 6.
+Section 6
 
-Form of Bill of Sale
+Form of bill of sale
+
+This Indenture, made the day of 20 betweenA.B.of of the one part andC.D.of of the other part, WITNESSETH that in consideration of the sum of $ now paid to the saidA.B.by the saidC.D.(the receipt whereof the saidA.B.acknowledges) [or whatever else the consideration may be] he the saidA.B.doth hereby assign unto the saidC.D.all and singular the several chattels and things specified in the schedule hereto by way of security for the payment of the sum of $ and interest thereon at the rate of % per annum, and the saidA.B.doth hereby agree that he will duly pay to the saidC.D.the principal sum aforesaid, together with the interest then due, by equal payments of $ on the day of [or whatever else may be the stipulated time or times of payment]; and the saidA.B.doth also agree with the saidC.D.that he will [here insert terms as to insurance, payment of rent or otherwise which the parties may agree to for the maintenance or defeasance of the security].
+
+Provided always that the chattels hereby assigned shall not be liable to seizure or to be taken possession of by the saidC.D.for any cause other than those specified in section 8 of the Bills of Sale Act (Chapter 24).
+
+In Witness, etc.
+
+Signed and sealed by the saidA.B.in the presence of me,E.F.[add witness’s name, address and description], after I had fully explained to the saidA.B.the nature and effect hereof.
 
 SECOND SCHEDULE
 
 Sections 12 and 13
 
-Forms of Statutory Declaration
+Forms of statutory declaration
+
+Declaration on Registration of Bill of Sale attested
+by an Advocate and Solicitor
+
+I, of , do solemnly and sincerely declare as follows:
+
+1. The paper writing hereto annexed and marked “A” is a true copy of a bill of sale and of every schedule or inventory thereto annexed or therein referred to and of every attestation of the execution thereof as made and given and executed by (1) .
+
+1i.e.the grantor.
+
+2. The said bill of sale was made and given by the said (1) on the day of 20 to (2) .
+
+1i.e. the grantee.the grantor.
+
+2i.e.
+
+3. I was present and saw the said (1) duly execute the said bill of sale on the said day of 20 .
+
+1i.e.the grantor.
+
+4. The said (1) resides at [state residence at time of making the declaration] and is [state occupation].
+
+1i.e.the grantor.
+
+5. The said (2) resides at [state residence at time of making the declaration] and is [state occupation].
+
+2i.e.the grantee.
+
+6\. The name subscribed to the said bill of sale as that of the witness attesting the due execution thereof is in the proper handwriting of this declarant.
+
+7\. I am an Advocate and Solicitor of the Supreme Court and reside at .
+
+8. Before the execution of the said bill of sale by the said (1) I fully explained to him [orher] the nature and effect thereof.
+
+1i.e.the grantor.
+
+9\. The said bill of sale was not prepared by me or by any person in my employment, nor am I the Advocate and Solicitor of the grantee thereof.
+
+10. I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+
+Made at
+
+the day of 20 .
+
+Before me
+
+Declaration on Registration of Bill of Sale not attested by
+an Advocate and Solicitor
+
+I, of , do solemnly and sincerely declare as follows:
+
+1. The paper writing hereto annexed and marked “A” is a true copy of a bill of sale and every schedule or inventory thereto annexed or therein referred to and of every attestation of the execution thereof as made and given and executed by (1) .
+
+1i.e.the grantor.
+
+2. The said bill of sale was made and given by the said (1) on the day of 20 to (2) .
+
+1i.e. the grantee.the grantor.
+
+2i.e.
+
+3. I was present and saw the said (1) duly execute the said bill of sale on the said day of 20 .
+
+1i.e.the grantor.
+
+4. The said (1) resides at [state residence at time of making the declaration] and is [state occupation].
+
+1i.e.the grantor.
+
+5. The said (2) resides at [state residence at time of making the declaration] and is [state occupation].
+
+2i.e.the grantee.
+
+6\. The said bill of sale was duly attested in my presence by of [a Magistrate or a Registrar, etc.], who before its execution fully explained to the said the nature and effect thereof.
+
+7\. The name subscribed to the said bill of sale as that of the witness attesting the due execution thereof is in the proper handwriting of the said .
+
+8\. I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+
+Made, etc.
+
+Declaration of Renewal of Registration
+
+I, of , do solemnly and sincerely declare that a bill of sale bearing date the day of 20 and made between [insert the names, addresses and descriptions of the parties to the original bill of sale] of the one part and of the other part, of which a copy was registered on the day of 20 is still a subsisting security, and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+
+Made, etc.
+
+Declaration of Transfer or Assignment of Bill of Sale
+
+I, of , do solemnly and sincerely declare that a bill of sale bearing date the day of 20 and made between [insert the names, addresses and descriptions of the parties to the original bill of sale] of the one part and of the other part, of which a copy was registered on the day of 20 [and which was last registered on the day of 20 ] is still a subsisting security and was by an indenture bearing date the day of 20 transferred to of , which said indenture is now produced and shown to me marked , and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+
+Made, etc.
 
 THIRD SCHEDULE
 
@@ -308,13 +424,49 @@ Section 14
 
 Form of register
 
+Satisfaction entered.
+
+No.
+
+By whom given (or against whom process issued.)
+
+To whom or in whose favour given.
+
+Date of instrument.
+
+Date of original registration.
+
+Date of registration of declaration of renewal.
+
+Date of registration of declaration of transfer.
+
+To whom transferred.
+
+Name.
+
+Residence.
+
+Occupation.
+
+Name.
+
+Residence.
+
+Occupation.
+
+Name.
+
+Residence.
+
+Occupation.
+
 ## LEGISLATIVE HISTORY
 
 Bills of Sale Act
 
 (CHAPTER 24)
 
-This Legislative History is provided for the convenience of users of the Building Control Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Bills of Sale Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -360,3 +512,5 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 37/2008 published on 3 April 2009)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 May 2009|
+|14.|**2011 Revised Edition—Bills of Sale Act**|
+||Date of operation|31 December 2011|
