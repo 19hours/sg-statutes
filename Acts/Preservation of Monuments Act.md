@@ -1,16 +1,14 @@
-**Preservation of Monuments Act 2009**
+**Preservation of Monuments Act**
 
-**(No. 16 of 2009)**
+**(CHAPTER 239)**
 
 **Table of Contents**
 
 [**Long Title**](#Preservation-of-Monuments-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -90,61 +88,37 @@
 
 - [35 Regulations](#Regulations)
 
-- [36 Repeal and consequential amendments to other written laws](#Repeal-and-consequential-amendments-to-other-written-laws)
+- [36 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-- [37 Related amendments to National Heritage Board Act](#Related-amendments-to-National-Heritage-Board-Act)
+[**Legislative History**](#Legislative-History)
 
-- [38 Saving and transitional provisions](#Saving-and-transitional-provisions)
+[**Comparative Table**](#Comparative-Table)
 
-[**THE SCHEDULE Consequential amendments to other written laws**](#THE-SCHEDULE)
+# Preservation of Monuments Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 239)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 16 of 2009)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2011
 
-Published by Authority
+(31st December 2011)
 
-NO. 18]
+An Act to provide for the preservation and protection of national monuments by the National Heritage Board and for matters connected therewith.
 
-Friday, June 12
-
-[2009
-
-The following Act was passed by Parliament on 13th April 2009 and assented to by the President on 28th April 2009:—
-
-Preservation of Monuments Act 2009
-
-(No. 16 of 2009)
-
-I assent.
-
-S R NATHAN
-
-President.
-
-28th April 2009.
-
-Date of Commencement: 1st July 2009
-
-An Act to provide for the preservation and protection of national monuments by the National Heritage Board and for matters connected therewith, to repeal the Preservation of Monuments Act (Chapter 239 of the 1985 Revised Edition) and to make related amendments to the National Heritage Board Act (Chapter 196A of the 1994 Revised Edition) and consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 2009]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Preservation of Monuments Act 2009 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Preservation of Monuments Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the National Heritage Board established under the National Heritage Board Act (Cap. 196A);
 
@@ -210,7 +184,7 @@ FUNCTIONS AND POWERS OF BOARD UNDER THIS ACT
 
 ### Powers of Board under this Act
 
-5\. Without prejudice to section 7 of the National Heritage Board Act, the Board, in discharging its functions under this Act, shall have and may exercise the following powers:
+5\. Without prejudice to section 7 of the National Heritage Board Act (Cap. 196A), the Board, in discharging its functions under this Act, shall have and may exercise the following powers:
 
 (a) advise on, supervise, control and require alterations, repairs, renovations or construction of any kind to be made to any national monument for the purpose of ensuring the better preservation thereof;
 
@@ -466,7 +440,7 @@ and may by such notice require that person to give such information as to —
 
 (a) that section 15(1) has been or is being contravened in respect of any national monument; or
 
-(b) that any activity or operation being carried out by any person in relation to a national monument has caused or is likely to cause danger or damage to the national monument,
+(b) that any operation or activity being carried out by any person in relation to a national monument has caused or is likely to cause danger or damage to the national monument,
 
 the Board may, by notice in writing (referred to hereinafter as an enforcement notice), require —
 
@@ -474,11 +448,11 @@ the Board may, by notice in writing (referred to hereinafter as an enforcement n
 
 (ii) the person who committed or is committing the contravention; or
 
-(iii) the person who carried out or is carrying out the activity or operation,
+(iii) the person who carried out or is carrying out the operation or activity,
 
 to do any or all of the following within the time specified in the notice:
 
-(A) to stop carrying out in relation to the national monument such activity or operation as may be specified in the enforcement notice;
+(A) to stop carrying out in relation to the national monument such operation or activity as may be specified in the enforcement notice;
 
 (B) to stop using the national monument for such purposes as may be specified in the enforcement notice;
 
@@ -554,21 +528,21 @@ TRANSFER OF PROPERTY, ASSETS AND LIABILITIES
 
 “National Heritage Board” means the National Heritage Board established under the National Heritage Board Act (Cap. 196A);
 
-“Preservation of Monuments Board” means the Preservation of Monuments Board established under the repealed Preservation of Monuments Act (Cap. 239, 1985 Ed.) in force immediately before the appointed day.
+“Preservation of Monuments Board” means the Preservation of Monuments Board established under the repealed Preservation of Monuments Act (Cap. 239, 1985 Ed.) in force immediately before 1st July 2009.
 
 ### Transfer of property, assets and liabilities to National Heritage Board
 
-24\.—(1) As from the appointed day, all movable and immovable property vested in the Preservation of Monuments Board and all assets, interests, rights, privileges, liabilities and obligations of that Board shall be transferred to and shall vest in the National Heritage Board without further assurance, act or deed.
+24\.—(1) As from 1st July 2009, all movable and immovable property vested in the Preservation of Monuments Board and all assets, interests, rights, privileges, liabilities and obligations of that Board shall be transferred to and shall vest in the National Heritage Board without further assurance, act or deed.
 
 (2) Any immovable property to be transferred to and vested in the National Heritage Board under subsection (1) shall be held by that Board upon such tenure and subject to such terms and conditions as the President may determine.
 
-(3) Every proceedings by or against the Preservation of Monuments Board which are pending on the appointed day may be continued, completed and enforced by or against the National Heritage Board.
+(3) Every proceedings by or against the Preservation of Monuments Board which are pending on 1st July 2009 may be continued, completed and enforced by or against the National Heritage Board.
 
-(4) Every agreement relating to any of the transferred properties to which the Preservation of Monuments Board was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
+(4) Every agreement relating to any of the transferred properties to which the Preservation of Monuments Board was a party immediately before 1st July 2009, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the National Heritage Board had been a party to such an agreement; and
 
-(b) for any reference to the Preservation of Monuments Board there were substituted in respect of anything to be done on or after the appointed day a reference to the National Heritage Board.
+(b) for any reference to the Preservation of Monuments Board there were substituted in respect of anything to be done on or after 1st July 2009 a reference to the National Heritage Board.
 
 (5) It is hereby declared for the avoidance of doubt that —
 
@@ -578,7 +552,7 @@ TRANSFER OF PROPERTY, ASSETS AND LIABILITIES
 
 ### Existing contracts
 
-25\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day which the Preservation of Monuments Board is a party shall continue in force on and after that date and shall be enforceable by or against the National Heritage Board as if the National Heritage Board had been named therein or had been a party thereto instead of the Preservation of Monuments Board.
+25\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st July 2009 which the Preservation of Monuments Board is a party shall continue in force on and after that date and shall be enforceable by or against the National Heritage Board as if the National Heritage Board had been named therein or had been a party thereto instead of the Preservation of Monuments Board.
 
 ### No breach or default because of transfer
 
@@ -678,7 +652,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -686,7 +660,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Jurisdiction of court
 
-30\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+30\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Composition of offences
 
@@ -758,183 +732,72 @@ whichever is the lower.
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and consequential amendments to other written laws
-
-36\.—(1) The Preservation of Monuments Act (Cap. 239) is repealed.
-
-(2) The provisions of the Acts specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
-
-### Related amendments to National Heritage Board Act
-
-37\.—(1) Section 6 of the National Heritage Board Act (Cap. 196A) is amended —
-
-(a) by deleting the word “and” at the end of paragraph (f); and
-
-(b) by deleting the full-stop at the end of paragraph (g) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
-
-“
-
-(h) to perform such other functions as are conferred on the Board by any other written law.
-
-”.
-
-(2) Section 8 of the National Heritage Board Act is repealed and the following section substituted therefor:
-
-“
-
-Appointment of committees and delegation of powers
-
-8\.—(1) The Board may, in its discretion, appoint such number of committees as it thinks fit consisting of its members or other persons or its members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
-
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or to the Chairman, all or any of the powers and functions vested in the Board by this Act, except the power of delegation under this subsection and the power to make any subsidiary legislation under this Act; and any power or function so delegated may be exercised or performed by the committee or Chairman in the name and on behalf of the Board.
-
-(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Board or to any other person all or any of the powers and functions vested in the Board by this Act, except the power of delegation under this subsection and the power to make any subsidiary legislation under this Act; and any power or function so delegated may be exercised or performed by the employee or person in the name and on behalf of the Board.
-
-(4) The Board may continue to exercise any power conferred upon it, or perform any function under this Act, notwithstanding the delegation of the power or function under this section.
-
-”.
-
-(3) Section 31(1) of the National Heritage Board Act (Cap. 196A) is amended —
-
-(a) by deleting the word “and” at the end of paragraph (d); and
-
-(b) by deleting the full-stop at the end of paragraph (e) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
-
-“
-
-(f) all moneys recovered or collected by the Board or any officer or employee thereof (including sums collected for the composition of offences) under this Act or under any other written law that is administered and enforced by the Board.
-
-”.
-
-(4) Section 32 of the National Heritage Board Act is repealed and the following section substituted therefor:
-
-“
-
-Power to borrow
-
-32\.—(1) For the performance of its functions or discharge of its duties under this Act or any other written law, the Board may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
-
-(a) mortgage, overdraft or other means, with or without security;
-
-(b) charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or
-
-(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
-
-(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
-
-”.
-
-(5) Section 46 of the National Heritage Board Act (Cap. 196A) is amended by deleting subsection (10) and substituting the following subsection:
-
-“
-
-(10) In this section —
-
-“ancient monument” means any monument which, in the opinion of the Board, is of public interest by reason of the historic, cultural, traditional, archaeological, architectural, artistic or symbolic significance attaching to it;
-
-“monument” means the whole or any part of, or the remains of —
-
-(a) any building, structure, erection, statue, sculpture or other work, whether above or below the surface of the land, and any cave or excavation;
-
-(b) any site comprising the remains of any such building, structure, erection, statue, sculpture or other work or of any cave or excavation; or
-
-(c) any site comprising, or comprising the remains of, any vehicle, vessel, aircraft or other movable structure or part thereof which neither constitutes nor forms part of any work which is a monument within paragraph (a),
-
-and includes any machinery attached to or forming part of a monument which cannot be detached from the monument without being dismantled.
-
-”.
-
-(6) The National Heritage Board Act (Cap. 196A) is amended by inserting, immediately after section 47, the following section:
-
-“
-
-Preservation of secrecy
-
-47A\.—(1) Without prejudice to section 18(2), except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or under the provisions of this Act or any written law, no person who is or has been —
-
-(a) a member, an officer, an employee or an agent of the Board; or
-
-(b) a member of a committee appointed by the Board under this Act or any written law administered by the Board,
-
-shall disclose any information relating to the affairs of the Board or of any other person which has been obtained by him in the performance of his functions or the discharge of his duties.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-”.
-
-(7) Section 48 of the National Heritage Board Act is amended by inserting, immediately after the words “this Act”, the words “or the Preservation of Monuments Act 2009”.
-
 ### Saving and transitional provisions
 
-38\.—(1) For the avoidance of doubt —
+36\.—(1) For the avoidance of doubt —
 
-(a) every preservation order made under section 8 of the repealed Preservation of Monuments Act (Cap. 239) shall be deemed to have been made under section 11 of this Act;
+(a) every preservation order made under section 8 of the repealed Preservation of Monuments Act (Cap. 239, 1985 Ed.) shall be deemed to have been made under section 11 of this Act;
 
-(b) any permission, approval, decision, notice, order (not being a preservation order) or other document prepared, made, granted, issued and any act or thing done under or pursuant to the repealed Preservation of Monuments Act (Cap. 239) and valid immediately before the appointed day shall be deemed to have been prepared, made, granted, issued or done under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly;
+(b) any permission, approval, decision, notice, order (not being a preservation order) or other document prepared, made, granted, issued and any act or thing done under or pursuant to the repealed Preservation of Monuments Act and valid immediately before 1st July 2009 shall be deemed to have been prepared, made, granted, issued or done under or pursuant to the corresponding provision of this Act and shall continue to have effect accordingly;
 
-(c) any application, request, objection or appeal made to the Preservation of Monuments Board or the Minister under any provision of the repealed Preservation of Monuments Act on which the decision of that Board or the Minister has not been made immediately before the appointed day shall be deemed to have been made and shall be dealt with under the corresponding provision of this Act;
+(c) any application, request, objection or appeal made to the Preservation of Monuments Board or the Minister under any provision of the repealed Preservation of Monuments Act on which the decision of that Board or the Minister has not been made immediately before 1st July 2009 shall be deemed to have been made and shall be dealt with under the corresponding provision of this Act;
 
-(d) the powers conferred on the National Heritage Board, the Director or a Monument Inspector by this Act may be exercised in respect of any breach, contravention or non-compliance of or under the repealed Preservation of Monuments Act as if it were a breach, contravention or non-compliance of or under the corresponding provision of this Act, except any offence committed under the repealed Preservation of Monuments Act before the appointed day shall be dealt with in accordance with the provisions of that Act as if this Act had not been enacted; and
+(d) the powers conferred on the National Heritage Board, the Director or a Monument Inspector by this Act may be exercised in respect of any breach, contravention or non-compliance of or under the repealed Preservation of Monuments Act as if it were a breach, contravention or non-compliance of or under the corresponding provision of this Act, except any offence committed under the repealed Preservation of Monuments Act before 1st July 2009 shall be dealt with in accordance with the provisions of that Act as if this Act had not been enacted; and
 
-(e) any enforcement process or proceedings commenced, pending or existing immediately before the appointed day in connection with any breach, contravention or non-compliance of or under the repealed Preservation of Monuments Act may be continued and disposed of under the provisions of that Act as if this Act had not been enacted.
+(e) any enforcement process or proceedings commenced, pending or existing immediately before 1st July 2009 in connection with any breach, contravention or non-compliance of or under the repealed Preservation of Monuments Act may be continued and disposed of under the provisions of that Act as if this Act had not been enacted.
 
 (2) In so far as it is necessary for preserving the effect of any written law or document, any reference in such written law or document to the repealed Preservation of Monuments Act shall, unless the context otherwise requires, be construed as a reference to this Act.
 
-(3) For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the Preservation of Monuments Act, as he may consider necessary or expedient.
+[38
 
-## THE SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 36(2)
+Preservation of Monuments Act
 
-Consequential amendments to other written laws
+(CHAPTER 239)
 
-First column
+This Legislative History is provided for the convenience of users of the Preservation of Monuments Act. It is not part of the Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 16 of 2009—Preservation of Monuments Act 2000**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 9/2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
+Note:
 
-(1) Accounting Standards Act
+The Preservation of Monuments Act 2009 repealed and re-enacted with amendments the Preservation of Monuments Act (Chapter 239, 1985 Revised Edition).
 
+|2.|**2011 Revised Edition—Preservation of Monuments Act (Chapter 239)**|
+||Date of operation|31 December 2011|
+## COMPARATIVE TABLE
 
+Preservation of Monuments Act
 
+(CHAPTER 239)
 
-(Chapter 2B, 2008 Ed.)
+The following provisions in the Preservation of Monuments Act 2009 (Act 16 of 2009) have been renumbered by the Law Revision Commissioners in this 2011 Revised Edition.
 
-The Schedule
+This Comparative Table is provided for the convenience of users. It is not part of the Preservation of Monuments Act.
 
-Delete item 36.
+2011 Ed\. 
 
-(2) Central Provident Fund Act
+Act 16 of 2009 
 
+Omitted
 
+36 
 
+Omitted
 
-(Chapter 36, 2001 Ed.)
+37 
 
-First Schedule, paragraph 6
+36 
 
-Delete item (45).
+38 
 
-(3) Planning Act
+Spent
 
-
-
-
-(Chapter 232, 1998 Ed.)
-
-Section 3(3)
-
-Delete the words “Preservation of Monuments Act (Cap. 239)” in paragraph (h) and substitute the words “Preservation of Monuments Act 2009”.
-
-(4) Urban Redevelopment Authority Act
-
-
-
-
-(Chapter 340, 1990 Ed.)
-
-Section 2
-
-(a) Delete the words “Preservation of Monuments Act” in the definition of “monument” and substitute the words “Preservation of Monuments Act 2009”.
-
-(b) Delete the marginal reference “Cap. 239.” in the definition of “monument”.
+(3)
 
