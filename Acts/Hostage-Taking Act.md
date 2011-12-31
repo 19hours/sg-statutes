@@ -1,14 +1,12 @@
-**Hostage-Taking Act 2010**
+**Hostage-Taking Act**
 
-**(No. 19 of 2010)**
+**(CHAPTER 126C)**
 
 **Table of Contents**
 
 [**Long Title**](#Hostage-Taking-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,49 +34,27 @@
 
 - [14 Extradition](#Extradition)
 
-- [15 Consequential amendment to Banking Act](#Consequential-amendment-to-Banking-Act)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-- [16 Consequential amendment to Penal Code](#Consequential-amendment-to-Penal-Code)
+[**Legislative History**](#Legislative-History)
 
-- [17 Consequential amendment to Road Vehicles (Special Powers) Act](#Consequential-amendment-to-Road-Vehicles-Special-Powers-Act)
+# Hostage-Taking Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 126C)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 19 of 2010)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2011
 
-Published by Authority
+(31st December 2011)
 
-NO. 23]
+An Act to give effect to the International Convention against the Taking of Hostages and for matters connected therewith.
 
-Friday, September 17
+[21st November 2010]
 
-[2010
+### Short title
 
-The following Act was passed by Parliament on 16th August 2010 and assented to by the President on 31st August 2010:—
-
-Hostage-taking Act 2010
-
-(No. 19 of 2010)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-31st August 2010.
-
-Date of Commencement: 21st November 2010
-
-An Act to give effect to the International Convention against the Taking of Hostages and for matters connected therewith and to make consequential amendments to the Banking Act (Chapter 19 of the 2008 Revised Edition), the Penal Code (Chapter 224 of the 2008 Revised Edition) and the Road Vehicles (Special Powers) Act (Chapter 277 of the 2007 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Hostage-Taking Act 2010 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Hostage-Taking Act.
 
 ### Interpretation
 
@@ -104,6 +80,8 @@ and includes a finance company licensed under the Finance Companies Act (Cap. 10
 
 (b) an abetment of, or a conspiracy or attempt to commit, the offence under section 3.
 
+[T(SOB)A, s.2]
+
 ### Hostage-taking
 
 3\.—(1) Whoever —
@@ -120,9 +98,13 @@ in order to compel —
 
 (2) Subsection (1) does not apply to any act which is an offence under section 3 of the Geneva Conventions Act (Cap. 117).
 
+[Penal Code, s. 364A (repealed); Convention, Art. 1]
+
 ### Extra-territoriality
 
 4\. Every person who, outside Singapore, commits an act that, if committed in Singapore, would constitute a hostage-taking offence is deemed to commit the act in Singapore and may be proceeded against, charged, tried and punished accordingly.
+
+[T(SOB)A, s. 7]
 
 ### Information relating to hostage-taking offence
 
@@ -138,6 +120,8 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (3) A person who makes a disclosure in good faith under this section shall not be treated as being in breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct.
 
+[T(SOB)A, s.4]
+
 ### Power to freeze bank account
 
 6\.—(1) The Public Prosecutor may, where he is satisfied that it is likely that the money for the payment of ransom for the release of any person may be paid out of any account with any bank, by order direct any bank not to pay any money out of, nor to pay cheques drawn on, such account for a specified period not exceeding one month.
@@ -145,6 +129,8 @@ and who fails to disclose the information immediately to a police officer shall 
 (2) A bank which complies with an order under subsection (1) shall be relieved of any liability to any other person in respect of the payment prohibited by that order.
 
 (3) A bank which fails to comply with an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[Kidnapping, s. 6]
 
 ### Power to order inspection of customer information
 
@@ -163,6 +149,8 @@ is likely to be found in any document containing customer information relating t
 (4) The Public Prosecutor may delegate his power under this section to a Deputy Public Prosecutor or the Commissioner of Police, except the power of delegation conferred by this subsection.
 
 (5) In this section, “customer information” has the meaning given to that expression in section 40A of the Banking Act (Cap. 19).
+
+[Kidnapping, s. 7]
 
 ### Power to obtain information
 
@@ -190,9 +178,13 @@ is likely to be found in any document containing customer information relating t
 
 (6) Any person who, in purported compliance with an order under subsection (1), furnishes any information, statement or document known to him to be false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[Kidnapping, s. 8]
+
 ### No prosecution without Public Prosecutor’s consent
 
 9\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor.
+
+[T(SOB)A, s. 8]
 
 ### Protection of informers
 
@@ -211,6 +203,8 @@ is likely to be found in any document containing customer information relating t
 (b) in any other proceedings, the court is of the opinion that justice cannot be fully done between the parties thereto without the disclosure of the name of an informer,
 
 the court may permit inquiry and require full disclosure concerning the informer.
+
+[Casino Control, s. 187]
 
 ### Offences by bodies corporate, etc.
 
@@ -250,11 +244,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
 (7) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate, limited liability partnership or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[CAAS, s. 84]
 
 ### Power of arrest
 
@@ -269,6 +265,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 “criminal matter” has the meaning given to that expression in section 2(1) of the Mutual Assistance in Criminal Matters Act;
 
 “relevant offence”, in relation to a foreign country, means an offence against the law of that country that consists of or includes conduct which, if it had occurred in Singapore, would have constituted a hostage-taking offence.
+
+[T(SOB)A, s. 5]
 
 ### Extradition
 
@@ -286,7 +284,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (b) the treaty does not provide for the extradition of persons accused of or convicted of a relevant offence of that country,
 
-a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) may be made applying that Act in relation to that country as if the treaty provided for the matter referred to in paragraph (b).
+a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act in relation to that country as if the treaty provided for the matter referred to in paragraph (b).
 
 (6) Where a notification referred to in subsection (5) is made, any limitation, condition, exception or qualification specified in any other notification made under section 4 of the Extradition Act, or in any Order in Council referred to in section 3 of that Act, in relation to that country shall, to the extent that it prevents the relevant offence from being considered an extradition crime in relation to that country, be disregarded in the application of that Act in relation to that country.
 
@@ -302,21 +300,72 @@ a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) ma
 
 (b) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
-### Consequential amendment to Banking Act
+[T(SOF)A, s. 33]
 
-15\. Part III of the Third Schedule to the Banking Act (Cap. 19) is amended by inserting, immediately after the words “the Goods and Services Tax Act (Cap. 117A),” in the definition of “specified written law”, the words “the Hostage-Taking Act 2010,”.
+## LEGISLATIVE SOURCE KEY
 
-### Consequential amendment to Penal Code
+Hostage-Taking Act
 
-16\. Section 364A of the Penal Code (Cap. 224) is repealed.
+(CHAPTER 126C)
 
-### Consequential amendment to Road Vehicles (Special Powers) Act
+Unless otherwise stated, the abbreviations used in the references to other statutory provisions are references to the following statutory provisions. The references are provided for convenience and are not part of the Act.
 
-17\. Paragraph 1 of the Schedule to the Road Vehicles (Special Powers) Act (Cap. 277) is amended by inserting, immediately after sub-paragraph (d), the following sub-paragraph:
+Convention
 
-“
+:
 
-(da) section 3 of the Hostage-Taking Act 2010;
+International Convention against the Taking of Hostages adopted by the General Assembly of the United Nations on 17th December 1979
 
-”.
+CAAS
 
+:
+
+Civil Aviation Authority of Singapore Act 2009 (Act 17 of 2009)
+
+Casino Control
+
+:
+
+Casino Control Act (Chapter 33A, 2007 Revised Edition)
+
+Kidnapping
+
+:
+
+Kidnapping Act (Chapter 151, 1999 Revised Edition)
+
+Penal Code
+
+:
+
+Penal Code (Chapter 224, 2008 Revised Edition)
+
+T(SOB)A
+
+:
+
+Terrorism (Suppression of Bombings) Act (Chapter 324A, 2008 Revised Edition)
+
+T(SOF)A
+
+:
+
+Terrorism (Suppression of Financing) Act (Chapter 325, 2003 Revised Edition)
+
+## LEGISLATIVE HISTORY
+
+Hostage-Taking Act
+
+(CHAPTER 126C)
+
+This Legislative History is provided for the convenience of users of the Hostage-Taking Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 19 of 2010—Hostage-Taking Act 2010**|
+||Date of First Reading|19 July 2010|
+|||(Bill No. 13/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|21 November 2010|
+|2.|**2011 Revised Edition—Hostage-Taking Act (Chapter 126C)**|
+||Date of operation|31 December 2011|
