@@ -146,6 +146,8 @@
 
 - [45 (Repealed)](#Repealed)
 
+- [45A (Repealed)](#Repealed)
+
 - [46 (Repealed)](#Repealed)
 
 - [47 (Repealed)](#Repealed)
@@ -156,6 +158,8 @@
 
 - [50 (Repealed)](#Repealed)
 
+- [50A (Repealed)](#Repealed)
+
 - [51 (Repealed)](#Repealed)
 
 - [52 (Repealed)](#Repealed)
@@ -165,6 +169,10 @@
 - [54 (Repealed)](#Repealed)
 
 - [55 (Repealed)](#Repealed)
+
+- [55A (Repealed)](#Repealed)
+
+- [55B (Repealed)](#Repealed)
 
 - [56 (Repealed)](#Repealed)
 
@@ -197,6 +205,20 @@
 - [66 Share warrants](#Share-warrants)
 
 - [67 (Repealed)](#Repealed)
+
+- [68 (Repealed)](#Repealed)
+
+- [69 (Repealed)](#Repealed)
+
+- [69A (Repealed)](#Repealed)
+
+- [69B (Repealed)](#Repealed)
+
+- [69C (Repealed)](#Repealed)
+
+- [69D (Repealed)](#Repealed)
+
+- [69E (Repealed)](#Repealed)
 
 - [69F (Repealed)](#Repealed)
 
@@ -316,17 +338,71 @@
 
 - [101 (Repealed)](#Repealed)
 
+- [102 (Repealed)](#Repealed)
+
+- [103 (Repealed)](#Repealed)
+
+- [104 (Repealed)](#Repealed)
+
+- [105 (Repealed)](#Repealed)
+
 - [106 (Repealed)](#Repealed)
 
 [**Division 5A  Exemptions from Divisions 1 and 5 in relation to Prospectus Requirements**](#Division-5A--Exemptions-from-Divisions-1-and-5-in-relation-to-Prospectus-Requirements)
 
 - [106A (Repealed)](#Repealed)
 
+- [106B (Repealed)](#Repealed)
+
+- [106C (Repealed)](#Repealed)
+
+- [106D (Repealed)](#Repealed)
+
+- [106E (Repealed)](#Repealed)
+
+- [106F (Repealed)](#Repealed)
+
+- [106G (Repealed)](#Repealed)
+
+- [106H (Repealed)](#Repealed)
+
+- [106I (Repealed)](#Repealed)
+
+- [106J (Repealed)](#Repealed)
+
+- [106K (Repealed)](#Repealed)
+
 - [106L (Repealed)](#Repealed)
 
 [**Division 6  Interests other than shares, debentures, etc.**](#Division-6--Interests-other-than-shares-debentures-etc)
 
 - [107 (Repealed)](#Repealed)
+
+- [108 (Repealed)](#Repealed)
+
+- [109 (Repealed)](#Repealed)
+
+- [110 (Repealed)](#Repealed)
+
+- [111 (Repealed)](#Repealed)
+
+- [112 (Repealed)](#Repealed)
+
+- [113 (Repealed)](#Repealed)
+
+- [113A (Repealed)](#Repealed)
+
+- [114 (Repealed)](#Repealed)
+
+- [115 (Repealed)](#Repealed)
+
+- [116 (Repealed)](#Repealed)
+
+- [117 (Repealed)](#Repealed)
+
+- [118 (Repealed)](#Repealed)
+
+- [119 (Repealed)](#Repealed)
 
 - [120 (Repealed)](#Repealed)
 
@@ -1038,11 +1114,27 @@
 
 - [354 Outstanding assets of defunct unregistered company](#Outstanding-assets-of-defunct-unregistered-company)
 
-[**Part XI VARIOUS TYPES OF COMPANIES, ETC**](#Part-XI)
+[**Part XI VARIOUS TYPES OF COMPANIES, ETC.**](#Part-XI)
 
 [**Division 1  Investment companies**](#Division-1--Investment-companies)
 
 - [355 (Repealed)](#Repealed)
+
+- [356 (Repealed)](#Repealed)
+
+- [357 (Repealed)](#Repealed)
+
+- [358 (Repealed)](#Repealed)
+
+- [359 (Repealed)](#Repealed)
+
+- [360 (Repealed)](#Repealed)
+
+- [361 (Repealed)](#Repealed)
+
+- [362 (Repealed)](#Repealed)
+
+- [363 (Repealed)](#Repealed)
 
 - [364 (Repealed)](#Repealed)
 
@@ -1212,30 +1304,41 @@ PRELIMINARY
 
 2\. This Act is divided into Parts, Divisions and Subdivisions as follows:
 
-Part I sections 1-7A
+Part I
+sections 1-7A
 
 ...
 
-Preliminary sections 1-7A.
+Preliminary
+sections 1-7A.
 
-Part II sections 8-16
+Part II
+sections 8-16
 
 ...
 
-Administration of this Act sections 8-16.
+Administration of this Act
+sections 8-16.
 
-Part III Constitution of Companies sections 17-42A
+Part III
+Constitution of Companies
+sections 17-42A
+
+...
 
 Division 1 — Incorporation
 sections 17-22.
 Division 2 — Powers
 sections 23-42A.
 
-Part IV Shares, Debentures and Charges sections 43-141
+Part IV
+Shares,
+Debentures and Charges
+sections 2-141
 
 ...
 
-Division 1 — Prospectuses sections 43-56.
+Division 1 — Prospectuses sections 2-56.
 
 ...
 
@@ -1259,11 +1362,11 @@ Division 5 — Debentures sections 93-106.
 
 ...
 
-Division 5A — Exemptions from Divisions 1 and 5 in relation to Prospectus Requirements sections 106A to 106L.
+Division 5A — Exemptions from Divisions 1 and 5 in relation to Prospectus Requirements sections 6 to 106L.
 
 ...
 
-Division 6 — Interests other than shares, debentures, etc. sections 107-120.
+Division 6 — Interests other than shares, debentures, etc. sections 7-120.
 
 ...
 
@@ -1277,7 +1380,9 @@ Division 7A — The Central Depository System — a book-entry or scripless syst
 
 Division 8 — Registration of charges sections 131-141.
 
-Part V Management and Administration sections 142-198
+Part V
+Management and Administration
+sections 142-198
 
 ...
 
@@ -1299,7 +1404,8 @@ Division 4 — Register of members sections 190-196.
 
 Division 5 — Annual return sections 197-198.
 
-Part VI Accounts and Audit
+Part VI
+Accounts and Audit
 
 ...
 
@@ -1311,7 +1417,8 @@ sections 199-209B
 
 Division 2 — Audit sections 205-209B.
 
-Part VII sections 210-216B
+Part VII
+sections 210-216B
 
 ...
 
@@ -1427,11 +1534,11 @@ Division 5 — Winding Up of Unregistered Companies sections 350-354.
 
 Part XI
 Various Types of Companies, etc.
-sections 355-386
+sections 2-386
 
 ...
 
-Division 1 — Investment Companies sections 355-364.
+Division 1 — Investment Companies sections 2-364.
 
 ...
 
@@ -1452,8 +1559,6 @@ Division 2 — Offences sections 400-409A.
 ...
 
 Division 3 — Miscellaneous sections 410-411.
-
-[62/70; 40/89; 21/2005]
 
 ### Repeals
 
@@ -1484,6 +1589,8 @@ Division 3 — Miscellaneous sections 410-411.
 “accounting records”, in relation to a corporation, includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts of the corporation are made up;
 
 “Accounting Standards” means the accounting standards made or formulated by the Accounting Standards Council under Part III of the Accounting Standards Act 2007 and applicable to companies and to foreign companies in respect of their operations in Singapore for the purposes of this Act;
+
+[39/2007 wef 01/11/2007]
 
 “accounts” means profit and loss accounts and balance-sheets and includes notes (other than auditors’ reports or directors’ reports) attached or intended to be read with any of those profit and loss accounts or balance-sheets;
 
@@ -1745,6 +1852,8 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 [S 258/67; 62/70; 10/74; 15/84; 13/87; 22/93; 36/2000; 42/2001; 12/2002; 8/2003; 3/2004; 4/2004; 5/2004; 5/2005; 21/2005]
 
+[39/2007 wef 01/11/2007]
+
 ### Directors
 
 (2) For the purposes of this Act, a person shall not be regarded as a person in accordance with whose directions or instructions the directors of a company are accustomed to act by reason only that the directors act on advice given by him in a professional capacity.
@@ -1771,7 +1880,7 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 [42/2001]
 
-(6) [Deleted by Act 42 of 2001]
+(6) [Deleted byAct 42 of 2001]
 
 (7) Unless the contrary intention appears, any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -2833,9 +2942,9 @@ as the case may be, and where applicable, that it is a private company.
 
 (a) the name of the company;
 
-(b) [Deleted by Act 5 of 2004]
+(b) [Deleted byAct 5 of 2004]
 
-(c) [Deleted by Act 21 of 2005]
+(c) [Deleted byAct 21 of 2005]
 
 (d) if the company is a company limited by shares, that the liability of the members is limited;
 
@@ -2977,7 +3086,7 @@ Powers
 
 [12/2002]
 
-(4) [Deleted by Act 12 of 2002]
+(4) [Deleted byAct 12 of 2002]
 
 (5) Notice of the registration shall be published in such manner, if any, as the Court or the Registrar directs.
 
@@ -3031,7 +3140,7 @@ Powers
 
 (b) is identical to that of any other company, limited liability partnership or corporation, or to a business name; or
 
-(c) [Deleted by Act 12 of 2002]
+(c) [Deleted byAct 12 of 2002]
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
@@ -3349,15 +3458,13 @@ and thereupon the restrictions and limitations referred to in section 18(1) as i
 
 ### Default in complying with requirements as to private companies
 
-32\. 
-
-—(1) [Deleted by Act 5 of 2004]
+32\.—(1) [Deleted byAct 5 of 2004]
 
 (2) Where —
 
 (a) default has been made in relation to a private company in complying with a limitation of a kind specified in section 18(1)(b) that is included, or is deemed to be included in the memorandum or articles of the company;
 
-(b) [Deleted by Act 5 of 2004]
+(b) [Deleted byAct 5 of 2004]
 
 (c) the memorandum or articles of a private company have been so altered that they no longer include restrictions or limitations of the kinds specified in section 18(1); or
 
@@ -3391,7 +3498,7 @@ the Registrar may by notice served on the company determine that, on such date a
 
 [15/84]
 
-(7) [Deleted by Act 5 of 2004]
+(7) [Deleted byAct 5 of 2004]
 
 (8) Where default is made in relation to a private company in complying with any restriction or limitation of a kind specified in section 18(1) that is included, or deemed to be included, in the memorandum or articles of the company, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
 
@@ -3475,7 +3582,7 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 [12/2002]
 
-(3) [Deleted by Act 21 of 2005]
+(3) [Deleted byAct 21 of 2005]
 
 (4) In the case of an unlimited company or a company limited by guarantee the articles shall state the number of members with which the company proposes to be registered.
 
@@ -3547,9 +3654,9 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 (b) a printed copy of the order or resolution making the alteration is annexed to the copy of the memorandum or articles and the particular clauses or articles affected are indicated in ink.
 
-(3) [Omitted1
+(3) [Omitted of\*
 
-1Subsection (3) of section 40 is omitted from the 2006 Ed., being obsolete by virtue of the amendment to section 186 of the 1994 Ed. by the Companies (Amendment) Act 2003 (Act 8 of 2003).
+\*Subsection (3)section 40 is omitted from the 2006 Ed., being obsolete by virtue of the amendment to section 186 of the 1994 Ed. by the Companies (Amendment) Act 2003 (Act 8 of 2003).
 
 ]
 
@@ -3615,7 +3722,7 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 
 Prohibition of carrying on business with fewer than statutory minimum of members
 
-42\. [Repealed by Act 5 of 2004]
+42\. [Repealed byAct 5 of 2004]
 
 ### Company or foreign company with a charitable purpose which contravenes the Charities Act or regulations made thereunder may be wound up or struck off the register
 
@@ -3643,33 +3750,77 @@ Division 1 —
 
 Prospectuses
 
-43\. [Repealed by S 236/2002]
+Requirement to issue form of application for shares or debentures with a prospectus
 
-44\. [Repealed by S 236/2002]
+43\. [Repealed byS 236/2002]
 
-45\. [Repealed by S 236/2002]
+As to invitations to the public to lend money to or to deposit money with a corporation
 
-46\. [Repealed by S 236/2002]
+44\. [Repealed byS 236/2002]
 
-47\. [Repealed by S 236/2002]
+Contents of prospectuses
 
-48\. [Repealed by S 236/2002]
+45\. [Repealed byS 236/2002]
 
-49\. [Repealed by S 236/2002]
+Profile statement
 
-50\. [Repealed by S 236/2002]
+45A\. [Repealed byS 236/2002]
 
-51\. [Repealed by S 236/2002]
+Exemption from requirements as to form or content of prospectus or profile statement
 
-52\. [Repealed by S 236/2002]
+46\. [Repealed byS 236/2002]
 
-53\. [Repealed by S 236/2002]
+Abridged prospectus for renounceable rights issues
 
-54\. [Repealed by S 236/2002]
+47\. [Repealed byS 236/2002]
 
-55\. [Repealed by S 236/2002]
+Restrictions on advertisements, etc.
 
-56\. [Repealed by S 236/2002]
+48\. [Repealed byS 236/2002]
+
+As to retention of over-subscriptions in debenture issues
+
+49\. [Repealed byS 236/2002]
+
+Registration of prospectus
+
+50\. [Repealed byS 236/2002]
+
+Lodging supplementary document or replacement document
+
+50A\. [Repealed byS 236/2002]
+
+Exemption for certain governmental and international corporations as regards the signing of a copy of prospectus by all directors
+
+51\. [Repealed byS 236/2002]
+
+Document containing offer of shares for sale deemed prospectus
+
+52\. [Repealed byS 236/2002]
+
+Allotment of shares and debentures where prospectus indicates application to list on stock exchange
+
+53\. [Repealed byS 236/2002]
+
+Expert’s consent to issue of prospectus containing statement by him
+
+54\. [Repealed byS 236/2002]
+
+Civil liability for false or misleading statements and omissions
+
+55\. [Repealed byS 236/2002]
+
+Persons liable to inform person making offer or invitation about certain deficiencies
+
+55A\. [Repealed byS 236/2002]
+
+Defences
+
+55B\. [Repealed byS 236/2002]
+
+Criminal liability for false or misleading statements and omissions
+
+56\. [Repealed byS 236/2002]
 
 Division 2 —
 
@@ -3677,11 +3828,11 @@ Restrictions on allotment and commencement of business
 
 Prohibition of allotment unless minimum subscription received
 
-57\. [Repealed by S 236/2002]
+57\. [Repealed byS 236/2002]
 
 Application and moneys to be held by the company in trust in a separate bank account until allotment
 
-58\. [Repealed by S 236/2002]
+58\. [Repealed byS 236/2002]
 
 ### Restriction on allotment in certain cases
 
@@ -3913,7 +4064,7 @@ file with the Registrar a notice in the prescribed form of its share capital.
 
 [15/84]
 
-(3) [Deleted by Act 12 of 2002]
+(3) [Deleted byAct 12 of 2002]
 
 (4) Where shares are allotted as fully or partly paid up otherwise than in cash and the allotment is made pursuant to a contract in writing, the company shall lodge with the return the contract evidencing the entitlement of the allottee or a copy of any such contract certified as prescribed.
 
@@ -3997,9 +4148,41 @@ the company shall lodge with the return a statement containing such particulars 
 
 [Aust., 1961, s. 57]
 
-67\. [Repealed by Act 21 of 2005]
+Power to pay certain commissions, and prohibition of payment of all other commissions, discounts, etc.
 
-69F\. [Repealed by Act 21 of 2005]
+67\. [Repealed byAct 21 of 2005]
+
+Power to issue shares at a discount
+
+68\. [Repealed byAct 21 of 2005]
+
+Issue of shares at premium
+
+69\. [Repealed byAct 21 of 2005]
+
+Relief from section 69
+
+69A\. [Repealed byAct 21 of 2005]
+
+Merger relief
+
+69B\. [Repealed byAct 21 of 2005]
+
+Relief from section 69 in respect of group reconstruction
+
+69C\. [Repealed byAct 21 of 2005]
+
+Retrospective relief from section 69 in certain circumstances
+
+69D\. [Repealed byAct 21 of 2005]
+
+Provisions supplementary to sections 69B and 69C
+
+69E\. [Repealed byAct 21 of 2005]
+
+Power to make provision extending or restricting relief from section 69
+
+69F\. [Repealed byAct 21 of 2005]
 
 ### Redeemable preference shares
 
@@ -4021,11 +4204,11 @@ the company shall lodge with the return a statement containing such particulars 
 
 [21/2005]
 
-(5) [Deleted by Act 21 of 2005]
+(5) [Deleted byAct 21 of 2005]
 
-(6) [Deleted by Act 21 of 2005]
+(6) [Deleted byAct 21 of 2005]
 
-(7) [Deleted by Act 21 of 2005]
+(7) [Deleted byAct 21 of 2005]
 
 (8) If a company redeems any redeemable preference shares it shall within 14 days after so doing give notice thereof to the Registrar specifying the shares redeemed.
 
@@ -4035,7 +4218,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 71\.—(1) A company, if so authorised by its articles, may in general meeting alter its share capital in any one or more of the following ways:
 
-(a) [Deleted by Act 21 of 2005]
+(a) [Deleted byAct 21 of 2005]
 
 (b) consolidate and divide all or any of its share capital;
 
@@ -4067,9 +4250,9 @@ the company shall lodge with the return a statement containing such particulars 
 
 ### Notice of increase of share capital
 
-(4) (Deleted by Act 21 of 2005)
+(4) [Deleted by Act 21 of 2005]
 
-(5) (Deleted by Act 21 of 2005)
+(5) [Deleted by Act 21 of 2005]
 
 [UK, 1948, ss. 61, 64; Aust., 1961, s. 62]
 
@@ -4083,7 +4266,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 Special resolution for reduction of share capital
 
-73\. [Repealed by Act 21 of 2005]
+73\. [Repealed byAct 21 of 2005]
 
 ### Rights of holders of classes of shares
 
@@ -5637,7 +5820,7 @@ Substantial shareholdings
 
 [21/2005]
 
-(5) (Deleted by Act 21 of 2005)
+(5) [Deleted by Act 21 of 2005]
 
 [Aust. 1961, s. 69C; Aust., 2001, s. 9]
 
@@ -5941,15 +6124,15 @@ the company shall have and shall be deemed always to have had power to reissue t
 
 Qualifications of trustee for debenture holders
 
-97\. [Repealed by S 236/2002]
+97\. [Repealed byS 236/2002]
 
 Retirement of trustees
 
-98\. [Repealed by S 236/2002]
+98\. [Repealed byS 236/2002]
 
 Contents of trust deed
 
-99\. [Repealed by S 236/2002]
+99\. [Repealed byS 236/2002]
 
 ### Power of Court in relation to certain irredeemable debentures
 
@@ -5969,9 +6152,29 @@ Contents of trust deed
 
 [Aust., 1961, s. 74c]
 
-101\. [Repealed by S 236/2002]
+Duties of trustees
 
-106\. [Repealed by S 236/2002]
+101\. [Repealed byS 236/2002]
+
+Powers of trustee to apply to Court for directions, etc.
+
+102\. [Repealed byS 236/2002]
+
+Obligations of borrowing corporation
+
+103\. [Repealed byS 236/2002]
+
+Obligation of guarantor corporation to furnish information
+
+104\. [Repealed byS 236/2002]
+
+Loans and deposits to be immediately repayable on certain events
+
+105\. [Repealed byS 236/2002]
+
+Liability of trustees for debenture holders
+
+106\. [Repealed byS 236/2002]
 
 Division 5A —
 
@@ -5987,9 +6190,53 @@ Divisions 1 and 5 in relation to
 
 Prospectus Requirements
 
-106A\. [Repealed by S 236/2002]
+Interpretation
 
-106L\. [Repealed by S 236/2002]
+106A\. [Repealed byS 236/2002]
+
+Offer made by or to certain persons or under certain circumstances
+
+106B\. [Repealed byS 236/2002]
+
+Offer made to certain institutions or persons
+
+106C\. [Repealed byS 236/2002]
+
+Offer to sophisticated investors
+
+106D\. [Repealed byS 236/2002]
+
+Circumstances in which a prospectus is not required on first sale of shares or debentures acquired pursuant to exemptions in section 106C or 106D
+
+106E\. [Repealed byS 236/2002]
+
+Stock exchange offer
+
+106F\. [Repealed byS 236/2002]
+
+Offer of international debentures
+
+106G\. [Repealed byS 236/2002]
+
+Offer of debentures made by the Government or international financial institutions
+
+106H\. [Repealed byS 236/2002]
+
+Reporting requirements
+
+106I\. [Repealed byS 236/2002]
+
+Revocation of exemption
+
+106J\. [Repealed byS 236/2002]
+
+Power to conduct investigations
+
+106K\. [Repealed byS 236/2002]
+
+Transactions under exempted offers subjects to Division II of Part XII of this Act and Part IX of Securities Industry Act
+
+106L\. [Repealed byS 236/2002]
 
 Division 6 —
 
@@ -6000,9 +6247,65 @@ Interests other than
 
 shares, debentures, etc.
 
-107\. [Repealed by S 236/2002]
+Interpretation of this Division
 
-120\. [Repealed by S 236/2002]
+107\. [Repealed byS 236/2002]
+
+Approved deeds
+
+108\. [Repealed byS 236/2002]
+
+Approval of deeds
+
+109\. [Repealed byS 236/2002]
+
+Approval of trustees
+
+110\. [Repealed byS 236/2002]
+
+Covenants to be included in deeds
+
+111\. [Repealed byS 236/2002]
+
+Interests to be issued by companies only
+
+112\. [Repealed byS 236/2002]
+
+Statement to be issued
+
+113\. [Repealed byS 236/2002]
+
+Restriction on issue, etc., of interest to public
+
+113A\. [Repealed byS 236/2002]
+
+No issue without approved deed
+
+114\. [Repealed byS 236/2002]
+
+Register of interest holders
+
+115\. [Repealed byS 236/2002]
+
+Returns, information, etc., relating to interests
+
+116\. [Repealed byS 236/2002]
+
+Penalty for contravention of Division, etc.
+
+117\. [Repealed byS 236/2002]
+
+Winding up of schemes, etc.
+
+118\. [Repealed byS 236/2002]
+
+Power to exempt from compliance with Division and non-application of Division in certain circumstances
+
+119\. [Repealed byS 236/2002]
+
+Non-application of Division to personal representatives, etc.
+
+120\. [Repealed byS 236/2002]
 
 Division 7 —
 
@@ -6170,12 +6473,12 @@ or may require the applicant to do both of those things.
 
 Division 7A —
 
-The Central Depository System
+The Central Depository System —
 
 
 
 
-— a book-entry or scripless system
+a book-entry or scripless system
 
 
 
@@ -6628,7 +6931,11 @@ Registration of charges
 
 (3B) A charge referred to in subsection (3) does not include a charge created at any time on or after the date of commencement of the International Interests in Aircraft Equipment Act 2009 to the extent that it is capable of being registered under that Act.
 
+[5/2009 wef 01/05/2009]
+
 (3C) In subsection (3B), “registered” has the same meaning as in section 2(1) of the International Interests in Aircraft Equipment Act 2009.
+
+[5/2009 wef 01/05/2009]
 
 (4) Where a charge created in Singapore affects property outside Singapore, the statement containing the prescribed particulars of the charge may be lodged for registration under and in accordance with subsection (1) notwithstanding that further proceedings may be necessary to make the charge valid or effectual according to the law of the place in which the property is situate.
 
@@ -6860,7 +7167,7 @@ he shall be guilty of an offence, and where he has signed, issued or authorised 
 
 ### Name to be displayed on all offices
 
-(3) (Deleted by Act 5 of 2004)
+(3) [Deleted by Act 5 of 2004]
 
 [UK, 1948, s. 108; Aust., 1961, s. 113]
 
@@ -6876,7 +7183,9 @@ Directors and officers
 
 (2) No person other than a natural person who has attained the age of 18 years and who is otherwise of full legal capacity shall be a director of a company.
 
-(3) [Deleted by Act 12 of 2002]
+[7/2009 wef 01/03/2009]
+
+(3) [Deleted byAct 12 of 2002]
 
 (4) Any provision in the memorandum or articles of a company which was in force immediately before 29th December 1967 and which operated to constitute a corporation as a director of the company shall be read and construed as if it authorised that corporation to appoint a natural person to be a director of that company.
 
@@ -6886,11 +7195,11 @@ Directors and officers
 
 [5/2004]
 
-(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54B, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 35ZJ or 41(1)(a)(ii) of the Insurance Act (Cap. 142), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ or 97 of the Securities and Futures Act (Cap. 289).
-
-[1/2007 wef 31/03/2007]
+(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54B, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ or 97 of the Securities and Futures Act (Cap. 289).
 
 [16/2011 wef 01/05/2011]
+
+[1/2007 wef 31/03/2007]
 
 [15/84; 42/2001; 12/2002; 1/2006; S227/95]
 
@@ -7492,19 +7801,19 @@ as the case requires.
 
 Substantial property transactions
 
-160A\. [Repealed by Act 38 of 1998]
+160A\. [Repealed byAct 38 of 1998]
 
 Exceptions from section 160A
 
-160B\. [Repealed by Act 38 of 1998]
+160B\. [Repealed byAct 38 of 1998]
 
 Liability arising from contravention of section 160A
 
-160C\. [Repealed by Act 38 of 1998]
+160C\. [Repealed byAct 38 of 1998]
 
 Interpretation
 
-160D\. [Repealed by Act 38 of 1998]
+160D\. [Repealed byAct 38 of 1998]
 
 ### Approval of company required for issue of shares by directors
 
@@ -7800,9 +8109,9 @@ whichever last occurs;
 
 [49/73]
 
-(8) Nothing in section 164 or this section requires a company to enter in its register or requires a director to give notice to the company of matters that are shown in the register kept by the company in accordance with the repealed section 1342as in force immediately before 5th October 1973.
+(8) Nothing in section 164 or this section requires a company to enter in its register or requires a director to give notice to the company of matters that are shown in the register kept by the company in accordance with the repealed section 134\*as in force immediately before 5th October 1973.
 
-2Section 134 of the Companies Act (1970 Ed. (Cap. 185)).
+\*Section 134 of the Companies Act (1970 Ed. (Cap. 185)).
 
 [49/73]
 
@@ -7824,7 +8133,7 @@ whichever last occurs;
 
 Prohibition of tax-free payments to directors
 
-167\. [Repealed by Act 13 of 1987]
+167\. [Repealed byAct 13 of 1987]
 
 ### Payments to director for loss of office, etc.
 
@@ -7992,13 +8301,13 @@ Provided that the office of secretary shall not be left vacant for more than 6 m
 
 a return in the prescribed form notifying the Registrar of that fact and containing, with respect to that person, the particulars required to be specified in the register;
 
-(b) [Deleted by Act 12 of 2002]
+(b) [Deleted byAct 12 of 2002]
 
 (c) within one month after a person becomes a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact and specifying the full name and address of that person;
 
 (d) within one month after a person ceases to be a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact;
 
-(e) [Deleted by Act 28 of 1994]
+(e) [Deleted byAct 28 of 1994]
 
 (f) within one month of any change in the name, identification or nationality of any director, manager or secretary, a notice in the prescribed form notifying the Registrar of the new name, identification or nationality of that person.
 
@@ -8050,7 +8359,7 @@ Meetings and proceedings
 
 Interpretation of this Division
 
-173A\. [Repealed by Act 5 of 2004]
+173A\. [Repealed byAct 5 of 2004]
 
 ### Statutory meeting and statutory report
 
@@ -8194,7 +8503,7 @@ Interpretation of this Division
 
 (4) So far as the articles do not make other provision in that behalf notice of every meeting shall be served on every member having a right to attend and vote thereat in the manner in which notices are required to be served by Table A.
 
-(5) (Deleted by Act 40 of 1989)
+(5) [Deleted by Act 40 of 1989]
 
 [UK, 1948, ss. 133, 134; Aust., 1961, s. 138]
 
@@ -8914,7 +9223,7 @@ Annual return
 
 [12/2002]
 
-(6) [Deleted by Act 12 of 2002]
+(6) [Deleted byAct 12 of 2002]
 
 (7) If a company fails to comply with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
@@ -8924,7 +9233,7 @@ Annual return
 
 Exemption from filing list of members with annual return for certain public companies
 
-198\. [Repealed by Act 12 of 2002]
+198\. [Repealed byAct 12 of 2002]
 
 ## PART VI
 
@@ -8941,6 +9250,8 @@ Accounts
 [40/89]
 
 (2) The company shall retain the records referred to in subsection (1) for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those records relate are completed.
+
+[2/2007 wef 01/03/2007]
 
 (2A) Every public company and every subsidiary of a public company shall devise and maintain a system of internal accounting controls sufficient to provide a reasonable assurance that —
 
@@ -9018,13 +9329,13 @@ Accounts
 
 201\.—(1) The directors of every company shall, at a date not later than 18 months after the incorporation of the company and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the company at its annual general meeting a profit and loss account for the period since the preceding account (or in the case of the first account, since the incorporation of the company) made up to a date —
 
-(a) in the case of a public company listed or quoted on a securities exchange in Singapore, not more than 43months before the date of the meeting;
+(a) in the case of a public company listed or quoted on a securities exchange in Singapore, not more than 4\*months before the date of the meeting;
 
-3The Minister has specified the period of “4 months” in substitution of the period of “5 months” referred to in section 201(1)(a) (S 684/2002 — 1st January 2003).
+\*The Minister has specified the period of “4 months” in substitution of the period of “5 months” referred to in section 201(1)(a) (S 684/2002 — 1st January 2003).
 
 (b) in the case of any other company, not more than 6 months before the date of the meeting.
 
-[36/2000; 42/2001; S684/2002]
+[36/2000; 42/2001; S 684/2002]
 
 (1A) Subject to subsections (14) to (14C), the profit and loss account referred to in subsection (1) shall comply with the requirements of the Accounting Standards, and give a true and fair view of the profit and loss of the company for the period of accounting as shown in the accounting and other records of the company.
 
@@ -9102,13 +9413,37 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (a) the names of the directors in office at the date of the report;
 
-(b) to (e) (Deleted by Act 12 of 2002)
+(b) [Deleted by Act 12 of 2002]
+
+(c) [Deleted by Act 12 of 2002]
+
+(d) [Deleted by Act 12 of 2002]
+
+(e) [Deleted by Act 12 of 2002]
 
 (f) whether at the end of that financial year, there subsist arrangements to which the company is a party, being arrangements whose objects are, or one of whose objects is, to enable directors of the company to acquire benefits by means of the acquisition of shares in, or debentures of, the company or any other body corporate, or there have, at any time in that year, subsisted such arrangements as aforesaid to which the company was a party, and if so the report shall contain a statement explaining the effect of the arrangements and giving the names of the persons who at any time in that year were directors of the company and held, or whose nominees held, shares or debentures acquired in pursuance of the arrangements; and
 
 (g) as respects each person who, at the end of the financial year, was a director of the company, whether or not (according to the register kept by the company for the purposes of section 164 relating to the obligation of a director of a company to notify it of his interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company) he was, at the end of that year, interested in shares in, or debentures of, the company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was then interested and whether or not, according to that register, he was, at the beginning of that year (or, if he was not then a director, when he became a director), interested in shares in, or debentures of, the company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was interested at the beginning of that year or, as the case may be, when he became a director.
 
-(h) to (q) (Deleted by Act 12 of 2002)
+(h) [Deleted by Act 12 of 2002]
+
+(i) [Deleted by Act 12 of 2002]
+
+(j) [Deleted by Act 12 of 2002]
+
+(k) [Deleted by Act 12 of 2002]
+
+(l) [Deleted by Act 12 of 2002]
+
+(m) [Deleted by Act 12 of 2002]
+
+(n) [Deleted by Act 12 of 2002]
+
+(o) [Deleted by Act 12 of 2002]
+
+(p) [Deleted by Act 12 of 2002]
+
+(q) [Deleted by Act 12 of 2002]
 
 [62/70; 12/2002]
 
@@ -9116,13 +9451,39 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (a) the names of the directors of the holding company in office at the date of the report;
 
-(b) to (f) (Deleted by Act 12 of 2002)
+(b) [Deleted by Act 12 of 2002]
+
+(c) [Deleted by Act 12 of 2002]
+
+(d) [Deleted by Act 12 of 2002]
+
+(e) [Deleted by Act 12 of 2002]
+
+(f) [Deleted by Act 12 of 2002]
 
 (g) whether at the end of that financial year, there subsist arrangements to which the holding company is a party, being arrangements whose objects are, or one of whose objects is, to enable directors of the holding company to acquire benefits by means of the acquisition of shares in, or debentures of, the company or any other body corporate, or there have, at any time in that year, subsisted such arrangements as aforesaid to which the holding company was a party, and if so the report shall contain a statement explaining the effect of the arrangements and giving the names of the persons who at any time in that year were directors of the holding company and held, or whose nominees held, shares or debentures acquired in pursuance of the arrangements; and
 
 (h) as respects each person who, at the end of the financial year, was a director of the holding company, whether or not (according to the register kept by the company for the purposes of section 164 relating to the obligation of a director of a company to notify it of his interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company) he was, at the end of that year, interested in shares in, or debentures of, the holding company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was then interested and whether or not, according to that register, he was, at the beginning of that year (or, if he was not then a director, when he became a director), interested in shares in, or debentures of, the holding company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was interested at the beginning of that year or, as the case may be, when he became a director.
 
-(i) to (r) (Deleted by Act 12 of 2002)
+(i) [Deleted by Act 12 of 2002]
+
+(j) [Deleted by Act 12 of 2002]
+
+(k) [Deleted by Act 12 of 2002]
+
+(l) [Deleted by Act 12 of 2002]
+
+(m) [Deleted by Act 12 of 2002]
+
+(n) [Deleted by Act 12 of 2002]
+
+(o) [Deleted by Act 12 of 2002]
+
+(p) [Deleted by Act 12 of 2002]
+
+(q) [Deleted by Act 12 of 2002]
+
+(r) [Deleted by Act 12 of 2002]
 
 [13/87; 12/2002]
 
@@ -9148,7 +9509,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (11) Where any option has been granted by a company, other than a holding company for which consolidated accounts are required during the period covered by the profit and loss account to take up unissued shares of a company, the report required by subsection (5) shall state —
 
-(a) [Deleted by Act 22 of 1993]
+(a) [Deleted byAct 22 of 1993]
 
 (b) the number and class of shares in respect of which the option has been granted;
 
@@ -9176,7 +9537,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [49/73]
 
-(13) [Deleted by Act 22 of 1993]
+(13) [Deleted byAct 22 of 1993]
 
 (14) The accounts or consolidated accounts of a company need not comply with any requirement of the Accounting Standards for the purposes of subsection (1), (3) or (3A), if the company has obtained the approval of the Registrar to such non-compliance.
 
@@ -9210,7 +9571,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [12/2002]
 
-(16) [Deleted by Act 13 of 1987]
+(16) [Deleted byAct 13 of 1987]
 
 (17) Any document (other than a balance-sheet prepared in accordance with this Act) or advertisement published, issued or circulated by or on behalf of a company (other than a banking corporation) shall not contain any direct or indirect representation that the company has any reserve unless the representation is accompanied —
 
@@ -9234,9 +9595,11 @@ are prepared in accordance with that Act.
 
 [34/2010 wef 01/03/2011]
 
+[39/2007 wef 01/11/2007]
+
 Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries
 
-201A\. [Repealed by Act 5 of 2004]
+201A\. [Repealed byAct 5 of 2004]
 
 ### Audit committees
 
@@ -9678,7 +10041,7 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
 
-(c) [Deleted by Act 5 of 2004]
+(c) [Deleted byAct 5 of 2004]
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
@@ -9800,9 +10163,9 @@ he shall immediately report the matter in writing to the Registrar.
 
 Application of amendments made to sections 201 to 204 and 207 and new sections 201A and 209A
 
-209B\. 4[Repealed by Act 5 of 2004]
+209B\. \*[Repealed byAct 5 of 2004]
 
-4This section was section 42 of the Companies (Amendment) Act 1987 (Act 13 of 1987).
+\*This section was section 42 of the Companies (Amendment) Act 1987 (Act 13 of 1987).
 
 ## PART VII
 
@@ -9823,15 +10186,19 @@ AND AMALGAMATIONS
 
 (3A) Where the company is a banking corporation or registered insurer, as the case may be, the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186) shall have the same powers and rights as a creditor of the company under the Companies Act including the right to appear and be heard before a Court in any proceedings under this section, but shall not have the right to vote at any meeting summoned under this section.
 
-[1/2007 wef 31/03/2007]
-
 [16/2011 wef 01/05/2011]
+
+[1/2007 wef 31/03/2007]
 
 (4) Subject to subsection (4A), the Court may grant its approval to a compromise or arrangement subject to such alterations or conditions as it thinks just.
 
 [1/2007 wef 31/03/2007]
 
-(4A) The Court shall not approve any compromise or arrangement which has been proposed for the purposes of or in connection with any scheme referred to in section 212(1) under which the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore is to be transferred, unless the Minister charged with the responsibility for banking matters has consented to the compromise or arrangement or has certified that his consent is not required.
+(4A) The Court shall not approve any compromise or arrangement which has been proposed for the purposes of or in connection with any scheme referred to in section 212(1) under which the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or registered insurer incorporated in Singapore is to be transferred, unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the compromise or arrangement or has certified that his consent is not required.
+
+[16/2011 wef 01/05/2011]
+
+[1/2007 wef 31/03/2007]
 
 (5) An order under subsection (3) shall have no effect until a copy of the order is lodged with the Registrar, and upon being so lodged, the order shall take effect on and from the date of lodgment or such earlier date as the Court may determine and as may be specified in the order.
 
@@ -9903,7 +10270,11 @@ AND AMALGAMATIONS
 
 (f) such incidental, consequential and supplemental matters as are necessary to secure that the reconstruction or amalgamation shall be fully and effectively carried out.
 
-(1A) Without prejudice to section 210(4A), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore unless the Minister charged with the responsibility for banking matters has consented to the transfer or has certified that his consent is not required.
+(1A) Without prejudice to section 210(4A), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or registered insurer incorporated in Singapore unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the transfer or has certified that his consent is not required.
+
+[16/2011 wef 01/05/2011]
+
+[1/2007 wef 31/03/2007]
 
 (2) Where an order made under this section provides for the transfer of property or liabilities, then by virtue of the order that property shall be transferred to and vest in, and those liabilities shall be transferred to and become the liabilities of, the transferee company, free in the case of any particular property if the order so directs, from any charge which is by virtue of the compromise or arrangement to cease to have effect.
 
@@ -9931,11 +10302,11 @@ and every company which makes default in complying with this section and every o
 
 Take-over offers
 
-213\. [Repealed by S 675/2001]
+213\. [Repealed byS 675/2001]
 
 Variation of take-over offers
 
-214\. [Repealed by S 675/2001]
+214\. [Repealed byS 675/2001]
 
 ### Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority
 
@@ -11477,7 +11848,7 @@ INVESTIGATIONS
 
 Investigation by resolution of company
 
-234\. [Repealed by Act 13 of 1987]
+234\. [Repealed byAct 13 of 1987]
 
 ### Investigation of affairs of related corporation
 
@@ -11874,6 +12245,8 @@ or of any 2 or more of those parties.
 (j) the company has held a licence under any written law relating to banking, and that licence has been revoked or has expired and has not been renewed;
 
 (k) the company is carrying on or has carried on banking business in Singapore in contravention of the provisions of any written law relating to banking;
+
+[1/2007 wef 31/03/2007]
 
 (l) the company has carried on multi-level marketing or pyramid selling in contravention of any written law that prohibits multi-level marketing or pyramid selling; or
 
@@ -12342,6 +12715,10 @@ appointed by the meetings of creditors and contributories in such proportions as
 (9) The continuing members of the committee if not less than 2 may act notwithstanding any vacancy in the committee.
 
 [UK, 1948, s. 253; Aust., 1961, s. 242]
+
+(10) In this section, “general power of attorney” includes a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+[22/2008 wef 01/03/2008]
 
 Subdivision (4) — General powers of Court
 
@@ -13161,6 +13538,8 @@ Subdivision (2) — Proof and ranking of claims
 
 (a) paragraph (d) of that subsection shall not apply in relation to the winding up of a company in any case where the company is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another company and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the company has entered into a contract with an insurer in respect of any liability under any law relating to work injury compensation; and
 
+[5/2008 wef 01/04/2008]
+
 (b) where a company has given security for the payment or repayment of any amount to which paragraph (g) of that subsection relates, that paragraph shall apply only in relation to the balance of any such amount remaining due after deducting therefrom the net amount realised from such security.
 
 [22/93]
@@ -13638,15 +14017,51 @@ and every contributory shall be liable to contribute to the assets of the compan
 
 ## PART XI
 
-VARIOUS TYPES OF COMPANIES, ETC
+VARIOUS TYPES OF COMPANIES, ETC.
 
 Division 1 —
 
 Investment companies
 
-355\. [Repealed by Act 8 of 2003]
+Interpretation of this Division
 
-364\. [Repealed by Act 8 of 2003]
+355\. [Repealed byAct 8 of 2003]
+
+Restriction on borrowing by investment companies
+
+356\. [Repealed byAct 8 of 2003]
+
+Restriction on investments of investment companies
+
+357\. [Repealed byAct 8 of 2003]
+
+Restriction on underwriting by investment companies
+
+358\. [Repealed byAct 8 of 2003]
+
+Special requirements as to articles and prospectus
+
+359\. [Repealed byAct 8 of 2003]
+
+Not to hold shares in other investment companies
+
+360\. [Repealed byAct 8 of 2003]
+
+Not to speculate in commodities
+
+361\. [Repealed byAct 8 of 2003]
+
+Balance-sheets and accounts
+
+362\. [Repealed byAct 8 of 2003]
+
+Investment fluctuation reserve
+
+363\. [Repealed byAct 8 of 2003]
+
+Penalties
+
+364\. [Repealed byAct 8 of 2003]
 
 Division 2 —
 
@@ -13716,7 +14131,7 @@ Foreign companies
 
 (f) notice of the situation of its registered office in Singapore and, unless the office is open and accessible to the public during ordinary business hours on each business day, the days and hours during which it is open and accessible to the public,
 
-(g) [Deleted by Act 12 of 2002]
+(g) [Deleted byAct 12 of 2002]
 
 and on payment of the appropriate fees and subject to this Act the Registrar shall register the company under this Division by registration of the documents.
 
@@ -13880,7 +14295,7 @@ Provided that —
 
 As to fee payable on registration of foreign company because of establishment of a share register in Singapore
 
-374\. [Repealed by Act 12 of 2002]
+374\. [Repealed byAct 12 of 2002]
 
 ### Obligation to state name of foreign company, whether limited, and country where incorporated
 
@@ -14338,7 +14753,7 @@ Offences
 
 Restriction on offering shares, debentures, etc., for subscription or purchase
 
-400\. [Repealed by S 236/2002]
+400\. [Repealed byS 236/2002]
 
 ### False and misleading statement
 
@@ -14422,9 +14837,9 @@ relating to the affairs of the corporation, shall be guilty of an offence and sh
 
 404\. 
 
-—(1) [Deleted by Act 42 of 2001]
+—(1) [Deleted byAct 42 of 2001]
 
-(2) (Deleted by Act 42 of 2001)
+(2) [Deleted by Act 42 of 2001]
 
 ### Obtaining payment of moneys, etc., to company by false promise of officer or agent of company
 
@@ -14514,7 +14929,9 @@ shall be guilty of an offence.
 
 409\.—(1) Except where provision is otherwise made in this Act, proceedings for any offence under this Act may, with the authorisation of the Public Prosecutor, be taken by the Registrar or with the written consent of the Minister by any person.
 
-(2) [Deleted by Act 36 of 2000]
+[15/2010 wef 02/01/2011]
+
+(2) [Deleted byAct 36 of 2000]
 
 (3) Proceedings for any offence under this Act, other than an offence punishable with imprisonment for a term exceeding 6 months, may be prosecuted in a Magistrate’s Court and in the case of an offence punishable with imprisonment for a term of 6 months or more may be prosecuted in a District Court.
 
@@ -14584,7 +15001,7 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
 Investigations by Commercial Affairs Department
 
-409B\. [Repealed by Act 39 of 1999]
+409B\. [Repealed byAct 39 of 1999]
 
 Division 3 —
 
@@ -14612,7 +15029,7 @@ Miscellaneous
 
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
 
-(ba) [Deleted by Act 42 of 2001);]
+(ba) [Deleted byAct 42 of 2001]
 
 (c) the lodging or registration of documents and the time and manner of submission of documents for lodging or registration;
 
@@ -14660,7 +15077,7 @@ The whole.
 
 SECOND SCHEDULE
 
-Sections 8(5) and (6), 9 (2), 205B(3) and 411
+Sections 8(5) and (6), 9(2), 205B(3) and 411
 
 Fees to be Paid to the Registrar
 
@@ -14676,7 +15093,7 @@ Incorporation of Company
 
 1.
 
-27 (10), (11) and (12) and 28(2)
+27(10), (11) and (12) and 28(2)
 
 Application for reservation of name or approval of change of name
 (applicable to both companies and foreign companies)
@@ -14685,7 +15102,7 @@ $15 upon approval of each name
 
 2.
 
-27 (10), (11) and (12) and 28(2)
+27(10), (11) and (12) and 28(2)
 
 Appeal for approval of name application or appeal for change of name
 (applicable to both companies and foreign companies)
@@ -14694,7 +15111,7 @@ $15 per appeal
 
 3.
 
-27 (13)
+27(13)
 
 Application for extension of reservation period for approved name
 (applicable to both companies and foreign companies)
@@ -14727,7 +15144,7 @@ $300
 
 7.
 
-61 (2) (a) and (c)
+61(2)(a) and (c)
 
 Lodgment of statement in lieu of prospectus and lodgment of declaration of compliance by company that has not issued prospectus
 
@@ -14737,7 +15154,7 @@ Company particulars (including changes to particulars)
 
 8.
 
-26 (2) and 28(2)
+26(2) and 28(2)
 
 Lodgment of notice of resolution for change of company name
 
@@ -14753,7 +15170,7 @@ $10
 
 10.
 
-143 (1) and 372(1)(d)
+143(1) and 372(1)(d)
 
 Lodgment of notice of change of situation of registered office or of office hours
 (applicable to both companies and foreign companies)
@@ -14762,7 +15179,7 @@ $10
 
 11.
 
-196 (2) and (8) and 379(6) and (7)
+196(2) and (8) and 379(6) and (7)
 
 Lodgment of notice of situation of the office where a branch register of members is kept, or of change in situation or discontinuance
 (applicable to both companies, foreign companies and foreign entities)
@@ -14771,7 +15188,7 @@ $10
 
 12.
 
-35 (5) and 372(3)
+35(5) and 372(3)
 
 Lodgment of notice of change in number of members
 (applicable to both companies and foreign companies)
@@ -14780,7 +15197,7 @@ $10
 
 13.
 
-30 (2)
+30(2)
 
 Application for conversion from an unlimited company to a company limited by shares under section 30(1)(a)
 
@@ -14788,7 +15205,7 @@ $30
 
 14.
 
-30 (2)
+30(2)
 
 Application for conversion from an unlimited company to a company limited by guarantee under section 30(1)(a)
 
@@ -14796,7 +15213,7 @@ $30
 
 15.
 
-30 (2)
+30(2)
 
 Application for conversion from a limited company to an unlimited company under section 30(1)(b)
 
@@ -14804,7 +15221,7 @@ $30
 
 16.
 
-31 (1)
+31(1)
 
 Application for conversion from a public company to a private company limited by shares
 
@@ -14812,7 +15229,7 @@ $30
 
 17.
 
-31 (2)
+31(2)
 
 Application for conversion from a private company to a public company limited by shares
 
@@ -14820,7 +15237,7 @@ $30
 
 18.
 
-26 (2) and 34
+26(2) and 34
 
 Lodgment of resolution, order of Court, or other document affecting the memorandum of a company
 
@@ -14828,7 +15245,7 @@ $10
 
 19.
 
-33 (9)
+33(9)
 
 Lodgment of resolution for alteration of objects in memorandum of company
 
@@ -14836,11 +15253,11 @@ $10
 
 20.
 
-(Deleted by S 55/2005)
+[Deleted by S 55/2005]
 
 21.
 
-71 (1A)
+71(1A)
 
 Lodgment of notice of alteration to share capital
 
@@ -14848,7 +15265,7 @@ $10
 
 22.
 
-372 (2)
+372(2)
 
 Lodgment of notice of increase in authorised share capital
 
@@ -14856,7 +15273,7 @@ $10
 
 23.
 
-31 (3A) and 128A
+31(3A) and 128A
 
 Lodgment of notice of list of shareholders or transfer of shares
 
@@ -14864,7 +15281,7 @@ $10
 
 24.
 
-70 (8)
+70(8)
 
 Lodgment of notice of redemption of redeemable preference shares
 
@@ -14872,7 +15289,7 @@ $10
 
 25.
 
-76 (9A) (g) and (9B) (f) and 76(10)(c) and (e)
+76(9A)(g) and (9B)(f) and 76(10)(c) and (e)
 
 Lodgment of notice of resolution, or notice of intention to propose special resolution, to give financial assistance for the acquisition of shares or units of shares in company
 
@@ -14880,7 +15297,7 @@ $10
 
 26.
 
-93 (2)
+93(2)
 
 Lodgment of notice of place or change of place where register of holders of debentures is kept
 
@@ -14888,7 +15305,7 @@ $10
 
 27.
 
-191 (2)
+191(2)
 
 Lodgment of notice of place or change of place where register of members and index is kept
 
@@ -14896,7 +15313,7 @@ $10
 
 28.
 
-179 (7)
+179(7)
 
 Lodgment of copy of minute by representative of holding company relating to proceedings of subsidiary company
 
@@ -14904,7 +15321,7 @@ $10
 
 29.
 
-174 (5)
+174(5)
 
 Lodgment of statutory report of public company
 
@@ -14912,7 +15329,7 @@ $10
 
 30.
 
-61 (1) (b) (iii)
+61(1)(b) (iii)
 
 Lodgment of notice of compliance by company that has issued prospectus
 
@@ -14920,7 +15337,7 @@ $10
 
 31.
 
-76B (9)
+76B(9)
 
 Lodgment of notice of purchase or acquisition of ordinary shares or stocks
 
@@ -14928,7 +15345,7 @@ $10
 
 32.
 
-76B (9)
+76B(9)
 
 Lodgment of notice of purchase or acquisition of preference shares
 
@@ -14936,7 +15353,7 @@ $10
 
 33.
 
-63 (1) and (5)
+63(1) and (5)
 
 Lodgment of return of allotment of shares
 
@@ -14944,7 +15361,7 @@ $10
 
 34.
 
-173 (6)
+173(6)
 
 Lodgment of notice of appointment, cessation of appointment or change of particulars of a company’s director, manager, secretary or auditor
 
@@ -14952,7 +15369,7 @@ $10
 
 35.
 
-173 (6A)
+173(6A)
 
 Lodgment of notice of cessation of appointment of director by that director
 
@@ -14962,7 +15379,7 @@ Treasury shares
 
 35A.
 
-76K (5)
+76K(5)
 
 Lodgment of notice of cancellation or disposal of treasury shares
 
@@ -14970,7 +15387,7 @@ $10
 
 35B.
 
-78C (3) (c)
+78C(3)(c)
 
 Lodgment of copy of solvency statement together with special resolution
 
@@ -14978,7 +15395,7 @@ $10
 
 35C.
 
-78D (4) (b)
+78D(4)(b)
 
 Giving of notice of creditor’s application to the Court for cancellation of special resolution
 
@@ -14986,7 +15403,7 @@ $10
 
 35D.
 
-78E (1) (ii)
+78E(1)(ii)
 
 Lodgment of copy of solvency statement, directors’ statement and notice containing reduction information
 
@@ -14994,7 +15411,7 @@ $30
 
 35E.
 
-78E (2) (i) and (ii)
+78E(2)(i) and (ii)
 
 Lodgment of directors’ statement and notice containing reduction information
 
@@ -15002,7 +15419,7 @@ $30
 
 35F.
 
-78E (3) (iii)
+78E(3)(iii)
 
 Lodgment of directors’ statement, copy of order of Court and notice containing reduction information
 
@@ -15010,7 +15427,7 @@ $30
 
 35G.
 
-78E (4) (iii)
+78E(4)(iii)
 
 Lodgment of directors’ statement, copy of order of Court and notice containing reduction information
 
@@ -15018,7 +15435,7 @@ $30
 
 35H.
 
-78F (4)
+78F(4)
 
 Lodgment of notice of order of Court cancelling special resolution
 
@@ -15026,7 +15443,7 @@ $10
 
 35I.
 
-78I (3)
+78I(3)
 
 Lodgment of copy of order of Court and notice containing reduction information
 
@@ -15034,7 +15451,7 @@ $30
 
 35J.
 
-78I (3)
+78I(3)
 
 Application for extension of time to lodge copy of order of Court and notice containing reduction information
 
@@ -15042,7 +15459,7 @@ $30
 
 35K.
 
-78B (1) (c) and 78C(1)(c) and regulation 6 of the Companies Regulations (Rg 1)
+78B(1)(c) and 78C(1)(c) and regulation 6 of the Companies Regulations (Rg 1)
 
 Lodgment of documents for purposes of publicity requirements
 
@@ -15052,15 +15469,19 @@ Amalgamation
 
 35L.
 
-215E (1)
+215E(1)
 
 Registration of amalgamation —
 
-(a) where the amalgamated company is the same as one of the amalgamating companies; or
+(a)
+
+where the amalgamated company is the same as one of the amalgamating companies; or
 
 $400
 
-(b) where the amalgamated company is a new company
+(b)
+
+where the amalgamated company is a new company
 
 $700
 
@@ -15068,7 +15489,7 @@ Lodgment of statement relating to charges for registration
 
 36.
 
-131 (1)
+131(1)
 
 Lodgment of statement containing particulars of charge
 
@@ -15076,7 +15497,7 @@ $60
 
 37.
 
-131 (5)
+131(5)
 
 Lodgment of statement containing particulars of a series of debentures
 
@@ -15084,7 +15505,7 @@ $60
 
 38.
 
-131 (6)
+131(6)
 
 Lodgment of statement containing particulars of an issue of debentures where there is more than one issue of debenture in a series of debentures
 
@@ -15092,7 +15513,7 @@ $60
 
 39.
 
-133 (1) and 141
+133(1) and 141
 
 Lodgment of statement of particulars in respect of property acquired by company or registered foreign company while the property is subject to charge
 
@@ -15100,7 +15521,7 @@ $60
 
 40.
 
-133 (1)
+133(1)
 
 Lodgment of statement in respect of charge created by foreign company before registration of foreign company in Singapore
 
@@ -15108,7 +15529,7 @@ $60
 
 41.
 
-133 (1)
+133(1)
 
 Lodgment of statement of particulars in respect of property acquired by foreign company while the property is subject to a charge before registration of foreign company in Singapore
 
@@ -15116,7 +15537,7 @@ $60
 
 42.
 
-Regulation 40, Companies (Filing of Documents) Regulations (Rg 7)
+regulation 40, Companies (Filing of Documents) Regulations (Rg 7)
 
 Lodgment of form reporting variation of charges
 
@@ -15124,7 +15545,7 @@ $10
 
 43.
 
-136 (1)
+136(1)
 
 Lodgment of satisfaction of charges
 
@@ -15142,7 +15563,7 @@ Annual filing of forms and documents by company
 
 45.
 
-197 (1) and Eighth Schedule
+197(1) and Eighth Schedule
 
 Lodgment of annual return by company having a share capital
 
@@ -15150,7 +15571,7 @@ $20
 
 46.
 
-197 (5)
+197(5)
 
 Lodgment of annual return by company not having a share capital
 
@@ -15158,15 +15579,15 @@ $20
 
 47.
 
-Deleted by S 604/2007, wef 05/11/2007
+[Deleted by S 604/2007, wef 05/11/2007]
 
 48.
 
-Deleted by S 604/2007, wef 05/11/2007
+[Deleted by S 604/2007, wef 05/11/2007]
 
 49.
 
-201 (2)
+201(2)
 
 Application for extension of time for period of accounts
 
@@ -15174,7 +15595,7 @@ Up to $150
 
 50.
 
-175 (2)
+175(2)
 
 Application for extension of time to hold AGM
 
@@ -15182,7 +15603,7 @@ Up to $150
 
 51.
 
-202 (1)
+202(1)
 
 Application for relief from requirements as to form and content of accounts and reports
 
@@ -15192,7 +15613,7 @@ Winding up, receivership and judicial management of company
 
 52.
 
-223 (1) (c), 227L(6), 270(1) and regulation 8 Companies (Filing of Documents) Regulations (Rg 7)
+223(1)(c), 227L(6), 270(1) and regulation 8 Companies (Filing of Documents) Regulations (Rg 7)
 
 Lodgment of statement of affairs and affidavit verifying statement of affairs
 
@@ -15200,7 +15621,7 @@ $10
 
 53.
 
-221 (1)
+221(1)
 
 Lodgment of notice of appointment of receiver or manager
 
@@ -15208,7 +15629,7 @@ $10
 
 54.
 
-221 (2)
+221(2)
 
 Lodgment of notice by receiver or manager of cessation of office
 
@@ -15216,7 +15637,7 @@ $10
 
 55.
 
-225 (1) (a) (i)
+225(1)(a)(i)
 
 Lodgment of account of receipts and payments by receiver or manager
 
@@ -15232,7 +15653,7 @@ $10
 
 57.
 
-227H (7) and regulation 29 Companies (Filing of Documents) Regulations
+227H(7) and regulation 29 Companies (Filing of Documents) Regulations
 
 Lodgment of notice of judicial management order and copy of judicial management order
 
@@ -15248,7 +15669,7 @@ $10
 
 59.
 
-227M (1), 227P(2) and regulation 27 Companies (Filing of Documents) Regulations
+227M(1), 227P(2) and regulation 27 Companies (Filing of Documents) Regulations
 
 Lodgment of proposal or revised proposal by judicial manager
 
@@ -15256,7 +15677,7 @@ $10
 
 60.
 
-227N (3) and 227P(5)
+227N(3) and 227P(5)
 
 Lodgment of notice of report of result of meeting of creditors on proposals or revised proposals of judicial manager
 
@@ -15264,7 +15685,7 @@ $10
 
 61.
 
-291 (1)
+291(1)
 
 Lodgment of declaration by directors of company’s inability to continue business by reasons of its liabilities
 
@@ -15272,7 +15693,7 @@ $10
 
 62.
 
-293 (3) (c)
+293(3)(c)
 
 Lodgment of declaration of solvency
 
@@ -15280,7 +15701,7 @@ $10
 
 63.
 
-295 (4)
+295(4)
 
 Lodgment of notice of holding of meeting of creditors
 
@@ -15288,7 +15709,7 @@ $10
 
 64.
 
-262 (1)
+262(1)
 
 Lodgment of notice of winding up order and particulars of the liquidator
 
@@ -15296,7 +15717,7 @@ $10
 
 65.
 
-262 (2)
+262(2)
 
 Lodgment of a copy of winding up order
 
@@ -15304,7 +15725,7 @@ $10
 
 66.
 
-308 (3) and (4)
+308(3) and (4)
 
 Lodgment of return by liquidator relating to final meeting
 
@@ -15344,7 +15765,7 @@ $10
 
 71.
 
-344 (1) and 377(6)
+344(1) and 377(6)
 
 Application for striking off
 (applicable to both companies and foreign companies)
@@ -15353,21 +15774,25 @@ $35
 
 72.
 
+343(2)
+
+344(5) and 377
+
 Lodgment of order of Court for reinstatement of company which has been —
+
+(a)
+
+dissolved; or
+
+(b)
+
+struck off (applicable to both companies and foreign companies)
 
 $10
 
-343 (2)
-
-(a) dissolved; or
-
-344 (5) and 377
-
-(b) struck off (applicable to both companies and foreign companies)
-
 73.
 
-344 (2) and 377(6)
+344(2) and 377(6)
 
 Lodgment of objections to striking off
 (applicable to both companies and foreign companies)
@@ -15398,13 +15823,17 @@ Registration of foreign company
 
 Registration of foreign company
 
-(a) $300 for foreign company having a share capital
+(a)
 
-(b) $1,200 for foreign company not having a share capital
+$300 for foreign company having a share capital
+
+(b)
+
+$1,200 for foreign company not having a share capital
 
 77
 
-Regulation 21 (1) and (3) Companies (Filing of Documents) Regulations (Rg 7)
+Regulation 21(1) and (3) Companies (Filing of Documents) Regulations (Rg 7)
 
 Application for extension of time to lodge any document required for the registration of a foreign company
 
@@ -15414,7 +15843,7 @@ Changes to particulars of foreign company
 
 78.
 
-372 (1) (f)
+372(1)(f)
 
 Lodgment of notice of change of name of foreign company
 
@@ -15422,7 +15851,7 @@ $10
 
 79.
 
-368 (1) (c) and 372(1)(b)
+368(1)(c) and 372(1)(b)
 
 Lodgment of return of particulars or change or alteration in particulars of directors
 
@@ -15430,7 +15859,7 @@ $10
 
 80.
 
-370 (3) and 372(1)(c)
+370(3) and 372(1)(c)
 
 Lodgment of notice of change or alteration in particulars of agent or appointment or cessation of agent of foreign company
 
@@ -15438,7 +15867,7 @@ $10
 
 81.
 
-372 (1) (e)
+372(1)(e)
 
 Lodgment of notice of change or alteration of address of registered office of foreign company in its place of incorporation or origin
 
@@ -15446,7 +15875,7 @@ $10
 
 82.
 
-372 (1) (a)
+372(1)(a)
 
 Lodgment of notice of change or alteration in the charter, statute, memorandum or articles or other instruments of foreign company
 
@@ -15454,7 +15883,7 @@ $10
 
 83.
 
-372 (1) (g)
+372(1)(g)
 
 Lodgment of notice of change or alteration in the powers of the resident directors of foreign company
 
@@ -15462,7 +15891,7 @@ $10
 
 84.
 
-372 (1), (2) and (4)
+372(1), (2) and (4)
 
 Application for extension of time to lodge any particulars of change or alteration and such documents as the regulations require
 
@@ -15472,7 +15901,7 @@ Annual filing of forms and documents by foreign company
 
 85.
 
-373 (1), (2), (4) and (5)
+373(1), (2), (4) and (5)
 
 Lodgment of balance-sheet and accompanying documents
 
@@ -15480,7 +15909,7 @@ $10
 
 86.
 
-201 (2) and 373(4)
+201(2) and 373(4)
 
 Application for extension of time for lodgment of balance- sheet and accompanying documents
 
@@ -15488,7 +15917,7 @@ $30
 
 87.
 
-373 (7)
+373(7)
 
 Application for relief from requirements as to form and content of accounts and reports
 
@@ -15496,7 +15925,7 @@ $30
 
 88.
 
-373 (5) (b)
+373(5)(b)
 
 Application for waiver to lodge annual filing of forms and documents relating to the operations of foreign company in Singapore
 
@@ -15506,7 +15935,7 @@ Winding up, receivership and judicial management of foreign company
 
 89.
 
-377 (1)
+377(1)
 
 Lodgment of notice by foreign company of cessation of business
 
@@ -15514,7 +15943,7 @@ $10
 
 90.
 
-377 (2)
+377(2)
 
 Lodgment of notice by agent of foreign company of liquidation or dissolution of company
 
@@ -15532,7 +15961,7 @@ $10
 
 92.
 
-(Deleted by S 55/2006)
+[Deleted by S 55/2006]
 
 93.
 
@@ -15560,11 +15989,11 @@ $30
 
 96.
 
-(Deleted by Act 5 of 2004)
+[Deleted by Act 5 of 2004]
 
 97.
 
-23 (2)
+23(2)
 
 Application for approval to hold or to sell, mortgage or transfer any land
 
@@ -15572,7 +16001,7 @@ $100
 
 98.
 
-29 (1)
+29(1)
 
 Application for the omission of the word “Limited” or “Berhad”
 
@@ -15580,7 +16009,7 @@ $100
 
 99.
 
-29 (4)
+29(4)
 
 Application for consent of Minister to alteration of memorandum and articles of association
 
@@ -15588,7 +16017,7 @@ $100
 
 100.
 
-12B (3)
+12B(3)
 
 Lodgment of notice of error in document lodged
 
@@ -15600,61 +16029,91 @@ Application for the following:
 
 $50
 
-19 (7)
+19(7)
 
-(a) certificate confirming incorporation of company;
+(a)
 
-26 (7)
+certificate confirming incorporation of company;
 
-(b) certificate confirming that company is incorporated in accordance with the alteration made to the memorandum;
+26(7)
 
-28 (5)
+(b)
 
-(c) certificate confirming incorporation of company under new name changed by special resolution;
+certificate confirming that company is incorporated in accordance with the alteration made to the memorandum;
 
-30 (2)
+28(5)
 
-(d) certificate confirming conversion of company from —
+(c)
 
-(i) unlimited to limited by guarantee; or
+certificate confirming incorporation of company under new name changed by special resolution;
 
-(ii) unlimited to limited by shares;
+30(2)
 
-31 (3)
+(d)
 
-(e) certificate confirming conversion from —
+certificate confirming conversion of company from —
 
-(i) public company to private company; or
+(i)
 
-(ii) private company to public company;
+unlimited to limited by guarantee; or
 
-371 (2)
+(ii)
 
-(f) certificate that foreign company is registered in Singapore;
+unlimited to limited by shares;
 
-23 (2) and (5)
+31(3)
 
-(g) certificate confirming approval to hold land;
+(e)
+
+certificate confirming conversion from —
+
+(i)
+
+public company to private company; or
+
+(ii)
+
+private company to public company;
+
+371(2)
+
+(f)
+
+certificate that foreign company is registered in Singapore;
+
+23(2) and (5)
+
+(g)
+
+certificate confirming approval to hold land;
 
 29 (9)
 
-(h) certificate confirming approval to register company with limited liability without the addition of “Limited” or “Berhad”;
+(h)
 
-61 (7)
+certificate confirming approval to register company with limited liability without the addition of “Limited” or “Berhad”;
 
-(i) certificate that company is entitled to commence business and exercise its borrowing powers;
+61(7)
 
-134 (3)
+(i)
 
-(j) certificate to confirm that charge is registered;
+certificate that company is entitled to commence business and exercise its borrowing powers;
 
-215F (4)
+134(3)
 
-(k) certificate confirming amalgamation.
+(j)
+
+certificate to confirm that charge is registered;
+
+215F(4)
+
+(k)
+
+certificate confirming amalgamation.
 
 102.
 
-27 (1) and 378(1)
+27(1) and 378(1)
 
 Application for consent of the Minister to use of a name and order of the Minister granting consent to use of a name
 (applicable to both companies and foreign companies)
@@ -15663,7 +16122,7 @@ $100
 
 103.
 
-27 (2A)
+27(2A)
 
 Application to Registrar to direct a change of company name
 
@@ -15671,7 +16130,7 @@ $30
 
 104.
 
-27 (5)
+27(5)
 
 Application for appeal to Minister against decision of Registrar to direct or not to direct a change of company name
 
@@ -15697,19 +16156,19 @@ $100
 
 107.
 
-(Deleted by S 57/2005)
+[Deleted by S 57/2005]
 
 108.
 
-(Deleted by S 57/2005)
+[Deleted by S 57/2005]
 
 109.
 
-(Deleted by S 57/2005)
+[Deleted by S 57/2005]
 
 110.
 
-200 (2A) and (3)
+200(2A) and (3)
 
 Application to the Registrar with regard to the accounting periods of a company within the same group
 
@@ -15717,7 +16176,7 @@ $50
 
 111.
 
-200 (9)
+200(9)
 
 Application to the Minister to appeal against the decision of the Registrar
 
@@ -15733,13 +16192,17 @@ $30
 
 113.
 
-9 (2)
+9(2)
 
-(a) Application to Minister for approval of a liquidator
+(a)
+
+Application to Minister for approval of a liquidator
 
 $100
 
-(b) Application to Minister for renewal of approval of a liquidator
+(b)
+
+Application to Minister for renewal of approval of a liquidator
 
 $40
 
@@ -15775,11 +16238,15 @@ $10
 
 —
 
-(a) For taking an affidavit or statutory declaration, for each person making the same
+(a)
+
+For taking an affidavit or statutory declaration, for each person making the same
 
 $20
 
-(b) For each exhibit referred therein to be marked
+(b)
+
+For each exhibit referred therein to be marked
 
 $2 per exhibit
 
@@ -15803,7 +16270,9 @@ As prescribed by Rules of Court or the Companies (Winding Up) Rules (R 1), which
 
 *To be paid to the Court
 
-Service charge for electronic filing of forms and documents by Registry of Companies and Businesses for applicants*
+Service charge for electronic filing of forms and documents by Registry of Companies and Businesses for applicants\*
+
+\*The Registrar may, at his discretion, waive these charges.
 
 * The Registrar may, at his discretion, waive these charges
 
@@ -15819,7 +16288,7 @@ to
 
 124.
 
-(Deleted by S 880/2005)
+[Deleted by S 880/2005]
 
 125.
 
@@ -15827,7 +16296,7 @@ to
 
 For supplying electronic extracts of forms filed with the Registrar
 
-$10
+$11 per form
 
 126.
 
@@ -15835,7 +16304,7 @@ $10
 
 For supplying electronic extracts of forms including attachments filed with the Registrar
 
-$25
+$26 per form
 
 127.
 
@@ -15865,7 +16334,11 @@ to
 
 141.
 
-(Deleted by S 880/2005)
+[Deleted by S 880/2005]
+
+[S 718/2011 wef 01/01/2012]
+
+[S 604/2007 wef 05/11/2011]
 
 [5/2004; 21/2005; 42/2005; S19/2003; S75/2004; S193/2004; S262/2004; S57/2005; S880/2005; S55/2006]
 
@@ -15878,9 +16351,6 @@ FOURTH SCHEDULE
 Sections 3(3), 36, 37(3), 177(4)
 
 Table A
-
-
-
 
 Regulations for Management of A Company Limited by Shares
 
@@ -16044,7 +16514,9 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 55\. In the case of joint holders the vote of the senior who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of the other joint holders; and for this purpose seniority shall be determined by the order in which the names stand in the register of members.
 
-56\. A member who is mentally disordered or whose person or estate is liable to be dealt with in any way under the law relating to mental capacity may vote, whether on a show of hands or on a poll, by such other person as properly has the management of his estate, and any such person may vote by proxy or attorney.
+56. A member who is mentally disordered or whose person or estate is liable to be dealt with in any way under the law relating to mental capacity may vote, whether on a show of hands or on a poll, by such other person as properly has the management of his estate, and any such person may vote by proxy or attorney.
+
+[21/2008 wef 01/03/2010]
 
 57\. No member shall be entitled to vote at any general meeting unless all calls or other sums presently payable by him in respect of shares in the company have been paid.
 
@@ -16052,7 +16524,21 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 59\. The instrument appointing a proxy shall be in writing, in the common or usual form, under the hand of the appointer or of his attorney duly authorised in writing or, if the appointer is a corporation or a limited liability partnership, either under seal or under the hand of an officer or attorney duly authorised. A proxy may but need not be a member of the company. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
-60. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
+60\. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
+
+I/We, , of being a member/members of the abovenamed company, hereby appoint , , of , or failing him, of , , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary,as the case may be] general meeting of the company, to be held on the day of 20 , and at any adjournment thereof.
+
+Signed this day of 20 .
+
+This form is to be used
+
+*in favour of
+
+the resolution.
+
+against
+
+*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 61\. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed or a notarially certified copy of that power or authority shall be deposited at the registered office of the company, or at such other place in Singapore as is specified for that purpose in the notice convening the meeting, not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, or, in the case of a poll, not less than 24 hours before the time appointed for the taking of the poll, and in default the instrument of proxy shall not be treated as valid.
 
@@ -16091,6 +16577,8 @@ Directors: Appointment, etc.
 (d) becomes disqualified from being a director by virtue of section 148, 149, 154 or 155;
 
 (e) becomes mentally disordered and incapable of managing himself or his affairs or a person whose person or estate is liable to be dealt with in any way under the law relating to mental capacity;
+
+[21/2008 wef 01/03/2010]
 
 (f) subject to section 145, resigns his office by notice in writing to the company;
 
@@ -16232,7 +16720,7 @@ Indemnity
 
 FIFTH SCHEDULE
 
-(Repealed by S 236/2002)
+[Repealed by S 236/2002]
 
 SIXTH SCHEDULE
 
@@ -16266,7 +16754,7 @@ The date on or before which these shares are, or are liable, to be redeemed
 
 Names, descriptions, and addresses of directors or proposed directors
 
-If the share capital of the company is divided into different classes of shares, the right of voting at meetings of the company conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively.
+If the share capital of the company is divided into different classes of shares, the right of voting at meetings of the company conferred by, and the rights in respect of capital and dividends attached to, the several classes of shares respectively
 
 Number and amount of shares and debentures issued within the two years preceding the date of this statement or proposed or agreed to be issued as fully or partly paid up otherwise than in cash
 
@@ -16322,7 +16810,7 @@ Names and addresses of vendors of property purchased or acquired, or proposed to
 
 Amount (in cash, shares or debentures) payable to each separate vendor.
 
-Amount (if any) paid or payable (in cash, shares or debentures) for any such property, specifying amount (if any) paid or payable for goodwill.
+Amount (if any) paid or payable (in cash, shares or debentures) for any such property, specifying amount (if any) paid or payable for goodwill
 
 Total purchase price $ _______
 
@@ -16453,11 +16941,13 @@ Provisions applying to Parts I and II of this Schedule
 
 [UK, 3rd and 5th Schs.; Aust., 6th Sch.]
 
+[5/2004; 5/2005; 21/2005]
+
 SEVENTH SCHEDULE
 
 Statement Required Pursuant to Division 6 of Part Iv
 
-(Repealed by S 236/2002)
+[Repealed by S 236/2002]
 
 EIGHTH SCHEDULE
 
@@ -16515,7 +17005,7 @@ Contents of Annual Return
 
 (j) in the case of a company keeping a branch register, the list in paragraph (h) need not include any particulars contained in the branch register, insofar as a copy of the entries containing those particulars is not received at the registered office of the company before the date of the list in question;
 
-(k) the date of the last annual general meeting of the company or, in the case of a private company which has dispensed with the holding of its annual general meetings under section 175A(1), the date on which the resolution referred to in section 175 (A) (1) was passed;
+(k) the date of the last annual general meeting of the company or, in the case of a private company which has dispensed with the holding of its annual general meetings under section 175A(1), the date on which the resolution referred to in section 175(A)(1) was passed;
 
 (l) the date to which the accounts of the company are made up and the date of the annual general meeting at which those accounts were laid before the company;
 
@@ -16533,11 +17023,17 @@ Contents of Annual Return
 
 (s) where the annual return is accompanied by such of the relevant documents as may be applicable to the company, such information on the company contained in those documents as the Registrar may specify.
 
+[S 605/2007 wef 05/11/2007]
+
 [5/2004; 5/2005; 21/2005]
 
-2\. For the purposes of paragraph 1, where the last return of a company consists of a summary of return and a main return, a reference to the last return of the company shall, unless the context requires otherwise, be construed as a reference to the last summary of return of the company.
+2. For the purposes of paragraph 1, where the last return of a company consists of a summary of return and a main return, a reference to the last return of the company shall, unless the context requires otherwise, be construed as a reference to the last summary of return of the company.
 
-3\. In paragraph 1, “relevant date” means a date specified by the person who lodges the return, being a date which is not more than 14 days before the date of lodgment of the return.
+[S 605/2007 wef 05/11/2007]
+
+3. In paragraph 1, “relevant date” means a date specified by the person who lodges the return, being a date which is not more than 14 days before the date of lodgment of the return.
+
+[S 605/2007 wef 05/11/2007]
 
 4. In paragraph 1(s), “relevant documents”, in relation to a company, means —
 
@@ -16551,17 +17047,19 @@ Contents of Annual Return
 
 (e) the notes to the account.
 
+[S 605/2007 wef 05/11/2007]
+
 NINTH SCHEDULE
 
 Accounts and Consolidated Accounts
 
-(Repealed by Act 12 of 2002)
+[Repealed by Act 12 of 2002]
 
 TENTH SCHEDULE
 
 Take-over Offers
 
-(Repealed by S 675/2001)
+[Repealed by S 675/2001]
 
 ELEVENTH SCHEDULE
 
@@ -17075,6 +17573,8 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 11/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
+|103.|**G.N. No. S 718/2011—Companies Act (Amendment of Second Schedule) Notification 2011**|
+||Date of commencement|1 January 2012|
 ## COMPARATIVE TABLE
 
 Companies Act
@@ -17521,7 +18021,7 @@ Division 2 — Audit
 
 —
 
-Part VII — Arrangements, Reconstructions and Amalgamations
+Part VII — Arrangements, Reconstructions and Amalgamations 
 
 —
 
@@ -17625,11 +18125,13 @@ Division 2 — Offences
 
 —
 
-Third Schedule— Powers (Repealed by Act 5 of 2004)
+Third Schedule— Powers 
+(Repealed by Act 5 of 2004)
 
 —
 
-Fifth Schedule— Prospectus (Repealed by S 236/2002)
+Fifth Schedule— Prospectus 
+(Repealed by S 236/2002)
 
 —
 
@@ -17637,7 +18139,8 @@ Seventh Schedule— Statement required pursuant to Division 6 of Part IV (Repeal
 
 —
 
-Ninth Schedule— Accounts and consolidated accounts (Repealed by Act 12 of 2002)
+Ninth Schedule— Accounts and consolidated accounts 
+(Repealed by Act 12 of 2002)
 
 —
 
