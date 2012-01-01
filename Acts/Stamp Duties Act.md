@@ -614,7 +614,7 @@ a
 
 (a) it is stamped as an original instrument; or
 
-(b) [Deleted by Act 23/2011 wef 19/02/2011]
+(b) [Deleted by Act23/2011 wef19/02/2011]
 
 (2) Without prejudice to subsection (1), the duplicate or counterpart of an instrument executed before 19th February 2011 and chargeable with duty shall be deemed duly stamped if it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
 
@@ -663,6 +663,8 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
 [32/2000; 6/2005; 39/2005]
+
+[23/2011 wef 19/02/2011]
 
 (1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19thFebruary 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
 
@@ -772,7 +774,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
 
-(b) [Deleted by Act 23/2011 wef 01/04/2010];
+(b) [Deleted by Act23/2011 wef 01/04/2010];
 
 (c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
 
@@ -796,9 +798,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-(5) [Deleted by Act 23/2011 wef 01/04/2010]
+(5) [Deleted by Act23/2011 wef 01/04/2010]
 
-(6) [Deleted by Act 23/2011 wef 01/04/2010]
+(6) [Deleted by Act23/2011 wef 01/04/2010]
 
 (7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
@@ -1032,7 +1034,7 @@ the conveyance is to be charged in respect of that consideration with ad valorem
 
 (3) Where the consideration, or any part of the consideration, for a conveyance on sale consists of money payable periodically during any life or lives, the conveyance shall be charged in respect of that consideration with ad valorem duty on the amount which will or may, according to the terms of sale, be payable during the period of 12 years next after the day of the date of the instrument.
 
-(4) [Deleted by Act 23/2011 wef 19/02/2011]
+(4) [Deleted by Act23/2011 wef19/02/2011].
 
 Direction as to duty in cases of certain conveyances
 
@@ -1126,21 +1128,25 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (f) the Commissioner of Building Control made an order under section 24 of the Building Control Act (Cap. 29) in respect of the property; or
 
-(g) a Strata Titles Board refused an application for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
+(g) a Strata Titles Board or the High Court, as the case may be,refused an application for an order for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
 
 [26/96; 33/99; 13/2010]
 
+[23/2011 wef 01/01/2012]
+
 (7) The refund under subsection (6) shall be made if and only if —
 
-(a) the application for refund is made by the person by whom the instrument was solely or first executed within —
+(a) the application for refund is made by the person who paid or is liable to pay the duty within —
 
 (i) 6 months after the date of the stamp, or in the case of an executed instrument, after the date of the instrument;
 
 (ii) if the instrument is not dated, 6 months after the execution thereof;
 
-(iii) in the case of a contract or an agreement that is rescinded or annulled on the ground referred to in subsection (6)(g), 2 months after the refusal of a Strata Titles Board; or
+(iii) in the case of a contract or an agreement that is rescinded or annulled on the ground referred to in subsection (6)(g), 2 months after the refusal of a Strata Titles Board or the High Court, as the case may be; or
 
 (iv) such further time as the Commissioner may deem reasonable when, in unavoidable circumstances, the instrument cannot be produced within that period; and
+
+[23/2011docId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=validdocId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=validdocId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=validdocId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=valid wef 01/01/2012]
 
 (b) in the case of an executed instrument, the instrument is given up to be cancelled.
 
@@ -1416,7 +1422,7 @@ Settlement of policy of life insurance
 
 [23/2011 wef 19/02/2011]
 
-(3) [Deleted by Act 23/2011 wef 19/02/2011]
+(3) [Deleted by Act23/2011 wef19/02/2011]
 
 ### Conversion of firm and private company to limited liability partnership
 
@@ -1982,9 +1988,19 @@ INSTRUMENTS NOT DULY STAMPED
 
 ### Examination and impounding of instruments
 
-51\.—(1) Every person having by law or consent of parties authority to receive evidence, and every person in charge of a public office, except a police officer, before whom any instrument, chargeable in his opinion with duty, is produced or comes in the performance of his functions, shall, if it appears to him that such instrument is not duly stamped, impound the same.
+51\.—(1) Every person having by law or consent of parties authority to receive evidence, and every public officer or officer of a statutory body, before whom any instrument, chargeable in his opinion with duty, is produced or comes in the performance of his functions, shall, if it appears to him that such instrument is not duly stamped, impound the same.
+
+[23/2011 wef 01/01/2012]
 
 (2) For the purpose of subsection (1), every such person shall examine every instrument so chargeable and so produced or coming before him in order to ascertain whether it is stamped with a stamp of the value and description required by the law in force in Singapore when such instrument was executed or first executed.
+
+(2A) Subsection (1) does not apply to —
+
+(a) a police officer; or
+
+(b) such other public officer or officer of a statutory body as the Minister may by order published in theGazetteexempt from that subsection.
+
+[23/2011 wef 01/01/2012]
 
 (3) Nothing in this section shall be deemed to require any Magistrate or Judge of a criminal court to examine or impound, if he does not think fit to do so, any instrument coming before him in the course of any criminal proceeding.
 
@@ -2212,9 +2228,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Penalty for enrolling, etc., instrument not duly stamped
 
-66\. If any person whose office it is to enrol, register or enter in or upon any rolls, books or records any instrument chargeable with duty, enrols, registers or enters any such instrument not being duly stamped, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+66\.—(1) If any person whose office it is to enrol, register or enter in or upon any rolls, books or records any instrument chargeable with duty, enrols, registers or enters any such instrument not being duly stamped, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[23/2011 wef 01/01/2012]
+
+(2) Subsection (1) does not apply to such person as the Minister may by order published in theGazetteexempt from that subsection.
 
 [4/81; 33/99]
+
+[23/2011 wef 01/01/2012]
 
 ### Fraud in relation to duty
 
@@ -2456,13 +2478,23 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 [33/99; 28/2010 wef 09/12/2010]
 
-(2) A reduction or remission of duty in relation to a class of instruments, or any instrument belonging to such class, or any instrument when executed by or in favour of a class of persons, or by or in favour of members of such class, shall be made by an order published in theGazette, and the conditions (if any) shall be specified in the order.
+(2) A reduction or remission of duty in relation to a class of instruments, or any instrument belonging to such class, or any instrument when executed by or in favour of a class of persons, or by or in favour of members of such class, shall be made by rules, and the conditions (if any) shall be specified in the rules.
 
 [28/2010 wef 09/12/2010]
+
+[23/2011 wef 01/01/2012]
+
+(2A) The Minister may, in any particular case, in his discretion and at any time waive in whole or in part any condition imposed under subsection (1).
+
+[23/2011 wef 01/01/2012]
 
 (3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced shall be recoverable as a debt due to the Government.
 
 [28/2010 wef 09/12/2010]
+
+(3A) Subsection (3) does not apply to any condition which has been, or to the extent that it has been, waived in the person’s case under subsection (2A).
+
+[23/2011 wef 01/01/2012]
 
 (4) The amount recoverable under subsection (3) shall be payable at the place stated in a notice served by the Commissioner on the person, within one month after the service of the notice by the Commissioner on that person.
 
@@ -2530,7 +2562,7 @@ The same duty as a LEASE
 
 2
 
-CONTRACT NOTE: [Deleted byS 288/2000]
+CONTRACT NOTE: [Deleted by S 288/2000]
 
 3
 
@@ -2564,7 +2596,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 20th February 2010 but before 30th August 2010
 
-In addition to duty underparagraph (a), where the propertyis disposed ofin the following period from the date of its acquisition:
+In addition to duty under paragraph (a), where the property is disposed of in the following period from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2592,7 +2624,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 30th August 2010 but before 14th January 2011
 
-In addition to duty underparagraph (a), where the propertyis disposed ofin the following periods from the date of its acquisition:
+In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2636,7 +2668,7 @@ $1
 
 on sale of residential property, one of which is residential; and which is acquired on or after 14th January 2011
 
-In addition to duty underparagraph (a), where the propertyis disposed ofin the following periods from the date of its acquisition:
+In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
 
 Within one year
 
@@ -2658,7 +2690,7 @@ Exceeding 3 years but not exceeding 4 years
 
 on sale of residential property, whether or not any other type of property is also conveyed, transferred or assigned under the same instrument —
 
-In addition to duty underparagraphs (a) and either (ba) or (bb) (as applicable)
+In addition to duty under paragraphs (a) and either (ba) or (bb) (as applicable)
 
 (i)
 
@@ -2750,7 +2782,7 @@ See SETTLEMENT
 
 (f)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (g)
 
@@ -2764,7 +2796,7 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 (ii)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (h)
 
@@ -2778,7 +2810,7 @@ In a case where the conveyance, assignment or transfer is effected by more than 
 
 (i)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (1)In this Article—
 
@@ -2796,19 +2828,11 @@ In a case where the conveyance, assignment or transfer is effected by more than 
 
 “Singapore citizen owning 2 or more properties” means a citizen of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in 2 or more residential properties situated within Singapore;
 
-“Singapore citizen owning 2 properties” means a citizen of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in 2 residential properties situated within Singapore;
-
-“Singapore permanent resident not owning property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, does not beneficially own (whether alone or jointly or in common with another) an estate or interest in any residential property situated within Singapore;
-
-“Singapore permanent resident owning one property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in a single residential property situated within Singapore;
-
-“Singapore permanent resident owning property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in one or more residential properties situated within Singapore.
-
 (2)In this Article—
 
 (a)
 
-a reference to a Singapore citizen not owning property, a Singapore citizen owning one property, a Singapore citizen owning 2 properties, a Singapore citizen owning 2 or more properties, a Singapore permanent resident not owning property, a Singapore permanent resident owning one property, a Singapore permanent resident owning property, or a foreigner, is a reference to a person who comes within the definition or description of that term at the time of execution of the instrument in question;
+a reference to a Singapore citizen not owning property, a Singapore citizen owning one property, a Singapore citizen owning 2 or more properties, a Singapore permanent resident not owning property, a Singapore permanent resident owning property, or a foreigner, is a reference to a person who comes within the definition or description of that term at the time of execution of the instrument in question;
 
 (b)
 
@@ -2816,7 +2840,7 @@ a reference to the amount of consideration or value of any residential property 
 
 (c)
 
-subject toparagraph (d), a reference to joint grantees, transferees or lessees is a reference to persons to whom the residential property in question is conveyed, transferred or assigned as joint tenants or as tenants in common;
+subject to paragraph (d), a reference to joint grantees, transferees or lessees is a reference to persons to whom the residential property in question is conveyed, transferred or assigned as joint tenants or as tenants in common;
 
 (d)
 
@@ -2828,92 +2852,6 @@ a reference to a grantee, transferee or lessee, in a case where the property is 
 
 (3)For the avoidance of doubt, in determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of partnership property or property held on trust by the person shall be disregarded.
 
-(4) For the avoidance of doubt —
-
-(a)
-
-a reference to the amount of consideration or value of residential property being conveyed, assigned or transferred includes the amount of consideration or value of the estate or interest in the property being conveyed, assigned or transferred; and
-
-(b)
-
-a reference to the number of residential properties being conveyed, transferred or assigned under an instrument includes a reference to the number of residential properties in which an estate or interest is being conveyed, transferred or assigned under the instrument.
-
-(5) If —
-
-(a)
-
-the grantee, transferee or lessee or any of 2 or more joint grantees, transferees or lessees under the instrument to be stamped is a relevant individual;
-
-(b)
-
-at the time of the execution of the instrument, the relevant individual beneficially owns jointly or in common with one or more other persons any estate or interest in any residential property other than by virtue of the transaction which is the subject of the instrument; and
-
-(c)
-
-that other or any of those other persons conveys, transfers or assigns his estate or interest (or any part thereof) in that property under the instrument to the grantee, transferee or lessee or joint grantees, transferees or lessees,
-
-then —
-
-(i)
-
-if no other residential property (or estate or interest therein) besides that estate or interest is conveyed, transferred or assigned under the instrument,paragraph (bc) of this Article shall not apply to that instrument notwithstanding anything in that paragraph; or
-
-(ii)
-
-in any other case, the conveyance, transfer or assignment of that estate or interest shall be disregarded in determining the applicability ofparagraph (bc) of this Article, including in determining the total number of residential properties being conveyed, transferred or assigned under the instrument and the amount of stamp duty payable.
-
-(6)Paragraph (5) shall not apply if —
-
-(a)
-
-the relevant individual is one of 2 or more joint grantees, transferees or lessees under the instrument; and
-
-(b)
-
-without considering the status of the relevant individual,sub-paragraph (i), (ii), (iii), (iv), (v) or (vi) of paragraph (bc) of this Article applies to the instrument by virtue of the fact that the other joint grantee, transferee or lessee, or any of the other joint grantees, transferees or lessees, not being himself a relevant individual who satisfies paragraph (5)(b) in relation to that estate or interest, is —
-
-(i)
-
-in the case ofsub-paragraph (i) of paragraph (bc) of this Article, a Singapore citizen owning 2 or more properties;
-
-(ii)
-
-in the case ofsub-paragraph (ii) of paragraph (bc) of this Article, a Singapore citizen owning one property;
-
-(iii)
-
-in the case ofsub-paragraph (iii) of paragraph (bc) of this Article, a Singapore citizen not owning property;
-
-(iv)
-
-in the case ofsub-paragraph (iv) of paragraph (bc) of this Article, a Singapore permanent resident owning property;
-
-(v)
-
-in the case ofsub-paragraph (v) of paragraph (bc) of this Article, a Singapore permanent resident not owning property; or
-
-(vi)
-
-in the case ofsub-paragraph (vi) of paragraph (bc) of this Article, a foreigner or an entity.
-
-(7) Inparagraphs (5) and (6), “relevant individual” means an individual who is —
-
-(a)
-
-a Singapore citizen owning one property;
-
-(b)
-
-a Singapore citizen owning 2 properties; or
-
-(c)
-
-a Singapore permanent resident owning one property,
-
-where the property or any of the properties (as the case may be) is the property referred to inparagraph (5)(b).
-
-(8) In determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of property that is the subject of a notification undersection 5 of the Land Acquisition Act (Cap. 152) shall be disregarded.
-
 4
 
 DECLARATION of any trust or concerning any immovable property, stock or shares by any writing, not being a will, or an instrument chargeable with duty as a conveyance on sale, gift or settlement
@@ -2922,7 +2860,7 @@ $10
 
 5
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 Exemption:
 
@@ -2978,13 +2916,13 @@ The same duty as for a conveyance on sale in consideration of the premium and a 
 
 (d)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 $2
 
 (e)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 $10
 
@@ -3032,13 +2970,13 @@ The same duty as in paragraph (a) for such further money
 
 (d)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 $2
 
 (e)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 $10
 
@@ -3058,7 +2996,7 @@ Any security executed on or after 19th February 2011 in conjunction with the sec
 
 10
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 11
 
@@ -3072,7 +3010,7 @@ The same duty as for conveyance, assignment or transfer
 
 (b)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 Exemption:
 
@@ -3090,9 +3028,7 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 (b)
 
-[Deleted by Act23/2011 wef 19/02/2011]
-
-[S 117/2012 wef 08/12/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 [S 644/2011 wef 08/12/2011]
 
@@ -3112,7 +3048,7 @@ Instruments Which May be Stamped With Impressed or Adhesive Stamps
 
 Article No.
 
-Nature of the instrument and the reference number thereto inthe First Schedule
+Nature of the instrument and the reference number thereto in the First Schedule
 
 Person required to cancel the adhesive stamp
 
@@ -3134,7 +3070,7 @@ Persons Liable to Pay Stamp Duty
 
 Article No.
 
-Nature of the instrument and the reference number thereto inthe First Schedule
+Nature of the instrument and the reference number thereto in the First Schedule
 
 Person liable to pay stamp duty
 
@@ -3150,11 +3086,13 @@ The lessee
 
 (b)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+Duplicate or Counterpart
+
+The lessor
 
 2.
 
-CONVEYANCE — Article No. 3(a) to (h)
+CONVEYANCE — Article No. 3(a) to (i)
 
 (a)
 
@@ -3186,7 +3124,9 @@ The lessee
 
 (b)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+Counterpart or Duplicate
+
+The lessor
 
 5.
 
@@ -3196,7 +3136,7 @@ The mortgagor or obligor
 
 6.
 
-[Deleted by Act23/2011 wef 19/02/2011]
+PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
 
@@ -3207,8 +3147,6 @@ The parties thereto, in proportion to their respective shares in the whole prope
 [S 474/2010 wef 30/08/2010]
 
 [S 284/98]
-
-[23/2011 wef 19/02/2011]
 
 FOURTH SCHEDULE
 
@@ -3222,9 +3160,21 @@ Fee
 
 1.
 
-A scheme for reconstruction or amalgamation of companies, or a transfer of assets between associated companies under section 15
+A transfer of the undertaking or shares in respect of a scheme for reconstruction of company or companies, an amalgamation of companies, or a transfer, conveyance or assignment of beneficial interest in assets between associated entities, under section 15
 
-$150
+$150, irrespective of whether the instrument qualifies for relief under section 15
+
+1A.
+
+A conversion of a firm or private company to a limited liability partnership under section 15
+
+$150, irrespective of whether the instrument qualifies for relief under section 15
+
+1B.
+
+An acquisition of ordinary shares in a company under section 15A
+
+$150, irrespective of whether the instrument qualifies for relief under section 15A
 
 2.
 
@@ -3245,6 +3195,8 @@ All other transactions
 $90.
 
 [S 284/98; S 192/2003]
+
+[23/2011 wef 01/01/2012]
 
 FIFTH SCHEDULE
 
@@ -3368,7 +3320,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||No Bill number given)|
 ||Date Committed to Select Committee|18 July 1950|
-||Date of Presentation of Select Committee Report|21 November 1950(Council Paper No. 87 of 1950)|
+||Date of Presentation of Select Committee Report|21 November 1950 (Council Paper No. 87 of 1950)|
 ||Date of Second and Third Readings|21 November 1950|
 ||Date of commencement|22 November 1950|
 |10.|**Ordinance 20 of 1952—Stamp (Amendment) Ordinance 1952**|
@@ -3435,7 +3387,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||2 June 1961)|
 ||Date of Second and Third Readings|14 June 1961|
-||Date of commencement|1 January 1961(section 15)|
+||Date of commencement|1 January 1961 (section 15)|
 
 |
 7 July 1961 (except section 15)|
@@ -3534,9 +3486,9 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||27 February 1993)|
 ||Date of Second Reading|19 March 1993|
 ||Date Committed to Select Committee|19 March 1993|
-||Date of Presentation of Select Committee Report|7 September 1993(Parl 4 of 1993)|
+||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
 ||Date of Third Reading|12 October 1993|
-||Date of commencement|26 November 1993(except para (3) of Fifth Schedule) 1 April 1994 (para (3) of Fifth Schedule)|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule) 1 April 1994 (para (3) of Fifth Schedule)|
 |34.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
 ||Date of First Reading|21 May 1996|
 |||(Bill No. 16/96 published on|
@@ -3554,7 +3506,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
-||Date of commencement|1 September 1999(except sections 2 (a), 36, 37 and 39 (2))|
+||Date of commencement|1 September 1999 (except sections 2 (a), 36, 37 and 39 (2))|
 |37.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
 ||Date of First Reading|13 November 2000|
 |||(Bill No. 31/2000 published on|
@@ -3637,7 +3589,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |52.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 24/2010)|
-||Date of Second and Third Readings|18 October 2010|
+||Date of Second and Third Reading|18 October 2010|
 ||Date of commencement|10 December 2010|
 |53.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
@@ -3654,8 +3606,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|19 February 2011|
 |56.|**G.N. No. S 644/2011—Stamp Duties (Amendment of First Schedule) (No. 2) Notification 2011**|
 ||Date of commencement|8 December 2011|
-|57.|**G. N. No. S 117/2012—Stamp Duties Act (Amendment of First Schedule) Notification 2012**|
-||Date of commencement|8 December 2011|
+|57.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 15/2011 published on 18 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 January 2012|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
