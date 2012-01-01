@@ -948,9 +948,13 @@ and the employer or the recognised trade union representing the executive employ
 
 34\.—(1) In determining a trade dispute, a Court may have regard —
 
-(a) not only to the interests of the persons immediately concerned but to the interests of the community as a whole and in particular the condition of the economy of Singapore; and
+(a) not only to the interests of the persons immediately concerned but to the interests of the community as a whole and in particular the condition of the economy of Singapore;
 
-(b) to the recommendations made from time to time by the Minister under section 49 of the Employment Act (Cap. 91) relating to the matters specified in that section.
+(b) to the recommendations made from time to time by the Minister under section 49 of the Employment Act (Cap. 91) relating to the matters specified in that section; and
+
+(c) in the case of any trade dispute relating to the re‑employment of any eligible employee under the Retirement and Re‑employment Act (Cap. 274A), the tripartite guidelines relating to re-employment issued by the Minister under section 11B of that Act.
+
+[4/2011 wef 01/01/2012]
 
 [29/72; 36/95]
 
@@ -1799,6 +1803,12 @@ This Legislative History is provided for the convenience of users of the Industr
 |||(Bill No. 31/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 February 2011|
+|18.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
+||(Consequential amendments to Act made by)||
+||Date of First Reading|22nd November 2010|
+|||(Bill No. 36/2010 published on 22nd November 2010)|
+||Date of Second and Third Readings|11th January 2011|
+||Date of commencement|1st January 2012|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
