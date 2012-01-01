@@ -230,6 +230,12 @@
 
 - [98 Power of Director-General to charge fees](#Power-of-Director-General-to-charge-fees)
 
+- [98A Late payment charges and interest](#Late-payment-charges-and-interest)
+
+- [98B Power to appoint agent, etc., for recovery of duty](#Power-to-appoint-agent-etc-for-recovery-of-duty)
+
+- [98C Indemnification of agent](#Indemnification-of-agent)
+
 - [99 Securities for payment of duty and compliance with this Act](#Securities-for-payment-of-duty-and-compliance-with-this-Act)
 
 - [100 Appeal from decision of Director-General](#Appeal-from-decision-of-Director-General)
@@ -338,7 +344,7 @@
 
 - [135 Penalty for possession of a still, etc.](#Penalty-for-possession-of-a-still-etc)
 
-- [136 Motor vehicle leaving Singapore without prescribed amount of motor spirit](#Motor-vehicle-leaving-Singapore-without-prescribed-amount-of-motor-spirit)
+- [136 Motor vehicle leaving Singapore without prescribed amount of motor fuel](#Motor-vehicle-leaving-Singapore-without-prescribed-amount-of-motor-fuel)
 
 - [137 Penalty for assaulting or obstructing officers of customs, rescuing goods, resisting arrest and escaping from custody](#Penalty-for-assaulting-or-obstructing-officers-of-customs-rescuing-goods-resisting-arrest-and-escaping-from-custody)
 
@@ -422,6 +428,10 @@ PRELIMINARY
 
 “complete month” means the period from the first day of a month to the last day of the month, both days inclusive;
 
+“compressed natural gas” or “CNG” means natural gas that has been compressed for use in motor vehicles;
+
+[Act 25 of 2011 wef 01/01/2012]
+
 “customs airport” means any place which has been designated as a customs airport;
 
 “customs duty” means duty on goods imported into Singapore, excluding any excise duty;
@@ -472,7 +482,9 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
-“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1) or 83(4);
+“licensed warehouse” means a warehouse or other place licensed or deemed to be licensed under section 51(1), 63(1), or 83(4) (if the licence granted under section 83(4) covers an activity for which a licence under section 51(1), 63(1) or 66(1) is required);
+
+[Act 25 of 2011 wef 01/01/2012]
 
 “local craft” means any junk, tongkang, prahu, or other similar type of vessel, and any steam or motor vessel under 75 net registered tons and includes any type of motor vessel whether fitted with inboard engine or outboard motor;
 
@@ -486,7 +498,13 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “master” means any person (except a pilot or harbour master) having for the time being control or charge of a vessel;
 
-“motor spirit” includes gasoline, petrol, motor fuel or any inflammable hydrocarbon liquid fuel for spark ignited engines;
+“motor fuel” means motor spirit or CNG;
+
+[Act 25 of 2011 wef 01/01/2012]
+
+“motor spirit” includes gasoline, petrol or any inflammable hydrocarbon liquid fuel for spark ignited engines;
+
+[Act 25 of 2011 wef 01/01/2012]
 
 “motor vehicle” means a mechanically-propelled vehicle primarily intended or adapted for use in the conveyance of goods or in the carriage of passengers (including any person driving the vehicle) on roads maintained at the public expense and includes any vehicle constructed to tow any other vehicle along such roads but does not include such vehicles as excavators, crawlers, bull-dozers, tractors and any similar vehicles which are not primarily intended for use on such roads;
 
@@ -1026,7 +1044,13 @@ IMPORTATION AND EXPORTATION
 
 31\.—(1) Notwithstanding the provisions of any other written law, no person shall import or export dutiable goods or tranship goods of a class dutiable on import except —
 
-(a) by sea, at such authorised piers and places in Singapore as may be prescribed for the purposes of this section;
+(a) by sea —
+
+(i) at such authorised piers and places in Singapore as may be prescribed generally for all goods or in relation to such goods as may be specified; or
+
+(ii) at such piers and places in Singapore that the Director-General, under prescribed circumstances, determines to be authorised piers and places in relation to such goods as the Director-General may determine;
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (b) by air, at a customs airport;
 
@@ -1035,6 +1059,10 @@ IMPORTATION AND EXPORTATION
 (d) by road.
 
 [29/98]
+
+(1A) In prescribing an authorised pier or place in Singapore or the circumstances in which the Director-General may determine an authorised pier or place for the purposes of subsection (1)(a), the Minister may prescribe that the operator of the authorised pier or place comply with such requirements and restrictions as the Director-General may impose in connection with any operations carried out at the authorised pier or place.
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (2) No dutiable goods, other than accompanied personal effects and baggage, shall be imported by road except during such times and under such conditions as may be approved by the Director-General.
 
@@ -1078,15 +1106,19 @@ except under and in accordance with the conditions contained in a permit issued 
 
 and which is in the possession or in the baggage of any person arriving in Singapore;
 
-(d) of petroleum for use in the propulsion of a motor vehicle or an aircraft which —
+(d) of motor fuel or petroleum for use in the propulsion of a motor vehicle or an aircraft which —
 
 (i) in relation to a motor vehicle —
 
-(A) is carried in the fuel supply tank of the motor vehicle; or
+(A) is carried in a fuel supply tank of the motor vehicle; or
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (B) is of such amount as the Minister may by order prescribe and which is carried in a spare container of the motor vehicle; and
 
 (ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft;
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (e) of dutiable goods imported by post unless so required by the proper officer of customs; and
 
@@ -1324,9 +1356,9 @@ WAREHOUSING
 
 (5) If, it is shown to the satisfaction of the Director-General that the deficiency has been caused by theft or by unavoidable leakage, breakage or other accident, or by evaporation, the Director-General may remit the whole or any part of the duty leviable on the goods found deficient.
 
-(6) The licensee shall not be entitled to any compensation for the suspension or withdrawal of any licence granted under subsection (1), or for the surrender of the licence.
+(6) [Deleted by Act 25 of 2011 wef 01/01/2012]
 
-(7) The Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
+(7) [Deleted by Act 25 of 2011 wef 01/01/2012]
 
 ### Dutiable goods to be deposited in free trade zone
 
@@ -1464,7 +1496,7 @@ MANUFACTURE AND BOTTLING
 
 (5) Any regulations made under section 143(1) to regulate the control of licensed warehouses or bottling warehouses shall apply to warehouses deemed to be so licensed under subsection (4) to such an extent as the Director-General may direct.
 
-(6) The licensee shall not be entitled to any compensation for the suspension or withdrawal of any licence granted under subsection (2) or for the surrender of such licence, but the Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
+(6) [Deleted by Act 25 of 2011 wef 01/01/2012]
 
 ### No person except licensee to keep a still, etc.
 
@@ -1490,7 +1522,7 @@ MANUFACTURE AND BOTTLING
 
 [3/2008 wef 04/04/2008]
 
-(3) The licensee shall not be entitled to any compensation for the suspension or withdrawal of any licence granted under subsection (2) or for the surrender of the licence, but the Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
+(3) [Deleted by Act 25 of 2011 wef 01/01/2012]
 
 ### Prohibition on keeping of utensil, apparatus, etc., for bottling, blending, etc.
 
@@ -1714,7 +1746,7 @@ DUTY FREE SHOPS FOR TOURISTS
 
 (6) Any licence granted under subsection (1) may, in the discretion of the Director-General, be suspended or withdrawn at any time.
 
-(7) The licensee shall not be entitled to any compensation for the suspension or withdrawal or for the surrender of any such licence, but the Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
+(7) [Deleted by Act 25 of 2011 wef 01/01/2012]
 
 (8) No person, other than a licensee, shall issue, display or distribute or cause to be issued, displayed, or distributed any advertisement, writing, pamphlet, price list or other document which may imply or give reasonable cause for the public to believe that he has for sale on his premises goods which are duty free or tax free.
 
@@ -1782,9 +1814,11 @@ composite LICENCE
 
 (iv) selling goods to tourists and to returning or departing residents of Singapore free of duty for which a licence is required under section 82; or
 
-(b) in relation to any goods liable to goods and services tax on the import of goods into Singapore under the Goods and Services Tax Act (Cap. 117A), storing goods without payment of such tax for which a licence is required under regulations made pursuant to section 37(3)(c) of that Act.
+(b) in relation to any goods liable to goods and services tax on the import of goods into Singapore under the Goods and Services Tax Act (Cap. 117A), storing goods without payment of such tax for which a licence is required under regulations made pursuant to section 37(5)(b) of that Act.
 
 [3/2008 wef 04/04/2008]
+
+[Act 25 of 2011 wef 01/01/2012]
 
 Sale by retail vested in Director-General
 
@@ -1894,9 +1928,11 @@ shall be sufficient evidence that the electronic notice or copy thereof has been
 
 ### Preservation of records
 
-87\.—(1) Any duty under this Act to keep or preserve any books of account, register, stock book or other records may be discharged by the preservation of the information contained therein by such means as the Director-General may approve.
+87\.—(1) Any duty under this Act to keep or preserve any books of account, register, stock book or other records may, after the goods to which such records relate have been removed from customs control, be discharged by the preservation of the information contained therein by such means as the Director-General may approve.
 
 [24/96]
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (2) Where the information referred to in subsection (1) is so preserved, a copy of any document forming part of the records shall, subject to subsections (3) and (4), be admissible in evidence in any proceedings, whether civil or criminal, to the same extent as the records themselves.
 
@@ -1954,11 +1990,43 @@ except where it is necessary for the purposes of —
 
 (iii) enabling the Comptroller of Goods and Services Tax or an officer of customs to enforce a provision of the Goods and Services Tax Act;
 
-(iv) enabling an officer of customs to investigate a suspected offence under this Act; or
+(iv) enabling an officer of customs to investigate a suspected offence under this Act;
 
-(v) enabling the Comptroller of Goods and Services Tax or an officer of customs to investigate a suspected offence under the Goods and Services Tax Act.
+[Act 25 of 2011 wef 01/01/2012]
+
+(v) enabling the Comptroller of Goods and Services Tax or an officer of customs to investigate a suspected offence under the Goods and Services Tax Act;
 
 [24/96]
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(vi) a prosecution of such offence under such written law (other than this Act and the Goods and Services Tax Act) as may be prescribed;
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(vii) enabling a public agency to enforce such provision of such written law (other than this Act and the Goods and Services Tax Act) as may be prescribed;
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(viii) enabling a public agency to investigate such suspected offence under such written law (other than this Act and the Goods and Services Tax Act) as may be prescribed; or
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(ix) enabling a public agency to take steps to ensure public health or safety, or the security of Singapore, provided the approval of the Minister has been given for the publication, communication or disclosure for such purpose.
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(1A) The approval of the Minister referred to in subsection (1)(ix) may be given in respect of —
+
+(a) a specific public agency or a class of public agencies; and
+
+(b) a specific request for particulars, information or documents, or requests for particulars, information or documents falling within such class as the Minister may in his approval specify.
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(1B) Nothing in subsection (1) shall prevent the Minister, and any public officer assisting the Minister and duly authorised by the Minister for the purposes of this subsection, from having access to such particulars, information or document referred to in subsection (1) as may be necessary for the performance of his official duties in connection with this Act or the Goods and Services Tax Act.
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (2) Any officer of customs or any person employed or engaged in the administration of this Act who makes use of, publishes or permits any other person to see or communicates or discloses to any other person the contents of any such particulars, information or document to any other person otherwise than with such consent or for such purpose as is referred to in subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -1968,15 +2036,17 @@ except where it is necessary for the purposes of —
 
 [24/96]
 
-(4) In this section, “Comptroller”, in relation to Goods and Services Tax, has the same meaning as in the Goods and Services Tax Act (Cap. 117A).
+(4) In this section —
 
-[90D
+“Comptroller”, in relation to goods and services tax, has the same meaning as in the Goods and Services Tax Act;
 
-[24/96]
+“public agency” means a public officer, an organ of state or a ministry or department of the Government, or a public authority established by or under any written law for a public purpose or a member, an officer or an employee, or any department, thereof.
+
+[Act 25 of 2011 wef 01/01/2012]
 
 ### Retention of trade documents
 
-90\.—(1) Notwithstanding section 87, every importer or exporter of dutiable goods or his agent shall keep the following documents and records relating to the goods:
+90\.—(1) Every importer or exporter of dutiable goods or his agent shall keep the following documents and records relating to the goods:
 
 (a) invoices;
 
@@ -1998,6 +2068,8 @@ except where it is necessary for the purposes of —
 
 [33/2000]
 
+[Act 25 of 2011 wef 01/01/2012]
+
 (2) The documents and records referred to in subsection (1) shall be retained —
 
 (a) in relation to goods in a Government warehouse or licensed warehouse, for a period of not less than 5 years from the date those goods are removed from the Government warehouse or licensed warehouse, as the case may be; or
@@ -2007,6 +2079,14 @@ except where it is necessary for the purposes of —
 [2/2007 wef 01/03/2007]
 
 [3/2008 wef 04/04/2008]
+
+(2A) The duty under this section to retain documents and records may be discharged by the keeping, or preservation of the information contained therein, in accordance with section 87.
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(2B) Subsection (2A) is without prejudice to any obligation relating to the retention of any document or record under such treaty, memorandum of understanding or other agreement between Singapore and the government of a country or territory outside Singapore, as may be prescribed.
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2145,6 +2225,88 @@ except where it is necessary for the purposes of —
 98\. The Director-General may, with the approval of the Minister, charge such fees as he may consider reasonable in respect of any act or service done or rendered by the Singapore Customs for which no fee is prescribed by any written law.
 
 [4/2003]
+
+### Late payment charges and interest
+
+98A\.—(1) The Director-General may impose —
+
+(a) charges for the late payment of any customs duty, excise duty, tax, fee or other charge payable under this Act; and
+
+(b) interest payable on any outstanding amount of any customs duty, excise duty, tax, fee or charge or for any payment thereof by instalment.
+
+(2) Every amount collected before the date of commencement of this section as, or purportedly as —
+
+(a) charges for the late payment of any customs duty, excise duty, tax, fee or other charge under this Act; or
+
+(b) interest on any outstanding amount of any customs duty, excise duty, tax, fee or charge or for any payment thereof by instalment,
+
+shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such collection.
+
+[Act 25 of 2011 wef 01/01/2012]
+
+### Power to appoint agent, etc., for recovery of duty
+
+98B\.—(1) The Director-General may by notice in writing, if he thinks it necessary, declare any person to be the agent of any other person.
+
+(2) The person declared the agent under subsection (1) shall be the agent of such other person for the purposes of this Act and may be required to pay any duty due or which may become due from any moneys, including pensions, salaries, wages or any other remuneration, which, at the date of receipt of the notice or at any time not later than 90 days thereafter may be held by him for or due by him to the person whose agent he has been declared to be, and in default of such payment, the duty shall be recoverable from him in the manner provided by section 10(3).
+
+(3) For the purposes of this section, the Director-General may require any person to give him information as to any moneys, funds or other assets which may be held by the person for, or of any moneys due by the person to, any other person.
+
+(4) For the purposes of payment of any duty due from any moneys referred to in subsection (2) in a joint account at any bank or from the proceeds of sale of any immovable property owned by 2 or more persons as joint owners, the following provisions shall apply:
+
+(a) the person declared by the Director-General under subsection (1) to be the agent of any person who is an owner of such moneys shall —
+
+(i) within 14 days after the receipt of the notice under subsection (1), send a notice by registered post addressed to every owner of such moneys at the address last known to the agent informing the owner of such declaration; and
+
+(ii) retain such amount of the moneys as is presumed under paragraph (b) to be owned by the person from whom duty is due and, subject to paragraph (c), within 42 days after the receipt of the notice under subsection (1), or within such further period as the Director-General in his discretion may allow, pay over the duty due from such amount to the Director-General;
+
+(b) it shall be presumed, until the contrary is proved, that the holders of a joint account at any bank shall have equal share of the moneys in the account as at the date of receipt of the notice under subsection (1) and that the joint owners of any immovable property shall share the proceeds of sale of the property equally;
+
+(c) any owner of such moneys who objects to the share presumed under paragraph (b) shall give notice of the owner’s objection in writing to the person declared to be the agent under subsection (1) within 28 days after the receipt of the notice of the agent under paragraph (a)(i), or within such further period as the Director-General in his discretion may allow, and furnish proof as to the owner’s share of the moneys;
+
+(d) where an objection under paragraph (c) has been received, the person declared to be the agent shall —
+
+(i) retain the amount of such moneys referred to in paragraph (a)(ii) until such time as the Director General by notice under paragraph (e) informs him of his decision on the objection; and
+
+(ii) inform the Director-General of the objection within 7 days after the receipt of the objection;
+
+(e) the Director-General shall consider the objection and shall by notice in writing inform the person declared to be the agent of his decision and the agent shall, notwithstanding any appeal under paragraph (f), pay over any duty due from the share of moneys decided by the Director-General as the amount, not exceeding the amount presumed under paragraph (b) to be the share of the person by whom the duty is payable, held by the agent for or due by the agent to the person;
+
+(f) any owner of such moneys aggrieved by the decision of the Director-General under paragraph (e) may, notwithstanding section 100, appeal against the decision to the High Court; and
+
+(g) for the purpose of this subsection, “joint account” means any account in the names of 2 or more persons but excludes any partnership account, trust account and any account where a minor is one of the joint account holders.
+
+(5) Where an agent makes any payment of moneys to the Director-General under this section —
+
+(a) the agent shall be deemed to have been acting under the authority of the person by whom the duty is payable (referred to in this section as the person in default);
+
+(b) the amount of the duty due from the person in default shall be reduced by the amount paid by the agent to the Director-General; and
+
+(c) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the person in default in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the person in default.
+
+(6) Where —
+
+(a) an amount of duty is due from any person under this Act otherwise than as an agent under this section;
+
+(b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of the receipt of the notice in paragraph (c), be payable by the Government to the person in default by or under any written law, contract or scheme; and
+
+(c) before payment of the amount referred to in paragraph (b) is made to the person in default, the Director-General serves notice on any public officer by whom the payment is to be made that the duty is due from the person in default,
+
+then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the duty referred to in paragraph (a), and if the public officer makes such a reduction —
+
+(i) the amount of the duty referred to in paragraph (a) shall be reduced by the amount of the reduction; and
+
+(ii) the amount of the reduction shall, to the extent of such amount, be deemed to have been paid to the person in default in accordance with any law, contract or scheme governing the payment of moneys referred to in paragraph (b) to the person in default.
+
+(7) In this section, “duty” includes any penalty or any other money which a person is liable to pay to the Director-General under this Act.
+
+[Act 25 of 2011 wef 01/01/2012]
+
+### Indemnification of agent
+
+98C\. Every person liable under section 98B for the payment of duty on behalf of another person may retain out of any money coming to his hands on behalf of the other person so much thereof as shall be sufficient to pay the duty; and shall be indemnified against any person for all payments made by him in pursuance and by virtue of this Act
+
+[Act 25 of 2011 wef 01/01/2012]
 
 ### Securities for payment of duty and compliance with this Act
 
@@ -2564,11 +2726,17 @@ OFFENCES AND PENALTIES
 
 128\.—(1) Any person who —
 
-(a) makes, orally or in writing, or signs any declaration, certificate or other document required by this Act, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+(a) makes or causes to be made, orally or in writing, or signs or causes to be signed any declaration, certificate or other document required by this Act, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
 
-(b) makes, orally or in writing, or signs any declaration or document, made for consideration of any officer of customs on any application presented to him, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom; or
+[Act 25 of 2011 wef 01/01/2012]
 
-(c) being required by this Act to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty or excise duty, makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom,
+(b) makes or causes to be made, orally or in writing, or signs or causes to be signed any declaration or document, made for consideration of any officer of customs on any application presented to him, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom; or
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(c) makes or causes to be made a declaration required by this Act of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty or excise duty, which declaration is untrue or incorrect in any particular or is incomplete by any material particular having been omitted therefrom,
+
+[Act 25 of 2011 wef 01/01/2012]
 
 shall be guilty of an offence.
 
@@ -2656,7 +2824,7 @@ shall be guilty of an offence.
 
 ### Offences in relation to possession, storage, conveying and harbouring of goods
 
-128I\. Any person who —
+128I\.—(1) Any person who —
 
 (a) stores, keeps or has in his possession any —
 
@@ -2670,7 +2838,11 @@ shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-[3/2008 wef 04/04/2008]
+[Act 25 of 2011 wef 01/01/2012]
+
+(2) Nothing in paragraph (a) of subsection (1) shall prevent any person from storing, keeping or having in his possession goods referred to in that paragraph if the Director-General has allowed the person to store, keep or have the goods in his possession under section 27(3).
+
+[Act 25 of 2011 wef 01/01/2012]
 
 ### Offences in relation to duty-free allowances
 
@@ -2708,13 +2880,17 @@ shall be guilty of an offence.
 
 (2) Subject to subsection (3), any person who is guilty of a specified offence shall be liable on conviction to a fine of —
 
-(a) not less than 10 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence or $5,000, whichever is the lesser amount; and
+(a) not less than 10 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence or $5,000, whichever is the lesser amount, subject to a minimum of $1,000 where the specified offence involves goods consisting wholly or partly of relevant tobacco products; and
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (b) not more than 20 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $5,000, whichever is the greater amount,
 
-except that where the amount of customs duty or excise duty cannot be ascertained, the penalty may amount to a fine not exceeding $5,000.
+except that where the amount of customs duty or excise duty cannot be ascertained, the penalty may amount to a fine not exceeding $5,000, subject to a minimum of $1,000 where the specified offence involves goods consisting wholly or partly of relevant tobacco products.
 
 [3/2008 wef 04/04/2008]
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (3) Any person who is convicted of any specified offence and who has been convicted on a previous occasion of —
 
@@ -2730,7 +2906,9 @@ shall be liable on conviction to a fine referred to in subsection (2), or to imp
 
 (a) to a fine of —
 
-(i) not less than 15 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence; and
+(i) not less than 15 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence, subject to a minimum of $1,000; and
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (ii) not more than 20 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $10,000, whichever is the greater amount; or
 
@@ -2740,25 +2918,43 @@ or to both.
 
 [3/2008 wef 04/04/2008]
 
-(5) Any person who is convicted of any specified offence involving goods consisting wholly or partly of relevant tobacco products and who has been convicted on a previous occasion of —
+(5) Where any person is convicted of a specified offence committed by him on or after the date of commencement of section 17(d) of the Customs (Amendment) Act 2011 involving goods consisting wholly or partly of relevant tobacco products and he has been convicted on a previous occasion of —
 
 (a) that or any other specified offence involving such goods; or
 
-(b) any offence under the repealed section 130(1) in force immediately before the date of commencement of the Customs (Amendment) Act 2008 involving such goods,
+(b) any offence under the repealed section 130(1) in force immediately before 4th April 2008 involving such goods,
 
-shall be liable on conviction —
+then he shall be liable to —
 
-(i) to a fine of —
+(i) a fine of —
 
-(A) not less than 30 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the first-mentioned specified offence; and
+(A) not less than 30 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the first-mentioned specified offence, subject to a minimum of $2,000; and
 
 (B) not more than 40 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $20,000, whichever is the greater amount; or
 
-(ii) to imprisonment for a term not exceeding 6 years,
+(ii) imprisonment for a term not exceeding 6 years,
 
 or to both.
 
-[3/2008 wef 04/04/2008]
+[Act 25 of 2011 wef 01/01/2012]
+
+(5A) Notwithstanding subsection (5), where any person is convicted of a specified offence committed by him on or after the date of commencement of section 17(d) of the Customs (Amendment) Act 2011 involving goods consisting wholly or partly of relevant tobacco products exceeding 2 kilogrammes in weight and he has been convicted on a previous occasion of —
+
+(a) that or any other specified offence involving goods consisting wholly or partly of relevant tobacco products exceeding 2 kilogrammes in weight; or
+
+(b) any offence under the repealed section 130(1) in force immediately before 4th April 2008 involving goods consisting wholly or partly of relevant tobacco products exceeding 2 kilogrammes in weight,
+
+then he shall be punished with —
+
+(i) a fine of —
+
+(A) not less than 30 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the first-mentioned specified offence, subject to a minimum of $2,000; and
+
+(B) not more than 40 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $20,000, whichever is the greater amount; and
+
+(ii) imprisonment for a term not exceeding 6 years.
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (6) In any prosecution against a person for committing, attempting or abetting an offence under sections 128D to 128K, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the person, unless the contrary is proved by the person.
 
@@ -2872,25 +3068,31 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [3/2008 wef 04/04/2008]
 
-### Motor vehicle leaving Singapore without prescribed amount of motor spirit
+### Motor vehicle leaving Singapore without prescribed amount of motor fuel
 
-136\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe\*shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+136\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor fuel in such of its fuel supply tanks as the Minister may by order prescribe\*shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 \*The minimum amount of motor spirit in the fuel supply tank of a motor vehicle referred to in section 136(1) shall be three-quarters of the total capacity of the fuel supply tank.SeeO 6, Cap. 70 with effect from 4th February 1991.
 
 [19/89; 12/91; 23/93]
 
+[Act 25 of 2011 wef 01/01/2012]
+
 (2) For the purposes of subsection (1) —
 
 (a) where a motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at any prescribed place, the person in charge of that motor vehicle shall be presumed, until the contrary is proved, to have attempted to leave Singapore in that motor vehicle or with that motor vehicle in a vessel, as the case may be;
 
-(b) where a motor vehicle is fitted with an instrument or gauge which indicates or measures the amount of motor spirit in its fuel supply tank, the indication or measurement on that instrument or gauge shall, until the contrary is proved, be evidence of the amount of motor spirit in the fuel supply tank of that motor vehicle;
+(b) where a motor vehicle is fitted with an instrument or gauge which indicates or measures the amount of motor fuel in any fuel supply tank of the motor vehicle, the indication or measurement on that instrument or gauge shall, until the contrary is proved, be evidence of the amount of motor fuel in that fuel supply tank;
 
-(c) the proper officer of customs may measure or otherwise ascertain the quantity of motor spirit carried in the fuel supply tank of any motor vehicle registered under the Road Traffic Act.
+[Act 25 of 2011 wef 01/01/2012]
+
+(c) the proper officer of customs may measure or otherwise ascertain the quantity of motor fuel carried in a fuel supply tank of any motor vehicle registered under the Road Traffic Act.
 
 [136A
 
 [23/93; 4/2003]
+
+[Act 25 of 2011 wef 01/01/2012]
 
 ### Penalty for assaulting or obstructing officers of customs, rescuing goods, resisting arrest and escaping from custody
 
@@ -2994,6 +3196,14 @@ REGULATIONS
 
 (h) to prescribe the manner in which goods of a class dutiable on import may be transhipped;
 
+(ha) for the registration of any person making a declaration under this Act;
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(hb) to provide for matters relating to the World Customs Organization SAFE Framework of Standards to Facilitate and Secure Global Trade or any other similar framework by any international body;
+
+[Act 25 of 2011 wef 01/01/2012]
+
 (i) to prescribe the procedure relating to documentation, storage, movement, examination, sealing and security of containers and containerised cargoes;
 
 (j) to prescribe the manner and method of payment of any duty payable or chargeable under this Act;
@@ -3015,6 +3225,14 @@ REGULATIONS
 (r) to prescribe the books to be kept by licensees, other than licensees under Part VIII;
 
 (s) to regulate the grant and transfer of licences other than licences under Part VIII;
+
+(sa) to provide that no compensation may be given in the event of a suspension, withdrawal or surrender of a licence;
+
+[Act 25 of 2011 wef 01/01/2012]
+
+(sb) to provide for the circumstances in which licence fees or any part thereof may be refunded;
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (t) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
 
@@ -3423,6 +3641,11 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Dates of Second and Third Reading|19th May 2010|
 ||Date of commencement|2 January 2011|
 |||(item (31) of the Sixth Schedule)|
+|35.|**Act 25 of 2011—Customs (Amendment) Act 2011**|
+||Date of First Reading|18 October 2011 (Bill No. 19/2011 published on 18 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 January 2012|
+|||(except section 14)|
 ## COMPARATIVE TABLE
 
 Customs Act
