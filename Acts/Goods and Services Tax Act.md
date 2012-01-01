@@ -68,6 +68,10 @@
 
 - [21A Zero-rating of supply of certain tools, machinery and prototypes](#Zero-rating-of-supply-of-certain-tools-machinery-and-prototypes)
 
+- [21B Zero-rating of supplies relating to goods to approved taxable person in shipping or marine industry](#Zero-rating-of-supplies-relating-to-goods-to-approved-taxable-person-in-shipping-or-marine-industry)
+
+- [21C Zero-rating of grant or assignment of lease, tenancy or licence to occupy land](#Zero-rating-of-grant-or-assignment-of-lease-tenancy-or-licence-to-occupy-land)
+
 - [22 Exempt supply](#Exempt-supply)
 
 - [23 Relief on supply of certain goods under Margin Scheme](#Relief-on-supply-of-certain-goods-under-Margin-Scheme)
@@ -110,7 +114,7 @@
 
 - [37 Goods under customs control](#Goods-under-customs-control)
 
-- [37A Treatment or processing of goods of a person belonging in a country other than Singapore](#Treatment-or-processing-of-goods-of-a-person-belonging-in-a-country-other-than-Singapore)
+- [37A Process applied to or carried out on goods of a person belonging in a country other than Singapore](#Process-applied-to-or-carried-out-on-goods-of-a-person-belonging-in-a-country-other-than-Singapore)
 
 - [38 Customers to account for tax on certain supplies](#Customers-to-account-for-tax-on-certain-supplies)
 
@@ -1066,9 +1070,11 @@ RELIEFS
 
 ### Zero-rating for exports and international services
 
-21\.—(1) Subject to this section and section 21A, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
+21\.—(1) Subject to this section and sections 21A, 21B and 21C, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
 
 [28/2007 wef 01/07/2007]
+
+[Act 19/2012 wef 01/01/2012]
 
 (2) Where a taxable person supplies goods or services and the supply is zero-rated, then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1096,7 +1102,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (B) from a place in Singapore or to a place in Singapore, and substantially outside Singapore;
 
-(iii) [Deleted by Act 20/2010 wef 01/01/2011]
+(iii) [ [Deleted by Act 20/2010 wef 01/01/2011 wef 01/01/2011 wef 01/01/2011]]
 
 (b) services (including any ancillary transport activities such as loading, unloading and handling) comprising the transport of goods from a place in Singapore to another place in Singapore to the extent that those services are supplied by the same supplier as part of the supply of services to which paragraph (a)(i) and (ii) (other than in relation to any transportation that is from a place outside Singapore to another place outside Singapore) applies;
 
@@ -1180,13 +1186,33 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 (v) the supply (including the letting on hire) of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed;
 
-(w) prescribed services comprising the repair, maintenance or management of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed; or
+(w) prescribed services comprising the repair, maintenance or management of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed;
+
+[24/2011 wef 01/01/2012]
 
 (x) the supply (including the letting or hire) of qualifying aircraft parts that are certified as airworthy by —
 
 (i) in relation to an aircraft that is not a military aircraft, a person certificated by a national civil aviation authority; and
 
-(ii) in relation to a military aircraft, the government owning that aircraft.
+(ii) in relation to a military aircraft, the government owning that aircraft; or
+
+[24/2011 wef 01/01/2012]
+
+(y) prescribed services supplied directly in connection with prescribed goods —
+
+(i) under a contract with a person who belongs in a country outside Singapore; and
+
+(ii) which directly benefit a person who belongs in a country other than Singapore,
+
+if, at the time the prescribed services are performed, the prescribed goods are —
+
+(A) at an approved warehouse; or
+
+(B) at any place from which they may not be removed except with the permission of the proper officer of customs (and by virtue of which the prescribed goods remain under customs control), if —
+
+(BA) the goods have been brought to that place from an approved warehouse for the purpose of an auction, an exhibition or other similar event involving the display of goods; and
+
+(BB) the goods will be returned to any approved warehouse after the auction or exhibition or other similar event involving the display of goods.
 
 [25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
@@ -1200,7 +1226,7 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 [20/2010 wef 01/01/2011]
 
-[21/2010 wef 01/01/2011]
+[24/2011 wef 01/01/2012]
 
 (4) For the purposes of subsections (3), (6), (6A) and (6B) —
 
@@ -1217,6 +1243,10 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 (B) from a place in Singapore to a place outside Singapore; or
 
 (C) from a place outside Singapore to a place in Singapore;
+
+“approved warehouse” means a warehouse or other premises approved by the Comptroller as an approved warehouse;
+
+[24/2011 wef 01/01/2012]
 
 “co-location”, in relation to computer server equipment, means the provision of a physical environment for the operation of the computer server equipment;
 
@@ -1256,9 +1286,11 @@ being services performed substantially in Singapore.
 
 [20/2010 wef 01/01/2011]
 
-(4A) For the purposes of subsection (3)(j), (k) and (s), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
+(4A) For the purposes of subsection (3)(j), (k), (s) and (y), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
 
 [50/2004]
+
+[Act 19 wef 01/01/2012]
 
 (4B) The services referred to in subsection (3)(e), (f), (g) and (j) shall not include any services comprising either of or both —
 
@@ -1316,6 +1348,18 @@ and, in any of those cases, if such other conditions or restrictions, if any, as
 
 (7) The Minister may by regulations provide for the zero-rating of supplies of goods, or of such goods as may be specified in the regulations, in cases where the Comptroller is satisfied that the goods have been or are to be exported and such other conditions, if any, as may be specified in the regulations or as the Comptroller may impose are fulfilled.
 
+(7A) The Minister may by regulations provide for the following:
+
+(a) for matters relating to the grant of approval by the Comptroller for a warehouse or other premises to be an approved warehouse;
+
+(b) where such approval is subject to any condition or requirement and the person to whom the approval is granted fails to comply with any such condition or requirement, for matters relating to the payment to the Comptroller without demand by that person of the tax that would, but for subsection (3)(y) or section 21C, be chargeable on the supplies that are referred to therein (whether made by that person or any other person) and that take place during such period as may be prescribed, commencing on or after the date of the failure.
+
+[24/2011 wef 01/01/2012]
+
+(7B) The Comptroller may publish such details of approved warehouses in such form or manner as he thinks fit.
+
+[24/2011 wef 01/01/2012]
+
 (8) Where the supply of any goods has been zero-rated under subsection (6) or (6A) or regulations made under subsection (7) and —
 
 (a) the goods are found in Singapore after the date on which they were alleged to have been or were to be exported or shipped; or
@@ -1344,8 +1388,6 @@ and the presence of the goods in Singapore after that date or the failure to com
 
 to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool or machinery is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
 
-[28/2007 wef 01/07/2007]
-
 [33/2008 wef 01/01/2009]
 
 (2) Where a supply of goods or services by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
@@ -1355,6 +1397,60 @@ to a person who belongs in a country outside Singapore and who is not a register
 (b) it shall in all other respects be treated as a taxable supply,
 
 and accordingly the rate at which tax is treated as charged on the supply shall be nil.
+
+[28/2007 wef 01/07/2007]
+
+### Zero-rating of supplies relating to goods to approved taxable person in shipping or marine industry
+
+21B\.—(1) The Minister may by regulations, in relation to a supply relating to goods for a prescribed purpose made by any taxable person to a taxable person in the shipping or marine industry who is approved by the Comptroller, permit the supply to be zero-rated.
+
+(2) Where a supply by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
+
+(a) no tax shall be charged on the supply; but
+
+(b) it shall in all other respects be treated as a taxable supply,
+
+and accordingly the rate at which tax is treated as charged on the supply shall be nil.
+
+(3) Regulations made under subsection (1) may —
+
+(a) require the taxable person approved by the Comptroller and to whom a supply referred to in subsection (1) has been made to account for the tax on the supply that would, but for regulations made under subsection (1), be chargeable on the supply, in such circumstances, and in such form and manner and within such time, as may be prescribed; and
+
+(b) where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed, require an amount equivalent to the tax that would, but for subsection (1), be chargeable on the supply to be accounted for.
+
+(4) The Comptroller may, for the protection of revenue, impose conditions or restrictions in relation to any supply referred to in subsection (1).
+
+(5) The Comptroller may publish the names and such other particulars of the taxable persons approved by the Comptroller under subsection (1) in such form or manner as he thinks fit.
+
+[24/2011 wef 01/01/2012]
+
+### Zero-rating of grant or assignment of lease, tenancy or licence to occupy land
+
+21C\.—(1) The grant or assignment by any taxable person of a lease, tenancy or licence to occupy land where the lease, tenancy or licence —
+
+(a) is granted or assigned under a contract with a person who belongs in a country outside Singapore; and
+
+(b) directly benefits a person who belongs in a country other than Singapore,
+
+shall be zero-rated if —
+
+(i) the taxable person has made an application to and the Comptroller has approved the application for a warehouse or other premises to be an approved warehouse;
+
+(ii) the whole of the land which is the subject of the lease, tenancy or licence is part of the approved warehouse; and
+
+(iii) the land which is the subject of the lease, tenancy or licence is used by the taxable person in his business of storing prescribed goods other than the goods of the taxable person.
+
+(2) Where a supply by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
+
+(a) no tax shall be charged on the supply; but
+
+(b) it shall in all other respects be treated as a taxable supply,
+
+and accordingly the rate at which tax is treated as charged on the supply shall be nil.
+
+(3) In this section, “approved warehouse” has the same meaning as in section 21(4)(a).
+
+[24/2011 wef 01/01/2012]
 
 ### Exempt supply
 
@@ -1372,15 +1468,9 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (2) Tax chargeable on the supply of goods referred to in subsection (1) shall (unless otherwise provided in regulations made under this section) be reduced to the tax charged as if the supply of such goods was for a consideration equal to the
 
-excess of A – B,
+where A is the consideration for which the goods are supplied; and
 
-where A
-
-is the consideration for which the goods are supplied; and
-
-B
-
-is the consideration for which the goods were acquired,
+B is the consideration for which the goods were acquired,
 
 and accordingly where there is no excess, the tax shall not be charged.
 
@@ -1508,7 +1598,13 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (2) Regulations made under subsection (1) may —
 
-(a) require a taxable person referred to in that subsection to account for the tax chargeable on the importation or supply of the goods in such form and manner and within such time as may be prescribed, notwithstanding such tax is not payable; and
+(a) provide that goods imported by a taxable person in the course or furtherance of any business carried on by him (as referred to in subsection (1)(a)) may, where such requirements as may be prescribed are satisfied, include imported goods which are consigned to the taxable person as recipient in order for the taxable person to make supplies (other than supplies referred to in section 22) using or in relation to those goods;
+
+[24/2011 wef 01/01/2012]
+
+(aa) require a taxable person referred to in that subsection to account for the tax chargeable on the importation or supply of the goods in such form and manner and within such time as may be prescribed, notwithstanding such tax is not payable; and
+
+[24/2011 wef 01/01/2012]
 
 (b) where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed, require the tax chargeable on the importation or supply to be paid.
 
@@ -1534,9 +1630,13 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [20/2010 wef 01/10/2010]
 
-(2) Regulations made under subsection (1) may require a taxable person referred to in that subsection to account for and pay the tax chargeable on the importation of the goods in such form and manner, within such time and to such person as may be prescribed.
+(2) Regulations made under subsection (1) may —
 
-[20/2010 wef 01/10/2010]
+(a) provide that goods imported by a taxable person in the course or furtherance of any business carried on by him (as referred to in subsection (1)) may, where such requirements as may be prescribed are satisfied, include imported goods which are consigned to the taxable person as recipient in order for the taxable person to make supplies (other than supplies referred to in section 22) using or in relation to those goods; and
+
+(b) require a taxable person referred to in subsection (1) to account for and pay the tax chargeable on the importation of the goods in such form and manner, within such time and to such person as may be prescribed.
+
+[24/2011 wef 01/01/2012]
 
 (3) The Comptroller may, for the protection of revenue, impose conditions in relation to any importation of goods referred to in subsection (1).
 
@@ -1675,6 +1775,10 @@ SPECIAL CASES
 [31/2000]
 
 (2) For the purposes of this Act, goods imported by a taxable person and supplied by him as agent for a person who is not a taxable person may be treated as imported and supplied by the taxable person as principal.
+
+(2A) For the purposes of subsection (2), goods imported by a taxable person and supplied by him as agent for a person who is not a taxable person shall be deemed to include goods which, following their import, undergo a treatment or process for the purposes of the supply.
+
+[24/2011 wef 01/01/2012]
 
 (3) For the purposes of subsection (2), a person who does not belong in Singapore may be treated as not being a taxable person if as a result he will not be required to be registered under this Act.
 
@@ -1978,35 +2082,75 @@ those supplies shall not be disregarded for the purpose of this Act and shall be
 
 [20/2010 wef 01/01/2011]
 
-### Treatment or processing of goods of a person belonging in a country other than Singapore
+### Process applied to or carried out on goods of a person belonging in a country other than Singapore
 
-37A\.—(1) The Minister may by regulations make provisions for a supply, made by a taxable person approved by the Comptroller, which comprises the treatment or processing of goods —
+37A\.—(1) The Minister may by regulations make provisions for a supply, made by a taxable person approved by the Comptroller, which involves any process (including but not limited to any treatment) being applied to or carried out on goods —
 
 (a) under a contract with a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person); and
 
 (b) which directly benefits a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person),
 
-to be disregarded for the purposes of this Act subject to such conditions or restrictions as may be prescribed or as the Comptroller may impose for the protection of the revenue.
+to be disregarded for the purposes of this Act (other than for the purposes of section 27(2)(a)) subject to such conditions or restrictions as may be prescribed or as the Comptroller may impose for the protection of the revenue.
+
+[24/2011 wef 01/01/2012]
 
 [20/2010 wef 01/01/2011]
 
 [26/99]
 
-(2) Regulations made under subsection (1) may provide for the following:
+(2) Regulations made under subsection (1) may provide for the following in relation to goods to or on which a process has been applied or carried out:
 
-(a) for the treated or processed goods to be delivered only to —
+(a) for the goods —
 
-(i) any taxable person approved by the Comptroller; or
+(i) to be delivered to the satisfaction of the Comptroller only to —
 
-(ii) the customer of an overseas person to whom the overseas person supplies the goods,
+(A) any taxable person approved by the Comptroller; or
+
+(B) the customer of an overseas person to whom the overseas person supplies the goods;
+
+(ii) to be exported to the satisfaction of the Comptroller; or
+
+(iii) if the goods are of such type or description as may be prescribed, to be destroyed or disposed of to the satisfaction of the Comptroller by the taxable person or any other person,
 
 and, where any taxable person (including a taxable person referred to in subsection (1)) fails to do so, for the taxable person to pay to the Comptroller an amount equal to the tax that would have been payable if the taxable person had himself made a supply of the goods in the course or furtherance of his business;
 
-(b) for a taxable person approved by the Comptroller who receives the treated or processed goods from another approved person to declare, in such form and manner as the Comptroller may require, his receipt of those goods;
+[24/2011 wef 01/01/2012]
 
-(c) where a taxable person approved by the Comptroller delivers the goods to the customer of an overseas person referred to in paragraph (a)(ii), for the taxable person to account for and pay tax in substitution for the overseas person, as if the taxable person had himself supplied the goods to that customer in the course or furtherance of his business.
+[Act 19/2012 wef 01/01/2012]
 
-[20/2010 wef 01/01/2011]
+(b) for a taxable person approved by the Comptroller who receives the goods from another approved person to declare, in such form and manner as the Comptroller may require, his receipt of those goods;
+
+[24/2011 wef 01/01/2012]
+
+(c) where a taxable person approved by the Comptroller, to the satisfaction of the Comptroller —
+
+(i) delivers the goods to the customer of the overseas person referred to in paragraph (a)(i)(B); or
+
+(ii) in relation to such of those goods which are of such type or description as may be prescribed, destroys or disposes of the goods or delivers them to another person for the destruction or disposal, in circumstances where consideration for the goods is received by the taxable person or the overseas person upon the destruction or disposal,
+
+for the taxable person to account for and pay tax in substitution for the overseas person, as if the taxable person had himself supplied the goods in the course or furtherance of his business.
+
+[24/2011 wef 01/01/2012]
+
+(2A) Regulations made under subsection (1) may provide that, upon such conditions as may be prescribed being satisfied, where the goods are —
+
+(a) supplied to the overseas person in Singapore; and
+
+(b) delivered to the taxable person approved by the Comptroller for the purposes of any process being applied to or carried out on the goods under a contract with and directly benefitting the overseas person,
+
+the goods shall be treated as having been supplied to the taxable person in the course or furtherance of his business for the purpose of the taxable person claiming input tax on the supply of the goods under section 19 as if the whole of the input tax were allowable under section 20.
+
+[24/2011 wef 01/01/2012]
+
+(2B) A person who belongs in a country outside Singapore referred to in subsection (1)(a) or (b) may, for the purposes of determining his liability to be registered under this Act, disregard any supply of goods made by him if —
+
+(a) the tax on such supply is to be accounted for by the taxable person approved by the Comptroller pursuant to subsection (2)(c); or
+
+(b) in a case where a taxable person has applied to be but is not yet approved by the Comptroller, the tax on such supply would be accounted for by the taxable person pursuant to subsection (2)(c) if the taxable person were to be so approved,
+
+as the case may be.
+
+[24/2011 wef 01/01/2012]
 
 (3) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
 
@@ -2424,7 +2568,7 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
 
-(a) the procedure for the use of an electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
+(a) the procedure for the use of an electronic service, including the procedure in circumstances where there is a breakdown or interruption of an electronic service;
 
 (b) the procedure for the correction of errors in, or the amendment of, any return, declaration, document, application or information that is filed or submitted through an electronic service;
 
@@ -3862,7 +4006,7 @@ Liability to be registered
 
 (b) the Comptroller is satisfied that before his registration was cancelled he had given the Comptroller all the information the Comptroller needed in order to determine whether to cancel the registration.
 
-(5) In determining the value of a person’s supplies for the purpose of sub-paragraph (1) or (2), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
+(5) In determining the value of a person’s supplies for the purpose of sub-paragraph 1 or (2), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
 
 2.—(1) Without prejudice to section 47 and to paragraph 1, if the Comptroller makes a direction under this paragraph, the persons named in the direction shall be treated as a single taxable person carrying on the activities of a business described in the direction and that taxable person shall be liable to be registered with effect from the date of the direction or, if the direction so provides, from such later date as may be specified therein.
 
@@ -3910,9 +4054,9 @@ End of liability to be registered
 
 3.—(1) Subject to sub-paragraph (2), a registered person who makes taxable supplies shall cease to be liable to be registered at any time if the Comptroller is satisfied that the value of his taxable supplies in the period of 12 months then beginning will not exceed $1 million.
 
-(2) A person shall not cease to be liable to be registered by virtue of sub-paragraph (1) if the Comptroller is satisfied that the reason the value of his taxable supplies will not exceed $1 million is that in the period in question he will cease making taxable supplies, or will suspend making them for a period of 30 days or more.
+(2) A person shall not cease to be liable to be registered by virtue of sub-paragraph 3 if the Comptroller is satisfied that the reason the value of his taxable supplies will not exceed $1 million is that in the period in question he will cease making taxable supplies, or will suspend making them for a period of 30 days or more.
 
-(3) In determining the value of a person’s supplies for the purposes of sub-paragraph (1), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
+(3) In determining the value of a person’s supplies for the purposes of sub-paragraph 3, supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
 
 Notification of liability and registration
 
@@ -3946,15 +4090,15 @@ Voluntary registration
 
 the Comptroller may, subject to such conditions as the Comptroller may think fit to impose, and if that person so requests, register him with effect from such date as may be agreed between the Comptroller and him.
 
-(2) Subject to paragraph 12(2), a person registered under sub-paragraph (1) shall remain registered for a period of not less than 2 years or such other shorter period as the Comptroller may determine.
+(2) Subject to paragraph 12(2), a person registered under sub-paragraph 8 shall remain registered for a period of not less than 2 years or such other shorter period as the Comptroller may determine.
 
-(3) Conditions under sub-paragraph (1) —
+(3) Conditions under sub-paragraph 8 —
 
 (a) may be imposed wholly or partly by reference to, or without reference to, any condition prescribed for the purposes of this paragraph; and
 
 (b) may (whenever imposed) be subsequently varied by the Comptroller.
 
-(4) The Comptroller may cancel the registration of a person under this paragraph if he does not begin to make taxable supplies by the date specified in his request or if he is in breach of any condition imposed under sub-paragraph (1).
+(4) The Comptroller may cancel the registration of a person under this paragraph if he does not begin to make taxable supplies by the date specified in his request or if he is in breach of any condition imposed under sub-paragraph 8.
 
 9.—(1) Where a person who is not liable to be registered under this Act and is not already so registered satisfies the Comptroller that he —
 
@@ -4004,7 +4148,7 @@ Cancellation of registration
 
 13.—(1) Where the Comptroller is satisfied that a registered person has ceased to be registrable, the Comptroller may cancel his registration with effect from the day on which he so ceased or from such later date as may be agreed between the Comptroller and him.
 
-(2) In this paragraph and paragraph 14, “registrable” means liable or eligible to be registered under paragraph 8(1).
+(2) In this paragraph and paragraph 14, “registrable” means liable or eligible to be registered under paragraph 8.
 
 14\. Where the Comptroller is satisfied that on the day on which a registered person was registered he was not registrable, the Comptroller may cancel his registration with effect from that day.
 
@@ -4122,11 +4266,11 @@ by the other person in or towards satisfaction of a debt owed by the taxable per
 
 (b) that the goods were not acquired by him as part of the assets of a business which was transferred to him as a going concern by another taxable person.
 
-8.—(1) Subject to sub-paragraphs (2) and (3), paragraphs 5 to 7 shall have effect in relation to land forming part of the assets of, or held or used for the purposes of, a business as if it were goods forming part of the assets of, or held or used for the purposes of, a business.
+8.—(1) Subject to sub-paragraphs (2) and (3), paragraph 5 to 7 shall have effect in relation to land forming part of the assets of, or held or used for the purposes of, a business as if it were goods forming part of the assets of, or held or used for the purposes of, a business.
 
 (2) In the application of those paragraphs by virtue of sub-paragraph (1), references to transfer, disposition or sale shall have effect as references to the grant or assignment of any interest in, right over or licence to occupy the land concerned.
 
-(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5(1) by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
+(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5 by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
 
 [UK VAT Act 1983, Sch. 2]
 
@@ -4160,7 +4304,7 @@ shall be taken to be its open market value.
 
 (4) This paragraph shall not apply to a supply to which paragraph 10 applies.
 
-2\.Deleted by Act 20/2010, wef 01/01/2011.
+2\. [Deleted by Act 20/2010, wef 01/01/2011].
 
 Connected persons
 
@@ -4206,13 +4350,13 @@ Meaning of control
 
 (c) such rights as would, in the event of the winding up of the company or in any other circumstances, entitle him to receive the greater part of the assets of the company which would then be available for distribution among the participators.
 
-(2) Where 2 or more persons together satisfy any of the conditions of sub-paragraph (1), they shall be taken to have control of the company.
+(2) Where 2 or more persons together satisfy any of the conditions of sub-paragraph 4, they shall be taken to have control of the company.
 
-(3) For the purposes of sub-paragraphs (1) and (6), a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
+(3) For the purposes of sub-paragraphs 4 and (6), a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
 
 [S 107/94]
 
-(4) For the purposes of sub-paragraphs (1) and (2), there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
+(4) For the purposes of sub-paragraphs 4 and (2), there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
 
 (5) For the purposes of this paragraph, a “participator” is, in relation to any company, a person having a share or interest in the capital or income of the company.
 
@@ -4232,9 +4376,9 @@ Meaning of control
 
 (2) This paragraph shall not apply where the terms include any provision for payment by instalments.
 
-6\.Deleted by Act 20/2010, wef 01/01/2011.
+6\.[Deleted by Act 20/2010, wef 01/01/2011]
 
-7\.Deleted by Act 19/2009, wef 01/01/2010.
+7\. [Deleted by Act 19/2009, wef 01/01/2010]
 
 Business assets
 
@@ -4246,7 +4390,7 @@ Business assets
 
 the value of the supply shall be determined in accordance with sub-paragraphs (2) and (3) except where paragraph 10 applies.
 
-(2) The value of a supply referred to in sub-paragraph (1) shall be taken to be —
+(2) The value of a supply referred to in sub-paragraph 8 shall be taken to be —
 
 (a) such consideration in money as would be payable by the person making the supply if he were, at the time of the supply, to purchase goods identical in every respect (including age and condition) to the goods concerned;
 
@@ -4290,7 +4434,7 @@ Foreign exchange
 
 (b) methods of determining rates of exchange,
 
-a rate specified in or determined in accordance with the notice, as for the time being in force, shall apply (instead of the rate for which sub-paragraph (1) provides) in the case of any supply by a person who opts, in such manner as may be allowed by the Comptroller, for the use of that rate in relation to that supply.
+a rate specified in or determined in accordance with the notice, as for the time being in force, shall apply (instead of the rate for which sub-paragraph 11 provides) in the case of any supply by a person who opts, in such manner as may be allowed by the Comptroller, for the use of that rate in relation to that supply.
 
 (3) An option for the purposes of sub-paragraph (2) for the use of a particular rate or method of determining a rate —
 
@@ -4316,7 +4460,7 @@ Residential premises
 
 [20/2010 wef 01/01/2011]
 
-(2) For the purpose of sub-paragraph (1), the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
+(2) For the purpose of sub-paragraph 13, the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
 
 [20/2010 wef 01/01/2011]
 
@@ -4384,13 +4528,31 @@ Finance
 
 [S 567/2010 wef 01/10/2010]
 
+(ra) the provision of financing in connection with a qualifying Islamic financial arrangement in relation to an asset, for which the provider of the financing derives an effective return;
+
+[S 692/2011 wef 01/01/2012]
+
+(rb) the provision of financing in connection with a qualifying Islamic financial arrangement in relation to an asset which is jointly acquired by a provider of the the financing and a purchaser, for which the provider of the financing derives an effective return;
+
+[S 692/2011 wef 01/01/2012]
+
+(rc) the provision of financing in connection with a qualifying Islamic financial arrangement in relation to the construction of an asset, for which the provider of the financing derives an effective return;
+
+[S 692/2011 wef 01/01/2012]
+
 (s) the issure or transfer of ownership of Islamic debt securities under an Islamic debt securities arrangement;
 
 [S 567/2010 wef 01/10/2010]
 
-(t) the provision of financing under an Islamic debt securities arrangement for which the provider of the financing derives an effective return.
+(t) the provision of financing under an Islamic debt securities arrangement for which the provider of the financing derives an effective return;
 
 [S 567/2010 wef 01/10/2010]
+
+[S 692/2011 wef 01/01/2012]
+
+(u) the provision of financing by one bank to another bank under a qualifying Islamic agency arrangement.
+
+[S 692/2011 wef 01/01/2012]
 
 Land
 
@@ -4424,21 +4586,29 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 “effective return” means —
 
-(a) in the case of a qualifying Islamic financial arrangement described in paragraphs (a) and (c)(i) of the definition of that arrangement, the difference between the price of the non-residential property sold by the provider of the financing to the purchaser over the cost of the non-residential property bought by the provider of financing;
+(a) in the case of a qualifying Islamic financial arrangement in relation to non-residential property in the circumstances described in paragraph (a)(ii)(A) of the definition of that arrangement, the difference between the price of the non-residential property sold by the provider of the financing to the purchaser over the cost of the non-residential property bought by the provider of the financing;
 
-[28/2007 wef 17/02/2006]
+(b) in the case of a qualifying Islamic financial arrangement in relation to non-residential property in the circumstances described in paragraph (a)(ii)(B) of the definition of that arrangement, the difference between the total of the lease payments made by the purchaser over the cost of the non-residential property bought by the provider of the financing;
 
-[S 567/2010 wef 01/10/2010]
+(c) in the case of a qualifying Islamic financial arrangement in relation to an asset acquired by a provider of the financing, the difference between the price of the asset sold by the provider of the financing to the bank over the cost of the asset bought by the bank on behalf of the provider of the financing;
 
-(b) in the case of a qualifying Islamic financial arrangement described in paragraphs (a) and (c) (ii) of the definition of that arrangement, the difference between the payments made by the purchaser over the cost of the non-residential property bought by the provider of the financing; and
+(d) in the case of a qualifying Islamic financial arrangement in relation to an asset jointly acquired by a provider of the financing and a purchaser, the difference between the total amount of —
 
-[28/2007 wef 17/02/2006]
+(i) the money payable by the purchaser for the interest in the asset belonging to the provider of the financing;
 
-[S 567/2010 wef 01/10/2010]
+(ii) any lease payments for the lease of the asset;
 
-(c) in the case of an Islamic debt securities arrangement, the payments referred to in paragraph (b) of the definition of “Islamic debt securities;
+(iii) any moneys payable for the subsequent use of any portion of the asset referred to in sub paragraph (c)(v) of the definition of “qualifying Islamic financial arrangement”, as may be applicable; and
 
-[S 567/2010 wef 01/10/2010]
+(iv) any moneys payable in the event of an early termination of the arrangement referred to in sub paragraph (c)(vi) of the definition of “qualifying Islamic financial arrangement”, as may be applicable,
+
+and the money provided by the provider of the financing for the joint purchase of the asset;
+
+(e) in the case of a qualifying Islamic financial arrangement in relation to the construction of an asset where the asset is constructed or a comparable asset substituted therefor, the difference between the total amount of money payable by the purchaser for the asset or the comparable asset and the amount of money provided by the provider of the financing for the construction of the asset; and
+
+(f) in the case of an Islamic debt securities arrangement, the payments referred to in paragraph (b) of the definition of ‘‘Islamic debt securities;
+
+[S 692/2011 wef 01/01/2012]
 
 “equity security” means any interest in or right to a share in the capital of a body corporate or any option to acquire any such interest or right but excludes a contract of insurance and an estate or interest in land, other than an estate or interest as mortgagee or chargeholder;
 
@@ -4466,23 +4636,93 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 “non-residential property” means any land, building, flat or tenement other than any land, building, flat or tenement described in paragraph 2(a), (b) and (c);
 
-“qualifying Islamic financial arrangement”, in relation to non-residential property, means an arrangement that is entered into between a provider of financing and a purchaser —
+“qualifying Islamic financial arrangement” means an arrangement which is endorsed by anyShari’ahcouncil or body or by any committee formed for the purpose of providing guidance on compliance withShari’ahlaw, and —
 
-(a) which is endorsed by anyShari’ahcouncil or body, or by any committee formed for the purpose of providing guidance on compliance withShari’ah law; and
+(a) in relation to non-residential property, is an arrangement that is entered into between a provider of the financing and a purchaser whereby —
 
-[S 567/2010 wef 01/10/2010]
+(i) the provider of the financing acquires all or part of the beneficial interest in the non-residential property from the seller with a view to selling the same to the purchaser; and
 
-(b) Deleted by S 567/2010 wef 01/10/2010.
+(ii) the provider of the financing —
 
-(c) whereby the provider of financing purchases all or part of the beneficial interest in the non-residential property from the seller with a view to selling the same to the purchaser and —
+(A) immediately sells such beneficial interest to the purchaser (whether for consideration of a lump sum payment or instalment payments); or
 
-(i) the provider of financing immediately sells such beneficial interest in the non-residential property to the purchaser (whether in consideration of a lump sum payment or instalment payments); or
+(B) immediately leases such beneficial interest to the purchaser with an option for the purchaser to acquire the non-residential property;
 
-[S 567/2010 wef 01/10/2010]
+(b) in relation to an asset which is acquired by a provider of the financing, is an arrangement that is entered into between the provider of the financing and a bank whereby —
 
-(ii) the provider of financing immediately leases such beneficial interest in the non-residential property to the purchaser with an option for the purchaser to purchase the same;
+(i) the provider of the financing appoints the bank as an agent to acquire the asset on its behalf, with a view to selling the asset to the bank;
 
-[S 567/2010 wef 01/10/2010]
+(ii) the provider of the financing immediately sells the asset to the bank (whether for consideration of a lump sum payment or instalment payments);
+
+(iii) the bank immediately sells the asset to another person at the same price at which the asset was first acquired on behalf of the provider of the financing by the bank; and
+
+(iv) the bank is not required to effect payment to the provider of the financing until after the asset is sold;
+
+(c) in relation to the asset which is jointly acquired by a provider of the financing and a purchaser, is an arrangement that is entered into between the provider of the financing and the purchaser whereby —
+
+(i) the provider of the financing (or its agent) acquires partial interest in the asset with a view to selling its interest in the asset to the purchaser;
+
+(ii) the provider of the financing (or its agent) sells its interest in the asset to the purchaser on a periodic basis for an amount of money determined at the start of the arrangement;
+
+(iii) the provider of the financing (or its agent) leases the portion of its interest in the asset that has yet to be sold to the purchaser for an amount of money determined at the start of the arrangement;
+
+(iv) the provider of the financing (or its agent) appoints the purchaser, or a third party, to take on the obligations in connection with the use of the asset, including its maintenance and insurance;
+
+(v) in the event the asset is not in existence at the time of the joint purchase, and the provider of the financing (or its agent) leases the unsold portion of its interest in the asset to the purchaser, an amount of money may be paid by the purchaser to the provider of the financing (or its agent) for the subsequent use of that portion of the asset;
+
+(vi) in the event of an early termination of the arrangement, the purchaser purchases the remaining unsold portion of the interest in the asset belonging to the provider of the financing (or its agent) for an amount of money determined at the start of the arrangement;
+
+(vii) in the event the purchaser is unable to pay the amount of money in sub-paragraph (vi), the provider of the financing (or its agent) may sell the asset to a third party at a price lower than the outstanding amount payable by the purchaser; and
+
+(viii) the purchaser purchases the whole of the interest in the asset belonging to the provider of the financing (or its agent) upon the expiry of the arrangement and obtains full ownership of the asset;
+
+(d) in relation to the construction of an asset, is an arrangement that is entered into between a provider of the financing and a purchaser whereby —
+
+(i) at the request of the purchaser and in accordance to the purchaser’s specifications, the provider of the financing commissions the purchaser to construct an asset, for an amount of money, with a view to selling the completed asset to the purchaser;
+
+(ii) either —
+
+(A) the provider of the financing (or its agent) leases the asset to the purchaser with an option for the purchaser to acquire the asset; or
+
+(B) the purchaser undertakes to purchase the asset from the provider of the financing (or its agent) after the completed asset has been transferred to the provider of the financing in accordance with sub-paragraph (v)(A);
+
+(iii) the purchaser procures the construction of the asset by a third party;
+
+(iv) the provider of the financing (or its agent) makes periodic payments to the purchaser for the construction of the asset;
+
+(v) one of the following events takes place:
+
+(A) the purchaser transfers the ownership of the asset to the provider of the financing (or its agent) on a mutually agreed date on or after the completion of the construction of the asset by the third party;
+
+(B) the purchaser returns all the periodic payments received to the provider of the financing (or its agent) and cancels the lease arrangement referred to in sub-paragraph (ii)(A); or
+
+(C) the provider of the financing (or its agent) agrees to the substitution of the asset that is the subject of the lease arrangement in sub-paragraph (ii)(A) or the purchase undertaking in sub-paragraph (ii)(B) with a comparable asset, and the purchaser transfers the ownership of the comparable asset to the provider of the financing (or its agent), on a mutually agreed date;
+
+(vi) the provider of the financing (or its agent) does not take physical delivery of the asset or the comparable asset, as the case may be; and
+
+(vii) at the end of the arrangement, the provider of the financing (or its agent) transfers ownership of the asset or the comparable asset, as the case may be, to the purchaser pursuant to —
+
+(A) the lease arrangement referred to in sub-paragraph (ii)(A) (except upon the occurrence of the event in sub-paragraph (v)(B)); or
+
+(B) the purchase undertaking referred to in sub-paragraph (ii)(B),
+
+as the case may be;
+
+[S 692/2011 wef 01/01/2012]
+
+“qualifying Islamic agency arrangement” means an arrangement —
+
+(a) which is endorsed by anyShari’ahcouncil or body, or by any committee formed for the purpose of providing guidance on compliance withShari’ahlaw; and
+
+(b) whereby —
+
+(i) a bank appoints another bank as an agent of the first-mentioned bank for a fee, to use the first-mentioned bank’s funds with a view of generating an expected gain;
+
+(ii) the second-mentioned bank returns the first-mentioned bank’s funds and the expected gain at the end of the arrangement; and
+
+(iii) the second-mentioned bank retains any gains in excess of the expected gain;
+
+[S 692/2011 wef 01/01/2012]
 
 “special purpose vehicle” means a company whose business is to acquire the originator’s immovable properties in Singapore, lease them back to the originator and transfer such properties to the originator upon the maturity of the Islamic debt securities;
 
@@ -4552,11 +4792,7 @@ Part I
 
 1.—(1) Subject to the provisions of this Part, on an application made in accordance with this Part, the Comptroller shall make a ruling on how any provision of this Act applies, or would apply, to a person and to an arrangement for which the ruling is sought.
 
-[28/2007 wef 01/07/2007]
-
 (2) The Comptroller may make a ruling on how any provision of this Act applies to the arrangement described in an application, whether or not reference was made to that provision in the application.
-
-[28/2007 wef 01/07/2007]
 
 (3) The Comptroller shall not make a ruling on a provision of this Act that authorises or requires the Comptroller to —
 
@@ -4568,15 +4804,11 @@ Part I
 
 (d) recover any debt owing by any person.
 
-[28/2007 wef 01/07/2007]
-
 (4) An application for a ruling shall —
 
 (a) be made in such form as the Comptroller may determine; and
 
 (b) comply with the disclosure requirements of paragraph 9.
-
-[28/2007 wef 01/07/2007]
 
 (5) An applicant for a ruling may at any time withdraw the application by notice in writing to the Comptroller.
 
@@ -4658,8 +4890,6 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (b) an arrangement.
 
-[28/2007 wef 01/07/2007]
-
 (2) Two or more persons may jointly apply, or a person on behalf of 2 or more persons who have yet to come into legal existence may apply, to the Comptroller for a ruling on how a provision of this Act applies, or would apply, to each person and to an arrangement.
 
 [28/2007 wef 01/07/2007]
@@ -4678,11 +4908,7 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (f) provide a draft ruling.
 
-[28/2007 wef 01/07/2007]
-
 (2) If the Comptroller considers that it would be unreasonable to require the applicant to comply with any of the requirements in sub-paragraph (1)(c) to (f), the Comptroller may waive those requirements.
-
-[28/2007 wef 01/07/2007]
 
 (3) Any document provided by any person under this Schedule shall be retained by the Comptroller.
 
@@ -4693,8 +4919,6 @@ the Comptroller shall apply the provision in relation to the person and the arra
 [28/2007 wef 01/07/2007]
 
 11.—(1) If the Comptroller considers that the correctness of a ruling would depend on assumptions being made about a future event or other matter, the Comptroller may make the assumptions that he considers to be most appropriate.
-
-[28/2007 wef 01/07/2007]
 
 (2) The Comptroller may not make assumptions about information which the applicant can provide.
 
@@ -4714,23 +4938,15 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (f) the conditions (if any) stipulated by the Comptroller.
 
-[28/2007 wef 01/07/2007]
-
 (2) The Comptroller shall notify the making of a ruling by sending a copy of the ruling to the person or persons who applied for it.
 
 [28/2007 wef 01/07/2007]
 
 13.—(1) The Comptroller may at any time withdraw a ruling by notifying the person to whom the ruling applies in writing of the withdrawal and the reasons therefor.
 
-[28/2007 wef 01/07/2007]
-
 (2) The ruling shall be withdrawn from the date specified in the notice of withdrawal.
 
-[28/2007 wef 01/07/2007]
-
 (3) The date referred to in sub-paragraph (2) shall not be earlier than the date on which the person could reasonably be expected to receive the notice of withdrawal.
-
-[28/2007 wef 01/07/2007]
 
 (4) If the Comptroller withdraws a ruling —
 
@@ -4741,8 +4957,6 @@ the Comptroller shall apply the provision in relation to the person and the arra
 [28/2007 wef 01/07/2007]
 
 14.—(1) The Comptroller shall not be required to withdraw and reissue a new ruling to correct a typographical or a minor error if the correction does not change the meaning of the ruling.
-
-[28/2007 wef 01/07/2007]
 
 (2) A ruling that is not withdrawn and reissued remains valid for the period set out in paragraph 6(b).
 
@@ -4898,11 +5112,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 |:-|:-|:-|
 |1.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
 ||Date of First Reading|26.2.93|
-|||(Bill No. 14/93published on 27.2.93)|
+|||(Bill No. 14/93 published on 27.2.93)|
 ||Date of Second Reading|19.3.93|
 ||Date Referred to Select Committee|Parl 4 of 1993 presented to Parliament on 7.9.93|
 ||Date of Third Reading|12.10.93|
-||Dates of commencement|26.11.93(except para (3) of Fifth Schedule)|
+||Dates of commencement|26.11.93 (except para (3) of Fifth Schedule)|
 
 |
 1.4.94(para (3) of Fifth Schedule)|
@@ -4913,45 +5127,45 @@ This Legislative History is provided for the convenience of users of the Goods a
 |4.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|5.12.95|
-|||(Bill No. 46/95published on 6.12.95)|
+|||(Bill No. 46/95 published on 6.12.95)|
 ||Date of Second and Third Readings|18.1.96|
 ||Date of commencement|2.2.96|
 |5.|**Act 25 of 1996—Goods and Services Tax (Amendment) Act 1996**|
 ||Date of First Reading|21.5.96|
-|||(Bill No. 15/96published on 22.5.96)|
+|||(Bill No. 15/96 published on 22.5.96)|
 ||Date of Second and Third Readings|12.7.96|
 ||Date of commencement|16.8.96|
 |6.|**1997 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|30 May 1997|
 |7.|**Act 26 of 1999—Goods and Services Tax (Amendment) Act 1999**|
 ||Date of First Reading|6.7.99|
-|||(Bill No. 23/99published on 7.7.99)|
+|||(Bill No. 23/99 published on 7.7.99)|
 ||Date of Second and Third Readings|4.8.99|
 ||Date of commencement|20.8.99|
 |8.|**Act 42 of 1999—Postal Services Act 1999**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|11.10.99|
-|||(Bill No. 34/99published on 12.10.99)|
+|||(Bill No. 34/99 published on 12.10.99)|
 ||Date of Second and Third Readings|23.11.99|
 ||Date of commencement|1.12.99|
 |9.|**G. N. No. S 204/2000—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2000**|
 ||Date of commencement|15 April 2000|
 |10.|**Act 31 of 2000—Goods and Services Tax (Amendment) Act 2000**|
 ||Date of First Reading|13.11.2000|
-|||(Bill No. 32/2000published on 13.11.2000)|
+|||(Bill No. 32/2000 published on 13.11.2000)|
 ||Date of Second and Third Readings|22.11.2000|
 ||Date of commencement|18.12.2000|
 |11.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|13.11.2000|
-|||(Bill No. 33/2000published on 13.11.2000)|
+|||(Bill No. 33/2000 published on 13.11.2000)|
 ||Date of Second and Third Readings|22.11.2000|
 ||Date of commencement|1.1.2001|
 |12.|**2001 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|31 July 2001|
 |13.|**Act 43 of 2002—Goods and Services Tax (Amendment) Act 2002**|
 ||Date of First Reading|31.10.2002|
-|||(Bill No. 38/2002published on 1.11.2002)|
+|||(Bill No. 38/2002 published on 1.11.2002)|
 ||Date of Second and Third Readings|5.12.2002|
 ||Date of commencement|1.1.2003|
 |14.|**G. N. No. S 649/2002—Goods and Services Tax Act (Amendment of Third Schedule) Order 2002**|
@@ -4959,26 +5173,26 @@ This Legislative History is provided for the convenience of users of the Goods a
 |15.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|10.3.2003|
-|||(Bill No. 6/2003published on 11.3.2003)|
+|||(Bill No. 6/2003 published on 11.3.2003)|
 ||Date of Second and Third Readings|21.3.2003|
 ||Date of commencement|1.4.2003|
 |16.|**G. N. No. S 205/2003—Goods and Services Tax Act (Amendment of First Schedule) Order 2003**|
 ||Date of commencement|1 June 2003|
 |17.|**Act 19 of 2003—Goods and Services Tax (Amendment) Act 2003**|
 ||Date of First Reading|28.8.2003|
-|||(Bill No. 19/2003published on 29.8.2003)|
+|||(Bill No. 19/2003 published on 29.8.2003)|
 ||Date of Second and Third Readings|16.10.2003|
 ||Date of commencement|1.7.2003(section 4)|
 |18.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|19.4.2004|
-|||(Bill No. 15/2004published on 20.4.2004)|
+|||(Bill No. 15/2004 published on 20.4.2004)|
 ||Date of Second and Third Readings|19.5.2004|
 ||Date of commencement|1.7.2004|
 |19.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|6.2.2004|
-|||(Bill No. 6/2004published on 7.2.2004)|
+|||(Bill No. 6/2004 published on 7.2.2004)|
 ||Date of Second Reading|19.4.2004|
 ||Date Committed to Select Committee|Parl. 5 of 2004|
 ||Date of Third Reading|19.10.2004|
@@ -4986,7 +5200,7 @@ This Legislative History is provided for the convenience of users of the Goods a
 |20.|**Act 50 of 2004—Goods and Services Tax (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|19.10.2004|
-|||(Bill No. 59/2004published on 20.10.2004)|
+|||(Bill No. 59/2004 published on 20.10.2004)|
 ||Date of Second and Third Readings|17.11.2004|
 ||Date of commencement|8.12.2004|
 |21.|**2005 Revised Edition—Goods and Services Tax Act**|
@@ -4995,7 +5209,7 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|7 October 2005|
 |23.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 37/2005published on 9 December 2005)|
+|||(Bill No. 37/2005 published on 9 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
 |24.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
@@ -5004,18 +5218,18 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 July 2007|
 |26.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
-|||(Bill No. 15/2007published on 15 June 2007)|
+|||(Bill No. 15/2007 published on 15 June 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Dates of commencement|1 July 2007|
 |||17 February 2006|
 |27.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
 ||Date of First Reading|12 November 2007|
-|||(Bill No. 48/2007published on 29 February 2008)|
+|||(Bill No. 48/2007 published on 29 February 2008)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|4 April 2008|
 |28.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
 ||Date of First Reading|20 October 2008|
-|||(Bill No. 29/2008published on 19 December 2008)|
+|||(Bill No. 29/2008 published on 19 December 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
 |29.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
@@ -5028,30 +5242,37 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 September 2009|
 |32.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
 ||Date of First Reading|20 July 2009|
-|||(Bill No. 12/2009published on 18 September 2009)|
+|||(Bill No. 12/2009 published on 18 September 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|1 January 2010|
 |33.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
 ||Date of First Reading|19 July 2010|
-|||(Bill No. 15/2010published on 1 October 2010)|
+|||(Bill No. 15/2010 published on 1 October 2010)|
 ||Date of Second and Third Readings|16 August 2010|
-||Date of commencement|1 October 2010(Except sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
-|||1 January 2011(Sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
+||Date of commencement|1 October 2010 (Except sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
+|||1 January 2011 (Sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
 |34.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
-|||(Bill No. 16/2011published on 17 October 2011)|
+|||(Bill No. 16/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2011(Section 2)|
 |35.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010published on 25 June 2010)|
+|||(Bill No. 11/2010 published on 25 June 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |36.|**Act 7 of 2011—Private Lotteries Act 2011**|
 ||Date of First Reading|10 January 2011|
-|||(Bill No. 2/2011published on 18 March 2011)|
+|||(Bill No. 2/2011 published on 18 March 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|1 April 2011|
+|37.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 16/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 January 2012 (Except Section 2)|
+|38.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
+||Date of commencement|1 January 2012|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
