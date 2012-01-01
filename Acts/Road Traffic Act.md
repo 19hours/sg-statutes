@@ -512,7 +512,11 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 (c) for the purposes of sections 131B(7), 132(7), 133(7), 134, 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
 
-“motor spirit” has the same meaning as in the Customs Act (Cap. 70);
+[Deleted by Act 25 of 2011 wef 01/01/2012]
+
+“motor fuel” has the same meaning as in the Customs Act (Cap. 70);
+
+[Act 25 of 2011 wef 01/01/2012]
 
 “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
 
@@ -660,7 +664,9 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 (ii) for intimating any intended change of speed or direction of a motor vehicle; or
 
-(iii) for measuring or indicating or measuring and indicating the amount of motor spirit in the fuel tank of a motor vehicle,
+(iii) for measuring or indicating or measuring and indicating the amount of motor fuel in any fuel tank of a motor vehicle,
+
+[Act 25 of 2011 wef 01/01/2012]
 
 and to regulate or prohibit the use of any such appliance and to secure that they shall be efficient and kept in proper working order;
 
@@ -690,21 +696,27 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 ### Alteration of fuel-measuring equipment
 
-6A\.—(1) No person shall alter the fuel-measuring equipment of a motor vehicle for the purpose of preventing the fuel-measuring equipment from duly measuring or indicating the quantity of motor spirit in the fuel supply tank of the motor vehicle.
+6A\.—(1) No person shall alter the fuel-measuring equipment of a motor vehicle for the purpose of preventing the fuel-measuring equipment from duly measuring or indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle.
 
 [20/89]
+
+[Act 25 of 2011 wef 01/01/2012]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
 
 [20/89]
 
-(3) Where there is found any artificial or mechanical means which, either alone or in conjunction with additional artificial or mechanical means not found, could be used for altering or facilitating the alteration of the index of the fuel-measuring equipment, or which would make the fuel-measuring equipment false or unjust in measuring or indicating the quantity of motor spirit in the fuel supply tank of that motor vehicle, the person having custody or control of the motor vehicle at the time such artificial or mechanical means are found shall be presumed, until the contrary is proved, to have abetted the alteration of the fuel-measuring equipment in contravention of subsection (1).
+(3) Where there is found any artificial or mechanical means which, either alone or in conjunction with additional artificial or mechanical means not found, could be used for altering or facilitating the alteration of the index of the fuel-measuring equipment, or which would make the fuel-measuring equipment false or unjust in measuring or indicating the quantity of motor fuel in any fuel supply tank of that motor vehicle, the person having custody or control of the motor vehicle at the time such artificial or mechanical means are found shall be presumed, until the contrary is proved, to have abetted the alteration of the fuel-measuring equipment in contravention of subsection (1).
 
 [20/89]
 
-(4) In this section, “fuel-measuring equipment”, in relation to a motor vehicle, means any instrument or appliance, or a combination of instruments or appliances, capable of or constructed for measuring or indicating or measuring and indicating the quantity of motor spirit in the fuel supply tank of the motor vehicle and includes in particular any fuel gauge or fuel sensoring device.
+[Act 25 of 2011 wef 01/01/2012]
+
+(4) In this section, “fuel-measuring equipment”, in relation to a motor vehicle, means any instrument or appliance, or a combination of instruments or appliances, capable of or constructed for measuring or indicating or measuring and indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle and includes in particular any fuel gauge or fuel sensoring device.
 
 [20/89]
+
+[Act 25 of 2011 wef 01/01/2012]
 
 ### Savings
 
@@ -5649,6 +5661,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|57.|**Act 25 of 2011—Customs (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 October 2011|
+|||(Bill No. 19/2011 published on 18 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 January 2012|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
