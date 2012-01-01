@@ -863,7 +863,9 @@ Reportable Deaths
 
 7\. Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.
 
-8\. Any death in Singapore occurring at any workplace, or as a result of any accident or dangerous occurrence at a workplace, to which the Workplace Safety and Health Act (Cap. 354A) applies.
+8. Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act (Cap. 354A) applies.
+
+[S 712/2011 wef 01/01/2012]
 
 9\. Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.
 
@@ -889,7 +891,9 @@ Deaths for Which Inquiry Must be Held
 
 4\. Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.
 
-5\. Any death in Singapore occurring at any workplace, or as a result of any accident or dangerous occurrence at a workplace, to which the Workplace Safety and Health Act (Cap. 354A) applies.
+5. Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act (Cap. 354A) applies.
+
+[S 712/2011 wef 01/01/2012]
 
 6\. Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.
 
