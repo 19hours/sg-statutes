@@ -458,7 +458,9 @@ pay to the Government the sum of which is to be calculated on such basis as may 
 
 (13) If it is proved to the satisfaction of the Comptroller that any tax has been paid in excess of the amount with which any property is properly chargeable, the owner of the property shall be entitled to have the amount so paid in excess refunded.
 
-(14) Every claim for such refund under subsection (13) shall be made within 6 years of such excess payment.
+(14) Every claim for such refund under subsection (13) shall be made within 5 years of such excess payment.
+
+[27/2010 wef 01/01/2012]
 
 (15) The Comptroller shall certify the amount to be refunded and shall cause payment to be made immediately.
 
@@ -2001,6 +2003,12 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of Second and Third Readings|16 September 2010|
 ||Date of commencement|25 October 2010|
 |||(except section 4(b))|
+|21.|**Act 23 of 2010—Property Tax (Amendment) Act 2010**|
+||Date of First Reading|16 August 2010|
+|||(Bill No. 21/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|16 September 2010|
+||Date of commencement|1 January 2012|
+|||(section 4(b))|
 ## COMPARATIVE TABLE
 
 Property Tax Act
