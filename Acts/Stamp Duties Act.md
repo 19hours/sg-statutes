@@ -34,13 +34,13 @@
 
 - [6D Electronic funds transfer of duty](#Electronic-funds-transfer-of-duty)
 
-- [7 Mode of payment](#Mode-of-payment)
+- [7 (Repealed)](#Repealed)
 
-- [8 Franking of certain instruments](#Franking-of-certain-instruments)
+- [8 (Repealed)](#Repealed)
 
 - [9 Composition of duty](#Composition-of-duty)
 
-- [10 How instruments are to be written and stamped](#How-instruments-are-to-be-written-and-stamped)
+- [10 (Repealed)](#Repealed)
 
 - [11 Where duty chargeable depends on duty paid on another instrument](#Where-duty-chargeable-depends-on-duty-paid-on-another-instrument)
 
@@ -170,13 +170,13 @@
 
 - [58 Allowance for misused stamps](#Allowance-for-misused-stamps)
 
-- [59 Allowance, how to be made](#Allowance-how-to-be-made)
+- [59 (Repealed)](#Repealed)
 
-- [60 Stamp may be repurchased](#Stamp-may-be-repurchased)
+- [60 (Repealed)](#Repealed)
 
 [**Part IX OFFENCES AND PENALTIES**](#Part-IX)
 
-- [61 Not cancelling adhesive stamps](#Not-cancelling-adhesive-stamps)
+- [61 (Repealed)](#Repealed)
 
 - [62 Penalty for evasion of duty](#Penalty-for-evasion-of-duty)
 
@@ -228,7 +228,7 @@
 
 [**FIRST SCHEDULE Instruments Chargeable With Stamp Duty**](#FIRST-SCHEDULE-Instruments-Chargeable-With-Stamp-Duty)
 
-[**SECOND SCHEDULE Instruments Which May be Stamped With Impressed or Adhesive Stamps**](#SECOND-SCHEDULE-Instruments-Which-May-be-Stamped-With-Impressed-or-Adhesive-Stamps)
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**THIRD SCHEDULE Persons Liable to Pay Stamp Duty**](#THIRD-SCHEDULE-Persons-Liable-to-Pay-Stamp-Duty)
 
@@ -266,16 +266,6 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“†adhesive stamp” means any stamp authorised by the Commissioner for the purposes of this Act;\*
-
-†Definition of “adhesive stamp” to be deleted when section 2(
-
-a
-
-) of the Stamp Duties (Amendmetn) Act 1999 (Act 33 of 1999) is brought into operation.
-
-\*Revenue stamps were so authorised by G.N. No. S 252/70.
-
 “Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
@@ -283,20 +273,6 @@ a
 [36/2008 wef 16/12/2008]
 
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
-
-“‡die” includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
-
-‡Definition of “die” to be deleted when secton 2(
-
-a
-
-) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 “duly stamped”, as applied to an instrument chargeable with duty, means —
 
@@ -311,20 +287,6 @@ a
 “equitable mortgage” means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
 “executed” and “execution”, used with reference to instruments not under seal, mean “signed” and “signature”;
-
-“\*impressed stamp” means either an adhesive stamp affixed by the proper officer over which an impression denoting the date of such impression has been made by the proper officer by means of a die, or an impression made by the proper officer by any mechanical means indicating the payment of duty and the date of such impression;
-
-\*Definition of “impressed stamp” to be deleted when section 2(
-
-a
-
-) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 “instrument” includes every written document;
 
@@ -502,61 +464,9 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [33/99]
 
-### Mode of payment
+7\. [Repealed by Act 33/1999 wef 09/01/2012]
 
-\*7\.—(1) The duties for the time being chargeable upon any of the instruments specified in the Second Schedule may be paid and denoted by either impressed or adhesive stamps.
-
-(2) Subject to subsection (1), duties for the time being chargeable may be paid and denoted by impressed stamps, and no instrument, the duty upon which is permitted to be denoted by an impressed stamp, shall be deemed to be duly stamped unless it has been stamped in the manner prescribed in this section.
-
-[33/99]
-
-(3) The officer in charge of any stamp office authorised by the Commissioner to issue impressed stamps shall, on presentation to him at his office of any instrument for the purpose of being stamped with an impressed stamp, affix to the instrument an impressed stamp or stamps denoting the amount of duty paid.
-
-[14/83]
-
-(4) An instrument, the duty upon which is required or permitted by law to be denoted by an adhesive stamp, is not to be deemed duly stamped with an adhesive stamp unless —
-
-(a) the person required by law to cancel the adhesive stamp cancels it by writing on or across the stamp his name or initials, or the name or initials of his firm, together with the true date of his so writing, or otherwise effectually cancels the stamp and renders it incapable of being used for any other instrument; or
-
-(b) it is otherwise proved that the stamp appearing on the instrument was affixed thereto at the proper time.
-
-(5) Where 2 or more adhesive stamps are used to denote the stamp duty upon an instrument, each or every stamp shall be cancelled in the manner provided in subsection (4).
-
-(6) In the case of the instruments specified in the second column of the Second Schedule, the persons mentioned in the third column of that Schedule are the persons required to cancel the adhesive stamps.
-
-(7) Subject to section 6A, no stamps other than stamps of Singapore shall be used for payment of duty upon any instrument chargeable with duty under this Act.
-
-[33/99]
-
-\*Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
-
-### Franking of certain instruments
-
-\*8\.—(1) Notwithstanding anything in this Act, it shall be lawful for the Commissioner by licence under his hand to authorise any person to pay, by means of a postal franking machine, the duty on any instrument included in the Second Schedule.
-
-[38/75; 14/83; 26/96; 33/99]
-
-(2) A licence issued under this section shall be subject to such conditions as the Commissioner may in his discretion impose.
-
-(3) The issue of a licence under this section shall be notified by publication in the
-
-Gazette
-
-.
-
-(4) Every impression indicating the payment of duty made by a postal franking machine used under licences under this section shall contain the true date of the making of the impression.
-
-(5) The franking of any of the above-mentioned instruments by any duly authorised person as provided for in this section if done in accordance with the terms of this section and of the licence shall have the same effect as cancelling an adhesive stamp on the date and to the value indicated by the franking.
-
-\*Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+8\. [Repealed by Act 33/1999 wef 09/01/2012]
 
 ### Composition of duty
 
@@ -588,19 +498,7 @@ a
 
 [33/99]
 
-### How instruments are to be written and stamped
-
-\*10\.—(1) Every instrument written upon stamped paper is to be written in such manner, and every instrument partly or wholly written before being stamped shall be so stamped, that the stamp may appear on the face of the instrument and cannot be used for or applied to any other instrument written upon the same piece of paper.
-
-(2) If more than one instrument is written upon the same piece of paper, every one of the instruments shall be separately and distinctly stamped with the duty with which it is chargeable.
-
-\*Section 10 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+10\. [Repealed by Act 33/1999 wef 09/01/2012]
 
 ### Where duty chargeable depends on duty paid on another instrument
 
@@ -614,7 +512,7 @@ a
 
 (a) it is stamped as an original instrument; or
 
-(b) [Deleted by Act23/2011 wef19/02/2011]
+(b) [Deleted by Act 23/2011 wef 19/02/2011]
 
 (2) Without prejudice to subsection (1), the duplicate or counterpart of an instrument executed before 19th February 2011 and chargeable with duty shall be deemed duly stamped if it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
 
@@ -774,7 +672,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
 
-(b) [Deleted by Act23/2011 wef 01/04/2010];
+(b) [Deleted by Act 23/2011 wef 01/04/2010];
 
 (c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
 
@@ -798,9 +696,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-(5) [Deleted by Act23/2011 wef 01/04/2010]
+(5) [Deleted by Act 23/2011 wef 01/04/2010]
 
-(6) [Deleted by Act23/2011 wef 01/04/2010]
+(6) [Deleted by Act 23/2011 wef 01/04/2010]
 
 (7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
@@ -1034,7 +932,7 @@ the conveyance is to be charged in respect of that consideration with ad valorem
 
 (3) Where the consideration, or any part of the consideration, for a conveyance on sale consists of money payable periodically during any life or lives, the conveyance shall be charged in respect of that consideration with ad valorem duty on the amount which will or may, according to the terms of sale, be payable during the period of 12 years next after the day of the date of the instrument.
 
-(4) [Deleted by Act23/2011 wef19/02/2011].
+(4) [Deleted by Act 23/2011 wef 19/02/2011]
 
 Direction as to duty in cases of certain conveyances
 
@@ -1146,7 +1044,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (iv) such further time as the Commissioner may deem reasonable when, in unavoidable circumstances, the instrument cannot be produced within that period; and
 
-[23/2011docId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=validdocId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=validdocId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=validdocId=2011-ACT-23;docVerId=97f21e29-ac88-4f22-ba0a-a2c636c49aa2;transactionDate=20111220000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A28431aa3-86f7-482e-9864-ed4dedb85e0b%20ValidTime%3A20111220000000%20TransactionTime%3A20111220000000;rec%3D0;validDate=20111220000000;validated=valid wef 01/01/2012]
+[23/2011 wef 01/01/2012]
 
 (b) in the case of an executed instrument, the instrument is given up to be cancelled.
 
@@ -1422,7 +1320,7 @@ Settlement of policy of life insurance
 
 [23/2011 wef 19/02/2011]
 
-(3) [Deleted by Act23/2011 wef19/02/2011]
+(3) [Deleted by Act 23/2011 wef 19/02/2011]
 
 ### Conversion of firm and private company to limited liability partnership
 
@@ -1574,19 +1472,13 @@ Settlement of policy of life insurance
 
 (a) in the case of a person who is a designated partner referred to in subsection (2)(a)
 
-where A
+where A is the asset share of the person upon his becoming a designated partner; and
 
-is the asset share of the person upon his becoming a designated partner; and
-
-B
-
-is the value of the chargeable property held by the limited liability partnership upon the person becoming a designated partner; and
+B is the value of the chargeable property held by the limited liability partnership upon the person becoming a designated partner; and
 
 (b) in the case of a person who is a designated partner referred to in subsection (2)(b)
 
-where C
-
-is the asset share of the designated partner upon the significant change of partners in question;
+where C is the asset share of the designated partner upon the significant change of partners in question;
 
 D is —
 
@@ -1598,9 +1490,7 @@ the asset share of the designated partner upon a significant change of partners 
 
 if there is no such significant change of partners, the asset share of the designated partner upon the formation of the limited liability partnership; and
 
-E
-
-is the value of the chargeable property held by the limited liability partnership upon the significant change of partners in question.
+E is the value of the chargeable property held by the limited liability partnership upon the significant change of partners in question.
 
 [6/2005]
 
@@ -2094,47 +1984,15 @@ ALLOWANCE FOR SPOILED STAMPS
 
 [4/81]
 
-### Allowance, how to be made
+59\. [Repealed by Act 33/1999 wef 09/01/2012]
 
-\*59\. In any case in which allowance is made for spoiled or misused stamps, the Commissioner may give in lieu thereof other stamps of the same denomination and value, or if required, and he thinks proper, stamps of any other denomination to the same amount in value or, in his discretion, the same value in money, deducting therefrom the discount, if any, allowed on the purchase of stamps of a like description.
-
-\*Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
-
-### Stamp may be repurchased
-
-\*60\.—(1) When any person is in possession of a stamp which has not been spoiled or rendered unfit or useless for the purpose intended, but for which he has no immediate use, the Commissioner may, if he thinks fit, repay to him the value of the stamp in money, deducting therefrom the proper discount, if any, upon his delivering up the stamp to be cancelled, and proving to his satisfaction that it was purchased by him at the office of the Commissioner, or from some person duly appointed to sell and distribute stamps, within the period of 6 months next preceding the application and with a bona fide intention to use it.
-
-(2) In the case of impressed stamps, if the Commissioner is satisfied that the stamp was bought at his office, he may repay the value of the stamp in money without making any deduction therefrom.
-
-\*Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+60\. [Repealed by Act 33/1999 wef 09/01/2012]
 
 ## PART IX
 
 OFFENCES AND PENALTIES
 
-### Not cancelling adhesive stamps
-
-\*61\. Any person who being required by law to cancel an adhesive stamp neglects or refuses duly and effectually to do so in the manner prescribed by section 7(4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
-
-\*Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(
-
-a
-
-), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+61\. [Repealed by Act 33/1999 wef 09/01/2012]
 
 ### Penalty for evasion of duty
 
@@ -2596,7 +2454,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 20th February 2010 but before 30th August 2010
 
-In addition to duty under paragraph (a), where the property is disposed of in the following period from the date of its acquisition:
+In addition to duty underparagraph (a), where the property is disposed of in the following period from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2624,7 +2482,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 30th August 2010 but before 14th January 2011
 
-In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty underparagraph (a), where the property is disposed of in the following periods from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2668,7 +2526,7 @@ $1
 
 on sale of residential property, one of which is residential; and which is acquired on or after 14th January 2011
 
-In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty underparagraph (a), where the property is disposed of in the following periods from the date of its acquisition:
 
 Within one year
 
@@ -2690,7 +2548,7 @@ Exceeding 3 years but not exceeding 4 years
 
 on sale of residential property, whether or not any other type of property is also conveyed, transferred or assigned under the same instrument —
 
-In addition to duty under paragraphs (a) and either (ba) or (bb) (as applicable)
+In addition to duty underparagraphs (a) and either (ba) or (bb) (as applicable)
 
 (i)
 
@@ -2782,7 +2640,7 @@ See SETTLEMENT
 
 (f)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 (g)
 
@@ -2796,7 +2654,7 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 (ii)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 (h)
 
@@ -2810,7 +2668,7 @@ In a case where the conveyance, assignment or transfer is effected by more than 
 
 (i)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 (1)In this Article—
 
@@ -2828,11 +2686,19 @@ In a case where the conveyance, assignment or transfer is effected by more than 
 
 “Singapore citizen owning 2 or more properties” means a citizen of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in 2 or more residential properties situated within Singapore;
 
+“Singapore citizen owning 2 properties” means a citizen of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in 2 residential properties situated within Singapore;
+
+“Singapore permanent resident not owning property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, does not beneficially own (whether alone or jointly or in common with another) an estate or interest in any residential property situated within Singapore;
+
+“Singapore permanent resident owning one property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in a single residential property situated within Singapore;
+
+“Singapore permanent resident owning property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in one or more residential properties situated within Singapore.
+
 (2)In this Article—
 
 (a)
 
-a reference to a Singapore citizen not owning property, a Singapore citizen owning one property, a Singapore citizen owning 2 or more properties, a Singapore permanent resident not owning property, a Singapore permanent resident owning property, or a foreigner, is a reference to a person who comes within the definition or description of that term at the time of execution of the instrument in question;
+a reference to a Singapore citizen not owning property, a Singapore citizen owning one property, a Singapore citizen owning 2 properties, a Singapore citizen owning 2 or more properties, a Singapore permanent resident not owning property, a Singapore permanent resident owning one property, a Singapore permanent resident owning property, or a foreigner, is a reference to a person who comes within the definition or description of that term at the time of execution of the instrument in question;
 
 (b)
 
@@ -2852,6 +2718,92 @@ a reference to a grantee, transferee or lessee, in a case where the property is 
 
 (3)For the avoidance of doubt, in determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of partnership property or property held on trust by the person shall be disregarded.
 
+(4) For the avoidance of doubt —
+
+(a)
+
+a reference to the amount of consideration or value of residential property being conveyed, assigned or transferred includes the amount of consideration or value of the estate or interest in the property being conveyed, assigned or transferred; and
+
+(b)
+
+a reference to the number of residential properties being conveyed, transferred or assigned under an instrument includes a reference to the number of residential properties in which an estate or interest is being conveyed, transferred or assigned under the instrument.
+
+(5) If —
+
+(a)
+
+the grantee, transferee or lessee or any of 2 or more joint grantees, transferees or lessees under the instrument to be stamped is a relevant individual;
+
+(b)
+
+at the time of the execution of the instrument, the relevant individual beneficially owns jointly or in common with one or more other persons any estate or interest in any residential property other than by virtue of the transaction which is the subject of the instrument; and
+
+(c)
+
+that other or any of those other persons conveys, transfers or assigns his estate or interest (or any part thereof) in that property under the instrument to the grantee, transferee or lessee or joint grantees, transferees or lessees,
+
+then —
+
+(i)
+
+if no other residential property (or estate or interest therein) besides that estate or interest is conveyed, transferred or assigned under the instrument, paragraph (bc) of this Article shall not apply to that instrument notwithstanding anything in that paragraph; or
+
+(ii)
+
+in any other case, the conveyance, transfer or assignment of that estate or interest shall be disregarded in determining the applicability of paragraph (bc) of this Article, including in determining the total number of residential properties being conveyed, transferred or assigned under the instrument and the amount of stamp duty payable.
+
+(6)Paragraph (5) shall not apply if —
+
+(a)
+
+the relevant individual is one of 2 or more joint grantees, transferees or lessees under the instrument; and
+
+(b)
+
+without considering the status of the relevant individual, sub-paragraph (i), (ii), (iii), (iv), (v) or (vi) of paragraph (bc) of this Article applies to the instrument by virtue of the fact that the other joint grantee, transferee or lessee, or any of the other joint grantees, transferees or lessees, not being himself a relevant individual who satisfies paragraph (5)(b) in relation to that estate or interest, is —
+
+(i)
+
+in the case of sub-paragraph (i) of paragraph (bc) of this Article, a Singapore citizen owning 2 or more properties;
+
+(ii)
+
+in the case of sub-paragraph (ii) of paragraph (bc) of this Article, a Singapore citizen owning one property;
+
+(iii)
+
+in the case of sub-paragraph (iii) of paragraph (bc) of this Article, a Singapore citizen not owning property;
+
+(iv)
+
+in the case of sub-paragraph (iv) of paragraph (bc) of this Article, a Singapore permanent resident owning property;
+
+(v)
+
+in the case of sub-paragraph (v) of paragraph (bc) of this Article, a Singapore permanent resident not owning property; or
+
+(vi)
+
+in the case of sub-paragraph (vi) of paragraph (bc) of this Article, a foreigner or an entity.
+
+(7) In paragraphs (5) and (6), “relevant individual” means an individual who is —
+
+(a)
+
+a Singapore citizen owning one property;
+
+(b)
+
+a Singapore citizen owning 2 properties; or
+
+(c)
+
+a Singapore permanent resident owning one property,
+
+where the property or any of the properties (as the case may be) is the property referred to inparagraph (5)(b).
+
+(8) In determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of property that is the subject of a notification under section 5 of the Land Acquisition Act (Cap. 152) shall be disregarded.
+
 4
 
 DECLARATION of any trust or concerning any immovable property, stock or shares by any writing, not being a will, or an instrument chargeable with duty as a conveyance on sale, gift or settlement
@@ -2860,7 +2812,7 @@ $10
 
 5
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 Exemption:
 
@@ -2916,13 +2868,13 @@ The same duty as for a conveyance on sale in consideration of the premium and a 
 
 (d)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 $2
 
 (e)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 $10
 
@@ -2970,13 +2922,13 @@ The same duty as in paragraph (a) for such further money
 
 (d)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 $2
 
 (e)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 $10
 
@@ -2996,7 +2948,7 @@ Any security executed on or after 19th February 2011 in conjunction with the sec
 
 10
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 11
 
@@ -3010,7 +2962,7 @@ The same duty as for conveyance, assignment or transfer
 
 (b)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
 
 Exemption:
 
@@ -3028,7 +2980,9 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 (b)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+[Deleted by Act23/2011 wef 19/02/2011]
+
+[S 117/2012 wef 08/12/2011]
 
 [S 644/2011 wef 08/12/2011]
 
@@ -3040,27 +2994,9 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 [23/2011 wef 19/02/2011]
 
-SECOND SCHEDULE\*
+SECOND SCHEDULE
 
-Sections 7(1) and (6) and 8(1)
-
-Instruments Which May be Stamped With Impressed or Adhesive Stamps
-
-Article No.
-
-Nature of the instrument and the reference number thereto in the First Schedule
-
-Person required to cancel the adhesive stamp
-
-1
-
-CONTRACT NOTE — Article No. 2
-
-The person by whom the note is executed
-
-\*Second Schedule to be deleted when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+[Repealed by Act 33/1999 wef 09/01/2011]
 
 THIRD SCHEDULE
 
@@ -3320,7 +3256,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||No Bill number given)|
 ||Date Committed to Select Committee|18 July 1950|
-||Date of Presentation of Select Committee Report|21 November 1950 (Council Paper No. 87 of 1950)|
+||Date of Presentation of Select Committee Report|21 November 1950(Council Paper No. 87 of 1950)|
 ||Date of Second and Third Readings|21 November 1950|
 ||Date of commencement|22 November 1950|
 |10.|**Ordinance 20 of 1952—Stamp (Amendment) Ordinance 1952**|
@@ -3387,7 +3323,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||2 June 1961)|
 ||Date of Second and Third Readings|14 June 1961|
-||Date of commencement|1 January 1961 (section 15)|
+||Date of commencement|1 January 1961(section 15)|
 
 |
 7 July 1961 (except section 15)|
@@ -3486,9 +3422,9 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||27 February 1993)|
 ||Date of Second Reading|19 March 1993|
 ||Date Committed to Select Committee|19 March 1993|
-||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
+||Date of Presentation of Select Committee Report|7 September 1993(Parl 4 of 1993)|
 ||Date of Third Reading|12 October 1993|
-||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule) 1 April 1994 (para (3) of Fifth Schedule)|
+||Date of commencement|26 November 1993(except para (3) of Fifth Schedule) 1 April 1994 (para (3) of Fifth Schedule)|
 |34.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
 ||Date of First Reading|21 May 1996|
 |||(Bill No. 16/96 published on|
@@ -3506,7 +3442,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
-||Date of commencement|1 September 1999 (except sections 2 (a), 36, 37 and 39 (2))|
+||Date of commencement|1 September 1999(except sections 2 (a), 36, 37 and 39 (2))|
 |37.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
 ||Date of First Reading|13 November 2000|
 |||(Bill No. 31/2000 published on|
@@ -3606,11 +3542,18 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|19 February 2011|
 |56.|**G.N. No. S 644/2011—Stamp Duties (Amendment of First Schedule) (No. 2) Notification 2011**|
 ||Date of commencement|8 December 2011|
-|57.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+|57.|**G. N. No. S 117/2012—Stamp Duties Act (Amendment of First Schedule) Notification 2012**|
+||Date of commencement|8 December 2011|
+|58.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 15/2011 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012|
+|59.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
+||Date of First Reading|3 August 1999|
+|||(Bill No. 28/99 published on 4 August 1999)|
+||Date of Second and Third Readings|18 August 1999|
+||Date of commencement|9 January 2012|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
