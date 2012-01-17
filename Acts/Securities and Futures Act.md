@@ -1436,6 +1436,10 @@ and includes a futures option transaction, but does not include such contract or
 
 “principal”, in relation to a representative, means a person whom the representative is in the direct employment of, acting for or by arrangement with, and for whom the representative carries out any regulated activity;
 
+“providing credit rating services” has the meaning given to it in the Second Schedule;
+
+[S 20/2012 wef 17/01/2012]
+
 “providing custodial services for securities” has the meaning given to it in the Second Schedule;
 
 “provisional representative”, in respect of a type of regulated activity, has the meaning given to that expression in section 99E, and “provisional representative” means a provisional representative in respect of any type of regulated activity;
@@ -6920,11 +6924,15 @@ Registers of Interests in Securities
 
 [S 376/2008 wef 01/08/2008]
 
-(iii) a holder of a capital markets services licence for fund management and a representative of such a holder; or
+(iii) a holder of a capital markets services licence for fund management and a representative of such a holder;
 
 [S 376/2008 wef 01/08/2008]
 
-(iv) a holder of a capital markets services licence for real estate investment trust management and a representative of such a holder; and
+(iv) a holder of a capital markets services licence for real estate investment trust management and a representative of such a holder; or
+
+(v) a holder of a capital markets services licence for providing credit rating services and a representative of such a holder; and
+
+[S 20/2012 wef 17/01/2012]
 
 (b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
 
@@ -18081,6 +18089,8 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
+||Date of commencement|17 January 2012|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
