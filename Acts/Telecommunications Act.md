@@ -22,6 +22,8 @@
 
 - [5A Power to grant spectrum right](#Power-to-grant-spectrum-right)
 
+- [5B Power to license satellite orbital slots](#Power-to-license-satellite-orbital-slots)
+
 - [6 Designation of public telecommunication licensees](#Designation-of-public-telecommunication-licensees)
 
 - [7 Modification of licence conditions](#Modification-of-licence-conditions)
@@ -42,6 +44,8 @@
 
 - [14 Power to enter on other land or building for purposes of installation or plant](#Power-to-enter-on-other-land-or-building-for-purposes-of-installation-or-plant)
 
+- [14A Transfer of installation or plant](#Transfer-of-installation-or-plant)
+
 - [15 Savings of wayleave agreements](#Savings-of-wayleave-agreements)
 
 - [16 Inspection, maintenance and repair of installation or plant for telecommunications](#Inspection-maintenance-and-repair-of-installation-or-plant-for-telecommunications)
@@ -50,7 +54,7 @@
 
 - [18 Removal of trees dangerous to or obstructing any installation or plant for telecommunications](#Removal-of-trees-dangerous-to-or-obstructing-any-installation-or-plant-for-telecommunications)
 
-- [19 Provision of space or facility by developer or owner of building](#Provision-of-space-or-facility-by-developer-or-owner-of-building)
+- [19 Provision of space or facility under code of practice](#Provision-of-space-or-facility-under-code-of-practice)
 
 - [20 Provision of facilities for radio-communication](#Provision-of-facilities-for-radio-communication)
 
@@ -64,9 +68,9 @@
 
 - [25 Exemption from distress and attachment, etc.](#Exemption-from-distress-and-attachment-etc)
 
-[**Part IV CODES OF PRACTICE AND DIRECTIONS**](#Part-IV)
+[**Part IV CODES OF PRACTICE, STANDARDS OF PERFORMANCE, DIRECTIONS AND ADVISORY GUIDELINES ON TELECOMMUNICATIONS**](#Part-IV)
 
-- [26 Codes of practice and standards of performance](#Codes-of-practice-and-standards-of-performance)
+- [26 Codes of practice and standards of performance on telecommunications](#Codes-of-practice-and-standards-of-performance-on-telecommunications)
 
 - [27 Directions affecting telecommunication licensees](#Directions-affecting-telecommunication-licensees)
 
@@ -82,25 +86,39 @@
 
 - [32 Duty to enquire before excavation](#Duty-to-enquire-before-excavation)
 
-[**Part VA CONTROL OVER DESIGNATED TELECOMMUNICATION LICENSEES**](#Part-VA)
+[**Part VA CONTROL OF DESIGNATED TELECOMMUNICATION LICENSEES, DESIGNATED BUSINESS TRUSTS AND DESIGNATED TRUSTS**](#Part-VA)
 
 - [32A Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [32B Control of acquisition of designated telecommunication licensee](#Control-of-acquisition-of-designated-telecommunication-licensee)
+- [32B Control of equity interests and voting power in designated telecommunication licensee, designated business trust or designated trust](#Control-of-equity-interests-and-voting-power-in-designated-telecommunication-licensee-designated-business-trust-or-designated-trust)
 
-- [32C Power to issue code of practice relating to control of designated telecommunication licensees](#Power-to-issue-code-of-practice-relating-to-control-of-designated-telecommunication-licensees)
+- [32C Power to issue code of practice relating to control of designated telecommunication licensees, designated business trusts and designated trusts](#Power-to-issue-code-of-practice-relating-to-control-of-designated-telecommunication-licensees-designated-business-trusts-and-designated-trusts)
 
-- [32D Power to issue direction](#Power-to-issue-direction)
+- [32D Power to issue directions relating to control of designated telecommunication licensees, designated business trusts and designated trusts](#Power-to-issue-directions-relating-to-control-of-designated-telecommunication-licensees-designated-business-trusts-and-designated-trusts)
 
-- [32E Power of Authority to obtain information](#Power-of-Authority-to-obtain-information)
+- [32E Power of Authority to obtain information relating to control of designated telecommunication licensees, designated business trusts and designated trusts](#Power-of-Authority-to-obtain-information-relating-to-control-of-designated-telecommunication-licensees-designated-business-trusts-and-designated-trusts)
 
 - [32F Appointment of chief executive officer, director, etc., of designated telecommunication licensee](#Appointment-of-chief-executive-officer-director-etc-of-designated-telecommunication-licensee)
+
+[**Part VB SPECIAL ADMINISTRATION ORDER**](#Part-VB)
+
+- [32G Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [32H Declaration of specified telecommunication licensee](#Declaration-of-specified-telecommunication-licensee)
+
+- [32I Meaning and effect of special administration order](#Meaning-and-effect-of-special-administration-order)
+
+- [32J Power to make special administration order, etc.](#Power-to-make-special-administration-order-etc)
+
+- [32K Transfer of property, etc., under special administration order](#Transfer-of-property-etc-under-special-administration-order)
+
+- [32L Restrictions on voluntary winding up, etc.](#Restrictions-on-voluntary-winding-up-etc)
 
 [**Part VI OFFENCES AND PENALTIES**](#Part-VI)
 
 - [33 Unlawful operation of telecommunication system or service](#Unlawful-operation-of-telecommunication-system-or-service)
 
-- [34 Prohibitions in respect of telecommunication and radio- communication equipment](#Prohibitions-in-respect-of-telecommunication-and-radio--communication-equipment)
+- [34 Prohibitions in respect of telecommunication and radio-communication equipment](#Prohibitions-in-respect-of-telecommunication-and-radio-communication-equipment)
 
 - [35 Penalty for unlicensed station](#Penalty-for-unlicensed-station)
 
@@ -180,11 +198,13 @@
 
 - [69A Interest on sums unpaid](#Interest-on-sums-unpaid)
 
-- [69B Power of Minister to issue written order relating to acquisition of assets, etc., of telecommunication licensee](#Power-of-Minister-to-issue-written-order-relating-to-acquisition-of-assets-etc-of-telecommunication-licensee)
+- [69B Power of Minister to issue written order relating to acquisition of assets, etc., of telecommunication licensee, designated business trust or designated trust](#Power-of-Minister-to-issue-written-order-relating-to-acquisition-of-assets-etc-of-telecommunication-licensee-designated-business-trust-or-designated-trust)
+
+- [69C Power of Minister to issue separation order](#Power-of-Minister-to-issue-separation-order)
 
 - [70 Exclusion of liability of public telecommunication licensees](#Exclusion-of-liability-of-public-telecommunication-licensees)
 
-- [71 Service of documents](#Service-of-documents)
+- [71 Service of documents, etc.](#Service-of-documents-etc)
 
 - [72 Excluded matters](#Excluded-matters)
 
@@ -232,7 +252,9 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Authority and includes any temporary Chief Executive of the Authority appointed under section 10 of the Info-communications Development Authority of Singapore Act;
 
-“code of practice” and “standard of performance” mean, respectively, a code of practice and a standard of performance issued or approved under section 26;
+“code of practice” means a code of practice issued or approved under section 19 or 26;
+
+[Act 19 of 2011 wef 01/02/2012]
 
 “earthworks” includes —
 
@@ -250,11 +272,17 @@ PRELIMINARY
 
 (c) the driving or sinking of any earth rod, casing or tube into the ground;
 
-“equipment” includes any appliance, apparatus or accessory used or intended to be used for telecommunication purposes;
+“equipment” includes any appliance, apparatus or accessory used or intended to be used for telecommunications, including (for the avoidance of doubt) any such appliance, apparatus or accessory capable of being used for the operation of any broadcasting service;
+
+[Act 19 of 2011 wef 01/02/2012]
 
 “Hertzian or radio waves” means electro-magnetic waves of frequencies not exceeding 1,000 terahertz propagated in space without any artificial guide;
 
 “installation or plant used for telecommunications” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with telecommunications;
+
+“Media Development Authority of Singapore” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act (Cap. 172);
+
+[Act 19 of 2011 wef 01/02/2012]
 
 “message” means any sign, signal, writing, image, sound, intelligence or information of any nature transmitted by telecommunications;
 
@@ -268,11 +296,15 @@ PRELIMINARY
 
 “radio-communication system” means any system used or intended to be used for radio-communications;
 
-“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323, 1993 Ed.) repealed by the Info- communications Development Authority of Singapore Act (Cap. 137A);
+“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323, 1993 Ed.) repealed by the Info-communications Development Authority of Singapore Act (Cap. 137A);
 
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
 “shares” includes stock;
+
+“standard of performance” means a standard of performance issued or approved under section 26;
+
+[Act 19 of 2011 wef 01/02/2012]
 
 “street” includes any way, road, lane, path, passage or open space, whether a thoroughfare or not, over which the public have a right of way and also the roadway and footway over any public bridge and includes any road, footway or passage, used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not;
 
@@ -286,13 +318,19 @@ PRELIMINARY
 
 “telecommunication cable detection work licence” means a licence granted under section 30;
 
-“telecommunication licensee” means a person to whom a licence has been granted under section 5;
+[10/2005 wef 16/02/2005]
+
+“telecommunication licensee” means a person to whom a licence has been granted under section 5 or 5B;
+
+[Act 19 of 2011 wef 01/02/2012]
 
 “telecommunication line” means a wire or cable used for telecommunications with any casing, coating, tube or pipe enclosing the same and any appliance and apparatus connected therewith for the purpose of fixing or insulating the same;
 
 “telecommunication service” means any service for telecommunications but excludes any broadcasting service;
 
-“telecommunication system” means any system used or intended to be used for telecommunications;
+“telecommunication system” means any system used or intended to be used for telecommunications, including (for the avoidance of doubt) any such system capable of being used for the operation of any broadcasting service;
+
+[Act 19 of 2011 wef 01/02/2012]
 
 “telecommunication system licensee” means a person licensed under section 5 to operate a telecommunication system;
 
@@ -358,6 +396,8 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (6) Nothing in this section shall prevent the Minister from directing the Authority to grant a licence in any specific case.
 
+[10/2005 wef 16/02/2005]
+
 (7) Anything done under and in accordance with a licence granted under subsection (1) shall not constitute an infringement of the privilege conferred by section 3.
 
 ### Power to grant spectrum right
@@ -406,9 +446,49 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (c) provide for the suspension or cancellation of the grant of any spectrum right or part of any spectrum right and the grounds therefor; and
 
-(d) impose a financial penalty not exceeding $1 million for the breach of any of the conditions of the grant of any spectrum right or of any direction issued under this section.
+(d) impose on a person who is granted any spectrum right, for the breach of any of the conditions of that grant or of any direction issued under this section, a financial penalty of an amount not exceeding the higher of the following amounts:
+
+(i) 10% of the annual turnover of that part of the person’s business in respect of which the person is granted the spectrum right, as ascertained from the person’s latest audited accounts; or
+
+(ii) $1 million.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 [10/2005 wef 16/02/2005]
+
+### Power to license satellite orbital slots
+
+5B\.—(1) The Authority may, with the consent of or in accordance with the terms of a general authority given by the Minister, grant a licence for the use of any satellite orbital slot —
+
+(a) unconditionally or subject to such conditions as the Authority may impose and specify in the licence; and
+
+(b) irrevocably or subject to revocation as specified in the licence.
+
+(2) A licence under subsection (1) —
+
+(a) may be granted to any person or class of persons, or to a particular person; and
+
+(b) may include (without prejudice to the power to impose conditions conferred by that subsection) conditions requiring —
+
+(i) the licensee to enter into agreements or arrangements with any person or class of persons, or with another telecommunication licensee, for coordination of radio frequencies;
+
+(ii) the payment to the Authority of a fee on the grant of the licence, of periodic fees during the currency of the licence, or of both, each fee being of such amount as may be determined by or under the licence;
+
+(iii) the licensee to comply with any direction given by the Authority as to such matters as are specified in the licence, or as are of a description specified in the licence;
+
+(iv) the licensee to comply with codes of practice and standards of performance that are applicable to the licensee; and
+
+(v) the licensee to do, or to refrain from doing, such things as are specified in the licence, or as are of a description specified in the licence.
+
+(3) Any payment required by subsection (2)(b)(ii) to be rendered to the Authority may be recovered by the Authority in any court of competent jurisdiction as if the payment were a simple contract debt.
+
+(4) No person shall question whether the grant of a licence under subsection (1) was, or was not, effected with the consent of or in accordance with the terms of a general authority given by the Minister, and the validity of a licence granted under that subsection shall not be impugned on the ground that it was granted neither with the consent of nor in accordance with the terms of a general authority given by the Minister.
+
+(5) The grant of licences under this section shall be at the discretion of the Authority.
+
+(6) Nothing in this section shall prevent the Minister from directing the Authority to grant a licence in any specific case.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Designation of public telecommunication licensees
 
@@ -416,7 +496,9 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 ### Modification of licence conditions
 
-7\.—(1) Subject to this section, the Authority may modify the conditions of a licence granted under section 5.
+7\.—(1) Subject to this section, the Authority may modify the conditions of a licence granted under section 5 or 5B.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (2) Before making modifications to the conditions of a licence of a public telecommunication licensee under this section, the Authority shall give notice to the licensee —
 
@@ -448,7 +530,7 @@ and, in either event, it shall thereupon issue a direction in writing to such li
 
 ### Suspension or cancellation of licence, etc.
 
-8\.—(1) If the Authority is satisfied that a person who is granted a licence under section 5 or any regulations made under this Act is contravening, or has contravened, whether by act or omission —
+8\.—(1) If the Authority is satisfied that a person who is granted a licence under section 5 or 5B or any regulations made under this Act is contravening, or has contravened, whether by act or omission —
 
 (a) any of the conditions of the licence or part thereof;
 
@@ -464,7 +546,13 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (i) issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;
 
-(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.
+(ii) require the person to pay, within a specified period, a financial penalty of an amount not exceeding the higher of the following amounts:
+
+(A) 10% of the annual turnover of that part of the person’s business in respect of which the person is granted the licence, as ascertained from the person’s latest audited accounts; or
+
+(B) $1 million.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (2) If the Authority is satisfied that —
 
@@ -490,11 +578,15 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 
 (4) An order under subsection (1)(i) —
 
-(a) shall require the person concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the order or are of a description so specified therein;
+(a) shall require the person concerned (according to the circumstances of the case) to do, or to refrain from doing, such things as are specified in the order, or as are of a description specified in the order; and
 
-(b) shall take effect at such time, being the earliest practicable time, as is determined by or under that order; and
+(b) shall take effect at such time (being the earliest practicable time) as is determined by or under that order.
 
-(c) may be revoked at any time by the Authority.
+[Act 19 of 2011 wef 01/02/2012]
+
+(4A) The Authority may at any time vary, suspend or revoke the whole or any part of an order under subsection (1)(i).
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -502,11 +594,29 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 
 (6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
+(6A) If the Authority, by notice in writing under subsection (1), requires a person who is granted a licence to pay, within a specified period, a financial penalty under subsection (1)(ii), and the person fails or refuses to pay the financial penalty within the specified period, the Authority may, by notice in writing and without payment of any compensation, do all or any of the following:
+
+(a) cancel the licence or part thereof;
+
+(b) suspend the licence or part thereof for such period as it thinks fit;
+
+(c) reduce the period for which the licence is to be in force.
+
+[Act 19 of 2011 wef 01/02/2012]
+
 (7) Any financial penalty payable by any person under subsection (1)(ii) shall be recoverable by the Authority as a debt due to the Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
 
 ### Approval of equipment
 
-9\.—(1) Any equipment to be used for connection to any telecommunication system or equipment belonging to a telecommunication system licensee shall be approved by the Authority before use.
+9\.—(1) The following equipment shall be approved by the Authority before use:
+
+(a) any equipment to be used for connection (whether directly or indirectly) to any telecommunication system;
+
+(b) any equipment to be used as an adjunct to or in conjunction with any telecommunication system; and
+
+(c) any equipment belonging to a telecommunication system licensee.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (2) A person applying for an approval under this section may be required by the Authority to comply with such requirements as the Authority may think appropriate; and those requirements may include a requirement to satisfy some other person with respect to any matter.
 
@@ -518,11 +628,13 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 
 (6) The Authority or any other person by whom any matter falls to be determined for the purposes of any requirement imposed in pursuance of subsection (2) or (4) may charge a fee in respect of the carrying out of any test or other assessment made by the Authority or other person.
 
-(7) A public telecommunication licensee may, with the approval of the Authority (except in cases of emergency), cease or refuse to supply a telecommunication service to any person by means of a telecommunication system or telecommunication line operated by the licensee if, through the use of such telecommunication service, there is or is intended to be connected to the telecommunication system or telecommunication line, equipment or cabling that is a threat to —
+(7) A public telecommunication licensee may, with the approval of the Authority (except in cases of emergency), cease or refuse to supply a telecommunication service to any person by means of a telecommunication system operated by the licensee if, through the use of such telecommunication service, there is or is intended to be connected to the telecommunication system, equipment or cabling that is a threat to —
 
-(a) the safety or proper functioning of the telecommunication system or telecommunication line; or
+(a) the safety or proper functioning of the telecommunication system; or
 
 (b) the safety of any person.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Residual power of Authority to provide telecommunication services
 
@@ -558,7 +670,9 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 ### Power to enter on and examine land other than State land
 
-12\.—(1) Whenever it appears to a public telecommunication licensee that it shall or probably shall be necessary to exercise the powers conferred by this Act upon a public telecommunication licensee in respect of any land other than State land for the provision of any telecommunication service, that licensee or any person authorised by that licensee in that behalf may, after giving not less than 3 hours’ previous notice to the occupier thereof, if any, enter upon the land and may survey and take levels and do all other necessary acts preparatory to the provision of the service, so far as the same may be possible without causing any damage or disturbance.
+12\.—(1) Whenever it appears to a public telecommunication licensee that it shall or probably shall be necessary to exercise the powers conferred by this Act upon a public telecommunication licensee in respect of any land other than State land for the provision of any telecommunication service or installation of any telecommunication system, that licensee or any person authorised by that licensee in that behalf may, after giving not less than 3 hours’ previous notice to the occupier thereof, if any, enter upon the land and may survey and take levels and do all other necessary acts preparatory to the provision of the service or installation of the system, as the case may be, so far as the same may be possible without causing any damage or disturbance.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (2) In the event of any damage or disturbance being caused by reason of the entry, the public telecommunication licensee shall pay compensation to the owner or occupier thereof.
 
@@ -566,27 +680,27 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 ### Power to enter on State land for purposes of installation or plant
 
-13\.—(1) For the purpose of providing any telecommunication service, a public telecommunication licensee or any person authorised by the Authority in that behalf may at any reasonable time —
+13\.—(1) For the purpose of providing any telecommunication service or installing any telecommunication system, a public telecommunication licensee or any person authorised by the Authority in that behalf may at any reasonable time —
 
 (a) enter upon any State land;
 
-(b) subject to the approval of the Authority and the Singapore Land Authority, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the telecommunication service; and
+(b) subject to the approval of the Authority and the Singapore Land Authority, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the service or installing the system, as the case may be; and
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (c) carry out all necessary works in connection therewith, and may, in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose.
 
 [10/2005 wef 16/02/2005]
 
-(2) Where any such work interferes with improvements, buildings, growing trees or crops, the licensee shall pay compensation for any damage or disturbance.
+[Act 19 of 2011 wef 01/02/2012]
 
-[10/2005 wef 16/02/2005]
+(2) Where any such work interferes with improvements, buildings, growing trees or crops, the licensee shall pay compensation for any damage or disturbance.
 
 (3) Where the land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
 
-[10/2005 wef 16/02/2005]
-
 ### Power to enter on other land or building for purposes of installation or plant
 
-14\.—(1) Subject to this section, whenever it is necessary to do so for the purposes of providing any telecommunication service under this Act, a public telecommunication licensee may under, upon or over any land (other than State land) or in any building on any land —
+14\.—(1) Subject to this section, whenever it is necessary to do so for the purposes of providing any telecommunication service or installing any telecommunication system under this Act, a public telecommunication licensee may under, upon or over any land (other than State land) or in any building on any land —
 
 (a) lay, place or carry on and erect such installation or plant used for telecommunications as may be necessary or proper for such purposes; and
 
@@ -595,6 +709,8 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 and pay compensation to any person interested for any damage, disturbance or disability that may be caused thereby.
 
 [10/2005 wef 16/02/2005]
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (2) Any compensation payable under subsection (1) may include an annual payment for land, building or other immovable property used for the purpose of the public telecommunication licensee’s installation or plant.
 
@@ -622,13 +738,19 @@ and pay compensation to any person interested for any damage, disturbance or dis
 
 (8) If an objection is lodged and is not withdrawn before the date fixed for the hearing thereof, the Authority shall hold an enquiry, giving each party an opportunity to be heard.
 
-[10/2005 wef 16/02/2005]
-
 (9) Upon the conclusion of the enquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, any of the acts mentioned in the notice given under subsection (4) to be carried out.
 
 [10/2005 wef 16/02/2005]
 
 (10) [Deleted by Act 10/2005 wef 16/02/2005]
+
+### Transfer of installation or plant
+
+14A\.—(1) Where a public telecommunication licensee (referred to in this section as the transferor licensee), after having laid, placed, carried on or erected any installation or plant used for telecommunications under section 13 or 14, transfers the installation or plant, or any part thereof, to another public telecommunication licensee (referred to in this section as the transferee licensee), all rights conferred and obligations imposed on the transferor licensee under this Act in respect of any land, building or other property under, over, along, across, in or upon which the transferred installation or plant or part thereof has been laid, placed, carried on or erected shall be deemed, on the transfer date, by virtue of this subsection and without further assurance, to have been transferred to the transferee licensee.
+
+(2) Subsection (1) shall apply to every transfer of installation or plant or part thereof referred to in that subsection which takes place on or after 1st July 2011.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Savings of wayleave agreements
 
@@ -668,7 +790,9 @@ and pay compensation to any person adversely affected for any damage that may be
 
 ### Removal of trees dangerous to or obstructing any installation or plant for telecommunications
 
-18\.—(1) Where, in the opinion of a public telecommunication licensee, there is at any time danger or suspected danger that any tree (which term in this section includes undergrowth) near the licensee’s installation or plant may interrupt or interfere with any telecommunication service or cause damage to such installation or plant, the licensee may cause the tree to be felled or dealt with in such other manner as will, in its opinion, avert the danger.
+18\.—(1) Where, in the opinion of a public telecommunication licensee, there is at any time danger or suspected danger that any tree (which term in this section includes undergrowth) near the licensee’s installation or plant may interrupt or interfere with any telecommunication service provided by the licensee or cause damage to such installation or plant, the licensee may cause the tree to be felled or dealt with in such other manner as will, in its opinion, avert the danger.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (2) A public telecommunication licensee shall, in the exercise of its powers under subsection (1), be subject to the provisions of the Parks and Trees Act (Cap. 216).
 
@@ -688,9 +812,57 @@ and pay compensation to any person adversely affected for any damage that may be
 
 (10) If any tree is felled or vegetation is cleared upon land adjacent to a public telecommunication licensee’s installation or plant, it shall be presumed until the contrary is proved that the tree was felled or the vegetation was cleared by the owner or occupier of the land or by his employees or agents acting as such.
 
-### Provision of space or facility by developer or owner of building
+### Provision of space or facility under code of practice
 
-19\. Any developer or owner of a building who requires any telecommunication service of a telecommunication licensee shall provide at his expense, and in accordance with such specifications as the Authority may publish, such space and facilities within or on the building and access thereto, as may be necessary for the operation of any installation or plant to be used in providing the telecommunication service.
+19\.—(1) The Authority may, from time to time —
+
+(a) issue one or more codes of practice for or in connection with the provision, maintenance and use of, and access to, space and facilities within or on any land or building for the operation of any installation, plant or system used for telecommunications, and the allocation of costs and expenses incurred for such provision, maintenance, use and access; and
+
+(b) amend or revoke any code of practice issued under paragraph (a).
+
+(2) A code of practice issued under subsection (1) may, in particular —
+
+(a) require the developer or owner of any land or building to provide and maintain, at his expense, such space or facility within or on the land or building, and access to that space or facility, for the operation of any installation, plant or system used for telecommunications; and
+
+(b) provide for such fees and charges as may be payable to the Authority in relation to any application or request made to the Authority under the code of practice.
+
+(3) If any provision in any code of practice issued under subsection (1) is inconsistent with any provision of this Act, that provision in that code of practice, to the extent of the inconsistency —
+
+(a) shall have effect subject to the provisions of this Act; or
+
+(b) having regard to the provisions of this Act, shall not have effect.
+
+(4) A code of practice issued under subsection (1) shall not have legislative effect.
+
+(5) Subject to subsection (6), every developer or owner of any land or building, and every telecommunication licensee, to whom any code of practice issued under subsection (1) applies shall comply, at his expense, with that code of practice.
+
+(6) The Authority may, either generally or for such time as the Authority may specify, waive the application, to any developer or owner of any land or building or to any telecommunication licensee, of any code of practice issued under subsection (1) or of any part thereof.
+
+(7) Where any code of practice issued under subsection (1) applies to a person who is a developer or an owner of any land or building, if the Authority is satisfied that the person is contravening, or has contravened, whether by act or omission, any provision of that code of practice, the Authority may, by notice in writing, issue such written order to the person as the Authority considers necessary for the purpose of securing compliance with that provision.
+
+(8) An order under subsection (7) —
+
+(a) shall require the person concerned (according to the circumstances of the case) to do, or to refrain from doing, such things as are specified in the order, or as are of a description specified in the order; and
+
+(b) shall take effect at such time (being the earliest practicable time) as is determined by or under that order.
+
+(9) The Authority may at any time vary, suspend or revoke the whole or any part of an order under subsection (7).
+
+(10) Any person referred to in subsection (7) who fails to comply with an order under that subsection shall be guilty of an offence.
+
+(11) Any relevant specifications in force immediately before the appointed day —
+
+(a) shall be deemed to be a code of practice issued under subsection (1); and
+
+(b) shall remain in force until revoked or replaced by a code of practice issued under subsection (1).
+
+(12) In subsection (11) —
+
+“appointed day” means the date of commencement of section 12 of the Telecommunications (Amendment) Act 2011;
+
+“relevant specifications” means any specifications published by the Authority under section 19 in force immediately before the appointed day.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Provision of facilities for radio-communication
 
@@ -714,9 +886,19 @@ and pay compensation to any person adversely affected for any damage that may be
 
 [10/2005 wef 16/02/2005]
 
-(2) Where a telecommunication licensee is using any space or facility provided by the developer or owner of any land or building pursuant to any direction under subsection (1) or any code of practice issued by the Authority, and the licensee intends to use that space or facility to provide any telecommunication service or to enhance the quality of any telecommunication service provided to any other land or building, the licensee shall notify the developer or owner of the licensee’s intention.
+(1A) Where the Authority, after consultation with the Media Development Authority of Singapore, considers it necessary that any broadcasting service, the operation of which requires a telecommunication system, should be provided to any land or building, whether completed or not, or that the quality of any such broadcasting service provided to any land or building should be enhanced, the Authority may by direction —
+
+(a) require the developer or owner of the land or building to provide at his expense, within such period as may be specified in the direction, such space or facility within or on the land or building, and access thereto, as the Authority may specify in its direction; and
+
+(b) require any telecommunication licensee to install, within such period as may be specified in the direction, such installation, plant or system as the Authority considers necessary for the provision, or the enhancement of quality, of the broadcasting service to the land or building.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(2) Where a telecommunication licensee is using any space or facility provided by the developer or owner of any land or building pursuant to any direction under subsection (1) or (1A) or any code of practice issued by the Authority, and the licensee intends to use that space or facility to provide any telecommunication service or broadcasting service or to enhance the quality of any telecommunication service or broadcasting service provided to any other land or building, the licensee shall notify the developer or owner of the licensee’s intention.
 
 [10/2005 wef 16/02/2005]
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (3) Where the developer or owner objects to the use of the space or facility for a purpose referred to in subsection (2), the telecommunication licensee shall refer the matter to the Authority for determination.
 
@@ -732,9 +914,9 @@ in such manner and on such terms as the Authority may specify in the direction.
 
 [10/2005 wef 16/02/2005]
 
-(5) Any direction under subsection (1) or (4) may include —
+(5) Any direction under subsection (1), (1A) or (4) may include —
 
-(a) a requirement that the telecommunication licensee shall contribute, wholly or partly, to such costs and expenses incurred for the provision and use of any space or facility or installation, plant or system under subsection (1) or (4) as the Authority may determine;
+(a) a requirement that the telecommunication licensee shall contribute, wholly or partly, to such costs and expenses incurred for the provision and use of any space or facility or installation, plant or system under subsection (1), (1A) or (4) as the Authority may determine;
 
 (b) terms and conditions relating to the payment of costs and expenses necessary for any alteration, removal, relocation or diversion of the installation, plant or system that may subsequently be required; and
 
@@ -742,9 +924,11 @@ in such manner and on such terms as the Authority may specify in the direction.
 
 [10/2005 wef 16/02/2005]
 
-(6) Any direction under subsection (1) or (4) may be varied, suspended or revoked at any time by the Authority.
+[Act 19 of 2011 wef 01/02/2012]
 
-[10/2005 wef 16/02/2005]
+(6) The Authority may at any time vary, suspend or revoke the whole or any part of a direction under subsection (1), (1A) or (4).
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (7) Any person who fails to comply with any requirement in a direction under this section shall be guilty of an offence.
 
@@ -770,61 +954,57 @@ in such manner and on such terms as the Authority may specify in the direction.
 
 ## PART IV
 
-CODES OF PRACTICE AND DIRECTIONS
+CODES OF PRACTICE, STANDARDS OF PERFORMANCE, DIRECTIONS AND ADVISORY GUIDELINES ON TELECOMMUNICATIONS
 
-### Codes of practice and standards of performance
+[Act 19 of 2011 wef 01/02/2012]
 
-26\.—(1) The Authority may, by notification in theGazetteor in any other manner it considers appropriate, issue or approve one or more codes of practice and standards of performance for or in connection with —
+### Codes of practice and standards of performance on telecommunications
 
-(a) the operation of telecommunication systems and equipment;
+26\.—(1) The Authority may, from time to time —
 
-(b) the provision of telecommunication services;
+(a) issue one or more codes of practice or standards of performance;
 
-(c) the activities and conduct of telecommunication licensees in the provision of telecommunication services;
+(b) approve as a code of practice or standard of performance any document prepared by a person other than the Authority, if the Authority considers the document to be suitable for this purpose; or
 
-(d) competition, abuse of a dominant position in the market and fair market conduct in the telecommunication industry in Singapore;
+(c) review, amend or revoke any code of practice or standard of performance issued under paragraph (a) or approved under paragraph (b),
 
-(e) the acquisitions or consolidations involving a telecommunication licensee and any other person (whether a telecommunication licensee or otherwise);
+with respect to all or any of the following:
 
-(f) the provision and use of, and access to, space and facilities within or on a land or building for the operation of any installation, plant or system used for telecommunications, and the allocation of costs and expenses incurred in relation thereto; and
+(i) the operation of telecommunication systems and equipment;
 
-(g) the carrying out of the purposes and provisions of this Act and for the due administration thereof.
+(ii) the provision of telecommunication services;
 
-[10/2005 wef 16/02/2005]
+(iii) the activities and conduct of telecommunication licensees in the provision of telecommunication services;
 
-(2) A code of practice may, in particular —
+(iv) the provision of services relating to the use of, or access to, telecommunication systems;
 
-(a) specify the duties and obligations of any person in relation to his business operation in the telecommunication industry;
+(v) the activities and conduct of telecommunication licensees in the provision of services relating to the use of, or access to, telecommunication systems;
 
-(b) specify that the provision of any space or facility within or on any land or building for the operation of any installation, plant or system used for telecommunications shall be at the expense of the developer, owner or occupier of the land or building; and
+(vi) competition, abuse of a dominant position in the market and fair market conduct in the telecommunication industry in Singapore;
 
-(c) provide for such fees or charges as may be payable to the Authority in relation to any application or request made to it.
+(vii) the acquisitions or consolidations involving a telecommunication licensee and any other person (whether a telecommunication licensee or otherwise);
 
-[10/2005 wef 16/02/2005]
+(viii) the carrying out of the purposes and provisions of this Act and the due administration thereof.
 
-(3) If any provision in any code of practice or standard of performance issued or approved by the Authority is inconsistent with any regulations made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulation or, where appropriate, having regard to such regulation, shall not have effect.
+(2) A code of practice issued or approved under subsection (1) may, in particular —
 
-[10/2005 wef 16/02/2005]
+(a) specify the duties and obligations of any person in relation to his business operation in the telecommunication industry; and
 
-(4) The Authority may at any time review, add to, vary or revoke any code of practice or standard of performance.
+(b) provide for such fees and charges as may be payable to the Authority in relation to any application or request made to the Authority under the code of practice.
 
-[10/2005 wef 16/02/2005]
+(3) If any provision in any code of practice or standard of performance issued or approved under subsection (1) is inconsistent with any provision of this Act, that provision in that code of practice or standard of performance, to the extent of the inconsistency —
 
-(5) The Authority may exempt, either generally or subject to such terms or conditions as the Authority may specify, any person from all or any of the provisions in any code of practice or standard of performance.
+(a) shall have effect subject to the provisions of this Act; or
 
-[10/2005 wef 16/02/2005]
+(b) having regard to the provisions of this Act, shall not have effect.
 
-(6) An exemption granted under subsection (5) need not be published in theGazette.
+(4) A code of practice or standard of performance issued or approved under subsection (1) shall not have legislative effect.
 
-[10/2005 wef 16/02/2005]
+(5) Subject to subsection (6), every telecommunication licensee to whom any code of practice or standard of performance issued or approved under subsection (1) applies shall comply with that code of practice or standard of performance.
 
-(7) Any person to whom a code of practice or standard of performance applies shall comply with the relevant code of practice or standard of performance.
+(6) The Authority may, either generally or for such time as the Authority may specify, waive the application, to any telecommunication licensee, of any code of practice or standard of performance issued or approved under subsection (1) or of any part of any such code of practice or standard of performance.
 
-[10/2005 wef 16/02/2005]
-
-(8) Any person who fails to comply with any code of practice issued under subsection (1)(f) shall be guilty of an offence.
-
-[10/2005 wef 16/02/2005]
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Directions affecting telecommunication licensees
 
@@ -836,29 +1016,51 @@ CODES OF PRACTICE AND DIRECTIONS
 
 (c) to ensure fair and efficient market conduct by telecommunication licensees;
 
-(ca) to ensure the co-ordination and co-operation, on such terms as the Authority may specify, with any other person in the use or sharing of any installation, plant or system, or part thereof owned or used by the telecommunication licensee for the provision of any telecommunication or broadcasting service; or
+(ca) to ensure the co-ordination and co-operation, on such terms as the Authority may specify, with any other person in the use or sharing of any installation, plant or system, or part thereof owned or used by the telecommunication licensee for the provision of any telecommunication service; or
 
 [10/2005 wef 16/02/2005]
+
+[Act 19 of 2011 wef 01/02/2012]
 
 (d) in the public interest.
 
-(2) A direction under subsection (1) —
+(1A) The Authority, after consultation with the Media Development Authority of Singapore, may give directions to be observed by telecommunication licensees —
 
-(a) shall require the telecommunication licensee concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the direction or are of a description as specified therein;
+(a) to ensure the reliability of the provision of any broadcasting service, the operation of which requires a telecommunication system, to the public;
 
-(b) shall take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
+(b) to ensure the technical compatibility and safety of operation of any equipment or telecommunication system used for the provision of any broadcasting service;
 
-(c) may be varied, suspended or revoked at any time by the Authority.
+(c) to ensure fair and efficient market conduct by telecommunication licensees in relation to the use of telecommunication systems for the provision of broadcasting services;
 
-[10/2005 wef 16/02/2005]
+(d) to ensure the co-ordination and co-operation, on such terms as the Authority may specify, with any other person in the use or sharing of any installation, plant or system, or part thereof owned or used by the telecommunication licensee for the provision of any broadcasting service; or
 
-(3) Before giving a direction to any telecommunication licensee under subsection (1) or varying a direction under subsection (2)(c), the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
+(e) in relation to the provision of any broadcasting service, the operation of which requires a telecommunication system, in the public interest.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(2) A direction under subsection (1) or (1A) —
+
+(a) shall require the telecommunication licensee concerned (according to the circumstances of the case) to do, or to refrain from doing, such things as are specified in the direction, or as are of a description specified in the direction; and
+
+(b) shall take effect at such time (being the earliest practicable time) as is determined by or under that direction.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(2A) The Authority may at any time vary, suspend or revoke the whole or any part of a direction under subsection (1) or (1A).
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(3) Before giving a direction to any telecommunication licensee under subsection (1) or (1A) or varying a direction under subsection (2A), the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
 
 (a) stating that the Authority proposes to make or vary the direction and setting out its effect; and
 
 (b) specifying the time within which representations or objections to the proposed direction or variation may be made,
 
 and shall consider any representations or objections which are duly made.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+[10/2005 wef 16/02/2005]
 
 (4) [Deleted by Act 10/2005 wef 16/02/2005]
 
@@ -966,175 +1168,533 @@ TELECOMMUNICATION CABLE DETECTION WORK
 
 ## PART VA
 
-CONTROL OVER DESIGNATED TELECOMMUNICATION LICENSEES
+CONTROL OF DESIGNATED TELECOMMUNICATION
 
-[10/2005 wef 16/02/2005]
+
+
+
+LICENSEES, DESIGNATED BUSINESS TRUSTS AND
+
+
+
+
+DESIGNATED TRUSTS
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Interpretation of this Part
 
-32A\.—(1) In this Part —
+32A\.—(1) In this Part, unless the context otherwise requires —
 
-“consolidation” has the meaning given to it in the code of practice referred to in section 32C;
+“12% controller” means —
 
-“designated telecommunication licensee” means a telecommunication licensee which has been declared or which is of a class of telecommunication licensees which has been declared by the Authority, by notification in theGazette, to be a designated telecommunication licensee for the purposes of this Part;
+(a) in relation to a designated telecommunication licensee, a person who, alone or together with his associates —
 
-“ownership interest” has the meaning given to it in the code of practice referred to in section 32C;
+(i) holds 12% or more but less than 30% of the total number of voting shares in the designated telecommunication licensee; or
 
-“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+(ii) is in a position to control 12% or more but less than 30% of the voting power in the designated telecommunication licensee;
 
-[10/2005 wef 16/02/2005]
+(b) in relation to a designated business trust, a person who, alone or together with his associates —
 
-(2) In relation to a designated telecommunication licensee the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the designated telecommunication licensee having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
+(i) holds 12% or more but less than 30% of the total number of units in the designated business trust; or
 
-[10/2005 wef 16/02/2005]
+(ii) is in a position to control 12% or more but less than 30% of the voting power in the designated business trust; or
 
-(3) The Authority may, by notification in theGazette, vary or revoke any declaration of a designated telecommunication licensee.
+(c) in relation to a designated trust, a person who, alone or together with his associates —
 
-[10/2005 wef 16/02/2005]
+(i) holds 12% or more but less than 30% of the equity interests in the designated trust; or
 
-### Control of acquisition of designated telecommunication licensee
+(ii) is in a position to control 12% or more but less than 30% of the voting power in the designated trust;
 
-32B\.—(1) A designated telecommunication licensee shall give notice in writing, in the prescribed manner and within the prescribed period, to the Authority if any person acquires an ownership interest in the voting shares of the designated telecommunication licensee, whether by a series of transactions over a period of time or otherwise, that would result in that person holding an ownership interest of 5% or more but less than 12% of the voting shares in that designated telecommunication licensee.
+“30% controller” means —
 
-[10/2005 wef 16/02/2005]
+(a) in relation to a designated telecommunication licensee, a person who, alone or together with his associates —
 
-(2) Subject to subsection (3), no person shall, whether through a series of transactions over a period of time or otherwise, become —
+(i) holds 30% or more of the total number of voting shares in the designated telecommunication licensee; or
 
-(a) a 12% controller; or
+(ii) is in a position to control 30% or more of the voting power in the designated telecommunication licensee;
 
-(b) a 30% controller,
+(b) in relation to a designated business trust, a person who, alone or together with his associates —
 
-of a designated telecommunication licensee without obtaining the written approval of the Authority in the prescribed manner and within the prescribed period.
+(i) holds 30% or more of the total number of units in the designated business trust; or
 
-[10/2005 wef 16/02/2005]
+(ii) is in a position to control 30% or more of the voting power in the designated business trust; or
 
-(3) To the extent that the acquisition by a person of an ownership interest in the voting shares in a designated telecommunication licensee under subsection (2) constitutes a consolidation with that designated telecommunication licensee, the person and the designated telecommunication licensee shall, in addition to the approval required under that subsection, obtain the written approval of the Authority in the prescribed manner and within the prescribed period.
+(c) in relation to a designated trust, a person who, alone or together with his associates —
 
-[10/2005 wef 16/02/2005]
+(i) holds 30% or more of the equity interests in the designated trust; or
 
-(4) No person shall acquire the business of a designated telecommunication licensee conducted pursuant to a telecommunication licence granted under section 5 as a going concern, unless the person and the designated telecommunication licensee obtain the written approval of the Authority in the prescribed manner and within the prescribed period.
+(ii) is in a position to control 30% or more of the voting power in the designated trust;
 
-[10/2005 wef 16/02/2005]
+“business” means —
 
-(5) In subsection (2) —
+(a) in relation to a designated business trust, the business relating to the trust property of the designated business trust and managed and operated by the trustee-manager of the designated business trust in its capacity as trustee-manager of the designated business trust; or
 
-“12% controller”, in relation to a designated telecommunication licensee, means a person, not being a 30% controller, who holds an ownership interest in the voting shares of the designated telecommunication licensee of 12% or more;
+(b) in relation to a designated trust, such business relating to the trust property of the designated trust as is prescribed by any regulations made under section 74;
 
-“30% controller”, in relation to a designated telecommunication licensee, means a person who holds an ownership interest in the voting shares of the designated telecommunication licensee of 30% or more.
+“business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
-[10/2005 wef 16/02/2005]
+“corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-### Power to issue code of practice relating to control of designated telecommunication licensees
+“designated business trust” means a business trust that —
+
+(a) is established wholly or partly in respect of a telecommunication system (or any part thereof) operated by a telecommunication system licensee; and
+
+(b) has been declared by the Authority under subsection (2) to be a designated business trust for the purposes of this Part;
+
+“designated telecommunication licensee” means a telecommunication licensee that is a corporation and that —
+
+(a) has been declared by the Authority under subsection (2) to be a designated telecommunication licensee for the purposes of this Part; or
+
+(b) belongs to a class of telecommunication licensees which has been declared by the Authority under subsection (2) to be a class of designated telecommunication licensees for the purposes of this Part;
+
+“designated trust” means a trust that —
+
+(a) is prescribed, or belongs to a class of trusts prescribed, by any regulations made under section 74;
+
+(b) is established wholly or partly in respect of a telecommunication system (or any part thereof) operated by a telecommunication system licensee; and
+
+(c) has been declared by the Authority under subsection (2) to be a designated trust for the purposes of this Part;
+
+“effective control” means —
+
+(a) in relation to a designated telecommunication licensee, the ability to cause the designated telecommunication licensee to take, or to refrain from taking, a major decision regarding the management or operations of the designated telecommunication licensee;
+
+(b) in relation to a designated business trust, the ability to cause the trustee-manager of the designated business trust to take, or to refrain from taking, a major decision regarding the management or operations of the designated business trust; or
+
+(c) in relation to a designated trust, the ability to cause the trustee of the designated trust to take, or to refrain from taking, a major decision regarding the management or operations of the designated trust;
+
+“equity interest” means —
+
+(a) in relation to a corporation, a voting share in that corporation;
+
+(b) in relation to a designated business trust, a unit in that designated business trust; or
+
+(c) in relation to a designated trust, any right or interest, whether legal or equitable, in that designated trust which gives the holder of that right or interest voting power in that designated trust;
+
+“related corporation” has the same meaning as in section 4(1) of the Companies Act;
+
+“relative”, in relation to a person, means —
+
+(a) the person’s spouse;
+
+(b) a parent or remoter lineal ancestor, or a step-parent, of the person;
+
+(c) a child or remoter issue, or a step-child, of the person; or
+
+(d) a sibling or step-sibling of the person;
+
+“share” has the same meaning as in section 4(1) of the Companies Act;
+
+“treasury share” has the same meaning as in section 4(1) of the Companies Act;
+
+“trustee-manager” has the same meaning as in section 2 of the Business Trusts Act;
+
+“unit” has the same meaning as in section 2 of the Business Trusts Act;
+
+“unitholder” has the same meaning as in section 2 of the Business Trusts Act;
+
+“voting share” has the same meaning as in section 4(1) of the Companies Act.
+
+(2) The Authority may, by notification in theGazette, do one or more of the following:
+
+(a) declare any telecommunication licensee to be a designated telecommunication licensee for the purposes of this Part;
+
+(b) declare any class of telecommunication licensees to be a class of designated telecommunication licensees for the purposes of this Part;
+
+(c) declare any business trust to be a designated business trust for the purposes of this Part, if the business trust is established wholly or partly in respect of a telecommunication system (or any part thereof) operated by a telecommunication system licensee;
+
+(d) declare any trust to be a designated trust for the purposes of this Part, if the trust —
+
+(i) is prescribed, or belongs to a class of trusts prescribed, by any regulations made under section 74; and
+
+(ii) is established wholly or partly in respect of a telecommunication system (or any part thereof) operated by a telecommunication system licensee;
+
+(e) vary or revoke any declaration of a designated telecommunication licensee, a designated business trust or a designated trust;
+
+(f) vary or revoke any declaration of a class of designated telecommunication licensees.
+
+(3) For the purposes of this Part, in relation to a designated telecommunication licensee the whole or any portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the designated telecommunication licensee having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
+
+(4) For the purposes of this Part, a person,A, is an associate of another person,B, if —
+
+(a) Ais a relative ofB;
+
+(b) Ais a related corporation ofB;
+
+(c) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+
+(d) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+
+(e) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+
+(f) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+
+(g) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (b) to (f), is in a position to control not less than 12% of the voting power inA;
+
+(h) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (b) to (f), is in a position to control not less than 12% of the voting power inB;
+
+(i) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares, units or other equity interests in, or with respect to the exercise of their voting power in relation to, a designated telecommunication licensee, a designated business trust or a designated trust; or
+
+(j) Ais related toBin such other manner as may be prescribed by any regulations made under section 74.
+
+(5) For the purposes of this Part —
+
+(a) a person holds a voting share in a corporation if he has any legal or equitable interest in that share, other than an interest that is to be disregarded under subsection (7);
+
+(b) a person holds a unit in a business trust if he has any legal or equitable interest in that unit, other than an interest that is to be disregarded under subsection (10); and
+
+(c) a person holds an equity interest in a trust if he has any legal or equitable interest in that equity interest, other than an interest that is to be disregarded under subsection (12).
+
+(6) Except as otherwise provided in subsection (7), for the purposes of this Part, a person shall be deemed to have an interest in a share, if —
+
+(a) the person has entered into a contract to purchase that share; or
+
+(b) the person, not being the registered holder of that share, is entitled (otherwise than by reason of his having been appointed a proxy or representative to vote at a meeting of members of a corporation or of a class of its members) to exercise or control the exercise of a right attached to that share.
+
+(7) For the purposes of subsections (5)(a) and (6), there shall be disregarded —
+
+(a) an interest in a share of a person who holds the share as bare trustee;
+
+(b) an interest in a share of a person whose ordinary business includes the lending of money, if he holds the interest only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
+
+(c) an interest in a share of a person whose ordinary business includes the underwriting of securities, if he holds the interest only as an underwriter or a sub-underwriter to any offering of shares of a designated telecommunication licensee;
+
+(d) an interest in a share held by a person —
+
+(i) in his capacity as a liquidator, the Official Receiver, the Official Assignee or the Public Trustee; or
+
+(ii) by reason of his holding such other office as may be prescribed for the purposes of section 7(9)(c) of the Companies Act;
+
+(e) an interest of a corporation in its own shares purchased or otherwise acquired in accordance with sections 76B to 76G of the Companies Act (including treasury shares); and
+
+(f) such interest in a share as may be prescribed for the purposes of section 7(9)(d) of the Companies Act, being an interest of such person, or of a person belonging to such class of persons, as may be prescribed for the purposes of that provision.
+
+(8) Section 7(7), (8) and (10) of the Companies Act shall apply in determining whether a person has an interest in a share for the purposes of subsections (5)(a) and (6).
+
+(9) Except as otherwise provided in subsection (10), for the purposes of this Part, a person shall be deemed to have an interest in a unit, if —
+
+(a) the person has entered into a contract to purchase that unit; or
+
+(b) the person, not being the registered holder of that unit, is entitled (otherwise than by reason of his having been appointed a proxy or representative to vote at a meeting of unitholders of a business trust or of a class of its unitholders) to exercise or control the exercise of a right attached to that unit.
+
+(10) For the purposes of subsections (5)(b) and (9), there shall be disregarded —
+
+(a) an interest in a unit of a person who holds the unit as bare trustee;
+
+(b) an interest in a unit of a person whose ordinary business includes the lending of money, if he holds the interest only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
+
+(c) an interest in a unit of a person whose ordinary business includes the underwriting of securities, if he holds the interest only as an underwriter or a sub-underwriter to any offering of units of a designated business trust; and
+
+(d) an interest in a unit held by a person in his capacity as a liquidator, the Official Receiver, the Official Assignee or the Public Trustee.
+
+(11) Except as otherwise provided in subsection (12), for the purposes of this Part, a person shall be deemed to have an equity interest in a designated trust, if —
+
+(a) the person has entered into a contract to purchase that equity interest; or
+
+(b) the person, not being the holder of that equity interest, is entitled (otherwise than by reason of his having been appointed a proxy or representative to vote at a meeting of holders of equity interests in the designated trust or of a class of its holders of equity interests) to exercise or control the exercise of a right attached to that equity interest.
+
+(12) For the purposes of subsections (5)(c) and (11), there shall be disregarded —
+
+(a) an equity interest of a person who holds the interest as bare trustee;
+
+(b) an equity interest of a person whose ordinary business includes the lending of money, if he holds the interest only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
+
+(c) an equity interest of a person whose ordinary business includes the underwriting of securities, if he holds the interest only as an underwriter or a sub-underwriter to any offering of equity interests in a designated trust; and
+
+(d) an equity interest held by a person in his capacity as a liquidator, the Official Receiver, the Official Assignee or the Public Trustee.
+
+(13) For the purposes of this Part, a reference to control of a percentage of the voting power in a designated telecommunication licensee, designated business trust or designated trust is a reference to control that is direct or indirect, including control that is exercisable as a result of or by means of arrangements or practices, whether or not having legal or equitable force and whether or not based on legal or equitable rights, of that percentage of the total number of votes that may be cast in a general meeting of the designated telecommunication licensee, designated business trust or designated trust, as the case may be.
+
+(14) For the purposes of subsection (13), there shall be disregarded any control of any voting power in a designated telecommunication licensee, designated business trust or designated trust that is exercisable —
+
+(a) by a person, by virtue of holding an interest in a share of the designated telecommunication licensee, a unit of the designated business trust or an equity interest in the designated trust, as the case may be, as a bare trustee;
+
+(b) by a person whose ordinary business includes the lending of money, by virtue of holding an interest in a share of the designated telecommunication licensee, a unit of the designated business trust or an equity interest in the designated trust, as the case may be, only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
+
+(c) by a person whose ordinary business includes the underwriting of securities, by virtue of holding an interest in a share of the designated telecommunication licensee, a unit of the designated business trust or an equity interest in the designated trust, as the case may be, only as an underwriter or a sub-underwriter to any offering of shares of the designated telecommunication licensee, units of the designated business trust or equity interests in the designated trust, as the case may be; or
+
+(d) by a person, by virtue of holding an interest in a share of the designated telecommunication licensee, a unit of the designated business trust or an equity interest in the designated trust, as the case may be —
+
+(i) in his capacity as a liquidator, the Official Receiver, the Official Assignee or the Public Trustee; or
+
+(ii) by reason of his holding such other office as may be prescribed for the purposes of section 7(9)(c) of the Companies Act.
+
+(15) Where a corporation is limited both by shares and by guarantee or does not have a share capital, this section shall have effect as if the members of the corporation were shareholders in the corporation.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Control of equity interests and voting power in designated telecommunication licensee, designated business trust or designated trust
+
+32B\.—(1) Subject to subsection (9), a designated telecommunication licensee shall give notice in writing to the Authority, within 7 days after the designated telecommunication licensee first becomes aware of the event, in the event that any person, whether by a series of transactions over a period of time or otherwise —
+
+(a) holds 5% or more but less than 12% of the total number of voting shares in the designated telecommunication licensee; or
+
+(b) is in a position to control 5% or more but less than 12% of the voting power in the designated telecommunication licensee.
+
+(2) Subject to subsection (9), the trustee-manager of a designated business trust shall give notice in writing to the Authority, within 7 days after the trustee-manager first becomes aware of the event, in the event that any person, whether by a series of transactions over a period of time or otherwise —
+
+(a) holds 5% or more but less than 12% of the total number of units in the designated business trust; or
+
+(b) is in a position to control 5% or more but less than 12% of the voting power in the designated business trust.
+
+(3) Subject to subsection (9), the trustee of a designated trust shall give notice in writing to the Authority, within 7 days after the trustee first becomes aware of the event, in the event that any person, whether by a series of transactions over a period of time or otherwise —
+
+(a) holds 5% or more but less than 12% of the equity interests in the designated trust; or
+
+(b) is in a position to control 5% or more but less than 12% of the voting power in the designated trust.
+
+(4) Every person required to give a notice under subsection (1), (2) or (3) shall ensure that the notice —
+
+(a) is given in such form and manner as the Authority may, from time to time, determine; and
+
+(b) is supported by such information as the Authority may require.
+
+(5) Subject to subsection (10), no person shall, without obtaining the prior written approval of the Authority to do so, become, whether through a series of transactions over a period of time or otherwise, a 12% controller or a 30% controller of a designated telecommunication licensee, designated business trust or designated trust.
+
+(6) Subject to subsection (10), no person shall, without obtaining the prior written approval of the Authority to do so, acquire any business (of a designated telecommunication licensee, designated business trust or designated trust) that is conducted pursuant to a telecommunication licence granted under section 5, or any part of any such business, as a going concern.
+
+(7) Subject to subsection (10), no person shall, without obtaining the prior written approval of the Authority to do so, obtain effective control over a designated telecommunication licensee, designated business trust or designated trust.
+
+(8) An application for the written approval of the Authority under subsection (5), (6) or (7) —
+
+(a) shall be made in such form and manner as the Authority may, from time to time, determine; and
+
+(b) shall be supported by such information as the Authority may require.
+
+(9) A notice in writing need not be given to the Authority under subsection (1), (2) or (3), if the event referred to in the applicable subsection occurs by virtue only of any transaction prescribed by the Minister for the purposes of this subsection by order published in theGazette.
+
+(10) Any person may, without obtaining the prior written approval of the Authority to do so, do any thing referred to in subsection (5), (6) or (7), if the doing of that thing occurs by virtue only of any transaction prescribed by the Minister for the purposes of this subsection by order published in theGazette.
+
+(11) A designated telecommunication licensee shall give notice in writing to the Authority, within 7 days after the designated telecommunication licensee first becomes aware of the event, in the event that any person, by virtue only of any transaction prescribed by the Minister for the purposes of this subsection by order published in theGazette—
+
+(a) becomes, whether through a series of transactions over a period of time or otherwise, a 12% controller or a 30% controller of the designated telecommunication licensee;
+
+(b) acquires any business of the designated telecommunication licensee that is conducted pursuant to a telecommunication licence granted under section 5, or any part of any such business, as a going concern; or
+
+(c) obtains effective control over the designated telecommunication licensee.
+
+(12) The trustee-manager of a designated business trust shall give notice in writing to the Authority, within 7 days after the trustee-manager first becomes aware of the event, in the event that any person, by virtue only of any transaction prescribed by the Minister for the purposes of this subsection by order published in theGazette—
+
+(a) becomes, whether through a series of transactions over a period of time or otherwise, a 12% controller or a 30% controller of the designated business trust;
+
+(b) acquires any business of the designated business trust that is conducted pursuant to a telecommunication licence granted under section 5, or any part of any such business, as a going concern; or
+
+(c) obtains effective control over the designated business trust.
+
+(13) The trustee of a designated trust shall give notice in writing to the Authority, within 7 days after the trustee first becomes aware of the event, in the event that any person, by virtue only of any transaction prescribed by the Minister for the purposes of this subsection by order published in theGazette—
+
+(a) becomes, whether through a series of transactions over a period of time or otherwise, a 12% controller or a 30% controller of the designated trust;
+
+(b) acquires any business of the designated trust that is conducted pursuant to a telecommunication licence granted under section 5, or any part of any such business, as a going concern; or
+
+(c) obtains effective control over the designated trust.
+
+(14) Any person who contravenes subsection (2), (3), (12) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Power to issue code of practice relating to control of designated telecommunication licensees, designated business trusts and designated trusts
 
 32C\.—(1) Without prejudice to the generality of section 26, the Authority may issue a code of practice under that section which specifies such matters as are generally necessary for carrying out the purposes and provisions of this Part and for the due administration thereof.
 
-[10/2005 wef 16/02/2005]
-
 (2) Without prejudice to the generality of subsection (1), the Authority may specify in the code of practice —
 
-(a) the circumstances under which a person would be considered to have an ownership interest in the voting shares of a designated telecommunication licensee;
+(a) the rules and procedures that each of the following must comply with:
 
-(b) the circumstances under which a person would be considered to have entered into a consolidation with a designated telecommunication licensee;
+(i) a designated telecommunication licensee;
 
-(c) the circumstances under which a person would be considered to have acquired the business of a designated telecommunication licensee as a going concern;
+(ii) a person who holds any voting shares, or controls any voting power, in a designated telecommunication licensee;
 
-(d) the categories of persons that shall obtain the written approval of the Authority for —
+(iii) a person who holds any units, or controls any voting power, in a designated business trust;
 
-(i) any consolidation with a designated telecommunication licensee; or
+(iv) a person who holds any equity interest, or controls any voting power, in a designated trust;
 
-(ii) an acquisition of the business of a designated telecommunication licensee;
+(v) a person who acquires any business (of a designated telecommunication licensee, designated business trust or designated trust) that is conducted pursuant to a telecommunication licence granted under section 5, or any part of any such business, as a going concern;
 
-(e) the duties and obligations of a designated telecommunication licensee and a person acquiring the business as a going concern or an ownership interest in the voting shares of a designated telecommunication licensee;
+(vi) a person who obtains effective control over a designated telecommunication licensee, designated business trust or designated trust;
 
-(f) the rules and procedures that a designated telecommunication licensee and a person acquiring the business as a going concern or an ownership interest in the voting shares of a designated telecommunication licensee must comply with;
+(b) the terms and conditions which the Authority may impose when granting any written approval under section 32B(5), (6) or (7); and
 
-(g) the terms and conditions which the Authority may impose in granting any approval under section 32B; and
+(c) the fees and charges payable to the Authority in respect of any application or request made to the Authority under the code of practice.
 
-(h) the circumstances under which a person who holds voting shares in the designated telecommunication licensee would be considered to be an affiliate of the specified person under section 32D.
+[Act 19 of 2011 wef 01/02/2012]
 
-[10/2005 wef 16/02/2005]
+### Power to issue directions relating to control of designated telecommunication licensees, designated business trusts and designated trusts
 
-### Power to issue direction
+32D\.—(1) Without prejudice to the generality of section 27, the Authority may issue a direction under subsection (2) if —
 
-32D\.—(1) Without prejudice to section 27, if the Authority is satisfied that a person has —
+(a) a person (referred to in this section as the specified person) —
 
-(a) acquired an ownership interest in the voting shares of a designated telecommunication licensee;
+(i) becomes a 12% controller or 30% controller of a designated telecommunication licensee, designated business trust or designated trust;
 
-(b) entered into a consolidation with a designated telecommunication licensee; or
+(ii) acquires any business (of a designated telecommunication licensee, designated business trust or designated trust) that is conducted pursuant to a telecommunication licence granted under section 5, or any part of any such business, as a going concern; or
 
-(c) acquired the business of a designated telecommunication licensee as a going concern,
+(iii) obtains effective control over a designated telecommunication licensee, designated business trust or designated trust; and
 
-(referred to in this section as the specified person), in contravention of section 32B(2), (3) or (4), or that the acquisition or consolidation is likely to substantially lessen competition or is against the public interest, the Authority may issue a direction under subsection (3) or (4), as the case may be.
+(b) the Authority is satisfied that —
 
-[10/2005 wef 16/02/2005]
+(i) the specified person has thereby contravened section 32B(5), (6) or (7);
 
-(2) The Authority may issue a direction under subsection (3) or (4) if the Authority is satisfied that —
+(ii) any condition of approval imposed by the Authority on the specified person when granting its written approval under section 32B(5), (6) or (7) has not been complied with;
 
-(a) any condition of approval imposed on the person has not been complied with;
+(iii) the specified person has furnished false or misleading information or documents in connection with his application for written approval under section 32B(5), (6) or (7);
 
-(b) the person has furnished false or misleading information or documents in connection with an application under section 32B to obtain the approval of the Authority; or
+(iv) the Authority would not have granted its written approval under section 32B(5), (6) or (7) had it been aware, at the time the approval was granted, of any matter relevant to the specified person’s application for such approval; or
 
-(c) the Authority would not have granted its approval under section 32B had it been aware, at that time, of circumstances relevant to the person’s application for such approval,
+(v) the applicable matter referred to in paragraph (a)(i), (ii) or (iii) is likely to substantially lessen competition or is against the public interest.
 
-and the existing ownership interest in the designated telecommunication licensee held by the person is likely to substantially lessen competition or be against the public interest.
+(2) The Authority may, in the circumstances specified in subsection (1), issue such of the following directions as may be applicable:
 
-[10/2005 wef 16/02/2005]
+(a) direct the designated telecommunication licensee to do all or any of the following:
 
-(3) The Authority may, under the circumstances specified in subsection (1)(a) or (b) or (2), direct —
-
-(a) the designated telecommunication licensee to do all or any of the following:
-
-(i) to restrict the exercise of all or any of the voting rights in respect of the shares through which any specified person has an ownership interest in the designated telecommunication licensee (referred to in this section as the specified shares), unless the Authority expressly permits such rights to be exercised;
+(i) to restrict the exercise of all or any of the voting rights in respect of the shares which the specified person holds, or which the specified person and his associates together hold, in the designated telecommunication licensee (referred to in this section as the specified shares), or to restrict the exercise of the voting power which the specified person controls, or which the specified person and his associates together control, in the designated telecommunication licensee, unless the Authority expressly permits such rights or power to be exercised;
 
 (ii) to restrict the issuance or offer of shares in the designated telecommunication licensee (whether by way of rights, bonus or otherwise) in respect of the specified shares, unless the Authority expressly permits such issue or offer;
 
-(iii) except in a liquidation of the designated telecommunication licensee, to restrict the payment of any amount (whether by way of dividends or otherwise) in respect of the specified shares, unless the Authority expressly authorises such payments subject to such conditions as the Authority may specify; and
+(iii) except in a liquidation of the designated telecommunication licensee, to restrict the payment of any amount (whether by way of dividends or otherwise) in respect of the specified shares, unless the Authority expressly authorises such payment subject to such conditions as the Authority may specify;
 
-(b) any specified person or an affiliate of the specified person to transfer or dispose of all or any part of the specified shares within such time and subject to such conditions as the Authority considers appropriate.
+(b) direct the trustee-manager of the designated business trust to do all or any of the following:
 
-[10/2005 wef 16/02/2005]
+(i) to restrict the exercise of all or any of the voting rights in respect of the units which the specified person holds, or which the specified person and his associates together hold, in the designated business trust (referred to in this section as the specified units), or to restrict the exercise of the voting power which the specified person controls, or which the specified person and his associates together control, in the designated business trust, unless the Authority expressly permits such rights or power to be exercised;
 
-(4) The Authority may, under the circumstances specified in subsection (1)(c) or (2), direct any specified person to transfer or dispose of all or any part of the business acquired from the designated telecommunication licensee within such time and subject to such conditions as the Authority considers appropriate.
+(ii) to restrict the issuance or offer of units in the designated business trust (whether by way of rights, bonus or otherwise) in respect of the specified units, unless the Authority expressly permits such issue or offer;
 
-[10/2005 wef 16/02/2005]
+(iii) except in a winding up of the designated business trust, to restrict the payment of any amount (whether by way of profits, income or otherwise) in respect of the specified units, unless the Authority expressly authorises such payment subject to such conditions as the Authority may specify;
 
-(5) Before issuing a direction to any person under subsection (3) or (4), the Authority shall, unless the Authority decides that it is not practicable or desirable to do so, cause to be given to that person notice in writing of the Authority’s intention to serve the direction, specifying a date by which that person may make written representations with regard to the proposed direction.
+(c) direct the trustee of the designated trust to do all or any of the following:
 
-[10/2005 wef 16/02/2005]
+(i) to restrict the exercise of all or any of the voting rights in respect of the equity interests which the specified person holds, or which the specified person and his associates together hold, in the designated trust (referred to in this section as the specified equity interests), or to restrict the exercise of the voting power which the specified person controls, or which the specified person and his associates together control, in the designated trust, unless the Authority expressly permits such rights or power to be exercised;
 
-(6) Upon receipt of any written representation referred to in subsection (5), the Authority shall consider it for the purpose of determining whether to issue the direction.
+(ii) to restrict the issuance or offer of equity interests in the designated trust (whether by way of rights, bonus or otherwise) in respect of the specified equity interests, unless the Authority expressly permits such issue or offer;
 
-[10/2005 wef 16/02/2005]
+(iii) except in a winding up of the designated trust, to restrict the payment of any amount (whether by way of profits, income or otherwise) in respect of the specified equity interests, unless the Authority expressly authorises such payment subject to such conditions as the Authority may specify;
 
-(7) Any person to whom a direction is given under subsection (3) or (4) shall comply with the direction and the direction shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
+(d) direct the specified person, or any associate of the specified person, to transfer or dispose of all or any part of the specified shares, specified units or specified equity interests, as the case may be, within such time as the Authority may determine and subject to such conditions as the Authority considers appropriate;
 
-[10/2005 wef 16/02/2005]
+(e) direct the specified person to transfer or dispose of all or any part of the business or part thereof that is conducted pursuant to a telecommunication licence granted under section 5, and that is acquired from the designated telecommunication licensee, designated business trust or designated trust as a going concern, within such time as the Authority may determine and subject to such conditions as the Authority considers appropriate;
 
-(8) The Authority may vary or revoke any direction issued under this section.
+(f) direct the specified person to relinquish effective control over the designated telecommunication licensee, designated business trust or designated trust, within such time as the Authority may determine and subject to such conditions as the Authority considers appropriate.
 
-[10/2005 wef 16/02/2005]
+(3) Before issuing a direction to any person under subsection (2), the Authority shall, unless the Authority decides that it is not practicable or desirable to do so, cause to be given to that person notice in writing of the Authority’s intention to issue the direction, specifying a date by which that person may make written representations with regard to the proposed direction.
 
-### Power of Authority to obtain information
+(4) Upon receipt of any written representations referred to in subsection (3), the Authority shall consider them for the purpose of determining whether to issue the direction.
 
-32E\.—(1) Without prejudice to sections 27 and 59, the Authority may, by notice in writing, direct any designated telecommunication licensee to obtain from any of its shareholders and to transmit to the Authority information —
+(5) Any person to whom a direction is given under subsection (2) shall comply with the direction.
 
-(a) as to whether that shareholder holds any share in the designated telecommunication licensee as a beneficial owner or trustee; and
+(6) The Authority may at any time vary, suspend or revoke any direction issued under this section.
 
-(b) if the shareholder holds the share as a trustee, to indicate as far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest,
+(7) Any direction issued to a person under subsection (2) shall take effect, notwithstanding —
 
-and the designated telecommunication licensee shall comply with that direction within such time as may be specified in the notice.
+(a) the provisions of any other written law; and
 
-[10/2005 wef 16/02/2005]
+(b) the provisions of the memorandum or articles of association, trust deed or other constitution of the designated telecommunication licensee, designated business trust or designated trust.
 
-(2) The Authority may, by notice in writing, require any shareholder of a designated telecommunication licensee to inform the Authority whether he holds that interest as a beneficial owner or trustee, and if he holds the interest as trustee, to indicate so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest.
+(8) Notwithstanding the provisions of any other written law and the provisions of the memorandum or articles of association, trust deed or other constitution of the designated telecommunication licensee, the designated business trust or the designated trust —
 
-[10/2005 wef 16/02/2005]
+(a) where any direction is issued under subsection (2)(a), unless the direction is suspended or revoked —
+
+(i) the voting rights in respect of the specified shares, and the voting power which the specified person controls, or which the specified person and his associates together control, in the designated telecommunication licensee, shall not be exercisable unless the Authority expressly permits such rights or power to be exercised;
+
+(ii) no shares in the designated telecommunication licensee shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares, unless the Authority expressly permits such issue or offer; and
+
+(iii) except in a liquidation of the designated telecommunication licensee, no amount shall be paid (whether by way of dividends or otherwise) in respect of the specified shares, unless the Authority expressly authorises such payment;
+
+(b) where any direction is issued under subsection (2)(b), unless the direction is suspended or revoked —
+
+(i) the voting rights in respect of the specified units, and the voting power which the specified person controls, or which the specified person and his associates together control, in the designated business trust, shall not be exercisable unless the Authority expressly permits such rights or power to be exercised;
+
+(ii) no units in the designated business trust shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified units, unless the Authority expressly permits such issue or offer; and
+
+(iii) except in a winding up of the designated business trust, no amount shall be paid (whether by way of profits, income or otherwise) in respect of the specified units, unless the Authority expressly authorises such payment; or
+
+(c) where any direction is issued under subsection (2)(c), unless the direction is suspended or revoked —
+
+(i) the voting rights in respect of the specified equity interests, and the voting power which the specified person controls, or which the specified person and his associates together control, in the designated trust, shall not be exercisable unless the Authority expressly permits such rights or power to be exercised;
+
+(ii) no equity interests in the designated trust shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified equity interests, unless the Authority expressly permits such issue or offer; and
+
+(iii) except in a winding up of the designated trust, no amount shall be paid (whether by way of profits, income or otherwise) in respect of the specified equity interests, unless the Authority expressly authorises such payment.
+
+(9) Any person (other than a designated telecommunication licensee) who contravenes section (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Power of Authority to obtain information relating to control of designated telecommunication licensees, designated business trusts and designated trusts
+
+32E\.—(1) Without prejudice to sections 27 and 59, the Authority may, by notice in writing —
+
+(a) direct any designated telecommunication licensee to obtain from any shareholder of the designated telecommunication licensee, and to transmit to the Authority within such time as may be specified in the notice, the following information:
+
+(i) whether that shareholder holds any voting share in the designated telecommunication licensee as a trustee; and
+
+(ii) if so —
+
+(A) the name of the person for whom that shareholder holds the voting share as a trustee, or such other particulars as are sufficient to enable the identification of that person; and
+
+(B) the nature of that person’s interest;
+
+(b) direct the trustee-manager of any designated business trust to obtain from any unitholder of the designated business trust, and to transmit to the Authority within such time as may be specified in the notice, the following information:
+
+(i) whether that unitholder holds any unit in the designated business trust as a trustee; and
+
+(ii) if so —
+
+(A) the name of the person for whom that unitholder holds the unit as a trustee, or such other particulars as are sufficient to enable the identification of that person; and
+
+(B) the nature of that person’s interest; and
+
+(c) direct the trustee of any designated trust to obtain from any holder of equity interests in the designated trust, and to transmit to the Authority within such time as may be specified in the notice, the following information:
+
+(i) whether that holder holds any equity interest in the designated trust as a trustee; and
+
+(ii) if so —
+
+(A) the name of the person for whom that holder holds the equity interest as a trustee, or such other particulars as are sufficient to enable the identification of that person; and
+
+(B) the nature of that person’s interest.
+
+(2) The Authority may, by notice in writing —
+
+(a) direct any shareholder of a designated telecommunication licensee to provide to the Authority, within such time as may be specified in the notice, the following information:
+
+(i) whether that shareholder holds any voting share in the designated telecommunication licensee as a trustee; and
+
+(ii) if so —
+
+(A) the name of the person for whom that shareholder holds the voting share as a trustee, or such other particulars as are sufficient to enable the identification of that person; and
+
+(B) the nature of that person’s interest;
+
+(b) direct any unitholder of a designated business trust to provide to the Authority, within such time as may be specified in the notice, the following information:
+
+(i) whether that unitholder holds any unit in the designated business trust as a trustee; and
+
+(ii) if so —
+
+(A) the name of the person for whom that unitholder holds the unit as a trustee, or such other particulars as are sufficient to enable the identification of that person; and
+
+(B) the nature of that person’s interest; and
+
+(c) direct any holder of equity interests in a designated trust to provide to the Authority, within such time as may be specified in the notice, the following information:
+
+(i) whether that holder holds any equity interest in the designated trust as a trustee; and
+
+(ii) if so —
+
+(A) the name of the person for whom that holder holds the equity interest as a trustee, or such other particulars as are sufficient to enable the identification of that person; and
+
+(B) the nature of that person’s interest.
 
 (3) Any person who —
 
-(a) fails to comply with a notice under this section; or
+(a) fails to comply with a notice under subsection (1) or (2); or
 
-(b) in purported compliance of the notice, knowingly or recklessly, makes a statement which is false in a material particular,
+(b) in purported compliance with a notice under subsection (1) or (2), knowingly or recklessly makes a statement which is false in a material particular,
 
 shall be guilty of an offence and shall be liable on conviction —
 
@@ -1142,35 +1702,193 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (ii) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-[10/2005 wef 16/02/2005]
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Appointment of chief executive officer, director, etc., of designated telecommunication licensee
 
-32F\.—(1) No designated telecommunication licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors unless it has obtained the approval of the Authority.
+32F\.—(1) No designated telecommunication licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors, unless it has obtained the approval of the Authority to do so.
 
-[10/2005 wef 16/02/2005]
+(2) Where a designated telecommunication licensee appoints a person as its chief executive officer, its director or the chairman of its board of directors without the approval of the Authority, in contravention of subsection (1), the Authority may issue a direction to the licensee to remove that person from his appointment as chief executive officer, director or chairman of the board of directors, as the case may be, of the licensee.
 
-(2) Where a person has been appointed by a designated telecommunication licensee as its chief executive officer, its director, or the chairman of its board of directors without the approval of the Authority in contravention of subsection (1), the Authority may issue a direction to the licensee to remove that person as its chief executive officer, its director or the chairman of its board of directors, as the case may be.
+(3) The Authority may at any time vary, suspend or revoke any direction issued under subsection (2).
 
-[10/2005 wef 16/02/2005]
+(4) This section shall have effect notwithstanding the provisions of any other written law and the provisions of the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
 
-(3) This section shall have effect notwithstanding the provisions of any other written law or of the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
+(5) In this section —
 
-[10/2005 wef 16/02/2005]
+“chief executive officer”, in relation to a designated telecommunication licensee —
 
-(4) In this section —
+(a) means any person, by whatever name described, who —
 
-“chief executive officer”, in relation to a designated telecommunication licensee, means any person, by whatever name described, who is —
+(i) is in the direct employment of, or acting for or by arrangement with, the designated telecommunication licensee; and
 
-(a) in the direct employment of, or acting for or by arrangement with, the designated telecommunication licensee; and
+(ii) is principally responsible for the management and conduct of any type of business of the designated telecommunication licensee in Singapore; and
 
-(b) principally responsible for the management and conduct of any type of business of the designated telecommunication licensee in Singapore,
-
-and includes any person for the time being performing all or any of the functions or duties of a chief executive officer;
+(b) includes any person for the time being performing all or any of the functions or duties of a chief executive officer;
 
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
 
-[10/2005 wef 16/02/2005]
+[Act 19 of 2011 wef 01/02/2012]
+
+## PART VB
+
+SPECIAL ADMINISTRATION ORDER
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Interpretation of this Part
+
+32G\. In this Part —
+
+“critical support infrastructure” means any infrastructure that belongs to, or is under the control of, a telecommunication licensee, and that satisfies all of the following criteria:
+
+(a) the infrastructure is required by other telecommunication licensees to provide a telecommunication service;
+
+(b) the infrastructure cannot be replicated within the foreseeable future, or obtained from a third party, by an efficient new entrant to the market for telecommunication services in Singapore, in either case, at a cost that would reasonably allow market entry;
+
+(c) the failure or refusal by the first-mentioned telecommunication licensee to allow other telecommunication licensees to use the infrastructure would unreasonably restrict competition in any market for telecommunication services in Singapore;
+
+“prescribed transferee” means —
+
+(a) the Authority; or
+
+(b) a person nominated by the Authority;
+
+“specified telecommunication licensee” means a telecommunication licensee which the Minister has declared under section 32H to be a specified telecommunication licensee for the purposes of this Part.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Declaration of specified telecommunication licensee
+
+32H\.—(1) The Minister may, after consulting with the Authority, by notification in theGazette, declare any telecommunication licensee to be a specified telecommunication licensee for the purposes of this Part, if —
+
+(a) the licensee —
+
+(i) is a public telecommunication licensee; or
+
+(ii) owns or controls any critical support infrastructure; or
+
+(b) the Minister is satisfied that it is in the public interest to do so.
+
+(2) A declaration of a specified telecommunication licensee under subsection (1)(a)(i) shall remain in force only so long as the licensee remains a public telecommunication licensee.
+
+(3) A declaration of a specified telecommunication licensee under subsection (1)(a)(ii) shall remain in force only so long as the licensee continues to own or control any critical support infrastructure.
+
+(4) The Minister may, after consulting with the Authority, by notification in theGazette, revoke any declaration under subsection (1).
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Meaning and effect of special administration order
+
+32I\.—(1) A special administration order is an order of the Minister, made in accordance with section 32J in relation to a specified telecommunication licensee, directing that during the period for which the order is in force, the affairs, business and property of that licensee shall be managed by a person appointed by the Minister (which may include the Authority) —
+
+(a) for securing one or more of the purposes of such an order set out in subsection (2); and
+
+(b) in a manner which protects the respective interests of the shareholders and the creditors of the licensee.
+
+(2) The purposes referred to in subsection(1)(a) are —
+
+(a) the security and reliability of the supply of telecommunication services in Singapore;
+
+(b) the survival of the specified telecommunication licensee, or the whole or any part of its business or undertaking, as a going concern;
+
+(c) the transfer to another person, or (as respects different parts of its business or undertaking) to 2 or more different persons, as a going concern, of so much of the specified telecommunication licensee’s business or undertaking as it is necessary to transfer in order to ensure that the functions and duties which have been vested in the licensee by virtue of its licence may be properly carried out; and
+
+(d) the carrying out of the functions and duties vested in the specified telecommunication licensee, pending the making of the transfer and the vesting of those functions and duties in any other person or persons.
+
+(3) The Minister may make regulations for giving effect to this Part, including —
+
+(a) regulations governing the transfer of a specified telecommunication licensee’s business or undertaking referred to in subsection (2)(c); and
+
+(b) where a special administration order is made, regulations for applying, omitting or modifying the provisions of Part VIIIA of the Companies Act (Cap. 50).
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Power to make special administration order, etc.
+
+32J\.—(1) If, on an application made to the Minister by the Authority in relation to any specified telecommunication licensee, the Minister is satisfied that any one or more of the grounds specified in subsection (2) are satisfied in relation to that licensee, the Minister may make any one or more of the following orders:
+
+(a) a special administration order in relation to that licensee;
+
+(b) an order requiring the licensee immediately to take any action or to do or not to do any act or thing in relation to its business as the Minister may consider necessary;
+
+(c) an order appointing a person to advise that licensee in the proper conduct of its business.
+
+(2) The grounds referred to in subsection (1) are that —
+
+(a) there has been, is or is likely to be a contravention by the specified telecommunication licensee of the conditions of its licence or of this Act which is serious enough to make it inappropriate for the licensee to continue to hold the licence;
+
+(b) the specified telecommunication licensee is or is likely to be unable to pay its debts;
+
+(c) the Minister considers it in the interest of the security and reliability of the supply of telecommunication services in Singapore; and
+
+(d) the Minister considers it to be in the public interest.
+
+(3) The Minister may make a special administration order in relation to a specified telecommunication licensee notwithstanding the commencement of —
+
+(a) any proceedings relating to the making of an order under section 210 of the Companies Act (Cap. 50) in relation to the specified telecommunication licensee;
+
+(b) any proceedings relating to the making of a judicial management order under the Companies Act in relation to the specified telecommunication licensee; or
+
+(c) any proceedings under the Companies Act relating to the winding up of the affairs of the specified telecommunication licensee.
+
+(4) Notice of any application under subsection (1) shall be given immediately by the Authority to such persons and in such manner as may be determined by the Authority.
+
+(5) Any decision of the Minister under subsection (1) shall be final.
+
+(6) For the purposes of this section, a specified telecommunication licensee, being a company, is unable to pay its debts if it is deemed to be unable to pay its debts under section 254(2) of the Companies Act.
+
+(7) The Minister may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a specified telecommunication licensee to any person appointed by the Minister under subsection (1)(c) to advise the licensee in the proper conduct of its business.
+
+(8) Where the Minister issues an order to a specified telecommunication licensee under subsection (1) and the licensee fails to comply with that order, the licensee shall be guilty of an offence.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Transfer of property, etc., under special administration order
+
+32K\.—(1) Without prejudice to the generality of sections 32I and 32J, a special administration order may provide for the following matters:
+
+(a) the transfer of the property, rights and liabilities of a specified telecommunication licensee to one or more prescribed transferees; and
+
+(b) matters that are consequential or related to any such transfer.
+
+(2) If the Minister makes a special administration order providing for any matter referred to in subsection (1), he shall, within 6 months after the making of the order, by notification in theGazette, establish a scheme for determining the amount of any compensation payable to the specified telecommunication licensee for the transfer of its property, rights and liabilities.
+
+(3) A scheme established under subsection (2) may provide for —
+
+(a) the manner in which any compensation or consideration is to be assessed, including methods of calculation, valuation dates and matters to be taken into account or disregarded when making valuations;
+
+(b) the assessment to be made by an independent valuer appointed by the Minister; and
+
+(c) the remuneration and expenses of the independent valuer.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Restrictions on voluntary winding up, etc.
+
+32L\.—(1) Notwithstanding any other written law —
+
+(a) a specified telecommunication licensee shall not be wound up voluntarily without the consent of the Authority;
+
+(b) a person shall not make any application under section 210 of the Companies Act (Cap. 50) in relation to a specified telecommunication licensee, unless that person has served 14 days’ notice in writing of his intention to make that application on the Authority;
+
+(c) a person shall not make any application for a judicial management order under the Companies Act in relation to a specified telecommunication licensee, unless that person has served 14 days’ notice in writing of his intention to make that application on the Authority;
+
+(d) a person shall not take any step to enforce any security over a specified telecommunication licensee’s property, unless that person has served 14 days’ notice in writing of his intention to take that step on the Authority; and
+
+(e) a person shall not take any step to execute or enforce any judgment or order of court obtained against a specified telecommunication licensee, unless that person has served 14 days’ notice in writing of his intention to take that step on the Authority.
+
+(2) The Authority shall be a party to —
+
+(a) any proceedings relating to the making of an order under section 210 of the Companies Act in relation to a specified telecommunication licensee;
+
+(b) any proceedings relating to the making of a judicial management order under the Companies Act in relation to a specified telecommunication licensee; and
+
+(c) any proceedings under the Companies Act relating to the winding up of the affairs of a specified telecommunication licensee.
+
+(3) A court shall, when deciding any proceedings referred to in subsection (2), take into consideration any representations made by the Authority in those proceedings.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ## PART VI
 
@@ -1192,7 +1910,7 @@ OFFENCES AND PENALTIES
 
 (7) Where the defence provided by subsection (6) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in his possession.
 
-### Prohibitions in respect of telecommunication and radio- communication equipment
+### Prohibitions in respect of telecommunication and radio-communication equipment
 
 34\.—(1) No person shall —
 
@@ -1206,7 +1924,7 @@ except and in accordance with a licence granted under section 5 or any regulatio
 
 ### Penalty for unlicensed station
 
-35\.—(1) Any person who establishes, installs, maintains, provides or operates a radio-communication system or service or any radio- communication equipment in any place or on board any vessel, aircraft or in any vehicle in Singapore without a licence granted under section 5 or any regulations made under this Act shall be guilty of an offence.
+35\.—(1) Any person who establishes, installs, maintains, provides or operates a radio-communication system or service or any radio-communication equipment in any place or on board any vessel, aircraft or in any vehicle in Singapore without a licence granted under section 5 or any regulations made under this Act shall be guilty of an offence.
 
 (2) Any person who is in possession of any radio-communication equipment shall be deemed, until the contrary is proved, to have operated the same.
 
@@ -1488,6 +2206,18 @@ the Minister may, after consultation with the Authority or any telecommunication
 
 [10/2005 wef 16/02/2005]
 
+(5A) Any telecommunication licensee who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding the higher of the following amounts:
+
+(i) 10% of the annual turnover of that part of its business in respect of which it is granted the licence, as ascertained from its latest audited accounts; or
+
+(ii) $1 million; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 19 of 2011 wef 01/02/2012]
+
 (6) The Authority and any telecommunication licensee shall not disclose any direction given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
 
 [10/2005 wef 16/02/2005]
@@ -1646,7 +2376,9 @@ GENERAL PROVISIONS
 
 (a) any decision of the Authority in the exercise of any discretion vested in it by or under this Act; or
 
-(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 21, 27, 32D or 32F(2),
+(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 21, 27, 32D, 32E(1) or 32F(2),
+
+[Act 19 of 2011 wef 01/02/2012]
 
 may, within 14 days of the receipt of the decision or direction of the Authority or the issue or approval of the code of practice or standard of performance, as the case may be —
 
@@ -1656,17 +2388,25 @@ may, within 14 days of the receipt of the decision or direction of the Authority
 
 [10/2005 wef 16/02/2005]
 
-(2) Any person (other than a telecommunication licensee) who is aggrieved by any decision or direction of the Authority given by or under section 5(1), 5A, 8(1), 14, 21, 23, 32B or 32D may, within 14 days of the receipt of the decision or direction of the Authority —
+(2) Any person (other than a telecommunication licensee) who is aggrieved by —
 
-(a) make a request to the Authority to reconsider the matter; or
+(a) any decision of the Authority under section 5(1), 5A, 5B(1), 8(1), 14, 19(6) or (7), 23 or 32B; or
 
-(b) appeal to the Minister.
+(b) anything contained in any code of practice issued under section 19 or under section 26 read with section 32C or in any direction of the Authority given under section 21, 32D or 32E(1) or (2),
+
+may, within 14 days after the receipt of the decision or direction of the Authority or the issue of the code of practice, as the case may be —
+
+(i) make a request to the Authority to reconsider the matter; or
+
+(ii) appeal to the Minister.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(3) A person shall not make both a reconsideration request to the Authority and an appeal to the Minister in respect of the same decision or direction of the Authority or thing contained in a code of practice or standard of performance.
 
 [10/2005 wef 16/02/2005]
 
-(3) A person shall not make both a reconsideration request to the Authority and an appeal to the Minister arising from the same decision or direction of the Authority.
-
-[10/2005 wef 16/02/2005]
+[Act 19 of 2011 wef 01/02/2012]
 
 (4) Where a reconsideration request and an appeal have been made in contravention of subsection (3), the appeal shall be deemed to be withdrawn.
 
@@ -1676,7 +2416,9 @@ may, within 14 days of the receipt of the decision or direction of the Authority
 
 (a) a reconsideration request has been made to the Authority by any person; and
 
-(b) an appeal arising from the same decision or direction of the Authority is made or has been made to the Minister by any other person,
+(b) an appeal in respect of the same decision or direction of the Authority or thing contained in a code of practice or standard of performance is made or has been made to the Minister by any other person,
+
+[Act 19 of 2011 wef 01/02/2012]
 
 the appeal to the Minister shall be deemed to be withdrawn.
 
@@ -1740,43 +2482,45 @@ the appeal to the Minister shall be deemed to be withdrawn.
 
 [10/2005 wef 16/02/2005]
 
-### Power of Minister to issue written order relating to acquisition of assets, etc., of telecommunication licensee
+### Power of Minister to issue written order relating to acquisition of assets, etc., of telecommunication licensee, designated business trust or designated trust
 
-69B\.—(1) The Minister may issue a written order to any person that acquires the assets or business of, or shares in, a telecommunication licensee (referred to in this section as the relevant person), that telecommunication licensee, or both, if the Minister is satisfied that —
+69B\.—(1) The Minister may issue a written order to any person that acquires the assets or business of, or equity interests in, a telecommunication licensee, designated business trust or designated trust (referred to in this section as the relevant person), that telecommunication licensee, the trustee-manager of that designated business trust or the trustee of that designated trust (as the case may be), or both the relevant person and that telecommunication licensee, trustee-manager or trustee (as the case may be), if the Minister is satisfied that —
 
 (a) the relevant person is not a fit and proper person; and
 
-(b) it is not in the national interest to allow the relevant person to continue to own the assets or business of, or to hold the shares in, that telecommunication licensee.
+(b) it is not in the national interest to allow the relevant person to continue to own the assets or business of, or to hold the equity interests in, that telecommunication licensee, designated business trust or designated trust (as the case may be).
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(2) The Minister may, in any written order issued under subsection (1), direct the relevant person, that telecommunication licensee, the trustee-manager of that designated business trust or the trustee of that designated trust (as the case may be), or both the relevant person and that telecommunication licensee, trustee-manager or trustee (as the case may be), to do all or any of the following:
+
+(a) direct the transfer or disposal of all of the assets, business and equity interests acquired by the relevant person in that telecommunication licensee, designated business trust or designated trust (as the case may be) within such time and subject to such conditions as the Minister considers appropriate;
+
+(b) restrict the transfer or disposal of the assets, business and equity interests in that telecommunication licensee, designated business trust or designated trust (as the case may be) by the relevant person;
+
+(c) restrict the exercise of voting power in that telecommunication licensee, designated business trust or designated trust (as the case may be) by the relevant person;
+
+(d) require that no payment shall be made by that telecommunication licensee, the trustee-manager of that designated business trust or the trustee of that designated trust (as the case may be) of any amount (whether by way of dividends, profits, income or otherwise) in respect of the equity interests acquired by the relevant person;
+
+(e) restrict the issuance or offer of equity interests (whether by way of rights, bonus or otherwise) by that telecommunication licensee, the trustee-manager of that designated business trust or the trustee of that designated trust (as the case may be) in respect of the equity interests acquired by the relevant person.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(3) In the case of any written order made under subsection (2)(a) or (b) relating to the equity interests, until a transfer or disposal is effected in accordance with the written order or until the restriction on the transfer or disposal is removed, as the case may be, notwithstanding the provisions of any written law or anything contained in the memorandum or articles of association, trust deed or other constitution, of that telecommunication licensee, designated business trust or designated trust (as the case may be) —
+
+(a) no voting rights shall be exercisable in respect of the equity interests unless the Minister expressly permits such rights to be exercised;
+
+(b) no equity interests of that telecommunication licensee, designated business trust or designated trust (as the case may be) shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the equity interests unless the Authority expressly permits such issue or offer; and
+
+(c) except in a liquidation of that telecommunication licensee, designated business trust or designated trust (as the case may be), no payment shall be made by that telecommunication licensee, the trustee-manager of that designated business trust or the trustee of that designated trust (as the case may be) of any amount (whether by way of dividends, profits, income or otherwise) in respect of the equity interests unless the Minister expressly authorises such payment.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(4) Before issuing the written order under subsection (1), the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the relevant person and the telecommunication licensee, designated business trust or designated trust, as the case may be, notice in writing of his intention to issue the written order, specifying the date by which written representations may be made to the Minister with regard to the written order.
 
 [10/2005 wef 16/02/2005]
 
-(2) The Minister may, in any written order issued under subsection (1), direct the relevant person, that telecommunication licensee, or both, to do all or any of the following:
-
-(a) direct the transfer or disposal of all of the assets, business and shares acquired by the relevant person in that telecommunication licensee, within such time and subject to such conditions as the Minister considers appropriate;
-
-(b) restrict the transfer or disposal of the assets, business and shares by the relevant person in that telecommunication licensee;
-
-(c) restrict the exercise of voting power in that telecommunication licensee by the relevant person;
-
-(d) require that no payment shall be made by that telecommunication licensee of any amount (whether by way of dividends) in respect of the shares acquired by the relevant person;
-
-(e) restrict the issuance or offer of shares by that telecommunication licensee (whether by way of rights, bonus or otherwise) in respect of the shares acquired by the relevant person.
-
-[10/2005 wef 16/02/2005]
-
-(3) In the case of any written order made under subsection (2)(a) or (b) relating to the shares, until a transfer or disposal is effected in accordance with the written order or until the restriction on the transfer or disposal is removed, as the case may be, notwithstanding the provisions of any written law or anything contained in the memorandum or articles of association, or other constitution, of that telecommunication licensee —
-
-(a) no voting rights shall be exercisable in respect of the shares unless the Minister expressly permits such rights to be exercised;
-
-(b) no shares of that telecommunication licensee shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the shares unless the Authority expressly permits such issue or offer; and
-
-(c) except in a liquidation of that telecommunication licensee, no payment shall be made by that telecommunication licensee of any amount (whether by way of dividends or otherwise) in respect of the shares unless the Minister expressly authorises such payment.
-
-[10/2005 wef 16/02/2005]
-
-(4) Before issuing the written order under subsection (1), the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the relevant person and the telecommunication licensee, as the case may be, notice in writing of his intention to issue the written order, specifying the date by which written representations may be made to the Minister with regard to the written order.
-
-[10/2005 wef 16/02/2005]
+[Act 19 of 2011 wef 01/02/2012]
 
 (5) Upon receipt of any written representation, the Minister shall consider it for the purpose of determining whether to issue the written order.
 
@@ -1786,9 +2530,9 @@ the appeal to the Minister shall be deemed to be withdrawn.
 
 [10/2005 wef 16/02/2005]
 
-(7) Any person to whom a written order is issued under subsection (1) shall comply with the written order and the written order shall take effect notwithstanding the provisions of any other written law and anything contained in the memorandum or articles of association, or other constitution, of the designated telecommunication licensee.
+(7) Any person to whom a written order is issued under subsection (1) shall comply with the written order, and the written order shall take effect notwithstanding the provisions of any other written law and anything contained in the memorandum or articles of association, trust deed or other constitution, of the telecommunication licensee, designated business trust or designated trust (as the case may be).
 
-[10/2005 wef 16/02/2005]
+[Act 19 of 2011 wef 01/02/2012]
 
 (8) Any person who contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction —
 
@@ -1797,6 +2541,192 @@ the appeal to the Minister shall be deemed to be withdrawn.
 (b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
 [10/2005 wef 16/02/2005]
+
+(9) In this section —
+
+“designated business trust” and “designated trust” have the same meanings as in section 32A(1);
+
+“equity interest” means —
+
+(a) in relation to a telecommunication licensee, a voting share in that telecommunication licensee;
+
+(b) in relation to a designated business trust, a unit in that designated business trust; or
+
+(c) in relation to a designated trust, any right or interest, whether legal or equitable, in that designated trust which gives the holder of that right or interest voting power in that designated trust.
+
+[Act 19 of 2011 wef 01/02/2012]
+
+### Power of Minister to issue separation order
+
+69C\.—(1) The Minister may issue a written order (referred to in this section as the separation order) to any telecommunication licensee (referred to in this section as the relevant telecommunication licensee), if —
+
+(a) either of the following applies:
+
+(i) the relevant telecommunication licensee is licensed to operate a telecommunication system, or any installation or plant used for telecommunications, that is so costly or difficult to replicate that a requirement to do so would create a significant barrier to rapid and successful entry into the market for telecommunication services in Singapore by an efficient competitor of the relevant telecommunication licensee;
+
+(ii) the relevant telecommunication licensee has the ability to exercise significant market power in any market for telecommunication services in Singapore, and both of the following apply:
+
+(A) the telecommunication services provided by the relevant telecommunication licensee in that market (referred to in this subsection as the relevant telecommunication services) are required by other telecommunication licensees for the provision of telecommunication services in Singapore on a competitive basis;
+
+(B) it is so costly or difficult to provide the relevant telecommunication services that a requirement to do so would create a significant barrier to the provision of telecommunication services in Singapore on a competitive basis by an efficient competitor of the relevant telecommunication licensee;
+
+(b) the Minister is satisfied that the actions that the Authority has taken in the exercise of its powers under this Act have failed, and that any other actions that the Authority may take in the exercise of those powers are likely to fail, to enable an efficient competitor of the relevant telecommunication licensee to achieve —
+
+(i) where paragraph (a)(i) applies, rapid and successful entry into the market for telecommunication services in Singapore; or
+
+(ii) where paragraph (a)(ii) applies, the provision of telecommunication services in Singapore on a competitive basis; and
+
+(c) the Minister is satisfied that it is in the public interest to issue the separation order.
+
+(2) In deciding whether it is in the public interest to issue the separation order, the Minister shall have regard to whether the issue of the separation order is necessary or desirable for one or more of the following purposes:
+
+(a) to promote and maintain fair and efficient market conduct and effective competition between persons engaged in commercial activities connected with telecommunication technology in Singapore;
+
+(b) to promote the efficiency and international competitiveness of the telecommunication industry in Singapore;
+
+(c) to eliminate or reduce barriers to competition arising from the control of any telecommunication system, or the possession of significant market power, by the relevant telecommunication licensee;
+
+(d) to promote transparency, non-discrimination and equivalence of supply in relation to the provision of telecommunication services in Singapore.
+
+(3) The separation order may —
+
+(a) direct the relevant telecommunication licensee to transfer to a separate entity or an independent entity either or both of the following:
+
+(i) the whole or any part of any business of the relevant telecommunication licensee that is conducted pursuant to a telecommunication licence granted under section 5;
+
+(ii) the whole or any part of any property of the relevant telecommunication licensee that is used by it to provide any telecommunication services, and any rights, obligations and liabilities relating to that property;
+
+(b) for the purposes of paragraph (a), direct the relevant telecommunication licensee —
+
+(i) to establish a separate entity; and
+
+(ii) to ensure that the separate entity applies for a licence under section 5; and
+
+(c) contain such other directions as the Minister considers appropriate, including (but not limited to) directions relating to all or any of the following matters:
+
+(i) the types of transactions, dealings, arrangements and relationships that the relevant telecommunication licensee may engage in, or is prohibited from engaging in, with the separate entity or independent entity;
+
+(ii) the measures to be implemented to ensure that the relevant telecommunication licensee will not obtain effective control over the independent entity;
+
+(iii) any future or contingent right or liability of the relevant telecommunication licensee;
+
+(iv) the conditions of the transfer directed under paragraph (a);
+
+(v) any incidental, consequential or supplementary matters which, in the Minister’s opinion, are necessary to ensure that the transfer directed under paragraph (a) is effective.
+
+(4) In determining the directions to be included in the separation order, the Minister shall have regard to whether the directions are proportionate, taking into account —
+
+(a) the contestability of the relevant market for telecommunication services in Singapore; and
+
+(b) the effectiveness of the directions in eliminating or minimising any incentive or opportunity for the relevant telecommunication licensee to act in a manner that prevents, restricts or distorts competition in the relevant market for telecommunication services in Singapore.
+
+(5) A licence granted under section 5 to a separate entity established by a relevant telecommunication licensee may include (without prejudice to the power to impose conditions conferred by that section) conditions requiring the separate entity —
+
+(a) to operate on a stand-alone basis;
+
+(b) to deal at arm’s length with the relevant telecommunication licensee or any of its associates;
+
+(c) to provide to other telecommunication licensees any service on the same terms and conditions (including in relation to price, service levels and time frames), and by means of the same systems and processes (including operational support processes), as it provides to the relevant telecommunication licensee or any of its associates; and
+
+(d) to do, or to refrain from doing, such things as are specified in the licence, or as are of a description specified in the licence.
+
+(6) The separation order shall take effect, notwithstanding —
+
+(a) the provisions of any other written law or any rule of law; and
+
+(b) the provisions of the memorandum or articles of association, or other constitution, of the relevant telecommunication licensee.
+
+(7) Notwithstanding any other written law or any rule of law, where the separation order contains a direction under subsection (3)(a), on the date appointed for the transfer of any business or property of the relevant telecommunication licensee to a transferee —
+
+(a) that business or property shall be transferred to, and shall vest in, the transferee without other or further assurance, act or deed, and the separation order shall have effect according to its tenor and be binding on any person thereby affected;
+
+(b) every deed, bond, agreement or other arrangement subsisting immediately before that date which relates to that business or property, and to which the relevant telecommunication licensee is a party, shall continue in full force and effect, and shall be enforceable by or against the transferee, from that date, as if the transferee had been named therein or had been a party thereto instead of the relevant telecommunication licensee; and
+
+(c) any proceedings or cause of action, by or against the relevant telecommunication licensee, pending or existing immediately before that date and relating to that business or property shall, if continued, be enforceable by or against, the transferee from that date.
+
+(8) Subject to subsection (11), the Minister may award compensation to the relevant telecommunication licensee for any damage caused to it by reason of its compliance with the separation order.
+
+(9) For the purposes of subsection (8), the Minister shall, within 6 months after the making of the separation order, by notification in theGazette, establish a scheme for determining the amount of any compensation payable to the relevant telecommunication licensee.
+
+(10) A scheme established under subsection (9) may provide for —
+
+(a) the manner in which any compensation or consideration is to be assessed, including methods of calculation, valuation dates and matters to be taken into account or disregarded when making valuations;
+
+(b) the assessment to be made by an independent valuer appointed by the Minister; and
+
+(c) the remuneration and expenses of the independent valuer.
+
+(11) No compensation shall be awarded under subsection (8) if, when issuing the separation order, the Minister was satisfied that the relevant telecommunication licensee had engaged in conduct that prevents, restricts or distorts competition in any market for telecommunication services in Singapore, through —
+
+(a) its control of the telecommunication system, or the installation or plant used for telecommunications, referred to in subsection (1)(a)(i); or
+
+(b) the exercise of its market power referred to in subsection (1)(a)(ii).
+
+(12) Any compensation awarded by the Minister under subsection (8) shall be paid out of the Consolidated Fund.
+
+(13) Before issuing the separation order, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the relevant telecommunication licensee notice in writing of his intention to issue the separation order, specifying the date by which written representations may be made to the Minister with regard to the separation order.
+
+(14) Upon receipt of any written representation, the Minister shall consider it for the purpose of determining whether to issue the separation order.
+
+(15) The Minister may at any time vary, suspend or revoke the whole or any part of the separation order.
+
+(16) The relevant telecommunication licensee and any person affected by the separation order shall comply with the separation order.
+
+(17) Any person who contravenes subsection (16) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction;
+
+(b) in the case of an entity which is granted a licence under section 5, to a fine not exceeding the higher of the following amounts:
+
+(i) 10% of the annual turnover of that part of its business in respect of which it is granted the licence, as ascertained from its latest audited accounts; or
+
+(ii) $1 million,
+
+and, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part thereof during which the offence continues after conviction; or
+
+(c) in any other case, to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part thereof during which the offence continues after conviction.
+
+(18) Section 32A(4), (5)(a), (6), (7) and (8) shall apply with the necessary modifications to this section as they apply to Part VA.
+
+(19) In this section —
+
+“30% controller”, in relation to a telecommunication licensee, means a person who, alone or together with his associates —
+
+(a) holds 30% or more of the total number of voting shares in the telecommunication licensee; or
+
+(b) is in a position to control 30% or more of the voting power in the telecommunication licensee;
+
+“broadcasting licensee” has the same meaning as in section 2(1) of the Broadcasting Act (Cap. 28), but does not include a class licensee as defined in section 2(1) of that Act;
+
+“business” includes any business affairs, property, right, obligation or liability;
+
+“effective control”, in relation to a telecommunication licensee or an independent entity, means the ability to cause the telecommunication licensee or independent entity (as the case may be) to take, or to refrain from taking, a major decision regarding the management or operations of the telecommunication licensee or independent entity (as the case may be), and includes such control as may be exercised over the telecommunication licensee or independent entity (as the case may be) by a 30% controller of the telecommunication licensee or independent entity (as the case may be);
+
+“independent entity” means an entity that —
+
+(a) whether alone or together with its associates, does not have effective control over any telecommunication licensee or broadcasting licensee; and
+
+(b) is not under the effective control of —
+
+(i) any telecommunication licensee, whether alone or with its associates; or
+
+(ii) any broadcasting licensee, whether alone or with its associates; or
+
+(c) is not under the effective control of any other entity which, whether alone or together with its associates, has effective control over any telecommunication licensee or broadcasting licensee;
+
+“property” means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and includes —
+
+(a) any property, right or power of any description; and
+
+(b) in relation to a telecommunication licensee, the telecommunication licensee’s telecommunication system and installation or plant used for telecommunications;
+
+“separate entity”, in relation to a telecommunication licensee, means an entity which is a separate legal entity from the telecommunication licensee, and includes any such entity the equity interests of which are wholly owned by the telecommunication licensee;
+
+“significant market power” means the ability to unilaterally restrict output, raise prices, reduce quality or otherwise act, to a significant extent, independently of competitive market forces;
+
+“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Exclusion of liability of public telecommunication licensees
 
@@ -1812,25 +2742,57 @@ the appeal to the Minister shall be deemed to be withdrawn.
 
 which is due to the act or default of another person, or an accident or some other cause beyond the public telecommunication licensee’s control.
 
-### Service of documents
+### Service of documents, etc.
 
-71\.—(1) Unless otherwise expressly provided in this Act, any notice, order or document required or authorised by this Act or any regulations made thereunder to be given or served on any person, and any summons issued by a court in connection with any offence under this Act or any regulations made thereunder may be served on the person concerned —
+71\.—(1) Subject to subsection (6), any decision, notice, order or document required or authorised to be given by the Authority, or served by the Authority on any person, under this Act, or under any code of practice or standard of performance, may be served —
 
-(a) by delivering it to the person or to some adult member or employee of his family at his last known place of residence;
+(a) in the case of an individual —
 
-(b) by leaving it at his usual or last known place of residence or place of business in a cover addressed to him;
+(i) by delivering the decision, notice, order or document to the individual personally;
 
-(c) by affixing it to some conspicuous part of his last known place of residence;
+(ii) by leaving the decision, notice, order or document with an adult person apparently resident at the usual or last known address of the place of residence of the individual;
 
-(d) by sending it by registered post addressed to the person at his usual or last known place of residence or place of business; or
+(iii) by leaving the decision, notice, order or document with an adult person apparently employed at the usual or last known address of the place of business of the individual;
 
-(e) where the person is a body corporate —
+(iv) by affixing the decision, notice, order or document in a conspicuous place at the usual or last known address of the place of residence or business of the individual;
 
-(i) by delivering it to the secretary or other like officer of the body corporate at its registered or principal office; or
+(v) by sending the decision, notice, order or document by pre-paid registered post addressed to the individual at the usual or last known address of the place of residence or business of the individual;
 
-(ii) by sending it by registered post addressed to the body corporate at its registered or principal office.
+(vi) by sending the decision, notice, order or document by facsimile transmission to the last facsimile transmission number of the individual given to the Authority by the individual; or
 
-(2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the same, it shall be sufficient to prove that the envelope containing the notice, order, document or summons was properly addressed, stamped and posted by registered post.
+(vii) by sending an electronic communication of the decision, notice, order or document to the last electronic mail address of the individual given to the Authority by the individual;
+
+(b) in the case of a partnership other than a limited liability partnership —
+
+(i) by delivering the decision, notice, order or document to any one of the partners or the secretary or other like officer of the partnership;
+
+(ii) by leaving the decision, notice, order or document at, or by sending the decision, notice, order or document by pre-paid registered post to, the principal or last known place of business of the partnership in Singapore;
+
+(iii) by sending the decision, notice, order or document by facsimile transmission to the last facsimile transmission number of the partnership given to the Authority by the partnership; or
+
+(iv) by sending an electronic communication of the decision, notice, order or document to the last electronic mail address of the partnership given to the Authority by the partnership; and
+
+(c) in the case of a limited liability partnership or any other body corporate —
+
+(i) by delivering the decision, notice, order or document to the manager of the limited liability partnership or the secretary or other like officer of the body corporate;
+
+(ii) by leaving the decision, notice, order or document at, or by sending the decision, notice, order or document by pre-paid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore;
+
+(iii) by sending the decision, notice, order or document by facsimile transmission to the last facsimile transmission number of the limited liability partnership or body corporate given to the Authority by the limited liability partnership or body corporate; or
+
+(iv) by sending an electronic communication of the decision, notice, order or document to the last electronic mail address of the limited liability partnership or body corporate given to the Authority by the limited liability partnership or body corporate.
+
+(2) Where any decision, notice, order or other document required or authorised to be given by the Authority, or served by the Authority on any person, under this Act is sent by pre-paid registered post, the decision, notice, order or document shall be deemed to have been duly served on the person to whom it is addressed 2 days after the day it was posted, whether or not it is returned undelivered.
+
+(3) Where any decision, notice, order or other document required or authorised to be given by the Authority, or served by the Authority on any person, under this Act is sent by facsimile transmission to a facsimile transmission number in accordance with subsection (1), the decision, notice, order or document shall be deemed to have been duly served on the person to whom it is addressed on the day of the transmission, subject to the receipt on the sending facsimile machine of a notification (by electronic or other means) of a successful transmission to the facsimile machine for that facsimile transmission number.
+
+(4) Where any decision, notice, order or other document required or authorised to be given by the Authority, or served by the Authority on any person, under this Act is sent by electronic communication to an electronic mail address in accordance with subsection (1), the decision, notice, order or document shall be deemed to have been duly served on the person to whom it is addressed at the time the electronic communication enters the information system for that electronic mail address.
+
+(5) Service of any decision, notice, order or other document under this Act may be effected on a person by electronic communication only if the person gives as part of his address for service an electronic mail address.
+
+(6) This section shall not apply to notices and documents to be served in proceedings in court.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Excluded matters
 
@@ -1864,9 +2826,23 @@ which is due to the act or default of another person, or an accident or some oth
 
 (e) the control and regulation of interference by radiowaves or electrical or other means to telecommunications in Singapore;
 
-(f) the control and regulation of installation, wiring, cabling and other types of works to be carried out on the telecommunication systems of a public telecommunication licensee.
+(f) the control and regulation of installation, wiring, cabling and other types of works to be carried out on the telecommunication systems of a public telecommunication licensee;
 
 [10/2005 wef 16/02/2005]
+
+[Act 19 of 2011 wef 01/02/2012]
+
+(g) the control and regulation of the allocation and use of —
+
+(i) telephone numbers; and
+
+(ii) any other numbers used for or in connection with either or both of the following:
+
+(A) the operation of telecommunication systems;
+
+(B) the provision of telecommunication services.
+
+[Act 19 of 2011 wef 01/02/2012]
 
 ### Savings and transitional provisions
 
@@ -1880,7 +2856,7 @@ Telecommunications Act
 
 (CHAPTER 323)
 
-This Legislative History is provided for the convenience of users of the Telecommunications Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Telecommunications Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1896,13 +2872,17 @@ This Legislative History is provided for the convenience of users of the Telecom
 |||(Bill No. 67/2004 published on 25 November 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|16 February 2005|
+|4.|**Act 19 of 2011—Telecommunications (Amendment) Act 2011**|
+||Date of First Reading|20 October 2011 (Bill No. 20/2011 published on 20 October 2011)|
+||Date of Second and Third Readings|21 November 2011|
+||Date of commencement|1 February 2012|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
 
 (CHAPTER 323)
 
-The following provisions in the Telecommunications Act 1999 (Act 43 of 1999) have been enumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+The following provisions in the Telecommunications Act 1999 (Act 43 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Telecommunications Act.
 
@@ -1910,59 +2890,59 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 Act 43 of 1999 
 
-8 — (2)
+8 —(2)
 
-Set out for8 — (1)
+Set out for8 —(1)
 
 (3) to (7)
 
 (2) to (6)
 
-9 — (4) and (5)
+9 —(4) and (5)
 
-9 — (4)
+9 —(4)
 
 (6) and (7)
 
 (5) and (6)
 
-13 — (1)
+13 —(1)
 
 13 
 
 (2)
 
-13 — (a)
+13 —(a)
 
 (3)
 
-13 — (b)
+13 —(b)
 
-18 — (7) and (8)
+18 —(7) and (8)
 
-18 — (7)
+18 —(7)
 
 (9) and (10)
 
 (8) and (9)
 
-33 — (3) and (4)
+33 —(3) and (4)
 
-33 — (3)
+33 —(3)
 
 (5), (6) and (7)
 
 (4), (5) and (6)
 
-54 — (1) and (2)
+54 —(1) and (2)
 
 54 
 
-57 — (1) and (2)
+57 —(1) and (2)
 
 57 
 
-66 — (1) and (2)
+66 —(1) and (2)
 
 66 
 
