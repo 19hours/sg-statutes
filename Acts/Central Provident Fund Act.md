@@ -404,6 +404,10 @@ PRELIMINARY
 
 [40/2007 wef 01/10/2007]
 
+“nominee account” means any nominee ordinary account, nominee medisave account, nominee special account or nominee retirement account maintained for a deceased member under section 20(1D);
+
+[Act 20 of 2011 wef 06/02/2012]
+
 “ordinary account” means an ordinary account maintained under section 13;
 
 “prescribed age” means such age of a member as the Minister may prescribe by regulations made under section 77(1), and the Minister may prescribe different ages for different purposes and in respect of different classes of members;
@@ -489,6 +493,36 @@ PRELIMINARY
 [18/2009 wef 01/03/2010]
 
 (5) For the purposes of this Act, a reference to the Board being satisfied that a person lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) shall be construed as including a reference to the Board being satisfied that the person’s lack of capacity is likely to be permanent.
+
+(6) In this Act, unless the context otherwise requires, a reference to the amount payable on a member’s death out of the Fund shall be construed as a reference to the balance standing to the credit of the member in the Fund after deducting the following amounts:
+
+(a) any sum withdrawn, or to be withdrawn, under section 16A;
+
+(b) any sum credited, or to be credited, to the account of another person under section 19(2) or (6) or 19A(2) or (6);
+
+(c) any sum transferred or paid, or to be transferred or paid, to another person under section 27B; and
+
+(d) any sum recovered, or to be recovered, by the Board under section 27N(4) or 57C(5) or (6).
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(7) For the purposes of sections 6(4C) and (4D), 13(7A), (7B) and (7C), 26 and 26A, where a member has died, but the day on which, or the month or year in which, the member died cannot be ascertained, the following provisions shall apply:
+
+(a) where the day of the month on which the member died cannot be ascertained, the member shall be deemed to have died —
+
+(i) in any case where the Board has received satisfactory proof, or obtained reliable information, that the member died within a particular period, on the last day of that period; or
+
+(ii) in any other case, on the first day of the month in which the member died or is deemed under paragraph (b) to have died;
+
+(b) where the month in which the member died cannot be ascertained, the member shall be deemed to have died —
+
+(i) in any case where the Board has received satisfactory proof, or obtained reliable information, that the member died within a particular period, in the last month of that period; or
+
+(ii) in any other case, in January of the year in which the member died or is deemed under paragraph (c) to have died; and
+
+(c) where the year in which the member died cannot be ascertained, and the Board has received satisfactory proof, or obtained reliable information, that the member died within a particular period, the member shall be deemed to have died in the last year of that period.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 ### Establishment and constitution of Central Provident Fund Board
 
@@ -672,7 +706,7 @@ CONTRIBUTIONS TO FUND
 
 (a) deposited in a bank or banks approved by the Board;
 
-(b) invested in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap.1); or
+(b) invested in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1); or
 
 (c) used for the purchase of any property and for the construction of buildings for the purposes of the Board or for letting to derive income therefrom and the Board may dispose of all or any part of the property or buildings.
 
@@ -720,7 +754,7 @@ CONTRIBUTIONS TO FUND
 
 (ii) the date on which the Board is notified, in such manner as may be prescribed in any regulations made under section 77(1), of the member’s death.
 
-(4D) Where a member of the Fund dies on or after 1st January 2004, the Board may cease to pay interest on any amount standing to the credit of the deceased member in the Fund —
+(4D) Where a member of the Fund dies on or after 1st January 2004, the Board may cease to pay interest on any amount standing to the credit of the deceased member in the Fund that is not in any nominee account maintained for the deceased member —
 
 (a) in any case where that amount is transferred to the general moneys of the Fund on or before the 7th anniversary of the day of the member’s death, after the 7th anniversary of the day of the member’s death;
 
@@ -732,6 +766,8 @@ CONTRIBUTIONS TO FUND
 
 (ii) the date on which the Board is notified, in such manner as may be prescribed in any regulations made under section 77(1), of the member’s death.
 
+[Act 20 of 2011 wef 06/02/2012]
+
 (4E) Subject to subsections (4C) and (4D), the Board may suspend the payment of interest on any amount standing to the credit of a member in the Fund after that amount is transferred to the general moneys of the Fund.
 
 (4F) Where any shares belonging to a deceased member that are vested in the Board under section 26(1) or 26A(1) are sold by the Board, the Board shall not pay any interest on any proceeds of the sale of those shares that are paid into the general moneys of the Fund under section 26(4D) or 26A(9), as the case may be, notwithstanding that those proceeds constitute an amount standing to the credit of the deceased member in the Fund.
@@ -740,7 +776,9 @@ CONTRIBUTIONS TO FUND
 
 (4H) Where any shares belonging to a member are vested in the Board under section 26B(1), the Board shall suspend the payment of interest on any dividends, returned paid-up share capital or other moneys in respect of those shares that are paid into the general moneys of the Fund under section 26B(5), notwithstanding that the dividends, capital or other moneys constitute amounts standing to the credit of the member in the Fund.
 
-(4I) Where the Board has paid any dividends, returned paid-up share capital or other moneys in respect of any shares belonging to a deceased member into the general moneys of the Fund under section 26D(1), the Board shall not pay any interest on the dividends, capital or other moneys notwithstanding that the dividends, capital or other moneys constitute amounts standing to the credit of the deceased member in the Fund.
+(4I) Where the Board has paid any dividends, returned paid-up share capital, proceeds of sale or other moneys in respect of any shares belonging to a deceased member into the general moneys of the Fund under section 26D(1), the Board shall not pay any interest on the dividends, capital, proceeds or other moneys notwithstanding that the dividends, capital, proceeds or other moneys constitute amounts standing to the credit of the deceased member in the Fund.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (5) If the Board is at any time unable to pay any sum which the Fund is required to pay under this Act, the sum required to be so paid shall be charged on and advanced to the Board from the Consolidated Fund and the Board shall as soon as practicable repay to the Government the sum so advanced.
 
@@ -928,17 +966,21 @@ CONTRIBUTIONS TO FUND
 
 [27/92]
 
-(7A) The Board may transfer to a member’s ordinary account, in accordance with any regulations made under section 77(1), any amount standing to his credit in the Fund, if —
+(7A) The Board may transfer to a member’s ordinary account, in accordance with any regulations made under section 77(1) —
 
-(a) the member’s accounts in the Fund are deemed to be dormant, and such period (as may be prescribed in those regulations) after the day the member’s accounts in the Fund are deemed to be dormant has passed; or
+(a) if the member’s accounts in the Fund are deemed to be dormant, and such period (as may be prescribed in those regulations) after the day his accounts in the Fund are deemed to be dormant has passed, any amount standing to his credit in the Fund; or
 
-(b) the member has died, and such period (as may be prescribed in those regulations) after the day of his death has passed.
+(b) if the member has died, and such period (as may be prescribed in those regulations) after the day of his death has passed, any amount standing to his credit in the Fund that is not in any nominee account maintained for him.
 
-(7B) The Board may transfer to the general moneys of the Fund, in accordance with any regulations made under section 77(1), any amount standing to a member’s credit in the Fund, if —
+[Act 20 of 2011 wef 06/02/2012]
 
-(a) the member’s accounts in the Fund are deemed to be dormant, and the 7th anniversary of the day the member’s accounts in the Fund are deemed to be dormant has passed; or
+(7B) The Board may transfer to the general moneys of the Fund, in accordance with any regulations made under section 77(1) —
 
-(b) the member has died, and the 7th anniversary of the day of his death has passed.
+(a) if a member’s accounts in the Fund are deemed to be dormant, and the 7th anniversary of the day his accounts in the Fund are deemed to be dormant has passed, any amount standing to his credit in the Fund; or
+
+(b) if a member has died, and the 7th anniversary of the day of his death has passed, any amount standing to his credit in the Fund that is not in any nominee account maintained for him.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (7C) Where the Board has transferred any amount standing to a member’s credit in the Fund to his ordinary account under subsection (7A)(a) or to the general moneys of the Fund under subsection (7B)(a) or any regulations made under section 77(1) —
 
@@ -1154,13 +1196,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(5) Subject to section 25(3), after the death of a member of the Fund, a person who is nominated by that member, by a memorandum executed in accordance with section 25(1), shall be entitled to withdraw, in the manner provided for in the memorandum, from the balance standing to the credit of that member in the Fund, such portion, as the person has been nominated to receive under the memorandum, of that balance after deducting the following amounts:
+(5) Subject to section 25(3), after the death of a member of the Fund, a person who is nominated by the deceased member, by a memorandum executed in accordance with section 25(1), shall be entitled to withdraw, in the manner provided for in the memorandum, from the balance standing to the credit of the deceased member in the Fund, such portion of the amount payable on the deceased member’s death out of the Fund as the person has been nominated to receive under the memorandum.
 
-(a) any sum withdrawn, or to be withdrawn, under section 16A;
-
-(b) any sum credited, or to be credited, to the account of another person under section 19(2) or 19A(2); and
-
-(c) any sum transferred or paid, or to be transferred or paid, to another person under section 27B.
+[Act 20 of 2011 wef 06/02/2012]
 
 (6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
 
@@ -1748,23 +1786,113 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (b) where the member has died and the applicant is a person nominated by the member by a memorandum executed in accordance with section 25(1) —
 
-(i) if the memorandum provides for payment in accordance with section 25(1)(a)(i) (whether or not the person is a citizen or permanent resident of Singapore), or if the memorandum provides for payment in accordance with section 25(1)(a)(ii) but the person is not a citizen or permanent resident of Singapore, the Board may pay the person such portion of the sum as he is nominated to receive; or
+(i) if the memorandum provides for payment to the person in accordance with section 25(1)(a)(i) (whether or not the person is a citizen or permanent resident of Singapore), or if the memorandum provides for payment to the person in accordance with section 25(1)(a)(ii) but the person is not a citizen or permanent resident of Singapore, the Board may pay the person such portion of the amount payable on the member’s death out of the Fund as he is nominated to receive;
 
-(ii) if the memorandum provides for payment in accordance with section 25(1)(a)(ii), and the person is a citizen or permanent resident of Singapore, the Board may —
+[Act 20 of 2011 wef 06/02/2012]
 
-(A) subject to sub-paragraph (B), transfer to the person’s accounts in the Fund, in such manner as the member has specified in the memorandum, such portion of the sum as the person is nominated to receive; or
+(ii) if the memorandum provides for payment to the person in accordance with section 25(1)(a)(ii), and the person is a citizen or permanent resident of Singapore, the Board may —
 
-(B) if that portion exceeds such maximum amount as the Minister may determine for the purposes of section 25(1)(a)(ii)(B), transfer that maximum amount to the person’s accounts in the Fund in such manner as the member has specified in the memorandum, and pay the person the excess.
+(A) subject to sub-paragraph (B), transfer to the person’s accounts in the Fund, in such manner as the member has specified in the memorandum, such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(B) if that portion exceeds such maximum amount as the Minister may determine for the purposes of section 25(1)(a)(ii)(B), transfer that maximum amount to the person’s accounts in the Fund in such manner as the member has specified in the memorandum, and pay the person the excess; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(iii) if the memorandum provides for payment to the person in accordance with section 25(1)(a)(iii) (whether or not the member is a citizen or permanent resident of Singapore at the time of his death, whether or not the person is a citizen or permanent resident of Singapore, and whether or not the certification under section 25(1C) issued in respect of the person remains in force), the Board may —
+
+(A) subject to sub-paragraph (C) and if the memorandum so provides, pay the person such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive in periodic instalments in such manner as the Board may determine;
+
+(B) subject to sub-paragraph (C) and if the memorandum so provides, transfer such part of that portion as the Board may determine to the person’s medisave account in periodic instalments in such manner as the Board may determine, and pay the remainder of that portion to the person in periodic instalments in such manner as the Board may determine; or
+
+(C) if any of the circumstances specified in subsection (1B) applies —
+
+(CA)
+
+pay that portion to the person;
+
+(CB)
+
+pay such part of that portion as the Board may determine in accordance with sub-paragraph (A) or (B), and pay the remainder of that portion to the person; or
+
+(CC)
+
+transfer such part of that portion as the Board may determine to the person’s medisave account in periodic instalments in such manner as the Board may determine (if the memorandum so provides), and pay the remainder of that portion to the person.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (1A) Subject to section 25(3) and such conditions as the Minister may impose, where the Board has been notified, in such manner as may be prescribed in any regulations made under section 77(1), of the death of a member of the Fund who has executed a memorandum in accordance with section 25(1), the Board may, without any application for the withdrawal of a sum of money standing to the credit of that member by a person nominated by that member by the memorandum —
 
-(a) if the memorandum provides for payment in accordance with section 25(1)(a)(i), and the person is a citizen or permanent resident of Singapore, pay the person such portion of the sum as he is nominated to receive; or
+(a) if the memorandum provides for payment to the person in accordance with section 25(1)(a)(i), and the person is a citizen or permanent resident of Singapore, pay the person such portion of the amount payable on the member’s death out of the Fund as he is nominated to receive;
 
-(b) if the memorandum provides for payment in accordance with section 25(1)(a)(ii), and the person is a citizen or permanent resident of Singapore —
+[Act 20 of 2011 wef 06/02/2012]
 
-(i) subject to sub-paragraph (ii), transfer to the person’s accounts in the Fund, in such manner as the member has specified in the memorandum, such portion of the sum as the person is nominated to receive; or
+(b) if the memorandum provides for payment to the person in accordance with section 25(1)(a)(ii), and the person is a citizen or permanent resident of Singapore —
 
-(ii) if that portion exceeds such maximum amount as the Minister may determine for the purposes of section 25(1)(a)(ii)(B), transfer that maximum amount to the person’s accounts in the Fund in such manner as the member has specified in the memorandum, and pay the person the excess.
+(i) subject to sub-paragraph (ii), transfer to the person’s accounts in the Fund, in such manner as the member has specified in the memorandum, such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(ii) if that portion exceeds such maximum amount as the Minister may determine for the purposes of section 25(1)(a)(ii)(B), transfer that maximum amount to the person’s accounts in the Fund in such manner as the member has specified in the memorandum, and pay the person the excess; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(c) if the memorandum provides for payment to the person in accordance with section 25(1)(a)(iii) (whether or not the member is a citizen or permanent resident of Singapore at the time of his death, and whether or not the certification under section 25(1C) issued in respect of the person remains in force), and the person is a citizen or permanent resident of Singapore —
+
+(i) subject to sub-paragraph (iii) and if the memorandum so provides, pay the person such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive in periodic instalments in such manner as the Board may determine;
+
+(ii) subject to sub-paragraph (iii) and if the memorandum so provides, transfer such part of that portion as the Board may determine to the person’s medisave account in periodic instalments in such manner as the Board may determine, and pay the remainder of that portion to the person in periodic instalments in such manner as the Board may determine; or
+
+(iii) if any of the circumstances specified in subsection (1B) applies —
+
+(A) pay that portion to the person;
+
+(B) pay such part of that portion as the Board may determine in accordance with sub-paragraph (i) or (ii), and pay the remainder of that portion to the person; or
+
+(C) transfer such part of that portion as the Board may determine to the person’s medisave account in periodic instalments in such manner as the Board may determine (if the memorandum so provides), and pay the remainder of that portion to the person.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1B) For the purposes of subsections (1)(b)(iii)(C) and (1A)(c)(iii), the circumstances are as follows:
+
+(a) such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive does not exceed such amount as the Minister may determine under section 25(1)(a)(iii)(C);
+
+(b) the person has withdrawn, or the Board (on the person’s application) has given its authority under section 15(1) for the withdrawal of, the sum standing to the credit of the person in the Fund under section 15(2)(b) or (c);
+
+(c) the person has applied to the Board to withdraw such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive, and the Board is satisfied that the person —
+
+(i) not being a citizen of Singapore, has left or is about to leave Singapore and the States of Malaya permanently with no intention to return thereto; or
+
+(ii) being a citizen of Malaysia, has left or is about to leave Singapore permanently for the States of Malaya in such circumstances as the Minister may approve; or
+
+(d) the person has applied to the Minister charged with the responsibility for social services to withdraw such portion of the amount payable on the member’s death out of the Fund as the person is nominated to receive, and that Minister has granted the person’s application.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1C) The Minister charged with the responsibility for social services may in writing delegate to any person or group of persons appointed by that Minister all or any of his functions and powers under subsection (1B)(d).
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1D) Where a member of the Fund has executed a memorandum under section 25(1) nominating any person to receive the person’s portion of the amount payable on the member’s death out of the Fund in accordance with section 25(1)(a)(iii), and the Board has been notified, in such manner as may be prescribed in any regulations made under section 77(1), of the death of the member, the Board may, in accordance with any regulations made under section 77(1) —
+
+(a) maintain for the member —
+
+(i) a nominee ordinary account;
+
+(ii) a nominee medisave account;
+
+(iii) a nominee special account; and
+
+(iv) a nominee retirement account, if the member had a retirement account at the time of his death;
+
+(b) transfer the person’s portion of the amount payable on the member’s death out of the Fund from the member’s ordinary account, medisave account, special account and retirement account (if any) to the nominee accounts maintained for the member; and
+
+(c) pay the person, or transfer to the person’s medisave account, any periodic instalment or the person’s portion of the amount payable on the member’s death out of the Fund, in accordance with the applicable sub-paragraph of subsection (1)(b)(iii) or (1A)(c), from the person’s share of the amount standing to the credit of the member that is in the nominee accounts maintained for the member.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (2) When any contributions are due to be paid for a member of the Fund in respect of any period ending not later than the last day of the month next following the date on which the withdrawal of the sum of money standing to his credit in the Fund is authorised and the contributions are not paid to the Fund until after the date of authorisation, those contributions may in the discretion of the Board be treated as if they had been included in the amount standing to the credit of the member at the date of authorisation of withdrawal and dealt with in accordance with subsection (1) or (1A), as the case may be.
 
@@ -2202,21 +2330,89 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 25\.—(1) Subject to such conditions as may be prescribed by the Board, any member of the Fund may, by a memorandum executed in such manner as may be prescribed by the Board, nominate any person to receive in his own right —
 
-(a) such portion of the amount payable on the member’s death out of the Fund under section 20(1)(b) or (1A) —
+(a) such portion of the amount payable on the member’s death out of the Fund as the memorandum shall indicate —
 
-(i) by the payment of that portion to that person; or
+(i) by the payment of that portion to that person;
 
-(ii) if that person is a citizen or permanent resident of Singapore at the time the Board is satisfied that the memorandum is duly executed —
+(ii) if, at the time the Board is satisfied that the memorandum is duly executed, that person is a citizen or permanent resident of Singapore —
 
 (A) subject to sub-paragraph (B), by the transfer of that portion to that person’s accounts in the Fund in such manner as the member may specify in the memorandum; or
 
 (B) if that portion exceeds such maximum amount as the Minister may determine, by the transfer of that maximum amount to that person’s accounts in the Fund in such manner as the member may specify in the memorandum, and by the payment of the excess to that person; or
 
+(iii) if, at the time the Board is satisfied that the memorandum is duly executed, each of the member and that person is a citizen or permanent resident of Singapore, and a certification under subsection (1C) has been issued in respect of that person and remains in force —
+
+(A) subject to sub-paragraph (C), by the payment of that portion to that person in periodic instalments in such manner as the Board may determine;
+
+(B) subject to sub-paragraph (C), by the transfer of such part of that portion as the Board may determine to that person’s medisave account in periodic instalments in such manner as the Board may determine, and by the payment of the remainder of that portion to that person in periodic instalments in such manner as the Board may determine; or
+
+(C) if that portion does not exceed such amount as the Minister may determine —
+
+(CA)
+
+by the payment of that portion to that person;
+
+(CB)
+
+by the payment of such part of that portion as the Board may determine in accordance with sub-paragraph (A) or (B), and by the payment of the remainder of that portion to that person; or
+
+(CC)
+
+by the transfer of such part of that portion as the Board may determine to that person’s medisave account in periodic instalments in such manner as the Board may determine, and by the payment of the remainder of that portion to that person; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
 (b) such portion of any shares designated under section 26(1) as the memorandum shall indicate.
 
 (1A) For the avoidance of doubt, a member of the Fund may nominate one or more persons by a memorandum under subsection (1).
 
-(1B) For the purposes of subsection (1)(a)(ii)(B), the Minister may determine different maximum amounts for different classes of persons nominated under subsection (1).
+(1B) The Minister may, for different classes of persons nominated under subsection (1), determine —
+
+(a) different maximum amounts for the purposes of subsection (1)(a)(ii)(B); and
+
+(b) different amounts for the purposes of subsection (1)(a)(iii)(C).
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1C) The Minister charged with the responsibility for social services may, on an application by a member who wishes to execute a memorandum under subsection (1) nominating a person to receive the person’s portion of the amount payable on the member’s death out of the Fund in accordance with subsection (1)(a)(iii), issue a certification in writing stating that the person is eligible to receive that portion in that manner, if —
+
+(a) the person and the member are related —
+
+(i) in such manner as may be prescribed by any regulations made under section 77(1); or
+
+(ii) in such other manner as that Minister may determine; and
+
+(b) the person satisfies such other requirements as that Minister may impose.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1D) The Minister charged with the responsibility for social services may, in any particular case, waive any requirement imposed under subsection (1C)(b).
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1E) If the Minister charged with the responsibility for social services decides not to issue a certification under subsection (1C), any member or person referred to in that subsection who is aggrieved by that decision may, within such period as may be prescribed in any regulations made under section 77(1), apply to that Minister to reconsider the matter.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1F) The Minister charged with the responsibility for social services may determine an application under subsection (1E) —
+
+(a) by issuing a certification under subsection (1C); or
+
+(b) by confirming the earlier decision not to issue that certification.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1G) Any decision of the Minister charged with the responsibility for social services under subsection (1F) shall be final.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(1H) The Minister charged with the responsibility for social services may —
+
+(a) in writing delegate to any person or group of persons appointed by that Minister all or any of his functions and powers under subsections (1C) to (1F); and
+
+(b) under paragraph (a), delegate different functions and powers to different persons or groups of persons
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (2) Subject to subsection (2A), where, at the time of the death of a member of the Fund, no person has been nominated by him under subsection (1), the total amount payable on his death out of the Fund shall be paid to the Public Trustee for disposal in accordance with —
 
@@ -2238,7 +2434,17 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (ii) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member is a Muslim at the time of his death.
 
-(3) Notwithstanding sections 15(5) and 20(1) and (1A), if any person nominated under subsection (1) (not being a widow of the deceased member) is below the age of 18 years at the time of payment of the amount payable out of the Fund, any portion of that amount which the nominated person would have received by payment to the nominated person shall similarly be paid to the Public Trustee for the benefit of the nominated person.
+(3) Notwithstanding sections 15(5) and 20(1) and (1A), any portion of the amount payable on a member’s death out of the Fund which a person nominated under subsection (1) would have received by payment to that person shall be paid to the Public Trustee for the benefit of that person —
+
+(a) in any case where that person is nominated to receive that portion in accordance with subsection (1)(a)(i) or (ii), if that person (not being a widow of the deceased member) is below the age of 18 years at the time of payment of that portion; or
+
+(b) in any case where that person is nominated to receive that portion in accordance with subsection (1)(a)(iii), if —
+
+(i) that person (not being a widow of the deceased member) is below the age of 18 years at the time of payment of that portion; and
+
+(ii) that portion does not exceed such amount as the Minister may determine under subsection (1)(a)(iii)(C).
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (4) The receipt of a person nominated under subsection (1) or of the Public Trustee shall be a discharge to the Board for the portion of the amount payable out of the Fund on the death of a member which is paid to the person or transferred to the person’s accounts in the Fund or which is paid to the Public Trustee under subsection (2) or (3), as the case may be.
 
@@ -2312,7 +2518,9 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (a) the Board may deduct a sum for the payment of the whole or any part of any fee or charge in connection with the sale of those shares from the proceeds of the sale of the shares; and
 
-(b) the Board shall deal with the proceeds of the sale of the shares (after making any deduction under paragraph (a)) in accordance with subsections (4A), (4B) and (4D).
+(b) the Board shall deal with the proceeds of the sale of the shares (after making any deduction under paragraph (a)) in accordance with subsections (4A), (4B), (4BA) and (4D).
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (4A) Where the memorandum executed by the deceased member under section 25(1) provides for payment in accordance with section 25(1)(a)(i) (whether or not the person nominated to receive the shares is a citizen or permanent resident of Singapore), or where the memorandum executed by the deceased member provides for payment in accordance with section 25(1)(a)(ii) but the person nominated to receive the shares is not a citizen or permanent resident of Singapore —
 
@@ -2322,15 +2530,29 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (ii) if the nominated person (not being a widow of the deceased member) is below the age of 18 years at the time of the payment, to the Public Trustee; or
 
-(iii) if the nominated person has died, and the proceeds of the sale of the shares do not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant; and
+(iii) where the nominated person has died —
+
+(A) to the personal representatives of the deceased nominated person; or
+
+(B) if to the best of the Board’s knowledge the deceased nominated person does not have any personal representatives, and if the proceeds of the sale of the shares do not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant; and
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (b) the following shall be a discharge to the Board in respect of the shares sold under subsection (3):
 
 (i) the receipt of the nominated person for the proceeds of the sale of the shares, if paragraph (a)(i) applies;
 
-(ii) the receipt of the Public Trustee for the proceeds of the sale of the shares, if paragraph (a)(ii) applies; or
+(ii) the receipt of the Public Trustee for the proceeds of the sale of the shares, if paragraph (a)(ii) applies;
 
-(iii) the receipt of the proper claimant for the proceeds of the sale of the shares, if paragraph (a)(iii) applies.
+[Act 20 of 2011 wef 06/02/2012]
+
+(iii) the receipt of the personal representatives of the deceased nominated person for the proceeds of the sale of the shares, if paragraph (a)(iii)(A) applies; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(iv) the receipt of the proper claimant for the proceeds of the sale of the shares, if paragraph (a)(iii)(B) applies.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (4B) Where the memorandum executed by the deceased member under section 25(1) provides for payment in accordance with section 25(1)(a)(ii), and the person nominated to receive the shares is a citizen or permanent resident of Singapore —
 
@@ -2344,17 +2566,69 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (B) if the nominated person (not being a widow of the deceased member) is below the age of 18 years at the time of the payment, to the Public Trustee; or
 
-(C) if the nominated person has died, and the excess does not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant; and
+(C) where the nominated person has died —
+
+(CA)
+
+to the personal representatives of the deceased nominated person; or
+
+(CB)
+
+if to the best of the Board’s knowledge the deceased nominated person does not have any personal representatives, and if the excess does not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant; and
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (b) the following shall be a discharge to the Board in respect of the shares sold under subsection (3):
 
 (i) the receipt of the nominated person for the proceeds of the sale of the shares, if paragraph (a)(i) or (ii)(A) applies;
 
-(ii) the payment of the amount referred to in paragraph (a)(ii) to the nominated person’s account and the receipt of the Public Trustee for the balance of the proceeds of the sale of the shares referred to in paragraph (a)(ii), if paragraph (a)(ii)(B) applies; or
+(ii) the payment of the amount referred to in paragraph (a)(ii) to the nominated person’s account and the receipt of the Public Trustee for the balance of the proceeds of the sale of the shares referred to in paragraph (a)(ii), if paragraph (a)(ii)(B) applies;
 
-(iii) the payment of the amount referred to in paragraph (a)(ii) to the nominated person’s account and the receipt of the proper claimant for the balance of the proceeds of the sale of the shares referred to in paragraph (a)(ii), if paragraph (a)(ii)(C) applies.
+[Act 20 of 2011 wef 06/02/2012]
 
-(4C) Subsections (4A) and (4B) shall not affect any recourse which any person may have against a proper claimant for any amount paid to the proper claimant under subsections (4A)(a)(iii) and (4B)(a)(ii)(C), respectively.
+(iii) the payment of the amount referred to in paragraph (a)(ii) to the nominated person’s account and the receipt of the personal representatives of the deceased nominated person for the balance of the proceeds of the sale of the shares referred to in paragraph (a)(ii), if paragraph (a)(ii)(C)(CA) applies; or
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(iv) the payment of the amount referred to in paragraph (a)(ii) to the nominated person’s account and the receipt of the proper claimant for the balance of the proceeds of the sale of the shares referred to in paragraph (a)(ii), if paragraph (a)(ii)(C)(CB) applies.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(4BA) Where the memorandum executed by the deceased member under section 25(1) provides for payment in accordance with section 25(1)(a)(iii) (whether or not the deceased member is a citizen or permanent resident of Singapore at the time of his death, whether or not the person nominated to receive the shares is a citizen or permanent resident of Singapore, and whether or not the certification under section 25(1C) issued in respect of the person remains in force) —
+
+(a) the Board shall, as soon as practicable, pay to the member’s nominee ordinary account the proceeds of the sale of the shares (after making any deduction under subsection (4)(a));
+
+(b) the Board shall pay the amount of those proceeds from the member’s nominee ordinary account —
+
+(i) subject to sub-paragraphs (ii) and (iii), to the nominated person in accordance with the sub-paragraph of section 20(1)(b)(iii) or (1A)(c) that applies to the nominated person;
+
+(ii) to the Public Trustee, if —
+
+(A) the nominated person (not being a widow of the deceased member) is below the age of 18 years at the time of the payment; and
+
+(B) such portion of the amount payable on the member’s death out of the Fund to the nominated person as the memorandum shall indicate does not exceed such amount as the Minister may determine under section 25(1)(a)(iii)(C); or
+
+(iii) where the nominated person has died —
+
+(A) to the personal representatives of the deceased nominated person; or
+
+(B) if to the best of the Board’s knowledge the deceased nominated person does not have any personal representatives, and if the proceeds of the sale of the shares do not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant; and
+
+(c) the following shall be a discharge to the Board in respect of the shares sold under subsection (3):
+
+(i) the receipt of the nominated person for the amount of those proceeds, if paragraph (b)(i) applies;
+
+(ii) the receipt of the Public Trustee for the amount of those proceeds, if paragraph (b)(ii) applies;
+
+(iii) the receipt of the personal representatives of the deceased nominated person for the proceeds of the sale of the shares, if paragraph (b)(iii)(A) applies; or
+
+(iv) the receipt of the proper claimant for the proceeds of the sale of the shares, if paragraph (b)(iii)(B) applies.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(4C) Subsections (4A), (4B) and (4BA) shall not affect any recourse which any person may have against a proper claimant for any amount paid to the proper claimant under subsections (4A)(a)(iii) (4A)(a)(iii)(B), (4B)(a)(ii)(C)(CB) and (4BA)(b)(iii)(B), respectively.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (4D) Where the Board is for any reason unable to deal with the proceeds of the sale of the shares (after making any deduction under subsection (4)(a)) in accordance with subsection (4A) or (4B), the Board shall pay those proceeds into the general moneys of the Fund.
 
@@ -2466,17 +2740,25 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 ### Payment of dividends, etc., in respect of certain shares before Board is notified of death of member
 
-26C\.—(1) Where the Board has received, after the death of a member any dividends, returned paid-up share capital or other moneys in respect of any shares belonging to the member (being such shares or class of shares in any approved corporation as the Minister may designate), the Board shall, notwithstanding any written or other law, be entitled to pay the dividends, capital or other moneys into the ordinary account of the member until such time as the Board is notified, in such manner as may be prescribed by any regulations made under section 77(1), of the death of the member.
+26C\.—(1) Where the Board has received, after the death of a member any dividends, returned paid-up share capital, proceeds of sale or other moneys in respect of any shares belonging to the member (being such shares or class of shares in any approved corporation as the Minister may designate), the Board shall, notwithstanding any written or other law, be entitled to pay the dividends, capital, proceeds or other moneys into the ordinary account of the member until such time as the Board is notified, in such manner as may be prescribed by any regulations made under section 77(1), of the death of the member.
 
-(2) Any such dividends, returned paid-up share capital or other moneys paid into the ordinary account of the member under subsection (1) shall be dealt with in accordance with sections 20(1)(b) and (1A) and 25.
+[Act 20 of 2011 wef 06/02/2012]
 
-(3) This section shall apply to all such dividends, returned paid-up share capital or other moneys whenever paid by the Board into the ordinary account of the member after his death.
+(2) Any such dividends, returned paid-up share capital, proceeds of sale or other moneys paid into the ordinary account of the member under subsection (1) shall be dealt with in accordance with sections 20(1)(b) and (1A) and 25.
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(3) This section shall apply to all such dividends, returned paid-up share capital, proceeds of sale or other moneys whenever paid by the Board into the ordinary account of the member after his death.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 ### Payment of dividends, etc., in respect of certain shares after Board is notified of death of member
 
-26D\.—(1) Where the Board has received any dividends, returned paid-up share capital or other moneys in respect of any shares belonging to a deceased member (being such shares or class of shares in any approved corporation as the Minister may designate) after the Board has been notified, in such manner as may be prescribed by any regulations made under section 77(1) for the purposes of section 26C(1), of the death of the member, the Board shall, notwithstanding any written or other law, be entitled to pay the dividends, capital or other moneys into the general moneys of the Fund.
+26D\.—(1) Where the Board has received any dividends, returned paid-up share capital, proceeds of sale or other moneys in respect of any shares belonging to a deceased member (being such shares or class of shares in any approved corporation as the Minister may designate) after the Board has been notified, in such manner as may be prescribed by any regulations made under section 77(1) for the purposes of section 26C(1), of the death of the member, the Board shall, notwithstanding any written or other law, be entitled to pay the dividends, capital, proceeds or other moneys into the general moneys of the Fund.
 
-(2) Where any such dividends, returned paid-up share capital or other moneys have been paid into the general moneys of the Fund under subsection (1), the Board shall, as soon as practicable and after such application as the Board may require has been made to the Board, pay out the dividends, capital or other moneys from the general moneys of the Fund —
+[Act 20 of 2011 wef 06/02/2012]
+
+(2) Where any such dividends, returned paid-up share capital, proceeds of sale or other moneys have been paid into the general moneys of the Fund under subsection (1), the Board shall, as soon as practicable and after such application as the Board may require has been made to the Board, pay out the dividends, capital, proceeds or other moneys from the general moneys of the Fund —
 
 (a) in any case where the member has executed a memorandum under section 25(1) and dies on or after 1st January 1996, in accordance with sections 20(1)(b) and (1A) and 25; or
 
@@ -2484,11 +2766,17 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (i) to the personal representatives of the deceased member; or
 
-(ii) if to the best of the Board’s knowledge the deceased member does not have any personal representatives, and if the dividends, capital or other moneys do not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant.
+(ii) if to the best of the Board’s knowledge the deceased member does not have any personal representatives, and if the dividends, capital, proceeds or other moneys do not exceed such amount as the Minister may, by notification in theGazette, specify, to a proper claimant.
 
-(3) The receipt of the personal representatives of the deceased member shall be a discharge to the Board for the dividends, returned paid-up share capital or other moneys that are paid to the personal representatives under subsection (2)(b)(i).
+[Act 20 of 2011 wef 06/02/2012]
 
-(4) The receipt of the proper claimant shall be a discharge to the Board for the dividends, returned paid-up share capital or other moneys that are paid to the proper claimant under subsection (2)(b)(ii).
+(3) The receipt of the personal representatives of the deceased member shall be a discharge to the Board for the dividends, returned paid-up share capital, proceeds of sale or other moneys that are paid to the personal representatives under subsection (2)(b)(i).
+
+[Act 20 of 2011 wef 06/02/2012]
+
+(4) The receipt of the proper claimant shall be a discharge to the Board for the dividends, returned paid-up share capital, proceeds of sale or other moneys that are paid to the proper claimant under subsection (2)(b)(ii).
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (5) In this section —
 
@@ -2498,9 +2786,13 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 “proper claimant” means a person who —
 
-(a) claims to be entitled to the dividends, returned paid-up share capital or other moneys paid into the general moneys of the Fund under subsection (1) as executor of the deceased member; or
+(a) claims to be entitled to the dividends, returned paid-up share capital, proceeds of sale or other moneys paid into the general moneys of the Fund under subsection (1) as executor of the deceased member; or
 
-(b) claims to be entitled to the dividends, returned paid-up share capital or other moneys paid into the general moneys of the Fund under subsection (1) (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased member.
+[Act 20 of 2011 wef 06/02/2012]
+
+(b) claims to be entitled to the dividends, returned paid-up share capital, proceeds of sale or other moneys paid into the general moneys of the Fund under subsection (1) (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased member.
+
+[Act 20 of 2011 wef 06/02/2012]
 
 ### Withdrawals by undischarged bankrupts
 
@@ -3030,7 +3322,7 @@ then, subject to subsection (2) and any regulations made under section 77(1), th
 
 ### Order of court for sale of investments
 
-27H\. Where —
+27H\.—(1) Where —
 
 (a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
 
@@ -4472,7 +4764,9 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
 
-(m) [ [Deleted by Act 31/2003 wef 01/07/2004 wef 01/07/2004 wef 01/07/2004 wef 01/07/2004 wef 01/07/2004]]
+(m) for the purposes of sections 20(1)(b)(iii), (1A)(c), (1B), (1C) and (1D) and 25(1)(a)(iii), (1B)(b) and (1C) to (1H) and, in particular, to provide for the determination of the amount of any periodic instalment referred to in section 20(1)(b)(iii) or (1A)(c) or 25(1)(a)(iii);
+
+[Act 20 of 2011 wef 06/02/2012]
 
 (n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of making such investments as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
@@ -8036,6 +8330,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|17 October 2011 (Bill No. 17/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|21 November 2011|
 ||Date of commencement|30 December 2011 (sections 2(b), 5, 6(a) and (c) to (j), 7 to 10, 16 to 24 and 25(b))|
+|180.|**Act 20 of 2011—Central Provident Fund (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011 (Bill No. 17/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|21 November 2011|
+||Date of commencement|6 February 2012 (sections 2(a) and (c), 3, 4, 6(b), 11 to 15 and 25(a))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
