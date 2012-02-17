@@ -1192,7 +1192,7 @@ B
 
 is the amount paid for such shares;
 
-(e) [Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 29/12/2009]
+(e) [Deleted by Act 27/2009 wef 29/12/2009]
 
 (f) “shares” includes stocks.
 
@@ -3896,7 +3896,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 “approved” means approved by the Minister, or such person as he may appoint, subject to such conditions as he may impose;
 
-“foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);
+[“foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);]
 
 “international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships ;
 
@@ -3922,13 +3922,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 [29/2010 wef 22/02/2010]
 
-“ship management services” has the same meaning as in section 13A(16);
-
-[Act 29 of 2012 wef 01/06/2011]
-
-“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is undertaking any operation referred to in subsection (1)(a), (b), (c) and (f), or any operation of a Singapore ship as defined in section 13A(16).
-
-[Act 29 of 2012 wef 01/06/2011]
+“ship management services” has the same meaning as in section 13A(16).
 
 [This section is amended by section 11 of the Income Tax (Amendment) Act 2016 (Act 2 of 2016) wef 23/02/2010]
 
@@ -20817,6 +20811,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012 (Sections 6(a), (c), (d), 32(b))|
+|283.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|17 February 2012 (Sections 3(b), (c), (d), (e), 33(c), (f), (g), (k) to (h), (q), (r), (s), (u), (v), 42, 44)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
