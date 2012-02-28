@@ -3896,7 +3896,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 “approved” means approved by the Minister, or such person as he may appoint, subject to such conditions as he may impose;
 
-[“foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);]
+“foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);
 
 “international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships ;
 
@@ -3922,7 +3922,13 @@ to be approved as an approved international shipping enterprise, and the company
 
 [29/2010 wef 22/02/2010]
 
-“ship management services” has the same meaning as in section 13A(16).
+“ship management services” has the same meaning as in section 13A(16);
+
+[Act 29 of 2012 wef 01/06/2011]
+
+“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is undertaking any operation referred to in subsection (1)(a), (b), (c) and (f), or any operation of a Singapore ship as defined in section 13A(16).
+
+[Act 29 of 2012 wef 01/06/2011]
 
 [This section is amended by section 11 of the Income Tax (Amendment) Act 2016 (Act 2 of 2016) wef 23/02/2010]
 
@@ -9562,7 +9568,7 @@ is the open-market price or sale, insurance, salvage or compensation moneys in r
 
 B
 
-B is the capital expenditure incurred in respect of the motor car.
+is the capital expenditure incurred in respect of the motor car.
 
 [37/75; 9/80; 5/83; 49/2004]
 
@@ -17506,7 +17512,9 @@ APPEALS
 
 [22/2011 wef 20/12/2011]
 
-(3) The procedure governing such appeals to the High Court shall be the same as for appeals to the High Court from decisions of District Courts in civil matters.
+(3) The procedure governing and the costs of any such appeal to the High Court shall be as provided for in the Rules of Court.
+
+[2/2011 wef 01/03/2012]
 
 (4) The High Court shall hear and determine any such appeal and may confirm, reduce, increase or annul the assessment (including the amount of any unabsorbed losses, allowances or donations that may be carried forward) determined by the Board and make such further or other order on such appeal, whether as to costs or otherwise, as the Court may think fit.
 
@@ -17514,7 +17522,7 @@ APPEALS
 
 (5) There shall be such further right of appeal from decisions of the High Court under this section as exists in the case of decisions made by that Court in the exercise of its original civil jurisdiction.
 
-(6) The Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322) may make rules regulating all matters relating to the costs of proceedings in appeals to the High Court or to the Court of Appeal under this section.
+(6) [Deleted by Act 2 of 2012 wef 01/03/2012]
 
 (7) In this section, “notional tax benefit”, in relation to a year of assessment, means an amount ascertained in accordance with the formula
 
@@ -20816,6 +20824,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|17 February 2012 (Sections 3(b), (c), (d), (e), 33(c), (f), (g), (k) to (h), (q), (r), (s), (u), (v), 42, 44)|
+|284.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|28 February 2012 (Sections 38, 39)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
