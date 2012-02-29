@@ -344,17 +344,27 @@
 
 - [97Z Savings provision](#Savings-provision)
 
-[**Part XIIID INTEGRATED INDUSTRIAL CAPITAL ALLOWANCES**](#Part-XIIID)
+[**INTEGRATED INVESTMENT ALLOWANCE**](#INTEGRATED-INVESTMENT-ALLOWANCE)
 
 - [97ZA Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [97ZB Integrated industrial capital allowance](#Integrated-industrial-capital-allowance)
+- [97ZB Application for approval of project](#Application-for-approval-of-project)
 
-- [97ZC Deduction of integrated industrial capital allowance](#Deduction-of-integrated-industrial-capital-allowance)
+- [97ZC Grant of IIA](#Grant-of-IIA)
 
-- [97ZD Prohibition to sell, lease out or dispose of productive equipment](#Prohibition-to-sell-lease-out-or-dispose-of-productive-equipment)
+- [97ZD Crediting of IIA](#Crediting-of-IIA)
 
-- [97ZE Recovery of tax](#Recovery-of-tax)
+- [97ZE Exemption from income tax: general](#Exemption-from-income-tax:-general)
+
+- [97ZF Exemption from income tax where company derives normal income or mixed income before a date, and concessionary income from that date](#Exemption-from-income-tax-where-company-derives-normal-income-or-mixed-income-before-a-date-and-concessionary-income-from-that-date)
+
+- [97ZG Exemption from income tax where company derives concessionary income or mixed income before a date, and normal income from that date](#Exemption-from-income-tax-where-company-derives-concessionary-income-or-mixed-income-before-a-date-and-normal-income-from-that-date)
+
+- [97ZH Prohibition against selling, leasing out or disposing of qualifying equipment](#Prohibition-against-selling-leasing-out-or-disposing-of-qualifying-equipment)
+
+- [97ZI Recovery of tax](#Recovery-of-tax)
+
+- [97ZJ Application of Parts XVII and XVIII of Income Tax Act](#Application-of-Parts-XVII-and-XVIII-of-Income-Tax-Act)
 
 [**Part XIIIE (Repealed)**](#Part-XIIIE)
 
@@ -435,6 +445,10 @@ PRELIMINARY
 “approved foreign loan” means a loan which is certified under section 57 to be an approved foreign loan;
 
 “approved royalties, fees or contributions” means royalties, technical assistance fees or contributions to research and development costs which have been certified under section 61 to be approved royalties, fees or contributions;
+
+“certificate” includes a letter or other document issued by the Minister to a company pursuant to an application made by the company under a provision of this Act;
+
+[Act 1 of 2012 wef 29/02/2012]
 
 “company” means any company incorporated or registered in accordance with the provisions of any written law relating to companies;
 
@@ -708,7 +722,9 @@ PIONEER SERVICE COMPANIES
 
 ### Tax relief period of pioneer service company
 
-18\. The tax relief period of a pioneer service company, in relation to any qualifying activity specified in any certificate issued to that company under section 17, shall commence on the commencement day and shall continue for a period of 5 years or such longer period, not exceeding 15 years, as the Minister may determine.
+18\. The tax relief period of a pioneer service company, in relation to any qualifying activity specified in any certificate issued to that company under section 17, shall commence on the commencement day and shall continue for such period, not exceeding 15 years, as the Minister may determine.
+
+[Act 1 of 2012 wef 29/02/2012]
 
 [34/84; 48/2004]
 
@@ -798,6 +814,32 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96; 44/2002]
 
+(5A) In the case of a development and expansion company that is approved as such on or after the date the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2011 is published in theGazetteor which has been granted on or after that date an extension of its tax relief period, the concessionary rate of tax applicable to its expansion income that is derived by it at any time on or after the date of its approval or during the extension period (as the case may be), and during any of the following parts of its tax relief period (if applicable):
+
+(a) the beginning of the 11th year of the tax relief period to the end of the 15th year of, or the end of, the tax relief period, whichever is earlier;
+
+(b) the beginning of the 16th year of the tax relief period to the end of the 20th year of, or the end of, the tax relief period, whichever is earlier;
+
+[Act 2 of 2013 wef 29/02/2012]
+
+(c) the beginning of the 21st year of the tax relief period to the end of the 30th year of, or the end of, the tax relief period, whichever is the earlier;
+
+[Act 2 of 2013 wef 29/02/2012]
+
+(d) the beginning of the 31st year of the tax relief period to the end of the 40th year of, or the end of, the tax relief period, whichever is the earlier,
+
+[Act 2 of 2013 wef 29/02/2012]
+
+shall be the rate specified by the Minister to the company, which shall not be less than
+
+(0.5 + A) % ,
+
+where A
+
+is the concessionary rate of tax applicable to the company’s expansion income that is derived by it immediately before the commencement of that part of the tax relief period.
+
+[Act 1 of 2012 wef 29/02/2012]
+
 (6) The expansion income shall be the income from such qualifying activities (referred to in this section and section 19M as qualifying income) to which the certificate issued under this section relates that exceeds the average corresponding income.
 
 [36/96; 11/2004]
@@ -806,9 +848,11 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96; 11/2004]
 
-(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K(1)(b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
+(8) Where a development and expansion company which has been approved as such at any time before the date the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2012 is published in theGazette, and has been granted a tax relief period of at least 10 years, is granted at any time before that date an extension or a further extension of its tax relief period under section 19K(1)(b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
 
 [48/2004]
+
+[Act 1 of 2012 wef 29/02/2012]
 
 (9) The average corresponding income for each extension or further extension referred to in subsection (8) shall be determined by taking one-third of the total of the corresponding qualifying income for the 3 years immediately preceding the date of that extension or further extension of its tax relief period, as the case may be.
 
@@ -836,23 +880,47 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [48/2004]
 
+(3A) Notwithstanding subsection (3) and subject to subsection (3B), the Minister may, if he is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose, extend the tax relief period of a relevant development and expansion company (beyond the maximum total period allowed under subsection (3)) for such further period or periods, not exceeding l0 years at any one time, as he may determine.
+
+[Act 2 of 2013 wef 18/02/2008]
+
+(3B) The total tax relief period of a relevant development and expansion company under subsections (1), (2) and (3A) shall not in the aggregate exceed 40 years.
+
+[Act 2 of 2013 wef 18/02/2008]
+
+(3C) An extension of the tax relief period of a relevant development and expansion company under subsection (3A) shall only be granted during the period between 18th February 2008 and 17th February 2018 (both dates inclusive).
+
+[Act 2 of 2013 wef 18/02/2008]
+
+(3D) In subsections (3A), (3B) and (3C), “relevant development and expansion company” means a development and expansion company which engages in one or more qualifying activities, and oversees, manages or controls the conduct of any activity on a regional or global basis.
+
+[Act 2 of 2013 wef 18/02/2008]
+
 (4) Any tax relief period initially granted to a development and expansion company before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 which exceeds 10 years shall be deemed to have been granted under this section.
 
 [48/2004]
 
-(5) Where a development and expansion company has been granted tax relief under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in respect of any qualifying activity specified in the certificate issued under section 19J(2), the Minister shall, in extending the tax relief period of the company under subsections (1) and (2), take into account the tax relief period of the company under that Part.
+(5) Where a development and expansion company has been granted tax relief under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 in respect of any qualifying activity specified in the certificate issued under section 19J(2), the Minister shall, in extending the tax relief period of the company under subsection (1), (2) or (3A), take into account the tax relief period of the company under that Part.
 
 [36/96; 11/2004; 48/2004]
 
+[Act 2 of 2013 wef 18/02/2008]
+
 (6) The Minister shall, in extending the tax relief period of a company to which section 19KA applies, take into account its tax relief period referred to in that section.
 
-[1/2012 wef 01/04/2010]
+[Act 1 of 2012 wef 01/04/2010]
+
+(7) Notwithstanding anything in this section, the tax relief period of a development and expansion company that is deemed to be an approved company for the purposes of section 43ZF of the Income Tax Act (Cap. 134) under regulations made under that section, shall expire on 1st June 2011 and shall not be extended.
+
+[Act 2 of 2013 wef 01/06/2011]
 
 ### International legal services
 
 19KA\.—(1) If a company engaged in international legal services is approved under section 19J(1) as a development and expansion company at any time between 1st April 2010 and 31st March 2015 (both dates inclusive), then —
 
-(a) notwithstanding section 19K(1), (2) and (3), the tax relief period of the company is a non-extendable period of 5 years commencing on its commencement day; and
+(a) notwithstanding section 19K(1), (2), (3), (3A) and (3B), the tax relief period of the company is a non-extendable period of 5 years commencing on its commencement day; and
+
+[Act 2 of 2013 wef 18/02/2008]
 
 (b) notwithstanding section 19J(5), tax at the rate of 10% shall be levied and paid for each year of assessment upon the expansion income derived by the company during its tax relief period from the provision of international legal services.
 
@@ -864,7 +932,7 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 “international legal services” means any qualifying activity comprising legal services that qualify for zero-rating under section 21(3) of the Goods and Services Tax Act (Cap. 117A).
 
-[1/2012 wef 01/04/2010]
+[Act 1 of 2012 wef 01/04/2010]
 
 ### Certain dividends exempted from income tax
 
@@ -903,6 +971,8 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 (9) Notwithstanding subsections (1) to (8), where it appears to the Comptroller that —
 
 (a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J or 19KA; or
+
+[Act 1 of 2012 wef 01/04/2010]
 
 (b) any dividends which have been exempted from tax in the hands of any shareholder,
 
@@ -1948,7 +2018,9 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 (a) over the proceeds from the sale; and where the value of net asset backing of the start-up company as determined by the Comptroller at the date of sale of such shares is greater than the sale proceeds, that value shall be deemed to be the proceeds from the sale; or
 
-(b) over the proceeds from the liquidation of the start-up company, as the case may be
+(b) over the proceeds from the liquidation of the start-up company,
+
+as the case may be.
 
 [44/2002; 48/2004]
 
@@ -1996,139 +2068,237 @@ the loss shall be allowed as a deduction against the statutory income of the eli
 
 [48/2004]
 
-## PART XIIID
+INTEGRATED INVESTMENT ALLOWANCE
 
-INTEGRATED INDUSTRIAL CAPITAL ALLOWANCES
+[Act 2 of 2013 wef 29/02/2012]
 
 ### Interpretation of this Part
 
 97ZA\. In this Part, unless the context otherwise requires —
 
+“approval letter” means a letter issued under section 97ZB(4);
+
 “approved project” means a project approved by the Minister under section 97ZB(2);
 
-“commencement day”, in relation to a company, means the date specified in the approval letter issued to the company under section 97ZB(2) as the date from which it shall qualify for the integrated industrial capital allowance;
+“concessionary income” means income subject to tax at a concessionary rate of tax under this Act or the Income Tax Act (Cap. 134), or under the regulations made under any of those Acts;
 
-“fixed capital expenditure” means capital expenditure (including capital expenditure on alteration to any building incidental to the installation of any productive equipment) to be incurred by a company on or after 1st March 2003 on —
+“fixed capital expenditure”, in relation to any qualifying equipment for an approved project, means capital expenditure (including capital expenditure on alteration to any building incidental to the installation of the qualifying equipment) to be incurred on the qualifying equipment on or after the investment day for the approved project in question;
 
-(a) any new productive equipment; and
+“IIA” means an integrated investment allowance given under section 97ZC;
 
-(b) subject to the approval of the Minister, any secondhand productive equipment (but does not include equipment sold and repurchased by the company),
+“investment day”, in relation to an approved project, means the date specified in section 97ZB(4)(b) for the project;
 
-to be provided to and used by an overseas subsidiary of the company for an approved project;
+“net chargeable concessionary income” means concessionary income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the concessionary income, and after deducting investment allowance (if any) under Part X;
 
-“overseas subsidiary” means a company —
+“net chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income, and after deducting investment allowance (if any) under Part X;
 
-(a) which is incorporated outside Singapore;
+“normal income” means income subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act;
 
-(b) whose principal activity is solely or primarily to carry out any approved project outside Singapore; and
+“project company” means the company referred to as such in section 97ZB(1);
 
-(c) in respect of which all (or such other percentage as the Minister may determine) of its paid-up capital is beneficially owned throughout the qualifying period by a company qualifying for the integrated industrial capital allowance under section 97ZB in respect of the approved project.
+“qualifying equipment”, in relation to a company which is issued an approval letter in relation to an approved project to be carried out by that company, means —
 
-[11/2004]
+(a) any new productive equipment; or
 
-### Integrated industrial capital allowance
+(b) any secondhand productive equipment (other than productive equipment sold and repurchased by the company),
 
-97ZB\.—(1) Where a company incorporated and resident in Singapore proposes to carry out a project through any overseas subsidiary —
+to be provided to and used by a project company solely for manufacturing any product for the first mentioned company or providing specialised engineering or technical services on behalf of or to the first mentioned company under the approved project;
 
-(a) for the manufacture or increased manufacture of any product; or
+“qualifying period”, in relation to any qualifying equipment, means the period specified in section 97ZB(4)(b) for that equipment.
 
-(b) for the provision of specialised engineering or technical services,
+[Act 2 of 2013 wef 17/02/2012]
 
-the company may apply in the prescribed form to the Minister for the approval of an integrated industrial capital allowance in respect of the fixed capital expenditure for the project.
+### Application for approval of project
 
-[11/2004]
+97ZB\.—(1) Where a company proposes to carry out a project outside Singapore under which another company (referred to in this Part as the project company) —
 
-(2) Where the Minister considers it expedient, having regard to the economic, technical and other merits of the project, he may approve the project and issue a letter to the company which shall qualify the company for an integrated industrial capital allowance in respect of the fixed capital expenditure for the approved project subject to such terms and conditions as the Minister thinks fit.
+(a) is to manufacture or increase the manufacture of any product for the first-mentioned company; or
 
-[11/2004]
+(b) is to provide specialised engineering or technical services on behalf of or to the first-mentioned company,
 
-(3) Every letter issued to a company under subsection (2) shall specify —
+the first-mentioned company may apply in the prescribed form to the Minister for an IIA in respect of the fixed capital expenditure to be incurred on qualifying equipment for the project.
 
-(a) a period not exceeding 5 years (referred to in this Part as the qualifying period) commencing from the commencement day; and
+(2) Where the Minister considers it expedient to do so, having regard to the economic, technical and other merits of the project, he may approve the project for the purposes of this Part and issue an approval letter to the company which shall qualify the company for an IIA.
 
-(b) the items of the fixed capital expenditure to be incurred by the company for the purpose of subsection (1).
+(3) The IIA in respect of the fixed capital expenditure for an approved project shall be an amount equal to such percentage (to be specified in the approval letter for the approved project) of the fixed capital expenditure incurred on all qualifying equipment for that approved project, but not exceeding the lower of the following limits:
 
-[11/2004]
+(a) the fixed capital expenditure incurred on all qualifying equipment for that approved project; or
 
-(4) Where any question arises as to whether a particular item qualifies as one of the items under subsection (3)(b), it shall be determined by the Minister whose decision shall be final.
+(b) a sum if specified in the approval letter for that approved project.
 
-[11/2004]
+(4) Every approval letter issued to a company under subsection (2) in respect of its approved project —
 
-(5) No approval under this section shall be granted to any company on or after 1st March 2013.
+(a) shall specify the qualifying equipment for the approved project, the fixed capital expenditure for which qualifies for the IIA;
 
-[11/2004]
+(b) shall specify a period (referred to in this Part as the qualifying period) for each qualifying equipment, commencing from a specified date (referred to in this Part as the investment day) and within which the fixed capital expenditure is to be incurred on the qualifying equipment to qualify for the IIA;
 
-### Deduction of integrated industrial capital allowance
+(c) shall specify the IIA to be given; and
 
-97ZC\.—(1) Subject to this section, where in the basis period for any year of assessment a company incurs fixed capital expenditure within the qualifying period which qualifies for the integrated industrial capital allowance under section 97ZB, sections 19 and 19A of the Income Tax Act (Cap. 134) shall apply, with the necessary modifications, as if the fixed capital expenditure is incurred in the provision and use of machinery or plant for the purposes of a trade, profession or business carried on by the company.
+(d) shall specify such other terms and conditions as the Minister may impose on the approval letter.
 
-[11/2004]
+(5) The maximum qualifying period for any qualifying equipment shall be —
 
-(2) Notwithstanding subsection (1), no integrated industrial capital allowance shall be made to any company for an approved project unless the claim for the integrated industrial capital allowance in respect of any fixed capital expenditure incurred within the qualifying period is made by the company by the year of assessment relating to the basis period during which the qualifying period ends.
+(a) where the qualifying equipment is not acquired under a hire‑purchase agreement — 5 years; and
 
-[11/2004]
+(b) where the qualifying equipment is acquired under a hire‑purchase agreement — 8 years.
 
-(3) For any year of assessment, the integrated industrial capital allowance referred to in subsection (1) shall be made to a company as a deduction only against the following income (and not against any other income) of the company in the following order:
+(6) The decision as to whether to specify any particular equipment as qualifying equipment shall be at the discretion of the Minister, and his decision shall be final.
 
-(a) firstly, against the income derived from the carrying on of an approved project subject to tax as concessionary income;
+(7) The Minister may, in his discretion, upon an application by a company issued with an approval letter, amend the approval letter by substituting for the investment day for the approved project specified therein such earlier or later date as he thinks fit, and thereupon the provisions of this Part shall have effect as if the date so substituted were the investment day in relation to the approved project.
 
-(b) secondly, against the income derived from the carrying on of an approved project subject to tax as normal income; and
+(8) Approval under this section shall only be granted during the period between 17th February 2012 and 28th February 2017 (both dates inclusive).
 
-(c) lastly, against the income received in Singapore from the provision of the productive equipment to the overseas subsidiary.
+[Act 2 of 2013 wef 17/02/2012]
 
-[11/2004]
+### Grant of IIA
 
-(4) Sections 22A and 23 of the Income Tax Act (Cap. 134) shall apply, with the necessary modifications, in relation to the set-off order and carry forward of the integrated industrial capital allowances.
+97ZC\.—(1) Subject to subsections (2) and (3), where, in the basis period for any year of assessment, a company has incurred fixed capital expenditure on any qualifying equipment for an approved project within the qualifying period for that equipment, the company shall be given for that year of assessment an IIA in respect of the fixed capital expenditure subject to the terms and conditions of its approval letter and in accordance with section 97ZB.
 
-[11/2004]
+(2) An IIA may be given for the fixed capital expenditure incurred on any qualifying equipment if, and only if —
 
-(5) Notwithstanding subsection (3), where a company ceases permanently to carry on an approved project through the overseas subsidiary in the basis period for any year of assessment, any balance of the integrated industrial capital allowance remaining unabsorbed shall be available as a deduction against any other income of the company for the year of assessment which relates to the basis period in which the project permanently ceases and any subsequent year of assessment in accordance with section 23 of the Income Tax Act, with the necessary modifications.
+(a) in the case where the qualifying equipment is to be constructed or installed on site, the expenditure is attributable to payment against work done in the construction or installation of the equipment, or in any other case, the project company has received delivery of the equipment;
 
-[11/2004]
+(b) no allowance has been claimed under section 19A(2A) or (2B) of the Income Tax Act (Cap. 134) in respect of that fixed capital expenditure; and
 
-(6) Where a company sells or disposes of any productive equipment after the qualifying period in respect of which any integrated industrial capital allowance has been made under subsection (1), there shall be made on the company for the year of assessment relating to the basis period in which the sale or disposal occurs, a balancing allowance or a balancing charge determined in accordance with section 20 or 21 of the Income Tax Act, with the necessary modifications.
+(c) no investment allowance has been claimed under Part X in respect of that fixed capital expenditure.
 
-[11/2004]
+(3) An IIA shall ordinarily not be given to a company for any year of assessment for which the company derives from the approved project any income which —
 
-(7) Section 37B of the Income Tax Act shall apply, with the necessary modifications, in relation to the deduction of the integrated industrial capital allowance against the income of a company for any year of assessment which is subject to tax as concessionary income and normal income.
+(a) does not form part of the statutory income of the company, or is exempt from tax under the provisions of this Act (other than this Part) or the Income Tax Act; or
 
-[11/2004]
+(b) is subject to tax at the concessionary rate of tax under Part IIIA in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or Part IIIB.
 
-(8) Any balance of the integrated industrial capital allowance remaining unabsorbed for any year of assessment shall not be available for transfer by the company under section 37C of the Income Tax Act (Cap. 134).
+(4) The Minister may, in any particular case, allow an IIA to be given to a company in the circumstances referred to in subsection (3), subject to such terms and conditions as he has specified in the approval letter to the company.
 
-[11/2004]
+[Act 2 of 2013 wef 17/02/2012]
 
-(9) In this section —
+### Crediting of IIA
 
-“concessionary income” means income subject to tax at the concessionary rate under Part IIIB;
+97ZD\.—(1) Where any IIA is given to a company for an approved project from which only normal income is derived in any year of assessment, the IIA shall be credited to an account (to be called a normal IIA account) which shall be kept by the company for the purposes of this Part.
 
-“normal income” means income subject to tax at the rate of tax under section 43(1)(a) of the Income Tax Act.
+(2) Where any IIA is given to a company for an approved project from which only concessionary income is derived in any year of assessment, the IIA shall be credited to an account (to be called a concessionary IIA account) which shall be kept by the company for the purposes of this Part.
 
-[11/2004]
+(3) Where a company derives both normal income and concessionary income from an approved project in any year of assessment, the IIA shall be credited wholly to a normal IIA account or wholly to a concessionary IIA account as the Minister, or such person as he may appoint, may direct.
 
-### Prohibition to sell, lease out or dispose of productive equipment
+(4) The direction under subsection (3) may be given to a company at any time from (and including) the date of the approval letter issued to the company.
 
-97ZD\.—(1) During its qualifying period, a company shall not, without the written approval of the Minister, sell, lease out (except to the overseas subsidiary) or otherwise dispose of any productive equipment in respect of which an integrated industrial capital allowance has been made to the company.
+[Act 2 of 2013 wef 17/02/2012]
 
-[11/2004]
+### Exemption from income tax: general
 
-(2) Where, during its qualifying period, a company has, without the written approval of the Minister, sold, leased out (except to the overseas subsidiary) or otherwise disposed of any productive equipment in respect of which an integrated industrial capital allowance has been made, the company shall be deemed to have derived an amount of income for that year of assessment equal to the deduction which has been made under section 97ZC as if the integrated industrial capital allowance were not made.
+97ZE\.—(1) Subject to subsection (2) and section 97ZF, where for any year of assessment, the normal IIA account of a company is in credit and the company has, for that year of assessment, any net chargeable normal income —
 
-[11/2004]
+(a) an amount of the net chargeable normal income, not exceeding the credit in the account, shall be exempt from tax and the account shall be debited with such amount; and
 
-(3) The Minister may waive, wholly or partly, the recovery of the integrated industrial capital allowance under subsection (2).
+(b) any remaining balance in the account shall be carried forward to be used in the manner referred to in paragraph (a) for every subsequent year of assessment when the company has net chargeable normal income, until the credit in the account has been fully used up.
 
-[11/2004]
+(2) Where, for any year of assessment, the company has any net chargeable concessionary income and the normal IIA account is in credit, the company may elect for any amount of the net chargeable concessionary income, not exceeding the credit in the account, to be exempt from tax and the account to be debited with such amount, and if the company so elects, that amount of income shall be so exempt from tax and the account shall be so debited.
 
-(4) Where the Minister waives, wholly or partly, the recovery of the integrated industrial capital allowance under subsection (3), section 97ZC(6) shall apply in respect of the sale or disposal of the productive equipment made by the company during the qualifying period.
+(3) A company shall make the election under subsection (2) for any year of assessment at the time of lodgment of the return of income for that year of assessment.
 
-[11/2004]
+(4) Subject to section 97ZG, where for any year of assessment, the concessionary IIA account of a company is in credit and the company has, for that year of assessment, any net chargeable concessionary income —
+
+(a) an amount of the net chargeable concessionary income, not exceeding the credit in the account, shall be exempt from tax and the account shall be debited with such amount; and
+
+(b) any remaining balance in the account shall be carried forward to be used in the manner referred to in paragraph (a) for every subsequent year of assessment when the company has net chargeable concessionary income, until the credit in the account has been fully used up.
+
+(5) Where the Comptroller is satisfied that a company has permanently ceased to derive any concessionary income in the basis period for any year of assessment —
+
+(a) the concessionary IIA account shall be debited with the amount of net chargeable concessionary income or the credit in the account, whichever is the less, for that year of assessment;
+
+(b) any remaining balance in the concessionary IIA account shall be debited from that account; and
+
+(c) an adjusted amount of any remaining balance referred to in paragraph (b) shall be credited to the normal IIA account to be used in accordance with subsection (1) for every subsequent year of assessment when the company has net chargeable normal income, until the credit in the account has been fully used up.
+
+(6) In subsection (5)(c), “adjusted amount” means the amount ascertained by the formula —
+
+where A is the amount of any remaining balance referred to in subsection (5)(b);
+
+B is the concessionary rate of tax for the year of assessment referred to in subsection (5) at which the concessionary income is subject to tax; and
+
+C is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for the year of assessment referred to in subsection (5).
+
+(7) Any amount of net chargeable concessionary income of a company debited from the concessionary IIA account under subsection (5)(a) shall be exempt from tax.
+
+[Act 2 of 2013 wef 17/02/2012]
+
+### Exemption from income tax where company derives normal income or mixed income before a date, and concessionary income from that date
+
+97ZF\.—(1) Notwithstanding section 97ZE(1) to (4), this section shall apply where —
+
+(a) the company derives normal income or both normal income and concessionary income from an approved project before a date (referred to in this section as the relevant date) in the basis period for a year of assessment (referred to in this section as the transitional year);
+
+(b) in the case where the company derives both normal income and concessionary income from the approved project before the relevant date, the Minister, or such person as he may appoint, has directed under section 97ZD(3) for any IIA given for any fixed capital expenditure on any qualifying equipment for the project to be credited wholly to the normal IIA account; and
+
+(c) the company derives concessionary income from the approved project commencing from the relevant date to the end of the basis period for the transitional year.
+
+(2) Subject to subsection (5), any credit in the normal IIA account at the end of the basis period for the year of assessment immediately before the transitional year shall be debited with the amount of net chargeable normal income of the company for the transitional year.
+
+(3) Where the company has incurred any fixed capital expenditure on any qualifying equipment before the relevant date in the basis period for the transitional year, any IIA given to the company for the fixed capital expenditure for the transitional year shall be credited to the normal IIA account.
+
+(4) Where the company has incurred any fixed capital expenditure on any qualifying equipment on or after the relevant date in the basis period for the transitional year, any IIA given to the company for the fixed capital expenditure for the transitional year shall be credited to the concessionary IIA account.
+
+(5) The normal IIA account shall be debited with the amount of net chargeable normal income of the company for the transitional year or the credit in that account, whichever is the less; and any remaining balance in that account shall be debited from that account and credited to the concessionary IIA account to be used in accordance with section 97ZE(4) for the transitional year and every subsequent year of assessment when the company has net chargeable concessionary income, until the credit in the concessionary IIA account has been fully used up.
+
+(6) Any amount of net chargeable normal income of a company debited from the normal IIA account under subsection (2) or (5) shall be exempt from tax.
+
+[Act 2 of 2013 wef 17/02/2012]
+
+### Exemption from income tax where company derives concessionary income or mixed income before a date, and normal income from that date
+
+97ZG\.—(1) Notwithstanding section 97ZE(1) to (4), this section shall apply where —
+
+(a) the company derives concessionary income or both normal income and concessionary income from an approved project before a date (referred to in this section as the relevant date) in the basis period for a year of assessment (referred to in this section as the transitional year);
+
+(b) in the case where the company derives both normal income and concessionary income from an approved project before the relevant date, the Minister, or such person as he may appoint, has directed under section 97ZD(3) for any IIA given for any fixed capital expenditure on any qualifying equipment for the project to be credited wholly to the concessionary IIA account; and
+
+(c) the company derives normal income from the approved project commencing from the relevant date to the end of the basis period for the transitional year.
+
+(2) Subject to subsection (5), any credit in the concessionary IIA account at the end of the basis period for the year of assessment immediately before the transitional year shall be debited with the amount of net chargeable concessionary income of the company for the transitional year.
+
+(3) Where the company has incurred any fixed capital expenditure on any qualifying equipment before the relevant date in the basis period for the transitional year, any IIA given to the company for the fixed capital expenditure for the transitional year shall be credited to the concessionary IIA account.
+
+(4) Where the company has incurred any fixed capital expenditure on any qualifying equipment on or after the relevant date in the basis period for the transitional year, any IIA given to the company for the fixed capital expenditure for the transitional year shall be credited to the normal IIA account.
+
+(5) The concessionary IIA account shall be debited with the amount of net chargeable concessionary income for the transitional year or the credit in that account, whichever is the less; and any remaining balance in that account shall be debited from that account and credited to the normal IIA account to be used in accordance with section 97ZE(1), (2) and (3) for the transitional year and every subsequent year of assessment when the company has net chargeable normal income or net chargeable concessionary income, until the credit in the normal IIA account has been fully used up.
+
+(6) Any amount of net chargeable concessionary income of a company debited from the concessionary IIA account under subsection (2) or (5) shall be exempt from tax.
+
+[Act 2 of 2013 wef 17/02/2012]
+
+### Prohibition against selling, leasing out or disposing of qualifying equipment
+
+97ZH\.—(1) A company shall not, without the written approval of the Minister, sell, lease out (except to the project company) or otherwise dispose of any qualifying equipment in respect of which an IIA has been given to the company, during the qualifying period of the equipment and within 2 years after the end of such qualifying period.
+
+(2) Where the company has contravened subsection (1), an amount equal to the aggregate of the IIA given in respect of that qualifying equipment shall be recovered in the following manner:
+
+(a) where the IIA given had been credited to the normal IIA account —
+
+(i) the amount of the IIA shall be deducted from that account; and
+
+(ii) where the credit in that account is insufficient to enable full recovery of the IIA, an assessment or additional assessment in respect of the shortfall shall, subject to section 74 of the Income Tax Act (Cap. 134), be made upon the company; and
+
+(b) where the IIA given had been credited to the concessionary IIA account —
+
+(i) the amount of the IIA shall be deducted from that account; and
+
+(ii) where the credit in that account is insufficient to enable full recovery of the IIA, an assessment or additional assessment in respect of the shortfall shall, subject to section 74 of the Income Tax Act, be made upon the company.
+
+(3) The Minister may waive, wholly or partly, the recovery of the IIA under subsection (2).
+
+[Act 2 of 2013 wef 17/02/2012]
 
 ### Recovery of tax
 
-97ZE\. Notwithstanding anything in this Part, where it appears to the Comptroller that any deduction under section 97ZC ought not to have been made to a company by reason of the revocation under section 99 of a letter issued under section 97ZB to the company, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the company as may be necessary in order to recover any tax which should have been payable by the company.
+97ZI\. Notwithstanding any other provisions in this Part, where it appears to the Comptroller that any income of a company exempted under section 97ZE, 97ZF or 97ZG ought not to have been exempted by reason of a revocation under section 99 of the approval letter issued under section 97ZB to the company, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134), make such assessment or additional assessment upon the company as may be necessary in order to recover the tax so exempted.
 
-[11/2004]
+[Act 2 of 2013 wef 17/02/2012]
+
+### Application of Parts XVII and XVIII of Income Tax Act
+
+97ZJ\. Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to assessments, objections and appeals) shall apply, with the necessary modifications, to any assessment or additional assessment given under section 97ZI as if it were a notice of assessment given under those provisions.
+
+[Act 2 of 2013 wef 17/02/2012]
 
 ## PART XIIIE
 
@@ -2230,11 +2400,15 @@ he may, by notice in writing, require the company within 30 days from the date o
 
 104\. The following provisions shall cease to have effect from 1st January 2008:
 
-(a) sections 14(1) to (6), (9) and (10), 19L(1) to (8), 72, 74(2), 97Q(1) to (7) and (10) and 97ZI(1) to (8); and
+(a) sections 14(1) to (6), (9) and (10), 19L(1) to (8), 72, (10) and 97ZI(1) to (8); and
 
-(b) paragraphs (i) (in relation to paragraph (b)) and (ii) of sections 14(7), 19L(9), 73, 97Q(8) and 97ZI(9).
+[Act 2 of 2013 wef 29/02/2012]
+
+(b) paragraphs (i) (in relation to paragraph (b)) and (ii) of sections 14(7), 19L(9), 73 and 97Q(8).
 
 [53/2007 wef 01/01/2008]
+
+[Act 2 of 2013 wef 29/02/2012]
 
 ## LEGISLATIVE HISTORY
 
@@ -2489,6 +2663,15 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of First Reading|12 November 2012 (Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|17 February 2012|
+|51.|**Act 1 of 2012—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 21/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|29 February 2012|
+|52.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+||Date of First Reading|12 November 2012 (Bill No. 39/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|29 February 2012 (Section 2))|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
