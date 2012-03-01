@@ -454,7 +454,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [37/2010 wef 15/03/2011]
 
-(3) The procedure governing such appeals to the High Court shall be the same as that for appeals from decisions of the District Court to the High Court.
+(3) The procedure governing any such appeal to the High Court shall be as provided for in the Rules of Court.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (4) The High Court shall have jurisdiction to hear and determine any such appeal and may confirm, vary or annul the decision of the Tribunal on appeal and make such further or other order on such appeal, whether as to costs or otherwise, as the Court may consider fit.
 
@@ -542,3 +544,8 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 32/2010) published on 18 October 2010|
 ||Date of Second and Third Readings|23 November 2010|
 ||Date of commencement|15 March 2011|
+|5.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 22 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (except sections 26 and 29)|
