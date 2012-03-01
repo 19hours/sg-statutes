@@ -2257,7 +2257,11 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 ### Right of appeal
 
-117\. Where any person interested is dissatisfied with the decision or order of the Commissioner, he may, within 14 days after the decision or order, file a memorandum of appeal therefrom in the High Court; for the purposes of any such appeal, the decision or order of the Commissioner shall be deemed to be a decision of a District Court.
+117\.—(1) Where any person interested is dissatisfied with the decision or order of the Commissioner, he may, within 14 days after the decision or order, appeal to the High Court from the decision or order.
+
+(2) The procedure governing any such appeal to the High Court shall be as provided for in the Rules of Court.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Fees and enforcement of orders
 
@@ -2786,3 +2790,8 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 31/2010 published on 19 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 February 2011|
+|29.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 22 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
