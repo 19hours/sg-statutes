@@ -450,7 +450,7 @@
 
 - [167 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE Transitional Provisions and Savings**](#THE-SCHEDULE)
+[**THE SCHEDULE Transitional provisions and savings**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -593,6 +593,10 @@ Jurisdiction
 ### General powers of bankruptcy court
 
 6\.—(1) Subject to this Act, the court, under its jurisdiction in bankruptcy, shall have full power to decide all questions of priorities and all other questions whatsoever, whether of law or fact, which may arise in any case of bankruptcy coming within the cognizance of the court, or which the court considers it expedient or necessary to decide for the purpose of doing complete justice or making a complete distribution of property in any such case.
+
+(1A) The court may adjourn any case of bankruptcy coming within the cognizance of the court, or make such order or give such direction as it thinks fit for the just, expeditious and economical disposal of any such case, without requiring the parties to appear in person, by giving written notice of such adjournment, order or direction to all parties concerned.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) Where default is made by a debtor or bankrupt or any other person in obeying any order or direction given by the court or the Official Assignee or any other officer of the court under this Act, the court may, on the application of the Official Assignee or any other duly authorised person, or of its own motion, order such defaulting debtor, bankrupt or person to comply with the order or direction so given, and may also, if it thinks fit, make an immediate order for the committal of such defaulting debtor, bankrupt or other person.
 
@@ -2312,9 +2316,19 @@ and thereafter the proceedings shall, unless the court otherwise directs, be con
 
 ### Withdrawal of bankruptcy application
 
-72\. Subject to sections 65(9) and 67(5), a bankruptcy application shall not be withdrawn without the leave of the court.
+72\.—(1) Subject to subsection (2) and sections 65(9) and 67(5), a bankruptcy application shall not be withdrawn without the leave of the court.
 
-[42/2005; 6/2009]
+(2) Subject to subsection (3), if no party to a bankruptcy application has, for more than one year (or such extended period as the court may allow under subsection (4)), taken any step or proceeding in the bankruptcy application that appears from records maintained by the court, the bankruptcy application shall be deemed to be withdrawn on the date immediately following the expiry of that year (or extended period).
+
+(3) Subsection (2) shall not apply where the bankruptcy application has been stayed, or where proceedings on the application have been stayed, by the court.
+
+(4) The court may, on an application by any party made before the one year referred to in subsection (2) has elapsed, extend the time to such extent as it may think fit.
+
+(5) Subsection (2) shall apply to any bankruptcy application, whether made before, on or after the date of commencement of section 13(b) of the Statutes (Miscellaneous Amendments) Act 2012, but where the last step or proceeding in the bankruptcy application took place before that date, the period of one year shall only begin on that date.
+
+(6) Where a bankruptcy application is deemed to be withdrawn under subsection (2), the court may, on application, reinstate the bankruptcy application and allow the bankruptcy application to proceed on such terms as the court thinks just.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 Protection of debtor’s property
 
@@ -2478,7 +2492,7 @@ Inquiry into bankrupt’s affairs, dealings and property
 
 [22/2008]
 
-1Subsection (7) of section 80, inserted by the Mental Capacity Act (Act 22 of 2008), will come into operation when item (1) in the Third Schedule to the Mental Capacity Act 2008 is brought into operation.
+1Subsection (7) of section 80, inserted by the Mental Capacity Act (Act 22 of 2008), came into operation when item (1) in the Third Schedule to the Mental Capacity Act 2008 was brought into operation on 1 March 2010.
 
 ### Bankrupt’s statement of affairs
 
@@ -2946,7 +2960,7 @@ Effect of bankruptcy on antecedent transactions
 
 [6/2009]
 
-### Meaning of "associate"
+### Meaning of “associate”
 
 101\.—(1) For the purposes of sections 99 and 100, any question whether a person is an associate of another person shall be determined in accordance with this section.
 
@@ -4022,7 +4036,7 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 Exemption from stamp duty
 
-159\. [Repealed byAct 38 of 2002]
+159\. [Repealed by Act 38 of 2002]
 
 ### Acts of corporations, firms and lunatics
 
@@ -4184,7 +4198,7 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 Section 167(2)
 
-Transitional Provisions and Savings
+Transitional provisions and savings
 
 Bankrupts under repealed Act to continue to be bankrupts under this Act
 
@@ -4266,7 +4280,7 @@ Bankruptcy Act
 
 (CHAPTER 20)
 
-This Legislative History is provided for the convenience of users of the Bankruptcy Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Bankruptcy Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -4366,11 +4380,16 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
 |21.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|22.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
