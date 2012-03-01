@@ -228,13 +228,13 @@ and where the services of an employee are temporarily lent or let on hire to ano
 
 “partial incapacity” means, where the incapacity is of a temporary nature, such incapacity as reduces the earning capacity of an employee in any employment in which he was engaged at the time of the accident resulting in his incapacity and, where the incapacity is of a permanent nature, such incapacity as reduces his earning capacity in every employment which he was able to undertake at the time of the accident:
 
- Provided that every injury specified in the First Schedule, except such injury or combination of injuries in respect of which the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to or exceeds 100%, shall be deemed to result in permanent partial incapacity;
+Provided that every injury specified in the First Schedule, except such injury or combination of injuries in respect of which the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to or exceeds 100%, shall be deemed to result in permanent partial incapacity;
 
 “seaman” means any person employed as part of the crew of any Singapore ship within the meaning of the Merchant Shipping Act (Cap. 179) and includes the master of any such ship;
 
 “total incapacity” means such incapacity whether of a temporary or permanent nature as incapacitates an employee for all work which he was capable of undertaking at the time of the accident resulting in such incapacity:
 
- Provided that permanent total incapacity shall be deemed to result from an injury or from any combination of injuries specified in the First Schedule where the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to or exceeds 100%;
+Provided that permanent total incapacity shall be deemed to result from an injury or from any combination of injuries specified in the First Schedule where the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to or exceeds 100%;
 
 “workplace” means any premises where a person is at work or is to work, for the time being works, or customarily works.
 
@@ -516,7 +516,7 @@ of the occurrence of every prescribed event that may give rise to a claim for co
 
 [5/2008]
 
-(2) [Deleted byAct 5 of 2008]
+(2) [Deleted by Act 5 of 2008]
 
 (3) For the purposes of this section, “employer” shall include the person, if any, referred to in section 17 as the principal.
 
@@ -560,7 +560,7 @@ of the occurrence of every prescribed event that may give rise to a claim for co
 
 [16/90; 5/2008]
 
-(2) [Deleted byAct 5 of 2008]
+(2) [Deleted by Act 5 of 2008]
 
 (3) If an employee, on being required to do so by the employer under subsection (1) or (1A) or by the Commissioner, at any time fails to submit himself for examination by a medical practitioner, his right to compensation shall be suspended until the examination has taken place; and if the failure extends over a period of 3 months from the date when the employee was required to submit himself for examination by the Commissioner, no compensation shall be payable in respect of any injury to the employee resulting from the accident unless the injury results in the death of the employee or unless the Commissioner is satisfied that there was reasonable cause for the failure.
 
@@ -782,11 +782,15 @@ Insurance and other general provisions
 
 [5/2008]
 
-(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of deputy for the employee under the Mental Capacity Act 2008.
+\*(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of any deputy for the employee under the Mental Capacity Act 2008.
 
 [5/2008]
 
 [21/2008 wef 01/03/2010]
+
+\*The words “committee or committees of the employee and estate of the employee required under the Mental Disorders and Treatment Act (Cap. 178)” in section 22(2) will be substituted with the following words when item 1(54)(b) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+
+“deputy for the employee under the Mental Capacity Act 2008”.
 
 ### Compulsory insurance against employer’s liability
 
@@ -850,7 +854,7 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 [5/2008]
 
-(5) [Deleted byAct 5 of 2008]
+(5) [Deleted by Act 5 of 2008]
 
 (6) Any assessment of compensation made by the Commissioner under this section may, in any case involving any prescribed occupational disease specified in the Second Schedule, be reviewed at any time within 3 years from the date of the assessment if the Commissioner is satisfied that since that date there has been an aggravation of the result of the relevant occupational disease and that the amount of compensation originally assessed is substantially inadequate.
 
@@ -952,9 +956,13 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) with the leave of the Commissioner, by any other person authorised in writing by that person;
 
-(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 to manage his property;
+\*(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 to manage his property;
 
 [21/2008 wef 01/03/2010]
+
+\*The words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in section 27(1)(ba) will be substituted with the following words when item 1(54)(c) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+
+“deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008”.
 
 (bb) where the person is dead — with the leave of the Commissioner, by any of his dependants or his estate, whether or not the estate has obtained a grant of representation;
 
@@ -996,11 +1004,15 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) where the employee is dead, to or for the benefit of any one or more of the deceased employee’s dependants or to the estate of the deceased employee where a will has been produced, as the Commissioner deems fit, or where the deceased employee has no dependants, to the Workers’ Fund; or
 
-(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any deputy appointed for the employee by the High Court under the Mental Capacity Act 2008 to manage the employee’s property, as the Commissioner deems fit.
+\*(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 to manage the employee’s property, as the Commissioner deems fit.
 
 [5/2008]
 
 [21/2008 wef 01/03/2010]
+
+\*The words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in section 28A(2)(c) will be substituted with the following words when item 1(54)(d) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+
+“deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008”.
 
 ### Appeal from decision of Commissioner
 
@@ -1008,7 +1020,9 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 [5/2008]
 
-(2) Subject to the Rules of Court, the procedure in an appeal to the High Court shall be the procedure in a civil appeal from a District Court with such modifications as the circumstances may require.
+(2) The procedure governing any such appeal to the High Court shall be as provided for in the Rules of Court.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2A) No appeal shall lie against any order unless a substantial question of law is involved in the appeal and the amount in dispute is not less than $1,000.
 
@@ -2738,3 +2752,7 @@ This Legislative History is provided for the convenience of users of the Work In
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|12.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011 (Bill No. 22/2012 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
