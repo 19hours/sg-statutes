@@ -114,13 +114,29 @@ An Act to declare the extent to which English law is applicable in Singapore and
 
 9\.—(1) The Law Revision Commissioners appointed under the Revised Edition of the Laws Act [Cap. 275] may prepare and publish a revised edition of any English enactment specified in the First Schedule so as to bring the enactment into conformity with the local Acts.
 
-(2) In preparing a revised edition under subsection (1), the Commissioners shall have all the powers under section 4 of the Revised Edition of the Laws Act.
+(2) In preparing a revised edition under subsection (1), the Commissioners shall have all the powers under section 4 of the Revised Edition of the Laws Act [Cap. 275].
 
 (3) The Commissioners shall transmit to the President a copy of any revised edition of an English enactment published under this section and with effect from such date as the President may specify by order in theGazetteany such revised edition shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of that enactment.
 
 (4) Every revised edition of an English enactment shall, as soon as possible after the publication of such order, be presented to Parliament.
 
 (5) Where a revised edition of any English enactment has been published under this section, the Commissioners may, from time to time if they consider necessary, issue a subsequent revised edition of that enactment.
+
+(6) The Commissioners shall cause every revised edition of an English enactment to be published in the form of a booklet or in loose-leaf form.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(7) The Commissioners may also cause a revised edition of any English enactment that is or has been published in accordance with subsection (6) to be published in electronic form.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(8) Notwithstanding subsections (3) and (6), any English enactment published in electronic form under subsection (7) may, in all courts and for all purposes, be taken and accepted as prima facie evidence of the proper law of Singapore in respect of that enactment.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(9) Where there is any discrepancy or inconsistency between a revised edition of any English enactment published in the form of a booklet or in loose-leaf form and the same revised edition of that English enactment published in electronic form, the revised edition published in the form of a booklet or in loose-leaf form shall prevail.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 FIRST SCHEDULE
 
@@ -196,7 +212,7 @@ Extent of Application
 
 Mercantile Law Amendment Act 1856
 
-Sections 3 and 5
+Sections 3 and 5.
 
 2.
 
@@ -298,11 +314,11 @@ Part III
 
 Amendments to Enactments in Part Ii
 
-1.Policies of Assurance Act 1867.
+1\.Policies of Assurance Act 1867.
 
 In section 6, delete the words “and upon payment in each case of a fee not exceeding 25p”.
 
-2.Partnership Act 1890.
+2\.Partnership Act 1890.
 
 In section 36(2), delete the words “London Gazetteas to a firm whose principal place of business is in England and Wales, in theEdinburgh Gazetteas to a firm whose principal place of business is in Scotland, and in theDublin Gazetteas to a firm whose principal place of business is in Ireland,” and substitute “Gazette”.
 
@@ -364,11 +380,17 @@ Provision for sea carriage of passengers
 
 (a) delete the definition of “hire-purchase agreement” and substitute —
 
+“
+
+“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act [Cap. 125];
+
+”; and
+
 (b) delete the definitions of “redemption” and “trading stamps”.
 
 (4) In section 19, delete the definitions of “the 1973 Act” and “the 1974 Act”.
 
-5.Carriage of Goods by Sea Act 1992.
+5\.Carriage of Goods by Sea Act 1992.
 
 In section 1(6), delete the words “and the power to make regulations under that subsection shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament”.
 
@@ -681,7 +703,7 @@ Application of English Law Act
 
 (CHAPTER 7A)
 
-This Legislative History is provided for the convenience of users of the Application of English Law Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Application of English Law Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -692,3 +714,8 @@ This Legislative History is provided for the convenience of users of the Applica
 ||Date of commencement|12 November 1993|
 |2.|**1994 Revised Edition—Application of English Law Act**|
 ||Date of operation|15 March 1994|
+|3.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
