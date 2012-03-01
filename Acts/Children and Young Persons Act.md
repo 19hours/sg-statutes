@@ -364,6 +364,8 @@ PRELIMINARY
 
 “registered medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
+[22/2007 wef 01/01/2008]
+
 “relevant offence” means —
 
 (a) any offence under Part II;
@@ -762,6 +764,8 @@ Trafficking in Children
 
 13\. Any person who, by or under any false pretence, false representations or fraudulent or deceitful means made or used either within or outside Singapore, brings or assists in bringing any child into Singapore shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
 
+[3/2011 wef 20/07/2011]
+
 ### Power to examine children and persons in charge of them
 
 14\.—(1) A protector or any person authorised in that behalf by a protector in writing may require any child and any person who may appear to have the custody or control of the child to appear before the protector at any reasonable time and at any convenient place.
@@ -808,6 +812,8 @@ he may either —
 
 (3) Any person who obstructs or hinders or attempts to obstruct or hinder a protector or any such officer in the exercise of the powers conferred by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[3/2011 wef 20/07/2011]
+
 ### Powers of arrest
 
 18\. A protector may, during or after any inquiry referred to in section 8, 14 or 17, arrest or cause to be arrested any person reasonably believed to have committed an offence under section 5, 6, 7, 11, 12 or 13 and seize and detain any article or document which he may have reason to believe relates to the offence.
@@ -835,6 +841,8 @@ General
 (d) any other person authorised in writing by the Minister or by a protector, either by name or office, to make complaint of any offence under this Act.
 
 [20/2001]
+
+[15/2010 wef 02/01/2011]
 
 ### Court may determine and declare age of child or young person
 
@@ -948,6 +956,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) who is the subject of an order made by a court under this Act.
 
+[3/2011 wef 20/07/2011]
+
 (2) If any information or picture is published or broadcast in contravention of subsection (1) —
 
 (a) in the case of the publication of any information or picture as part of a newspaper or periodical publication, every proprietor, editor, publisher or distributor thereof;
@@ -958,7 +968,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall jointly be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
+[3/2011 wef 20/07/2011]
+
 (3) In this section, “broadcast” and “publish” have the same meanings as in section 35(5).
+
+[3/2011 wef 20/07/2011]
 
 ## PART III
 
@@ -1328,6 +1342,8 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 [20/2001]
 
+[3/2011 wef 20/07/2011]
+
 (7) Where a Juvenile Court is satisfied, on the representations of the manager of a place of detention, a juvenile rehabilitation centre or a place of safety, that a person ordered to be detained in the place of detention, juvenile rehabilitation centre or place of safety is of so unruly a character that he cannot be so detained, the Court may —
 
 (a) order the person to be transferred to and detained in a juvenile rehabilitation centre or in another juvenile rehabilitation centre, as the case may be, which the Court considers more suitable for him and to be detained there for the whole or any part of the unexpired period of detention; or
@@ -1397,6 +1413,8 @@ the juvenile case conference shall report the matter to the Juvenile Court and t
 [44A
 
 [20/2001]
+
+[3/2011 wef 20/07/2011]
 
 ### Additional orders which may be made by Juvenile Court in relation to child or young person found guilty of offence
 
@@ -1554,6 +1572,8 @@ Children and Young Persons in need of Care and Protection
 
 (8) If the Juvenile Court is not satisfied that the child or young person brought before it is in need of protection, the Court may order that the child or young person be returned to the care and custody of his parent or guardian.
 
+[20/2011]
+
 (9) The Juvenile Court may, at any time before the expiry of an order made under subsection (1) and on the application of the Director or a protector, vary or discharge the order if the Court is satisfied that it would be in the best interests of the person in respect of whom the order was made.
 
 [3/2011 wef 20/07/2011]
@@ -1565,8 +1585,6 @@ Children and Young Persons in need of Care and Protection
 (11) If the parent or guardian of the child or young person fails to enter into the bond within the time specified in the order made under subsection (1)(a) or breaches any condition of the bond, the parent or guardian shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [3/2011 wef 20/07/2011]
-
-[20/2001]
 
 [48
 
@@ -1600,11 +1618,11 @@ may order the child or young person —
 
 (3) The Juvenile Court may, on the application of the Director, a protector or the parent or guardian of any child or young person in respect of whom an order under subsection (1) has been made, vary or discharge the order if the Court is satisfied that it is in the best interests of the child or young person to do so.
 
+[20/2001]
+
 (4) For the avoidance of doubt, where an order to be varied or discharged under subsection (3) is an order made under subsection (1)(i) or (ii) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Juvenile Court shall not vary the period for which the person is to be placed on supervision or detained in a place of safety, as the case may be.
 
 [3/2011 wef 20/07/2011]
-
-[20/2001]
 
 [49
 
@@ -1648,6 +1666,8 @@ LICENSING OF HOMES FOR CHILDREN
 
 
 AND YOUNG PERSONS
+
+[3/2011 wef 20/07/2011]
 
 ### Homes for children and young persons to be licensed
 
@@ -1987,13 +2007,17 @@ he may, by order in writing, direct the immediate closure of the home for childr
 
 52P\.—(1) Subject to subsection (2), this Part shall not apply to —
 
-(a) any home for children and young persons which is under the management or control of the Government;
+(a) any home for children and young persons which is operated by the Government;
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (b) any child care centre licensed under the Child Care Centres Act (Cap. 37A);
 
 (c) any school which is registered under the Education Act (Cap. 87);
 
-(d) any approved institution established under the Probation of Offenders Act (Cap. 252);
+(d) any home for children and young persons which is, and is operated exclusively as, an approved institution under the Probation of Offenders Act (Cap. 252);
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (e) any place where a child or young person is being cared for by a parent, family member or foster parent; and
 
@@ -2001,7 +2025,7 @@ he may, by order in writing, direct the immediate closure of the home for childr
 
 [3/2011 wef 20/07/2011]
 
-(4) Sections 52F and 52G shall apply to a home for children and young persons under the management or control of the Government.
+(2) Sections 52F and 52G shall apply to a home for children and young persons under the management or control of the Government.
 
 [3/2011 wef 20/07/2011]
 
@@ -2108,6 +2132,8 @@ AND PLACES OF SAFETY
 
 56\.—(1) The manager of any institution intended for the reception, care and rehabilitation of persons to be sent there under this Act may apply to the Minister to appoint the institution as a juvenile rehabilitation centre or place of safety.
 
+[3/2011 wef 20/07/2011]
+
 (2) The Minister may, after directing the Director to make such inquiries as he thinks fit, so appoint the institution and issue a certificate of appointment and approval to the manager thereof, and such certificate shall be published in theGazette.
 
 (3) Any institution appointed under subsection (2) shall, while that certificate remains in force, be an appointed juvenile rehabilitation centre or place of safety for the purposes of this Act.
@@ -2119,6 +2145,8 @@ AND PLACES OF SAFETY
 ### Manager may make regulations with approval of Minister
 
 57\. The manager of an appointed juvenile rehabilitation centre or place of safety may, with the approval of the Minister, make regulations for the regulation and management of the institution under his charge.
+
+[3/2011 wef 20/07/2011]
 
 [55
 
@@ -2288,6 +2316,8 @@ PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN JUVENILE REHABILITATION CENTR
 
 69\.—(1) The Minister may at any time, notwithstanding any order made by any court, order any person to be discharged from any juvenile rehabilitation centre, place of safety or place of detention or to be transferred from one juvenile rehabilitation centre, place of safety or place of detention to another.
 
+[3/2011 wef 20/07/2011]
+
 (2) The whole period of detention for which any person was sent to such juvenile rehabilitation centre, place of safety or place of detention shall not be increased by the transfer.
 
 [67
@@ -2366,6 +2396,8 @@ the Director or a protector may give consent to the carrying out of such medical
 
 75\. Nothing contained in this Act shall be held to lessen or affect the powers of the Judges of the High Court to direct persons confined in Singapore to be brought before the Court by an Order for Review of Detention.
 
+[42/2005 wef 01/01/2006]
+
 [72
 
 ### Review of cases of persons ordered to be detained in juvenile rehabilitation centres or places of safety
@@ -2379,8 +2411,6 @@ the Director or a protector may give consent to the carrying out of such medical
 [3/2011 wef 20/07/2011]
 
 (3) The Director may at any time modify or cancel any of the conditions.
-
-[3/2011 wef 20/07/2011]
 
 (4) [Deleted by Act 3/2011 wef 20/07/2011]
 
@@ -2574,8 +2604,6 @@ in order that the protector or person may take such action as may be necessary i
 
 [3/2011 wef 20/07/2011]
 
-[20/2001]
-
 (3) A person who makes a notification under subsection (1) —
 
 (a) shall not, by virtue of doing so, be held in any proceedings before any court or tribunal or in any other respect to have breached any code of professional etiquette or ethics, or to have departed from any accepted form of professional conduct; and
@@ -2702,7 +2730,7 @@ Children and Young Persons Act
 
 (CHAPTER 38)
 
-This Legislative History is provided for the convenience of users of the Children and Young Persons Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Children and Young Persons Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2751,6 +2779,16 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 35/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|11 January 2011|
 ||Date of commencement|20 July 2011|
+|10.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+
+|
+(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
+
+|
+(except sections 26 and 29)|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
