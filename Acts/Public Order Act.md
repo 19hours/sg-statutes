@@ -1098,7 +1098,9 @@ MISCELLANEOUS
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection.
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
