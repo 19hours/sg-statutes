@@ -262,7 +262,7 @@ PRELIMINARY
 
 “certificate of experience” means a certificate granted under section 25;
 
-“Complaints Committee” means a committee appointed by the chairman of the Complaints Panel under section 40;
+“Complaints Committee” means a committee appointed by the chairman of the Complaints Panel under section 40(1);
 
 [1/2010 wef 01/12/2010]
 
@@ -478,9 +478,11 @@ MEDICAL COUNCIL
 
 12\.—(1) The Medical Council shall meet at such times and places as the President or the Registrar may appoint.
 
-(2) At any meeting of the Medical Council, 7 members shall form a quorum.
+(2) The quorum at every meeting of the Medical Council shall be one-third of the total number of members in office or 7 members, whichever is the higher.
 
 [46/2002]
+
+[Act 2/2012 wef 01/03/2012]
 
 (3) The chairman at any meeting of the Medical Council shall have an original vote and, in the case of an equality of votes, a casting vote.
 
@@ -1388,7 +1390,7 @@ and the registered medical practitioner shall respond within such reasonable tim
 
 (c) does not respond to the notice within the time specified in subsection (3),
 
-the investigator shall make a report to the Complaints Committee under section 48 and the Complaints Committee may proceed with the inquiry and make such order as it deems fit under section 49(1) or (2).
+the investigator shall make a report to the Complaints Committee under section 48 and the Complaints Committee may proceed with the inquiry and make such order as it deems fit under section 50(1) or (2).
 
 (5) Where, in the course of an investigation, an investigator receives any information touching on, or obtains any evidence of, the conduct, physical or mental fitness, or professional performance of a registered medical practitioner other than the registered medical practitioner concerned which may give rise to proceedings under this Part, the investigator shall make a report to the Complaints Committee under section 48.
 
@@ -1544,7 +1546,7 @@ Powers after investigation
 
 (4) Where a Complaints Committee has decided to issue a letter of advice to the registered medical practitioner, the chairman of the Complaints Committee shall issue the letter of advice in such terms as it thinks fit.
 
-(5) Where a Complaints Committee has referred the matter for mediation, section 43 shall apply with the necessary modifications, and references in section 43(4) and (5) to section 42(4)(b)(i) or (c) shall be read as references to section 49(1) or (2), respectively.
+(5) Where a Complaints Committee has referred the matter for mediation, section 43 shall apply with the necessary modifications, and references in section 43(4) and (5) to section 42(4)(b)(i) or (c) shall be read as references to section 50(1) or (2), respectively.
 
 (6) Where a registered medical practitioner in respect of whom an order is made under subsection (1)(c), (d), (e) or (f) is found by a Complaints Committee (whether it is the Complaints Committee that made the order or another Complaints Committee appointed in its place) to have failed to comply with any of the requirements imposed on him, the Complaints Committee may, if it thinks fit, order that a formal inquiry be held by a Disciplinary Tribunal or Health Committee, as the case may be, in respect of the complaint, information or evidence.
 
@@ -1706,7 +1708,7 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (g) by order require the registered medical practitioner to give such undertaking as the Disciplinary Tribunal thinks fit to abstain in future from the conduct complained of; or
 
-(h) make such other order as the Disciplinary Tribunal thinks fit, including any order that a Complaints Committee may make under section 49(1).
+(h) make such other order as the Disciplinary Tribunal thinks fit, including any order that a Complaints Committee may make under section 50(1).
 
 (3) In any proceedings instituted under this Part against a registered medical practitioner consequent upon his conviction for a criminal offence, a Disciplinary Tribunal and the High Court on appeal from any order of the Disciplinary Tribunal shall accept his conviction as final and conclusive.
 
@@ -1972,7 +1974,7 @@ whichever is the earlier.
 
 (2) For the purposes of subsection (1)(b), the relevant proceedings are concluded if —
 
-(a) the Complaints Committee inquiring into the complaint or information has made an order under section 49(1) and —
+(a) the Complaints Committee inquiring into the complaint or information has made an order under section 50(1) and —
 
 (i) no appeal to the Minister under section 49(10) or (11) was made against that decision within the period specified in that section or such an appeal was withdrawn; or
 
@@ -3132,6 +3134,11 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|10 August 2010|
 |||1 December 2010|
 |||1 July 2011|
+|17.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
