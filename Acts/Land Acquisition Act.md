@@ -276,11 +276,13 @@ the President may, by notification published in theGazette, declare the land to 
 
 ### Notice to persons interested
 
-8\.—(1) The Collector shall then cause notices to be posted at convenient places on or near the land to be taken stating —
+8\.—(1) The Collector shall then cause a notice to be published in at least 4 daily local newspapers circulating in Singapore, one each in each of the 4 official languages, stating —
 
 (a) that the Government intends to acquire the land; and
 
 (b) that claims to compensation for all interests in the land may be made to him.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The Collector shall also serve notice to the same effect on —
 
@@ -298,7 +300,7 @@ the President may, by notification published in theGazette, declare the land to 
 
 [19/2007 wef 07/05/2007]
 
-(3) Every such notice under subsections (1) and (2) —
+(3) Every notice published under subsection (1) or served under subsection (2) —
 
 (a) shall state the particulars of the land; and
 
@@ -307,6 +309,8 @@ the President may, by notification published in theGazette, declare the land to 
 (i) to appear personally or by any person authorised in writing in that behalf before the Collector at the time and place mentioned in the notice, such time being not earlier than 21 days after the date of the notice; and
 
 (ii) to state the nature of their respective interests in the land, the amount and particulars of their claims to compensation for those interests, the basis or mode of valuation by which the amount claimed is arrived at, and their objections, if any, to the measurements in any plan prepared under section 7.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (4) The Collector may, in any case, require any statement under subsection (3) to be made in writing and signed by the party or his agent.
 
@@ -320,13 +324,15 @@ Inquiry into measurements, value and claims, and award by Collector
 
 ### Inquiry and award by Collector
 
-10\.—(1) On the day so fixed, or on any other day to which the inquiry has been adjourned, the Collector shall proceed to inquire into the objections, if any, which any person interested has stated, pursuant to a notice given under section 8, to any plan prepared under section 7 (if any) and into the value of the land and into the respective interests of the persons claiming the compensation, and shall, as soon as possible after the conclusion of the inquiry, make an award under his hand of —
+10\.—(1) On the day so fixed, or on any other day to which the inquiry has been adjourned, the Collector shall proceed to inquire into the objections, if any, which any person interested has stated, pursuant to a notice published under section 8(1) or served under section 8(2), to any plan prepared under section 7 (if any) and into the value of the land and into the respective interests of the persons claiming the compensation, and shall, as soon as possible after the conclusion of the inquiry, make an award under his hand of —
 
 (a) the area of the land;
 
 (b) the compensation which in his opinion should be allowed for the land; and
 
 (c) the apportionment of the compensation among all the persons known or believed to be interested in the land, of whom or of whose claims he has information, whether or not they have respectively appeared before him.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The Collector may at any time refer to the High Court for its determination any question as to —
 
@@ -364,7 +370,9 @@ Inquiry into measurements, value and claims, and award by Collector
 
 (a) that section 7 has not been properly complied with;
 
-(b) that any notice posted or served under section 8 is in any way defective by reason of any failure by the Collector to comply with section 7; or
+(b) that any notice published under section 8(1) or served under section 8(2) is in any way defective by reason of any failure by the Collector to comply with section 7; or
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (c) that the award does not purport to state the area of the land to which it relates in accordance with section 10(1)(a).
 
@@ -390,7 +398,9 @@ Taking possession
 
 ### Power to take possession in cases of urgency
 
-17\.—(1) In cases of urgency, whenever the Minister directs him to do so, the Collector, though no such award had been made, may on the expiration of 7 days from the date of the notice under section 8, take possession of any land needed for any of the purposes specified in section 5(1).
+17\.—(1) In cases of urgency, whenever the Minister directs him to do so, the Collector, though no such award had been made, may on the expiration of 7 days from the later of the date of the notice published under section 8(1) or the date of the notice served under section 8(2), take possession of any land needed for any of the purposes specified in section 5(1).
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The Minister may, in his discretion, direct the Collector to take immediate possession of any land which is intended to be acquired under the provisions of this Act without the publication of a notification under section 5(1); but such a notification shall be published not later than 7 days after the Collector has taken possession of the land.
 
@@ -682,7 +692,9 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 ### Rules as to amount of compensation
 
-35\.—(1) Where the applicant has made a claim to compensation pursuant to any notice under section 8, the amount awarded to him shall not exceed the amount so claimed or be less than the amount awarded by the Collector under section 10.
+35\.—(1) Where the applicant has made a claim to compensation pursuant to any notice published under section 8(1) or served under section 8(2), the amount awarded to him shall not exceed the amount so claimed or be less than the amount awarded by the Collector under section 10.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) Where the applicant has refused to make such a claim or has omitted without sufficient reason, to be allowed by the Board, to make such a claim, the amount awarded by the Board may be less than and shall in no case exceed the amount awarded by the Collector.
 
@@ -968,3 +980,7 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item 1(23) of the Second Schedule)|
+|18.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011 (Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 23)|
