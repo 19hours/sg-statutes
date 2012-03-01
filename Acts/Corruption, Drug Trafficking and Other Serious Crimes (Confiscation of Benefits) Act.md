@@ -742,9 +742,9 @@ shall not be permitted to make an application under subsection (3) except with t
 
 (5) A person who makes an application under subsection (1) or (3) shall give not less than 7 days’ written notice of the making of the application to the Public Prosecutor who shall be a party to any proceedings on the application.
 
-[15/2010 wef 02/01/2011]
-
 [9
+
+[15/2010 wef 02/01/2011]
 
 ## PART III
 
@@ -815,6 +815,10 @@ the term of imprisonment to be served in default of payment of the amount shall 
 and that there is reasonable cause to believe that benefits have been derived by that person from drug trafficking or from criminal conduct, as the case may be.
 
 [25/99]
+
+(2A) The High Court may exercise the powers conferred by section 16(1) notwithstanding any provision in any other written law prohibiting any dealing with any realisable property.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (3) For the purposes of sections 16 and 17, at any time when those powers are exercisable before proceedings have been instituted —
 
@@ -1048,11 +1052,9 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 (b) substitute for the term of imprisonment fixed under section 319 of the Criminal Procedure Code 2010 in respect of the amount to be recovered under the order a shorter term determined in accordance with that section (as it has effect by virtue of section 14) in respect of the lesser amount.
 
-[15/2010 wef 02/01/2011]
-
 [18
 
-[44/2007 wef 01/11/2007]
+[15/2010 wef 02/01/2011]
 
 ### Bankruptcy of defendant, etc.
 
@@ -1338,6 +1340,10 @@ that the material should be produced or that access to it should be given.
 
 [26
 
+(13) An authorised officer may exercise the powers conferred on him by this section notwithstanding any provision in any other written law relating to the production of, or the giving of any access to, any particular material or material of a particular description.
+
+[Act 2 of 2012 wef 01/03/2012]
+
 ### Production orders against financial institution to produce material relating to drug trafficking or criminal conduct
 
 31\.—(1) The Public Prosecutor or any person duly authorised by him in writing may, for the purpose of an investigation into a drug trafficking offence or a serious offence, as the case may be, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
@@ -1385,6 +1391,10 @@ within a reasonable period, but not less than 7 days, as the order may specify.
 (6) The proceedings for an application for a production order under this section shall be heard in camera.
 
 [25/99]
+
+(6A) The Public Prosecutor or the person duly authorised by him may exercise the powers conferred on the Public Prosecutor or the person, as the case may be, by this section notwithstanding any provision in any other written law relating to the production of, or the giving of any access to, any particular material or material of a particular description.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (7) In this section, “items subject to legal privilege” has the same meaning as in section 35(2).
 
@@ -1591,6 +1601,10 @@ any act which may constitute drug trafficking or criminal conduct, as the case m
 [44/2007 wef 01/11/2007]
 
 [25/99]
+
+(1A) For the avoidance of doubt, where the property referred to in subsection (1) is the subject of a transaction, the person referred to in that subsection shall make the disclosure referred to in that subsection regardless of whether the transaction was completed.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
@@ -2018,7 +2032,7 @@ shall be guilty of an offence.
 
 (4) In subsections (1)(a) and (2)(a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
 
-(5) For the purposes of subsection (3), consideration given for any property is inadequate if its value is significantly less than the market value of that property, and there shall not be treated as consideration the provision for any person of services or goods which are of assistance to him in drug trafficking.
+(5) [Deleted by Act 2 of 2012 wef 01/03/2012]
 
 (6) Any person who commits an offence under this section shall be liable on conviction —
 
@@ -2028,9 +2042,9 @@ shall be guilty of an offence.
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
-[44/2007 wef 01/11/2007]
-
 [43
+
+[44/2007 wef 01/11/2007]
 
 [25/99]
 
@@ -2066,7 +2080,7 @@ shall be guilty of an offence.
 
 [25/99]
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property or has possession of or uses such property, shall be guilty of an offence.
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property, or has possession of or uses such property, shall be guilty of an offence.
 
 [44/2007 wef 01/11/2007]
 
@@ -2078,9 +2092,7 @@ shall be guilty of an offence.
 
 [25/99]
 
-(5) For the purposes of subsection (3), consideration given for any property is inadequate if its value is significantly less than the market value of that property, and there shall not be treated as consideration the provision for any person of services or goods which are of assistance to him in criminal conduct.
-
-[25/99]
+(5) [Deleted by Act 2 of 2012 wef 01/03/2012]
 
 (6) Any person who commits an offence under this section shall be liable on conviction —
 
@@ -2090,9 +2102,9 @@ shall be guilty of an offence.
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
-[44/2007 wef 01/11/2007]
-
 [43A
+
+[44/2007 wef 01/11/2007]
 
 [25/99]
 
@@ -2778,7 +2790,7 @@ Section 2
 
 Serious Offences
 
-Part i — Offences included as serious offences with effect from 13th September 1999
+Part I — Offences included as serious offences with effect from 13th September 1999
 
 Offences
 
@@ -3536,9 +3548,7 @@ Importation of woman or girl by false pretences
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-Part ii — Offences included as serious offences with effect from 9th September 2005
-
-[S 579/2005 wef 09/09/2005]
+Part II — Offences included as serious offences with effect from 9th September 2005
 
 Offences
 
@@ -3558,11 +3568,9 @@ Harassing borrower, besetting his residence, etc.
 
 [31/2008 wef 01/03/2009]
 
-[25/99]
+[597/2009 wef 01/11/2007]
 
-Part iii — Offences included as serious offences with effect from 8th May 2006
-
-[S 254/2006 wef 08/05/2006]
+Part III — Offences included as serious offences with effect from 8th May 2006
 
 Offences
 
@@ -3752,7 +3760,7 @@ Control of Plants Act (Cap\. 57A)
 
 Control of Plants (Plant Importation) Rules (R 4) 
 
-221. Rule 17 for contravention of rule 5 (1)
+221. Rule 17 for contravention of rule 5(1)
 
 Importation of regulated plant, etc., without a permit.
 
@@ -4174,24 +4182,11 @@ Keeping or management of places of assignation
 
 Keeping or management of brothels
 
+[S 28/2010; S 254/2006]
+
 [26/2007 wef 01/01/2008]
 
-Part iv — Offences included as serious offences
-
-
-
-
-with effect from 27th September 2007,
-
-
-
-
-being transnational offences involving
-
-
-
-
-organised criminal groups
+Part IV — Offences included as serious offences with effect from 27th September 2007, being transnational offences involving organised criminal groups
 
 293.
 
@@ -4205,12 +4200,9 @@ Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-Part v — Offences included as serious offences
+[S 488/2007 wef 27/09/2007]
 
-
-
-
-with effect from 1st November 2007
+Part V — Offences included as serious offences with effect from 1st November 2007
 
 Offences
 
@@ -4392,7 +4384,7 @@ Failure to disclose information about acts of terrorism financing
 
 Contravention of order for restraint of property
 
-Part vi — Offences included as serious offences with effect from 1st February 2008
+Part VI — Offences included as serious offences with effect from 1st February 2008
 
 Offences
 
@@ -4504,12 +4496,9 @@ Making or possessing equipment for making a false instrument
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
-Part vii — Offences included as serious offences
+[S 33/2008 wef 01/02/2008]
 
-
-
-
-with effect from 20th February 2008
+Part VII — Offences included as serious offences with effect from 20th February 2008
 
 Offences
 
@@ -4527,12 +4516,9 @@ Terrorist bombing
 
 Failure to disclose information about acts of terrorist bombing
 
-Part viii — Offences included as serious offences
+[S 83/2008 wef 20/02/2008]
 
-
-
-
-with effect from 1st May 2009
+Part VIII — Offences included as serious offences with effect from 1st May 2009
 
 Offences
 
@@ -4558,11 +4544,15 @@ Possession of chips outside designated site
 
 Forgery
 
-Part ix — Offences included as serious offences with effect from 22nd January 2010
+[S 187/2009 wef 01/05/2009]
+
+Part IX — Offences included as serious offences with effect from 22nd January 2010
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Health Products Act (Cap\. 122D) 
 
@@ -4592,16 +4582,15 @@ Radiation Protection Act (Cap\. 262)
 
 Transport of radioactive waste.
 
-Part x — Offences included as serious offences
+[S 28/2010 wef 22/01/2010]
 
-
-
-
-with effect from 21st November 2010
+Part X — Offences included as serious offences with effect from 21st November 2010
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Hostage-Taking Act 2010 (Act 19 of 2010 )
 
@@ -4609,14 +4598,13 @@ Hostage-Taking Act 2010 (Act 19 of 2010 )
 
 Hostage-taking
 
-Part xi — Offences included as serious offences
+[S 667/2010 wef 21/11/2010]
 
+Part XI — Offences included as serious offences with effect from 15th February 2011
 
+Offences
 
-
-with effect from 15th February 2011
-
-[S 59/2011 wef 15/02/2011]
+Description: The short description of offences in this Schedule is for ease of reference only.\*
 
 Employment of Foreign Manpower Act (Cap\. 91A) 
 
@@ -4628,17 +4616,19 @@ Employment of foreign employee without a valid work pass, or in contravention of
 
 Contravention of a condition of a work pass, making false statement or giving false information to the Controller of Work Passes or an employment inspector, dealing in, forging or unlawfully altering a work pass, or using or having in possession a forged or unlawfully altered work pass or a work pass issued to another
 
-Hostage-Taking Act 2010(Act 19 of 2010) 
+Hostage-Taking Act 2010 (Act 19 of 2010) 
 
 369. Section 5
 
 Failure to disclose information relating to hostage-taking offence
 
-Immigration Act(Cap\. 133) 
+Immigration Act (Cap\. 133) 
 
 370. Section 57(1)(d)
 
 Harbouring offenders of Immigration Act or Regulations
+
+[S 59/2011 wef 15/02/2011]
 
 ## LEGISLATIVE HISTORY
 
@@ -4777,6 +4767,11 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|2 January 2011|
 |30.|**G. N. No. S 59/2011—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2011**|
 ||Date of commencement|15 February 2011|
+|31.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
