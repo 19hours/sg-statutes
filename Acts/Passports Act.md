@@ -1280,7 +1280,9 @@ General provisions
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection.
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[2/2012 wef 01/03/2012]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -1557,7 +1559,7 @@ This Legislative History is provided for the convenience of users of the Passpor
 ||Date of commencement|25 January 1971|
 |2.|**1985 Revised Edition—Passports Act**|
 ||Date of operation|30 March 1987|
-|3.|**Act 33 of 2007—Passports Acts 2007**|
+|3.|**Act 33 of 2007—Passports Act 2007**|
 ||Date of First Reading|21 May 2007|
 |||(Bill No. 21/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|16 July 2007|
@@ -1569,11 +1571,16 @@ The Passports Act 2007 repealed the Passports Act (Chapter 220, 1985 Revised Edi
 |4.|**2008 Revised Edition—Passports Act**|
 ||Date of operation|31 December 2008|
 |5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
 ## COMPARATIVE TABLE
 
 Passports Act
