@@ -192,6 +192,8 @@
 
 - [53 Transitional provisions](#Transitional-provisions)
 
+[**THE SCHEDULE**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
@@ -582,29 +584,25 @@ the obligation to do that act or thing shall continue, notwithstanding that that
 
 [4/99]
 
-(2) Subject to the directions of the Commissioner of Building Control, the powers conferred and the duties imposed on the Commissioner of Building Control under this Act and the building regulations may be exercised and carried out by —
+(2) The Commissioner of Building Control may generally or specially authorise, by name or office, any of the following persons to exercise or carry out, subject to such conditions or limitations as the Commissioner of Building Control may specify by directions, all or any of the powers conferred or duties imposed on the Commissioner of Building Control under this Act:
 
-(a) any public officer; and
+(a) any public officer;
 
-(b) any qualified person who is in the employment of —
+(b) any officer of the Building and Construction Authority;
 
-(i) the Housing and Development Board;
+(c) any officer of such other public authority constituted by any written law as the Minister may approve for this purpose.
 
-(ii) the Land Transport Authority of Singapore; or
+[Act 2 of 2012 wef 01/03/2012]
 
-(iii) such other public authority constituted by any written law as the Minister may approve for the purpose,
+(3) Any person who is authorised under subsection (2) to exercise any power or carry out any duty of the Commissioner of Building Control under this Act shall —
 
-generally or specially authorised by name or office by the Commissioner of Building Control.
+(a) when exercising that power or carrying out that duty, comply with the directions of the Commissioner of Building Control;
 
-[18/95; 4/99]
+(b) be deemed to be a public servant for the purposes of the Penal Code (Cap. 224); and
 
-(3) Any qualified person who is generally or specially authorised under subsection (2) to exercise the powers or to carry out the duties of the Commissioner of Building Control under this Act shall —
+(c) if the person is an officer referred to in subsection (2)(b) or (c), be deemed to be a public officer for the purposes of this Act.
 
-(a) be deemed to be public officers for the purposes of this Act; and
-
-(b) be public servants within the meaning of the Penal Code (Cap. 224).
-
-[4/99]
+[Act 2 of 2012 wef 01/03/2012]
 
 ## PART II
 
@@ -920,7 +918,9 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (b) where the qualified person appointed to prepare the plans of any building works intends to utilise any alternative solution (that is to say, a solution that entails the use of any design, material or construction method that differs completely or partially from those in the acceptable solution), he shall —
 
-(i) take all reasonable steps and exercise due diligence to ensure that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and
+(i) take all reasonable steps and exercise due diligence to ensure that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; or
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (ii) obtain the certification of another qualified person, being a specialist in the application of such an alternative solution, that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works.
 
@@ -1296,6 +1296,8 @@ in which shall be entered the names and prescribed particulars of the persons an
 
 (b) it satisfies the Commissioner of Building Control that it meets such requirements as may be prescribed for such registration or renewal.
 
+[47/2007 wef 15/02/2008]
+
 ### Registration of accredited checkers, etc., or accredited checking organisations
 
 16\.—(1) An application for registration, or to renew any registration, as —
@@ -1528,6 +1530,8 @@ and if the failure to comply continues after the conviction, the person shall be
 
 (7) This section shall apply to any building works, whether or not for or connected with any temporary building.
 
+[47/2007 wef 15/02/2008]
+
 ### Building offences
 
 20\.—(1) Any person who commences or carries out, or permits or authorises the commencement or carrying out of —
@@ -1562,7 +1566,9 @@ and if the contravention continues after the conviction, the person shall be gui
 
 (4) Any person who, being required by or by virtue of this Act or the building regulations to make or produce to the Commissioner of Building Control any plan, declaration, certificate, report, record, notice or other document, or who, for the purpose of obtaining any licence, permit, waiver or approval from the Commissioner of Building Control under this Act or the building regulations or for the purpose of establishing any fact relevant to the administration of this Act or the building regulations —
 
-(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; and
+(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; or
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (b) produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular, or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with,
 
@@ -1711,6 +1717,8 @@ DISABILITY AND OTHER PERFORMANCE REQUIREMENTS FOR BUILDINGS
 (ii) in the case of a physical feature provided as part of building works to which Part II applies, the day a certificate of statutory completion is issued in respect of the building on the completion of those building works.
 
 (3) For the avoidance of doubt, this Part shall apply to the physical features of any building, whether constructed before, on or after the commencement of section 4 of the Building Control (Amendment) Act 2007.
+
+[47/2007 wef 15/02/2008]
 
 ### Duty of building owner, etc., not to alter
 
@@ -2014,9 +2022,13 @@ INSPECTION OF BUILDINGS
 
 (a) where the building (other than a special building) is used other than solely for residential purposes — after the fifth year commencing from the date the first temporary occupation permit or first certificate of statutory completion was issued in respect of the building, whichever was issued earlier, and thereafter at intervals of not less than 5 years from the date of the last notice under this section; or
 
+[34/2004 wef 01/10/2004]
+
 (b) where the building is a special building or is used solely for residential purposes — after the tenth year commencing from the date the first temporary occupation permit or first certificate of statutory completion was issued in respect of the building, whichever was issued earlier, and thereafter at intervals of not less than 10 years from the date of the last notice under this section.
 
 [18/95]
+
+[34/2004 wef 01/10/2004]
 
 (3) Every owner of a building to which this Part applies shall, on receipt of a notice under subsection (1), cause the building to be inspected within the period specified in the notice and in the prescribed manner by a structural engineer appointed by the owner.
 
@@ -2032,6 +2044,8 @@ INSPECTION OF BUILDINGS
 
 (5A) Any person who hinders, obstructs or delays the structural engineer in the performance of his duty under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
+[47/2007 wef 15/02/2008]
+
 (6) A structural engineer appointed to carry out an inspection of a building under this section shall —
 
 (a) carry out the inspection in the prescribed manner;
@@ -2046,13 +2060,21 @@ INSPECTION OF BUILDINGS
 
 [18/95; 4/99]
 
+[34/2004 wef 01/10/2004]
+
 (8) Any owner of a building who contravenes or fails to comply with a notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[47/2007 wef 15/02/2008]
 
 (9) Any owner of a building who fails to comply with subsection (3), (4) or (7) within the period specified in the notice under subsection (1) or within the period specified under subsection (7), as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both, and in respect of a continuing contravention, to an additional fine not exceeding $500 for each day or part thereof during which the contravention continues, and if the contravention continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.
 
 [18/95]
 
+[47/2007 wef 15/02/2008]
+
 (10) Any structural engineer who contravenes or fails to comply with subsection (6)(a), (b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[47/2007 wef 15/02/2008]
 
 (11) The Minister may, by order, provide for the application of this section with such adaptations or modifications as may be specified therein to buildings in respect of which no certificate of fitness for occupation has been issued under regulations made under the repealed Act.
 
@@ -2129,8 +2151,6 @@ LICENSING OF BUILDERS
 (c) pre-cast concrete work comprising casting of pre-cast reinforced concrete slabs or planks on site; and
 
 (d) such other specialist building works as the Minister may, by notification in theGazette, declare to be minor specialist building works;
-
-[30 of 2008 wef 17/12/2008]
 
 “partnership” includes a limited liability partnership;
 
@@ -2280,9 +2300,7 @@ including —
 
 (i) his personal supervision; or
 
-(ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience
-
-[30 of 2008 wef 17/12/2008]
+(ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience.
 
 (2) Where a natural person applies for a general builder’s licence in partnership with another natural person or other natural persons, the partnership shall, subject to subsections (4) and (5), be eligible to be granted such a licence if, and only if —
 
@@ -2301,8 +2319,6 @@ including —
 (ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a partner,
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
-
-[30 of 2008 wef 17/12/2008]
 
 (3) Subject to subsection (4), a corporation which applies for a general builder’s licence, shall be eligible to be granted such a licence if, and only if —
 
@@ -2332,8 +2348,6 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
 
-[30 of 2008 wef 17/12/2008]
-
 (4) Notwithstanding subsection (1), (2) or (3), the Commissioner may require an applicant under that subsection to satisfy him that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy him.
 
 (5) No natural person and no partnership shall be eligible for a Class 1 general builder’s licence.
@@ -2358,8 +2372,6 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 
 (ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience.
 
-[30 of 2008 wef 17/12/2008]
-
 (2) Where a natural person applies in partnership with another natural person or other natural persons for a specialist builder’s licence for any class of specialist building works, the partnership shall, subject to subsection (4), be eligible to be granted such a specialist builder’s licence if, and only if —
 
 (a) at least one partner satisfies the Commissioner that he meets the requirements of subsection (1);
@@ -2377,8 +2389,6 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 (ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a partner,
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
-
-[30 of 2008 wef 17/12/2008]
 
 (3) Subject to subsection (4), a corporation which applies for a specialist builder’s licence for any class of specialist building works, shall be eligible to be granted such a licence if, and only if —
 
@@ -2403,8 +2413,6 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 (ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management,
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
-
-[30 of 2008 wef 17/12/2008]
 
 (4) Notwithstanding subsection (1), (2) or (3), the Commissioner may require an applicant under that subsection to satisfy him that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy him.
 
@@ -2434,7 +2442,7 @@ the licensed general builder shall notify the Commissioner of the change within 
 
 (5) In this section, unless the context otherwise requires —
 
-“appointed day” means such day as the Minister may, by notification in the Gazette, specify to be the appointed day for the purposes of this section;
+“appointed day” means such day as the Minister may, by notification in theGazette, specify to be the appointed day for the purposes of this section;
 
 “construction foreman” means a natural person who carries out, or undertakes to carry out, for or on behalf of another person for a fixed sum, percentage, or valuable consideration, wages or other reward, the supervision and co-ordination of construction tradesmen or other workman in any prescribed class of work connected with any building works, and a construction foreman shall be classified according to the class of work he so supervises for reward;
 
@@ -2456,7 +2464,9 @@ the licensed general builder shall notify the Commissioner of the change within 
 
 “significant general building work project” means any building works the value of which is $10 million or such other amount as the Minister may, by order in theGazette, specify in lieu thereof, or more.
 
-[30 of 2008 wef 17/12/2008]
+[47/2007 wef 16/12/2008]
+
+[30/2008 wef 17/02/2008]
 
 ### Other conditions of builder’s licence
 
@@ -2468,7 +2478,9 @@ the licensed general builder shall notify the Commissioner of the change within 
 
 (i) by himself; or
 
-(ii) by at least one of his employees who is employed to manage and supervise those building works undertaken and who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case may be; and
+(ii) by at least one of his employees who is employed to manage and supervise those building works undertaken and who has the prescribed qualifications and prescribed practical experience referred to in section 29F(1)(d)(ii) or 29G(1)(d)(ii), as the case may be; and
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (b) the name of that licensed builder or employee shall appear in any sign affixed or erected on the site where the general building works or specialist building works are carried out.
 
@@ -2478,7 +2490,9 @@ the licensed general builder shall notify the Commissioner of the change within 
 
 (b) at least one of its employees who is employed in such a manner and with such similar duties and responsibilities as a partner,
 
-who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case may be.
+who has the prescribed qualifications and prescribed practical experience referred to in section 29F(2)(c) or 29G(2)(c), as the case may be.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (4) Where any general building works or specialist building works are carried out by a licensed builder which is a corporation, the corporation shall ensure that the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised by —
 
@@ -2486,7 +2500,9 @@ who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case 
 
 (b) at least one of its employees who is employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management,
 
-who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case may be.
+who has the prescribed qualifications and prescribed practical experience referred to in section 29F(3)(f) or 29G(3)(f), as the case may be.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (5) It shall be a condition of every builder’s licence granted to a partnership or a corporation that the management of the business of the partnership or corporation in so far it relates to general building works or specialist building works, as the case may be, shall at all times be under the charge and direction of —
 
@@ -2505,6 +2521,8 @@ who satisfies the Commissioner that he meets the requirements of section 29F(2)(
 (b) specifying the time (being not less than 14 days from the date of service of notice on the licensed builder concerned) within which written representations with respect to the proposed modification may be made.
 
 (8) Upon receipt of any written representation referred to in subsection (7)(b), the Commissioner shall consider the representation and may reject the representation or amend the proposed modification in accordance with the representation, or otherwise and, in either event, shall thereupon issue a direction in writing to the licensed builder concerned requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the Commissioner within a reasonable time.
+
+[47/2007 wef 16/12/2008]
 
 ### Revocation of licences, etc.
 
@@ -2658,9 +2676,11 @@ Miscellaneous
 
 ### Protection from liability
 
-32\.—(1) No liability shall lie against the Government or any public officer by reason of the fact that any building works are carried out in accordance with the provisions of this Act or that such building works or plans of the building works are subject to inspection or approval by the Commissioner of Building Control or the public officer.
+32\.—(1) No liability shall lie against any public officer by reason of the fact that any building works are carried out in accordance with the provisions of this Act or that such building works or plans of the building works are subject to inspection or approval by the Commissioner of Building Control or the public officer.
 
 [4/99]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) Nothing in this Act shall make it obligatory for the Commissioner of Building Control to inspect any building or building works or the site of any proposed building to ascertain whether the provisions of this Act are complied with or whether any plans, certificates, notices or other documents submitted to him are accurate.
 
@@ -2686,7 +2706,7 @@ Miscellaneous
 
 (c) taking any action or carrying out any work, authorised or required by this Act or the building regulations; or
 
-(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(4) or 11 (1) (c), respectively.
+(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(4) or 11(1)(c), respectively.
 
 (1A) For the purposes of subsection (1), the Commissioner of Building Control or a person appointed under subsection (1) may take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
 
@@ -2749,6 +2769,8 @@ Miscellaneous
 a Magistrate’s Court, upon proof thereof and upon application by the owner, may make an order in writing requiring the occupier to permit the owner to execute all such work or to make such provision with respect to the premises as may be required by the provisions of this Act or the building regulations and may also, if the Court thinks fit, order the occupier to pay to the owner the costs relating to the application or order.
 
 (2) If, after the expiration of 8 days from the date of the order, the occupier continues to refuse to permit the owner to execute such work or make such provision as may be required by the provisions of this Act or the building regulations, the occupier shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which he so continues to refuse.
+
+[47/2007 wef 15/02/2008]
 
 (3) Every such owner shall, during the continuance of such refusal, be discharged from any penalties to which he might otherwise have become liable by reason of his default in executing the work or making provision in respect of the premises or building.
 
@@ -3108,6 +3130,10 @@ and such building shall be deemed unauthorised for the purposes of this Act.
 
 [54
 
+## THE SCHEDULE
+
+Deleted by Act 47/2007, wef 15/02/2008.
+
 ## LEGISLATIVE HISTORY
 
 Building Control Act
@@ -3220,6 +3246,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|21.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (except sections 26 and 29)|
 ## COMPARATIVE TABLE
 
 Building Control Act
