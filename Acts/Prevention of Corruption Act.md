@@ -56,6 +56,8 @@
 
 - [15 Powers of arrest](#Powers-of-arrest)
 
+- [15A Director and officers to be armed](#Director-and-officers-to-be-armed)
+
 - [16 Provisions as to bail or bond](#Provisions-as-to-bail-or-bond)
 
 - [17 Powers of investigation](#Powers-of-investigation)
@@ -124,6 +126,8 @@ An Act to provide for the more effectual prevention of corruption.
 
 PRELIMINARY
 
+[29/2002 wef 30/01/2003]
+
 ### Short title
 
 1\. This Act may be cited as the Prevention of Corruption Act.
@@ -180,31 +184,43 @@ PRELIMINARY
 
 APPOINTMENT OF STAFF AND PERSONNEL MATTERS
 
+[29/2002 wef 30/01/2003]
+
 ### Appointment of Director and officers
 
 3\.—(1) The President may appoint an officer to be the Director of the Corrupt Practices Investigation Bureau:
 
 Provided that the President acting in his discretion may refuse to appoint or revoke the appointment of the Director if he does not concur with the advice or recommendation of the Cabinet or a Minister acting under the general authority of the Cabinet.
 
-(2) The President may appoint a Deputy Director of the Corrupt Practices Investigation Bureau and such number of assistant directors and special investigators of the Corrupt Practices Investigation Bureau as he may think fit.
+(2) The President may appoint such number of deputy directors, assistant directors and special investigators of the Corrupt Practices Investigation Bureau as he may think fit.
 
-(3) Any powers conferred on and duties to be performed by the Director under this Act may, subject to the orders and directions of the Director, be exercised or performed by the Deputy Director or an assistant director of the Corrupt Practices Investigation Bureau.
+[Act 2 of 2012 wef 01/03/2012]
 
-(4) The Deputy Director and an assistant director of the Corrupt Practices Investigation Bureau may exercise the powers conferred by this Act on a special investigator.
+(3) Any powers conferred on and duties to be performed by the Director under this Act may, subject to the orders and directions of the Director, be exercised or performed by a deputy director or an assistant director of the Corrupt Practices Investigation Bureau.
 
-(5) The President may create such different grades for assistant directors and special investigators as he may think fit.
+[Act 2 of 2012 wef 01/03/2012]
+
+(4) A deputy director and an assistant director of the Corrupt Practices Investigation Bureau may exercise the powers conferred by this Act on a special investigator.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(5) The President may create such different grades for deputy directors, assistant directors and special investigators as he may think fit.
 
 [25/81]
 
 [11/91]
 
+[Act 2 of 2012 wef 01/03/2012]
+
 ### Director and officers deemed to be public servants
 
-4\.—(1) The Director, Deputy Director, assistant directors and special investigators of the Corrupt Practices Investigation Bureau shall be deemed to be public servants within the meaning of the Penal Code.
+4\.—(1) The Director, deputy directors, assistant directors and special investigators of the Corrupt Practices Investigation Bureau shall be deemed to be public servants within the meaning of the Penal Code.
 
-(2) A certificate of appointment signed by the Director shall be issued to every officer of the Corrupt Practices Investigation Bureau and shall be evidence of his appointment under this Act.
+[Act 2 of 2012 wef 01/03/2012]
 
-[25/81]
+(2) A warrant card shall be issued to every officer of the Corrupt Practices Investigation Bureau referred to in subsection (1) and shall be evidence of his appointment under this Act.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Establishment of Occupational Superannuation Scheme
 
@@ -220,8 +236,6 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 (c) any allowance, subsidy or other benefit to such former members of the Scheme as may be prescribed after their retirement from the service.
 
-[29/2002 wef 30/01/2003]
-
 (3) The regulations made under subsection (1) may provide for —
 
 (a) the payment of contributions in respect of each member;
@@ -232,8 +246,6 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 (d) the bringing of appeals against decisions of award officers and the appointment of one or more persons to hear such appeals and review the decisions of award officers.
 
-[29/2002 wef 30/01/2003]
-
 (4) In making regulations under subsection (1), the Minister shall also provide for —
 
 (a) every CPIB officer who is appointed before 1st November 2001 and who, immediately before that date, is eligible (whether on retirement or in respect of death or injury in or attributable to service) for any pension, gratuity or other allowance under the Pensions Act (Cap. 225); and
@@ -242,15 +254,11 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 an option to join the Scheme as a member and for the terms and conditions of such an option.
 
-[29/2002 wef 30/01/2003]
-
 (5) The regulations made in relation to CPIB officers referred to in subsection (4) shall provide —
 
 (a) in the case of an officer referred to in subsection (4)(a), that any such officer who opts to join the Scheme shall cease to be eligible to benefits under the Pensions Act but shall remain eligible under the Scheme to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from the service, or was injured or died in service, on the date immediately before his joining the Scheme; and
 
 (b) in the case of an officer referred to in subsection (4)(b), that any such officer who opts to join the Scheme shall remain eligible to benefits not less in value than the amount of any gratuity or other like benefit for which he would have been granted under his contract if he had completed his term of service under the contract on the date immediately before his joining the Scheme.
-
-[29/2002 wef 30/01/2003]
 
 (6) Any option exercised by any CPIB officer before 1st November 2001 to join or not to join the Scheme shall be deemed to be exercised in accordance with the regulations made under subsection (1) in relation to CPIB officers referred to in subsection (4).
 
@@ -260,11 +268,7 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 
 4B\.—(1) No member shall have an absolute right to compensation for past services or to any pension, gratuity, allowance or other benefit under the Scheme.
 
-[29/2002 wef 30/01/2003]
-
 (2) Nothing in this Act shall limit the right of the Public Service Commission, or any of its delegates, to dismiss any CPIB officer who is a member from the service without compensation.
-
-[29/2002 wef 30/01/2003]
 
 (3) Subject to Article 113 of the Constitution, where it is established to the satisfaction of an award officer that a member has been guilty of negligence, irregularity or misconduct, it shall be lawful for the award officer to reduce or altogether withhold the pension, gratuity, allowance or other benefit for which the member would but for this section have become eligible under the Scheme.
 
@@ -277,8 +281,6 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 (a) a debt due to the Government; or
 
 (b) an order of court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child (whether legitimate or not) of the member to whom the payment, allowance or other benefit has been granted.
-
-[29/2002 wef 30/01/2003]
 
 (2) Subject to the provisions of any regulations made under section 4A, all moneys paid or payable under the Scheme on the death of a member thereof —
 
@@ -300,15 +302,9 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 
 4E\.—(1) No contribution by the Government made under the Scheme and no interest thereon shall be subject to the debts of any member thereof, nor shall such contributions and interest pass to the Official Assignee on the bankruptcy of the member.
 
-[29/2002 wef 30/01/2003]
-
 (2) If a member is adjudicated a bankrupt or is declared insolvent by a court of law, such contributions and interest shall be deemed to be excluded from the property of the bankrupt for the purposes of the Bankruptcy Act (Cap. 20).
 
-[29/2002 wef 30/01/2003]
-
 (3) If, at the date of his retirement or resignation from the service, any member has been adjudged a bankrupt by judgment of a court of competent jurisdiction, whether in Singapore or elsewhere, and he has not obtained his discharge from such adjudication or declaration, it shall be lawful for an award officer to refuse to grant any pension, gratuity or other allowance which would, if not for this subsection, be granted.
-
-[29/2002 wef 30/01/2003]
 
 (4) If any person to whom a pension or other allowance has been granted under this Act —
 
@@ -318,31 +314,19 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 
 the Minister may direct that such pension or allowance shall forthwith cease, and thereupon such pension or allowance shall cease accordingly.
 
-[29/2002 wef 30/01/2003]
-
 (5) Where, by reason of bankruptcy of a member or former member, a pension, gratuity or allowance is not granted or where a pension or allowance ceases by virtue of a direction under subsection (4)(a), it shall be lawful for the Minister to cause all or any part of the moneys to which such person would have been entitled by way of pension, gratuity or allowance, had he not become a bankrupt or sentenced for any crime or offence, as the case may be, to be paid to, or applied for the maintenance and personal support or benefit of, all or any (to the exclusion of the others) of the following persons in such proportions and manner as the Minister thinks proper:
 
 (a) the member or former member himself; and
 
 (b) his spouse, child or children.
 
-[29/2002 wef 30/01/2003]
-
 (6) The Minister may exercise his power under subsection (5), from time to time, during the remainder of the member’s or former member’s life, or during such shorter period or periods, either continuous or discontinuous, as the Minister thinks fit.
-
-[29/2002 wef 30/01/2003]
 
 (7) When a person to whom a pension or allowance has not been granted or whose pension or allowance has ceased under this section obtains a full and proper discharge from his bankruptcy, his pension or allowance shall be restored to him with effect from the date of such discharge.
 
-[29/2002 wef 30/01/2003]
-
 (8) For the purposes of subsection (5), moneys applied for the discharge of the debts of the member or former member, as the case may be, shall be regarded as applied for his benefit.
 
-[29/2002 wef 30/01/2003]
-
 (9) Notwithstanding subsection (4), any pension or allowance that has ceased by virtue of a direction under subsection (4)(b) shall be restored with retrospective effect in the case of a person who, after conviction, at any time receives a free pardon.
-
-[29/2002 wef 30/01/2003]
 
 (10) Where a pension or allowance ceases by virtue of a direction under subsection (4)(b), it shall be lawful for the Minister to cause all or any part of moneys to which the person would have been entitled by way of pension or allowance to be paid to or applied for the benefit of his spouse, child or children, or after the expiration of his sentence, also for the benefit of himself, in the same manner precisely and subject to the same qualifications and restrictions as in the case of bankruptcy provided in subsection (5).
 
@@ -356,15 +340,11 @@ the Minister may direct that such pension or allowance shall forthwith cease, an
 
 (b) such sum from the Pension Fund established by the Pension Fund Act (Cap. 224A) as the Minister for Finance may determine as the value of that part of the Pension Fund relating to all those CPIB officers referred to in section 4A(4)(a) who exercise an option in favour of joining the Scheme in accordance with the regulations under section 4A.
 
-[29/2002 wef 30/01/2003]
-
 (2) The INVEST Fund comprising moneys referred to in subsection (1) shall be applied to meet the following purposes only:
 
 (a) the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the Scheme; and
 
 (b) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the Scheme and expressly provided by regulations made under this Act to be met from the INVEST Fund.
-
-[29/2002 wef 30/01/2003]
 
 (3) The moneys referred to in subsection (1) shall be paid into the INVEST Fund as capital money, and shall not be used to make payment of any dividend under the Scheme.
 
@@ -373,6 +353,8 @@ the Minister may direct that such pension or allowance shall forthwith cease, an
 ## PART III
 
 OFFENCES AND PENALTIES
+
+[29/2002 wef 30/01/2003]
 
 ### Punishment for corruption
 
@@ -490,6 +472,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 POWERS OF ARREST AND INVESTIGATION
 
+[29/2002 wef 30/01/2003]
+
 ### Powers of arrest
 
 15\.—(1) The Director or any special investigator may without a warrant arrest any person who has been concerned in any offence under this Act or against whom a reasonable complaint has been made or credible information has been received or a reasonable suspicion exists of his having been so concerned.
@@ -501,6 +485,14 @@ POWERS OF ARREST AND INVESTIGATION
 [27/72]
 
 [25/81]
+
+### Director and officers to be armed
+
+15A\.—(1) Every relevant officer of the Corrupt Practices Investigation Bureau shall be provided with such staves, arms, ammunition and other accoutrements as may be necessary for the effective discharge of his duties.
+
+(2) In subsection (1), “relevant officer of the Corrupt Practices Investigation Bureau” means the Director, a deputy director, an assistant director or a special investigator of the Corrupt Practices Investigation Bureau.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Provisions as to bail or bond
 
@@ -522,7 +514,7 @@ POWERS OF ARREST AND INVESTIGATION
 
 17\.—(1) In any case relating to the commission —
 
-(a) of an offence under section 165 or under sections 213 to 215 of the Penal Code, or of any conspiracy to commit, or of any attempt to commit, or of any abetment of such an offence;
+(a) of an offence under section 165 or under sections 213 to 215 of the Penal Code [Cap. 224], or of any conspiracy to commit, or of any attempt to commit, or of any abetment of such an offence;
 
 (b) of an offence under this Act; or
 
@@ -530,13 +522,15 @@ POWERS OF ARREST AND INVESTIGATION
 
 the Director or a special investigator may, without the order of the Public Prosecutor, exercise all or any of the powers in relation to police investigations into any offence given by the Criminal Procedure Code:
 
-Provided that an investigation into an offence under the Penal Code shall be deemed to be a police investigation to which sections 23 and 258 of the Criminal Procedure Code 2010 shall apply in the same manner and to the same extent as if the Director or the special investigator concerned were a police officer.
+Provided that an investigation into an offence under the Penal Code [Cap. 224] shall be deemed to be a police investigation to which sections 23 and 258 of the Criminal Procedure Code 2010 shall apply in the same manner and to the same extent as if the Director or the special investigator concerned were a police officer.
 
-[27/92; 25/81; 29/89]
+[27/72; 25/81; 29/89]
 
 [15/2010 wef 02/01/2011]
 
 (2) For the purpose of sections 20(1) and 258(2) of the Criminal Procedure Code 2010, the Director or a special investigator shall be deemed to be an officer not below the rank of inspector of police.
+
+[16
 
 [15/2010 wef 02/01/2011]
 
@@ -566,6 +560,8 @@ Provided that an investigation into an offence under the Penal Code shall be dee
 
 “bank” means any company carrying on the business of bankers in Singapore incorporated or licensed under any written law;
 
+[37/1998 wef 16/11/1998]
+
 “banker’s book” includes any ledger, day book, cash book, account book or other book or document used in the ordinary course of the business of a bank.
 
 [19
@@ -576,7 +572,7 @@ Provided that an investigation into an offence under the Penal Code shall be dee
 
 ### Public Prosecutor’s powers to obtain information
 
-21\.—(1) In the course of any investigation or proceedings into or relating to an offence by any person in the service of the Government or of any department thereof or of any public body under this Act or under sections 161 to 165 or 213 to 215 of the Penal Code or a conspiracy to commit, or an attempt to commit, or an abetment of any such offence, the Public Prosecutor may, notwithstanding anything in any other written law to the contrary, by written notice —
+21\.—(1) In the course of any investigation or proceedings into or relating to an offence by any person in the service of the Government or of any department thereof or of any public body under this Act or under sections 161 to 165 or 213 to 215 of the Penal Code [Cap. 224] or a conspiracy to commit, or an attempt to commit, or an abetment of any such offence, the Public Prosecutor may, notwithstanding anything in any other written law to the contrary, by written notice —
 
 (a) require that person to furnish a sworn statement in writing enumerating all movable or immovable property belonging to or possessed by that person and by the spouse, sons and daughters of that person, and specifying the date on which each of the properties enumerated was acquired whether by way of purchase, gift, bequest, inheritance or otherwise;
 
@@ -600,7 +596,7 @@ Provided that an investigation into an offence under the Penal Code shall be dee
 
 22\.—(1) Whenever it appears to any Magistrate or to the Director upon information and after such inquiry as he thinks necessary that there is reasonable cause to believe that in any place there is any document containing any evidence of, or any article or property relating to —
 
-(a) the commission of an offence under this Act, or under sections 161 to 165, or 213 to 215, of the Penal Code; or
+(a) the commission of an offence under this Act, or under sections 161 to 165, or 213 to 215, of the Penal Code [Cap. 224]; or
 
 (b) a conspiracy to commit, or any attempt to commit, or an abetment of any such offence,
 
@@ -621,6 +617,8 @@ and the special investigator or police officer has reasonable grounds for believ
 ## PART V
 
 EVIDENCE
+
+[29/2002 wef 30/01/2003]
 
 ### Evidence of custom inadmissible
 
@@ -645,6 +643,8 @@ EVIDENCE
 ## PART VI
 
 MISCELLANEOUS
+
+[29/2002 wef 30/01/2003]
 
 ### Obstruction of search
 
@@ -676,7 +676,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 28\. Any person who knowingly —
 
-(a) gives or causes to be given any false or misleading information relating to the commission of any offence under this Act or under section 165, 213, 214, or 215 of the Penal Code;
+(a) gives or causes to be given any false or misleading information relating to the commission of any offence under this Act or under section 165, 213, 214, or 215 of the Penal Code [Cap. 224];
 
 (b) gives or causes to be given to the Director or a special investigator any other false or misleading information,
 
@@ -706,13 +706,13 @@ shall be deemed to have committed the offence and shall be liable on conviction 
 
 ### Conspiracy
 
-31\. Whoever is a party to a criminal conspiracy, within the meaning of the Penal Code, to commit an offence under this Act shall be deemed to have committed the offence and shall be liable on conviction to be punished with the punishment provided for that offence.
+31\. Whoever is a party to a criminal conspiracy, within the meaning of the Penal Code [Cap. 224], to commit an offence under this Act shall be deemed to have committed the offence and shall be liable on conviction to be punished with the punishment provided for that offence.
 
 [29
 
 ### Offences to be seizable
 
-32\.—(1) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code.
+32\.—(1) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code [Cap. 68].
 
 (2) A public officer to whom any gratification is corruptly given or offered shall arrest the person who gives or offers the gratification to him and make over the person so arrested to the nearest police station and if he fails to do so without reasonable excuse he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -832,3 +832,8 @@ This Legislative History is provided for the convenience of users of the Prevent
 |||(Bill No. 11/2011 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|15.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 31 — Amendment of Prevention of Corruption Act)|
