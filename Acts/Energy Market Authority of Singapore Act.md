@@ -80,7 +80,7 @@
 
 - [31 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
 [**SECOND SCHEDULE Powers of Authority**](#SECOND-SCHEDULE-Powers-of-Authority)
 
@@ -292,9 +292,9 @@ the Minister may, after consultation with the Authority, give such directions to
 
 \*12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 29/07/2002 wef 15/07/2002]
+[5/2002]
 
-\*This section was not in operation as at 30th June 2002.
+\*This section came into operation on 15th July 2002 (S 342/2002).
 
 ### Duty of Authority in financial matters
 
@@ -442,7 +442,7 @@ FIRST SCHEDULE
 
 Section 5
 
-Constitution and Proceedings of Authority
+Constitution and proceedings of Authority
 
 Appointment of Chairman and members
 
@@ -528,7 +528,9 @@ Salaries and fees payable to members
 
 Quorum
 
-12.—(1) At every meeting of the Authority, 3 members shall constitute a quorum and no business shall be transacted unless a quorum is present.
+12.—(1) The quorum at every meeting of the Authority shall be one-third of the total number of members in office or 3 members, whichever is the higher, and no business shall be transacted unless a quorum is present.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The Chairman, or in his absence the Deputy Chairman, shall preside at meetings of the Authority, and if both the Chairman and Deputy Chairman are absent from any meeting or part thereof, such member as the members present may elect shall preside at that meeting or part thereof.
 
@@ -654,7 +656,7 @@ Energy Market Authority of Singapore Act
 
 (CHAPTER 92B)
 
-This Legislative History is provided for the convenience of users of the Energy Market Authority of Singapore Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Energy Market Authority of Singapore Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -672,8 +674,13 @@ This Legislative History is provided for the convenience of users of the Energy 
 |3.|**2002 Revised Edition—Energy Market Authority of Singapore Act**|
 ||Date of operation|31 July 2002|
 |4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 September 2004|
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|22 September 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 8 — Amendment of Energy Market Authority of Singapore Act)|
