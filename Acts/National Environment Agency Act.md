@@ -226,7 +226,9 @@ all of whom shall be appointed by the Minister.
 
 ### Meetings and proceedings of Agency
 
-9\.—(1) At all meetings of the Agency, 4 members shall form a quorum.
+9\.—(1) The quorum at every meeting of the Agency shall be one‑third of the total number of members in office or 4 members, whichever is the higher.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The Chairman or, in his absence, the Deputy Chairman shall preside at all meetings of the Agency and, in the absence of the Chairman and the Deputy Chairman, the members present shall elect one of their number to preside.
 
@@ -803,6 +805,11 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 14/2007 published on 9 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Date of commencement|1 July 2007|
+|6.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
