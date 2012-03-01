@@ -767,7 +767,12 @@ shall disclose any information relating to the affairs of the Authority or of an
 
 ## PART III
 
-TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND EMPLOYEES TO SUCCESSOR COMPANY
+TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND
+
+
+
+
+EMPLOYEES TO SUCCESSOR COMPANY
 
 ### Transfer date
 
@@ -794,6 +799,10 @@ TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND EMPLOYEES TO SUCCESSOR COMPANY
 (a) shall be for such tenure and subject to such terms and conditions as the Authority may determine; and
 
 (b) shall be a concurrent lease in respect of excluded property which is the subject of any existing lease; and “existing lease” means a lease of any part of the excluded property which is in force immediately before the transfer date.
+
+(4A) All assets, powers, rights, interests, privileges, debts, liabilities and obligations connected with the part of the excluded property transferred to the successor company under subsection (4)(a) shall be deemed, on the transfer date, by virtue of this section and without further assurance, to have become the assets, powers, rights, interests, privileges, debts, liabilities and obligations of the successor company.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (5) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the successor company under subsection (2) or (4), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -2193,7 +2202,7 @@ in the performance and execution of any matter or thing which he is authorised t
 
 79\. No court shall try any offence under this Act or any regulations or rules except with the consent of the Public Prosecutor.
 
-[15/2010 wef 02/01/2011]
+[Act 15 of 2010 wef 02/01/2011]
 
 ### Power to remove persons, etc., and arrest
 
@@ -2301,7 +2310,9 @@ stating that the Authority or authorised officer wishes to disclose the informat
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection.
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -2337,7 +2348,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-85\.—(1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
+85\. (1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
