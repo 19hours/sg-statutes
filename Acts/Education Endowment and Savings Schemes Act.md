@@ -358,9 +358,13 @@ WITHDRAWAL FROM EDUSAVE PUPILS FUND
 
 ### Moneys payable on death of member of Edusave Pupils Fund
 
-16\.—(1) On the death of a member of the Edusave Pupils Fund, the total amount standing to his credit in his Edusave account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
+16\.—(1) Where a member of the Edusave Pupils Fund dies, the total amount standing to his credit in his Edusave account shall be paid to the Public Trustee for disposal in accordance with —
 
-[52/2007]
+(a) the Intestate Succession Act (Cap. 146), if the member was not a Muslim at the time of his death; or
+
+(b) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member was a Muslim at the time of his death.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The receipt of the Public Trustee shall be a good discharge to the Board for such portions of the moneys payable out of the Edusave account on the death of a member of the Edusave Pupils Fund as are payable to the Public Trustee under subsection (1).
 
@@ -580,9 +584,13 @@ and thereupon he shall cease to be a member of the PSE Fund.
 
 ### Moneys payable on death of member of PSE Fund
 
-16H\.—(1) On the death of a member of the PSE Fund, the total amount standing to his credit in his PSE account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
+16H\.—(1) Where a member of the PSE Fund dies, the total amount standing to his credit in his PSE account shall be paid to the Public Trustee for disposal in accordance with —
 
-[52/2007]
+(a) the Intestate Succession Act (Cap. 146), if the member was not a Muslim at the time of his death; or
+
+(b) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member was a Muslim at the time of his death.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The receipt of the Public Trustee shall be a good discharge to the PSE Scheme Administrator for such portions of the moneys payable out of the PSE account on the death of a member of the PSE Fund as are payable to the Public Trustee under subsection (1).
 
@@ -762,7 +770,7 @@ Education Endowment and Savings Schemes Act
 
 (CHAPTER 87A)
 
-This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of this Scheme.
 
 ||||
 |:-|:-|:-|
@@ -802,3 +810,8 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 8/2011 published on 28 February 2011)|
 ||Date of Second and Third Readings|10 March 2011|
 ||Date of commencement|1 May 2011|
+|9.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (except sections 26 and 29)|
