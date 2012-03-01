@@ -1070,11 +1070,9 @@ RELIEFS
 
 ### Zero-rating for exports and international services
 
-21\.—(1) Subject to this section and sections 21A, 21B and 21C, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
+21\.—(1) Subject to this section and section 21A, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
 
 [28/2007 wef 01/07/2007]
-
-[Act 19/2012 wef 01/01/2012]
 
 (2) Where a taxable person supplies goods or services and the supply is zero-rated, then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1102,7 +1100,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (B) from a place in Singapore or to a place in Singapore, and substantially outside Singapore;
 
-(iii) [ [Deleted by Act 20/2010 wef 01/01/2011 wef 01/01/2011 wef 01/01/2011]]
+(iii) [Deleted by Act 20/2010 wef 01/01/2011]
 
 (b) services (including any ancillary transport activities such as loading, unloading and handling) comprising the transport of goods from a place in Singapore to another place in Singapore to the extent that those services are supplied by the same supplier as part of the supply of services to which paragraph (a)(i) and (ii) (other than in relation to any transportation that is from a place outside Singapore to another place outside Singapore) applies;
 
@@ -1286,11 +1284,9 @@ being services performed substantially in Singapore.
 
 [20/2010 wef 01/01/2011]
 
-(4A) For the purposes of subsection (3)(j), (k), (s) and (y), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
+(4A) For the purposes of subsection (3)(j), (k) and (s), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
 
 [50/2004]
-
-[Act 19 wef 01/01/2012]
 
 (4B) The services referred to in subsection (3)(e), (f), (g) and (j) shall not include any services comprising either of or both —
 
@@ -2098,7 +2094,7 @@ to be disregarded for the purposes of this Act (other than for the purposes of s
 
 [26/99]
 
-(2) Regulations made under subsection (1) may provide for the following in relation to goods to or on which a process has been applied or carried out:
+(2) Regulations made under subsection (1) may provide for the following in relation to goods to or on which a process has been applied or conducted:
 
 (a) for the goods —
 
@@ -2115,8 +2111,6 @@ to be disregarded for the purposes of this Act (other than for the purposes of s
 and, where any taxable person (including a taxable person referred to in subsection (1)) fails to do so, for the taxable person to pay to the Comptroller an amount equal to the tax that would have been payable if the taxable person had himself made a supply of the goods in the course or furtherance of his business;
 
 [24/2011 wef 01/01/2012]
-
-[Act 19/2012 wef 01/01/2012]
 
 (b) for a taxable person approved by the Comptroller who receives the goods from another approved person to declare, in such form and manner as the Comptroller may require, his receipt of those goods;
 
@@ -3072,7 +3066,9 @@ the assessment shall have effect as an assessment of the amount specified in the
 
 (2) The appellant or the Comptroller may appeal to the High Court from the decision of the Board upon any question of law or of mixed law and fact except on any case where the Board has determined that the tax payable or any amount due to the appellant is less than $500 excluding the amount of costs awarded.
 
-(3) The procedure governing and the costs of such appeals to the High Court shall be the same as for appeals to the High Court from decisions of District Courts in civil matters.
+(3) The procedure governing and the costs of any such appeal to the High Court shall be as provided for in the Rules of Court.
+
+[2/2012 wef 01/03/2012]
 
 (4) The High Court shall hear and determine any such appeal and may confirm, vary or annul the decision of the Board on appeal and make such further or other order on such appeal, whether as to costs or otherwise, as to the Court may consider fit.
 
@@ -4352,11 +4348,11 @@ Meaning of control
 
 (2) Where 2 or more persons together satisfy any of the conditions of sub-paragraph 4, they shall be taken to have control of the company.
 
-(3) For the purposes of sub-paragraphs 4 and (6), a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
+(3) For the purposes of sub-paragraphs (1) and (6), a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
 
 [S 107/94]
 
-(4) For the purposes of sub-paragraphs 4 and (2), there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
+(4) For the purposes of sub-paragraphs (1) and (2), there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
 
 (5) For the purposes of this paragraph, a “participator” is, in relation to any company, a person having a share or interest in the capital or income of the company.
 
@@ -4460,7 +4456,7 @@ Residential premises
 
 [20/2010 wef 01/01/2011]
 
-(2) For the purpose of sub-paragraph 13, the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
+(2) For the purpose of sub-paragraph (1), the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
 
 [20/2010 wef 01/01/2011]
 
@@ -5273,6 +5269,12 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2012 (Except Section 2)|
 |38.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
 ||Date of commencement|1 January 2012|
+|39.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 22 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (Except sections 26 and 29)|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
