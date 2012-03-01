@@ -28,6 +28,8 @@
 
 - [11 Powers and duties of Commissioners under section 10](#Powers-and-duties-of-Commissioners-under-section-10)
 
+- [11A Publication of revised edition of Acts in electronic form](#Publication-of-revised-edition-of-Acts-in-electronic-form)
+
 - [12 Publication of lists of titles of current Acts](#Publication-of-lists-of-titles-of-current-Acts)
 
 - [13 Validity of Acts not affected by omission from revised edition of Acts](#Validity-of-Acts-not-affected-by-omission-from-revised-edition-of-Acts)
@@ -100,6 +102,8 @@ An Act to make provision for the preparation and publication of a revised editio
 
 to prepare and publish a revised edition of Acts and a revised edition of subsidiary legislation and to make an annual revision thereof in accordance with the provisions of this Act.
 
+[6/94]
+
 (2) Every Commissioner appointed under subsection (1)(d) shall hold office for such period not exceeding 3 years as the President may determine and shall be eligible for re-appointment.
 
 [6/94]
@@ -109,8 +113,6 @@ to prepare and publish a revised edition of Acts and a revised edition of subsid
 [6/94]
 
 (4) In case any of the Commissioners, appointed under subsection (1), is unable from any cause fully to discharge his commission under this Act, the President may, by notification in theGazette, appoint some other person to be a Commissioner or temporarily in his stead to exercise the powers and discharge the duties of a Commissioner except that in case any Commissioner is unable from any cause fully to discharge his commission under this Act and no appointment has been made under this subsection, the remaining Commissioner or Commissioners shall have and may exercise all the powers and duties conferred by this Act upon the Commissioners.
-
-[6/94]
 
 ### Powers of Commissioners
 
@@ -140,9 +142,9 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (c) to add a long title or a short title to any Act and to alter the long title or the short title of any Act;
 
-(d) to supply or alter tables of contents, marginal notes, section headings, footnotes and the headings to Parts and Chapters of any Act;
+(d) to supply or alter tables of contents, footnotes, marginal notes, headings to sections and other provisions, and headings to Parts, Chapters and other subdivisions of any Act;
 
-[7/97 wef 01/10/1997]
+[Act 2 of 2012 wef 01/03/2012]
 
 (e) to adopt a convenient standard form in all Acts for —
 
@@ -216,7 +218,9 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (b) all unrepealed Acts enacted before 31st December 1985 and such other Acts enacted after that date as the Commissioners may think fit to include therein;
 
-(c) a table of contents, a chronological table of Acts and an index; and
+(c) a table of contents and a chronological table of Acts; and
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (d) a list of Acts omitted under section 5.
 
@@ -240,11 +244,11 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (b) at the top of every subsequent page of each such booklet the words “1985 Ed.”.
 
+[S 337/87]
+
 (2) The Commissioners shall cause the various booklets which have been compiled for the purposes of subsection (1) to be contained together in such number of volumes as they consider convenient.
 
 (3) A booklet shall be bound in such manner as will enable it to be easily removed from and replaced in a volume.
-
-[S 337/87]
 
 ### Annual revision of revised edition of Acts
 
@@ -258,17 +262,25 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (d) such treaties, conventions and other instruments enacted, made or agreed to during the relevant period as they consider may usefully be published; and
 
-(e) a new table of contents and index to the revised edition of Acts, a chronological table of Acts and a list of the latest edition of each booklet containing an Act included in the revised edition of Acts and, in the case of Acts which have been published or revised in loose-leaf form, a list of such Acts and the pages thereof which have been revised.
+(e) a new table of contents, a chronological table of Acts and a list of the latest edition of each booklet containing an Act included in the revised edition of Acts and, in the case of Acts which have been published or revised in loose-leaf form, a list of such Acts and the pages thereof which have been revised.
 
 [6/94]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The Commissioners may from time to time cause to be published a new revised edition of any Act, treaty, convention or other instrument which has not been amended during the relevant period.
 
 [6/94]
 
-(3) Where the Commissioners consider that the amendments that have been made to any Act, treaty, convention or other instrument during the relevant period are not sufficiently extensive to justify the preparation and publication of a new revised edition thereof, the Commissioners may defer the preparation and publication of such revised edition until such time as they consider that it is necessary or expedient to do so.
+(3) Where the Commissioners consider that the amendments that have been made to any Act, treaty, convention or other instrument during the relevant period are not sufficiently extensive to justify the preparation and publication of a new revised edition thereof, the Commissioners may defer the preparation and publication of such revised edition until such time as they consider that it is necessary or expedient to publish such revised edition.
 
 [6/94]
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(3A) Where any new Act referred to in subsection (1)(b), or any provision in that Act, does not come into force during the relevant period, the Commissioners may defer the preparation and publication of a revised edition of that Act until such time as they consider that it is necessary or expedient to publish a revised edition of that Act.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (4) The Commissioners may from time to time cause to be prepared and published a new revised edition of any Act, treaty, convention or other instrument if the Commissioners consider that any amendments which have been made thereto are sufficiently extensive to justify the immediate preparation and publication of such revised edition or that it is necessary or expedient to do so.
 
@@ -301,6 +313,18 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 (4) Every booklet or loose-leaf edition of any Act, treaty, convention or other instrument shall, as soon as possible after the publication of such order, be presented to Parliament.
 
 [6/94]
+
+### Publication of revised edition of Acts in electronic form
+
+11A\.—(1) The Commissioners may also cause any new Act, treaty, convention or other instrument, or a revised edition of any Act, treaty, convention or other instrument, that is or has been published in accordance with section 9 or 10 to be published in electronic form.
+
+(2) Notwithstanding sections 7(4) and 11(3), any Act, treaty, convention or other instrument published in electronic form under subsection (1) may, in all courts and for all purposes, be taken and accepted as prima facie evidence of the proper law of Singapore in respect of that Act, treaty, convention or other instrument.
+
+(3) Where there is any discrepancy or inconsistency between any new Act, treaty, convention or other instrument published in the form of a booklet or in loose-leaf form and the same new Act, treaty, convention or other instrument published in electronic form, the new Act, treaty, convention or other instrument published in the form of a booklet or in loose-leaf form shall prevail.
+
+(4) Where there is any discrepancy or inconsistency between any revised edition of any Act, treaty, convention or other instrument published in the form of a booklet or in loose-leaf form and the same revised edition of that Act, treaty, convention or other instrument published in electronic form, the revised edition published in the form of a booklet or in loose-leaf form shall prevail.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Publication of lists of titles of current Acts
 
@@ -346,11 +370,21 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 (b) of any single piece of that subsidiary legislation whether or not any such legislation has been amended during the period of 12 months ending on the preceding 31st December.
 
-(6) Section 10(3), (4), (5), (6) and (7) shall apply, mutatis mutandis, to the revised edition of subsidiary legislation and to any new or revised edition of any piece of subsidiary legislation.
+(6) Sections 10(3) to (7) and 11A shall apply, mutatis mutandis, to the revised edition of subsidiary legislation and to any new or revised edition of any piece of subsidiary legislation.
 
 [6/94]
 
+[Act 2 of 2012 wef 01/03/2012]
+
 (7) In the preparation of a revised edition of subsidiary legislation under subsection (5), the Commissioners shall have the like powers to do all things as are conferred upon them by section 15(2) and (3).
+
+(8) With effect from such date as the Commissioners may specify by notification in theGazette—
+
+(a) any revised edition of subsidiary legislation referred to in subsection (5)(a) shall, in all courts and for all purposes, be the sole and only proper Statute Book of Singapore in respect of those subsidiary legislation; and
+
+(b) any revised edition of any single piece of subsidiary legislation referred to in subsection (5)(b) shall, in all courts and for all purposes, be the sole and only proper Statute Book of Singapore in respect of that piece of subsidiary legislation.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Complementary matter in revised edition of Acts
 
@@ -394,6 +428,8 @@ Provided that section 16 of the Interpretation Act [Cap. 1] shall apply to such 
 
 or rectify in a manner not inconsistent with the powers of revision conferred by this Act any other error so appearing.
 
+[6/94]
+
 (2) Every order made under subsection (1)(a) shall be presented to Parliament as soon as possible after publication.
 
 [6/94]
@@ -408,7 +444,7 @@ Revised Edition of the Laws Act
 
 (CHAPTER 275)
 
-This Legislative History is provided for the convenience of users of the Revised Edition of the Laws Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Revised Edition of the Laws Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -433,3 +469,8 @@ This Legislative History is provided for the convenience of users of the Revised
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|7.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
