@@ -198,7 +198,7 @@
 
 - [84B Effect of order of High Court or Board](#Effect-of-order-of-High-Court-or-Board)
 
-- [84C Power of president, etc., of Board to appoint person to act for certain subsidiary proprietor](#Power-of-president-etc-of-Board-to-appoint-person-to-act-for-certain-subsidiary-proprietor)
+- [84C Power of High Court or Board to appoint person to act for certain subsidiary proprietor](#Power-of-High-Court-or-Board-to-appoint-person-to-act-for-certain-subsidiary-proprietor)
 
 - [84D Application for collective sale of parcel not registered under this Act by majority of proprietors where proprietors of flats own land](#Application-for-collective-sale-of-parcel-not-registered-under-this-Act-by-majority-of-proprietors-where-proprietors-of-flats-own-land)
 
@@ -1306,13 +1306,19 @@ may make an application to the court for an order under subsection (4).
 
 (11) No application shall be made under this section where the only reason for the application by the subsidiary proprietors for the sale of all the lots and common property in a strata title plan is that they —
 
-(a) have not been able to satisfy the requirement under section 84A(1);
+(a) have not been able to satisfy the requirement under section 84A(1) or 84FA(2);
 
-(b) have been able to satisfy the requirement under section 84A(1) but have not made an application to a Board under section 84A(1); or
+[Act 2 of 2012 wef 01/03/2012]
 
-(c) have been able to satisfy the requirement under section 84A(1) but their application for an order under section 84A has been refused by a Board.
+(b) have been able to satisfy the requirement under section 84A(1) or 84FA(2) but have not made an application to a Board under section 84A(1) or 84FA(2); or
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(c) have been able to satisfy the requirement under section 84A(1) or 84FA(2) but their application for an order under section 84A or 84FA has been refused by a Board.
 
 [21/99]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Interchangeability of notices
 
@@ -1664,7 +1670,7 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 [21/99; 46/2007]
 
-### Power of president, etc., of Board to appoint person to act for certain subsidiary proprietor
+### Power of High Court or Board to appoint person to act for certain subsidiary proprietor
 
 84C\.—(1) Where the High Court or a Board has made an order under section 84A(6), (7) or (11), the High Court or the president, deputy president or registrar of the Board, as the case may be, may, on application by the representatives of the subsidiary proprietors appointed under section 84A(2), appoint any person to deal with all matters in connection with the sale of any lot —
 
@@ -1814,11 +1820,13 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 [13/2010 wef 15/07/2010]
 
-(9) Sections 84A(1A), (2), (3), (5), (5A), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+(9) Sections 84A(1A), (2), (3), (5), (5A), (7C), (8)(a), (b) and (c), (11), (11A), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
 [21/99; 46/2007]
 
 [13/2010 wef 15/07/2010]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (9A) In the application of section 84A(1A) and the Second and Third Schedules to any development to which this section applies, any reference to a management corporation shall be read as a reference to the proprietors of the flats.
 
@@ -1992,11 +2000,13 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 [46/2007]
 
-(15) Sections 84A(1A), (2), (3), (5), (5A), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+(15) Sections 84A(1A), (2), (3), (5), (5A), (7C), (8)(a), (b) and (c), (11), (11A), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
 [21/99; 46/2007]
 
 [13/2010 wef 15/07/2010]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (15A) In the application of section 84A(1A) and the Second and Third Schedules to any development to which this section applies, any reference to a management corporation shall be read as a reference to the proprietors of the flats.
 
@@ -2168,11 +2178,13 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 (a) the subsidiary proprietor in reversion of the leasehold estate shall be deemed to have transferred his estate and interest in the lots to the purchaser without consideration upon the registration by the Registrar of the transfers of all the lots (except the lots still owned by the subsidiary proprietor in reversion under subsection (14)) in the strata title plan; and
 
-(b) the Registrar shall enter a notification of the vesting of the reversionary interest in the purchaser on the subsidiary strata land-register.
+(b) the Registrar shall enter a notification of the vesting of the reversionary interest in the purchaser on the subsidiary strata land-register and cancel the registration of any mortgage, charge or lease notified on the subsidiary strata land-register.
 
 [46/2007]
 
 [13/2010 wef 15/07/2010]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (12) The subsidiary proprietors of the lots who have not agreed in writing to the sale, the subsidiary proprietor in reversion and any mortgagee, chargee or other person with an estate or interest in those lots, where applicable, shall produce the subsidiary strata certificates of title for the lots to the person having conduct of the sale, the representatives appointed under section 84A(2) or to their solicitors.
 
@@ -2182,17 +2194,21 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 [46/2007]
 
-(14) Where the subsidiary proprietor in reversion has granted leases for some but not all the lots in the strata title plan, he shall be deemed to have transferred his estate and interest in the lots still owned by him to the purchaser upon registration by the Registrar of the transfers of the other lots in the strata title plan and the Registrar shall enter a notification of the vesting of the lots in the purchaser on the subsidiary strata land-register.
+(14) Where the subsidiary proprietor in reversion has granted leases for some but not all the lots in the strata title plan, he shall be deemed to have transferred his estate and interest in the lots still owned by him to the purchaser upon registration by the Registrar of the transfers of the other lots in the strata title plan and the Registrar shall enter a notification of the vesting of the lots in the purchaser on the subsidiary strata land-register and cancel the registration of any mortgage, charge or lease notified on the subsidiary strata land-register.
 
 [46/2007]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (15) The Registrar may dispense with production of the subsidiary strata certificates of title for the lots still owned by the subsidiary proprietor in reversion for the purposes of subsections (11) and (14).
 
 [46/2007]
 
-(16) Sections 84A(1A), (2), (3), (5), (5A), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+(16) Sections 84A(1A), (2), (3), (5), (5A), (7C), (8)(a), (b) and (c), (11), (11A), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
 [46/2007]
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (17) In this section —
 
@@ -3578,6 +3594,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of commencement|16 July 2010|
 |28.|**G. N. No. S 111/2011—Land Titles (Strata) Act (Amendment of Schedules) Order 2011**|
 ||Date of commencement|2nd March 2011|
+|29.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
+|||(section 24 — Amendment of Land Titles (Strata) Act)|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
