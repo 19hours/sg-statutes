@@ -262,7 +262,13 @@ CHILD DEVELOPMENT CO-SAVINGS SCHEME
 
 ### Moneys payable on death of member
 
-6\.—(1) On the death of a member, the moneys standing to his credit in his bank account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
+6\.—(1) Where a member dies, the moneys standing to his credit in his bank account shall be paid to the Public Trustee for disposal in accordance with —
+
+(a) the Intestate Succession Act (Cap. 146), if the member was not a Muslim at the time of his death; or
+
+(b) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member was a Muslim at the time of his death.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) The receipt of the Public Trustee shall be a good discharge to the Minister and the managing agent for such portions of the moneys payable out of the bank account on the death of a member as are payable to the Public Trustee under subsection (1).
 
@@ -2037,3 +2043,8 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 8/2011 published on 28 February 2011)|
 ||Date of Second and Third Readings|10 March 2011|
 ||Date of commencement|1 May 2011|
+|11.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (except sections 26 and 29)|
