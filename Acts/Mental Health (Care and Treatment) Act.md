@@ -82,7 +82,7 @@
 
 - [34 Repeal and savings](#Repeal-and-savings)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Form 1**](#FIRST-SCHEDULE-Form-1)
 
 [**SECOND SCHEDULE Consequential and Related Amendments to other written laws**](#SECOND-SCHEDULE-Consequential-and-Related-Amendments-to-other-written-laws)
 
@@ -511,11 +511,11 @@ FIRST SCHEDULE
 
 Section 10(1)
 
-FORM 1
+Form 1
 
 Mental Health (Care and Treatment) Act 2008
 
-Order For Admission Or Further Treatment Of A Patient
+Order for Admission or Further Treatment of A Patient
 
 To:
 
@@ -525,15 +525,15 @@ The principal officer,
 
 I, the undersigned designated medical practitioner, hereby order that ............................................. of ............................................... be *admitted for treatment/detained for further treatment under section 10(1) of the Mental Health (Care and Treatment) Act 2008 on account of suspected mental disorder.
 
-Signature: .......................................
+Signature: ...............................................
 
-(Name in block letters) .....................
+(Name in block letters) .............................
 
-Witness: .........................................
+Witness: .................................................
 
-(Name in block letters) .....................
+(Name in block letters) ............................
 
-Date:............... Time: .....................
+Date:............... Time: ........................
 
 *Delete whichever is inapplicable.
 
@@ -541,14 +541,14 @@ FORM 2
 
 Section 10(2)
 
-Mental Health (care And Treatment) Act 2008
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-Order Of Detention Of A Patient For
-
-
+ORDER OF DETENTION OF A PATIENT FOR
 
 
-Further Treatment
+
+
+FURTHER TREATMENT
 
 To:
 
@@ -558,13 +558,13 @@ The principal officer,
 
 I, the undersigned designated medical practitioner, hereby order that ........................................ of .................................................... be detained for further treatment under section 10(2) of the Mental Health (Care and Treatment) Act 2008 on account of suspected mental disorder.
 
-Signature: ............................................
+Signature: ...................................................
 
-(Name in block letters) ..........................
+(Name in block letters) ................................
 
-Witness: ..............................................
+Witness: ....................................................
 
-(Name in block letters) ..........................
+(Name in block letters) ................................
 
 Date: ...................
 
@@ -574,14 +574,14 @@ FORM 3
 
 Section 10(4)
 
-Mental Health (care And Treatment) Act 2008
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-Order Of Detention Of A Patient For
-
-
+ORDER OF DETENTION OF A PATIENT FOR
 
 
-Further Treatment
+
+
+FURTHER TREATMENT
 
 To:
 
@@ -589,11 +589,11 @@ The principal officer,
 
 …………………… Institution.
 
-I, the undersigned, ………………..………………….………………
+I, the undersigned, ………………………..………………….………………
 
 (here enter name and official designation)
 
-hereby certify that I on the …………… day of ……….………….. 20……………at ………………………….….. personally examined (separately from any other practitioner) ……………………………………
+hereby certify that I on the …………… day of ……….………….. 20……………at ……..…………………………….….. personally examined (separately from any other practitioner) ………………………………………
 
 (here enter name and residence of person examined)
 
@@ -603,15 +603,11 @@ Statement
 
 1.
 
-Facts indicating mental disorder observed by myself ………….………..……………………………………………………………………………………………………..
-
-(here state the facts)
+Facts indicating mental disorder observed by myself ………….………..…………………………………………………………………………………………………….. (here state the facts)
 
 2.
 
-Other facts, if any, indicating mental disorder communicated to me by others ………………………………………………………………………………………………….
-
-(here state the information and from whom)
+Other facts, if any, indicating mental disorder communicated to me by others …………………………………………………………………………………………………. (here state the information and from whom)
 
 And I hereby order that the said ……………………………………………. be detained at the …………………………………………. Institution for further psychiatric treatment.
 
@@ -621,9 +617,9 @@ FORM 4
 
 Section 13(1) and (6)
 
-Mental Health (care And Treatment) Act 2008
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-Application By Visitors For Order Of Detention
+APPLICATION BY VISITORS FOR ORDER OF DETENTION
 
 We, the visitors of ....................................................... Institution being satisfied by the report of ............................................................. principal officer of the said Institution, and by personal inspection, that ........................................................ a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment hereby make application to a Magistrate for an order for the further detention of the said ......................................................
 
@@ -632,32 +628,39 @@ Signed ..............................................................
 ........................................................................
 
 .............................................................
+
+
+
+
 Visitors
 
 FORM 5
 
-Section 13(2)
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-Mental Health (care And Treatment) Act 2008
+MAGISTRATE’S ORDER OF DETENTION
 
-Magistrate’s Order Of Detention
+Whereas .........................................................................................................................................
 
-Whereas ……............................................................................................... .......................................................................................................................................................... the Visitors of ......................................... Institution, have applied to me for an order that ................................................................. a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment:
+
+
+
+.................................................................................................................. the Visitors of ......................................... Institution, have applied to me for an order that .................................................................... a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment:
 
 Now therefore, I, the undersigned Magistrate, do hereby order that the said ............................................... be further detained.
 
 Dated at .............. this ............. day of ................ 20 .......
 
-Signed..................................................
+Signed ..................................................
 Magistrate
 
 FORM 6
 
 Section 16(1)
 
-Mental Health (care And Treatment) Act 2008
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-Transfer Order
+TRANSFER ORDER
 
 To:
 
@@ -676,6 +679,10 @@ And I do hereby require you ............................................ to brin
 Given under my hand, this .................. day of ............................. 20.....
 
 ........................................................
+
+
+
+
 Director of Medical Services
 
 SECOND SCHEDULE
@@ -1431,33 +1438,7 @@ Delete paragraph (d) and substitute the following paragraph:
 
 ”.
 
-(41) Registration of Criminals Act
-
-
-
-
-(Chapter 268, 1985 Ed.)
-
-First Schedule, Part II
-
-Delete the following item:
-
-"Mental Disorders and Treatment Act
-
-Section 58.
-
-Cap. 178."
-
-and substitute the following item:
-
-"Mental Health
-
-
-
-
-(Care and Treatment) Act 2008
-
-Section 26.".
+(41) [Deleted by Act 2 of 2012 wef 01/03/2012]
 
 (42) Requisition of Resources Act
 
@@ -1689,6 +1670,8 @@ Delete the words “committee or committees appointed under the Mental Disorders
 (d) Section 28A(2)
 
 Delete the words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in paragraph (c) and substitute the words “deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008”.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 2\. In this Schedule and in any written law amended by this Schedule, “mental disorder” has the same meaning as in section 2(1), and “mentally disordered” shall be construed accordingly.
 
