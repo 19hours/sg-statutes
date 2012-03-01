@@ -62,7 +62,7 @@
 
 [**Actions in respect of trust property or personal estate of deceased persons**](#Actions-in-respect-of-trust-property-or-personal-estate-of-deceased-persons)
 
-- [22 Limitations of actions in respect of trust property](#Limitations-of-actions-in-respect-of-trust-property)
+- [22 Limitation of actions in respect of trust property](#Limitation-of-actions-in-respect-of-trust-property)
 
 - [23 Limitation of actions claiming personal estate of deceased person](#Limitation-of-actions-claiming-personal-estate-of-deceased-person)
 
@@ -90,7 +90,7 @@
 
 - [30 (Repealed)](#Repealed)
 
-- [31 Provisions as to set-off or counter-claim](#Provisions-as-to-set-off-or-counter-claim)
+- [31 Provisions as to set-off or counterclaim](#Provisions-as-to-set-off-or-counterclaim)
 
 - [32 Acquiescence](#Acquiescence)
 
@@ -140,6 +140,8 @@ An Act regulating the limitation of actions and arbitrations.
 
 “trust” and “trustee” have the same meanings as in the Trustees Act [Cap. 337].
 
+[7/66]
+
 (2) Subject to section 36(1)(b) of the Civil Law Act (Cap. 43), for the purposes of this Act, a person shall be deemed to be under a disability while he is a minor or lacks capacity (within the meaning of the Mental Capacity Act 2008) to conduct legal proceedings.
 
 [7/2009 wef 01/03/2009]
@@ -159,8 +161,6 @@ An Act regulating the limitation of actions and arbitrations.
 (b) in the case of an action upon a judgment, be construed as references to the date on which the judgment became enforceable;
 
 (c) in the case of an action to recover arrears of rent or interest, or damages in respect thereof, be construed as references to the date on which the rent or interest became due.
-
-[7/66]
 
 ### Saving for other limitation laws
 
@@ -214,7 +214,9 @@ Action of contract and tort and certain other actions
 
 ### Special time limit for claiming contribution
 
-6A\.—(1) Where under section 11 of the Civil Law Act (Cap. 43) any person becomes entitled to a right to recover contribution in respect of any damage from any other person, no action to recover contribution by virtue of that right shall, subject to subsection (3), be brought after the end of the period of 2 years from the date on which that right accrued.
+6A\.—(1) Where under section 15 of the Civil Law Act (Cap. 43) any person becomes entitled to a right to recover contribution in respect of any damage from any other person, no action to recover contribution by virtue of that right shall, subject to subsection (3), be brought after the end of the period of 2 years from the date on which that right accrued.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) For the purposes of this section, the date on which a right to recover contribution in respect of any damage accrues to any person (referred to in this section as the relevant date) shall be ascertained as provided in subsections (3) and (5).
 
@@ -231,6 +233,8 @@ the relevant date shall be the date on which the judgment is given or the date o
 (5) If, in any case not within subsection (3), the person in question makes or agrees to make any payment to one or more persons in compensation for that damage (whether he admits any liability in respect of the damage or not), the relevant date shall be the earliest date on which the amount to be paid by him is agreed between him (or his representative) and the person (or each of the persons, as the case may be) to whom the payment is to be made.
 
 (6) An action to recover contribution shall be one to which sections 24 and 29 apply, but otherwise Parts III and IV (except sections 30 and 33) shall not apply for the purposes of this section.
+
+[45/98 wef 01/01/1999]
 
 ### Limitation in case of successive conversions and extinction of title of owner of converted goods
 
@@ -260,7 +264,7 @@ Actions to recover land and rent
 
 9\.—(1) No action shall be brought by any person to recover any land after the expiration of 12 years from the date on which the right of action accrued to him, or, if it first accrued to some person through whom he claims, to that person.
 
-(2) Nothing in this section or in section 11(2) shall be deemed to affect the provisions of the Government Proceedings Act (Cap. 121), or to apply to any person registered under or by virtue of the provisions of the Land Titles Act (Cap. 157) as the proprietor of the land sought to be recovered, or to any person claiming through a person so registered, except to the extent that such Act so provides or permits.
+(2) Nothing in this section or in section 11(2) shall be deemed to affect the provisions of the Government Proceedings Act [Cap. 121], or to apply to any person registered under or by virtue of the provisions of the Land Titles Act [Cap. 157] as the proprietor of the land sought to be recovered, or to any person claiming through a person so registered, except to the extent that such Act so provides or permits.
 
 (3) This section shall not apply to an action to recover land from a person by reason only of his unauthorised occupation of the land.
 
@@ -334,9 +338,9 @@ Actions to recover land and rent
 
 ### Right of person out of possession extinguished
 
-18\. Subject to section 12, at the determination of the period limited by this Act to any person for bringing an action to recover land, the right and title of the person to the land for the recovery of which the action might have been brought within that period shall be extinguished..1
+18\. \*Subject to section 12, at the determination of the period limited by this Act to any person for bringing an action to recover land, the right and title of the person to the land for the recovery of which the action might have been brought within that period shall be extinguished.
 
-1Seesection 50 of the Land Titles Act (Cap. 157)
+\*Seesection 50 of the Land Titles Act (Cap. 157).
 
 ### Administrator’s claim to date back to death
 
@@ -372,7 +376,7 @@ Actions to recover money secured by mortgage or charge or to recover proceeds of
 
 Actions in respect of trust property or personal estate of deceased persons
 
-### Limitations of actions in respect of trust property
+### Limitation of actions in respect of trust property
 
 22\.—(1) No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action —
 
@@ -474,7 +478,7 @@ from the date when the person ceased to be under a disability or died, whichever
 
 [22/92]
 
-(7) A person shall not be taken by virtue of sub-section (6) to have knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
+(7) A person shall not be taken by virtue of subsection (6) to have knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
 
 [22/92]
 
@@ -489,6 +493,8 @@ from the date when the person ceased to be under a disability or died, whichever
 (a) which is alleged to constitute negligence, nuisance or breach of duty; and
 
 (b) to which the injury or damage in respect of which damages are claimed is alleged to be attributable (in whole or in part).
+
+[22/92]
 
 (3) This section bars the right of action in a case to which subsection (1) applies notwithstanding that the cause of action has not yet accrued before the end of the period of limitation prescribed by this section.
 
@@ -576,7 +582,7 @@ the period of limitation shall not begin to run until the plaintiff has discover
 
 30\. [Repealed by Act 37 of 2001 wef 01/03/2002]
 
-### Provisions as to set-off or counter-claim
+### Provisions as to set-off or counterclaim
 
 31\. For the purposes of this Act, any claim by way of set-off or counterclaim shall be deemed to be a separate action and to have been commenced on the same date as the action in which the set-off or counterclaim is pleaded.
 
@@ -596,7 +602,7 @@ the period of limitation shall not begin to run until the plaintiff has discover
 
 34\. Nothing in this Act shall —
 
-(a) enable any action to be brought which was barred before 11th September 1959 by the Limitation Ordinance (Cap. 7, 1955 Ed.), except in so far as the cause of action or right of action may be revived by an acknowledgment or part payment made in accordance with the provisions of this Act; or
+(a) enable any action to be brought which was barred before 11th September 1959 by the Limitation Ordinance [Cap. 7, 1955 Ed.], except in so far as the cause of action or right of action may be revived by an acknowledgment or part payment made in accordance with the provisions of this Act; or
 
 (b) affect any action or arbitration commenced before 11th September 1959 or the title to any property which is the subject of any such action or arbitration.
 
@@ -673,3 +679,8 @@ This Legislative History is provided for the convenience of users of the Limitat
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|14.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
