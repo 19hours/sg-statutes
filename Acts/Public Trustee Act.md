@@ -276,6 +276,14 @@ Common Fund
 
 (4) Any investment made on account of the common fund or included in its investment account shall not be made or held on account of or belong to any particular estate.
 
+(5) For the avoidance of doubt, it is hereby declared that section 7(3A) of the Financial Procedure Act (Cap. 109) shall not —
+
+(a) restrict the investment of any moneys included in or forming part of the common fund; or
+
+(b) preclude any investments permitted by law for the investment of trust funds from being taken over under subsection (2).
+
+[Act 2 of 2012 wef 01/03/2012]
+
 ### What are not to be included in the common fund
 
 11\.—(1) The following shall not be included in or form part of the common fund:
@@ -520,3 +528,7 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 10/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
+|22.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011 (Bill No. 22/2012 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
