@@ -498,7 +498,7 @@ OTHER OFFENCES
 
 ### Drunkenness in public places
 
-18\. \*Any person who is found drunk and incapable of taking care of himself, in any public road or in any public place* or place of public amusement or resort, or in the immediate vicinity of any court or of any public office or police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
+18\. \*Any person who is found drunk and incapable of taking care of himself, in any public road or in any public place or place of public amusement or resort, or in the immediate vicinity of any court or of any public office or police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
 
 \*See also section 128 of the Employment Act (Cap. 91).
 
@@ -546,11 +546,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, any auxiliary police force created under any written law or of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
 
+[3/2005 wef 10/06/2005]
+
 (b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
 
 [12/96]
-
-[3/2005 wef 10/06/2005]
 
 (4) Any person who —
 
@@ -568,13 +568,19 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Carrying truncheons, etc., in public places
 
-22A\.—(1) Except as provided in this section, no person shall, in any public place, carry or have in his possession or under his control (whether or not in the performance of his functions as a private investigator, security officer or security service provider licensed under the Private Security Industry Act 2007) any truncheon, handcuffs, or such other weapon or equipment as may from time to time be specified by the Minister in a notification published in theGazette.
+22A\.—(1) Except as provided in this section or any other written law, no person shall, in any public place, carry or have in his possession or under his control (whether or not in the performance of his functions as a private investigator, security officer or security service provider licensed under the Private Security Industry Act 2007) any truncheon, handcuffs, or such other weapon or equipment as may from time to time be specified by the Minister in a notification published in theGazette.
 
-(2) Any private investigator, security officer or security service provider licensed under the Private Security Industry Act 2007, or any other person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one month or to both.
+[Act 2 of 2012 wef 01/03/2012]
 
-(3) Nothing in this section shall prohibit or prevent the carrying of any truncheon, handcuffs or such other weapon or equipment referred to in subsection (1) by a police officer, an auxiliary police officer, or a member of the Singapore Armed Forces or of any visiting force lawfully present in Singapore under any law relating to visiting forces.
+(2) Any private investigator, security officer or security service provider licensed under the Private Security Industry Act 2007, or any other person, who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one month or to both.
 
-(4) A private investigator, security officer or security service provider who is licensed under the Private Security Industry Act 2007 may be authorised to carry or have in his possession in any public place any truncheon, handcuffs or such other weapon or equipment if, and only if —
+[Act 2 of 2012 wef 01/03/2012]
+
+(3) Nothing in this section shall prohibit or prevent the carrying of any truncheon, handcuffs or specified weapon or equipment by a police officer, an auxiliary police officer, or a member of the Singapore Armed Forces or of any visiting force lawfully present in Singapore under any law relating to visiting forces.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(4) A private investigator, security officer or security service provider who is licensed under the Private Security Industry Act 2007 may be authorised to carry or have in his possession in any public place any truncheon, handcuffs or specified weapon or equipment if, and only if —
 
 (a) the licensing officer under that Act is satisfied that it is necessary for the performance of his functions as a private investigator, security officer or security service provider, and it is appropriate for permission to be given for such carrying or possession;
 
@@ -582,9 +588,33 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (c) the truncheon, handcuffs, weapon or equipment is of the type approved by that licensing officer.
 
-(5) In this section, “public place” includes any premises or place to which the public has or is permitted to have access, whether on the invitation of the owners or occupiers thereof or on payment or otherwise.
+[Act 2 of 2012 wef 01/03/2012]
 
-[Cap 250A, wef 27/04/2009:2008-REVED-250A]
+(5) The Commissioner of Police may authorise, subject to such conditions of authorisation as he thinks fit to impose, any person, or every person belonging to a class of persons, to carry or have in the person’s possession or under the person’s control in any public place any truncheon, handcuffs or specified weapon or equipment, if —
+
+(a) the Commissioner of Police is satisfied that such carrying, possession or control is necessary in the circumstances, and it is appropriate for permission to be given for such carrying, possession or control; and
+
+(b) the truncheon, handcuffs, weapon or equipment is of the type approved by the Commissioner of Police.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(6) The Commissioner of Police may at any time —
+
+(a) revoke any authorisation under subsection (5); or
+
+(b) add to, vary or revoke any condition of authorisation imposed under subsection (5).
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(7) In this section —
+
+“public place” includes any premises or place to which the public has or is permitted to have access, whether on the invitation of the owners or occupiers thereof or on payment or otherwise;
+
+“specified weapon or equipment” means any weapon or equipment specified by the Minister under subsection (1).
+
+[Act 2 of 2012 wef 01/03/2012]
+
+[38/2007 wef 27/04/2009]
 
 ### Penalty for taking intoxicant, etc., into public hospital
 
@@ -808,7 +838,7 @@ Miscellaneous Offences (Public Order and Nuisance) Act
 
 (CHAPTER 184)
 
-This Legislative History is provided for the convenience of users of the Miscellaneous Offences (Public Order and Nuisance) Act. It is not part of this Order.
+This Legislative History is provided for the convenience of users of the Miscellaneous Offences (Public Order and Nuisance) Act. It is not part of the Order.
 
 ||||
 |:-|:-|:-|
@@ -834,9 +864,9 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of commencement|2 October 1926|
 |5.|**Ordinance 2 of 1931—Minor Offences (Amendment) Ordinance 1931**|
 ||Date of First Reading|26 January 1931|
-||Date of Second and Third Readings|23 May 1931|
+||Date of Second and Third Readings|23 March 1931|
 ||Date of commencement|17 April 1931|
-|6.|**Ordinance 26 of 1933—Minor Offences (Amendment) Ordinance 1933**|
+|6.|**Ordinance 12 of 1933—Minor Offences (Amendment) Ordinance 1933**|
 ||Date of First Reading|6 March 1933|
 ||Date of Second and Third Readings|1 May 1933|
 ||Date of commencement|19 May 1933|
@@ -963,7 +993,7 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of Second and Third Readings|14 November 1967|
 ||Date of commencement|1 December 1967|
 |32.|**1970 Revised Edition—Minor Offences Act (Cap. 102)**|
-||Date of operation|1 January 1970|
+||Date of operation|15 April 1971|
 |33.|**Act 14 of 1969—Statute Law Revision Act 1969**|
 ||Date of First Reading|15 October 1969|
 |||(Bill No. 22/69 published on 20 October 1969)|
@@ -1034,3 +1064,8 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |||(item (62) of the Sixth Schedule)|
+|47.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2012 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
