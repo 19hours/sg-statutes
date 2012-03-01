@@ -120,6 +120,8 @@ PRELIMINARY
 
 (a) the Director-General;
 
+[49/2007 wef 14/12/2007]
+
 (aa) any officer of customs;
 
 [49/2007 wef 14/12/2007]
@@ -238,11 +240,7 @@ ADMINISTRATION
 
 6\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-[49/2007 wef 14/12/2007]
-
 (2) The Director-General may, with the approval of the Minister, in writing appoint any person as an authorised officer for the purposes of this Act.
-
-[49/2007 wef 14/12/2007]
 
 (3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer, except the power of delegation under this subsection.
 
@@ -476,6 +474,8 @@ within such reasonable period and in such manner as is specified in the notice.
 
 (3) The Director-General may, by written notice given to a person, require the person to give to the Director-General particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
 
+[49/2007 wef 14/12/2007]
+
 (4) Any person who, intentionally or recklessly refuses or fails, without reasonable cause, to comply with a notice under this section to the extent that the person is capable of complying with it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (5) The power of the Director-General under this section to require a person to give information or documents to the Director-General is in addition to any obligation to give information or documents that the person may have under section 12.
@@ -696,13 +696,15 @@ MISCELLANEOUS PROVISIONS
 
 (b) the enforcement of this Act; or
 
-(c) dealing with an emergency involving public safety.
+(c) dealing with an emergency involving public safety or ensuring the security of Singapore.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (3) Any person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Warrant for search and seizure
 
-27\.—(1) If a Magistrate is satisfied, on information on oath, that there is reasonable ground for suspecting that an offence under this Act is being, has been or is about to be committed on any premises or that evidence of the commission of such an offence is to be found there, the magistrate may issue a warrant in writing to an authorised officer to enter the premises, if necessary by force, at any time within one month from the time of the issue of the warrant and to search them.
+27\.—(1) If a Magistrate is satisfied, on information on oath, that there is reasonable ground for suspecting that an offence under this Act is being, has been or is about to be committed on any premises or that evidence of the commission of such an offence is to be found there, the Magistrate may issue a warrant in writing to an authorised officer to enter the premises, if necessary by force, at any time within one month from the time of the issue of the warrant and to search them.
 
 (2) An authorised officer who enters the premises under the authority of the warrant may —
 
@@ -882,12 +884,7 @@ corresponding alkylated or protonated salts
 
 e.g.
 
-VX: O-Ethyl S-2-diisopropylaminoethyl
-
-
-
-
-methyl phosphonothiolate
+VX:O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate
 
 (50782-69-9)
 
@@ -907,27 +904,27 @@ Bis(2-chloroethylthio)methane
 
 (63869-13-6)
 
-Sesquimustard: 1,2-Bis(2- chloroethylthio)ethane
+Sesquimustard: 1,2-Bis(2-chloroethylthio)ethane
 
 (3563-36-8)
 
-1,3-Bis(2- chloroethylthio)-n-propane
+1,3-Bis(2-chloroethylthio)-n-propane
 
 (63905-10-2)
 
-1,4-Bis(2- chloroethylthio)-n-butane
+1,4-Bis(2-chloroethylthio)-n-butane
 
 (142868-93-7)
 
-1,5-Bis(2- chloroethylthio)-n-pentane
+1,5-Bis(2-chloroethylthio)-n-pentane
 
 (142868-94-8)
 
-Bis(2- chloroethylthiomethyl)ether
+Bis(2-chloroethylthiomethyl)ether
 
 (63918-90-1)
 
-O-Mustard: Bis(2- chloroethylthioethyl)ether
+O-Mustard: Bis(2-chloroethylthioethyl)ether
 
 (63918-89-8)
 
@@ -1074,22 +1071,7 @@ Precursors:
 
 (4)
 
-Chemicals, except for those listed in Schedule 1,
-
-
-
-
-containing a phosphorus atom to which is bonded
-
-
-
-
-one methyl, ethyl or propyl (normal or iso) group
-
-
-
-
-but not further carbon atoms,
+Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms
 
 e.g.
 
@@ -1107,12 +1089,9 @@ Dimethyl methylphosphonate
 
 (756-79-6)
 
-Exemption: Fonofos: O-Ethyl S-phenyl
+Exemption:
 
-
-
-
-ethylphosphonothiolothionate
+Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate
 
 (944-22-9)
 
@@ -1155,21 +1134,13 @@ N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding prot
 
 N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts
 
-Exemptions: N,N-Dimethylaminoethanol
+Exemptions:
 
-
-
-
-and corresponding protonated salts
+N,N-Dimethylaminoethanol and corresponding protonated salts
 
 (108-01-0)
 
-N,N-Diethylaminoethanol
-
-
-
-
-and corresponding protonated salts
+N,N-Diethylaminoethanol and corresponding protonated salts
 
 (100-37-8)
 
@@ -1307,7 +1278,7 @@ Chemical Weapons (Prohibition) Act
 
 (CHAPTER 37B)
 
-This Legislative History is provided for the convenience of users of the Chemical Weapons (Prohibition) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Chemical Weapons (Prohibition) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1329,6 +1300,12 @@ This Legislative History is provided for the convenience of users of the Chemica
 |||(Bill No. 39/2007 published on 18 September 2007)|
 ||Date of Second and Third Readings|22 October 2007|
 ||Date of commencement|14 December 2007|
+|5.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
+|||(except sections 26 and 29)|
 ## COMPARATIVE TABLE
 
 Chemical Weapons (Prohibition) Act
