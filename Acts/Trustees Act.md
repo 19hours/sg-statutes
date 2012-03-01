@@ -274,11 +274,11 @@
 
 - [91 Savings, transitional and further consequential provisions](#Savings-transitional-and-further-consequential-provisions)
 
-[**FIRST SCHEDULE Application of Statutory Duty of Care under Part ia**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Application of Statutory Duty of Care under Part IA**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Particulars to be Inserted in Application for Incorporation of Trustees**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Particulars to be inserted in application for incorporation of trustees**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Form of Power of Attorney under Section 27 (5)**](#THIRD-SCHEDULE-Form-of-Power-of-Attorney-under-Section-27-5)
+[**THIRD SCHEDULE Form of Power of Attorney under section 27(5)**](#THIRD-SCHEDULE-Form-of-Power-of-Attorney-under-section-275)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -318,7 +318,7 @@ PRELIMINARY
 
 (3) This Act shall not affect the legality or validity of anything done before 1st September 1929, except as otherwise expressly provided.
 
-[Trustees Ordinance 1955 Ed., s. 2]
+[UK Trustee 1925, s. 69; Trustees Ordinance 1955 Ed., s. 2]
 
 ### Interpretation
 
@@ -376,13 +376,13 @@ PRELIMINARY
 
 “trust” does not include the duties incident to an estate conveyed by way of mortgage, but with this exception “trust” and “trustee” extend to implied and constructive trusts, and to cases where the trustee has a beneficial interest in the trust property, and to the duties incident to the office of a personal representative, and “trustee” where the context admits includes a personal representative, and “new trustee” includes an additional trustee;
 
-“\*trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;
+“trust corporation”\*means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;
 
-[11/2005 wef 01/02/2006]
+[11/2005 wef 01/02/2005]
 
-\*Definition of “trust corporation” will be amended as follows when item 8 of the Fifth Schedule of the Trust Companies Act 2005 is brought into operation:
+\*Definition of “trust corporation” will be amended as follows when item 8 of the Fifth Schedule of Trust Companies Act 2005 is brought into operation:
 
-“ “trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;”
+“ “trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee,or licensed as a trust company under the Trust Companies Act 2005;”
 
 “trust for sale”, in relation to land, means an immediate binding trust for sale, whether or not exercisable at the request or with the consent of any person, and with or without power at discretion to postpone the sale;
 
@@ -420,9 +420,17 @@ INVESTMENTS
 
 ### General power of investment
 
-4\.—(1) Subject to the provisions of this Part, a trustee may make any kind of investment that he could make if he were absolutely entitled to the assets of the trust.
+4\.—(1) Subject to the provisions of this Act —
 
-[45/2004]
+(a) a trustee may make any kind of investment that he could make if he were absolutely entitled to the assets of the trust; and
+
+(b) without prejudice to the generality of paragraph (a), a trustee may —
+
+(i) invest any funds in his hands, whether at the time in a state of investment or not, in any manner specified in Part I, II or III of the First Schedule in force immediately before 15th December 2004; and
+
+(ii) from time to time vary any such investment.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) For the purpose of subsection (1), “investment” includes investment in assets that do not yield any income.
 
@@ -492,7 +500,7 @@ INVESTMENTS
 
 Investment in bearer securities
 
-8\. [Repealed byAct 45/2004]
+8\. [Repealed by Act 45/2004]
 
 ### Loans and investments by trustees not chargeable as breaches of trust
 
@@ -533,6 +541,8 @@ Investment in bearer securities
 (b) there be no breach of any covenant by the mortgagor contained in the instrument of mortgage or charge for the maintenance and protection of the property.
 
 [23/92]
+
+[S 340/2012 wef 18/07/2012]
 
 (2) On a sale by trustees of land for an estate in fee simple, or held under a grant issued under the State Lands Act (Cap. 314), or for a term having at least 30 years to run, the trustees may, where the proceeds are liable to be invested, contract that the payment of any part, not exceeding two-thirds, of the purchase money shall be secured by mortgage of the land sold, with or without the security of any other property, but such mortgage, if any buildings are comprised therein, shall contain a covenant by the mortgagor to keep such buildings insured against loss or damage by fire to the full value thereof.
 
@@ -612,7 +622,7 @@ General Powers
 
 (2) A trust or power to sell or dispose of land includes a trust or power to sell or dispose of part thereof, whether the division is horizontal, vertical, or made in any other way.
 
-[Trustees Ordinance 1955 Ed., s. 13]
+[UK Trustee 1925, s. 12(1) and (2); Trustees Ordinance 1955 Ed., s. 13]
 
 ### Power to sell subject to depreciatory conditions
 
@@ -624,7 +634,7 @@ General Powers
 
 (4) This section shall apply to sales made before, on or after 1st September 1929.
 
-[Trustees Ordinance 1955 Ed., s. 14]
+[UK Trustee 1925, s. 13; Trustees Ordinance 1955 Ed., s. 14]
 
 ### Power of trustees to give receipts
 
@@ -644,7 +654,7 @@ General Powers
 
 (5) This section shall apply notwithstanding anything to the contrary in the instrument, if any, creating the trust.
 
-[Trustees Ordinance 1955 Ed., s. 15]
+[UK Trustee 1925, s. 14; Trustees Ordinance 1955 Ed., s. 15]
 
 ### Power to compound liabilities
 
@@ -678,7 +688,7 @@ General Powers
 
 (4) No person advancing money upon a mortgage purporting to be under subsection (3), shall be bound to see that the money is wanted, or that no more is raised than is wanted for the purpose, or otherwise as to the application thereof.
 
-[Trustees Ordinance 1955 Ed., s. 17]
+[UK Trustee 1925, s. 16; Trustees Ordinance 1955 Ed., s. 17]
 
 ### Power to raise money by sale, mortgage, etc.
 
@@ -686,13 +696,13 @@ General Powers
 
 (2) This section shall apply notwithstanding anything to the contrary contained in the instrument, if any, creating the trust, but shall not apply to trustees of property held for charitable purposes.
 
-[Trustees Ordinance 1955 Ed., s. 18]
+[UK Trustee 1925, s. 16; Trustees Ordinance 1955 Ed., s. 18]
 
 ### Protection to purchasers and mortgagees dealing with trustees
 
 19\. No purchaser or mortgagee, paying or advancing money on a sale or mortgage purporting to be made under any trust or power vested in trustees, shall be concerned to see that such money is wanted, or that no more is raised than is wanted, or otherwise as to the application thereof.
 
-[Trustees Ordinance 1955 Ed., s. 19]
+[UK Trustee 1925, s. 17; Trustees Ordinance 1955 Ed., s. 19]
 
 ### Devolution of powers or trusts
 
@@ -704,7 +714,7 @@ General Powers
 
 (4) In this section, “personal representative” shall not include an executor who has renounced or has not proved.
 
-[Trustees Ordinance 1955 Ed., s. 20]
+[UK Trustee 1925, s. 18; Trustees Ordinance 1955 Ed., s. 20]
 
 ### Power to insure
 
@@ -766,11 +776,11 @@ General Powers
 
 (6) This section shall apply to policies effected either before, on or after 1st September 1929, but only to money received on or after that date.
 
-[Trustees Ordinance 1955 Ed., s. 22]
+[UK Trustee 1925, s. 20; Trustees Ordinance 1955 Ed., s. 22]
 
 Deposit of documents for safe custody
 
-23\. [Repealed byAct 45/2004]
+23\. [Repealed by Act 45/2004]
 
 ### Reversionary interests, valuations and audit
 
@@ -808,17 +818,17 @@ unless required in writing to do so by some person, or the guardian of some pers
 
 (6) The costs of such examination or audit, including the fee of the auditor, shall be paid out of the capital or income of the trust property, or partly in one way and partly in the other as the trustees, in their absolute discretion, think fit, but, in default of any direction by the trustees to the contrary in any special case, costs attributable to capital shall be borne by capital and those attributable to income by income.
 
-[Trustees Ordinance 1955 Ed., s. 24]
+[UK Trustee 1925, s. 22; Trustees Ordinance 1955 Ed., s. 24]
 
 Power to employ agents
 
-25\. [Repealed byAct 45/2004]
+25\. [Repealed by Act 45/2004]
 
 ### Power to concur with others
 
 26\. Where an undivided share in the proceeds of sale of land directed to be sold, or in any other property, is subject to a trust, or forms part of the estate of a testator or intestate, the trustees or personal representatives may (without prejudice to the trust for sale affecting the entirety of the land and the powers of the trustees for sale in reference thereto) execute or exercise any trust or power vested in them in relation to such share in conjunction with the persons entitled to or having power in that behalf over the other share or shares, and notwithstanding that any one or more of the trustees or personal representatives may be entitled to or interested in any such other share, either in his or their own right or in a fiduciary capacity.
 
-[Trustees Ordinance 1955 Ed., s. 26]
+[UK Trustee 1925, s. 24; Trustees Ordinance 1955 Ed., s. 26]
 
 ### Delegation of trustee’s functions by power of attorney
 
@@ -912,7 +922,7 @@ then and in any such case the personal representative or trustee —
 
 “lessee” and “grantee” include persons respectively deriving title under them.
 
-[Trustees Ordinance 1955 Ed., s. 28]
+[UK Trustee 1925, s. 26; Trustees Ordinance 1955 Ed., s. 28]
 
 ### Protection by means of advertisement
 
@@ -928,13 +938,13 @@ then and in any such case the personal representative or trustee —
 
 (4) This section shall apply notwithstanding anything to the contrary in the will or other instrument, if any, creating the trust.
 
-[Trustees Ordinance 1955 Ed., s. 29]
+[UK Trustee 1925, s. 27; Trustees Ordinance 1955 Ed., s. 29]
 
 ### Protection in regard to notice
 
 30\. A trustee or personal representative acting for the purposes of more than one trust or estate shall not, in the absence of fraud, be affected by notice of any instrument, matter, fact or thing in relation to any particular trust or estate if he has obtained notice thereof merely by reason of his acting or having acted for the purposes of another trust or estate.
 
-[Trustees Ordinance 1955 Ed., s. 30]
+[UK Trustee 1925, s. 28; Trustees Ordinance 1955 Ed., s. 30]
 
 ### Exoneration of trustees in respect of certain powers of attorney
 
@@ -954,7 +964,7 @@ then and in any such case the personal representative or trustee —
 
 (b) be answerable and accountable only for his own acts, receipts, neglects or defaults, and not for those of any other trustee, or of any banker, broker or other person with whom any trust money or securities may be deposited, nor for the insufficiency or deficiency of any securities, nor for any other loss, unless the same happens through his own wilful default.
 
-[Trustees Ordinance 1955 Ed., s. 32]
+[UK Trustee 1925, s. 30; Trustees Ordinance 1955 Ed., s. 32]
 
 Maintenance, Advancement and Protective Trusts
 
@@ -994,7 +1004,7 @@ but the trustees may, at any time during the infancy of such person if his inter
 
 (5) This section shall not apply where the instrument, if any, under which the interest arises came into operation before 1st September 1929.
 
-[Trustees Ordinance 1955 Ed., s. 33]
+[UK Trustee 1925, s. 31; Trustees Ordinance 1955 Ed., s. 33]
 
 ### Power of advancement
 
@@ -1008,7 +1018,7 @@ but the trustees may, at any time during the infancy of such person if his inter
 
 (5) This section shall not apply to trusts constituted or created before 1st September 1929.
 
-[Trustees Ordinance 1955 Ed., s. 34]
+[UK Trustee 1925, s. 32; Trustees Ordinance 1955 Ed., s. 34]
 
 ### Protective trusts
 
@@ -1028,7 +1038,7 @@ as the trustees in their absolute discretion, without being liable to account fo
 
 (3) Nothing in this section shall operate to validate any trust which would, if contained in the instrument creating the trust, be liable to be set aside.
 
-[Trustees Ordinance 1955 Ed., s. 35]
+[UK Trustee 1925, s. 33; Trustees Ordinance 1955 Ed., s. 35]
 
 ## PART IV
 
@@ -1044,7 +1054,7 @@ APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (2) The restrictions hereby imposed on the number of trustees shall not apply in the case of property vested in trustees for charitable, religious or public purposes.
 
-[Trustees Ordinance 1955 Ed., s. 36]
+[UK Trustee 1925, s. 34; Trustees Ordinance 1955 Ed., s. 36]
 
 ### Power of appointing new or additional trustees
 
@@ -1094,7 +1104,7 @@ may, by writing, appoint another person or other persons to be an additional tru
 
 (10) Where a trustee lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee and is also entitled in possession to some beneficial interest in the trust property, no appointment of a new trustee in his place shall be made by the continuing trustees or trustee, under this section, unless leave has been given by the court to make the appointment.
 
-[Trustees Ordinance 1955 Ed., s. 37]
+[UK Trustee 1925, s. 36; Trustees Ordinance 1955 Ed., s. 37]
 
 [21/2008 wef 01/03/2010]
 
@@ -1112,7 +1122,7 @@ may, by writing, appoint another person or other persons to be an additional tru
 
 (2) Nothing in this Act shall authorise the appointment of a sole trustee, not being a trust corporation, where the trustee, when appointed, would not be able to give valid receipts for all capital money arising under the trust.
 
-[Trustees Ordinance 1955 Ed., s. 38]
+[UK Trustee 1925, s. 37; Trustees Ordinance 1955 Ed., s. 38]
 
 ### Evidence as to a vacancy in a trust
 
@@ -1120,7 +1130,7 @@ may, by writing, appoint another person or other persons to be an additional tru
 
 (2) In favour of such purchaser, any appointment of a new trustee depending on that statement and any vesting declaration, express or implied, consequent on the appointment, shall be valid.
 
-[Trustees Ordinance 1955 Ed., s. 39]
+[UK Trustee 1925, s. 38; Trustees Ordinance 1955 Ed., s. 39]
 
 ### Retirement of trustee without a new appointment
 
@@ -1134,7 +1144,7 @@ the trustee desirous of being discharged shall be deemed to have retired from th
 
 (2) Any assurance or thing requisite for vesting the trust property in the continuing trustees alone shall be executed or done.
 
-[Trustees Ordinance 1955 Ed., s. 40]
+[UK Trustee 1925, s. 39; Trustees Ordinance 1955 Ed., s. 40]
 
 ### Vesting of trust property in new or continuing trustees
 
@@ -1164,7 +1174,7 @@ the trustee desirous of being discharged shall be deemed to have retired from th
 
 (6) This section shall apply to deeds of appointment or discharge executed on or after 1st August 1886.
 
-[Trustees Ordinance 1955 Ed., s. 41]
+[UK Trustee 1925, s. 40; Trustees Ordinance 1955 Ed., s. 41]
 
 ## PART IVA
 
@@ -1216,9 +1226,9 @@ Agents
 
 (b) the work in connection with the trade is mainly carried out by beneficiaries of the trust.
 
-[[UK Trustee 2000, s. 11] ]
-
 [45/2004]
+
+[UK Trustee 2000, s. 11]
 
 ### Persons who may act as agents
 
@@ -1274,9 +1284,9 @@ A person who is authorised under section 41B to exercise the general power of in
 
 (c) a term permitting the agent to act in circumstances capable of giving rise to a conflict of interest.
 
-[[UK Trustee 2000, s. 14] ]
-
 [45/2004]
+
+[UK Trustee 2000, s. 14]
 
 ### Asset management — special restrictions
 
@@ -1312,9 +1322,9 @@ A person who is authorised under section 41B to exercise the general power of in
 
 (c) the management of property which is subject to the trust and the disposal of, or the creation or disposal of an interest in, such property.
 
-[UK Trustee 2000, s. 15]
-
 [45/2004]
+
+[UK Trustee 2000, s. 15]
 
 Nominees and custodians
 
@@ -1416,9 +1426,9 @@ that the affairs of the first-mentioned body corporate are conducted in accordan
 
 (b) authorised to exercise functions as their agent (whether under section 41B or any other power).
 
-[[UK Trustee 2000, s. 19] ]
-
 [45/2004]
+
+[UK Trustee 2000, s. 19]
 
 ### Terms of appointment of nominees and custodians
 
@@ -1438,9 +1448,9 @@ that the affairs of the first-mentioned body corporate are conducted in accordan
 
 (c) a term permitting the nominee or custodian to act in circumstances capable of giving rise to a conflict of interest.
 
-[[UK Trustee 2000, s. 20] ]
-
 [45/2004]
+
+[UK Trustee 2000, s. 20]
 
 Review of and liability for agents, nominees and custodians, etc.
 
@@ -1500,9 +1510,9 @@ Review of and liability for agents, nominees and custodians, etc.
 
 (b) a power to revoke the authorisation or appointment of the agent, nominee or custodian.
 
-[[UK Trustee 2000, s. 22] ]
-
 [45/2004]
+
+[UK Trustee 2000, s. 22]
 
 ### Liability for agents, nominees and custodians, etc.
 
@@ -1520,9 +1530,9 @@ Review of and liability for agents, nominees and custodians, etc.
 
 (b) when carrying out his duties under section 41M in so far as they relate to the use of the substitute.
 
-[UK Trustee 2000, s. 23]
-
 [45/2004]
+
+[UK Trustee 2000, s. 23]
 
 Supplementary
 
@@ -1612,9 +1622,9 @@ and the services he provides to or on behalf of the trust fall within that descr
 
 (b) does not act in a professional capacity.
 
-[[UK Trustee 2000, s. 28] ]
-
 [45/2004]
+
+[UK Trustee 2000, s. 28]
 
 ### Remuneration of certain trustees
 
@@ -1738,19 +1748,19 @@ POWERS OF COURT
 
 [22/2008 wef 01/03/2010]
 
-[Trustees Ordinance 1955 Ed., s. 42]
+[UK Trustee 1925, s. 41; Trustees Ordinance 1955 Ed., s. 42]
 
 ### Power to authorise remuneration
 
 43\. The court may allow any trustee, other than the Public Trustee, such remuneration for his services as trustee as the court may think fit.
 
-[Trustees Ordinance 1955 Ed., s. 43]
+[UK Trustee 1925, s. 42; Trustees Ordinance 1955 Ed., s. 43]
 
 ### Powers of new trustee appointed by the court
 
 44\. Every trustee appointed by a court of competent jurisdiction shall, as well before as after the trust property becomes by law, or by assurance, or otherwise, vested in him, have the same powers, authorities and discretions, and may in all respects act as if he had been originally appointed a trustee by the instrument, if any, creating the trust.
 
-[Trustees Ordinance 1955 Ed., s. 44]
+[UK Trustee 1925, s. 43; Trustees Ordinance 1955 Ed., s. 44]
 
 Vesting Orders
 
@@ -1786,7 +1796,7 @@ the court may make an order (referred to in this Act as a vesting order) vesting
 
 (3) Where the order relates to a trustee entitled or formerly entitled jointly with another person, and such trustee is under disability or out of the jurisdiction of the court or cannot be found, or being a corporation has been dissolved, the land, interest or right shall be vested in such other person who remains entitled, either alone or with any other person, as the court may appoint.
 
-[Trustees Ordinance 1955 Ed., s. 45]
+[UK Trustee 1925, s. 44; Trustees Ordinance 1955 Ed., s. 45]
 
 ### Orders as to contingent rights of unborn persons
 
@@ -1796,13 +1806,13 @@ the court may make an order (referred to in this Act as a vesting order) vesting
 
 (b) vesting in any person the estate or interest to or of which the unborn person or class of unborn persons would, on coming into existence, be entitled or possessed in the land.
 
-[Trustees Ordinance 1955 Ed., s. 46]
+[UK Trustee 1925, s. 45; Trustees Ordinance 1955 Ed., s. 46]
 
 ### Vesting order in place of conveyance by infant mortgagee
 
 47\. Where any person entitled to or possessed of any interest in land, or entitled to a contingent right in land, by way of security for money, is an infant, the court may make an order vesting or releasing or disposing of the interest in the land or the right in the like manner as in the case of a trustee under disability.
 
-[Trustees Ordinance 1955 Ed., s. 47]
+[UK Trustee 1925, s. 46; Trustees Ordinance 1955 Ed., s. 47]
 
 ### Vesting order consequential on order for sale or mortgage of land
 
@@ -1810,7 +1820,7 @@ the court may make an order (referred to in this Act as a vesting order) vesting
 
 (2) The court may, if it thinks expedient, make an order vesting the land or any part thereof, for such estate or interest as the court thinks fit in the purchaser or mortgagee or in any other person.
 
-[Trustees Ordinance 1955 Ed., s. 48]
+[UK Trustee 1925, s. 47; Trustees Ordinance 1955 Ed., s. 48]
 
 ### Vesting order consequential on judgment for specific performance, etc.
 
@@ -1822,7 +1832,7 @@ the court may make an order (referred to in this Act as a vesting order) vesting
 
 and thereupon the court may make a vesting order relating to the rights of those persons, born and unborn, as if they had been trustees.
 
-[Trustees Ordinance 1955 Ed., s. 49]
+[UK Trustee 1925, s. 48; Trustees Ordinance 1955 Ed., s. 49]
 
 ### Effect of vesting order
 
@@ -1836,13 +1846,13 @@ and thereupon the court may make a vesting order relating to the rights of those
 
 (b) in every other case have the same effect as if the trustee, mortgagee or other person or description or class of persons to whose rights or supposed rights the relevant provisions respectively relate had been an ascertained and existing person of full capacity, and had executed a conveyance or release to the effect intended by the order.
 
-[Trustees Ordinance 1955 Ed., s. 50]
+[UK Trustee 1925, s. 49; Trustees Ordinance 1955 Ed., s. 50]
 
 ### Power to appoint person to convey
 
 51\. In all cases where a vesting order can be made under this Act, the court may, if it is more convenient, appoint a person to convey the land or any interest therein or release the contingent right, and a conveyance or release by that person in conformity with the order shall have the same effect as an order under the appropriate provision.
 
-[Trustees Ordinance 1955 Ed., s. 51]
+[UK Trustee 1925, s. 50; Trustees Ordinance 1955 Ed., s. 51]
 
 ### Vesting orders as to stock and thing in action
 
@@ -1886,13 +1896,13 @@ the court may make an order vesting the right to transfer or call for a transfer
 
 (9) The provisions of this Act as to vesting orders shall apply to shares in ships registered under any written law relating to merchant shipping as if they were stock.
 
-[Trustees Ordinance 1955 Ed., s. 52]
+[UK Trustee 1925, s. 51; Trustees Ordinance 1955 Ed., s. 52]
 
 ### Vesting orders of charity or society property
 
 53\. The powers conferred by this Act as to vesting orders may be exercised for vesting any interest in land, stock or thing in action in any trustee of a charity or society over which the court would have jurisdiction upon action duly instituted, whether the appointment of the trustee was made by instrument under a power or by the court under its general or statutory jurisdiction.
 
-[Trustees Ordinance 1955 Ed., s. 53]
+[UK Trustee 1925, s. 52; Trustees Ordinance 1955 Ed., s. 53]
 
 ### Vesting orders in relation to infant’s beneficial interest
 
@@ -1902,7 +1912,7 @@ the court may make an order vesting the right to transfer or call for a transfer
 
 (b) in the case of stock, or a thing in action, vesting in any person the right to transfer or call for a transfer of the stock, or to receive the dividends or income thereof, or to sue for and recover such thing in action, upon such terms as the court may think fit.
 
-[Trustees Ordinance 1955 Ed., s. 54]
+[UK Trustee 1925, s. 53; Trustees Ordinance 1955 Ed., s. 54]
 
 ### Orders made upon certain allegations to be conclusive evidence
 
@@ -1922,7 +1932,7 @@ the fact that the order has been so made shall be conclusive evidence of the mat
 
 (2) Nothing in this section shall prevent the court from directing a reconveyance or surrender or the payment of costs occasioned by any such order if improperly obtained.
 
-[Trustees Ordinance 1955 Ed., s. 55]
+[UK Trustee 1925, s. 55; Trustees Ordinance 1955 Ed., s. 55]
 
 Jurisdiction to make other Order
 
@@ -1938,7 +1948,7 @@ Jurisdiction to make other Order
 
 (3) An application to the court under this section may be made by the trustees, or by any of them or by any person beneficially interested under the trust.
 
-[Trustees Ordinance 1955 Ed., s. 56]
+[UK Trustee 1925, s. 57; Trustees Ordinance 1955 Ed., s. 56]
 
 ### Persons entitled to apply for orders
 
@@ -1946,25 +1956,25 @@ Jurisdiction to make other Order
 
 (2) An order under this Act concerning any interest in land, stock or thing in action subject to a mortgage may be made on the application of any person beneficially interested in the equity of redemption, whether under disability or not, or of any person interested in the money secured by the mortgage.
 
-[Trustees Ordinance 1955 Ed., s. 57]
+[UK Trustee 1925, s. 58; Trustees Ordinance 1955 Ed., s. 57]
 
 ### Power to give judgment in absence of trustee
 
 58\. Where in any action the court is satisfied that diligent search has been made for any person who, in the character of trustee, is made a defendant in any action, to serve him with a process of the court, and that he cannot be found, the court may hear and determine the action and give judgment therein against that person in his character of a trustee as if he had been duly served, or had entered an appearance in the action, and had also appeared by his solicitor at the hearing, but without prejudice to any interest he may have in the matters in question in the action in any other character.
 
-[Trustees Ordinance 1955 Ed., s. 58]
+[UK Trustee 1925, s. 59; Trustees Ordinance 1955 Ed., s. 58]
 
 ### Power to charge costs on trust estate
 
 59\. The court may order the costs and expenses of and incident to any application for an order appointing a new trustee, or for a vesting order, or of and incident to any such order, or any conveyance or transfer in pursuance thereof, to be raised and paid out of the property in respect whereof the same is made, or out of the income thereof, or to be borne and paid in such manner and by such persons as to the court may seem just.
 
-[Trustees Ordinance 1955 Ed., s. 59]
+[UK Trustee 1925, s. 60; Trustees Ordinance 1955 Ed., s. 59]
 
 ### Power to relieve trustee from personal liability
 
 60\. If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before, on or after 1st September 1929, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed the breach, then the court may relieve him either wholly or partly from personal liability for the same.
 
-[Trustees Ordinance 1955 Ed., s. 60]
+[UK Trustee 1925, s. 61; Trustees Ordinance 1955 Ed., s. 60]
 
 ### Power to make beneficiary indemnify for breach of trust
 
@@ -1972,7 +1982,7 @@ Jurisdiction to make other Order
 
 (2) This section shall apply to breaches of trust committed as well before as on or after 1st September 1929.
 
-[Trustees Ordinance 1955 Ed., s. 61]
+[UK Trustee 1925, s. 62; Trustees Ordinance 1955 Ed., s. 61]
 
 Payment into Court
 
@@ -1988,7 +1998,7 @@ Payment into Court
 
 (5) Every transfer, payment and delivery made in pursuance of any such order shall be valid and take effect as if the same had been made on the authority or by the act of all the persons entitled to the money and securities so transferred, paid or delivered.
 
-[Trustees Ordinance 1955 Ed., s. 62]
+[UK Trustee 1925, s. 63; Trustees Ordinance 1955 Ed., s. 62]
 
 ## PART VI
 
@@ -2112,7 +2122,7 @@ Incorporation of Trustees
 
 Applications and certificates to be stamped
 
-73\. [Repealed byAct 38/2002]
+73\. [Repealed by Act 38/2002]
 
 ### Gifts to vest in body corporate
 
@@ -2204,15 +2214,15 @@ Applications and certificates to be stamped
 
 UNIT TRUST SCHEMES
 
-\*Part VII is repealed by the Trustees (Amendment) Act 2004 (Act 45 of 2004) and any order made under that Part declaring any unit trust scheme to be an authorised unit trust scheme for the purposes thereof shall cease to have effect.
+\*Part VII is repealed by Trustees (Amendment) Act 2004 (Act 45 of 2004) and any order made under that Part declaring any unit trust scheme to be an authorised unit trust scheme for the purposes thereof shall cease to have effect.
 
 Power of Minister to make order declaring a unit trust scheme to be an authorised unit trust scheme
 
-83\. [Repealed byAct 45/2004]
+83\. [Repealed by Act 45/2004]
 
 Investigation into the administration of unit trust scheme by inspectors appointed by Minister
 
-84\. [Repealed byAct 45/2004]
+84\. [Repealed by Act 45/2004]
 
 ## PART VIII
 
@@ -2224,7 +2234,7 @@ GENERAL PROVISIONS
 
 (2) It shall not be necessary for any person to inquire concerning the propriety of the order, or whether the court by which the order was made had jurisdiction to make it.
 
-[Trustees Ordinance 1955 Ed., s. 64]
+[UK Trustee 1925, s. 66; Trustees Ordinance 1955 Ed., s. 64]
 
 ### Avoidance of dispositions and trusts created to defraud creditors
 
@@ -2306,7 +2316,7 @@ FIRST SCHEDULE
 
 Sections 3A(1) and 41N
 
-Application of Statutory Duty of Care under Part ia
+Application of Statutory Duty of Care under Part IA
 
 Investment
 
@@ -2370,15 +2380,15 @@ Reversionary interests, valuations and audit
 
 (b) when exercising any corresponding power, however conferred.
 
-[UK Trustee 2000, Sch. 1]
-
 [45/2004]
+
+[UK Trustee 2000, Sch. 1]
 
 SECOND SCHEDULE
 
 Section 67(1)
 
-Particulars to be Inserted in Application for Incorporation of Trustees
+Particulars to be inserted in application for incorporation of trustees
 
 1\. The objects of the body or association of persons, and the rules and regulations of the same, together with the date of, and parties to every deed, will or other instrument (if any) creating, constituting or regulating the same.
 
@@ -2396,7 +2406,7 @@ THIRD SCHEDULE
 
 Section 27(5)
 
-Form of Power of Attorney under Section 27 (5)
+Form of Power of Attorney under section 27(5)
 
 THIS GENERAL TRUSTEE POWER OF ATTORNEY is made on [date] by [name of one donor] of [address of donor] as trustee of [name or details of one trust].
 
@@ -2412,7 +2422,7 @@ Trustees Act
 
 (CHAPTER 337)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 Malaya Trustees (Incorporation) 1952
 
@@ -2456,7 +2466,7 @@ Trustees Act
 
 (CHAPTER 337)
 
-This Legislative History is provided for the convenience of users of the Trustees Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Trustees Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2572,6 +2582,7 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |25.|**2005 Revised Edition—Trustees Act**|
+||(G.N. No. S 340/2012 — Rectification Order)||
 ||Date of operation|31 July 2005|
 |26.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
@@ -2595,6 +2606,10 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|30.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011 (Bill No. 21/2012 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
 ## COMPARATIVE TABLE
 
 Trustees Act
@@ -2651,17 +2666,15 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 91 
 
-26 (Savings, transitional and further consequential provisions) of the Trustees (Amendment) Act 2004 (Act 45/2004)
+26 
 
-COMPARATIVE TABLE
+(Savings, transitional and further consequential provisions) of the Trustees (Amendment) Act 2004 (Act 45/2004)
 
 ## COMPARATIVE TABLE
 
 Trustees Act
 
 (CHAPTER 337)
-
-TRUSTEES ACT (CHAPTER 337, 1999 EDITION) 
 
 The following provisions in the 1985 Revised Edition of the Trustees Act were renumbered by the Law Revision Commissioners in the 1999 Revised Edition.
 
@@ -2679,21 +2692,21 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 17 
 
-15 (3) and (4)
+15 —(3) and (4)
 
-18 (3)
+18 —(3)
 
 (5)
 
 (4)
 
-16 (1) and (2)
+16 —(1) and (2)
 
 19 
 
-17 (1) and (2)
+17 —(1) and (2)
 
-20 (1)
+20 —(1)
 
 (3) and (4)
 
@@ -2723,9 +2736,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 26 
 
-24 (2) and (3)
+24 —(2) and (3)
 
-27 (2)
+27 —(2)
 
 (4)
 
@@ -2735,25 +2748,25 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (4)
 
-25 (3), (4) and (5)
+25 —(3), (4) and (5)
 
-28 (3)
+28 —(3)
 
 26 
 
 29 
 
-27 (1A)
+27 —(1A)
 
-Proviso to30 (1)
+Proviso to30 —(1)
 
 28 
 
 31 
 
-29 (2) and (3)
+29 —(2) and (3)
 
-32 (2)
+32 —(2)
 
 (4)
 
@@ -2763,7 +2776,7 @@ Proviso to30 (1)
 
 33 
 
-31 (1), (2) and (3)
+31 —(1), (2) and (3)
 
 34 
 
@@ -2771,13 +2784,13 @@ Proviso to30 (1)
 
 35 
 
-33 (1) and (1A)
+33 —(1) and (1A)
 
 36 
 
-34 (1), (2), (3) and (4)
+34 —(1), (2), (3) and (4)
 
-37 (1)
+37 —(1)
 
 (5)
 
@@ -2791,9 +2804,9 @@ Proviso to30 (1)
 
 39 
 
-37 (6) and (7)
+37 —(6) and (7)
 
-40 (6)
+40 —(6)
 
 (8)
 
@@ -2819,17 +2832,17 @@ Proviso to30 (1)
 
 43 
 
-41 (4) and (5)
+41 —(4) and (5)
 
-44 (4)
+44 —(4)
 
 (6)
 
 (5)
 
-42 (1) and (2)
+42 —(1) and (2)
 
-45 (1)
+45 —(1)
 
 (3)
 
@@ -2859,7 +2872,7 @@ Proviso to30 (1)
 
 50 
 
-48 (1) and (2)
+48 —(1) and (2)
 
 51 
 
@@ -2875,9 +2888,9 @@ Proviso to30 (1)
 
 54 
 
-52 (1), (2) and (3)
+52 —(1), (2) and (3)
 
-55 (1)
+55 —(1)
 
 (4) and (5)
 
@@ -2907,7 +2920,7 @@ Proviso to30 (1)
 
 57 
 
-55 (1) and (2)
+55 —(1) and (2)
 
 58 
 
@@ -2951,7 +2964,7 @@ Proviso to30 (1)
 
 68 
 
-66 (1) and (2)
+66 —(1) and (2)
 
 69 
 
@@ -2959,23 +2972,23 @@ Proviso to30 (1)
 
 70 
 
-68 (1), (2) and (3)
+68 —(1), (2) and (3)
 
-71 (1)
+71 —(1)
 
 (4)
 
 (2)
 
-69 (1) and (2)
+69 —(1) and (2)
 
-72 (1)
+72 —(1)
 
-70 (1) and (2)
+70 —(1) and (2)
 
 73 
 
-71 (1) and (2)
+71 —(1) and (2)
 
 74 
 
@@ -3003,17 +3016,17 @@ Proviso to30 (1)
 
 80 
 
-78 (3), (4) and (5)
+78 —(3), (4) and (5)
 
-81 (3)
+81 —(3)
 
 (6) and (7)
 
 (4)
 
-79 (2) and (3)
+79 —(2) and (3)
 
-82 (2)
+82 —(2)
 
 80 (1) and (2)
 
@@ -3027,9 +3040,9 @@ Proviso to30 (1)
 
 85 
 
-83 (1) and (2)
+83 —(1) and (2)
 
-86 (1)
+86 —(1)
 
 (3) and (4)
 
@@ -3039,9 +3052,11 @@ Proviso to30 (1)
 
 87 
 
+—
+
 88 (Deleted by Act 797)
 
-85 (1) and (2)
+85 —(1) and (2)
 
 89 
 
