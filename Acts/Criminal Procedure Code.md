@@ -2493,7 +2493,9 @@ the person must be released on bail by a police officer in cases determined by t
 
 93\.—(1) Subject to section 95(1), if any person accused of any non-bailable offence is arrested or detained without warrant by a police officer, or appears or is brought before a court, he may be released on bail by a police officer of or above the rank of sergeant or by the court.
 
-(2) If, at any stage of an investigation, inquiry, trial or other proceeding under this Code, there are no reasonable grounds for believing that the accused has committed a non-bailable offence, the police officer or court must release him.
+(2) Subject to section 95(1), if, at any stage of an investigation, inquiry, trial or other proceeding under this Code, there are no reasonable grounds for believing that the accused has committed a non-bailable offence, the police officer or court must release him.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (3) Notwithstanding subsection (2), if there are grounds for further investigations as to whether the accused has committed some other bailable offence, then, pending the investigations, the accused must be released on bail or, at the discretion of the police officer or court, on his own personal bond.
 
@@ -2519,13 +2521,25 @@ the person must be released on bail by a police officer in cases determined by t
 
 95\.—(1) An accused shall not be released on bail or on personal bond if —
 
-(a) he is charged for an offence punishable with death, imprisonment for life or imprisonment for a term of 20 years or more;
+(a) he is charged for an offence punishable with death or imprisonment for life;
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (b) having been previously released on bail or personal bond in any criminal proceedings, he had not surrendered to custody or made himself available for investigations or attended court, and the court believes that in view of this failure, he would not surrender to custody, or make himself available for investigations or attend court if released; or
 
 (c) he has been arrested or taken into custody under a warrant issued under section 10, 24 or 34 of the Extradition Act (Cap. 103) or endorsed under section 33 of that Act.
 
-(2) Notwithstanding subsection (1), the court may direct that any juvenile or any sick or infirm person accused of such an offence be released on bail.
+(2) Notwithstanding subsection (1), the court may —
+
+(a) direct that any juvenile or any sick or infirm person accused of such an offence be released on bail; or
+
+(b) release on bail an accused charged with an offence referred to in subsection (1)(a), if —
+
+(i) the offence is also punishable with an alternative punishment other than death or life imprisonment; and
+
+(ii) the offence is to be tried before a District Court or a Magistrate’s Court.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (3) In this section, “accused” includes a “fugitive” as defined in the Extradition Act.
 
@@ -2617,7 +2631,9 @@ the court may remand him in custody or grant him bail subject to such conditions
 
 (b) keep in daily communication with the released person and lodge a police report within 24 hours of losing contact with him; and
 
-(c) ensure that the released person is within Singapore unless the released person has been permitted by the court to leave Singapore.
+(c) ensure that the released person is within Singapore unless the released person has been permitted by the police officer referred to in section 92 or 93 (as the case may be) or the court to leave Singapore.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (2) If the surety is in breach of any of his duties, the court may, having regard to all the circumstances of the case, forfeit the whole or any part of the amount of the bond.
 
@@ -3582,7 +3598,9 @@ General matters
 
 ### Remand of accused
 
-174\. Any such person produced under section 173 may be remanded in custody for not more than 8 days at a time.
+174\. Any such person produced under section 173 may be remanded in accordance with section 238.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 ### Procedure for cases to be tried in High Court
 
@@ -4485,15 +4503,15 @@ General provisions
 
 238\.—(1) The court may postpone or adjourn any inquiry, trial or other proceedings on such terms as it thinks fit and for as long as it considers reasonable, if the absence of a witness or any other reasonable cause makes this necessary or advisable.
 
-(2) If the accused is not on bail, the court may by a warrant remand him in custody as it thinks fit.
+(2) Subject to subsection (3), if the accused is not on bail, the court may by a warrant remand him in custody as it thinks fit.
 
-(3) If the accused is on bail, the court may extend the bail.
+(3) If it appears likely that further evidence may be obtained by a remand, the court may so remand the accused in custody for the purpose of any investigation by a law enforcement agency but not for more than 8 days at a time.
 
-(4) No Magistrate’s Court may remand an accused in custody under this section for more than 8 days at a time.
-
-Explanation— If sufficient evidence has been obtained to raise a suspicion that the accused may have committed an offence and it appears likely that further evidence may be obtained by a remand, this is a reasonable cause for a remand.
+(4) If the accused is on bail, the court may extend the bail.
 
 (5) The court must record in writing the reasons for the postponement or adjournment of the proceedings.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 Division 2 —
 
@@ -6736,7 +6754,13 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 (5) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is an accused or a complainant, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the appellant or his advocate at the address mentioned in the notice of appeal, a notice that a copy each of the record of proceedings and the grounds of decision are available and can be had on applying for the same.
 
-(6) Where an appellant makes an application pursuant to subsection (5), he shall be served with a copy each of the record of proceedings and the grounds of decision upon the payment of the prescribed fee, unless the Registrar of the Subordinate Courts or the Registrar of the Supreme Court, as the case may be, for some special reason thinks it fit to furnish them free of charge.
+(6) Subject to subsection (6A), where an appellant makes an application pursuant to subsection (5), he shall be served with a copy each of the record of proceedings and the grounds of decision upon the payment of the prescribed fee.
+
+[Act 2 of 2012 wef 01/03/2012]
+
+(6A) The Registrar of the Subordinate Courts or the Registrar of the Supreme Court, as the case may be, may, as he thinks fit, furnish copies of the record of proceedings and the grounds of decision free of charge in any specific case or category of cases.
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (7) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is the Public Prosecutor, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the Public Prosecutor a copy each of the record of proceedings and the grounds of decision free of charge.
 
@@ -7300,6 +7324,22 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 (c) any form which is to be used by any person in relation to any matter under this Code;
 
 (d) for carrying into effect the purposes of Division 2 of Part X;
+
+(da) in relation to documents being filed with, served on, delivered or otherwise conveyed to any court or any party to any criminal matter —
+
+(i) the establishment of any electronic filing service and any other matter which relates to the use or operation of the electronic filing service;
+
+(ii) the manner and form of any such filing, service, delivery or conveyance;
+
+(iii) the modification of such provisions of the Evidence Act (Cap. 97) as may be necessary for the purpose of facilitating the use in court of documents filed, served, delivered or conveyed using the electronic filing service;
+
+(iv) the burden of proof and rebuttable presumptions in relation to the identity and authority of the person filing, serving, delivering or conveying the documents by the use of the electronic filing service;
+
+(v) the authentication of documents filed, served, delivered or conveyed by the use of the electronic filing service; and
+
+(vi) the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings which involve the use or operation of the electronic filing service;
+
+[Act 2 of 2012 wef 01/03/2012]
 
 (e) the prescribing of anything that is required or permitted to be prescribed under this Code.
 
