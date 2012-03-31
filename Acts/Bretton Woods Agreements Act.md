@@ -32,11 +32,13 @@
 
 - [12 Companies Act not to apply to Bank and to issue by Bank of shares, debentures, etc.](#Companies-Act-not-to-apply-to-Bank-and-to-issue-by-Bank-of-shares-debentures-etc)
 
-[**FIRST SCHEDULE Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Monetary Fund**](#FIRST-SCHEDULE-Terms-and-Conditions-Upon-Which-Singapore-Is-Admitted-to-Membership-of-the-International-Monetary-Fund)
+[**FIRST SCHEDULE Terms and conditions upon which Singapore is admitted to membership of the International Monetary Fund**](#FIRST-SCHEDULE-Terms-and-conditions-upon-which-Singapore-is-admitted-to-membership-of-the-International-Monetary-Fund)
 
-[**SECOND SCHEDULE Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Bank for Reconstruction and Development**](#SECOND-SCHEDULE-Terms-and-Conditions-Upon-Which-Singapore-Is-Admitted-to-Membership-of-the-International-Bank-for-Reconstruction-and-Development)
+[**SECOND SCHEDULE Terms and conditions upon which Singapore is admitted to membership of the International Bank for Reconstruction and Development**](#SECOND-SCHEDULE-Terms-and-conditions-upon-which-Singapore-is-admitted-to-membership-of-the-International-Bank-for-Reconstruction-and-Development)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Bretton Woods Agreements Act
 
@@ -44,13 +46,11 @@
 
 (Original Enactment: Act 17 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 2012
 
-(30th March 1987)
+(31st March 2012)
 
 An Act to enable Singapore to become a member of the International Monetary Fund and of the International Bank for Reconstruction and Development by acceptance of the International Agreements for the establishment and operation of the Fund and the Bank.
-
-[4th July 1966]
 
 Whereas the International Monetary Fund and the International Bank for Reconstruction and Development were established in pursuance of agreements drawn up at the United Nations Monetary and Financial Conference held at Bretton Woods in New Hampshire in the United States of America in July 1944:
 
@@ -59,6 +59,8 @@ And Whereas copies of the text of the Articles of the said Agreements have been 
 And Whereas the International Monetary Fund and the International Bank for Reconstruction and Development have prescribed the terms and conditions set out in the First and Second Schedules as the terms and conditions upon which Singapore may be admitted to membership of the International Monetary Fund and the International Bank for Reconstruction and Development respectively:
 
 And Whereas, for the purpose of complying with the terms and conditions aforesaid, it is necessary to make provision as hereinafter set out.
+
+[4th July 1966]
 
 ### Short title
 
@@ -86,9 +88,7 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (b) pursuant to Resolution No. 31-4 adopted by the Board of Governors of the Fund on 30th April 1976 in order to establish a reformed international monetary system;
 
-“Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act [Cap. 186].
-
-[2A
+“Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186).
 
 [4/80]
 
@@ -102,8 +102,6 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (3) The Monetary Authority of Singapore is hereby authorised to create and issue to the Fund in such form as is appropriate any such non-interest bearing and non-negotiable notes or other obligations as the Fund may, under section 4 of Article III of the Fund Agreement, determine to accept in place of any part of the subscription of Singapore which would, but for such acceptance, be payable in the currency of Singapore.
 
-[3
-
 ### Power of Monetary Authority of Singapore in respect of special drawing rights
 
 5\. The Monetary Authority of Singapore shall have power from time to time to acquire, hold and deal with special drawing rights of the Government in accordance with the Fund Agreement and to perform all acts supplemental or incidental thereto, including —
@@ -113,8 +111,6 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 (b) the receipt of the interest payable by the Fund in respect of special drawing rights under section 1 of the said Article XX; and
 
 (c) the discharge of any other obligations as a participant in the Special Drawing Rights Department maintained by the Fund.
-
-[4
 
 [4/80]
 
@@ -130,23 +126,19 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (d) to receive any remuneration payable by the Fund under section 9 of Article V of the Fund Agreement or any other sums payable by the Fund.
 
-[4A
-
 [4/80]
 
 ### Subscription to International Bank for Reconstruction and Development
 
-7\.—(1) (a) There shall be charged on the Consolidated Fund such part of the subscription of Singapore specified in paragraph 2 of the terms and conditions set out in the Second Schedule as may, in accordance with those terms and conditions and the provisions of Article II of the Bank Agreement, be payable in gold or United States dollars or in the currency of Singapore.
+7\.—(1) There shall be charged on the Consolidated Fund such part of the subscription of Singapore specified in paragraph 2 of the terms and conditions set out in the Second Schedule as may, in accordance with those terms and conditions and the provisions of Article II of the Bank Agreement, be payable in gold or United States dollars or in the currency of Singapore.
 
-(b) There shall be charged on the Consolidated Fund such part of any increase in the subscription of Singapore as may, in accordance with the provisions of Article II of the Bank Agreement, be payable in gold or United States dollars or in the currency of Singapore.
+(2) There shall be charged on the Consolidated Fund such part of any increase in the subscription of Singapore as may, in accordance with the provisions of Article II of the Bank Agreement, be payable in gold or United States dollars or in the currency of Singapore.
 
-(c) Except with the approval signified by resolution of Parliament, the subscription of Singapore shall not be increased so that it (including any increases) exceeds the sum of forty million United States dollars.
+(3) Except with the approval signified by resolution of Parliament, the subscription of Singapore shall not be increased so that it (including any increases) exceeds the sum of US$40 million.
 
-(2) The Minister for Finance with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the International Bank for Reconstruction and Development such non-interest-bearing and non-negotiable notes or other obligations as the Bank may, under section 12 of Article V of the Bank Agreement, determine to accept in place of the currency of Singapore.
+(4) The Minister for Finance with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the International Bank for Reconstruction and Development such non-interest-bearing and non-negotiable notes or other obligations as the Bank may, under section 12 of Article V of the Bank Agreement, determine to accept in place of the currency of Singapore.
 
-[5
-
-[11/1991 wef 30/11/1991]
+[11/91]
 
 ### Other payments to International Bank
 
@@ -156,15 +148,11 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (b) all sums required for the redemption of any notes or obligations created and issued to that Bank under this Act.
 
-[6
-
 ### Power to raise loans
 
 9\. For the purpose of providing any sums required for making any payments under the Fund Agreement, Bank Agreement, or the membership resolutions set out in the First and Second Schedules, the Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit and the principal and interest of such securities and the charges and expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
 
-[8
-
-[11/1991 wef 30/11/1991]
+[11/91]
 
 ### Moneys received by Government to be paid into Consolidated Fund
 
@@ -172,27 +160,23 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 [4/80]
 
-[9
-
 ### Orders for carrying Agreements into effect
 
 11\.—(1) The President may, by order, make such provision as he may consider reasonably necessary for carrying into effect any of the provisions of the Fund Agreement and the Bank Agreement including but not limited to those relating to the status, immunities and privileges of the International Monetary Fund and of the International Bank for Reconstruction and Development and their respective governors, executive directors, alternates, officers and employees, and the provisions of the Fund Agreement with regard to the unenforceability of exchange contracts.
 
 (2) Without prejudice to the generality of subsection (1), any order made under that subsection may declare that any specified provisions of the Fund Agreement or the Bank Agreement shall have the force of law in Singapore.
 
-[10
-
 ### Companies Act not to apply to Bank and to issue by Bank of shares, debentures, etc.
 
-12\. The International Bank for Reconstruction and Development shall be deemed not to be a corporation within the meaning of the Companies Act [Cap. 50]; and the provisions of that Act shall not, accordingly, apply to the Bank or to the issue by the Bank of any shares, debentures, bonds, notes or other securities.
+12\. The International Bank for Reconstruction and Development shall be deemed not to be a corporation within the meaning of the Companies Act (Cap. 50); and the provisions of that Act shall not, accordingly, apply to the Bank or to the issue by the Bank of any shares, debentures, bonds, notes or other securities.
 
 [13/81]
 
 FIRST SCHEDULE
 
-Sections 4 and 9.
+Sections 4 and 9
 
-Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Monetary Fund
+Terms and conditions upon which Singapore is admitted to membership of the International Monetary Fund
 
 Resolution adopted by the Board of Governors of the International Monetary Fund, on February 21 1966
 
@@ -232,9 +216,9 @@ Now, Therefore, the Board of Governors, having considered the recommendations of
 
 SECOND SCHEDULE
 
-Sections 7 and 9.
+Sections 7 and 9
 
-Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Bank for Reconstruction and Development
+Terms and conditions upon which Singapore is admitted to membership of the International Bank for Reconstruction and Development
 
 Resolution adopted by the Board of Governors of the International Bank for Reconstruction and Development on February 21 1966
 
@@ -278,7 +262,7 @@ That the terms and conditions upon which Singapore shall be admitted to membersh
 
 (b) made the payments called for by paragraph 4 of this Resolution;
 
-(c) furnished the representation, and such information as may have been requested, pursuant to paragraph 5 of this Resolution:
+(c) furnished the representation, and such information as may have been requested, pursuant to paragraph 5 of this Resolution;
 
 (d) deposited with the Government of the United States of America an instrument stating that it has accepted in accordance with its law the Articles and all the terms and conditions prescribed in this Resolution, and that it has taken all steps necessary to enable it to carry out all its obligations under the Articles and this Resolution;
 
@@ -292,12 +276,12 @@ Bretton Woods Agreements Act
 
 (CHAPTER 27)
 
-This Legislative History is provided for the convenience of users of the Bretton Woods Agreements Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Bretton Woods Agreements Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 17 of 1966—Bretton Woods Agreements Act 1966**|
-||Date of First, Second and Third Readings|Date not available.|
+||Date of First, Second and Third Readings|22 June 1966|
 ||Date of commencement|4 July 1966|
 |2.|**1985 Revised Edition—Bretton Woods Agreements Act**|
 ||Date of operation|30 March 1987|
@@ -307,3 +291,31 @@ This Legislative History is provided for the convenience of users of the Bretton
 |||(Bill No. 4/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|4.|**2012 Revised Edition—Bretton Woods Agreements Act**|
+||Date of operation|31 March 2012|
+## COMPARATIVE TABLE
+
+Bretton Woods Agreements Act
+
+(CHAPTER 27)
+
+The following provisions in the 1985 Revised Edition of the Bretton Woods Agreements Act have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Bretton Woods Agreements Act.
+
+2012 Ed\. 
+
+1985 Ed\. 
+
+7 —(2)
+
+—
+
+(3)
+
+—
+
+(4)
+
+7 —(2)
+
