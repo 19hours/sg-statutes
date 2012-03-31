@@ -1,16 +1,14 @@
-**Private Lotteries Act 2011**
+**Private Lotteries Act**
 
-**(No. 7 of 2011)**
+**(CHAPTER 250)**
 
 **Table of Contents**
 
 [**Long Title**](#Private-Lotteries-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -82,61 +80,39 @@
 
 - [32 Regulations](#Regulations)
 
-- [33 Repeal](#Repeal)
+- [33 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
-- [34 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [34 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [35 Savings and transitional provisions](#Savings-and-transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential amendments to other written laws**](#THE-SCHEDULE)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Private Lotteries Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 250)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 7 of 2011)
 
-Published by Authority
+REVISED EDITION 2012
 
-NO. 15]
+(31st March 2012)
 
-Friday, March 18
+An Act to provide for the control and levy of tax on private lotteries and other related matters.
 
-[2011
-
-The following Act was passed by Parliament on 14th February 2011 and assented to by the President on 28th February 2011:—
-
-Private Lotteries Act 2011
-
-(No. 7 of 2011)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th February 2011.
-
-Date of Commencement: 1st April 2011
-
-An Act to repeal and re-enact the Private Lotteries Act (Chapter 250 of the 1985 Revised Edition) and to provide for the control and levy of tax on such lotteries and other related matters and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2011]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Private Lotteries Act 2011 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Private Lotteries Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “book” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in electronic form or otherwise;
 
@@ -194,7 +170,7 @@ and includes a jackpot machine, but does not include any machine declared not to
 
 3\.—(1) This Act shall not apply to bets made on any totalisator or pari-mutuel and sweepstakes affected by the Betting and Sweepstake Duties Act (Cap. 22).
 
-(2) Nothing in this Act shall be deemed to permit or enable any person to take part in any private lottery promoted by a society of which he is not a member or a guest of such member, referred to in the definition of "private lottery" in section 2.
+(2) Nothing in this Act shall be deemed to permit or enable any person to take part in any private lottery promoted by a society of which he is not a member or a guest of such member, referred to in the definition of “private lottery” in section 2.
 
 ## PART II
 
@@ -774,35 +750,31 @@ the court shall not order it to be forfeited unless that person has been given a
 
 (b) for penalties not exceeding a fine of $20,000 or imprisonment for a term not exceeding 12 months or both for each offence.
 
-### Repeal
-
-33\. The Private Lotteries Act (Cap. 250) and the Private Lotteries (Amendment) Act 2006 (Act 16 of 2006) are repealed.
-
 ### Consequential amendments to other written laws
 
-34\.—(1) The provisions of the Acts specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
+33\.—(1) Any written law or document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
 
-(2) Any written law or document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
+(2) In this section, “repealed Act” means the Private Lotteries Act (Cap. 250, 1985 Ed.) repealed by this Act.
 
-(3) In this section, “repealed Act” means the Private Lotteries Act (Cap. 250, 1985 Ed.) repealed by this Act.
+[34
 
 ### Savings and transitional provisions
 
-35\.—(1) Any permit granted under section 4 of the repealed Act before the appointed day, being a permit that is in force immediately before that date, shall, unless suspended or revoked —
+34\.—(1) Any permit granted under section 4 of the repealed Act before 1st April 2011, being a permit that is in force immediately before that date, shall, unless suspended or revoked —
 
 (a) be deemed to be a permit granted by the Permit Officer under section 8 of this Act;
 
 (b) expire on the date it would have expired had this Act not been enacted; and
 
-(c) be subject to those conditions imposed on it under section 5 of the repealed Act in force immediately before the appointed day, as if those conditions had been imposed by the Permit Officer under section 9 of this Act.
+(c) be subject to those conditions imposed on it under section 5 of the repealed Act in force immediately before 1st April 2011, as if those conditions had been imposed by the Permit Officer under section 9 of this Act.
 
-(2) Unless an election is made under subsections (3) and (4), a promoter with a deemed permit under subsection (1)(a) shall, for a period of one month after the appointed day or such longer period not exceeding 3 months as the Minister for Finance may notify in theGazette(referred to in this section as the transitional period), continue to pay duty in respect of the total amount accruing from the operation of fruit machines under section 7 of the repealed Act in force immediately before the appointed day.
+(2) Unless an election is made under subsections (3) and (4), a promoter with a deemed permit under subsection (1)(a) shall, for a period of one month after 1st April 2011 or such longer period not exceeding 3 months as the Minister for Finance may notify in theGazette(referred to in this section as the transitional period), continue to pay duty in respect of the total amount accruing from the operation of fruit machines under section 7 of the repealed Act in force immediately before 1st April 2011.
 
 (3) A promoter of a private lottery under subsection (2) may make an irrevocable election to pay duty under section 15 before the expiration of the transitional period.
 
 (4) A promoter of a private lottery who makes an election under subsection (3) shall notify the Commissioner, whether in writing or otherwise, of such election and the date from which it is ready to pay duty under section 15.
 
-(5) The Commissioner may, by notice in writing, require any promoter of a private lottery with a permit that is in force immediately before the appointed day to —
+(5) The Commissioner may, by notice in writing, require any promoter of a private lottery with a permit that is in force immediately before 1st April 2011 to —
 
 (a) provide such information or document; or
 
@@ -814,120 +786,68 @@ at such time and in such manner as the Commissioner may reasonably require for t
 
 (7) The Commissioner may, in his discretion, compound an offence under subsection (6) by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
 
-(8) For a period of 2 years after the commencement of this section, the Minister for Finance may, by regulations, prescribe such provisions of a savings or transitional nature consequent on the enactment of any provision of this Act as he may consider necessary or expedient.
+(8) For a period of 2 years after 1st April 2011, the Minister for Finance may, by regulations, prescribe such provisions of a savings or transitional nature consequent on the enactment of any provision of this Act as he may consider necessary or expedient.
 
 (9) In this section, “repealed Act” means the Private Lotteries Act (Cap. 250, 1985 Ed.) repealed by this Act.
 
-## THE SCHEDULE
+[35
 
-Section 34(1)
+## LEGISLATIVE HISTORY
 
-Consequential amendments to other written laws
+Private Lotteries Act
 
-First column
+(CHAPTER 250)
 
-Second column
+This Legislative History is provided for the convenience of users of the Private Lotteries Act. It is not part of the Act.
 
-1.
+||||
+|:-|:-|:-|
+|1.|**Act 7 of 2011—Private Lotteries Act 2011**|
+||Date of First Reading|10 January 2011|
+|||(Bill No. 2/2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|1 April 2011|
+Note:
 
-Betting and Sweepstake Duties Act
+The Private Lotteries Act 2011 repealed and re-enacted with amendments the Private Lotteries Act (Chapter 250, 1985 Revised Edition).
 
+|2.|**2012 Revised Edition—Private Lotteries Act (Chapter 250)**|
+||Date of operation|31 March 2012|
+## COMPARATIVE TABLE
 
+Private Lotteries Act
 
+(CHAPTER 250)
 
-(Chapter 22, 1999 Ed.)
+The following provisions in the Private Lotteries Act 2011 (Act 7 of 2011) have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
 
-Section 2
+This Comparative Table is provided for the convenience of users. It is not part of the Private Lotteries Act.
 
-Delete the definition of “Commissioner” and substitute the following definition:
+2012 Ed\. 
 
-“ “Commissioner” means the Commissioner of Betting Duties or any Deputy Commissioner of Betting Duties or Assistant Commissioner of Betting Duties appointed under the Private Lotteries Act 2011;”.
+Act 7 of 2011 
 
-2.
+Omitted
 
-Casino Control Act
+33 
 
+33 
 
+34 
 
+Omitted
 
-(Chapter 33A, 2007 Ed.)
+(1)
 
-Section 105(2)
+(1)
 
-Delete the words “Private Lotteries Act (Cap. 250)” in paragraph (b) and substitute the words “Private Lotteries Act 2011”.
+(2)
 
-3.
+(2)
 
-Civil Law Act
+(3)
 
+34 —(1) to (9)
 
-
-
-(Chapter 43, 1999 Ed.)
-
-Section 5
-
-(a)
-
-Delete the words “section 4 of the Private Lotteries Act (Cap. 250)” in subsection (3A)(d) and substitute the words “section 8 of the Private Lotteries Act 2011”.
-
-(b)
-
-Delete the words “Private Lotteries Act (Cap. 250)” in the definition of “private lottery” in subsection (3E) and substitute the words “Private Lotteries Act 2011”.
-
-4.
-
-Goods and Services Tax Act
-
-
-
-
-(Chapter 117A, 2005 Ed.)
-
-Section 35(3)
-
-Delete the words “Private Lotteries Act (Cap. 250)” and substitute the words “Private Lotteries Act 2011”.
-
-5.
-
-Inland Revenue Authority of Singapore Act
-
-
-
-
-(Chapter 138A, 1993 Ed.)
-
-(a)
-
-Third Schedule
-
-Delete item 7 and substitute the following item:
-
-“7. Private Lotteries Act 2011.”.
-
-(b)
-
-Fourth Schedule
-
-(i)
-
-Delete the words “and the Betting and Sweepstake Duties Act” in item 3.
-
-(ii)
-
-Delete the marginal note “Cap. 22.” in item 3.
-
-(iii)
-
-Delete the words “and the Private Lotteries Act” in item 4.
-
-(iv)
-
-Delete the marginal note “Cap. 250.” in item 4.
-
-(v)
-
-Insert, immediately after item 6, the following item:
-
-“7. The Commissioner of Betting Duties under the Private Lotteries Act 2011 and the Betting and Sweepstake Duties Act (Cap. 22).”.
+35 —(1) to (9)
 
