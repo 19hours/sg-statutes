@@ -1,14 +1,12 @@
-**International Interests in Aircraft Equipment Act 2009**
+**International Interests in Aircraft Equipment Act**
 
-**(No. 5 of 2009)**
+**(CHAPTER 144B)**
 
 **Table of Contents**
 
 [**Long Title**](#International-Interests-in-Aircraft-Equipment-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -20,53 +18,31 @@
 
 - [6 Regulations](#Regulations)
 
-- [7 Related amendment to Bills of Sale Act](#Related-amendment-to-Bills-of-Sale-Act)
-
-- [8 Related amendment to Companies Act](#Related-amendment-to-Companies-Act)
-
 [**FIRST SCHEDULE Convention on International Interests in Mobile Equipment**](#FIRST-SCHEDULE-Convention-on-International-Interests-in-Mobile-Equipment)
 
-[**SECOND SCHEDULE ProtoCOl to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment**](#SECOND-SCHEDULE-ProtoCOl-to-the-Convention-on-International-Interests-in-Mobile-Equipment-on-Matters-Specific-to-Aircraft-Equipment)
+[**SECOND SCHEDULE Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment**](#SECOND-SCHEDULE-Protocol-to-the-Convention-on-International-Interests-in-Mobile-Equipment-on-Matters-Specific-to-Aircraft-Equipment)
 
-[**THIRD SCHEDULE Consolidated Text of the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment**](#THIRD-SCHEDULE-Consolidated-Text-of-the-Convention-on-International-Interests-in-Mobile-Equipment-and-the-Protocol-to-the-Convention-on-International-Interests-in-Mobile-Equipment-on-Matters-Specific-to-Aircraft-Equipment)
+[**THIRD SCHEDULE Consolidated text of the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment**](#THIRD-SCHEDULE-Consolidated-text-of-the-Convention-on-International-Interests-in-Mobile-Equipment-and-the-Protocol-to-the-Convention-on-International-Interests-in-Mobile-Equipment-on-Matters-Specific-to-Aircraft-Equipment)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# International Interests in Aircraft Equipment Act
 
-ACTS SUPPLEMENT
+(CHAPTER 144B)
 
-Published by Authority
+(Original Enactment: Act 5 of 2009)
 
-NO. 14]
+REVISED EDITION 2012
 
-Friday, April 3
+(31st March 2012)
 
-[2009
+An Act to implement the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment, each signed at Cape Town on 16th November 2001 and for purposes connected therewith.
 
-The following Act was passed by Parliament on 19th January 2009 and assented to by the President on 11th February 2009:—
+[1st May 2009]
 
-International Interests in Aircraft Equipment Act 2009
+### Short title
 
-(No. 5 of 2009)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-11th February 2009.
-
-Date of Commencement: 1st May 2009
-
-An Act to implement the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment, each signed at Cape Town on 16th November 2001 and for purposes connected therewith, and to make related amendments to the Bills of Sale Act (Chapter 24 of the 1985 Revised Edition) and the Companies Act (Chapter 50 of the 2006 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the International Interests in Aircraft Equipment Act 2009 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the International Interests in Aircraft Equipment Act.
 
 ### Interpretation
 
@@ -98,9 +74,9 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “insolvency administrator” means —
 
-(a) in the case of proceedings in bankruptcy under Part VI of the Bankruptcy Act (Cap. 20), the trustee of the bankrupt’s estate;
+(a) in the case of proceedings in bankruptcy under Part VI of the Bankruptcy Act, the trustee of the bankrupt’s estate;
 
-(b) in the case of winding up proceedings under Part X of the Companies Act (Cap. 50), the liquidator or provisional liquidator; or
+(b) in the case of winding up proceedings under Part X of the Companies Act, the liquidator or provisional liquidator; or
 
 (c) in the case of judicial management proceedings under Part VIIIA of the Companies Act, the judicial manager;
 
@@ -206,30 +182,6 @@ shall have the force of law in Singapore.
 
 (2) Any regulations made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Related amendment to Bills of Sale Act
-
-7\. The Bills of Sale Act (Cap. 24) is amended by renumbering section 2 as subsection (1) of that section, and by inserting immediately thereafter the following subsections:
-
-“
-
-(2) This Act shall not apply to a bill of sale executed at any time on or after the date of commencement of the International Interests in Aircraft Equipment Act 2009 to the extent that any interest therein is capable of being registered under that Act.
-
-(3) In subsection (2), “registered” has the same meaning as in section 2(1) of the International Interests in Aircraft Equipment Act 2009.
-
-”.
-
-### Related amendment to Companies Act
-
-8\. Section 131 of the Companies Act (Cap. 50) is amended by inserting, immediately after subsection (3A), the following subsections:
-
-“
-
-(3B) A charge referred to in subsection (3) does not include a charge created at any time on or after the date of commencement of the International Interests in Aircraft Equipment Act 2009 to the extent that it is capable of being registered under that Act.
-
-(3C) In subsection (3B), “registered” has the same meaning as in section 2(1) of the International Interests in Aircraft Equipment Act 2009.
-
-”.
-
 FIRST SCHEDULE
 
 Section 2(1)
@@ -271,31 +223,57 @@ Definitions
 
 In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:
 
-(a) “agreement” means a security agreement, a title reservation agreement or a leasing agreement;
+(a)
 
-(b) “assignment” means a contract which, whether by way of security or otherwise, confers on the assignee associated rights with or without a transfer of the related international interest;
+“agreement” means a security agreement, a title reservation agreement or a leasing agreement;
 
-(c) “associated rights” means all rights to payment or other performance by a debtor under an agreement which are secured by or associated with the object;
+(b)
 
-(d) “commencement of the insolvency proceedings” means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;
+“assignment” means a contract which, whether by way of security or otherwise, confers on the assignee associated rights with or without a transfer of the related international interest;
 
-(e) “conditional buyer” means a buyer under a title reservation agreement;
+(c)
 
-(f) “conditional seller” means a seller under a title reservation agreement;
+“associated rights” means all rights to payment or other performance by a debtor under an agreement which are secured by or associated with the object;
 
-(g) “contract of sale” means a contract for the sale of an object by a seller to a buyer which is not an agreement as defined in (a) above;
+(d)
 
-(h) “court” means a court of law or an administrative or arbitral tribunal established by a Contracting State;
+“commencement of the insolvency proceedings” means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;
 
-(i) “creditor” means a chargee under a security agreement, a conditional seller under a title reservation agreement or a lessor under a leasing agreement;
+(e)
 
-(j) “debtor” means a chargor under a security agreement, a conditional buyer under a title reservation agreement, a lessee under a leasing agreement or a person whose interest in an object is burdened by a registrable non-consensual right or interest;
+“conditional buyer” means a buyer under a title reservation agreement;
 
-(k) “insolvency administrator” means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;
+(f)
 
-(l) “insolvency proceedings” means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;
+“conditional seller” means a seller under a title reservation agreement;
 
-(m) “interested persons” means:
+(g)
+
+“contract of sale” means a contract for the sale of an object by a seller to a buyer which is not an agreement as defined in (a) above;
+
+(h)
+
+“court” means a court of law or an administrative or arbitral tribunal established by a Contracting State;
+
+(i)
+
+“creditor” means a chargee under a security agreement, a conditional seller under a title reservation agreement or a lessor under a leasing agreement;
+
+(j)
+
+“debtor” means a chargor under a security agreement, a conditional buyer under a title reservation agreement, a lessee under a leasing agreement or a person whose interest in an object is burdened by a registrable non-consensual right or interest;
+
+(k)
+
+“insolvency administrator” means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;
+
+(l)
+
+“insolvency proceedings” means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;
+
+(m)
+
+“interested persons” means:
 
 (i) the debtor;
 
@@ -303,59 +281,113 @@ In this Convention, except where the context otherwise requires, the following t
 
 (iii) any other person having rights in or over the object;
 
-(n) “internal transaction” means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant object located (as specified in the Protocol), in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 50(1);
+(n)
 
-(o) “international interest” means an interest held by a creditor to which Article 2 applies;
+“internal transaction” means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant object located (as specified in the Protocol), in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 50(1);
 
-(p) “International Registry” means the international registration facilities established for the purposes of this Convention or the Protocol;
+(o)
 
-(q) “leasing agreement” means an agreement by which one person (the lessor) grants a right to possession or control of an object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
+“international interest” means an interest held by a creditor to which Article 2 applies;
 
-(r) “national interest” means an interest held by a creditor in an object and created by an internal transaction covered by a declaration under Article 50(1);
+(p)
 
-(s) “non-consensual right or interest” means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 39 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
+“International Registry” means the international registration facilities established for the purposes of this Convention or the Protocol;
 
-(t) “notice of a national interest” means notice registered or to be registered in the International Registry that a national interest has been created;
+(q)
 
-(u) “object” means an object of a category to which Article 2 applies;
+“leasing agreement” means an agreement by which one person (the lessor) grants a right to possession or control of an object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
 
-(v) “pre-existing right or interest” means a right or interest of any kind in or over an object created or arising before the effective date of this Convention as defined by Article 60(2)(a);
+(r)
 
-(w) “proceeds” means money or non-money proceeds of an object arising from the total or partial loss or physical destruction of the object or its total or partial confiscation, condemnation or requisition;
+“national interest” means an interest held by a creditor in an object and created by an internal transaction covered by a declaration under Article 50(1);
 
-(x) “prospective assignment” means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+(s)
 
-(y) “prospective international interest” means an interest that is intended to be created or provided for in an object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor’s acquisition of an interest in the object), whether or not the occurrence of the event is certain;
+“non-consensual right or interest” means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 39 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
 
-(z) “prospective sale” means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+(t)
 
-(aa) “Protocol” means, in respect of any category of object and associated rights to which this Convention applies, the Protocol in respect of that category of object and associated rights;
+“notice of a national interest” means notice registered or to be registered in the International Registry that a national interest has been created;
 
-(bb) “registered” means registered in the International Registry pursuant to Chapter V;
+(u)
 
-(cc) “registered interest” means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
+“object” means an object of a category to which Article 2 applies;
 
-(dd) “registrable non-consensual right or interest” means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 40;
+(v)
 
-(ee) “Registrar” means, in respect of the Protocol, the person or body designated by that Protocol or appointed under Article 17(2)(b);
+“pre-existing right or interest” means a right or interest of any kind in or over an object created or arising before the effective date of this Convention as defined by Article 60(2)(a);
 
-(ff) “regulations” means regulations made or approved by the Supervisory Authority pursuant to the Protocol;
+(w)
 
-(gg) “sale” means a transfer of ownership of an object pursuant to a contract of sale;
+“proceeds” means money or non-money proceeds of an object arising from the total or partial loss or physical destruction of the object or its total or partial confiscation, condemnation or requisition;
 
-(hh) “secured obligation” means an obligation secured by a security interest;
+(x)
 
-(ii) “security agreement” means an agreement by which a chargor grants or agrees to grant to a chargee an interest (including an ownership interest) in or over an object to secure the performance of any existing or future obligation of the chargor or a third person;
+“prospective assignment” means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
-(jj) “security interest” means an interest created by a security agreement;
+(y)
 
-(kk) “Supervisory Authority” means, in respect of the Protocol, the Supervisory Authority referred to in Article 17(1);
+“prospective international interest” means an interest that is intended to be created or provided for in an object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor’s acquisition of an interest in the object), whether or not the occurrence of the event is certain;
 
-(ll) “title reservation agreement” means an agreement for the sale of an object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;
+(z)
 
-(mm) “unregistered interest” means a consensual interest or non-consensual right or interest (other than an interest to which Article 39 applies) which has not been registered, whether or not it is registrable under this Convention; and
+“prospective sale” means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
-(nn) “writing” means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person’s approval of the record.
+(aa)
+
+“Protocol” means, in respect of any category of object and associated rights to which this Convention applies, the Protocol in respect of that category of object and associated rights;
+
+(bb)
+
+“registered” means registered in the International Registry pursuant to Chapter V;
+
+(cc)
+
+“registered interest” means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
+
+(dd)
+
+“registrable non-consensual right or interest” means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 40;
+
+(ee)
+
+“Registrar” means, in respect of the Protocol, the person or body designated by that Protocol or appointed under Article 17(2)(b);
+
+(ff)
+
+“regulations” means regulations made or approved by the Supervisory Authority pursuant to the Protocol;
+
+(gg)
+
+“sale” means a transfer of ownership of an object pursuant to a contract of sale;
+
+(hh)
+
+“secured obligation” means an obligation secured by a security interest;
+
+(ii)
+
+“security agreement” means an agreement by which a chargor grants or agrees to grant to a chargee an interest (including an ownership interest) in or over an object to secure the performance of any existing or future obligation of the chargor or a third person;
+
+(jj)
+
+“security interest” means an interest created by a security agreement;
+
+(kk)
+
+“Supervisory Authority” means, in respect of the Protocol, the Supervisory Authority referred to in Article 17(1);
+
+(ll)
+
+“title reservation agreement” means an agreement for the sale of an object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;
+
+(mm)
+
+“unregistered interest” means a consensual interest or non-consensual right or interest (other than an interest to which Article 39 applies) which has not been registered, whether or not it is registrable under this Convention; and
+
+(nn)
+
+“writing” means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person’s approval of the record.
 
 Article 2
 
@@ -456,13 +488,21 @@ Formal requirements
 
 An interest is constituted as an international interest under this Convention where the agreement creating or providing for the interest:
 
-(a) is in writing;
+(a)
 
-(b) relates to an object of which the chargor, conditional seller or lessor has power to dispose;
+is in writing;
 
-(c) enables the object to be identified in conformity with the Protocol; and
+(b)
 
-(d) in the case of a security agreement, enables the secured obligations to be determined, but without the need to state a sum or maximum sum secured.
+relates to an object of which the chargor, conditional seller or lessor has power to dispose;
+
+(c)
+
+enables the object to be identified in conformity with the Protocol; and
+
+(d)
+
+in the case of a security agreement, enables the secured obligations to be determined, but without the need to state a sum or maximum sum secured.
 
 Chapter III
 
@@ -761,9 +801,13 @@ Evidentiary value of certificates
 
 A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:
 
-(a) that it has been so issued; and
+(a)
 
-(b) of the facts recited in it, including the date and time of a registration.
+that it has been so issued; and
+
+(b)
+
+of the facts recited in it, including the date and time of a registration.
 
 Article 25
 
@@ -821,43 +865,9 @@ Legal personality; immunity
 
 6\. The Supervisory Authority may waive the inviolability and immunity conferred by paragraph 4.
 
-Article 27
-
-—
-
-Legal personality; immunity
-
-1\. The Supervisory Authority shall have international legal personality where not already possessing such personality.
-
-2\. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal or administrative process as is specified in the Protocol.
-
-3.—(a) The Supervisory Authority shall enjoy exemption from taxes and such other privileges as may be provided by agreement with the host State.
-
-(b) For the purposes of this paragraph, “host State” means the State in which the Supervisory Authority is situated.
-
-4\. The assets, documents, data bases and archives of the International Registry shall be inviolable and immune from seizure or other legal or administrative process.
-
-5\. For the purposes of any claim against the Registrar under Article 28(1) or Article 44, the claimant shall be entitled to access to such information and documents as are necessary to enable the claimant to pursue its claim.
-
-6\. The Supervisory Authority may waive the inviolability and immunity conferred by paragraph 4.
-
 Chapter VII
 
 Liability of the Registrar
-
-Article 28
-
-—
-
-Liability and financial assurances
-
-1\. The Registrar shall be liable for compensatory damages for loss suffered by a person directly resulting from an error or omission of the Registrar and its officers and employees or from a malfunction of the international registration system except where the malfunction is caused by an event of an inevitable and irresistible nature, which could not be prevented by using the best practices in current use in the field of electronic registry design and operation, including those related to back-up and systems security and networking.
-
-2\. The Registrar shall not be liable under the preceding paragraph for factual inaccuracy of registration information received by the Registrar or transmitted by the Registrar in the form in which it received that information nor for acts or circumstances for which the Registrar and its officers and employees are not responsible and arising prior to receipt of registration information at the International Registry.
-
-3\. Compensation under paragraph 1 may be reduced to the extent that the person who suffered the damage caused or contributed to that damage.
-
-4\. The Registrar shall procure insurance or a financial guarantee covering the liability referred to in this Article to the extent determined by the Supervisory Authority, in accordance with the Protocol.
 
 Article 28
 
@@ -1005,13 +1015,21 @@ by way of security
 
 In the event of default by the assignor under the assignment of associated rights and the related international interest made by way of security, Articles 8, 9 and 11 to 14 apply in the relations between the assignor and the assignee (and, in relation to associated rights, apply in so far as those provisions are capable of application to intangible property) as if references:
 
-(a) to the secured obligation and the security interest were references to the obligation secured by the assignment of the associated rights and the related international interest and the security interest created by that assignment;
+(a)
 
-(b) to the chargee or creditor and chargor or debtor were references to the assignee and assignor;
+to the secured obligation and the security interest were references to the obligation secured by the assignment of the associated rights and the related international interest and the security interest created by that assignment;
 
-(c) to the holder of the international interest were references to the assignee; and
+(b)
 
-(d) to the object were references to the assigned associated rights and the related international interest.
+to the chargee or creditor and chargor or debtor were references to the assignee and assignor;
+
+(c)
+
+to the holder of the international interest were references to the assignee; and
+
+(d)
+
+to the object were references to the assigned associated rights and the related international interest.
 
 Article 35
 
@@ -1175,8 +1193,7 @@ Chapter XIII
 
 Relationship With Other Conventions
 
-Article 45bis— Relationship with the United Nations Convention
-on the Assignment of Receivables in International Trade
+Article 45bis— Relationship with the United Nations Convention on the Assignment of Receivables in International Trade
 
 This Convention shall prevail over the United Nations Convention on the Assignment of Receivables in International Trade, opened for signature in New York on 12 December 2001, as it relates to the assignment of receivables which are associated rights related to international interests in aircraft objects, railway rolling stock and space assets.
 
@@ -1201,12 +1218,7 @@ Article 47
 
 —
 
-Signature, ratification, acceptance,
-
-
-
-
-approval or accession
+Signature, ratification, acceptance, approval or accession
 
 1\. This Convention shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001. After 16 November 2001, the Convention shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article 49.
 
@@ -1445,17 +1457,7 @@ SECOND SCHEDULE
 
 Section 2(1)
 
-ProtoCOl to the Convention on International
-
-
-
-
-Interests in Mobile Equipment on Matters
-
-
-
-
-Specific to Aircraft Equipment
+Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment
 
 THE STATES PARTIES TO THIS PROTOCOL,
 
@@ -1471,7 +1473,11 @@ Chapter I
 
 Sphere of Application and General Provisions
 
-Article I — Defined terms
+Article I
+
+—
+
+Defined terms
 
 1\. In this Protocol, except where the context otherwise requires, terms used in it have the meanings set out in the Convention.
 
@@ -1531,31 +1537,43 @@ together with all installed, incorporated or attached accessories, parts and equ
 
 (p) “State of registry” means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register.
 
-Article II — Application of Convention as regards aircraft objects
+Article II
+
+—
+
+Application of Convention as regards aircraft objects
 
 1\. The Convention shall apply in relation to aircraft objects as provided by the terms of this Protocol.
 
 2\. The Convention and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.
 
-Article III — Application of Convention to sales
+Article III
+
+—
+
+Application of Convention to sales
 
 The following provisions of the Convention apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer respectively:
 
- Articles 3 and 4;
+Articles 3 and 4;
 
- Article 16(1)(a);
+Article 16(1)(a);
 
- Article 19(4);
+Article 19(4);
 
- Article 20(1) (as regards registration of a contract of sale or a prospective sale);
+Article 20(1) (as regards registration of a contract of sale or a prospective sale);
 
- Article 25(2) (as regards a prospective sale); and
+Article 25(2) (as regards a prospective sale); and
 
- Article 30.
+Article 30.
 
 In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 29 (other than Article 29(3) which is replaced by Article XIV(1) and (2)), Chapter X, Chapter XII (other than Article 43), Chapter XIII and Chapter XIV (other than Article 60) shall apply to contracts of sale and prospective sales.
 
-Article IV — Sphere of application
+Article IV
+
+—
+
+Sphere of application
 
 1\. Without prejudice to Article 3(1) of the Convention, the Convention shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
 
@@ -1571,7 +1589,11 @@ at the time of the conclusion of the agreement creating or providing for the int
 
 3\. The parties may, by agreement in writing, exclude the application of Article XI and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except Article IX (2)-(4).
 
-Article V — Formalities, effects and registration of contracts of sale
+Article V
+
+—
+
+Formalities, effects and registration of contracts of sale
 
 1. For the purposes of this Protocol, a contract of sale is one which:
 
@@ -1585,15 +1607,27 @@ Article V — Formalities, effects and registration of contracts of sale
 
 3\. Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
 
-Article VI — Representative capacities
+Article VI
+
+—
+
+Representative capacities
 
 A person may enter into an agreement or a sale, and register an international interest in, or a sale of, an aircraft object, in an agency, trust or other representative capacity. In such case, that person is entitled to assert rights and interests under the Convention.
 
-Article VII — Description of aircraft objects
+Article VII
+
+—
+
+Description of aircraft objects
 
 A description of an aircraft object that contains its manufacturer’s serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the object for the purposes of Article 7(c) of the Convention and Article V(1)(c) of this Protocol.
 
-Article VIII — Choice of law
+Article VIII
+
+—
+
+Choice of law
 
 1\. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
 
@@ -1605,7 +1639,11 @@ Chapter II
 
 Default Remedies, Priorities and Assignments
 
-Article IX — Modification of default remedies provisions
+Article IX
+
+—
+
+Modification of default remedies provisions
 
 1. In addition to the remedies specified in Chapter III of the Convention, the creditor may, to the extent that the debtor has at any time so agreed and in the circumstances specified in that Chapter:
 
@@ -1631,12 +1669,11 @@ Article IX — Modification of default remedies provisions
 
 (b) interested persons specified in Article 1(m)(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
 
-Article X — Modification of provisions
+Article X
 
+—
 
-
-
-regarding relief pending final determination
+Modification of provisions regarding relief pending final determination
 
 1\. This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
 
@@ -1644,11 +1681,7 @@ regarding relief pending final determination
 
 3. Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):
 
-“
-
-(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom
-
-”,
+“(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,
 
 and Article 43(2) applies with the insertion after the words “Article 13(1)(d)” of the words “and (e)”.
 
@@ -1664,7 +1697,11 @@ and Article 43(2) applies with the insertion after the words “Article 13(1)(d)
 
 7\. Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.
 
-Article XI — Remedies on insolvency
+Article XI
+
+—
+
+Remedies on insolvency
 
 1. This Article applies only where a Contracting State that is the primary insolvency jurisdiction has made a declaration pursuant to Article XXX(3).
 
@@ -1722,13 +1759,21 @@ Alternative B
 
 6\. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
 
-Article XII — Insolvency assistance
+Article XII
+
+—
+
+Insolvency assistance
 
 1\. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
 
 2\. The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article XI.
 
-Article XIII — De-registration and export request authorisation
+Article XIII
+
+—
+
+De-registration and export request authorisation
 
 1\. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
 
@@ -1738,7 +1783,11 @@ Article XIII — De-registration and export request authorisation
 
 4\. The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in Article IX.
 
-Article XIV — Modification of priority provisions
+Article XIV
+
+—
+
+Modification of priority provisions
 
 1\. A buyer of an aircraft object under a registered sale acquires its interest in that object free from an interest subsequently registered and from an unregistered interest, even if the buyer has actual knowledge of the unregistered interest.
 
@@ -1748,17 +1797,21 @@ Article XIV — Modification of priority provisions
 
 4\. Article 29(7) of the Convention applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
 
-Article XV — Modification of assignment provisions
+Article XV
+
+—
+
+Modification of assignment provisions
 
 Article 33(1) of the Convention applies as if the following were added immediately after sub-paragraph (b):
 
-“
+“and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.”
 
-and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.
+Article XVI
 
-”
+—
 
-Article XVI — Debtor provisions
+Debtor provisions
 
 1. In the absence of a default within the meaning of Article 11 of the Convention, the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:
 
@@ -1770,14 +1823,13 @@ Article XVI — Debtor provisions
 
 Chapter III
 
-Registry Provisions Relating to
+Registry Provisions Relating to International Interests in Aircraft Objects
 
+Article XVII
 
+—
 
-
-International Interests in Aircraft Objects
-
-Article XVII — The Supervisory Authority and the Registrar
+The Supervisory Authority and the Registrar
 
 1\. The Supervisory Authority shall be the international entity designated by a Resolution adopted by the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol.
 
@@ -1789,17 +1841,29 @@ Article XVII — The Supervisory Authority and the Registrar
 
 5\. The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.
 
-Article XVIII — First regulations
+Article XVIII
+
+—
+
+First regulations
 
 The first regulations shall be made by the Supervisory Authority so as to take effect upon the entry into force of this Protocol.
 
-Article XIX — Designated entry points
+Article XIX
+
+—
+
+Designated entry points
 
 1\. Subject to paragraph 2, a Contracting State may at any time designate an entity or entities in its territory as the entry point or entry points through which there shall or may be transmitted to the International Registry information required for registration other than registration of a notice of a national interest or a right or interest under Article 40 in either case arising under the laws of another State.
 
 2\. A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.
 
-Article XX — Additional modifications to Registry provisions
+Article XX
+
+—
+
+Additional modifications to Registry provisions
 
 1\. For the purposes of Article 19(6) of the Convention, the search criteria for an aircraft object shall be the name of its manufacturer, its manufacturer’s serial number and its model designation, supplemented as necessary to ensure uniqueness. Such supplementary information shall be specified in the regulations.
 
@@ -1817,11 +1881,19 @@ Chapter IV
 
 Jurisdiction
 
-Article XXI — Modification of jurisdiction provisions
+Article XXI
+
+—
+
+Modification of jurisdiction provisions
 
 For the purposes of Article 43 of the Convention and subject to Article 42 of the Convention, a court of a Contracting State also has jurisdiction where the object is a helicopter, or an airframe pertaining to an aircraft, for which that State is the State of registry.
 
-Article XXII — Waivers of sovereign immunity
+Article XXII
+
+—
+
+Waivers of sovereign immunity
 
 1\. Subject to paragraph 2, a waiver of sovereign immunity from jurisdiction of the courts specified in Article 42 or Article 43 of the Convention or relating to enforcement of rights and interests relating to an aircraft object under the Convention shall be binding and, if the other conditions to such jurisdiction or enforcement have been satisfied, shall be effective to confer jurisdiction and permit enforcement, as the case may be.
 
@@ -1831,37 +1903,29 @@ Chapter V
 
 Relationship With Other Conventions
 
-Article XXIII — Relationship with the Convention on
+Article XXIII
 
+—
 
-
-
-the International Recognition of Rights in Aircraft
+Relationship with the Convention on the International Recognition of Rights in Aircraft
 
 The Convention shall, for a Contracting State that is a party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
 
-Article XXIV — Relationship with the Convention for
+Article XXIV
 
+—
 
-
-
-the Unification of Certain Rules Relating to the
-
-
-
-
-Precautionary Attachment of Aircraft
+Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
 1\. The Convention shall, for a Contracting State that is a Party to the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.
 
 2\. A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.
 
-Article XXV — Relationship with the UNIDROIT Convention on
+Article XXV
 
+—
 
-
-
-International Financial Leasing
+Relationship with the UNIDROIT Convention on International Financial Leasing
 
 The Convention shall supersede the UNIDROIT Convention on International Financial Leasing, signed at Ottawa on 28 May 1988, as it relates to aircraft objects.
 
@@ -1869,7 +1933,11 @@ Chapter VI
 
 Final Provisions
 
-Article XXVI — Signature, ratification, acceptance, approval or accession
+Article XXVI
+
+—
+
+Signature, ratification, acceptance, approval or accession
 
 1\. This Protocol shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001. After 16 November 2001, this Protocol shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article XXVIII.
 
@@ -1881,7 +1949,11 @@ Article XXVI — Signature, ratification, acceptance, approval or accession
 
 5\. A State may not become a Party to this Protocol unless it is or becomes also a Party to the Convention.
 
-Article XXVII — Regional Economic Integration Organisations
+Article XXVII
+
+—
+
+Regional Economic Integration Organisations
 
 1\. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Protocol may similarly sign, accept, approve or accede to this Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Protocol. Where the number of Contracting States is relevant in this Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
 
@@ -1889,13 +1961,21 @@ Article XXVII — Regional Economic Integration Organisations
 
 3\. Any reference to a “Contracting State” or “Contracting States” or “State Party” or “States Parties” in this Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.
 
-Article XXVIII — Entry into force
+Article XXVIII
+
+—
+
+Entry into force
 
 1\. This Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of the eighth instrument of ratification, acceptance, approval or accession, between the States which have deposited such instruments.
 
 2\. For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
 
-Article XXIX — Territorial units
+Article XXIX
+
+—
+
+Territorial units
 
 1\. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Protocol, it may, at the time of ratification, acceptance, approval or accession, declare that this Protocol is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
@@ -1913,7 +1993,11 @@ Article XXIX — Territorial units
 
 (c) any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which the Convention and this Protocol apply and any reference to the national register or to the registry authority in that Contracting State shall be construed as referring to the aircraft register in force or to the registry authority having jurisdiction in the territorial unit or units to which the Convention and this Protocol apply.
 
-Article XXX — Declarations relating to certain provisions
+Article XXX
+
+—
+
+Declarations relating to certain provisions
 
 1\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply any one or more of Articles VIII, XII and XIII of this Protocol.
 
@@ -1925,17 +2009,29 @@ Article XXX — Declarations relating to certain provisions
 
 5\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of Article XXI, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.
 
-Article XXXI — Declarations under the Convention
+Article XXXI
+
+—
+
+Declarations under the Convention
 
 Declarations made under the Convention, including those made under Articles 39, 40, 50, 53, 54, 55, 57, 58 and 60 of the Convention, shall be deemed to have also been made under this Protocol unless stated otherwise.
 
-Article XXXII — Reservations and declarations
+Article XXXII
+
+—
+
+Reservations and declarations
 
 1\. No reservations may be made to this Protocol but declarations authorised by Articles XXIV, XXIX, XXX, XXXI, XXXIII and XXXIV may be made in accordance with these provisions.
 
 2\. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.
 
-Article XXXIII — Subsequent declarations
+Article XXXIII
+
+—
+
+Subsequent declarations
 
 1\. A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
 
@@ -1943,13 +2039,21 @@ Article XXXIII — Subsequent declarations
 
 3\. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
 
-Article XXXIV — Withdrawal of declarations
+Article XXXIV
+
+—
+
+Withdrawal of declarations
 
 1\. Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
 
 2\. Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
 
-Article XXXV — Denunciations
+Article XXXV
+
+—
+
+Denunciations
 
 1\. Any State Party may denounce this Protocol by notification in writing to the Depositary.
 
@@ -1957,7 +2061,11 @@ Article XXXV — Denunciations
 
 3\. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
 
-Article XXXVI — Review Conferences, amendments and related matters
+Article XXXVI
+
+—
+
+Review Conferences, amendments and related matters
 
 1\. The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the Convention as amended by this Protocol has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
@@ -1973,7 +2081,11 @@ Article XXXVI — Review Conferences, amendments and related matters
 
 3\. Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIII relating to its entry into force.
 
-Article XXXVII — Depositary and its functions
+Article XXXVII
+
+—
+
+Depositary and its functions
 
 1\. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
 
@@ -2003,20 +2115,12 @@ DONE at Cape Town, this sixteenth day of November, two thousand and one, in a si
 
 Annex
 
-Annex
-
 FORM OF IRREVOCABLE DE-REGISTRATION
 
 
 
 
 AND EXPORT REQUEST AUTHORISATION
-
-
-
-
-
-
 
 Annex referred to in Article XIII
 
@@ -2026,29 +2130,23 @@ To: [Insert Name of Registry Authority]
 
 Re: Irrevocable De-Registration and Export Request Authorisation
 
-\*The undersigned is the registered [operator] [owner] of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer’s serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”).
+\*The undersigned is the registered [operator] [owner] of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer’s serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”)\.
 
 \*Select the term that reflects the relevant nationality registration criterion.
 
-This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
+This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment\. In accordance with that Article, the undersigned hereby requests:
 
-(i)
-
-recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
+(i) recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
 
 (a) procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the Convention on International Civil Aviation, signed at Chicago, on 7 December 1944, and
 
 (b) procure the export and physical transfer of the aircraft from [insert name of country]; and
 
-(ii)
+(ii) confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
 
-confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
+The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party\.
 
-The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party.
-
-__________________________
-
-Please acknowledge your agreement to this request and its terms by appropriate notation in the space provided below and lodging this instrument in [insert name of registry authority].
+Please acknowledge your agreement to this request and its terms by appropriate notation in the space provided below and lodging this instrument in [insert name of registry authority]\.
 
 [insert name of operator/owner]
 
@@ -2070,7 +2168,7 @@ THIRD SCHEDULE
 
 Section 3(3)
 
-Consolidated Text of the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment
+Consolidated text of the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment
 
 THE STATES PARTIES,
 
@@ -2104,11 +2202,17 @@ For the purposes of this Convention, “this Convention” means the Consolidate
 
 In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:
 
-(a) “agreement” means a security agreement, a title reservation agreement or a leasing agreement;
+(a)
 
-(b) “aircraft” means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;
+“agreement” means a security agreement, a title reservation agreement or a leasing agreement;
 
-(c) “aircraft engines” means aircraft engines (other than those used in military, customs or police services) powered by jet propulsion or turbine or piston technology and:
+(b)
+
+“aircraft” means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;
+
+(c)
+
+“aircraft engines” means aircraft engines (other than those used in military, customs or police services) powered by jet propulsion or turbine or piston technology and:
 
 (i) in the case of jet propulsion aircraft engines, have at least 1750 lb of thrust or its equivalent; and
 
@@ -2116,11 +2220,17 @@ In this Convention, except where the context otherwise requires, the following t
 
 together with all modules and other installed, incorporated or attached accessories, parts and equipment and all data, manuals and records relating thereto;
 
-(d) “aircraft objects” means airframes, aircraft engines and helicopters;
+(d)
 
-(e) “aircraft register” means a register maintained by a State or a common mark registering authority for the purposes of the Chicago Convention;
+“aircraft objects” means airframes, aircraft engines and helicopters;
 
-(f) “airframes” means airframes (other than those used in military, customs and police services) that, when appropriate aircraft engines are installed thereon, are type certified by the competent aviation authority to transport:
+(e)
+
+“aircraft register” means a register maintained by a State or a common mark registering authority for the purposes of the Chicago Convention;
+
+(f)
+
+“airframes” means airframes (other than those used in military, customs and police services) that, when appropriate aircraft engines are installed thereon, are type certified by the competent aviation authority to transport:
 
 (i) at least eight (8) persons including crew; or
 
@@ -2128,37 +2238,69 @@ together with all modules and other installed, incorporated or attached accessor
 
 together with all installed, incorporated or attached accessories, parts and equipment (other than aircraft engines), and all data, manuals and records relating thereto;
 
-(g) “assignment” means a contract which, whether by way of security or otherwise, confers on the assignee associated rights with or without a transfer of the related international interest;
+(g)
 
-(h) “associated rights” means all rights to payment or other performance by a debtor under an agreement which are secured by or associated with the aircraft object;
+“assignment” means a contract which, whether by way of security or otherwise, confers on the assignee associated rights with or without a transfer of the related international interest;
 
-(i) “authorised party” means the party referred to in Article 25(3);
+(h)
 
-(j) “Chicago Convention” means the Convention on International Civil Aviation, signed at Chicago on 7 December 1944, as amended, and its Annexes;
+“associated rights” means all rights to payment or other performance by a debtor under an agreement which are secured by or associated with the aircraft object;
 
-(k) “commencement of the insolvency proceedings” means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;
+(i)
 
-(l) “common mark registering authority” means the authority maintaining a register in accordance with Article 77 of the Chicago Convention as implemented by the Resolution adopted on 14 December 1967 by the Council of the International Civil Aviation Organization on nationality and registration of aircraft operated by international operating agencies;
+“authorised party” means the party referred to in Article 25(3);
 
-(m) “conditional buyer” means a buyer under a title reservation agreement;
+(j)
 
-(n) “conditional seller” means a seller under a title reservation agreement;
+“Chicago Convention” means the Convention on International Civil Aviation, signed at Chicago on 7 December 1944, as amended, and its Annexes;
 
-(o) “contract of sale” means a contract for the sale of an aircraft object by a seller to a buyer which is not an agreement as defined in (a) above;
+(k)
 
-(p) “court” means a court of law or an administrative or arbitral tribunal established by a Contracting State;
+“commencement of the insolvency proceedings” means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;
 
-(q) “creditor” means a chargee under a security agreement, a conditional seller under a title reservation agreement or a lessor under a leasing agreement;
+(l)
 
-(r) “debtor” means a chargor under a security agreement, a conditional buyer under a title reservation agreement, a lessee under a leasing agreement or a person whose interest in an aircraft object is burdened by a registrable non-consensual right or interest;
+“common mark registering authority” means the authority maintaining a register in accordance with Article 77 of the Chicago Convention as implemented by the Resolution adopted on 14 December 1967 by the Council of the International Civil Aviation Organization on nationality and registration of aircraft operated by international operating agencies;
 
-(s) “de-registration of the aircraft” means deletion or removal of the registration of the aircraft from its aircraft register in accordance with the Chicago Convention;
+(m)
 
-(t) “guarantee contract” means a contract entered into by a person as guarantor;
+“conditional buyer” means a buyer under a title reservation agreement;
 
-(u) “guarantor” means a person who, for the purpose of assuring performance of any obligations in favour of a creditor secured by a security agreement or under an agreement, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;
+(n)
 
-(v) “helicopters” means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
+“conditional seller” means a seller under a title reservation agreement;
+
+(o)
+
+“contract of sale” means a contract for the sale of an aircraft object by a seller to a buyer which is not an agreement as defined in (a) above;
+
+(p)
+
+“court” means a court of law or an administrative or arbitral tribunal established by a Contracting State;
+
+(q)
+
+“creditor” means a chargee under a security agreement, a conditional seller under a title reservation agreement or a lessor under a leasing agreement;
+
+(r)
+
+“debtor” means a chargor under a security agreement, a conditional buyer under a title reservation agreement, a lessee under a leasing agreement or a person whose interest in an aircraft object is burdened by a registrable non-consensual right or interest;
+
+(s)
+
+“de-registration of the aircraft” means deletion or removal of the registration of the aircraft from its aircraft register in accordance with the Chicago Convention;
+
+(t)
+
+“guarantee contract” means a contract entered into by a person as guarantor;
+
+(u)
+
+“guarantor” means a person who, for the purpose of assuring performance of any obligations in favour of a creditor secured by a security agreement or under an agreement, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;
+
+(v)
+
+“helicopters” means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
 
 (i) at least five (5) persons including crew; or
 
@@ -2166,17 +2308,25 @@ together with all installed, incorporated or attached accessories, parts and equ
 
 together with all installed, incorporated or attached accessories, parts and equipment (including rotors), and all data, manuals and records relating thereto;
 
-(w) “insolvency administrator” means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;
+(w)
 
-(x) “insolvency proceedings” means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;
+“insolvency administrator” means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;
 
-(y) “insolvency-related event” means:
+(x)
+
+“insolvency proceedings” means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;
+
+(y)
+
+“insolvency-related event” means:
 
 (i) the commencement of the insolvency proceedings; or
 
 (ii) the declared intention to suspend or actual suspension of payments by the debtor where the creditor’s right to institute insolvency proceedings against the debtor or to exercise remedies under this Convention is prevented or suspended by law or State action;
 
-(z) “interested persons” means:
+(z)
+
+“interested persons” means:
 
 (i) the debtor;
 
@@ -2184,61 +2334,117 @@ together with all installed, incorporated or attached accessories, parts and equ
 
 (iii) any other person having rights in or over the aircraft object;
 
-(aa) “internal transaction” means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant aircraft object under Article 3(4) is located, in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 66(1);
+(aa)
 
-(bb) “international interest” means an interest held by a creditor to which Article 2 applies;
+“internal transaction” means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant aircraft object under Article 3(4) is located, in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 66(1);
 
-(cc) “International Registry” means the international registration facilities established for the purposes of this Convention;
+(bb)
 
-(dd) “leasing agreement” means an agreement by which one person (the lessor) grants a right to possession or control of an aircraft object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
+“international interest” means an interest held by a creditor to which Article 2 applies;
 
-(ee) “national interest” means an interest held by a creditor in an aircraft object and created by an internal transaction covered by a declaration under Article 66(1);
+(cc)
 
-(ff) “non-consensual right or interest” means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 52 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
+“International Registry” means the international registration facilities established for the purposes of this Convention;
 
-(gg) “notice of a national interest” means notice registered or to be registered in the International Registry that a national interest has been created;
+(dd)
 
-(hh) “pre-existing right or interest” means a right or interest of any kind in or over an aircraft object created or arising before the effective date of this Convention as defined by Article 76(2)(a);
+“leasing agreement” means an agreement by which one person (the lessor) grants a right to possession or control of an aircraft object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
 
-(ii) “primary insolvency jurisdiction” means the Contracting State in which the centre of the debtor’s main interests is situated, which for this purpose shall be deemed to be the place of the debtor’s statutory seat or, if there is none, the place where the debtor is incorporated or formed, unless proved otherwise;
+(ee)
 
-(jj) “proceeds” means money or non-money proceeds of an aircraft object arising from the total or partial loss or physical destruction of the aircraft object or its total or partial confiscation, condemnation or requisition;
+“national interest” means an interest held by a creditor in an aircraft object and created by an internal transaction covered by a declaration under Article 66(1);
 
-(kk) “prospective assignment” means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+(ff)
 
-(ll) “prospective international interest” means an interest that is intended to be created or provided for in an aircraft object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor’s acquisition of an interest in the aircraft object), whether or not the occurrence of the event is certain;
+“non-consensual right or interest” means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 52 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
 
-(mm) “prospective sale” means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+(gg)
 
-(nn) “registered” means registered in the International Registry pursuant to Chapter V;
+“notice of a national interest” means notice registered or to be registered in the International Registry that a national interest has been created;
 
-(oo) “registered interest” means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
+(hh)
 
-(pp) “registrable non-consensual right or interest” means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 53;
+“pre-existing right or interest” means a right or interest of any kind in or over an aircraft object created or arising before the effective date of this Convention as defined by Article 76(2)(a);
 
-(qq) “Registrar” means the person or body appointed under Articles 27(4)(b) and 28;
+(ii)
 
-(rr) “registry authority” means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention;
+“primary insolvency jurisdiction” means the Contracting State in which the centre of the debtor’s main interests is situated, which for this purpose shall be deemed to be the place of the debtor’s statutory seat or, if there is none, the place where the debtor is incorporated or formed, unless proved otherwise;
 
-(ss) “regulations” means regulations made or approved by the Supervisory Authority pursuant to this Convention;
+(jj)
 
-(tt) “sale” means a transfer of ownership of an aircraft object pursuant to a contract of sale;
+“proceeds” means money or non-money proceeds of an aircraft object arising from the total or partial loss or physical destruction of the aircraft object or its total or partial confiscation, condemnation or requisition;
 
-(uu) “secured obligation” means an obligation secured by a security interest;
+(kk)
 
-(vv) “security agreement” means an agreement by which a chargor grants or agrees to grant to a chargee an interest (including an ownership interest) in or over an aircraft object to secure the performance of any existing or future obligation of the chargor or a third person;
+“prospective assignment” means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
-(ww) “security interest” means an interest created by a security agreement;
+(ll)
 
-(xx) “State of registry” means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register;
+“prospective international interest” means an interest that is intended to be created or provided for in an aircraft object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor’s acquisition of an interest in the aircraft object), whether or not the occurrence of the event is certain;
 
-(yy) “Supervisory Authority” means the Supervisory Authority referred to in Article 27;
+(mm)
 
-(zz) “title reservation agreement” means an agreement for the sale of an aircraft object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;
+“prospective sale” means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
-(aaa) “unregistered interest” means a consensual interest or non-consensual right or interest (other than an interest to which Article 52 applies) which has not been registered, whether or not it is registrable under this Convention; and
+(nn)
 
-(bbb) “writing” means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person’s approval of the record.
+“registered” means registered in the International Registry pursuant to Chapter V;
+
+(oo)
+
+“registered interest” means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
+
+(pp)
+
+“registrable non-consensual right or interest” means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 53;
+
+(qq)
+
+“Registrar” means the person or body appointed under Articles 27(4)(b) and 28;
+
+(rr)
+
+“registry authority” means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention;
+
+(ss)
+
+“regulations” means regulations made or approved by the Supervisory Authority pursuant to this Convention;
+
+(tt)
+
+“sale” means a transfer of ownership of an aircraft object pursuant to a contract of sale;
+
+(uu)
+
+“secured obligation” means an obligation secured by a security interest;
+
+(vv)
+
+“security agreement” means an agreement by which a chargor grants or agrees to grant to a chargee an interest (including an ownership interest) in or over an aircraft object to secure the performance of any existing or future obligation of the chargor or a third person;
+
+(ww)
+
+“security interest” means an interest created by a security agreement;
+
+(xx)
+
+“State of registry” means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register;
+
+(yy)
+
+“Supervisory Authority” means the Supervisory Authority referred to in Article 27;
+
+(zz)
+
+“title reservation agreement” means an agreement for the sale of an aircraft object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;
+
+(aaa)
+
+“unregistered interest” means a consensual interest or non-consensual right or interest (other than an interest to which Article 52 applies) which has not been registered, whether or not it is registrable under this Convention; and
+
+(bbb)
+
+“writing” means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person’s approval of the record.
 
 Article 2
 
@@ -2324,17 +2530,17 @@ Application to sale and prospective sale
 
 The following provisions of this Convention apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer, respectively:
 
-(a) Articles 3 and 4;
+Articles 3 and 4;
 
-(b) Article 26(1)(a);
+Article 26(1)(a);
 
-(c) Article 32(4);
+Article 32(4);
 
-(d) Article 33(1) (as regards registration of a contract of sale or a prospective sale);
+Article 33(1) (as regards registration of a contract of sale or a prospective sale);
 
-(e) Article 38(2) (as regards a prospective sale); and
+Article 38(2) (as regards a prospective sale); and
 
-(f) Article 43.
+Article 43.
 
 In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 42 (other than Article 42(3) and (4)), Chapter X, Chapter XI (other than Article 55), Chapter XII and Chapter XIII (other than Article 76) shall apply to contracts of sale and prospective sales.
 
@@ -2383,13 +2589,21 @@ Formal requirements
 
 An interest is constituted as an international interest under this Convention where the agreement creating or providing for the interest:
 
-(a) is in writing;
+(a)
 
-(b) relates to an aircraft object of which the chargor, conditional seller or lessor has power to dispose;
+is in writing;
 
-(c) enables the aircraft object to be identified; and
+(b)
 
-(d) in the case of a security agreement, enables the secured obligations to be determined, but without the need to state a sum or maximum sum secured.
+relates to an aircraft object of which the chargor, conditional seller or lessor has power to dispose;
+
+(c)
+
+enables the aircraft object to be identified; and
+
+(d)
+
+in the case of a security agreement, enables the secured obligations to be determined, but without the need to state a sum or maximum sum secured.
 
 Article 11
 
@@ -2463,9 +2677,13 @@ Remedies of conditional seller or lessor
 
 In the event of default under a title reservation agreement or under a leasing agreement as provided in Article 17, the conditional seller or the lessor, as the case may be, may:
 
-(a) subject to any declaration that may be made by a Contracting State under Article 70, terminate the agreement and take possession or control of any aircraft object to which the agreement relates; or
+(a)
 
-(b) apply for a court order authorising or directing either of these acts.
+subject to any declaration that may be made by a Contracting State under Article 70, terminate the agreement and take possession or control of any aircraft object to which the agreement relates; or
+
+(b)
+
+apply for a court order authorising or directing either of these acts.
 
 Article 15
 
@@ -2867,12 +3085,7 @@ Article 36
 
 —
 
-List of declarations and declared non-consensual
-
-
-
-
-rights or interests
+List of declarations and declared non-consensual rights or interests
 
 The Registrar shall maintain a list of declarations, withdrawals of declarations, and of the categories of non-consensual right or interest communicated to the Registrar by the Depositary as having been declared by Contracting States in conformity with Articles 52 and 53 and the date of each such declaration or withdrawal of declaration. Such list shall be recorded and searchable in the name of the declaring State and shall be made available as provided in this Convention and the regulations to any person requesting it.
 
@@ -2884,9 +3097,13 @@ Evidentiary value of certificates
 
 A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:
 
-(a) that it has been so issued; and
+(a)
 
-(b) of the facts recited in it, including the date and time of a registration.
+that it has been so issued; and
+
+(b)
+
+of the facts recited in it, including the date and time of a registration.
 
 Article 38
 
@@ -2914,32 +3131,7 @@ No person shall be denied access to the registration and search facilities of th
 
 Chapter VI
 
-Privileges and Immunities of the Supervisory
-
-
-
-
-Authority and the Registrar
-
-Article 40
-
-—
-
-Legal personality; immunity
-
-1\. The Supervisory Authority shall have international legal personality where not already possessing such personality.
-
-2\. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.
-
-3.—(a) The Supervisory Authority shall enjoy exemption from taxes and such other privileges as may be provided by agreement with the host State.
-
-(b) For the purposes of this paragraph, “host State” means the State in which the Supervisory Authority is situated.
-
-4\. The assets, documents, data bases and archives of the International Registry shall be inviolable and immune from seizure or other legal or administrative process.
-
-5\. For the purposes of any claim against the Registrar under Article 41(1) or Article 56, the claimant shall be entitled to access to such information and documents as are necessary to enable the claimant to pursue its claim.
-
-6\. The Supervisory Authority may waive the inviolability and immunity conferred by paragraph 4 of this Article.
+Privileges and Immunities of the Supervisory Authority and the Registrar
 
 Article 40
 
@@ -2983,32 +3175,9 @@ Liability and financial assurances
 
 6\. Nothing in this Convention shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under this Article.
 
-Article 41
-
-—
-
-Liability and financial assurances
-
-1\. The Registrar shall be liable for compensatory damages for loss suffered by a person directly resulting from an error or omission of the Registrar and its officers and employees or from a malfunction of the international registration system except where the malfunction is caused by an event of an inevitable and irresistible nature, which could not be prevented by using the best practices in current use in the field of electronic registry design and operation, including those related to back-up and systems security and networking.
-
-2\. The Registrar shall not be liable under the preceding paragraph for factual inaccuracy of registration information received by the Registrar or transmitted by the Registrar in the form in which it received that information nor for acts or circumstances for which the Registrar and its officers and employees are not responsible and arising prior to receipt of registration information at the International Registry.
-
-3\. Compensation under paragraph 1 may be reduced to the extent that the person who suffered the damage caused or contributed to that damage.
-
-4\. The Registrar shall procure insurance or a financial guarantee covering the liability referred to in this Article to the extent determined by the Supervisory Authority in accordance with the provisions of this Convention.
-
-5\. The amount of the insurance or financial guarantee referred to in the preceding paragraph shall, in respect of each event, not be less than the maximum value of an aircraft object as determined by the Supervisory Authority.
-
-6\. Nothing in this Convention shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under this Article.
-
 Chapter VIII
 
-Effects of An International Interest
-
-
-
-
-As Against Third Parties
+Effects of An International Interest As Against Third Parties
 
 Article 42
 
@@ -3124,22 +3293,25 @@ Article 47
 
 —
 
-Default remedies in respect of assignment
-
-
-
-
-by way of security
+Default remedies in respect of assignment by way of security
 
 In the event of default by the assignor under the assignment of associated rights and the related international interest made by way of security, Articles 12, 13 and 15 to 21 apply in the relations between the assignor and the assignee (and, in relation to associated rights, apply in so far as those provisions are capable of application to intangible property) as if references:
 
-(a) to the secured obligation and the security interest were references to the obligation secured by the assignment of the associated rights and the related international interest and the security interest created by that assignment;
+(a)
 
-(b) to the chargee or creditor and chargor or debtor were references to the assignee and assignor;
+to the secured obligation and the security interest were references to the obligation secured by the assignment of the associated rights and the related international interest and the security interest created by that assignment;
 
-(c) to the holder of the international interest were references to the assignee; and
+(b)
 
-(d) to the aircraft object were references to the assigned associated rights and the related international interest.
+to the chargee or creditor and chargor or debtor were references to the assignee and assignor;
+
+(c)
+
+to the holder of the international interest were references to the assignee; and
+
+(d)
+
+to the aircraft object were references to the assigned associated rights and the related international interest.
 
 Article 48
 
@@ -3197,12 +3369,7 @@ Subrogation
 
 Chapter X
 
-Rights or Interests Subject to Declarations
-
-
-
-
-by Contracting States
+Rights or Interests Subject to Declarations by Contracting States
 
 Article 52
 
@@ -3300,12 +3467,7 @@ Article 59
 
 —
 
-Relationship with the United Nations Convention on the
-
-
-
-
-Assignment of Receivables in International Trade
+Relationship with the United Nations Convention on the Assignment of Receivables in International Trade
 
 This Convention shall prevail over the United Nations Convention on the Assignment of Receivables in International Trade, opened for signature in New York on 12 December 2001, as it relates to the assignment of receivables which are associated rights related to international interests in aircraft objects.
 
@@ -3313,12 +3475,7 @@ Article 60
 
 —
 
-Relationship with the Convention on the International
-
-
-
-
-Recognition of Rights in Aircraft
+Relationship with the Convention on the International Recognition of Rights in Aircraft
 
 This Convention shall, for a Contracting State that is a Party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Convention, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
 
@@ -3326,12 +3483,7 @@ Article 61
 
 —
 
-Relationship with the Convention for the Unification of Certain
-
-
-
-
-Rules Relating to the Precautionary Attachment of Aircraft
+Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
 1\. This Convention shall, for a Contracting State that is a Party to the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Convention.
 
@@ -3561,6 +3713,15 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorise
 
 Annex
 
+Form of Irrevocable De-registration and
+
+
+
+
+Export Request Authorisation
+
+Annex referred to in Article 25
+
 [Insert Date]
 
 To: [Insert Name of Registry Authority]
@@ -3587,8 +3748,6 @@ confirmation that the authorised party or the person it certifies as its designe
 
 The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party.
 
-_________________________
-
 Please acknowledge your agreement to this request and its terms by appropriate notation in the space provided below and lodging this instrument in [insert name of registry authority].
 
 [insert name of operator/owner]
@@ -3609,3 +3768,20 @@ ___________________________
 
 _________________________________________
 
+## LEGISLATIVE HISTORY
+
+International Interests in Aircraft Equipment Act
+
+(CHAPTER 144B)
+
+This Legislative History is provided for the convenience of users of the International Interests in Aircraft Equipment Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
+||Date of First Reading|17 November 2008|
+|||(Bill No. 37/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 May 2009|
+|2.|**2012 Revised Edition—International Interests in Aircraft Equipment Act (Chapter 144B)**|
+||Date of operation|31 March 2012|
