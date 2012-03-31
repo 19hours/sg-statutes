@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Binding on the Government](#Binding-on-the-Government)
+- [3 Binding on Government](#Binding-on-Government)
 
 - [4 Registration of Convention awards](#Registration-of-Convention-awards)
 
@@ -18,7 +18,7 @@
 
 - [6 Power to make rules](#Power-to-make-rules)
 
-- [7 Government contribution to expenses under the Convention](#Government-contribution-to-expenses-under-the-Convention)
+- [7 Government contribution to expenses under Convention](#Government-contribution-to-expenses-under-Convention)
 
 - [8 Exclusion of Arbitration Act](#Exclusion-of-Arbitration-Act)
 
@@ -36,9 +36,9 @@
 
 (Original Enactment: Act 18 of 1968)
 
-REVISED EDITION 1985
+REVISED EDITION 2012
 
-(30th March 1987)
+(31st March 2012)
 
 An Act to implement the International Convention on the Settlement of Investment Disputes between States and Nationals of other States.
 
@@ -60,7 +60,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 (2) An award shall be deemed to have been rendered pursuant to the Convention on the date on which certified copies of the award were pursuant to the Convention despatched to the parties.
 
-### Binding on the Government
+### Binding on Government
 
 3\. Sections 4 and 5 shall bind the Government (but not so as to make an award enforceable against the Government in a manner in which a judgment would not be enforceable against the Government).
 
@@ -68,7 +68,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 4\.—(1) Any person seeking recognition or enforcement of an award rendered pursuant to the Convention shall be entitled to have the award registered in the High Court subject to proof of any matters that may be prescribed and to the other provisions of this Act.
 
-(2) [Deleted by Act34/1992]
+(2) [Deleted by Act34 of 1992]
 
 (3) In addition to the pecuniary obligations imposed by the award, the award shall be registered for the reasonable costs of and incidental to registration.
 
@@ -98,7 +98,7 @@ as if the award had been such a judgment of the High Court.
 
 (d) to provide for the stay of execution (whether provisionally or otherwise) of any award registered under this Act in accordance with the provisions of the Convention.
 
-### Government contribution to expenses under the Convention
+### Government contribution to expenses under Convention
 
 7\. Any sums required to meet any obligations of the Government arising out of Article 17 of the Convention (which obliges the Contracting States to meet any deficit of the Centre) shall be charged on and paid out of the Consolidated Fund.
 
@@ -118,7 +118,7 @@ as if the award had been such a judgment of the High Court.
 
 (c) conferring on the Centre any exemption from taxes or duties which are in fact no more than charges for services rendered.
 
-(3) For the purposes of Article 20 and Article 21(a) of the Convention as given the force of law by this section, a statement to the effect that the Centre has waived an immunity in the circumstances specified in the statement, being a statement certified by the Secretary-General of the Centre, or by the person acting as Secretary-General, shall be conclusive evidence of such waiver.
+(3) For the purposes of Articles 20 and 21(a) of the Convention as given the force of law by this section, a statement to the effect that the Centre has waived an immunity in the circumstances specified in the statement, being a statement certified by the Secretary-General of the Centre, or by the person acting as Secretary-General, shall be conclusive evidence of such waiver.
 
 ### Power of Minister to amend Schedule
 
@@ -128,12 +128,7 @@ as if the award had been such a judgment of the High Court.
 
 Section 2(1)
 
-Convention on the Settlement of Investment Disputes
-
-
-
-
-between States and Nationals of other States
+Convention on the Settlement of Investment Disputes between States and Nationals of other States
 
 PREAMBLE
 
@@ -171,7 +166,7 @@ Article 1
 
 Article 2
 
-The seat of the Centre shall be at the principal office of the International Bank for Reconstruction and Development (hereinafter called the Bank)\. The seat may be moved to another place by decision of the Administrative Council adopted by a majority of two-thirds of its members.
+The seat of the Centre shall be at the principal office of the International Bank for Reconstruction and Development (hereinafter called the Bank). The seat may be moved to another place by decision of the Administrative Council adopted by a majority of two-thirds of its members.
 
 Article 3
 
@@ -193,7 +188,7 @@ The President of the Bank shall beex officioChairman of the Administrative Counc
 
 Article 6
 
-(1) Without prejudice to the powers and functions vested in it by other provisions of this Convention, the Administrative Council shall —
+(1) Without prejudice to the powers and functions vested in it by other provisions of this Convention, the Administrative Council shall
 
 (a) adopt the administrative and financial regulations of the Centre;
 
@@ -395,7 +390,7 @@ Article 29
 
 (2) (a) The Commission shall consist of a sole conciliator or any uneven number of conciliators appointed as the parties shall agree\.
 
-(b) Where the parties do not agree upon the number of conciliators and the method of their appointment, the Commission shall consist of 3 conciliators, one conciliator appointed by each party and the third, who shall be the president of the Commission, appointed by agreement of the parties\.
+(b) Where the parties do not agree upon the number of conciliators and the method of their appointment, the Commission shall consist of 3 conciliators, one conciliator appointed by each party and the third, who shall be the president of the Commission, appointed by agreement of the parties.
 
 Article 30
 
@@ -457,7 +452,7 @@ Article 37
 
 (2) (a) The Tribunal shall consist of a sole arbitrator or any uneven number of arbitrators appointed as the parties shall agree\.
 
-(b) Where the parties do not agree upon the number of arbitrators and the method of their appointment, the Tribunal shall consist of 3 arbitrators, one arbitrator appointed by each party and the third, who shall be the president of the Tribunal, appointed by agreement of the parties\.
+(b) Where the parties do not agree upon the number of arbitrators and the method of their appointment, the Tribunal shall consist of 3 arbitrators, one arbitrator appointed by each party and the third, who shall be the president of the Tribunal, appointed by agreement of the parties.
 
 Article 38
 
@@ -481,7 +476,7 @@ Article 41
 
 (1) The Tribunal shall be the judge of its own competence\.
 
-(2) Any objection by a party to the dispute that that dispute is not within the jurisdiction of the Centre, or for other reasons is not within the competence of the Tribunal, shall be considered by the Tribunal which shall determine whether to deal with it as a preliminary question or to join it to the merits of the dispute\.
+(2) Any objection by a party to the dispute that that dispute is not within the jurisdiction of the Centre, or for other reasons is not within the competence of the Tribunal, shall be considered by the Tribunal which shall determine whether to deal with it as a preliminary question or to join it to the merits of the dispute.
 
 Article 42
 
@@ -511,7 +506,7 @@ Article 45
 
 Article 46
 
-Except as the parties otherwise agree, the Tribunal shall, if requested by a party, determine any incidental or additional claims or counter-claims arising directly out of the subject-matter of the dispute provided that they are within the scope of the consent of the parties and are otherwise within the jurisdiction of the Centre\.
+Except as the parties otherwise agree, the Tribunal shall, if requested by a party, determine any incidental or additional claims or counter-claims arising directly out of the subject-matter of the dispute provided that they are within the scope of the consent of the parties and are otherwise within the jurisdiction of the Centre.
 
 Article 47
 
@@ -531,7 +526,7 @@ Article 48
 
 (4) Any member of the Tribunal may attach his individual opinion to the award, whether he dissents from the majority or not, or a statement of his dissent\.
 
-(5) The Centre shall not publish the award without the consent of the parties\.
+(5) The Centre shall not publish the award without the consent of the parties.
 
 Article 49
 
@@ -547,7 +542,7 @@ Article 50
 
 (1) If any dispute shall arise between the parties as to the meaning or scope of an award, either party may request interpretation of the award by an application in writing addressed to the Secretary-General\.
 
-(2) The request shall, if possible, be submitted to the Tribunal which rendered the award\. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter. The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision.
+(2) The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter. The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision.
 
 Article 51
 
@@ -557,7 +552,7 @@ Article 51
 
 (3) The request shall, if possible, be submitted to the Tribunal which rendered the award\. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter.
 
-(4) The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision\. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Tribunal rules on such request.
+(4) The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Tribunal rules on such request.
 
 Article 52
 
@@ -591,13 +586,13 @@ Article 53
 
 (1) The award shall be binding on the parties and shall not be subject to any appeal or to any other remedy except those provided for in this Convention\. Each party shall abide by and comply with the terms of the award except to the extent that enforcement shall have been stayed pursuant to the relevant provisions of this Convention.
 
-(2) For the purposes of this Section, “award” shall include any decision interpreting, revising or annulling such award pursuant to Article 50, 51 or 52\.
+(2) For the purposes of this Section, “award” shall include any decision interpreting, revising or annulling such award pursuant to Articles 50, 51 or 52.
 
 Article 54
 
 (1) Each Contracting State shall recognise an award rendered pursuant to this Convention as binding and enforce the pecuniary obligations imposed by that award within its territories as if it were a final judgment of a court in that State\. A Contracting State with a federal constitution may enforce such an award in or through its federal courts and may provide that such courts shall treat the award as if it were a final judgment of the courts of a constituent state.
 
-(2) A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary-General\. Each Contracting State shall notify the Secretary-General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
+(2) A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary‑General\. Each Contracting State shall notify the Secretary‑General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
 
 (3) Execution of the award shall be governed by the laws concerning the execution of judgments in force in the State in whose territories such execution is sought.
 
@@ -607,12 +602,7 @@ Nothing in Article 54 shall be construed as derogating from the law in force in 
 
 Chapter V
 
-Replacement and Disqualification of
-
-
-
-
-Conciliators and Arbitrators
+Replacement and Disqualification of Conciliators and Arbitrators
 
 Article 56
 
@@ -624,7 +614,7 @@ Article 56
 
 Article 57
 
-A party may propose to a Commission or Tribunal the disqualification of any of its members on account of any fact indicating a manifest lack of the qualities required by paragraph (1) of Article 14\. A party to arbitration proceedings may, in addition, propose the disqualification of an arbitrator on the ground that he was ineligible for appointment to the Tribunal under Section 2 of Chapter IV.
+A party may propose to a Commission or Tribunal the disqualification of any of its members on account of any fact indicating a manifest lack of the qualities required by paragraph (1) of Article 14. A party to arbitration proceedings may, in addition, propose the disqualification of an arbitrator on the ground that he was ineligible for appointment to the Tribunal under Section 2 of Chapter IV.
 
 Article 58
 
@@ -642,7 +632,7 @@ Article 60
 
 (1) Each Commission and each Tribunal shall determine the fees and expenses of its members within limits established from time to time by the Administrative Council and after consultation with the Secretary-General.
 
-(2) Nothing in paragraph (1) shall preclude the parties from agreeing in advance with the Commission or Tribunal concerned upon the fees, and expenses of its members.
+(2) Nothing in paragraph (1) of this Article shall preclude the parties from agreeing in advance with the Commission or Tribunal concerned upon the fees, and expenses of its members.
 
 Article 61
 
@@ -750,7 +740,7 @@ Arbitration (International Investment Disputes) Act
 
 (CHAPTER 11)
 
-This Legislative History is provided for the convenience of users of the Arbitration (International Investment Disputes) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Arbitration (International Investment Disputes) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -768,3 +758,5 @@ This Legislative History is provided for the convenience of users of the Arbitra
 |||(Bill No. 35/92 published on 15 September 1992)|
 ||Date of Second and Third Readings|16 November 1992|
 ||Date of commencement|18 December 1992|
+|5.|**2012 Revised Edition—Arbitration (International Investment Disputes) Act (Chapter 11)**|
+||Date of operation|31 March 2012|
