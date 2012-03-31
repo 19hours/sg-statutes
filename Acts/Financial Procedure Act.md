@@ -72,7 +72,7 @@
 
 - [24 Regulations](#Regulations)
 
-[**THE SCHEDULE Moneys in Deposit Account to be Invested on Deposit in Bank**](#THE-SCHEDULE)
+[**THE SCHEDULE Moneys in deposit account to be invested on deposit in bank**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -82,9 +82,9 @@
 
 (Original Enactment: Act 13 of 1966)
 
-REVISED EDITION 1992
+REVISED EDITION 2012
 
-(9th March 1992)
+(31st March 2012)
 
 An Act to provide for the control and management of the public finances of Singapore, and for financial and accounting procedure, including procedure for the collection, custody and payment of the public moneys of Singapore, and the purchase, custody and disposal of public property of Singapore and for matters connected therewith.
 
@@ -128,6 +128,8 @@ ACCOUNTANT-GENERAL
 
 2A\.—(1) The President may appoint an Accountant-General in accordance with the advice of the Public Service Commission unless the President, acting in his discretion, does not concur with that advice.
 
+[25/91]
+
 (2) The remuneration and other terms of service of the Accountant-General shall not be altered to his disadvantage during his continuance in office.
 
 [25/91]
@@ -136,11 +138,11 @@ ACCOUNTANT-GENERAL
 
 2B\.—(1) The Accountant-General shall be responsible for the supervision and administration of the Government accounting system, including financial and accounting records and procedures for the receipt, custody, investment, safekeeping and payment of public moneys and the purchase, custody and disposal of public property.
 
-(2) The Accountant-General shall perform such other duties and exercise such other powers as may be prescribed by or under any written law.
-
 [25/91]
 
-[39/2007 wef 01/11/2007]
+(2) The Accountant-General shall perform such other duties and exercise such other powers as may be prescribed by or under any written law.
+
+[25/91; 39/2007]
 
 ## PART II
 
@@ -166,7 +168,7 @@ CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 ### Consolidated Fund accounts
 
-6\. There shall be maintained by the Treasury in respect of the Consolidated Fund two separate accounts —
+6\. There shall be maintained by the Treasury in respect of the Consolidated Fund 2 separate accounts:
 
 (a) an account to be called the Consolidated Revenue Account in which account shall be kept all moneys in the Fund other than such moneys as are mentioned in paragraph (b);
 
@@ -182,17 +184,13 @@ CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 (a) on deposit in any bank;
 
-(b) [Deleted by 45/2004, wef 15/12/2004]
+(b) [Deleted by Act 45 of 2004]
 
 (c) in gold and other bullion;
 
 (d) in securities of, or guaranteed by, any government or international financial institution;
 
-[29/2007 wef 01/07/2007]
-
 (e) in any of the stocks, funds, securities or investments; or
-
-[29/2007 wef 01/07/2007]
 
 (f) as otherwise authorised by law,
 
@@ -206,47 +204,49 @@ and such investments together with the interest and any other income received th
 
 as the case may be.
 
+[25/91; 45/2004; 29/2007]
+
 (3A) Moneys referred to in subsection (3) shall not be invested by the Minister in any stock, bond, fund or security issued by the Government of Singapore.
-
-(4) Interest and any other income received from the investment of any moneys in accordance with subsection (3) shall be accounted in the Consolidated Revenue Account, except that where it is so provided in any law or under the terms of any trust, or the Minister so directs, the interest and any other income received from the investment of any moneys standing to the credit of any trust account shall be paid to the credit of such trust account.
-
-(5) All costs, expenses and charges incurred in relation to making any investment under subsection (3) shall be charged on and paid out of the Consolidated Fund without further authority other than this section.
-
-[22/2003 wef 01/04/2004]
-
-(6) Notwithstanding subsection (3), moneys specified in the Schedule and paid to the credit of any deposit account constituted under section 8 shall be invested by the Minister on deposit in any bank.
-
-[22/2003 wef 01/04/2004]
-
-(7) Interest received from the investment of any moneys in accordance with subsection (6) shall be paid, in such manner and at such rate as the Minister may direct, to the credit of the deposit account to which it relates and any balance of interest not so paid to the credit of any deposit account shall be paid into the Consolidated Revenue Account.
-
-[22/2003 wef 01/04/2004]
-
-(8) The Minister may at any time, by order published in theGazette, add to or vary the Schedule.
 
 [25/91]
 
-[22/2003 wef 01/04/2004]
+(4) Interest and any other income received from the investment of any moneys in accordance with subsection (3) shall be accounted in the Consolidated Revenue Account, except that where it is so provided in any law or under the terms of any trust, or the Minister so directs, the interest and any other income received from the investment of any moneys standing to the credit of any trust account shall be paid to the credit of such trust account.
+
+[25/91]
+
+(5) All costs, expenses and charges incurred in relation to making any investment under subsection (3) shall be charged on and paid out of the Consolidated Fund without further authority other than this section.
+
+[22/2003]
+
+(6) Notwithstanding subsection (3), moneys specified in the Schedule and paid to the credit of any deposit account constituted under section 8 shall be invested by the Minister on deposit in any bank.
+
+[22/2003]
+
+(7) Interest received from the investment of any moneys in accordance with subsection (6) shall be paid, in such manner and at such rate as the Minister may direct, to the credit of the deposit account to which it relates and any balance of interest not so paid to the credit of any deposit account shall be paid into the Consolidated Revenue Account.
+
+[22/2003]
+
+(8) The Minister may at any time, by order published in theGazette, add to or vary the Schedule.
+
+[22/2003]
 
 ### Capital injections to statutory corporations
 
 7A\.—(1) Notwithstanding section 7, the Minister may invest by way of capital injection in any statutory corporation out of a capital contribution appropriated by Parliament from the Consolidated Fund by written law.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 (2) Except as otherwise expressly provided in any written law, the Minister, after consultation with the Minister charged with the responsibility for the statutory corporation concerned, shall determine the terms and conditions under which the capital injection under this section shall be made, and may from time to time vary such terms and conditions.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 (3) Without prejudice to subsection (2), the Minister may from time to time, on behalf of the Government, subscribe for or otherwise acquire shares or other securities in the statutory corporation in which moneys are invested by way of capital injection under this section.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 (4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Development Fund Act (Cap. 80) or the Developmental Investment Fund Act (Cap. 79).
 
-[5/2002 wef 15/07/2002]
-
-[22/2003 wef 19/12/2003]
+[5/2002; 22/2003]
 
 (5) In this section —
 
@@ -258,11 +258,13 @@ as the case may be.
 
 “statutory corporation” means any body corporate established by or under written law to perform or discharge any public function.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Deposit accounts
 
 8\.—(1) The Minister shall establish such deposit accounts as may be necessary for the proper accounting of moneys received subject to a trust or for the proper accounting of moneys received not being revenues of Singapore.
+
+[25/91]
 
 (2) The following moneys shall be paid to the credit of the deposit account to which they relate:
 
@@ -277,8 +279,6 @@ as the case may be.
 (4) Subject to the provisions of any law and the terms of any trust, the Minister may direct that any deposit account shall be closed and thereupon, after all liabilities of the account have been met, the account shall be closed accordingly.
 
 (5) Subject to the provisions of any law and the terms of any trust, the Minister may direct that any moneys standing to the credit of any deposit account which are not required for the purposes of that account and the balance of moneys standing to the credit of a deposit account closed under subsection (4) shall be paid into the Consolidated Revenue Account.
-
-[25/91]
 
 ### Advance accounts
 
@@ -334,17 +334,17 @@ approved by resolution of Parliament in accordance with Article 148B(1) of the C
 
 Provided that the aggregate of such sums under each head of expenditure shall not exceed the total sum so approved.
 
-(b) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet —
+(b) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet expenditure —
 
-(i) expenditure approved by resolution of Parliament in accordance with Article 148B(2) of the Constitution with which the President concurs; or
+(i) approved by resolution of Parliament in accordance with Article 148B(2) of the Constitution with which the President concurs; or
 
-(ii) expenditure approved by the Cabinet in accordance with Article 148B(4) of the Constitution.
+(ii) approved by the Cabinet in accordance with Article 148B(4) of the Constitution.
 
 (c) Notwithstanding any general or specific authority which may have been given by him, it shall be within the discretion of the Minister to limit or suspend any expenditure so authorised.
 
-(4) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to be applied for the purposes for which funds shall have been appropriated by or in accordance with the provisions of any written law authorising the raising of a loan and such sums shall be accounted in the Consolidated Loan Account.
-
 [25/91]
+
+(4) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to be applied for the purposes for which funds shall have been appropriated by or in accordance with the provisions of any written law authorising the raising of a loan and such sums shall be accounted in the Consolidated Loan Account.
 
 ### Payment of moneys from Government funds
 
@@ -358,6 +358,8 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 15\.—(1) No guarantee involving a financial liability shall be binding upon Singapore unless given with the written authority of the Minister with which the President concurs or in accordance with law.
 
+[25/91]
+
 (2) No loan raised by the Government shall be binding upon Singapore unless it is raised in accordance with Article 144 of the Constitution.
 
 [25/91]
@@ -370,35 +372,37 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 17\.—(1) The estimates of expenditure laid before Parliament in accordance with Article 147(1) of the Constitution in respect of any financial year shall show subheads under each head of expenditure.
 
+[25/91]
+
 (2) There shall be laid before Parliament a list showing under each head of expenditure the political appointments and the number and categories of personnel whose salaries are to be met from the allocations of funds for political appointments and permanent staff respectively.
-
-(3) No addition or alteration to the list referred to in subsection (2) shall be made unless authorised by the Minister by the issue of a warrant under his hand.
-
-(4) If the exigencies of the public service render it necessary to alter the proportions assigned to the subheads under a head of expenditure shown in the estimates referred to in subsection (1) or to create a new subhead, the Minister may by warrant under his hand authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient, or any new subhead which may be deficient, or any new subhead.
-
-[53/73]
 
 [20/76]
 
-[25/91]
+(3) No addition or alteration to the list referred to in subsection (2) shall be made unless authorised by the Minister by the issue of a warrant under his hand.
+
+[20/76]
+
+(4) If the exigencies of the public service render it necessary to alter the proportions assigned to the subheads under a head of expenditure shown in the estimates referred to in subsection (1) or to create a new subhead, the Minister may by warrant under his hand authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient, or any new subhead which may be deficient, or any new subhead.
+
+[53/73; 20/76]
 
 ### Transfer of functions between heads of expenditure
 
 17A\.—(1) Where, after the passing of a Supply law for a financial year, the responsibility for a service or purpose for which an appropriation is made in that law is transferred from the head of expenditure for which the appropriation was made to another head of expenditure, the Minister may in writing direct that the appropriation shall not lapse but may be issued to, or applied by, that other head, in accordance with the direction, for that service or purpose.
 
-[22/2003 wef 19/12/2003]
+[22/2003]
 
 (2) Where the Minister gives a direction under subsection (1), he shall cause a copy of the direction to be laid before Parliament within 30 days after it is given.
 
-[22/2003 wef 19/12/2003]
+[22/2003]
 
 ### Yearly statement of accounts
 
-18\. The Minister shall for the purpose of section 9 of the Audit Act (Cap. 17), as soon as practicable after the end of every financial year, prepare in respect of that year —
+18\. The Minister shall for the purpose of section 8 of the Audit Act (Cap. 17), as soon as practicable after the end of every financial year, prepare in respect of that year —
 
 (a) a full and particular account of the Consolidated Revenue Account stating under the heads and subheads of the estimates or supplementary estimates laid before Parliament in accordance with Article 146, 147, 148, 148B or 148C of the Constitution in respect of that year the amounts estimated to be received and spent in that year and the amounts actually received and spent in that year;
 
-(b) a full and particular statement of receipts and expenditure of moneys accounted for in the Consolidated Loan Account;
+(b) a full and particular statement of receipts and expenditure of moneys accounted in the Consolidated Loan Account;
 
 (c) a statement of receipts and expenditure of moneys accounted in any deposit account or class of deposit accounts;
 
@@ -406,15 +410,15 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 (e) a statement of receipts and expenditure of moneys accounted in any Government fund created by any law;
 
-(f) so far as is practicable, a statement of the assets and liabilities of Singapore at the end of the financial year, the manner in which those assets are invested or held, and the general heads in respect of which those liabilities are outstanding; and
+(f) so far as is practicable, a statement of the assets and liabilities of Singapore at the end of the financial year, the manner in which those assets are invested or held, and the general heads in respect of which those liabilities are outstanding;
 
 (g) so far as is practicable, a statement of outstanding guarantees and other financial liabilities of Singapore at the end of the financial year; and
-
-[25/91]
 
 (h) such other statements as the Minister may think fit,
 
 and, after the accounts and statements referred to in this section have been audited, present to the President those audited accounts and statements together with another statement stating whether the audited accounts and statements referred to in this section show any drawing on or likelihood of drawing on the reserves of the Government which were not accumulated by the Government during its current term of office as defined in the Constitution.
+
+[25/91]
 
 ### Write-off
 
@@ -424,7 +428,7 @@ and, after the accounts and statements referred to in this section have been aud
 
 (b) to abandon any claim to irrecoverable amounts of revenue, debts and overpayments.
 
-[18/94 wef 01/10/1994]
+[18/94]
 
 ### Surcharge
 
@@ -474,22 +478,22 @@ REGULATIONS
 
 (g) the making of advances to public officers and other persons and the rates and limits of such advances and the rates of interest thereon.
 
-(2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
-
 [25/91]
+
+(2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ## THE SCHEDULE
 
 Section 7(6)
 
-Moneys in Deposit Account to be
+Moneys in deposit account to
 
 
 
 
-Invested on Deposit in Bank
+be invested on deposit in bank
 
-[22/2003 wef 01/04/2004]
+[22/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -558,7 +562,6 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
-|||29 July 2002 (item (18) of the Schedule)|
 |14.|**Act 22 of 2003—Statutes (Miscellaneous Amendments) (No. 2) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 29/2003 published on 17 October 2003)|
@@ -582,3 +585,5 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 27/2007 published on 17 July 2007)|
 ||Date of Second and Third Readings|27 August 2007|
 ||Date of commencement|1 November 2007|
+|18.|**2012 Revised Edition—Financial Procedure Act (Chapter 109)**|
+||Date of operation|31 March 2012|
