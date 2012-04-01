@@ -3098,37 +3098,39 @@ Fee
 
 A transfer of the undertaking or shares in respect of a scheme for reconstruction of company or companies, an amalgamation of companies, or a transfer, conveyance or assignment of beneficial interest in assets between associated entities, under section 15
 
-$150, irrespective of whether the instrument qualifies for relief under section 15
+$165, irrespective of whether the instrument qualifies for relief under section 15
 
 1A.
 
 A conversion of a firm or private company to a limited liability partnership under section 15
 
-$150, irrespective of whether the instrument qualifies for relief under section 15
+$165, irrespective of whether the instrument qualifies for relief under section 15
 
 1B.
 
 An acquisition of ordinary shares in a company under section 15A
 
-$150, irrespective of whether the instrument qualifies for relief under section 15A
+$165, irrespective of whether the instrument qualifies for relief under section 15A
 
 2.
 
 Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
 
-$30
+$33
 
 3.
 
 Any other immovable property
 
-$90
+$99
 
 4.
 
 All other transactions
 
-$90.
+$99.
+
+[S 134/2012 wef 01/04/2012]
 
 [S 284/98; S 192/2003]
 
@@ -3148,7 +3150,7 @@ Fee
 
 Any immovable property sold under Part IV of the Housing and Development Act (Cap. 129)
 
-$30
+$33
 
 2.
 
@@ -3158,7 +3160,7 @@ Any other immovable property —
 
 where there is no difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for the adjudication, the duty was chargeable
 
-$105 for each certificate of valuation
+$115 for each certificate of valuation
 
 (b)
 
@@ -3180,7 +3182,9 @@ on the next $90,000 of such difference
 
 on the excess where the difference is in excess of $100,000
 
-0.25%, or $105 for each certificate of valuation, whichever is the higher.
+0.25%, or $115 for each certificate of valuation, whichever is the higher.
+
+[S 134/2012 wef 01/04/2012]
 
 [33/99; 32/2000]
 
@@ -3554,6 +3558,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 28/99 published on 4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|9 January 2012|
+|60.|**G.N. No. S 134/2012—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2012**|
+||Date of commencement|1 April 2012|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
