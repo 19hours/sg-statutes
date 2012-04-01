@@ -4988,9 +4988,13 @@ Part II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are —
 
-(a) a non-refundable application fee of $525 (inclusive of tax), which shall accompany the application;
+(a) a non-refundable application fee of $535 (inclusive of tax), which shall accompany the application;
 
-(b) a further fee, calculated at $131.25 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+[S 129/2012 wef 01/04/2012]
+
+(b) a further fee, calculated at $133.75 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+
+[S 129/2012 wef 01/04/2012]
 
 (c) an additional fee (inclusive of tax), of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
@@ -5168,7 +5172,7 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2003|
 |15.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||(Consequential amendments made by)||
-||Date of First Reading|10.3.2003|
+||Date of First Reading|10.03.2003|
 |||(Bill No. 6/2003 published on 11.3.2003)|
 ||Date of Second and Third Readings|21.3.2003|
 ||Date of commencement|1.4.2003|
@@ -5275,6 +5279,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 22/2011 published on 22 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (Except sections 26 and 29)|
+|40.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
+||Date of commencement|1 April 2012|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
