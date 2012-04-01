@@ -776,6 +776,10 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 (c) an appeal against an interlocutory judgment;
 
+(ca) an appeal against any judgment or order obtained after the hearing of an application for the admission of a person under section 15 of the Legal Profession Act (Cap. 161);
+
+[Act 3 of 2012 wef 01/04/2012]
+
 (d) an appeal against any judgment or order obtained after the hearing of an assessment of damages;
 
 (e) an appeal against any judgment or order obtained after the hearing of a taking of accounts between parties; or
@@ -1724,6 +1728,12 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 11/2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (item 106 of the Sixth Schedule — amendment of Supreme Court of Judicature Act)|
+|28.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
+||(Related amendments made to Act by)||
+||Date of First Reading|16 January 2012|
+|||(Bill No. 1/2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 April 2012 (section 15 — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
