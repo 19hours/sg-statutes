@@ -30,6 +30,8 @@
 
 - [10 Rules relating to legal education, continuing professional development and admission of advocates and solicitors](#Rules-relating-to-legal-education-continuing-professional-development-and-admission-of-advocates-and-solicitors)
 
+- [10A Protection from personal liability](#Protection-from-personal-liability)
+
 - [11 Dissolution of Board of Legal Education and transfer to Institute of property, existing contracts, etc.](#Dissolution-of-Board-of-Legal-Education-and-transfer-to-Institute-of-property-existing-contracts-etc)
 
 [**Part IIA ADMISSION OF ADVOCATES AND SOLICITORS**](#Part-IIA)
@@ -798,7 +800,9 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 ### Rules relating to legal education, continuing professional development and admission of advocates and solicitors
 
-10\.—(1) Subject to the provisions of this Part and Part IIA, the Board of Directors of the Institute may, after consulting the Minister and the Council, make rules for giving effect to this Part and Part IIA.
+10\.—(1) Subject to the provisions of this Part, Part IIA and section 25(1)(ca), the Board of Directors of the Institute may, after consulting the Minister and the Council, make rules for giving effect to this Part, Part IIA and section 25(1)(ca).
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (2) Without prejudice to the generality of subsection (1), the Board of Directors of the Institute may, after consulting the Minister and the Council, make rules —
 
@@ -816,11 +820,23 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (g) to prescribe the procedure by which a qualified person is admitted as an advocate and solicitor of the Supreme Court;
 
-(h) to prescribe the forms to be used and the fees to be paid for the purposes of this Part, Part IIA and any rules made under this section;
+(h) to prescribe the forms to be used and the fees to be paid for the purposes of this Part, Part IIA, section 25(1)(ca) and any rules made under this section;
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (i) to prescribe the requirements relating to continuing professional development that must be satisfied by advocates and solicitors and by foreign lawyers registered by the Attorney-General under section 130I (including different requirements for different classes thereof), and the measures which may be taken to verify whether those requirements have been complied with and to enforce compliance with those requirements; and
 
 (j) to provide for the waiver of any requirement referred to in paragraph (i), in relation to any advocate and solicitor or foreign lawyer referred to in that paragraph, by such person or persons as the Board of Directors of the Institute may appoint.
+
+(3) Disciplinary proceedings may be taken against any advocate and solicitor, or foreign lawyer registered by the Attorney-General under section 130I, who contravenes any rules made under this section.
+
+[Act 3 of 2012 wef 01/04/2012]
+
+### Protection from personal liability
+
+10A\. No liability shall be incurred by the Board of Directors of the Institute, the Chairman of the Institute or any other member of the Board, the Dean of the Institute, or any other officer or employee of the Institute, any committee appointed under section 7(1) or any member of any such committee, or any other person acting under the direction of the Institute, as a result of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the execution or purported execution of the Institute’s functions under this Act or any other written law.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 ### Dissolution of Board of Legal Education and transfer to Institute of property, existing contracts, etc.
 
@@ -954,15 +970,25 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 ### Ad hoc admissions
 
-15\.—(1) Notwithstanding anything to the contrary in this Act, the court may, for the purpose of any one case where the court is satisfied that it is of sufficient difficulty and complexity and having regard to the circumstances of the case, admit to practise as an advocate and solicitor any person who —
+15\.—(1) Notwithstanding anything to the contrary in this Act, the court may, for the purpose of any one case, admit to practise as an advocate and solicitor any person who —
 
-(a) holds Her Majesty’s Patent as Queen’s Counsel;
+(a) holds —
+
+(i) Her Majesty’s Patent as Queen’s Counsel; or
+
+(ii) any appointment of equivalent distinction of any jurisdiction;
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (b) does not ordinarily reside in Singapore or Malaysia, but has come or intends to come to Singapore for the purpose of appearing in the case; and
 
 (c) has special qualifications or experience for the purpose of the case.
 
-(2) The court shall not admit a person under this section in any criminal case unless the court is satisfied that there is a special reason to do so.
+[Act 3 of 2012 wef 01/04/2012]
+
+(2) The court shall not admit a person under this section in any case involving any area of legal practice prescribed under section 10 for the purposes of this subsection, unless the court is satisfied that there is a special reason to do so.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (3) Any person who applies to be admitted under this section shall do so by originating summons supported by an affidavit of the applicant, or of the advocate and solicitor instructing him, stating the names of the parties and brief particulars of the case in which the applicant intends to appear.
 
@@ -971,6 +997,10 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 (5) At the time of the service, the applicant shall pay the prescribed fee to the Attorney-General and the Society for their costs incurred in the application.
 
 (6) Before admitting a person under this section, the court shall have regard to the views of each of the persons served with the application.
+
+(6A) The Chief Justice may, after consulting the Judges of the Supreme Court, by notification published in theGazette, specify the matters that the court may consider when deciding whether to admit a person under this section.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (7) The Registrar shall, on payment of the fee prescribed under section 135 for the purposes of this subsection, issue to every person admitted under this section a certificate to practise specifying in it the case in which the person is permitted to appear.
 
@@ -1037,6 +1067,10 @@ PRACTISING CERTIFICATES
 (v) if he has been ordered by any court of law in Singapore or elsewhere to pay any sum to the Council or the Society, he has paid the sum;
 
 (c) a certificate from the Academy that he has paid all moneys, contributions and subscriptions payable by him under the Singapore Academy of Law Act (Cap. 294A) and any rules made thereunder;
+
+(ca) a declaration in writing in such form and containing such statements as may be prescribed by the Institute under section 10 for the purposes of this paragraph;
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (d) such accountant’s report as may be required under section 73 or a certificate from the Council stating that owing to the circumstances of his case such a report is unnecessary; and
 
@@ -3716,9 +3750,11 @@ DISCIPLINARY PROCEEDINGS
 
 (i) has contravened any of the provisions of this Act in relation thereto if such contravention warrants disciplinary action; or
 
-(j) has been disbarred, struck off, suspended or censured in his capacity as a legal practitioner by whatever name called in any other country.
+(j) has been disbarred, struck off, suspended, ordered to pay a penalty, censured or reprimanded in his capacity as a legal practitioner by whatever name called in any other country.
 
 [8/2011 wef 03/05/2011]
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (3) Sections 85 to 99 and 103 to 106 shall apply, with the necessary modifications, to a foreign lawyer registered by the Attorney-General under section 130I as they apply to an advocate and solicitor registered by the Attorney-General under section 130N, except that in lieu of an order that he be struck off the roll or suspended from practice for a period not exceeding 5 years, an order may be made for his registration under section 130I to be cancelled or suspended for such period as the court may think fit.
 
@@ -3774,9 +3810,11 @@ DISCIPLINARY PROCEEDINGS
 
 (j) has contravened any of the provisions of this Act in relation thereto if such contravention warrants disciplinary action; or
 
-(k) has been disbarred, struck off, suspended or censured in his capacity as a legal practitioner by whatever name called in any other country.
+(k) has been disbarred, struck off, suspended, ordered to pay a penalty, censured or reprimanded in his capacity as a legal practitioner by whatever name called in any other country.
 
 [41/93; 15/95]
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (3) Every practice trainee, and every qualified person in respect of whom an application under section 32(3) has been granted, shall, with the necessary modifications, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part, except that in lieu of any order that he be struck off the roll or suspended, an order may be made prohibiting him from applying to the court for admission as an advocate and solicitor until after a date specified in the order.
 
@@ -3824,9 +3862,11 @@ DISCIPLINARY PROCEEDINGS
 
 (ii) if so, setting out such particulars of each such complaint as the Council may require and he is able to provide; and
 
-(c) shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint is made by any public officer.
+(c) shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint is made by any public officer or any officer of the Institute.
 
 [19/2008]
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (1A) Subject to subsection (4A), the Council shall refer every complaint which satisfies the requirements of subsection (1) to the Chairman of the Inquiry Panel.
 
@@ -3836,13 +3876,15 @@ DISCIPLINARY PROCEEDINGS
 
 [15/89; 41/93]
 
-(3) Any Judge of the Supreme Court or the Attorney-General may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor and the Council shall —
+(3) Any Judge of the Supreme Court, the Attorney-General or the Institute may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor and the Council shall —
 
 (a) refer the matter to the Chairman of the Inquiry Panel; or
 
-(b) where the Judge or the Attorney-General requests that the matter be referred to a Disciplinary Tribunal, apply to the Chief Justice to appoint a Disciplinary Tribunal.
+(b) where the Judge, the Attorney-General or the Institute requests that the matter be referred to a Disciplinary Tribunal, apply to the Chief Justice to appoint a Disciplinary Tribunal.
 
 [30/86; 15/89; 41/93; 35/2001; 19/2008]
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (3A) Notwithstanding subsections (1A), (2) and (3), where any complaint is made to the Society of, the Council wishes to refer any information touching upon, or any Judge of the Supreme Court has referred any information to the Society touching upon, the conduct of an advocate and solicitor who is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice and who at the time of the conduct did not practise in any Singapore law practice —
 
@@ -3856,9 +3898,17 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008]
 
-(4) Notwithstanding subsections (1A), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Tribunal under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
+(4) Notwithstanding subsections (1A), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor (including any such complaint or information which had been referred to a Disciplinary Tribunal under section 89) have been received by the Council, the Council may do either or both of the following:
 
-[15/89; 41/93; 19/2008]
+(a) apply to the Chief Justice to refer to the Chairman of the Inquiry Panel one or more of the complaints or information which in the Council’s opinion are more serious in nature first and defer the referral of the remaining complaints or information;
+
+(b) apply to the Chairman of the Inquiry Panel for 2 or more of the complaints or information to be dealt with by —
+
+(i) the same Review Committee; or
+
+(ii) the same Inquiry Committee.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (4A) Subject to subsection (4C), the Council shall not refer a complaint of the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (1A) if the complaint is first made to the Society after the expiration of the period of —
 
@@ -4120,11 +4170,17 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (b) if the Inquiry Committee is of the view that no formal investigation by a Disciplinary Tribunal is required —
 
-(i) a penalty sufficient and appropriate to the misconduct committed; or
+(i) that the advocate and solicitor should be ordered to pay a penalty under section 88, and a penalty sufficient and appropriate to the misconduct committed;
 
-(ii) that the complaint be dismissed.
+[Act 3 of 2012 wef 01/04/2012]
 
-[19/2008]
+(ii) that the advocate and solicitor should be reprimanded or given a warning; or
+
+[Act 3 of 2012 wef 01/04/2012]
+
+(iii) that the complaint be dismissed.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which may give rise to proceedings under this Part, the Inquiry Committee may, after giving notice to him, decide on its own motion to inquire into that matter and report its findings to the Council.
 
@@ -4736,9 +4792,7 @@ and such order for the payment of costs as may be just.
 
 ### Costs
 
-103\. 
-
-—(1) [Deleted byAct 19 of 2008]
+103\.—(1) [Deleted byAct 19 of 2008]
 
 (2) [Deleted by Act 19 of 2008]
 
@@ -6608,13 +6662,27 @@ Circumstances in which Council’s powers may be exercised
 
 has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor, the Council may take any of the directions mentioned in paragraph 2 (referred to in this Schedule as the directions) with respect to the solicitor.
 
-(2) The Council shall not take any of the directions unless it is satisfied that, in all the circumstances of the case, it is appropriate to do so.
+(2) The Council —
+
+(a) shall not take any of the directions pursuant to a complaint of the conduct of the solicitor, if the complaint is made to the Society after the expiration of a period of 3 years from the date of the conduct; and
+
+(b) shall not take any of the directions, unless the Council is satisfied that, in all the circumstances of the case, it is appropriate to do so.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 (3) In determining in any case whether it is appropriate to take any of the directions, the Council may —
 
-(a) have regard to the existence of any remedy which it is reasonable to expect to be available to the client in civil proceedings; and
+(a) have regard to the existence of any remedy which it is reasonable to expect to be available to the client in civil proceedings;
 
-(b) where proceedings seeking any such remedy have not been begun by the client, have regard to whether it is reasonable to expect the client to begin such proceedings.
+[Act 3 of 2012 wef 01/04/2012]
+
+(b) where proceedings seeking any such remedy have not been begun by the client, have regard to whether it is reasonable to expect the client to begin such proceedings; and
+
+[Act 3 of 2012 wef 01/04/2012]
+
+(c) where the client has attempted to contact the solicitor with a view to resolving a matter, have regard to whether the solicitor has responded to the client or attempted to resolve the matter.
+
+[Act 3 of 2012 wef 01/04/2012]
 
 Directions which may be given
 
@@ -6959,6 +7027,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 12/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 August 2011|
+|51.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
+||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 April 2012 (except sections 10, 11, 12 and 14)|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
