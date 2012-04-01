@@ -1096,7 +1096,7 @@ IMPOSITION OF INCOME TAX
 
 (b) gains or profits from any employment;
 
-(c) [ [Deleted byAct 29/65]]
+(c) [Deleted by Act 29/65]
 
 (d) dividends, interest or discounts;
 
@@ -5594,9 +5594,9 @@ the total amount of medical expenses incurred by the employer for his employees 
 
 the difference between 2% of the total remuneration of his employees in that basis period and C.
 
-[34/2008, wef Y/A 2008 & Sub Ys/A]
-
 [34/2005]
+
+[34/2008, wef Y/A 2008 & Sub Ys/A]
 
 (6C) For the purpose of subsection (6B), a reference to expenses incurred by an employer in providing qualifying insurance excludes any reimbursement in cash by the employer of the employee for payment by the employee of premiums on such qualifying insurance.
 
@@ -12566,9 +12566,9 @@ then the following provisions shall apply:
 
 (ii) an amount computed in accordance with the following formula shall be recoverable by the Comptroller from the qualifying person as a debt due to the Government:
 
-[29/2010 wef Y/A 2011 & Sub Ys/A]
-
 [22/2011 wef Y/A 2011 & Sub Ys/A]
+
+[29/2010 wef Y/A 2011 & Sub Ys/A]
 
 (12) Where any tax, duty, interest or penalty is due under this Act, the Goods and Services Tax Act (Cap. 117A), the Property Tax Act (Cap. 254) or the Stamp Duties Act (Cap. 312) by the qualifying person to the Comptroller of Income Tax, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, the amount of cash payout made by the Comptroller to the qualifying person shall be reduced by the amount so due.
 
@@ -13328,7 +13328,7 @@ Deduction for handicapped spouse
 
 (i) who was incapacitated by reason of physical or mental infirmity; and
 
-(ii) [ [Deleted by Act 29/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010]]
+(ii) [Deleted by Act 29/2010 wef 22/11/2010]
 
 (iii) in respect of whom no deduction has been claimed by another person under paragraph (i) or (j),
 
@@ -13454,7 +13454,7 @@ Deduction for aged parents
 
 (i) who was his or his spouse’s parent, grandparent or great-grandparent; and
 
-(ii) [ [Deleted by Act 29/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010]]
+(ii) [Deleted by Act 29/2010 wef 22/11/2010]
 
 (iii) in respect of whom no deduction has been claimed by another person under paragraph (a), (c) or (d),
 
@@ -13494,7 +13494,7 @@ Deduction for maintenance for handicapped siblings
 
 [Act 29/2010 wef Y/A 2010 & Sub Ys/A]
 
-(iii) [ [Deleted by Act 29/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010 wef 22/11/2010]]
+(iii) [Deleted by Act 29/2010 wef 22/11/2010]
 
 (iv) in respect of whom no deduction has been claimed by another person under paragraph (a), (c), (d) or (e); and
 
@@ -19057,7 +19057,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009]
+[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009]
 
 Part C
 
@@ -19703,9 +19703,13 @@ Part II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are as follows:
 
-(a) a non-refundable application fee of $525 (inclusive of goods and services tax), which must accompany the application;
+(a) a non-refundable application fee of $535 (inclusive of goods and services tax), which must accompany the application;
 
-(b) a further fee, calculated at $131.25 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+[S 130/2012 wef 01/04/2012]
+
+(b) a further fee, calculated at $133.75 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+
+[S 130/2012 wef 01/04/2012]
 
 (c) an additional fee, of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
@@ -21039,6 +21043,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 March 2012 (Section 20)|
+|287.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
+||Date of commencement|1 April 2012|
+|288.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 April 2012 (Sections 13, 17, 37(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
