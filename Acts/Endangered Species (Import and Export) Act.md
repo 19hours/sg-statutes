@@ -5310,13 +5310,19 @@ Ambystoma mexicanum
 
 B
 
-Cryptobranchidae (Giant salamanders)
+Cryptobranchidae (Hellbender and giant salamanders)
 
 1.
 
 Andrias
 
 spp\. 
+
+2.
+
+Cryptobranchus alleganiensis
+
+(United States of America)
 
 C
 
@@ -8550,6 +8556,8 @@ Guaiacum spp.#2
 
 (b) finished products packaged and ready for retail trade.
 
+[S 139/2012 wef 03/04/2012]
+
 [S 666/2011 wef 22/12/2011]
 
 [S 214/2011 wef 27/04/2011]
@@ -8588,7 +8596,7 @@ This Legislative History is provided for the convenience of users of the Endange
 |||(Bill No. 29/1992 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|20 November 1992|
-|8.|**G. N. No. S 344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
+|8.|**G. N. No. S344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
 ||Date of commencement|4 November 1994|
 |9.|**G. N. No. S 49/1995—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1995**|
 ||Date of commencement|16 February 1995|
@@ -8657,6 +8665,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|27 April 2011|
 |34.|**G.N. No. S 666/2011—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2011**|
 ||Date of commencement|22 December 2011|
+|35.|**G.N. No. S 139/2012—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2012**|
+||Date of commencement|3 April 2012|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
