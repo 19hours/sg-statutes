@@ -1,16 +1,14 @@
-**Public Order Act 2009**
+**Public Order Act**
 
-**(No. 15 of 2009)**
+**(CHAPTER 257A)**
 
 **Table of Contents**
 
 [**Long Title**](#Public-Order-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -114,51 +112,33 @@
 
 - [48 Application of other laws](#Application-of-other-laws)
 
-- [49 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
+- [49 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-- [50 Saving and transitional provisions](#Saving-and-transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Public Order Act
 
-ACTS SUPPLEMENT
+(CHAPTER 257A)
 
-Published by Authority
+(Original Enactment: Act 15 of 2009)
 
-NO. 19]
+REVISED EDITION 2012
 
-Friday, July 24
+(31st May 2012)
 
-[2009
+An Act to regulate assemblies and processions in public places, to provide powers necessary for preserving public order and the safety of individuals at special event areas, to supplement other laws relating to the preservation and maintenance of public order in public places.
 
-The following Act was passed by Parliament on 13th April 2009 and assented to by the President on 28th April 2009:—
-
-Public Order Act 2009
-
-(No. 15 of 2009)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th April 2009.
-
-Date of Commencement: 9th October 2009
-
-An Act to regulate assemblies and processions in public places, to provide powers necessary for preserving public order and the safety of individuals at special event areas, to supplement other laws relating to the preservation and maintenance of public order in public places, and to make consequential and related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[9th October 2009]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Public Order Act 2009 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Public Order Act.
 
 ### Interpretation
 
@@ -866,7 +846,7 @@ specified in the written direction to the event organiser (referred to as the or
 
 (a) except as otherwise provided in paragraph (b) or (c) — the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant and includes a mortgagee in possession;
 
-(b) where the gate, door fence, platform, staging, hoarding or structure, or the stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, is part of any common property or limited common property within the meaning of the Building Maintenance and Strata Management Act (Cap. 30C) —
+(b) where the gate, door, fence, platform, staging, hoarding or other structure, or the stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, is part of any common property or limited common property within the meaning of the Building Maintenance and Strata Management Act (Cap. 30C) —
 
 (i) the management corporation established under that Act having control of the common property if comprised in a strata title plan, or the person receiving any rent or charge for the maintenance of that common property;
 
@@ -874,7 +854,7 @@ specified in the written direction to the event organiser (referred to as the or
 
 (iii) the person receiving any rent or charge for the maintenance and management of the common property not comprised in a strata title plan; and
 
-(c) where the gate, door fence, platform, staging, hoarding or structure, or the stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, is part of the common property of any housing estate of the Housing and Development Board — that Board or the Town Council established under the Town Councils Act (Cap. 329A) for that housing estate.
+(c) where the gate, door, fence, platform, staging, hoarding or other structure, or the stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, is part of the common property of any housing estate of the Housing and Development Board — that Board or the Town Council established under the Town Councils Act (Cap. 329A) for that housing estate.
 
 ### Unauthorised entry to special event area, etc.
 
@@ -1048,15 +1028,15 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 “narcotics officer” means a public officer appointed to the Narcotics Service;
 
+“photograph” means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, photocopy, and record an image, whether digitally or in another way;
+
 “picture” includes —
 
 (a) any drawing, whether made by computer-graphics or otherwise; and
 
 (b) any photograph, photographic negative, photographic plate or photographic slide,
 
-and includes any part of a picture;
-
-“photograph” means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, photocopy, and record an image, whether digitally or in another way.
+and includes any part of a picture.
 
 ### Obstruction of police officers under section 29 or 38
 
@@ -1100,7 +1080,7 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -1128,7 +1108,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -1232,69 +1212,49 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) Notwithstanding subsection (1), nothing in this Act shall affect the common law of trespass and, in particular, the right of a person in, or entitled to, possession of land to request a trespasser to leave the land, and if the trespasser refuses to leave on being requested, to remove the trespasser from the land.
 
-### Consequential and related amendments to other written laws
-
-49\.—(1) Section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) is repealed.
-
-(2) Section 18(1) of the Police Force Act (Cap. 235) is amended by deleting the words “licences under the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184)” in paragraph (a) and substituting the words “permits under the Public Order Act 2009”.
-
-(3) The Schedule to the Public Entertainments and Meetings Act (Cap. 257) is amended —
-
-(a) by deleting sub-paragraph (m) of paragraph 2;
-
-(b) by deleting the word “and” at the end of paragraph 3(d); and
-
-(c) by deleting the full-stop at the end of sub-paragraph (e) of paragraph 3 and substituting the word “; and”, and by inserting immediately thereafter the following sub-paragraph:
-
-“
-
-(f) any lecture, talk, address, debate or discussion in any place to which the public or any class of the public has access whether gratuitously or otherwise.
-
-”.
-
 ### Saving and transitional provisions
 
-50\.—(1) Any —
+49\.—(1) Any —
 
-(a) permit granted before the commencement of section 49(1) under any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in respect of any assembly or procession; or
+(a) permit granted before 9th October 2009 under any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in respect of any assembly or procession; or
 
-(b) licence granted before the commencement of section 49(3) for a licence under the Public Entertainments and Meetings Act (Cap. 257) in respect of any lecture, talk, address, debate or discussion,
+(b) licence granted before 9th October 2009 for a licence under the Public Entertainments and Meetings Act (Cap. 257) in respect of any lecture, talk, address, debate or discussion,
 
 shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to be a permit granted under Part II of this Act.
 
 (2) Any notice, order or other document prepared, issued or made under —
 
-(a) any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in respect of any assembly or procession; or
+(a) any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act in respect of any assembly or procession; or
 
-(b) the Public Entertainments and Meetings Act (Cap. 257) in respect of any lecture, talk, address, debate or discussion by the Licensing Officer under that Act,
+(b) the Public Entertainments and Meetings Act in respect of any lecture, talk, address, debate or discussion by the Licensing Officer under that Act,
 
 shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, issued or made by the Commissioner under the corresponding provisions of Part II of this Act.
 
 (3) Any —
 
-(a) application before the commencement of section 49(1) for a permit under any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act in respect of any assembly or procession; or
+(a) application before 9th October 2009 for a permit under any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act in respect of any assembly or procession; or
 
-(b) application before the commencement of section 49(3) for a licence under the Public Entertainments and Meetings Act in respect of any lecture, talk, address, debate or discussion,
+(b) application before 9th October 2009 for a licence under the Public Entertainments and Meetings Act in respect of any lecture, talk, address, debate or discussion,
 
-whose application was not granted before that commencement shall, where applicable, be deemed to be an application for a permit under Part II of this Act.
+whose application was not granted before that date shall, where applicable, be deemed to be an application for a permit under Part II of this Act.
 
 (4) Where —
 
-(a) an appeal has been made to the Minister under section 10(5), 11(6), 13(3) or 14(5) of the Public Entertainments and Meetings Act as in force immediately before the commencement of section 49(3); and
+(a) an appeal has been made to the Minister under section 10(5), 11(6), 13(3) or 14(5) of the Public Entertainments and Meetings Act as in force immediately before 9th October 2009; and
 
-(b) the appeal has not been dealt with or disposed of immediately before that commencement,
+(b) the appeal has not been dealt with or disposed of immediately before that date,
 
-the appeal may continue to be dealt with in accordance with that Act as if section 49(3) had not been enacted.
+the appeal may continue to be dealt with in accordance with that Act as if the Schedule to that Act had not been amended on that date.
 
-(5) Except as otherwise expressly provided in an order made under subsection (7) or in this section, where any period of time specified in —
+(5) Except as otherwise expressly provided in an order made under this section, where any period of time specified in —
 
-(a) any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act as in force immediately before the commencement of section 49(1); or
+(a) any rules made under section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act as in force immediately before 9th October 2009; or
 
-(b) the Public Entertainments and Meetings Act (Cap. 257) as in force immediately before the commencement of section 49(3) in relation to any lecture, talk, address, debate or discussion,
+(b) the Public Entertainments and Meetings Act as in force immediately before 9th October 2009 in relation to any lecture, talk, address, debate or discussion,
 
-is current immediately before the relevant commencement, this Act shall have effect as if the corresponding provision in this Act had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
+is current immediately before 9th October 2009, this Act shall have effect as if the corresponding provision in this Act had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
 
-(i) to run from the date or event from which it was running immediately before that day; and
+(i) to run from the date or event from which it was running immediately before 9th October 2009; and
 
 (ii) to expire (subject to any provision of this Act for its extension) whenever it would have expired if this Act had not been enacted,
 
@@ -1302,5 +1262,50 @@ and any rights, priorities, liabilities, reliefs, obligations, requirements, pow
 
 (6) Except as otherwise expressly provided, nothing in this section shall affect any saving provided by the Interpretation Act (Cap. 1).
 
-(7) For a period of 2 years after the commencement of section 49(1), (2) or (3), as the case may be, the Minister may, by order published in theGazette, prescribe such provisions of a savings or transitional nature consequent on the enactment of section 49(1), (2) or (3) as he may consider necessary or expedient.
+## LEGISLATIVE HISTORY
+
+Public Order Act
+
+(CHAPTER 257A)
+
+This Legislative History is provided for the convenience of users of the Public Order Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 2009—Public Order Act 2009**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 8/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|9 October 2009|
+|2.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011 (Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (Section 32 – Amendment of Public Order Act 2009)|
+|3.|**2012 Revised Edition—Public Order Act (Chapter 257A)**|
+||Date of operation|31 May 2012|
+## COMPARATIVE TABLE
+
+Public Order Act
+
+(CHAPTER 257A)
+
+The following provisions in the Public Order Act 2009 (Act 15 of 2009) have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Public Order Act.
+
+2012 Ed\. 
+
+Act 15 of 2009 
+
+Omitted
+
+49 
+
+49 —(1) to (6)
+
+50 —(1) to (6)
+
+Omitted
+
+(7)
 
