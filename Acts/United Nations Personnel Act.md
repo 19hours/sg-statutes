@@ -1,14 +1,12 @@
-**United Nations Personnel Act 2011**
+**United Nations Personnel Act**
 
-**(No. 11 of 2011)**
+**(CHAPTER 339A)**
 
 **Table of Contents**
 
 [**Long Title**](#United-Nations-Personnel-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,49 +34,35 @@
 
 - [14 Amendment of Schedules](#Amendment-of-Schedules)
 
-[**FIRST SCHEDULE Offences Against Un Workers**](#FIRST-SCHEDULE-Offences-Against-Un-Workers)
+[**FIRST SCHEDULE Offences against UN workers**](#FIRST-SCHEDULE-Offences-against-UN-workers)
 
-[**SECOND SCHEDULE Offences Against Premises or Vehicles**](#SECOND-SCHEDULE-Offences-Against-Premises-or-Vehicles)
+[**SECOND SCHEDULE Offences against premises or vehicles**](#SECOND-SCHEDULE-Offences-against-premises-or-vehicles)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+[**Comparative Table**](#Comparative-Table)
 
-Published by Authority
+# United Nations Personnel Act
 
-NO. 19]
+(CHAPTER 339A)
 
-Friday, April 8
+(Original Enactment: Act 11 of 2011)
 
-[2011
+REVISED EDITION 2012
 
-The following Act was passed by Parliament on 10th March 2011 and assented to by the President on 25th March 2011:—
-
-UNITED NATIONS PERSONNEL ACT 2011
-
-(No. 11 of 2011)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-25th March 2011.
-
-Date of Commencement: 5th April 2011
+(31st May 2012)
 
 An Act to give effect to certain provisions of the Convention on the Safety of United Nations and Associated Personnel and the Optional Protocol to the Convention, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[5th April 2011: except sections 3(3) and 12 ;
 
-### Short title and commencement
+23rd May 2011: sections 3(3) and 12 ]
 
-1\.—(1) This Act may be cited as the United Nations Personnel Act 2011.
+### Short title
 
-(2) Sections 3(3) and 12 shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the United Nations Personnel Act.
 
 ### Interpretation
 
@@ -94,7 +78,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (a) an offence under section 4, 5 or 6; or
 
-(b) an abetment of, or a conspiracy or attempt to commit, an offence under section 4 or 5;
+(b) an abetment of, or a conspiracy or an attempt to commit, an offence under section 4 or 5;
 
 “Protocol” means the Optional Protocol to the Convention adopted by the General Assembly of the United Nations on 8th December 2005;
 
@@ -109,6 +93,8 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 (a) an abetment of the offence; or
 
 (b) an attempt to commit the offence.
+
+[IPPA, s. 2; UK UNPA, s. 2(3)]
 
 ### UN workers
 
@@ -164,6 +150,8 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 a written certificate issued under the hand of the Minister charged with the responsibility for foreign affairs and stating any fact relevant to the question shall be admissible as evidence of that fact until the contrary is proved.
 
+[IPPA, s. 3(2); UK UNPA, s. 4(1), (2) and (3)]
+
 ### Offences committed against UN workers
 
 4\.—(1) Any person who commits outside Singapore any act —
@@ -175,6 +163,8 @@ a written certificate issued under the hand of the Minister charged with the res
 shall be guilty of that offence and shall be liable on conviction to the same punishment to which he would have been liable had he been convicted of that offence.
 
 (2) That person may be dealt with as if the offence had been committed in Singapore.
+
+[IPPA, s. 4]
 
 ### Offences committed against premises or vehicles
 
@@ -193,6 +183,8 @@ shall be guilty of that offence and shall be liable on conviction to the same pu
 shall be guilty of that offence and shall be liable on conviction to the same punishment to which he would have been liable had he been convicted of that offence.
 
 (2) That person may be dealt with as if the offence had been committed in Singapore.
+
+[IPPA, s. 5]
 
 ### Making threats
 
@@ -220,6 +212,8 @@ whichever is the lesser, or to both fine and imprisonment.
 
 (3) If the offence is committed outside Singapore, that person may be dealt with as if the offence had been committed in Singapore.
 
+[IPPA, s. 6; UK UNPA, s. 3(2)]
+
 ### Attempt, abetment and conspiracy punishable as offences
 
 7\. Any person who, outside Singapore, commits an act which, if committed in Singapore, would constitute an abetment of or a conspiracy or an attempt to commit —
@@ -236,6 +230,8 @@ and, if committed, is likely to endanger the person or liberty of the UN worker,
 
 is deemed to commit the act in Singapore and may be dealt with accordingly.
 
+[IPPA, s. 7]
+
 ### Presumption of knowledge
 
 8\.—(1) Where, in any proceedings for an offence under section 4, it is proved that the accused had committed the act referred to in that section to or in relation to a UN worker, it shall be presumed, unless the contrary is proved, that the accused knew that the person in question was a UN worker.
@@ -251,6 +247,8 @@ is deemed to commit the act in Singapore and may be dealt with accordingly.
 (b) the offence is or is to be committed to or in relation to a UN worker, relevant premises or a vehicle used by a UN worker (as the case may be),
 
 it shall be presumed, unless the contrary is proved, that the accused knew that the person in question was a UN worker, the premises in question were relevant premises or the vehicle in question was a vehicle used by a UN worker.
+
+[IPPA, s. 8]
 
 ### Information relating to offence
 
@@ -276,19 +274,21 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (d) an abetment of or a conspiracy or an attempt to commit an offence under paragraph (a), (b) or (c).
 
+[IPPA, s. 9]
+
 ### Assistance under Mutual Assistance in Criminal Matters Act
 
 10\.—(1) Assistance under any provision of Part III of the Mutual Assistance in Criminal Matters Act (Cap. 190A) may be provided by Singapore to a Convention country for a criminal matter involving a relevant offence of that country.
 
 (2) For the purposes of subsection (1) —
 
-(a) a relevant offence shall be deemed to be a foreign serious offence for the purposes of the Mutual Assistance in Criminal Matters Act (Cap. 190A);
+(a) a relevant offence shall be deemed to be a foreign serious offence for the purposes of the Mutual Assistance in Criminal Matters Act;
 
 (b) that offence shall be deemed not to be an offence of a political character for the purposes of that Act;
 
 (c) section 20(1)(f) of that Act is inapplicable to any request for assistance referred to in subsection (1); and
 
-(d) the reference to the appointed date in the definition of “foreign confiscation order” in section 2(1) of that Act shall be read as the date of commencement of the Mutual Assistance in Criminal Matters (Amendment) Act 2006 (Act 8 of 2006).
+(d) the reference to the appointed date in the definition of “foreign confiscation order” in section 2(1) of that Act shall be read as a reference to the date of commencement of the Mutual Assistance in Criminal Matters (Amendment) Act 2006 (Act 8 of 2006).
 
 (3) The following offences shall be deemed to be Singapore offences for the purposes of the Mutual Assistance in Criminal Matters Act:
 
@@ -296,7 +296,7 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (b) an offence specified in the Second Schedule committed to or in relation to relevant premises or a vehicle used by a UN worker;
 
-(c) an abetment of or a conspiracy or attempt to commit an offence under paragraph (a) or (b); and
+(c) an abetment of or a conspiracy or an attempt to commit an offence under paragraph (a) or (b); and
 
 (d) an offence against a UN worker.
 
@@ -306,11 +306,13 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
+[IPPA, s. 10]
+
 ### Extradition to and from Convention countries
 
 11\.—(1) Offences against a UN worker shall be deemed to be extraditable crimes for the purposes of Parts III and IV of the Extradition Act (Cap. 103).
 
-(2) For the purposes of the Extradition Act (Cap. 103), the expression “extradition crime”, in relation to a Convention country that is a declared Commonwealth country, shall be deemed to include relevant offences.
+(2) For the purposes of the Extradition Act, the expression “extradition crime”, in relation to a Convention country that is a declared Commonwealth country, shall be deemed to include relevant offences.
 
 (3) Subject to subsection (4), where no extradition treaty is in force between Singapore and a Convention country that is not a declared Commonwealth country, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
 
@@ -336,7 +338,7 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 (9) In this section —
 
-“declared Commonwealth country” has the meaning given to that expression in the Extradition Act (Cap. 103);
+“declared Commonwealth country” has the meaning given to that expression in the Extradition Act;
 
 “relevant offence”, in relation to a Convention country, means an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission —
 
@@ -344,9 +346,11 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 (b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
+[IPPA, s. 11]
+
 ### Extradition to Protocol countries
 
-12\.—(1) For the purposes of the Extradition Act, the expression “extradition crime”, in relation to a Protocol country that is a declared Commonwealth country, shall be deemed to include relevant offences.
+12\.—(1) For the purposes of the Extradition Act (Cap. 103), the expression “extradition crime”, in relation to a Protocol country that is a declared Commonwealth country, shall be deemed to include relevant offences.
 
 (2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Protocol country that is not a declared Commonwealth country, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
 
@@ -360,7 +364,7 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 (b) the treaty does not provide for the extradition of persons accused of or convicted of a relevant offence of that country,
 
-a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) may be made applying that Act in relation to that country as if the treaty provided for the matter referred to in paragraph (b).
+a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act in relation to that country as if the treaty provided for the matter referred to in paragraph (b).
 
 (6) Where a notification referred to in subsection (5) is made, any limitation, condition, exception or qualification specified in any other notification made under section 4 of the Extradition Act, or in any Order in Council referred to in section 3 of that Act, in relation to that country shall, to the extent that it prevents the relevant offence from being considered an extradition crime in relation to that country, be disregarded in the application of that Act in relation to that country.
 
@@ -382,19 +386,25 @@ a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) ma
 
 (b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
+[IPPA, s. 11]
+
 ### No prosecution without Public Prosecutor’s consent
 
 13\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor.
+
+[IPPA, s. 12]
 
 ### Amendment of Schedules
 
 14\. The Minister may, by order published in theGazette, amend the First or Second Schedule for the purposes of giving effect to the Convention or Protocol, including any amendment to the Convention or Protocol that is binding on Singapore.
 
+[IPPA, s. 13]
+
 FIRST SCHEDULE
 
 Sections 4(1)(b), 6(1)(a), 7(a), 9(4)(a), 10(3)(a) and 14
 
-Offences Against Un Workers
+Offences against UN workers
 
 Offence
 
@@ -422,7 +432,7 @@ Section 4
 
 Attempt to cause explosion or making or keeping explosive with intent to endanger life
 
-Hostage-Taking Act 2010 (Act 19 of 2010) 
+Hostage-Taking Act (Cap\. 126C) 
 
 4.
 
@@ -602,11 +612,13 @@ Section 376A
 
 Sexual penetration of minor under 16 years of age.
 
+[IPPA, First Schedule]
+
 SECOND SCHEDULE
 
 Sections 5(1)(c), 6(1)(b), 7(b), 9(4)(b), 10(3)(b) and 14
 
-Offences Against Premises or Vehicles
+Offences against premises or vehicles
 
 Offence
 
@@ -681,4 +693,70 @@ Intentionally running vessel aground or ashore with intent to commit theft, etc.
 Section 440
 
 Mischief committed after preparation made for causing death or hurt.
+
+[IPPA, Second Schedule]
+
+## LEGISLATIVE SOURCE KEY
+
+United Nations Personnel Act
+
+(CHAPTER 339A)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+UK UNPA
+
+:
+
+UK United Nations Personnel Act 1997 (Chapter 13)
+
+IPPA
+
+:
+
+Singapore Internationally Protected Persons Act (Chapter 145A, 2010 Revised Edition)
+
+## LEGISLATIVE HISTORY
+
+United Nations Personnel Act
+
+(CHAPTER 339A)
+
+This Legislative History is provided for the convenience of users of the United Nations Personnel Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 11 of 2011—United Nations Personnel Act 2011**|
+||Date of First Reading|14 February 2011|
+|||(Bill No. 4/2011 published on 14 February 2011)|
+||Date of Second and Third Readings|10 March 2011|
+||Dates of commencement|5 April 2011 (except sections 3(3) and 12)|
+|2.|**Act 11 of 2011—United Nations Personnel Act 2011**|
+||Date of First Reading|14 February 2011|
+|||(Bill No. 4/2011 published on 14 February 2011)|
+||Date of Second and Third Readings|10 March 2011|
+||Dates of commencement|23 May 2011 (sections 3(3) and 12)|
+|3.|**2012 Revised Edition—United Nations Personnel Act (Chapter 339A)**|
+||Date of operation|31 May 2012|
+## COMPARATIVE TABLE
+
+United Nations Personnel Act
+
+(CHAPTER 339A)
+
+The following provisions in the United Nations Personnel Act 2011 (Act 11 of 2011) have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the United Nations Personnel Act.
+
+2012 Ed\. 
+
+Act 11 of 2011 
+
+1 
+
+1 —(1)
+
+Omitted
+
+(2)
 
