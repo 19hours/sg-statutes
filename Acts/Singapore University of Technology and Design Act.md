@@ -1,6 +1,6 @@
-**Singapore University of Technology and Design Act 2011**
+**Singapore University of Technology and Design Act**
 
-**(No. 14 of 2011)**
+**(CHAPTER 305E)**
 
 **Table of Contents**
 
@@ -8,9 +8,7 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,49 +30,29 @@
 
 - [11 Act to prevail over constituent documents, etc.](#Act-to-prevail-over-constituent-documents-etc)
 
-- [12 Consequential amendment to Private Education Act 2009](#Consequential-amendment-to-Private-Education-Act-2009)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Singapore University of Technology and Design Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 305E)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 14 of 2011)
 
-Published by Authority
+REVISED EDITION 2012
 
-NO. 23]
+(31st May 2012)
 
-Friday, May 6
-
-[2011
-
-The following Act was passed by Parliament on 11th April 2011 and assented to by the President on 13th April 2011:—
-
-Singapore University of Technology and Design Act 2011
-
-(No. 14 of 2011)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-13th April 2011.
-
-Date of Commencement: 18th October 2011
-
-An Act to provide for certain matters relating to the operation of a university known as the Singapore University of Technology and Design and to make a consequential amendment to the Private Education Act 2009 (Act 21 of 2009).
+An Act to provide for certain matters relating to the operation of a university known as the Singapore University of Technology and Design.
 
 Whereas a company limited by guarantee has been incorporated under the Companies Act (Cap. 50) by the name “Singapore University of Technology and Design” having as its objects the establishment, operation, maintenance and promotion of a university in Singapore under the name and style “Singapore University of Technology and Design”.
 
 And whereas it is desirable that statutory provision be made in relation to the operation of the Singapore University of Technology and Design and certain of the powers of the company.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[18th October 2011]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore University of Technology and Design Act 2011 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore University of Technology and Design Act.
 
 ### Interpretation
 
@@ -84,7 +62,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company;
 
-“university company” means the company limited by guarantee incorporated under the Companies Act (Cap. 50) on 24th July 2009 under the name Singapore University of Technology and Design.
+“university company” means the company limited by guarantee incorporated under the Companies Act (Cap. 50) on 24th July 2009 under the name “Singapore University of Technology and Design”.
 
 ### Function of university company
 
@@ -160,7 +138,20 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) Nothing in this Act shall be construed to excuse or exempt the university company from complying with any written law that, apart from this Act, would apply to the university company.
 
-### Consequential amendment to Private Education Act 2009
+## LEGISLATIVE HISTORY
 
-12\. Section 72 of the Private Education Act 2009 (Act 21 of 2009) is amended by inserting, immediately after the words “the Singapore Management University” in paragraph (i), the words “, the Singapore University of Technology and Design”.
+Singapore University of Technology and Design Act
 
+(CHAPTER 305E)
+
+This Legislative History is provided for the convenience of users of the Singapore University of Technology and Design Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 2011—Singapore University of Technology and Design Act 2011**|
+||Date of First Reading|1 March 2011|
+|||(Bill No. 9/2011 published on 1 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|18 October 2011|
+|2.|**2012 Revised Edition—Singapore University of Technology and Design Act (Chapter 305E)**|
+||Date of operation|31 May 2012|
