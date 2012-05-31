@@ -64,9 +64,9 @@
 
 - [25 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Financial Provisions**](#FIRST-SCHEDULE-Financial-Provisions)
+[**FIRST SCHEDULE Financial provisions**](#FIRST-SCHEDULE-Financial-provisions)
 
-[**SECOND SCHEDULE Matters in Respect of Which Agency May Make Regulations**](#SECOND-SCHEDULE-Matters-in-Respect-of-Which-Agency-May-Make-Regulations)
+[**SECOND SCHEDULE Matters in respect of which Agency may make regulations**](#SECOND-SCHEDULE-Matters-in-respect-of-which-Agency-may-make-regulations)
 
 [**Legislative History**](#Legislative-History)
 
@@ -76,9 +76,9 @@
 
 (Original Enactment: Act 30 of 1979)
 
-REVISED EDITION 1998
+REVISED EDITION 2012
 
-(30th May 1998)
+(31st May 2012)
 
 An Act to impose a skills development levy on employers and for the establishment of a Skills Development Fund and for purposes connected therewith.
 
@@ -96,9 +96,7 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Agency” means the Singapore Workforce Development Agency established under the Singapore Workforce Development Agency Act 2003;
-
-[14/2003 wef 01/09/2003]
+“Agency” means the Singapore Workforce Development Agency established under the Singapore Workforce Development Agency Act (Cap. 305D);
 
 “employee”, in relation to a month, means an employee rendering in that month services wholly or partly in Singapore and an employee who is on leave during that month where such leave is attributable to services rendered wholly or partly in Singapore in any previous month, but does not include any domestic servant, gardener or chauffeur, wholly and exclusively employed by an individual otherwise than in connection with his trade, business, profession or vocation;
 
@@ -110,7 +108,7 @@ PRELIMINARY
 
 “skills development levy” or “levy” means skills development levy imposed by this Act.
 
-[19/91; 1/96]
+[19/91; 1/96; 14/2003]
 
 ## PART II
 
@@ -126,27 +124,27 @@ SKILLS DEVELOPMENT LEVY
 
 whichever is the greater.
 
-[20/2008 wef 01/10/2008]
+[20/2008]
 
 (1A) For the purpose of subsection (1)(a), the levy shall not be chargeable on the part of the remuneration of the employee in any month that exceeds $4,500 or such other amount as the Minister may, by notification in theGazette, prescribe.
 
-[20/2008 wef 01/10/2008]
+[20/2008]
 
 (2) The levy shall be collected and paid in respect of the month of October 1979 and every subsequent month.
 
-(3) [Deleted by Act 20/2008 wef 01/10/2008]
+(3) [Deleted by Act 20 of 2008]
 
 (4) Without prejudice to any other remedy, the levy may be recovered as a debt due to the Agency from the person accountable therefor.
 
-[19/91; 35/96]
+[19/91; 35/96; 14/2003]
 
 ### Exemption from levy
 
 4\. 
 
-—(1) [Deleted by Act 20/2008 wef 01/10/2008]
+—(1) [Deleted by Act 20 of 2008]
 
-(2) [Deleted by Act 20/2008 wef 01/10/2008]
+(2) [Deleted by Act 20 of 2008]
 
 (3) The Minister may by order —
 
@@ -180,15 +178,11 @@ SKILLS DEVELOPMENT FUND
 
 (g) any interest, dividends and other income derived from the investment of moneys in the Fund.
 
-[6
-
-[35/96]
+[35/96; 14/2003]
 
 ### Government to contribute to Fund
 
 6\. The Government shall contribute monthly to the Fund an amount equal to the amount of levy which would be chargeable in any month on an employer in respect of each employee employed by the Government as if that employee were employed by a private person.
-
-[7
 
 ### Objects of Fund and expenditure of moneys of Fund
 
@@ -208,55 +202,51 @@ SKILLS DEVELOPMENT FUND
 
 (b) for the provision of grants or loans to any employer for equipment required for more sophisticated or skilled operations in the conduct of his business;
 
-(c) for defraying or subsidising the costs incurred by the Agency or by any employer or training institution in the training or retraining of persons preparing to join the workforce, persons in the workforce and persons rejoining the workforce to acquire better skills or expertise; and
+(c) for defraying or subsidising the costs incurred by the Agency or by any employer or training institution in the training or retraining of persons preparing to join the workforce, persons in the workforce and persons rejoining the workforce to acquire better skills or expertise;
 
-(d) for such other purposes, not in consistent with the objects of the Fund, as the Minister may approve.
+(d) for such other purposes, not inconsistent with the objects of the Fund, as the Minister may approve.
 
-[8
-
-[19/91; 35/96]
+[19/91; 35/96; 14/2003]
 
 ### Transfer to Agency of moneys in Fund and administration of Fund
 
-8\.—(1) On the date of commencement of the Singapore Workforce Development Agency Act 2003, all moneys in and belonging to the Fund and all assets, interests, rights, privileges, liabilities and obligations relating to the Fund shall be transferred to and shall vest in the Agency without further assurance.
+8\.—(1) On 1st September 20031, all moneys in and belonging to the Fund and all assets, interests, rights, privileges, liabilities and obligations relating to the Fund shall be transferred to and shall vest in the Agency without further assurance.
 
-[14/2003 wef 01/09/2003]
+1Date of commencement of the Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
+
+[14/2003]
 
 (2) The Agency shall administer the Fund in accordance with the provisions of this Act and shall collect the skills development levy and disburse grants and loans from the Fund for the purposes of this Act.
 
-[35/96]
+[35/96; 14/2003]
 
 (3) The Agency shall have power to do all things necessary or convenient to be done for or in connection with the performance of its functions under this Act.
 
-[9
-
-[35/96]
+[35/96; 14/2003]
 
 ### Delegation of functions of Agency and reimbursement
 
 9\.—(1) The Agency may appoint such agents (including the Government) as may be necessary for the purposes of this Act.
 
-[19/91; 35/96]
+[19/91; 35/96; 14/2003]
 
 (2) The Agency may delegate all or any of its powers and functions under this Act to any employee or agent (including the Government) as it may appoint under subsection (1).
 
-[19/91; 35/96]
+[19/91; 35/96; 14/2003]
 
 (3) The Agency may pay to any person appointed under subsection (1) a fee for any services rendered in exercise of any powers and functions delegated to that person under this Act.
 
-[19/91; 35/96]
+[19/91; 35/96; 14/2003]
 
 (4) The Agency may use moneys from the Fund for all expenses incurred by the Agency for the purposes of this Act.
 
-[10
+[14/2003]
 
 ### Investment
 
 10\. The Agency may invest the moneys belonging to the Fund and available for investment in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[11
-
-[35/96]
+[35/96; 14/2003; 45/2004]
 
 ## PART IV
 
@@ -296,21 +286,19 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (5) The institution of proceedings for or the imposition of a penalty, fine or term of imprisonment under this section shall not relieve any employer from liability to pay any levy for which he is or may be liable.
 
-[11A
-
 [19/91]
 
 ### Penalty for obtaining grants or loans by false or misleading statements
 
 12\. Any person who obtains payment of any grant or loan from the Fund by means of any false or misleading statement or any document that is false or misleading in any particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[14/2003]
+
 ### Repayment
 
 13\.—(1) Where a person is convicted of an offence under section 12, the court may, in addition to imposing a penalty under that section, order the person to make repayment of the amount of any money wrongfully obtained.
 
 (2) Where an order has been made under subsection (1), a certified copy of the order may be filed in a court having civil jurisdiction to the extent of the amount ordered to be repaid and the order is thereupon enforceable in all respects as the final judgment of that court.
-
-[13
 
 ### Offences by body corporate, etc.
 
@@ -319,8 +307,6 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 (a) the offence was committed without his consent or connivance; and
 
 (b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
-
-[12A
 
 [35/96]
 
@@ -338,7 +324,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (b) any employer, within the time specified in the notice, to complete and deliver to the Agency or the officer, employee or agent of the Agency, as the case may be, any return specified therein.
 
-[35/96]
+[35/96; 14/2003]
 
 (2) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf shall at all times have full and free access to all lands, buildings, places, books, documents and other papers for any of the purposes of this Act or any regulations made thereunder and may for any such purpose inspect, make copies of or extracts from such books, documents or papers or take possession of any such books, documents or papers if, in its or his opinion —
 
@@ -348,27 +334,21 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (c) the books, documents or papers may be required as evidence in any proceeding instituted or commenced for any of the purposes of, or in connection with, this Act or any regulations made thereunder.
 
-[13A
-
-[35/96]
+[35/96; 14/2003]
 
 ### Penalty for obstructing Agency in carrying out its duties
 
 16\. Any person who at any time hinders or obstructs the Agency or any officer, employee or agent of the Agency acting in the discharge of its or his duties under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[13B
-
-[35/96]
+[35/96; 14/2003]
 
 ### Composition of offences
 
 17\.—(1) The Agency may abate any penalty or compound any offence under this Act or any regulations made thereunder by accepting from the person who is reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
-[19/91; 35/96]
+[19/91; 35/96; 14/2003]
 
 (2) All sums received for the composition of any offence under this section shall be paid into the Fund.
-
-[14
 
 [19/91]
 
@@ -376,53 +356,45 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 18\. No court shall try any offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
 
-[15
-
-[19/91]
-
-[Act 15/2010 wef 02/01/2011]
+[19/91; 15/2010]
 
 ### Directions by Minister
 
 19\. The Minister may give to the Agency such directions, not inconsistent with this Act, as he thinks fit as to the administration of the Fund and the Agency shall give effect to such directions.
 
-[19/91]
+[19/91; 14/2003]
 
 ### Financial provisions
 
 20\. The financial provisions set out in the First Schedule shall apply to the Agency in relation to its administration of the Fund.
 
-[17
-
-[35/96]
+[35/96; 14/2003]
 
 ### Annual report
 
 21\.—(1) The Agency shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister an annual report dealing generally with its administration of the Fund during the preceding financial year and containing such information relating to the proceedings and policy of the Agency in relation to its administration of the Fund as the Minister may, from time to time, direct.
 
-[35/96]
+[35/96; 14/2003]
 
 (2) The annual report for any financial year shall set out any directions given by the Minister under section 19 and shall contain a report of any action taken by the Agency during that financial year consequent on the directions.
 
-[19/91]
+[19/91; 14/2003]
 
 (3) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
 
 [35/96]
 
-(4) Notwithstanding subsection (1), the Minister may at any time requests the Agency to furnish him with any information concerning any matter relating to the administration of the Fund by the Agency, and the Agency shall furnish him with the information required, and afford him or his representative all necessary facilities for the verification of the information required.
+(4) Notwithstanding subsection (1), the Minister may at any time request the Agency to furnish him with any information concerning any matter relating to the administration of the Fund by the Agency, and the Agency shall furnish him with the information required, and afford him or his representative all necessary facilities for the verification of the information required.
 
-[35/96]
+[35/96; 14/2003]
 
 ### Preservation of secrecy
 
 22\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Agency shall disclose to any person any information relating to the affairs of the Agency or of any person which he has acquired in the performance of his duties or the exercise of his functions.
 
-[19/91]
+[19/91; 14/2003]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[20
 
 [19/91]
 
@@ -430,19 +402,15 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 23\. The members, employees and agents of the Agency shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
-[21
-
-[19/91]
+[19/91; 14/2003]
 
 ### Priority in case of bankruptcy or winding up
 
-24\.—(1) There shall be included among the debts which, under section 90 of the Bankruptcy Act (Cap.20), are to be paid in priority to all other debts in the distribution of property of a bankrupt or a person dying insolvent the amount of any levy due from the bankrupt at the date of the bankruptcy order, or from the person so dying at the date of his death, and having become due within 12 months before that date.
+24\.—(1) There shall be included among the debts which, under section 90 of the Bankruptcy Act (Cap. 20), are to be paid in priority to all other debts in the distribution of property of a bankrupt or a person dying insolvent the amount of any levy due from the bankrupt at the date of the bankruptcy order, or from the person so dying at the date of his death, and having become due within 12 months before that date.
 
 [35/96]
 
 (2) There shall be included among the taxes which, under section 328 of the Companies Act (Cap. 50), are to be paid in priority to all other unsecured debts in the winding up of a company the amount of any levy due from the company and having become due within 12 months before the date of commencement of the winding up.
-
-[22
 
 [35/96]
 
@@ -450,15 +418,13 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 25\. The Agency may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the provisions of this Act and, in particular, such regulations may provide for all or any of the matters specified in the Second Schedule.
 
-[23
-
-[35/96]
+[35/96; 14/2003]
 
 FIRST SCHEDULE
 
 Section 20
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
@@ -476,7 +442,7 @@ Appointment of auditor
 
 4.—(1) The accounts relating to the Fund shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 Remuneration of auditor
 
@@ -514,24 +480,24 @@ Presentation of financial statements and auditor’s report to Parliament
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-[35/96]
+[35/96; 14/2003]
 
 SECOND SCHEDULE
 
 Section 25
 
-Matters in Respect of Which Agency
+Matters in respect of which Agency
 
 
 
 
-May Make Regulations
+may make regulations
 
 1\. Requiring employers to give notice of their liability to pay the levy and the manner in which the notice shall be given.
 
 2\. The manner in which the levy is to be paid and collected and the manner in which the levy when paid and collected shall be accounted for.
 
-3\. The manner in which the levy due and unpaid are to be assessed and collected.
+3\. The manner in which the levy due and unpaid is to be assessed and collected.
 
 4\. The keeping by employers liable to pay the levy of payroll records, receipts of contributions and such other documents as may seem necessary, and the preservation of the same.
 
@@ -547,7 +513,7 @@ May Make Regulations
 
 10. The manner of the service of notices for the purposes of this Act.
 
-[35/96]
+[35/96; 14/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -555,7 +521,7 @@ Skills Development Levy Act
 
 (CHAPTER 306)
 
-This Legislative History is provided for the convenience of users of the Skills Development Levy Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Skills Development Levy Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -621,3 +587,5 @@ This Legislative History is provided for the convenience of users of the Skills 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|16.|**2012 Revised Edition—Skills Development Levy Act (Chapter 306)**|
+||Date of operation|31 May 2012|
