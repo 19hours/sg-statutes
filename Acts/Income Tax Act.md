@@ -5594,9 +5594,9 @@ the total amount of medical expenses incurred by the employer for his employees 
 
 the difference between 2% of the total remuneration of his employees in that basis period and C.
 
-[34/2005]
-
 [34/2008, wef Y/A 2008 & Sub Ys/A]
+
+[34/2005]
 
 (6C) For the purpose of subsection (6B), a reference to expenses incurred by an employer in providing qualifying insurance excludes any reimbursement in cash by the employer of the employee for payment by the employee of premiums on such qualifying insurance.
 
@@ -12566,9 +12566,9 @@ then the following provisions shall apply:
 
 (ii) an amount computed in accordance with the following formula shall be recoverable by the Comptroller from the qualifying person as a debt due to the Government:
 
-[22/2011 wef Y/A 2011 & Sub Ys/A]
-
 [29/2010 wef Y/A 2011 & Sub Ys/A]
+
+[22/2011 wef Y/A 2011 & Sub Ys/A]
 
 (12) Where any tax, duty, interest or penalty is due under this Act, the Goods and Services Tax Act (Cap. 117A), the Property Tax Act (Cap. 254) or the Stamp Duties Act (Cap. 312) by the qualifying person to the Comptroller of Income Tax, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, the amount of cash payout made by the Comptroller to the qualifying person shall be reduced by the amount so due.
 
@@ -19057,7 +19057,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009]
+[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009]
 
 Part C
 
@@ -19742,17 +19742,23 @@ for Information under Part Xxa
 
 3\. The identity of the person in relation to whom the information is requested.
 
-4\. A statement of the information requested for including its nature, the relevance of the information to the purpose of the request, and the form in which the competent authority wishes to receive the information from the Comptroller.
+4. A statement of the information requested for including its nature, and the form in which the competent authority wishes to receive the information from the Comptroller.
+
+[S 595/2012 wef 03/12/2012]
 
 5\. The grounds for believing that the information requested for is held by the Comptroller, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax, the Chief Assessor or the Commissioner of Stamp Duties, or is in the possession or control of a person in Singapore.
 
-6\. The name and address of any person believed to have possession or control of the information requested for.
+6. To the extent known, the name and address of any person believed to have possession or control of the information requested for.
+
+[S 595/2012 wef 03/12/2012]
 
 7\. A statement that the request is in conformity with the law and administrative practices of the country of the competent authority, and that the competent authority is authorised to obtain the information under the laws of that country or in the normal course of administrative practice.
 
-8\. A statement that the country has pursued all means available in its own territory to obtain the information including getting the information directly from the person in relation to whom the information is requested.
+8. A statement that the country has pursued all means available in its own territory to obtain the information except those that would give rise to disproportionate difficulties.
 
-9\. The details of the period within which that country wishes the request to be met.
+[S 595/2012 wef 03/12/2012]
+
+9. [Deleted by S 595/2012 wef 03/12/2012 wef 03/12/2012]
 
 10\. Any other information required to be included with the request under the prescribed arrangement.
 
@@ -21050,6 +21056,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 April 2012 (Sections 13, 17, 37(b))|
+|289.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 June 2012 (Sections 11, 51(d))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
