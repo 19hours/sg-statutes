@@ -5710,7 +5710,7 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 [19/2008]
 
-(2) Every foreign lawyer to whom an approval under this section has been granted, and every Singapore law practice in which such a foreign lawyer is registered to practise foreign law under section 130K or is registered to practise Singapore law under section 130I, shall comply with —
+(2) Every foreign lawyer to whom an approval under subsection (1) has been granted, and every Singapore law practice in which such a foreign lawyer is registered to practise foreign law under section 130K or is registered to practise Singapore law under section 130I, shall comply with —
 
 (a) such conditions as may be prescribed; and
 
@@ -5720,11 +5720,15 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 [8/2011 wef 03/05/2011]
 
-(3) For the avoidance of doubt, the approval of the Attorney-General under this section shall lapse if the registration of the foreign lawyer under section 130I or 130K is cancelled, suspended or otherwise lapses.
+[Act 3 of 2012 wef 01/06/2012]
+
+(3) For the avoidance of doubt, the approval of the Attorney-General under subsection (1) shall lapse if the registration of the foreign lawyer under section 130I or 130K is cancelled, suspended or otherwise lapses.
 
 [8/2011 wef 03/05/2011]
 
 [19/2008]
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (4) With effect from the date of commencement of section 27 of the Legal Profession (Amendment) Act 2011 —
 
@@ -5738,13 +5742,35 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 [19/2008]
 
+(6) Subject to the provisions of this Part, nothing in this Act shall prevent a foreign law practice, with the approval of the Attorney-General, from —
+
+(a) being a shareholder in any Singapore law practice which is a law corporation; or
+
+(b) sharing in the profits of any Singapore law practice.
+
+[Act 3 of 2012 wef 01/06/2012]
+
+(7) Every foreign law practice and every Singapore law practice referred to in subsection (6) shall comply with —
+
+(a) such conditions as may be prescribed; and
+
+(b) such conditions as the Attorney-General may think fit to impose in any particular case on the foreign law practice or Singapore law practice, as the case may be.
+
+[Act 3 of 2012 wef 01/06/2012]
+
+(8) For the avoidance of doubt, for the purposes of this section and section 130M, it shall be irrelevant whether a foreign law practice is licensed under section 130B, 130C, 130D, 130E or 130F.
+
+[Act 3 of 2012 wef 01/06/2012]
+
 ### Measures to ensure compliance with section 130L
 
-130M\.—(1) Where a Singapore law practice applies for an approval under section 130L in respect of a foreign lawyer, the Attorney-General may require the Singapore law practice making the application, the foreign lawyer and any partner or director of the Singapore law practice to provide such undertakings as he thinks fit to prevent any direct or indirect circumvention of section 130L or any condition under section 130L(2).
+130M\.—(1) Where a Singapore law practice applies for an approval under section 130L(1) in respect of a foreign lawyer, the Attorney-General may require the Singapore law practice making the application, the foreign lawyer and any partner or director of the Singapore law practice to provide such undertakings as the Attorney-General thinks fit to prevent any direct or indirect circumvention of section 130L or any condition under section 130L(2).
 
 [19/2008]
 
-(2) Where a foreign lawyer, a Singapore law practice or a partner or director of a Singapore law practice has contravened section 130L or any undertaking provided by that person or Singapore law practice, as the case may be, under subsection (1) —
+[Act 3 of 2012 wef 01/06/2012]
+
+(2) Where any foreign lawyer, Singapore law practice or partner or director referred to in subsection (1) has contravened section 130L or any undertaking provided by that person or Singapore law practice, as the case may be, under subsection (1) —
 
 (a) the foreign lawyer, Singapore law practice or partner or director concerned (as the case may be) shall without delay notify the Attorney-General in writing of the contravention;
 
@@ -5758,13 +5784,19 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 [19/2008]
 
-(3) Where a foreign lawyer, Singapore law practice or partner or director of a Singapore law practice has contravened section 130L or any undertaking required under subsection (1), the Attorney-General may —
+[Act 3 of 2012 wef 01/06/2012]
 
-(a) cancel the approval under section 130L in respect of the foreign lawyer concerned; and
+(3) Where any foreign lawyer, Singapore law practice or partner or director referred to in subsection (1) has contravened section 130L or any undertaking required under subsection (1), the Attorney-General may —
+
+(a) cancel the approval under section 130L(1) in respect of the foreign lawyer concerned; and
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (b) issue directions to the foreign lawyer, Singapore law practice or partner or director concerned (as the case may be) to ensure compliance with section 130L.
 
 [19/2008]
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (4) Without prejudice to the generality of subsection (3)(b), the Attorney-General may direct —
 
@@ -5775,6 +5807,40 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 (c) the foreign lawyer concerned to cease doing any act in his capacity as a managing partner, a managing director or a manager of the Singapore law practice concerned.
 
 [19/2008]
+
+(4A) Where a Singapore law practice applies for an approval under section 130L(6) in respect of a foreign law practice, the Attorney-General may require the Singapore law practice making the application, the foreign law practice and any partner or director of the Singapore law practice or foreign law practice to provide such undertakings as the Attorney-General thinks fit to prevent any direct or indirect circumvention of section 130L or any condition under section 130L(7).
+
+[Act 3 of 2012 wef 01/06/2012]
+
+(4B) Where any Singapore law practice, foreign law practice or partner or director referred to in subsection (4A) has contravened section 130L or any undertaking provided by the Singapore law practice, foreign law practice or partner or director concerned (as the case may be) under subsection (4A) —
+
+(a) the Singapore law practice, foreign law practice or partner or director concerned (as the case may be) shall without delay notify the Attorney-General in writing of the contravention;
+
+(b) the partner or director concerned shall, if he is a partner or director of the Singapore law practice concerned, immediately cease to exercise his voting rights as a shareholder or partner in the Singapore law practice concerned;
+
+(c) subject to any direction issued by the Attorney-General under subsection (4D)(b), the foreign law practice concerned shall as soon as practicable repay to the Singapore law practice concerned any payment it has received in excess of the amount permitted under any rules made under section 130W;
+
+(d) the Singapore law practice, foreign law practice or partner or director concerned (as the case may be) shall take all reasonable steps to remove the circumstances giving rise to the contravention; and
+
+(e) the Singapore law practice, foreign law practice or partner or director concerned (as the case may be) shall comply with any directions issued by the Attorney-General under subsections (4C) and (4D).
+
+[Act 3 of 2012 wef 01/06/2012]
+
+(4C) Where any Singapore law practice, foreign law practice or partner or director referred to in subsection (4A) has contravened section 130L or any undertaking required under subsection (4A), the Attorney-General may —
+
+(a) cancel the approval under section 130L(6) in respect of the foreign law practice concerned; and
+
+(b) issue directions to the Singapore law practice, foreign law practice or partner or director concerned (as the case may be) to ensure compliance with section 130L.
+
+[Act 3 of 2012 wef 01/06/2012]
+
+(4D) Without prejudice to the generality of subsection (4C)(b), the Attorney-General may direct the foreign law practice concerned —
+
+(a) to divest itself of any shares it may have in the Singapore law practice concerned within such time as the Attorney-General may specify; and
+
+(b) to repay to the Singapore law practice concerned any payment the foreign law practice has received in excess of the amount permitted under any rules made under section 130W within such time as the Attorney-General may specify.
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (5) A direction under this section shall be —
 
@@ -6250,25 +6316,39 @@ then the rights of the solicitor under or arising out of any contract in relatio
 
 (p) to provide for the cancellation, suspension or revocation of any licence, registration or approval under this Part;
 
-(q) to require the submission of information and particulars relating to any Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice, foreign law practice, representative office, foreign lawyer or solicitor licensed or registered under this Part or granted the approval of the Attorney-General under section 130L, or required to be so licensed or registered or to obtain such approval, and any person practising in or employed by any such Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice, foreign law practice or representative office;
+(q) to require the submission of information and particulars relating to any Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice, foreign law practice, representative office, foreign lawyer or solicitor licensed or registered under this Part or granted the approval of the Attorney-General under section 130L(1) or (6), or required to be so licensed or registered or to obtain such approval, and any person practising in or employed by any such Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice, foreign law practice or representative office;
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (r) to provide for the form and manner in which registers of Joint Law Ventures, Formal Law Alliances, Qualifying Foreign Law Practices, foreign law practices, representative offices, foreign lawyers and solicitors licensed or registered under this Part are to be kept;
 
-(s) to provide for the form and manner in which registers of approvals of the Attorney-General under section 130L are to be kept;
+(s) to provide for the form and manner in which registers of approvals of the Attorney-General under section 130L(1) or (6) are to be kept;
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (t) to provide for the issuance and amendment of licences, foreign practitioner certificates, certificates of registration, certificates of approval or certificates of good standing and certified true copies thereof, and for the payment of fees in relation thereto;
 
 [8/2011 wef 03/05/2011]
 
-(u) for regulating the professional conduct, ethics and disciplinary control of Joint Law Ventures, Formal Law Alliances, Qualifying Foreign Law Practices, foreign law practices, foreign lawyers and solicitors licensed or registered under this Part or granted the approval of the Attorney-General under section 130L, including the imposition of compulsory insurance cover and financial controls;
+(u) for regulating the professional conduct, ethics and disciplinary control of Joint Law Ventures, Formal Law Alliances, Qualifying Foreign Law Practices, foreign law practices, foreign lawyers and solicitors licensed or registered under this Part or granted the approval of the Attorney-General under section 130L(1) or (6), including the imposition of compulsory insurance cover and financial controls;
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (v) to provide for any provision of this Act that is applicable to an advocate and solicitor to apply, with such modifications as may be specified, to —
 
 (i) any foreign lawyer or solicitor registered under this Part; or
 
-(ii) any foreign lawyer granted the approval of the Attorney-General under section 130L;
+(ii) any foreign lawyer granted the approval of the Attorney-General under section 130L(1);
 
-(w) to provide for measures to ensure compliance with the requirements of section 130L, including measures requiring any foreign lawyer who is a shareholder or partner in a Singapore law practice to divest himself of his shares or interests in the Singapore law practice;
+[Act 3 of 2012 wef 01/06/2012]
+
+(w) to provide for measures to ensure compliance with the requirements of section 130L, including —
+
+(i) measures requiring any foreign lawyer who is a shareholder or partner in a Singapore law practice to divest himself of his shares or interests in the Singapore law practice; and
+
+(ii) measures requiring any foreign law practice which is a shareholder in a Singapore law practice to divest itself of its shares in the Singapore law practice;
+
+[Act 3 of 2012 wef 01/06/2012]
 
 (x) to provide for sections 72 and 73 and any rules made thereunder to apply, with such modifications as may be specified, to —
 
@@ -7031,6 +7111,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 April 2012 (except sections 10, 11, 12 and 14)|
+|52.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
+||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 June 2012 (sections 10. 11. 12 and 14)|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
