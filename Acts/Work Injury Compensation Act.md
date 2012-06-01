@@ -22,7 +22,7 @@
 
 - [3 Employer’s liability for compensation](#Employer’s-liability-for-compensation)
 
-- [4 Compensation for occupational diseases](#Compensation-for-occupational-diseases)
+- [4 Compensation for diseases](#Compensation-for-diseases)
 
 - [5 Compensation limited to injuries received at work](#Compensation-limited-to-injuries-received-at-work)
 
@@ -87,6 +87,8 @@
 - [25C Failure to appear of one or more parties](#Failure-to-appear-of-one-or-more-parties)
 
 - [25D Power of Commissioner to conduct hearing](#Power-of-Commissioner-to-conduct-hearing)
+
+- [25E No objection on ground of double insurance](#No-objection-on-ground-of-double-insurance)
 
 - [26 Experts to assist Commissioner](#Experts-to-assist-Commissioner)
 
@@ -304,11 +306,23 @@ Entitlement and liability for compensation
 
 (5) An employer shall not be liable to pay compensation in respect of —
 
-(a) any injury to an employee resulting from an accident if it is proved that the injury to the employee is directly attributable to the employee having been at the time thereof under the influence of alcohol or a drug not prescribed by a medical practitioner; or
+(a) any injury to an employee resulting from an accident if it is proved that the injury to the employee is directly attributable to the employee having been at the time thereof under the influence of alcohol or a drug not prescribed by a medical practitioner;
 
-(b) any incapacity or death resulting from a deliberate self-injury or the deliberate aggravation of an accidental injury.
+[Act 21 of 2011 wef 01/06/2012]
+
+(b) any incapacity or death resulting from a deliberate self-injury or the deliberate aggravation of an accidental injury; or
 
 [5/2008]
+
+[Act 21 of 2011 wef 01/06/2012]
+
+(c) any injury to an employee suffered in a fight or an attempted assault on one or more persons unless —
+
+(i) the employee did not assault or attempt to assault any other person in the fight or attempted assault, or did assault any such person in the exercise of the right of private defence in accordance with sections 97 to 106 of the Penal Code (Cap. 224); or
+
+(ii) the employee was, at the time when the injury was received, breaking up or preventing the fight or assault, or in the course of safeguarding life or any property of any person or maintaining law and order, under any instruction or with the consent (whether express or implied) of his employer or a principal referred to in section 17.
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (5A) In this section, “drug” means —
 
@@ -322,45 +336,73 @@ Entitlement and liability for compensation
 
 [5/2008]
 
-### Compensation for occupational diseases
+### Compensation for diseases
 
 4\.—(1) If —
 
 (a) an employee who is employed in any occupation specified in the second column of the Second Schedule contracts an occupational disease specified in the first column of that Schedule opposite that occupation; or
 
-(b) an employee who has been employed in that occupation contracts that disease within the period specified in the third column of that Schedule opposite that occupation after ceasing to be so employed,
+(b) an employee who has been employed in that occupation contracts that disease within the period specified in the third column of that Schedule opposite that occupation (referred to in this section as the limitation period for that occupational disease) after ceasing to be so employed,
+
+[Act 21 of 2011 wef 01/06/2012]
 
 and the incapacity or death of the employee results from that disease, compensation shall be payable as if the disease were a personal injury by accident arising out of and in the course of that employment, and all the other provisions of this Act shall apply accordingly, subject to this section.
 
 [5/2008]
 
+(1A) If an employee contracts, on or after the date of commencement of the Work Injury Compensation (Amendment) Act 2011 (referred to in this section as the appointed day), a disease which is not specified in the first column of the Second Schedule but which is directly attributable to an exposure, arising out of and in the course of his employment, to a chemical or biological agent and the incapacity or death of the employee results from that disease, compensation shall be payable as if the disease were a personal injury by accident arising out of and in the course of that employment and all the other provisions of this Act shall apply accordingly, subject to this section.
+
+[Act 21 of 2011 wef 01/06/2012]
+
+(1B) Subsection (1A) shall apply only if the exposure to a chemical or biological agent commences on or after the appointed day, or commences before and continues on or after the appointed day.
+
+[Act 21 of 2011 wef 01/06/2012]
+
 (2) When an employee enters into a contract of service or apprenticeship with any employer to work in any occupation specified in the Second Schedule or is, with his consent, transferred by his employer to such an occupation, the employee shall, if requested to do so by the employer, submit himself for examination by a medical practitioner, the fee for which shall be paid by the employer; but he shall not be required to submit himself for such examination otherwise than in accordance with regulations made under this Act.
 
 [5/2008]
 
-(3) No compensation shall be payable by an employer under this section in respect of the incapacity or death of an employee resulting from the employee contracting an occupational disease if the employee’s incapacity commences or his death happens more than the period specified in the third column of the Second Schedule opposite the disease after the employee ceases to be in his employment.
+(3) No compensation shall be payable by an employer under this section in respect of the incapacity or death of an employee resulting from an occupational disease specified in the first column of the Second Schedule or other disease referred to in subsection (1A) if —
 
-[5/2008]
+(a) in the case of an occupational disease —
+
+(i) the employee is, on or after the appointed day, employed by the employer in the occupation specified opposite the occupational disease;
+
+(ii) the occupational disease is contracted on or after the appointed day; and
+
+(iii) the employee’s incapacity commences or his death happens after ceasing to be so employed and after the lapse of the limitation period for that occupational disease; or
+
+(b) in the case of other disease referred to in subsection (1A), the employee’s incapacity commences or his death happens more than one year after the employee ceases to be exposed to the chemical or biological agent referred to in that subsection.
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (3A) Subsection (3) shall not apply to the death of an employee where his death has been preceded, whether immediately or not, by any period of incapacity in respect of which compensation is payable under this section.
 
 [5/2008]
 
-(4) For the purposes of calculating the monthly earnings of the employee in a claim for compensation under this section, the date of commencement of the incapacity of the employee or the date of his death, if there has been no previous period of incapacity, shall be treated as the date of the happening of the accident, if he is then employed by the employer from whom compensation is claimed in any employment to the nature of which the occupational disease is due, and if he is not then so employed, the last day on which he was so employed shall for this purpose be deemed to be the date of the happening of the accident.
+(4) For the purposes of calculating the monthly earnings of the employee in a claim for compensation under this section, the date of commencement of the incapacity of the employee or the date of his death, if there has been no previous period of incapacity, shall be treated as the date of the happening of the accident, if he is then employed by the employer from whom compensation is claimed in any employment to the nature of which the occupational disease referred to in subsection (1) or other disease referred to in subsection (1A) is due, and if he is not then so employed, the last day on which he was so employed shall for this purpose be deemed to be the date of the happening of the accident.
 
 [5/2008]
 
-(5) For all other purposes of this Act, in a claim for compensation under this section, the date of commencement of the incapacity of the employee, or the date on which a medical practitioner certifies that in his opinion the employee is suffering from such occupational disease, whichever date is the earlier, or the date of his death if there has been no previous period of incapacity shall be deemed to be the date of the happening of the accident.
+[Act 21 of 2011 wef 01/06/2012]
+
+(5) For all other purposes of this Act, in a claim for compensation under this section, the date of commencement of the incapacity of the employee, or the date on which a medical practitioner certifies that in his opinion the employee is suffering from such occupational disease referred to in subsection (1) or other disease referred to in subsection (1A), whichever date is the earlier, or the date of his death if there has been no previous period of incapacity shall be deemed to be the date of the happening of the accident.
 
 [5/2008]
 
-(6) If the occupational disease has been contracted by a gradual process, so that 2 or more employers are severally liable to pay compensation in respect thereof under this section, the aggregate amount of such compensation shall not exceed the amount that would have been payable if those employers had been a single employer, and in such case each of those employers shall, in default of agreement, be liable for such proportion of the compensation payable as the Commissioner thinks just.
+[Act 21 of 2011 wef 01/06/2012]
+
+(6) If the occupational disease referred to in subsection (1) or other disease referred to in subsection (1A) has been contracted by a gradual process, so that 2 or more employers are severally liable to pay compensation in respect thereof under this section, the aggregate amount of such compensation shall not exceed the amount that would have been payable if those employers had been a single employer, and in such case each of those employers shall, in default of agreement, be liable for such proportion of the compensation payable as the Commissioner thinks just.
 
 [5/2008]
 
-(7) The Minister may appoint such medical practitioners to be medical referees for the purpose of determining whether the disease in respect of which compensation is claimed is in fact an occupational disease specified in the Second Schedule and any other matter which is material for the determination of any claim for compensation under this Act.
+[Act 21 of 2011 wef 01/06/2012]
+
+(7) The Minister may appoint such medical practitioners to be medical referees for the purpose of determining whether the disease in respect of which compensation is claimed is in fact an occupational disease referred to in subsection (1) or other disease referred to in subsection (1A), and any other matter which is material for the determination of any claim for compensation under this Act.
 
 [5/2008]
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (8) The report of a medical referee appointed under subsection (7) may be acted upon by the Commissioner as if it were conclusive evidence of the facts certified in such report.
 
@@ -496,7 +538,21 @@ Making claims
 
 (b) it is found in the proceedings for settling the claim that the employer is not, or would not be, if a notice or an amended notice were then given and the hearing postponed, prejudiced in his defence by the want, defect or inaccuracy, or that such want, defect or inaccuracy was occasioned by mistake, absence from Singapore or other reasonable cause.
 
-(4) The failure to make a claim within the period specified in subsection (1) shall not be a bar to the maintenance of proceedings if it is found that the failure was occasioned by mistake, absence from Singapore or other reasonable cause.
+(4) Subject to subsection (4A), the making of a claim after the lapse of the period specified in subsection (1) shall not be a bar to the maintenance of proceedings if it is found that the delay was occasioned by mistake, absence from Singapore or other reasonable cause.
+
+[Act 21 of 2011 wef 01/06/2012]
+
+(4A) The making of a claim after the lapse of the period specified in subsection (1) shall be a bar to the maintenance of proceedings in respect of an accident if it is found that the delay was occasioned by the claimant having instituted an action for damages in any court for compensation with respect to that accident if —
+
+(a) the accident occurs on or after the date of commencement of the Work Injury Compensation (Amendment) Act 2011 (referred to in this subsection as the appointed day); or
+
+(b) the accident occurred before the appointed day, and the claim is made after the expiry of the period of 12 months beginning on the appointed day.
+
+[Act 21 of 2011 wef 01/06/2012]
+
+(4B) For the purposes of subsections (4) and (4A), it is immaterial whether there were any previous claims made in respect of that accident.
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (5) Notice to the employer (or, if there is more than one employer, to one of such employers) in respect of an injury may be given either in writing or orally or to the foreman or other person under whose supervision the employee was employed, or to any person designated for the purpose by the employer, and shall state in ordinary language the cause of the injury and the date on which and the place at which the accident happened.
 
@@ -806,13 +862,17 @@ Insurance and other general provisions
 
 [5/2008]
 
-(4) In this section, “approved policy” means a policy of insurance not subject to any conditions or exceptions prohibited by regulations made under this Act.
+(4) In this section, “approved policy” means a policy of insurance not subject to any conditions, exclusions or exceptions prohibited by regulations made under this Act.
 
 [5/2008]
 
-(5) Any conditions or exceptions imposed in a policy of insurance by any insurer which are prohibited by regulations made under this Act shall not absolve the insurer’s liability under the policy.
+[Act 21 of 2011 wef 01/06/2012]
+
+(5) Any conditions, exclusions or exceptions imposed in a policy of insurance by any insurer which are prohibited by regulations made under this Act shall not absolve the insurer from any liability under the policy which the insurer may incur under the provisions of this Act.
 
 [5/2008]
+
+[Act 21 of 2011 wef 01/06/2012]
 
 ## PART III
 
@@ -938,6 +998,14 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 [5/2008]
 
+### No objection on ground of double insurance
+
+25E\.—(1) In any proceedings under section 24, 25, 25A, 25B, 25C or 25D, an employer’s insurer shall not be entitled to raise any objection or defence on the ground that there is in force a policy of insurance issued by another party covering the same liability to pay compensation or interest under this Act in respect of any accident as the policy of insurance issued by the employer’s insurer.
+
+(2) Nothing in subsection (1) shall be taken to affect any written or other law on double insurance and contribution or to prohibit an insurer from disproving liability in respect of any accident wholly or in part.
+
+[Act 21 of 2011 wef 01/06/2012]
+
 ### Experts to assist Commissioner
 
 26\.—(1) The Commissioner may, for the purpose of determining any matter under this Act, appoint one or more persons possessing special knowledge of that matter to assist the Commissioner.
@@ -982,9 +1050,11 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 [5/2008]
 
-(1A) Where an order for compensation has been made under section 25B, 25C or 25D, the employer shall, within a period of 21 days after the order is made, pay the Commissioner or such other person as the Commissioner may direct, the amount of compensation so ordered.
+(1A) Where an order for compensation has been made under section 25A, 25B, 25C or 25D, the employer shall, within a period of 21 days after the order is made, pay the Commissioner or such other person as the Commissioner may direct, the amount of compensation so ordered.
 
 [5/2008]
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (2) No sale of immovable property shall for the purposes of such enforcement be ordered except by the High Court.
 
@@ -1026,9 +1096,11 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (2A) No appeal shall lie against any order unless a substantial question of law is involved in the appeal and the amount in dispute is not less than $1,000.
 
-(3) Notwithstanding any appeal under this section, the employer shall deposit with the Commissioner the amount of compensation ordered by the Commissioner under section 25B, 25C or 25D within 21 days from the date of the Commissioner’s decision, and the deposit shall be held by the Commissioner pending the outcome of the appeal.
+(3) Notwithstanding any appeal under this section, the employer shall deposit with the Commissioner the amount of compensation ordered by the Commissioner under section 25A, 25B, 25C or 25D within 21 days from the date of the Commissioner’s decision, and the deposit shall be held by the Commissioner pending the outcome of the appeal.
 
 [5/2008]
+
+[Act 21 of 2011 wef 01/06/2012]
 
 ### Powers of Commissioner during hearing
 
@@ -1088,9 +1160,11 @@ POWERS, OFFENCES, PENALTIES AND PROCEEDINGS
 
 ### Proceedings against insurers
 
-32\.—(1) Where an employer has incurred any liability to pay compensation or interest under this Act in respect of any accident occurring while there was in force an approved policy of insurance covering that liability, proceedings to enforce a claim in respect of that liability under sections 24, 25, 28A and 29 may be brought against the insurer as if he were the employer.
+32\.—(1) Where an employer has incurred any liability to pay compensation or interest under this Act in respect of any accident occurring while there was in force an approved policy of insurance covering that liability, proceedings to enforce a claim in respect of that liability under sections 24, 28, 28A and 29 may be brought against the insurer as if he were the employer.
 
 [5/2008]
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (2) In any proceedings brought against an insurer by virtue of subsection (1), the employer shall render all reasonable assistance to the insurer to enable the insurer to conduct any such proceedings and to defend any claim which the insurer decides to defend; and if the employer fails to do so he shall be liable to pay to the insurer any amount which has been paid or may become payable by the insurer as a result of those proceedings.
 
@@ -1396,7 +1470,9 @@ GENERAL
 
 (j) provide for the establishment of medical boards and panels to determine matters relating to medical evidence;
 
-(k) provide for the prohibition of conditions and exceptions in policies of insurance issued or renewed, and for certificates of insurance to be issued and displayed, for the purposes of section 23;
+(k) provide for the prohibition of conditions, exclusions and exceptions in policies of insurance issued or renewed, and for certificates of insurance to be issued and displayed, for the purposes of section 23;
+
+[Act 21 of 2011 wef 01/06/2012]
 
 (l) provide for any matter relating to the calculation of earnings for the purposes of section 8;
 
@@ -1731,9 +1807,10 @@ Second column
 
 Third column
 
-Description of Occupational Disease or Injury
+Description of occupational
+disease or injury
 
-Nature of Occupation
+Nature of occupation
 
 Period
 
@@ -1741,7 +1818,7 @@ Period
 
 Anthrax
 
-Any occupation involving the handling of wool, hair, bristles, hides or skins or other animal products or residues, or contact with animals infected with anthrax.
+Any occupation involving exposure to animals infected with the anthrax spores or bacteria, tissues or products of infected animals, or any material or substance containing the anthrax spores or bacteria.
 
 12 months
 
@@ -1749,7 +1826,7 @@ Any occupation involving the handling of wool, hair, bristles, hides or skins or
 
 Asbestosis
 
-Any occupation involving exposure to asbestos dust.
+Any occupation involving exposure to asbestos fibre.
 
 3 years
 
@@ -1757,7 +1834,7 @@ Any occupation involving exposure to asbestos dust.
 
 Barotrauma
 
-Any occupation involving subjection to compressed air.
+Any occupation involving exposure to compressed air.
 
 12 months
 
@@ -1765,147 +1842,39 @@ Any occupation involving subjection to compressed air.
 
 Byssinosis
 
-Any occupation involving exposure to raw cotton dust.
+Any occupation involving exposure to raw cotton fibre.
 
 12 months
 
 5.
 
-Cataract produced by exposure to the glare of, or rays from, molten glass or molten or red-hot metal
+Cataracts due to infra-red, ultraviolet or X-ray radiation
 
-Any process involving frequent or prolonged exposure to the glare of, or rays from, molten glass or molten or red-hot metal.
+Any occupation involving frequent or prolonged exposure to infra-red, ultraviolet or X-ray radiation.
 
 12 months
 
 6.
 
-Chrome Ulceration
+Compressed Air Illness or its sequelae, including dysbaric osteonecrosis
 
-Any process involving the use or handling of chromic acid, chromates or bichromates or any preparation or solution containing any of these substances.
+Any occupation involving exposure to compressed air.
 
 12 months
 
 7.
 
-Compressed Air Illness or its sequelae
+Diseases caused by ionizing radiation
 
-Any occupation involving subjection to compressed air.
+Any occupation involving exposure to ionizing particles from radioisotopes or irradiation apparatus.
 
 12 months
 
-8(a)
+8.
 
-Epitheliomatous cancer or ulceration of the skin
+Diseases caused by excessive heat
 
-(b) Localised new growth of the skin, papillomatous or keratotic
-
-(c) Ulceration of the corneal surface of the eye
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
+Any occupation involving exposure to excessive heat.
 
 12 months
 
@@ -1913,71 +1882,71 @@ Any occupation involving the use or handling of, or exposure to tar, pitch, bitu
 
 Glanders
 
-Any occupation involving contact with equine animals or their carcasses.
+Any occupation involving exposure to animals infected with theBurkholderia malleibacterium, tissues of infected animals, or any material or substance containing theBurkholderia malleibacterium.
 
 12 months
 
 10.
 
-Industrial Dermatitis
+Leptospirosis or its sequelae
 
-Any occupation or process involving the exposure to or contact with cutaneous irritants or sensitisers such as alkalis and acids, solvents, mineral oils, synthetic and natural resins, certain woods, formaldehyde, nickel salts, chromates and bichromates, mercury compounds, chlorinated naphthalenes, rubber accelerators, fibre-glass and other chemicals.
+Any occupation involving exposure to animals infected or environment contaminated with theLeptospirabacteria, or any material or substance containing theLeptospirabacteria.
 
 12 months
 
 11.
 
-Repetitive strain disorder of the upper limb
+Liver Angiosarcoma
 
-Any process or activity involving frequent or repeated movements of the upper limb.
+Any occupation involving exposure to vinyl chloride monomer or arsenic.
 
 12 months
 
 12.
 
-Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues or of the bones, or leukaemia, or anaemia of the aplastic type
+Mesothelioma
 
-Any process involving exposure to x-rays, ionising particles, radium, or other radio-active substances or other forms of radiant energy.
+Any occupation involving exposure to asbestos fibre.
 
 12 months
 
 13.
 
-Leptospirosis or its sequelae
+Musculoskeletal disorders of the upper limb
 
-Any occupation involving contact with a source or sources of leptospiral infections e.g. abattoir, drainage and sewerage work, refuse collection, road sweeping and work with animals.
+Any occupation involving exposure to occupational risk factors involving repetitive motion, forceful exertion, awkward postures or vibration, affecting the upper limbs.
 
 12 months
 
 14.
 
-Liver Angiosarcoma
+Noise-Induced Deafness
 
-Any occupation involving the use or handling of, or exposure to, vinyl chloride monomer.
+Any occupation involving prolonged exposure to excessive noise.
 
 12 months
 
 15.
 
-Mesothelioma
+Occupational Asthma
 
-Any occupation involving the use or handling of, or exposure to, asbestos.
+Any occupation involving exposure to any chemical or other agent which is known to irritate or sensitise the respiratory system.
 
 12 months
 
 16.
 
-Noise-Induced Deafness
+Occupational skin cancers
 
-Any occupation involving prolonged exposure to a high level of noise.
+Any occupation involving exposure to polycyclic hydrocarbons, tar, pitch, bitumen, mineral oil (including paraffin), soot or arsenicals, or any compound, product, or residue of any of these substances, or to ultraviolet radiation.
 
 12 months
 
 17.
 
-Occupational Asthma
+Occupational skin diseases
 
-Any occupation involving the use or handling of, or exposure to, a chemical or other agent which may irritate or sensitise the respiratory system, e.g. isocyanates, rosin, formaldehyde, proteolytic enzymes.
+Any occupation involving exposure to any skin irritant or sensitizer or any other agent which is known to damage skin.
 
 12 months
 
@@ -1985,143 +1954,141 @@ Any occupation involving the use or handling of, or exposure to, a chemical or o
 
 Poisoning by —
 
-Any occupation or process involving —
-
-12 months
+Any occupation involving exposure to —
 
 (a)
 
 Arsenic
 
-—
+arsenic or any of its compounds, or any mixture or solution containing arsenic or any of its compounds;
 
-the use or handling of, or exposure to the fumes, dust or vapour of, arsenic or a compound of arsenic, or a substance containing arsenic or exposure to any solution containing arsenic or compound of arsenic;
+12 months
 
 (b)
 
-Benzene or a homologue
+Benzene or a homologue of benzene
 
-—
+benzene or any of its homologues, or any mixture or solution containing benzene or any of its homologues;
 
-the use or handling of, or exposure to the fumes of, or vapour containing benzene or any of its homologues;
+12 months
 
 (c)
 
 Cadmium
 
-—
+cadmium or any of its compounds, or any mixture or solution containing cadmium or any of its compounds;
 
-the use or handling of, or exposure to the fumes, or dust of cadmium or its compounds;
+12 months
 
 (d)
 
-Carbamate
+Carbamates
 
-—
+carbamate, or any mixture or solution containing any carbamate;
 
-the production, use or handling of carbamate;
+12 months
 
 (e)
 
 Carbon disulphide
 
-—
+carbon disulphide or any of its compounds, or any mixture or solution containing carbon disulphide or any of its compounds;
 
-the use or handling of, or exposure to the fumes or vapour of, carbon disulphide or a compound of carbon disulphide, or a substance containing carbon disulphide;
+12 months
 
 (f)
 
 Carbon dioxide gas
 
-—
+excessive levels of carbon dioxide;
 
-the exposure to carbon dioxide, e.g. in the manufacture of mineral water, fermentation in breweries or other processes;
+12 months
 
 (g)
 
 Carbon monoxide gas
 
-—
+excessive levels of carbon monoxide;
 
-the exposure to carbon monoxide, e.g. where blast furnaces and internal combustion engines are used;
+12 months
 
 (h)
 
 Cyanide
 
-—
+cyanide, or any mixture or solution containing any cyanide;
 
-the use or handling of, or exposure to the fumes, dust or vapour of, cyanide or compound of cyanide, or a substance containing cyanide;
+12 months
 
 (i)
 
 Halogen derivatives of hydrocarbon compounds
 
-—
+any halogen derivative of hydrocarbon compounds or any mixture or solution containing any halogen derivative of hydrocarbon compounds;
 
-the production, liberation or use of any halogen derivative of hydrocarbon compounds;
+12 months
 
 (j)
 
 Hydrogen sulphide
 
-—
+hydrogen sulphide;
 
-the exposure to hydrogen sulphide, e.g. in oil refining, sewerage work and manholes;
+12 months
 
 (k)
 
 Lead
 
-—
+lead, or any of its compounds, or any mixture or solution containing lead or any of its compounds;
 
-the use or handling of, or exposure to the fumes, dust or vapour of, lead or compound of lead, or a substance containing lead;
+12 months
 
 (l)
 
 Manganese
 
-—
+manganese or any of its compounds, or any mixture or solution containing manganese or any of its compounds;
 
-the use or handling of manganese or substance containing manganese;
+12 months
 
 (m)
 
 Mercury
 
-—
+mercury or any of its compounds, or any mixture or solution containing mercury or any of its compounds;
 
-the use or handling of, or exposure to the fumes, dust or vapour of, mercury or a compound of mercury, or a substance containing mercury;
+12 months
 
 (n)
 
-Nitrous fumes
+Oxides of nitrogen
 
-—
+excessive levels of oxides of nitrogen;
 
-the use or handling of nitric acid or exposure to nitrous fumes;
+12 months
 
 (o)
 
 Organophosphates
 
-—
+organophosphates;
 
-the production, use or handling of organophosphates;
+12 months
 
 (p)
 
 Phosphorus
 
-—
+phosphorus or any of its compounds, or any mixture or solution containing phosphorus.
 
-the use or handling of, or exposure to the fumes, dust or vapour of, phosphorus or a compound of phosphorus, or a substance containing phosphorus.
+12 months
 
 19.
 
 Silicosis
 
-Any occupation involving exposure to silica dust, e.g. in granite quarries, foundries with sand moulds.
+Any occupation involving exposure to silica dust.
 
 3 years
 
@@ -2129,7 +2096,7 @@ Any occupation involving exposure to silica dust, e.g. in granite quarries, foun
 
 Toxic hepatitis
 
-Any process involving the use or handling of, or exposure to, tetrachloroethane, nitro-derivatives or amino-derivatives of benzene, vinyl chloride monomer, or other poisonous substances.
+Any process involving exposure to tetrachloroethane, nitro-derivatives or amino-derivatives of benzene or vinyl chloride monomer.
 
 12 months
 
@@ -2137,65 +2104,29 @@ Any process involving the use or handling of, or exposure to, tetrachloroethane,
 
 Tuberculosis
 
-Any occupation involving close and frequent contact with a source or sources of tuberculosis infection by reason of employment —
-
-12 months
+Any occupation involving —
 
 (a)
 
-in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing;
+close and frequent contact with a source of tuberculosis infection, e.g. in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing; or
+
+12 months
 
 (b)
 
-in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity;
+exposure to any material which is a source of tuberculosis infection, e.g. in a laboratory.
 
-(c)
-
-as a research worker engaged in research in connection with tuberculosis;
-
-(d)
-
-as a laboratory worker, pathologist or post-mortem worker, where the occupation involves working with material which is a source of tuberculosis infection, or in any occupation ancillary to such employment.
+12 months
 
 22.
 
-Severe Acute Respiratory Syndrome (SARS)
+Ulceration of the corneal surface of the eye
 
-Any occupation involving close contact with any source of severe acute respiratory syndrome (SARS) infection by reason of employment —
+Any occupation involving exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
 
 12 months
 
-(a)
-
-in the medical treatment or nursing of any person suffering from severe acute respiratory syndrome (SARS), or in a service ancillary to such treatment or nursing;
-
-(b)
-
-in attendance upon any person suffering from severe acute respiratory syndrome (SARS), where the need for such attendance arises by reason of physical or mental infirmity of the person or when engaged in the identification, detection, tracing, isolation, detention, supervision or surveillance of the person;
-
-(c)
-
-as a worker engaged in research on severe acute respiratory syndrome (SARS) or in a service ancillary to such research; or
-
-(d)
-
-as a laboratory worker or post-mortem worker or funeral services worker, where the occupation involves working with any human body or other material which is a source of severe acute respiratory syndrome (SARS) infection, or in any occupation ancillary to such employment.
-
-23.
-
-Avian Influenza
-
-Any occupation involving —
-
-12 months.
-
-(a)
-
-the handling of, or the exposure to, animals or birds; or
-
-(b)
-
-the exposure to any material or substance with the Avian Influenza virus.
+[S 200/2012 wef 01/06/2012]
 
 [5/2008]
 
@@ -2429,7 +2360,9 @@ Multiplying factor
 
 48.
 
-(2) The compensation payable under this paragraph shall in no case be more than $140,000 or be less than $47,000.
+(2) The compensation payable under this paragraph shall in no case be more than $170,000 or be less than $57,000.
+
+[S 200/2012 wef 01/06/2012]
 
 2.—(1) Where permanent total incapacity results from the injury, the amount of compensation shall be a lump sum which shall be obtained by multiplying the monthly earnings of the employee by the appropriate factor in the second column of the following Table according to the age on the next birthday of the employee at the time of the accident as specified in the first column thereof:
 
@@ -2655,7 +2588,9 @@ Multiplying factor
 
 72.
 
-(2) The compensation payable under this paragraph shall in no case be more than $180,000 or be less than $60,000.
+(2) The compensation payable under this paragraph shall in no case be more than $218,000 or be less than $73,000.
+
+[S 200/2012 wef 01/06/2012]
 
 (3) Notwithstanding sub-paragraph (2), where the injured employee is certified by a medical practitioner to have suffered from permanent total incapacity, additional compensation shall be paid amounting to one quarter of the amount which is otherwise payable under this paragraph.
 
@@ -2679,11 +2614,15 @@ Multiplying factor
 
 (a) the cost of medical treatment received by the employee within a period of one year after the happening of the accident causing the injury; or
 
-(b) $25,000 per accident per employee.
+(b) $30,000 per accident per employee.
 
-(2) For the avoidance of doubt, the cost of medical treatment shall include, but is not limited to, the fees for medical reports as required for the purpose of this Act, the charges for physiotherapy and occupational and speech therapy, and the cost of medicines and artificial limbs and surgical appliances.
+[S 200/2012 wef 01/06/2012]
+
+(2) For the avoidance of doubt, the cost of medical treatment shall include, but is not limited to, the charges in connection with an emergency medical transport for the conveyance of an employee to receive medical treatment, the fees for medical reports as required for the purpose of this Act, the charges for physiotherapy and occupational and speech therapy, and the cost of medicines and artificial limbs and surgical appliances.
 
 [16/90; S 447/95; 5/2008]
+
+[S 200/2012 wef 01/06/2012]
 
 FOURTH SCHEDULE
 
@@ -2756,3 +2695,9 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of First Reading|21 November 2011 (Bill No. 22/2012 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|13.|**Act 21 of 2011—Work Injury Compensation (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011 (Bill No. 18/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|21 November 2011|
+||Date of commencement|1 June 2012|
+|14.|**G.N. No. S 200/2012—Work Injury Compensation Act (Amendment of Second and Third Schedules) Order 2012**|
+||Date of commencement|1 June 2012|
