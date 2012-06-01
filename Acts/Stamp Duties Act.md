@@ -2454,7 +2454,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 20th February 2010 but before 30th August 2010
 
-In addition to duty underparagraph (a), where the property is disposed of in the following period from the date of its acquisition:
+In addition to duty under paragraph (a), where the property is disposed of in the following period from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2482,7 +2482,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 30th August 2010 but before 14th January 2011
 
-In addition to duty underparagraph (a), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2526,7 +2526,7 @@ $1
 
 on sale of residential property, one of which is residential; and which is acquired on or after 14th January 2011
 
-In addition to duty underparagraph (a), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
 
 Within one year
 
@@ -2548,7 +2548,7 @@ Exceeding 3 years but not exceeding 4 years
 
 on sale of residential property, whether or not any other type of property is also conveyed, transferred or assigned under the same instrument —
 
-In addition to duty underparagraphs (a) and either (ba) or (bb) (as applicable)
+In addition to duty under paragraphs (a) and either (ba) or (bb) (as applicable)
 
 (i)
 
@@ -2888,6 +2888,10 @@ Any lease or agreement for a lease referred to in paragraph (a) or (c) executed 
 
 Any lease or agreement for a lease executed on or after 19th February 2011 in pursuance of a duly stamped agreement, or another duly stamped agreement, for the same.
 
+3.
+
+Any lease or agreement for a lease referred to in paragraph (a) executed on or after 1st June 2012 in respect of the direct leasing of a flat from the Housing and Development Board under a scheme known as the “Public Rental Scheme”
+
 9
 
 MORTGAGE, AGREEMENT FOR A MORTGAGE and DEBENTURE of immovable property and stock or shares
@@ -2981,6 +2985,8 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 (b)
 
 [Deleted by Act23/2011 wef 19/02/2011]
+
+[S 253/2012 wef 01/06/2012]
 
 [S 117/2012 wef 08/12/2011]
 
@@ -3560,6 +3566,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|9 January 2012|
 |60.|**G.N. No. S 134/2012—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2012**|
 ||Date of commencement|1 April 2012|
+|61.|**G.N. No. S 253/2012—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2012**|
+||Date of commencement|1 June 2012|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
