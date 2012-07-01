@@ -585,9 +585,21 @@ POWERS OF AUTHORITY
 
 (c) fostering the development and expansion of Singapore as an aviation hub;
 
-(d) enabling persons providing airport services or air navigation services, and persons operating airports or providing airport services and facilities in Singapore, to compete effectively in doing so outside Singapore; and
+(d) enabling persons providing airport services or air navigation services, and persons operating airports or providing airport services and facilities in Singapore, to compete effectively in doing so outside Singapore;
 
-(e) the promotion of measures for the safety and security of life and property in aircraft, airports and other civil aviation facilities.
+[Act 11 of 2012 wef 01/07/2012]
+
+(e) the promotion of measures for the safety and security of life and property in aircraft, airports and other civil aviation facilities;
+
+[Act 11 of 2012 wef 01/07/2012]
+
+(f) the promotion of energy efficiency within the airport services sector; and
+
+[Act 11 of 2012 wef 01/07/2012]
+
+(g) environmental protection and the sustainable development of air transport.
+
+[Act 11 of 2012 wef 01/07/2012]
 
 (3) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions and duties as the Minister may assign to the Authority and in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Authority in respect of such functions and duties.
 
