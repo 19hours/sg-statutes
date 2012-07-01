@@ -521,9 +521,9 @@ USE OF SCHEDULED PREMISES
 
 (c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the written permission has been granted unless approval to do so has been given by the Director-General.
 
-[12/2011 wef 01/09/2011]
-
 [4/2002]
+
+[12/2011 wef 01/09/2011]
 
 (2) An owner or occupier of scheduled premises to whom any written permission is granted shall comply with every condition imposed under subsection (1).
 
@@ -561,9 +561,9 @@ USE OF SCHEDULED PREMISES
 
 [12/2011 wef 01/09/2011]
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
 [4/2002]
+
+(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [12/2011 wef 01/09/2011]
 
@@ -1629,6 +1629,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 46\.—(1) Where the Director-General considers it necessary in the case of an emergency, he may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in his opinion necessary to prevent injury or danger to public health or serious pollution of the environment.
 
+[4/2002]
+
+[12/2011 wef 01/09/2011]
+
 (2) Any expenses reasonably incurred by the Director-General under subsection (1) may be recovered from the person whose act or omission resulted in the emergency or the owner of the premises where the emergency originated, and section 51 and, if that person is the owner of the premises, section 53 shall apply in respect of those expenses.
 
 [4/2002]
@@ -2239,7 +2243,7 @@ Acetic acid
 
 Substances containing not more than 80%, weight in weight, of acetic acid;
 
-Preparations and solutions for photographic use.
+Preparations and solutions for photographic use
 
 Acetic Anhydride
 
@@ -2251,37 +2255,7 @@ Allyl isothiocyanate
 
 Acrolein —Deleted by S 78/2005, wef 16/02/2005.
 
-Alkali metal bifluorides;
-
-
-
-
-Ammonium bifluoride;
-
-
-
-
-Potassium fluoride;
-
-
-
-
-Sodium fluoride;
-
-
-
-
-Potassium silicofluoride;
-
-
-
-
-Sodium silicofluoride;
-
-
-
-
-Silicofluoric acid
+Alkali metal bifluorides; Ammonium bifluoride; Potassium fluoride; Sodium fluoride; Potassium silicofluoride; Sodium silicofluoride; Silicofluoric acid
 
 Preparations containing not more than 0.3%, weight in weight, of potassium fluoride in radiator protectors;
 
@@ -2695,6 +2669,12 @@ Mercury and its compounds in batteries
 
 Batteries other than mercury oxide batteries, zinc carbon batteries containing more than 0.001% by weight of mercury per cell and alkaline batteries, except those in button form, containing more than 0.025% by weight of mercury per cell.
 
+Mercury in fluorescent lamps (primarily for lighting purposes)
+
+Compact fluorescent lamps containing mercury not exceeding 5 mg.
+
+Linear or circular fluorescent lamps containing mercury not exceeding 10 mg;
+
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
 Dye-indicators used in laboratories.
@@ -2763,9 +2743,13 @@ Ozone depleting substances, namely:
 
 Products containing any ozone depleting substance other than the following products:
 
-(a) Chlorofluorocarbons, the following:
+(a)
 
-(a) in the case of chlorofluorocarbons —
+Chlorofluorocarbons, the following:
+
+(a)
+
+in the case of chlorofluorocarbons —
 
 Chloroheptafluoropropane
 
@@ -2797,21 +2781,37 @@ Trichloropentafluoropropane
 
 Trichlorotrifluoroethane
 
-(i) air-conditioners in vehicles registered on or after 1st January 1995 or intended for such vehicles;
+(i)
 
-(ii) equipment for domestic or commercial refrigeration or air-conditioning installed on or after 1st January 1993, or heat pump equipment, which contains any chlorofluorocarbon substance as a refrigerant or in any insulating material of such equipment;
+air-conditioners in vehicles registered on or after 1st January 1995 or intended for such vehicles;
 
-(iii) refrigerators that have a compressor rating which exceeds one horsepower;
+(ii)
 
-(iv) non-pharmaceutical aerosol products;
+equipment for domestic or commercial refrigeration or air-conditioning installed on or after 1st January 1993, or heat pump equipment, which contains any chlorofluorocarbon substance as a refrigerant or in any insulating material of such equipment;
 
-(v) insulation boards, panels or pipe covers;
+(iii)
 
-(vi) polystyrene sheets or finished products;
+refrigerators that have a compressor rating which exceeds one horsepower;
 
-(b) Halons, the following:
+(iv)
 
-(b) in the case of Halons, portable fire extinguishers; and
+non-pharmaceutical aerosol products;
+
+(v)
+
+insulation boards, panels or pipe covers;
+
+(vi)
+
+polystyrene sheets or finished products;
+
+(b)
+
+Halons, the following:
+
+(b)
+
+in the case of Halons, portable fire extinguishers; and
 
 Bromochlorodifluoromethane
 
@@ -2830,9 +2830,13 @@ Bromotrifluoromethane
 
 Dibromotetrafluoroethane
 
-(c) in the case of bromotrifluoromethane, fire protection systems with building plans approved after 17th June 1991 and installed after 31st December 1991.
+(c)
 
-(c) Hydrochlorofluorocarbons, the following:
+in the case of bromotrifluoromethane, fire protection systems with building plans approved after 17th June 1991 and installed after 31st December 1991.
+
+(c)
+
+Hydrochlorofluorocarbons, the following:
 
 1,1-dichloro-1-fluoro-ethane
 
@@ -2910,7 +2914,9 @@ Trichlorotetrafluoropropane
 
 Trichlorotrifluoropropane
 
-(d) Hydrobromofluorocarbons, the following:
+(d)
+
+Hydrobromofluorocarbons, the following:
 
 Bromodifluoroethane
 
@@ -2980,11 +2986,17 @@ Tribromotetrafluoropropane
 
 Tribromotrifluoropropane
 
-(e) Carbon tetrachloride
+(e)
 
-(f) 1,1,1-trichloroethane (methyl chloroform)
+Carbon tetrachloride
 
-(g) Methyl bromide
+(f)
+
+1,1,1-trichloroethane (methyl chloroform)
+
+(g)
+
+Methyl bromide
 
 Paraquat; its salts
 
@@ -3032,18 +3044,9 @@ Substances containing not more than 50%, weight in weight, of phosphoric acid.
 
 Phosphorus compounds used as pesticides (insecticides, acaricides, etc.), which includes but is not limited to:
 
-
-
-
 Chlorpyriphos Methamidophos
 
-
-
-
 Methyl-parathion
-
-
-
 
 Monocrotophos
 
@@ -3051,42 +3054,21 @@ Acephate;
 
 Bromophos;
 
-
-
-
 Iodofenphos;
-
-
-
 
 Malathion;
 
-
-
-
 Pirimiphos-methyl;
-
-
-
 
 Temephos;
 
 Parathion
 
-
-
-
 Phosphamidon
 
 Tetrachlorvinphos;
 
-
-
-
 Trichlorfon;
-
-
-
 
 Preparations containing not more than 0.5%, weight in weight, of chlorpyrifos and not containing any other phosphorus compound;
 
@@ -3236,11 +3218,15 @@ Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
 [S 441/2011 wef 01/09/2011]
 
+[S 373/2011 wef 1 July 2012]
+
 Part II
 
 General Exemptions
 
 Adhesives;
+
+Deleted by S 43/2008, wef 31/01/2008
 
 Anti-fouling compositions other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
@@ -3259,8 +3245,6 @@ Explosives;
 Fillers;
 
 Fireworks;
-
-Fluorescent lamps;
 
 Glazes;
 
@@ -3295,6 +3279,8 @@ Varnishes;
 Vascular plants and their seeds.
 
 [S 43/2008 wef 31/01/2008]
+
+[S 373/2011 wef 01/07/2011]
 
 Part III
 
@@ -3483,12 +3469,12 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 July 2007|
 |11.|**Act 26 of 2007—Environmental Pollution Control (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
-|||(Bill No. 13/2007 published on 22 June 2007)|
+|||(Bill No. 13/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|Date of coming into operation: 1st October 2007 (Section 5)|
 |12.|**Act 26 of 2007—Environmental Pollution Control (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
-|||(Bill No. 13/2007 published on 22 June 2007)|
+|||(Bill No. 13/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|Date of coming into operation: 1st January 2008|
 |13.|**G. N. No. S 43/2008—Environmental Protection And Management Act (Amendment Of Second Schedule) Order 2008**|
@@ -3502,6 +3488,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 September 2011|
 |16.|**G. N. No. S 441/2011—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2011**|
 ||Date of commencement|1 September 2011|
+|17.|**G. N. No. S 373/2011—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2011**|
+||Date of commencement|1 July 2012|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
