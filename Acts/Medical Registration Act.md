@@ -198,7 +198,7 @@
 
 - [64 Medical practitioner to use only qualifications entered in register and approved title, etc.](#Medical-practitioner-to-use-only-qualifications-entered-in-register-and-approved-title-etc)
 
-- [65 False assumption of title of specialist](#False-assumption-of-title-of-specialist)
+- [65 False assumption of title of specialist or family physician](#False-assumption-of-title-of-specialist-or-family-physician)
 
 - [66 Exemption](#Exemption)
 
@@ -262,7 +262,7 @@ PRELIMINARY
 
 “certificate of experience” means a certificate granted under section 25;
 
-“Complaints Committee” means a committee appointed by the chairman of the Complaints Panel under section 40(1);
+“Complaints Committee” means a committee appointed by the chairman of the Complaints Panel under section 40;
 
 [1/2010 wef 01/12/2010]
 
@@ -292,7 +292,7 @@ PRELIMINARY
 
 [1/2010 wef 01/12/2010]
 
-“Medical Council” means the Medical Council of Singapore established under section 3(1) of the repealed Medical Registration Act (Cap.174, 1985 Ed.), and by virtue of section 3 of this Act means the Singapore Medical Council;
+“Medical Council” means the Medical Council of Singapore established under section 3(1) of the repealed Medical Registration Act (Cap. 174, 1985 Ed.), and by virtue of section 3 of this Act means the Singapore Medical Council;
 
 “practising certificate” means a practising certificate granted under section 36;
 
@@ -1390,7 +1390,7 @@ and the registered medical practitioner shall respond within such reasonable tim
 
 (c) does not respond to the notice within the time specified in subsection (3),
 
-the investigator shall make a report to the Complaints Committee under section 48 and the Complaints Committee may proceed with the inquiry and make such order as it deems fit under section 50(1) or (2).
+the investigator shall make a report to the Complaints Committee under section 48 and the Complaints Committee may proceed with the inquiry and make such order as it deems fit under section 49(1) or (2).
 
 (5) Where, in the course of an investigation, an investigator receives any information touching on, or obtains any evidence of, the conduct, physical or mental fitness, or professional performance of a registered medical practitioner other than the registered medical practitioner concerned which may give rise to proceedings under this Part, the investigator shall make a report to the Complaints Committee under section 48.
 
@@ -1546,7 +1546,7 @@ Powers after investigation
 
 (4) Where a Complaints Committee has decided to issue a letter of advice to the registered medical practitioner, the chairman of the Complaints Committee shall issue the letter of advice in such terms as it thinks fit.
 
-(5) Where a Complaints Committee has referred the matter for mediation, section 43 shall apply with the necessary modifications, and references in section 43(4) and (5) to section 42(4)(b)(i) or (c) shall be read as references to section 50(1) or (2), respectively.
+(5) Where a Complaints Committee has referred the matter for mediation, section 43 shall apply with the necessary modifications, and references in section 43(4) and (5) to section 42(4)(b)(i) or (c) shall be read as references to section 49(1) or (2), respectively.
 
 (6) Where a registered medical practitioner in respect of whom an order is made under subsection (1)(c), (d), (e) or (f) is found by a Complaints Committee (whether it is the Complaints Committee that made the order or another Complaints Committee appointed in its place) to have failed to comply with any of the requirements imposed on him, the Complaints Committee may, if it thinks fit, order that a formal inquiry be held by a Disciplinary Tribunal or Health Committee, as the case may be, in respect of the complaint, information or evidence.
 
@@ -1708,7 +1708,7 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (g) by order require the registered medical practitioner to give such undertaking as the Disciplinary Tribunal thinks fit to abstain in future from the conduct complained of; or
 
-(h) make such other order as the Disciplinary Tribunal thinks fit, including any order that a Complaints Committee may make under section 50(1).
+(h) make such other order as the Disciplinary Tribunal thinks fit, including any order that a Complaints Committee may make under section 49(1).
 
 (3) In any proceedings instituted under this Part against a registered medical practitioner consequent upon his conviction for a criminal offence, a Disciplinary Tribunal and the High Court on appeal from any order of the Disciplinary Tribunal shall accept his conviction as final and conclusive.
 
@@ -1974,7 +1974,7 @@ whichever is the earlier.
 
 (2) For the purposes of subsection (1)(b), the relevant proceedings are concluded if —
 
-(a) the Complaints Committee inquiring into the complaint or information has made an order under section 50(1) and —
+(a) the Complaints Committee inquiring into the complaint or information has made an order under section 49(1) and —
 
 (i) no appeal to the Minister under section 49(10) or (11) was made against that decision within the period specified in that section or such an appeal was withdrawn; or
 
@@ -2128,7 +2128,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [54
 
-### False assumption of title of specialist
+### False assumption of title of specialist or family physician
 
 65\.—(1) A registered medical practitioner who is not registered under section 22 as a specialist in a branch of medicine shall not —
 
@@ -2138,7 +2138,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [46/2002]
 
-(2) A registered medical practitioner who contravenes subsection (1) may be subject to disciplinary proceedings under this Act.
+(1A) A registered medical practitioner who is not registered under section 22A as a family physician shall not —
+
+(a) practise under any name, title, addition or description implying that he is registered under that section as a family physician or has any degree, qualification or experience that could make him eligible for such registration; or
+
+(b) advertise or hold himself out as being registered as a family physician.
+
+[1/2010 wef 01/07/2012]
+
+(2) A registered medical practitioner who contravenes subsection (1) or (1A) may be subject to disciplinary proceedings under this Act.
 
 [54A
 
@@ -3127,18 +3135,19 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|30 October 2009|
 |15.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
 ||Date of commencement|1 November 2010|
-|16.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+|16.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
+|17.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
 ||Date of First Reading|19 October 2009|
 |||(Bill No. 22/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|10 August 2010|
 |||1 December 2010|
 |||1 July 2011|
-|17.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
-||Date of First Reading|21 November 2011|
-|||(Bill No. 22/2011 published on 21 November 2011)|
-||Date of Second and Third Readings|18 January 2012|
-||Date of commencement|1 March 2012|
+|||1 July 2012|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
