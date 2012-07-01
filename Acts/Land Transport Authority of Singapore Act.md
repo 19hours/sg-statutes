@@ -1128,7 +1128,9 @@ under the Parking Places Act (Cap. 214).
 
 (d) under the Parking Places Act (Cap. 214).
 
-18\. All fines for offences under this Act and any written law specified in the Fifth Schedule.
+18. All fines for offences under this Act and any written law specified in Part I of the Fifth Schedule.
+
+[Act 11 of 2012 wef 01/07/2012]
 
 19\. All fees for the issue of any notice of demand or warrant of attachment under the Street Works Act.
 
@@ -1366,11 +1368,11 @@ Sections 39 and 40.
 
 Specified Acts
 
+Part I
+
 1\. Section 17 of the Customs Act [Cap. 70].
 
-2. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
-
-[S 590/2004 wef 24/09/2004]
+2\. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
 
 3\. All provisions of the Parking Places Act (Cap. 214) and any subsidiary legislation made thereunder.
 
@@ -1382,8 +1384,6 @@ Specified Acts
 
 (b) section 143(8) of that Act — in relation to a failure to comply with any condition imposed by the Authority on a permit granted under that section.
 
-[S 630/2010 wef 01/11/2010]
-
 5A. The following subsidiary legislation made under the Road Traffic Act:
 
 (a) rules 10, 22, 24A, 24B, 25 and 28 of the Road Traffic Rules (Cap. 276, R 20);
@@ -1394,15 +1394,15 @@ Specified Acts
 
 (d) rule 8 of the Road Traffic (Traffic Signs) Rules (Cap. 276, R 33).
 
-[S 63/2006 wef 01/02/2006]
-
 6\. All provisions of the Street Works Act (Cap. 320A) and any subsidiary legislation made thereunder.
 
-7. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
+7\. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
 
-[S 301/2008 wef 01/07/2008]
+Part II
 
-[S 382/95]
+1. All provisions of the Energy Conservation Act 2012 (Act 11 of 2012) and any subsidiary legislation thereunder carried out or administered by the Authority.
+
+[S 310/2012 wef 01/07/2012]
 
 ## LEGISLATIVE HISTORY
 
@@ -1485,3 +1485,10 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|18.|**Act 11 of 2012—Energy Conservation Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 March 2012 (Bill No. 8/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 July 2012|
+|19.|**G.N. No. S 310/2012—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2012**|
+||Date of commencement|1 July 2012|
