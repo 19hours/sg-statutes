@@ -486,9 +486,21 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (d) the promotion of measures for the safety of life in the port;
 
-(e) the promotion of research and development in the fields of marine and port services and facilities; and
+(e) the promotion of research and development in the fields of marine and port services and facilities;
 
-(f) collaboration with educational institutions for the promotion of technical education in the fields of marine and port services and facilities.
+[Act 11 of 2012 wef 01/07/2012]
+
+(f) collaboration with educational institutions for the promotion of technical education in the fields of marine and port services and facilities;
+
+[Act 11 of 2012 wef 01/07/2012]
+
+(g) the promotion of energy efficiency within the port services and facilities sector; and
+
+[Act 11 of 2012 wef 01/07/2012]
+
+(h) environmental protection and the sustainable development of sea transport.
+
+[Act 11 of 2012 wef 01/07/2012]
 
 (3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
@@ -2004,30 +2016,35 @@ Maritime and Port Authority of Singapore Act
 
 (CHAPTER 170A)
 
-This Legislative History is provided for the convenience of users of the Maritime and Port Authority of Singapore Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Maritime and Port Authority of Singapore Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
-||Date of First Reading|5.12.95|
-|||(Bill No. 46/95 published on 6.12.95)|
-||Date of Second and Third Readings|18.1.96|
-||Date of commencement|2.2.96|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/1995 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
 |2.|**1997 Revised Edition—Maritime and Port Authority of Singapore Act**|
 ||Date of operation|30 May 1997|
 |3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|3 May 2002|
-|||(Bill No. 7/2002 published on 5 July 2002)|
+|||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
-||Dates of commencement|15 July 2002|
+||Date of commencement|15 July 2002 (item (21) of the Schedule)|
 |4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 September 2004|
-|||(Bill No. 43/2004 published on 12 November 2004)|
+|||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |5.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
 ||Date of First Reading|14 September 2009|
-|||(Bill No. 19/2009)|
-||Date of Second Reading|Date not available.|
-||Date of Third Reading|Date not available.|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|6.|**Act 11 of 2012—Energy Conservation Act 2012**|
+||Date of First Reading|8 March 2012 (Bill No. 8/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 July 2012|
