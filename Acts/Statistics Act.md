@@ -32,11 +32,11 @@
 
 - [13 Amendment of Schedules](#Amendment-of-Schedules)
 
-[**FIRST SCHEDULE Subject Matters**](#FIRST-SCHEDULE-Subject-Matters)
+[**FIRST SCHEDULE Subject matters**](#FIRST-SCHEDULE-Subject-matters)
 
-[**SECOND SCHEDULE Research and Statistics Units**](#SECOND-SCHEDULE-Research-and-Statistics-Units)
+[**SECOND SCHEDULE Research and statistics units**](#SECOND-SCHEDULE-Research-and-statistics-units)
 
-[**THIRD SCHEDULE Specified Class**](#THIRD-SCHEDULE-Specified-Class)
+[**THIRD SCHEDULE Specified class**](#THIRD-SCHEDULE-Specified-class)
 
 [**Legislative History**](#Legislative-History)
 
@@ -48,9 +48,9 @@
 
 (Original Enactment: Act 46 of 1973)
 
-REVISED EDITION 1999
+REVISED EDITION 2012
 
-(30th December 1999)
+(31st July 2012)
 
 An Act relating to statistics.
 
@@ -74,9 +74,7 @@ An Act relating to statistics.
 
 “statistical purposes” means the compilation of statistics or the preparation of anonymised microdata relating to any subject matter listed in the First Schedule.
 
-[3/2010 wef 12/02/2010]
-
-[19/86; 9/90]
+[19/86; 9/90; 3/2010]
 
 ### Statistics Department and research and statistics units
 
@@ -90,8 +88,7 @@ An Act relating to statistics.
 
 ### National statistical co-ordinator
 
-4\.—(1) The Chief Statistician shall be the national statistical
-co-ordinator whose duties shall be —
+4\.—(1) The Chief Statistician shall be the national statistical co-ordinator whose duties shall be —
 
 (a) to co-ordinate statistical activities in public agencies, including the allocation of the subject matters in respect of which research and statistics units may exercise their powers under section 5;
 
@@ -101,21 +98,15 @@ co-ordinator whose duties shall be —
 
 (d) to promote the observance of approved national statistical standards by public agencies.
 
-[3/2010 wef 12/02/2010]
-
-[9/90]
+[9/90; 3/2010]
 
 (2) All research and statistics units shall comply with the recommendations of the Chief Statistician on any matter specified in subsection (1)(c) and (d).
 
-[3/2010 wef 12/02/2010]
-
-[9/90]
+[9/90; 3/2010]
 
 (3) If a research and statistics unit refuses to accept a recommendation of the Chief Statistician, the director of the research and statistics unit shall notify the Chief Statistician in writing of such refusal and the reasons therefor.
 
-[3/2010 wef 12/02/2010]
-
-[9/90]
+[9/90; 3/2010]
 
 (4) On receipt of any notice from a research and statistics unit under subsection (3), the Chief Statistician shall —
 
@@ -129,7 +120,7 @@ co-ordinator whose duties shall be —
 
 5\.—(1) It shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person or the occupier of any premises to furnish particulars and supply information to him, for the purpose of obtaining data for statistical purposes, and every such person or occupier is bound to furnish the particulars and supply the information to the best of his knowledge and belief.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 (2) A requisition shall —
 
@@ -137,9 +128,9 @@ co-ordinator whose duties shall be —
 
 (b) be served upon the person to whom it is addressed or the occupier of any premises, as the case may be, in the manner specified in section 11; and
 
-(c) specify the particulars of information required.
+(c) specify the particulars or information required.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 (3) A requisition may —
 
@@ -163,7 +154,7 @@ co-ordinator whose duties shall be —
 
 (ii) the public agency directed to furnish the particulars or information, or the data source, is under any obligation (whether imposed by any written law or otherwise) not to disclose the particulars or information.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010]
 
 (2) Notwithstanding the provisions of this Act or any other written law, the director of any research and statistics unit or the public agency shall furnish the particulars and information as directed under subsection (1) except, in relation to a direction under subsection (1)(b), any particulars or information which have been exempted from being so furnished by —
 
@@ -171,11 +162,11 @@ co-ordinator whose duties shall be —
 
 (b) the Minister responsible for the data source.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010]
 
 (3) All particulars and information required to be furnished under subsection (1) shall be furnished within such time as may be agreed to between the Chief Statistician and the director of a research and statistics unit or the public agency, as the case may be.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010]
 
 (4) Notwithstanding the provisions of this Act or any other written law —
 
@@ -183,15 +174,17 @@ co-ordinator whose duties shall be —
 
 (b) no officer of the Department of Statistics (including the Chief Statistician) shall be guilty of an offence under this Act or that other written law or incur any liability, criminal or civil, by virtue merely of his accessing, or disclosing to another officer of the Department of Statistics, any particulars or information obtained pursuant to any direction under subsection (1), in the performance of his duties or functions as an officer of the Department of Statistics.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010]
 
 (5) Subsection (1) shall not apply to any particulars or information obtained under any written law administered by the Monetary Authority of Singapore.
 
-[9/90]
+[9/90; 16/2004]
 
 ### Disclosure of information
 
 7\.—(1) No person shall disclose any particulars or information obtained under section 5 or 6 in a form that may identify any person without the prior consent in writing of the person that may be identified by such disclosure.
+
+[3/2010]
 
 (2) Notwithstanding subsection (1), the Chief Statistician or the director of a research and statistics unit, as the case may be, may disclose particulars or information obtained under section 5 or 6 —
 
@@ -209,11 +202,15 @@ co-ordinator whose duties shall be —
 
 (e) that are already available in the public domain.
 
+[3/2010]
+
 (3) The Chief Statistician or the director of a research and statistics unit may, in respect of any particulars or information disclosed to any person under subsection (2), impose conditions as to the use of such particulars or information by notice in writing to that person.
+
+[3/2010]
 
 (4) If any person discloses any returns or any particulars or information contrary to this section, or fails to comply with any conditions imposed on him under subsection (3), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 ### Impersonation of statistical officer
 
@@ -235,13 +232,11 @@ co-ordinator whose duties shall be —
 
 (b) wilfully furnishes or causes to be furnished any false particulars or information in respect of any matter specified in the requisition requiring particulars or information to be furnished; or
 
-(c) refuses to answer, or wilfully gives a false answer to, any question necessary for obtaining any information or particulars required by a requisition to be furnished under this Act,
+(c) refuses to answer, or wilfully gives a false answer to, any question necessary for obtaining any particulars or information required by a requisition to be furnished under this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
-[3/2010 wef 12/02/2010]
-
-[9/90]
+[9/90; 3/2010]
 
 (2) A certificate under the hand of the Chief Statistician or the director of a research and statistics unit stating that such returns have not been furnished or are incorrect shall be prima facie evidence of the facts stated in the certificate.
 
@@ -265,7 +260,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) by leaving it with an adult person apparently employed at, or by sending it by pre-paid registered post to, the usual or last known address of the place of business of the individual; or
 
-(iv) by affixing a copy of the requisition in a conspicuous place at the usual or last known address of residence or business of the individual; or
+(iv) by affixing a copy of the requisition in a conspicuous place at the usual or last known address of residence or business of the individual;
 
 (b) in the case of a partnership other than a limited liability partnership —
 
@@ -283,13 +278,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) by sending it by facsimile transmission to the fax transmission number operated at the registered office or principal office of the limited liability partnership or body corporate in Singapore.
 
+[3/2010]
+
 (2) Any requisition to be served on the occupier of any premises may be served by delivering it to an adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the requisition to a conspicuous part of the premises.
+
+[3/2010]
 
 (3) Any requisition to be served on the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the occupier of the premises without further name or description.
 
+[3/2010]
+
 (4) If the person on whom service is to be effected has an agent within Singapore, the requisition may be delivered to the agent.
 
-[3/2010 wef 12/02/2010 wef 12/02/2010]
+[3/2010]
 
 ### Rules
 
@@ -303,173 +304,273 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) generally for carrying out the purposes and provisions of this Act.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 (2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 ### Amendment of Schedules
 
-13\. The Minister may, by order in theGazette, amend the First, Second or Third Schedule.
+13\. The Minister may, by order published in theGazette, amend the First, Second or Third Schedule.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 FIRST SCHEDULE
 
 Sections 2 and 13
 
-Subject Matters
+Subject matters
 
-1\. Accidents
+1. 
 
-2\. Agriculture
+Accidents
 
-3\. Animal husbandry
+2. 
 
-4\. Banking
+Agriculture
 
-5\. Births and deaths
+3. 
 
-6\. Building
+Animal husbandry
 
-7\. Citizenship
+4. 
 
-8\. Commerce
+Banking
 
-9\. Communications
+5. 
 
-10\. Construction
+Births and deaths
 
-11\. Crime
+6. 
 
-12\. Culture
+Building
 
-13\. Education
+7. 
 
-14\. Energy
+Citizenship
 
-14A\. Environment
+8. 
 
-15\. External trade
+Commerce
 
-16\. Family planning
+9. 
 
-17\. Fisheries
+Communications
 
-18\. Forestry
+10. 
 
-19\. Finance
+Construction
 
-20\. Health
+11. 
 
-21\. Housing
+Crime
 
-22\. Immigration and emigration
+12. 
 
-23\. Income and expenditure
+Culture
 
-23A\. Information and communications technology
+13. 
 
-24\. Insurance
+Education
 
-25\. Internal trade
+14. 
 
-26\. Labour
+Energy
 
-27\. Land use
+14A. 
 
-28\. Manpower
+Environment
 
-29\. Manufacturing
+15. 
 
-30\. Marriage and divorce
+External trade
 
-31\. Meteorology
+16. 
 
-32\. Mining
+Family planning
 
-33\. Narcotics
+17. 
 
-34. [Deleted by S 151/2010 wef 12/03/2010 wef 12/03/2010]
+Fisheries
 
-35\. Population
+18. 
 
-36\. Power
+Forestry
 
-37\. Prisons
+19. 
 
-38\. Quarrying
+Finance
 
-39\. Recreation
+20. 
 
-39A. Research and development
+Health
 
-[S 474/2011 wef 19/08/2011]
+21. 
 
-40\. Social security
+Housing
 
-41\. Sports
+22. 
 
-42\. Tourism
+Immigration and emigration
 
-43\. Transport
+23. 
 
-44. Utilities.
+Income and expenditure
 
-[3/2010 wef 12/02/2010]
+23A. 
 
-[S 501/2000; S 151/2010]
+Information and communications technology
+
+24. 
+
+Insurance
+
+25. 
+
+Internal trade
+
+26. 
+
+Labour
+
+27. 
+
+Land use
+
+28. 
+
+Manpower
+
+29. 
+
+Manufacturing
+
+30. 
+
+Marriage and divorce
+
+31. 
+
+Meteorology
+
+32. 
+
+Mining
+
+33. 
+
+Narcotics
+
+34. [Deleted by S 151/2010]
+
+35. 
+
+Population
+
+36. 
+
+Power
+
+37. 
+
+Prisons
+
+38. 
+
+Quarrying
+
+39. 
+
+Recreation
+
+39A. 
+
+Research and development
+
+40. 
+
+Social security
+
+41. 
+
+Sports
+
+42. 
+
+Tourism
+
+43. 
+
+Transport
+
+44. 
+
+Utilities.
+
+[3/2010; S 501/2000; S 151/2010; S 474/2011]
 
 SECOND SCHEDULE
 
 Sections 2 and 13
 
-Research and Statistics Units
+Research and statistics units
 
-1\. Economics Research Department of the Building and Construction Authority.
+1. 
 
-2\. Research and Statistics Unit of the Economic Development Board.
+Economics Research Department of the Building and Construction Authority.
 
-3\. Management Information and Research Branch of the Ministry of Education.
+2. 
 
-4. [Deleted by S 151/2010 wef 12/03/2010 wef 12/03/2010]
+Research and Statistics Unit of the Economic Development Board.
 
-5. Health Information Division of the Ministry of Health.
+3. 
 
-[S 451/2007 wef 28/08/2007]
+Management Information and Research Branch of the Ministry of Education.
 
-[S 151/2010 wef 12/03/2010]
+4. [Deleted by S 151/2010 wef 12/03/2010]
 
-6\. Manpower Research and Statistics Department of the Ministry of Manpower.
+5. 
 
-7\. Financial Studies and Statistics Division of the Monetary Authority of Singapore.
+Health Information Division of the Ministry of Health.
 
-8. Research and Statistics Unit of the Info-communications Development Authority of Singapore.
+6. 
 
-[S 474/2011 wef 19/08/2011]
+Manpower Research and Statistics Department of the Ministry of Manpower.
 
-9\. Research and Statistics Unit of the National Environment Agency.
+7. 
 
-10. Research and Statistics Unit of the Energy Market Authority of Singapore.
+Financial Studies and Statistics Division of the Monetary Authority of Singapore.
 
-[S 151/2010 wef 12/03/2010]
+8. 
 
-[S 536/2002; S 393/2006; S 451/2007]
+Research and Statistics Unit of the Info-communications Development Authority of Singapore.
 
-11. Research and Statistics Unit of the Agency for Science, Technology and Research.
+9. 
 
-[S 474/2011 wef 19/08/2011]
+Research and Statistics Unit of the National Environment Agency.
+
+10. 
+
+Research and Statistics Unit of the Energy Market Authority of Singapore.
+
+11. 
+
+Research and Statistics Unit of the Agency for Science, Technology and Research.
+
+[4/99; 3/2010; S 365/98; S 192/99; S 536/2002; S 393/2006; S 451/2007; S 151/2010; S 40/2011;S 474/2011]
 
 THIRD SCHEDULE
 
 Sections 7(2)(b) and 13
 
-Specified Class
+Specified class
 
-1. Any consultant commissioned by a public agency.
+1. 
 
-[3/2010 wef 12/02/2010]
+Any consultant commissioned by a public agency.
+
+[3/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -477,7 +578,7 @@ Statistics Act
 
 (CHAPTER 317)
 
-This Legislative History is provided for the convenience of users of the Statistics Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Statistics Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -550,13 +651,15 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|3 August 2010|
 |21.|**G.N. No. S 474/2011—Statistics Act (Amendment of First and Second Schedules) Order 2011**|
 ||Date of commencement|19 August 2011|
+|22.|**2012 Revised Edition—Statistics Act (Chapter 317 )**|
+||Date of operation|31 July 2012|
 ## COMPARATIVE TABLE
 
 Statistics Act
 
 (CHAPTER 317)
 
-The following provisions in the 1991 Revised Edition of the Statistics Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1991 Revised Edition of the Statistics Act were renumbered by the Law Revision Commissioners in the 1999 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Statistics Act.
 
