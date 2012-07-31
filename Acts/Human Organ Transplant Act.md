@@ -86,13 +86,15 @@
 
 - [21 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Organs for the Purposes of Act Other Than Parts Iv and Iva**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Organs for the purposes of Act other than Parts IV and IVA**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Specified Organs for the Purposes of Part iva**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Specified Organs for the purposes of Part IVA**](#SECOND-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 [**Comparative Table**](#Comparative-Table)
 
@@ -102,9 +104,9 @@
 
 (Original Enactment: Act 15 of 1987)
 
-REVISED EDITION 2005
+REVISED EDITION 2012
 
-(31st July 2005)
+(31st July 2012)
 
 An Act to make provision for the removal of organs for transplantation, for the prohibition of trading in organs and blood, and for purposes connected therewith.
 
@@ -142,13 +144,11 @@ PRELIMINARY
 
 (b) for the purposes of Parts IV and IVA, any organ of a human body;
 
-“specified organ” means any organ of a human body as specified in the Second Schedule;
+“specified organ” means any organ of a human body specified in the Second Schedule;
 
 “transplant ethics committee”, in relation to a hospital, means a committee of the hospital appointed under section 15B(1).
 
 [1/2004]
-
-When death occurs
 
 3\. [Repealed by Act 22 of 1998]
 
@@ -174,23 +174,17 @@ REMOVAL OF ORGAN AFTER DEATH
 
 (c) who is below 21 years of age unless the parent or guardian has consented to such removal; or
 
-(d) [Deleted by Act 14/2009 wef 01/11/2009]
+(d) [Deleted by Act 14 of 2009]
 
 (e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was mentally disordered, unless the parent or guardian has consented to such removal.
 
-(f) [Deleted by Act 2/2008 wef 01/08/2008]
-
-[1/2004]
-
-[2/2008 wef 01/08/2008]
-
-[14/2009 wef 01/11/2009]
+[1/2004; 2/2008; 21/2008; 14/2009]
 
 (3) In this section, “permanent resident” includes —
 
 (a) a person who holds a Singapore blue identity card; and
 
-(b) a person who holds an Entry Permit or Re-entry Permit issued by the Controller of Immigration,
+(b) a person who holds an Entry Permit or a Re-entry Permit issued by the Controller of Immigration,
 
 and who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133).
 
@@ -204,9 +198,9 @@ and who is not subject to any restriction as to his period of residence in Singa
 
 (3) The consent may be given orally by the Coroner, and if so given shall be confirmed in writing.
 
-(4) In this section, “Coroner” means the State Coroner or a Coroner appointed under the Coroners Act 2010.
+(4) In this section, “Coroner” means the State Coroner or a Coroner appointed under the Coroners Act 2010 (Act 14 of 2010).
 
-[14/2010 wef 02/01/2011]
+[14/2010]
 
 [ACT Transplantation and Anatomy 1977, s. 27]
 
@@ -248,21 +242,17 @@ REGISTRATION OF OBJECTION
 
 [1/2004]
 
-(2) Upon receipt of the withdrawal under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form and shall remove the objection from the register referred to in section 10(1).
+(2) Upon receipt of the withdrawal of a person under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form and shall remove the objection from the register referred to in section 10(1).
 
 ### Proposed recipients of organ
 
-12\.—(1) In the selection of a proposed recipient of any organ removed pursuant to section 5 —
+12\. In the selection of a proposed recipient of any organ removed pursuant to section 5 —
 
 (a) a person who has not registered any objection with the Director under section 9(1) in respect of that organ shall have priority over a person who has registered such objection; and
 
 (b) a person who has registered his objection with the Director under section 9(1) in respect of that organ but who has withdrawn such objection under section 11(1) shall have the same priority as a person who has not registered any such objection, over a person whose objection in respect of that organ is still registered with the Director, at the expiration of 2 years from the date of receipt of the withdrawal by the Director provided he has not registered again any such objection since that date.
 
-[1/2004]
-
-[2/2008 wef 01/08/2008]
-
-(2) [Deleted by Act 2/2008 wef 01/08/2008]
+[1/2004; 2/2008]
 
 ### Appointment of a committee
 
@@ -274,11 +264,11 @@ PROHIBITION OF TRADING IN ORGANS AND BLOOD
 
 ### Buying or selling of organs or blood prohibited and void
 
-14\.—(1) Subject to subsections (3) and (4), a contract or arrangement under which a person agrees, for valuable consideration, whether given or to be given to himself or to another person, to the sale or supply of any organ or blood from his body or from the body of another person, whether before or after his death or the death of the other person, as the case may be, shall be void.
+14\.—(1) Subject to subsections (3) and (4), a contract or an arrangement under which a person agrees, for valuable consideration, whether given or to be given to himself or to another person, to the sale or supply of any organ or blood from his body or from the body of another person, whether before or after his death or the death of the other person, as the case may be, shall be void.
 
-[14/2009 wef 01/11/2009]
+[14/2009]
 
-(2) A person who enters into a contract or arrangement of the kind referred to in subsection (1) and to which that subsection applies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) A person who enters into a contract or an arrangement of the kind referred to in subsection (1) and to which that subsection applies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2A) Any person who —
 
@@ -294,11 +284,11 @@ PROHIBITION OF TRADING IN ORGANS AND BLOOD
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-[14/2009 wef 01/11/2009]
+[14/2009]
 
 (3) Subsections (1) and (2A) shall not apply to or in relation to —
 
-(a) a contract or arrangement providing only for the reimbursement of any expenses necessarily incurred by a person in relation to the removal of blood in accordance with the provisions of any other written law;
+(a) a contract or an arrangement providing only for the reimbursement of any expenses necessarily incurred by a person in relation to the removal of blood in accordance with the provisions of any other written law;
 
 (b) any scheme introduced or approved by the Government granting medical benefits or privileges to any organ or blood donor and any member of the donor’s family or any person nominated by the donor; and
 
@@ -310,19 +300,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) any short-term or long-term medical care or insurance protection of that person which is or may reasonably be necessary as a consequence of his supplying any organ from his body.
 
-[14/2009 wef 01/11/2009]
+[14/2009]
 
 (4) The Minister may, by notification in theGazette, declare that subsection (1) or (2A) shall not apply to the sale or supply of a specified class or classes of product derived from any organ or blood that has been subjected to processing or treatment.
 
-[14/2009 wef 01/11/2009]
+[14/2009]
 
-(5) A person who as vendor or supplier enters into a contract or arrangement for the sale or supply of a product derived from any organ or blood that has been subjected to processing or treatment, other than such a product which is of a class declared under subsection (4), shall be guilty of an offence if the organ or blood from which the product was derived was obtained under a contract or arrangement that is void by reason of subsection (1), and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) A person who as vendor or supplier enters into a contract or an arrangement for the sale or supply of a product derived from any organ or blood that has been subjected to processing or treatment, other than such a product which is of a class declared under subsection (4), shall be guilty of an offence if the organ or blood from which the product was derived was obtained under a contract or an arrangement that is void by reason of subsection (1), and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(6) Nothing in this section shall render inoperative a consent or authority given or purporting to have been given under this Act in relation to any organ or blood from the body of a person or in relation to the body of a person if a person acting in pursuance of the consent or authority did not know and had no reason to know that the organ or blood or the body was the subject-matter of a contract or arrangement referred to in subsection (1) or (2A).
+(6) Nothing in this section shall render inoperative a consent or an authority given or purporting to have been given under this Act in relation to any organ or blood from the body of a person or in relation to the body of a person if a person acting in pursuance of the consent or authority did not know and had no reason to know that the organ or blood or the body was the subject-matter of a contract or an arrangement referred to in subsection (1) or (2A).
 
-[14/2009 wef 01/11/2009]
-
-[ACT Transplantation and Anatomy 1977, s. 40]
+[14/2009]
 
 (7) For the purposes of this section, the donation by a living donor (DonorA) of any organ from his body in consideration of —
 
@@ -332,7 +320,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall not, of itself, constitute valuable consideration if the donors have given their consent and the provisions of Part IVA (as applicable) are complied with.
 
-[14/2009 wef 01/11/2009]
+[14/2009]
+
+[ACT Transplantation and Anatomy 1977, s. 40]
 
 ### Advertisements relating to buying or selling of organs or blood prohibited
 
@@ -362,17 +352,13 @@ LIVING DONOR ORGAN TRANSPLANTS
 
 (b) the person is not mentally disordered and, notwithstanding his age, is able to understand the nature and consequence of the medical procedures he has to undergo as a result of his donation of the specified organ; and
 
-[21/2008 wef 01/03/2010]
-
 (c) the consent referred to in paragraph (a) —
 
 (i) is not given pursuant to any contract or arrangement that is prohibited under section 14; and
 
-[14/2009 wef 01/11/2009]
-
 (ii) is not given or obtained by virtue of any fraud, duress or undue influence.
 
-[1/2004]
+[1/2004; 21/2008; 14/2009]
 
 (3) In determining whether to give any authorisation under subsection (1), the transplant ethics committee shall have regard to such considerations as may be prescribed or as may be directed by the Director.
 
@@ -390,7 +376,7 @@ LIVING DONOR ORGAN TRANSPLANTS
 
 (2) Every transplant ethics committee of a hospital shall consist of not less than 3 persons, of whom —
 
-(a) at least one shall be a medical practitioner not employed or otherwise connected with the hospital; and
+(a) at least one shall be a medical practitioner not employed by or otherwise connected with the hospital; and
 
 (b) at least one shall be a lay person.
 
@@ -460,9 +446,13 @@ ENFORCEMENT
 
 15E\. In this Part, “record” includes the medical record of any person.
 
+[2/2008]
+
 ### Appointment of inspectors
 
 15F\.—(1) The Director may appoint one or more persons as inspectors to investigate the commission of any offence under this Act.
+
+[2/2008]
 
 (2) Every inspector —
 
@@ -470,7 +460,11 @@ ENFORCEMENT
 
 (b) shall, when exercising any powers under this Part, on demand, declare his office and produce such identification card to the person affected by the exercise of those powers.
 
+[2/2008]
+
 (3) Every inspector appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+[2/2008]
 
 ### Power of entry, inspection, search, seizure, etc.
 
@@ -492,7 +486,11 @@ ENFORCEMENT
 
 (h) require any person found on the premises being inspected to render all reasonable and necessary assistance and co-operation to the inspector as are necessary to facilitate the inspector’s exercise of his powers under this section.
 
+[2/2008]
+
 (2) Any person who is required by an inspector under subsection (1)(a) or (b) to furnish any information or produce any document, record or thing shall be deemed to have complied with the requisition if he causes the information to be furnished or causes the document, record or thing to be produced instead of attending personally to furnish or to produce the same.
+
+[2/2008]
 
 (3) If entry to any premises cannot be obtained under subsection (1)(c), an inspector may —
 
@@ -502,7 +500,11 @@ ENFORCEMENT
 
 (c) remove by force any obstruction to such entry.
 
+[2/2008]
+
 (4) No woman or girl may be searched under subsection (1)(f) except by a woman.
+
+[2/2008]
 
 ### Power to examine and secure attendance
 
@@ -512,7 +514,11 @@ ENFORCEMENT
 
 (b) by order in writing require the attendance before him of any person, being within the limits of Singapore, who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning an offence under this Act and the person shall attend as so required.
 
+[2/2008]
+
 (2) The person referred to in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning an offence under this Act, except that he may decline to make with regard to any fact or circumstance, a statement which would have a tendency to expose him to a criminal charge, penalty or forfeiture.
+
+[2/2008]
 
 (3) A statement made by any person under subsection (1)(a) —
 
@@ -520,7 +526,11 @@ ENFORCEMENT
 
 (b) shall, after correction, be signed by him.
 
+[2/2008]
+
 (4) If any person fails to attend as required by an order under subsection (1)(b), the inspector may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+
+[2/2008]
 
 ### Powers of arrest
 
@@ -530,17 +540,31 @@ ENFORCEMENT
 
 (b) search the person arrested and seize anything which the inspector reasonably believes may be required as evidence for the purposes of proceedings in respect of an offence under this Act.
 
+[2/2008]
+
 (2) Where the inspector makes an arrest under subsection (1)(a), he shall, without unnecessary delay, produce the person before a Magistrate.
+
+[2/2008]
 
 (3) The inspector shall not detain in custody a person arrested under subsection (1)(a) for a longer period than is reasonable under the circumstances of the case.
 
+[2/2008]
+
 (4) The period that a person arrested under subsection (1)(a) may be detained in custody shall not exceed 48 hours, excluding the time for any necessary journey to the Magistrate’s Court.
+
+[2/2008]
 
 (5) No woman or girl may be searched under subsection (1)(b) except by a woman.
 
+[2/2008]
+
 (6) When a person is arrested under subsection (1)(a) or appears or is brought before a court and is prepared at any time while in the custody of the inspector or at any stage of the proceedings before the court to give bail, that person shall be released on bail by any inspector in such cases as are specified in orders issued by the Director or by that court.
 
+[2/2008]
+
 (7) The inspector or the court, if he or it thinks fit, may, instead of taking bail from that person under subsection (6), discharge him on his executing a bond without sureties as may be sufficient to secure his appearance.
+
+[2/2008]
 
 ### Protection of informers
 
@@ -554,7 +578,11 @@ ENFORCEMENT
 
 (ii) to answer any question if the answer thereto would lead, or would tend to lead, to the discovery of the name or address of the informer.
 
+[2/2008]
+
 (2) If any document, record or thing which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+
+[2/2008]
 
 (3) If —
 
@@ -563,6 +591,8 @@ ENFORCEMENT
 (b) in any other proceedings, the court is of the opinion that justice cannot be fully done between the parties thereto without the disclosure of the name of an informer,
 
 the court may permit inquiry and require full disclosure concerning the informer.
+
+[2/2008]
 
 ### Obstruction of inspectors, etc.
 
@@ -576,15 +606,17 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[2/2008]
+
 ## PART V
 
 MISCELLANEOUS
 
 ### Act does not prevent specified removal of organ, etc.
 
-16\.—(1) Nothing in this Act shall apply to or in relation to —
+16\. Nothing in this Act shall apply to or in relation to —
 
-(a) the removal of any organ from the body of a living person in the course of a procedure or operation carried out, in the interests of the health of the person, by a medical practitioner with the consent, express or implied, given by or on behalf of the person or in circumstances necessary for the preservation of the life of the person;
+(a) the removal of any organ from the body of a living person in the course of a procedure or an operation carried out, in the interests of the health of the person, by a medical practitioner with the consent, express or implied, given by or on behalf of the person or in circumstances necessary for the preservation of the life of the person;
 
 (b) the use of any organ so removed;
 
@@ -604,7 +636,7 @@ MISCELLANEOUS
 
 (a) from whose body any organ has been removed for the purpose of transplantation;
 
-(b) with respect to whom or with respect to whose body a consent or authority has been given under this Act; or
+(b) with respect to whom or with respect to whose body a consent or an authority has been given under this Act; or
 
 (c) into whose body any organ has been, is being, or may be, transplanted,
 
@@ -624,9 +656,9 @@ may become publicly known.
 
 (f) when the circumstances in which the disclosure is made are such that the disclosure is or would be privileged.
 
-[2/2008 wef 01/08/2008]
+[2/2008]
 
-(3) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [ACT Transplantation and Anatomy 1977, s. 47]
 
@@ -640,7 +672,11 @@ may become publicly known.
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
+[2/2008]
+
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[2/2008]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -650,6 +686,8 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
+[2/2008]
+
 (4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
@@ -657,6 +695,8 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 (b) to be attributable to any neglect on the part of such officer or member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[2/2008]
 
 (5) In this section —
 
@@ -666,11 +706,15 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
+[2/2008]
+
 (6) The Minister may, by regulations, provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[2/2008]
 
 ### Composition of offences
 
@@ -704,17 +748,17 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (b) the appointment, functions, responsibilities and procedures of transplant ethics committees, and any other committee for purposes relating to the welfare and protection of organ donors and their families;
 
-(c) the preparation and the submission of such documents as may be prescribed ; and
-
-[1/2004]
+(c) the preparation and the submission of such documents as may be prescribed; and
 
 (d) the regulation of organ transplant arrangements, the regulation or administration of payment of costs, expenses and loss of earnings in relation to the removal of any organ for the purpose of transplantation, and the operation of schemes granting medical benefits or privileges under section 14(3).
+
+[1/2004; 14/2009]
 
 FIRST SCHEDULE
 
 Section 2
 
-Organs for the Purposes of Act Other Than Parts Iv and Iva
+Organs for the purposes of Act other than Parts IV and IVA
 
 (1) The kidney\.
 
@@ -730,7 +774,7 @@ SECOND SCHEDULE
 
 Sections 2 and 20
 
-Specified Organs for the Purposes of Part iva
+Specified Organs for the purposes of Part IVA
 
 (1) The kidney\.
 
@@ -744,7 +788,7 @@ Human Organ Transplant Act
 
 (CHAPTER 131A)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Act and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 ACT Transplantation and Anatomy 1977
 
@@ -758,7 +802,7 @@ Human Organ Transplant Act
 
 (CHAPTER 131A)
 
-This Legislative History is provided for the convenience of users of the Human Organ Transplant Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Human Organ Transplant Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -815,13 +859,65 @@ This Legislative History is provided for the convenience of users of the Human O
 |||(Bill No. 10/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|11.|**2012 Revised Edition—Human Organ Transplant Act (Chapter 131A)**|
+||Date of operation|31 July 2012|
 ## COMPARATIVE TABLE
 
 Human Organ Transplant Act
 
 (CHAPTER 131A)
 
-The following provisions in the 1988 Revised Edition of the Human Organ Transplant Act have been renumbered by the Law Revision Commissioners in this 2005 Revised Edition.
+The following provisions in the 2005 Revised Edition of the Human Organ Transplant Act have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Human Organ Transplant Act.
+
+2012 Ed\. 
+
+2005 Ed\. 
+
+5 —(1)
+
+5 —(1)
+
+(2)(a) to (c)
+
+(2)(a) to (c)
+
+(d) [Deleted by Act 14/2009]
+
+(d)
+
+(e)
+
+(e)
+
+omitted
+
+(f)
+
+(3)
+
+(3)
+
+12 
+
+12 —(1)
+
+omitted
+
+(2)
+
+16 
+
+16 —(1)
+
+## COMPARATIVE TABLE
+
+Human Organ Transplant Act
+
+(CHAPTER 131A)
+
+The following provisions in the 1988 Revised Edition of the Human Organ Transplant Act were renumbered by the Law Revision Commissioners in the 2005 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Human Organ Transplant Act.
 
@@ -831,15 +927,15 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 —
 
-3 (Repealed by Act 22/98)
+3 [Repealed by Act 22/98]
 
-5 — (1) and (2)
+5 —(1) and (2)
 
 5 —(1) and (2)
 
 —
 
-(3) (Deleted by Act 22/98)
+(3) [Deleted by Act 22/98]
 
 (3)
 
