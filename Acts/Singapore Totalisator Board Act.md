@@ -80,9 +80,9 @@
 
 (Original Enactment: Act 29 of 1987)
 
-REVISED EDITION 1999
+REVISED EDITION 2012
 
-(30th December 1999)
+(31st July 2012)
 
 An Act to provide for the establishment of the Singapore Totalisator Board and to regulate the conduct of betting by agencies of the Board, and for matters connected therewith.
 
@@ -116,19 +116,13 @@ PRELIMINARY
 
 (v) in any other manner whatsoever;
 
-[12/2008 wef 27/12/2010]
-
 “Board” means the Singapore Totalisator Board established under section 3;
 
 “gaming” means the playing of any game of chance or of mixed chance and skill for money or money’s worth;
 
-[13/2004 wef 01/05/2004]
-
 “horse race” includes a pony race;
 
 “lottery” includes any game, method, device, scheme or competition whereby money or money’s worth is distributed or allotted in any manner depending upon or to be determined by chance or lot;
-
-[13/2004 wef 01/05/2004]
 
 “race course” means any land used for the purpose of a race meeting;
 
@@ -138,17 +132,13 @@ PRELIMINARY
 
 “totalisator agency” means any totalisator agency appointed by the Board, and includes any premises in which totalisator investments may be received;
 
-[12/2008 wef 27/12/2010]
-
 “totalisator investment” means any money, currency note or cheque, or such other form of payment as may be approved by the Minister, received for investment on the totalisator;
-
-[12/2008 wef 27/12/2010]
 
 “turf club” means any club, association or other body of persons (whether incorporated or unincorporated) established for the purpose of promoting, conducting and controlling the sport of horse racing;
 
 “writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
 
-[12/2008 wef 27/12/2010]
+[13/2004; 12/2008]
 
 ## PART II
 
@@ -170,19 +160,13 @@ SINGAPORE TOTALISATOR BOARD
 
 (a) to establish, operate or conduct any totalisator, lottery, betting or gaming activity;
 
-[12/2008 wef 27/12/2010]
-
 (b) to conduct equine research and establish, maintain and improve turf clubs, training centres for apprentices, jockeys, blacksmiths and others employed in connection with racing, and other places used in connection with racing;
 
 (c) to establish or operate any totalisator agency;
 
-[12/2008 wef 27/12/2010]
-
 (d) with the approval of the Minister, to establish and maintain places and facilities for recreation on land owned or held by the Board and to carry out such activities as appear to the Board to be requisite, advantageous or convenient for or in connection with its functions;
 
 (e) to improve racing generally; and
-
-[4/97]
 
 (f) to issue or approve and, from time to time, modify rules in relation to —
 
@@ -190,7 +174,7 @@ SINGAPORE TOTALISATOR BOARD
 
 (ii) the operation of any totalisator agency or any agent appointed by the Board.
 
-[12/2008 wef 27/12/2010]
+[4/97; 13/2004; 12/2008]
 
 (2) The Minister may, after consultation with the Board, give to the Board such general directions, not inconsistent with the provisions of this Act, as to the policy to be followed by the Board in the exercise and performance of its powers and functions under this Act as appear to the Minister to be required in the public interest, and the Board shall as soon as possible give effect to any such directions.
 
@@ -206,19 +190,11 @@ SINGAPORE TOTALISATOR BOARD
 
 (a) to provide assistance and advice relating to racing, betting and gaming in Singapore or elsewhere;
 
-[13/2004 wef 01/05/2004]
-
-[12/2008 wef 27/12/2010]
-
 (b) to subscribe for or acquire any securities, stocks or shares of any company or to form or participate in the formation of any company, partnership or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve; and
-
-[13/2004 wef 01/05/2004]
-
-[12/2008 wef 27/12/2010]
 
 (c) to suspend or revoke any totalisator, lottery, betting or gaming activity established by any totalisator agency or any agent appointed by the Board.
 
-[12/2008 wef 27/12/2010]
+[4/97; 13/2004; 12/2008]
 
 (2) Subject to any regulations made under section 21, the Board may, from time to time, distribute any moneys forming part of the funds of the Board and not required by it in the exercise of its functions under section 4 for all or any of the following purposes:
 
@@ -234,6 +210,8 @@ SINGAPORE TOTALISATOR BOARD
 
 (b) not less than 4 and not more than 11 other members as the Minister may from time to time determine.
 
+[13/2004]
+
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
 ### Appointment of officers, etc.
@@ -246,13 +224,15 @@ SINGAPORE TOTALISATOR BOARD
 
 as may be necessary for the effective performance of its functions.
 
+[12/2008]
+
 (2) The Board shall obtain the approval of the Minister for the appointment of —
 
 (a) any agent to operate or conduct any totalisator, lottery, betting or gaming activity; or
 
 (b) any totalisator agency.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 ### Bank accounts and application of revenue
 
@@ -266,13 +246,13 @@ as may be necessary for the effective performance of its functions.
 
 9\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Issue of shares, etc.
 
 9A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Power to borrow
 
@@ -284,9 +264,11 @@ as may be necessary for the effective performance of its functions.
 
 (c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
+[14/2005]
+
 (2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods or services.
 
-[14/2005 wef 01/04/2005]
+[14/2005]
 
 ### Financial provisions
 
@@ -296,7 +278,7 @@ as may be necessary for the effective performance of its functions.
 
 TOTALISATORS AND TOTALISATOR AGENCIES
 
-11\. [Deleted by Act 12/2008 wef 27/12/2010]
+11\. [Repealed by Act 12 of 2008]
 
 ### Calculation of dividend
 
@@ -306,17 +288,19 @@ TOTALISATORS AND TOTALISATOR AGENCIES
 
 (b) the amount of any commission prescribed, or determined in any manner prescribed, in any regulations made under section 21.
 
-[14/2005 wef 01/04/2005]
+[14/2005; 12/2008]
 
 (2) It shall not be necessary to pay out fractions of a dollar.
 
 (3) Any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules issued, approved or modified under section 4(1)(f) shall be refunded without deduction of such duty and commission mentioned in subsection (1).
 
-[4/97]
+[4/97; 12/2008]
 
 ### Proportion of deduction from investment to belong to Board
 
 13\. The sums deducted by way of commission in accordance with section 12(1)(b), together with any fractional money arising pursuant to the operation of section 12(2), shall be deemed for all purposes to belong to and form part of the general funds of the Board and may be apportioned between the Board and the totalisator agency in such proportion and in such manner as may be approved by the Minister.
+
+[12/2008]
 
 ## PART IV
 
@@ -330,17 +314,19 @@ MISCELLANEOUS
 
 (3) A turf club may, from time to time, make by-laws controlling the admission of persons to any race course or premises used or occupied by such club for race meetings or for the placing of investments on the totalisator.
 
+[12/2008]
+
 (4) Any by-laws made under this section may provide for the exclusion from a race course or such premises of any specified class or description of persons, either absolutely or subject to such conditions as may be prescribed by such by-laws.
 
 (5) This section —
 
-(a) shall be applicable to any race course notwithstanding the fact that it is or forms part of a reserve or other place in respect of which there exists a right of public use or entry;
+(a) shall be applicable to any race course notwithstanding the fact that it is or forms part of a reserve or other place in respect of which there exists a right of public use or entry; and
 
 (b) shall not be deemed to limit the power of any club to exclude or remove any person from any race course occupied by the club and which is free from such right of public use or entry.
 
 (6) An officer of the turf club may remove from the race course or such premises any person who contravenes any by-law made under this section and who fails or refuses to leave the race course or such premises after being requested by such officer to do so.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 (7) Every by-law or amendment of or addition to or revocation of or substitution for any by-law made under this section shall, within 30 days of its coming into operation —
 
@@ -348,11 +334,11 @@ MISCELLANEOUS
 
 (b) be displayed prominently within the premises of the turf club.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 (8) No by-law made under this section shall be inconsistent with any law for the time being in force in Singapore and any such by-law which is so inconsistent shall, to the extent of the inconsistency, be void.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 ### Authority of totalisator operations and investments in accordance with provisions of Act
 
@@ -362,11 +348,11 @@ MISCELLANEOUS
 
 (b) to buy a ticket or chance or take part in any totalisator, lottery, betting or gaming activity operated in accordance with such rules as may be issued, approved or modified under section 4(1)(f).
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
-16\. [Deleted by Act 12/2008 wef 27/12/2010]
+16\. [Repealed by Act 12 of 2008]
 
-17\. [Deleted by Act 12/2008 wef 27/12/2010]
+17\. [Repealed by Act 12 of 2008]
 
 ### Investment on totalisator after time of race prohibited
 
@@ -384,9 +370,13 @@ MISCELLANEOUS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
+[12/2008]
+
 ### Power of arrest
 
-19\. Any police officer may arrest without warrant any person who he has reason to believe has committed an offence under section 18.
+19\. Any police officer may arrest without warrant any person whom he has reason to believe has committed an offence under section 18.
+
+[12/2008]
 
 ### Inspection of totalisators and totalisator agencies
 
@@ -402,23 +392,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 whichever is the lower.
 
+[12/2008]
+
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+[12/2008]
 
 (3) All sums collected under this section shall be paid into the Consolidated Fund.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 ### General exemption
 
 20B\. The Minister may, by order published in theGazetteand subject to such conditions as he may impose, exempt any person or class of persons from all or any of the provisions of this Act.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 ### Power to make regulations
 
 21\.—(1) The Minister may, from time to time, make such regulations as he may consider necessary or expedient to give effect to the provisions of this Act and for the due administration thereof.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 (2) In particular and without prejudice to the generality of the powers conferred by subsection (1), regulations may be made to —
 
@@ -434,13 +428,13 @@ whichever is the lower.
 
 (c) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
-[12/2008 wef 27/12/2010]
+[12/2008]
 
 ### Property of Singapore Turf Club to be held on trust for Board
 
 22\.—(1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act (Cap. 311), shall with effect from 9th November 1987 be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
 
-(a) all immovable property owned by the Club on that date; and
+(a) all immovable property owned by the Club on that date;
 
 (b) all funds and investments belonging to the Club on that date.
 
@@ -538,7 +532,9 @@ Procedure at meetings
 
 Validity of proceedings
 
-16\. The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+16. The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+
+[12/2008]
 
 SECOND SCHEDULE
 
@@ -552,7 +548,7 @@ Financial Provisions
 
 3.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 4\. The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -588,7 +584,7 @@ Financial Provisions
 
 16. The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
 
-[4/91; 4/97]
+[4/91; 4/97; 12/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -647,29 +643,31 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2008 published on 26 May 2008)|
 ||Date of Second and Third Readings|21 July 2008|
 ||Date of commencement|27 December 2010|
+|11.|**2012 Revised Edition—Singapore Totalisator Board Act (Chapter 305A)**|
+||Date of operation|31 July 2012|
 ## COMPARATIVE TABLE
 
 Singapore Totalisator Board Act
 
 (CHAPTER 305A)
 
-The following provisions in the 1988 Revised Edition of the Singapore Totalisator Board Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1988 Revised Edition of the Singapore Totalisator Board Act were renumbered by the Law Revision Commissioners in the 1999 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Singapore Totalisator Board Act.
 
-1999 Ed 
+1999 Ed\. 
 
 1988 Ed\. 
 
-8 — (1) and (2)
+8 —(1) and (2)
 
-8 — (1)
+8 —(1)
 
 (3)
 
 (2)
 
-12 — (1), (2) and (3)
+12 —(1), (2) and (3)
 
 12 
 
