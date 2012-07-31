@@ -74,9 +74,9 @@
 
 - [29 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
+[**FIRST SCHEDULE Constitution and proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Board)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -88,9 +88,9 @@
 
 (Original Enactment: Ordinance 21 of 1961)
 
-REVISED EDITION 2001
+REVISED EDITION 2012
 
-(31st July 2001)
+(31st July 2012)
 
 An Act to establish the Economic Development Board.
 
@@ -108,25 +108,17 @@ An Act to establish the Economic Development Board.
 
 “chief executive officer” means the chief executive officer of the Board and includes any temporary chief executive officer of the Board;
 
-[11/2008 wef 26/05/2008]
-
 “enterprise” means any entity incorporated, formed or established in Singapore or elsewhere, whether or not for profit, and howsoever owned or controlled, and includes —
 
 (a) a corporation, a sole proprietorship, a partnership, a joint venture, a trust and an association; and
 
 (b) a branch of an enterprise;
 
-[11/2008 wef 26/05/2008]
-
 “member” means a member of the Board;
-
-[11/2008 wef 26/05/2008]
 
 “underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of an enterprise with a view to the resale of the whole or part of it.
 
-[11/89; 9/97]
-
-[11/2008 wef 26/05/2008]
+[11/89; 9/97; 11/2008]
 
 ### Establishment of Board
 
@@ -140,11 +132,11 @@ An Act to establish the Economic Development Board.
 
 (c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 (3) The Board may perform any of its functions or carry out any of its duties under the business name of “EDB”, or such other business name as the Minister may, from time to time by notification in theGazette, specify.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Chairman of Board
 
@@ -160,13 +152,11 @@ An Act to establish the Economic Development Board.
 
 (b) not less than 5 and not more than 15 other members who shall be appointed by the Minister.
 
-[17/75; 11/89]
-
-[11/2008 wef 26/05/2008]
+[17/75; 11/89; 11/2008]
 
 (2) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher.
 
-[25/2009 wef 15/01/2010 wef 15/01/2010]
+[25/2009]
 
 (3) The Board shall meet at such times and places as the Board may determine.
 
@@ -174,7 +164,7 @@ An Act to establish the Economic Development Board.
 
 (4) The members of the Board appointed by the Minister under subsection (1)(b) shall hold office for such period and on such terms and conditions as the Minister may determine, and shall be eligible for re-appointment.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 (5) The Minister may appoint not more than 2 members of the Board to be Deputy Chairmen of the Board.
 
@@ -196,7 +186,7 @@ may exercise any of the functions of the Chairman.
 
 (8) The Chairman of the Board or the person lawfully acting as Chairman at any meeting of the Board shall have an original as well as a casting vote.
 
-(9) [Deleted by Act 11/2008 wef 26/05/2008]
+(9) [Deleted by Act 11 of 2008]
 
 (10) The members of the Board shall be paid out of the funds of the Board such salaries, fees or allowances as the Minister may determine.
 
@@ -206,7 +196,7 @@ may exercise any of the functions of the Chairman.
 
 (12) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Functions of Board
 
@@ -228,15 +218,19 @@ may exercise any of the functions of the Chairman.
 
 (h) to exercise or perform any function or duty conferred upon the Board under any other written law.
 
+[11/2008]
+
 (2) In addition to the functions imposed by this section, the Board may undertake such other functions as the Minister may assign to the Board, and in so doing —
 
 (a) the Board shall be deemed to be fulfilling the purposes of this Act; and
 
 (b) the provisions of this Act shall apply to the Board in respect of such functions.
 
+[11/2008]
+
 (3) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Directions by Minister
 
@@ -245,8 +239,6 @@ may exercise any of the functions of the Chairman.
 (2) The Board shall give effect to all such directions.
 
 (3) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
-
-[6
 
 ### Appointment of chief executive officer
 
@@ -258,25 +250,15 @@ may exercise any of the functions of the Chairman.
 
 (a) be known by such designation as the Board may determine;
 
-[11/2008 wef 26/05/2008]
-
 (b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board; and
-
-[11/89]
-
-[11/2008 wef 26/05/2008]
 
 (c) not be removed from office without the consent of the Minister.
 
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (3) The Board may appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
 
-[7
-
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 ### Appointment of officers, employees, etc.
 
@@ -286,9 +268,9 @@ may exercise any of the functions of the Chairman.
 
 (b) engage and remunerate for their services such persons or agents as the Board considers necessary for carrying out its functions and duties.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
-10\. [Deleted by Act 11/2008 wef 26/05/2008]
+10\. [Repealed by Act 11 of 2008]
 
 ### Rules for establishment of pension or provident fund scheme
 
@@ -312,11 +294,11 @@ may exercise any of the functions of the Chairman.
 
 (h) the receipt of a trustee or trustees duly appointed, or in default of any such appointment and of written notice thereof to the Board, the receipt of the legal personal representative of a deceased contributor shall be a discharge to the Board for any moneys payable on his death out of any such scheme.
 
-[10
-
 ### Appointment of committees and delegation of powers
 
 12\.—(1) The Board may, in its discretion, appoint from among its own members or from among other persons such number of committees as it thinks fit for purposes which, in the opinion of the Board, would be more expediently carried out or managed by means of such committees.
+
+[11/2008]
 
 (2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate —
 
@@ -330,41 +312,39 @@ may exercise any of the functions of the Chairman.
 
 any of the functions or powers of the Board under this Act or any other written law, except the power of delegation conferred by this section and the power to make subsidiary legislation under this Act or such other written law.
 
+[11/2008]
+
 (3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Board.
+
+[11/2008]
 
 (4) No delegation under this section shall prevent the exercise or performance of any function or power by the Board.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
-13\. [Deleted by Act 11/2008 wef 26/05/2008]
+13\. [Repealed by Act 11 of 2008]
 
 ### Protection from personal liability
 
 14\.—(1) No matter or thing done and no contract of any kind entered into by the Board and no matter or thing done by any member of the Board or by any officer or employee thereof or any other person acting under the direction of the Board shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act, subject any such member, officer or employee or any person acting under the direction of the Board personally to any action, liability, claim or demand whatsoever in respect thereof.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 (2) Any expense incurred by the Board or any member, officer, employee or other person so acting under the direction of the Board shall be borne by and repaid out of the funds of the Board.
 
-[13
-
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 (3) Where the Board provides a service to the public whereby information is supplied to the public pursuant to any written law, neither the Board nor any of its members, officers or employees involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such member, officer or employee.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Members, officers and employees of Board deemed to be public servants
 
 15\. The members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
-[14
-
 ### Provision of working capital
 
 16\. For the purpose of enabling the Board to carry out its objects and to defray expenditure properly chargeable to capital account, including defraying initial expenses, and for the provision of working capital, the Minister may authorise payment to the Board of such sums as he may determine.
-
-[15
 
 ### Funds and property of Board
 
@@ -382,13 +362,13 @@ any of the functions or powers of the Board under this Act or any other written 
 
 (f) all moneys received by the Board for services rendered by it or by any practice or process developed by it;
 
-(g) all moneys, dividends or income received from any transactions made pursuant to the powers conferred on the Board by this Act;
+(g) all moneys, dividends or income received from any transaction made pursuant to the powers conferred on the Board by this Act;
 
 (h) all other moneys and property lawfully received by the Board for the purposes of the Board; and
 
 (i) all accumulations of income derived from any such property or money.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Borrowing powers
 
@@ -400,19 +380,23 @@ any of the functions or powers of the Board under this Act or any other written 
 
 (c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
+[11/2008]
+
 (2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Issue of shares, etc.
 
 17A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### General powers of Board
 
 18\.—(1) The Board shall have power to do anything for the purpose of discharging its functions under this Act or any other written law, or which is incidental or conducive to the discharge of those functions.
+
+[11/2008]
 
 (2) Without prejudice to the generality of subsection (1) but subject to this Act, the powers of the Board shall include the power —
 
@@ -460,21 +444,25 @@ any of the functions or powers of the Board under this Act or any other written 
 
 (t) to provide training in the fields related to the functions and powers of the Board, and financial assistance for such training in the form of bursaries, scholarships, loans, grants or otherwise.
 
+[11/2008]
+
 (3) The Board may, in addition to the powers vested in it by this section, exercise such other powers as the Minister may authorise the Board in writing to exercise.
+
+[11/2008]
 
 (4) The Board shall, when it is exercising powers authorised by the Minister under subsection (3), be deemed to be exercising powers vested in it by subsection (1).
 
+[11/2008]
+
 (5) This section shall not be construed as limiting any power of the Board conferred by or under any other written law.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Rights of Board in case of default
 
 19\.—(1) Where any enterprise which is under a liability to the Board under an agreement makes any default in repayment or otherwise fails to comply with the terms of its agreement with the Board, the Board shall, without prejudice to any other rights or remedies which it may possess under the law, have the right to take over the management of the enterprise, as well as the right to sell and realise the property pledged, mortgaged, hypothecated or assigned to the Board.
 
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (2) Any transfer of property made by the Board in exercise of its powers of sale and realisation under subsection (1) shall vest in the transferee all rights in or to the property transferred as if the sale had been made by the owner of the property.
 
@@ -482,7 +470,7 @@ any of the functions or powers of the Board under this Act or any other written 
 
 (4) Where the Board takes over the management of an enterprise under subsection (1), it shall be deemed to be the owner of the enterprise for purposes of suits by or against such enterprise and shall sue and be sued in the name of the owner of the enterprise.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Power to call for repayment before agreed period
 
@@ -500,59 +488,41 @@ any of the functions or powers of the Board under this Act or any other written 
 
 (f) if for any reason it is necessary in the opinion of the Board to protect the interests of the Board.
 
-[19
-
-[11/2008 wef 26/05/2008]
-
-[11/89]
+[11/89; 11/2008]
 
 ### Special provisions for enforcement of claims by Board
 
 21\.—(1) Where by reason of the breach of any condition of an agreement between the Board and an enterprise, the Board becomes entitled to call for the immediate payment of any loan, advance or incentive granted by it before the due date or where the due date has expired, and the enterprise fails to repay the loan, advance or incentive, any officer of the Board generally or specially authorised by the Board in that behalf may apply to the High Court for one or more of the following reliefs:
 
-(a) for an order for the sale of the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan, advance or incentive;
+(a) an order for the sale of the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan, advance or incentive;
 
-(b) for transferring the management of the enterprise to the Board; or
+(b) transferring the management of the enterprise to the Board;
 
-(c) for an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the enterprise without the permission of the Board.
+(c) an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the enterprise without the permission of the Board.
 
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (2) An application under subsection (1) shall state the nature and extent of the liability of the enterprise to the Board, the ground on which it is made and such other particulars as may be prescribed.
 
-[11/89]
+[11/89; 11/2008]
 
-[11/2008 wef 26/05/2008]
+(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the Judge shall make an interim order attaching the security or so much of the property of the enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining the enterprise from transferring or removing its machinery or equipment.
 
-(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the Judge shall make an interim order attaching the security or so much of the property of the enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining from transferring or removing its machinery or equipment.
-
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (4) Where the application is for the relief mentioned in subsection (1)(b), the Judge shall grant an interim injunction restraining the enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the enterprise to show cause on a date to be specified in the notice as to why the management of the enterprise should not be transferred to the Board.
 
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (5) Before making any order or injunction under subsection (3) or (4), the Judge may, if he thinks fit, examine the officer making the application.
 
 (6) At the same time as the Judge makes an interim order under subsection (3), the Judge shall issue to the enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
 
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the Judge shall immediately make the interim order final and direct the sale of the attached property or transfer the management of the enterprise to the Board or confirm the injunction.
 
-[11/89]
-
-[42/2005 wef 11/01/2006]
-
-[11/2008 wef 26/05/2008]
+[11/89; 42/2005; 11/2008]
 
 (8) If cause is shown, the Judge shall proceed to investigate the claim of the Board and the provisions of the Rules of Court (Cap. 322, R 5) shall as far as practicable apply to such proceedings.
 
@@ -568,29 +538,21 @@ any of the functions or powers of the Board under this Act or any other written 
 
 (e) transferring the management of the enterprise to the Board or rejecting the claim made in this behalf.
 
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 (10) When making any order under subsection (9)(c), the Judge may make such further orders as he thinks necessary to protect the interests of the Board, and may apportion the costs of the proceedings in such manner as he thinks fit.
 
 (11) Unless the Board intimates to the Judge that it will not appeal against any order releasing any property from attachment, the order shall not be given effect to until the expiry of the period referred to in subsection (13) within which an appeal may be lodged, or if an appeal is lodged, unless the Court of Appeal otherwise directs, until the appeal is disposed of.
 
-(12) An order of attachment or sale of property under this section shall be carried into effect as far as may be practicable in the manner provided in the Rules of Court (Cap. 322, R 5) for the seizure and sale of property in execution of any judgment or order, as if the Board were the judgment creditor.
+(12) An order of attachment or sale of property under this section shall be carried into effect as far as may be practicable in the manner provided in the Rules of Court for the seizure and sale of property in execution of any judgment or order, as if the Board were the judgment creditor.
 
 (13) Any party aggrieved by an order made under subsection (9) or (10) may, within 30 days from the date of the order, appeal to the Court of Appeal, and, upon the appeal, that Court may after hearing the parties make such orders as it thinks proper.
-
-[20
 
 ### Application of sections 19, 20 and 21 to tourist enterprises
 
 22\. Any reference to an enterprise in sections 19, 20 and 21 shall be read as including a reference to a tourist enterprise as defined in the Tourist Promotion Board Act (Cap. 328) in force immediately before 20th November 1997.
 
-[20A
-
-[9/97]
-
-[11/2008 wef 26/05/2008]
+[9/97; 11/2008]
 
 ### Compulsory acquisition of land
 
@@ -599,8 +561,6 @@ any of the functions or powers of the Board under this Act or any other written 
 (2) The property referred to in subsection (1) may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose.
 
 (3) Any declaration required under any such written law that the property is so needed may be made (notwithstanding that compensation is to be paid out of the funds of the Board) and the declaration shall have effect as if it were a declaration that the property is needed for a public purpose made in accordance with that written law.
-
-[21
 
 [7/83]
 
@@ -618,19 +578,21 @@ any of the functions or powers of the Board under this Act or any other written 
 
 24A\.—(1) The Board shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Board for the ensuing financial year.
 
+[11/2008]
+
 (2) Supplementary estimates may be adopted by the Board at any of its meetings.
+
+[11/2008]
 
 (3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Board, be sent immediately to the Minister.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Financial provisions
 
 25\. The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
 
-[11/89]
-
-[11/2008 wef 26/05/2008]
+[11/89; 11/2008]
 
 ### Special provisions as to sale or purchase by Board of land, etc.
 
@@ -644,17 +606,21 @@ any of the functions or powers of the Board under this Act or any other written 
 
 27\.—(1) The Board shall have a common seal and the seal may, from time to time, be broken, altered or made anew as the Board thinks fit.
 
+[11/2008]
+
 (2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Board affixed to any document and shall presume that it was duly affixed.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Name, symbol or representation of Board
 
 27A\.—(1) The Board shall have the exclusive right to the use of such name, symbol or representation as the Board may select or devise and thereafter display or exhibit such name, symbol or representation in connection with its activities or affairs.
 
+[11/2008]
+
 (2) Any person who uses a name, symbol or representation identical with that of the Board, or which so resembles the Board’s name, symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Preservation of secrecy
 
@@ -674,6 +640,8 @@ shall disclose any information relating to the affairs of the Board or of any ot
 
 (iv) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law.
 
+[11/2008]
+
 (2) No person who is or has been —
 
 (a) a member, an officer, an employee or an agent of the Board; or
@@ -682,17 +650,19 @@ shall disclose any information relating to the affairs of the Board or of any ot
 
 shall, for his own personal benefit or for the personal benefit of any other person, make use of any information, whether directly or indirectly, which has been obtained by him in the performance of his duties or the exercise of his functions.
 
+[11/2008]
+
 (3) For the purpose of this section, the reference to a person disclosing or making use of any information includes his permitting any other person to have any access to any record, document or other thing which is in his possession or under his control by virtue of his being or having been a member, an officer, an employee or an agent of the Board or a member of a committee of the Board.
+
+[11/2008]
 
 (4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 ### Winding up of Board
 
 28\. The Board shall not be wound up except under the authority of an Act.
-
-[29
 
 ### Regulations
 
@@ -706,7 +676,7 @@ shall, for his own personal benefit or for the personal benefit of any other per
 
 (d) the manner in which documents, cheques and instruments of any description shall be signed or executed on behalf of the Board;
 
-(e) the manner and terms of issue and redemption of bonds and debentures by the Board; and
+(e) the manner and terms of issue and redemption of bonds and debentures by the Board;
 
 (f) generally for the exercise of the Board’s powers under the provisions of this Act.
 
@@ -714,13 +684,11 @@ shall, for his own personal benefit or for the personal benefit of any other per
 
 (3) If a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the regulations are so presented annulling the regulations or any part thereof as from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new regulations.
 
-[28
-
 FIRST SCHEDULE
 
 Section 5(12)
 
-Constitution and Proceedings of Board
+Constitution and proceedings of Board
 
 Disqualification from membership
 
@@ -796,13 +764,13 @@ Sealing of documents
 
 (4) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under sub-paragraph (1).
 
-[11/2008 wef 26/05/2008]
+[11/2008]
 
 SECOND SCHEDULE
 
 Section 25
 
-Financial Provisions
+Financial provisions
 
 Accounts to be kept
 
@@ -818,9 +786,7 @@ Appointment of auditor
 
 Qualification of auditor
 
-4. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-[11/2008 wef 26/05/2008]
+4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 Remuneration of auditor
 
@@ -854,9 +820,7 @@ Failure to furnish information to auditor
 
 Offence
 
-10. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
-
-[11/2008 wef 26/05/2008]
+10\. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 Financial statements and auditor’s report
 
@@ -870,7 +834,7 @@ Financial statements and auditor’s report to be presented to Parliament
 
 13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-[11/89]
+[11/89; 11/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -878,7 +842,7 @@ Economic Development Board Act
 
 (CHAPTER 85)
 
-This Legislative History is provided for the convenience of users of the Economic Development Board Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Economic Development Board Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -983,13 +947,15 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 19/2009 published on 15 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|23.|**2012 Revised Edition—Economic Development Board Act (Chapter 85)**|
+||Date of operation|31 July 2012|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
 
 (CHAPTER 85)
 
-The following provisions in the 1992 Revised Edition of the Economic Development Board Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+The following provisions in the 1992 Revised Edition of the Economic Development Board Act were renumbered by the Law Revision Commissioners in the 2001 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Economic Development Board Act.
 
@@ -1001,9 +967,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 5A 
 
-7 — (1) and (2)
+7 —(1) and (2)
 
-6 — (1)
+6 —(1)
 
 (3)
 
@@ -1025,9 +991,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 10 
 
-12 — (1)
+12 —(1)
 
-11 — (1)
+11 —(1)
 
 (2) and (3)
 
@@ -1057,9 +1023,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 15 
 
-17 — (1) and (2)
+17 —(1) and (2)
 
-16 — (1) and (2)
+16 —(1) and (2)
 
 (3)
 
@@ -1093,9 +1059,9 @@ Proviso to (2)
 
 19 
 
-21 — (1) to (8)
+21 —(1) to (8)
 
-20 — (1) to (8)
+20 —(1) to (8)
 
 (10)
 
@@ -1117,7 +1083,7 @@ Proviso to (9)
 
 20A 
 
-23 — (1), (2) and (3)
+23 —(1), (2) and (3)
 
 21 
 
@@ -1127,15 +1093,15 @@ Omitted
 
 —
 
-23 (Repealed by Act 11/89)
+23 [Repealed by Act 11/89]
 
 28 
 
 29 
 
-29 — (1)
+29 —(1)
 
-28 — (1)
+28 —(1)
 
 (2) and (3)
 
