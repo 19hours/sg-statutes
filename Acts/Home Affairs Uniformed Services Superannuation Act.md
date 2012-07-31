@@ -72,9 +72,9 @@
 
 (Original Enactment: Act 33 of 2001)
 
-REVISED EDITION 2002
+REVISED EDITION 2012
 
-(31st July 2002)
+(31st July 2012)
 
 An Act to establish a new occupational superannuation scheme known as the INVEST Plan for officers in the uniformed services under the Ministry of Home Affairs and the INVEST Fund for the purpose of that Plan and for matters connected therewith.
 
@@ -126,6 +126,8 @@ PRELIMINARY
 
 “uniformed service officer” means any civil defence officer, intelligence officer, narcotics officer, police officer or prison officer.
 
+[29/2002]
+
 ## PART II
 
 INVEST PLAN
@@ -146,7 +148,7 @@ INVEST PLAN
 
 who will or (as the case may be) continue to be members of the scheme.
 
-[29/2002 wef 30/01/2003]
+[29/2002]
 
 (2) The regulations made under subsection (1) shall provide for the payment of —
 
@@ -174,7 +176,7 @@ an option to join the INVEST Plan as a member thereof and for the terms and cond
 
 (2) Subject to subsection (3), the regulations made under section 3(1) in relation to the officers referred to in subsection (1) shall provide —
 
-(a) in the case of a uniformed service officer referred to in subsection (1)(a), that any such officer who opts to join the INVEST Plan shall cease to be eligible to benefits under the Pensions Act (Cap. 225) but shall remain eligible under the INVEST Plan to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from service, or was injured or died in service, on the date immediately prior to his joining the INVEST Plan; and
+(a) in the case of a uniformed service officer referred to in subsection (1)(a), that any such officer who opts to join the INVEST Plan shall cease to be eligible to benefits under the Pensions Act but shall remain eligible under the INVEST Plan to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from service, or was injured or died in service, on the date immediately prior to his joining the INVEST Plan; and
 
 (b) in the case of an officer referred to in subsection (1)(b), that any such officer who opts to join the INVEST Plan shall remain eligible to benefits not less in value than the amount of any gratuity or other like benefit for which he would have been granted under his contract if he had completed his term of service under the contract on the date immediately prior to his joining the INVEST Plan.
 
@@ -194,11 +196,11 @@ an option to join the INVEST Plan as a member thereof and for the terms and cond
 
 (a) in the case of a member who is a junior police officer, the Commissioner of Police; and
 
-(b) in the case of a member who is a civil defence officer, intelligence officer, narcotics officer, prison officer or senior police officer, the Public Service Commission or any of its delegates.
+(b) in the case of a member who is a civil defence officer, an intelligence officer, a narcotics officer, a prison officer or a senior police officer, the Public Service Commission or any of its delegates.
 
 ### Non-assignability or attachment, etc., of benefits
 
-7\. No payments, allowance or other benefit payable under the INVEST Plan (whether on death, retirement or resignation of a member or otherwise), and no contribution by the Government made under the INVEST Plan and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than —
+7\. No payment, allowance or other benefit payable under the INVEST Plan (whether on death, retirement or resignation of a member or otherwise), and no contribution by the Government made under the INVEST Plan and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than —
 
 (a) a debt due to the Government; or
 
@@ -214,7 +216,7 @@ an option to join the INVEST Plan as a member thereof and for the terms and cond
 
 (4) In any case where, by reason of bankruptcy of the former member, a pension, gratuity or allowance is not granted or where a pension or allowance ceases by virtue of a direction under subsection (3), it shall be lawful for the Minister, from time to time, during the remainder of the member’s or former member’s life, or during such shorter period or periods, either continuous or discontinuous, as the Minister thinks fit, to cause all or any part of the moneys to which such person would have been entitled by way of pension, gratuity or allowance, had he not become a bankrupt, to be paid to, or applied for the maintenance and personal support or benefit of, all or any (to the exclusion of the others) of the following persons in such proportions and manner as the Minister thinks proper:
 
-(a) the member or former member himself; and
+(a) the member or former member himself;
 
 (b) any wife, child or children of his.
 
@@ -224,7 +226,7 @@ an option to join the INVEST Plan as a member thereof and for the terms and cond
 
 ### Benefits to cease on conviction
 
-9\.—(1) If any person to whom a pension or other allowance has been granted under this Act is sentenced to death or penal servitude or any term of imprisonment, by any court of competent jurisdiction, whether in Singapore or elsewhere, for any crime or offence, the Minister may direct that such pension or allowance shall forthwith cease, and thereupon such pension or allowance shall cease accordingly.
+9\.—(1) If any person to whom a pension or other allowance has been granted under this Act is sentenced to death or penal servitude or any term of imprisonment by any court of competent jurisdiction, whether in Singapore or elsewhere, for any crime or offence, the Minister may direct that such pension or allowance shall forthwith cease, and thereupon such pension or allowance shall cease accordingly.
 
 (2) Notwithstanding subsection (1), any pension or allowance that has ceased by virtue of a direction under subsection (1) shall be restored with retrospective effect in the case of a person who, after conviction, at any time receives a free pardon.
 
@@ -248,7 +250,7 @@ INVEST FUND
 
 (a) such sums appropriated from the Consolidated Fund and authorised to be paid into the Fund by or under any written law to enable the Fund to meet its liabilities under this Act or any other written law;
 
-(b) all revenues of Singapore allocated by written law to the Fund; and
+(b) all revenues of Singapore allocated by written law to the Fund;
 
 (c) the net income from investments of moneys in the Fund authorised to be made by this Act or any other written law.
 
@@ -256,15 +258,15 @@ INVEST FUND
 
 (2A) The moneys referred to in subsections (1)(a) and (b) and (2) shall be paid into the INVEST Fund as capital money, and shall not be used to make payment of any dividend under the INVEST Plan.
 
-[29/2002 wef 30/01/2003]
+[29/2002]
 
 (3) The Fund shall be deemed to be a Government fund for the purposes of any other written law.
 
-[29/2002 wef 30/01/2003]
+[29/2002]
 
 (4) Except as otherwise expressly provided in this Act or regulations made under section 24, the Financial Procedure Act (Cap. 109) shall apply to the Fund.
 
-(5) For the purposes of subsection (1)(c), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Fund any profit derived or loss sustained, as the case may be, from the realisation of such investments.
+(5) For the purposes of subsection (1)(c), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Fund, any profit derived or loss sustained, as the case may be, from the realisation of such investments.
 
 ### Purposes of Fund
 
@@ -272,9 +274,11 @@ INVEST FUND
 
 (a) the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the INVEST Plan or the Scheme;
 
-(b) all expenses incidental to or arising from the administration, investment and management of moneys in the Fund; and
+(b) all expenses incidental to or arising from the administration, investment and management of moneys in the Fund;
 
 (c) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the INVEST Plan or the Scheme, as the case may be, and expressly provided by written law to be met out of the Fund.
+
+[29/2002]
 
 (2) The Fund comprising —
 
@@ -284,7 +288,7 @@ INVEST FUND
 
 shall not be withdrawn and applied to meet the payment of any pension, gratuity, allowance, compensation or other like benefit granted under the Scheme, or such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit under the Scheme.
 
-[29/2002 wef 30/01/2003]
+[29/2002]
 
 ### Administration of Fund
 
@@ -296,7 +300,7 @@ shall not be withdrawn and applied to meet the payment of any pension, gratuity,
 
 15\.—(1) Notwithstanding section 7(3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Plan or the Scheme may, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
 
-[29/2003 wef 30/01/2003]
+[29/2002]
 
 (2) The Board may invest moneys standing to the credit of the Fund that are available for investment through an investment manager or managers who undertake to invest, and manage the investment of those moneys on behalf of the Board.
 
@@ -310,7 +314,7 @@ shall not be withdrawn and applied to meet the payment of any pension, gratuity,
 
 16\.—(1) Subject to subsection (2), where the moneys in the Fund are insufficient to pay any pension, gratuity, allowance, compensation or other like benefit at the time when such payment becomes due under the INVEST Plan or the Scheme, the deficiency shall be charged on and payable out of the Consolidated Fund.
 
-[29/2002 wef 30/01/2002]
+[29/2002]
 
 (2) Subsection (1) shall apply only to any pension, gratuity, allowance, compensation or other like benefit —
 
@@ -318,7 +322,7 @@ shall not be withdrawn and applied to meet the payment of any pension, gratuity,
 
 (b) in respect of any officer referred to in section 4A(4)(a) of the Prevention of Corruption Act (Cap. 241) who opts to join the Scheme under that Act.
 
-[29/2002 wef 30/01/2003]
+[29/2002]
 
 ### Fund surpluses
 
@@ -354,11 +358,11 @@ BOARD OF TRUSTEES AND AWARD OFFICERS
 
 (a) to advise on the interest rates for the purposes of the INVEST Plan or the Scheme;
 
-[29/2002 wef 30/01/2003]
-
-(b) to advise the Minister on proposed changes to any regulations made under Part II in relation to the INVEST Plan; and
+(b) to advise the Minister on proposed changes to any regulations made under Part II in relation to the INVEST Plan;
 
 (c) to exercise any other functions and duties conferred on the Board by or under any other written law.
+
+[29/2002]
 
 (2) The Board shall have power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions and, in particular, may —
 
@@ -404,7 +408,7 @@ AUDIT AND ACCOUNTING
 
 (4) A person shall not be qualified for appointment as an auditor under subsection (3) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
-[5/2004 wed 01/04/2004]
+[5/2004]
 
 (5) The remuneration of the auditor shall be paid out of the Fund.
 
@@ -424,11 +428,15 @@ AUDIT AND ACCOUNTING
 
 (2A) Notwithstanding subsection (1), where an amendment is made to the Scheme, and the amendment affects the cost of benefits payable under the Scheme or creates an initial unfunded liability, the Minister charged with the responsibility for the Scheme may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
 
-[29/2002 wef 30/01/2003]
+[29/2002]
 
 (3) The person appointed under subsection (1), (2) or (2A) shall, at the end of his examination, report to the Minister for Finance and the Minister referred to in subsection (2) or (2A), as the case may be, the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
 
+[29/2002]
+
 (4) The Minister referred to in subsection (2) or (2A), as the case may be, shall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
+
+[29/2002]
 
 ### Regulations for administration of Fund
 
@@ -446,7 +454,7 @@ Home Affairs Uniformed Services Superannuation Act
 
 (CHAPTER 126B)
 
-This Legislative History is provided for the convenience of users of the Home Affairs Uniformed Services Superannuation Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Home Affairs Uniformed Services Superannuation Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -469,3 +477,5 @@ This Legislative History is provided for the convenience of users of the Home Af
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|1 April 2004 (except section 28(a) and (c))|
+|5.|**2012 Revised Edition—Home Affairs Uniformed Services Superannuation Act (Chapter 126B)**|
+||Date of operation|31 July 2012|
