@@ -64,9 +64,15 @@
 
 - [22 Existing agreements and pending proceedings](#Existing-agreements-and-pending-proceedings)
 
-[**Part VII**](#Part-VII)
+[**Part VII NATIONAL PARKS AND NATURE RESERVES**](#Part-VII)
 
-[**[Repealed by Act 4/2005 wef 01/08/2005]**](#[Repealed-by-Act-4/2005-wef-01/08/2005])
+- [23 (Repealed)](#Repealed)
+
+- [24 (Repealed)](#Repealed)
+
+- [25 (Repealed)](#Repealed)
+
+- [26 (Repealed)](#Repealed)
 
 [**Part VIII GENERAL**](#Part-VIII)
 
@@ -106,9 +112,7 @@
 
 [**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
 
-[**FOURTH SCHEDULE Provisions Relating to Transfer of Employees**](#FOURTH-SCHEDULE-Provisions-Relating-to-Transfer-of-Employees)
-
-[**FIFTH SCHEDULE**](#FIFTH-SCHEDULE)
+[**FOURTH SCHEDULE Provisions relating to Transfer of Employees**](#FOURTH-SCHEDULE-Provisions-relating-to-Transfer-of-Employees)
 
 [**Legislative History**](#Legislative-History)
 
@@ -118,9 +122,9 @@
 
 (Original Enactment: Act 22 of 1996)
 
-REVISED EDITION 1997
+REVISED EDITION 2012
 
-(30th May 1997)
+(31st July 2012)
 
 An Act to reconstitute the National Parks Board and to provide for the transfer of the property, rights and liabilities of the Parks and Recreation Department to the National Parks Board, and for matters connected therewith.
 
@@ -134,13 +138,13 @@ PRELIMINARY
 
 1\. This Act may be cited as the National Parks Board Act.
 
+[4/2005]
+
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“animal” has the same meaning as in the Parks and Trees Act 2005;
-
-[4/2005 wef 01/08/2005]
+“animal” has the same meaning as in the Parks and Trees Act (Cap. 216);
 
 “Board” means the National Parks Board established under the repealed National Parks Act (Cap. 198A, 1991 Ed.) in force before 1st July 1996 and continued by section 3;
 
@@ -150,27 +154,19 @@ PRELIMINARY
 
 “member” means a member of the Board;
 
-“national park” has the same meaning as in the Parks and Trees Act 2005;
+“national park” has the same meaning as in the Parks and Trees Act;
 
-[4/2005 wef 01/08/2005]
+“nature reserve” has the same meaning as in the Parks and Trees Act;
 
-“nature reserve” has the same meaning as in the Parks and Trees Act 2005;
-
-[4/2005 wef 01/08/2005]
-
-“organism” has the same meaning as in the Parks and Trees Act 2005;
-
-[4/2005 wef 01/08/2005]
+“organism” has the same meaning as in the Parks and Trees Act;
 
 “Parks and Recreation Department” means the Parks and Recreation Department of the Ministry of National Development;
 
-“plant” has the same meaning as in the Parks and Trees Act 2005;
+“plant” has the same meaning as in the Parks and Trees Act;
 
-[4/2005 wef 01/08/2005]
+“public park” has the same meaning as in the Parks and Trees Act.
 
-“public park” has the same meaning as in the Parks and Trees Act 2005.
-
-[4/2005 wef 01/08/2005]
+[4/2005]
 
 ## PART II
 
@@ -210,15 +206,9 @@ FUNCTIONS AND POWERS OF BOARD
 
 (a) to control, administer and manage the national parks and nature reserves;
 
-[4/2005 wef 01/08/2005]
-
 (b) to plan, design, develop, manage and maintain public parks;
 
-[4/2005 wef 01/08/2005]
-
 (ba) to provide, manage and maintain park and recreational infrastructure and facilities in the national parks, nature reserves and public parks;
-
-[4/2005 wef 01/08/2005]
 
 (c) to propagate, protect and preserve the animals, plants and other organisms of Singapore and, within the national parks, nature reserves and public parks, to preserve objects and places of aesthetic, historical or scientific interest;
 
@@ -233,6 +223,8 @@ FUNCTIONS AND POWERS OF BOARD
 (h) to advise the Government on all matters relating to nature conservation and the planning, development and management of public parks; and
 
 (i) to carry out such other functions and duties as are imposed upon the Board by or under this Act or any other written law.
+
+[4/2005]
 
 (2) In addition to the functions of the Board under subsection (1), the Board may undertake such other functions as the Minister may assign to the Board and in so doing the Board shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Board in respect of such functions.
 
@@ -310,7 +302,7 @@ FINANCIAL PROVISIONS
 
 15A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Bank accounts and payments
 
@@ -322,7 +314,7 @@ FINANCIAL PROVISIONS
 
 17\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Annual estimates
 
@@ -360,7 +352,15 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD
 
 ## PART VII
 
-[Repealed by Act 4/2005 wef 01/08/2005]
+NATIONAL PARKS AND NATURE RESERVES
+
+23\. [Repealed by Act 4 of 2005]
+
+24\. [Repealed by Act 4 of 2005]
+
+25\. [Repealed by Act 4 of 2005]
+
+26\. [Repealed by Act 4 of 2005]
 
 ## PART VIII
 
@@ -380,29 +380,31 @@ GENERAL
 
 29\. All moneys recovered or sums collected under this Act or any regulations made thereunder shall be paid into and form part of the general funds of the Board.
 
-30\. [Repealed by Act 4/2005 wef 01/08/2005]
+30\. [Repealed by Act 4 of 2005]
 
-31\. [Repealed by Act 4/2005 wef 01/08/2005]
+31\. [Repealed by Act 4 of 2005]
 
-32\. [Repealed by Act 4/2005 wef 01/08/2005]
+32\. [Repealed by Act 4 of 2005]
 
-33\. [Repealed by Act 4/2005 wef 01/08/2005]
+33\. [Repealed by Act 4 of 2005]
 
-34\. [Repealed by Act 4/2005 wef 01/08/2005]
+34\. [Repealed by Act 4 of 2005]
 
-35\. [Repealed by Act 4/2005 wef 01/08/2005]
+35\. [Repealed by Act 4 of 2005]
 
-36\. [Repealed by Act 4/2005 wef 01/08/2005]
+36\. [Repealed by Act 4 of 2005]
 
-37\. [Repealed by Act 4/2005 wef 01/08/2005]
+37\. [Repealed by Act 4 of 2005]
 
-38\. [Repealed by Act 4/2005 wef 01/08/2005]
+38\. [Repealed by Act 4 of 2005]
 
-39\. [Repealed by Act 4/2005 wef 01/08/2005]
+39\. [Repealed by Act 4 of 2005]
 
 ### Power to make regulations
 
 40\.—(1) The Board may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.
+
+[4/2005]
 
 (2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
 
@@ -414,7 +416,7 @@ GENERAL
 
 (d) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
-[4/2005 wef 01/08/2005]
+[4/2005]
 
 ### Transitional provisions
 
@@ -442,17 +444,13 @@ Constitution and Proceedings of Board
 
 3\. A member shall hold office on such conditions and for such term as the Minister may determine and shall be eligible for reappointment.
 
-3A. The Minister may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the incapacity from illness or otherwise of the Chairman or the Deputy Chairman, as the case may be.
-
-[4/2005 wef 01/08/2005]
+3A\. The Minister may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the incapacity from illness or otherwise of the Chairman or the Deputy Chairman, as the case may be.
 
 4\. The Minister may, at any time, revoke the appointment of the Chairman or any member without assigning any reason.
 
 5\. Any member may resign from his appointment at any time by giving notice in writing to the Minister.
 
-5A. The Minister may appoint a person to be a temporary member of the Board during the incapacity from illness or otherwise of any member.
-
-[4/2005 wef 01/08/2005]
+5A\. The Minister may appoint a person to be a temporary member of the Board during the incapacity from illness or otherwise of any member.
 
 6\. The Chairman may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
 
@@ -471,8 +469,6 @@ Constitution and Proceedings of Board
 (b) has been sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon; or
 
 (c) is mentally disordered and incapable of managing himself or his affairs.
-
-[21/2008 wef 01/03/2010]
 
 10.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
 
@@ -496,7 +492,9 @@ Constitution and Proceedings of Board
 
 14\. Subject to the provisions of this Act, the Board may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
 
-15\. The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+15. The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+
+[4/2005; 21/2008]
 
 SECOND SCHEDULE
 
@@ -524,11 +522,7 @@ Powers of Board
 
 (g) authorise any person to erect, maintain and operate any facility and charge or authorise any person to charge for the use thereof.
 
-[4/2005 wef 01/08/2005]
-
-2B. To plant trees, plants and vegetation in public parks.
-
-[4/2005 wef 01/08/2005]
+2B\. To plant trees, plants and vegetation in public parks.
 
 3\. To enter into contracts for the supply of goods, services or materials or for the execution of works or other contracts as may be necessary for the discharge of the duties and functions of the Board under this Act.
 
@@ -550,27 +544,19 @@ Powers of Board
 
 12\. With the approval of the Minister, to raise loans for the purposes of this Act.
 
-12A. To collect, analyse, compile, publish or disseminate information relating to such subject-matter as may be necessary for the discharge of the functions, objects or duties of the Board.
+12A\. To collect, analyse, compile, publish or disseminate information relating to such subject-matter as may be necessary for the discharge of the functions, objects or duties of the Board.
 
-[4/2005 wef 01/08/2005]
+12B\. To provide technical, consultancy or advisory services to any Government agency or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Board.
 
-12B. To provide technical, consultancy or advisory services to any Government agency or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Board.
+12C\. To charge fees or commissions for services rendered by the Board or for any use of any of its facilities.
 
-[4/2005 wef 01/08/2005]
+12D\. To carry out promotional activities or publicity in any form.
 
-12C. To charge fees or commissions for services rendered by the Board or for any use of any of its facilities.
+12E\. To organise such courses and other programmes as the Board thinks necessary or desirable for the discharge of its functions, objects or duties.
 
-[4/2005 wef 01/08/2005]
+13. To do anything incidental to any of its functions.
 
-12D. To carry out promotional activities or publicity in any form.
-
-[4/2005 wef 01/08/2005]
-
-12E. To organise such courses and other programmes as the Board thinks necessary or desirable for the discharge of its functions, objects or duties.
-
-[4/2005 wef 01/08/2005]
-
-13\. To do anything incidental to any of its functions.
+[4/2005]
 
 THIRD SCHEDULE
 
@@ -586,7 +572,7 @@ Financial Provisions
 
 4.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -618,7 +604,7 @@ FOURTH SCHEDULE
 
 Section 21
 
-Provisions Relating to Transfer of Employees
+Provisions relating to Transfer of Employees
 
 1\. Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Board under section 21 as if he were still in the service of the Government.
 
@@ -638,17 +624,15 @@ Provisions Relating to Transfer of Employees
 
 9\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Parks and Recreation Department, been guilty of any misconduct or neglect of duty which would have rendered him liable to be so reprimanded, reduced in rank, retired, dismissed or punished if he had continued to be in the employment of the Government, and as if this Act had not been enacted.
 
-FIFTH SCHEDULE
-
-Deleted by Act 4/2005, wef 01/08/2005.
-
 ## LEGISLATIVE HISTORY
 
 National Parks Board Act
 
 (CHAPTER 198A)
 
-This Legislative History is provided for the convenience of users of the National Parks Board Act. It is not part of this Act.
+(Formerly known as the National Parks Act (Cap. 198A, 1997 Ed.))
+
+This Legislative History is provided for the convenience of users of the National Parks Board Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -687,3 +671,5 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item 1(34) of the Second Schedule — Amendment of National Parks Board Act)|
+|9.|**2012 Revised Edition—National Parks Board Act (Chapter 198A)**|
+||Date of operation|31 July 2012|
