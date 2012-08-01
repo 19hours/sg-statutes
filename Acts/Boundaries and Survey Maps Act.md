@@ -118,13 +118,15 @@ PRELIMINARY
 
 (d) any parcel of airspace or any subterranean space whether or not held apart from the surface of the earth; and
 
+[30/2008 wef 17/12/2008]
+
 (e) any estate or interest in land;
 
 “licence” means a licence to supply survey services in Singapore granted under section 17 of the Land Surveyors Act;
 
 “limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
-[2/2007 wef 02/05/2007 wef 02/05/2007]
+[2/2007 wef 02/05/2007]
 
 “manager” —
 
@@ -132,7 +134,7 @@ PRELIMINARY
 
 (b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
 
-[2/2007 wef 02/05/2007 wef 02/05/2007]
+[2/2007 wef 02/05/2007]
 
 “owner”, in relation to any parcel of land, means the person for the time being receiving the rent of the land, whether on his own account or as agent or trustee or who would receive the rent if the land were let to a tenant;
 
@@ -260,7 +262,7 @@ SURVEY
 
 Notice to secure attendance for certain purposes
 
-8\. [Repealed byAct 37 of 2004]
+8\. [Repealed by Act 37 of 2004]
 
 ### Notice to clear boundary line
 
@@ -340,7 +342,7 @@ CONDUCT OF CADASTRAL SURVEYS
 
 ### Inspection of Authority’s survey maps, plans or survey records
 
-11B\.—(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation , partnership or limited liability partnership may, upon payment to the Authority of the prescribed fee, at all reasonable times be permitted —
+11B\.—(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation, partnership or limited liability partnership may, upon payment to the Authority of the prescribed fee, at all reasonable times be permitted —
 
 (a) to inspect the relevant maps, plans or survey records lodged with the Authority; and
 
@@ -374,11 +376,13 @@ CONDUCT OF CADASTRAL SURVEYS
 
 [37/2004]
 
-(5) Notwithstanding section 35 of the Evidence Act (Cap. 97), a print-out of any information stored in a computer in the Authority issued and signed by the Chief Surveyor shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, without proof of signature, as prima facie proof of all the matters contained in or entered on that document.
+(5) A print-out of any information stored in a computer in the Authority issued and signed by the Chief Surveyor shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, without proof of signature, as prima facie proof of all the matters contained in or entered on that document.
 
 [37/2004]
 
 [Malaysia NLC 1965, s. 408]
+
+[Act 4 of 2012 wef 01/08/2012]
 
 ### Approval of cadastral surveys and assurance plans
 
@@ -436,7 +440,7 @@ CONDUCT OF CADASTRAL SURVEYS
 
 [2/2007 wef 02/05/2007]
 
-(2) The Chief Surveyor may, at any time after the survey plan has been deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation, partnership or limited liability partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or by a registered surveyor who is a director, a partner, a manager or an employee of that corporation , partnership or limited liability partnership, as the case may be.
+(2) The Chief Surveyor may, at any time after the survey plan has been deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation, partnership or limited liability partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or by a registered surveyor who is a director, a partner, a manager or an employee of that corporation, partnership or limited liability partnership, as the case may be.
 
 [37/2004]
 
@@ -658,3 +662,8 @@ This Legislative History is provided for the convenience of users of the Boundar
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|10.|**Act 4 of 2012—Evidence (Amendment) Act 2012**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 January 2012 (Bill No. 2/2012 published on 16 January 2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 August 2012|
