@@ -1434,11 +1434,13 @@ make an application together with the certificate of title for the creation of n
 
 (b) be conclusive evidence that the person named as proprietor therein or in any memorial thereon is, or was at the relevant time, entitled to the estate or interest in the land therein specified and described.
 
-(2) Notwithstanding section 35 of the Evidence Act (Cap. 97), a print-out of a computer folio issued by the Registrar and bearing a facsimile of the Registrar’s seal shall —
+(2) A print-out of a computer folio issued by the Registrar and bearing a facsimile of the Registrar’s seal shall —
 
 (a) be received in all courts as evidence of the particulars therein set forth; and
 
 (b) be conclusive evidence that the land therein comprised has been duly brought under the provisions of this Act and that the person named as proprietor therein or in any memorial thereon is, or was at the relevant time, entitled to the estate or interest in the land therein specified and described.
+
+[Act 4 of 2012 wef 01/08/2012]
 
 (3) Where, in a manual folio or a print-out of a computer folio, the estate or interest of a registered proprietor is expressed to be subject to —
 
@@ -3459,7 +3461,9 @@ SEARCHES AND CERTIFIED COPIES
 
 (2) Every such certified copy signed by the Registrar and sealed with his seal shall be received in evidence in any court, or before any person having by law or by consent of parties authority to receive evidence, as prima facie proof of all the matters contained in or entered on the original instrument.
 
-(3) Notwithstanding section 35 of the Evidence Act (Cap. 97), a print-out of any information (other than computer folios) stored in a computer in the Land Titles Registry issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, as prima facie proof of all the matters contained in or entered on any instrument filed in the Land Titles Registry.
+(3) A print-out of any information (other than computer folios) stored in a computer in the Land Titles Registry issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, as prima facie proof of all the matters contained in or entered on any instrument filed in the Land Titles Registry.
+
+[Act 4 of 2012 wef 01/08/2012]
 
 (4) Subsection (1) shall apply only to such electronic instruments as the Registrar may determine.
 
@@ -3733,6 +3737,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 30/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|17 January 2011|
+|13.|**Act 4 of 2012—Evidence (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 January 2012|
+|||(Bill No. 2/2012 published on 16 January 2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 August 2012|
 ## COMPARATIVE TABLE
 
 Land Titles Act
