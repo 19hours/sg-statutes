@@ -638,25 +638,25 @@
 
 - [267 Proof by formal admission](#Proof-by-formal-admission)
 
-- [268 Hearsay evidence admissible only under this Code or other law](#Hearsay-evidence-admissible-only-under-this-Code-or-other-law)
+- [268 Hearsay evidence in criminal proceedings](#Hearsay-evidence-in-criminal-proceedings)
 
-- [269 Definitions, etc., for sections 270 to 277](#Definitions-etc-for-sections-270-to-277)
+- [269 (Repealed)](#Repealed)
 
-- [270 Admissibility of out-of-court statements as evidence of facts stated](#Admissibility-of-out-of-court-statements-as-evidence-of-facts-stated)
+- [270 (Repealed)](#Repealed)
 
-- [271 Restrictions on admissibility of statements under section 270](#Restrictions-on-admissibility-of-statements-under-section-270)
+- [271 (Repealed)](#Repealed)
 
-- [272 Admissibility of certain records as evidence of facts stated](#Admissibility-of-certain-records-as-evidence-of-facts-stated)
+- [272 (Repealed)](#Repealed)
 
-- [273 Provisions supplementary to section 270 or 272](#Provisions-supplementary-to-section-270-or-272)
+- [273 (Repealed)](#Repealed)
 
-- [274 Admissibility of hearsay evidence by agreement of parties](#Admissibility-of-hearsay-evidence-by-agreement-of-parties)
+- [274 (Repealed)](#Repealed)
 
-- [275 Admissibility of evidence as to credibility of maker, etc., of statement admitted under certain provisions of this Part](#Admissibility-of-evidence-as-to-credibility-of-maker-etc-of-statement-admitted-under-certain-provisions-of-this-Part)
+- [275 (Repealed)](#Repealed)
 
-- [276 Saving for exceptions to the rule against hearsay in Evidence Act](#Saving-for-exceptions-to-the-rule-against-hearsay-in-Evidence-Act)
+- [276 (Repealed)](#Repealed)
 
-- [277 Application of sections 270 to 275 to statements of opinion](#Application-of-sections-270-to-275-to-statements-of-opinion)
+- [277 (Repealed)](#Repealed)
 
 - [278 Notice of alibi](#Notice-of-alibi)
 
@@ -4873,7 +4873,9 @@ A is on trial for the murder of C. There is evidence to show that C was murdered
 
 (d) is made in the course of an identification parade; or
 
-(e) falls within section 32(a) of the Evidence Act.
+(e) falls within section 32(1)(a) of the Evidence Act.
+
+[Act 4 of 2012 wef 01/08/2012]
 
 (2) Where any person is charged with any offence in relation to the making or contents of any statement made by him to an officer of a law enforcement agency in the course of an investigation carried out by that officer, that statement may be used as evidence in the prosecution.
 
@@ -4993,187 +4995,29 @@ then, if he has been convicted of an offence involving fraud or dishonesty withi
 
 (4) An admission under this section may with the leave of the court be withdrawn in the proceedings for which it is made or any subsequent criminal proceedings relating to the same matter.
 
-### Hearsay evidence admissible only under this Code or other law
+### Hearsay evidence in criminal proceedings
 
-268\. In any criminal proceedings, a statement other than one given orally in those proceedings is admissible as evidence of any fact stated therein to the extent that it is so admissible by this Code or any other written law.
+268\. In any criminal proceedings, a statement is admissible as evidence of any fact stated therein to the extent that it is so admissible by this Code, the Evidence Act (Cap. 97), or any other written law.
 
-### Definitions, etc., for sections 270 to 277
+[Act 4 of 2012 wef 01/08/2012]
 
-269\.—(1) In this section and in sections 270 to 277 —
+269\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-“document” includes, in addition to a document in writing —
+270\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-(a) any map, plan, graph or drawing;
+271\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-(b) any photograph;
+272\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-(c) any disc, tape, sound-track, or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it; and
+273\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-(d) any film, negative, tape or other device in which one or more visual images are embodied so that they can be likewise reproduced from it;
+274\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-“film” includes a microfilm.
+275\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-(2) In this section and in sections 270 to 277, a reference to a copy of a document includes —
+276\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-(a) in the case of a document falling within paragraph (c) but not paragraph (d) of the definition of “document”, a transcript of the sounds or other data embodied in it;
-
-(b) in the case of a document falling within paragraph (d) but not paragraph (c) of that definition, a reproduction or still reproduction of the image or images embodied in it, whether enlarged or not;
-
-(c) in the case of a document falling within paragraphs (c) and (d) of that definition, such a transcript together with such a still reproduction; and
-
-(d) in the case of a document not falling within paragraph (d) of that definition of which a visual image is embodied in a document falling within that paragraph, a reproduction of that image, whether enlarged or not,
-
-and any reference to a copy of the material part of a document must be construed accordingly.
-
-(3) For the purposes of this section and of sections 270 to 277, a protest, greeting or other verbal utterance may be treated as stating any fact that the utterance implies.
-
-### Admissibility of out-of-court statements as evidence of facts stated
-
-270\.—(1) Subject to this section and section 271 and to the rules of law governing the admissibility of accused’s statements, any statement made, whether orally or in a document or otherwise, by a person is admissible as evidence in any criminal proceedings of any fact given in that statement of which direct oral evidence by him would be admissible if —
-
-(a) being compellable to give evidence on behalf of the party desiring to give the statement in evidence, he attends or is brought before the court, but refuses to be sworn or affirmed, or is sworn or affirmed but refuses to give any evidence; or
-
-(b) it is shown with respect to him —
-
-(i) that he is dead or is unfit because of his bodily or mental condition to attend as a witness;
-
-(ii) that despite reasonable efforts to locate him, he cannot be found whether within or outside Singapore;
-
-(iii) that he is outside Singapore and it is not practicable to secure his attendance; or
-
-(iv) that, being competent but not compellable to give evidence on behalf of the party desiring to give the statement in evidence, he refuses to do so.
-
-(2) Where a person makes an oral statement to or in the hearing of another person who, at the request of the maker of the statement, puts it (or the substance of it) into writing at the time or reasonably soon afterwards, thereby producing a corresponding statement in a document, the statement in the document shall be treated for the purposes of this section (and sections 271 and 273 so far as they have effect for the purposes of this section) as the statement of the maker of the oral statement.
-
-### Restrictions on admissibility of statements under section 270
-
-271\.—(1) A statement shall not be admissible in evidence in any criminal proceedings by virtue of section 270(1)(a) or (b)(ii), (iii) or (iv), if it was made after the commencement of investigations into the offence which is the subject-matter of the proceedings.
-
-(2) Subject to subsection (1), evidence under section 270(1)(b) may not be given on behalf of a party to the proceedings, unless —
-
-(a) that party has previously served a notice in writing on each of the other parties of his intention to introduce the evidence;
-
-(b) the notice complies with the requirements of subsection (3); and
-
-(c) the leave of the court is obtained.
-
-(3) The requirements referred to in subsection (2)(b) are as follows:
-
-(a) the notice must state on which of the grounds in section 270(1)(b) it is claimed that the statement is admissible;
-
-(b) in the case of a statement not made in a document, the notice must state the manner in which it was made (whether orally or otherwise), and must also state —
-
-(i) the time and place at which the statement was made;
-
-(ii) the name of the maker of the statement and (unless he is dead) his address, if known;
-
-(iii) the name and address of the person who heard or otherwise perceived the statement being made; and
-
-(iv) the substance of the statement or, if it was made orally and the actual words used in making it are material, the words used; and
-
-(c) in the case of a statement made in a document, the notice must contain or have attached to it a copy of that document, or of the relevant part of it, and must also state —
-
-(i) the matters mentioned in paragraph (b)(i) and (ii); and
-
-(ii) if the maker of the document is different from the maker of the statement, the name of the maker of the document and (unless he is dead) his address, if known,
-
-if the information is not readily apparent from the document or the relevant part of the document.
-
-### Admissibility of certain records as evidence of facts stated
-
-272\.—(1) Without prejudice to section 35 of the Evidence Act (Cap. 97), in any criminal proceedings a statement in a document is, subject to this section, admissible as evidence of any fact stated in it of which direct oral evidence would be admissible if —
-
-(a) the document is, or forms part of, a record compiled by a person acting under a duty from information which —
-
-(i) was supplied by a person (whether acting under a duty or not) who had, or may reasonably be supposed to have had, personal knowledge of the matters dealt with in that information; and
-
-(ii) if not supplied by that person to the compiler of the record directly, was supplied by him to the compiler of the record indirectly through one or more intermediaries each acting under a duty; and
-
-(b) the person who originally supplied the information from which the record containing the statement was compiled satisfies the condition specified in subsection (2)(a) or (b) or any of the conditions specified in subsection (2)(c).
-
-(2) The conditions referred to in subsection (1)(b) are —
-
-(a) that the person in question has been or is to be called as a witness in the proceedings;
-
-(b) that the person in question, being compellable to give evidence on behalf of the party wishing to give the statement in evidence, attends or is brought before the court —
-
-(i) but refuses to be sworn or affirmed; or
-
-(ii) is sworn or affirmed but refuses to give any evidence; or
-
-(c) that it is shown with respect to the person in question —
-
-(i) that he is dead or is unfit by reason of his bodily or mental condition to attend as a witness;
-
-(ii) that despite reasonable efforts to locate him, he cannot be found whether within or outside Singapore;
-
-(iii) that he is outside Singapore and that it is not practicable to secure his attendance;
-
-(iv) that, being competent but not compellable to give evidence on behalf of the party desiring to give the statement in evidence, he refuses to do so; or
-
-(v) that, because of the time that has elapsed since he supplied the information and considering all the circumstances, he cannot reasonably be expected to remember the matters dealt with in the statement.
-
-(3) A statement shall not be admissible in evidence in any criminal proceedings by virtue of subsection (2)(b) or (c)(ii), (iii) or (iv) if the person who originally supplied the information from which the record containing the statement was compiled did so after the commencement of investigations into the offence which is the subject-matter of the proceedings.
-
-(4) Where a document setting out the evidence which a person could be expected to give as a witness has been prepared for the purpose of any pending or contemplated proceedings, whether civil or criminal, and that document falls within subsection (1)(a), then in any criminal proceedings in which that person has been or is to be called as a witness, a statement contained in that document shall not be given in evidence by virtue of subsection (2)(a) or (c)(v) without the leave of the court; and the court shall not give leave under this subsection in respect of any such statement unless it is of the opinion that, in the particular circumstances in which that leave is sought, it is in the interests of justice for the witness’s oral evidence to be supplemented by the reception of that statement or for the statement to be received as evidence of any matter about which he is unable or unwilling to give oral evidence.
-
-(5) A reference in this section to a person acting under a duty includes a reference to a person acting in the course of any trade, business, profession or other occupation in which he is engaged or employed for the purposes of any paid or unpaid office he holds.
-
-### Provisions supplementary to section 270 or 272
-
-273\.—(1) Where in criminal proceedings a statement in a document is admissible in evidence under section 270 or 272, it may be proved by the production of that document or (whether or not that document is still in existence) by the production of a copy of that document, or of the material part of it, authenticated in a manner approved by the court.
-
-(2) The court may, in deciding whether a statement is admissible in evidence under section 270 or 272, draw any reasonable inference from the circumstances in which the statement was made or otherwise came into being or from any other circumstances, including, in the case of a statement in a document, the form and contents of that document.
-
-(3) In estimating any weight to be attached to a statement admissible in evidence under section 270 or 272, the court must consider all the circumstances from which it might reasonably infer the accuracy of the statement, and in particular —
-
-(a) in the case of a statement falling within section 270(1), whether the statement was made at the same time as the stated facts occurred or existed, and whether the maker of the statement had any incentive to conceal or misrepresent the facts; and
-
-(b) in the case of a statement falling within section 272, whether the person who originally supplied the information from which the record containing the statement was compiled did so at the same time as the facts dealt with in that information occurred or existed, and whether that person, or any person concerned with compiling or keeping the record containing the statement, had any incentive to conceal or misrepresent the facts.
-
-(4) For the purpose of any rule of law or practice that requires evidence to be corroborated or that regulates the manner in which uncorroborated evidence is to be treated —
-
-(a) a statement that is admissible in evidence under section 270 is not capable of corroborating evidence given by the maker of the statement; and
-
-(b) a statement that is admissible in evidence under section 272 is not capable of corroborating evidence given by the person who originally supplied the information for the record containing the statement.
-
-### Admissibility of hearsay evidence by agreement of parties
-
-274\.—(1) As regards a statement in a document or made by a person in any other form than a document, if the parties to any criminal proceedings agree at a hearing that for the purpose of those proceedings the statement may be given in evidence, then, unless the court otherwise directs, the statement is admissible in those proceedings and in any proceedings arising out of them (including any appeal or retrial) as evidence of any fact stated therein.
-
-(2) An agreement under subsection (1) does not enable a statement to be given in evidence under this section on the prosecution’s behalf unless at the time the agreement is made the accused or any of the co-accused is represented by an advocate.
-
-(3) An agreement under subsection (1) shall be of no effect for the purpose of any proceedings before the High Court or any proceedings arising out of proceedings before the High Court if made during proceedings before an examining Magistrate conducting a committal hearing under Division 2 of Part X.
-
-(4) Where in any criminal proceedings a statement in a document is admissible under this section, it may be proved by the production of that document or (whether or not that document is still in existence) by the production of a copy of that document, or of the material part of it, authenticated in a manner approved by the court.
-
-(5) Where a statement is given in evidence under this section but might have become admissible in evidence under section 270 or 272, section 273(4) applies to it as if it were admissible under section 270 or 272, as the case may be.
-
-### Admissibility of evidence as to credibility of maker, etc., of statement admitted under certain provisions of this Part
-
-275\.—(1) Where in criminal proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence under section 270 —
-
-(a) any evidence which, if that person had been so called, would be admissible for the purpose of undermining or supporting that person’s credibility as a witness, is admissible for that purpose in those proceedings; and
-
-(b) as regards any matter which, if that person had been so called, could have been put to him in cross-examination for the purpose of undermining his credibility as a witness, being a matter of which, if he had denied it, evidence could not have been adduced by the cross-examining party, evidence of that matter may with the leave of the court be given for that purpose.
-
-(2) Where in criminal proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence under section 270, evidence tending to prove that, whether before or after he made that statement, he made another statement (orally, written or otherwise) inconsistent with the first-mentioned statement is admissible for the purpose of showing that he has contradicted himself.
-
-(3) Subsections (1) and (2) apply in relation to a statement given in evidence under section 272 as they apply to a statement given under section 270, except that references to the person who made the statement and to his making the statement must be read respectively as references to the person who originally supplied the information from which the record containing the statement was compiled and to his supplying that information.
-
-(4) Section 270(2) applies for the purposes of this section as it applies for the purposes of section 270.
-
-### Saving for exceptions to the rule against hearsay in Evidence Act
-
-276\. This Part does not prejudice the admissibility in criminal proceedings of a statement that would, under the Evidence Act (Cap. 97) or any other law, be admissible as evidence of a fact stated therein.
-
-### Application of sections 270 to 275 to statements of opinion
-
-277\.—(1) Subject to this section, sections 270 to 275 apply to statements of opinion as they apply to statements of fact, subject to the necessary modifications and in particular the modification that a reference in those sections to a fact stated in a statement must be read as a reference to a matter dealt with in the statement.
-
-(2) Section 272, as applied by subsection (1), does not make admissible in criminal proceedings a statement of opinion in a record unless that statement would be admissible in those proceedings if made while giving oral evidence by the person who originally supplied the information from which the record was compiled; but where a statement of opinion in a record deals with a matter on which the person who originally supplied that information is (or if living would be) qualified to give oral expert evidence, section 272, as applied by subsection (1), has effect in relation to that statement as if so much of section 272(1) as requires personal knowledge on the part of that person were omitted.
-
-(3) Where a person is called as a witness in criminal proceedings, a statement of opinion by him on a relevant matter on which he is not qualified to give expert evidence, if made as a way of conveying relevant facts personally perceived by him, is admissible as evidence of what he perceived.
+277\. [Deleted by Act 4 of 2012 wef 01/08/2012]
 
 ### Notice of alibi
 
