@@ -544,7 +544,7 @@
 
 - [209 Transitional provision](#Transitional-provision)
 
-[**THE SCHEDULE Specified Offences**](#THE-SCHEDULE)
+[**THE SCHEDULE Specified offences**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -597,6 +597,8 @@ PRELIMINARY
 “civil prison” means a prison declared as such under section 3 of the Prisons Act (Cap. 247);
 
 “commander”, in relation to any person subject to military law, means an officer of or above the rank of captain or a senior military expert for the time being commanding a unit or units or part of a unit of the Singapore Armed Forces;
+
+[28/2009 wef 01/04/2010]
 
 “convening authority” means —
 
@@ -705,6 +707,8 @@ PRELIMINARY
 (c) all references to “Singapore armed forces” “Singapore Army”, “Singapore forces” and “the army, navy or air force of Singapore” shall be construed as references to the Singapore Armed Forces constituted under this Act;
 
 (d) all references to “a person holding a commission in the armed forces” shall be construed as references to an officer under this Act; and
+
+[28/2009 wef 01/04/2010]
 
 (e) all references to “a soldier, enlisted personnel, sailor, seaman, rating or airman” shall be construed as references to a serviceman under this Act.
 
@@ -986,11 +990,11 @@ shall be guilty of an offence.
 
 (a) fails to use his utmost exertions to carry the lawful orders of his superiors (being officers or senior military experts) into execution;
 
+[28/2009 wef 01/04/2010]
+
 (b) while on guard duty and posted or ordered to patrol, or while on watch, sleeps or, without having been regularly relieved, leaves any place where it is his duty to be; or
 
 (c) behaves in such a manner as to show cowardice, or induces any other person so to behave at a time when that other person, being a member of the Singapore Armed Forces or of any force co-operating therewith is in the presence or vicinity of the enemy, or is engaged in any action or operation against the enemy or under orders to be prepared for any action or operation by or against the enemy.
-
-[28/2009 wef 01/04/2010]
 
 (3) Every person guilty of an offence under this section shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
 
@@ -1198,7 +1202,7 @@ shall be guilty of an offence and shall be liable on conviction by a subordinate
 
 ### Abandonment of aircraft or vessel
 
-35\. Every person subject to military law who without authority abandons any arms, aircraft, vessel or vehicle of the Singapore Armed Forces when it is threatened with loss shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 7 years or any less punishment authorised by this Act
+35\. Every person subject to military law who without authority abandons any arms, aircraft, vessel or vehicle of the Singapore Armed Forces when it is threatened with loss shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 7 years or any less punishment authorised by this Act.
 
 ### Causing or allowing any ship, vessel or aircraft to be lost or hazarded
 
@@ -1496,9 +1500,13 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 [1/94; 10/2000]
 
+[28/2009 wef 01/04/2010]
+
 (2A) If the accused is an officer of the rank of lieutenant-colonel or senior lieutenant-colonel, or a senior military expert of the rank of ME6, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before any Service Chief.
 
 [10/2000]
+
+[28/2009 wef 01/04/2010]
 
 (3) If the accused is an officer below the rank of lieutenant-colonel, or a senior military expert below the rank of ME6, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before a superior commander at least 2 ranks above him.
 
@@ -2234,6 +2242,8 @@ subject to the same right of the accused to object.
 
 (3) If, after the commencement of a trial, any member of a field general court martial, other than the president, dies or is otherwise unable to attend, the court shall adjourn, and the convening officer shall appoint another person (being an officer or a senior military expert) who is eligible for the appointment to fill the vacancy.
 
+[28/2009 wef 01/04/2010]
+
 (4) If, on account of the illness of the accused before the finding, it is impossible to continue the trial, a subordinate military court shall be dissolved.
 
 (5) Where a subordinate military court is dissolved under subsection (l)(a) or (4), the accused may be tried again by another subordinate military court.
@@ -2322,15 +2332,25 @@ subject to the same right of the accused to object.
 
 ### Application of Criminal Procedure Code
 
-94\.—(1) Without prejudice to section 93 of this Act, sections 123 to 148, 244 to 256, 262 to 276, 282, 283, 284, 290, 293, 294, 296, 297, 319 (other than subsection (1)(e) thereof), 320, 326 to 332, 359, 360, 364, 365, 366, 368 to 372, 391, 423 and 426 of the Criminal Procedure Code 2010, in so far as they are not inconsistent with the provisions of this Act or any regulations made thereunder, shall apply, with the necessary modification, to proceedings before and punishments awarded by subordinate military courts.
+94\.—(1) Without prejudice to section 93 of this Act, sections 123 to 148, 244 to 256, 262 to 268, 282, 283, 284, 290, 293, 294, 296, 297, 319 (other than subsection (1)(e) thereof), 320, 326 to 332, 359, 360, 364, 365, 366, 368 to 372, 391, 423 and 426 of the Criminal Procedure Code 2010, in so far as they are not inconsistent with the provisions of this Act or any regulations made thereunder, shall apply, with the necessary modification, to proceedings before and punishments awarded by subordinate military courts.
 
 [20/75; 1/94]
 
+[Act 4 of 2012 wef 01/08/2012]
+
+[15/2010 wef 02/01/2011]
+
 (2) A subordinate military court when invoking section 319 of the Criminal Procedure Code 2010 (other than subsection (1)(e) thereof) may award detention or special detention in a disciplinary barrack instead of imprisonment.
+
+[15/2010 wef 02/01/2011]
 
 (3) Section 328 of the Criminal Procedure Code 2010 shall apply to any sentence of caning awarded or imposed under this Act notwithstanding any other provisions of this Act or any regulations made thereunder.
 
+[15/2010 wef 02/01/2011]
+
 (4) In exercising the powers under section 331 of the Criminal Procedure Code 2010, a subordinate military court may award any less punishment authorised by this Act instead of imprisonment.
+
+[15/2010 wef 02/01/2011]
 
 (5) The Minister may, by order published in theGazette, provide for the application of such other provisions of the Criminal Procedure Code as he thinks fit for the purposes of investigation, trial and punishment of offences punishable under this Act, subject to any modifications as may be specified in the order.
 
@@ -2350,7 +2370,7 @@ subject to the same right of the accused to object.
 
 ### Military documents as evidence
 
-98\.—(1) Any document, purporting to be signed by an officer , a warrant officer or a military expert of or above the rank of ME3 in the course of his duty and containing particulars regarding the matters enumerated below, shall be prima facie evidence of such particulars —
+98\.—(1) Any document, purporting to be signed by an officer, a warrant officer or a military expert of or above the rank of ME3 in the course of his duty and containing particulars regarding the matters enumerated below, shall be prima facie evidence of such particulars —
 
 (a) service in the Singapore Armed Forces, including dates of enlistment and discharge;
 
@@ -2574,11 +2594,11 @@ shall, if charged under this section with any such offence, be liable to be trie
 
 (v) if he is convicted of rape or sexual assault by penetration, be liable to suffer imprisonment or any less punishment authorised by this Act; or
 
+[51/2007 wef 01/02/2008]
+
 (vi) if he is convicted of any other offence, which when committed in Singapore is punishable by the law of Singapore, be liable, whether the offence is committed in Singapore or elsewhere, either to suffer such punishment as might be awarded to him under this Act in respect of an act, conduct or neglect to the prejudice of good order or discipline or to suffer any punishment that may be awarded for such offence under any written law, had he been convicted by a civil court for the offence and, in addition to or in lieu of such punishment, one or more of the punishments specified in section 118(1)(c), (d), (e), (f), (g), (h), (j), (k) and (l), and any punishment which may be imposed under section 118(9), (10), (12) and (13), which is or are not prescribed by the written law for the offence.
 
 [17/78]
-
-[51/2007 wef 01/02/2008]
 
 (2) A person subject to military law shall not be tried by a subordinate military court for murder or culpable homicide not amounting to murder unless —
 
@@ -2808,7 +2828,7 @@ and any such fine may, if the court orders, be paid by instalment to be deducted
 
 ### Punishment for aggravated disciplinary barrack offences
 
-119\.—(1) Subject to subsection (2), a person serving a sentence of special detention in a disciplinary barrack who is found after due inquiry to be guilty of an aggravated disciplinary barrack offence may be punished by the officer or senior military expert in charge of a disciplinary barrack with caning not exceeding 12 strokes
+119\.—(1) Subject to subsection (2), a person serving a sentence of special detention in a disciplinary barrack who is found after due inquiry to be guilty of an aggravated disciplinary barrack offence may be punished by the officer or senior military expert in charge of a disciplinary barrack with caning not exceeding 12 strokes.
 
 [20/75]
 
@@ -3426,11 +3446,11 @@ Investigations
 
 (a) any officer, warrant officer or military expert of or above the rank of ME3 appointed in writing by a senior disciplinary officer or a superior commander to investigate a military offence; and
 
+[28/2009 wef 01/04/2010]
+
 (b) any military policeman.
 
 [1/94]
-
-[28/2009 wef 01/04/2010]
 
 ### Restriction on powers of investigating officers
 
@@ -3475,6 +3495,8 @@ Investigations
 (b) if he is a military policeman shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the Director, Legal Services of the Singapore Armed Forces who shall, if he is of the opinion that the investigation material discloses sufficient evidence to connect a person subject to military law with the commission of an offence, direct a military prosecutor to frame a charge and submit the charge to a disciplinary officer for summary trial under Part IV or to a subordinate military court for trial.
 
 [1/94]
+
+[17/2004 wef 31/12/2004]
 
 (3) Where the investigation is in respect of an offence committed by a person on active service, the investigating officer, whether a military policeman or otherwise shall submit the investigation material to a senior disciplinary officer or superior commander who will if he is satisfied that the material discloses evidence to connect that person with the commission of the offence either deal with the case summarily or arrange the convening of a field general court martial for the trial of that person.
 
@@ -3542,11 +3564,11 @@ BAIL AND BONDS
 
 “Bail Officer” means any officer or senior military expert appointed by the Armed Forces Council, by order published in theGazette, to exercise the power to release a person subject to military law on bail or bond;
 
+[28/2009 wef 01/04/2010]
+
 “military court” means a general court martial or the Military Court of Appeal.
 
 [1/94]
-
-[28/2009 wef 01/04/2010]
 
 ### When person subject to military law may be released on bail
 
@@ -3854,6 +3876,8 @@ the Armed Forces Council may write off the loss or deficiency or such part there
 
 (a) under section 75(3), appointed an officer or a senior military expert to exercise the powers conferred upon it by section 75(1) in relation to a serviceman serving outside Singapore; or
 
+[28/2009 wef 01/04/2010]
+
 (b) in relation to a serviceman, delegated its powers as a reviewing authority to a committee under section 116(2),
 
 a reference to an order made or quashed by the Armed Forces Council in subsection (1)(d) in respect of that serviceman shall be construed as a reference to an order made or quashed by the officer, senior military expert or committee, as the case may be.
@@ -3918,11 +3942,7 @@ AID TO CIVILIAN AUTHORITIES
 
 (e) to carry out such other air or sea operation as the Minister, after consulting the Committee, may, by notification in theGazette, prescribe.
 
-[25/2007 wef 01/08/2007]
-
 (2) The Minister shall have regard to Singapore’s international obligations when giving any authorisation under subsection (1).
-
-[25/2007 wef 01/08/2007]
 
 (3) Subject to sections 201E and 201F, any serviceman deployed for duty under subsection (1) may, for the purposes of the operation for which he is deployed, do one or more of the following in relation to any aircraft:
 
@@ -3955,8 +3975,6 @@ AID TO CIVILIAN AUTHORITIES
 (e) detain the aircraft and bring it, or cause it to be brought, to any other place in Singapore;
 
 (f) take measures (including the use of force) reasonable and necessary in the circumstances to exercise any of the powers in paragraphs (a) to (e).
-
-[25/2007 wef 01/08/2007]
 
 (4) Subject to sections 201E and 201F, any serviceman deployed for duty under subsection (1) may, for the purposes of the operation for which he is deployed, do one or more of the following in relation to any vessel or fixed or floating facility:
 
@@ -3994,8 +4012,6 @@ AID TO CIVILIAN AUTHORITIES
 
 (g) take measures (including the use of force) reasonable and necessary in the circumstances to exercise any of the powers in paragraphs (a) to (f).
 
-[25/2007 wef 01/08/2007]
-
 (5) The powers under subsections (3) and (4) shall extend to aircraft and vessels outside Singapore in accordance with Singapore’s international obligations.
 
 [25/2007 wef 01/08/2007]
@@ -4004,15 +4020,9 @@ AID TO CIVILIAN AUTHORITIES
 
 201C\.—(1) Where the Minister, after consulting the Committee, is of the opinion that a relevant event has occurred, could occur or would be likely to occur, the Minister may, from time to time, order the Singapore Armed Forces to be deployed for the relevant event for such period as may be specified in the order.
 
-[25/2007 wef 01/08/2007]
-
 (2) For the purposes of this Part, the Prime Minister shall appoint a Committee consisting of such persons as he may appoint.
 
-[25/2007 wef 01/08/2007]
-
 (3) Any order made under subsection (1) shall be published in theGazetteas soon as practicable after it is made unless, for reasons of urgency or national security, it would be impracticable or undesirable to do so.
-
-[25/2007 wef 01/08/2007]
 
 (4) Any order made under subsection (1) shall specify ––
 
@@ -4026,15 +4036,9 @@ AID TO CIVILIAN AUTHORITIES
 
 (e) the period for which the order shall be in force.
 
-[25/2007 wef 01/08/2007]
-
 (5) An order made under subsection (1) shall not be invalid by reason that it does not specify one or more of the particulars in subsection (4), if the Minister is satisfied that it is impracticable or undesirable that such particulars be so specified.
 
-[25/2007 wef 01/08/2007]
-
 (6) The Minister, after consulting the Committee, may at any time revoke or vary any order made under subsection (1).
-
-[25/2007 wef 01/08/2007]
 
 (7) The Minister may make any order under subsection (1) without consulting the Committee if he is satisfied that ––
 
@@ -4042,11 +4046,7 @@ AID TO CIVILIAN AUTHORITIES
 
 (b) any of the circumstances specified in that subsection exists.
 
-[25/2007 wef 01/08/2007]
-
 (8) An order made under subsection (1) by virtue of subsection (7) shall cease to be valid after the expiration of 72 hours from the time it was made, unless confirmed by the Committee.
-
-[25/2007 wef 01/08/2007]
 
 (9) Subject to sections 201E and 201F, any serviceman deployed for duty in accordance with any order made under subsection (1) which is in force may, for the purposes of the relevant event for which he is deployed, do one or more of the following:
 
@@ -4060,7 +4060,7 @@ AID TO CIVILIAN AUTHORITIES
 
 [28/2009 wef 01/04/2010]
 
-(iii) the rank of “inspector” were references to the rank of second lieutenant or ME4 (depending on whether the holder of that rank is an officer or a senior military expert);.
+(iii) the rank of “inspector” were references to the rank of second lieutenant or ME4 (depending on whether the holder of that rank is an officer or a senior military expert);
 
 [28/2009 wef 01/04/2010]
 
@@ -4077,8 +4077,6 @@ AID TO CIVILIAN AUTHORITIES
 (ii) seize any such evidence so found, any weapon, explosive or other dangerous device or substance and any article or material or accumulation thereof capable of being used for causing hurt if he has reasonable grounds for believing that it is intended or likely to be used for the purpose of causing hurt; and
 
 (iii) seize any vehicle in which that evidence, weapon, explosive, dangerous device or substance, article or material is found.
-
-[25/2007 wef 01/08/2007]
 
 (10) In this section, “relevant event” means ––
 
@@ -4110,15 +4108,9 @@ AID TO CIVILIAN AUTHORITIES
 
 (b) under, or under the authority of, an order of a superior (referred to in this section as a superior order) to do so.
 
-[25/2007 wef 01/08/2007]
-
 (2) For the purposes of subsection (1)(a), any authorisation by the Minister includes written authorisation given in advance specifying the powers which shall be exercisable under the circumstances specified in the authorisation.
 
-[25/2007 wef 01/08/2007]
-
 (3) The Minister shall not authorise or order the taking of measures involving the use of lethal force against any person, vehicle, aircraft, vessel or facility unless the Minister is satisfied that such measures are reasonable and necessary in the circumstances, and in so doing, the Minister shall have regard to Singapore’s international obligations.
-
-[25/2007 wef 01/08/2007]
 
 (4) Subsection (1)(b) shall apply only if ––
 
@@ -4131,8 +4123,6 @@ AID TO CIVILIAN AUTHORITIES
 (d) the serviceman has no reason to believe that the superior order was based on a mistake as to a material fact; and
 
 (e) the serviceman exercises the power or gives the order to exercise the power in a manner reasonable and necessary to give effect to the superior order.
-
-[25/2007 wef 01/08/2007]
 
 (5) In this section, “superior” means the Chief of Defence Force, an officer, a warrant officer, a military expert of or above the rank of ME3 or such other serviceman as the Minister may specify in his authorisation or order.
 
@@ -4152,8 +4142,6 @@ AID TO CIVILIAN AUTHORITIES
 
 (b) subject the person to greater indignity than is reasonable and necessary in the circumstances.
 
-[25/2007 wef 01/08/2007]
-
 (2) If a person attempts to escape being detained, a serviceman shall not do anything that is likely to cause the death of, or grievous hurt to, the person unless the person has, if practicable, been called on to surrender and the serviceman believes on reasonable grounds that the person cannot be apprehended in any other manner.
 
 [25/2007 wef 01/08/2007]
@@ -4161,8 +4149,6 @@ AID TO CIVILIAN AUTHORITIES
 ### Procedure on arrest of persons, seizure of property or detention of aircraft and vessels
 
 201G\.—(1) Any person arrested or detained by a serviceman in exercise of his powers under section 201B(3) or (4) or 201C(9) shall be handed over to a police officer as soon as practicable, and section 66(3), (4) and (5) of the Criminal Procedure Code 2010 shall apply to that person as if he were handed over to the police officer under section 66(1) and (2) of that Code.
-
-[25/2007 wef 01/08/2007]
 
 [15/2010 wef 02/01/2011]
 
@@ -4174,11 +4160,7 @@ AID TO CIVILIAN AUTHORITIES
 
 (c) if paragraph (b) does not apply, return the thing or vehicle to the person from whom it was seized, or hand it to a police officer as soon as practicable.
 
-[25/2007 wef 01/08/2007]
-
 (3) Any thing or vehicle seized by a serviceman shall be dealt with in the same manner as if it were seized by a police officer under the Criminal Procedure Code (Cap. 68).
-
-[25/2007 wef 01/08/2007]
 
 (4) Where a serviceman has detained any aircraft or vessel in exercise of his powers under section 201B(3) or (4), the serviceman shall —
 
@@ -4340,11 +4322,11 @@ MISCELLANEOUS
 
 [12/98; 10/2000]
 
-[43/2004 wef 01/12/2004]
-
 (2) Except as otherwise provided by section 206(1), all payments and other benefits payable to servicemen under the SAVER Plan or the Premium Plan, and all expenses incurred in the administration of the SAVER Plan or the Premium Plan and the investment of moneys in the SAVER — Premium Fund shall be charged on and paid out of the SAVER-Premium Fund, and no other moneys shall be withdrawn from the SAVER-Premium Fund unless authorised to be withdrawn under this Act.
 
 [12/98; 10/2000]
+
+[43/2004 wef 01/12/2004]
 
 (3) There shall be paid into the SAVER-Premium Fund —
 
@@ -4440,11 +4422,7 @@ MISCELLANEOUS
 
 205D\.—(1) The Armed Forces Council may, in making any regulations under section 205(j), provide for the rank of a serviceman to be changed upon his transfer from the military domain experts service to any other uniformed service, or vice versa.
 
-[28/2009 wef 01/04/2010]
-
 (2) A change in the rank of a serviceman upon his transfer from the military domain experts service to any other uniformed service, or vice versa, shall not be treated as a reduction in the rank of the serviceman.
-
-[28/2009 wef 01/04/2010]
 
 (3) The Armed Forces Council may, in making any regulations under section 205 or 205A, provide for —
 
@@ -4520,7 +4498,7 @@ MISCELLANEOUS
 
 Sections 4, 61 and 178
 
-Specified Offences
+Specified offences
 
 Section
 
@@ -4813,6 +4791,12 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|24.|**Act 4 of 2012—Evidence (Amendment) Act 2012**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 January 2012|
+|||(Bill No. 2/2012 published on 16 January 2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 August 2012|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
