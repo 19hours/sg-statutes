@@ -74,7 +74,7 @@
 
 - [27 Inspection and testing of broadcasting apparatus](#Inspection-and-testing-of-broadcasting-apparatus)
 
-- [28 Provision of building space, etc., by owner or developer of building or land](#Provision-of-building-space-etc-by-owner-or-developer-of-building-or-land)
+- [28 Provision of building space, etc., by developer or owner of building or land](#Provision-of-building-space-etc-by-developer-or-owner-of-building-or-land)
 
 [**Part VIII FOREIGN BROADCASTING SERVICES**](#Part-VIII)
 
@@ -184,9 +184,9 @@
 
 (Original Enactment: 15 of 1994)
 
-REVISED EDITION 2003
+REVISED EDITION 2012
 
-(31st July 2003)
+(31st August 2012)
 
 An Act to regulate dealing in, the operation of and ownership in broadcasting services and broadcasting apparatus, and for matters connected therewith.
 
@@ -228,7 +228,7 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 “Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
 
-“chief executive” means the chief executive of the Authority appointed under section 28 of the Media Development Authority of Singapore Act (Cap. 172) and includes any person acting in that capacity;
+“chief executive” means the chief executive of the Authority appointed under section 28 of the Media Development Authority of Singapore Act and includes any person acting in that capacity;
 
 “class licence” means a licence determined under section 9 to be applicable to certain licensable broadcasting services, and “class licensee” shall be construed accordingly;
 
@@ -328,13 +328,9 @@ the Minister may, after consultation with a person to whom this section applies,
 
 (9) If any doubt arises as to the existence of a public emergency or as to whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
 
-[8
-
 ### Exclusion of liability of Authority for act or default of licensees
 
 4\. The Authority shall not be liable in respect of any injury, loss or damage suffered by any person by reason of any act, default, neglect or otherwise of any licensee or of any agent or employee of the licensee.
-
-[16
 
 ## PART III
 
@@ -350,8 +346,6 @@ LICENSING SCHEME
 
 (2) The Authority shall grant licences under subsection (1) in such categories as the Authority may determine are appropriate for the regulation of the broadcasting industry.
 
-[17
-
 ### Codes of Practice
 
 6\.—(1) The Authority may issue and from time to time review —
@@ -364,15 +358,11 @@ LICENSING SCHEME
 
 (3) The Authority may in any licence exempt any licensee from any provision in a Code of Practice generally or for such time as the Authority may specify.
 
-[18
-
 ### Restriction on transfer of licences
 
 7\.—(1) No licence shall be transferable to any other person without the prior consent in writing of the Authority to the transfer to that person.
 
 (2) Any purported transfer of any licence shall for all purposes be void and of no effect.
-
-[19
 
 ## PART IV
 
@@ -408,8 +398,6 @@ BROADCASTING SERVICES
 
 (h) conditions imposing controls and restrictions, directly or indirectly, on the creation, holding or disposal of shares in the licensee or its shareholders or interests in the undertaking of the licensee or any part thereof.
 
-[20
-
 [19/2002]
 
 ### Class licences
@@ -425,8 +413,6 @@ BROADCASTING SERVICES
 (b) different types of such services.
 
 (4) Without limiting the conditions that may be imposed, the Authority may impose a condition on a class licence requiring the licensee to comply with a Code of Practice that is applicable to the licensee or designed to ensure that a breach of a condition of the class licence by the licensee does not recur.
-
-[21
 
 ### Modification of broadcasting licence conditions
 
@@ -456,8 +442,6 @@ and, in either event, shall thereupon issue a direction in writing to the broadc
 
 (6) If no written representation is received by the Authority within the time specified in subsection (2) or if any written representation made under that subsection is withdrawn, the Authority may immediately carry out the modification as specified in the notice given under that subsection.
 
-[22
-
 ### Modification of class licence conditions
 
 11\. The Authority may, by notification published in theGazette—
@@ -465,8 +449,6 @@ and, in either event, shall thereupon issue a direction in writing to the broadc
 (a) modify the conditions specified in any class licence; or
 
 (b) specify additional conditions of any class licence.
-
-[23
 
 ### Suspension or cancellation of broadcasting licence, etc.
 
@@ -490,8 +472,6 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 (3) In this section, “Code of Practice” includes a code of practice issued under the Media Development Authority of Singapore Act (Cap. 172).
 
-[24
-
 [34/2002]
 
 ### Compliance with Codes of Practice, etc.
@@ -500,15 +480,11 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 (2) No broadcasting licensee shall allow to be transmitted a broadcasting service other than in accordance with any broadcast standards specified in any regulations or Code of Practice or any condition which may be incorporated in its broadcasting licence.
 
-[25
-
 ### Free-to-air broadcasting services
 
 14\.—(1) A free-to-air licensee shall provide broadcasting services in such language as may be specified in its licence.
 
 (2) Each free-to-air broadcasting service shall be broadcast for not less than such number of hours during each day as may be specified in the free-to-air licence.
-
-[26
 
 ### Submission of broadcasting material to Authority
 
@@ -522,8 +498,6 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 (3) The Authority may, if it is satisfied that any programme intended to be broadcast by a broadcasting licensee may be against the public interest or order, national harmony or will offend against decency, require the broadcasting licensee to pre-record the programme and submit it to the Authority for approval before it is broadcast.
 
-[27
-
 ### Directions of Authority
 
 16\.—(1) The Authority may issue directions in writing to a broadcasting licensee requiring the licensee to take such action with regard to the contents of programmes or advertisements or to broadcast standards as the Authority considers necessary in order to comply with the provisions of this Act, any relevant Code of Practice and any condition attached to the broadcasting licence.
@@ -531,8 +505,6 @@ the Authority may, by notice in writing and without any compensation, do either 
 (2) Directions issued under subsection (1) may include a direction prohibiting a broadcasting licensee from broadcasting the whole or any part of a programme or of any class of material.
 
 (3) Any broadcasting licensee and any other person responsible for the broadcasting of any programme prohibited by a direction issued under subsection (1) shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[28
 
 ### Public service broadcasting services
 
@@ -546,15 +518,11 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 (d) drama and sports programmes produced in Singapore.
 
-[29
-
 ### General requirements in respect of public service programmes
 
 18\.—(1) Programmes required under section 17 or pursuant to a condition attached to a broadcasting licence to be broadcast by a broadcasting licensee shall be broadcast without charge to the Authority or with such subsidy from the Authority as may be provided in that broadcasting licence.
 
 (2) A broadcasting licensee shall, on the request of the Authority and on receipt of reasonable notice, make available to the Authority without charge such part of its broadcasting apparatus as the Authority may specify for the purpose of broadcasting programmes required to be broadcast under section 17 or pursuant to a condition attached to its broadcasting licence.
-
-[30
 
 ### “Must carry” provision
 
@@ -590,8 +558,6 @@ and in either event, shall thereupon issue a direction in writing to the broadca
 
 (7) If no written representation is received by the Authority within the time specified in subsection (3) or if any written representation made under that subsection is withdrawn, the Authority may immediately give effect to the requirements of the direction given under this section.
 
-[31
-
 ## PART V
 
 BROADCASTING APPARATUS
@@ -614,13 +580,9 @@ except under and in accordance with a licence granted under this section.
 
 (4) The Authority may exempt any person or broadcasting apparatus or class of broadcasting apparatus from subsection (1).
 
-[32
-
 ### Application of certain provisions of Act to broadcasting apparatus licences
 
 21\. Sections 10, 12 and 16 shall apply, with the necessary modifications, to broadcasting apparatus licences and broadcasting apparatus licensees.
-
-[33
 
 ## PART VI
 
@@ -642,8 +604,6 @@ FREQUENCY PLANNING
 
 (f) such other matters as the Authority or the Info-communications Development Authority of Singapore considers appropriate.
 
-[34
-
 [41/99]
 
 ### Re-assignment of frequencies
@@ -654,13 +614,9 @@ FREQUENCY PLANNING
 
 (2) The Authority may re-assign to any person the frequencies in the electromagnetic spectrum and satellite orbits assigned under subsection (1) in accordance with this Act.
 
-[35
-
 ### Separate licence for use of frequency not required
 
 24\. Notwithstanding anything in the Telecommunications Act (Cap. 323), if a licensee is granted a broadcasting licence under this Act and the licence includes the right for the licensee to use any specified frequency in the electromagnetic spectrum or satellite orbits for the broadcast, or the transmission of one or more broadcasting services, then the licensee shall not be required to obtain any other licence under this Act or the Telecommunications Act in respect of the use of such frequency or satellite orbits for the period for which that broadcasting licence is in force and for the purposes permitted by that licence.
-
-[36
 
 [41/99]
 
@@ -674,17 +630,19 @@ BROADCASTING CONDITIONS
 
 (2) If the Authority so directs, a free-to-air licensee shall publish, in such manner as the Authority may require, notification of the commencement dates for broadcasting its broadcasting services and the areas of Singapore within which its broadcasting services may be received satisfactorily.
 
-[37
-
 ### Sharing of facilities
 
 26\.—(1) The Authority may direct any broadcasting licensee or broadcasting apparatus licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any other licensee or any other person specified by the Authority in the use or sharing of any broadcasting apparatus or related equipment or facility (other than a telecommunication system licensed under section 5 of the Telecommunications Act (Cap. 323)) owned, operated or used by the broadcasting licensee or broadcasting apparatus licensee for the purpose of broadcasting, whether or not they have been provided, or are intended to be provided, by the licensee or any other licensee or any other person specified by the Authority.
 
+[10/2005]
+
 (2) The Authority may direct any broadcasting licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any telecommunication licensee in the use or sharing of any installation, plant or system, or part thereof owned or used by the telecommunication licensee, where the Authority is of the view that such co-ordination and co-operation is necessary for the provision of any broadcasting service.
+
+[10/2005]
 
 (3) In this section, “telecommunication licensee” and “telecommunication system” have the same meanings as in section 2 of the Telecommunications Act.
 
-[10/2005 wef 16/02/2005]
+[10/2005]
 
 ### Inspection and testing of broadcasting apparatus
 
@@ -698,9 +656,7 @@ BROADCASTING CONDITIONS
 
 (c) answer directly and truthfully any question put to them by the Authority or such authorised person.
 
-[39
-
-### Provision of building space, etc., by owner or developer of building or land
+### Provision of building space, etc., by developer or owner of building or land
 
 28\.—(1) Where the Authority considers it necessary that any licensable broadcasting service should be provided to any building and is of the opinion that any broadcasting apparatus or installation or plant to be used in providing the service has to be installed within the building or any land, the Authority may by direction require the developer or owner of the building or land to provide, within such period as may be specified in the direction, such broadcasting apparatus, installation or plant or space, of a standard acceptable to the Authority, within or on the building or land and access thereto as the Authority may require.
 
@@ -718,8 +674,6 @@ BROADCASTING CONDITIONS
 
 (6) In this section, “installation or plant” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with broadcasting.
 
-[40
-
 ## PART VIII
 
 FOREIGN BROADCASTING SERVICES
@@ -733,8 +687,6 @@ FOREIGN BROADCASTING SERVICES
 (3) The Authority shall not consider a foreign broadcasting service to be unacceptable for the purposes of subsection (2) unless the Authority is satisfied that the content of that service included any matter which prejudices the public interest or order, national harmony or offends against good taste or decency.
 
 (4) In this section and section 30, “foreign broadcasting service” means a broadcasting service which transmits from a place outside Singapore broadcasting services which are capable of being received in Singapore.
-
-[41
 
 ### Offence of supporting proscribed foreign broadcasting services
 
@@ -761,8 +713,6 @@ FOREIGN BROADCASTING SERVICES
 (4) Any equipment and goods used in the commission of an offence under this section shall be liable to be forfeited to the Government.
 
 (5) For the purposes of this section, a person exposing decoding equipment for supply or having such equipment in his possession for supply shall be deemed to offer to supply it.
-
-[42
 
 ## PART IX
 
@@ -816,8 +766,6 @@ DECLARED FOREIGN BROADCASTING SERVICES
 
 “relevant licensable broadcasting service” means a licensable broadcasting service specified in the first column of the Third Schedule provided by a person specified adjacent thereto in the second column of that Schedule.
 
-[42A
-
 [18/2001]
 
 ## PART X
@@ -827,6 +775,8 @@ OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 ### Application of this Part to broadcasting company
 
 32\.—(1) This Part shall apply to every broadcasting company unless exempted by the Minister under section 60(b).
+
+[19/2002]
 
 (2) In this Part —
 
@@ -846,15 +796,13 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 (c) such other broadcasting licence as the Minister may from time to time specify in the public interest or in the interests of public security or order, or national defence.
 
-[43
-
 [19/2002]
 
 ### Special features of broadcasting company
 
-33\.—(1) No broadcasting company shall, on or after 2nd September 2002\*, appoint a person as its chief executive officer or director, or as the chairman of its board of directors, unless it has obtained the approval of the Authority.
+33\.—(1) No broadcasting company shall, on or after 2nd September 20021, appoint a person as its chief executive officer or director, or as the chairman of its board of directors, unless it has obtained the approval of the Authority.
 
-\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+1Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 [19/2002]
 
@@ -894,8 +842,6 @@ and includes any person for the time being performing all or any of the function
 
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
 
-[44
-
 [19/2002]
 
 ### Application and interpretation of this section and sections 35 to 42
@@ -910,19 +856,17 @@ and includes any person for the time being performing all or any of the function
 
 “share” includes stock except where a distinction between stock and shares is expressed or implied;
 
-“substantial shareholder” has the same meaning as in section 81 of the Companies Act;
+“substantial shareholder” has the same meaning as in section 81 of the Companies Act (Cap. 50);
 
-“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
-
-[45
+“voting share” has the same meaning as in section 4(1) of the Companies Act.
 
 [19/2002]
 
 ### Control of substantial shareholdings in broadcasting companies
 
-35\.—(1) No person shall, on or after 2nd September 2002\*, become a substantial shareholder of a broadcasting company without first obtaining the approval of the Minister.
+35\.—(1) No person shall, on or after 2nd September 20022, become a substantial shareholder of a broadcasting company without first obtaining the approval of the Minister.
 
-\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+2Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 [19/2002]
 
@@ -932,7 +876,7 @@ and includes any person for the time being performing all or any of the function
 
 (3) No person shall, on or after 2nd September 2002, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the total votes attached to all voting shares in a broadcasting company without first obtaining the approval of the Minister.
 
-[19/2002]
+[19/2002; 21/2005]
 
 (4) Subject to section 37(4), no person who, at any time before 2nd September 2002, has entered into any agreement or arrangement referred to in subsection (3) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after 2nd September 2002 or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
 
@@ -940,19 +884,17 @@ and includes any person for the time being performing all or any of the function
 
 (5) For the purposes of this section, a person has an interest in any share if —
 
-(a) he is deemed to have an interest in that share under section 7 of the Companies Act; or
+(a) he is deemed to have an interest in that share under section 7 of the Companies Act (Cap. 50); or
 
-(b) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7 of the Companies Act (Cap. 50).
-
-[45A
+(b) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7 of the Companies Act.
 
 [19/2002]
 
 ### Control of shareholdings and voting power in broadcasting companies
 
-36\.—(1) No person shall, on or after 2nd September 2002\*, become –
+36\.—(1) No person shall, on or after 2nd September 20023, become —
 
-\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+3Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 (a) a 12% controller; or
 
@@ -984,35 +926,35 @@ of a broadcasting company shall continue to be such a controller unless he has, 
 
 (a) a person holds a share if —
 
-(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act; or
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
 
 (ii) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
 
 (b) a reference to the control of a percentage of the voting power in a broadcasting company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the broadcasting company; and
 
-(c) a person, A, is an associate of another person, B, if —
+(c) a person,A, is an associate of another person,B, if —
 
-(i) A is the spouse or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step- daughter or remoter issue, or a brother or sister, of B;
+(i) Ais the spouse or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step-daughter or remoter issue, or a brother or sister, ofB;
 
-(ii) A is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B, or where B is a corporation, of the directors of B;
+(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
 
-(iii) B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A, or where A is a corporation, of the directors of A;
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
 
-(iv) A is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) B is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A;
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
 
-(vi) A is a related corporation of B;
+(vi) Ais a related corporation ofB;
 
-(vii) A is a corporation in which B, alone or together with other associates of B as described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in A;
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
 
-(viii) B is a corporation in which A, alone or together with other associates of A as described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in B; or
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
 
-(ix) A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the broadcasting company.
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the broadcasting company.
 
 [19/2002]
 
-(5) In subsections (1) (b) and (2) (b), “indirect controller” means any person, whether acting alone or together with any other person and whether with or without holding shares or controlling voting power in a broadcasting company —
+(5) In subsections (1)(b) and (2)(b), “indirect controller” means any person, whether acting alone or together with any other person and whether with or without holding shares or controlling voting power in a broadcasting company —
 
 (a) in accordance with whose directions, instructions or wishes the directors of the broadcasting company are accustomed or under an obligation, whether formal or informal, to act; or
 
@@ -1023,8 +965,6 @@ but does not include any person —
 (i) who is a director or other officer of the broadcasting company whose appointment has been approved by the Authority; or
 
 (ii) in accordance with whose directions, instructions or wishes the directors of the broadcasting company are accustomed to act by reason only that they act on advice given by the person in his professional capacity.
-
-[45B
 
 [19/2002]
 
@@ -1066,15 +1006,11 @@ but does not include any person —
 
 as the case may be.
 
-[45C
-
 [19/2002]
 
 ### Power to make further transitional provisions
 
 38\. The Minister may, by order published in theGazette, make such further transitional provisions as he considers necessary or expedient for the purposes of section 35, 36 or 37.
-
-[45D
 
 [19/2002]
 
@@ -1114,8 +1050,6 @@ as the case may be.
 
 (5) Any person served with a written notice of objection under this section shall comply with the notice.
 
-[45E
-
 [19/2002]
 
 ### Power to make directions
@@ -1147,8 +1081,6 @@ until a transfer or disposal is effected in accordance with the direction or unt
 [19/2002]
 
 (4) In this section, “associate” has the same meaning as in section 36(4)(c).
-
-[45F
 
 [19/2002]
 
@@ -1182,8 +1114,6 @@ until a transfer or disposal is effected in accordance with the direction or unt
 
 (5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 35 or 36 to prove that he did not intend to or did not knowingly contravene section 35 or 36, as the case may be.
 
-[45G
-
 [19/2002]
 
 ### Power to obtain information
@@ -1216,8 +1146,6 @@ and the person shall comply with that notice within such time as may be specifie
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-[45H
-
 [19/2002]
 
 ### Funds from foreign source for purposes of certain broadcasting service
@@ -1246,9 +1174,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the government of a country outside Singapore or the agent of any such government, whether resident in Singapore or otherwise;
 
-(b) any company, association or society incorporated or constituted under any law in force outside Singapore whether or not it has a branch office or place of business in Singapore;
+(b) any company, association or society incorporated or constituted under any law in force outside Singapore, whether or not it has a branch office or place of business in Singapore;
 
-(c) any person who is not a citizen of Singapore whether or not he is resident in Singapore;
+(c) any person who is not a citizen of Singapore, whether or not he is resident in Singapore;
 
 (d) any —
 
@@ -1263,8 +1191,6 @@ as the Minister may, by notification in theGazette, declare to be a foreign sour
 “fund” means money, securities, movable or immovable property or other valuable consideration;
 
 “fund from a foreign source”, with its grammatical variations, includes any fund provided by a foreign source indirectly through any agent of the foreign source.
-
-[46
 
 [19/2002]
 
@@ -1288,9 +1214,9 @@ any foreign source, whether acting alone or together with one or more other fore
 
 [19/2002]
 
-(2) Where the Minister does not grant his approval under subsection (1) for a company to hold a relevant licence (whether such licence is granted before, on or after 2nd September 2002\*), the Authority shall, within such time and in such manner as the Minister may specify, cancel the licence by notice in writing and without any compensation.
+(2) Where the Minister does not grant his approval under subsection (1) for a company to hold a relevant licence (whether such licence is granted before, on or after 2nd September 20024), the Authority shall, within such time and in such manner as the Minister may specify, cancel the licence by notice in writing and without any compensation.
 
-\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+4Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 [19/2002]
 
@@ -1304,15 +1230,11 @@ any foreign source, whether acting alone or together with one or more other fore
 
 (b) a reference to the control of a percentage of the voting power in a broadcasting company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the broadcasting company.
 
-[47
-
 [19/2002]
 
 ### Appeal under this Part
 
 45\. Any person aggrieved by any refusal of the Authority to grant its approval or consent under any provision of this Part may appeal to the Minister whose decision shall be final.
-
-[48
 
 ## PART XI
 
@@ -1322,23 +1244,27 @@ OFFENCES AND PENALTIES
 
 46\. Any person who contravenes section 8(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
-[59
-
 ### Offences relating to installation, sale, import or possession of broadcasting apparatus
 
 47\. Any person who contravenes section 20(1)(a), (b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both, and any broadcasting apparatus installed or found in the possession of the person so convicted shall be forfeited to the Authority.
-
-[60
 
 ### Offences relating to unauthorised decoders and unauthorised reception of encrypted programmes
 
 48\.—(1) No person shall manufacture, assemble, modify, import, export, sell, offer for sale, let for hire or otherwise distribute any decoder which he knows is an unauthorised decoder.
 
+[55/2004]
+
 (2) No person shall wilfully receive or rebroadcast any encrypted programme which has been decoded without the authorisation of the lawful provider of a broadcasting service who had broadcast the programme.
+
+[55/2004]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both, and any unauthorised decoder shall be forfeited to the Authority.
 
+[55/2004]
+
 (4) Where it is proved that a person has manufactured, assembled, modified, imported, exported, sold, offered for sale, let for hire or otherwise distributed any unauthorised decoder, it shall be presumed, unless there is evidence to the contrary, that the person knew that the decoder was an unauthorised decoder.
+
+[55/2004]
 
 (5) In this section and section 48A —
 
@@ -1352,7 +1278,7 @@ OFFENCES AND PENALTIES
 
 “unauthorised decoder” means a decoder which is designed or adapted to enable an encrypted programme to be viewed in decoded form without the authorisation of the lawful provider of a broadcasting service who had broadcast the programme.
 
-[55/2004 wef 01/01/2005]
+[55/2004]
 
 ### Civil action in relation to unauthorised decoders and decoded programmes
 
@@ -1366,6 +1292,8 @@ OFFENCES AND PENALTIES
 
 the lawful provider of the broadcasting service or the owner of the copyright in the programme, as the case may be, may bring a civil action against the person referred to in paragraph (a).
 
+[55/2004]
+
 (2) Where —
 
 (a) a person does an act referred to in section 48(2) in relation to an encrypted programme that has been decoded without the authorisation of the lawful provider of a broadcasting service who had broadcast the programme; and
@@ -1374,15 +1302,15 @@ the lawful provider of the broadcasting service or the owner of the copyright in
 
 the lawful provider of the broadcasting service or the owner of the copyright in the programme, as the case may be, may bring a civil action against the person referred to in paragraph (a).
 
+[55/2004]
+
 (3) An action shall not be brought under subsection (1) or (2) after the expiration of 6 years from the time the relevant act under section 48(1) or (2), as the case may be, took place.
 
-[55/2004 wef 01/01/2005]
+[55/2004]
 
 ### Offence of hindering employee or agent of Authority
 
 49\. Any person who obstructs or hinders any employee or agent of the Authority acting in the discharge of his duty under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-[62
 
 ### Power of Authority to requisition information
 
@@ -1399,8 +1327,6 @@ the lawful provider of the broadcasting service or the owner of the copyright in
 shall be guilty of an offence.
 
 (4) Any person guilty of an offence under subsection (2) or (3) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[63
 
 ### Power of police officer and other authorised persons against unlicensed broadcasting service or apparatus
 
@@ -1422,41 +1348,33 @@ enter and inspect any premises and seize any broadcasting apparatus found therei
 
 (5) The District Court or the Magistrate’s Court may proceed to the examination of the matter and upon examination shall order that the broadcasting apparatus be forfeited or released.
 
-[64
-
 ### Power of arrest and search
 
 52\.—(1) The chief executive or any employee of the Authority authorised by him to act under this section may arrest without warrant —
 
-(a) any person found committing or attempting to commit or employing or aiding any person to commit a seizable offence under this Act; or
+(a) any person found committing or attempting to commit or employing or aiding any person to commit an arrestable offence under this Act; or
 
-(b) any person against whom a reasonable suspicion exists that he has been guilty of a seizable offence under this Act,
+(b) any person against whom a reasonable suspicion exists that he has been guilty of an arrestable offence under this Act,
 
 and may search any person so arrested, except that no female shall be searched except by a female.
 
 (2) Every person so arrested shall, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.
 
-(3) For the purposes of this section, offences punishable under sections 30, 46, 47 and 48 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[65
+(3) For the purposes of this section, offences punishable under sections 30, 46, 47 and 48 shall be deemed to be arrestable offences within the meaning of the Criminal Procedure Code (Cap. 68).
 
 ### No entitlement to costs or damages
 
 53\. No person shall, in any proceedings before any court in respect of any apparatus, equipment, article, book or document seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the apparatus, equipment, article, book or document or the payment of their value unless the seizure was made without reasonable or probable cause.
 
-[66
-
 ### Offence against other laws
 
 54\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under that law, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act, but no person shall be punished twice for the same offence.
-
-[67
 
 ### Conduct of proceedings by officers
 
 55\. Proceedings in respect of any offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
 
-[68
+[15/2010]
 
 ### Corporate offenders and unincorporated associations
 
@@ -1480,7 +1398,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 [19/2002]
 
-(6) Without prejudice to the generality of section 66, the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a country or territory outside Singapore.
+(6) Without prejudice to the generality of section 66, the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or an unincorporated association formed or recognised under the law of a country or territory outside Singapore.
 
 [19/2002]
 
@@ -1488,13 +1406,11 @@ and may search any person so arrested, except that no female shall be searched e
 
 “officer” —
 
-(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; or
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the unincorporated association and includes persons holding positions analogous to those of president, secretary or member of such a committee;
 
 “partner” includes a person purporting to act as a partner.
-
-[69
 
 [19/2002]
 
@@ -1506,13 +1422,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 (3) All sums collected under this section shall be paid to the Authority.
 
-[70
-
 ### Jurisdiction of court
 
 58\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
-
-[71
 
 ## PART XII
 
@@ -1534,8 +1446,6 @@ may appeal to the Minister.
 
 (4) The decision of the Minister in any appeal shall be final.
 
-[72
-
 ### Exemption
 
 60\. The Minister may, subject to such terms and conditions as he may impose, by order published in theGazette, exempt —
@@ -1544,8 +1454,6 @@ may appeal to the Minister.
 
 (b) any person or class of persons from all or any of the provisions of this Act or any subsidiary legislation made thereunder.
 
-[73
-
 [19/2002]
 
 ### Equipment of licensee not subject to distress, etc.
@@ -1553,8 +1461,6 @@ may appeal to the Minister.
 61\.—(1) No equipment or related facility of a licensee used for providing, transmitting or delivering licensable broadcasting services shall be subject to distress or be liable to be taken in execution under any process of a court in any bankruptcy or insolvency proceedings by any person without the prior approval of the Minister in writing.
 
 (2) This section shall not apply to any class licensee.
-
-[74
 
 ### International dealings of Authority
 
@@ -1566,15 +1472,11 @@ may appeal to the Minister.
 
 (c) any other purpose necessary for the proper fulfilment of its functions under this Act.
 
-[75
-
 ### Government’s right to determine international relations
 
 63\.—(1) Nothing in section 62 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation.
 
 (2) The Authority and each broadcasting licensee shall so discharge their responsibilities and conduct their business as to comply with and fulfil all international agreements, conventions or undertakings relating to broadcasting to which Singapore is a party.
-
-[76
 
 ### Service of notice, etc.
 
@@ -1596,8 +1498,6 @@ may appeal to the Minister.
 
 (2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the same it shall be sufficient to prove that the envelope containing the notice, order, document or summons was properly addressed, stamped and posted by registered post.
 
-[77
-
 ### Amendment of First, Second and Third Schedules
 
 65\.—(1) The Minister may, by notification in theGazette, at any time amend the First, Second or Third Schedule.
@@ -1605,8 +1505,6 @@ may appeal to the Minister.
 [18/2001]
 
 (2) The Minister may, in any notification made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
-
-[78
 
 ### Regulations
 
@@ -1616,13 +1514,11 @@ may appeal to the Minister.
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to the purposes of this Act.
 
-[79
-
 ### References in other written laws and documents
 
-67\. Insofar as it is necessary for preserving the effect of any written law or document on or after 1st January 2003†—
+67\. Insofar as it is necessary for preserving the effect of any written law or document on or after 1st January 20035—
 
-†Date of commencement of the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
+5Date of commencement of the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
 
 (a) a reference therein to the Singapore Broadcasting Authority Act (Cap. 297, 1995 Ed.) shall be read as a reference to the Broadcasting Act; and
 
@@ -1632,9 +1528,9 @@ may appeal to the Minister.
 
 ### Transitional and savings provisions
 
-68\.—(1) All acts done by the Singapore Broadcasting Authority before 1st January 2003†shall continue to remain valid and applicable as though done by the Authority, until such time as invalidated, revoked, cancelled or otherwise determined by the Authority.
+68\.—(1) All acts done by the Singapore Broadcasting Authority before 1st January 20035shall continue to remain valid and applicable as though done by the Authority, until such time as invalidated, revoked, cancelled or otherwise determined by the Authority.
 
-†Date of commencement of the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
+5Date of commencement of the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
 
 [34/2002]
 
@@ -1646,11 +1542,11 @@ may appeal to the Minister.
 
 [34/2002]
 
-(4) Notwithstanding the repeal of Part XI of the Singapore Broadcasting Authority Act (Cap. 297, 1995 Ed.), as from 1st January 2003, sections 49 to 53 of that Act shall continue in force and to apply to the broadcasting successor companies mentioned in those sections as if that Part has not been repealed.
+(4) Notwithstanding the repeal of Part XI of the Singapore Broadcasting Authority Act, as from 1st January 2003, sections 49 to 53 of that Act shall continue in force and to apply to the broadcasting successor companies mentioned in those sections as if that Part has not been repealed.
 
 [34/2002]
 
-(5) In this section, “broadcasting successor companies” means companies nominated by the Minister for the purposes of the repealed section 49 of the Singapore Broadcasting Authority Act (Cap. 297, 1995 Ed.).
+(5) In this section, “broadcasting successor companies” means companies nominated by the Minister for the purposes of the repealed section 49 of the Singapore Broadcasting Authority Act.
 
 FIRST SCHEDULE
 
@@ -1670,45 +1566,85 @@ Section 2(1)
 
 Licensable Broadcasting Services
 
-1\. Free-to-air nationwide television services.
+1. 
 
-2\. Free-to-air localised television services.
+Free-to-air nationwide television services.
 
-3\. Free-to-air international television services.
+2. 
 
-4\. Subscription nationwide television services.
+Free-to-air localised television services.
 
-5\. Subscription localised television services.
+3. 
 
-6\. Subscription international television services.
+Free-to-air international television services.
 
-7\. Special interest television services.
+4. 
 
-8\. Free-to-air nationwide radio services.
+Subscription nationwide television services.
 
-9\. Free-to-air localised radio services.
+5. 
 
-10\. Free-to-air international radio services.
+Subscription localised television services.
 
-11\. Subscription nationwide radio services.
+6. 
 
-12\. Subscription localised radio services.
+Subscription international television services.
 
-13\. Subscription international radio services.
+7. 
 
-14\. Special interest radio services.
+Special interest television services.
 
-15\. Audiotext services.
+8. 
 
-16\. Videotext services.
+Free-to-air nationwide radio services.
 
-17\. Teletext services.
+9. 
 
-18\. Video-on-demand services.
+Free-to-air localised radio services.
 
-19\. Broadcast data services.
+10. 
 
-20. Computer on-line services.
+Free-to-air international radio services.
+
+11. 
+
+Subscription nationwide radio services.
+
+12. 
+
+Subscription localised radio services.
+
+13. 
+
+Subscription international radio services.
+
+14. 
+
+Special interest radio services.
+
+15. 
+
+Audiotext services.
+
+16. 
+
+Videotext services.
+
+17. 
+
+Teletext services.
+
+18. 
+
+Video-on-demand services.
+
+19. 
+
+Broadcast data services.
+
+20. 
+
+Computer on-line services.
 
 For the purposes of this Schedule, a delivery system shall not, by reason only that facilities or expertise are provided for the delivery of any broadcasting service, be deemed to be a licensable broadcasting service.
 
@@ -1728,13 +1664,19 @@ Licensable broadcasting service
 
 Provider
 
-1. Subscription nationwide television service
+1.
 
-(a) StarHub Cable Vision Ltd.
+Subscription nationwide television service
 
-(b) SingNet Pte. Ltd.
+(a)
 
-[S 559/2010 wef 01/10/2010]
+StarHub Cable Vision Ltd.
+
+(b)
+
+SingNet Pte. Ltd.
+
+[S 559/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -1742,9 +1684,7 @@ Broadcasting Act
 
 (CHAPTER 28)
 
-(Formerly known as the Singapore Broadcasing Authority Act (Cap. 297, 1995 Ed.)
-
-This Legislative History is provided for the convenience of users of the Broadcasting Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Broadcasting Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1780,9 +1720,6 @@ This Legislative History is provided for the convenience of users of the Broadca
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (except item (18) of Schedule)|
-
-|
-29 July 2002 (Item (18) of the Schedule)|
 |8.|**Act 19 of 2002—Singapore Broadcasting Authority (Amendment) Act 2002**|
 ||Date of First Reading|23 May 2002|
 |||(Bill No. 19/2002 published on 24 May 2002)|
@@ -1820,21 +1757,23 @@ This Legislative History is provided for the convenience of users of the Broadca
 |||(Bill No. 11/2010) published on 26 April 2010)|
 ||Date of Second and Third Reading|19 May 2010|
 ||Date of commencement|2 January 2011|
+|17.|**2012 Revised Edition—Broadcasting Act (Chapter 28)**|
+||Date of operation|31 August 2012|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
 
 (CHAPTER 28)
 
-(Formerly known as the Singapore Broadcasting Authority Act (Cap. 297, 1995 Ed.))
+(Formerly known as the Singapore Broadcasing Authority Act (Cap. 297, 1995 Ed.))
 
-The following provisions in the 1995 Revised Edition of the Singapore Broadcasting Authority Act have been renumbered by the Law Revision Commissioners in this 2003 Revised Edition.
+The following provisions in the 1995 Revised Edition of the Singapore Broadcasting Authority Act were renumbered by the Law Revision Commissioners in the 2003 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Broadcasting Act.
 
-2003 Ed.
+2003 Ed\. 
 
-1995 Ed.
+1995 Ed\. 
 
 —
 
@@ -1856,7 +1795,7 @@ PART III – PROVISIONS RELATING TO AUTHORITY
 
 —
 
-9-15 (Repealed by Act 34/2002)
+9 -15 (Repealed by Act 34/2002)
 
 4 
 
@@ -2061,7 +2000,7 @@ PART X — OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 —
 
 PART XI – TRANSFER OF UNDERTAKING
-(sections 49 – 58)
+(sections 49–58)
 (Repealed by Act 34/2002)
 
 PART XI — OFFENCES AND PENALTIES
@@ -2166,11 +2105,12 @@ Taken from “References in other written laws and documents” (section 67 of A
 
 68 —(1) to (4)
 
-Taken from “Transitional and Savings Provisions” (section 69 of Act 34/2002)
+Taken from “Transitional and Savings Provisions”
+(section 69 of Act 34/2002)
 
 (5)
 
-S 2 (1) Definition of “broadcasting successor companies”
+S 2(1) Definition of “broadcasting successor companies”
 
 —
 
