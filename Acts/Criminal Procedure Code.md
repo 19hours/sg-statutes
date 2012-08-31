@@ -1,16 +1,14 @@
-**Criminal Procedure Code 2010**
+**Criminal Procedure Code**
 
-**(No. 15 of 2010)**
+**(CHAPTER 68)**
 
 **Table of Contents**
 
 [**Long Title**](#Criminal-Procedure-Code)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -76,7 +74,7 @@
 
 - [28 When search warrant issued to person other than police officer](#When-search-warrant-issued-to-person-other-than-police-officer)
 
-- [29 Reinstatement of registration](#Reinstatement-of-registration)
+- [29 Execution of search warrant](#Execution-of-search-warrant)
 
 - [30 Search for person wrongfully confined](#Search-for-person-wrongfully-confined)
 
@@ -508,7 +506,7 @@
 
 - [217 Contents of Case for the Defence](#Contents-of-Case-for-the-Defence)
 
-- [218 Time for service of other statements and exhibits](#Time-for-service-of-other-statements-and-exhibits)
+- [218 Time for service of other statements, etc.](#Time-for-service-of-other-statements-etc)
 
 - [219 Fixing dates for trial](#Fixing-dates-for-trial)
 
@@ -548,7 +546,7 @@
 
 - [231 Notice required to call witness or produce exhibits not disclosed in Case for the Prosecution or Case for the Defence](#Notice-required-to-call-witness-or-produce-exhibits-not-disclosed-in-Case-for-the-Prosecution-or-Case-for-the-Defence)
 
-- [232 Public Prosecutor may decline further to prosecute at any stage of trial](#Public-Prosecutor-may-decline-further-to-prosecute-at-any-stage-of-trial)
+- [232 Public Prosecutor may decline to further prosecute at any stage of trial](#Public-Prosecutor-may-decline-to-further-prosecute-at-any-stage-of-trial)
 
 - [233 Evidence to be taken in presence of accused](#Evidence-to-be-taken-in-presence-of-accused)
 
@@ -604,11 +602,11 @@
 
 - [253 Visiting of prisoners of unsound mind](#Visiting-of-prisoners-of-unsound-mind)
 
-- [254 Procedure when person of unsound mind is reported able to make defence](#Procedure-when-person-of-unsound-mind-is-reported-able-to-make-defence)
+- [254 Procedure when person of unsound mind reported able to make defence](#Procedure-when-person-of-unsound-mind-reported-able-to-make-defence)
 
 - [255 Delivery of person of unsound mind to care of relative](#Delivery-of-person-of-unsound-mind-to-care-of-relative)
 
-- [256 Procedure when person of unsound mind is reported fit for discharge](#Procedure-when-person-of-unsound-mind-is-reported-fit-for-discharge)
+- [256 Procedure when person of unsound mind reported fit for discharge](#Procedure-when-person-of-unsound-mind-reported-fit-for-discharge)
 
 [**Part XIV EVIDENCE AND WITNESSES**](#Part-XIV)
 
@@ -730,7 +728,7 @@
 
 - [307 Consecutive sentences in certain cases](#Consecutive-sentences-in-certain-cases)
 
-- [308 Limit of punishment of offence which is made up of several offences](#Limit-of-punishment-of-offence-which-is-made-up-of-several-offences)
+- [308 Limit of punishment for offence made up of several offences](#Limit-of-punishment-for-offence-made-up-of-several-offences)
 
 - [309 Police supervision](#Police-supervision)
 
@@ -846,7 +844,7 @@
 
 - [361 Costs recoverable as judgment debt](#Costs-recoverable-as-judgment-debt)
 
-- [362 Reward for unusual exertions and compensation for family of person killed or injured in arresting](#Reward-for-unusual-exertions-and-compensation-for-family-of-person-killed-or-injured-in-arresting)
+- [362 Reward for unusual exertions and compensation for family of person killed in arresting](#Reward-for-unusual-exertions-and-compensation-for-family-of-person-killed-in-arresting)
 
 - [363 Court may order payment of expenses of witnesses](#Court-may-order-payment-of-expenses-of-witnesses)
 
@@ -1002,9 +1000,7 @@
 
 - [428 Minister to make regulations](#Minister-to-make-regulations)
 
-- [429 Repeal, savings and transitional provisions](#Repeal-savings-and-transitional-provisions)
-
-- [430 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
+- [429 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
 [**FIRST SCHEDULE Tabular statement of offences under the Penal Code**](#FIRST-SCHEDULE-Tabular-statement-of-offences-under-the-Penal-Code)
 
@@ -1016,51 +1012,29 @@
 
 [**FIFTH SCHEDULE Types of work**](#FIFTH-SCHEDULE-Types-of-work)
 
-[**SIXTH SCHEDULE Consequential and related amendments to other written laws**](#SIXTH-SCHEDULE-Consequential-and-related-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Criminal Procedure Code
 
-GOVERNMENT GAZETTE
+(CHAPTER 68)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 15 of 2010)
 
-Published by Authority
+REVISED EDITION 2012
 
-NO. 13]
+(31st August 2012)
 
-Tuesday, September 28
+An Act relating to criminal procedure.
 
-[2010
-
-The following Act was passed by Parliament on 19th May 2010 and assented to by the President on 10th June 2010:—
-
-Criminal Procedure Code 2010
-
-(No. 15 of 2010)
-
-I assent.
-
-S R NATHAN
-
-President.
-
-10th June 2010.
-
-Date of Commencement: 2nd January 2011
-
-An Act to repeal and re-enact with amendments the Criminal Procedure Code (Chapter 68 of the 1985 Revised Edition) and to make consequential and related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[2nd January 2011]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Criminal Procedure Code 2010 and is generally referred to in this Act as this Code.
-
-(2) This Code shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Criminal Procedure Code and is generally referred to in this Act as this Code.
 
 ### Interpretation
 
@@ -1152,7 +1126,7 @@ PRELIMINARY
 
 “repealed Code” means the Criminal Procedure Code (Cap. 68, 1985 Ed.) repealed by this Code;
 
-“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge of the Supreme Court, the Registrar of the Supreme Court, the Registrar of the Subordinate Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act 2010;
+“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge of the Supreme Court, the Registrar of the Supreme Court, the Registrar of the Subordinate Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
 
 “stolen property” has the same meaning as in section 410 of the Penal Code (Cap. 224);
 
@@ -1218,7 +1192,7 @@ PRELIMINARY
 
 (iv) by sending it by registered post addressed to the advocate (if any) of the unincorporated association at the advocate’s office;
 
-(v) by addressing it to the unincorporated association and transmitting it to the last known facsimile number of the unincorporated association; or
+(v) by addressing it to that unincorporated association and transmitting it to the last known facsimile number of the unincorporated association; or
 
 (vi) by addressing it to the advocate (if any) of the unincorporated association and transmitting it by facsimile to the advocate’s office facsimile number; or
 
@@ -1254,7 +1228,7 @@ CRIMINAL JURISDICTION OF SUBORDINATE COURTS
 
 ### Criminal jurisdiction of Magistrates’ Courts
 
-7\.—(1) Subject to this Code, Magistrates’Courts shall have jurisdiction and power to —
+7\.—(1) Subject to this Code, Magistrates’ Courts shall have jurisdiction and power to —
 
 (a) try any offence for which the maximum term of imprisonment provided by law does not exceed 5 years or which is punishable with a fine only;
 
@@ -1266,7 +1240,7 @@ CRIMINAL JURISDICTION OF SUBORDINATE COURTS
 
 (e) issue a warrant to search or cause to be searched any place wherein any stolen goods or any goods, article or thing with which or in respect of which any offence has been committed is alleged to be kept or concealed;
 
-(f) require any person to furnish security for the peace or for his good behaviour according to law; and
+(f) require any person to furnish security for keeping the peace or for his good behaviour according to law; and
 
 (g) do any other thing that Magistrates’ Courts are empowered to do under this Code or any other written law.
 
@@ -1294,7 +1268,7 @@ CRIMINAL JURISDICTION OF SUBORDINATE COURTS
 
 (a) if that offence (which is one under the Penal Code) is shown to be triable by a District Court in the seventh column of the First Schedule;
 
-(b) if that offence (which is one under any law other than the Penal Code (Cap. 224)) is shown to be triable by a District Court under that law; or
+(b) if that offence (which is one under any law other than the Penal Code) is shown to be triable by a District Court under that law; or
 
 (c) if the Public Prosecutor applies to the District Court to try such offence, and the accused consents, or if more than one are charged together with the same offence, all such accused persons consent.
 
@@ -1304,7 +1278,7 @@ CRIMINAL JURISDICTION OF SUBORDINATE COURTS
 
 10\.—(1) A prosecution for —
 
-(a) an offence under section 172 to 188, 193 to 196, 199, 200, 205 to 211, 228, 376C, 376G or 505 of the Penal Code;
+(a) an offence under section 172 to 188, 193 to 196, 199, 200, 205 to 211, 228, 376C, 376G or 505 of the Penal Code (Cap. 224);
 
 (b) an offence under Chapter VA, VI (except section 127) or XVIII of the Penal Code;
 
@@ -1494,7 +1468,7 @@ on receiving information about offences
 
 (d) the findings of his investigation.
 
-(2) Notwithstanding anything in the Evidence Act (Cap. 97), an accused is not entitled to call for or inspect such a diary before or during an inquiry, trial or other proceeding under this Code.
+(2) Notwithstanding anything in the Evidence Act (Cap. 97), an accused is not entitled to call for or inspect such a diary before or during an inquiry, a trial or other proceeding under this Code.
 
 (3) Where, for the purposes of section 161 or 162 of the Evidence Act, the police officer conducting the investigation refers to such a diary, then —
 
@@ -1618,9 +1592,9 @@ the court may by warrant authorise the person or persons to whom it is issued �
 
 (ii) to search it in the manner, if any, specified in the warrant;
 
-(iii) to take possession of any goods, property, document, seal, stamp or coin found in it which he reasonably suspects to be the subject of an offence committed under section 4, 5 or 6 of the Consumer Protection (Trade Descriptions and Safety Requirements) Act (Cap. 53) or to be stolen, unlawfully obtained, forged, false or counterfeit, and also of any such instrument and material as aforesaid;
+(iii) to take possession of any goods, property, document, seal, stamp or coin found in it which any of those persons reasonably suspects to be the subject of an offence committed under section 4, 5 or 6 of the Consumer Protection (Trade Descriptions and Safety Requirements) Act or to be stolen, unlawfully obtained, forged, false or counterfeit, and also of any such instrument and material as aforesaid;
 
-(iv) to convey any such goods, property, document, seal, stamp, coin, instrument or material before a Magistrate’s Court, or to guard the same on the spot until the offender is taken before a Magistrate’s Court, or to otherwise to dispose thereof in some place of safety; and
+(iv) to convey any such goods, property, document, seal, stamp, coin, instrument or material before a Magistrate’s Court, or to guard the same on the spot until the offender is taken before a Magistrate’s Court, or otherwise to dispose thereof in some place of safety; and
 
 (v) to take into custody and produce before a Magistrate’s Court every person found in that place who appears to have been privy to the deposit, sale or manufacture or keeping of any such goods, property, document, seal, stamp, coin, instrument or material knowing or having reasonable cause to suspect —
 
@@ -1662,9 +1636,27 @@ the court may by warrant authorise the person or persons to whom it is issued �
 
 (2) The court may, in addition to the conditions in subsection (1), specify in any search warrant issued under section 26(3) such conditions as it deems necessary for the proper execution of the warrant and the prevention of any breach of the peace.
 
-### Reinstatement of registration
+### Execution of search warrant
 
-29\. The Board may in its discretion, after the expiration of not less than one year from the cancellation of registration of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
+29\.—(1) The person granted a search warrant must conduct the search in accordance with the warrant and with this Code.
+
+(2) Entry and search under a search warrant must be conducted during such period of time as may be specified in the warrant.
+
+(3) If the occupier of a place to be entered and searched is present when the person granted the search warrant seeks to execute it, the person granted the warrant must —
+
+(a) identify himself to the occupier and —
+
+(i) if he is a police officer, show the occupier documentary evidence that he is such a police officer; or
+
+(ii) if he is not a police officer, show the occupier his original identity card or travel document as proof of his identity;
+
+(b) show the occupier the warrant; and
+
+(c) if requested, give the occupier a copy of the warrant.
+
+(4) If the occupier is not present when the person granted the search warrant seeks to execute it, but some other person who appears to be in charge of the place is present, then subsection (3) applies to that other person as if he were the occupier.
+
+(5) If a search warrant is issued by a court under section 26(3), the person issued the warrant must, after duly executing the warrant, report that fact to the court and submit the list prepared under section 37(1).
 
 ### Search for person wrongfully confined
 
@@ -1684,7 +1676,7 @@ the court may by warrant authorise the person or persons to whom it is issued �
 
 ### Search without warrant for stolen property
 
-32\. .—(1) If information is given to any police officer of or above the rank of sergeant that there is reasonable cause for suspecting that any stolen property is concealed or lodged in any place and he has good grounds for believing that by reason of the delay in obtaining a search warrant such property is likely to be removed, he may search for the property alleged to have been stolen in the place specified without a search warrant.
+32\.—(1) If information is given to any police officer of or above the rank of sergeant that there is reasonable cause for suspecting that any stolen property is concealed or lodged in any place and he has good grounds for believing that by reason of the delay in obtaining a search warrant such property is likely to be removed, he may search for the property alleged to have been stolen in the place specified without a search warrant.
 
 (2) A list of all the articles found upon a search conducted under subsection (1) and alleged to have been stolen or missing shall be delivered or taken down in writing with a declaration stating that an offence of theft, extortion, robbery, criminal misappropriation, criminal breach of trust or cheating has been committed and that the informant has good grounds for believing that the property is deposited in that place.
 
@@ -1704,9 +1696,9 @@ the court may by warrant authorise the person or persons to whom it is issued �
 
 ### Search by police officer in arrestable case
 
-34\.—(1) A police officer investigating an arrestable offence may, without a search warrant, search or cause a search to be made for a document or other thing in any place —
+34\.—(1) A police officer investigating an arrestable offence may, without a search warrant, search or cause a search to be made for a document or other thing in any place if —
 
-(a) if he considers that the document or thing to be necessary for his investigation and if he has reason to believe that a person who has been or may be issued with an order under section 20(1) will not or is unlikely to produce the document or thing or give access thereto as directed in the order;
+(a) he considers the document or thing to be necessary for his investigation and if he has reason to believe that a person who has been or may be issued with an order under section 20(1) will not or is unlikely to produce the document or thing or give access thereto as directed in the order;
 
 (b) he has reason to believe that the document or thing, which he considers to be necessary for his investigation, is likely to be removed; or
 
@@ -2495,7 +2487,7 @@ the person must be released on bail by a police officer in cases determined by t
 
 (2) Subject to section 95(1), if, at any stage of an investigation, inquiry, trial or other proceeding under this Code, there are no reasonable grounds for believing that the accused has committed a non-bailable offence, the police officer or court must release him.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (3) Notwithstanding subsection (2), if there are grounds for further investigations as to whether the accused has committed some other bailable offence, then, pending the investigations, the accused must be released on bail or, at the discretion of the police officer or court, on his own personal bond.
 
@@ -2511,7 +2503,7 @@ the person must be released on bail by a police officer in cases determined by t
 
 (a) to surrender any travel document in his possession;
 
-(b) to surrender to custody or to make himself available for investigations or to attend court at the day, time and place appointed for him to do so;
+(b) to surrender to custody or to make himself available for investigations or to attend court on the day and at the time and place appointed for him to do so;
 
 (c) not to commit any offence while released on bail or on personal bond; and
 
@@ -2523,11 +2515,11 @@ the person must be released on bail by a police officer in cases determined by t
 
 (a) he is charged for an offence punishable with death or imprisonment for life;
 
-[Act 2 of 2012 wef 01/03/2012]
-
 (b) having been previously released on bail or personal bond in any criminal proceedings, he had not surrendered to custody or made himself available for investigations or attended court, and the court believes that in view of this failure, he would not surrender to custody, or make himself available for investigations or attend court if released; or
 
 (c) he has been arrested or taken into custody under a warrant issued under section 10, 24 or 34 of the Extradition Act (Cap. 103) or endorsed under section 33 of that Act.
+
+[2/2012]
 
 (2) Notwithstanding subsection (1), the court may —
 
@@ -2539,7 +2531,7 @@ the person must be released on bail by a police officer in cases determined by t
 
 (ii) the offence is to be tried before a District Court or a Magistrate’s Court.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (3) In this section, “accused” includes a “fugitive” as defined in the Extradition Act.
 
@@ -2605,9 +2597,9 @@ the court may vary the conditions of the bail or personal bond, or impose furthe
 
 103\.—(1) If a released person under a duty to surrender to custody, or to make himself available for investigations or to attend court, does not do so, he may be arrested without a warrant.
 
-(2) If a released person leaves the court at any time after he has surrendered into its custody or after he has attended court at the day and time appointed for him to do so, and before the court is ready to begin or to resume the hearing of the proceedings, the court may issue a warrant for his arrest.
+(2) If a released person leaves the court at any time after he has surrendered into its custody or after he has attended court on the day and at the time appointed for him to do so, and before the court is ready to begin or to resume the hearing of the proceedings, the court may issue a warrant for his arrest.
 
-(3) A released person under a duty to surrender to custody, or to make himself available for investigations or to attend court at the day, time and place appointed for him to do so, may be arrested without a warrant if —
+(3) A released person under a duty to surrender to custody, or to make himself available for investigations or to attend court on the day and at the time and place appointed for him to do so, may be arrested without a warrant if —
 
 (a) there are reasonable grounds for believing that he is unlikely to surrender to custody, or to make himself available for investigations or to attend court;
 
@@ -2627,13 +2619,13 @@ the court may remand him in custody or grant him bail subject to such conditions
 
 104\.—(1) A surety must —
 
-(a) ensure that the released person surrenders to custody, or makes himself available for investigations or attends court at the day, time and place appointed for him to do so;
+(a) ensure that the released person surrenders to custody, or makes himself available for investigations or attends court on the day and at the time and place appointed for him to do so;
 
 (b) keep in daily communication with the released person and lodge a police report within 24 hours of losing contact with him; and
 
 (c) ensure that the released person is within Singapore unless the released person has been permitted by the police officer referred to in section 92 or 93 (as the case may be) or the court to leave Singapore.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (2) If the surety is in breach of any of his duties, the court may, having regard to all the circumstances of the case, forfeit the whole or any part of the amount of the bond.
 
@@ -3009,7 +3001,7 @@ Awas charged with murdering Tan Ah Teck on 5 June 1996 and Tan Ah Tuck, who trie
 
 (c) to charges which the accused and the prosecutor consent to be taken into consideration under section 148.
 
-Illustrations
+Illustration
 
 Ais accused of a theft on one occasion and of causing grievous hurt on another occasion.Amust be separately charged and separately tried for the theft and causing grievous hurt. However, he does not need to be separately tried if he pleads guilty to both charges or if he pleads guilty to one charge and consents to the other charge being taken into consideration under section 148.
 
@@ -3035,15 +3027,15 @@ Ahas in his possession several seals that he knows to be counterfeit and intends
 
 (c)
 
-Intending to cause injury toB,Abegins a criminal proceeding against him knowing that there is no just or lawful basis for the proceeding; and also falsely accusesBof having committed an offence knowing there is no just or lawful basis for the charge.Amay be separately charged with 2 offences under section 211 of the Penal Code (Cap. 224).
+Intending to cause injury toB,Abegins a criminal proceeding against him knowing that there is no just or lawful basis for the proceeding; and also falsely accusesBof having committed an offence knowing there is no just or lawful basis for the charge.Amay be separately charged with 2 offences under section 211 of the Penal Code.
 
 (d)
 
-Intending to cause injury toB,Afalsely accuses him of having committed an offence knowing that there is no just or lawful basis for the charge. At the trialAgives false evidence againstB, intending thereby to cause B to be convicted of a capital offence.Amay be separately charged with offences under sections 211 and 194 of the Penal Code.
+Intending to cause injury toB,Afalsely accuses him of having committed an offence knowing that there is no just or lawful basis for the charge. At the trialAgives false evidence againstB, intending thereby to causeBto be convicted of a capital offence.Amay be separately charged with offences under sections 211 and 194 of the Penal Code.
 
 (e)
 
-A, with 6 others, commits the offences of rioting, grievous hurt and assaulting a public servant trying to suppress the riot in the discharge of his duty.Amay be separately charged with offences under sections 145, 325 and 152 of the Penal Code.
+A, with 6 others, commits the offences of rioting, causing grievous hurt and assaulting a public servant trying to suppress the riot in the discharge of his duty.Amay be separately charged with offences under sections 145, 325 and 152 of the Penal Code.
 
 (f)
 
@@ -3063,7 +3055,7 @@ The separate charges referred to inillustrations(a) to (d) below respectively ma
 
 (a)
 
-Awrongfully strikesBwith a cane.Amay be separately charged with offences under sections 352 and 323 of the Penal Code.
+Awrongfully strikesBwith a cane.Amay be separately charged with offences under sections 352 and 323 of the Penal Code (Cap. 224).
 
 (b)
 
@@ -3075,13 +3067,13 @@ Aexposes her child with the knowledge that by doing so she is likely to cause it
 
 (d)
 
-Adishonestly uses a forged document as evidence to convictB, a public servant, of an offence under section 167 of the Penal Code.Amay be separately charged with offences under sections 471 (read with section 466) and 196 of the Penal Code (Cap. 224).
+Adishonestly uses a forged document as evidence to convictB, a public servant, of an offence under section 167 of the Penal Code.Amay be separately charged with offences under sections 471 (read with section 466) and 196 of the Penal Code.
 
 ### Acts forming one offence but when combined form different offence
 
 136\. If several acts of which one or more than one would by itself or themselves constitute an offence but when combined constitute a different offence, the person accused of them may be charged with and tried at one trial for the offence constituted by those acts when combined or for any offence constituted by any one or more of those acts.
 
-Illustrations
+Illustration
 
 ArobsB, and in doing so voluntarily hurts him.Amay be separately charged with offences under sections 323, 392 and 394 of the Penal Code and he may be tried at one trial for those offences.
 
@@ -3107,7 +3099,7 @@ Astates on oath before the committing Magistrate that he sawBhitCwith a club. Be
 
 139\. If in the case mentioned in section 138 the accused is charged with one offence and it appears in evidence that he committed a different offence for which he might have been charged under that section, he may be convicted of the offence that he is shown to have committed although he was not charged with it.
 
-Illustrations
+Illustration
 
 Ais charged with theft. In evidence it appears that he committed the offence of criminal breach of trust or of receiving stolen goods. He may be convicted of criminal breach of trust or of receiving stolen goods, as the case may be, although he was not charged with that offence.
 
@@ -3195,7 +3187,7 @@ Ahas in his possession a secret official code word which has been entrusted in c
 
 (d)
 
-AgivesBa gratification as an inducement for awarding a contract by B’s company toA.AandBmay be separately charged and tried together for offences under section 6(b) and (a) of the Prevention of Corruption Act (Cap. 241) respectively as the offences arise from the same series of acts.
+AgivesBa gratification as an inducement for awarding a contract byB’s company toA.AandBmay be separately charged and tried together for offences under section 6(b) and (a) of the Prevention of Corruption Act (Cap. 241) respectively as the offences arise from the same series of acts.
 
 (e)
 
@@ -3231,7 +3223,7 @@ the court may order that he be charged and tried separately for any one or more 
 
 (2) Such withdrawal shall have the effect of an acquittal on the remaining charge or charges withdrawn unless the conviction is set aside.
 
-(3) Where a conviction is set aside in subsection (2), and subject to any order of the court setting aside the conviction, the court may proceed with the trial of the charge or charges previously withdrawn.
+(3) Where a conviction is set aside under subsection (2), and subject to any order of the court setting aside the conviction, the court may proceed with the trial of the charge or charges previously withdrawn.
 
 ### Outstanding offences
 
@@ -3284,7 +3276,7 @@ COMPLAINT TO MAGISTRATE
 
 152\.—(1) After examining the complainant under section 151(2)(a), and making any inquiry under section 151(2)(b)(i) or considering the result of any inquiry under section 151(2)(b)(ii), the Magistrate may dismiss the complaint if he decides that there is insufficient reason to proceed.
 
-(2) Where in relation to any complaint, the Magistrate or a police officer has referred any case for mediation under section 15 of the Community Mediation Centres Act or under section 16(1)(c), respectively, and the complainant has failed or refused to attend the mediation session, the Magistrate may dismiss the complaint if the complainant does not provide reasonable grounds for such failure or refusal.
+(2) Where in relation to any complaint, the Magistrate or a police officer has referred any case for mediation under section 15 of the Community Mediation Centres Act (Cap. 49A) or under section 16(1)(c), respectively, and the complainant has failed or refused to attend the mediation session, the Magistrate may dismiss the complaint if the complainant does not provide reasonable grounds for such failure or refusal.
 
 (3) If the Magistrate dismisses the complaint, he must record his reasons.
 
@@ -3332,7 +3324,7 @@ and the case appears to be one in which, according to the fourth column of the F
 
 (8) If the court intends to impose a sentence of imprisonment without the option of a fine, it must require the accused to attend in person.
 
-(9) If the accused wishes to withdraw his plea of guilty and claim trial when he appears pursuant to subsection (8), then the court must, notwithstanding any order of conviction made in his absence permit him to withdraw his plea and then hear and determine the case, and if the court convicts him, pass sentence according to law.
+(9) If the accused wishes to withdraw his plea of guilty and claim trial when he appears pursuant to subsection (8), then the court must, notwithstanding any order of conviction made in his absence, permit him to withdraw his plea and then hear and determine the case, and if the court convicts him, pass sentence according to law.
 
 (10) Nothing in this section shall affect the powers of the court conferred by section 156.
 
@@ -3474,9 +3466,9 @@ Ais charged with robbery and 3 separate statements, X, Y and Z were recorded fro
 
 ### When Case for the Defence is served
 
-163\.—(1) At the further criminal case disclosure conference held on the date referred to in section 161(4), or such other date to which the further criminal case disclosure conference has been adjourned under section 238, if the accused does not indicate that he wishes to plead guilty, the defence must file in court the Case for the Defence and serve a copy on the prosecution and on every co-accused who is claiming trial with him, if any, not later than 2 weeks from the date of the further criminal case disclosure conference or such date to which the further criminal case disclosure conference is adjourned.
+163\.—(1) At the further criminal case disclosure conference held on the date referred to in section 161(4), or such other date to which the further criminal case disclosure conference has been adjourned under section 238, if the accused does not indicate that he wishes to plead guilty, the defence must file in court the Case for the Defence and serve a copy thereof on the prosecution and on every co-accused who is claiming trial with him, if any, not later than 2 weeks from the date of the further criminal case disclosure conference or such date to which the further criminal case disclosure conference is adjourned.
 
-(2) The court may at any time fix a date for a further criminal case disclosure conference which is to be held after the Case for the Defence is to be filed under subsection (1) and after the prosecution is to serve on the defence copies of the statements, exhibits and records referred to in section 166(1).
+(2) The court may at any time fix a date for a further criminal case disclosure conference which is to be held after the Case for the Defence is to be filed under subsection (1) and after the prosecution is to serve on the accused copies of the statements, exhibits and records referred to in section 166(1).
 
 ### Court to explain to unrepresented accused certain requirements and consequences
 
@@ -3500,11 +3492,11 @@ Ais charged with robbery and 3 separate statements, X, Y and Z were recorded fro
 
 (iii) the points of law in support of such objection.
 
-Illustration
+Illustration 1
 
 Ais charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items toAvoluntarily) and any issue of law whichAintends to rely on (for example, thatA’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter IV of the Penal Code (Cap. 224) applied in this case).
 
-Illustration
+Illustration 2
 
 The accused,A, intends to challenge, at the trial, the voluntariness of his statements made to the police which statements are intended by the prosecution to be admitted as part of its case.Amust specify which of the statements he intends to challenge and the facts that he intends to rely on to support his challenge.
 
@@ -3550,7 +3542,7 @@ Non-compliance with Division 2
 
 169\.—(1) The court may draw such inference as it thinks fit if —
 
-(a) the prosecution fails to serve the Case for the Prosecution on the accused or the defence fails to serve the Case for the Defence after the Case for the Prosecution has been served on him;
+(a) the prosecution fails to serve the Case for the Prosecution on the accused or the defence fails to serve the Case for the Defence after the Case for the Prosecution has been served on the accused;
 
 (b) the Case for the Prosecution or the Case for the Defence does not contain any or any part of the items specified in section 162 or 165(1), respectively; or
 
@@ -3600,7 +3592,7 @@ General matters
 
 174\. Any such person produced under section 173 may be remanded in accordance with section 238.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 ### Procedure for cases to be tried in High Court
 
@@ -3684,7 +3676,7 @@ Committal procedures for cases triable by High Court
 
 (4) So much of any statement as is admitted in evidence under this section must, unless the examining Magistrate otherwise directs, be read aloud at the hearing and where the examining Magistrate so directs, an account shall be given orally of so much of any statement as is not read aloud.
 
-(5) A document or object referred to as an exhibit and identified in a written statement given in evidence under this section must be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
+(5) A document or an object referred to as an exhibit and identified in a written statement given in evidence under this section must be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
 
 (6) Section 297 shall apply to any written statement tendered in evidence at a committal hearing under this section, as it applies to a deposition taken in the committal hearing.
 
@@ -3734,7 +3726,7 @@ Committal procedures for cases triable by High Court
 
 ### Attendance at trial of person making report
 
-187\.—(1) Where any report under section 20 of the Coroners Act 2010 or any document under section 263(1) has been used as evidence in a committal hearing, the examining Magistrate shall then inform the accused that he has the right to require the attendance of the person under whose hand the report or document is made as a witness at the trial, and that he may, to this end, give notice at any time before the trial to the Registrar of the Supreme Court, or to the officer in charge of the prison in which he is kept, of his wish that that person be required to attend at the trial.
+187\.—(1) Where any report under section 20 of the Coroners Act 2010 (Act 14 of 2010) or any document under section 263(1) has been used as evidence in a committal hearing, the examining Magistrate shall then inform the accused that he has the right to require the attendance of the person under whose hand the report or document is made as a witness at the trial, and that he may, to this end, give notice at any time before the trial to the Registrar of the Supreme Court, or to the officer in charge of the prison in which he is kept, of his wish that that person be required to attend at the trial.
 
 (2) On receiving any such notice from the accused, the officer in charge of the prison shall notify the Registrar of the Supreme Court.
 
@@ -3890,11 +3882,11 @@ Committal procedures for cases triable by High Court
 
 (iii) the points of law in support of such objection.
 
-Illustration
+Illustration 1
 
 Ais charged with murder. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim attackedAwith a knife first) and any issue of law (for example, that exceptions 2 (private defence) and 4 (sudden fight) to section 300 of the Penal Code (Cap. 224) apply).
 
-Illustration
+Illustration 2
 
 The accused,A, intends to challenge, at the trial, the voluntariness of his statements made to the police which statements are intended by the prosecution to be admitted as part of its case.Amust specify which of the statements he intends to challenge and the facts that he intends to rely on to support his challenge.
 
@@ -4068,7 +4060,7 @@ Transmission proceedings
 
 215\.—(1) If, at the further criminal case disclosure conference held on the date referred to in section 213(3) or on such other date to which the further criminal case disclosure conference has been adjourned under section 238 —
 
-(a) the accused does not indicate that he wishes to plead guilty, the defence may file in the High Court the Case for the Defence and serve a copy on the prosecution and on every co-accused claiming trial with him, if any, not later than 2 weeks from the date of the criminal case disclosure conference; or
+(a) the accused does not indicate that he wishes to plead guilty, the defence may file in the High Court the Case for the Defence and serve a copy on the prosecution and on every co-accused claiming trial with him, if any, not later than 2 weeks from the date of the further criminal case disclosure conference; or
 
 (b) the accused indicates that he does not wish to file the Case for the Defence, the Registrar of the Supreme Court may fix a date for trial in the High Court.
 
@@ -4076,7 +4068,7 @@ Transmission proceedings
 
 ### Court to explain to unrepresented accused certain matters
 
-216\. If, at the criminal case disclosure conference held on the date referred to in section 215(1), the accused is not represented by an advocate, the Registrar of the Supreme Court must explain to him, in accordance with the prescribed form, what he may do under section 215(1)(a), the effect of section 218 and the consequences provided under section 221.
+216\. If, at the further criminal case disclosure conference held on the date referred to in section 215(1), the accused is not represented by an advocate, the Registrar of the Supreme Court must explain to him, in accordance with the prescribed form, what he may do under section 215(1)(a), the effect of section 218 and the consequences provided under section 221.
 
 ### Contents of Case for the Defence
 
@@ -4096,11 +4088,11 @@ Transmission proceedings
 
 (iii) the points of law in support of such objection.
 
-Illustration
+Illustration 1
 
 Ais charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items toAvoluntarily) and any issue of law whichAintends to rely on (for example, thatA’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter IV of the Penal Code (Cap. 224) applied in this case).
 
-Illustration
+Illustration 2
 
 The accused,A, intends to challenge, at the trial, the voluntariness of his statements made to the police which statements are intended by the prosecution to be admitted as part of its case.Amust specify which of the statements he intends to challenge and the facts that he intends to rely on to support his challenge.
 
@@ -4110,7 +4102,7 @@ The accused,A, intends to challenge, at the trial, the voluntariness of his stat
 
 (b) point of law in support of any objection raised by the defence.
 
-### Time for service of other statements and exhibits
+### Time for service of other statements, etc.
 
 218\.—(1) After the Case for the Defence has been served on the prosecution, the prosecution must, within 2 weeks from the date of service, serve on the accused or his advocate copies of —
 
@@ -4308,7 +4300,7 @@ the court may order the parties to the case to attend a criminal case disclosure
 
 ### Address on sentence, mitigation and sentence
 
-228\.—(1) On the conviction of the accused the prosecution may where it thinks fit, address the court on sentence.
+228\.—(1) On the conviction of the accused, the prosecution may where it thinks fit address the court on sentence.
 
 (2) The address on sentence may include —
 
@@ -4422,7 +4414,7 @@ I now call upon you to give evidence in your own defence. How do you elect?
 
 (2) The notice must state the name of the witness and an outline of his evidence, or provide a brief description of the exhibit, as the case may be.
 
-### Public Prosecutor may decline further to prosecute at any stage of trial
+### Public Prosecutor may decline to further prosecute at any stage of trial
 
 232\.—(1) At any stage of any proceedings in court —
 
@@ -4503,15 +4495,23 @@ General provisions
 
 238\.—(1) The court may postpone or adjourn any inquiry, trial or other proceedings on such terms as it thinks fit and for as long as it considers reasonable, if the absence of a witness or any other reasonable cause makes this necessary or advisable.
 
+[2/2012]
+
 (2) Subject to subsection (3), if the accused is not on bail, the court may by a warrant remand him in custody as it thinks fit.
+
+[2/2012]]
 
 (3) If it appears likely that further evidence may be obtained by a remand, the court may so remand the accused in custody for the purpose of any investigation by a law enforcement agency but not for more than 8 days at a time.
 
+[2/2012]
+
 (4) If the accused is on bail, the court may extend the bail.
+
+[2/2012]
 
 (5) The court must record in writing the reasons for the postponement or adjournment of the proceedings.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 Division 2 —
 
@@ -4579,7 +4579,7 @@ Compounding of offences
 
 ### Public Prosecutor may compound offences
 
-242\.—(1) The Public Prosecutor may, on such terms and conditions as he may determine, at any time compound any offence or class of offences as may be prescribed by collecting from the a person who is reasonably suspected of having committed the offence a sum of money which shall not exceed —
+242\.—(1) The Public Prosecutor may, on such terms and conditions as he may determine, at any time compound any offence or class of offences as may be prescribed by collecting from a person who is reasonably suspected of having committed the offence a sum of money which shall not exceed —
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
@@ -4635,7 +4635,7 @@ Previous acquittals or convictions
 
 (4) A person acquitted or convicted of any offence constituted by certain acts may, notwithstanding the acquittal or conviction, be charged later with and tried for any other offence constituted by the same acts which he may have committed if the court that first tried him was not competent to try the offence with which he is subsequently charged.
 
-Explanation— The dismissal of a complaint or the discharge of the accused is not an acquittal for the purposes of this section.
+Explanation— — The dismissal of a complaint or the discharge of the accused is not an acquittal for the purposes of this section.
 
 Illustrations
 
@@ -4663,7 +4663,7 @@ Ais charged with and convicted of voluntarily causing hurt toB.Amay not afterwar
 
 245\.—(1) The plea of previous acquittal or conviction may be made orally or in writing and may be in the following form or to the following effect:
 
-“The accused person says that by virtue of Article 11(2) of the Constitution or section 244 of the Criminal Procedure Code 2010 he is not liable to be tried.”.
+“The accused person says that by virtue of Article 11(2) of the Constitution or section 244 of the Criminal Procedure Code (Cap. 68) he is not liable to be tried.”.
 
 (2) This plea may be made with any other plea, but the issue raised by the plea must be tried and disposed of before the issues raised by the other pleas are tried.
 
@@ -4687,7 +4687,7 @@ Proceedings relating to persons of unsound mind
 
 247\.—(1) When a court holding or about to hold any inquiry or trial or any other proceeding, has reason to suspect that the accused is of unsound mind and consequently incapable of making his defence, the court shall in the first instance investigate the fact of such unsoundness.
 
-(2) Such investigation may be held in the absence of the accused if the court is satisfied that owing to the state of the accused’s mind it would be in the interests of the safety of the accused or of other persons or in the interests of public decency that he should be absent, and the court may receive as evidence a certificate in writing signed by a medical officer to the effect that the accused is in his opinion of unsound mind or is a proper person to be detained for observation and treatment in a psychiatric institution, or the court may, if it sees fit, take oral evidence from a medical officer on the state of mind of the accused.
+(2) Such investigation may be held in the absence of the accused if the court is satisfied that owing to the state of the accused’s mind, it would be in the interests of the safety of the accused or of other persons or in the interests of public decency that he should be absent, and the court may receive as evidence a certificate in writing signed by a medical officer to the effect that the accused is in his opinion of unsound mind or is a proper person to be detained for observation and treatment in a psychiatric institution, or the court may, if it sees fit, take oral evidence from a medical officer on the state of mind of the accused.
 
 (3) If the court, on its own motion or on the application of the Public Prosecutor, is not satisfied that the person is capable of making his defence, the court shall postpone the inquiry or trial or other proceeding and shall order that person to be remanded for observation in a psychiatric institution for a period not exceeding one month.
 
@@ -4697,13 +4697,13 @@ Proceedings relating to persons of unsound mind
 
 248\.—(1) If the principal officer certifies that the accused is of sound mind and capable of making his defence, the court shall, unless satisfied to the contrary, proceed with the inquiry or trial or other proceeding.
 
-(2) If the principal officer certifies that that person is of unsound mind and incapable of making his defence, the court shall unless satisfied to the contrary, find accordingly, and thereupon the inquiry or trial or other proceeding shall be stayed but if the court is satisfied that the accused is of sound mind and capable of making his defence the court shall proceed with the inquiry or trial or other proceeding, as the case may be.
+(2) If the principal officer certifies that that person is of unsound mind and incapable of making his defence, the court shall, unless satisfied to the contrary, find accordingly, and thereupon the inquiry or trial or other proceeding shall be stayed but if the court is satisfied that the accused is of sound mind and capable of making his defence, the court shall proceed with the inquiry or trial or other proceeding, as the case may be.
 
 (3) The determination of the issue as to whether or not the accused is of unsound mind and incapable of making his defence shall, if the finding is that he is of sound mind and capable of making his defence, be deemed to be part of his trial before the court.
 
 (4) The certificate of the principal officer shall be admissible as evidence under this section.
 
-(5) If the accused is certified to be of unsound mind and incapable of making his defence it shall not be necessary for him to be present in court during proceedings under this section and he may be detained in a psychiatric institution pending an order under section 249.
+(5) If the accused is certified to be of unsound mind and incapable of making his defence, it shall not be necessary for him to be present in court during proceedings under this section and he may be detained in a psychiatric institution pending an order under section 249.
 
 ### Release of person of unsound mind pending investigation or trial
 
@@ -4723,7 +4723,7 @@ Proceedings relating to persons of unsound mind
 
 ### Resumption of proceedings
 
-250\.—(1) When an inquiry or trial or other proceeding is —
+250\.—(1) When an inquiry or a trial or other proceeding is —
 
 (a) postponed for the accused to be detained for observation in a psychiatric institution under section 247; or
 
@@ -4745,11 +4745,11 @@ the court may at any time begin the inquiry or trial or other proceeding afresh 
 
 ### Visiting of prisoners of unsound mind
 
-253\.—(1) If a person is confined under section 249 or 252 in a psychiatric institution, prison or other suitable place of safe custody, 2 of the visitors of a psychiatric institution, may, subject to subsection (2), visit him to ascertain his state of mind.
+253\.—(1) If a person is confined under section 249 or 252 in a psychiatric institution, prison or other suitable place of safe custody, 2 of the visitors of a psychiatric institution may, subject to subsection (2), visit him to ascertain his state of mind.
 
 (2) The person confined under section 249 or 252 must be visited at least once every 6 months and the visitors must make a special report to the Minister as to the person’s state of mind.
 
-### Procedure when person of unsound mind is reported able to make defence
+### Procedure when person of unsound mind reported able to make defence
 
 254\.—(1) If a person is confined under section 249 and is certified by a principal officer and 2 of the visitors of the psychiatric institution to be capable of making his defence, the court must proceed with the inquiry or trial or other proceeding, as the case may be, and the certificate shall be admissible as evidence.
 
@@ -4791,7 +4791,7 @@ and if the Minister is so satisfied, he may order the person to be delivered to 
 
 (4) Notwithstanding that a person confined under section 249(2) or 252 has been delivered to a relative or friend of that person under subsection (1), the Minister may, after receiving a special report referred to in section 253(2), order that the person be confined again in a psychiatric institution or any other suitable place.
 
-### Procedure when person of unsound mind is reported fit for discharge
+### Procedure when person of unsound mind reported fit for discharge
 
 256\.—(1) If the principal officer and 2 visitors of the psychiatric institution in which a person is confined under section 249(2) or 252 certify that in his or their judgment the person may be discharged without danger of injuring himself or any other person, the Minister may order him to be discharged, detained in custody or in prison, or sent to a psychiatric institution if he has not already been sent there.
 
@@ -4821,9 +4821,9 @@ Admissibility of certain types of evidence
 
 (3) The court shall refuse to admit the statement of an accused or allow it to be used in the manner referred to in subsection (1) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused, proceeding from a person in authority and sufficient, in the opinion of the court, to give the accused grounds which would appear to him reasonable for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
 
-Explanation 1 —If a statement is obtained from an accused by a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement, and the court is of the opinion that such acts gave the accused grounds which would appear to the accused reasonable for supposing that by making the statement, he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him, such acts will amount to a threat, inducement or promise, as the case may be, which will render the statement inadmissible.
+Explanation1—If a statement is obtained from an accused by a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement, and the court is of the opinion that such acts gave the accused grounds which would appear to the accused reasonable for supposing that by making the statement, he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him, such acts will amount to a threat, an inducement or a promise, as the case may be, which will render the statement inadmissible.
 
-Explanation 2— If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
+Explanations2—If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
 
 (a) under a promise of secrecy, or in consequence of a deception practised on the accused for the purpose of obtaining it;
 
@@ -4839,17 +4839,17 @@ Explanation 2— If a statement is otherwise admissible, it will not be rendered
 
 (5) When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
 
-Explanation— “Offence” as used in this section includes the abetment of or attempt to commit the offence.
+Explanation— —“Offence” as used in this section includes the abetment of or attempt to commit the offence.
 
 Illustrations
 
 (a)
 
-AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murdered C”. The court may consider the effect of this confession as against B.
+AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murderedC”. The court may consider the effect of this confession as againstB.
 
 (b)
 
-A is on trial for the murder of C. There is evidence to show that C was murdered by A and B and thatBsaid “Aand I murderedC”. This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
+Ais on trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid “Aand I murderedC”. This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
 
 (6) Notwithstanding any other provision in this section —
 
@@ -4875,7 +4875,7 @@ A is on trial for the murder of C. There is evidence to show that C was murdered
 
 (e) falls within section 32(1)(a) of the Evidence Act.
 
-[Act 4 of 2012 wef 01/08/2012]
+[4/2012]
 
 (2) Where any person is charged with any offence in relation to the making or contents of any statement made by him to an officer of a law enforcement agency in the course of an investigation carried out by that officer, that statement may be used as evidence in the prosecution.
 
@@ -4947,15 +4947,15 @@ draw such inferences from the failure as appear proper; and the failure may, on 
 
 (c) if it refers to any other document as an exhibit, the copy of the written statement must be accompanied by a copy of that document or by information that will enable the party on whom it is served to inspect that document or a copy of it.
 
-(3) Where in any criminal proceedings a written statement made by any person is admitted in evidence under this section —
+(3) Where in any criminal proceeding a written statement made by any person is admitted in evidence under this section —
 
 (a) the party by whom or on whose behalf a copy of the statement was served may call the person to give evidence; and
 
-(b) the court may, of its own motion or on the application of any party to the proceedings, require the person to attend before the court and give evidence.
+(b) the court may, of its own motion or on the application of any party to the proceeding, require the person to attend before the court and give evidence.
 
 (4) So much of any statement as is admitted in evidence under this section must, unless the court otherwise directs, be read aloud at the hearing and where the court so directs an account shall be given orally of so much of any statement as is not read aloud.
 
-(5) A document or object referred to as an exhibit and identified in a written statement given in evidence under this section must be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
+(5) A document or an object referred to as an exhibit and identified in a written statement given in evidence under this section must be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
 
 ### When evidence of past possession of stolen property allowed
 
@@ -4999,25 +4999,25 @@ then, if he has been convicted of an offence involving fraud or dishonesty withi
 
 268\. In any criminal proceedings, a statement is admissible as evidence of any fact stated therein to the extent that it is so admissible by this Code, the Evidence Act (Cap. 97), or any other written law.
 
-[Act 4 of 2012 wef 01/08/2012]
+[4/2012]
 
-269\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+269\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-270\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+270\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-271\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+271\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-272\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+272\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-273\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+273\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-274\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+274\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-275\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+275\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-276\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+276\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
-277\. [Deleted by Act 4 of 2012 wef 01/08/2012]
+277\. [Repealed by Act 4 of 2012 wef 01/08/2012]
 
 ### Notice of alibi
 
@@ -5081,7 +5081,7 @@ The prosecution seeks to admit a statement of the accused, who denies that he ma
 
 (e)
 
-X is accused of murderingY.Z, a good friend ofX, testifies thatXtold him that he had murderedY, which is denied byX. AsZis not a person in authority, no ancillary hearing is necessary as there is no issue of admissibility.
+Xis accused of murderingY.Z, a good friend ofX, testifies thatXtold him that he had murderedY, which is denied byX. AsZis not a person in authority, no ancillary hearing is necessary as there is no issue of admissibility.
 
 (2) In an ancillary hearing, any evidence adduced shall be limited only to the ancillary issue.
 
@@ -5204,13 +5204,13 @@ Magistrate”.
 
 (f) the stages in the proceedings during which a specified part of the order is to apply;
 
-(g) the method of operation of the live video or television link system including compliance with such minimum technical standards as may be determined by the Chief Justice;
+(g) the method of operation of the live video or live television link system including compliance with such minimum technical standards as may be determined by the Chief Justice;
 
 (h) any other order that the court considers necessary in the interests of justice.
 
 (7) The court may revoke, suspend or vary an order made under this section if —
 
-(a) the live video or television link system stops working and it would cause unreasonable delay to wait until a working system becomes available;
+(a) the live video or live television link system stops working and it would cause unreasonable delay to wait until a working system becomes available;
 
 (b) it is necessary for the court to do so to comply with its duty to ensure fairness in the proceedings;
 
@@ -5224,11 +5224,11 @@ Magistrate”.
 
 (9) An order made under this section does not cease to apply merely because the person in respect of whom it was made reaches the age of 16 years before the proceedings in which it was made are finally concluded.
 
-(10) When a witness gives evidence in proceedings through a live video or television link, the evidence is to be regarded for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code (Cap. 224) as having been given in those proceedings.
+(10) When a witness gives evidence in proceedings through a live video or live television link, the evidence is to be regarded for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code as having been given in those proceedings.
 
 (11) If a witness gives evidence in accordance with this section, for the purposes of this Code and the Evidence Act (Cap. 97), he is regarded as giving evidence in the presence of the court and the accused, as the case may be.
 
-(12) In subsections (6), (10) and (11), a reference to “witness” includes a reference to an accused who appears before a court through a live video or television link under subsection (3) or (4).
+(12) In subsections (6), (10) and (11), a reference to “witness” includes a reference to an accused who appears before a court through a live video or live television link under subsection (3) or (4).
 
 (13) The Chief Justice may make such rules as appear to him to be necessary or expedient to give effect to this section and for prescribing anything that may be prescribed under this section.
 
@@ -5294,17 +5294,17 @@ Witnesses
 
 290\.—(1) In any inquiry, trial or other proceeding under this Code, a previous conviction or acquittal or any order of court relevant to the case may be proved, in addition to any other way provided by law —
 
-(a) by an extract certified to be a copy of the sentence or order by the officer who has custody of the court records in which that conviction, acquittal or order was carried out, whether in Singapore or elsewhere; or
+(a) by an extract certified to be a copy of the sentence or order by the officer who has custody of the records of the court in which that conviction, acquittal or order was carried out, whether in Singapore or elsewhere; or
 
 (b) alternatively —
 
-(i) in the case of a previous conviction in Singapore, either by a certificate signed by the officer who has custody of the prison records in Singapore in which the punishment or any part of it was inflicted, or by production of the warrant of commitment under which the punishment was suffered; or
+(i) in the case of a previous conviction in Singapore, either by a certificate signed by the officer who has custody of the records of the prison in Singapore in which the punishment or any part of it was inflicted, or by production of the warrant of commitment under which the punishment was suffered; or
 
 (ii) in the case of a previous conviction elsewhere, either by a certificate signed by the officer in charge of the prisons in that place in which the punishment or any part of it was inflicted, or by production of the warrant of commitment under which the punishment was suffered,
 
 together with evidence as to the identity of the accused and the person so convicted or acquitted or against whom the order was made.
 
-(2) The certificate referred to in subsection (1)(b) purporting to be signed by the officer who has custody of the prison records in Singapore or elsewhere shall be admitted in evidence on its production by the prosecution without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
+(2) The certificate referred to in subsection (1)(b) purporting to be signed by the officer who has custody of the records of the prison in Singapore or elsewhere shall be admitted in evidence on its production by the prosecution without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
 
 ### Accused not to give evidence except on oath or affirmation
 
@@ -5420,7 +5420,7 @@ JUDGMENT
 
 ### Judgment in alternative
 
-300\. When a person is found guilty of one of several possible offences under written law, but it is doubtful which of those offences he is guilty of, the court must record a conviction in the alternative, distinctly specifying those offences, and the offender must be punished for the offence carrying the lowest punishment if the same punishment is not provided for all.
+300\. When a person is found guilty of one of several possible offences under any written law, but it is doubtful which of those offences he is guilty of, the court must record a conviction in the alternative, distinctly specifying those offences, and the offender must be punished for the offence carrying the lowest punishment if the same punishment is not provided for all.
 
 ### Judgment not to be altered
 
@@ -5500,11 +5500,11 @@ then, if the court is satisfied that it is expedient with a view to his reformat
 
 then, if the court is satisfied that it is expedient for the protection of the public that he should be detained in custody for a substantial period of time, followed by a period of supervision if released before the expiration of his sentence, the court, unless it has special reasons for not doing so, shall sentence him to preventive detention for a period of 7 to 20 years in lieu of any sentence of imprisonment.
 
-(3) Before sentencing any offender to corrective training or preventive detention, the court must call for and consider any report submitted by the Director of Prisons, or any person authorised by the Director of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for such a sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be made.
+(3) Before sentencing any offender to corrective training or preventive detention, the court must call for and consider any report submitted by the Director of Prisons, or any person authorised by the Director of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for such a sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
 
-(4) The court must give a copy of the report of the Director of Prisons to the offender or his advocate and to the Public Prosecutor.
+(4) The court must give a copy of any report submitted by the Director of Prisons to the offender or his advocate and to the Public Prosecutor.
 
-(5) Where an offender who is sentenced under subsection (1) or (2) is also convicted at the same trial of any offence other than an offence punishable for 2 years or more, the court may, on the application of the Public Prosecutor, instead of imposing any term of imprisonment as may be prescribed for that offence, take into account such offence for the purposes of determining the period of corrective training or preventive detention, as the case may be.
+(5) Where an offender who is sentenced under subsection (1) or (2) is also convicted at the same trial of any offence other than an offence punishable with imprisonment for 2 years or more, the court may, on the application of the Public Prosecutor, instead of imposing any term of imprisonment as may be prescribed for that offence, take into account such offence for the purposes of determining the period of corrective training or preventive detention, as the case may be.
 
 (6) A person sentenced to corrective training or preventive detention must be detained in a prison for the term of his sentence in accordance with the regulations made under section 428.
 
@@ -5518,7 +5518,7 @@ then, if the court is satisfied that it is expedient for the protection of the p
 
 the court may impose a sentence of reformative training in lieu of any other sentence if it is satisfied, having regard to his character, previous conduct and the circumstances of the offence, that to reform him and to prevent crime he should undergo a period of training in a reformative training centre.
 
-[Act 3 of 2011 wef 20/07/2011]
+[3/2011]
 
 (2) Where a young person has been ordered by a Juvenile Court under the Children and Young Persons Act to be brought before a District Court, then the court must inquire into the circumstances of the case and may —
 
@@ -5548,7 +5548,7 @@ the court may impose a sentence of reformative training in lieu of any other sen
 
 (2) Where a sentence of life imprisonment is imposed by the High Court at a trial mentioned in subsection (1), the other sentences of imprisonment must run concurrently with the sentence of life imprisonment, except that where the Court of Appeal sets aside or reduces the sentence of life imprisonment then the Court of Appeal may order any of the other sentences of imprisonment to run consecutively.
 
-### Limit of punishment of offence which is made up of several offences
+### Limit of punishment for offence made up of several offences
 
 308\.—(1) Where anything which is an offence is made up of parts, any of which parts is itself an offence, the person who committed the offence shall not be punished with the punishment of more than one of such offences unless it is expressly provided.
 
@@ -5648,7 +5648,7 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 (l) immediately after the death sentence has been carried out, the medical officer of the prison present must examine the body of the person executed, ascertain the fact of death and sign a death certificate and deliver it to the Director of Prisons;
 
-(m) within 24 hours after the execution, a Coroner must hold an inquiry as provided under the Coroners Act 2010 and satisfy himself of the identity of the body and whether the sentence of death was duly carried out;
+(m) within 24 hours after the execution, a Coroner must hold an inquiry as provided under the Coroners Act 2010 (Act 14 of 2010) and satisfy himself of the identity of the body and whether the sentence of death was duly carried out;
 
 (n) a copy of the Coroner’s findings must be forwarded to and filed in the Registry of the Supreme Court and another must be forwarded to and filed in the office of the Minister;
 
@@ -5937,7 +5937,7 @@ COMMUNITY SENTENCES
 
 (a) had previously been sentenced to a term of imprisonment, whether or not it is a term of imprisonment served by him in default of payment of a fine; or
 
-(b) had previously been admitted to an approved institution under section 34 of the Misuse of Drugs Act (Cap. 185) or to an approved centre under section 17 of the Intoxicating Substances Act (Cap. 146A).
+(b) had previously been admitted to an approved institution under section 34 of the Misuse of Drugs Act or to an approved centre under section 17 of the Intoxicating Substances Act.
 
 (3) A court may not make a community work order in respect of any case referred to in subsection (1) except that it may do so under section 344 even if the offender is convicted of ––
 
@@ -5963,7 +5963,7 @@ COMMUNITY SENTENCES
 
 (a) the offender is suffering from a psychiatric condition which is susceptible to treatment;
 
-(b) the offender is suitable for the treatment;
+(b) the offender is suitable for the treatment; and
 
 (c) the psychiatric condition of the offender is one of the contributing factors for his committing the offence.
 
@@ -5971,7 +5971,7 @@ COMMUNITY SENTENCES
 
 (5) In assessing whether an offender is a person suitable for treatment for his psychiatric condition, the appointed psychiatrist may take into account the following factors:
 
-(a) whether the offender is likely to attend the treatment sessions on such day and time and at such place as the appointed psychiatrist may require;
+(a) whether the offender is likely to attend the treatment sessions on such day and at such time and place as the appointed psychiatrist may require;
 
 (b) the physical and mental state of the offender; and
 
@@ -6009,7 +6009,7 @@ COMMUNITY SENTENCES
 
 340\. An offender in respect of whom a mandatory treatment order is in force shall —
 
-(a) attend the treatment sessions on such day and time and at such place as the appointed psychiatrist may require;
+(a) attend the treatment sessions on such day and at such time and place as the appointed psychiatrist may require;
 
 (b) comply with such other conditions in connection with his treatment as the appointed psychiatrist may require; and
 
@@ -6055,7 +6055,7 @@ COMMUNITY SENTENCES
 
 343\. An offender in respect of whom a day reporting order is in force shall —
 
-(a) report to the day reporting officer on such day and time and at such reporting centre as the day reporting officer may require;
+(a) report to the day reporting officer on such day and at such time and reporting centre as the day reporting officer may require;
 
 (b) undergo such counselling and rehabilitation programme as the day reporting officer may require;
 
@@ -6117,7 +6117,7 @@ the offender shall serve the sentence under the community work order, unless it 
 
 345\. An offender in respect of whom a community work order is in force shall —
 
-(a) perform, for the number of hours specified in the order, such work and on such day, time and place as the community work officer may require;
+(a) perform, for the number of hours specified in the order, such work and on such day and at such time and place as the community work officer may require;
 
 (b) notify the community work officer of any change of the offender’s address;
 
@@ -6145,7 +6145,7 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (4) For the avoidance of doubt, a court may make a community service order notwithstanding that the report from the community service officer states that the offender in respect of whom the community service order is to be made is not suitable to perform community service under that order.
 
-(5) The number of hours which an offender has to perform community service under a community service order shall be specified in the order and shall not exceed the prescribed maximum hours of community service which the offender may be required to perform community service under that order.
+(5) The number of hours which an offender has to perform community service under a community service order shall be specified in the order and shall not exceed the prescribed maximum hours of community service which the offender may be required to perform under that order.
 
 (6) A court may impose such conditions as it thinks fit when making a community service order.
 
@@ -6171,7 +6171,7 @@ the offender shall serve the sentence under the community work order, unless it 
 
 347\. An offender in respect of whom a community service order is in force shall —
 
-(a) perform, for the number of hours specified in the order, such community service and on such day, time and place as the community service officer may require;
+(a) perform, for the number of hours specified in the order, such community service and on such day and at such time and place as the community service officer may require;
 
 (b) notify the community service officer of any change of the offender’s address or occupation;
 
@@ -6223,7 +6223,7 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (4) Where a court varies a community work order under subsection (1)(a) by extending the number of hours the offender has to perform community work under the order, the number of hours so extended shall not exceed the prescribed maximum hours of community work which the offender may be required to work under that order.
 
-(5) Where a court varies a community service order under subsection (1)(a) by extending the period the offender is required to perform community service under the order, the period so extended shall not exceed the prescribed maximum hours of community service which the offender may be required to perform community service under that order.
+(5) Where a court varies a community service order under subsection (1)(a) by extending the period the offender is required to perform community service under the order, the period so extended shall not exceed the prescribed maximum hours of community service which the offender may be required to perform under that order.
 
 (6) Where any application is made under subsection (1), the court may fix a hearing date to determine whether or not to vary or revoke the community order referred to in that subsection and may at any time —
 
@@ -6279,7 +6279,7 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (11) Where a court varies a community work order under subsection (5)(a)(ii) by extending the number of hours the offender has to perform community work under the order, the number of hours so extended shall not exceed the prescribed maximum hours of community work which the offender may be required to work under that order.
 
-(12) Where a court varies a community service order under subsection (5)(a)(ii) by extending the period the offender is required to perform community service under the order, the period so extended shall not exceed the prescribed maximum hours of community service which the offender may be required to perform community service under that order.
+(12) Where a court varies a community service order under subsection (5)(a)(ii) by extending the period the offender is required to perform community service under the order, the period so extended shall not exceed the prescribed maximum hours of community service which the offender may be required to perform under that order.
 
 (13) If it is proved to the satisfaction of a court that an offender in respect of whom a mandatory treatment order, day reporting order, community work order or community service order is in force is in breach of the order, and the offender is serving any other community order at the time of the breach —
 
@@ -6429,7 +6429,7 @@ COMPENSATION AND COSTS
 
 361\. Any order for costs made under this Part shall be recoverable as a judgment debt.
 
-### Reward for unusual exertions and compensation for family of person killed or injured in arresting
+### Reward for unusual exertions and compensation for family of person killed in arresting
 
 362\.—(1) Where the court, whether on its own motion or the Public Prosecutor’s application, considers that a person has shown unusual courage, diligence or effort in the arrest of a person accused of having committed, attempted or abetted an offence punishable with death or imprisonment, then the court may order payment to him out of the Consolidated Fund of a sum of not more than $500.
 
@@ -6600,11 +6600,11 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 (6) Subject to subsection (6A), where an appellant makes an application pursuant to subsection (5), he shall be served with a copy each of the record of proceedings and the grounds of decision upon the payment of the prescribed fee.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (6A) The Registrar of the Subordinate Courts or the Registrar of the Supreme Court, as the case may be, may, as he thinks fit, furnish copies of the record of proceedings and the grounds of decision free of charge in any specific case or category of cases.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (7) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is the Public Prosecutor, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the Public Prosecutor a copy each of the record of proceedings and the grounds of decision free of charge.
 
@@ -6820,7 +6820,7 @@ Points reserved
 
 (2) Any application or motion made —
 
-(a) on a question of law which arises as to the interpretation or effect of any provision of the Constitution may be made at any stage of the proceedings after the question arises and must set out the question to be referred to the relevant court;
+(a) on a question of law which arises as to the interpretation or effect of any provision of the Constitution may be made at any stage of the proceedings after the question arises and must set out the question to be referred to the relevant court; and
 
 (b) on any other question of law must be made in writing within 10 days from the time of the making or passing of the judgment, sentence or order by the trial court and set out briefly the facts under deliberation and the question of law to be decided on them.
 
@@ -6904,7 +6904,7 @@ Points reserved
 
 (c) every party to the proceedings in which the case stated arose.
 
-(3) If the opinion of the High Court or the Court of Appeal, as the case may be, is given pending the conclusion of the trial, the trial court must proceed with the case having regard to the opinion on the case stated and any order of the High Court or Court of Appeal made under section 398.
+(3) If the opinion of the High Court or the Court of Appeal, as the case may be, is given pending the conclusion of the trial, the trial court must proceed with the case having regard to the opinion on the case stated and any order of the High Court or the Court of Appeal made under section 398.
 
 Division 3 —
 
@@ -6958,7 +6958,7 @@ disclosure conference
 
 404\.—(1) The High Court may, on its own motion or on the application of the Public Prosecutor or the accused in any criminal case disclosure conference, call for and examine the record of any criminal case disclosure conference held under Part IX or X before a Magistrate, a District Judge, the Registrar of the Subordinate Courts or the Registrar of the Supreme Court to satisfy itself as to the correctness, legality or propriety of any order recorded or passed at the criminal case disclosure conference, and as to the regularity of the criminal case disclosure conference.
 
-(2) Any application by the Public Prosecutor or the accused under subsection (1) must be made within 7 days from the date of the order so recorded or passed at the criminal case disclosure conference in respect to which the application relates.
+(2) Any application by the Public Prosecutor or the accused under subsection (1) must be made within 7 days from the date of the order so recorded or passed at the criminal case disclosure conference to which the application relates.
 
 (3) On examining a record under revision in this Division, the High Court may affirm, vary or set aside any of the orders made by the Magistrate, District Judge, Registrar of the Subordinate Courts or Registrar of the Supreme Court, as the case may be, who presided over the criminal case disclosure conference.
 
@@ -7183,75 +7183,67 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 
 (vi) the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings which involve the use or operation of the electronic filing service;
 
-[Act 2 of 2012 wef 01/03/2012]
-
 (e) the prescribing of anything that is required or permitted to be prescribed under this Code.
 
-### Repeal, savings and transitional provisions
+[2/2012]
 
-429\.—(1) The Criminal Procedure Code (Cap. 68) is repealed.
+### Savings and transitional provisions
 
-(2) This Code shall not affect —
+429\.—(1) This Code shall not affect —
 
-(a) any inquiry, trial or other proceeding commenced or pending under the repealed Code before the appointed day, and every such inquiry, trial or other proceeding may be continued and everything in relation thereto may be done in all respects after that day as if this Code had not been enacted; and
+(a) any inquiry, trial or other proceeding commenced or pending under the repealed Code before 2nd January 2011, and every such inquiry, trial or other proceeding may be continued and everything in relation thereto may be done in all respects after that date as if this Code had not been enacted; and
 
-(b) any further proceedings which may be taken under the repealed Code in respect of any inquiry, trial or other proceeding which has commenced or is pending before the appointed day, and such further proceedings may be taken and everything in relation thereto may be done in all respects after that day as if this Code had not been enacted.
+(b) any further proceedings which may be taken under the repealed Code in respect of any inquiry, trial or other proceeding which has commenced or is pending before 2nd January 2011, and such further proceedings may be taken and everything in relation thereto may be done in all respects after that date as if this Code had not been enacted.
 
-(3) Any application, authorisation, consent, direction, fiat, instruction, order, requirement or sanction of the Public Prosecutor given or made under the repealed Code before the appointed day and which remains in force or which is not complied with before that day shall be treated as if it were an application, authorisation, consent, direction, fiat, instruction, order or requirement of the Public Prosecutor given or made under the corresponding provisions of this Code.
+(2) Any application, authorisation, consent, direction, fiat, instruction, order, requirement or sanction of the Public Prosecutor given or made under the repealed Code before 2nd January 2011 and which remains in force or which is not complied with before that date shall be treated as if it were an application, authorisation, consent, direction, fiat, instruction, order or requirement of the Public Prosecutor given or made under the corresponding provisions of this Code.
 
-(4) Any summons, warrant or requisition issued by a court under the repealed Code before the appointed day and which has not been complied with or executed before that day shall be treated as if it were a summons, warrant or requisition, as the case may be, issued under the corresponding provisions of this Code.
+(3) Any summons, warrant or requisition issued by a court under the repealed Code before 2nd January 2011 and which has not been complied with or executed before that date shall be treated as if it were a summons, warrant or requisition, as the case may be, issued under the corresponding provisions of this Code.
 
-(5) Any proclamation published by a court under section 51 of the repealed Code shall be treated as if it were a proclamation published under section 88.
+(4) Any proclamation published by a court under section 51 of the repealed Code shall be treated as if it were a proclamation published under section 88.
 
-(6) Any authorisation given by the Commissioner of Police under section 70 of the repealed Code which is not acted on before the appointed day shall be treated as if it were an authorisation of the Commissioner of Police given under section 33.
+(5) Any authorisation given by the Commissioner of Police under section 70 of the repealed Code which is not acted on before 2nd January 2011 shall be treated as if it were an authorisation of the Commissioner of Police given under section 33.
 
-(7) Any written order of a police officer under section 58 of the repealed Code which is not complied with before the appointed day shall be treated as if it were a written order of a police officer under section 20.
+(6) Any written order of a police officer under section 58 of the repealed Code which is not complied with before 2nd January 2011 shall be treated as if it were a written order of a police officer under section 20.
 
-(8) Any order of a police officer under section 120 of the repealed Code which is not complied with before the appointed day shall be treated as if it were an order of a police officer under section 21.
+(7) Any order of a police officer under section 120 of the repealed Code which is not complied with before 2nd January 2011 shall be treated as if it were an order of a police officer under section 21.
 
-(9) Any requisition made by a police officer or authorised person under section 125A or 125B of the repealed Code before the appointed day which is not complied with before the appointed day shall be deemed to be a requisition made by a police officer or an authorised person under section 39 or 40, respectively.
+(8) Any requisition made by a police officer or authorised person under section 125A or 125B of the repealed Code before 2nd January 2011 which is not complied with before that date shall be deemed to be a requisition made by a police officer or an authorised person under section 39 or 40, respectively.
 
-(10) Any plea of guilty by letter under section 137 of the repealed Code which is not dealt with by a court before the appointed day shall be treated as if it were a plea of guilty by letter under section 154 and that provision shall apply accordingly to the plea of guilty.
+(9) Any plea of guilty by letter under section 137 of the repealed Code which is not dealt with by a court before 2nd January 2011 shall be treated as if it were a plea of guilty by letter under section 154 and that provision shall apply accordingly to the plea of guilty.
 
-(11) Any plea of guilty under section 137A of the repealed Code which is not dealt with by a court before the appointed day shall be treated as if it were a plea of guilty under section 226 and that provision shall apply accordingly to the plea of guilty.
+(10) Any plea of guilty under section 137A of the repealed Code which is not dealt with by a court before 2nd January 2011 shall be treated as if it were a plea of guilty under section 226 and that provision shall apply accordingly to the plea of guilty.
 
-(12) Any bond executed by any person under the repealed Code before the appointed day and which remains in force on or after that day shall be treated as if it were a bond executed under the corresponding provisions of this Code.
+(11) Any bond executed by any person under the repealed Code before 2nd January 2011 and which remains in force on or after that date shall be treated as if it were a bond executed under the corresponding provisions of this Code.
 
-(13) Any person who is subject to the supervision of the police under section 11 of the repealed Code shall be treated as if he were a person subject to police supervision under section 309 of this Code.
+(12) Any person who is subject to the supervision of the police under section 11 of the repealed Code shall be treated as if he were a person subject to police supervision under section 309 of this Code.
 
-(14) Any information received or recorded under section 115 of the repealed Code which is not dealt with in accordance with the provisions of the repealed Code before the appointed day shall be treated as if the information were received or recorded under section 14 and the police shall deal with the matter in accordance with the provisions of this Code.
+(13) Any information received or recorded under section 115 of the repealed Code which is not dealt with in accordance with the provisions of the repealed Code before 2nd January 2011 shall be treated as if the information were received or recorded under section 14 and the police shall deal with the matter in accordance with the provisions of this Code.
 
-(15) Any complaint which is received by a Magistrate before the appointed day and which is not disposed of before that day, shall be treated as if it were a complaint received by a Magistrate under this Code and the provisions of this Code shall, with the necessary modifications, apply in relation to the complaint.
+(14) Any complaint which is received by a Magistrate before 2nd January 2011 and which is not disposed of before that date, shall be treated as if it were a complaint received by a Magistrate under this Code and the provisions of this Code shall, with the necessary modifications, apply in relation to the complaint.
 
-(16) Any offence which is to be compounded under section 199A of the repealed Code and which is not so compounded before the appointed day shall be treated as an offence which is to be compounded under section 243 of this Code.
+(15) Any offence which is to be compounded under section 199A of the repealed Code and which is not so compounded before 2nd January 2011 shall be treated as an offence which is to be compounded under section 243 of this Code.
 
-(17) Notwithstanding any other provisions in this Code, Part XIX shall, with the necessary modifications, apply to any property seized under the provisions of the repealed Code and which is not reported or disposed of in accordance with Chapter XXXVIII of the repealed Code.
+(16) Notwithstanding any other provisions in this Code, Part XIX shall, with the necessary modifications, apply to any property seized under the provisions of the repealed Code and which is not reported or disposed of in accordance with Chapter XXXVIII of the repealed Code.
 
-(18) Where any period of time specified in any provision in the repealed Code is current immediately before the appointed day, this Code shall have effect as if the corresponding provision in this Code had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Code —
+(17) Where any period of time specified in any provision in the repealed Code is current immediately before 2nd January 2011, this Code shall have effect as if the corresponding provision in this Code had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Code —
 
-(a) to run from the day or event from which it was running immediately before that appointed day; and
+(a) to run from the day or event from which it was running immediately before 2nd January 2011; and
 
 (b) to expire (subject to any provision of this Code for its extension) whenever it would have expired if this Code had not been enacted,
 
 and any rights, priorities, liabilities, reliefs, obligations, requirements, powers, duties or exemptions dependent on the beginning, duration or end of such a period as abovementioned shall be under this Code as they were or would have been under that provision in the repealed Code.
 
-(19) Any subsidiary legislation made under the repealed Code and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Code, continue to be in force as if made under this Code until it is revoked or repealed by subsidiary legislation made under this Code.
+(18) Any subsidiary legislation made under the repealed Code and in force immediately before 2nd January 2011 shall, so far as it is not inconsistent with the provisions of this Code, continue to be in force as if made under this Code until it is revoked or repealed by subsidiary legislation made under this Code.
 
-(20) In so far as it is necessary for preserving the effect of any written law, any reference in such written law to a seizable offence or a non-seizable offence shall be construed, respectively, as a reference to an arrestable offence or a non-arrestable offence under this Code.
+(19) In so far as it is necessary for preserving the effect of any written law, any reference in such written law to a seizable offence or a non-seizable offence shall be construed, respectively, as a reference to an arrestable offence or a non-arrestable offence under this Code.
 
-(21) Where in any written law reference is made to the sanction of the Public Prosecutor or a Deputy Public Prosecutor, such reference shall be read as a reference to the consent of the Public Prosecutor or a Deputy Public Prosecutor.
+(20) Where in any written law reference is made to the sanction of the Public Prosecutor or a Deputy Public Prosecutor, such reference shall be read as a reference to the consent of the Public Prosecutor or a Deputy Public Prosecutor.
 
-(22) In any written law or document in which a reference is made to the repealed Code, such reference shall be read as a reference to this Code.
+(21) In any written law or document in which a reference is made to the repealed Code, such reference shall be read as a reference to this Code.
 
-(23) Where before the appointed day any inquiry is held under Chapter XXX of the repealed Code and has not been concluded immediately before that day, the inquiry may continue in accordance with the provisions under the repealed Code relating to such inquiry as if this Code had not been enacted.
+(22) Where before 2nd January 2011 any inquiry is held under Chapter XXX of the repealed Code and has not been concluded immediately before that date, the inquiry may continue in accordance with the provisions under the repealed Code relating to such inquiry as if this Code had not been enacted.
 
-(24) For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of subsection (1) as he may consider necessary or expedient.
-
-(25) In this section, “appointed day” means the date of commencement of this Code.
-
-### Consequential and related amendments to other written laws
-
-430\. The provisions of the Acts specified in the first column of the Sixth Schedule are amended in the manner set out in the second column thereof.
+(23) For a period of 2 years after 2nd January 2011, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the repeal of the repealed Code as he may consider necessary or expedient.
 
 FIRST SCHEDULE
 
@@ -7351,7 +7343,7 @@ Ditto
 
 114
 
-Abetment of any offence, if the abettor is present when offence is committed
+Abetment of any offence, if the abettor is present when the offence is committed
 
 Ditto
 
@@ -7551,17 +7543,17 @@ CHAPTER VA — CRIMINAL CONSPIRACY
 
 Criminal conspiracy
 
-May arrest without warrant if arrest for the offence the object of the conspiracy may be made without warrant, but not otherwise
+May arrest without warrant if arrest for the offence which is the object of the conspiracy may be made without warrant, but not otherwise
 
-According as to whether warrant or summons may issue for the offence the object of the conspiracy
+According as to whether warrant or summons may issue for the offence which is the object of the conspiracy
 
-According as to whether the offence the object of the conspiracy is bailable or not
+According as to whether the offence which is the object of the conspiracy is bailable or not
 
-The same punishment as if the offence the object of the conspiracy was abetted
+The same punishment as if the offence which is the object of the conspiracy was abetted
 
-The court by which the offence the object of the conspiracy is triable
+The court by which the offence which is the object of the conspiracy is triable
 
-CHAPTER V1 — OFFENCES AGAINST THE STATE
+CHAPTER VI — OFFENCES AGAINST THE STATE
 
 121
 
@@ -7873,7 +7865,7 @@ Magistrate’s Court or District Court
 
 136
 
-Harbouring such an officer, a sailor, a soldier or an airman who has deserted
+Harbouring an officer, a sailor, a soldier or an airman who has deserted
 
 Ditto
 
@@ -8185,7 +8177,7 @@ Magistrate’s Court or District Court
 
 162
 
-Taking a gratification in order by corrupt or illegal means to influence a public servant
+Taking a gratification in order, by corrupt or illegal means, to influence a public servant
 
 Ditto
 
@@ -8421,7 +8413,7 @@ Ditto
 
 Imprisonment for one month, or fine*, or both
 
-The court in which the offence is committed subject to the provisions of Chapter XXXII, or if not committed in a court, a District Court
+The court in which the offence is committed subject to the provisions of Division 1 of Part XXI, or if not committed in a court, a District Court
 
 175
 
@@ -8505,7 +8497,7 @@ Ditto
 
 Imprisonment for 6 months, or fine*, or both
 
-The court in which the offence is committed, subject to the provisions of Chapter XXXII, or if not committed in a court, a District Court
+The court in which the offence is committed, subject to the provisions of Division 1 of Part XXI, or if not committed in a court, a District Court
 
 179
 
@@ -9053,7 +9045,7 @@ Ditto
 
 211
 
-If offence charged is punishable with death, or imprisonment for a term of 7 years or upwards
+If offence charged is punishable with death, or imprisonment for 7 years or upwards
 
 May arrest without warrant
 
@@ -9151,7 +9143,7 @@ Ditto
 
 214
 
-Offering gift or restoration of property in consideration of the screening offender, if the offence is capital
+Offering gift or restoration of property in consideration of screening offender, if the offence is capital
 
 Ditto
 
@@ -9587,7 +9579,7 @@ Bailable
 
 Imprisonment for one year, or fine*, or both
 
-The court in which the offence is committed, subject to the provisions of Chapter XXXII
+The court in which the offence is committed, subject to the provisions of Division 1 of Part XXI
 
 229
 
@@ -10190,7 +10182,7 @@ Ditto
 
 270
 
-Malignantly doing any act known to be or likely to spread infection of any disease dangerous to life
+Malignantly doing any act known to or likely to spread infection of any disease dangerous to life
 
 Ditto
 
@@ -10584,7 +10576,7 @@ Ditto
 
 298
 
-Uttering any word or making any sound in the hearing, or making any gesture, or placing any object in the sight of any person or causes any matter however represented to be seen or heard by that person, with intention to wound his religious or racial feeling
+Uttering any word or making any sound in the hearing, or making any gesture, or placing any object in the sight of any person or causing any matter however represented to be seen or heard by that person, with intention to wound his religious or racial feelings
 
 Shall not arrest without warrant
 
@@ -11484,30 +11476,6 @@ Ditto
 
 Death, or imprisonment for life, and caning
 
-364A
-
-Kidnapping or abducting in order to compel the Government to do or abstain from doing any act
-
-Ditto
-
-Ditto
-
-Ditto
-
-Death, or imprisonment for life, and fine, or caning
-
-364A
-
-Kidnapping or abducting in order to compel any person to do or abstain from doing any act
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 15 years, and fine, or caning
-
 365
 
 Kidnapping or abducting with intent secretly and wrongfully to confine a person
@@ -12318,7 +12286,7 @@ Magistrate’s Court or District Court
 
 404
 
-Dishonest misappropriation of property, knowing that it was in possession of a deceased person at his death, and that it has not since been in the possession of any person legally entitled to it
+Dishonest misappropriation of property, knowing that it was in the possession of a deceased person at his death, and that it has not since been in the possession of any person legally entitled to it
 
 Ditto
 
@@ -13096,12 +13064,7 @@ Imprisonment for 3 years, or fine, or both
 
 Ditto
 
-CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS,
-
-
-
-
-AND TO CURRENCY NOTES AND BANK NOTES
+CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS,AND TO CURRENCY NOTES AND BANK NOTES
 
 465
 
@@ -13245,7 +13208,7 @@ District Court
 
 474
 
-Having possession of a document or an electronic record knowing it to be forged, with intent to use it as genuine, if the document or electronic record is one of the description mentioned in section 466
+Having possession of a document or an electronic record knowing it to be forged, with intent to use it as genuine, if the document or electronic record is one of the descriptions mentioned in section 466
 
 Ditto
 
@@ -13259,7 +13222,7 @@ Ditto
 
 474
 
-If the document is one of the description mentioned in section 467
+If the document is one of the descriptions mentioned in section 467
 
 Ditto
 
@@ -13665,7 +13628,7 @@ Ditto
 
 According to sections 7, 8 and 9 of this Code
 
-[S 664/2011 wef 20/12/2011]
+[S 664/2011]
 
 SECOND SCHEDULE
 
@@ -13788,7 +13751,7 @@ Offences that may be compounded by victim
 
 Part I
 
-Offences under Penal Code (Cap. 224)
+Offences under Penal Code (cap. 224)
 
 First column
 
@@ -13952,7 +13915,7 @@ If the offence is not committed
 
 Ditto
 
-Chapter XV — Offences relating to religion
+Chapter XV — Offences relating to religion or race
 
 19.
 
@@ -14235,9 +14198,9 @@ Compoundable by the person attacked, worried or put in fear
 
 12(1)(b)
 
-Offences relating to animals — allowing animal to stray upon, or tethers or pickets any animal on land in possession of any private person
+Offences relating to animals — allowing animal to stray upon, or tethers or pickets any animal on land in the possession of any private person
 
-Compoundable by the owner of lawful occupier of land
+Compoundable by the owner or lawful occupier of land
 
 50.
 
@@ -14285,2919 +14248,2726 @@ The type of work under a community service order includes general cleaning, repa
 
 (b) any land of which the Government or any public body is the owner or lessee or occupier, or any land that is administered, maintained or kept clean by the Government or any public body.
 
-SIXTH SCHEDULE
+TABLE OF DERIVATIONS
 
-Section 430
-
-Consequential and related amendments
-
-
-
-
-to other written laws
+This Table shows in the first column the provisions of the Code and in the second and third columns the corresponding provisions of the repealed Code and other legislation, respectively, in respect of which amendments (whether or not of a drafting nature) may have been made.
 
 First column
 
 Second column
 
-1.
+Third column
 
-Accounting and Corporate Regulatory Authority Act
+Criminal Procedure Code (Cap. 68, 2012 Ed.)
 
+Criminal Procedure Code (Cap. 68, 1985 Ed.)
 
+Others
 
+1
 
-(Chapter 2A, 2005 Ed.)
+1
 
-Section 33(1)
+—
 
-Insert, immediately after the words “the Second Schedule may”, the words “, with the authorisation of the Public Prosecutor,”.
+2
 
-2.
+2
 
-Administration of Muslim Law Act
+—
 
+3
 
+New
 
+—
 
-(Chapter 3, 2009 Ed.)
+4
 
-Section 43
+3
 
-Delete the words “Chapter XXXII of the Criminal Procedure Code (Cap. 68)” in paragraph (e) and substitute the words “Division 1 of Part XXI of the Criminal Procedure Code 2010”.
+—
 
-3.
+5
 
-Animals and Birds Act
+4
 
+—
 
+6
 
+5
 
-(Chapter 7, 2002 Ed.)
+—
 
-Section 67
+7
 
-Delete subsection (2) and substitute the following subsection:
+8
 
-“
+—
 
-(2) For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by the Director-General or an authorised officer, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
+8(1) and (2)
 
-”.
+7(1) and (3)
 
-4.
+—
 
-Arms and Explosives Act
+9(1)
 
+10
 
+—
 
+10
 
-(Chapter 13, 2003 Ed.)
+129, 130 and 131
 
-Section 40
+—
 
-(i)
+11
 
-Delete the words “written sanction” in subsection (1) and substitute the word “consent”.
+336
 
-(ii)
+—
 
-Delete the word “sanction” wherever it appears in subsections (2), (3) and (4) and substitute in each case the word “consent”.
+12
 
-(iii)
+New
 
-Delete the section heading and substitute the following section heading:
+—
 
-“
+13
 
-Consent
+New
 
-”.
+—
 
-5.
+14
 
-Banishment Act
+115
 
+—
 
+15
 
+New
 
-(Chapter 18, 1985 Ed.)
+—
 
-Section 8(4)
+16
 
-(i)
+116
 
-Delete the words “section 43 of the Criminal Procedure Code” and substitute the words “section 116 of the Criminal Procedure Code 2010”.
+—
 
-(ii)
+17
 
-Delete the marginal reference “Cap. 68.”.
+119
 
-6.
+—
 
-Banking Act
+18
 
+118
 
+—
 
+19
 
-(Chapter 19, 2008 Ed.)
+127
 
-Section 73
+—
 
-(i)
+20
 
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
+58
 
-(ii)
+—
 
-Delete the word “Attorney-General” in the section heading and substitute the words “Public Prosecutor”.
+21
 
-7.
+120
 
-Betting Act
+—
 
+22
 
+121
 
+—
 
-(Chapter 21, 1985 Ed.)
+23
 
-(a)
+122(6), (7) and (8)
 
-Section 5(6)
+—
 
-(i)
+24
 
-Delete the words “section 352 of the Criminal Procedure Code” and substitute the words “section 93 of the Criminal Procedure Code 2010”.
+61(1) and (2)
 
-(ii)
+—
 
-Delete the marginal reference “Cap. 68.”.
+25
 
-(b)
+62
 
-Section 19(2)
+—
 
-(i)
+26
 
-Delete the words “section 74 of the Criminal Procedure Code” and substitute the words “section 44 of the Criminal Procedure Code 2010”.
+61(3) to (5) and 63(1) and (2)
 
-(ii)
+—
 
-Delete the marginal reference “Cap. 68.”.
+27
 
-8.
+New
 
-Broadcasting Act
+—
 
+28
 
+New
 
+—
 
-(Chapter 28, 2003 Ed.)
+29
 
-Section 55
+New
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-9.
+30
 
-Casino Control Act
+64
 
+—
 
+31
 
+65
 
-(Chapter 33A, 2007 Ed.)
+—
 
-Section 182
+32
 
-Insert, immediately after subsection (2), the following subsection:
+69
 
-“
+—
 
-(2A) For the purposes of subsection (2), when an inspector or authorised person who is not a police officer is exercising the powers of a police officer under that subsection, he shall be deemed to be an officer not below the rank of inspector of police.
+33
 
-”.
+70
 
-10.
+—
 
-Census Act
+34
 
+125
 
+—
 
+35(8)
 
-(Chapter 35, 1991 Ed.)
+—
 
-Section 22
+Regulation 5(3), Monetary Authority of Singapore (Freezing of Assets of Former President of Liberia and Connected Persons) Regulations 2004
 
-(i)
 
-Delete the words “previous sanction, in writing, of the Attorney-General” and substitute the words “consent of the Public Prosecutor”.
 
-(ii)
 
-Delete the marginal note and insert the following section heading:
+(S 260/2004)
 
-“
+36
 
-Consent of Public Prosecutor
+68A
 
-”.
+—
 
-11.
+37
 
-Central Provident Fund Act
+66
 
+—
 
+38
 
+67
 
-(Chapter 36, 2001 Ed.)
+—
 
-(a)
+39
 
-Section 62
+125A
 
-(i)
+—
 
-Delete subsection (4) and substitute the following subsection:
+40
 
-“
+125B
 
-(4) On an accused person appearing before a court in pursuance of such a notice, the court shall proceed as though he were produced before the court in pursuance of section 153 of the Criminal Procedure Code 2010.
+—
 
-”.
+41
 
-(ii)
+71
 
-Delete the words “section 136 of the Criminal Procedure Code” in subsection (6)(a) and substitute the words “section 153 of the Criminal Procedure Code 2010”.
+—
 
-(b)
+42
 
-Section 67
+72
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-12.
+43
 
-Charities Act
+73
 
+—
 
+44
 
+74
 
-(Chapter 37, 2007 Ed.)
+—
 
-Section 47A
+45
 
-(i)
+75
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-(ii)
+46
 
-Delete the words “with the consent of the Attorney-General”.
+76
 
-13.
+—
 
-Children and Young Persons Act
+47
 
+77, 78 and 79
 
+—
 
+48
 
-(Chapter 38, 2001 Ed.)
+80
 
-(a)
+—
 
-Section 20
+49
 
-(i)
+81
 
-Delete the words “take cognizance of” and substitute the word “try”.
+—
 
-(ii)
+50
 
-Delete the words “written sanction” and substitute the word “consent”.
+82
 
-(iii)
+—
 
-Delete the words “take cognizance of” in the section heading and substitute the word “try”.
+51
 
-(b)
+84
 
-Section 44
+—
 
-Delete the words “section 13 of the Criminal Procedure Code (Cap. 68)” in subsections (1)(k) and (7)(b) and substitute in each case the words “section 305 of the Criminal Procedure Code 2010”.
+52
 
-14.
+85
 
-Chit Funds Act
+—
 
+53
 
+86
 
+—
 
-(Chapter 39, 1985 Ed.)
+54
 
-Section 58
+87
 
-(i)
+—
 
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
+55
 
-(ii)
+88
 
-Delete the marginal note and insert the following section heading:
+—
 
-“
+56
 
-Consent of Public Prosecutor
+90
 
-”.
+—
 
-15.
+57
 
-Cinematograph Film Hire Duty Act
+91
 
+—
 
+58
 
+92
 
-(Chapter 40, 2001 Ed.)
+—
 
-(a)
+59
 
-Section 13(4)
+93
 
-Delete the words “section 33 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 65 of the Criminal Procedure Code 2010”.
+—
 
-(b)
+60
 
-Section 15
+94
 
-Insert, immediately after the words “Director-General or”, the words “with the consent of”.
+—
 
-(c)
+61
 
-Section 16
+95
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-16.
+62
 
-Civil Aviation Authority of Singapore Act 2009
+96
 
+—
 
+63(1)
 
+111
 
-(Act 17 of 2009)
+—
 
-Section 79
+63(3)
 
-(i)
+—
 
-Delete the words “take cognizance of” and substitute the word “try”.
+Section 2(2), Terrorism (Suppression of Financing) Act (Cap. 325, 2003 Ed.)
 
-(ii)
+64
 
-Delete the word “sanction” and substitute the word “consent”.
+32
 
-(iii)
+—
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+65
 
-17.
+33
 
-Civil Defence Act
+—
 
+66
 
+34
 
+—
 
-(Chapter 42, 2001 Ed.)
+67
 
-Section 87
+35
 
-Renumber the section as subsection (1) of that section, and insert immediately thereafter the following subsection:
+—
 
-“
+68
 
-(2) For the purposes of subsection (1), when a provost officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the provost officer shall be deemed to be an officer not below the rank of inspector of police.
+36
 
-”.
+—
 
-18.
+69
 
-Civil Defence Shelter Act
+48
 
+—
 
+70
 
+New
 
-(Chapter 42A, 1998 Ed.)
+—
 
-Section 23
+71
 
-Insert, immediately after the words “the regulations may”, the words “, with the authorisation of the Public Prosecutor,”.
+46
 
-19.
+—
 
-Commodity Trading Act
+72
 
+47
 
+—
 
+73
 
-(Chapter 48A, 2009 Ed.)
+49
 
-Section 58(1)
+—
 
-Delete the word “Attorney-General” in paragraphs (a) and (b) and substitute in each case the words “Public Prosecutor”.
+74
 
-20.
+50
 
-Common Gaming Houses Act
+—
 
+75
 
+24
 
+—
 
-(Chapter 49, 1985 Ed.)
+76
 
-Section 23
+28(1)
 
-Delete the words “Chapter VII of the Criminal Procedure Code” and substitute the words “Divisions 1 and 2 of Part V of the Criminal Procedure Code 2010”.
+—
 
-21.
+77
 
-Community Mediation Centres Act
+25
 
+—
 
+78
 
+29
 
-(Chapter 49A, 1998 Ed.)
+—
 
-Section 15(1)
+79
 
-(i)
+30
 
-Delete the words “takes cognizance of an offence upon receiving a complaint made by a private person under section 128 of the Criminal Procedure Code (Cap. 68)” and substitute the words “receives a complaint made by a private person under section 151 of the Criminal Procedure Code 2010”.
+—
 
-(ii)
+80
 
-Delete the words “Schedule A to the Criminal Procedure Code” in paragraph (a) and substitute the words “the First Schedule to the Criminal Procedure Code 2010”.
+31
 
-22.
+—
 
-Companies Act
+81
 
+26
 
+—
 
+82
 
-(Chapter 50, 2006 Ed.)
+27
 
-Section 409(1)
+—
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+83
 
-23.
+28(2)
 
-Competition Act
+—
 
+84(1)
 
+40
 
+—
 
-(Chapter 50B, 2006 Ed.)
+84(2)
 
-Section 91A(1)
+41
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-24.
+85
 
-Computer Misuse Act
+37
 
+—
 
+86
 
+20
 
-(Chapter 50A, 2007 Ed.)
+—
 
-(a)
+87
 
-Section 14
+21
 
-Delete the words “section 125A of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 39 of the Criminal Procedure Code 2010”.
+—
 
-(b)
+88
 
-Section 15A(2)
+51
 
-Delete the words “sections 125A and 125B of the Criminal Procedure Code” and substitute the words “sections 39 and 40 of the Criminal Procedure Code 2010”.
+—
 
-25.
+89
 
-Consumer Protection (Trade Descriptions and Safety Requirements) Act
+52(1) to (6)
 
+—
 
+90
 
+52(7) to (12)
 
-(Chapter 53, 1985 Ed.)
+—
 
-Section 31(1)
+91
 
-Delete the words “section 403 of the Criminal Procedure Code” and substitute the words “section 360 of the Criminal Procedure Code 2010”.
+New
 
-26.
+—
 
-Control of Essential Supplies Act
+92
 
+351
 
+—
 
+93
 
-(Chapter 55, 1985 Ed.)
+352
 
-Section 10(3)
+—
 
-Insert, immediately after the words “under this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+94
 
-27.
+New
 
-Control of Vectors and Pesticides Act
+—
 
+95
 
+New
 
+—
 
-(Chapter 59, 2002 Ed.)
+96
 
-Section 46
+353
 
-(i)
+—
 
-Delete the words “section 136 of the Criminal Procedure Code (Cap. 68)” in subsection (3) and substitute the words “section 153 of the Criminal Procedure Code 2010”.
+97
 
-(ii)
+354
 
-Delete the words “section 136 of the Criminal Procedure Code” in subsection (5)(a) and substitute the words “section 153 of the Criminal Procedure Code 2010”.
+—
 
-28.
+98
 
-Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
+329
 
+—
 
+99
 
+355
 
-(Chapter 65A, 2000 Ed.)
+—
 
-(a)
+100
 
-Section 13(5)
+356
 
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
+—
 
-(b)
+101
 
-Section 14(1)
+350
 
-Delete the words “section 224 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 319 of the Criminal Procedure Code 2010”.
+—
 
-(c)
+102(2), (3)
 
-Section 15(2)
+357
 
-Delete the words “officially informed under section 122(6) of the Criminal Procedure Code (Cap. 68)” in paragraph (a) and substitute the words “informed under section 23(1) of the Criminal Procedure Code 2010”.
+—
 
-(d)
+103
 
-Section 22(4)
+New
 
-Delete the words “section 224 of the Criminal Procedure Code (Cap. 68)” in paragraph (b) and substitute the words “section 319 of the Criminal Procedure Code 2010”.
+—
 
-(e)
+104
 
-Section 31
+New
 
-(i)
+—
 
-Delete the word “Attorney-General” in subsection (1) and substitute the words “Public Prosecutor”.
+105
 
-(ii)
+358
 
-Delete the word “Attorney-General” wherever it appears in subsection (2)(a) and (b) and substitute in each case the words “Public Prosecutor”.
+—
 
-(f)
+106
 
-Section 53(1)
+359
 
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
+—
 
-(g)
+107
 
-Section 58
+361
 
-(i)
+—
 
-Delete the words “take cognizance of” and substitute the word “try”.
+108
 
-(ii)
+362
 
-Delete the word “sanction” and substitute the word “consent”.
+—
 
-(iii)
+109
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+363
 
-29.
+—
 
-Criminal Law (Temporary Provisions) Act
+110
 
+New
 
+—
 
+111
 
-(Chapter 67, 2000 Ed.)
+126
 
-Section 33(1)
+—
 
-Delete the words “section 14 of the Criminal Procedure Code (Cap. 68)” in paragraph (a) and substitute the words “section 310 of the Criminal Procedure Code 2010”.
+112
 
-30.
+New
 
-Currency Act
+—
 
+113
 
+New
 
+—
 
-(Chapter 69, 2002 Ed.)
+114
 
-Section 26
+New
 
-(i)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+115
 
-(ii)
+42
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+—
 
-31.
+116(1)
 
-Customs Act
+43(1)
 
+—
 
+116(6)
 
+43(4)
 
-(Chapter 70, 2004 Ed.)
+—
 
-Section 113
+116(7)
 
-Insert, immediately after the word “under this Act, may”, the words “, with the authorisation of the Public Prosecutor,”.
+44
 
-32.
+—
 
-Dangerous Fireworks Act
+117
 
+New
 
+—
 
+118
 
-(Chapter 72, 1999 Ed.)
+New
 
-(a)
+—
 
-Section 4(2)
+119
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+45
 
-(b)
+—
 
-Section 6(2)
+120
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” in paragraph (b) and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+54
 
-33.
+—
 
-Diplomatic and Consular Officers (Oaths and Fees) Act
+121
 
+55
 
+—
 
+122
 
-(Chapter 82, 1985 Ed.)
+56 and 201
 
-Section 10
+—
 
-(i)
+123(1) to (6)
 
-Delete the words “prior sanction in writing of the Attorney-General” and substitute the words “consent of the Public Prosecutor”.
+158
 
-(ii)
+—
 
-Delete the marginal note and insert the following section heading:
+123(7)
 
-“
+179
 
-Consent of Public Prosecutor
+—
 
-”.
+124
 
-34.
+159
 
-Employment of Foreign Manpower Act
+—
 
+125
 
+160
 
+—
 
-(Chapter 91A, 2009 Ed.)
+126
 
-(a)
+161
 
-Section 16(5)
+—
 
-Insert, immediately after the words “appear in court and”, the words “may, with the authorisation of the Public Prosecutor,”.
+127
 
-(b)
+162
 
-Section 21G(1)
+—
 
-Delete the words “section 386(1) of the Criminal Procedure Code (Cap. 68)” in paragraph (a) and substitute the words “section 364(1) of the Criminal Procedure Code 2010”.
+128
 
-(c)
+163
 
-Section 24
+—
 
-Repeal and substitute the following section:
+129(1) to (3)
 
-“
+164
 
-Complaint by employment inspector
+—
 
-24\. For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by any employment inspector, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
+129(4)
 
-”.
+165
 
-35.
+—
 
-Endangered Species
+130
 
+166
 
+—
 
+131
 
-(Import and Export) Act
+167
 
+—
 
+132
 
+168
 
-(Chapter 92A, 2008 Ed.)
+—
 
-Section 24
+133
 
-Delete subsection (2) and substitute the following subsection:
+169
 
-“
+—
 
-(2) For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by the Director-General or an authorised officer, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
+134
 
-”.
+170(1)
 
-36.
+—
 
-Enlistment Act
+135
 
+170(2)
 
+—
 
+136
 
-(Chapter 93, 2001 Ed.)
+170(3)
 
-Section 36(2)
+—
 
-Delete the words “sections 35 and 36 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 67 and 68 of the Criminal Procedure Code 2010”.
+137
 
-37.
+170(4)
 
-Entertainments Duty Act
+—
 
+138
 
+172
 
+—
 
-(Chapter 94, 1985 Ed.)
+139
 
-(a)
+173
 
-Section 16(2)
+—
 
-(i)
+140
 
-Delete the words “section 33 of the Criminal Procedure Code” and substitute the words “section 65 of the Criminal Procedure Code 2010”.
+174
 
-(ii)
+—
 
-Delete the marginal reference “Cap. 68.”.
+141
 
-(b)
+175
 
-Section 20
+—
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+142
 
-38.
+New
 
-Environmental Public Health Act
+—
 
+143
 
+176
 
+—
 
-(Chapter 95, 2002 Ed.)
+144
 
-Section 21A(3)
+New
 
-Delete the words “section 18 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 307(1) of the Criminal Procedure Code 2010”.
+—
 
-39.
+145
 
-Evidence Act
+New
 
+—
 
+146
 
+171
 
-(Chapter 97, 1997 Ed.)
+—
 
-(a)
+147
 
-Sections 24 to 30
+177
 
-Repeal.
+—
 
-(b)
+148
 
-Section 122(5)
+178
 
-Delete the words “section 373 or 374 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 265 or 266 of the Criminal Procedure Code 2010”.
+—
 
-40.
+149
 
-Extradition Act
+New
 
+—
 
+150
 
+New
 
-(Chapter 103, 2000 Ed.)
+—
 
-Section 2
+151
 
-Insert, immediately after subsection (6), the following subsection:
+New
 
-“
+—
 
-(6A) Every District Judge and Magistrate shall have the jurisdiction to hear a case and commit a fugitive to prison to await his return under this Act.
+152
 
-”.
+New
 
-41.
+—
 
-Finance Companies Act
+153
 
+New
 
+—
 
+154
 
-(Chapter 108, 2000 Ed.)
+137
 
-Section 52
+—
 
-(i)
+155
 
-Delete the words “under the direction of, the Attorney-General” and substitute the words “with the consent of, the Public Prosecutor”.
+180(o)
 
-(ii)
+—
 
-Delete the section heading and substitute the following section heading:
+156
 
-“
+180(p)
 
-Consent of Public Prosecutor
+—
 
-”.
+157
 
-42.
+New
 
-Fire Safety Act
+—
 
+158
 
+New
 
+—
 
-(Chapter 109A, 2000 Ed.)
+159
 
-Section 52
+New
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-43.
+160
 
-Free Trade Zones Act
+New
 
+—
 
+161
 
+New
 
-(Chapter 114, 1985 Ed.)
+—
 
-Section 19
+162
 
-(i)
+New
 
-Insert, immediately after the words “section 9 may” in paragraph (a), the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-(ii)
+163
 
-Insert, immediately after the words “made thereunder may” in paragraph (b), the words “, with the authorisation of the Public Prosecutor,”.
+New
 
-44.
+—
 
-Goods and Services Tax Act
+164
 
+New
 
+—
 
+165
 
-(Chapter 117A, 2005 Ed.)
+New
 
-Section 69
+—
 
-(i)
+166
 
-Delete the words “at the instance, or with the sanction,” and substitute the words “with the consent”.
+New
 
-(ii)
+—
 
-Delete the section heading and substitute the following section heading:
+167
 
-“
+New
 
-Consent of Public Prosecutor
+—
 
-”.
+168
 
-45.
+New
 
-Housing and Development Act
+—
 
+169
 
+New
 
+—
 
-(Chapter 129, 2004 Ed.)
+170
 
-Section 82
+New
 
-Insert, immediately after the words “under this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-46.
+171
 
-Housing Developers (Control and Licensing) Act
+New
 
+—
 
+172
 
+New
 
-(Chapter 130, 1985 Ed.)
+—
 
-Section 29
+173
 
-(i)
+New
 
-Delete the words “save by or under the direction” and substitute the words “except with the consent”.
+—
 
-(ii)
+174
 
-Delete the marginal note and insert the following section heading:
+New
 
-“
+—
 
-Consent of Public Prosecutor
+175
 
-”.
+New
 
-47.
+—
 
-Immigration Act
+176
 
+New
 
+—
 
+177
 
-(Chapter 133, 2008 Ed.)
+138
 
-(a)
+—
 
-Section 6(3)
+178(1)
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” in paragraph (a) and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+139
 
-(b)
+—
 
-Section 11A(6)
+179
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” in paragraph (b) and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+141
 
-(c)
+—
 
-Section 15(3)
+180
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” in paragraph (b) and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+142
 
-(d)
+—
 
-Section 38
+181
 
-(i)
+143
 
-Insert, immediately after the words “appear in court and” in subsection (2), the words “may, with the authorisation of the Public Prosecutor,”.
+—
 
-(ii)
+182
 
-Insert, immediately after subsection (3), the following subsection:
+144
 
-“
+—
 
-(4) For the purposes of subsection (3), when an immigration officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the immigration officer shall be deemed to be an officer not below the rank of inspector of police.
+183
 
-”.
+145
 
-(e)
+—
 
-Section 51(4)
+184
 
-Delete the words “sections 35 and 36 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 67 and 68 of the Criminal Procedure Code 2010”.
+153
 
-(f)
+—
 
-Section 57
+185
 
-(i)
+146
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” in subsection (1)(ia)(A) and (iii) and substitute in each case the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+—
 
-(ii)
+186
 
-Delete the words “section 231 of the Criminal Procedure Code” in subsections (1A) and (1B) and substitute in each case the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+148
 
-48.
+—
 
-Infectious Diseases Act
+187
 
+149
 
+—
 
+188
 
-(Chapter 137, 2003 Ed.)
+150
 
-(a)
+—
 
-Section 23(6)
+189
 
-Delete the word “Attorney-General” wherever it appears and substitute the words “Public Prosecutor”.
+152
 
-(b)
+—
 
-Section 25(1)
+190
 
-Delete the words “section 22 or 121 of the Criminal Procedure Code (Cap. 68)” in paragraph (ba) and substitute the words “section 22 or 424 of the Criminal Procedure Code 2010”.
+154
 
-49.
+—
 
-Inland Revenue Authority of Singapore Act
+191
 
+156
 
+—
 
+192
 
-(Chapter 138A, 1993 Ed.)
+New
 
-Section 26(1)
+—
 
-(i)
+193
 
-Insert, immediately after the words “those Acts may”, the words “, with the authorisation of the Public Prosecutor,”.
+New
 
-(ii)
+—
 
-Delete the words “with the consent of the Attorney-General”.
+194
 
-50.
+New
 
-Inquiries Act
+—
 
+195
 
+New
 
+—
 
-(Chapter 139A, 2008 Ed.)
+196
 
-The Schedule, paragraph 9(2)
+New
 
-Delete the words “Chapter XIII of the Criminal Procedure Code (Cap. 68)” in sub-paragraph (a) and substitute the words “Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010”.
+—
 
-51.
+197
 
-Institute of Technical Education Act
+New
 
+—
 
+198
 
+New
 
-(Chapter 141A, 1993 Ed.)
+—
 
-(a)
+199
 
-Section 41
+338
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-(b)
+200
 
-Section 42
+339
 
-(i)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+201
 
-(ii)
+342
 
-Delete the marginal note and insert the following section heading:
+—
 
-“
+202
 
-Consent of Public Prosecutor
+343
 
-”.
+—
 
-52.
+203
 
-Intellectual Property Office of Singapore Act
+344
 
+—
 
+204
 
+345
 
-(Chapter 140, 2002 Ed.)
+—
 
-Section 34(1)
+205
 
-Insert, immediately after the words “the Third Schedule may”, the words “, with the authorisation of the Public Prosecutor,”.
+346
 
-53.
+—
 
-Internal Security Act
+206
 
+347
 
+—
 
+207
 
-(Chapter 143, 1985 Ed.)
+348
 
-Section 68
+—
 
-Repeal and substitute the following section:
+208
 
-“
+349
 
-Medical officers of armed forces to be regarded as pathologist or medical practitioner under supervision of pathologist
+—
 
-68\. The provisions of the Coroners Act 2010 shall, in respect of any inquiries into any death in any security area, have effect as if reference therein to a pathologist, or a medical practitioner under the supervision of a pathologist, included reference in each case to a medical officer of the Singapore Armed Forces when acting in the course of his duty:
+209
 
-Provided that no such medical officer of the Singapore Armed Forces shall, without his consent, be required by any order or otherwise to perform a post-mortem examination of any body.
+New
 
-”.
+—
 
-54.
+210
 
-International Enterprise Singapore Board Act
+New
 
+—
 
+211
 
+New
 
-(Chapter 143B, 2002 Ed.)
+—
 
-(a)
+212
 
-Section 22
+New
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-(b)
+213
 
-Section 23
+New
 
-(i)
+—
 
-Delete the words “take cognizance of” and substitute the word “try”.
+214
 
-(ii)
+New
 
-Delete the words “sanction” and substitute the word “consent”.
+—
 
-(iii)
+215
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+New
 
-55.
+—
 
-Intoxicating Substances Act
+216
 
+New
 
+—
 
+217
 
-(Chapter 146A, 2001 Ed.)
+New
 
-Section 12
+—
 
-Renumber the section as subsection (1) of that section, and insert immediately thereafter the following subsection:
+218
 
-“
+New
 
-(2) For the purposes of subsection (1), when an officer of the Bureau is exercising the powers of a police officer under the Criminal Procedure Code 2010, the officer of the Bureau shall be deemed to be an officer not below the rank of inspector of police.
+—
 
-”.
+219
 
-56.
+New
 
-Judicial Proceedings (Regulation of Reports) Act
+—
 
+220
 
+New
 
+—
 
-(Chapter 149, 1985 Ed.)
+221
 
-Section 4
+New
 
-(i)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+222
 
-(ii)
+New
 
-Delete the marginal note and insert the following section heading:
+—
 
-“
+223
 
-Consent of Public Prosecutor
+New
 
-”.
+—
 
-57.
+224
 
-Jurong Town Corporation Act
+New
 
+—
 
+225
 
+New
 
-(Chapter 150, 1998 Ed.)
+—
 
-(a)
+226
 
-Section 64
+137A
 
-(i)
+—
 
-Delete the words “take cognizance of” and substitute the word “try”.
+227
 
-(ii)
+New
 
-Delete the word “sanction” and substitute the word “consent”.
+—
 
-(iii)
+228
 
-Delete the section heading and substitute the following section heading:
+New
 
-“
+—
 
-Consent of Public Prosecutor
+229
 
-”.
+New
 
-(b)
+—
 
-Section 65
+230
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+180, 181, 187, 188, 189, 190, 191 and 192
 
-58.
+—
 
-Land Transport Authority of Singapore Act
+231
 
+New
 
+—
 
+232(1) and (2)
 
-(Chapter 158A, 1996 Ed.)
+184 and 193
 
-(a)
+—
 
-Section 39(2)
+233
 
-(i)
+203
 
-Delete the words “sections 35 and 36 of the Criminal Procedure Code” and substitute the words “sections 67 and 68 of the Criminal Procedure Code 2010”.
+—
 
-(ii)
+234
 
-Delete the marginal reference “Cap. 68.”.
+194
 
-(b)
+—
 
-Section 40(1)
+235
 
-(i)
+58 and 60
 
-Insert, immediately after the words “such written law, may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-(ii)
+236
 
-Delete the words “with the consent of the Attorney-General”.
+195
 
-59.
+—
 
-Maintenance of Religious Harmony Act
+237
 
+200
 
+—
 
+238
 
-(Chapter 167A, 2001 Ed.)
+198
 
-Section 17
+—
 
-(i)
+239
 
-Delete the words “take cognizance of” and substitute the word “try”.
+185
 
-(ii)
+—
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+240
 
-60.
+186
 
-Mental Health (Care and Treatment) Act 2008
+—
 
+241
 
+New
 
+—
 
-(Act 21 of 2008)
+242
 
-Section 28(1)
+New
 
-Delete the words “section 310 or 315 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 249 or 252 of the Criminal Procedure Code 2010”.
+—
 
-61.
+243
 
-Merchant Shipping Act
+199A
 
+—
 
+244
 
+239
 
-(Chapter 179, 1996 Ed.)
+—
 
-Section 192
+245
 
-Delete the word “sanction” and substitute the word “consent”.
+240
 
-62.
+—
 
-Miscellaneous Offences (Public Order and Nuisance) Act
+246
 
+New
 
+—
 
+247
 
-(Chapter 184, 1997 Ed.)
+308
 
-Section 35(10)
+—
 
-Delete the words “Sections 65 and 66 of the Criminal Procedure Code (Cap. 68)” and substitute the words “Sections 31 and 37 of the Criminal Procedure Code 2010”.
+248
 
-63.
+309
 
-Misuse of Drugs Act
+—
 
+249
 
+310
 
+—
 
-(Chapter 185, 2008 Ed.)
+250
 
-(a)
+311 and 312
 
-Section 32
+—
 
-Insert, immediately after subsection (2), the following subsection:
+251
 
-“
+314
 
-(3) For the purposes of subsections (1) and (2)(a), when an officer of the Bureau is exercising the powers of a police officer under the Criminal Procedure Code 2010, the officer of the Bureau shall be deemed to be an officer not below the rank of inspector of police.
+—
 
-”.
+252
 
-(b)
+315
 
-Section 33(3)
+—
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+253
 
-64.
+316
 
-Monetary Authority of Singapore Act
+—
 
+254(1)
 
+317
 
+—
 
-(Chapter 186, 1999 Ed.)
+255
 
-Section 39
+319
 
-(i)
+—
 
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
+256
 
-(ii)
+318
 
-Delete the section heading and substitute the following section heading:
+—
 
-“
+257
 
-Consent of Public Prosecutor
+New
 
-”.
+—
 
-65.
+258(3)
 
-Moneylenders Act
+Provisio to 122(5)
 
+—
 
+258(3)Explanation 2
 
+Section 29 (repealed),
 
-(Chapter 188, 2010 Ed.)
 
-(a)
 
-Section 14(1A)
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+Evidence Act (Cap. 97, 1997 Ed.)
 
-(b)
+258(4)
 
-Section 28(3)
+Section 28 (repealed),
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
 
-(c)
 
-Section 28B(2)
 
-Delete the words “section 231 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
+Evidence Act (Cap. 97, 1997 Ed.)
 
-66.
+258(5)
 
-Multi-Level Marketing and Pyramid Selling (Prohibition) Act
+Section 30 (repealed),
 
 
 
 
-(Chapter 190, 2000 Ed.)
+Evidence Act (Cap. 97, 1997 Ed.)
 
-Section 7(3)
+258(6)(a)
 
-Delete the words “section 178 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 148 of the Criminal Procedure Code 2010”.
+122(4)
 
-67.
+—
 
-Newspaper and Printing Presses Act
+258(6)(b)
 
+122(3)
 
+—
 
+258(6)(c)
 
-(Chapter 206, 2002 Ed.)
+Section 27 (repealed),
 
-Section 37
 
-(i)
 
-Delete the words “previous sanction in writing of the Attorney-General or the Solicitor-General” and substitute the words “consent of the Public Prosecutor”.
 
-(ii)
+Evidence Act (Cap. 97, 1997 Ed.)
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+259
 
-68.
+New
 
-Oaths and Declarations Act
+—
 
+260
 
+117
 
+—
 
-(Chapter 211, 2001 Ed.)
+261
 
-Section 14
+123
 
-Insert, after subsection (3), the following subsection:
+—
 
-“
+262
 
-(4) No prosecution shall be instituted under this section without the written consent of the Public Prosecutor.
+398
 
-”.
+—
 
-69.
+263
 
-Official Secrets Act
+New
 
+—
 
+264
 
+371
 
-(Chapter 213, 1985 Ed.)
+—
 
-(a)
+265
 
-Section 14
+373
 
-(i)
+—
 
-Delete the word “Attorney-General” wherever it appears in subsections (1) (including the proviso) and (2) and substitute in each case the words “Public Prosecutor”.
+266
 
-(ii)
+374
 
-Delete the words “section 180 of the Criminal Procedure Code” in subsection (2) and substitute the words “section 230 of the Criminal Procedure Code 2010”.
+—
 
-(iii)
+267
 
-Delete the marginal reference “Cap. 68.” in subsection (2).
+376
 
-(b)
+—
 
-Section 17(2)
+268
 
-Delete the words “sanction of the Attorney-General” and substitute the words “consent of the Public Prosecutor”.
+377
 
-70.
+—
 
-Parks and Trees Act
+269 (repealed)
 
+378(3)
 
+—
 
+270 (repealed)
 
-(Chapter 216, 2006 Ed.)
+378(1) and (2)
 
-Section 52
+—
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+271 (repealed)
 
-71.
+379
 
-Parliament (Privileges, Immunities and Powers) Act
+—
 
+272(repealed)
 
+380
 
+—
 
-(Chapter 217, 2000 Ed.)
+273 (repealed)
 
-(a)
+381
 
-Section 21(1)
+—
 
-Delete the word “Attorney-General” in paragraph (c) and substitute the words “Public Prosecutor”.
+274(repealed)
 
-(b)
+382
 
-Section 37
+—
 
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
+275(repealed)
 
-72.
+383
 
-Parliamentary Elections Act
+—
 
+276(repealed)
 
+384
 
+—
 
-(Chapter 218, 2007 Ed.)
+277(repealed)
 
-(a)
+385
 
-Section 55(5)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+278
 
-(b)
+155 and 182
 
-Section 61(3)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+279
 
-(c)
+New
 
-Section 79(2)
+—
 
-(i)
+280
 
-Delete the word “sanction” and substitute the word “consent”.
+124
 
-(ii)
+—
 
-Delete the words “Chapter XIII of the Criminal Procedure Code (Cap. 68)” and substitute the words “Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010”.
+281
 
-73.
+364A
 
-Passports Act
+—
 
+282
 
+332
 
+—
 
-(Chapter 220, 2008 Ed.)
+283
 
-Section 32
+399
 
-(i)
+—
 
-Delete the words “sections 35 and 36 of the Criminal Procedure Code (Cap. 68)” in subsection (2) and substitute the words “sections 67 and 68 of the Criminal Procedure Code 2010”.
+284
 
-(iii)
+366
 
-Insert, immediately after subsection (3), the following subsection:
+—
 
-“
+285
 
-(3A) For the purposes of subsection (3), when an immigration officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the immigration officer shall be deemed to be an officer not below the rank of inspector of police.
+204
 
-”.
+—
 
-(iii)
+286
 
-Insert, immediately after the words “appear in court and” in subsection (4), the words “may, with the authorisation of the Public Prosecutor,”.
+205 to 207
 
-74.
+—
 
-Penal Code
+287
 
+208
 
+—
 
+288
 
-(Chapter 224, 2008 Ed.)
+209
 
-(a)
+—
 
-Section 40(2)
+289
 
-Delete “71,”.
+210
 
-(b)
+—
 
-Section 71
+290
 
-Repeal.
+372
 
-(c)
+—
 
-Section 86(1)
+291
 
-Delete the words “sections 314 and 315 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 251 and 252 of the Criminal Procedure Code 2010”.
+196
 
-75.
+—
 
-Poisons Act
+292
 
+197
 
+—
 
+293
 
-(Chapter 234, 1999 Ed.)
+375
 
-Section 18
+—
 
-(i)
+294
 
-Delete the words “sanction in writing of the Attorney-General” in subsection (1) and substitute the words “consent of the Public Prosecutor”.
+364
 
-(ii)
+—
 
-Delete the words “such sanctions” in subsection (1) and substitute the words “such consents”.
+295
 
-(iii)
+New
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+—
 
-76.
+296
 
-Police Force Act
+367
 
+—
 
+297
 
+368
 
-(Chapter 235, 2006 Ed.)
+—
 
-(a)
+298
 
-Section 41(3)
+New
 
-Delete the words “previous sanction in writing” and substitute the word “consent”.
+—
 
-(b)
+299
 
-Section 59
+259
 
-Delete the word “Attorney-General” wherever it appears in subsections (2) and (3) and substitute in each case the words “Public Prosecutor”.
+—
 
-(c)
+300
 
-Section 77(3)
+215
 
-Delete the words “previous sanction in writing” and substitute the word “consent”.
+—
 
-77.
+301
 
-Political Donations Act
+New
 
+—
 
+302
 
+219
 
-(Chapter 236, 2001 Ed.)
+—
 
-(a)
+303
 
-Section 11(10)
+11(1), (3) and (5)
 
-Delete the words “section 224(b)(iii) of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 319(1)(b)(iii) of the Criminal Procedure Code 2010”.
+—
 
-(b)
+304
 
-Section 17(9)
+12
 
-Delete the words “section 224(b)(iii) of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 319(1)(b)(iii) of the Criminal Procedure Code 2010”.
+—
 
-(c)
+305
 
-Section 28
+13
 
-(i)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+306
 
-(ii)
+17
 
-Delete the section heading and substitute the following section heading:
+—
 
-“
+307(1)
 
-Consent of Public Prosecutor
+18
 
-”.
+—
 
-78.
+308
 
-Postal Services Act
+—
 
+Section 71 (repealed),
 
 
 
-(Chapter 237A, 2000 Ed.)
 
-Section 34(1)
+Penal Code (Cap. 224, 2008 Ed.)
 
-Insert, immediately after the words “or the direction of a court” in paragraph (c), the words “or the requirement by the Public Prosecutor under section 20 of the Criminal Procedure Code 2010”.
+309
 
-79.
+11(2), (4) and (6)
 
-Presidential Elections Act
+—
 
+310
 
+14
 
+—
 
-(Chapter 240A, 2007 Ed.)
+311
 
-(a)
+15
 
-Section 37(5)
+—
 
-Delete the word “sanction” and substitute the word “consent”.
+312
 
-(b)
+16
 
-Section 42
+—
 
-(i)
+313
 
-Delete the word “sanction” in subsection (2) and substitute the word “consent”.
+220
 
-(ii)
+—
 
-Delete the words “Chapter XIII of the Criminal Procedure Code (Cap. 68)” in subsection (3) and substitute the words “Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010”.
+314
 
-(c)
+213
 
-Section 61
+—
 
-(i)
+315
 
-Delete the word “sanction” in subsection (2) and substitute the word “consent”.
+214
 
-(ii)
+—
 
-Delete the words “Chapter XIII of the Criminal Procedure Code (Cap. 68)” in subsection (3) and substitute the words “Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010”.
+316
 
-80.
+216
 
-Prevention of Corruption Act
+—
 
+317
 
+222
 
+—
 
-(Chapter 241, 1993 Ed.)
+318
 
-(a)
+223
 
-Section 13(2)
+—
 
-(i)
+319
 
-Delete the words “section 178 of the Criminal Procedure Code” and substitute the words “section 148 of the Criminal Procedure Code 2010”.
+224
 
-(ii)
+—
 
-Delete the marginal reference “Cap. 68.”.
+320
 
-(b)
+225
 
-Section 16(2)
+—
 
-(i)
+321
 
-Delete the words “Chapters XXXV and XXXVI of the Criminal Procedure Code” and substitute the words “Division 5 of Part VI of the Criminal Procedure Code 2010”.
+226
 
-(ii)
+—
 
-Delete the words “section 351 of the Criminal Procedure Code” in paragraph (b) and substitute the words “section 92 of the Criminal Procedure Code 2010”.
+322
 
-(iii)
+234
 
-Delete the marginal reference “Cap. 68.”.
+—
 
-(c)
+323
 
-Section 17
+235
 
-(i)
+—
 
-Delete the words “section 122 of the Criminal Procedure Code” in the proviso to subsection (1) and substitute the words “sections 23 and 258 of the Criminal Procedure Code 2010”.
+324
 
-(ii)
+236
 
-Delete the marginal reference “Cap. 68.” in the proviso to subsection (1).
+—
 
-(iii)
+325(1)
 
-Delete subsection (2) and substitute the following subsection:
+231
 
-“
+—
 
-(2) For the purpose of sections 20(1) and 258(2) of the Criminal Procedure Code 2010, the Director or a special investigator shall be deemed to be an officer not below the rank of inspector of police.
+326
 
-”.
+227
 
-81.
+—
 
-Price Control Act
+327
 
+228
 
+—
 
+328
 
-(Chapter 244, 1985 Ed.)
+New
 
-Section 12
+—
 
-(i)
+329
 
-Delete the words “section 32 of the Criminal Procedure Code” in the proviso to subsection (1)(a) and substitute the words “section 64 of the Criminal Procedure Code 2010”.
+229(2), (3) and (4)
 
-(ii)
+—
 
-Delete the marginal reference “Cap. 68.” in the proviso to subsection (1)(a).
+330(1)
 
-(iii)
+231
 
-Insert, immediately after the words “Deputy Public Prosecutor or” in subsection (3), the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-82.
+331
 
-Prisons Act
+232
 
+—
 
+332
 
+New
 
-(Chapter 247, 2000 Ed.)
+—
 
-(a)
+333
 
-Section 2
+237
 
-Insert, immediately after the definition of “juvenile”, the following definition:
+—
 
-“
+334
 
-“lock-up prisoner” means any person, whether convicted or not, who is confined in a lock-up, or who is transported to, or from, a lock-up;
+238
 
-”.
+—
 
-(b)
+335
 
-Section 4(2)
+New
 
-Delete the words “Chapter XXV of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 313 to 332 of the Criminal Procedure Code 2010”.
+—
 
-(c)
+336
 
-Section 29
+New
 
-(i)
+—
 
-Delete the words “and prisoners” in paragraph (a) and substitute the words “, lock-ups, prisoners and lock-up prisoners”.
+337
 
-(ii)
+New
 
-Insert, immediately after the word “prison” in paragraph (b), the words “or lock-up”.
+—
 
-(d)
+338
 
-Section 31
+New
 
-(i)
+—
 
-Insert, immediately after the word “prisoner” wherever it appears in subsections (1) to (6), the words “or lock-up prisoner”.
+339
 
-(ii)
+New
 
-Insert, immediately after the word “prison” wherever it appears in subsections (1)(c)(i) and (2)(b)(i), the words “or lock-up”.
+—
 
-(iii)
+340
 
-Delete the words “any prisoner or prisoners” in subsection (8) and substitute the words “any one or more prisoners or lock-up prisoners”.
+New
 
-(e)
+—
 
-Section 32
+341
 
-Renumber the section as subsection (1) of that section, and insert immediately thereafter the following subsection:
+New
 
-“
+—
 
-(2) Every prison officer while acting as such and exercising the powers of a police officer shall be deemed to be an officer not below the rank of inspector of police.
+342
 
-”.
+New
 
-(f)
+—
 
-Section 44(3)
+343
 
-Delete the words “section 13(7) of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 305(5) of the Criminal Procedure Code 2010”.
+New
 
-(g) —
+—
 
-Insert, immediately after section 50, the following Part:
+344
 
-“
+New
 
-Part Va
+—
 
+345
 
+New
 
+—
 
-Custody and Removal of Lock-up Prisoners
+346
 
-Lock-up prisoners deemed in legal custody
+New
 
-50A\\. Every lock-up prisoner who is confined in any lock-up, or who is transported to, or from, any lock-up, shall be deemed to be in the legal custody of the Director or any person authorised by the Director.
+—
 
-Employment of auxiliary police officers as escorts and guards
+347
 
-50B\. —(1) For the purpose of assisting him in the discharge of his duties under this Act, the Director may employ such numbers of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the lock-up prisoners who are under his custody while the lock-up prisoners are transported to, or from, any lock-up and while the lock-up prisoners are at any place outside a lock-up.
+New
 
-(2) A lock-up prisoner who is delivered into the custody of an auxiliary police officer under this section shall be deemed to be in lawful custody.
+—
 
-(3) Every auxiliary police officer who is employed as an escort or a guard under subsection (1) shall, in the course of carrying out his duties as an escort or a guard, have the powers of a prison officer conferred under section 31.
+348
 
-(4) Every auxiliary police officer employed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+New
 
-(5) In this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law.
+—
 
-Delivery of persons remanded in lock-up
+349
 
-50C\. —(1) Every person remanded in any lock-up by any court, Judge, Magistrate or Justice of the Peace, charged with any crime or offence, shall be delivered to the Director or any person authorised by the Director to take custody of such persons, together with a warrant of commitment.
+New
 
-(2) The Director or any person authorised by the Director to take custody of lock-up prisoners shall detain a lock-up prisoner according to the terms of the warrant, and shall cause the lock-up prisoner to be delivered to such court, Judge, Magistrate or Justice of the Peace, or shall discharge that person at the time named in and according to the terms of the warrant.
+—
 
-Extramural custody of lock-up prisoners
+350
 
-50D\\. A lock-up prisoner, when being taken to, or from, any lock-up in which he may be lawfully confined, or whenever he is outside or is otherwise beyond the limits of any such lock-up, and is in or under legal custody, shall be deemed to be in a lock-up, and shall be subject to all the same incidents as if he were actually in a lock-up.
+New
 
-(h)
+—
 
-The Schedule
+351
 
-Delete paragraph (4).
+New
 
-83.
+—
 
-Probation of Offenders Act
+352
 
+New
 
+—
 
+353
 
-(Chapter 252, 1985 Ed.)
+New
 
-(a)
+—
 
-Section 2
+354
 
-Insert, immediately after the definition of “Chief Probation Officer”, the following definition:
+New
 
-“
+—
 
-“community service officer” means any officer appointed as a community service officer under section 346(9)(a) of the Criminal Procedure Code 2010;
+355
 
-”.
+New
 
-(b)
+—
 
-Section 5
+356(1)
 
-Delete subsection (3) (including the proviso) and substitute the following subsections:
+New
 
-“
+—
 
-(3) Without prejudice to the generality of subsection (2), a probation order may include —
+357
 
-(a) requirements relating to the residence of the offender; or
+New
 
-(b) a requirement that the offender performs such unpaid community service under the supervision of a community service officer.
+—
 
-(3A) Before making a probation order containing any such requirements referred to in subsection (3)(a), the court shall consider the home surroundings of the offender; and where the order requires the offender to reside in an approved institution, the name of the institution and the period for which he is so required to reside shall be specified in the order, and that period shall not extend beyond 12 months from the date of the order.
+358
 
-(3B) A court shall only include the requirement referred to in subsection (3)(b) if it is satisfied that —
+262(2) and (3)
 
-(a) based on the mental and physical condition of the offender, the offender is a suitable person to perform community service of a type which is specified in the Fifth Schedule to the Criminal Procedure Code 2010; and
+—
 
-(b) suitable arrangements can be made for him to perform such community service.
+359
 
-(3C) A court must, before including the requirement referred to in subsection (3)(b), call for a report from a community service officer regarding the suitability of the offender to perform community service.
+New
 
-(3D) The number of hours which an offender has to perform community service shall be specified in the probation order and shall not exceed the prescribed maximum hours of community service which an offender may be required to perform community service under a community service order referred to in section 346 of the Criminal Procedure Code 2010.
+—
 
-(3E) If a probation order in relation to an offender requires an offender to perform community service, it shall also be a requirement of the probation order that the offender complies with the obligations referred to in section 347 of the Criminal Procedure Code 2010 as if he were a person in respect of whom a community service order is made under section 346 of that Code.
+360
 
-”.
+403
 
-(c)
+—
 
-Section 7(2)
+361
 
-Delete the words “$500, or” and substitute the words “$1,000 or order that the probationer be detained in prison for a period which shall not exceed 14 days, or the Court”.
+New
 
-(d)
+—
 
-Section 9(1)
+362
 
-(i)
+404 and 405
 
-Insert, immediately after the words “the judge or magistrate may”, the words “fix a hearing date to determine whether the person is in breach of a probation order and may at any time”.
+—
 
-(ii)
+363
 
-Delete the words “and on oath” in the proviso.
+406
 
-84.
+—
 
-Public Entertainments and Meetings Act
+364
 
+386
 
+—
 
+365
 
-(Chapter 257, 2001 Ed.)
+387
 
-Section 18(2)
+—
 
-Delete the words “section 33 of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 65 of the Criminal Procedure Code 2010”.
+366(1)
 
-85.
+388
 
-Public Order (Preservation) Act
+—
 
+367
 
+389
 
+—
 
-(Chapter 258, 1985 Ed.)
+368
 
-Section 20(2)
+390
 
-(i)
+—
 
-Delete the words “Chapter IV of the Criminal Procedure Code” and substitute the words “sections 64 to 68 and 75 to 85 of the Criminal Procedure Code 2010”.
+369
 
-(ii)
+391
 
-Delete the marginal reference “Cap. 68.”.
+—
 
-86.
+370
 
-Registration of Births and Deaths Act
+New
 
+—
 
+371(1)
 
+392(2) and (3)
 
-(Chapter 267, 1985 Ed.)
+—
 
-(a)
+372
 
-Section 13(4)
+392(4) and (5) and 393
 
-(i)
+—
 
-Delete the words “section 224(b)(iii) of the Criminal Procedure Code” and substitute the words “section 319(1)(b)(iii) of the Criminal Procedure Code 2010”.
+373
 
-(ii)
+New
 
-Delete the marginal reference “Cap. 68.”.
+—
 
-(b)
+374(1)
 
-Section 28
+241
 
-Delete the words “sanction of the Attorney-General, the Solicitor-General,” and substitute the words “consent of the Public Prosecutor,”.
+—
 
-87.
+375
 
-Registration of Criminals Act
+244
 
+—
 
+376
 
+New
 
-(Chapter 268, 1985 Ed.)
+—
 
-(a) —
+377
 
-Insert, immediately after section 7D, the following section:
+New
 
-“
+—
 
-Criminal record rendered spent when community sentence completed
+378
 
-7DA\. Notwithstanding any provisions in this Part, the record in the register of a person’s conviction within Singapore for a crime for which a community sentence (as defined in section 336 of the Criminal Procedure Code 2010) is passed by a court shall become spent on the date on which the community sentence is completed.
+New
 
-”.
+—
 
-(b)
+379
 
-First Schedule, Part II
+249
 
-Insert, immediately above the item relating to “Customs Act”, the following item:
+—
 
-“Criminal Procedure Code 2010
+380
 
-Sections 41 to 45, 54 and 311.”.
+250
 
-88.
+—
 
-Regulation of Imports and Exports Act
+381
 
+New
 
+—
 
+382
 
-(Chapter 272A, 1996 Ed.)
+248
 
-(a)
+—
 
-Section 35
+383(1)
 
-Insert, immediately after the words “this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
+251
 
-(b)
+—
 
-Section 43
+384
 
-(i)
+New
 
-Delete the words “take cognizance of” and substitute the word “try”.
+—
 
-(ii)
+385
 
-Delete the word “sanction” and substitute the word “consent”.
+New
 
-(iii)
+—
 
-Delete the marginal note and insert the following section heading:
+386
 
-“
+New
 
-Consent of Public Prosecutor
+—
 
-”.
+387
 
-89.
+253
 
-Residential Property Act
+—
 
+388
 
+254
 
+—
 
-(Chapter 274, 2009 Ed.)
+389
 
-Section 23A(9)
+New
 
-(i)
+—
 
-Delete the words “section 224 of the Criminal Procedure Code (Cap. 68)” in paragraph (a) and substitute the words “section 319 of the Criminal Procedure Code 2010”.
+390(1)
 
-(ii)
+256
 
-Delete the words “section 224(b)(iv) of the Criminal Procedure Code” in paragraph (b) and substitute the words “section 319(1)(b)(iv) of the Criminal Procedure Code 2010”.
+—
 
-90.
+391
 
-Road Traffic Act
+395
 
+—
 
+392(1) and (2)
 
+257
 
-(Chapter 276, 2004 Ed.)
+—
 
-(a)
+393
 
-Section 19(3)
+New
 
-Delete the words “section 54 of the Criminal Procedure Code (Cap. 68)” in paragraph (c) and substitute the words “section 120 of the Criminal Procedure Code 2010”.
+—
 
-(b)
+394
 
-Section 66
+261
 
-Delete subsection (2).
+—
 
-(c)
+395
 
-Section 67A(1)
+263
 
-(i)
+Section 56A (repealed),
 
-Delete the words “section 11 of the Criminal Procedure Code (Cap. 68)” in paragraph (b) and substitute the words “sections 303 and 309 of the Criminal Procedure Code 2010”.
 
-(ii)
 
-Delete the words “section 231 of the Criminal Procedure Code” in paragraph (b) and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
 
-(d)
+Subordinate Courts Act (Cap. 321, 2007 Ed.)
 
-Section 133
+396
 
-(i)
+New
 
-Delete the words “section 136 of the Criminal Procedure Code (Cap. 68)” in subsection (4) and substitute the words “section 153 of the Criminal Procedure Code 2010”.
+—
 
-(ii)
+397
 
-Delete the words “section 136 of the Criminal Procedure Code” in subsection (6)(a) and substitute the words “section 153 of the Criminal Procedure Code 2010”.
+—
 
-91.
+Section 60 (repealed), Supreme Court of Judicature Act (Cap. 322, 2007 Ed.)
 
-Rubber Industry Act
+398
 
+264
 
+—
 
+399
 
-(Chapter 280, 1993 Ed.)
+New
 
-(a)
+—
 
-Section 21
+400(1)
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+266
 
-(b)
+—
 
-Section 22
+401
 
-(i)
+267 and 268
 
-Delete the words “take cognizance of” and substitute the word “try”.
+—
 
-(ii)
+402
 
-Delete the word “sanction” and substitute the word “consent”.
+270
 
-(iii)
+—
 
-Delete the marginal note and insert the following section heading:
+403
 
-“
+269
 
-Consent of Public Prosecutor
+—
 
-”.
+404
 
-92.
+New
 
-Securities and Futures Act
+—
 
+405
 
+New
 
+—
 
-(Chapter 289, 2006 Ed.)
+406
 
-(a)
+New
 
-Section 168C(1)
+—
 
-Delete the words “Chapters VI and XIII of the Criminal Procedure Code (Cap. 68)” and substitute the words “Divisions 1 and 2 of Part IV and sections 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010”.
+407
 
-(b)
+New
 
-Section 236(4)
+—
 
-Delete the words “section 247 of the Criminal Procedure Code (Cap. 68)” in paragraph (c) and substitute the words “sections 377 and 378 of the Criminal Procedure Code 2010”.
+408
 
-(c)
+New
 
-Section 336
+—
 
-(i)
+409
 
-Delete the word “Attorney-General” in subsection (1) and substitute the words “Public Prosecutor”.
+New
 
-(ii)
+—
 
-Delete the word “Attorney-General” in the section heading and substitute the words “Public Prosecutor”.
+410
 
-93.
+320
 
-Singapore Armed Forces Act
+—
 
+411
 
+321
 
+—
 
-(Chapter 295, 2000 Ed.)
+412
 
-(a)
+322
 
-Section 94
+—
 
-(i)
+413
 
-Delete the words “sections 158 to 178, 224 (other than paragraph (d) thereof), 225, 227 to 230, 232, 233, 239, 240, 307 to 319, 331 to 333, 364, 366 to 388, 390 to 396, 398 and 399 to 403 of the Criminal Procedure Code (Cap. 68)” in subsection (1) and substitute the words “sections 123 to 148, 244 to 256, 262 to 276, 282, 283, 284, 290, 293, 294, 296, 297, 319 (other than subsection (1)(e) thereof), 320, 326 to 332, 359, 360, 364, 365, 366, 368 to 372, 391, 423 and 426 of the Criminal Procedure Code 2010”.
+323
 
-(ii)
+—
 
-Delete the words “section 224 of the Criminal Procedure Code (other than paragraph (d) thereof)” in subsection (2) and substitute the words “section 319 of the Criminal Procedure Code 2010 (other than subsection (1)(e) thereof)”.
+414
 
-(iii)
+324
 
-Delete the words “Section 230 of the Criminal Procedure Code” in subsection (3) and substitute the words “Section 328 of the Criminal Procedure Code 2010”.
+—
 
-(iv)
+415
 
-Delete the words “section 232 of the Criminal Procedure Code” in subsection (4) and substitute the words “section 331 of the Criminal Procedure Code 2010”.
+325
 
-(b)
+—
 
-Section 201C(9)
+416
 
-Delete the words “Chapters IV and XII and section 68 of the Criminal Procedure Code (Cap. 68)” in paragraph (a) and substitute the words “sections 63 to 68 and 75 to 85 of the Criminal Procedure Code 2010”.
+326
 
-(c)
+—
 
-Section 201G(1)
+417
 
-(i)
+327
 
-Delete the words “section 34(2), (3) and (4) of the Criminal Procedure Code (Cap. 68)” and substitute the words “section 66(3), (4) and (5) of the Criminal Procedure Code 2010”.
+—
 
-(ii)
+418
 
-Delete the words “section 34(1)” and substitute the words “section 66(1) and (2)”.
+328
 
-94.
+—
 
-Singapore Land Authority Act
+419
 
+330
 
+—
 
+420
 
-(Chapter 301, 2002 Ed.)
+331
 
-Section 34(1)
+—
 
-Insert, immediately after the words “the Third Schedule may”, the words “, with the authorisation of the Public Prosecutor,”.
+421
 
-95.
+333
 
-Singapore Tourism Board Act
+—
 
+422
 
+335
 
+—
 
-(Chapter 305B, 1997 Ed.)
+423
 
-Section 23
+396
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-96.
+424
 
-Singapore Tourism (Cess Collection) Act
+22(1)
 
+—
 
+425
 
+New
 
-(Chapter 305C, 1997 Ed.)
+—
 
-(a)
+426
 
-Section 22
+400
 
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
+—
 
-(b)
+427
 
-Section 23
+New
 
-(i)
+—
 
-Delete the words “take cognizance of” and substitute the word “try”.
+428
 
-(ii)
+New
 
-Delete the word “sanction” and substitute the word “consent”.
+—
 
-(iii)
+## LEGISLATIVE HISTORY
 
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
+Criminal Procedure Code
 
-97.
+(CHAPTER 68)
 
-Skills Development Levy Act
+This Legislative History is provided for the convenience of users of the Criminal Procedure Code. It is not part of the Code.
 
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+Note:
 
+The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Criminal Procedure Code (Chapter 68, 1985 Revised Edition).
 
-
-(Chapter 306, 1998 Ed.)
-
-Section 18
-
-(i)
-
-Delete the words “take cognizance of” and substitute the word “try”.
-
-(ii)
-
-Delete the word “sanction” and substitute the word “consent”.
-
-(iii)
-
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
-
-98.
-
-Societies Act
-
-
-
-
-(Chapter 311, 1985 Ed.)
-
-Section 30(2)
-
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
-
-99.
-
-Stamp Duties Act
-
-
-
-
-(Chapter 312, 2006 Ed.)
-
-Section 68(1)
-
-(i)
-
-Delete the word “sanction” and substitute the word “consent”.
-
-(ii)
-
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
-
-100.
-
-Standards, Productivity and Innovation Board Act
-
-
-
-
-(Chapter 303A, 2002 Ed.)
-
-Section 38
-
-Delete the words “consent of the Attorney-General” and substitute the words “authorisation of the Public Prosecutor”.
-
-101.
-
-State Lands Encroachments Act
-
-
-
-
-(Chapter 315, 1985 Ed.)
-
-Section 15
-
-Repeal.
-
-102.
-
-States of Malaya Customs Duties Collection Act
-
-
-
-
-(Chapter 316, 1985 Ed.)
-
-Section 30
-
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
-
-103.
-
-Statutory Bodies and Government Companies (Protection of Secrecy) Act
-
-
-
-
-(Chapter 319, 2004 Ed.)
-
-Section 4
-
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
-
-104.
-
-Strategic Goods (Control) Act
-
-
-
-
-(Chapter 300, 2003 Ed.)
-
-Section 23
-
-Insert, immediately after the words “under this Act may”, the words “, with the authorisation of the Public Prosecutor,”.
-
-105.
-
-Subordinate Courts Act
-
-
-
-
-(Chapter 321, 2007 Ed.)
-
-(a)
-
-Section 7
-
-(i) Insert, immediately after subsection (2), the following subsection:
-
-“
-
-(2A) A subordinate court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
-
-(a) the name, address or photograph of any witness; or
-
-(b) any evidence or any other thing likely to lead to the identification of such witness by a person other than the party to that matter or proceeding,
-
-which is contained in any court document intended to be produced before the court, be removed or be sufficiently redacted.
-
-”.
-
-(ii)
-
-Delete subsection (3) and substitute the following subsection:
-
-“
-
-(3) A subordinate court may at any time order that no person shall —
-
-(a) publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness; or
-
-(b) do any other act which is likely to lead to the identification of such a witness.
-
-”.
-
-(iii) Delete the words “subsection (3)” in subsection (4) and substitute the words “subsection (2A) or (3)”.
-
-(b)
-
-Section 8(4)
-
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
-
-(c)
-
-Section 56A (including the sub-heading “Reference of Constitutional Question”)
-
-Repeal.
-
-106.
-
-Supreme Court of Judicature Act
-
-
-
-
-(Chapter 322, 2007 Ed.)
-
-(a)
-
-Section 8
-
-(i)
-
-Insert, immediately after subsection (2), the following subsection:
-
-“
-
-(2A) A court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
-
-(a) the name, address or photograph of any witness; or
-
-(b) any evidence or any other thing likely to lead to the identification of such witness by a person other than the party to that matter or proceeding,
-
-which is contained in any court document intended to be produced before the court, be removed or be sufficiently redacted.
-
-”.
-
-(ii)
-
-Delete subsection (3) and substitute the following subsection:
-
-“
-
-(3) A court may at any time order that no person shall —
-
-(a) publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness; or
-
-(b) do any other act which is likely to lead to the identification of such a witness.
-
-”.
-
-(iii)
-
-Delete the words “subsection (3)” in subsection (4) and substitute the words “subsection (2A) or (3)”.
-
-(b)
-
-Section 30(3)
-
-Delete the words “point reserved by him under section 59” in paragraph (c) and substitute the words “case stated by him under section 395 of the Criminal Procedure Code 2010”.
-
-(c)
-
-Part V
-
-Repeal.
-
-107.
-
-Terrorism (Suppression of Financing) Act
-
-
-
-
-(Chapter 325, 2003 Ed.)
-
-Sections 11(1), 12, 13, 15(1) and (2), 18 (including the section heading), 19(2)(a), (4) and (5), 20(3), 21, 22 and 23(1) and (2)
-
-Delete the word “Attorney-General” wherever it appears and substitute in each case the words “Public Prosecutor”.
-
-108.
-
-Tokyo Convention Act
-
-
-
-
-(Chapter 327, 1985 Ed.)
-
-Section 3(2)
-
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
-
-109.
-
-Trade Disputes Act
-
-
-
-
-(Chapter 331, 1985 Ed.)
-
-Section 13
-
-(i)
-
-Delete the word “Attorney-General” wherever it appears and substitute in each case the words “Public Prosecutor”.
-
-(ii)
-
-Delete the marginal note and insert the following section heading:
-
-“
-
-Consent of Public Prosecutor to proceed with charge under section 5, 6 or 7
-
-”.
-
-110.
-
-Trade Unions Act
-
-
-
-
-(Chapter 333, 2004 Ed.)
-
-Section 60
-
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
-
-111.
-
-Travel Agents Act
-
-
-
-
-(Chapter 334, 1998 Ed.)
-
-(a)
-
-Section 25
-
-(i)
-
-Delete the words “take cognizance of” and substitute the word “try”.
-
-(ii)
-
-Delete the words “sanction in writing” and substitute the word “consent”.
-
-(iii)
-
-Delete the section heading and substitute the following section heading:
-
-“
-
-Consent of Public Prosecutor
-
-”.
-
-(b)
-
-Section 26
-
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
-
-112.
-
-Trust Companies Act
-
-
-
-
-(Chapter 336, 2006 Ed.)
-
-Section 68
-
-(i)
-
-Delete the word “Attorney-General” and substitute the words “Public Prosecutor”.
-
-(ii)
-
-Delete the word “Attorney-General” in the section heading and substitute the words “Public Prosecutor”.
-
-113.
-
-Urban Redevelopment Authority Act
-
-
-
-
-(Chapter 340, 1990 Ed.)
-
-(a)
-
-Section 47
-
-Insert, immediately after the words “made thereunder may”, the words “, with the authorisation of the Public Prosecutor,”.
-
-(b)
-
-Section 48
-
-(i)
-
-Delete the words “take cognizance of” and substitute the word “try”.
-
-(ii)
-
-Delete the word “sanction” and substitute the word “consent”.
-
-(iii)
-
-Delete the marginal note and insert the following section heading:
-
-“
-
-Consent of Public Prosecutor
-
-”.
-
-114.
-
-Vandalism Act
-
-
-
-
-(Chapter 341, 1985 Ed.)
-
-Section 3
-
-(i)
-
-Delete the words “section 231 of the Criminal Procedure Code” and substitute the words “sections 325(1) and 330(1) of the Criminal Procedure Code 2010”.
-
-(ii)
-
-Delete the marginal reference “Cap. 68.”.
-
-115.
-
-Women’s Charter
-
-
-
-
-(Chapter 353, 2009 Ed.)
-
-(a)
-
-Section 42
-
-(i)
-
-Delete the words “authority in writing of the Attorney-General or the Solicitor-General” and substitute the words “consent of the Public Prosecutor”.
-
-(ii)
-
-Delete the word “Sanction” in the section heading and substitute the word “Consent”.
-
-(b)
-
-Section 154
-
-(i)
-
-Delete the word “cognizable” in subsection (1) and substitute the word “triable”.
-
-(ii)
-
-Delete the words “previous sanction” in subsection (2) and substitute the word “consent”.
-
-(iii)
-
-Insert, immediately after the words “under this Part may” in subsection (4), the words “, with the authorisation of the Public Prosecutor,”.
-
-(c)
-
-Section 174(2)
-
-Delete the words “sections 36 and 37 of the Criminal Procedure Code (Cap. 68)” and substitute the words “sections 68 and 85 of the Criminal Procedure Code 2010”.
-
-116.
-
-Work Injury Compensation Act
-
-
-
-
-(Chapter 354, 2009 Ed.)
-
-Section 37
-
-Repeal and substitute the following section:
-
-“
-
-When Magistrate may try offence
-
-37\. For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by the Commissioner, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
-
-”.
-
-117.
-
-Workplace Safety and Health Act
-
-
-
-
-(Chapter 354A, 2009 Ed.)
-
-Section 55
-
-Repeal and substitute the following section:
-
-“
-
-When Magistrate may try offence
-
-55\. For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by an inspector, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
-
-”.
-
+|2.|**Act 3 of 2011—Children and Young Persons (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 November 2010|
+|||(Bill No. 35/2010 published on 22 November 2010|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|20 July 2011|
+|3.|**G.N. No. S 664/2011—Criminal Procedure Code (Amendment of First Schedule) Order 2011**|
+||Date of commencement|20 December 2011|
+|4.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (Section 21 –– Amendment of Criminal Procedure Code 2010)|
+|5.|**Act 4 of 2012—Evidence (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 January 2012|
+|||(Bill No. 2/2012 published on 16 January 2012)|
+||Date of Second and Third Readings|14 February 2012|
+||Date of commencement|1 August 2012|
+|6.|**2012 Revised Edition—Criminal Procedure Code (Chapter 68)**|
+||Date of operation|31 August 2012|
