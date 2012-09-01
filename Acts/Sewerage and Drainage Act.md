@@ -38,17 +38,21 @@
 
 - [13 Power to inspect sewerage systems and sanitary facilities](#Power-to-inspect-sewerage-systems-and-sanitary-facilities)
 
-- [14 Building, etc., not to be erected over, across or adjacent to any sewer or sewerage system without Board’s certificate or approval](#Building-etc-not-to-be-erected-over-across-or-adjacent-to-any-sewer-or-sewerage-system-without-Board’s-certificate-or-approval)
+- [13A Duty to enquire before excavation](#Duty-to-enquire-before-excavation)
+
+- [14 Works likely to affect sewer or sewerage system not to be carried out without Board’s certificate or approval](#Works-likely-to-affect-sewer-or-sewerage-system-not-to-be-carried-out-without-Board’s-certificate-or-approval)
 
 - [15 Sanitary facilities, sewerage system and sewage and trade effluent removal for farms](#Sanitary-facilities-sewerage-system-and-sewage-and-trade-effluent-removal-for-farms)
 
-- [16 Trade effluent not to be discharged into public sewers without Board’s approval](#Trade-effluent-not-to-be-discharged-into-public-sewers-without-Board’s-approval)
+- [16 Trade effluent not to be discharged into public sewerage system without Board’s approval](#Trade-effluent-not-to-be-discharged-into-public-sewerage-system-without-Board’s-approval)
 
-- [17 Prohibition on discharge of dangerous trade effluent](#Prohibition-on-discharge-of-dangerous-trade-effluent)
+- [16A Prohibition on discharge of dangerous or hazardous substance or trade effluent containing dangerous or hazardous substance](#Prohibition-on-discharge-of-dangerous-or-hazardous-substance-or-trade-effluent-containing-dangerous-or-hazardous-substance)
+
+- [17 Order to stop discharge of dangerous or hazardous substance or trade effluent containing dangerous or hazardous substance](#Order-to-stop-discharge-of-dangerous-or-hazardous-substance-or-trade-effluent-containing-dangerous-or-hazardous-substance)
 
 - [18 Discharge of sewage, etc.](#Discharge-of-sewage-etc)
 
-- [19 Restrictions on use of public sewers](#Restrictions-on-use-of-public-sewers)
+- [19 Restrictions on use of public sewerage system](#Restrictions-on-use-of-public-sewerage-system)
 
 - [20 Damage caused to public sewer, etc.](#Damage-caused-to-public-sewer-etc)
 
@@ -108,9 +112,13 @@
 
 - [44 Power of entry](#Power-of-entry)
 
+- [44A Power to enter and investigate](#Power-to-enter-and-investigate)
+
 - [45 Power to enter on land adjacent to works](#Power-to-enter-on-land-adjacent-to-works)
 
 - [46 Penalty for obstructing Board in his duty](#Penalty-for-obstructing-Board-in-his-duty)
+
+- [46A Making of false statements, etc.](#Making-of-false-statements-etc)
 
 - [47 Appeal to Minister against notices, orders, directions, etc.](#Appeal-to-Minister-against-notices-orders-directions-etc)
 
@@ -158,6 +166,8 @@
 
 - [67 Offence by body corporate](#Offence-by-body-corporate)
 
+- [67A Liability for offence committed by agent or employee](#Liability-for-offence-committed-by-agent-or-employee)
+
 - [68 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
 - [69 Saving of prosecutions under other written laws](#Saving-of-prosecutions-under-other-written-laws)
@@ -186,7 +196,9 @@ REVISED EDITION 2001
 
 (31st December 2001)
 
-An Act to provide for and regulate the construction, maintenance and improvement of sewerage and land drainage systems, to regulate the discharge of sewage and trade effluent and for matters connected therewith.
+An Act to provide for and regulate the construction, maintenance, improvement, operation and use of sewerage and land drainage systems, to regulate the discharge of sewage and trade effluent and for matters connected therewith.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 [1st April 1999]
 
@@ -204,7 +216,9 @@ PRELIMINARY
 
 “authorised officer” means any person appointed as an authorised officer under section 3(2);
 
-“Board” means the Public Utilities Board reconstituted under section 3 of the Public Utilities Act 2001 (Act 8 of 2001);
+“Board” means the Public Utilities Board continued under section 3 of the Public Utilities Act (Cap. 261);
+
+[Act 10 of 2012 wef 01/09/2012]
 
 “building” has the same meaning as in the Building Control Act (Cap. 29);
 
@@ -246,9 +260,17 @@ PRELIMINARY
 
 (b) sewerage systems with respect to which a declaration of vesting has been made under section 8;
 
-(c) sewerage systems constructed by the Government or the Board on behalf of the Government on any private property at the expense of the Government or acquired by the Government; and
+(c) sewerage systems constructed by the Government or the Board on behalf of the Government on any private property at the expense of the Government or acquired by the Government;
 
-(d) sewerage systems constructed on any private property and maintained by the Board;
+[Act 10 of 2012 wef 01/09/2012]
+
+(d) sewerage systems constructed on any private property and maintained by the Board; and
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(e) sewerage systems owned or managed by the Board;
+
+[Act 10 of 2012 wef 01/09/2012]
 
 “public sewers” includes —
 
@@ -260,19 +282,35 @@ PRELIMINARY
 
 (d) sewers constructed on any private property and maintained by the Board;
 
-“qualified person”, in relation to any sewerage or drainage works, means a qualified person appointed under section 6(3) or 9(1) (b) of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
+“qualified person”, in relation to any sewerage or drainage works, means a qualified person appointed under section 8 or 11 of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
+
+[Act 10 of 2012 wef 01/09/2012]
+
+“reclaimed water” means treated water which has been recovered from a public sewerage system;
+
+[Act 10 of 2012 wef 01/09/2012]
 
 “Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act (Cap. 269);
 
 “Registrar of Titles” means the Registrar of Titles appointed under the Land Titles Act (Cap. 157);
 
-“sanitary appliances” includes wash basins, bath tubs, sinks, urinals, toilet bowls and other appliances which connect, directly or otherwise, to a private sewage treatment plant or a public sewerage system;
+“sanitary appliances” includes wash basins, bath tubs, sinks, urinals, toilet bowls, bidets and other similar fixtures;
+
+[Act 10 of 2012 wef 01/09/2012]
 
 “sanitary facilities” includes bathrooms, toilets, facilities for washing and sanitary appliances, together with the associated pipe-work, whether above or below the ground, which connect, directly or otherwise, to a private sewage treatment plant or a public sewerage system;
 
 “sewage” includes water-borne domestic waste and trade effluent;
 
-“sewerage system” means a system of sewers, pumping stations, sewage treatment plants and treatment works for the collection, treatment and disposal of sewage and recovery of industrial water and includes any industrial water main and pipe, drain-line, grease trap, cesspit, septic tank, privy and any appurtenance thereof;
+“sewerage system” means a system of sewers, pumping stations, sewage treatment plants, sewage treatment works and water reclamation facilities for one or both of the following purposes:
+
+(a) the collection, treatment and disposal of sewage;
+
+(b) the recovery and treatment of water which is supplied to the Board or by the Board,
+
+and includes any main or pipe carrying reclaimed water or sewage, outfall pipe, sanitary pipe, drain-line, grease trap, cesspit, holding tank for the temporary holding of sewage, septic tank, privy, and any part thereof;
+
+[Act 10 of 2012 wef 01/09/2012]
 
 “sewerage works” includes engineering works for the construction, alteration and maintenance of any sewerage system;
 
@@ -318,6 +356,10 @@ ADMINISTRATION
 
 [8/2001]
 
+(5) The Board may, from time to time, appoint and authorise in writing any person to perform any particular function or duty or to exercise any particular power under this Act, subject to such conditions or limitations as the Board may specify.
+
+[Act 10 of 2012 wef 01/09/2012]
+
 ## PART III
 
 SEWERAGE
@@ -346,9 +388,9 @@ SEWERAGE
 
 [8/2001]
 
-(3) In the carrying out of any works under this section, the Board shall cause as little damage as possible and shall make full compensation for any damage done.
+(3) In carrying out any works under this section, the Board shall cause as little damage as possible, and shall make reasonable compensation for any damage done to any premises, street or building affected by those works.
 
-[8/2001]
+[Act 10 of 2012 wef 01/09/2012]
 
 (4) If by reason of the alteration or closing up of any public sewerage system any person is deprived of the lawful use of any sewer, the Board shall with due diligence provide some other sewer as effectual as the one so deprived.
 
@@ -478,9 +520,13 @@ SEWERAGE
 
 10\.—(1) Every sewerage system shall be altered, repaired and kept in proper order at the cost and expense of the owner of the premises to which the sewerage system belongs or for the use of which it is maintained.
 
-(2) The Board may, by notice in writing, require the owner of any premises referred to in subsection (1) to alter, repair or put the sewerage system in good order in the manner required by the Board.
+(2) The Board may, by notice in writing, require the owner of any premises referred to in subsection (1) to do one or both of the following at his own cost and expense:
 
-[8/2001]
+(a) to have the sewerage system inspected and tested in such manner and at such intervals as the Board may require, to ensure that the sewerage system is kept in good order;
+
+(b) to alter, repair or put in good order the sewerage system in such manner as the Board may require.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (3) Where the Board is satisfied that it is immediately necessary to alter, repair or put in good order and condition any sewer, drain-line, privy, cesspool, septic or other tank, toilet, urinal, water-closet, sink, bath or lavatory or any appurtenance thereof, any authorised officer may enter upon any premises and carry out or cause to be carried out such alterations, repairs, works, acts or things as are necessary for any of those purposes.
 
@@ -490,11 +536,17 @@ SEWERAGE
 
 [11
 
+(5) If the owner of any premises to which a sewerage system belongs or for the use of which it is maintained, fails to keep the sewerage system in proper order in contravention of subsection (1), he shall be guilty of an offence.
+
+[Act 10 of 2012 wef 01/09/2012]
+
 ### Sewerage systems, etc., not to be constructed or altered without Board’s certificate or approval
 
-11\.—(1) No person shall construct, alter, discontinue or close up any sewerage system or sanitary facilities without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
+11\.—(1) Subject to subsection (5), no person shall construct, alter, discontinue or close up any sewerage system or sanitary facilities without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) Where any sewerage system or sanitary facilities are constructed, altered, discontinued or closed up in contravention of subsection (1), the Board may serve upon any person specified in subsection (3) a notice requiring him to demolish or make good the sewerage system or sanitary facilities to its original state and condition within such time as may be specified in the notice.
 
@@ -512,9 +564,13 @@ SEWERAGE
 
 [12
 
-(5) This section shall not apply to the repair, replacement or removal of, or any addition to, sanitary facilities or sanitary appliances in a building.
+(5) This section shall not apply to —
 
-[9/2002 wef 01/08/2002]
+(a) the repair, replacement or removal of any existing sanitary facility in a building; or
+
+(b) the addition of any sanitary appliance within the existing sanitary facilities in a building.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 ### Buildings without adequate sanitary facilities
 
@@ -542,33 +598,73 @@ within such time as may be specified in the notice.
 
 [8/2001]
 
-(2) In carrying out any inspection under this section, the authorised officer shall cause as little damage as possible and shall make full compensation for any damage done.
+(2) In carrying out any inspection under this section, the authorised officer shall cause as little damage as possible, and the Board shall make reasonable compensation for any damage done to any premises, sewerage system or sanitary facilities affected by the inspection.
 
-[14
+[Act 10 of 2012 wef 01/09/2012]
 
-[8/2001]
+### Duty to enquire before excavation
 
-### Building, etc., not to be erected over, across or adjacent to any sewer or sewerage system without Board’s certificate or approval
+13A\.—(1) Any person who digs, bores, trenches, grades, excavates, tunnels or breaks any ground with any mechanical equipment, tool or explosive, or allows his employee or agent to do so, without first —
 
-14\.—(1) No person shall erect or cause or permit to be erected any building or structure over, across or adjacent to any sewer or sewerage system without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
+(a) obtaining from the Board the relevant drainage plan or sewerage plan or other plans or records to ascertain the location of any public sewerage system or part thereof that may be interfered with by such works;
 
-[8/2001]
+(b) carrying out trial trenches to physically ascertain the location of any such public sewerage system or part thereof that may be interfered with by such works; and
 
-(2) Where any building or structure has been erected in contravention of subsection (1), the Board may serve upon any person specified in subsection (3) a notice requiring him to demolish the building or structure within such time as may be specified in the notice.
+(c) complying with such other requirements as the Board may specify to protect any such public sewerage system or part thereof within the vicinity of such works,
 
-[8/2001]
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) For the purposes of subsection (1)(a), any person may, upon payment of the prescribed fee, be permitted to inspect and take copies of the relevant plans or records maintained by or on behalf of the Board.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+### Works likely to affect sewer or sewerage system not to be carried out without Board’s certificate or approval
+
+14\.—(1) No person shall —
+
+(a) erect or cause or permit to be erected any object, building or structure over, across or adjacent to any sewer or sewerage system; or
+
+(b) carry out or cause to be carried out any other works which adversely affect or are likely to adversely affect any sewer or sewerage system, directly or indirectly,
+
+without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
+
+(2) Where any object, building or structure is erected or any other works are carried out in contravention of subsection (1), the Board may, by notice in writing, require any person specified in subsection (3) to do one or more of the following:
+
+(a) cease immediately the carrying on of those works, either indefinitely or for such period as may be specified by the Board;
+
+(b) carry out such works as the Board may think necessary to protect the sewer or sewerage system within such time as may be specified in the notice;
+
+(c) demolish and remove the object, building or structure within such time as may be specified in the notice.
 
 (3) The notice referred to in subsection (2) may be served on all or any of the following persons:
 
 (a) the person who does or causes or permits to be done any of the acts referred to in subsection (1);
 
-(b) the owner or occupier of the building or structure referred to in subsection (2);
+(b) the owner or occupier of the premises where the object, building or structure referred to in subsection (1)(a) is erected;
 
-(c) any person having power to demolish the building or structure referred to in subsection (2).
+(c) the owner or occupier of the premises where the works referred to in subsection (1)(b) are being carried out;
+
+(d) any person having power to demolish the object, building or structure referred to in subsection (1)(a).
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
-[15
+(5) In this section, “works”, in addition to its meaning in section 2, includes —
+
+(a) any act of excavating earth, rock or other material (by whatever means) in connection with —
+
+(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, structure, road, railway, bridge, viaduct, flyover, drain or sewer;
+
+(ii) any work for or relating to the laying, inspecting, repairing or renewing of any main, pipe, cable, fittings or other apparatus; or
+
+(iii) any soil investigation work;
+
+(b) any act of boring, dredging, jacking, levelling, piling or tunnelling on or under any premises or street by any mechanical means;
+
+(c) the driving or sinking of any earth rod, casing or tube into the ground; and
+
+(d) any storage or placement of large construction equipment, construction materials and stockpiling of earth or heavy objects.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 ### Sanitary facilities, sewerage system and sewage and trade effluent removal for farms
 
@@ -588,17 +684,31 @@ as the Board may require.
 
 [8/2001]
 
-### Trade effluent not to be discharged into public sewers without Board’s approval
+### Trade effluent not to be discharged into public sewerage system without Board’s approval
 
-16\.—(1) Any person who discharges or causes or permits to be discharged any trade effluent into any public sewer or any drain-line or sewer communicating with a public sewer without the written approval of the Board shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+16\.—(1) No person shall discharge, or cause or permit to be discharged, any trade effluent into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, except —
 
-[8/2001]
+(a) with the prior written approval of the Board; and
 
-(2) Where any trade effluent had been discharged from any premises into any public sewer or any drain-line or sewer communicating with a public sewer, it shall be presumed, until the contrary is proved, that the occupier of the premises has discharged or causes or permits to be discharged the trade effluent in contravention of subsection (1).
+(b) in accordance with the conditions of that approval, if any, and any regulations under this Act providing for the control of such discharge.
 
-(3) The presumption under subsection (2) shall not be rebutted unless the occupier of the premises proves that he had exercised due diligence to prevent the commission of the offence under subsection (1).
+[Act 10 of 2012 wef 01/09/2012]
 
-(4) Subsection (1) shall not apply to any discharge of trade effluent which may be lawfully made into any public sewer under any regulations made under this Act.
+(1A) Subsection (1) shall not apply to the discharge of any dangerous or hazardous substance or any trade effluent containing any dangerous or hazardous substance under section 16A.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(2) Where any trade effluent had been discharged from any premises into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, it shall be presumed, until the contrary is proved, that the occupier of the premises has discharged or causes or permits to be discharged the trade effluent in contravention of subsection (1).
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(3) The presumption under subsection (2) shall not be rebutted unless the occupier of the premises proves that he had taken all reasonable precautions and exercised due diligence to prevent the contravention of subsection (1).
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (5) A person shall not be guilty of an offence under this section if he proves that —
 
@@ -610,29 +720,109 @@ as the Board may require.
 
 [8/2001]
 
-### Prohibition on discharge of dangerous trade effluent
+(6) The court may order any person who is convicted of an offence under this section to pay the cost incurred by the Board, or by the owner or occupier of any premises, in carrying out any work to restore the public sewerage system to its original condition, or to clear the public sewerage system of the trade effluent so discharged.
 
-17\.—(1) Where the Board reports to the Minister that any trade effluent which is being discharged from any premises into the public sewerage system is dangerous to health or safety or will cause damage to the public sewerage system, the Minister may by order direct the occupier of the premises —
+[Act 10 of 2012 wef 01/09/2012]
 
-(a) to cease immediately the discharge of such trade effluent into the public sewerage system;
+### Prohibition on discharge of dangerous or hazardous substance or trade effluent containing dangerous or hazardous substance
 
-(b) to take such steps as may be specified in the order to treat the trade effluent which is complained of; and
+16A\.—(1) No person shall discharge, or cause or permit to be discharged, any dangerous or hazardous substance or any trade effluent containing any dangerous or hazardous substance into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, except —
 
-(c) to cease immediately the carrying on of any process or work which produces the trade effluent either indefinitely or until such steps as are specified in the order have been taken to treat the trade effluent before it is discharged into the public sewerage system.
+(a) with the prior written approval of the Board; and
+
+(b) in accordance with the conditions of that approval, if any, and any regulations under this Act providing for the control of such discharge.
+
+(2) Where any dangerous or hazardous substance or any trade effluent containing any dangerous or hazardous substance has been discharged from any premises into any public sewerage system or any drain-line or sewer communicating with a public sewerage system in contravention of subsection (1), it shall be presumed, until the contrary is proved, that the occupier of the premises has discharged, or caused or permitted to be discharged, the substance or trade effluent.
+
+(3) The presumption under subsection (2) shall not be rebutted unless the occupier of the premises proves that he had taken all reasonable precautions and exercised due diligence to prevent the contravention of subsection (1).
+
+(4) Where, in any proceedings for an offence under subsection (5) or (6), it is proved that the accused had committed any act referred to in subsection (1), it shall be presumed, unless the contrary is proved, that the accused knew that the substance discharged was a dangerous or hazardous substance or that the trade effluent discharged contained a dangerous or hazardous substance, as the case may be.
+
+(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable —
+
+(a) on the first conviction, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction; and
+
+(b) on a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) Any person who contravenes subsection (1) and thereby causes —
+
+(a) injury or death to any person;
+
+(b) damage to any public sewerage system which renders the sewerage system inoperable; or
+
+(c) severe disruption to the process of treating sewage or trade effluent or the process of water reclamation,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(7) The court may order any person who is convicted of an offence under this section to pay the cost incurred by the Board, or by the owner or occupier of any premises, in carrying out any work —
+
+(a) to restore the public sewerage system to its original condition;
+
+(b) to resume the process of treating sewage or trade effluent or the process of water reclamation; or
+
+(c) to clear the public sewerage system of the dangerous or hazardous substance or the trade effluent containing the dangerous or hazardous substance so discharged.
+
+(8) The Board may, with the approval of the Minister, by regulations provide for the control or prohibition of the discharge of dangerous or hazardous substances or trade effluent containing dangerous or hazardous substances into any public sewerage system or any drain-line or sewer communicating with a public sewerage system.
+
+(9) For the purposes of this section and section 17, a substance is a dangerous or hazardous substance if —
+
+(a) it is of a nature that is likely, either alone or in combination with or by interaction with another substance —
+
+(i) to pose a health hazard to or cause danger to the safety and health of any person at work at, on or in any part of any public sewerage system;
+
+(ii) to cause a fire or an explosion in any public sewerage system;
+
+(iii) to damage any public sewerage system to the extent that would render the sewerage system inoperable; or
+
+(iv) to severely disrupt —
+
+(A) the proper working of any public sewerage system, or any facility, machinery or equipment related or connected to the sewerage system;
+
+(B) any process of treating trade effluent, sewage or other waste for reuse;
+
+(C) any process of water reclamation; or
+
+(D) the proper working of any facility, machinery or equipment used for any process referred to in sub-paragraph (B) or (C); or
+
+(b) it is prescribed as a dangerous or hazardous substance.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+### Order to stop discharge of dangerous or hazardous substance or trade effluent containing dangerous or hazardous substance
+
+17\.—(1) Where it appears to the Board that any dangerous or hazardous substance or any trade effluent containing any dangerous or hazardous substance is being or has been discharged into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, the Board may, by order, direct the occupier of any premises from which the substance or trade effluent is being or has been discharged or any other person who, in the opinion of the Board, has caused or permitted the discharge —
+
+(a) to immediately cease the discharge of such substance or trade effluent into the public sewerage system or the drain-line or sewer communicating with a public sewerage system;
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(b) to take such steps as may be specified in the order to treat the substance or trade effluent which is complained of; and
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(c) to immediately cease the carrying on of any process or work which produces the substance or trade effluent, either indefinitely or until such steps as are specified in the order have been taken to treat the substance or trade effluent before it is discharged into the public sewerage system or the drain-line or sewer communicating with a public sewerage system.
 
 [8/2001]
 
-(2) Any person who is aggrieved by an order made by the Minister under subsection (1) may, within 28 days from the date of the order, appeal to the High Court which may rescind or vary the order.
+[Act 10 of 2012 wef 01/09/2012]
 
-(3) Notwithstanding that an appeal has been made under subsection (2), an aggrieved person shall comply with the order pending the outcome of the appeal to the High Court and the Board may exercise the powers conferred under subsection (5).
+(2) Any person who is aggrieved by an order made by the Board under subsection (1) may, within 14 days from the date of service of the order, appeal in writing to the Minister, who may confirm, vary or rescind the order.
 
-[8/2001]
+[Act 10 of 2012 wef 01/09/2012]
 
-(4) The occupier of any premises who fails to comply with an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day or part thereof during which the offence continues after conviction.
-
-(5) Where the occupier of any premises fails to comply with an order made under subsection (1) within 48 hours of the service of the order, any authorised officer may, at all reasonable times, enter upon the premises and take such measures and execute such work as may be necessary to comply with the order without prejudice to any proceedings that may be taken against the occupier of the premises under subsection (4).
+(3) Notwithstanding that an appeal has been made under subsection (2), an aggrieved person shall comply with the order pending the outcome of the appeal to the Minister and the Board may exercise the powers conferred under subsection (5).
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(4) If any person to whom an order under subsection (1) is directed fails to comply with the order (referred to in this section as the person in default), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(5) Where the person in default fails to comply with the order made under subsection (1), an authorised officer may, at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises to which the order relates, enter the premises and take such measures and execute such work as may be necessary to secure compliance with the order but without prejudice to any proceedings that may be taken against the person in default under subsection (4).
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (6) Any expenses reasonably incurred by the Board under subsection (5) may be recovered from the person in default and section 48 and, if that person is the owner of the premises, section 50 shall apply in respect of those expenses.
 
@@ -646,17 +836,21 @@ as the Board may require.
 
 ### Discharge of sewage, etc.
 
-18\.—(1) Any person who, without the written approval of the Board, discharges or causes or permits the discharge of any sewage, waste matter or effluent into any public sewer or any drain-line or sewer communicating with a public sewer —
+18\.—(1) Any person who, without the written approval of the Board, discharges or causes or permits the discharge of any sewage, waste matter or effluent into any public sewerage system or any drain-line or sewer communicating with a public sewerage system —
 
 (a) directly or indirectly, from any conveyance or mobile toilet; or
 
-(b) by opening a manhole or an inspection chamber or any other means of access to the public sewer,
+(b) by opening a manhole or an inspection chamber or any other means of access to the public sewerage system,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
 [8/2001]
 
-(2) Subsection (1) shall not apply to any discharge from a conveyance or mobile toilet which may be lawfully made into any public sewer under any regulations made under this Act.
+[Act 10 of 2012 wef 01/09/2012]
+
+(2) Subsection (1) shall not apply to any discharge from a conveyance or mobile toilet which may be lawfully made into any public sewer or public sewerage system under any regulations made under this Act.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (3) In this section —
 
@@ -666,13 +860,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [19]
 
-### Restrictions on use of public sewers
+### Restrictions on use of public sewerage system
 
-19\.—(1) No person shall throw, empty or pass, or suffer or permit to be thrown or emptied or passed, into any public sewer, or into any drain-line or sewer communicating with a public sewer —
+19\.—(1) No person shall throw, empty or pass, or suffer or permit to be thrown or emptied or passed, into any public sewerage system, or into any drain-line or sewer communicating with a public sewerage system —
 
-(a) any matter or other substance likely to injure the sewer or drain-line, to interfere with the free flow of its contents or to affect prejudicially the treatment and disposal of its contents; or
+(a) any matter or other substance likely to injure the public sewerage system, sewer or drain-line, to interfere with the free flow of its contents or to affect prejudicially the treatment and disposal of its contents; or
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (b) any sand, earth, gravel, cement, cement grout, brick, timber, wood or other building materials.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
@@ -686,17 +884,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 20\.—(1) Any person who —
 
-(a) causes any damage to any public sewer or any sewer or drain-line communicating with a public sewer; or
+(a) causes any damage to any public sewer or any drain-line or sewer communicating with a public sewer; or
 
-(b) does any act which renders any public or private sewer to be dangerous or injurious to health or to cause a nuisance,
+(b) renders any public sewer or private sewer a nuisance,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-(2) The Board may, by notice in writing, require any person who contravenes subsection (1) to carry out any works to restore the sewerage system to its original condition within such time as may be specified in the notice.
+(2) Any person who —
 
-[21
+(a) does any act which renders any public sewer or private sewer dangerous or injurious to health;
 
-[8/2001]
+(b) causes any damage to a pipe of 0.9 metres or greater in diameter that is part of or connected to the public sewerage system; or
+
+(c) does any act which disrupts the operation of or causes damage to any sewage treatment plant, sewage treatment works or water reclamation facility,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(3) In any proceedings for an offence under subsection (1) or (2), it shall be a defence for the person charged under either of those subsections to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence, but this defence shall not be available to a person who may be liable by virtue of section 67A.
+
+(4) If it appears to the Board that there has been a contravention of subsection (1) or (2), the Board may, by notice in writing, require any person who has caused the damage or done any of the acts referred to in subsection (1) or (2), or such other person who may be liable under either of those subsections by virtue of section 67A, to carry out such works as may be necessary to restore the sewerage system to its original condition within such time as may be specified in the notice.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 ## PART IV
 
@@ -716,11 +924,9 @@ DRAINAGE
 
 [8/2001]
 
-(4) In the carrying out of any works under this section, the Board shall cause as little damage as possible and shall make full compensation for any damage done.
+(4) In carrying out any works under this section, the Board shall cause as little damage as possible, and shall make reasonable compensation for any damage done to any affected premises or building.
 
-[22
-
-[8/2001]
+[Act 10 of 2012 wef 01/09/2012]
 
 ### Vesting of private drains in Government
 
@@ -822,17 +1028,53 @@ without obtaining in respect of those works, a clearance certificate or the appr
 
 ### Works affecting storm water drainage system
 
-26\.—(1) No person shall carry out or cause to be carried out any works which will affect any storm water drainage system, drain or drainage reserve, directly or indirectly, without obtaining in respect of those works, a clearance certificate or the approval of the Board under section 33.
+26\.—(1) No person shall carry out or cause to be carried out —
 
-[8/2001]
+(a) any works which affect or are likely to affect any storm water drainage system, drain or drainage reserve, directly or indirectly; or
 
-(2) Where any work has been carried out in contravention of subsection (1), the Board may by notice in writing require the person who carried out the works, or the owner or occupier of any premises in respect of which the works were carried out, to carry out such works as the Board thinks necessary within such time as may be specified in the notice.
+(b) any works that could lead to the discharge of silt directly or indirectly into any storm water drainage system, drain or drainage reserve,
 
-[8/2001]
+without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+(2) Every person given a clearance certificate or approval by the Board to carry out any works under subsection (1) shall —
 
-[27
+(a) notify the Board in writing before the commencement of the works;
+
+(b) provide adequate silt control measures in accordance with any standards or guidelines issued by the Board before the commencement and for the duration of the works; and
+
+(c) comply with the conditions of the clearance certificate or approval, if any.
+
+(3) The Board may prescribe standards and limits in respect of any discharge of silt into any storm water drainage system, drain or drainage reserve.
+
+(4) Where any works are or have been carried out in contravention of subsection (1) or (2), or as a result of which silt is discharged which exceeds the standards or limits prescribed under subsection (3), the Board may do all or any of the following:
+
+(a) by notice in writing require the person who carried out, or caused to be carried out, the works, or the owner or occupier of any premises in respect of which the works were carried out, to do one or more of the following:
+
+(i) to cease immediately the carrying out of those works, either indefinitely or for such period as may be specified by the Board;
+
+(ii) to carry out such works as the Board may think necessary to restore the storm water drainage system, drain or drainage reserve to its original condition or to protect the storm water drainage system, drain or drainage reserve, within such time as may be specified in the notice;
+
+(iii) to take such measures as the Board may think necessary to comply with subsection (2)(b) or (c) or adhere to the standards or limits prescribed under subsection (3);
+
+(b) revoke the clearance certificate or approval given, or suspend the clearance certificate or approval for such period as the Board considers reasonable.
+
+(5) Any person who —
+
+(a) contravenes subsection (1) or (2);
+
+(b) without reasonable excuse, fails to comply with a notice of the Board under subsection (4)(a); or
+
+(c) carries out any works after the clearance certificate or approval relating to those works has been revoked or during such period as the clearance certificate or approval is suspended under subsection (4)(b),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(6) Where the person on whom the notice is served under subsection (4)(a) fails to comply with the notice, an authorised officer may, at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises to which the notice relates, enter the premises and take such measures and execute such work as may be necessary to secure compliance with the notice but without prejudice to any proceedings that may be taken against that person under subsection (5).
+
+(7) Any expenses reasonably incurred by the Board under subsection (6) may be recovered from the person who failed to comply with the notice served on him under subsection (4)(a), and section 48 and, if that person is the owner of the premises, section 50 shall apply in respect of those expenses.
+
+(8) Nothing in this section shall be construed as prohibiting the Board from carrying out any works specified in any notice under subsection (4)(a) at the request of a person who has been served with the notice upon an undertaking by that person to pay the costs and expenses in executing the works.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 ### Construction and maintenance of private drains
 
@@ -946,9 +1188,13 @@ REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
 ### Codes of practice and specifications
 
-32\.—(1) The Board may issue or approve and from time to time review specifications for sewerage works, sewerage systems, sanitary facilities, sanitary appliances, drains, drainage works and storm water drainage systems, and codes of practice for professionals engaged in the design and construction of the same.
+32\.—(1) The Board may issue or approve and from time to time review —
 
-[8/2001]
+(a) specifications for sewerage works, sewerage systems, sanitary facilities, sanitary appliances, drains, drainage works, silt control measures, storm water drainage systems and works which are likely to affect any sewerage system or storm water drainage system; and
+
+(b) codes of practice for professionals engaged in the design and construction of any of the matters referred to in paragraph (a).
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) If any provision in any code of practice or specifications issued or approved by the Board under subsection (1) is inconsistent with any regulation made under this Act, such provision shall, to the extent of the inconsistency —
 
@@ -1078,29 +1324,57 @@ ENFORCEMENT
 
 ### Power to demand names and addresses
 
-38\.—(1) Any authorised officer may require any owner or occupier of any premises to give his name and address and such other proof of identity as he may require and to furnish such other particulars as the authorised officer may require for the purposes of this Act.
+38\.—(1) Any police officer, authorised officer or such other person as may be authorised by the Board for the purposes of this section (referred to in this section as an authorised person) who reasonably believes that any person has committed an offence under this Act may require that person to furnish evidence of his identity, and the person shall thereupon furnish such evidence of his identity as may be required by the police officer, authorised officer or authorised person, as the case may be.
 
-[8/2001]
+[Act 10 of 2012 wef 01/09/2012]
 
-(2) Any person who, upon being required by any authorised officer to give his name and address or to furnish any particulars under subsection (1), refuses to do so or wilfully mis-states his name and address or furnishes false particulars shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(1A) Any police officer, authorised officer or authorised person may require any owner or occupier of any premises to furnish his name and address and such other proof of identity or particulars as the police officer, authorised officer or authorised person may require for the purposes of this Act.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(2) Any person who, upon being required by any police officer, authorised officer or authorised person to give his name and address or to furnish any particulars under subsection (1) or (1A), refuses to do so or wilfully mis-states his name and address or furnishes false particulars shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [39
 
 [8/2001]
 
+[Act 10 of 2012 wef 01/09/2012]
+
 ### Powers of Board to examine and secure attendance
 
 39\.—(1) Any authorised officer may —
 
-(a) examine orally any person who is supposed to be acquainted with the facts and circumstances of matters under this Act, and to reduce to writing any statement made by the person so examined; and
+(a) examine orally any person who appears to be acquainted with the facts and circumstances of matters under this Act —
+
+(i) whether before or after that person or anyone else is charged with an offence in connection with the matter; and
+
+(ii) whether or not that person is to be called as a witness in any inquiry, trial, or other proceeding in connection with the matter;
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(aa) require any person to furnish any information or produce any document in the possession of that person in connection with the matter, and may, without payment, inspect, keep, copy or make extracts from such document; and
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (b) require by order in writing the attendance before himself of any person, being within the limits of Singapore, who, from information given or otherwise, appears to be acquainted with the facts and circumstances of matters under this Act and that person shall attend as so required.
 
 [8/2001]
 
-(2) The person mentioned in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning matters under this Act, except only that he may decline to make with regard to any fact or circumstance, a statement which would have a tendency to expose him to a criminal charge, penalty or forfeiture.
+(2) Any person examined under this section shall be bound to state truly what he knows of the facts and circumstances concerning matters under this Act, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
-(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
+[Act 10 of 2012 wef 01/09/2012]
+
+(3) A statement made by any person examined under this section shall —
+
+(a) be reduced to writing;
+
+(b) be read over to him;
+
+(c) if he does not understand English, be interpreted for him in a language that he understands; and
+
+(d) after correction, if necessary, be signed by him.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (4) If any person fails to attend as required by an order under subsection (1)(b), the Board may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
 
@@ -1126,13 +1400,15 @@ ENFORCEMENT
 
 ### Default in compliance with notice
 
-41\.—(1) Where a person on whom a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26 or 30 is served fails to comply with the notice within the time specified in the notice —
+41\.—(1) Where a person on whom a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25 or 30 is served fails to comply with the notice within the time specified in the notice —
 
 (a) he shall, unless he satisfies the court that he has used all due diligence to comply with the notice, be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000; and
 
 (b) any authorised officer may enter the premises under section 44 and execute the works specified in the notice.
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) Any expenses reasonably incurred by the Board under subsection (1)(b) may be recovered from the person in default and section 48 and, if that person is the owner of the premises, section 50 shall apply in respect of those expenses.
 
@@ -1146,15 +1422,19 @@ ENFORCEMENT
 
 ### Appeal against notice
 
-42\.—(1) Where a person is aggrieved by a notice, referred to in section 41(1) served on him —
+42\.—(1) Where a person is aggrieved by a notice, referred to in section 26(4)(a) or 41(1) served on him —
 
 (a) he may, within 14 days from the date of service of the notice and in the prescribed form and manner, appeal to the Minister; and
 
 (b) until after the determination or abandonment of the appeal —
 
-(i) no liability to a fine under section 41(1)(a) shall arise except as provided for in this section; or
+(i) no liability to a fine under section 26(5) or 41(1)(a), as the case may be, shall arise except as provided for in this section; or
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (ii) no proceedings shall be taken or work done under the notice.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) Where an appeal is brought under this section, the Minister may dismiss or allow the appeal unconditionally or subject to such conditions as he considers fit, and any decision made by the Minister on the appeal shall be final.
 
@@ -1188,9 +1468,11 @@ the Minister may authorise the Board immediately to execute the work.
 
 ### Power of entry
 
-44\.—(1) Any authorised officer may, for the purposes of this Act, enter at all reasonable hours in the day time any premises with such assistants and workmen as are necessary for the purpose of making any survey, inspection or soil investigation and executing any work authorised by this Act.
+44\.—(1) Any authorised officer may, for the purposes of this Act, enter any premises at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises, with such assistants and workmen as are necessary for the purpose of making any survey, inspection or soil investigation and executing any work authorised by this Act.
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) Unless otherwise provided in this Act, any authorised officer shall, before entering any premises under subsection (1), give reasonable notice in writing to the owner or occupier of the premises of his intention to enter any premises under subsection (1).
 
@@ -1198,11 +1480,33 @@ the Minister may authorise the Board immediately to execute the work.
 
 (3) Unless the consent of the occupier has been obtained, no person shall enter any dwelling-house in actual occupation under this section without 6 hours’ previous notice to the occupier.
 
-(4) For the purposes of this section, the Minister may declare that any class of premises is liable to night inspection, and thereupon any authorised officer may, with such assistants and workmen as are necessary, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
+(4) For the purposes of this section, the Minister may declare that any class of premises is liable to inspection at any time of the day or night, and thereupon any authorised officer may, with such assistants and workmen as are necessary, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
 
 [45
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(5) The Board shall not be liable to pay any person any fee, charge or expense on account of such entry to any premises or of anything done in any part of the premises under this Act.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+### Power to enter and investigate
+
+44A\. Notwithstanding section 44, if an authorised officer has reasonable grounds to suspect that an offence under this Act has been committed, he may, at any time without notice, enter any premises and do all or any of the following for the purpose of investigating the suspected offence under this Act:
+
+(a) search the premises and take possession of any thing found therein and reasonably believed to be or to contain dangerous or hazardous substances or to be otherwise connected to the commission of the offence;
+
+(b) require the production of records, certificates, notices and documents relating or reasonably believed to relate to any dealing in or with dangerous or hazardous substances or the discharge of trade effluent containing dangerous or hazardous substances or to the offence, wherever and by whomsoever kept, and take and retain extracts or copies thereof;
+
+(c) take and retain samples of any materials (whether solid, liquid, gaseous or vapour) found for the purpose of analysis;
+
+(d) take such photographs as the authorised officer thinks necessary for the purposes of the investigation;
+
+(e) require any person whom the authorised officer finds in the premises to produce his identity card or other identification papers for inspection for the purpose of the investigation.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 ### Power to enter on land adjacent to works
 
@@ -1216,13 +1520,15 @@ without making any previous payment, tender or deposit and doing as little damag
 
 [8/2001]
 
-(2) The Board shall make compensation —
+(2) The Board shall make reasonable compensation —
 
 (a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as any such temporary occupation is taken or any such temporary damage done; and
 
 (b) to the owner for the permanent injury, if any, to the land.
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (3) Before the Board makes any use of any land under subsection (1), it shall give 7 days’ notice of its intention to the owner and the occupier of the land.
 
@@ -1234,7 +1540,9 @@ without making any previous payment, tender or deposit and doing as little damag
 
 46\. Any person who —
 
-(a) hinders or obstructs the Board or any authorised officer in the performance or execution of its or his duty or of any thing which it or he is empowered or required to do under this Act; or
+(a) hinders or obstructs the Board, any authorised officer or other person authorised by the Board in the performance or execution of its or his duty or of any thing which it or he is empowered or required to do under this Act; or
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (b) interferes with any work authorised to be done under this Act,
 
@@ -1243,6 +1551,20 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [47
 
 [8/2001]
+
+### Making of false statements, etc.
+
+46A\.—(1) Any person who, when giving any information to the Board or making any application under or for the purposes of any provision of this Act, makes any statement which he knows to be false in a material particular, or who recklessly makes any statement which is false in a material particular, shall be guilty of an offence.
+
+(2) Any person who —
+
+(a) wilfully or fraudulently procures or attempts to procure for himself or for any other person any licence or approval under this Act by making or producing or causing to be made or produced any false or fraudulent representation or declaration either verbally or in writing; or
+
+(b) knowingly aids or assists anything under paragraph (a),
+
+shall be guilty of an offence.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 ### Appeal to Minister against notices, orders, directions, etc.
 
@@ -1260,9 +1582,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) a notice or declaration under section 9 or 22;
 
-(b) an authorisation under section 27; or
+(b) an authorisation under section 27;
 
-(c) [Deleted by Act 9/2002 wef 01/08/2002]
+[Act 10 of 2012 wef 01/09/2012]
+
+(c) an order under section 17; or
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (d) a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26, or 30.
 
@@ -1287,9 +1613,11 @@ fees, cOSTS and expenses
 
 (b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
-(c) where those expenses were incurred under section 41(1)(b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
+(c) where those expenses were incurred under section 26(6) or 41(1)(b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
 
 [8/2001]
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (3) The Magistrate’s Court or the District Court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the Court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
 
@@ -1577,6 +1905,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [68
 
+### Liability for offence committed by agent or employee
+
+67A\. Where an offence under this Act is committed by any person acting as an agent or employee of another person, or being otherwise subject to the supervision or instruction of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable for that offence in the same manner and to the same extent as if he had personally committed the offence unless he proves to the satisfaction of the court that the offence was committed without his consent or connivance and that it was not attributable to any neglect on his part.
+
+[Act 10 of 2012 wef 01/09/2012]
+
 ### Jurisdiction of Courts
 
 68\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have power to impose the full punishment in respect of any offence under this Act.
@@ -1665,13 +1999,39 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 74\.—(1) The Board may, with the approval of the Minister, make regulations for or in respect of every purpose which the Board considers necessary or convenient for carrying out the provisions of this Act and, in particular, may —
 
-(a) prescribe the standards and specifications for private sewers and sewerage systems (including drain-lines and their connections to public sewers), sanitary facilities and storm water drainage systems;
+(a) prescribe the standards and specifications for, and the requirements for the use of, private sewers and sewerage systems (including drain-lines and their connections to public sewers), public sewers, water reclamation facilities, sanitary appliances, sanitary facilities and storm water drainage systems;
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (b) regulate the discharge of trade effluent into sewers;
 
-(c) prohibit the discharge of silt or debris into storm water drainage systems.
+(c) prohibit the discharge of silt or debris into storm water drainage systems;
 
-(d) [Deleted by Act 9/2002 wef 01/08/2002]
+[Act 10 of 2012 wef 01/09/2012]
+
+(d) prescribe additional requirements for the protection of the public sewerage system;
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(e) prescribe fees and charges for the purposes of this Act, including for —
+
+(i) the disposal (including any treatment necessary or incidental to the disposal) of any used water, sewage, waste matter or effluent discharged from any premises that fails to meet the standards imposed by the Board under or pursuant to this Act on such used water, sewage, waste matter or effluent; and
+
+(ii) the late payment of prescribed fees and charges;
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(f) prescribe such service relating to sewage provided by the Board for which the Board may charge prices by way of agreement with the person to whom the service is provided in lieu of prescribing such prices; and
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(g) prescribe anything required or permitted to be prescribed under this Act.
+
+[Act 10 of 2012 wef 01/09/2012]
+
+(1A) The Board may, in making any regulations, provide that any contravention of the regulations shall be an offence punishable with a fine not exceeding $15,000 or with imprisonment for a term not exceeding 3 months or with both and, in the case of a continuing offence, with a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2012 wef 01/09/2012]
 
 (2) Any regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1714,6 +2074,12 @@ This Legislative History is provided for the convenience of users of the Sewerag
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
 |||(item (15) in the Fifth Schedule)|
+|7.|**Act 10 of 2012—Sewerage and Drainage (Amendment) Act 2012**|
+||Date of First Reading|8 March 2012|
+|||(Bill No. 9/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 September 2012|
+|||(except sections 32, 34, 35 and 36(1))|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
