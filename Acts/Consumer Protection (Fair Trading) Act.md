@@ -6,11 +6,15 @@
 
 [**Long Title**](#Consumer-Protection-Fair-Trading-Act)
 
+[**Part I PRELIMINARY**](#Part-I)
+
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Application of Act](#Application-of-Act)
+[**Part II UNFAIR PRACTICES**](#Part-II)
+
+- [3 Application of Part](#Application-of-Part)
 
 - [4 Meaning of unfair practice](#Meaning-of-unfair-practice)
 
@@ -30,6 +34,22 @@
 
 - [12 Limitation period](#Limitation-period)
 
+[**Part III ADDITIONAL CONSUMER RIGHTS IN RESPECT OF NON-CONFORMING GOODS**](#Part-III)
+
+- [12A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [12B Application of this Part](#Application-of-this-Part)
+
+- [12C Repair or replacement of goods](#Repair-or-replacement-of-goods)
+
+- [12D Reduction in amount to be paid or rescission of contract](#Reduction-in-amount-to-be-paid-or-rescission-of-contract)
+
+- [12E Relation to other remedies, etc.](#Relation-to-other-remedies-etc)
+
+- [12F Powers of court](#Powers-of-court)
+
+[**Part IV GENERAL**](#Part-IV)
+
 - [13 No contracting out](#No-contracting-out)
 
 - [14 Rights transferred](#Rights-transferred)
@@ -48,7 +68,7 @@
 
 - [20 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Excluded Transactions**](#FIRST-SCHEDULE-Excluded-Transactions)
+[**FIRST SCHEDULE Excluded Transactions Excluded transactions in relation to consumer transactions**](#FIRST-SCHEDULE-Excluded-Transactions-Excluded-transactions-in-relation-to-consumer-transactions)
 
 [**SECOND SCHEDULE Specific Unfair Practices**](#SECOND-SCHEDULE-Specific-Unfair-Practices)
 
@@ -68,9 +88,17 @@ REVISED EDITION 2009
 
 (31st July 2009)
 
-An Act to protect consumers against unfair practices and for matters connected therewith.
+An Act to protect consumers against unfair practices and to give consumers additional rights in respect of goods that do not conform to contract, and for matters connected therewith.
+
+[Act 7 of 2012 wef 01/09/2012]
 
 [1st March 2004]
+
+## PART I
+
+PRELIMINARY
+
+[Act 7 of 2012 wef 01/09/2012]
 
 ### Short title
 
@@ -126,7 +154,7 @@ but does not include any transaction specified in the First Schedule;
 
 (c) a voucher;
 
-“hire-purchase agreement” has the same meaning as in the Hire- Purchase Act (Cap. 125);
+“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act (Cap. 125);
 
 “material fact” means any information that a supplier knows or ought reasonably to know would affect the decision of a consumer to enter into a consumer transaction;
 
@@ -180,21 +208,25 @@ and includes any employee or agent of the person, and the word “supply”, wit
 
 “voucher” means any document that purports to give the holder of the document the right to obtain goods or a service or the right to obtain goods or a service at a discounted or reduced price.
 
-[15/2008]
-
 (2) An individual who holds himself out as acting exclusively in the course of business shall be treated as acting exclusively in the course of business for the purpose of the definition of “consumer” in subsection (1).
 
 (3) For the purposes of the definitions of “financial product” and “financial services” in subsection (1), a reference to a person regulated under a written law shall include a person exempted from being licensed, approved or regulated under that written law.
 
-[15/2008]
+## PART II
 
-### Application of Act
+UNFAIR PRACTICES
 
-3\. This Act shall not apply unless —
+[Act 7 of 2012 wef 01/09/2012]
+
+### Application of Part
+
+3\. This Part shall not apply unless —
 
 (a) the supplier or consumer is resident in Singapore; or
 
 (b) the offer or acceptance relating to the consumer transaction is made in or is sent from Singapore.
+
+[Act 7 of 2012 wef 01/09/2012]
 
 ### Meaning of unfair practice
 
@@ -258,19 +290,11 @@ and includes any employee or agent of the person, and the word “supply”, wit
 
 (6) The prescribed limit referred to in this section shall be $30,000 or such other amount as the Minister may, by order in theGazette, prescribe.
 
-[15/2008]
-
 (7) Any party to an action in a court under subsection (1) may, at any time, apply to that court to stay the proceedings so far as the proceedings relate to an unfair practice in respect of which an application has been made under section 9 against the same supplier.
-
-[15/2008]
 
 (8) The court to which an application under subsection (7) has been made may, if the court is satisfied that the determination in respect of the application under section 9 will be material to the action under subsection (1), make an order, upon such terms as the court thinks fit, staying the proceedings so far as the proceedings relate to that unfair practice.
 
-[15/2008]
-
 (9) Where no party to the proceedings has taken any further step in the proceedings for a period of 2 or more years after an order staying the proceedings has been made, the court may, on its own motion, make an order discontinuing the proceedings without prejudice to the right of any of the parties to apply for the discontinued proceedings to be reinstated.
-
-[15/2008]
 
 ### Jurisdiction and powers of courts
 
@@ -286,15 +310,9 @@ and includes any employee or agent of the person, and the word “supply”, wit
 
 (e) any action insofar as it relates to a deposit paid in relation to or in contemplation of a motor vehicle sale contract.
 
-[15/2008]
-
 (2) In subsection (1), “relevant contract” means a contract referred to in section 5(1)(a) (contract for the sale of goods or the provision of services) or (c) (contract for the lease of residential premises that does not exceed 2 years) of the Small Claims Tribunals Act (Cap. 308), and does not include a hire-purchase agreement or sale of immovable property.
 
-[15/2008]
-
 (2A) For the avoidance of doubt, subsections (2) to (5) of section 5 of the Small Claims Tribunals Act shall apply, with the necessary modifications, to a Small Claims Tribunal exercising the jurisdiction conferred by subsection (1).
-
-[15/2008]
 
 (3) For the purposes of determining whether an action under section 6(1) exceeds the District Court limit or the Magistrate’s Court limit within the meaning of the Subordinate Courts Act (Cap. 321), such an action shall be deemed to be a claim founded on contract.
 
@@ -331,8 +349,6 @@ and “business use” and “non-business use” shall be construed accordingly
 (b) resolve the dispute with the supplier before commencing the action.
 
 (10) For the purposes of subsection (9)(b), if any specified dispute resolution scheme was available to the consumer in respect of the dispute, the court shall consider whether the consumer had sought to resolve the dispute through such a scheme.
-
-[15/2008]
 
 ### Voluntary compliance agreement
 
@@ -462,8 +478,6 @@ in such manner or upon such terms as specified in the undertakings.
 
 whichever occurs later.
 
-[15/2008]
-
 (2) No action under section 8(6), (7) or (8) shall be commenced later than one year from the date of the failure to comply with the undertaking sought to be enforced.
 
 (3) No action under section 9 shall be commenced later than 2 years —
@@ -473,8 +487,6 @@ whichever occurs later.
 (b) where the specified body alleges in the action that the supplier has engaged in an unfair practice in respect of any consumer, from the earliest date on which that consumer had knowledge that the supplier had engaged in the alleged unfair practice, as provided in subsection (1)(b),
 
 whichever occurs later.
-
-[15/2008]
 
 (4) No action under any regulations made under section 11 shall be commenced later than one year from the date of the cancellation of the contract.
 
@@ -489,6 +501,215 @@ whichever occurs later.
 (7) A consumer shall not be taken by virtue of subsection (6) to have knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
 
 (8) The Limitation Act (Cap. 163) shall apply (with the necessary modifications, including the modifications set out in the Fourth Schedule) to actions referred to in this section as if such actions were actions for which a period of limitation is prescribed in Part II of the Limitation Act.
+
+## PART III
+
+ADDITIONAL CONSUMER RIGHTS IN
+
+
+
+
+RESPECT OF NON-CONFORMING GOODS
+
+[Act 7 of 2012 wef 01/09/2012]
+
+### Interpretation of this Part
+
+12A\.—(1) In this Part, unless the context otherwise requires —
+
+“applicable contract” means —
+
+(a) a contract of sale of goods;
+
+(b) a contract for the transfer of goods; or
+
+(c) a hire-purchase agreement;
+
+“contract for the transfer of goods” has the same meaning as in the Supply of Goods Act (Cap. 394);
+
+“contract of sale of goods” has the same meaning as in the Sale of Goods Act (Cap. 393);
+
+“delivery” has the same meaning as in the Sale of Goods Act;
+
+“goods” —
+
+(a) in relation to a sale, has the same meaning as in the Sale of Goods Act; and
+
+(b) in relation to any other transfer, has the same meaning as in the Supply of Goods Act;
+
+“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act (Cap. 125);
+
+“repair” means, in cases where there is a lack of conformity in goods within the meaning of subsection (4), to bring the goods into conformity with the contract;
+
+“transferee” —
+
+(a) in relation to a contract of sale of goods, means the buyer within the meaning of the Sale of Goods Act;
+
+(b) in relation to a contract for the transfer of goods, has the same meaning as in the Supply of Goods Act; and
+
+(c) in relation to a hire-purchase agreement, means the hirer within the meaning of the Hire-Purchase Act;
+
+“transferor” —
+
+(a) in relation to a contract of sale of goods, means the seller within the meaning of the Sale of Goods Act;
+
+(b) in relation to a contract for the transfer of goods, has the same meaning as in the Supply of Goods Act; and
+
+(c) in relation to a hire-purchase agreement, means the owner within the meaning of the Hire-Purchase Act.
+
+(2) References in this Part to dealing as consumer are to be construed in accordance with Part I of the Unfair Contract Terms Act (Cap. 396).
+
+(3) For the purposes of this Part, it is for a transferor claiming that the transferee does not deal as consumer to show that he does not.
+
+(4) For the purposes of this Part, goods do not conform to —
+
+(a) a contract of sale of goods if there is, in relation to the goods, a breach of an express term of the contract or a term implied by section 13, 14 or 15 of the Sale of Goods Act;
+
+(b) a contract for the supply or transfer of goods if there is, in relation to the goods, a breach of an express term of the contract or a term implied by section 3, 4 or 5 of the Supply of Goods Act; and
+
+(c) a hire-purchase agreement if there is, in relation to the goods, a breach of an express term of the contract or a term implied by section 6A, 6B or 6C of the Hire-Purchase Act.
+
+(5) The following provisions shall not apply to this Part:
+
+(a) the definitions of “consumer” and “goods” in section 2(1);
+
+(b) section 2(2); and
+
+(c) the provisions in Part IV.
+
+[Act 7 of 2012 wef 01/09/2012]
+
+### Application of this Part
+
+12B\.—(1) This Part applies if —
+
+(a) the transferee deals as consumer;
+
+(b) the goods do not conform to the applicable contract at the time of delivery; and
+
+(c) the contract was made on or after the date of commencement of section 6 of the Consumer Protection (Fair Trading) (Amendment) Act 2012.
+
+(2) If this section applies, the transferee has the right —
+
+(a) under and in accordance with section 12C, to require the transferor to repair or replace the goods; or
+
+(b) under and in accordance with section 12D —
+
+(i) to require the transferor to reduce the amount to be paid for the transfer by the transferee by an appropriate amount; or
+
+(ii) to rescind the contract with regard to the goods in question.
+
+(3) For the purposes of subsection (1)(b), goods which do not conform to the applicable contract at any time within the period of 6 months starting from the date on which the goods were delivered to the transferee must be taken not to have so conformed at that date.
+
+(4) Subsection (3) does not apply if —
+
+(a) it is established that the goods did so conform at that date; or
+
+(b) its application is incompatible with the nature of the goods or the nature of the lack of conformity.
+
+[Act 7 of 2012 wef 01/09/2012]
+
+### Repair or replacement of goods
+
+12C\.—(1) If section 12B applies, the transferee may require the transferor to —
+
+(a) repair the goods; or
+
+(b) replace the goods.
+
+(2) If the transferee requires the transferor to repair or replace the goods, the transferor must —
+
+(a) repair or, as the case may be, replace the goods within a reasonable time and without causing significant inconvenience to the transferee; and
+
+(b) bear any necessary costs incurred in doing so (including in particular the cost of any labour, materials or postage).
+
+(3) The transferee must not require the transferor to repair or, as the case may be, replace the goods if that remedy is —
+
+(a) impossible;
+
+(b) disproportionate in comparison to the other of those remedies; or
+
+(c) disproportionate in comparison to an appropriate reduction in the amount to be paid for the transfer under paragraph (a), or rescission under paragraph (b), of section 12D(1).
+
+(4) One remedy is disproportionate in comparison to the other if the one imposes costs on the transferor which, in comparison to those imposed on him by the other, are unreasonable, taking into account —
+
+(a) the value which the goods would have if they conformed to the applicable contract;
+
+(b) the significance of the lack of conformity with the applicable contract; and
+
+(c) whether the other remedy could be effected without causing significant inconvenience to the transferee.
+
+(5) Any question as to what is a reasonable time or significant inconvenience is to be determined by reference to —
+
+(a) the nature of the goods; and
+
+(b) the purpose for which the goods were acquired.
+
+[Act 7 of 2012 wef 01/09/2012]
+
+### Reduction in amount to be paid or rescission of contract
+
+12D\.—(1) If section 12B applies, the transferee may —
+
+(a) require the transferor to reduce the amount to be paid for the transfer of the goods in question to the transferee by an appropriate amount; or
+
+(b) rescind the contract with regard to those goods,
+
+if the condition in subsection (2) is satisfied.
+
+(2) The condition is that —
+
+(a) by virtue of section 12C(3) the transferee may require neither repair nor replacement of the goods; or
+
+(b) the transferee has required the transferor to repair or replace the goods, but the transferor is in breach of the requirement of section 12C(2)(a) to do so within a reasonable time and without causing significant inconvenience to the transferee.
+
+(3) For the purposes of this Part, if the transferee rescinds the contract, any reimbursement to the transferee may be reduced to take account of the use he has had of the goods since they were delivered to him.
+
+[Act 7 of 2012 wef 01/09/2012]
+
+### Relation to other remedies, etc.
+
+12E\.—(1) If the transferee requires the transferor to repair or replace the goods, the transferee must not act under subsection (2) until he has given the transferor a reasonable time in which to repair or replace (as the case may be) the goods.
+
+(2) The transferee acts under this subsection if —
+
+(a) he rejects the goods and terminates the contract for breach of condition; or
+
+(b) he requires the goods to be repaired or replaced (as the case may be).
+
+[Act 7 of 2012 wef 01/09/2012]
+
+### Powers of court
+
+12F\.—(1) In any proceedings in which a remedy is sought under this Part, the court may, in addition to any other power it has, act under this section.
+
+(2) On the application of the transferee, the court may make an order requiring specific performance by the transferor of any obligation imposed on him by virtue of section 12C.
+
+(3) Subsection (4) applies if —
+
+(a) the transferee requires the transferor to give effect to a remedy under section 12C or 12D or has claims to rescind under section 12D; but
+
+(b) the court decides that another remedy under section 12C or 12D is appropriate.
+
+(4) The court may proceed —
+
+(a) as if the transferee had required the transferor to give effect to the other remedy; or
+
+(b) if the other remedy is rescission under section 12D, as if the transferee had claimed to rescind the contract under that section.
+
+(5) If the transferee has claimed to rescind the contract, the court may order that any reimbursement to the transferee be reduced to take account of the use he has had of the goods since they were delivered to him.
+
+(6) The court may make an order under this section unconditionally or on such terms and conditions as to damages, payment for the goods and otherwise as it thinks just.
+
+(7) Subject to its jurisdiction under section 5 of the Small Claims Tribunals Act (Cap. 308), a Small Claims Tribunal may, in addition to its powers under that Act, act under this section.
+
+[Act 7 of 2012 wef 01/09/2012]
+
+## PART IV
+
+GENERAL
+
+[Act 7 of 2012 wef 01/09/2012]
 
 ### No contracting out
 
@@ -532,15 +753,9 @@ the provision must be interpreted against the supplier.
 
 18A\.—(1) If, in any proceedings taken in any court between a consumer and a supplier in relation to a consumer transaction, any dispute arises as to whether the supplier has complied with any specified requirement of this Act or the regulations made thereunder, the burden of proving that the supplier has so complied shall be on the supplier.
 
-[15/2008]
-
 (2) The Minister may, by regulations, specify the requirements of this Act or the regulations made thereunder to which subsection (1) shall apply.
 
-[15/2008]
-
 (3) This section shall not affect any other rule of law that places a burden of proof on the supplier.
-
-[15/2008]
 
 ### Amendment of Schedules
 
@@ -576,13 +791,83 @@ the provision must be interpreted against the supplier.
 
 (l) modifying the application of section 6(2), in relation to any class of supplier or any class of goods or services or transactions, where multiple actions involving the same unfair practice are commenced under section 6(1) by the same consumer.
 
-[15/2008]
+### Rights transferred
+
+14\. Where, other than in the course of business, an individual, as heir or assignee of a consumer, receives goods or services, that individual has the same rights as the consumer to seek and obtain redress from the supplier under this Act.
+
+### Preservation of other rights or remedies
+
+15\.—(1) Subject to subsection (2), nothing in this Act shall restrict, limit or derogate from any right or remedy that a consumer may have apart from this Act.
+
+(2) Subsection (1) shall have effect subject to any provision to the contrary in any regulations made under section 11 or 20.
+
+### Exemption from liability for publishers
+
+16\. A person who, on behalf of a supplier, prints, publishes, distributes, broadcasts or telecasts an advertisement in good faith and in the ordinary course of his business shall not be liable under this Act in respect of any statement, representation or omission in that advertisement.
+
+### Parol evidence rule abolished
+
+17\.—(1) Notwithstanding sections 93 and 94 of the Evidence Act (Cap. 97), parol or extrinsic evidence establishing the existence of an express warranty is admissible in any action relating to a consumer transaction between a consumer and a supplier even though it adds to, varies or contradicts a written contract.
+
+(2) Subsection (1) shall not be applicable to establish the existence of any express warranty in respect of goods or services intended for business use.
+
+### Interpretation of documents
+
+18\. If a consumer and a supplier enter into a consumer transaction and —
+
+(a) all or any part of the transaction or contract is evidenced by a document provided by the supplier; and
+
+(b) a provision of the document is ambiguous,
+
+the provision must be interpreted against the supplier.
+
+### Burden of proof
+
+18A\.—(1) If, in any proceedings taken in any court between a consumer and a supplier in relation to a consumer transaction, any dispute arises as to whether the supplier has complied with any specified requirement of this Act or the regulations made thereunder, the burden of proving that the supplier has so complied shall be on the supplier.
+
+(2) The Minister may, by regulations, specify the requirements of this Act or the regulations made thereunder to which subsection (1) shall apply.
+
+(3) This section shall not affect any other rule of law that places a burden of proof on the supplier.
+
+### Amendment of Schedules
+
+19\. The Minister may, by order published in theGazette, amend the Schedules.
+
+### Regulations
+
+20\.—(1) The Minister may make such regulations as may be necessary or expedient for the purposes of this Act.
+
+(2) Without prejudice to the generality of subsection (1), the Minister may make regulations —
+
+(a) exempting any class of supplier or any class of goods or services or transactions from the application of this Act or any provision of this Act, and imposing conditions for that exemption;
+
+(b) modifying the application of any provision of this Act to any class of supplier or any class of goods or services or transactions;
+
+(c) controlling or prohibiting any practice in relation to any consumer transaction;
+
+(d) prescribing information or notices that must be provided to consumers by suppliers with respect to any consumer transaction;
+
+(e) prescribing the form or terms of contracts to be used in any consumer transaction and any information to be contained therein;
+
+(f) requiring suppliers to maintain books, accounts (including trust accounts) or records in relation to any consumer transaction, and prescribing the form and mode of keeping such books, accounts and records;
+
+(g) prescribing or adopting, with or without modification, codes, standards or rules governing the conduct of suppliers engaged in any consumer transaction;
+
+(h) prescribing the rights and obligations of parties in relation to a consumer transaction involving any practice regulated under this Act or any regulations made thereunder, including the right to sue for the purpose of enforcing such rights or obligations in circumstances specified therein;
+
+(i) specifying limitation periods for any action under this Act or any regulations made thereunder;
+
+(j) specifying, for the purposes of section 7(1)(d), actions under provisions in any regulations made under this section;
+
+(k) specifying dispute resolution schemes for the purposes of section 7(10); and
+
+(l) modifying the application of section 6(2), in relation to any class of supplier or any class of goods or services or transactions, where multiple actions involving the same unfair practice are commenced under section 6(1) by the same consumer.
 
 FIRST SCHEDULE
 
 Section 2
 
-Excluded Transactions
+Excluded transactions in relation to consumer transactions
 
 1. The term “consumer transaction” does not include any of the following transactions:
 
@@ -594,15 +879,27 @@ Excluded Transactions
 
 2. The following Acts are specified for the purposes of paragraph 1(c):
 
-(a) to (g) (Deleted by Act 15 of 2008);
+(a) [Deleted by Act 15 of 2008]
+
+(b) [Deleted by Act 15 of 2008]
+
+(c) [Deleted by Act 15 of 2008]
+
+(d) [Deleted by Act 15 of 2008]
+
+(e) [Deleted by Act 15 of 2008]
+
+(f) [Deleted by Act 15 of 2008]
+
+(g) [Deleted by Act 15 of 2008]
 
 (h) [Deleted by Act 15/2008 wef 01/04/2010]
 
-2(i) Pawnbrokers Act (Cap. 222)
+(i) Pawnbrokers Act (Cap. 222).1
+
+1Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
 
 [15/2008]
-
-2Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c.), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
 
 SECOND SCHEDULE
 
@@ -748,3 +1045,8 @@ This Legislative History is provided for the convenience of users of the Consume
 |||(Bill No. 10/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|25 August 2008|
 ||Date of commencement|1 April 2010 (section 8(b))|
+|6.|**Act 7 of 2012—Consumer Protection (Fair Trading) (Amendment) Act 2012**|
+||Date of First Reading|14 February 2012|
+|||(Bill No. 3/2012 published on 14 February 2012)|
+||Date of Second and Third Readings|9 March 2012|
+||Date of commencement|1 September 2012|
