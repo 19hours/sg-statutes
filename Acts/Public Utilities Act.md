@@ -28,7 +28,7 @@
 
 - [9 Furnishing of documents and information to Board](#Furnishing-of-documents-and-information-to-Board)
 
-- [10 Appointment of Chief Executive and other employees](#Appointment-of-Chief-Executive-and-other-employees)
+- [10 Appointment of Chief Executive and other employees, etc.](#Appointment-of-Chief-Executive-and-other-employees-etc)
 
 - [11 Public servants](#Public-servants)
 
@@ -54,13 +54,17 @@
 
 - [20 Tariffs for supply of water and apparatus](#Tariffs-for-supply-of-water-and-apparatus)
 
-- [21 Board to supply water for human consumption](#Board-to-supply-water-for-human-consumption)
+- [21 Board may supply water](#Board-may-supply-water)
 
 - [22 Board may require security](#Board-may-require-security)
 
 - [23 Board may cut off supply of water in default of payment](#Board-may-cut-off-supply-of-water-in-default-of-payment)
 
 - [24 Power to enter upon premises for survey, inspection, etc.](#Power-to-enter-upon-premises-for-survey-inspection-etc)
+
+- [24A Power to enter premises for installation of pipes, water installations, etc.](#Power-to-enter-premises-for-installation-of-pipes-water-installations-etc)
+
+- [24B Board may act in cases of emergency](#Board-may-act-in-cases-of-emergency)
 
 - [25 Recovery of moneys due to Board](#Recovery-of-moneys-due-to-Board)
 
@@ -112,13 +116,15 @@
 
 - [47 Damage to property of Board](#Damage-to-property-of-Board)
 
+- [47A Damage to water mains and installations, etc.](#Damage-to-water-mains-and-installations-etc)
+
 - [48 Compensation for damaging property of Board](#Compensation-for-damaging-property-of-Board)
 
 - [49 Falsely pretending to be employee of Board](#Falsely-pretending-to-be-employee-of-Board)
 
 - [50 Unauthorised connection with main, contamination, wastage, etc.](#Unauthorised-connection-with-main-contamination-wastage-etc)
 
-- [51 Penalty for obstructing Board in performance of duties](#Penalty-for-obstructing-Board-in-performance-of-duties)
+- [51 Penalty for obstructing Board in its duty](#Penalty-for-obstructing-Board-in-its-duty)
 
 - [52 Making of false statements, etc.](#Making-of-false-statements-etc)
 
@@ -126,9 +132,15 @@
 
 - [54 Jurisdiction of court](#Jurisdiction-of-court)
 
-- [55 Police officer or authorised officer may require evidence of identity in certain cases](#Police-officer-or-authorised-officer-may-require-evidence-of-identity-in-certain-cases)
+- [55 Police officer, authorised officer or authorised person may require evidence of identity in certain cases](#Police-officer-authorised-officer-or-authorised-person-may-require-evidence-of-identity-in-certain-cases)
+
+- [55A Power to examine and secure attendance](#Power-to-examine-and-secure-attendance)
+
+- [55B Power to enter and investigate](#Power-to-enter-and-investigate)
 
 - [56 Offences committed by bodies corporate, etc.](#Offences-committed-by-bodies-corporate-etc)
+
+- [56A Liability for offence committed by agent or employee](#Liability-for-offence-committed-by-agent-or-employee)
 
 - [57 Duty to enquire before excavation](#Duty-to-enquire-before-excavation)
 
@@ -157,6 +169,8 @@
 - [67 Property of Board not fixtures](#Property-of-Board-not-fixtures)
 
 - [68 Powers of arrest](#Powers-of-arrest)
+
+- [68A Compensation, damages, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
 
 - [69 General exemption](#General-exemption)
 
@@ -210,7 +224,9 @@ PRELIMINARY
 
 “approved person” means a person given written approval under section 41 to supply piped water for human consumption;
 
-“authorised officer” means an officer of the Board authorised by the Board for the purposes of this Act;
+“authorised officer” means an officer or employee of the Board, or an officer of any other statutory authority, authorised by the Board under section 10(6);
+
+[Act 9 of 2012 wef 01/09/2012]
 
 “Board” means the Public Utilities Board reconstituted under the Public Utilities Act (Cap. 261, 1996 Ed.) in force before 1st April 2001 and continued by section 3;
 
@@ -264,7 +280,13 @@ but does not include any installation for the disposal of any waste, sullage wat
 
 “water service worker” means any person whose trade or occupation requires or includes the personal performance by him of water service work or a person who is otherwise competent or qualified personally to perform water service work;
 
-“water service worker licence” means a licence granted under section 40(2).
+“water service worker licence” means a licence granted under section 40(2);
+
+[Act 9 of 2012 wef 01/09/2012]
+
+“waterway” means a navigable river, conduit or drain.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ## PART II
 
@@ -308,17 +330,27 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 (d) regulate the supply of piped water for human consumption;
 
+(da) collect and treat used water;
+
+[Act 9 of 2012 wef 01/09/2012]
+
 (e) promote water conservation;
 
-(f) act as an agent of the Government in the management and maintenance of —
+(f) act as an agent of the Government in the construction, management and maintenance of all or any part of any of the following which belongs to the Government:
 
 (i) public sewerage systems;
 
 (ii) public sewers;
 
-(iii) storm water drainage systems, drains and drainage reserves belonging to the Government;
+(iii) storm water drainage systems, drains and drainage reserves;
 
-(g) regulate the construction, maintenance and improvement of sewerage and land drainage systems;
+(iv) any boat transfer facility or barrage in or connecting to any reservoir;
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(g) regulate the construction, maintenance, improvement, operation and use of sewerage and land drainage systems;
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (h) regulate the discharge of sewage and trade effluent;
 
@@ -330,7 +362,13 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 (iii) appertaining to the Board generally;
 
-(j) whether by itself or in association with any other person or organisation, provide to any person in Singapore or elsewhere consultancy, advisory, technical, managerial or other specialist services relating to sewerage, drainage, or the collection, production and supply of water; and
+(j) whether by itself or in association with any other person or organisation, provide to any person in Singapore or elsewhere consultancy, advisory, technical, managerial or other specialist services relating to sewerage, drainage, or the collection, production and supply of water;
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(ja) regulate and manage activities in and around reservoirs, catchment areas and waterways maintained by the Board; and
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (k) carry out such other functions as are imposed upon the Board by or under this Act or any other written law.
 
@@ -390,7 +428,7 @@ the Minister may, after consultation with the Board, give such directions to the
 
 shall be guilty of an offence.
 
-### Appointment of Chief Executive and other employees
+### Appointment of Chief Executive and other employees, etc.
 
 10\.—(1) The Board shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Board may determine.
 
@@ -407,6 +445,14 @@ shall be guilty of an offence.
 (4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to perform his duties, a person may be appointed by the Board to act in the place of the Chief Executive during any such period of absence from duty.
 
 (5) The Board may, from time to time, appoint and employ on such terms and conditions as the Board may determine such officers and employees as may be necessary for the effective performance of its functions.
+
+(6) The Board may, from time to time, appoint and authorise in writing —
+
+(a) any officer or employee of the Board, or any officer of any other statutory authority, to be an authorised officer for the purposes of this Act; and
+
+(b) any authorised officer or other person to perform any particular function or duty or to exercise any particular power under this Act, subject to such conditions or limitations as the Board may specify.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### Public servants
 
@@ -486,17 +532,21 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 (3) The Board shall, in fixing tariffs and making agreements for the supply of water, neither show undue preference as between consumers similarly situated nor exercise undue discrimination as between persons similarly situated, having regard to the place and time of supply, the quantity supplied, and the purpose for which the supply is taken.
 
-### Board to supply water for human consumption
+### Board may supply water
 
-21\.—(1) Subject to the provisions of this Act, the Board may supply water for human consumption to any person who undertakes to enter into an agreement with the Board for the supply upon such terms and conditions as the Board may determine.
+21\.—(1) Subject to the provisions of this Act, the Board may supply water to any person who undertakes to enter into an agreement with the Board for the supply upon such terms and conditions as the Board may determine.
 
-(2) The Board may require any person who requires a supply of water for human consumption to accept in respect of the supply —
+[Act 9 of 2012 wef 01/09/2012]
+
+(2) The Board may require any person who requires a supply of water to accept in respect of the supply —
 
 (a) any condition requiring the person to provide sufficient premises, and to construct rooms, buildings or structures, as may be considered necessary by the Board for the purposes of the supply; and
 
 (b) any condition giving the Board the right to use the premises, rooms, buildings or structures provided or constructed under paragraph (a) as the Board thinks fit.
 
-(3) The Board may, in its discretion, refuse to give, or may discontinue, a supply of water for human consumption to any building which —
+[Act 9 of 2012 wef 01/09/2012]
+
+(3) The Board may, in its discretion, refuse to give, or may discontinue, a supply of water to any premises which —
 
 (a) has been erected in contravention of any written law;
 
@@ -504,7 +554,25 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 (c) has a water service installation that is in an unsatisfactory condition.
 
-(4) The Board shall not be liable for any loss or damage caused to any person by such refusal or discontinuance of the supply of water to the person under subsection (3).
+[Act 9 of 2012 wef 01/09/2012]
+
+(4) Without prejudice to subsection (3), the Board may, in its discretion —
+
+(a) refuse to enter into an agreement for the supply; or
+
+(b) enter into an agreement for a reduced supply,
+
+of water that is not for human consumption to any premises, where the Board is of the opinion that it is impracticable or uneconomical to supply the water to those premises.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(5) The Board shall not be liable for any loss or damage caused to any person by —
+
+(a) any refusal or discontinuance of the supply of water under subsection (3); or
+
+(b) any refusal to enter into an agreement for the supply of water, or entering into an agreement for a reduced supply of water, under subsection (4).
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### Board may require security
 
@@ -534,11 +602,81 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 ### Power to enter upon premises for survey, inspection, etc.
 
-24\.—(1) The Board may, for the purposes of this Act, by its employees, agents or contractors, enter at all reasonable hours in the day time any premises for the purpose of making any survey or inspection and for the purpose of executing any work authorised by this Act to be executed by the Board without being liable to pay any person any fee, charge or expense or to any legal proceedings or molestation on account of such entry or of anything done in any part of the premises under this Act.
+24\.—(1) The Board may, for the purposes of this Act, by its employees, agents or contractors, enter any premises at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises, for the purpose of making any survey or inspection and for the purpose of executing any work authorised by this Act to be executed by the Board without being liable to pay any person any fee, charge or expense or to any legal proceedings or molestation on account of such entry or of anything done in any part of the premises under this Act.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (2) Subject to subsection (3), the Board shall not by its employees, agents or contractors enter any dwelling-house in actual occupation, except with the consent of the occupier thereof, without 6 hours previous notice to the occupier.
 
-(3) The Minister may declare that any class of premises for the control and supervision of which regulations may be made under this Act shall be liable to night inspection, and thereupon any employee, agent or contractor in that behalf duly authorised in writing by the Board may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
+(3) The Minister may declare that any class of premises for the control and supervision of which regulations may be made under this Act shall be liable to inspection at any time of the day or night, and thereupon any employee, agent or contractor in that behalf duly authorised in writing by the Board may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+### Power to enter premises for installation of pipes, water installations, etc.
+
+24A\.—(1) The Board may, for the purposes of this Act, by its employees, agents or contractors, enter any premises at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises, for all or any of the following purposes:
+
+(a) to lay or install under, over, in, on or through the premises, such mains, pipes, water installations or water service installations as the Board considers necessary for the supply of water to those or other premises;
+
+(b) to inspect, maintain, adjust, repair or alter any such main, pipe, water installation or water service installation referred to in paragraph (a);
+
+(c) to carry out any works requisite for, or incidental to, the purposes of any works falling within paragraph (a) or (b), including —
+
+(i) excavating any premises, sewer or drain;
+
+(ii) tunnelling or boring under any premises, sewer or drain;
+
+(iii) removing or using all earth and materials in or under any premises, sewer or drain; and
+
+(iv) erecting, placing or installing any equipment or apparatus in or under any premises.
+
+(2) In carrying out any of the works under this section, the Board shall cause as little damage as possible and shall repair or make reasonable compensation for any damage done to the affected premises.
+
+(3) Except as provided under subsection (2), the Board shall not be liable to pay any person any fee, charge or expense on account of such entry to any premises or of anything done to the premises under this section.
+
+(4) The Board shall, before entering any premises for the purposes specified in subsection (1), give at least 14 days’ written notice to the owner or occupier of the premises, stating as fully and accurately as possible the nature and extent of the works intended to be done.
+
+(5) The owner or occupier of the premises may, within 14 days after receiving the notice referred to in subsection (4), lodge a written objection with the Minister.
+
+(6) If no objection is lodged within the time specified in subsection (5), the Board may forthwith enter the premises and do all or any of the works specified in the notice under subsection (4).
+
+(7) If an objection is lodged and is not withdrawn before the date fixed for the hearing thereof, the Minister shall inquire into the matter, giving each party an opportunity to be heard, and the Board shall not enter the premises or carry out the works specified in the notice under subsection (4) until the Minister so authorises at the conclusion of the inquiry.
+
+(8) Upon the conclusion of the inquiry, the Minister may authorise, either unconditionally or subject to such terms, conditions and stipulations as he thinks fit, the entry to the premises and the carrying out of any of the works specified in the notice under subsection (4), and the decision of the Minister shall be final.
+
+(9) The Board may serve a notice on the owner or supplier of any gas, electricity, water or telecommunication services —
+
+(a) to alter the course or position of any wire, line, cable, pipe, tube, casing, duct, post, structure or other apparatus which belongs to that owner or supplier or is maintained by that owner or supplier if, in the opinion of the Board, such alteration is required for the purposes of subsection (1); and
+
+(b) to repair any premises thereby disturbed,
+
+and where any approval of a statutory authority is required for that alteration, to do so in accordance with that approval.
+
+(10) The Board may give notice to the owner or occupier of any premises requiring him to remove any object or structure described in the notice which is erected on or attached to, or projects from, the premises if, in the opinion of the Board, the removal of the object or structure is required for any of the purposes specified in subsection (1).
+
+(11) Any costs and expenses reasonably incurred by the owner, supplier or occupier in complying with any notice under subsection (9) or (10) shall be borne by the Board.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+### Board may act in cases of emergency
+
+24B\. Notwithstanding anything in section 24, 24A, 31, 32 or 33, where the Board considers that immediate action is necessary —
+
+(a) upon the occurrence of an emergency, fire or excessive drought;
+
+(b) because the quality of water supplied fails to meet the standards required by the Board;
+
+(c) to facilitate the repair, alteration, replacement or maintenance of any main, installation or water installation;
+
+(d) to avoid undue interference with the supply of water to consumers;
+
+(e) to conserve water supply; or
+
+(f) in the interests of public safety or for other reasons affecting public interest,
+
+the Board may immediately and without notice enter any premises and carry out, or direct the immediate execution of, any work or the doing of any act, being any work or act authorised under any of those sections, which is in the opinion of the Board necessary for the service or safety of the public.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### Recovery of moneys due to Board
 
@@ -576,7 +714,13 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 (a) upon the occurrence of an emergency, fire, or excessive drought;
 
-(b) if this is necessary to facilitate the repair to any main, construction of new works, alteration to or maintenance of existing works, or the installation, changing or removal of any meter;
+(aa) if the quality of water supplied fails to meet the standards required by the Board;
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(b) if this is necessary to facilitate the repair or replacement of any main, installation or water installation, construction of new works, alteration to or maintenance of existing works, or the installation, changing or removal of any meter;
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (c) if this is necessary to avoid inconvenience to other consumers or undue interference with the water supply to other consumers;
 
@@ -604,7 +748,7 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 ### Power to enter premises to examine pipes, etc.
 
-31\.—(1) The Board may by its employees at all reasonable hours in the day enter any premises to which water is or has been supplied by the Board for all or any of the following purposes:
+31\.—(1) The Board may by its employees, agents or contractors, at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises, enter any premises to which water is or has been supplied by the Board for all or any of the following purposes:
 
 (a) to examine and if necessary repair, renew or replace the pipes, meters, fittings, works or apparatus for the supply of water belonging to or which are supplied from mains belonging to the Board;
 
@@ -614,11 +758,15 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 (d) to repair any damage caused by such entry, inspection or removal.
 
-(2) The Board may by its employees at all reasonable hours in the day enter upon or pass through any premises into, through, by, along or under which any of its mains, pipes or other works or any main, pipe or work connected therewith passes or is located —
+[Act 9 of 2012 wef 01/09/2012]
+
+(2) The Board may by its employees, agents or contractors, at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises, enter upon or pass through any premises into, through, by, along or under which any of its mains, pipes or other works or any main, pipe or work connected therewith passes or is located —
 
 (a) to inspect and, if necessary, to repair, alter, take up, relay, rearrange or otherwise deal with them as the circumstances may require; and
 
 (b) to repair any damage caused by such entry or anything done under paragraph (a).
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (3) The Board shall not be liable to pay any person any fee, charge or expense or to any legal proceedings or molestation on account of such entry or of anything done to the premises under this section.
 
@@ -632,11 +780,13 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 without making any previous payment, tender or deposit.
 
-(2) The Board shall cause as little damage as possible in the exercise of its power under subsection (1) and shall make compensation —
+(2) The Board shall cause as little damage as possible in the exercise of its power under subsection (1) and shall make reasonable compensation —
 
 (a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as such temporary occupation is taken or any such temporary damage is done; and
 
 (b) to the owner for the permanent damage, if any, to the premises.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (3) Before the Board exercises its power under subsection (1), it shall give 7 days notice in writing of its intention to the owner and occupier of the premises and shall set apart by sufficient fences so much of the premises as is required to be used from the other premises adjoining thereto.
 
@@ -740,7 +890,7 @@ unless he is licensed as a water service worker in respect of that water service
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(5) Where an offence is committed under this section by any person who is the agent, employee or sub-contractor of another person, that other person shall be liable under this section in the same manner and to the same extent as if he had personally committed the offence unless he proves that the offence was committed without his knowledge and that he exercised all due diligence to prevent the commission of the offence.
+(5) [Deleted by Act 9 of 2012 wef 01/09/2012]
 
 (6) This section shall not apply to any employee of the Board in the performance of his duties or any professional engineer registered under the Professional Engineers Act (Cap. 253).
 
@@ -816,13 +966,15 @@ OFFENCES
 
 45\.—(1) Any person responsible for the maintenance of any water service installation shall ensure that the water service installation is properly maintained, kept in a fit and safe condition, and free from any defect.
 
-(2) Any person responsible for the maintenance of any water service installation in any residential, commercial or industrial premises having any master meter and water storage cistern shall engage, once in every 60 months, a water service worker who is a professional engineer registered under the Professional Engineers Act (Cap. 253) to inspect and certify that —
+(2) Any person responsible for the maintenance of any water service installation in any residential, commercial or industrial premises having any master meter and water storage cistern shall, whenever the Board so requires, engage a water service worker who is a professional engineer registered under the Professional Engineers Act (Cap. 253) to inspect and certify that —
 
 (a) the water service installation is fit and safe to use;
 
 (b) the water service installation is properly maintained and there is no contamination or pollution or likelihood of such contamination or pollution to the water in the water service installation; and
 
 (c) there is no leakage and no likelihood of leakage in the water service installation.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (3) Every professional engineer engaged under subsection (2) shall ensure that the requirements set out in that subsection are complied with.
 
@@ -850,7 +1002,65 @@ of such non-compliance and the remedial measures that have to be taken by that p
 
 ### Damage to property of Board
 
-47\. Any person who wilfully removes, destroys or damages any property belonging to or under the management or control of the Board or hinders or prevents the property from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+47\.—(1) Any person who, whether wilfully or otherwise, removes, destroys or damages any property belonging to or under the management or control of the Board or hinders or prevents the property from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(2) In any proceedings for an offence under subsection (1), it shall be a defence for the person charged under that subsection to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence, but this defence shall not be available to any person who may be liable by virtue of section 56A.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(3) If it appears to the Board that there has been a contravention of subsection (1), the Board may, by notice in writing, require any person who has done any of the acts referred to in that subsection or such other person who may be liable under that subsection by virtue of section 56A (referred to in this section as the person in default) to carry out such works as may be necessary to restore the property to its original condition, or to replace it, within such time as may be specified in the notice.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(4) If the Board is of the opinion that immediate action is necessary or expedient or that the property cannot be restored by the person in default, the Board may, instead of issuing the notice under subsection (3) —
+
+(a) carry out such works as are necessary to restore the property to its original condition, or replace the property; and
+
+(b) recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(5) If the person to whom a notice is given under subsection (3) fails to comply with the notice within the time specified, the Board may carry out the works specified in the notice in such manner as it thinks fit and recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(6) Without prejudice to the right of the Board to exercise its powers under subsection (5), any person who, without reasonable excuse, fails to comply with a notice given to him under subsection (3) shall be guilty of an offence.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+### Damage to water mains and installations, etc.
+
+47A\.—(1) Any person who, whether wilfully or otherwise, removes, destroys or damages or causes or permits to be removed, destroyed or damaged, any water main belonging to or under the management or control of the Board, shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both; or
+
+(b) if the water main is 300 mm or more in diameter, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) Any person who, whether wilfully or otherwise, removes, destroys or damages or causes or permits to be removed, destroyed or damaged any part of —
+
+(a) an installation or water installation which supplies water to the Board; or
+
+(b) an installation or water installation belonging to or under the management or control of the Board,
+
+and thereby interferes with the production or supply of water by that installation or water installation, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) In any proceedings for an offence under subsection (1) or (2), it shall be a defence for the person charged under either of those subsections to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence, but this defence shall not be available to any person who may be liable by virtue of section 56A.
+
+(4) If it appears to the Board that there has been a contravention of subsection (1) or (2), the Board may, by notice in writing, require any person who has done any of the acts referred to in subsection (1) or (2) or such other person who may be liable under either of those subsections by virtue of section 56A (referred to in this section as the person in default) to carry out such works as may be necessary to restore the water main, installation or water installation to its original condition, or to replace it, within such time as may be specified in the notice.
+
+(5) If the Board is of the opinion that immediate action is necessary or expedient or that the water main, installation or water installation cannot be restored by the person in default, the Board may, instead of issuing the notice under subsection (4) —
+
+(a) carry out such works as are necessary to restore the water main, installation or water installation to its original condition, or replace it; and
+
+(b) recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
+
+(6) If the person to whom a notice is given under subsection (4) fails to comply with the notice within the time specified, the Board may carry out the works specified in the notice in such manner as it thinks fit and recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
+
+(7) Without prejudice to the right of the Board to exercise its powers under subsection (6), any person who, without reasonable excuse, fails to comply with a notice given to him under subsection (4) shall be guilty of an offence.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### Compensation for damaging property of Board
 
@@ -874,7 +1084,9 @@ of such non-compliance and the remedial measures that have to be taken by that p
 
 (c) causes contamination to water supplied by the Board; or
 
-(d) wilfully does any act which interferes with or disrupts the supply of the water of the Board,
+(d) whether wilfully or otherwise, does any act which interferes with or disrupts the supply of the water of the Board,
+
+[Act 9 of 2012 wef 01/09/2012]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -898,9 +1110,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 when the meter is in the custody or under the control of the person, shall be prima facie evidence that the person has altered or tampered with the meter.
 
-### Penalty for obstructing Board in performance of duties
+(4) In any proceedings for an offence under subsection (1) or (2)(b) or (c), it shall be a defence for the person charged under any of those provisions (but not by virtue of section 56A) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
-51\. Any person who at any time hinders, obstructs or molests any employee, agent or contractor of the Board in the performance and execution of his duty under this Act shall be guilty of an offence.
+[Act 9 of 2012 wef 01/09/2012]
+
+### Penalty for obstructing Board in its duty
+
+51\. Any person who —
+
+(a) hinders or obstructs the Board, any employee, agent or contractor of the Board, any authorised officer or other person authorised by the Board in the performance or execution of its or his duty, or of any thing which it or he is empowered or required to do, under this Act; or
+
+(b) interferes with any work authorised to be done under this Act,
+
+shall be guilty of an offence.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### Making of false statements, etc.
 
@@ -922,27 +1146,97 @@ shall be guilty of an offence.
 
 54\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
-### Police officer or authorised officer may require evidence of identity in certain cases
+### Police officer, authorised officer or authorised person may require evidence of identity in certain cases
 
-55\.—(1) Any police officer or authorised officer who reasonably believes that any person has committed an offence under this Act may require that person to furnish evidence of his identity and the person shall thereupon furnish such evidence of his identity as may be required by the police officer or authorised officer.
+55\.—(1) Any police officer, authorised officer or such other person as may be authorised by the Board for the purposes of this section (referred to in this section as an authorised person) who reasonably believes that any person has committed an offence under this Act may require that person to furnish evidence of his identity and the person shall thereupon furnish such evidence of his identity as may be required by the police officer, authorised officer or authorised person, as the case may be.
 
-(2) The occupier of any premises shall, if required by any police officer or authorised officer, furnish his name and the name and address of the owner of the premises, if known.
+[Act 9 of 2012 wef 01/09/2012]
+
+(2) The occupier of any premises shall, if required by any police officer, authorised officer or authorised person, furnish his name and the name and address of the owner of the premises, if known.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (3) Any person who —
 
-(a) refuses to furnish any information required of him by any police officer or authorised officer under this section; or
+(a) refuses to furnish any information required of him by any police officer, authorised officer or authorised person under this section; or
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (b) wilfully mis-states such information,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
+### Power to examine and secure attendance
+
+55A\.—(1) An authorised officer may do all or any of the following:
+
+(a) issue a written order requiring anyone within the limits of Singapore, who appears to be acquainted with any of the facts and circumstances of matters under this Act, to attend before him, and that person shall attend as required;
+
+(b) examine orally any person who appears to be acquainted with the facts and circumstances of matters under this Act —
+
+(i) whether before or after that person or anyone else is charged with an offence in connection with the matter; and
+
+(ii) whether or not that person is to be called as a witness in any inquiry, trial, or other proceeding in connection with the matter;
+
+(c) require any person to furnish any information or produce any document in the possession of that person in connection with the matter, and may, without payment, inspect, keep, copy or make extracts from such document.
+
+(2) Any person examined under this section shall be bound to state truly what he knows of the facts and circumstances concerning matters under this Act, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
+
+(3) A statement made by any person examined under this section shall —
+
+(a) be reduced to writing;
+
+(b) be read over to him;
+
+(c) if he does not understand English, be interpreted for him in a language that he understands; and
+
+(d) after correction, if necessary, be signed by him.
+
+(4) If any person fails to attend as required by an order under subsection (1), the Board may report such failure to a Magistrate who may then, in his discretion, issue a warrant ordering the person to attend.
+
+[Act 9 of 2012 wef 01/09/2012]
+
+### Power to enter and investigate
+
+55B\. If an authorised officer has reasonable grounds to suspect that an offence under this Act has been committed, he may, at any time without notice, enter any premises and do all or any of the following for the purpose of investigating the suspected offence under this Act:
+
+(a) search the premises and take possession of any thing found therein and reasonably believed to be connected to the commission of the offence;
+
+(b) require the production of records, certificates, notices and documents relating or reasonably believed to relate to the offence, wherever and by whomsoever kept, and take and retain extracts or copies thereof;
+
+(c) take and retain samples of any materials (whether solid, liquid, gaseous or vapour) found for the purpose of analysis;
+
+(d) take such photographs as the authorised officer thinks necessary for the purposes of the investigation;
+
+(e) require any person whom the authorised officer finds in the premises to produce his identity card or other identification papers for inspection for the purpose of the investigation.
+
+[Act 9 of 2012 wef 01/09/2012]
+
 ### Offences committed by bodies corporate, etc.
 
 56\. Where an offence under this Act has been committed by a company, firm, society or other body of persons, and that offence is proved to have been committed with the authority, consent or connivance of any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity, that person shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+### Liability for offence committed by agent or employee
+
+56A\. Where an offence under this Act is committed by any person acting as an agent or employee of another person, or being otherwise subject to the supervision or instruction of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable for that offence in the same manner and to the same extent as if he had personally committed the offence unless he proves to the satisfaction of the court that the offence was committed without his consent or connivance and that it was not attributable to any neglect on his part.
+
+[Act 9 of 2012 wef 01/09/2012]
+
 ### Duty to enquire before excavation
 
-57\. Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive or allows his employee or agent to do so without first ascertaining the location of any main or pipe belonging to or under the management or control of the Board that may be interfered with shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+57\.—(1) Any person who digs, bores, trenches, grades, excavates, tunnels or breaks any ground with any mechanical equipment, tool or explosive, or allows his employee or agent to do so, without first —
+
+(a) obtaining from the Board the relevant plans or records to ascertain the location of any main or pipe belonging to or under the management or control of the Board that may be interfered with by such works;
+
+(b) carrying out trial trenches to physically ascertain the location of any such main or pipe that may be interfered with by such works; and
+
+(c) complying with such other requirements as the Board may specify to protect any such main or pipe within the vicinity of such works,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) For the purpose of subsection (1)(a), any person may, upon payment of the prescribed fee, be permitted to inspect and take copies of the relevant plans or records maintained by or on behalf of the Board.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### General penalties
 
@@ -1020,7 +1314,9 @@ MISCELLANEOUS
 
 ### Property of Board not fixtures
 
-67\. All works, apparatus, fixtures and fittings executed, erected on or affixed to any premises by the Board shall continue to remain the property of the Board and shall not vest in the owner of the premises.
+67\. All works, apparatus, fixtures and fittings executed, erected on or affixed to any premises by the Board, or acquired by the Board, shall continue to remain the property of the Board and shall not vest in the owner of the premises.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### Powers of arrest
 
@@ -1035,6 +1331,26 @@ MISCELLANEOUS
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained.
 
 (3) A person arrested under this section shall not be detained longer than is necessary for bringing him before a court unless the order of a court for his continued detention is obtained.
+
+### Compensation, damages, costs and expenses to be determined by Magistrate’s Court or District Court
+
+68A\.—(1) Except as otherwise provided, in all cases where compensation, damages, fees, costs or expenses are provided under this Act to be paid, the amount and, if necessary, the apportionment of the amount and any question of liability shall, in case of dispute, or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount claimed exceeds the Magistrate’s Court limit, by a District Court.
+
+(2) In any proceeding under subsection (1), the Magistrate’s Court or the District Court may —
+
+(a) inquire whether those expenses ought to be borne wholly or in part by some person other than the defendant in the proceedings;
+
+(b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
+
+(c) where those expenses were incurred by the Board in carrying out any works under section 33(2)(b), 47(4) or (5) or 47A(5) or (6), inquire whether it was reasonable to carry out those works.
+
+(3) A Magistrate’s Court or a District Court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the Court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
+
+(4) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay it within 7 days after demand, that amount may be reported to a Magistrate’s Court or a District Court and recovered in the same way as if it were a fine imposed by a Magistrate’s Court or a District Court, as the case may be.
+
+(5) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or a District Court under this section, and the provisions of the Criminal Procedure Code 2010 (Act 15 of 2010) shall apply, with the necessary modifications, to all such appeals.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 ### General exemption
 
@@ -1104,7 +1420,25 @@ MISCELLANEOUS
 
 (iii) the duties and responsibilities of licensed water service workers;
 
-(n) the prescribing of fees and charges for the purposes of this Act or any other written law administered by the Board.
+(n) in relation to the regulation of activities in and around reservoirs and waterways maintained by the Board —
+
+(i) the manner in which reservoirs and waterways may be used, and the designating of areas and granting of permits for such uses;
+
+(ii) the types of vessels which may be operated in the reservoirs and waterways, the permits required for such operation, the terms and conditions upon which, and the circumstances in which, those permits may be granted, held, suspended, cancelled, altered, extended, renewed or replaced, and the fees payable in respect thereof;
+
+(iii) the equipment to be carried on such vessels and the insurance and safety requirements for such vessels;
+
+(iv) the qualifications for operators of such vessels;
+
+(v) the safety of navigation, the prevention of collisions and the reporting of accidents in reservoirs and waterways; and
+
+(vi) the use of any boat transfer facility in or connecting to any reservoir and the fees payable in respect thereof;
+
+[Act 9 of 2012 wef 01/09/2012]
+
+(o) the prescribing of fees and charges for the purposes of this Act or any other written law administered by the Board or for the carrying out of any function of the Board.
+
+[Act 9 of 2012 wef 01/09/2012]
 
 (3) The Board may in making any regulations provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
@@ -1280,7 +1614,7 @@ Section 7(1)
 
 Powers of Board
 
-1\. To cause to be laid such mains, pipes and aqueducts as the Board considers necessary for purposes of supplying water and, if necessary, may carry such mains, pipes and aqueducts on, through, over, across or under any street or any place laid out or intended for a street, and, after reasonable notice in writing in that behalf, on, through, over, across or under any enclosed or other premises whatsoever, doing as little damage as may be and making full compensation for any damage done.
+1. [Deleted by Act 9 of 2012 wef 01/09/2012 wef 01/09/2012 wef 01/09/2012]
 
 2\. To construct in any street or place such works as are necessary for purposes connected with the supply of water and may place therein meters, switches, cocks and any other suitable and proper apparatus for the purpose of leading off service lines or pipes or of examining, testing, measuring, directing or controlling the supply of water or of testing the conditions of the mains and other portions of the works.
 
@@ -1438,6 +1772,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|10.|**Act 9 of 2012—Public Utilities (Amendment) Act 2012**|
+||Date of First Reading|8 March 2012|
+|||(Bill No. 7/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 September 2012|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
