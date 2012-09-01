@@ -66,7 +66,7 @@
 
 - [24 Saving provision for personal information previously collected](#Saving-provision-for-personal-information-previously-collected)
 
-[**THE SCHEDULE Reportable Diseases**](#THE-SCHEDULE)
+[**THE SCHEDULE Reportable diseases**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -514,17 +514,27 @@ whichever is the lower.
 
 Sections 2 and 22
 
-Reportable Diseases
+Reportable diseases
 
-1\. Cancer (includingin-situneoplasms, neoplasms with borderline or uncertain malignant potential, as well as all tumours (malignant, borderline,in-situand benign) of the brain and other parts of the central nervous system (including the pituitary gland, craniopharyngeal duct and pineal gland)).
+1. Cancer (includingin-situneoplasms, neoplasms with borderline or uncertain malignant potential, as well as all tumours (malignant, borderline,in-situand benign) of the brain and other parts of the central nervous system (including the pituitary gland, craniopharyngeal duct and pineal gland)).
 
-2\. Single Kidney - Post Nephrectomy (Donor).
+[S 354/2009 wef 01/08/2009]
 
-3\. Liver - Post Hepatic Resection (Donor).
+2. Single Kidney - Post Nephrectomy (Donor).
+
+[S 529/2009 wef 01/11/2009]
+
+3. Liver - Post Hepatic Resection (Donor).
+
+[S 529/2009 wef 01/11/2009]
 
 4. Chronic kidney failure, as defined in the National Registry of Diseases (Chronic Kidney Failure Notification) Regulations 2011 (G.N. No. S 98/2011).
 
 [S 99/2011 wef 01/03/2011]
+
+5. Acute myocardial infarction as defined in the National Registry of Diseases (Acute Myocardial Infarction Notification) Regulations 2012 (G.N. No. S 410/2012).
+
+[S 411/2012 wef 01/09/2012]
 
 ## LEGISLATIVE HISTORY
 
@@ -532,7 +542,7 @@ National Registry of Diseases Act
 
 (CHAPTER 201B)
 
-This Legislative History is provided for the convenience of users of the National Registry of Diseases Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the National Registry of Diseases Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -555,3 +565,5 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 November 2009|
 |6.|**G. N. No. S 99/2011—National Registry of Diseases Act (Amendment of Schedule) Order 2011**|
 ||Date of commencement|1 March 2011|
+|7.|**G.N. No. S 411/2012—National Registry of Diseases Act (Amendment of Schedule) Order 2012**|
+||Date of commencement|1 September 2012|
