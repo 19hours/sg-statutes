@@ -536,6 +536,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Registrar” means the Registrar of Vehicles or the Deputy Registrar or an assistant registrar appointed under section 9;
 
+“replacement vehicle” means a vehicle to which a permit issued under section 10A for another vehicle has been transferred pursuant to rules made under section 10A(4)(ha);
+
+[Act 7 of 2012 wef 01/09/2012]
+
 “road” means any public road and any other road to which the public has access, and includes —
 
 (a) any road within Pulau Bukom;
@@ -772,23 +776,39 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 (b) require fees and deposits to be paid for the submission of applications for the issue of permits under this section, and provide for the forfeiture of deposits for non-compliance with any conditions governing the submission of such applications;
 
-(c) prescribe the levy, or the method or manner for determining the amount of the levy, payable for a permit issued under this section;
+(c) prescribe the levy, or the method or manner for determining the amount of the levy, payable for a permit issued or transferred under this section;
+
+[Act 7 of 2012 wef 01/09/2012]
 
 (d) prescribe the period for which a permit issued under this section is in force and different periods may be prescribed for vehicles belonging to different categories, classes or descriptions;
 
-(e) prescribe the conditions upon which permits are issued under this section;
+(e) prescribe the conditions upon which permits are issued or transferred under this section;
 
-(f) provide for a rebate on all or any part of the levy payable for the issue of a permit under this section, in such circumstances as may be permitted by the rules;
+[Act 7 of 2012 wef 01/09/2012]
 
-(g) provide for the cancellation of a permit issued under this section and the refund of all or part of the levy paid for the issue of the permit in such circumstances as may be permitted by the rules;
+(f) provide for a rebate on all or any part of the levy payable for the issue or transfer of a permit under this section, in such circumstances as may be permitted by the rules;
 
-(h) impose a levy on the transfer of a permit at any time prior to the registration of a vehicle authorised by the permit;
+[Act 7 of 2012 wef 01/09/2012]
+
+(g) provide for the cancellation of a permit issued or transferred under this section and the refund of all or part of the levy paid for the issue or transfer of the permit in such circumstances as may be permitted by the rules;
+
+[Act 7 of 2012 wef 01/09/2012]
+
+(h) provide for the transfer of permits under this section at any time prior to the registration of a vehicle authorised by the permit;
+
+[Act 7 of 2012 wef 01/09/2012]
+
+(ha) provide for the transfer of permits under this section to facilitate the replacement of defective vehicles;
+
+[Act 7 of 2012 wef 01/09/2012]
 
 (i) provide for the issue of permits, whether with or without the payment of a levy, for vehicles which were registered under this Act prior to 2nd April 1990;
 
 (j) provide for the renewal of a permit before or after its expiration and the levy and any other fee to be paid therefor;
 
-(k) exempt any particular vehicle or class of vehicles from the payment of the levy for a permit issued under this section; and
+(k) exempt any particular vehicle or class of vehicles from the payment of the levy for a permit issued or transferred under this section; and
+
+[Act 7 of 2012 wef 01/09/2012]
 
 (l) provide for all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this section.
 
@@ -835,6 +855,14 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 (a) to be chargeable with the like tax as on the occasion of the issue of the vehicle licence or last vehicle licence issued for the vehicle under this Act, and to be so chargeable by reference to the prescribed rate applicable to the vehicle on that occasion; or
 
 (b) if no vehicle licence has been issued for the vehicle under this Act, to be chargeable by reference to the prescribed rate applicable to the vehicle.
+
+(7A) In respect of a replacement vehicle —
+
+(a) the tax chargeable under subsection (1)(a) shall apply as if the replacement vehicle had been first registered under this Act on the same date as the defective vehicle which it replaced; and
+
+(b) the tax chargeable under subsection (1)(b) shall apply as if the replacement vehicle had been used or kept on any road in Singapore since that same date.
+
+[Act 7 of 2012 wef 01/09/2012]
 
 (8) Nothing in this section shall operate so as to render lawful the keeping of a vehicle for any period, in any manner or at any place, if to do so would be unlawful apart from this section.
 
@@ -992,7 +1020,9 @@ and ending with the last day of the month during which the offence was committed
 
 19\.—(1) Every person applying for a vehicle licence shall make such a declaration and furnish such particulars with respect to the vehicle for which the licence is to be taken out or otherwise as may be prescribed.
 
-(2) Subject to the provisions of this Act as to general licences, every vehicle licence shall be issued for the vehicle specified in the application for the licence and shall not entitle the person to whom it is issued to use or keep any other vehicle.
+(2) Subject to the provisions of this Act as to general licences and provisions as to the transfer of licences to replacement vehicles, every vehicle licence shall be issued for the vehicle specified in the application for the licence and shall not entitle the person to whom it is issued to use or keep any other vehicle.
+
+[Act 7 of 2012 wef 01/09/2012]
 
 (3) The Registrar shall not be required to issue any vehicle licence for which application is made unless he is satisfied —
 
@@ -1062,9 +1092,11 @@ and ending with the last day of the month during which the offence was committed
 
 [33/93]
 
-(2) The Registrar, on being satisfied in such manner as he requires that the vehicle has been destroyed or exported or will cease to be kept or used on any road, shall refund to the holder of the licence a sum equal to the amount which has been charged for the number of calendar months or part thereof for which the licence would have continued to be in force.
+(2) Except as otherwise prescribed, the Registrar, on being satisfied in such manner as he requires that the vehicle has been destroyed or exported or will cease to be kept or used on any road, shall refund to the holder of the licence a sum equal to the amount which has been charged for the number of calendar months or part thereof for which the licence would have continued to be in force.
 
 [33/93]
+
+[Act 7 of 2012 wef 01/09/2012]
 
 ### Duty of manufacturers and dealers to notify Registrar and owners of safety-related defects in vehicles
 
@@ -1560,13 +1592,17 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (p) to prohibit the registration under this Act of used vehicles beyond a prescribed age-limit;
 
-(q) to prescribe a levy for the re-registration of a used vehicle in the name of the purchaser of the vehicle; and
+(q) to prescribe a levy for the re-registration of a used vehicle in the name of the purchaser of the vehicle;
 
-(r) to regulate the registration, licensing, keeping and use of heavy vehicles.
+[Act 7 of 2012 wef 01/09/2012]
 
-[7/90; 16/91; 33/93; 28/2001; 1/2003]
+(r) to regulate the registration, licensing, keeping and use of heavy vehicles; and
 
-[4/2006 wef 27/02/2006]
+[Act 7 of 2012 wef 01/09/2012]
+
+(s) to regulate the registration and licensing of a replacement vehicle, and to deem the date of registration of the replacement vehicle to be the same as that of the vehicle which it replaced for any of the purposes of this Act.
+
+[Act 7 of 2012 wef 01/09/2012]
 
 (2) The Minister may make rules for carrying out or giving effect to sections 33A and 33B and, in particular, the rules may —
 
@@ -1586,7 +1622,7 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (h) prescribe the fees for the assignment of authentication codes and accounts with the electronic service, the cancellation or suspension of any authentication code or account with the electronic service at the request of the holder thereof, the registration of electronic service agents, the use of the electronic service and the correction or amendment referred to in paragraph (g); and
 
-(i) prescribe anything which is permitted or required to be prescribed under section 33B .
+(i) prescribe anything which is permitted or required to be prescribed under section 33B.
 
 [4/2006 wef 27/02/2006]
 
@@ -5667,6 +5703,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 19/2011 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012|
+|58.|**Act 7 of 2012—Consumer Protection (Fair Trading) (Amendment) Act 2012**|
+||(Related amendments made to Act by)||
+||Date of First Reading|14 February 2012|
+|||(Bill No. 3/2012 published on 14 February 2012)|
+||Date of Second and Third Readings|9 March 2012|
+||Date of commencement|1 September 2012|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
