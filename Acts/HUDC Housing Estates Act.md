@@ -148,6 +148,8 @@ PRELIMINARY
 
 “Commissioner” means the Commissioner of Buildings appointed under section 3(1) of the Building Maintenance and Strata Management Act 2004;
 
+[47/2004 wef 01/04/2005]
+
 “committee” means the management committee of a body corporate;
 
 “common property”, in relation to the subdivided buildings in a housing estate, means so much of the land leased by the Board to all the owners of the flats in the housing estate as tenants-in-common not being comprised in any flat in the estate leased by the Board to any person and includes —
@@ -192,7 +194,9 @@ PRELIMINARY
 
 “special resolution” means a resolution passed at a duly convened general meeting of a body corporate of which at least 21 days’ notice specifying the proposed resolution has been given and against which not more than 25% of the owners of all the flats in the housing estate concerned have cast their votes.
 
-[Act 29/94 wef 13/01/1995 vide S 9/95]
+[Act 29/94 wef 13/01/1995]
+
+[6/86]
 
 (2) This Act shall apply to the housing estates which are built on the lands which are more particularly described in the First Schedule.
 
@@ -260,11 +264,19 @@ any person bound to comply therewith or the body corporate, as the case may be, 
 
 ### Levies by bodies corporate
 
-8\.—(1) A body corporate may levy the contributions determined by it in accordance with section 13(1)(l) and (m) and the contributions referred to in section 13(1)(q) by serving on the owners of the flats in the housing estate concerned notice in writing of the contributions payable by them in respect of their respective flats.
+8\.—(1) A body corporate may levy the contributions determined by it in accordance with section 13(1)(l) and (m) and the contributions referred to in section 13(1)(q) or (qa) by serving on the owners of the flats in the housing estate concerned notice in writing of the contributions payable by them in respect of their respective flats.
 
-(2) Contributions levied by a body corporate shall be levied in respect of each flat in the housing estate concerned and shall be payable, subject to this section, by the owners of the flats and the amount of contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232] to be used for non-residential purposes shall be twice the amount of the contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232]to be used solely for residential purposes.
+[Act 14 of 2012 wef 07/09/2012]
 
-[6/86. Cap. 232]
+(2) Contributions levied by a body corporate shall be levied in respect of each flat in the housing estate concerned and shall be payable, subject to this section, by the owners of the flats and, except for contributions referred to in section 13(1)(qa)(iii), the amount of contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232] to be used for non-residential purposes shall be twice the amount of the contributions payable by the owner of a flat which is permitted under the Planning Act [Cap. 232] to be used solely for residential purposes.
+
+[6/86]
+
+[Act 14 of 2012 wef 07/09/2012]
+
+(2A) Any contributions levied by a body corporate for the purposes of section 13(1)(qa)(iii) in respect of each flat shall be payable by the owners thereof in such shares as are determined by a special resolution passed at the general meeting under section 13(1)(qa)(ii).
+
+[Act 14 of 2012 wef 07/09/2012]
 
 (3) In respect of any contribution levied under subsection (1), the owner of a flat shall be liable, jointly and severally with any person who was liable to pay that contribution before he became the owner of the flat, to pay such part of that contribution as was unpaid when he became the owner of that flat.
 
@@ -428,7 +440,17 @@ and the defect is not due to any breach of the duty imposed on any person by sec
 
 (ii) is not required, under paragraph (p), to levy contributions to meet the liability,
 
-forthwith levy, in accordance with section 8, contributions to raise those moneys; and
+forthwith levy, in accordance with section 8, contributions to raise those moneys;
+
+(qa) before a transfer and strata title application under section 126(1) of the Land Titles (Strata) Act (Cap. 158) in relation to the housing estate is lodged, convene one or more general meetings of the owners of all the flats in the buildings erected in the housing estate —
+
+(i) to discuss the premium that is payable by the Board to the State for enhancing the Board’s estate or interest in the housing estate which is to be the subject of the transfer;
+
+(ii) to determine, by special resolution, the apportionment of that premium among the respective owners of every flat in the housing estate or the amount of contributions payable by each of the owners in respect of their respective flats, or both; and
+
+(iii) if such determination under sub-paragraph (ii) is made, to levy in accordance with section 8, contributions to raise those moneys to pay the Board that premium; and
+
+[Act 14 of 2012 wef 07/09/2012]
 
 (r) implement the decisions of the body corporate.
 
@@ -441,6 +463,26 @@ forthwith levy, in accordance with section 8, contributions to raise those money
 (c) from its management fund or sinking fund otherwise than for the purpose of carrying out its powers, authorities, duties and functions under this Act or the by-laws.
 
 (3) A determination made by a body corporate under subsection (1)(l) or (m) may specify that the amounts to be raised for the purposes referred to in those paragraphs shall be raised by such regular periodic contributions as may be specified in the determination.
+
+(4) Before the lodgment of any transfer and strata title application under section 126(1) of the Land Titles (Strata) Act in relation to a housing estate, the Board shall, by notice in writing to the body corporate of the housing estate, demand the payment of —
+
+(a) an amount that is not less than the premium that is payable by the Board to the State for enhancing the Board’s estate or interest in the housing estate which is to be the subject of the transfer; and
+
+(b) the amount of such expenditure as may be reasonably incurred by the Board in connection with enhancing the Board’s estate or interest in the housing estate which is to be the subject of the transfer, including but not limited to any stamp duty and valuation fees.
+
+[Act 14 of 2012 wef 07/09/2012]
+
+(5) Upon receipt of any written notice under subsection (4), the body corporate of the housing estate concerned shall, within 30 days after receiving the written notice or within such longer period (not ending on or after the lodgment of any transfer and strata title application under section 126(1) of the Land Titles (Strata) Act in relation to that housing estate) as the Board may allow, pay to the Board the amounts specified in that notice.
+
+[Act 14 of 2012 wef 07/09/2012]
+
+(6) If the amounts specified in the written notice under subsection (4) or any part thereof is not paid by the body corporate of the housing estate concerned within the time delimited in subsection (5), the body corporate shall be liable to pay interest in accordance with the rate specified by the Minister, such interest, if unpaid, to constitute a debt due to the Board and recoverable as such.
+
+[Act 14 of 2012 wef 07/09/2012]
+
+(7) Where the Board is paid any amount from the body corporate of a housing estate pursuant to a written notice under subsection (4), any reference in section 126A(2)(a), (3), (4) or (5) of the Land Titles (Strata) Act to the cost of any estate or interest in land that the management corporation for the housing estate shall be liable to pay to the Board shall be a reference to such cost less any amount so paid to the Board by the body corporate of that housing estate.
+
+[Act 14 of 2012 wef 07/09/2012]
 
 ### Power of entry
 
@@ -543,6 +585,8 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 (4) The body corporate shall permit the Commissioner or any person authorised by him to act on his behalf at all reasonable times full and free access to the records of the body corporate and permit the Commissioner or such person to make copies of or make extracts from any such records.
 
 (5) The Commissioner or any person authorised by him to act on his behalf may require any member of the committee of a body corporate to furnish him with such information which such member possesses or has access to as the Commissioner or any such duly authorised person considers necessary for the purposes of discharging the functions of the Commissioner under the Building Maintenance and Strata Management Act 2004.
+
+[47/2004 wef 01/04/2005]
 
 (6) A body corporate or a member of its committee who neglects or fails to perform any duty owed by it or him to the Commissioner or his duly authorised officer under subsection (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -710,6 +754,8 @@ and may in like manner revoke wholly or in part the delegation.
 
 25\.—(1) Where the chairman, secretary and treasurer of the committee have not been appointed by the body corporate in a general meeting, the members of the committee shall, at the first meeting of the committee after they assume office as such members, appoint the chairman, secretary and treasurer of the committee.
 
+[6/86]
+
 (2) A person —
 
 (a) shall not be appointed to an office referred to in subsection (1) unless he is a member of the committee; and
@@ -747,8 +793,6 @@ whichever first happens.
 (8) The committee of a body corporate may, by a notice in writing served on the treasurer of the body corporate, order that he shall not exercise or perform any of his powers, duties or functions that are specified in the notice, unless he does so jointly with another person so specified.
 
 (9) Any person who contravenes subsection (6) or fails to comply with the notice of a committee issued pursuant to subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[6/86]
 
 ### Committee members entitled to payment of fees
 
@@ -840,6 +884,8 @@ so that, in the case of destruction, every part of the rebuilt building or the r
 
 (a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Work Injury Compensation Act [Cap. 354];
 
+[5/2008 wef 01/04/2008]
+
 (b) in respect of damage to property, death or bodily injury occurring upon the common property; and
 
 (c) against the possibility of the owners of flats in a building becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the body corporate decides to insure.
@@ -900,9 +946,9 @@ as that referred to in the contract of insurance first-mentioned in this subsect
 
 38\.—(1) If a body corporate commits a breach of any of the provisions of this Part or makes default in complying with any requirement of, or duty imposed on it by, any of the provisions of this Part, the body corporate and every member of its committee, or every owner, who is knowingly a party to the breach or default shall be guilty of an offence and shall be liable on conviction to a penalty expressly prescribed for such breach or default, or, if no penalty is so prescribed, to a fine not exceeding $2,000.
 
-(2) Where a requirement or duty is imposed on the body corporate or any person by this Part, any person for whose benefit, or for the benefit of whose flat that requirement or duty is imposed on the body corporate or first-mentioned person may apply to the court for an order compelling the body corporate or that person to carry out the requirement or perform the duty, as the case may be, and, on such an application being made, the court may make such order as it thinks proper.
-
 [6/86]
+
+(2) Where a requirement or duty is imposed on the body corporate or any person by this Part, any person for whose benefit, or for the benefit of whose flat that requirement or duty is imposed on the body corporate or first-mentioned person may apply to the court for an order compelling the body corporate or that person to carry out the requirement or perform the duty, as the case may be, and, on such an application being made, the court may make such order as it thinks proper.
 
 ### Legal proceedings
 
@@ -964,6 +1010,8 @@ MISCELLANEOUS PROVISIONS
 
 45\.—(1) The Board may lease the whole or part of any land on which a housing estate is erected to the lessees of all the flats in the housing estate as tenants-in-common in equal shares for a nominal sum of one dollar for a term of years which runs concurrently with the unexpired term of the leases issued for the flats in the housing estate.
 
+[6/86]
+
 (2) A lease executed by the Board pursuant to subsection (1) shall be in such form as the Registrar may require and contain such terms and conditions which are, insofar as it is practical, identical to the terms and conditions of the leases for the flats in the housing estate.
 
 (3) The lessees of all the flats in a housing estate shall be deemed to have accepted a lease referred to in subsection (1) when it has been executed by the Board.
@@ -972,23 +1020,21 @@ MISCELLANEOUS PROVISIONS
 
 [44A
 
-[6/86]
-
 ### Owners of flats to pay maintenance contributions to body corporate
 
 46\.—(1) Commencing from the date a body corporate is established pursuant to an order made by the Minister under section 3(1), the owners of the flats in the housing estate concerned —
 
-(a) which are permitted under the Planning Act to be used solely for residential purposes shall pay to the body corporate the sum of $75 per month; and
+(a) which are permitted under the Planning Act [Cap. 232] to be used solely for residential purposes shall pay to the body corporate the sum of $75 per month; and
 
 (b) which are permitted under the Planning Act to be used for non-residential purposes shall pay to the body corporate the sum of $150 per month,
 
 as their contributions to the management fund of the body corporate and the contributions shall be payable in advance on the first day of each month.
 
+[6/86]
+
 (2) The amount referred to in subsection (1) shall be deemed to be the amount of contributions to the management fund of the body corporate determined by the body corporate pursuant to section 13(1)(l).
 
 [45
-
-[6/86]
 
 ### Savings
 
@@ -1292,6 +1338,8 @@ Together with the buildings erected thereon
 
 81
 
+29
+
 730
 
 )
@@ -1533,8 +1581,6 @@ Together with the buildings erected thereon
 [S 52/86]
 
 [S 200/90 wef 18/05/1990]
-
-[S 52/86]
 
 SECOND SCHEDULE
 
@@ -1850,9 +1896,11 @@ Form of proxy for voting for or against a resolution
 
 I/We, , of , being a member/members of the above-named body corporate, hereby appoint , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the body corporate, to be held on the day of 19 , and at any adjournment thereof.
 
-\*Signed this day of 19 . This form is to be used *in favour of/against the resolution.
+Signed this day of 19 . This form is to be used *in favour of/against the resolution.
 
-\*Strike out whichever is not applicable. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+*Strike out whichever is not applicable.
+
+[Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 Proxy to be deposited at registered address of body corporate
 
@@ -1860,7 +1908,9 @@ Proxy to be deposited at registered address of body corporate
 
 Authority not to be revoked by death of principal, etc.
 
-18\. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or mental disorder of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, mental disorder, revocation, or transfer as aforesaid has been received by the body corporate at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+18. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or mental disorder of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, mental disorder, revocation, or transfer as aforesaid has been received by the body corporate at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+
+[21/2008 wef 01/03/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -1868,7 +1918,7 @@ HUDC Housing Estates Act
 
 (CHAPTER 131)
 
-This Legislative History is provided for the convenience of users of the HUDC Housing Estates Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the HUDC Housing Estates Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1911,3 +1961,7 @@ This Legislative History is provided for the convenience of users of the HUDC Ho
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|10.|**Act 14 of 2012—HUDC Housing Estates (Amendment) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 12/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|9 July 2012|
+||Date of commencement|7 September 2012|
