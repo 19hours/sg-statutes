@@ -44,6 +44,8 @@
 
 - [13A Railway Sinking Fund](#Railway-Sinking-Fund)
 
+- [13B Bus Service Enhancement Fund](#Bus-Service-Enhancement-Fund)
+
 - [14 Funds for construction, etc., projects](#Funds-for-construction-etc-projects)
 
 - [14A Issue of shares, etc.](#Issue-of-shares-etc)
@@ -156,6 +158,14 @@ PRELIMINARY
 
 “Authority” means the Land Transport Authority of Singapore established under section 3;
 
+“bus service” means a service for the carriage of passengers for a fare or other consideration by one or more buses operating on pre-determined timetables and routes;
+
+[Act 17 of 2012 wef 12/09/2012]
+
+“bus service licence”, “bus service operator” and “bus service operator’s licence” have the same meanings as in the Public Transport Council Act (Cap. 259B);
+
+[Act 17 of 2012 wef 12/09/2012]
+
 “Chairman” means the Chairman of the Authority and includes any acting Chairman of the Authority;
 
 “Chief Executive” means the Chief Executive of the Authority appointed under section 9 and includes any person acting in that capacity;
@@ -236,7 +246,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (a) to plan, design, construct, manage and maintain roads in Singapore in accordance with this Act and the Street Works Act (Cap. 320A);
 
-(b) to plan, design, construct, maintain and improve pedestrian walkways, bus stops or shelters, bus interchanges or terminals, taxi stands and other commuter facilities in accordance with this Act, the Street Works Act and any other written law;
+(b) to plan, design, construct, maintain and improve pedestrian walkways, bus stops or shelters, bus interchanges or terminals, bus depots, bus parks, taxi stands, bicycle parking and other commuter facilities in accordance with this Act, the Street Works Act and any other written law;
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (c) to maintain, operate and improve road traffic signs or signals, traffic control equipment or lighting equipment associated with a road and other road traffic facilities for the purposes of traffic management and control;
 
@@ -254,7 +266,17 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [24/2010 wef 01/11/2010]
 
-(g) without prejudice to the Public Transport Council Act (Cap. 259B), to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act;
+(g) without prejudice to the Public Transport Council Act (Cap. 259B) —
+
+(i) to carry out operational planning for bus services to meet the needs and expectation of the public, including coordinating the routes and scheduling of bus services provided by holders of bus service licences and bus service operator’s licences;
+
+(ii) to provide financial assistance to holders of bus service licences or bus service operator’s licences with the object of improving and expanding the range and reliability of the bus services so provided by all or any of them;
+
+(iii) to procure for or make available to any holder of a bus service licence or a bus service operator’s licence such buses as are necessary for improving and expanding the range and reliability of the bus services so provided by all or any of them; and
+
+(iv) to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act;
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (h) to regulate the construction of motor vehicles and the conditions under which they may be used on roads in Singapore;
 
@@ -269,6 +291,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 (m) to co-ordinate land transport services, including developing or promoting the development of integrated ticket systems;
 
 (n) to conduct, or engage persons to conduct, research and demonstration projects in respect of land transport and associated matters, and to encourage, advise and otherwise assist (whether financially or otherwise) any such research or project;
+
+(na) to advise on, or to conduct, promote or facilitate, training and education relating to public transport;
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (o) to advise the Government in respect of the land transport system in Singapore, including, but not limited to —
 
@@ -312,7 +338,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [Act 11/2012 wef 01/07/2012]
 
-(2) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+(2) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (3) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
 
@@ -350,6 +378,14 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [11/2007 wef 01/03/2007]
 
+(fd) to provide financial assistance by way of grant, loan or guarantee to any holder of a bus service licence or bus service operator’s licence;
+
+[Act 17 of 2012 wef 12/09/2012]
+
+(fe) to establish or expand facilities or to assist in the maintenance of facilities (whether by itself or with the co-operation of other persons or bodies as the Authority thinks fit), including but not limited to providing grants, for the purpose of training and education relating to public transport;
+
+[Act 17 of 2012 wef 12/09/2012]
+
 (g) to enter into all such contracts for the supply of goods, services or materials or for the execution of works or any other contract as may be necessary for the discharge of its duties and functions under this Act;
 
 (h) to engage alone or in conjunction with other corporations in the production, manufacture or sale of equipment, whether in Singapore or elsewhere;
@@ -375,6 +411,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 (4) In subsection (1)(fc), “subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50).
 
 [11/2007 wef 01/03/2007]
+
+(5) Any grant, loan or guarantee given by the Authority before the date of commencement of section 4 of the Land Transport Authority of Singapore (Amendment) Act 2012 to any holder of a bus service licence or bus service operator’s licence, and any security for any such loan, shall not be invalid by reason only that it was given before that date but shall be deemed to have been and to be given as if that section was then in force.
+
+[Act 17 of 2012 wef 12/09/2012]
 
 ### Appointment of committees and delegation of powers
 
@@ -422,7 +462,7 @@ FINANCIAL PROVISIONS
 
 ### Land Transport Revenue Account
 
-12\.—(1) The Authority shall establish, maintain and operate a Land Transport Revenue Account into which shall be paid —
+12\.—(1) The Authority shall establish, maintain and operate a Land Transport Revenue Account into which shall be paid, except where expressly provided otherwise in section 13A or 13B —
 
 (a) all taxes, fees and charges specified in the Second Schedule;
 
@@ -432,9 +472,19 @@ FINANCIAL PROVISIONS
 
 (d) all income derived from the investment of moneys in the Account, including any gains made on the sale of any investment of money of the Account, and interest or gains thereon;
 
+(da) the balance of the fees, rental or other revenue lawfully received by the Authority —
+
+(i) for or in connection with the hiring or leasing of buses, bus stops, bus interchanges or terminals or bus parks from the Authority; or
+
+(ii) for or in connection with the advertising on such buses or at such bus stops, bus interchanges or terminals or bus parks,
+
+after deducting such proportion of those fees, rental or other revenue as the Minister has approved for the Bus Service Enhancement Fund under section 13B(1)(h);
+
 (e) all moneys borrowed by the Authority under this Act; and
 
 (f) all other moneys lawfully received by the Authority for the purposes of the Authority.
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (2) The Land Transport Revenue Account shall be managed and administered by the Authority, subject to the directions of the Minister.
 
@@ -468,7 +518,13 @@ FINANCIAL PROVISIONS
 
 [21/2010 wef 13/09/2010]
 
-(j) such sums by way of contribution, for the purposes associated with the objects of this Act as the Authority may determine, to the public or for charities; and
+(j) such sums by way of contribution, for the purposes associated with the objects of this Act as the Authority may determine, to the public or for charities;
+
+[Act 17 of 2012 wef 12/09/2012]
+
+(ja) grants, loans or guarantees to any holder of a bus service licence or a bus service operator’s licence for the purpose of improving and expanding the range and reliability of the bus services so provided by the holders of such a licence, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve; and
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (k) any other expenditure authorised by the Authority and properly chargeable to revenue account.
 
@@ -530,6 +586,54 @@ FINANCIAL PROVISIONS
 
 [21/2010 wef 13/09/2010]
 
+### Bus Service Enhancement Fund
+
+13B\.—(1) There shall be established by the Authority a Bus Service Enhancement Fund comprising —
+
+(a) all moneys from time to time appropriated from the Consolidated Fund or the Development Fund and authorised to be paid into the Bus Service Enhancement Fund by any written law;
+
+(b) all moneys authorised by or under any other written law to be paid into the Bus Service Enhancement Fund;
+
+(c) all moneys borrowed or raised by the Authority for the purposes of the Bus Service Enhancement Fund;
+
+(d) all gifts or donations by any person or organisation to the Authority for the purposes of the Bus Service Enhancement Fund;
+
+(e) all investments and other property purchased out of moneys in the Bus Service Enhancement Fund, including the net income from such investments;
+
+(f) all interest received on investments belonging to the Bus Service Enhancement Fund, and all amounts received by the Authority from the sale of any investments or other property paid for with money from the Bus Service Enhancement Fund;
+
+(g) all sums received by way of repayment of any loan or advance from the Bus Service Enhancement Fund, and any interest and late payment charge from any such loan or advance;
+
+(h) such proportion as the Minister may approve of the fees, rental or other revenue lawfully received by the Authority for or in connection with the hiring or leasing of buses, bus stops, bus interchanges or terminals or bus parks from the Authority, or for or in connection with the advertising on such buses or at such bus stops, bus interchanges or terminals or bus parks; and
+
+(i) all damages, cost or other moneys lawfully received by the Authority from any holder of a bus service licence or bus service operator’s licence on account of any breach by the holder of such a licence of any term in a grant or loan from or in a lease, contract or other arrangement with the Authority, made in connection with improving and expanding the range and reliability of bus services so provided by the holders of such a licence.
+
+(2) The moneys in the Bus Service Enhancement Fund may be withdrawn by the Authority only for all or any of the following purposes:
+
+(a) to provide grants or loans to any holder of a bus service licence or a bus service operator’s licence for the purpose of improving and expanding the range and reliability of the bus services so provided by the holders of such a licence, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve;
+
+(b) to pay all reasonable legal costs incurred by the Authority and all reasonable expenses incurred by the Authority in connection with the collection or attempted collection of any outstanding amounts (including any interest thereon) of any sums due under any loan or grant made out of moneys in the Bus Service Enhancement Fund;
+
+(c) to acquire any property, moveable or immovable, including but not limited to buses, with the object of improving and expanding the range and reliability of the bus services provided by all or any of the holders of bus service licences or bus service operator’s licences;
+
+(d) for investments in accordance with section 17 of moneys in the Bus Service Enhancement Fund;
+
+(e) to pay all amounts relating to the sale, disposal or write-off of any investments paid for with money from the Bus Service Enhancement Fund;
+
+(f) to pay any principal or interest on moneys borrowed or raised by the Authority for the purposes of the Bus Service Enhancement Fund;
+
+(g) to pay any expenses properly attributable to the setting up of the Bus Service Enhancement Fund and the administration and management of moneys in that Fund.
+
+(3) For the purposes of subsection (1)(e), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Bus Service Enhancement Fund any gain derived or loss sustained, realised or unrealised, as the case may be, from such investments.
+
+(4) No loan made or investments paid for with moneys from the Bus Service Enhancement Fund shall be written-off without the prior approval of the Minister.
+
+(5) Without prejudice to subsection (4), the Bus Service Enhancement Fund shall be managed and administered by the Authority subject to the directions of the Minister.
+
+(6) Upon dissolution of the Bus Service Enhancement Fund during any term of office of the Government (within the meaning of the Constitution), the balance of such moneys remaining in that Fund shall be transferred to the Consolidated Fund and be added to the reserves of the Government not accumulated by it during that term of office.
+
+[Act 17 of 2012 wef 12/09/2012]
+
 ### Funds for construction, etc., projects
 
 14\.—(1) For the purpose of enabling the Authority to carry out its function and duty of constructing any railway or roads or other related facilities, the Minister for Finance shall, from time to time, provide funds by way of grants, subject to such conditions as he may impose, to the Authority out of moneys provided by Parliament.
@@ -566,11 +670,13 @@ the payment of which shall be met from funds provided by the Minister for Financ
 
 ### Power of investment
 
-17\. The Authority may invest its funds in the Land Transport Revenue Account or the Railway Sinking Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+17\. The Authority may invest its funds in the Land Transport Revenue Account, the Railway Sinking Fund or the Bus Service Enhancement Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
 [45/2004 wef 15/12/2004]
 
 [21/2010 wef 13/09/2010]
+
+[Act 17 of 2012 wef 12/09/2012]
 
 ### Other financial provisions
 
@@ -1492,3 +1598,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|1 July 2012|
 |19.|**G.N. No. S 310/2012—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2012**|
 ||Date of commencement|1 July 2012|
+|20.|**Act 17 of 2012—Land Transport Authority of Singapore (Amendment) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 15/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|12 September 2012|
