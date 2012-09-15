@@ -2352,177 +2352,255 @@ Primary Qualifications
 
 Australia
 
-1. Faculty of Health Sciences, University of Adelaide
+1.
+
+Faculty of Health Sciences, University of Adelaide
 
 MB BS
 
-2. School of Medicine, Faculty of Health Sciences, The Flinders University of South Australia
+2.
+
+School of Medicine, Faculty of Health Sciences, The Flinders University of South Australia
 
 MB BS
 
-3. Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne
+3.
+
+Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne
+
+MB BS, Doctor of Medicine
+
+4.
+
+Faculty of Medicine, Nursing and Health Sciences, Monash University
 
 MB BS
 
-4. Faculty of Medicine, Nursing and Health Sciences, Monash University
+5.
 
-MB BS
-
-5. School of Medicine and Public Health, University of Newcastle
+School of Medicine and Public Health, University of Newcastle
 
 BMed
 
-6. Faculty of Medicine, University of New South Wales
+6.
+
+Faculty of Medicine, University of New South Wales
 
 MB BS
 
-7. Faculty of Health Sciences, The University of Queensland Medical School
+7.
+
+Faculty of Health Sciences, The University of Queensland Medical School
 
 MB BS
 
-8. Faculty of Medicine, University of Sydney
+8.
+
+Faculty of Medicine, University of Sydney
 
 MB BS
 
-9. Faculty of Health Science, University of Tasmania
+9.
+
+Faculty of Health Science, University of Tasmania
 
 MB BS
 
-10. Faculty of Medicine and Dentistry, University of Western Australia
+10.
+
+Faculty of Medicine and Dentistry, University of Western Australia
 
 MB BS
 
-11. Australian National University Medical School
+11.
+
+Australian National University Medical School
 
 MB BS
 
 Austria
 
-1. Medizinische Universität Wien
+1.
+
+Medizinische Universität Wien
 
 Medicinae Universalis Doctor
 
-2. Medizinische Universität Innsbruck
+2.
+
+Medizinische Universität Innsbruck
 
 Medicinae Universalis Doctor
 
 Belgium
 
-1. Faculteit Geneeskunde, Katholieke Universiteit Leuven
+1.
+
+Faculteit Geneeskunde, Katholieke Universiteit Leuven
 
 Arts (Physician)
 
 Canada
 
-1. Faculty of Medicine, University of British Columbia
+1.
+
+Faculty of Medicine, University of British Columbia
 
 MD
 
-2. Faculty of Medicine, McGill University
+2.
+
+Faculty of Medicine, McGill University
 
 MD, CM
 
-3. Faculty of Health Sciences, McMaster University
+3.
+
+Faculty of Health Sciences, McMaster University
 
 MD
 
-4. Faculty of Health Sciences, University of Ottawa
+4.
+
+Faculty of Health Sciences, University of Ottawa
 
 MD
 
-5. Faculty of Medicine, Queen’s University
+5.
+
+Faculty of Medicine, Queen’s University
 
 MD
 
-6. Faculty of Medicine, University of Toronto
+6.
+
+Faculty of Medicine, University of Toronto
 
 MD
 
-7. Schulich School of Medicine & Dentistry, University of Western Ontario
+7.
+
+Schulich School of Medicine & Dentistry, University of Western Ontario
 
 MD
 
-8. Faculty of Medicine and Dentistry, University of Alberta
+8.
+
+Faculty of Medicine and Dentistry, University of Alberta
 
 MD
 
-9. Faculté de Médecine, Université de Montréal
+9.
+
+Faculté de Médecine, Université de Montréal
 
 MD
 
-10. College of Medicine, University of Saskatchewan
+10.
+
+College of Medicine, University of Saskatchewan
 
 MD
 
-11. Faculté de Médecine, Université Laval
+11.
+
+Faculté de Médecine, Université Laval
 
 Docteur en medicine
 
-12. Faculté de Médecine, Université de Sherbrooke
+12.
+
+Faculté de Médecine, Université de Sherbrooke
 
 Doctorat en medecine/ Medicinae Doctor
 
-13. Faculty of Medicine, Dalhousie University
+13.
+
+Faculty of Medicine, Dalhousie University
 
 Doctor of Medicine
 
-14. Faculty of Medicine, University of Calgary
+14.
+
+Faculty of Medicine, University of Calgary
 
 Doctor of Medicine
 
 Denmark
 
-1. Det Sundhedsvidenskabelige Fakultet, Aarhus Universitet
+1.
+
+Det Sundhedsvidenskabelige Fakultet, Aarhus Universitet
 
 Candidatus Medicinae
 
 Finland
 
-1. Faculty of Medicine, University of Helsinki
+1.
+
+Faculty of Medicine, University of Helsinki
 
 Licenciate in Medicine
 
 France
 
-1. Faculté de Médecine, Université Louis Pasteur (ULP) Strasbourg
+1.
+
+Faculté de Médecine, Université Louis Pasteur (ULP) Strasbourg
 
 Docteur en Medecine
 
-2. Faculté de Médecine, Université Pierre et Marie Curie (UPMC) Paris (UPMC)
+2.
+
+Faculté de Médecine, Université Pierre et Marie Curie (UPMC) Paris (UPMC)
 
 Docteur en Medecine
 
 Germany
 
-1. Medizinische Fakultät Heidelberg, Ruprecht-Karls-Universität Heidelberg
+1.
+
+Medizinische Fakultät Heidelberg, Ruprecht-Karls-Universität Heidelberg
 
 Zweiter Abschnitt der Ärztlichen Prüfung
 
-2. Medizinische Fakultät, Ludwig-Maximilians-Universität München
+2.
+
+Medizinische Fakultät, Ludwig-Maximilians-Universität München
 
 Zweiter Abschnitt der Ärztlichen Prüfung
 
-3. Charité-Universitätsmedizin Berlin
+3.
+
+Charité-Universitätsmedizin Berlin
 
 Hochschulabschluss
 
-4. Fachbereich Medizin, Johann Wolfgang Goethe-Universität Frankfurt am Main
+4.
+
+Fachbereich Medizin, Johann Wolfgang Goethe-Universität Frankfurt am Main
 
 Zweiter Abschnitt der Ärztlichen Prüfung
 
 Hong Kong Special Administrative Region, People’s Republic of China
 
-1. Faculty of Medicine, Chinese University of Hong Kong
+1.
+
+Faculty of Medicine, Chinese University of Hong Kong
 
 MB ChB
 
-2. Li Ka Shing Faculty of Medicine, University of Hong Kong
+2.
+
+Li Ka Shing Faculty of Medicine, University of Hong Kong
 
 MB BS
 
 India
 
-1. All-India Institute of Medical
+1.
+
+All-India Institute of Medical
 
 
 
@@ -2531,7 +2609,9 @@ Sciences
 
 MB BS
 
-2. Christian Medical College,
+2.
+
+Christian Medical College,
 
 
 
@@ -2540,203 +2620,299 @@ Vellore
 
 MB BS
 
-3. Armed Forces Medical College (AFMC), Maharashtra University of Health Sciences
+3.
+
+Armed Forces Medical College (AFMC), Maharashtra University of Health Sciences
 
 MB BS
 
-4.Deleted by S 521/2009, wef 30/10/2009.
+4.
 
-5. Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Pondicherry University
+Deleted by S 521/2009, wef 30/10/2009.
 
-MB BS
+5.
 
-6. Lady Hardinge Medical College (New Delhi), University of Delhi
-
-MB BS
-
-7. Grant Medical College (Mumbai), Maharashtra University of Health Sciences
+Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Pondicherry University
 
 MB BS
 
-8. St. John’s Medical College (Bangalore), Rajiv Gandhi University of Health Sciences
+5A.
+
+Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Puducherry
 
 MB BS
 
-9. Madras Medical College (Chennai), Tamil Nadu Dr.M.G.R. Medical University
+6.
+
+Lady Hardinge Medical College (New Delhi), University of Delhi
+
+MB BS
+
+7.
+
+Grant Medical College (Mumbai), Maharashtra University of Health Sciences
+
+MB BS
+
+8.
+
+St. John’s Medical College (Bangalore), Rajiv Gandhi University of Health Sciences
+
+MB BS
+
+9.
+
+Madras Medical College (Chennai), Tamil Nadu Dr.M.G.R. Medical University
 
 MB BS
 
 Ireland
 
-1. Faculty of Health Sciences, University of Dublin (Trinity College)
+1.
+
+Faculty of Health Sciences, University of Dublin (Trinity College)
 
 MB BCh BAO
 
-2. Faculty of Medicine, National University of Ireland, University College Cork
+2.
+
+Faculty of Medicine, National University of Ireland, University College Cork
 
 MB BCh BAO
 
-3. Faculty of Medicine, National University of Ireland, University College Dublin
+3.
+
+Faculty of Medicine, National University of Ireland, University College Dublin
 
 MB BCh BAO
 
-4. Faculty of Medicine and Health Sciences, National University of Ireland, Galway
+4.
+
+Faculty of Medicine and Health Sciences, National University of Ireland, Galway
 
 MB BCh BAO
 
-5. School of Medicine, Royal College of Surgeons in Ireland (National University of Ireland)
+5.
+
+School of Medicine, Royal College of Surgeons in Ireland (National University of Ireland)
 
 MB BCh BAO
 
 Israel
 
-1. Faculty of Medicine, The Hebrew University of Jerusalem
+1.
+
+Faculty of Medicine, The Hebrew University of Jerusalem
 
 MD
 
-2. Sackler Faculty of Medicine, Tel Aviv University
+2.
+
+Sackler Faculty of Medicine, Tel Aviv University
 
 MD
 
 Italy
 
-1. Prima e Seconda Facoltà di Medicina e Chirurgia, Sapienza Università di Roma
+1.
+
+Prima e Seconda Facoltà di Medicina e Chirurgia, Sapienza Università di Roma
 
 Laurea in Medicina e Chirurgia
 
-2. Facoltà di Medicina e Chirurgia , Università degli Studi di Firenze
+2.
+
+Facoltà di Medicina e Chirurgia , Università degli Studi di Firenze
 
 Laurea in Medicina e Chirurgia
 
 Japan
 
-1. Faculty of Medicine, University of Tokyo
+1.
+
+Faculty of Medicine, University of Tokyo
 
 Igakushi (Bachelor of Medicine)
 
-2. Faculty of Medicine, Kyoto University
+2.
+
+Faculty of Medicine, Kyoto University
 
 Igakushi (Bachelor of Medicine)
 
-3. School of Medicine, Hokkaido University
+3.
+
+School of Medicine, Hokkaido University
 
 Igaku (Bachelor of Medicine)
 
-4. School of Medicine, Osaka University
+4.
+
+School of Medicine, Osaka University
 
 Igaku (Bachelor of Medicine)
 
-5. School of Medicine (Tokyo), Keio University
+5.
+
+School of Medicine (Tokyo), Keio University
 
 Igaku (Bachelor of Medicine)
 
-6. Faculty of Medicine, Nagoya University
+6.
+
+Faculty of Medicine, Nagoya University
 
 Igaku (Bachelor of Medicine)
 
-7. Faculty of Medicine (Fukuoka), Kyushu University
+7.
+
+Faculty of Medicine (Fukuoka), Kyushu University
 
 Igaku (Bachelor of Medicine)
 
-8. Tokyo Women’s Medical University
+8.
+
+Tokyo Women’s Medical University
 
 Igaku (Bachelor of Medicine)
 
 Malaysia
 
-1. Faculty of Medicine, Universiti Malaya (Kuala Lumpur)
+1.
+
+Faculty of Medicine, Universiti Malaya (Kuala Lumpur)
 
 MB BS
 
-2. Faculty of Medicine, Universiti Kebangsaan Malaysia (Kuala Lumpur)
+2.
+
+Faculty of Medicine, Universiti Kebangsaan Malaysia (Kuala Lumpur)
 
 Doktor Perubatan
 
 Netherlands
 
-1. Erasmus Medisch Centrum, Erasmus Universiteit Rotterdam
+1.
+
+Erasmus Medisch Centrum, Erasmus Universiteit Rotterdam
 
 Arts
 
-2. Universitair Medisch Centrum Utrecht
+2.
+
+Universitair Medisch Centrum Utrecht
 
 Arts
 
-3. Academisch Medisch Centrum, Universiteit Van Amsterdam
+3.
+
+Academisch Medisch Centrum, Universiteit Van Amsterdam
 
 Arts
 
-4. Faculty of Medicine/Leiden University Medical Center, Universiteit Leiden
+4.
+
+Faculty of Medicine/Leiden University Medical Center, Universiteit Leiden
 
 Arts
 
 New Zealand
 
-1. Faculty of Medicine and Health Science, University of Auckland
+1.
+
+Faculty of Medicine and Health Science, University of Auckland
 
 MB ChB
 
-2. Faculty of Medicine, University of Otago
+2.
+
+Faculty of Medicine, University of Otago
 
 MB ChB
 
 Norway
 
-1. Det Medisinske Fakultet, Universitetet I Oslo
+1.
+
+Det Medisinske Fakultet, Universitetet I Oslo
 
 Candidatus Medicinae
 
 Pakistan
 
-1. The Aga Khan University Medical College
+1.
+
+The Aga Khan University Medical College
 
 MB BS
 
 People’s Republic of China
 
-1. Peking University Health Science Centre (PUHSC)
+1.
+
+Peking University Health Science Centre (PUHSC)
 
 Master of Medicine, Doctor of Medicine
 
-2. Shanghai Medical College, Fudan University
+2.
+
+Shanghai Medical College, Fudan University
 
 Doctor of Medicine
 
-3. Peking Union Medical College (PUMC), Tsinghua University
+3.
+
+Peking Union Medical College (PUMC), Tsinghua University
 
 Doctor of Medicine
 
-4. Shanghai Jiao Tong University School of Medicine
+4.
+
+Shanghai Jiao Tong University School of Medicine
 
 Doctor of Medicine
 
-5. Sun Yat-Sen College of Medical Science (Guangdong), Sun Yat-Sen University
+5.
+
+Sun Yat-Sen College of Medical Science (Guangdong), Sun Yat-Sen University
 
 Doctor of Medicine
 
-6. Zhejiang University School of Medicine
+6.
+
+Zhejiang University School of Medicine
 
 Master of Medicine, Doctor of Medicine
 
-7. School of Medicine , Wuhan University
+7.
+
+School of Medicine, Wuhan University
 
 Master of Medicine, Doctor of Medicine
 
-8. The West China College of Medicine, Sichuan University
+8.
+
+The West China College of Medicine, Sichuan University
 
 Master of Medicine, Doctor of Medicine
 
 South Korea
 
-1. College of Medicine, Seoul National University
+1.
+
+College of Medicine, Seoul National University
 
 Hak Sa
 
-2. Yonsei University College of Medicine (Seoul)
+2.
+
+Yonsei University College of Medicine (Seoul)
 
 Eui-haksa
 
-3. College of Medicine
+3.
+
+College of Medicine
 
 
 
@@ -2747,53 +2923,75 @@ Eui-haksa
 
 Spain
 
-1. Facultad de Medicina, Universidad de Barcelona
+1.
+
+Facultad de Medicina, Universidad de Barcelona
 
 Licenciado en Medicina y Cirugía
 
-2. Facultad de Medicina, Universidad Complutense de Madrid
+2.
+
+Facultad de Medicina, Universidad Complutense de Madrid
 
 Licenciado en Medicina y Cirugía
 
 Sri Lanka
 
-1. Faculty of Medicine, University of Colombo
+1.
+
+Faculty of Medicine, University of Colombo
 
 MB BS
 
 Sweden
 
-1. Karolinska Institutet
+1.
+
+Karolinska Institutet
 
 Lakarexamen
 
-2. Medicinska Fakulteten, Uppsala Universitet
+2.
+
+Medicinska Fakulteten, Uppsala Universitet
 
 Lakarexamen
 
-3. Medicinska Fakulteten, Lunds Universitet
+3.
+
+Medicinska Fakulteten, Lunds Universitet
 
 Lakarexamen
 
 Switzerland
 
-1. Medizinische Fakultät, Universität Zürich
+1.
+
+Medizinische Fakultät, Universität Zürich
 
 Diplome Federal
 
-2. Faculté de Médecine, Université de Genève
+2.
+
+Faculté de Médecine, Université de Genève
 
 Diplome Federal
 
-3. Medizinische Fakultät, Universität Basel
+3.
+
+Medizinische Fakultät, Universität Basel
 
 Diplome Federal
 
-4. Medizinische Fakultät, Universität Bern
+4.
+
+Medizinische Fakultät, Universität Bern
 
 Diplome Federal
 
-5. Faculté de Médecine,
+5.
+
+Faculté de Médecine,
 
 
 
@@ -2804,11 +3002,15 @@ Diplome Federal
 
 Taiwan
 
-1. College of Medicine (Taipei), National Taiwan University
+1.
+
+College of Medicine (Taipei), National Taiwan University
 
 Doctor of Medicine
 
-2. College of Medicine (Taoyuan), Chang Gung University
+2.
+
+College of Medicine (Taoyuan), Chang Gung University
 
 Bachelor of Medicine
 
@@ -2819,108 +3021,160 @@ United
 
 Kingdom
 
-1. Faculty of Medicine and Medical Science, University of Aberdeen
+1.
+
+Faculty of Medicine and Medical Science, University of Aberdeen
 
 MB ChB
 
-2. College of Medicine and Health Sciences, The Queens University of Belfast
+2.
+
+College of Medicine and Health Sciences, The Queens University of Belfast
 
 MB ChB
 
-3. School of Medicine, University of Birmingham
+3.
+
+School of Medicine, University of Birmingham
 
 MB ChB
 
-4. Faculty of Medicine and Dentistry, University of Bristol
+4.
+
+Faculty of Medicine and Dentistry, University of Bristol
 
 MB ChB
 
-5. School of Clinical Medicine, University of Cambridge
+5.
+
+School of Clinical Medicine, University of Cambridge
 
 MB BChir
 
-6. Faculty of Medicine and Dentistry, University of Dundee
+6.
+
+Faculty of Medicine and Dentistry, University of Dundee
 
 MB ChB
 
-7. Medical School, University of Edinburgh
+7.
+
+Medical School, University of Edinburgh
 
 MB ChB
 
-8. Faculty of Medicine, University of Glasgow
+8.
+
+Faculty of Medicine, University of Glasgow
 
 MB ChB
 
-9. School of Medicine, University of Leeds
+9.
+
+School of Medicine, University of Leeds
 
 MB ChB
 
-10. School of Medicine, University of Leicester
+10.
+
+School of Medicine, University of Leicester
 
 MB ChB
 
-11. Faculty of Medicine, University of Liverpool
+11.
+
+Faculty of Medicine, University of Liverpool
 
 MB ChB
 
-12. The University of London Medical Schools, as follows:
+12.
 
-(a) Kings College London
+The University of London Medical Schools, as follows:
+
+(a)
+
+Kings College London
 School of Medicine
 
 MB BS
 
-(b) Barts and The London Queen Mary’s School of Medicine and Dentistry
+(b)
+
+Barts and The London Queen Mary’s School of Medicine and Dentistry
 
 MB BS
 
-(c) University College London Medical School — formerly known as Royal Free and University College Medical School
+(c)
+
+University College London Medical School — formerly known as Royal Free and University College Medical School
 
 MB BS
 
-(d) St. George’s University of London
+(d)
+
+St. George’s University of London
 
 MB BS
 
-13. Faculty of Medicine, University of Manchester
+13.
+
+Faculty of Medicine, University of Manchester
 
 MB ChB
 
-14. Faculty of Medical Sciences, University of Newcastle upon Tyne
+14.
+
+Faculty of Medical Sciences, University of Newcastle upon Tyne
 
 MB BS
 
-15. Faculty of Medicine and Health Sciences, The University of Nottingham
+15.
+
+Faculty of Medicine and Health Sciences, The University of Nottingham
 
 BMBS
 
-16. Oxford University Medical School
+16.
+
+Oxford University Medical School
 
 BM BCh
 
-17. Faculty of Medicine and Biomedical Sciences, University of Sheffield
+17.
+
+Faculty of Medicine and Biomedical Sciences, University of Sheffield
 
 MB ChB
 
-18. Faculty of Medicine, University of Southampton
+18.
+
+Faculty of Medicine, University of Southampton
 
 BM
 
-19. Medical School, University of St. Andrews
+19.
+
+Medical School, University of St. Andrews
 
 MB ChB
 
-20. College of Medicine, University of Wales
+20.
+
+College of Medicine, University of Wales
 
 MB BCh
 
-21. School of Medicine, Imperial College London
+21.
+
+School of Medicine, Imperial College London
 
 MB BS
 
-22. School of Medicine, Cardiff University
+22.
 
-MB BCh in Medicine
+School of Medicine, Cardiff University
+
+MB BCh
 
 United States
 
@@ -2929,157 +3183,235 @@ United States
 
 of America
 
-1. Baylor College of Medicine
+1.
+
+Baylor College of Medicine
 
 MD
 
-2. David Geffen School of Medicine, University of California at Los Angeles
+2.
+
+David Geffen School of Medicine, University of California at Los Angeles
 
 MD
 
-3. School of Medicine, University of California at San Diego
+3.
+
+School of Medicine, University of California at San Diego
 
 MD
 
-4. San Francisco School of Medicine, University of California
+4.
+
+San Francisco School of Medicine, University of California
 
 MD
 
-5. Pritzker School of Medicine, University of Chicago
+5.
+
+Pritzker School of Medicine, University of Chicago
 
 MD
 
-6. Columbia University College of Physicians and Surgeons (New York)
+6.
+
+Columbia University College of Physicians and Surgeons (New York)
 
 MD
 
-7. Cornell University Medical College (New York)
+7.
+
+Cornell University Medical College (New York)
 
 MD
 
-8. Duke University School of Medicine
+8.
+
+Duke University School of Medicine
 
 MD
 
-9. Emory University School of Medicine
+9.
+
+Emory University School of Medicine
 
 MD
 
-10. Harvard Medical School
+10.
+
+Harvard Medical School
 
 MD
 
-11. The Johns Hopkins University School of Medicine
+11.
+
+The Johns Hopkins University School of Medicine
 
 MD
 
-12. Mayo Medical School
+12.
+
+Mayo Medical School
 
 MD
 
-13. University of Michigan Medical School (Ann Arbor)
+13.
+
+University of Michigan Medical School (Ann Arbor)
 
 MD
 
-14. University of Pennsylvania School of Medicine
+14.
+
+University of Pennsylvania School of Medicine
 
 MD
 
-15 University of Pittsburgh School of Medicine
+15.
+
+University of Pittsburgh School of Medicine
 
 MD
 
-16. Stanford University School of Medicine
+16.
+
+Stanford University School of Medicine
 
 MD
 
-17. University of Texas Southwestern Medical School at Dallas
+17.
+
+University of Texas Southwestern Medical School at Dallas
 
 MD
 
-18. Vanderbilt University School of Medicine
+18.
+
+Vanderbilt University School of Medicine
 
 MD
 
-19. University of Washington School of Medicine (Seattle)
+19.
+
+University of Washington School of Medicine (Seattle)
 
 MD
 
-20. Washington University School of Medicine (St. Louis)
+20.
+
+Washington University School of Medicine (St. Louis)
 
 MD
 
-21. Yale University Medical School
+21.
+
+Yale University Medical School
 
 MD
 
-22. Case Western Reserve University School of Medicine
+22.
+
+Case Western Reserve University School of Medicine
 
 MD
 
-23. University of Wisconsin Medical School (Madison)
+23.
+
+University of Wisconsin Medical School (Madison)
 
 MD
 
-24. Roy J. & Lucille A. Carver College of Medicine at University of Iowa
+24.
+
+Roy J. & Lucille A. Carver College of Medicine at University of Iowa
 
 MD
 
-25. Feinberg School of Medicine, Northwestern University
+25.
+
+Feinberg School of Medicine, Northwestern University
 
 MD
 
-26. School of Medicine, University of Alabama
+26.
+
+School of Medicine, University of Alabama
 
 MD
 
-27. School of Medicine, Boston University
+27.
+
+School of Medicine, Boston University
 
 MD
 
-28. School of Medicine, University of North Carolina, Chapel Hill
+28.
+
+School of Medicine, University of North Carolina, Chapel Hill
 
 MD
 
-29. School of Medicine, University of Virginia
+29.
+
+School of Medicine, University of Virginia
 
 MD
 
-30. School of Medicine, University of Colorado
+30.
+
+School of Medicine, University of Colorado
 
 MD
 
-31. School of Medicine and Dentistry, University of Rochester
+31.
+
+School of Medicine and Dentistry, University of Rochester
 
 MD
 
-32. Mount Sinai School of Medicine, New York University
+32.
+
+Mount Sinai School of Medicine, New York University
 
 MD
 
-33. Dartmouth Medical School
+33.
+
+Dartmouth Medical School
 
 Doctor of Medicine
 
-34. New York University School of Medicine
+34.
+
+New York University School of Medicine
 
 Doctor of Medicine
 
-35. Oregon Health and Science University School of Medicine
+35.
+
+Oregon Health and Science University School of Medicine
 
 Doctor of Medicine
 
-36. The Ohio State University College of Medicine
+36.
+
+The Ohio State University College of Medicine
 
 Doctor of Medicine
 
-37. Keck School of Medicine of the University of Southern California
+37.
+
+Keck School of Medicine of the University of Southern California
 
 Doctor of Medicine
 
-38. Warren Alpert Medical School of Brown University – formerly known as Brown Medical School
+38.
+
+Warren Alpert Medical School of Brown University – formerly known as Brown Medical School
 
 Doctor of Medicine
+
+[S 455/2012 wef 15/09/2012]
 
 [S 521/2009 wef 30/10/2009]
 
@@ -3133,14 +3465,7 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|29 April 2009|
 |14.|**G. N. No. S 521/2009—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2009**|
 ||Date of commencement|30 October 2009|
-|15.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
-||Date of commencement|1 November 2010|
-|16.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
-||Date of First Reading|21 November 2011|
-|||(Bill No. 22/2011 published on 21 November 2011)|
-||Date of Second and Third Readings|18 January 2012|
-||Date of commencement|1 March 2012|
-|17.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+|15.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
 ||Date of First Reading|19 October 2009|
 |||(Bill No. 22/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|11 January 2010|
@@ -3148,6 +3473,15 @@ This Legislative History is provided for the convenience of users of the Medical
 |||1 December 2010|
 |||1 July 2011|
 |||1 July 2012|
+|16.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
+||Date of commencement|1 November 2010|
+|17.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012|
+|18.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
+||Date of commencement|15 September 2012|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
