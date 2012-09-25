@@ -5336,6 +5336,21 @@ CLASS ELASMOBRANCHII (SHARKS)
 
 I 
 
+CARCHARHINIFORMES
+
+A
+
+Sphyrnidae (Hammerhead sharks)
+
+1.
+
+Sphyrna lewini
+
+
+(Costa Rica)
+
+II 
+
 LAMNIFORMES
 
 A
@@ -5348,13 +5363,19 @@ Cetorhinus maximus
 
 B
 
-Lamnidae (Great white shark)
+Lamnidae (Sharks)
 
 1.
 
 Carcharodon carcharias
 
-II 
+2.
+
+Lamna nasus
+
+(Belgium, Cyprus, Denmark11, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Malta, Netherlands, Poland, Portugal, Slovenia, Spain, Sweden and United Kingdom of Great Britain and Northern Ireland)
+
+III 
 
 ORECTOLOBIFORMES
 
@@ -5366,9 +5387,9 @@ Rhincodontidae (Whale shark)
 
 Rhincodon typus
 
-III 
+IV 
 
-RAJIFORMES
+PRISTIFORMES
 
 A
 
@@ -5376,13 +5397,17 @@ Pristidae (Sawfishes)
 
 1.
 
-Pristidae spp\. (Except the species included in Appendix II)
+Pristidae spp\. 
+
+(Except the species included in Appendix II)
 
 2.
 
 Pristis microdon
 
 (For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable aquaria for primarily conservation purposes)
+
+11Excluding the dependent territory of Greenland.
 
 CLASS ACTINOPTERYGII (FISHES) 
 
@@ -5457,6 +5482,10 @@ Arapaima gigas
 2.
 
 Scleropages formosus
+
+12
+
+12Includes the taxonScleropages inscriptus.
 
 V 
 
@@ -6636,10 +6665,9 @@ Diospyros caucheana
 
 13.
 
-Diospyros
+Diospyros cinnamomoides
 
-
-cinnamomoides#5
+#5
 
 (Madagascar)
 
@@ -6664,16 +6692,6 @@ Diospyros conifera
 Diospyros coursiana
 
 #5
-
-(Madagascar)
-
-17.
-
-Diospyros crassiflorides
-
-#5
-
-(Diospyros crassiflora)
 
 (Madagascar)
 
@@ -8556,6 +8574,8 @@ Guaiacum spp.#2
 
 (b) finished products packaged and ready for retail trade.
 
+[S 478/2012 wef 25/09/2012]
+
 [S 139/2012 wef 03/04/2012]
 
 [S 666/2011 wef 22/12/2011]
@@ -8667,6 +8687,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|22 December 2011|
 |35.|**G.N. No. S 139/2012—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2012**|
 ||Date of commencement|3 April 2012|
+|36.|**G.N. No. S 478/2012—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2012**|
+||Date of commencement|25 September 2012|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
