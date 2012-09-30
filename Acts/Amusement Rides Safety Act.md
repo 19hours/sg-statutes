@@ -1,16 +1,14 @@
-**Amusement Rides Safety Act 2011**
+**Amusement Rides Safety Act**
 
-**(No. 6 of 2011)**
+**(CHAPTER 6A)**
 
 **Table of Contents**
 
 [**Long Title**](#Amusement-Rides-Safety-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -182,47 +180,29 @@
 
 - [76 Power of Minister to prescribe additional saving and transitional provisions](#Power-of-Minister-to-prescribe-additional-saving-and-transitional-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Amusement Rides Safety Act
 
-ACTS SUPPLEMENT
+(CHAPTER 6A)
 
-Published by Authority
+(Original Enactment: Act 6 of 2011)
 
-NO. 14]
+REVISED EDITION 2012
 
-Friday, March 18
-
-[2011
-
-The following Act was passed by Parliament on 14th February 2011 and assented to by the President on 28th February 2011:—
-
-Amusement Rides Safety Act 2011
-
-(No. 6 of 2011)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th February 2011.
-
-Date of Commencement: 1st July 2011
+(30th September 2012)
 
 An Act to make provision relating to the safety of amusement rides and matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 2011]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Amusement Rides Safety Act 2011 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Amusement Rides Safety Act.
 
 ### Interpretation
 
@@ -264,8 +244,6 @@ whether or not such device or combination of devices is erected to remain as a l
 
 (C) device or combination of devices which is prescribed as not being an amusement ride for the purposes of this Act;
 
-“appointed day” means the date of commencement of this Act;
-
 “Authority” means the Building and Construction Authority established under section 3 of the Building and Construction Authority Act (Cap. 30A);
 
 “building” has the same meaning as in the Building Control Act (Cap. 29), and includes any part of an amusement ride which is declared to be a building under paragraph (g) of the definition of “building” in section 2(1) of that Act;
@@ -274,17 +252,17 @@ whether or not such device or combination of devices is erected to remain as a l
 
 “certificate of compliance” means a certificate of compliance issued by the Commissioner of Civil Defence under section 36(4)(a) in respect of the fire and rescue management system of an amusement ride;
 
-“Commissioner” means the Commissioner of Amusement Rides Safety appointed under section 3(1);
-
-“Commissioner of Building Control” means the appropriate Commissioner of Building Control appointed under section 3(1) of the Building Control Act (Cap. 29);
-
-“Commissioner of Civil Defence” means the Commissioner of Civil Defence appointed under section 6 of the Civil Defence Act (Cap. 42) and includes any public officer or member of the Civil Defence Force who is designated by the Commissioner of Civil Defence to act in his place for the purposes of this Act;
-
 “coin-operated ride” means any device which —
 
 (a) is fixed to a non-moving base; and
 
 (b) upon the insertion of any coin, slug, token, plate or disc, operates as a ride for children;
+
+“Commissioner” means the Commissioner of Amusement Rides Safety appointed under section 3(1);
+
+“Commissioner of Building Control” means the appropriate Commissioner of Building Control appointed under section 3(1) of the Building Control Act;
+
+“Commissioner of Civil Defence” means the Commissioner of Civil Defence appointed under section 6 of the Civil Defence Act (Cap. 42) and includes any public officer or member of the Civil Defence Force who is designated by the Commissioner of Civil Defence to act in his place for the purposes of this Act;
 
 “component”, in relation to an amusement ride, means any part in the entire assembly of parts that make up the amusement ride, and includes —
 
@@ -320,7 +298,7 @@ whether or not such device or combination of devices is erected to remain as a l
 
 “enforcement officer” means any person who is appointed under section 3(3) to be an enforcement officer for the purposes of this Act;
 
-“existing amusement ride” means an amusement ride which has been in operation at any time during the period of 12 months immediately preceding the appointed day, whether on a continuous or an intermittent basis;
+“existing amusement ride” means an amusement ride which has been in operation at any time during the period of 12 months immediately preceding 1st July 2011, whether on a continuous or an intermittent basis;
 
 “fire and rescue management system”, in relation to an amusement ride, means any installation, apparatus or equipment (whether integrated as part of the amusement ride or otherwise) and the protocols and instructions for the activation, operation and use thereof, which are designed to be used for —
 
@@ -496,7 +474,7 @@ and if the contravention continues after the conviction, the person shall be gui
 
 (b) the dismantling of any part of the amusement ride that has already been installed.
 
-(6) In additional to the powers exercisable by him under subsection (3) or (4), the Commissioner may, if he thinks necessary for securing the cessation of any installation works being carried out in contravention of subsection (1), seize and detain —
+(6) In addition to the powers exercisable by him under subsection (3) or (4), the Commissioner may, if he thinks necessary for securing the cessation of any installation works being carried out in contravention of subsection (1), seize and detain —
 
 (a) any machinery, equipment or plant connected or used in connection with the amusement ride being installed or with the installation works relating thereto; or
 
@@ -558,7 +536,7 @@ for which purpose either the same qualified person may be appointed to carry out
 
 (b) the design and specifications and the proposed installation method and programme of the amusement ride to be installed have been reviewed in accordance with section 46 by a qualified person appointed by the applicant pursuant to subsection (2)(a)(i) and certified by the qualified person as conforming to the prescribed requirements;
 
-(c) where applicable, the plans of any building works relating to any building which forms part of the amusement ride to be installed or to which the amusement ride is connected have been approved by the Commissioner of Building Control under section 5 of the Building Control Act (Cap. 29);
+(c) where applicable, the plans of any building works relating to any building which forms part of the amusement ride to be installed or to which the amusement ride is connected have been approved by the Commissioner of Building Control under section 5 of the Building Control Act;
 
 (d) the design and plans of the fire and rescue management system of the amusement ride to be installed have been approved by the Commissioner of Civil Defence under section 36(3)(a); and
 
@@ -818,7 +796,7 @@ and if the contravention continues after the conviction, the person shall be gui
 
 (b) the dismantling of the whole or any part of the amusement ride.
 
-(6) In additional to the powers exercisable by him under subsection (3) or (4), the Commissioner may, if he thinks necessary for securing the cessation of the operation of an amusement ride in contravention of subsection (1), seize and detain —
+(6) In addition to the powers exercisable by him under subsection (3) or (4), the Commissioner may, if he thinks necessary for securing the cessation of the operation of an amusement ride in contravention of subsection (1), seize and detain —
 
 (a) any machinery, equipment or plant connected or used in connection with the amusement ride; or
 
@@ -1134,7 +1112,7 @@ and if the contravention continues after the conviction, the person shall be gui
 
 (b) the dismantling of any part of the amusement ride on which any such modification works have been or are being carried out.
 
-(6) In additional to the powers exercisable by him under subsection (3) or (4), the Commissioner may, if he thinks necessary for securing the cessation of any modification works being carried out in contravention of subsection (1), seize and detain —
+(6) In addition to the powers exercisable by him under subsection (3) or (4), the Commissioner may, if he thinks necessary for securing the cessation of any modification works being carried out in contravention of subsection (1), seize and detain —
 
 (a) any machinery, equipment or plant connected or used in connection with the amusement ride being modified or with the modification works relating thereto; or
 
@@ -1196,7 +1174,7 @@ for which purpose either the same qualified person may be appointed to carry out
 
 (b) the design and specifications and the proposed modification method and programme of the major modification have been reviewed in accordance with section 46 by a qualified person appointed by the applicant pursuant to subsection (2)(a)(i) and certified by the qualified person as conforming to the prescribed requirements;
 
-(c) where applicable, the plans of any building works relating to any building which forms part of the amusement ride to be modified or to which the amusement ride is to be connected have been approved by the Commissioner of Building Control under section 5 of the Building Control Act (Cap. 29);
+(c) where applicable, the plans of any building works relating to any building which forms part of the amusement ride to be modified or to which the amusement ride is to be connected have been approved by the Commissioner of Building Control under section 5 of the Building Control Act;
 
 (d) the design and plans of the fire and rescue management system of the amusement ride as proposed to be modified have been approved by the Commissioner of Civil Defence under section 36(3)(a); and
 
@@ -2173,7 +2151,7 @@ OFFENCES AND PROSECUTION
 
 ### Jurisdiction of court
 
-57\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+57\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Evidence
 
@@ -2237,7 +2215,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -2527,11 +2505,11 @@ SAVING AND TRANSITIONAL PROVISIONS
 
 75\.—(1) Notwithstanding section 13(1)(a) —
 
-(a) the operator of an existing amusement ride who has never been issued with an amusement park licence in respect of that amusement ride may continue operating that amusement ride without an operating permit, as if this Act had not been enacted, until the expiration of 6 months beginning on the appointed day; and
+(a) the operator of an existing amusement ride who has never been issued with an amusement park licence in respect of that amusement ride may continue operating that amusement ride without an operating permit, as if this Act had not been enacted, until the expiration of 6 months beginning on 1st July 2011; and
 
-(b) the operator of an existing amusement ride who, immediately before the appointed day, was holding a valid amusement park licence in respect of that amusement ride may continue operating that amusement ride without an operating permit, as if this Act had not been enacted, until the date on which the amusement park licence would have expired had it not been cancelled on account of the enactment of this Act.
+(b) the operator of an existing amusement ride who, immediately before 1st July 2011, was holding a valid amusement park licence in respect of that amusement ride may continue operating that amusement ride without an operating permit, as if this Act had not been enacted, until the date on which the amusement park licence would have expired had it not been cancelled on account of the enactment of this Act.
 
-(2) Section 13(1)(b)(ii), (iii) and (iv) shall not apply to the operator of an existing amusement ride until the expiration of 6 months beginning on the appointed day.
+(2) Section 13(1)(b)(ii), (iii) and (iv) shall not apply to the operator of an existing amusement ride until the expiration of 6 months beginning on 1st July 2011.
 
 (3) The Commissioner may —
 
@@ -2551,5 +2529,22 @@ so as to facilitate the obtainment of an operating permit by the operator.
 
 ### Power of Minister to prescribe additional saving and transitional provisions
 
-76\. For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act as he may consider necessary or expedient.
+76\. For a period of 2 years after 1st July 2011, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act as he may consider necessary or expedient.
 
+## LEGISLATIVE HISTORY
+
+Amusement Rides Safety Act
+
+(CHAPTER 6A)
+
+This Legislative History is provided for the convenience of users of the Amusement Rides Safety Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 6 of 2011—Amusement Rides Safety Act 2011**|
+||Date of First Reading|10 January 2011|
+|||(Bill No. 1/2011 published on 11 January 2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|1 July 2011|
+|2.|**2012 Revised Edition—Amusement Rides Safety Act (Chapter 6A)**|
+||Date of operation|30 September 2012|
