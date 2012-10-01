@@ -72,7 +72,7 @@
 
 - [21C Zero-rating of grant or assignment of lease, tenancy or licence to occupy land](#Zero-rating-of-grant-or-assignment-of-lease-tenancy-or-licence-to-occupy-land)
 
-- [22 Exempt supply](#Exempt-supply)
+- [22 Exempt supply and exempt import](#Exempt-supply-and-exempt-import)
 
 - [23 Relief on supply of certain goods under Margin Scheme](#Relief-on-supply-of-certain-goods-under-Margin-Scheme)
 
@@ -116,6 +116,8 @@
 
 - [37A Process applied to or carried out on goods of a person belonging in a country other than Singapore](#Process-applied-to-or-carried-out-on-goods-of-a-person-belonging-in-a-country-other-than-Singapore)
 
+- [37B Refining of goods into investment precious metals](#Refining-of-goods-into-investment-precious-metals)
+
 - [38 Customers to account for tax on certain supplies](#Customers-to-account-for-tax-on-certain-supplies)
 
 - [39 Supplies spanning change of rate, etc.](#Supplies-spanning-change-of-rate-etc)
@@ -124,7 +126,7 @@
 
 [**Part VII ACCOUNTING AND ASSESSMENTS**](#Part-VII)
 
-- [41 Accounting for and payment of tax](#Accounting-for-and-payment-of-tax)
+- [41 Accounting for and payment of tax, etc.](#Accounting-for-and-payment-of-tax-etc)
 
 - [42 Electronic service](#Electronic-service)
 
@@ -252,9 +254,11 @@
 
 [**THIRD SCHEDULE Valuation — Special Cases**](#THIRD-SCHEDULE-Valuation-—-Special-Cases)
 
-[**FOURTH SCHEDULE Exempt Supplies**](#FOURTH-SCHEDULE-Exempt-Supplies)
+[**FOURTH SCHEDULE**](#FOURTH-SCHEDULE)
 
 [**FIFTH SCHEDULE Advance Rulings**](#FIFTH-SCHEDULE-Advance-Rulings)
+
+[**SIXTH SCHEDULE Disclosure of names and particulars of persons and places**](#SIXTH-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -454,6 +458,10 @@ shall be guilty of an offence.
 
 [16/2004]
 
+(7) Notwithstanding anything in this section, the Comptroller may publish the names and such other particulars of the persons and places specified in the Sixth Schedule, in such form or manner, as he thinks fit.
+
+[Act 19 of 2012 wef 01/10/2012]
+
 ## PART III
 
 IMPOSITION AND EXTENT OF TAX
@@ -478,11 +486,13 @@ IMPOSITION AND EXTENT OF TAX
 
 (3) Tax on any supply of goods or services is a liability of the person making the supply and (subject to provisions on accounting and payment) becomes due at the time of supply.
 
-(4) Tax on the importation of goods shall be charged, levied and payable as if it were customs duty or excise duty and as if all goods imported into Singapore are dutiable and liable to customs duty or excise duty.
+(4) Tax shall be charged, levied and payable on any importation of goods (other than an exempt import) as if it were customs duty or excise duty and as if all goods imported into Singapore are dutiable and liable to customs duty or excise duty.
 
 [UK VAT Act 1983, s. 2]
 
 [33/2000]
+
+[Act 19 of 2010 wef 01/10/2012]
 
 ### Registration
 
@@ -666,7 +676,9 @@ then the supply shall be treated as taking place at the end of 12 months after t
 
 (5) Subject to subsections (3) and (7), where —
 
-(a) a person making a supply of goods or services also makes a supply of financial services referred to in paragraph 1 of the Fourth Schedule to the recipient of the goods or services in respect of the supply of the goods or services; and
+(a) a person making a supply of goods or services also makes a supply of financial services referred to in paragraph 1 of Part I of the Fourth Scheduleto the recipient of the goods or services in respect of the supply of the goods or services; and
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (b) the financial services provide for payment by instalments,
 
@@ -1032,6 +1044,12 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 
 (aa) supplies permitted to be made under section 27 or regulations made under section 27 without payment of the tax chargeable on the supplies;
 
+(ab) supplies of investment precious metals referred to in Part I of the Fourth Schedule, where any such supply —
+
+(i) is made by an approved person referred to in section 37B; and
+
+(ii) is a supply that directly follows the refinement of goods (as defined in section 37B(2)) into such metals;
+
 (b) supplies outside Singapore which would be taxable supplies if made in Singapore;
 
 (c) such other supplies outside Singapore as the Minister may by regulations specify for the purposes of this subsection;
@@ -1039,6 +1057,8 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 (d) supplies which section 37 or regulations made under section 37A provide are to be disregarded for the purposes of this Act and which would otherwise be taxable supplies.
 
 [26/99; 19/2003]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (3) Regulations may provide for treating some or all supplies of goods or services by any person as taxable supplies —
 
@@ -1070,9 +1090,11 @@ RELIEFS
 
 ### Zero-rating for exports and international services
 
-21\.—(1) Subject to this section and section 21A, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
+21\.—(1) Subject to this section and sections 21A, 21B and 21C, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
 
 [28/2007 wef 01/07/2007]
+
+[Act 19 of 2012 wef 01/01/2012]
 
 (2) Where a taxable person supplies goods or services and the supply is zero-rated, then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1118,7 +1140,13 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (g) subject to subsection (4B), services supplied directly in connection with goods for export outside Singapore and supplied to a person who belongs in a country other than Singapore, at the time the services are performed;
 
-(h) prescribed financial services supplied directly in connection with goods for export outside Singapore;
+(h) prescribed financial services supplied in connection with goods —
+
+(i) for export outside Singapore; or
+
+(ii) the supply of which involves the removal of the goods from a place outside Singapore to another place outside Singapore;
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (i) services of any of the following descriptions which are performed wholly outside Singapore:
 
@@ -1208,9 +1236,9 @@ if, at the time the prescribed services are performed, the prescribed goods are 
 
 (B) at any place from which they may not be removed except with the permission of the proper officer of customs (and by virtue of which the prescribed goods remain under customs control), if —
 
-(BA) the goods have been brought to that place from an approved warehouse for the purpose of an auction, an exhibition or other similar event involving the display of goods; and
+(BA) the goods have been brought to that place from an approved warehouse for the purpose of the repair of, maintenance of or performance of any other similar service on the goods, or for the purpose of an auction, an exhibition or any other similar event involving the display of goods; and
 
-(BB) the goods will be returned to any approved warehouse after the auction or exhibition or other similar event involving the display of goods.
+(BB) the goods will be returned to any approved warehouse after the activity or event referred to in sub-paragraph (BA).
 
 [25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
@@ -1225,6 +1253,8 @@ if, at the time the prescribed services are performed, the prescribed goods are 
 [20/2010 wef 01/01/2011]
 
 [24/2011 wef 01/01/2012]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (4) For the purposes of subsections (3), (6), (6A) and (6B) —
 
@@ -1284,9 +1314,11 @@ being services performed substantially in Singapore.
 
 [20/2010 wef 01/01/2011]
 
-(4A) For the purposes of subsection (3)(j), (k) and (s), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
+(4A) For the purposes of subsection (3)(j), (k), (s) and (y), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
 
 [50/2004]
+
+[Act 19 of 2012 wef 01/01/2012]
 
 (4B) The services referred to in subsection (3)(e), (f), (g) and (j) shall not include any services comprising either of or both —
 
@@ -1352,9 +1384,7 @@ and, in any of those cases, if such other conditions or restrictions, if any, as
 
 [24/2011 wef 01/01/2012]
 
-(7B) The Comptroller may publish such details of approved warehouses in such form or manner as he thinks fit.
-
-[24/2011 wef 01/01/2012]
+(7B) [Deleted by Act 19 of 2012 wef 01/10/2012]
 
 (8) Where the supply of any goods has been zero-rated under subsection (6) or (6A) or regulations made under subsection (7) and —
 
@@ -1416,9 +1446,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (4) The Comptroller may, for the protection of revenue, impose conditions or restrictions in relation to any supply referred to in subsection (1).
 
-(5) The Comptroller may publish the names and such other particulars of the taxable persons approved by the Comptroller under subsection (1) in such form or manner as he thinks fit.
-
-[24/2011 wef 01/01/2012]
+(5) [Deleted by Act 19 of 2012 wef 01/10/2012]
 
 ### Zero-rating of grant or assignment of lease, tenancy or licence to occupy land
 
@@ -1448,15 +1476,29 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 [24/2011 wef 01/01/2012]
 
-### Exempt supply
+### Exempt supply and exempt import
 
-22\.—(1) A supply of goods or services is an exempt supply if it is of a description or of a class for the time being specified in the Fourth Schedule.
+22\.—(1) A supply of goods or services is an exempt supply if it is of a description or of a class for the time being specified in Part I of the Fourth Schedule.
 
-(2) The Minister may by order vary the description of financial services in paragraphs 1, 3 and 4 of the Fourth Schedule by adding to or deleting from it or by varying any description or class of financial services for the time being specified in it.
+[Act 19 of 2012 wef 01/10/2012]
+
+(1A) An importation of goods is an exempt import if it is of a description or of a class for the time being specified in Part II of the Fourth Schedule.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(2) The Minister may by order vary the description of —
+
+(a) financial services in paragraph 1 of Part I, and paragraphs 1 and 3 of Part III, of the Fourth Schedule by adding to or deleting from the Fourth Schedule or by varying any description or class of financial services for the time being specified in the Fourth Schedule; or
+
+(b) investment precious metals in paragraph 1 of Part II, and paragraph 2 of Part III, of the Fourth Schedule by adding to or deleting from the Fourth Schedule or by varying any description or class of investment precious metals for the time being specified in the Fourth Schedule.
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (3) The Fourth Schedule may be varied so as to describe a supply of financial services by reference to other matters unrelated to the characteristics of the services.
 
 [UK VAT Act 1983, s. 17]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 ### Relief on supply of certain goods under Margin Scheme
 
@@ -1560,11 +1602,23 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 ### Application of Customs legislation
 
-26\.—(1) Except where the contrary intention appears, any written law relating to customs or excise duties on imported goods shall, with such exceptions, modifications and adaptations as the Minister may by order prescribe, apply (so far as relevant) in relation to any tax chargeable on the importation of goods as it applies in relation to any customs or excise duties.
+26\.—(1) Except where the contrary intention appears, any written law relating to customs or excise duties on imported goods shall, with such exceptions, modifications and adaptations as the Minister may by order prescribe, apply (so far as relevant) —
 
-(2) Without prejudice to the generality of subsection (1), the Director-General of Customs may, by virtue of that subsection, exercise any power conferred on him by any written law relating to customs or excise duties (including the power to issue permits and impose conditions on the import, export, transhipment and removal of goods) as if the reference to customs duty or excise duty in that written law included a reference to tax chargeable on the importation of goods.
+(a) in relation to any tax chargeable on the importation of goods as it applies in relation to any customs duty or excise duty; and
+
+(b) in relation to any goods in respect of which tax is chargeable on the importation thereof or would be so chargeable if the importation were not an exempt import, as it applies to goods in respect of which customs duty or excise duty is chargeable.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(2) Without prejudice to the generality of subsection (1), the Director‑General of Customs may, by virtue of that subsection, exercise any power conferred on him by any written law relating to customs or excise duties (including the power to issue permits and impose conditions on the import, export, transhipment and removal of goods) as if —
+
+(a) the reference in that written law to customs duty or excise duty includes a reference to tax chargeable on the importation of goods; and
+
+(b) the reference in that written law to goods in respect of which customs duty or excise duty is chargeable includes a reference to goods in respect of which tax is chargeable on the importation thereof or would be so chargeable if the importation were not an exempt import.
 
 [4/2003]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (3) In this section, “any written law relating to customs or excise duties” means —
 
@@ -1610,7 +1664,7 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [50/2004]
 
-(4) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
+(4) [Deleted by Act 19 of 2012 wef 01/10/2012]
 
 [UK VAT Act 1983, s. 25]
 
@@ -1638,9 +1692,7 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [20/2010 wef 01/10/2010]
 
-(4) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
-
-[20/2010 wef 01/10/2010]
+(4) [Deleted by Act 19 of 2012 wef 01/10/2012]
 
 ## PART VI
 
@@ -2034,7 +2086,9 @@ unless otherwise prescribed.
 
 (i) brought to any place from which they may not be removed except with the permission of the proper officer of customs (and by virtue of which the goods continue to remain under customs control); and
 
-(ii) brought to that place for the purpose of an auction, an exhibition or other similar event involving the display of goods;
+(ii) brought to that place for the purpose of the repair of, maintenance of or performance of any other similar service on the goods, or for the purpose of an auction, an exhibition or any other similar event involving the display of goods;
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (b) one or more supplies of the goods are made whilst they are in that place; and
 
@@ -2094,7 +2148,7 @@ to be disregarded for the purposes of this Act (other than for the purposes of s
 
 [26/99]
 
-(2) Regulations made under subsection (1) may provide for the following in relation to goods to or on which a process has been applied or conducted:
+(2) Regulations made under subsection (1) may provide for the following in relation to goods to or on which a process has been applied or carried out:
 
 (a) for the goods —
 
@@ -2111,6 +2165,8 @@ to be disregarded for the purposes of this Act (other than for the purposes of s
 and, where any taxable person (including a taxable person referred to in subsection (1)) fails to do so, for the taxable person to pay to the Comptroller an amount equal to the tax that would have been payable if the taxable person had himself made a supply of the goods in the course or furtherance of his business;
 
 [24/2011 wef 01/01/2012]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (b) for a taxable person approved by the Comptroller who receives the goods from another approved person to declare, in such form and manner as the Comptroller may require, his receipt of those goods;
 
@@ -2146,9 +2202,53 @@ as the case may be.
 
 [24/2011 wef 01/01/2012]
 
-(3) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
+(3) [Deleted by Act 19 of 2012 wef 01/10/2012]
 
-[20/2010 wef 01/01/2011]
+### Refining of goods into investment precious metals
+
+37B\.—(1) The Minister may by regulations make provision in relation to the following:
+
+(a) for the approval by the Comptroller of any person as an approved refiner or an approved consolidator;
+
+(b) where —
+
+(i) goods are consigned by a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person) to an approved person for refining into any investment precious metal by an approved refiner (including where the approved person is also the approved refiner); and
+
+(ii) the approved person delivers the investment precious metal obtained through the refining to another person pursuant to a supply of the investment precious metal by the overseas person to the other person,
+
+for the approved person to account for the supply of the investment precious metal as if it were his supply made in the course or furtherance of his business, in such form and manner as the Comptroller may determine;
+
+(c) where —
+
+(i) goods are consigned by an overseas person to an approved person for refining by an approved refiner (including where the approved person is also the approved refiner);
+
+(ii) goods other than investment precious metals arise as a result of or remain after the process of refining the goods (including precious metals, by products, and any residue or scrap); and
+
+(iii) the approved person delivers such other goods to another person pursuant to instructions of the overseas person, whether or not consideration is received by the approved person or the overseas person in connection with the delivery,
+
+for the approved person to account for tax in substitution for the overseas person as if the approved person had himself supplied such other goods in the course or furtherance of his business, and, where no consideration is received, as if there had been a supply of such other goods, in such form and manner as the Comptroller may determine.
+
+(2) In this section —
+
+“approved person” means an approved refiner or an approved consolidator;
+
+“consolidator” means a person who supplies or delivers goods to a refiner for the purpose of refining the goods;
+
+“investment precious metal” means any investment precious metal specified in Part II of the Fourth Schedule;
+
+“precious metal” means gold, silver or platinum that does not qualify as an investment precious metal;
+
+“refine”, in relation to goods (including goods that are investment precious metals or precious metals) —
+
+(a) means to process or convert the goods into, or extract from the goods, any investment precious metal, or precious metal; and
+
+(b) includes the minting of any coin that is an investment precious metal, or precious metal,
+
+and “refiner” shall be construed accordingly.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+[Act 21 of 2013 wef 01/10/2012]
 
 ### Customers to account for tax on certain supplies
 
@@ -2354,17 +2454,23 @@ provide for the replacement or correction of that invoice (including the issue o
 
 ACCOUNTING AND ASSESSMENTS
 
-### Accounting for and payment of tax
+### Accounting for and payment of tax, etc.
 
 41\.—(1) The Minister may —
 
 (a) make regulations to require the keeping of accounts, the making of returns and the payment of tax in such form and manner and within such time as may be specified in the regulations;
 
-(b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied; and
+(b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied;
 
-(c) provide for the circumstances in which a document by a taxable person purporting to be a tax invoice in respect of a supply of goods or services to him by another taxable person, is to be treated as a tax invoice required under paragraph (b) to be provided by the taxable person supplying the goods or services.
+[Act 19 of 2012 wef 01/10/2012]
+
+(c) provide for the circumstances in which a document by a taxable person purporting to be a tax invoice in respect of a supply of goods or services to him by another taxable person, is to be treated as a tax invoice required under paragraph (b) to be provided by the taxable person supplying the goods or services; and
 
 [20/2010 wef 01/01/2011]
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(d) require any taxable person making any exempt supply to another person to provide that other person, within such time as may be prescribed or such time as the Comptroller may allow, with an invoice containing such particulars as may be so specified, including but not limited to particulars of the supply and the persons by and to whom the supply is made.
 
 (2) Regulations made under this section may, where they require a tax invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
 
@@ -2431,6 +2537,8 @@ as the case may be, shall be zero if the amount is less than $5 or such other am
 [20/2010 wef 01/10/2010]
 
 [UK VAT Act 1983, Sch. 7 Para. 2]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 ### Electronic service
 
@@ -3854,7 +3962,7 @@ GENERAL PROVISIONS
 
 ### Remission of tax or penalty
 
-89\.—(1) The Comptroller may, on the ground of poverty or where it is just and equitable to do so, give to any person or class of persons —
+89\.—(1) The Comptroller may, if he thinks fit, and upon such conditions as he may impose, on the ground of poverty or where it is just and equitable to do so, give to any person or class of persons —
 
 (a) relief from, or a remission or refund of, the whole or part of any tax chargeable on the importation of goods or supply of goods or services by that person or class of persons;
 
@@ -3868,7 +3976,9 @@ GENERAL PROVISIONS
 
 [50/2004]
 
-(2) The Minister may give to any person or class of persons —
+[Act 19 of 2012 wef 01/10/2012]
+
+(2) The Minister may, if he thinks fit, and upon such conditions as he may impose, give to any person or class of persons —
 
 (a) relief from, or a remission or refund of, the whole or part of any tax chargeable on the importation of goods or supply of goods or services by that person or class of persons;
 
@@ -3881,6 +3991,30 @@ GENERAL PROVISIONS
 (c) relief or remission from the whole or part of any penalty payable by that person or class of persons.
 
 [50/2004]
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(2A) Where —
+
+(a) the Comptroller is satisfied that the person to whom relief from, or a remission or refund of, tax is given fails to comply with any condition imposed under subsection (1) (whether a condition precedent or condition subsequent); or
+
+(b) the Minister is satisfied that the person to whom relief from, or a remission or refund of, tax is given fails to comply with any condition imposed under subsection (2) (whether a condition precedent or condition subsequent),
+
+an amount equal to the amount of tax to which the relief, remission or refund relates shall be recoverable as a debt due to the Government.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(2B) The amount recoverable under subsection (2A) shall be payable at the place stated in a notice served by the Comptroller on the person within one month after the service of the notice.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(2C) The Comptroller may, in his discretion and subject to such terms and conditions (including interest) as he may impose, extend the time limit within which payment is to be made.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(2D) Sections 60(1), 78 and 87 shall apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (2A) and any interest imposed under subsection (2C) as they apply to the collection and recovery of tax.
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (3) The Minister may, if he thinks fit, and upon such conditions as he may impose, exempt any taxable person or class of taxable persons from collecting and accounting for tax on any taxable supply of goods or services.
 
@@ -4080,7 +4214,13 @@ Voluntary registration
 
 (i) taxable supplies; or
 
-(ii) exempt supplies of financial services specified in paragraph 1 of the Fourth Schedule, where the financial services are international services under section 21(3); or
+(ii) exempt supplies of —
+
+(A) financial services specified in paragraph 1 of Part I of the Fourth Schedule, where the financial services are international services under section 21(3); or
+
+(B) investment precious metals referred to in paragraph 1A of Part I of the Fourth Schedule, where the supplies of the investment precious metals are supplies referred to in section 21(6), (6A) or (7); or
+
+[Act 19 of 2012 wef 01/10/2012]
 
 (b) is carrying on a business and intends to make such supplies in the course or furtherance of that business,
 
@@ -4224,13 +4364,21 @@ Transfer or disposal of business assets
 
 (2) Sub-paragraph (1) does not apply where the transfer or disposal is —
 
-(a) a gift of goods made in the course or furtherance of the business (otherwise than as one forming part of a series or succession of gifts made to the same person from time to time) where the cost to the donor is not more than $200;
+(a) a gift of goods made in the course or furtherance of the business where the cost to the donor is not more than $200;
 
 (b) a gift, to an actual or potential customer of the business, of an industrial or commercial sample in a form not ordinarily available for sale to the public.
 
+[S 487/2012 wef 1/10/2012]
+
 (3) Where by or under the direction of a person carrying on a business, goods held or used for the purposes of the business are put to any private use or are used, or made available to any person for use, for any purpose other than a purpose of the business, whether or not for a consideration, that is a supply of services.
 
-(4) Neither sub-paragraph (1) nor sub-paragraph (3) shall require anything which a person carrying on a business does otherwise than for a consideration in relation to any goods to be treated as a supply except in a case where that person is entitled under sections 19 and 20 to credit for the whole or any part of the tax on the supply or importation of those goods or of anything comprised in them.
+(4) Neither sub-paragraph (1) nor sub-paragraph (3) shall require anything which a person carrying on a business does otherwise than for a consideration in relation to any goods to be treated as a supply except in a case where —
+
+(a) credit for input tax has been allowed to that person in whole or in part in respect of the supply of those goods or anything comprised in them to, or the importation of those goods or anything comprised in them by or for, the person; or
+
+(b) the goods comprise assets of another business transferred to the person as a going concern by another taxable person.
+
+[S 487/2012 wef 1/10/2012]
 
 (5) Anything which is a supply of goods or services by virtue of sub-paragraph (1) or (3) is to be treated as made in the course or furtherance of the business (if it would not otherwise be so treated); and in the case of a business carried on by an individual —
 
@@ -4470,7 +4618,9 @@ FOURTH SCHEDULE
 
 Sections 14(1) and 22
 
-Exempt Supplies
+Part I
+
+EXEMPT SUPPLIES
 
 Finance
 
@@ -4550,6 +4700,14 @@ Finance
 
 [S 692/2011 wef 01/01/2012]
 
+[Act 19 of 2012 wef 01/10/2012]
+
+Investment Precious Metals
+
+1A. The supply of any investment precious metal specified in Part II, other than a supply that is treated as a supply of such goods pursuant to paragraph 2 of the Second Schedule.
+
+[Act 19 of 2012 wef 01/10/2012]
+
 Land
 
 2. The grant, assignment or surrender of any interest in or right over land of any of the following descriptions or of any licence to occupy such land:
@@ -4562,9 +4720,101 @@ Land
 
 [20/2010 wef 01/01/2011]
 
+Part II
+
+EXEMPT IMPORTS
+
+Investment Precious Metals
+
+1. Subject to paragraph 2, the following precious metals:
+
+(a) gold which —
+
+(i) is in the form of a bar, an ingot or a wafer;
+
+(ii) is of a purity of at least 99.5%; and
+
+(iii) possesses investment characteristics;
+
+(b) silver which —
+
+(i) is in the form of a bar, an ingot or a wafer;
+
+(ii) is of a purity of at least 99.9%; and
+
+(iii) possesses investment characteristics;
+
+(c) platinum which —
+
+(i) is in the form of a bar, an ingot or a wafer;
+
+(ii) is of a purity of at least 99%; and
+
+(iii) possesses investment characteristics;
+
+(d) any of the following gold coins which is or was legal tender in its country of origin, and is of a purity of at least 99.5%:
+
+(i) America Buffalo coin;
+
+(ii) Australia Kangaroo Nugget coin;
+
+(iii) Australia Lunar coin;
+
+(iv) Austria Philharmoniker coin;
+
+(v) Canada Maple Leaf coin;
+
+(vi) China Panda coin;
+
+(vii) Malaysia Kijang Emas coin;
+
+(viii) Mexico Libertad coin;
+
+(ix) Singapore Lion coin;
+
+(e) any of the following silver coins which is or was legal tender in its country of origin, and is of a purity of at least 99.9%:
+
+(i) America Eagle coin;
+
+(ii) Australia Kookaburra coin;
+
+(iii) Australia Koala coin;
+
+(iv) Australia Lunar coin;
+
+(v) Austria Philharmoniker coin;
+
+(vi) Canada Maple Leaf coin;
+
+(vii) China Panda coin;
+
+(viii) Mexico Libertad coin;
+
+(f) any of the following platinum coins which is or was legal tender in its country of origin, and is of a purity of at least 99%:
+
+(i) America Eagle coin;
+
+(ii) Australia Koala coin;
+
+(iii) Australia Platypus coin;
+
+(iv) Canada Maple Leaf coin.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+[S 496/2012 wef 01/10/2012]
+
+2. Paragraph 1(d), (e) and (f) shall not include any coin that is a proof coin, a numismatic coin or a collector’s coin.
+
+[S 496/2012 wef 01/10/2012]
+
+Part III
+
+INTERPRETATION AND APPLICATION
+
 Interpretation
 
-3. In this Schedule —
+1. In this Schedule —
 
 “business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
 
@@ -4618,7 +4868,7 @@ and the money provided by the provider of the financing for the joint purchase o
 
 “Islamic debt securities arrangement” means an arrangement under which —
 
-(a) immovable properties in Singapore, or all or part of the beneficial interest therein, are acquired by a special purpose vehicle from a person (referred to in paragraph 3 as the originator) where the acquisition is funded through the issuance of Islamic debt securities by the special purpose vehicle;
+(a) immovable properties in Singapore, or all or part of the beneficial interest therein, are acquired by a special purpose vehicle from a person (referred to in this definition as the originator) where the acquisition is funded through the issuance of Islamic debt securities by the special purpose vehicle;
 
 (b) the immovable properties are leased by the special purpose vehicle to the originator; and
 
@@ -4626,11 +4876,15 @@ and the money provided by the provider of the financing for the joint purchase o
 
 [S 567/2010 wef 01/10/2010]
 
+[Act 19 of 2012 wef 01/10/2012]
+
 “life insurance contract” means a contract for the provision of a life policy within the meaning of the Insurance Act (Cap. 142);
 
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
-“non-residential property” means any land, building, flat or tenement other than any land, building, flat or tenement described in paragraph 2(a), (b) and (c);
+“non-residential property” means any land, building, flat or tenement other than any land, building, flat or tenement described in paragraph 2(a), (b) and (c) of Part I;
+
+[Act 19 of 2012 wef 01/10/2012]
 
 “qualifying Islamic financial arrangement” means an arrangement which is endorsed by anyShari’ahcouncil or body or by any committee formed for the purpose of providing guidance on compliance withShari’ahlaw, and —
 
@@ -4720,9 +4974,11 @@ as the case may be;
 
 [S 692/2011 wef 01/01/2012]
 
-“special purpose vehicle” means a company whose business is to acquire the originator’s immovable properties in Singapore, lease them back to the originator and transfer such properties to the originator upon the maturity of the Islamic debt securities;
+“special purpose vehicle”, in relation to an Islamic debt securities arrangement, means a company whose business is to acquire the originator’s immovable properties in Singapore, lease them back to the originator and transfer such properties to the originator upon the maturity of the Islamic debt securities;
 
 [S 567/2010 wef 01/10/2010]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 “specified CPF scheme” means a scheme established under the Central Provident Fund Act (Cap. 36) that —
 
@@ -4754,13 +5010,45 @@ as the case may be;
 
 [S 567/2010 wef 01/10/2010]
 
+2. In this Schedule, gold, silver or platinum, as the case may be, possesses investment characteristics if —
+
+(a) it is refined (as defined in section 37B(2)) by —
+
+(i) in the case of gold or silver, a refiner who is or was in the “Good Delivery” list of the London Bullion Market Association;
+
+(ii) in the case of platinum, a refiner who is or was in the “Good Delivery” list of the London Platinum and Palladium Market; or
+
+(iii) in any case, a refiner who —
+
+(A) intends to be on the “Good Delivery” list of the London Bullion Market Association or the London Platinum and Palladium Market, as the case may be; and
+
+(B) is endorsed by the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act (Cap. 143B) at the following times:
+
+(BA)
+
+in the case of a supply of investment precious metals, at the time of the supply;
+
+(BB)
+
+in the case of an import of investment precious metals, at the time the investment precious metals are removed from customs control;
+
+(b) it bears a mark or characteristic that is internationally accepted as guaranteeing its quality; and
+
+(c) it trades at a price based on the spot price of gold, silver or platinum, as the case may be.
+
+[Act 19 of 2012 wef 01/10/2012]
+
 Application
 
-4.—(1) Paragraph 1 (other than sub-paragraph (q)) and paragraph 2 shall not apply to any services consisting of arranging, broking, underwriting or advising on any of the activities specified therein in return for a brokerage fee, commission or other similar consideration.
+3.—(1) Paragraph 1 (other than sub-paragraph (q)) and paragraph 2 of Part I shall not apply to any services consisting of arranging, broking, underwriting or advising on any of the activities specified therein in return for a brokerage fee, commission or other similar consideration.
 
-(2) Paragraph 1(m), (n) and (o) shall not apply to any supply which section 37 provides are to be disregarded for the purposes of this Act.
+[Act 19 of 2012 wef 01/10/2012]
 
-(3) Paragraph 2 shall not apply to that part of the supply comprising —
+(2) Paragraph 1(m), (n) and (o) of Part I shall not apply to any supply which section 37 provides are to be disregarded for the purposes of this Act.
+
+[Act 19 of 2012 wef 01/10/2012]
+
+(3) Paragraph 2 of Part I shall not apply to that part of the supply comprising —
 
 (a) the sale and lease of any furniture, furnishings, fittings, appliances or effects;
 
@@ -4772,9 +5060,11 @@ Application
 
 [20/2010 wef 01/01/2011]
 
-(4) For the purpose of paragraphs 2(c) and 4(3)(c), the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
+(4) For the purpose of paragraph 3(3)(c) of this Part and paragraph 2(c) of Part I, the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
 
 [20/2010 wef 01/01/2011]
+
+[Act 19 of 2012 wef 01/10/2012]
 
 [UK VAT Act 1983, Sch. 6; NZ GST Act 1985, s. 3 (1)]
 
@@ -5014,6 +5304,39 @@ Part II
 
 [28/2007 wef 01/07/2007]
 
+SIXTH SCHEDULE
+
+Section 6(7)
+
+Disclosure of names and particulars
+
+
+
+
+of persons and places
+
+1. 
+
+Approved warehouses for the purposes of section 21(3)(y) or 21C.
+
+2. 
+
+Taxable persons approved under section 21B(1).
+
+3. 
+
+Taxable persons to whom regulations made under section 27, 27A or 37A apply.
+
+4. 
+
+Approved persons referred to in section 37B.
+
+5. 
+
+Refiners referred to in paragraph 2(a)(iii)(B) of Part III of the Fourth Schedule.
+
+[Act 19 of 2012 wef 01/10/2012]
+
 ## LEGISLATIVE SOURCE KEY
 
 Goods and Services Tax Act
@@ -5172,7 +5495,7 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2003|
 |15.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||(Consequential amendments made by)||
-||Date of First Reading|10.03.2003|
+||Date of First Reading|10.3.2003|
 |||(Bill No. 6/2003 published on 11.3.2003)|
 ||Date of Second and Third Readings|21.3.2003|
 ||Date of commencement|1.4.2003|
