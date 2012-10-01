@@ -50,8 +50,6 @@
 
 - [15 Power of Authority to revoke exemption](#Power-of-Authority-to-revoke-exemption)
 
-[**Division 2  Regulation of Approved Exchanges**](#Division-2--Regulation-of-Approved-Exchanges)
-
 [**Subdivision (1) — Obligations of approved exchanges**](#Subdivision-1-—-Obligations-of-approved-exchanges)
 
 - [16 General obligations](#General-obligations)
@@ -161,8 +159,6 @@
 - [57 General criteria to be taken into account by Authority](#General-criteria-to-be-taken-into-account-by-Authority)
 
 - [58 Withdrawal of designation](#Withdrawal-of-designation)
-
-[**Division 3  Regulation of Designated Clearing Houses**](#Division-3--Regulation-of-Designated-Clearing-Houses)
 
 [**Subdivision (1) — Obligations of designated clearing houses**](#Subdivision-1-—-Obligations-of-designated-clearing-houses)
 
@@ -308,57 +304,99 @@
 
 - [81ZL Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
 
-[**Part IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE**](#Part-IV)
+[**Part IV HOLDERS OF CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVES**](#Part-IV)
 
-[**Division 1  Licensing**](#Division-1--Licensing)
+[**Division 1  Capital Markets Services Licence**](#Division-1--Capital-Markets-Services-Licence)
 
 - [82 Need for capital markets services licence](#Need-for-capital-markets-services-licence)
 
-- [83 Need for representative’s licence](#Need-for-representative’s-licence)
+- [83 (Repealed)](#Repealed)
 
-- [84 Application for grant or renewal of licence](#Application-for-grant-or-renewal-of-licence)
+- [84 Application for grant of capital markets services licence](#Application-for-grant-of-capital-markets-services-licence)
 
 - [85 Licence fee](#Licence-fee)
 
 - [86 Grant of capital markets services licence](#Grant-of-capital-markets-services-licence)
 
-- [87 Grant of representative’s licence](#Grant-of-representative’s-licence)
+- [87 (Repealed)](#Repealed)
 
-- [87A Temporary representative’s licence](#Temporary-representative’s-licence)
+- [87A (Repealed)](#Repealed)
 
 - [88 Power of Authority to impose conditions or restrictions](#Power-of-Authority-to-impose-conditions-or-restrictions)
 
-- [89 Period of licence](#Period-of-licence)
+- [89 (Repealed)](#Repealed)
 
-- [90 Variation of licence](#Variation-of-licence)
+- [90 Variation of capital markets services licence](#Variation-of-capital-markets-services-licence)
 
 - [91 Deposit to be lodged in respect of capital markets services licence](#Deposit-to-be-lodged-in-respect-of-capital-markets-services-licence)
 
-- [92 False statements in relation to application for grant, renewal or variation of licence](#False-statements-in-relation-to-application-for-grant-renewal-or-variation-of-licence)
+- [92 False statements in relation to application for grant or variation of capital markets services licence](#False-statements-in-relation-to-application-for-grant-or-variation-of-capital-markets-services-licence)
 
 - [93 Notification of change of particulars](#Notification-of-change-of-particulars)
 
-- [94 Register of licensed persons](#Register-of-licensed-persons)
+- [94 Records of holders of capital markets services licence](#Records-of-holders-of-capital-markets-services-licence)
 
-- [95 Lapsing, revocation and suspension of licence](#Lapsing-revocation-and-suspension-of-licence)
+- [95 Lapsing, revocation and suspension of capital markets services licence](#Lapsing-revocation-and-suspension-of-capital-markets-services-licence)
 
 - [96 Approval of chief executive officer and director of holder of capital markets services licence](#Approval-of-chief-executive-officer-and-director-of-holder-of-capital-markets-services-licence)
 
 - [97 Removal of officer of holder of capital markets services licence](#Removal-of-officer-of-holder-of-capital-markets-services-licence)
 
-- [98 Appeals](#Appeals)
+- [97A Control of take-over of holder of capital markets services licence](#Control-of-take-over-of-holder-of-capital-markets-services-licence)
 
-[**Division 2  Exemptions**](#Division-2--Exemptions)
+- [97B Objection to control of holder of capital markets services licence](#Objection-to-control-of-holder-of-capital-markets-services-licence)
+
+- [98 Appeals](#Appeals)
 
 - [99 Exemptions from requirement to hold capital markets services licence](#Exemptions-from-requirement-to-hold-capital-markets-services-licence)
 
 - [99A Annual fees payable by exempt person and certain representatives](#Annual-fees-payable-by-exempt-person-and-certain-representatives)
+
+[**Division 2  Representatives**](#Division-2--Representatives)
+
+- [99B Acting as representative](#Acting-as-representative)
+
+- [99C Records and public register of representatives](#Records-and-public-register-of-representatives)
+
+- [99D Appointed representative](#Appointed-representative)
+
+- [99E Provisional representative](#Provisional-representative)
+
+- [99F Temporary representative](#Temporary-representative)
+
+- [99G Offences](#Offences)
+
+- [99H Lodgment of documents](#Lodgment-of-documents)
+
+- [99I Exemption](#Exemption)
+
+- [99J Representative to act for only one principal](#Representative-to-act-for-only-one-principal)
+
+- [99K Lodgment and fees](#Lodgment-and-fees)
+
+- [99L Additional regulated activity](#Additional-regulated-activity)
+
+- [99M Power of Authority to refuse entry or revoke or suspend status of appointed, provisional or temporary representative](#Power-of-Authority-to-refuse-entry-or-revoke-or-suspend-status-of-appointed-provisional-or-temporary-representative)
+
+- [99N Power of Authority to impose conditions or restrictions](#Power-of-Authority-to-impose-conditions-or-restrictions)
+
+- [99O False statements in relation to notification of appointed, provisional or temporary representative](#False-statements-in-relation-to-notification-of-appointed-provisional-or-temporary-representative)
+
+- [99P Appeals](#Appeals)
 
 [**Division 3  General**](#Division-3--General)
 
 - [100 Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
 
 - [101 Power of Authority to issue written directions](#Power-of-Authority-to-issue-written-directions)
+
+- [101A Power of Authority to make prohibition orders](#Power-of-Authority-to-make-prohibition-orders)
+
+- [101B Effect of prohibition orders](#Effect-of-prohibition-orders)
+
+- [101C Variation or revocation of prohibition orders](#Variation-or-revocation-of-prohibition-orders)
+
+- [101D Date and effect of prohibition orders](#Date-and-effect-of-prohibition-orders)
 
 [**Part V BOOKS, CUSTOMER ASSETS AND AUDIT**](#Part-V)
 
@@ -512,8 +550,6 @@
 
 - [151 Power of Minister to appoint inspectors](#Power-of-Minister-to-appoint-inspectors)
 
-[**Division 3  Investigative Powers of Authority**](#Division-3--Investigative-Powers-of-Authority)
-
 [**Subdivision (1) — General**](#Subdivision-1-—-General)
 
 - [152 Investigation by Authority](#Investigation-by-Authority)
@@ -521,8 +557,6 @@
 - [152A Confidentiality of investigation reports](#Confidentiality-of-investigation-reports)
 
 - [153 Self-incrimination and savings for advocates and solicitors](#Self-incrimination-and-savings-for-advocates-and-solicitors)
-
-[**Subdivision (2) — Examination of persons**](#Subdivision-2-—-Examination-of-persons)
 
 - [154 Requirement to appear for examination](#Requirement-to-appear-for-examination)
 
@@ -716,6 +750,42 @@
 
 - [236 Civil liability in event of conviction, etc.](#Civil-liability-in-event-of-conviction-etc)
 
+[**Division 5  Attributed Liability**](#Division-5--Attributed-Liability)
+
+- [236A Interpretation of this Division](#Interpretation-of-this-Division)
+
+[**Subdivision (1) — Corporations**](#Subdivision-1-—-Corporations)
+
+- [236B Liability of corporation when employee or officer commits contravention with consent or connivance of corporation](#Liability-of-corporation-when-employee-or-officer-commits-contravention-with-consent-or-connivance-of-corporation)
+
+- [236C Civil penalty when corporation fails to prevent or detect contravention by employee or officer](#Civil-penalty-when-corporation-fails-to-prevent-or-detect-contravention-by-employee-or-officer)
+
+- [236D Civil liability of corporation for contravention by employee or officer](#Civil-liability-of-corporation-for-contravention-by-employee-or-officer)
+
+[**Subdivision (2) — Partnerships and limited liability partnerships**](#Subdivision-2)
+
+- [236E Liability of partnership and limited liability partnership when partner, etc., commits contravention with consent or connivance](#Liability-of-partnership-and-limited-liability-partnership-when-partner-etc-commits-contravention-with-consent-or-connivance)
+
+- [236F Civil penalty when partnership or limited liability partnership fails to prevent or detect contravention by partner, etc.](#Civil-penalty-when-partnership-or-limited-liability-partnership-fails-to-prevent-or-detect-contravention-by-partner-etc)
+
+- [236G Civil liability of partnership or limited liability partnership for contravention by partner, etc.](#Civil-liability-of-partnership-or-limited-liability-partnership-for-contravention-by-partner-etc)
+
+[**Subdivision (3) — Officers, partners, etc., of entities**](#Subdivision-3)
+
+- [236H Civil penalty against officer of corporation, etc.](#Civil-penalty-against-officer-of-corporation-etc)
+
+- [236I Civil liability of officer of corporation, etc.](#Civil-liability-of-officer-of-corporation-etc)
+
+[**Subdivision (4) — General**](#Subdivision-4-—-General)
+
+- [236J Actions not to commence or stayed in certain situations](#Actions-not-to-commence-or-stayed-in-certain-situations)
+
+- [236K Civil liability in event of conviction or civil penalty](#Civil-liability-in-event-of-conviction-or-civil-penalty)
+
+- [236L Order for disgorgement against third party](#Order-for-disgorgement-against-third-party)
+
+[**Division 6  Miscellaneous**](#Division-6--Miscellaneous)
+
 - [237 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
 - [238 Rules of Court](#Rules-of-Court)
@@ -731,8 +801,6 @@
 - [239A Authority may disapply this Division to certain offers](#Authority-may-disapply-this-Division-to-certain-offers)
 
 - [239B Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
-
-[**Subdivision (2) — Prospectus requirements**](#Subdivision-2-—-Prospectus-requirements)
 
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -1455,6 +1523,10 @@ and includes a futures option transaction, but does not include such contract or
 “quote”, in relation to securities and a securities market of an approved exchange or of a recognised market operator, means to display or provide, on the securities market of the approved exchange or recognised market operator, information concerning the particular prices or particular consideration at which offers or invitations to sell, purchase or exchange issued or prescribed securities are made on that securities market, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the making or acceptance of offers to sell, purchase or exchange issued or prescribed securities;
 
 “real estate investment trust management” has the meaning given to it in the Second Schedule;
+
+“recognised business trust” means a business trust that is recognised by the Authority under section 282TA(1);
+
+[2/2009 wef 01/10/2012]
 
 “recognised market operator” means a corporation that is recognised by the Authority under section 8(2) as a recognised market operator;
 
@@ -2379,10 +2451,6 @@ Subdivision (2) — Exempt market operator
 (9) The Authority shall give notice in theGazetteof any revocation of an exemption referred to in subsection (1).
 
 [1/2005]
-
-Division 2 —
-
-Regulation of Approved Exchanges
 
 Subdivision (1) — Obligations of approved exchanges
 
@@ -3708,10 +3776,6 @@ Designation of Persons Operating Clearing Facilities
 
 [1/2005]
 
-Division 3 —
-
-Regulation of Designated Clearing Houses
-
 Subdivision (1) — Obligations of designated clearing houses
 
 ### General obligations
@@ -5012,9 +5076,9 @@ then, notwithstanding any other written law or rule of law, a participant to who
 
 (b) any person acting on behalf of a person referred to in paragraph (a), including —
 
-(i) any member of the board of directors of the last- mentioned person; and
+(i) any member of the board of directors of the last-mentioned person; and
 
-(ii) any member of any committee established by the last- mentioned person,
+(ii) any member of any committee established by the last-mentioned person,
 
 in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of that obligation.
 
@@ -5702,11 +5766,11 @@ issue directions by notice in writing either of a general or specific nature to 
 
 ## PART IV
 
-CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE
+HOLDERS OF CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVES
 
 Division 1 —
 
-Licensing
+Capital Markets Services Licence
 
 ### Need for capital markets services licence
 
@@ -5718,105 +5782,49 @@ Licensing
 
 [SIA, s. 24 and s. 26; FTA, s. 11]
 
-### Need for representative’s licence
+83\. [Deleted by Act 2/2009 wef 26/11/2010]
 
-83\.—(1) Subject to subsection (2), no person shall act as a representative in respect of any regulated activity or hold himself out as doing so, unless —
+### Application for grant of capital markets services licence
 
-(a) he is the holder of a representative’s licence for that regulated activity; and
+84\.—(1) An application for the grant of a capital markets services licence shall be made to the Authority in such form and manner as the Authority may prescribe.
 
-(b) when so acting or holding himself out, he is doing so for the holder of a capital markets services licence which supported his application for, or for renewal of, the representative’s licence, as the case may be, subject to regulations made under this Act.
-
-[1/2005]
-
-(2) Subsection (1) shall not apply —
-
-(a) to any person who acts as a representative of an exempt person, in so far as —
-
-(i) the type and scope of regulated activity carried out by the first-mentioned person are within the type and scope of, or are the same as, those carried out by the exempt person (in his capacity as an exempt person); and
-
-(ii) the manner in which the first-mentioned person carries out the regulated activity referred to in subsection (1) is the same as the manner in which the exempt person (in his capacity as an exempt person) carries out the regulated activity; and
-
-(b) to any person or class of persons whom the Authority may exempt from holding a representative’s licence in respect of any regulated activity.
-
-[1/2005]
-
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
-
-[SIA, s. 25 and s. 27; FTA, s. 12]
-
-### Application for grant or renewal of licence
-
-84\.—(1) An application for the grant or renewal of a licence shall be —
-
-(a) made to the Authority in such form and manner as the Authority may prescribe; and
-
-(b) in the case of an application for renewal of a licence, made not later than one month or such other period as the Authority may prescribe, before the expiry of the licence.
+[2/2009 wef 26/11/2010]
 
 (2) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
 
 [1/2005]
 
-(3) An application for the grant or renewal of a licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
+(3) An application for the grant of a capital markets services licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
 
 [2/2009 wef 26/11/2010]
 
-(4) An application for the grant of a representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by such person, who is the holder of or who has applied for a capital markets services licence for that regulated activity, as may be specified by the Authority.
-
-[16/2003]
-
-(5) An application for the renewal of a representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by such person, who is the holder of a capital markets services licence for that regulated activity, as may be specified by the Authority.
-
-[16/2003]
-
-(5A) An application for the grant of a representative’s licence in respect of any regulated activity shall be deemed to be withdrawn with effect from the date on which the person who supported the application —
-
-(a) withdraws his support in writing;
-
-(b) withdraws his application for a capital markets services licence in respect of that regulated activity; or
-
-(c) has his application for a capital markets services licence in respect of that regulated activity refused by the Authority.
-
-[16/2003]
-
-(5B) An application for the renewal of a representative’s licence in respect of any regulated activity shall be deemed to be withdrawn with effect from the date on which the person who supported the application withdraws his support in writing.
-
-[16/2003]
-
-(6) Where a person submits an application for renewal of his licence before the expiration of his licence but after the period referred to in subsection (1), the Authority may impose a late renewal fee not exceeding $100 for every day or part thereof that the renewal is late, subject to a maximum of $3,000.
-
-(7) Where a person would be guilty of an offence for not being the holder of a particular licence, no proceedings shall be instituted against him for the offence for the period from the expiry of that licence until that licence is renewed or his application for renewal is withdrawn or refused if before the expiration of that licence he has applied for renewal of that licence and he complies with the requirements of this Act as though he were the holder of that licence.
-
-(8) In this section, “licence” and “representative’s licence” do not include a temporary representative’s licence.
-
-[16/2003]
-
-[SIA, s. 28; FTA, s. 13]
-
 ### Licence fee
 
-85\.—(1) A licensed person shall pay such licence fee in respect of each regulated activity as may be prescribed by the Authority.
+85\.—(1) The holder of a capital markets services licence shall on a yearly basis on such date as the Authority may specify pay such licence fee for each regulated activity to which the licence relates as the Authority may prescribe.
+
+[2/2009 wef 26/11/2010]
 
 (2) Any licence fee paid to the Authority in respect of any regulated activity shall not be refunded if —
 
 (a) the licence is revoked or suspended, or lapses during the period to which the licence fee relates;
 
-(b) the licence fee is paid in relation to an application for the renewal of a licence and such application is withdrawn after the date on which, but for its renewal, the licence would have expired;
+(b) [Deleted by Act 2/2009 wef 26/11/2010]
 
-(c) the licensed person —
+(c) the holder of a capital markets services licence ceases to carry on business in that regulated activity during the period to which the licence fee relates; or
 
-(i) being the holder of a capital markets services licence, ceases to carry on business in that regulated activity; or
+[2/2009 wef 26/11/2010]
 
-(ii) being a representative, ceases to act as a representative in respect of that regulated activity,
+(d) a prohibition order has been made against the holder of a capital markets services licence under section 101A.
 
-during the period to which the licence fee relates; or
-
-(d) a prohibition order has been made against the licensed person under section 95.
-
-[1/2005]
+[2/2009 wef 26/11/2010]
 
 (3) Subject to subsection (2), the Authority may, where it considers appropriate, refund the whole or part of any licence fee paid to it.
 
 [SIA, s. 28; FTA, s. 13]
+
+(4) Where the holder of a capital markets services licence fails to pay the licence fee by the date on which such fee is due, the Authority may impose a late payment fee of a prescribed amount for every day or part thereof that the payment is late and both fees shall be recoverable by the Authority as a judgment debt.
+
+[2/2009 wef 26/11/2010]
 
 ### Grant of capital markets services licence
 
@@ -5828,7 +5836,7 @@ during the period to which the licence fee relates; or
 
 [1/2005]
 
-(4) Subject to regulations made under this Act, where an application is made for the grant or renewal of a capital markets services licence, the Authority may refuse the application if —
+(4) Subject to regulations made under this Act, where an application is made for the grant of a capital markets services licence, the Authority may refuse the application if —
 
 (a) the applicant has not provided the Authority with such information or documents relating to it or any person employed by or associated with it for the purposes of its business, and to any circumstances likely to affect its manner of conducting business, as the Authority may require;
 
@@ -5864,237 +5872,87 @@ during the period to which the licence fee relates; or
 
 (ii) reflect discredit on the manner of conducting the business of the applicant or its substantial shareholders;
 
-(m) the Authority has reason to believe that the applicant, or any of its officers or employees, will not perform the functions for which the applicant seeks to be licensed, efficiently, honestly or fairly; or
+(m) the Authority has reason to believe that the applicant, or any of its officers or employees, will not perform the functions for which the applicant seeks to be licensed, efficiently, honestly or fairly;
 
-(n) the Authority is of the opinion that it would be contrary to the interests of the public to grant or renew the licence .
+[2/2009 wef 26/11/2010]
+
+(n) the Authority is of the opinion that it would be contrary to the interests of the public to grant the licence; or
+
+[2/2009 wef 26/11/2010]
 
 [16/2003; 1/2005]
 
-(5) Subject to subsection (6), the Authority shall not refuse an application for a grant or renewal of a capital markets services licence without giving the applicant an opportunity to be heard.
+(o) a prohibition order under section 101A has been made by the Authority, and remains in force, against the applicant.
+
+[2/2009 wef 26/11/2010]
+
+(5) Subject to subsection (6), the Authority shall not refuse an application for a grant of a capital markets services licence without giving the applicant an opportunity to be heard.
+
+[2/2009 wef 26/11/2010]
 
 [1/2005]
 
-(6) The Authority may refuse an application for the grant or renewal of a capital markets services licence on any of the following grounds without giving the applicant an opportunity to be heard:
+(6) The Authority may refuse an application for the grant of a capital markets services licence on any of the following grounds without giving the applicant an opportunity to be heard:
 
 (a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
 (b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
 
-(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
+
+[2/2009 wef 26/11/2010]
 
 [16/2003]
+
+(d) a prohibition order under section 101A has been made by the Authority, and remains in force, against the applicant.
+
+[2/2009 wef 26/11/2010]
 
 [SIA, s. 29; FTA, s. 14 and s. 24]
 
-### Grant of representative’s licence
+87\. [Deleted by Act 2/2009 wef 26/11/2010]
 
-87\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a representative’s licence to act as a representative in respect of one or more regulated activities.
-
-[16/2003; 1/2005]
-
-(2) In granting a representative’s licence, the Authority shall —
-
-(a) specify the regulated activity or activities to which the licence relates, described in such manner as the Authority considers appropriate; and
-
-(b) relate the licence to the holder of a capital markets services licence which supported that application for a representative’s licence.
-
-[16/2003]
-
-(3) Subject to regulations made under this Act, the Authority may refuse an application for the grant or renewal of a representative’s licence if —
-
-(a) the applicant has not provided the Authority with such information or documents relating to him as the Authority may require;
-
-(aa) any information or document that is furnished by the applicant to the Authority is false or misleading;
-
-(b) the applicant is an undischarged bankrupt whether in Singapore or elsewhere;
-
-(c) execution against the applicant in respect of a judgment debt has been returned unsatisfied in whole or in part;
-
-(d) the applicant has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
-
-(e) the applicant —
-
-(i) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
-
-(ii) has been convicted of an offence under this Act;
-
-(f) the Authority is not satisfied as to the educational or other qualification or experience of the applicant having regard to the nature of the duties he is to perform in connection with the holding of the licence;
-
-(g) the applicant fails to satisfy the Authority that he is a fit and proper person to be licensed;
-
-(h) the Authority has reason to believe that the applicant may not be able to act in the best interests of the subscribers or customers of a holder of a capital markets services licence having regard to his reputation, character, financial integrity and reliability;
-
-(i) the Authority is not satisfied as to the financial standing of the applicant;
-
-(j) the Authority is not satisfied as to the record of past performance or expertise of the applicant having regard to the nature of the duties which he may perform in connection with the holding of the licence;
-
-(k) there are other circumstances which are likely to lead to the improper conduct of business by, or reflect discredit on the manner of conducting the business of, the applicant or any person employed by or associated with him for the purpose of his business;
-
-(l) the applicant is in arrears in the payment of such contributions on his own behalf to the Central Provident Fund as are required under the Central Provident Fund Act (Cap. 36);
-
-(m) the Authority has reason to believe that the applicant will not perform the functions for which he seeks to be licensed, efficiently, honestly or fairly; or
-
-(n) the Authority is of the opinion that it would be contrary to the interests of the public to grant or renew the licence.
-
-[16/2003; 1/2005]
-
-(4) Subject to subsection (5), the Authority shall not refuse an application for the grant or renewal of a representative’s licence without giving the applicant an opportunity to be heard.
-
-(5) The Authority may refuse an application for the grant or renewal of a representative’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
-
-(a) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(b) the applicant has been convicted, whether in Singapore or elsewhere, of an offence —
-
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
-
-(ii) punishable with imprisonment for a term of 3 months or more.
-
-[16/2003]
-
-(6) In this section, “representative’s licence” does not include a temporary representative’s licence.
-
-[16/2003]
-
-[SIA, s. 30; FTA, s. 14]
-
-### Temporary representative’s licence
-
-87A\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a temporary representative’s licence to act as a representative in respect of one or more regulated activities.
-
-[16/2003; 1/2005]
-
-(2) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
-
-[1/2005]
-
-(3) An application for the grant of a temporary representative’s licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
-
-[16/2003]
-
-(4) An application for the grant of a temporary representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by a holder of a capital markets services licence for that regulated activity.
-
-[16/2003]
-
-(5) An application for the grant of a temporary representative’s licence in respect of any regulated activity shall be deemed to be withdrawn with effect from the date the holder of a capital markets services licence which supported the application withdraws its support in writing.
-
-[16/2003]
-
-(6) The Authority shall not grant a temporary representative’s licence to any applicant —
-
-(a) if the applicant has held a temporary representative’s licence for a period which exceeds, or for periods which together exceed, the prescribed number of months within the prescribed period; or
-
-(b) if the holder of a capital markets services licence which supported the application fails to furnish to the Authority, in respect of any regulated activity to be carried out by the applicant for the holder, an undertaking in such form and manner as may be prescribed by the Authority.
-
-[16/2003]
-
-(7) In granting a temporary representative’s licence, the Authority —
-
-(a) shall specify the regulated activity or activities to which the licence relates, described in such manner as the Authority considers appropriate; and
-
-(b) shall relate the licence to the holder of a capital markets services licence which supported that application for a temporary representative’s licence.
-
-[16/2003]
-
-(8) A temporary representative’s licence shall be in force for a period of 3 months from the date of its issue under this Act, or such other period as the Authority may specify in writing to the holder of the temporary representative’s licence.
-
-[16/2003]
-
-(9) A temporary representative’s licence shall not be renewable.
-
-[16/2003]
-
-(10) Subject to regulations made under this Act, the Authority may refuse an application for the grant of a temporary representative’s licence on any of the grounds referred to in section 87(3)(a) to (n).
-
-[16/2003]
-
-(11) Subject to subsection (12), the Authority shall not refuse an application for the grant of a temporary representative’s licence without giving the applicant an opportunity to be heard.
-
-[16/2003]
-
-(12) The Authority may refuse an application for the grant of a temporary representative’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
-
-(a) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(b) the applicant has been convicted, whether in Singapore or elsewhere, of an offence —
-
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
-
-(ii) punishable with imprisonment for a term of 3 months or more.
-
-[16/2003]
+87A\. [Deleted by Act 2/2009 wef 26/11/2010]
 
 ### Power of Authority to impose conditions or restrictions
 
-88\.—(1) The Authority may grant or renew a licence subject to such conditions or restrictions as it thinks fit.
+88\.—(1) The Authority may grant a capital markets services licence subject to such conditions or restrictions as it thinks fit.
 
 [2/2009 wef 26/11/2010]
 
-(2) The Authority may, at any time, by notice in writing to a licensed person, vary any condition or restriction or impose such further condition or restriction as it may think fit.
+(2) The Authority may, at any time, by notice in writing to a holder of a capital markets services licence, vary any condition or restriction or impose such further condition or restriction as it may think fit.
 
 [2/2009 wef 26/11/2010]
 
-(3) Any person who contravenes any condition or restriction in his licence shall be guilty of an offence.
+(3) Any person who contravenes any condition or restriction in its licence shall be guilty of an offence.
 
 [2/2009 wef 26/11/2010]
 
 [SIA, s. 33; FTA, s. 15]
 
-### Period of licence
+89\. [Deleted by Act 2/2009 wef 26/11/2010]
 
-89\.—(1) Subject to subsection (2), a licence shall be in force for a period of 3 years or such other period as the Authority may specify in writing to the licensed person, from the date of its issue under this Act.
+### Variation of capital markets services licence
 
-(2) A licence that has been renewed in accordance with the provisions of this Part shall continue in force for a period of 3 years or such other period as the Authority may specify in writing to the licensed person, from the date immediately following that on which, but for its renewal, it would have expired.
+90\.—(1) The Authority may, on the application of the holder of a capital markets services licence, vary its licence by adding a regulated activity to those already specified in the licence.
 
-(3) In this section —
-
-“licence” does not include a temporary representative’s licence;
-
-“licensed person” does not include a holder of a temporary representative’s licence.
-
-[16/2003]
-
-[SIA, s. 35; FTA, s. 16]
-
-### Variation of licence
-
-90\.—(1) The Authority may, on the application of a licensed person, vary his licence by adding a regulated activity to those already specified in the licence.
-
-[16/2003]
+[2/2009 wef 26/11/2010]
 
 (1A) The Authority may require an applicant to supply the Authority with such information or documents as it considers necessary in relation to the application.
 
 [16/2003]
 
-(2) An application under subsection (1) shall —
+(2) An application under subsection (1) shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
 
-(a) be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority; and
-
-(b) if made in respect of a representative’s licence, be supported in the prescribed manner by such person, who is —
-
-(i) the holder of a capital markets services licence for that regulated activity; or
-
-(ii) the holder of a capital markets services licence which has applied under subsection (1) to add to its licence that regulated activity,
-
-as may be specified by the Authority.
-
-[16/2003]
-
-(2A) An application under subsection (1), if made in respect of a representative’s licence, shall be deemed to be withdrawn with effect from the date on which the holder of a capital markets services licence which supported the application —
-
-(a) withdraws its support in writing;
-
-(b) withdraws its application to add to its licence that regulated activity; or
-
-(c) has its application to add to its licence that regulated activity refused by the Authority.
-
-[16/2003]
+[2/2009 wef 26/11/2010]
 
 (3) The Authority may —
 
 (a) approve the application subject to such conditions or restrictions as the Authority thinks fit; or
 
-(b) refuse the application on any of the grounds set out in section 86(4), 87(3) or 87A(10).
+(b) refuse the application on any of the grounds set out in section 86(4).
+
+[2/2009 wef 26/11/2010]
 
 [16/2003]
 
@@ -6104,21 +5962,25 @@ as may be specified by the Authority.
 
 ### Deposit to be lodged in respect of capital markets services licence
 
-91\.—(1) The Authority may, in granting, renewing or varying a capital markets services licence, require the applicant to lodge with the Authority, at the time of its application and in such manner as the Authority may determine, a deposit of such amount in cash or in such other form as the Authority may prescribe in respect of that licence.
+91\.—(1) The Authority may, in granting or varying a capital markets services licence, require the applicant to lodge with the Authority, at the time of its application and in such manner as the Authority may determine, a deposit of such amount in cash or in such other form as the Authority may prescribe in respect of that licence.
+
+[2/2009 wef 26/11/2010]
 
 (2) The Authority may prescribe the circumstances and purposes for the use of the deposit.
 
 [SIA, s. 34]
 
-### False statements in relation to application for grant, renewal or variation of licence
+### False statements in relation to application for grant or variation of capital markets services licence
 
-92\. Any person who, in connection with an application for the grant, renewal or variation of a licence —
+92\. Any person who, in connection with an application for the grant or variation of a capital markets services licence —
 
 (a) without reasonable excuse, makes a statement which is false or misleading in a material particular; or
 
 (b) without reasonable excuse, omits to state any matter or thing without which the application is misleading in a material respect,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[2/2009 wef 26/11/2010]
 
 [1/2005]
 
@@ -6128,169 +5990,131 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 93\.—(1) Where —
 
-(a) the holder of a capital markets services licence ceases to carry on business in any of the regulated activities to which the licence relates;
+(a) the holder of a capital markets services licence ceases to carry on business in any of the regulated activities to which the licence relates; or
 
-(b) the holder of a representative’s licence ceases to act as a representative of the principal in relation to whom the representative’s licence was issued; or
+(b) a change occurs in any matter records of which are required by section 94 to be kept in relation to the holder,
 
-(c) a change occurs in any matter particulars of which are required by section 94 to be entered in the register of licensed persons in relation to the licensed person,
+the holder shall, not later than 14 days after the occurrence of the event, furnish particulars of the event to the Authority in the prescribed form and manner.
 
-the licensed person shall, not later than 14 days after the occurrence of the event, furnish particulars of the event to the Authority in the prescribed form and manner.
+[2/2009 wef 26/11/2010]
 
-(2) Where a licensed person ceases to carry on, or ceases to act as a representative in carrying on, business in all the regulated activities to which the licence relates, it shall return the licence to the Authority within 14 days of the date of the cessation.
+(2) Where a holder of a capital markets services licence ceases to carry on business in all the regulated activities to which the licence relates, it shall return the licence to the Authority within 14 days of the date of the cessation.
+
+[2/2009 wef 26/11/2010]
 
 [16/2003]
 
 [SIA, s. 36; FTA, s. 17]
 
-### Register of licensed persons
+### Records of holders of capital markets services licence
 
-94\. The Authority shall keep in such form as it thinks fit a register of licensed persons specifying —
+94\.—(1) The Authority shall keep in such form as it thinks fit records of holders of a capital markets services licence setting out the following information of each holder:
 
-(a) in relation to the holder of a capital markets services licence —
+(a) its name;
 
-(i) its name;
+(b) the address of the principal place of business at which it carries on the business in respect of which the licence is held;
 
-(ii) the address of the principal place of business at which it carries on the business in respect of which the licence is held;
+(c) the regulated activity or activities to which its licence relates;
 
-(iii) the regulated activity or activities to which its licence relates;
+(d) where the business is carried on under a name or style other than the name of the holder of the licence, the name or style under which the business is carried on; and
 
-(iv) where the business is carried on under a name or style other than the name of the holder of the licence, the name or style under which the business is carried on; and
+(e) such other information as may be prescribed.
 
-(v) such other information as may be prescribed;
+(2) The Authority may publish the information referred to in subsection (1) or any part of it in such manner as it considers appropriate.
 
-(b) in relation to the holder of a representative’s licence —
+[2/2009 wef 26/11/2010]
 
-(i) his name;
+### Lapsing, revocation and suspension of capital markets services licence
 
-(ii) the name of his principal in relation to whom the licence was granted;
+95\.—(1) A capital markets services licence shall lapse —
 
-(iii) the regulated activity or activities to which his licence relates;
+(a) if the holder is wound up or otherwise dissolved, whether in Singapore or elsewhere; or
 
-(iv) where the business of his principal is carried on under a name or style, other than the name of the principal, the name or style under which that business is carried on; and
+(b) in the event of such other occurrence or in such other circumstances as may be prescribed.
 
-(v) such other information as may be prescribed.
+(2) The Authority may revoke a capital markets services licence if —
 
-[SIA, s. 37; FTA, s. 19]
+(a) there exists a ground on which the Authority may refuse an application under section 86;
 
-### Lapsing, revocation and suspension of licence
+(b) the holder of the capital markets services licence fails or ceases to carry on business in all the regulated activities for which it was licensed;
 
-95\.—(1) A licence shall lapse —
+(c) the Authority has reason to believe that the holder, or any of its officers or employees, has not performed its or his duties efficiently, honestly or fairly;
 
-(a) in the case of a holder of a capital markets services licence, if the holder is wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(d) the holder has contravened any condition or restriction applicable in respect of its licence, any written direction issued to it by the Authority under this Act, or any provision in this Act;
 
-(b) in the case of a holder of a representative’s licence, if the representative dies; and
+(e) the Authority has reason to believe that the holder is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public;
 
-(c) in the event of such other occurrence or in such other circumstances as may be prescribed.
+(f) the holder has furnished any information or document to the Authority that is false or misleading;
 
-(2) The Authority may revoke a licence —
+(g) the holder fails to pay the licence fee referred to in section 85; or
 
-(a) in the case of a holder of a capital markets services licence, if —
-
-(i) there exists a ground on which the Authority may refuse an application under section 86;
-
-(ii) it fails or ceases to carry on the business in all the regulated activities for which it was licensed;
-
-(iii) the Authority has reason to believe that the holder of the capital markets services licence, or any of its officers or employees, has not performed its duties efficiently, honestly or fairly;
-
-(iv) the holder of the capital markets services licence contravenes any condition or restriction applicable in respect of its licence, any direction issued to it by the Authority under this Act, or any other provision in this Act;
-
-(v) the Authority has reason to believe that the holder of the capital markets services licence is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public; or
-
-(vi) any information or document that is furnished by the holder of the capital markets services licence to the Authority is false or misleading; and
-
-(b) in the case of a representative, if —
-
-(i) there exists a ground on which the Authority may refuse an application under section 87 or 87A (as the case may be);
-
-(ii) he fails or ceases to act as a representative in respect of all the regulated activities for which he was licensed;
-
-(iii) the licence of his principal is revoked;
-
-(iv) the Authority has reason to believe that he has not performed his duties efficiently, honestly or fairly;
-
-(iva) the Authority has reason to believe that the representative is performing his functions in a manner that is contrary to the interests of the public;
-
-(v) he contravenes any condition or restriction applicable in respect of his licence, any direction issued to him by the Authority under this Act or any other provision in this Act; or
-
-(vi) any information or document that is furnished by the representative to the Authority is false or misleading.
-
-[16/2003; 1/2005]
+(h) a prohibition order under section 101A has been made by the Authority, and remains in force, against the holder.
 
 (3) The Authority may, if it considers it desirable to do so —
 
-(a) suspend a licence for a specific period instead of revoking it under subsection (2); and
+(a) suspend a capital markets services licence for a specific period instead of revoking it under subsection (2); and
 
 (b) at any time extend or revoke the suspension.
 
-(4) Subject to subsection (5), the Authority shall not revoke or suspend a licence under subsection (2) or (3) without giving the licensed person an opportunity to be heard.
+(4) Subject to subsection (5), the Authority shall not revoke or suspend a capital markets services licence under subsection (2) or (3) without giving the holder of the licence an opportunity to be heard.
 
-(5) The Authority may revoke or suspend a licence without giving the licensed person an opportunity to be heard —
+(5) The Authority may revoke or suspend a capital markets services licence without giving the holder of the licence an opportunity to be heard, on any of the following grounds:
 
-(a) in the case of a capital markets services licence, on any of the following grounds:
+(a) the holder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(i) the licensed person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, for or in respect of any property of the holder;
 
-(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the licensed person;
+(c) the holder has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
 
-(iii) the licensed person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+(d) a prohibition order under section 101A has been made by the Authority, and remains in force, against the holder.
 
-(b) in the case of a representative’s licence, on any of the following grounds:
+(6) Where the Authority has revoked or suspended a capital markets services licence, the holder of that licence shall —
 
-(i) the licensed person is an undischarged bankrupt, whether in Singapore or elsewhere;
+(a) in the case of a revocation of its licence, immediately inform all its representatives by notice in writing of such revocation, and the representatives who are so informed shall cease to act as representatives of that holder; or
 
-(ii) the licensed person has been convicted, whether in Singapore or elsewhere, of an offence —
+(b) in the case of a suspension of its licence, immediately inform all its representatives by notice in writing of such suspension, and the representatives who are so informed shall cease to act as representatives of that holder during the period of the suspension.
 
-(A) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+(7) Any holder of a capital markets services licence who —
 
-(B) punishable with imprisonment for a term of 3 months or more.
+(a) performs a regulated activity while its licence has lapsed or has been revoked or suspended; or
 
-[16/2003]
-
-(6) Without prejudice to subsections (2) and (3), the Authority may, on any ground described in subsection (2), issue an order prohibiting the licensed person from performing one or more of the regulated activities to which its licence relates and the order may be permanent or for such period as may be determined by the Authority (referred to in this Division as a prohibition order).
-
-(7) The Authority shall not issue an order under subsection (6) without giving the licensed person an opportunity to be heard.
-
-(8) Where the Authority has revoked or suspended a capital markets services licence or issued a prohibition order to a holder of a capital markets services licence, that holder shall —
-
-(a) in the case of a revocation of its licence, immediately inform all its representatives by notice in writing of such revocation and the representatives who are so informed shall cease to act as representatives of that holder;
-
-(b) in the case of a suspension of its licence, immediately inform all its representatives by notice in writing of such suspension and the representatives who are so informed shall cease to act as representatives of that holder during the period of the suspension; and
-
-(c) in the case of a prohibition order, immediately inform all its representatives who perform the regulated activity or activities to which the prohibition order relates, by notice in writing of such prohibition order and the representatives who are so informed shall cease to perform such regulated activity or activities during the period specified in the prohibition order.
-
-(9) Any licensed person who —
-
-(a) performs a regulated activity while its licence has lapsed or has been revoked or suspended, or in breach of a prohibition order; or
-
-(b) contravenes subsection (8),
+(b) contravenes subsection (6),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(10) A lapsing, revocation, suspension or expiry of a licence of a person or the issue of a prohibition order shall not operate so as to —
+(8) A lapsing, revocation or suspension of a capital markets services licence shall not operate so as to —
 
-(a) avoid or affect any agreement, transaction or arrangement relating to the regulated activities entered into by such person, whether the agreement, transaction or arrangement was entered into before or after the revocation, suspension or lapsing of the licence or the issue of the prohibition order, as the case may be; or
+(a) avoid or affect any agreement, transaction or arrangement relating to the regulated activities entered into by the holder of the licence, whether the agreement, transaction or arrangement was entered into before, on or after the revocation, suspension or lapsing of the licence, as the case may be; or
 
 (b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
-[SIA, s. 38; FTA, s. 20 and s. 22]
+[2/2009 wef 26/11/2010]
 
 ### Approval of chief executive officer and director of holder of capital markets services licence
 
-96\.—(1) No holder of a capital markets services licence shall appoint a person as —
+96\.—(1) Subject to subsection (1B), no holder of a capital markets services licence shall —
 
-(a) its chief executive officer;
+(a) appoint a person as its chief executive officer or director; or
 
-(b) its director where, upon appointment, the person resides or is to reside in Singapore, whether or not he is directly responsible for its business in Singapore or any part thereof; or
-
-(c) its director where, upon appointment, the person is directly responsible for its business in Singapore or any part thereof, whether he resides or is to reside in Singapore or elsewhere,
+(b) change the nature of the appointment of a person as a director from one that is non-executive to one that is executive,
 
 unless it has obtained the approval of the Authority.
 
+[2/2009 wef 26/11/2010]
+
+(1A) Where a holder of a capital markets services licence has obtained the approval of the Authority to appoint a person as its chief executive officer or director under subsection (1)(a), the person may be re-appointed as chief executive officer or director, as the case may be, of the holder immediately upon the expiry of the earlier term without the approval of the Authority.
+
+[2/2009 wef 26/11/2010]
+
 [16/2003]
 
-(1A) Where a holder of a capital markets services licence has obtained the approval of the Authority to appoint a person as its chief executive officer or director under subsection (1), the person may be re-appointed as chief executive officer or director, as the case may be, of the holder immediately upon the expiry of the earlier term without the approval of the Authority.
+(1B) Subsection (1) shall not apply to the appointment of a person as a director of a foreign company, or the change in the nature of the appointment of a person as a director of a foreign company if, at the time of the appointment or change, the person —
 
-[16/2003]
+(a) does not reside in Singapore; and
+
+(b) is not directly responsible for its business in Singapore or any part thereof.
+
+[2/2009 wef 26/11/2010]
 
 (2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1), have regard to such criteria as may be prescribed or as may be specified in written directions.
 
@@ -6299,6 +6123,10 @@ unless it has obtained the approval of the Authority.
 (4) The Authority may refuse an application for approval under subsection (1) on any of the following grounds without giving the holder of a capital markets services licence an opportunity to be heard:
 
 (a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(aa) a prohibition order under section 101A has been made by the Authority, and remains in force, against the person;
+
+[2/2009 wef 26/11/2010]
 
 (b) the person has been convicted, whether in Singapore or elsewhere, of an offence —
 
@@ -6309,6 +6137,14 @@ unless it has obtained the approval of the Authority.
 [16/2003]
 
 (5) Where the Authority refuses an application for approval under subsection (1), the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
+
+(6) Without prejudice to the Authority’s power to impose conditions or restrictions under section 88, the Authority may, at any time by notice in writing to the holder of a capital markets services licence, impose on it a condition requiring it to notify the Authority of a change to any specified attribute (such as residence and nature of appointment) of its chief executive officer or director, and vary any such condition.
+
+[2/2009 wef 26/11/2010]
+
+(7) Any person who contravenes any condition imposed under subsection (6) shall be guilty of an offence.
+
+[2/2009 wef 26/11/2010]
 
 ### Removal of officer of holder of capital markets services licence
 
@@ -6324,9 +6160,21 @@ unless it has obtained the approval of the Authority.
 
 (e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
 
-(f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
+(f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly,
+[2/2009 wef 26/11/2010]
+
+(fa) has had a prohibition order under section 101A made by the Authority against him that remains in force;
+
+[2/2009 wef 26/11/2010]
+
+(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
+
+[2/2009 wef 26/11/2010]
+
+(h) is not a fit and proper person for such office,
+
+[2/2009 wef 26/11/2010]
 
 the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors direct by notice in writing that holder to remove the officer from office or employment, and that holder shall comply with such notice notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
 
@@ -6341,6 +6189,10 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 (4) The Authority may direct a holder of a capital markets services licence to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the holder an opportunity to be heard:
 
 (a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(aa) a prohibition order under section 101A has been made by the Authority, and remains in force, against the officer;
+
+[2/2009 wef 26/11/2010]
 
 (b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
 
@@ -6360,15 +6212,111 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
 
+### Control of take-over of holder of capital markets services licence
+
+97A\.—(1) This section applies to all individuals whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
+
+(2) No person shall enter into any arrangement in relation to shares in the holder of a capital markets services licence that is a company by virtue of which he would, if the arrangement is carried out, obtain effective control of the holder, unless he has obtained the prior approval of the Authority to his entering into the arrangement.
+
+(3) An application for the Authority’s approval under subsection (2) shall be made in writing, and the Authority may approve the application if the Authority is satisfied that —
+
+(a) the applicant is a fit and proper person to have effective control of the holder of the capital markets services licence;
+
+(b) having regard to the applicant’s likely influence, the holder of a capital markets services licence is likely to continue to conduct its business prudently and comply with the provisions of this Act and directions made thereunder; and
+
+(c) the applicant satisfies such other criteria as may be prescribed or as may be specified in written directions by the Authority.
+
+(4) Any approval under subsection (3) may be granted to the applicant subject to such conditions as the Authority may determine, including any condition —
+
+(a) restricting his disposal or further acquisition of shares or voting power in the holder of a capital markets services licence; or
+
+(b) restricting his exercise of voting power in the holder of a capital markets services licence,
+
+and the applicant shall comply with such conditions.
+
+(5) Any condition imposed under subsection (4) shall have effect notwithstanding any provision of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the holder of a capital markets services licence.
+
+(6) For the purposes of this section and section 97B —
+
+(a) a reference to a person entering into an arrangement in relation to shares includes —
+
+(i) entering into an agreement or any formal or informal scheme, arrangement or understanding, to acquire those shares;
+
+(ii) making or publishing a statement, however expressed, that expressly or impliedly invites the holder of those shares to offer to dispose of his shares to the first person;
+
+(iii) the first person obtaining a right to acquire shares under an option, or to have shares transferred to himself or to his order, whether the right is exercisable presently or in the future and whether on fulfilment of a condition or not; and
+
+(iv) becoming a trustee of a trust in respect of those shares;
+
+(b) a person shall be regarded as obtaining effective control of the holder of a capital markets services licence by virtue of an arrangement if the person alone or acting together with any connected person would, if the arrangement is carried out —
+
+(i) acquire or hold, directly or indirectly, 20% or more of the issued share capital of the holder; or
+
+(ii) control, directly or indirectly, 20% or more of the voting power in the holder; and
+
+(c) a reference to the voting power in the holder of a capital markets services licence is a reference to the total number of votes that may be cast in a general meeting of the holder.
+
+(7) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[2/2009 wef 26/11/2010]
+
+### Objection to control of holder of capital markets services licence
+
+97B\.—(1) The Authority may serve a written notice of objection on —
+
+(a) any person required to obtain the Authority’s approval or who has obtained the approval under section 97A; or
+
+(b) any person who, whether before, on or after the date of commencement of this section, either alone or together with any connected person, holds, directly or indirectly, 20% or more of the issued share capital of the holder of a capital markets services licence or controls, directly or indirectly, 20% or more of the voting power in the holder,
+
+if the Authority is satisfied that —
+
+(i) any condition of approval imposed on the person under section 97A(4) has not been complied with;
+
+(ii) the person is not or ceases to be a fit and proper person to have effective control of the holder of the capital markets services licence;
+
+(iii) having regard to the likely influence of the person, the holder of a capital markets services licence is not able to or is no longer likely to conduct its business prudently or to comply with the provisions of this Act or any direction made thereunder;
+
+(iv) the person does not or ceases to satisfy such criteria as may be prescribed;
+
+(v) the person has furnished false or misleading information or documents in connection with an application under section 97A; or
+
+(vi) the Authority would not have granted its approval under section 97A had it been aware, at that time, of circumstances relevant to the person’s application for such approval.
+
+(2) The Authority shall not serve a notice of objection on any person without giving the person an opportunity to be heard, except in the following circumstances:
+
+(a) the person is in the course of being wound up or otherwise dissolved or, in the case of an individual, is an undischarged bankrupt whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+
+(c) a prohibition order under section 101A has been made by the Authority, and remains in force, against the person;
+
+(d) the person has been convicted, whether in Singapore or elsewhere, of any offence involving fraud or dishonesty or the conviction for which involved a finding that the person had acted fraudulently or dishonestly.
+
+(3) The Authority shall, in any written notice of objection, specify a reasonable period within which the person to be served the written notice of objection shall —
+
+(a) take such steps as are necessary to ensure that he ceases to be a party to the arrangement described in section 97A(2) or ceases to have control of a holder of a capital markets services licence in the manner described in subsection (1)(b); or
+
+(b) comply with such other requirements as the Authority may specify in written directions.
+
+(4) Any person served with a notice of objection under this section shall comply with the notice.
+
+(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[2/2009 wef 26/11/2010]
+
 ### Appeals
 
 98\.—(1) Subject to subsection (2), any person who is aggrieved by —
 
-(a) the refusal of the Authority to grant, renew or vary a licence;
+(a) the refusal of the Authority to grant or vary a capital markets services licence;
 
-(b) the revocation or suspension of a licence by the Authority;
+[2/2009 wef 26/11/2010]
 
-(c) the issue of a prohibition order by the Authority;
+(b) the revocation or suspension of a capital markets services licence by the Authority;
+
+[2/2009 wef 26/11/2010]
+
+(c) [Deleted by Act 2/2009 wef 26/11/2010]
 
 (d) the refusal of the Authority to grant an approval to a holder of a capital markets services licence to appoint a person as its chief executive officer or director; or
 
@@ -6379,10 +6327,6 @@ may within 30 days after it is notified of the decision of the Authority, appeal
 (2) An appeal under subsection (1)(d) or (e) may only be made by the holder of a capital markets services licence.
 
 [SIA, s. 39; FTA, s. 23]
-
-Division 2 —
-
-Exemptions
 
 ### Exemptions from requirement to hold capital markets services licence
 
@@ -6396,7 +6340,7 @@ Exemptions
 
 (d) any company or society registered under the Insurance Act (Cap. 142) in respect of fund management for the purpose of carrying out insurance business;
 
-(e) [Act 1/2005]
+(e) [Deleted by Act 1/2005]
 
 (f) any securities exchange, futures exchange, recognised market operator or approved holding company in respect of any regulated activity that is solely incidental to its operation of a securities market or futures market or to its performance as an approved holding company, as the case may be;
 
@@ -6406,9 +6350,9 @@ Exemptions
 
 [16/2003; 1/2005]
 
-(2) [Act 1/2005]
+(2) [Deleted by Act 1/2005]
 
-(3) [Act 1/2005]
+(3) [Deleted by Act 1/2005]
 
 (4) The Authority may by regulations or by notice in writing impose such conditions or restrictions on an exempt person or its representative in relation to the conduct of the regulated activity or any related matter as the Authority thinks fit and the exempt person or its representative, as the case may be, shall comply with such conditions or restrictions.
 
@@ -6482,6 +6426,8 @@ during the period to which the annual fee relates.
 
 [1/2005]
 
+[2/2009 wef 26/11/2010]
+
 (3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
 
 [1/2005]
@@ -6490,13 +6436,471 @@ during the period to which the annual fee relates.
 
 [2/2009 wef 26/11/2010]
 
+Division 2 —
+
+Representatives
+
+### Acting as representative
+
+99B\.—(1) No person shall act as a representative in respect of any type of regulated activity or hold himself out as doing so, unless he is —
+
+(a) an appointed representative in respect of that type of regulated activity;
+
+(b) a provisional representative in respect of that type of regulated activity;
+
+(c) a temporary representative in respect of that type of regulated activity; or
+
+(d) a representative of an exempt person under section 99(1)(f), (g) or (h), in so far as —
+
+(i) the type and scope of the regulated activity carried out by the first-mentioned person are within the type and scope of, or are the same as, that carried out by the exempt person (in his capacity as an exempt person); and
+
+(ii) the manner in which the first-mentioned person carries out that type of regulated activity is the same as the manner in which the exempt person (in his capacity as an exempt person) carries out that type of regulated activity.
+
+(2) The Authority may exempt any person or class of persons from subsection (1), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(3) A principal shall not permit any individual to carry on business in any type of regulated activity on its behalf unless —
+
+(a) the individual is an appointed representative, provisional representative or temporary representative in respect of that type of regulated activity; or
+
+(b) the principal is an exempt person under section 99(1)(f), (g) or (h) and —
+
+(i) the type and scope of the regulated activity carried out by the individual are within the type and scope of, or are the same as, that carried out by the exempt person (in his capacity as an exempt person); and
+
+(ii) the manner in which the individual carries out that type of regulated activity is the same as the manner in which the exempt person (in his capacity as an exempt person) carries out that type of regulated activity.
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Records and public register of representatives
+
+99C\.—(1) The Authority shall keep in such form as it thinks fit records of the following information of each appointed representative, provisional representative and temporary representative:
+
+(a) his name;
+
+(b) the name of his current principal and every past principal (if any);
+
+(c) the current and past types of regulated activities performed by him and the date of commencement and cessation (if any) of his performance of such activities;
+
+(d) where the business of the principal for which he acts is carried on under a name or style other than the name of the principal, the name or style under which the business is carried on;
+
+(e) disciplinary proceedings or other action taken by the Authority against him and published under section 322;
+
+(f) such other information as may be prescribed.
+
+(2) The information referred to in subsection (1) need only be kept for such period of time as the Authority considers appropriate.
+
+(3) The Authority may reproduce the records referred to in subsection (1) or any part of them in a public register of representatives which shall be published in such manner as it considers appropriate.
+
+### Appointed representative
+
+99D\.—(1) For the purposes of this Act, an appointed representative in respect of a type of regulated activity is an individual —
+
+(a) who satisfies such entry and examination requirements as may be specified by the Authority for that type of regulated activity, the fact of which has been notified to the Authority either in the document lodged under section 99H(1), or (if applicable) under section 99E(5) within the time prescribed under that provision;
+
+(b) whose name is entered in the public register of representatives as an appointed representative;
+
+(c) whose status as an appointed representative has not currently been revoked or suspended and who has not currently been prohibited by the Authority from carrying on business in that type of regulated activity;
+
+(d) whose entry in the public register of representatives indicates that he is appointed to carry on business in that type of regulated activity and does not indicate that he has ceased to be so; and
+
+(e) whose principal —
+
+(i) is licensed to carry on business in that type of regulated activity; or
+
+(ii) carries on business in that type of regulated activity in its capacity as a person exempted from the requirement to hold a capital markets services licence under section 99(1)(a), (b), (c) or (d).
+
+(2) For the purpose of subsection (1)(a), the Authority shall, by direction published in such manner as may be prescribed, specify the examination requirements for each type of regulated activity.
+
+(3) The Authority may require the principal or individual to furnish it with such information or documents as the Authority considers necessary in relation to the proposed appointment of the individual as an appointed representative, and the principal or individual, as the case may be, shall comply with such a request.
+
+(4) An individual shall cease to be an appointed representative in respect of any type of regulated activity on the date —
+
+(a) he ceases to be the principal’s representative or to carry out that type of regulated activity for that principal, the fact of which has been notified to the Authority under subsection (8);
+
+(b) his principal ceases to carry on business in that type of regulated activity;
+
+(c) the licence of his principal is revoked or lapses or a prohibition order under section 101A is made against his principal prohibiting it from carrying out that type of regulated activity;
+
+(d) the individual dies; or
+
+(e) of the occurrence of such other circumstances as the Authority may prescribe.
+
+(5) An individual shall not be treated as an appointed representative during the period in which the licence of his principal is suspended.
+
+(6) Nothing in subsection (4) or (5) prevents the individual from being treated as an appointed representative in respect of that type of regulated activity if he becomes a representative of a new principal in respect of that type of regulated activity and subsection (1) is complied with.
+
+(7) Subsections (4) and (5) shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement relating to that type of regulated activity entered into by that individual, whether the agreement, transaction or arrangement was entered into before, on or after the cessation or date of suspension; or
+
+(b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
+
+(8) A principal shall, no later than the next business day after the day —
+
+(a) an individual ceases to be his representative; or
+
+(b) an individual who is his representative ceases to carry on business in any type of regulated activity which he is appointed to carry on business in,
+
+furnish particulars of such cessation to the Authority, in the prescribed form and manner.
+
+### Provisional representative
+
+99E\.—(1) For the purposes of this Act, a provisional representative in respect of a type of regulated activity is an individual —
+
+(a) who satisfies such entry requirements as may be specified by the Authority for that type of regulated activity;
+
+(b) who intends to undergo an examination in order to satisfy the examination requirements specified by the Authority under section 99D(2) for that type of regulated activity, the fact of which has been notified to the Authority in the document lodged under section 99H(1);
+
+(c) whose name is entered in the public register of representatives as a provisional representative;
+
+(d) whose status as a provisional representative has not currently been revoked or suspended and who has not currently been prohibited by the Authority from carrying on business in that type of regulated activity;
+
+(e) whose entry in the public register of representatives indicates that he is appointed to carry on business in that type of regulated activity and does not indicate that he has ceased to be so;
+
+(f) whose principal —
+
+(i) is licensed to carry on business in that type of regulated activity; or
+
+(ii) carries on business in that type of regulated activity in its capacity as a person exempted from the requirement to hold a capital markets services licence under section 99(1)(a), (b), (c) or (d);
+
+(g) who has not previously been appointed as a provisional representative by the Authority; and
+
+(h) who is not, by virtue of any circumstances prescribed by the Authority, disqualified from acting as a provisional representative.
+
+(2) An individual shall only be a provisional representative in respect of any type of regulated activity for such period of time as the Authority may specify against his name in the public register of representatives.
+
+(3) A provisional representative in respect of any type of regulated activity shall immediately cease to be one —
+
+(a) upon the expiry of the period of time specified by the Authority under subsection (2);
+
+(b) if he fails to comply with any condition or restriction imposed on him under section 99N;
+
+(c) upon his principal informing the Authority of the satisfaction of the examination requirements specified for that or any other type of regulated activity under subsection (5); or
+
+(d) on the occurrence of such other circumstances as the Authority may prescribe.
+
+(4) Section 99D(3) to (8) (other than subsection (4)(e) thereof) shall apply to a provisional representative —
+
+(a) as if the reference in section 99D(6) to section 99D(1) were a reference to subsection (1); and
+
+(b) with such other modifications and adaptations as the differences between provisional representatives and appointed representatives require.
+
+(5) Where a provisional representative in respect of a type of regulated activity has satisfied the examination requirements specified for that type of regulated activity, his principal shall inform the Authority of that fact in the prescribed form and manner and within the prescribed time.
+
+### Temporary representative
+
+99F\.—(1) For the purposes of this Act, a temporary representative in respect of a type of regulated activity is an individual —
+
+(a) who satisfies such entry requirements as may be specified by the Authority for that type of regulated activity;
+
+(b) whose name is entered in the public register of representatives as a temporary representative;
+
+(c) whose status as a temporary representative has not currently been revoked or suspended and who has not currently been prohibited by the Authority from carrying on business in that type of regulated activity;
+
+(d) whose entry in the public register of representatives indicates that he is appointed to carry on business in that type of regulated activity and does not indicate that he has ceased to be so;
+
+(e) whose principal —
+
+(i) is licensed to carry on business in that type of regulated activity; or
+
+(ii) carries on business in that type of regulated activity in its capacity as a person exempted from the requirement to hold a capital markets services licence under section 99(1)(a), (b), (c) or (d); and
+
+(f) who is not, by virtue of any circumstances prescribed by the Authority, disqualified from acting as a temporary representative.
+
+(2) An individual shall only be a temporary representative in respect of any type of regulated activity for such period of time as the Authority may specify against his name in the public register of representatives.
+
+(3) A temporary representative in respect of any type of regulated activity shall immediately cease to be one —
+
+(a) upon the expiry of the period of time specified by the Authority under subsection (2);
+
+(b) if he fails to comply with any condition or restriction imposed on him under section 99N; or
+
+(c) on the occurrence of such other circumstances as the Authority may prescribe.
+
+(4) Section 99D(3) to (8) (other than subsection (4)(e) thereof) shall apply to a temporary representative —
+
+(a) as if the reference in section 99D(6) to section 99D(1) were a reference to subsection (1); and
+
+(b) with such other modifications and adaptations as the differences between temporary representatives and appointed representatives require.
+
+### Offences
+
+99G\.—(1) Any person who contravenes section 99D(3), 99E(4) (in relation to the application of section 99D(3) to a provisional representative) or 99F(4) (in relation to the application of section 99D(3) to a temporary representative) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(2) Any person who contravenes section 99D(8), 99E(4) (in relation to the application of section 99D(8) to a provisional representative), 99F(4) (in relation to the application of section 99D(8) to a temporary representative) or 99H(5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Lodgment of documents
+
+99H\.—(1) A principal who desires to appoint an individual as an appointed, provisional or temporary representative in respect of any type of regulated activity shall lodge the following documents with the Authority in such form and manner as the Authority may prescribe:
+
+(a) a notice of intent by the principal to appoint the individual as an appointed, provisional or temporary representative in respect of that type of regulated activity;
+
+(b) a certificate by the principal that the individual is a fit and proper person to be an appointed, provisional or temporary representative in respect of that type of regulated activity; and
+
+(c) in the case of a provisional or temporary representative, an undertaking by the principal to undertake such responsibilities in relation to the representative as may be prescribed.
+
+(2) Subject to section 99M, the Authority shall, upon receipt of the documents lodged in accordance with subsection (1), enter in the public register of representatives the name of the representative, whether he is an appointed, provisional or temporary representative, the type of regulated activity which he may carry on business in, and such other particulars as the Authority considers appropriate.
+
+(3) The Authority may refuse to enter in the public register of representatives the particulars referred to in subsection (2) of the representative if the fee referred to in section 99K(1) or (4) (if applicable) is not paid.
+
+(4) A principal who submits a certificate under subsection (1)(b) shall keep, in such form and manner and for such period as the Authority may prescribe, copies of all information and documents which the principal relied on in giving the certificate.
+
+(5) Where a change occurs in any particulars of the appointed, provisional or temporary representative in any document required to be furnished to the Authority under subsection (1), the principal shall, no later than 14 days after the occurrence of such change, furnish particulars of such change to the Authority, in the prescribed form and manner.
+
+### Exemption
+
+99I\.—(1) The Authority may exempt any person or class of persons from any of the requirements of sections 99D to 99H.
+
+(2) Such exemption is subject to such conditions or restrictions as may be imposed by the Authority.
+
+### Representative to act for only one principal
+
+99J\.—(1) Unless otherwise approved by the Authority in writing, no appointed representative, temporary representative or provisional representative shall at any one time be a representative of more than one principal.
+
+(2) Notwithstanding subsection (1), an appointed representative may be a representative of more than one principal if the principals are related corporations.
+
+(3) The Authority may require an applicant for approval under subsection (1) to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+### Lodgment and fees
+
+99K\.—(1) An individual shall, by the prescribed time, pay to the Authority such fee as may be prescribed by the Authority for the lodgment of documents under section 99H by his principal in relation to his appointment as an appointed, provisional or temporary representative.
+
+(2) An individual who is an appointed or provisional representative shall, by the prescribed time each year, pay such annual fee as may be prescribed by the Authority in relation to the retention of his name in the public register of representatives as an appointed or provisional representative.
+
+(3) An individual who is a temporary representative shall, by the prescribed time, pay such fee as may be prescribed by the Authority in relation to the retention of his name in the public register of representatives as a temporary representative.
+
+(4) A representative shall pay such fee as may be prescribed by the Authority for any resubmission of a form or change in the particulars of a form lodged with the Authority in relation to his appointment as an appointed, provisional or temporary representative.
+
+(5) Unless otherwise prescribed by the Authority, any fee paid to the Authority under this section shall not be refunded.
+
+(6) Where the representative fails to pay the fee referred to in subsection (1), (2) or (3) by the date on which such fee is due, the Authority may impose a late payment fee of a prescribed amount for every day or part thereof that the payment is late and both fees shall be recoverable by the Authority as a judgment debt.
+
+(7) The fees referred to in this section shall be paid in the manner specified by the Authority.
+
+### Additional regulated activity
+
+99L\.—(1) The principal of an appointed representative may at any time lodge a notice with the Authority of its intention to appoint the representative as an appointed representative in respect of a type of regulated activity in addition to that indicated against the representative’s name in the public register of representatives.
+
+(2) The notification shall be lodged in such form and manner as may be prescribed and shall be accompanied by a certificate by the principal that the representative is a fit and proper person to be a representative in respect of the additional type of regulated activity.
+
+(3) Subject to section 99M, the Authority shall, upon receipt of the notification, enter in the public register of representatives the additional type of regulated activity as one which the representative may carry on business in as a representative.
+
+(4) The Authority may, before entering in the public register of representatives the matter set out in subsection (3), require the principal or representative to furnish it with such information or documents as the Authority considers necessary.
+
+(5) A notification under subsection (1) shall be accompanied by a non-refundable prescribed fee which shall be paid in the manner specified by the Authority.
+
+### Power of Authority to refuse entry or revoke or suspend status of appointed, provisional or temporary representative
+
+99M\.—(1) Subject to regulations made under this Act, the Authority may refuse to enter the name and other particulars of an individual in the public register of representatives, refuse to enter an additional type of regulated activity for an appointed representative in that register, or revoke the status of an individual as an appointed, provisional or temporary representative if —
+
+(a) being an appointed, provisional or temporary representative, he fails or ceases to act as a representative in respect of all of the types of regulated activities that were notified to the Authority as activities which he is appointed to carry on business in as a representative;
+
+(b) he or his principal has not provided the Authority with such information or documents as the Authority may require;
+
+(c) he is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(d) execution against him in respect of a judgment debt has been returned unsatisfied in whole or in part;
+
+(e) he has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+
+(f) he —
+
+(i) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
+
+(ii) has been convicted of an offence under this Act;
+
+(g) in the case of the proposed appointment of an appointed, provisional or temporary representative in respect of a type of regulated activity, or of an application to enter an additional type of regulated activity for an appointed representative in the register —
+
+(i) the Authority is not satisfied as to his educational or other qualification or experience having regard to the nature of the duties he is to perform in relation to that type of regulated activity;
+
+(ii) he or his principal fails to satisfy the Authority that he is a fit and proper person to be an appointed, provisional or temporary representative or to carry on business in that type of regulated activity;
+
+(iii) the Authority is not satisfied as to his record of past performance or expertise having regard to the nature of the duties which he is to perform in relation to that type of regulated activity;
+
+(iv) the Authority has reason to believe that he will not carry on business in that type of regulated activity efficiently, honestly or fairly;
+
+(h) in the case of the revocation of the status of an individual as an appointed, provisional or temporary representative —
+
+(i) he or his principal fails to satisfy the Authority, pursuant to a requirement imposed by the Authority as a condition of licence, under section 99N or by regulations (as the case may be), that he remains a fit and proper person to be an appointed, provisional or temporary representative or to carry on business in the type of regulated activity for which he is appointed;
+
+(ii) the Authority is not satisfied with —
+
+(A) his educational or other qualification or experience (being qualification or experience not known to the Authority at the time his name and particulars are entered in the public register of representatives); or
+
+(B) his record of past performance or expertise,
+
+having regard to the nature of his duties as an appointed, provisional or temporary representative; or
+
+(iii) the Authority has reason to believe that he will not carry on business in the type of regulated activity for which he is appointed efficiently, honestly or fairly;
+
+(i) the Authority has reason to believe that he may not be able to act in the best interests of the subscribers or customers of his principal, having regard to his reputation, character, financial integrity and reliability;
+
+(j) the Authority is not satisfied as to his financial standing;
+
+(k) there are other circumstances which are likely to lead to the improper conduct of business by, or reflect discredit on the manner of conducting the business of, the individual or any person employed by or associated with him for the purpose of his business;
+
+(l) the individual is in arrears of the payment of such contributions on his own behalf to the Central Provident Fund as are required under the Central Provident Fund Act (Cap. 36);
+
+(m) the Authority is of the opinion that it would be contrary to the interests of the public to enter the individual’s name in the public register of representatives or allow him to continue carrying on business as an appointed, provisional or temporary representative or to carry on business in that additional type of regulated activity, as the case may be;
+
+(n) the Authority has reason to believe that any information or document that is furnished by him or his principal to the Authority is false or misleading;
+
+(o) he has contravened any provision of this Act applicable to him, any condition or restriction imposed on him under this Act or any direction issued to him by the Authority under this Act;
+
+(p) a prohibition order under section 101A has been made by the Authority, and remains in force, against him;
+
+(q) the licence of his principal is revoked;
+
+(r) the individual fails to pay any fee referred to in section 99K;
+
+(s) in the case of the proposed appointment of a temporary representative in respect of a type of regulated activity —
+
+(i) he is not licensed, authorised or otherwise regulated as a representative in relation to a comparable type of regulated activity in a foreign jurisdiction;
+
+(ii) the Authority is not satisfied that the laws and practices of the jurisdiction under which the individual is so licensed, authorised or regulated provide protection to investors comparable to that applicable to an appointed representative under this Act; or
+
+(iii) the period of his proposed appointment, together with the period of any past appointment (or part thereof) that falls within a prescribed period before the date of expiry of his proposed appointment, exceeds the permitted period prescribed by the Authority; or
+
+(t) in the case of the proposed appointment of a provisional representative in respect of a type of regulated activity —
+
+(i) he is not or was not previously licensed, authorised or otherwise regulated as a representative in relation to a comparable type of regulated activity in a foreign jurisdiction for such minimum period as may be prescribed for this sub-paragraph;
+
+(ii) he was previously so licensed, authorised or regulated in a foreign jurisdiction but the period between the date of his ceasing to be so licensed, authorised or regulated and the date of his proposed appointment as a provisional representative exceeds such period as may be prescribed for this sub-paragraph; or
+
+(iii) the Authority is not satisfied that the laws and practices of the jurisdiction under which the individual is or was so licensed, authorised or regulated provide protection to investors comparable to that applicable to an appointed representative under this Act.
+
+(2) The Authority may, if it considers it desirable to do so —
+
+(a) instead of revoking the status of an individual as an appointed, provisional or temporary representative, suspend that status for such period as the Authority may determine; and
+
+(b) at any time —
+
+(i) extend the period of suspension; or
+
+(ii) revoke the suspension.
+
+(3) An individual whose status as an appointed, provisional or temporary representative has been revoked shall be deemed not to be an appointed, provisional or temporary representative, as the case may be.
+
+(4) Where the status of an individual as an appointed, provisional or temporary representative has been suspended, he shall be deemed not to be an appointed, provisional or temporary representative (as the case may be) during the period of suspension.
+
+(5) Where the Authority has revoked the status of an individual as an appointed, provisional or temporary representative, the Authority shall —
+
+(a) indicate against his name in the public register of representatives that fact, which indication shall remain in the register for such period as the Authority considers appropriate; or
+
+(b) remove his name from the register.
+
+(6) Where the Authority has suspended the status of an individual as an appointed, provisional or temporary representative, the Authority shall indicate against his name in the public register of representatives that fact and the period of the suspension.
+
+(7) Where the Authority has extended or revoked a suspension of the status of an individual as an appointed, provisional or temporary representative, it shall indicate against his name in the public register of representatives the new expiry date of the suspension, or indicate that he is no longer suspended, as the case may be.
+
+(8) The Authority shall not take any action under subsection (1) or (2)(a) on the ground referred to in subsection (1)(n), if —
+
+(a) in a case where the information or document was furnished by the individual to the Authority, the individual proves that he had —
+
+(i) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(ii) after doing so, believed on reasonable grounds that the information or document was not false or misleading; or
+
+(b) in a case where the information or document was furnished by the principal to the Authority and —
+
+(i) such information or document was furnished to the principal by the individual, the individual proves that he had —
+
+(A) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(B) after doing so, believed on reasonable grounds that the information or document was not false or misleading; or
+
+(ii) such information or document was not furnished to the principal by the individual, the principal proves that he had —
+
+(A) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(B) after doing so, believed on reasonable grounds that the information or document was not false or misleading.
+
+(9) Subject to subsection (10), the Authority shall not take any action under subsection (1) or (2)(a) or (b)(i) without giving the individual an opportunity to be heard.
+
+(10) The Authority may take action under subsection (1) or (2)(a) or (b)(i) on any of the following grounds without giving the individual an opportunity to be heard:
+
+(a) he is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) he has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more;
+
+(c) a prohibition order under section 101A has been made by the Authority, and remains in force, against the individual;
+
+(d) the ground referred to in subsection (1)(s)(i) or (iii) or (t)(i) or (ii).
+
+(11) Any revocation or suspension by the Authority shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement relating to any regulated activity entered into by such individual, whether the agreement, transaction or arrangement was entered into before, on or after the revocation or suspension, as the case may be; or
+
+(b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
+
+### Power of Authority to impose conditions or restrictions
+
+99N\.—(1) The Authority may, by notice in writing to an appointed, provisional or temporary representative, impose such conditions or restrictions as it thinks fit on him.
+
+(2) Without prejudice to the generality of subsection (1), the Authority may, in entering the appointed, provisional or temporary representative’s name in the public register of representatives, impose conditions or restrictions with respect to the type of regulated activity which he may or may not carry on business in.
+
+(3) The Authority may, at any time by notice in writing to the appointed, provisional or temporary representative, vary any condition or restriction or impose such further condition or restriction as it may think fit.
+
+(4) Any person who contravenes any condition or restriction imposed by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+### False statements in relation to notification of appointed, provisional or temporary representative
+
+99O\.—(1) Any principal who, in connection with the lodgment of any document under section 99H —
+
+(a) makes a statement which is false or misleading in a material particular; or
+
+(b) omits to state any matter or thing without which the document is misleading in a material respect,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(2) Any individual who, in connection with the lodgment by his principal of any document under section 99H —
+
+(a) makes a statement to his principal which is false or misleading in a material particular, being a statement subsequently lodged with the Authority; or
+
+(b) omits to state any matter or thing to his principal as a result of which the document is misleading in a material respect,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(3) Any person who, when required to furnish any document or information to the Authority under section 99D(3), 99E(4) (in relation to the application of section 99D(3) to a provisional representative) or 99F(4) (in relation to the application of section 99D(3) to a temporary representative) —
+
+(a) makes a statement to the Authority which is false or misleading in a material particular; or
+
+(b) omits to state any matter or thing to the Authority without which the document or information is misleading in a material respect,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(4) A person referred to in subsection (1), (2) or (3) shall not be guilty of an offence if he proves that he —
+
+(a) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(b) after doing so, believed on reasonable grounds that the statement made or the omission to state the matter or thing, as the case may be, was not false or misleading.
+
+### Appeals
+
+99P\. Any person who is aggrieved by —
+
+(a) the refusal of the Authority under section 99M(1) to enter his name and other particulars in the public register of representatives, or to enter an additional type of regulated activity for him in that register; or
+
+(b) the revocation or suspension of his status as an appointed, provisional or temporary representative under section 99M(1) or (2)(a),
+
+may, within 30 days after he is notified of the decision of the Authority, appeal to the Minister whose decision shall be final.
+
 Division 3 —
 
 General
 
 ### Power of Authority to make regulations
 
-100\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the grant of a capital markets services licence or a representative’s licence, and requirements applicable to a licensed person, exempt person, representative of an exempt person or class of such persons.
+100\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the grant of a capital markets services licence, the proposed appointment of an individual as an appointed, provisional or temporary representative, the entering of his name or an additional type of regulated activity in the public register of representatives, and the revocation or suspension of his status as an appointed, provisional or temporary representative, and requirements applicable to the holder of a capital markets services licence, an exempt person, a representative or a class of such persons.
+
+[2/2009 wef 26/11/2010]
 
 (2) Regulations made under this section may provide —
 
@@ -6508,7 +6912,9 @@ General
 
 ### Power of Authority to issue written directions
 
-101\.—(1) The Authority may, if it thinks it necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to any licensed person, exempt person, representative of an exempt person, or class of such persons, to comply with such requirements as the Authority may specify in the written directions.
+101\.—(1) The Authority may, if it thinks it necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to any holder of a capital markets services licence, exempt person, representative, or class of such persons, to comply with such requirements as the Authority may specify in the written directions.
+
+[2/2009 wef 26/11/2010]
 
 (2) Without prejudice to the generality of subsection (1), any written direction may be issued with respect to —
 
@@ -6527,6 +6933,112 @@ and the person to whom such direction is issued shall comply with the direction.
 (4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
 
 [SIA, s. 21; E (DM) A, s. 14]
+
+### Power of Authority to make prohibition orders
+
+101A\.—(1) The Authority may, by notice in writing, make a prohibition order against a relevant person if —
+
+(a) the Authority suspends or revokes the capital markets services licence held by the person;
+
+(b) where the person is exempt from the requirement to hold a capital markets services licence under section 99(1)(a), (b), (c) or (d), the Authority has reason to believe that circumstances exist under which, if the person were a holder of a capital markets services licence, there would exist a ground on which the Authority may suspend or revoke its licence under section 95;
+
+(c) the Authority suspends or revokes the status of that person as an appointed, provisional or temporary representative;
+
+(d) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened any provision of this Act;
+
+(e) the person has been convicted of an offence under this Act or has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly;
+
+(f) the person has an order for the payment of a civil penalty made against him by a court under Part XII or has entered into an agreement with the Authority to pay a civil penalty under that Part;
+
+(g) the person has been convicted of an offence involving the contravention of any law or requirement of a foreign country or territory relating to any regulated activity carried out by that person; or
+
+(h) the person has been removed at the direction of the Authority from office or employment as an officer of the holder of a capital markets services licence under section 97(1)(h).
+
+(2) In subsection (1), “relevant person” means —
+
+(a) the holder of a capital markets services licence or a person who was previously such a holder;
+
+(b) a person that is exempt from the requirement to hold a capital markets services licence under section 99(1) or a person who was previously so exempt;
+
+(c) a representative of a person exempt from the requirement to hold a capital markets services licence under section 99(1)(f), (g) or (h) or a person who was previously such a representative;
+
+(d) an appointed, provisional or temporary representative or a person who was previously such a representative;
+
+(e) an officer of the holder of a capital markets services licence or a person that is exempt from the requirement to hold a capital markets services licence under section 99(1), or a person who was previously such an officer; or
+
+(f) a person who has been convicted of an offence under section 82(1) or 99B(1).
+
+(3) A prohibition order made under subsection (1) may do one or both of the following:
+
+(a) prohibit the person, whether permanently or for a specified period, from —
+
+(i) performing any regulated activity, or performing such regulated activity in specified circumstances or capacities; or
+
+(ii) taking part, directly or indirectly, in the management of, acting as a director of, or becoming a substantial shareholder of —
+
+(A) a holder of a capital markets services licence; or
+
+(B) an exempt person;
+
+(b) include a provision allowing the person, subject to any condition specified in the order —
+
+(i) to do specified acts; or
+
+(ii) to do specified acts in specified circumstances,
+
+that the order would otherwise prohibit him from doing.
+
+(4) The Authority shall not make a prohibition order against a person without giving the person an opportunity to be heard.
+
+(5) Any person who is aggrieved by the decision of the Authority to make a prohibition order against him may, within 30 days of the decision, appeal in writing to the Minister.
+
+(6) Where the Authority makes a prohibition order against any person who is an appointed, provisional or temporary representative, it shall indicate against his name in the public register of representatives that fact, and the indication shall remain in the register for the duration of the order.
+
+[2/2009 wef 26/11/2010]
+
+### Effect of prohibition orders
+
+101B\.—(1) A person against whom a prohibition order is made shall comply with the prohibition order.
+
+(2) Where a prohibition order is made against a person and notified to the holder of a capital markets services licence or an exempt person, the holder or exempt person shall not employ the first-mentioned person to carry out any regulated activity or use the first-mentioned person’s service, to the extent that this is prohibited by the order.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
+
+(5) The holder of a capital markets services licence or an exempt person against whom a prohibition order has been issued prohibiting it from carrying on any regulated activity shall immediately inform all its representatives who perform the regulated activity, by notice in writing of such prohibition order, and the representatives who are so informed shall cease to perform such regulated activity during the period specified in the prohibition order.
+
+(6) Any person who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 26/11/2010]
+
+### Variation or revocation of prohibition orders
+
+101C\.—(1) The Authority may vary or revoke a prohibition order, by giving written notice to the person against whom the order was made, if the Authority is satisfied that it is appropriate to do so because of a change in any of the circumstances based on which the Authority made the order.
+
+(2) The Authority may vary or revoke a prohibition order under subsection (1) —
+
+(a) on its own initiative; or
+
+(b) if the person against whom the order was made lodges with the Authority an application for the Authority to do so, accompanied by such document and fee as may be prescribed.
+
+(3) The Authority shall not vary a prohibition order made against a person under subsection (2)(a) without giving the person an opportunity to be heard.
+
+(4) Any person who is aggrieved by the decision of the Authority to vary a prohibition order made against him under subsection (2)(a) may, within 30 days of the decision, appeal in writing to the Minister.
+
+[2/2009 wef 26/11/2010]
+
+### Date and effect of prohibition orders
+
+101D\.—(1) A prohibition order, or any variation or revocation of a prohibition order, shall take effect on the date specified in the order by the Authority.
+
+(2) A prohibition order shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement entered into by the person against whom the order is made, whether the agreement, transaction or arrangement was entered into before, on or after the issue of the prohibition order; or
+
+(b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
+
+[2/2009 wef 26/11/2010]
 
 ## PART V
 
@@ -6800,17 +7312,17 @@ Division 1 —
 
 General
 
-117\. [Deleted by Act 2/2009 wef 26/11/2010]
+117\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-118\. [Deleted by Act 2/2009 wef 26/11/2010]
+118\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-119\. [Act 1/2005]
+119\. [Repealed by Act 1/2005]
 
-120\. [Deleted by Act 2/2009 wef 26/11/2010]
+120\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-121\. [Act 1/2005]
+121\. [Repealed by Act 1/2005]
 
-122\. [Deleted by Act 2/2009 wef 26/11/2010]
+122\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 ### Power of Authority to make regulations
 
@@ -6882,25 +7394,25 @@ General
 
 [HK SF Bill, Clause 163]
 
-124\. [Deleted by Act 2/2009 wef 26/11/2010]
+124\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 Division 2 —
 
 Securities
 
-125\. [Act 2/2009 wef 26/11/2010]
+125\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 Division 3 —
 
 Futures Contracts and Leveraged Foreign Exchange Trading
 
-126\. [Act 2/2009 wef 26/11/2010]
+126\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-127\. [Act 2/2009 wef 26/11/2010]
+127\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-128\. [Act 2/2009 wef 26/11/2010]
+128\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-129\. [Act 2/2009 wef 26/11/2010]
+129\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 ## PART VII
 
@@ -6928,7 +7440,11 @@ Registers of Interests in Securities
 
 [S 376/2008 wef 01/08/2008]
 
+[S 20/2012 wef 17/01/2012]
+
 (iv) a holder of a capital markets services licence for real estate investment trust management and a representative of such a holder; or
+
+[S 20/2012 wef 17/01/2012]
 
 (v) a holder of a capital markets services licence for providing credit rating services and a representative of such a holder; and
 
@@ -7163,8 +7679,6 @@ Division 1 —
 Supervisory Powers of Authority
 
 Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
-
-[2/2009 wef 26/11/2010]
 
 ### Interpretation of this Subdivision
 
@@ -7462,10 +7976,6 @@ Power of Minister to Appoint Inspector for Investigating Dealings in Securities,
 
 [SIA, s. 112]
 
-Division 3 —
-
-Investigative Powers of Authority
-
 Subdivision (1) — General
 
 ### Investigation by Authority
@@ -7545,8 +8055,6 @@ Subdivision (1) — General
 (4) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
 [SIA, s. 96D (6) modified; HK SF Bill, Clause 180]
-
-Subdivision (2) — Examination of persons
 
 ### Requirement to appear for examination
 
@@ -7814,7 +8322,7 @@ for the purposes of any investigation into or criminal proceedings against a per
 
 168C\.—(1) Notwithstanding the provisions of any written law or any rule of law, any book, document, statement or other information obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under Divisions 1 and 2 of Part IV and sections 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010 may be furnished to the Authority, if the Public Prosecutor is satisfied that such information is necessary to enable the Authority to investigate or bring an action for a civil penalty order against a person in respect of a contravention of any provision in Part XII.
 
-[Act 15 of 2010 wef 02/01/2011]
+[15/2010 wef 02/01/2011]
 
 (2) For the avoidance of doubt, any book, document, statement or other information furnished to the Authority under subsection (1) shall not be inadmissible in any civil proceedings under this Act to which the Authority is a party by reason only that it was first obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under the Criminal Procedure Code, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
 
@@ -8090,7 +8598,9 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 [2/2009 wef 29/07/2009]
 
-(2) The amount of such levy shall be paid within the time and in the manner specified by the securities exchange or futures exchange either generally or in relation to any particular case.
+(2) The amount of such levy shall be paid within the time and in the manner specified by the approved exchange either generally or in relation to any particular case.
+
+[2/2009 wef 29/07/2009]
 
 (3) No member of an approved exchange shall be required to pay by way of levy under this section more than $300,000 in the aggregate in any particular case.
 
@@ -8986,15 +9496,17 @@ it shall be presumed, until the contrary is proved, that the connected person kn
 
 (i) he is an officer of that corporation or of a related corporation;
 
-(ii) he is a substantial shareholder within the meaning of Division 4 of Part IV of the Companies Act (Cap. 50) in that corporation or in a related corporation; or
+(ii) he is a substantial shareholder in that corporation or in a related corporation; or
 
 (iii) he occupies a position that may reasonably be expected to give him access to information of a kind to which this section applies by virtue of —
 
 (A) any professional or business relationship existing between himself (or his employer or a corporation of which he is an officer) and that corporation or a related corporation; or
 
-(B) being an officer of a substantial shareholder within the meaning of Division 4 of Part IV of the Companies Act in that corporation or in a related corporation.
+(B) being an officer of a substantial shareholder in that corporation or in a related corporation.
 
 [1/2005]
+
+[2/2009 wef 01/10/2012]
 
 (6) In subsection (5), “officer”, in relation to a corporation, includes —
 
@@ -9278,11 +9790,13 @@ whichever is the greater.
 
 (b) had suffered loss by reason of the difference between —
 
-(i) the price at which the securities, futures contracts, or contracts in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention; and
+(i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention; and
 
-(ii) the price at which the securities, futures contracts or contracts in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention had not occurred.
+(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention had not occurred.
 
-(2) The amount of compensation that the contravening person is liable to pay to the claimant is the amount of the loss suffered by the claimant, up to the maximum recoverable amount.
+[2/2009 wef 01/10/2012]
+
+(2) The amount of compensation that the contravening person is liable to pay to the claimant is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable to the same claimant in respect of the same contravention under an order of court or an agreement to pay by any defendant, defendant corporation or defendant partnership under Division 5 or under an order for disgorgement under section 236L, up to the maximum recoverable amount.
 
 (3) Any defence that is available to a person who is prosecuted for a contravention of any provision in this Part, shall also be available to a defendant to an action under this section in respect of the contravention.
 
@@ -9358,9 +9872,9 @@ whichever is the lesser.
 
 (c) no notice of appeal against the conviction is lodged within the time prescribed by sections 377 and 378 of the Criminal Procedure Code 2010; or
 
-[Act 15 of 2010 wef 02/01/2011]
-
 (d) any appeal against the conviction is withdrawn.
+
+[15/2010 wef 02/01/2011]
 
 (5) For the purposes of this section, an order imposing a civil penalty is made final if —
 
@@ -9374,27 +9888,565 @@ whichever is the lesser.
 
 [SIA, s. 104E]
 
+Division 5 —
+
+Attributed Liability
+
+### Interpretation of this Division
+
+236A\. In this Division, unless the context otherwise requires —
+
+“defendant” means an individual liable to an order for a civil penalty under section 236H in respect of a contravention of any provision in this Part committed by a corporation, partnership, limited liability partnership or unincorporated association;
+
+“defendant corporation” means a corporation ––
+
+(a) liable to be punished under section 236B(1) or to an order for a civil penalty under section 236B(3) in respect of a contravention of any provision in this Part committed by its employee or officer; or
+
+(b) liable to an order for a civil penalty under section 236C(1);
+
+“defendant partnership” means a partnership or limited liability partnership ––
+
+(a) liable to be punished under section 236E(1) or to an order for a civil penalty under section 236E(3) in respect of a contravention of any provision in this Part committed by a partner or employee of the partnership or a partner, manager or employee of the limited liability partnership, as the case may be; or
+
+(b) liable to an order for a civil penalty under section 236F(1);
+
+“partnership”, for the purposes of Subdivision (2), means the partnership at the time of the contravention by the contravening person referred to in section 236E(1) or 236F(1), as the case may be.
+
+[2/2009 wef 01/10/2012]
+
+Subdivision (1) — Corporations
+
+### Liability of corporation when employee or officer commits contravention with consent or connivance of corporation
+
+236B\.—(1) Where an offence of contravening any provision in this Part is proved to have been committed by an employee or an officer of a corporation (referred to in this section as the contravening person) —
+
+(a) with the consent or connivance of the corporation; and
+
+(b) for the benefit of the corporation,
+
+the corporation shall be guilty of that offence as if the corporation had committed the contravention, and shall be liable to be proceeded against and punished accordingly.
+
+(2) No proceedings shall be instituted against a corporation under subsection (1) after —
+
+(a) a court has made an order against the corporation for the payment of a civil penalty under subsection (3); or
+
+(b) the corporation has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5) (as that provision is applied to an action under subsection (3) by subsection (6)),
+
+in respect of the same contravention.
+
+(3) Where it appears to the Authority that a corporation is liable to be punished under subsection (1) for a contravention committed by a contravening person, the Authority may, with the consent of the Public Prosecutor, bring an action in a court against the corporation to seek an order for a civil penalty in respect of that contravention as if the corporation had committed the contravention, whether or not such action is brought against the contravening person.
+
+(4) If the court in subsection (3) is satisfied on a balance of probabilities that the corporation is liable to be punished under subsection (1) for a contravention of any provision in this Part, which contravention resulted in the corporation gaining a profit or avoiding a loss, the court may make an order against the corporation for the payment of a civil penalty of a sum —
+
+(a) not exceeding 3 times —
+
+(i) the amount of the profit that the corporation gained; or
+
+(ii) the amount of the loss that it avoided,
+
+as a result of the contravention by the contravening person; or
+
+(b) equal to $100,000,
+
+whichever is the greater.
+
+(5) If the court in subsection (3) is satisfied on a balance of probabilities that the corporation is liable to be punished under subsection (1) for a contravention of any provision in this Part, which contravention did not result in the corporation gaining a profit or avoiding a loss, the court may make an order against the corporation for the payment of a civil penalty of a sum not less than $50,000 and not more than $2 million.
+
+(6) Sections 232(4) to (7) and 233 shall apply in relation to an action brought against a corporation under subsection (3) as they apply in relation to an action under section 232.
+
+(7) Any defence that would be available to —
+
+(a) the contravening person if he were prosecuted for his contravention; or
+
+(b) the corporation if it were prosecuted under subsection (1) in respect of that contravention,
+
+shall also be available to the corporation in an action under subsection (3) in respect of that contravention.
+
+(8) The means by which consent or connivance of the corporation under subsection (1) or (3) may be established include proving that —
+
+(a) the corporation’s board of directors intentionally, knowingly or recklessly carried out the relevant conduct, or expressly, tacitly or impliedly authorised or permitted the contravention;
+
+(b) a high managerial agent of the corporation intentionally, knowingly or recklessly engaged in the relevant conduct, or expressly, tacitly or impliedly authorised or permitted the contravention; or
+
+(c) a corporate culture existed within the corporation that directed or encouraged non-compliance with the relevant provision.
+
+(9) In this section —
+
+“board of directors” means the body (by whatever name called) exercising the executive authority of the corporation;
+
+“corporate culture” means an attitude, policy, rule, course of conduct or practice existing within the corporation generally or in the part of the corporation in which the relevant activity takes place;
+
+“high managerial agent” means an employee, agent or officer of the corporation with duties of such responsibility that his conduct may fairly be assumed to represent the corporation’s policy.
+
+[2/2009 wef 01/10/2012]
+
+### Civil penalty when corporation fails to prevent or detect contravention by employee or officer
+
+236C\.—(1) A corporation which fails to prevent or detect a contravention of any provision in this Part committed by an employee or officer of the corporation (referred to in this section as the contravening person), which contravention is —
+
+(a) committed for the benefit of the corporation; and
+
+(b) attributable to the negligence of the corporation,
+
+commits a contravention and shall be liable to an order for a civil penalty under this section.
+
+(2) Where it appears to the Authority that a corporation has committed a contravention under subsection (1), the Authority may, with the consent of the Public Prosecutor, bring an action in a court against the corporation to seek an order for a civil penalty.
+
+(3) If the court is satisfied on a balance of probabilities that the corporation has committed a contravention under subsection (1), which resulted in the corporation gaining a profit or avoiding a loss, the court may make an order against the corporation for the payment of a civil penalty of a sum —
+
+(a) not exceeding 3 times —
+
+(i) the amount of the profit that the corporation gained; or
+
+(ii) the amount of the loss that it avoided,
+
+as a result of the contravention by the contravening person; or
+
+(b) equal to $100,000,
+
+whichever is the greater.
+
+(4) If the court is satisfied on a balance of probabilities that the corporation has committed a contravention under subsection (1), which did not result in the corporation gaining a profit or avoiding a loss, the court may make an order against the corporation for the payment of a civil penalty of a sum not less than $50,000 and not more than $2 million.
+
+(5) Sections 232(4) to (7) and 233 shall apply in relation to an action brought against a corporation under subsection (2) as they apply in relation to an action under section 232.
+
+(6) Any defence that would be available to the contravening person if he were prosecuted for his contravention shall also be available to the corporation in an action under subsection (2) in respect of its failure to prevent or detect that contravention.
+
+(7) For the purposes of subsection (1), in determining whether a contravention is attributable to the negligence of a corporation, the court shall take into account the following matters:
+
+(a) whether the corporation has established adequate policies and procedures for the purposes of preventing and detecting market misconduct;
+
+(b) whether the corporation has consistently enforced compliance with its policies and procedures referred to in paragraph (a); and
+
+(c) such other factors as the court may consider relevant.
+
+[2/2009 wef 01/10/2012]
+
+### Civil liability of corporation for contravention by employee or officer
+
+236D\.—(1) A defendant corporation which has gained a profit or avoided a loss as a result of the contravention of a provision in this Part by the contravening person referred to in section 236B(1) or 236C(1) shall, whether or not it had been convicted or had a civil penalty imposed on it, be liable to pay compensation to any person (referred to in this section as the claimant) who ––
+
+(a) contemporaneously with the contravention by the contravening person, had subscribed for, purchased or sold securities, or entered into any futures contract, or contracts or arrangements in connection with leveraged foreign exchange trading, of the same description; and
+
+(b) had suffered loss by reason of the difference between —
+
+(i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention by the contravening person; and
+
+(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention by the contravening person had not occurred.
+
+(2) The amount of compensation that the defendant corporation is liable to pay to the claimant under subsection (1) is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable —
+
+(a) by the contravening person under an order of court or an agreement to pay; or
+
+(b) under an order for disgorgement under section 236L,
+
+to the same claimant in respect of the same contravention, up to the maximum recoverable amount.
+
+(3) Any defence that would be available to —
+
+(a) the contravening person if he were prosecuted for his contravention; or
+
+(b) the defendant corporation if it were prosecuted under section 236B(1) or had an action brought against it under section 236C(2),
+
+shall also be available to the defendant corporation in an action under this section in respect of that contravention.
+
+(4) An action under this section shall not be commenced after the expiration of 6 years from the date of completion of the contemporaneous dealing or trading in which the loss occurred.
+
+(5) In determining whether the dealing or trading took place contemporaneously with the contravention by the contravening person, the court shall take into account the matters set out in section 234(5).
+
+(6) In this section, “maximum recoverable amount” means —
+
+(a) the amount of profit that the defendant corporation gained; or
+
+(b) the amount of the loss that it avoided,
+
+as a result of the contravention by the contravening person, after deducting all amounts of compensation that the defendant corporation had previously been ordered by a court to pay to other claimants under this section in respect of the same contravention.
+
+[2/2009 wef 01/10/2012]
+
+Subdivision (2) — Partnerships and limited liability partnerships
+
+### Liability of partnership and limited liability partnership when partner, etc., commits contravention with consent or connivance
+
+236E\.—(1) Where an offence of contravening any provision of this Part is proved to have been committed by a partner or employee of a partnership or a partner, manager or employee of a limited liability partnership (referred to in this section as the contravening person) —
+
+(a) with the consent or connivance of the partnership or limited liability partnership; and
+
+(b) for the benefit of the partnership or limited liability partnership,
+
+the partnership or limited liability partnership shall be guilty of that offence as if it had committed the contravention, and every partner of that partnership, or the limited liability partnership, as the case may be, shall be liable to be proceeded against and punished accordingly.
+
+(2) No proceedings shall be instituted against any partner of the partnership or the limited liability partnership under subsection (1) after —
+
+(a) a court has made an order against the partner or limited liability partnership for the payment of a civil penalty under subsection (3); or
+
+(b) the partner or limited liability partnership has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5) (as that provision is applied to an action under subsection (3) by subsection (6)),
+
+in respect of the same contravention.
+
+(3) Where it appears to the Authority that a partnership or a limited liability partnership is liable to be punished under subsection (1) for a contravention committed by a contravening person, the Authority may, with the consent of the Public Prosecutor, bring an action in a court against the partnership or limited liability partnership to seek an order for a civil penalty in respect of that contravention as if the partnership or limited liability partnership had committed the contravention, whether or not such action is brought against the contravening person.
+
+(4) If the court in subsection (3) is satisfied on a balance of probabilities that the partnership or limited liability partnership is liable to be punished under subsection (1) for a contravention of any provision in this Part, which contravention resulted in the partnership or limited liability partnership gaining a profit or avoiding a loss, the court may make an order against the partnership or limited liability partnership for the payment of a civil penalty of a sum —
+
+(a) not exceeding 3 times —
+
+(i) the amount of the profit that the partnership or limited liability partnership gained; or
+
+(ii) the amount of the loss that it avoided,
+
+as a result of the contravention by the contravening person; or
+
+(b) equal to $100,000,
+
+whichever is the greater.
+
+(5) If the court in subsection (3) is satisfied on a balance of probabilities that the partnership or limited liability partnership is liable to be punished under subsection (1) for a contravention of any provision in this Part, which contravention did not result in the partnership or limited liability partnership gaining a profit or avoiding a loss, the court may make an order against the partnership or limited liability partnership for the payment of a civil penalty of a sum not less than $50,000 and not more than $2 million.
+
+(6) Sections 232(4) to (7) and 233 shall apply in relation to an action brought against a partnership or limited liability partnership under subsection (3) as they apply in relation to an action under section 232.
+
+(7) Any defence that would be available to —
+
+(a) the contravening person if he were prosecuted for his contravention; or
+
+(b) the partnership or limited liability partnership if it were prosecuted under subsection (1) in respect of that contravention,
+
+shall also be available to the partnership or limited liability partnership in an action under subsection (3) in respect of that contravention.
+
+(8) The means by which consent or connivance of the partnership or limited liability partnership under subsection (1) or (3) may be established include proving that —
+
+(a) the executive partners of the partnership or limited liability partnership intentionally, knowingly or recklessly carried out the relevant conduct, or expressly, tacitly or impliedly authorised or permitted the contravention;
+
+(b) a high managerial agent of the partnership or limited liability partnership intentionally, knowingly or recklessly engaged in the relevant conduct, or expressly, tacitly or impliedly authorised or permitted the contravention; or
+
+(c) a corporate culture existed within the partnership or limited liability partnership that directed or encouraged non-compliance with the relevant provision.
+
+(9) In this section —
+
+“corporate culture” means an attitude, policy, rule, course of conduct or practice existing within the partnership or limited liability partnership generally or in the part of the partnership or limited liability partnership in which the relevant activity takes place;
+
+“executive partners” means the partners exercising the executive authority of the partnership or limited liability partnership;
+
+“high managerial agent” means a partner, manager or employee of the partnership or limited liability partnership with duties of such responsibility that his conduct may fairly be assumed to represent the partnership or limited liability partnership’s policy.
+
+[2/2009 wef 01/10/2012]
+
+### Civil penalty when partnership or limited liability partnership fails to prevent or detect contravention by partner, etc.
+
+236F\.—(1) A partnership or limited liability partnership which fails to prevent or detect a contravention of any provision in this Part committed by a partner or employee of the partnership or a partner, manager or employee of the limited liability partnership, as the case may be (referred to in this section as the contravening person), which contravention is —
+
+(a) committed for the benefit of the partnership or limited liability partnership; and
+
+(b) attributable to the negligence of the partnership or limited liability partnership,
+
+commits a contravention and shall be liable to an order for a civil penalty under this section.
+
+(2) Where it appears to the Authority that a partnership or limited liability partnership has committed a contravention under subsection (1), the Authority may, with the consent of the Public Prosecutor, bring an action in a court against the partnership or limited liability partnership to seek an order for a civil penalty.
+
+(3) If the court is satisfied on a balance of probabilities that the partnership or limited liability partnership has committed a contravention under subsection (1), which resulted in the partnership or limited liability partnership gaining a profit or avoiding a loss, the court may make an order against the partnership or limited liability partnership for the payment of a civil penalty of a sum —
+
+(a) not exceeding 3 times —
+
+(i) the amount of the profit that the partnership or limited liability partnership gained; or
+
+(ii) the amount of the loss that it avoided,
+
+as a result of the contravention by the contravening person; or
+
+(b) equal to $100,000,
+
+whichever is the greater.
+
+(4) If the court is satisfied on a balance of probabilities that the partnership or limited liability partnership has committed a contravention under subsection (1), which did not result in the partnership or limited liability partnership gaining a profit or avoiding a loss, the court may make an order against the partnership or limited liability partnership for the payment of a civil penalty of a sum not less than $50,000 and not more than $2 million.
+
+(5) Sections 232(4) to (7) and 233 shall apply in relation to an action brought against a partnership or limited liability partnership under subsection (2) as they apply in relation to an action under section 232.
+
+(6) Any defence that would be available to the contravening person if he were prosecuted for his contravention shall also be available to the partnership or limited liability partnership in an action under subsection (2) in respect of its failure to prevent or detect that contravention.
+
+(7) For the purposes of subsection (1), in determining whether a contravention is attributable to the negligence of a partnership or limited liability partnership, the court shall take into account the following matters:
+
+(a) whether the partnership or limited liability partnership has established adequate policies and procedures for the purposes of preventing and detecting market misconduct;
+
+(b) whether the partnership or limited liability partnership has consistently enforced compliance with its policies and procedures referred to in paragraph (a); and
+
+(c) such other factors as the court may consider relevant.
+
+[2/2009 wef 01/10/2012]
+
+### Civil liability of partnership or limited liability partnership for contravention by partner, etc.
+
+236G\.—(1) A defendant partnership which has gained a profit or avoided a loss as a result of the contravention of a provision in this Part by the contravening person referred to in section 236E(1) or 236F(1) shall, whether or not the partners of the partnership or the limited liability partnership had been convicted or the partnership or limited liability partnership had a civil penalty imposed on it, be liable to pay compensation to any person (referred to in this section as the claimant) who —
+
+(a) contemporaneously with the contravention by the contravening person, had subscribed for, purchased or sold securities, or entered into any futures contract, or contracts or arrangements in connection with leveraged foreign exchange trading, of the same description; and
+
+(b) had suffered loss by reason of the difference between —
+
+(i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention by the contravening person; and
+
+(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention by the contravening person had not occurred.
+
+(2) The amount of compensation that the defendant partnership is liable to pay to the claimant under subsection (1) is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable —
+
+(a) by the contravening person under an order of court or an agreement to pay; or
+
+(b) under an order for disgorgement under section 236L,
+
+to the same claimant in respect of the same contravention, up to the maximum recoverable amount.
+
+(3) Any defence that would be available to —
+
+(a) the contravening person if he were prosecuted for his contravention; or
+
+(b) the defendant partnership if it were prosecuted under section 236E(1) or had an action brought against it under section 236F(2),
+
+shall also be available to the defendant partnership in an action under this section in respect of that contravention.
+
+(4) An action under this section shall not be commenced after the expiration of 6 years from the date of completion of the contemporaneous dealing or trading in which the loss occurred.
+
+(5) In determining whether the dealing or trading took place contemporaneously with the contravention by the contravening person, the court shall take into account the matters set out in section 234(5).
+
+(6) In this section, “maximum recoverable amount” means —
+
+(a) the amount of profit that the defendant partnership gained; or
+
+(b) the amount of the loss that it avoided,
+
+as a result of the contravention by the contravening person, after deducting all amounts of compensation that the defendant partnership had previously been ordered by a court to pay to other claimants under this section in respect of the same contravention.
+
+[2/2009 wef 01/10/2012]
+
+Subdivision (3) — Officers, partners, etc., of entities
+
+### Civil penalty against officer of corporation, etc.
+
+236H\.—(1) Where it appears to the Authority that a corporation, partnership, limited liability partnership or unincorporated association (referred to in this section as the contravening person) has contravened any provision in this Part —
+
+(a) with the consent or connivance of a person (referred to in this section as the defendant) who is an officer or (where its affairs are managed by its members) a member of the corporation, a partner of the partnership, a partner or manager of the limited liability partnership, or an officer of the unincorporated association (other than a partnership) or a member of its governing body, as the case may be; or
+
+(b) as a result of any neglect on the part of the defendant,
+
+the Authority may, with the consent of the Public Prosecutor, bring an action in a court against the defendant to seek an order for a civil penalty in respect of that contravention as if the defendant had committed the contravention, whether or not such action is brought against the contravening person.
+
+(2) If the court is satisfied on a balance of probabilities that the contravening person has contravened a provision in this Part with the consent or connivance of the defendant, or as a result of any neglect on the part of the defendant, which contravention resulted in the defendant gaining a profit or avoiding a loss, the court may make an order against the defendant for the payment of a civil penalty of a sum —
+
+(a) not exceeding 3 times —
+
+(i) the amount of the profit that the defendant gained; or
+
+(ii) the amount of the loss that he avoided,
+
+as a result of the contravention by the contravening person; or
+
+(b) equal to $50,000,
+
+whichever is the greater.
+
+(3) If the court is satisfied on a balance of probabilities that the contravening person has contravened a provision in this Part with the consent or connivance of the defendant, or as a result of any neglect on the part of the defendant, which contravention did not result in the defendant gaining a profit or avoiding a loss, the court may make an order against the defendant for the payment of a civil penalty of a sum not less than $50,000 and not more than $2 million.
+
+(4) Sections 232(4) to (7) and 233 shall apply in relation to an action brought against a defendant under subsection (1) as they apply in relation to an action under section 232.
+
+(5) Any defence that would be available to —
+
+(a) the contravening person if it were prosecuted for its contravention; or
+
+(b) the defendant if he were prosecuted under section 331 in respect of that contravention,
+
+shall also be available to the defendant in an action under subsection (1) in respect of that contravention.
+
+[2/2009 wef 01/10/2012]
+
+### Civil liability of officer of corporation, etc.
+
+236I\.—(1) A defendant who has gained a profit or avoided a loss as a result of the contravention of a provision in this Part by a contravening person referred to in section 236H(1) shall, whether or not the defendant had been convicted under section 331 or had a civil penalty imposed on him under section 236H, be liable to pay compensation to any person (referred to in this section as the claimant) who —
+
+(a) contemporaneously with the contravention by the contravening person, had subscribed for, purchased or sold securities, or entered into futures contract, or contracts or arrangements in connection with leveraged foreign exchange trading, of the same description; and
+
+(b) had suffered loss by reason of the difference between —
+
+(i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention by the contravening person; and
+
+(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention by the contravening person had not occurred.
+
+(2) The amount of compensation that the defendant is liable to pay to the claimant is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable ––
+
+(a) by the contravening person under an order of court or an agreement to pay; or
+
+(b) under an order for disgorgement under section 236L,
+
+to the same claimant in respect of the same contravention, up to the maximum recoverable amount.
+
+(3) Any defence that would be available to —
+
+(a) the contravening person if it were prosecuted for its contravention; or
+
+(b) the defendant if he were prosecuted under section 331 in respect of that contravention,
+
+shall also be available to the defendant in an action under this section in respect of that contravention.
+
+(4) An action under this section shall not be commenced after the expiration of 6 years from the date of completion of the contemporaneous dealing or trading in which the loss occurred.
+
+(5) In determining whether a dealing in securities, trading in futures contracts, or leveraged foreign exchange trading took place contemporaneously with the contravention by the contravening person, the court shall take into account the matters referred to in section 234(5)(a) to (e).
+
+(6) In this section, “maximum recoverable amount” means —
+
+(a) the amount of the profit that the defendant gained; or
+
+(b) the amount of the loss that he avoided,
+
+as a result of the contravention by the contravening person, after deducting all amounts of compensation that the defendant had previously been ordered by a court to pay to other claimants under this section in respect of the same contravention.
+
+[2/2009 wef 01/10/2012]
+
+Subdivision (4) — General
+
+### Actions not to commence or stayed in certain situations
+
+236J\.—(1) Except with the leave of court, no action may be brought against —
+
+(a) a defendant corporation under section 236B, 236C or 236D;
+
+(b) a defendant partnership (including, in the case of a partnership, any of the partners) under section 236E, 236F or 236G; or
+
+(c) a defendant under section 236H or 236I,
+
+which relates to a contravention of a provision in this Part (referred to in this section as the primary contravention) by a contravening person referred to in section 236B(1) or 236C(1) (in relation to the defendant corporation), 236E(1) or 236F(1) (in relation to the defendant partnership) or 236H(1) (in relation to the defendant), as the case may be, after the commencement of ––
+
+(i) criminal proceedings in respect of the primary contravention against the contravening person; or
+
+(ii) an action under section 232 in respect of the primary contravention against the contravening person,
+
+and any such action in paragraph (a), (b) or (c) pending on the date of commencement of the proceedings or action in paragraph (i) or (ii) shall be stayed, and may not thereafter be continued except with the leave of court.
+
+(2) Leave under subsection (1) may not be granted if ––
+
+(a) in the criminal proceedings referred to in subsection (1)(i), the contravening person has been acquitted of the primary contravention; or
+
+(b) in the action under section 232 referred to in subsection (1)(ii), the court is not satisfied that the contravening person has committed the primary contravention.
+
+(3) Except with the leave of court, no action under section 236D, 236G or 236I may be brought against the defendant corporation, defendant partnership or defendant in respect of a primary contravention after the commencement of —
+
+(a) criminal proceedings against the defendant corporation under section 236B(1), the defendant partnership (including, in the case of a partnership, any of the partners) under section 236E(1) or the defendant under section 331 in respect of the same contravention;
+
+(b) an action against the defendant corporation under section 236B(3), the defendant partnership under section 236E(3) or the defendant under section 236H in respect of the same contravention; or
+
+(c) an action against the defendant corporation under section 236C(2) or the defendant partnership under section 236F(2) in respect of the failure to prevent or detect that contravention,
+
+and any such action under section 236D, 236G or 236I, as the case may be, pending on the date of commencement of the proceedings or action in paragraph (a), (b) or (c) shall be stayed, and may not thereafter be continued except with the leave of court.
+
+(4) Leave under subsection (3) may not be granted if a date has been fixed by a court under section 236K for the filing of claims, and in that event the claimant to the proposed action or the action that has been stayed, as the case may be, shall comply with such directions relating to the filing and proof of his claim under section 236K as that court may issue in his case.
+
+[2/2009 wef 01/10/2012]
+
+### Civil liability in event of conviction or civil penalty
+
+236K\.—(1) Notwithstanding section 236D, 236G or 236I, where a defendant corporation, defendant partnership (including, in the case of a partnership, any of the partners) or defendant —
+
+(a) has been convicted of an offence under this Division; or
+
+(b) has had an order for the payment of civil penalty made against it or him under this Division, other than by way of a default judgment or a consent order made with or without admission of contravention,
+
+and has gained a profit or avoided a loss as a result of the contravention by the contravening person referred to in section 236B(1), 236C(1), 236E(1), 236F(1) or 236H(1), as the case may be, the court which convicted or made the order for a civil penalty against the defendant corporation, defendant partnership (or any of the partners thereof) or defendant may, after the conviction or the order imposing the civil penalty has been made final, fix a date on or before which all claimants have to file and prove their claims against the defendant corporation, defendant partnership or defendant, as the case may be, for compensation in respect of that contravention.
+
+(2) Section 236(2) to (5) shall apply, with the necessary modifications, to an action under subsection (1), and in such application —
+
+(a) any reference to the contravening person shall be read as the defendant corporation, the defendant partnership or the defendant in subsection (1); and
+
+(b) the reference to an action under section 234 shall be read as an action under section 236D (in relation to the defendant corporation), 236G (in relation to the defendant partnership) or 236I (in relation to the defendant), as the case may be.
+
+(3) In this section, “claimant” means any person who would qualify as a claimant to bring an action against the defendant corporation, defendant partnership or defendant under section 236D, 236G or 236I, as the case may be.
+
+[2/2009 wef 01/10/2012]
+
+### Order for disgorgement against third party
+
+236L\.—(1) Without prejudice to any action under section 234, 236, 236D, 236G, 236I or 236K, where —
+
+(a) a person has been convicted by a court of an offence in respect of a contravention of any provision in this Part;
+
+(b) a person has had an order for the payment of a civil penalty made against him under section 232 or any of the provisions in this Division by a court, other than by way of a default judgment or a consent order made with or without admission of contravention, in respect of a contravention of any provision in this Part; or
+
+(c) in an action commenced under this section, a court is satisfied on a balance of probabilities that a contravention by a person of any provision in this Part has occurred,
+
+the court may, on the application of the Authority or any claimant, make an order against any other person (referred to in this section as a third party) who has received the whole or any part of the benefit of that contravention for disgorgement of that benefit, being benefit derived from trades carried out for the third party by the person referred to in paragraph (a), (b) or (c).
+
+(2) The court shall issue a notice to a third party against whom an application for an order for disgorgement under subsection (1) is made, giving the third party an opportunity to show cause, within such time as may be specified in the notice, why the order should not be made.
+
+(3) An application for an order for disgorgement under subsection (1) shall not be commenced after the expiration of 6 years from the date on which the contravention referred to in that subsection was committed.
+
+(4) The court shall not make an order for disgorgement against a third party, or shall not order disgorgement of the entire benefit derived by the third party, if the court is satisfied, on a balance of probabilities, that —
+
+(a) the third party acquired the benefit without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the benefit was derived from the contravention referred to in subsection (1); and
+
+(b) the third party has so altered his position in reliance on his having an indefeasible interest in the benefit that, in the opinion of the court, it would be inequitable to make the order for disgorgement or to order disgorgement of the entire benefit derived by him, as the case may be.
+
+(5) Notwithstanding subsection (4), the court may make an order for disgorgement against a third party referred to in subsection (4) of a sum that is, in the opinion of the court, equitable.
+
+(6) The court may, after the order for disgorgement has been made final, fix a date, not earlier than 6 months from the date the order for disgorgement has been made final, on or before which all claimants have to file and prove their claims for compensation in respect of the contravention referred to in subsection (1).
+
+(7) The court may, after the expiry of the date fixed under subsection (6), order that each claimant who has filed and proven his claim for compensation be paid out of the sum under the final order for disgorgement, an amount —
+
+(a) equal to the amount of loss suffered by the claimant, after deducting any other compensation paid or payable to the same claimant under an order of court or an agreement to pay in respect of the same contravention; or
+
+(b) equal to the pro-rated portion of the sum under the final order for disgorgement, calculated according to the relationship which the amount referred to in paragraph (a) bears to all amounts proved to the court,
+
+whichever is the lesser.
+
+(8) Any sum remaining under the order for disgorgement shall be paid into the Consolidated Fund.
+
+(9) If the third party fails to pay the sums under the order for disgorgement within the time specified in the court order under subsection (7) ––
+
+(a) each claimant may recover the sum due to him under the order for disgorgement as though it were a judgment debt due to him; and
+
+(b) the remaining sum under the order for disgorgement may be recovered by the Authority as though it were a judgment debt due to the Authority and paid into the Consolidated Fund.
+
+(10) After the expiry of the date fixed under subsection (6), no person shall make any subsequent application under this section for an order for disgorgement against the third party in respect of the same contravention.
+
+(11) For the purposes of this section, an order for disgorgement is made final if —
+
+(a) the order is not set aside on appeal or revision or is varied only as to the sum to be disgorged;
+
+(b) the order is not subject to further appeal;
+
+(c) no notice of appeal against the order is lodged within the time prescribed by Rules of Court (Cap. 322, R 5); or
+
+(d) any appeal against the order is withdrawn.
+
+(12) In this section —
+
+“benefit”, in relation to a contravention of any provision in this Part, means a profit gained or loss avoided as a result of that contravention;
+
+“claimant”, in relation to a contravention of any provision in this Part, means any person who would qualify as a claimant under section 234 in respect of that contravention.
+
+Division 6 —
+
+Miscellaneous
+
 ### Jurisdiction of District Court
 
-237\. A District Court shall have jurisdiction to hear and determine any action under section 232, 234 or 236 regardless of the monetary amount.
+237\. A District Court shall have jurisdiction to hear and determine any action under Division 4 or 5 or any application under section 236L regardless of the monetary amount.
 
 [SIA, s. 104F]
+
+[2/2009 wef 01/10/2012]
 
 ### Rules of Court
 
 238\.—(1) Rules of Court (Cap. 322, R 5) may be made —
 
-(a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under sections 232, 234 and 236; and
+(a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under Divisions 4 and 5 and any application under section 236L; and
 
 (b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
-(2) Without prejudice to the generality of subsection (1), Rules of Court may, in relation to proceedings under section 236 —
+[2/2009 wef 01/10/2012]
 
-(a) provide for the advertisement of a notice for the filing and proof of claims under that section;
+(2) Without prejudice to the generality of subsection (1), Rules of Court may, in relation to proceedings under sections 236, 236K and 236L —
+
+(a) provide for the advertisement of a notice for the filing and proof of claims under those sections;
 
 (b) prescribe the procedure for the filing, proof and hearing of those claims; and
 
-(c) provide for the payment of the costs and fees of an action that has been stayed under section 235(2).
+(c) provide for the payment of the costs and fees of an action that has been stayed under section 235(2) or 236J.
+
+[2/2009 wef 01/10/2012]
 
 [SIA, s. 104G]
 
@@ -9595,8 +10647,6 @@ then this Division shall not apply to that offer.
 ### Modification of provisions to certain offers
 
 239B\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of securities as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
-
-Subdivision (2) — Prospectus requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -15312,7 +16362,7 @@ transmit a copy of the notice to the trustee of the subject trust together with 
 
 (ii) by the trustee-manager of the business trust on its own account, or by the manager for the real estate investment trust, or by a nominee of the trustee-manager or manager; or
 
-(iii) by a related corporation of the trustee-manager for the business trust or the manager for the real estate investment trust or by a nominee of that related corporation; or/P>
+(iii) by a related corporation of the trustee-manager for the business trust or the manager for the real estate investment trust or by a nominee of that related corporation; or
 
 (d) where the transferee is the trustee of a trust that is not a business trust or real estate investment trust, by a related corporation of the trustee (being a corporation) or by a nominee of that related corporation,
 
@@ -16744,9 +17794,9 @@ APPEALS
 
 MISCELLANEOUS
 
-314\. [Act 1/2005]
+314\. [Repealed by Act 1/2005]
 
-315\. [Act 1/2005]
+315\. [Repealed by Act 1/2005]
 
 ### Opportunity to be heard
 
@@ -16754,13 +17804,17 @@ MISCELLANEOUS
 
 ### Records
 
-317\.—(1) Subject to section 94, the Authority shall keep such records as it considers necessary, in such form as it thinks fit.
+317\.—(1) Subject to sections 94 and 99C, the Authority shall keep such records as it considers necessary, in such form as it thinks fit.
+
+[2/2009 wef 01/10/2012]
 
 (2) Any person may, on payment of the prescribed fee —
 
-(a) inspect any register kept by the Authority under section 94 or any prospectus or profile statement lodged with the Authority under Part XIII and such other records lodged with or kept by the Authority as may be prescribed; or
+(a) inspect any records kept by the Authority under section 94 or 99C or any prospectus or profile statement lodged with the Authority under Part XIII; or
 
 (b) require a copy of or extract from any such record to be given or certified by the Authority.
+
+[2/2009 wef 01/10/2012]
 
 (3) A copy of or extract from any record lodged with or kept by the Authority certified to be a true copy or extract by the Authority shall in any proceedings be admissible as evidence of equal validity as the original record.
 
@@ -16906,11 +17960,13 @@ the Authority may refuse to register or receive the record and request that the 
 
 322\.—(1) The Authority may, where it thinks it necessary or expedient in the interest of the public or section of the public or for the protection of investors and in such form or manner as it thinks fit, publish —
 
-(a) any information relating to an approved holding company, a securities exchange, a futures exchange, a recognised market operator, an exempt market operator, a person operating an exempt market, a designated clearing house, a person operating a clearing facility, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
+(a) any information relating to an approved exchange, a recognised market operator, an exempt market operator, a person operating a clearing facility, a designated clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
 
 (b) any other information which the Authority has acquired in the exercise of its functions or the performance of its duties under this Act.
 
 [1/2005]
+
+[2/2009 wef 01/10/2012]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may publish information relating to —
 
@@ -16940,7 +17996,7 @@ the Authority may refuse to register or receive the record and request that the 
 
 [1/2005]
 
-323\. [Act 24/2003]
+323\. [Repealed by Act 24/2003]
 
 ### Power of court to prohibit payment or transfer of moneys, securities, etc.
 
@@ -17114,9 +18170,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “officer” includes a person purporting to act in the capacity of an officer;
 
-“relevant person” means any approved holding company, securities exchange, futures exchange, recognised market operator, exempt market, person operating an exempt market, designated clearing house, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
+“relevant person” means any approved exchange, recognised market operator, exempt market operator, person operating a clearing facility, designated clearing house, approved holding company, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
 
 [1/2005]
+
+[2/2009 wef 01/10/2012]
 
 [SIA, s. 108]
 
@@ -17276,9 +18334,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “partner” includes a person purporting to act as a partner;
 
-“relevant person” means an approved holding company, a securities exchange, a futures exchange, a recognised market operator, an exempt market operator, a person operating an exempt market, a designated clearing house, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer, partner or representative thereof.
+“relevant person” means an approved exchange, a recognised market operator, an exempt market operator, a person operating a clearing facility, a designated clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer, partner or representative thereof.
 
 [16/2003; 1/2005]
+
+[2/2009 wef 01/10/2012]
 
 ### General penalty
 
@@ -17288,11 +18348,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 336\.—(1) Proceedings for an offence against any provisions of Part XII may be taken only with the consent of the Public Prosecutor.
 
-[Act 15 of 2010 wef 02/01/2011]
+[15/2010 wef 02/01/2011]
 
 (2) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding the maximum fine prescribed for that offence.
-
-[Act 15 of 2010 wef 02/01/2011]
 
 [SIA, s. 117; FTA, s. 66]
 
@@ -17398,7 +18456,7 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (d) the activities of, and standards to be maintained by persons holding a capital markets services licence to carry on business in any regulated activity and their representatives, including the manner, method and place of soliciting business by the holder of the licence and their representatives and the conduct of such solicitation;
 
-(e) [Act 16/2003]
+(e) [Deleted by Act 16/2003]
 
 (f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised market operator, or clearing facility;
 
@@ -17449,6 +18507,8 @@ the act shall be treated as being carried out by that person in Singapore.
 342\.—(1) The Authority may by regulations prescribe such provisions as it may consider necessary or expedient for the purpose of applying this Act in relation to commodity futures contracts, trading in futures contracts, commodity futures brokers, commodity futures broker’s representatives, Commodity Futures Exchanges, commodity futures markets, commodity futures pool operators and commodity futures pool operator’s representatives; and for this purpose this Act shall apply with such modifications as may be prescribed.
 
 (2) In subsection (1), “commodity futures contract”, “trading in futures contract”, “commodity futures broker”, “commodity futures broker’s representative”, “Commodity Futures Exchange”, “commodity futures market”, “commodity futures pool operator” and “commodity futures pool operator’s representative” have the meanings given to those expressions in the Commodity Trading Act (Cap. 48A) in force immediately before the commencement of this provision.
+
+[35/2007 wef 27/08/2007]
 
 FIRST SCHEDULE
 
@@ -17502,7 +18562,9 @@ Definition of clearing facility
 
 (ii) futures contracts; or
 
-(b) such other clearing or settlement facility or class of clearing or settlement facilities as the Authority may, by order, prescribe;
+(b) such other facility or class of facilities for the clearing or settlement of transactions as the Authority may, by order, prescribe;
+
+[2/2009 wef 01/10/2012]
 
 “clearing or settlement”, in relation to a clearing facility, means any arrangement, process, mechanism or service provided by a person in respect of transactions, by which —
 
@@ -17732,7 +18794,7 @@ whether or not those securities are pledged as security for the credit facility,
 
 (i) that forms part of an arrangement to underwrite or sub-underwrite securities;
 
-(ii) [Act 16/2003]
+(ii) [Deleted by Act 16/2003]
 
 (iii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
 
@@ -17776,7 +18838,7 @@ whose carrying on of the business in that regulated activity is solely incidenta
 
 7\. Any approved trustee for a collective investment scheme as defined in section 289 whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such approved trustee.
 
-8. [Deleted by Act 1/2005]
+8\. (Deleted by Act 1/2005)
 
 9. A foreign company whose carrying on of any regulated activity is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempted under section 99(1)(a), (b), (c) or (d) (on the other hand), where such arrangement is approved by the Authority.
 
@@ -17788,115 +18850,61 @@ Section 320(1A)
 
 Specified Provisions
 
-1. 
+1\. Section 14(2) and (8)
 
-Section 14(2) and (8)
+2\. Section 15(1)
 
-2. 
+3\. Section 35
 
-Section 15(1)
+4\. Section 59(3)
 
-3. 
+5\. Section 81C
 
-Section 35
+6\. Section 81ZI
 
-4. 
+7\. [Deleted by Act 2/2009 wef 01/10/2012]
 
-Section 59(3)
+8\. Section 99(1)(h)
 
-5. 
+9\. [Deleted by Act 2/2009 wef 01/10/2012]
 
-Section 81C
+10\. Section 247(1)
 
-6. 
+11\. Section 248(2) and (5)
 
-Section 81ZI
+12\. Section 249(3)
 
-7. 
+13\. Section 251(14)
 
-Section 83(2)(b)
+14\. Section 259(3)
 
-8. 
+15\. Section 262(2)
 
-Section 99(1)(h)
+16\. Section 277(2)
 
-9. 
+17\. Section 282H(1)
 
-Section 120(4)
+18\. Section 282I(5)
 
-10. 
+19\. Section 282L(14)
 
-Section 247(1)
+20\. Section 282S(3)
 
-11. 
+21\. Section 282ZB(3)
 
-Section 248(2) and (5)
+22\. Section 300(9)
 
-12. 
+23\. Section 302 (when applying section 247(1) or 249(3))
 
-Section 249(3)
+24\. Section 305B(3)
 
-13. 
+25\. Section 306(1)
 
-Section 251(14)
+26\. Section 309(3)(a)
 
-14. 
+27. Section 337(3).
 
-Section 259(3)
-
-15. 
-
-Section 262(2)
-
-16. 
-
-Section 277(2)
-
-17. 
-
-Section 282H(1)
-
-18. 
-
-Section 282I(5)
-
-19. 
-
-Section 282L(14)
-
-20. 
-
-Section 282S(3)
-
-21. 
-
-Section 282ZB(3)
-
-22. 
-
-Section 300(9)
-
-23. 
-
-Section 302 (when applying section 247(1) or 249(3))
-
-24. 
-
-Section 305B(3)
-
-25. 
-
-Section 306(1)
-
-26. 
-
-Section 309(3)(a)
-
-27. 
-
-Section 337(3).
-
-28. [Act 1/2005]
+[1/2005]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -18075,7 +19083,15 @@ This Legislative History is provided for the convenience of users of the Securit
 |||27 February 2008|
 |16.|**G. N. No. S 376/2008—Securities and Futures Act (Amendment of Second Schedule and Other Provisions to Act for REIT Management) Order 2008**|
 ||Date of commencement|1 August 2008|
-|17.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+|17.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|18.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
+||Date of commencement|17 January 2012|
+|19.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
 ||Date of First Reading|15 September 2008|
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
@@ -18083,14 +19099,7 @@ This Legislative History is provided for the convenience of users of the Securit
 |||29 July 2009|
 |||29 March 2010|
 |||26 November 2010|
-|18.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010 published on 26 April 2010)|
-||Date of Second and Third Readings|19 May 2010|
-||Date of commencement|2 January 2011|
-|19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
-||Date of commencement|17 January 2012|
+|||1 October 2012|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
