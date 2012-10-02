@@ -134,9 +134,9 @@ REVISED EDITION 2010
 
 An Act for the regulation of moneylending and for matters connected therewith.
 
-[1st March 2009;
+[1st March 2009: Except section 5(3)(b) ;
 
-1st July 2010: Section 5(3)(b)]
+1st July 2010: Section 5(3)(b) ]
 
 ## PART I
 
@@ -232,7 +232,7 @@ or who carries on any combination of such activities or services; or
 
 “unlicensed moneylender” means a person —
 
-(a) who is presumed to be a moneylender under section 3 of the Moneylender’s Act (Cap. 188); and
+(a) who is presumed to be a moneylender under section 3; and
 
 (b) who is not a licensee or an exempt moneylender.
 
@@ -270,9 +270,11 @@ LICENSING OF MONEYLENDERS
 
 (a) made in such form and manner as may be determined by the Registrar; and
 
-(b) accompanied by the payment of a non-refundable application fee of a prescribed amount, which shall be paid in such manner as may be specified by the Registrar.
+1(b) accompanied by the payment of a non-refundable application fee of a prescribed amount, which shall be paid in such manner as may be specified by the Registrar.
 
 [5/2010 wef 01/07/2010]
+
+1Section 5(3)(b) came into operation on 1st July 2010videG.N. No. S 303/2010.
 
 (4) The Registrar may issue a licence with or without conditions, or he may refuse to issue a licence.
 
@@ -310,7 +312,7 @@ LICENSING OF MONEYLENDERS
 
 ### Other grounds for refusing to issue or renew licence, etc.
 
-7\.—(1) For the purposes of section 5 and 6, the Registrar may refuse to issue or renew a licence on any of the following grounds:
+7\.—(1) For the purposes of sections 5 and 6, the Registrar may refuse to issue or renew a licence on any of the following grounds:
 
 (a) if —
 
@@ -406,7 +408,9 @@ LICENSING OF MONEYLENDERS
 
 ### Approval of places of business
 
-10\.—(1) An applicant for the issue of a licence or a licensee who intends to commence the business of moneylending at any new place or places of business shall, before commencing the business of moneylending at such place or places, apply in writing to the Registrar to approve such place or places of business for moneylending.
+10\.—(1) An applicant for the issue of a licence or a licensee who intends to carry on the business of moneylending at any new place or places of business shall, before commencing the business of moneylending at such place or places, apply in writing to the Registrar to approve such place or places of business for moneylending.
+
+[Act 8 of 2012 wef 02/10/2012]
 
 (2) The Registrar may approve any place of business for moneylending with or without conditions, or he may refuse to grant his approval.
 
@@ -448,9 +452,13 @@ LICENSING OF MONEYLENDERS
 
 (13) Any licensee who —
 
-(a) commences the business of moneylending at a place of business without the approval of the Registrar; or
+(a) carries on the business of moneylending at a place of business without the approval of the Registrar; or
 
-(b) continues to carry on the business of moneylending in a place of business in respect of which the approval of the Registrar has been revoked or is suspended,
+[Act 8 of 2012 wef 02/10/2012]
+
+(b) carries on the business of moneylending at a place of business in respect of which the approval of the Registrar has been revoked or is suspended,
+
+[Act 8 of 2012 wef 02/10/2012]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
@@ -542,7 +550,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) carries on the business of moneylending in Singapore through an agent who is a licensee or an exempt moneylender.
 
-(3A) Without prejudice to the generality of subsection (1), a person assists in a contravention of subsection (1) if —
+(3A) Without prejudice to the generality of subsection (1), a person assists in a contravention of section 5(1) if —
 
 (a) he collects or demands payment of a loan on behalf of a person whom he knows or has reasonable grounds to believe is carrying on a business in contravention of section 5(1);
 
@@ -556,11 +564,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) he lends or provides funds, or lends, sells or provides any pre-paid subscriber identification module (SIM) card or other property to a person, knowing or having reasonable grounds to believe that the funds or property will be used for the carrying on of a business in contravention of section 5(1);
 
-(e) he keeps the records and accounts of a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1); or
+(e) he keeps the records and accounts of a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1);
 
-(f) he promotes or advertises a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1).
+[Act 8 of 2012 wef 02/10/2012]
+
+(f) he promotes or advertises a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1); or
 
 [5/2010]
+
+[Act 8 of 2012 wef 02/10/2012]
+
+(g) he provides or gives access to the name of or other information relating to any other person (referred to as a potential borrower), or otherwise refers a potential borrower, to a person whom he knows or has reasonable grounds to believe is carrying on a business in contravention of section 5(1), intending to facilitate or knowing it to be likely to facilitate the lending of money by such person to the potential borrower.
+
+[Act 8 of 2012 wef 02/10/2012]
 
 (3B) In subsection (3A), “funds” and “property” have the meanings given to those words in section 15A.
 
@@ -1006,7 +1022,9 @@ which is false or misleading in a material particular shall be guilty of an offe
 
 (a) inspect any premises where a moneylender is or is believed to be carrying on business and the books, records and other documents kept there;
 
-(b) require the moneylender or any other person to furnish any information, book, record or other document;
+(b) require the moneylender or any other person to furnish any information, book, record or other document either forthwith or at such other time and place and in such manner as the Registrar or the authorised officer may require;
+
+[Act 8 of 2012 wef 02/10/2012]
 
 (c) make or cause to be made a copy of any book, record or other document inspected or produced;
 
@@ -1014,11 +1032,17 @@ which is false or misleading in a material particular shall be guilty of an offe
 
 (e) seize and remove from the premises any book, record or other document, or any machine or equipment containing any book, record or other document.
 
+(1A) The Registrar or an authorised officer may be assisted by any other person or persons when exercising the powers under subsection (1)(a), (b), (c) or (d).
+
+[Act 8 of 2012 wef 02/10/2012]
+
 (2) Any person who, without reasonable excuse, fails or refuses —
 
 (a) to grant to the Registrar or an authorised officer access to the premises or any part thereof, or to any book, record or other document, under subsection (1)(a);
 
-(b) to furnish the Registrar or an authorised officer with any information, book, record or other document required under subsection (1)(b);
+(b) to furnish the Registrar or an authorised officer with any information, book, record or other document at such time and place or in such manner as required under subsection (1)(b);
+
+[Act 8 of 2012 wef 02/10/2012]
 
 (c) to permit the Registrar or an authorised officer to make or cause to be made a copy of any book, record or other document under subsection (1)(c);
 
@@ -1478,7 +1502,7 @@ Moneylenders Act
 
 (CHAPTER 188)
 
-This Legislative History is provided for the convenience of users of the Moneylenders Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Moneylenders Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1504,8 +1528,13 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 ||Date of Second and Third Readings|18 November 2008|
 ||Dates of commencement|1 July 2010 (section 5(3)(b))|
 |5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**Act 8 of 2012—Moneylenders (Amendment) Act 2012**|
+||Date of First Reading|14 February 2012|
+|||(Bill No. 4/2012 published on 14 February 2012)|
+||Date of Second and Third Readings|9 March 2012|
+||Date of commencement|2 October 2012|
