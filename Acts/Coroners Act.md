@@ -1,16 +1,14 @@
-**Coroners Act 2010**
+**Coroners Act**
 
-**(No. 14 of 2010)**
+**(CHAPTER 63A)**
 
 **Table of Contents**
 
 [**Long Title**](#Coroners-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -120,59 +118,39 @@
 
 - [49 Regulations](#Regulations)
 
-- [50 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
+- [50 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [51 Savings and transitional provisions](#Savings-and-transitional-provisions)
+[**FIRST SCHEDULE Services provided by health-care practitioner**](#FIRST-SCHEDULE-Services-provided-by-health-care-practitioner)
 
-[**FIRST SCHEDULE Services Provided by Health-care Practitioner**](#FIRST-SCHEDULE-Services-Provided-by-Health-care-Practitioner)
+[**SECOND SCHEDULE Reportable deaths**](#SECOND-SCHEDULE-Reportable-deaths)
 
-[**SECOND SCHEDULE Reportable Deaths**](#SECOND-SCHEDULE-Reportable-Deaths)
+[**THIRD SCHEDULE Deaths for which inquiry must be held**](#THIRD-SCHEDULE-Deaths-for-which-inquiry-must-be-held)
 
-[**THIRD SCHEDULE Deaths for Which Inquiry Must be Held**](#THIRD-SCHEDULE-Deaths-for-Which-Inquiry-Must-be-Held)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-[**FOURTH SCHEDULE Consequential and Related Amendments to Other Written Laws**](#FOURTH-SCHEDULE-Consequential-and-Related-Amendments-to-Other-Written-Laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Coroners Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 63A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 14 of 2010)
 
-Published by Authority
+REVISED EDITION 2012
 
-NO. 12]
+(31st October 2012)
 
-Friday, June 25
+An Act to consolidate the law relating to Coroners’ inquiries.
 
-[2010
-
-The following Act was passed by Parliament on 19th May 2010 and assented to by the President on 10th June 2010:—
-
-Coroners Act 2010
-
-(No. 14 of 2010)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-10th June 2010.
-
-Date of Commencement: 2nd January 2011
-
-An Act to consolidate the law relating to Coroners’ inquiries and to make consequential and related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[2nd January 2011]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Coroners Act 2010 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Coroners Act.
 
 ### Interpretation
 
@@ -192,7 +170,7 @@ but does not include a foetus or a still-born child within the meaning of the Re
 
 “forensic pathologist” means a pathologist appointed under section 4(1) as a forensic pathologist;
 
-“health-care practitioner” means a person providing any of the services in the First Schedule, but does not include a medical practitioner;
+“health-care practitioner” means a person providing any of the services specified in the First Schedule, but does not include a medical practitioner;
 
 “Health Sciences Authority” means the Health Sciences Authority established under section 3 of the Health Sciences Authority Act (Cap. 122C);
 
@@ -244,6 +222,8 @@ but does not include a hospital;
 
 (c) being taken into or escaping from such custody.
 
+[NZ CA, s. 9; Malaysia CPC, s. 328; NSW HCCA, s. 4; PHMCA, s. 2; CPC, s. 271; HK Coroners Ord, s. 2]
+
 ### Appointment of State Coroner and Coroners
 
 3\.—(1) The President may, on the recommendation of the Chief Justice, appoint a State Coroner and such other Coroners as are necessary for the proper administration of this Act.
@@ -254,9 +234,11 @@ but does not include a hospital;
 
 (4) The State Coroner may authorise or appoint any person to assist him in the exercise of his functions and duties under this Act whether generally or in any particular case.
 
-(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Chief District Judge appointed under the Subordinate Courts Act (Cap. 321) may appoint another Coroner to act as State Coroner for that period.
+(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Chief District Judge appointed under the Subordinate Courts Act may appoint another Coroner to act as State Coroner for that period.
 
 (6) All appointments made under subsection (1) shall be published in theGazette.
+
+[SCA, s. 10; NPPA, s. 29]
 
 ### Appointment of forensic pathologists
 
@@ -275,6 +257,8 @@ REPORTING OF DEATHS AND PRESERVING OF RECORDS
 (2) Any person who, without reasonable excuse, the burden of proving which shall be on the accused in a prosecution, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both.
 
 (3) Nothing in this section or section 6 shall derogate from any other obligation to report a death under any other written law.
+
+[CPC, s. 22; WA CA, s. 17]
 
 ### Reporting of death occurring in official custody
 
@@ -298,6 +282,8 @@ as the case may be, to prepare and submit to a police officer a report of the de
 
 (3) Any person who, without reasonable excuse, the burden of proving which shall be on the accused in a prosecution, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[CPC, s. 272]
+
 ### Reporting of death by police officer
 
 7\. Every police officer who —
@@ -307,6 +293,8 @@ as the case may be, to prepare and submit to a police officer a report of the de
 (b) receives any information about,
 
 a death which is, or appears to be, a reportable death shall, as soon as reasonably practicable, make a report at a police station giving details of any information which he obtains with regard to the death.
+
+[CPC, s. 23]
 
 ### Duty to preserve medical records by persons in charge of hospital, medical clinic and place of custody
 
@@ -320,6 +308,8 @@ the person in charge of the hospital, medical clinic or place of custody, as the
 
 (2) Any person who, without reasonable excuse, the burden of proving which shall be on the accused in a prosecution, fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[QLD CA, s. 22]
+
 ### Body not to be moved
 
 9\.—(1) In the case of a reportable death, no person shall remove, or in any manner alter the position of, a body unless the removal or moving of the body is —
@@ -329,6 +319,8 @@ the person in charge of the hospital, medical clinic or place of custody, as the
 (b) necessary for the purpose of preventing any destruction or damage to the body.
 
 (2) Any person who, without reasonable excuse, the burden of proving which shall be on the accused in a prosecution, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[CPC, s. 22]
 
 ## PART III
 
@@ -350,6 +342,8 @@ INVESTIGATIONS INTO DEATHS
 
 (b) secure and preserve the scene where the body was found, pending further investigations.
 
+[CPC, s. 273]
+
 ### Police officer to report to Coroner
 
 11\.—(1) After a police officer has started investigations into a death, he shall, as soon as reasonably practicable, inform a Coroner of the death and any particulars concerning the cause of death which have come to his knowledge.
@@ -360,6 +354,8 @@ INVESTIGATIONS INTO DEATHS
 
 (b) comply with such directions as the Coroner may give concerning the investigation.
 
+[CPC, s. 273]
+
 ### Viewing of body by Coroner
 
 12\.—(1) A Coroner shall, as soon as possible after a death is reported to him, view the body if practicable, and make a preliminary investigation —
@@ -369,6 +365,8 @@ INVESTIGATIONS INTO DEATHS
 (b) by a live video link, or by such other means as the State Coroner may approve which reasonably allows the Coroner to view and identify the body.
 
 (2) If the Coroner considers, after viewing the body and making a preliminary investigation, that the death was due to natural causes and that it is unnecessary to hold an inquiry, he may issue an order under section 22 for the release of the body.
+
+[CPC, s. 274]
 
 ### Police officer to report to Public Prosecutor in certain cases
 
@@ -384,7 +382,7 @@ INVESTIGATIONS INTO DEATHS
 
 ### Power of police officer to investigate
 
-15\. In investigating into any death, a police officer may exercise all or any of the powers conferred on him by the Criminal Procedure Code 2010 or any other written law in relation to investigations into an arrestable offence.
+15\. In investigating into any death, a police officer may exercise all or any of the powers conferred on him by the Criminal Procedure Code (Cap. 68) or any other written law in relation to investigations into an arrestable offence.
 
 ### Coroner or Public Prosecutor may direct forensic pathologist to investigate
 
@@ -410,31 +408,23 @@ INVESTIGATIONS INTO DEATHS
 
 (iii) any other information, substance or thing pertaining to the medical treatment or care of the deceased in the possession of the medical practitioner or health-care practitioner which the forensic pathologist considers necessary for the purposes of the investigation;
 
-[Act 2 of 2012 wef 01/03/2012]
-
 (ba) request the Registrar to furnish, within such time as the forensic pathologist may specify, such information pertaining to the medical history, treatment or care of the deceased in the possession of the Registry as the forensic pathologist considers necessary for the purposes of the investigation; and
 
-[Act 2 of 2012 wef 01/03/2012]
-
 (c) request the Coroner to direct the police to provide such assistance as the forensic pathologist may require to investigate the cause of and circumstances connected with the death.
+
+[2/2012 wef 01/03/2012]
 
 (2) Any medical practitioner or health-care practitioner who is required by a forensic pathologist under subsection (1)(b) to provide any report, record, information, substance or thing and who —
 
 (a) without reasonable excuse, fails to provide the report, record, information, substance or thing;
 
-[Act 2 of 2012 wef 01/03/2012]
-
 (b) provides any report, record or information which he knows or believes to be false or incomplete; or
-
-[Act 2 of 2012 wef 01/03/2012]
 
 (c) tampers or destroys, or causes or permits the tampering or destruction of, any report, record, substance or thing pertaining to the medical treatment or care of the deceased,
 
-[Act 2 of 2012 wef 01/03/2012]
-
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012 wef 01/03/2012]
 
 (3) The Registrar, or any Registry officer, agent of the Registry or other person who acts under the direction of the Registrar —
 
@@ -442,11 +432,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) shall not by so doing be treated as being in breach of any such restriction, notwithstanding anything to the contrary in that section.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012 wef 01/03/2012]
 
 (4) In this section, “agent of the Registry”, “Registrar”, “Registry” and “Registry officer” have the same meanings as in the National Registry of Diseases Act.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012 wef 01/03/2012]
 
 ## PART IV
 
@@ -462,6 +452,8 @@ CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION
 18\.—(1) In a case of a death reported to a Coroner under section 11, the Coroner may, after consulting a pathologist, order a post-mortem examination to be conducted if the Coroner is of the opinion that a post-mortem examination is necessary in the circumstances to establish the manner and cause of death.
 
 (2) Notwithstanding subsection (1), a Coroner shall order a post-mortem examination to be conducted if he is directed to do so by the Public Prosecutor in any particular case.
+
+[CPC, s. 282]
 
 ### Conduct of post-mortem examination
 
@@ -479,6 +471,8 @@ CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION
 
 (3) The Coroner or the forensic pathologist investigating a case, if any, may direct the person performing a post-mortem examination to cause to be retained any part or contents of the body or any other substance or thing which appears to the Coroner or forensic pathologist to be relevant in establishing the manner or cause of death.
 
+[NZ CA, s. 47]
+
 ### Post-mortem examination report and special examination report
 
 20\.—(1) A pathologist who has conducted or supervised any post-mortem examination shall —
@@ -495,9 +489,13 @@ CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION
 
 (4) The pathologist who conducted or supervised the post-mortem examination or any person appointed under section 19(2)(b), if summoned by the Coroner as a witness in an inquiry, may be asked to give evidence as to his opinion upon any matter arising out of the examination conducted or supervised by him and as to how in his opinion the deceased came by his death.
 
+[CPC, s. 283]
+
 ### Power of Coroner to order exhumation
 
 21\. A Coroner may, and if directed to do so by the Public Prosecutor under section 26(2) shall, order the exhumation of a body, or the remains of a body, for the purpose of discharging any of his duties, or exercising any of his powers under this Act.
+
+[CPC, s. 300]
 
 ### Power of Coroner to order release for burial, cremation, etc.
 
@@ -523,9 +521,13 @@ and if he so orders, shall issue a certificate of his order to release the body.
 
 that body, without the order of a Coroner under subsection (3), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[CPC, ss. 274, 275 and 301]
+
 ### Coroner to report to Public Prosecutor if body is released without inquiry
 
 23\. In every case where a body is released by an order of a Coroner under section 22 and no inquiry is held, the Coroner shall report the facts to the Public Prosecutor with his reasons for not holding an inquiry.
+
+[CPC, s. 274(5)]
 
 ## PART V
 
@@ -545,13 +547,15 @@ CIRCUMSTANCES UNDER WHICH INQUIRY IS HELD
 
 (2) The Coroner shall have the jurisdiction under subsection (1)(b), (c) and (d) notwithstanding the absence of a body.
 
+[CPC, s. 279; HK Coroners Ord, ss. 14 to 18; Vic CA, s. 52; NSW CA, ss. 18, 21; NZ CA, ss. 59, 60; UK CA, ss. 5, 8, 15]
+
 ### Duty of Coroner to hold inquiry
 
 25\.—(1) A Coroner shall hold an inquiry into any death which occurred in Singapore where —
 
 (a) a person dies while in official custody;
 
-(b) the death was the result of the lawful execution of a death sentence, in accordance with section 313(m) of the Criminal Procedure Code 2010;
+(b) the death was the result of the lawful execution of a death sentence in accordance with section 313(m) of the Criminal Procedure Code (Cap. 68);
 
 (c) the Public Prosecutor so requires under section 26; or
 
@@ -579,6 +583,8 @@ CIRCUMSTANCES UNDER WHICH INQUIRY IS HELD
 
 (4) A Coroner who decides not to hold an inquiry into a death under subsection (2) shall report the facts to the Public Prosecutor with his reasons for not holding an inquiry.
 
+[CPC, ss. 276, 277; WA CA, s. 22; Vic CA, s. 52; QLD CA, s. 28; NZ CA, s. 63]
+
 ### Power of Public Prosecutor to require inquiry
 
 26\.—(1) The Public Prosecutor may, in any case where a Coroner has jurisdiction and the Public Prosecutor is satisfied that an inquiry is necessary or desirable, require the Coroner to hold an inquiry into the death of any person.
@@ -586,6 +592,8 @@ CIRCUMSTANCES UNDER WHICH INQUIRY IS HELD
 (2) The Public Prosecutor may direct that a body be exhumed if he is of the opinion that it is necessary to do so for the purposes of the inquiry.
 
 (3) Notwithstanding that proceedings at any inquiry may have been concluded by a Coroner, where it appears to the Public Prosecutor that further investigations are necessary, the Public Prosecutor may direct the Coroner to re-open the inquiry and make further investigations, and the Coroner shall comply with such directions and thereafter proceed in the same manner as if the proceedings at the inquiry had not been concluded.
+
+[CPC, ss. 278, 281]
 
 ## PART VI
 
@@ -602,6 +610,8 @@ INQUIRIES INTO DEATH
 (2) A Coroner at an inquiry shall not frame a finding in such a way as to determine any question of criminal, civil or disciplinary liability but shall not be inhibited in the discharge of his functions by any likelihood of liability being inferred from facts that he determines or recommendations that he makes.
 
 (3) At the conclusion of the inquiry, the Coroner shall record his findings as to the matters referred to in paragraphs (a) and (b) of subsection (1).
+
+[CPC, s. 284; NZ CA, s. 57; Ontario CA, s. 31; UK CA, s. 11; QLD CA, s. 46; WA CA, s. 25; HK Coroners Ord, ss. 27, 44]
 
 ### Pre-inquiry review
 
@@ -629,6 +639,8 @@ INQUIRIES INTO DEATH
 
 (2) Any such notice shall state the date, time and place of the pre-inquiry review or inquiry and shall be served on any properly interested person within a reasonable period.
 
+[Ontario CA, s. 41; HK Coroners Ord, ss. 29, 31 and 34]
+
 ### Summoning of witnesses and production of documents
 
 30\.—(1) A Coroner shall have and exercise all the powers of a Magistrate’s Court with regard to —
@@ -643,13 +655,17 @@ at any inquiry held by him.
 
 (3) Such summons to appear or summons to produce shall ordinarily be served by a police officer, but the Coroner may, if he sees fit, direct it to be served by some other person.
 
-(4) The provisions of section 38, Part VI and section 235 of the Criminal Procedure Code 2010 shall apply, with the necessary modifications, in relation to summonses to appear, warrants of arrest and summonses to produce issued by a Coroner.
+(4) The provisions of section 38, Part VI and section 235 of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, in relation to summonses to appear, warrants of arrest and summonses to produce issued by a Coroner.
+
+[CPC, s. 285]
 
 ### Inquiries to be made public
 
 31\.—(1) An inquiry shall be held in open court, unless a Coroner is of the opinion that it is in the interests of justice, propriety, public order or public security, or there is other sufficient reason, that the public be excluded from the inquiry or any part of the inquiry.
 
 (2) Whenever an inquiry or part thereof is not held in open court, the Coroner shall report his reasons for not so holding it to the Public Prosecutor.
+
+[HK Coroners Ord, s. 30; NZ CA, s. 74; CPC, s. 298]
 
 ### Assessors
 
@@ -658,6 +674,8 @@ at any inquiry held by him.
 (2) Any assessor appointed under subsection (1) may sit with the Coroner in the hearing of the inquiry and has the power to advise but not to determine any matter relating to the inquiry.
 
 (3) The remuneration of any assessor sitting in an inquiry shall be payable out of moneys provided by Parliament, at such rate as may be prescribed.
+
+[SCJA, s. 10A]
 
 ### Evidence by conditioned statements
 
@@ -691,6 +709,8 @@ at any inquiry held by him.
 
 (2) Where at any inquiry the report of the pathologist who has conducted or supervised a post-mortem examination of the body or the report of a person who has made a special examination under section 19(2)(b) is received in evidence, any person referred to in subsection (1) who desires to examine the maker of that report may require the Coroner to summon that person as a witness, and the Coroner shall do so.
 
+[CPC, ss. 288, 289; HK Coroners Ord, s. 32]
+
 ### Manner of recording evidence
 
 36\.—(1) The evidence given in any inquiry shall be recorded by the Coroner in writing or in any other suitable form of recording whereby the evidence can be reduced to a readable form.
@@ -706,6 +726,8 @@ at any inquiry held by him.
 ### Adjournment of inquiry
 
 38\. A Coroner holding an inquiry in any place may adjourn the inquiry to another day and order the adjourned inquiry to be held in the same or any other place.
+
+[CPC, s. 295]
 
 ### Adjournment of inquiry when criminal proceedings commenced
 
@@ -725,7 +747,7 @@ in relation to an act which caused or could have caused the death which is the s
 
 (a) endorse his record and the certificate required under section 42 accordingly; and
 
-(b) send a copy of the certificate referred to in section 42 each to the Public Prosecutor and the Commissioner of Police.
+(b) send to the Public Prosecutor and the Commissioner of Police each a copy of the certificate referred to in section 42.
 
 (4) Where an inquiry is adjourned under subsection (1), it shall be the duty of —
 
@@ -745,6 +767,8 @@ to inform the Coroner responsible for holding the inquiry of the result of the c
 
 and criminal proceedings shall not be deemed to be concluded until no further appeal can be made in the course of them.
 
+[CPC, s. 280; QLD CA, s. 29; Ontario CA, s. 27; UK CA, s. 16; NZ CA, s. 68; HK Coroners Ord, ss. 33, 35, 36 and 37]
+
 ### Adjournment of inquiry when commission or committee appointed under Inquiries Act
 
 40\.—(1) If, before the conclusion of an inquiry by a Coroner, a commission of inquiry or committee of inquiry is appointed under the Inquiries Act (Cap. 139A) to inquire into any matter relating to the cause of or circumstances connected with the death which is the subject of the Coroner’s inquiry, the Coroner shall adjourn his inquiry until after the conclusion of the inquiry by that commission or committee.
@@ -755,7 +779,7 @@ and criminal proceedings shall not be deemed to be concluded until no further ap
 
 (a) endorse his record and the certificate required under section 42 accordingly; and
 
-(b) send a copy of the certificate referred to in section 42 each to the Public Prosecutor and the Commissioner of Police.
+(b) send to the Public Prosecutor and the Commissioner of Police each a copy of the certificate referred to in section 42.
 
 ### Change of Coroner
 
@@ -768,6 +792,8 @@ and criminal proceedings shall not be deemed to be concluded until no further ap
 (c) is unable to re-open an inquiry previously concluded by himself when so directed by the Public Prosecutor under section 26(3),
 
 another Coroner may hold, continue or re-open the inquiry, as the case may be, and may proceed as if he had viewed the body or recorded all the evidence at the inquiry himself.
+
+[CPC, ss. 296, 297]
 
 ### Coroner’s certificate
 
@@ -785,6 +811,8 @@ another Coroner may hold, continue or re-open the inquiry, as the case may be, a
 
 (3) For the avoidance of doubt, a Coroner may issue a certificate under this section in the absence of a body.
 
+[RBDA, s. 21 (repealed)]
+
 ### Forwarding transcripts of evidence, etc.
 
 43\. At the conclusion of any inquiry, including an adjourned inquiry which is not resumed, the Coroner shall, at the request of the Public Prosecutor, deliver to him —
@@ -794,6 +822,8 @@ another Coroner may hold, continue or re-open the inquiry, as the case may be, a
 (b) any exhibit produced in evidence; and
 
 (c) a list signed by the Coroner of all exhibits produced in evidence.
+
+[CPC, s. 299]
 
 ## PART VII
 
@@ -805,13 +835,19 @@ MISCELLANEOUS
 
 (2) In this section, “Coroner” includes any person authorised or appointed under section 3(4) and any person lawfully assisting a Coroner in the performance and execution of the Coroner’s duties or functions under this Act.
 
+[Ontario CA, s. 16; HK Coroners Ord, s. 46]
+
 ### Admissibility of evidence in subsequent judicial proceedings
 
 45\. No oral testimony or conditioned statement admitted under section 33 in the course of an inquiry shall be admissible in any subsequent judicial or disciplinary proceedings as evidence of any fact stated therein, other than proceedings for an offence under this Act or an offence of giving or fabricating false evidence under any written law.
 
+[CPC, ss. 303, 378; EA, s. 33; QLD CA, s. 39; Ontario CA, s. 42]
+
 ### Payment of allowance to witnesses
 
-46\. A Coroner holding an inquiry may, in his discretion, order payment out of the Consolidated Fund to any of the witnesses as he thinks fit, of the expenses incurred by them in attending that inquiry and also compensation for their trouble and loss of time, subject to such rules as may be prescribed under the Criminal Procedure Code 2010 in relation to the payment of witnesses’ expenses.
+46\. A Coroner holding an inquiry may, in his discretion, order payment out of the Consolidated Fund to any of the witnesses as he thinks fit, of the expenses incurred by them in attending that inquiry and also compensation for their trouble and loss of time, subject to such rules as may be prescribed under the Criminal Procedure Code (Cap. 68) in relation to the payment of witnesses’ expenses.
+
+[CPC, s. 406]
 
 ### Amendment of Schedules
 
@@ -837,305 +873,283 @@ MISCELLANEOUS
 
 (c) the prescribing of anything required or permitted to be prescribed under this Act.
 
-### Consequential and related amendments to other written laws
-
-50\. The provisions of the Acts specified in the first column of the Fourth Schedule are amended in the manner set out in the second column thereof.
-
 ### Savings and transitional provisions
 
-51\.—(1) A person who, immediately before the appointed day, was a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321) shall be deemed to be a Coroner appointed under section 3(1) of this Act.
+50\.—(1) A person who, immediately before 2nd January 2011, was a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321) shall be deemed to be a Coroner appointed under section 3(1) of this Act.
 
-(2) The provisions of this Act shall apply in relation to any investigation or inquiry into the death of any person conducted on or after the appointed day, whether the death of the person occurred before, on or after the appointed day.
+(2) The provisions of this Act shall apply in relation to any investigation or inquiry into the death of any person conducted on or after 2nd January 2011, whether the death of the person occurred before, on or after 2nd January 2011.
 
-(3) For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act as he may consider necessary or expedient.
-
-(4) In this section, “appointed day” means the date of commencement of this Act.
+(3) For a period of 2 years after 2nd January 2011, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act as he may consider necessary or expedient.
 
 FIRST SCHEDULE
 
 Sections 2(1) and 47(1)
 
-Services Provided by Health-care Practitioner
+Services provided by health-care practitioner
 
-1\. Medical, dental or nursing services.
+1. 
 
-2\. Pharmacy services.
+Medical, dental or nursing services.
 
-3\. Ambulance services.
+2. 
 
-4\. Services provided by optometrists and opticians.
+Pharmacy services.
 
-5\. Services provided by traditional chinese medicine practitioners.
+3. 
 
-6\. Services provided by podiatrists, chiropractors, osteopaths, physiotherapists, acupuncturists, naturopaths and services in other alternative health-care fields.
+Ambulance services.
+
+4. 
+
+Services provided by optometrists and opticians.
+
+5. 
+
+Services provided by traditional Chinese medicine practitioners.
+
+6. 
+
+Services provided by podiatrists, chiropractors, osteopaths, physiotherapists, acupuncturists, naturopaths and services in other alternative health-care fields.
+
+[NSW HCCA, s. 4]
 
 SECOND SCHEDULE
 
 Sections 2(1) and 47(1)
 
-Reportable Deaths
+Reportable deaths
 
-1\. Death in Singapore of a person whose identity is not known.
+1. 
 
-2\. Any death in Singapore that was unnatural or violent.
+Death in Singapore of a person whose identity is not known.
 
-3\. Any death in Singapore that resulted or is suspected to have resulted, directly or indirectly, from an accident.
+2. 
 
-4\. Any death in Singapore that occurred, directly or indirectly, as a result of any medical treatment or care.
+Any death in Singapore that was unnatural or violent.
 
-5\. Death in Singapore of a person while the person was in official custody, except death as a result of the lawful execution of a death sentence.
+3. 
 
-6\. Death in Singapore of a person where the person was, before his death, in official custody and where the death was related, or suspected to be related, to that custody.
+Any death in Singapore that resulted or is suspected to have resulted, directly or indirectly, from an accident.
 
-7\. Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.
+4. 
 
-8. Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act (Cap. 354A) applies.
+Any death in Singapore that occurred, directly or indirectly, as a result of any medical treatment or care.
+
+5. 
+
+Death in Singapore of a person while the person was in official custody, except death as a result of the lawful execution of a death sentence.
+
+6. 
+
+Death in Singapore of a person where the person was, before his death, in official custody and where the death was related, or suspected to be related, to that custody.
+
+7. 
+
+Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.
+
+8. 
+
+Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act (Cap. 354A) applies.
+
+9. 
+
+Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.
+
+10. 
+
+Any death on board a Singapore-registered vessel or a Singapore-registered aircraft while in flight.
+
+11. 
+
+Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.
+
+12. 
+
+Any death in Singapore the manner or cause of which is unknown.
+
+13. 
+
+Any death in Singapore that occurred under suspicious circumstances.
 
 [S 712/2011 wef 01/01/2012]
 
-9\. Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.
-
-10\. Any death on board a Singapore-registered vessel or a Singapore-registered aircraft while in flight.
-
-11\. Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.
-
-12\. Any death in Singapore the manner or cause of which is unknown.
-
-13\. Any death in Singapore that occurred under suspicious circumstances.
+[HK Coroners Ord, s. 4, Sch. Pt. 2; UK CA, s. 8; Vic CA, s. 4; QLD CA, ss. 7, 8; WA CA, s. 3; Ontario CA, s. 10; NZ CA, ss. 13, 14]
 
 THIRD SCHEDULE
 
 Sections 25(1) and 47(1)
 
-Deaths for Which Inquiry Must be Held
+Deaths for which inquiry must be held
 
-1\. Death in Singapore of a person whose identity is not known.
+1. 
 
-2\. Any death in Singapore that occurred, directly or indirectly, as a result of any medical treatment or care.
+Death in Singapore of a person whose identity is not known.
 
-3\. Death in Singapore of a person where the person was, before his death, in official custody and where the death was related, or suspected to be related, to that custody.
+2. 
 
-4\. Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.
+Any death in Singapore that occurred, directly or indirectly, as a result of any medical treatment or care.
 
-5. Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act (Cap. 354A) applies.
+3. 
+
+Death in Singapore of a person where the person was, before his death, in official custody and where the death was related, or suspected to be related, to that custody.
+
+4. 
+
+Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.
+
+5. 
+
+Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act (Cap. 354A) applies.
+
+6. 
+
+Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.
+
+7. 
+
+Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.
+
+8. 
+
+Any death in Singapore the manner or cause of which is unknown.
+
+9. 
+
+Any death in Singapore that occurred under suspicious circumstances.
 
 [S 712/2011 wef 01/01/2012]
 
-6\. Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.
+## LEGISLATIVE SOURCE KEY
 
-7\. Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.
+Coroners Act
 
-8\. Any death in Singapore the manner or cause of which is unknown.
+(CHAPTER 63A)
 
-9\. Any death in Singapore that occurred under suspicious circumstances.
+Unless otherwise stated, the abbreviations used in the references to other statutory provisions are references to the following statutory provisions. The references are provided for convenience and are not part of the Act:
 
-FOURTH SCHEDULE
+HK Coroners Ord
 
-Section 50
+:
 
-Consequential and Related Amendments to Other Written Laws
+Hong Kong Coroners Ordinance (Chapter 504)
 
-First column
+Malaysia CPC
 
-Second column
+:
 
-1.
+Malaysia Criminal Procedure Code
 
-Human Organ Transplant Act
+NSW CA
 
+:
 
+New South Wales Coroners Act 2009
 
+NSW HCCA
 
-(Chapter 131A, 2005 Ed.)
+:
 
-Section 6
+New South Wales Health Care Complaints Act 1993
 
-Delete subsection (4) and substitute the following subsection:
+NZ CA
 
-“(4) In this section, “Coroner” means the State Coroner or a Coroner appointed under the Coroners Act 2010.”.
+:
 
-2.
+New Zealand Coroners Act 2006
 
-Medical (Therapy, Education and Research) Act
+Ontario CA
 
+:
 
+Ontario Coroners Act 1990
 
+QLD CA
 
-(Chapter 175, 1985 Ed.)
+:
 
-(a)
+Queensland Coroners Act 2003
 
-Section 16
+UK CA
 
-(i)
+:
 
-Delete the words “or 4” in subsection (1) and substitute the words “, 4 or 12”.
+UK Coroners Act 1988 (Chapter 13)
 
-(ii)
+Vic CA
 
-Delete the words “with the written consent of the Coroner” in subsection (2)(b) and substitute the words “where the Coroner has ordered the release of the body under section 22(3)(c) of the Coroners Act 2010,”.
+:
 
-(b)
+Victoria Coroners Act 2008
 
-Section 17
+WA CA
 
-(i)
+:
 
-Delete the words “Criminal Procedure Code” and substitute the words “Coroners Act 2010”.
+Western Australia Coroners Act 1996
 
-(ii)
+CPC
 
-Delete the marginal reference “Cap. 68.”.
+:
 
-3.
+Singapore, Criminal Procedure Code (Chapter 68, 1985 Revised Edition)
 
-Prisons Act
+EA
 
+:
 
+Singapore, Evidence Act (Chapter 97, 1997 Revised Edition)
 
+NPPA
 
-(Chapter 247, 2000 Ed.)
+:
 
-(a)
+Singapore, Newspaper and Printing Presses Act (Chapter 206, 2002 Revised Edition)
 
-Section 35
+PHMCA
 
-Delete the word “, Coroner,”.
+:
 
-(b)
+Singapore, Private Hospitals and Medical Clinics Act (Chapter 248, 1999 Revised Edition)
 
-Section 36
+RBDA
 
-Delete the words “, Justice of the Peace or Coroner” in subsections (1) and (2) and substitute in each case the words “or Justice of the Peace”.
+:
 
-4.
+Singapore, Registration of Births and Deaths Act (Chapter 267, 1985 Revised Edition)
 
-Private Hospitals and Medical Clinics Act
+SCA
 
+:
 
+Singapore, Subordinate Courts Act (Chapter 321, 2007 Revised Edition)
 
+SCJA
 
-(Chapter 248, 1999 Ed.)
+:
 
-(a)
+Singapore, Supreme Court of Judicature Act (Chapter 322, 2007 Revised Edition)
 
-Section 2
+## LEGISLATIVE HISTORY
 
-Insert, immediately after the definition of “healthcare establishment”, the following definition:
+Coroners Act
 
-“ “healthcare institution” means a clinical laboratory, a healthcare establishment, a medical clinic or a private hospital;”.
+(CHAPTER 63A)
 
-(b)
+This Legislative History is provided for the convenience of users of the Coroners Act. It is not part of the Act.
 
-Section 11
-
-(i)
-
-Delete the words “The licensee of a private hospital or a healthcare establishment shall” in subsection (1) and substitute the words “The licensee of a prescribed healthcare institution shall, in accordance with such prescribed requirements as may apply to that healthcare institution,”.
-
-(ii)
-
-Delete the words “private hospital or healthcare establishment” in subsections (1)(a), (b) and (c) and (2) and substitute in each case the words “prescribed healthcare institution”.
-
-(iii)
-
-Delete the words “private hospital or a healthcare establishment” in subsections (2) and (5) and substitute in each case the words “prescribed healthcare institution”.
-
-(c)
-
-Section 22(2)
-
-Delete paragraph (k) and substitute the following paragraph:
-
-“(k)
-
-the healthcare institutions for which quality assurance committees are required to be established, and the composition, procedures, duties and responsibilities which apply to a quality assurance committee of any healthcare institution or class of healthcare institutions.”.
-
-5.
-
-Registration of Births and Deaths Act
-
-
-
-
-(Chapter 267, 1985 Ed.)
-
-(a)
-
-Section 21
-
-Repeal and substitute the following section:
-
-“When Coroner’s certificate is issued 
-
-21\. —(1) Where, in relation to the death of any person —
-
-(a)
-
-a Coroner has issued a certificate setting out the cause of death as found at a Coroner’s inquiry, or if no inquiry is held, based on the evidence before the Coroner; or
-
-(b)
-
-a Coroner has issued a certificate of his order to release the body and no inquiry is held,
-
-the cause of death as stated in the certificate referred to in paragraph (a) or (b), as the case may be, shall be entered in the register.
-
-(2) The cause of death as stated in any certificate issued by the Coroner under subsection (1) shall, if different from that already registered, be substituted therefor and the alterations duly certified and signed by the registrar.
-
-(3) Nothing in section 3(3) or 8 shall prevent the registration under this section of a death which did not occur in Singapore, or where the body of the deceased person is destroyed, irrecoverable or cannot be found.”.
-
-(b)
-
-Section 27(3)
-
-Delete the words “, 20 or 21” and substitute the words “or 20”.
-
-6.
-
-Subordinate Courts Act
-
-
-
-
-(Chapter 321, 2007 Ed.)
-
-(a)
-
-Section 2
-
-(i)
-
-Insert, immediately after the definition of “commissioner for oaths”, the following definition:
-
-“ “Coroner” has the same meaning as in section 2(1) of the Coroners Act 2010;”.
-
-(ii)
-
-Delete the word “, Coroner” in the definition of “judicial officer”.
-
-(b)
-
-Section 3
-
-Insert, immediately after subsection (3), the following subsection:
-
-“(4) The Coroners’ Courts shall have such jurisdiction as is conferred by the Coroners Act 2010 and any other written law.”.
-
-(c)
-
-Section 10
-
-(i)
-
-Delete the words “or a Coroner” in subsections (1) and (2).
-
-(ii)
-
-Delete the words “and Coroners” in the section heading.
-
-(d)
-
-Section 56 (including the sub-heading “Jurisdiction of Coroners’ Courts”)
-
-Repeal.
-
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 2010—Coroners Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|2.|**G.N. No. S 712/2011—Coroners Act (Amendment of Second and Third Schedules) Order 2011**|
+||Date of commencement|1 January 2012|
+|3.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 19 — Amendment of Coroners Act 2010)|
+|4.|**2012 Revised Edition—Coroners Act (Chapter 63A)**|
+||Date of operation|31 October 2012|
