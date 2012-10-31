@@ -88,7 +88,7 @@
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**THIRD SCHEDULE Specified Acts**](#THIRD-SCHEDULE-Specified-Acts)
+[**THIRD SCHEDULE Specified acts**](#THIRD-SCHEDULE-Specified-acts)
 
 [**FOURTH SCHEDULE Specified offices**](#FOURTH-SCHEDULE-Specified-offices)
 
@@ -100,9 +100,9 @@
 
 (Original Enactment: Act 25 of 1992)
 
-REVISED EDITION 1993
+REVISED EDITION 2012
 
-(15th March 1993)
+(31st October 2012)
 
 An Act to establish and incorporate the Inland Revenue Authority of Singapore, to provide for its functions and powers, and for matters connected therewith.
 
@@ -146,7 +146,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 ### Common seal
 
-4\.—(1) All deeds and other documents requiring the seal of the Authority shall be sealed with the common seal of the Authority and such instruments to which the common seal is affixed shall be signed by any two members generally or specially authorised by the Authority for the purpose or by one member and the chief executive officer.
+4\.—(1) All deeds and other documents requiring the seal of the Authority shall be sealed with the common seal of the Authority and such instruments to which the common seal is affixed shall be signed by any 2 members generally or specially authorised by the Authority for the purpose or by one member and the chief executive officer.
 
 (2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Authority affixed to any document and shall presume that it was duly affixed.
 
@@ -158,7 +158,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (b) not less than 5 and not more than 10 other members as the Minister may, from time to time, determine.
 
-[27/2004 wef 13/08/2004]
+[27/2004]
 
 (2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
@@ -176,7 +176,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (c) to represent Singapore internationally in respect of matters relating to taxation;
 
-(d) [Deleted by Act 10/2007 wef 01/03/2007]
+(d) [Deleted by Act 10 of 2007]
 
 (e) to provide service in respect of the granting of licences or permits by the Comptroller of Property Tax or the Commissioner of Estate Duties under any written law;
 
@@ -186,7 +186,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (2) In addition to the functions imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
 
-[Act 5/96 wef 09/02/1996]
+[5/96]
 
 ### Powers of Authority
 
@@ -284,15 +284,17 @@ FINANCIAL PROVISIONS
 
 (c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
+[16/2005]
+
 (2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services.
 
-[16/2005 wef 09/05/2005]
+[16/2005]
 
 ### Issue of shares, etc.
 
 13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Grants
 
@@ -308,7 +310,7 @@ FINANCIAL PROVISIONS
 
 16\. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Other financial provisions
 
@@ -348,7 +350,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Existing contracts
 
-22\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1st September 1992, to which the Government is a party and relating to the Inland Revenue Department or to any person transferred to the service of the Authority under section 19 shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
+22\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1st September 1992, to which the Government is a party and relating to the Inland Revenue Department or to any person transferred to the service of the Authority under section 19, shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary proceedings
 
@@ -372,13 +374,13 @@ GENERAL
 
 26\.—(1) Proceedings in respect of any offence under this Act or any regulations made thereunder or any of the Acts specified in the Third Schedule or any subsidiary legislation made under any of those Acts may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Commissioner of Inland Revenue.
 
-[15/2010 wef 02/01/2011]
+[15/2010]
 
 (2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be.
 
 ### Preservation of secrecy
 
-27\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, officer, employee or agent of the Authority or a member of a committee of the Authority shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
+27\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -404,7 +406,7 @@ GENERAL
 
 (a) the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Authority;
 
-(b) the payment of gratuities and other benefits to officers and employees of the Authority; and
+(b) the payment of gratuities and other benefits to officers and employees of the Authority;
 
 (c) the fees to be charged in respect of anything done under or by virtue of this Act.
 
@@ -424,8 +426,6 @@ Appointment of Chairman, Deputy Chairman and other members
 
 (4) The Minister may appoint the chief executive officer to be a member of the Authority.
 
-[27/2004 wef 13/08/2004]
-
 Terms of office of members of Authority
 
 2\. A member shall hold office on such terms and conditions and for such period as the Minister may determine and shall be eligible for reappointment.
@@ -436,9 +436,7 @@ Temporary members
 
 Revocation of appointment
 
-4. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
-
-[27/2004 wef 13/08/2004]
+4\. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
 
 Resignation
 
@@ -476,17 +474,13 @@ Disclosure of interest by members
 
 Salaries, etc., payable to members of Authority
 
-11. There shall be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may, from time to time, determine.
-
-[27/2004 wef 13/08/2004]
+11\. There shall be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may, from time to time, determine.
 
 Meetings of Authority
 
 12.—(1) The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
 (2) At every meeting of the Authority, 5 members shall form a quorum.
-
-[27/2004 wef 13/08/2004]
 
 (3) A decision at a meeting of the Authority shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
@@ -504,7 +498,9 @@ Procedure at meetings
 
 Validity of proceedings
 
-15\. The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+15. The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+
+[27/2004]
 
 SECOND SCHEDULE
 
@@ -518,7 +514,7 @@ Financial provisions
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
 4\. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
@@ -554,39 +550,53 @@ THIRD SCHEDULE
 
 Sections 26(1) and 30
 
-Specified Acts
+Specified acts
 
-1. Appraisers Act (Cap. 16).
+1. 
 
-[22/2000 wef 01/08/2000]
+Appraisers Act (Cap. 16).
 
-[25/2010 wef 22/10/2010]
+2. 
 
-2\. Betting and Sweepstake Duties Act (Cap. 22).
+Betting and Sweepstake Duties Act (Cap. 22).
 
-3. Part IX of the Casino Control Act (Cap. 33A).
+3. 
 
-[S 423/2008 wef 29/08/2008]
+Part IX of the Casino Control Act (Cap. 33A).
 
-4\. Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
+4. 
 
-5\. Estate Duty Act (Cap. 96).
+Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
 
-5A. Goods and Services Tax Act 1993 (Act 31 of 1993).
+5. 
 
-[S 37/94 wef 28/01/1994]
+Estate Duty Act (Cap. 96).
 
-6\. Income Tax Act (Cap. 134).
+5A. 
 
-7. Private Lotteries Act 2011.
+Goods and Services Tax Act (Cap. 117A).
 
-[7/2011 wef 01/04/2011]
+6. 
 
-8\. Property Tax Act (Cap. 254).
+Income Tax Act (Cap. 134).
 
-9\.(Deleted by S 423/2008, wef 29/08/2008).
+7. 
 
-10\. Stamp Duties Act (Cap. 312).
+Private Lotteries Act (Cap. 250).
+
+8. 
+
+Property Tax Act (Cap. 254).
+
+9. 
+
+[Deleted by S 423/2008].
+
+10. 
+
+Stamp Duties Act (Cap. 312).
+
+[22/2000; 25/2010; 7/2011; S 37/94; S 423/2008]
 
 FOURTH SCHEDULE
 
@@ -594,25 +604,35 @@ Sections 26(2) and 30
 
 Specified offices
 
-1. The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
+1. 
 
-[S 423/2008 wef 29/08/2008]
+The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
 
-2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act (Cap. 254).
+2. 
 
-3\. The Commissioner of Stamp Duties under the Stamp Duties Act (Cap. 312).
+The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act (Cap. 254).
 
-4\. The Commissioner of Estate Duties under the Estate Duty Act (Cap. 96).
+3. 
 
-5\. [Deleted by S 398/2007 wef 25/07/2007]
+The Commissioner of Stamp Duties under the Stamp Duties Act (Cap. 312).
 
-6\. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993 (Act 31 of 1993).
+4. 
 
-[S 37/94 wef 28/1/1994]
+The Commissioner of Estate Duties under the Estate Duty Act (Cap. 96).
 
-7. The Commissioner of Betting Duties under the Private Lotteries Act 2011 and the Betting and Sweepstake Duties Act (Cap. 22).
+5. 
 
-[7/2011 wef 01/04/2011]
+[Deleted by S 398/2007].
+
+6. 
+
+The Comptroller of Goods and Services Tax under the Goods and Services Tax Act (Cap. 117A).
+
+7. 
+
+The Commissioner of Betting Duties under the Private Lotteries Act (Cap. 250) and the Betting and Sweepstake Duties Act (Cap. 22).
+
+[7/2011; S 37/94; S 398/2007; S 423/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -620,7 +640,7 @@ Inland Revenue Authority of Singapore Act
 
 (CHAPTER 138A)
 
-This Legislative History is provided for the convenience of users of the Inland Revenue Authority of Singapore Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Inland Revenue Authority of Singapore Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -694,3 +714,5 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 3/2011 published on 11 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|1 April 2011|
+|16.|**2012 Revised Edition—Inland Revenue Authority of Singapore Act (Chapter 138A)**|
+||Date of operation|31 October 2012|
