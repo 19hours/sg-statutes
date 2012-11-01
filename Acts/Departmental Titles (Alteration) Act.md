@@ -448,6 +448,26 @@ Manager, National Population Secretariat
 
 Manager, National Population and Talent Division.
 
+Permanent Secretary, Ministry of Community Development, Youth and Sports
+
+Permanent Secretary, Ministry of Social and Family Development.
+
+Deputy Secretary, Ministry of Community Development, Youth and Sports
+
+Deputy Secretary, Ministry of Social and Family Development.
+
+Permanent Secretary, Ministry of Information, Communications and the Arts
+
+Permanent Secretary, Ministry of Communications and Information.
+
+Deputy Secretary, Ministry of Information, Communications and the Arts
+
+Deputy Secretary, Ministry of Communications and Information.
+
+[S 625/2013 wef 01/11/2012]
+
+[S 597/2012 wef 01/11/2012]
+
 [S 1/2011 wef 01/01/2011]
 
 [S 160/2004 wef 01/04/2004]
@@ -514,3 +534,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|1 April 2004|
 |23.|**G. N. No. S 1/2011—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2011**|
 ||Date of commencement|1 January 2011|
+|24.|**G.N. No. S 597/2012—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2012**|
+||Date of commencement|1 November 2012|
