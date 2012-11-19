@@ -50,6 +50,8 @@
 
 - [15 Power of Authority to revoke exemption](#Power-of-Authority-to-revoke-exemption)
 
+[**Division 2  Regulation of Approved Exchanges**](#Division-2--Regulation-of-Approved-Exchanges)
+
 [**Subdivision (1) — Obligations of approved exchanges**](#Subdivision-1-—-Obligations-of-approved-exchanges)
 
 - [16 General obligations](#General-obligations)
@@ -159,6 +161,8 @@
 - [57 General criteria to be taken into account by Authority](#General-criteria-to-be-taken-into-account-by-Authority)
 
 - [58 Withdrawal of designation](#Withdrawal-of-designation)
+
+[**Division 3  Regulation of Designated Clearing Houses**](#Division-3--Regulation-of-Designated-Clearing-Houses)
 
 [**Subdivision (1) — Obligations of designated clearing houses**](#Subdivision-1-—-Obligations-of-designated-clearing-houses)
 
@@ -476,31 +480,117 @@
 
 [**Part VII DISCLOSURE OF INTERESTS**](#Part-VII)
 
-[**Division 1  Registers of Interests in Securities**](#Division-1--Registers-of-Interests-in-Securities)
+[**Division 1  Disclosure of Interest in Corporation**](#Division-1--Disclosure-of-Interest-in-Corporation)
 
-- [130 Application of this Division](#Application-of-this-Division)
+- [130 Application and interpretation of this Division](#Application-and-interpretation-of-this-Division)
 
-- [131 Register of securities](#Register-of-securities)
+- [131 Persons obliged to comply with this Division and power of Authority to grant exemption or extension](#Persons-obliged-to-comply-with-this-Division-and-power-of-Authority-to-grant-exemption-or-extension)
 
-- [132 Notice of particulars to Authority](#Notice-of-particulars-to-Authority)
+- [132 Authority may extend scope of Division in certain circumstances](#Authority-may-extend-scope-of-Division-in-certain-circumstances)
 
-- [133 Place at which register is kept](#Place-at-which-register-is-kept)
+[**Subdivision (1) — Disclosure by directors and chiefexecutive officer of corporation**](#Subdivision-1-—-Disclosure-by-directors-and-chiefexecutive-officer-of-corporation)
 
-- [134 Defence to prosecution](#Defence-to-prosecution)
+- [133 Duty of director or chief executive officer to notify corporation of his interests](#Duty-of-director-or-chief-executive-officer-to-notify-corporation-of-his-interests)
 
-- [135 Production of register](#Production-of-register)
+- [134 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-- [136 Extract of register](#Extract-of-register)
+[**Subdivision (2) — Disclosure by substantial shareholdersin corporation**](#Subdivision-2-—-Disclosure-by-substantial-shareholdersin-corporation)
 
-[**Division 2  Disclosure by Substantial Shareholders**](#Division-2--Disclosure-by-Substantial-Shareholders)
+- [135 Duty of substantial shareholder to notify corporation of his interests](#Duty-of-substantial-shareholder-to-notify-corporation-of-his-interests)
 
-- [137 Duty of substantial shareholders to notify securities exchange](#Duty-of-substantial-shareholders-to-notify-securities-exchange)
+- [136 Duty of substantial shareholder to notify corporation of change in interests](#Duty-of-substantial-shareholder-to-notify-corporation-of-change-in-interests)
 
-[**Division 3  Disclosure by Substantial Unitholders**](#Division-3--Disclosure-by-Substantial-Unitholders)
+- [137 Duty of person who ceases to be substantial shareholder to notify corporation](#Duty-of-person-who-ceases-to-be-substantial-shareholder-to-notify-corporation)
 
-- [137A Duty of substantial unitholders to notify securities exchange](#Duty-of-substantial-unitholders-to-notify-securities-exchange)
+- [137A Beneficial owner to ensure notification by person who holds, acquires or disposes of interests on his behalf](#Beneficial-owner-to-ensure-notification-by-person-who-holds-acquires-or-disposes-of-interests-on-his-behalf)
 
-- [137B Duty of substantial unitholders to notify trustee of collective investment scheme](#Duty-of-substantial-unitholders-to-notify-trustee-of-collective-investment-scheme)
+- [137B Notification by person who holds, acquires or disposes of interests for benefit of another person](#Notification-by-person-who-holds-acquires-or-disposes-of-interests-for-benefit-of-another-person)
+
+- [137C Corporation to keep register of substantial shareholders](#Corporation-to-keep-register-of-substantial-shareholders)
+
+- [137D Penalties under this Subdivision](#Penalties-under-this-Subdivision)
+
+- [137E Powers of court with respect to non-compliance by substantial shareholders](#Powers-of-court-with-respect-to-non-compliance-by-substantial-shareholders)
+
+- [137F Power of corporation to require disclosure of beneficial interest in its voting shares](#Power-of-corporation-to-require-disclosure-of-beneficial-interest-in-its-voting-shares)
+
+[**Subdivision (3) — Disclosure by corporation**](#Subdivision-3-—-Disclosure-by-corporation)
+
+- [137G Duty of corporation to make disclosure](#Duty-of-corporation-to-make-disclosure)
+
+[**Division 2  Disclosure of Interest in Business Trust and Interest in Trustee-Manager of Business Trust**](#Division-2--Disclosure-of-Interest-in-Business-Trust-and-Interest-in-Trustee-Manager-of-Business-Trust)
+
+- [137H Application and interpretation of this Division](#Application-and-interpretation-of-this-Division)
+
+- [137I Persons obliged to comply with this Division and power of Authority to grant exemption or extension](#Persons-obliged-to-comply-with-this-Division-and-power-of-Authority-to-grant-exemption-or-extension)
+
+[**Subdivision (1) — Disclosure by substantial unitholdersof business trust**](#Subdivision-1-—-Disclosure-by-substantial-unitholdersof-business-trust)
+
+- [137J Duty of substantial unitholder to notify trustee-manager of his interests](#Duty-of-substantial-unitholder-to-notify-trustee-manager-of-his-interests)
+
+- [137K Trustee-manager to keep register of substantial unitholders](#Trustee-manager-to-keep-register-of-substantial-unitholders)
+
+- [137L Powers of court with respect to non-compliance by substantial unitholders](#Powers-of-court-with-respect-to-non-compliance-by-substantial-unitholders)
+
+- [137M Power of trustee-manager to require disclosure of beneficial interest in voting units](#Power-of-trustee-manager-to-require-disclosure-of-beneficial-interest-in-voting-units)
+
+[**Subdivision (2) — Disclosure by directors and chief executiveofficer of trustee-manager of business trust**](#Subdivision-2-—-Disclosure-by-directors-and-chief-executiveofficer-of-trustee-manager-of-business-trust)
+
+- [137N Duty of director and chief executive officer of trustee-manager to notify his interests](#Duty-of-director-and-chief-executive-officer-of-trustee-manager-to-notify-his-interests)
+
+- [137O Penalties under this Subdivision](#Penalties-under-this-Subdivision)
+
+[**Subdivision (3) — Disclosure by holders of voting shares intrustee-manager**](#Subdivision-3-—-Disclosure-by-holders-of-voting-shares-intrustee-manager)
+
+- [137P Duty of holders of voting shares in trustee-manager to notify trustee-manager](#Duty-of-holders-of-voting-shares-in-trustee-manager-to-notify-trustee-manager)
+
+- [137Q Penalties under this Subdivision](#Penalties-under-this-Subdivision)
+
+[**Subdivision (4) — Disclosure by trustee-manager**](#Subdivision-4-—-Disclosure-by-trustee-manager)
+
+- [137R Duty of trustee-manager of business trust to make disclosure](#Duty-of-trustee-manager-of-business-trust-to-make-disclosure)
+
+[**Division 3  Disclosure of Interests in Real Estate Investment Trust and Interests in Shares of Responsible Person**](#Division-3--Disclosure-of-Interests-in-Real-Estate-Investment-Trust-and-Interests-in-Shares-of-Responsible-Person)
+
+- [137S Application and interpretation of this Division](#Application-and-interpretation-of-this-Division)
+
+- [137T Persons obliged to comply with Division and power of Authority to grant exemption or extension](#Persons-obliged-to-comply-with-Division-and-power-of-Authority-to-grant-exemption-or-extension)
+
+[**Subdivision (1) — Disclosure by substantial unitholders of realestate investment trust**](#Subdivision-1-—-Disclosure-by-substantial-unitholders-of-realestate-investment-trust)
+
+- [137U Duty of substantial unitholder to notify trustee and responsible person of his interests](#Duty-of-substantial-unitholder-to-notify-trustee-and-responsible-person-of-his-interests)
+
+- [137V Trustee to keep register of substantial unitholders](#Trustee-to-keep-register-of-substantial-unitholders)
+
+- [137W Powers of court with respect to non-compliance by substantial unitholders](#Powers-of-court-with-respect-to-non-compliance-by-substantial-unitholders)
+
+- [137X Power of trustee to require disclosure of beneficial interest in voting units](#Power-of-trustee-to-require-disclosure-of-beneficial-interest-in-voting-units)
+
+[**Subdivision (2) — Disclosure by directors and chief executiveofficer of responsible person**](#Subdivision-2-—-Disclosure-by-directors-and-chief-executiveofficer-of-responsible-person)
+
+- [137Y Duty of director and chief executive officer of responsible person to notify his interests](#Duty-of-director-and-chief-executive-officer-of-responsible-person-to-notify-his-interests)
+
+- [137Z Penalties under this Subdivision](#Penalties-under-this-Subdivision)
+
+[**Subdivision (3) — Disclosure by holders of voting shares inresponsible person**](#Subdivision-3-—-Disclosure-by-holders-of-voting-shares-inresponsible-person)
+
+- [137ZA Duty of holders of voting shares in responsible person to notify responsible person](#Duty-of-holders-of-voting-shares-in-responsible-person-to-notify-responsible-person)
+
+- [137ZB Penalties under this Subdivision](#Penalties-under-this-Subdivision)
+
+[**Subdivision (4) — Disclosure by responsible person**](#Subdivision-4-—-Disclosure-by-responsible-person)
+
+- [137ZC Duty of responsible person for real estate investment trust to make disclosure](#Duty-of-responsible-person-for-real-estate-investment-trust-to-make-disclosure)
+
+[**Division 4  Civil Penalty**](#Division-4--Civil-Penalty)
+
+- [137ZD Civil penalty](#Civil-penalty)
+
+- [137ZE Action under section 137ZD not to commence, etc., in certain situations](#Action-under-section-137ZD-not-to-commence-etc-in-certain-situations)
+
+- [137ZF Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
+- [137ZG Rules of Court](#Rules-of-Court)
 
 [**Part VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS**](#Part-VIII)
 
@@ -512,7 +602,7 @@
 
 [**Part IX SUPERVISION AND INVESTIGATION**](#Part-IX)
 
-[**Division 1  Supervisory Powers of Authority**](#Division-1--Supervisory-Powers-of-Authority)
+[**Division 1  Supervisory Powers**](#Division-1--Supervisory-Powers)
 
 [**Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts**](#Subdivision-1-—-Powers-of-Authority-to-require-disclosure-of-information-about-securities-and-futures-contracts)
 
@@ -550,6 +640,8 @@
 
 - [151 Power of Minister to appoint inspectors](#Power-of-Minister-to-appoint-inspectors)
 
+[**Division 3  Investigative Powers of Authority**](#Division-3--Investigative-Powers-of-Authority)
+
 [**Subdivision (1) — General**](#Subdivision-1-—-General)
 
 - [152 Investigation by Authority](#Investigation-by-Authority)
@@ -557,6 +649,8 @@
 - [152A Confidentiality of investigation reports](#Confidentiality-of-investigation-reports)
 
 - [153 Self-incrimination and savings for advocates and solicitors](#Self-incrimination-and-savings-for-advocates-and-solicitors)
+
+[**Subdivision (2) — Examination of persons**](#Subdivision-2-—-Examination-of-persons)
 
 - [154 Requirement to appear for examination](#Requirement-to-appear-for-examination)
 
@@ -802,6 +896,8 @@
 
 - [239B Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
 
+[**Subdivision (2) — Prospectus requirements**](#Subdivision-2-—-Prospectus-requirements)
+
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
 - [240A Debenture issuance programme](#Debenture-issuance-programme)
@@ -949,6 +1045,14 @@
 - [282S Allotment of units or derivatives of units where prospectus indicates application to list on securities exchange](#Allotment-of-units-or-derivatives-of-units-where-prospectus-indicates-application-to-list-on-securities-exchange)
 
 - [282T Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
+
+[**Subdivision (2A) — Recognised business trusts**](#Subdivision-2A-—-Recognised-business-trusts)
+
+- [282TA Power of Authority to recognise business trusts constituted outside Singapore](#Power-of-Authority-to-recognise-business-trusts-constituted-outside-Singapore)
+
+- [282TB Power of Authority to impose conditions or restrictions](#Power-of-Authority-to-impose-conditions-or-restrictions)
+
+- [282TC Revocation, suspension or withdrawal of recognition](#Revocation-suspension-or-withdrawal-of-recognition)
 
 [**Subdivision (3) — Exemptions**](#Subdivision-3-—-Exemptions)
 
@@ -1146,7 +1250,7 @@
 
 - [342 Regulations to apply Act to persons and matters previously regulated under Commodity Trading Act](#Regulations-to-apply-Act-to-persons-and-matters-previously-regulated-under-Commodity-Trading-Act)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Market**](#FIRST-SCHEDULE-Market)
 
 [**SECOND SCHEDULE Regulated Activities**](#SECOND-SCHEDULE-Regulated-Activities)
 
@@ -1600,11 +1704,13 @@ but does not include —
 
 “subsidiary” has the same meaning as in section 5 of the Companies Act;
 
-“substantial shareholder” has the same meaning as in Division 4 of Part IV of the Companies Act;
+“substantial unitholder” —
 
-“substantial shareholding” has the same meaning as in Division 4 of Part IV of the Companies Act;
+(a) in relation to a collective investment scheme, means a participant who has an interest or interests in one or more voting units in the scheme, the total votes attached to that unit, or those units, being not less than 5% of the total votes attached to all the voting units in the scheme; or
 
-“substantial unitholder”, in relation to a collective investment scheme, means a participant who has an interest or interests in units in the scheme representing not less than 5% of the total voting rights of all the participants of the scheme;
+(b) in relation to a business trust, means a person who has an interest or interests in one or more voting units in the business trust, the total votes attached to that unit, or those units, being not less than 5% of the total votes attached to all the voting units in the business trust;
+
+[2/2009 wef 19/11/2012]
 
 “Take-over Code” means the Singapore Code on Take-overs and Mergers referred to in section 139 which is issued by the Authority under section 321(1);
 
@@ -1654,13 +1760,39 @@ and which, if executed, would result in a change in effective control of the pub
 
 (c) transactions cleared or settled by a designated clearing house;
 
+“treasury share” —
+
+(a) in relation to a company, has the same meaning as in section 4(1) of the Companies Act (Cap. 50); and
+
+(b) in relation to a corporation (other than a company), means any share equivalent to a treasury share in a company;
+
+[2/2009 wef 19/11/2012]
+
+“trustee-manager” —
+
+(a) in relation to a registered business trust, has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+
+(b) in relation to a business trust for which an application for registration has been made under section 4(1) of the Business Trusts Act, means the company proposed to be named as the trustee-manager in the application made under that section;
+
+(c) in relation to a recognised business trust, means the entity which manages and operates the recognised business trust, by whatever name called and whether incorporated or not; and
+
+(d) in relation to a business trust for which an application for recognition has been made under section 282TA(1), means the entity proposed to be managing and operating the trust, by whatever name called and whether incorporated or not;
+
+[2/2009 wef 19/11/2012]
+
 “unit” —
 
 (a) in relation to a collective investment scheme, means a right or interest (however described) in a collective investment scheme (whether or not constituted as an entity), and includes an option to acquire any such right or interest in the collective investment scheme; and
 
 (b) in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
-“unitholder”, in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act;
+“unitholder” —
+
+(a) in relation to a collective investment scheme, means a participant of the scheme; and
+
+(b) in relation to a business trust, means a person who holds a unit in the business trust;
+
+[2/2009 wef 19/11/2012]
 
 “user”, in relation to an approved exchange or a designated clearing house, means a person who is —
 
@@ -1676,7 +1808,49 @@ of the approved exchange or designated clearing house;
 
 (b) a group of users, from which the name of a user can be directly inferred;
 
-“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+[2/2009 wef 19/11/2012]
+
+“voting unit” —
+
+(a) in relation to a business trust, means an issued unit in the business trust, other than —
+
+(i) a unit to which in no circumstances is there attached a right to vote; or
+
+(ii) a unit to which there is attached a right to vote only in one or more of the following circumstances:
+
+(A) during a period in which a distribution (or part of a distribution) in respect of the unit is in arrears;
+
+(B) upon a proposal to reduce the unitholders’ equity of the business trust;
+
+(C) upon a proposal that affects rights attached to the unit;
+
+(D) upon a proposal to wind up the business trust;
+
+(E) upon a proposal for the disposal of the whole of the property, business and undertakings of the business trust;
+
+(F) during the winding up of the business trust; and
+
+(b) in relation to a collective investment scheme, means an issued unit in the scheme, other than —
+
+(i) a unit to which in no circumstances is there attached a right to vote; or
+
+(ii) a unit to which there is attached a right to vote only in one or more of the following circumstances:
+
+(A) during a period in which a distribution (or part of a distribution) in respect of the unit is in arrears;
+
+(B) upon a proposal to reduce the participants’ funds of the scheme;
+
+(C) upon a proposal that affects rights attached to the unit;
+
+(D) upon a proposal to wind up the scheme;
+
+(E) upon a proposal for the disposal of the whole of the property, business and undertakings of the scheme;
+
+(F) during the winding up of the scheme.
+
+[2/2009 wef 19/11/2012]
 
 [16/2003; 5/2004; 31/2004; 1/2005; 5/2005]
 
@@ -1713,6 +1887,26 @@ and without limiting the generality of sub-paragraphs (i) to (iv), any conduct o
 (j) matters relating to or arising out of the audit of, or working papers or reports of an auditor concerning, any matters referred to in paragraphs (a) to (i).
 
 (3) Where the name of a corporation referred to in this Act is changed pursuant to the Companies Act (Cap. 50), the change of name shall not affect the identity of that corporation or the application of the relevant provisions of this Act or any other written law to that corporation.
+
+(4) For the purposes of this Act, a person has a substantial shareholding in a corporation if —
+
+(a) he has an interest or interests in one or more voting shares (excluding treasury shares) in the corporation; and
+
+(b) the total votes attached to that share, or those shares, is not less than 5% of the total votes attached to all the voting shares (excluding treasury shares) in the corporation.
+
+[2/2009 wef 19/11/2012]
+
+(5) For the purposes of this Act, a person has a substantial shareholding in a corporation, being a corporation the share capital of which is divided into 2 or more classes of shares, if —
+
+(a) he has an interest or interests in one or more voting shares (excluding treasury shares) in one of those classes; and
+
+(b) the total votes attached to that share, or those shares, is not less than 5% of the total votes attached to all the voting shares (excluding treasury shares) in that class.
+
+[2/2009 wef 19/11/2012]
+
+(6) For the purposes of this Act, a person who has a substantial shareholding in a corporation is a substantial shareholder in that corporation.
+
+[2/2009 wef 19/11/2012]
 
 [SIA, s. 2; FTA, s. 2; Companies, s. 4 & s. 107; UK FSMA 2000, s. 235; Aust. Corporations 2001, s. 9]
 
@@ -2452,6 +2646,10 @@ Subdivision (2) — Exempt market operator
 
 [1/2005]
 
+Division 2 —
+
+Regulation of Approved Exchanges
+
 Subdivision (1) — Obligations of approved exchanges
 
 ### General obligations
@@ -2666,7 +2864,7 @@ Subdivision (2) — Rules of approved exchanges
 
 ### Power of court to order observance or enforcement of business rules or listing rules
 
-25\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules or listing rules of an approved exchange fails to do so, the High Court may, on the application of the Authority, an approved exchange or a person aggrieved by the failure, and after giving the first-mentioned person an opportunity to be heard, make an order directing the first- mentioned person to comply with, observe, enforce or give effect to those business rules or listing rules.
+25\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules or listing rules of an approved exchange fails to do so, the High Court may, on the application of the Authority, an approved exchange or a person aggrieved by the failure, and after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules or listing rules.
 
 [1/2005]
 
@@ -3775,6 +3973,10 @@ Designation of Persons Operating Clearing Facilities
 (3) The Authority shall not withdraw on its own initiative the designation of any person operating a clearing facility as a designated clearing house without giving the person an opportunity to be heard.
 
 [1/2005]
+
+Division 3 —
+
+Regulation of Designated Clearing Houses
 
 Subdivision (1) — Obligations of designated clearing houses
 
@@ -7404,7 +7606,12 @@ Securities
 
 Division 3 —
 
-Futures Contracts and Leveraged Foreign Exchange Trading
+Futures Contracts and
+
+
+
+
+Leveraged Foreign Exchange Trading
 
 126\. [Repealed by Act 2/2009 wef 26/11/2010]
 
@@ -7420,191 +7627,1336 @@ DISCLOSURE OF INTERESTS
 
 Division 1 —
 
-Registers of Interests in Securities
+Disclosure of Interest in Corporation
 
-### Application of this Division
+### Application and interpretation of this Division
 
-130\.—(1) This Division shall apply to any relevant person.
+130\.—(1) This section shall have effect for the purposes of this Division but shall not prejudice the operation of any other provision of this Act.
 
-(2) In this Division —
+(2) A reference to a corporation is a reference —
 
-(a) “relevant person” means —
+(a) to a company any or all of the shares in which are listed for quotation on the official list of a securities exchange; or
 
-(i) a holder of a capital markets services licence to deal in securities and a representative of such a holder;
+(b) to a corporation (not being a company, or a collective investment scheme constituted as a corporation) any or all of the shares in which are listed for quotation on the official list of a securities exchange, such listing being a primary listing.
 
-(ii) a holder of a capital markets services licence to advise on corporate finance and a representative of such a holder;
+(3) In relation to a corporation the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the corporation having attached to it the same rights as are attached to that stock.
 
-[S 376/2008 wef 01/08/2008]
+(4) A reference to a member —
 
-(iii) a holder of a capital markets services licence for fund management and a representative of such a holder;
+(a) in relation to a company, means a person who is a member of the company under section 19(6) of the Companies Act (Cap. 50); and
 
-[S 376/2008 wef 01/08/2008]
+(b) in relation to a corporation (other than a company), means any person equivalent to a member of a company.
 
-[S 20/2012 wef 17/01/2012]
+(5) Section 4 (other than subsection (6)) shall apply for the purpose of determining whether a person has an interest in securities under this Division; and in determining whether a person is deemed to have an interest in securities under section 4(5) for such purpose, a person shall be treated as an associate of another person if the first-mentioned person is —
 
-(iv) a holder of a capital markets services licence for real estate investment trust management and a representative of such a holder; or
+(a) a subsidiary of the second-mentioned person;
 
-[S 20/2012 wef 17/01/2012]
+(b) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities; or
 
-(v) a holder of a capital markets services licence for providing credit rating services and a representative of such a holder; and
+(c) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities.
 
-[S 20/2012 wef 17/01/2012]
+(6) For the purposes of sections 133(3)(b)(i), 135(2)(b), 136(1), 137(1) and 137E(6), a person shall conclusively be presumed to have been aware of a fact or occurrence at a particular time —
 
-(b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
+(a) of which he would, if he had acted with reasonable diligence in the conduct of his affairs, have been aware at that time;
 
-[1/2005]
+(b) where the person is a body corporate or unincorporated association (other than a partnership), of which its officer would, if he had acted with reasonable diligence in the conduct of its affairs, have been aware at that time;
 
-[SIA, s. 41]
+(c) where the person is a limited liability partnership, of which its partner or manager would, if he had acted with reasonable diligence in the conduct of its affairs, have been aware at that time; or
 
-### Register of securities
+(d) where the person is a partnership, of which its partner would, if he had acted with reasonable diligence in the conduct of its affairs, have been aware at that time.
 
-131\.—(1) A relevant person shall —
+(7) In this section —
 
-(a) maintain in the prescribed form a register of his interests in securities;
+“officer” —
 
-(b) enter in the register, within 7 days after the date that he acquires any interest in securities, particulars of the securities in which he has an interest and particulars of his interest in those securities; and
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body, and includes a person purporting to act in any such capacity; or
 
-(c) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which such entry is first made.
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or a member of the committee of the association, or a person holding a position analogous to that of president, secretary or member of the committee, and includes a person purporting to act in such capacity;
 
-[2/2007 wef 01/03/2007]
+“partner” includes a person purporting to act as a partner.
 
-(2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
+[2/2009 wef 19/11/2012]
 
-(a) enter in the register, within 7 days after the date of the change, particulars of the change including the date of the change and the circumstances by reason of which the change has occurred; and
+### Persons obliged to comply with this Division and power of Authority to grant exemption or extension
 
-(b) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which such entry was first made.
+131\.—(1) The obligation to comply with this Division extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
 
-[2/2007 wef 01/03/2007]
+(2) This Division extends to acts done or omitted to be done outside Singapore.
 
-[16/2003]
+(3) The Authority may exempt any person or class of persons from any or all of the provisions of this Division.
 
-[SIA, s. 42]
+(4) The Authority may by notice in writing impose on a person exempted under subsection (3), or by regulations impose on a class of persons exempted under that subsection, such conditions or restrictions as the Authority thinks fit and the person or persons shall comply with such conditions or restrictions.
 
-### Notice of particulars to Authority
+(5) Any person who contravenes any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-132\.—(1) A relevant person shall give notice to the Authority in the prescribed form of —
+(6) The Authority may, on the application of a person required to give a notice under this Division, in its discretion, extend, or further extend, the time for giving the notice.
 
-(a) the place at which he will keep the register of his interests in securities or, if the register is in electronic form, the place at which full access to the register may be gained; and
+[2/2009 wef 19/11/2012]
 
-(b) such other particulars as may be prescribed.
+### Authority may extend scope of Division in certain circumstances
 
-(2) The notice under subsection (1) shall be given by the relevant person as part of his application for a licence under this Act.
+132\. The Authority may, if it thinks it is necessary in the interests of the public or a section of the public, to protect investors, or to enhance market transparency, by regulations extend, with or without modifications or adaptations, the provisions of this Division ––
 
-(3) A person who ceases to be a relevant person shall, within 14 days of his so ceasing, notify the Authority.
+(a) to any person, class of persons, securities, interests in securities, or class of securities or interests in securities, other than the persons, securities or interests in securities to which this Division applies;
 
-(4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(b) to require the disclosure of interests in any entity, arrangement or trust other than a corporation,
 
-[SIA, s. 43]
+and the provisions of this Division shall apply accordingly.
 
-### Place at which register is kept
+[2/2009 wef 19/11/2012]
 
-133\.—(1) A relevant person shall keep the register of his interests in securities —
+Subdivision (1) — Disclosure by directors and chief
+executive officer of corporation
 
-(a) in the case of an individual, at his principal place of business; or
+### Duty of director or chief executive officer to notify corporation of his interests
 
-(b) in the case of a corporation, at any of its places of business.
+133\.—(1) Every director and chief executive officer of a corporation shall give notice in writing to the corporation of particulars of —
 
-(2) Where a register of interests in securities is kept in electronic form, a relevant person shall be deemed to be in compliance with subsection (1) if he ensures that full access to such register may be gained by the Authority at the place referred to in subsection (1)(a) or (b), as the case may be.
+(a) shares in ––
 
-[SIA, s. 43A]
+(i) the corporation; or
 
-### Defence to prosecution
+(ii) a related corporation of the corporation,
 
-134\.—(1) Where a person is charged with an offence in respect of a contravention of section 131 or 132, it shall be a defence for the person to prove —
+which he holds, or in which he has an interest and the nature and extent of that interest;
 
-(a) that his contravention was due to his not being aware of a fact or occurrence the existence of which was necessary to constitute the offence; and
+(b) debentures of —
 
-(b) that —
+(i) the corporation; or
 
-(i) he was not so aware on the date of the summons; or
+(ii) a related corporation of the corporation,
 
-(ii) he became so aware before the date of the summons and complied with the relevant section within 14 days after becoming so aware.
+which he holds, or in which he has an interest and the nature and extent of that interest;
 
-(2) For the purposes of subsection (1), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time of which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the securities concerned, was aware at that time.
+(c) his rights or options, or rights or options of his and another person or other persons, in respect of the acquisition or disposal of shares in or debentures of —
 
-[SIA, s. 44]
+(i) the corporation; or
 
-### Production of register
+(ii) a related corporation of the corporation;
 
-135\.—(1) The Authority may require any relevant person to produce for its inspection the register of his interests in securities, and the Authority may make a copy of, or take extracts from, the register.
+(d) contracts to which he is a party, or under which he is entitled to a benefit, being contracts under which a person has a right to call for or to make delivery of shares in ––
 
-(2) Any relevant person who —
+(i) the corporation; or
 
-(a) fails to produce the register of his interests in securities for inspection by the Authority; or
+(ii) a related corporation of the corporation;
 
-(b) fails to allow the Authority to make a copy of, or take extracts from, the register,
+(e) participatory interests made available by —
 
-shall be guilty of an offence.
+(i) the corporation; or
 
-[SIA, s. 45]
+(ii) a related corporation of the corporation,
 
-### Extract of register
+which he holds, or in which he has an interest and the nature and extent of that interest;
 
-136\. The Authority may supply a copy of an extract of a register obtained under section 135 to any person who, in the opinion of the Authority, should in the public interest be informed of the dealing in securities disclosed in the register.
+(f) such other securities as the Authority may prescribe, which are held, whether directly or indirectly, by him, or in which he has an interest and the nature and extent of that interest; and
 
-[SIA, s. 47]
+(g) any change in respect of the particulars of any matter referred to in paragraphs (a) to (f).
+
+(2) Paragraphs (a)(ii), (b)(ii), (c)(ii), (d)(ii), (e) and (g) (in respect of a change in the particulars of any matter referred to in paragraphs (a)(ii), (b)(ii), (c)(ii), (d)(ii) and (e)) of subsection (1) shall only apply to a director of a corporation which is a company.
+
+(3) A notice under subsection (1) —
+
+(a) shall be in such form and shall contain such information as the Authority may prescribe; and
+
+(b) shall be given —
+
+(i) in the case of a notice under subsection (1)(g), within 2 business days after the director or chief executive officer becomes aware of the change; or
+
+(ii) in any other case, within 2 business days after —
+
+(A) the date on which the director or chief executive officer becomes such a director or chief executive officer; or
+
+(B) the date on which the director or chief executive officer becomes a holder of, or acquires an interest in, the shares, debentures, rights, options, contracts, participatory interests or other securities referred to in subsection (1),
+
+whichever last occurs.
+
+(4) For the purposes of this section ––
+
+(a) a director or chief executive officer of a corporation shall be deemed to have an interest in securities referred to in subsection (1) if a family member of the director or chief executive officer (not being himself a director or chief executive officer of the corporation), as the case may be, holds or has an interest in those securities; and
+
+(b) any contract entered into by, any assignment or right of subscription made or exercised by, or any grant made to, a family member of a director or chief executive officer of a corporation (not being himself a director or chief executive officer of the corporation) shall be deemed to have been entered into by, made or exercised by or made to the director or chief executive officer.
+
+(5) In this section ––
+
+(a) a reference to a participatory interest is a reference to a unit in a collective investment scheme; and
+
+(b) a reference to a person who holds or acquires participatory interests or other securities referred to in subsection (1), or an interest in shares, debentures, participatory interests or other securities referred to in that subsection, includes a reference to a person who under an option holds or acquires a right to acquire or dispose of the participatory interests or securities, or the interest in shares, debentures, participatory interests or securities.
+
+(6) In this section, “family member” means a spouse, or a son, adopted son, step-son, daughter, adopted daughter or step-daughter below the age of 21 years.
+
+[2/2009 wef 19/11/2012]
+
+### Penalties under this Subdivision
+
+134\.—(1) Any director or chief executive officer of a corporation who —
+
+(a) intentionally or recklessly contravenes section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) or (f), or section 133(1)(g) in respect of a change in the particulars of any matter referred to in section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) and (f);
+
+(b) intentionally or recklessly contravenes section 133(3) in respect of a notice of the particulars of any matter referred to in section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) and (f) or of a change in any of those particulars; or
+
+(c) in purported compliance with section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) or (f), or section 133(1)(g) in respect of a change in the particulars of any matter referred to in section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) and (f), furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any director or chief executive officer of a corporation who —
+
+(a) contravenes section 133(1) or (3); or
+
+(b) in purported compliance with section 133, furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(3) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (2) — Disclosure by substantial shareholders
+in corporation
+
+### Duty of substantial shareholder to notify corporation of his interests
+
+135\.—(1) A person who is or (if he has ceased to be one) had been a substantial shareholder in a corporation shall give notice in writing to the corporation of particulars of the voting shares in the corporation in which he has or had an interest or interests and the nature and extent of that interest or those interests.
+
+(2) A notice under subsection (1) —
+
+(a) shall be in such form and shall contain such information as the Authority may prescribe;
+
+(b) shall be given within 2 business days after the person becomes aware that he is or (if he has ceased to be one) had been a substantial shareholder; and
+
+(c) shall be given notwithstanding that the person has ceased to be a substantial shareholder before the expiration of the period referred to in paragraph (b).
+
+[2/2009 wef 19/11/2012]
+
+### Duty of substantial shareholder to notify corporation of change in interests
+
+136\.—(1) Where there is a change in the percentage level of the interest or interests of a substantial shareholder in a corporation in voting shares in the corporation, the substantial shareholder shall give notice in writing to the corporation within 2 business days after he becomes aware of the change.
+
+(2) A notice under subsection (1) shall be in such form and shall contain such information as the Authority may prescribe.
+
+(3) In subsection (1), “percentage level”, in relation to a substantial shareholder in a corporation, means the percentage figure ascertained by expressing the total votes attached to all the voting shares in which the substantial shareholder has an interest or interests immediately before or (as the case may be) immediately after the relevant time, as a percentage of the total votes attached to —
+
+(a) all the voting shares (excluding treasury shares) in the corporation; or
+
+(b) where the share capital of the corporation is divided into 2 or more classes of shares, all the voting shares (excluding treasury shares) in the class concerned,
+
+and, if it is not a whole number, rounding that figure down to the next whole number.
+
+[2/2009 wef 19/11/2012]
+
+### Duty of person who ceases to be substantial shareholder to notify corporation
+
+137\.—(1) A person who ceases to be a substantial shareholder in a corporation shall give notice in writing to the corporation within 2 business days after he becomes aware that he has ceased to be a substantial shareholder.
+
+(2) A notice under subsection (1) shall be in such form and shall contain such information as the Authority may prescribe.
+
+[2/2009 wef 19/11/2012]
+
+### Beneficial owner to ensure notification by person who holds, acquires or disposes of interests on his behalf
+
+137A\. Where a person authorises another person to hold, acquire or dispose of, on his behalf, voting shares or an interest or interests in voting shares in a corporation, he shall take reasonable steps to ensure that the second-mentioned person notifies him as soon as practicable and, in any case, no later than 2 business days after any acquisition or disposal of any of those voting shares or interest or interests in voting shares effected by the second-mentioned person on his behalf which will or may give rise to any duty on the part of the first-mentioned person to give notice under this Subdivision.
+
+[2/2009 wef 19/11/2012]
+
+### Notification by person who holds, acquires or disposes of interests for benefit of another person
+
+137B\. Where a person holds voting shares in a corporation, being voting shares in which another person has an interest, he shall give to the second-mentioned person a notice of any acquisition or disposal of any of those shares effected by him, in such form as the Authority may prescribe, as soon as practicable and, in any case, no later than 2 business days after acquiring or disposing of the shares.
+
+[2/2009 wef 19/11/2012]
+
+### Corporation to keep register of substantial shareholders
+
+137C\.—(1) A corporation shall keep a register in which it shall immediately enter —
+
+(a) the names of persons from whom it has received a notice under section 135; and
+
+(b) against each name so entered, the information given in the notice and, where it receives a notice under section 136 or 137, the information given in that notice.
+
+(2) The corporation shall keep the register at its registered office or, if the corporation does not have a registered office, at its principal place of business in Singapore and the register shall be open for inspection by a member of the corporation without charge, and by any other person on payment for each inspection of a sum of $2 or such lesser sum as the corporation requires.
+
+(3) A person may request the corporation to furnish him with a copy of the register or any part of the register on payment in advance of a sum of $1 or such lesser sum as the corporation requires for every page or part thereof required to be copied, and the corporation shall send the copy to that person within 14 days, or such longer period as the Authority may allow in any particular case, after the day on which the corporation received the request.
+
+(4) The Authority may at any time in writing require the corporation to furnish it with a copy of the register or any part of the register and the corporation shall send the copy to the Authority within 7 days after the day on which the corporation received the requirement.
+
+(5) Any corporation which fails to comply with subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) A corporation is not, by reason of anything done under this Subdivision —
+
+(a) to be taken for any purpose of the Companies Act (Cap. 50) to have notice of; or
+
+(b) to be put upon inquiry as to,
+
+a right of a person to or in relation to a share in the corporation.
+
+[2/2009 wef 19/11/2012]
+
+### Penalties under this Subdivision
+
+137D\.—(1) Any person who —
+
+(a) intentionally or recklessly contravenes section 135, 136(1) or (2), 137, 137A or 137B; or
+
+(b) in purported compliance with section 135, 136, 137 or 137B, furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any person who —
+
+(a) contravenes section 135, 136(1) or (2), 137, 137A or 137B; or
+
+(b) in purported compliance with section 135, 136, 137 or 137B, furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(3) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+### Powers of court with respect to non-compliance by substantial shareholders
+
+137E\.—(1) Where a person is or has been a substantial shareholder in a corporation and has failed to comply with section 135, 136 or 137, a court may, on the application of the Authority, whether or not that failure still continues, make one or more of the following orders:
+
+(a) an order restraining the substantial shareholder from disposing of any interest in shares in the corporation in which he is or has been a substantial shareholder;
+
+(b) an order restraining a person who is, or is entitled to be the holder of the shares referred to in paragraph (a) from disposing of any interest in those shares;
+
+(c) an order restraining the exercise by any person of any voting or other rights attached to any share in the corporation in which the substantial shareholder has or has had an interest;
+
+(d) an order directing the corporation not to make payment, or to defer making payment, of any sum due from the corporation in respect of any share in which the substantial shareholder has or has had an interest;
+
+(e) an order directing the sale of any or all of the shares in the corporation in which the substantial shareholder has or has had an interest;
+
+(f) an order directing the corporation not to register or cause to be registered in the register of members the transfer or transmission of shares specified by the court;
+
+(g) an order directing the Depository (within the meaning of section 130A of the Companies Act (Cap. 50)) or any depository corporation not to register or cause to be registered the transfer or transmission of any shares or interest in shares in the corporation specified by the court;
+
+(h) an order that any exercise by any person of the voting or other rights attached to shares in the corporation specified by the court in which the substantial shareholder has or has had an interest be disregarded;
+
+(i) for the purposes of securing compliance with any other order made under this section, an order directing the corporation or any other person to do or refrain from doing an act specified by the court.
+
+(2) Any order made under this section may include such ancillary or consequential provisions as the court thinks just.
+
+(3) An order made under this section directing the sale of any share may provide that the sale shall be made within such time and subject to such conditions, if any, as the court thinks fit, including, if the court thinks fit, a condition that the sale shall not be made to a person who is, or, as a result of the sale, would become a substantial shareholder in the corporation.
+
+(4) Where a share is not sold in accordance with an order of the court under this section, the Authority may apply to the court for directions, including directions as to who the unsold share is to vest in.
+
+(5) The court shall, before making an order under this section and in determining the terms of such an order, satisfy itself, so far as it can reasonably do so, that the order would not unfairly prejudice any person.
+
+(6) The court shall not make an order under this section, other than an order restraining the exercise of voting rights, if it is satisfied —
+
+(a) that the failure of the substantial shareholder to comply as mentioned in subsection (1) was due to his inadvertence or mistake or to his not being aware of a relevant fact or occurrence; and
+
+(b) that in all the circumstances, the failure ought to be excused.
+
+(7) The court may, before making an order under this section, direct that notice of the application be given to such persons as it thinks fit or direct that notice of the application be published in such manner as it thinks fit, or both.
+
+(8) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
+
+(9) Any person who contravenes an order made under this section that is applicable to him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(10) Subsection (9) does not affect the powers of the court in relation to the punishment of contempt of the court.
+
+[2/2009 wef 19/11/2012]
+
+### Power of corporation to require disclosure of beneficial interest in its voting shares
+
+137F\.—(1) Any corporation may by notice in writing require any member of the corporation within such reasonable time as is specified in the notice —
+
+(a) to inform it whether he holds any voting shares in the corporation as beneficial owner or as trustee; and
+
+(b) if he holds them as trustee, to indicate so far as he can the persons for whom he holds them (either by name or by other particulars sufficient to enable those persons to be identified) and the nature of their interest.
+
+(2) Where a corporation is informed pursuant to a notice given to any person under subsection (1) or under this subsection that any other person has an interest in any of the voting shares in the corporation, the corporation may by notice in writing require that other person within such reasonable time as is specified in the notice —
+
+(a) to inform it whether he holds that interest as beneficial owner or as trustee; and
+
+(b) if he holds it as trustee, to indicate so far as he can the persons for whom he holds it (either by name or by other particulars sufficient to enable them to be identified) and the nature of their interest.
+
+(3) Any corporation may by notice in writing require any member of the corporation to inform it, within such reasonable time as is specified in the notice, whether any of the voting rights carried by any voting shares in the corporation held by him are the subject of an agreement or arrangement under which another person is entitled to control his exercise of those rights and, if so, to give particulars of the agreement or arrangement and the parties to it.
+
+(4) The notice referred to in subsection (1), (2) or (3) shall contain such other information as may be prescribed by the Authority, and the delivery of such notice shall comply with such requirements as may be prescribed by the Authority.
+
+(5) Any person to whom a notice is issued under subsection (1), (2) or (3) shall comply with that notice.
+
+(6) Whenever a corporation receives information from a person pursuant to a requirement imposed on him under this section with respect to shares held by a member of the corporation, it shall be under an obligation to inscribe against the name of that member in a separate part of the register kept by it under section 137C —
+
+(a) the fact that the requirement was imposed and the date on which it was imposed; and
+
+(b) the information received pursuant to the requirement.
+
+(7) Section 137C shall apply in relation to the part of the register referred to in subsection (6) as it applies in relation to the remainder of the register and as if references to subsection (1) of that section included references to subsection (6).
+
+(8) Any person who —
+
+(a) intentionally or recklessly contravenes subsection (5); or
+
+(b) in purported compliance with subsection (5), furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Any person who —
+
+(a) contravenes subsection (5); or
+
+(b) in purported compliance with subsection (5), furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(10) A person shall not be guilty of an offence under subsection (8)(a) or (9)(a) if he proves that the information in question was already in the possession of the corporation or that the requirement to give it was for any other reason frivolous or vexatious.
+
+(11) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (3) — Disclosure by corporation
+
+### Duty of corporation to make disclosure
+
+137G\.—(1) Where a corporation has been notified in writing by —
+
+(a) a director or chief executive officer of the corporation pursuant to a requirement imposed on him under section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) or (f), or under section 133(1)(g) in respect of a change in the particulars of any matter referred to in section 133(1)(a)(i), (b)(i), (c)(i), (d)(i) and (f); or
+
+(b) a substantial shareholder in the corporation pursuant to a requirement imposed on him under section 135, 136 or 137,
+
+the corporation shall announce or otherwise disseminate the information stated in the notice to the securities market operated by the securities exchange on whose official list any or all of the shares of the corporation are listed, as soon as practicable and in any case, no later than the end of the business day following the day on which the corporation received the notice.
+
+(2) The corporation shall announce or otherwise disseminate the information in such form and manner as the Authority may prescribe.
+
+(3) Any corporation that —
+
+(a) intentionally or recklessly contravenes subsection (1) or (2); or
+
+(b) in purported compliance with this section, announces or disseminates any information knowing that it is false or misleading in a material particular or reckless as to whether it is,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) Any corporation that —
+
+(a) contravenes subsection (1) or (2); or
+
+(b) in purported compliance with this section, announces or disseminates any information that is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(5) Where an offence has been committed by a corporation under subsection (3) or (4), any officer of the corporation who —
+
+(a) causes the corporation to contravene subsection (1);
+
+(b) announces or disseminates, or permits or authorises the announcement or dissemination of, the information that is false or misleading in a material particular; or
+
+(c) announces or disseminates, or permits or authorises the announcement or dissemination of the information in contravention of subsection (2),
+
+shall —
+
+(i) if he had acted intentionally or recklessly, or with knowledge that the information so announced or disseminated is false or misleading in a material particular or is reckless as to whether it is, be guilty of an offence and be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both; or
+
+(ii) if he had acted negligently, be guilty of an offence and be liable on conviction to a fine not exceeding $25,000.
+
+(6) In this section, “officer” means a director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the corporation, and includes a person purporting to act in any such capacity.
+
+(7) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
 
 Division 2 —
 
-Disclosure by Substantial Shareholders
+Disclosure of Interest in Business Trust and
 
-### Duty of substantial shareholders to notify securities exchange
 
-137\.—(1) In the case of a company all or any of which shares are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder as though references to the company to which notification should be given were references to the securities exchange, and such person shall comply with those provisions accordingly.
 
-[1/2005]
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
+Interest in Trustee-Manager of Business Trust
+
+### Application and interpretation of this Division
+
+137H\.—(1) This section shall have effect for the purposes of this Division but shall not prejudice the operation of any other provision of this Act.
+
+(2) A reference to a registered business trust is a reference to a registered business trust any or all of the units in which are listed for quotation on the official list of a securities exchange.
+
+(3) A reference to a recognised business trust is a reference to a recognised business trust any or all of the units in which are listed for quotation on the official list of a securities exchange, such listing being a primary listing.
+
+(4) Section 4 (other than subsection (6)) shall apply for the purpose of determining whether a person has an interest in securities under this Division; and in determining whether a person is deemed to have an interest in securities under section 4(5) for such purpose, a person shall be treated as an associate of another person if the first-mentioned person is —
+
+(a) a subsidiary of the second-mentioned person;
+
+(b) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities; or
+
+(c) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities.
+
+(5) Section 130(6) and (7) shall apply for the purposes of —
+
+(a) sections 135(2)(b), 136(1) and 137(1) as applied by section 137J(1); and
+
+(b) sections 137L(6), 137N(2)(b)(i), 137P(1) and 137R(1),
+
+as they apply for the purposes of sections 133(3)(b)(i), 135(2)(b), 136(1), 137(1) and 137E(6).
+
+[2/2009 wef 19/11/2012]
+
+### Persons obliged to comply with this Division and power of Authority to grant exemption or extension
+
+137I\.—(1) The obligation to comply with this Division extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
+
+(2) This Division extends to acts done or omitted to be done outside Singapore.
+
+(3) The Authority may exempt any person or class of persons from any or all of the provisions of this Division.
+
+(4) The Authority may by notice in writing impose on a person exempted under subsection (3), or by regulations impose on a class of persons exempted under that subsection, such conditions or restrictions as the Authority thinks fit and the person or persons shall comply with such conditions or restrictions.
+
+(5) Any person who contravenes any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) The Authority may, on the application of a person required to give a notice under this Division, in its discretion, extend, or further extend, the time for giving the notice.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (1) — Disclosure by substantial unitholders
+of business trust
+
+### Duty of substantial unitholder to notify trustee-manager of his interests
+
+137J\.—(1) Sections 135 to 137B shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of a registered business trust or recognised business trust as though —
+
+(a) references to the corporation to which notification should be given were references to the trustee-manager of the business trust;
+
+(b) references to shares or voting shares in the corporation were references to units or voting units in the business trust; and
+
+(c) references to a substantial shareholder in the corporation were references to a substantial unitholder of the business trust,
+
+and such person shall comply with those provisions accordingly.
+
+(2) Any person to whom subsection (1) applies who —
+
+(a) intentionally or recklessly contravenes section 135, 136(1) or (2), 137, 137A or 137B as applied by subsection (1); or
+
+(b) in purported compliance with section 135, 136, 137 or 137B as applied by subsection (1), furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) Any person to whom subsection (1) applies who —
+
+(a) contravenes section 135, 136(1) or (2), 137, 137A or 137B as applied by subsection (1); or
+
+(b) in purported compliance with section 135, 136, 137 or 137B as applied by subsection (1), furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(4) No proceedings shall be instituted against a person for an offence under this section after —
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+### Trustee-manager to keep register of substantial unitholders
+
+137K\.—(1) The trustee-manager of a registered business trust or recognised business trust shall keep a register in which it shall immediately enter —
+
+(a) the names of persons from whom it has received a notice under section 135 as applied by section 137J(1); and
+
+(b) against each name so entered, the information given in the notice and, where it receives a notice under section 136 or 137 as applied by section 137J(1), the information given in that notice.
+
+(2) The trustee-manager shall keep the register at its registered office or, if the trustee-manager does not have a registered office, at its principal place of business in Singapore, and the register shall be open for inspection by a unitholder of the business trust without charge and by any other person on payment for each inspection of a sum of $2 or such lesser sum as the trustee-manager requires.
+
+(3) A person may request the trustee-manager to furnish him with a copy of the register or any part of the register on payment in advance of a sum of $1 or such lesser sum as the trustee-manager requires for every page or part thereof required to be copied, and the trustee-manager shall send the copy to that person within 14 days, or such longer period as the Authority may allow in any particular case, after the day on which the trustee-manager received the request.
+
+(4) The Authority may at any time in writing require the trustee-manager to furnish it with a copy of the register or any part of the register and the trustee-manager shall send the copy to the Authority within 7 days after the day on which the trustee-manager received the requirement.
+
+(5) Any trustee-manager which fails to comply with subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 19/11/2012]
+
+### Powers of court with respect to non-compliance by substantial unitholders
+
+137L\.—(1) Where a person is or has been a substantial unitholder of a registered business trust or recognised business trust and has failed to comply with section 135, 136 or 137 as applied by section 137J(1), a court may, on the application of the Authority, whether or not that failure still continues, make one or more of the following orders:
+
+(a) an order restraining the substantial unitholder from disposing of any interest in units in the business trust of which he is or has been a substantial unitholder;
+
+(b) an order restraining a person who is, or is entitled to be, the holder of the units referred to in paragraph (a) from disposing of any interest in those units;
+
+(c) an order restraining the exercise by any person of any voting or other rights attached to any unit in the business trust in which the substantial unitholder has or has had an interest;
+
+(d) an order directing the trustee-manager of the business trust not to make payment, or to defer making payment, out of the property of the business trust of any sum due in respect of any unit in which the substantial unitholder has or has had an interest;
+
+(e) an order directing the sale of any or all of the units in the business trust in which the substantial unitholder has or has had an interest;
+
+(f) an order directing the trustee-manager of the business trust not to register or cause to be registered in the register of unitholders the transfer or transmission of units specified by the court;
+
+(g) an order directing the Depository (within the meaning of section 130A of the Companies Act (Cap. 50)) or any depository corporation not to register or cause to be registered the transfer or transmission of any units or interest in units in the business trust specified by the court;
+
+(h) an order that any exercise by any person of the voting or other rights attached to units in the business trust specified by the court in which the substantial unitholder has or has had an interest be disregarded;
+
+(i) for the purposes of securing compliance with any other order made under this section, an order directing the trustee-manager of the business trust or any other person to do or refrain from doing an act specified by the court.
+
+(2) Any order made under this section may include such ancillary or consequential provisions as the court thinks just.
+
+(3) An order made under this section directing the sale of any unit may provide that the sale shall be made within such time and subject to such conditions, if any, as the court thinks fit, including, if the court thinks fit, a condition that the sale shall not be made to a person who is, or, as a result of the sale, would become a substantial unitholder of the business trust.
+
+(4) Where a unit is not sold in accordance with an order of the court under this section, the Authority may apply to the court for directions, including directions as to who the unsold unit is to vest in.
+
+(5) The court shall, before making an order under this section and in determining the terms of such an order, satisfy itself, so far as it can reasonably do so, that the order would not unfairly prejudice any person.
+
+(6) The court shall not make an order under this section, other than an order restraining the exercise of voting rights, if it is satisfied —
+
+(a) that the failure of the substantial unitholder to comply as mentioned in subsection (1) was due to his inadvertence or mistake or to his not being aware of a relevant fact or occurrence; and
+
+(b) that in all the circumstances, the failure ought to be excused.
+
+(7) The court may, before making an order under this section, direct that notice of the application be given to such persons as it thinks fit or direct that notice of the application be published in such manner as it thinks fit, or both.
+
+(8) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
+
+(9) Any person who contravenes an order made under this section that is applicable to him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(10) Subsection (9) does not affect the powers of the court in relation to the punishment of contempt of the court.
+
+[2/2009 wef 19/11/2012]
+
+### Power of trustee-manager to require disclosure of beneficial interest in voting units
+
+137M\.—(1) The trustee-manager of a registered business trust or recognised business trust may by notice in writing require any unitholder of the business trust within such reasonable time as is specified in the notice —
+
+(a) to inform it whether he holds any voting units in the business trust as beneficial owner or as trustee; and
+
+(b) if he holds them as trustee, to indicate so far as he can the persons for whom he holds them (either by name or by other particulars sufficient to enable those persons to be identified) and the nature of their interest.
+
+(2) Where the trustee-manager of a registered business trust or recognised business trust is informed pursuant to a notice given to any person under subsection (1) or under this subsection that any other person has an interest in any of the voting units in the business trust, the trustee-manager may by notice in writing require that other person within such reasonable time as is specified in the notice —
+
+(a) to inform it whether he holds that interest as beneficial owner or as trustee; and
+
+(b) if he holds it as trustee, to indicate so far as he can the persons for whom he holds it (either by name or by other particulars sufficient to enable them to be identified) and the nature of their interest.
+
+(3) The trustee-manager of a registered business trust or recognised business trust may by notice in writing require any unitholder of the business trust to inform it, within such reasonable time as is specified in the notice, whether any of the voting rights carried by any voting units in the business trust held by him are the subject of an agreement or arrangement under which another person is entitled to control his exercise of those rights and, if so, to give particulars of the agreement or arrangement and the parties to it.
+
+(4) The notice referred to in subsection (1), (2) or (3) shall contain such other information as may be prescribed by the Authority, and the delivery of such notice shall comply with such requirements as may be prescribed by the Authority.
+
+(5) Any person to whom a notice is issued under subsection (1), (2) or (3) shall comply with that notice.
+
+(6) Whenever the trustee-manager of a registered business trust or recognised business trust receives information from a person pursuant to a requirement imposed on him under this section with respect to units held by a unitholder of the business trust, it shall be under an obligation to inscribe against the name of that unitholder in a separate part of the register kept by it under section 137K —
+
+(a) the fact that the requirement was imposed and the date on which it was imposed; and
+
+(b) the information received pursuant to the requirement.
+
+(7) Section 137K shall apply in relation to the part of the register referred to in subsection (6) as it applies in relation to the remainder of the register and as if references to subsection (1) of that section included references to subsection (6).
+
+(8) Any person who —
+
+(a) intentionally or recklessly contravenes subsection (5); or
+
+(b) in purported compliance with subsection (5), furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Any person who —
+
+(a) contravenes subsection (5); or
+
+(b) in purported compliance with subsection (5), furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(10) A person shall not be guilty of an offence under subsection (8)(a) or (9)(a) if he proves that the information in question was already in the possession of the trustee-manager of the registered business trust or recognised business trust, or that the requirement to give it was for any other reason frivolous or vexatious.
+
+(11) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (2) — Disclosure by directors and chief executive
+officer of trustee-manager of business trust
+
+### Duty of director and chief executive officer of trustee-manager to notify his interests
+
+137N\.—(1) Every director and chief executive officer of the trustee-manager of a registered business trust or recognised business trust shall give notice in writing to the trustee-manager of particulars of —
+
+(a) units or derivatives of units in the business trust, being units or derivatives of units held by him, or in which he has an interest and the nature and extent of that interest;
+
+(b) debentures or units of debentures of the business trust which are held by him, or in which he has an interest and the nature and extent of that interest;
+
+(c) such other securities as the Authority may prescribe which are held, whether directly or indirectly, by him, or in which he has an interest and the nature and extent of that interest; and
+
+(d) any change in respect of the particulars of any matter referred to in paragraphs (a), (b) and (c).
+
+(2) A notice under subsection (1) —
+
+(a) shall be in such form and shall contain such information as the Authority may prescribe; and
+
+(b) shall be given —
+
+(i) in the case of a notice under subsection (1)(d), within 2 business days after the director or chief executive officer becomes aware of the change; or
+
+(ii) in any other case, within 2 business days after —
+
+(A) the date on which the director or chief executive officer becomes such a director or chief executive officer; or
+
+(B) the date on which the director or chief executive officer becomes a holder of, or acquires an interest in, the units, derivatives of units, debentures, units of debentures or other securities referred to in subsection (1),
+
+whichever last occurs.
+
+(3) For the purposes of this section, a director or chief executive officer of a trustee-manager shall be deemed to have an interest in securities referred to in subsection (1) if a family member of the director or chief executive officer (not being himself a director or chief executive officer of the trustee-manager), as the case may be, has an interest in those securities.
+
+(4) In this section —
+
+“family member” means a spouse, or a son, adopted son, step-son, daughter, adopted daughter or step-daughter below the age of 21 years;
+
+“unit”, in relation to a debenture, means any right or interest, whether legal or equitable, in the debenture, by whatever name called, and includes any option to acquire any such right or interest in the debenture.
+
+[2/2009 wef 19/11/2012]
+
+### Penalties under this Subdivision
+
+137O\.—(1) Any director or chief executive officer of the trustee-manager of a registered business trust or recognised business trust who —
+
+(a) intentionally or recklessly contravenes section 137N(1) or (2); or
+
+(b) in purported compliance with section 137N, furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any director or chief executive officer of the trustee-manager of a registered business trust or recognised business trust who —
+
+(a) contravenes section 137N(1) or (2); or
+
+(b) in purported compliance with section 137N, furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(3) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (3) — Disclosure by holders of voting shares in
+trustee-manager
+
+### Duty of holders of voting shares in trustee-manager to notify trustee-manager
+
+137P\.—(1) Where the percentage of interest of a person in the voting shares in a trustee-manager of a registered business trust or recognised business trust reaches, crosses or falls below 15%, 30%, 50% or 75%, he shall give notice in writing to the trustee-manager within 2 business days after he becomes aware of this.
+
+(2) A notice under subsection (1) shall be in such form and shall contain such information as the Authority may prescribe.
+
+(3) In subsection (1), the percentage of interest of a person in the voting shares in a trustee-manager of a registered business trust or recognised business trust is ascertained by expressing the total votes attached to all the voting shares in which he has an interest or interests immediately before or (as the case may be) immediately after the relevant time, as a percentage of the total votes attached to —
+
+(a) all the voting shares (excluding treasury shares) in the trustee-manager; or
+
+(b) where the share capital of the trustee-manager is divided into 2 or more classes of shares, all the voting shares (excluding treasury shares) in the class concerned,
+
+and, if it is not a whole number, rounding that figure down to the next whole number.
+
+[2/2009 wef 19/11/2012]
+
+### Penalties under this Subdivision
+
+137Q\.—(1) Any person who —
+
+(a) intentionally or recklessly contravenes section 137P(1) or (2); or
+
+(b) in purported compliance with section 137P, furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any person who —
+
+(a) contravenes section 137P(1) or (2); or
+
+(b) in purported compliance with section 137P, furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(3) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (4) — Disclosure by trustee-manager
+
+### Duty of trustee-manager of business trust to make disclosure
+
+137R\.—(1) Where the trustee-manager of a registered business trust or recognised business trust —
+
+(a) acquires or disposes of interests in units or derivatives of units in, or debentures or units of debentures of, the business trust; or
+
+(b) has been notified in writing by —
+
+(i) a substantial unitholder of the business trust pursuant to a requirement imposed on him under section 135, 136 or 137 as applied by section 137J(1);
+
+(ii) a director or chief executive officer of the trustee-manager pursuant to a requirement imposed on him under section 137N; or
+
+(iii) a person who holds an interest or interests in voting shares in the trustee-manager pursuant to a requirement imposed on him under section 137P,
+
+the trustee-manager shall announce or otherwise disseminate the particulars of the acquisition or disposal, or the information stated in the notice it received, as the case may be, to the securities market operated by the securities exchange on whose official list any or all of the units in the business trust are listed, as soon as practicable and in any case no later than the end of the business day following the day on which the trustee-manager became aware of the acquisition or disposal, or received the notice.
+
+(2) The trustee-manager shall announce or otherwise disseminate the information in such form and manner as the Authority may prescribe.
+
+(3) Any trustee-manager of a registered business trust or recognised business trust that —
+
+(a) intentionally or recklessly contravenes subsection (1) or (2); or
+
+(b) in purported compliance with this section, announces or disseminates any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) Any trustee-manager of a registered business trust or recognised business trust that —
+
+(a) contravenes subsection (1) or (2); or
+
+(b) in purported compliance with this section, announces or disseminates any information that is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(5) Where an offence has been committed by a trustee-manager under subsection (3) or (4), any officer of the trustee-manager who —
+
+(a) causes the trustee-manager to contravene subsection (1);
+
+(b) announces or disseminates, or permits or authorises the announcement or dissemination of, the information that is false or misleading in a material particular; or
+
+(c) announces or disseminates, or permits or authorises the announcement or dissemination of the information in contravention of subsection (2),
+
+shall —
+
+(i) if he had acted intentionally or recklessly, or with knowledge that the information so announced or disseminated is false or misleading in a material particular or is reckless as to whether it is, be guilty of an offence and be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both; or
+
+(ii) if he had acted negligently, be guilty of an offence and be liable on conviction to a fine not exceeding $25,000.
+
+(6) In this section, “officer” means a director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the trustee-manager, and includes a person purporting to act in any such capacity.
+
+(7) No proceedings shall be instituted against a person for an offence under this section after —
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
 
 Division 3 —
 
-Disclosure by Substantial Unitholders
+Disclosure of Interests in Real Estate Investment
 
-### Duty of substantial unitholders to notify securities exchange
 
-137A\.—(1) In the case of a collective investment scheme that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes all or any of which units are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 79, 81, 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder as though —
 
-(a) references to the company to which notification should be given were references to the securities exchange;
 
-(b) references to shares in the company were references to units in the scheme;
+Trust and Interests in Shares of Responsible Person
 
-(c) references to substantial shareholding were references to substantial unitholding; and
+### Application and interpretation of this Division
 
-(d) references to a substantial shareholder were references to a substantial unitholder,
+137S\.—(1) This section shall have effect for the purposes of this Division but shall not prejudice the operation of any other provision of this Act.
+
+(2) In this Division —
+
+“real estate investment trust” means a collective investment scheme that is a trust, that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes, and any or all the units in which are listed, by way of a primary listing, for quotation on the official list of a securities exchange;
+
+“trustee” means —
+
+(a) in relation to a real estate investment trust authorised under section 286, the trustee approved under section 289 for the trust; and
+
+(b) in relation to any other real estate investment trust, an entity equivalent to a trustee referred to in paragraph (a).
+
+(3) Section 4 (other than subsection (6)) shall apply for the purpose of determining whether a person has an interest in securities under this Division; and in determining whether a person is deemed to have an interest in securities under section 4(5) for such purpose, a person shall be treated as an associate of another person if the first-mentioned person is —
+
+(a) a subsidiary of the second-mentioned person;
+
+(b) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities; or
+
+(c) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities.
+
+(4) Section 130(6) and (7) shall apply for the purposes of —
+
+(a) sections 135(2)(b), 136(1) and 137(1) as applied by section 137U(1); and
+
+(b) sections 137W(6), 137Y(2)(b)(i), 137ZA(1) and 137ZC(1),
+
+as they apply for the purposes of sections 133(3)(b)(i), 135(2)(b), 136(1), 137(1) and 137E(6).
+
+[2/2009 wef 19/11/2012]
+
+### Persons obliged to comply with Division and power of Authority to grant exemption or extension
+
+137T\.—(1) The obligation to comply with this Division extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
+
+(2) This Division extends to acts done or omitted to be done outside Singapore.
+
+(3) The Authority may exempt any person or class of persons from any or all of the provisions of this Division.
+
+(4) The Authority may by notice in writing impose on a person exempted under subsection (3), or by regulations impose on a class of persons exempted under that subsection, such conditions or restrictions as the Authority thinks fit and the person or persons shall comply with such conditions or restrictions.
+
+(5) Any person who contravenes any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) The Authority may, on the application of a person required to give a notice under this Division, in its discretion, extend, or further extend, the time for giving the notice.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (1) — Disclosure by substantial unitholders of real
+estate investment trust
+
+### Duty of substantial unitholder to notify trustee and responsible person of his interests
+
+137U\.—(1) Sections 135 to 137B shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of a real estate investment trust as though —
+
+(a) references to the corporation to which notification should be given were references to —
+
+(i) the trustee of the real estate investment trust; and
+
+(ii) the responsible person for the real estate investment trust;
+
+(b) references to shares or voting shares in the corporation were references to units or voting units in the real estate investment trust; and
+
+(c) references to a substantial shareholder in the corporation were references to a substantial unitholder of the real estate investment trust,
 
 and such person shall comply with those provisions accordingly.
 
-[1/2005]
+(2) Any person to whom subsection (1) applies who —
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
+(a) intentionally or recklessly contravenes section 135, 136(1) or (2), 137, 137A or 137B as applied by subsection (1); or
 
-[1/2005]
+(b) in purported compliance with section 135, 136, 137 or 137B as applied by subsection (1), furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
 
-### Duty of substantial unitholders to notify trustee of collective investment scheme
+shall be guilty of an offence and shall —
 
-137B\.—(1) In the case of a collective investment scheme that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes all or any of which units are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (other than sections 79 and 81) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder as though —
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
 
-(a) references to the company to which notification should be given were references to the trustee of the scheme;
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-(b) references to shares in the company were references to units in the scheme;
+(3) Any person to whom subsection (1) applies who —
 
-(c) references to substantial shareholding were references to substantial unitholding;
+(a) contravenes section 135, 136(1) or (2), 137, 137A or 137B as applied by subsection (1); or
 
-(d) references to a substantial shareholder were references to a substantial unitholder; and
+(b) in purported compliance with section 135, 136, 137 or 137B as applied by subsection (1), furnishes any information which is false or misleading in a material particular,
 
-(e) references to the Registrar were references to the Authority,
+in circumstances other than as set out in subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
-and such person shall comply with those provisions accordingly.
+(4) No proceedings shall be instituted against a person for an offence under this section after ––
 
-[1/2005]
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
 
-(2) If a person to whom subsection (1) applies fails to comply with any of the provisions of Division 4 of Part IV of the Companies Act (other than sections 79 and 81), he shall be guilty of an offence and shall be liable on conviction to the same penalties as are prescribed under that Act for a failure to comply with such provision.
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
 
-[1/2005]
+[2/2009 wef 19/11/2012]
+
+### Trustee to keep register of substantial unitholders
+
+137V\.—(1) The trustee of a real estate investment trust shall keep a register in which it shall immediately enter —
+
+(a) the names of persons from whom it has received a notice under section 135 as applied by section 137U(1); and
+
+(b) against each name so entered, the information given in the notice and, where it receives a notice under section 136 or 137 as applied by section 137U(1), the information given in that notice.
+
+(2) The trustee shall keep the register at its registered office or, if the trustee does not have a registered office, at its principal place of business in Singapore, and the register shall be open for inspection by a unitholder of the real estate investment trust without charge and by any other person on payment for each inspection of a sum of $2 or such lesser sum as the trustee requires.
+
+(3) A person may request the trustee to furnish him with a copy of the register or any part of the register on payment in advance of a sum of $1 or such lesser sum as the trustee requires for every page or part thereof required to be copied, and the trustee shall send the copy to that person within 14 days, or such longer period as the Authority may allow in any particular case, after the day on which the trustee received the request.
+
+(4) The Authority may at any time in writing require the trustee to furnish it with a copy of the register or any part of the register and the trustee shall send the copy to the Authority within 7 days after the day on which the trustee received the requirement.
+
+(5) Any trustee which fails to comply with subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 19/11/2012]
+
+### Powers of court with respect to non-compliance by substantial unitholders
+
+137W\.—(1) Where a person is or has been a substantial unitholder of a real estate investment trust and has failed to comply with section 135, 136 or 137 as applied by section 137U(1), a court may, on the application of the Authority, whether or not that failure still continues, make one or more of the following orders:
+
+(a) an order restraining the substantial unitholder from disposing of any interest in units in the real estate investment trust of which he is or has been a substantial unitholder;
+
+(b) an order restraining a person who is, or is entitled to be, the holder of units referred to in paragraph (a) from disposing of any interest in those units;
+
+(c) an order restraining the exercise by any person of any voting or other rights attached to any unit in the real estate investment trust in which the substantial unitholder has or has had an interest;
+
+(d) an order directing the trustee of the real estate investment trust not to make payment, or to defer making payment, out of the property of the trust of any sum due in respect of any unit in which the substantial unitholder has or has had an interest;
+
+(e) an order directing the sale of any or all of the units in the real estate investment trust in which the substantial unitholder has or has had an interest;
+
+(f) an order directing the trustee of the real estate investment trust not to register or cause to be registered in the register of unitholders the transfer or transmission of units specified by the court;
+
+(g) an order directing the Depository (within the meaning of section 130A of the Companies Act (Cap. 50)) or any depository corporation not to register or cause to be registered the transfer or transmission of any units or interest in units in the real estate investment trust specified by the court;
+
+(h) an order that any exercise by any person of the voting or other rights attached to units in the real estate investment trust specified by the court in which the substantial unitholder has or has had an interest be disregarded;
+
+(i) for the purposes of securing compliance with any other order made under this section, an order directing the responsible person for or the trustee of the real estate investment trust, or any other person, to do or refrain from doing an act specified by the court.
+
+(2) Any order made under this section may include such ancillary or consequential provisions as the court thinks just.
+
+(3) An order made under this section directing the sale of any unit may provide that the sale shall be made within such time and subject to such conditions, if any, as the court thinks fit, including, if the court thinks fit, a condition that the sale shall not be made to a person who is, or, as a result of the sale, would become a substantial unitholder of the real estate investment trust.
+
+(4) Where a unit is not sold in accordance with an order of the court under this section, the Authority may apply to the court for directions, including directions as to who the unsold unit is to vest in.
+
+(5) The court shall, before making an order under this section and in determining the terms of such an order, satisfy itself, so far as it can reasonably do so, that the order would not unfairly prejudice any person.
+
+(6) The court shall not make an order under this section, other than an order restraining the exercise of voting rights, if it is satisfied —
+
+(a) that the failure of the substantial unitholder to comply as mentioned in subsection (1) was due to his inadvertence or mistake or to his not being aware of a relevant fact or occurrence; and
+
+(b) that in all the circumstances, the failure ought to be excused.
+
+(7) The court may, before making an order under this section, direct that notice of the application be given to such persons as it thinks fit or direct that notice of the application be published in such manner as it thinks fit, or both.
+
+(8) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
+
+(9) Any person who contravenes an order made under this section that is applicable to him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(10) Subsection (9) does not affect the powers of the court in relation to the punishment of contempt of the court.
+
+[2/2009 wef 19/11/2012]
+
+### Power of trustee to require disclosure of beneficial interest in voting units
+
+137X\.—(1) The trustee of a real estate investment trust may by notice in writing require any unitholder of the trust within such reasonable time as is specified in the notice —
+
+(a) to inform it whether he holds any voting units in the trust as beneficial owner or as trustee; and
+
+(b) if he holds them as trustee, to indicate so far as he can the persons for whom he holds them (either by name or by other particulars sufficient to enable those persons to be identified) and the nature of their interest.
+
+(2) Where the trustee of a real estate investment trust is informed pursuant to a notice given to any person under subsection (1) or under this subsection that any other person has an interest in any of the voting units in the trust, the trustee may by notice in writing require that other person within such reasonable time as is specified in the notice —
+
+(a) to inform it whether he holds that interest as beneficial owner or as trustee; and
+
+(b) if he holds it as trustee, to indicate so far as he can the persons for whom he holds it (either by name or by other particulars sufficient to enable them to be identified) and the nature of their interest.
+
+(3) The trustee of a real estate investment trust may by notice in writing require any unitholder of the trust to inform it, within such reasonable time as is specified in the notice, whether any of the voting rights carried by any voting units in the trust held by him are the subject of an agreement or arrangement under which another person is entitled to control his exercise of those rights and, if so, to give particulars of the agreement or arrangement and the parties to it.
+
+(4) The notice referred to in subsection (1), (2) or (3) shall contain such other information as may be prescribed by the Authority, and the delivery of such notice shall comply with such requirements as may be prescribed by the Authority.
+
+(5) Any person to whom a notice is issued under subsection (1), (2) or (3) shall comply with that notice.
+
+(6) Whenever the trustee of a real estate investment trust receives information from a person pursuant to a requirement imposed on him under this section with respect to units held by a unitholder of the trust, it shall be under an obligation to inscribe against the name of that unitholder in a separate part of the register kept by it under section 137V —
+
+(a) the fact that the requirement was imposed and the date on which it was imposed; and
+
+(b) the information received pursuant to the requirement.
+
+(7) Section 137V shall apply in relation to the part of the register referred to in subsection (6) as it applies in relation to the remainder of the register and as if references to subsection (1) of that section included references to subsection (6).
+
+(8) Any person who —
+
+(a) intentionally or recklessly contravenes subsection (5); or
+
+(b) in purported compliance with subsection (5), furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Any person who —
+
+(a) contravenes subsection (5); or
+
+(b) in purported compliance with subsection (5), furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(10) A person shall not be guilty of an offence under subsection (8)(a) or (9)(a) if he proves that the information in question was already in the possession of the trustee of the real estate investment trust, or that the requirement to give it was for any other reason frivolous or vexatious.
+
+(11) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (2) — Disclosure by directors and chief executive
+officer of responsible person
+
+### Duty of director and chief executive officer of responsible person to notify his interests
+
+137Y\.—(1) Every director and chief executive officer of the responsible person for a real estate investment trust shall give notice in writing to the responsible person of particulars of —
+
+(a) units in the trust, being units held by him, or in which he has an interest and the nature and extent of that interest;
+
+(b) debentures or units of debentures of the trust which are held by him, or in which he has an interest and the nature and extent of that interest;
+
+(c) such other securities, as the Authority may prescribe, which are held, whether directly or indirectly, by him, or in which he has an interest and the nature and extent of that interest; and
+
+(d) any change in respect of the particulars of any matter referred to in paragraphs (a), (b) and (c).
+
+(2) A notice under subsection (1) —
+
+(a) shall be in such form and shall contain such information as the Authority may prescribe; and
+
+(b) shall be given —
+
+(i) in the case of a notice under subsection (1)(d), within 2 business days after the director or chief executive officer becomes aware of the change; or
+
+(ii) in any other case, within 2 business days after —
+
+(A) the date on which the director or chief executive officer becomes such a director or chief executive officer; or
+
+(B) the date on which the director or chief executive officer becomes a holder of, or acquires an interest in, the units, debentures, units of debentures or other securities referred to in subsection (1),
+
+whichever last occurs.
+
+(3) For the purposes of this section, a director or chief executive officer of a responsible person shall be deemed to have an interest in securities referred to in subsection (1) if a family member of the director or chief executive officer (not being himself a director or chief executive officer of the responsible person), as the case may be, has an interest in those securities.
+
+(4) In this section —
+
+“family member” means a spouse, or a son, adopted son, step-son, daughter, adopted daughter or step-daughter below the age of 21 years;
+
+“unit”, in relation to a debenture, means any right or interest, whether legal or equitable, in the debenture, by whatever name called, and includes any option to acquire any such right or interest in the debenture.
+
+[2/2009 wef 19/11/2012]
+
+### Penalties under this Subdivision
+
+137Z\.—(1) Any director or chief executive officer of the responsible person for a real estate investment trust who —
+
+(a) intentionally or recklessly contravenes section 137Y(1) or (2); or
+
+(b) in purported compliance with section 137Y, furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any director or chief executive officer of the responsible person for a real estate investment trust who —
+
+(a) contravenes section 137Y(1) or (2); or
+
+(b) in purported compliance with section 137Y, furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(3) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (3) — Disclosure by holders of voting shares in
+responsible person
+
+### Duty of holders of voting shares in responsible person to notify responsible person
+
+137ZA\.—(1) Where the percentage of interest of a person in the voting shares in a responsible person for a real estate investment trust reaches, crosses or falls below 15%, 30%, 50% or 75%, he shall give notice in writing to the responsible person within 2 business days after he becomes aware of this.
+
+(2) A notice under subsection (1) shall be in such form and shall contain such information as the Authority may prescribe.
+
+(3) In subsection (1), the percentage of interest of a person in the voting shares in a responsible person for a real estate investment trust is ascertained by expressing the total votes attached to all the voting shares in which he has an interest or interests immediately before or (as the case may be) immediately after the relevant time, as a percentage of the total votes attached to —
+
+(a) all the voting shares (excluding treasury shares) in the responsible person; or
+
+(b) where the share capital of the responsible person is divided into 2 or more classes of shares, all the voting shares (excluding treasury shares) in the class concerned,
+
+and, if it is not a whole number, rounding that figure down to the next whole number.
+
+[2/2009 wef 19/11/2012]
+
+### Penalties under this Subdivision
+
+137ZB\.—(1) Any person who —
+
+(a) intentionally or recklessly contravenes section 137ZA(1) or (2); or
+
+(b) in purported compliance with section 137ZA, furnishes any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall —
+
+(i) in the case of an individual, be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in the case of a corporation, be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Any person who —
+
+(a) contravenes section 137ZA(1) or (2); or
+
+(b) in purported compliance with section 137ZA, furnishes any information which is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(3) No proceedings shall be instituted against a person for an offence under this section after ––
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Subdivision (4) — Disclosure by responsible person
+
+### Duty of responsible person for real estate investment trust to make disclosure
+
+137ZC\.—(1) Where the responsible person for a real estate investment trust —
+
+(a) acquires or disposes of interests in units in, or debentures or units of debentures of, the real estate investment trust; or
+
+(b) has been notified in writing by —
+
+(i) a substantial unitholder of the real estate investment trust pursuant to a requirement imposed on him under section 135, 136 or 137 as applied by section 137U(1);
+
+(ii) a director or chief executive officer of the responsible person pursuant to a requirement imposed on him under section 137Y; or
+
+(iii) a person who holds an interest or interests in voting shares in the responsible person pursuant to a requirement imposed on him under section 137ZA,
+
+the responsible person shall announce or otherwise disseminate the particulars of the acquisition or disposal, or the information stated in the notice it received, as the case may be, to the securities market operated by the securities exchange on whose official list any or all of the units in the trust are listed, as soon as practicable and in any case no later than the end of the business day following the day on which the responsible person became aware of the acquisition or disposal, or received the notice.
+
+(2) The responsible person shall announce or otherwise disseminate the information in such form and manner as the Authority may prescribe.
+
+(3) Any responsible person for a real estate investment trust that —
+
+(a) intentionally or recklessly contravenes subsection (1) or (2); or
+
+(b) in purported compliance with this section, announces or disseminates any information which he knows is false or misleading in a material particular or is reckless as to whether it is,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) Any responsible person for a real estate investment trust that —
+
+(a) contravenes subsection (1) or (2); or
+
+(b) in purported compliance with this section, announces or disseminates any information that is false or misleading in a material particular,
+
+in circumstances other than as set out in subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(5) Where an offence has been committed by a responsible person under subsection (3) or (4), any officer of the responsible person who —
+
+(a) causes the responsible person to contravene subsection (1);
+
+(b) announces or disseminates, or permits or authorises the announcement or dissemination of, the information that is false or misleading in a material particular; or
+
+(c) announces or disseminates, or permits or authorises the announcement or dissemination of the information in contravention of subsection (2),
+
+shall —
+
+(i) if he had acted intentionally or recklessly, or with knowledge that the information so announced or disseminated is false or misleading in a material particular or is reckless as to whether it is, be guilty of an offence and be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 2 years or to both; or
+
+(ii) if he had acted negligently, be guilty of an offence and be liable on conviction to a fine not exceeding $25,000.
+
+(6) In this section, “officer” means a director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the responsible person, and includes a person purporting to act in any such capacity.
+
+(7) No proceedings shall be instituted against a person for an offence under this section after —
+
+(a) a court has made an order against him for the payment of a civil penalty under section 137ZD in respect of the same contravention; or
+
+(b) he has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 137ZD(4), in respect of the same contravention.
+
+[2/2009 wef 19/11/2012]
+
+Division 4 —
+
+Civil Penalty
+
+### Civil penalty
+
+137ZD\.—(1) Whenever it appears to the Authority that any person has —
+
+(a) intentionally or recklessly, contravened any of the following provisions:
+
+(i) section 133(1) or (3), 135, 136(1) or (2), 137, 137A, 137B, 137F(5), 137G(1) or (2), 137M(5), 137N(1) or (2), 137P(1) or (2), 137R(1) or (2), 137X(5), 137Y(1) or (2), 137ZA(1) or (2) or 137ZC(1) or (2);
+
+(ii) section 135, 136, 137, 137A or 137B as applied by section 137J(1);
+
+(iii) section 135, 136, 137, 137A or 137B as applied by section 137U(1);
+
+(b) in purported compliance with any of the following provisions, furnished, announced or disseminated any information which he knows is false or misleading in a material particular or is reckless as to whether it is:
+
+(i) section 133, 135, 136, 137, 137B, 137F(5), 137G, 137M(5), 137N, 137P, 137R, 137X(5), 137Y, 137ZA or 137ZC;
+
+(ii) section 135, 136, 137 or 137B as applied by section 137J(1);
+
+(iii) section 135, 136, 137 or 137B as applied by section 137U(1); or
+
+(c) being an officer of a corporation to which Division 1 applies, an officer of a trustee-manager of a registered or recognised business trust to which Division 2 applies, or an officer of a responsible person for a real estate investment trust to which Division 3 applies, intentionally or recklessly committed an act referred to in subsection (5)(a), (b) or (c) of section 137G, 137R or 137ZC (as the case may be),
+
+the Authority may, with the consent of the Public Prosecutor, bring an action in a court against the person to seek an order for a civil penalty in respect of that act.
+
+(2) If the court is satisfied on a balance of probabilities that subsection (1)(a), (b) or (c) (as the case may be) has been proved, the court may make an order against the person for the payment of a civil penalty of a sum not less than $50,000 and not more than $2 million.
+
+(3) Notwithstanding subsection (2), the court may make an order against a person against whom an action has been brought under this section if the Authority, with the consent of the Public Prosecutor, has agreed to allow the person to consent to the order with or without admission of having committed an act referred to in subsection (1)(a), (b) or (c) (whichever is applicable), and the order may be made on such terms as may be agreed between the Authority and the person.
+
+(4) Nothing in this section shall be construed to prevent the Authority from entering into an agreement with the person to pay, with or without admission of liability, a civil penalty within the limits referred to in subsection (2) for an act referred to in subsection (1)(a), (b) or (c).
+
+(5) A civil penalty imposed under this section shall be payable to the Authority.
+
+(6) If the person fails to pay the civil penalty imposed on him within the time specified in the court order referred to in subsection (3) or specified under the agreement referred to in subsection (4), the Authority may recover the civil penalty as though the civil penalty were a judgment debt due to the Authority.
+
+(7) Any defence that is available to a person who is prosecuted for an act under subsection (1)(a), (b) or (c), shall also be available to a person against whom an action is brought under this section for the same act.
+
+[2/2009 wef 19/11/2012]
+
+### Action under section 137ZD not to commence, etc., in certain situations
+
+137ZE\.—(1) An action under section 137ZD for an act referred to in subsection (1)(a), (b) or (c) of that section shall not be commenced against any person —
+
+(a) after the expiration of 6 years from the date of the act; or
+
+(b) if the person has been convicted or acquitted in criminal proceedings instituted against him for that act, except where he has been acquitted because of the withdrawal of the charge against him.
+
+(2) An action under section 137ZD against any person for an act referred to in subsection (1)(a), (b) or (c) of that section shall be stayed after criminal proceedings have been commenced against him for that act, and may thereafter be continued only if —
+
+(a) that person has been discharged in respect of that act and the discharge does not amount to an acquittal; or
+
+(b) the charge against him in respect of that act has been withdrawn.
+
+[2/2009 wef 19/11/2012]
+
+### Jurisdiction of District Court
+
+137ZF\. A District Court shall have jurisdiction to hear and determine any action under section 137ZD regardless of the monetary amount.
+
+[2/2009 wef 19/11/2012]
+
+### Rules of Court
+
+137ZG\. Rules of Court (Cap. 322, R 5) may be made —
+
+(a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under section 137ZD; and
+
+(b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
+
+[2/2009 wef 19/11/2012]
 
 ## PART VIII
 
-SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS
+SECURITIES INDUSTRY COUNCIL
+
+
+
+
+AND TAKE-OVER OFFERS
 
 ### Securities Industry Council
 
@@ -7676,7 +9028,7 @@ SUPERVISION AND INVESTIGATION
 
 Division 1 —
 
-Supervisory Powers of Authority
+Supervisory Powers
 
 Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 
@@ -7964,7 +9316,17 @@ except a foreign regulatory authority with the prior written approval of the Aut
 
 Division 2 —
 
-Power of Minister to Appoint Inspector for Investigating Dealings in Securities, etc.
+Power of Minister to Appoint
+
+
+
+
+Inspector for Investigating Dealings
+
+
+
+
+in Securities, etc.
 
 ### Power of Minister to appoint inspectors
 
@@ -7975,6 +9337,10 @@ Power of Minister to Appoint Inspector for Investigating Dealings in Securities,
 (3) Any inspector appointed under subsection (1) shall report the results of his investigation to the Minister and the Minister may, if he thinks it in the public interest to do so, cause the report to be printed and published.
 
 [SIA, s. 112]
+
+Division 3 —
+
+Investigative Powers of Authority
 
 Subdivision (1) — General
 
@@ -8055,6 +9421,8 @@ Subdivision (1) — General
 (4) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
 [SIA, s. 96D (6) modified; HK SF Bill, Clause 180]
+
+Subdivision (2) — Examination of persons
 
 ### Requirement to appear for examination
 
@@ -8328,7 +9696,12 @@ for the purposes of any investigation into or criminal proceedings against a per
 
 ## PART X
 
-ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
+ASSISTANCE TO
+
+
+
+
+FOREIGN REGULATORY AUTHORITIES
 
 ### Interpretation of this Part
 
@@ -9110,7 +10483,17 @@ in respect of that contravention.
 
 Division 2 —
 
-Prohibited Conduct — Futures Contracts, Leveraged Foreign Exchange Trading
+Prohibited Conduct —
+
+
+
+
+Futures Contracts, Leveraged
+
+
+
+
+Foreign Exchange Trading
 
 ### Application of this Division
 
@@ -10648,6 +12031,8 @@ then this Division shall not apply to that offer.
 
 239B\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of securities as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
 
+Subdivision (2) — Prospectus requirements
+
 ### Requirement for prospectus and profile statement, where relevant
 
 240\.—(1) No person shall make an offer of securities unless the offer —
@@ -10742,7 +12127,7 @@ then this Division shall not apply to that offer.
 
 [1/2005]
 
-(6) [Act 1/2005]
+(6) [Deleted Act 1/2005]
 
 (7) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -11026,7 +12411,7 @@ and that is materially adverse from the point of view of an investor, the person
 
 [16/2003; 1/2005]
 
-(6A) [Act 1/2005]
+(6A) [Deleted by Act 1/2005]
 
 (6B) For the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
 
@@ -11354,13 +12739,13 @@ is or will be required to issue or deliver the relevant securities, or to meet f
 
 [Companies, s. 45; Aust. Corporations 2001, s. 710]
 
-244\. [Act 16/2003]
+244\. [Repealed by Act 16/2003]
 
 ### Retention of over-subscriptions and statement of asset-backing in debenture issues
 
 245\.—(1) An entity shall not accept or retain subscriptions to a debenture issue in excess of the amount of the issue as disclosed in the prospectus unless the entity has specified in the prospectus —
 
-(a) that it expressly reserves the right to accept or retain over-subscriptions; and
+(a) that it expressly reserves the right to accept or retain over- subscriptions; and
 
 (b) a limit expressed as a specific sum of money on the amount of over-subscriptions that may be accepted or retained, being an amount not more than 25% in excess of the amount of the issue as disclosed in the prospectus.
 
@@ -11436,7 +12821,7 @@ is or will be required to issue or deliver the relevant securities, or to meet f
 
 [16/2003]
 
-(4) [Act 16/2003]
+(4) [Deleted by Act 16/2003]
 
 (5) Any person who contravenes any of the conditions or restrictions imposed under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -11682,15 +13067,9 @@ regard shall be had to whether the statement —
 
 (iv) a person acting at the instigation of, or by arrangement with, any person referred to in sub-paragraph (i), (ii) or (iii);
 
-(g) is a report about the securities which are the subject of the offer or intended offer, published and delivered to any institutional investor not later than 14 days prior to the date of lodgment of the prospectus, provided that —
+(g) is a disclosure, notice, report or publication of a description prescribed by the Authority, and such other conditions as the Authority may prescribe are satisfied; or
 
-(i) the offer is also made or will also be made in one or more other countries;
-
-(ii) the publication and delivery of such report in that other country or any one of those other countries do not infringe any law, code or other requirement of that country;
-
-(iii) the report and the manner of its publication and delivery in Singapore comply with such other requirements as may be prescribed by the Authority; and
-
-(iv) the person issuing the report complies with such requirements as may be prescribed by the Authority; or
+[2/2009 wef 01/10/2012]
 
 (h) is a publication made by the person making the offer, the issuer or the underlying entity solely to correct or provide clarification on any erroneous or inaccurate information or comment contained in —
 
@@ -12000,7 +13379,7 @@ is not liable under section 253(1) or 254(1) only because of a false or misleadi
 
 [Companies, s. 55B; Aust. Corporations 2001, s. 731, s. 732 and s. 733]
 
-256\. [Act 1/2005]
+256\. [Repealed by Act 1/2005]
 
 ### Document containing offer of securities for sale deemed prospectus
 
@@ -12228,7 +13607,7 @@ and the prescribed entity shall comply with every such condition or restriction 
 
 [1/2005]
 
-(2) [Act 1/2005]
+(2) [Deleted by Act 1/2005]
 
 (3) In this Subdivision, a corporation is related to another corporation if it is deemed to be related to that other corporation by virtue of section 6 of the Companies Act (Cap. 50).
 
@@ -12264,9 +13643,9 @@ and the prescribed entity shall comply with every such condition or restriction 
 
 [1/2005]
 
-263\. [Act 16/2003]
+263\. [Repealed by Act 16/2003]
 
-264\. [Act 16/2003]
+264\. [Repealed by Act 16/2003]
 
 ### Power of court in relation to certain irredeemable debentures
 
@@ -12290,7 +13669,7 @@ and the prescribed entity shall comply with every such condition or restriction 
 
 266\. 
 
-—(1) [Act 16/2003]
+—(1) [Deleted by Act 16/2003]
 
 (2) Where, after due inquiry, the trustee for the holders of debentures at any time is of the opinion that the assets of the borrowing entity and of any of its guarantor entities which are or should be available whether by way of security or otherwise, are insufficient, or likely to become insufficient, to discharge the principal debt as and when it becomes due, the trustee may apply to the Authority for an order under this subsection.
 
@@ -12946,7 +14325,7 @@ that is made to existing members or debenture holders of that entity (whether or
 
 [1/2005]
 
-(3) [Act 1/2005]
+(3) [Deleted by Act 1/2005]
 
 (4) For the purposes of subsection (1)(f), a person is a qualifying person in relation to an entity if he is a bona fide director or equivalent person, former director or equivalent person, consultant, adviser, employee or former employee of the entity or a related corporation of that entity (being a corporation), or if he is the spouse, widow, widower or a child, adopted child or step-child below the age of 18, of such director or equivalent person, former director or equivalent person, employee or former employee.
 
@@ -13192,13 +14571,15 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 [1/2005]
 
+[Companies, s. 106E]
+
 (7) Subsections (1), (3) and (4) shall not apply where the securities of the corporation acquired are of the same class as other securities of the corporation —
 
 (a) an offer of which has previously been made in or accompanied by a prospectus; and
 
 (b) which are listed for quotation on a securities exchange.
 
-[Companies, s. 106E]
+[2/2009 wef 29/07/2009]
 
 ### Offer made using offer information statement
 
@@ -13208,13 +14589,35 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 (b) an offer information statement relating to the offer which complies with such form and content requirements as may be prescribed by the Authority is lodged with the Authority; and
 
-(c) the offer is made in or accompanied by the offer information statement referred to in paragraph (b).
+(c) either —
+
+(i) the offer is made in or accompanied by the offer information statement referred to in paragraph (b); or
+
+(ii) all the conditions in subsection (1B) are satisfied.
 
 [1/2005]
 
-(1A) Subsection (1) shall apply to an offer of securities referred to therein only for a period of 6 months from the date of lodgment of the offer information statement relating to that offer.
+[2/2009 wef 01/10/2012]
 
-[1/2005]
+(1A) Subsection (1) shall only apply to an offer of securities referred to in that subsection made within a period of 6 months from the date the offer information statement relating to that offer is lodged with the Authority.
+
+[2/2009 wef 01/10/2012]
+
+(1B) The conditions referred to in subsection (1)(c)(ii) are —
+
+(a) the offer is made using any automated teller machine or such other electronic means as may be prescribed by the Authority;
+
+(b) the automated teller machine or prescribed electronic means indicates to a prospective subscriber or buyer —
+
+(i) how he can obtain, or arrange to receive, a copy of the offer information statement in respect of the offer; and
+
+(ii) that he should read the offer information statement before submitting his application,
+
+before enabling him to submit any application to subscribe for or purchase securities; and
+
+(c) the person making the offer complies with such other requirements as the Authority may prescribe.
+
+[2/2009 wef 01/10/2012]
 
 (2) The Authority may, on the application of any person interested, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
 
@@ -13332,8 +14735,6 @@ Subdivision (1) — Interpretation
 
 282A\.—(1) In this Division, unless the context otherwise requires —
 
-“chief executive officer”, in relation to a corporation, means any person, by whatever name called, who is in the direct employment of, or acting for or by arrangement with, the corporation, and who is principally responsible for the management and conduct of the business of the corporation;
-
 “control”, in relation to an entity, means the capacity of a person to determine the outcome of decisions on the financial and operating policies of the entity, having regard to —
 
 (a) the influence which the person can, in practice, exert on the entity (as opposed to the rights which the person can exercise in the entity); and
@@ -13404,17 +14805,13 @@ when the trustee acts in that capacity; and
 
 “supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 282D(1), as the case may be;
 
-“trustee-manager” —
-
-(a) in relation to a registered business trust, has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A); and
-
-(b) in relation to a business trust for which an application for registration has been made under section 4(1) of the Business Trusts Act, means the person proposed to be named as the trustee-manager in the application made under that section;
-
 “trust deed” has the same meaning as “deed” in section 2 of the Business Trusts Act;
 
 “trust property” has the same meaning as in section 2 of the Business Trusts Act.
 
 [1/2005]
+
+[2/2009 wef 19/11/2012]
 
 (2) For the purposes of this Division, a statement shall be deemed to be included in a prospectus or profile statement if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
 
@@ -13454,7 +14851,7 @@ Subdivision (2) — Prospectus requirements
 
 282C\.—(1) No person shall make an offer of units or derivatives of units in a business trust unless —
 
-(a) the business trust is a registered business trust; and
+(a) the business trust is a registered business trust or recognised business trust; and
 
 (b) the offer —
 
@@ -13469,6 +14866,8 @@ Subdivision (2) — Prospectus requirements
 (ii) complies with such requirements as may be prescribed by the Authority.
 
 [1/2005]
+
+[2/2009 wef 01/10/2012]
 
 (2) A person who lodges a preliminary document with the Authority shall be deemed to have lodged a prospectus with the Authority.
 
@@ -14368,15 +15767,9 @@ regard shall be had to whether the statement —
 
 (iv) a person acting at the instigation of, or by arrangement with, any person referred to in sub-paragraph (i), (ii) or (iii);
 
-(g) is a report about the units or derivatives of units in a business trust which are the subject of the offer or intended offer, published and delivered to any institutional investor not later than 14 days prior to the date of lodgment of the prospectus, provided that —
+(g) is a disclosure, notice, report or publication of a description prescribed by the Authority, and such other conditions as the Authority may prescribe are satisfied; or
 
-(i) the offer is also made or will also be made in one or more other countries;
-
-(ii) the publication and delivery of such report in that other country or any one of those other countries do not infringe any law, code or other requirement of that country;
-
-(iii) the report and the manner of its publication and delivery in Singapore comply with such other requirements as may be prescribed by the Authority; and
-
-(iv) the person issuing the report complies with such requirements as may be prescribed by the Authority; or
+[2/2009 wef 01/10/2012]
 
 (h) is a publication made by the person making the offer, the issuer or the trustee-manager of the business trust solely to correct or provide clarification on any erroneous or inaccurate information or comment contained in —
 
@@ -14692,7 +16085,7 @@ of the entity; or
 
 (5) A person who is named in a prospectus or a profile statement as —
 
-(a) a proposed director or equivalent person of the issuer, or an issue manager r underwriter;
+(a) a proposed director or equivalent person of the issuer, or an issue manager or underwriter;
 
 (b) having made a statement included in the prospectus or the profile statement; or
 
@@ -14908,6 +16301,134 @@ but if a cheque for the sum payable has been received by the trustee-manager, th
 
 [1/2005]
 
+Subdivision (2A) — Recognised business trusts
+
+### Power of Authority to recognise business trusts constituted outside Singapore
+
+282TA\.—(1) The Authority may, upon an application made to it in such form and manner as may be prescribed and subject to subsection (2), recognise a business trust constituted outside Singapore.
+
+(2) The Authority may recognise a business trust under subsection (1) if and only if the Authority is satisfied that —
+
+(a) the laws and practices of the jurisdiction under which the business trust is constituted and regulated affords to investors in Singapore protection at least equivalent to that provided to them under the Business Trusts Act (Cap. 31A) in the case of registered business trusts;
+
+(b) the business trust satisfies such criteria as may be prescribed by the Authority; and
+
+(c) the person making the offer of, or the issuer of, units or derivatives of units in the business trust, or the trustee-manager of the business trust satisfies such criteria as may be prescribed by the Authority.
+
+(3) Without prejudice to subsection (2), in considering whether to recognise a business trust under subsection (1), the Authority may have regard to such other factors as may be prescribed.
+
+(4) Without prejudice to subsection (2), the Authority may refuse to recognise any business trust where it appears to the Authority that it is not in the public interest to do so.
+
+(5) The Authority shall not refuse to recognise a business trust under subsection (1) without giving the person who made the application an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to recognise the business trust on the basis of any of the following circumstances:
+
+(a) the person making the offer (being an entity), the issuer or the trustee-manager or the business trust itself is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) the person making the offer (being an individual) is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person making the offer (being an entity), the issuer or the trustee-manager of the business trust, or in relation to or in respect of the trust property of the business trust.
+
+(6) Any person making an application under subsection (1) may, within 30 days after he is notified that the Authority has refused to recognise that business trust constituted outside Singapore under subsection (1), appeal to the Minister whose decision shall be final.
+
+(7) An application made under subsection (1) shall be accompanied by such information or record as the Authority may require.
+
+(8) The Authority may publish for public information, in such manner as it considers appropriate, particulars of any business trust that is recognised under subsection (1).
+
+(9) While a business trust remains a recognised business trust, a person making an offer of, or an issuer of, units or derivatives of units in the trust, or the trustee-manager of the trust shall ensure that the criteria prescribed by the Authority in accordance with subsection (2)(b) and (c) which are applicable to him continue to be satisfied.
+
+(10) The trustee-manager of a recognised business trust shall furnish such information or record regarding the business trust as the Authority may, at any time, require for the proper administration of this Act.
+
+(11) Any person who contravenes subsection (9) or (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 01/10/2012]
+
+### Power of Authority to impose conditions or restrictions
+
+282TB\.—(1) The Authority may recognise a business trust under section 282TA(1) subject to such conditions or restrictions as it thinks fit to impose for the purpose of protection of investors, and the trustee-manager of the trust and a person making an offer of, or an issuer of, units or derivatives of units in the trust shall comply with the conditions or restrictions applicable to him.
+
+(2) The Authority may, at any time, by notice in writing to any of the persons referred to in subsection (1), vary any condition or restriction or impose such further condition or restriction as the Authority may think fit.
+
+(3) Any person who contravenes any condition or restriction applicable to him under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 01/10/2012]
+
+### Revocation, suspension or withdrawal of recognition
+
+282TC\.—(1) The Authority may revoke the recognition of a recognised business trust granted under section 282TA(1) if —
+
+(a) the application for recognition, or any related information or record submitted to the Authority whether at the same time as or subsequent to the application, was false or misleading in a material particular or omitted a material particular which, had it been known to the Authority at the time of submission, would have resulted in the Authority not granting the recognition;
+
+(b) the Authority is of the opinion that the continued recognition of the business trust is or will be against the public interest;
+
+(c) the Authority is of the opinion that the continued recognition of the business trust is or will be prejudicial to its unitholders or potential unitholders; or
+
+(d) there has been a contravention of section 282TA(9) or (10) or a condition or restriction referred to in section 282TB.
+
+(2) Where the Authority revokes the recognition of a recognised business trust under subsection (1), the Authority may issue such directions as it deems fit to a person making an offer of, or the issuer of, units or derivatives of units in the trust, or the trustee‑manager of the trust, including a direction that he provides the holders of the units or derivatives of units with an option to redeem or sell back to him their units or derivatives of units, as the case may be, on such terms as the Authority may approve; and the person to whom the directions are issued shall comply with them.
+
+(3) In determining whether to issue a direction under subsection (2), the Authority shall consider —
+
+(a) whether the trustee-manager is able to liquidate the property of the trust without material adverse financial effect to the unitholders, and for this purpose, the factors which the Authority may take into account include —
+
+(i) the liquidity of the property of the trust;
+
+(ii) the penalties, if any, payable for liquidating the property; and
+
+(iii) in a case where the units of the trust are also listed for quotation or quoted on an overseas securities exchange, the potential impact which the liquidation may have on unitholders in the country or territory where they are listed; and
+
+(b) where the units or derivatives of units of the trust are listed for quotation on the official list of a securities exchange, whether the holders of the units or derivatives of units are afforded an opportunity to liquidate, sell or redeem their units or derivatives of units on reasonable terms in accordance with the requirements of the listing rules of the securities exchange.
+
+(4) A person who without reasonable excuse contravenes any of the directions issued by the Authority to him under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) Notwithstanding subsection (1), the Authority may, if it considers it desirable to do so, instead of revoking the recognition of a recognised business trust, suspend the recognition of that recognised business trust for a specific period, and may at any time remove such suspension.
+
+(6) Where the Authority revokes the recognition of a recognised business trust under subsection (1) or suspends the recognition of a recognised business trust under subsection (5), it shall notify the trustee-manager of the business trust and, where the Authority deems it necessary, the person who made the application to the Authority for recognition of the business trust under section 282TA(1).
+
+(7) Subject to subsection (8), the Authority may, upon an application in writing made to it by the trustee-manager of the business trust or the person who made the application to the Authority for recognition of a business trust under section 282TA(1), in such form and manner as may be prescribed, withdraw the recognition of that recognised business trust.
+
+(8) The Authority may refuse to withdraw the recognition of a recognised business trust under subsection (7) where the Authority is of the opinion that —
+
+(a) there is any matter concerning the recognised business trust which should be investigated before the recognition is withdrawn; or
+
+(b) the withdrawal of the recognition would not be in the public interest.
+
+(9) The Authority shall not —
+
+(a) revoke the recognition of a recognised business trust under subsection (1);
+
+(b) impose a direction under subsection (2);
+
+(c) suspend the recognition of a recognised business trust under subsection (5); or
+
+(d) refuse the withdrawal of the recognition of a recognised business trust under subsection (8),
+
+without giving the person referred to in subsection (2), (6) or (7), as the case may be, an opportunity to be heard, except that an opportunity to be heard need not be given for a revocation or suspension on the ground that the continued recognition of the recognised business trust is against the public interest on the basis of any of the following circumstances:
+
+(i) the person making the offer (being an entity), the issuer, the trustee-manager of the recognised business trust or the recognised business trust itself is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(ii) the person making the offer (being an individual) is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(iii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person making the offer (being an entity), the issuer or the trustee-manager, or in relation to the trust property of the recognised business trust.
+
+(10) The person referred to in subsection (2), (6) or (7), as the case may be, may, within 30 days after he is notified that the Authority —
+
+(a) has revoked the recognition of that recognised business trust under subsection (1);
+
+(b) has imposed a direction on him under subsection (2);
+
+(c) has suspended the recognition of that recognised business trust under subsection (5); or
+
+(d) has refused to withdraw the recognition of that recognised business trust under subsection (8),
+
+appeal to the Minister whose decision shall be final.
+
+(11) Where the Authority revokes a recognition under subsection (1), suspends a recognition under subsection (5) or withdraws a recognition under subsection (8), it may —
+
+(a) impose such conditions on the revocation, suspension or withdrawal as it considers appropriate; and
+
+(b) publish notice of the revocation, suspension or withdrawal, and the reason therefor, in such manner as it considers appropriate.
+
+[2/2009 wef 01/10/2012]
+
 Subdivision (3) — Exemptions
 
 ### Issue or transfer of units or derivatives of units for no consideration
@@ -14940,11 +16461,15 @@ Subdivision (3) — Exemptions
 
 (A) in the case where the business trust is not registered under the Business Trusts Act (Cap. 31A), the following statement in writing:
 
+“
+
 This offer is made in reliance on the exemption under section 282V(1) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore and the business trust is not registered under the Business Trusts Act.
 
 ”; and
 
 (B) in the case where the business trust is registered under the Business Trusts Act, the following statement in writing:
+
+“
 
 This offer is made in reliance on the exemption under section 282V(1) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore.
 
@@ -15196,6 +16721,8 @@ that is published in connection with an offer of units or derivatives of units i
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
 
+[2/2009 wef 29/07/2009]
+
 (2) The Authority may prescribe such other number of persons in substitution for the number specified in subsection (1)(a).
 
 [1/2005]
@@ -15226,7 +16753,7 @@ if any, within that period in reliance on the exemption under this section, sect
 
 (e) offers of units or derivatives of units in a business trust made by a person as an agent of another person shall be treated as offers made by that other person;
 
-(f) where an offer is made to a person with a view to another person acquiring an interest in those units or derivatives of units in a business trust by virtue of section 4, only the second-mentioned person shall be counted for the purposes of determining whether offers of the units or derivatives of units are made to no more than the applicable number of persons specified in subsection (1) (a); and
+(f) where an offer is made to a person with a view to another person acquiring an interest in those units or derivatives of units in a business trust by virtue of section 4, only the second-mentioned person shall be counted for the purposes of determining whether offers of the units or derivatives of units are made to no more than the applicable number of persons specified in subsection (1)(a); and
 
 (g) where —
 
@@ -15270,9 +16797,13 @@ and such proposed compromise or arrangement and the execution thereof complies w
 
 (d) it is an offer of units in a business trust (not being such excluded units in a business trust, or units in such excluded business trust, as may be prescribed by the Authority) that have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange;
 
+[2/2009 wef 29/07/2009]
+
 (e) it is an offer of derivatives of units in a business trust (not being such excluded derivatives of units in a business trust, or derivatives of units in such excluded business trust, as may be prescribed by the Authority) where —
 
 (i) the derivatives of units have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange; or
+
+[2/2009 wef 29/07/2009]
 
 (ii) an application has been or will be made for permission for the derivatives of units to be listed for quotation or quoted on a securities exchange and the units have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange;
 
@@ -15410,6 +16941,8 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
 
+[2/2009 wef 29/07/2009]
+
 (2) Subdivision (2) of this Division (other than section 282Q) shall not apply to an offer of units or derivatives of units in a business trust to a person who acquires the units or derivatives of units as principal, whether or not the units or derivatives of units have been previously issued, if —
 
 (a) the offer is on terms that the units or derivatives of units may only be acquired at a consideration of not less than $200,000 (or its equivalent in a foreign currency) for each transaction, whether such amount is to be paid for in cash or by exchange of securities or other assets;
@@ -15439,6 +16972,8 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 (A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (3) In this section —
 
@@ -15526,7 +17061,11 @@ then Subdivision (2) of this Division shall apply to the offer resulting in that
 
 [1/2005]
 
+[2/2009 wef 29/07/2009]
+
 (1A) The reference to the sale of derivatives of units in a business trust under subsection (1) shall, in a case where the derivatives of units initially acquired are derivatives of units with an attached right of conversion into units in the business trust, include a reference to the sale of the converted units.
+
+[2/2009 wef 29/07/2009]
 
 (2) Where units or derivatives of units in a business trust initially acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z are sold to —
 
@@ -15598,6 +17137,8 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 (b) which are listed for quotation on a securities exchange.
 
+[2/2009 wef 29/07/2009]
+
 ### Offer of units converted from debentures
 
 282ZAA\.—(1) Notwithstanding sections 282V, 282W, 282X(1)(d) and (e) and (3)(c) and 282ZB, where —
@@ -15630,13 +17171,35 @@ then Subdivision (2) shall apply to an offer resulting in a sale of any of the u
 
 (b) an offer information statement relating to the offer which complies with such form and content requirements as may be prescribed by the Authority is lodged with the Authority; and
 
-(c) the offer is made in or accompanied by the offer information statement referred to in paragraph (b).
+(c) either —
+
+(i) the offer is made in or accompanied by the offer information statement referred to in paragraph (b); or
+
+(ii) all the conditions in subsection (2A) are satisfied.
 
 [1/2005]
 
-(2) Subsection (1) shall apply to an offer of units or derivatives of units in a business trust referred to therein only for a period of 6 months from the date of lodgment of the offer information statement relating to that offer.
+[2/2009 wef 01/10/2012]
 
-[1/2005]
+(2) Subsection (1) shall only apply to an offer of units or derivatives of units in a business trust referred to in that subsection made within a period of 6 months from the date the offer information statement relating to that offer is lodged with the Authority.
+
+[2/2009 wef 01/10/2012]
+
+(2A) The conditions referred to in subsection (1)(c)(ii) are —
+
+(a) the offer is made using any automated teller machine or such other electronic means as may be prescribed by the Authority;
+
+(b) the automated teller machine or prescribed electronic means indicates to a prospective subscriber or buyer —
+
+(i) how he can obtain, or arrange to receive, a copy of the offer information statement in respect of the offer; and
+
+(ii) that he should read the offer information statement before submitting his application,
+
+before enabling him to submit any application to subscribe for or purchase securities; and
+
+(c) the person making the offer complies with such other requirements as the Authority may prescribe.
+
+[2/2009 wef 01/10/2012]
 
 (3) The Authority may, on the application of any person interested, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
 
@@ -15852,19 +17415,23 @@ when the trustee acts in that capacity; and
 
 (b) the Authority has by order published in theGazettedeclared that this Division shall not apply to that offer or a class of offers to which that offer belongs,
 
-then this Division does not apply to that offer.
+then this Division (other than section 283A) does not apply to that offer.
 
 [16/2003; 1/2005]
 
+[2/2009 wef 01/10/2012]
+
 ### Division not to apply to certain collective investment schemes which are business trusts
 
-284B\. This Division does not apply to an offer of units in a collective investment scheme, where —
+284B\. This Division (other than section 283A) does not apply to an offer of units in a collective investment scheme, where —
 
 (a) the collective investment scheme is also a registered business trust; or
 
 (b) the collective investment scheme is also a business trust and the offer is made in reliance on an exemption under Subdivision (3) of Division 1A.
 
 [1/2005]
+
+[2/2009 wef 01/10/2012]
 
 ### Modification of provisions to certain offers
 
@@ -15972,7 +17539,7 @@ the holder of a capital markets services licence for real estate investment trus
 
 (a) the laws and practices of the jurisdictions under which the scheme is constituted and regulated affords to investors in Singapore protection at least equivalent to that provided to them by or under this Division in the case of comparable authorised schemes;
 
-(b) [Act 1/2005]
+(b) [Deleted by Act 1/2005]
 
 (c) there is a manager for the scheme which satisfies the requirements in subsection (3);
 
@@ -16314,13 +17881,19 @@ the trustee shall summon a meeting of the participants for the purpose of determ
 
 referred to in this section as the transferee has, within 4 months after the making of the offer in that behalf by the transferee, been approved as to the units or as to each class of units whose transfer is involved by participants of the subject trust holding no less than 90% of the total number of those units or of the units of that class (other than units already held at the date of the offer by the transferee), the transferee may, at any time within 2 months after the offer has been so approved, give notice in the prescribed manner to any dissenting participant of the subject trust that it desires to acquire his units.
 
+[2/2009 wef 29/03/2010]
+
 (2) When a notice referred to in subsection (1) is given, the transferee shall, unless on an application made by a dissenting participant within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting participant under subsection (3) (whichever is the later) a court thinks fit to order otherwise, be entitled and bound to acquire those units —
 
 (a) on the terms which under the arrangement or contract the units of the approving participants are to be transferred to the transferee; or
 
 (b) if the offer contained 2 or more alternative sets of terms, on the terms which were specified in the offer as being applicable to dissenting participants.
 
+[2/2009 wef 29/03/2010]
+
 (3) Where a transferee has given notice to any dissenting participant of the subject trust that it desires to acquire his units, the dissenting participant shall be entitled to require the transferee by a demand in writing served on the transferee, within one month from the date on which the notice was given, to supply him with a statement in writing of the names and addresses of all other dissenting participants as shown in the register of participants of the subject trust; and the transferee shall not be entitled or bound to acquire the units of the dissenting participants until 14 days after the posting of the statement of such names and addresses to the dissenting participant.
+
+[2/2009 wef 29/03/2010]
 
 (4) Where, pursuant to any such arrangement or contract, units in the subject trust are transferred to the transferee or its nominee and those units together with any other units in the subject trust held by the transferee at the date of the transfer comprise or include 90% of the total number of the units in the subject trust or of any class of those units, then —
 
@@ -16328,11 +17901,15 @@ referred to in this section as the transferee has, within 4 months after the mak
 
 (b) any such participant may within 3 months from receiving the notice require the transferee to acquire his units.
 
+[2/2009 wef 29/03/2010]
+
 (5) Where a participant has given notice under subsection (4)(b) with respect to any units, the transferee shall be entitled and bound to acquire those units —
 
 (a) on the terms on which under the arrangement or contract the units of the approving participants were transferred to it; or
 
 (b) on such other terms as are agreed or as the court on the application of either the transferee or the participant thinks fit to order.
+
+[2/2009 wef 29/03/2010]
 
 (6) Where a notice has been given by the transferee under subsection (1) and a court has not, on an application made by the dissenting participant, ordered to the contrary, the transferee shall —
 
@@ -16343,6 +17920,8 @@ referred to in this section as the transferee has, within 4 months after the mak
 (c) if an application to the court by the dissenting participant is then pending, after that application has been disposed of,
 
 transmit a copy of the notice to the trustee of the subject trust together with an instrument of transfer executed on behalf of the participant by any person appointed by the transferee and on its own behalf by the transferee, and pay, allot or transfer to the trustee of the subject trust the amount or other consideration representing the price payable by the transferee for the units which by virtue of this section the transferee is entitled to acquire, and the trustee of the subject trust shall thereupon register the transferee as the holder of those units.
+
+[2/2009 wef 29/03/2010]
 
 (7) Any sums received by the trustee of the subject trust under this section shall be paid into a separate bank account, and any such sums and any other consideration so received shall be held by that trustee in trust for the several persons who had held the units in respect of which they were respectively received.
 
@@ -16374,17 +17953,23 @@ shall be treated as held or acquired by the transferee.
 
 (b) a reference to a transfer of units of a trust to a transferee (being the trustee of another trust) is a reference to such transfer of units to him as trustee of that other trust.
 
+[2/2009 wef 29/03/2010]
+
 (12) The reference in subsection (1) to units already held by the transferee —
 
 (a) includes a reference to units which the transferee has contracted to acquire; but
 
 (b) excludes units which are the subject of a contract binding the holder thereof to accept the offer when it is made, being a contract entered into by the holder for no consideration and under seal or for no consideration other than a promise by the transferee to make the offer.
 
+[2/2009 wef 29/03/2010]
+
 (13) Where, during the period within which an offer for the transfer of units to the transferee can be approved, the transferee acquires or contracts to acquire any of the units whose transfer is involved but otherwise than by virtue of the approval of the offer, then the transferee may be treated for the purposes of this section as having acquired or contracted to acquire those units by virtue of the approval of the offer if, and only if —
 
 (a) the consideration for which the units are acquired or contracted to be acquired (referred to in this subsection as the acquisition consideration) does not at that time exceed the consideration specified in the terms of the offer; or
 
 (b) those terms are subsequently revised so that when the revision is announced the acquisition consideration, at the time referred to in paragraph (a), no longer exceeds the consideration specified in those terms.
+
+[2/2009 wef 29/03/2010]
 
 (14) In this section and sections 295B and 295C —
 
@@ -16398,11 +17983,17 @@ shall be treated as held or acquired by the transferee.
 
 (b) a trust that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any of the units of which are listed for quotation on a securities exchange.
 
+[2/2009 wef 29/03/2010]
+
 ### Unclaimed money to be paid to Official Receiver
 
 295B\.—(1) The Official Receiver who receives moneys arising from the proceeds of a sale or disposal under section 295A shall place the moneys to the credit of a separate account to be entitled the Compulsory Acquisition of Scheme Account.
 
+[2/2009 wef 29/03/2010]
+
 (2) The interest arising from the investment of the moneys standing to the credit of the Compulsory Acquisition of Scheme Account shall be paid into the Consolidated Fund.
+
+[2/2009 wef 29/03/2010]
 
 (3) If any person makes any demand for any money placed to the credit of the Compulsory Acquisition of Scheme Account, the Official Receiver, upon being satisfied that that person is entitled to the money, shall authorise payment thereof to be made to him out of that Account or, if it has been paid into the Consolidated Fund, may authorise payment of a like amount to be made to him out of moneys made available by Parliament for the purpose.
 
@@ -16412,6 +18003,8 @@ shall be treated as held or acquired by the transferee.
 
 (6) Any unclaimed moneys paid to the credit of the Compulsory Acquisition of Scheme Account to the extent to which the unclaimed moneys have not been under this section paid out of that Account shall, upon the lapse of 7 years from the date of the payment of the moneys to the credit of that Account, be paid into the Consolidated Fund.
 
+[2/2009 wef 29/03/2010]
+
 ### Remedies in cases of oppression or injustice
 
 295C\.—(1) Any participant of a real estate investment trust may apply to a court for an order under this section on the ground —
@@ -16419,6 +18012,8 @@ shall be treated as held or acquired by the transferee.
 (a) that the affairs of the trust are being conducted by the manager or trustee for the trust, or the powers of the directors of the manager or directors of the trustee for the trust are being exercised, in a manner oppressive to one or more of the participants of the trust including himself or in disregard of his or their interests as participants of the trust; or
 
 (b) that some act of the manager or trustee for the trust, carried out in its capacity as manager or trustee for the trust, as the case may be, has been done or is threatened or that some resolution of the participants of the trust or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the participants of the trust including himself.
+
+[2/2009 wef 29/03/2010]
 
 (2) If on such application the court is of the opinion that either of the grounds referred to in subsection (1) is established, the court may, with a view to bringing to an end to or remedying the matters complained of, make such order as it thinks fit and, without prejudice to the generality of the foregoing, the order may —
 
@@ -16434,13 +18029,15 @@ shall be treated as held or acquired by the transferee.
 
 (f) provide that the costs and expenses of and incidental to the application for the order are to be raised and paid out of the property of the trust or to be borne and paid in such manner and by such persons as the court deems fit.
 
-(3) Where an order under this section makes any alteration in or addition to the trust deed of any trust, then, notwithstanding anything in any other provision of this Act but subject to the provisions of the order, the manager or trustee of the trust concerned shall not have power, without the leave of the court, to make any further alteration in or addition to the trust deed that is inconsistent with the provisions of the order; but subject to the foregoing provisions of this subsection the alterations or additions made by the order shall have the same effect as if duly made by special resolution of the participants of the trust
+(3) Where an order under this section makes any alteration in or addition to the trust deed of any trust, then, notwithstanding anything in any other provision of this Act but subject to the provisions of the order, the manager or trustee of the trust concerned shall not have power, without the leave of the court, to make any further alteration in or addition to the trust deed that is inconsistent with the provisions of the order; but subject to the foregoing provisions of this subsection the alterations or additions made by the order shall have the same effect as if duly made by special resolution of the participants of the trust.
 
 (4) A copy of any order made under this section shall be lodged by the applicant with the Authority within 7 days after the making of the order.
 
 (5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
 (6) This section shall apply to a person who is not a participant of a trust but to whom units in the trust have been transmitted by operation of law as it applies to the participants of a trust; and references to a participant or participants shall be construed accordingly.
+
+[2/2009 wef 29/03/2010]
 
 Subdivision (3) — Prospectus requirements
 
@@ -16526,7 +18123,7 @@ by the persons referred to in paragraph (a) and the persons referred to in sub-p
 
 [1/2005]
 
-(4) [Act 1/2005]
+(4) [Deleted by Act 1/2005]
 
 (5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -16550,11 +18147,17 @@ by the persons referred to in paragraph (a) and the persons referred to in sub-p
 
 [1/2005]
 
+[2/2009 wef 29/03/2010]
+
 (6A) Where, after a notice of an opportunity to be heard has been given under subsection (6)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than such day from the date of lodgment of the prospectus or profile statement with the Authority as the Authority may prescribe.
 
 [1/2005]
 
+[2/2009 wef 29/03/2010]
+
 (6AA) For the purposes of subsections (6) and (6A), the Authority may prescribe the same period and day for all offers or different periods and days for different offers.
+
+[2/2009 wef 29/03/2010]
 
 (6B) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (2A) and which contains the information required to be included in a prospectus as prescribed under subsection (1)(a)(i), including such information which could be omitted from the preliminary document by virtue of subsection (1B), has been lodged with the Authority.
 
@@ -16832,7 +18435,7 @@ and that is materially adverse from the point of view of an investor, the person
 
 [1/2005]
 
-(8) [Act 1/2005]
+(8) [Deleted by Act 1/2005]
 
 (9) For the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
 
@@ -17010,15 +18613,9 @@ regard shall be had to whether the statement —
 
 (iv) a person acting at the instigation of, or by arrangement with, any person referred to in sub-paragraph (i), (ii) or (iii);
 
-(e) is a report about the units in the collective investment scheme which are the subject of the offer or intended offer, published and delivered to any institutional investor not later than 14 days prior to the date of lodgment of the prospectus, provided that —
+(e) is a disclosure, notice, report or publication of a description prescribed by the Authority, and such other conditions as the Authority may prescribe are satisfied; or
 
-(i) the offer is also made or will also be made in one or more other countries;
-
-(ii) the publication and delivery of such report in that other country or any one of those other countries do not infringe any law, code or other requirement of that country;
-
-(iii) the report and the manner of its publication and delivery in Singapore comply with such other requirements as may be prescribed by the Authority; and
-
-(iv) the person issuing the report complies with such requirements as may be prescribed by the Authority; or
+[2/2009 wef 01/10/2012]
 
 (f) is a publication made by the person making the offer or the responsible person for the scheme solely to correct or provide clarification on any erroneous or inaccurate information or comment contained in —
 
@@ -17222,6 +18819,8 @@ Subdivision (4) — Exemptions
 
 (ii) the person making the offer has before making the offer informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection.
 
+[2/2009 wef 29/07/2009]
+
 (2) For the purposes of subsection (1)(b), where any notice, circular, material, publication or other document is issued in connection with the offer, the person making the offer is deemed to have given the statement and notification to the person to whom he makes the offer in accordance with that provision if such statement or notification is contained in the first page of that notice, circular, material, publication or document.
 
 [1/2005]
@@ -17290,6 +18889,8 @@ if any, within that period in reliance on the exemption under subsection (1), se
 
 (A) the following statement in writing:
 
+“
+
 This offer is made in reliance on the exemption under section 302B(8)(c) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore and the scheme is not authorised or recognised by the Authority.
 
 ”; and
@@ -17354,8 +18955,6 @@ that is published in connection with an offer of units in a collective investmen
 
 (c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the persons specified in section 302B(1)(d)(i) to (v); and
 
-[2/2009 wef 29/07/2009]
-
 [1/2005]
 
 (d) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
@@ -17367,6 +18966,8 @@ that is published in connection with an offer of units in a collective investmen
 (A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) The Authority may prescribe such other number of persons in substitution for the number specified in subsection (1)(a).
 
@@ -17442,11 +19043,15 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 [1/2005]
 
+[2/2009 wef 29/07/2009]
+
 (2) Subsection (1) shall not apply where the units in a collective investment scheme acquired are of the same class as, or can be converted into units of the same class as, other units in the scheme —
 
 (a) an offer of which has previously been made in or accompanied by a prospectus; and
 
 (b) which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/07/2009]
 
 ### Offer made to accredited investors and certain other persons
 
@@ -17473,6 +19078,8 @@ both persons shall be counted for the purposes of determining whether offers of 
 (A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (4) [Deleted by Act 2/2009 wef 29/07/2009]
 
@@ -17594,19 +19201,43 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 (b) which are listed for quotation on a securities exchange.
 
+[2/2009 wef 29/07/2009]
+
 ### Offer made using offer information statement
 
 305B\.—(1) Subject to subsection (2), Subdivision (3) of this Division shall not apply to an offer of units in a collective investment scheme whose units are listed for quotation on a securities exchange, whether by means of a rights issue or otherwise, if —
 
 (a) an offer information statement relating to the offer which complies with such form and content requirements as may be prescribed by the Authority is lodged with the Authority; and
 
-(b) the offer is made in or accompanied by the offer information statement referred to in paragraph (a).
+(b) either —
+
+(i) the offer is made in or accompanied by the offer information statement referred to in paragraph (a); or
+
+(ii) all the conditions in subsection (2A) are satisfied.
 
 [1/2005]
 
-(2) Subsection (1) shall apply to an offer of units referred therein only for a period of 6 months from the date of lodgment of the offer information statement relating to that offer.
+[2/2009 wef 01/10/2012]
 
-[1/2005]
+(2) Subsection (1) shall only apply to an offer of units referred to in that subsection made within a period of 6 months from the date the offer information statement relating to that offer is lodged with the Authority.
+
+[2/2009 wef 01/10/2012]
+
+(2A) The conditions referred to in subsection (1)(b)(ii) are —
+
+(a) the offer is made using any automated teller machine or such other electronic means as may be prescribed by the Authority;
+
+(b) the automated teller machine or prescribed electronic means indicates to a prospective subscriber or buyer —
+
+(i) how he can obtain, or arrange to receive, a copy of the offer information statement in respect of the offer; and
+
+(ii) that he should read the offer information statement before submitting his application,
+
+before enabling him to submit any application to subscribe for or purchase units in the collective investment scheme; and
+
+(c) the person making the offer complies with such other requirements as the Authority may prescribe.
+
+[2/2009 wef 01/10/2012]
 
 (3) The Authority may, on the application of any person interested, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
 
@@ -18472,6 +20103,10 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (l) the disclosure by a holder of a capital markets services licence of any material interest that such person might have in a proposed transaction relating to trading in capital markets products;
 
+(la) the maintenance by the holder of a capital markets services licence, and a representative of such a holder, of registers of their interests in securities and their duties relating to the registers, and matters relating thereto;
+
+[2/2009 wef 19/11/2012]
+
 (m) the specification of manipulative and deceptive devices and contrivances in connection with the purchase or sale of securities, futures contracts or leveraged foreign exchange trading;
 
 (n) the regulation or prohibition of trading on the floor of a securities exchange, futures exchange or recognised market operator by members of a securities exchange, futures exchange or recognised market operator, as the case may be, or their representatives directly or indirectly for their own accounts and the prevention of such excessive trading on a securities exchange, futures exchange or recognised market operator but off the floor of a securities exchange, futures exchange or recognised market operator by members of a securities exchange, futures exchange or recognised market operator, as the case may be, or their representatives directly or indirectly for their own accounts as the Authority may consider is detrimental to the maintenance of a fair and orderly market; and the exemption of such transactions as the Authority may decide to be necessary in the interest of the public, or a section of the public or for the protection of investors;
@@ -18500,7 +20135,21 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
+(4) Where a person is charged with an offence for contravening a regulation made under subsection (2)(la), it shall be a defence for the person to prove —
+
+(a) that his contravention was due to his not being aware of a fact or occurrence, the existence of which was necessary to constitute the offence; and
+
+(b) that —
+
+(i) he was not so aware on the date of the summons issued for the charge; or
+
+(ii) he became so aware before the date of the summons and complied with the regulation within 14 days after becoming so aware.
+
+(5) For the purposes of subsection (4), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the securities concerned, was aware of at that time.
+
 [16/2003]
+
+[2/2009 wef 19/11/2012]
 
 ### Regulations to apply Act to persons and matters previously regulated under Commodity Trading Act
 
@@ -19100,6 +20749,7 @@ This Legislative History is provided for the convenience of users of the Securit
 |||29 March 2010|
 |||26 November 2010|
 |||1 October 2012|
+|||19 November 2012|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
