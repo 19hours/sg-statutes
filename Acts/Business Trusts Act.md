@@ -98,11 +98,11 @@
 
 - [36 Approval of unitholders required for issue of units by trustee-manager](#Approval-of-unitholders-required-for-issue-of-units-by-trustee-manager)
 
-- [37 Duty of substantial unitholders to notify securities exchange](#Duty-of-substantial-unitholders-to-notify-securities-exchange)
+- [37 (Repealed)](#Repealed)
 
-- [38 Duty of substantial unitholders to notify trustee-manager of registered business trust](#Duty-of-substantial-unitholders-to-notify-trustee-manager-of-registered-business-trust)
+- [38 (Repealed)](#Repealed)
 
-- [39 Duty of substantial shareholder of trustee-manager to notify securities exchange](#Duty-of-substantial-shareholder-of-trustee-manager-to-notify-securities-exchange)
+- [39 (Repealed)](#Repealed)
 
 [**Part VI CIVIL LIABILITY AND TAKE-OVERS**](#Part-VI)
 
@@ -402,8 +402,6 @@ but does not include the types of trusts specified in the Schedule;
 
 “substantial shareholder” means a person who has a substantial shareholding in a company in accordance with section 81 of the Companies Act;
 
-“substantial unitholder”, in relation to a registered business trust, means a person who has an interest or interests in units representing not less than 5% of the total voting rights of all the unitholders of the registered business trust;
-
 “temporary trustee-manager” means a company that has been appointed as the temporary trustee-manager of a registered business trust under section 21;
 
 “trust property”, in relation to a business trust, means all property and rights of any kind whatsoever which are held on trust for the unitholders of the business trust, in accordance with the terms of the trust deed, including —
@@ -427,6 +425,8 @@ but does not include the types of trusts specified in the Schedule;
 “unit”, in relation to a business trust, means a share in the beneficial ownership in the trust property of the business trust;
 
 “unitholder” means a person who holds units in a business trust.
+
+[2/2009 wef 19/11/2012]
 
 [Companies 1994 Ed., ss. 4, 81; SFA 2002 Ed., s. 2; Aust. Corp. 2001, s. 9]
 
@@ -674,7 +674,7 @@ as the case requires.
 
 (b) debentures of the registered business trust in which the director has an interest and the nature and extent of that interest.
 
-(2) The trustee-manager of a registered business trust shall, within 3 days after receiving any notice from its director under subsection (8), enter in its register in relation to the director the particulars in subsection (1), including —
+(2) The trustee-manager of a registered business trust shall, within 3 days after receiving any notice from its director under subsection (8) or section 137N(1) of the Securities and Futures Act (Cap. 289), enter in its register in relation to the director the particulars in subsection (1), including —
 
 (a) the number and description of units or derivatives of units in a registered business trust and debentures of a registered business trust, in which the director has an interest;
 
@@ -686,6 +686,8 @@ as the case requires.
 
 (c) particulars of any change in respect of the particulars referred to in paragraphs (a) and (b), including the consideration, if any, received as a result of the event giving rise to the change.
 
+[2/2009 wef 19/11/2012]
+
 (3) The trustee-manager of a registered business trust shall make the register available for public inspection at the registered office of the trustee-manager without charge.
 
 (4) A person may request the trustee-manager of a registered business trust to furnish him with a copy of its register or any part thereof on payment in advance of a sum of $1 or such lesser sum as the trustee-manager requires for every page or part thereof required to be copied, and the trustee-manager shall send the copy to that person within 21 days after the day on which the request is received by the trustee-manager.
@@ -694,7 +696,9 @@ as the case requires.
 
 (6) The trustee-manager of a registered business trust shall produce its register at the commencement of each annual general meeting of the unitholders of the registered business trust and keep it open and accessible during the meeting to all persons attending the meeting.
 
-(7) It is a defence to a prosecution for failing to comply with subsection (1) or (2) in respect of particulars relating to a director of the trustee-manager of a registered business trust if the defendant proves that the failure was due to the failure of the director to comply with subsection (8) with respect to those particulars.
+(7) It is a defence to a prosecution for failing to comply with subsection (1) or (2) in respect of particulars relating to a director of the trustee-manager of a registered business trust if the defendant proves that the failure was due to the failure of the director to comply with subsection (8) or (as the case may be) section 137N(1) of the Securities and Futures Act (Cap. 289) with respect to those particulars.
+
+[2/2009 wef 19/11/2012]
 
 (8) In accordance with subsection (9), a director of the trustee-manager of a registered business trust shall give notice in writing to the trustee-manager of —
 
@@ -739,6 +743,14 @@ whichever last occurs; and
 (16) Any director of the trustee-manager of a registered business trust who contravenes subsection (8) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 (17) Any trustee-manager of a registered business trust which contravenes subsection (1), (2), (3), (4), (5), (6) or (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(18) Subsections (8) to (15) shall not apply in respect of a registered business trust —
+
+(a) all or any of the units of which are listed for quotation on the official list of a securities exchange; and
+
+(b) to which Subdivision (2) of Division 2 of Part VII of the Securities and Futures Act (Cap. 289) applies.
+
+[2/2009 wef 19/11/2012]
 
 [Companies 1994 Ed., ss. 164, 165, 166]
 
@@ -1160,49 +1172,17 @@ whichever is the earlier, but any approval may be previously revoked or varied b
 
 [Companies 1994 Ed., s. 161]
 
-### Duty of substantial unitholders to notify securities exchange
+Duty of substantial unitholders to notify securities exchange
 
-37\.—(1) In the case of a registered business trust, all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of the registered business trust as though —
+37\. [Repealed by Act 2 of 2009 wef 19/11/2012]
 
-(a) references to the company to which notification should be given were references to the securities exchange;
+Duty of substantial unitholders to notify trustee-manager of registered business trust
 
-(b) references to shares in the company were references to units in the registered business trust;
+38\. [Repealed by Act 2 of 2009 wef 19/11/2012]
 
-(c) references to substantial shareholding were references to substantial unitholding; and
+Duty of substantial shareholder of trustee-manager to notify securities exchange
 
-(d) references to a substantial shareholder were references to a substantial unitholder,
-
-and such person shall comply with those provisions accordingly.
-
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
-
-[SFA 2002 Ed., s. 137]
-
-### Duty of substantial unitholders to notify trustee-manager of registered business trust
-
-38\.—(1) In the case of a registered business trust, all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of the registered business trust as though —
-
-(a) references to the company to which notification should be given were references to the trustee-manager of the registered business trust;
-
-(b) references to shares in the company were references to units in the registered business trust;
-
-(c) references to substantial shareholding were references to substantial unitholding;
-
-(d) references to a substantial shareholder were references to a substantial unitholder; and
-
-(e) references to the Registrar were references to the Authority,
-
-and such person shall comply with those provisions accordingly.
-
-(2) If a person to whom subsection (1) applies fails to comply with any of the provisions of Division 4 of Part IV of the Companies Act, he shall be guilty of an offence and shall be liable on conviction to the same penalties as are prescribed under that Act for a failure to comply with such provision.
-
-### Duty of substantial shareholder of trustee-manager to notify securities exchange
-
-39\.—(1) In the case of a registered business trust, all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder of the trustee-manager of the registered business trust as though references to the company to which notification should be given were references to the securities exchange.
-
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
-
-[SFA 2002 Ed., s. 137]
+39\. [Repealed by Act 2 of 2009 wef 19/11/2012]
 
 ## PART VI
 
@@ -1898,6 +1878,16 @@ Registers
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+(4) The trustee-manager of a registered business trust is not by reason of anything done under Subdivision (1) of Division 2 of Part VII of the Securities and Futures Act (Cap. 289) —
+
+(a) to be taken for any purpose to have notice of; or
+
+(b) to be put upon inquiry as to,
+
+a right of a person to or in relation to a unit in the registered business trust for the purposes of this section.
+
+[2/2009 wef 19/11/2012]
+
 [SF (Offers of Investments) (Collective Investment Schemes) (Rg 2), r. 7 (1) (f) and (2)]
 
 ### Place at which register is kept
@@ -2208,7 +2198,7 @@ Audit
 
 (d) if he is responsible for or if he is the partner, employer or employee of a person responsible for the keeping of the register of unitholders of the registered business trust.
 
-(2) Any person who contravenes subsection (1)docId=;docVerId=;transactionDate=;provId=pr79-ps1-;fragId=18ea3be0-6ce5-4350-8a65-061e47f11f37;urn=;validDate=;validated=valid shall be guilty of an offence.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
 (3) For the purposes of subsection (1), a person shall be deemed to be an officer of the trustee-manager of a registered business trust if he is an officer of a related corporation of the trustee-manager except where the Authority, if it thinks fit in the circumstances of the case, directs otherwise, if he has, at any time within the preceding period of 12 months, been an officer or a promoter of the trustee-manager or of such a corporation.
 
@@ -2429,8 +2419,7 @@ Disclosure
 
 (a) cause the written statements required by subsections (2) and (3) to be made out in accordance with those subsections; and
 
-(b) ensure that the written statements referred to in
-paragraph (a) are annexed to the profit and loss account of the registered business trust required under section 76(1).
+(b) ensure that the written statements referred to in paragraph (a) are annexed to the profit and loss account of the registered business trust required under section 76(1).
 
 (2) Subject to subsection (4), the board of directors of the trustee-manager of a registered business trust shall make a written statement, in accordance with a resolution of the board of directors of the trustee-manager and signed by not less than 2 directors on behalf of the board of directors, certifying that —
 
@@ -2766,7 +2755,7 @@ that document may be given, sent or served using electronic communications to th
 
 (5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
 
-(6) Where a person is charged with an offence under subsection (5)docId=;docVerId=;transactionDate=;provId=pr82-ps5-;fragId=dd05d826-320d-49fe-b3db-e77de7663988;urn=;validDate=;validated=valid, it shall be a defence for the person to prove that —
+(6) Where a person is charged with an offence under subsection (5), it shall be a defence for the person to prove that —
 
 (a) he had taken all reasonable steps to ensure that the translation that was submitted or furnished to or lodged with the Authority, made available for inspection, or maintained or kept, as the case may be, was accurate in the circumstances; and
 
@@ -3148,3 +3137,10 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|26 November 2010|
 |||(Section 118(f) — Amendment of Business Trusts Act)|
+|7.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+||(Consequential amendments made by)||
+||Date of First Reading|15 September 2008|
+|||(Bill No. 23/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|19 November 2012|
+|||(Sections 2(p), (t), (u), (v) and (w), 42, 76, 113(b) and (c), 118(a) to (e) and (h) and 119)|
