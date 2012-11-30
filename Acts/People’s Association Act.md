@@ -38,23 +38,23 @@
 
 - [15 Association’s symbols](#Association’s-symbols)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
-
-[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
+[**THE SCHEDULE Member Organisations**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
 
-# PEOPLE’S ASSOCIATION ACT
+[**Comparative Table**](#Comparative-Table)
+
+# People’s Association Act
 
 (CHAPTER 227)
 
 (Original Enactment: Ordinance 35 of 1960)
 
-REVISED EDITION 2000
+REVISED EDITION 2012
 
-(1st July 2000)
+(30th November 2012)
 
 An Act to incorporate the People’s Association for promoting community recreation in Singapore and for matters incidental thereto.
 
@@ -86,9 +86,9 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (c) 8 members to be appointed by the Chairman; and
 
-(d) one member to be appointed by the Chairman in consultation with each of the organisations mentioned in the First Schedule.
+(d) one member to be appointed by the Chairman in consultation with each of the organisations mentioned in the Schedule.
 
-(2) All letters of appointment to the persons mentioned in subsection (1)(b), (c) and (d) shall issue from the Chairman, who may revoke any appointment at any time without assigning any reason.
+(2) All letters of appointment to the persons mentioned in subsection (1)(b), (c) and (d) shall be issued by the Chairman, who may revoke any appointment at any time without assigning any reason.
 
 (3) Members of the Association appointed by the Chairman in accordance with subsection (1)(b), (c) and (d) shall —
 
@@ -102,9 +102,17 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (a) vary the number of its members and provide in what manner additional members, if any, shall be appointed; and
 
-(b) add to or amend the First Schedule.
+(b) add to or amend the Schedule.
 
 [7/97]
+
+(6) If a vacancy occurs in the membership of the Association under subsection (1)(b), (c) or (d), by reason of death, resignation, revocation of an appointment under subsection (2) or for any other cause, the Chairman shall —
+
+(a) in the case of a vacancy under subsection (1)(b) or (c), appoint a person to fill the vacancy; and
+
+(b) in the case of a vacancy under subsection (1)(d), in consultation with the organisation concerned, appoint a person to fill the vacancy.
+
+(7) Any person appointed under subsection (6)(a) or (b) shall hold office for so long as the member in whose place he is appointed would have held office.
 
 ### Constitution of Board
 
@@ -152,19 +160,9 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (8A) The quorum at every meeting of the Board shall be 5 members of the Board, and no business shall be transacted unless a quorum is present.
 
-[25/2009 wef 15/01/2010]
+[25/2009]
 
 (9) All questions coming before or arising at any meeting of the Association or of the Board shall be decided by a majority of the members present and voting thereon at that meeting of the Association or of the Board, and in the case of an equality of votes, the person presiding at the meeting shall have a second or casting vote.
-
-(10) If a vacancy occurs in the membership of the Association under section 4(1)(b), (c) or (d), by reason of death, resignation, revocation of an appointment under section 4(2) or for any other cause, the Chairman shall —
-
-(a) in the case of a vacancy under section 4(1)(b) or (c), appoint a person to fill the vacancy; and
-
-(b) in the case of a vacancy under section 4(1)(d), in consultation with the organisation concerned, appoint a person to fill the vacancy.
-
-(11) Any person appointed under subsection (10)(a) or (b) shall hold office for so long as the member in whose place he is appointed would have held office.
-
-[7
 
 ### Disclosure of interest
 
@@ -172,11 +170,9 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (a) shall, at the meeting and as soon as practicable after it commences, disclose the fact; and
 
-(b) shall not thereafter be present during the consideration or discussion of, and shall not vote, on any question with respect to, that contract or other matter.
+(b) shall not thereafter be present during the consideration or discussion of, and shall not vote, on any question with respect to, that contract, proposed contract or other matter.
 
 (2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 9(b) when the member is present at a meeting of any committee.
-
-[8
 
 ### Objects of Association
 
@@ -191,8 +187,6 @@ An Act to incorporate the People’s Association for promoting community recreat
 (d) the performance of such other functions as may be conferred upon the Association by any written law; and
 
 (e) the carrying out of such activities as appear to the Board to be advantageous towards, or necessary or convenient for, the furtherance of the objects of the Association as set out in paragraphs (a) to (d).
-
-[9 (1
 
 [39/96]
 
@@ -222,8 +216,6 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (k) generally do all such other acts as may be necessary to achieve the objects of the Association.
 
-[9 (2
-
 [5/93]
 
 ### Protection from personal liability
@@ -238,8 +230,6 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-[9A
-
 [39/96]
 
 ### Execution of documents
@@ -248,13 +238,9 @@ for anything which is in good faith done or intended to be done in the execution
 
 (2) The signature of the Chairman, Deputy Chairman and the member of the Board referred to in subsection (1) is sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Association.
 
-[10
-
 ### Annual report
 
 12\. The Secretary-Treasurer of the Board shall, as soon as practicable after the end of each financial year, submit to the Board a report of the activities of the Association during that financial year.
-
-[11
 
 [5/93]
 
@@ -276,17 +262,17 @@ for anything which is in good faith done or intended to be done in the execution
 
 (3) Each bank account shall be operated by such person as may, from time to time, be authorised in that behalf by the Board.
 
-[27/2002 wef 01/10/2002 wef 01/10/2002]
+[27/2002]
 
 (4) The Board may invest the funds of the Association in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Issue of shares, etc.
 
 13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Association under this Act, or of any capital injection or other investment by the Government in the Association in accordance with any written law, the Association shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Accounts and audit
 
@@ -308,7 +294,7 @@ for anything which is in good faith done or intended to be done in the execution
 
 (4) The accounts of the Association shall be audited by the Auditor-General or by an auditor appointed annually by the Board in consultation with the Auditor-General.
 
-(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
 (6) The remuneration of the auditor of the Association shall be paid out of the funds of the Association.
 
@@ -320,7 +306,7 @@ for anything which is in good faith done or intended to be done in the execution
 
 (b) whether proper accounting and other records have been kept, including records of all assets of the Association whether purchased, donated or otherwise;
 
-(c) whether the receipts, expenditure and investment of moneys, and the acquisition and disposal of assets by the Association during the financial year were in accordance with the provisions of this Act; and
+(c) whether the receipt, expenditure and investment of moneys, and the acquisition and disposal of assets by the Association during the financial year were in accordance with the provisions of this Act; and
 
 (d) such other matters arising from the audit as he considers should be reported.
 
@@ -334,246 +320,363 @@ for anything which is in good faith done or intended to be done in the execution
 
 (13) Where the Auditor-General is not the auditor of the Association, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Deputy Chairman.
 
-[13
-
 ### Association’s symbols
 
 15\.—(1) The Association shall have the exclusive right to the use of such symbols (referred to in this section as the Association’s symbols) as it may devise or adopt from time to time and thereafter display or exhibit in connection with its activities or affairs.
 
-[27/2002 wef 01/10/2002]
+[27/2002]
 
 (2) The Association shall publish the Association’s symbols in theGazette.
 
-[27/2002 wef 01/10/2002]
+[27/2002]
 
 (3) Any person who uses a symbol identical with, or which so resembles, any of the Association’s symbols as to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-[27/2002 wef 01/10/2002]
+[27/2002]
 
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Section 4(1) and (5)
 
-MEMBER ORGANISATIONS
+Member Organisations
 
-1\. Alumni International Singapore
+1. 
 
-2\. Association of Nanyang University Graduates
+Alumni International Singapore
 
-3\. Basketball Association of Singapore
+2. 
 
-4\. Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
+Association of Nanyang University Graduates
 
-5\. Chinese Calligraphy Society of Singapore
+3. 
 
-6\. Chinese Dance Artistes’ Association
+Basketball Association of Singapore
 
-7\. Chinese Theatre Circle Ltd
+4. 
 
-8\. Consumers Association of Singapore
+Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
 
-9\. Er Woo Amateur Musical and Dramatic Association
+5. 
 
-10\. Football Association of Singapore
+Chinese Calligraphy Society of Singapore
 
-11\.Deleted by S 343/2006, wef 16/06/2006.
+6. 
 
-11A\. Girl Guides, Singapore
+Chinese Dance Artistes’ Association
 
-12\. Hindi Society (Singapore)
+7. 
 
-12A. Institute of Certified Public Accountants of Singapore
+Chinese Theatre Circle Ltd
 
-13\. Institute of Technical Education, Singapore
+8. 
 
-14\. Malay Youth.Literary.Association (Persatuan Persuratan Pemuda Pemudi Melayu)
+Consumers Association of Singapore
 
-15\. Metro Philharmonic Society
+9. 
 
-16\. Metropolitan Young Men’s Christian Association of Singapore
+Er Woo Amateur Musical and Dramatic Association
 
-17\. Nanyang Academy of Fine Arts
+10. 
 
-18\. Nanyang Technological University Students’ Union
+Football Association of Singapore
 
-19\. National Council of Social Service
+11. 
 
-20\. National Trades Union Congress
+Girl Guides, Singapore
 
-21\. National University of Singapore Society
+12. 
 
-22\. National University of Singapore Students’ Union
+Hindi Society (Singapore)
 
-23\. Ngee Ann Polytechnic Students’ Union
+13. 
 
-24\. Perkumpulan Seni (Arts Group)
+Institute of Certified Public Accountants of Singapore
 
-24A. Qigong Shi Ba Shi Association (Singapore)
+14. 
 
-25\. Radio Modellers Singapore
+Institute of Technical Education, Singapore
 
-26\. St John Ambulance Singapore
+15. 
 
-27\. Singapore Action Group of Elders
+Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu)
 
-28\. Singapore Amateur Cycling Association
+16. 
 
-29\.Deleted by S 14/2005, wef 07/01/2005.
+Metro Philharmonic Society
 
-30\. Singapore Arts Federation
+17. 
 
-31\. Singapore Art Society
+Metropolitan Young Men’s Christian Association of Singapore
 
-32\. Singapore Badminton Association
+18. 
 
-33\.Deleted by S 14/2005, wef 07/01/2005.
+Nanyang Academy of Fine Arts
 
-34\. Singapore Bodybuilding and Fitness Federation
+19. 
 
-35\. Singapore Canoe Federation
+Nanyang Technological University Students’ Union
 
-36\. Singapore Chess Federation
+20. 
 
-37\. Singapore Chinese Teachers’ Union
+National Council of Social Service
 
-38\. Singapore Contract Bridge Association
+21. 
 
-39\. Singapore Council of Women’s Organisations
+National Trades Union Congress
 
-39A. Singapore Dragon Boat Association
+22. 
 
-39B. Singapore Dance Theatre
+National University of Singapore Society
 
-40\. Singapore Floorball Association
+23. 
 
-41\.Deleted by S 14/2005, wef 07/01/2005.
+National University of Singapore Students’ Union
 
-42\.Deleted by S 616/2005, wef 22/09/2005.
+24. 
 
-43\. Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura)
+Ngee Ann Polytechnic Students’ Union
 
-44\. Singapore Indian Fine Arts Society
+25. 
 
-45\. Singapore Judo Federation
+Perkumpulan Seni (Arts Group)
 
-46\. Singapore Karate-Do Federation
-
-47\.Deleted by S 14/2005, wef 07/01/2005.
-
-48\. Singapore Malay Teachers’ Union (Kesatuan Guru-Guru Melayu Singapura)
-
-49. Singapore Malay Youth Library Association
-
-
-
-
-(Taman Bacaan Pemuda Pemudi Melayu Singapura)
-
-50\. Singapore Middle School Chinese Teachers’ Association
-
-51\. Singapore National Co-operative Federation Ltd
-
-52\. Singapore Wushu Dragon & Lion Dance Federation
-
-53\. Singapore Numismatic Association
-
-54\.Deleted by S 14/2005, wef 07/01/2005.
-
-55\. Singapore Philatelic Society
-
-56\. Singapore Polytechnic Graduates’ Guild
-
-57\. Singapore Polytechnic Students’ Union
-
-58\. Singapore Professional Centre
-
-59. Singapore Red Cross Society
-
-60\. Singapore Sailing Federation
-
-61\. Singapore Scout Association
-
-62\. Singapore Sepaktakraw Federation
-
-63\. Singapore Silat Federation (Persekutuan Silat Singapura)
-
-64\. Singapore Squash Rackets Association
-
-65\. Singapore Stamp Club
-
-65A. Singapore Swimming Association
-
-66\. Singapore Table Tennis Association
-
-67\. Singapore Taekwondo Federation
-
-68. Singapore Tamil Teachers’ Union
-
-69. Singapore Teachers’ Union
-
-69A. Singapore Tennis Association
-
-70.
-
-Singapore Weiqi Association
-
-71.
-
-. Singapore Xiangqi General Association
-
-71A. Singapore Youth Flying Club
-
-72\. Society of Chinese Artists
-
-72A\. Sports Boules Singapore
-
-73.
-
-Sriwana
-
-74\. Tamils Representative Council
-
-75. The Boys’ Brigade in Singapore
-
-76. The Eurasian Association, Singapore
-
-76A. The Girls’ Brigade Singapore
-
-77 The Photographic Society of Singapore
-
-78 Volleyball Association of Singapore
-
-79. Young Men’s Christian Association of Singapore
-
-80\. Young Women’s Christian Association of Singapore
-
-81.
+26. 
 
 Persatuan Pemudi Islam Singapura
 
-82\.Deleted by S 680/2002, wef 30/12/2002.
+27. 
 
-[S234/2001 wef 26/04/2001]
+Qigong Shi Ba Shi Association (Singapore)
 
-[S 680/2002 wef 30/12/2002]
+28. 
 
-[S 14/2005 wef 07/01/2005]
+Radio Modellers Singapore
 
-[S 616/2005 wef 22/09/2005]
+29. 
 
-[S 815/2005 wef 16/12/2005]
+St John Ambulance Singapore
 
-[S 343/2006 wef 16/06/2006]
+30. 
 
-[S 685/2008 wef 30/12/2008]
+Singapore Action Group of Elders
 
-[S 601/2009 wef 11/12/2009]
+31. 
 
-[S 790/2010 wef 27/12/2010]
+Singapore Amateur Cycling Association
 
-SECOND SCHEDULE
+32. 
 
-Repealed by Act 27/2002, wef 01/10/2002.
+Singapore Arts Federation
+
+33. 
+
+Singapore Art Society
+
+34. 
+
+Singapore Badminton Association
+
+35. 
+
+Singapore Bodybuilding and Fitness Federation
+
+36. 
+
+Singapore Canoe Federation
+
+37. 
+
+Singapore Chess Federation
+
+38. 
+
+Singapore Chinese Teachers’ Union
+
+39. 
+
+Singapore Contract Bridge Association
+
+40. 
+
+Singapore Council of Women’s Organisations
+
+41. 
+
+Singapore Dance Theatre
+
+42. 
+
+Singapore Dragon Boat Association
+
+43. 
+
+Singapore Floorball Association
+
+44. 
+
+Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura)
+
+45. 
+
+Singapore Indian Fine Arts Society
+
+46. 
+
+Singapore Judo Federation
+
+47. 
+
+Singapore Karate-Do Federation
+
+48. 
+
+Singapore Malay Teachers’ Union (Kesatuan Guru-Guru Melayu Singapura)
+
+49. 
+
+Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura)
+
+50. 
+
+Singapore Middle School Chinese Teachers’ Association
+
+51. 
+
+Singapore National Co-operative Federation Ltd
+
+52. 
+
+Singapore Numismatic Association
+
+53. 
+
+Singapore Philatelic Society
+
+54. 
+
+Singapore Polytechnic Graduates’ Guild
+
+55. 
+
+Singapore Polytechnic Students’ Union
+
+56. 
+
+Singapore Professional Centre
+
+57. 
+
+Singapore Red Cross Society
+
+58. 
+
+Singapore Sailing Federation
+
+59. 
+
+Singapore Scout Association
+
+60. 
+
+Singapore Sepaktakraw Federation
+
+61. 
+
+Singapore Silat Federation (Persekutuan Silat Singapura)
+
+62. 
+
+Singapore Squash Rackets Association
+
+63. 
+
+Singapore Stamp Club
+
+64. 
+
+Singapore Swimming Association
+
+65. 
+
+Singapore Table Tennis Association
+
+66. 
+
+Singapore Taekwondo Federation
+
+67. 
+
+Singapore Tamil Teachers’ Union
+
+68. 
+
+Singapore Teachers’ Union
+
+69. 
+
+Singapore Tennis Association
+
+70. 
+
+Singapore Weiqi Association
+
+71. 
+
+Singapore Wushu Dragon & Lion Dance Federation
+
+72. 
+
+Singapore Xiangqi General Association
+
+73. 
+
+Singapore Youth Flying Club
+
+74. 
+
+Society of Chinese Artists
+
+75. 
+
+Sports Boules Singapore
+
+76. 
+
+Sriwana
+
+77. 
+
+Tamils Representative Council
+
+78. 
+
+The Boys’ Brigade in Singapore
+
+79. 
+
+The Eurasian Association, Singapore
+
+80. 
+
+The Girls’ Brigade Singapore
+
+81. 
+
+The Photographic Society of Singapore
+
+82. 
+
+Volleyball Association of Singapore
+
+83. 
+
+Young Men’s Christian Association of Singapore
+
+84. 
+
+Young Women’s Christian Association of Singapore
+
+[S 234/2001; S 680/2002; S 14/2005; S 616/2005; S 815/2005; S 343/2006; S 685/2008; S 601/2009; S 790/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -581,7 +684,7 @@ People’s Association Act
 
 (CHAPTER 227)
 
-This Legislative History is provided for the convenience of users of the People’s Association Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the People’s Association Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -736,13 +839,45 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|15 January 2010|
 |59.|**G.N. No. S 790/2010—People’s Association Act (Amendment of First Schedule) Notification 2010**|
 ||Date of commencement|27 December 2010|
+|60.|**2012 Revised Edition—People’s Association Act (Chapter 227)**|
+||Date of operation|30 November 2012|
 ## COMPARATIVE TABLE
 
 People’s Association Act
 
 (CHAPTER 227)
 
-The following provisions in the 1994 Revised Edition of the People’s Association Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+The following provisions in the 2000 Revised Edition of the People’s Association Act have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the People’s Association Act.
+
+2012 Ed\. 
+
+2000 Ed\. 
+
+4 —(6)
+
+6 —(10)
+
+(7)
+
+(11)
+
+THE SCHEDULE
+
+FIRST SCHEDULE
+
+Omitted
+
+SECOND SCHEDULE [Repealed by Act 27/2002]
+
+## COMPARATIVE TABLE
+
+People’s Association Act
+
+(CHAPTER 227)
+
+The following provisions in the 1994 Revised Edition of the People’s Association Act were renumbered by the Law Revision Commissioners in the 2000 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the People’s Association Act.
 
@@ -750,29 +885,29 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1994 Ed\. 
 
-2 — (2) and (3)
+2 —(2) and (3)
 
-2 — (2)
+2 —(2)
 
-4 — (2) and (3)
+4 —(2) and (3)
 
-6 — (1) and (2)
+6 —(1) and (2)
 
 (4)
 
-4 — (2)
+4 —(2)
 
 (5)
 
 (3)
 
-5 — (3) and (4)
+5 —(3) and (4)
 
-5 — (3)
+5 —(3)
 
-6 — (1) and (2)
+6 —(1) and (2)
 
-7 — (1) and (2)
+7 —(1) and (2)
 
 (3) and (4)
 
@@ -804,7 +939,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 8 
 
-9 — (1)
+9 —(1)
 
 9 
 
@@ -814,7 +949,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 9A 
 
-11 — (1) and (2)
+11 —(1) and (2)
 
 10 
 
