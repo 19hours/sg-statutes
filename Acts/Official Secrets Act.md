@@ -46,7 +46,7 @@
 
 - [19 Powers under Criminal Procedure Code not restricted](#Powers-under-Criminal-Procedure-Code-not-restricted)
 
-[**THE SCHEDULE Specified Organisations**](#THE-SCHEDULE)
+[**THE SCHEDULE Specified organisations**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -56,9 +56,9 @@
 
 (Original Enactment: Ordinance 25 of 1935)
 
-REVISED EDITION 1985
+REVISED EDITION 2012
 
-(30th March 1987)
+(30th November 2012)
 
 An Act to prevent the disclosure of official documents and information.
 
@@ -84,11 +84,7 @@ An Act to prevent the disclosure of official documents and information.
 
 “office under the Government” includes any office or employment in or under any department of the Government or any specified organisation and, in the event of war, of the government of any ally of Singapore;
 
-[27/2001 wef 11/09/2001]
-
 “officer of police” includes any person upon whom the powers of a police officer not below the rank of sergeant are conferred by the Minister under section 18;
-
-[7/97/ wef 01/10/1997]
 
 “photograph” includes a photographic or process negative and any printed or other pictorial representation or drawing produced in whole or in part by photographic means;
 
@@ -102,15 +98,13 @@ An Act to prevent the disclosure of official documents and information.
 
 (d) any railway, roadway or channel or other means of communication by land or water (including any bridges, tunnels, piers, works or structures being part thereof, or connected or used therewith), or any beach, foreshore or the whole or any part of the territorial waters of Singapore, or any searchlight, lighthouse, buoy or other navigational aid, or any public building, fire station, aerodrome or air station, or any signal telegraph or radio station, or any place used for gas, water, electricity or engineering works or other works for purposes of a public character, or any place where any munitions of war or oil, mechanical transport spirit, aviation spirit, fuel or supplies or any photographs, drawings, models, plans or documents relating thereto are being made, repaired or stored otherwise than on behalf of the armed forces, any of the aforesaid being a place which is for the time being declared by the Minister, by order published in theGazette, to be a prohibited place for the purposes of this section, on the ground that information with respect thereto, or the destruction or obstruction thereof, or interference therewith would be useful to a foreign Power or to an enemy;
 
-(e) any area (being in the vicinity of any work of defence, arsenal, naval, military or air force establishment or station, factory, dockyard, mine, minefield, camp, ship or aircraft, belonging to or occupied by or on behalf of the armed forces) which is declared by the Minister, by order published in theGazette, to be a prohibited place for the purposes of this section, on the ground that information with respect thereto, or damage thereto, would be useful to a foreign Power or to an enemy;
+(e) any area (being in the vicinity of any work of defence, arsenal, naval, military or air force establishment or station, factory, dockyard, mine, minefield, camp, ship or aircraft, belonging to or occupied by or on behalf of the armed forces) which is declared by the Minister, by order published in theGazette, to be a prohibited place for the purposes of this section, on the ground that information with respect thereto, or damage thereto, would be useful to a foreign Power or to an enemy; or
 
-(f) any area specified in any notice under any written law for the time being in force relating to military manoeuvres or any area declared by proclamation of the Minister under such written law to be a manoeuvring ground or a firing ground, which is declared by order of the Minister to be a prohibited place for the purposes of this section.
-
-[7/97 wef 01/10/1997]
+(f) any area specified in any notice under any written law for the time being in force relating to military manoeuvres or any area declared by proclamation of the Minister under such written law to be a manoeuvring ground or a firing ground, which is declared by order of the Minister to be a prohibited place for the purposes of this section;
 
 “specified organisation” means any organisation specified in the Schedule.
 
-[27/2001 wef 01/09/2001]
+[7/97; 27/2001]
 
 (2) Expressions referring to —
 
@@ -122,7 +116,7 @@ An Act to prevent the disclosure of official documents and information.
 
 (3) The President may, by notification in theGazette, amend the Schedule.
 
-[27/2001 wef 01/09/2001]
+[27/2001]
 
 ### Penalties for spying
 
@@ -142,11 +136,11 @@ Provided that it shall not be an offence under this subsection to take or make, 
 
 (3) The taking or making of any photograph, drawing, map, measurement, sounding or survey in accordance with the terms and conditions in such permit as the competent authority sees fit to give shall not be an offence under subsection (2). It may be a term or condition of that permit that anything so taken or made shall immediately be submitted to the competent authority for examination who, if satisfied that there is reasonable cause to believe that the thing so taken or made contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, shall send it to the Minister, and the Minister may give such orders in respect of the thing as he is empowered to give under subsection (8).
 
-[7/97 wef 01/10/1997]
+[7/97]
 
 (4) The Minister may, by notification in theGazette, provide who shall be the competent authority for the purposes of subsection (3).
 
-(5) Any person who makes or assists in making a declaration or statement false in any material respect for the purpose of obtaining a permit from a competent authority shall be guilty of an offence and shall be liable on conviction before a District Court to a fine not exceeding $2,000, or before a Magistrate’s Court to a fine not exceeding $1,000.
+(5) Any person who makes or assists in making a declaration or statement which is false in any material respect for the purpose of obtaining a permit from a competent authority shall be guilty of an offence and shall be liable on conviction before a District Court to a fine not exceeding $2,000, or before a Magistrate’s Court to a fine not exceeding $1,000.
 
 (6) On a prosecution under this section, it shall not be necessary to show that the accused person was guilty of any particular act tending to show a purpose prejudicial to the safety or interests of Singapore, and, notwithstanding that no such act is proved against him, he may be convicted if, from the circumstances of the case, or his conduct, or his known character as proved, or from his having acted in contravention of section 6 or in the manner mentioned in section 7, it appears that his purpose was a purpose prejudicial to the safety or interests of Singapore and if any photograph, drawing, plan, model, article, note, document or information relating to or used in any prohibited place within the meaning of this Act, or anything in such a place, or any secret official code word, countersign or password is made, obtained, collected, recorded, published or communicated by any person other than a person acting under lawful authority, it shall be deemed to have been made, obtained, collected, recorded, published or communicated for a purpose prejudicial to the safety or interests of Singapore unless the contrary is proved.
 
@@ -154,7 +148,7 @@ Provided that it shall not be an offence under this subsection to take or make, 
 
 (8) The photograph or drawing, if seized under the search warrant or voluntarily produced by the person in whose possession it is, shall be sent by the Court to the Minister, and the Minister may if he considers that the photograph or drawing contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, order the photograph or drawing to be forfeited, or order that any part of the photograph or drawing be obliterated, erased or removed.
 
-[7/97 wef 01/10/1997]
+[7/97]
 
 ### Cameras prohibited except under permit
 
@@ -180,29 +174,29 @@ Provided that it shall not be an offence under this section for any person resid
 
 (e) he has obtained, or to which he has had access, owing to his position as a person who holds or has held office under the Government, or as a person who holds, or has held a contract made on behalf of the Government or any specified organisation, or as a person who is or has been employed under a person who holds or has held such an office or contract,
 
-[27/2001 wef 01/09/2001]
-
 does any of the following:
 
 (i) communicates directly or indirectly any such information or thing as aforesaid to any foreign Power other than a foreign Power to whom he is duly authorised to communicate it, or to any person other than a person to whom he is authorised to communicate it or to whom it is his duty to communicate it;
 
 (ii) uses any such information or thing as aforesaid for the benefit of any foreign Power other than a foreign Power for whose benefit he is authorised to use it, or in any manner prejudicial to the safety or interests of Singapore;
 
-(iii) retains in his possession or control any such thing as aforesaid when he has no right to retain it, or when it is contrary to his duty to retain it, or fails to comply with all lawful directions issued by lawful authority with regard to the return or disposal thereof; or
+(iii) retains in his possession or control any such thing as aforesaid when he has no right to retain it, or when it is contrary to his duty to retain it, or fails to comply with all lawful directions issued by lawful authority with regard to the return or disposal thereof;
 
 (iv) fails to take reasonable care of, or so conducts himself as to endanger the safety or secrecy of, any such information or thing as aforesaid,
 
 that person shall be guilty of an offence.
 
+[27/2001]
+
 (2) If any person receives any secret official code word, countersign, password, or any photograph, drawing, plan, model, article, note, document or information knowing, or having reasonable ground to believe, at the time when he receives it, that the code word, countersign, password, photograph, drawing, plan, model, article, note, document or information is communicated to him in contravention of this Act, he shall be guilty of an offence unless he proves that the communication to him of the code word, countersign, password, photograph, drawing, plan, model, article, note, document or information was contrary to his desire.
 
 (3) In any proceedings against a person for an offence under this section, where it is proved that that person is or has been in the employment or service of any foreign Power or government in breach of any undertaking which he has made with the Government or any specified organisation, he shall be deemed to be in possession or control of such information or thing as is referred to in subsection (1) and to have unlawfully communicated that information to a foreign Power or to have used that information or thing in a manner prejudicial to the safety or interests of Singapore.
 
-[27/2001 wef 01/09/2001]
+[27/2001]
 
 (4) In subsection (3), “undertaking” means any undertaking in writing which a public officer or any other person has made with the Government or any specified organisation whereby the officer or person undertakes not to serve or be employed by any foreign Power or government within a specified period after his retirement or resignation from the public service or that specified organisation or otherwise unless he has obtained the prior approval of the Government or that specified organisation.
 
-[27/2001 wef 01/09/2001]
+[27/2001]
 
 ### Unauthorised use of uniforms, falsification of reports, forgery, personation and false documents
 
@@ -218,17 +212,15 @@ that person shall be guilty of an offence.
 
 (e) personates, or falsely represents himself to be, a person holding or in the employment of a person holding office under the Government, or personates, or falsely represents himself to be or not to be, a person to whom an official document or secret official code word, countersign or password has been duly issued or communicated; or
 
-(f) uses, or has in his possession or under his control, without the authority of the Government department or any specified organisation or the authority concerned, any die, key, badge, device, seal or stamp of or belonging to, or used, made or provided by any Government department or any specified organisation, or by any diplomatic, naval, military or air force authority appointed by or acting under the authority of the Government or that specified organisation, or any key, badge, device, die, seal or stamp so nearly resembling any such articles as aforesaid as to be calculated to deceive, or counterfeits any such articles as aforesaid, or uses, or has in his possession, or under his control, any such counterfeited articles as aforesaid,
+(f) uses, or has in his possession or under his control, without the authority of the Government department or any specified organisation or the authority concerned, any key, badge, device, die, seal or stamp of or belonging to, or used, made or provided by any Government department or any specified organisation, or by any diplomatic, naval, military or air force authority appointed by or acting under the authority of the Government or that specified organisation, or any key, badge, device, die, seal or stamp so nearly resembling any such articles as aforesaid as to be calculated to deceive, or counterfeits any such articles as aforesaid, or uses, or has in his possession, or under his control, any such counterfeited articles as aforesaid,
 
 he shall be guilty of an offence.
 
-[27/2001 wef 01/09/2001]
+[27/2001]
 
 (2) If any person —
 
 (a) retains for any purpose prejudicial to the safety or interests of Singapore any official document, whether or not completed or issued for use, when he has no right to retain it, or when it is contrary to his duty to retain it, or fails to comply with any directions issued by any Government department or any specified organisation or any person authorised by that department or specified organisation with regard to the return or disposal thereof;
-
-[27/2001 wef 01/09/2001]
 
 (b) allows any other person to have possession of any official document issued for his use alone, or communicates any secret official code word, countersign or password so issued, or, without lawful authority or excuse, has in his possession any official document or secret official code word, countersign or password issued for the use of some person other than himself, or on obtaining possession of any official document by finding or otherwise, neglects or fails to restore it to the person or authority by whom or for whose use it was issued, or to the Deputy Commissioner of Police;
 
@@ -237,6 +229,8 @@ he shall be guilty of an offence.
 (d) with intent to obtain an official document, secret official code word, countersign or password, whether for himself or for any other person, knowingly makes any false statement,
 
 he shall be guilty of an offence.
+
+[27/2001]
 
 (3) In the case of any prosecution under this section involving the proof of a purpose prejudicial to the safety or interests of Singapore, section 3(6) shall apply in like manner as it applies to prosecutions under that section.
 
@@ -252,7 +246,7 @@ he shall be guilty of an offence.
 
 (ii) either within or without Singapore, the name or address of, or any other information regarding a foreign agent has been found in his possession, or has been supplied by him to any other person, or has been obtained by him from any other person;
 
-(b) “foreign agent” includes any person who is or has been or is reasonably suspected of being or having been employed by a foreign Power either directly or indirectly for the purpose of committing an act, either within or without Singapore, prejudicial to the safety or interests of Singapore, or who has or is reasonably suspected of having, either within or without Singapore, committed, or attempted to commit, such an act in the interests of a foreign Power;
+(b) “foreign agent” includes any person who is or has been or is reasonably suspected of being or having been employed by a foreign Power either directly or indirectly for the purpose of committing an act, either within or without Singapore, prejudicial to the safety or interests of Singapore, or who has or is reasonably suspected of having, either within or without Singapore, committed, or attempted to commit, such an act in the interests of a foreign Power; and
 
 (c) any address, whether within or without Singapore, reasonably suspected of being an address used for the receipt of communications intended for a foreign agent, or any address at which a foreign agent resides, or to which he resorts for the purpose of giving or receiving communications, or at which he carries on any business, shall be deemed to be the address of a foreign agent, and communications addressed to such an address to be communications with a foreign agent.
 
@@ -266,9 +260,9 @@ he shall be guilty of an offence.
 
 (2) Any person who, on being required to produce any such original or transcript or paper as aforesaid, refuses or neglects to do so, or mutilates or destroys the same, shall be guilty of an offence.
 
-(3) In this section “message” and “telecommunication system” shall have the same meanings as in the Telecommunications Act 1999.
+(3) In this section “message” and “telecommunication system” shall have the same meanings as in the Telecommunications Act (Cap. 323).
 
-[43/99 wef 01/12/1999]
+[43/99]
 
 ### Duty of giving information as to commission of offences
 
@@ -298,19 +292,21 @@ he shall be guilty of an offence.
 
 Provided that a person charged with such an offence may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, but the case shall not be further prosecuted until that consent has been obtained.
 
-(2) When a person is brought before a court under this section before the Public Prosecutor has consented to the prosecution the charge shall be explained to him but he shall not be called upon to plead, and section 230 of the Criminal Procedure Code 2010 shall not apply.
+[15/2010]
 
-[15/2010 wef 02/01/2011]
+(2) When a person is brought before a court under this section before the Public Prosecutor has consented to the prosecution the charge shall be explained to him but he shall not be called upon to plead, and section 230 of the Criminal Procedure Code (Cap. 68) shall not apply.
+
+[15/2010]
 
 ### Search warrants
 
-15\.—(1) A Justice of the Peace if he is satisfied by information on oath or affirmation that there is reasonable ground for suspecting that an offence under this Act has been or is about to be committed, may grant a search warrant authorising any police officer named therein, or authorising if so requested any police officer accompanied by an officer of the armed forces deputed by the officer in command of such armed forces to enter at any time any premises or place specified in the warrant, if necessary by force, and to search the premises or place and every person found therein, and to seize and retain any photograph, drawing, plan, model, article, note or document or anything of a like nature or anything which is or may be evidence of an offence under this Act having been or being about to be committed, which he may find on the premises or place or on any such person, and with regard to or in connection with which he has reasonable ground for suspecting that an offence under this Act has been or is about to be committed. The seal of a court shall not be necessary to validate a warrant issued under this section.
+15\.—(1) A Justice of the Peace if he is satisfied by information on oath or affirmation that there is reasonable ground for suspecting that an offence under this Act has been or is about to be committed, may grant a search warrant authorising any police officer named therein, or authorising if so requested any police officer accompanied by an officer of the armed forces deputed by the officer in command of such armed forces, to enter at any time any premises or place specified in the warrant, if necessary by force, and to search the premises or place and every person found therein, and to seize and retain any photograph, drawing, plan, model, article, note or document or anything of a like nature or anything which is or may be evidence of an offence under this Act having been or being about to be committed, which he may find on the premises or place or on any such person, and with regard to or in connection with which he has reasonable ground for suspecting that an offence under this Act has been or is about to be committed. The seal of a court shall not be necessary to validate a warrant issued under this section.
 
 (2) A Justice of the Peace is authorised to administer an oath or affirmation for the purposes of this section.
 
 (3) The information shall, unless the warrant has been issued by a Magistrate under the seal of his court, be returned without undue delay to a District Court.
 
-(4) A search warrant issued under this section shall if issued by a Magistrate under the seal of his court be returned to his court and in any other case shall be returned to a District Court.
+(4) A search warrant issued under this section shall, if issued by a Magistrate under the seal of his court, be returned to his court and in any other case shall be returned to a District Court.
 
 (5) When it appears to an officer of police not below the rank of sergeant that the case is one of great emergency and that in the interests of Singapore immediate action is necessary, he may, by a written order under his hand, give to any constable the like authority as may be given by the warrant of a Justice of the Peace under this section.
 
@@ -322,7 +318,7 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 (2) In addition and without prejudice to any powers which a court may possess to order the exclusion of the public from any proceedings, if, in the course of proceedings before a court against any person for an offence under this Act or the proceedings on appeal, or in the course of the trial of a person for an offence under this Act, application is made by the prosecution, on the ground that the publication of any evidence to be given or of any statement to be made in the course of the proceedings would be prejudicial to the safety of Singapore, that all or any portion of the public shall be excluded during any part of the hearing, the court may make an order to that effect, but the passing of sentence shall in any case take place in public.
 
-(3) Where the person guilty of an offence under this Act is a company or corporation or a member or employee of a partnership or firm, acting in the course of the business of the partnership or firm, every director and officer of the company or corporation or every member of the partnership or firm (as the case may be) shall be guilty of the like offence unless he proves that the act or omission constituting the offence took place without his knowledge or consent.
+(3) Where the person guilty of an offence under this Act is a company or corporation or a member or an employee of a partnership or firm, acting in the course of the business of the partnership or firm, every director and officer of the company or corporation or every member of the partnership or firm (as the case may be) shall be guilty of the like offence unless he proves that the act or omission constituting the offence took place without his knowledge or consent.
 
 ### Punishment
 
@@ -330,7 +326,7 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 (2) A person who is guilty of an offence under this Act by reason of section 5, 6, 8 or 11 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years. A person charged with an offence by reason of a section mentioned in this subsection may with the consent of the Public Prosecutor be tried before a Magistrate’s Court, and such person shall be liable on conviction to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
 
-[15/2010 wef 02/01/2011]
+[15/2010]
 
 (3) A person who is guilty of an offence under this Act by reason of section 9 or 10 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years, and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
 
@@ -338,103 +334,137 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 17A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-[9/2003 wef 16/05/2003]
+[9/2003]
 
 ### Minister may confer police powers on suitable person
 
 18\. The Minister may confer upon any person, whom he considers fit and suitable, the powers of a police officer not below the rank of sergeant for the purposes of this Act.
 
-[21/73]
+[21/73; 7/97]
 
 ### Powers under Criminal Procedure Code not restricted
 
-19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code [Cap. 68].
+19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code (Cap. 68).
 
 ## THE SCHEDULE
 
 Section 2(1) and (3)
 
-Specified Organisations
+Specified organisations
 
-1. Casino Regulatory Authority of Singapore
+1. 
 
-[S 177/2008 wef 02/04/2008]
+Building and Construction Authority
 
-1A. Building and Construction Authority
+2. 
 
-[S 632/2009 wef 28/12/2009]
+Casino Regulatory Authority of Singapore
 
-2. Central Provident Fund Board
+3. 
 
-3. Civil Aviation Authority of Singapore
+Central Provident Fund Board
 
-3A. Civil Service College
+4. 
 
-[S 573/2001 wef 23/11/2001]
+Civil Aviation Authority of Singapore
 
-4 Competition Commission of Singapore
+5. 
 
-[S 598/2005 wef 14/09/2005]
+Civil Service College
 
-4A. Council for Private Education
+6. 
 
-[S 588/2009 wef 01/12/2009]
+Competition Commission of Singapore
 
-5. Defence Science and Technology Agency
+7. 
 
-6. DSO National Laboratories
+Council for Private Education
 
-7. Economic Development Board
+8. 
 
-8. Energy Market Authority of Singapore
+Defence Science and Technology Agency
 
-8A. Government of Singapore Investment Corporation Private Limited and its subsidiary corporations
+9. 
 
-[S 274/2004 wef 01/06/2004]
+DSO National Laboratories
 
-9. Housing and Development Board
+10. 
 
-10. Info-communications Development Authority of Singapore
+Economic Development Board
 
-11. Inland Revenue Authority of Singapore
+11. 
 
-11A. International Enterprise Singapore Board
+Energy Market Authority of Singapore
 
-[S 420/2003 wef 01/09/2003]
+12. 
 
-12. Jurong Town Corporation
+Government of Singapore Investment Corporation Private Limited and its subsidiary corporations
 
-13. Land Transport Authority of Singapore
+13. 
 
-14. Maritime and Port Authority of Singapore
+Housing and Development Board
 
-14A. Media Development Authority of Singapore
+14. 
 
-[S 420/2003 wef 01/09/2003]
+Info-communications Development Authority of Singapore
 
-15. Monetary Authority of Singapore
+15. 
 
-15A. National Environment Agency
+Inland Revenue Authority of Singapore
 
-[S 420/2003 wef 01/09/2003]
+16. 
 
-16. National Heritage Board
+International Enterprise Singapore Board
 
-17. Public Utilities Board
+17. 
 
-18. Singapore Examinations and Assessment Board
+Jurong Town Corporation
 
-[S 287/2005 wef 06/05/2005]
+18. 
 
-19. Singapore Land Authority
+Land Transport Authority of Singapore
 
-20. Singapore Workforce Development Agency
+19. 
 
-[S 420/2003 wef 01/09/2003]
+Maritime and Port Authority of Singapore
 
-21. Urban Redevelopment Authority.
+20. 
 
-[27/2001 wef 01/09/2001]
+Media Development Authority of Singapore
+
+21. 
+
+Monetary Authority of Singapore
+
+22. 
+
+National Environment Agency
+
+23. 
+
+National Heritage Board
+
+24. 
+
+Public Utilities Board
+
+25. 
+
+Singapore Examinations and Assessment Board
+
+26. 
+
+Singapore Land Authority
+
+27. 
+
+Singapore Workforce Development Agency
+
+28. 
+
+Urban Redevelopment Authority.
+
+[27/2001; 25/2002; 3/2005; S 573/2001; S 420/2003; S 274/2004; S 287/2005; S 598/2005; S 177/2008; S 588/2009; S 632/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -546,3 +576,5 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|29.|**2012 Revised Edition—Official Secrets Act (Chapter 213)**|
+||Date of operation|30 November 2012|
