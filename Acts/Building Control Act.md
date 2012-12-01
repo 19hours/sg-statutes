@@ -92,13 +92,37 @@
 
 - [22F Appeal against notice to reinstate](#Appeal-against-notice-to-reinstate)
 
-[**Part IV Dangerous buildings and occurrences**](#Part-IV)
+[**Part IIIB ENVIRONMENTAL SUSTAINABILITY MEASURES FOR EXISTING BUILDINGS**](#Part-IIIB)
+
+- [22FA Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [22FB Submission of design score for building undergoing major energy-use change](#Submission-of-design-score-for-building-undergoing-major-energy-use-change)
+
+- [22FC Deviation from approved design score](#Deviation-from-approved-design-score)
+
+- [22FD Lapsing or revocation of approval of design score](#Lapsing-or-revocation-of-approval-of-design-score)
+
+- [22FE Completion of major energy-use change and submission of as-built score](#Completion-of-major-energy-use-change-and-submission-of-as-built-score)
+
+- [22FF Periodic audit of energy efficiency of building cooling system](#Periodic-audit-of-energy-efficiency-of-building-cooling-system)
+
+- [22FG Persons who may carry out energy audit](#Persons-who-may-carry-out-energy-audit)
+
+- [22FH Duties of person carrying out energy audit](#Duties-of-person-carrying-out-energy-audit)
+
+- [22FI Cancellation or suspension of registration of energy auditor](#Cancellation-or-suspension-of-registration-of-energy-auditor)
+
+- [22FJ Power to obtain energy consumption and other information](#Power-to-obtain-energy-consumption-and-other-information)
+
+[**Part IV DANGEROUS BUILDINGS AND OCCURRENCES**](#Part-IV)
 
 - [22G Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [23 Dangerous building works](#Dangerous-building-works)
 
 - [24 Dangerous buildings](#Dangerous-buildings)
+
+- [24A Dangerous slopes](#Dangerous-slopes)
 
 - [25 Closure orders](#Closure-orders)
 
@@ -142,7 +166,7 @@
 
 - [29M Savings and transitional provision](#Savings-and-transitional-provision)
 
-[**Part VI Miscellaneous**](#Part-VI)
+[**Part VI MISCELLANEOUS**](#Part-VI)
 
 - [30 Exemption](#Exemption)
 
@@ -170,7 +194,11 @@
 
 - [42 Service of documents](#Service-of-documents)
 
+- [42A Inaccuracies in notices, etc.](#Inaccuracies-in-notices-etc)
+
 - [43 Furnishing of information](#Furnishing-of-information)
+
+- [43A Furnishing documents false in a material particular](#Furnishing-documents-false-in-a-material-particular)
 
 - [44 Powers of arrest](#Powers-of-arrest)
 
@@ -334,19 +362,41 @@ and includes site formation works connected with or carried out for the purpose 
 
 [47/2007 wef 15/02/2008]
 
-“geotechnical aspects”, in relation to any underground building works, means —
+“geotechnical aspects”, in relation to any geotechnical building works, means —
 
-(a) an analysis of the geological structure and earth materials of the site of the underground building works and its influence on the underground building works;
+(a) an analysis of the geological structure and earth materials of the site of the geotechnical building works and its influence on the geotechnical building works;
 
-(b) an analysis of the ground-water regime and its influence on the wall stability and integrity of the underground building works over time; and
+(b) an analysis of the ground-water regime and its influence on the wall stability and integrity of the geotechnical building works over time; and
 
-(c) such other applications of earth sciences to and engineering aspects of the underground building works as may be prescribed;
+(c) such other applications of earth sciences to and engineering aspects of the geotechnical building works as may be prescribed;
 
 [47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
+
+“geotechnical building works” means any of the following building works:
+
+(a) any excavation or other building works to make —
+
+(i) a tunnel with a diameter, width or height of more than 2 metres; or
+
+(ii) a caisson, cofferdam, trench, ditch, shaft or well with a depth of more than 6 metres;
+
+(b) any building works for constructing, altering or repairing any earth retaining structure in or for a trench, ditch, shaft or well with a depth or height of more than 6 metres;
+
+(c) any earthworks or other building works for constructing or stabilising a slope with a height of more than 6 metres (measured as the vertical distance between the highest level and lowest level of the slope);
+
+(d) such type of foundation works as the Minister may prescribe in the building regulations for buildings of 30 storeys or more;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 “geotechnical engineer” means a professional engineer who is registered under the Professional Engineers Act (Cap. 253) as a specialist professional engineer in the specialised branch of geotechnical engineering;
 
 [47/2007 wef 15/02/2008]
+
+“Housing and Development Board” means the Housing and Development Board established under section 3 of the Housing and Development Act (Cap. 129);
+
+[Act 22 of 2012 wef 01/12/2012]
 
 “immediate supervision”, in relation to any building works or part thereof, means personally and directly exercising oversight, control and inspection of the carrying out of the building works or part thereof;
 
@@ -355,6 +405,8 @@ and includes site formation works connected with or carried out for the purpose 
 [47/2007 wef 15/02/2008]
 
 “key structural elements” means the foundations, columns, beams, shear cores, structural walls, struts, ground anchors and such other parts of a building which are essential for its support and overall structural stability;
+
+[47/2007 wef 15/02/2008]
 
 “large building works” means such building works as are prescribed for the purposes of section 7(1)(b);
 
@@ -372,29 +424,43 @@ and includes site formation works connected with or carried out for the purpose 
 
 [47/2007 wef 15/02/2008]
 
-“minor building works” means building works (not being underground building works) that are prescribed in the building regulations as building works the plans of which do not require a certification from an accredited checker for the purposes of section 5 or 5A;
+“minor building works” means building works (not being geotechnical building works) that are prescribed in the building regulations as building works the plans of which do not require a certification from an accredited checker for the purposes of section 5 or 5A;
 
 [47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
 
 “occupier”, in relation to any building, means the person in occupation of the building or having the charge, management or control thereof, either on his own account or as agent of another, but does not include any lodger within the building;
 
-“owner”, in relation to —
+“owner” —
 
-(a) any premises or building, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant and includes a mortgagee in possession;
+(a) in relation to any premises comprised in a strata title plan under the Land Titles (Strata) Act (Cap. 158), means —
 
-(c) the common property of any subdivided building, includes the management corporation having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
+(i) in relation to a lot, any person who is the registered subsidiary proprietor of the lot under that Act;
 
-[47/2004 wef 01/04/2005]
+(ii) in relation to the common property, the management corporation having control of the common property, or the person receiving any rent or charge for the maintenance and management of that common property; and
 
-[47/2007 wef 15/02/2008]
+(iii) in relation to any limited common property, the subsidiary management corporation established under the Building Maintenance and Strata Management Act (Cap. 30C) having control of the limited common property, or the person receiving any rent or charge for the maintenance and management of that limited common property;
 
-(ca) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+(b) in relation to any building in a housing estate of the Housing and Development Board or any subdivided building in a housing estate under the HUDC Housing Estates Act (Cap. 131), means —
 
-[47/2004 wef 01/04/2005]
+(i) in relation to a flat, any owner of the flat as defined under the Housing and Development Act (Cap. 129) or the HUDC Housing Estates Act, as the case may be;
 
-(d) the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board; and
+(ii) in relation to the common property of residential and commercial property in any housing estate of the Housing and Development Board, that Board; and
 
-(e) the common property of any building which is not subdivided, includes any person receiving any rent or charge for the maintenance and management of that common property;
+(iii) in relation to the common property of any subdivided building in any housing estate under the HUDC Housing Estates Act, any body corporate constituted under an order made by the Minister under section 3 of that Act;
+
+(c) in relation to any subdivided building other than a subdivided building referred to in paragraph (a) or (b), means —
+
+(i) in relation to a lot, any person who is the registered proprietor in the land-register under the Land Titles Act (Cap. 157) of the fee simple, estate in perpetuity or leasehold estate of that lot; and
+
+(ii) in relation to the common property, every person who is a registered proprietor in the land-register under the Land Titles Act (Cap. 157) of the fee simple, estate in perpetuity or leasehold estate of a lot in that building, or the person receiving any rent or charge for the maintenance and management of the common property;
+
+(d) in relation to any premises which are not subdivided, means any person who is the registered proprietor of the fee simple, estate in perpetuity or leasehold estate of those premises in the land-register under the Land Titles Act; and
+
+(e) where paragraphs (a) to (d) do not apply, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254) as the owner of the premises or building, or a mortgagee in possession;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 “person responsible”, in relation to an exterior feature of a building, means —
 
@@ -418,7 +484,9 @@ and includes site formation works connected with or carried out for the purpose 
 
 “plans”, in relation to any building works —
 
-(a) includes drawings, details, diagrams, structural details and calculations showing or relating to the building works; and
+(a) includes drawings, details, diagrams, digital representations generated from building information modelling, structural details and calculations showing or relating to the building works; and
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (b) if prepared in electronic form, includes the medium in which the plans of building works have been stored;
 
@@ -448,9 +516,11 @@ and includes site formation works connected with or carried out for the purpose 
 
 [47/2007 wef 15/02/2008]
 
-“specialist accredited checker” means an accredited checker who is registered under section 16 to undertake the work of an accredited checker as regards the geotechnical aspects of any underground building works;
+“specialist accredited checker” means an accredited checker who is registered under section 16 to undertake the work of an accredited checker as regards the geotechnical aspects of any geotechnical building works;
 
 [47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
 
 “specialist builder” means any person who is licensed under Part VA as a specialist builder;
 
@@ -470,7 +540,9 @@ and includes site formation works connected with or carried out for the purpose 
 
 (ii) erection work like site cutting, site welding and site bolting; and
 
-(iii) installation of steel supports for underground building works;
+(iii) installation of steel supports for geotechnical building works;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (e) pre-cast concrete work comprising fabrication of pre-cast structural elements;
 
@@ -504,25 +576,17 @@ but does not include any bridge, any decking for a bridge, or any earth retainin
 
 “temporary occupation permit” means a temporary occupation permit granted under section 12(3);
 
+[47/2007 wef 15/02/2008]
+
 “unauthorised”, in relation to a building or building works, means any building erected, or any building works commenced or carried out, in contravention of any provision of this Act or the building regulations;
 
-“underground building works” means any of the following building works, the carrying out of which starts on or after the date to be specified by the Minister by order in theGazette:
-
-(a) any excavation or other building works to make —
-
-(i) a tunnel with a diameter, width or height of more than 2 metres; or
-
-(ii) a caisson, cofferdam, trench, ditch, shaft or well with a depth of more than 6 metres;
-
-(b) any building works for constructing, altering or repairing any earth retaining structure in or for a trench, ditch, shaft or well with a depth or height of more than 6 metres; or
-
-(c) such type of foundation works as the Minister may prescribe in the building regulations for buildings of 30 or more storeys;
-
-[47/2007 wef 15/02/2008]
+[Deleted by Act 22 of 2012 wef 01/12/2012]
 
 “value”, in relation to any building works, means —
 
-(a) for any underground building works, the total cost to be expended in carrying out those building works estimated at the time of, and contained in, the application under section 5 for approval of the plans of those building works, including any goods and services tax payable in relation to the supply of the work; or
+(a) for any geotechnical building works, the total cost to be expended in carrying out those building works estimated at the time of, and contained in, the application under section 5 for approval of the plans of those building works, including any goods and services tax payable in relation to the supply of the work; or
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (b) for any other building works, the total cost to be expended in carrying out the building works (including the foundations, basements, structural frame, finishes and the installation of building services) estimated at the time of, and contained in, the application under section 5 for approval of the plans of the building works, including any goods and services tax payable in relation to the supply of the work;
 
@@ -534,17 +598,25 @@ but does not include any bridge, any decking for a bridge, or any earth retainin
 
 (2) In this Act, unless the context otherwise requires, any reference to a building includes a reference to a part of a building.
 
-(3) The Minister may, by notification published in theGazette, vary any of the following referred to in the definition of “underground building works” in subsection (1):
+(3) The Minister may, by notification published in theGazette, vary any of the following referred to in the definition of “geotechnical building works” in subsection (1):
 
 (a) the diameter, width or height of any tunnel;
 
 (b) the depth of any caisson, cofferdam, trench, ditch, shaft or well;
 
-(c) the depth or height of any earth retaining structure in or for a trench, ditch, shaft or well; or
+(c) the depth or height of any earth retaining structure in or for a trench, ditch, shaft or well;
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(ca) the height of any slope;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (d) the number of storeys in a building.
 
 [47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (4) Any reference in this Act to a person being an associate of a developer or builder of building works shall be a reference to any of the following persons:
 
@@ -644,7 +716,9 @@ Building plan approvals and permits
 
 (i) the appropriate qualified person whom the developer or builder of the building works has appointed to prepare the plans of those building works; and
 
-(ii) where the building works comprise wholly or partly of any underground building works, the geotechnical engineer whom the developer or builder of the building works has appointed to prepare the plans relating to the geotechnical aspects of those underground building works;
+(ii) where the building works comprise wholly or partly of any geotechnical building works, the geotechnical engineer whom the developer or builder of the building works has appointed to prepare the plans relating to the geotechnical aspects of those geotechnical building works;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (c) the plans of the building works prepared in accordance with the building regulations;
 
@@ -652,7 +726,9 @@ Building plan approvals and permits
 
 (i) a certificate by an accredited checker stating that he has checked the plans relating to those building works and that, to the best of his knowledge and belief, the plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those building works; and
 
-(ii) where the building works comprise wholly or partly of any underground building works, another certificate by a specialist accredited checker (who may or may not be the same accredited checker referred to in sub-paragraph (i)) stating that the specialist accredited checker has checked the geotechnical aspects of those underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works;
+(ii) where the building works comprise wholly or partly of any geotechnical building works, another certificate by a specialist accredited checker (who may or may not be the same accredited checker referred to in sub-paragraph (i)) stating that the specialist accredited checker has checked the geotechnical aspects of those geotechnical building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those geotechnical building works;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (e) the certificate (in the form prescribed) signed by the qualified person appointed to prepare the plans of those building works, certifying that he prepared those plans; and
 
@@ -670,15 +746,19 @@ Building plan approvals and permits
 
 (5) The Commissioner of Building Control may, without checking the plans and design calculations of any building works, approve those plans on the basis of —
 
-(a) where the plans relate to any major building works or underground building works, the certificate of an accredited checker or specialist accredited checker or both, as the case may be, certifying that —
+(a) where the plans relate to any major building works or geotechnical building works, the certificate of an accredited checker or specialist accredited checker or both, as the case may be, certifying that —
 
 (i) the accredited checker has checked the plans relating to the major building works and that, to the best of his knowledge and belief, the plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those major building works; and
 
-(ii) where the building works comprise wholly or partly of any underground building works, the specialist accredited checker has checked the geotechnical aspects of the underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works; or
+(ii) where the building works comprise wholly or partly of any geotechnical building works, the specialist accredited checker has checked the geotechnical aspects of the geotechnical building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those geotechnical building works; or
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (b) in any other case, the certificate (in the form prescribed) signed by the qualified person appointed to prepare the plans of those building works, certifying that he prepared those plans.
 
 (6) Notwithstanding subsection (5), the Commissioner of Building Control may, in his discretion, carry out random checks on any of the detailed structural plans, design calculations or geotechnical aspects of any building works before approving those plans under that subsection.
+
+[47/2007 wef 15/02/2008]
 
 ### Deviations from approved building plans
 
@@ -692,11 +772,15 @@ Building plan approvals and permits
 
 (i) a certificate by an accredited checker stating that he has checked the amended plans relating to those building works and that, to the best of his knowledge and belief, the amended plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those building works; and
 
-(ii) where the building works comprise wholly or partly of any underground building works, a certificate by a specialist accredited checker (who may or may not be the same accredited checker referred to in sub-paragraph (i)) stating that the specialist accredited checker has checked the amended geotechnical aspects of the underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works; and
+(ii) where the building works comprise wholly or partly of any geotechnical building works, a certificate by a specialist accredited checker (who may or may not be the same accredited checker referred to in sub-paragraph (i)) stating that the specialist accredited checker has checked the amended geotechnical aspects of the geotechnical building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those geotechnical building works; and
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (c) the certificate (in the form prescribed) signed by the qualified person appointed to prepare the amended plans of those building works, certifying that he prepared those amended plans.
 
 (3) The first approval granted under section 5 of any plans of building works shall end and be superseded to the extent that the amended plans relating to those same building works are approved under this section (whether or not the approval also relates to other building works).
+
+[47/2007 wef 15/02/2008]
 
 ### Lapsing or revocation of building plans approval
 
@@ -732,7 +816,9 @@ Building plan approvals and permits
 
 (i) the qualified person appointed under section 8 or 11 to supervise the carrying out of those building works; and
 
-(ii) where the building works comprise wholly or partly of any underground building works, the geotechnical engineer who is appointed under section 8 or 11 to supervise the geotechnical aspects of those underground building works;
+(ii) where the building works comprise wholly or partly of any geotechnical building works, the geotechnical engineer who is appointed under section 8 or 11 to supervise the geotechnical aspects of those geotechnical building works;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (c) the following documents signed by the builder:
 
@@ -768,6 +854,8 @@ subject to such terms and conditions as he thinks fit to impose.
 
 (c) the qualified person whom the developer or builder has appointed under section 8 or 11 to supervise those building works.
 
+[47/2007 wef 15/02/2008]
+
 ### Modification or waiver of building regulations
 
 6A\.—(1) The Commissioner of Building Control may, on receipt of an application in relation to any particular building works, advertisements, signboards or skysigns, modify or waive, subject to such terms and conditions as he may impose, any of the requirements of the building regulations.
@@ -796,17 +884,21 @@ Building works
 
 (b) the structural elements of all such building works as are prescribed in the building regulations (referred to in this Act as large building works) shall be carried out under the full-time supervision of a site supervisor, or a team of site supervisors, working under an appropriate qualified person’s control and direction; and
 
-(c) concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of all such building works as are prescribed in the building regulations (referred to in this Act as small-scale building works) shall be carried out under the immediate supervision of —
+(c) concreting, piling, pre-stressing, tightening of high-friction grip bolts, the construction of earth retaining and stabilising structures, or other critical structural works of all such building works as are prescribed in the building regulations (referred to in this Act as small-scale building works) shall be carried out under the immediate supervision of —
 
 (i) an appropriate qualified person; or
 
 (ii) a site supervisor, or a team of site supervisors, working under an appropriate qualified person’s control and direction.
 
-(2) Except as otherwise provided in this Act or the building regulations, no person shall commence or carry out the geotechnical aspects of any underground building works except —
+[Act 22 of 2012 wef 01/12/2012]
+
+(2) Except as otherwise provided in this Act or the building regulations, no person shall commence or carry out the geotechnical aspects of any geotechnical building works except —
 
 (a) under the supervision of the qualified person appointed under section 8(1)(d)(ii) or 11(1)(d)(ii) or (iii)(B); or
 
 (b) under the full-time supervision of a site supervisor or a team of site supervisors appointed under section 10 by the qualified person in paragraph (a) and working under his control and direction.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
@@ -815,6 +907,8 @@ Building works
 (b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the contravention continues,
 
 and if the contravention continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.
+
+[47/2007 wef 15/02/2008]
 
 ### Tests of and in connection with building works
 
@@ -860,11 +954,13 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (c) a builder to carry out those building works;
 
-(d) where the building works comprise wholly or partly of any underground building works and if the builder in paragraph (c) does not appoint any of the following:
+(d) where the building works comprise wholly or partly of any geotechnical building works and if the builder in paragraph (c) does not appoint any of the following:
 
 (i) a qualified person who is a geotechnical engineer to prepare the plans relating to the geotechnical aspects of the building works, who may or may not be the same qualified person referred to in paragraph (a); and
 
 (ii) a qualified person who is a geotechnical engineer to supervise the geotechnical aspects of those building works, who may or may not be the same qualified person referred to in paragraph (b);
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (e) in respect of the detailed structural plans and design calculations of major building works —
 
@@ -872,11 +968,13 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (ii) an accredited checker (whether or not a director, partner, member or an employee of an accredited checking organisation), if the value of the building works does not exceed the prescribed limit referred to in sub-paragraph (i); and
 
-(f) where the building works comprise wholly or partly of any underground building works —
+(f) where the building works comprise wholly or partly of any geotechnical building works —
 
 (i) a specialist accredited checker in respect of the geotechnical aspects of those building works; and
 
 (ii) in addition to appointing a builder under paragraph (c), a specialist builder to monitor instruments measuring pore pressures for saturated and unsaturated levels, ground-water levels, ground movements or building movements and to measure forces, deformations or displacements.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (2) If any qualified person, builder, specialist builder, accredited checker or specialist accredited checker appointed under subsection (1) in respect of building works becomes unwilling to act or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his respective duties under this Act, the developer shall —
 
@@ -891,6 +989,8 @@ Duties of developers, qualified persons, site supervisors and builders
 (5) Any developer who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (6) It shall be a defence in any prosecution for a contravention of subsection (3) for the person charged to prove to the satisfaction of the court that he did not know and could not reasonably have discovered the contravention referred to in the charge.
+
+[47/2007 wef 15/02/2008]
 
 ### Duties of qualified persons
 
@@ -926,9 +1026,9 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (3) No qualified person shall issue any certification for the purposes of subsection (2)(b)(ii) unless he has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his certification is being sought satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of the building works for which the alternative solution is to be applied.
 
-(4) Every qualified person who is appointed under section 8 or 11 to supervise the carrying out of any building works, or the geotechnical aspects of any underground building works, shall —
+(4) Every qualified person who is appointed under section 8 or 11 to supervise the carrying out of any building works, or the geotechnical aspects of any geotechnical building works, shall —
 
-(a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works or underground building works, as the case may be, to ensure that those building works are being carried out in accordance with —
+(a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works or geotechnical building works, as the case may be, to ensure that those building works are being carried out in accordance with —
 
 (i) the provisions of this Act;
 
@@ -956,11 +1056,15 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (f) notify the Commissioner of Building Control if the building works have been suspended for a period of more than 3 months.
 
+[Act 22 of 2012 wef 01/12/2012]
+
 (5) If any qualified person who is appointed under section 8 or 11 —
 
 (a) to prepare the plans of any building works; or
 
-(b) to supervise the carrying out of any building works, or the geotechnical aspects of any underground building works,
+(b) to supervise the carrying out of any building works, or the geotechnical aspects of any geotechnical building works,
+
+[Act 22 of 2012 wef 01/12/2012]
 
 becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under this Act, the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner of Building Control and the builder of those building works of that fact.
 
@@ -970,11 +1074,11 @@ becomes unwilling or unable, whether by reason of the termination of his appoint
 
 (b) within 7 days thereafter, notify the Commissioner of Building Control of that substitute appointment.
 
-(7) A qualified person who is appointed under section 8 or 11 to supervise the carrying out of any building works, or the geotechnical aspects of any underground building works, shall not supervise —
+(7) A qualified person who is appointed under section 8 or 11 to supervise the carrying out of any building works, or the geotechnical aspects of any geotechnical building works, shall not supervise —
 
 (a) any works relating to the structural elements of any major building works; or
 
-(b) the geotechnical aspects of the underground building works,
+(b) the geotechnical aspects of the geotechnical building works,
 
 if he, or any nominee of his, is a partner, an officer or an employee of —
 
@@ -983,6 +1087,8 @@ if he, or any nominee of his, is a partner, an officer or an employee of —
 (ii) the builder of those building works; or
 
 (iii) an associate of the developer or builder referred to in paragraph (i) or (ii).
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (8) If any qualified person appointed under section 8 or 11 to prepare the plans of any building works contravenes subsection (1)(a), (2)(b) or (3), he shall be guilty of an offence and shall be liable on conviction —
 
@@ -1094,11 +1200,13 @@ and if the contravention continues after the conviction, the site supervisor sha
 
 (ii) an appropriate qualified person to supervise the carrying out of those building works; and
 
-(iii) where the building works comprise wholly or partly of any underground building works —
+(iii) where the building works comprise wholly or partly of any geotechnical building works —
 
-(A) a geotechnical engineer (who may or may not be the same person referred to in sub-paragraph (i)) to prepare the plans relating to the geotechnical aspects of the underground building works; and
+(A) a geotechnical engineer (who may or may not be the same person referred to in sub-paragraph (i)) to prepare the plans relating to the geotechnical aspects of the geotechnical building works; and
 
-(B) a geotechnical engineer (who may or may not be the same person referred to in sub-paragraph (ii)) to supervise the geotechnical aspects of the underground building works;
+(B) a geotechnical engineer (who may or may not be the same person referred to in sub-paragraph (ii)) to supervise the geotechnical aspects of the geotechnical building works;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (e) have an adequate number of construction supervisors working under his direction to assist the builder to ensure that paragraph (a) is complied with;
 
@@ -1140,13 +1248,13 @@ and if the contravention continues after the conviction, the site supervisor sha
 
 becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under this Act, the builder and specialist builder of those building works shall cease or shall not commence carrying out the building works until the developer or the builder appoints another appropriate qualified person in respect of those building works.
 
-(6) Any builder or specialist builder who contravenes subsection (1)(a), (a)(a) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
+(6) Any builder or specialist builder who contravenes subsection (1)(a), (2)(a) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (7) If —
 
 (a) a builder contravenes subsection (1)(b) or (c); or
 
-(b) a specialist builder contravenes subsection (3)(b),
+(b) a specialist builder contravenes subsection (2)(b),
 
 the builder or specialist builder, as the case may be, shall be guilty of an offence and shall be liable on conviction —
 
@@ -1156,7 +1264,7 @@ the builder or specialist builder, as the case may be, shall be guilty of an off
 
 and if the contravention continues after the conviction, the builder or specialist builder, as the case may be, shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.
 
-(8) It shall be a defence in any prosecution for a contravention of subsection (1)(b) or (b)(b) for the builder or specialist builder charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
+(8) It shall be a defence in any prosecution for a contravention of subsection (1)(b) or (2)(b) for the builder or specialist builder charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
 
 (9) If —
 
@@ -1173,6 +1281,8 @@ the builder or specialist builder, as the case may be, shall be guilty of an off
 (b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the contravention continues,
 
 and if the contravention continues after the conviction, the builder or specialist builder, as the case may be, shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.
+
+[47/2007 wef 15/02/2008]
 
 Division 5 —
 
@@ -1410,7 +1520,9 @@ to assist the Commissioner of Building Control in considering any representation
 
 shall check the detailed structural plans and design calculations of the building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.
 
-(2) The specialist accredited checker appointed under section 8(1) in respect of any underground building works shall check the geotechnical aspects of those building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.
+(2) The specialist accredited checker appointed under section 8(1) in respect of any geotechnical building works shall check the geotechnical aspects of those building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (3) An accredited checker or a specialist accredited checker who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -1426,7 +1538,9 @@ shall check the detailed structural plans and design calculations of the buildin
 
 has a professional or financial interest in the building works shown in the plans described in the certificate by the accredited checking organisation under section 5(2)(d) or 5A.
 
-(5) A specialist accredited checker shall not issue a certificate under section 5(2)(d) or 5A in respect of the geotechnical aspects of any underground building works if the specialist accredited checker has any professional or financial interest in the underground building works shown in the plans described in his certificate.
+(5) A specialist accredited checker shall not issue a certificate under section 5(2)(d) or 5A in respect of the geotechnical aspects of any geotechnical building works if the specialist accredited checker has any professional or financial interest in the geotechnical building works shown in the plans described in his certificate.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (6) An accredited checker shall be regarded as having a professional or financial interest in any building works if —
 
@@ -1482,6 +1596,8 @@ contravenes subsection (4) or (5), as the case may be, the person shall be guilt
 
 (ii) in any other case, a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[47/2007 wef 15/02/2008]
+
 Division 7 —
 
 Enforcement and administration
@@ -1536,9 +1652,13 @@ and if the failure to comply continues after the conviction, the person shall be
 
 20\.—(1) Any person who commences or carries out, or permits or authorises the commencement or carrying out of —
 
-(a) any building works (including underground building works) the plans of which have not been approved by the Commissioner of Building Control under section 5 or 5A; or
+(a) any building works (including geotechnical building works) the plans of which have not been approved by the Commissioner of Building Control under section 5 or 5A; or
 
-(b) any building works (including underground building works) for which there is no permit under section 6 in force,
+[Act 22 of 2012 wef 01/12/2012]
+
+(b) any building works (including geotechnical building works) for which there is no permit under section 6 in force,
+
+[Act 22 of 2012 wef 01/12/2012]
 
 shall be guilty of an offence and shall be liable on conviction —
 
@@ -1564,15 +1684,9 @@ and if the contravention continues after the conviction, the person shall be gui
 
 (3) Any developer of any building works and any qualified person, site supervisor or builder directly concerned with the building works who, in carrying out the building works deviates, or permits or authorises the building works to deviate, in any material way from any plans of the building works approved by the Commissioner of Building Control under this Part shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(4) Any person who, being required by or by virtue of this Act or the building regulations to make or produce to the Commissioner of Building Control any plan, declaration, certificate, report, record, notice or other document, or who, for the purpose of obtaining any licence, permit, waiver or approval from the Commissioner of Building Control under this Act or the building regulations or for the purpose of establishing any fact relevant to the administration of this Act or the building regulations —
+[47/2007 wef 15/02/2008]
 
-(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; or
-
-[Act 2 of 2012 wef 01/03/2012]
-
-(b) produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular, or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) [Deleted by Act 22 of 2012 wef 01/12/2012]
 
 ### Pecuniary penalty
 
@@ -1598,19 +1712,35 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) section 6A for any modification or waiver of the requirements of the building regulations in relation to any particular building works;
 
-(d) section 7A(3) for a waiver of the operation of section 7(1) in relation to any building works; or
+(d) section 7A(3) for a waiver of the operation of section 7(1) in relation to any building works;
 
-(e) section 15 for registration, or for the renewal of registration, as an accredited checker, a specialist accredited checker or an accredited checking organisation,
+[Act 22 of 2012 wef 01/12/2012]
+
+(e) section 15 for registration, or for the renewal of registration, as an accredited checker, a specialist accredited checker or an accredited checking organisation; or
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(f) section 22FG for registration, or for the renewal of registration, as an energy auditor,
+
+[Act 22 of 2012 wef 01/12/2012]
 
 is refused, or is granted by the Commissioner of Building Control subject to terms and conditions, the applicant may, if aggrieved by the decision of the Commissioner of Building Control, appeal to the Minister against the decision within 14 days after being served with the notice of the decision.
 
 (2) If the Commissioner of Building Control has made an order under section 17 in respect of an accredited checker, a specialist accredited checker or an accredited checking organisation, the accredited checker, specialist accredited checker or accredited checking organisation concerned may appeal to the Minister against the order within 14 days after being served with the notice of the order.
 
-(3) In any appeal under this section in relation to the conviction of an accredited checker, a specialist accredited checker or an accredited checking organisation for a criminal offence, the Minister on appeal from any order of the Commissioner of Building Control shall accept the conviction as final and conclusive.
+(2A) If the Commissioner of Building Control has cancelled or suspended the registration of an energy auditor under section 22FI, the energy auditor concerned may appeal to the Minister against the cancellation or suspension within 14 days after being served with the notice of the cancellation or suspension.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(3) In any appeal under this section in relation to the conviction of an accredited checker, a specialist accredited checker, an accredited checking organisation or an energy auditor for a criminal offence, the Minister on appeal from any order or decision of the Commissioner of Building Control shall accept the conviction as final and conclusive.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (4) Where an appeal is brought under this section from a decision of the Commissioner of Building Control, the Minister may, after giving the aggrieved appellant an opportunity to make representations in writing, dismiss or allow the appeal, unconditionally or subject to such conditions as he thinks fit.
 
 (5) The decision of the Minister in any appeal under this section shall be final.
+
+[47/2007 wef 15/02/2008]
 
 ## PART III
 
@@ -1776,9 +1906,293 @@ DISABILITY AND OTHER PERFORMANCE REQUIREMENTS FOR BUILDINGS
 
 [47/2007 wef 15/02/2008]
 
+## PART IIIB
+
+ENVIRONMENTAL SUSTAINABILITY MEASURES FOR EXISTING BUILDINGS
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Interpretation of this Part
+
+22FA\. In this Part, unless the context otherwise requires —
+
+“as-built score”, in relation to an existing building which has undergone a major energy-use change, means the Green Mark score awarded to that building upon the completion of the major energy-use change;
+
+“design score”, in relation to an existing building for which a major energy-use change is proposed, means the Green Mark score projected for that building upon the completion of the major energy-use change, assessed based on the design of the proposed major energy-use change;
+
+“energy auditor” means a person registered as an energy auditor under section 22FG;
+
+“existing building” means any building in respect of which a certificate of statutory completion or a temporary occupation permit is issued;
+
+“Green Mark score” means a numerical score to assess the environmental sustainability of a building, calculated using the prescribed scoring methodology;
+
+“major energy-use change”, in relation to an existing building, means —
+
+(a) the installation, substantial alteration or replacement of a prescribed cooling system of the building; or
+
+(b) such other change to the energy requirements of the building as may be prescribed;
+
+“mechanical engineer” means a professional engineer registered under the Professional Engineers Act (Cap. 253) in the branch of mechanical engineering who has in force a practising certificate issued under that Act;
+
+“minimum environmental sustainability standard”, in relation to any building, means the prescribed minimum standard of environmental sustainability applicable to that building, or to a building of that type or class, expressed in terms of a Green Mark score and other specified requirements;
+
+“prescribed building” means an existing building in any class or type of buildings for the time being prescribed for the purposes of this Part.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Submission of design score for building undergoing major energy-use change
+
+22FB\.—(1) No owner of any prescribed building shall carry out, or permit or authorise the carrying out of, any major energy-use change to that building, unless the owner has first —
+
+(a) appointed a mechanical engineer to assess the design score for the major energy-use change to the building;
+
+(b) submitted the design score assessed by the mechanical engineer appointed under paragraph (a) to the Commissioner of Building Control for approval, in the prescribed form and manner and accompanied by such documents and fee as may be prescribed; and
+
+(c) obtained the approval of the Commissioner of Building Control for the design score, which approval has not lapsed at the time of commencement of the major energy-use change.
+
+(2) Subject to subsection (5), the Commissioner of Building Control shall not approve the design score in relation to a prescribed building unless the design score meets the prevailing minimum environmental sustainability standard for that building or a building of that class or type.
+
+(3) Upon receiving the submission of a design score relating to a prescribed building for approval under subsection (1), the Commissioner of Building Control may direct the owner of the building in writing —
+
+(a) to comply with such requirements in relation to the major energy-use change as the Commissioner of Building Control may specify so that the design score meets the minimum environmental sustainability standard applicable to the building; and
+
+(b) to re-submit the design score for his approval within such period as may be specified in the direction.
+
+(4) If the direction given by the Commissioner of Building Control under subsection (3) is not complied with within the period specified in that direction, or such further period as may be extended by the Commissioner of Building Control, the application for approval of the design score shall, at the end of that period, be deemed to be disapproved by the Commissioner of Building Control.
+
+(5) The Commissioner of Building Control may, on the application of an owner of a prescribed building in any particular case, modify or waive any requirement in relation to the minimum environmental sustainability standard applicable to the building, subject to such conditions as the Commissioner of Building Control may impose.
+
+(6) The Commissioner of Building Control may approve the design score on the basis of a declaration by the mechanical engineer who assessed the score certifying the correctness of the design score.
+
+(7) A mechanical engineer appointed under subsection (1)(a) in relation to a prescribed building shall —
+
+(a) design the proposed major energy-use change to the building so that the design score meets the minimum environmental sustainability standard applicable to the building;
+
+(b) assess the design score for the major energy-use change to the building in the manner prescribed; and
+
+(c) provide to the owner of the building —
+
+(i) the design score and the documents on which the design score was assessed;
+
+(ii) a declaration as to whether the design score meets the minimum environmental sustainability standard applicable to the building; and
+
+(iii) such other documents as may be required by the Commissioner of Building Control.
+
+(8) Any owner of a prescribed building who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Any mechanical engineer who —
+
+(a) without reasonable excuse, contravenes subsection (7); or
+
+(b) furnishes any information or makes any statement in relation to the design score, or in any other document required under subsection (7)(c), which he knows or has reason to believe is false,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Deviation from approved design score
+
+22FC\. Where the design score in relation to any major energy-use change to a prescribed building has been approved by the Commissioner of Building Control under section 22FB and the owner of the building, in carrying out the major energy-use change, intends to depart or deviate from the design on which the approved design score was assessed, the mechanical engineer appointed under section 22FB(1)(a) —
+
+(a) shall ensure that the design score for the major energy-use change with such departure or deviation still meets the minimum environmental sustainability standard, subject to any modification or waiver under section 22FB(5); but
+
+(b) need not re-submit the design score to the Commissioner of Building Control for approval.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Lapsing or revocation of approval of design score
+
+22FD\.—(1) Unless earlier revoked under subsection (2), any approval granted under section 22FB in respect of a design score for a major energy-use change shall lapse if no works in respect of that major energy-use change have started within the prescribed period after the approval is granted.
+
+(2) The Commissioner of Building Control may, at any time, revoke any approval granted in respect of a design score if he is satisfied that any information or document submitted to him in connection with the design score is false in a material particular.
+
+(3) Where the approval of a design score is revoked under subsection (2), the owner of the prescribed building shall not carry out or continue the major energy-use change to which the revoked approval relates unless he has first re-submitted the design score to the Commissioner of Building Control and obtained the approval of the Commissioner of Building Control therefor.
+
+(4) Any owner of a prescribed building who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Completion of major energy-use change and submission of as-built score
+
+22FE\.—(1) The owner of a prescribed building shall, not later than 3 years after the approval of the design score for a major energy-use change to that building by the Commissioner of Building Control —
+
+(a) complete the major energy-use change in accordance with the design score approved by the Commissioner of Building Control, subject to any departure or deviation which complies with section 22FC; and
+
+(b) submit to the Commissioner of Building Control in such form and manner and within such time as may be prescribed —
+
+(i) the as-built score of the building assessed by the mechanical engineer appointed under section 22FB(1)(a) or, if that mechanical engineer has vacated his appointment, another mechanical engineer appointed under subsection (5), for approval by the Commissioner of Building Control;
+
+(ii) a declaration by the mechanical engineer who assessed the as-built score certifying the correctness of the as-built score; and
+
+(iii) such other documents as may be prescribed.
+
+(2) The Commissioner of Building Control may approve the as-built score on the basis of a declaration by the mechanical engineer who assessed the score certifying the correctness of the as-built score.
+
+(3) A mechanical engineer appointed to assess the as-built score in relation to a prescribed building shall, within 7 days after the completion of the major energy-use change —
+
+(a) assess the as-built score of the building in the manner prescribed; and
+
+(b) provide to the owner of the building —
+
+(i) the as-built score and the documents on which the as-built score was assessed;
+
+(ii) a declaration as to whether the as-built score meets the minimum environmental sustainability standard applicable to the building;
+
+(iii) such document certifying the completion of the major energy-use change as the Commissioner of Building Control may specify; and
+
+(iv) such other documents as may be required by the Commissioner of Building Control.
+
+(4) If the owner of the prescribed building ceases to be the owner thereof before the submission of the as-built score under subsection (1)(b), he shall notify the Commissioner of Building Control of that fact not later than 7 days after he ceases to be the owner thereof.
+
+(5) If any mechanical engineer appointed under section 22FB(1)(a) in relation to a prescribed building vacates his appointment before the submission of the as-built score under subsection (1)(b) for that building, the owner of the building shall —
+
+(a) appoint another mechanical engineer to assess the as-built score; and
+
+(b) within 7 days thereafter, notify the Commissioner of Building Control of that substitute appointment.
+
+(6) Any owner of a prescribed building who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(7) Any owner of a prescribed building who, without reasonable excuse, contravenes subsection (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(8) Any mechanical engineer who —
+
+(a) without reasonable excuse, contravenes subsection (3); or
+
+(b) furnishes any information or makes any statement in relation to the as-built score, or in any other document required under subsection (3)(b), which he knows or has reason to believe is false,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Periodic audit of energy efficiency of building cooling system
+
+22FF\.—(1) Subject to subsection (2), the Commissioner of Building Control may, by notice served on the owner of any of the following buildings, require an audit to be carried out as to whether the cooling system of the building meets the prescribed energy efficiency standard applicable to such cooling system (referred to in this Part as an energy audit):
+
+(a) any building in respect of which an application for planning permission is submitted to the competent authority under the Planning Act (Cap. 232) on or after 1st December 2010;
+
+(b) any prescribed building which has undergone a major energy-use change under this Part.
+
+(2) A notice under subsection (1) may be issued —
+
+(a) to the owner of any building in respect of which the application for planning permission is submitted to the competent authority under the Planning Act on or after 1st December 2010 —
+
+(i) at any time after the temporary occupation permit or, if no temporary occupation permit is issued, the certificate of statutory completion is issued in respect of that building; and
+
+(ii) thereafter at intervals of not less than 3 years after the date of the last notice under this section; and
+
+(b) to the owner of any prescribed building which has undergone a major energy-use change —
+
+(i) at any time on or after the third anniversary of the date of the approval of the as-built score referred to in section 22FE(1)(b)(i); and
+
+(ii) thereafter at intervals of not less than 3 years after the date of the last notice under this section.
+
+(3) The owner of a building on whom a notice is served under subsection (1) shall, within such period as may be specified in the notice under that subsection or such longer period as the Commissioner of Building Control may allow in any particular case —
+
+(a) appoint a person referred to in section 22FG to carry out the energy audit;
+
+(b) if the cooling system does not meet the applicable prescribed energy efficiency standard, carry out such maintenance work or take such other measures in relation to the cooling system to ensure that it meets the applicable prescribed energy efficiency standard; and
+
+(c) submit the report of the energy audit to the Commissioner of Building Control in such form and manner as the Commissioner of Building Control may specify.
+
+(4) Any owner of a building who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+(5) The Commissioner of Building Control may, on the application of an owner of a building in any particular case, modify any requirement in relation to the prescribed energy efficiency standard for the cooling system of the building, subject to such conditions as the Commissioner of Building Control may impose.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Persons who may carry out energy audit
+
+22FG\.—(1) The following persons may be appointed to carry out an energy audit under section 22FF:
+
+(a) a mechanical engineer;
+
+(b) an energy auditor registered under this section;
+
+(c) such other class or classes of persons as may be prescribed.
+
+(2) An application to be registered as an energy auditor shall be made to the Commissioner of Building Control in the prescribed manner and shall be accompanied by such other documents or information and such application fee as may be prescribed.
+
+(3) An individual shall be eligible to be registered as an energy auditor if he has the prescribed qualifications or experience in relation to assessing the energy efficiency of cooling systems of buildings.
+
+(4) The Commissioner of Building Control shall consider the application and may register the applicant if he is satisfied that the applicant has the requisite qualifications and is capable of carrying out the duties of an energy auditor under this Act and the building regulations.
+
+(5) The registration of an energy auditor shall be valid for such period as may be prescribed, being at least one year.
+
+(6) The Commissioner of Building Control may appoint a committee of persons to assist him in considering applications for registration, or renewal of registration, as an energy auditor.
+
+(7) The Commissioner of Building Control shall keep a register of energy auditors in which shall be entered the names of all persons registered under this section as energy auditors.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Duties of person carrying out energy audit
+
+22FH\.—(1) Any person appointed to carry out an energy audit under section 22FF of a cooling system of a building —
+
+(a) shall carry out the energy audit in the prescribed manner;
+
+(b) may, if the cooling system of the building fails to attain the prescribed energy efficiency standard applicable to such a cooling system, recommend to the owner of the building such measures as may be necessary to attain the prescribed energy efficiency standard; and
+
+(c) shall, on completion of the energy audit of the cooling system (including of any maintenance work or other measures taken to meet the prescribed energy efficiency standard), prepare and sign a report of the result of the energy audit in such form as the Commissioner of Building Control may specify.
+
+(2) Any person appointed to carry out an energy audit who —
+
+(a) without reasonable excuse, contravenes subsection (1); or
+
+(b) furnishes any information or makes any statement in relation to the energy audit report required under subsection (1)(c), which he knows or has reason to believe is false,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Cancellation or suspension of registration of energy auditor
+
+22FI\.—(1) Subject to section 22, the Commissioner of Building Control may cancel, or suspend for a period not exceeding 6 months, the registration of an energy auditor if the Commissioner of Building Control is satisfied that —
+
+(a) the person obtained his registration or renewal of registration by fraud or misrepresentation;
+
+(b) the person has been convicted of an offence which, in the opinion of the Commissioner of Building Control, renders him unfit to remain registered as an energy auditor;
+
+(c) the person is no longer capable of carrying out the duties of an energy auditor;
+
+(d) the person no longer satisfies the prescribed requirements by virtue of which he was so registered; or
+
+(e) for prescribed reasons, the person is no longer suitable to be registered as an energy auditor.
+
+(2) The Commissioner of Building Control shall not cancel or suspend the registration of any energy auditor under subsection (1) without giving the energy auditor an opportunity to be heard.
+
+(3) Where the Commissioner of Building Control cancels or suspends the registration of an energy auditor under this section, the Commissioner of Building Control shall remove the name and particulars of that person from the register of energy auditors.
+
+(4) If the registration of an energy auditor is suspended under this section for any period, then at the end of the period of suspension, his name and particulars shall be reinstated in the register of energy auditors.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Power to obtain energy consumption and other information
+
+22FJ\.—(1) For the purpose of monitoring the energy efficiency and environmental sustainability of any building, the Commissioner of Building Control may do all or any of the following:
+
+(a) by a notice in writing to the owner of the building require the owner to furnish to him all or any of the following information in respect of the building:
+
+(i) the electricity consumption by users of the building as a whole or any part of the building or by different users in the building;
+
+(ii) the consumption of other types of energy by users of the building as a whole or any part of the building or by different users in the building;
+
+(iii) the consumption of chilled water supplied to the cooling system of the building;
+
+(iv) such other information relating to the building, the users of the building and their energy usage as the Commissioner of Building Control may specify in the notice;
+
+(b) by a notice in writing to a supplier of electricity, gas or any other type of energy (referred to in this section as an energy supplier), require the energy supplier to furnish to the Commissioner of Building Control information in the possession of the energy supplier relating to the energy consumption of any building or buildings specified in the notice;
+
+(c) by a notice in writing to a supplier of any cooling system to buildings, require that person to furnish to the Commissioner of Building Control information specified in the notice relating to the supply of cooling systems by that person to any building or buildings.
+
+(2) The person to whom a notice is directed under subsection (1) shall provide the data required in the form and manner and within the time specified in the notice.
+
+(3) Any person who, without reasonable excuse, fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 22 of 2012 wef 01/12/2012]
+
 ## PART IV
 
-Dangerous buildings and occurrences
+DANGEROUS BUILDINGS AND OCCURRENCES
 
 ### Interpretation of this Part
 
@@ -1796,13 +2210,19 @@ Dangerous buildings and occurrences
 
 (i) the building in respect of which the building works are or have been carried out; or
 
-(ii) any building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, or any part of any such building, street or land; or
+(ii) any building, street, slope or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, or any part of any such building, street or land; or
 
-(c) will render, or will be likely to render, or may have rendered the building in respect of which the building works are or have been carried out or any building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, or any part of any such building, street or land, so unstable or so dangerous that it will collapse or be likely to collapse (whether totally or partially),
+[Act 22 of 2012 wef 01/12/2012]
+
+(c) will render, or will be likely to render, or may have rendered the building in respect of which the building works are or have been carried out or any building, street, slope or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, or any part of any such building, street or land, so unstable or so dangerous that it will collapse or be likely to collapse (whether totally or partially),
+
+[Act 22 of 2012 wef 01/12/2012]
 
 the Commissioner of Building Control may do either or both of the following:
 
-(A) engage a qualified person or a specialist to carry out such investigations and tests as may be necessary and to advise the Commissioner of Building Control on all matters relating to the safety of the building in respect of which the building works are or have been carried out or the building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, as the case may be, the reasons for its collapse (if applicable) and the measures that should be taken to obviate any possible danger that might arise from the condition of the building;
+(A) engage a qualified person or a specialist to carry out such investigations and tests as may be necessary and to advise the Commissioner of Building Control on all matters relating to the safety of the building in respect of which the building works are or have been carried out or the building, street, slope or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, as the case may be, the reasons for its collapse (if applicable) and the measures that should be taken to obviate any possible danger that might arise from the condition of the building;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (B) make all or any of the orders in subsection (2).
 
@@ -1814,7 +2234,9 @@ the Commissioner of Building Control may do either or both of the following:
 
 (i) the building in respect of which the building works are or have been carried out;
 
-(ii) the building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works;
+(ii) the building, street, slope or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (c) to execute or cause to be executed (at the developer’s cost) such building works as the Commissioner of Building Control may specify (which may include retrofitting under Part III); or
 
@@ -1862,7 +2284,9 @@ and if the failure to comply continues after the conviction, the person shall be
 
 24\.—(1) If the Commissioner of Building Control is of the opinion that a building is in such a condition, or is used to carry such loads, as to be or likely to be dangerous, the Commissioner of Building Control may, for the purpose of obviating any danger, order the owner of the building to do all or any of the following:
 
-(a) to carry out or cause to be carried out (at the owner’s cost) such inspection of the building as the Commissioner of Building Control may specify;
+(a) to appoint an appropriate qualified person to carry out (at the owner’s cost) such inspection of the building as the Commissioner of Building Control may specify;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (b) to execute or cause to be executed (at the owner’s cost) such building works as the Commissioner of Building Control may specify (which may include retrofitting under Part III);
 
@@ -1900,33 +2324,103 @@ and if the failure to comply continues after the conviction, the person shall be
 
 [47/2007 wef 15/02/2008]
 
+### Dangerous slopes
+
+24A\.—(1) If the Commissioner of Building Control is of the opinion that any natural, formed or man-made land or slope which abuts or is in close proximity to any building is in such a condition as to be dangerous or likely to be dangerous to the building, the Commissioner of Building Control may, for the purpose of obviating any danger, order the owner of the land or slope to do all or any of the following:
+
+(a) to appoint an appropriate qualified person to carry out (at the owner’s cost) such investigation in relation to the land or slope as the Commissioner of Building Control may specify;
+
+(b) to submit to the Commissioner of Building Control the findings of the investigation by the qualified person under paragraph (a);
+
+(c) to execute or cause to be executed (at the owner’s cost) such building works or other works as the Commissioner of Building Control may specify to obviate the danger.
+
+(2) The Commissioner of Building Control may, in lieu of or in addition to any order under subsection (1), make a closure order in relation to either or both of the following:
+
+(a) the building that is endangered by the land or slope;
+
+(b) the land or slope.
+
+(3) Before exercising any of his powers under subsection (2), the Commissioner of Building Control shall, if it is reasonably practicable to do so, give notice of his intention to make the closure order.
+
+(4) Any person to whom a closure order under subsection (2) is given shall, while the order is in force, display a copy of the order in a way that it can be easily read by people —
+
+(a) at every entrance to any building to which the order relates; and
+
+(b) on any hoarding, fence, cordon, barricade or other physical barrier to entry upon any land or slope to which the order relates.
+
+(5) If the person to whom an order in subsection (1) is given fails to comply with the order within the time specified, the Commissioner of Building Control may —
+
+(a) execute the order in such manner as he thinks fit; and
+
+(b) recover in a court of competent jurisdiction as a debt due to him all expenses reasonably incurred by him in doing so from the person in default.
+
+(6) Without prejudice to the right of the Commissioner of Building Control to exercise his powers under subsection (5), any person who, without reasonable excuse, fails to comply with any order in subsection (1) that the person is given shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in respect of a continuing failure to comply, to an additional fine not exceeding $2,500 for each day or part thereof the person fails to comply with the order,
+
+and if the failure to comply continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $5,000 for each day or part thereof the person fails to comply with the order after conviction.
+
+[Act 22 of 2012 wef 01/12/2012]
+
 ### Closure orders
 
-25\.—(1) Where the Commissioner of Building Control makes any closure order, the order shall be served on the owner and every occupier of the building.
+25\.—(1) Where the Commissioner of Building Control makes any closure order, the order shall be served on the owner and every occupier of the building or the land or slope, as the case may be.
 
 [4/99]
 
-(2) A closure order may require the owner or occupier of the building to which the order relates to cease to inhabit the building and to remove all goods, furniture and effects from the building before the order comes into force.
+[47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(2) A closure order in respect of a building may require the owner or occupier of the building to which the order relates to cease to inhabit the building and to remove all goods, furniture and effects from the building before the order comes into force.
 
 [2/91]
 
-(3) Except with the permission in writing of the Commissioner of Building Control, no person, other than a public officer in the course of his duty, shall enter or be in a building at any time while a closure order is in force in respect of the building.
+[Act 22 of 2012 wef 01/12/2012]
+
+(2A) A closure order in respect of land or a slope may do one or more of the following:
+
+(a) require the owner or occupier of the land or slope to which the order relates to secure the area within or around the land or slope to prevent access into the area;
+
+(b) specify the means by which the area is to be secured, including the installation of any hoarding, fence, cordon, barricade or other physical barrier to entry;
+
+(c) require the installation of safety features within or around the land or slope, including adequate lighting and warning signs or lights.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(3) Except with the permission in writing of the Commissioner of Building Control, no person, other than a public officer in the course of his duty, shall —
+
+(a) enter or be in a building at any time while a closure order is in force in respect of the building; or
+
+(b) enter or be on any land or slope at any time while a closure order is in force in respect of the land or slope.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+[47/2007 wef 15/02/2008]
 
 (3A) Any person who contravenes or fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
 
-(4) Where the Commissioner of Building Control thinks fit, he may, subject to such conditions as he may impose, by notice in writing permit any person to enter and be in a building while a closure order is in force in respect of the building.
+(4) Where the Commissioner of Building Control thinks fit, he may, subject to such conditions as he may impose, by notice in writing permit any person to enter and be in a building or on any land or slope while a closure order is in force in respect of the building or land or slope, as the case may be.
 
 [4/99]
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (5) Any permission granted under subsection (4) may be cancelled by the Commissioner of Building Control at any time and for any reason.
 
 [4/99]
 
-(6) Where a closure order is in force in respect of a building —
+(6) Where a closure order is in force in respect of a building or any land or slope —
 
-(a) any police officer may, with such force or assistance as may be necessary, remove therefrom any person who is in the building in contravention of subsection (3);
+(a) any police officer may, with such force or assistance as may be necessary, remove therefrom any person who is in the building or on the land or slope in contravention of subsection (3);
 
-(b) the Commissioner of Building Control may seal or cause to be sealed, all or any of the entrances to or exits from the building; and
+[Act 22 of 2012 wef 01/12/2012]
+
+(b) the Commissioner of Building Control may seal or cause to be sealed, all or any of the entrances to or exits from the building or the means of access to or egress from the land or slope, as the case may be; and
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (c) the Commissioner of Building Control or any police officer may remove all goods, furniture and effects from the building.
 
@@ -1936,7 +2430,13 @@ and if the failure to comply continues after the conviction, the person shall be
 
 [4/99]
 
-(8) Every notice of expiry of a closure order shall specify the building to which it relates and the date upon which the order expires.
+(7A) A closure order shall remain in force in respect of any land or slope until the Commissioner of Building Control has served a notice of expiry of the order on the owner of the land or slope.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(8) Every notice of expiry of a closure order shall specify the building or the land or slope to which it relates and the date upon which the order expires.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 ### Investigations into dangerous occurrences
 
@@ -1954,13 +2454,23 @@ and if the failure to comply continues after the conviction, the person shall be
 
 (5) In this section, “dangerous occurrence” means —
 
-(a) the collapse or structural failure of any building (completed or otherwise); or
+(a) the collapse or structural failure of any building (completed or otherwise);
 
-(b) any structural distress that is likely to lead to the instability of any building (completed or otherwise),
+[Act 22 of 2012 wef 01/12/2012]
 
-whether or not the collapse, structural failure or structural distress results in any death, bodily injury or injury to health.
+(b) any structural distress that is likely to lead to the instability of any building (completed or otherwise); or
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(c) the instability or failure of any land or slope which abuts or is in close proximity to a building,
+
+[Act 22 of 2012 wef 01/12/2012]
+
+whether or not the collapse, structural failure or structural distress of the building or the instability or failure of the land or slope results in any death, bodily injury or injury to health.
 
 [47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
 
 ## PART V
 
@@ -2152,6 +2662,8 @@ LICENSING OF BUILDERS
 
 (d) such other specialist building works as the Minister may, by notification in theGazette, declare to be minor specialist building works;
 
+[30/2008 wef 17/12/2008]
+
 “partnership” includes a limited liability partnership;
 
 “prescribed” means prescribed in the regulations made under section 29L.
@@ -2162,11 +2674,15 @@ LICENSING OF BUILDERS
 
 (b) a person carries on the business of a specialist builder if the person carries out, or undertakes to carry out, (whether exclusively or in conjunction with any other business) any specialist building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration, or reward other than wages;
 
-(c) a person carries out general building works or specialist building works whether that person carries it out personally, or directly or indirectly causes it to be carried out;
+(c) a person carries out general building works or specialist building works whether that person carries it out personally, or directly or indirectly causes it to be carried out; and
 
-(d) a person shall be deemed to carry on the business of a general builder or specialist builder if he carries out general building works or specialist building works, as the case may be, on or in respect of a building for himself; and
+[Act 22 of 2012 wef 01/12/2012]
 
-(e) a person undertakes to carry out general building works or specialist building works if that person enters into a contract to carry it out or submits a tender or makes an offer to carry it out.
+(d) a person shall be deemed to carry on the business of a general builder or specialist builder if he carries out general building works or specialist building works, as the case may be, on or in respect of a building for himself.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(e) [Deleted by Act 22 of 2012 wef 01/12/2012]
 
 (3) For the avoidance of doubt, nothing in this Part shall prohibit or prevent —
 
@@ -2175,6 +2691,8 @@ LICENSING OF BUILDERS
 (b) any site supervisor or team of site supervisors appointed under section 10 from carrying on any activity solely for the purpose of that section; or
 
 (c) a qualified person, or any person under the direction or supervision of such a qualified person, from carrying on any activity within the practice of architecture or professional engineering which the qualified person is authorised to carry on under any written law other than this Act.
+
+[47/2007 wef 16/12/2008]
 
 ### Prohibition against unlicensed builders
 
@@ -2302,6 +2820,8 @@ including —
 
 (ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience.
 
+[30/2008 wef 17/02/2008]
+
 (2) Where a natural person applies for a general builder’s licence in partnership with another natural person or other natural persons, the partnership shall, subject to subsections (4) and (5), be eligible to be granted such a licence if, and only if —
 
 (a) at least one partner satisfies the Commissioner that he meets the requirements of subsection (1);
@@ -2320,6 +2840,8 @@ including —
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
 
+[30/2008 wef 17/02/2008]
+
 (3) Subject to subsection (4), a corporation which applies for a general builder’s licence, shall be eligible to be granted such a licence if, and only if —
 
 (a) it has paid the prescribed fees for such licence;
@@ -2333,6 +2855,10 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 (ii) not less than $300,000 (or its equivalent in a foreign currency) where it is applying for a Class 1 general builder’s licence;
 
 (d) it satisfies the Commissioner that it is duly authorised to carry on the business of a general builder;
+
+(da) the corporation is accredited or registered with a prescribed professional or technical body or organisation;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (e) it further satisfies the Commissioner that the management of the business of the corporation in so far it relates to general building works in Singapore shall at all times be under the charge and direction of a director of the corporation, or a member of the board of management of the corporation, or an employee (being a person employed in such a manner and with such similar duties and responsibilities of a director or member of its board of management) who —
 
@@ -2348,9 +2874,13 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
 
+[30/2008 wef 17/02/2008]
+
 (4) Notwithstanding subsection (1), (2) or (3), the Commissioner may require an applicant under that subsection to satisfy him that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy him.
 
 (5) No natural person and no partnership shall be eligible for a Class 1 general builder’s licence.
+
+[47/2007 wef 16/12/2008]
 
 ### Who may be licensed as specialist builder
 
@@ -2372,6 +2902,8 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 
 (ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience.
 
+[30/2008 wef 17/02/2008]
+
 (2) Where a natural person applies in partnership with another natural person or other natural persons for a specialist builder’s licence for any class of specialist building works, the partnership shall, subject to subsection (4), be eligible to be granted such a specialist builder’s licence if, and only if —
 
 (a) at least one partner satisfies the Commissioner that he meets the requirements of subsection (1);
@@ -2390,6 +2922,8 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
 
+[30/2008 wef 17/02/2008]
+
 (3) Subject to subsection (4), a corporation which applies for a specialist builder’s licence for any class of specialist building works, shall be eligible to be granted such a licence if, and only if —
 
 (a) it has paid the prescribed fees for such licence;
@@ -2399,6 +2933,10 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 (c) the paid-up capital of the corporation is not less than $25,000 (or its equivalent in a foreign currency);
 
 (d) it satisfies the Commissioner that it is duly authorised to carry on the business of a specialist builder;
+
+(da) the corporation is accredited or registered with a prescribed professional or technical body or organisation;
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (e) it further satisfies the Commissioner that the management of the business of the corporation in so far it relates to specialist building works of that class in Singapore shall at all times be under the charge and direction of a director of the corporation, or a member of the board of management of the corporation, or an employee (being a person employed in such a manner and with such similar duties and responsibilities of a director or member of its board of management) who —
 
@@ -2414,7 +2952,11 @@ who satisfies the Commissioner that he has the prescribed qualifications and pre
 
 who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
 
+[30/2008 wef 17/02/2008]
+
 (4) Notwithstanding subsection (1), (2) or (3), the Commissioner may require an applicant under that subsection to satisfy him that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy him.
+
+[47/2007 wef 16/12/2008]
 
 ### Conditions of builder’s licence relating to construction personnel
 
@@ -2628,35 +3170,45 @@ the person whose licence is revoked or suspended, on whom such a penalty, direct
 
 ## PART VI
 
-Miscellaneous
+MISCELLANEOUS
 
 ### Exemption
 
-30\. The Minister may by order, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premises or building or any building works from all or any of the provisions of this Act or the building regulations.
+30\. The Minister may by order, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premises or building or any building works from all or any of the provisions of this Act or any subsidiary legislation made thereunder.
 
 [31
 
+[Act 22 of 2012 wef 01/12/2012]
+
+[47/2007 wef 15/02/2008]
+
 ### Offences by bodies corporate, etc.
 
-31\.—(1) Where an offence under this Act or the building regulations has been committed by a body corporate, every officer of the body corporate shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless the officer proves that —
+31\.—(1) Where an offence under this Act or any subsidiary legislation made thereunder has been committed by a body corporate, every officer of the body corporate shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless the officer proves that —
 
 (a) the offence was committed without the consent or connivance of the officer; and
 
 (b) the offence was not attributable to any neglect on his part.
 
+[Act 22 of 2012 wef 01/12/2012]
+
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(3) Where an offence under this Act or the building regulations has been committed by a partnership, each partner of the partnership shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless the partner proves that —
+(3) Where an offence under this Act or any subsidiary legislation made thereunder has been committed by a partnership, each partner of the partnership shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless the partner proves that —
 
 (a) the offence was committed without the consent or connivance of the partner; and
 
 (b) the offence was not attributable to any neglect on his part.
 
-(4) Where an offence under this Act or the building regulations has been committed by an unincorporated association (other than a partnership), every officer of the unincorporated association and every member of its governing body shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless the officer or member, as the case may be, proves that —
+[Act 22 of 2012 wef 01/12/2012]
+
+(4) Where an offence under this Act or any subsidiary legislation made thereunder has been committed by an unincorporated association (other than a partnership), every officer of the unincorporated association and every member of its governing body shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless the officer or member, as the case may be, proves that —
 
 (a) the offence was committed without the consent or connivance of the officer of the unincorporated association or member of its governing body, as the case may be; and
 
 (b) the offence was not attributable to any neglect on the part of that officer or member.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (5) In this section —
 
@@ -2700,17 +3252,31 @@ Miscellaneous
 
 33\.—(1) The Commissioner of Building Control or any person appointed by him for this purpose may enter any premises at all reasonable hours for the purpose of —
 
-(a) ascertaining whether there is, or has been, on or in connection with the premises, a contravention of this Act or the building regulations;
+(a) ascertaining whether there is, or has been, on or in connection with the premises, a contravention of this Act or any subsidiary legislation made thereunder;
 
-(b) ascertaining whether circumstances exist that would authorise the Commissioner of Building Control to take any action or execute any work under this Act or the building regulations;
+[Act 22 of 2012 wef 01/12/2012]
 
-(c) taking any action or carrying out any work, authorised or required by this Act or the building regulations; or
+(b) ascertaining whether circumstances exist that would authorise the Commissioner of Building Control or any person appointed by him for this purpose to take any action or execute any work under this Act or any subsidiary legislation made thereunder;
+
+[Act 22 of 2012 wef 01/12/2012]
+
+[47/2007 wef 15/02/2008]
+
+(c) taking any action or carrying out any work, authorised or required by this Act or any subsidiary legislation made thereunder; or
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(4) or 11(1)(c), respectively.
+
+[47/2007 wef 15/02/2008]
+
+[18/2003 wef 01/01/2004]
 
 (1A) For the purposes of subsection (1), the Commissioner of Building Control or a person appointed under subsection (1) may take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
 
 [4/99]
+
+[47/2007 wef 15/02/2008]
 
 (2) The results of any analysis of a sample of building materials taken under subsection (1A) shall not be admissible as evidence in any proceedings under this Act or the building regulations unless the samples were taken in the prescribed manner.
 
@@ -2719,6 +3285,8 @@ Miscellaneous
 (4) For the purposes of any inspection under subsection (1)(d), the qualified person or builder concerned shall afford the Commissioner of Building Control or a person appointed under subsection (1) access to and shall produce the documents, books or records and shall give such information and facilities as may be required by the Commissioner of Building Control or a person appointed under subsection (1).
 
 [4/99]
+
+[47/2007 wef 15/02/2008]
 
 (4A) Any qualified person or builder, as the case may be, who contravenes or fails to comply with subsection (4) shall be guilty of an offence.
 
@@ -2731,6 +3299,8 @@ Miscellaneous
 [34
 
 [4/99]
+
+[47/2007 wef 15/02/2008]
 
 ### Presumptions and defences
 
@@ -2852,23 +3422,57 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Service of documents
 
-42\.—(1) Any notice, order or document required or authorised to be served under this Act shall be deemed to be sufficiently served —
+42\.—(1) Any notice, order or document required or authorised to be served under this Act (including any subsidiary legislation made thereunder) shall be deemed to be sufficiently served —
 
-(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of abode of the person on whom the notice is to be served;
+(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of abode of the person on whom the notice, order or document is to be served;
 
-(b) by leaving it at the usual or last known place of abode or business of the person on whom the notice is to be served in a cover addressed to that person or by posting it upon a conspicuous part of those premises;
+[Act 22 of 2012 wef 01/12/2012]
 
-(c) by sending it by registered post addressed to the person on whom the notice is to be served at his usual or last known place of abode or business; or
+(b) by leaving it at the usual or last known place of abode or business of the person on whom the notice, order or document is to be served in a cover addressed to that person or by posting it upon a conspicuous part of those premises;
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(c) by sending it by registered post addressed to the person on whom the notice, order or document is to be served at his usual or last known place of abode or business;
 
 [2/91]
 
+[Act 22 of 2012 wef 01/12/2012]
+
+(ca) by sending it by facsimile transmission to the fax transmission number operated at the usual or last known address of the place of residence or business of the individual, or the last fax number given to the Commissioner of Building Control by the individual as the facsimile transmission number for the service of documents on the individual; or
+
+[Act 22 of 2012 wef 01/12/2012]
+
 (d) in the case of an incorporated company, a partnership or a body of persons —
 
-(i) by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business; or
+(i) by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business;
 
-(ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.
+[Act 22 of 2012 wef 01/12/2012]
 
 [47/2007 wef 15/02/2008]
+
+(ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business; or
+
+[47/2007 wef 15/02/2008]
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the registered office or principal place of business of the company, partnership or body of persons.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(1A) Any notice or document (other than an order) required or authorised to be served under this Act (including any subsidiary legislation made thereunder) shall, in addition to any mode of service under subsection (1), be deemed to be sufficiently served —
+
+(a) by sending it by ordinary post addressed to the person on whom the notice or document is to be served at his usual or last known place of abode or business;
+
+(b) by electronic communication, by sending an electronic communication of the notice or document to the last email address given to the Commissioner of Building Control by the individual as the email address for the service of documents on the individual; or
+
+(c) in the case of an incorporated company, a partnership or a body of persons —
+
+(i) by sending it by ordinary post addressed to the company, partnership or body of persons at its registered office or principal place of business; or
+
+(ii) by electronic communication, by sending an electronic communication of the notice or document to the last email address given to the Commissioner of Building Control by the company, partnership or body of persons as the email address for the service of documents on it.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (2) Any notice, order or document required or authorised to be served under this Act on the owner or occupier of any premises or building shall also be deemed to be sufficiently served by delivering a copy thereof personally to some adult person on the premises or building or, if there is no such person to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises or building.
 
@@ -2876,15 +3480,39 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (3) Any notice, order or document required or authorised by this Act to be served on the owner or the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
 
-(4) Any notice, order or document to be issued by the Commissioner of Building Control under this Act or the building regulations may be issued in such form as the Commissioner of Building Control may determine and every such notice, order or document shall be valid if the signature of the Commissioner of Building Control or any officer authorised under this Act is duly printed or written thereon.
+(4) Any notice, order or document to be issued by the Commissioner of Building Control under this Act or any subsidiary legislation made thereunder may be issued in such form as the Commissioner of Building Control may determine and every such notice, order or document shall be valid if the signature of the Commissioner of Building Control or any officer authorised under this Act is duly printed or written thereon.
 
 [18/95; 4/99]
 
-(5) Any notice, order or document sent by registered post to any person in accordance with subsection (1)shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered and, in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
+[Act 22 of 2012 wef 01/12/2012]
 
-[47/2007 wef 15/02/2008]
+(5) Where any notice, order or other document to be served on any person is —
 
-[43
+(a) sent by a facsimile transmission to the fax transmission number operated at the last known place of residence or business or registered office or principal place of business in accordance with subsection (1), it shall be deemed to be duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending facsimile machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal place of business, as the case may be;
+
+(b) sent by registered post to any person in accordance with subsection (1), it shall be deemed to be duly served on the person at the time when it would, in the ordinary course of post, be delivered, whether or not it is returned undelivered, and in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post;
+
+(c) sent by ordinary post to any person in accordance with subsection (1A), it shall be deemed to be duly served on the person to whom it is addressed on the day succeeding the day on which it would, in the ordinary course of post, be delivered; and
+
+(d) sent by electronic communication to an email address in accordance with subsection (1A), it shall be deemed to be duly served on the person to whom it is addressed at the time of entering the information system addressed to the email address.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(6) Service of any notice or document under this Act on a person by electronic communication may be effected only if the person gives as part of his or its address for service an email address.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(7) This section shall not apply to notices, orders or documents to be served in proceedings in court.
+
+[Act 22 of 2012 wef 01/12/2012]
+
+### Inaccuracies in notices, etc.
+
+42A\.—(1) No misnomer or inaccurate description of any person, premises, building or building works or any other thing named or described in any notice or order issued or served under or for the purposes of this Act or any subsidiary legislation made thereunder shall render invalid the notice or order or affect the operation of this Act or its subsidiary legislation if the person, premises, building or building works or other thing named or described in the notice or order is so designated or described as to be identifiable.
+
+(2) No proceedings taken under or by virtue of this Act or any subsidiary legislation made thereunder shall be rendered invalid merely by reason of want of form, which otherwise would be valid.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 ### Furnishing of information
 
@@ -2896,13 +3524,27 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 [44
 
+### Furnishing documents false in a material particular
+
+43A\. Any person who, being required by or by virtue of this Act or any subsidiary legislation made thereunder to make or produce to the Commissioner of Building Control any plan, declaration, certificate, report, record, notice or other document, or who, for the purpose of obtaining any licence, permit, waiver or approval from the Commissioner of Building Control under this Act or its subsidiary legislation or for the purpose of establishing any fact relevant to the administration of this Act or its subsidiary legislation —
+
+(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; or
+
+(b) produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular, or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 22 of 2012 wef 01/12/2012]
+
 ### Powers of arrest
 
-44\.—(1) A police officer may arrest without warrant any person who has committed, or whom he reasonably suspects to have committed, an offence under this Act or the building regulations —
+44\.—(1) A police officer may arrest without warrant any person who has committed, or whom he reasonably suspects to have committed, an offence under this Act or any subsidiary legislation made thereunder —
 
 (a) if the person declines to give his name and address; or
 
 (b) if there is reason to doubt the accuracy of the name and address, if given.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained except that no person so arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
@@ -2910,15 +3552,19 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Evidence
 
-45\.—(1) Subject to this section, the contents of any document prepared, issued or served under, by virtue of or for the purposes of this Act or the building regulations shall until the contrary is proved be presumed to be correct.
+45\.—(1) Subject to this section, the contents of any document prepared, issued or served under, by virtue of or for the purposes of this Act or any subsidiary legislation made thereunder shall until the contrary is proved be presumed to be correct.
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (1A) The production of any document purporting to contain any apportionment made under section 37(2) shall, without any other evidence, be received as prima facie proof of the making and validity of the apportionment mentioned therein.
 
 (2) In any proceedings under this Act or the building regulations, a certificate of analysis under section 33 purporting to be signed by an analyst shall, on its production by the prosecution without proof of the signature of the analyst, be sufficient evidence of the facts stated therein unless the defendant requires the analyst to be called as a witness, in which case he shall give notice thereof to the prosecution not less than 3 clear days before the day fixed for the hearing of the summons.
 
-(3) All records and other documents required by this Act or the building regulations to be kept by the Commissioner of Building Control shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by that officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.
+(3) All records and other documents required by this Act or any subsidiary legislation made thereunder to be kept by the Commissioner of Building Control shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by that officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.
 
 [4/99]
+
+[Act 22 of 2012 wef 01/12/2012]
 
 (4) Where any information in respect of any building or building works is provided by the Commissioner of Building Control by electronic means, the production of any document under the hand of a public officer responsible for providing such information purporting to be a hard-copy transcript of all or any such information shall, in all courts and in all proceedings, be sufficient evidence of the information provided electronically and all courts shall in all proceedings take judicial notice of the signature of the public officer.
 
@@ -3004,6 +3650,22 @@ whichever is the lower.
 
 [47/2007 wef 15/02/2008]
 
+(ea) the minimum standards of environmental sustainability for buildings or classes or types of buildings, and the method by which such standards may be assessed;
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(eb) the manner in which an assessment of environmental sustainability of a building or an audit of the energy efficiency of a cooling system of a building is to be carried out;
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(ec) the qualifications required, and the application process, to be registered as an energy auditor and the grounds on which such registration may be cancelled or suspended;
+
+[Act 22 of 2012 wef 01/12/2012]
+
+(ed) the preparation and submission of reports, certifications or other documents in relation to a design score, an as-built score or an energy audit under Part IIIB;
+
+[Act 22 of 2012 wef 01/12/2012]
+
 (f) the demolition of buildings and the safety precautions to be taken in respect thereof;
 
 (fa) the reporting of dangerous occurrences (as defined in section 25A) in premises at which building works are carried out;
@@ -3054,9 +3716,13 @@ whichever is the lower.
 
 [18/2003 wef 01/01/2004]
 
-(3) The Minister may, in making any building regulations under this section, provide that any contravention of or failure to comply with any provision thereof shall be an offence and may prescribe punishment by a fine not exceeding $10,000 or imprisonment for a term not exceeding 12 months or with both.
+(3) The Minister may, in making any building regulations under this section, provide that any contravention of or failure to comply with any provision thereof shall be an offence and may prescribe punishment by a fine not exceeding $20,000 or imprisonment for a term not exceeding 12 months or with both.
 
 [50
+
+[Act 22 of 2012 wef 01/12/2012]
+
+[47/2007 wef 15/02/2008]
 
 ### Adoption of codes and standards
 
@@ -3251,6 +3917,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (except sections 26 and 29)|
+|22.|**Act 22 of 2012—Building Control (Amendment) Act 2012**|
+||Date of First Reading|13 August 2012 (Bill No. 20/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
 ## COMPARATIVE TABLE
 
 Building Control Act
