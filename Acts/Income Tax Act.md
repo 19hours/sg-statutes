@@ -21061,6 +21061,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 June 2012 (Sections 11, 51(d))|
+|290.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
+||Date of commencement|3 December 2012|
 ## COMPARATIVE TABLE
 
 Income Tax Act
