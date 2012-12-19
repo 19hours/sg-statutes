@@ -228,7 +228,7 @@
 
 - [97 Agents and employees](#Agents-and-employees)
 
-- [98 Power of Director-General to charge fees](#Power-of-Director-General-to-charge-fees)
+- [98 Director-General may charge rates, etc.](#Director-General-may-charge-rates-etc)
 
 - [98A Late payment charges and interest](#Late-payment-charges-and-interest)
 
@@ -2220,11 +2220,25 @@ except where it is necessary for the purposes of —
 
 (2) The Director-General may forfeit the whole or such part of the amount secured under subsection (1)(b) as the Director-General may think fit if he is satisfied that the agent or employee has committed or attempted to commit or abetted the commission of an improper or corrupt act.
 
-### Power of Director-General to charge fees
+### Director-General may charge rates, etc.
 
-98\. The Director-General may, with the approval of the Minister, charge such fees as he may consider reasonable in respect of any act or service done or rendered by the Singapore Customs for which no fee is prescribed by any written law.
+98\.—(1) Where, upon the application of a person having the possession and management of any place (referred to in this section as the applicant), that place or any part thereof —
 
-[4/2003]
+(a) is determined by the Director-General under section 31(1)(a)(ii) to be an authorised pier or place in Singapore reserved for the separate and exclusive import, export and transhipment by sea of goods by a particular person or class of persons associated with the applicant;
+
+(b) is prescribed by regulations under section 143 to be a customs airport reserved for the separate and exclusive import, export and transhipment by air of goods by a particular person or class of persons associated with the applicant; or
+
+(c) is prescribed by regulations under section 143 to be a customs office or a customs station reserved for the separate and exclusive import, export and transhipment of goods by a particular person or class of persons associated with the applicant,
+
+the Director-General may, with the approval of the Minister, require the applicant to pay to the Director-General a rate at such intervals and at such amount or rate as may be prescribed, for or in connection with acts required by or under this Act to be done by officers of customs at that place or part thereof.
+
+(2) The number of officers of customs to be deployed at any authorised pier or place or at any customs airport, customs office or customs station referred to in subsection (1) shall be determined at the discretion of the Director-General.
+
+(3) In this section and section 143, any reference to the separate and exclusive import, export and transhipment of goods includes a reference to the separate and exclusive import, export and transhipment of goods carried out only during a particular period or periods in a day by a particular person or class of persons.
+
+(4) Any sum purportedly determined and collected by the Director-General before the date of commencement of section 31(a) of the Immigration (Amendment) Act 2012 at any customs airport reserved for the separate and exclusive import, export and transhipment by air of goods by a particular person or class of persons associated with the applicant shall be deemed to have been, by force of this section, validly imposed as a rate under this section as if this section was in force at the material time; and no legal proceedings shall be instituted on or after 9th July 2012 in any court on account of or in respect of any collection of these sums by the Director-General.
+
+[Act 18 of 2012 wef 19/12/2012]
 
 ### Late payment charges and interest
 
@@ -3186,9 +3200,13 @@ REGULATIONS
 
 (c) to regulate the conduct of all matters relating to the collection of duties and taxes under this Act;
 
-(d) to prescribe customs offices and customs stations;
+(d) to prescribe customs offices and customs stations, either generally or for the separate and exclusive import, export and transhipment of goods by a particular person or class of persons;
 
-(e) to prescribe customs airports for the import, export and transhipment of dutiable goods by air;
+[Act 18 of 2012 wef 19/12/2012]
+
+(e) to prescribe customs airports for the import, export and transhipment of dutiable goods by air, either generally or for the separate and exclusive import, export and transhipment by a particular person or class of persons;
+
+[Act 18 of 2012 wef 19/12/2012]
 
 (f) to specify the goods dutiable on import in respect of which drawback may be allowed on re-export as part or ingredient of any goods manufactured in Singapore and to fix the rate of drawback thereon and to prohibit the payment of drawback upon the re-export of any specified goods or description of goods;
 
@@ -3230,9 +3248,9 @@ REGULATIONS
 
 [Act 25 of 2011 wef 01/01/2012]
 
-(sb) to provide for the circumstances in which licence fees or any part thereof may be refunded;
+(sb) to prescribe the fees to be paid for any declaration, or any application for or grant of any licence, permit, authorisation, approval or registration, or for any other matter or thing done under this Act by officers of customs, and for any service rendered by officers of customs which is not required to be done under this Act, and to provide for the circumstances in which such fees or any part thereof may be refunded;
 
-[Act 25 of 2011 wef 01/01/2012]
+[Act 18 of 2012 wef 19/12/2012]
 
 (t) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
 
@@ -3240,7 +3258,7 @@ REGULATIONS
 
 (v) to regulate the management of premises licensed by the Liquors Licensing Board;
 
-(w) to prescribe the fees to be paid for the survey of dutiable goods;
+(w) [Deleted by Act 18 of 2012 wef 19/12/2012]
 
 (x) to prescribe the offences which may be compounded and the manner in which, and the officers of customs by whom, they may be compounded;
 
@@ -3646,6 +3664,11 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012|
 |||(except section 14)|
+|36.|**Act 18 of 2012—Immigration (Amendment) Act 2012**|
+||Date of First Reading|9 July 2012 (Bill No. 16/2012 published on 9 July 2012)|
+||Date of Second and Third Readings|13 August 2012|
+||Date of commencement|19 December 2012|
+|||(section 31 — Related amendments to Customs Act)|
 ## COMPARATIVE TABLE
 
 Customs Act
