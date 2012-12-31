@@ -1,16 +1,14 @@
-**Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**
+**Deposit Insurance and Policy Owners’ Protection Schemes Act**
 
-**(No. 15 of 2011)**
+**(CHAPTER 77B)**
 
 **Table of Contents**
 
 [**Long Title**](#Deposit-Insurance-and-Policy-Owners’-Protection-Schemes-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -154,7 +152,7 @@
 
 - [63 Rules issued by Agency for DI Scheme and PPF Scheme](#Rules-issued-by-Agency-for-DI-Scheme-and-PPF-Scheme)
 
-- [64 Regulations on disclosure and operational preparedness by Authority](#Regulations-on-disclosure-and-operational-preparedness-by-Authority)
+- [64 Regulations on disclosure and operational preparedness](#Regulations-on-disclosure-and-operational-preparedness)
 
 - [65 Power of court to order observance of or compliance with Rules](#Power-of-court-to-order-observance-of-or-compliance-with-Rules)
 
@@ -216,67 +214,47 @@
 
 - [91 Regulations](#Regulations)
 
-- [92 Repeal](#Repeal)
+- [92 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [93 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**FIRST SCHEDULE Insured deposit and Maximum DI Coverage**](#FIRST-SCHEDULE-Insured-deposit-and-Maximum-DI-Coverage)
 
-- [94 Savings and transitional provisions](#Savings-and-transitional-provisions)
+[**SECOND SCHEDULE Categories of insured policies**](#SECOND-SCHEDULE-Categories-of-insured-policies)
 
-[**FIRST SCHEDULE Insured Deposit and Maximum Di Coverage**](#FIRST-SCHEDULE-Insured-Deposit-and-Maximum-Di-Coverage)
+[**THIRD SCHEDULE Protected liabilities**](#THIRD-SCHEDULE-Protected-liabilities)
 
-[**SECOND SCHEDULE Categories of Insured Policies**](#SECOND-SCHEDULE-Categories-of-Insured-Policies)
+[**FOURTH SCHEDULE Protection ratio**](#FOURTH-SCHEDULE-Protection-ratio)
 
-[**THIRD SCHEDULE Protected Liabilities**](#THIRD-SCHEDULE-Protected-Liabilities)
+[**FIFTH SCHEDULE Provisions applicable to the holding and payment of compensation by the Public Trustee to persons entitled to payment of compensation under this Act**](#FIFTH-SCHEDULE-Provisions-applicable-to-the-holding-and-payment-of-compensation-by-the-Public-Trustee-to-persons-entitled-to-payment-of-compensation-under-this-Act)
 
-[**FOURTH SCHEDULE Protection Ratio**](#FOURTH-SCHEDULE-Protection-Ratio)
+[**SIXTH SCHEDULE Financial provisions with respect to DI Fund, PPF Life Fund and PPF General Fund**](#SIXTH-SCHEDULE-Financial-provisions-with-respect-to-DI-Fund-PPF-Life-Fund-and-PPF-General-Fund)
 
-[**FIFTH SCHEDULE PROVISIONS APPLICABLE TO THE HOLDING AND PAYMENT OF COMPENSATION BY THE PUBLIC TRUSTEE TO PERSONS ENTITLED TO PAYMENT OF COMPENSATION UNDER THis ACT**](#FIFTH-SCHEDULE-PROVISIONS-APPLICABLE-TO-THE-HOLDING-AND-PAYMENT-OF-COMPENSATION-BY-THE-PUBLIC-TRUSTEE-TO-PERSONS-ENTITLED-TO-PAYMENT-OF-COMPENSATION-UNDER-THis-ACT)
+[**SEVENTH SCHEDULE Financial provisions with respect to Agency**](#SEVENTH-SCHEDULE-Financial-provisions-with-respect-to-Agency)
 
-[**SIXTH SCHEDULE Financial Provisions With Respect to Di Fund, Ppf Life Fund and Ppf General Fund**](#SIXTH-SCHEDULE-Financial-Provisions-With-Respect-to-Di-Fund-Ppf-Life-Fund-and-Ppf-General-Fund)
+[**Legislative History**](#Legislative-History)
 
-[**SEVENTH SCHEDULE Financial Provisions With Respect to Agency**](#SEVENTH-SCHEDULE-Financial-Provisions-With-Respect-to-Agency)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Deposit Insurance and Policy Owners’ Protection Schemes Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 77B)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 15 of 2011)
 
-Published by Authority
+REVISED EDITION 2012
 
-NO. 22]
+(31st December 2012)
 
-Monday, September 26
+An Act to reconstitute the Deposit Insurance Scheme for the purpose of providing limited compensation to insured depositors under certain circumstances, to establish a Policy Owners’ Protection Scheme for the purpose of compensating (in part or whole) or otherwise assisting or protecting insured policy owners and beneficiaries under certain circumstances, and for matters connected therewith.
 
-[2011
-
-The following Act was passed by Parliament on 11th April 2011 and assented to by the President on 13th April 2011:—
-
-DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION SCHEMES ACT 2011
-
-(No. 15 of 2011)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-13th April 2011.
-
-Date of Commencement: 1st May 2011
-
-An Act to reconstitute the Deposit Insurance Scheme for the purpose of providing limited compensation to insured depositors under certain circumstances, to establish a Policy Owners’ Protection Scheme for the purpose of compensating (in part or whole) or otherwise assisting or protecting insured policy owners and beneficiaries under certain circumstances, to repeal the Deposit Insurance Act (Chapter 77A of the 2006 Revised Edition), to make consequential amendments to certain other written laws, and for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st May 2011]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Deposit Insurance and Policy Owners’ Protection Schemes Act.
 
 ### Interpretation
 
@@ -288,8 +266,6 @@ PRELIMINARY
 
 “Agency” means the company designated by the Minister under section 56 to be the deposit insurance and policy owners’ protection fund agency;
 
-“appointed day” means the date of commencement of this Act;
-
 “authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
 
 “Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
@@ -300,7 +276,7 @@ PRELIMINARY
 
 “book” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in electronic form or otherwise;
 
-“captive insurer” has the same meaning as in section 1A of the Insurance Act (Cap. 142);
+“captive insurer” has the same meaning as in section 1A of the Insurance Act;
 
 “Chief Executive” means the Chief Executive of the Agency appointed under section 62 and includes any person acting in that capacity;
 
@@ -338,7 +314,7 @@ as specified under the terms of the insured policy;
 
 (b) which are not referable to the provision of property or services;
 
-“deposit-taking business” has the same meaning as in section 4B of the Banking Act (Cap. 19);
+“deposit-taking business” has the same meaning as in section 4B of the Banking Act;
 
 “depositor” means any person who is entitled to repayment of a deposit, whether or not the deposit is made by him;
 
@@ -346,13 +322,13 @@ as specified under the terms of the insured policy;
 
 “DI Fund” means the Deposit Insurance Fund reconstituted under section 9;
 
-“direct insurer” has the same meaning as in section 1A of the Insurance Act (Cap. 142);
+“direct insurer” has the same meaning as in section 1A of the Insurance Act;
 
 “DI Scheme” means the Deposit Insurance Scheme reconstituted under section 4;
 
 “DI Scheme member” means a member of the DI Scheme;
 
-“electronic record” has the same meaning as in section 2 of the Electronic Transactions Act 2010 (Act 16 of 2010);
+“electronic record” has the same meaning as in section 2 of the Electronic Transactions Act (Cap. 88);
 
 “electronic service” means the electronic service provided by the Authority under section 86;
 
@@ -360,7 +336,7 @@ as specified under the terms of the insured policy;
 
 (a) any bank;
 
-(b) any person who carries on business activities outside of Singapore which, if conducted in Singapore, would require the person to be licensed under the Banking Act (Cap. 19); and
+(b) any person who carries on business activities outside of Singapore which, if conducted in Singapore, would require the person to be licensed under the Banking Act; and
 
 (c) such other person or class of persons as the Authority may prescribe;
 
@@ -372,11 +348,11 @@ as specified under the terms of the insured policy;
 
 “full bank” means any bank holding a licence granted by the Authority under the Banking Act which permits the bank to carry on the full range of banking business;
 
-“general business” and “life business” have the same meanings as in section 2 of the Insurance Act (Cap. 142), read with section 3(1B) of that Act;
+“general business” and “life business” have the same meanings as in section 2 of the Insurance Act, read with section 3(1B) of that Act;
 
 “group policy” means any policy of insurance in respect of which the policy owner is not an individual;
 
-“guaranteed policy liabilities”, in relation to insured policies, means the policy liabilities, relating to benefits guaranteed under the insured policies only, calculated in accordance with regulations prescribed pursuant to section 18 of the Insurance Act (Cap. 142) for the valuation of assets and liabilities in an insurance fund;
+“guaranteed policy liabilities”, in relation to insured policies, means the policy liabilities, relating to benefits guaranteed under the insured policies only, calculated in accordance with regulations prescribed pursuant to section 18 of the Insurance Act for the valuation of assets and liabilities in an insurance fund;
 
 “health policy” means any accident and health policy which is not a personal accident policy;
 
@@ -406,7 +382,7 @@ as specified under the terms of the insured policy;
 
 “life policy” has the same meaning as in the First Schedule to the Insurance Act;
 
-“liquidator” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+“liquidator” has the same meaning as in section 4(1) of the Companies Act;
 
 “marine mutual insurance business” means the business of providing the insurance of liabilities under insurance policies on the basis of mutual insurance —
 
@@ -426,7 +402,7 @@ as specified under the terms of the insured policy;
 
 “non-voluntary group insurance policy” means a group policy to insure the lives of certain individuals which is not taken out at the request or discretion of any of the life assureds;
 
-“officer” has the same meaning as in section 2(1) of the Banking Act (Cap. 19);
+“officer” has the same meaning as in section 2(1) of the Banking Act;
 
 “parent bank” has the same meaning as in section 2(1) of the Banking Act;
 
@@ -440,9 +416,9 @@ as specified under the terms of the insured policy;
 
 (c) on the occurrence of a combination of the events referred to in paragraphs (a) and (b);
 
-“policy” has the same meaning as in the First Schedule to the Insurance Act (Cap. 142);
+“policy” has the same meaning as in the First Schedule to the Insurance Act;
 
-“policy owner” has the same meaning as in the First Schedule to the Insurance Act (Cap. 142);
+“policy owner” has the same meaning as in the First Schedule to the Insurance Act;
 
 “PPF exempt member” means a relevant insurer which has been exempted by the Authority under section 32 from the requirement to be a PPF Scheme member;
 
@@ -484,7 +460,7 @@ as specified under the terms of the insured policy;
 
 “relevant insurer” means —
 
-(a) a direct insurer registered to carry on life business under the Insurance Act (Cap. 142) (other than a captive insurer); or
+(a) a direct insurer registered to carry on life business under the Insurance Act (other than a captive insurer); or
 
 (b) a direct insurer registered to carry on general business under the Insurance Act (other than a captive insurer or specialist insurer);
 
@@ -538,7 +514,7 @@ as specified under the terms of the insured policy;
 
 (c) the amount, not exceeding the Maximum DI Coverage, of insured deposits held by that insured depositor in every client account opened with the DI Scheme member;
 
-(d) any moneys, denominated in Singapore dollars, placed by that insured depositor with the DI Scheme member under the CPFIS and CPFMS, not exceeding the Maximum DI Coverage; and
+(d) any moneys denominated in Singapore dollars placed by that insured depositor with the DI Scheme member under the CPFIS and CPFMS, not exceeding the Maximum DI Coverage; and
 
 (e) the amount, not exceeding the Maximum DI Coverage, of one or more prescribed products held by that insured depositor and placed with the DI Scheme member, which the Minister has, by order published in theGazette, determined that it or they shall not be aggregated with any of the insured deposits under paragraphs (a), (b), (c) and (d) and shall be subject to separate coverage under the DI Scheme of an amount not exceeding the Maximum DI Coverage, whether on its own or in aggregation with other prescribed products.
 
@@ -564,9 +540,9 @@ DEPOSIT INSURANCE SCHEME
 
 5\.—(1) Every full bank or finance company which is not exempted under section 6 shall be a DI Scheme member so long as it holds a valid licence under the Banking Act (Cap. 19) or the Finance Companies Act (Cap. 108), as the case may be.
 
-(2) Every full bank or finance company, which holds a valid licence under the Banking Act or the Finance Companies Act, as the case may be, immediately before the appointed day, shall be deemed to be a DI Scheme member from that day.
+(2) Every full bank or finance company, which holds a valid licence under the Banking Act or the Finance Companies Act, as the case may be, immediately before 1st May 2011, shall be deemed to be a DI Scheme member from that date.
 
-(3) Every full bank or finance company, which is granted a licence under the Banking Act or the Finance Companies Act, as the case may be, on or after the appointed day, shall be a DI Scheme member from the date on which its licence is granted.
+(3) Every full bank or finance company, which is granted a licence under the Banking Act or the Finance Companies Act, as the case may be, on or after 1st May 2011, shall be a DI Scheme member from the date on which its licence is granted.
 
 ### Exemption from DI Scheme membership
 
@@ -698,7 +674,7 @@ DEPOSIT INSURANCE FUND
 
 ### Withdrawal and application of moneys of DI Fund
 
-10\.—(1) In carrying out the objects and purposes of DI Scheme, the moneys in the DI Fund may be withdrawn and applied as the Agency considers proper for all or any of the following purposes only:
+10\.—(1) In carrying out the objects and purposes of the DI Scheme, the moneys in the DI Fund may be withdrawn and applied as the Agency considers proper for all or any of the following purposes only:
 
 (a) the payment of all expenses incurred in or incidental to —
 
@@ -744,7 +720,7 @@ PREMIUM CONTRIBUTIONS FOR DI SCHEME
 
 (2) Subject to the provisions of this Act, the premium contribution shall be of such amount as may be computed by the Authority under section 13.
 
-(3) The premium year for the DI Scheme shall be such period as may be prescribed in regulations under subsection (4).
+(3) The premium year for the DI Scheme shall be such period as may be prescribed in regulations made under subsection (4).
 
 (4) The Authority may make regulations for the purpose of prescribing the premium year.
 
@@ -890,7 +866,7 @@ COMPENSATION UNDER DI SCHEME
 
 ### Occurrence of events precipitating payment of compensation
 
-21\.—(1) Where, on or after the appointed day —
+21\.—(1) Where, on or after 1st May 2011 —
 
 (a) an order is made by a court in Singapore or elsewhere to wind up a DI Scheme member; or
 
@@ -906,7 +882,7 @@ the Authority may determine that compensation shall be paid out of the DI Fund t
 
 ### Entitlement to compensation
 
-22\.—(1) Subject to subsection (5) and section 23, where an insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than any moneys, denominated in Singapore dollars, placed with the failed DI Scheme member under the CPFIS and CPFMS), which —
+22\.—(1) Subject to subsection (5) and section 23, where an insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than any moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS), which —
 
 (a) the insured depositor holds in his own right;
 
@@ -918,11 +894,11 @@ the Authority may determine that compensation shall be paid out of the DI Fund t
 
 the insured depositor shall be entitled to compensation from the DI Fund computed on the basis of the aggregate amount, as at the quantification date, of such insured deposits falling within paragraphs (a), (b), (c) and (d), and such compensation shall not exceed the aggregate amount of such insured deposits or the Maximum DI Coverage, whichever is the lower.
 
-(2) Where any insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than moneys denominated in Singapore dollars, placed with the failed DI Scheme member under the CPFIS and CPFMS) which the insured depositor holds in an account as trustee under a trust or holds in a client account, the insured depositor shall be entitled, in respect of every such account, to compensation from the DI Fund, not exceeding the amount of such insured deposits in that account or the Maximum DI Coverage, whichever is the lower.
+(2) Where any insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS) which the insured depositor holds in an account as trustee under a trust or holds in a client account, the insured depositor shall be entitled, in respect of every such account, to compensation from the DI Fund, not exceeding the amount of such insured deposits in that account or the Maximum DI Coverage, whichever is the lower.
 
 (3) For the purposes of subsection (2), where there are 2 or more insured depositors holding any insured deposit in an account under a trust or in a client account jointly, the compensation referred to in subsection (2) shall be divided equally among those insured depositors and paid accordingly.
 
-(4) Where any insured deposit of any insured depositor placed with a failed DI Scheme member consists of moneys, denominated in Singapore dollars, placed with the failed DI Scheme member under the CPFIS or CPFMS, such moneys shall not be aggregated with his other insured deposits placed with that failed DI Scheme member for the purposes of determining the amount of compensation that the insured depositor is entitled to, and the insured depositor shall be entitled, in respect of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS, to compensation from the DI Fund, not exceeding the amount of such moneys placed with the failed DI Scheme member or the Maximum DI Coverage, whichever is the lower.
+(4) Where any insured deposit of any insured depositor placed with a failed DI Scheme member consists of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS or CPFMS, such moneys shall not be aggregated with his other insured deposits placed with that failed DI Scheme member for the purposes of determining the amount of compensation that the insured depositor is entitled to, and the insured depositor shall be entitled, in respect of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS, to compensation from the DI Fund, not exceeding the amount of such moneys placed with the failed DI Scheme member or the Maximum DI Coverage, whichever is the lower.
 
 (5) Where an insured depositor has one or more prescribed products placed with a failed DI Scheme member, which the Minister has, by order published in theGazette, determined to be subject to separate coverage under the DI Scheme (referred to in this section as the first-mentioned prescribed products), whether on their own or in aggregation with other prescribed products (referred to in this section as the other prescribed products) —
 
@@ -1072,7 +1048,7 @@ the Agency may recover the amount paid in error or excess from the person who re
 
 (3) Notwithstanding any provision in the Limitation Act (Cap. 163), an action to recover any amount paid in error or excess to any person recoverable by virtue of this section shall not be brought after the expiration of the period during which the action may be brought against the person under the Limitation Act or the date of completion of the winding up of the failed DI Scheme member, whichever is the later.
 
-(4) Upon the recovery of any amount paid in error or excess from any person under this section (referred in this section as the recovered amount), the Agency shall do the following:
+(4) Upon the recovery of any amount paid in error or excess from any person under this section (referred to in this section as the recovered amount), the Agency shall do the following:
 
 (a) in the case where the failed DI Scheme member is not wound up or where the winding up of the failed DI Scheme member has not completed and the Agency has not recovered or has not recovered in full from the failed DI Scheme member or its liquidator, as the case may be, the compensation which it paid out to the insured depositors, the Agency shall deduct from the recovered amount the shortfall in compensation and pay such deducted amount to the DI Fund, and pay the amount remaining from the recovered amount after the deduction, if any, to the failed DI Scheme member or its liquidator, as the case may be;
 
@@ -1116,9 +1092,9 @@ POLICY OWNERS’ PROTECTION SCHEME
 
 31\.—(1) Every relevant insurer which is not exempted under section 32 shall be a PPF Scheme member so long as it is registered by the Authority to carry on insurance business under the Insurance Act (Cap. 142).
 
-(2) Every relevant insurer which is registered to carry on insurance business under the Insurance Act immediately before the appointed day, shall be deemed to be a PPF Scheme member from that day.
+(2) Every relevant insurer which is registered to carry on insurance business under the Insurance Act immediately before 1st May 2011, shall be deemed to be a PPF Scheme member from that date.
 
-(3) Every relevant insurer which is registered to carry on insurance business under the Insurance Act on or after the appointed day, shall be a PPF Scheme member from the date on which it is registered.
+(3) Every relevant insurer which is registered to carry on insurance business under the Insurance Act on or after 1st May 2011, shall be a PPF Scheme member from the date on which it is registered.
 
 ### Exemption from PPF Scheme membership
 
@@ -1160,7 +1136,7 @@ POLICY OWNERS’ PROTECTION SCHEME
 
 (b) the Authority considers it necessary to do so in the public interest.
 
-(2) Before withdrawing any exemption granted to a PPF exempt member under subsection (1), the Authority shall —
+(2) Before withdrawing any exemption under subsection (1), the Authority shall —
 
 (a) give the PPF exempt member notice in writing of its intention to do so; and
 
@@ -1172,7 +1148,7 @@ POLICY OWNERS’ PROTECTION SCHEME
 
 (b) fails to show sufficient cause,
 
-the Authority shall give notice in writing to the PPF exempt member of the withdrawal of the exemption and the date on which such withdrawal of the exemption is to take effect.
+the Authority shall give notice in writing to the PPF exempt member of the withdrawal of the exemption and the date on which such withdrawal is to take effect.
 
 (4) Where a withdrawal of exemption becomes effective, the Authority shall publish a notice of the withdrawal in theGazette.
 
@@ -1248,7 +1224,7 @@ POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTECTION GENERAL FU
 
 36\.—(1) The Agency may invest any moneys in the PPF Life Fund and the PPF General Fund in all or any of the following:
 
-(a) any security issued by the Government or the Authority;
+(a) any security issued by the Government or by the Authority;
 
 (b) Singapore dollar deposits placed with the Authority;
 
@@ -1272,7 +1248,7 @@ LEVIES FOR PPF SCHEME
 
 (2) Subject to the provisions of this Act, the levy shall be of such amount as may be computed by the Authority under section 38.
 
-(3) The premium year for the PPF Scheme shall be such period as may be prescribed in regulations under subsection (4).
+(3) The premium year for the PPF Scheme shall be such period as may be prescribed in regulations made under subsection (4).
 
 (4) The Authority may make regulations for the purpose of prescribing the premium year.
 
@@ -1354,7 +1330,7 @@ compute the amount of levy payable by the PPF Scheme member for any premium year
 
 (a) the Agency may, by notice in writing, impose on the PPF Scheme member such late payment fee as the Agency may by Rules determine; and
 
-(b) the PPF Scheme member shall pay to the Agency the late payment fee together with the unpaid levy or additional levy, as the case may be, on or before the date of payment specified in the notice under paragraph (a).
+(b) the PPF Scheme member shall pay to the Agency such late payment fee together with the unpaid levy or additional levy, as the case may be, on or before the date of payment specified in the notice under paragraph (a).
 
 (3) The late payment fee referred to in subsection (2) shall not exceed the amount of levy or additional levy, as the case may be, owing by the PPF Scheme member.
 
@@ -1454,9 +1430,11 @@ the Authority may determine —
 
 (3) The notice in writing referred to in subsection (2) shall be in such form and contain such information as may be agreed between the Authority and the Agency.
 
-(4) The Agency shall, as soon as practicable upon receiving the notice referred to in subsection (2), publish a notification in theGazettestating that a payment of compensation shall be made out of the PPF Life Fund or the PPF General Fund, or that the PPF Life Fund or the PPF General Fund shall be utilised to fund the transfer or run-off the insurance business of the failed PPF Scheme member, as the case may be.
+(4) The Agency shall, as soon as practicable upon receiving the notice referred to in subsection (2), publish a notification in theGazettestating that a payment of compensation shall be made out of the PPF Life Fund or the PPF General Fund, or that the PPF Life Fund or the PPF General Fund shall be utilised to fund the transfer or run-off of the insurance business of the failed PPF Scheme member, as the case may be.
 
-(5) For the purposes of this Act, the Minister shall by notification in theGazetteappoint a date to be the effective date.
+(5) For the purposes of this Act, the Minister shall by notification in theGazette1appoint a date to be the effective date.
+
+1The effective date is 1st September 2011– vide S 431/2011.
 
 ### Entitlement to compensation for life business
 
@@ -1592,7 +1570,7 @@ if the Agency makes payment of the compensation to the Public Trustee appointed 
 
 (6) The Authority may by regulations, provide for the manner, process or method by which the Agency may exercise its rights to be subrogated to the rights and remedies as set out in subsection (1).
 
-(7) For the purposes of making payment of compensation by the Agency to the Public Trustee under subsection (3) and payment of compensation by the Public Trustee to insured policy owners and beneficiaries under this Act, the Authority, may, with the concurrence of the Public Trustee and in consultation with the Agency, make regulations for or in respect of all or any of the following matters:
+(7) For the purposes of making payment of compensation by the Agency to the Public Trustee under subsection (3) and payment of compensation by the Public Trustee to insured policy owners and beneficiaries under this Act, the Authority may, with the concurrence of the Public Trustee and in consultation with the Agency, make regulations for or in respect of all or any of the following matters:
 
 (a) the manner in which moneys paid by the Agency to the Public Trustee are to be paid to insured policy owners and beneficiaries under this Act;
 
@@ -1626,7 +1604,7 @@ the Agency may recover the amount paid in error or excess from the person who re
 
 (b) in the case where the failed PPF Scheme member is not wound up or where the winding up of the failed PPF Scheme member has not completed and the Agency has recovered from the failed PPF Scheme member or its liquidator, as the case may be, in full the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall pay the recovered amount to the failed PPF Scheme member or its liquidator, as the case may be;
 
-(c) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has not recovered or has not recovered in full from the liquidator the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall deduct from the recovered amount the shortfall in the compensation and pay such deducted amount to the PPF Life Fund or the PPF General Fund, as the case may be, and pay the amount remaining from the recovered amount after the deduction, if any, to the Official Receiver to be placed to the credit of the Companies Liquidation Account; and
+(c) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has not recovered or has not recovered in full from the liquidator the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall deduct from the recovered amount the shortfall in compensation and pay such deducted amount to the PPF Life Fund or the PPF General Fund, as the case may be, and pay the amount remaining from the recovered amount after the deduction, if any, to the Official Receiver to be placed to the credit of the Companies Liquidation Account; and
 
 (d) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has recovered from the liquidator in full the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall pay the recovered amount to the Official Receiver to be placed to the credit of the Companies Liquidation Account.
 
@@ -1750,7 +1728,7 @@ deposit insurance AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 ### Appointment of board of directors
 
-59\.—(1) This section shall have effect notwithstanding any provision in the Companies Act and the memorandum and articles of association of the Agency.
+59\.—(1) This section shall have effect notwithstanding any provision in the Companies Act (Cap. 50) and the memorandum and articles of association of the Agency.
 
 (2) The board of directors of the Agency shall consist of —
 
@@ -1806,7 +1784,7 @@ deposit insurance AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 (c) the manner of disclosure by PPF Scheme members as to whether their products are insured policies;
 
-(d) the particulars to be recorded in, or in respect of, books kept by DI Scheme members for the purpose of computing the amount of insured deposits placed with the DI Scheme members, and the particulars to be recorded in, or in respect of, books kept by PPF Scheme members for the purpose of confirming the insured policies issued by a PPF Scheme member;
+(d) the particulars to be recorded in, or in respect of, books kept by DI Scheme members for the purpose of computing the amount of insured deposits placed with the DI Scheme members, and the particulars to be recorded in, or in respect of, books kept by PPF Scheme members for the purpose of confirming the insured policies issued by the PPF Scheme members;
 
 (e) the manner in which compensation is to be paid to insured depositors and persons referred to in section 22(7) from the DI Fund, insured policy owners from the PPF Life Fund and the PPF General Fund, and beneficiaries of insured policies which are covered under the PPF General Fund and provide third party benefits from the PPF General Fund;
 
@@ -1824,7 +1802,7 @@ deposit insurance AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 (7) No Rule issued by the Agency shall be inconsistent with any regulations made by the Authority under this Act and any such Rule which is so inconsistent shall, to the extent of inconsistency, be void.
 
-### Regulations on disclosure and operational preparedness by Authority
+### Regulations on disclosure and operational preparedness
 
 64\.—(1) The Authority may, for the purposes of ensuring disclosure of relevant information by the DI Scheme members and PPF Scheme members to the Agency, depositors, policy owners, customers or potential customers of the DI Scheme members and PPF Scheme members, make regulations for or in respect of all or any of the following matters:
 
@@ -1834,11 +1812,11 @@ deposit insurance AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 (2) The Authority may, for the purposes of ensuring the operational preparedness of the DI Scheme members and PPF Scheme members in the event of an occurrence of any event precipitating the use of the DI Fund, PPF Life Fund or PPF General Fund, as the case may be, make regulations for or in respect of all or any of the following matters:
 
-(a) the necessary systems and processes that a DI Scheme member or PPF Scheme member shall have in place;
+(a) the necessary systems and processes that DI Scheme members or PPF Scheme members shall have in place;
 
-(b) the appointment of one or more independent persons to assess the operational preparedness of a DI Scheme member or PPF Scheme member;
+(b) the appointment of one or more independent persons to assess the operational preparedness of DI Scheme members or PPF Scheme members;
 
-(c) the employment of requisite personnel and qualified persons by a DI Scheme member or PPF Scheme member in respect of the proper functioning of the systems and processes.
+(c) the employment of requisite personnel and qualified persons by DI Scheme members or PPF Scheme members in respect of the proper functioning of their systems and processes.
 
 (3) The regulations made under subsection (1) may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $125,000 or with imprisonment for a term not exceeding 3 years or with both and, in the case of a continuing offence, with a further fine of $12,500 for every day or part thereof during which the offence continues after conviction.
 
@@ -1892,7 +1870,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -1954,7 +1932,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Jurisdiction of court
 
-72\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+72\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Composition of offences
 
@@ -2224,133 +2202,27 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (ii) in the case of a company or body corporate, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
-### Repeal
-
-92\. The Deposit Insurance Act (Cap. 77A) is repealed.
-
-### Consequential amendments to other written laws
-
-93\.—(1) The Banking Act (Cap. 19, 2008 Ed.) is amended —
-
-(a) by deleting the words “Deposit Insurance Act (Cap. 77A) or any rules issued by the deposit insurance agency under the Deposit Insurance Act” in section 20(1)(a)(viii) and substituting the words “Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 or any Rules issued by the deposit insurance and policy owners’ protection fund agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011”;
-
-(b) by deleting the words “Deposit Insurance Act (Cap. 77A)” in section 62(1)(a) and substituting the words “Deposit Insurance and Policy Owners’ Protection Schemes Act 2011”;
-
-(c) by deleting paragraph (b) of section 62(1) and substituting the following paragraph:
-
-“
-
-(b) secondly, liabilities incurred by the bank in respect of insured deposits, up to the amount of compensation paid or payable out of the DI Fund by the Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such insured deposits;
-
-”;
-
-(d) by deleting subsection (5) of section 62 and substituting the following subsection:
-
-“
-
-(5) In this section, “Agency”, “DI Fund” and “insured deposit” have the same respective meanings as in section 2(1) of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
-
-”;
-
-(e) by deleting the words “Deposit Insurance Act (Cap. 77A)” in the first column of item 9 in Part I of the Third Schedule and substituting the words “Deposit Insurance and Policy Owners’ Protection Schemes Act 2011”;
-
-(f) by deleting item 10 in Part II of the Third Schedule and substituting the following item:
-
-First column
-
-Second column
-
-Third column
-
-Purpose for which customer information may be disclosed
-
-Persons to whom information may be disclosed
-
-Conditions
-
-10. Disclosure is solely in connection with the payment of compensation under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 to insured depositors or persons referred to in section 22(7) of that Act.
-
-(a) The deposit insurance and policy owners’ protection fund agency;
-
-(a) The disclosure by the deposit insurance and policy owners’ protection fund agency or the Public Trustee to any person referred to in paragraph (c) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
-
-(b) the Public Trustee; or
-
-(b) The disclosure by any person referred to in paragraph (a), (b) or (c) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
-
-(c) any person authorised or appointed by the deposit insurance and policy owners’ protection fund agency or the Public Trustee (as the case may be) to perform its functions under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
-
-(c) The Public Trustee may disclose customer information to such persons or class of persons and subject to such conditions, as may be determined by the Minister.
-
-(g) by deleting the definition of “deposit insurance agency” in Part III of the Third Schedule and substituting the following definition:
-
-“
-
-“deposit insurance and policy owners’ protection fund agency” means the deposit insurance and policy owners’ protection fund agency designated under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
-
-”; and
-
-(h) by deleting the words “Deposit Insurance Act” in the definition of “insured depositor” in Part III of the Third Schedule and substituting the words “Deposit Insurance and Policy Owners’ Protection Schemes Act 2011”.
-
-(2) The Finance Companies Act (Cap. 108, 2000 Ed.) is amended —
-
-(a) by deleting the words “Deposit Insurance Act 2005 or any rules issued by the deposit insurance agency under the Deposit Insurance Act 2005” in section 15(1)(a)(vi) and substituting the words “Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 or any Rules issued by the deposit insurance and policy owners’ protection fund agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011”;
-
-(b) by deleting the words “Deposit Insurance Act 2005” in section 44A(1)(a) and substituting the words “Deposit Insurance and Policy Owners’ Protection Schemes Act 2011”;
-
-(c) by deleting paragraph (b) of section 44A(1) and substituting the following paragraph:
-
-“
-
-(b) secondly, liabilities incurred by the finance company under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of insured deposits, up to the amount of compensation paid or payable out of the DI Fund by the Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such insured deposits.
-
-”; and
-
-(d) by inserting, immediately after subsection (2) of section 44A, the following subsection:
-
-“
-
-(3) In this section, “Agency” and “DI Fund” have the same respective meanings as in section 2(1) of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
-
-”.
-
-(3) The Monetary Authority of Singapore Act (Cap. 186, 1999 Ed.) is amended by deleting item 6 in the Schedule and substituting the following item:
-
-“
-
-6\. Deposit Insurance and Policy Owners’ Protection Schemes Act 2011
-
-”.
-
-(4) The Public Trustee Act (Cap. 260, 1985 Ed.) is amended by deleting the full-stop at the end of paragraph (b) of section 4(1A) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
-
-“
-
-(c) undertake such role, functions and duties as set out in the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
-
-”.
-
 ### Savings and transitional provisions
 
-94\.—(1) Any exemption granted by the Authority under section 6(2) of the repealed Act immediately before the appointed day —
+92\.—(1) Any exemption granted by the Authority under section 6(2) of the repealed Act immediately before 1st May 2011 —
 
 (a) shall continue and be deemed to have been granted under section 6(2) of this Act; and
 
-(b) any condition to which the exemption was subject immediately before that day shall continue and be deemed to have been imposed under section 6(5) of this Act.
+(b) any condition to which the exemption was subject immediately before that date shall continue and be deemed to have been imposed under section 6(5) of this Act.
 
-(2) Any assets, investments or moneys which were part of the DI Fund established under section 9(1) of the repealed Act (whether held in the name of the DI Fund or otherwise) immediately before the appointed day, shall be deemed to be assets, investments and moneys forming part of the DI Fund reconstituted under section 9(1) of this Act.
+(2) Any assets, investments or moneys which were part of the DI Fund established under section 9(1) of the repealed Act (whether held in the name of the DI Fund or otherwise) immediately before 1st May 2011, shall be deemed to be assets, investments and moneys forming part of the DI Fund reconstituted under section 9(1) of this Act.
 
 (3) Any approval granted by the Minister under section 11 of the repealed Act in respect of the types of investments that the Agency may invest any money in the DI Fund, shall continue and be deemed to have been granted by the Minister under section 11 of this Act.
 
-(4) Any director holding office at the company designated by the Minister under section 12 of the repealed Act to be the deposit insurance agency immediately before the appointed day, shall continue to hold appointment as such at the company designated by the Minister under section 56 of this Act.
+(4) Any director holding office at the company designated by the Minister under section 12 of the repealed Act to be the deposit insurance agency immediately before 1st May 2011, shall continue to hold appointment as such at the company designated by the Minister under section 56 of this Act.
 
-(5) The following provisions shall apply to the Chief Executive, other officers, employees, consultants and agents appointed as such by the company designated by the Minister under section 12 of the repealed Act to be the deposit insurance agency, pursuant to section 18 of that Act immediately before the appointed day:
+(5) The following provisions shall apply to the Chief Executive, other officers, employees, consultants and agents appointed as such by the company designated by the Minister under section 12 of the repealed Act to be the deposit insurance agency, pursuant to section 18 of that Act immediately before 1st May 2011:
 
 (a) the Chief Executive, other officers, employees, consultants and agents shall continue to hold such appointments and be deemed to have been appointed as such under section 62 of this Act; and
 
-(b) the terms and conditions to which their appointments were subject to immediately before the appointed day shall continue and be deemed to have been imposed under or pursuant to this Act.
+(b) the terms and conditions to which their appointments were subject to immediately before 1st May 2011 shall continue and be deemed to have been imposed under or pursuant to this Act.
 
-(6) Subject to subsection (8), every DI Scheme member which has received a notice to pay a premium contribution under section 23 of the repealed Act for the premium year beginning on 1st April 2011 and ending on 31st March 2012, may from the appointed day be required to pay a further premium contribution under this Act in respect of the period commencing on the appointed day until 31st March 2012 (both days inclusive).
+(6) Subject to subsection (8), every DI Scheme member which has received a notice to pay a premium contribution under section 23 of the repealed Act for the premium year beginning on 1st April 2011 and ending on 31st March 2012, may from 1st May 2011 be required to pay a further premium contribution under this Act in respect of the period commencing on 1st May 2011 until 31st March 2012 (both days inclusive).
 
 (7) Sections 12, 14, 16, 17 and 18 of this Act shall apply, with the necessary modifications, to any payment of further premium contribution.
 
@@ -2358,19 +2230,21 @@ Conditions
 
 (9) Section 19 of this Act shall apply, with the necessary modifications, to any premium contribution which a DI Scheme member has received a notice to pay under section 23 of the repealed Act for the premium year beginning on 1st April 2011 and ending on 31st March 2012.
 
-(10) Any act or purported act of the Agency (including the entering into of an agreement by the Agency and any act done on behalf of the Agency by an officer or agent of the Agency under any purported authority, whether express or implied, of the Agency) in respect of the PPF Scheme after the appointed day but before the memorandum and articles of association of the Agency have been amended shall not be invalid by reason only of the fact that the Agency was without capacity or power to do such act.
+(10) Any act or purported act of the Agency (including the entering into of an agreement by the Agency and any act done on behalf of the Agency by an officer or agent of the Agency under any purported authority, whether express or implied, of the Agency) in respect of the PPF Scheme after 1st May 2011 but before the memorandum and articles of association of the Agency have been amended shall not be invalid by reason only of the fact that the Agency was without capacity or power to do such act.
 
 (11) For the avoidance of doubt, section 25(2) and (3) of the Companies Act (Cap. 50) shall not apply to any act or purported act of the Agency referred to in subsection (10).
 
-(12) For a period of 2 years after the appointed day, the Minister may, by regulations published in theGazette, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act, as he may consider necessary or expedient.
+(12) For a period of 2 years after 1st May 2011, the Minister may, by regulations published in theGazette, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act, as he may consider necessary or expedient.
 
-(13) In this section, a reference to a provision of the repealed Act is a reference to that provision of that Act in force immediately before the appointed day.
+(13) In this section, a reference to a provision of the repealed Act is a reference to that provision of that Act in force immediately before 1st May 2011.
+
+[94
 
 FIRST SCHEDULE
 
 Section 2(1)
 
-Insured Deposit and Maximum Di Coverage
+Insured deposit and Maximum DI Coverage
 
 In this Act —
 
@@ -2386,7 +2260,7 @@ In this Act —
 
 including any accrued interest that has been credited to the relevant accounts for each of the deposits specified in sub-paragraphs (i), (ii) and (iii), regardless of whether such a deposit is pledged, charged or secured as collateral or whether such a deposit or part thereof is set aside in respect of any debt owing to the DI Scheme member and cannot be withdrawn until and unless the debt is repaid;
 
-(b) any moneys denominated in Singapore dollars, placed with any DI Scheme member under the CPFIS, CPFMS or the Supplementary Retirement Scheme; and
+(b) any moneys denominated in Singapore dollars placed with any DI Scheme member under the CPFIS, CPFMS or the Supplementary Retirement Scheme; and
 
 (c) such product as may be prescribed by the Authority,
 
@@ -2398,7 +2272,7 @@ SECOND SCHEDULE
 
 Sections 38(6) and 47(1)
 
-Categories of Insured Policies
+Categories of insured policies
 
 Insured policies shall be classified into one of the following 4 categories:
 
@@ -2436,7 +2310,7 @@ THIRD SCHEDULE
 
 Sections 2(1) and 54(4) and Fourth Schedule
 
-Protected Liabilities
+Protected liabilities
 
 1. For the purposes of computing the levies payable by PPF Scheme members under section 38, the aggregate amount of the protected liabilities of a PPF Scheme member in respect of its insured policies covered under the PPF Life Fund shall be the aggregate of all the following amounts:
 
@@ -2444,13 +2318,9 @@ Protected Liabilities
 
 (b) in the case of Category 2 insured policies, an amount calculated in accordance with the following formula:
 
-(A + B)
+where
 
-x C,
-
-2
-
-Where A
+A
 
 is the protection ratio for sum assured referred to in paragraph 2(b) of the Fourth Schedule;
 
@@ -2468,13 +2338,9 @@ is the guaranteed policy liabilities for each of such Category 2 insured policie
 
 (i) where the insured policies are group term policies, group endowment policies or group whole life policies, an amount calculated in accordance with the following formula:
 
-(D + E)
+where
 
-x F,
-
-2
-
-Where D
+D
 
 is the protection ratio for sum assured referred to in paragraph 2(e)(i) of the Fourth Schedule;
 
@@ -2512,7 +2378,7 @@ is the guaranteed policy liabilities for each of such group term policies, group
 
 (A) the adjusted sum assured which is the product of the protection ratio for sum assured referred to in paragraph 2(e)(i) of the Fourth Schedule and the sum assured guaranteed under the policy; and
 
-(B) the adjusted surrender value which is the product of the protection ratio for surrender value referred to in paragraph 2(e)(ii) of the Fourth Schedule and the surrender value guaranteed under the policy;
+(B) the adjusted surrender value which is the product of the protection ratio for surrender value referred to in paragraph 2(e)(ii) of the Fourth Schedule and the surrender value guaranteed under the policy; and
 
 (ii) where the policy is a group annuity policy, the product of the protection ratio for commuted value referred to in paragraph 2(e)(iii) of the Fourth Schedule and the guaranteed policy liabilities for the policy.
 
@@ -2520,7 +2386,7 @@ FOURTH SCHEDULE
 
 Sections 2(1) and 47(1) and Third Schedule
 
-Protection Ratio
+Protection ratio
 
 1. In this Schedule —
 
@@ -2592,7 +2458,7 @@ FIFTH SCHEDULE
 
 Sections 27(8) and 52(8)
 
-PROVISIONS APPLICABLE TO THE HOLDING AND PAYMENT OF COMPENSATION BY THE PUBLIC TRUSTEE TO PERSONS ENTITLED TO PAYMENT OF COMPENSATION UNDER THis ACT
+Provisions applicable to the holding and payment of compensation by the Public Trustee to persons entitled to payment of compensation under this Act
 
 1\. The Public Trustee shall hold the payment of compensation made to him under sections 27 and 52 (referred to in this Schedule as compensation moneys) as a bare trustee until such compensation moneys are paid out to the insured depositors, persons referred to in section 22(7), insured policy owners, or beneficiaries under insured policies which are covered under the PPF General Fund and provide third party benefits, as the case may be, (referred to in this Schedule as the entitled persons) or the Consolidated Fund.
 
@@ -2628,18 +2494,13 @@ SIXTH SCHEDULE
 
 Section 74
 
-Financial Provisions With Respect to Di Fund,
-
-
-
-
-Ppf Life Fund and Ppf General Fund
+Financial provisions with respect to DI Fund, PPF Life Fund and PPF General Fund
 
 Financial year
 
 1.—(1) The financial year of the DI Fund shall begin on 1st April of every year and end on 31st March of the following year.
 
-(2) The financial year of the PPF Life Fund and the PPF General Fund shall begin on 1st April of every year and end on 31st March of the following year, except that the first financial year of the PPF Life Fund and the PPF General Fund shall begin on the effective date and end on 31st March of the following year.
+(2) The financial year of the PPF Life Fund and the PPF General Fund shall begin on 1st April of every year and end on 31st March of the following year, except that the first financial year of the PPF Life Fund and the PPF General Fund shall begin on the effective date appointed under section 46(5) and end on 31st March of the following year.
 
 Accounts of DI Fund, PPF Life Fund and PPF General Fund
 
@@ -2663,7 +2524,7 @@ Annual financial statements
 
 Remuneration of auditor
 
-6\. The remuneration of the auditor shall be paid out of the DI Fund, PPF Life Fund or PPF General Fund in such proportion as the Agency considers proper.
+6\. The remuneration of the auditor shall be paid out of the DI Fund, PPF Life Fund and PPF General Fund in such proportion as the Agency considers proper.
 
 Duties of auditor
 
@@ -2705,7 +2566,7 @@ SEVENTH SCHEDULE
 
 Section 75
 
-Financial Provisions With Respect to Agency
+Financial provisions with respect to Agency
 
 Financial year
 
@@ -2766,4 +2627,64 @@ Presentation of audited financial statements and auditor’s report
 Copy of auditor’s report for Auditor-General
 
 12\. Where the Auditor-General is not the auditor of the Agency, the Agency shall cause to be sent to the Auditor-General a copy of the audited financial statements and any report made by the auditor at the same time they are submitted to the Minister.
+
+## LEGISLATIVE HISTORY
+
+Deposit Insurance and Policy Owners’ Protection Schemes Act
+
+(CHAPTER 77B)
+
+This Legislative History is provided for the convenience of users of the Deposit Insurance and Policy Owners’ Protection Schemes Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 31 of 2005—Deposit Insurance Act 2005**|
+||Date of First Reading|15 August 2005|
+|||(Bill No. 21/2005 published on 16 August 2005)|
+||Date of Second and Third Readings|19 September 2005|
+||Date of commencement|18 October 2005|
+|2.|**2006 Revised Edition—Deposit Insurance Act (Chapter 77A)**|
+||Date of operation|31 December 2006|
+|3.|**Act 1 of 2007—Banking (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 13/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|31 March 2007|
+|4.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
+||Date of First Reading|10 March 2011|
+|||(Bill No. 10/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 May 2011|
+Note:
+
+The Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 repealed the Deposit Insurance Act (Chapter 77A, 2006 Revised Edition).
+
+|5.|**2012 Revised Edition—Deposit Insurance and Policy Owners' Protection Schemes Act (Chapter 77B)**|
+||Date of operation|31 December 2012|
+## COMPARATIVE TABLE
+
+Deposit Insurance and Policy Owners’ Protection Schemes Act
+
+(CHAPTER 77B)
+
+The following provisions in the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 (Act 15 of 2011) have been renumbered by the Law Revision Commissioners in this 2012 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Deposit Insurance and Policy Owners’ Protection Schemes Act.
+
+2012 Ed\. 
+
+Act 15 of 2011 
+
+Omitted
+
+92 
+
+Omitted
+
+93 
+
+92 —(1) to (13)
+
+94 —(1) to (13)
 
