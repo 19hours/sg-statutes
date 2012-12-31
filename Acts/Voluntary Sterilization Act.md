@@ -12,23 +12,23 @@
 
 - [3 Treatment for sexual sterilization](#Treatment-for-sexual-sterilization)
 
-- [4 Sexual sterilization to be carried out in approved institution](#Sexual-sterilization-to-be-carried-out-in-approved-institution)
+- [4 Sexual sterilization to be carried out in health institution](#Sexual-sterilization-to-be-carried-out-in-health-institution)
 
 - [5 Privilege against disclosure of matters or treatment relating to sexual sterilization](#Privilege-against-disclosure-of-matters-or-treatment-relating-to-sexual-sterilization)
 
-- [6 Power to inspect approved institutions and examine records, etc.](#Power-to-inspect-approved-institutions-and-examine-records-etc)
+- [6 Power to inspect health institutions and examine records, etc.](#Power-to-inspect-health-institutions-and-examine-records-etc)
 
 - [7 Penalty for compelling any person to undergo treatment for sexual sterilization](#Penalty-for-compelling-any-person-to-undergo-treatment-for-sexual-sterilization)
 
 - [8 Immunity of registered medical practitioners](#Immunity-of-registered-medical-practitioners)
 
-- [9 Sexual sterilization not to constitute grievous hurt under sections 87 and 320 of the Penal Code](#Sexual-sterilization-not-to-constitute-grievous-hurt-under-sections-87-and-320-of-the-Penal-Code)
+- [9 Sexual sterilization not to constitute grievous hurt under section 320 of Penal Code](#Sexual-sterilization-not-to-constitute-grievous-hurt-under-section-320-of-Penal-Code)
 
 - [10 Conscientious objection to participate in treatment for sexual sterilization](#Conscientious-objection-to-participate-in-treatment-for-sexual-sterilization)
 
 - [11 (Repealed)](#Repealed)
 
-- [12 Relief from certain restrictions where treatment consists solely of drugs](#Relief-from-certain-restrictions-where-treatment-consists-solely-of-drugs)
+- [12 (Repealed)](#Repealed)
 
 - [13 Regulations](#Regulations)
 
@@ -56,41 +56,79 @@ An Act relating to treatment for voluntary sexual sterilization by registered me
 
 2\. In this Act, unless the context otherwise requires —
 
-“approved institution” means any hospital, maternity home, clinic or other place approved by the Minister for the purposes of this Act;
+[Deleted by Act 28 of 2012 wef 31/12/2012]
 
-“registered medical practitioner” means a person registered under the Medical Registration Act [Cap. 174] who —
+“health institution” means —
 
-(a) is in possession of such medical qualifications as may be prescribed; or
+(a) any private hospital licensed under the Private Hospitals and Medical Clinics Act (Cap. 248);
 
-(b) has acquired skill in the treatment for sexual sterilization either in practice or by virtue of holding an appointment in an approved institution over such period as may be prescribed;
+(b) any medical clinic licensed under the Private Hospitals and Medical Clinics Act to provide ambulatory surgery services; or
+
+(c) any specialist medical clinic;
+
+[Act 28 of 2012 wef 31/12/2012]
+
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174);
+
+[Act 28 of 2012 wef 31/12/2012]
+
+“specialist medical clinic” means a medical clinic —
+
+(a) that is licensed under the Private Hospitals and Medical Clinics Act; and
+
+(b) at which a registered medical practitioner, who is registered under section 22 of the Medical Registration Act as a specialist in such branches of medicine as may be prescribed, works;
+
+[Act 28 of 2012 wef 31/12/2012]
 
 “treatment for sexual sterilization” means the surgical sterilization of a male or female that does not involve removal of the reproduction glands or organs unless such removal is necessary for medical or therapeutic reasons.
 
 ### Treatment for sexual sterilization
 
-3\.—(1) Notwithstanding the provisions of any written law, but subject to this section, it shall be lawful for a registered medical practitioner to carry out treatment for sexual sterilization.
+3\.—(1) Notwithstanding the provisions of any written law, but subject to this section and section 4, it shall be lawful for a registered medical practitioner to carry out treatment for sexual sterilization.
 
-(2) A registered medical practitioner may carry out treatment for sexual sterilization on any person if the following conditions are satisfied:
+(2) A registered medical practitioner may carry out treatment for sexual sterilization on any person if, and only if, the following conditions are satisfied:
 
-(a) in the case of a person over 21 years of age who is not married, if the person gives consent to such treatment;
+(a) subject to paragraphs (d) and (e), in the case of a married or an unmarried person who is 21 years of age or older, if the person gives consent to such treatment;
 
-(b) in the case of a person under 21 years of age who is married, if the person gives consent to such treatment;
+(b) subject to paragraph (d), in the case of a married person who is below 21 years of age, if the person gives consent to such treatment;
 
-(c) in the case of a person under 21 years of age who is not married, if the person together with his parent or guardian (if there is no parent living) give consent to such treatment;
+(c) subject to paragraph (e), in the case of an unmarried person who is below 21 years of age, if the person, and at least one parent or guardian of the person, both give consent to such treatment;
 
-(d) in the case of a person who is married and is afflicted with any hereditary form of illness that is recurrent, mental illness, mental deficiency or epilepsy, if the wife or husband of that person gives consent on behalf of that person to such treatment;
+(d) in the case of a married person who lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) to consent to such treatment, if, on the application of the person’s spouse, the High Court makes an order declaring that such treatment is necessary in the best interests of that person;
 
-(e) in the case of a person who is not married and is afflicted with any hereditary form of illness that is recurrent, mental illness, mental deficiency or epilepsy, if a parent or guardian (if there is no parent living) gives consent on behalf of that person to such treatment,
+(e) in the case of an unmarried person who lacks capacity within the meaning of section 4 of the Mental Capacity Act to consent to such treatment, if, on the application of at least one parent or guardian of the person, the High Court makes an order declaring that such treatment is necessary in the best interests of that person.
 
-[S 85/92]
+[Act 28 of 2012 wef 31/12/2012]
 
-so long as in the cases to which paragraphs (d) and (e) refer the registered medical practitioner certifies that the treatment is necessary in the interest of the person undergoing such treatment and of society generally.
+(3) Before a registered medical practitioner carries out treatment for sexual sterilization, he shall give to the person undergoing such treatment, not being a person who lacks capacity within the meaning of section 4 of the Mental Capacity Act to consent to such treatment, a full and reasonable explanation as to the meaning and consequences of that treatment, and such person shall certify that he clearly understands the meaning and consequences of that treatment.
 
-(3) Before a registered medical practitioner carries out treatment for sexual sterilization he shall give to the person undergoing such treatment, or to the person that gives consent to that treatment on his behalf, a full and reasonable explanation as to the meaning and consequences of that treatment and such person, or the person who gives consent on his behalf, shall certify that he clearly understands the meaning and consequences of that treatment.
+[Act 28 of 2012 wef 31/12/2012]
 
-### Sexual sterilization to be carried out in approved institution
+(4) For the purposes of this section, Part II of the Mental Capacity Act shall apply, with the necessary modifications, for the purposes of determining —
 
-4\. Subject to section 12, every treatment for sexual sterilization shall be carried out in an approved institution.
+(a) whether a person lacks capacity within the meaning of section 4 of that Act to consent to treatment for sexual sterilization; and
+
+(b) whether such treatment is in the best interests of that person.
+
+[Act 28 of 2012 wef 31/12/2012]
+
+(5) Any registered medical practitioner who carries out any treatment for sexual sterilization on a person when the requisite conditions referred to in subsection (2) in respect of that person are not satisfied shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 28 of 2012 wef 31/12/2012]
+
+[Act 28 of 2012 wef 31/12/2012]
+
+### Sexual sterilization to be carried out in health institution
+
+4\.—(1) Subject to subsection (2), every treatment for sexual sterilization shall be carried out only —
+
+(a) in a health institution; and
+
+(b) by a registered medical practitioner who is authorised by the person having the management or control of the health institution to carry out such treatment.
+
+(2) Where the treatment for sexual sterilization is carried out in a health institution that is a specialist medical clinic, the registered medical practitioner referred to in subsection (1)(b) shall in addition possess such surgical or obstetric qualifications as may be prescribed.
+
+[Act 28 of 2012 wef 31/12/2012]
 
 ### Privilege against disclosure of matters or treatment relating to sexual sterilization
 
@@ -102,23 +140,37 @@ so long as in the cases to which paragraphs (d) and (e) refer the registered med
 
 shall, unless the person upon whom the treatment has been performed expressly gives consent thereto, disclose any facts or information relating to that treatment except to such persons and for such purposes as may be prescribed.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Power to inspect approved institutions and examine records, etc.
+[Act 28 of 2012 wef 31/12/2012]
 
-6\. Any public officer authorised by the Minister for the purpose shall have power to enter any approved institution for the purpose of ensuring that the provisions of this Act, and any regulations made thereunder, are being complied with and may examine and make copies of or take extracts from any records or documents connected with any treatment for sexual sterilization.
+### Power to inspect health institutions and examine records, etc.
+
+6\. Any public officer authorised by the Minister for the purpose shall have power to enter any health institution for the purpose of ensuring that the provisions of this Act, and any regulations made thereunder, are being complied with and may examine and make copies of or take extracts from any records or documents connected with any treatment for sexual sterilization.
+
+[Act 28 of 2012 wef 31/12/2012]
 
 ### Penalty for compelling any person to undergo treatment for sexual sterilization
 
-7\. Any person who, by means of coercion or intimidation, compels or induces another person against that person’s will to undergo treatment for sexual sterilization shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 5 years or to both.
+7\. Any person who, by means of coercion or intimidation, compels or induces another person against that person’s will to undergo treatment for sexual sterilization shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 28 of 2012 wef 31/12/2012]
 
 ### Immunity of registered medical practitioners
 
-8\. No registered medical practitioner shall be liable civilly or criminally for carrying out treatment for sexual sterilization so long as the person undergoing that treatment gives his consent or consent is given on his behalf under this Act and such treatment is not carried out in a negligent manner.
+8\. No registered medical practitioner shall be liable civilly or criminally for carrying out treatment for sexual sterilization on any person so long as —
 
-### Sexual sterilization not to constitute grievous hurt under sections 87 and 320 of the Penal Code
+(a) the conditions in section 3(2) are satisfied in respect of that person; and
 
-9\. For the avoidance of doubt it is hereby declared that any treatment for sexual sterilization by a registered medical practitioner shall not constitute grievous hurt under sections 87 and 320 of the Penal Code [Cap. 224].
+(b) such treatment is not carried out in a negligent manner.
+
+[Act 28 of 2012 wef 31/12/2012]
+
+### Sexual sterilization not to constitute grievous hurt under section 320 of Penal Code
+
+9\. For the avoidance of doubt it is hereby declared that any treatment for sexual sterilization by a registered medical practitioner shall not constitute grievous hurt under section 320 of the Penal Code [Cap. 224].
+
+[Act 28 of 2012 wef 31/12/2012]
 
 ### Conscientious objection to participate in treatment for sexual sterilization
 
@@ -126,13 +178,7 @@ shall, unless the person upon whom the treatment has been performed expressly gi
 
 11\. [Repealed by Act 26 of 2001 wef 01/09/2001]
 
-### Relief from certain restrictions where treatment consists solely of drugs
-
-12\. Notwithstanding anything in this Act, where the treatment for sexual sterilization consists solely of the use of drugs prescribed by a registered medical practitioner and does not, therefore, include any surgical operation or procedure it shall not be necessary —
-
-(a) for the registered medical practitioner to hold the prescribed qualifications or to have acquired skill in such treatment over such period as may be prescribed; and
-
-(b) for the treatment to be carried out in an approved institution.
+12\. [Repealed by Act 28 of 2012 wef 31/12/2012]
 
 ### Regulations
 
@@ -142,11 +188,15 @@ shall, unless the person upon whom the treatment has been performed expressly gi
 
 (a) requiring registered medical practitioners to keep records of treatment for sexual sterilization and to forward such records to the Director of Medical Services together with such information relating to such treatment as the Director may require;
 
-(b) prescribing the forms of consent to be given by a person undergoing treatment for sexual sterilization under section 3 and the form of certification to be given by a registered medical practitioner under section 3(2)(d) and (e) and such other forms of certification as may be required;
+(b) prescribing the forms of consent to be given by a person undergoing treatment for sexual sterilization under section 3 and the form of certification to be given by a person undergoing treatment for sexual sterilization as required under section 3(3) and such other forms of certification as may be required;
+
+[Act 28 of 2012 wef 31/12/2012]
 
 (c) providing for the preservation and disposal of records in respect of treatment for sexual sterilization authorised under this Act and for the use of such records for statistical or research purposes so long as such use does not disclose the identities of the persons who have received treatment in respect of sexual sterilization;
 
-(d) prescribing the qualifications of registered medical practitioners who may carry out treatment for sexual sterilization or the period of time considered adequate to confer skill in such treatment upon registered medical practitioners who do not possess such prescribed qualifications. Different qualifications may be prescribed in respect of registered medical practitioners who carry out treatment for sexual sterilization on males or females.
+(d) prescribing the qualifications of registered medical practitioners who may carry out treatment for sexual sterilization in specialist medical clinics, which qualifications may differ in respect of treatment for sexual sterilization on males or on females.
+
+[Act 28 of 2012 wef 31/12/2012]
 
 ## LEGISLATIVE HISTORY
 
@@ -172,3 +222,8 @@ This Legislative History is provided for the convenience of users of the Volunta
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Dates of commencement|1 September 2001 (except sections 3 and 17)|
+|5.|**Act 28 of 2012—Voluntary Sterilization (Amendment) Act 2012**|
+||Date of First Reading|10 September 2012|
+|||(Bill No. 26/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|16 October 2012|
+||Date of commencement|31 December 2012|
