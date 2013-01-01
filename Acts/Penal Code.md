@@ -4427,23 +4427,25 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 ### Punishment for murder
 
-302\. Whoever commits murder shall be punished with death.
+302\.—(1) Whoever commits murder within the meaning of section 300(a) shall be punished with death.
 
-[Indian PC 1860, s. 302]
+(2) Whoever commits murder within the meaning of section 300(b), (c) or (d) shall be punished with death or imprisonment for life and shall, if he is not punished with death, also be liable to caning.
+
+[Act 32 of 2012 wef 01/01/2013]
 
 ### Punishment for culpable homicide not amounting to murder
 
-\*304\. Whoever commits culpable homicide not amounting to murder shall be punished —
+304\. Whoever commits culpable homicide not amounting to murder shall —
 
-(a) with imprisonment for life, or imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning, if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or
+(a) if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death, be punished with —
 
-(b) with imprisonment for a term which may extend to 10 years, or with fine, or with caning, or with any combination of such punishments, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.
+(i) imprisonment for life, and shall also be liable to caning; or
 
-[62/73; 51/2007]
+(ii) imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning; or
 
-[Indian PC 1860, s. 304]
+(b) if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death, be punished with imprisonment for a term which may extend to 10 years, or with fine, or with caning, or with any combination of such punishments.
 
-\*There is no section 303.
+[Act 32 of 2012 wef 01/01/2013]
 
 ### Causing death by rash or negligent act
 
@@ -7673,3 +7675,9 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|51.|**Act 32 of 2012—Penal Code (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 October 2012|
+|||(Bill No. 33/2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 January 2013|
