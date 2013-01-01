@@ -590,7 +590,7 @@
 
 - [247 Procedure if accused is suspected to be of unsound mind](#Procedure-if-accused-is-suspected-to-be-of-unsound-mind)
 
-- [248 Certificate of principal officer](#Certificate-of-principal-officer)
+- [248 Certificate of designated medical practitioner](#Certificate-of-designated-medical-practitioner)
 
 - [249 Release of person of unsound mind pending investigation or trial](#Release-of-person-of-unsound-mind-pending-investigation-or-trial)
 
@@ -915,6 +915,18 @@
 - [393 Death of party to appeal](#Death-of-party-to-appeal)
 
 - [394 Grounds for reversal by appellate court](#Grounds-for-reversal-by-appellate-court)
+
+[**Division 1A  Review of sentence of death when no appeal filed**](#Division-1A--Review-of-sentence-of-death-when-no-appeal-filed)
+
+- [394A Public Prosecutor to file petition for confirmation](#Public-Prosecutor-to-file-petition-for-confirmation)
+
+- [394B Court of Appeal to review sentence of death](#Court-of-Appeal-to-review-sentence-of-death)
+
+- [394C Powers of Court of Appeal in petition for confirmation](#Powers-of-Court-of-Appeal-in-petition-for-confirmation)
+
+- [394D Permission for parties to be heard](#Permission-for-parties-to-be-heard)
+
+- [394E Orders on review](#Orders-on-review)
 
 [**Division 2  Points reserved**](#Division-2--Points-reserved)
 
@@ -2657,7 +2669,17 @@ the court may remand him in custody or grant him bail subject to such conditions
 
 (c) may call on him to pay the amount of the bond or to explain why he should not pay it.
 
-(2) If his explanation is inadequate and the amount of the bond is not paid, the court may recover the amount by issuing an order for the attachment and sale of his property.
+(2) If his explanation is inadequate and the amount of the bond is not paid, the court may recover the amount by issuing an order for the attachment of any property, movable or immovable, belonging to him —
+
+(a) by seizure of such property which may be sold and the proceeds applied towards the payment of the amount of the bond; or
+
+(b) by appointing a receiver who shall be at liberty to take possession of and sell such property and apply the proceeds towards the payment of the amount of the bond.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+(2A) Any person may, not later than 7 days after the date of the seizure of any property under subsection (2)(a) or the taking of possession of any property by the receiver under subsection (2)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (2) and the court shall make such order as it sees fit.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (3) If immovable property attached under subsection (2) is sold, the officer under whose direction the attachment and sale was carried out may do any thing or act to transfer the title to the purchaser.
 
@@ -4691,19 +4713,29 @@ Proceedings relating to persons of unsound mind
 
 (3) If the court, on its own motion or on the application of the Public Prosecutor, is not satisfied that the person is capable of making his defence, the court shall postpone the inquiry or trial or other proceeding and shall order that person to be remanded for observation in a psychiatric institution for a period not exceeding one month.
 
-(4) The principal officer must keep the accused under observation and provide any necessary treatment during his remand and, before the expiry of that period, shall certify in writing to the court his opinion as to the person’s state of mind and if he is unable within that period to form any conclusion, shall so certify to the court and shall ask for a further remand, which may extend to a period of 2 months.
+(4) A designated medical practitioner must keep the accused under observation and provide any necessary treatment during his remand and, before the expiry of that period, shall certify in writing to the court his opinion as to the person’s state of mind and if he is unable within that period to form any conclusion, shall so certify to the court and shall ask for a further remand, which may extend to a period of 2 months.
 
-### Certificate of principal officer
+[Act 33 of 2012 wef 01/01/2013]
 
-248\.—(1) If the principal officer certifies that the accused is of sound mind and capable of making his defence, the court shall, unless satisfied to the contrary, proceed with the inquiry or trial or other proceeding.
+### Certificate of designated medical practitioner
 
-(2) If the principal officer certifies that that person is of unsound mind and incapable of making his defence, the court shall, unless satisfied to the contrary, find accordingly, and thereupon the inquiry or trial or other proceeding shall be stayed but if the court is satisfied that the accused is of sound mind and capable of making his defence, the court shall proceed with the inquiry or trial or other proceeding, as the case may be.
+248\.—(1) If the designated medical practitioner certifies that the accused is of sound mind and capable of making his defence, the court shall, unless satisfied to the contrary, proceed with the inquiry or trial or other proceeding.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+(2) If the designated medical practitioner certifies that that person is of unsound mind and incapable of making his defence, the court shall, unless satisfied to the contrary, find accordingly, and thereupon the inquiry or trial or other proceeding shall be stayed but if the court is satisfied that the accused is of sound mind and capable of making his defence, the court shall proceed with the inquiry or trial or other proceeding, as the case may be.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (3) The determination of the issue as to whether or not the accused is of unsound mind and incapable of making his defence shall, if the finding is that he is of sound mind and capable of making his defence, be deemed to be part of his trial before the court.
 
-(4) The certificate of the principal officer shall be admissible as evidence under this section.
+(4) The certificate of the designated medical practitioner shall be admissible as evidence under this section.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (5) If the accused is certified to be of unsound mind and incapable of making his defence, it shall not be necessary for him to be present in court during proceedings under this section and he may be detained in a psychiatric institution pending an order under section 249.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 ### Release of person of unsound mind pending investigation or trial
 
@@ -4751,7 +4783,9 @@ the court may at any time begin the inquiry or trial or other proceeding afresh 
 
 ### Procedure when person of unsound mind reported able to make defence
 
-254\.—(1) If a person is confined under section 249 and is certified by a principal officer and 2 of the visitors of the psychiatric institution to be capable of making his defence, the court must proceed with the inquiry or trial or other proceeding, as the case may be, and the certificate shall be admissible as evidence.
+254\.—(1) If a person is confined under section 249 and is certified by the principal officer and 2 of the visitors of the psychiatric institution to be capable of making his defence, the court must proceed with the inquiry or trial or other proceeding, as the case may be, and the certificate shall be admissible as evidence.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (2) Where after the trial is proceeded with against the person referred to in subsection (1) —
 
@@ -4779,7 +4813,9 @@ any order made by the Minister under section 249(2) shall be deemed to have laps
 
 (b) that person will be prevented from injuring himself or any other person;
 
-(c) that person will be produced for inspection by a principal officer at such time as the Minister directs; and
+(c) that person will be produced for inspection by the principal officer at such time as the Minister directs; and
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (d) the relative or friend of that person will be able to meet any other conditions that the Minister may impose,
 
@@ -4826,6 +4862,10 @@ Explanation1—If a statement is obtained from an accused by a person in authori
 Explanations2—If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
 
 (a) under a promise of secrecy, or in consequence of a deception practised on the accused for the purpose of obtaining it;
+
+(aa) where the accused is informed in writing by a person in authority of the circumstances in section 33B of the Misuse of Drugs Act (Cap. 185) under which life imprisonment may be imposed in lieu of death;
+
+[Act 30 of 2012 wef 01/01/2013]
 
 (b) when the accused was intoxicated;
 
@@ -5622,21 +5662,31 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 (b) the warrant shall be full authority to the Director of Prisons, or any officer appointed by him for that purpose, for receiving into his custody and detaining the person sentenced until he receives the court’s further warrant or order;
 
-(c) in cases in which notice of appeal or notice of an application for leave to appeal is not given within the prescribed period, the trial Judge who tried the accused must, within a reasonable time after that period has elapsed, send to the Minister a copy of the notes of evidence taken at the trial, with a report in writing signed by him stating whether, in his opinion, there are any reasons (and, if so, what reasons) why the death sentence should or should not be carried out;
+(c) the trial Judge who tried the accused must, within a reasonable time after sentence has been pronounced, prepare a copy of the notes of evidence taken at the trial and a report in writing signed by him stating whether, in his opinion, there is any reason (and, if so, particulars of the reason) why the death sentence should be carried out;
 
-(d) in cases where notice of appeal is given or notice of an application for leave to appeal is given, the trial Judge must forward to the Court of Appeal the notes of evidence and report referred to in paragraph (c), within a reasonable time after being notified by the Registrar of the Supreme Court that the notice has been given;
+[Act 33 of 2012 wef 01/01/2013]
 
-(e) if the Court of Appeal dismisses the appeal or the application for leave to appeal, as the case may be, then the Chief Justice or other presiding Judge must, within a reasonable time, forward to the Minister the notes of evidence and report, stating whether he agrees with the trial Judge, together with a notification of the decision of the Court of Appeal and also any report on the case that the Court of Appeal may think fit to make, signed by the Chief Justice or other presiding Judge;
+(d) the trial Judge must forward to the Court of Appeal the notes of evidence and report referred to in paragraph (c), within a reasonable time after being notified by the Registrar of the Supreme Court that a notice of appeal has been given or petition for confirmation has been lodged, as the case may be;
+
+[Act 33 of 2012 wef 01/01/2013]
+
+(e) if the Court of Appeal dismisses the appeal or confirms the imposition of the sentence of death, then the Chief Justice or other presiding Judge must, within a reasonable time, forward to the Minister the notes of evidence and report referred to in paragraph (c), stating whether he agrees with the trial Judge, together with a notification of the decision of the Court of Appeal and also any report on the case that the Court of Appeal may think fit to make, signed by the Chief Justice or other presiding Judge;
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (f) the President must, acting in accordance with the Constitution —
 
-(i) transmit to the High Court a copy signed and sealed by him of any order he makes;
+(i) transmit to the Court of Appeal a copy signed and sealed by him of any order he makes;
 
 (ii) if the sentence is to be carried out, state the time and place of execution of the sentence in the order; and
 
 (iii) if the person sentenced is pardoned or the sentence is commuted to another punishment, state this in the order;
 
-(g) on receiving the copy of the President’s order the High Court must, if the sentence is to be carried out, cause a warrant to be issued under the seal of the Court and signed by the trial Judge, or in his absence any other High Court Judge, setting out the time and place of execution as prescribed in the order of the President;
+[Act 33 of 2012 wef 01/01/2013]
+
+(g) on receiving the copy of the President’s order the Court of Appeal must, if the sentence is to be carried out, cause a warrant to be issued under the seal of the Supreme Court and signed by the Chief Justice or other presiding Judge, or in the absence thereof any other Judge of Appeal or High Court Judge, setting out the time and place of execution as prescribed in the order of the President;
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (h) the President may, at any time before the warrant is carried out, order a respite of the execution of the warrant and afterwards appoint some other time or other place for its execution;
 
@@ -5698,15 +5748,17 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 (iii) order the attachment of any property, movable or immovable, belonging to the offender —
 
-(A) by seizure;
+(A) by seizure of such property which may be sold and the proceeds applied towards the payment of such fine; or
 
-(B) by appointing a receiver; or
+(B) by appointing a receiver who shall be at liberty to take possession of and sell such property and apply the proceeds towards the payment of such fine;
 
-(C) by directing any person who owes money to the offender to pay the court the amount of that debt due or accruing or the amount that is sufficient to pay off the fine;
+(iv) direct any person who owes money to the offender to pay the court the amount of that debt due or accruing or the amount that is sufficient to pay off the fine;
 
-(iv) direct that in default of payment of the fine, the offender must suffer imprisonment for a certain term which must be consecutive with any other imprisonment to which he may be sentenced, including any other imprisonment term or terms imposed on the offender under this section in default of payment of fine, or to which he may be liable under a commutation of a sentence;
+(v) direct that in default of payment of the fine, the offender must suffer imprisonment for a certain term which must be consecutive with any other imprisonment to which he may be sentenced, including any other imprisonment term or terms imposed on the offender under this section in default of payment of fine, or to which he may be liable under a commutation of a sentence;
 
-(v) direct that the person be searched, and that any money found on him when so searched or which, in the event of his being committed to prison, may be found on him when taken to prison, shall be applied towards the payment of such fine, the surplus, if any, being returned to him; provided that the money shall not be so applied if the court is satisfied that the money does not belong to the person on whom it was found;
+(vi) direct that the person be searched, and that any money found on him when so searched or which, in the event of his being committed to prison, may be found on him when taken to prison, shall be applied towards the payment of such fine, and the surplus, if any, being returned to him; provided that the money shall not be so applied if the court is satisfied that the money does not belong to the person on whom it was found;
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (c) before allowing time for payment under paragraph (b)(i) or directing payment by instalments under paragraph (b)(ii), the court may require the offender to execute a bond with or without sureties on condition that he pay the fine or the instalments, as the case may be, on the day or days directed; and if the fine or any instalment is not paid as ordered, then the whole of the fine remaining unpaid becomes due and payable and the court may issue a warrant for the offender’s arrest;
 
@@ -5726,7 +5778,13 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 (h) the fine or any part of it that remains unpaid may be levied at any time within 6 years after the passing of the sentence or, if under the sentence the offender is liable to imprisonment for a longer period than 6 years, then at any time before that period expires; and the offender’s death does not discharge from the liability any property that would after his death be legally liable for his debts.
 
-(2) If a person fails to pay the court the amount which he is directed to pay under subsection (1)(b)(iii)(C), it shall be recoverable as though it were a judgment debt due to the court.
+(2) If a person fails to pay the court the amount which he is directed to pay under subsection (1)(b)(iv), it shall be recoverable as though it were a judgment debt due to the court.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+(3) Any person may, not later than 7 days after the date of the seizure of any property under subsection (1)(b)(iii)(A) or the taking of possession of any property by the receiver under subsection (1)(b)(iii)(B), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (1)(b)(iii) and the court shall make such order as it sees fit.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 ### Suspension of execution in certain cases
 
@@ -6397,11 +6455,15 @@ COMPENSATION AND COSTS
 
 (c) order the attachment of any property, movable or immovable, belonging to the person —
 
-(i) by seizure;
+(i) by seizure of such property which may be sold and the proceeds applied towards the payment of that sum; or
 
-(ii) by appointing a receiver; or
+(ii) by appointing a receiver who shall be at liberty to take possession of and sell such property and apply the proceeds towards the payment of that sum;
 
-(iii) by directing any other person who owes money to the person to pay the court the amount of that debt due or accruing or the amount that is sufficient to pay off the compensation sum;
+[Act 33 of 2012 wef 01/01/2013]
+
+(ca) direct any person who owes money to the person ordered to pay compensation to pay the court the amount of that debt due or accruing or the amount that is sufficient to pay off the compensation sum;
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (d) direct that in default of payment of the compensation sum, that person must suffer imprisonment for a certain term, which imprisonment must be consecutive with any other imprisonment to which he may be sentenced or to which he may be liable under a commutation of sentence;
 
@@ -6423,7 +6485,13 @@ COMPENSATION AND COSTS
 
 (6) If before the end of the period of imprisonment imposed in default of payment of the compensation sum, such a proportion of the money is paid or levied that the time of imprisonment already suffered in default of payment of the compensation sum is at least equivalent to the part of the sum still unpaid, then the imprisonment must end.
 
-(7) If the person fails to pay the court the amount which he is directed to pay under subsection (1)(c)(iii), it shall be recoverable as though it were a judgment debt due to the court.
+(7) If the person fails to pay the court the amount which he is directed to pay under subsection (1)(ca), it shall be recoverable as though it were a judgment debt due to the court.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+(8) Any person may, not later than 7 days after the date of the seizure of any property under subsection (1)(c)(i) or the taking of possession of any property by the receiver under subsection (1)(c)(ii), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (1)(c) and the court shall make such order as it sees fit.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 ### Costs recoverable as judgment debt
 
@@ -6562,6 +6630,10 @@ Appeals
 
 (4) An appeal by a person convicted by a trial court shall be against his conviction, the sentence imposed on him or an order of the trial court.
 
+(4A) No appeal may lie against the conviction of an accused of any offence by a trial court until after the trial court imposes a sentence in relation to that offence.
+
+[Act 33 of 2012 wef 01/01/2013]
+
 (5) No appeal may lie against any order made by a Magistrate, a District Judge, the Registrar of the Subordinate Courts or the Registrar of the Supreme Court in any criminal case disclosure conference held under Part IX or X.
 
 ### Limited right of appeal against plea of guilty
@@ -6584,7 +6656,13 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 377\.—(1) Subject to sections 374, 375 and 376, a person who is not satisfied with any judgment, sentence or order of a trial court in a criminal case or matter to which he is a party may appeal to the appellate court against that judgment, sentence or order in respect of any error in law or in fact, or in an appeal against sentence, on the ground that the sentence imposed is manifestly excessive or manifestly inadequate.
 
-(2) A notice of appeal against any judgment, sentence or order of the trial court must be lodged by the appellant within 14 days with the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a District Court or a Magistrate’s Court), from the date of that judgment, sentence or order.
+(2) A notice of appeal against any judgment, sentence or order of the trial court must be lodged by the appellant with the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a District Court or a Magistrate’s Court) —
+
+(a) in the case of an appeal against conviction, or an appeal against conviction and sentence, within 14 days after the date of the sentence; and
+
+(b) in any other case, within 14 days after the date of the judgment, sentence or order.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 (3) Every notice of appeal must —
 
@@ -6650,11 +6728,9 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 (2) If the appellant is ultimately sentenced to imprisonment, the time during which the execution of the sentence was stayed shall be excluded in computing the term of his sentence unless the appellate court orders otherwise.
 
-(3) In the case of a conviction involving a sentence of death, the execution of the sentence of death must not be carried out until —
+(3) In the case of a conviction involving a sentence of death, the execution of the sentence of death must not be carried out until after the sentence is confirmed by the Court of Appeal pursuant to an appeal by the accused or a petition for confirmation by the Public Prosecutor.
 
-(a) after the time allowed under this Code for appeal; or
-
-(b) if an appeal is made within the time allowed under this Code for appeal, after the sentence is confirmed by the appellate court.
+[Act 33 of 2012 wef 01/01/2013]
 
 ### Summary rejection of appeal
 
@@ -6809,6 +6885,62 @@ and the Chief Justice consents to the request, the appeal must be heard by such 
 ### Grounds for reversal by appellate court
 
 394\. Any judgment, sentence or order of a trial court may be reversed or set aside only where the appellate court is satisfied that it was wrong in law or against the weight of the evidence or, in the case of a sentence, manifestly excessive or manifestly inadequate in all the circumstances of the case.
+
+Division 1A —
+
+Review of sentence of death when no appeal filed
+
+### Public Prosecutor to file petition for confirmation
+
+394A\.—(1) Where the High Court passes a sentence of death on an accused and no appeal is filed by the accused within the time allowed under this Code for an appeal, the Public Prosecutor shall, on the expiry of 90 days after the time allowed under this Code for appeal, lodge a petition for confirmation with the Registrar of the Supreme Court and serve the petition on the accused.
+
+(2) When a petition for confirmation has been lodged, the trial court shall transmit to the Court of Appeal, the Public Prosecutor, and the accused or his advocate, a signed copy of the record of the proceedings and the grounds of decision free of charge.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+### Court of Appeal to review sentence of death
+
+394B\. The Court of Appeal shall examine the record of proceedings and the grounds of decision and shall satisfy itself as to the correctness, legality and propriety of —
+
+(a) the conviction of the accused for the offence for which the sentence of death is imposed; and
+
+(b) the imposition of the sentence of death for the offence, where the sentence of death is not mandatory by law.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+### Powers of Court of Appeal in petition for confirmation
+
+394C\. The Court of Appeal may in any proceeding relating to a petition for confirmation exercise such powers as it may exercise in an appeal by the accused.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+### Permission for parties to be heard
+
+394D\.—(1) No party has the right to be heard either personally or by advocate before the Court of Appeal in any proceeding relating to a petition for confirmation.
+
+(2) The Court of Appeal may, if it thinks fit, hear any party either personally or by advocate.
+
+[Act 33 of 2012 wef 01/01/2013]
+
+### Orders on review
+
+394E\.—(1) If the Court of Appeal is satisfied as to the correctness, legality and propriety of —
+
+(a) the conviction of the accused for the offence for which the sentence of death is imposed; or
+
+(b) the imposition of the sentence of death for the offence, where the sentence of death is not mandatory by law,
+
+it shall issue a certificate to the Public Prosecutor and the accused or his advocate confirming the imposition of the sentence of death on the accused.
+
+(2) If the Court of Appeal is not satisfied as to the correctness, legality and propriety of —
+
+(a) the conviction of the accused for the offence for which the sentence of death is imposed; or
+
+(b) the imposition of the sentence of death for the offence, where the sentence of death is not mandatory by law,
+
+it shall set aside the sentence of death, and may make such further order as it deems fit.
+
+[Act 33 of 2012 wef 01/01/2013]
 
 Division 2 —
 
@@ -16971,3 +17103,13 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of commencement|1 August 2012|
 |6.|**2012 Revised Edition—Criminal Procedure Code (Chapter 68)**|
 ||Date of operation|31 August 2012|
+|7.|**Act 30 of 2012—Misuse of Drugs (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 October 2012 (Bill No. 27/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 January 2013|
+|8.|**Act 33 of 2012—Criminal Procedure Code (Amendment) Act 2012**|
+||(Consequential amendments made by)||
+||Date of First Reading|15 October 2012 (Bill No. 34/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 January 2013|
