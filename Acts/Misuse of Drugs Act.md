@@ -88,6 +88,8 @@
 
 - [33A Punishment for repeat consumption of specified drugs](#Punishment-for-repeat-consumption-of-specified-drugs)
 
+- [33B Discretion of court not to impose sentence of death in certain circumstances](#Discretion-of-court-not-to-impose-sentence-of-death-in-certain-circumstances)
+
 [**Part IV TREATMENT AND REHABILITATION**](#Part-IV)
 
 - [34 Supervision, treatment and rehabilitation of drug addicts](#Supervision-treatment-and-rehabilitation-of-drug-addicts)
@@ -244,11 +246,27 @@ PRELIMINARY
 
 “officer of customs” has the same meaning as in the Customs Act (Cap. 70);
 
-“officer of the Bureau” means the Director or any person appointed under section 3 as a Deputy Director, an Assistant Director or an officer of the Central Narcotics Bureau;
+“officer of the Bureau” means the Director or any person appointed under section 3 as a Deputy Director, a Divisional Director or an officer of the Central Narcotics Bureau;
+
+[Act 30 of 2012 wef 01/01/2013]
 
 “opium” means any substance containing in any quantity morphine and one or more of the following, namely, codeine, narcotine, papaverine and thebaine but does not include poppy-straw which is not mixed in any such substance;
 
 “permanent resident of Singapore” includes the holder of a Singapore blue identity card and a person who holds an entry permit or a re-entry permit issued by the Controller of Immigration;
+
+“place” includes —
+
+(a) any building or structure, whether permanent or temporary;
+
+(b) any land, whether or not built on;
+
+(c) any place, whether or not enclosed, and whether or not situated underground or underwater;
+
+(d) any vessel, aircraft, train, or vehicle (whether mechanically propelled or otherwise) or any other means of transport; and
+
+(e) any part of any place referred to in paragraphs (a) to (d);
+
+[Act 30 of 2012 wef 01/01/2013]
 
 “police officer” has the same meaning as in the Police Force Act (Cap. 235);
 
@@ -272,23 +290,43 @@ PRELIMINARY
 
 otherwise than under the authority of this Act, and “trafficking” has a corresponding meaning;
 
-“Vigilante Corps” means the Vigilante Corps constituted under the Vigilante Corps Act (Cap. 343).
+“Vigilante Corps” means the Vigilante Corps constituted under the Vigilante Corps Act (Cap. 343);
 
 [49/75; 12/77; 40/93; 20/98; 8/2000; 4/2001; 2/2006]
 
+[Act 30 of 2012 wef 01/01/2013]
+
+“vulnerable person” means any person who suffers from an impairment of, or a disturbance in the functioning of, the mind or brain resulting from any disability or disorder of the mind or brain which impairs the ability to make a proper judgment in relation to the commission of any offence under this Act;
+
+[Act 30 of 2012 wef 01/01/2013]
+
+“young person” means any person who is below 21 years of age.
+
+[Act 30 of 2012 wef 01/01/2013]
+
 ### Appointment of Director and other officers of Central Narcotics Bureau
 
-3\.—(1) The Minister may appoint a Director of the Central Narcotics Bureau and such numbers of Deputy Directors, Assistant Directors and other officers as the Minister may think fit.
+3\.—(1) The Minister may appoint a Director of the Central Narcotics Bureau and such numbers of Deputy Directors, Divisional Directors and other officers as the Minister may think fit.
 
 [2/2006]
+
+[Act 30 of 2012 wef 01/01/2013]
 
 (2) All officers of the Bureau appointed by the Minister before 12th December 1975 shall be deemed to have been appointed under subsection (1).
 
 [49/75]
 
-(3) The powers and functions conferred upon the Director under this Act, and the duties required to be discharged by him may, subject to such limitations as the Director may impose, be exercised and discharged by any Deputy Director or Assistant Director of the Central Narcotics Bureau duly authorised by the Director to act on his behalf.
+(3) Subject to the provisions of this Act, the powers and functions conferred upon the Director under this Act, and the duties required to be discharged by him may, subject to such limitations as the Director may impose, be exercised and discharged by any Deputy Director or Divisional Director of the Central Narcotics Bureau duly authorised by the Director to act on his behalf.
 
-[20/98; 2/2006]
+[Act 30 of 2012 wef 01/01/2013]
+
+(4) The Director may issue such orders not inconsistent with the provisions of this Act and the regulations made thereunder, to be called General Orders, as he may think necessary and expedient for the control, direction and information of the officers of the Bureau.
+
+[Act 30 of 2012 wef 01/01/2013]
+
+(5) It shall not be necessary to publish any General Orders in theGazette.
+
+[Act 30 of 2012 wef 01/01/2013]
 
 ### Advisory committees
 
@@ -440,7 +478,13 @@ and any such equipment, material or substance shall be deemed to be exported con
 
 13\. It shall be an offence for a person —
 
-(a) to aid, abet, counsel or procure the commission in any place outside Singapore of an offence punishable under a corresponding law in force in that place; or
+(a) to aid, abet, counsel or procure the commission in any place outside Singapore of an offence punishable under a corresponding law in force in that place;
+
+[Act 30 of 2012 wef 01/01/2013]
+
+(aa) to aid, abet, counsel or procure the commission of any offence under this Act within Singapore, notwithstanding that all or any of the acts constituting the aiding, abetment, counselling or procurement were done outside Singapore; or
+
+[Act 30 of 2012 wef 01/01/2013]
 
 (b) to do an act preparatory to, or in furtherance of, an act outside Singapore which if committed in Singapore would constitute an offence under this Act.
 
@@ -831,6 +875,46 @@ shall be deemed to be a previous conviction for consumption of a specified drug 
 (ii) in relation to a conviction or admission for consumption of any drug added to the Fourth Schedule after 20th July 1998, means the date on which the amendment to that Schedule for the inclusion of such drug commences.
 
 [2/2006]
+
+### Discretion of court not to impose sentence of death in certain circumstances
+
+33B\.—(1) Where a person commits or attempts to commit an offence under section 5(1) or 7, being an offence punishable with death under the sixth column of the Second Schedule, and he is convicted thereof, the court —
+
+(a) may, if the person satisfies the requirements of subsection (2), instead of imposing the death penalty, sentence the person to imprisonment for life and, if the person is sentenced to life imprisonment, he shall also be sentenced to caning of not less than 15 strokes; or
+
+(b) shall, if the person satisfies the requirements of subsection (3), instead of imposing the death penalty, sentence the person to imprisonment for life.
+
+(2) The requirements referred to in subsection (1)(a) are as follows:
+
+(a) the person convicted proves, on a balance of probabilities, that his involvement in the offence under section 5(1) or 7 was restricted —
+
+(i) to transporting, sending or delivering a controlled drug;
+
+(ii) to offering to transport, send or deliver a controlled drug;
+
+(iii) to doing or offering to do any act preparatory to or for the purpose of his transporting, sending or delivering a controlled drug; or
+
+(iv) to any combination of activities in sub-paragraphs (i), (ii) and (iii); and
+
+(b) the Public Prosecutor certifies to any court that, in his determination, the person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore.
+
+(3) The requirements referred to in subsection (1)(b) are that the person convicted proves, on a balance of probabilities, that —
+
+(a) his involvement in the offence under section 5(1) or 7 was restricted —
+
+(i) to transporting, sending or delivering a controlled drug;
+
+(ii) to offering to transport, send or deliver a controlled drug;
+
+(iii) to doing or offering to do any act preparatory to or for the purpose of his transporting, sending or delivering a controlled drug; or
+
+(iv) to any combination of activities in sub-paragraphs (i), (ii) and (iii); and
+
+(b) he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in relation to the offence under section 5(1) or 7.
+
+(4) The determination of whether or not any person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities shall be at the sole discretion of the Public Prosecutor and no action or proceeding shall lie against the Public Prosecutor in relation to any such determination unless it is proved to the court that the determination was done in bad faith or with malice.
+
+[Act 30 of 2012 wef 01/01/2013]
 
 ## PART IV
 
@@ -1910,7 +1994,7 @@ For the purposes of this Schedule —
 
 SECOND SCHEDULE
 
-Sections 2 and 33
+Sections 2, 33 and 33B
 
 Offences Punishable on Conviction
 
@@ -3165,6 +3249,13 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|44.|**Act 30 of 2012—Misuse of Drugs (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+
+|
+(Bill No. 27/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 January 2013|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
