@@ -82,11 +82,11 @@
 
 - [16 Saving](#Saving)
 
-[**FIRST SCHEDULE Registrable Crimes**](#FIRST-SCHEDULE-Registrable-Crimes)
+[**FIRST SCHEDULE Registrable crimes**](#FIRST-SCHEDULE-Registrable-crimes)
 
-[**SECOND SCHEDULE Registrable Crimes in Respect of Which Registration May be Dispensed With under Section 7**](#SECOND-SCHEDULE-Registrable-Crimes-in-Respect-of-Which-Registration-May-be-Dispensed-With-under-Section-7)
+[**SECOND SCHEDULE Registrable crimes in respect of which registration may be dispensed with under section 7**](#SECOND-SCHEDULE-Registrable-crimes-in-respect-of-which-registration-may-be-dispensed-with-under-section-7)
 
-[**THIRD SCHEDULE Offences for Which Criminal Record Cannot be Spent**](#THIRD-SCHEDULE-Offences-for-Which-Criminal-Record-Cannot-be-Spent)
+[**THIRD SCHEDULE Offences for which criminal record cannot be spent**](#THIRD-SCHEDULE-Offences-for-which-criminal-record-cannot-be-spent)
 
 [**Legislative History**](#Legislative-History)
 
@@ -107,6 +107,8 @@ An Act to provide for the registration of criminals.
 ## PART I
 
 PRELIMINARY
+
+[45/2002 wef 13/02/2003]
 
 ### Short title
 
@@ -178,6 +180,8 @@ PRELIMINARY
 
 REGISTRATION OF CRIMINALS
 
+[45/2002 wef 13/02/2003]
+
 ### Register of criminals
 
 4\.—(1) The Registrar shall keep a register of —
@@ -224,11 +228,11 @@ and shall record therein registrable particulars as hereinafter provided.
 
 need not be registered as hereinbefore provided.
 
+[17/80]
+
 (2) When any such direction has been given, the Registrar shall retain the registrable particulars of that person for 6 months from the date of receipt thereof and shall then destroy them:
 
 Provided that the Commissioner of Police may, at any time before the expiration of that period of 6 months, revoke the direction, and thereupon the Registrar shall enter that person in the register, together with the registrable particulars relating to him, in accordance with sections 4 and 6.
-
-[17/80]
 
 ### Registration of persons convicted in or banished from places outside principal registration area
 
@@ -260,11 +264,11 @@ Provided that the Commissioner of Police may, at any time before the expiration 
 
 need not be registered as hereinbefore provided.
 
+[17/80]
+
 (2) When any such direction has been given, the Registrar shall retain the registrable particulars of that person for 6 months from the date of receipt thereof and shall then destroy them:
 
 Provided that the Commissioner of Police may, at any time before the expiration of that period of 6 months, revoke the direction, and thereupon the Registrar shall enter that person in the register, together with the registrable particulars relating to him, in accordance with sections 4 and 6.
-
-[17/80]
 
 ## PART IIA
 
@@ -291,6 +295,8 @@ and the registrable particulars related thereto;
 (2) For the purposes of this Part, a person who is subject to a home detention order under section 52 of the Prisons Act (Cap. 247) is deemed to be in legal custody.
 
 (3) This Part shall bind the Government.
+
+[20/2005 wef 17/10/2005]
 
 ### Criminal record of Singapore crime may become spent
 
@@ -320,6 +326,8 @@ and the registrable particulars related thereto;
 
 (c) where a sentence of imprisonment has been wholly remitted or commuted to or substituted with a sentence other than a term of imprisonment, the date of that remission, commutation or substituted sentence, as the case may be.
 
+[20/2005 wef 17/10/2005]
+
 ### Person disqualified from having criminal record become spent
 
 7C\. A person is disqualified from having the record in the register of his conviction becoming spent under section 7B if —
@@ -346,6 +354,8 @@ and the registrable particulars related thereto;
 
 (g) he has had any previous record in the register of any of his convictions become spent under section 7B or treated as spent under section 7D.
 
+[20/2005 wef 17/10/2005]
+
 ### Application by disqualified person to have criminal record treated as spent
 
 7D\.—(1) A person who is disqualified under section 7C from having the record in the register of his conviction within Singapore for any crime becoming spent may, at any time, apply to the Commissioner of Police to have the record treated as spent.
@@ -369,6 +379,8 @@ and the registrable particulars related thereto;
 (5) Where any document, particular or information given under subsection (2) is false in a material particular, the Commissioner of Police may, after giving the person concerned a reasonable opportunity to be heard (orally or in writing), revoke his grant of the application to treat the record in the register of the person’s conviction as spent, and the Registrar shall, without delay, expunge any entry made under section 7E(1)(b) in respect of that record.
 
 (6) Nothing in this section shall be construed to prevent the prosecution, conviction and punishment of any person according to the provisions of any other written law for the time being in force.
+
+[20/2005 wef 17/10/2005]
 
 ### Criminal record rendered spent when community sentence completed
 
@@ -396,6 +408,8 @@ and the registrable particulars related thereto;
 
 (d) any application by a person for an appointment to or employment in any office, or for admission to any profession or vocation, from which the person may be disqualified under any written law by reason of his conviction.
 
+[20/2005 wef 17/10/2005]
+
 ### Reference to criminal record not to include record of offence not kept in register
 
 7F\.—(1) Where a person has been convicted of any offence the record of which is not kept in the register, it shall be lawful for the person —
@@ -406,9 +420,13 @@ and the registrable particulars related thereto;
 
 (2) Any reference in any agreement or other document made on or after the appointed day to the criminal record of any conviction (whether or not kept in the register) of a person to which this section applies, shall be taken to refer only to his criminal record defined under section 7A(1), and not to any record of a conviction which is not kept in the register.
 
+[20/2005 wef 17/10/2005]
+
 ## PART III
 
 TAKING OF FINGER IMPRESSIONS, PHOTOGRAPHS AND PARTICULARS
+
+[45/2002 wef 13/02/2003]
 
 ### Finger impressions, photographs and particulars of person under arrest
 
@@ -558,6 +576,8 @@ given to the authorised officer in charge of the case after the person concerned
 
 “registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
+[22/2007 wef 01/01/2008]
+
 “volunteer” means a person who voluntarily gives his consent under section 13D for the taking of a body sample from him.
 
 (2) Subject to subsections (3) and (4), the Minister may prescribe additional types of body samples that may be taken under this Part.
@@ -572,6 +592,8 @@ given to the authorised officer in charge of the case after the person concerned
 
 (4) Where the Minister prescribes an intimate sample under subsection (2) as an additional type of body sample which may be taken under this Part, the provisions of section 13C (which requires consent for the taking of a sample of blood) shall apply in respect of the taking of such intimate sample in the same manner as they apply in respect of the taking of a sample of blood.
 
+[45/2002 wef 13/02/2003]
+
 ### Body samples may be taken from arrested persons, convicted persons and prisoners
 
 13B\.—(1) Subject to the provisions of this Part, a body sample may be taken for forensic DNA analysis from any person who, on or after the date of commencement of the Registration of Criminals (Amendment) Act 2002 —
@@ -583,6 +605,8 @@ given to the authorised officer in charge of the case after the person concerned
 (c) is serving his term of imprisonment in connection with a crime of which he has been convicted.
 
 (2) A body sample may be taken from a person under subsection (1) in addition to any photograph or finger impression taken under Part III.
+
+[45/2002 wef 13/02/2003]
 
 ### Consent for taking of blood sample
 
@@ -600,6 +624,8 @@ given to the authorised officer in charge of the case after the person concerned
 
 may draw such inference from the refusal as it thinks proper and, based on such inference, may treat the refusal as corroboration or amounting to corroboration of any relevant evidence against that person.
 
+[45/2002 wef 13/02/2003]
+
 ### Body samples given voluntarily
 
 13D\.—(1) Subject to subsections (2) and (3), any person who —
@@ -613,6 +639,8 @@ may voluntarily consent to a body sample being taken from him for forensic DNA a
 (2) No body sample shall be taken from a volunteer under subsection (1) unless the appropriate consent is given for the taking of the sample.
 
 (3) Notwithstanding subsection (2), if the consent of the parent or guardian of a volunteer who is below the age of 16 years is refused without good cause or cannot be obtained despite all reasonable efforts but the volunteer is still willing to give the body sample, the body sample may be taken from the volunteer with the sanction of a Magistrate.
+
+[45/2002 wef 13/02/2003]
 
 ### Taking and analysis body samples
 
@@ -635,6 +663,8 @@ may voluntarily consent to a body sample being taken from him for forensic DNA a
 (a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
 
 (b) the person authorised under subsection (1) to take the sample may, with such assistance as is required, use such force as is reasonably necessary for the purposes of taking the sample.
+
+[45/2002 wef 13/02/2003]
 
 ### DNA database
 
@@ -660,6 +690,8 @@ may voluntarily consent to a body sample being taken from him for forensic DNA a
 
 (d) for such other purposes as may be prescribed.
 
+[45/2002 wef 13/02/2003]
+
 ### Removal of DNA information from register upon acquittal or discharge, etc.
 
 13G\. Where any body sample has been taken under section 13B(1)(a) from a person who is under arrest and accused of a crime, or under section 13D from a volunteer, and —
@@ -678,6 +710,8 @@ may voluntarily consent to a body sample being taken from him for forensic DNA a
 
 the authorised officer in charge of the case shall immediately inform the Registrar of the occurrence of the relevant event and the Registrar shall immediately remove the DNA information of that person from the DNA database.
 
+[45/2002 wef 13/02/2003]
+
 ## PART V
 
 MISCELLANEOUS
@@ -691,6 +725,8 @@ MISCELLANEOUS
 (a) whose death has been registered under the Registration of Births and Deaths Act (Cap. 267); or
 
 (b) who, the Registrar is satisfied, has attained 100 years of age.
+
+[45/2002 wef 13/02/2003]
 
 ### Evidence
 
@@ -718,9 +754,13 @@ shall, if duly produced from proper custody and authenticated by the signature o
 
 (2) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
+[45/2002 wef 13/02/2003]
+
 ### Power to vary Schedules
 
 15\. The Minister may by order delete any provision from, or add to or vary the provisions of, the Schedules.
+
+[7/1997 wef 01/10/1997]
 
 ### Saving
 
@@ -730,11 +770,11 @@ FIRST SCHEDULE
 
 Section 2.
 
-Registrable Crimes
+Registrable crimes
 
 Part I
 
-Offences under the Penal Code Included Before 1ST February 2008
+Offences under the Penal Code [Cap. 224] Included Before 1ST February 2008
 
 Chapters and Sections
 
@@ -823,6 +863,8 @@ Chapters V and VA and section 511
 ...
 
 Abetment of, conspiracy to commit and attempt to commit any of the above.
+
+[S 32/2008 wef 01/02/2008]
 
 Part IA
 
@@ -946,25 +988,23 @@ Chapters V and VA and section 511
 
 Abetment of, conspiracy to commit and attempt to commit any of the above.
 
+[S 32/2008 wef 01/02/2008]
+
 Part II
 
 Offences under Other Laws
 
-Arms Offences Act
+Arms Offences Act [Cap. 14]
 
 ...
 
 Sections 3 to 8.
 
-Cap. 14
-
-Banishment Act
+Banishment Act [Cap. 18]
 
 ...
 
 Section 14.
-
-Cap. 18
 
 Bankruptcy Act 1995
 
@@ -972,209 +1012,157 @@ Bankruptcy Act 1995
 
 The whole of Part X.
 
-Subst. by Act 15/95
-
-Broadcasting and Television Act
+Broadcasting and Television Act [Cap. 28]
 
 ...
 
 Section 5.
 
-Cap. 28
-
-Casino Control Act
+Casino Control Act [Cap. 33A]
 
 ...
 
 Sections 105(3)(b), 125, 136, 171, 172, 173, 174, 175, 177 and 190.
 
-Cap. 33A
-
-Chit Funds Act
+Chit Funds Act [Cap. 39]
 
 ...
 
 Sections 4, 18 and 20.
 
-Cap. 39
-
-Common Gaming Houses Act
+Common Gaming Houses Act [Cap. 49]
 
 ...
 
 Sections 4, 5, 6, 8(3) and 8(4).
 
-Cap. 49
-
-Companies Act
+Companies Act [Cap. 50]
 
 ...
 
 Sections 158(9), 338, 401(2), 402, 404 and 406.
 
-Cap. 50
-
-Constitution of the Republic of Singapore.
+Constitution of the Republic of Singapore [Vol. 1].
 
 ...
 
 Third Schedule, section 10(1)(a).
 
-Vol. 1
-
-Corrosive and Explosive Substances and Offensive Weapons Act
+Corrosive and Explosive Substances and Offensive Weapons Act [Cap. 65]
 
 ...
 
 The whole.
 
-Cap. 65
-
-Criminal Law (Temporary Provisions) Act
+Criminal Law (Temporary Provisions) Act [Cap. 67]
 
 ...
 
 The whole.
 
-Cap. 67
-
-Criminal Procedure Code
+Criminal Procedure Code [Cap. 68]
 
 ...
 
 Sections 15, 71 to 75 and 87.
 
-Cap. 68
-
 Criminal Procedure Code 2010
 
 Sections 41 to 45, 54 and 311.
 
-Customs Act
+Customs Act [Cap. 70]
 
 ...
 
-The whole.
+The whole, except section 136(1).
 
-Cap. 70
-
-Employment Act
+Employment Act [Cap. 91]
 
 ...
 
 Section 113.
 
-Cap. 91
-
-Explosive Substances Act
+Explosive Substances Act [Cap. 100]
 
 ...
 
 The whole.
 
-Cap. 100
-
-Foreign Recruiting Act
+Foreign Recruiting Act [Cap. 112]
 
 ...
 
 Section 5.
 
-Cap. 112
-
-Hire-Purchase Act
+Hire-Purchase Act [Cap. 125]
 
 ...
 
 Section 37.
 
-Cap. 125
-
-Hostage-Taking Act 2010
+Hostage-Taking Act 2010 [Act 19 of 2010]
 
 Section 3
 
-Act 19 of 2010.
-
-Hotels Act
+Hotels Act [Cap. 127]
 
 ...
 
 Section 17.
 
-Cap. 127
-
-House to House and Street Collections Act
+House to House and Street Collections Act [Cap. 128]
 
 ...
 
 Sections 3(2), 3(3), 6, 7 and 8.
 
-Cap. 128
-
-Insurance Act
+Insurance Act [Cap. 142]
 
 ...
 
 Section 55.
 
-Cap. 142
-
-Internal Security Act
+Internal Security Act [Cap. 143]
 
 ...
 
 The whole.
 
-Cap. 143
-
-Kidnapping Act
+Kidnapping Act [Cap. 151]
 
 ...
 
 Sections 3, 4 and 5.
 
-Cap. 151
-
-Land Titles Act
+Land Titles Act [Cap. 157]
 
 ...
 
 Sections 20(4) and 153(1).
 
-Cap. 157
-
-Mental Disorders and Treatment Act
+Mental Disorders and Treatment Act [Cap. 178]
 
 ...
 
 Section 58.
 
-Cap. 178
-
-Merchant Shipping Act
+Merchant Shipping Act [Cap. 179]
 
 ...
 
 Sections 30, 48, 55, 97, 118, 124, 141(3), 157, 167, 213, 232 and 259.
 
-Cap. 179
-
-Miscellaneous Offences (Public Order and Nuisance) Act
+Miscellaneous Offences (Public Order and Nuisance) Act [Cap. 184]
 
 ...
 
 Sections 22, 25, 30, 31, 36, 36A, 37(1) and 37(5).
 
-Cap. 184
-
-Misuse of Drugs Act
+Misuse of Drugs Act [Cap. 185]
 
 ...
 
 Part II, sections 31(2), 33(3) and 33A.
-
-Cap. 185
 
 Moneylenders Act 2008
 
@@ -1182,125 +1170,95 @@ Moneylenders Act 2008
 
 Sections 14, 27 and 28.
 
-Motor Vehicles (Third-Party Risks and Compensation) Act
+Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189]
 
 ...
 
 Section 21.
 
-Cap. 189
-
-National Registration Act
+National Registration Act [Cap. 201]
 
 ...
 
 The whole.
 
-Cap. 201
-
-Newspaper and Printing Presses Act
+Newspaper and Printing Presses Act [Cap. 206]
 
 ...
 
 Sections 7, 11, 14, 20(1), 20(2) and 22.
 
-Cap. 206
-
-Official Secrets Act
+Official Secrets Act [Cap. 213]
 
 ...
 
 The whole.
 
-Cap. 213
-
-Preservation of the Peace Act
+Preservation of the Peace Act [Cap. 240]
 
 ...
 
 Section 3(2).
 
-Cap. 240
-
-Prevention of Corruption Act
+Prevention of Corruption Act [Cap. 241]
 
 ...
 
 The whole.
 
-Cap. 241
-
-Prevention of Crimes Act
+Prevention of Crimes Act [Cap. 242]
 
 ...
 
 Sections 2, 4 and 5.
 
-Cap. 242
-
-Protected Areas and Protected Places Act
+Protected Areas and Protected Places Act [Cap. 256]
 
 ...
 
 The whole.
 
-Cap. 256
-
-Public Order Act 2009
+Public Order Act 2009 [Act 15 of 2009]
 
 ...
 
 Sections 24(4), 25(3), 26(3), 27(3), 28(2), 31(2) and 32.
 
-Act 15 of 2009
-
-Public Order (Preservation) Act
+Public Order (Preservation) Act [Cap. 258]
 
 ...
 
 The whole.
 
-Cap. 258
-
-Public Trustee Act
+Public Trustee Act [Cap. 260]
 
 ...
 
 Section 22(10).
 
-Cap. 260
-
-Railways Act
+Railways Act [Cap. 263]
 
 ...
 
 Sections 86 and 87.
 
-Cap. 263
-
-Registration of Deeds Act
+Registration of Deeds Act [Cap. 269]
 
 ...
 
 Sections 26 and 27.
 
-Cap. 269
-
-Road Traffic Act
+Road Traffic Act [Cap. 276]
 
 ...
 
 Sections 66(1) and 96(1).
 
-Cap. 276
-
-Secondhand Dealers Act
+Secondhand Dealers Act [Cap. 288 of the 1985 Revised Edition]
 
 …
 
 Section 10(3).
-
-Cap. 288 of the 1985 Revised Edition
 
 Secondhand Goods Dealers Act 2007
 
@@ -1308,63 +1266,49 @@ Secondhand Goods Dealers Act 2007
 
 Section 10(6).
 
-Cap. 288
-
-Sedition Act
+Sedition Act [Cap. 290]
 
 ...
 
 Section 4.
 
-Cap. 290
-
-Societies Act
+Societies Act [Cap. 311]
 
 ...
 
 Sections 14, 15, 23 and 29(4).
 
-Cap. 311
-
-Telecommunication Authority of Singapore Act
+Telecommunication Authority of Singapore Act [Cap. 323]
 
 ...
 
 Sections 62, 70 to 74, 78, 79 and 83.
 
-Cap. 323
-
-Trade Disputes Act
+Trade Disputes Act [Cap. 331]
 
 ...
 
 Sections 5, 6, 7, 8, 9 and 11.
 
-Cap. 331
-
-Undesirable Publications Act
+Undesirable Publications Act [Cap. 338]
 
 ...
 
 Sections 4 and 5.
 
-Cap. 338
-
-Vandalism Act
+Vandalism Act [Cap. 341]
 
 ...
 
 Section 3.
 
-Cap. 341
-
-Women’s Charter
+Women’s Charter [Cap. 353]
 
 ...
 
 Sections 35 to 40 and the whole of Part X.
 
-Cap. 353
+[S 667/2012 wef 01/01/2013]
 
 [S 9/1987 wef 15/01/1987]
 
@@ -1378,17 +1322,28 @@ Cap. 353
 
 [S 548/2009 wef 05/11/2009]
 
-[S 548/2009 wef 05/11/2009]
+[17/80]
+
+[15/2010 wef 02/01/2011]
+
+[S 674/2010 wef 21/11/2010]
+
+[20/98 wef 20/07/1998]
 
 SECOND SCHEDULE
 
 Sections 2 and 7.
 
-Registrable Crimes in Respect of Which Registration May be Dispensed With under Section 7
+Registrable crimes in respect of which registration
+
+
+
+
+may be dispensed with under section 7
 
 Part I
 
-Offences under the Penal Code Included Before 1ST February 2008
+Offences under the Penal Code [Cap. 224] Included Before 1ST February 2008
 
 Chapters and Sections
 
@@ -1490,6 +1445,8 @@ Chapters V and VA and section 511
 
 Abetment of, conspiracy to commit and attempt to commit any of the above.
 
+[S 32/2008 wef 01/02/2008]
+
 Part IA
 
 Offences under the Penal Code Included With Effect from 1ST February 2008
@@ -1522,61 +1479,51 @@ Chapters V and VA and section 511
 
 Abetment of, conspiracy to commit and attempt to commit any of the above.
 
+[S 32/2008 wef 01/02/2008]
+
 Part II
 
 Offences under Other Laws
 
-Arms and Explosives Act
+Arms and Explosives Act [Cap. 13]
 
 ...
 
 Sections 5, 8, 19, 23 and 31(2).
 
-Cap. 13
-
-Betting Act
+Betting Act [Cap. 21]
 
 ...
 
 Sections 3, 4 and 5.
 
-Cap. 21
-
-Common Gaming Houses Act
+Common Gaming Houses Act [Cap. 49]
 
 ...
 
 Sections 7 and 8(2).
 
-Cap. 49
-
-Dangerous Fireworks Act
+Dangerous Fireworks Act [Cap. 72]
 
 ...
 
 Section 5.
 
-Cap. 72
-
-Employment of Foreign Manpower Act
+Employment of Foreign Manpower Act [Cap. 91A]
 
 ...
 
 Sections 5(6) and 22(1)(c), (d), (e) and (f).
 
-Cap. 91A
-
 Section 20 in respect of any officer of a body corporate, or other person in such capacity, guilty of any of the above offences.
 
 Section 23 in respect of any person who abets the commission of any of the above offences.
 
-Immigration Act
+Immigration Act [Cap. 133]
 
 ...
 
 Sections 5, 6, 8(5), 9(4), 19, 26, 36 and 57.
-
-Cap. 133
 
 Trade Marks Act 1998
 
@@ -1594,7 +1541,7 @@ THIRD SCHEDULE
 
 Section 7C(a)
 
-Offences for Which Criminal Record Cannot be Spent
+Offences for which criminal record cannot be spent
 
 Part I
 
@@ -1674,13 +1621,13 @@ Incest committed by men
 
 ...
 
-Section 376B (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed. vide Ordinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+Section 376B (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed.videOrdinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
 
 Incest committed by women
 
 ...
 
-Section 376C (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed. vide Ordinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+Section 376C (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed.videOrdinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
 
 Unnatural offences
 
@@ -1705,6 +1652,8 @@ Escaping or attempting to escape from any custody in which he is lawfully detain
 ...
 
 Section 224 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871) in relation to such escape or attempt to escape.
+
+[S 32/2008 wef 01/02/2008]
 
 Part IA
 
@@ -1774,6 +1723,8 @@ Causing another person to sexually penetrate a living animal or be sexually pene
 
 Section 377B(4) (Cap. 224 of the 1985 Ed.).
 
+[S 32/2008 wef 01/02/2008]
+
 Part II
 
 Offences under Other Laws
@@ -1803,7 +1754,7 @@ Registration of Criminals Act
 
 (CHAPTER 268)
 
-This Legislative History is provided for the convenience of users of the Registration of Criminals Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Registration of Criminals Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1937,3 +1888,5 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|36.|**G.N. No. S 667/2012—Registration of Criminals Act (Amendment of First Schedule) Order 2012**|
+||Date of commencement|1 January 2013|
