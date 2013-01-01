@@ -36,6 +36,8 @@
 
 - [11 Charge of tax on vehicles](#Charge-of-tax-on-vehicles)
 
+- [11AA Carbon emissions tax](#Carbon-emissions-tax)
+
 - [11A Restricted licences and supplementary licences](#Restricted-licences-and-supplementary-licences)
 
 - [12 Vehicles licensed outside Singapore](#Vehicles-licensed-outside-Singapore)
@@ -242,7 +244,7 @@
 
 - [82 Restrictions on prosecutions under certain sections](#Restrictions-on-prosecutions-under-certain-sections)
 
-- [83 Liability of owner of vehicle for offence under Part IA or parking offence](#Liability-of-owner-of-vehicle-for-offence-under-Part-IA-or-parking-offence)
+- [83 Liability of owner of vehicle for specified offence](#Liability-of-owner-of-vehicle-for-specified-offence)
 
 [**Division 2  Accidents**](#Division-2--Accidents)
 
@@ -289,6 +291,10 @@
 - [101 Prohibition of use of unlicensed public service vehicles](#Prohibition-of-use-of-unlicensed-public-service-vehicles)
 
 - [102 Issue of public service vehicle licences](#Issue-of-public-service-vehicle-licences)
+
+- [102A Modification of public service vehicle licence conditions](#Modification-of-public-service-vehicle-licence-conditions)
+
+- [102B Appeal to Minister](#Appeal-to-Minister)
 
 - [103 Limitation on number of public service vehicle licences](#Limitation-on-number-of-public-service-vehicle-licences)
 
@@ -394,6 +400,8 @@
 
 - [127A Power to require evidence of identity in certain cases](#Power-to-require-evidence-of-identity-in-certain-cases)
 
+- [127B Powers of search on omnibuses and within bus interchanges](#Powers-of-search-on-omnibuses-and-within-bus-interchanges)
+
 - [128 Police officer not in uniform to produce identification card](#Police-officer-not-in-uniform-to-produce-identification-card)
 
 [**Part VII MISCELLANEOUS PROVISIONS**](#Part-VII)
@@ -445,6 +453,8 @@
 [**FIRST SCHEDULE Specified Acts**](#FIRST-SCHEDULE-Specified-Acts)
 
 [**SECOND SCHEDULE Classification and Descriptions of Public Service Vehicles**](#SECOND-SCHEDULE-Classification-and-Descriptions-of-Public-Service-Vehicles)
+
+[**THIRD SCHEDULE Specified offences**](#THIRD-SCHEDULE-Specified-offences)
 
 [**Legislative History**](#Legislative-History)
 
@@ -544,9 +554,17 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 (a) any road within Pulau Bukom;
 
-(b) any road within the limits of any installation of the Singapore Armed Forces declared by the Minister by notification in theGazetteto be an installation to which this Act applies; and
+(b) any road within the limits of any installation of the Singapore Armed Forces declared by the Minister by notification in theGazetteto be an installation to which this Act applies;
 
-(c) any bridge over which a road passes;
+[Act 37 of 2012 wef 01/01/2013]
+
+(c) any bridge over which a road passes; and
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(d) any road, to which the public does not have access, which the Minister charged with the responsibility for transport prescribes, by notification in theGazette, to be a road to which this Act applies;
+
+[Act 37 of 2012 wef 01/01/2013]
 
 “rules” means rules made under this Act;
 
@@ -642,11 +660,65 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 (6) If a vehicle or trailer is used or is sold, supplied, offered or altered in contravention of this section, any person who so uses the vehicle or trailer or causes or permits the vehicle or trailer to be so used or so sells, supplies, offers or alters it or causes or permits it to be so sold, supplied, offered or altered shall be guilty of an offence.
 
-(7) Any person who is guilty of an offence under subsection (6) of altering a vehicle or trailer in contravention of this section shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+(7) Any person who is guilty of an offence under subsection (6) shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
 
 [45/99]
 
+[Act 37 of 2012 wef 01/01/2013]
+
+(7A) Where in any proceedings relating to an offence under subsection (6), it is proved to the satisfaction of the court that a vehicle or trailer is used or caused or permitted to be used in contravention of this section, the court may, upon the application of the Public Prosecutor, make an order for the vehicle or trailer to be detained for a period not exceeding 3 months (referred to in this section as the detention period) by the Registrar or an authorised officer.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7B) Any vehicle or trailer detained pursuant to subsection (7A) shall be kept at such place of safety as may be determined by the Registrar or an authorised officer.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7C) The Registrar or an authorised officer shall not be liable for —
+
+(a) any damage to or loss of a vehicle or trailer during the period when the vehicle or trailer is in the possession of the Registrar or the authorised officer which is not wilfully or negligently caused by the Registrar or the authorised officer in the exercise of his powers under this section; or
+
+(b) any depreciation in the value of the vehicle or trailer because of the detention of the vehicle or trailer.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7D) At the end of the detention period of any vehicle or trailer, the Registrar or an authorised officer shall, as soon as is reasonably practicable, notify the person in whose name the vehicle or trailer is registered that the vehicle or trailer is released from detention and of the procedure by which the person may secure the release of the vehicle or trailer.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7E) If the vehicle or trailer is not claimed by the person notified under subsection (7D), or another person authorised in writing by that person, within 3 calendar days after the date of its release as stated in the notice in subsection (7D), the person notified under that subsection shall be liable for all charges reasonably incurred by the Registrar or an authorised officer in storing the vehicle or trailer in the place of safety thereafter.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7F) Any person who, without lawful authority, removes or causes to be removed any vehicle or trailer from the place of safety at which it is detained during its detention period shall be guilty of an offence.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7G) If any vehicle or trailer detained pursuant to subsection (7A) is not claimed by or on behalf of the person notified under subsection (7D), the Registrar or an authorised officer may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle or trailer by public auction or otherwise dispose of the vehicle or trailer in such manner as he thinks fit.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7H) The proceeds, if any, from the sale or disposal of any such vehicle or trailer under subsection (7G) shall be applied —
+
+(a) firstly, in payment of any licence fee which may be due in respect of the vehicle or trailer;
+
+(b) secondly, in payment of expenses occasioned by the sale or disposal and any charges reasonably incurred in storing, detaining or otherwise carrying out the provisions of this section; and
+
+(c) thirdly, any damage caused to any property of the Government by the unlawful use of the vehicle or trailer,
+
+and the surplus, if any, shall be paid to the person in whose name the vehicle or trailer was registered at the time of its sale or disposal or, if not claimed by such person within 12 months after the date of the sale or disposal, shall be forfeited to the Government.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(7I) The Registrar or an authorised officer may reject any transfer of ownership or cancellation of registration of a vehicle or trailer if the Registrar or the authorised officer has reason to believe that any person is guilty of an offence under subsection (6).
+
+[Act 37 of 2012 wef 01/01/2013]
+
 (8) A person shall not be convicted for an offence under this section in respect of the sale, supply, offer or alteration of a vehicle or trailer if he proves that it was sold, supplied, offered or altered, as the case may be, for export from Singapore, or that he had reasonable cause to believe that the vehicle or trailer would not be used in Singapore or would not be so used until it had been put into a condition in which it might lawfully be so used.
+
+(9) In this section, “authorised officer” means any employee of the Authority who is duly authorised by the Registrar in writing to act under this section.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 ### Rules as to use and construction of vehicles
 
@@ -697,6 +769,14 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 (2) The Authority may make different rules for different classes or descriptions of vehicles for the same class or description of vehicles in different circumstances.
 
 [20/89; 28/95]
+
+(3) The Authority may by such rules confer on the Registrar or an authorised officer a discretion to waive, in any particular case, the operation of any rules made under this section subject to such conditions as the Registrar or the authorised officer may impose.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(4) In this section, “authorised officer” means any employee of the Authority, or any other person, who is duly authorised by the Registrar in writing to carry out any particular function or to exercise any particular power under any rules made under this section.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 ### Alteration of fuel-measuring equipment
 
@@ -873,6 +953,50 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 (10) The Registrar may, in his discretion, compound any offence punishable under subsection (9) by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000 and the amount of the tax undercharged, and may before judgment stay or compound any proceedings thereunder.
 
 [7/90]
+
+### Carbon emissions tax
+
+11AA\.—(1) In addition to the taxes under section 11, a tax (referred to in this Act as the carbon emissions tax) shall be charged in respect of the first registration, on or after 1st July 2013, of any vehicle which has a carbon emission level exceeding the maximum limit of the neutral carbon emission band and which is of a prescribed description or within a prescribed class (referred to in this section to be a taxable vehicle).
+
+(2) The carbon emissions tax under subsection (1) —
+
+(a) shall be paid upon the first registration of a taxable vehicle by the person keeping the taxable vehicle; and
+
+(b) shall be the amount prescribed for that taxable vehicle.
+
+(3) Where a person who is registered as the owner of a vehicle (referred to in this section as the replaced vehicle) replaces that vehicle with another vehicle (referred to in this section as the replacement vehicle) which is a taxable vehicle, and the replacement vehicle has a carbon emission level exceeding that of the replaced vehicle, the person shall pay a tax which is the difference between —
+
+(a) the amount of the carbon emissions tax chargeable in respect of the replaced vehicle, if any; and
+
+(b) the amount of the carbon emissions tax chargeable in respect of the replacement vehicle as if the replacement vehicle had been first registered under this Act on the same date as the replaced vehicle.
+
+(4) The difference in tax referred to in subsection (3) shall be payable to the Registrar without demand within the prescribed time from the date the Registrar registers the particulars of the replacement vehicle.
+
+(5) The Minister may, subject to such conditions as he thinks fit to impose, prescribe —
+
+(a) a rebate on all or any part of the tax payable under section 11(1)(a) for vehicles of any class, category or description or vehicles used for different purposes which are registered on or after 1st January 2013 and have carbon emission levels falling below the minimum limit of the neutral carbon emission band; and
+
+(b) different amounts of rebate or the methods for determining the amount of the rebate for vehicles of different classes, categories or descriptions or vehicles used for different purposes which have carbon emission levels falling within any carbon emission band.
+
+(6) The Minister may make rules for carrying out or giving effect to this section and for prescribing anything which may be prescribed under this section and, in particular, the rules may —
+
+(a) prescribe a carbon emission band to be the neutral carbon emission band;
+
+(b) prescribe different amount of carbon emissions tax chargeable for vehicles of different classes, categories or descriptions or vehicles used for different purposes which have carbon emission levels exceeding the maximum limit of the neutral carbon emission band so prescribed;
+
+(c) provide for the method for determining the carbon emission level of any vehicle; and
+
+(d) for the purposes of charging any tax or granting any rebate under this section, prescribe carbon emission bands for vehicles of different classes, categories or descriptions or vehicles used for different purposes.
+
+(7) Nothing in this section shall operate so as to render lawful the keeping of a vehicle for any period, in any manner or at any place, if to do so would be unlawful apart from this section.
+
+(8) Any person who gives any incorrect information in relation to any matter affecting the amount of carbon emissions tax chargeable or any rebate that may be granted under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months, and the court shall order him to pay to the Registrar the amount of carbon emissions tax, or the tax payable under section 11(1)(a), which has been undercharged.
+
+(9) The Registrar may, in his discretion, compound any offence punishable under subsection (8) by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000 and the amount of the carbon emissions tax, or the tax payable under section 11(1)(a), which has been undercharged, and may before judgment stay or compound any proceedings thereunder.
+
+(10) In this section, “carbon emission band” means a range of maximum and minimum carbon emission levels prescribed for any class, category or description of vehicle or vehicle used for any purpose.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 ### Restricted licences and supplementary licences
 
@@ -1264,9 +1388,17 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (i) has ceased to be kept or used on any road in Singapore;
 
-(ii) has been or will, within the prescribed period, be destroyed or permanently removed from Singapore; or
+(ii) has been or will, within the prescribed period, be destroyed or permanently removed from Singapore;
 
-(iii) has become wholly unfit for further use;
+[Act 37 of 2012 wef 01/01/2013]
+
+(iii) has become wholly unfit for further use; or
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(iv) has been lost through theft or criminal breach of trust and the prescribed period after such loss has lapsed;
+
+[Act 37 of 2012 wef 01/01/2013]
 
 (e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs; or
 
@@ -1472,11 +1604,13 @@ or any one or more of these facts was or were such as would be necessary to esta
 
 (b) the service by the Registrar of such notice or other document under this Part or the rules made thereunder as may be prescribed.
 
-(2) For the purposes of the electronic service, the Authority may, on application by any person made in such manner as it may specify, and subject to such conditions as it may determine, assign to him —
+(2) For the purposes of the electronic service, the Authority may, subject to such conditions as it may determine, assign to any person who files or submits to the Registrar such application or other document under this Part or the rules made thereunder as may be prescribed —
 
 (a) an authentication code; or
 
 (b) an account with the electronic service.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 (3) Subject to the rules made under section 34(2), a person may file or submit a document referred to in subsection (1)(a) through the electronic service.
 
@@ -3066,21 +3200,23 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 (4) This section shall not apply in any case in which the person prosecuted was, in connection with the incident in respect of which a charge against that person is preferred, arrested either on the day on which the incident occurred or within 30 days of that date.
 
-### Liability of owner of vehicle for offence under Part IA or parking offence
+### Liability of owner of vehicle for specified offence
 
-83\.—(1) When an offence under Part IA or a parking offence is committed, the person who at the time of the occurrence of the offence is the owner of the motor vehicle in respect of which the offence is committed shall, by virtue of this section, be guilty of an offence under the rule or section concerned in all respects as if he were the actual offender guilty of the offence under Part IA or the parking offence, as the case may be, unless —
+83\.—(1) When a specified offence is committed, the person who, at the time of the occurrence of the specified offence, is the owner of the motor vehicle in respect of which the specified offence is committed shall, by virtue of this section, be guilty of the specified offence in all respects as if he were the actual offender guilty of the specified offence, unless —
 
-(a) in any case where that offence is dealt with under section 132 or 133, the owner satisfies the police officer or employee of the Authority referred to in section 132 or 133(7), as the case may be, that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used; and
+(a) in any case where that offence is dealt with under section 132 or 133, the owner satisfies the police officer or employee of the Authority referred to in section 132 or 133(7), as the case may be, that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used; or
 
 (b) in any other case, the court is satisfied that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used.
 
-[19/74; 5/98]
+[Act 37 of 2012 wef 01/01/2013]
 
-(2) Nothing in this section shall affect the liability of the actual offender but where a penalty has been imposed on or recovered from a person in relation to any offence under Part IA or any parking offence no further penalty shall be imposed on or recovered from any other person in relation thereto.
+(2) Nothing in this section shall affect the liability of the actual offender but where a penalty has been imposed on or recovered from a person in relation to a specified offence no further penalty shall be imposed on or recovered from any other person in relation thereto.
 
 [5/98]
 
-(3) Notwithstanding subsection (1), no owner of a motor vehicle shall by virtue of this section be guilty of an offence under Part IA or a parking offence if —
+[Act 37 of 2012 wef 01/01/2013]
+
+(3) Notwithstanding subsection (1), no owner of a motor vehicle shall by virtue of this section be guilty of a specified offence if —
 
 (a) in any case where the offence is dealt with under section 132 or 133, he —
 
@@ -3092,17 +3228,21 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 [5/98]
 
+[Act 37 of 2012 wef 01/01/2013]
+
 (4) A statutory declaration made under subsection (3) if produced in any proceedings against the person named therein and in respect of the offence concerned shall be prima facie evidence that the person was in charge of the vehicle at all relevant times relating to that offence.
 
 [5/98]
 
-(5) A statutory declaration which relates to more than one offence under Part IA or to more than one parking offence shall not be regarded as a statutory declaration under or for the purposes of subsection (3).
+(5) A statutory declaration which relates to more than one specified offence shall not be regarded as a statutory declaration under or for the purposes of subsection (3).
 
 [5/98]
 
+[Act 37 of 2012 wef 01/01/2013]
+
 (6) In this section —
 
-“offence under Part IA” means any offence in contravention of any of the provisions of Part IA or the rules made under section 34D ;
+[Deleted by Act 37 of 2012 wef 01/01/2013]
 
 “owner”, in relation to a motor vehicle, includes —
 
@@ -3112,9 +3252,11 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 (c) in the case of a vehicle in respect of which a general licence is issued under section 28, the person to whom the general licence is issued;
 
-“parking offence” means an offence of parking a motor vehicle or of causing or permitting a motor vehicle to stand, wait or be parked in contravention of any rules or an offence under section 122.
+[Deleted by Act 37 of 2012 wef 01/01/2013]
 
-[5/98]
+“specified offence” means any offence set out in the Third Schedule.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 Division 2 —
 
@@ -3584,6 +3726,46 @@ PUBLIC SERVICE VEHICLES
 
 (2) The Registrar shall not issue a public service vehicle licence to any person who is a minor or in respect of any vehicle which does not comply with such conditions as to construction, fitness and equipment or otherwise as may be prescribed.
 
+### Modification of public service vehicle licence conditions
+
+102A\.—(1) Subject to this section, the Authority may at any time modify the conditions of a public service vehicle licence.
+
+(2) Before modifying any conditions of a public service vehicle licence under subsection (1), the Authority shall give notice to the holder of the licence —
+
+(a) stating that the Authority proposes to make the modification in the manner specified in the notice; and
+
+(b) specifying the time (not being less than 28 days after the date of service of the notice on such holder of a licence) within which written representations with respect to the proposed modification may be made.
+
+(3) Upon receipt of any written representation within the time specified under subsection (2)(b), the Authority shall consider such representation and may —
+
+(a) reject the representation;
+
+(b) amend the proposed modification in such manner as it thinks fit having regard to the representation; or
+
+(c) withdraw the proposed modification.
+
+(4) Subject to subsection (6), if the Authority rejects any written representation under subsection (3)(a) or amends any proposed modification to the conditions of a public service vehicle licence under subsection (3)(b), the Authority shall issue a notice to the holder of the licence stating that the modification as specified in the notice under this subsection shall take effect on a date specified in that notice by the Authority.
+
+(5) Subject to subsection (6), if no written representation is received by the Authority within the time specified under subsection (2)(b) or if any written representation made under subsection (2)(b) is subsequently withdrawn before any decision is made under subsection (3), the Authority shall issue a notice to the holder of the licence stating that the modification as specified in the notice under this subsection shall take effect on a date specified in that notice by the Authority.
+
+(6) Any decision to modify the conditions of a public service vehicle licence shall not take effect —
+
+(a) during the period for appeals referred to in section 102B(1); and
+
+(b) where the holder of the licence has appealed against the modification, until the determination of the appeal.
+
+[Act 37 of 2012 wef 01/01/2013]
+
+### Appeal to Minister
+
+102B\.—(1) A holder of a public service vehicle licence who is aggrieved by any decision to modify the conditions of his licence under section 102A may, within 14 days after receiving the notice referred to in section 102A(4), appeal to the Minister.
+
+(2) The Minister may determine an appeal under this section by confirming, varying or reversing any decision of the Authority or amending any licence condition affecting the licensee.
+
+(3) The decision of the Minister in any appeal shall be final.
+
+[Act 37 of 2012 wef 01/01/2013]
+
 ### Limitation on number of public service vehicle licences
 
 103\. The Authority may from time to time prescribe the maximum number of public service vehicles of any class which may be licensed and the Registrar shall not issue licences in excess of the number so prescribed.
@@ -3664,7 +3846,9 @@ PUBLIC SERVICE VEHICLES
 
 (a) drive or act as a conductor of a public service vehicle on a road unless he holds a vocational licence granted by the Registrar under this Part for such purposes; or
 
-(b) employ or permit any person who is not so licensed to drive or act as a conductor of a public service vehicle while it is being used for the carriage of passengers for hire or reward on a road.
+(b) employ or permit any person who is not so licensed to drive or act as a conductor of a public service vehicle.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 (2) The Registrar may, on application made to him in the prescribed manner and on payment of the prescribed fee and subject to such rules as may be prescribed, grant vocational licences.
 
@@ -4800,6 +4984,30 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2003]
 
+### Powers of search on omnibuses and within bus interchanges
+
+127B\.—(1) For the purpose of ensuring the security or safety of persons on any omnibus or within any bus interchange, a public transport official may, without giving any reason, require any person on the omnibus or within the bus interchange to allow the public transport official to inspect and search any baggage or other thing carried by the person or apparently in the immediate control of the person.
+
+(2) Any person upon whom a request is made pursuant to subsection (1) shall permit the baggage or thing to be inspected and searched.
+
+(3) Without prejudice to subsection (4), the public transport official may require any person who refuses to permit any baggage or thing carried by the person or apparently in the immediate control of the person to be inspected and searched to leave the omnibus or bus interchange with the baggage or thing, and that person shall do so within a reasonable time.
+
+(4) Any person who contravenes subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+(5) In this section, “public transport official” means —
+
+(a) any officer or employee of the Authority;
+
+(b) any member of any auxiliary police force in uniform;
+
+(c) any employee of the bus service operator or bus interchange operator; or
+
+(d) any security officer (within the meaning of the Private Security Industry Act (Cap. 250A)) engaged by the bus service operator or bus interchange operator,
+
+who is authorised by the Authority in writing to exercise the power to search under this section at or in relation to any omnibus or bus interchange specified in that written authorisation.
+
+[Act 37 of 2012 wef 01/01/2013]
+
 ### Police officer not in uniform to produce identification card
 
 128\.—(1) Every police officer when acting against any person under this Act shall, if not in uniform, on demand declare his office and produce to the person against whom he is acting such identification card as the Commissioner of Police may direct to be carried by police officers.
@@ -4912,11 +5120,17 @@ shall be guilty of an offence.
 
 131A\.—(1) Every summons issued for an offence under this Act, and every notice, order or other document required or authorised to be given or served under this Act may be served on any person —
 
-(a) by delivering it to the person or to some adult member or employee of his family at his usual or last known place of residence;
+(a) by delivering it to the person or to some adult member or employee of his family at his usual or last known place of residence or any address furnished by him;
 
-(b) by leaving it at the usual or last known place of residence or place of business of the person in a cover addressed to him;
+[Act 37 of 2012 wef 01/01/2013]
 
-(c) by sending it by registered post in a prepaid letter addressed to the person at his usual or last known place of residence or business or any address furnished by him; or
+(b) by leaving it at the usual or last known place of residence or place of business of the person in a cover addressed to him or any address furnished by him;
+
+[Act 37 of 2012 wef 01/01/2013]
+
+(c) by sending it by normal post or registered post in a prepaid letter addressed to the person at his usual or last known place of residence or business or any address furnished by him; or
+
+[Act 37 of 2012 wef 01/01/2013]
 
 (d) in the case of a notice to be served on a person whose usual or last known place of residence or business cannot, with reasonable diligence, be ascertained, by publication of such notice in theGazette.
 
@@ -4929,6 +5143,10 @@ shall be guilty of an offence.
 (3) All notices, orders and other documents which the Registrar is empowered to give by this Act may be given by any officer duly authorised by the Registrar.
 
 [28/2001]
+
+(4) Subsection (1) shall not apply to any summons in connection with any offence punishable with imprisonment and such summons shall be served in the manner prescribed by the Criminal Procedure Code (Cap. 68) for the service of summonses under that Code.
+
+[Act 37 of 2012 wef 01/01/2013]
 
 ### Offences by bodies corporate, etc.
 
@@ -5408,6 +5626,34 @@ Three-wheeled pedal cycles constructed or adapted for the carriage of passengers
 
 [28/2001]
 
+THIRD SCHEDULE
+
+Section 83
+
+Specified offences
+
+1. 
+
+Section 11A.
+
+2. 
+
+Any offence in contravention of any of the provisions of Part IA or the rules made under section 34D.
+
+3. 
+
+Any offence of parking a motor vehicle or of causing or permitting a motor vehicle to stand, wait or be parked in contravention of any rules made under this Act or any offence under section 122.
+
+4. 
+
+Rule 26A of the Road Traffic Rules (R 20).
+
+5. 
+
+Rule 8 of the Road Traffic (Traffic Signs) Rules (R 33).
+
+[Act 37 of 2012 wef 01/01/2013]
+
 ## LEGISLATIVE HISTORY
 
 Road Traffic Act
@@ -5709,6 +5955,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 3/2012 published on 14 February 2012)|
 ||Date of Second and Third Readings|9 March 2012|
 ||Date of commencement|1 September 2012|
+|59.|**Act 37 of 2012—Road Traffic (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 35/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|16 November 2012|
+||Date of commencement|1 January 2013|
+|||(except sections 11 to 21)|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
