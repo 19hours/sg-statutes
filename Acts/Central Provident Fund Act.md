@@ -116,6 +116,8 @@
 
 - [27D Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15 (10) or (10A)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-undertaking-has-been-given-under-section-15-10-or-10A)
 
+- [27DA Order of court for transfer or sale of immovable property in relation to which charge has been created under section 15(11D) or (11E)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-charge-has-been-created-under-section-1511D-or-11E)
+
 - [27E Order of court for transfer or sale of immovable property in relation to which charge under section 21 (1) or 21A (1) exists](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-charge-under-section-21-1-or-21A-1-exists)
 
 - [27F Order of court for transfer or sale of HDB flat in relation to which charge has been constituted under section 21B (1)](#Order-of-court-for-transfer-or-sale-of-HDB-flat-in-relation-to-which-charge-has-been-constituted-under-section-21B-1)
@@ -142,7 +144,7 @@
 
 - [27P Order of court for payment of moneys received by relevant member under Scheme](#Order-of-court-for-payment-of-moneys-received-by-relevant-member-under-Scheme)
 
-- [27Q Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
+- [27Q Regulations for purposes of this Part and section 6(4B)(a)(ii)](#Regulations-for-purposes-of-this-Part-and-section-64Baii)
 
 [**Part IV HOME PROTECTION INSURANCE SCHEME**](#Part-IV)
 
@@ -408,9 +410,9 @@ PRELIMINARY
 
 “member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund, or for whom any account in the Fund is maintained for any of the purposes of this Act, and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
 
-“minimum sum” means the sum referred to in section 15(6)(a);
+“minimum sum”, in relation to a member, means the minimum sum referred to in section 15(6)(a) that is applicable to the member;
 
-[40/2007 wef 01/10/2007]
+[Act 23 of 2012 wef 01/01/2013]
 
 “nominee account” means any nominee ordinary account, nominee medisave account, nominee special account or nominee retirement account maintained for a deceased member under section 20(1D);
 
@@ -435,6 +437,10 @@ PRELIMINARY
 “shares” includes warrants, transferable subscription rights, options to subscribe for shares, convertibles and other security interests arising from or accruing or attaching to the shares;
 
 “special account” means a special account maintained under section 13;
+
+“Town Council” means a Town Council established under the Town Councils Act (Cap. 329A);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
 
@@ -784,15 +790,17 @@ CONTRIBUTIONS TO FUND
 
 (4B) The Board may, in its discretion, pay to a member of the Fund interest in addition to that referred to in subsection (4) —
 
-(a) at such intervals, and on the whole or such part of the following amounts at such time, as the Board may determine:
+(a) at such intervals as the Board may determine —
 
-(i) the amount standing to the credit of the member in the Fund; and
+(i) on the whole or such part, as the Board may determine, of the amount standing to the credit of the member in the Fund at such time as the Board may determine; and
 
-(ii) the aggregate of —
+(ii) if the member belongs to such class of members as the Minister may prescribe by regulations made under section 27Q, on the whole or such part, as the Board may determine, of the aggregate at such time as the Board may determine of —
 
 (A) the amount of any premium paid by the member under section 27L; and
 
 (B) the interest that would have been payable thereon, if that amount had been standing to the credit of the member in his retirement account; and
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) at such rate per annum, and subject to such terms and conditions, as the Board may, with the approval of the Minister for Finance, determine.
 
@@ -1212,19 +1220,27 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 15\.—(1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board.
 
-(1A) Subject to subsections (1B) and (1C), sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person entitled to withdraw the money from the Fund.
+(1A) Subject to subsections (1B), (1C) and (1D), sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person who is entitled, or who within such period as the Board may determine will be entitled under subsection (2)(a) or (3), to withdraw the money from the Fund.
 
 [18/2009 wef 01/09/2009]
 
 [22/2010 wef 01/01/2011]
 
-(1B) The authority under subsection (1) may be given for a withdrawal from the Fund by a relevant member under subsection (7), or for the payment by a relevant member of a premium referred to in section 27L(1) or (1A) from any amount deposited in his retirement account under subsection (6C)(a) or (b)(i), without any application being made by the relevant member under subsection (1A).
+[Act 23 of 2012 wef 01/01/2013]
+
+(1B) The authority under subsection (1) may be given for a withdrawal from the Fund by a relevant member under subsection (7), or for the payment by a relevant member of a premium referred to in section 27L(1) or (1A) from any amount standing to his credit in his retirement account, without any application being made by the relevant member under subsection (1A).
 
 [18/2009 wef 01/09/2009]
 
 [22/2010 wef 01/01/2011]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (1C) After the death of a member of the Fund, the authority under subsection (1) may be given for a withdrawal from the Fund under subsection (5) by a person nominated by that member in accordance with section 25(1), without any application being made by that person under subsection (1A).
+
+(1D) The authority under subsection (1) may be given for a withdrawal from the Fund by a member who has attained the age of 55 years under subsection (4)(b), without any application being made by that member under subsection (1A).
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Subject to this section and sections 19 and 19A, a member of the Fund shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
@@ -1278,9 +1294,13 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may at any time allow a member who has attained the age of 55 years to withdraw the sum standing to his credit in the Fund if the member satisfies the Board that he has been unemployed throughout the period of 6 months immediately preceding the date on which he makes an application for the withdrawal of any sum of money standing to his credit in the Fund.
+(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may allow a member who has attained the age of 55 years —
 
-[5/87]
+(a) to withdraw, at any time, the sum standing to his credit in the Fund, if the member satisfies the Board that he has been unemployed throughout the period of 6 months immediately preceding the date on which he makes an application for the withdrawal of any sum of money standing to his credit in the Fund; and
+
+(b) to withdraw, within such time as the Board may permit, the whole or any part of the amount of any money that is paid, repaid or refunded into his account in the Fund pursuant to a charge under subsection (9), (9A), (11D) or (11E) or section 21(1), 21A(1), 21B(1), 27C(1)(v)(A) or (B), 27D(1)(v)(B), 27DA(1)(v), 27E(1)(iv) or 27F(1)(iv), or pursuant to an undertaking given under subsection (10) or (10A).
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (5) Subject to section 25(3), after the death of a member of the Fund, a person who is nominated by the deceased member, by a memorandum executed in accordance with section 25(1), shall be entitled to withdraw, in the manner provided for in the memorandum, from the balance standing to the credit of the deceased member in the Fund, such portion of the amount payable on the deceased member’s death out of the Fund as the person has been nominated to receive under the memorandum.
 
@@ -1288,11 +1308,13 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
 
-(a) a prescribed sum (referred to in this Act as the minimum sum) shall be set aside or topped-up —
+(a) such minimum sum applicable to the member as may be prescribed shall be set aside or topped-up —
 
 (i) by the member; or
 
 (ii) from the sum standing to the member’s credit in the Fund; and
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) unless the Board otherwise allows, such amount as may be specified under subsection (6D) shall be set aside or topped-up in the member’s medisave account —
 
@@ -1302,7 +1324,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on their joint application, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
+(6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on a joint application made by them before 1st January 2013, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (6B) Any memorandum executed under subsection (6A) by 2 members of the Fund who are parties to a marriage —
 
@@ -1322,17 +1346,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
-(6C) The minimum sum shall be utilised as follows:
+(6C) The amount standing to the credit of a member in his retirement account shall be utilised as follows:
 
-(a) such amount (if any) as the Board may determine shall be deposited in the member’s retirement account for the payment of a premium referred to in section 27L(1) or (1A); and
+(a) such amount (if any) as the Board may determine shall be used for the payment of a premium referred to in section 27L(1) or (1A); and
 
 [22/2010 wef 01/01/2011]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) any remaining amount may be —
 
-(i) deposited with an approved bank or in the member’s retirement account;
+(i) deposited with an approved bank or retained in the member’s retirement account;
 
 [22/2010 wef 01/01/2011]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (ii) used to purchase an approved annuity from an insurer ; or
 
@@ -1344,7 +1372,15 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(6CA) For the purposes of subsections (6)(a) and (6C), where a member becomes entitled under subsection (2)(a) to withdraw the sum standing to his credit in the Fund, the Board shall, if required by any regulations made under section 77(1), transfer from that sum to his retirement account, towards the maintenance of the minimum sum, such amount as may be prescribed in those regulations.
+[Act 23 of 2012 wef 01/01/2013]
+
+(6CA) For the purposes of subsections (6)(a) and (6C), the Board shall, if required by any regulations made under section 77(1), transfer from the sum standing to the credit of a member in the Fund to his retirement account, towards the maintenance of the minimum sum, such amount at such time as may be prescribed in those regulations.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(6CB) For the purposes of subsection (6CA), different amounts and times may be prescribed for different classes of members.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (6D) The Minister may, by order published in theGazette—
 
@@ -1354,7 +1390,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
+(7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or retained that amount in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b), or such part thereof as the Board may determine, from his account with an approved bank or his retirement account, or to surrender his approved annuity from an insurer, if the Board is satisfied that the member —
 
@@ -1440,7 +1478,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (8C) Notwithstanding subsections (2A), (6), (7B) and (8A) and section 27, where any amount which a relevant member is entitled to withdraw from his retirement account under subsection (7), or which is due to a relevant member under section 27K(6), has been transferred or paid by the Board into his ordinary account, the Board may, on his application, permit him to withdraw that amount.
 
-(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made before 1st January 2013, permit the member —
 
 (a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
@@ -1450,13 +1488,15 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6C).
+if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum.
 
 [18/2009 wef 01/09/2009]
 
 [5/87; 39/2000]
 
-(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+[Act 23 of 2012 wef 01/01/2013]
+
+(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made before 1st January 2013, permit the member —
 
 (a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
@@ -1464,13 +1504,15 @@ if the member or his spouse, as the case may be, agrees to the creation of a cha
 
 (b) to surrender his approved annuity,
 
-if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6C).
+if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum.
 
 [18/2009 wef 01/09/2009]
 
 [39/2000]
 
-(10) Where a member or his spouse or both of them jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+[Act 23 of 2012 wef 01/01/2013]
+
+(10) Where a member or his spouse or both of them jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made before 1st January 2013, permit the member —
 
 (a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
@@ -1478,7 +1520,7 @@ if the member and the related person or persons, as the case may be, agree to th
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside for any of the purposes mentioned in subsection (6C) in the event the property is sold or otherwise disposed of.
+if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
 
 [18/2009 wef 01/09/2009]
 
@@ -1486,7 +1528,9 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+[Act 23 of 2012 wef 01/01/2013]
+
+(10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made before 1st January 2013, permit the member —
 
 (a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
@@ -1494,7 +1538,7 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 (b) to surrender his approved annuity,
 
-if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside for any of the purposes mentioned in subsection (6C) in the event the property is sold or otherwise disposed of.
+if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
 
 [18/2009 wef 01/09/2009]
 
@@ -1502,19 +1546,71 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
+[Act 23 of 2012 wef 01/01/2013]
 
-(10C) The Board shall not enforce an undertaking given by a member under subsection (10), or by a member and one or more other persons under subsection (10) or (10A), if —
+(10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if there exist such circumstances as may be prescribed in any regulations made under section 77(1) for the purposes of this subsection.
 
-(a) the immovable property concerned is an HDB flat; and
+[Act 23 of 2012 wef 01/01/2013]
 
-(b) the disposal of the immovable property consists only of a reduction of the term of the lease in the HDB flat pursuant to an agreement entered into by the member, or by the member and the other person or persons, with the Housing and Development Board under the Lease Buyback Scheme.
+(10C) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
-(11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from an approved developer, from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
+(11) Where a member owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
 
-[5/87]
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
-(12) No moneys deposited in an account with an approved bank or in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with the minimum sum shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any right of set-off by the approved bank for any debt owing by the member to the approved bank.
+(b) to surrender his approved annuity.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(11A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(11B) Where a member owns any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(11C) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(11D) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has withdrawn the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the amount withdrawn.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(11E) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has surrendered his approved annuity, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the entire surrender value of the approved annuity.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(11F) The following provisions shall apply to a charge constituted on any immovable property under subsection (11D) or (11E):
+
+(a) the charge shall be subject to all prior statutory rights and charges of any public authority over the immovable property and to all encumbrances registered or notified prior to the date of the constitution of the charge;
+
+(b) upon the constitution of the charge, the Board shall have the power of sale and all other powers relating or incidental thereto to sell and effectually transfer the immovable property to any purchaser as if the Board were a registered mortgagee and, in any case where the immovable property is registered land within the meaning of the Land Titles Act (Cap. 157), notwithstanding that the charge is not registered under that Act;
+
+(c) the charge shall extend to all the rights, benefits and interests of the member, or of the member and the other person or persons who jointly own the immovable property, as the case may be, under his or their agreement for sale and purchase of the immovable property;
+
+(d) where the Board has lodged with the Registrar an instrument (which shall be in such form as the Registrar may require) for the purpose of registering or notifying the charge, the Registrar shall not be concerned to enquire into the regularity or validity of the charge and shall, on acceptance of the instrument, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be;
+
+(e) the charge shall continue in force until the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(12) No moneys deposited in an account with an approved bank or retained in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with any amount standing to the credit of the member in his retirement account shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any right of set-off by the approved bank for any debt owing by the member to the approved bank.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (13) Such moneys, withdrawals and payments mentioned in subsection (12) shall not pass to the Official Assignee on the bankruptcy of the member.
 
@@ -1538,35 +1634,13 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge, and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be;
 
-(e) the charge shall on the application of the member or any other person having an interest in the property be cancelled if the Board is satisfied of the occurrence of any one of the following events:
+(e) the charge shall on the application of the member or any other person having an interest in the property be cancelled if the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
 
-(i) the death of the member;
+[Act 23 of 2012 wef 01/01/2013]
 
-(ii) the member is suffering from a terminal illness or disease;
+(15A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and sections 49L and 49M of the Insurance Act (Cap. 142) shall not apply to any annuity purchased with any amount standing to the credit of a member in his retirement account.
 
-[15/2006 wef 01/07/2006]
-
-(iii) the member has complied with the requirements of subsection (2A), (6), (7B) or (8A);
-
-[15/2006 wef 01/07/2006]
-
-(iv) the member’s minimum sum has been exhausted on account of withdrawals made by him under subsection (7), the payment by him of a premium referred to in section 27L(1) or (1A), or both; or
-
-[15/2006 wef 01/07/2006]
-
-[18/2009 wef 01/09/2009]
-
-[22/2010 wef 01/01/2011]
-
-[Act 20 of 2011 wef 30/12/2011]
-
-(v) the member satisfies any of the grounds for withdrawals under subsection (2)(b) or (c).
-
-[15/2006 wef 01/07/2006]
-
-[5/87; 39/2000]
-
-(15A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and sections 49L and 49M of the Insurance Act (Cap. 142) shall not apply to any annuity purchased with the minimum sum.
+[Act 23 of 2012 wef 01/01/2013]
 
 (16) In this section and section 15B —
 
@@ -1576,7 +1650,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 “Housing Authority” has the same meaning as in section 28;
 
-“Lease Buyback Scheme” means a scheme by that name administered by the Housing and Development Board, under which a lessee of an HDB flat who has been approved by the Housing and Development Board to take part in the scheme enters into an agreement with the Housing and Development Board to reduce the term of the lease, in consideration of a sum of money part of which is to be used for the payment of the premium for an annuity plan under the Lifelong Income Scheme established and maintained by the Board under section 27K;
+[Deleted by Act 23 of 2012 wef 01/01/2013]
 
 “related person”, in relation to a member, means —
 
@@ -2046,7 +2120,9 @@ transfer such part of that portion as the Board may determine to the person’s 
 
 (i) to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
 
-(ii) to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
+(ii) to a Town Council in respect of upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A),
+
+[Act 23 of 2012 wef 01/01/2013]
 
 including costs, fees or other incidental expenses arising from such works;
 
@@ -2054,13 +2130,25 @@ including costs, fees or other incidental expenses arising from such works;
 
 (i) for the purchase or acquisition of an immovable property;
 
-(ii) for obtaining a loan to finance or re-finance such purchase or acquisition; and
+(ia) to change the manner of holding of an immovable property from a joint tenancy to a tenancy in common, or vice versa;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(ib) for the transfer of any part (but not the whole) of the member’s estate or interest in an immovable property to any other person;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(ii) for obtaining a loan to finance or re-finance any purchase or acquisition referred to in sub-paragraph (i); and
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-there shall be a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+there shall be a charge on the member’s estate or interest in the immovable property, or the remainder thereof (if paragraph (d)(ib) applies), to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made.
 
 [57/2007 wef 01/01/2008]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (1A) Where the immovable property is purchased, acquired or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
 
@@ -2070,9 +2158,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(3) Any charge created over any immovable property under subsection (1) from 1st June 1981 to 31st December 1986 (both dates inclusive) shall unless the Board otherwise decides be deemed to have secured the payment of the minimum sum into a member’s retirement account.
-
-[5/87]
+(3) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (4) Upon lodgment by the Board with the Registrar of an instrument (which shall be in such form as the Registrar may require) for the purpose of registering or notifying any charge under subsection (1) and the acceptance of the instrument by the Registrar, the Board shall have —
 
@@ -2090,9 +2176,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(7) The repayment of the minimum sum to the Board, if it is secured by a charge on the member’s estate or interest on the immovable property under subsection (1), shall rank after the claims of a mortgagee or chargee other than the Board prior to the date when the member is required to deposit a prescribed sum in accordance with section 15(6).
-
-[5/87]
+(7) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (8) Notwithstanding section 80 of the Land Titles Act (Cap. 157) and section 15 of the Registration of Deeds Act (Cap. 269) —
 
@@ -2106,21 +2190,23 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(10) A charge under subsection (1) shall continue in force until —
+(10) A charge under subsection (1) on a member’s estate or interest in an immovable property shall continue in force until, and the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled in the event that, all moneys secured by the charge —
 
-(a) all moneys secured by the charge —
+(a) have been repaid to the Fund; or
 
-(i) have been repaid to the Fund; or
+(b) are no longer required by any regulations made under section 77(1) to be repaid to the Fund.
 
-(ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+[Act 23 of 2012 wef 01/01/2013]
 
-(b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+(10A) Without prejudice to subsection (10), where there is a charge under subsection (1) on a member’s estate or interest in an immovable property, and the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this subsection, the member or any other person having an interest in the immovable property may, with the approval of the Board, have the charge cancelled.
 
-in which event the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+[Act 23 of 2012 wef 01/01/2013]
 
-(11) Subsections (4), (9) and (10) shall apply to all charges under subsection (1) securing the repayment of moneys withdrawn from the Fund pursuant to any regulations made under section 77.
+(11) Subsections (4), (9), (10) and (10A) shall apply to all charges under subsection (1) securing the repayment of moneys withdrawn from the Fund pursuant to any regulations made under section 77.
 
 [19/83]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (12) In this section and sections 15, 21A and 21B —
 
@@ -2156,9 +2242,11 @@ in which event the member or any other person having an interest in the immovabl
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made.
 
 [57/2007 wef 01/01/2008]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (1A) Where the immovable property is purchased, acquired or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
 
@@ -2184,9 +2272,7 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [27/95]
 
-(6) The repayment of the minimum sum to the Board, if it is secured by a charge on the member’s estate or interest on the immovable property under subsection (1), shall rank after the claims of a mortgagee or chargee other than the Board prior to the date when the member is required to deposit a prescribed sum in accordance with section 15(6).
-
-[27/95]
+(6) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (7) Notwithstanding section 80 of the Land Titles Act (Cap. 157) and section 15 of the Registration of Deeds Act (Cap. 269) —
 
@@ -2200,17 +2286,17 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [27/95]
 
-(9) A charge under subsection (1) shall continue in force until —
+(9) A charge under subsection (1) on a member’s estate or interest in an immovable property shall continue in force until, and the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled in the event that, all moneys secured by the charge —
 
-(a) all moneys secured by the charge —
+(a) have been repaid to the Fund; or
 
-(i) have been repaid to the Fund; or
+(b) are no longer required by any regulations made under section 77(1) to be repaid to the Fund.
 
-(ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+[Act 23 of 2012 wef 01/01/2013]
 
-(b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+(9A) Without prejudice to subsection (9), where there is a charge under subsection (1) on a member’s estate or interest in an immovable property, and the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this subsection, the member or any other person having an interest in the immovable property may, with the approval of the Board, have the charge cancelled.
 
-in which event the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+[Act 23 of 2012 wef 01/01/2013]
 
 (10) Where costs, fees or other incidental expenses are incurred for the registration or notification of a charge under subsection (1) or section 21(4) or the discharge thereof, the Board may, subject to such terms and conditions as it may impose, authorise the whole or part of the amount standing to the member’s credit in the Fund to be withdrawn and used to pay such costs, fees and other incidental expenses.
 
@@ -2234,13 +2320,25 @@ in which event the member or any other person having an interest in the immovabl
 
 (i) for the purchase or acquisition of an HDB flat;
 
-(ii) for obtaining a loan to finance or re-finance such purchase or acquisition; and
+(ia) to change the manner of holding of an HDB flat from a joint tenancy to a tenancy in common, or vice versa;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(ib) for the transfer of any part (but not the whole) of the member’s estate or interest in an HDB flat to any other person;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(ii) for obtaining a loan to finance or re-finance any purchase or acquisition referred to in sub-paragraph (i); and
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made.
 
 [57/2007 wef 01/01/2008]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Upon the constitution of the charge on an HDB flat under subsection (1), the Board shall have the power of sale and all other powers relating or incidental thereto to sell and effectually transfer the title to the HDB flat to any purchaser as if the Board were a registered mortgagee notwithstanding that the charge is not registered under the Land Titles Act (Cap. 157).
 
@@ -2254,7 +2352,7 @@ there shall, immediately upon any such withdrawal, be a charge constituted on th
 
 (d) subject to, rank in priority to, or rank equally without preference with, such other encumbrances as may be specified in regulations made under section 77.
 
-(4) The repayment of the minimum sum to the Board, if it is secured by a charge on the HDB flat under subsection (1), shall rank after the claims of a mortgagee or chargee other than the Board before the date the member is required to deposit a prescribed sum under section 15(6).
+(4) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (5) If —
 
@@ -2286,15 +2384,17 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 (10) Notwithstanding section 80 of the Land Titles Act (Cap. 157), where further withdrawals from the Fund are authorised by the Board when a charge constituted on an HDB flat under subsection (1) is subsisting, all such withdrawals shall rank in priority to any other claims over the HDB flat as if the withdrawals were made at the date of the constitution of that charge.
 
-(11) Any charge constituted under subsection (1) shall continue in force until —
+(11) Any charge constituted under subsection (1) shall continue in force until all moneys secured by the charge —
 
-(a) all moneys secured by the charge —
+(a) have been repaid to the Fund; or
 
-(i) have been repaid to the Fund; or
+(b) are no longer required by any regulations made under section 77(1) to be repaid to the Fund.
 
-(ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+[Act 23 of 2012 wef 01/01/2013]
 
-(b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e).
+(11A) Without prejudice to subsection (11), where there is a charge constituted under subsection (1) on an HDB flat in respect of which a member has withdrawn any money standing to his credit in the Fund for any purpose referred to in subsection (1), and the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this subsection, the charge shall, on the application of the member or any other person having an interest in the HDB flat, cease to be in force if the Board approves the application.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (12) This section shall not apply to —
 
@@ -2390,7 +2490,7 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 ### Protection of benefits
 
-24\.—(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27E, 27F, 27G, 27H and 57C and any regulations made under section 57F or 77(1) —
+24\.—(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27DA, 27E, 27F, 27G, 27H and 57C and any regulations made under section 57F or 77(1) —
 
 (a) no withdrawals made from the Fund under this Act and no rights of any member of the Fund acquired thereunder; and
 
@@ -2407,6 +2507,8 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 [40/2007 wef 01/10/2007]
 
 [57/2007 wef 28/12/2007]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
@@ -3086,7 +3188,9 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 27C\.—(1) Where —
 
-(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s minimum sum;
 
@@ -3102,23 +3206,15 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum;
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(iii) if —
+[Act 23 of 2012 wef 01/01/2013]
 
-(A) the immovable property is subsequently sold or otherwise disposed of; and
+(iii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
-(B) at the time of the sale or disposal —
-
-(BA) the spouse has not attained the age of 55 years; or
-
-(BB) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
-
-[Act 20 of 2011 wef 30/12/2011]
-
-the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+[Act 23 of 2012 wef 01/01/2013]
 
 (iv) notwithstanding section 15(15)(e), upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable —
 
@@ -3130,25 +3226,33 @@ the spouse shall pay to the Fund such amount as may be determined by the Board i
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(v) if, at the time of the transfer of the member’s estate or interest in the immovable property to the spouse —
+(v) upon the transfer of the member’s estate or interest in the immovable property to the spouse —
 
-(A) the spouse has not attained the age of 55 years; or
+(A) in any case where the transfer occurs before 1st January 2013, there shall be a charge on the spouse’s estate or interest in the immovable property to secure the payment referred to in paragraph (iii); and
 
-(B) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
+(B) in any case where the transfer occurs on or after 1st January 2013, there shall be a charge constituted on the immovable property to secure the payment referred to in paragraph (iii);
 
-[Act 20 of 2011 wef 30/12/2011]
+[Act 23 of 2012 wef 01/01/2013]
 
-there shall be a charge on the spouse’s estate or interest in the immovable property to secure the payment referred to in paragraph (iii), such charge to subsist only until such time as the spouse’s minimum sum has been set aside;
+(vi) sections 15(15)(b) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v)(A), and for the purposes of such application —
 
-[Act 20 of 2011 wef 30/12/2011]
+(A) any reference to the charge under section 15(9) or (9A) shall be read as a reference to the charge under paragraph (v)(A); and
 
-(vi) sections 15(15)(b) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v), and for the purposes of such application —
+(B) any reference to the member shall be read as a reference to the spouse;
 
-(A) any reference to the charge under section 15(9) or (9A) shall be read as a reference to the charge under paragraph (v); and
+[Act 23 of 2012 wef 01/01/2013]
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(via) sections 15(11F)(b) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v)(B), and for the purposes of such application —
+
+(A) any reference to the charge under section 15(11D) or (11E) shall be read as a reference to the charge under paragraph (v)(B); and
 
 (B) any reference to the member shall be read as a reference to the spouse; and
 
-(vii) the charge under paragraph (v) —
+[Act 23 of 2012 wef 01/01/2013]
+
+(vii) the charge under paragraph (v)(A) or (B) —
 
 (A) shall be subject to all prior statutory rights and charges of any public authority over the immovable property; and
 
@@ -3158,9 +3262,13 @@ there shall be a charge on the spouse’s estate or interest in the immovable pr
 
 (BB) shall rank equally with the charge referred to in paragraph (b), had it continued or if it continues to be in force, in the order of priority of interests in the immovable property.
 
+[Act 23 of 2012 wef 01/01/2013]
+
 (2) Except in a case to which subsection (1) applies, where —
 
-(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s minimum sum; and
 
@@ -3178,7 +3286,9 @@ the charge shall continue in force until —
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+(ii) the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph,
+
+[Act 23 of 2012 wef 01/01/2013]
 
 in which event the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
 
@@ -3186,7 +3296,9 @@ in which event the member, the person referred to in paragraph (c) or any other 
 
 27D\.—(1) Where —
 
-(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
 
@@ -3204,67 +3316,45 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum;
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(iii) if —
+[Act 23 of 2012 wef 01/01/2013]
 
-(A) the immovable property is subsequently sold or otherwise disposed of; and
+(iii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
-(B) at the time of the sale or disposal —
-
-(BA) the spouse has not attained the age of 55 years; or
-
-(BB) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
-
-[Act 20 of 2011 wef 30/12/2011]
-
-the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+[Act 23 of 2012 wef 01/01/2013]
 
 (iv) upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable, the Board shall not enforce the undertaking under section 15(10) or (10A) against any person who has given that undertaking, in so far as it secures the refund to the Board of the member’s minimum sum or part thereof which is required to be set aside;
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(v) if, at the time of the transfer of the member’s estate or interest in the immovable property to the spouse —
+(v) upon the transfer of the member’s estate or interest in the immovable property to the spouse —
 
-(A) the spouse has not attained the age of 55 years; or
+(A) in any case where the transfer occurs before 1st January 2013, the spouse shall give an undertaking to pay to the Board, in the event the immovable property is sold or otherwise disposed of, the amount referred to in paragraph (iii); or
 
-(B) where the spouse has attained that age, there is a deficiency in the spouse’s minimum sum,
+(B) in any case where the transfer occurs on or after 1st January 2013, there shall be a charge constituted on the immovable property to secure the payment referred to in paragraph (iii);
 
-[Act 20 of 2011 wef 30/12/2011]
+[Act 23 of 2012 wef 01/01/2013]
 
-the spouse shall give an undertaking to pay to the Board, in the event the property is sold or otherwise disposed of, the amount referred to in paragraph (iii);
+(vi) the Board shall not enforce any undertaking under paragraph (v)(A) if there exist such circumstances as may be prescribed in any regulations made under section 77(1) for the purposes of this paragraph; and
 
-(vi) the Board shall not enforce any undertaking under paragraph (v) if the Board is satisfied of the occurrence of any of the following events:
+[Act 23 of 2012 wef 01/01/2013]
 
-(A) the death of the spouse;
+(vii) sections 15(11F)(a) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v)(B), and for the purposes of such application —
 
-(B) the spouse is suffering from a terminal illness or disease;
+(A) any reference to the charge under section 15(11D) or (11E) shall be read as a reference to the charge under paragraph (v)(B); and
 
-(C) the spouse has complied with the requirements of section 15(2A), (6), (7B) or (8A);
+(B) any reference to the member shall be read as a reference to the spouse.
 
-(D) the spouse’s minimum sum has been exhausted on account of withdrawals made by the spouse under section 15(7), the payment by the spouse of a premium referred to in section 27L(1) or (1A), or both; or
-
-[18/2009 wef 01/09/2009]
-
-[22/2010 wef 01/01/2011]
-
-[Act 20 of 2011 wef 30/12/2011]
-
-(E) the spouse satisfies any of the grounds for withdrawals under section 15(2)(b) or (c); and
-
-[18/2009 wef 20/08/2009]
-
-(vii) the Board shall not enforce an undertaking given under paragraph (v), if —
-
-(A) the immovable property concerned is an HDB flat; and
-
-(B) the disposal of the immovable property consists only of a reduction of the term of the lease in the HDB flat pursuant to an agreement entered into by the spouse, or by the spouse and any other person or persons, with the Housing and Development Board under the Lease Buyback Scheme.
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Except in a case to which subsection (1) applies, where —
 
-(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
 
@@ -3284,13 +3374,79 @@ the Board shall be entitled to enforce that undertaking against every person who
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+(ii) the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph,
+
+[Act 23 of 2012 wef 01/01/2013]
 
 in which event the Board shall not enforce that undertaking.
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(3) In this section, “Lease Buyback Scheme” has the same meaning as in section 15(16).
+(3) [Deleted by Act 23 of 2012 wef 01/01/2013]
+
+### Order of court for transfer or sale of immovable property in relation to which charge has been created under section 15(11D) or (11E)
+
+27DA\.—(1) Where —
+
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(11), (11A), (11B) or (11C);
+
+(b) a charge has been constituted under section 15(11D) or (11E) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the amount withdrawn by the member;
+
+(c) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
+
+(d) the spouse is a citizen or permanent resident of Singapore,
+
+then, subject to any regulations made under section 77(1), the following provisions shall apply:
+
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s minimum sum, that person shall pay to the Board that amount;
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+
+(iii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+
+(iv) notwithstanding section 15(11F)(e), upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable —
+
+(A) the charge referred to in paragraph (b) shall cease to secure the payment to the Board of the amount withdrawn by the member; and
+
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have any registration or notification of the charge in the appropriate register under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be, cancelled, in so far as it secures the payment to the Board of the amount withdrawn by the member;
+
+(v) upon the transfer of the member’s estate or interest in the immovable property to the spouse, there shall be a charge constituted on the immovable property to secure the payment referred to in paragraph (iii);
+
+(vi) sections 15(11F)(b) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v), and for the purposes of such application —
+
+(A) any reference to the charge under section 15(11D) or (11E) shall be read as a reference to the charge under paragraph (v); and
+
+(B) any reference to the member shall be read as a reference to the spouse; and
+
+(vii) the charge under paragraph (v) —
+
+(A) shall be subject to all prior statutory rights and charges of any public authority over the immovable property; and
+
+(B) notwithstanding anything in the Land Titles Act or the Registration of Deeds Act —
+
+(BA) shall not be subject to any encumbrance registered or notified on or after the date of the notification of the charge referred to in paragraph (b); and
+
+(BB) shall rank equally with the charge referred to in paragraph (b), had it continued or if it continues to be in force, in the order of priority of interests in the immovable property.
+
+(2) Except in a case to which subsection (1) applies, where —
+
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(11), (11A), (11B) or (11C);
+
+(b) a charge has been constituted under section 15(11D) or (11E) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the amount withdrawn by the member; and
+
+(c) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
+
+the charge shall continue in force until, and the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property shall be entitled to have any registration or notification of the charge in the appropriate register under the Land Titles Act, the Land Titles (Strata) Act or the Registration of Deeds Act, as the case may be, cancelled in the event that —
+
+(i) the amount withdrawn by the member —
+
+(A) has been paid to the Board; or
+
+(B) is no longer required by any regulations made under section 77(1) to be paid to the Board; or
+
+(ii) the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 ### Order of court for transfer or sale of immovable property in relation to which charge under section 21 (1) or 21A (1) exists
 
@@ -3318,31 +3474,37 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (iii) notwithstanding sections 21(10) and 21A(9), upon the transfer of the member’s estate or interest in the immovable property to his spouse and upon payment in accordance with paragraph (i), if applicable —
 
-(A) any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall cease to secure the repayment of the money withdrawn from the Fund by the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account; and
+(A) any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall cease to secure the repayment of the money withdrawn from the Fund by the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made); and
 
 [57/2007 wef 01/01/2008]
 
-(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the repayment of the money withdrawn from the Fund by the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account;
+[Act 23 of 2012 wef 01/01/2013]
+
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the repayment of the money withdrawn from the Fund by the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made);
 
 [57/2007 wef 01/01/2008]
 
-(iv) there shall be a charge on the spouse’s estate or interest in the immovable property to secure —
+[Act 23 of 2012 wef 01/01/2013]
 
-(A) the payment referred to in paragraph (ii); and
+(iv) there shall be a charge on the spouse’s estate or interest in the immovable property to secure the payment referred to in paragraph (ii);
 
-(B) the payment of the minimum sum into the spouse’s retirement account;
+[Act 23 of 2012 wef 01/01/2013]
 
-(v) section 21(1A), (2), (4), (5) and (7) to (12) or sections 21(12) and 21A(1A) to (4) and (6) to (9), as the case may be, shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
+(v) section 21(1A), (2), (4), (5) and (8) to (12) or sections 21(12) and 21A(1A) to (4) and (7) to (9), as the case may be, shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
 
 (A) any reference to the charge under section 21(1) or 21A(1) shall be read as a reference to the charge under paragraph (iv); and
 
 (B) any reference to the member shall be read as a reference to the spouse; and
 
+[Act 23 of 2012 wef 01/01/2013]
+
 (vi) the charge under paragraph (iv) —
 
-(A) shall be in addition to any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property to secure the repayment of any money withdrawn from the Fund (for all or any of the purposes referred to in section 21(1) or 21A(1)) by any person other than the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made) and the payment of the minimum sum into that person’s retirement account;
+(A) shall be in addition to any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property to secure the repayment of any money withdrawn from the Fund (for all or any of the purposes referred to in section 21(1) or 21A(1)) by any person other than the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made);
 
 [57/2007 wef 01/01/2008]
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (B) shall be subject to all statutory rights and charges of any public authority over the immovable property; and
 
@@ -3360,17 +3522,17 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (c) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
 
-any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall continue in force until —
+the following shall apply:
 
-(i) all moneys secured by the charge —
+(i) any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall continue in force until, and the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property shall be entitled to have the charge cancelled in the event that, all moneys secured by the charge —
 
 (A) have been repaid to the Fund; or
 
-(B) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+(B) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; and
 
-(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+(ii) notwithstanding paragraph (i), where the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph, the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property may, with the approval of the Board, have the charge cancelled.
 
-in which event the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+[Act 23 of 2012 wef 01/01/2013]
 
 ### Order of court for transfer or sale of HDB flat in relation to which charge has been constituted under section 21B (1)
 
@@ -3396,29 +3558,23 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (ii) if the HDB flat is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
-(iii) notwithstanding section 21B(11), upon the transfer of the member’s interest in the HDB flat to his spouse and upon payment in accordance with paragraph (i), if applicable, any charge constituted on the HDB flat under section 21B(1) shall cease to secure —
+(iii) notwithstanding section 21B(11), upon the transfer of the member’s interest in the HDB flat to his spouse and upon payment in accordance with paragraph (i), if applicable, any charge constituted on the HDB flat under section 21B(1) shall cease to secure the repayment of the money withdrawn from the Fund by the member, including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made, and, if that is the only money secured by that charge, shall cease to be in force;
 
-(A) the repayment of the money withdrawn from the Fund by the member, including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made; and
+[Act 23 of 2012 wef 01/01/2013]
 
-[57/2007 wef 01/01/2008]
+(iv) there shall be a charge constituted on the HDB flat to secure the payment referred to in paragraph (ii);
 
-(B) the payment of the minimum sum into the member’s retirement account,
+[Act 23 of 2012 wef 01/01/2013]
 
-and, if those are the only moneys secured by that charge, shall cease to be in force;
-
-(iv) there shall be a charge constituted on the HDB flat to secure —
-
-(A) the payment referred to in paragraph (ii); and
-
-(B) the payment of the minimum sum into the spouse’s retirement account;
-
-(v) sections 21(12) and 21B(2), (3)(a), (b) and (d), (4) to (11) and (14) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
+(v) sections 21(12) and 21B(2), (3)(a), (b) and (d), (5) to (11) and (14) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
 
 (A) any reference to the charge under section 21B(1) shall be read as a reference to the charge under paragraph (iv);
 
 (B) any reference to the member shall be read as a reference to the spouse; and
 
 (C) any reference to an encumbrance specified in section 21B(3)(c) shall be read as a reference to an encumbrance referred to in paragraph (vii);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (vi) the charge under paragraph (iv) shall be in addition to the charge referred to in paragraph (iii), if the charge referred to in paragraph (iii) continues to be in force; and
 
@@ -3436,15 +3592,17 @@ and, if those are the only moneys secured by that charge, shall cease to be in f
 
 (c) an order of court is made requiring the transfer or sale of the member’s interest in the HDB flat to any person,
 
-any charge constituted on the HDB flat under section 21B(1) shall continue in force until —
+the following shall apply:
 
-(i) all moneys secured by the charge —
+(i) any charge constituted on the HDB flat under section 21B(1) shall continue in force until all moneys secured by the charge —
 
 (A) have been repaid to the Fund; or
 
-(B) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+(B) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; and
 
-(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e).
+(ii) notwithstanding paragraph (i), where the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph, the charge shall, on the application of the member, the person referred to in paragraph (c) or any other person having an interest in the HDB flat, cease to be in force if the Board approves the application.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 ### Order of court for transfer of investments
 
@@ -3506,7 +3664,9 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (a) any transfer or payment of any money standing to the credit of the member under section 27B(1), (2) or (3);
 
-(b) any transfer (other than by way of sale) of the member’s estate or interest in any immovable property under section 27C(1), 27D(1) or 27E(1);
+(b) any transfer (other than by way of sale) of the member’s estate or interest in any immovable property under section 27C(1), 27D(1), 27DA(1) or 27E(1);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (c) any transfer (other than by way of sale) of the member’s interest in any HDB flat under section 27F(1);
 
@@ -3548,29 +3708,35 @@ LIFELONG INCOME SCHEME
 
 ### Establishment of Lifelong Income Scheme
 
-27K\.—(1) The Board is hereby authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has attained the relevant age applicable to him, a monthly income for the remainder of his life.
+27K\.—(1) The Board is hereby authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has an annuity plan that is in force and who has attained the relevant age applicable to him, a monthly income for the remainder of his life.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Subject to subsections (3), (4) and (5) and the relevant regulations, the Scheme shall apply to every member who —
 
-(a) is a citizen or permanent resident of Singapore;
+(a) attains, on or after 1st January 2013, such age as may be prescribed in the relevant regulations; and
 
-(b) attains, on or after 1st January 2013, such age as may be prescribed in the relevant regulations;
+(b) on attaining the age referred to in paragraph (a) or at such time as may be prescribed in the relevant regulations, satisfies all of the following requirements:
 
-(c) is required to comply with section 15(6)(a); and
+(i) he is a citizen or permanent resident of Singapore;
 
-(d) satisfies either of the following requirements:
+(ii) he is required to comply with section 15(6)(a);
 
-(i) on attaining the age referred to in paragraph (b), the amount set aside or topped-up for the purposes of his minimum sum is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph; or
+(iii) the amount standing to his credit in his retirement account is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph.
 
-(ii) at such time as may be prescribed in the relevant regulations, the amount standing to his credit in his retirement account is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph.
+[Act 23 of 2012 wef 01/01/2013]
 
-(2A) For the purposes of subsection (2)(d)(ii), different times and amounts may be prescribed for different classes of members.
+(2A) For the purposes of subsection (2)(b), different times and amounts may be prescribed for different classes of members.
 
-(3) The Board may, on the application of a member who satisfies the requirement under subsection (2)(a) but does not satisfy one or more of the requirements under subsection (2)(b), (c) and (d), permit him to join the Scheme —
+[Act 23 of 2012 wef 01/01/2013]
 
-(a) on or after the date he attains the age referred to in subsection (2)(b); and
+(3) The Board may, on the application of a member who is a citizen or permanent resident of Singapore at the time the Board considers the application, but does not satisfy one or more of the requirements under subsection (2), permit him to join the Scheme —
+
+(a) on or after the date he attains the age referred to in subsection (2)(a); and
 
 (b) subject to such terms and conditions as the Board may impose.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (4) The Scheme shall not apply to any member whom, or any class of members which, the Minister may prescribe under the relevant regulations.
 
@@ -3580,7 +3746,9 @@ LIFELONG INCOME SCHEME
 
 (b) the member complies with such terms and conditions for the Board’s approval as the Board may impose.
 
-(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as he is alive, the Board shall pay to him, after he has attained the relevant age applicable to him, such monthly income as the Minister may determine.
+(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as the annuity plan remains in force and he is alive, the Board shall pay to him, after he has attained the relevant age applicable to him, such monthly income as the Minister may determine.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (7) The Board shall not be required to pay a relevant member an amount due to him under subsection (6) if, at the time the amount is due, he fails to satisfy the Board, in accordance with the relevant regulations, that he is alive.
 
@@ -3596,7 +3764,9 @@ LIFELONG INCOME SCHEME
 
 27L\.—(1) Every relevant member shall pay a premium of such amount as the Minister may determine, and the Minister may determine different premiums for different classes of relevant members.
 
-(1A) Where a relevant member has been issued an annuity plan before the relevant month applicable to him, he shall, unless the Board determines otherwise, pay an additional premium, within that month or such period after that month as the Board may determine, of such amount as the Minister may determine, and the Minister may determine different additional premiums for different classes of relevant members.
+(1A) Where a relevant member has been issued an annuity plan before such time as may be prescribed in the relevant regulations, he shall, if required by the Board, pay one or more additional premiums, each within such time as the Board may determine and of such amount as the Minister may determine, and the Minister may determine different additional premiums for different classes of relevant members.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Notwithstanding anything in this Act, the Board shall be entitled to deduct the whole or any part of the premium payable by a relevant member from the amount standing to his credit in his retirement account.
 
@@ -3638,11 +3808,13 @@ LIFELONG INCOME SCHEME
 
 (a) claims to be entitled to a sum referred to in subsection (8) on the death of a relevant member as executor of the deceased relevant member; or
 
-(b) claims to be entitled to a sum referred to in subsection (8) on the death of a relevant member (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased relevant member;
+(b) claims to be entitled to a sum referred to in subsection (8) on the death of a relevant member (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased relevant member.
 
 [22/2010 wef 01/01/2011]
 
-“relevant month”, in relation to a relevant member, means the month which is 2 months before the month in which the relevant member attains the prescribed age referred to in section 15(7).
+[Act 23 of 2012 wef 01/01/2013]
+
+[Deleted by Act 23 of 2012 wef 01/01/2013]
 
 ### Minister may delegate functions and powers under sections 27K(6) and 27L(1) and (1A)
 
@@ -3704,9 +3876,11 @@ LIFELONG INCOME SCHEME
 
 (6) In this section, “order of court” and “spouse” have the same meanings as in section 27A.
 
-### Regulations for purposes of this Part
+### Regulations for purposes of this Part and section 6(4B)(a)(ii)
 
-27Q\.—(1) The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Part.
+27Q\.—(1) The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Part and section 6(4B)(a)(ii).
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (2) Without prejudice to the generality of subsection (1), such regulations may —
 
@@ -3754,7 +3928,9 @@ LIFELONG INCOME SCHEME
 
 (m) provide for the purposes of section 27P and, in particular, prescribe the procedure and requirements for and manner of effecting, and any other matter relating to, the payment of money under that section; and
 
-(n) prescribe anything which under this Part may be prescribed by the Minister.
+(n) prescribe anything which under this Part or section 6(4B)(a)(ii) may be prescribed by the Minister.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 ## PART IV
 
@@ -3834,6 +4010,10 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
+(7) The Board may cancel or terminate a member’s cover under the Scheme in such circumstances as may be prescribed by regulations made under this Part.
+
+[Act 23 of 2012 wef 01/01/2013]
+
 ### Double insurance cover under Scheme prohibited
 
 30\.—(1) No person shall be insured under the Scheme for more than one immovable property at the same time.
@@ -3844,13 +4024,17 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/98; 39/2000]
 
-(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
+(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member or pay to such other person as may be prescribed by regulations made under this Part, subject to such terms and conditions as the Board may impose and in such manner as may be prescribed by those regulations, an amount representing the surrender value of that cover or the unexpired portion of that cover, if any, calculated in accordance with those regulations as if the member had redeemed the housing loan on that property on the date of the cessation of that cover.
 
-[30/98; 39/2000]
+[Act 23 of 2012 wef 01/01/2013]
 
-(4) Where a member is insured under the Scheme before 1st August 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on that date in the manner provided in subsection (3).
+(4) Where before 1st August 1998 a member is insured under the Scheme in respect of 2 immovable properties at the same time —
 
-[30/98; 39/2000]
+(a) the member’s cover under the Scheme in respect of the immovable property purchased by the member earlier (referred to in this subsection as the earlier property) shall cease on that date; and
+
+(b) the Board shall refund to the member or pay to such other person as may be prescribed by regulations made under this Part, subject to such terms and conditions as the Board may impose and in such manner as may be prescribed by those regulations, an amount representing the surrender value of that cover, if any, calculated in accordance with those regulations as if the member had redeemed the housing loan on the earlier property on that date.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 ### Medical condition of member of Scheme
 
@@ -4022,7 +4206,13 @@ is the total amount paid by the Board to the Housing Authority or the approved m
 
 [Act 20 of 2011 wef 30/12/2011]
 
-(f) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(ea) prescribe the circumstances under which the Board may cancel or terminate a member’s cover under the Scheme;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(f) provide for the refund of any premium, the manner in which the premium is to be refunded and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (g) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
@@ -4106,7 +4296,9 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89]
 
-(2) All premiums paid by any person whose cover under the Scheme has been cancelled under subsection (1), together with the whole or such part, as the Board may determine, of the interest that would have been payable if the amount of such premiums had been standing to the credit of that person’s account in the Fund, shall be refunded to his account in the Fund.
+(2) All premiums paid by any person whose cover under the Scheme has been cancelled under subsection (1), together with the whole or such part, as the Board may determine, of the interest that would have been payable if the amount of such premiums had been standing to the credit of that person’s account in the Fund, shall be refunded in such manner as may be prescribed by regulations made under this Part.
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (3) No refund shall be made under subsection (2) if the person has made or furnished to the Board any statement or fact that is false or misleading in a material particular.
 
@@ -4248,7 +4440,9 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (c) prescribe the amount of the insured sum;
 
-(d) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(d) provide for the refund of any premium, the manner in which the premium is to be refunded and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (e) provide for different periods of cover in respect of different amounts of premium paid by an insured person;
 
@@ -5076,13 +5270,39 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (g) to provide that the Board may, with the approval of the Minister, appoint any agent (including the Government or any statutory body) for the assessment, collection or recovery of contributions payable under this Act and any interest thereon and that such agent may be delegated such duties, powers and functions of the Board or its officers under this Act as may be prescribed;
 
-(h) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purchase or acquisition of immovable properties or to repay any loan taken to finance or re-finance the purchase or acquisition of immovable properties including the payment of costs, fees or other incidental expenses incurred for the purchase or acquisition of immovable property or for obtaining any loan to finance or re-finance such purchase or acquisition or in connection with withdrawals of any money from the Fund;
+(h) to provide for a member of the Fund to apply, assign or withdraw all or part of the moneys standing to his credit in the Fund, and for the repayment into the member’s account in the Fund of all or part of the moneys applied, assigned or withdrawn —
 
-(i) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund —
+(i) for the purchase or acquisition of any immovable property;
+
+(ii) for the repayment of any loan taken to finance or re‑finance the purchase or acquisition of any immovable property;
+
+(iii) for the payment of —
+
+(A) any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A); and
+
+(B) any costs, fees or other incidental expenses arising from such works; and
+
+(iv) for the payment of costs, fees or other expenses incurred —
+
+(A) for the purchase or acquisition of an immovable property;
+
+(B) to change the manner of holding of an immovable property from a joint tenancy to a tenancy in common, or vice versa;
+
+(C) for the transfer of any part (but not the whole) of the member’s estate or interest in an immovable property to any other person;
+
+(D) for obtaining any loan to finance or re-finance any purchase or acquisition referred to in sub‑paragraph (A); or
+
+(E) in connection with withdrawals of any money from the Fund;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(i) to provide for a member of the Fund to apply or withdraw all or part of the moneys standing to his credit in the Fund, and for the repayment into the member’s account in the Fund of all or part of the moneys applied or withdrawn —
 
 (i) for the repayment of any loan taken to finance or re-finance the purchase or acquisition of any land (with or without any building thereon) and the cost incurred for the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house; and
 
 (ii) for the reimbursement of the cost for the purchase or acquisition of any land (with or without any building thereon) and the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house;
+
+[Act 23 of 2012 wef 01/01/2013]
 
 (j) with respect to the withdrawal of money from the medisave account of a member for such medical, psychiatric or other treatment or services received, or to be received, by him, his spouse, child, parent or such other persons as may be prescribed;
 
@@ -5118,17 +5338,27 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (na) without prejudice to the generality of paragraph (n), for the purposes of sections 26 to 26D;
 
-(o) for the purposes of sections 15(6) and (7), 18(1) and (1A) and 18A(1) and (1A) and, in particular, to —
+(o) for the purposes of sections 15(6)(a), (6C), (6CA), (6CB), (7), (9), (9A), (10), (10A) and (11) to (11F), 18(1) and (1A) and 18A(1) and (1A) and, in particular, to —
 
 (i) prescribe the minimum sum referred to in section 15(6)(a), including different minimum sums for different classes of members;
 
-(ii) prescribe the method of computing the minimum sum;
+(ii) prescribe the method of computing the minimum sum, and provide for certain amounts standing to the credit of a member in his retirement account to be disregarded when determining whether the member has set aside the minimum sum;
 
-(iii) prescribe the amount of the minimum sum which may be withdrawn, and provide for the manner in which the minimum sum may be withdrawn, after a member has attained the prescribed age; and
+[Act 23 of 2012 wef 01/01/2013]
 
-(iv) without prejudice to the generality of sub paragraph (iii), provide for the Board to pay an amount of the minimum sum withdrawn by a member into the member’s account in the Fund, and for the circumstances in which payment will be made to a member in this manner;
+(iii) prescribe the amount which may be withdrawn under section 15(7), and provide for the manner in which that amount may be withdrawn, after a member has attained the prescribed age;
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(iv) without prejudice to the generality of sub paragraph (iii), provide for the Board to pay an amount withdrawn by a member under section 15(7) into the member’s account in the Fund, and for the circumstances in which payment will be made to a member in this manner; and
 
 [Act 20 of 2011 wef 30/12/2011]
+
+[Act 23 of 2012 wef 01/01/2013]
+
+(v) provide for the payment into a member’s account in the Fund of any payment to the Board that is secured under section 15(9), (9A), (10), (10A), (11D) or (11E), 27C(1) or (2), 27D(1) or (2) or 27DA(1) or (2);
+
+[Act 23 of 2012 wef 01/01/2013]
 
 [Act 23 of 2012 wef 01/11/2012]
 
@@ -5144,17 +5374,7 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (qa) to prescribe the fees and charges that may be levied by the Board for the purposes of this Act;
 
-(r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of —
-
-(i) improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
-
-(ii) improvement contributions due to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
-
-including the payment of costs, fees or other incidental expenses arising from such works;
-
-[23/2005 wef 15/08/2005]
-
-[40/2007 wef 01/10/2007]
+(r) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (ra) for the purposes of Part IIIA and, in particular, to prescribe —
 
@@ -8697,6 +8917,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|13 August 2012 (Bill No. 21/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|1 November 2012 (Sections 2(a), (c), (e), 3, 5, 6, 7(e), (f), (o), 9 to 12, 17, 24, 27(b) and (c), 33 to 41, 42(c), (d), (f))|
+|183.|**Act 23 of 2012—Central Provident Fund (Amendment) Act 2012**|
+||Date of First Reading|13 August 2012 (Bill No. 21/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|1 January 2013 (sections 2(b) and (d), 4, 7(a) to (d), (g) to (n) and (p) to (x), 13 to 16, 18 to 23, 25, 26, 27(a), (d) and (e), 28 to 32 and 42(a), (b), (e) and (g) to (m))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
