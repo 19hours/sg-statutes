@@ -628,6 +628,10 @@ LIABILITY OF NETWORK SERVICE PROVIDERS
 
 (b) the infringement of any rights subsisting in or in relation to such material.
 
+(1A) Subject to subsection (2), a network service provider shall not be subject to any liability under the Personal Data Protection Act 2012 in respect of third-party material in the form of electronic records to which he merely provides access.
+
+[Act 26 of 2012 wef 02/01/2013]
+
 (2) Nothing in this section shall affect —
 
 (a) any obligation founded on contract;
@@ -850,23 +854,33 @@ Provision
 
 Matter
 
-1. Part II
+1.
+
+Part II
 
 The creation or execution of a will
 
-2. Part II
+2.
+
+Part II
 
 Negotiable instruments, documents of title, bills of exchange, promissory notes, consignment notes, bills of lading, warehouse receipts or any transferable document or instrument that entitles the bearer or beneficiary to claim the delivery of goods or the payment of a sum of money
 
-3. Part II
+3.
+
+Part II
 
 The creation, performance or enforcement of an indenture, declaration of trust or power of attorney, with the exception of implied, constructive and resulting trusts
 
-4. Part II
+4.
+
+Part II
 
 Any contract for the sale or other disposition of immovable property, or any interest in such property
 
-5. Part II
+5.
+
+Part II
 
 The conveyance of immovable property or the transfer of any interest in immovable property.
 
@@ -1279,6 +1293,11 @@ The Electronic Transactions Act 2010 repealed and re-enacted with amendments the
 
 |5.|**2011 Revised Edition—Electronic Transactions Act (Chapter 88)**|
 ||Date of operation|31 December 2011|
+|6.|**Act 26 of 2012—Personal Data Protection Act 2012**|
+||(Related and consequential amendments made to Act by)||
+||Date of First Reading|10 September 2012 (Bill No. 24/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|2 January 2013|
 ## COMPARATIVE TABLE
 
 Electronic Transactions Act
