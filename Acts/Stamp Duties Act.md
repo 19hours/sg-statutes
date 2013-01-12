@@ -2430,7 +2430,7 @@ CONVEYANCE, ASSIGNMENT or TRANSFER:
 
 on sale of any immovable property or any interest thereof
 
-Amount or value of consideration
+Amount of consideration
 
 (i)
 
@@ -2482,7 +2482,7 @@ $3
 
 on sale of residential property; and which is acquired on or after 30th August 2010 but before 14th January 2011
 
-In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty under paragraph (a) and either paragraph (bc) or (bf) (as applicable), where the property is disposed of in the following periods from the date of its acquisition:
 
 Amount of consideration or value (whichever is applicable) of the residential property
 
@@ -2524,9 +2524,9 @@ $1
 
 (bb)
 
-on sale of residential property, one of which is residential; and which is acquired on or after 14th January 2011
+on sale of residential property, one of which is residential; and which is acquired on or after 14th January 2011 but before 12th January 2013
 
-In addition to duty under paragraph (a), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty under paragraph (a) and either paragraph (bc) or (bf) (as applicable), where the property is disposed of in the following periods from the date of its acquisition:
 
 Within one year
 
@@ -2546,7 +2546,7 @@ Exceeding 3 years but not exceeding 4 years
 
 (bc)
 
-on sale of residential property, whether or not any other type of property is also conveyed, transferred or assigned under the same instrument —
+on sale of residential property (whether or not any other type of property is also conveyed, transferred or assigned under the same instrument), executed on or after 8th December 2011 but before 12th January 2013 —
 
 In addition to duty under paragraphs (a) and either (ba) or (bb) (as applicable)
 
@@ -2554,7 +2554,7 @@ In addition to duty under paragraphs (a) and either (ba) or (bb) (as applicable)
 
 if —
 
-3% of the amount or the total amount of consideration or value (whichever is applicable) of the residential property or properties that is or are conveyed, assigned or transferred
+3% of the amount or the total amount of consideration or of the residential property or properties that is or are conveyed, assigned or transferred
 
 (A)
 
@@ -2568,7 +2568,7 @@ one or more residential properties is or are conveyed, transferred or assigned u
 
 if —
 
-3% of the total amount of consideration or value (whichever is applicable) of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration or value (whichever is applicable) for any one of those residential properties, as elected by the person paying the duty
+3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration for any one of those residential properties, as elected by the person paying the duty
 
 (A)
 
@@ -2582,7 +2582,7 @@ the grantee, transferee or lessee is a Singapore citizen owning one property, or
 
 if —
 
-3% of the total amount of consideration or value (whichever is applicable) of the residential properties that are conveyed, assigned or transferred, after deducting the total amount of consideration or value (whichever is applicable) for any 2 of those residential properties, as elected by the person paying the duty
+3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the total amount of consideration for any 2 of those residential properties, as elected by the person paying the duty
 
 (A)
 
@@ -2596,13 +2596,13 @@ the grantee, transferee or lessee is a Singapore citizen not owning property, or
 
 if the grantee, transferee or lessee is a Singapore permanent resident owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore permanent resident owning property and none of the other joint grantees, transferees or lessees is a foreigner or an entity
 
-3% of the amount or the total amount of consideration or value (whichever is applicable) of the residential property or properties that is or are conveyed, assigned or transferred
+3% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
 
 (v)
 
 if —
 
-3% of the total amount of consideration or value (whichever is applicable) of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration or value (whichever is applicable) for any one of those residential properties, as elected by the person paying the duty
+3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration for any one of those residential properties, as elected by the person paying the duty
 
 (A)
 
@@ -2616,11 +2616,209 @@ the grantee, transferee or lessee is a Singapore permanent resident not owning p
 
 if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is a foreigner or an entity.
 
-10% of the amount or the total amount of consideration or value (whichever is applicable) of the residential property or properties that is or are conveyed, assigned or transferred.
+10% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred.
+
+(bd)
+
+on sale of industrial property which is acquired on or after 12th January 2013
+
+In addition to duty under paragraphs (a) and (bf), where the property is disposed of in the following period from the date of its acquisition
+
+Within one year
+
+Exceeding one year but not exceeding 2 years
+
+Exceeding 2 years but not exceeding 3 years
+
+15% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to an industrial purpose at the time of the execution of the instrument
+
+10% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to an industrial purpose at the time of the execution of the instrument
+
+5% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to an industrial purpose at the time of the execution of the instrument
+
+(be)
+
+on sale of “residential and mixed-residential” property which is acquired on or after 12th January 2013
+
+In addition to duty under paragraphs (a) and (bf), where the property is disposed of in the following period from the date of its acquisition
+
+Within one year
+
+Exceeding one year but not exceeding 2 years
+
+Exceeding 2 years but not exceeding 3 years
+
+Exceeding 3 years but not exceeding 4 years
+
+The aggregate of the following (as applicable):
+
+(a)
+
+15% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to an industrial purpose at the time of the execution of the instrument; and
+
+(b)
+
+16% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to a residential purpose at the time of the execution of the instrument
+
+The aggregate of the following (as applicable):
+
+(a)
+
+10% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to an industrial purpose at the time of the execution of the instrument; and
+
+(b)
+
+12% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to a residential purpose at the time of the execution of the instrument
+
+The aggregate of the following (as applicable):
+
+(a)
+
+5% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to an industrial purpose at the time of the execution of the instrument; and
+
+(b)
+
+8% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to a residential purpose at the time of the execution of the instrument
+
+4% of the amount of consideration or value (whichever is applicable) of the part of the property which is attributable to a residential purpose at the time of the execution of the instrument (as applicable)
+
+(bf)
+
+on sale of residential property (whether or not any other type of property is also conveyed, transferred or assigned under the same instrument), executed on or after 12th January 2013
+
+In addition to duty under paragraph (a), and paragraph (ba), (bb) or (be) (as applicable)
+
+(i)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore citizen owning one property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning one property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
+
+7% of the amount of consideration of the residential property that is conveyed, assigned or transferred
+
+(B)
+
+one residential property is conveyed, transferred or assigned under the instrument
+
+(ii)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore permanent resident not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore permanent resident not owning property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
+
+5% of the amount of consideration of the residential property that is conveyed, assigned or transferred
+
+(B)
+
+one residential property is conveyed, transferred or assigned under the instrument
+
+(iii)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore citizen owning 2 or more properties or a Singapore permanent resident owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties or a Singapore permanent resident owning property, and none of the other joint grantees, transferees or lessees is a foreigner or an entity; and
+
+10% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
+
+(B)
+
+one or more residential properties is or are conveyed, transferred or assigned under the instrument
+
+(iv)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore citizen not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen not owning property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident, a foreigner or an entity; and
+
+7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty
+
+(B)
+
+2 residential properties are conveyed, transferred or assigned under the instrument
+
+(v)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore citizen not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen not owning property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident, a foreigner or an entity; and
+
+The aggregate of —
+
+(a)
+
+7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
+
+(b)
+
+10% of the total amount of consideration of the other residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration of any one of those other residential properties, as elected by that person
+
+(B)
+
+3 or more residential properties are conveyed, transferred or assigned under the instrument
+
+(vi)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore citizen owning one property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning one property, and none of the other joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
+
+The aggregate of —
+
+(a)
+
+7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
+
+(b)
+
+10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
+
+(B)
+
+2 or more residential properties are conveyed, transferred or assigned under the instrument
+
+(vii)
+
+if —
+
+(A)
+
+the grantee, transferee or lessee is a Singapore permanent resident not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore permanent resident not owning property, and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
+
+The aggregate of —
+
+(a)
+
+5% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
+
+(b)
+
+10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
+
+(B)
+
+2 or more residential properties are conveyed, transferred or assigned under the instrument
+
+(viii)
+
+if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is a foreigner or an entity
+
+15% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
 
 (c)
 
-on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
+on sale of any stock or shares or any interest thereof, computed on the amount of consideration —
 
 for every $100 or any part thereof
 
@@ -2676,9 +2874,49 @@ In a case where the conveyance, assignment or transfer is effected by more than 
 
 “foreigner” means an individual who is not a citizen of Singapore and not a permanent resident of Singapore;
 
+“industrial property” means any specified immovable property (or part thereof) referred to in paragraph 8(1)(a) of the Stamp Duties (Section 22A) Order 2010 (G.N. No. S 209/2010), but excludes any “residential or mixed residential” property;
+
 “property” means any immovable property and any stock or shares;
 
-“residential property” means immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential;
+“residential property” means —
+
+(a)
+
+in the case of paragraph (bc) of this Article, immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; or
+
+(b)
+
+in the case of paragraph (bf) of this Article, any immovable property that is either —
+
+(i)
+
+zoned or situated on land that is zoned in any of the following manners under the Master Plan:
+
+(A)
+
+“Residential”;
+
+(B)
+
+“Commercial and Residential”;
+
+(C)
+
+“Residential/Institution”;
+
+(D)
+
+“Residential with Commercial at 1st Storey”;
+
+(E)
+
+“White”; or
+
+(ii)
+
+permitted under the Planning Act (Cap. 232) to be used for solely residential purposes or for mixed purposes, one of which is residential
+
+“residential or mixed residential” property means any specified immovable property (or part thereof) referred to in paragraph 8(1)(b) of the Stamp Duties (Section 22A) Order 2010 (G.N. No. S 209/2010);
 
 “Singapore citizen not owning property” means a citizen of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, does not beneficially own (whether alone or jointly or in common with another) an estate or interest in any residential property situated within Singapore;
 
@@ -2702,7 +2940,15 @@ a reference to a Singapore citizen not owning property, a Singapore citizen owni
 
 (b)
 
-a reference to the amount of consideration or value of any residential property is, in a case where the property is used for mixed purposes one of which is residential, a reference to the amount of consideration or value (whichever is applicable) that is attributable to that part of the property that is used for residential purposes;
+a reference in paragraph (bc) of this Article to the amount of consideration of any residential property is, in a case where the property is used for mixed purposes one of which is residential, a reference to the amount of consideration that is attributable to that part of the property that is used for residential purposes;
+
+(bb)
+
+a reference in paragraph (bf) of this Article to the amount of consideration of any residential property is a reference to the amount of consideration relating to the part of the property that is attributable to a residential purpose;
+
+(bc)
+
+a reference in this Article to the amount of consideration includes a reference to the value of the consideration;
 
 (c)
 
@@ -2716,13 +2962,115 @@ except where the residential property is to be held as property of a business tr
 
 a reference to a grantee, transferee or lessee, in a case where the property is to be held as partnership property, is a reference to the partners of the partnership.
 
+(2A) For the purposes of paragraphs (bd) and (be) of this Article and paragraph (2)(bb), where the property is —
+
+(a)
+
+vacant land; or
+
+(b)
+
+immovable property comprising the land as well as all units or buildings within a development on the land,
+
+then the gross floor area of the property specified in the second column of the following table, that corresponds to the applicable zoning of the land under the Master Plan in the first column thereof, shall be deemed to be attributable to an industrial purpose; and the gross floor area of the property specified in the third column thereof, that corresponds to the applicable zoning of the land under the Master Plan in the first column thereof, shall be deemed to be attributable to a residential purpose:
+
+First column
+
+Second column
+
+Third column
+
+Zoning of land under Master Plan
+
+Part of property deemed attributable to industrial purpose
+
+Part of property deemed attributable to residential purpose
+
+White
+
+—
+
+100% of gross floor area
+
+B1
+
+100% of gross floor area
+
+—
+
+B1 — White
+
+The minimum gross floor area which must be set aside for “B1 uses” under the Master Plan before “White uses” are allowed
+
+—
+
+B2
+
+100% of gross floor area
+
+—
+
+B2 — White
+
+The minimum gross floor area which must be set aside for “B2 uses” under the Master Plan before “White uses” are allowed
+
+—
+
+BP
+
+85% of gross floor area
+
+—
+
+BP — White
+
+100% of gross floor area less maximum percentage thereof which may be set aside for “White uses” under the Master Plan
+
+—
+
+Residential
+
+—
+
+100% of gross floor area
+
+Residential/Institution
+
+—
+
+100% of gross floor area
+
+Commercial and Residential
+
+—
+
+60% of gross floor area
+
+Residential with commercial on the 1st storey
+
+—
+
+Total gross floor area less the minimum gross floor area which must be set aside for commercial uses under the Master Plan.
+
+(2B) For the purposes of paragraphs (bd) and (be) of this Article and paragraph (2)(bb), where the property is a building or part thereof —
+
+(a)
+
+a part of the property is attributable to an industrial purpose if it is permitted under the Planning Act to be used for any purpose set out in the Schedule to the Stamp Duties (Section 22A) Order 2010; and
+
+(b)
+
+a part of the property is attributable to a residential purpose if it is permitted under the Planning Act for a residential use.
+
+(2C) For the purposes of the definition of “residential property” as well as paragraph (2B), whether a building or part thereof is permitted under the Planning Act (Cap. 232) to be used for a particular purpose is to be determined in accordance with paragraph 6 of the Stamp Duties (Section 22A) Order 2010.
+
 (3)For the avoidance of doubt, in determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of partnership property or property held on trust by the person shall be disregarded.
 
 (4) For the avoidance of doubt —
 
 (a)
 
-a reference to the amount of consideration or value of residential property being conveyed, assigned or transferred includes the amount of consideration or value of the estate or interest in the property being conveyed, assigned or transferred; and
+a reference to the amount of consideration or value of property being conveyed, assigned or transferred includes the amount of consideration or value of the estate or interest in the property being conveyed, assigned or transferred; and
 
 (b)
 
@@ -2746,13 +3094,13 @@ then —
 
 (i)
 
-if no other residential property (or estate or interest therein) besides that estate or interest is conveyed, transferred or assigned under the instrument, paragraph (bc) of this Article shall not apply to that instrument notwithstanding anything in that paragraph; or
+if no other residential property (or estate or interest therein) besides that estate or interest is conveyed, transferred or assigned under the instrument, paragraph (bc)or (bf) of this Article shall not apply to that instrument notwithstanding anything in that paragraph; or
 
 (ii)
 
-in any other case, the conveyance, transfer or assignment of that estate or interest shall be disregarded in determining the applicability of paragraph (bc) of this Article, including in determining the total number of residential properties being conveyed, transferred or assigned under the instrument and the amount of stamp duty payable.
+in any other case, the conveyance, transfer or assignment of that estate or interest shall be disregarded in determining the applicability of paragraph (bc) or (bf) of this Article, including in determining the total number of residential properties being conveyed, transferred or assigned under the instrument and the amount of stamp duty payable.
 
-(6)Paragraph (5) shall not apply if —
+(6) Paragraph (5) (as it relates to paragraph (bc) of this Article) shall not apply if —
 
 (a)
 
@@ -2786,21 +3134,67 @@ in the case of sub-paragraph (v) of paragraph (bc) of this Article, a Singapore 
 
 in the case of sub-paragraph (vi) of paragraph (bc) of this Article, a foreigner or an entity.
 
-(7) In paragraphs (5) and (6), “relevant individual” means an individual who is —
+(7) Paragraph (5) (as it relates to paragraph (bf) of this Article) shall not apply if —
 
 (a)
 
-a Singapore citizen owning one property;
+the relevant individual is one of 2 or more joint grantees, transferees or lessees under the instrument; and
 
 (b)
 
+without considering the status of the relevant individual, sub-paragraph (i), (ii), (iii), (iv), (v), (vi), (vii) or (viii) of paragraph (bf) of this Article applies to the instrument by virtue of the fact that the other joint grantee, transferee or lessee, or any of the other joint grantees, transferees or lessees, not being himself a relevant individual who satisfies paragraph (5)(b) in relation to that estate or interest, is —
+
+(i)
+
+in the case of sub-paragraph (i) of paragraph (bf) of this Article, a Singapore citizen owning one property;
+
+(ii)
+
+in the case of sub-paragraph (ii) of paragraph (bf) of this Article, a Singapore permanent resident not owning property;
+
+(iii)
+
+in the case of sub-paragraph (iii) of paragraph (bf) of this Article, a Singapore citizen owning 2 or more properties or a Singapore permanent resident owning property;
+
+(iv)
+
+in the case of sub-paragraph (iv) or (v) of paragraph (bf) of this Article, a Singapore citizen not owning property;
+
+(v)
+
+in the case of sub-paragraph (vi) of paragraph (bf) of this Article, a Singapore citizen owning one property;
+
+(vi)
+
+in the case of sub-paragraph (vii) of paragraph (bf) of this Article, a Singapore permanent resident not owning property;
+
+(vii)
+
+in the case of sub-paragraph (viii) of paragraph (bf) of this Article, a foreigner or an entity.
+
+(7A) In paragraphs (5), (6) and (7), “relevant individual” means —
+
+(a)
+
+in the case of paragraph (bc) of this Article, an individual who is —
+
+(i)
+
+a Singapore citizen owning one property;
+
+(ii)
+
 a Singapore citizen owning 2 properties; or
 
-(c)
+(iii)
 
 a Singapore permanent resident owning one property,
 
-where the property or any of the properties (as the case may be) is the property referred to inparagraph (5)(b).
+where the property or any of the properties (as the case may be) is the property referred to in paragraph (5)(b); or
+
+(b)
+
+in the case of paragraph (bf) of this Article, an individual who is a Singapore citizen owning one property, being the property referred to in paragraph (5)(b).
 
 (8) In determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of property that is the subject of a notification under section 5 of the Land Acquisition Act (Cap. 152) shall be disregarded.
 
@@ -2986,6 +3380,8 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 [Deleted by Act23/2011 wef 19/02/2011]
 
+[S 12/2013 wef 12/01/2013]
+
 [S 253/2012 wef 01/06/2012]
 
 [S 117/2012 wef 08/12/2011]
@@ -3032,19 +3428,19 @@ Duplicate or Counterpart
 
 The lessor
 
-2.
+2
 
-CONVEYANCE — Article No. 3(a) to (i)
+CONVEYANCE — Article No. 3(a) to (h)
 
 (a)
 
-for all purposes other than Article No. 3(b), (ba) and (bb)
+for all purposes other than Article No. 3(b), (ba), (bb), (bd) and (be)
 
 The grantee, transferee or lessee
 
 (b)
 
-for the purposes of Article No. 3(b), (ba) and (bb)
+for the purposes of Article No. 3(b), (ba), (bb), (bd) and (be)
 
 The grantor or transferor
 
@@ -3081,6 +3477,8 @@ The mortgagor or obligor
 PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
+
+[S 12/2013 wef 12/01/2013]
 
 [S 474/2010 wef 30/08/2010]
 
@@ -3568,6 +3966,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 April 2012|
 |61.|**G.N. No. S 253/2012—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2012**|
 ||Date of commencement|1 June 2012|
+|62.|**G.N. No. S 12/2013—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2013**|
+||Date of commencement|12 January 2013|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
