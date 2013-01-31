@@ -402,7 +402,7 @@
 
 - [45GA Application of section 45 to income derived as public entertainer](#Application-of-section-45-to-income-derived-as-public-entertainer)
 
-- [45H Application of section 45 to commission or other payment of junket promoter](#Application-of-section-45-to-commission-or-other-payment-of-junket-promoter)
+- [45H Application of section 45 to commission or other payment of licensed international market agent](#Application-of-section-45-to-commission-or-other-payment-of-licensed-international-market-agent)
 
 - [45I Sections 45 and 45A not applicable to certain payments](#Sections-45-and-45A-not-applicable-to-certain-payments)
 
@@ -2387,6 +2387,130 @@ made under a securities lending or repurchase arrangement by a Singapore-based t
 (c) in the case of companies incorporated outside Singapore, the branches or offices of the companies located within Singapore.
 
 [7/2007]
+
+### Sources of income
+
+### Trading operations carried on partly in Singapore
+
+12\.—(1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
+
+### Non-resident shipping and air transport
+
+(2) Where a non-resident person carries on —
+
+(a) the business of shipowner or charterer; or
+
+(b) the business of air transport,
+
+and any ship or aircraft owned or chartered by him calls at a port, aerodrome or airport in Singapore, his full profits arising from the carriage of passengers, mails, livestock or goods shipped, or loaded into an aircraft, in Singapore shall be deemed to accrue in Singapore.
+
+(2A) Subsection (2) shall not apply to passengers, mails, livestock or goods which are brought to Singapore solely for transhipment, or for transfer from one aircraft to another or from an aircraft to a ship or from a ship to an aircraft.
+
+### Cable or wireless undertakings
+
+(3) Where a non-resident person carries on in Singapore the business of transmitting messages by cable or by any form of wireless apparatus, his full profits arising from the transmission in Singapore of any such messages, whether originating in Singapore or elsewhere, to places outside Singapore shall be deemed to accrue in Singapore.
+
+### Employment exercised in Singapore
+
+(4) The gains or profits from any employment exercised in Singapore shall be deemed to be derived from Singapore whether the gains or profits from such employment are received in Singapore or not.
+
+### Employment exercised outside Singapore on behalf of Government
+
+(5) The gains or profits from any employment exercised outside Singapore on behalf of the Government by any individual in the discharge of governmental functions shall be deemed to be derived from Singapore except where such individual is not a citizen or a resident of Singapore.
+
+### Interest, etc.
+
+(6) There shall be deemed to be derived from Singapore —
+
+(a) any interest, commission, fee or any other payment in connection with any loan or indebtedness or with any arrangement, management, guarantee, or service relating to any loan or indebtedness which is —
+
+(i) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore or any immovable property situated outside Singapore; or
+
+(ii) deductible against any income accruing in or derived from Singapore; or
+
+(b) any income derived from loans where the funds provided by such loans are brought into or used in Singapore.
+
+[5/77]
+
+(6A) Subsection (6) shall not apply to any payment for —
+
+(a) any arrangement, management or service relating to any loan or indebtedness, where such arrangement, management or service is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the arrangement, management or service is not performed through that business carried on in Singapore or that permanent establishment; and
+
+(b) any guarantee relating to any loan or indebtedness, where the guarantee is provided for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a guarantor who is a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the giving of the guarantee is not effectively connected with that business carried on in Singapore or that permanent establishment.
+
+[27/2009 wef 29/12/2009]
+
+### Royalties, etc.
+
+(7) There shall be deemed to be derived from Singapore —
+
+(a) royalty or other payments in one lump sum or otherwise for the use of or the right to use any movable property;
+
+(b) any payment for the use of or the right to use scientific, technical, industrial or commercial knowledge or information or for the rendering of assistance or service in connection with the application or use of such knowledge or information;
+
+(c) any payment for the management or assistance in the management of any trade, business or profession; or
+
+(d) rent or other payments under any agreement or arrangement for the use of any movable property,
+
+which are borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which are deductible against any income accruing in or derived from Singapore.
+
+[5/77]
+
+(7A) Subsection (7) shall not apply to any payment for —
+
+(a) the rendering of assistance or service in connection with the application or use of scientific, technical, industrial or commercial knowledge or information, where such rendering of assistance or service is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the rendering of assistance or service is not performed through that business carried on in Singapore or that permanent establishment; and
+
+(b) the management or assistance in the management of any trade, business or profession, where such management or assistance is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the management or assistance is not performed through that business carried on in Singapore or that permanent establishment.
+
+[27/2009 wef 29/12/2009]
+
+### Commission or other payment of licensed international market agent
+
+(8) There shall be deemed to be derived from Singapore any commission or other payment paid to a licensed international market agent for organising or conducting a casino marketing arrangement with a casino operator in Singapore which is —
+
+(a) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore; or
+
+(b) deductible against any income accruing in or derived from Singapore.
+
+[10/2006]
+
+[Act 36 of 2012 wef 31/01/2013]
+
+(9) In this section, “casino marketing arrangement”, “casino operator” and “international market agent” have the same meanings as in the Casino Control Act (Cap. 33A).
+
+[Act 36 of 2012 wef 31/01/2013]
 
 ## PART IV
 
@@ -4488,13 +4612,9 @@ then the individual may, at any time at or before filing with the Comptroller a 
 
 (b) B — A if A < B,
 
-where A
+where A is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
 
-is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
-
-B
-
-is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
+B is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
 
 “relevant employment income”, in relation to an NOR individual, means —
 
@@ -17294,19 +17414,21 @@ as that section applies to any interest paid by a person to another person not k
 
 [53/2007]
 
-### Application of section 45 to commission or other payment of junket promoter
+### Application of section 45 to commission or other payment of licensed international market agent
 
-45H\.—(1) Subject to subsection (2), section 45 shall apply in relation to the payment of any commission or other payment by any person to a junket promoter not known to him to be resident in Singapore for arranging a junket with a casino operator in Singapore as section 45 applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such commission or payment.
+45H\.—(1) Subject to subsection (2), section 45 shall apply in relation to the payment of any commission or other payment by any person to a licensed international market agent not known to him to be resident in Singapore for organising or conducting a casino marketing arrangement with a casino operator in Singapore as section 45 applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such commission or payment.
 
 [10/2006 wef 02/04/2008]
+
+[Act 36 of 2012 wef 31/01/2013]
 
 (2) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 3%.
 
 [10/2006 wef 02/04/2008]
 
-(3) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act (Cap. 33A).
+(3) In this section, “casino marketing arrangement”, “casino operator” and “international market agent” have the same meanings as in the Casino Control Act (Cap. 33A).
 
-[10/2006 wef 02/04/2008]
+[Act 36 of 2012 wef 31/01/2013]
 
 ### Sections 45 and 45A not applicable to certain payments
 
@@ -22237,6 +22359,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|18 December 2012 (Section 15)|
+|293.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 October 2012|
+|||(Bill No. 28/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|16 November 2012|
+||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
