@@ -52,7 +52,7 @@
 
 [**Part III WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS**](#Part-III)
 
-- [20 Tariffs for supply of water and apparatus](#Tariffs-for-supply-of-water-and-apparatus)
+- [20 Tariffs for supply of water and apparatus, etc., payable to Board](#Tariffs-for-supply-of-water-and-apparatus-etc-payable-to-Board)
 
 - [21 Board may supply water](#Board-may-supply-water)
 
@@ -184,11 +184,11 @@
 
 - [74 References in other written law](#References-in-other-written-law)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
+[**FIRST SCHEDULE Constitution and proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Board)
 
 [**SECOND SCHEDULE Powers of Board**](#SECOND-SCHEDULE-Powers-of-Board)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -520,9 +520,41 @@ shall be guilty of an offence.
 
 WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
-### Tariffs for supply of water and apparatus
+### Tariffs for supply of water and apparatus, etc., payable to Board
 
 20\.—(1) The prices to be charged for the supply of water by the Board and the hire of apparatus shall be in accordance with such tariffs as may from time to time be prescribed.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(1A) Subject to section 14, for the purpose of determining the price to be charged for the supply of water by it, the Board may take into consideration all costs incurred in enabling it to so supply the water, including (but not limited to) the following:
+
+(a) the collection of water from any source, whether water from any natural source, used water (including sewage, waste matter and effluent) or otherwise;
+
+(b) the purchase of water from any source;
+
+(c) the storage of water;
+
+(d) the treatment of water to the standards necessary for the use for which the water is required;
+
+(e) the supply of water to any premises;
+
+(f) the maintenance of any system employed in the collection, storage, treatment or supply of water;
+
+(g) ensuring the quality, safety and security of the water supply.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(1B) In determining the price to be charged for the supply of water by the Board, subsection (1A) shall not permit the Board to take into consideration —
+
+(a) the costs in connection with any activity referred to in that subsection if an amount of tax is payable in relation to that same activity under subsection (4) (whether by the same person paying the price or otherwise); or
+
+(b) any costs borne by the Government or by the Board on behalf of the Government.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(1C) For the purposes of subsection (1), the Board may prescribe different prices for persons differently situated, including different prices for different volumes of water supplied.
+
+[Act 9 of 2012 wef 01/02/2013]
 
 (2) Nothing in this section shall prevent the Board from —
 
@@ -531,6 +563,44 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 (b) fixing, with the approval of the Minister, different tariffs for consumers similarly situated for a temporary period.
 
 (3) The Board shall, in fixing tariffs and making agreements for the supply of water, neither show undue preference as between consumers similarly situated nor exercise undue discrimination as between persons similarly situated, having regard to the place and time of supply, the quantity supplied, and the purpose for which the supply is taken.
+
+(4) There shall be paid to the Board a waterborne tax for the discharge of the Board’s functions in relation to used water (including sewage, waste matter and effluent) and sewerage, and the waterborne tax shall be of such amount and payable at such times as the Minister may, by order published in theGazette, prescribe.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(5) For the purposes of subsection (4), the Minister may prescribe different amounts of the waterborne tax for persons differently situated.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(6) The waterborne tax shall be payable by —
+
+(a) an occupier of premises (including the Government); or
+
+(b) where the premises are vacant, the owner of the premises (including the Government).
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(7) In determining the amount of the waterborne tax payable by any person, the Minister may base the calculation of the tax on all or any of the following:
+
+(a) the number of sanitary appliances which are installed in the premises;
+
+(b) the amount of water supplied to the premises;
+
+(c) any estimate of the amount of used water (including sewage, waste matter and effluent) disposed of.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(8) The waterborne tax collected under this section shall be paid into the funds of the Board.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(9) Without prejudice to section 25, any waterborne tax payable under this section may be recovered by the Board as a civil debt due to the Board.
+
+[Act 9 of 2012 wef 01/02/2013]
+
+(10) The Board may, with the approval of the Minister, grant any person or class of persons such amount of rebate on the waterborne tax as the Board may determine.
+
+[Act 9 of 2012 wef 01/02/2013]
 
 ### Board may supply water
 
@@ -680,7 +750,7 @@ the Board may immediately and without notice enter any premises and carry out, o
 
 ### Recovery of moneys due to Board
 
-25\.—(1) If the amount of any moneys which is due from any person for —
+25\.—(1) If the amount of any tax under this Act or the amount of any moneys which is due from any person for —
 
 (a) the supply of water by the Board to any premises owned or occupied by him;
 
@@ -689,6 +759,8 @@ the Board may immediately and without notice enter any premises and carry out, o
 (c) the supply or hire by the Board of any water fitting, apparatus, appliance, accessory or appurtenance thereof,
 
 is not paid within the time allowed for such payment to be made, a notice may be issued requiring the defaulter to pay the same, together with a fee of such amount as may be prescribed for the cost of issuing the notice, within 7 days from the date thereof.
+
+[Act 9 of 2012 wef 01/02/2013]
 
 (2) If such amount and fee are not paid within the period of 7 days, a warrant may be issued by the Board to any employee of the Board named therein, directing him to levy the same and the costs of recovery by seizure and sale of the movable property of the defaulter.
 
@@ -822,7 +894,9 @@ and recover any costs reasonably incurred by it from such person.
 
 ### Penalty or late payment charge
 
-35\. The Board may, with the approval of the Minister, prescribe a penalty or late payment charge (such penalty or late payment charge, if unpaid, to constitute a debt due to the Board and be recoverable as such) to be paid by a consumer to the Board for late payment of any fee or charge payable under this Act.
+35\. The Board may, with the approval of the Minister, prescribe a penalty or late payment charge (such penalty or late payment charge, if unpaid, to constitute a debt due to the Board and be recoverable as such) to be paid by a consumer to the Board for late payment of any fee, charge or tax payable under this Act.
+
+[Act 9 of 2012 wef 01/02/2013]
 
 ### Contribution towards capital outlay to provide water supply
 
@@ -1454,7 +1528,7 @@ MISCELLANEOUS
 
 (4) Any subsidiary legislation made under the repealed Public Utilities Act and in force immediately before 1st April 2001 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-(5) Notwithstanding the repeal of the Public Utilities Act, as from 1st April 2001 and for such period as the Minister for Trade and Industry may determine —
+(5) Notwithstanding the repeal of the Public Utilities Act (Cap. 261, 1996 Ed.), as from 1st April 2001 and for such period as the Minister for Trade and Industry may determine —
 
 (a) section 2, Parts IV, V, VII, VIII, IX and X of that Act and the subsidiary legislation made under section 130 of that Act for or in relation to the supply or use of electricity and gas shall, with the necessary modifications, continue in force as if that Act has not been repealed;
 
@@ -1470,7 +1544,7 @@ shall be read as references to the Minister for Trade and Industry and the Energ
 
 (d) for the purposes of this subsection, the Minister for Trade and Industry may make regulations to provide for any other transitional, incidental and consequential matters arising from the repeal of the Public Utilities Act.
 
-(6) Notwithstanding the repeal of the Public Utilities Act (Cap. 261, 1996 Ed.), as from 1st April 2001, sections 62 to 65 of that Act shall continue in force and to apply to the successor companies mentioned in those sections as if that Act has not been repealed.
+(6) Notwithstanding the repeal of the Public Utilities Act, as from 1st April 2001, sections 62 to 65 of that Act shall continue in force and to apply to the successor companies mentioned in those sections as if that Act has not been repealed.
 
 (7) All acts done by or on behalf of the Director of Sewerage and Drainage before 1st April 2001 under the Sewerage and Drainage Act (Cap. 294) in force before that date shall continue to remain valid and applicable as though done by the Board under that Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Board.
 
@@ -1492,7 +1566,7 @@ FIRST SCHEDULE
 
 Section 5
 
-Constitution and Proceedings of Board
+Constitution and proceedings of Board
 
 Appointment of Chairman and members
 
@@ -1578,9 +1652,7 @@ Salaries and fees payable to members of Board
 
 Quorum
 
-12.—(1) At every meeting of the Board, 3 members shall constitute a quorum and no business shall be transacted unless a quorum is present.
-
-(1) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher; and no business shall be transacted unless a quorum is present.
+12.—(1) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher; and no business shall be transacted unless a quorum is present.
 
 [25/2009 wef 15/01/2010]
 
@@ -1614,7 +1686,7 @@ Section 7(1)
 
 Powers of Board
 
-1. [Deleted by Act 9 of 2012 wef 01/09/2012 wef 01/09/2012 wef 01/09/2012]
+1. [Deleted by Act 9 of 2012 wef 01/09/2012]
 
 2\. To construct in any street or place such works as are necessary for purposes connected with the supply of water and may place therein meters, switches, cocks and any other suitable and proper apparatus for the purpose of leading off service lines or pipes or of examining, testing, measuring, directing or controlling the supply of water or of testing the conditions of the mains and other portions of the works.
 
@@ -1648,15 +1720,11 @@ THIRD SCHEDULE
 
 Section 17
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the financial year of the Board for the year 2006 shall begin on 1st January 2006 and end on 31st March 2007.
-
-Financial year
-
-1.
+1. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the financial year of the Board for the year 2006 shall begin on 1st January 2006 and end on 31st March 2007.
 
 [2/2007 wef 01/03/2007]
 
@@ -1728,7 +1796,7 @@ Public Utilities Act
 
 (CHAPTER 261)
 
-This Legislative History is provided for the convenience of users of the Public Utilities Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Public Utilities Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1766,7 +1834,7 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
-||Dates of commencement|1st March 2007 (Except sections 6, 8 and 11)|
+||Date of commencement|1st March 2007 (Except sections 6, 8 and 11)|
 |9.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
 ||Date of First Reading|14 September 2009|
 |||(Bill No. 19/2009 published on 14 September 2009)|
@@ -1777,6 +1845,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 7/2012 published on 8 March 2012)|
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 September 2012|
+|11.|**Act 9 of 2012—Public Utilities (Amendment) Act 2012**|
+||Date of First Reading|8 March 2012|
+|||(Bill No. 7/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 February 2013|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
