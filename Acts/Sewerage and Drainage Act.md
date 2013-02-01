@@ -176,7 +176,7 @@
 
 - [71 Protection from liability](#Protection-from-liability)
 
-- [72 Fees](#Fees)
+- [72 (Repealed)](#Repealed)
 
 - [73 Exemption](#Exemption)
 
@@ -1613,7 +1613,7 @@ fees, cOSTS and expenses
 
 (b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
-(c) where those expenses were incurred under section 26(6) or 41(1)(b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
+(c) where those expenses were incurred under section 41(1)(b)section 26(6) or 41(1)(b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
 
 [8/2001]
 
@@ -1957,35 +1957,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [8/2001]
 
-### Fees
-
-72\.—(1) The Board may, with the approval of the Minister, prescribe fees and charges for the purposes of this Act including fees for —
-
-(a) the collection and disposal of sewage, waste matter and effluent;
-
-(b) the maintenance and operation of any sewerage system; and
-
-(c) the late payment of fees.
-
-[8/2001]
-
-(2) Unless otherwise provided in this Act, the fees and charges prescribed under subsection (1) in respect of any premises shall be payable by the occupier of the premises and, where the premises are vacant, the owner of the premises.
-
-(3) The calculation of any fees and charges prescribed under subsection (1)(a) and (b) may be based on —
-
-(a) the number of sanitary appliances which are installed in the premises;
-
-(b) the amount of water consumed in the premises; or
-
-(c) any other estimate of the amount of sewage, waste matter and effluent discharged into the sewerage system.
-
-(4) All fees, charges and composition fines collected under this Act shall be paid into the funds of the Board.
-
-[8/2001 wef 01/04/2001]
-
-[73
-
-[8/2001]
+72\. [Repealed by Act 10 of 2012 wef 01/02/2013]
 
 ### Exemption
 
@@ -2080,6 +2052,12 @@ This Legislative History is provided for the convenience of users of the Sewerag
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 September 2012|
 |||(except sections 32, 34, 35 and 36(1))|
+|8.|**Act 10 of 2012—Sewerage and Drainage (Amendment) Act 2012**|
+||Date of First Reading|8 March 2012|
+|||(Bill No. 9/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 February 2013|
+|||(sections 32, 34, 35 and 36(1))|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
