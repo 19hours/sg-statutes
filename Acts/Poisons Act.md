@@ -50,7 +50,7 @@
 
 - [20 Rules](#Rules)
 
-[**THE SCHEDULE Poisons List**](#THE-SCHEDULE)
+[**THE SCHEDULE Poisons list**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -418,7 +418,7 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 Section 2
 
-Poisons List
+Poisons list
 
 In the construction of this List, unless the contrary intention appears —
 
@@ -1168,7 +1168,9 @@ Cisapride
 
 Cisplatin
 
-Citalopram; its salts; its isomers; their salts Citicoline
+Citalopram; its salts; its isomers; their salts
+
+Citicoline
 
 Cladribine
 
@@ -1269,8 +1271,6 @@ Colimycin; its salts; its esters; their salts
 Colistin; its salts
 
 Coniine, its quarternary compound; their salts
-
-Coptis Teeta
 
 Corticorelin; its salts; its esters; their salts
 
@@ -1416,7 +1416,7 @@ Diacetylmorphine; its salts
 
 Diacetylnalorphine; its salts
 
-Diamino-diphenylsu lphones; their salts; their derivatives
+Diamino-diphenylsulphones; their salts; their derivatives
 
 Diamorphine; its salts
 
@@ -1598,7 +1598,9 @@ Drostanolone; its salts
 
 Drotebanol
 
-Drotrecogin alpha Dutasteride
+Drotrecogin alpha
+
+Dutasteride
 
 Dydrogesterone
 
@@ -2174,7 +2176,7 @@ Ipratropium; its salts
 
 Iprindole; its salts
 
-Iproniazid; its salt
+Iproniazid; its salts
 
 Irbesartan
 
@@ -2818,7 +2820,7 @@ Nomifensine; its salts
 
 Noracymethadol; its salts
 
-Noradrenaline; its salt
+Noradrenaline; its salts
 
 Parnaparin; its salts
 
@@ -3942,7 +3944,7 @@ Trimethoprim
 
 3, 4, 5-Trimethoxyamphetamine
 
-Trimetrexate; its salts; its esters; their salts
+Trimetrexate; its salts; its esters and their salts
 
 Trimipramine; its salts
 
@@ -3964,7 +3966,7 @@ Tropisetron; its salts
 
 Trospium; its salts
 
-Trovafloxacin; its salts; its esters; their salts
+Trovafloxacin; its salts; its esters and their salts
 
 Troxidone
 
@@ -3996,7 +3998,9 @@ Vaccines, sera, toxoids, antitoxoids, immunoglobulins and antigens for human adm
 
 Valaciclovir; its salts
 
-Valdecoxib Valganciclovir; its salts
+Valdecoxib
+
+Valganciclovir; its salts
 
 Valproic acid; its salts
 
@@ -4082,6 +4086,8 @@ Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
 
+[S 39/2013 wef 01/02/2013]
+
 [S 190/2004 wef 14/04/2004]
 
 [S 622/2003 wef 01/01/2004]
@@ -4090,7 +4096,13 @@ Zuclopenthixol; its salts; its esters; their salts.
 
 [S 67/2000 wef 01/03/2000]
 
-[G.N. Nos. S 511/97; S 456/98; S 633/98; S 280/99]
+[S 511/97; S 456/98; S 633/98; S 280/99]
+
+[S 239/2001 wef 01/07/2001]
+
+[S 300/2005 wef 01/06/2005]
+
+[S 305/2009 wef 01/07/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -4098,7 +4110,7 @@ Poisons Act
 
 (CHAPTER 234)
 
-This Legislative History is provided for the convenience of users of the Poisons Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Poisons Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -4177,7 +4189,7 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|11 September 1987|
 |25.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
 ||Date of commencement|26 February 1988|
-|26.|**G. N. No. S 88/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
+|26.|**G. N. No. S 82/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
 ||Date of commencement|11 April 1988|
 |27.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
 ||Date of commencement|13 January 1989|
@@ -4279,6 +4291,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|67.|**G. N. No. S 39/2013—Poisons Act (Amendment of Schedule) Notification 2013**|
+||Date of commencement|1 February 2013|
 ## COMPARATIVE TABLE
 
 Poisons Act
@@ -4289,21 +4303,21 @@ The following provisions in the 1989 Revised Edition of the Poisons Act have bee
 
 This Comparative Table is provided for the convenience of users. It is not part of the Poisons Act.
 
-1999 Ed.
+1999 Ed\. 
 
-1989 Ed.
+1989 Ed\. 
 
-7 — (4)
+7 —(4)
 
-Proviso to7 — (3)
+Proviso to7 —(3)
 
 (5)
 
 (4)
 
-10 — (2)
+10 —(2)
 
-Proviso to10 — (1)
+Proviso to10 —(1)
 
 (3)
 
@@ -4321,9 +4335,9 @@ Proviso to10 — (1)
 
 (5)
 
-12 — (2) and (3)
+12 —(2) and (3)
 
-12 — (2)
+12 —(2)
 
 (4)
 
@@ -4333,23 +4347,23 @@ Proviso to10 — (1)
 
 (4)
 
-14 — (3) and (4)
+14 —(3) and (4)
 
-14 — (3)
+14 —(3)
 
-15 — (1) and (2)
+15 —(1) and (2)
 
 15 
 
-19 — (1) and (2)
+19 —(1) and (2)
 
-19 — (1)
+19 —(1)
 
 (3)
 
 (2)
 
-20 — (2) and (3)
+20 —(2) and (3)
 
-20 — (2)
+20 —(2)
 
