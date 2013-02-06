@@ -424,9 +424,9 @@ Assistant Director CID (Support & Services), Criminal Investigation Department
 
 Assistant Director CID (Investigation Support & Services), Criminal Investigation Department.
 
-Head Investigations of the Traffic Investigation Branch
+Head of Investigation and Violation Reports, Traffic Police Department
 
-Head of Investigation and Violation Reports, Traffic Police Department.
+Head Investigation, Traffic Police Department.
 
 Head of Administration, Traffic Police Department
 
@@ -463,6 +463,8 @@ Permanent Secretary, Ministry of Communications and Information.
 Deputy Secretary, Ministry of Information, Communications and the Arts
 
 Deputy Secretary, Ministry of Communications and Information.
+
+[S 78/2013 wef 06/02/2013]
 
 [S 625/2013 wef 01/11/2012]
 
@@ -536,3 +538,7 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|1 January 2011|
 |24.|**G.N. No. S 597/2012—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2012**|
 ||Date of commencement|1 November 2012|
+|25.|**G.N. No. S 625/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 3) Notification 2013**|
+||Date of commencement|1 November 2012|
+|26.|**G.N. No. S 78/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2013**|
+||Date of commencement|6 February 2013|
