@@ -140,7 +140,9 @@ Powers and Duties of Public Trustee
 
 4\.—(1) Subject to and in accordance with this Act and the rules made thereunder, the Public Trustee may —
 
-(a) act in the administration of estates of small value;
+(a) act in the administration of estates;
+
+[Act 27 of 2012 wef 15/02/2013]
 
 (b) act as an ordinary trustee;
 
@@ -150,13 +152,21 @@ Powers and Duties of Public Trustee
 
 (a) undertake such functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign him;
 
-(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity; and
+(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity;
 
 [22/2008 wef 01/03/2010]
 
-(c) undertake such role, functions and duties as set out in the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
+[Act 27 of 2012 wef 15/02/2013]
+
+(c) undertake such role, functions and duties as set out in the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011; and
 
 [15/2011 wef 01/05/2011]
+
+[Act 27 of 2012 wef 15/02/2013]
+
+(d) undertake such functions and duties relating to bona vacantia arising from the death of natural persons as the Minister may assign to him.
+
+[Act 27 of 2012 wef 15/02/2013]
 
 (2) Subject to and in accordance with this Act and the rules made thereunder, the Public Trustee may act either alone or jointly with any person or body of persons in any capacity to which he is appointed in pursuance of this Act, and shall have all the same powers, duties and liabilities, and be entitled to the same rights and immunities and be subject to the control and orders of the court, as a private trustee acting in the same capacity.
 
@@ -532,3 +542,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|21 November 2011 (Bill No. 22/2012 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|23.|**Act 27 of 2012—Civil Law (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 September 2012 (Bill No. 25/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|16 October 2012|
+||Date of commencement|15 February 2013|
