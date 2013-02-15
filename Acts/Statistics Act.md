@@ -80,7 +80,7 @@ An Act relating to statistics.
 
 3\.—(1) The Department of Statistics and all research and statistics units may, in accordance with the provisions of this Act, collect and process data for statistical purposes.
 
-[3/2010 wef 12/02/2010]
+[3/2010]
 
 (2) The Department of Statistics shall be under the control and management of a Chief Statistician and such other officers as the Minister may appoint.
 
@@ -528,7 +528,7 @@ Research and Statistics Unit of the Economic Development Board.
 
 Management Information and Research Branch of the Ministry of Education.
 
-4. [Deleted by S 151/2010 wef 12/03/2010]
+4. [Deleted by S 151/2010]
 
 5. 
 
@@ -548,7 +548,9 @@ Research and Statistics Unit of the Info-communications Development Authority of
 
 9. 
 
-Research and Statistics Unit of the National Environment Agency.
+Research and Statistics Department of the National Environment Agency.
+
+[S 89/2013 wef 15/02/2013]
 
 10. 
 
@@ -558,7 +560,7 @@ Research and Statistics Unit of the Energy Market Authority of Singapore.
 
 Research and Statistics Unit of the Agency for Science, Technology and Research.
 
-[4/99; 3/2010; S 365/98; S 192/99; S 536/2002; S 393/2006; S 451/2007; S 151/2010; S 40/2011;S 474/2011]
+[4/99; 3/2010; S 365/98; S 192/99; S 536/2002; S 393/2006; S 451/2007; S 151/2010; S 40/2011; S 474/2011]
 
 THIRD SCHEDULE
 
@@ -653,6 +655,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|19 August 2011|
 |22.|**2012 Revised Edition—Statistics Act (Chapter 317 )**|
 ||Date of operation|31 July 2012|
+|23.|**G.N. No. S 89/2013—Statistics Act (Amendment of Second Schedule) Order 2013**|
+||Date of commencement|15 February 2013|
 ## COMPARATIVE TABLE
 
 Statistics Act
