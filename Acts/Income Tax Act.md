@@ -4612,9 +4612,13 @@ then the individual may, at any time at or before filing with the Comptroller a 
 
 (b) B — A if A < B,
 
-where A is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
+where A
 
-B is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
+is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
+
+B
+
+is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
 
 “relevant employment income”, in relation to an NOR individual, means —
 
@@ -18192,9 +18196,11 @@ the rate of exchange applicable shall be the rate of exchange prevailing as at t
 
 (3) The Comptroller may require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
 
-(4) In this section, “computer” and “computer output” have the same meanings as in the Computer Misuse Act (Cap. 50A).
+(4) In this section, “computer” and “computer output” have the same meanings as in the Computer Misuse and Cybersecurity Act (Cap. 50A).
 
 [37/2002]
+
+[Act 3 of 2013 wef 13/03/2013]
 
 ### Failure to comply with notices issued by Comptroller
 
@@ -22365,6 +22371,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 28/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|16 November 2012|
 ||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
+|294.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012|
+|||(Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
