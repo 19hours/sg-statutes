@@ -164,11 +164,11 @@
 
 - [56 Liability of any person to pay full duty or penalty unaffected by erroneous assessment](#Liability-of-any-person-to-pay-full-duty-or-penalty-unaffected-by-erroneous-assessment)
 
-[**Part VIII ALLOWANCE FOR SPOILED STAMPS**](#Part-VIII)
+[**Part VIII ALLOWANCE FOR SPOILED STAMPS DUTY PAID OR OVERPAID IN CERTAIN CASES**](#Part-VIII)
 
-- [57 Allowance for spoiled stamps](#Allowance-for-spoiled-stamps)
+- [57 Allowance for duty paid for certain instruments](#Allowance-for-duty-paid-for-certain-instruments)
 
-- [58 Allowance for misused stamps](#Allowance-for-misused-stamps)
+- [58 Allowance for duty paid or overpaid for misused stamp certificates](#Allowance-for-duty-paid-or-overpaid-for-misused-stamp-certificates)
 
 - [59 (Repealed)](#Repealed)
 
@@ -658,7 +658,13 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) must be incorporated for the primary purpose of acquiring and holding shares in other companies; and
 
-(b) must be directly and wholly owned by the acquiring company at the date of the acquisition.
+(b) must be —
+
+(i) where the date of the acquisition is during the period from 1st April 2010 to 16th February 2012 (both dates inclusive), directly and wholly owned by the acquiring company at the date of the acquisition; and
+
+(ii) where the date of the acquisition is during the period from 17th February 2012 to 31st March 2015 (both dates inclusive), wholly owned (whether directly or indirectly) by the acquiring company at the date of the acquisition.
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (2A) No instrument referred to in subsection (1) shall be deemed to be duly stamped unless —
 
@@ -670,17 +676,23 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (3) In this section, a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary is any of the following:
 
-(a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
+(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or such total ownership was 50% or less of the total number of ordinary shares in the target company;
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (b) [Deleted by Act 23/2011 wef 01/04/2010];
 
-(c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
+(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
 
-(i) before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns more than 50% but less than 75% of the total number of ordinary shares in the target company; and
+(i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (ii) the date of the acquisition does not fall within the financial year of the acquiring company in which the acquisition referred to in paragraph (a) occurs;
 
 [23/2011 wef 01/04/2010]
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (d) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (a) or (c), as the case may be, occurs.
 
@@ -692,17 +704,21 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (b) following the end of the financial year referred to in paragraph (a), the acquiring company may elect, in such form and manner and within such time as the Commissioner may specify, to replace the qualifying period referred to in that paragraph with a prescribed period (which must be a period within which the acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs); and
 
-(c) where the acquiring company claims an allowance under section 37L of the Income Tax Act (Cap. 134) in connection with the acquisition referred to in subsection (3)(a) or (c), as the case may be, then, whether or not an election was made under paragraph (b), the qualifying period shall, in place of the period referred to in paragraph (a) or (b) (as the case may be), be the same period as that for which acquisitions are qualifying acquisitions for the purposes of its claim under section 37L of the Income Tax Act.
+(c) where the acquiring company claims a deduction under section 37L of the Income Tax Act (Cap. 134) in connection with the acquisition referred to in subsection (3)(a) or (c), as the case may be, then, whether or not an election was made under paragraph (b), the qualifying period shall, in place of the period referred to in paragraph (a) or (b) (as the case may be), be the same period as that for which acquisitions are qualifying acquisitions for the purposes of its claim under section 37L of the Income Tax Act.
 
 [23/2011 wef 01/04/2010]
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (5) [Deleted by Act 23/2011 wef 01/04/2010]
 
 (6) [Deleted by Act 23/2011 wef 01/04/2010]
 
-(7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
+(7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
 [23/2011 wef 01/04/2010]
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (8) Subject to the rules made under subsection (18), where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to it for each of the following periods shall not exceed $200,000:
 
@@ -980,7 +996,9 @@ the Commissioner shall repay the duty paid by virtue of this section —
 
 (a) any equitable estate or interest in any property; or
 
-(b) any estate or interest in any property except property situated outside Singapore or goods, wares or merchandise, or stock or marketable securities, or any ship or vessel, or part interest, share or property of or in any ship or vessel,
+(b) any estate or interest in any property except property situated outside Singapore, and stock or shares,
+
+[Act 1 of 2013 wef 22/02/2013]
 
 shall be charged with the same ad valorem duty, payable by the purchaser, as if it were an actual conveyance on sale of the estate, interest or property contracted or agreed to be sold.
 
@@ -1070,7 +1088,9 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 22A\.—(1) Subject to the provisions of this Act, every contract or agreement for the sale of any specified immovable property (or any part thereof) which is chargeable with duty pursuant to section 22 (including any instrument chargeable in like manner) shall be charged with additional ad valorem duty (the amounts of which are indicated in the First Schedule), payable by the vendor of the property, in respect of the consideration for that sale as if it were an actual conveyance on sale of immovable property, if the property or part thereof is disposed of under that contract or agreement —
 
-(a) whilst this section is in force; and
+(a) the consideration or value (whichever is applicable) on which the duty is based, shall be reduced by such amount as the Commissioner considers to be attributable to such part of the specified immovable property that is permitted to be used under the Master Plan or the Planning Act (Cap. 232) (as the case may be) for a purpose that is not a prescribed purpose; and
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (b) before the expiration of the period prescribed in the section 22A Order in relation to the specified immovable property (referred to in this section as the specified holding period) from the date on which the vendor acquired that property or any part thereof.
 
@@ -1184,7 +1204,13 @@ and shall be chargeable with the same additional ad valorem duty under subsectio
 
 (b) a reference to specified immovable property is a reference to immovable property —
 
-(i) that is used or to be used for a purpose permitted under the Master Plan and specified in the section 22A Order; and
+(i) that is either —
+
+(A) zoned in the Master Plan in a manner specified in the section 22A Order; or
+
+(B) permitted under the Planning Act for use for a purpose specified in the section 22A Order; and
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (ii) unless the section 22A Order specifies otherwise, that is acquired by the person liable to pay the additional ad valorem duty under the relevant subsection on or after the date of coming into operation of this section as specified in the Order;
 
@@ -1192,11 +1218,29 @@ and shall be chargeable with the same additional ad valorem duty under subsectio
 
 (d) where a person entitled to any property by way of security or to the benefit of a charge or incumbrance on any property deals with the property for the purposes of enforcing or giving effect to the security, charge or incumbrance, his dealings with it shall be treated as if they were done through him as nominee by the person entitled to it subject to the security, charge or incumbrance;
 
-(e) a reference to disposal of any property shall not include a reference to a disposal as a result of bankruptcy, dissolution, receivership or winding-up of the owner of the property, other than a voluntary winding-up; and
+(e) a reference to disposal of any property shall not include a reference to a disposal as a result of bankruptcy, dissolution, receivership or winding-up of the owner of the property, other than a voluntary winding-up;
 
-(f) a reference to a person acquiring any property shall include a reference to a situation where, subsequent to his acquisition of any land, building or part thereof or any interest therein, the land is zoned in the Master Plan for a prescribed purpose or the building or part thereof is permitted under the Planning Act (Cap. 232) to be used for a prescribed purpose, and (unless the section 22A Order specifies otherwise) the time at which the acquisition is made shall be the time when the zoning in the Master Plan is altered in such manner or when the permission under that Act is granted, as the case may be.
+[Act 1 of 2013 wef 22/02/2013]
 
-[6/2010 wef 20/02/2010]
+(f) a reference to a person acquiring any property includes a reference to a situation where —
+
+(i) subsequent to his acquisition of the immovable property, being such vacant land or land with one or more buildings thereon as may be prescribed, the land is zoned in the Master Plan in a prescribed manner, or any building or part thereof on the land is permitted under the Planning Act to be used for a prescribed purpose, whichever is specified in the section 22A Order in respect of that immovable property; or
+
+(ii) subsequent to his acquisition of any part of a building, the part is permitted under the Planning Act to be used for a prescribed purpose,
+
+and (unless the section 22A Order specifies otherwise) the time at which the acquisition is made shall be the time when the zoning in the Master Plan is altered in such manner or when the permission under that Act is granted, as the case may be; and
+
+[Act 1 of 2013 wef 22/02/2013]
+
+(g) a reference to a purpose permitted by the Planning Act is a reference to —
+
+(i) a purpose permitted by a written permission given under section 14(4) of that Act, other than one that is given for a period of 10 years or less;
+
+(ii) a purpose authorised by a notification under section 21(6) of that Act; or
+
+(iii) such other purpose as may be prescribed.
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (14) Notwithstanding anything in this section —
 
@@ -1218,7 +1262,13 @@ shall be chargeable with duty under this Act as if this section is not in force.
 
 (3) The order shall specify —
 
-(a) the immovable property to which section 22A applies by the purpose for which it may be used under the Master Plan;
+(a) the immovable property to which section 22A applies by —
+
+(i) the manner it is zoned under the Master Plan; or
+
+(ii) the purpose for which it is permitted to be used under the Planning Act, as defined under section 22A(13)(g);
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (b) the holding period for the purposes of that section; and
 
@@ -1306,7 +1356,9 @@ Settlement of policy of life insurance
 
 29\.—(1) A security for the payment or repayment of money to be lent, advanced or paid, or which may become due upon an account current either with or without money previously due, shall be charged, where the total amount secured or to be ultimately recoverable is in any way limited, with the same duty as a security for the amount so limited.
 
-(2) Where such total amount is unlimited, the security is to be available for such an amount only as the ad valorem duty impressed thereon extends to cover; but where any advance or loan is made in excess of the amount covered by that duty the security shall for the purpose of stamp duty be deemed to be a new and separate instrument bearing date on the day on which the advance or loan is made.
+(2) Where such total amount is unlimited, the security is to be available for such an amount only as the ad valorem duty impressed thereon or denoted by the stamp certificate attached thereto, as the case may be, extends to cover; but where any advance or loan is made in excess of the amount covered by that duty the security shall for the purpose of stamp duty be deemed to be a new and separate instrument bearing date on the day on which the advance or loan is made.
+
+[Act 1 of 2013 wef 22/02/2013]
 
 ### Certain mortgages of stock to be exempt from duty
 
@@ -1758,7 +1810,9 @@ the Commissioner shall certify by issuing and attaching to the instrument a cert
 
 40\.—(1) Any person who is dissatisfied with the Commissioner’s decision under section 39A(5) on a notice of objection may —
 
-(a) within 21 days after the person is informed of that decision and upon payment of duty in conformity therewith, appeal against the decision to the High Court; and
+(a) within 30 days after the person is informed of that decision and upon payment of duty in conformity therewith, appeal against the decision to the High Court; and
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (b) for that purpose, require the Commissioner to state and sign a case, setting forth the question upon which his opinion was required, and the decision made by him.
 
@@ -1836,7 +1890,7 @@ Promissory notes drawn outside Singapore
 
 48\. The payment of any penalty prescribed under section 46 shall be denoted —
 
-(a) on the instrument concerned by an impressed stamp and certification by the Commissioner;
+(a) [Deleted by Act 1 of 2013 wef 22/02/2013]
 
 (b) by a receipt issued by the Commissioner; or
 
@@ -1942,15 +1996,15 @@ Special provision as to unstamped receipts
 
 ## PART VIII
 
-ALLOWANCE FOR SPOILED STAMPS
+ALLOWANCE FOR SPOILED STAMPS DUTY PAID OR OVERPAID IN CERTAIN CASES
 
-### Allowance for spoiled stamps
+### Allowance for duty paid for certain instruments
 
-57\.—(1) Subject to the conditions specified in subsection (2) and to such rules as may be made by the Minister and to the production of such evidence by statutory declaration or otherwise as the Commissioner may require, allowance is to be made by the Commissioner for stamps spoiled in the following cases:
+57\.—(1) Subject to the conditions specified in subsection (2) and to such rules as may be made by the Minister and to the production of such evidence by statutory declaration or otherwise as the Commissioner may require, allowance is to be made by the Commissioner for the duty paid in the following cases:
 
-(a) the stamp on any paper inadvertently and undesignedly spoiled, obliterated or by any means rendered unfit for the purpose intended, before the paper bears the signature of any person or any instrument written thereon is executed by any party;
+(a) [Deleted by Act 1 of 2013 wef 22/02/2013]
 
-(b) the stamp used for any of the following instruments:
+(b) any of the following instruments:
 
 (i) an instrument executed by any party thereto, but afterwards found to be absolutely void from the beginning;
 
@@ -1964,21 +2018,39 @@ ALLOWANCE FOR SPOILED STAMPS
 
 [33/99]
 
+[Act 1 of 2013 wef 22/02/2013]
+
+[Act 1 of 2013 wef 22/02/2013]
+
 (2) The conditions mentioned in subsection (1) are —
 
-(a) the application for relief is made within 6 months after the date of the stamp or in the case of an executed instrument after the date of the instrument or if it is not dated within 6 months after the execution thereof by the person by whom it was first or alone executed or within such further time as the Commissioner may prescribe in the case of any instrument sent abroad for execution or when from unavoidable circumstances any instrument for which another has been substituted cannot be produced within that period; and
+(a) the application for allowance is made within 6 months after the date of the stamp or in the case of an executed instrument after the date of the instrument or if it is not dated within 6 months after the execution thereof by the person by whom it was first or alone executed or within such further time as the Commissioner may prescribe in the case of any instrument sent abroad for execution or when from unavoidable circumstances any instrument for which another has been substituted cannot be produced within that period; and
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (b) in the case of an executed instrument no legal proceeding has been commenced in which the instrument could or would have been given or offered in evidence, and that the instrument is given up to be cancelled.
 
 [38/75]
 
-(3) In this section and section 58, “stamp” includes a stamp certificate.
+(3) [Deleted by Act 1 of 2013 wef 22/02/2013]
 
-[33/99]
+### Allowance for duty paid or overpaid for misused stamp certificates
 
-### Allowance for misused stamps
+58\.—(1) When any person —
 
-58\.—(1) When any person has inadvertently used for an instrument liable to duty a stamp of greater value than was necessary, or has inadvertently used a stamp for an instrument not liable to any duty, the Commissioner may, on application made within 6 months after the date of the instrument, or, if it is not dated, within 6 months after the execution thereof by the person by whom it was first or alone executed, and upon the instrument, if liable to duty, being stamped with the proper duty, cancel and allow as spoiled the stamp so misused.
+(a) has inadvertently paid duty of a greater value than was necessary; or
+
+(b) has inadvertently paid duty in respect of an instrument not liable to any duty,
+
+and has been issued with a stamp certificate denoting the duty so paid in respect of the instrument, the Commissioner may —
+
+(i) on an application made within 6 months after the date of the instrument; or
+
+(i) if the instrument is not dated, within 6 months after the execution thereof by the person by whom it was first or alone executed,
+
+and upon the instrument, if liable to duty, being stamped with the proper duty, cancel that certificate and make an allowance for the duty overpaid or paid (as the case may be).
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (2) When as a result of unavoidable circumstances an application under subsection (1) cannot be made within the period of 6 months, the Commissioner may, in his discretion, allow the application to be made within such further period as the Commissioner considers reasonable.
 
@@ -2342,17 +2414,25 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 [23/2011 wef 01/01/2012]
 
-(2A) The Minister may, in any particular case, in his discretion and at any time waive in whole or in part any condition imposed under subsection (1).
+(2A) Orders made under subsection (2) in force immediately before 1st January 2012 shall be deemed to be rules made under subsection (2).
+
+[Act 1 of 2013 wef 22/02/2013]
+
+(2B) The Minister may, in any particular case, in his discretion and at any time waive in whole or in part any condition imposed under subsection (1).
 
 [23/2011 wef 01/01/2012]
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced shall be recoverable as a debt due to the Government.
 
 [28/2010 wef 09/12/2010]
 
-(3A) Subsection (3) does not apply to any condition which has been, or to the extent that it has been, waived in the person’s case under subsection (2A).
+(3A) Subsection (3) does not apply to any condition which has been, or to the extent that it has been, waived in the person’s case under subsection (2B).
 
 [23/2011 wef 01/01/2012]
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (4) The amount recoverable under subsection (3) shall be payable at the place stated in a notice served by the Commissioner on the person, within one month after the service of the notice by the Commissioner on that person.
 
@@ -2398,7 +2478,19 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 ### Power to amend Schedules
 
-78\. The Minister may by notification in theGazetteadd to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
+78\.—(1) The Minister may by notification in theGazetteadd to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
+
+[Act 1 of 2013 wef 22/02/2013]
+
+(2) Where a notification adds to, varies or revokes any part of the First or Third Schedule, that notification or any subsequent notification may also make provisions to modify the application of one or more of the following provisions in relation to such addition, variation or revocation:
+
+Sections 16, 18, 21, 22, 24, 31, 32A(4) to (7), 32C and 33.
+
+[Act 1 of 2013 wef 22/02/2013]
+
+(3) All notifications making provisions as described in subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 1 of 2013 wef 22/02/2013]
 
 FIRST SCHEDULE
 
@@ -3856,7 +3948,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 31/2000 published on|
 |||
 |
-|||13 November 2000)|
+|||14 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 July 2000|
 |38.|**2000 Revised Edition—Stamp Duties Act (Chapter 312)**|
@@ -3889,57 +3981,58 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of operation|1 April 2006|
 |43.|**Act 36 of 2008—Stamp Duties (Amendment) Act 2008**|
 ||Date of First Reading|20 October 2008|
+|||(Bill No. 32/2008 published on|
+|||
+|
+|||20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
 |44.|**Act 6 of 2010—Stamp Duties (Amendment) Act 2010**|
 ||Date of First Reading|12 March 2010|
-|||(Bill No. 6/2010)|
-||Date of Second Reading|Date not available.|
-||Date of Third Reading|Date not available.|
+|||(Bill No. 6/2010 published on 12 March 2010)|
+||Date of Second and Third Readings|12 March 2010|
 ||Date of commencement|20 February 2010|
 |45.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010 published on 16 September 2010)|
+|||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|20 February 2010|
 |46.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
-|||(Bill No. 15/2010 published on 18 October 2011)|
+|||(Bill No. 15/2010 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 February 2010|
 |47.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010 published on 16 September 2010)|
+|||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 April 2010|
 |48.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
-|||(Bill No. 15/2011 published on 18 October 2011)|
+|||(Bill No. 15/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2010|
 |49.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
 ||Date of First Reading|26 April 2010|
-|||(Bill No. 9/2010)|
-||Date of Second Reading|Date not available.|
-||Date of Third Reading|Date not available.|
+|||(Bill No. 9/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|18 May 2010|
 ||Date of commencement|15 July 2010|
 |50.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010 published on 16 September 2010)|
+|||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|15 July 2010|
 |51.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
 ||Date of commencement|30 August 2010|
 |52.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010)|
+|||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Reading|18 October 2010|
-||Date of commencement|10 December 2010|
+||Date of commencement|9 December 2010|
 |53.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010)|
-||Date of Second Reading|Date not available.|
-||Date of Third Reading|Date not available.|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |54.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
 ||Date of commencement|14 January 2011|
@@ -3968,6 +4061,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 June 2012|
 |62.|**G.N. No. S 12/2013—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2013**|
 ||Date of commencement|12 January 2013|
+|63.|**Act 1 of 2013—Stamp Duties (Amendment) Act 2013**|
+||Date of First Reading|12 November 2012|
+|||(Bill No. 38/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|22 February 2013|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
