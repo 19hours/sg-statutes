@@ -22377,6 +22377,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
+|295.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|25 February 2013 (Section 29, 50, 53)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
