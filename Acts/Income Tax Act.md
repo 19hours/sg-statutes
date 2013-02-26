@@ -1412,7 +1412,9 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (viii) the Central Depository (Pte) Limited;
 
-(ix) an insurer registered or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being registered or regulated; or
+(ix) an insurer licensed or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being licensed or regulated; or
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (x) a trust company licensed under the Trust Companies Act (Cap. 336);
 
@@ -2511,6 +2513,8 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 (9) In this section, “casino marketing arrangement”, “casino operator” and “international market agent” have the same meanings as in the Casino Control Act (Cap. 33A).
 
 [Act 36 of 2012 wef 31/01/2013]
+
+[This section is amended by section 7 of the Income Tax (Amendment) Act 2014 (Act 37 of 2014) wef 28/02/2013]
 
 ## PART IV
 
@@ -7806,6 +7810,8 @@ where A is the lower of —
 
 (iii) in the case of the basis period for the year of assessment 2013, the amount of such expenditure derived from the formula
 
+ derived from the formula
+
 where A
 
 has the same meaning as in sub‑paragraph (ii); and
@@ -10528,7 +10534,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 “insurer” means —
 
-(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (b) a person (including a partnership) permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme;
 
@@ -13392,11 +13400,11 @@ then the following provisions shall apply:
 
 (ii) an amount computed in accordance with the following formula shall be recoverable by the Comptroller from the qualifying person as a debt due to the Government:
 
-[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
+[22/2011 wef Y/A 2011 & Sub Ys/A]
 
 [29/2010 wef Y/A 2011 & Sub Ys/A]
 
-[22/2011 wef Y/A 2011 & Sub Ys/A]
+[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
 
 (11A) Where —
 
@@ -15550,7 +15558,9 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (2) In this section, “insurer” means —
 
-(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (b) a person (including a partnership), other than an individual, permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme.
 
@@ -22382,6 +22392,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|25 February 2013 (Section 29, 50, 53)|
+|296.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|26 February 2013 (Section 27(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
