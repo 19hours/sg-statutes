@@ -2790,7 +2790,11 @@ Section 2
 
 Serious Offences
 
-Part I — Offences included as serious offences with effect from 13th September 1999
+Part I
+
+—
+
+Offences included as serious offences with effect from 13th September 1999
 
 Offences
 
@@ -2798,757 +2802,1127 @@ Description: The short description of offences in this Schedule is for ease of r
 
 \*Note
 
-1. Section 44 of this Act
+1.
+
+Section 44 of this Act
 
 Assisting another to retain benefits from criminal conduct
 
-2. Section 47 of this Act
+2.
+
+Section 47 of this Act
 
 Concealing or transferring benefits from criminal conduct
 
 Children and Young Persons Act (Cap\. 38) 
 
-3. Section 5(1) (previously section 4(1) and (5)(a) and (b) of the 1994 Revised Edition)
+3.
+
+Section 5(1) (previously section 4(1) and (5)(a) and (b) of the 1994 Revised Edition)
 
 Ill-treatment of child or young person
 
-3A. Section 6(1) (previously section 5(1) of the 1994 Revised Edition)
+3A.
+
+Section 6(1) (previously section 5(1) of the 1994 Revised Edition)
 
 Contribution to delinquency of child or young person
 
 Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65) 
 
-4. Section 3
+4.
+
+Section 3
 
 Possession of corrosive or explosive substance for purpose of causing hurt
 
 Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap\. 124) 
 
-5. Section 3(3)
+5.
+
+Section 3(3)
 
 Hijacking
 
-6. Section 4
+6.
+
+Section 4
 
 Violence against passengers or crew
 
-7. Section 5
+7.
+
+Section 5
 
 Destroying, damaging or endangering safety of aircraft
 
-8. Section 7
+8.
+
+Section 7
 
 Endangering safety at aerodromes
 
 Kidnapping Act (Cap\. 151) 
 
-9. Section 3
+9.
+
+Section 3
 
 Abduction, wrongful restraint or wrongful confinement for ransom
 
-10. Section 4
+10.
+
+Section 4
 
 Knowingly receiving ransom
 
-11. Section 5
+11.
+
+Section 5
 
 Knowingly negotiating to obtain or for payment of ransom
 
 Penal Code (Cap\. 224) 
 
-12. Section 130
+12.
+
+Section 130
 
 Aiding escape of, rescuing, or harbouring such prisoner
 
-13. Section 130B
+13.
+
+Section 130B
 
 Piracy by law of nations
 
-14. Section 130C
+14.
+
+Section 130C
 
 Piratical acts
 
-15. Section 161
+15.
+
+Section 161
 
 Public servant taking a gratification, other than legal remuneration, in respect of an official act
 
-16. Section 162
+16.
+
+Section 162
 
 Taking a gratification in order, by corrupt or illegal means, to influence a public servant
 
-17. Section 164
+17.
+
+Section 164
 
 Punishment for abetment by public servant of the offences above defined
 
-18. Section 165
+18.
+
+Section 165
 
 Public servant obtaining any valuable thing, without consideration, from person concerned in any proceeding or business transacted by such public servant
 
-19. Section 181
+19.
+
+Section 181
 
 False statement on oath to public servant or person authorised to administer an oath
 
-20. Section 193
+20.
+
+Section 193
 
 Punishment for false evidence
 
-21. Section 194
+21.
+
+Section 194
 
 Giving or fabricating false evidence with intent to procure conviction of a capital offence
 
-22. Section 195
+22.
+
+Section 195
 
 Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment
 
-23. Section 196
+23.
+
+Section 196
 
 Using evidence known to be false
 
-24. Section 201
+24.
+
+Section 201
 
 Causing disappearance of evidence of an offence committed, or giving false information touching it, to screen the offender
 
-25. Section 203
+25.
+
+Section 203
 
 Giving false information respecting an offence committed
 
-26. Section 204
+26.
+
+Section 204
 
 Destruction of document to prevent its production as evidence
 
-27. Section 205
+27.
+
+Section 205
 
 False personation for the purpose of any act or proceeding in a suit
 
-28. Section 206
+28.
+
+Section 206
 
 Fraudulent removal or concealment of property to prevent its seizure as a forfeiture or in execution of a decree
 
-29. Section 207
+29.
+
+Section 207
 
 Fraudulent claim to property to prevent its seizure as a forfeiture or in execution of a decree
 
-30. Section 208
+30.
+
+Section 208
 
 Fraudulently suffering a decree for a sum not due
 
-31. Section 212
+31.
+
+Section 212
 
 Harbouring an offender
 
-32. Section 213
+32.
+
+Section 213
 
 Taking gift, etc., to screen an offender from punishment
 
-33. Section 214
+33.
+
+Section 214
 
 Offering gift or restoration of property in consideration of screening offender
 
-34. Section 215
+34.
+
+Section 215
 
 Taking gift to help to recover stolen property, etc.
 
-35. Section 216
+35.
+
+Section 216
 
 Harbouring an offender who has escaped from custody, or whose apprehension has been ordered
 
-36. Section 216A
+36.
+
+Section 216A
 
 Harbouring robbers or gang-robbers, etc.
 
-37. Section 217
+37.
+
+Section 217
 
 Public servant disobeying a direction of law with intent to save person from punishment or property from forfeiture
 
-38. Section 218
+38.
+
+Section 218
 
 Public servant framing an incorrect record or writing with intent to save person from punishment or property from forfeiture
 
-39. Section 221
+39.
+
+Section 221
 
 Intentional omission to apprehend on the part of a public servant bound by law to apprehend
 
-40. Section 222
+40.
+
+Section 222
 
 Intentional omission to apprehend on the part of a public servant bound by law to apprehend person under sentence of court of justice
 
-41. Section 225A
+41.
+
+Section 225A
 
 Public servant omitting to apprehend or suffering other persons to escape in cases not already provided for
 
-42. Section 231
+42.
+
+Section 231
 
 Counterfeiting coin
 
-43. Section 232
+43.
+
+Section 232
 
 Counterfeiting current coin
 
-44. Section 233
+44.
+
+Section 233
 
 Making or selling instrument for counterfeiting coin
 
-45. Section 234
+45.
+
+Section 234
 
 Making or selling instrument for counterfeiting current coin
 
-46. Section 235
+46.
+
+Section 235
 
 Possession of instrument or material for the purpose of using the same for counterfeiting coin
 
-47. Section 236
+47.
+
+Section 236
 
 Abetting in Singapore the counterfeiting out of Singapore of coin
 
-48. Section 237
+48.
+
+Section 237
 
 Import or export of counterfeit coin
 
-49. Section 238
+49.
+
+Section 238
 
 Import or export of counterfeits of current coin
 
-50. Section 239
+50.
+
+Section 239
 
 Delivery to another of coin possessed with knowledge that it is counterfeit
 
-51. Section 240
+51.
+
+Section 240
 
 Delivery of current coin, possessed with the knowledge that it is counterfeit
 
-52. Section 241
+52.
+
+Section 241
 
 Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be counterfeit
 
-53. Section 242
+53.
+
+Section 242
 
 Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof
 
-54. Section 302
+54.
+
+Section 302
 
 Punishment for murder
 
-55. Section 304
+55.
+
+Section 304
 
 Punishment for culpable homicide not amounting to murder
 
-56. Section 307(1)
+56.
+
+Section 307(1)
 
 Attempt to murder
 
-57. Section 307(2)
+57.
+
+Section 307(2)
 
 Other offences by convicts
 
-58. Section 308
+58.
+
+Section 308
 
 Attempt to commit culpable homicide
 
-59. Section 312
+59.
+
+Section 312
 
 Causing miscarriage
 
-60. Section 313
+60.
+
+Section 313
 
 Causing miscarriage without woman’s consent
 
-61. Section 315(1)
+61.
+
+Section 315(1)
 
 Child destruction before, at or immediately after birth
 
-62. Section 316
+62.
+
+Section 316
 
 Causing death of a quick unborn child by an act amounting to culpable homicide
 
-63. Section 324
+63.
+
+Section 324
 
 Voluntarily causing hurt by dangerous weapons or means
 
-64. Section 325
+64.
+
+Section 325
 
 Punishment for voluntarily causing grievous hurt
 
-65. Section 326
+65.
+
+Section 326
 
 Voluntarily causing grievous hurt by dangerous weapons or means
 
-66. Section 327
+66.
+
+Section 327
 
 Voluntarily causing hurt to extort property or to constrain to an illegal act
 
-67. Section 328
+67.
+
+Section 328
 
 Causing hurt by means of poison, etc., with intent to commit an offence
 
-68. Section 329
+68.
+
+Section 329
 
 Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act
 
-69. Section 330
+69.
+
+Section 330
 
 Voluntarily causing hurt to extort confession or to compel restoration of property
 
-70. Section 331
+70.
+
+Section 331
 
 Voluntarily causing grievous hurt to extort confession or to compel restoration of property
 
-71. Section 332
+71.
+
+Section 332
 
 Voluntarily causing hurt to deter public servant from his duty
 
-72. Section 333
+72.
+
+Section 333
 
 Voluntarily causing grievous hurt to deter public servant from his duty
 
-73. Section 335
+73.
+
+Section 335
 
 Causing grievous hurt on provocation
 
-74. Section 338
+74.
+
+Section 338
 
 Causing grievous hurt by an act which endangers life or personal safety of others
 
-75. Section 343
+75.
+
+Section 343
 
 Wrongful confinement for 3 or more days
 
-76. Section 344
+76.
+
+Section 344
 
 Wrongful confinement for 10 or more days
 
-77. Section 345
+77.
+
+Section 345
 
 Wrongful confinement of person for whose liberation a writ has been issued
 
-78. Section 346
+78.
+
+Section 346
 
 Wrongful confinement in secret
 
-79. Section 347
+79.
+
+Section 347
 
 Wrongful confinement for the purpose of extorting property or constraining to an illegal act
 
-80. Section 348
+80.
+
+Section 348
 
 Wrongful confinement for the purpose of extorting confession or of compelling restoration of property
 
-81. Section 354
+81.
+
+Section 354
 
 Assault or use of criminal force to a person with intent to outrage modesty
 
-82. Section 354A
+82.
+
+Section 354A
 
 Outraging modesty in certain circumstances
 
-83. Section 363
+83.
+
+Section 363
 
 Punishment for kidnapping
 
-84. Section 364
+84.
+
+Section 364
 
 Kidnapping or abducting in order to murder
 
-85. Section 365
+85.
+
+Section 365
 
 Kidnapping or abducting with intent to secretly and wrongfully to confine a person
 
-86. Section 366
+86.
+
+Section 366
 
 Kidnapping or abducting a woman to compel her marriage, etc.
 
-87. Section 367
+87.
+
+Section 367
 
 Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.
 
-88. Section 368
+88.
+
+Section 368
 
 Wrongfully concealing or keeping in confinement a kidnapped person
 
-89. Section 369
+89.
+
+Section 369
 
 Kidnapping or abducting child under 10 years with intent to steal moveable property from the person of such child
 
-90. Section 370
+90.
+
+Section 370
 
 Buying or disposing of any person as a slave
 
-91. Section 371
+91.
+
+Section 371
 
 Habitual dealing in slaves
 
-92. Section 372
+92.
+
+Section 372
 
 Selling minor for purposes of prostitution, etc.
 
-93. Section 373
+93.
+
+Section 373
 
 Buying minor for purposes of prostitution, etc.
 
-94. Section 373A
+94.
+
+Section 373A
 
 Importing by fraud, brings, assist in bringing, sells or buys, with intent that any woman be used for purpose of prostitution
 
-95. Section 376(1) and (2)
+95.
+
+Section 376(1) and (2)
 
 Punishment for rape (for offences committed prior to repeal with effect from 1st February 2008)
 
-96. Section 379
+96.
+
+Section 379
 
 Punishment for theft
 
-97. Section 379A
+97.
+
+Section 379A
 
 Punishment for theft of a motor vehicle
 
-98. Section 380
+98.
+
+Section 380
 
 Theft in dwelling house, etc.
 
-99. Section 381
+99.
+
+Section 381
 
 Theft by clerk or servant of property in possession of master
 
-100. Section 382
+100.
+
+Section 382
 
 Theft after preparation made for causing death or hurt in order to commit theft
 
-101. Section 384
+101.
+
+Section 384
 
 Punishment for extortion
 
-102. Section 385
+102.
+
+Section 385
 
 Putting person in fear of injury in order to commit extortion
 
-103. Section 386
+103.
+
+Section 386
 
 Extortion by putting a person in fear of death or grievous hurt
 
-104. Section 387
+104.
+
+Section 387
 
 Putting person in fear of death or of grievous hurt in order to commit extortion
 
-105. Section 388
+105.
+
+Section 388
 
 Extortion by threat of accusation of an offence punishable with death, or imprisonment, etc.
 
-106. Section 389
+106.
+
+Section 389
 
 Putting person in fear of accusation of offence, in order to commit extortion
 
-107. Section 392
+107.
+
+Section 392
 
 Punishment for robbery
 
-108. Section 393
+108.
+
+Section 393
 
 Attempt to commit robbery
 
-109. Section 394
+109.
+
+Section 394
 
 Voluntarily causing hurt in committing robbery
 
-110. Section 395
+110.
+
+Section 395
 
 Punishment for gang-robbery
 
-111. Section 396
+111.
+
+Section 396
 
 Gang-robbery with murder
 
-112. Section 399
+112.
+
+Section 399
 
 Making preparation to commit gang-robbery
 
-113. Section 400
+113.
+
+Section 400
 
 Punishment for belonging to gang-robbers
 
-114. Section 402
+114.
+
+Section 402
 
 Assembling for purpose of committing gang-robbery
 
-115. Section 403
+115.
+
+Section 403
 
 Dishonest misappropriation of property
 
-116. Section 404
+116.
+
+Section 404
 
 Dishonest misappropriation of property possessed by a deceased person at the time of his death
 
-117. Section 406
+117.
+
+Section 406
 
 Punishment of criminal breach of trust
 
-118. Section 407
+118.
+
+Section 407
 
 Criminal breach of trust by carrier, etc.
 
-119. Section 408
+119.
+
+Section 408
 
 Criminal breach of trust by clerk or servant
 
-120. Section 409
+120.
+
+Section 409
 
 Criminal breach of trust by public servant, or by banker, merchant or agent
 
-121. Section 411
+121.
+
+Section 411
 
 Dishonestly receiving stolen property
 
-122. Section 412
+122.
+
+Section 412
 
 Dishonestly receiving property stolen in the commission of a gang-robbery
 
-123. Section 413
+123.
+
+Section 413
 
 Habitually dealing in stolen property
 
-124. Section 414
+124.
+
+Section 414
 
 Assisting in concealment of stolen property
 
-125. Section 418
+125.
+
+Section 418
 
 Cheating with knowledge that wrongful loss may be thereby caused to a person whose interest the offender is bound to protect
 
-126. Section 419
+126.
+
+Section 419
 
 Punishment for cheating by personation
 
-127. Section 420
+127.
+
+Section 420
 
 Cheating and dishonestly inducing a delivery of property
 
-128. Section 421
+128.
+
+Section 421
 
 Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors
 
-129. Section 422
+129.
+
+Section 422
 
 Dishonestly or fraudulently preventing a debt or demand due to the offender from being made available for his creditors
 
-130. Section 423
+130.
+
+Section 423
 
 Dishonest or fraudulent execution of deed of transfer containing a false statement of consideration
 
-131. Section 424
+131.
+
+Section 424
 
 Dishonest or fraudulent removal or concealment of property or release of claim
 
-132. Section 430A
+132.
+
+Section 430A
 
 Mischief affecting railway engine, train, etc.
 
-133. Section 431
+133.
+
+Section 431
 
 Mischief by injury to public road, bridge or river
 
-134. Section 431A
+134.
+
+Section 431A
 
 Mischief by injury to telegraph cable, wire, etc.
 
-135. Section 432
+135.
+
+Section 432
 
 Mischief by causing inundation or obstruction to public drainage, attended with damage
 
-136. Section 433
+136.
+
+Section 433
 
 Mischief by destroying or moving or rendering less useful a lighthouse or sea-mark
 
-137. Section 435
+137.
+
+Section 435
 
 Mischief by fire or explosive substance with intent to cause damage to amount of $50
 
-138. Section 436
+138.
+
+Section 436
 
 Mischief by fire or explosive substance with intent to destroy a house, etc.
 
-139. Section 438
+139.
+
+Section 438
 
 Punishment for the mischief described in section 437 when committed by fire or any explosive substance
 
-140. Section 439
+140.
+
+Section 439
 
 Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.
 
-141. Section 440
+141.
+
+Section 440
 
 Mischief committed after preparation made for causing death or hurt
 
-142. Section 449
+142.
+
+Section 449
 
 House-trespass in order to commit an offence punishable with death
 
-143. Section 450
+143.
+
+Section 450
 
 House-trespass in order to commit an offence punishable with imprisonment for life
 
-144. Section 451
+144.
+
+Section 451
 
 House-trespass in order to commit an offence punishable with imprisonment
 
-145. Section 452
+145.
+
+Section 452
 
 House-trespass after preparation made for causing hurt, etc.
 
-146. Section 453
+146.
+
+Section 453
 
 Punishment for lurking house-trespass or house-breaking
 
-147. Section 454
+147.
+
+Section 454
 
 Lurking house-trespass or house-breaking in order to commit an offence punishable with imprisonment
 
-148. Section 455
+148.
+
+Section 455
 
 Lurking house-trespass or house-breaking after preparation made for causing hurt, etc.
 
-149. Section 456
+149.
+
+Section 456
 
 Punishment for lurking house-trespass by night or house-breaking by night
 
-150. Section 457
+150.
+
+Section 457
 
 Lurking house-trespass by night or house-breaking by night in order to commit an offence punishable with imprisonment
 
-151. Section 458
+151.
+
+Section 458
 
 Lurking house-trespass or house-breaking by night after preparation made for causing hurt, etc.
 
-152. Section 459
+152.
+
+Section 459
 
 Grievous hurt caused while committing lurking house-trespass or house-breaking
 
-153. Section 460
+153.
+
+Section 460
 
 Lurking house-trespass by night or house-breaking by night when death or grievous hurt is caused
 
-154. Section 465
+154.
+
+Section 465
 
 Punishment for forgery
 
-155. Section 466
+155.
+
+Section 466
 
 Forgery of record of a court of justice, or a public register of births, etc.
 
-156. Section 467
+156.
+
+Section 467
 
 Forgery of a valuable security or will
 
-157. Section 468
+157.
+
+Section 468
 
 Forgery for the purpose of cheating
 
-158. Section 469
+158.
+
+Section 469
 
 Forgery for the purpose of harming the reputation of any person
 
-159. Section 471
+159.
+
+Section 471
 
 Using as genuine a forged document
 
-160. Section 472
+160.
+
+Section 472
 
 Making or possessing a counterfeit seal, plate, etc., with intent to commit a forgery punishable under section 467
 
-161. Section 473
+161.
+
+Section 473
 
 Making or possessing a counterfeit seal, plate, etc., with intent to commit a forgery punishable otherwise
 
-162. Section 474
+162.
+
+Section 474
 
 Having possession of a valuable security or will known to be forged, with intent to use it as genuine
 
-163. Section 475
+163.
+
+Section 475
 
 Counterfeiting a device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material
 
-164. Section 476
+164.
+
+Section 476
 
 Counterfeiting a device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material
 
-165. Section 489A
+165.
+
+Section 489A
 
 Forging or counterfeiting currency notes or bank notes
 
-166. Section 489B
+166.
+
+Section 489B
 
 Using as genuine forged or counterfeit currency notes or bank notes
 
-167. Section 489C
+167.
+
+Section 489C
 
 Possession of forged or counterfeit currency notes or bank notes
 
 Prevention of Corruption Act (Cap\. 241) 
 
-168. Section 5
+168.
+
+Section 5
 
 Punishment for corrupt transactions where no agents involved
 
-169. Section 6
+169.
+
+Section 6
 
 Punishment for corrupt transactions involving agents or use of false documents to mislead principal
 
-170. Section 10
+170.
+
+Section 10
 
 Bribery in relation to Government contracts
 
-171. Section 11
+171.
+
+Section 11
 
 Bribery of Member of Parliament
 
-172. Section 12
+172.
+
+Section 12
 
 Bribery of member of public body
 
-173. Section 29
+173.
+
+Section 29
 
 Abetment of offences
 
-174. Section 30
+174.
+
+Section 30
 
 Attempts
 
-175. Section 31
+175.
+
+Section 31
 
 Conspiracy
 
 Termination of Pregnancy Act (Cap\. 324) 
 
-176. Section 3(4)
+176.
+
+Section 3(4)
 
 Medical termination of pregnancy
 
-177. Section 5
+177.
+
+Section 5
 
 Coercion or intimidation
 
 Vandalism Act (Cap\. 341) 
 
-178. Section 3
+178.
+
+Section 3
 
 Penalty for acts of vandalism
 
 Women’s Charter (Cap\. 353) 
 
-179. Section 140
+179.
+
+Section 140
 
 Offences relating to prostitution
 
-180. Section 141
+180.
+
+Section 141
 
 Trafficking in women and girls
 
-181. Section 142
+181.
+
+Section 142
 
 Importation of woman or girl by false pretences
 
-182. Section 145
+182.
+
+Section 145
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-Part II — Offences included as serious offences with effect from 9th September 2005
+Part II
+
+—
+
+Offences included as serious offences with effect from 9th September 2005
 
 Offences
 
@@ -3558,11 +3932,13 @@ Offences
 
 Moneylenders Act 2008 
 
-183. Section 14
+183.
+
+Section 14
 
 Unlicensed moneylending
 
-184. Section 28
+184.
 
 Harassing borrower, besetting his residence, etc.
 
@@ -3570,7 +3946,16 @@ Harassing borrower, besetting his residence, etc.
 
 [597/2009 wef 01/11/2007]
 
-Part III — Offences included as serious offences with effect from 8th May 2006
+Part III
+
+—
+
+Offences included as serious offences with effect from
+
+
+
+
+8th May 2006
 
 Offences
 
@@ -3580,179 +3965,259 @@ Description: The short description of offences in this Schedule is for ease of r
 
 Animals and Birds Act (Cap\. 7) 
 
-185. Section 7
+185.
+
+Section 7
 
 Contravention of order with regard to importation, etc.
 
-186. Section 8
+186.
+
+Section 8
 
 Importation or transhipment of any animal, bird or veterinary biologics without licence
 
-187. Section 9
+187.
+
+Section 9
 
 Importation or possession of noxious insects, pests or genetically modified organisms, etc.
 
-188. Section 11
+188.
+
+Section 11
 
 Failure to report arrival of animal or bird, etc.
 
-189. Section 13
+189.
+
+Section 13
 
 Failure to confine animal or bird on board ship, etc.
 
-190. Section 16
+190.
+
+Section 16
 
 Exportation of any animal or bird without licence
 
 Arms and Explosives Act (Cap\. 13) 
 
-191. Section 6
+191.
+
+Section 6
 
 Possession or transfer of possession of unmarked plastic explosives
 
-192. Section 7
+192.
+
+Section 7
 
 Importation or exportation of unmarked plastic explosives
 
-193. Section 9
+193.
+
+Section 9
 
 Exportation or removal of article in contravention of notification by Minister
 
-194. Section 10(2)
+194.
+
+Section 10(2)
 
 Manufacture, possession or import of explosive in contravention of notification by Minister
 
-195. Section 11
+195.
+
+Section 11
 
 Contravention of notification relating to poisonous or noxious gas or noxious substance
 
-196. Section 12
+196.
+
+Section 12
 
 Offence by master of ship, etc., used for certain offences
 
-197. Section 22
+197.
+
+Section 22
 
 Knowingly concealing arms, etc., imported without licence
 
-198. Section 23
+198.
+
+Section 23
 
 Knowingly purchasing guns or arms from person not licensed
 
 Arms Offences Act (Cap\. 14) 
 
-199. Section 6
+199.
+
+Section 6
 
 Trafficking in arms
 
 Betting Act (Cap\. 21) 
 
-200. Section 3
+200.
+
+Section 3
 
 Offences relating to common betting-houses and betting information centres
 
-201. Section 4
+201.
+
+Section 4
 
 Advancing money for conducting business of common betting-house
 
-202. Section 5
+202.
+
+Section 5
 
 Betting in common betting-house
 
 Chemical Weapons (Prohibition) Act (Cap\. 37B) 
 
-203. Section 8
+203.
+
+Section 8
 
 Use, etc., of chemical weapons
 
 Children and Young Persons Act (Cap\. 38) 
 
-204. Section 7
+204.
+
+Section 7
 
 Sexual exploitation of child or young person
 
-205. Section 12
+205.
+
+Section 12
 
 Unlawful transfer of possession, custody or control of children
 
-206. Section 13
+206.
+
+Section 13
 
 Importation of children by false pretences
 
 Commodity Trading Act (Cap\. 48A) 
 
-207. Section 49 for contravention of any of the following:
+207.
 
-(a) section 45
+Section 49 for contravention of any of the following:
+
+(a)
+
+section 45
 
 Dissemination of information about false trading
 
-(b) section 46
+(b)
+
+section 46
 
 Manipulation of price and cornering
 
-(c) section 47
+(c)
+
+section 47
 
 Employment of fraudulent or deceptive devices, etc.
 
-(d) section 48
+(d)
+
+section 48
 
 Fraudulently inducing trading
 
 Common Gaming Houses Act (Cap\. 49) 
 
-208. Section 5
+208.
+
+Section 5
 
 Assisting in carrying on a public lottery, etc.
 
-209. Section 8
+209.
+
+Section 8
 
 Gaming in public
 
-Computer Misuse Act (Cap\. 50A) 
+Computer Misuse and Cybersecurity Act (Cap\. 50A) 
 
-210. Section 3
+210.
+
+Section 3
 
 Unauthorised access to computer material
 
-211. Section 4
+211.
+
+Section 4
 
 Access with intent to commit or facilitate commission of offence
 
-212. Section 5
+212.
+
+Section 5
 
 Unauthorised modification of computer material
 
-213. Section 6
+213.
+
+Section 6
 
 Unauthorised use or interception of computer service
 
-214. Section 7
+214.
+
+Section 7
 
 Unauthorised obstruction of use of computer
 
-215. Section 8
+215.
+
+Section 8
 
 Unauthorised disclosure of access code
 
-216. Section 10
+216.
+
+Section 10
 
 Abetments and attempts punishable as offences
 
 Control of Plants Act (Cap\. 57A) 
 
-217. Section 7
+217.
+
+Section 7
 
 Importation or transhipment of fresh fruits or vegetables without licence
 
-218. Section 8
+218.
+
+Section 8
 
 Importation or transhipment of fresh fruits or vegetables without permit
 
-219. Any order made under section 28
+219.
+
+Any order made under section 28
 
 Export of plants contrary to order by Minister
 
-220. Section 34 for contravention of section 41
+220.
+
+Section 34 for contravention of section 41
 
 Failure to give access to documents, etc.
 
@@ -3760,213 +4225,309 @@ Control of Plants Act (Cap\. 57A)
 
 Control of Plants (Plant Importation) Rules (R 4) 
 
-221. Rule 17 for contravention of rule 5(1)
+221.
+
+Rule 17 for contravention of rule 5(1)
 
 Importation of regulated plant, etc., without a permit.
 
 Copyright Act (Cap\. 63) 
 
-222. Section 136(1), (2), (3), (4) and (6)
+222.
+
+Section 136(1), (2), (3), (4) and (6)
 
 Offences relating to copyright
 
-223. Section 260(6)
+223.
+
+Section 260(6)
 
 Removal or alteration of rights management information
 
-224. Section 261C(4) and (5)
+224.
+
+Section 261C(4) and (5)
 
 Relating to circumvention of technological protection measures
 
 Criminal Law (Temporary Provisions) Act (Cap\. 67) 
 
-225. Section 3
+225.
+
+Section 3
 
 Supplies
 
 Endangered Species (Import and Export) Act 2006 (Act 5 of 2006) 
 
-226. Section 4
+226.
+
+Section 4
 
 Importation, exportation, etc., of scheduled species without permit
 
-227. Section 5
+227.
+
+Section 5
 
 Scheduled species in transit unaccompanied by CITES permit, etc.
 
-228. Section 19 in relation to section 4 or 5
+228.
+
+Section 19 in relation to section 4 or 5
 
 Abetment of an offence under section 4 or 5
 
 Environmental Protection and Management Act (Cap\. 94A) 
 
-229. Section 22
+229.
+
+Section 22
 
 Importation or sale of hazardous substances without licence, etc.
 
-230. Section 23
+230.
+
+Section 23
 
 Importation or sale of hazardous substances not in accordance with licence, etc.
 
-231. Section 24
+231.
+
+Section 24
 
 Storage, use or dealing with hazardous substances in a manner that threatens health, etc.
 
 Explosive Substances Act (Cap\. 100) 
 
-232. Section 3
+232.
+
+Section 3
 
 Causing explosion likely to endanger life or property
 
-233. Section 4
+233.
+
+Section 4
 
 Attempt to cause explosion, or for making or keeping explosives with intent to endanger life or property
 
-234. Section 5
+234.
+
+Section 5
 
 Making or possessing explosives under suspicious circumstances
 
 Feeding Stuffs Act (Cap\. 105) 
 
-235. Section 4(5)
+235.
+
+Section 4(5)
 
 Importation, manufacture, etc., of animal feeds without licence
 
 Hazardous Waste (Control of Export, Import and Transit) Act (Cap\. 122A) 
 
-236. Section 25
+236.
+
+Section 25
 
 Importation of hazardous waste without permit, etc.
 
-237. Section 26
+237.
+
+Section 26
 
 Exportation of hazardous waste without permit, etc.
 
-238. Section 27
+238.
+
+Section 27
 
 Bringing waste into Singapore in course of carrying out transit proposal without permit, etc.
 
-239. Section 37
+239.
+
+Section 37
 
 Making false statements
 
 Human Organ Transplant Act (Cap\. 131A) 
 
-240. Section 14
+240.
+
+Section 14
 
 Contracting for sale or supply of organ or blood, etc.
 
 Immigration Act (Cap\. 133) 
 
-241. Section 5(5)
+241.
+
+Section 5(5)
 
 Entering or leaving Singapore other than at authorised entry or departure points
 
-242. Section 57(1)(aa), (b) and (c)
+242.
+
+Section 57(1)(aa), (b) and (c)
 
 Abetting unlawful entry or departure, or engaging in business of conveying prohibited immigrant
 
 Internal Security Act (Cap\. 143) 
 
-243. Section 4
+243.
+
+Section 4
 
 Wearing of prohibited uniform, etc.
 
-244. Section 5
+244.
+
+Section 6 Section 5
 
 Membership of quasi-military organisations
 
-245. Section 6
+245.
 
 Illegal drilling
 
 Monetary Authority of Singapore Act (Cap\. 186) 
 
-246.Deleted by S 28/2010, wef 22/01/2010
+246.
 
-247.Deleted by S 28/2010, wef 22/01/2010
+[
 
-248. Section 27A(5) for contravention of any of the following regulations of the Monetary Authority of Singapore (Anti-Terrorism Measures) Regulations 2002 (G.N. No. S 515/2002):
+Deleted byS 28/2010, wef22/01/2010]
 
-(a) regulation 5
+247.
+
+[Deleted byS 28/2010, wef22/01/2010]
+
+248.
+
+Section 27A(5) for contravention of any of the following regulations of the Monetary Authority of Singapore (Anti-Terrorism Measures) Regulations 2002 (G.N. No. S 515/2002):
+
+(a)
+
+regulation 5
 
 Provision or collection of funds for terrorists
 
-(b) regulation 6
+(b)
+
+regulation 6
 
 Dealing with property of terrorists
 
-(c) regulation 7
+(c)
+
+regulation 7
 
 Provision of resources and services for the benefit of terrorists
 
-(d) regulation 8
+(d)
+
+regulation 8
 
 Doing anything that causes, assists or promotes an act contrary to regulation 5, 6 or 7
 
 Penal Code (Cap\. 224) 
 
-249. Section 143
+249.
+
+Section 143
 
 Membership of unlawful assembly
 
-250. Section 144
+250.
+
+Section 144
 
 Joining an unlawful assembly armed with any deadly weapon
 
-251. Section 145
+251.
+
+Section 145
 
 Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse
 
-252. Section 146
+252.
+
+Section 146
 
 Force used by one member in prosecution of common object
 
-253. Section 147
+253.
+
+Section 147
 
 Rioting
 
-254. Section 148
+254.
+
+Section 148
 
 Rioting, armed with a deadly weapon
 
-255. Section 149
+255.
+
+Section 149
 
 Every member of an unlawful assembly to be deemed guilty of any offence committed in prosecution of common object
 
-256. Section 150
+256.
+
+Section 150
 
 Hiring, or conniving at hiring, of persons to join an unlawful assembly
 
-257. Section 151
+257.
+
+Section 151
 
 Knowingly joining or continuing in an assembly of 5 or more persons after it has been commanded to disperse
 
-258. Section 151A
+258.
+
+Section 151A
 
 Posting placards, etc.
 
-259. Section 152
+259.
+
+Section 152
 
 Assaulting or obstructing public servant when suppressing riot, etc.
 
-260. Section 397
+260.
+
+Section 397
 
 Robbery when armed or with attempt to cause death or grievous hurt
 
-261. Section 401
+261.
+
+Section 401
 
 Belonging to wandering gang of thieves
 
-262. Section 417
+262.
+
+Section 417
 
 Cheating
 
-263. Section 477
+263.
+
+Section 477
 
 Fraudulent cancellation, destruction, etc., of a will
 
-264. Section 477A
+264.
+
+Section 477A
 
 Falsification of accounts
 
@@ -3974,143 +4535,211 @@ Sale of Food Act (Cap\. 283)
 
 Food Regulations (Rg 1) 
 
-265.Deleted by S 28/2010, wef 22/01/2010
+265.
 
-266. Regulation 14
+[Deleted byS 28/2010, wef22/01/2010]
+
+266.
+
+Regulation 14
 
 Imported food to be registered
 
 Securities and Futures Act (Cap\. 289) 
 
-267. Section 204 for contravention of any of the following:
+267.
 
-(a) section 197
+Section 204 for contravention of any of the following:
+
+(a)
+
+section 197
 
 False trading and market rigging transactions
 
-(b) section 198
+(b)
+
+section 198
 
 Securities market manipulation
 
-(c) section 199
+(c)
+
+section 199
 
 False or misleading statements
 
-(d) section 200
+(d)
+
+section 200
 
 Fraudulently inducing persons to deal in securities
 
-(e) section 201
+(e)
+
+section 201
 
 Employment of manipulative and deceptive devices
 
-(f) section 202
+(f)
+
+section 202
 
 Dissemination of information about illegal transactions
 
-(g) section 203
+(g)
+
+section 203
 
 Failure to make disclosure to securities exchange
 
-268. Section 212 for contravention of any of the following:
+268.
 
-(a) section 206
+Section 212 for contravention of any of the following:
+
+(a)
+
+section 206
 
 False trading
 
-(b) section 207
+(b)
+
+section 207
 
 Bucketing
 
-(c) section 208
+(c)
+
+section 208
 
 Manipulation of price of futures contract and cornering
 
-(d) section 209
+(d)
+
+section 209
 
 Fraudulently inducing persons to trade in futures contracts
 
-(e) section 210
+(e)
+
+section 210
 
 Employment of fraudulent or deceptive devices, etc.
 
-(f) section 211
+(f)
+
+section 211
 
 Dissemination of information about illegal transactions
 
-269. Section 221 for contravention of section 218 or 219
+269.
+
+Section 221 for contravention of section 218 or 219
 
 Insider trading
 
 Strategic Goods (Control) Act (Cap\. 300) 
 
-270. Section 5
+270.
+
+Section 5
 
 Transfer of strategic goods, etc.
 
-271. Section 6
+271.
+
+Section 6
 
 Brokering of strategic goods, etc.
 
 Societies Act (Cap\. 311) 
 
-272. Section 14(2) and (3)
+272.
+
+Section 14(2) and (3)
 
 Management or membership of unlawful society, etc.
 
-273. Section 15
+273.
+
+Section 15
 
 Allowing unlawful assembly in premises
 
-274. Section 16
+274.
+
+Section 16
 
 Inciting, etc., a person to become a member of unlawful society
 
-275. Section 17
+275.
+
+Section 17
 
 Procuring subscription or aid for unlawful society
 
-276. Section 18
+276.
+
+Section 18
 
 Publishing, etc., propaganda of unlawful society
 
-277. Section 23(2)
+277.
+
+Section 23(2)
 
 Possession of books, etc., of triad society
 
 Terrorism (Suppression of Financing) Act (Cap\. 325) 
 
-278. Section 3
+278.
+
+Section 3
 
 Providing or collecting property for terrorist acts
 
-279. Section 4
+279.
+
+Section 4
 
 Provision of property and services for terrorist purposes
 
-280. Section 5
+280.
+
+Section 5
 
 Use or possession of property for terrorist purposes
 
-281. Section 6
+281.
+
+Section 6
 
 Dealing with property of terrorists
 
 Trade Marks Act (Cap\. 332) 
 
-282. Section 46
+282.
+
+Section 46
 
 Counterfeiting a trade mark
 
-283. Section 47
+283.
+
+Section 47
 
 Falsely applying a registered trade mark to goods and services
 
-284. Section 48
+284.
+
+Section 48
 
 Making or possessing of article for committing offence
 
-285. Section 49
+285.
+
+Section 49
 
 Importing or selling, etc., goods with falsely applied trade mark
 
@@ -4118,75 +4747,111 @@ United Nations Act (Cap\. 339)
 
 United Nations (Anti-Terrorism Measures) Regulations (Rg 1) 
 
-286. Regulation 11 for contravention of any of the following:
+286.
 
-(a) regulation 5
+Regulation 11 for contravention of any of the following:
+
+(a)
+
+regulation 5
 
 Provision or collection of funds for terrorists
 
-(b) regulation 6
+(b)
+
+regulation 6
 
 Dealing with property of terrorists
 
-(c) regulation 7
+(c)
+
+regulation 7
 
 Provision of resources and services for the benefit of terrorists
 
-(d) regulation 7A
+(d)
+
+regulation 7A
 
 Sale, supply, etc., of arms and related materials to terrorists
 
-(e) regulation 7B
+(e)
+
+regulation 7B
 
 Carriage of arms and related materials by Singapore ships and aircraft for terrorists
 
-(f) regulation 7C
+(f)
+
+regulation 7C
 
 Provision of technical advice, assistance, etc., related to military activities of terrorists
 
-(g) regulation 8
+(g)
+
+regulation 8
 
 False threat of terrorist act
 
-(h) regulation 9
+(h)
+
+regulation 9
 
 Causing, assisting or promoting an act prohibited by regulation 5, 6, 7, 7A, 7B, 7C or 8
 
 Wholesome Meat and Fish Act (Cap\. 349A) 
 
-287. Section 5
+287.
+
+Section 5
 
 Importation, exportation or transhipment of meat products or fish products without licence, etc.
 
-288. Section 6
+288.
+
+Section 6
 
 Importation, exportation or transhipment of meat products or fish products without permit, etc.
 
 Wild Animals and Birds Act (Cap\. 351) 
 
-289. Section 10
+289.
+
+Section 10
 
 Importation of wild animals and birds without authorisation, etc.
 
 Women’s Charter (Cap\. 353) 
 
-290. Section 146
+290.
+
+Section 146
 
 Persons living on or trading in prostitution
 
-291. Section 147
+291.
+
+Section 147
 
 Keeping or management of places of assignation
 
-292. Section 148
+292.
+
+Section 148
 
 Keeping or management of brothels
+
+[Act 3 of 2013 wef 13/03/2013]
 
 [S 28/2010; S 254/2006]
 
 [26/2007 wef 01/01/2008]
 
-Part IV — Offences included as serious offences with effect from 27th September 2007, being transnational offences involving organised criminal groups
+Part IV
+
+—
+
+Offences included as serious offences with effect from 27th September 2007, being transnational offences involving organised criminal groups
 
 293.
 
@@ -4202,7 +4867,11 @@ The expressions “serious crime”, “organised criminal group” and “trans
 
 [S 488/2007 wef 27/09/2007]
 
-Part V — Offences included as serious offences with effect from 1st November 2007
+Part V
+
+—
+
+Offences included as serious offences with effect from 1st November 2007
 
 Offences
 
@@ -4212,179 +4881,264 @@ Description: The short description of offences in this Schedule is for ease of r
 
 Biological Agents and Toxins Act (Cap\. 24A) 
 
-295. Section 5
+295.
+
+Section 5
 
 Use of biological agents for non-peaceful purpose, etc.
 
-296. Section 30
+296.
+
+Section 30
 
 Use of toxins for non-peaceful purpose, etc.
 
 Commodity Trading Act (Cap\. 48A) 
 
-297. Section 49 for contravention of any of the following :
+297.
 
-(a) section 43
+Section 49 for contravention of any of the following:
+
+(a)
+
+section 43
 
 False trading
 
-(b) Section 44
+(b)
+
+Section 44
 
 Bucketing
 
 Common Gaming Houses Act (Cap\. 49) 
 
-298. Section 4
+298.
+
+Section 4
 
 Offences relating to a common gaming house, etc.
 
-299. Section 6
+299.
+
+Section 6
 
 Advancing or furnishing money for establishing or conducting common gaming house
 
 Customs Act (Cap\. 70) 
 
-300. Section 128E (previously section 130(1)(e) of the 2004 Revised Edition)
+300.
+
+Section 128E (previously section 130(1)(e) of the 2004 Revised Edition)
 
 Offences in relation to goods found in person’s baggage or upon his person, etc.
 
-301. Section 128F (previously section 130(1)(a) of the 2004 Revised Edition)
+301.
+
+Section 128F (previously section 130(1)(a) of the 2004 Revised Edition)
 
 Offences in relation to importation of uncustomed or prohibited goods
 
-302. Section 128G (previously section 130(1)(a) of the 2004 Revised Edition)
+302.
+
+Section 128G (previously section 130(1)(a) of the 2004 Revised Edition)
 
 Offences in relation to exportation of uncustomed or prohibited goods
 
-303. Section 128H (previously section 130(1)(a) of the 2004 Revised Edition)
+303.
+
+Section 128H (previously section 130(1)(a) of the 2004 Revised Edition)
 
 Offences in relation to shipping, unshipping, loading, unloading, etc., of uncustomed or prohibited goods
 
-303A. Section 128I(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
+303A.
+
+Section 128I(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
 
 Offences in relation to possession, storage, conveying and harbouring of goods
 
-304. Section 132
+304.
+
+Section 132
 
 Knowingly advancing or furnishing money for business comprising sale, purchase, etc., of uncustomed goods
 
 Immigration Act (Cap\. 133) 
 
-305. Section 6(3) for contravention of subsection (1)
+305.
+
+Section 6(3) for contravention of subsection (1)
 
 Entry or attempted entry into Singapore without a valid pass
 
-306. Section 57(1)(k)
+306.
+
+Section 57(1)(k)
 
 Making a false statement to obtain or attempting to obtain an entry permit, re-entry permit, pass or certificate for himself or for other person
 
-307. Section 57(1)(l)
+307.
+
+Section 57(1)(l)
 
 Using or without lawful authority having possession of any forged, unlawfully altered or irregular entry or re-entry permit, pass or certificate, etc.
 
 Maritime Offences Act (Cap\. 170B) 
 
-308. Section 3
+308.
+
+Section 3
 
 Hijacking of ships
 
-309. Section 4
+309.
+
+Section 4
 
 Destroying or damaging ships, etc.
 
-310. Section 5
+310.
+
+Section 5
 
 Other acts endangering or likely to endanger safe navigation
 
-311. Section 6
+311.
+
+Section 6
 
 Offences involving threats
 
-312. Section 7(1)
+312.
+
+Section 7(1)
 
 Act of violence done in connection with an offence under section 3, 4 or 5
 
-313. Section 7(3)
+313.
+
+Section 7(3)
 
 Abetment of certain offences
 
 Multi-Level Marketing and Pyramid Selling (Prohibition) Act (Cap\. 190) 
 
-314. Section 3
+314.
+
+Section 3
 
 Promotion of or participation in a pyramid selling scheme, or arrangement or holding out the same
 
-315. Section 4
+315.
+
+Section 4
 
 Registration of business designed to promote a pyramid selling scheme or arrangement
 
-316. Section 5
+316.
+
+Section 5
 
 Registration of company which proposes to promote a pyramid selling scheme or arrangement
 
 Radiation Protection Act 2007 (Act 27 of 2007) 
 
-317. Section 5
+317.
+
+Section 5
 
 Import, export, etc., of radioactive materials
 
-318. Section 6
+318.
+
+Section 6
 
 Import, export, etc., of irradiating apparatus
 
-319. Section 11
+319.
+
+Section 11
 
 Disposal of radioactive waste
 
-320. Section 12
+320.
+
+Section 12
 
 Accumulation of radioactive waste
 
-321. Section 31
+321.
+
+Section 31
 
 False or misleading statements and documents
 
 Railways Act (Cap\. 263) 
 
-322. Section 87
+322.
+
+Section 87
 
 Wilful act or omission endangering passenger
 
 Rapid Transit Systems Act (Cap\. 263A) 
 
-323. Section 25
+323.
+
+Section 25
 
 Wilfully endangering safety of railway passenger
 
-324. Section 26
+324.
+
+Section 26
 
 Damage to railway or railway premises
 
 Securities and Futures Act (Cap\. 289) 
 
-325. Section 140
+325.
+
+Section 140
 
 Offences relating to take-over offers
 
 Terrorism (Suppression of Financing) Act (Cap\. 325) 
 
-326. Section 8
+326.
+
+Section 8
 
 Failure to disclose information on property belonging to terrorist or transaction relating to such property, etc.
 
-327. Section 9
+327.
+
+Section 9
 
 Failure to comply with order requiring continuing audit on whether in possession of property belonging to terrorist, etc.
 
-328. Section 10
+328.
+
+Section 10
 
 Failure to disclose information about acts of terrorism financing
 
-329. Section 14
+329.
+
+Section 14
 
 Contravention of order for restraint of property
 
-Part VI — Offences included as serious offences with effect from 1st February 2008
+Part VI
+
+—
+
+Offences included as serious offences with effect from
+
+
+
+
+1st February 2008
 
 Offences
 
@@ -4392,113 +5146,167 @@ Description: The short description of offences in this Schedule is for ease of r
 
 \*Note
 
-Passports Act (Act 33 of 2007) 
+Passports Act ( Act 33 of 2007 ) 
 
-330. Section 36
+330.
+
+Section 36
 
 Falsifying Singapore passports, etc.
 
-331. Section 38
+331.
+
+Section 38
 
 Bringing, taking or sending false Singapore passports, etc., across international borders
 
-332. Section 39
+332.
+
+Section 39
 
 Making or giving false or misleading statements or information
 
-333. Section 40
+333.
+
+Section 40
 
 Furnishing false or misleading documents
 
-334. Section 41
+334.
+
+Section 41
 
 Improper use or possession of Singapore passports, etc.
 
-335. Section 42
+335.
+
+Section 42
 
 Selling Singapore passports, etc.
 
-336. Section 44
+336.
+
+Section 44
 
 Dishonestly obtaining Singapore passport, etc.
 
-337. Section 47
+337.
+
+Section 47
 
 Offences relating to false foreign travel documents
 
 Penal Code (Cap\. 224) 
 
-338. Section 130E
+338.
+
+Section 130E
 
 Genocide
 
-339. Section 204A
+339.
+
+Section 204A
 
 Obstructing, preventing, perverting or defeating course of justice
 
-340. Section 204B
+340.
+
+Section 204B
 
 Bribery of witnesses
 
-341. Section 241A
+341.
+
+Section 241A
 
 Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit
 
-342. Section 254A
+342.
+
+Section 254A
 
 Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered
 
-343. Section 363A
+343.
+
+Section 363A
 
 Abduction
 
-344. Section 364A
+344.
+
+Section 364A
 
 Kidnapping or abducting in order to compel the Government, etc.
 
-345. Section 375
+345.
+
+Section 375
 
 Rape
 
-346. Section 376
+346.
+
+Section 376
 
 Sexual assault by penetration
 
-347. Section 376A
+347.
+
+Section 376A
 
 Sexual penetration of minor under 16
 
-348. Section 376B
+348.
+
+Section 376B
 
 Commercial sex with minor under 18
 
-349. Section 376C
+349.
+
+Section 376C
 
 Commercial sex with minor under 18 outside Singapore
 
-350. Section 376D
+350.
+
+Section 376D
 
 Tour outside Singapore for commercial sex with minor under 18
 
-351. Section 376E
+351.
+
+Section 376E
 
 Sexual grooming of minor under 16
 
-352. Section 376F
+352.
+
+Section 376F
 
 Procurement of sexual activity with person with mental disability
 
-353. Section 473A
+353.
+
+Section 473A
 
 Making or possessing equipment for making a false instrument
 
-354. Section 473B
+354.
+
+Section 473B
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
 [S 33/2008 wef 01/02/2008]
 
-Part VII — Offences included as serious offences with effect from 20th February 2008
+Part VII
+
+—
+
+Offences included as serious offences with effect from 20th February 2008
 
 Offences
 
@@ -4508,17 +5316,30 @@ Description: The short description of offences in this Schedule is for ease of r
 
 Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007) 
 
-355. Section 3
+355.
+
+Section 3
 
 Terrorist bombing
 
-356. Section 4
+356.
+
+Section 4
 
 Failure to disclose information about acts of terrorist bombing
 
 [S 83/2008 wef 20/02/2008]
 
-Part VIII — Offences included as serious offences with effect from 1st May 2009
+Part VIII
+
+—
+
+Offences included as serious offences with effect from
+
+
+
+
+1st May 2009
 
 Offences
 
@@ -4528,25 +5349,37 @@ Description: The short description of offences in this Schedule is for ease of r
 
 Casino Control Act (Cap\. 33A) 
 
-357. Section 171
+357.
+
+Section 171
 
 Possession of certain things prohibited
 
-358. Section 172
+358.
+
+Section 172
 
 Unlawful interference with gaming equipment
 
-359. Section 173
+359.
+
+Section 173
 
 Possession of chips outside designated site
 
-360. Section 174
+360.
+
+Section 174
 
 Forgery
 
 [S 187/2009 wef 01/05/2009]
 
-Part IX — Offences included as serious offences with effect from 22nd January 2010
+Part IX
+
+—
+
+Offences included as serious offences with effect from 22nd January 2010
 
 Offences
 
@@ -4556,35 +5389,49 @@ Description: The short description of offences in this Schedule is for ease of r
 
 Health Products Act (Cap\. 122D) 
 
-361. Section 16
+361.
+
+Section 16
 
 Prohibition against supply of health products that are adulterated, counterfeits, etc.
 
 Human Organ Transplant Act (Cap\. 131A) 
 
-362. Section 14(2A)
+362.
+
+Section 14(2A)
 
 Organ trading by middlemen or syndicates
 
 Medicines Act (Cap\. 176) 
 
-363. Section 35 for contravention of section 31
+363.
+
+Section 35 for contravention of section 31
 
 Sale of adulterated medicinal products
 
-364. Section 35 for contravention of section 32
+364.
+
+Section 35 for contravention of section 32
 
 Sale of medicinal products not of nature or quality demanded by purchaser
 
 Radiation Protection Act (Cap\. 262) 
 
-365. Section 14
+365.
+
+Section 14
 
 Transport of radioactive waste.
 
 [S 28/2010 wef 22/01/2010]
 
-Part X — Offences included as serious offences with effect from 21st November 2010
+Part X
+
+—
+
+Offences included as serious offences with effect from 21st November 2010
 
 Offences
 
@@ -4592,9 +5439,11 @@ Description: The short description of offences in this Schedule is for ease of r
 
 \*Note
 
-Hostage-Taking Act 2010 (Act 19 of 2010 )
+Hostage-Taking Act 2010 ( Act 19 of 2010 ) 
 
-366. Section 3
+366.
+
+Section 3
 
 Hostage-taking
 
@@ -4608,23 +5457,31 @@ Description: The short description of offences in this Schedule is for ease of r
 
 Employment of Foreign Manpower Act (Cap\. 91A) 
 
-367. Section 5(1) and (3)
+367.
+
+Section 5(1) and (3)
 
 Employment of foreign employee without a valid work pass, or in contravention of a condition of his work pass
 
-368. Section 22(1)(a), (d), (e) and (f)
+368.
+
+Section 22(1)(a), (d), (e) and (f)
 
 Contravention of a condition of a work pass, making false statement or giving false information to the Controller of Work Passes or an employment inspector, dealing in, forging or unlawfully altering a work pass, or using or having in possession a forged or unlawfully altered work pass or a work pass issued to another
 
-Hostage-Taking Act 2010 (Act 19 of 2010) 
+Hostage-Taking Act 2010 ( Act 19 of 2010 ) 
 
-369. Section 5
+369.
+
+Section 5
 
 Failure to disclose information relating to hostage-taking offence
 
 Immigration Act (Cap\. 133) 
 
-370. Section 57(1)(d)
+370.
+
+Section 57(1)(d)
 
 Harbouring offenders of Immigration Act or Regulations
 
@@ -4772,6 +5629,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|32.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012|
+|||(Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
