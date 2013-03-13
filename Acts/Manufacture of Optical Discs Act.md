@@ -122,7 +122,7 @@ PRELIMINARY
 
 “manufacture” means the processes and activities involved in the making of optical discs, including (where applicable) mastering or replicating or both;
 
-“manufacturer’s code” means the manufacturer’s code assigned to a licensee under section 7(3) (a);
+“manufacturer’s code” means the manufacturer’s code assigned to a licensee under section 7(3)(a);
 
 “optical disc” means any medium or article specified in the Schedule;
 
@@ -354,7 +354,9 @@ to provide him with such reasonable technical and other assistance as he may req
 
 (3) Any person who contravenes a requirement made under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) In this section, “computer” has the same meaning as in section 2(1) of the Computer Misuse Act (Cap. 50A).
+(4) In this section, “computer” has the same meaning as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A).
+
+[Act 3 of 2013 wef 13/03/2013]
 
 ### Forfeiture of optical discs, etc.
 
@@ -530,7 +532,7 @@ Master discs.
 
 5. 
 
-Stampers
+Stampers.
 
 ## LEGISLATIVE HISTORY
 
@@ -549,3 +551,9 @@ This Legislative History is provided for the convenience of users of the Manufac
 ||Date of commencement|30 July 2004|
 |2.|**2005 Revised Edition—Manufacture of Optical Discs Act**|
 ||Date of operation|31 July 2005|
+|3.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012|
+|||(Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
