@@ -136,7 +136,9 @@ PRELIMINARY
 
 “bring in transit” means to bring goods from any country into Singapore by land, water or air, where the goods are to be taken out from Singapore on the same conveyance on which they are brought into Singapore without any landing in Singapore, but does not include the passage through Singapore in accordance with international law of a foreign conveyance carrying goods;
 
-“computer” has the same meaning as in section 2(1) of the Computer Misuse Act (Cap. 50A);
+“computer” has the same meaning as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A);
+
+[Act 3 of 2013 wef 13/03/2013]
 
 “conveyance” includes any vessel, train, vehicle, aircraft or other mode of transport;
 
@@ -204,9 +206,11 @@ PRELIMINARY
 
 so that it becomes accessible (whether on a request, or subject to a pre-condition, or otherwise) to a person in a foreign country, whether he is a specific person, a person within a specific class, any person in general or the person who carries out the transmission;
 
-“use”, in relation to any goods, means the operation, installation, maintenance, inspection, repair, overhaul or refurbishing of the goods.
-
 [6/2003]
+
+[45/2007 wef 01/01/2008]
+
+“use”, in relation to any goods, means the operation, installation, maintenance, inspection, repair, overhaul or refurbishing of the goods.
 
 [45/2007 wef 01/01/2008]
 
@@ -302,11 +306,11 @@ if —
 
 (a) the installation, operation, maintenance or repair of any goods which have been exported, transhipped or brought in transit, where a permit has been obtained or is not required for such export, transhipment or bringing in transit;
 
+[45/2007 wef 01/01/2008]
+
 (b) an application for a patent; or
 
 (c) any research in the technology the results of which have no practical application.
-
-[45/2007 wef 01/01/2008]
 
 (5) Subsection (2)(a) does not apply to the bringing in transit of any goods with the approval of a senior authorised officer.
 
@@ -347,8 +351,6 @@ if he knows or has reason to believe that such a contract will or is likely to r
 (ii) which he knows are intended to be used, wholly or in part, for or in connection with a relevant activity; or
 
 (iii) which he has reasonable grounds to suspect are intended or likely to be used, wholly or in part, for or in connection with a relevant activity.
-
-[45/2007 wef 01/01/2008]
 
 (3) Subsection (1) applies to ––
 
@@ -394,11 +396,11 @@ that is authorised by a permit.
 
 (a) the installation, operation, maintenance or repair in any foreign country of any goods which are not strategic goods;
 
+[45/2007 wef 01/01/2008]
+
 (b) an application for a patent; or
 
 (c) any research in the technology or part, the results of which have no practical application.
-
-[45/2007 wef 01/01/2008]
 
 (8) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable —
 
@@ -810,7 +812,7 @@ from all or any of the provisions of this Act, subject to such terms or conditio
 
 ## THE SCHEDULE
 
-[Deleted by Act 45/2007, wef 01/01/2008.]
+[Repealed by Act 45/2007 wef 01/01/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -818,7 +820,7 @@ Strategic Goods (Control) Act
 
 (CHAPTER 300)
 
-This Legislative History is provided for the convenience of users of the Strategic Goods (Control) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Strategic Goods (Control) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -846,6 +848,11 @@ This Legislative History is provided for the convenience of users of the Strateg
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
 ## COMPARATIVE TABLE
 
 Strategic Goods (Control) Act
@@ -854,7 +861,7 @@ Strategic Goods (Control) Act
 
 The following provisions in the Strategic Goods (Control) Act 2002 (Act 40 of 2002) have been renumbered by the Law Revision Commissioners in this 2003 Revised Edition.
 
-This Comparative Table is provided for the convenience of users. It is not part of the Control) Act.
+This Comparative Table is provided for the convenience of users. It is not part of the Act.
 
 2003 Ed\. 
 
@@ -862,8 +869,7 @@ Act 40 of 2002
 
 7 —(1)
 
-7 —(1)
-(Deleted and substituted by Act 6/2003)
+7 —(1) (Deleted and substituted by Act 6/2003)
 
 —
 
