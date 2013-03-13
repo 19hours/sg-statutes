@@ -1412,9 +1412,7 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (viii) the Central Depository (Pte) Limited;
 
-(ix) an insurer licensed or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being licensed or regulated; or
-
-[Act 11 of 2013 wef 18/04/2013]
+(ix) an insurer registered or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being registered or regulated; or
 
 (x) a trust company licensed under the Trust Companies Act (Cap. 336);
 
@@ -7810,8 +7808,6 @@ where A is the lower of —
 
 (iii) in the case of the basis period for the year of assessment 2013, the amount of such expenditure derived from the formula
 
- derived from the formula
-
 where A
 
 has the same meaning as in sub‑paragraph (ii); and
@@ -10534,9 +10530,7 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 “insurer” means —
 
-(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
-
-[Act 11 of 2013 wef 18/04/2013]
+(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
 
 (b) a person (including a partnership) permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme;
 
@@ -15558,9 +15552,7 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (2) In this section, “insurer” means —
 
-(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
-
-[Act 11 of 2013 wef 18/04/2013]
+(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
 
 (b) a person (including a partnership), other than an individual, permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme.
 
@@ -22207,6 +22199,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|23 February 2010 (Section 28)|
+||Date of commencement|23 February 2010|
 |259.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
@@ -22397,6 +22390,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|26 February 2013 (Section 27(b))|
+|297.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012|
+|||(Bill No. 39/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
 ## COMPARATIVE TABLE
 
 Income Tax Act
