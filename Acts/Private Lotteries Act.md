@@ -390,9 +390,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) In this section —
 
-“computer” has the same meaning as in the Computer Misuse Act (Cap. 50A);
+“computer” has the same meaning as in the Computer Misuse and Cybersecurity Act (Cap. 50A);
 
-“computer output” has the same meaning as in the Computer Misuse Act.
+[Act 3 of 2013 wef 13/03/2013]
+
+“computer output” has the same meaning as in the Computer Misuse and Cybersecurity Act.
+
+[Act 3 of 2013 wef 13/03/2013]
 
 ### Power of Commissioner to assess duty due
 
@@ -813,6 +817,11 @@ The Private Lotteries Act 2011 repealed and re-enacted with amendments the Priva
 
 |2.|**2012 Revised Edition—Private Lotteries Act (Chapter 250)**|
 ||Date of operation|31 March 2012|
+|3.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
 ## COMPARATIVE TABLE
 
 Private Lotteries Act
