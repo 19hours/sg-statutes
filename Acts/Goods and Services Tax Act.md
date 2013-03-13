@@ -302,9 +302,13 @@ PRELIMINARY
 
 “Comptroller” means the Comptroller of Goods and Services Tax appointed under section 4 and includes for all purposes of this Act, except the exercise of the powers conferred upon the Comptroller by section 5(2), a Deputy Comptroller or an Assistant Comptroller;
 
-“computer” has the same meaning as in the Computer Misuse Act (Cap. 50A);
+“computer” has the same meaning as in the Computer Misuse and Cybersecurity Act (Cap. 50A);
 
-“computer output” has the same meaning as in the Computer Misuse Act;
+[Act 3 of 2013 wef 13/03/2013]
+
+“computer output” has the same meaning as in the Computer Misuse and Cybersecurity Act (Cap. 50A);
+
+[Act 3 of 2013 wef 13/03/2013]
 
 “customs duty” means customs duty imposed on goods imported into Singapore under the Customs Act (Cap. 70);
 
@@ -460,7 +464,7 @@ shall be guilty of an offence.
 
 (7) Notwithstanding anything in this section, the Comptroller may publish the names and such other particulars of the persons and places specified in the Sixth Schedule, in such form or manner, as he thinks fit.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 ## PART III
 
@@ -490,9 +494,9 @@ IMPOSITION AND EXTENT OF TAX
 
 [UK VAT Act 1983, s. 2]
 
-[33/2000]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 19 of 2010 wef 01/10/2012]
+[33/2000]
 
 ### Registration
 
@@ -676,9 +680,7 @@ then the supply shall be treated as taking place at the end of 12 months after t
 
 (5) Subject to subsections (3) and (7), where —
 
-(a) a person making a supply of goods or services also makes a supply of financial services referred to in paragraph 1 of Part I of the Fourth Scheduleto the recipient of the goods or services in respect of the supply of the goods or services; and
-
-[Act 19 of 2012 wef 01/10/2012]
+(a) a person making a supply of goods or services also makes a supply of financial services referred to in paragraph 1 of Part I of the Fourth Schedule to the recipient of the goods or services in respect of the supply of the goods or services; and
 
 (b) the financial services provide for payment by instalments,
 
@@ -687,6 +689,8 @@ then the supply of the goods or services shall be treated as wholly taking place
 (i) the invoice in respect of the first instalment is issued or the first instalment is paid; or
 
 (ii) where both events occur, the first of the 2 events occurs.
+
+[Act 19/2012 wef 01/10/2012]
 
 [20/2010 wef 01/01/2011]
 
@@ -790,13 +794,15 @@ other than any supply to which regulations made under subsection (8) of that rep
 
 ### Reverse charge on supplies received from abroad
 
-14\.—(1) Subject to subsection (2), where any supply of prescribed services, not being services within any of the descriptions specified in the Fourth Schedule, are —
+14\.—(1) Subject to subsection (2), where any supply of prescribed services, not being services within any of the descriptions specified in Part I of the Fourth Schedule, are —
 
 (a) supplied by a person who belongs in a country other than Singapore; and
 
 (b) received by a person (referred to in this section as the recipient) who belongs in Singapore for the purposes of any business carried on by him,
 
 then all the same consequences shall follow under this Act (and particularly so much as charges tax on a supply and entitles a taxable person to credit for input tax) as if the recipient had himself supplied the services in Singapore in the course or furtherance of his business, and that supply were a taxable supply.
+
+[Act 19/2012 wef 01/10/2012]
 
 (2) Supplies which are treated as made by the recipient under subsection (1) are not to be taken into account as supplies made by him when determining the allowance of input tax in his case under section 20(1).
 
@@ -1050,6 +1056,8 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 
 (ii) is a supply that directly follows the refinement of goods (as defined in section 37B(2)) into such metals;
 
+[Act 19/2012 wef 01/10/2012]
+
 (b) supplies outside Singapore which would be taxable supplies if made in Singapore;
 
 (c) such other supplies outside Singapore as the Minister may by regulations specify for the purposes of this subsection;
@@ -1057,8 +1065,6 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 (d) supplies which section 37 or regulations made under section 37A provide are to be disregarded for the purposes of this Act and which would otherwise be taxable supplies.
 
 [26/99; 19/2003]
-
-[Act 19 of 2012 wef 01/10/2012]
 
 (3) Regulations may provide for treating some or all supplies of goods or services by any person as taxable supplies —
 
@@ -1092,9 +1098,9 @@ RELIEFS
 
 21\.—(1) Subject to this section and sections 21A, 21B and 21C, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
 
-[28/2007 wef 01/07/2007]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 19 of 2012 wef 01/01/2012]
+[28/2007 wef 01/07/2007]
 
 (2) Where a taxable person supplies goods or services and the supply is zero-rated, then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1146,7 +1152,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (ii) the supply of which involves the removal of the goods from a place outside Singapore to another place outside Singapore;
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (i) services of any of the following descriptions which are performed wholly outside Singapore:
 
@@ -1254,7 +1260,7 @@ if, at the time the prescribed services are performed, the prescribed goods are 
 
 [24/2011 wef 01/01/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (4) For the purposes of subsections (3), (6), (6A) and (6B) —
 
@@ -1316,9 +1322,9 @@ being services performed substantially in Singapore.
 
 (4A) For the purposes of subsection (3)(j), (k), (s) and (y), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
 
-[50/2004]
+[Act 19/2012 wef 01/01/2012]
 
-[Act 19 of 2012 wef 01/01/2012]
+[50/2004]
 
 (4B) The services referred to in subsection (3)(e), (f), (g) and (j) shall not include any services comprising either of or both —
 
@@ -1384,7 +1390,7 @@ and, in any of those cases, if such other conditions or restrictions, if any, as
 
 [24/2011 wef 01/01/2012]
 
-(7B) [Deleted by Act 19 of 2012 wef 01/10/2012]
+(7B) [Deleted by Act 19/2012 wef 01/10/2012]
 
 (8) Where the supply of any goods has been zero-rated under subsection (6) or (6A) or regulations made under subsection (7) and —
 
@@ -1446,7 +1452,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (4) The Comptroller may, for the protection of revenue, impose conditions or restrictions in relation to any supply referred to in subsection (1).
 
-(5) [Deleted by Act 19 of 2012 wef 01/10/2012]
+(5) [Deleted by Act 19/2012 wef 01/10/2012]
 
 ### Zero-rating of grant or assignment of lease, tenancy or licence to occupy land
 
@@ -1480,11 +1486,11 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 22\.—(1) A supply of goods or services is an exempt supply if it is of a description or of a class for the time being specified in Part I of the Fourth Schedule.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (1A) An importation of goods is an exempt import if it is of a description or of a class for the time being specified in Part II of the Fourth Schedule.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (2) The Minister may by order vary the description of —
 
@@ -1492,19 +1498,19 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (b) investment precious metals in paragraph 1 of Part II, and paragraph 2 of Part III, of the Fourth Schedule by adding to or deleting from the Fourth Schedule or by varying any description or class of investment precious metals for the time being specified in the Fourth Schedule.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (3) The Fourth Schedule may be varied so as to describe a supply of financial services by reference to other matters unrelated to the characteristics of the services.
 
 [UK VAT Act 1983, s. 17]
-
-[Act 19 of 2012 wef 01/10/2012]
 
 ### Relief on supply of certain goods under Margin Scheme
 
 23\.—(1) The Minister may by regulations make provision for securing a reduction of the tax chargeable on the supply of goods of such descriptions as may be specified in the regulations in cases where no tax was chargeable on a previous supply of the goods and such other conditions are satisfied as may be specified in the regulations or as may be imposed by the Comptroller.
 
 (2) Tax chargeable on the supply of goods referred to in subsection (1) shall (unless otherwise provided in regulations made under this section) be reduced to the tax charged as if the supply of such goods was for a consideration equal to the
+
+excess of A−B,
 
 where A is the consideration for which the goods are supplied; and
 
@@ -1608,17 +1614,15 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (b) in relation to any goods in respect of which tax is chargeable on the importation thereof or would be so chargeable if the importation were not an exempt import, as it applies to goods in respect of which customs duty or excise duty is chargeable.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
-(2) Without prejudice to the generality of subsection (1), the Director‑General of Customs may, by virtue of that subsection, exercise any power conferred on him by any written law relating to customs or excise duties (including the power to issue permits and impose conditions on the import, export, transhipment and removal of goods) as if —
+(2) Without prejudice to the generality of subsection (1), the Director-General of Customs may, by virtue of that subsection, exercise any power conferred on him by any written law relating to customs or excise duties (including the power to issue permits and impose conditions on the import, export, transhipment and removal of goods) as if —
 
 (a) the reference in that written law to customs duty or excise duty includes a reference to tax chargeable on the importation of goods; and
 
 (b) the reference in that written law to goods in respect of which customs duty or excise duty is chargeable includes a reference to goods in respect of which tax is chargeable on the importation thereof or would be so chargeable if the importation were not an exempt import.
 
-[4/2003]
-
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (3) In this section, “any written law relating to customs or excise duties” means —
 
@@ -1664,11 +1668,7 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [50/2004]
 
-(4) [Deleted by Act 19 of 2012 wef 01/10/2012]
-
-[UK VAT Act 1983, s. 25]
-
-[50/2004]
+(4) [Deleted by Act 19/2012 wef 01/10/2012]
 
 ### Deferment of payment of tax on importation of goods
 
@@ -1692,7 +1692,7 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [20/2010 wef 01/10/2010]
 
-(4) [Deleted by Act 19 of 2012 wef 01/10/2012]
+(4) [Deleted by Act 19/2012 wef 01/10/2012]
 
 ## PART VI
 
@@ -2088,13 +2088,13 @@ unless otherwise prescribed.
 
 (ii) brought to that place for the purpose of the repair of, maintenance of or performance of any other similar service on the goods, or for the purpose of an auction, an exhibition or any other similar event involving the display of goods;
 
-[Act 19 of 2012 wef 01/10/2012]
-
 (b) one or more supplies of the goods are made whilst they are in that place; and
 
 (c) the goods supplied are then removed directly from that place so as to be removed from customs control,
 
 those supplies shall not be disregarded for the purpose of this Act and shall be chargeable to tax in accordance with the provisions of this Act (other than this section).
+
+[Act 19/2012 wef 01/10/2012]
 
 [20/2010 wef 01/01/2011]
 
@@ -2166,8 +2166,6 @@ and, where any taxable person (including a taxable person referred to in subsect
 
 [24/2011 wef 01/01/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
-
 (b) for a taxable person approved by the Comptroller who receives the goods from another approved person to declare, in such form and manner as the Comptroller may require, his receipt of those goods;
 
 [24/2011 wef 01/01/2012]
@@ -2179,6 +2177,8 @@ and, where any taxable person (including a taxable person referred to in subsect
 (ii) in relation to such of those goods which are of such type or description as may be prescribed, destroys or disposes of the goods or delivers them to another person for the destruction or disposal, in circumstances where consideration for the goods is received by the taxable person or the overseas person upon the destruction or disposal,
 
 for the taxable person to account for and pay tax in substitution for the overseas person, as if the taxable person had himself supplied the goods in the course or furtherance of his business.
+
+[Act 19/2012 wef 01/01/2012]
 
 [24/2011 wef 01/01/2012]
 
@@ -2202,7 +2202,7 @@ as the case may be.
 
 [24/2011 wef 01/01/2012]
 
-(3) [Deleted by Act 19 of 2012 wef 01/10/2012]
+(3) [Deleted by Act 19/2012 wef 01/10/2012]
 
 ### Refining of goods into investment precious metals
 
@@ -2246,9 +2246,9 @@ for the approved person to account for tax in substitution for the overseas pers
 
 and “refiner” shall be construed accordingly.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 21 of 2013 wef 01/10/2012]
+[Act 21/2013 wef 01/10/2012]
 
 ### Customers to account for tax on certain supplies
 
@@ -2462,15 +2462,17 @@ ACCOUNTING AND ASSESSMENTS
 
 (b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied;
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (c) provide for the circumstances in which a document by a taxable person purporting to be a tax invoice in respect of a supply of goods or services to him by another taxable person, is to be treated as a tax invoice required under paragraph (b) to be provided by the taxable person supplying the goods or services; and
 
+[Act 19/2012 wef 01/10/2012]
+
 [20/2010 wef 01/01/2011]
 
-[Act 19 of 2012 wef 01/10/2012]
-
 (d) require any taxable person making any exempt supply to another person to provide that other person, within such time as may be prescribed or such time as the Comptroller may allow, with an invoice containing such particulars as may be so specified, including but not limited to particulars of the supply and the persons by and to whom the supply is made.
+
+[Act 19/2012 wef 01/10/2012]
 
 (2) Regulations made under this section may, where they require a tax invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
 
@@ -2537,8 +2539,6 @@ as the case may be, shall be zero if the amount is less than $5 or such other am
 [20/2010 wef 01/10/2010]
 
 [UK VAT Act 1983, Sch. 7 Para. 2]
-
-[Act 19 of 2012 wef 01/10/2012]
 
 ### Electronic service
 
@@ -3974,9 +3974,9 @@ GENERAL PROVISIONS
 
 (c) relief or remission from the whole or part of any penalty payable by that person or class of persons.
 
-[50/2004]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
+[50/2004]
 
 (2) The Minister may, if he thinks fit, and upon such conditions as he may impose, give to any person or class of persons —
 
@@ -3990,9 +3990,9 @@ GENERAL PROVISIONS
 
 (c) relief or remission from the whole or part of any penalty payable by that person or class of persons.
 
-[50/2004]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
+[50/2004]
 
 (2A) Where —
 
@@ -4002,19 +4002,19 @@ GENERAL PROVISIONS
 
 an amount equal to the amount of tax to which the relief, remission or refund relates shall be recoverable as a debt due to the Government.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (2B) The amount recoverable under subsection (2A) shall be payable at the place stated in a notice served by the Comptroller on the person within one month after the service of the notice.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (2C) The Comptroller may, in his discretion and subject to such terms and conditions (including interest) as he may impose, extend the time limit within which payment is to be made.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (2D) Sections 60(1), 78 and 87 shall apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (2A) and any interest imposed under subsection (2C) as they apply to the collection and recovery of tax.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (3) The Minister may, if he thinks fit, and upon such conditions as he may impose, exempt any taxable person or class of taxable persons from collecting and accounting for tax on any taxable supply of goods or services.
 
@@ -4220,7 +4220,7 @@ Voluntary registration
 
 (B) investment precious metals referred to in paragraph 1A of Part I of the Fourth Schedule, where the supplies of the investment precious metals are supplies referred to in section 21(6), (6A) or (7); or
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (b) is carrying on a business and intends to make such supplies in the course or furtherance of that business,
 
@@ -4362,13 +4362,13 @@ Transfer or disposal of business assets
 
 5.—(1) Subject to sub-paragraph (2), where goods forming part of the assets of a business are transferred or disposed of by or under the directions of the person carrying on the business so as no longer to form part of those assets, whether or not for a consideration, that is a supply by him of the goods.
 
-(2) Sub-paragraph (1) does not apply where the transfer or disposal is —
+(2) Sub-paragraph 1 does not apply where the transfer or disposal is —
 
 (a) a gift of goods made in the course or furtherance of the business where the cost to the donor is not more than $200;
 
 (b) a gift, to an actual or potential customer of the business, of an industrial or commercial sample in a form not ordinarily available for sale to the public.
 
-[S 487/2012 wef 1/10/2012]
+[S 487/2012 wef 01/10/2012]
 
 (3) Where by or under the direction of a person carrying on a business, goods held or used for the purposes of the business are put to any private use or are used, or made available to any person for use, for any purpose other than a purpose of the business, whether or not for a consideration, that is a supply of services.
 
@@ -4378,9 +4378,9 @@ Transfer or disposal of business assets
 
 (b) the goods comprise assets of another business transferred to the person as a going concern by another taxable person.
 
-[S 487/2012 wef 1/10/2012]
+[S 487/2012 wef 01/10/2012]
 
-(5) Anything which is a supply of goods or services by virtue of sub-paragraph (1) or (3) is to be treated as made in the course or furtherance of the business (if it would not otherwise be so treated); and in the case of a business carried on by an individual —
+(5) Anything which is a supply of goods or services by virtue of sub-paragraph 1 or (3) is to be treated as made in the course or furtherance of the business (if it would not otherwise be so treated); and in the case of a business carried on by an individual —
 
 (a) sub-paragraph (1) applies to any transfer or disposition of goods in favour of himself personally; and
 
@@ -4620,7 +4620,7 @@ Sections 14(1) and 22
 
 Part I
 
-EXEMPT SUPPLIES
+Exempt Supplies
 
 Finance
 
@@ -4700,13 +4700,11 @@ Finance
 
 [S 692/2011 wef 01/01/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
-
 Investment Precious Metals
 
 1A. The supply of any investment precious metal specified in Part II, other than a supply that is treated as a supply of such goods pursuant to paragraph 2 of the Second Schedule.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 Land
 
@@ -4722,7 +4720,7 @@ Land
 
 Part II
 
-EXEMPT IMPORTS
+Exempt Imports
 
 Investment Precious Metals
 
@@ -4800,9 +4798,9 @@ Investment Precious Metals
 
 (iv) Canada Maple Leaf coin.
 
-[Act 19 of 2012 wef 01/10/2012]
-
 [S 496/2012 wef 01/10/2012]
+
+[Act 19/2012 wef 01/10/2012]
 
 2. Paragraph 1(d), (e) and (f) shall not include any coin that is a proof coin, a numismatic coin or a collector’s coin.
 
@@ -4810,7 +4808,7 @@ Investment Precious Metals
 
 Part III
 
-INTERPRETATION AND APPLICATION
+Interpretation And Application
 
 Interpretation
 
@@ -4872,11 +4870,11 @@ and the money provided by the provider of the financing for the joint purchase o
 
 (b) the immovable properties are leased by the special purpose vehicle to the originator; and
 
+[Act 19/2012 wef 01/10/2012]
+
 (c) the immovable properties, or all or part of the beneficial interest therein referred to in paragraph (a), re-acquired by the originator upon the maturity of the Islamic debt securities;
 
 [S 567/2010 wef 01/10/2010]
-
-[Act 19 of 2012 wef 01/10/2012]
 
 “life insurance contract” means a contract for the provision of a life policy within the meaning of the Insurance Act (Cap. 142);
 
@@ -4884,7 +4882,7 @@ and the money provided by the provider of the financing for the joint purchase o
 
 “non-residential property” means any land, building, flat or tenement other than any land, building, flat or tenement described in paragraph 2(a), (b) and (c) of Part I;
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 “qualifying Islamic financial arrangement” means an arrangement which is endorsed by anyShari’ahcouncil or body or by any committee formed for the purpose of providing guidance on compliance withShari’ahlaw, and —
 
@@ -4976,9 +4974,9 @@ as the case may be;
 
 “special purpose vehicle”, in relation to an Islamic debt securities arrangement, means a company whose business is to acquire the originator’s immovable properties in Singapore, lease them back to the originator and transfer such properties to the originator upon the maturity of the Islamic debt securities;
 
-[S 567/2010 wef 01/10/2010]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
+[S 567/2010 wef 01/10/2010]
 
 “specified CPF scheme” means a scheme established under the Central Provident Fund Act (Cap. 36) that —
 
@@ -5036,17 +5034,17 @@ in the case of an import of investment precious metals, at the time the investme
 
 (c) it trades at a price based on the spot price of gold, silver or platinum, as the case may be.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 Application
 
 3.—(1) Paragraph 1 (other than sub-paragraph (q)) and paragraph 2 of Part I shall not apply to any services consisting of arranging, broking, underwriting or advising on any of the activities specified therein in return for a brokerage fee, commission or other similar consideration.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (2) Paragraph 1(m), (n) and (o) of Part I shall not apply to any supply which section 37 provides are to be disregarded for the purposes of this Act.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 (3) Paragraph 2 of Part I shall not apply to that part of the supply comprising —
 
@@ -5058,13 +5056,15 @@ Application
 
 [S 107/94; 25/96; 47/2004]
 
+[Act 19/2012 wef 01/10/2012]
+
 [20/2010 wef 01/01/2011]
 
 (4) For the purpose of paragraph 3(3)(c) of this Part and paragraph 2(c) of Part I, the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
 
-[20/2010 wef 01/01/2011]
+[Act 19/2012 wef 01/10/2012]
 
-[Act 19 of 2012 wef 01/10/2012]
+[20/2010 wef 01/01/2011]
 
 [UK VAT Act 1983, Sch. 6; NZ GST Act 1985, s. 3 (1)]
 
@@ -5308,12 +5308,7 @@ SIXTH SCHEDULE
 
 Section 6(7)
 
-Disclosure of names and particulars
-
-
-
-
-of persons and places
+Disclosure of names and particulars of persons and places
 
 1. 
 
@@ -5329,13 +5324,13 @@ Taxable persons to whom regulations made under section 27, 27A or 37A apply.
 
 4. 
 
-Approved persons referred to in section 37B.
+Approved persons referred to in section37B.
 
 5. 
 
 Refiners referred to in paragraph 2(a)(iii)(B) of Part III of the Fourth Schedule.
 
-[Act 19 of 2012 wef 01/10/2012]
+[Act 19/2012 wef 01/10/2012]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -5532,7 +5527,7 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|7 October 2005|
 |23.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 37/2005 published on 9 December 2005)|
+|||(Bill No. 37/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
 |24.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
@@ -5541,18 +5536,18 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 July 2007|
 |26.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
-|||(Bill No. 15/2007 published on 15 June 2007)|
+|||(Bill No. 15/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Dates of commencement|1 July 2007|
 |||17 February 2006|
 |27.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
 ||Date of First Reading|12 November 2007|
-|||(Bill No. 48/2007 published on 29 February 2008)|
+|||(Bill No. 48/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|4 April 2008|
 |28.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
 ||Date of First Reading|20 October 2008|
-|||(Bill No. 29/2008 published on 19 December 2008)|
+|||(Bill No. 29/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
 |29.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
@@ -5565,45 +5560,65 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 September 2009|
 |32.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
 ||Date of First Reading|20 July 2009|
-|||(Bill No. 12/2009 published on 18 September 2009)|
+|||(Bill No. 12/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|1 January 2010|
 |33.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
 ||Date of First Reading|19 July 2010|
-|||(Bill No. 15/2010 published on 1 October 2010)|
+|||(Bill No. 15/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|1 October 2010 (Except sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
 |||1 January 2011 (Sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
-|34.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+|34.|**G. N. No. S 567/2010—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2010**|
+||Date of commencement|1 October 2010|
+|35.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 16/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2011(Section 2)|
-|35.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|36.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010 published on 25 June 2010)|
+|||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|36.|**Act 7 of 2011—Private Lotteries Act 2011**|
+|37.|**Act 7 of 2011—Private Lotteries Act 2011**|
 ||Date of First Reading|10 January 2011|
-|||(Bill No. 2/2011 published on 18 March 2011)|
+|||(Bill No. 2/2011 published on 10 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|1 April 2011|
-|37.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+|38.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 16/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012 (Except Section 2)|
-|38.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
+|39.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
 ||Date of commencement|1 January 2012|
-|39.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|40.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
+||Date of First Reading|13 August 2012|
+|||(Bill No. 19/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|1 January 2012|
+|41.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 November 2011|
-|||(Bill No. 22/2011 published on 22 November 2011)|
+|||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (Except sections 26 and 29)|
-|40.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
+|42.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
 ||Date of commencement|1 April 2012|
+|43.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
+||Date of First Reading|13 August 2012|
+|||(Bill No. 19/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|1 October 2012|
+|44.|**G. N. No. S 487/2012—Goods and Services Tax Act (Amendment of Second Schedule) Order 2012**|
+||Date of commencement|1 October 2012|
+|45.|**G. N. No. S 496/2012—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2012**|
+||Date of commencement|1 October 2012|
+|46.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
