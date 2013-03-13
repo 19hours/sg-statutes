@@ -1060,7 +1060,9 @@ PRELIMINARY
 
 “complaint” means any allegation made orally or in writing to a Magistrate with a view to his taking action under this Code that some person, whether known or unknown, has committed or is guilty of an offence;
 
-“computer” has the same meaning as in the Computer Misuse Act (Cap. 50A);
+“computer” has the same meaning as in the Computer Misuse and Cybersecurity Act (Cap. 50A);
+
+[Act 3 of 2013 wef 13/03/2013]
 
 “court” means the Court of Appeal, the High Court, a District Court or a Magistrate’s Court, as the case may be, which exercises criminal jurisdiction;
 
@@ -13787,7 +13789,9 @@ Banishment Act (Cap. 18)
 
 4. 
 
-Computer Misuse Act (Cap. 50A)
+Computer Misuse and Cybersecurity Act (Cap. 50A)
+
+[Act 3 of 2013 wef 13/03/2013]
 
 5. 
 
@@ -17113,3 +17117,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|15 October 2012 (Bill No. 34/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 January 2013|
+|9.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
