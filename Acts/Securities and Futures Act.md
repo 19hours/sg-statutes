@@ -1296,7 +1296,9 @@ PRELIMINARY
 
 “advising on corporate finance” has the meaning given to it in the Second Schedule;
 
-“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act (Cap. 161);
+
+[Act 34 of 2012 wef 18/03/2013]
 
 “appointed representative”, in respect of a type of regulated activity, has the meaning given to that expression in section 99D, and “appointed representative” means an appointed representative in respect of any type of regulated activity;
 
@@ -1354,15 +1356,19 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 “clearing or settlement” has the meaning given to it in Part II of the First Schedule;
 
-“closed-end fund” means an arrangement referred to in paragraph (a) or (b) of the definition of “collective investment scheme” under which units that are issued are exclusively or primarily non-redeemable at the election of the holders of units, but does not include an arrangement referred to in paragraph (a) of that definition —
+“closed-end fund” means an arrangement referred to in paragraph (a) or (b) of the definition of “collective investment scheme” under which units that are issued are exclusively or primarily non-redeemable at the election of the holders of units, but does not include —
 
-(a) that is a trust;
+(a) an arrangement referred to in paragraph (a) of that definition —
 
-(b) that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+(i) which is a trust;
 
-[2/2009 wef 29/07/2009]
+(ii) which invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
 
-(c) all or any units of which are listed for quotation on a securities exchange;
+(iii) all or any units of which are listed for quotation on a securities exchange; or
+
+(b) an arrangement referred to in paragraph (a) of that definition which is, or which belongs to a class or description of arrangements which is, specified by the Authority, by notification published in theGazette, to be an arrangement that is not a closed-end fund, or a class or description of arrangements that are not closed-end funds, as the case may be;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 “Code on Collective Investment Schemes” means the Code on Collective Investment Schemes referred to in section 284 which is issued by the Authority under section 321(1);
 
@@ -1606,7 +1612,9 @@ and includes a futures option transaction, but does not include such contract or
 
 (g) such other written law as the Authority may by order prescribe;
 
-“principal”, in relation to a representative, means a person whom the representative is in the direct employment of, acting for or by arrangement with, and for whom the representative carries out any regulated activity;
+“principal”, in relation to a representative, means a person whom the representative is in the direct employment of, is acting for or is acting by arrangement with, and on behalf of whom the representative carries or will carry out any regulated activity;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 “providing credit rating services” has the meaning given to it in the Second Schedule;
 
@@ -3412,7 +3420,7 @@ Regulation of Recognised Market Operators
 
 (a) any material change to the information provided by the recognised market operator in its application under section 7(1) or 11(1);
 
-(b) any change of a director or the chief executive officer of the recognised market operator;
+(b) [Deleted by Act 34 of 2012 wef 18/03/2013]
 
 (c) the recognised market operator becoming aware of a financial irregularity or other matter which in its opinion —
 
@@ -3628,11 +3636,9 @@ issue directions, whether of a general or specific nature, by notice in writing,
 
 [1/2005]
 
-(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
-[1/2005]
-
-[SIA, s. 21; E (DM) A, s. 14]
+[Act 34 of 2012 wef 18/03/2013]
 
 ## PART III
 
@@ -6240,9 +6246,21 @@ the holder shall, not later than 14 days after the occurrence of the event, furn
 
 (b) the holder of the capital markets services licence fails or ceases to carry on business in all the regulated activities for which it was licensed;
 
+(ba) the Authority has reason to believe that the holder has not acted in the best interests of the holder’s subscribers or customers;
+
+[Act 34 of 2012 wef 18/03/2013]
+
 (c) the Authority has reason to believe that the holder, or any of its officers or employees, has not performed its or his duties efficiently, honestly or fairly;
 
 (d) the holder has contravened any condition or restriction applicable in respect of its licence, any written direction issued to it by the Authority under this Act, or any provision in this Act;
+
+(da) it appears to the Authority that the holder has failed to satisfy any of its obligations under or arising from —
+
+(i) this Act; or
+
+(ii) any written direction issued by the Authority under this Act;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (e) the Authority has reason to believe that the holder is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public;
 
@@ -6842,6 +6860,14 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (c) in the case of a provisional or temporary representative, an undertaking by the principal to undertake such responsibilities in relation to the representative as may be prescribed.
 
+(1A) Subsection (1) shall not apply to a principal who desires to appoint, as an appointed representative in respect of any type of regulated activity, an individual who is a provisional representative in respect of that type of regulated activity, if —
+
+(a) that individual has satisfied the examination requirements specified for that type of regulated activity; and
+
+(b) the principal has informed the Authority of that fact in the prescribed form and manner under section 99E(5).
+
+[Act 34 of 2012 wef 18/03/2013]
+
 (2) Subject to section 99M, the Authority shall, upon receipt of the documents lodged in accordance with subsection (1), enter in the public register of representatives the name of the representative, whether he is an appointed, provisional or temporary representative, the type of regulated activity which he may carry on business in, and such other particulars as the Authority considers appropriate.
 
 (3) The Authority may refuse to enter in the public register of representatives the particulars referred to in subsection (2) of the representative if the fee referred to in section 99K(1) or (4) (if applicable) is not paid.
@@ -6870,7 +6896,9 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 99K\.—(1) An individual shall, by the prescribed time, pay to the Authority such fee as may be prescribed by the Authority for the lodgment of documents under section 99H by his principal in relation to his appointment as an appointed, provisional or temporary representative.
 
-(2) An individual who is an appointed or provisional representative shall, by the prescribed time each year, pay such annual fee as may be prescribed by the Authority in relation to the retention of his name in the public register of representatives as an appointed or provisional representative.
+(2) An individual who is an appointed or provisional representative in respect of any type of regulated activity shall, by the prescribed time each year, pay such annual fee as may be prescribed by the Authority in relation to the retention of his name, in the public register of representatives, as an appointed or provisional representative in respect of that type of regulated activity.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (3) An individual who is a temporary representative shall, by the prescribed time, pay such fee as may be prescribed by the Authority in relation to the retention of his name in the public register of representatives as a temporary representative.
 
@@ -6926,7 +6954,9 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (h) in the case of the revocation of the status of an individual as an appointed, provisional or temporary representative —
 
-(i) he or his principal fails to satisfy the Authority, pursuant to a requirement imposed by the Authority as a condition of licence, under section 99N or by regulations (as the case may be), that he remains a fit and proper person to be an appointed, provisional or temporary representative or to carry on business in the type of regulated activity for which he is appointed;
+(i) he or his principal fails to satisfy the Authority, pursuant to a requirement imposed by the Authority as a condition for him to be an appointed, provisional or temporary representative, under section 99N or by regulations (as the case may be), that he remains a fit and proper person to be an appointed, provisional or temporary representative or to carry on business in the type of regulated activity for which he is appointed;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (ii) the Authority is not satisfied with —
 
@@ -6934,9 +6964,17 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (B) his record of past performance or expertise,
 
-having regard to the nature of his duties as an appointed, provisional or temporary representative; or
+having regard to the nature of his duties as an appointed, provisional or temporary representative;
 
-(iii) the Authority has reason to believe that he will not carry on business in the type of regulated activity for which he is appointed efficiently, honestly or fairly;
+[Act 34 of 2012 wef 18/03/2013]
+
+(iii) the Authority has reason to believe that he will not carry, or has not carried, on business in the type of regulated activity for which he is appointed efficiently, honestly or fairly; or
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(iv) the Authority has reason to believe that he has not acted in the best interests of the subscribers or customers of his principal;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (i) the Authority has reason to believe that he may not be able to act in the best interests of the subscribers or customers of his principal, having regard to his reputation, character, financial integrity and reliability;
 
@@ -6951,6 +6989,14 @@ having regard to the nature of his duties as an appointed, provisional or tempor
 (n) the Authority has reason to believe that any information or document that is furnished by him or his principal to the Authority is false or misleading;
 
 (o) he has contravened any provision of this Act applicable to him, any condition or restriction imposed on him under this Act or any direction issued to him by the Authority under this Act;
+
+(oa) it appears to the Authority that he has failed to satisfy any of his obligations under or arising from —
+
+(i) this Act; or
+
+(ii) any written direction issued by the Authority under this Act;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (p) a prohibition order under section 101A has been made by the Authority, and remains in force, against him;
 
@@ -7114,9 +7160,11 @@ General
 
 ### Power of Authority to issue written directions
 
-101\.—(1) The Authority may, if it thinks it necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to any holder of a capital markets services licence, exempt person, representative, or class of such persons, to comply with such requirements as the Authority may specify in the written directions.
+101\.—(1) The Authority may, if it thinks it necessary or expedient in the interests of the public or a section of the public or for the protection of investors, issue written directions, either of a general or specific nature, to any holder of a capital markets services licence, exempt person, representative, or class of such persons, to comply with such requirements as the Authority may specify in the written directions.
 
 [2/2009 wef 26/11/2010]
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) Without prejudice to the generality of subsection (1), any written direction may be issued with respect to —
 
@@ -7132,9 +7180,9 @@ and the person to whom such direction is issued shall comply with the direction.
 
 (3) Any person who contravenes any of the directions issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine of $5,000 for every day or part thereof during which the offence continues after conviction.
 
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(4) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
-[SIA, s. 21; E (DM) A, s. 14]
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Power of Authority to make prohibition orders
 
@@ -7146,7 +7194,27 @@ and the person to whom such direction is issued shall comply with the direction.
 
 (c) the Authority suspends or revokes the status of that person as an appointed, provisional or temporary representative;
 
-(d) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened any provision of this Act;
+(ca) where the relevant person is or was a representative of an exempt person but is not exempted under section 99B(2) from section 99B(1), the Authority has reason to believe that circumstances exist under which, if the relevant person were an appointed, provisional or temporary representative, there would exist a ground on which the Authority may revoke under section 99M the relevant person’s status as an appointed, provisional or temporary representative;
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(cb) where the relevant person is or was a representative of a holder of a capital markets services licence but is not exempted under section 99B(2) from section 99B(1), the Authority has reason to believe that circumstances exist under which there would exist a ground on which the Authority may revoke under section 99M the relevant person’s status as an appointed, provisional or temporary representative;
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(cc) where the relevant person is or was a representative of an exempt person, or a representative of a holder of a capital markets services licence, and is exempted under section 99B(2) from section 99B(1), the Authority has reason to believe that circumstances exist under which, if the person were an appointed representative, there would exist a ground on which the Authority may revoke under section 99M the relevant person’s status as an appointed representative;
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(d) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened —
+
+(i) any provision in this Act;
+
+(ii) any condition or restriction imposed by the Authority under this Act; or
+
+(iii) any written direction issued by the Authority under this Act;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (e) the person has been convicted of an offence under this Act or has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly;
 
@@ -7162,9 +7230,15 @@ and the person to whom such direction is issued shall comply with the direction.
 
 (b) a person that is exempt from the requirement to hold a capital markets services licence under section 99(1) or a person who was previously so exempt;
 
-(c) a representative of a person exempt from the requirement to hold a capital markets services licence under section 99(1)(f), (g) or (h) or a person who was previously such a representative;
+(c) a representative of a person exempt from the requirement to hold a capital markets services licence under section 99(1) or a person who was previously such a representative;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (d) an appointed, provisional or temporary representative or a person who was previously such a representative;
+
+(da) a representative exempted under section 99B(2) from section 99B(1), or a person who was previously such a representative;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (e) an officer of the holder of a capital markets services licence or a person that is exempt from the requirement to hold a capital markets services licence under section 99(1), or a person who was previously such an officer; or
 
@@ -7197,6 +7271,14 @@ that the order would otherwise prohibit him from doing.
 (6) Where the Authority makes a prohibition order against any person who is an appointed, provisional or temporary representative, it shall indicate against his name in the public register of representatives that fact, and the indication shall remain in the register for the duration of the order.
 
 [2/2009 wef 26/11/2010]
+
+(7) The Authority shall keep, in such form as it thinks fit, records on persons against whom prohibition orders are made under this section.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(8) The Authority may publish the records referred to in subsection (7), or any part of them, in such manner as the Authority considers appropriate.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Effect of prohibition orders
 
@@ -7296,7 +7378,9 @@ Customer Assets
 
 104\.—(1) A holder of a capital markets services licence shall, to the extent that it receives money or other assets from or on account of a customer —
 
-(a) do so on the basis that the money or other assets shall be applied solely for such purpose as may be agreed to by the customer, when or before it receives the money or other assets;
+(a) do so, except in such circumstances as may be prescribed by the Authority, on the basis that the money or other assets shall be applied solely for such purpose as may be agreed to by the customer, when or before it receives the money or other assets;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (b) pending such application, pay or deposit the money or other assets in such manner as may be prescribed; and
 
@@ -7534,7 +7618,13 @@ General
 
 (a) specify requirements applicable to the holder of a capital markets services licence in relation to securities financing;
 
-(aa) specify requirements and restrictions relating to the granting of unsecured advance, unsecured loan or unsecured credit facility by the holder of a capital markets services licence;
+(aa) specify, in the context of the granting of an unsecured advance, unsecured loan or unsecured credit facility by the holder of a capital markets services licence —
+
+(i) what constitutes any such unsecured advance, unsecured loan or unsecured credit facility; and
+
+(ii) the requirements and restrictions relating to any such grant;
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (b) prohibit the making of direct or indirect representations, expressly or by implication, relating to specified matters, or the use of misleading or deceptive advertisements by or on behalf of the holder, and impose conditions or restrictions for the use of advertisements by or on behalf of the holder;
 
@@ -8968,9 +9058,13 @@ AND TAKE-OVER OFFERS
 
 (4) The Securities Industry Council shall have the power, in the exercise of its functions, to enquire into any matter or thing related to the securities industry and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the enquiry.
 
-(5) Nothing in subsection (4) shall compel the production by an advocate and solicitor of a document containing a privileged communication made by or to him in that capacity or authorise the taking of possession of any such document which is in his possession.
+(5) Nothing in subsection (4) shall compel the production by an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), of a document containing a privileged communication made by or to him in that capacity or authorise the taking of possession of any such document which is in his possession.
 
-(6) An advocate and solicitor who refuses to produce the document referred to in subsection (5) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom or by or on behalf of whom the communication was made.
+[Act 34 of 2012 wef 18/03/2013]
+
+(6) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to produce the document referred to in subsection (5) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom or by or on behalf of whom the communication was made.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (7) The Authority may consult the Securities Industry Council for the proper and effective implementation of this Act.
 
@@ -9138,13 +9232,17 @@ the Authority may require the person to disclose to the Authority the informatio
 
 ### Savings for advocates and solicitors
 
-146\.—(1) Nothing in this Subdivision shall compel the disclosure by an advocate and solicitor of information containing a privileged communication made by or to him in that capacity.
+146\.—(1) Nothing in this Subdivision shall compel the disclosure by an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), of information containing a privileged communication made by or to him in that capacity.
 
 [16/2003]
 
-(2) An advocate and solicitor who refuses to disclose the information referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+[Act 34 of 2012 wef 18/03/2013]
+
+(2) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to disclose the information referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
 [SIA, s. 8]
+
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Immunities
 
@@ -9412,15 +9510,19 @@ Subdivision (1) — General
 
 (3) Nothing in this Division shall —
 
-(a) compel an advocate and solicitor to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+(a) compel an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (b) authorise the taking of any such document or other material which is in his possession.
 
 [16/2003]
 
-(4) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+(4) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
 [SIA, s. 96D (6) modified; HK SF Bill, Clause 180]
+
+[Act 34 of 2012 wef 18/03/2013]
 
 Subdivision (2) — Examination of persons
 
@@ -9512,9 +9614,11 @@ a copy of the record shall accompany the report to be submitted to the Minister 
 
 ### Offences under this Subdivision
 
-162\.—(1) A person who, without reasonable excuse, refuses or fails to comply with section 154 or 156(3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+162\.—(1) A person who, without reasonable excuse, refuses or fails to comply with a requirement under section 154 or 156(3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [1/2005]
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) A person who, without reasonable excuse —
 
@@ -9789,7 +9893,7 @@ FOREIGN REGULATORY AUTHORITIES
 
 (3) An order under subsection (1)(b), (c) or (d) shall have effect notwithstanding any obligations as to secrecy or other restrictions upon the disclosure of information imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
 
-(4) Nothing in this section shall compel an advocate and solicitor —
+(4) Nothing in this section shall compel an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97) —
 
 (a) to furnish or transmit any material or copy thereof that contains; or
 
@@ -9797,7 +9901,11 @@ FOREIGN REGULATORY AUTHORITIES
 
 a privileged communication made by or to him in that capacity.
 
-(5) An advocate and solicitor who refuses to furnish or transmit any material or copy thereof that contains, or to disclose, any privileged communication shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
+[Act 34 of 2012 wef 18/03/2013]
+
+(5) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to furnish or transmit any material or copy thereof that contains, or to disclose, any privileged communication shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (6) A person is not excused from making an oral statement pursuant to an order made under subsection (1)(d) on the ground that the statement might tend to incriminate him but, where the person claims before making the statement that the statement might tend to incriminate him, that statement —
 
@@ -10333,15 +10441,25 @@ but does not include —
 
 ### False trading and market rigging transactions
 
-197\.—(1) No person shall create, or do anything that is intended or likely to create a false or misleading appearance —
+197\.—(1) No person shall do any thing, cause any thing to be done or engage in any course of conduct, if his purpose, or any of his purposes, for doing that thing, causing that thing to be done or engaging in that course of conduct, as the case may be, is to create a false or misleading appearance —
 
 (a) of active trading in any securities on a securities market; or
 
 (b) with respect to the market for, or the price of, such securities.
 
+[Act 34 of 2012 wef 18/03/2013]
+
+(1A) No person shall do any thing, cause any thing to be done or engage in any course of conduct that creates, or is likely to create, a false or misleading appearance of active trading in any securities on a securities market, or with respect to the market for, or the price of, such securities, if —
+
+(a) he knows that doing that thing, causing that thing to be done or engaging in that course of conduct, as the case may be, will create, or will be likely to create, that false or misleading appearance; or
+
+(b) he is reckless as to whether doing that thing, causing that thing to be done or engaging in that course of conduct, as the case may be, will create, or will be likely to create, that false or misleading appearance.
+
+[Act 34 of 2012 wef 18/03/2013]
+
 (2) No person shall, by means of any purchase or sale of any securities that do not involve a change in the beneficial ownership of those securities, or by any fictitious transaction or device, maintain, inflate, depress, or cause fluctuations in, the market price of any securities.
 
-(3) Without prejudice to the generality of subsection (1), a person who —
+(3) Without prejudice to the generality of subsection (1), where a person —
 
 (a) effects, takes part in, is concerned in or carries out, directly or indirectly, any transaction of purchase or sale of any securities, being a transaction that does not involve any change in the beneficial ownership of the securities;
 
@@ -10349,9 +10467,13 @@ but does not include —
 
 (c) makes or causes to be made an offer to purchase any securities at a specified price where he has made or caused to be made or proposes to make or to cause to be made, or knows that a person associated with him has made or caused to be made or proposes to make or to cause to be made, an offer to sell the same number, or substantially the same number, of securities at a price that is substantially the same as the first-mentioned price,
 
-shall be deemed to have created a false or misleading appearance of active trading in securities on a securities market.
+it shall be presumed that his purpose, or one of his purposes, for doing so is to create a false or misleading appearance of active trading in securities on a securities market.
 
-(4) In any proceedings against a person for a contravention of subsection (1) because of an act referred to in subsection (3), it is a defence if the defendant establishes that the purpose or purposes for which he did the act was not, or did not include, the purpose of creating a false or misleading appearance of active trading in securities on a securities market.
+[Act 34 of 2012 wef 18/03/2013]
+
+(4) The presumption under subsection (3) may be rebutted if the defendant establishes that the purpose or purposes for which he did the act was not, or did not include, the purpose of creating a false or misleading appearance of active trading in securities on a securities market.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (5) For the purposes of this section, a purchase or sale of securities does not involve a change in the beneficial ownership if a person who had an interest in the securities before the purchase or sale, or a person associated with the first-mentioned person in relation to those securities, has an interest in the securities after the purchase or sale.
 
@@ -10515,9 +10637,19 @@ Foreign Exchange Trading
 
 ### False trading
 
-206\. No person shall create, or do anything that is intended or likely to create, a false or misleading appearance of active trading in any futures contract on a futures market or in connection with leveraged foreign exchange trading, or a false or misleading appearance with respect to the market for, or the price of futures contracts on a futures market or foreign exchange in connection with leveraged foreign exchange trading.
+206\.—(1) No person shall do any thing, cause any thing to be done or engage in any course of conduct, if his purpose, or any of his purposes, for doing that thing, causing that thing to be done or engaging in that course of conduct, as the case may be, is to create a false or misleading appearance —
 
-[FTA, s. 50]
+(a) of active trading in any futures contract on a futures market or in connection with leveraged foreign exchange trading; or
+
+(b) with respect to the market for, or the price of, futures contracts on a futures market or foreign exchange in connection with leveraged foreign exchange trading.
+
+(2) No person shall do any thing, cause any thing to be done or engage in any course of conduct that creates, or is likely to create, a false or misleading appearance of active trading in any futures contract on a futures market or in connection with leveraged foreign exchange trading, or with respect to the market for, or the price of, futures contracts on a futures market or foreign exchange in connection with leveraged foreign exchange trading, if —
+
+(a) he knows that doing that thing, causing that thing to be done or engaging in that course of conduct, as the case may be, will create, or will be likely to create, that false or misleading appearance; or
+
+(b) he is reckless as to whether doing that thing, causing that thing to be done or engaging in that course of conduct, as the case may be, will create, or will be likely to create, that false or misleading appearance.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Bucketing
 
@@ -11141,11 +11273,15 @@ whichever is the greater.
 
 (5) Nothing in this section shall be construed to prevent the Authority from entering into an agreement with any person to pay, with or without admission of liability, a civil penalty within the limits referred to in subsection (2) or (3) for a contravention of any provision in this Part.
 
-(6) A civil penalty imposed under this section shall be payable to the Authority.
+(6) A civil penalty imposed under this section shall be paid into the Consolidated Fund.
 
-(7) If the person fails to pay the civil penalty imposed on him within the time specified in the court order referred to in subsection (4) or specified under the agreement referred to in subsection (5), the Authority may recover the civil penalty as though the civil penalty were a judgment debt due to the Authority.
+[Act 34 of 2012 wef 18/03/2013]
+
+(7) If the person fails to pay the civil penalty imposed on him within the time specified in the court order referred to in subsection (4) or specified under the agreement referred to in subsection (5), the Authority may recover the civil penalty on behalf of the Government as though the civil penalty were a judgment debt due to the Authority.
 
 [1/2005]
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (8) Any defence that is available to a person who is prosecuted for a contravention of any provision in this Part, shall also be available to a defendant to an action under this section in respect of that contravention.
 
@@ -11167,7 +11303,7 @@ whichever is the greater.
 
 ### Civil liability
 
-234\.—(1) A person who has acted in contravention of any of the provisions in this Part which resulted in his gaining a profit or avoiding a loss (referred to in this section and sections 235 and 236 as the contravening person) shall, whether or not he had been convicted or had a civil penalty imposed on him in respect of that contravention, be liable to pay compensation to any person (referred to in this section and sections 235 and 236 as the claimant) who —
+234\.—(1) A person who has acted in contravention of any of the provisions in this Part (referred to in this section and sections 235 and 236 as the contravening person) shall, if he had gained a profit or avoided a loss as a result of that contravention, whether or not he had been convicted or had a civil penalty imposed on him in respect of that contravention, be liable to pay compensation to any person (referred to in this section and sections 235 and 236 as the claimant) who —
 
 (a) contemporaneously with the contravention, had subscribed for, purchased or sold securities, or entered into futures contract, or contracts or arrangements in connection with leveraged foreign exchange trading, of the same description; and
 
@@ -11175,17 +11311,55 @@ whichever is the greater.
 
 (i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention; and
 
-(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention had not occurred.
+(ii) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if —
 
-[2/2009 wef 01/10/2012]
+(A) in any case where the contravening person had acted in contravention of section 218 or 219, the information referred to in section 218(1) or 219(1), as the case may be, had been generally available; or
 
-(2) The amount of compensation that the contravening person is liable to pay to the claimant is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable to the same claimant in respect of the same contravention under an order of court or an agreement to pay by any defendant, defendant corporation or defendant partnership under Division 5 or under an order for disgorgement under section 236L, up to the maximum recoverable amount.
+(B) in any other case, the contravention had not occurred.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(1A) Without prejudice to subsection (1), the contravening person shall, whether or not he had gained a profit or avoided a loss as a result of that contravention, and whether or not he had been convicted or had a civil penalty imposed on him in respect of that contravention, be liable to pay compensation to the claimant, if —
+
+(a) the contravening person has contravened section 199, 200, 201, 209 or 210, in connection with any subscription, purchase or sale of securities, any trading in futures contracts or any leveraged foreign exchange trading, by —
+
+(i) making, disseminating or publishing any false, misleading or deceptive statement, information, promise or forecast; or
+
+(ii) concealing or omitting to state any material fact; and
+
+(b) the claimant —
+
+(i) in reliance on that statement, information, promise or forecast or in ignorance of that concealed or omitted material fact, had (whether contemporaneously with the contravention or otherwise) subscribed for, purchased or sold any securities, or entered into any futures contract, or contracts or arrangements in connection with leveraged foreign exchange trading, of the same description; and
+
+(ii) had suffered loss.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(2) The amount of compensation that the contravening person is liable to pay to the claimant under subsection (1) is the amount of the loss suffered by the claimant referred to in subsection (1)(b), after deducting any amount of compensation paid or payable to the same claimant in respect of the same contravention under an order of court or an agreement to pay by the contravening person or any defendant, defendant corporation or defendant partnership under Division 4 or 5 or under an order for disgorgement under section 236L, up to the maximum amount recoverable.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(2A) The amount of compensation that the contravening person is liable to pay to the claimant under subsection (1A) is —
+
+(a) in any case where the claimant had contemporaneously with the contravention subscribed for, purchased or sold any securities, or entered into any futures contract, or contracts or arrangements in connection with leveraged foreign exchange trading, of the same description, and had suffered the loss referred to in subsection (1)(b), any one of the following amounts that is elected by the claimant:
+
+(i) the amount of the loss suffered by the claimant referred to in subsection (1)(b), after deducting any amount of compensation paid or payable to the same claimant in respect of the same contravention under an order of court or an agreement to pay by the contravening person or any defendant, defendant corporation or defendant partnership under Division 4 or 5 or under an order for disgorgement under section 236L, up to the maximum amount recoverable; or
+
+(ii) the amount of any loss that reasonably results from the claimant’s reliance on the statement, information, promise or forecast referred to in subsection (1A)(a)(i) or ignorance of the concealed or omitted material fact referred to in subsection (1A)(a)(ii), after deducting any amount of compensation paid or payable to the same claimant in respect of the same contravention under an order of court or an agreement to pay by the contravening person or any defendant, defendant corporation or defendant partnership under Division 4 or 5 or under an order for disgorgement under section 236L; or
+
+(b) in any other case, the amount of any loss that reasonably results from the claimant’s reliance on the statement, information, promise or forecast referred to in subsection (1A)(a)(i) or ignorance of the concealed or omitted material fact referred to in subsection (1A)(a)(ii), after deducting any amount of compensation paid or payable to the same claimant in respect of the same contravention under an order of court or an agreement to pay by the contravening person or any defendant, defendant corporation or defendant partnership under Division 4 or 5 or under an order for disgorgement under section 236L.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (3) Any defence that is available to a person who is prosecuted for a contravention of any provision in this Part, shall also be available to a defendant to an action under this section in respect of the contravention.
 
-(4) An action under this section shall not be commenced after the expiration of 6 years from the date of completion of the contemporaneous dealing or trading in which the loss occurred.
+(4) An action under this section shall not be commenced after the expiration of 6 years from the date of completion of the dealing or trading in which the loss occurred.
 
-(5) In determining whether a dealing in securities, trading in futures contracts, or leveraged foreign exchange trading took place contemporaneously with the contravention under subsection (1), the court shall take into account the following matters:
+[Act 34 of 2012 wef 18/03/2013]
+
+(5) For the purposes of this section, in determining whether any dealing in securities, trading in futures contracts or leveraged foreign exchange trading took place contemporaneously with the contravention, the court shall take into account the following matters:
 
 (a) the volume of securities, futures contracts, or contracts in connection with leveraged foreign exchange trading of the same description dealt in or traded between the date and time of the contravention and the date and time of the dealing in securities, trading in futures contracts, or leveraged foreign exchange trading;
 
@@ -11197,15 +11371,19 @@ whichever is the greater.
 
 (e) such other factors and developments, whether in Singapore or elsewhere, as the court may consider relevant.
 
+[Act 34 of 2012 wef 18/03/2013]
+
 (6) In this section and section 236, “maximum recoverable amount”, in respect of each contravention by a contravening person means —
 
 (a) the amount of the profit that the contravening person gained; or
 
 (b) the amount of the loss that he avoided,
 
-as a result of the contravention, after deducting all amounts of compensation that the contravening person had previously been ordered by a court to pay to other claimants under this section in respect of the same contravention.
+as a result of the contravention, after deducting all amounts of compensation that the contravening person had previously been ordered by a court to pay, in respect of the same contravention, to other claimants (each being a claimant whose claim is one where the amount of compensation that the contravening person is liable to pay is specified under subsection (2) or (2A)(a)(i)).
 
 [SIA, s. 104C]
+
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Action under section 234 not to commence, etc., in certain situations
 
@@ -11235,17 +11413,23 @@ shall be stayed, and may not thereafter be continued except with the leave of co
 
 (b) has an order for the payment of a civil penalty made against him under section 232, other than by way of a default judgment or a consent order made with or without admission of contravention under section 232(4),
 
-in respect of the contravention of any of the provisions in this Part which resulted in his gaining a profit or avoiding a loss, the court which convicted him or made the order against him (referred to in this section as the relevant court) may, after the conviction or the order imposing the civil penalty has been made final, fix a date on or before which all claimants have to file and prove their claims for compensation in respect of that contravention.
+in respect of the contravention of any of the provisions in this Part, the court which convicted him or made the order against him (referred to in this section as the relevant court) may, after the conviction or the order imposing the civil penalty has been made final, fix a date on or before which all claimants have to file and prove their claims for compensation in respect of that contravention.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) For the purposes of subsection (1), the relevant court shall not fix a date that is earlier than 3 months from the date the conviction or the order imposing the civil penalty, as the case may be, has been made final.
 
-(3) The relevant court may, after the expiry of the date fixed under subsection (1), make an order against the contravening person to pay to each claimant who has filed and proven his claim for compensation an amount —
+(3) Subject to subsection (3A), the relevant court may, after the expiry of the date fixed under subsection (1), make an order against the contravening person to pay compensation to each claimant who has filed and proven his claim for compensation.
 
-(a) equal to the amount of compensation which that claimant has proven to the satisfaction of the court that he would have been entitled to if he had brought an action under section 234 against the contravening person himself; or
+[Act 34 of 2012 wef 18/03/2013]
 
-(b) equal to the pro-rated portion of the maximum recoverable amount, calculated according to the relationship which the amount referred to in paragraph (a) bears to all amounts proved to the court,
+(3A) Where the amount of compensation that a claimant would have been entitled if he had brought an action under section 234 is specified under section 234(2) or (2A)(a)(i), the compensation amount ordered by the relevant court for that claimant shall be equal to the lesser of the following amounts:
 
-whichever is the lesser.
+(a) the amount of compensation which that claimant has proven to the satisfaction of the court that he would have been entitled to if he had brought an action under section 234 against the contravening person himself;
+
+(b) the pro-rated portion of the maximum recoverable amount, calculated according to the relationship which the amount referred to in paragraph (a) bears to the total amount of all other claims (each being a claim the claimant of which is one who, if he had brought an action under section 234, would have been entitled to the amount of compensation specified under section 234(2) or (2A)(a)(i)) which have been proved to the court.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (4) For the purposes of this section, a conviction is made final if —
 
@@ -11415,7 +11599,13 @@ whichever is the greater.
 
 (i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention by the contravening person; and
 
-(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention by the contravening person had not occurred.
+(ii) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if —
+
+(A) in any case where the contravening person had acted in contravention of section 218 or 219, the information referred to in section 218(1) or 219(1), as the case may be, had been generally available; or
+
+(B) in any other case, the contravention by the contravening person had not occurred.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) The amount of compensation that the defendant corporation is liable to pay to the claimant under subsection (1) is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable —
 
@@ -11565,7 +11755,13 @@ whichever is the greater.
 
 (i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention by the contravening person; and
 
-(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention by the contravening person had not occurred.
+(ii) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if —
+
+(A) in any case where the contravening person had acted in contravention of section 218 or 219, the information referred to in section 218(1) or 219(1), as the case may be, had been generally available; or
+
+(B) in any other case, the contravention by the contravening person had not occurred.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) The amount of compensation that the defendant partnership is liable to pay to the claimant under subsection (1) is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable —
 
@@ -11647,7 +11843,13 @@ shall also be available to the defendant in an action under subsection (1) in re
 
 (i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention by the contravening person; and
 
-(ii) the price at which the securities, futures contracts or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if the contravention by the contravening person had not occurred.
+(ii) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if —
+
+(A) in any case where the contravening person had acted in contravention of section 218 or 219, the information referred to in section 218(1) or 219(1), as the case may be, had been generally available; or
+
+(B) in any other case, the contravention by the contravening person had not occurred.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) The amount of compensation that the defendant is liable to pay to the claimant is the amount of the loss suffered by the claimant, after deducting any amount of compensation paid or payable ––
 
@@ -11805,17 +12007,17 @@ Miscellaneous
 
 ### Jurisdiction of District Court
 
-237\. A District Court shall have jurisdiction to hear and determine any action under Division 4 or 5 or any application under section 236L regardless of the monetary amount.
+237\. A District Court shall have jurisdiction to hear and determine any action or application under Division 4 or 5 regardless of the monetary amount.
 
-[SIA, s. 104F]
-
-[2/2009 wef 01/10/2012]
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Rules of Court
 
 238\.—(1) Rules of Court (Cap. 322, R 5) may be made —
 
-(a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under Divisions 4 and 5 and any application under section 236L; and
+(a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under Divisions 4 and 5; and
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
@@ -13667,9 +13869,17 @@ and the prescribed entity shall comply with every such condition or restriction 
 
 ### Duties of trustees
 
-266\. 
+266\.—(1) A trustee for the holders of debentures shall —
 
-—(1) [Deleted by Act 16/2003]
+(a) at all times exercise due diligence and vigilance in carrying out its functions and duties, and in safeguarding the rights and interests of the holders of debentures;
+
+(b) ensure that it has the ability and powers to perform all of its duties as set out in the trust deed;
+
+(c) ensure that any trustee appointed for the holders of any collateral upon which the debentures are secured is subject to duties that are at least equivalent to those imposed under paragraphs (a) and (b); and
+
+(d) comply with such other requirements as may be prescribed by the Authority by regulations made under section 341, or as may be imposed by the Authority in respect of any particular offer or transaction relating to the debentures.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) Where, after due inquiry, the trustee for the holders of debentures at any time is of the opinion that the assets of the borrowing entity and of any of its guarantor entities which are or should be available whether by way of security or otherwise, are insufficient, or likely to become insufficient, to discharge the principal debt as and when it becomes due, the trustee may apply to the Authority for an order under this subsection.
 
@@ -14088,6 +14298,8 @@ that he is interested in offers of that kind;
 (iii) in respect of which the first-mentioned person has given the second-mentioned person —
 
 (A) the following statement in writing:
+
+“
 
 This offer is made in reliance on the exemption under section 272A(8)(c) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore.
 
@@ -17451,7 +17663,19 @@ Subdivision (2) — Authorisation and recognition
 
 ### Authorised schemes
 
-286\.—(1) The Authority may, upon an application made to it in such form and manner as may be prescribed and subject to subsection (2) and the conditions specified in subsection (3), authorise a collective investment scheme constituted in Singapore.
+286\.—(1) The Authority may, upon an application made to the Authority in such form and manner as may be prescribed by regulations made under section 341, authorise a collective investment scheme constituted in Singapore, subject to —
+
+(a) subsection (2);
+
+(b) the conditions specified in subsection (3); and
+
+(c) such conditions or restrictions as the Authority may think fit to impose by notice in writing.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(1A) The Authority may, at any time, by notice in writing to the responsible person for a collective investment scheme authorised under subsection (1), vary or revoke any condition or restriction imposed by the Authority under subsection (1)(c) or impose such further condition or restriction as the Authority may think fit.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) The Authority may authorise, under subsection (1), a collective investment scheme which is constituted as a unit trust if and only if the Authority is satisfied that —
 
@@ -17517,7 +17741,9 @@ the holder of a capital markets services licence for real estate investment trus
 
 (9) The Authority may publish for public information, in such manner as it considers appropriate, particulars of any collective investment scheme authorised under subsection (1).
 
-(10) The responsible person for a collective investment scheme authorised under subsection (1) and the approved trustee for the scheme, to the extent applicable, shall ensure that the conditions and requirements set out in subsections (2), (3) and (4) as applicable to that scheme shall continue to be satisfied.
+(10) The responsible person for a collective investment scheme authorised under subsection (1) and the approved trustee for the scheme, to the extent applicable, shall ensure that the conditions and requirements set out in subsections (2), (3) and (4), and every condition or restriction imposed by the Authority under subsection (1)(c) or (1A), as applicable to that scheme shall continue to be satisfied.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (11) Notwithstanding subsection (10), a failure by any person to comply with the Code on Collective Investment Schemes shall not of itself render that person liable to criminal proceedings but such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.
 
@@ -17533,7 +17759,19 @@ the holder of a capital markets services licence for real estate investment trus
 
 ### Recognised schemes
 
-287\.—(1) The Authority may, upon an application made to it in such form and manner as may be prescribed and subject to subsection (2) and the conditions specified in subsection (3), recognise a collective investment scheme constituted outside Singapore.
+287\.—(1) The Authority may, upon an application made to the Authority in such form and manner as may be prescribed by regulations made under section 341, recognise a collective investment scheme constituted outside Singapore, subject to —
+
+(a) subsection (2);
+
+(b) the conditions specified in subsection (3); and
+
+(c) such conditions or restrictions as the Authority may think fit to impose by notice in writing.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(1A) The Authority may, at any time, by notice in writing to the responsible person for a collective investment scheme recognised under subsection (1), vary or revoke any condition or restriction imposed by the Authority under subsection (1)(c) or impose such further condition or restriction as the Authority may think fit.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) The Authority may recognise a collective investment scheme under subsection (1) if and only if the Authority is satisfied that —
 
@@ -17595,7 +17833,9 @@ the holder of a capital markets services licence for real estate investment trus
 
 (8) The Authority may publish for public information, in such manner as it considers appropriate, particulars of any collective investment scheme recognised under subsection (1).
 
-(9) The responsible person for a collective investment scheme recognised under subsection (1) shall ensure that the conditions and requirements set out in subsections (2) and (3), as applicable to that scheme, shall continue to be satisfied.
+(9) The responsible person for a collective investment scheme recognised under subsection (1) shall ensure that the conditions and requirements set out in subsections (2) and (3), and every condition or restriction imposed by the Authority under subsection (1)(c) or (1A), as applicable to that scheme, shall continue to be satisfied.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (10) Notwithstanding subsection (9), a failure by any person to comply with the Code on Collective Investment Schemes shall not of itself render that person liable to criminal proceedings but may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.
 
@@ -17735,15 +17975,25 @@ appeal to the Minister whose decision shall be final.
 
 ### Approval of trustees
 
-289\.—(1) The Authority may, upon an application made to it in such form and manner as may be prescribed, approve a public company to act as a trustee for collective investment schemes which are authorised under section 286 and constituted as unit trusts (referred to in this Subdivision as an approved trustee).
+289\.—(1) The Authority may, upon an application made to the Authority in such form and manner as may be prescribed by regulations made under section 341, approve a public company to act as a trustee for collective investment schemes which are authorised under section 286 and constituted as unit trusts (referred to in this Subdivision as an approved trustee), subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(1A) The Authority may, at any time, by notice in writing to the approved trustee, vary or revoke any condition or restriction imposed by the Authority under subsection (1) or impose such further condition or restriction as the Authority may think fit.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (2) The Authority shall not approve a public company to act as trustee under subsection (1) unless the company satisfies such financial requirements and other criteria as the Authority may prescribe.
 
-(3) An approved trustee shall continue to satisfy the financial requirements and other criteria prescribed under subsection (2).
+(3) An approved trustee shall continue to satisfy the financial requirements and other criteria prescribed under subsection (2) and every condition or restriction imposed by the Authority under subsection (1) or (1A).
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (4) Where the Authority is of the opinion that an approved trustee —
 
-(a) has failed to satisfy a financial requirement or other criterion prescribed under subsection (2);
+(a) has failed to satisfy a financial requirement or other criterion prescribed under subsection (2), or any condition or restriction imposed by the Authority under subsection (1) or (1A);
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (b) has not carried out its duties with due care and diligence;
 
@@ -17761,7 +18011,9 @@ the Authority may —
 
 (5) An approved trustee shall comply with any direction issued to it under subsection (4).
 
-(6) For the avoidance of doubt, a direction issued under subsection (4) shall be deemed not to be subsidiary legislation.
+(6) It shall not be necessary to publish any direction issued under subsection (4) in theGazette.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (7) Any approved trustee who contravenes subsection (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -17803,7 +18055,7 @@ the Authority may —
 
 ### Authority may issue directions
 
-293\.—(1) The Authority may, where it appears to the Authority to be necessary or expedient in the public interest to do so, issue directions by notice in writing either of a general or specific nature to —
+293\.—(1) The Authority may, where it thinks it necessary or expedient in the interests of the public or a section of the public or for the protection of investors, issue directions by notice in writing either of a general or specific nature to —
 
 (a) where a collective investment scheme is constituted as a corporation, the corporation;
 
@@ -17811,9 +18063,13 @@ the Authority may —
 
 (c) any class of such persons referred to in paragraph (a) or (b).
 
+[Act 34 of 2012 wef 18/03/2013]
+
 (2) Any person to whom a notice is given under subsection (1) shall comply with such direction as may be contained in the notice.
 
-(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (4) Any person who contravenes any of the directions issued to him under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -18343,7 +18599,9 @@ and the person making the offer of units in the scheme shall, within 7 days from
 
 [1/2005]
 
-(6) For the avoidance of doubt, a direction issued under subsection (4) shall be deemed not to be subsidiary legislation.
+(6) It shall not be necessary to publish any direction issued under subsection (4) in theGazette.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (7) If the Authority is of the opinion that any delay in serving a stop order pending the hearing required under subsection (3) is not in the interests of the public, the Authority may, without giving the person making the offer of units in the collective investment scheme an opportunity to be heard, serve an interim stop order on such person directing that no or no further units in a collective investment scheme to which the prospectus or profile statement relates be issued or sold.
 
@@ -18699,7 +18957,9 @@ and the responsible person shall within 7 days after the period specified in sub
 
 (5) Any responsible person to whom a notice is given under subsection (2) shall comply with such direction as may be contained in the notice.
 
-(6) For the avoidance of doubt, a direction issued under subsection (2) shall be deemed not to be subsidiary legislation.
+(6) It shall not be necessary to publish any direction issued under subsection (2) in theGazette.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (7) All moneys received from applicants as payment for the units, including contributions to the scheme and charges which the applicants have paid to the responsible person, its agent, or any person through whom the applicant has applied for the units, shall be kept in a separate bank account so long as the responsible person for the collective investment scheme may become liable to repay it under subsection (2).
 
@@ -19381,9 +19641,13 @@ APPEALS
 
 (3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing relating to the securities or futures industry and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
 
-(4) Nothing in subsection (3) shall compel the production by an advocate and solicitor of a document or material containing a privileged communication made by or to him in that capacity or authorise the taking of possession of any such document or material which is in his possession.
+(4) Nothing in subsection (3) shall compel the production by an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), of a document or material containing a privileged communication made by or to him in that capacity or authorise the taking of possession of any such document or material which is in his possession.
 
-(5) An advocate and solicitor who refuses to produce any document or other material referred to in subsection (4) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
+[Act 34 of 2012 wef 18/03/2013]
+
+(5) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to produce any document or other material referred to in subsection (4) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (6) For the purposes of this Act, every member of an Appeal Advisory Committee —
 
@@ -19435,13 +19699,17 @@ MISCELLANEOUS
 
 ### Records
 
-317\.—(1) Subject to sections 94 and 99C, the Authority shall keep such records as it considers necessary, in such form as it thinks fit.
+317\.—(1) Without prejudice to sections 94, 99C and 101A(7) and (8), the Authority shall keep such records as it considers necessary, in such form as it thinks fit.
 
 [2/2009 wef 01/10/2012]
 
+[Act 34 of 2012 wef 18/03/2013]
+
 (2) Any person may, on payment of the prescribed fee —
 
-(a) inspect any records kept by the Authority under section 94 or 99C or any prospectus or profile statement lodged with the Authority under Part XIII; or
+(a) inspect any records kept by the Authority under section 94 or 99C, any records kept or published by the Authority under section 101A(7) and (8) or any prospectus or profile statement lodged with the Authority under Part XIII; or
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (b) require a copy of or extract from any such record to be given or certified by the Authority.
 
@@ -19631,35 +19899,41 @@ the Authority may refuse to register or receive the record and request that the 
 
 ### Power of court to prohibit payment or transfer of moneys, securities, etc.
 
-324\.—(1) Where —
+324\.—(1) A court may, on an application by the Authority, make one or more of the orders referred to in subsection (1A), where —
 
-(a) an investigation is being carried out under this Act in relation to any act or omission by a person, being an act or omission that constitutes or may constitute an offence under this Act;
+(a) an investigation is being carried out under this Act in relation to any act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act;
 
 (b) a criminal proceeding has been instituted against a person for an offence under this Act; or
 
-(c) a civil proceeding has been instituted against a person under this Act, and the court considers it necessary or desirable to do so for the purpose of protecting the interests of any person to whom the person referred to in paragraph (a) or (b) or this paragraph, as the case may be (referred to in this section as the relevant person), is liable or may become liable to pay any moneys, whether in respect of a debt, or by way of penalties, damages or compensation or otherwise, or to account for any securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property,
+(c) a civil proceeding has been instituted against a person under this Act, and the court considers it necessary or desirable to do so for the purpose of protecting the interests of any person to whom the person referred to in paragraph (a) or (b) or this paragraph (referred to in this section as the relevant person) is liable or may become liable to pay any moneys, whether in respect of a debt, or by way of penalties, damages or compensation or otherwise, or to account for any securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property.
 
-the court may, on application by the Authority, make any one or more of the following orders:
+[Act 34 of 2012 wef 18/03/2013]
 
-(i) an order prohibiting, either absolutely or subject to conditions, a person who is indebted to the relevant person or any person associated with the relevant person from making a payment in total or partial discharge of such debt that is due or accruing due to that relevant person, or to another person at the direction or request of, the relevant person;
+(1A) The orders of court that may be made under subsection (1) are as follows:
 
-(ii) an order prohibiting, either absolutely or subject to conditions, a person holding moneys, securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, on behalf of the relevant person or on behalf of any person associated with the relevant person from paying, transferring or otherwise parting with possession of all or any of the moneys, securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, to such relevant person, or to another person at the direction or request of, the relevant person;
+(a) an order prohibiting, either absolutely or subject to conditions, a person who is indebted to the relevant person or any person associated with the relevant person from making a payment in total or partial discharge of such debt that is due or accruing due to the relevant person, or to another person at the direction or request of the relevant person;
 
-(iii) an order prohibiting, either absolutely or subject to conditions, the taking or sending out of Singapore of moneys of the relevant person or of any person associated with the relevant person;
+(b) an order prohibiting, either absolutely or subject to conditions, a person holding moneys, securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, on behalf of the relevant person or on behalf of any person associated with the relevant person, from paying, transferring or otherwise parting with possession of all or any of the moneys, securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, to the relevant person, or to another person at the direction or request of the relevant person;
 
-(iv) an order prohibiting, either absolutely or subject to conditions, the taking, sending or transfer of securities or documents of title to securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property of the relevant person or of any person who is associated with the relevant person, from a place or person in Singapore to a place or person outside Singapore (including the transfer of securities from a register in Singapore to a register outside Singapore);
+(c) an order prohibiting, either absolutely or subject to conditions, the taking or sending out of Singapore of moneys of the relevant person or of any person associated with the relevant person;
 
-(v) an order appointing —
+(d) an order prohibiting, either absolutely or subject to conditions, the taking, sending or transfer of securities, or documents of title to securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property of the relevant person or of any person who is associated with the relevant person, from a place or person in Singapore to a place or person outside Singapore (including the transfer of securities from a register in Singapore to a register outside Singapore);
 
-(A) where the relevant person is an individual, a receiver, having such powers as the court orders, of the property or part of the property of that person; or
+(e) an order appointing —
 
-(B) where the relevant person is a corporation, a receiver or receiver and manager, having such powers as the court orders, of the property or part of the property of that person;
+(i) where the relevant person is an individual, a receiver, having such powers as the court orders, of the property or part of the property of the relevant person; or
 
-(vi) where the relevant person is a natural person, an order requiring that person to deliver up to the court his passport and such other documents as the court thinks fit;
+(ii) where the relevant person is a corporation, a receiver or receiver and manager, having such powers as the court orders, of the property or part of the property of the relevant person;
 
-(vii) where the relevant person is a natural person, an order prohibiting that person from leaving Singapore without the consent of the court.
+(f) where the relevant person is an individual, an order requiring the relevant person to deliver up to the court his passport and such other documents as the court thinks fit;
 
-(2) Where an application is made to the court for an order under subsection (1), the court may, if the court is of the opinion that it is desirable to do so, before considering the application, make any interim order as it thinks fit pending the determination of the application.
+(g) where the relevant person is an individual, an order prohibiting the relevant person from leaving Singapore without the consent of the court.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(2) Where an application is made to the court for any order referred to in subsection (1A), the court may, if the court is of the opinion that it is desirable to do so, before considering the application, make any interim order as it thinks fit pending the determination of the application.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (3) Where the Authority makes an application to the court for the making of an order or interim order under this section, the court shall not require the Authority or any other person, as a condition of granting the order or interim order, to give any undertaking as to damages.
 
@@ -19773,7 +20047,9 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (b) if it appears to the court that, in the event that an order is not made, it is likely the person will refuse or fail to do that act or thing, whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
-(10) Where any person referred to in subsection (1) or (2) makes an application to the court for the grant of an injunction or interim injunction or for the making of an order or interim order under this section, the court shall not require that person or any other person, as a condition of granting the injunction, order, interim injunction or interim order, to give any undertaking as to damages.
+(10) Where the Authority or any person referred to in subsection (1)(b) or (2)(b) makes an application to the court for the grant of an injunction or interim injunction or for the making of an order or interim order under this section, the court shall not require the Authority or that person, as the case may be, or any other person, as a condition of granting the injunction, interim injunction, order or interim order, to give any undertaking as to damages.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 (11) Subsection (7) shall not affect the powers of the court in relation to the punishment for contempt of court.
 
@@ -19981,9 +20257,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [15/2010 wef 02/01/2011]
 
-(2) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding the maximum fine prescribed for that offence.
+(2) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.
 
 [SIA, s. 117; FTA, s. 66]
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(3) The Authority may, in its discretion, compound any offence under this Act (including an offence under a provision that has been repealed) which —
+
+(a) was compoundable under this section at the time the offence was committed; but
+
+(b) has ceased to be so compoundable,
+
+by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence at the time it was committed.
+
+[Act 34 of 2012 wef 18/03/2013]
+
+(4) All sums collected by the Authority under subsection (2) or (3) shall be paid into the Consolidated Fund.
+
+[Act 34 of 2012 wef 18/03/2013]
 
 ### Exemption
 
@@ -20515,6 +20807,14 @@ Specified Provisions
 
 8\. Section 99(1)(h)
 
+8A. Section 99B(2)
+
+[Act 34 of 2012 wef 18/03/2013]
+
+8B. Section 99I(1)
+
+[Act 34 of 2012 wef 18/03/2013]
+
 9\. [Deleted by Act 2/2009 wef 01/10/2012]
 
 10\. Section 247(1)
@@ -20732,15 +21032,7 @@ This Legislative History is provided for the convenience of users of the Securit
 |||27 February 2008|
 |16.|**G. N. No. S 376/2008—Securities and Futures Act (Amendment of Second Schedule and Other Provisions to Act for REIT Management) Order 2008**|
 ||Date of commencement|1 August 2008|
-|17.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010 published on 26 April 2010)|
-||Date of Second and Third Readings|19 May 2010|
-||Date of commencement|2 January 2011|
-|18.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
-||Date of commencement|17 January 2012|
-|19.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+|17.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
 ||Date of First Reading|15 September 2008|
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
@@ -20750,6 +21042,19 @@ This Legislative History is provided for the convenience of users of the Securit
 |||26 November 2010|
 |||1 October 2012|
 |||19 November 2012|
+|18.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
+||Date of commencement|17 January 2012|
+|20.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 31/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|18 March 2013|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
