@@ -94,7 +94,7 @@
 
 - [25 Obligation to disclose product information to clients](#Obligation-to-disclose-product-information-to-clients)
 
-- [26 Statements by licensed financial advisers](#Statements-by-licensed-financial-advisers)
+- [26 False or misleading statements, etc., by licensed financial advisers](#False-or-misleading-statements-etc-by-licensed-financial-advisers)
 
 - [27 Recommendations by licensed financial advisers](#Recommendations-by-licensed-financial-advisers)
 
@@ -214,19 +214,49 @@
 
 [**Division 3  Investigative Powers of Authority**](#Division-3--Investigative-Powers-of-Authority)
 
+[**Subdivision 1 General**](#Subdivision-1-General)
+
 - [71 Investigation by Authority](#Investigation-by-Authority)
 
 - [71A Confidentiality of investigation reports](#Confidentiality-of-investigation-reports)
 
+[**Subdivision 2 Examination of persons**](#Subdivision-2-Examination-of-persons)
+
+- [71B Proceedings at examination](#Proceedings-at-examination)
+
+- [71C Requirement to appear for examination](#Requirement-to-appear-for-examination)
+
+- [71D Requirements made of examinee](#Requirements-made-of-examinee)
+
+- [71E Examination to take place in private](#Examination-to-take-place-in-private)
+
+- [71F Record of examination](#Record-of-examination)
+
+- [71G Giving copies of record to other persons](#Giving-copies-of-record-to-other-persons)
+
+- [71H Copies given subject to conditions or restrictions](#Copies-given-subject-to-conditions-or-restrictions)
+
+- [71I Offences under this Subdivision](#Offences-under-this-Subdivision)
+
+[**Subdivision 3 Powers to obtain information**](#Subdivision-3-Powers-to-obtain-information)
+
 - [72 Power to order production of books](#Power-to-order-production-of-books)
 
-- [73 Application for warrant to seize books not produced](#Application-for-warrant-to-seize-books-not-produced)
+- [72A Power to enter premises without warrant](#Power-to-enter-premises-without-warrant)
+
+- [73 Warrant to seize books, etc.](#Warrant-to-seize-books-etc)
 
 - [74 Powers where books are produced or seized](#Powers-where-books-are-produced-or-seized)
 
 - [75 Powers where books not produced](#Powers-where-books-not-produced)
 
 - [76 Offences under this Division](#Offences-under-this-Division)
+
+[**Division 4  Transfer of Evidence**](#Division-4--Transfer-of-Evidence)
+
+- [76A Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [76B Evidence obtained by Authority may be used in criminal investigations and proceedings](#Evidence-obtained-by-Authority-may-be-used-in-criminal-investigations-and-proceedings)
 
 [**Part VII ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES**](#Part-VII)
 
@@ -280,7 +310,11 @@
 
 - [98 Power of court to make certain orders](#Power-of-court-to-make-certain-orders)
 
-- [99 (Repealed)](#Repealed)
+- [99 Power of court to prohibit payment or transfer of moneys, investment products, etc.](#Power-of-court-to-prohibit-payment-or-transfer-of-moneys-investment-products-etc)
+
+- [99A Injunctions](#Injunctions)
+
+- [99B Court may have regard to claimant’s conduct](#Court-may-have-regard-to-claimant’s-conduct)
 
 - [100 General exemption](#General-exemption)
 
@@ -340,7 +374,9 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act (Cap. 161);
+
+[Act 35 of 2012 wef 18/03/2013]
 
 “appointed representative”, in respect of a type of financial advisory service, has the meaning given to that expression in section 23C, and “appointed representative” means an appointed representative in respect of any type of financial advisory service;
 
@@ -452,9 +488,9 @@ but does not include such contract or class of contracts as the Authority may pr
 
 (g) such other written law as the Authority may prescribe;
 
-“principal”, in relation to a representative, means a financial adviser whom the representative is in the direct employment of, acting for or by arrangement with, and on behalf of whom the representative provides any financial advisory service;
+“principal”, in relation to a representative, means a person whom the representative is in the direct employment of, is acting for or is acting by arrangement with, and on behalf of whom the representative provides or will provide any financial advisory service;
 
-[1/2009 wef 26/11/2010]
+[Act 35 of 2012 wef 18/03/2013]
 
 “provisional representative”, in respect of a type of financial advisory service, has the meaning given to that expression in section 23D, and “provisional representative” means a provisional representative in respect of any type of financial advisory service;
 
@@ -942,9 +978,17 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 
 (a) there exists a ground on which the Authority may refuse an application under section 9(1);
 
-(b) the licensed financial adviser has contravened any provision of this Act, or any condition or restriction imposed or any written direction given by the Authority under this Act;
+(b) the licensed financial adviser has contravened any provision of this Act, or any condition or restriction imposed or any written direction issued by the Authority under this Act;
 
-(c) it appears to the Authority that the licensed financial adviser has failed to satisfy any of its obligations under or arising from this Act;
+[Act 35 of 2012 wef 18/03/2013]
+
+(c) it appears to the Authority that the licensed financial adviser has failed to satisfy any of its obligations under or arising from —
+
+(i) this Act; or
+
+(ii) any written direction issued by the Authority under this Act;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (d) it appears to the Authority that the licensed financial adviser is carrying on its business in a manner that is —
 
@@ -957,6 +1001,10 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 (f) the Authority has reason to believe that the licensed financial adviser, or any of its officers or employees, has not performed its or his duties efficiently, honestly or fairly;
 
 (g) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensed financial adviser;
+
+(ga) the Authority has reason to believe that the licensed financial adviser has not acted in the best interests of its clients;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (h) the licensed financial adviser fails to pay the licence fee referred to in section 14; or
 
@@ -1356,6 +1404,14 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (c) in the case of a provisional representative, an undertaking by the principal to undertake such responsibilities in relation to the representative as may be prescribed.
 
+(1A) Subsection (1) shall not apply to a principal who desires to appoint, as an appointed representative in respect of any type of financial advisory service, an individual who is a provisional representative in respect of that type of financial advisory service, if —
+
+(a) that individual has satisfied the examination requirements specified for that type of financial advisory service; and
+
+(b) the principal has informed the Authority of that fact in the prescribed form and manner under section 23D(5).
+
+[Act 35 of 2012 wef 18/03/2013]
+
 (2) Subject to section 23J, the Authority shall, upon receipt of the documents lodged in accordance with subsection (1), enter in the public register of representatives the name of the representative, whether he is an appointed or provisional representative, the type of financial advisory service which he may provide, and such other particulars as the Authority considers appropriate.
 
 (3) The Authority may refuse to enter in the public register of representatives the particulars referred to in subsection (2) of the representative if the fee referred to in section 23H(1) or (3) (if applicable) is not paid.
@@ -1364,7 +1420,9 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (5) Where a change occurs in any particulars of the appointed or provisional representative in any document required to be furnished to the Authority under subsection (1), the principal shall, no later than 14 days after the occurrence of such change, furnish particulars of such change to the Authority, in the prescribed form and manner.
 
-(6) A principal who contravenes subsection (4) or (5) shall be guilty of an offence.
+(6) A principal who contravenes subsection (4) shall be guilty of an offence.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Representative to act for only one principal
 
@@ -1434,7 +1492,9 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (h) in the case of the revocation of the status of an individual as an appointed or provisional representative —
 
-(i) he or his principal fails to satisfy the Authority, pursuant to a requirement imposed by the Authority as a condition of licence, under section 23K or by regulations (as the case may be), that he remains a fit and proper person to be an appointed or provisional representative or to perform the type of financial advisory service for which he is appointed;
+(i) he or his principal fails to satisfy the Authority, pursuant to a requirement imposed by the Authority as a condition for him to be an appointed or provisional representative, under section 23K or by regulations (as the case may be), that he remains a fit and proper person to be an appointed or provisional representative or to perform the type of financial advisory service for which he is appointed;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (ii) the Authority is not satisfied with —
 
@@ -1442,9 +1502,17 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (B) his record of past performance or expertise,
 
-having regard to the nature of his duties as an appointed or provisional representative; or
+having regard to the nature of his duties as an appointed or provisional representative;
 
-(iii) the Authority has reason to believe that he will not perform the type of financial advisory service for which he is appointed efficiently, honestly or fairly;
+[Act 35 of 2012 wef 18/03/2013]
+
+(iii) the Authority has reason to believe that he has not performed, or will not perform, the type of financial advisory service for which he is appointed efficiently, honestly or fairly; or
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(iv) the Authority has reason to believe that he has not acted in the best interests of the clients of his principal;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (i) the Authority has reason to believe that he may not be able to act in the best interests of the clients of his principal, having regard to his reputation, character, financial integrity and reliability;
 
@@ -1459,6 +1527,14 @@ having regard to the nature of his duties as an appointed or provisional represe
 (n) the Authority has reason to believe that any information or document that is furnished by him or his principal to the Authority is false or misleading;
 
 (o) he has contravened any provision of this Act applicable to him, any condition or restriction imposed on him under this Act or any direction issued to him by the Authority under this Act;
+
+(oa) it appears to the Authority that he has failed to satisfy any of his obligations under or arising from —
+
+(i) this Act; or
+
+(ii) any written direction issued by the Authority under this Act;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (p) a prohibition order under section 59 has been made by the Authority, and remains in force, against him;
 
@@ -1622,7 +1698,7 @@ General
 
 [1/2009 wef 26/11/2010]
 
-(2) The Authority may specify, in written directions, the information required to be disclosed under subsection (1)(a), (b) or (c), and the form or manner in which information relating to any designated investment product may be disclosed to any client of a licensed financial adviser.
+(2) The Authority may specify, in written directions, the information required to be disclosed under subsection (1)(a), (b) or (c), and the form or manner in which information relating to any designated investment product may be disclosed to any client of a icensed financial adviser.
 
 [1/2009 wef 26/11/2010]
 
@@ -1650,6 +1726,20 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2009 wef 26/11/2010]
 
+(5A) Where, on or after the date of commencement of section 6 of the Financial Advisers (Amendment) Act 2012 —
+
+(a) a licensed financial adviser, in making a recommendation to a person, contravenes subsection (1);
+
+(b) that person does, or refrains from doing, a particular act as a result of that contravention;
+
+(c) it is reasonable, having regard to that contravention and all other relevant circumstances, for that person to do, or refrain from doing, as the case may be, that act as a result of that contravention; and
+
+(d) that person suffers any loss or damage as a result of doing, or refraining from doing, as the case may be, that act,
+
+then, without prejudice to any other remedy available to that person, the licensed financial adviser is liable to pay damages to that person in respect of that loss or damage.
+
+[Act 35 of 2012 wef 18/03/2013]
+
 (6) In this section —
 
 “client”, in relation to a designated investment product which is a group life policy under which any person insured is liable to pay the premium, includes every person insured under the group life policy;
@@ -1660,23 +1750,71 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Insurance Intermediaries, ss. 5, 9; SIA, s. 50]
 
-### Statements by licensed financial advisers
+### False or misleading statements, etc., by licensed financial advisers
 
-26\.—(1) No licensed financial adviser shall, with intent to deceive, make a false or misleading statement as to —
+26\.—(1) A licensed financial adviser shall not make a false or misleading statement —
 
-(a) any amount that would be payable in respect of a proposed contract in respect of any investment product; or
+(a) as to any amount that would be payable in respect of a proposed contract in respect of any investment product;
 
-(b) the effect of any provision of a contract or a proposed contract in respect of any investment product.
+(b) as to the effect of any provision of a contract or a proposed contract in respect of any investment product; or
 
-[1/2009 wef 26/11/2010]
+(c) in connection with the provision of any financial advisory service,
 
-(2) A reference in subsection (1) to the making of a misleading statement includes a reference to omitting to disclose any matter that is material to the statement.
+if, when he makes the statement —
 
-(3) Any licensed financial adviser who contravenes subsection (1) shall, notwithstanding that a contract does not come into being, be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+(i) he does not care whether the statement is true or false; or
+
+(ii) he knows or ought reasonably to have known that the statement is false or misleading.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(1A) A licensed financial adviser shall not, in connection with the provision of any financial advisory service —
+
+(a) employ any device, scheme or artifice to defraud; or
+
+(b) engage in any act, practice or course of business which operates as a fraud or deception, or is likely to operate as a fraud or deception, upon any person.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(1B) Where, on or after the date of commencement of section 7(a) of the Financial Advisers (Amendment) Act 2012 —
+
+(a) a licensed financial adviser makes a false or misleading statement referred to in subsection (1) and thereby contravenes that subsection;
+
+(b) a person, in reliance on that statement, does, or refrains from doing, a particular act;
+
+(c) it is reasonable, having regard to that statement and all other relevant circumstances, for that person to do, or refrain from doing, as the case may be, that act, in reliance on that statement; and
+
+(d) that person suffers any loss or damage as a result of doing, or refraining from doing, as the case may be, that act,
+
+then, without prejudice to any other remedy available to that person, the licensed financial adviser is liable to pay damages to that person in respect of that loss or damage.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(1C) Where, on or after the date of commencement of section 7(a) of the Financial Advisers (Amendment) Act 2012 —
+
+(a) a licensed financial adviser contravenes subsection (1A);
+
+(b) a person does, or refrains from doing, a particular act as a result of that contravention;
+
+(c) it is reasonable, having regard to that contravention and all other relevant circumstances, for that person to do, or refrain from doing, as the case may be, that act as a result of that contravention; and
+
+(d) that person suffers any loss or damage as a result of doing, or refraining from doing, as the case may be, that act,
+
+then, without prejudice to any other remedy available to that person, the licensed financial adviser is liable to pay damages to that person in respect of that loss or damage.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(2) A reference in subsection (1) to the making of a false or misleading statement includes a reference to omitting to disclose any matter that is material to the statement.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(3) Any licensed financial adviser who contravenes subsection (1) or (1A) shall, notwithstanding that a contract does not come into being, be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [1/2009 wef 26/11/2010]
 
 [Insurance Intermediaries, s. 6 (1), (2) and (5)]
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Recommendations by licensed financial advisers
 
@@ -1908,7 +2046,7 @@ as the case may be.
 
 (c) notwithstanding section 2(1) or 3, a person is not connected to or associated with another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
 
-(4) [Deleted by Act 15 of 2003]
+(4) [Deleted byAct 15 of 2003]
 
 (5) When a licensed financial adviser sends to a person a circular or other communication to which subsection (1) applies, the licensed financial adviser shall preserve a copy of the circular or other communication for 5 years.
 
@@ -2016,7 +2154,7 @@ Audit
 
 [SF Bill, Clause 106]
 
-### Lodgment of annual accounts, etc., by licensed financial adviser
+### Lodgment of annual accounts, etc., by licensed fiinancial adviser
 
 48\.—(1) A licensed financial adviser shall, in respect of each financial year —
 
@@ -2410,7 +2548,7 @@ if the Authority is satisfied that —
 
 ### Power of Authority to issue written directions
 
-58\.—(1) The Authority may, if it thinks necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to —
+58\.—(1) The Authority may, if it thinks it necessary or expedient in the interests of the public or a section of the public or for the protection of investors, issue written directions, either of a general or specific nature, to —
 
 (a) any licensed financial adviser;
 
@@ -2427,6 +2565,8 @@ if the Authority is satisfied that —
 to comply with such requirements as the Authority may specify in the written directions, or for any other purpose.
 
 [15/2003; 2/2005]
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (2) Without prejudice to the generality of subsection (1), written directions may be issued —
 
@@ -2474,7 +2614,9 @@ in the conduct of his business, including the provision of any financial advisor
 
 [15/2003; 2/2005]
 
-(3) For the avoidance of doubt, any written direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(3) It shall not be necessary to publish any written direction issued under subsection (1) in theGazette.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (4) The Authority may at any time vary, rescind or revoke any written direction issued under subsection (1).
 
@@ -2502,7 +2644,27 @@ in the conduct of his business, including the provision of any financial advisor
 
 [1/2009 wef 26/11/2010]
 
-(c) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened, any provision of this Act;
+(bb) where the person (not being a person referred to in paragraph (bd)) is or was a representative of an exempt financial adviser, the Authority has reason to believe that circumstances exist under which, if the person were an appointed or provisional representative, there would exist a ground on which the Authority may revoke under section 23J his status as an appointed or provisional representative;
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(bc) where the person (not being a person referred to in paragraph (bd)) is or was a representative of a licensed financial adviser, the Authority has reason to believe that circumstances exist under which there would exist a ground on which the Authority may revoke under section 23J his status as an appointed or provisional representative;
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(bd) where the person is or was a representative of a financial adviser, and is exempted from section 23B(1) by the Authority under section 23B(2), the Authority has reason to believe that circumstances exist under which, if the person were an appointed representative, there would exist a ground on which the Authority may revoke under section 23J his status as an appointed representative;
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(c) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened —
+
+(i) any provision of this Act;
+
+(ii) any condition or restriction imposed by the Authority under this Act; or
+
+(iii) any written direction issued by the Authority under this Act;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (d) the person has been convicted of an offence under this Act or has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly;
 
@@ -2854,6 +3016,10 @@ Division 3 —
 
 Investigative Powers of Authority
 
+Subdivision (1) —
+
+General
+
 ### Investigation by Authority
 
 71\.—(1) The Authority may conduct such investigation as it considers necessary or expedient for any of the following purposes:
@@ -2876,7 +3042,9 @@ Investigative Powers of Authority
 
 (b) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this Division.
 
-[SF Bill, Clause 152]
+(6) In this section, “requirement imposed by the Authority” includes a requirement imposed by an investigator under Subdivision (2) or (3).
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Confidentiality of investigation reports
 
@@ -2904,47 +3072,211 @@ Investigative Powers of Authority
 
 (c) where the disclosure was made in an electronic form, he had as soon as practicable after receiving the report taken all reasonable steps to ensure that all electronic copies of the report had been deleted and that the report and all copies thereof in other forms had been surrendered to the Authority.
 
-[1/2009 wef 26/11/2010]
+Subdivision (2) —
+
+Examination of persons
+
+### Proceedings at examination
+
+71B\. The provisions of this Subdivision shall apply where, pursuant to a requirement made under section 71C for the purposes of an investigation under this Division, a person (referred to in this Subdivision as the examinee) appears before another person (referred to in this Subdivision as the investigator) for examination.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Requirement to appear for examination
+
+71C\.—(1) For the purpose of an investigation under this Division, the Authority may, in writing, require a person —
+
+(a) to give the Authority all reasonable assistance in connection with the investigation; and
+
+(b) to appear before an officer of the Authority duly authorised by the Authority for examination on oath and to answer questions.
+
+(2) A requirement in writing imposed under subsection (1) shall state the general nature of the matter investigated or to be investigated under this Division.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Requirements made of examinee
+
+71D\.—(1) The investigator may examine the examinee on oath or affirmation and may, for that purpose, administer an oath or affirmation to the examinee.
+
+(2) The oath or affirmation to be taken or made by the examinee for the purposes of the examination is an oath or affirmation that the statements that the examinee will make are true.
+
+(3) The investigator may require the examinee to answer a question that is put to the examinee at the examination and is relevant to a matter that the Authority is investigating, or is to investigate, under this Division.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Examination to take place in private
+
+71E\.—(1) The examination shall take place in private and the investigator may give directions as to who may be present during the examination or part thereof.
+
+(2) A person shall not be present at the examination unless he is —
+
+(a) the investigator or the examinee;
+
+(b) a person approved by the Authority; or
+
+(c) entitled to be present by virtue of a direction under subsection (1).
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Record of examination
+
+71F\.—(1) The investigator may, and shall if the examinee so requests, cause a record to be made of statements made at the examination.
+
+(2) If a record made under subsection (1) is in writing or is reduced to writing —
+
+(a) the investigator may require the examinee to read the record, or have it read to the examinee, and may require the examinee to sign it; and
+
+(b) the investigator shall, if requested in writing by the examinee to give to the examinee a copy of the written record, comply with the request without charge but subject to such conditions as the investigator may impose.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Giving copies of record to other persons
+
+71G\.—(1) The Authority may give a copy of a written record of the examination, or such a copy together with a copy of any related book, to an advocate and solicitor acting on behalf of a person who is carrying on, or is contemplating in good faith, a legal proceeding in respect of a matter to which the examination relates.
+
+(2) If the Authority gives a copy to a person under subsection (1), the person, or any person who has possession, custody or control of the copy or a copy of it, shall not, except in connection with preparing, beginning or carrying on, or in the course of, any legal proceedings —
+
+(a) use the copy or a copy of it; or
+
+(b) publish, or communicate to a person, the copy, a copy of it, or any part of the contents of the copy.
+
+(3) The Authority may, subject to such conditions or restrictions as it may impose, give to a person a copy of a written record of the examination, or the copy together with a copy of any related book.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Copies given subject to conditions or restrictions
+
+71H\. If a copy of a written record or a book is given to a person under section 71F(2) or 71G(3) subject to conditions or restrictions imposed by the investigator or the Authority (as the case may be), the person, and any other person who has possession, custody or control of the copy or a copy of it, shall comply with the conditions or restrictions.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Offences under this Subdivision
+
+71I\.—(1) A person who, without reasonable excuse, refuses or fails to comply with a requirement under section 71C or 71D(3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) A person who, without reasonable excuse —
+
+(a) refuses or fails to take an oath or make an affirmation when required to do so by an investigator examining him under this Subdivision;
+
+(b) refuses or fails to comply with a requirement of an investigator under section 71F(2)(a); or
+
+(c) refuses or fails to comply with section 71G(2) or 71H,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) A person who, in purported compliance with the provisions of this Subdivision, or in the course of examination of the person, furnishes information or makes a statement that is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) It shall be a defence to a prosecution for an offence under subsection (3) if the defendant proves that he believed on reasonable grounds that the information or statement was true and was not misleading.
+
+(5) A person who, without reasonable excuse, obstructs or hinders the Authority or another person in the exercise of any power under this Subdivision shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+Subdivision (3) —
+
+Powers to obtain information
 
 ### Power to order production of books
 
 72\. For the purpose of an investigation under this Division, the Authority may, in writing, require any person to provide information or produce any book relating to any matter under investigation at a specified time and place, and such person shall immediately comply with that requirement.
 
-[SF Bill, Clause 163]
+### Power to enter premises without warrant
 
-### Application for warrant to seize books not produced
+72A\.—(1) In connection with an investigation under this Division, any officer of the Authority who is authorised by the Authority to do so (referred to in this section as an investigator) and such other officers or persons as the Authority has authorised in writing to accompany the investigator (each referred to in this section as an authorised person) may enter any premises.
 
-73\.—(1) Where the Authority has reasonable grounds to suspect that there is, on particular premises, any book the production of which has been required under of section 72, and —
+(2) No investigator and no authorised person accompanying the investigator shall enter any premises in the exercise of the powers under this section unless the investigator has given the occupier of the premises a written notice which —
 
-(a) which has not been produced in compliance with that requirement; or
+(a) gives at least 2 working days’ notice of the intended entry;
 
-(b) which the Authority has reasonable grounds to believe will not be produced in compliance with that requirement,
+(b) indicates the subject-matter and purpose of the investigation; and
 
-the Authority may apply to a Magistrate for the issue of a warrant to search the premises for such book.
+(c) indicates the nature of the offences created by section 76.
 
-(2) Whenever it appears to a Magistrate, upon an application made under subsection (1) and after such enquiry as he may think necessary, that there are reasonable grounds for suspecting that there is, on particular premises, any book the production of which has been required under section 72, and —
+(3) Subsection (2) shall not apply —
 
-(a) which has not been produced in compliance with that requirement; or
+(a) if the investigation relates to an alleged or suspected contravention of any provision of Part III, and the investigator has reasonable grounds for suspecting that the premises are, or have been, occupied by a person who is being investigated in relation to the contravention; or
 
-(b) which the Magistrate has reasonable grounds to suspect will not be produced in compliance with that requirement,
+(b) if the investigator has taken all such steps as are reasonably practicable to give notice under subsection (2)(a) but has not been able to do so.
 
-the Magistrate may issue a warrant authorising the Authority or any person named therein, with or without assistance —
+(4) Where subsection (3) applies, the power of entry conferred by subsection (1) shall only be exercised upon production of —
 
-(i) to enter and search the premises and to break open and search anything, whether a fixture or not, in the premises; and
+(a) evidence of the investigator’s authorisation and the authorisation of every authorised person accompanying him; and
 
-(ii) to take possession of, or secure against interference, any book that appears to be a book the production of which was so required.
+(b) a document containing the information referred to in subsection (2)(b) and (c).
 
-(3) The powers conferred under subsections (1) and (2) are in addition to, and are not in derogation of, any other power conferred by any other written law or rule of law.
+(5) An investigator or authorised person entering any premises under this section may —
 
-(4) In this section, “premises” includes any structure, building, aircraft, vehicle, vessel or place.
+(a) take with him such equipment as appears to him to be necessary;
 
-[SF Bill, Clause 164]
+(b) require any person on the premises to produce any book which the investigator or authorised person considers relates to any matter relevant to the investigation;
+
+(c) require any person on the premises to state, to the best of the person’s knowledge and belief, where any such book is to be found; and
+
+(d) take any step, or issue to any person on the premises any requirement, which appears to be necessary for the purpose of preserving or preventing interference with any book which the investigator or authorised person considers relates to any matter relevant to the investigation.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Warrant to seize books, etc.
+
+73\.—(1) A Magistrate may, on the application of the Authority —
+
+(a) issue a warrant, if the Magistrate is satisfied that there are reasonable grounds to suspect that there is, on any particular premises, any book —
+
+(i) the production of which has been required by the Authority under section 72 or by an investigator or authorised person under section 72A, but which has not been produced in compliance with that requirement; or
+
+(ii) which, if required by the Authority under section 72 to be produced, will be concealed, removed, tampered with or destroyed; and
+
+(b) if the Magistrate is also satisfied that there are reasonable grounds to suspect that there is, on those premises, any other book which relates to any matter relevant to the investigation concerned, direct that the powers exercisable under the warrant shall extend to that other book.
+
+(2) A warrant issued under subsection (1) shall authorise the Authority or any person named in the warrant, with or without assistance —
+
+(a) to enter the premises specified in the warrant, using such force as is reasonably necessary for the purpose;
+
+(b) to search the premises and to break open and search anything, whether a fixture or not, in the premises;
+
+(c) to take possession of, or secure against interference, any book that appears to be a book referred to in subsection (1)(a) or, where applicable, subsection (1)(b);
+
+(d) to require any person to provide an explanation of any book that appears to be a book referred to in subsection (1)(a) or, where applicable, subsection (1)(b), or to state, to the best of that person’s knowledge and belief, where any such book may be found;
+
+(e) to search any person on those premises, if there are reasonable grounds to suspect that the person has in his possession any book referred to in subsection (1)(a) or, where applicable, subsection (1)(b), or any equipment or article which relates to any matter relevant to the investigation concerned; and
+
+(f) to remove from those premises for examination any book that appears to be a book referred to in subsection (1)(a) or, where applicable, subsection (1)(b), or any equipment or article which relates to any matter relevant to the investigation concerned.
+
+(3) The Authority or any person named in the warrant to execute it may allow any equipment or article referred to in subsection (2)(f) to be retained on the premises specified in the warrant to be searched, subject to such conditions as the Authority or that person may require.
+
+(4) Any person entering any premises by virtue of a warrant issued under subsection (1) may take with him such equipment as appears to him to be necessary.
+
+(5) Where a warrant is issued under subsection (1), and there is no one present at the premises specified in the warrant to be searched when the Authority or any person named in the warrant proposes to execute the warrant, the Authority or that person shall, before executing the warrant —
+
+(a) take such steps as are reasonable in all the circumstances to inform the occupier of the premises of the intended entry into the premises; and
+
+(b) subject to subsection (6), give the occupier or the occupier’s legal or other representative a reasonable opportunity to be present when the warrant is executed.
+
+(6) If the Authority or any person named in the warrant to execute it is unable to inform the occupier of the premises of the intended entry into the premises, the Authority or that person shall, when executing the warrant, leave a copy of the warrant in a prominent place on the premises.
+
+(7) On leaving any premises specified in a warrant issued under subsection (1), the Authority or any person named in the warrant to execute it shall, if the premises are unoccupied or if the occupier of the premises is temporarily absent, leave the premises as effectively secured as the Authority or that person found the premises.
+
+(8) The powers conferred by this section are in addition to, and not in derogation of, any other powers conferred by any other written law or rule of law.
+
+(9) In this section —
+
+“occupier”, in relation to any premises specified in a warrant issued under subsection (1), includes any person whom the Authority or any person named in the warrant to execute it reasonably believes to be the occupier of those premises;
+
+“premises” includes any structure, building, aircraft, vehicle or vessel.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Powers where books are produced or seized
 
 74\.—(1) This section shall apply where —
 
-(a) books are produced to the Authority under a requirement imposed under section 72;
+(a) books are produced to the Authority —
+
+(i) pursuant to a requirement of the Authority under section 72 or of an investigator or authorised person under section 72A(5); or
+
+(ii) during an entry into any premises by an investigator or authorised person under section 72A;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (b) under a warrant issued under section 73, the Authority or a person named therein —
 
@@ -2960,7 +3292,9 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (a) inspect, and make copies of, or take extracts from, any of the books;
 
-(b) use, or permit the use of, any of the books for the purposes of any proceedings; and
+(b) use, or permit the use of, any of the books for the purposes of any proceedings;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (c) retain possession of any of the books for so long as is necessary —
 
@@ -2968,7 +3302,13 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (ii) for a decision to be made on whether or not proceedings should be commenced under this Act in relation to such book; or
 
-(iii) for such proceedings to be commenced and carried on.
+(iii) for such proceedings to be commenced and carried on; and
+
+[Act 35 of 2012 wef 18/03/2013]
+
+(d) require any book which the Authority or person referred to in subsection (1)(b) is satisfied relates to any matter relevant to an investigation under this Division, and which is stored in any electronic form, to be produced in a form which can be taken away and which is visible and legible.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (4) No person shall be entitled, as against the Authority or, where applicable, a person referred to in subsection (1)(b), to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
 
@@ -2978,9 +3318,11 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (b) may permit any other person to inspect any of the books.
 
-(6) Unless subsection (1)(b)(ii) applies, a person referred to in subsection (1)(b) may deliver any of the books into the possession of the Authority or of a person authorised by it to receive them.
+(6) Unless subsection (1)(b)(ii) applies, an investigator or authorised person referred to in subsection (1)(a) or a person referred to in subsection (1)(b) may deliver any of the books into the possession of the Authority or of a person authorised by it to receive them.
 
-(7) If subsection (1)(a) or (b) applies, the Authority, a person referred to in subsection (1) (b) or a person into whose possession the books are delivered under subsection (6), may require —
+[Act 35 of 2012 wef 18/03/2013]
+
+(7) Without prejudice to sections 72A(5) and 73(2)(d), if subsection (1)(a) or (b) applies, the Authority, an investigator or authorised person referred to in subsection (1)(a), a person referred to in subsection (1) (b) or a person into whose possession the books are delivered under subsection (6), may require —
 
 (a) if subsection (1)(a) applies, a person who so produced any of the books; or
 
@@ -2988,7 +3330,7 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 to explain, to the best of his knowledge and belief, any matter about the compilation of any of the books or to which any of the books relate.
 
-[SF Bill, Clause 165; ASIC 2001, s. 37]
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Powers where books not produced
 
@@ -2998,23 +3340,59 @@ to explain, to the best of his knowledge and belief, any matter about the compil
 
 (b) the person who last had possession, custody or control of such book and the place where that person may be found.
 
-[SF Bill, Clause 166; ASIC 2001, s. 38]
-
 ### Offences under this Division
 
-76\.—(1) Any person who, without reasonable excuse, refuses or fails to comply with a requirement imposed under section 72, 74(7) or 75 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+76\.—(1) Any person who, without reasonable excuse, refuses or fails to comply with a requirement imposed under section 72, 72A(5), 74(3)(d) or (7) or 75, or pursuant to an authorisation referred to in section 73(2)(d), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) Any person who, in purported compliance with a requirement imposed under section 72, 74(7) or 75, furnishes information or makes a statement that is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 35 of 2012 wef 18/03/2013]
+
+(2) Any person who, in purported compliance with a requirement imposed under this Subdivision, furnishes information or makes a statement that is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (3) It shall be a defence to a prosecution for an offence under subsection (2) if the defendant proves that he believed on reasonable grounds that the information or statement was true and not misleading.
 
-(4) Any person who conceals, destroys, mutilates or alters any book relating to a matter that the Authority is investigating or about to investigate under this Division or, where such a book is within the territory of Singapore, takes or sends the book out of Singapore, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+(4) Any person, who conceals, destroys, mutilates or alters any book, equipment or article relating to a matter that the Authority is investigating or about to investigate under this Division or who, where any such book, equipment or article is within the territory of Singapore, takes or sends the book, equipment or article out of Singapore, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(5) Any person who, without reasonable excuse, obstructs or hinders the Authority in the exercise of any power under section 72, 74 or 75, or obstructs or hinders a person who is executing a warrant issued under section 73, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 35 of 2012 wef 18/03/2013]
 
-(6) The occupier, or person in charge, of the premises that a person enters under a warrant issued under section 73 who fails to provide to that person all reasonable facilities and assistance for the effective exercise of his powers under the warrant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) Any person who, without reasonable excuse, obstructs or hinders the Authority in the exercise of any power under section 72, 74 or 75, or obstructs or hinders a person who is exercising any power under section 72A(1) or (5) or executing a warrant issued under section 73, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[SF Bill, Clause 168; ASIC 2001, ss. 63-67]
+[Act 35 of 2012 wef 18/03/2013]
+
+(6) Any occupier or person in charge of any premises who fails to provide, to any person who enters those premises under section 72A(1) or under a warrant issued under section 73(1), all reasonable facilities and assistance for the effective exercise of that person’s powers under section 72A(1) or (5) or under the warrant, as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+Division 4 —
+
+Transfer of Evidence
+
+### Interpretation of this Division
+
+76A\. In this Division —
+
+“Commercial Affairs Officer” means a Commercial Affairs Officer appointed under section 64 of the Police Force Act (Cap. 235);
+
+“police officer” means a member of the Singapore Police Force who is deployed in the Commercial Affairs Department of that Force.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Evidence obtained by Authority may be used in criminal investigations and proceedings
+
+76B\.—(1) Notwithstanding the provisions of any written law or any rule of law, the Authority may furnish any book, document, written record of any examination or other information obtained by the Authority in the exercise of its powers under this Part to —
+
+(a) a police officer;
+
+(b) a Commercial Affairs Officer; or
+
+(c) the Public Prosecutor,
+
+for the purposes of any investigation into or criminal proceedings against a person for an alleged contravention of any provision under this Act.
+
+(2) For the avoidance of doubt, any book, document, written record of examination or other information furnished by the Authority under subsection (1) shall not be inadmissible in any criminal proceedings by reason only that it was first obtained by the Authority in the exercise of its powers under this Act, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ## PART VII
 
@@ -3268,7 +3646,19 @@ shall use due care to ensure that the document is not false or misleading in any
 
 ### Composition of offences
 
-89\. The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding the maximum fine prescribed for that offence.
+89\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.
+
+(2) The Authority may, in its discretion, compound any offence under this Act (including an offence under a provision that has been repealed) which —
+
+(a) was compoundable under this section at the time the offence was committed; but
+
+(b) has ceased to be so compoundable,
+
+by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence at the time it was committed.
+
+(3) All sums collected by the Authority under subsection (1) or (2) shall be paid into the Consolidated Fund.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Territorial scope of Act
 
@@ -3430,9 +3820,109 @@ the court may, without prejudice to any order it would be entitled to make other
 
 [SIA, s. 13]
 
-Immunity of Authority and its employees, etc.
+### Power of court to prohibit payment or transfer of moneys, investment products, etc.
 
-99\. [Repealed byAct 24 of 2003]
+99\.—(1) A court may, on an application by the Authority, make one or more of the orders referred to in subsection (2) where —
+
+(a) an investigation is being carried out under this Act in relation to any act or omission by a person, being an act or omission that constitutes or may constitute a contravention of this Act;
+
+(b) a criminal proceeding has been instituted against a person for an offence under this Act; or
+
+(c) a civil proceeding has been instituted against a person under this Act, and the court considers it necessary or desirable to do so for the purpose of protecting the interests of any person to whom the person referred to in paragraph (a) or (b) or this paragraph (referred to in this section as the relevant person) is liable or may become liable to pay any moneys, whether in respect of a debt, or by way of damages or otherwise, or to account for any investment products or other property.
+
+(2) The orders of court that may be made under subsection (1) are as follows:
+
+(a) an order prohibiting, either absolutely or subject to conditions, a person who is indebted to the relevant person or any person associated with the relevant person from making a payment in total or partial discharge of such debt that is due or accruing due to the relevant person, or to another person at the direction or request of the relevant person;
+
+(b) an order prohibiting, either absolutely or subject to conditions, a person holding moneys, investment products or other property, on behalf of the relevant person or on behalf of any person associated with the relevant person, from paying, transferring or otherwise parting with possession of all or any of the moneys, investment products or other property, to the relevant person, or to another person at the direction or request of the relevant person;
+
+(c) an order prohibiting, either absolutely or subject to conditions, the taking or sending out of Singapore of moneys of the relevant person or of any person associated with the relevant person;
+
+(d) an order prohibiting, either absolutely or subject to conditions, the taking, sending or transfer of investment products or documents of title to investment products or other property of the relevant person or of any person who is associated with the relevant person, from a place or person in Singapore to a place or person outside Singapore (including the transfer of securities from a register in Singapore to a register outside Singapore);
+
+(e) an order appointing —
+
+(i) where the relevant person is an individual, a receiver, having such powers as the court orders, of the property or part of the property of the relevant person; or
+
+(ii) where the relevant person is a corporation, a receiver or receiver and manager, having such powers as the court orders, of the property or part of the property of the relevant person;
+
+(f) where the relevant person is an individual, an order requiring the relevant person to deliver up to the court his passport and such other documents as the court thinks fit;
+
+(g) where the relevant person is an individual, an order prohibiting the relevant person from leaving Singapore without the consent of the court.
+
+(3) Where an application is made to the court for any order referred to in subsection (2), the court may, if the court is of the opinion that it is desirable to do so, before considering the application, make any interim order as it thinks fit pending the determination of the application.
+
+(4) Where the Authority makes an application to the court for the making of an order or interim order under this section, the court shall not require the Authority or any other person, as a condition of granting the order or interim order, to give any undertaking as to damages.
+
+(5) Where the court has made an order or interim order under this section, the court may, on application by the Authority or by any person affected by the order or interim order, rescind or vary the order or interim order.
+
+(6) An order or interim order made under this section may be expressed to operate for a period specified in the order or interim order or until the order or interim order is rescinded.
+
+(7) Any person who contravenes an order or interim order made by the court under this section that is applicable to him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(8) Subsection (7) shall not affect the powers of the court in relation to the punishment for contempt of court.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Injunctions
+
+99A\.—(1) Where a person has engaged, is engaging or is likely to engage in any conduct that constitutes or would constitute a contravention of this Act, the court may, on the application of —
+
+(a) the Authority; or
+
+(b) any person whose interests have been, are or would be affected by the conduct,
+
+grant an injunction restraining the first-mentioned person from engaging in the conduct and, if the court is of the opinion that it is desirable to do so, requiring that person to do any act or thing.
+
+(2) Where a person has refused or failed, is refusing or failing, or is likely to refuse or fail, to do any act or thing that he is required by this Act to do, the court may, on the application of —
+
+(a) the Authority; or
+
+(b) any person whose interests have been, are or would be affected by the refusal or failure to do that act or thing,
+
+make an order requiring the first-mentioned person to do that act or thing.
+
+(3) Where an application is made to the court for an injunction under subsection (1) or an order under subsection (2), the court may, if the court is of the opinion that it is desirable to do so, before considering the application, grant an interim injunction restraining a person from engaging in conduct of the kind referred to in subsection (1) or make an interim order requiring a person to do any act or thing, pending the determination of the application.
+
+(4) Where the court has power under this section to grant an injunction or interim injunction or make an order or interim order restraining a person from engaging in conduct of a particular kind, or requiring a person to do a particular act or thing, the court may, either in addition to or in substitution for the injunction, interim injunction, order or interim order, order that person to pay damages to any other person.
+
+(5) Where the court has granted an injunction or interim injunction or made an order or interim order under this section, the court may, on an application by any party referred to in subsection (1) or (2) or by any person affected by the injunction, interim injunction, order or interim order, rescind or vary the injunction, interim injunction, order or interim order.
+
+(6) An injunction, interim injunction, order or interim order granted or made under this section may be expressed to operate for a period specified in the injunction, interim injunction, order or interim order or until the injunction, interim injunction, order or interim order is rescinded.
+
+(7) Any person who contravenes an injunction, interim injunction, order or interim order by the court under this section that is applicable to him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(8) Where an application is made to the court for the grant of an injunction under subsection (1), the power of the court to grant the injunction may be exercised —
+
+(a) if the court is satisfied that the person has engaged in conduct of that kind, whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
+
+(b) if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind, whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first mentioned person engages in conduct of that kind.
+
+(9) Where an application is made to the court for the making of an order under subsection (2), the power of the court to make the order may be exercised —
+
+(a) if the court is satisfied that the person has refused or failed to do that act or thing, whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
+
+(b) if it appears to the court that, in the event that an order is not made, it is likely the person will refuse or fail to do that act or thing, whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first mentioned person refuses or fails to do that act or thing.
+
+(10) Where the Authority or any person referred to in subsection (1)(b) or (2)(b) makes an application to the court for the grant of an injunction or interim injunction or for the making of an order or interim order under this section, the court shall not require the Authority or that person, as the case may be, or any other person, as a condition of granting the injunction, interim injunction, order or interim order, to give any undertaking as to damages.
+
+(11) Subsection (7) shall not affect the powers of the court in relation to the punishment for contempt of court.
+
+[Act 35 of 2012 wef 18/03/2013]
+
+### Court may have regard to claimant’s conduct
+
+99B\.—(1) Where, in any proceedings commenced pursuant to section 25(5A), 26(1B) or (1C) or 27(3) by a person (referred to in this section as the claimant) against a licensed financial adviser or an exempt financial adviser, the court finds that the licensed financial adviser or exempt financial adviser is liable to pay damages to the claimant under section 25(5A), 26(1B) or (1C) or 27(3), as the case may be, the court shall, in making any order in those proceedings, have regard to whether or not the claimant made a reasonable effort to —
+
+(a) minimise any loss or damage referred to in section 25(5A), 26(1B) or (1C) or 27(3), as the case may be, that was suffered by the claimant; and
+
+(b) resolve the dispute with the licensed financial adviser or exempt financial adviser before commencing those proceedings.
+
+(2) For the purposes of subsection (1)(b), if any prescribed dispute resolution scheme was available to the claimant in respect of the dispute, the court shall consider whether the claimant had sought to resolve the dispute through such a scheme.
+
+(3) In subsection (2), “prescribed dispute resolution scheme” means a dispute resolution scheme prescribed for the purposes of that subsection by regulations made under section 104.
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### General exemption
 
@@ -3562,9 +4052,13 @@ Immunity of Authority and its employees, etc.
 
 [1/2009 wef 26/11/2010]
 
-(ab) the granting of any unsecured advance, unsecured loan or unsecured credit facility by a licensed financial adviser to his officer, employee or representative, including any person related to such officer, employee or representative in the manner prescribed by regulations;
+(ab) specifying, in the context of the granting of an unsecured advance, unsecured loan or unsecured credit facility by a licensed financial adviser to any officer, employee or representative of the licensed financial adviser, or any person related, in the manner prescribed by the regulations, to any such officer, employee or representative —
 
-[1/2009 wef 26/11/2010]
+(i) what constitutes any such unsecured advance, unsecured loan or unsecured credit facility; and
+
+(ii) the requirements and restrictions relating to any such grant;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (b) the activities of, and standards to be maintained by, a licensed financial adviser, exempt financial adviser or representative, including the manner, method and place of soliciting business and the conduct of such solicitation;
 
@@ -3611,6 +4105,10 @@ Immunity of Authority and its employees, etc.
 (4) Except as otherwise expressly provided in this Act, regulations made under this Act —
 
 (a) may be of general or specific application;
+
+(aa) may contain provisions of a savings or transitional nature;
+
+[Act 35 of 2012 wef 18/03/2013]
 
 (b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
@@ -3733,6 +4231,18 @@ Section 65(1A)
 Specified Provisions
 
 1\. Section 23(6)
+
+1A. Section 23(6A)
+
+[Act 35 of 2012 wef 18/03/2013]
+
+1B. Section 23B(2)
+
+[Act 35 of 2012 wef 18/03/2013]
+
+1C. Section 37(2)
+
+[Act 35 of 2012 wef 18/03/2013]
 
 2. Section 100(2).
 
@@ -3880,6 +4390,11 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 22/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|26 November 2010|
+|14.|**Act 35 of 2012—Financial Advisers (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 32/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|18 March 2013|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
