@@ -52,7 +52,9 @@ An Act for the authorisation of measures for the control of traffic, at places w
 
 (c) any bridge over which a road passes;
 
-“school” includes a children’s social centre run by the Ministry of Community Development;
+“school” includes a children’s social centre run by the Government;
+
+[Act 25 of 2012 wef 28/03/2013]
 
 “school crossing patrol” means a person appointed to patrol in accordance with arrangements under section 3;
 
@@ -109,3 +111,8 @@ This Legislative History is provided for the convenience of users of the School 
 ||Date of operation|1 April 1971|
 |3.|**1985 Revised Edition—School Crossing Patrols Act (Chapter 285)**|
 ||Date of operation|30 March 1987|
+|4.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012|
+|||(Bill No. 23/2012 published on 11 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013 (section 9 — amendment of School Crossing Patrols Act)|
