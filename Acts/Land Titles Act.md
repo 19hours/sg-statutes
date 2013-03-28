@@ -1572,9 +1572,9 @@ except that where an instrument affects only a registered lease and no folio has
 
 [25/2001]
 
-(2) The Registrar shall not destroy any document unless the National Heritage Board established under the National Heritage Board Act (Cap. 196A) consents to the destruction.
+(2) The Registrar shall not destroy any document unless with the authorisation of the National Library Board under section 14D of the National Library Board Act (Cap. 197).
 
-[25/2001]
+[Act 25 of 2012 wef 28/03/2013]
 
 ## PART V
 
@@ -3743,6 +3743,11 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 2/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 August 2012|
+|14.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012|
+|||(Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
 ## COMPARATIVE TABLE
 
 Land Titles Act
