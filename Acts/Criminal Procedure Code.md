@@ -6219,13 +6219,15 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (8) Where a court makes community service orders in respect of 2 or more offences of which the offender has been convicted by or before the court, the court may direct that the hours of community service specified in any of those orders shall be concurrent with or additional to the hours specified in any of those orders, but so that the total number of hours which are not concurrent shall not exceed the maximum hours of community service which the offender may be required to perform under any one of those orders.
 
-(9) The Minister charged with the responsibility for community development, youth and sports may —
+(9) The Minister charged with the responsibility for the probation of offenders may —
 
 (a) appoint any person to be a community service officer for the purposes of this section;
 
 (b) prescribe the minimum and maximum hours of community service which an offender is required to perform under a community service order; and
 
 (c) make regulations, not inconsistent with the provisions of this Part, to make further provisions for the manner in which a community service order may be performed including the imposition of additional requirements and the service of any instructions or notice on an offender in respect of whom such an order has been made.
+
+[Act 25 of 2012 wef 28/03/2013]
 
 ### Obligations of offender subject to community service order
 
@@ -17122,3 +17124,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|10.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
