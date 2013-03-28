@@ -4402,7 +4402,11 @@ Interpretation
 
 [Act 36 of 2012 wef 31/01/2013]
 
-“Minister” means the Minister for Community Development, Youth and Sports;
+[Deleted by Act 25 of 2012 wef 28/03/2013]
+
+“Minister” means the Minister charged with the responsibility for prevention and rehabilitation in relation to problem gambling;
+
+[Act 25 of 2012 wef 28/03/2013]
 
 “panel” means the panel of assessors appointed under section 157(2);
 
@@ -4419,8 +4423,6 @@ Interpretation
 [Act 36 of 2012 wef 31/01/2013]
 
 “visit limit”, in relation to an individual, means an order made by the Council or by a Committee specifying a maximum number of visits in aggregate which the individual may make to any casino each month, and includes any visit limit made in the respondent’s absence under section 165C.
-
-[Act 36 of 2012 wef 31/01/2013]
 
 [Act 36 of 2012 wef 31/01/2013]
 
@@ -6346,3 +6348,7 @@ This Legislative History is provided for the convenience of users of the Casino 
 ||Date of First Reading|15 October 2012 (Bill No. 28/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|16 November 2012|
 ||Date of commencement|31 January 2013|
+|12.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
