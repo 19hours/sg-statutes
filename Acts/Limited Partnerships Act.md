@@ -102,9 +102,9 @@
 
 - [43 Amendment of First and Second Schedules](#Amendment-of-First-and-Second-Schedules)
 
-[**FIRST SCHEDULE Acts Not Regarded As Taking Part in Management of Limited Partnership**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Acts not regarded as taking part in management of limited partnership**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Additional Particulars**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Additional particulars**](#SECOND-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -596,9 +596,13 @@ to be certified by the Registrar.
 
 24\. If the Registrar is of the opinion that it is no longer necessary or desirable to retain any document lodged, filed or registered with the Registrar and which has been microfilmed or converted to electronic form, the Registrar may —
 
-(a) destroy the document with the authorisation of the National Heritage Board under section 21(4) of the National Heritage Board Act (Cap. 196A); or
+(a) destroy the document with the authorisation of the National Library Board under section 14D of the National Library Board Act (Cap. 197); or
 
-(b) transfer the document to the National Archives of Singapore under section 19 of that Act.
+[Act 25 of 2012 wef 28/03/2013]
+
+(b) transfer the document to the National Archives of Singapore under section 14C of that Act.
+
+[Act 25 of 2012 wef 28/03/2013]
 
 ### Exclusion of liability for errors or omissions
 
@@ -922,7 +926,7 @@ FIRST SCHEDULE
 
 Section 6(3) and (4)
 
-Acts Not Regarded As Taking Part in Management of Limited Partnership
+Acts not regarded as taking part in management of limited partnership
 
 1\. Contracting with the limited partnership.
 
@@ -978,7 +982,7 @@ SECOND SCHEDULE
 
 Section 11(3)
 
-Additional Particulars
+Additional particulars
 
 Description of person
 
@@ -1002,7 +1006,7 @@ Limited Partnerships Act
 
 (CHAPTER 163B)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 Delaware LP
 
@@ -1058,7 +1062,7 @@ Limited Partnerships Act
 
 (CHAPTER 163B)
 
-This Legislative History is provided for the convenience of users of the Limited Partnerships Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Limited Partnerships Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1069,3 +1073,7 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of commencement|4 May 2009|
 |2.|**2010 Revised Edition—Limited Partnerships Act**|
 ||Date of operation|1 January 2010|
+|3.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
