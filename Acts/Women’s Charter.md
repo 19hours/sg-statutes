@@ -46,6 +46,8 @@
 
 - [17 Registrar to issue marriage licence on proof of conditions by statutory declaration](#Registrar-to-issue-marriage-licence-on-proof-of-conditions-by-statutory-declaration)
 
+- [17A Marriage preparation programme](#Marriage-preparation-programme)
+
 - [18 Marriage to take place within 3 months](#Marriage-to-take-place-within-3-months)
 
 - [19 Caveat](#Caveat)
@@ -286,7 +288,7 @@
 
 - [121 Recovery of arrears of maintenance](#Recovery-of-arrears-of-maintenance)
 
-[**Chapter 4A  Financial relief consequential on foreign matrimonial proceedings**](#Chapter-4A--Financial-relief-consequential-on-foreign-matrimonial-proceedings)
+[**Chapter 4A  FINANCIAL RELIEF CONSEQUENTIAL ON FOREIGN MATRIMONIAL PROCEEDINGS**](#Chapter-4A--FINANCIAL-RELIEF-CONSEQUENTIAL-ON-FOREIGN-MATRIMONIAL-PROCEEDINGS)
 
 - [121A Interpretation and application of this Chapter](#Interpretation-and-application-of-this-Chapter)
 
@@ -440,9 +442,9 @@
 
 - [186 Savings for proceedings before 1st May 1997](#Savings-for-proceedings-before-1st-May-1997)
 
-[**FIRST SCHEDULE Kindred and Affinity Prohibited Degrees of Relationship**](#FIRST-SCHEDULE-Kindred-and-Affinity-Prohibited-Degrees-of-Relationship)
+[**FIRST SCHEDULE Kindred and affinity: prohibited degrees of relationship**](#FIRST-SCHEDULE-Kindred-and-affinity:-prohibited-degrees-of-relationship)
 
-[**SECOND SCHEDULE Consents Required to the Marriage of A Minor**](#SECOND-SCHEDULE-Consents-Required-to-the-Marriage-of-A-Minor)
+[**SECOND SCHEDULE Consents required to the marriage of a minor**](#SECOND-SCHEDULE-Consents-required-to-the-marriage-of-a-minor)
 
 [**Legislative History**](#Legislative-History)
 
@@ -704,15 +706,63 @@ SOLEMNIZATION OF MARRIAGES
 
 (c) that neither party is below the age of 18 years;
 
-(d) that there is no lawful impediment to the marriage; and
+(d) that there is no lawful impediment to the marriage;
 
-(e) that neither of the parties to the intended marriage is married under any law, religion, custom or usage to any person other than the person with whom such marriage is proposed to be contracted.
+[2/2011 wef 01/09/2011]
+
+(e) that neither of the parties to the intended marriage is married under any law, religion, custom or usage to any person other than the person with whom such marriage is proposed to be contracted; and
+
+[2/2011 wef 01/09/2011]
+
+(f) that, where any party to the intended marriage is a person to whom section 17A applies, both parties have attended and completed a marriage preparation programme.
 
 [9/67; 26/80]
+
+[2/2011 wef 01/09/2011]
+
+(2A) Where one of the parties to the proposed marriage has been previously married but is divorced, the Registrar shall not issue a marriage licence unless that party also states, in the statutory declaration referred to in subsection (2), whether he owes any arrears in respect of any maintenance which is payable under a maintenance order.
+
+[2/2011 wef 01/09/2011]
+
+(2B) The statutory declaration referred to in subsection (2) shall be made by each party to the proposed marriage in the presence of the other party.
+
+[2/2011 wef 01/09/2011]
 
 (3) If any party giving a notice of marriage or making a statutory declaration does not understand the English language, the Registrar shall, before issuing the marriage licence, ascertain whether that party is cognizant of the purport of the notice or declaration and, if not, shall interpret or cause to be interpreted the notice or declaration to that party into some language which he understands.
 
 [26/80]
+
+(4) In this section —
+
+“maintenance order” means —
+
+(a) an order for the payment of a monthly allowance made or deemed to be made by a court under Part VIII;
+
+(b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or for the benefit of any child under Part X;
+
+(c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act (Cap. 3); or
+
+(d) a maintenance order as defined in section 2 of the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168) or section 2 of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169);
+
+“marriage preparation programme” has the same meaning as in section 17A(3);
+
+“permanent resident of Singapore” means a person who holds an entry permit under section 10 of the Immigration Act (Cap. 133) or a re-entry permit under section 11 of that Act.
+
+[2/2011 wef 01/09/2011]
+
+### Marriage preparation programme
+
+17A\.—(1) This section shall apply to a person within the class of persons prescribed by the Minister as persons who must attend a marriage preparation programme.
+
+[2/2011 wef 01/09/2011]
+
+(2) A person to whom this section applies shall not be issued with a marriage licence under section 17 or a special marriage licence under section 21 unless the person satisfies the Registrar or the Minister, as the case may be, that the person, together with the other party to the proposed marriage, have attended and completed a marriage preparation programme.
+
+[2/2011 wef 01/09/2011]
+
+(3) In this section and section 21, “marriage preparation programme” means a marriage preparation programme which satisfies the description specified in the rules made under section 180.
+
+[2/2011 wef 01/09/2011]
 
 ### Marriage to take place within 3 months
 
@@ -754,9 +804,19 @@ SOLEMNIZATION OF MARRIAGES
 
 ### Special marriage licence
 
-21\.—(1) The Minister, upon proof being made to him by statutory declaration that there is no lawful impediment to the proposed marriage, and upon his being satisfied that the necessary consent, if any, to the marriage has been obtained, or that the consent has been dispensed with or given under section 13 may, if he thinks fit, dispense with the giving of notice and with the issue of a marriage licence, and may grant a special marriage licence in the prescribed form authorising the solemnization of a marriage between the parties named in that licence.
+21\.—(1) The Minister may, if he thinks fit, dispense with the giving of notice and with the issue of a marriage licence, and may grant a special marriage licence in the prescribed form authorising the solemnization of a marriage between the parties named —
 
-[26/80]
+(a) upon proof being made to him by statutory declaration —
+
+(i) that there is no lawful impediment to the proposed marriage; and
+
+(ii) where any party to the proposed marriage is a person to whom section 17A applies, that both parties to the proposed marriage have attended and completed a marriage preparation programme;
+
+(b) where one party to the proposed marriage has been previously married but is divorced, upon a statutory declaration being furnished by the party as to whether that party owes any arrears in respect of any maintenance which is payable under a maintenance order; and
+
+(c) upon his being satisfied that the necessary consent, if any, to the marriage has been obtained, or that the consent has been dispensed with or given under section 13.
+
+[2/2011 wef 01/09/2011]
 
 (2) The Minister may, in his discretion, grant a special marriage licence under this section authorising the solemnization of a marriage although any party to the marriage is below the age of 18 years.
 
@@ -767,6 +827,10 @@ SOLEMNIZATION OF MARRIAGES
 [26/80]
 
 (4) The Minister may delegate his powers under this section to any person, subject to such conditions as he may think fit to impose.
+
+(5) In this section, “maintenance order” has the same meaning as in section 17(4).
+
+[2/2011 wef 01/09/2011]
 
 ### Requirements for valid marriage
 
@@ -982,6 +1046,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [9/67]
 
+[15/2010 wef 02/01/2011]
+
 ### Correction of errors
 
 43\.—(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry relating to a marriage is erroneous in form or substance, he may, in the presence of the persons married, or, if they are absent, in the presence of 2 credible witnesses, correct the error by ruling through any entry in the certificate of marriage which is erroneous and making the correct entry therein.
@@ -1108,9 +1174,9 @@ are being heard shall consider, from time to time, the possibility of a reconcil
 
 (3E) Without prejudice to the generality of subsection (3D), the further orders that may be made by a court under that subsection shall include the following orders:
 
-(c) an order that proceedings shall be stayed until the parties have attended such mediation or counselling as may be specified in any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A); and
+(a) an order that proceedings shall be stayed until the parties have attended such mediation or counselling as may be specified in any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A); and
 
-(d) such order as to costs as the court thinks appropriate against the party who fails to comply with any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A).
+(b) such order as to costs as the court thinks appropriate against the party who fails to comply with any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A).
 
 [2/2011 wef 01/06/2011]
 
@@ -1562,9 +1628,9 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 (2D) In this section, “designated credit bureau” means an entity that —
 
-(d) collects and maintains information about the credit payment history of a person and provides such information to its members for the purpose of enabling its members to assess the creditworthiness of a person; and
+(a) collects and maintains information about the credit payment history of a person and provides such information to its members for the purpose of enabling its members to assess the creditworthiness of a person; and
 
-(e) has been designated by the Minister as a credit bureau for the purposes of receiving a report lodged under subsection (2B).
+(b) has been designated by the Minister as a credit bureau for the purposes of receiving a report lodged under subsection (2B).
 
 [2/2011 wef 01/06/2011]
 
@@ -1582,11 +1648,11 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 ### Bankerʼs guarantee
 
-71A\.—(4) Where a person has been ordered by the court under section 71(1)(d) to furnish a bankerʼs guarantee, he shall hand the original bankerʼs guarantee to the person to whom maintenance is owed (referred to in this section as a “maintenance claimant”) within one month from the date of the order.
+71A\.—(1) Where a person has been ordered by the court under section 71(1)(d) to furnish a bankerʼs guarantee, he shall hand the original bankerʼs guarantee to the person to whom maintenance is owed (referred to in this section as a “maintenance claimant”) within one month from the date of the order.
 
 [2/2011 wef 01/06/2011]
 
-(5) Where —
+(2) Where —
 
 (a) a maintenance claimant makes a demand on the bankerʼs guarantee and no maintenance arrears is owing to the claimant at the time of the demand; or
 
@@ -1596,11 +1662,11 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 [2/2011 wef 01/06/2011]
 
-(6) Where there is no future maintenance liability against which the excess may be offset, the maintenance claimant who made the demand on the bankerʼs guarantee giving rise to that excess shall, upon demand by the maintenance defaulter, refund the excess to the maintenance defaulter.
+(3) Where there is no future maintenance liability against which the excess may be offset, the maintenance claimant who made the demand on the bankerʼs guarantee giving rise to that excess shall, upon demand by the maintenance defaulter, refund the excess to the maintenance defaulter.
 
 [2/2011 wef 01/06/2011]
 
-(7) Where a refund is not made as required under subsection (6), the maintenance defaulter may recover the amount due to him under that subsection from the person liable to make the refund as if the amount were a civil debt due to the maintenance defaulter.
+(4) Where a refund is not made as required under subsection (3), the maintenance defaulter may recover the amount due to him under that subsection from the person liable to make the refund as if the amount were a civil debt due to the maintenance defaulter.
 
 [2/2011 wef 01/06/2011]
 
@@ -1616,15 +1682,15 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Community service orders
 
-71C\.—(8) A court shall not make a community service order under section 71(1)(f) against a maintenance defaulter unless the court is satisfied that suitable arrangements can be made for him to perform community service under such an order.
+71C\.—(1) A court shall not make a community service order under section 71(1)(f) against a maintenance defaulter unless the court is satisfied that suitable arrangements can be made for him to perform community service under such an order.
 
 [2/2011 wef 01/06/2011]
 
-(9) Notwithstanding that a community service order has been made under subsection (8), the court may, upon an application by a community service officer and upon being satisfied that the maintenance defaulter concerned is medically unfit to comply with the community service order, rescind the order.
+(2) Notwithstanding that a community service order has been made under subsection (1), the court may, upon an application by a community service officer and upon being satisfied that the maintenance defaulter concerned is medically unfit to comply with the community service order, rescind the order.
 
 [2/2011 wef 01/06/2011]
 
-(10) The Minister may —
+(3) The Minister may —
 
 (a) appoint any person to be a community service officer for the purposes of this section;
 
@@ -1772,9 +1838,9 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (e) a maintenance order registered or confirmed by the court under the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168)1.
 
-1This Act, which was formerly known as the Reciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169).
-
 [14/69; 30/96]
+
+1This Act, which was formerly known as the Reciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169).
 
 ### Power of court to make attachment of earnings order
 
@@ -1788,15 +1854,15 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 ### Service of attachment of earnings order
 
-81A\.—(3) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), an attachment of earnings order made by a court may be served on the person to whom the order is directed by pre-paid registered post at the last known address of his place of residence or business (including the registered address of his place of business).
+81A\.—(1) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), an attachment of earnings order made by a court may be served on the person to whom the order is directed by pre-paid registered post at the last known address of his place of residence or business (including the registered address of his place of business).
 
 [2/2011 wef 01/06/2011]
 
-(4) Any attachment of earnings order sent by pre-paid registered post to any person in accordance with subsection (3) shall be deemed to be duly served on the person to whom the order is directed at the time when the order would in the ordinary course of post be delivered.
+(2) Any attachment of earnings order sent by pre-paid registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the order is directed at the time when the order would in the ordinary course of post be delivered.
 
 [2/2011 wef 01/06/2011]
 
-(5) In proving service by pre-paid registered post, it shall be sufficient to prove that the cover containing the attachment of earnings order was properly addressed, stamped and posted by prepaid registered post.
+(3) In proving service by pre-paid registered post, it shall be sufficient to prove that the cover containing the attachment of earnings order was properly addressed, stamped and posted by pre-paid registered post.
 
 [2/2011 wef 01/06/2011]
 
@@ -1866,7 +1932,7 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (c) order the Central Provident Fund Board to furnish a statement to the person who took out the proceedings stating the following information, if such information is available to the Board based on records kept by the Board:
 
-(i) the name and address of the defendant’s employer or employers or, if the defendant is unemployed, the defendant’s last know employer or employers in the 12 months immediately preceding the date of the order; and
+(i) the name and address of the defendant’s employer or employers or, if the defendant is unemployed, the defendant’s last known employer or employers in the 12 months immediately preceding the date of the order; and
 
 (ii) the contributions, if any, made by the defendant or his employer to the defendant’s Central Provident Fund account in the 12 months immediately preceding the date of the order.
 
@@ -2266,7 +2332,17 @@ Chapter 4
 
 —
 
-FINANCIAL PROVISIONS CONSEQUENT ON MATRIMONIAL PROCEEDINGS
+FINANCIAL PROVISIONS
+
+
+
+
+CONSEQUENT ON MATRIMONIAL
+
+
+
+
+PROCEEDINGS
 
 ### Power of court to order division of matrimonial assets
 
@@ -2446,11 +2522,21 @@ Chapter 4A
 
 —
 
-Financial relief consequential on foreign matrimonial proceedings
+FINANCIAL RELIEF
+
+
+
+
+CONSEQUENTIAL ON FOREIGN
+
+
+
+
+MATRIMONIAL PROCEEDINGS
 
 ### Interpretation and application of this Chapter
 
-121A\.—(4) In this Chapter, unless the context otherwise requires —
+121A\.—(1) In this Chapter, unless the context otherwise requires —
 
 “applicant” means the person who applies for an order for financial relief;
 
@@ -2464,7 +2550,7 @@ Financial relief consequential on foreign matrimonial proceedings
 
 [2/2011 wef 01/06/2011]
 
-(5) This Chapter shall only apply to proceedings, decrees, orders or judgments commenced, made or given, as the case may be, on or after the date of commencement of section 12 of the Womenʼs Charter (Amendment) Act 2011.
+(2) This Chapter shall only apply to proceedings, decrees, orders or judgments commenced, made or given, as the case may be, on or after the date of commencement of section 12 of the Womenʼs Charter (Amendment) Act 2011.
 
 [2/2011 wef 01/06/2011]
 
@@ -2484,33 +2570,35 @@ either party to the marriage may apply to the court in the manner prescribed in 
 
 121C\. The court shall have jurisdiction to hear an application for an order for financial relief only if —
 
-(c) one of the parties to the marriage was domiciled inSingapore on the date of the application for leave under section 121D or was so domiciled on the date on which the divorce, annulment or judicial separation obtained in a foreign country took effect in that country; or
+(a) one of the parties to the marriage was domiciled in Singapore on the date of the application for leave under section 121D or was so domiciled on the date on which the divorce, annulment or judicial separation obtained in a foreign country took effect in that country; or
 
 [2/2011 wef 01/06/2011]
 
-(d) one of the parties to the marriage was habitually resident in Singapore for a continuous period of one year immediately preceding the date of the application for leave under section 121D or was so resident for a continuous period of one year immediately preceding the date on which the divorce, annulment or judicial separation obtained in a foreign country took effect in that country.
+(b) one of the parties to the marriage was habitually resident in Singapore for a continuous period of one year immediately preceding the date of the application for leave under section 121D or was so resident for a continuous period of one year immediately preceding the date on which the divorce, annulment or judicial separation obtained in a foreign country took effect in that country.
 
 [2/2011 wef 01/06/2011]
 
 ### Leave of court required for applications for financial relief
 
-121D\.—(6) No application for an order for financial relief shall be made unless the leave of the court has been obtained in accordance with the rules made by the committee constituted under section 139.
+121D\.—(1) No application for an order for financial relief shall be made unless the leave of the court has been obtained in accordance with the rules made by the committee constituted under section 139.
 
 [2/2011 wef 01/06/2011]
 
-(7) The court shall not grant leave unless it considers that there is substantial ground for the making of an application for such an order.
+(2) The court shall not grant leave unless it considers that there is substantial ground for the making of an application for such an order.
 
 [2/2011 wef 01/06/2011]
 
-(8) The court may grant leave under this section notwithstanding that an order has been made by a court of competent jurisdiction in a foreign country requiring the other party to the marriage to make any payment or transfer any matrimonial asset to the applicant or a child of the marriage.
+(3) The court may grant leave under this section notwithstanding that an order has been made by a court of competent jurisdiction in a foreign country requiring the other party to the marriage to make any payment or transfer any matrimonial asset to the applicant or a child of the marriage.
 
 [2/2011 wef 01/06/2011]
 
-(9) Leave under this section may be granted subject to such conditions as the court thinks fit.
+(4) Leave under this section may be granted subject to such conditions as the court thinks fit.
+
+[2/2011 wef 01/06/2011]
 
 ### Interim orders for financial provision
 
-121E\.—(10) Where leave is granted under section 121D and it appears to the court that the applicant or any child of the marriage is in immediate financial need, the court may make an interim order for —
+121E\.—(1) Where leave is granted under section 121D and it appears to the court that the applicant or any child of the marriage is in immediate financial need, the court may make an interim order for —
 
 (a) a man to make financial provision for his wife or former wife, as the case may be, or any child of the marriage; or
 
@@ -2518,21 +2606,21 @@ either party to the marriage may apply to the court in the manner prescribed in 
 
 [2/2011 wef 01/06/2011]
 
-(11) An interim order under subsection (10) may be made for such term, being a term beginning not earlier than the date of the grant of leave and ending with the date of the determination of the application for an order for financial relief, as the court thinks reasonable.
+(2) An interim order under subsection (1) may be made for such term, being a term beginning not earlier than the date of the grant of leave and ending with the date of the determination of the application for an order for financial relief, as the court thinks reasonable.
 
 [2/2011 wef 01/06/2011]
 
-(12) An interim order under subsection (10) may be made subject to such conditions as the court thinks fit.
+(3) An interim order under subsection (1) may be made subject to such conditions as the court thinks fit.
 
 [2/2011 wef 01/06/2011]
 
 ### Duty of court to consider whether Singapore is appropriate forum for application
 
-121F\.—(13) Before making an order for financial relief, the court shall consider whether in all the circumstances of the case, it would be appropriate for such an order to be made by a court in Singapore, and if the court is not satisfied that it would be appropriate, the court shall dismiss the application.
+121F\.—(1) Before making an order for financial relief, the court shall consider whether in all the circumstances of the case, it would be appropriate for such an order to be made by a court in Singapore, and if the court is not satisfied that it would be appropriate, the court shall dismiss the application.
 
 [2/2011 wef 01/06/2011]
 
-(14) The court shall, in particular, have regard to the following matters:
+(2) The court shall, in particular, have regard to the following matters:
 
 (a) the connection which the parties to the marriage have with Singapore;
 
@@ -2556,15 +2644,15 @@ either party to the marriage may apply to the court in the manner prescribed in 
 
 ### Orders for financial relief
 
-121G\.—(15) On an application by a party to a marriage for an order for financial relief, the court may make any one or more of the orders which it could have made under section 112, 113 or 127(1) in the like manner as if a decree of divorce, nullity or judicial separation in respect of the marriage had been granted in Singapore.
+121G\.—(1) On an application by a party to a marriage for an order for financial relief, the court may make any one or more of the orders which it could have made under section 112, 113 or 127(1) in the like manner as if a decree of divorce, nullity or judicial separation in respect of the marriage had been granted in Singapore.
 
 [2/2011 wef 01/06/2011]
 
-(16) Sections 112(2) to (10), 114 to 121 and 127(2) shall apply, with the necessary modifications, and as appropriate, to an order made under subsection (15).
+(2) Sections 112(2) to (10), 114 to 121 and 127(2) shall apply, with the necessary modifications, and as appropriate, to an order made under subsection (1).
 
 [2/2011 wef 01/06/2011]
 
-(17) Upon the court making a secured order under subsection (15) or at any time thereafter, the court may make any order which the court could have made if the secured order had been made under section 112, 115 or 127.
+(3) Upon the court making a secured order under subsection (1) or at any time thereafter, the court may make any order which the court could have made if the secured order had been made under section 112, 115 or 127.
 
 [2/2011 wef 01/06/2011]
 
@@ -2716,7 +2804,7 @@ issue an injunction restraining the other parent from taking the child out of Si
 
 [2/2011 wef 01/06/2011]
 
-(d) maintenance is payable under any agreement to or for the benefit of a wife or former wife or child,
+(d) maintenance is payable under any agreement to or for the benefit of a wife or former wife or child; or
 
 (e) an order has been made under section 121E or 121G and has not been rescinded or complied with,
 
@@ -3032,11 +3120,13 @@ of any woman or girl in respect of whom the offence is alleged to have been comm
 
 (3) Any District Court may, notwithstanding anything in the Criminal Procedure Code (Cap. 68), impose the full punishment prescribed by this Part in respect of any offence.
 
-(4) Prosecutions in respect of offences committed under this Part may, with the authorisation of the Public Prosecutor, be conducted by the Director or any officer of the Ministry of Community Development, Youth and Sports authorised in writing in that behalf by the Director.
+(4) Prosecutions in respect of offences committed under this Part may, with the authorisation of the Public Prosecutor, be conducted by the Director or any public officer of such department that the Minister is charged with responsibility for authorised in writing in that behalf by the Director.
 
 [15/2010 wef 02/01/2011]
 
 [14/69]
+
+[Act 25 of 2012 wef 28/03/2013]
 
 ### Detention pending judicial proceedings
 
@@ -3224,7 +3314,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power of search
 
-173\.—(1) The Director, or any person being either a person employed in the Ministry of Community Development, Youth and Sports, or a police officer not below the rank of sergeant or an officer of the Immigration and Checkpoints Authority, and being generally or specially authorised for that purpose in writing by the Director, may enter, and for that purpose use force if necessary, and search —
+173\.—(1) The Director, or any public officer, being either a police officer not below the rank of sergeant, an immigration officer within the meaning of the Immigration Act (Cap. 133) or a public officer of such department that the Minister is charged with responsibility for, and being generally or specially authorised for that purpose in writing by the Director, may enter, and for that purpose use force if necessary, and search —
 
 (a) any place where the Director, person or officer has reasonable cause to believe that an offence under this Part has been or is being committed; and
 
@@ -3234,13 +3324,17 @@ and may remove any woman or girl who is or may be liable to be dealt with under 
 
 [14/69; 21/73]
 
+[Act 25 of 2012 wef 28/03/2013]
+
 (2) Any person who refuses to be searched or refuses the Director, person or officer access to such place or otherwise obstructs or hinders him in effecting an entrance to such place or in removing any such woman or girl shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Power of arrest and seizure
 
-174\.—(1) The Director, or any person being either a person employed in the Ministry of Community Development, Youth and Sports, or a police officer not below the rank of sergeant or an officer of the Immigration and Checkpoints Authority, and being generally or specially authorised for that purpose in writing by the Director, may arrest or cause to be arrested any person reasonably believed to be liable to prosecution for an offence under section 140, 141, 142, 143, 144, 145, 146, 147 or 148 and may seize, and for that purpose use force if necessary, and detain any article, book, document or account which he may have reason to believe to relate to such offence.
+174\.—(1) The Director, or any public officer, being either a police officer not below the rank of sergeant, an immigration officer within the meaning of the Immigration Act or a public officer of such department that the Minister is charged with responsibility for, and being generally or specially authorised for that purpose in writing by the Director, may arrest or cause to be arrested any person reasonably believed to be liable to prosecution for an offence under section 140, 141, 142, 143, 144, 145, 146, 147 or 148 and may seize, and for that purpose use force if necessary, and detain any article, book, document or account which he may have reason to believe to relate to such offence.
 
 [14/69; 21/73]
+
+[Act 25 of 2012 wef 28/03/2013]
 
 (2) Where any person is arrested by the Director or any person mentioned in subsection (1), the Director or person making the arrest shall comply with sections 68 and 85 of the Criminal Procedure Code 2010 as if he were a police officer.
 
@@ -3432,7 +3526,12 @@ FIRST SCHEDULE
 
 Section 10
 
-Kindred and Affinity Prohibited Degrees of Relationship
+Kindred and affinity:
+
+
+
+
+prohibited degrees of relationship
 
 Mother.
 
@@ -3532,7 +3631,7 @@ SECOND SCHEDULE
 
 Sections 13 and 17
 
-Consents Required to the Marriage of A Minor
+Consents required to the marriage of a minor
 
 Part I
 
@@ -3629,6 +3728,8 @@ Person whose consent is required
 If the father, mother, legal guardian or guardian of the transferred child is not available or does not give his consent:
 
 the person whose particulars are registered with the protector under the Children and Young Persons Act (Cap. 38) as the person who has the care, custody or control of such transferred child.
+
+[26/80]
 
 ## LEGISLATIVE HISTORY
 
@@ -3757,4 +3858,9 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|22 November 2010|
 |||(Bill No. 34/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|10 January 2011|
-||Date of commencement|1 September 2011 (sections 2(b), (c), (d) and (e), 3 and 4 — Amendment of Women’s Charter)|
+||Date of commencement|1 September 2011 (sections 2(b), (c), (d) and (e), 3 and 4 — Amend ment of Women’s Charter)|
+|24.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012|
+|||(Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
