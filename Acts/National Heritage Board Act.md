@@ -44,29 +44,29 @@
 
 - [16 Lending and borrowing of objects](#Lending-and-borrowing-of-objects)
 
-[**Part IV NATIONAL ARCHIVES OF SINGAPORE**](#Part-IV)
+[**Part IV**](#Part-IV)
 
-- [17 Establishment of National Archives of Singapore](#Establishment-of-National-Archives-of-Singapore)
+- [17 (Repealed)](#Repealed)
 
-- [18 Appointment of director of National Archives](#Appointment-of-director-of-National-Archives)
+- [18 (Repealed)](#Repealed)
 
-- [19 Transfer of public records to National Archives](#Transfer-of-public-records-to-National-Archives)
+- [19 (Repealed)](#Repealed)
 
-- [20 Return of illegally removed public records](#Return-of-illegally-removed-public-records)
+- [20 (Repealed)](#Repealed)
 
-- [21 Destruction or disposal of public records only on authority of Board](#Destruction-or-disposal-of-public-records-only-on-authority-of-Board)
+- [21 (Repealed)](#Repealed)
 
-- [22 Inspection of public records and recordings](#Inspection-of-public-records-and-recordings)
+- [22 (Repealed)](#Repealed)
 
-- [23 Certified copy of public records](#Certified-copy-of-public-records)
+- [23 (Repealed)](#Repealed)
 
-- [24 Reproduction of public records and recordings](#Reproduction-of-public-records-and-recordings)
+- [24 (Repealed)](#Repealed)
 
-- [25 Prohibition of export, etc., of public records](#Prohibition-of-export-etc-of-public-records)
+- [25 (Repealed)](#Repealed)
 
-- [26 Deposit of certain recordings](#Deposit-of-certain-recordings)
+- [26 (Repealed)](#Repealed)
 
-- [27 Establishment of oral history centre](#Establishment-of-oral-history-centre)
+- [27 (Repealed)](#Repealed)
 
 [**Part V PROVISIONS RELATING TO STAFF**](#Part-V)
 
@@ -142,7 +142,9 @@ REVISED EDITION 1994
 
 (15th March 1994)
 
-An Act to establish the National Heritage Board, to transfer to it the National Museum, the National Archives and Records Centre and the Oral History Department and for matters connected therewith.
+An Act to establish the National Heritage Board and for matters connected therewith.
+
+[Act 25 of 2012 wef 28/03/2013]
 
 [1st August 1993]
 
@@ -170,21 +172,15 @@ PRELIMINARY
 
 “member” means a member of the Board;
 
-“National Archives” means the National Archives of Singapore established under section 17;
+[Deleted by Act 25 of 2012 wef 28/03/2013]
 
 “object” includes any work of art and any artifact;
 
-“public archives” means those public records that —
+[Deleted by Act 25 of 2012 wef 28/03/2013]
 
-(a) are more than 25 years old;
+[Deleted by Act 25 of 2012 wef 28/03/2013]
 
-(b) are specified by the Board as being of national or historical significance; and
-
-(c) have been transferred to the Board or to such other place as the Board may from time to time determine;
-
-“public office” means any department, office, institution, agency, commission, board, local authority or statutory body or any other office of the Government or branch or subdivision thereof, and any other body that the President may, by notification in theGazette, declare to be a public office;
-
-“public records” means papers, documents, records, registers, printed materials, books, maps, plans, drawings, photographs, microforms, videotapes, films, machine readable and electronic records, sound recordings and other forms of records of any kind whatsoever, produced or received by any public office in the transaction of official business, or by any officer in the course of his official duties, and includes public archives.
+[Deleted by Act 25 of 2012 wef 28/03/2013]
 
 ## PART II
 
@@ -230,13 +226,15 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (c) to promote the establishment and development of organisations concerned with the national heritage of Singapore;
 
-(d) to provide a permanent repository of records of national or historical significance and to facilitate access thereto;
+(d) [Deleted by Act 25 of 2012 wef 28/03/2013]
 
-(e) to conduct records management programmes for the Government;
+(e) [Deleted by Act 25 of 2012 wef 28/03/2013]
 
-(f) to record, preserve and disseminate the history of Singapore through oral history methodology or other means;
+(f) [Deleted by Act 25 of 2012 wef 28/03/2013]
 
 (g) to advise the Government in respect of matters relating to the national heritage of Singapore; and
+
+[16/2009 wef 01/07/2009]
 
 (h) to perform such other functions as are conferred on the Board by any other written law.
 
@@ -248,7 +246,9 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (2) Without prejudice to the generality of subsection (1), the powers of the Board shall include power —
 
-(a) to develop and manage museums, archives, oral history centres and other facilities related to its functions;
+(a) to develop and manage museums and other facilities related to its functions;
+
+[Act 25 of 2012 wef 28/03/2013]
 
 (b) to collect, classify, preserve and display objects and records relevant to its functions;
 
@@ -258,9 +258,13 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (e) to arrange for the acquisition, production or publication and the sale to the public of books, pamphlets, replicas and other materials related to its functions;
 
-(f) to undertake or sponsor programs for the training of persons in the professions and skills involved in the operation of museums, archives and oral history centres;
+(f) to undertake or sponsor programs for the training of persons in the professions and skills involved in the operation of museums;
 
-(g) to establish liaison with other museums, archives, oral history centres, universities and other institutions to secure maximum collaboration of all activities relevant to its functions;
+[Act 25 of 2012 wef 28/03/2013]
+
+(g) to establish liaison with other museums, universities and other institutions to secure maximum collaboration of all activities relevant to its functions;
+
+[Act 25 of 2012 wef 28/03/2013]
 
 (h) to arrange for or provide professional and technical services, on such terms and conditions as may be approved by the Board;
 
@@ -380,119 +384,27 @@ then the property shall on that date become vested instead in the Board.
 
 ## PART IV
 
-NATIONAL ARCHIVES OF SINGAPORE
+17\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-### Establishment of National Archives of Singapore
+18\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-17\.—(1) The Board shall establish the National Archives of Singapore in which records of national or historical significance shall be preserved.
+19\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(2) The Board —
+20\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(a) shall examine the public records in any public office and advise the office as to their care and custody;
+21\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(b) shall take necessary measures to classify, identify, preserve and restore public records;
+22\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(c) shall make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities;
+23\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(d) shall conduct a records management programme for the efficient creation, utilisation, maintenance, retention, preservation and disposal of public records;
+24\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(e) shall advise public offices concerning standards and procedures pertaining to the management of public records;
+25\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(f) may provide information, consultation, research and other services related to archives;
+26\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
-(g) may, subject to the terms and conditions, if any, on which the public archives were acquired, reproduce or publish any public archives; and
-
-(h) may acquire by purchase, donations, bequest or otherwise any document, book or other material which, in the opinion of the Board, is or is likely to be of national or historical significance.
-
-### Appointment of director of National Archives
-
-18\.—(1) The Board shall appoint a director of National Archives who shall be responsible to the Board for the general management and control of the National Archives.
-
-(2) The director of National Archives and any person acting on behalf or under the direction of the director shall, with respect to access to public records, satisfy any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to the public records.
-
-### Transfer of public records to National Archives
-
-19\. Any public records which, in the opinion of the Board, are of national or historical significance shall be transferred to the care and control of the National Archives in accordance with such schedules or other agreements for the transfer of records as may be agreed on between the Board and the public office or person responsible for the public records.
-
-### Return of illegally removed public records
-
-20\. The Board shall demand in writing and take steps for the return of any public records belonging to the Government that have been illegally removed from official custody.
-
-### Destruction or disposal of public records only on authority of Board
-
-21\.—(1) No person shall, without the authorisation of the Board under subsection (4), destroy or otherwise dispose of, or authorise the destruction or disposal of, any public records which are in his possession or under his control.
-
-(2) Any person intending to destroy or dispose of or to authorise the destruction or disposal of any public records shall first notify the Board of that intention and shall, in his notification, specify the nature of the public records in question.
-
-(3) The Board may inspect any public records specified in any notification under subsection (2) and shall, if it requires those records to be made available to it, inform the person making the notification of that requirement, and the public records shall be made available to the Board.
-
-(4) The Board may authorise the destruction of any specified classes of public records which by reason of their number, kind or routine nature do not in its opinion possess any enduring value for preservation as public archives.
-
-### Inspection of public records and recordings
-
-22\.—(1) No person who is not an officer of the National Archives shall inspect any public records or recordings, other than public archives made available to the public under subsection (2), without the written authority of the director of National Archives.
-
-(2) Any person may, for the purpose of reference or research, inspect any public archives or recordings made available to the public subject to —
-
-(a) any conditions or restrictions imposed by the office, officer or person from whom the public archives or recordings were acquired; and
-
-(b) such conditions as the director of National Archives may consider necessary for their preservation.
-
-(3) The National Archives shall be open for the inspection of public records during such hours as may be determined by the Board.
-
-(4) For the purpose of this section, “recording” means any recording deposited with the Board under section 26.
-
-### Certified copy of public records
-
-23\. Any copy of a public record which is certified by the director of National Archives as a true copy of the original document shall be admissible in a court of law.
-
-### Reproduction of public records and recordings
-
-24\.—(1) No person shall publish or reproduce the whole or any part of the contents of any public records which have been transferred to the National Archives or of any recording which has been deposited under section 26 except with the written consent of the director of National Archives and in accordance with such conditions as may be imposed by the director or the person from whom the public records or recordings were acquired.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
-
-(3) Nothing in this section shall be construed as affecting or extending the law relating to copyright.
-
-### Prohibition of export, etc., of public records
-
-25\.—(1) No person shall —
-
-(a) without the written permission of the Board, take or send out of Singapore any public records;
-
-(b) write on, mark, inscribe or otherwise deface any public records; or
-
-(c) mutilate, excise or otherwise damage any public records.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
-
-### Deposit of certain recordings
-
-26\.—(1) The producer or distributor of a recording shall, within 6 months after a request in writing is made by the Board, provide the Board without charge with a copy of the recording in such form as may be specified in the request.
-
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
-
-(3) This section shall not apply to or in respect of —
-
-(a) a recording that has not been broadcast or made public in Singapore; or
-
-(b) any recording of a class or kind that is exempted from the application of this section by such regulations as the Minister may make for the purpose.
-
-(4) In this section, “recording” means anything in which sounds are embodied or on which images are fixed or both, regardless of form.
-
-### Establishment of oral history centre
-
-27\. The Board may establish an oral history centre whose purposes shall be —
-
-(a) to collect, document and disseminate information on the history of Singapore through oral history methodology or other means;
-
-(b) to interview persons who have influenced or participated in the history of Singapore, to preserve these interviews and to produce transcripts of selected interviews;
-
-(c) to preserve and care for the recordings and transcripts of such interviews;
-
-(d) to allow access to the recordings and transcripts to persons seeking to inspect them in connection with study or research subject to any conditions or restrictions imposed by the interviewee or the Board; and
-
-(e) to disseminate information on the collection and work of the centre by any means, including publications, audio-visual educational packages, exhibitions, consultations, research and heritage promotional activities.
+27\. [Repealed by Act 25 of 2012 wef 28/03/2013]
 
 ## PART V
 
@@ -538,7 +450,11 @@ FUNDS AND PROPERTY OF BOARD
 
 (d) all fees, commissions, rents, interests, dividends and other income accruing to the Board;
 
+[16/2009 wef 01/07/2009]
+
 (e) all moneys borrowed by the Board under this Act; and
+
+[16/2009 wef 01/07/2009]
 
 (f) all moneys recovered or collected by the Board or any officer or employee thereof (including sums collected for the composition of offences) under this Act or under any other written law that is administered and enforced by the Board.
 
@@ -583,6 +499,8 @@ FUNDS AND PROPERTY OF BOARD
 (a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act; and
 
 (b) an institution of a public character approved under the Charities Act (Cap. 37).
+
+[10/2007 wef 01/03/2007]
 
 ### Establishment of National Heritage Endowment Fund
 
@@ -714,13 +632,15 @@ and includes any machinery attached to or forming part of a monument which canno
 
 ### Preservation of secrecy
 
-47A\.—(1) Without prejudice to section 18(2), except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or under the provisions of this Act or any written law, no person who is or has been —
+47A\.—(1) Except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or under the provisions of this Act or any written law, no person who is or has been —
 
 (a) a member, an officer, an employee or an agent of the Board; or
 
 (b) a member of a committee appointed by the Board under this Act or any written law administered by the Board,
 
 shall disclose any information relating to the affairs of the Board or of any other person which has been obtained by him in the performance of his functions or the discharge of his duties.
+
+[Act 25 of 2012 wef 28/03/2013]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -738,11 +658,13 @@ shall disclose any information relating to the affairs of the Board or of any ot
 
 (2) Without prejudice to the generality of subsection (1), the regulations may —
 
-(a) provide for the use, custody, preservation, reproduction, removal, destruction and disposal of the objects, public records and other documents under this Act;
+(a) provide for the use, custody, preservation, reproduction, removal, destruction and disposal of the objects and other documents under this Act;
+
+[Act 25 of 2012 wef 28/03/2013]
 
 (b) provide for regulating the conduct of persons on any land or building owned by, or under the control of, the Board;
 
-(c) provide for regulating the taking of oral history recordings and transcripts;
+(c) [Deleted by Act 25 of 2012 wef 28/03/2013]
 
 (d) prescribe the forms, fees or registers for the purposes of this Act; and
 
@@ -916,7 +838,7 @@ National Heritage Board Act
 
 (CHAPTER 196A)
 
-This Legislative History is provided for the convenience of users of the National Heritage Board Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the National Heritage Board Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -957,3 +879,7 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|8.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
