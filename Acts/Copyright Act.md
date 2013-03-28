@@ -922,7 +922,9 @@ but does not include —
 
 “archives” means —
 
-(a) archival material in the custody of the National Archives of Singapore established under section 17 of the National Heritage Board Act (Cap. 196A);
+(a) archival material in the custody of the National Archives of Singapore administered by the National Library Board in accordance with Part IIA of the National Library Board Act (Cap. 197);
+
+[Act 25 of 2012 wef 28/03/2013]
 
 (b) a collection of documents or other material to which this paragraph applies by virtue of subsection (4);
 
@@ -986,7 +988,7 @@ to cause a device having information processing capabilities to perform a partic
 
 “copy”, in relation to a cinematograph film, means any article or thing in which the visual images or sounds comprising the film are embodied;
 
-“Copyright Act 1911” means the Copyright Act 1911\** of the United Kingdom (U.K. 1911 c. 46) insofar as it has effect as part of the law of Singapore;
+“Copyright Act 1911” means the Copyright Act 1911\*of the United Kingdom (U.K. 1911 c. 46) insofar as it has effect as part of the law of Singapore;
 
 \*Repealed by section 203 of the Copyright Act 1987 (Act 2 of 1987), which is omitted in this Edition.
 
@@ -2186,7 +2188,7 @@ Acts not Constituting Infringements of Copyright in Literary, Dramatic and Music
 
 [6/98]
 
-(5) Subsection (1) shall not apply in relation to a recording or film unless all the records embodying the recording or all the copies of the film are destroyed or are delivered, with the consent of the director of National Archives, to the National Archives of Singapore —
+(5) Subsection (1) shall not apply in relation to a recording or film unless all the records embodying the recording or all the copies of the film are destroyed or are delivered, with the consent of the Director of National Archives, to the National Archives of Singapore —
 
 (a) before the expiration of the period of 6 months or, in the case of a recording or film made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which any of the records embodying the recording or any of the copies of the film is first used for broadcasting the work or adaptation in accordance with that subsection; or
 
@@ -2195,6 +2197,8 @@ Acts not Constituting Infringements of Copyright in Literary, Dramatic and Music
 [6/98]
 
 [Aust. 1968, s. 47]
+
+[Act 25 of 2012 wef 28/03/2013]
 
 ### Reproduction for purpose of simulcasting
 
@@ -2967,7 +2971,7 @@ Acts not Constituting Infringements of Copyright in Artistic Works
 
 [23/2009 wef 31/12/2009]
 
-(5) Subsection (1) shall not apply in relation to a film unless all the copies of the film are destroyed or are delivered, with the consent of the director of the National Archives, to the National Archives of Singapore —
+(5) Subsection (1) shall not apply in relation to a film unless all the copies of the film are destroyed or are delivered, with the consent of the Director of National Archives, to the National Archives of Singapore —
 
 (a) before the expiration of the period of 6 months or, in the case of a film made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which any of the copies of the film is first used for including the work in a television broadcast or cable programme in accordance with that subsection; or
 
@@ -2976,6 +2980,8 @@ Acts not Constituting Infringements of Copyright in Artistic Works
 [6/98]
 
 [Aust. 1968, s. 70]
+
+[Act 25 of 2012 wef 28/03/2013]
 
 ### Reproduction of work in different dimensions
 
@@ -3591,7 +3597,7 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 
 [6/98]
 
-(5) Subsection (1) shall not apply in relation to a copy of a sound recording unless all the copies made in accordance with that subsection are destroyed or are delivered, with the consent of the director of the National Archives, to the National Archives of Singapore —
+(5) Subsection (1) shall not apply in relation to a copy of a sound recording unless all the copies made in accordance with that subsection are destroyed or are delivered, with the consent of the Director of National Archives, to the National Archives of Singapore —
 
 (a) before the expiration of the period of 6 months or, in the case of a copy made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which any of the copies made in accordance with that subsection is first used for broadcasting the recording in accordance with that subsection; or
 
@@ -3600,6 +3606,8 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 [6/98]
 
 [Aust. 1968, s. 107]
+
+[Act 25 of 2012 wef 28/03/2013]
 
 ### Making of copy of sound recording or cinematograph film for purpose of simulcasting
 
@@ -9198,6 +9206,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 16/2009 published on 18 August 2009)|
 ||Date of Second and Third Readings|15 September 2009|
 ||Date of commencement|31 December 2009|
+|21.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|28 March 2013|
 ## COMPARATIVE TABLE
 
 Copyright Act
