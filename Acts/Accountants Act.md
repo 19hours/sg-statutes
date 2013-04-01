@@ -1874,3 +1874,8 @@ This Legislative History is provided for the convenience of users of the Account
 |||(Bill No. 4/2006 published on 18 January 2006)|
 ||Date of Second and Third Readings|14 February 2006|
 ||Date of commencement|6 October 2006|
+|6.|**Act 5 of 2013—Singapore Accountancy Commission Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 November 2012 (Bill No. 40/2012 published on 15 November 2012)|
+||Date of Second and Third Readings|15 January 2013|
+||Date of commencement|1 April 2013|
