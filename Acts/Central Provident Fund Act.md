@@ -5478,9 +5478,9 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1\. Subject to paragraphs 1A to 7, with effect from 1st September 2012, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1st September 2012, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-1.—(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
@@ -5708,9 +5708,7 @@ An amount equal to the sum of —
 
 18.5% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 years of age:
+(b) where the employee is above 55 years of age:
 
 Above 55 but not more than
 60 years of age
@@ -5940,9 +5938,9 @@ An amount equal to the sum of —
 
 [S 441/2012 wef 01/09/2012]
 
-1A\. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1A. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-1A.—(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
@@ -6170,9 +6168,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 years of age:
+(b) where the employee is above 55 years of age:
 
 Above 55 but not more than
 60 years of age
@@ -6402,9 +6398,9 @@ An amount equal to the sum of —
 
 [S 441/2012 wef 01/09/2012]
 
-1B\. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1B. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-1B.—(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
@@ -6632,9 +6628,7 @@ An amount equal to the sum of —
 
 15% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 years of age:
+(b) where the employee is above 55 years of age:
 
 Above 55 but not more than
 60 years of age
@@ -6864,9 +6858,9 @@ An amount equal to the sum of —
 
 [S 441/2012 wef 01/09/2012]
 
-1C\. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1C. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-1C.—(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
@@ -7094,9 +7088,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 years of age:
+(b) where the employee is above 55 years of age:
 
 Above 55 but not more than
 60 years of age
@@ -7326,9 +7318,9 @@ An amount equal to the sum of —
 
 [S 441/2012 wef 01/09/2012]
 
-1D\. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1D. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-1D.—(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
@@ -7556,9 +7548,7 @@ An amount equal to the sum of —
 
 15% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 years of age:
+(b) where the employee is above 55 years of age:
 
 Above 55 but not more than
 60 years of age
@@ -8019,6 +8009,10 @@ shall be disregarded; and
 (51) Sentosa Development Corporation.
 
 (52) Sikh Advisory Board.
+
+(52A) Singapore Accountancy Commission.
+
+[S 315/2013 wef 01/04/2013]
 
 (53) Singapore Corporation of Rehabilitative Enterprises.
 
@@ -8921,6 +8915,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|13 August 2012 (Bill No. 21/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|1 January 2013 (sections 2(b) and (d), 4, 7(a) to (d), (g) to (n) and (p) to (x), 13 to 16, 18 to 23, 25, 26, 27(a), (d) and (e), 28 to 32 and 42(a), (b), (e) and (g) to (m))|
+|184.|**G. N. No. S 315/2013—Central Provident Fund Act (Amendment of First Schedule) Notification 2013**|
+||Date of commencement|1 April 2013|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
