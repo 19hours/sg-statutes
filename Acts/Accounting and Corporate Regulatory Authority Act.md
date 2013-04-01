@@ -96,11 +96,11 @@
 
 - [38 Rules](#Rules)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
-[**SECOND SCHEDULE Written Laws Administered and Enforced by Authority**](#SECOND-SCHEDULE-Written-Laws-Administered-and-Enforced-by-Authority)
+[**SECOND SCHEDULE Written laws administered and enforced by Authority**](#SECOND-SCHEDULE-Written-laws-administered-and-enforced-by-Authority)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -226,7 +226,9 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
 
-(4) In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations.
+(4) In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations providing public accountancy services.
+
+[Act 5 of 2013 wef 01/04/2013]
 
 ### Powers of Authority
 
@@ -614,7 +616,7 @@ FIRST SCHEDULE
 
 Sections 5(4) and 37
 
-Constitution and Proceedings of Authority
+Constitution and proceedings of Authority
 
 Terms of office of Chairman and members
 
@@ -716,7 +718,7 @@ SECOND SCHEDULE
 
 Sections 6(1), 31(1), 33(1) and (2), 34(1) and (5) and 37
 
-Written Laws Administered and Enforced by Authority
+Written laws administered and enforced by Authority
 
 1\. Accountants Act (Cap. 2).
 
@@ -724,7 +726,7 @@ Written Laws Administered and Enforced by Authority
 
 3\. Companies Act (Cap. 50).
 
-4. [Deleted by Act 11/2005 wef 04/10/2005 wef 04/10/2005, wef 01/02/2006]
+4. [Deleted by Act 11/2005 wef 01/02/2006]
 
 5\. Limited Liability Partnerships Act (Act 5 of 2005).
 
@@ -736,7 +738,7 @@ THIRD SCHEDULE
 
 Section 21
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
@@ -810,7 +812,7 @@ Accounting and Corporate Regulatory Authority Act
 
 (CHAPTER 2A)
 
-This Legislative History is provided for the convenience of users of the Accounting and Corporate Regulatory Authority Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Accounting and Corporate Regulatory Authority Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -852,6 +854,12 @@ This Legislative History is provided for the convenience of users of the Account
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|9.|**Act 5 of 2013—Singapore Accountancy Commission Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 November 2012|
+|||(Bill No. 40/2012 published on 15 November 2012)|
+||Date of Second and Third Readings|15 January 2013|
+||Date of commencement|1 April 2013|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
@@ -868,5 +876,5 @@ Act 3 of 2004
 
 Omitted
 
-39
+39 
 
