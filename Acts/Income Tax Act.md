@@ -1412,7 +1412,9 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (viii) the Central Depository (Pte) Limited;
 
-(ix) an insurer registered or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being registered or regulated; or
+(ix) an insurer licensed or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being licensed or regulated; or
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (x) a trust company licensed under the Trust Companies Act (Cap. 336);
 
@@ -10530,7 +10532,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 “insurer” means —
 
-(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (b) a person (including a partnership) permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme;
 
@@ -15552,7 +15556,9 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (2) In this section, “insurer” means —
 
-(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (b) a person (including a partnership), other than an individual, permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme.
 
@@ -22199,7 +22205,6 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|23 February 2010 (Section 28)|
-||Date of commencement|23 February 2010|
 |259.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
@@ -22396,6 +22401,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|298.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|1 April 2013 (Section 30)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
