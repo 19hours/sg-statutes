@@ -2016,6 +2016,10 @@ Infectious Diseases
 
 21\. Nipah Virus Infection.
 
+21A. Novel Coronavirus Infection.
+
+[S 183/2013 wef 02/04/2013]
+
 22\. Paratyphoid.
 
 23\. Pertussis.
@@ -2044,7 +2048,7 @@ Infectious Diseases
 
 (e) Syphilis.
 
-30A\.Deleted by S 618/2010, wef 01/11/2010.
+30A. [Deleted by S 618/2010 wef 01/11/2010 wef 01/11/2010, wef 01/11/2010.]
 
 31\. Typhoid.
 
@@ -2117,17 +2121,23 @@ Section 57A(1)
 
 Diseases in Respect of Which Information May be Disclosed by the Director to A Person to Enable Him to Take Steps to Prevent Spread of Diseases
 
-(1) Severe Acute Respiratory Syndrome (SARS).
+1. 
 
-[S 616/2008 wef 01/12/2008]
+Novel Coronavirus Infection.
 
-(1A)Deleted by S 618/2010, wef 01/11/2010\.
+[S 183/2013 wef 02/04/2013]
 
-(2) Tuberculosis.
+2. 
 
-[S 616/2008 wef 01/12/2008]
+Severe Acute Respiratory Syndrome (SARS).
 
-[7/2003]
+[S 183/2013 wef 02/04/2013]
+
+3. 
+
+Tuberculosis.
+
+[S 183/2013 wef 02/04/2013]
 
 ## LEGISLATIVE HISTORY
 
@@ -2251,6 +2261,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|34.|**G.N. No. S 183/2013—Infectious Diseases Act (Amendment of First and Sixth Schedules) Notification 2013**|
+||Date of commencement|2 April 2013|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
