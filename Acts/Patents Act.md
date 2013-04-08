@@ -380,7 +380,9 @@ PRELIMINARY
 
 “European Patent Office” means the office of that name established by the European Patent Convention;
 
-“Examiner” means such person, organisation or foreign or international patent office or organisation as may be prescribed to whom the Registrar may refer questions relating to patents, including search and examination of applications for patents;
+“Examiner” means any person, organisation, entity or foreign or international patent office or organisation appointed by the Registrar for the purpose of referring any question or matter relating to patents (including the conduct of any search, examination or search and examination, in relation to an application for a patent, whether before or after the patent is granted), and includes any Deputy Registrar of Patents, and any Assistant Registrar of Patents or public officer to whom the Registrar has delegated, under section 5(1), any of the Registrar’s powers or functions under this Act;
+
+[Act 15 of 2012 wef 08/04/2013]
 
 “exclusive licence” means a licence from the proprietor of or applicant for a patent conferring on the licensee, or on him and persons authorised by him, to the exclusion of all other persons (including the proprietor or applicant), any right in respect of the invention to which the patent or application relates, and “exclusive licensee” and “non-exclusive licence” shall be construed accordingly;
 
@@ -3839,6 +3841,10 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 13/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|9 October 2009|
+|15.|**Act 15 of 2012—Patents (Amendment) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 13/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|8 April 2013|
 ## COMPARATIVE TABLE
 
 Patents Act
