@@ -308,7 +308,9 @@ PRELIMINARY
 
 (e) a licensed financial adviser under the Financial Advisers Act 2001;
 
-(f) a company or society registered under the Insurance Act (Cap. 142) as a direct insurer carrying on life business;
+(f) a company or co-operative society licensed under the Insurance Act (Cap. 142) as a direct insurer carrying on life business;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (g) an insurance intermediary licensed under any written law relating to insurance intermediaries if the intermediary arranges contracts of insurance in respect of life business; and
 
@@ -2602,9 +2604,15 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 ### Preservation of secrecy
 
-56\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no authorised officer, Suspicious Transaction Reporting Officer or immigration officer within the meaning of section 48B shall disclose any information or matter which has been obtained by him in the performance of his duties or the exercise of his functions under this Act.
+56\.—(1) Except as provided in subsection (1A), or for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no authorised officer, Suspicious Transaction Reporting Officer or immigration officer within the meaning of section 48B shall disclose any information or matter which has been obtained by him in the performance of his duties or the exercise of his functions under this Act.
 
 [44/2007 wef 01/11/2007]
+
+[Act 9 of 2013 wef 18/04/2013]
+
+(1A) A Suspicious Transaction Reporting Officer who is an officer or employee of the Monetary Authority of Singapore may disclose to the Monetary Authority of Singapore any information or matter which he has obtained in the performance of his duties or the exercise of his functions under this Act.
+
+[Act 9 of 2013 wef 18/04/2013]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -5635,6 +5643,18 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|33.|**Act 9 of 2013—Monetary Authority of Singapore (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 3/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|34.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013 (except section 65(a) and (b))|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
