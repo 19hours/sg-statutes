@@ -20,7 +20,7 @@
 
 - [5 Regulated agreements which are not enforceable](#Regulated-agreements-which-are-not-enforceable)
 
-[**IMPLIED TERMS**](#IMPLIED-TERMS)
+[**Part III IMPLIED TERMS**](#Part-III)
 
 - [6 Implied terms as to title](#Implied-terms-as-to-title)
 
@@ -244,6 +244,10 @@ PRELIMINARY
 
 [Act 7 of 2012 wef 01/09/2012]
 
+“licensed insurer” means an insurer who is for the time being licensed under section 8 of the Insurance Act (Cap. 142);
+
+[Act 11 of 2013 wef 18/04/2013]
+
 “motor vehicle” means a motor vehicle within the meaning of the Road Traffic Act (Cap. 276);
 
 [38/2004 wef 01/11/2004]
@@ -367,6 +371,8 @@ FORM AND CONTENTS OF REGULATED AGREEMENTS
 (b) it would be just and equitable to dispense with such of the requirements mentioned in paragraph (a),
 
 the court may, subject to any conditions that it thinks fit to impose, dispense with those requirements for the purpose of the action.
+
+## PART III
 
 IMPLIED TERMS
 
@@ -936,19 +942,25 @@ INSURANCE
 
 ### Restrictions on owner’s rights to require insurance
 
-26\.—(1) An owner shall not require a hirer to insure any such risk with any particular registered insurer.
+26\.—(1) An owner shall not require a hirer to insure any such risk with any particular licensed insurer.
 
-(2) An owner shall not refuse to enter into a regulated agreement with a person who effects insurance of the goods for the period of the agreement against such risks and subject to such reasonable terms, conditions and exceptions as are required by the owner in the names of the owner and the hirer with a registered insurer if the owner has no other grounds upon which the owner could reasonably refuse to enter into the agreement.
+[Act 11 of 2013 wef 18/04/2013]
+
+(2) An owner shall not refuse to enter into a regulated agreement with a person who effects insurance of the goods for the period of the agreement against such risks and subject to such reasonable terms, conditions and exceptions as are required by the owner in the names of the owner and the hirer with a licensed insurer if the owner has no other grounds upon which the owner could reasonably refuse to enter into the agreement.
 
 [Act 7 of 2012 wef 01/09/2012]
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (3) An owner shall not require a hirer to obtain insurance against risks or subject to terms, conditions and exceptions that the owner would not require if he arranged the insurance.
 
-(4) Where any goods comprised in a regulated agreement are insured in the joint names of the owner and the hirer against any risk with a particular registered insurer, there shall be an implied condition in the agreement that the hirer shall not, during the period of the agreement, insure those goods against any risk with another registered insurer without first informing the owner thereof.
+(4) Where any goods comprised in a regulated agreement are insured in the joint names of the owner and the hirer against any risk with a particular licensed insurer, there shall be an implied condition in the agreement that the hirer shall not, during the period of the agreement, insure those goods against any risk with another licensed insurer without first informing the owner thereof.
 
 [38/2004 wef 01/11/2004]
 
 [Act 7 of 2012 wef 01/09/2012]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 ### Benefit of rebate to pass to hirer
 
@@ -1692,6 +1704,12 @@ This Legislative History is provided for the convenience of users of the Hire-Pu
 |||(Bill No. 3/2012 published on 14 February 2012)|
 ||Date of Second and Third Readings|9 March 2012|
 ||Date of commencement|1 September 2012|
+|15.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
 ## COMPARATIVE TABLE
 
 Hire-Purchase Act
