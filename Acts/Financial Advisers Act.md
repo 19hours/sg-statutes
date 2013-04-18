@@ -110,7 +110,7 @@
 
 - [32 Insurance broking premium accounts](#Insurance-broking-premium-accounts)
 
-- [33 Negotiation and placement of risk with unregistered insurer](#Negotiation-and-placement-of-risk-with-unregistered-insurer)
+- [33 Negotiation and placement of risk with unlicensed insurer](#Negotiation-and-placement-of-risk-with-unlicensed-insurer)
 
 - [34 Representations by licensed financial advisers](#Representations-by-licensed-financial-advisers)
 
@@ -358,7 +358,7 @@ An Act to regulate financial advisers and their representatives, and for other p
 
 [2/2005]
 
-[6th August 2002: Section 105;
+[6th August 2002: Section 105 ;
 
 1st October 2002: Sections 1 to 104 ]
 
@@ -393,6 +393,8 @@ PRELIMINARY
 “collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
 “commodity” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[35/2007 wef 27/02/2008]
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -444,9 +446,9 @@ and includes a futures option transaction within the meaning of section 2(1) of 
 
 (b) such other contract or class of contracts as the Authority may prescribe,
 
-[1/2009 wef 26/11/2010]
-
 but does not include such contract or class of contracts as the Authority may prescribe;
+
+[1/2009 wef 26/11/2010]
 
 “futures exchange” has the same meaning as in section 2(1) of the Securities and Futures Act;
 
@@ -461,6 +463,10 @@ but does not include such contract or class of contracts as the Authority may pr
 “leveraged foreign exchange trading” has the same meaning as in section 2(1) of the Securities and Futures Act;
 
 [Deleted by Act 1 of 2009 wef 26/11/2010]
+
+“licensed insurer” means an insurer who is for the time being licensed under section 8 of the Insurance Act (Cap. 142);
+
+[Act 11 of 2013 wef 18/04/2013]
 
 “life policy” has the same meaning as in the First Schedule to the Insurance Act (Cap. 142), but does not include any contract of reinsurance;
 
@@ -506,7 +512,7 @@ but does not include such contract or class of contracts as the Authority may pr
 
 [1/2009 wef 26/11/2010]
 
-“registered insurer” means an insurer who is for the time being registered under section 8 of the Insurance Act;
+[Deleted by Act 11 of 2013 wef 18/04/2013]
 
 “related corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -674,6 +680,8 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 FINANCIAL ADVISERS AND REPRESENTATIVES
 
+[1/2009 wef 26/11/2010]
+
 Division 1 —
 
 Financial Advisers
@@ -707,6 +715,8 @@ Financial Advisers
 [1/2009 wef 26/11/2010]
 
 (2) The Authority may require an applicant to furnish it with such information or documents as it considers necessary in relation to the application.
+
+[SF Bill, Clause 84]
 
 (3) [Deleted by Act 1 of 2009 wef 26/11/2010]
 
@@ -777,8 +787,6 @@ Financial Advisers
 (ii) to reflect discredit on the manner of conduct of the business of the applicant or any of its substantial shareholders; or
 
 (q) the Authority is of the opinion that it would be contrary to the public interest to grant the licence.
-
-[1/2009 wef 26/11/2010]
 
 [15/2003; 2/2005]
 
@@ -860,6 +868,8 @@ Financial Advisers
 
 (4) Any licensed financial adviser which contravenes any condition or restriction imposed by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
+[SIA, s. 33]
+
 (5) [Deleted by Act 1 of 2009 wef 26/11/2010]
 
 ### Licence fees
@@ -872,7 +882,7 @@ Financial Advisers
 
 (a) during the period to which the licence fee relates, the licence is revoked or suspended or lapses under section 19;
 
-(b) [Deleted by Act 1 of 2009 wef 26/11/2010]
+(b) [Deleted by Act 1/2009 wef 26/11/2010]
 
 (c) during the period to which the licence fee relates, the licensed financial adviser fails or ceases to provide any financial advisory service; or
 
@@ -974,6 +984,8 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 
 (b) in the event of such other occurrence or in such other circumstances as may be prescribed.
 
+[1/2009 wef 26/11/2010]
+
 (2) The Authority may revoke a financial adviser’s licence if —
 
 (a) there exists a ground on which the Authority may refuse an application under section 9(1);
@@ -1010,13 +1022,19 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 
 (i) the licensed financial adviser fails or ceases to carry on business in all types of financial advisory service for which it was licensed.
 
+[1/2009 wef 26/11/2010]
+
 (3) The Authority may, if it considers it desirable to do so —
 
 (a) suspend a financial adviser’s licence for a specific period instead of revoking it under subsection (2); and
 
 (b) at any time extend or revoke the suspension.
 
+[1/2009 wef 26/11/2010]
+
 (4) Subject to subsection (5), the Authority shall not revoke or suspend a financial adviser’s licence under subsection (2) or (3) without giving the licensed financial adviser an opportunity to be heard.
+
+[1/2009 wef 26/11/2010]
 
 (5) The Authority may revoke or suspend a financial adviser’s licence without giving the licensed financial adviser an opportunity to be heard on any of the following grounds:
 
@@ -1028,7 +1046,11 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 
 (d) the licensed financial adviser has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
+[1/2009 wef 26/11/2010]
+
 (6) A person whose financial adviser’s licence is revoked or suspended shall cease to act as a financial adviser from the date on which the revocation or suspension takes effect.
+
+[1/2009 wef 26/11/2010]
 
 (7) Where the Authority has revoked or suspended a financial adviser’s licence, the licensed financial adviser shall —
 
@@ -1036,13 +1058,19 @@ the licensed financial adviser shall, not later than 14 days after the occurrenc
 
 (b) in the case of a suspension of its licence, immediately inform all its representatives by notice in writing of such suspension, and the representatives who are so informed shall cease to act as representatives of that licensed financial adviser during the period of the suspension.
 
+[1/2009 wef 26/11/2010]
+
 (8) A lapsing, revocation or suspension of a financial adviser’s licence shall not operate so as to —
 
 (a) avoid or affect any agreement, transaction or arrangement relating to any investment product entered into by the licensed financial adviser, whether the agreement, transaction or arrangement was entered into before, on or after the lapsing, revocation or suspension of the licence; or
 
 (b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
+[1/2009 wef 26/11/2010]
+
 (9) Any person who continues to act as a financial adviser in contravention of subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2009 wef 26/11/2010]
 
 (10) Any financial adviser which contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -1140,7 +1168,9 @@ from using the words “life insurance broker” together with the word “repre
 
 (b) a merchant bank approved as a financial institution and approved to carry on a business of providing any financial advisory service under the Monetary Authority of Singapore Act (Cap. 186);
 
-(c) a company or society registered under the Insurance Act (Cap. 142);
+(c) a company or co-operative society licensed under the Insurance Act (Cap. 142);
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (d) a holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
 
@@ -1152,7 +1182,7 @@ from using the words “life insurance broker” together with the word “repre
 
 [2/2005]
 
-(2) [Deleted byAct 2 of 2005]
+(2) [Deleted by Act 2 of 2005]
 
 (3) [Deleted by Act 2 of 2005]
 
@@ -1172,7 +1202,7 @@ from using the words “life insurance broker” together with the word “repre
 
 [2/2005]
 
-(5B) [Deleted by Act 1 of 2009 wef 26/11/2010]
+(5B) [Deleted by Act 1/2009 wef 26/11/2010]
 
 (5C) The reference in subsections (4) and (5A) to specific sections of this Act do not include references to any regulations made under those sections unless the Authority prescribes that such regulations so apply.
 
@@ -1232,6 +1262,8 @@ from using the words “life insurance broker” together with the word “repre
 
 23A\.—(1) Every exempt financial adviser and representative of a person exempted under section 23(1)(ea) or (f) shall, on a yearly basis on such date as the Authority may specify, pay such fee as the Authority may prescribe and in such manner and on such date as the Authority may specify.
 
+[1/2009 wef 26/11/2010]
+
 (2) Any fee paid under subsection (1) shall not be refunded or remitted if —
 
 (a) in the case of an exempt financial adviser —
@@ -1254,7 +1286,11 @@ during the period to which the fee relates; and
 
 during the period to which the fee relates.
 
+[1/2009 wef 26/11/2010]
+
 (3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any fee paid or payable to the Authority.
+
+[1/2009 wef 26/11/2010]
 
 (4) Where an exempt financial adviser or representative of a person exempted under section 23(1)(ea) or (f) fails to pay the fee by the date on which such fee is due, the Authority may impose a late payment fee of a prescribed amount for every day or part thereof that the payment is late and both fees shall be recoverable by the Authority as a judgment debt.
 
@@ -1682,7 +1718,7 @@ General
 
 ### Obligation to disclose product information to clients
 
-25\.—(1) A licensee shall disclose, to every client and prospective client, all material information relating to any designated investment product that the licensed financial adviser recommends to such person, including —
+25\.—(1) A licensed financial adviser shall disclose, to every client and prospective client, all material information relating to any designated investment product that the licensed financial adviser recommends to such person, including —
 
 (a) the terms and conditions of the designated investment product;
 
@@ -1690,27 +1726,29 @@ General
 
 (c) the premium, costs, expenses, fees or other charges that may be imposed in respect of the designated investment product;
 
-(d) where the designated investment product is a unit in a collective investment scheme, the name of the manager of the scheme and the relationship between the licensee and the manager;
+(d) where the designated investment product is a unit in a collective investment scheme, the name of the manager of the scheme and the relationship between the licensed financial adviser and the manager;
 
-(e) where the designated investment product is a life policy, the name of the registered insurer under the life policy and the relationship between the licensee and the insurer; and
+(e) where the designated investment product is a life policy, the name of the licensed insurer under the life policy and the relationship between the licensed financial adviser and the insurer; and
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (f) such other information as the Authority may prescribe.
 
 [1/2009 wef 26/11/2010]
 
-(2) The Authority may specify, in written directions, the information required to be disclosed under subsection (1)(a), (b) or (c), and the form or manner in which information relating to any designated investment product may be disclosed to any client of a icensed financial adviser.
+(2) The Authority may specify, in written directions, the information required to be disclosed under subsection (1)(a), (b) or (c), and the form or manner in which information relating to any designated investment product may be disclosed to any client of a licensed financial adviser.
 
 [1/2009 wef 26/11/2010]
 
 (3) The Authority may, in writing, require a licensed financial adviser to submit to it —
 
-(a) all written communication which sets out information relating to any designated investment product for the time being in use by the licensee; and
+(a) all written communication which sets out information relating to any designated investment product for the time being in use by the licensed financial adviser; and
 
 (b) where any written communication referred to in paragraph (a) is not in English, a translation of such written communication in English.
 
 [1/2009 wef 26/11/2010]
 
-(4) If it appears to the Authority, after affording the licensed financial adviser an opportunity to make representations orally or in writing, that any written communication submitted under subsection (3) contravenes any provision of this Act, or is in any respect likely to mislead, the Authority may, in writing, direct the licensee to discontinue the use, in Singapore, of the written communication immediately or from a specified date.
+(4) If it appears to the Authority, after affording the licensed financial adviser an opportunity to make representations orally or in writing, that any written communication submitted under subsection (3) contravenes any provision of this Act, or is in any respect likely to mislead, the Authority may, in writing, direct the licensed financial adviser to discontinue the use, in Singapore, of the written communication immediately or from a specified date.
 
 [1/2009 wef 26/11/2010]
 
@@ -1768,6 +1806,8 @@ if, when he makes the statement —
 
 [Act 35 of 2012 wef 18/03/2013]
 
+[1/2009 wef 26/11/2010]
+
 (1A) A licensed financial adviser shall not, in connection with the provision of any financial advisory service —
 
 (a) employ any device, scheme or artifice to defraud; or
@@ -1812,13 +1852,13 @@ then, without prejudice to any other remedy available to that person, the licens
 
 [1/2009 wef 26/11/2010]
 
-[Insurance Intermediaries, s. 6 (1), (2) and (5)]
-
 [Act 35 of 2012 wef 18/03/2013]
+
+[Insurance Intermediaries, s. 6 (1), (2) and (5)]
 
 ### Recommendations by licensed financial advisers
 
-27\.—(1) No licensed financial adviser shall make a recommendation with respect to any investment product to a person who may reasonably be expected to rely on the recommendation if the licensee does not have a reasonable basis for making the recommendation to the person.
+27\.—(1) No licensed financial adviser shall make a recommendation with respect to any investment product to a person who may reasonably be expected to rely on the recommendation if the licensed financial adviser does not have a reasonable basis for making the recommendation to the person.
 
 [1/2009 wef 26/11/2010]
 
@@ -1832,7 +1872,7 @@ then, without prejudice to any other remedy available to that person, the licens
 
 (3) Where —
 
-(a) a licensee, in making a recommendation to a person, contravenes subsection (1);
+(a) a licensed financial adviser, in making a recommendation to a person, contravenes subsection (1);
 
 (b) the person, in reliance on the recommendation, does a particular act, or refrains from doing a particular act;
 
@@ -1952,11 +1992,13 @@ shall, for the purposes of this section, establish and maintain a separate accou
 
 [Insurance Intermediaries, s. 22]
 
-### Negotiation and placement of risk with unregistered insurer
+### Negotiation and placement of risk with unlicensed insurer
 
-33\.—(1) Subject to subsection (4), no licensed financial adviser shall, in the course of his business as such, negotiate any contract of insurance with an insurer (directly or indirectly) except with a registered insurer acting in the course of his business as such.
+33\.—(1) Subject to subsection (4), no licensed financial adviser shall, in the course of his business as such, negotiate any contract of insurance with an insurer (directly or indirectly) except with a licensed insurer acting in the course of his business as such.
 
 [1/2009 wef 26/11/2010]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (2) The reference in subsection (1) to a contract of insurance shall not apply to —
 
@@ -1966,11 +2008,13 @@ shall, for the purposes of this section, establish and maintain a separate accou
 
 (c) such other risks as may be prescribed.
 
-(3) In subsection (2)(b), “risks outside Singapore” means any risk which would be classified as an offshore policy as defined in the First Schedule to the Insurance Act (Cap. 142) had the risk been underwritten by a registered insurer in Singapore.
+(3) In subsection (2)(b), “risks outside Singapore” means any risk which would be classified as an offshore policy as defined in the First Schedule to the Insurance Act (Cap. 142) had the risk been underwritten by a licensed insurer in Singapore.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (4) Where in any particular case the Authority is satisfied that, by reason of the exceptional nature of the risk or other exceptional circumstances, it is not reasonably practicable to comply with subsection (1), the Authority may permit any licensed financial adviser —
 
-(a) to negotiate the contract of insurance with such insurer as the licensee sees fit; and
+(a) to negotiate the contract of insurance with such insurer as the licensed financial adviser sees fit; and
 
 (b) if in the opinion of the Authority the case requires it, to effect the contract of insurance and receive the premium in Singapore on behalf of such insurer.
 
@@ -2028,7 +2072,7 @@ Securities
 
 [1/2009 wef 26/11/2010]
 
-(2) Where a licensee is charged with an offence in respect of a contravention of subsection (1), it shall be a defence for the licensed financial adviser to prove that, at the time the circular or other communication was sent, he was not aware and could not reasonably be expected to have been aware —
+(2) Where a licensed financial adviser is charged with an offence in respect of a contravention of subsection (1), it shall be a defence for the licensed financial adviser to prove that, at the time the circular or other communication was sent, he was not aware and could not reasonably be expected to have been aware —
 
 (a) that he had an interest in, or an interest in the acquisition or disposal of, the securities; or
 
@@ -2046,7 +2090,7 @@ as the case may be.
 
 (c) notwithstanding section 2(1) or 3, a person is not connected to or associated with another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
 
-(4) [Deleted byAct 15 of 2003]
+(4) [Deleted by Act 15 of 2003]
 
 (5) When a licensed financial adviser sends to a person a circular or other communication to which subsection (1) applies, the licensed financial adviser shall preserve a copy of the circular or other communication for 5 years.
 
@@ -2068,6 +2112,8 @@ Division 4 —
 
 Appointed and Provisional Representatives
 
+[1/2009 wef 26/11/2010]
+
 ### Business conduct requirements for appointed and provisional representatives
 
 37\.—(1) Subject to the provisions of this Act, sections 25, 26, 27, 29, 33, 34 and 36 shall apply, with the necessary modifications, to an appointed or provisional representative in respect of his acting as such as if he were a licensed financial adviser.
@@ -2087,6 +2133,8 @@ Appointed and Provisional Representatives
 (a) avoid or affect any agreement, transaction or arrangement relating to any investment product entered into by the person, whether the agreement, transaction or arrangement was entered into before, on or after the withdrawal of the exemption; or
 
 (b) affect any right, obligation or liability arising under any agreement, transaction or arrangement referred to in paragraph (a).
+
+[1/2009 wef 26/11/2010]
 
 38\. [Deleted by Act 1/2009 wef 26/11/2010]
 
@@ -2172,7 +2220,7 @@ Audit
 
 and the licensed financial adviser shall comply with such direction.
 
-(4) [Deleted byAct 2 of 2005]
+(4) [Deleted by Act 2 of 2005]
 
 (5) Any licensed financial adviser which contravenes subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day or part thereof that the lodgment is late, subject to a maximum of $50,000.
 
@@ -2386,7 +2434,7 @@ unless it has obtained the approval of the Authority.
 
 (b) principally responsible for the management and conduct of any type of business of the financial adviser in Singapore.
 
-[SF Bill,Clause96]
+[SF Bill, Clause 96]
 
 ### Removal of officer of licensed financial adviser
 
@@ -2948,11 +2996,13 @@ Inspection Powers of Authority
 
 (2) For the purposes of an inspection under this section —
 
-(a) a person referred to in subsection (1), and any person who is in possession of the books , shall produce such books to the Authority and give such information or facilities as may be required by the Authority;
+(a) a person referred to in subsection (1), and any person who is in possession of the books, shall produce such books to the Authority and give such information or facilities as may be required by the Authority;
 
 [1/2009 wef 26/11/2010]
 
-(b) the licensee shall procure that any person who is in possession of its books produce the books to the Authority and give such information or facilities as may be required by the Authority; and
+(b) a person referred to in subsection (1) shall procure that any person who is in possession of its books produce the books to the Authority and give such information or facilities as may be required by the Authority; and
+
+[1/2009 wef 26/11/2010]
 
 (c) the Authority may —
 
@@ -3020,6 +3070,8 @@ Subdivision (1) —
 
 General
 
+[Act 35 of 2012 wef 19/03/2013]
+
 ### Investigation by Authority
 
 71\.—(1) The Authority may conduct such investigation as it considers necessary or expedient for any of the following purposes:
@@ -3041,6 +3093,8 @@ General
 (a) providing information or producing books to the Authority if he had provided the information or produced the books in good faith in compliance with a requirement imposed by the Authority under this Division; or
 
 (b) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this Division.
+
+[SF Bill, Clause 152]
 
 (6) In this section, “requirement imposed by the Authority” includes a requirement imposed by an investigator under Subdivision (2) or (3).
 
@@ -3072,9 +3126,13 @@ General
 
 (c) where the disclosure was made in an electronic form, he had as soon as practicable after receiving the report taken all reasonable steps to ensure that all electronic copies of the report had been deleted and that the report and all copies thereof in other forms had been surrendered to the Authority.
 
+[1/2009 wef 26/11/2010]
+
 Subdivision (2) —
 
 Examination of persons
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Proceedings at examination
 
@@ -3176,9 +3234,13 @@ Subdivision (3) —
 
 Powers to obtain information
 
+[Act 35 of 2012 wef 18/03/2013]
+
 ### Power to order production of books
 
 72\. For the purpose of an investigation under this Division, the Authority may, in writing, require any person to provide information or produce any book relating to any matter under investigation at a specified time and place, and such person shall immediately comply with that requirement.
+
+[SF Bill, Clause 163]
 
 ### Power to enter premises without warrant
 
@@ -3322,7 +3384,7 @@ Powers to obtain information
 
 [Act 35 of 2012 wef 18/03/2013]
 
-(7) Without prejudice to sections 72A(5) and 73(2)(d), if subsection (1)(a) or (b) applies, the Authority, an investigator or authorised person referred to in subsection (1)(a), a person referred to in subsection (1) (b) or a person into whose possession the books are delivered under subsection (6), may require —
+(7) Without prejudice to sections 72A(5) and 73(2)(d), if subsection (1)(a) or (b) applies, the Authority, an investigator or authorised person referred to in subsection (1)(a), a person referred to in subsection (1)(b) or a person into whose possession the books are delivered under subsection (6), may require —
 
 (a) if subsection (1)(a) applies, a person who so produced any of the books; or
 
@@ -3332,6 +3394,8 @@ to explain, to the best of his knowledge and belief, any matter about the compil
 
 [Act 35 of 2012 wef 18/03/2013]
 
+[SF Bill, Clause 165; ASIC 2001, s. 37]
+
 ### Powers where books not produced
 
 75\. Where a person fails to comply with a requirement imposed by the Authority under section 72 to produce any book, the Authority may require the person to state, to the best of his knowledge and belief —
@@ -3339,6 +3403,8 @@ to explain, to the best of his knowledge and belief, any matter about the compil
 (a) the place where such book may be found; or
 
 (b) the person who last had possession, custody or control of such book and the place where that person may be found.
+
+[SF Bill, Clause 166; ASIC 2001, s. 38]
 
 ### Offences under this Division
 
@@ -3364,9 +3430,13 @@ to explain, to the best of his knowledge and belief, any matter about the compil
 
 [Act 35 of 2012 wef 18/03/2013]
 
+[SF Bill, Clause 168; ASIC 2001, ss. 63-67]
+
 Division 4 —
 
 Transfer of Evidence
+
+[Act 35 of 2012 wef 18/03/2013]
 
 ### Interpretation of this Division
 
@@ -3896,13 +3966,13 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (a) if the court is satisfied that the person has engaged in conduct of that kind, whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 
-(b) if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind, whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first mentioned person engages in conduct of that kind.
+(b) if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind, whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
 (9) Where an application is made to the court for the making of an order under subsection (2), the power of the court to make the order may be exercised —
 
 (a) if the court is satisfied that the person has refused or failed to do that act or thing, whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
 
-(b) if it appears to the court that, in the event that an order is not made, it is likely the person will refuse or fail to do that act or thing, whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first mentioned person refuses or fails to do that act or thing.
+(b) if it appears to the court that, in the event that an order is not made, it is likely the person will refuse or fail to do that act or thing, whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
 (10) Where the Authority or any person referred to in subsection (1)(b) or (2)(b) makes an application to the court for the grant of an injunction or interim injunction or for the making of an order or interim order under this section, the court shall not require the Authority or that person, as the case may be, or any other person, as a condition of granting the injunction, interim injunction, order or interim order, to give any undertaking as to damages.
 
@@ -4064,7 +4134,7 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 [1/2009 wef 26/11/2010]
 
-(c) [Deleted byAct 15 of 2003]
+(c) [Deleted by Act 15 of 2003]
 
 (d) the particulars to be recorded in, or in respect of, books kept by any licensed financial adviser;
 
@@ -4138,6 +4208,8 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (2) In subsection (1), “commodity futures trading adviser” and “commodity futures trading adviser’s representative” have the meanings given to those expressions in the Commodity Trading Act (Cap. 48A) in force immediately before the commencement of this provision.
 
+[35/2007 wef 27/08/2007]
+
 ### Transitional and savings provisions
 
 105\. The Authority may, by regulations, prescribe such transitional, savings and other consequential provisions as it may consider necessary or expedient.
@@ -4200,9 +4272,9 @@ whose carrying on of the business of providing any financial advisory service is
 
 [FTA, s. 2; SIA, s. 2]
 
-[1/2009 wef 26/11/2010]
-
 [15/2003; 2/2005; 11/2005]
+
+[1/2009 wef 26/11/2010]
 
 SECOND SCHEDULE
 
@@ -4322,7 +4394,7 @@ Financial Advisers Act
 
 (CHAPTER 110)
 
-This Legislative History is provided for the convenience of users of the Financial Advisers Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Financial Advisers Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -4395,6 +4467,12 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 32/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
 ||Date of commencement|18 March 2013|
+|15.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013 (except sections 65(a) and (b))|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
