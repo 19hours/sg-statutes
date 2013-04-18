@@ -92,7 +92,7 @@
 
 [**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
 
-- [31 Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
+- [31 (Repealed)](#Repealed)
 
 - [32 Power of Authority in securities market](#Power-of-Authority-in-securities-market)
 
@@ -128,9 +128,29 @@
 
 - [44 Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
 
+- [44A Interpretation of sections 44A to 44F](#Interpretation-of-sections-44A-to-44F)
+
+- [44B Action by Authority if approved exchange or recognised market operator unable to meet obligations, etc.](#Action-by-Authority-if-approved-exchange-or-recognised-market-operator-unable-to-meet-obligations-etc)
+
+- [44C Effect of assumption of control under section 44B](#Effect-of-assumption-of-control-under-section-44B)
+
+- [44D Duration of control](#Duration-of-control)
+
+- [44E Responsibilities of officers, member, etc., of approved exchange or recognised market operator](#Responsibilities-of-officers-member-etc-of-approved-exchange-or-recognised-market-operator)
+
+- [44F Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
+
 - [45 Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
 
 - [46 Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+
+[**Division 5  Voluntary Transfer of Business of Approved Exchange or Recognised Market Operator**](#Division-5--Voluntary-Transfer-of-Business-of-Approved-Exchange-or-Recognised-Market-Operator)
+
+- [46AA Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [46AAA Voluntary transfer of business](#Voluntary-transfer-of-business)
+
+- [46AAB Approval of transfer](#Approval-of-transfer)
 
 [**Part III CLEARING FACILITIES**](#Part-III)
 
@@ -298,6 +318,20 @@
 
 - [81ZG Listing of approved holding companies on securities market](#Listing-of-approved-holding-companies-on-securities-market)
 
+- [81ZGA Information of insolvency, etc.](#Information-of-insolvency-etc)
+
+- [81ZGB Interpretation of sections 81ZGB to 81ZGG](#Interpretation-of-sections-81ZGB-to-81ZGG)
+
+- [81ZGC Action by Authority if approved holding company unable to meet obligations, etc.](#Action-by-Authority-if-approved-holding-company-unable-to-meet-obligations-etc)
+
+- [81ZGD Effect of assumption of control under section 81ZGC](#Effect-of-assumption-of-control-under-section-81ZGC)
+
+- [81ZGE Duration of control](#Duration-of-control)
+
+- [81ZGF Responsibilities of officers, member, etc., of approved holding company](#Responsibilities-of-officers-member-etc-of-approved-holding-company)
+
+- [81ZGG Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
+
 - [81ZH Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
 
 - [81ZI Power of Authority to exempt approved holding companies from provisions of this Part](#Power-of-Authority-to-exempt-approved-holding-companies-from-provisions-of-this-Part)
@@ -307,6 +341,14 @@
 - [81ZK Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
 
 - [81ZL Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+
+[**Division 3  Voluntary Transfer of Business of Approved Holding Company**](#Division-3--Voluntary-Transfer-of-Business-of-Approved-Holding-Company)
+
+- [81ZM Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [81ZN Voluntary transfer of business](#Voluntary-transfer-of-business)
+
+- [81ZO Approval of transfer](#Approval-of-transfer)
 
 [**Part IV HOLDERS OF CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVES**](#Part-IV)
 
@@ -350,11 +392,33 @@
 
 - [97B Objection to control of holder of capital markets services licence](#Objection-to-control-of-holder-of-capital-markets-services-licence)
 
+- [97C Information of insolvency, etc.](#Information-of-insolvency-etc)
+
+- [97D Interpretation of sections 97D to 97I](#Interpretation-of-sections-97D-to-97I)
+
+- [97E Action by Authority if holder of capital markets services licence unable to meet obligations, etc.](#Action-by-Authority-if-holder-of-capital-markets-services-licence-unable-to-meet-obligations-etc)
+
+- [97F Effect of assumption of control under section 97E](#Effect-of-assumption-of-control-under-section-97E)
+
+- [97G Duration of control](#Duration-of-control)
+
+- [97H Responsibilities of officers, member, etc., of holder of capital markets services licence](#Responsibilities-of-officers-member-etc-of-holder-of-capital-markets-services-licence)
+
+- [97I Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
+
 - [98 Appeals](#Appeals)
 
 - [99 Exemptions from requirement to hold capital markets services licence](#Exemptions-from-requirement-to-hold-capital-markets-services-licence)
 
 - [99A Annual fees payable by exempt person and certain representatives](#Annual-fees-payable-by-exempt-person-and-certain-representatives)
+
+[**Division 1A  Voluntary Transfer of Business of Holder of Capital Markets Services Licence**](#Division-1A--Voluntary-Transfer-of-Business-of-Holder-of-Capital-Markets-Services-Licence)
+
+- [99AA Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [99AB Voluntary transfer of business](#Voluntary-transfer-of-business)
+
+- [99AC Approval of transfer](#Approval-of-transfer)
 
 [**Division 2  Representatives**](#Division-2--Representatives)
 
@@ -1118,6 +1182,22 @@
 
 - [292 Liability of trustees](#Liability-of-trustees)
 
+- [292A Disqualification or removal of director or executive officer](#Disqualification-or-removal-of-director-or-executive-officer)
+
+- [292B Information of insolvency, etc.](#Information-of-insolvency-etc)
+
+- [292C Interpretation of sections 292C to 292H](#Interpretation-of-sections-292C-to-292H)
+
+- [292D Action by Authority if approved trustee unable to meet obligations, etc.](#Action-by-Authority-if-approved-trustee-unable-to-meet-obligations-etc)
+
+- [292E Effect of assumption of control under section 292D](#Effect-of-assumption-of-control-under-section-292D)
+
+- [292F Duration of control](#Duration-of-control)
+
+- [292G Responsibilities of officers, member, etc., of approved trustee](#Responsibilities-of-officers-member-etc-of-approved-trustee)
+
+- [292H Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
+
 - [293 Authority may issue directions](#Authority-may-issue-directions)
 
 - [294 Service](#Service)
@@ -1129,6 +1209,14 @@
 - [295B Unclaimed money to be paid to Official Receiver](#Unclaimed-money-to-be-paid-to-Official-Receiver)
 
 - [295C Remedies in cases of oppression or injustice](#Remedies-in-cases-of-oppression-or-injustice)
+
+[**Subdivision (2A) — Voluntary transfer of business ofapproved trustee**](#Subdivision-2A-—-Voluntary-transfer-of-business-ofapproved-trustee)
+
+- [295D Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
+
+- [295E Voluntary transfer of business](#Voluntary-transfer-of-business)
+
+- [295F Approval of transfer](#Approval-of-transfer)
 
 [**Subdivision (3) — Prospectus requirements**](#Subdivision-3-—-Prospectus-requirements)
 
@@ -1489,6 +1577,14 @@ but does not include such person or class of persons as may be prescribed; or
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “entity” includes a corporation, an unincorporated association, a partnership and the government of any state, but does not include a trust;
+
+“executive officer”, in relation to an approved exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, the holder of a capital markets services licence, or any other corporation, means any person, by whatever name called, who is —
+
+(a) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house, approved holding company, holder of a capital markets services licence, or other corporation, as the case may be; and
+
+(b) concerned with or takes part in the management of the approved exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house, approved holding company, holder of a capital markets services licence, or other corporation, as the case may be, on a day-to-day basis;
+
+[Act 10 of 2013 wef 18/04/2013]
 
 “exempt market operator” means —
 
@@ -2080,7 +2176,9 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 (iii) a finance company that is licensed under the Finance Companies Act (Cap. 108);
 
-(iv) a company or society registered under the Insurance Act (Cap. 142) as an insurer;
+(iv) a company or co-operative society that is licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (v) a company licensed under the Trust Companies Act 2005 (Act 11 of 2005);
 
@@ -2459,6 +2557,10 @@ as the Authority may require;
 (ii) any direction issued to it by the Authority under this Act; or
 
 (iii) any provision in this Act;
+
+(da) upon the Authority exercising any power under section 44B(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
 
@@ -3148,47 +3250,7 @@ on any market operated by the approved exchange.
 
 Subdivision (4) — Powers of Authority
 
-### Power of Authority to appoint adviser
-
-31\.—(1) Where —
-
-(a) an approved exchange informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
-
-(b) an approved exchange becomes unable to meet its obligations, or is insolvent, or suspends payments;
-
-(c) the Authority is of the opinion that an approved exchange —
-
-(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 5;
-
-(ii) is or is likely to become insolvent or that it is or is likely to become unable to meet its obligations, or that it is about to suspend payments;
-
-(iii) has contravened any of the provisions of this Act; or
-
-(iv) has failed to comply with any condition attached to its approval as an approved exchange; or
-
-(d) the Authority considers it in the public interest to do so,
-
-the Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise the approved exchange on the proper management of such of the business of the approved exchange as the Authority may determine.
-
-(2) Where the Authority has exercised its power under subsection (1), it may at any time do one or more of the following:
-
-(a) vary or revoke any appointment made by the Authority in the exercise of such power, on such terms and conditions as it may specify;
-
-(b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
-
-(c) add to, vary or revoke any term or condition specified by the Authority under this section.
-
-(3) No action, suit or other legal proceedings shall lie against a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
-
-(a) the exercise or purported exercise of any power under this Act;
-
-(b) the performance or purported performance of any function or duty under this Act; or
-
-(c) the compliance or purported compliance with this Act.
-
-(4) The Authority may at any time fix the remuneration and expenses to be paid by an approved exchange to a statutory adviser appointed in relation to the approved exchange, whether or not the appointment has been terminated.
-
-(5) The approved exchange shall reimburse the Authority any remuneration and expenses payable by the approved exchange to a statutory adviser and paid by the Authority to the statutory adviser.
+31\. [Repealed by Act 10 of 2013 wef 18/04/2013]
 
 ### Power of Authority in securities market
 
@@ -3590,6 +3652,204 @@ the Authority may, if it thinks it necessary in the interests of the public or a
 
 [1/2005]
 
+### Interpretation of sections 44A to 44F
+
+44A\. In this section and sections 44B to 44F, unless the context otherwise requires —
+
+“business” includes affairs and property;
+
+“office holder”, in relation to an approved exchange or a recognised market operator, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the approved exchange or recognised market operator (as the case may be), or acting in an equivalent capacity in relation to the approved exchange or recognised market operator (as the case may be);
+
+“relevant business” means any business of an approved exchange or a recognised market operator —
+
+(a) which the Authority has assumed control of under section 44B; or
+
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 44B;
+
+“statutory adviser” means a statutory adviser appointed under section 44B;
+
+“statutory manager” means a statutory manager appointed under section 44B.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Action by Authority if approved exchange or recognised market operator unable to meet obligations, etc.
+
+44B\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+
+(a) an approved exchange or a recognised market operator informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) an approved exchange or a recognised market operator becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that an approved exchange or a recognised market operator —
+
+(i) is carrying on its business in a manner likely to be detrimental to the interests of the public or a section of the public or the protection of investors, or to the objectives specified in section 5;
+
+(ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition or restriction imposed on it under section 8(4) or (5); or
+
+(d) the Authority considers it in the public interest to do so.
+
+(2) Subject to subsections (1) and (3), the Authority may —
+
+(a) require the approved exchange or recognised market operator (as the case may be) immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
+
+(b) appoint one or more persons as statutory adviser, on such terms and conditions as the Authority may specify, to advise the approved exchange or recognised market operator (as the case may be) on the proper management of such of the business of the approved exchange or recognised market operator (as the case may be) as the Authority may determine; or
+
+(c) assume control of and manage such of the business of the approved exchange or recognised market operator (as the case may be) as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
+
+(3) In the case of an approved exchange, or a recognised market operator, which is incorporated outside Singapore, any appointment of a statutory adviser or statutory manager or any assumption of control by the Authority of any business of the approved exchange or recognised market operator (as the case may be) under subsection (2) shall only be in relation to —
+
+(a) the business or affairs of the approved exchange or recognised market operator (as the case may be) carried on in, or managed in or from, Singapore; or
+
+(b) the property of the approved exchange or recognised market operator (as the case may be) located in Singapore, or reflected in the books of the approved exchange or recognised market operator (as the case may be) in Singapore, as the case may be, in relation to its operations in Singapore.
+
+(4) Where the Authority appoints 2 or more persons as the statutory manager of an approved exchange or a recognised market operator, the Authority shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised by such persons jointly and severally;
+
+(b) shall be discharged or exercised by such persons jointly; and
+
+(c) shall be discharged or exercised by a specified person or such persons.
+
+(5) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 13(1)(da), do one or more of the following:
+
+(a) vary or revoke any requirement of, any appointment made by or any action taken by the Authority in the exercise of such power, on such terms and conditions as it may specify;
+
+(b) further exercise any of the powers under subsection (2);
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(6) No liability shall be incurred by a statutory manager or a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(7) Any approved exchange or recognised market operator that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Effect of assumption of control under section 44B
+
+44C\.—(1) Upon assuming control of the relevant business of an approved exchange or a recognised market operator, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+
+(2) During the period when the Authority or statutory manager is in control of the relevant business of an approved exchange or a recognised market operator, the Authority or statutory manager —
+
+(a) shall manage the relevant business of the approved exchange or recognised market operator (as the case may be) in the name of and on behalf of the approved exchange or recognised market operator (as the case may be); and
+
+(b) shall be deemed to be an agent of the approved exchange or recognised market operator (as the case may be).
+
+(3) In managing the relevant business of an approved exchange or a recognised market operator, the Authority or statutory manager —
+
+(a) shall take into consideration the interests of the public or the section of the public referred to in section 44B(1)(c)(i), and the need to protect investors; and
+
+(b) shall have all the duties, powers and functions of the members of the board of directors of the approved exchange or recognised market operator (as the case may be) (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the approved exchange or recognised market operator (as the case may be), including powers of delegation, in relation to the relevant business of the approved exchange or recognised market operator (as the case may be); but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the approved exchange or recognised market operator (as the case may be) under the Companies Act or the constitution of the approved exchange or recognised market operator (as the case may be).
+
+(4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of an approved exchange or a recognised market operator by the Authority or statutory manager, any appointment of a person as the chief executive officer or a director of the approved exchange or recognised market operator (as the case may be), which was in force immediately before the assumption of control, shall be deemed to be revoked, unless the Authority gives its approval, by notice in writing to the person and the approved exchange or recognised market operator (as the case may be), for the person to remain in the appointment.
+
+(5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of an approved exchange or a recognised market operator, except with the approval of the Authority, no person shall be appointed as the chief executive officer or a director of the approved exchange or recognised market operator (as the case may be).
+
+(6) Where the Authority has given its approval under subsection (4) or (5) to a person to remain in the appointment of, or to be appointed as, the chief executive officer or a director of an approved exchange or a recognised market operator, the Authority may at any time, by notice in writing to the person and the approved exchange or recognised market operator (as the case may be), revoke that approval, and the appointment shall be deemed to be revoked on the date specified in the notice.
+
+(7) Notwithstanding any written law or rule of law, if any person, whose appointment as the chief executive officer or a director of an approved exchange or a recognised market operator is revoked under subsection (4) or (6), acts or purports to act after the revocation as the chief executive officer or a director of the approved exchange or recognised market operator (as the case may be) during the period when the Authority or statutory manager is in control of the relevant business of the approved exchange or recognised market operator (as the case may be) —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(8) Notwithstanding any written law or rule of law, if any person who is appointed as the chief executive officer or a director of an approved exchange or a recognised market operator in contravention of subsection (5) acts or purports to act as the chief executive officer or a director of the approved exchange or recognised market operator (as the case may be) during the period when the Authority or statutory manager is in control of the relevant business of the approved exchange or recognised market operator (as the case may be) —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(9) During the period when the Authority or statutory manager is in control of the relevant business of an approved exchange or a recognised market operator —
+
+(a) if there is any conflict or inconsistency between —
+
+(i) a direction or decision given by the Authority or statutory manager (including a direction or decision to a person or body of persons referred to in sub-paragraph (ii)); and
+
+(ii) a direction or decision given by any chief executive officer, director, member, executive officer, employee, agent or office holder, or the board of directors, of the approved exchange or recognised market operator (as the case may be),
+
+the direction or decision referred to in sub-paragraph (i) shall, to the extent of the conflict or inconsistency, prevail over the direction or decision referred to in sub-paragraph (ii); and
+
+(b) no person shall exercise any voting or other right attached to any share in the approved exchange or recognised market operator (as the case may be) in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
+
+(10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) In this section, “constitution”, in relation to an approved exchange or a recognised market operator, means the memorandum of association and articles of association of the approved exchange or recognised market operator (as the case may be).
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Duration of control
+
+44D\.—(1) The Authority shall cease to be in control of the relevant business of an approved exchange or a recognised market operator when the Authority is satisfied that —
+
+(a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
+
+(b) it is no longer necessary in the interests of the public or the section of the public referred to in section 44B(1)(c)(i) or for the protection of investors.
+
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of an approved exchange or a recognised market operator on the date of his appointment as a statutory manager.
+
+(3) The appointment of a statutory manager in relation to the relevant business of an approved exchange or a recognised market operator may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that —
+
+(i) the reasons for the appointment have ceased to exist; or
+
+(ii) it is no longer necessary in the interests of the public or the section of the public referred to in section 44B(1)(c)(i) or for the protection of investors; or
+
+(b) on any other ground,
+
+and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the approved exchange or recognised market operator (as the case may be).
+
+(4) The Authority shall, as soon as practicable, publish in theGazettethe date, and such other particulars as the Authority thinks fit, of —
+
+(a) the Authority’s assumption of control of the relevant business of an approved exchange or a recognised market operator;
+
+(b) the cessation of the Authority’s control of the relevant business of an approved exchange or a recognised market operator;
+
+(c) the appointment of a statutory manager in relation to the relevant business of an approved exchange or a recognised market operator; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of an approved exchange or a recognised market operator.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Responsibilities of officers, member, etc., of approved exchange or recognised market operator
+
+44E\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of an approved exchange or a recognised market operator —
+
+(a) the High Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved exchange or recognised market operator (as the case may be) to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property or book of the approved exchange or recognised market operator (as the case may be) which is comprised in, forms part of or relates to the relevant business of the approved exchange or recognised market operator (as the case may be), and which is in the person’s possession or control; and
+
+(b) any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved exchange or recognised market operator (as the case may be) shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of the Authority’s or statutory manager’s duties or functions, or the exercise of the Authority’s or statutory manager’s powers, in relation to the approved exchange or recognised market operator (as the case may be), within such time and in such manner as may be specified by the Authority or statutory manager.
+
+(2) Any person who —
+
+(a) without reasonable excuse, fails to comply with subsection (1)(b); or
+
+(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Remuneration and expenses of Authority and others in certain cases
+
+44F\.—(1) The Authority may at any time fix the remuneration and expenses to be paid by an approved exchange or a recognised market operator —
+
+(a) to a statutory manager or statutory adviser appointed in relation to the approved exchange or recognised market operator (as the case may be), whether or not the appointment has been revoked; and
+
+(b) where the Authority has assumed control of the relevant business of the approved exchange or recognised market operator (as the case may be), to the Authority and any person appointed by the Authority under section 320 in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
+
+(2) The approved exchange or recognised market operator (as the case may be) shall reimburse the Authority any remuneration and expenses payable by the approved exchange or recognised market operator (as the case may be) to a statutory manager or statutory adviser.
+
+[Act 10 of 2013 wef 18/04/2013]
+
 ### Power of Authority to make regulations
 
 45\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the exemption, recognition or approval of, and the requirements applicable to, persons who establish, operate or assist in establishing or operating markets.
@@ -3639,6 +3899,145 @@ issue directions, whether of a general or specific nature, by notice in writing,
 (3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
 [Act 34 of 2012 wef 18/03/2013]
+
+Division 5 —
+
+Voluntary Transfer of Business of
+
+
+
+
+Approved Exchange or Recognised Market Operator
+
+### Interpretation of this Division
+
+46AA\. In this Division, unless the context otherwise requires —
+
+“business” includes affairs, property, right, obligation and liability;
+
+“Court” means the High Court or a Judge thereof;
+
+“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“property” includes property, right and power of every description;
+
+“Registrar of Companies” means the Registrar of Companies appointed under the Companies Act and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
+
+“transferee” means an approved exchange or a recognised market operator, or a corporation which has applied or will be applying for approval or recognition to carry on in Singapore the usual business of an approved exchange or a recognised market operator, to which the whole or any part of a transferor’s business is, is to be or is proposed to be transferred under this Division;
+
+“transferor” means an approved exchange or a recognised market operator the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Voluntary transfer of business
+
+46AAA\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of an approved exchange or a recognised market operator) to a transferee, if —
+
+(a) the Authority has consented to the transfer;
+
+(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of an approved exchange or a recognised market operator; and
+
+(c) the Court has approved the transfer.
+
+(2) Subsection (1) is without prejudice to the right of an approved exchange or a recognised market operator to transfer the whole or any part of its business under any law.
+
+(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —
+
+(a) the transferee is a fit and proper person; and
+
+(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.
+
+(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division.
+
+(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
+
+(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
+
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this Division.
+
+(8) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or
+
+(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Approval of transfer
+
+46AAB\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under this Division.
+
+(2) Before making an application under subsection (1) —
+
+(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
+
+(b) the transferor shall obtain the consent of the Authority under section 46AAA(1)(a);
+
+(c) the transferor and the transferee shall, if they intend to serve on their respective participants a summary of the transfer, obtain the Authority’s approval of the summary;
+
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;
+
+(e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
+
+(f) unless the Court directs otherwise, the transferor and the transferee shall serve on their respective participants affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).
+
+(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —
+
+(a) shall have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and
+
+(b) may make any application to the Court in relation to the transfer.
+
+(4) The Court shall not approve the transfer if the Authority has not consented under section 46AAA(1)(a) to the transfer.
+
+(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
+
+(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or
+
+(b) refuse to approve the transfer.
+
+(6) If the transferee is not approved as an approved exchange or recognised as a recognised market operator by the Authority, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee being approved as an approved exchange or recognised as a recognised market operator by the Authority.
+
+(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters:
+
+(a) the transfer to the transferee of the whole or any part of the business of the transferor;
+
+(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
+
+(c) the continuation by (or against) the transferee of any legal proceedings pending by (or against) the transferor;
+
+(d) the dissolution, without winding up, of the transferor;
+
+(e) the provisions to be made for persons who are affected by the transfer;
+
+(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.
+
+(8) Any order under subsection (7) may —
+
+(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;
+
+(b) make provision in relation to any property which is held by the transferor as trustee; and
+
+(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.
+
+(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order the business (or part thereof) of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have effect.
+
+(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
+
+(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country or territory, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country or territory.
+
+(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —
+
+(a) a copy of the order with the Registrar of Companies and with the Authority; and
+
+(b) where the order relates to land in Singapore, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.
+
+(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ## PART III
 
@@ -5468,6 +5867,10 @@ Establishment of Approved Holding Companies
 
 (d) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public;
 
+(da) upon the Authority exercising any power under section 81ZGC(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval;
+
+[Act 10 of 2013 wef 18/04/2013]
+
 (e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
 
 (f) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
@@ -5814,6 +6217,212 @@ from the requirement under subsection (1) or (2), subject to such conditions or 
 
 [1/2005]
 
+### Information of insolvency, etc.
+
+81ZGA\.—(1) Any approved holding company which is or is likely to become insolvent, which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
+
+(2) Any approved holding company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Interpretation of sections 81ZGB to 81ZGG
+
+81ZGB\. In this section and sections 81ZGC to 81ZGG, unless the context otherwise requires —
+
+“business” includes affairs and property;
+
+“office holder”, in relation to an approved holding company, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the approved holding company, or acting in an equivalent capacity in relation to the approved holding company;
+
+“relevant business” means any business of an approved holding company —
+
+(a) which the Authority has assumed control of under section 81ZGC; or
+
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 81ZGC;
+
+“statutory adviser” means a statutory adviser appointed under section 81ZGC;
+
+“statutory manager” means a statutory manager appointed under section 81ZGC.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Action by Authority if approved holding company unable to meet obligations, etc.
+
+81ZGC\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+
+(a) an approved holding company informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) an approved holding company becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that an approved holding company —
+
+(i) is carrying on its business in a manner likely to be detrimental to the interests of the public or a section of the public or the protection of investors, or to the objectives specified in section 81T;
+
+(ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition or restriction imposed on it under section 81W(1) or (2); or
+
+(d) the Authority considers it in the public interest to do so.
+
+(2) Subject to subsections (1) and (3), the Authority may —
+
+(a) require the approved holding company immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
+
+(b) appoint one or more persons as statutory adviser, on such terms and conditions as the Authority may specify, to advise the approved holding company on the proper management of such of the business of the approved holding company as the Authority may determine; or
+
+(c) assume control of and manage such of the business of the approved holding company as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
+
+(3) In the case of an approved holding company incorporated outside Singapore, any appointment of a statutory adviser or statutory manager or any assumption of control by the Authority of any business of the approved holding company under subsection (2) shall only be in relation to —
+
+(a) the business or affairs of the approved holding company carried on in, or managed in or from, Singapore; or
+
+(b) the property of the approved holding company located in Singapore, or reflected in the books of the approved holding company in Singapore, as the case may be, in relation to its operations in Singapore.
+
+(4) Where the Authority appoints 2 or more persons as the statutory manager of an approved holding company, the Authority shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised by such persons jointly and severally;
+
+(b) shall be discharged or exercised by such persons jointly; and
+
+(c) shall be discharged or exercised by a specified person or such persons.
+
+(5) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 81Z(1)(da), do one or more of the following:
+
+(a) vary or revoke any requirement of, any appointment made by or any action taken by the Authority in the exercise of such power, on such terms and conditions as it may specify;
+
+(b) further exercise any of the powers under subsection (2);
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(6) No liability shall be incurred by a statutory manager or a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(7) Any approved holding company that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Effect of assumption of control under section 81ZGC
+
+81ZGD\.—(1) Upon assuming control of the relevant business of an approved holding company, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+
+(2) During the period when the Authority or statutory manager is in control of the relevant business of an approved holding company, the Authority or statutory manager —
+
+(a) shall manage the relevant business of the approved holding company in the name of and on behalf of the approved holding company; and
+
+(b) shall be deemed to be an agent of the approved holding company.
+
+(3) In managing the relevant business of an approved holding company, the Authority or statutory manager —
+
+(a) shall take into consideration the interests of the public or the section of the public referred to in section 81ZGC(1)(c)(i), and the need to protect investors; and
+
+(b) shall have all the duties, powers and functions of the members of the board of directors of the approved holding company (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the approved holding company, including powers of delegation, in relation to the relevant business of the approved holding company; but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the approved holding company under the Companies Act or the constitution of the approved holding company.
+
+(4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of an approved holding company by the Authority or statutory manager, any appointment of a person as the chief executive officer or a director of the approved holding company, which was in force immediately before the assumption of control, shall be deemed to be revoked, unless the Authority gives its approval, by notice in writing to the person and the approved holding company, for the person to remain in the appointment.
+
+(5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of an approved holding company, except with the approval of the Authority, no person shall be appointed as the chief executive officer or a director of the approved holding company.
+
+(6) Where the Authority has given its approval under subsection (4) or (5) to a person to remain in the appointment of, or to be appointed as, the chief executive officer or a director of an approved holding company, the Authority may at any time, by notice in writing to the person and the approved holding company, revoke that approval, and the appointment shall be deemed to be revoked on the date specified in the notice.
+
+(7) Notwithstanding any written law or rule of law, if any person, whose appointment as the chief executive officer or a director of an approved holding company is revoked under subsection (4) or (6), acts or purports to act after the revocation as the chief executive officer or a director of the approved holding company during the period when the Authority or statutory manager is in control of the relevant business of the approved holding company —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(8) Notwithstanding any written law or rule of law, if any person who is appointed as the chief executive officer or a director of an approved holding company in contravention of subsection (5) acts or purports to act as the chief executive officer or a director of the approved holding company during the period when the Authority or statutory manager is in control of the relevant business of the approved holding company —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(9) During the period when the Authority or statutory manager is in control of the relevant business of an approved holding company —
+
+(a) if there is any conflict or inconsistency between —
+
+(i) a direction or decision given by the Authority or statutory manager (including a direction or decision to a person or body of persons referred to in sub-paragraph (ii)); and
+
+(ii) a direction or decision given by any chief executive officer, director, member, executive officer, employee, agent or office holder, or the board of directors, of the approved holding company,
+
+the direction or decision referred to in sub-paragraph (i) shall, to the extent of the conflict or inconsistency, prevail over the direction or decision referred to in sub-paragraph (ii); and
+
+(b) no person shall exercise any voting or other right attached to any share in the approved holding company in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
+
+(10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) In this section, “constitution”, in relation to an approved holding company, means the memorandum of association and articles of association of the approved holding company.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Duration of control
+
+81ZGE\.—(1) The Authority shall cease to be in control of the relevant business of an approved holding company when the Authority is satisfied that —
+
+(a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
+
+(b) it is no longer necessary in the interests of the public or the section of the public referred to in section 81ZGC(1)(c)(i) or for the protection of investors.
+
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of an approved holding company on the date of his appointment as a statutory manager.
+
+(3) The appointment of a statutory manager in relation to the relevant business of an approved holding company may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that —
+
+(i) the reasons for the appointment have ceased to exist; or
+
+(ii) it is no longer necessary in the interests of the public or the section of the public referred to in section 81ZGC(1)(c)(i) or for the protection of investors; or
+
+(b) on any other ground,
+
+and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the approved holding company.
+
+(4) The Authority shall, as soon as practicable, publish in theGazettethe date, and such other particulars as the Authority thinks fit, of —
+
+(a) the Authority’s assumption of control of the relevant business of an approved holding company;
+
+(b) the cessation of the Authority’s control of the relevant business of an approved holding company;
+
+(c) the appointment of a statutory manager in relation to the relevant business of an approved holding company; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of an approved holding company.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Responsibilities of officers, member, etc., of approved holding company
+
+81ZGF\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of an approved holding company —
+
+(a) the High Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved holding company to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property or book of the approved holding company which is comprised in, forms part of or relates to the relevant business of the approved holding company, and which is in the person’s possession or control; and
+
+(b) any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved holding company shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of the Authority’s or statutory manager’s duties or functions, or the exercise of the Authority’s or statutory manager’s powers, in relation to the approved holding company, within such time and in such manner as may be specified by the Authority or statutory manager.
+
+(2) Any person who —
+
+(a) without reasonable excuse, fails to comply with subsection (1)(b); or
+
+(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Remuneration and expenses of Authority and others in certain cases
+
+81ZGG\.—(1) The Authority may at any time fix the remuneration and expenses to be paid by an approved holding company —
+
+(a) to a statutory manager or statutory adviser appointed in relation to the approved holding company, whether or not the appointment has been revoked; and
+
+(b) where the Authority has assumed control of the relevant business of the approved holding company, to the Authority and any person appointed by the Authority under section 320 in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
+
+(2) The approved holding company shall reimburse the Authority any remuneration and expenses payable by the approved holding company to a statutory manager or statutory adviser.
+
+[Act 10 of 2013 wef 18/04/2013]
+
 ### Additional powers of Authority in respect of auditors
 
 81ZH\.—(1) If an auditor of an approved holding company, in the course of the performance of his duties, becomes aware of —
@@ -5971,6 +6580,145 @@ issue directions by notice in writing either of a general or specific nature to 
 [1/2005]
 
 [SIA, s 21; E (DM) A, s. 14]
+
+Division 3 —
+
+Voluntary Transfer of Business of
+
+
+
+
+Approved Holding Company
+
+### Interpretation of this Division
+
+81ZM\. In this Division, unless the context otherwise requires —
+
+“business” includes affairs, property, right, obligation and liability;
+
+“Court” means the High Court or a Judge thereof;
+
+“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“property” includes property, right and power of every description;
+
+“Registrar of Companies” means the Registrar of Companies appointed under the Companies Act and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
+
+“transferee” means an approved holding company, or a corporation which has applied or will be applying for approval or recognition to carry on in Singapore the usual business of an approved holding company, to which the whole or any part of a transferor’s business is, is to be or is proposed to be transferred under this Division;
+
+“transferor” means an approved holding company the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Voluntary transfer of business
+
+81ZN\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of an approved holding company) to a transferee, if —
+
+(a) the Authority has consented to the transfer;
+
+(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of an approved holding company; and
+
+(c) the Court has approved the transfer.
+
+(2) Subsection (1) is without prejudice to the right of an approved holding company to transfer the whole or any part of its business under any law.
+
+(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —
+
+(a) the transferee is a fit and proper person; and
+
+(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.
+
+(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division.
+
+(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
+
+(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
+
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this Division.
+
+(8) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or
+
+(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Approval of transfer
+
+81ZO\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under this Division.
+
+(2) Before making an application under subsection (1) —
+
+(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
+
+(b) the transferor shall obtain the consent of the Authority under section 81ZN(1)(a);
+
+(c) the transferor and the transferee shall, if they intend to serve on their respective shareholders a summary of the transfer, obtain the Authority’s approval of the summary;
+
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;
+
+(e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
+
+(f) unless the Court directs otherwise, the transferor and the transferee shall serve on their respective shareholders affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).
+
+(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —
+
+(a) shall have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and
+
+(b) may make any application to the Court in relation to the transfer.
+
+(4) The Court shall not approve the transfer if the Authority has not consented under section 81ZN(1)(a) to the transfer.
+
+(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
+
+(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or
+
+(b) refuse to approve the transfer.
+
+(6) If the transferee is not approved as an approved holding company by the Authority, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee being approved as an approved holding company by the Authority.
+
+(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters:
+
+(a) the transfer to the transferee of the whole or any part of the business of the transferor;
+
+(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
+
+(c) the continuation by (or against) the transferee of any legal proceedings pending by (or against) the transferor;
+
+(d) the dissolution, without winding up, of the transferor;
+
+(e) the provisions to be made for persons who are affected by the transfer;
+
+(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.
+
+(8) Any order under subsection (7) may —
+
+(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;
+
+(b) make provision in relation to any property which is held by the transferor as trustee; and
+
+(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.
+
+(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order the business (or part thereof) of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have effect.
+
+(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
+
+(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country or territory, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country or territory.
+
+(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —
+
+(a) a copy of the order with the Registrar of Companies and with the Authority; and
+
+(b) where the order relates to land in Singapore, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.
+
+(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ## PART IV
 
@@ -6264,6 +7012,10 @@ the holder shall, not later than 14 days after the occurrence of the event, furn
 
 (e) the Authority has reason to believe that the holder is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public;
 
+(ea) upon the Authority exercising any power under section 97E(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the holder, the Authority considers that it is in the public interest to revoke the licence;
+
+[Act 10 of 2013 wef 18/04/2013]
+
 (f) the holder has furnished any information or document to the Authority that is false or misleading;
 
 (g) the holder fails to pay the licence fee referred to in section 85; or
@@ -6368,61 +7120,63 @@ unless it has obtained the approval of the Authority.
 
 ### Removal of officer of holder of capital markets services licence
 
-97\.—(1) Where the Authority is satisfied that an officer of a holder of a capital markets services licence —
+97\.—(1) Notwithstanding the provisions of any other written law —
 
-(a) has wilfully contravened or wilfully caused that holder to contravene this Act;
+(a) a holder of a capital markets services licence shall not, without the prior written consent of the Authority, permit a person to act as its executive officer; and
 
-(b) has without reasonable excuse failed to enforce compliance with this Act;
+(b) a holder of a capital markets services licence which is incorporated in Singapore shall not, without the prior written consent of the Authority, permit a person to act as its director,
 
-(c) has failed to discharge the duties or functions of his office;
+if the person —
 
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
+(i) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 9(1)(j) of the Financial Institutions (Miscellaneous Amendments) Act 2013, being an offence —
 
-(e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+(A) involving fraud or dishonesty;
 
-(f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+(B) the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
 
-[2/2009 wef 26/11/2010]
+(C) that is specified in the Third Schedule to the Registration of Criminals Act (Cap. 268);
 
-(fa) has had a prohibition order under section 101A made by the Authority against him that remains in force;
+(ii) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-[2/2009 wef 26/11/2010]
+(iii) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
 
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
+(iv) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-[2/2009 wef 26/11/2010]
+(v) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A made against him that remains in force; or
 
-(h) is not a fit and proper person for such office,
+(vi) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
-[2/2009 wef 26/11/2010]
+(A) which is being or has been wound up by a court; or
 
-the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors direct by notice in writing that holder to remove the officer from office or employment, and that holder shall comply with such notice notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+(B) the approval, authorisation, designation, recognition, registration or licence of which has been withdrawn, cancelled or revoked by the Authority or, in the case of a regulated financial institution in a foreign country or territory, by the regulatory authority in that foreign country or territory.
 
-[1/2005]
+[Act 10 of 2013 wef 18/04/2013]
 
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a holder of a capital markets services licence has failed to discharge the duties or functions of his office for the purposes of subsection (1)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
+(1A) Notwithstanding the provisions of any other written law, where the Authority is satisfied that a director of a holder of a capital markets services licence which is incorporated in Singapore, or an executive officer of a holder of a capital markets services licence —
 
-(3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder an opportunity to be heard.
+(a) has wilfully contravened or wilfully caused the holder to contravene any provision of this Act;
 
-[1/2005]
+(b) has, without reasonable excuse, failed to secure the compliance of the holder with this Act, the Monetary Authority of Singapore Act (Cap. 186) or any of the written laws set out in the Schedule to that Act; or
 
-(4) The Authority may direct a holder of a capital markets services licence to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the holder an opportunity to be heard:
+(c) has failed to discharge any of the duties of his office,
 
-(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing to the holder, direct the holder to remove the director or executive officer, as the case may be, from his office or employment within such period as may be specified by the Authority in the notice, and the holder shall comply with the notice.
 
-(aa) a prohibition order under section 101A has been made by the Authority, and remains in force, against the officer;
+[Act 10 of 2013 wef 18/04/2013]
 
-[2/2009 wef 26/11/2010]
+(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, when determining whether a director or an executive officer of a holder of a capital markets services licence has failed to discharge the duties of his office for the purposes of subsection (1A)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
 
-(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+[Act 10 of 2013 wef 18/04/2013]
 
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+(3) The Authority shall not direct a holder of a capital markets services licence to remove a person from his office under subsection (1A) without giving the holder an opportunity to be heard.
 
-(ii) punishable with imprisonment for a term of 3 months or more.
+[Act 10 of 2013 wef 18/04/2013]
 
-[16/2003]
+(4) [Deleted by Act 10 of 2013 wef 18/04/2013]
 
-(5) Where the Authority directs a holder of a capital markets services licence to remove from office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
+(5) Where the Authority directs a holder of a capital markets services licence to remove a person from his office or employment under subsection (1A), the Authority need not give that person an opportunity to be heard.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (6) No criminal or civil liability shall be incurred by —
 
@@ -6430,7 +7184,17 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (b) any person acting on behalf of the holder of a capital markets services licence,
 
-in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
+in respect of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+(7) In this section, unless the context otherwise requires —
+
+“regulated financial institution” means a person who carries on a business, the conduct of which is regulated or authorised by the Authority or, if it is carried on in Singapore, would be regulated or authorised by the Authority;
+
+“regulatory authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory exercising any function that corresponds to a regulatory function of the Authority under this Act, the Monetary Authority of Singapore Act or any of the written laws set out in the Schedule to that Act.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ### Control of take-over of holder of capital markets services licence
 
@@ -6524,6 +7288,212 @@ if the Authority is satisfied that —
 
 [2/2009 wef 26/11/2010]
 
+### Information of insolvency, etc.
+
+97C\.—(1) Any holder of a capital markets services licence which is or is likely to become insolvent, which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
+
+(2) Any holder of a capital markets services licence which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Interpretation of sections 97D to 97I
+
+97D\. In this section and sections 97E to 97I, unless the context otherwise requires —
+
+“business” includes affairs and property;
+
+“office holder”, in relation to a holder of a capital markets services licence, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the holder, or acting in an equivalent capacity in relation to the holder;
+
+“relevant business” means any business of a holder of a capital markets services licence —
+
+(a) which the Authority has assumed control of under section 97E; or
+
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 97E;
+
+“statutory adviser” means a statutory adviser appointed under section 97E;
+
+“statutory manager” means a statutory manager appointed under section 97E.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Action by Authority if holder of capital markets services licence unable to meet obligations, etc.
+
+97E\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+
+(a) a holder of a capital markets services licence informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) a holder of a capital markets services licence becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that a holder of a capital markets services licence —
+
+(i) is carrying on its business in a manner likely to be detrimental to the interests of the public or a section of the public or the protection of investors;
+
+(ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition or restriction in its licence (being a condition or restriction imposed under section 88(1) or (2)); or
+
+(d) the Authority considers it in the public interest to do so.
+
+(2) Subject to subsections (1) and (3), the Authority may —
+
+(a) require the holder of a capital markets services licence immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
+
+(b) appoint one or more persons as statutory adviser, on such terms and conditions as the Authority may specify, to advise the holder of a capital markets services licence on the proper management of such of the business of the holder as the Authority may determine; or
+
+(c) assume control of and manage such of the business of the holder of a capital markets services licence as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
+
+(3) In the case of a holder of a capital markets services licence incorporated outside Singapore, any appointment of a statutory adviser or statutory manager or any assumption of control by the Authority of any business of the holder under subsection (2) shall only be in relation to —
+
+(a) the business or affairs of the holder carried on in, or managed in or from, Singapore; or
+
+(b) the property of the holder located in Singapore, or reflected in the books of the holder in Singapore, as the case may be, in relation to its operations in Singapore.
+
+(4) Where the Authority appoints 2 or more persons as the statutory manager of a holder of a capital markets services licence, the Authority shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised by such persons jointly and severally;
+
+(b) shall be discharged or exercised by such persons jointly; and
+
+(c) shall be discharged or exercised by a specified person or such persons.
+
+(5) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 95(2)(ea), do one or more of the following:
+
+(a) vary or revoke any requirement of, any appointment made by or any action taken by the Authority in the exercise of such power, on such terms and conditions as it may specify;
+
+(b) further exercise any of the powers under subsection (2);
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(6) No liability shall be incurred by a statutory manager or a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(7) Any holder of a capital markets services licence that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Effect of assumption of control under section 97E
+
+97F\.—(1) Upon assuming control of the relevant business of a holder of a capital markets services licence, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+
+(2) During the period when the Authority or statutory manager is in control of the relevant business of a holder of a capital markets services licence, the Authority or statutory manager —
+
+(a) shall manage the relevant business of the holder in the name of and on behalf of the holder; and
+
+(b) shall be deemed to be an agent of the holder.
+
+(3) In managing the relevant business of a holder of a capital markets services licence, the Authority or statutory manager —
+
+(a) shall take into consideration the interests of the public or the section of the public referred to in section 97E(1)(c)(i), and the need to protect investors; and
+
+(b) shall have all the duties, powers and functions of the members of the board of directors of the holder (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the holder, including powers of delegation, in relation to the relevant business of the holder; but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the holder under the Companies Act or the constitution of the holder.
+
+(4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of a holder of a capital markets services licence by the Authority or statutory manager, any appointment of a person as the chief executive officer or a director of the holder, which was in force immediately before the assumption of control, shall be deemed to be revoked, unless the Authority gives its approval, by notice in writing to the person and the holder, for the person to remain in the appointment.
+
+(5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of a holder of a capital markets services licence, except with the approval of the Authority, no person shall be appointed as the chief executive officer or a director of the holder.
+
+(6) Where the Authority has given its approval under subsection (4) or (5) to a person to remain in the appointment of, or to be appointed as, the chief executive officer or a director of a holder of a capital markets services licence, the Authority may at any time, by notice in writing to the person and the holder, revoke that approval, and the appointment shall be deemed to be revoked on the date specified in the notice.
+
+(7) Notwithstanding any written law or rule of law, if any person, whose appointment as the chief executive officer or a director of a holder of a capital markets services licence is revoked under subsection (4) or (6), acts or purports to act after the revocation as the chief executive officer or a director of the holder during the period when the Authority or statutory manager is in control of the relevant business of the holder —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(8) Notwithstanding any written law or rule of law, if any person who is appointed as the chief executive officer or a director of a holder of a capital markets services licence in contravention of subsection (5) acts or purports to act as the chief executive officer or a director of the holder during the period when the Authority or statutory manager is in control of the relevant business of the holder —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(9) During the period when the Authority or statutory manager is in control of the relevant business of a holder of a capital markets services licence —
+
+(a) if there is any conflict or inconsistency between —
+
+(i) a direction or decision given by the Authority or statutory manager (including a direction or decision to a person or body of persons referred to in sub-paragraph (ii)); and
+
+(ii) a direction or decision given by any chief executive officer, director, member, executive officer, employee, agent or office holder, or the board of directors, of the holder,
+
+the direction or decision referred to in sub-paragraph (i) shall, to the extent of the conflict or inconsistency, prevail over the direction or decision referred to in sub-paragraph (ii); and
+
+(b) no person shall exercise any voting or other right attached to any share in the holder in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
+
+(10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) In this section, “constitution”, in relation to a holder of a capital markets services licence, means the memorandum of association and articles of association of the holder.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Duration of control
+
+97G\.—(1) The Authority shall cease to be in control of the relevant business of a holder of a capital markets services licence when the Authority is satisfied that —
+
+(a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
+
+(b) it is no longer necessary in the interests of the public or the section of the public referred to in section 97E(1)(c)(i) or for the protection of investors.
+
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of a holder of a capital markets services licence on the date of his appointment as a statutory manager.
+
+(3) The appointment of a statutory manager in relation to the relevant business of a holder of a capital markets services licence may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that —
+
+(i) the reasons for the appointment have ceased to exist; or
+
+(ii) it is no longer necessary in the interests of the public or the section of the public referred to in section 97E(1)(c)(i) or for the protection of investors; or
+
+(b) on any other ground,
+
+and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the holder.
+
+(4) The Authority shall, as soon as practicable, publish in theGazettethe date, and such other particulars as the Authority thinks fit, of —
+
+(a) the Authority’s assumption of control of the relevant business of a holder of a capital markets services licence;
+
+(b) the cessation of the Authority’s control of the relevant business of a holder of a capital markets services licence;
+
+(c) the appointment of a statutory manager in relation to the relevant business of a holder of a capital markets services licence; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of a holder of a capital markets services licence.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Responsibilities of officers, member, etc., of holder of capital markets services licence
+
+97H\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of a holder of a capital markets services licence —
+
+(a) the High Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the holder to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property or book of the holder which is comprised in, forms part of or relates to the relevant business of the holder, and which is in the person’s possession or control; and
+
+(b) any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the holder shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of the Authority’s or statutory manager’s duties or functions, or the exercise of the Authority’s or statutory manager’s powers, in relation to the holder, within such time and in such manner as may be specified by the Authority or statutory manager.
+
+(2) Any person who —
+
+(a) without reasonable excuse, fails to comply with subsection (1)(b); or
+
+(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Remuneration and expenses of Authority and others in certain cases
+
+97I\.—(1) The Authority may at any time fix the remuneration and expenses to be paid by a holder of a capital markets services licence —
+
+(a) to a statutory manager or statutory adviser appointed in relation to the holder, whether or not the appointment has been revoked; and
+
+(b) where the Authority has assumed control of the relevant business of the holder, to the Authority and any person appointed by the Authority under section 320 in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
+
+(2) The holder of a capital markets services licence shall reimburse the Authority any remuneration and expenses payable by the holder to a statutory manager or statutory adviser.
+
+[Act 10 of 2013 wef 18/04/2013]
+
 ### Appeals
 
 98\.—(1) Subject to subsection (2), any person who is aggrieved by —
@@ -6558,7 +7528,9 @@ may within 30 days after it is notified of the decision of the Authority, appeal
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108) in respect of any regulated activity that is not prohibited by that Act or for which an exemption from section 25(2) of that Act has been granted;
 
-(d) any company or society registered under the Insurance Act (Cap. 142) in respect of fund management for the purpose of carrying out insurance business;
+(d) any company or co-operative society licensed under the Insurance Act (Cap. 142) in respect of fund management for the purpose of carrying out insurance business;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (e) [Deleted by Act 1/2005]
 
@@ -6655,6 +7627,145 @@ during the period to which the annual fee relates.
 (4) Where an exempt person or a representative of a person exempted under section 99(1)(f), (g) or (h) fails to pay the fee by the date on which such fee is due, the Authority may impose a late payment fee of a prescribed amount for every day or part thereof that the payment is late and both fees shall be recoverable by the Authority as a judgment debt.
 
 [2/2009 wef 26/11/2010]
+
+Division 1A —
+
+Voluntary Transfer of Business of
+
+
+
+
+Holder of Capital Markets Services Licence
+
+### Interpretation of this Division
+
+99AA\. In this Division, unless the context otherwise requires —
+
+“business” includes affairs, property, right, obligation and liability;
+
+“Court” means the High Court or a Judge thereof;
+
+“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“property” includes property, right and power of every description;
+
+“Registrar of Companies” means the Registrar of Companies appointed under the Companies Act and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
+
+“transferee” means a holder of a capital markets services licence, or a corporation which has applied or will be applying for approval or recognition to carry on in Singapore the usual business of a holder of a capital markets services licence, to which the whole or any part of a transferor’s business is, is to be or is proposed to be transferred under this Division;
+
+“transferor” means a holder of a capital markets services licence the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Voluntary transfer of business
+
+99AB\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of a holder of a capital markets services licence) to a transferee, if —
+
+(a) the Authority has consented to the transfer;
+
+(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of a holder of a capital markets services licence; and
+
+(c) the Court has approved the transfer.
+
+(2) Subsection (1) is without prejudice to the right of a holder of a capital markets services licence to transfer the whole or any part of its business under any law.
+
+(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —
+
+(a) the transferee is a fit and proper person; and
+
+(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.
+
+(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division.
+
+(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
+
+(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
+
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this Division.
+
+(8) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or
+
+(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Approval of transfer
+
+99AC\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under this Division.
+
+(2) Before making an application under subsection (1) —
+
+(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
+
+(b) the transferor shall obtain the consent of the Authority under section 99AB(1)(a);
+
+(c) the transferor and the transferee shall, if they intend to serve on their respective customers a summary of the transfer, obtain the Authority’s approval of the summary;
+
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;
+
+(e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
+
+(f) unless the Court directs otherwise, the transferor and the transferee shall serve on their respective customers affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).
+
+(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —
+
+(a) shall have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and
+
+(b) may make any application to the Court in relation to the transfer.
+
+(4) The Court shall not approve the transfer if the Authority has not consented under section 99AB(1)(a) to the transfer.
+
+(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
+
+(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or
+
+(b) refuse to approve the transfer.
+
+(6) If the transferee is not granted a capital markets services licence by the Authority, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee being granted a capital markets services licence by the Authority.
+
+(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters:
+
+(a) the transfer to the transferee of the whole or any part of the business of the transferor;
+
+(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
+
+(c) the continuation by (or against) the transferee of any legal proceedings pending by (or against) the transferor;
+
+(d) the dissolution, without winding up, of the transferor;
+
+(e) the provisions to be made for persons who are affected by the transfer;
+
+(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.
+
+(8) Any order under subsection (7) may —
+
+(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;
+
+(b) make provision in relation to any property which is held by the transferor as trustee; and
+
+(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.
+
+(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order the business (or part thereof) of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have effect.
+
+(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
+
+(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country or territory, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country or territory.
+
+(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —
+
+(a) a copy of the order with the Registrar of Companies and with the Authority; and
+
+(b) where the order relates to land in Singapore, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.
+
+(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 Division 2 —
 
@@ -18009,6 +19120,14 @@ the Authority may —
 
 (iii) issue such direction as it deems fit.
 
+(4A) Where, upon the Authority exercising any power under section 292D(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to an approved trustee, the Authority considers that it is in the public interest to do so, the Authority may —
+
+(a) revoke the approval granted to the approved trustee under this section; and
+
+(b) direct the manager for the collective investment scheme or schemes, which the approved trustee was acting for, to appoint a new trustee for the scheme or schemes.
+
+[Act 10 of 2013 wef 18/04/2013]
+
 (5) An approved trustee shall comply with any direction issued to it under subsection (4).
 
 (6) It shall not be necessary to publish any direction issued under subsection (4) in theGazette.
@@ -18052,6 +19171,278 @@ the Authority may —
 (ii) either with respect to specific acts or omissions or on the trustee ceasing to act.
 
 [Companies, s. 120]
+
+### Disqualification or removal of director or executive officer
+
+292A\.—(1) Notwithstanding the provisions of any other written law —
+
+(a) an approved trustee shall not, without the prior written consent of the Authority, permit a person to act as its executive officer; and
+
+(b) an approved trustee which is incorporated in Singapore shall not, without the prior written consent of the Authority, permit a person to act as its director,
+
+if the person —
+
+(i) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 9(1)(s) of the Financial Institutions (Miscellaneous Amendments) Act 2013, being an offence —
+
+(A) involving fraud or dishonesty;
+
+(B) the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
+
+(C) that is specified in the Third Schedule to the Registration of Criminals Act (Cap. 268);
+
+(ii) is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(iii) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+
+(iv) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+
+(v) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A made against him that remains in force; or
+
+(vi) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
+
+(A) which is being or has been wound up by a court; or
+
+(B) the approval, authorisation, designation, recognition, registration or licence of which has been withdrawn, cancelled or revoked by the Authority or, in the case of a regulated financial institution in a foreign country or territory, by the regulatory authority in that foreign country or territory.
+
+(2) Notwithstanding the provisions of any other written law, where the Authority is satisfied that a director of an approved trustee which is incorporated in Singapore, or an executive officer of an approved trustee —
+
+(a) has wilfully contravened or wilfully caused the approved trustee to contravene any provision of this Act;
+
+(b) has, without reasonable excuse, failed to secure the compliance of the approved trustee with this Act, the Monetary Authority of Singapore Act (Cap. 186) or any of the written laws set out in the Schedule to that Act; or
+
+(c) has failed to discharge any of the duties of his office,
+
+the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing to the approved trustee, direct the approved trustee to remove the director or executive officer, as the case may be, from his office or employment within such period as may be specified by the Authority in the notice, and the approved trustee shall comply with the notice.
+
+(3) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, when determining whether a director or an executive officer of an approved trustee has failed to discharge the duties of his office for the purposes of subsection (2)(c), have regard to such criteria as may be prescribed.
+
+(4) Before directing an approved trustee to remove a person from his office or employment under subsection (2), the Authority shall —
+
+(a) give the approved trustee and the person notice in writing of its intention to do so; and
+
+(b) in the notice referred to in paragraph (a), call upon the approved trustee and the person to show cause, within such time as may be specified in the notice, why the person should not be removed.
+
+(5) If the approved trustee and the person referred to in subsection (4) —
+
+(a) fail to show cause within the time specified under subsection (4)(b) or within such extended period of time as the Authority may allow; or
+
+(b) fail to show sufficient cause,
+
+the Authority may direct the approved trustee to remove the person under subsection (2).
+
+(6) Any approved trustee which, or any director or executive officer of an approved trustee who, is aggrieved by a direction of the Authority under subsection (2) may, within 30 days after receiving the direction, appeal in writing to the Minister, whose decision shall be final.
+
+(7) Any approved trustee which contravenes subsection (1) or fails to comply with a notice issued under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(8) No criminal or civil liability shall be incurred by an approved trustee, or any person acting on behalf of the approved trustee, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of the obligations of the approved trustee under this section.
+
+(9) In this section, unless the context otherwise requires —
+
+“regulated financial institution” means a person who carries on a business, the conduct of which is regulated or authorised by the Authority or, if it is carried on in Singapore, would be regulated or authorised by the Authority;
+
+“regulatory authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory exercising any function that corresponds to a regulatory function of the Authority under this Act, the Monetary Authority of Singapore Act or any of the written laws set out in the Schedule to that Act.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Information of insolvency, etc.
+
+292B\.—(1) Any approved trustee which is or is likely to become insolvent, which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
+
+(2) Any approved trustee which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Interpretation of sections 292C to 292H
+
+292C\. In this section and sections 292D to 292H, unless the context otherwise requires —
+
+“business” includes affairs and property;
+
+“office holder”, in relation to an approved trustee, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the approved trustee, or acting in an equivalent capacity in relation to the approved trustee;
+
+“relevant business” means any business of an approved trustee —
+
+(a) which the Authority has assumed control of under section 292D; or
+
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 292D;
+
+“statutory adviser” means a statutory adviser appointed under section 292D;
+
+“statutory manager” means a statutory manager appointed under section 292D.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Action by Authority if approved trustee unable to meet obligations, etc.
+
+292D\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+
+(a) an approved trustee informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) an approved trustee becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that an approved trustee —
+
+(i) is carrying on its business in a manner likely to be detrimental to the interests of the public or a section of the public or the protection of investors;
+
+(ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition or restriction imposed on it under section 289(1) or (1A); or
+
+(d) the Authority considers it in the public interest to do so.
+
+(2) Subject to subsections (1) and (3), the Authority may —
+
+(a) require the approved trustee immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
+
+(b) appoint one or more persons as statutory adviser, on such terms and conditions as the Authority may specify, to advise the approved trustee on the proper management of such of the business of the approved trustee as the Authority may determine; or
+
+(c) assume control of and manage such of the business of the approved trustee as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
+
+(3) Where the Authority appoints 2 or more persons as the statutory manager of an approved trustee, the Authority shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised by such persons jointly and severally;
+
+(b) shall be discharged or exercised by such persons jointly; and
+
+(c) shall be discharged or exercised by a specified person or such persons.
+
+(4) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 289(4A), do one or more of the following:
+
+(a) vary or revoke any requirement of, any appointment made by or any action taken by the Authority in the exercise of such power, on such terms and conditions as it may specify;
+
+(b) further exercise any of the powers under subsection (2);
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(5) No liability shall be incurred by a statutory manager or a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(6) Any approved trustee that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Effect of assumption of control under section 292D
+
+292E\.—(1) Upon assuming control of the relevant business of an approved trustee, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+
+(2) During the period when the Authority or statutory manager is in control of the relevant business of an approved trustee, the Authority or statutory manager —
+
+(a) shall manage the relevant business of the approved trustee in the name of and on behalf of the approved trustee; and
+
+(b) shall be deemed to be an agent of the approved trustee.
+
+(3) In managing the relevant business of an approved trustee, the Authority or statutory manager —
+
+(a) shall take into consideration the interests of the public or the section of the public referred to in section 292D(1)(c)(i), and the need to protect investors; and
+
+(b) shall have all the duties, powers and functions of the members of the board of directors of the approved trustee (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the approved trustee, including powers of delegation, in relation to the relevant business of the approved trustee; but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the approved trustee under the Companies Act or the constitution of the approved trustee.
+
+(4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of an approved trustee by the Authority or statutory manager, any appointment of a person as the chief executive officer or a director of the approved trustee, which was in force immediately before the assumption of control, shall be deemed to be revoked, unless the Authority gives its approval, by notice in writing to the person and the approved trustee, for the person to remain in the appointment.
+
+(5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of an approved trustee, except with the approval of the Authority, no person shall be appointed as the chief executive officer or a director of the approved trustee.
+
+(6) Where the Authority has given its approval under subsection (4) or (5) to a person to remain in the appointment of, or to be appointed as, the chief executive officer or a director of an approved trustee, the Authority may at any time, by notice in writing to the person and the approved trustee, revoke that approval, and the appointment shall be deemed to be revoked on the date specified in the notice.
+
+(7) Notwithstanding any written law or rule of law, if any person, whose appointment as the chief executive officer or a director of an approved trustee is revoked under subsection (4) or (6), acts or purports to act after the revocation as the chief executive officer or a director of the approved trustee during the period when the Authority or statutory manager is in control of the relevant business of the approved trustee —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(8) Notwithstanding any written law or rule of law, if any person who is appointed as the chief executive officer or a director of an approved trustee in contravention of subsection (5) acts or purports to act as the chief executive officer or a director of the approved trustee during the period when the Authority or statutory manager is in control of the relevant business of the approved trustee —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(9) During the period when the Authority or statutory manager is in control of the relevant business of an approved trustee —
+
+(a) if there is any conflict or inconsistency between —
+
+(i) a direction or decision given by the Authority or statutory manager (including a direction or decision to a person or body of persons referred to in sub-paragraph (ii)); and
+
+(ii) a direction or decision given by any chief executive officer, director, member, executive officer, employee, agent or office holder, or the board of directors, of the approved trustee,
+
+the direction or decision referred to in sub-paragraph (i) shall, to the extent of the conflict or inconsistency, prevail over the direction or decision referred to in sub-paragraph (ii); and
+
+(b) no person shall exercise any voting or other right attached to any share in the approved trustee in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
+
+(10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) In this section, “constitution”, in relation to an approved trustee, means the memorandum of association and articles of association of the approved trustee.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Duration of control
+
+292F\.—(1) The Authority shall cease to be in control of the relevant business of an approved trustee when the Authority is satisfied that —
+
+(a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
+
+(b) it is no longer necessary in the interests of the public or the section of the public referred to in section 292D(1)(c)(i) or for the protection of investors.
+
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of an approved trustee on the date of his appointment as a statutory manager.
+
+(3) The appointment of a statutory manager in relation to the relevant business of an approved trustee may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that —
+
+(i) the reasons for the appointment have ceased to exist; or
+
+(ii) it is no longer necessary in the interests of the public or the section of the public referred to in section 292D(1)(c)(i) or for the protection of investors; or
+
+(b) on any other ground,
+
+and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the approved trustee.
+
+(4) The Authority shall, as soon as practicable, publish in theGazettethe date, and such other particulars as the Authority thinks fit, of —
+
+(a) the Authority’s assumption of control of the relevant business of an approved trustee;
+
+(b) the cessation of the Authority’s control of the relevant business of an approved trustee;
+
+(c) the appointment of a statutory manager in relation to the relevant business of an approved trustee; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of an approved trustee.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Responsibilities of officers, member, etc., of approved trustee
+
+292G\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of an approved trustee —
+
+(a) the High Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved trustee to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property or book of the approved trustee which is comprised in, forms part of or relates to the relevant business of the approved trustee, and which is in the person’s possession or control; and
+
+(b) any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved trustee shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of the Authority’s or statutory manager’s duties or functions, or the exercise of the Authority’s or statutory manager’s powers, in relation to the approved trustee, within such time and in such manner as may be specified by the Authority or statutory manager.
+
+(2) Any person who —
+
+(a) without reasonable excuse, fails to comply with subsection (1)(b); or
+
+(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Remuneration and expenses of Authority and others in certain cases
+
+292H\.—(1) The Authority may at any time fix the remuneration and expenses to be paid by an approved trustee —
+
+(a) to a statutory manager or statutory adviser appointed in relation to the approved trustee, whether or not the appointment has been revoked; and
+
+(b) where the Authority has assumed control of the relevant business of the approved trustee, to the Authority and any person appointed by the Authority under section 320 in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
+
+(2) The approved trustee shall reimburse the Authority any remuneration and expenses payable by the approved trustee to a statutory manager or statutory adviser.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ### Authority may issue directions
 
@@ -18294,6 +19685,141 @@ shall be treated as held or acquired by the transferee.
 (6) This section shall apply to a person who is not a participant of a trust but to whom units in the trust have been transmitted by operation of law as it applies to the participants of a trust; and references to a participant or participants shall be construed accordingly.
 
 [2/2009 wef 29/03/2010]
+
+Subdivision (2A) — Voluntary transfer of business of
+approved trustee
+
+### Interpretation of this Subdivision
+
+295D\. In this Subdivision, unless the context otherwise requires —
+
+“approved trustee” means a trustee for collective investment schemes which are authorised under section 286 and constituted as unit trusts;
+
+“business” includes affairs, property, right, obligation and liability;
+
+“Court” means the High Court or a Judge thereof;
+
+“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“property” includes property, right and power of every description;
+
+“Registrar of Companies” means the Registrar of Companies appointed under the Companies Act and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
+
+“transferee” means an approved trustee, or a public company which has applied or will be applying for the Authority’s approval under section 289(1) to act as an approved trustee, to which the whole or any part of a transferor’s business is, is to be or is proposed to be transferred under this Subdivision;
+
+“transferor” means an approved trustee the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Subdivision.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Voluntary transfer of business
+
+295E\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of an approved trustee) to a transferee, if —
+
+(a) the Authority has consented to the transfer;
+
+(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of an approved trustee; and
+
+(c) the Court has approved the transfer.
+
+(2) Subsection (1) is without prejudice to the right of an approved trustee to transfer the whole or any part of its business under any law.
+
+(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —
+
+(a) the transferee is a fit and proper person; and
+
+(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.
+
+(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Subdivision.
+
+(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
+
+(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
+
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this Subdivision.
+
+(8) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or
+
+(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
+
+[Act 10 of 2013 wef 18/04/2013]
+
+### Approval of transfer
+
+295F\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under this Subdivision.
+
+(2) Before making an application under subsection (1) —
+
+(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
+
+(b) the transferor shall obtain the consent of the Authority under section 295E(1)(a);
+
+(c) the transferor and the transferee shall, if they intend to serve on the participants of their respective collective investment schemes a summary of the transfer, obtain the Authority’s approval of the summary;
+
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;
+
+(e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
+
+(f) unless the Court directs otherwise, the transferor and the transferee shall serve on the participants of their respective collective investment schemes affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).
+
+(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —
+
+(a) shall have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and
+
+(b) may make any application to the Court in relation to the transfer.
+
+(4) The Court shall not approve the transfer if the Authority has not consented under section 295E(1)(a) to the transfer.
+
+(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
+
+(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or
+
+(b) refuse to approve the transfer.
+
+(6) If the transferee does not have the Authority’s approval under section 289(1) to act as an approved trustee, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee obtaining the Authority’s approval under section 289(1) to act as an approved trustee.
+
+(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters:
+
+(a) the transfer to the transferee of the whole or any part of the business of the transferor;
+
+(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
+
+(c) the continuation by (or against) the transferee of any legal proceedings pending by (or against) the transferor;
+
+(d) the dissolution, without winding up, of the transferor;
+
+(e) the provisions to be made for persons who are affected by the transfer;
+
+(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.
+
+(8) Any order under subsection (7) may —
+
+(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;
+
+(b) make provision in relation to any property which is held by the transferor as trustee; and
+
+(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.
+
+(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order the business (or part thereof) of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have effect.
+
+(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
+
+(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country or territory, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country or territory.
+
+(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —
+
+(a) a copy of the order with the Registrar of Companies and with the Authority; and
+
+(b) where the order relates to land in Singapore, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.
+
+(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 Subdivision (3) — Prospectus requirements
 
@@ -21055,6 +22581,17 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
 ||Date of commencement|18 March 2013|
+|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|22.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
