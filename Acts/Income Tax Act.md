@@ -934,6 +934,8 @@ shall be guilty of an offence.
 
 [53/2007]
 
+[This section is amended by section 3 of the Income Tax (Amendment) Act 2016 (Act 2 of 2016) wef 25/04/2013]
+
 ### Rules
 
 7\.—(1) The Minister may make rules —
@@ -7809,6 +7811,8 @@ where A is the lower of —
 (B) $150,000; and
 
 (iii) in the case of the basis period for the year of assessment 2013, the amount of such expenditure derived from the formula
+
+ derived from the formula
 
 where A
 
@@ -22406,6 +22410,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 April 2013 (Section 30)|
+|299.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
