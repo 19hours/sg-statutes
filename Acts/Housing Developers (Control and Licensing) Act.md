@@ -130,7 +130,9 @@ who or which engages in or undertakes housing development, but does not include 
 
 [26/2001 wef 01/09/2001]
 
-(ii) insurance company registered under section 7 of the Insurance Act [Cap. 142],
+(ii) insurance company licensed under section 8 of the Insurance Act [Cap. 142],
+
+[Act 11 of 2013 wef 18/04/2013]
 
 so long as such bank or insurance company only lends or provides money for housing development;
 
@@ -252,6 +254,8 @@ Provided that —
 
 (ii) a society, as president, secretary or treasurer or in a position analogous to that of president, secretary or treasurer;
 
+[17/2005 wef 15/07/2005]
+
 (iii) a partnership, as partner; or
 
 (iv) a limited liability partnership, as manager or in a position analogous to that of manager; or
@@ -301,6 +305,8 @@ DUTIES OF LICENSED HOUSING DEVELOPERS
 (b) if a society, in the by-laws or rules of the society;
 
 (c) if a group of persons or partnership, in any agreement;
+
+[17/2005 wef 15/07/2005]
 
 (d) if a limited liability partnership, in the limited liability partnership agreement or other document to that effect,
 
@@ -648,7 +654,7 @@ Housing Developers (Control and Licensing) Act
 
 (CHAPTER 130)
 
-This Legislative History is provided for the convenience of users of the Housing Developers (Control and Licensing) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Housing Developers (Control and Licensing) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -661,7 +667,7 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of First Reading|24 July 1985|
 |||(Bill No. 24/84 published on 3 August 1984)|
 ||Date of Second and Third Readings|24 August 1984|
-||Date of commencement|4 July 1985|
+||Date of commencement|4 January 1985|
 |4.|**1985 Revised Edition—Housing Developers (Control and Licensing) Act**|
 ||Date of operation|30 March 1987|
 |5.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
@@ -697,3 +703,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|11.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
