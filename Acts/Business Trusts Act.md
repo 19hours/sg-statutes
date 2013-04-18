@@ -318,7 +318,9 @@ PRELIMINARY
 
 “accounts” means profit and loss accounts, balance sheets and cash flow statements, and includes notes (other than auditors’ reports or directors’ reports) attached to or intended to be read with any of those profit and loss accounts, balance sheets or cash flow statements;
 
-“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act (Cap. 161);
+
+[Act 10 of 2013 wef 18/04/2013]
 
 “approved liquidator” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -946,7 +948,9 @@ and the trustee-manager or temporary trustee-manager shall comply with any such 
 
 (4) Any trustee-manager or temporary trustee-manager of a registered business trust which contravenes any written direction issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-(5) For the avoidance of doubt, a written direction issued under this section shall be deemed not to be subsidiary legislation.
+(5) It shall not be necessary to publish any written direction issued under this section in theGazette.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 Division 5 —
 
@@ -2733,7 +2737,9 @@ that document may be given, sent or served using electronic communications to th
 
 (b) may specify that different provisions thereof apply to different circumstances or provide for different cases or classes of cases.
 
-(8) For the avoidance of doubt, any code, guideline or no-action letter issued under this section shall be deemed not to be subsidiary legislation.
+(8) It shall not be necessary to publish any code, guideline or no-action letter issued under this section in theGazette.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (9) In this section, “no-action letter” means a letter written by the Authority to an applicant for such a letter to the effect that, if the facts are as represented by the applicant, the Authority will not institute proceedings against the applicant in respect of a particular state of affairs or particular conduct.
 
@@ -2965,9 +2971,23 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-111\. The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine that is prescribed for the offence.
+111\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.
 
-[SFA 2002 Ed., s. 336]
+(2) The Authority may, in its discretion, compound any offence under this Act (including an offence under a provision which has been repealed) which —
+
+(a) was compoundable under this section at the time the offence was committed; but
+
+(b) has ceased to be so compoundable,
+
+by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence at the time it was committed.
+
+(3) On payment of the sum of money referred to in subsection (1) or (2), no further proceedings shall be taken against that person in respect of the offence.
+
+(4) The Authority may make regulations to prescribe the offences which may be compounded.
+
+(5) All sums collected by the Authority under subsection (1) or (2) shall be paid into the Consolidated Fund.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ### General exemption
 
@@ -3144,3 +3164,7 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|19 November 2012|
 |||(Sections 2(p), (t), (u), (v) and (w), 42, 76, 113(b) and (c), 118(a) to (e) and (h) and 119)|
+|8.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013 (Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
