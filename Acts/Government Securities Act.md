@@ -434,7 +434,7 @@ appropriate out of the Government Securities Fund a sum equal to the appropriate
 
 (ii) such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the prescribed manner.
 
-[6/2002; 2/2010 wef 01/04/2010]
+[6/2002]
 
 (1A) In the case of Government securities that are held by the Authority for the purpose of securities lending to primary dealers under section 11A, such Government securities shall be redeemable on such conditions as are agreed upon between the Government and the Authority.
 
@@ -546,8 +546,6 @@ PRIMARY DEALERS
 
 (b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-[2/2010 wef 01/04/2010]
-
 ### Conditions of appointment as primary dealers
 
 29B\.—(1) The Authority may appoint any financial institution as a primary dealer subject to such conditions or restrictions as the Authority thinks fit.
@@ -574,8 +572,6 @@ and, in either case, the Authority shall thereupon issue a notice in writing to 
 
 (6) If no written representation is received by the Authority within the time specified under subsection (4)(c) or if any written representation made under that subsection is subsequently withdrawn, the modification shall take effect as specified in the notice given under that subsection.
 
-[2/2010 wef 01/04/2010]
-
 ### Directions to primary dealers
 
 29C\.—(1) The Authority may give directions to be observed by any primary dealer or class of primary dealers —
@@ -595,8 +591,6 @@ and, in either case, the Authority shall thereupon issue a notice in writing to 
 (3) Every primary dealer shall comply with every direction of the Authority given to the dealer under this section.
 
 (4) It shall not be necessary to publish any direction in theGazette.
-
-[2/2010 wef 01/04/2010]
 
 ### Cancellation, etc., of appointment as primary dealer
 
@@ -634,6 +628,10 @@ the Authority may by order cancel the appointment as a primary dealer.
 
 (3) In the case of a failure by a primary dealer to comply with any direction issued by the Authority under section 29C, the Authority may, in addition to any order that may be made under subsection (2), order the primary dealer to pay to the Authority, for every day or part thereof of such failure, a financial penalty in accordance with such formula as the Minister may, by notification published in theGazette, prescribe.
 
+(3A) A financial penalty collected by the Authority under subsection (3) shall be paid into the Consolidated Fund.
+
+[Act 10 of 2013 wef 18/04/2013]
+
 (4) The Authority shall not make any order under subsection (1), (2) or (3) unless an opportunity of being heard by a representative in writing had been given to the primary dealer against which the Authority intends to exercise its powers, being a period of at least 21 days but not more than 28 days.
 
 (5) Where the Authority has made any order under subsection (1), (2) or (3) against any primary dealer, it shall serve on the primary dealer concerned a notice of its order.
@@ -648,9 +646,9 @@ the Authority may by order cancel the appointment as a primary dealer.
 
 (8) An order of reprimand under subsection (2) shall take effect on the date it is served on the primary dealer concerned.
 
-(9) The financial penalty ordered under subsection (3) shall be recoverable by the Authority as a civil debt.
+(9) The Authority may recover on behalf of the Government any financial penalty ordered under subsection (3) as though the financial penalty were a civil debt due to the Authority.
 
-[2/2010 wef 01/04/2010]
+[Act 10 of 2013 wef 18/04/2013]
 
 ### Appeal to Minister
 
@@ -673,8 +671,6 @@ may, within 14 days of the receipt by the primary dealer of the notice of the co
 (3) Subject to subsection (4), the Minister may determine an appeal under this section by confirming, varying or reversing the notice, direction (or variation thereof) or order of the Authority that is appealed against.
 
 (4) If the Minister is satisfied that an appeal by a primary dealer is instituted or pursued without reasonable ground, the Minister may, without calling for a reply from the Authority, but after giving the primary dealer an opportunity to be heard, determine the appeal by confirming the notice, direction (or variation thereof) or order of the Authority that is appealed against.
-
-[2/2010 wef 01/04/2010]
 
 ### Inspection of books
 
@@ -711,8 +707,6 @@ may, within 14 days of the receipt by the primary dealer of the notice of the co
 (6) Any person who fails, without reasonable excuse, to comply with subsection (2) or a requirement of the Authority under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 (7) In this section, “books” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any electronic form or otherwise.
-
-[2/2010 wef 01/04/2010]
 
 ## PART VIII
 
@@ -799,6 +793,11 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 25/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|1 April 2010|
+|8.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013 (section 6 — amendment of Government Securities Act)|
 ## COMPARATIVE TABLE
 
 Government Securities Act
