@@ -134,7 +134,7 @@
 
 - [55 Powers of liquidator in respect of claims against insured policy owner](#Powers-of-liquidator-in-respect-of-claims-against-insured-policy-owner)
 
-[**Part X deposit insurance AND POLICY OWNERS’ PROTECTION FUND AGENCY**](#Part-X)
+[**Part X DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY**](#Part-X)
 
 - [56 Designation of company to be deposit insurance and policy owners’ protection fund agency](#Designation-of-company-to-be-deposit-insurance-and-policy-owners’-protection-fund-agency)
 
@@ -460,9 +460,13 @@ as specified under the terms of the insured policy;
 
 “relevant insurer” means —
 
-(a) a direct insurer registered to carry on life business under the Insurance Act (other than a captive insurer); or
+(a) a direct insurer licensed to carry on life business under the Insurance Act (other than a captive insurer); or
 
-(b) a direct insurer registered to carry on general business under the Insurance Act (other than a captive insurer or specialist insurer);
+[Act 11 of 2013 wef 18/04/2013]
+
+(b) a direct insurer licensed to carry on general business under the Insurance Act (other than a captive insurer or specialist insurer);
+
+[Act 11 of 2013 wef 18/04/2013]
 
 “repealed Act” means the Deposit Insurance Act (Cap. 77A, 2006 Ed.) repealed by this Act;
 
@@ -472,11 +476,17 @@ as specified under the terms of the insured policy;
 
 “specialist insurer” means —
 
-(a) an insurer which is registered under section 8 of the Insurance Act and which is permitted by its registration to carry on the business of issuing financial guarantee policies;
+(a) an insurer which is licensed under section 8 of the Insurance Act and which is permitted by its licence to carry on the business of issuing financial guarantee policies;
 
-(b) an insurer which is registered under section 8 of the Insurance Act as a direct insurer to carry on general business and which is permitted by its registration to carry on the business of issuing trade credit and political risk policies only; or
+[Act 11 of 2013 wef 18/04/2013]
 
-(c) an insurer registered under section 8 of the Insurance Act as a direct insurer to carry on general business and which is permitted to carry on marine mutual insurance business only;
+(b) an insurer which is licensed under section 8 of the Insurance Act as a direct insurer to carry on general business and which is permitted by its licence to carry on the business of issuing trade credit and political risk policies only; or
+
+[Act 11 of 2013 wef 18/04/2013]
+
+(c) an insurer licensed under section 8 of the Insurance Act as a direct insurer to carry on general business and which is permitted to carry on marine mutual insurance business only;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 “specified personal line insurance policy” means —
 
@@ -1090,11 +1100,17 @@ POLICY OWNERS’ PROTECTION SCHEME
 
 ### Membership of PPF Scheme
 
-31\.—(1) Every relevant insurer which is not exempted under section 32 shall be a PPF Scheme member so long as it is registered by the Authority to carry on insurance business under the Insurance Act (Cap. 142).
+31\.—(1) Every relevant insurer which is not exempted under section 32 shall be a PPF Scheme member so long as it is licensed by the Authority to carry on insurance business under the Insurance Act (Cap. 142).
 
-(2) Every relevant insurer which is registered to carry on insurance business under the Insurance Act immediately before 1st May 2011, shall be deemed to be a PPF Scheme member from that date.
+[Act 11 of 2013 wef 18/04/2013]
 
-(3) Every relevant insurer which is registered to carry on insurance business under the Insurance Act on or after 1st May 2011, shall be a PPF Scheme member from the date on which it is registered.
+(2) Every relevant insurer which is licensed to carry on insurance business under the Insurance Act immediately before 1st May 2011, shall be deemed to be a PPF Scheme member from that date.
+
+[Act 11 of 2013 wef 18/04/2013]
+
+(3) Every relevant insurer which is licensed to carry on insurance business under the Insurance Act on or after 1st May 2011, shall be a PPF Scheme member from the date on which it is licensed.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 ### Exemption from PPF Scheme membership
 
@@ -1108,7 +1124,9 @@ POLICY OWNERS’ PROTECTION SCHEME
 
 (a) the scope of insurance business conducted by the applicant in Singapore;
 
-(b) in the case of any applicant which is a direct insurer registered to carry on general business, whether or not that applicant issues any insured policy;
+(b) in the case of any applicant which is a direct insurer licensed to carry on general business, whether or not that applicant issues any insured policy;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (c) in the case of any applicant which is incorporated in a jurisdiction other than Singapore —
 
@@ -1160,15 +1178,23 @@ POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTECTION GENERAL FU
 
 34\.—(1) There shall be established under the PPF Scheme 2 funds to be called —
 
-(a) the Policy Owners’ Protection Life Fund to cover insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act (Cap. 142) by direct insurers registered to carry on life business; and
+(a) the Policy Owners’ Protection Life Fund to cover insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act (Cap. 142) by direct insurers licensed to carry on life business; and
 
-(b) the Policy Owners’ Protection General Fund to cover insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers registered to carry on general business.
+[Act 11 of 2013 wef 18/04/2013]
+
+(b) the Policy Owners’ Protection General Fund to cover insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers licensed to carry on general business.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (2) There shall be paid into the PPF Life Fund —
 
-(a) all levies, additional levies and late payment fees paid by PPF Scheme members under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers registered to carry on life business;
+(a) all levies, additional levies and late payment fees paid by PPF Scheme members under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers licensed to carry on life business;
 
-(b) all moneys borrowed by the Agency for the purpose of performing its functions under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers registered to carry on life business;
+[Act 11 of 2013 wef 18/04/2013]
+
+(b) all moneys borrowed by the Agency for the purpose of performing its functions under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers licensed to carry on life business;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (c) all moneys recovered by the Agency from, or out of the assets of, failed PPF Scheme members under this Act in respect of the PPF Scheme for life business;
 
@@ -1178,9 +1204,13 @@ POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTECTION GENERAL FU
 
 (3) There shall be paid into the PPF General Fund —
 
-(a) all levies, additional levies and late payment fees paid by PPF Scheme members under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers registered to carry on general business;
+(a) all levies, additional levies and late payment fees paid by PPF Scheme members under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers licensed to carry on general business;
 
-(b) all moneys borrowed by the Agency for the purpose of performing its functions under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers registered to carry on general business;
+[Act 11 of 2013 wef 18/04/2013]
+
+(b) all moneys borrowed by the Agency for the purpose of performing its functions under this Act in respect of the insured policies comprised in insurance funds established and maintained under section 17 of the Insurance Act by direct insurers licensed to carry on general business;
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (c) all moneys recovered by the Agency from, or out of the assets of, failed PPF Scheme members under this Act in respect of the PPF Scheme for general business;
 
@@ -1434,7 +1464,7 @@ the Authority may determine —
 
 (5) For the purposes of this Act, the Minister shall by notification in theGazette1appoint a date to be the effective date.
 
-1The effective date is 1st September 2011– vide S 431/2011.
+1The effective date is 1st September 2011 – vide S 431/2011.
 
 ### Entitlement to compensation for life business
 
@@ -1664,7 +1694,7 @@ the liquidator may bring legal proceedings with respect to those claims in the n
 
 ## PART X
 
-deposit insurance AND POLICY OWNERS’ PROTECTION FUND AGENCY
+DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 ### Designation of company to be deposit insurance and policy owners’ protection fund agency
 
@@ -2318,9 +2348,7 @@ Protected liabilities
 
 (b) in the case of Category 2 insured policies, an amount calculated in accordance with the following formula:
 
-where
-
-A
+where A
 
 is the protection ratio for sum assured referred to in paragraph 2(b) of the Fourth Schedule;
 
@@ -2338,9 +2366,7 @@ is the guaranteed policy liabilities for each of such Category 2 insured policie
 
 (i) where the insured policies are group term policies, group endowment policies or group whole life policies, an amount calculated in accordance with the following formula:
 
-where
-
-D
+where D
 
 is the protection ratio for sum assured referred to in paragraph 2(e)(i) of the Fourth Schedule;
 
@@ -2662,6 +2688,10 @@ The Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 repealed 
 
 |5.|**2012 Revised Edition—Deposit Insurance and Policy Owners' Protection Schemes Act (Chapter 77B)**|
 ||Date of operation|31 December 2012|
+|6.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
 ## COMPARATIVE TABLE
 
 Deposit Insurance and Policy Owners’ Protection Schemes Act
