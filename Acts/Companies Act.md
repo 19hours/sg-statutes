@@ -3478,21 +3478,25 @@ and thereupon the restrictions and limitations referred to in section 18(1) as i
 
 ### Default in complying with requirements as to private companies
 
-32\.—(1) [Deleted by Act 5 of 2004]
+32\. 
+
+—(1) [Deleted by Act 5 of 2004]
 
 (2) Where —
 
-(a) default has been made in relation to a private company in complying with a limitation of a kind specified in section 18(1)(b) that is included, or is deemed to be included in the memorandum or articles of the company;
+(a) default has been made in relation to a private company in complying with a limitation of a kind specified in section 18(1)(b) that is included, or is deemed to be included in the constitution of the company;
 
 (b) [Deleted by Act 5 of 2004]
 
-(c) the memorandum or articles of a private company have been so altered that they no longer include restrictions or limitations of the kinds specified in section 18(1); or
+(c) the constitution of a private company have been so altered that they no longer include restrictions or limitations of the kinds specified in section 18(1); or
 
 (d) a private company has ceased to have a share capital,
 
 the Registrar may by notice served on the company determine that, on such date as is specified in the notice, the company ceased to be a private company.
 
 [5/2004]
+
+[Act 36 of 2014 wef 03/01/2016]
 
 (3) Where, under this section, the Court or the Registrar determines that a company has ceased to be a private company —
 
@@ -3520,9 +3524,11 @@ the Registrar may by notice served on the company determine that, on such date a
 
 (7) [Deleted by Act 5 of 2004]
 
-(8) Where default is made in relation to a private company in complying with any restriction or limitation of a kind specified in section 18(1) that is included, or deemed to be included, in the memorandum or articles of the company, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
+(8) Where default is made in relation to a private company in complying with any restriction or limitation of a kind specified in section 18(1) that is included, or deemed to be included, in the constitution of the company, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
 
 [15/84; 5/2004]
+
+[Act 36 of 2014 wef 03/01/2016]
 
 [UK, 1948, s. 29; Aust., 1961, s. 27]
 
@@ -7209,13 +7215,9 @@ Directors and officers
 
 [5/2004]
 
-(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54B, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ or 97 of the Securities and Futures Act (Cap. 289).
+(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 30AAI of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ, 97 or 292A of the Securities and Futures Act (Cap. 289).
 
-[16/2011 wef 01/05/2011]
-
-[1/2007 wef 31/03/2007]
-
-[15/84; 42/2001; 12/2002; 1/2006; S227/95]
+[Act 11 of 2013 wef 18/04/2013]
 
 (7) If there is a contravention of subsection (1), the Registrar may, either of his own motion or on the application of any person, direct the members of the company to appoint a director who is ordinarily resident in Singapore if he considers it to be in the interests of the company for such appointment to be made.
 
@@ -9635,7 +9637,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (b) if the reserve is being used in the business of the company — by a statement to the effect that the reserve is being so used.
 
-(18) To the extent that any company registered under the Insurance Act (Cap. 142) is required to prepare balance-sheets, revenue accounts and profit and loss accounts in the form prescribed by that Act, the company shall be deemed to have complied with the requirements of this section (other than subsections (1) to (3C)) if its —
+(18) To the extent that any company registered or licensed under the Insurance Act (Cap. 142) is required to prepare balance-sheets, revenue accounts and profit and loss accounts in the form prescribed by that Act, the company shall be deemed to have complied with the requirements of this section (other than subsections (1) to (3C)) if its —
 
 (a) balance-sheet; and
 
@@ -9644,6 +9646,8 @@ each of which complies with the requirements of the Accounting Standards and giv
 are prepared in accordance with that Act.
 
 [12/2002]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (19) The provisions of this Act relating to the form and content of the report of the directors and the annual balance-sheet and profit and loss account shall apply to a banking corporation with such modifications and exceptions as are determined either generally or in any particular case by the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186).
 
@@ -10240,21 +10244,25 @@ AND AMALGAMATIONS
 
 (3) If a majority in number representing three-fourths in value of the creditors or class of creditors or members or class of members present and voting either in person or by proxy at the meeting or the adjourned meeting agrees to any compromise or arrangement, the compromise or arrangement shall, if approved by order of the Court, be binding on all the creditors or class of creditors or on the members or class of members, as the case may be, and also on the company or, in the case of a company in the course of being wound up, on the liquidator and contributories of the company.
 
-(3A) Where the company is a banking corporation or registered insurer, as the case may be, the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186) shall have the same powers and rights as a creditor of the company under the Companies Act including the right to appear and be heard before a Court in any proceedings under this section, but shall not have the right to vote at any meeting summoned under this section.
+(3A) Where the company is a banking corporation or licensed insurer, as the case may be, the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186) shall have the same powers and rights as a creditor of the company under the Companies Act including the right to appear and be heard before a Court in any proceedings under this section, but shall not have the right to vote at any meeting summoned under this section.
 
 [16/2011 wef 01/05/2011]
 
 [1/2007 wef 31/03/2007]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (4) Subject to subsection (4A), the Court may grant its approval to a compromise or arrangement subject to such alterations or conditions as it thinks just.
 
 [1/2007 wef 31/03/2007]
 
-(4A) The Court shall not approve any compromise or arrangement which has been proposed for the purposes of or in connection with any scheme referred to in section 212(1) under which the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or registered insurer incorporated in Singapore is to be transferred, unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the compromise or arrangement or has certified that his consent is not required.
+(4A) The Court shall not approve any compromise or arrangement which has been proposed for the purposes of or in connection with any scheme referred to in section 212(1) under which the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or licensed insurer incorporated in Singapore is to be transferred, unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the compromise or arrangement or has certified that his consent is not required.
 
 [16/2011 wef 01/05/2011]
 
 [1/2007 wef 31/03/2007]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (5) An order under subsection (3) shall have no effect until a copy of the order is lodged with the Registrar, and upon being so lodged, the order shall take effect on and from the date of lodgment or such earlier date as the Court may determine and as may be specified in the order.
 
@@ -10326,11 +10334,13 @@ AND AMALGAMATIONS
 
 (f) such incidental, consequential and supplemental matters as are necessary to secure that the reconstruction or amalgamation shall be fully and effectively carried out.
 
-(1A) Without prejudice to section 210(4A), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or registered insurer incorporated in Singapore unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the transfer or has certified that his consent is not required.
+(1A) Without prejudice to section 210(4A), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or licensed insurer incorporated in Singapore unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the transfer or has certified that his consent is not required.
 
 [16/2011 wef 01/05/2011]
 
 [1/2007 wef 31/03/2007]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (2) Where an order made under this section provides for the transfer of property or liabilities, then by virtue of the order that property shall be transferred to and vest in, and those liabilities shall be transferred to and become the liabilities of, the transferee company, free in the case of any particular property if the order so directs, from any charge which is by virtue of the compromise or arrangement to cease to have effect.
 
@@ -11170,9 +11180,11 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 (b) where the company is a bank licensed under the Banking Act (Cap. 19) or is a finance company licensed under the Finance Companies Act (Cap. 108); or
 
-(c) where the company is an insurance company registered under the Insurance Act (Cap. 142).
+(c) where the company is an insurance company licensed under the Insurance Act (Cap. 142).
 
 [13/87]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (8) A judicial management order shall, unless it is otherwise discharged, remain in force for a period of 180 days from the date of the making of the order but the Court may, on application of a judicial manager, increase this period subject to such terms as the Court may impose.
 
@@ -17719,6 +17731,16 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|19 November 2012 (Sections 2(p), (t), (u), (v) and (w), 42, 76, 113(b) and (c), 118(a) to (e) and (h) and 119)|
+|105.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013 (Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|106.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
 ## COMPARATIVE TABLE
 
 Companies Act
