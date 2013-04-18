@@ -160,15 +160,15 @@
 
 - [53 Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
 
-- [54 Moratorium](#Moratorium)
+- [54 Disqualification or removal of director or executive officer](#Disqualification-or-removal-of-director-or-executive-officer)
 
-- [54A General provisions as to winding up](#General-provisions-as-to-winding-up)
+- [54A (Repealed)](#Repealed)
 
-- [54B Disqualification and removal of directors](#Disqualification-and-removal-of-directors)
+- [54B (Repealed)](#Repealed)
 
 - [55 Notices to banks](#Notices-to-banks)
 
-[**Part VIIA TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF SHARE CAPITAL**](#Part-VIIA)
+[**Part VIIA VOLUNTARY TRANSFER OF BUSINESS**](#Part-VIIA)
 
 [**Division 1  Voluntary transfer of business of bank**](#Division-1--Voluntary-transfer-of-business-of-bank)
 
@@ -178,37 +178,17 @@
 
 - [55C Approval of transfer](#Approval-of-transfer)
 
-[**Division 2  Compulsory transfer of business of bank**](#Division-2--Compulsory-transfer-of-business-of-bank)
+[**Division 2  Repealed**](#Division-2--Repealed)
 
-- [55D Interpretation of this Division](#Interpretation-of-this-Division)
+[**Division 3  Repealed**](#Division-3--Repealed)
 
-- [55E Compulsory transfer of business](#Compulsory-transfer-of-business)
-
-- [55F Certificate of transfer](#Certificate-of-transfer)
-
-- [55G Moratorium, avoidance of disposition of property, etc.](#Moratorium-avoidance-of-disposition-of-property-etc)
-
-[**Division 3  Compulsory transfer of shares in bank**](#Division-3--Compulsory-transfer-of-shares-in-bank)
-
-- [55H Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [55I Compulsory transfer of shares](#Compulsory-transfer-of-shares)
-
-- [55J Certificate of transfer](#Certificate-of-transfer)
-
-[**Division 4  Compulsory restructuring of share capital of bank**](#Division-4--Compulsory-restructuring-of-share-capital-of-bank)
-
-- [55K Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [55L Compulsory restructuring of share capital](#Compulsory-restructuring-of-share-capital)
-
-- [55M Certificate of restructuring](#Certificate-of-restructuring)
+[**Division 4  Repealed**](#Division-4--Repealed)
 
 [**Division 5  Miscellaneous**](#Division-5--Miscellaneous)
 
 - [55N Power to obtain information under this Part](#Power-to-obtain-information-under-this-Part)
 
-- [55O Cessation of moratorium, etc., under this Part](#Cessation-of-moratorium-etc-under-this-Part)
+- [55O (Repealed)](#Repealed)
 
 - [55P Regulations for this Part](#Regulations-for-this-Part)
 
@@ -250,7 +230,7 @@
 
 - [64 Execution of instruments under seal](#Execution-of-instruments-under-seal)
 
-- [65 Disqualification of executive officers and employees of banks](#Disqualification-of-executive-officers-and-employees-of-banks)
+- [65 (Repealed)](#Repealed)
 
 - [66 Offences by director and executive officers of bank and false or misleading information](#Offences-by-director-and-executive-officers-of-bank-and-false-or-misleading-information)
 
@@ -604,7 +584,9 @@ where such deposit is to be made with any person (not being a person specified i
 
 (6) For the purposes of subsection (4), “deposit” does not include —
 
-(a) a sum paid by the Authority, any person referred to in section 4A(6)(a) to (d) or any insurer registered under the Insurance Act (Cap. 142);
+(a) a sum paid by the Authority, any person referred to in section 4A(6)(a) to (d) or any insurer licensed under the Insurance Act (Cap. 142);
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (b) a sum paid by any moneylender licensed under the Moneylenders Act (Cap. 188);
 
@@ -1424,9 +1406,11 @@ shall be guilty of an offence.
 
 [15/2011 wef 01/05/2011]
 
-(b) if, upon the Authority exercising any power under section 49(2) or the Minister exercising any power under Division 2, 3 or 4 of Part VIIA in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
+(b) if, upon the Authority exercising any power under section 49(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
 
 [2/84; 23/2001; 31/2005; 1/2007]
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (2) The Authority shall before revoking any licence under subsection (1) —
 
@@ -1442,9 +1426,11 @@ shall be guilty of an offence.
 
 (6) If within that period the bank concerned gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by that Court.
 
-(7) The making of an appeal by a bank under this section shall in no way affect the exercise of any power by the Authority under section 49, 50, 51, 52 or 53, or the exercise of any power by the Minister under Division 2, 3 or 4 of Part VIIA, in relation to the bank.
+(7) The making of an appeal by a bank under this section shall in no way affect the exercise of any power by the Authority under section 49, 50, 51, 52 or 53, or the exercise of any power by the Minister under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186), in relation to the bank.
 
 [1/2007]
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ### Effect of revocation of licence
 
@@ -2064,6 +2050,10 @@ the Authority may by notice in writing to the bank —
 
 [1/2007]
 
+(7A) A financial penalty collected by the Authority under subsection (7) shall be paid into the Consolidated Fund.
+
+[Act 10 of 2013 wef 18/04/2013]
+
 (8) For the avoidance of doubt, for the purposes of subsections (4) and (7), a bank shall be treated as having failed to comply with a requirement imposed under subsection (1) even if such failure is the result of an action of the Authority under subsection (6A).
 
 [1/2007]
@@ -2127,6 +2117,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (7) Any bank which fails to comply with any requirement of the Authority under subsection (1) shall be liable to pay, on being called upon to do so by the Authority, for every day or part thereof of such failure, a financial penalty in accordance with such formula as the Minister may, by order published in theGazette, prescribe.
 
 [1/2007]
+
+(7A) A financial penalty collected by the Authority under subsection (7) shall be paid into the Consolidated Fund.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (8) The Authority may call upon a bank to pay a financial penalty under subsection (7) in addition to any action taken in relation to the bank under subsection (4) or (5).
 
@@ -2454,9 +2448,13 @@ the report shall not be disclosed by the bank, or any officer or auditor of the 
 
 ### Information of insolvency, etc.
 
-48\. Any bank which is or is likely to become insolvent, or which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
+48\.—(1) Any bank which is or is likely to become insolvent, or which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
 
-[1/2007]
+[Act 10 of 2013 wef 18/04/2013]
+
+(2) Any bank which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 ### Interpretation of sections 49 to 53
 
@@ -2710,169 +2708,81 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2007]
 
-### Moratorium
+### Disqualification or removal of director or executive officer
 
-54\.—(1) The Authority may, if it considers it to be in the interests of the depositors of a bank, make an order prohibiting that bank from carrying on banking business or from doing or performing any act or function connected with banking business or any aspect thereof that may be specified in the order.
+54\.—(1) Notwithstanding the provisions of any other written law —
 
-(2) The High Court may, on the application of the Authority, if it considers it to be in the interests of the depositors of a bank, make one or more of the following orders:
+(a) a bank in Singapore shall not, without the prior written consent of the Authority, permit a person to act as its executive officer; and
 
-(a) that no resolution shall be passed, and no order shall be made, for the winding up of the bank;
+(b) a bank in Singapore which is incorporated in Singapore shall not, without the prior written consent of the Authority, permit a person to act as its director,
 
-(b) that no proceedings shall be commenced or continued by or against the bank in respect of any business of the bank;
+if the person —
 
-(c) that no execution, distress or other legal process shall be commenced, levied or continued against any property of the bank;
+(i) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 2(e) of the Financial Institutions (Miscellaneous Amendments) Act 2013, being an offence —
 
-(d) that no steps shall be taken to enforce any security over any property of the bank or to repossess from the bank any goods under any hire-purchase agreement, chattels leasing agreement or retention of title agreement;
+(A) involving fraud or dishonesty;
 
-(e) that no steps shall be taken by any person, other than a person specified in the order, to sell, transfer, assign or otherwise dispose of any property of the bank.
+(B) the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
 
-[1/2007]
+(C) that is specified in the Third Schedule to the Registration of Criminals Act (Cap. 268);
 
-(2A) Any sale, transfer, assignment or other disposition of any property of the bank in contravention of any order made under subsection (2)(e) shall be void.
+(ii) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-[1/2007]
+(iii) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
 
-(3) Any order made under subsection (2) shall be valid for a period not exceeding 6 months.
+(iv) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(4) So long as an order under subsection (1) remains in force, the licence granted to that bank under this Act shall be suspended.
+(v) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A of the Securities and Futures Act (Cap. 289) made against him that remains in force; or
 
-### General provisions as to winding up
+(vi) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
-54A\.—(1) On an application of the Authority, the Court may, in addition to the grounds specified in section 254(1) of the Companies Act (Cap. 50), order under that Act the winding up of a company incorporated in Singapore which is carrying on or has carried on banking business in Singapore if the Authority has exercised any power under section 49(2) in relation to the company.
+(A) which is being or has been wound up by a court; or
 
-[1/2007]
+(B) the approval, authorisation, designation, recognition, registration or licence of which has been withdrawn, cancelled or revoked by the Authority or, in the case of a regulated financial institution in a foreign country or territory, by the regulatory authority in that foreign country or territory.
 
-(2) On an application of the Authority, the Court may, in addition to the grounds specified in section 351(1) of the Companies Act, order under that Act the winding up of an unregistered company which is carrying on or has carried on banking business in Singapore if —
-
-(a) the Authority has exercised any power under section 49(2) in relation to the company;
-
-(b) the company has held a licence under this Act or under any written law repealed by this Act, and that licence has been revoked or has expired and has not been renewed; or
-
-(c) the company is carrying on or has carried on banking business in Singapore in contravention of any provision of this Act.
-
-[1/2007]
-
-(3) Notwithstanding sections 254(2) and 351(2) of the Companies Act (Cap. 50), on an application of the Authority for the winding up, on the ground specified in section 254(1)(e) or 351(1)(c(ii) of the Companies Act, of a company which is carrying on or has carried on banking business in Singapore, any statement of account lodged by the company with the Authority, at any time during the period beginning with the close of the last financial year of the company and ending with the making of the application for the winding up, which shows that the company is insolvent shall be evidence that the company is unable to pay its debts unless the Court, in its discretion, calls for further evidence on this issue.
-
-[1/2007]
-
-(4) Notwithstanding any written law or rule of law —
-
-(a) no person shall be appointed as a liquidator under the Companies Act of a company, which is carrying on or has carried on banking business in Singapore, without the prior written approval of the Authority; and
-
-(b) in the case of a foreign company which is carrying on or has carried on banking business in Singapore, a liquidator appointed for its liquidation or dissolution at its place of incorporation or origin shall not have the powers and functions of a liquidator for Singapore unless the liquidator has been approved by the Authority, and the exercise of any power or function by the liquidator in contravention of this paragraph shall be invalid and of no effect.
-
-[1/2007]
-
-(5) For the avoidance of doubt, subsection (4)(a) shall not affect the operation of section 263(a), (d, (daor (e) of the Companies Act (Cap. 50).
-
-[1/2007]
-
-(6) Any approval of the Authority under subsection (4)(b) shall be subject to such conditions as the Authority may determine and the Authority may add to, vary or revoke any such condition.
-
-[1/2007]
-
-(7) Notwithstanding any written law or rule of law, where a company which is carrying on or has carried on banking business in Singapore is being wound up, the Authority shall, subject to such modifications as may be necessary, have the same powers and rights as a creditor of the company under the Companies Act including the right to appear and be heard before the Court in any proceedings in the winding up.
-
-[1/2007]
-
-(8) Without prejudice to subsection (7) and notwithstanding any written law or rule of law, where a company which is carrying on or has carried on banking business in Singapore is being wound up, its liquidator (whether appointed under the Companies Act or, in the case of a foreign company, appointed at its place of incorporation or origin) shall give the Authority such information as the Authority may from time to time require about the affairs of the company or the winding up.
-
-[1/2007]
-
-(9) Any liquidator who —
-
-(a) without reasonable excuse, fails to comply with subsection (8); or
-
-(b) in purported compliance with subsection (8), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-(10) In this section —
-
-“Court” means the High Court or a Judge thereof;
-
-“liquidator” includes a provisional liquidator;
-
-“unregistered company” has the same meaning as in section 350 of the Companies Act.
-
-[1/2007]
-
-### Disqualification and removal of directors
-
-54B\.—(1) Notwithstanding any other written law, any person who —
-
-(a) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
-
-(b) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
-
-(c) is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(d) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly;
-
-(e) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 95 of the Securities and Futures Act (Cap. 289) made against him that remains in force; or
-
-(f) has been a director of, or directly concerned in the management of, a bank licensed under this Act or under any written law repealed by this Act —
-
-(i) which is being or has been wound up by a court; or
-
-(ii) the licence of which has been revoked,
-
-shall not, without the consent in writing of the Authority, act or continue to act as a director of any bank incorporated in Singapore.
-
-[1/2007]
-
-(2) Notwithstanding any other written law, where the Authority is satisfied that a director of a bank incorporated in Singapore —
+(2) Notwithstanding the provisions of any other written law, where the Authority is satisfied that a director of a bank in Singapore which is incorporated in Singapore, or an executive officer of a bank in Singapore —
 
 (a) has wilfully contravened or wilfully caused the bank to contravene any provision of this Act;
 
-(b) has, without reasonable excuse, failed to secure the compliance of the bank with any provision of this Act; or
+(b) has, without reasonable excuse, failed to secure the compliance of the bank with this Act, the Monetary Authority of Singapore Act (Cap. 186) or any of the written laws set out in the Schedule to that Act; or
 
 (c) has failed to discharge any of the duties of his office,
 
-the Authority may, if it thinks it necessary in the public interest or for the protection of depositors of the bank, by notice in writing to the bank, direct the bank to remove the director from office or employment within such period as may be specified by the Authority in the notice, and the bank shall comply with the notice.
+the Authority may, if it thinks it necessary in the public interest or for the protection of the depositors of the bank, by notice in writing to the bank, direct the bank to remove the director or executive officer, as the case may be, from his office or employment within such period as may be specified by the Authority in the notice, and the bank shall comply with the notice.
 
-[1/2007]
+(3) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, when determining whether a director or an executive officer of a bank in Singapore has failed to discharge the duties of his office for the purposes of subsection (2)(c), have regard to such criteria as may be prescribed.
 
-(3) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether a director of a bank has failed to discharge the duties of his office for the purposes of subsection (2)(c), have regard to such criteria as may be prescribed.
+(4) Before directing a bank in Singapore to remove a person from his office or employment under subsection (2), the Authority shall —
 
-[1/2007]
+(a) give the bank and the person notice in writing of its intention to do so; and
 
-(4) Before directing a bank to remove its director under subsection (2), the Authority shall —
+(b) in the notice referred to in paragraph (a), call upon the bank and the person to show cause, within such time as may be specified in the notice, why the person should not be removed.
 
-(a) give the bank and the director notice in writing of its intention to do so; and
+(5) If the bank and the person referred to in subsection (4) —
 
-(b) in the notice referred to in paragraph (a), call upon the bank and the director to show cause, within such time as may be specified by the Authority in the notice, why the director should not be removed.
-
-[1/2007]
-
-(5) If the bank and the director referred to in subsection (4) —
-
-(a) fail to show cause within the time specified in a notice issued under subsection (4) or within such extended period of time as the Authority may allow; or
+(a) fail to show cause within the time specified under subsection (4)(b) or within such extended period of time as the Authority may allow; or
 
 (b) fail to show sufficient cause,
 
-the Authority may direct the bank to remove the director under subsection (2).
+the Authority may direct the bank to remove the person under subsection (2).
 
-[1/2007]
+(6) Any bank in Singapore which, or any director or executive officer of a bank in Singapore who, is aggrieved by a direction of the Authority under subsection (2) may, within 30 days after receiving the direction, appeal in writing to the Minister, whose decision shall be final.
 
-(6) Any bank which, or any director of a bank who, is aggrieved by a direction of the Authority under subsection (2) may, within 30 days of the direction, appeal in writing to the Minister whose decision shall be final.
+(7) Any bank in Singapore which contravenes subsection (1) or fails to comply with a notice issued under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-[1/2007]
+(8) No criminal or civil liability shall be incurred by a bank in Singapore, or any person acting on behalf of the bank, in respect of anything done or omitted to be done with reasonable care and in gooFd faith in the discharge or purported discharge of the obligations of the bank under this section.
 
-(7) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
+(9) In this section, unless the context otherwise requires —
 
-[1/2007]
+“regulated financial institution” means a person who carries on a business, the conduct of which is regulated or authorised by the Authority or, if it is carried on in Singapore, would be regulated or authorised by the Authority;
 
-(8) Any bank which fails to comply with a notice issued under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+“regulatory authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory exercising any function that corresponds to a regulatory function of the Authority under this Act, the Monetary Authority of Singapore Act or any of the written laws set out in the Schedule to that Act.
 
-[1/2007]
+[Act 10 of 2013 wef 18/04/2013]
 
-(9) No criminal or civil liability shall be incurred by a bank, or any person acting on behalf of the bank, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of the obligations of the bank under this section.
+54A\. [Repealed by Act 10 of 2013 wef 18/04/2013]
 
-[1/2007]
+54B\. [Repealed by Act 10 of 2013 wef 18/04/2013]
 
 ### Notices to banks
 
@@ -2924,13 +2834,13 @@ the Authority may direct the bank to remove the director under subsection (2).
 
 [1/2007]
 
-(4) For the avoidance of doubt, any notice in writing issued under this Act shall be deemed not to be subsidiary legislation.
+(4) It shall not be necessary to publish any notice in writing issued under this Act in theGazette.
 
-[23/2001]
+[Act 10 of 2013 wef 18/04/2013]
 
 ## PART VIIA
 
-TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF SHARE CAPITAL
+VOLUNTARY TRANSFER OF BUSINESS
 
 Division 1 —
 
@@ -3092,635 +3002,17 @@ Voluntary transfer of business of bank
 
 [1/2007]
 
-Division 2 —
+Division 2
 
-Compulsory transfer of business of bank
+[Repealed by Act 10 of 2013 wef 18/04/2013]
 
-### Interpretation of this Division
+Division 3
 
-55D\. In this Division, unless the context otherwise requires —
+[Repealed by Act 10 of 2013 wef 18/04/2013]
 
-“business” includes affairs, property, right, obligation and liability;
+Division 4
 
-“certificate” means a certificate of transfer issued by the Minister under section 55F(1);
-
-“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
-
-“determination” means a determination of the Authority under section 55E(1);
-
-“property” includes property, right and power of every description;
-
-“specified business” means that part of the business of a transferor which is specified or identified in a certificate;
-
-“transferee” means a bank in Singapore, or a company which has applied for or will be applying for a licence to carry on banking business in Singapore, to which the whole or part of a transferor’s business is, or is to be, or is proposed to be, transferred under this Division;
-
-“transferor” means a bank in Singapore, the whole or part of the business of which is, or is to be, or is proposed to be, transferred under this Division.
-
-[1/2007]
-
-### Compulsory transfer of business
-
-55E\.—(1) Subject to subsections (2) and (6), the Authority may make a determination that the whole or any part of the business of a transferor (including its non-banking business) shall be transferred to a transferee which is licensed to carry on banking business in Singapore if —
-
-(a) any ground exists for the Authority to exercise any power under section 49(2) in relation to the transferor, whether or not the Authority has exercised the power;
-
-(b) the board of directors of the transferee has consented to the transfer;
-
-(c) the Authority is satisfied that the transfer is appropriate, having regard to —
-
-(i) the interests of the depositors of the transferor given priority and the order of priority of each class of depositors under section 62;
-
-(ii) the interests of the depositors of the transferee given priority and the order of priority of each class of depositors under section 62;
-
-(iii) the stability of the financial system in Singapore; and
-
-(iv) any other matter that the Authority considers relevant; and
-
-(d) the transfer involves the whole or part of the banking business of the transferor.
-
-[1/2007]
-
-(2) Where the transferor is a bank incorporated outside Singapore, any determination shall only be in respect of the transferor’s business (or any part thereof) which is reflected in the books of the transferor in Singapore in relation to the transferor’s operations in Singapore and the reference to depositors in subsection (1)(c)(i) shall be construed accordingly.
-
-[1/2007]
-
-(3) The Authority may, before making a determination, appoint one or more persons to perform an independent assessment of the proposed transfer of the business (or any part thereof) of the transferor, including the compensation, if any, that should be paid by the transferee, and furnish a report on the transfer.
-
-[1/2007]
-
-(4) The remuneration and expenses of any person appointed under subsection (3) shall be paid by the transferor.
-
-[1/2007]
-
-(5) The Authority shall serve a copy of any report furnished under subsection (3) on the transferor and the transferee.
-
-[1/2007]
-
-(6) A determination may provide for the transfer of the business (or any part thereof) of the transferor to a transferee who is not licensed to carry on banking business in Singapore on terms that the transfer shall take effect only in the event of the transferee becoming so licensed.
-
-[1/2007]
-
-(7) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
-
-[1/2007]
-
-(8) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so —
-
-(a) publish in theGazetteand in such newspaper or newspapers as the Minister may determine a notice of his intention to approve the determination, specifying such particulars as the Minister considers appropriate; and
-
-(b) cause to be given to the transferor notice in writing of his intention to approve the determination, specifying such particulars as the Minister considers appropriate and the date by which the transferor may make written representations to the Minister.
-
-[1/2007]
-
-(9) In determining the period within which written representations have to be made under subsection (8), the Minister shall take into account the need for the transfer to be effected expeditiously in the interest of the stability of the financial system in Singapore.
-
-[1/2007]
-
-(10) Upon receipt of any written representation, the Minister shall consider the representation for the purpose of deciding whether to approve the determination.
-
-[1/2007]
-
-(11) Where the transferor is a bank incorporated in Singapore, the Minister shall not approve the determination unless he is satisfied that it is in the national interest to do so.
-
-[1/2007]
-
-(12) The Minister may —
-
-(a) approve the determination without modification;
-
-(b) approve the determination subject to any modification he considers appropriate if the board of directors of the transferee has agreed to the modification; or
-
-(c) refuse to approve the determination.
-
-[1/2007]
-
-(13) Any approval under subsection (12) shall be subject to such conditions as the Minister may determine.
-
-[1/2007]
-
-(14) A determination, the approval of a determination under this section or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act.
-
-[1/2007]
-
-### Certificate of transfer
-
-55F\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer which shall come into effect on the date specified by the Minister in the certificate.
-
-[1/2007]
-
-(2) The certificate shall specify such information as may be prescribed.
-
-[1/2007]
-
-(3) The certificate may make provision for all or any of the following matters:
-
-(a) the transfer to the transferee of the whole or any part of the business of the transferor;
-
-(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
-
-(c) any property which is held by the transferor as trustee;
-
-(d) any future or contingent right or liability of the transferor;
-
-(e) the coming into effect of the transfer of any specified business on a date other than the date on which the certificate comes into effect;
-
-(f) the compensation, if any, to be paid by the transferee to the transferor and the period within which the compensation is to be paid;
-
-(g) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the transfer is fully effective, including conditions relating to the transfer.
-
-[1/2007]
-
-(4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
-
-[1/2007]
-
-(5) The Authority shall cause the certificate and any addition, variation or revocation referred to in subsection (4) to be served on the transferor and the transferee and published in theGazetteand in such newspaper or newspapers as the Minister may determine, on or before the date on which the certificate comes into effect.
-
-[1/2007]
-
-(6) Subject to subsection (7), unless otherwise specified in the certificate, the transfer of the business (or any part thereof) of the transferor under the certificate shall take effect on the date on which the certificate comes into effect.
-
-[1/2007]
-
-(7) Where the transferee is not licensed to carry on banking business in Singapore, the transfer of the business (or any part thereof) of the transferor shall not come into effect until the transferee becomes so licensed.
-
-[1/2007]
-
-(8) Notwithstanding any written law or rule of law, upon the date on which the transfer of the business (or any part thereof) of the transferor comes into effect under the certificate —
-
-(a) subject to subsection (10), the business (or the part thereof) shall be transferred to and vest in the transferee without other or further assurance, act or deed and the certificate shall have effect according to its tenor and be binding on any person thereby affected;
-
-(b) all deeds, bonds, agreements and other arrangements subsisting immediately before that date which relate to the business (or the part thereof) and to which the transferor is a party shall continue in full force and effect, and shall be enforceable by or against the transferee, as from that date as if the transferee had been named therein or had been a party thereto instead of the transferor; and
-
-(c) any proceedings or cause of action, by or against the transferor, pending or existing immediately before that date and relating to the business (or the part thereof) may be continued and shall be enforced by or against the transferee as from that date.
-
-[1/2007]
-
-(9) For the avoidance of doubt, the business (or any part thereof) of the transferor shall be transferred to and vest in the transferee in accordance with subsection (8) notwithstanding any incapacity of the transferor.
-
-[1/2007]
-
-(10) The certificate shall not have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
-
-[1/2007]
-
-(11) Section 259 of the Companies Act (Cap. 50) shall not apply to the transfer of any property under the certificate.
-
-[1/2007]
-
-(12) If any specified business is governed by the law of any foreign country or territory, the certificate may require the transferor, if the transferee so requires, to take all necessary steps for securing that the transfer of the specified business to the transferee is fully effective under the law of that country or territory.
-
-[1/2007]
-
-(13) The transferee and the transferor shall each lodge, within 7 days of being served with the certificate —
-
-(a) a copy of the certificate with the Registrar; and
-
-(b) where the certificate relates to land in Singapore, an office copy of the certificate with the appropriate authority concerned with the registration or recording of dealings in that land.
-
-[1/2007]
-
-(14) A transferor or a transferee which fails to comply with any provision in the certificate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-(15) A transferor which fails to comply with subsection (12) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-(16) A transferor or a transferee which fails to comply with subsection (13) and every officer of the transferor or the transferee who fails to take all reasonable steps to secure compliance by the transferor or the transferee, as the case may be, with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-### Moratorium, avoidance of disposition of property, etc.
-
-55G\.—(1) Notwithstanding section 54(2) and subject to section 55O, no resolution shall be passed, and no order shall be made, for the winding up of a transferor during the period beginning with the date on which the Minister publishes the notice under section 55E(8) in theGazetteon the transfer of the business (or any part thereof) of the transferor or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 55F(5) in theGazetteon the transfer of the business (or any part thereof) of the transferor and ending with —
-
-(a) the date on which the certificate comes into effect; or
-
-(b) where the certificate specifies a different date for the coming into effect of the transfer of any specified business, the last date on which the transfer of every specified business has come into effect.
-
-[1/2007]
-
-(2) Notwithstanding section 54(2) and subject to section 55O, during the period beginning with the date on which the Minister publishes the notice under section 55E(8) in theGazetteon the transfer of a specified business of a transferor or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 55F(5) in theGazetteon the transfer of the specified business and ending with the date on which the transfer of the specified business comes into effect —
-
-(a) no proceedings shall be commenced or continued against the transferor in respect of the specified business;
-
-(b) no execution, distress or other legal process shall be commenced, levied or continued against the specified business;
-
-(c) no steps shall be taken to enforce any security over the specified business or to repossess from the transferor the specified business under any hire-purchase agreement, chattels leasing agreement or retention of title agreement; and
-
-(d) any sale, transfer, assignment or other disposition of the specified business shall be void.
-
-[1/2007]
-
-Division 3 —
-
-Compulsory transfer of shares in bank
-
-### Interpretation of this Division
-
-55H\. In this Division, unless the context otherwise requires —
-
-“12% controller” has the same meaning as in section 15B(3);
-
-“20% controller” has the same meaning as in section 15B(3);
-
-“business” includes affairs, property, right, obligation and liability;
-
-“certificate” means a certificate of transfer issued by the Minister under section 55J(1);
-
-“determination” means a determination of the Authority under section 55I(1);
-
-“property” includes property, right and power of every description;
-
-“transferee” means a person to whom a transferor’s shares are, or are to be, or are proposed to be, transferred under this Division;
-
-“transferor” means a shareholder of a bank incorporated in Singapore, whose shares in the bank are, or are to be, or are proposed to be, transferred under this Division.
-
-[1/2007]
-
-### Compulsory transfer of shares
-
-55I\.—(1) The Authority may make a determination that all or any of the shares held by a transferor in a bank incorporated in Singapore shall be transferred to a transferee if —
-
-(a) any ground exists for the Authority to exercise any power under section 49(2) in relation to the bank, whether or not the Authority has exercised the power;
-
-(b) the transferee or, where the transferee is a corporation, its board of directors has consented to the transfer; and
-
-(c) the Authority is satisfied that the transfer is appropriate, having regard to —
-
-(i) the interests of the depositors of the bank given priority and the order of priority of each class of its depositors under section 62;
-
-(ii) where the transferee is a bank in Singapore, the interests of the depositors of the transferee given priority and the order of priority of each class of its depositors under section 62;
-
-(iii) the stability of the financial system in Singapore; and
-
-(iv) any other matter that the Authority considers relevant.
-
-[1/2007]
-
-(2) The Authority may, before making a determination, appoint one or more persons to perform an independent assessment of the proposed transfer of shares, including the compensation, if any, that should be paid by the transferee, and furnish a report on the transfer.
-
-[1/2007]
-
-(3) The remuneration and expenses of any person appointed under subsection (2) shall be paid by the bank.
-
-[1/2007]
-
-(4) The Authority shall serve a copy of any report furnished under subsection (2) on the transferor and the transferee.
-
-[1/2007]
-
-(5) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
-
-[1/2007]
-
-(6) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the transferor notice of his intention to approve the determination by publication in theGazetteand in such newspaper or newspapers as the Minister may determine, specifying such particulars as the Minister considers appropriate and the date by which the transferor may make written representations to the Minister.
-
-[1/2007]
-
-(7) In determining the period within which written representations have to be made under subsection (6), the Minister shall take into account the need for the transfer to be effected expeditiously in the interest of the stability of the financial system in Singapore.
-
-[1/2007]
-
-(8) Upon receipt of any written representation, the Minister shall consider the representation for the purpose of deciding whether to approve the determination.
-
-[1/2007]
-
-(9) Where the determination, if approved, will result in the transferee becoming a substantial shareholder, a 12% controller or a 20% controller of the bank, the Minister shall not approve the determination unless —
-
-(a) the Authority is satisfied that —
-
-(i) the transferee is a fit and proper person; and
-
-(ii) having regard to the likely influence of the transferee, the bank will or will continue to conduct its business prudently and comply with the provisions of this Act; and
-
-(b) the Minister is satisfied that it is in the national interest to do so.
-
-[1/2007]
-
-(10) The Minister may —
-
-(a) approve the determination without modification;
-
-(b) approve the determination subject to any modification he considers appropriate if the transferee or, where the transferee is a corporation, its board of directors has agreed to the modification; or
-
-(c) refuse to approve the determination.
-
-[1/2007]
-
-(11) Any approval under subsection (10) shall be subject to such conditions as the Minister may determine.
-
-[1/2007]
-
-(12) A determination, the approval of a determination under this section or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act.
-
-[1/2007]
-
-### Certificate of transfer
-
-55J\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer which shall come into effect on the date specified by the Minister in the certificate.
-
-[1/2007]
-
-(2) The certificate shall specify such information as may be prescribed.
-
-[1/2007]
-
-(3) The certificate may make provision for all or any of the following matters:
-
-(a) the transfer to the transferee of all or any of the shares of the transferor in the bank;
-
-(b) any share in the bank which is held by the transferor as trustee;
-
-(c) the compensation, if any, to be paid by the transferee to the transferor and the period within which the compensation is to be paid;
-
-(d) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the transfer is fully effective, including conditions relating to the transfer.
-
-[1/2007]
-
-(4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
-
-[1/2007]
-
-(5) The Authority shall cause the certificate and any addition, variation or revocation referred to in subsection (4) to be served on the bank and published in theGazetteand in such newspaper or newspapers as the Minister may determine, on or before the date on which the certificate comes into effect.
-
-[1/2007]
-
-(6) Notwithstanding any written law or rule of law, upon the certificate coming into effect, any share of the transferor that is to be transferred under the certificate shall be transferred to and vest in the transferee, free from any claim or encumbrance, without other or further assurance, act or deed; and the certificate shall have effect according to its tenor and be binding on any person thereby affected.
-
-[1/2007]
-
-(7) For the avoidance of doubt, the shares of the transferor shall be transferred to and vest in the transferee in accordance with subsection (6) notwithstanding the death or dissolution, or the bankruptcy or winding up, or the mental or other incapacity, of the transferor.
-
-[1/2007]
-
-(8) Section 259 of the Companies Act (Cap. 50) shall not apply to the transfer of any share under the certificate.
-
-[1/2007]
-
-(9) Where the transfer of shares under the certificate results in the transferee becoming a substantial shareholder, a 12% controller or a 20% controller of the bank, the transferee shall, upon the coming into effect of the certificate —
-
-(a) be deemed to have obtained the approval of the Minister under section 15A or 15B, as the case may be, in respect of the shares; and
-
-(b) not be required to make a take-over offer or be required to acquire the shares of the other shareholders of the bank notwithstanding the provisions of the Companies Act or the Take-over Code.
-
-[1/2007]
-
-(10) A transferor or a transferee who contravenes any provision in the certificate shall be guilty of an offence and shall be liable on conviction —
-
-(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
-
-(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-(11) Where a person is charged with an offence under subsection (10), it shall be a defence for the person to prove that —
-
-(a) he was not aware he had contravened any provision in the certificate; and
-
-(b) he has complied with the provision within a reasonable time after becoming aware of the contravention.
-
-[1/2007]
-
-(12) Except as provided in subsection (11), it shall not be a defence for a person charged with an offence under subsection (10) that he did not intend to or did not knowingly contravene any provision in the certificate.
-
-[1/2007]
-
-(13) Notwithstanding section 54(2) and subject to section 55O, during the period beginning with the date on which the Minister publishes the notice under section 55I(6) in theGazetteon the transfer of any share in a bank or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the transfer of the share and ending with the date on which the transfer of the share comes into effect —
-
-(a) no execution or other legal process shall be commenced or continued against the share;
-
-(b) no steps shall be taken to enforce any security over the share;
-
-(c) any sale, transfer, assignment or other disposition of the share shall be void;
-
-(d) no voting rights shall be exercisable in respect of the share unless the Minister expressly permits such rights to be exercised;
-
-(e) no shares in the bank shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the share unless the Minister expressly permits such issue or offer;
-
-(f) no payment shall be made by the bank of any amount (whether by dividends or otherwise) in respect of the share unless the Minister expressly authorises such payment;
-
-(g) no resolution shall be passed, and no order shall be made, for the winding up of the bank;
-
-(h) no proceedings shall be commenced or continued against the bank in respect of any business of the bank;
-
-(i) no execution, distress or other legal process shall be commenced, levied or continued against any property of the bank;
-
-(j) no steps shall be taken to enforce any security over any property of the bank; and
-
-(k) any sale, transfer, assignment or other disposition of any property of the bank shall be void.
-
-[1/2007]
-
-Division 4 —
-
-Compulsory restructuring of share capital of bank
-
-### Interpretation of this Division
-
-55K\. In this Division, unless the context otherwise requires —
-
-“12% controller” has the same meaning as in section 15B(3);
-
-“20% controller” has the same meaning as in section 15B(3);
-
-“business” includes affairs, property, right, obligation and liability;
-
-“certificate” means a certificate of restructuring issued by the Minister under section 55M(1);
-
-“determination” means a determination of the Authority under section 55L(1) or (2);
-
-“property” includes property, right and power of every description;
-
-“subscriber” means any person to whom shares in a bank incorporated in Singapore are, or are to be, or are proposed to be, issued under this Division.
-
-[1/2007]
-
-### Compulsory restructuring of share capital
-
-55L\.—(1) If any ground exists for the Authority to exercise any power under section 49(2) in relation to a bank incorporated in Singapore, whether or not the Authority has exercised the power, and the Authority is of the opinion that —
-
-(a) the liability on any of the shares of the bank in respect of share capital not paid up ought to be extinguished or reduced; or
-
-(b) any paid-up share capital of the bank is lost or unrepresented by the available assets of the bank,
-
-the Authority may make a determination that the share capital of the bank shall be reduced by the cancellation of the whole or any part of its share capital not paid up, or of its paid-up share capital which is lost or unrepresented by its available assets.
-
-[1/2007]
-
-(2) The Authority may, in writing, make a determination that shares shall be issued by a bank incorporated in Singapore to a subscriber if —
-
-(a) any ground exists for the Authority to exercise any power under section 49(2) in relation to the bank, whether or not the Authority has exercised the power;
-
-(b) the subscriber or, where the subscriber is a corporation, its board of directors has consented to subscribe for the shares; and
-
-(c) the Authority is satisfied that the issue of shares is appropriate, having regard to —
-
-(i) the interests of the depositors of the bank given priority and the order of priority of each class of its depositors under section 62;
-
-(ii) where the subscriber is a bank in Singapore, the interests of the depositors of the subscriber given priority and the order of priority of each class of its depositors under section 62;
-
-(iii) the stability of the financial system in Singapore; and
-
-(iv) any other matter that the Authority considers relevant.
-
-[1/2007]
-
-(3) The Authority may, before making a determination, appoint one or more persons to perform an independent assessment of the value of the assets of the bank and, in the case of a determination to be made under subsection (2), the consideration, if any, that should be paid by the subscriber, and furnish a report on the restructuring.
-
-[1/2007]
-
-(4) The remuneration and expenses of any person appointed under subsection (3) shall be paid by the bank.
-
-[1/2007]
-
-(5) The Authority shall serve a copy of any report furnished under subsection (3) on the bank and, where the report is in relation to a determination to be made under subsection (2), on the subscriber.
-
-[1/2007]
-
-(6) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
-
-[1/2007]
-
-(7) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so —
-
-(a) publish in theGazetteand in such newspaper or newspapers as may be determined by the Minister a notice of his intention to approve the determination, specifying such particulars as the Minister considers appropriate and the date by which any shareholder of the bank may make written representations to the Minister; and
-
-(b) cause to be given to the bank notice in writing of his intention to approve the determination, specifying such particulars as the Minister considers appropriate and the date by which the bank may make written representations to the Minister.
-
-[1/2007]
-
-(8) In determining the period within which written representations have to be made under subsection (7), the Minister shall take into account the need for the restructuring to be effected expeditiously in the interest of the stability of the financial system in Singapore.
-
-[1/2007]
-
-(9) Upon receipt of any written representation, the Minister shall consider the representation for the purpose of deciding whether to approve the determination.
-
-[1/2007]
-
-(10) Where the determination under subsection (2), if approved, will result in the subscriber becoming a substantial shareholder, a 12% controller or a 20% controller of the bank, the Minister shall not approve the determination unless —
-
-(a) the Authority is satisfied that —
-
-(i) the subscriber is a fit and proper person; and
-
-(ii) having regard to the likely influence of the subscriber, the bank will or will continue to conduct its business prudently and comply with the provisions of this Act; and
-
-(b) the Minister is satisfied that it is in the national interest to do so.
-
-[1/2007]
-
-(11) The Minister may —
-
-(a) approve the determination without modification;
-
-(b) approve the determination —
-
-(i) in the case of a determination under subsection (1), subject to any modification he considers appropriate; or
-
-(ii) in the case of a determination under subsection (2), subject to any modification he considers appropriate if the subscriber or, where the subscriber is a corporation, its board of directors, has agreed to the modification; or
-
-(c) refuse to approve the determination.
-
-[1/2007]
-
-(12) Any approval under subsection (11) shall be subject to such conditions as the Minister may determine.
-
-[1/2007]
-
-(13) A determination, the approval of a determination under this section or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act.
-
-[1/2007]
-
-### Certificate of restructuring
-
-55M\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of restructuring which shall come into effect on the date specified by the Minister in the certificate.
-
-[1/2007]
-
-(2) The certificate shall specify such information as may be prescribed.
-
-[1/2007]
-
-(3) The certificate may make provision for all or any of the following matters:
-
-(a) the cancellation of the whole or any part of the share capital of the bank not paid up;
-
-(b) the cancellation of the whole or any part of the paid-up share capital of the bank lost or unrepresented by the available assets of the bank;
-
-(c) the shares to be issued by the bank to the subscriber, the compensation, if any, to be paid by the subscriber for the shares and the period within which the compensation is to be paid;
-
-(d) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the restructuring is fully effective, including conditions relating to the restructuring.
-
-[1/2007]
-
-(4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
-
-[1/2007]
-
-(5) The Authority shall cause the certificate and any addition, variation or revocation referred to in subsection (4) to be served on the bank and published in theGazetteand in such newspaper or newspapers as the Minister may determine, on or before the date on which the certificate comes into effect.
-
-[1/2007]
-
-(6) Notwithstanding any written law or rule of law (including anything in the memorandum or articles of association of the bank) —
-
-(a) where the certificate provides for a reduction of the share capital of the bank, upon the certificate coming into effect, the reduction of the share capital shall take effect and the certificate shall have effect according to its tenor without other or further act by the bank and be binding on any person thereby affected; and
-
-(b) where the certificate provides for the issue of shares by the bank, the bank shall issue the shares in accordance with the certificate and the certificate shall have effect according to its tenor and be binding on any person thereby affected.
-
-[1/2007]
-
-(7) Where the issue of shares results in the subscriber becoming a substantial shareholder, a 12% controller or a 20% controller of the bank, the subscriber shall, upon the coming into effect of the certificate —
-
-(a) be deemed to have obtained the approval of the Minister under section 15A or 15B, as the case may be, in respect of the shares; and
-
-(b) not be required to make a take-over offer or be required to acquire the shares of the other shareholders of the bank notwithstanding the provisions of the Companies Act (Cap. 50) or the Take-over Code.
-
-[1/2007]
-
-(8) The bank shall lodge a copy of the certificate with the Registrar within 7 days of being served with the certificate.
-
-[1/2007]
-
-(9) A bank or a subscriber that contravenes any provision in the certificate shall be guilty of an offence and shall be liable on conviction —
-
-(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
-
-(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-(10) Where a subscriber is charged with an offence under subsection (9), it shall be a defence for the subscriber to prove that —
-
-(a) he was not aware he had contravened any provision in the certificate; and
-
-(b) he has complied with the provision within a reasonable time after becoming aware of the contravention.
-
-[1/2007]
-
-(11) Except as provided in subsection (10), it shall not be a defence for a subscriber charged with an offence under subsection (9) that he did not intend to or did not knowingly contravene any provision in the certificate.
-
-[1/2007]
-
-(12) Any bank which fails to comply with subsection (8) and every officer of the bank who fails to take all reasonable steps to secure compliance by the bank with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
-
-(13) Notwithstanding section 54(2) and subject to section 55O, during the period beginning with the date on which the Minister publishes the notice under section 55L(7) in theGazetteon the restructuring of the share capital of a bank or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the restructuring of the share capital and ending with the date on which the certificate comes into effect —
-
-(a) no resolution shall be passed, and no order shall be made, for the winding up of the bank;
-
-(b) no proceedings shall be commenced or continued against the bank in respect of any business of the bank;
-
-(c) no execution, distress or other legal process shall be commenced, levied or continued against any property of the bank;
-
-(d) no steps shall be taken to enforce any security over any property of the bank; and
-
-(e) any sale, transfer, assignment or other disposition of any property of the bank shall be void.
-
-[1/2007]
+[Repealed by Act 10 of 2013 wef 18/04/2013]
 
 Division 5 —
 
@@ -3742,15 +3034,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2007]
 
-### Cessation of moratorium, etc., under this Part
-
-55O\.—(1) The Minister may, by order published in theGazette, direct that section 55G, 55J(13) or 55M(13), or any provision thereof, shall cease to apply to any bank, any business (or any part thereof) of any bank or any share in any bank and on the date specified by the Minister in the order, the relevant section, or the provision thereof, shall cease to apply to the bank, the business (or the part thereof) of the bank or the share in the bank, as the case may be.
-
-[1/2007]
-
-(2) In this section, “business” includes affairs, property, right, obligation and liability.
-
-[1/2007]
+55O\. [Repealed by Act 10 of 2013 wef 18/04/2013]
 
 ### Regulations for this Part
 
@@ -3904,9 +3188,9 @@ to comply with such requirements as the Authority may specify in the directions,
 
 [1/2007]
 
-(2) For the avoidance of doubt, any direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(2) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
-[1/2007]
+[Act 10 of 2013 wef 18/04/2013]
 
 (3) The Authority may at any time vary or revoke any direction issued under subsection (1).
 
@@ -4194,23 +3478,7 @@ but does not include —
 
 (2) The director and that other person as mentioned in subsection (1) shall sign every instrument to which the seal of the company is so affixed in their presence.
 
-### Disqualification of executive officers and employees of banks
-
-65\.—(1) Notwithstanding the provisions of any other written law, any person —
-
-(a) who is or becomes bankrupt, suspends payments or compounds with his creditors;
-
-(b) who has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
-
-(c) who has been a director of, or directly concerned in the management of, a bank licensed under this Act or which was licensed under any written law repealed by this Act which is being or has been wound up by a court or the licence of which has been revoked,
-
-shall not, without the consent in writing of the Authority, act or continue to act as the executive officer, secretary or other officer (other than a director) in any bank in Singapore.
-
-[23/2001; 1/2007]
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
-
-[1/2007]
+65\. [Repealed by Act 10 of 2013 wef 18/04/2013]
 
 ### Offences by director and executive officers of bank and false or misleading information
 
@@ -4268,17 +3536,29 @@ Indemnity
 
 [1/2007]
 
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+(1A) The Authority may, in its discretion, compound any offence under this Act (including an offence under a provision which has been repealed) which —
+
+(a) was compoundable under this section at the time the offence was committed; but
+
+(b) has ceased to be so compoundable,
+
+by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence at the time it was committed.
+
+[Act 10 of 2013 wef 18/04/2013]
+
+(2) On payment of the sum of money referred to in subsection (1) or (1A), no further proceedings shall be taken against that person in respect of the offence.
 
 [1/2007]
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (3) The Authority may make regulations to prescribe the offences which may be compounded.
 
 [1/2007]
 
-(4) All sums collected under this section shall be paid to the Authority.
+(4) All sums collected by the Authority under subsection (1) or (1A) shall be paid into the Consolidated Fund.
 
-[1/2007]
+[Act 10 of 2013 wef 18/04/2013]
 
 ### Publication of list of banks
 
@@ -4306,7 +3586,9 @@ Indemnity
 
 74\.—(1) There shall be recoverable as a civil debt due to the Authority from the bank concerned —
 
-(a) the amount of any fees payable under sections 8 and 13;
+(a) the amount of any fees payable under sections 8 and 13; and
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (b) any remuneration and expenses payable by the bank to —
 
@@ -4318,11 +3600,15 @@ Indemnity
 
 (iv) the Authority or any person employed or authorised by the Authority under section 3 in relation to the Authority assuming control of any business of the bank under section 49; and
 
-(v) any person appointed to perform any independent assessment under Part VIIA; and
+(v) any person appointed to perform any independent assessment under Part VIIA.
 
-(c) any financial penalty payable by the bank under this Act.
+[Act 10 of 2013 wef 18/04/2013]
 
-[23/2001; 1/2007]
+(c) [Deleted by Act 10 of 2013 wef 18/04/2013]
+
+(1A) The Authority may recover on behalf of the Government any financial penalty imposed under section 38(7) or 39(7) on the bank concerned as though the financial penalty were a civil debt due to the Authority.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 (2) Any remuneration and expenses payable by a licensee defined in section 56 to an auditor appointed under section 57F(5) shall be recoverable as a civil debt due to the Authority from the licensee.
 
@@ -4917,38 +4203,89 @@ Any person participating or otherwise involved in the merger, acquisition or iss
 
 whether or not the merger or acquisition is subsequently entered into or completed.
 
-4A. Disclosure is solely in connection with the transfer or proposed transfer of the business of the bank to a company under Division 1 or 2 of Part VIIA, whether or not the transfer is subsequently carried out or completed.
+4A.
+
+Disclosure is solely in connection with the transfer or proposed transfer of the business of the bank to a company under Division 1 of Part VIIA, whether or not the transfer is subsequently carried out or completed.
 
 Any —
 
-(a) transferor or transferee, defined in section 55A or 55D;
+(a)
 
-(b) person affected by the transfer;
+transferor or transferee, defined in section 55A;
 
-(c) professional adviser appointed by any person referred to in paragraph (a) or (b); or
+(b)
 
-(d) independent assessor appointed by the Minister or the Authority under section 55B or by the Authority under section 55E.
+person affected by the transfer;
 
-4B. Disclosure is solely in connection with the transfer or proposed transfer of the shares in the bank under Division 3 of Part VIIA, whether or not the transfer is subsequently carried out or completed.
+(c)
+
+professional adviser appointed by any person referred to in paragraph (a) or (b); or
+
+(d)
+
+independent assessor appointed by the Minister or the Authority under section 55B.
+
+4B.
+
+Disclosure is solely in connection with the transfer or proposed transfer of the business of the bank to a company under Division 2 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186), whether or not the transfer is subsequently carried out or completed.
 
 Any —
-(a) transferor or transferee, defined in section 55H;
 
-(b) professional adviser appointed by the transferor or transferee; or
+(a)
 
-(c) independent assessor appointed by the Authority under section 55I.
+transferor or transferee, defined in section 30AAR of the Monetary Authority of Singapore Act;
 
-4C. Disclosure is solely in connection with the restructuring or proposed restructuring of the share capital of the bank under Division 4 of Part VIIA, whether or not the restructuring is carried out or completed.
+(b)
+
+person affected by the transfer;
+
+(c)
+
+professional adviser appointed by any person referred to in paragraph (a) or (b); or
+
+(d)
+
+independent assessor appointed by the Authority under section 30AAS of the Monetary Authority of Singapore Act.
+
+4C.
+
+Disclosure is solely in connection with the transfer or proposed transfer of the shares in the bank under Division 3 of Part IVB of the Monetary Authority of Singapore Act, whether or not the transfer is subsequently carried out or completed.
 
 Any —
 
-(a) shareholder of the bank;
+(a)
 
-(b) subscriber defined in section 55K;
+transferor or transferee, defined in section 30AAV of the Monetary Authority of Singapore Act;
 
-(c) professional adviser appointed by the bank or any person referred to in paragraph (a) or (b); or
+(b)
 
-(d) independent assessor appointed by the Authority under section 55L.
+professional adviser appointed by the transferor or transferee; or
+
+(c)
+
+independent assessor appointed by the Authority under section 30AAW of the Monetary Authority of Singapore Act.
+
+4D.
+
+Disclosure is solely in connection with the restructuring or proposed restructuring of the share capital of the bank under Division 4 of Part IVB of the Monetary Authority of Singapore Act, whether or not the restructuring is carried out or completed.
+
+Any —
+
+(a)
+
+shareholder of the bank;
+
+(b)
+
+subscriber defined in section 30AAY of the Monetary Authority of Singapore Act;
+
+(c)
+
+professional adviser appointed by the bank or any person referred to in paragraph (a) or (b); or
+
+(d)
+
+independent assessor appointed by the Authority under section 30AAZ of the Monetary Authority of Singapore Act.
 
 5. Disclosure is solely in connection with the restructure, transfer or sale, or proposed restructure, transfer or sale, of credit facilities (whether or not the restructure, transfer or sale is subsequently entered into or completed).
 
@@ -5013,6 +4350,8 @@ No customer information, other than the customer’s name, identity, address, an
 (c) any person authorised or appointed by the deposit insurance and policy owners’ protection fund agency or the Public Trustee (as the case may be) to perform its functions under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
 
 (c) The Public Trustee may disclose customer information to such persons or class of persons and subject to such conditions, as may be determined by the Minister.
+
+[Act 10 of 2013 wef 18/04/2013]
 
 [15/2011 wef 01/05/2011]
 
@@ -5348,6 +4687,17 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 10/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
+|33.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|34.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
 ## COMPARATIVE TABLE
 
 Banking Act
