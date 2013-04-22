@@ -228,6 +228,8 @@ President.
 
 Date of Commencement: 1st July 2012 Parts I, II, Divisions 1 and 3 of Part IV, sections 68 to 73, 75, 76, 80(2), 82, First and Second Schedules
 
+Date of Commencement: 22nd April 2013 Divisions 2 and 3 of Part III, sections 64 to 67, 74, 77, 78 and 79
+
 An Act to mandate energy efficiency requirements and energy management practices to promote energy conservation, improve energy efficiency and reduce environmental impact, and to make consequential and related amendments to certain other written laws.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -1481,11 +1483,7 @@ MISCELLANEOUS
 
 (d) after correction, if necessary, be signed by him.
 
-(4) If any person fails to attend as required by a notice under subsection (1)(
-
-b
-
-), the authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the notice.
+(4) If any person fails to attend as required by a notice under subsection (1)(b), the authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the notice.
 
 ### Notices and other documents may be given by authorised officer or transport sector authorised officer
 
@@ -1495,17 +1493,9 @@ b
 
 (b) a sector regulator is empowered to give under this Act may, subject to the direction of the sector regulator, be given by any transport sector authorised officer appointed by that sector regulator on its behalf.
 
-(2) Where any such notice or document referred to in subsection (1)(
+(2) Where any such notice or document referred to in subsection (1)(a) requires authentication, the signature or an official facsimile thereof of the Director-General or an authorised officer affixed thereto shall be sufficient authentication.
 
-a
-
-) requires authentication, the signature or an official facsimile thereof of the Director-General or an authorised officer affixed thereto shall be sufficient authentication.
-
-(3) Where any such notice or document referred to in subsection (1)(
-
-b
-
-) requires authentication, the signature or an official facsimile thereof of the Chief Executive, or a transport sector authorised officer, of the sector regulator affixed thereto shall be sufficient authentication.
+(3) Where any such notice or document referred to in subsection (1)(b) requires authentication, the signature or an official facsimile thereof of the Chief Executive, or a transport sector authorised officer, of the sector regulator affixed thereto shall be sufficient authentication.
 
 ### Service of documents, etc.
 
@@ -1651,11 +1641,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Exemption
 
-77\. The Minister may, by order published in the
-
-Gazette
-
-and with or without conditions, exempt —
+77\. The Minister may, by order published in theGazetteand with or without conditions, exempt —
 
 (a) any class or description of goods, business activity or premises from all or any of the provisions of this Act (except Part IV); or
 
