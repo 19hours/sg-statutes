@@ -208,11 +208,11 @@
 
 - [84A Right to benefit unaffected by notice of dismissal given on ground of redundancy or by reason of reorganisation of employer’s profession, business, trade or work](#Right-to-benefit-unaffected-by-notice-of-dismissal-given-on-ground-of-redundancy-or-by-reason-of-reorganisation-of-employer’s-profession-business-trade-or-work)
 
-- [85 Claim from one employer only](#Claim-from-one-employer-only)
+- [85 (Repealed)](#Repealed)
 
 - [86 Contracting out](#Contracting-out)
 
-- [87 Offence](#Offence)
+- [87 Offences and penalties](#Offences-and-penalties)
 
 - [87A Childcare leave for parent](#Childcare-leave-for-parent)
 
@@ -1593,13 +1593,19 @@ AND CHILDCARE LEAVE FOR PARENT
 
 [41/2004]
 
-(2) A female employee who delivers a child before 31st October 2008, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 31st October 2008, shall not be entitled to any pay during the benefit period if she has served her employer for less than 180 days immediately preceding the day of her confinement.
+(2) A female employee who delivers a child before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, shall not be entitled to any pay during the benefit period if she has served her employer for less than 90 days immediately preceding the day of her confinement.
 
-[28/2008]
+[Act 12 of 2013 wef 01/05/2013]
 
-(2A) A female employee who delivers a child on or after 31st October 2008, or who delivers a child before 31st October 2008 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 31st October 2008, shall not be entitled to any pay during the benefit period if she has served her employer for less than 90 days immediately preceding the day of her confinement.
+(2A) A female employee who delivers a child —
 
-[28/2008]
+(a) on or after 1st May 2013; or
+
+(b) before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013,
+
+shall not be entitled to any pay during the benefit period if she has served her employer for less than 3 months immediately preceding the day of her confinement.
+
+[Act 12 of 2013 wef 01/05/2013]
 
 (3) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled to receive in addition to her gross rate of pay for that day an amount that is equivalent to a day’s pay at the gross rate of pay or to absent herself from work on another day at the end of the benefit period.
 
@@ -1673,13 +1679,15 @@ AND CHILDCARE LEAVE FOR PARENT
 
 84\.—(1) Without prejudice to sections 81 and 84A, no notice of dismissal given without sufficient cause by an employer to a female employee which —
 
-(a) if given before 31st October 2008, is given —
+(a) if given before 1st May 2013, is given —
 
-(i) within a period of 3 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+(i) within a period of 6 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
 
-(ii) within a period of 3 months preceding the date of her confinement; or
+(ii) within a period of 6 months preceding the date of her confinement;
 
-(b) if given on or after 31st October 2008, is given —
+(b) if given on or after 1st May 2013, is given at any time of her pregnancy (as certified by a medical practitioner before the notice of dismissal is given), where the female employee has served the employer for a period of 3 months or more immediately preceding the day the notice is given; or
+
+(c) if given on or after 1st May 2013 but before 1st August 2013 and where the female employee has served the employer for a period of less than 3 months, is given —
 
 (i) within a period of 6 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
 
@@ -1687,7 +1695,7 @@ AND CHILDCARE LEAVE FOR PARENT
 
 shall have the effect of depriving her of any payment to which, but for that notice, she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
 
-[28/2008]
+[Act 12 of 2013 wef 01/05/2013]
 
 (1A) In any case where there are 2 or more estimated delivery dates (each certified by a medical practitioner) for the confinement of a female employee, the estimated delivery date that is relevant for the purposes of subsection (1) shall be the estimated delivery date —
 
@@ -1729,15 +1737,25 @@ and the employer shall comply with the direction of the Minister.
 
 ### Right to benefit unaffected by notice of dismissal given on ground of redundancy or by reason of reorganisation of employer’s profession, business, trade or work
 
-84A\.—(1) Without prejudice to sections 81 and 84, no notice of dismissal given to a female employee by her employer on or after 31st October 2008 on the ground of redundancy or by reason of any reorganisation of her employer’s profession, business, trade or work —
+84A\.—(1) Without prejudice to sections 81 and 84, no notice of dismissal given to a female employee by her employer on the ground of redundancy or by reason of any reorganisation of her employer’s profession, business, trade or work —
 
-(a) within a period of 3 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+(a) if given before 1st May 2013, is given —
 
-(b) within a period of 3 months preceding the date of her confinement,
+(i) within a period of 3 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+
+(ii) within a period of 3 months preceding the date of her confinement;
+
+(b) if given on or after 1st May 2013, is given at any time of her pregnancy (as certified by a medical practitioner before the notice of dismissal is given), where the female employee has served the employer for a period of 3 months or more immediately preceding the day the notice is given; or
+
+(c) if given on or after 1st May 2013 but before 1st August 2013 and where the female employee has served the employer for a period of less than 3 months, is given —
+
+(i) within a period of 3 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+
+(ii) within a period of 3 months preceding the date of her confinement,
 
 shall have the effect of depriving her of any payment to which, but for that notice, she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
 
-[28/2008]
+[Act 12 of 2013 wef 01/05/2013]
 
 (2) In any case where there are 2 or more estimated delivery dates (each certified by a medical practitioner) for the confinement of a female employee, the estimated delivery date that is relevant for the purposes of subsection (1) shall be the estimated delivery date —
 
@@ -1751,25 +1769,37 @@ shall have the effect of depriving her of any payment to which, but for that not
 
 [28/2008]
 
-### Claim from one employer only
-
-85\.—(1) Subject to subsection (2), nothing in this Part shall be deemed to entitle any female employee to claim any payment under this Part from more than one employer in respect of the same confinement.
-
-[28/2008]
-
-(2) Subsection (1) shall not apply to any female employee in respect of any confinement of hers which occurs, or the estimated delivery date (as certified by a medical practitioner) of which is, on or after 31st October 2008.
-
-[28/2008]
+85\. [Repealed by Act 12 of 2013 wef 01/05/2013]
 
 ### Contracting out
 
 86\. Any contract of service whereby a female employee relinquishes any right to maternity benefit under this Part shall be null and void in so far as it purports to deprive her of that right or to remove or reduce the liability of any employer to make any payment under this Part.
 
-### Offence
+### Offences and penalties
 
-87\. Any employer who fails to pay his female employee in accordance with the provisions of this Part (other than section 87A) or who acts in contravention of section 81 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+87\.—(1) Any employer who —
 
-[21/84; 41/2004; 28/2008]
+(a) fails, without reasonable cause, to grant maternity leave under this Part to a female employee who is entitled to and requests for such leave;
+
+(b) fails to pay his female employee in accordance with any of the provisions of this Part (other than section 87A); or
+
+(c) acts in contravention of section 81,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) Any employer who is guilty of an offence under section 82 shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) Where an employer who is convicted or found guilty of an offence under subsection (1)(a), (b) or (c) or section 82 is a repeat offender, he shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(4) For the purposes of subsection (3), a person is a repeat offender in relation to an offence under subsection (1)(a), (b) or (c) or section 82 if the person who is convicted or found guilty of an offence under subsection (1)(a), (b) or (c) or section 82 (referred to as the current offence) has been convicted or found guilty of —
+
+(a) an offence under subsection (1)(a), (b) or (c) or section 82; or
+
+(b) an offence under section 17(1) of the Child Development Co-Savings Act (Cap. 38A) in force before, on or after 1st May 2013,
+
+on at least one other occasion on or after 1st May 2013 and before the date on which he is convicted or found guilty of the current offence.
+
+[Act 12 of 2013 wef 01/05/2013]
 
 ### Childcare leave for parent
 
@@ -1819,21 +1849,29 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 [41/2004]
 
-(7) Any employer who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction —
+(7) Any employer who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
+[Act 12 of 2013 wef 01/05/2013]
 
-(b) for a subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(7A) Any employer who fails, without reasonable cause, to grant childcare leave to an employee who is entitled to and requests for such leave shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[28/2008]
+[Act 12 of 2013 wef 01/05/2013]
 
-(7A) Any employer who fails, without reasonable cause, to grant childcare leave to an employee who is entitled to and requests such leave shall be guilty of an offence and shall be liable on conviction —
+(7B) Where an employer who is convicted or found guilty of an offence under subsection (7) or (7A) is a repeat offender, he shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(a) to a fine not exceeding $5,000; and
+[Act 12 of 2013 wef 01/05/2013]
 
-(b) for a subsequent offence, to a fine not exceeding $10,000.
+(7C) For the purposes of subsection (7B), a person is a repeat offender in relation to an offence under subsection (7) or (7A) if the person who is convicted or found guilty of an offence under subsection (7) or (7A) (referred to as the current offence) has been convicted or found guilty of —
 
-[28/2008]
+(a) an offence under subsection (7) or (7A);
+
+(b) an offence under section 12B(12) or (14) of the Child Development Co-Savings Act (Cap. 38A) in force before, on or after 1st May 2013; or
+
+(c) an offence under section 12B(13) of the Child Development Co-Savings Act,
+
+on at least one other occasion on or after 1st May 2013 and before the date on which he is convicted or found guilty of the current offence.
+
+[Act 12 of 2013 wef 01/05/2013]
 
 (8) In this section —
 
@@ -2795,3 +2833,8 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 22/2011 published on 22 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|30.|**Act 12 of 2013—Child Development Co-Savings (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 March 2013 (Bill No. 10/2013 published on 15 March 2013)|
+||Date of Second and Third Readings|8 April 2013|
+||Date of commencement|1 May 2013|
