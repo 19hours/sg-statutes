@@ -3322,7 +3322,7 @@ Sections 24, 26, 27, 32 and 58A
 
 Temporarily listed drugs
 
-1. Any compound containing a 3-(1-naphthoyl)insole structure with substitution at the nitrogen atom of the insole ring by an alkyl, halo alkyl, alchemy, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+1. Any compound containing a 3-(1-naphthoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
 
 {1-[(1-Methylpiperidin-2-yl)methyl]-1H-indol-3-yl}(naphthalen-1-yl)methanone, also known as AM-1220
 
@@ -3353,6 +3353,8 @@ Naphthalen-1-yl[1-(pent-4-en-1-yl)-1H-indol-3-yl]methanone, also known as JWH-02
 (4-Chloronaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone, also known as JWH-398
 
 [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](4-methylnaphthalen-1-yl)methanone, also known as MAM-2201
+
+[S 273/2013 wef 02/05/2013]
 
 2. Any compound containing a 3-(1-naphthylmethyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
 
@@ -3554,7 +3556,7 @@ Mitragynine
 
 17-Carboxy-16,17-dihydromitragynine
 
-2-Diphenylmethylpiperidine, also known as desoxypipradol
+2-Diphenylmethylpiperidine, also known as desoxypipradrol
 
 Diphenyl(pyrrolidin-2-yl)methanol, also known as diphenylprolinol
 
@@ -3565,6 +3567,8 @@ N-Methyl-1-(thiophen-2-yl)propan-2-amine, also known as methiopropamine
 (N-Methyl-4-phenylpiperidin-4-yl)propanoate, also known as desmethylprodine
 
 4-(Fluorophenyl)piperazine.
+
+[S 273/2013 wef 02/05/2013]
 
 [Act 30 of 2012 wef 01/05/2013]
 
@@ -3723,6 +3727,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 May 2013|
 |46.|**G.N. No. S 272/2013—Misuse of Drugs Act (Amendment of First and Third Schedules) Order 2013**|
 ||Date of commencement|1 May 2013|
+|47.|**G.N. No. S 273/2013—Misuse of Drugs Act (Amendment of Fifth Schedule) Order 2013**|
+||Date of commencement|2 May 2013|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
