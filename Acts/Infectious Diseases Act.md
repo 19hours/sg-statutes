@@ -2113,7 +2113,11 @@ Diseases in Respect of Which Acts Referred to in Section 21a Are Prohibited
 
 [S 176/2009 wef 28/04/2009]
 
-2\.Deleted by S 618/2010, wef 01/11/2010.
+2\. Novel Coronavirus Infection.
+
+2. 
+
+[S 298/2013 wef 14/05/2013]
 
 SIXTH SCHEDULE
 
@@ -2138,6 +2142,12 @@ Severe Acute Respiratory Syndrome (SARS).
 Tuberculosis.
 
 [S 183/2013 wef 02/04/2013]
+
+4. 
+
+Avian Influenza.
+
+[S 298/2013 wef 14/05/2013]
 
 ## LEGISLATIVE HISTORY
 
@@ -2263,6 +2273,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|2 January 2011|
 |34.|**G.N. No. S 183/2013—Infectious Diseases Act (Amendment of First and Sixth Schedules) Notification 2013**|
 ||Date of commencement|2 April 2013|
+|35.|**G.N. No. S 298/2013—Infectious Diseases Act (Amendment of Fifth and Sixth Schedules) Notification 2013**|
+||Date of commencement|14 May 2013|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
