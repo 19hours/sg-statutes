@@ -410,9 +410,9 @@
 
 [**Division 3  Family exclusion orders, visit limits and other exclusion orders**](#Division-3--Family-exclusion-orders-visit-limits-and-other-exclusion-orders)
 
-- [157 Committee of Assessors for making exclusion orders](#Committee-of-Assessors-for-making-exclusion-orders)
+- [157 Committee of Assessors for making exclusion orders and visit limits](#Committee-of-Assessors-for-making-exclusion-orders-and-visit-limits)
 
-- [158 Committee to hear and determine applications for family exclusion orders](#Committee-to-hear-and-determine-applications-for-family-exclusion-orders)
+- [158 Committee to hear and determine applications for family exclusion orders and visit limits](#Committee-to-hear-and-determine-applications-for-family-exclusion-orders-and-visit-limits)
 
 - [159 Application for family exclusion order](#Application-for-family-exclusion-order)
 
@@ -424,9 +424,11 @@
 
 - [163 Terms of family exclusion order](#Terms-of-family-exclusion-order)
 
+- [163A Visit limit application by family member](#Visit-limit-application-by-family-member)
+
 - [164 Provisional family exclusion order](#Provisional-family-exclusion-order)
 
-- [165 Committee may make exclusion order in certain circumstances](#Committee-may-make-exclusion-order-in-certain-circumstances)
+- [165 Committee may make exclusion order or visit limit in certain circumstances](#Committee-may-make-exclusion-order-or-visit-limit-in-certain-circumstances)
 
 - [165A Persons to be excluded by law or self-excluded from casino](#Persons-to-be-excluded-by-law-or-self-excluded-from-casino)
 
@@ -4453,7 +4455,9 @@ National Council on Problem Gambling
 
 (a) to do all the things it is authorised or required to do under this Part; and
 
-(b) to appoint a panel of assessors to decide on applications for the exclusion of persons from casino premises.
+(b) to appoint a panel of assessors to decide on applications for the exclusion of persons from casino premises and visit limits to be made.
+
+[Act 36 of 2012 wef 01/06/2013]
 
 (2) The Council may appoint a secretary to the Council and such other officers as may be required to enable the Council to carry out its functions under this Part.
 
@@ -4500,13 +4504,15 @@ Family exclusion orders,
 
 visit limits and other exclusion orders
 
-### Committee of Assessors for making exclusion orders
+### Committee of Assessors for making exclusion orders and visit limits
 
-157\.—(1) For the purpose of hearing and determining an application for a family exclusion order under section 158 or of making an exclusion order under section 165, the chairman of the Council shall, from time to time, constitute a Committee of Assessors consisting of —
+157\.—(1) For the purpose of hearing and determining an application for a family exclusion order or a visit limit under section 158 or of making an exclusion order or a visit limit under section 165, the chairman of the Council shall, from time to time, constitute a Committee of Assessors consisting of —
 
 (a) a chairman, being a member of the Council; and
 
 (b) 2 other members selected from the panel of assessors appointed under subsection (2).
+
+[Act 36 of 2012 wef 01/06/2013]
 
 (2) For the purpose of enabling a Committee to be constituted under subsection (1), there shall be a panel of assessors, the members of which shall be appointed by the Council.
 
@@ -4520,9 +4526,11 @@ visit limits and other exclusion orders
 
 (7) There shall be paid to the members of the panel such salaries, fees and allowances as the Council may determine.
 
-### Committee to hear and determine applications for family exclusion orders
+### Committee to hear and determine applications for family exclusion orders and visit limits
 
-158\.—(1) A Committee shall hear and determine in accordance with this Part all applications for family exclusion orders referred to the Committee under section 159(2).
+158\.—(1) A Committee shall hear and determine in accordance with this Part all applications for family exclusion orders or visit limits referred to the Committee under section 159(2) or 163A(2), as the case may be.
+
+[Act 36 of 2012 wef 01/06/2013]
 
 (2) Sittings of a Committee shall be held at such places and times as the chairman of the Committee may determine.
 
@@ -4642,6 +4650,50 @@ visit limits and other exclusion orders
 
 (d) require a casino operator to close any deposit account of the respondent with the casino.
 
+### Visit limit application by family member
+
+163A\.—(1) An application for a visit limit against a respondent may be made by —
+
+(a) a family member of the respondent who is, or is likely to be, adversely affected by the respondent’s gambling; or
+
+(b) a person referred to in section 160 or 161 on behalf of a family member referred to in paragraph (a).
+
+(2) An application for a visit limit shall be made to the Council in writing in the form approved by the Council, and the Council shall refer the application to a Committee.
+
+(3) Upon receiving an application under subsection (1), the Council, or the secretary or an officer of the Council on behalf of the Council —
+
+(a) may require the respondent named in the application, any family member of the respondent or any casino operator to furnish such information or produce such document or record in the possession or under the control of the respondent, family member or casino operator, as the case may be, as the Council considers relevant to the application; and
+
+(b) may inspect, keep or make copies of such document or record.
+
+(4) A Committee to whom an application under this section is referred may make a visit limit against a respondent if the Committee is satisfied that —
+
+(a) there is a reasonable apprehension that the respondent has engaged, or is likely to engage, in gambling activities in disregard of the needs and welfare of the respondent’s family members;
+
+(b) a visit limit against the respondent is appropriate in the circumstances;
+
+(c) subject to section 165C, the respondent has been given an opportunity to object to the application; and
+
+(d) it would be in the best interests of the respondent and his family members to make the visit limit.
+
+(5) A visit limit made under subsection (4) against a respondent shall —
+
+(a) specify the period during which it is in force; and
+
+(b) specify the maximum number of visits in aggregate that the respondent may make to any casino in each month.
+
+(6) The Committee in making a visit limit under subsection (4) may also refer the respondent to participate in a programme of counselling, rehabilitation or special education or any combination of these.
+
+(7) A Committee may, in determining whether there is a reasonable apprehension that the respondent has engaged, or is likely to engage, in gambling activities in disregard of the needs and welfare of the respondent’s family members, take into account events that have taken place outside Singapore.
+
+(8) If a respondent disputes some or all of the grounds on which a visit limit is sought or made but consents to the making of the visit limit, a Committee may make or confirm the visit limit without receiving any further submission or evidence as to the grounds.
+
+(9) A Committee may, at any stage, dismiss an application if the Committee is satisfied that the application is frivolous, vexatious, without substance or has no reasonable prospect of success.
+
+(10) A Committee shall report to the Council its decision on every application referred to the Committee accordingly and briefly state the reasons for its decision.
+
+[Act 36 of 2012 wef 01/06/2013]
+
 ### Provisional family exclusion order
 
 164\.—(1) Where, upon an application for a family exclusion order under section 159, a Committee is satisfied that the respondent has caused serious harm to family members having regard to section 162(2) and further harm to family members is imminent, the Committee may make a provisional family exclusion order, notwithstanding that —
@@ -4658,19 +4710,65 @@ visit limits and other exclusion orders
 
 (3) The Committee which makes or extends a provisional family exclusion order under this section need not comprise the same members as the Committee which hears the application for the family exclusion order under section 158.
 
-### Committee may make exclusion order in certain circumstances
+### Committee may make exclusion order or visit limit in certain circumstances
 
-165\.—(1) A Committee may, on its own motion, by written order make an exclusion order against a person if it comes to the attention of the Committee that the person has a poor credit record.
+165\.—(1) A Committee may, without receiving any application, by written order make either an exclusion order or a visit limit against a person, if —
 
-(3) Before a Committee makes an exclusion order against any person under subsection (1), the Committee shall, by a notice in writing, give the person a reasonable opportunity to object to the proposed order.
+(a) it comes to the attention of the Committee that the person has a poor credit record; or
+
+(b) the Committee is of the opinion that the person is vulnerable to financial harm because of his gambling.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(2) For the purposes of determining whether a person is vulnerable to financial harm under subsection (1)(b), the Committee may have regard, but not be limited, to all or any of the following factors:
+
+(a) the financial situation of the person;
+
+(b) any indebtedness of the person or inability of the person to pay his debts as they fall due;
+
+(c) the frequency of the person’s visits to a casino or the extent of his gambling activities in the casino.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(2A) For the purposes of enabling a Committee to make a determination under subsection (1), an officer of the Council may —
+
+(a) by notice in writing, require the respondent against whom the exclusion order or visit limit is being considered, any family member of the respondent or any casino operator to furnish such information or produce such document or record as may be specified in the notice relating to the respondent or to any of the matters referred to in subsection (2), which is in the possession or under the control of the respondent, family member or casino operator, as the case may be;
+
+(b) by notice in writing to any statutory body, request that statutory body to furnish such information or produce such document or record as may be specified in the notice relating to the respondent or to any of the matters referred to in subsection (2); and
+
+(c) inspect, keep or make copies of such document or record.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(2B) Every person required to furnish any information or produce any document or record by a notice under subsection (2A) shall be legally bound to state the truth and to produce such documents and records as may be specified in the notice.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(3) Before a Committee makes an exclusion order or a visit limit against any person under subsection (1), the Committee shall, by a notice in writing, give the person a reasonable opportunity to object to the proposed order or visit limit.
 
 [Act 36 of 2012 wef 31/01/2013]
 
 (4) An exclusion order made under subsection (1) shall bar the person named in the order from entering or remaining on any casino premises for as long as the circumstances in subsection (1) exist in relation to that person or for such other period as may be specified in the order.
 
-(5) A Committee may, at any time, revoke an exclusion order made under subsection (1) against a person if, having regard to all the circumstances of the case, the Committee is of the opinion that an exclusion order would no longer be in the best interests of the person and his family members.
+(4A) A visit limit made under subsection (1) against a person shall —
 
-(6) A person who is aggrieved by an exclusion order made against him by a Committee under subsection (1) may, within 30 days of being notified of the decision of the Committee, appeal to the Council whose decision shall be final.
+(a) specify the period during which it is in force; and
+
+(b) specify the maximum number of visits in aggregate that the person may make to any casino in each month.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(4B) In making a visit limit under subsection (1) against a person, the Committee may also refer the person to participate in a programme of counselling, rehabilitation or special education or any combination of these.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(5) A Committee may, at any time, revoke an exclusion order or a visit limit made under subsection (1) against a person if, having regard to all the circumstances of the case, the Committee is of the opinion that an exclusion order or a visit limit would no longer be in the best interests of the person and his family members.
+
+[Act 36 of 2012 wef 01/06/2013]
+
+(6) A person who is aggrieved by an exclusion order or a visit limit made against him by a Committee under subsection (1) may, within 30 days of being notified of the decision of the Committee, appeal to the Council whose decision shall be final.
+
+[Act 36 of 2012 wef 01/06/2013]
 
 ### Persons to be excluded by law or self-excluded from casino
 
@@ -6352,3 +6450,7 @@ This Legislative History is provided for the convenience of users of the Casino 
 ||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013|
+|13.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012 (Bill No. 28/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|16 November 2012|
+||Date of commencement|1 June 2013|
