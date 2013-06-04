@@ -1352,6 +1352,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) against any provision in Part VII may be taken only with the consent of the Public Prosecutor; and
 
+[15/2010 wef 02/01/2011]
+
 (b) against any other provision of this Act may be taken by the Board or, with the consent of the Public Prosecutor, by any other person.
 
 [15/2010 wef 02/01/2011]
@@ -1452,13 +1454,39 @@ Exemption
 
 (ii) where there is physical delivery of such commodities from seller to buyer;
 
+(aa) in respect of section 12(1), a person who solicits or accepts orders for the purchase or sale of any commodity by way of or relating to any commodity contract for a customer in the following circumstances:
+
+(i) the person is not a party to the commodity contract;
+
+(ii) the person does not carry the customer’s position, margin or account in the person’s own books;
+
+(iii) the person does not accept money or assets from the customer as settlement of, or a margin for, or to guarantee or secure, any commodity contract; and
+
+(iv) there is physical delivery of the commodity from seller to buyer;
+
+[S 343/2013 wef 04/06/2013]
+
 (b) in respect of sections 12(1) and 13(1)(a) to (e), a person who carries on the business of trading in commodity contracts only with accredited investors and not with any other person;
 
 (c) in respect of sections 12(1) and 13(1)(a) to (e), a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved under the Monetary Authority of Singapore Act (Cap. 186);
 
-(d) in respect of sections 12(1) (only to the extent that the section applies to commodity brokers) and 13(1)(a) to (e), a person who is a Finance and Treasury Centre, an approved oil trading company or an approved international commodity trading company, within the meaning of the Income Tax Act (Cap. 134); and
+(d) in respect of sections 12(1) (only to the extent that the section applies to commodity brokers) and 13(1)(a) to (e), a person who is a Finance and Treasury Centre, an approved oil trading company or an approved international commodity trading company, within the meaning of the Income Tax Act (Cap. 134);
 
-(e) in respect of section 13A, a person who carries on spot commodity trading on his own account and does not solicit any funds from any member of the public or any section of the public in connection with the carrying out of any spot commodity trading.
+[S 343/2013 wef 04/06/2013]
+
+(e) in respect of section 13A, a person who carries on spot commodity trading on his own account and does not solicit any funds from any member of the public or any section of the public in connection with the carrying out of any spot commodity trading; and
+
+[S 343/2013 wef 04/06/2013]
+
+(f) in respect of section 13A, a person who solicits or accepts orders for the purchase or sale of any commodity by way of spot commodity trading for a customer in the following circumstances:
+
+(i) the person is not a party to any contract for the purchase or sale of the commodity;
+
+(ii) the person does not carry the customer’s position, margin or account in the person’s own books; and
+
+(iii) the person does not accept money or assets from the customer as settlement of, or a margin for, or to guarantee or secure any contract for any contract for the purchase or sale of any commodity.
+
+[S 343/2013 wef 04/06/2013]
 
 2. In this Schedule, “accredited investor” means —
 
@@ -1486,7 +1514,7 @@ Commodity Trading Act
 
 (CHAPTER 48A)
 
-This Legislative History is provided for the convenience of users of the Commodity Trading Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Commodity Trading Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1552,3 +1580,5 @@ The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodit
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|12.|**G.N. No. S 343/2013—Commodity Trading Act (Amendment of Schedule) Order 2013**|
+||Date of commencement|4 June 2013|
