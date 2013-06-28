@@ -340,7 +340,7 @@
 
 - [43N Concessionary rate of tax for income derived from debt securities](#Concessionary-rate-of-tax-for-income-derived-from-debt-securities)
 
-- [43O Concessionary rate of tax for cyber trading](#Concessionary-rate-of-tax-for-cyber-trading)
+- [43O (Repealed)](#Repealed)
 
 - [43P Concessionary rate of tax for global trading company and qualifying company](#Concessionary-rate-of-tax-for-global-trading-company-and-qualifying-company)
 
@@ -2588,7 +2588,7 @@ by —
 
 (ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(bc) subject to subsection (2H) and such conditions as may be prescribed by regulations —
+(bc) subject to subsections (2H) and (2HA) and such conditions as may be prescribed by regulations —
 
 (i) the interest, discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying debt securities (excluding Singapore Government Securities) which —
 
@@ -2596,7 +2596,17 @@ by —
 
 (B) have an original maturity of not less than 10 years;
 
-(C) cannot be redeemed, called, exchanged or converted within 10 years from the date of their issue; and
+(C) either —
+
+(CA)
+
+if they are issued before 28th June 2013, cannot be redeemed, called, exchanged or converted within 10 years from the date of their issue; or
+
+(CB)
+
+if they are issued on or after 28th June 2013, cannot have their tenure shortened to less than 10 years from the date of their issue, except under such circumstances as may be prescribed by regulations; and
+
+[Act 19 of 2013 wef 28/06/2013]
 
 (D) cannot be re-opened with a resulting tenure of less than 10 years to the original maturity date; and
 
@@ -2606,11 +2616,15 @@ by —
 
 (B) have an original maturity of not less than 10 years;
 
-(C) cannot be redeemed, called, exchanged or converted within 10 years from the date of their issue; and
+(C) cannot have their tenure shortened to less than 10 years from the date of their issue, except under such circumstances as may be prescribed by regulations; and
+
+[Act 19 of 2013 wef 28/06/2013]
 
 (D) cannot be re-opened with a resulting tenure of less than 10 years to the original maturity date;
 
 [34/2008 wef 16/02/2008]
+
+[Act 19 of 2013 wef 28/06/2013]
 
 (bd) subject to subsection (2I) and such conditions as may be prescribed by regulations, any amount payable to any person from any Islamic debt securities —
 
@@ -2774,9 +2788,11 @@ except where such income is derived through a partnership in Singapore or is der
 
 (i) any discount from debt securities;
 
-(ii) any distribution made by any restricted authorised scheme out of income derived from Singapore or received in Singapore on or after 17th February 2006, that is income or deemed to be income of the individual, except distribution made out of Singapore dividends from which tax is deducted or deductible under section 44,
+(ii) any distribution made by any restricted Singapore scheme out of income derived from Singapore or received in Singapore on or after 17th February 2006, that is income or deemed to be income of the individual, except distribution made out of Singapore dividends from which tax is deducted or deductible under section 44,
 
 except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+[Act 19 of 2013 wef 01/10/2009]
 
 (zj) any income from any structured product offered by a financial institution derived from Singapore —
 
@@ -2953,6 +2969,16 @@ if the securities are held by less than 4 persons at any time during the life of
 (ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
 [34/2008 wef 16/12/2008]
+
+(2HA) Subsection (1)(bc) shall not apply to —
+
+(a) any interest, discount, prepayment fee, redemption premium or break cost from qualifying debt securities issued on or after 28th June 2013; or
+
+(b) such other income, directly attributable to qualifying debt securities as may be prescribed by regulations under that provision,
+
+that is derived on or after the date on which the tenure of any portion of those qualifying debt securities is shortened to less than 10 years from the date of their issue, where the shortening of the tenure occurs under such circumstances as may be prescribed by regulations made under that provision.
+
+[Act 19 of 2013 wef 28/06/2013]
 
 (2I) Subsection (1)(bd) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any amount payable from any Islamic debt securities which are qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where the amount is payable to —
 
@@ -3252,7 +3278,9 @@ but does not include, except with the approval of the Minister or such person as
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
-“restricted authorised scheme” means a collective investment scheme constituted as a unit trust authorised under regulations made under the Securities and Futures Act (Cap. 289) for the purpose of section 305 of that Act;
+“restricted Singapore scheme” means a collective investment scheme constituted as a unit trust that is a restricted Singapore scheme within the meaning of the regulations made under the Securities and Futures Act (Cap. 289) for the purpose of section 305 of that Act;
+
+[Act 19 of 2013 wef 01/10/2009]
 
 “securities lending or repurchase arrangement” has the same meaning as in section 10N(12);
 
@@ -6374,13 +6402,15 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be; or
 
 [22/2011 wef 01/06/2011]
 
 [34/2008 wef 01/04/2008]
 
 [29/2010 wef 01/04/2010]
+
+[Act 19 of 2013 wef 25/02/2013]
 
 (c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -7810,9 +7840,9 @@ where A is the lower of —
 
 (B) $150,000; and
 
-(iii) in the case of the basis period for the year of assessment 2013, the amount of such expenditure derived from the formula
+[Act 19 of 2013 wef 18/12/2012]
 
- derived from the formula
+(iii) in the case of the basis period for the year of assessment 2013, the amount of such expenditure derived from the formula
 
 where A
 
@@ -11298,7 +11328,9 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 (d) the rate of exchange to be used for the purpose of section 62B;
 
-(e) for the modification and exception to any prescribed section of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) as it applies to an amalgamated company; and
+(e) for the modification and exception to any prescribed section of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) as it applies to an amalgamated company and an amalgamating company; and
+
+[Act 19 of 2013 wef 22/01/2009]
 
 (f) generally for giving full effect to or for carrying out the purposes of this section.
 
@@ -12210,13 +12242,15 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be;
 
 [22/2011 wef 01/06/2011]
 
 [34/2008 wef 01/04/2008]
 
 [29/2010 wef 01/04/2010]
+
+[Act 19 of 2013 wef 25/02/2013]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -12754,7 +12788,7 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be.
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be.
 
 [22/2011 wef 01/06/2011]
 
@@ -12763,6 +12797,8 @@ is the concessionary rate of tax;
 [29/2010 wef 01/04/2010]
 
 [34/2005; 7/2007; 53/2007]
+
+[Act 19 of 2013 wef 25/02/2013]
 
 (18) This section shall not apply to —
 
@@ -15458,6 +15494,38 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 [28/96; 24/2001; 37/2002; 49/2004; 34/2005; 7/2007; 53/2007]
 
+(11) Notwithstanding the definition of “qualifying company” in subsection (10), a company that is incorporated on or after 26th February 2013 is not a qualifying company in relation to any year of assessment if —
+
+(a) it undertakes property development in the basis period for that year of assessment, whether or not that is the only activity it carries out during the basis period;
+
+(b) it is a partner of a partnership which undertakes property development in the basis period for that year of assessment, whether or not that is the only activity the partnership carries out during the basis period;
+
+(c) its only activity in that basis period is the holding of investments; or
+
+(d) it is a partner of a partnership where the only activity of the partnership during that basis period is the holding of investments, and the company has no activity during that basis period or its only activity during that basis period is the holding of investments.
+
+[Act 19 of 2013 wef 26/02/2013]
+
+(12) For the purposes of subsection (11), a company or partnership undertakes property development if it carries out any of the following activities whether in Singapore or outside Singapore:
+
+(a) acquires land or building for the purpose of undertaking development (whether by the company or partnership or an entity to which it transfers the land or building) with a view to the sale or lease (whether by the entity undertaking the development or another entity to which the entity undertaking the development transfers the building or part thereof) of the whole or any part of the building so developed;
+
+(b) development with a view to the sale or lease (whether by the company or partnership or another entity to which the company or partnership transfers the building or part thereof) of the whole or any part of the building so developed;
+
+(c) the sale or lease of the whole or any part of a building developed by the company or partnership;
+
+(d) any other activity that is preparatory to, connected with or incidental to any activity referred to in paragraph (a), (b) or (c).
+
+[Act 19 of 2013 wef 26/02/2013]
+
+(13) In subsection (12) —
+
+“acquire” includes acquire by way of purchase, grant, exchange, gift, settlement or otherwise;
+
+“develop” means to construct or cause to construct a building, including any building operations in, on, over or under the land for the purpose of erecting the building; and “development” shall be construed accordingly.
+
+[Act 19 of 2013 wef 26/02/2013]
+
 ### Concessionary rate of tax for Asian Currency Unit, Fund Manager and securities company
 
 43A\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate be levied and paid for each year of assessment upon such income derived before 1st January 2004 as the Minister may specify of —
@@ -15600,11 +15668,13 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [37/2002]
 
-(3) In this section and sections 43A(2)(b), 43E, 43F, 43G, 43H, 43O, 43P, 43R and 43S, “approved” means approved by the Minister or such person as he may appoint.
+(3) In this section and sections 43A(2)(b), 43E, 43F, 43G, 43H, 43P, 43R and 43S, “approved” means approved by the Minister or such person as he may appoint.
 
 [22/2011 wef 01/04/2011]
 
 [1/98; 31/98; 37/2002; 21/2003; 49/2004; 7/2007]
+
+[Act 19 of 2013 wef 25/02/2013]
 
 (4) In this section —
 
@@ -15976,15 +16046,7 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 
 [27/2009 wef Y/A 2010 & Sub Ys/A]
 
-### Concessionary rate of tax for cyber trading
-
-43O\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company derived by it from such qualifying electronic commerce transactions as may be prescribed.
-
-[31/98]
-
-(2) Regulations made under subsection (1) may provide for the deduction of losses of an approved company otherwise than in accordance with section 37(3).
-
-[31/98]
+43O\. [Repealed by Act 19 of 2013 wef 25/02/2013]
 
 ### Concessionary rate of tax for global trading company and qualifying company
 
@@ -16448,21 +16510,9 @@ except that the Minister may extend the period so specified for such further per
 
 ### Concessionary rate of tax for approved insurance brokers
 
-43ZC\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved insurance broker derived by it on or after 1st April 2008 from —
+43ZC\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% or 10% shall be levied and paid for each year of assessment upon such income of an approved insurance broker as the Minister may specify that is derived by it on or after a prescribed date from the provision of such direct insurance broking, reinsurance broking or advisory services relating to the insurance sector as may be prescribed.
 
-(a) the provision of direct insurance broking or reinsurance broking to any insured person or person seeking insurance coverage —
-
-(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; or
-
-(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to finance the premiums, brokerage fees and any other fees paid or payable to the approved insurance broker are not obtained, directly or indirectly, from the operation; and
-
-(b) the provision of risk advisory services and other advisory services relating to the insurance sector to any person —
-
-(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; or
-
-(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to finance the service fees paid or payable to the approved insurance broker are not obtained, directly or indirectly, from the operation.
-
-[34/2008 wef 01/04/2008]
+[Act 19 of 2013 wef 01/04/2013]
 
 (2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
@@ -16472,9 +16522,11 @@ except that the Minister may extend the period so specified for such further per
 
 [34/2008 wef 01/04/2008]
 
-(4) Approval may be granted under this section between 1st April 2008 and 31st March 2013.
+(4) Approval may be granted under this section between 1st April 2008 and 31st March 2018.
 
 [34/2008 wef 01/04/2008]
+
+[Act 19 of 2013 wef 01/04/2013]
 
 (5) In this section —
 
@@ -22416,6 +22468,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
+|300.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|28 June 2013 (Sections 7(b), (c), (d), (i))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
