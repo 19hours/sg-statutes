@@ -1,14 +1,12 @@
-**Foreign Limitation Periods Act 2012**
+**Foreign Limitation Periods Act**
 
-**(No. 13 of 2012)**
+**(CHAPTER 111A)**
 
 **Table of Contents**
 
 [**Long Title**](#Foreign-Limitation-Periods-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -22,49 +20,29 @@
 
 - [7 Application to Government](#Application-to-Government)
 
-- [8 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [8 Transitional provision](#Transitional-provision)
 
-- [9 Transitional provision](#Transitional-provision)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential amendments to other written laws**](#THE-SCHEDULE)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Foreign Limitation Periods Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 111A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 13 of 2012)
 
-Published by Authority
+REVISED EDITION 2013
 
-NO. 11]
+(30th June 2013)
 
-Friday, June 1
+An Act to provide for any law relating to the limitation of actions to be treated, for the purposes of cases in which effect is given to foreign law or to determinations by foreign courts, as a matter of substance rather than as a matter of procedure.
 
-[2012
+[1st June 2012]
 
-The following Act was passed by Parliament on 9th April 2012 and assented to by the President on 15th May 2012:—
+### Short title
 
-Foreign Limitation Periods Act 2012
-
-(No. 13 of 2012)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-15th May 2012.
-
-Date of Commencement: 1st June 2012
-
-An Act to provide for any law relating to the limitation of actions to be treated, for the purposes of cases in which effect is given to foreign law or to determinations by foreign courts, as a matter of substance rather than as a matter of procedure, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Foreign Limitation Periods Act 2012 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Foreign Limitation Periods Act.
 
 ### Interpretation
 
@@ -114,91 +92,53 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 7\. This Act shall bind the Government and apply in relation to any action or proceedings by or against the Government as it applies in relation to actions and proceedings to which the Government is not a party.
 
-### Consequential amendments to other written laws
-
-8\. The provisions of the Acts specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
-
 ### Transitional provision
 
-9\. Nothing in this Act shall —
+8\. Nothing in this Act shall —
 
 (a) affect any action, proceedings or arbitration commenced before the commencement of this Act; or
 
 (b) apply in relation to any matter if the limitation period which, apart from this Act, would have been applied in respect of that matter in Singapore expired before the commencement of this Act.
 
-## THE SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 8
+Foreign Limitation Periods Act
 
-Consequential amendments to other written laws
+(CHAPTER 111A)
 
-First column
+This Legislative History is provided for the convenience of users of the Foreign Limitation Periods Act. It is not part of the Act.
 
-Second Column
+||||
+|:-|:-|:-|
+|1.|**Act 13 of 2012—Foreign Limitation Periods Act 2012**|
+||Date of First Reading|8 March 2012 (Bill No. 11/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 June 2012|
+|2.|**2013 Revised Edition—Foreign Limitation Periods Act (Chapter 111A)**|
+||Date of operation|30 June 2013|
+## COMPARATIVE TABLE
 
-1.
+Foreign Limitation Periods Act
 
-Arbitration Act
+(CHAPTER 111A)
 
+The following provisions in the Foreign Limitation Periods Act 2012 (Act 13 of 2012) have been renumbered by the Law Revision Commissioners in this 2013 Revised Edition.
 
+This Comparative Table is provided for the convenience of users. It is not part of the Foreign Limitation Periods Act.
 
+2013 Ed\. 
 
-(Chapter 10, 2002 Ed.)
+Act 13 of 2012 
 
-Section 11
+Omitted
 
-(a)
+8 
 
-Delete subsection (1) and substitute the following subsection:
+8 
 
-“(1) The Limitation Act (Cap. 163) and the Foreign Limitation Periods Act 2012 shall apply to arbitral proceedings as they apply to proceedings before any court and any reference in both Acts to the commencement of proceedings shall be construed as a reference to the commencement of arbitral proceedings.”.
+9 
 
-(b)
+Omitted
 
-Insert, immediately after the words “Limitation Act” in subsection (2), the words “or the Foreign Limitation Periods Act 2012”.
-
-(c)
-
-Delete the words “arbitration proceedings” in subsection (2) and substitute the words “arbitral proceedings”.
-
-(d)
-
-Delete the words “purpose of the Limitation Act” in subsection (3) and substitute the words “purposes of the Limitation Act and the Foreign Limitation Periods Act 2012”.
-
-(e)
-
-Insert, immediately after the word “Act” in the section heading, the words “and Foreign Limitation Periods Act 2012”.
-
-2.
-
-International Arbitration Act
-
-
-
-
-(Chapter 143A, 2002 Ed.)
-
-Section 8A
-
-(a)
-
-Delete subsection (1) and substitute the following subsection:
-
-“(1) The Limitation Act (Cap. 163) and the Foreign Limitation Periods Act 2012 shall apply to arbitral proceedings as they apply to proceedings before any court and any reference in both Acts to the commencement of proceedings shall be construed as a reference to the commencement of arbitral proceedings.”.
-
-(b)
-
-Insert, immediately after the words “Limitation Act” in subsection (2), the words “or the Foreign Limitation Periods Act 2012”.
-
-(c)
-
-Delete the words “arbitration proceedings” in subsection (2) and substitute the words “arbitral proceedings”.
-
-(d)
-
-Delete the words “purpose of the Limitation Act (Cap. 163)” in subsection (3) and substitute the words “purposes of the Limitation Act and the Foreign Limitation Periods Act 2012”.
-
-(e)
-
-Insert, immediately after the word “Act” in the section heading, the words “and Foreign Limitation Periods Act 2012”.
+THE SCHEDULE
 
