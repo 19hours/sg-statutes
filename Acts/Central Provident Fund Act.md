@@ -114,7 +114,7 @@
 
 - [27C Order of court for transfer or sale of immovable property in relation to which charge has been created under section 15(9) or (9A)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-charge-has-been-created-under-section-159-or-9A)
 
-- [27D Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15 (10) or (10A)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-undertaking-has-been-given-under-section-15-10-or-10A)
+- [27D Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15(10) or (10A)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-undertaking-has-been-given-under-section-1510-or-10A)
 
 - [27DA Order of court for transfer or sale of immovable property in relation to which charge has been created under section 15(11D) or (11E)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-charge-has-been-created-under-section-1511D-or-11E)
 
@@ -316,9 +316,9 @@
 
 (Original Enactment: Ordinance 34 of 1953)
 
-REVISED EDITION 2001
+REVISED EDITION 2013
 
-(31st December 2001)
+(30th June 2013)
 
 An Act to make provision for the establishment of the Central Provident Fund Board and a central provident fund.
 
@@ -470,7 +470,7 @@ PRELIMINARY
 
 [22/2010]
 
-(2) No officer or employee employed by or on behalf of the Government shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
+(2) No officer or employee employed by or on behalf of the Government or shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
 (3) In this Act, unless the context otherwise requires, where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) —
 
@@ -480,7 +480,7 @@ PRELIMINARY
 
 [18/2009; 22/2010; 20/2011]
 
-(4) The Minister may, by regulations made under all or any of sections 23, 27Q, 39, 49A, 51, 56A, 57, 57F and 77(1), prescribe —
+(4) The Minister may, by regulations made under all or any of sections 23, 27Q, 39, 49A, 51, 56A, 57, 57F, and 77(1), prescribe —
 
 (a) the persons to whom subsection (3) applies;
 
@@ -1506,7 +1506,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [15/2006; 23/2012]
 
-(10C) [Deleted by Act 23 of 2012]
+(10C) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (11) Where a member owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
 
@@ -1586,7 +1586,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act or the Registration of Deeds Act, as the case may be;
 
-(e) the charge shall, on the application of the member or any other person having an interest in the property, be cancelled if the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
+(e) the charge shall on the application of the member or any other person having an interest in the property, be cancelled if the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
 
 [5/87; 39/2000; 15/2006; 18/2009; 22/2010; 20/2011; 23/2012]
 
@@ -1692,19 +1692,19 @@ Withdrawal from medisave account of deceased member
 
 (1) Notwithstanding section 24(3A), on or after the death of a member of the Fund, the Board may, subject to such conditions as the Minister may from time to time impose, permit the withdrawal, for one or more of the following purposes, of the whole or any part of the sum standing to the member’s credit in his medisave account, in accordance with any regulations made under section 57 or 77(1):
 
-(a) for such medical, psychiatric or other treatment or services received by the member as may be prescribed by those regulations, if that withdrawal had been authorised –
+(a) for such medical, psychiatric or other treatment or services received by the member as may be prescribed by those regulations, if that withdrawal had been authorized –
 
-(i) before the member’s death, by him or, if he was unable to give the authorisation, by a prescribed person; or
+(i) before the member’s death, by him or, if he was unable to give the authorization, by a prescribed person; or
 
 (ii) on or after the member’s death, by a prescribed person;
 
-(b) for such medical, psychiatric or other treatment or services as may be prescribed by those regulations received (whether before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), or to be received, by the member’s spouse, child or parent or by such other person as may be prescribed by those regulations, if that withdrawal had been authorised by the member before his death;
+(b) for such medical, psychiatric or other treatment or services as may be prescribed by those regulations received (whether before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), or to be received, by the member’s spouse, child or parent or by such other person as may be prescribed by those regulations, if that withdrawal had been authorized by the member before his death;
 
 (c) for any premium payable for the member’s insurance under the MediShield Scheme established and maintained by the Board under section 53, or under any medical insurance scheme or other insurance scheme referred to in section 77(1)(k), if –
 
 (i) the member is insured (whether before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), or has applied before his death to be insured (whether such application is made before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), under the MediShield Scheme, medical insurance scheme or other insurance scheme, as the case may be; and
 
-(ii) the Board has authorised, whether before or after the member’s death, the withdrawal of any amount standing to his credit in his medisave account for the payment of any such premium.
+(ii) the Board has authorized, whether before or after the member’s death, the withdrawal of any amount standing to his credit in his medisave account for the payment of any such premium.
 
 ”.
 
@@ -1826,7 +1826,7 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 [20/2011]
 
-(2) [Deleted byAct 20 of 2011]
+(2) [Deleted by Act 20 of 2011]
 
 (3) In this section, “prescribed amount” means —
 
@@ -1842,7 +1842,7 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 [20/2011]
 
-(2) [Deleted byAct 20 of 2011].
+(2) [Deleted by Act 20 of 2011].
 
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
@@ -2116,7 +2116,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(3) [Deleted by Act 23 of 2012]
+(3) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (4) Upon lodgment by the Board with the Registrar of an instrument (which shall be in such form as the Registrar may require) for the purpose of registering or notifying any charge under subsection (1) and the acceptance of the instrument by the Registrar, the Board shall have —
 
@@ -2134,7 +2134,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(7) [Deleted by Act 23 of 2012]
+(7) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (8) Notwithstanding section 80 of the Land Titles Act and section 15 of the Registration of Deeds Act —
 
@@ -2224,7 +2224,7 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [27/95]
 
-(6) [Deleted by Act 23 of 2012]
+(6) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (7) Notwithstanding section 80 of the Land Titles Act and section 15 of the Registration of Deeds Act—
 
@@ -2300,7 +2300,7 @@ there shall, immediately upon any such withdrawal, be a charge constituted on th
 
 [36/2002; 57/2007]
 
-(4) [Deleted by Act 23 of 2012]
+(4) [Deleted by Act 23 of 2012 wef 01/01/2013]
 
 (5) If —
 
@@ -2370,7 +2370,7 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 [36/2002]
 
-(14) [Deleted by Act 18 of 2009]
+(14) [Deleted by Act 18 of 2009 wef 20/08/2009]
 
 ### Withdrawals for payment of tuition fees at approved educational institution
 
@@ -3266,7 +3266,7 @@ in which event the member, the person referred to in paragraph (c) or any other 
 
 [40/2007; 20/2011; 23/2012]
 
-### Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15 (10) or (10A)
+### Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15(10) or (10A)
 
 27D\.—(1) Where —
 
@@ -3318,7 +3318,7 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 the Board shall be entitled to enforce that undertaking against every person who has given that undertaking, in so far as it secures the refund to the Board of the member’s minimum sum or part thereof which is required to be set aside, until —
 
-(i) the member minimum sum or part thereof which is required to set aside —
+(i) the member’s minimum sum or part thereof which is required to set aside —
 
 (A) has been refunded to the Board; or
 
@@ -3498,7 +3498,7 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (iv) there shall be a charge constituted on the HDB flat to secure the payment referred to in paragraph (ii);
 
-(v) sections 21(12) and 21B(2), (3)(a), (b) and (d) and (5) to (11) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
+(v) sections 21(12) and 21B(2), (3)(a), (b) and (d), and (5) to (11) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
 
 (A) any reference to the charge under section 21B(1) shall be read as a reference to the charge under paragraph (iv);
 
@@ -3566,7 +3566,7 @@ then, subject to subsection (2) and any regulations made under section 77(1), th
 
 ### Order of court for sale of investments
 
-27H\.—(1) Where —
+27H\. Where —
 
 (a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
 
@@ -5472,7 +5472,7 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (b) to provide for the keeping of books, accounts or records by employers;
 
-(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B)(a), (7A)(a), (b), (c) or (d), (8)(a), (b), (c) or (d), 36(2) or 49(2);
+(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B)(a), (7A) (a), (b), (c) or (d), (8) (a), (b), (c) or (d), 36(2) or 49(2);
 
 (d) to prescribe the procedure for the withdrawal of amounts from the Fund;
 
@@ -7914,7 +7914,7 @@ shall be disregarded; and
 
 (ii) in respect of the year beginning 1st January 2012 and every subsequent year, means the sum of $85,000;
 
-(db) “first anniversary month”, in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
+(db) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
 
 (dc) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
 
@@ -8006,7 +8006,7 @@ shall be disregarded; and
 
 (33) Nanyang Polytechnic.
 
-(34) [Deleted by S 193/2006]
+(34) [Deleted by S 193/2006 wef 01/04/2006]
 
 (35) National Arts Council.
 
@@ -8028,7 +8028,7 @@ shall be disregarded; and
 
 (44) People’s Association.
 
-(45) [Deleted by Act 16 of 2009]
+(45) [Deleted by Act 16 of 2009 wef 01/07/2009]
 
 (46) Professional Engineers Board.
 
@@ -8951,6 +8951,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (except section 65(a) and (b))|
+|186.|**2013 Revised Edition—Central Provident Fund Act (Chapter 36)**|
+||Date of operation|30 June 2013|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
