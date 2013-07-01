@@ -3150,7 +3150,7 @@ Styrene monomer —Deleted by S 78/2005, wef 16/02/2005.
 
 Sulphur in diesel intended for use in Singapore as fuel for motor vehicles or industrial plants
 
-Sulphur in diesel in which the sulphur content is 0.005% or less by weight.
+Sulphur in diesel in which the sulphur content is 0.001% or less by weight.
 
 Sulphur tetrafluoride
 
@@ -3185,6 +3185,8 @@ Tungsten hexafluoride
 Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
 Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
+
+[S 373/2013 wef 01/07/2013]
 
 [S 43/2008 wef 31/01/2008]
 
@@ -3490,6 +3492,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 September 2011|
 |17.|**G. N. No. S 373/2011—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2011**|
 ||Date of commencement|1 July 2012|
+|18.|**G. N. No. S 373/2013—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2013**|
+||Date of commencement|1 July 2013|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
