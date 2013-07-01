@@ -176,7 +176,7 @@
 
 [**FIRST SCHEDULE Drug trafficking offences**](#FIRST-SCHEDULE-Drug-trafficking-offences)
 
-[**SECOND SCHEDULE Serious Offences**](#SECOND-SCHEDULE-Serious-Offences)
+[**SECOND SCHEDULE Serious offences**](#SECOND-SCHEDULE-Serious-offences)
 
 [**Legislative History**](#Legislative-History)
 
@@ -2796,19 +2796,18 @@ SECOND SCHEDULE
 
 Section 2
 
-Serious Offences
+Serious offences
 
-Part I
+Part I — Offences included as serious offences with
 
-—
 
-Offences included as serious offences with effect from 13th September 1999
+
+
+effect from 13th September 1999
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
-
-\*Note
+Description*
 
 1.
 
@@ -2843,6 +2842,8 @@ Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65)
 Section 3
 
 Possession of corrosive or explosive substance for purpose of causing hurt
+
+Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap\. 124) 
 
 Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap\. 124) 
 
@@ -3926,17 +3927,18 @@ Section 145
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-Part II
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-—
+Part II — Offences included as serious offences with
 
-Offences included as serious offences with effect from 9th September 2005
+
+
+
+effect from 9th September 2005
 
 Offences
 
-\*Description
-
-\*Note: The short description of offences in this Schedule is for ease of reference only.
+Description*
 
 Moneylenders Act 2008 
 
@@ -3948,28 +3950,22 @@ Unlicensed moneylending
 
 184.
 
+Section 28
+
 Harassing borrower, besetting his residence, etc.
 
-[31/2008 wef 01/03/2009]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-[597/2009 wef 01/11/2007]
-
-Part III
-
-—
-
-Offences included as serious offences with effect from
+Part III — Offences included as serious offences
 
 
 
 
-8th May 2006
+with effect from 8th May 2006
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
-
-\*Note
+Description*
 
 Animals and Birds Act (Cap\. 7) 
 
@@ -4017,9 +4013,9 @@ Section 6
 
 Possession or transfer of possession of unmarked plastic explosives
 
-192.
+191.
 
-Section 7
+Section 6
 
 Importation or exportation of unmarked plastic explosives
 
@@ -4393,11 +4389,13 @@ Wearing of prohibited uniform, etc.
 
 244.
 
-Section 6 Section 5
+Section 5
 
 Membership of quasi-military organisations
 
 245.
+
+Section 6
 
 Illegal drilling
 
@@ -4405,13 +4403,11 @@ Monetary Authority of Singapore Act (Cap\. 186)
 
 246.
 
-[
-
-Deleted byS 28/2010, wef22/01/2010]
+[Deleted by S 28/2010, wef 22/01/2010]
 
 247.
 
-[Deleted byS 28/2010, wef22/01/2010]
+[Deleted by S 28/2010, wef 22/01/2010]
 
 248.
 
@@ -4545,7 +4541,7 @@ Food Regulations (Rg 1)
 
 265.
 
-[Deleted byS 28/2010, wef22/01/2010]
+[Deleted by S 28/2010, wef 22/01/2010]
 
 266.
 
@@ -4849,17 +4845,24 @@ Section 148
 
 Keeping or management of brothels
 
-[Act 3 of 2013 wef 13/03/2013]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-[S 28/2010; S 254/2006]
+Part IV — offences included as serious offences with
 
-[26/2007 wef 01/01/2008]
 
-Part IV
 
-—
 
-Offences included as serious offences with effect from 27th September 2007, being transnational offences involving organised criminal groups
+effect from 27th September 2007,
+
+
+
+
+being transnational offences involving
+
+
+
+
+organised criminal groups
 
 293.
 
@@ -4873,19 +4876,16 @@ Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-[S 488/2007 wef 27/09/2007]
+Part V — offences included as serious offences
 
-Part V
 
-—
 
-Offences included as serious offences with effect from 1st November 2007
+
+with effect from 1st November 2007
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
-
-\*Note
+Description*
 
 Biological Agents and Toxins Act (Cap\. 24A) 
 
@@ -4961,9 +4961,9 @@ Offences in relation to shipping, unshipping, loading, unloading, etc., of uncus
 
 303A.
 
-Section 128I(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
+Section 128I(1)(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
 
-Offences in relation to possession, storage, conveying and harbouring of goods
+Offences in relation to possession, storage and harbouring of goods
 
 304.
 
@@ -4985,9 +4985,9 @@ Section 57(1)(k)
 
 Making a false statement to obtain or attempting to obtain an entry permit, re-entry permit, pass or certificate for himself or for other person
 
-307.
+306.
 
-Section 57(1)(l)
+Section 57(1)(k)
 
 Using or without lawful authority having possession of any forged, unlawfully altered or irregular entry or re-entry permit, pass or certificate, etc.
 
@@ -5029,7 +5029,7 @@ Section 7(3)
 
 Abetment of certain offences
 
-Multi-Level Marketing and Pyramid Selling (Prohibition) Act (Cap\. 190) 
+Multi-Level Marketing and Pyramid Selling (Prohibition) Act 
 
 314.
 
@@ -5137,24 +5137,20 @@ Section 14
 
 Contravention of order for restraint of property
 
-Part VI
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-—
-
-Offences included as serious offences with effect from
+Part VI — Offences included as serious offences with
 
 
 
 
-1st February 2008
+effect from 1st February 2008
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
+Description*
 
-\*Note
-
-Passports Act ( Act 33 of 2007 ) 
+Passports Act (Act 33 of 2007) 
 
 330.
 
@@ -5308,19 +5304,18 @@ Section 473B
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
-[S 33/2008 wef 01/02/2008]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part VII
+Part VII — Offences included as serious offences with
 
-—
 
-Offences included as serious offences with effect from 20th February 2008
+
+
+effect from 20th February 2008
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
-
-\*Note
+Description*
 
 Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007) 
 
@@ -5336,24 +5331,18 @@ Section 4
 
 Failure to disclose information about acts of terrorist bombing
 
-[S 83/2008 wef 20/02/2008]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part VIII
-
-—
-
-Offences included as serious offences with effect from
+Part VIII — Offences included as serious offences with
 
 
 
 
-1st May 2009
+effect from 1st May 2009
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
-
-\*Note
+Description*
 
 Casino Control Act (Cap\. 33A) 
 
@@ -5381,19 +5370,18 @@ Section 174
 
 Forgery
 
-[S 187/2009 wef 01/05/2009]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part IX
+Part IX — Offences included as serious offences with
 
-—
 
-Offences included as serious offences with effect from 22nd January 2010
+
+
+effect from 22nd January 2010
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
-
-\*Note
+Description*
 
 Health Products Act (Cap\. 122D) 
 
@@ -5433,21 +5421,20 @@ Section 14
 
 Transport of radioactive waste.
 
-[S 28/2010 wef 22/01/2010]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part X
+Part X — Offences included as serious offences with
 
-—
 
-Offences included as serious offences with effect from 21st November 2010
+
+
+effect from 21st November 2010
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
+Description*
 
-\*Note
-
-Hostage-Taking Act 2010 ( Act 19 of 2010 ) 
+Hostage-Taking Act 2010 (Act 19 of 2010) 
 
 366.
 
@@ -5455,13 +5442,18 @@ Section 3
 
 Hostage-taking
 
-[S 667/2010 wef 21/11/2010]
+*Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part XI — Offences included as serious offences with effect from 15th February 2011
+Part XI — offences included as serious offences
+
+
+
+
+with effect from 15th February 2011
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
+Description*
 
 Employment of Foreign Manpower Act (Cap\. 91A) 
 
@@ -5477,7 +5469,7 @@ Section 22(1)(a), (d), (e) and (f)
 
 Contravention of a condition of a work pass, making false statement or giving false information to the Controller of Work Passes or an employment inspector, dealing in, forging or unlawfully altering a work pass, or using or having in possession a forged or unlawfully altered work pass or a work pass issued to another
 
-Hostage-Taking Act 2010 ( Act 19 of 2010 ) 
+Hostage-Taking Act 2010 (Act 19 of 2010) 
 
 369.
 
@@ -5493,7 +5485,70 @@ Section 57(1)(d)
 
 Harbouring offenders of Immigration Act or Regulations
 
-[S 59/2011 wef 15/02/2011]
+* Note: The short description of offences is for ease of reference only.
+
+Part XII — Offences included as serious offences
+
+
+
+
+with effect from 1st July 2013
+
+Offences
+
+Description*
+
+Casino Control Act (Cap\. 33A) 
+
+371.
+
+Section 110
+
+Prohibited casino marketing arrangements
+
+372.
+
+Section 110A
+
+No one to act as international market agent or international market agent representative without licence
+
+373.
+
+Section 172A
+
+Cheating at play
+
+Goods and Services Tax Act (Cap\. 117A) 
+
+374.
+
+Section 62
+
+Fraud, etc.
+
+375.
+
+Section 63
+
+Improperly obtaining refund
+
+Income Tax Act (Cap\. 134) 
+
+376.
+
+Section 96
+
+Tax evasion
+
+377.
+
+Section 96A
+
+Serious fraudulent tax evasion
+
+* Note: The short description of offences is for ease of reference only.
+
+[S 380/2013 wef 01/07/2013]
 
 ## LEGISLATIVE HISTORY
 
@@ -5655,6 +5710,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (except section 65(a) and (b))|
+|35.|**G.N. No. S 380/2013—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2013**|
+||Date of commencement|1 July 2013|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
