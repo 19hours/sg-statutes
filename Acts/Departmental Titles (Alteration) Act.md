@@ -464,6 +464,14 @@ Deputy Secretary, Ministry of Information, Communications and the Arts
 
 Deputy Secretary, Ministry of Communications and Information.
 
+Parliamentary Counsel
+
+Chief Legislative Counsel.
+
+[S 25/70; S 139/70; S 83/72; S 46/77; S 178/78; S 360/81; S 321/85; S 203/86; S 121/87; S 154/89; S 315/94; S 548/95; S 412/98; S 151/99; S 408/99; S 173/2000]
+
+[S 365/2013 wef 01/07/2013]
+
 [S 78/2013 wef 06/02/2013]
 
 [S 625/2013 wef 01/11/2012]
@@ -480,7 +488,7 @@ Departmental Titles (Alteration) Act
 
 (CHAPTER 77)
 
-This Legislative History is provided for the convenience of users of the Departmental Titles (Alteration) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Departmental Titles (Alteration) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -489,56 +497,60 @@ This Legislative History is provided for the convenience of users of the Departm
 |||(Bill published on 11 February 1950)|
 ||Date of Second and Third Readings|21 March 1950|
 ||Date of commencement|1 April 1950|
-|2.|**G. N. No. S 25/1970—Departmental Titles (Alteration) Ordinance (Resolution)**|
+|2.|**1955 Revised Edition—Departmental Titles (Alteration) Act (Chapter 55)**|
+||Date of operation|1 July 1956|
+|3.|**G. N. No. S 25/1970—Departmental Titles (Alteration) Ordinance (Resolution)**|
 ||Date of commencement|16 January 1970|
-|3.|**G. N. No. S 139/1970—Departmental Titles (Alteration) Ordinance (Resolution)**|
+|4.|**G. N. No. S 139/1970—Departmental Titles (Alteration) Ordinance (Resolution)**|
 ||Date of commencement|15 May 1970|
-|4.|**1970 Revised Edition—Departmental Titles (Alteration) Act (Cap. 53)**|
+|5.|**1970 Revised Edition—Departmental Titles (Alteration) Act (Cap. 53)**|
 ||Date of operation|1 April 1971|
-|5.|**G. N. No. S 83/1972—Departmental Titles (Alteration) Act (Resolution)**|
+|6.|**G. N. No. S 83/1972—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|17 March 1972|
-|6.|**G. N. No. S 46/1977—Departmental Titles (Alteration) Act (Resolution)**|
+|7.|**G. N. No. S 46/1977—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|18 March 1977|
-|7.|**G. N. No. S 178/1978—Departmental Titles (Alteration) Act (Resolution)**|
+|8.|**G. N. No. S 178/1978—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|4 August 1978|
-|8.|**G. N. No. S 360/1980—Departmental Titles (Alteration) Act (Resolution)**|
+|9.|**G. N. No. S 360/1980—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|27 November 1981|
-|9.|**G. N. No. S 321/1985—Departmental Titles (Alteration) Act (Resolution)**|
+|10.|**G. N. No. S 321/1985—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|8 November 1985|
-|10.|**G. N. No. S 203/1986—Departmental Titles (Alteration) Act (Resolution)**|
+|11.|**G. N. No. S 203/1986—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|8 August 1986|
-|11.|**G. N. No. S 121/1987—Departmental Titles (Alteration) Act (Resolution)**|
+|12.|**G. N. No. S 121/1987—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|16 April 1987|
-|12.|**1985 Revised Edition—Departmental Titles (Alteration) Act**|
+|13.|**1985 Revised Edition—Departmental Titles (Alteration) Act**|
 ||Date of operation|30 March 1987|
-|13.|**G. N. No. S 154/1989—Departmental Titles (Alteration) Act (Resolution)**|
+|14.|**G. N. No. S 154/1989—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|14 April 1989|
-|14.|**G. N. No. S 315/1994—Departmental Titles (Alteration) Act (Resolution)**|
+|15.|**G. N. No. S 315/1994—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|12 August 1994|
-|15.|**G. N. No. S 548/1995—Departmental Titles (Alteration) Act (Resolution)**|
+|16.|**G. N. No. S 548/1995—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|15 December 1995|
-|16.|**G. N. No. S 412/1998—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1998**|
+|17.|**G. N. No. S 412/1998—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|1 February 1996|
-|17.|**Act 20 of 1996—Departmental Titles (Alteration) (Amendment) Act 1996**|
+|18.|**Act 20 of 1996—Departmental Titles (Alteration) (Amendment) Act 1996**|
 ||Date of First Reading|2 May 1996|
 |||(Bill No. 11/96 published on 3 May 1996)|
 ||Date of Second and Third Readings|21 May 1996|
 ||Date of commencement|12 July 1996|
-|18.|**G. N. No. S 151/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1999**|
+|19.|**G. N. No. S 151/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1999**|
 ||Date of commencement|1 April 1999|
-|19.|**G. N. No. S 408/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 1999**|
+|20.|**G. N. No. S 408/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 1999**|
 ||Date of commencement|26 July 1999|
-|20.|**G. N. No. S 173/2000—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2000**|
+|21.|**G. N. No. S 173/2000—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2000**|
 ||Date of commencement|1 April 2000|
-|21.|**2001 Revised Edition—Departmental Titles (Alteration) Act**|
+|22.|**2001 Revised Edition—Departmental Titles (Alteration) Act**|
 ||Date of operation|31 July 2001|
-|22.|**G. N. No. S 160/2004—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2004**|
+|23.|**G. N. No. S 160/2004—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2004**|
 ||Date of commencement|1 April 2004|
-|23.|**G. N. No. S 1/2011—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2011**|
+|24.|**G. N. No. S 1/2011—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2011**|
 ||Date of commencement|1 January 2011|
-|24.|**G.N. No. S 597/2012—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2012**|
+|25.|**G.N. No. S 597/2012—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2012**|
 ||Date of commencement|1 November 2012|
-|25.|**G.N. No. S 625/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 3) Notification 2013**|
+|26.|**G.N. No. S 625/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 3) Notification 2013**|
 ||Date of commencement|1 November 2012|
-|26.|**G.N. No. S 78/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2013**|
+|27.|**G.N. No. S 78/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2013**|
 ||Date of commencement|6 February 2013|
+|28.|**G.N. No. S 365/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 2013**|
+||Date of commencement|1 July 2013|
