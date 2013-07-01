@@ -96,7 +96,9 @@ An Act to make provision for the preparation and publication of a revised editio
 
 (b) the Solicitor-General;
 
-(c) the Parliamentary Counsel; and
+(c) the Chief Legislative Counsel; and
+
+[S 365/2013 wef 01/07/2013]
 
 (d) such other persons as may be appointed by the President,
 
@@ -474,3 +476,5 @@ This Legislative History is provided for the convenience of users of the Revised
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|8.|**G. N. No. S 365/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 2013**|
+||Date of commencement|1 July 2013|
