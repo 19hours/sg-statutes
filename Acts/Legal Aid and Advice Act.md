@@ -24,15 +24,15 @@
 
 - [7 Power of Director to make inquiries](#Power-of-Director-to-make-inquiries)
 
-- [8 Grant of legal aid certificate](#Grant-of-legal-aid-certificate)
+- [8 Grant of Aid](#Grant-of-Aid)
 
 - [9 Contributions from aided persons](#Contributions-from-aided-persons)
 
-- [10 Cancellation of certificate](#Cancellation-of-certificate)
+- [10 Cancellation of Grant of Aid](#Cancellation-of-Grant-of-Aid)
 
 - [11 Application for aid by more than one party](#Application-for-aid-by-more-than-one-party)
 
-- [12 Endorsement and filing of certificate](#Endorsement-and-filing-of-certificate)
+- [12 Endorsement and filing of Grant of Aid](#Endorsement-and-filing-of-Grant-of-Aid)
 
 - [13 Deposit in respect of out-of-pocket expenses](#Deposit-in-respect-of-out-of-pocket-expenses)
 
@@ -44,7 +44,7 @@
 
 - [17 Stay of proceedings upon making of application for legal aid](#Stay-of-proceedings-upon-making-of-application-for-legal-aid)
 
-- [18 Appeals by aided persons](#Appeals-by-aided-persons)
+- [18 Appeal by aided persons](#Appeal-by-aided-persons)
 
 - [19 Rules of Court](#Rules-of-Court)
 
@@ -54,7 +54,7 @@
 
 [**Part IV SUPPLEMENTARY**](#Part-IV)
 
-- [21 False statements](#False-statements)
+- [21 False or misleading statements, etc.](#False-or-misleading-statements-etc)
 
 - [22 Privileges attaching to certain relationships](#Privileges-attaching-to-certain-relationships)
 
@@ -96,15 +96,25 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“aided person” means a person who has been granted a certificate stating that he is granted legal aid under this Act and, where such a person is an infant, includes his guardian;
+“aided person” means a person who is issued a Grant of Aid and, where such a person is a minor, includes his guardian;
+
+[Act 6 of 2013 wef 01/07/2013]
+
+“court” means any court, tribunal or adjudicator before which or before whom any proceedings referred to in Part I of the First Schedule are heard;
+
+[Act 6 of 2013 wef 01/07/2013]
 
 “Director” means the Director of Legal Aid appointed under section 3 and includes a Deputy Director and an Assistant Director of Legal Aid;
 
 “goods and services tax” means the goods and services tax levied under the Goods and Services Tax Act [Cap. 117A];
 
-“guardian”, in relation to an infant, includes any person whom the Director considers might properly be appointed to be the next friend or litigation representative of the infant;
+“Grant of Aid” means the document issued by the Director under section 8(2) stating that legal aid is granted to a person;
 
-[42/2005 wef 01/01/2006]
+[Act 6 of 2013 wef 01/07/2013]
+
+“guardian”, in relation to a minor, includes any person whom the Director considers might properly be appointed to be the litigation representative of the minor;
+
+[Act 6 of 2013 wef 01/07/2013]
 
 “judge”, in relation to proceedings —
 
@@ -116,7 +126,7 @@ PRELIMINARY
 
 “legal aid” means legal aid granted under this Act;
 
-“legal aid certificate” means a legal aid certificate granted under section 8(2);
+[Deleted by Act 6 of 2013 wef 01/07/2013]
 
 “solicitor” means an advocate and solicitor of the Supreme Court.
 
@@ -148,11 +158,33 @@ PRELIMINARY
 
 and there may be separate panels for different purposes and for different courts.
 
-(2) Any solicitor shall be entitled to have his name on the panels or any of them unless there is good reason for excluding him arising out of his conduct when acting or assigned to act for persons receiving legal aid or his professional conduct generally.
+(2) Any solicitor shall be entitled to have his name on the panels or any of them unless there is good reason for excluding or removing him on any of the grounds under subsection (2A).
 
-(3) Where a solicitor is aggrieved by any decision excluding him (whether permanently or temporarily) from the panels or any of them, he may appeal against the decision to a judge of the High Court and the judge (whose decision shall be final) may confirm or quash the decision appealed against or may substitute such decision as he thinks fit.
+[Act 6 of 2013 wef 01/07/2013]
 
-(4) Subject to section 15(2), any solicitor may at any time request the Director to remove his name from the panels or any of them and the Director shall comply with such request.
+(2A) The Director may, at any time, exclude or remove any solicitor from any panel —
+
+(a) if the solicitor has ceased to be a practising solicitor for any reason;
+
+(b) if the solicitor has requested that the Director remove him from the panel;
+
+(c) if the solicitor has shown from his conduct when assigned to act for persons receiving legal aid or from his professional conduct generally that he is not a suitable person to remain on the panel; or
+
+(d) if, in the opinion of the Director —
+
+(i) the solicitor is not a suitable person to be or remain on the panel for any other reason; or
+
+(ii) it is necessary or expedient to exclude or remove the solicitor’s name from the panel for any other reason.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Where a solicitor is aggrieved by any decision excluding or removing him (whether permanently or temporarily) from the panels or any of them, he may appeal against the decision to a judge of the High Court and the judge (whose decision shall be final) may confirm or quash the decision appealed against or may substitute such decision as he thinks fit.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(4) A solicitor shall have the duty to disclose to the Director any information or give any opinion which may enable the Director to perform his functions under this Act, including such information or opinion which may reasonably be taken into account by the Director or the board referred to in section 8 in determining whether to refuse or cancel legal aid to a person or an aided person, and the solicitor shall not be precluded from so doing by reason of any privilege arising out of the relationship between solicitor and client.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (5) Subject to any regulations made under this Act, the Director shall pay to a solicitor investigating and reporting, or giving an opinion, upon applications for the grant of legal aid or acting for persons receiving legal aid or giving legal advice under the provisions of this Act or Part IV of the International Child Abduction Act 2010 such fees as may be agreed between the Director and the solicitor.
 
@@ -166,23 +198,39 @@ LEGAL AID IN CIVIL ACTIONS
 
 5\.—(1) Subject to this Part, legal aid may be given to citizens and permanent residents of Singapore in any civil proceedings of a description mentioned in Part I of the First Schedule; and no legal aid shall be given in any of the proceedings mentioned in Part II of the First Schedule.
 
-(2) The proceedings in connection with which legal aid may be given may be varied by regulations made under this Act and the regulations may describe the proceedings to be included or excluded by reference to the court or tribunal, to the issues involved, to the capacity in which the person requiring legal aid is concerned, or otherwise.
+(2) The proceedings in connection with which legal aid may be given may be varied by regulations made under this Act and the regulations may describe the proceedings to be included or excluded by reference to the court, to the issues involved, to the capacity in which the person requiring legal aid is concerned, or otherwise.
 
-(3) Regulations made for the purpose of this section shall not provide for giving legal aid in connection with any proceedings before any court or tribunal before which persons have no right and are not normally allowed to be represented by a solicitor.
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Regulations made for the purpose of this section shall not provide for giving legal aid in connection with any proceedings before any court before which persons have no right and are not normally allowed to be represented by a solicitor.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (4) In this section, “permanent resident” means any person who is not subject to any restrictions as to his period of residence in Singapore imposed under any written law relating to immigration for the time being in force in Singapore.
 
 ### Application for legal aid
 
-6\.—(1) Any person who (whether in his own right or in a representative capacity) desires to be granted legal aid shall make application in that behalf to the Director; and every such application shall be accompanied by a statutory declaration verifying the facts stated in the application and a fee of one dollar (inclusive of goods and services tax) or such other fee as may be prescribed.
+6\.—(1) Any person who (whether in his own right or in a representative capacity) desires to be granted legal aid shall make an application in that behalf to the Director.
 
-(2) Where the person who desires to be granted legal aid is an infant, the application shall be made on behalf of the infant by his guardian.
+[Act 6 of 2013 wef 01/07/2013]
 
-(3) Where any application is made on behalf of an infant then —
+(1A) Every application made under subsection (1) shall be accompanied by such fee (which shall be inclusive of goods and services tax) as may be prescribed.
 
-(a) a reference in section 7 or in section 8(2)(a) to the applicant shall be construed as a reference to the guardian and the infant jointly or to either of them severally; and
+[Act 6 of 2013 wef 01/07/2013]
 
-(b) a reference in sections 8(2)(b) and 9(1) or in the Second Schedule to the applicant shall, in any case where the infant is unmarried and the guardian is a relative of the infant, be construed as a reference to both the guardian and the infant and in every other case shall be construed as a reference to the infant only.
+(2) Where the person who desires to be granted legal aid is a minor, the application shall be made on behalf of the minor by his guardian.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Where any application is made on behalf of a minor then —
+
+(a) a reference in section 7 or in section 8(2)(a) to the applicant shall be construed as a reference to the guardian and the minor jointly or to either of them severally; and
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(b) a reference in sections 8(2)(b) and 9(1) or in the Second Schedule to the applicant shall, in any case where the minor is unmarried and the guardian is a relative of the minor, be construed as a reference to both the guardian and the minor and in every other case shall be construed as a reference to the minor only.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (4) In subsection (3), “relative” means —
 
@@ -191,6 +239,18 @@ LEGAL AID IN CIVIL ACTIONS
 (b) in the case of an adopted child, an adopting parent; and
 
 (c) in the case of an illegitimate child, the mother.
+
+(5) Where —
+
+(a) an aided person was a minor at the time legal aid was granted to him in respect of any proceedings;
+
+(b) such proceedings have not been concluded by the time he attains the age of 21 years; and
+
+(c) the aided person wishes to continue receiving legal aid in respect of those proceedings after attaining the age of 21 years,
+
+the aided person shall, upon attaining the age of 21 years, make a fresh application under subsection (1) for legal aid in his own right to the Director in respect of those proceedings.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ### Power of Director to make inquiries
 
@@ -208,11 +268,11 @@ LEGAL AID IN CIVIL ACTIONS
 
 (f) defray expenses incidental to any of the foregoing matters out of any funds in his control which are available for the purpose.
 
-### Grant of legal aid certificate
+### Grant of Aid
 
 8\.—(1) Before approving an application for legal aid, the Director shall refer the application to a board (referred to in this section as the board) consisting of the Director and not fewer than 2 solicitors whose names are on the appropriate panel maintained pursuant to section 4.
 
-(2) The Director may grant to an applicant a certificate stating that the applicant is granted legal aid under the provisions of this Act in connection with any proceedings where —
+(2) The Director may issue a Grant of Aid to an applicant stating that the applicant is granted legal aid under the provisions of this Act in connection with any proceedings where —
 
 (a) the board is of the opinion that the applicant has reasonable grounds for taking, defending, continuing or being a party thereto; and
 
@@ -222,83 +282,159 @@ LEGAL AID IN CIVIL ACTIONS
 
 (ii) that the disposable income of the applicant does not exceed the amount set out in the Second Schedule.
 
+[Act 6 of 2013 wef 01/07/2013]
+
 (3) The Director may refuse legal aid if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case.
 
-(4) Notwithstanding any provision of this Act or any regulations made thereunder to the contrary, the Minister may authorise the Director to grant a legal aid certificate to any person in any proceedings where the Minister is of the opinion that it is in the public interest that legal aid be granted to the person.
+(4) Notwithstanding any provision of this Act or any regulations made thereunder to the contrary, the Minister may authorise the Director to issue a Grant of Aid to any person in any proceedings where the Minister is of the opinion that it is in the public interest that legal aid be granted to the person.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ### Contributions from aided persons
 
-9\.—(1) Where the Director is satisfied —
+9\.—(1) The Director may require an applicant to make one or more contributions in one lump sum or by instalments in respect of any matter for which an application for legal aid has been made by that applicant.
 
-(a) that an applicant for legal aid is possessed of or entitled to disposable capital of a total value of more than the amount set out in the Second Schedule; and
+[Act 6 of 2013 wef 01/07/2013]
 
-(b) that the disposable income of the applicant exceeds the amount set out in the Second Schedule,
+(2) Unless the regulations otherwise provide, any sum remaining unpaid on account of a person’s contribution in respect of any matter for which legal aid has been granted shall be a first charge on any property which is recovered or preserved for that person in the proceedings connected to the matter in favour of any fund established under this Act.
 
-the Director may require the applicant to make a contribution in one sum or by instalments in respect of sums payable on his account in respect of the proceedings in which a legal aid certificate is granted to the applicant.
+[Act 6 of 2013 wef 01/07/2013]
 
-(2) If the total contribution made by a person in respect of any proceedings is more than the net liability of the Director on his account, the excess shall be repaid to him.
+(3) [Deleted by Act 6 of 2013 wef 01/07/2013]
 
-(3) Unless the regulations otherwise provide, any sums remaining unpaid on account of a person’s contribution in respect of any proceedings and, if the total contribution is less than the net liability of the Director on his account, a sum equal to the deficiency shall be a first charge on any property which is recovered or preserved for that person in the proceedings.
+(4) The reference in subsection (2) to property recovered or preserved for any person shall include his rights under any settlement or compromise arrived at to avoid or to bring to an end the proceedings and any sums recovered by virtue of an order for costs made in his favour in the proceedings (not being sums payable to the Director under section 14 or 16).
 
-(4) The reference in subsection (3) to property recovered or preserved for any person shall include his rights under any settlement or compromise arrived at to avoid or to bring to an end the proceedings and any sums recovered by virtue of an order for costs made in his favour in the proceedings (not being sums payable to the Director under section 14 or 16).
+[Act 6 of 2013 wef 01/07/2013]
 
 (5) The charge created by subsection (4) on any damages or costs shall not prevent a court allowing them to be set off against other damages or costs in any case where a solicitor’s lien for costs would not prevent it.
 
-(6) References in this section to the net liability of the Director on any person’s account in relation to any proceedings refer to the aggregate amount of the sums paid or payable by the Director on his account and, where the person has been represented in the proceedings by the Director, such sums as would in the opinion of the Director have been payable on that person’s account had he been represented by a solicitor assigned to him in respect of those proceedings, and not recouped by sums which are recovered by virtue of an order or agreement for costs made in his favour with respect to those proceedings.
+(6) The Director may, in his discretion, reduce, waive or refund any contribution which an applicant is required to pay under subsection (1).
 
-### Cancellation of certificate
+[Act 6 of 2013 wef 01/07/2013]
 
-10\.—(1) The Director may, at any time, and whether or not application has been made for the purpose, cancel any legal aid certificate and subject to subsection (2), the person to whom the certificate was granted shall, as from the date of the cancellation, cease to be an aided person.
+### Cancellation of Grant of Aid
 
-(2) Where the legal aid certificate so cancelled has been filed in the registry of any court, the Director shall file in court a notification of the cancellation, and, as from the date of filing of such notification, the person to whom the legal aid certificate was granted shall cease to be an aided person.
+10\.—(1) The Director may, at any time and whether or not an application has been made for the purpose, cancel a Grant of Aid, and subject to subsection (2), the person to whom the Grant of Aid was issued shall, as from the date of cancellation, cease to be an aided person.
 
-(3) Upon the filing in court of such notification, then, unless otherwise ordered by a judge of the court in which the litigation is pending, all proceedings in the litigation shall, by virtue of this subsection, be stayed for a period of 14 days and, subject as aforesaid, during such period, time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run.
+[Act 6 of 2013 wef 01/07/2013]
 
-(4) The time during which proceedings are stayed by virtue of subsection (3) may be reduced or extended by order of a judge of the court in which the litigation is pending.
+(2) Where the Grant of Aid cancelled under subsection (1) has been filed with any court, the Director shall file with the court a notification of the cancellation, and the person to whom the Grant of Aid was issued shall, as from the date of filing of such notification, cease to be an aided person.
 
-(5) The Director shall take such steps as seem to him reasonable or necessary to inform the person to whom a legal aid certificate has been granted of the cancellation of any such certificate.
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Upon the filing in court of such notification, then, unless otherwise ordered by the court before which any proceedings are pending, all steps in the proceedings shall, by virtue of this subsection, be stayed for a period of 14 days and, subject as aforesaid, during such period, time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(4) The time during which proceedings are stayed by virtue of subsection (3) may be reduced or extended by order of the court before which any proceedings are pending.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(5) The Director shall take such steps as seem to him reasonable or necessary to inform the person to whom a Grant of Aid has been issued of the cancellation of any such Grant of Aid.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ### Application for aid by more than one party
 
 11\.—(1) If, in relation to any proceedings to which a person who has made an application for legal aid or an aided person is a party, any other party makes application for legal aid, the provisions of this Act shall apply to both such parties.
 
-(2) The Director shall not himself act for either party referred to in subsection (1) but shall assign a solicitor to be selected by the aided person, if he so desires, or otherwise by the Director from the appropriate panel of solicitors maintained pursuant to section 4, to act for each aided person.
+(2) The Director shall not himself act for either party referred to in subsection (1) but shall assign a solicitor to be selected by the Director from the appropriate panel of solicitors maintained pursuant to section 4, to act for each aided person.
 
-### Endorsement and filing of certificate
+[Act 6 of 2013 wef 01/07/2013]
 
-12\.—(1) Where a legal aid certificate is granted, the Director may act for the aided person or may assign a solicitor to be selected by the aided person, if he so desires, or otherwise by the Director from the appropriate panel of solicitors maintained pursuant to section 4 so to act, and in such case shall endorse on the legal aid certificate the name of the solicitor so assigned.
+### Endorsement and filing of Grant of Aid
 
-(2) In any case where a solicitor is assigned to act after such certificate is filed in court, or in any case where a new assignment is made in lieu of a solicitor assigned previously, the Director shall not be required to endorse on the certificate the name of the solicitor so assigned, or newly assigned, as the case may be, but may, instead, give notice of such assignment or new assignment by letter to the proper officer of the court in which proceedings are pending.
+12\.—(1) Where a Grant of Aid is issued, the Director may act for the aided person or may select a solicitor from the appropriate panel of solicitors maintained pursuant to section 4 and assign that solicitor to act for the aided person.
 
-(3) Before taking any other step in the proceedings, the Director or the solicitor so assigned shall file the legal aid certificate in the registry of the court in which the proceedings are pending or are to be taken and no court fee shall be charged in respect of the filing of the certificate.
+[Act 6 of 2013 wef 01/07/2013]
 
-(4) Where any legal aid certificate is so filed, the aided person —
+(2) A fresh Grant of Aid shall be filed with the court in which any proceedings are taken or are pending in any case where —
 
-(a) shall not be liable in respect of any proceedings to which the certificate relates for court fees or for such fees payable for the service of process or for any fees due to the Sheriff in connection with the execution of process;
+(a) a solicitor is assigned to act after a Grant of Aid has been filed with the court; or
 
-(b) shall be entitled to be supplied free of charge with a copy of the judge’s notes of evidence in any proceedings to which the certificate relates; and
+(b) a new assignment is made in place of a solicitor previously assigned.
 
-(c) shall not, except where express provision is made in this Act, be liable for costs to any other party in any proceedings to which the certificate relates.
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Before taking any other step in the proceedings, the Director or the solicitor so assigned shall file the Grant of Aid with the court in which the proceedings are to be taken or are pending and no fee shall be charged in respect of the filing of the Grant of Aid.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(4) Where any Grant of Aid is so filed, the aided person —
+
+(a) shall not be liable in respect of any proceedings to which the Grant of Aid relates for court fees or for such fees payable for the service of process or for any fees due to the Sheriff or bailiff in connection with the execution of process;
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(b) shall be entitled to be supplied free of charge with a copy of the judge’s notes of evidence in any proceedings to which the Grant of Aid relates;
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(c) shall not, except where express provision is made in this Act, be liable for costs to any other party in any proceedings to which the Grant of Aid relates; and
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(d) shall not be liable to pay any deposit which would have been payable to the Official Assignee under the rules made under section 166 of the Bankruptcy Act (Cap. 20), where legal aid has been granted to the aided person to commence bankruptcy proceedings against a debtor.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (5) Subject to sections 9 and 13, no person who, pursuant to any reference under this Act, makes any investigation or report or gives any opinion or who pursuant to any assignment under this Act conducts any proceedings shall take or agree to take or seek from an aided person any fee, profit or reward (pecuniary or otherwise) in respect thereof.
 
+(6) For the avoidance of doubt, the Director may take proceedings —
+
+(a) to enforce or give effect to any order or agreement for the recovery or preservation of property for the benefit of the aided person where, in respect of such property, there is a charge created under section 9(2) in favour of any fund established under this Act;
+
+(b) to enforce or give effect to any order or agreement for the payment of costs to an aided person in any proceedings to which an aided person is a party; or
+
+(c) to recover any sum due to any fund established under this Act from any person,
+
+and in such event —
+
+(i) no Grant of Aid shall be required in respect of the proceedings taken by the Director; and
+
+(ii) subsection (4) shall apply to the proceedings taken by the Director as if the proceedings were taken by an aided person.
+
+[Act 6 of 2013 wef 01/07/2013]
+
 ### Deposit in respect of out-of-pocket expenses
 
-13\.—(1) The Director may require any applicant for legal aid or any person to whom a legal aid certificate has been granted and who is not liable to make a contribution to deposit with him such amounts at such times as the Director may think fit to be used in or towards meeting out-of-pocket expenses (not including office expenses) incurred in connection with the application or with any proceedings to which the application or the legal aid certificate relates.
+13\.—(1) The Director may require any applicant for legal aid or any person to whom a Grant of Aid is issued to deposit with him such amounts at such times as the Director may think fit to be used in or towards meeting out-of-pocket expenses (not including office expenses) incurred in connection with the application or with any proceedings to which the application or the Grant of Aid relates.
 
-(2) Any amounts so deposited shall be used only for the payment of such out-of-pocket expenses and any part of any such amount not so expended shall be refunded.
+[Act 6 of 2013 wef 01/07/2013]
+
+(2) Any amount deposited under subsection (1) shall be used only to pay —
+
+(a) firstly, the out-of-pocket expenses referred to in that subsection; and
+
+(b) thereafter, any outstanding contribution the applicant is required to pay under section 9(1).
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(2A) After the payments referred to in subsection (2)(a) and (b) have been made, the balance of the amount deposited under subsection (1), if any, shall be refunded to the applicant or the aided person, as the case may be.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (3) In any case where the Director is satisfied that the making of a deposit under subsection (1) would occasion hardship, the Director may, out of any funds in his control which are available for the purpose, from time to time, meet any out-of-pocket expenses (not including office expenses) or make such advances to meet such out-of-pocket expenses as he may consider necessary.
 
 (4) Any advance so made shall be used only for payment of such out-of-pocket expenses and any part of such amount not so expended shall be refunded to the Director.
 
+(5) Where the Director has made any advance out of the funds in his control to meet out-of-pocket expenses under subsection (3), the Director may require the applicant or the aided person, as the case may be, in respect of whom those expenses are incurred to repay to the Director any amount expended or advanced in such manner as the Director thinks fit.
+
+[Act 6 of 2013 wef 01/07/2013]
+
 ### Court may order payment of costs by aided person in certain event
 
-14\.—(1) Where it appears to a court or a judge that a legal aid certificate has been obtained by fraud or misrepresentation, the court or the judge may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+14\.—(1) Where it appears to a court that a Grant of Aid has been obtained by fraud or misrepresentation, the court may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
 
-(2) In subsection (1), a reference to an “aided person” includes, in any case where the legal aid certificate has been cancelled before the making of the order, the person who immediately before the cancellation was the aided person.
+[Act 6 of 2013 wef 01/07/2013]
 
-(3) Where it appears to a court or a judge that an aided person has acted improperly in bringing or defending any legal proceedings or in the conduct of them, the court or the judge may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+(2) In subsection (1), a reference to an “aided person” includes, in any case where the Grant of Aid has been cancelled before the making of the order, the person who immediately before the cancellation was the aided person.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Where it appears to a court that an aided person has acted improperly in bringing or defending any legal proceedings or in the conduct of them, the court may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (4) Where an order is made under subsection (1) or (3), the costs shall be taxed as if the party ordered to pay costs were not an aided person.
 
@@ -324,7 +460,7 @@ the Director may require the applicant to make a contribution in one sum or by i
 
 (3) For the purposes of subsection (2), the moneys recovered in respect of costs shall be deemed to be so much of the total amount so recovered as exceeds the amount (if any) recoverable by the aided person otherwise than as costs.
 
-(4) Where any moneys are recovered by a person to whom a legal aid certificate has been granted and who is not liable to make a contribution (whether in proceedings or by virtue of a settlement or compromise), he shall, subject to this subsection, be liable to pay, out of moneys so recovered, to the Director the aggregate amount of the sums paid or payable by the Director on his account and, where such person has been represented in the proceedings by the Director, such sums as would in the opinion of the Director have been payable on his account had he been represented by a solicitor assigned to him:
+(4) Where any moneys are recovered by a person to whom a Grant of Aid has been issued and who is not liable to make a contribution (whether in proceedings or by virtue of a settlement or compromise), he shall, subject to this subsection, be liable to pay, out of moneys so recovered, to the Director the aggregate amount of the sums paid or payable by the Director on his account and, where such person has been represented in the proceedings by the Director, such sums as would in the opinion of the Director have been payable on his account had he been represented by a solicitor assigned to him:
 
 Provided that —
 
@@ -338,6 +474,8 @@ Provided that —
 
 whichever is the lower.
 
+[Act 6 of 2013 wef 01/07/2013]
+
 (5) Without prejudice to the generality of subsections (1), (2), (3) and (4), “costs” includes —
 
 (a) counsel’s fees, whether or not the same have been paid;
@@ -350,29 +488,45 @@ whichever is the lower.
 
 ### Stay of proceedings upon making of application for legal aid
 
-17\.—(1) Where litigation has been instituted and any party makes an application for legal aid, the Director shall, as soon as practicable after the application is made, notify the other party or each of the other parties, and file in the court in which the litigation is pending, a memorandum of such notification and no fee shall be charged in respect of the filing of the memorandum.
+17\.—(1) Where proceedings have been commenced and any party makes an application for legal aid, the Director shall, as soon as practicable after the application is made, notify the other party or each of the other parties, and file with the court in which the proceedings are pending, a notification in a prescribed form and no fee shall be payable in respect of the filing of the notification.
 
-(2) Where any memorandum is so filed, then, unless otherwise ordered by a judge of the court in which the litigation is pending, all proceedings in the litigation shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by any such judge), time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run:
+[Act 6 of 2013 wef 01/07/2013]
+
+(2) Where any notification is so filed, then, unless otherwise ordered by the court before which the proceedings are pending, all steps in the proceedings shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by the court), time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run:
 
 Provided that —
 
-(a) the filing of the memorandum shall not operate to prevent the making of —
+(a) the filing of the notification shall not operate to prevent the making of —
 
 (i) an interlocutory order for an injunction or for the appointment of a receiver or manager or receiver and manager;
 
 (ii) an order to prevent the lapse of a caveat against dealings with land; or
 
-(iii) any other order which, in the opinion of a judge of the court in which the litigation is pending, is necessary to prevent an irremediable injustice; and
+(iii) any other order which, in the opinion of the court before which proceedings are pending, is necessary to prevent an irremediable injustice; and
 
-(b) unless otherwise ordered by a judge of the court in which the litigation is pending, the filing of the memorandum shall not operate to prevent the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect any such order as is mentioned in paragraph (a) or a decree to the like effect.
+[Act 6 of 2013 wef 01/07/2013]
 
-(3) The time during which proceedings are stayed by virtue of this section may be reduced or extended by order of a judge of the court in which the litigation is pending.
+(b) unless otherwise ordered by the court before which proceedings are pending, the filing of the memorandum shall not operate to prevent the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect any such order as is mentioned in paragraph (a) or a decree to the like effect.
 
-### Appeals by aided persons
+[Act 6 of 2013 wef 01/07/2013]
 
-18\.—(1) Where a legal aid certificate has been filed in any court, and the proceedings to which the certificate relates have been heard in that court, and the aided person desires to prosecute any appeal or proceedings in the nature of an appeal therefrom, he shall not be entitled to prosecute such appeal or proceedings in the nature of an appeal as an aided person unless he files in the court in which the appeal or proceedings are to be heard a certificate from a solicitor (not being the solicitor who acted for the aided person in the proceedings) nominated by the Director stating that the solicitor has thoroughly examined the appellant’s case and is of the opinion that the appellant has good grounds of appeal, which grounds, together with the reasons therefor, shall be set out in detail in the certificate.
+(3) The time during which proceedings are stayed by virtue of this section may be reduced or extended by order of the court before which proceedings are pending.
 
-(2) If any aided person prosecutes any such appeal or proceedings in the nature of an appeal without having filed the solicitor’s certificate referred to in subsection (1), he shall be deemed not to be an aided person.
+[Act 6 of 2013 wef 01/07/2013]
+
+### Appeal by aided persons
+
+18\.—(1) Where —
+
+(a) a Grant of Aid has been filed in any court, and the proceedings to which the Grant of Aid relates have been heard in that court; and
+
+(b) the aided person desires to prosecute any appeal therefrom,
+
+the aided person must make a fresh application for legal aid to the Director in respect of that matter, and the conditions for the issue of the Grant of Aid set out in section 8 shall apply.
+
+(2) Subsection (1) shall not apply to an appeal in respect of any interlocutory matter in any proceedings.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ### Rules of Court
 
@@ -394,15 +548,31 @@ LEGAL ADVICE
 
 (a) to satisfy the Director that he cannot afford to obtain it in the ordinary way; and
 
-(b) to pay to the Director a fee of one dollar (inclusive of goods and services tax) or such other fee as may be prescribed.
+(b) to pay to the Director a prescribed fee (which shall be inclusive of goods and services tax).
+
+[Act 6 of 2013 wef 01/07/2013]
+
+(5) Where a person who desires to be given legal advice is a minor, the application shall be made on behalf of the minor by his guardian.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ## PART IV
 
 SUPPLEMENTARY
 
-### False statements
+### False or misleading statements, etc.
 
-21\. If any person seeking or receiving legal aid or advice in furnishing any information in his application knowingly makes any false statement or false representation, he shall be guilty of an offence and shall be liable on conviction in a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+21\. If at any time a person seeking or receiving legal aid or legal advice —
+
+(a) knowingly makes any false or misleading statement or representation in his application for legal aid or legal advice;
+
+(b) fails to make full and frank disclosure of his means; or
+
+(c) fails to inform the Director of any changes to his means or circumstances which may render him ineligible for legal aid,
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ### Privileges attaching to certain relationships
 
@@ -410,13 +580,19 @@ SUPPLEMENTARY
 
 (a) the relationship between an applicant for legal aid and the Director and the solicitor (if any) to whom the application is referred;
 
-(b) the relationship between an aided person and the Director and the solicitor (if any) assigned to act for him in any proceedings to which a legal aid certificate relates;
+(b) the relationship between an aided person and the Director and the solicitor (if any) assigned to act for him in any proceedings to which a Grant of Aid relates;
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (c) the relationship between a person seeking legal advice and the Director and the solicitor (if any) who gives the advice.
 
-(2) Notwithstanding anything in subsection (1), the privileges therein referred to shall not arise in relation to any information tendered to the Director concerning the property or income of the applicant for a legal aid certificate.
+(2) Notwithstanding anything in subsection (1), the privileges therein referred to shall not arise in relation to any information tendered to the Director concerning the property or income of the applicant for a Grant of Aid.
 
-(3) Unless this Act or any regulations made thereunder otherwise provide, the rights conferred by this Act on a person receiving legal aid or advice, as the case may be, shall not affect the rights or liabilities of other parties to the proceedings or the principles on which the discretion of any court or tribunal is normally exercised.
+[Act 6 of 2013 wef 01/07/2013]
+
+(3) Unless this Act or any regulations made thereunder otherwise provide, the rights conferred by this Act on a person receiving legal aid or advice, as the case may be, shall not affect the rights or liabilities of other parties to the proceedings or the principles on which the discretion of any court is normally exercised.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ### Regulations
 
@@ -429,6 +605,10 @@ SUPPLEMENTARY
 (b) remit or provide for the remission of any fees or charges in any such proceedings;
 
 (c) make provision as to the cases in which a person may be refused legal aid or advice by reason of his conduct when seeking or receiving legal aid or advice (whether in the same or related matter or in a different matter);
+
+(ca) make provision as to the circumstances a Grant of Aid issued to a person may be cancelled;
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (d) make provision for the recovery of sums due in respect of legal aid and for making effective the charge created by this Act on property recovered or preserved for a person receiving legal aid, including provision —
 
@@ -486,9 +666,15 @@ Description of Proceedings
 
 5\. Proceedings under the Women’s Charter.
 
-6. [Deleted by Act 6/2004 wef 08/03/2004]
+6. Proceedings before the Syariah Court and the Syariah Court Appeal Board under the Administration of Muslim Law Act (Cap. 3).
 
-7\. Proceedings before the Syariah Court.
+[Act 6 of 2013 wef 01/07/2013]
+
+7\. Proceedings before the Commissioner for Labour under the Work Injury Compensation Act (Cap. 354).
+
+7. 
+
+[Act 6 of 2013 wef 01/07/2013]
 
 Part II
 
@@ -526,17 +712,9 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 [S 135/2001 wef 01/04/2001]
 
-2. For the purposes of section 9(1) of the Act —
+2. [Deleted by Act 6 of 2013 wef 01/07/2013]
 
-(a) the amount of disposable capital is $2,000; and
-
-(b) the amount of disposable income is $2,000 per annum.
-
-3. The contribution payable to the Director by any person under section 9(1) of the Act in respect of any proceedings may include —
-
-(a) a contribution in respect of property not greater than the amount (if any) by which his disposable capital exceeds $2,000; and
-
-(b) a contribution in respect of income not greater than half the amount (if any) by which his disposable income exceeds $2,000 per annum.
+3. [Deleted by Act 6 of 2013 wef 01/07/2013]
 
 4. For the purposes of the Act —
 
@@ -550,39 +728,55 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 (d) household furniture used by the applicant in his house;
 
-(e) a dwelling-house owned and exclusively used by the applicant and his family as their home assessed at an annual value of not more than $7,800 or a Housing and Development Board flat owned and exclusively used by the applicant and his family as their home;
+(e) a dwelling-house owned and exclusively used by the applicant and his family as their home assessed at an annual value of not more than $13,000 or a Housing and Development Board flat owned and exclusively used by the applicant and his family as their home;
 
 [S 310/2007 wef 01/07/2007]
 
-(f) savings of the applicant of up to $30,000, if he is of the age of 60 years and above; and
+[Act 6 of 2013 wef 01/07/2013]
 
-(g) moneys standing to the credit of the applicant’s account in the Central Provident Fund;
+(f) savings of the applicant of up to $30,000, if he is of the age of 60 years and above;
 
-“disposable income” means the income of the applicant together with the income (if any) of the spouse of the applicant, during the period of 12 months immediately preceding the date of the application, after deducting therefrom —
+[Act 6 of 2013 wef 01/07/2013]
 
-(a) an amount equal to $3,500 per annum for each person totally or partially dependent on the applicant or spouse;
+(g) moneys standing to the credit of the applicant’s account in the Central Provident Fund, including such moneys in the Central Provident Fund withdrawn for investments in accordance with the Central Provident Fund Act (Cap. 36) and the Central Provident Fund (Investment Schemes) Regulations (Cap. 36, Rg 9); and
 
-[S 135/2001 wef 01/04/2001]
+[Act 6 of 2013 wef 01/07/2013]
 
-[S 310/2007 wef 01/07/2007]
+(h) the total surrender value of one or more life policies held by the applicant up to the amount of $46,000;
 
-(b) an amount equal to $4,500 per annum for the applicant;
+[Act 6 of 2013 wef 01/07/2013]
 
-[S 135/2001 wef 01/04/2001]
+“disposable income” means the income of the applicant together with the income (if any) of the applicant’s spouse during the period of 12 months immediately preceding the date of the application, after deducting therefrom —
 
-[S 310/2007 wef 01/07/2007]
+(a) an amount equal to $6,000 for the applicant;
 
-(c) an amount not exceeding $1,000 per annum for rent; and
+(b) an amount equal to $6,000 from the income of the applicant’s spouse, if such income is not disregarded under paragraph 5;
 
-(d) an amount equal to the applicant’s contribution to the Central Provident Fund.
+(c) an amount equal to the total sum contributed by the applicant and his spouse during that period towards the maintenance of each person partially or totally dependent on the applicant or the spouse, subject to a cap of $6,000;
 
-5\. For the purposes of paragraphs 1 and 2, the Director may, in any case where an applicant for legal aid is living separate and apart from his spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, disregard the income of the spouse.
+(d) an amount not exceeding $20,000 for rent;
 
-6.—(1) For the purposes of paragraphs 1 and 2, and without prejudice to any exclusion or deduction provided under paragraph 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
+(e) an amount equal to the applicant’s contributions to the Central Provident Fund during that period; and
+
+(f) an amount equal to the applicant’s spouse’s contributions to the Central Provident Fund during that period, if the spouse’s income is not disregarded under paragraph 5;
+
+[Act 6 of 2013 wef 01/07/2013]
+
+“life policy” has the same meaning as in paragraph 5 of the First Schedule to the Insurance Act (Cap. 142) but does not include any investment-linked policy as defined in paragraph 6 of the First Schedule to that Act.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+5. For the purposes of paragraph 1, the Director may, in any case where an applicant for legal aid is living separate and apart from his spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, disregard the income of the spouse.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+6.—(1) For the purposes of paragraph 1, and without prejudice to any exclusion or deduction provided under paragraph 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
 
 (a) an applicant for legal aid has suffered from sudden physical or mental disability which permanently and severely restricts his capacity to earn an income; and
 
 (b) it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship.
+
+[Act 6 of 2013 wef 01/07/2013]
 
 (2) For the purposes of sub-paragraph (1), the Director may —
 
@@ -604,15 +798,43 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 (a) regard the amount of disposable income set out in paragraph 1(b) to be $5,000 during the period of 6 months immediately preceding the date of the application; and
 
-(b) regard “disposable income” to mean the income of an applicant together with the income (if any) of the spouse of the applicant, during the period of 6 months immediately preceding the date of the application, after deducting therefrom —
+(b) regard “disposable income” to mean the income of an applicant together with the income (if any) of the applicant’s spouse, during the period of 6 months immediately preceding the date of the application, after deducting therefrom —
 
-(i) an amount equal to $1,750 for each person totally or partially dependent on the applicant or the spouse;
+(i) an amount equal to $3,000 for the applicant;
 
-(ii) an amount equal to $2,250 for the applicant;
+(ii) an amount equal to $3,000 from the income of the applicant’s spouse, if such income is not disregarded under paragraph 5;
 
-(iii) an amount not exceeding $500 for rent; and
+(iii) an amount equal to the total sum contributed by the applicant and his spouse during that period towards the maintenance of each person partially or totally dependent on the applicant or the spouse, subject to a cap of $3,000;
 
-(iv) an amount equal to the applicant’s contribution to the Central Provident Fund.
+(iv) an amount not exceeding $10,000 for rent;
+
+(v) an amount equal to the applicant’s contributions to the Central Provident Fund during that period; and
+
+(vi) an amount equal to the applicant’s spouse’s contributions to the Central Provident Fund during that period, if the spouse’s income is not disregarded under paragraph 5.
+
+[Act 6 of 2013 wef 01/07/2013]
+
+8.—(1) For the purposes of paragraph 1, and without prejudice to any exclusion or deduction provided under paragraph 4, the Director may, in any case where an applicant has applied for legal aid in respect of family proceedings, exclude the following property in determining the disposable capital which the applicant is possessed of:
+
+(a) a dwelling-house owned and exclusively used by the applicant and his family as their home if the annual value of the dwelling-house is assessed at not more than $20,000; and
+
+(b) an additional amount equal to $5,000.
+
+(2) In this paragraph, “family proceedings” means any of the following proceedings:
+
+(a) proceedings under the Guardianship of Infants Act (Cap. 122);
+
+(b) proceedings under Part VII of the Women’s Charter (Cap. 353) involving the applicant, his spouse, former spouse or a child of the applicant who is a minor;
+
+(c) any proceedings under Parts VIII and IX of the Women’s Charter involving maintenance for a child of the applicant who is a minor;
+
+(d) proceedings under Part X of the Women’s Charter involving any issue relating to the care, control, custody or maintenance of any child of the applicant who is a minor;
+
+(e) proceedings under sections 52 and 53 of the Administration of Muslim Law Act (Cap. 3) involving the custody, maintenance and education of any child of the applicant who is a minor or the enforcement of an order for the maintenance of such child;
+
+(f) an appeal against an order made by a court in any of the proceedings referred to in sub-paragraphs (a) to (e).
+
+[Act 6 of 2013 wef 01/07/2013]
 
 ## LEGISLATIVE HISTORY
 
@@ -651,3 +873,8 @@ This Legislative History is provided for the convenience of users of the Legal A
 |||(Bill No. 22/2010 published on 17 August 2010)|
 ||Date of Second and Third Readings|16 September 2010|
 ||Date of commencement|1 March 2011|
+|8.|**Act 6 of 2013—Legal Aid and Advice (Amendment) Act 2013**|
+||Date of First Reading|14 January 2013|
+|||(Bill No. 2/2013 published on 14 January 2013)|
+||Date of Second and Third Readings|4 February 2013|
+||Date of commencement|1 July 2013|
