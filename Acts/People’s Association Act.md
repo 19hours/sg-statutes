@@ -390,7 +390,9 @@ Hindi Society (Singapore)
 
 13. 
 
-Institute of Certified Public Accountants of Singapore
+Institute of Singapore Chartered Accountants (formerly known as the Institute of Certified Public Accountants of Singapore)
+
+[S 406/2013 wef 02/07/2013]
 
 14. 
 
@@ -841,6 +843,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|27 December 2010|
 |60.|**2012 Revised Edition—People’s Association Act (Chapter 227)**|
 ||Date of operation|30 November 2012|
+|61.|**G.N. No. S 406/2013—People’s Association Act (Amendment of Schedule) Notification 2013**|
+||Date of commencement|2 July 2013|
 ## COMPARATIVE TABLE
 
 People’s Association Act
