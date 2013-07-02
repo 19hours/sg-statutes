@@ -1158,5 +1158,9 @@ Sections 2(1), 33(1) and 34(1) to (4) and (6)
 
 Designated entities
 
-1\. Institute of Certified Public Accountants of Singapore.
+1. 
+
+Institute of Singapore Chartered Accountants (formerly known as Institute of Certified Public Accountants of Singapore).
+
+[S 402/2013 wef 02/07/2013]
 
