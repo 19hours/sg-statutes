@@ -464,7 +464,9 @@ Singapore Action Group of Elders
 
 31. 
 
-Singapore Amateur Cycling Association
+Singapore Cycling Federation
+
+[S 439/2013 wef 12/07/2013]
 
 32. 
 
@@ -845,6 +847,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of operation|30 November 2012|
 |61.|**G.N. No. S 406/2013—People’s Association Act (Amendment of Schedule) Notification 2013**|
 ||Date of commencement|2 July 2013|
+|62.|**G.N. No. S 439/2013—People’s Association Act (Amendment of Schedule) (No. 2) Notification 2013**|
+||Date of commencement|12 July 2013|
 ## COMPARATIVE TABLE
 
 People’s Association Act
