@@ -2459,7 +2459,41 @@ Any employee of an agent of a Town Council
 
 Any operator of a public service vehicle
 
+)
+
+)
+
+(4A)
+
+Any —
+
+)
+
+(a)
+
+member or employee of a society registered under the Societies Act (Cap. 311);
+
+)
+
+)
+
+)
+
+)
+
 Powers of an authorised officer under —
+
+(b)
+
+member, director or employee of a public company limited by guarantee registered under the Companies Act (Cap. 50); or
+
+)
+
+)
+
+)
+
+)
 
 (a)
 
@@ -2468,6 +2502,26 @@ section 21 of the Act; and
 (b)
 
 sections 86 and 88 of the Act in relation to any offence under section 17 of the Act.
+
+(c)
+
+member of a council established by the Ministry of the Environment and Water Resources,
+
+)
+
+)
+
+)
+
+whose objects or activities relate to environmental public health, environmental protection, living environment improvement or matters connected therewith
+
+)
+
+)
+
+)
+
+)
 
 (5)
 
@@ -2487,13 +2541,15 @@ section 86 of the Act in relation to any offence under section 17, 18 or 19 of t
 
 section 88 of the Act in relation to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations.
 
+[S 442/2013 wef 18/07/2013]
+
 ## LEGISLATIVE HISTORY
 
 Environmental Public Health Act
 
 (CHAPTER 95)
 
-This Legislative History is provided for the convenience of users of the Environmental Public Health Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Betting Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -2572,6 +2628,8 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 11/2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|18.|**G.N. No. S 442/2013—Environmental Public Health Act (Amendment of Fourth Schedule) Notification 2013**|
+||Date of commencement|18 July 2013|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
