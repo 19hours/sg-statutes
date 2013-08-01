@@ -7215,9 +7215,11 @@ Directors and officers
 
 [5/2004]
 
-(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 30AAI of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ, 97 or 292A of the Securities and Futures Act (Cap. 289).
+(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 30AAI of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 46Z, 81P, 81ZJ, 97 or 292A of the Securities and Futures Act (Cap. 289).
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (7) If there is a contravention of subsection (1), the Registrar may, either of his own motion or on the application of any person, direct the members of the company to appoint a director who is ordinarily resident in Singapore if he considers it to be in the interests of the company for such appointment to be made.
 
@@ -17741,6 +17743,11 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|107.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 October 2012 (Bill No. 31/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|1 August 2013|
 ## COMPARATIVE TABLE
 
 Companies Act
