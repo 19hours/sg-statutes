@@ -152,6 +152,102 @@
 
 - [46AAB Approval of transfer](#Approval-of-transfer)
 
+[**Part IIA TRADE REPOSITORIES**](#Part-IIA)
+
+- [46A Objectives of this Part](#Objectives-of-this-Part)
+
+- [46B Interpretation of this Part](#Interpretation-of-this-Part)
+
+[**Division 1  Licensing of Trade Repositories**](#Division-1--Licensing-of-Trade-Repositories)
+
+- [46C Holding out as licensed trade repository or licensed foreign trade repository](#Holding-out-as-licensed-trade-repository-or-licensed-foreign-trade-repository)
+
+- [46D Application for licence](#Application-for-licence)
+
+- [46E Power of Authority to grant trade repository licence or foreign trade repository licence](#Power-of-Authority-to-grant-trade-repository-licence-or-foreign-trade-repository-licence)
+
+- [46F Annual fees payable by licensed trade repository or licensed foreign trade repository](#Annual-fees-payable-by-licensed-trade-repository-or-licensed-foreign-trade-repository)
+
+- [46G Cancellation of trade repository licence or foreign trade repository licence](#Cancellation-of-trade-repository-licence-or-foreign-trade-repository-licence)
+
+- [46H Power of Authority to revoke trade repository licence or foreign trade repository licence](#Power-of-Authority-to-revoke-trade-repository-licence-or-foreign-trade-repository-licence)
+
+[**Division 2  Regulation of Licensed Trade Repositories**](#Division-2--Regulation-of-Licensed-Trade-Repositories)
+
+[**Subdivision (1) — Obligations of licensed trade repositories**](#Subdivision-1-—-Obligations-of-licensed-trade-repositories)
+
+- [46I General obligations](#General-obligations)
+
+- [46J Obligation to manage risks prudently](#Obligation-to-manage-risks-prudently)
+
+- [46K Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
+
+- [46L Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
+
+- [46M Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
+
+- [46N Obligation to assist Authority](#Obligation-to-assist-Authority)
+
+- [46O Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
+
+- [46P Penalties under this Subdivision](#Penalties-under-this-Subdivision)
+
+[**Subdivision (2) — Rules of licensed trade repositories**](#Subdivision-2-—-Rules-of-licensed-trade-repositories)
+
+- [46Q Business rules of licensed trade repositories](#Business-rules-of-licensed-trade-repositories)
+
+- [46R Business rules of licensed trade repositories have effect as contract](#Business-rules-of-licensed-trade-repositories-have-effect-as-contract)
+
+- [46S Power of court to order observance or enforcement of business rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules)
+
+- [46T Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
+
+[**Subdivision (3) — Matters requiring approval of Authority**](#Subdivision-3-—-Matters-requiring-approval-of-Authority)
+
+- [46U Control of substantial shareholding in licensed trade repository](#Control-of-substantial-shareholding-in-licensed-trade-repository)
+
+- [46V Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
+
+[**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
+
+- [46W Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
+
+- [46X Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+
+- [46Y Emergency powers of Authority](#Emergency-powers-of-Authority)
+
+- [46Z Power of Authority to remove officers of licensed trade repository](#Power-of-Authority-to-remove-officers-of-licensed-trade-repository)
+
+[**Subdivision (5) — Immunity**](#Subdivision-5-—-Immunity)
+
+- [46ZA Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+
+[**Division 3  Regulation of Licensed Foreign Trade Repositories**](#Division-3--Regulation-of-Licensed-Foreign-Trade-Repositories)
+
+- [46ZB General obligations](#General-obligations)
+
+- [46ZC Obligation to manage risks prudently](#Obligation-to-manage-risks-prudently)
+
+- [46ZD Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
+
+- [46ZE Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
+
+- [46ZF Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
+
+- [46ZG Obligation to assist Authority](#Obligation-to-assist-Authority)
+
+- [46ZH Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
+
+- [46ZI Penalties under this Division](#Penalties-under-this-Division)
+
+[**Division 4  General Powers of Authority**](#Division-4--General-Powers-of-Authority)
+
+- [46ZJ Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+
+- [46ZK Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+
+- [46ZL Power of Authority to exempt licensed trade repository or licensed foreign trade repository from provisions of this Part](#Power-of-Authority-to-exempt-licensed-trade-repository-or-licensed-foreign-trade-repository-from-provisions-of-this-Part)
+
 [**Part III CLEARING FACILITIES**](#Part-III)
 
 - [47 Objectives of this Part](#Objectives-of-this-Part)
@@ -160,129 +256,129 @@
 
 [**Division 1  Establishment of Clearing Facilities**](#Division-1--Establishment-of-Clearing-Facilities)
 
-- [49 Requirement to notify](#Requirement-to-notify)
+- [49 Requirement for approval or recognition](#Requirement-for-approval-or-recognition)
 
-- [50 Provision of information to Authority](#Provision-of-information-to-Authority)
+- [50 Application for approval or recognition](#Application-for-approval-or-recognition)
 
-- [51 Notification of change of particulars](#Notification-of-change-of-particulars)
+- [51 Power of Authority to approve or recognise clearing house](#Power-of-Authority-to-approve-or-recognise-clearing-house)
 
-- [52 Obligation to assist Authority](#Obligation-to-assist-Authority)
+- [52 General criteria to be taken into account by Authority](#General-criteria-to-be-taken-into-account-by-Authority)
 
-- [53 Exemption](#Exemption)
+- [53 Annual fees payable by approved clearing house or recognised clearing house](#Annual-fees-payable-by-approved-clearing-house-or-recognised-clearing-house)
 
-- [54 Power to stop commencement or order cessation](#Power-to-stop-commencement-or-order-cessation)
+- [54 Change in status](#Change-in-status)
 
-[**Division 2  Designation of Persons Operating Clearing Facilities**](#Division-2--Designation-of-Persons-Operating-Clearing-Facilities)
+- [55 Cancellation of approval or recognition](#Cancellation-of-approval-or-recognition)
 
-- [55 Designation of persons operating clearing facilities](#Designation-of-persons-operating-clearing-facilities)
+- [56 Power of Authority to revoke approval and recognition](#Power-of-Authority-to-revoke-approval-and-recognition)
 
-- [56 Prohibition on holding out](#Prohibition-on-holding-out)
+[**Division 2  Regulation of Approved Clearing Houses**](#Division-2--Regulation-of-Approved-Clearing-Houses)
 
-- [57 General criteria to be taken into account by Authority](#General-criteria-to-be-taken-into-account-by-Authority)
+[**Subdivision (1) — Obligations of approved clearing houses**](#Subdivision-1-—-Obligations-of-approved-clearing-houses)
 
-- [58 Withdrawal of designation](#Withdrawal-of-designation)
+- [57 General obligations](#General-obligations)
 
-[**Division 3  Regulation of Designated Clearing Houses**](#Division-3--Regulation-of-Designated-Clearing-Houses)
+- [58 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
 
-[**Subdivision (1) — Obligations of designated clearing houses**](#Subdivision-1-—-Obligations-of-designated-clearing-houses)
+- [59 Obligation to manage risks prudently, etc.](#Obligation-to-manage-risks-prudently-etc)
 
-- [59 General obligations](#General-obligations)
+- [60 Obligation in relation to customers’ money and assets held by approved clearing house](#Obligation-in-relation-to-customers’-money-and-assets-held-by-approved-clearing-house)
 
-- [60 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
+- [61 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
 
-- [61 Obligation to manage risks prudently](#Obligation-to-manage-risks-prudently)
+- [62 Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
 
-- [62 Obligation in relation to customers’ money and assets held by designated clearing house](#Obligation-in-relation-to-customers’-money-and-assets-held-by-designated-clearing-house)
+- [63 Obligation to assist Authority](#Obligation-to-assist-Authority)
 
-- [63 Permissible use of customers’ money and assets by designated clearing house](#Permissible-use-of-customers’-money-and-assets-by-designated-clearing-house)
+- [64 Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
 
-- [64 Permissible investments of customers’ money and assets by designated clearing house](#Permissible-investments-of-customers’-money-and-assets-by-designated-clearing-house)
+- [65 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-- [65 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
+[**Subdivision (2) — Rules of approved clearing houses**](#Subdivision-2-—-Rules-of-approved-clearing-houses)
 
-- [66 Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
+- [66 Business rules of approved clearing houses](#Business-rules-of-approved-clearing-houses)
 
-- [67 Obligation to assist Authority](#Obligation-to-assist-Authority)
+- [67 Business rules of approved clearing houses have effect as contract](#Business-rules-of-approved-clearing-houses-have-effect-as-contract)
 
-- [68 Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
+- [68 Power of court to order observance or enforcement of business rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules)
 
-- [69 Annual fees payable by designated clearing house](#Annual-fees-payable-by-designated-clearing-house)
-
-- [70 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
-
-[**Subdivision (2) — Rules of designated clearing houses**](#Subdivision-2-—-Rules-of-designated-clearing-houses)
-
-- [71 Business rules of designated clearing houses](#Business-rules-of-designated-clearing-houses)
-
-- [72 Business rules of designated clearing houses have effect as contract](#Business-rules-of-designated-clearing-houses-have-effect-as-contract)
-
-- [73 Power of court to order observance or enforcement of business rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules)
-
-- [74 Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
+- [69 Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
 
 [**Subdivision (3) — Matters requiring approval of Authority**](#Subdivision-3-—-Matters-requiring-approval-of-Authority)
 
-- [75 Control of substantial shareholding in designated clearing houses](#Control-of-substantial-shareholding-in-designated-clearing-houses)
+- [70 Control of substantial shareholding in approved clearing house](#Control-of-substantial-shareholding-in-approved-clearing-house)
 
-- [76 Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
+- [71 Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
 
-- [77 Listing of designated clearing houses on securities market](#Listing-of-designated-clearing-houses-on-securities-market)
+- [72 Listing of approved clearing houses on securities market](#Listing-of-approved-clearing-houses-on-securities-market)
 
-[**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
+- [73 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
 
-- [78 Power to impose conditions or restrictions](#Power-to-impose-conditions-or-restrictions)
+[**Subdivision (4) — Immunity**](#Subdivision-4-—-Immunity)
 
-- [79 Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+- [74 Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
 
-- [80 Power to order cessation of designated clearing houses](#Power-to-order-cessation-of-designated-clearing-houses)
+[**Division 3  Regulation of Recognised Clearing Houses**](#Division-3--Regulation-of-Recognised-Clearing-Houses)
 
-- [80A Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
+- [75 General obligations](#General-obligations)
 
-- [81 Emergency powers of Authority](#Emergency-powers-of-Authority)
+- [76 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
 
-- [81A Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
+- [77 Obligation in relation to customers’ money and assets held by recognised clearing house](#Obligation-in-relation-to-customers’-money-and-assets-held-by-recognised-clearing-house)
 
-- [81B Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+- [78 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
 
-- [81C Power of Authority to exempt designated clearing houses from provisions of this Part](#Power-of-Authority-to-exempt-designated-clearing-houses-from-provisions-of-this-Part)
+- [79 Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
 
-[**Subdivision (5) — Immunity**](#Subdivision-5-—-Immunity)
+- [80 Obligation to assist Authority](#Obligation-to-assist-Authority)
 
-- [81D Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+- [81 Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
+
+- [81A Penalties under this Division](#Penalties-under-this-Division)
 
 [**Division 4  Insolvency**](#Division-4--Insolvency)
 
-- [81E Application of this Division](#Application-of-this-Division)
+- [81B Application of this Division](#Application-of-this-Division)
 
-- [81F Proceedings of designated clearing house shall take precedence over law of insolvency](#Proceedings-of-designated-clearing-house-shall-take-precedence-over-law-of-insolvency)
+- [81C Proceedings of approved clearing house or recognised clearing house shall take precedence over law of insolvency](#Proceedings-of-approved-clearing-house-or-recognised-clearing-house-shall-take-precedence-over-law-of-insolvency)
 
-- [81G Supplementary provisions as to default proceedings](#Supplementary-provisions-as-to-default-proceedings)
+- [81D Supplementary provisions as to default proceedings](#Supplementary-provisions-as-to-default-proceedings)
 
-- [81H Duty to report on completion of default proceedings](#Duty-to-report-on-completion-of-default-proceedings)
+- [81E Duty to report on completion of default proceedings](#Duty-to-report-on-completion-of-default-proceedings)
 
-- [81I Net sum payable on completion of default proceedings](#Net-sum-payable-on-completion-of-default-proceedings)
+- [81F Net sum payable on completion of default proceedings](#Net-sum-payable-on-completion-of-default-proceedings)
 
-- [81J Disclaimer of onerous property, rescission of contracts, etc.](#Disclaimer-of-onerous-property-rescission-of-contracts-etc)
+- [81G Disclaimer of onerous property, rescission of contracts, etc.](#Disclaimer-of-onerous-property-rescission-of-contracts-etc)
 
-- [81K Adjustment of prior transactions](#Adjustment-of-prior-transactions)
+- [81H Adjustment of prior transactions](#Adjustment-of-prior-transactions)
 
-- [81L Right of relevant office holder to recover certain amounts arising from certain transactions](#Right-of-relevant-office-holder-to-recover-certain-amounts-arising-from-certain-transactions)
+- [81I Right of relevant office holder to recover certain amounts arising from certain transactions](#Right-of-relevant-office-holder-to-recover-certain-amounts-arising-from-certain-transactions)
 
-- [81M Application of market collateral not affected by certain other interest, etc.](#Application-of-market-collateral-not-affected-by-certain-other-interest-etc)
+- [81J Application of market collateral not affected by certain other interest, etc.](#Application-of-market-collateral-not-affected-by-certain-other-interest-etc)
 
-- [81N Enforcement of judgments over property subject to market charge, etc.](#Enforcement-of-judgments-over-property-subject-to-market-charge-etc)
+- [81K Enforcement of judgments over property subject to market charge, etc.](#Enforcement-of-judgments-over-property-subject-to-market-charge-etc)
 
-- [81O Law of insolvency in other jurisdictions](#Law-of-insolvency-in-other-jurisdictions)
+- [81L Law of insolvency in other jurisdictions](#Law-of-insolvency-in-other-jurisdictions)
 
-- [81P Participant to be party to certain transactions as principal](#Participant-to-be-party-to-certain-transactions-as-principal)
+- [81M Participant to be party to certain transactions as principal](#Participant-to-be-party-to-certain-transactions-as-principal)
 
-- [81Q Preservation of rights, etc.](#Preservation-of-rights-etc)
+- [81N Preservation of rights, etc.](#Preservation-of-rights-etc)
 
-- [81R Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+- [81O Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
 
 [**Division 5  General Powers of Authority**](#Division-5--General-Powers-of-Authority)
 
-- [81S Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+- [81P Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
+
+- [81Q Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+
+- [81R Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+
+- [81S Emergency powers of Authority](#Emergency-powers-of-Authority)
+
+- [81SA Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
+
+- [81SB Power of Authority to exempt approved clearing house or recognised clearing house from provisions of this Part](#Power-of-Authority-to-exempt-approved-clearing-house-or-recognised-clearing-house-from-provisions-of-this-Part)
 
 [**Part IIIA APPROVED HOLDING COMPANIES**](#Part-IIIA)
 
@@ -334,7 +430,7 @@
 
 - [81ZH Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
 
-- [81ZI Power of Authority to exempt approved holding companies from provisions of this Part](#Power-of-Authority-to-exempt-approved-holding-companies-from-provisions-of-this-Part)
+- [81ZI Power of Authority to exempt approved holding company from provisions of this Part](#Power-of-Authority-to-exempt-approved-holding-company-from-provisions-of-this-Part)
 
 - [81ZJ Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
 
@@ -636,7 +732,7 @@
 
 - [137Z Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (3) — Disclosure by holders of voting shares inresponsible person**](#Subdivision-3-—-Disclosure-by-holders-of-voting-shares-inresponsible-person)
+[**Subdivision (1) — Disclosure by holders of voting shares inresponsible person**](#Subdivision-1-—-Disclosure-by-holders-of-voting-shares-inresponsible-person)
 
 - [137ZA Duty of holders of voting shares in responsible person to notify responsible person](#Duty-of-holders-of-voting-shares-in-responsible-person-to-notify-responsible-person)
 
@@ -1312,7 +1408,7 @@
 
 - [329 Duty not to furnish false information to Authority](#Duty-not-to-furnish-false-information-to-Authority)
 
-- [330 Duty not to furnish false statements to securities exchange, futures exchange, designated clearing house and Securities Industry Council](#Duty-not-to-furnish-false-statements-to-securities-exchange-futures-exchange-designated-clearing-house-and-Securities-Industry-Council)
+- [330 Duty not to furnish false statements to securities exchange, futures exchange, licensed trade repository, approved clearing house, recognised clearing house and Securities Industry Council](#Duty-not-to-furnish-false-statements-to-securities-exchange-futures-exchange-licensed-trade-repository-approved-clearing-house-recognised-clearing-house-and-Securities-Industry-Council)
 
 - [331 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
 
@@ -1362,7 +1458,9 @@ REVISED EDITION 2006
 
 (1st April 2006)
 
-An Act relating to the regulation of activities and institutions in the securities and futures industry, including leveraged foreign exchange trading, and of clearing facilities, and for matters connected therewith.
+An Act relating to the regulation of activities and institutions in the securities, futures and derivatives industry, including leveraged foreign exchange trading, and of clearing facilities, and for matters connected therewith.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 [1st January 2002: Parts I, VIII, IX, X and XV (except section 314), First and Second Schedules ;
 
@@ -1392,6 +1490,10 @@ PRELIMINARY
 
 [2/2009 wef 26/11/2010]
 
+“approved clearing house” means a corporation that is approved by the Authority under section 51(1)(a) as an approved clearing house;
+
+[Act 34 of 2012 wef 01/08/2013]
+
 “approved exchange” means a corporation that is approved by the Authority under section 8(1) as an approved exchange;
 
 “approved holding company” means a corporation that is approved by the Authority under section 81W as an approved holding company;
@@ -1414,13 +1516,15 @@ PRELIMINARY
 
 “book” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any other electronic form or otherwise;
 
-“business rules”, in relation to an approved holding company, a securities exchange, a futures exchange, a recognised market operator or a designated clearing house, means the rules, regulations, by-laws or such similar body of statements, by whatever name called, that govern the activities and conduct of —
+“business rules”, in relation to an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house or a recognised clearing house, means the rules, regulations, by-laws or such similar body of statements, by whatever name called, that govern the activities and conduct of —
 
-(a) the approved holding company, securities exchange, futures exchange, recognised market operator or designated clearing house and its members; and
+(a) the approved holding company, securities exchange, futures exchange, recognised market operator, approved clearing house or recognised clearing house and its members, or the licensed trade repository or licensed foreign trade repository and its participants; and
 
 (b) other persons in relation to it,
 
-whether or not those rules, regulations, by-laws or similar body of statements are made by the approved holding company, securities exchange, futures exchange, recognised market operator or designated clearing house or are contained in its constituent documents, but does not include the listing rules of a securities exchange or recognised market operator (which is an overseas securities exchange);
+whether or not those rules, regulations, by-laws or similar body of statements are made by the approved holding company, securities exchange, futures exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house or recognised clearing house or are contained in its constituent documents; but does not include the listing rules of a securities exchange or recognised market operator (which is an overseas securities exchange);
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
@@ -1432,11 +1536,13 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 “chief executive officer” —
 
-(a) in relation to an approved exchange, a recognised market operator, a designated clearing house, a person operating a clearing facility, an approved holding company or the holder of a capital markets services licence, means any person, by whatever name called, who is —
+(a) in relation to an approved exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company or the holder of a capital markets services licence, means any person, by whatever name called, who is —
 
-(i) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be; and
+(i) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house, approved holding company or holder of a capital markets services licence, as the case may be; and
 
-(ii) principally responsible for the management and conduct of the business of the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be, in Singapore; or
+(ii) principally responsible for the management and conduct of the business of the approved exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house, approved holding company or holder of a capital markets services licence, as the case may be, in Singapore; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (b) in relation to a corporation (other than one referred to in paragraph (a)), means any person, by whatever name called, who is in the direct employment of, or acting for or by arrangement with, the corporation, and who is principally responsible for the management and conduct of the business of the corporation;
 
@@ -1516,7 +1622,9 @@ but does not include —
 
 (xii) an arrangement which is an arrangement, or is of a class or description of arrangements, specified by the Authority as not constituting a collective investment scheme by notice published in theGazette;
 
-“commodity”, in relation to a futures contract, means gold or any produce, item, goods, article or financial instrument, and includes an index, right or interest in such commodity other than a financial instrument; and such other index, right or interest of any nature as the Authority may, by notification in theGazette, prescribe to be a commodity;
+“commodity” means gold or any produce, item, goods, article or financial instrument, and includes an index, right or interest in such commodity other than a financial instrument; and such other index, right or interest of any nature as the Authority may, by notification in theGazette, prescribe to be a commodity;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1550,7 +1658,7 @@ and a reference in this Act to a person connected to another person shall be con
 
 but does not include such person or class of persons as may be prescribed; or
 
-(b) for the purposes of Part III and the definition of “user”, a person on whose behalf a member of an approved exchange or a designated clearing house, as the case may be, carries on any activity regulated under this Act, but does not include —
+(b) for the purposes of Part III and the definition of “user”, a person on whose behalf a member of an approved exchange, an approved clearing house or a recognised clearing house, as the case may be, carries on any activity regulated under this Act, but does not include —
 
 (i) the member, with respect to dealings for the member’s own account;
 
@@ -1559,6 +1667,8 @@ but does not include such person or class of persons as may be prescribed; or
 (iii) a related corporation of the member, with respect to accepted instructions to deal for an account belonging to, and maintained wholly for the benefit of, that related corporation;
 
 [2/2009 wef 29/03/2010]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “dealing in securities” has the meaning given to it in the Second Schedule;
 
@@ -1572,7 +1682,23 @@ but does not include such person or class of persons as may be prescribed; or
 
 “derivative”, in relation to a unit in a business trust, has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
-“designated clearing house” means a person that is designated by the Authority under section 55(1) as a designated clearing house;
+“derivatives contract” —
+
+(a) means any of the following (not being any securities or any futures contract):
+
+(i) a forward contract;
+
+(ii) an option contract;
+
+(iii) a swap contract;
+
+(iv) any contract, arrangement or transaction that is, or that belongs to a class of contracts, arrangements or transactions that is, prescribed by the Authority by regulations made under section 341 for the purposes of this sub-paragraph; but
+
+(b) does not include any contract, arrangement or transaction that is, or that belongs to a class of contracts, arrangements or transactions that is, prescribed by the Authority by regulations made under section 341 for the purposes of this paragraph;
+
+[Act 34 of 2012 wef 01/08/2013]
+
+[Deleted by Act 34 of 2012 wef 01/08/2013]
 
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1596,7 +1722,9 @@ but does not include such person or class of persons as may be prescribed; or
 
 “exempt person” means a person who is exempted under section 99;
 
-“financial instrument” includes any currency, currency index, interest rate instrument, interest rate index, share, share index, stock, stock index, debenture, bond index, a group or groups of such financial instruments, and such other financial instruments as the Authority may by order prescribe;
+“financial instrument” includes any currency, currency index, interest rate, interest rate instrument, interest rate index, share, share index, stock, stock index, debenture, bond index, a group or groups of such financial instruments, and any other thing that is prescribed by the Authority by regulations made under section 341 for the purposes of this definition;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “financial year” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1605,6 +1733,20 @@ but does not include such person or class of persons as may be prescribed; or
 “foreign company” has the same meaning as in section 4(1) of the Companies Act;
 
 “foreign exchange trading” has the meaning given to it in the Second Schedule;
+
+“forward contract” —
+
+(a) means a contract under which one party agrees to transfer title to a specified underlying thing, or a specified quantity of a specified underlying thing, to another party at a specified future time and at a specified price payable at that time, whether or not there is any intention —
+
+(i) to effect an actual delivery of the underlying thing;
+
+(ii) to effect a settlement of any difference in the price or value of the underlying thing or, if the contract relates to 2 or more underlying things, of any difference in the price of one or more of the underlying things; or
+
+(iii) to effect a settlement determined with reference to the underlying thing or, if the contract relates to 2 or more underlying things, determined with reference to one or more of the underlying things; but
+
+(b) does not include a futures contract;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “franchise” means a written agreement or arrangement between 2 or more persons by which —
 
@@ -1656,13 +1798,23 @@ and includes a futures option transaction, but does not include such contract or
 
 “leveraged foreign exchange trading” has the meaning given to it in the Second Schedule;
 
+“licensed foreign trade repository” means a corporation that has in force a foreign trade repository licence granted by the Authority under section 46E(2);
+
+[Act 34 of 2012 wef 01/08/2013]
+
+“licensed trade repository” means a corporation that has in force a trade repository licence granted by the Authority under section 46E(1);
+
+[Act 34 of 2012 wef 01/08/2013]
+
 “limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
 “listing rules”, in relation to a corporation that establishes or operates, or proposes to establish or operate, a securities market of a securities exchange or a recognised market operator, or an overseas securities exchange that establishes or operates or proposes to establish or operate a securities market of a recognised market operator, means rules governing or relating to —
 
 (a) the admission to the official list of the corporation or overseas securities exchange, of corporations, governments, bodies unincorporate or other persons for the purpose of the quotation on the securities market of the corporation or overseas securities exchange of securities issued, or made available by such corporations, governments, bodies unincorporate or other persons, or the removal from that official list and for other purposes; or
 
-(b) the activities or conduct of corporations, governments, bodies unincorporate and other persons who are admitted to that list, whether those rules are made —
+(b) the activities or conduct of corporations, governments, bodies unincorporate and other persons who are admitted to that list,
+
+whether those rules are made —
 
 (i) by the corporation or overseas securities exchange or are contained in any of the constituent documents of the corporation or overseas securities exchange; or
 
@@ -1672,11 +1824,27 @@ and includes a futures option transaction, but does not include such contract or
 
 “market” has the meaning given to it in Part I of the First Schedule;
 
-“member”, in relation to an approved exchange, a recognised market operator or a designated clearing house, means a person who holds membership of any class or description in the approved exchange, recognised market operator or designated clearing house, whether or not he holds any share in the share capital of the approved exchange, recognised market operator or designated clearing house, as the case may be;
+“member”, in relation to an approved exchange, a recognised market operator, an approved clearing house or a recognised clearing house, means a person who holds membership of any class or description in the approved exchange, recognised market operator, approved clearing house or recognised clearing house, whether or not he holds any share in the share capital of the approved exchange, recognised market operator, approved clearing house or recognised clearing house, as the case may be;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “newspaper” has the same meaning as in section 2 of the Newspaper and Printing Presses Act (Cap. 206);
 
 “officer” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“option contract” —
+
+(a) means a contract providing for an option to acquire or dispose of a specified underlying thing, or a specified quantity of a specified underlying thing, whether or not there is any intention —
+
+(i) to effect an actual delivery of the underlying thing;
+
+(ii) to effect a settlement of any difference in the price or value of the underlying thing or, if the contract relates to 2 or more underlying things, of any difference in the price or value of one or more of the underlying things; or
+
+(iii) to effect a settlement determined with reference to the underlying thing or, if the contract relates to 2 or more underlying things, determined with reference to one or more of the underlying things; but
+
+(b) does not include any securities;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “overseas futures exchange” means a person operating a futures market outside Singapore which is regulated by a financial services regulatory authority of a country or territory other than Singapore;
 
@@ -1684,9 +1852,17 @@ and includes a futures option transaction, but does not include such contract or
 
 “participant” means —
 
-(a) for the purposes of Part II, a person who may participate in one or more of the services provided by an approved exchange, a recognised market operator or an exempt market operator, in its capacity as an approved exchange, a recognised market operator or an exempt market operator, respectively;
+(a) for the purposes of Part II, a person who may participate in one or more of the services provided by an approved exchange, a recognised market operator or an exempt market operator, in its capacity as an approved exchange, a recognised market operator or an exempt market operator, as the case may be;
 
-(b) for the purposes of Part III, a person who, under the business rules of a designated clearing house, may participate in one or more of the services provided by the designated clearing house in its capacity as a designated clearing house; or
+[Act 34 of 2012 wef 01/08/2013]
+
+(aa) for the purposes of Part IIA, a person who may participate in one or more of the services provided by a licensed trade repository or licensed foreign trade repository, in its capacity as a licensed trade repository or licensed foreign trade repository, as the case may be;
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(b) for the purposes of Part III, a person who, under the business rules of an approved clearing house or a recognised clearing house, may participate in one or more of the services provided by the approved clearing house or recognised clearing house, in its capacity as an approved clearing house or a recognised clearing house, as the case may be; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (c) for the purposes of any other provision of this Act, a person who participates in a collective investment scheme by way of owning one or more units in a collective investment scheme;
 
@@ -1735,6 +1911,10 @@ and includes a futures option transaction, but does not include such contract or
 “recognised business trust” means a business trust that is recognised by the Authority under section 282TA(1);
 
 [2/2009 wef 01/10/2012]
+
+“recognised clearing house” mean a corporation that is recognised by the Authority under section 51(1)(b) or (2) as a recognised clearing house;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “recognised market operator” means a corporation that is recognised by the Authority under section 8(2) as a recognised market operator;
 
@@ -1816,6 +1996,20 @@ but does not include —
 
 [2/2009 wef 19/11/2012]
 
+“swap contract” —
+
+(a) means a contract for differences, or a contract the purpose or purported purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+
+(i) the value or price of one or more underlying things;
+
+(ii) the value or price of any group of underlying things; or
+
+(iii) an index of one or more underlying things; but
+
+(b) does not include any securities;
+
+[Act 34 of 2012 wef 01/08/2013]
+
 “Take-over Code” means the Singapore Code on Take-overs and Mergers referred to in section 139 which is issued by the Authority under section 321(1);
 
 “take-over offer” means —
@@ -1858,11 +2052,15 @@ and which, if executed, would result in a change in effective control of the pub
 
 “transaction information” means information relating to —
 
-(a) offers or invitations to purchase, sell, or exchange securities or futures contracts;
+(a) offers or invitations to enter into, purchase, sell, or exchange securities, futures contracts or derivatives contracts;
 
-(b) executed transactions in securities or futures contracts; or
+(b) executed transactions in securities, futures contracts or derivatives contracts;
 
-(c) transactions cleared or settled by a designated clearing house;
+(c) transactions cleared or settled by an approved clearing house or a recognised clearing house; or
+
+(d) transactions reported to a licensed trade repository or licensed foreign trade repository;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “treasury share” —
 
@@ -1884,6 +2082,20 @@ and which, if executed, would result in a change in effective control of the pub
 
 [2/2009 wef 19/11/2012]
 
+“underlying thing”, in relation to a forward contract, an option contract or a swap contract —
+
+(a) means —
+
+(i) a commodity;
+
+(ii) the credit of any person; or
+
+(iii) any arrangement, event, index, intangible property, tangible property or transaction that is, or that belongs to a class of arrangements, events, indices, intangible properties, tangible properties or transactions that is, prescribed by the Authority by regulations made under section 341 for the purposes of this sub-paragraph; but
+
+(b) does not include any arrangement, event, index, intangible property, tangible property or transaction that is, or that belongs to a class of arrangements, events, indices, intangible properties, tangible properties or transactions that is, prescribed by the Authority by regulations made under section 341 for the purposes of this paragraph;
+
+[Act 34 of 2012 wef 01/08/2013]
+
 “unit” —
 
 (a) in relation to a collective investment scheme, means a right or interest (however described) in a collective investment scheme (whether or not constituted as an entity), and includes an option to acquire any such right or interest in the collective investment scheme; and
@@ -1898,13 +2110,21 @@ and which, if executed, would result in a change in effective control of the pub
 
 [2/2009 wef 19/11/2012]
 
-“user”, in relation to an approved exchange or a designated clearing house, means a person who is —
+“user” means —
 
-(a) a member; or
+(a) in relation to an approved exchange, an approved clearing house or a recognised clearing house, a person who is —
 
-(b) a customer of a member,
+(i) a member of the approved exchange, approved clearing house or recognised clearing house; or
 
-of the approved exchange or designated clearing house;
+(ii) a customer of a member of the approved exchange, approved clearing house or recognised clearing house; or
+
+(b) in relation to a licensed trade repository or a licensed foreign trade repository, a person who is —
+
+(i) a participant of the licensed trade repository or licensed foreign trade repository; or
+
+(ii) a client of a participant of the licensed trade repository or licensed foreign trade repository;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “user information” means transaction information that is referable to —
 
@@ -4039,729 +4259,471 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 10 of 2013 wef 18/04/2013]
 
-## PART III
+## PART IIA
 
-CLEARING FACILITIES
+TRADE REPOSITORIES
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Objectives of this Part
 
-47\. The objectives of this Part are —
+46A\. The objectives of this Part are —
 
-(a) to promote the safety and efficiency of clearing facilities that support systemically-important markets or form an integral part of the financial infrastructure; and
+(a) to promote safe and efficient trade repositories;
 
-(b) to reduce systemic risk.
+(b) to promote transparent markets through timely and reliable access to information on transactions; and
 
-[1/2005]
+(c) to reduce systemic risks.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Interpretation of this Part
 
-48\.—(1) In this Part, unless the context otherwise requires —
+46B\. In this Part, unless the context otherwise requires —
 
-“default proceedings” means proceedings or other action taken by a designated clearing house under its default rules;
+“foreign trade repository” means a trade repository which is incorporated or formed outside Singapore;
 
-“default rules”, in relation to a designated clearing house, means the business rules of the designated clearing house which provide for the taking of proceedings or other action if a participant has failed, or appears to be unable or to be likely to become unable, to meet his obligations for any unsettled or open market contract to which he is a party;
+“foreign trade repository licence” means a licence that is granted by the Authority to a foreign trade repository under section 46E(2);
 
-[2/2009 wef 29/07/2009]
+“Singapore trade repository” means a trade repository which is incorporated in Singapore;
 
-“defaulter” means a participant who is the subject of any default proceedings;
+“trade repository” means a corporation that collects and maintains information on any transactions relating to any securities, futures contracts or derivatives contracts, or any other transactions or class of transactions that the Authority may prescribe by regulations made under section 341 for the purposes of this definition;
 
-“market charge” means a security interest, whether fixed or floating, granted in favour of a designated clearing house —
+“trade repository licence” means a licence that is granted by the Authority to a Singapore trade repository under section 46E(1).
 
-(a) over property held by or deposited with the designated clearing house; and
-
-(b) to secure liabilities arising directly in connection with the designated clearing house ensuring the performance of a market contract;
-
-“market collateral” means property held by, or deposited with, a designated clearing house for the purpose of securing liabilities arising directly in connection with the designated clearing house ensuring the performance of market contracts;
-
-“market contract” means —
-
-(a) a contract subject to the business rules of a designated clearing house that is entered into between the designated clearing house and a participant pursuant to a novation (however described), whether before or after default proceedings have commenced, which is in accordance with those business rules and for the purposes of the clearing or settlement of transactions using the clearing facility of the designated clearing house; or
-
-(b) a transaction which is being cleared or settled using the clearing facility of a designated clearing house and in accordance with the business rules of the designated clearing house, whether or not a novation referred to in paragraph (a) is to take place;
-
-“property”, in relation to a market charge or market collateral, means —
-
-(a) money, letters of credit, banker’s drafts, certified cheques, guarantees or other similar instruments;
-
-(b) securities;
-
-(c) futures contracts and any similar financial contract; or
-
-(d) other assets of value acceptable to a designated clearing house;
-
-“relevant office holder” means —
-
-(a) the Official Assignee exercising his powers under the Bankruptcy Act (Cap. 20);
-
-(b) a person acting in relation to a company as its liquidator, its provisional liquidator, its receiver, its receiver and manager, its judicial manager or an equivalent person; or
-
-(c) a person acting in relation to an individual as his trustee in bankruptcy, the interim receiver of his property or an equivalent person;
-
-“settlement”, in relation to a market contract, includes partial settlement.
-
-[1/2005]
-
-(2) Where a charge is granted partly for the purpose specified in the definition of “market charge” and partly for any other purpose or purposes, the charge shall be treated as a market charge under this Part insofar as it has effect for that specified purpose.
-
-[1/2005]
-
-(3) Where collateral is granted partly for the purpose specified in the definition of “market collateral” and partly for any other purpose or purposes, the collateral shall be treated as market collateral under this Part insofar as it has been provided for that specified purpose.
-
-[1/2005]
-
-(4) References in this Part to the law of insolvency are references to —
-
-(a) the Bankruptcy Act;
-
-(b) Parts VIIIA, IX and X of the Companies Act (Cap. 50); and
-
-(c) any other written law, whether in Singapore or elsewhere, which is concerned with, or in any way related to, the bankruptcy or insolvency of a person, other than the Banking Act (Cap. 19).
-
-[1/2005]
-
-(5) References in this Part to settlement, in relation to a market contract, are references to the discharge of the rights and liabilities of the parties to the market contract, whether by performance, compromise or otherwise.
-
-[1/2005]
-
-[HK SF Bill, Clause 18]
+[Act 34 of 2012 wef 01/08/2013]
 
 Division 1 —
 
-Establishment of Clearing Facilities
+Licensing of Trade Repositories
 
-### Requirement to notify
+### Holding out as licensed trade repository or licensed foreign trade repository
 
-49\.—(1) Subject to subsection (2), no person shall establish or operate a clearing facility unless that person has notified the Authority of its intent to establish or operate a clearing facility at least 60 business days prior to the establishment, or commencement of operation, of the clearing facility.
+46C\.—(1) No person shall hold himself out —
 
-[1/2005]
+(a) as a licensed trade repository, unless he has in force a trade repository licence granted by the Authority under section 46E(1); or
 
-(2) A person may apply to the Authority to reduce the period referred to in subsection (1) and the Authority may, in its discretion and in relation only to that person, substitute such other period as may be determined by the Authority in place of the period referred to in subsection (1).
+(b) as a licensed foreign trade repository, unless he has in force a foreign trade repository licence granted by the Authority under section 46E(2).
 
-[1/2005]
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
-(3) The notice referred to in subsection (1) shall provide information in such form and manner as may be prescribed by the Authority.
+[Act 34 of 2012 wef 01/08/2013]
 
-[1/2005]
+### Application for licence
 
-(4) The application referred to in subsection (2) shall provide information in such form and manner as may be prescribed by the Authority.
+46D\.—(1) A corporation that is, or intends to be, a Singapore trade repository may apply to the Authority for the grant of a trade repository licence.
 
-[1/2005]
+(2) A corporation that is, or intends to be, a foreign trade repository may apply to the Authority for the grant of a foreign trade repository licence.
 
-(5) The Authority may require a person providing the notice referred to in subsection (1) to furnish the Authority with such information or documents as the Authority considers necessary in relation to the notice.
+(3) An application under subsection (1) or (2) shall be —
 
-[1/2005]
+(a) made in such form and manner as the Authority may prescribe; and
 
-(6) In subsection (1), “business day” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+(b) accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
 
-[1/2005]
+(4) The Authority may require an applicant to furnish the Authority with such information or documents as the Authority considers necessary in relation to the application.
 
-(7) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+[Act 34 of 2012 wef 01/08/2013]
 
-[1/2005]
+### Power of Authority to grant trade repository licence or foreign trade repository licence
 
-(8) Any person who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+46E\.—(1) Where a corporation referred to in section 46D(1) has made an application under that provision, the Authority may grant the corporation a trade repository licence.
 
-[1/2005]
+(2) Where a corporation referred to in section 46D(2) has made an application under that provision, the Authority may grant the corporation a foreign trade repository licence.
 
-### Provision of information to Authority
+(3) The Authority may grant a corporation a trade repository licence under subsection (1) or a foreign trade repository licence under subsection (2) subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing, including conditions or restrictions, either of a general or specific nature, relating to —
 
-50\.—(1) A person operating a clearing facility shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+(a) the activities that the corporation may undertake;
 
-[1/2005]
+(b) the transactions that may be reported to the corporation in its capacity as a trade repository; and
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(c) the nature of the investors or participants who may use or have an interest in the corporation as a trade repository.
 
-[1/2005]
+(4) The Authority may, at any time, by notice in writing to the corporation, vary any condition or restriction or impose such further condition or restriction as the Authority may think fit.
 
-### Notification of change of particulars
+(5) A licensed trade repository or licensed foreign trade repository shall, for the duration of the licence, satisfy every condition or restriction that may be imposed on it under subsection (3) or (4).
 
-51\.—(1) A person operating a clearing facility shall, no later than 14 days after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
+(6) The Authority shall not grant an applicant a trade repository licence or foreign trade repository licence, unless the applicant meets such requirements, including minimum financial requirements, as the Authority may prescribe, either generally or specifically.
 
-(a) a change of its chief executive officer;
+(7) Without prejudice to subsections (3), (4) and (6), the Authority may, for the purposes of granting a foreign trade repository licence under subsection (2), have regard, in addition to any requirements prescribed under subsection (6), to —
 
-(b) a change of the address of the principal place of business at which it carries on the business of operating a clearing facility;
+(a) whether adequate arrangements exist for co-operation between the Authority and the primary financial services regulatory authority responsible for the supervision of the foreign trade repository in the country or territory in which the head office or principal place of business of the foreign trade repository is situated; and
 
-(c) a material change in the business of the clearing facility;
+(b) whether the foreign trade repository is, in the country or territory in which the head office or principal place of business is situated, subject to requirements and supervision comparable, in the degree to which the objectives specified in section 46A are achieved, to the requirements and supervision to which licensed trade repositories are subject under this Act.
 
-(d) an intention to cease operations of the clearing facility;
+(8) In considering whether a foreign trade repository has satisfied the requirements specified in subsection (7)(b), the Authority may have regard to —
 
-(e) such other matter as the Authority may prescribe.
+(a) the relevant laws and practices of the country or territory in which the head office or principal place of business of the foreign trade repository is situated; and
 
-[1/2005]
+(b) the rules and practices of the foreign trade repository acting in its capacity as a trade repository.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(9) The Authority may refuse to grant a corporation a trade repository licence or foreign trade repository licence, if —
 
-[1/2005]
+(a) the corporation has not provided the Authority with such information as the Authority may require, relating to —
 
-### Obligation to assist Authority
+(i) the corporation or any person employed by or associated with the corporation for the purposes of the corporation’s business or operations; or
 
-52\.—(1) A person operating a clearing facility shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+(ii) any circumstances likely to affect the corporation’s manner of conducting business or operations;
 
-(a) such books and other information —
+(b) any information or document provided by the corporation to the Authority is false or misleading;
 
-(i) relating to the business of the clearing facility; or
+(c) the corporation or a substantial shareholder of the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(ii) in respect of any transaction or class of transactions cleared or settled by the clearing facility; and
+(d) execution against the corporation or a substantial shareholder of the corporation in respect of a judgment debt has been returned unsatisfied in whole or in part;
 
-(b) such other information,
+(e) a receiver, a receiver and manager, a judicial manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation or a substantial shareholder of the corporation;
 
-as the Authority may require for the proper administration of this Act.
+(f) the corporation or a substantial shareholder of the corporation has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with the creditors of the corporation or shareholder, as the case may be, being a compromise or scheme of arrangement that is still in operation;
 
-[1/2005]
+(g) the corporation, a substantial shareholder of the corporation or any officer of the corporation —
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(i) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that the corporation, shareholder or officer, as the case may be, had acted fraudulently or dishonestly; or
 
-[1/2005]
+(ii) has been convicted of an offence under this Act committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012;
 
-[Aust. Corporations 2001, s. 779D]
+(h) the Authority is not satisfied as to the educational or other qualifications or experience of the officers or employees of the corporation, having regard to the nature of the duties they are to perform in connection with the establishment or operation of any licensed trade repository or licensed foreign trade repository;
 
-### Exemption
+(i) the corporation fails to satisfy the Authority that the corporation is a fit and proper person or that all of its officers, employees and substantial shareholders are fit and proper persons;
 
-53\. Sections 49, 50 and 51 shall not apply to such persons or class of persons as may be prescribed by the Authority.
+(j) the Authority has reason to believe that the corporation may not be able to act in the best interests of its participants, having regard to the reputation, character, financial integrity and reliability of the corporation or its officers, employees or substantial shareholders;
 
-[1/2005]
+(k) the Authority is not satisfied as to —
 
-### Power to stop commencement or order cessation
+(i) the financial standing of the corporation or any of its substantial shareholders; or
 
-54\.—(1) The Authority may, prior to the end of the notification period referred to in section 49(1) or such other period as may be substituted by the Authority under section 49(2), by notice in writing, order a person who has given notice under section 49(1) not to establish or commence operation of a clearing facility if —
+(ii) the manner in which the business of the corporation is to be conducted, or the operations of the corporation are to be conducted;
 
-(a) the person did not furnish the Authority with such information or documents as required under section 49(5);
+(l) the Authority is not satisfied as to the record of past performance or expertise of the corporation, having regard to the nature of the business or operations which the corporation may carry on or conduct in connection with the establishment or operation of any licensed trade repository or licensed foreign trade repository;
 
-(b) any information or document provided by the person to the Authority is false or misleading; or
+(m) there are other circumstances which are likely to —
 
-(c) the Authority is of the opinion that it is in the interests of the public to do so.
+(i) lead to the improper conduct of business or operations by the corporation or any of its officers, employees or substantial shareholders; or
 
-[1/2005]
+(ii) reflect discredit on the manner of conducting the business or operations of the corporation or any of its substantial shareholders;
 
-(2) The Authority may, by notice in writing, order a person to cease operating its clearing facility if —
+(n) the Authority has reason to believe that the corporation, or any of its officers or employees, will not operate a safe and efficient trade repository; or
 
-(a) the person has contravened any provision of this Act or any other written law in the course of operating its clearing facility;
+(o) the Authority is of the opinion that it would be contrary to the interests of the public to grant the corporation a trade repository licence or foreign trade repository licence.
 
-(b) the person provided any information or document to the Authority that is false or misleading;
+(10) Subject to subsection (11), the Authority shall not refuse to grant a corporation a trade repository licence or foreign trade repository licence under subsection (9) without giving the corporation an opportunity to be heard.
 
-(c) in the opinion of the Authority, the person is operating the clearing facility in a manner that is likely to pose systemic risk to the financial system of Singapore;
+(11) The Authority may refuse to grant a corporation a trade repository licence or foreign trade repository licence on any of the following grounds without giving the corporation an opportunity to be heard:
 
-(d) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+(b) a receiver, a receiver and manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
 
-(f) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(g) the Authority is of the opinion that it is in the interests of the public to do so.
+(12) The Authority shall give notice in theGazetteof any corporation granted a trade repository licence under subsection (1) or a foreign trade repository licence under subsection (2), and such notice may include all or any of the conditions or restrictions imposed by the Authority on the corporation under subsections (3) and (4).
 
-[1/2005]
+(13) Any applicant which is aggrieved by a refusal of the Authority under subsection (6), (9) or (11) to grant to the applicant a trade repository licence or foreign trade repository licence may, within 30 days after the applicant is notified of the refusal, appeal to the Minister, whose decision shall be final.
 
-(3) Subject to subsection (4), the Authority shall not make an order under subsection (1) or (2) without giving the person an opportunity to be heard.
+(14) Any licensed trade repository or licensed foreign trade repository which contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
-(4) The Authority may order a person not to establish or commence operation of a clearing facility under subsection (1) or to cease operating its clearing facility under subsection (2) on any of the following grounds without giving the person an opportunity to be heard:
+### Annual fees payable by licensed trade repository or licensed foreign trade repository
 
-(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+46F\.—(1) Every licensed trade repository and every licensed foreign trade repository shall pay to the Authority such annual fees as may be prescribed in such manner as may be specified by the Authority.
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+(2) The Authority may, where it considers appropriate, refund or remit the whole or any part of any annual fee paid or payable to it.
 
-(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+[Act 34 of 2012 wef 01/08/2013]
 
-[1/2005]
+### Cancellation of trade repository licence or foreign trade repository licence
 
-(5) Any person who is aggrieved by an order of the Authority made in relation to the person under subsection (1) or (2) may, within 30 days after the person is notified of that order, appeal to the Minister whose decision shall be final.
+46G\.—(1) A corporation which intends to cease operating as a licensed trade repository or licensed foreign trade repository may apply to the Authority to cancel its trade repository licence or foreign trade repository licence, as the case may be.
 
-[1/2005]
+(2) An application under subsection (1) shall be made in such form and manner, and not later than such time, as the Authority may prescribe.
+
+(3) The Authority may cancel the trade repository licence or foreign trade repository licence on such application if the Authority is satisfied that the cancellation of the trade repository licence or foreign trade repository licence, as the case may be, will not detract from the objectives specified in section 46A.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to revoke trade repository licence or foreign trade repository licence
+
+46H\.—(1) The Authority may revoke a trade repository licence or foreign trade repository licence granted to a corporation, if —
+
+(a) there exists at any time a ground under section 46E(6) or (9) on which the Authority may refuse an application;
+
+(b) the corporation does not commence operating as a licensed trade repository or licensed foreign trade repository, as the case may be, within 12 months after the date on which it was granted the trade repository licence or foreign trade repository licence, as the case may be;
+
+(c) the corporation ceases to operate as a trade repository;
+
+(d) the corporation contravenes —
+
+(i) any condition or restriction applicable in respect of its trade repository licence or foreign trade repository licence, as the case may be;
+
+(ii) any direction issued to it by the Authority under this Act; or
+
+(iii) any provision in this Act;
+
+(e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
+
+(f) any information or document provided by the corporation to the Authority is false or misleading.
+
+(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) a trade repository licence or foreign trade repository licence that was granted to a corporation without giving the corporation an opportunity to be heard.
+
+(3) The Authority may revoke a trade repository licence or foreign trade repository licence that was granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
+
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
+
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(4) For the purposes of subsection (1)(c), a corporation shall be deemed to have ceased to operate as a trade repository if —
+
+(a) it has ceased to operate as a trade repository for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
+
+(b) it has ceased to operate as a trade repository under a direction issued by the Authority under section 46ZK.
+
+(5) Any corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister, whose decision shall be final.
 
 (6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
 
-[1/2005]
+(7) The Minister may, when deciding an appeal under subsection (5), make such modifications as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
 
-(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority, and such modified action shall have effect from the date of the decision of the Minister.
+(8) Any revocation under subsection (1) or (3) of a trade repository licence or foreign trade repository licence granted to a corporation shall not operate as to affect any report to the corporation made under Part VIA, or any obligation under Part VIA that was satisfied by making a report to the corporation, while the corporation was a licensed trade repository or licensed foreign trade repository, as the case may be.
 
-[1/2005]
+(9) The Authority shall give notice in theGazetteof any revocation under subsection (1) or (3) of a trade repository licence or foreign trade repository licence.
 
-(8) Any order made under subsection (2) shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the person, whether the agreement, transaction or arrangement was entered into before or after the order of the cessation; or
-
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
-
-[1/2005]
-
-(9) Any person who contravenes an order made under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 Division 2 —
 
-Designation of Persons Operating Clearing Facilities
+Regulation of Licensed Trade Repositories
 
-### Designation of persons operating clearing facilities
-
-55\.—(1) The Authority may designate a person operating a clearing facility as a designated clearing house for the purposes of this Act, if it is satisfied that —
-
-(a) a disruption in the operations of the clearing facility could trigger, cause or transmit further systemic disruptions to capital markets or the financial system of Singapore;
-
-(b) a disruption in the operations of the clearing facility could affect public confidence in capital markets, financial institutions or the financial system of Singapore; or
-
-(c) it is in the interests of the public to do so.
-
-[1/2005]
-
-(2) The Authority shall give notice in theGazetteof any person designated under subsection (1).
-
-[1/2005]
-
-(3) A designation by the Authority under subsection (1) shall continue to have effect until it is withdrawn by the Authority.
-
-[1/2005]
-
-(4) The Authority shall not designate any person operating a clearing facility as a designated clearing house without giving that person an opportunity to be heard.
-
-[1/2005]
-
-(5) Any person operating a clearing facility who is aggrieved by a decision of the Authority to designate the person as a designated clearing house under subsection (1) may, within 30 days after the person is notified of the decision, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), the designation by the Authority under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(7) The Minister may, when deciding an appeal under subsection (5), direct that the Authority shall not designate the person as a designated clearing house, and such order shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-### Prohibition on holding out
-
-56\.—(1) No person shall hold himself out as a designated clearing house unless he has been designated by the Authority under section 55(1).
-
-[1/2005]
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-### General criteria to be taken into account by Authority
-
-57\. Without affecting the generality of section 55, the Authority may have regard to the following matters in determining whether it is satisfied of the considerations in section 55(1):
-
-(a) the size and structure, or proposed size and structure, of the clearing facility;
-
-(b) the nature of the services provided, or to be provided, by the clearing facility;
-
-(c) the nature of the transactions cleared, or to be cleared, by the clearing facility;
-
-(d) the market where the transactions cleared through the clearing facility are traded or to be traded;
-
-(e) the nature of the investors or participants, or proposed investors or participants, who may use or have an interest in the clearing facility;
-
-(f) whether the person operating the clearing facility is otherwise regulated by the Authority under this Act or any other written law;
-
-(g) whether the clearing facility takes on counterparty risks, through novation or otherwise, in the clearing or settlement of transactions;
-
-(h) the parties who may be affected in the event that the clearing facility runs into difficulties;
-
-(i) the interests of the public; and
-
-(j) any other circumstances that the Authority may deem relevant.
-
-[1/2005]
-
-### Withdrawal of designation
-
-58\.—(1) The Authority may withdraw the designation of any designated clearing house at any time, on its own initiative or on the application of the designated clearing house, if the Authority is of the opinion that the considerations in section 55(1) are no longer valid or satisfied.
-
-[1/2005]
-
-(2) The Authority shall give notice in theGazetteof any withdrawal under subsection (1).
-
-[1/2005]
-
-(3) The Authority shall not withdraw on its own initiative the designation of any person operating a clearing facility as a designated clearing house without giving the person an opportunity to be heard.
-
-[1/2005]
-
-Division 3 —
-
-Regulation of Designated Clearing Houses
-
-Subdivision (1) — Obligations of designated clearing houses
+Subdivision (1) — Obligations of licensed trade repositories
 
 ### General obligations
 
-59\.—(1) A designated clearing house shall —
+46I\.—(1) A licensed trade repository —
 
-(a) as far as is reasonably practicable, operate a safe and efficient clearing facility;
+(a) shall operate in a safe and efficient manner in its capacity as a trade repository;
 
-(b) manage any risks associated with its business and operations prudently;
+(b) shall manage any risks associated with its business and operations prudently;
 
-(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+(c) in discharging its obligations under this Act, shall not act contrary to the interests of the public, having particular regard to the interests of the investing public;
 
-(d) ensure that access for participation in its clearing facility is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of its facility and to protect the interests of the investing public;
+(d) shall ensure that access for participation in the licensed trade repository is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of the licensed trade repository and to protect the interests of the investing public;
 
-(e) maintain business rules that make satisfactory provision for —
+(e) shall maintain business rules that make satisfactory provision for the licensed trade repository to be operated in a safe and efficient manner;
 
-(i) the clearing facility to be operated in a safe and efficient manner; and
+(f) shall enforce compliance by its participants with its business rules;
 
-(ii) the proper regulation and supervision of its members;
+(g) shall have sufficient financial, human and system resources —
 
-(f) enforce compliance by its members with its business rules;
-
-(g) have sufficient financial, human and system resources —
-
-(i) to operate a safe and efficient clearing facility;
+(i) to operate in a safe and efficient manner in its capacity as a trade repository;
 
 (ii) to meet contingencies or disasters; and
 
-(iii) to provide adequate security arrangements; and
+(iii) to provide adequate security arrangements;
 
-(h) ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+(h) shall ensure that the Authority is provided with access to all information on transactions reported to the licensed trade repository;
 
-[1/2005]
+(i) shall maintain governance arrangements that are adequate for the licensed trade repository to be operated in a safe and efficient manner; and
 
-(2) The obligations imposed on the designated clearing house under this Act shall apply to all facilities for clearing or settlement operated by the designated clearing house.
+(j) shall ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
 
-[1/2005]
+(2) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
 
-(3) Notwithstanding subsection (2), the Authority may by notice in writing exempt any clearing facility operated by a designated clearing house from all or any of the provisions of this Act, if the Authority is satisfied that such exemption would not detract from the objectives specified in section 47.
-
-[1/2005]
-
-(4) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
-
-[1/2005]
-
-### Obligation to notify Authority of certain matters
-
-60\.—(1) A designated clearing house shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
-
-(a) the carrying on of any business by the designated clearing house other than —
-
-(i) the business of operating a clearing facility;
-
-(ii) a business incidental to operating a clearing facility; or
-
-(iii) such business or class of businesses as the Authority may prescribe;
-
-(b) the acquisition by the designated clearing house of a substantial shareholding in a corporation which does not carry on —
-
-(i) the business of operating a clearing facility;
-
-(ii) a business incidental to operating a clearing facility; or
-
-(iii) such business or class of businesses as the Authority may prescribe;
-
-(c) the designated clearing house becoming aware of a financial irregularity or other matter which in its opinion —
-
-(i) may affect its ability to discharge its financial obligations; or
-
-(ii) may affect the ability of a member of the designated clearing house to meet its financial obligations to the designated clearing house;
-
-(d) the designated clearing house reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a member of the designated clearing house;
-
-(e) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the designated clearing house.
-
-[1/2005]
-
-(2) Without prejudice to the generality of section 79(1), the Authority may, at any time after receiving a notification referred to in subsection (1), issue directions to the designated clearing house —
-
-(a) where the notification relates to a matter referred to in subsection (1)(a) —
-
-(i) to cease carrying on the first-mentioned business referred to in subsection (1)(a); or
-
-(ii) to carry on the first-mentioned business referred to in subsection (1)(a) subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 79(1); or
-
-(b) where the notification relates to a matter referred to in subsection (1)(b) —
-
-(i) to dispose of the shareholding referred to in subsection (1)(b); or
-
-(ii) to exercise its rights relating to such shareholding subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 79(1),
-
-and the designated clearing house shall comply with such directions.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Obligation to manage risks prudently
 
-61\.—(1) Without prejudice to the generality of section 59(1)(b), a designated clearing house shall —
+46J\. Without prejudice to the generality of section 46I(1)(b), a licensed trade repository shall —
 
-(a) ensure that the systems and controls concerning the assessment and management of risks to its clearing facility are adequate and appropriate for the scale and nature of its operations;
+(a) ensure that the systems and controls concerning the assessment and management of risks to the licensed trade repository are adequate and appropriate for the scale and nature of its operations; and
 
-(b) obtain the Authority’s approval to the limits which it intends to establish on the number of open positions which may be held by any person under any futures contract cleared or settled with the designated clearing house, and vary those limits only in a manner approved by the Authority; and
+(b) have adequate arrangements, processes, mechanisms or services to collect and maintain information on transactions reported to the licensed trade repository.
 
-(c) obtain the Authority’s approval if it does not intend to establish limits on the number of open positions which may be held by any person under any futures contract cleared or settled with the designated clearing house.
+[Act 34 of 2012 wef 01/08/2013]
 
-(2) Nothing in subsection (1) shall preclude a designated clearing house from —
+### Obligation to notify Authority of certain matters
 
-(a) establishing, in respect of open positions which may be held by any person under any futures contract cleared or settled with the designated clearing house, different position limits for different futures contracts, or for different months or days in the period the positions may be held; or
+46K\.—(1) A licensed trade repository shall, as soon as practicable after the occurrence of any of the following circumstances, give the Authority notice of the circumstance:
 
-(b) establishing limits whether on long or short positions, and whether on a net or gross basis.
+(a) any material change to the information provided by the licensed trade repository in its application under section 46D(1);
 
-(3) Any person who wilfully exceeds any position limit established or varied by a designated clearing house shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.
+(b) the carrying on of any business (referred to in this section as a proscribed business) by the licensed trade repository that is —
 
-### Obligation in relation to customers’ money and assets held by designated clearing house
+(i) not the business of operating as a trade repository;
 
-62\.—(1) A designated clearing house which accepts money or assets deposited with or paid to it by its members for or in relation to contracts of the customers of such members shall, in respect of all market contracts in relation to which money or assets are deposited with or paid to it (being market contracts which are cleared or settled by it), require each of its members to notify it in such manner as it may determine —
+(ii) not incidental to operating as a trade repository; or
 
-(a) whether a market contract is a contract of a customer of the member; and
+(iii) not such business, or within such class of businesses, as the Authority may prescribe;
 
-(b) whether the money or assets being deposited with or paid to the designated clearing house is or are deposited or paid for or in relation to a contract of a customer of the member.
+(c) the acquisition by the licensed trade repository of a substantial shareholding in a corporation (referred to in this section as a proscribed corporation) which carries on any business that is —
 
-[2/2009 wef 29/07/2009]
+(i) not the business of operating as a trade repository;
 
-[1/2005]
+(ii) not incidental to operating as a trade repository; or
 
-(2) Where a member has notified the designated clearing house under subsection (1) that the money or assets are deposited or paid for or in relation to a contract of a customer of the member, the designated clearing house shall —
+(iii) not such business, or within such class of businesses, as the Authority may prescribe;
 
-(a) subject to sections 63 and 64, ensure that such money is deposited in a trust account, or such assets are deposited in a custody account, to be held for the benefit of the customers of the member and disposed of or used only for or in relation to contracts of customers of the member;
+(d) the licensed trade repository becoming aware of any financial irregularity or other matter which in its opinion may affect its ability to discharge its financial obligations;
 
-(b) ensure that such money or assets are kept separate from all money and assets received by the designated clearing house from members which have been notified by members under subsection (1) as not being deposited or paid for or in relation to contracts of customers of those members; and
+(e) the licensed trade repository reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a participant of the licensed trade repository;
 
-(c) keep books for money or assets deposited or paid for or in relation to contracts of customers of one member separate from books for money or assets deposited or paid for or in relation to contracts of customers of another member.
+(f) any other matter that the Authority may —
 
-(3) Nothing in subsection (2)(a) shall prevent a designated clearing house from commingling all money or assets deposited pursuant to that provision in the same trust account or custody account, as the case may be.
+(i) prescribe by regulations made under section 46ZJ for the purposes of this paragraph; or
 
-(4) Where a designated clearing house has been convicted of an offence under section 70 for a contravention of subsection (2)(a) or (b), in so far as any money which has been deposited in a trust account, or any asset which has been deposited in a custody account, is used for any purpose other than —
+(ii) specify by notice in writing to the licensed trade repository in any particular case.
 
-(a) for or in relation to contracts of a customer of the member; or
+(2) Without prejudice to the generality of section 46ZK(1), the Authority may, at any time after receiving a notice referred to in subsection (1), issue directions to the licensed trade repository —
 
-(b) in accordance with sections 63 and 64,
+(a) where the notice relates to a matter referred to in subsection (1)(b) —
 
-the designated clearing house shall —
+(i) to cease carrying on the proscribed business; or
 
-(i) in the case of money, repay the money to the trust account referred to in subsection (2)(a); or
+(ii) to carry on the proscribed business subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 46ZK(1); or
 
-(ii) in the case of assets —
+(b) where the notice relates to a matter referred to in subsection (1)(c) —
 
-(A) return the asset to the custody account referred to in subsection (2)(a); or
+(i) to dispose of all or any part of its shareholding in the proscribed corporation within such time and subject to such conditions as the Authority considers appropriate; or
 
-(B) if the asset cannot be returned to the custody account, deposit an amount of money which is equivalent to the monetary value of the asset at the time of the contravention of subsection (2)(a) or (b) in the trust account referred to in subsection (2)(a) for the benefit of the customers of the member.
+(ii) to exercise its rights relating to such shareholding, or to not exercise such rights, subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 46ZK(1).
 
-### Permissible use of customers’ money and assets by designated clearing house
+(3) A licensed trade repository shall comply with every direction issued to it under subsection (2), notwithstanding anything to the contrary in the Companies Act (Cap. 50) or any other law.
 
-63\.—(1) Where a member of a designated clearing house fails to meet its obligations to the designated clearing house that arise from contracts of customers of the member (referred to in this section as the subject obligations), the designated clearing house may use any money or assets deposited or paid for or in relation to contracts of customers of the member and held by the designated clearing house (including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(a)) (collectively referred to in this section as customers’ money or assets) to meet the subject obligations, if —
-
-(a) the designated clearing house is of the opinion, formed in good faith, that the failure of the member to meet the subject obligations is directly attributable to the failure of any of the customers of the member to meet that customer’s obligations under any market contract;
-
-(b) either —
-
-(i) both of the following have been wholly utilised to meet the subject obligations:
-
-(A) any money or assets deposited or paid for or in relation to contracts of the member itself and held by the designated clearing house;
-
-(B) any money or assets deposited by the member with the designated clearing house as collateral or guarantee for the purpose of satisfying all obligations of the member to the designated clearing house (excluding any customers’ money or assets); or
-
-(ii) the designated clearing house has reasonable grounds for forming an opinion that the failure to use the customers’ money or assets to meet the subject obligations may jeopardise the financial integrity of the designated clearing house;
-
-(c) the designated clearing house has made provision in its business rules for the use of customers’ money or assets in the circumstances specified in paragraphs (a) and (b);
-
-(d) where the designated clearing house has made provision in its business rules for requirements additional to those in paragraphs (a) and (b), the additional requirements are not inconsistent with the requirements in those paragraphs; and
-
-(e) the money or assets are used in accordance with the provisions of the business rules referred to in paragraphs (c) and (d).
-
-(2) A designated clearing house shall notify the Authority before using any such customers’ money or assets in the circumstances specified in subsection (1).
-
-### Permissible investments of customers’ money and assets by designated clearing house
-
-64\.—(1) Subject to subsection (2), a designated clearing house may invest any money or assets deposited or paid for or in relation to contracts of customers of a member and held by the designated clearing house in the course of its clearing or settlement activities, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(a), in any security, instrument or other form of investment arrangement as the Authority may prescribe.
-
-[2/2009 wef 29/07/2009]
-
-[1/2005]
-
-(2) The designated clearing house shall seek the approval of the Authority before investing any such money or assets under subsection (1).
-
-[1/2005]
-
-(3) The designated clearing house seeking the approval of the Authority under subsection (2) shall satisfy the Authority —
-
-(a) that the management of the investments made by the designated clearing house is consistent with the principles of preserving principal and maintaining sufficient liquidity to meet the obligations of customers of members of the designated clearing house;
-
-(b) that prudential measures have been adopted to manage the risks in respect of the designated clearing house’s investment activities; and
-
-(c) of any other matter which the Authority considers necessary for the sound management of the investments.
-
-[1/2005]
-
-(4) The Authority may grant the approval referred to in subsection (2) subject to such conditions or restrictions as the Authority may think fit.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Obligation to maintain proper records
 
-65\.—(1) A designated clearing house shall maintain a record of all transactions effected through its clearing facility in such form and manner as the Authority may prescribe.
+46L\.—(1) A licensed trade repository shall maintain a record of all transactions reported to the licensed trade repository.
 
-[1/2005]
+(2) The Authority may prescribe by regulations made under section 46ZJ —
 
-(2) The matters which the Authority may prescribe under subsection (1) shall include —
+(a) the form and manner in which the record referred to in subsection (1) shall be maintained;
 
-(a) the extent to which the record includes details of each transaction; and
+(b) the information and details relating to each transaction that are to be maintained in the record; and
 
-(b) the period of time that the record is to be maintained.
+(c) the period of time that the record is to be maintained.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Obligation to submit periodic reports
 
-66\. A designated clearing house shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+46M\. A licensed trade repository shall submit to the Authority such reports in such form and manner, and at such frequency, as the Authority may prescribe.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Obligation to assist Authority
 
-67\. A designated clearing house shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+46N\. A licensed trade repository shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including —
 
-(a) such books and other information —
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
 
-(i) relating to the business of the designated clearing house; or
+(b) the provision of —
 
-(ii) in respect of any transaction or class of transactions cleared or settled by the designated clearing house; and
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
 
-(b) such other information,
+(A) relating to the business or operations of the licensed trade repository; or
 
-as the Authority may require for the proper administration of this Act.
+(B) in respect of any transaction or class of transactions reported to the licensed trade repository; and
 
-[1/2005]
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Obligation to maintain confidentiality
 
-68\.—(1) Subject to subsection (2), a designated clearing house and its officers and employees shall maintain, and aid in maintaining, confidentiality of all user information that —
+46O\.—(1) Subject to subsection (2), a licensed trade repository and its officers and employees shall maintain, and aid in maintaining, the confidentiality of all user information and transaction information that —
 
-(a) comes to the knowledge of the designated clearing house or any of its officers or employees; or
+(a) comes to the knowledge of the licensed trade repository or any of its officers or employees; or
 
-(b) is in the possession of the designated clearing house or any of its employees.
-
-[1/2005]
+(b) is in the possession of the licensed trade repository or any of its officers or employees.
 
 (2) Subsection (1) shall not apply to —
 
-(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
+(a) the disclosure of user information or transaction information for such purposes, or in such circumstances, as the Authority may prescribe;
 
-(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
+(b) any disclosure of user information or transaction information which is authorised by the Authority to be disclosed or furnished; or
 
-(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
+(c) the disclosure of user information or transaction information pursuant to any requirement imposed under any written law or order of court in Singapore.
 
-[1/2005]
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing a licensed trade repository from entering into a written agreement with a participant which obliges the licensed trade repository to maintain a higher degree of confidentiality than that specified in this section.
 
-(3) For the avoidance of doubt, nothing in this section shall be construed as preventing a designated clearing house from entering into a written agreement with a user which obliges the designated clearing house to maintain a higher degree of confidentiality than that specified in this section.
+(4) A licensed trade repository shall comply with such other requirements relating to confidentiality as the Authority may prescribe.
 
-[1/2005]
-
-### Annual fees payable by designated clearing house
-
-69\.—(1) Every designated clearing house shall pay to the Authority such annual fees as may be prescribed and in such manner as may be specified by the Authority.
-
-[1/2005]
-
-(2) The Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Penalties under this Subdivision
 
-70\. Any designated clearing house which contravenes section 59(1), 60, 61(1), 62(2) or (4), 63(2), 64(2), 65, 66, 67 or 68(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+46P\. Any licensed trade repository which contravenes section 46I(1), 46J, 46K(1) or (3), 46L(1), 46M, 46N or 46O(1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
-[2/2009 wef 29/07/2009]
+[Act 34 of 2012 wef 01/08/2013]
 
-[1/2005]
+Subdivision (2) — Rules of licensed trade repositories
 
-Subdivision (2) — Rules of designated clearing houses
+### Business rules of licensed trade repositories
 
-### Business rules of designated clearing houses
+46Q\.—(1) Without limiting the generality of sections 46I and 46ZJ —
 
-71\.—(1) Without limiting the generality of sections 59 and 81S —
+(a) the Authority may prescribe the matters that a licensed trade repository shall make provision for in the business rules of the licensed trade repository; and
 
-(a) the Authority may prescribe the matters that a designated clearing house shall make provision for in the business rules of the designated clearing house; and
+(b) the licensed trade repository shall make provision for those matters in its business rules.
 
-(b) the designated clearing house shall make provision for these matters in its business rules.
+(2) A licensed trade repository shall not make any amendments to its business rules unless it complies with such requirements as the Authority may prescribe.
 
-[1/2005]
+(3) In this Subdivision, any reference to an amendment to a business rule shall be construed as a reference to a change to the scope of, or to any requirement, obligation or restriction under, the business rule, whether the change is made by an alteration to the text of the business rule or by any other notice issued by or on behalf of the licensed trade repository.
 
-(2) A designated clearing house shall not make any amendment to its business rules unless it complies with such requirements as the Authority may prescribe.
+(4) Any licensed trade repository which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
-(3) In this Subdivision, any reference to an amendment to a business rule shall be construed as a reference to a change to the scope of, or to any requirement, obligation or restriction under the business rule, whether the change is made by an alteration to the text of the rule or by any other notice issued by or on behalf of the designated clearing house.
+### Business rules of licensed trade repositories have effect as contract
 
-[1/2005]
+46R\.—(1) The business rules of a licensed trade repository shall be deemed to be, and shall operate as, a binding contract between the licensed trade repository and each participant.
 
-(4) Any designated clearing house which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(2) The licensed trade repository and each participant shall be deemed to have agreed to observe, and perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the licensed trade repository or participant, as the case may be.
 
-[1/2005]
-
-### Business rules of designated clearing houses have effect as contract
-
-72\.—(1) The business rules of a designated clearing house shall be deemed to be, and shall operate as, a binding contract —
-
-(a) between the designated clearing house and each issuer of securities;
-
-(b) between the designated clearing house and each participant;
-
-(c) between each issuer of securities and each participant; and
-
-(d) between each participant and every other participant.
-
-[1/2005]
-
-(2) The designated clearing house, each issuer of securities and each participant shall be deemed to have agreed to observe, and perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the designated clearing house, issuer or participant, as the case may be.
-
-[1/2005]
-
-(3) In this section, “issuer”, in relation to any securities, means a person who issued or made available, or proposes to issue or make available, the securities, being securities that are cleared or settled by the designated clearing house.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Power of court to order observance or enforcement of business rules
 
-73\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of a designated clearing house fails to do so, the High Court may, on the application of the Authority, a designated clearing house or a person aggrieved by the failure, after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules.
+46S\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of a licensed trade repository fails to do so, the High Court may, on the application of the Authority, the licensed trade repository or a person aggrieved by the failure, and after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules.
 
-[1/2005]
+(2) In this section, “person” includes a licensed trade repository.
 
-(2) In this section, “person” includes a designated clearing house.
+(3) This section is in addition to, and not in derogation of, any other remedy available to an aggrieved person referred to in subsection (1).
 
-[1/2005]
-
-(3) This section is in addition to, and not in derogation of, any other remedies available to the aggrieved person referred to in subsection (1).
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Non-compliance with business rules not to substantially affect rights of person
 
-74\. Any failure by a designated clearing house to comply with this Act or its business rules in relation to a matter shall not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules.
+46T\. Any failure by a licensed trade repository to comply with this Act or its business rules in relation to a matter shall not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules, so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 Subdivision (3) — Matters requiring approval of Authority
 
-### Control of substantial shareholding in designated clearing houses
+### Control of substantial shareholding in licensed trade repository
 
-75\.—(1) No person shall enter into any agreement to acquire shares in a designated clearing house by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the designated clearing house without first obtaining the approval of the Authority to enter into the agreement.
+46U\.—(1) No person shall enter into any agreement to acquire shares in a licensed trade repository, being an agreement by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the licensed trade repository, without first obtaining the approval of the Authority to enter into the agreement.
 
-[1/2005]
+(2) No person shall become either of the following without first obtaining the approval of the Authority:
 
-(2) No person shall become —
+(a) a 12% controller of a licensed trade repository;
 
-(a) a 12% controller; or
-
-(b) a 20% controller,
-
-of a designated clearing house without first obtaining the approval of the Authority.
-
-[1/2005]
+(b) a 20% controller of a licensed trade repository.
 
 (3) In subsection (2) —
 
-“12% controller” means a person, not being a 20% controller, who alone or together with his associates —
+“12% controller”, in relation to a licensed trade repository, means a person, not being a 20% controller, who alone or together with his associates —
 
-(a) holds not less than 12% of the shares in the designated clearing house; or
+(a) holds not less than 12% of the shares in the licensed trade repository; or
 
-(b) is in a position to control not less than 12% of the votes in the designated clearing house;
+(b) is in a position to control not less than 12% of the votes in the licensed trade repository;
 
-“20% controller” means a person who, alone or together with his associates —
+“20% controller”, in relation to a licensed trade repository, means a person who, alone or together with his associates —
 
-(a) holds not less than 20% of the shares in the designated clearing house; or
+(a) holds not less than 20% of the shares in the licensed trade repository; or
 
-(b) is in a position to control not less than 20% of the votes in the designated clearing house.
-
-[1/2005]
+(b) is in a position to control not less than 20% of the votes in the licensed trade repository.
 
 (4) In this section —
 
@@ -4771,7 +4733,7 @@ of a designated clearing house without first obtaining the approval of the Autho
 
 (ii) he otherwise has a legal or an equitable interest in that share, except such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
 
-(b) a reference to the control of a percentage of the votes in a designated clearing house shall be construed as a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the designated clearing house; and
+(b) a reference to the control of a percentage of the votes in a licensed trade repository shall be construed as a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the licensed trade repository; and
 
 (c) a person,A, is an associate of another person,B, if —
 
@@ -4787,333 +4749,119 @@ of a designated clearing house without first obtaining the approval of the Autho
 
 (vi) Ais a related corporation ofB;
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+(vii) Ais a corporation in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+(viii) Bis a corporation in whichA, whether alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
 
-(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the designated clearing house.
-
-[1/2005]
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the licensed trade repository.
 
 (5) The Authority may grant its approval referred to in subsection (1) or (2) subject to such conditions or restrictions as the Authority may think fit.
 
-[1/2005]
+(6) Without prejudice to subsection (13), the Authority may, for the purposes of securing compliance with subsection (1) or (2) or any condition or restriction imposed under subsection (5), by notice in writing, direct the transfer or disposal of all or any of the shares of a licensed trade repository in which a substantial shareholder, 12% controller or 20% controller of the licensed trade repository has an interest.
 
-(6) Without prejudice to subsection (11), the Authority may, for the purposes of securing compliance with subsection (1) or (2) or any condition or restriction imposed under subsection (5), by notice in writing, direct the transfer or disposal of all or any of the shares of a designated clearing house in which a substantial shareholder, 12% controller or 20% controller of the designated clearing house has an interest.
-
-[1/2005]
-
-(7) Until a person to whom a direction has been issued under subsection (6) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association or other constituent document or documents of the designated clearing house —
+(7) Until a person to whom a direction has been issued under subsection (6) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act or the memorandum or articles of association or other constituent document or documents of the licensed trade repository —
 
 (a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
 
-(b) the designated clearing house shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+(b) the licensed trade repository shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
 
-(c) except in a liquidation of the designated clearing house, the designated clearing house shall not make any payment (whether by way of cash dividend, dividend in kind, or otherwise) in respect of the shares which are the subject of the direction.
+(c) except in a liquidation of the licensed trade repository, the licensed trade repository shall not make any payment (whether by way of cash dividend, dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
 
-[1/2005]
+(8) Any issue of shares by a licensed trade repository in contravention of subsection (7)(b) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return those shares to the licensed trade repository, upon which the licensed trade repository shall return to the person any payment received from the person in respect of those shares.
 
-(8) Any issue of shares by a designated clearing house in contravention of subsection (7)(b) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return those shares to the designated clearing house, upon which the designated clearing house shall return to the person any payment received from him in respect of those shares.
+(9) Any payment made by a licensed trade repository in contravention of subsection (7)(c) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return the payment he has received to the licensed trade repository.
 
-[1/2005]
+(10) Without prejudice to sections 46ZL(1) and 337(1), the Authority may, by regulations made under section 46ZJ, exempt all or any of the following from subsection (1) or (2), subject to such conditions or restrictions as the Authority may prescribe in those regulations:
 
-(9) Any payment made by a designated clearing house in contravention of subsection (7)(c) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return the payment he has received to the designated clearing house.
+(a) any person or class of persons;
 
-[1/2005]
+(b) any class or description of shares or interests in shares.
 
-(10) The Authority may exempt —
+(11) Without prejudice to sections 46ZL(2) and 337(3) and (4), the Authority may, by notice in writing, exempt any person, shares or interests in shares from subsection (1) or (2), subject to such conditions or restrictions as the Authority may specify by notice in writing.
 
-(a) any person or class of persons; or
+(12) It shall not be necessary to publish any exemption granted under subsection (11) in theGazette.
 
-(b) any class or description of shares or interests in shares,
+(13) Any person who contravenes subsection (1) or (2), or any condition or restriction imposed by the Authority under subsection (5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
-from subsection (1) or (2), subject to such conditions or restrictions as may be imposed by the Authority.
+(14) Any person who contravenes subsection (7)(b) or (c), (8) or (9) or any direction issued by the Authority under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-[1/2005]
-
-(11) Any person who contravenes subsection (1) or (2), or any condition or restriction imposed by the Authority under subsection (5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-(12) Any person who contravenes subsection (7)(b) or (c), (8) or (9) or any direction issued by the Authority under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-[E (DM) A, s. 15]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Approval of chairman, chief executive officer, director and key persons
 
-76\.—(1) No designated clearing house shall appoint a person as its chairman, chief executive officer or director unless the designated clearing house has obtained the approval of the Authority.
+46V\.—(1) No licensed trade repository shall appoint a person as its chairman, chief executive officer or director unless the licensed trade repository has obtained the approval of the Authority.
 
-[1/2005]
-
-(2) The Authority may, by notice in writing, require a designated clearing house to obtain the approval of the Authority for the appointment of any person to any key management position or committee of the designated clearing house and the designated clearing house shall comply with the notice.
-
-[1/2005]
+(2) The Authority may, by notice in writing, require a licensed trade repository to obtain the approval of the Authority for the appointment of any person to any key management position or committee of the licensed trade repository, and the licensed trade repository shall comply with the notice.
 
 (3) An application for approval under subsection (1) or (2) shall be made in such form and manner as the Authority may prescribe.
 
-[1/2005]
+(4) Without prejudice to the generality of section 46ZJ and to any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1) or (2), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
 
-(4) Without prejudice to the generality of section 81S and any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1) or (2), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+(5) Subject to subsection (6), the Authority shall not refuse an application for approval under this section without giving the licensed trade repository an opportunity to be heard.
 
-[1/2005]
-
-(5) Subject to subsection (6), the Authority shall not refuse an application for approval under this section without giving the designated clearing house an opportunity to be heard.
-
-[1/2005]
-
-(6) The Authority may refuse an application for approval on any of the following grounds without giving the designated clearing house an opportunity to be heard:
+(6) The Authority may refuse an application for approval on any of the following grounds without giving the licensed trade repository an opportunity to be heard:
 
 (a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(b) the person has been convicted, whether in Singapore or elsewhere, of an offence —
+(b) the person has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012 —
 
 (i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
 
 (ii) punishable with imprisonment for a term of 3 months or more.
 
-[1/2005]
-
 (7) Where the Authority refuses an application for approval under this section, the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
 
-[1/2005]
+(8) A licensed trade repository shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chairman, chief executive officer or director or of any person referred to in the notice issued by the Authority under subsection (2).
 
-(8) A designated clearing house shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chairman, chief executive officer, director or person referred to in the notice issued by the Authority under subsection (2).
+(9) The Authority may make regulations under section 46ZJ relating to the composition and duties of the board of directors or any committee of a licensed trade repository.
 
-[1/2005]
+(10) In this section, “committee” includes any committee of directors, disciplinary committee or appeals committee of a licensed trade repository, and any body responsible for disciplinary action against a participant of a licensed trade repository.
 
-(9) Without prejudice to the generality of section 81S, the Authority may make regulations relating to the composition and duties of the board of directors or any committee of a designated clearing house.
+(11) Without prejudice to sections 46ZL(1) and 337(1), the Authority may, by regulations made under section 46ZJ, exempt any licensed trade repository or class of licensed trade repositories from complying with subsection (1) or (8), subject to such conditions or restrictions as the Authority may prescribe in those regulations.
 
-[1/2005]
+(12) Without prejudice to sections 46ZL(2) and 337(3) and (4), the Authority may, by notice in writing, exempt any licensed trade repository from complying with subsection (1) or (8), subject to such conditions or restrictions as the Authority may specify by notice in writing.
 
-(10) In this section, “committee” includes any committee of directors, disciplinary committee, appeals committee or any body responsible for disciplinary action against a member of a designated clearing house.
+(13) It shall not be necessary to publish any exemption granted under subsection (12) in theGazette.
 
-[1/2005]
+(14) Subject to subsections (11) and (12), any licensed trade repository which contravenes subsection (1), (2) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
-(11) The Authority may exempt any designated clearing house or a class of designated clearing houses from complying with subsection (1) or (8), subject to such conditions or restrictions as may be imposed by the Authority.
-
-[1/2005]
-
-(12) Subject to subsection (11), any designated clearing house which contravenes subsection (1), (2) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-### Listing of designated clearing houses on securities market
-
-77\.—(1) The securities of a designated clearing house shall not be listed for quotation on a securities market that is operated by any of its related corporations unless the designated clearing house and the operator of the securities market have entered into such arrangements as the Authority may require —
-
-(a) for dealing with possible conflicts of interest that may arise from such listing; and
-
-(b) for the purpose of ensuring the integrity of the trading of the securities of the designated clearing house.
-
-[1/2005]
-
-(2) Where the securities of a designated clearing house are listed for quotation on a securities market operated by any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
-
-(a) the admission or removal of the designated clearing house to or from the official list of the securities market; and
-
-(b) granting approval for the securities of a designated clearing house to be, or stopping or suspending the securities of the designated clearing house from being listed for quotation or quoted on the securities market.
-
-[1/2005]
-
-(3) The Authority may, by notice in writing to the operator of the securities market —
-
-(a) modify the listing rules of the securities market for the purpose of their application to the listing of the securities of the designated clearing house for quotation or trading; or
-
-(b) waive the application of any listing rule of the securities market to the designated clearing house.
-
-[1/2005]
-
-(4) Any designated clearing house which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 Subdivision (4) — Powers of Authority
 
-### Power to impose conditions or restrictions
-
-78\.—(1) The Authority may impose on a designated clearing house such conditions or restrictions as it thinks fit by notice in writing, in addition to the obligations imposed on the designated clearing house under this Division, for the purposes of furthering the objectives specified in section 47.
-
-[1/2005]
-
-(2) The Authority may, at any time, by notice in writing to the designated clearing house, vary any condition or restriction as it may think fit.
-
-[1/2005]
-
-(3) Without affecting the generality of subsection (1) or (2), the conditions or restrictions that the Authority may impose include conditions or restrictions relating to —
-
-(a) the activities that the designated clearing house may undertake;
-
-(b) the products that may be cleared by the clearing facility;
-
-(c) the nature of investors or participants who may use or participate in the clearing facility; and
-
-(d) the requirement for the designated clearing house to operate as a corporation.
-
-[1/2005]
-
-(4) Any designated clearing house which contravenes any condition or restriction imposed under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-### Power of Authority to issue directions
-
-79\.—(1) The Authority may, if it thinks it necessary or expedient —
-
-(a) for ensuring the safe and efficient clearing and settlement of transactions;
-
-(b) for ensuring the integrity and stability of the capital markets or the financial system;
-
-(c) in the interests of the public or a section of the public or for the protection of investors;
-
-(d) for the effective administration of this Act; or
-
-(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 60(2), 64(4), 75(5) or (10), 76(11), 78(1) or (2) or 81C, or such other obligations or requirements under this Act or as may be prescribed by the Authority,
-
-issue directions by notice in writing either of a general or specific nature to a designated clearing house, and the designated clearing house shall comply with such directions.
-
-[1/2005]
-
-(2) Any designated clearing house which, without reasonable excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
-
-[1/2005]
-
-[SIA, s. 21; E (DM) A, s. 14]
-
-### Power to order cessation of designated clearing houses
-
-80\.—(1) The Authority may, by notice in writing to a designated clearing house, order the designated clearing house to cease operating any of its clearing facilities if —
-
-(a) the designated clearing house fails to comply with any obligation imposed on it under section 59(1);
-
-(b) the designated clearing house contravenes any provision of this Act or any condition or restriction imposed on it, or direction issued to it, by the Authority under any provision of this Act;
-
-(c) the designated clearing house is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(d) the designated clearing house operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public;
-
-(e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the designated clearing house;
-
-(f) the designated clearing house has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
-
-(g) the designated clearing house has provided any information or document to the Authority that is false or misleading.
-
-[1/2005]
-
-(2) The Authority shall give notice in theGazetteof any order made under subsection (1).
-
-[1/2005]
-
-(3) Subject to subsection (4), the Authority shall not order a designated clearing house to cease operating a clearing facility under subsection (1) without giving the designated clearing house an opportunity to be heard.
-
-[1/2005]
-
-(4) The Authority may order a designated clearing house to cease operating a clearing facility under subsection (1) on any of the following grounds without giving the designated clearing house an opportunity to be heard:
-
-(a) the designated clearing house is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the designated clearing house;
-
-(c) the designated clearing house has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[1/2005]
-
-(5) Any designated clearing house that is aggrieved by a decision of the Authority made in relation to the designated clearing house under subsection (1) may, within 30 days after the designated clearing house is notified of the decision, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(8) The Authority may direct, by notice in writing, a designated clearing house, to whom an order to cease operations of its clearing facility has been made by the Authority under subsection (1), to take such action as it considers necessary, including any of the following actions:
-
-(a) ordering the liquidation of all positions or part thereof or the reduction in such positions;
-
-(b) altering conditions of delivery of transactions cleared or settled or to be cleared or settled through the clearing facility;
-
-(c) fixing the settlement price at which transactions are to be liquidated;
-
-(d) requiring margins or additional margins for transactions cleared or settled or to be cleared or settled through the clearing facility;
-
-(e) modifying or suspending any of the business rules of the designated clearing house,
-
-and the designated clearing house shall comply with that direction.
-
-[1/2005]
-
-(9) The Authority may modify any action taken by a designated clearing house under subsection (8), including the setting aside of that action.
-
-[1/2005]
-
-(10) Any person who is aggrieved by any action taken by the Authority or a designated clearing house under subsection (8) or (9) may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(11) Notwithstanding the lodging of an appeal under subsection (10), any action taken by the Authority or a designated clearing house under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(12) The Minister may, when deciding an appeal under subsection (10), make such modification as he considers necessary to any action taken by the Authority or a designated clearing house under this section, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(13) Subject to any direction issued by the Authority under subsection (8) to the contrary, an order of cessation made under subsection (1) shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of the clearing facility operated by the designated clearing house, whether the agreement, transaction or arrangement was entered into before or after the order of the cessation; or
-
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
-
-[1/2005]
-
-(14) Any designated clearing house which contravenes an order of cessation made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-(15) Any designated clearing house which fails to comply with a direction issued under subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
 ### Power of Authority to appoint adviser
 
-80A\.—(1) Where —
+46W\.—(1) The Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise a licensed trade repository on the proper management of such business or operations of the licensed trade repository as the Authority may determine, where —
 
-(a) a designated clearing house informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+(a) the licensed trade repository informs the Authority that it is or is likely to become insolvent, that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
 
-(b) a designated clearing house becomes unable to meet its obligations, or is insolvent, or suspends payments;
+(b) the licensed trade repository becomes unable to meet its obligations, is insolvent, or suspends payments;
 
-(c) the Authority is of the opinion that a designated clearing house —
+(c) the Authority is of the opinion that the licensed trade repository —
 
-(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 47;
+(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 46A;
 
-(ii) is or is likely to become insolvent or that it is or is likely to become unable to meet its obligations, or that it is about to suspend payments;
+(ii) is or is likely to become insolvent, is or is likely to become unable to meet its obligations, or is about to suspend payments; or
 
-(iii) has contravened any of the provisions of this Act; or
+(iii) has contravened —
 
-(iv) has failed to comply with any condition attached to its designation as a designated clearing house; or
+(A) any condition or restriction applicable in respect of its trade repository licence;
 
-(d) the Authority considers it in the public interest to do so,
+(B) any direction issued to it by the Authority under this Act; or
 
-the Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise the designated clearing house on the proper management of such of the business of the designated clearing house as the Authority may determine.
+(C) any provision in this Act; or
 
-(2) Where the Authority has exercised its power under subsection (1), it may at any time do one or more of the following:
+(d) the Authority thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors to do so.
 
-(a) vary or revoke any appointment made by the Authority in exercise of such power, on such terms and conditions as it may specify;
+(2) Where the Authority has exercised its power under subsection (1), the Authority may at any time do one or more of the following:
+
+(a) vary or revoke any appointment made by the Authority under subsection (1), on such terms and conditions as the Authority may specify;
 
 (b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
 
 (c) add to, vary or revoke any term or condition specified by the Authority under this section.
 
-(3) No action, suit or other legal proceedings shall lie against a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+(3) No liability shall be incurred by a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
 
 (a) the exercise or purported exercise of any power under this Act;
 
@@ -5121,205 +4869,1303 @@ the Authority may appoint one or more persons as statutory advisers, on such ter
 
 (c) the compliance or purported compliance with this Act.
 
-(4) The Authority may at any time fix the remuneration and expenses to be paid by a designated clearing house to a statutory adviser appointed in relation to the designated clearing house, whether or not the appointment has been terminated.
+(4) The Authority may at any time fix the remuneration and expenses to be paid by a licensed trade repository to a statutory adviser appointed in relation to the licensed trade repository, whether or not the appointment has been terminated.
 
-(5) The designated clearing house shall reimburse the Authority any remuneration and expenses payable by the designated clearing house to a statutory adviser and paid by the Authority to the statutory adviser.
+(5) A licensed trade repository shall reimburse the Authority for any remuneration and expenses paid by the Authority to a statutory adviser that is payable by the licensed trade repository to the statutory adviser.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Additional powers of Authority in respect of auditors
+
+46X\.—(1) If an auditor of a licensed trade repository, in the course of the performance of his duties, becomes aware of any matter or irregularity referred to in the following paragraphs, he shall immediately send to the Authority a written report of that matter or irregularity:
+
+(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the licensed trade repository to a material extent;
+
+(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty;
+
+(c) any irregularity that has or may have a material effect upon the accounts of the licensed trade repository, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors.
+
+(2) An auditor of a licensed trade repository shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
+
+(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor of a licensed trade repository may have, apart from this section, as a defendant in an action for defamation.
+
+(4) The Authority may impose all or any of the following duties on an auditor of a licensed trade repository, and the auditor shall carry out the duties so imposed:
+
+(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
+
+(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the licensed trade repository;
+
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
+
+(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c).
+
+(5) The licensed trade repository shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Emergency powers of Authority
 
-81\.—(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing a designated clearing house to take such action as it considers necessary to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
+46Y\.—(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing a licensed trade repository to take such action as the Authority considers necessary to maintain or restore the safe and efficient operation of the licensed trade repository.
 
-[1/2005]
+(2) Where a licensed trade repository fails to comply with any direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may take such action as the Authority thinks fit to maintain or restore the safe and efficient operation of the licensed trade repository.
 
-(2) Without prejudice to subsection (1), the actions which the Authority may direct a designated clearing house to take include —
+(3) In this section, “emergency” includes —
 
-(a) ordering the liquidation of all positions or part thereof or the reduction of such positions;
+(a) any threatened or actual market manipulation;
 
-(b) altering conditions of delivery of transactions cleared or settled or to be cleared or settled through the clearing facility;
+(b) any act of any government affecting any commodity or securities;
 
-(c) fixing the settlement price at which transactions are to be liquidated;
+(c) any major market disturbance which prevents a market from accurately reflecting the forces of supply and demand for such commodity or securities; or
 
-(d) requiring margins or additional margins for transactions cleared or settled or to be cleared or settled through the clearing facility; and
+(d) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency.
 
-(e) modifying or suspending any of the business rules of the designated clearing house.
+(4) The Authority may modify any action taken by a licensed trade repository under subsection (1), including the setting aside of that action.
 
-[1/2005]
+(5) Any person who is aggrieved by any action taken by the Authority, or by a licensed trade repository, under this section may, within 30 days after the person is notified of the action, appeal to the Minister, whose decision shall be final.
 
-(3) Where a designated clearing house fails to comply with any direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
+(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority, or by a licensed trade repository, under this section shall continue to have effect pending the decision of the Minister.
 
-(a) set margin levels for transactions cleared or settled or to be cleared or settled through the clearing facility to cater for the emergency;
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority, or by a licensed trade repository, under this section, and any such modified action shall have effect from the date of the decision of the Minister.
 
-(b) set limits that may apply to market positions acquired in good faith prior to the date of the notice issued by the Authority; or
+(8) Any licensed trade repository which fails to comply with a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(c) take such other action as the Authority thinks fit to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
+[Act 34 of 2012 wef 01/08/2013]
 
-[1/2005]
+### Power of Authority to remove officers of licensed trade repository
 
-(4) In this section, “emergency” means any threatened or actual market manipulation or cornering, and includes —
+46Z\.—(1) Where the Authority is satisfied that any of the following applies to an officer of a licensed trade repository, the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct the licensed trade repository to remove the officer from his office or employment, and the licensed trade repository shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50) or anything in any other law or in the memorandum or articles of association or other constituent document or documents of the licensed trade repository:
 
-(a) any act of any government affecting a commodity or securities;
+(a) the officer has wilfully contravened, or wilfully caused the licensed trade repository to contravene, this Act or the business rules of the licensed trade repository;
 
-(b) any major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or securities; or
+(b) the officer has, without reasonable excuse, failed to ensure compliance with this Act, or with the business rules of the licensed trade repository, by the licensed trade repository, by a participant of the licensed trade repository or by a person associated with that participant;
 
-(c) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency.
+(c) the officer has failed to discharge the duties or functions of his office or employment;
 
-[1/2005]
+(d) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(5) The Authority may modify any action taken by a designated clearing house under subsection (1), including the setting aside of that action.
+(e) the officer has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
 
-[1/2005]
+(f) the officer has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(6) Any person who is aggrieved by any action taken by the Authority or a designated clearing house under this section may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+(g) the officer has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly.
 
-[1/2005]
+(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of a licensed trade repository has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1)(c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
 
-(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority or a designated clearing house under this section shall continue to have effect pending the decision of the Minister.
+(3) Subject to subsection (4), the Authority shall not direct a licensed trade repository to remove an officer from his office or employment without giving the licensed trade repository an opportunity to be heard.
 
-[1/2005]
-
-(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority or a designated clearing house under this section, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(9) Any designated clearing house which fails to comply with a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-[FTA, s. 41]
-
-### Power of Authority to remove officers
-
-81A\.—(1) Where the Authority is satisfied that an officer of a designated clearing house —
-
-(a) has wilfully contravened or wilfully caused that designated clearing house to contravene this Act or its business rules;
-
-(b) has, without reasonable excuse, failed to ensure compliance with this Act or the business rules of that designated clearing house, by that designated clearing house or a member of that designated clearing house or a person associated with that member;
-
-(c) has failed to discharge the duties or functions of his office or employment;
-
-(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
-
-(f) has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly,
-
-the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct that designated clearing house to remove the officer from his office or employment, and that designated clearing house shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
-
-[1/2005]
-
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of a designated clearing house has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1)(c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
-
-[1/2005]
-
-(3) Subject to subsection (4), the Authority shall not direct a designated clearing house to remove an officer from his office or employment without giving the designated clearing house an opportunity to be heard.
-
-[1/2005]
-
-(4) The Authority may direct a designated clearing house to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the designated clearing house an opportunity to be heard:
+(4) The Authority may direct a licensed trade repository to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the licensed trade repository an opportunity to be heard:
 
 (a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 6 of the Securities and Futures (Amendment) Act 2012 —
 
 (i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
 
 (ii) punishable with imprisonment for a term of 3 months or more.
 
-[1/2005]
+(5) Where the Authority directs a licensed trade repository to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
-(5) Where the Authority directs a designated clearing house to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
-
-[1/2005]
-
-(6) Any designated clearing house that is aggrieved by a direction of the Authority made in relation to the designated clearing house under subsection (1) may, within 30 days after the designated clearing house is notified of the direction, appeal to the Minister whose decision shall be final.
-
-[1/2005]
+(6) Any licensed trade repository that is aggrieved by a direction of the Authority made in relation to the licensed trade repository under subsection (1) may, within 30 days after the licensed trade repository is notified of the direction, appeal to the Minister, whose decision shall be final.
 
 (7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
 
-[1/2005]
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
 
-(8) The Minister may, when deciding an appeal under subsection (6), make such modifications as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
+(9) Subject to subsection (10), no criminal or civil liability shall be incurred by a licensed trade repository in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
 
-[1/2005]
+(10) Any licensed trade repository which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(9) Subject to subsection (10), no criminal or civil liability shall be incurred by a designated clearing house in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
-
-[1/2005]
-
-(10) Any designated clearing house which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-### Additional powers of Authority in respect of auditors
-
-81B\.—(1) If an auditor of a designated clearing house, in the course of the performance of his duties, becomes aware of —
-
-(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the designated clearing house to a material extent;
-
-(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or
-
-(c) any irregularity that has or may have a material effect upon the accounts of the designated clearing house, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors,
-
-the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
-
-[1/2005]
-
-(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
-
-[1/2005]
-
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor may have, apart from this section, as a defendant in an action for defamation.
-
-[1/2005]
-
-(4) The Authority may impose all or any of the following duties on an auditor of a designated clearing house:
-
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
-
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the designated clearing house;
-
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
-
-(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c),
-
-and the auditor shall carry out such duties.
-
-[1/2005]
-
-(5) The designated clearing house shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
-
-[1/2005]
-
-[E (DM) A, s. 16]
-
-### Power of Authority to exempt designated clearing houses from provisions of this Part
-
-81C\. The Authority may exempt a designated clearing house or a class of designated clearing houses from any of the provisions of this Part if it is satisfied that the non-compliance by such designated clearing house or class of designated clearing houses with such provision would not detract from the objectives specified in section 47, subject to such conditions or restrictions as may be imposed by the Authority.
-
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
 Subdivision (5) — Immunity
 
 ### Immunity from criminal or civil liability
 
-81D\. No criminal or civil liability shall be incurred by —
+46ZA\.—(1) No criminal or civil liability shall be incurred by a licensed trade repository, or by any person specified in subsection (2), for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of the obligations of the licensed trade repository under this Act or under the business rules of the licensed trade repository.
 
-(a) a designated clearing house; or
+(2) For the purposes of subsection (1), the specified person is any person acting on behalf of the licensed trade repository, including —
 
-(b) any person acting on behalf of a designated clearing house, including —
+(a) any director of the licensed trade repository; or
 
-(i) any director of the designated clearing house; or
+(b) any member of any committee established by the licensed trade repository.
 
-(ii) any member of any committee established by the designated clearing house,
+[Act 34 of 2012 wef 01/08/2013]
 
-for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of its or his obligations under this Act or the business rules of the designated clearing house, including its default rules.
+Division 3 —
 
-[1/2005]
+Regulation of Licensed Foreign Trade Repositories
 
-[E (DM) A, s. 16]
+### General obligations
+
+46ZB\.—(1) A licensed foreign trade repository —
+
+(a) shall operate in a safe and efficient manner in its capacity as a trade repository;
+
+(b) shall manage any risks associated with its business and operations prudently;
+
+(c) in discharging its obligations under this Act, shall not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+
+(d) shall ensure that access for participation in the licensed foreign trade repository is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of the licensed foreign trade repository and to protect the interests of the investing public;
+
+(e) shall maintain business rules that make satisfactory provision for the licensed foreign trade repository to be operated in a safe and efficient manner;
+
+(f) shall enforce compliance by its participants with its business rules;
+
+(g) shall have sufficient financial, human and system resources —
+
+(i) to operate in a safe and efficient manner in its capacity as a trade repository;
+
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements;
+
+(h) shall ensure that the Authority is provided with access to all information on transactions reported to the licensed foreign trade repository;
+
+(i) shall maintain governance arrangements that are adequate for the licensed foreign trade repository to be operated in a safe and efficient manner; and
+
+(j) shall ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+
+(2) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to manage risks prudently
+
+46ZC\. Without prejudice to the generality of section 46ZB(1)(b), a licensed foreign trade repository shall —
+
+(a) ensure that the systems and controls concerning the assessment and management of risks to the licensed foreign trade repository are adequate and appropriate for the scale and nature of its operations; and
+
+(b) have adequate arrangements, processes, mechanisms or services to collect and maintain information on transactions reported to the licensed foreign trade repository.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to notify Authority of certain matters
+
+46ZD\. A licensed foreign trade repository shall, as soon as practicable after the occurrence of any of the following circumstances, give the Authority notice of the circumstance:
+
+(a) any material change to the information provided by the licensed foreign trade repository in its application under section 46D(2);
+
+(b) the licensed foreign trade repository becoming aware of any financial irregularity or other matter which in its opinion may affect its ability to discharge its financial obligations;
+
+(c) any other matter that the Authority may —
+
+(i) prescribe by regulations made under section 46ZJ for the purposes of this paragraph; or
+
+(ii) specify by notice in writing to the licensed foreign trade repository in any particular case.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to maintain proper records
+
+46ZE\.—(1) A licensed foreign trade repository shall maintain a record of all transactions reported to the licensed foreign trade repository.
+
+(2) The Authority may prescribe by regulations made under section 46ZJ —
+
+(a) the form and manner in which the record referred to in subsection (1) shall be maintained;
+
+(b) the information and details relating to each transaction that are to be maintained in the record; and
+
+(c) the period of time that the record is to be maintained.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to submit periodic reports
+
+46ZF\. A licensed foreign trade repository shall submit to the Authority such reports in such form and manner, and at such frequency, as the Authority may prescribe.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to assist Authority
+
+46ZG\. A licensed foreign trade repository shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including —
+
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
+
+(b) the provision of —
+
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
+
+(A) relating to the business or operations of the licensed foreign trade repository; or
+
+(B) in respect of any transaction or class of transactions reported to the licensed foreign trade repository; and
+
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to maintain confidentiality
+
+46ZH\.—(1) Subject to subsection (2), a licensed foreign trade repository and its officers and employees shall maintain, and aid in maintaining, the confidentiality of all user information or transaction information that —
+
+(a) comes to the knowledge of the licensed foreign trade repository or any of its officers or employees; or
+
+(b) is in the possession of the licensed foreign trade repository or any of its officers or employees.
+
+(2) Subsection (1) shall not apply to —
+
+(a) the disclosure of user information or transaction information for such purposes, or in such circumstances, as the Authority may prescribe;
+
+(b) any disclosure of user information or transaction information which is authorised by the Authority to be disclosed or furnished; or
+
+(c) the disclosure of user information or transaction information pursuant to any requirement imposed under any written law or order of court in Singapore.
+
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing a licensed foreign trade repository from entering into a written agreement with a participant which obliges the licensed foreign trade repository to maintain a higher degree of confidentiality than that specified in this section.
+
+(4) A licensed foreign trade repository shall comply with such other requirements relating to confidentiality as the Authority may prescribe.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Penalties under this Division
+
+46ZI\. Any licensed foreign trade repository which contravenes section 46ZB(1), 46ZC, 46ZD, 46ZE(1), 46ZF, 46ZG or 46ZH(1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Division 4 —
+
+General Powers of Authority
+
+### Power of Authority to make regulations
+
+46ZJ\.—(1) Without prejudice to section 341, the Authority may make regulations for the purposes of this Part, including regulations relating to —
+
+(a) the grant of a trade repository licence or foreign trade repository licence;
+
+(b) the requirements applicable to a licensed trade repository or licensed foreign trade repository;
+
+(c) the measures that a licensed trade repository or licensed foreign trade repository shall adopt for the purposes of managing or mitigating risks;
+
+(d) the maintenance of records of transactions reported to a licensed trade repository or licensed foreign trade repository; and
+
+(e) the submission of reports by a licensed trade repository or licensed foreign trade repository.
+
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for a penalty not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, for a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to issue directions
+
+46ZK\.—(1) The Authority may issue directions, whether of a general or specific nature, by notice in writing, to a licensed trade repository or licensed foreign trade repository, if the Authority thinks it necessary or expedient —
+
+(a) for ensuring the safe and efficient operation of the licensed trade repository or licensed foreign trade repository, or of licensed trade repositories or licensed foreign trade repositories in general;
+
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
+
+(c) in the interests of the public or a section of the public or for the protection of investors;
+
+(d) for the effective administration of this Act; or
+
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 46E(3) or (4), 46K(2), 46U(5) or (10), 46V(11) or (12) or 46ZL(1) or (2), or such other obligations or requirements under this Act or as may be prescribed by the Authority.
+
+(2) Without prejudice to the generality of subsection (1), the Authority may issue directions, by notice in writing, to a licensed trade repository or licensed foreign trade repository —
+
+(a) with respect to the publication of any information relating to any transaction reported to the licensed trade repository or licensed foreign trade repository, as the case may be; or
+
+(b) for ensuring that the Authority and such other entities as the Authority may specify are provided with access to any information on any transaction reported to the licensed trade repository or licensed foreign trade repository.
+
+(3) A licensed trade repository or licensed foreign trade repository shall comply with every direction issued to it under subsection (1) or (2).
+
+(4) Any licensed trade repository or licensed foreign trade repository which, without reasonable excuse, contravenes a direction issued to it under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) It shall not be necessary to publish any direction issued under subsection (1) or (2) in theGazette.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to exempt licensed trade repository or licensed foreign trade repository from provisions of this Part
+
+46ZL\.—(1) Without prejudice to section 337(1), the Authority may, by regulations made under section 46ZJ, exempt any licensed trade repository, licensed foreign trade repository, or class of licensed trade repositories or licensed foreign trade repositories from any provision of this Part, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(2) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any licensed trade repository or licensed foreign trade repository from any provision of this Part, subject to such conditions or restrictions as the Authority may specify by notice in writing, if the Authority is satisfied that the non-compliance by that licensed trade repository or licensed foreign trade repository with that provision will not detract from the objectives specified in section 46A.
+
+(3) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+## PART III
+
+CLEARING FACILITIES
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Objectives of this Part
+
+47\. The objectives of this Part are —
+
+(a) to promote safe and efficient clearing facilities; and
+
+(b) to reduce systemic risk.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Interpretation of this Part
+
+48\.—(1) In this Part, unless the context otherwise requires —
+
+“default proceedings” means any proceedings or other action taken by an approved clearing house or a recognised clearing house under its default rules;
+
+“default rules”, in relation to an approved clearing house or a recognised clearing house, means the business rules of the approved clearing house or recognised clearing house which provide for the taking of proceedings or other action if a participant has failed, or appears to be unable or to be likely to become unable, to meet his obligations for any unsettled or open market contract to which he is a party;
+
+“defaulter” means a participant who is the subject of any default proceedings;
+
+“foreign corporation” means a corporation which is incorporated or formed outside Singapore;
+
+“market charge” means a security interest, whether fixed or floating, granted in favour of an approved clearing house, or a recognised clearing house, over market collateral;
+
+“market collateral” means any property held by or deposited with an approved clearing house or a recognised clearing house, for the purpose of securing any liability arising directly in connection with the ensuring of the performance of market contracts by the approved clearing house or recognised clearing house;
+
+“market contract” means —
+
+(a) a contract subject to the business rules of an approved clearing house or a recognised clearing house, that is entered into between the approved clearing house or recognised clearing house and a participant pursuant to a novation (however described), whether before or after default proceedings have commenced, which is in accordance with those business rules and for the purposes of the clearing or settlement of transactions using the clearing facility of the approved clearing house or recognised clearing house; or
+
+(b) a transaction which is being cleared or settled using the clearing facility of an approved clearing house or a recognised clearing house, and in accordance with the business rules of the approved clearing house or recognised clearing house, whether or not a novation referred to in paragraph (a) is to take place;
+
+“property”, in relation to a market charge or market collateral, means —
+
+(a) any money, letter of credit, banker’s draft, certified cheque, guarantee or other similar instrument;
+
+(b) any securities;
+
+(c) any futures contract, derivatives contract or other similar financial contract, arrangement or transaction; or
+
+(d) any other asset of value acceptable to an approved clearing house or a recognised clearing house;
+
+“relevant office holder” means —
+
+(a) the Official Assignee exercising his powers under the Bankruptcy Act (Cap. 20);
+
+(b) a person acting in relation to a corporation as the liquidator, the provisional liquidator, the receiver, the receiver and manager or the judicial manager of the corporation, or acting in an equivalent capacity in relation to a corporation; or
+
+(c) a person acting in relation to an individual as the trustee in bankruptcy, or the interim receiver of the property, of the individual, or acting in an equivalent capacity in relation to an individual;
+
+“settlement”, in relation to a market contract, includes partial settlement;
+
+“Singapore corporation” means a corporation which is incorporated in Singapore.
+
+(2) Where a charge is granted partly for the purpose specified in the definition of “market charge” in subsection (1) and partly for any other purpose or purposes, the charge shall be treated as a market charge under this Part insofar as it has effect for that specified purpose.
+
+(3) Where any collateral is granted partly for the purpose specified in the definition of “market collateral” in subsection (1) and partly for any other purpose or purposes, the collateral shall be treated as market collateral under this Part insofar as it has been provided for that specified purpose.
+
+(4) Any references in this Part to the law of insolvency is a reference to —
+
+(a) the Bankruptcy Act;
+
+(b) Parts VIIIA, IX and X of the Companies Act (Cap. 50); and
+
+(c) any other written law, whether in Singapore or elsewhere, which is concerned with, or in any way related to, the bankruptcy or insolvency of a person, other than the Banking Act (Cap. 19).
+
+(5) Any reference in this Part to a settlement, in relation to a market contract, is a reference to the discharge of the rights and liabilities of the parties to the market contract, whether by performance, compromise or otherwise.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Division 1 —
+
+Establishment of Clearing Facilities
+
+### Requirement for approval or recognition
+
+49\.—(1) No person shall establish or operate a clearing facility, or hold himself out as operating a clearing facility, unless the person is —
+
+(a) an approved clearing house; or
+
+(b) a recognised clearing house.
+
+(2) No person shall hold himself out —
+
+(a) as an approved clearing house, unless he is an approved clearing house; or
+
+(b) as a recognised clearing house, unless he is a recognised clearing house.
+
+(3) Except with the written approval of the Authority, no person, other than an approved clearing house or a recognised clearing house, shall take or use, or have attached to or exhibited at any place —
+
+(a) the title or description “securities clearing house” or “futures clearing house” in any language; or
+
+(b) any title or description which resembles a title or description referred to in paragraph (a).
+
+(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) Without prejudice to section 337(1), the Authority may, by regulations made under section 81Q, exempt any corporation or class of corporations from subsection (1), subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(7) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any corporation from subsection (1), subject to such conditions or restrictions as the Authority may specify by notice in writing, if the Authority is satisfied that the exemption will not detract from the objectives specified in section 47.
+
+(8) It shall not be necessary to publish any exemption granted under subsection (7) in theGazette.
+
+(9) The Authority may, at any time, by notice in writing —
+
+(a) add to the conditions and restrictions referred to in subsection (7); or
+
+(b) vary or revoke any condition or restriction referred to in that subsection.
+
+(10) Every corporation that is granted an exemption under subsection (6) shall satisfy every condition or restriction imposed on it under that subsection.
+
+(11) Every corporation that is granted an exemption under subsection (7) shall, for the duration of the exemption, satisfy every condition or restriction imposed on it under that subsection or subsection (9).
+
+(12) Any corporation which contravenes subsection (10) or (11) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Application for approval or recognition
+
+50\.—(1) A Singapore corporation may apply to the Authority to be —
+
+(a) approved as an approved clearing house; or
+
+(b) recognised as a recognised clearing house.
+
+(2) A foreign corporation may apply to the Authority to be recognised as a recognised clearing house.
+
+(3) An application under subsection (1) or (2) shall be —
+
+(a) made in such form and manner as the Authority may prescribe; and
+
+(b) accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
+
+(4) The Authority may require an applicant to furnish the Authority with such information or documents as the Authority considers necessary in relation to the application.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to approve or recognise clearing house
+
+51\.—(1) Where a Singapore corporation has made an application under section 50(1), the Authority may —
+
+(a) in the case of an application to be approved as an approved clearing house, approve the Singapore corporation as an approved clearing house; or
+
+(b) in the case of an application to be recognised as a recognised clearing house, recognise the Singapore corporation as a recognised clearing house.
+
+(2) Where a foreign corporation has made an application under section 50(2), the Authority may recognise the corporation as a recognised clearing house.
+
+(3) Notwithstanding subsection (1), the Authority may, with the consent of the applicant —
+
+(a) treat an application under section 50(1)(a) as an application under section 50(1)(b), if the Authority is of the opinion that the applicant would be more appropriately regulated as a recognised clearing house; or
+
+(b) treat an application under section 50(1)(b) as an application under section 50(1)(a), if the Authority is of the opinion that the applicant would be more appropriately regulated as an approved clearing house.
+
+(4) The Authority may approve a Singapore corporation as an approved clearing house under subsection (1)(a), recognise a Singapore corporation as a recognised clearing house under subsection (1)(b) or recognise a foreign corporation as a recognised clearing house under subsection (2), subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing, including conditions or restrictions, either of a general or specific nature, relating to —
+
+(a) the activities that the corporation may undertake;
+
+(b) the products that may be cleared or settled by any clearing facility established or operated by the corporation; and
+
+(c) the nature of the investors or participants who may use or have an interest in any clearing facility established or operated by the corporation.
+
+(5) The Authority may, at any time, by notice in writing to the corporation, vary any condition or restriction or impose such further condition or restriction as the Authority may think fit.
+
+(6) An approved clearing house or a recognised clearing house shall, for the duration of the approval or recognition, satisfy every condition or restriction that may be imposed on it under subsection (4) or (5).
+
+(7) The Authority shall not approve an applicant as an approved clearing house, or recognise an applicant as a recognised clearing house, unless the applicant meets such requirements, including minimum financial requirements, as the Authority may prescribe, either generally or specifically.
+
+(8) The Authority may refuse to approve a Singapore corporation as an approved clearing house, or recognise a Singapore corporation or foreign corporation as a recognised clearing house, if —
+
+(a) the corporation has not provided the Authority with such information as the Authority may require, relating to —
+
+(i) the corporation or any person employed by or associated with the corporation for the purposes of the corporation’s business; or
+
+(ii) any circumstances likely to affect the corporation’s manner of conducting business;
+
+(b) any information or document provided by the corporation to the Authority is false or misleading;
+
+(c) the corporation or a substantial shareholder of the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(d) execution against the corporation or a substantial shareholder of the corporation in respect of a judgment debt has been returned unsatisfied in whole or in part;
+
+(e) a receiver, a receiver and manager, a judicial manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation or a substantial shareholder of the corporation;
+
+(f) the corporation or a substantial shareholder of the corporation has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with the creditors of the corporation or shareholder, as the case may be, being a compromise or scheme of arrangement that is still in operation;
+
+(g) the corporation, a substantial shareholder of the corporation or any officer of the corporation —
+
+(i) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that the corporation, shareholder or officer, as the case may be, had acted fraudulently or dishonestly; or
+
+(ii) has been convicted of an offence under this Act committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012;
+
+(h) the Authority is not satisfied as to the educational or other qualifications or experience of the officers or employees of the corporation, having regard to the nature of the duties they are to perform in connection with the establishment or operation of any clearing facility;
+
+(i) the corporation fails to satisfy the Authority that the corporation is a fit and proper person or that all of its officers, employees and substantial shareholders are fit and proper persons;
+
+(j) the Authority has reason to believe that the corporation may not be able to act in the best interests of investors or its members, participants or customers, having regard to the reputation, character, financial integrity and reliability of the corporation or its officers, employees or substantial shareholders;
+
+(k) the Authority is not satisfied as to —
+
+(i) the financial standing of the corporation or any of its substantial shareholders; or
+
+(ii) the manner in which the business of the corporation is to be conducted;
+
+(l) the Authority is not satisfied as to the record of past performance or expertise of the corporation, having regard to the nature of the business which the corporation may carry on in connection with the establishment or operation of any clearing facility;
+
+(m) there are other circumstances which are likely to —
+
+(i) lead to the improper conduct of business by the corporation or any of its officers, employees or substantial shareholders; or
+
+(ii) reflect discredit on the manner of conducting the business of the corporation or any of its substantial shareholders;
+
+(n) in the case of any clearing facility that the corporation operates, the Authority has reason to believe that the corporation, or any of its officers or employees, will not operate a safe and efficient clearing facility;
+
+(o) the corporation does not satisfy the criteria prescribed under section 52 to be approved as an approved clearing house or recognised as a recognised clearing house, as the case may be; or
+
+(p) the Authority is of the opinion that it would be contrary to the interests of the public to approve or recognise the corporation.
+
+(9) Subject to subsection (10), the Authority shall not refuse to approve a Singapore corporation as an approved clearing house, or recognise a Singapore corporation or foreign corporation as a recognised clearing house, under subsection (8) without giving the corporation an opportunity to be heard.
+
+(10) The Authority may refuse to approve a Singapore corporation as an approved clearing house, or recognise a Singapore corporation or foreign corporation as a recognised clearing house, on any of the following grounds without giving the corporation an opportunity to be heard:
+
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
+
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(11) The Authority shall give notice in theGazetteof any corporation approved as an approved clearing house under subsection (1)(a) or recognised as a recognised clearing house under subsection (1)(b) or (2), and such notice may include all or any of the conditions and restrictions imposed by the Authority on the corporation under subsections (4) and (5).
+
+(12) Any applicant which is aggrieved by a refusal of the Authority to grant to the applicant an approval under subsection (1)(a) or a refusal of the Authority to recognise the applicant under subsection (1)(b) or (2) may, within 30 days after the applicant is notified of the refusal, appeal to the Minister, whose decision shall be final.
+
+(13) Any approved clearing house or recognised clearing house which contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### General criteria to be taken into account by Authority
+
+52\.—(1) The Authority may prescribe the criteria which it may take into account for the purposes of deciding —
+
+(a) whether a Singapore corporation referred to in section 50(1) or 54(1) should be approved as an approved clearing house or recognised as a recognised clearing house;
+
+(b) whether a foreign corporation referred to in section 50(2) should be recognised as a recognised clearing house; and
+
+(c) whether an approved clearing house or a recognised clearing house that is subject to a review by the Authority under section 54(4) should be approved as an approved clearing house or recognised as a recognised clearing house.
+
+(2) Without prejudice to section 51 and subsection (1), the Authority may, for the purposes of deciding whether to recognise a foreign corporation as a recognised clearing house under section 51(2), have regard, in addition to any requirements prescribed under section 51(7) and any criteria prescribed under subsection (1), to —
+
+(a) whether adequate arrangements exist for co-operation between the Authority and the primary financial services regulatory authority responsible for the supervision of the foreign corporation in the country or territory in which the head office or principal place of business of the foreign corporation is situated; and
+
+(b) whether the foreign corporation is, in the country or territory in which the head office or principal place of business of the foreign corporation is situated, subject to requirements and supervision comparable, in the degree to which the objectives specified in section 47 are achieved, to the requirements and supervision to which approved clearing houses and recognised clearing houses are subject under this Act.
+
+(3) In considering whether a foreign corporation has met the requirements mentioned in subsection (2)(b), the Authority may have regard to —
+
+(a) the relevant laws and practices of the country or territory in which the head office or principal place of business of the foreign corporation is situated; and
+
+(b) the rules and practices of the foreign corporation.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Annual fees payable by approved clearing house or recognised clearing house
+
+53\.—(1) Every approved clearing house and every recognised clearing house shall pay to the Authority such annual fees as may be prescribed in such manner as may be specified by the Authority.
+
+(2) The Authority may, where it considers appropriate, refund or remit the whole or any part of any annual fee paid or payable to it.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Change in status
+
+54\.—(1) A Singapore corporation which is an approved clearing house or a recognised clearing house may apply to the Authority to change its status in the manner referred to in subsection (5).
+
+(2) An application under subsection (1) shall be —
+
+(a) made in such form and manner as the Authority may prescribe; and
+
+(b) accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
+
+(3) The Authority may require an applicant to furnish the Authority with such information or documents as the Authority considers necessary in relation to the application.
+
+(4) The Authority may, from time to time, on its own initiative, review the status of a Singapore corporation that is an approved clearing house or a recognised clearing house in accordance with the requirements prescribed under section 51(7) and the criteria prescribed under section 52(1).
+
+(5) Where an application is made by a Singapore corporation under subsection (1), or where a review of the status of a Singapore corporation is conducted by the Authority under subsection (4), the Authority may —
+
+(a) if the corporation is an approved clearing house, withdraw the approval as such and recognise the corporation as a recognised clearing house under section 51(1)(b);
+
+(b) if the corporation is a recognised clearing house, withdraw the recognition as such and approve the corporation as an approved clearing house under section 51(1)(a); or
+
+(c) make no change to the status of the corporation as an approved clearing house or a recognised clearing house.
+
+(6) Where an application is made under subsection (1), the Authority shall not exercise its power under subsection (5)(c) without giving the Singapore corporation an opportunity to be heard.
+
+(7) Where a review of the status of a Singapore corporation is conducted by the Authority on its own initiative under subsection (4), the Authority shall not exercise its powers under subsection (5)(a) or (b) without giving the corporation an opportunity to be heard.
+
+(8) Any Singapore corporation which is aggrieved by a decision of the Authority made in relation to the corporation after a review under subsection (4) may, within 30 days after the corporation is notified of the decision, appeal to the Minister, whose decision shall be final.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Cancellation of approval or recognition
+
+55\.—(1) An approved clearing house or a recognised clearing house which intends to cease operating its clearing facility or, where it operates more than one clearing facility, all of its clearing facilities, may apply to the Authority to cancel its approval as an approved clearing house or recognition as a recognised clearing house, as the case may be.
+
+(2) An application under subsection (1) shall be made in such form and manner, and not later than such time, as the Authority may prescribe.
+
+(3) The Authority may cancel the approval of an approved clearing house, or the recognition of a recognised clearing house, on such application if the Authority is satisfied that —
+
+(a) the approved clearing house or recognised clearing house has ceased operating its clearing facility or all of its clearing facilities, as the case may be; and
+
+(b) the cancellation of the approval or recognition, as the case may be, will not detract from the objectives specified in section 47.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to revoke approval and recognition
+
+56\.—(1) The Authority may revoke any approval of a Singapore corporation as an approved clearing house under section 51(1)(a), any recognition of a Singapore corporation as a recognised clearing house under section 51(1)(b) or any recognition of a foreign corporation as a recognised clearing house under section 51(2), if —
+
+(a) there exists at any time a ground under section 51(7) or (8) on which the Authority may refuse an application;
+
+(b) the corporation does not commence operating its clearing facility, or, where it operates more than one clearing facility, all of its clearing facilities, within 12 months after the date on which it was granted the approval under section 51(1)(a) or was recognised under section 51(1)(b) or (2), as the case may be;
+
+(c) the corporation ceases to operate its clearing facility or, where it operates more than one clearing facility, all of its clearing facilities;
+
+(d) the corporation contravenes —
+
+(i) any condition or restriction applicable in respect of its approval or recognition, as the case may be;
+
+(ii) any direction issued to it by the Authority under this Act; or
+
+(iii) any provision in this Act;
+
+(e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
+
+(f) any information or document provided by the corporation to the Authority is false or misleading.
+
+(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) any approval under section 51(1)(a) or recognition under section 51(1)(b) or (2) that was granted to a corporation without giving the corporation an opportunity to be heard.
+
+(3) The Authority may revoke an approval under section 51(1)(a), or a recognition under section 51(1)(b) or (2), that was granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
+
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
+
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(4) For the purposes of subsection (1)(c), a corporation shall be deemed to have ceased to operate its clearing facility if —
+
+(a) it has ceased to operate the clearing facility for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
+
+(b) it has ceased to operate the clearing facility under a direction issued by the Authority under section 81R.
+
+(5) Any corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister, whose decision shall be final.
+
+(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
+
+(8) Any revocation under subsection (1) or (3) of the approval or recognition of a corporation under section 51(1) or (2) shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the corporation, whether the agreement, transaction or arrangement was entered into before, on or after the revocation of the approval or recognition; or
+
+(b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
+
+(9) The Authority shall give notice in theGazetteof any revocation under subsection (1) or (3) of any approval or recognition of a corporation under section 51(1) or (2).
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Division 2 —
+
+Regulation of Approved Clearing Houses
+
+Subdivision (1) — Obligations of approved clearing houses
+
+### General obligations
+
+57\.—(1) An approved clearing house —
+
+(a) shall operate a safe and efficient clearing facility;
+
+(b) shall manage any risks associated with its business and operations prudently;
+
+(c) in discharging its obligations under this Act, shall not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+
+(d) shall ensure that access for participation in its clearing facility is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of its facility and to protect the interests of the investing public;
+
+(e) shall maintain business rules that make satisfactory provision for —
+
+(i) the clearing facility to be operated in a safe and efficient manner; and
+
+(ii) the proper regulation and supervision of its members;
+
+(f) shall enforce compliance by its members with its business rules;
+
+(g) shall have sufficient financial, human and system resources —
+
+(i) to operate a safe and efficient clearing facility;
+
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements;
+
+(h) shall maintain governance arrangements that are adequate for the clearing facility to be operated in a safe and efficient manner; and
+
+(i) shall ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+
+(2) The obligations imposed on an approved clearing house under this Act shall apply to all facilities for clearing or settlement operated by the approved clearing house.
+
+(3) Notwithstanding subsection (2), the Authority may by notice in writing exempt any clearing facility operated by an approved clearing house from all or any of the provisions of this Act, if the Authority is satisfied that such exemption would not detract from the objectives specified in section 47.
+
+(4) It shall not be necessary to publish any exemption granted under subsection (3) in theGazette.
+
+(5) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to notify Authority of certain matters
+
+58\.—(1) An approved clearing house shall, as soon as practicable after the occurrence of any of the following circumstances, give the Authority notice of the circumstance:
+
+(a) any material change to the information provided by the approved clearing house in its application under section 50(1) or 54(1);
+
+(b) the carrying on of any business (referred to in this section as a proscribed business) by the approved clearing house that is —
+
+(i) not the business of operating a clearing facility;
+
+(ii) not incidental to operating a clearing facility; or
+
+(iii) not such business, or within such class of businesses, as the Authority may prescribe;
+
+(c) the acquisition by the approved clearing house of a substantial shareholding in a corporation (referred to in this section as a proscribed corporation) which carries on any business that is —
+
+(i) not the business of operating a clearing facility;
+
+(ii) not incidental to operating a clearing facility; or
+
+(iii) not such business, or within such class of businesses, as the Authority may prescribe;
+
+(d) the approved clearing house becoming aware of any financial irregularity or other matter which in its opinion —
+
+(i) may affect its ability to discharge its financial obligations; or
+
+(ii) may affect the ability of a member of the approved clearing house to meet its financial obligations to the approved clearing house;
+
+(e) the approved clearing house reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a member of the approved clearing house;
+
+(f) any other matter that the Authority may —
+
+(i) prescribe by regulations made under section 81Q for the purposes of this paragraph; or
+
+(ii) specify by notice in writing to the approved clearing house in any particular case.
+
+(2) Without prejudice to the generality of section 81R(1), the Authority may, at any time after receiving a notice referred to in subsection (1), issue directions to the approved clearing house —
+
+(a) where the notice relates to a matter referred to in subsection (1)(b) —
+
+(i) to cease carrying on the proscribed business; or
+
+(ii) to carry on the proscribed business subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 81R(1); or
+
+(b) where the notice relates to a matter referred to in subsection (1)(c) —
+
+(i) to dispose of all or any part of its shareholding in the proscribed corporation within such time and subject to such conditions as the Authority considers appropriate; or
+
+(ii) to exercise its rights relating to such shareholding, or to not exercise such rights, subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 81R(1).
+
+(3) An approved clearing house shall comply with every direction issued to it under subsection (2) notwithstanding anything to the contrary in the Companies Act (Cap. 50) or any other law.
+
+(4) An approved clearing house shall notify the Authority of any matter that the Authority may prescribe by regulations made under section 81Q for the purposes of this subsection, no later than such time as the Authority may prescribe by those regulations.
+
+(5) An approved clearing house shall notify the Authority of any matter that the Authority may specify by notice in writing to the recognised clearing house, no later than such time as the Authority may specify in that notice.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to manage risks prudently, etc.
+
+59\.—(1) Without prejudice to the generality of section 57(1)(b), an approved clearing house shall —
+
+(a) ensure that the systems and controls concerning the assessment and management of risks to its clearing facility are adequate and appropriate for the scale and nature of its operations;
+
+(b) obtain the Authority’s approval to the limits which the approved clearing house intends to establish on the number of open positions which may be held by any person under any futures contract cleared or settled with the approved clearing house, and vary those limits only in a manner approved by the Authority; and
+
+(c) obtain the Authority’s approval if the approved clearing house does not intend to establish limits on the number of open positions which may be held by any person under any futures contract cleared or settled with the approved clearing house.
+
+(2) Nothing in subsection (1) shall preclude an approved clearing house from —
+
+(a) establishing, in respect of open positions which may be held by any person under any futures contract cleared or settled with the approved clearing house, different position limits for different futures contracts, or for different months or days in the period the positions may be held; or
+
+(b) establishing limits whether on long or short positions, and whether on a net or gross basis.
+
+(3) Any person who wilfully exceeds any position limit established or varied by an approved clearing house shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation in relation to customers’ money and assets held by approved clearing house
+
+60\.—(1) Without prejudice to sections 81Q and 341, the Authority may make regulations —
+
+(a) relating to how any money or assets deposited with or paid to an approved clearing house by its members, for or in relation to any contracts of the customers of those members, are to be held by the approved clearing house and, in particular, requiring any such money or assets to be deposited in trust accounts or custody accounts;
+
+(b) relating to the circumstances under which, and the purposes for which, the money or assets referred to in paragraph (a) may be used by the approved clearing house;
+
+(c) relating to how the approved clearing house may invest the money or assets referred to in paragraph (a); and
+
+(d) for any other purpose relating to the handling of the money and assets referred to in paragraph (a).
+
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for a penalty not exceeding a fine of $200,000 and, in the case of a continuing offence, for a further penalty not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to maintain proper records
+
+61\.—(1) An approved clearing house shall maintain a record of all transactions effected through its clearing facility.
+
+(2) The Authority may prescribe by regulations made under section 81Q —
+
+(a) the form and manner in which the record referred to in subsection (1) shall be maintained;
+
+(b) the extent to which the record includes details of each transaction; and
+
+(c) the period of time that the record is to be maintained.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to submit periodic reports
+
+62\. An approved clearing house shall submit to the Authority such reports in such form and manner, and at such frequency, as the Authority may prescribe.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to assist Authority
+
+63\. An approved clearing house shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including —
+
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
+
+(b) the provision of —
+
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
+
+(A) relating to the business of the approved clearing house; or
+
+(B) in respect of any transaction or class of transactions cleared or settled by the approved clearing house; and
+
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to maintain confidentiality
+
+64\.—(1) Subject to subsection (2), an approved clearing house and its officers and employees shall maintain, and aid in maintaining, confidentiality of all user information that —
+
+(a) comes to the knowledge of the approved clearing house or any of its officers or employees; or
+
+(b) is in the possession of the approved clearing house or any of its officers or employees.
+
+(2) Subsection (1) shall not apply to —
+
+(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
+
+(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
+
+(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
+
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing an approved clearing house from entering into a written agreement with a user which obliges the approved clearing house to maintain a higher degree of confidentiality than that specified in this section.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Penalties under this Subdivision
+
+65\. Any approved clearing house which contravenes section 57(1), 58(1) or (3), 59(1), 61(1), 62, 63 or 64(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Subdivision (2) — Rules of approved clearing houses
+
+### Business rules of approved clearing houses
+
+66\.—(1) Without limiting the generality of sections 57 and 81Q —
+
+(a) the Authority may prescribe the matters that an approved clearing house shall make provision for in the business rules of the approved clearing house; and
+
+(b) the approved clearing house shall make provision for those matters in its business rules.
+
+(2) An approved clearing house shall not make any amendment to its business rules unless it complies with such requirements as the Authority may prescribe.
+
+(3) In this Subdivision, any reference to an amendment to a business rule shall be construed as a reference to a change to the scope of, or to any requirement, obligation or restriction under, the business rule, whether the change is made by an alteration to the text of the business rule or by any other notice issued by or on behalf of the approved clearing house.
+
+(4) Any approved clearing house which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Business rules of approved clearing houses have effect as contract
+
+67\.—(1) The business rules of an approved clearing house shall be deemed to be, and shall operate as, a binding contract —
+
+(a) between the approved clearing house and each issuer of securities;
+
+(b) between the approved clearing house and each participant;
+
+(c) between each issuer of securities and each participant; and
+
+(d) between each participant and every other participant.
+
+(2) The approved clearing house, each issuer of securities and each participant shall be deemed to have agreed to observe, and perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the approved clearing house, issuer or participant, as the case may be.
+
+(3) In this section, “issuer”, in relation to any securities, means a person who issued or made available, or proposes to issue or make available, the securities, being securities that are cleared or settled by the approved clearing house.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of court to order observance or enforcement of business rules
+
+68\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of an approved clearing house fails to do so, the High Court may, on the application of the Authority, the approved clearing house or a person aggrieved by the failure, and after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules.
+
+(2) In this section, “person” includes an approved clearing house.
+
+(3) This section is in addition to, and not in derogation of, any other remedy available to the aggrieved person referred to in subsection (1).
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Non-compliance with business rules not to substantially affect rights of person
+
+69\. Any failure by an approved clearing house to comply with this Act or its business rules in relation to a matter shall not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules, so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Subdivision (3) — Matters requiring approval of Authority
+
+### Control of substantial shareholding in approved clearing house
+
+70\.—(1) No person shall enter into any agreement to acquire shares in an approved clearing house, being an agreement by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the approved clearing house, without first obtaining the approval of the Authority to enter into the agreement.
+
+(2) No person shall become either of the following without first obtaining the approval of the Authority:
+
+(a) a 12% controller of an approved clearing house;
+
+(b) a 20% controller of an approved clearing house.
+
+(3) In subsection (2) —
+
+“12% controller”, in relation to an approved clearing house, means a person, not being a 20% controller, who alone or together with his associates —
+
+(a) holds not less than 12% of the shares in the approved clearing house; or
+
+(b) is in a position to control not less than 12% of the votes in the approved clearing house;
+
+“20% controller”, in relation to an approved clearing house, means a person who, alone or together with his associates —
+
+(a) holds not less than 20% of the shares in the approved clearing house; or
+
+(b) is in a position to control not less than 20% of the votes in the approved clearing house.
+
+(4) In this section —
+
+(a) a person holds a share if —
+
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
+
+(ii) he otherwise has a legal or an equitable interest in that share, except such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
+
+(b) a reference to the control of a percentage of the votes in an approved clearing house shall be construed as a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the approved clearing house; and
+
+(c) a person,A, is an associate of another person,B, if —
+
+(i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
+
+(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+
+(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
+
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+
+(vi) Ais a related corporation ofB;
+
+(vii) Ais a corporation in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+
+(viii) Bis a corporation in whichA, whether alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the approved clearing house.
+
+(5) The Authority may grant its approval referred to in subsection (1) or (2) subject to such conditions or restrictions as the Authority may think fit.
+
+(6) Without prejudice to subsection (13), the Authority may, for the purposes of securing compliance with subsection (1) or (2) or any condition or restriction imposed under subsection (5), by notice in writing, direct the transfer or disposal of all or any of the shares of an approved clearing house in which a substantial shareholder, 12% controller or 20% controller of the approved clearing house has an interest.
+
+(7) Until a person to whom a direction has been issued under subsection (6) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act or the memorandum or articles of association or other constituent document or documents of the approved clearing house —
+
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+
+(b) the approved clearing house shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+
+(c) except in a liquidation of the approved clearing house, the approved clearing house shall not make any payment (whether by way of cash dividend, dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
+
+(8) Any issue of shares by an approved clearing house in contravention of subsection (7)(b) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return those shares to the approved clearing house, upon which the approved clearing house shall return to the person any payment received from the person in respect of those shares.
+
+(9) Any payment made by an approved clearing house in contravention of subsection (7)(c) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return the payment he has received to the approved clearing house.
+
+(10) Without prejudice to sections 81SB(1) and 337(1), the Authority may, by regulations made under section 81Q, exempt all or any of the following from subsection (1) or (2), subject to such conditions or restrictions as the Authority may prescribe in those regulations:
+
+(a) any person or class of persons;
+
+(b) any class or description of shares or interests in shares.
+
+(11) Without prejudice to sections 81SB(2) and 337(3) and (4), the Authority may, by notice in writing, exempt any person, shares or interests in shares from subsection (1) or (2), subject to such conditions or restrictions as the Authority may specify by notice in writing.
+
+(12) It shall not be necessary to publish any exemption granted under subsection (11) in theGazette.
+
+(13) Any person who contravenes subsection (1) or (2), or any condition or restriction imposed by the Authority under subsection (5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(14) Any person who contravenes subsection (7)(b) or (c), (8) or (9) or any direction issued by the Authority under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Approval of chairman, chief executive officer, director and key persons
+
+71\.—(1) No approved clearing house shall appoint a person as its chairman, chief executive officer or director unless the approved clearing house has obtained the approval of the Authority.
+
+(2) The Authority may, by notice in writing, require an approved clearing house to obtain the approval of the Authority for the appointment of any person to any key management position or committee of the approved clearing house, and the approved clearing house shall comply with the notice.
+
+(3) An application for approval under subsection (1) or (2) shall be made in such form and manner as the Authority may prescribe.
+
+(4) Without prejudice to the generality of section 81Q and to any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1) or (2), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+
+(5) Subject to subsection (6), the Authority shall not refuse an application for approval under this section without giving the approved clearing house an opportunity to be heard.
+
+(6) The Authority may refuse an application for approval on any of the following grounds without giving the approved clearing house an opportunity to be heard:
+
+(a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the person has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012 —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+(7) Where the Authority refuses an application for approval under this section, the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
+
+(8) An approved clearing house shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chairman, chief executive officer or director or of any person referred to in any notice issued by the Authority to the approved clearing house under subsection (2).
+
+(9) The Authority may make regulations under section 81Q relating to the composition and duties of the board of directors or any committee of an approved clearing house.
+
+(10) In this section, “committee” includes any committee of directors, disciplinary committee or appeals committee of an approved clearing house, and any body responsible for disciplinary action against a member of an approved clearing house.
+
+(11) Without prejudice to sections 81SB(1) and 337(1), the Authority may, by regulations made under section 81Q, exempt any approved clearing house or class of approved clearing houses from complying with subsection (1) or (8), subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(12) Without prejudice to sections 81SB(2) and 337(3) and (4), the Authority may, by notice in writing, exempt any approved clearing house from complying with subsection (1) or (8), subject to such conditions or restrictions as the Authority may specify by notice in writing.
+
+(13) It shall not be necessary to publish any exemption granted under subsection (12) in theGazette.
+
+(14) Subject to subsections (11) and (12), any approved clearing house which contravenes subsection (1), (2) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Listing of approved clearing houses on securities market
+
+72\.—(1) The securities of an approved clearing house shall not be listed for quotation on a securities market that is operated by any of its related corporations, unless the approved clearing house and the operator of the securities market have entered into such arrangements as the Authority may require —
+
+(a) for dealing with possible conflicts of interest that may arise from such listing; and
+
+(b) for the purpose of ensuring the integrity of the trading of the securities of the approved clearing house.
+
+(2) Where the securities of an approved clearing house are listed for quotation on a securities market operated by any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
+
+(a) the admission or removal of the approved clearing house to or from the official list of the securities market; and
+
+(b) the granting of approval for the securities of the approved clearing house to be, or the stopping or suspending of the securities of the approved clearing house from being, listed for quotation or quoted on the securities market.
+
+(3) The Authority may, by notice in writing to the operator of the securities market —
+
+(a) modify the listing rules of the securities market for the purpose of their application to the listing of the securities of the approved clearing house for quotation or trading; or
+
+(b) waive the application of any listing rule of the securities market to the approved clearing house.
+
+(4) Any approved clearing house which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Additional powers of Authority in respect of auditors
+
+73\.—(1) If an auditor of an approved clearing house, in the course of the performance of his duties, becomes aware of any matter or irregularity referred to in the following paragraphs, he shall immediately send to the Authority a written report of that matter or irregularity:
+
+(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the approved clearing house to a material extent;
+
+(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty;
+
+(c) any irregularity that has or may have a material effect upon the accounts of the approved clearing house, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors.
+
+(2) An auditor of an approved clearing house shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
+
+(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor of an approved clearing house may have, apart from this section, as a defendant in an action for defamation.
+
+(4) The Authority may impose all or any of the following duties on an auditor of an approved clearing house, and the auditor shall carry out the duties so imposed:
+
+(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
+
+(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the approved clearing house;
+
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
+
+(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c).
+
+(5) The approved clearing house shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Subdivision (4) — Immunity
+
+### Immunity from criminal or civil liability
+
+74\.—(1) No criminal or civil liability shall be incurred by an approved clearing house, or by any person specified in subsection (2), for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of the obligations of the approved clearing house under this Act or under the business rules of the approved clearing house (including the default rules of the approved clearing house).
+
+(2) For the purposes of subsection (1), the specified person is any person acting on behalf of the approved clearing house, including —
+
+(a) any director of the approved clearing house; or
+
+(b) any member of any committee established by the approved clearing house.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+Division 3 —
+
+Regulation of Recognised Clearing Houses
+
+### General obligations
+
+75\.—(1) A recognised clearing house —
+
+(a) shall operate a safe and efficient clearing facility;
+
+(b) shall manage any risks associated with its business and operations prudently;
+
+(c) in discharging its obligations under this Act, shall not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+
+(d) shall ensure that access for participation in its clearing facility is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of its facility and to protect the interests of the investing public;
+
+(e) shall maintain business rules that make satisfactory provision for —
+
+(i) the clearing facility to be operated in a safe and efficient manner; and
+
+(ii) the proper regulation and supervision of its members;
+
+(f) shall enforce compliance by its members with its business rules;
+
+(g) shall have sufficient financial, human and system resources —
+
+(i) to operate a safe and efficient clearing facility;
+
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements;
+
+(h) shall maintain governance arrangements that are adequate for the clearing facility to be operated in a safe and efficient manner; and
+
+(i) shall ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+
+(2) The obligations imposed on a recognised clearing house under this Act shall apply to all facilities for clearing or settlement operated by the recognised clearing house.
+
+(3) Notwithstanding subsection (2), the Authority may by notice in writing exempt any clearing facility operated by a recognised clearing house from all or any of the provisions of this Act, if the Authority is satisfied that such exemption would not detract from the objectives specified in section 47.
+
+(4) It shall not be necessary to publish any exemption granted under subsection (3) in theGazette.
+
+(5) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to notify Authority of certain matters
+
+76\.—(1) A recognised clearing house shall, as soon as practicable after the occurrence of any of the following circumstances, give the Authority notice of the circumstance:
+
+(a) any material change to the information provided by the recognised clearing house in its application under section 50(1) or (2) or 54(1);
+
+(b) the recognised clearing house becoming aware of any financial irregularity or other matter which in its opinion —
+
+(i) may affect its ability to discharge its financial obligations; or
+
+(ii) may affect the ability of a member of the recognised clearing house to meet its financial obligations to the recognised clearing house;
+
+(c) any other matter that the Authority may —
+
+(i) prescribe by regulations made under section 81Q for the purposes of this paragraph; or
+
+(ii) specify by notice in writing to the recognised clearing house in any particular case.
+
+(2) A recognised clearing house shall notify the Authority of any matter that the Authority may prescribe by regulations made under section 81Q for the purposes of this subsection, no later than such time as the Authority may prescribe by those regulations.
+
+(3) A recognised clearing house shall notify the Authority of any matter that the Authority may specify by notice in writing to the recognised clearing house, no later than such time as the Authority may specify in that notice.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation in relation to customers’ money and assets held by recognised clearing house
+
+77\.—(1) Without prejudice to sections 81Q and 341, the Authority may make regulations —
+
+(a) relating to how any money or assets deposited with or paid to a recognised clearing house by its members, for or in relation to any contracts of the customers of those members, are to be held by the recognised clearing house and, in particular, requiring any such money or assets to be deposited in trust accounts or custody accounts;
+
+(b) relating to the circumstances under which, and the purposes for which, the money or assets referred to in paragraph (a) may be used by the recognised clearing house;
+
+(c) relating to how the recognised clearing house may invest the money or assets referred to in paragraph (a); and
+
+(d) for any other purpose relating to the handling of the money or assets referred to in paragraph (a).
+
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for a penalty not exceeding a fine of $150,000 and, in the case of a continuing offence, for a further penalty not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to maintain proper records
+
+78\.—(1) A recognised clearing house shall maintain a record of all transactions effected through its clearing facility.
+
+(2) The Authority may prescribe by regulations made under section 81Q —
+
+(a) the form and manner in which the record referred to in subsection (1) shall be maintained;
+
+(b) the extent to which the record includes details of each transaction; and
+
+(c) the period of time that the record is to be maintained.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to submit periodic reports
+
+79\. A recognised clearing house shall submit to the Authority such reports in such form and manner, and at such frequency, as the Authority may prescribe.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to assist Authority
+
+80\. A recognised clearing house shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including —
+
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
+
+(b) the provision of —
+
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
+
+(A) relating to the business of the recognised clearing house; or
+
+(B) in respect of any transaction or class of transactions cleared or settled by the recognised clearing house; and
+
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Obligation to maintain confidentiality
+
+81\.—(1) Subject to subsection (2), a recognised clearing house and its officers and employees shall maintain, and aid in maintaining, confidentiality of all user information that —
+
+(a) comes to the knowledge of the recognised clearing house or any of its officers or employees; or
+
+(b) is in the possession of the recognised clearing house or any of its officers or employees.
+
+(2) Subsection (1) shall not apply to —
+
+(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
+
+(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
+
+(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
+
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing a recognised clearing house from entering into a written agreement with a user which obliges the recognised clearing house to maintain a higher degree of confidentiality than that specified in this section.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Penalties under this Division
+
+81A\. Any recognised clearing house which contravenes section 75(1), 76, 78(1), 79, 80 or 81(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 Division 4 —
 
@@ -5327,13 +6173,13 @@ Insolvency
 
 ### Application of this Division
 
-81E\. This Division shall apply to such transaction or class of transactions cleared or settled by any designated clearing house or class of designated clearing houses, and to such extent as may be prescribed by the Authority.
+81B\. This Division shall apply to such transaction or class of transactions cleared or settled by any approved clearing house or recognised clearing house, or by any class of approved clearing houses or recognised clearing houses, and to such extent, as may be prescribed by the Authority.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
 
-### Proceedings of designated clearing house shall take precedence over law of insolvency
+### Proceedings of approved clearing house or recognised clearing house shall take precedence over law of insolvency
 
-81F\.—(1) The following shall not be invalid to any extent at law by reason only of inconsistency with any law relating to the distribution of the assets of a person on insolvency, bankruptcy or winding up, or on the appointment of a receiver, a receiver and manager or an equivalent person over any of the assets of a person:
+81C\.—(1) The following shall not be invalid to any extent at law by reason only of inconsistency with any written law or rule of law relating to the distribution of the assets of a person on insolvency, bankruptcy or winding up, or on the appointment of a receiver, a receiver and manager or a person in an equivalent capacity over any of the assets of a person:
 
 (a) a market contract;
 
@@ -5341,9 +6187,9 @@ Insolvency
 
 (c) the provision of market collateral;
 
-(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
+(d) a contract effected by an approved clearing house or a recognised clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
 
-(e) a disposition of property in accordance with the business rules of a designated clearing house as to the application of property provided as market collateral;
+(e) a disposition of property in accordance with the business rules of an approved clearing house, or a recognised clearing house, relating to the application of property provided as market collateral;
 
 (f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
@@ -5353,55 +6199,43 @@ Insolvency
 
 (i) any default proceedings.
 
-[1/2005]
-
 (2) A relevant office holder, or a court applying the law relating to insolvency in Singapore, shall not exercise his or its power to prevent, or interfere with —
 
-(a) the settlement of a market contract in accordance with the business rules of a designated clearing house, or proceedings or other action taken under those business rules; or
+(a) the settlement of a market contract in accordance with the business rules of an approved clearing house or a recognised clearing house, or any proceedings or other action taken under those business rules; or
 
-(b) default proceedings.
+(b) any default proceedings.
 
-[1/2005]
+(3) Subsection (2) shall not operate to prevent a relevant office holder from recovering an amount under section 81I after the completion of a specified event referred to in section 81I(3).
 
-(3) Subsection (2) shall not operate to prevent a relevant office holder from recovering an amount under section 81L after the completion of a specified event referred to in section 81L(3).
+(4) Where a participant which is also a bank licensed under the Banking Act (Cap. 19) becomes insolvent, the liabilities of the bank accorded priority under sections 61 and 62 of that Act and the Payment and Settlement Systems (Finality and Netting) Act (Cap. 231) shall have priority over any unsecured liabilities of the bank arising from and after the settlement of market contracts.
 
-[1/2005]
+(5) For the avoidance of doubt, subsection (4) shall not affect the settlement of market contracts in accordance with the business rules of an approved clearing house or a recognised clearing house.
 
-(4) Where a participant which is also a bank licensed under the Banking Act (Cap. 19) becomes insolvent, the liabilities of the bank accorded priority under sections 61 and 62 of that Act and the Payment and Settlement Systems (Finality and Netting) Act (Cap. 231) shall have priority over unsecured liabilities of the bank accorded priority under the provisions of this Division.
-
-[1/2005]
-
-[HK SF Bill, Clause 45]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Supplementary provisions as to default proceedings
 
-81G\.—(1) A court may, on the application of a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his office that are affected by default proceedings if default proceedings have been, could be, or could have been, taken.
-
-[1/2005]
+81D\.—(1) A court may, on the application of a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his office that are affected by default proceedings, if default proceedings have been, could be, or could have been, taken.
 
 (2) The functions of the relevant office holder shall be construed subject to an order made under subsection (1).
 
-[1/2005]
-
 (3) Sections 45, 74 and 76 of the Bankruptcy Act (Cap. 20) and sections 210, 258, 260, 262(3), 299(1) and 309 of the Companies Act (Cap. 50) shall not prevent, or interfere with, any default proceedings.
 
-[1/2005]
-
-[HK SF Bill, Clause 46]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Duty to report on completion of default proceedings
 
-81H\.—(1) A designated clearing house shall, upon the conclusion of any default proceeding commenced by it, make a report on those proceedings stating in respect of each defaulter who is a subject of those proceedings —
+81E\.—(1) An approved clearing house or a recognised clearing house —
 
-(a) the net sum, if any, certified by the designated clearing house to be payable by or to the defaulter; or
+(a) shall, upon the conclusion of any default proceedings commenced by it, make a report on those proceedings stating, as the case may be, in respect of each defaulter who is a subject of those proceedings —
 
-(b) the fact that no sum is so payable,
+(i) the net sum, if any, certified by it to be payable by or to the defaulter; or
 
-as the case may be, and the designated clearing house may include in that report such other particulars in respect of those proceedings as it thinks fit.
+(ii) the fact that no sum is so payable; and
 
-[1/2005]
+(b) may include in that report such other particulars in respect of those proceedings as it thinks fit.
 
-(2) A designated clearing house which has made a report under subsection (1) shall supply the report to —
+(2) An approved clearing house, or a recognised clearing house, which has made a report under subsection (1) shall supply the report to —
 
 (a) the Authority;
 
@@ -5413,55 +6247,41 @@ as the case may be, and the designated clearing house may include in that report
 
 (c) where there is no relevant office holder referred to in paragraph (b), the defaulter to whom the report relates.
 
-[1/2005]
-
-(3) The designated clearing house shall publish a notice of the fact that a report has been made under subsection (1) in such manner as it thinks appropriate to bring that fact to the attention of the creditors of the defaulter to whom the report relates.
-
-[1/2005]
+(3) The approved clearing house or recognised clearing house shall publish a notice of the fact that a report has been made under subsection (1) in such manner as it thinks appropriate to bring that fact to the attention of the creditors of the defaulter to whom the report relates.
 
 (4) Where a relevant office holder or defaulter receives under subsection (2) a report made under subsection (1), he shall, at the request of a creditor of the defaulter to whom the report relates —
 
 (a) make the report available for inspection by the creditor; and
 
-(b) on payment of such reasonable fee as the relevant office holder or defaulter, as the case may be, determines, supply to the creditor all or any part of that report.
-
-[1/2005]
+(b) on payment of such reasonable fee as the relevant office holder or defaulter, as the case may be, determines, supply to the creditor the whole or any part of that report.
 
 (5) In subsections (2), (3) and (4), “report” includes a copy of a report.
 
-[1/2005]
-
-[HK SF Bill, Clause 47]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Net sum payable on completion of default proceedings
 
-81I\.—(1) This section shall apply to any net sum certified under section 81H(1)(a) by a designated clearing house, upon the completion by it of any default proceedings, to be payable by or to a defaulter.
+81F\.—(1) This section shall apply to any net sum certified under section 81E(1)(a)(i) by an approved clearing house or a recognised clearing house, upon the completion by it of any default proceedings, to be payable by or to a defaulter.
 
-[1/2005]
-
-(2) Notwithstanding section 87 or 88 of the Bankruptcy Act (Cap. 20), and section 327 of the Companies Act (Cap. 50), where a receiving or winding up order has been made, or a resolution for voluntary winding up has been passed, any net sum as certified under section 81H(1)(a) shall —
+(2) Notwithstanding sections 87 and 88 of the Bankruptcy Act (Cap. 20) and section 327 of the Companies Act (Cap. 50), where, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, a receiving order or winding up order has been made, or a resolution for voluntary winding up has been passed, any net sum as certified under section 81E(1)(a)(i) shall —
 
 (a) be provable in the bankruptcy or winding up or payable to the relevant office holder, as the case may be; and
 
 (b) be taken into account, where appropriate, under section 88 of the Bankruptcy Act or section 327 of the Companies Act.
 
-[1/2005]
-
-[HK SF Bill, Clause 48]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Disclaimer of onerous property, rescission of contracts, etc.
 
-81J\.—(1) Section 110 of the Bankruptcy Act and section 332 of the Companies Act shall not apply —
+81G\.—(1) Section 110 of the Bankruptcy Act (Cap. 20) and section 332 of the Companies Act (Cap. 50) shall not apply to —
 
-(a) to a market contract;
+(a) a market contract;
 
-(b) to a contract effected by a designated clearing house for the purpose of realising property provided as market collateral;
+(b) a contract effected by an approved clearing house, or a recognised clearing house, for the purpose of realising property provided as market collateral;
 
-(c) to a market charge; or
+(c) a market charge; or
 
-(d) to any default proceedings.
-
-[1/2005]
+(d) any default proceedings.
 
 (2) Section 77 of the Bankruptcy Act and sections 259 and 299(1) of the Companies Act shall not apply to any act, matter or thing which has been done under —
 
@@ -5471,9 +6291,9 @@ as the case may be, and the designated clearing house may include in that report
 
 (c) the provision of market collateral;
 
-(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
+(d) a contract effected by an approved clearing house, or a recognised clearing house, for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
 
-(e) a disposition of property in accordance with the business rules of a designated clearing house relating to the application of property provided as market collateral;
+(e) a disposition of property in accordance with the business rules of an approved clearing house, or a recognised clearing house, relating to the application of property provided as market collateral;
 
 (f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
@@ -5483,25 +6303,19 @@ as the case may be, and the designated clearing house may include in that report
 
 (i) any default proceedings.
 
-[1/2005]
-
-[HK SF Bill, Clause 49]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Adjustment of prior transactions
 
-81K\.—(1) No order shall be made by a court under —
+81H\.—(1) No order shall be made, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, in relation to any matter to which this section applies, by a court under any of the following provisions in any proceedings, whether instituted before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012:
 
 (a) section 98 or 99 of the Bankruptcy Act (Cap. 20);
 
-(b) section 227T, 329 or 331 of the Companies Act (Cap. 50); or
+(b) section 227T, 329 or 331 of the Companies Act (Cap. 50);
 
-(c) section 73B of the Conveyancing and Law of Property Act (Cap. 61),
+(c) section 73B of the Conveyancing and Law of Property Act (Cap. 61).
 
-in relation to any matter to which this section applies.
-
-[1/2005]
-
-(2) The matters to which this section applies are —
+(2) The matters to which this section applies are as follows:
 
 (a) a market contract;
 
@@ -5509,9 +6323,9 @@ in relation to any matter to which this section applies.
 
 (c) the provision of market collateral;
 
-(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral;
+(d) a contract effected by an approved clearing house, or a recognised clearing house, for the purpose of realising property provided as market collateral;
 
-(e) a disposition of property in accordance with the business rules of a designated clearing house relating to the application of property provided as market collateral;
+(e) a disposition of property in accordance with the business rules of an approved clearing house, or a recognised clearing house, relating to the application of property provided as market collateral;
 
 (f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
@@ -5521,13 +6335,11 @@ in relation to any matter to which this section applies.
 
 (i) any default proceedings.
 
-[1/2005]
-
-[HK SF Bill, Clause 50]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Right of relevant office holder to recover certain amounts arising from certain transactions
 
-81L\.—(1) Where a participant (referred to as the first participant) sells securities at an over-value to, or purchases securities at an under-value from, another participant (referred to as the second participant) in the circumstances referred to in subsection (3), and thereafter a relevant office holder acts for —
+81I\.—(1) Where a participant (referred to in this section as the first participant) sells securities at an over-value to, or purchases securities at an under-value from, another participant (referred to in this section as the second participant) in the circumstances referred to in subsection (3), and thereafter a relevant office holder acts for —
 
 (a) the second participant;
 
@@ -5537,23 +6349,17 @@ in relation to any matter to which this section applies.
 
 then, unless a court otherwise orders, the relevant office holder may recover from the first participant, or the principal of the first participant, an amount equal to the specified gain obtained under the sale or purchase by the first participant, or the principal of the first participant.
 
-[1/2005]
-
-(2) The amount equal to the specified gain is recoverable even if the sale or purchase may have been discharged according to the business rules of a designated clearing house and replaced by a market contract.
-
-[1/2005]
+(2) The amount equal to the specified gain is recoverable even if the sale or purchase may have been discharged according to the business rules of an approved clearing house, or a recognised clearing house, and replaced by a market contract.
 
 (3) The circumstances referred to in subsection (1) are that —
 
-(a) a specified event has occurred in relation to the second participant or the principal of the second participant within the period of 6 months immediately following the date on which the sale or purchase was entered into; and
+(a) a specified event has occurred in relation to the second participant, or the principal of the second participant, within the period of 6 months immediately following the date on which the sale or purchase was entered into; and
 
-(b) at the time the sale or purchase was entered into, the first participant or the principal of the first participant knew, or ought reasonably to have known, that a specified event was likely to occur in relation to the second participant or the principal of the second participant.
-
-[1/2005]
+(b) at the time the sale or purchase was entered into, the first participant, or the principal of the first participant, knew, or ought reasonably to have known, that a specified event was likely to occur in relation to the second participant, or the principal of the second participant.
 
 (4) In this section —
 
-“specified event”, in relation to a second participant or a person who is or was, in respect of a sale or purchase referred to in subsection (1), the principal of the second participant, means —
+“specified event”, in relation to the second participant or a person who is or was, in respect of a sale or purchase referred to in subsection (1), the principal of the second participant, means —
 
 (a) the making of a bankruptcy order against the second participant or that person, as the case may be;
 
@@ -5565,163 +6371,291 @@ then, unless a court otherwise orders, the relevant office holder may recover fr
 
 (e) the making of a judicial management order by a court under Part VIIIA of the Companies Act in respect of the second participant or that person, as the case may be;
 
-“specified gain”, in relation to a sale or purchase referred to in subsection (1), means the difference between —
+“specified gain”, in relation to a sale or purchase referred to in subsection (1), means the difference, as at the time the sale or purchase was entered into, between —
 
 (a) the market value of the securities which are the subject of the sale or purchase; and
 
-(b) the value of the consideration for the sale or purchase,
+(b) the value of the consideration for the sale or purchase.
 
-as at the time the sale or purchase was entered into.
-
-[1/2005; 42/2005]
-
-[HK SF Bill, Clause 51]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Application of market collateral not affected by certain other interest, etc.
 
-81M\.—(1) This section shall have effect with respect to the application of a designated clearing house of property provided as market collateral (referred to in this section as the property).
+81J\.—(1) This section shall have effect with respect to the application by an approved clearing house, or a recognised clearing house, of property provided as market collateral (referred to in this section as the property).
 
-[1/2005]
+(2) The property may be applied in accordance with the business rules or default rules of the approved clearing house or recognised clearing house, so far as it is necessary for it to be so applied, notwithstanding —
 
-(2) The property may be applied in accordance with the business or default rules of a designated clearing house so far as it is necessary for it to be so applied notwithstanding —
+(a) any prior equitable interest or right, or any right or remedy arising from a breach of fiduciary duty, unless the approved clearing house or recognised clearing house had actual notice of the interest, right or breach of duty (other than any interest or right arising from the situation referred to in paragraph (b)), as the case may be, at the time the property was provided as market collateral; or
 
-(a) any prior equitable interest or right, or any right or remedy arising from a breach of fiduciary duty, unless the designated clearing house had actual notice of the interest, right or breach of duty (other than any interest or right arising from the situation referred to in paragraph (b)), as the case may be, at the time the property was provided as market collateral; or
+(b) that the property is deposited by the approved clearing house or recognised clearing house in a trust account held for the benefit of a participant.
 
-(b) that the property is deposited by the designated clearing house in a trust account held for the benefit of a participant.
+(3) No right or remedy arising subsequent to the provision of the property as market collateral may be enforced to prevent, or interfere with, the application of the property by the approved clearing house or recognised clearing house in accordance with its business rules or default rules.
 
-[1/2005]
+(4) Where an approved clearing house, or a recognised clearing house, has power under this section to apply the property notwithstanding an interest, a right or a remedy, a person to whom the approved clearing house or recognised clearing house disposes of the property in accordance with its business rules or default rules shall take free from that interest, right or remedy.
 
-(3) No right or remedy arising subsequent to the provision of the property as market collateral may be enforced to prevent, or interfere with, the application of the property by the designated clearing house in accordance with its business or default rules.
-
-[1/2005]
-
-(4) Where a designated clearing house has power under this section to apply the property notwithstanding an interest, a right or a remedy, a person to whom the designated clearing house disposes of the property in accordance with its business or default rules shall take free from that interest, right or remedy.
-
-[1/2005]
-
-[HK SF Bill, Clause 52]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Enforcement of judgments over property subject to market charge, etc.
 
-81N\.—(1) Where property is subject to a market charge or has been provided as market collateral, no execution or other legal process for the enforcement of a judgment or an order may be commenced or continued, and no distress may be levied, against the property by a person not seeking to enforce any interest in, or security over, the property, except with the consent of the designated clearing house concerned.
-
-[1/2005]
+81K\.—(1) Where, whether before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, any property is subject to a market charge or has been provided as market collateral, no execution or other legal process for the enforcement of any judgment or order may be commenced or continued, and no distress may be levied, against the property by a person not seeking to enforce any interest in, or security over, the property, except with the consent of the approved clearing house or recognised clearing house in favour of which the market charge was granted.
 
 (2) Where by virtue of this section a person would not be entitled to enforce a judgment or an order against any property, any injunction or other remedy granted by any court with a view to facilitating the enforcement of any such judgment or order shall not extend to that property.
 
-[1/2005]
-
-[HK SF Bill, Clause 53]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Law of insolvency in other jurisdictions
 
-81O\.—(1) Notwithstanding any other written law or rule of law, a court shall not recognise or give effect to —
+81L\.—(1) Notwithstanding any other written law or rule of law, a court shall not recognise or give effect to —
 
-(a) an order of a court exercising jurisdiction under the law of insolvency in a place outside Singapore; or
+(a) an order of a court exercising jurisdiction under the law of insolvency in any place outside Singapore; or
 
-(b) an act of a person appointed in a place outside Singapore to perform a function under the law of insolvency in that place,
+(b) an act of a person appointed in any place outside Singapore to perform a function under the law of insolvency in that place,
 
-insofar as the making of the order or doing of the act would be prohibited under this Act for a court in Singapore or a relevant office holder, respectively.
-
-[1/2005]
+insofar as the making of the order by a court in Singapore, or the doing of the act by a relevant office holder, would be prohibited under this Act.
 
 (2) In this section, “law of insolvency”, in relation to a place outside Singapore, means any law of that place which is similar to, or serves the same purposes as, any part of the law of insolvency in Singapore.
 
-[1/2005]
-
-[HK SF Bill, Clause 54]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Participant to be party to certain transactions as principal
 
-81P\.—(1) Where a participant —
+81M\.—(1) Where —
 
-(a) in his capacity as such enters into any transaction (including a market contract) with a designated clearing house; and
+(a) a participant, in his capacity as such, enters into any transaction (including a market contract) with an approved clearing house or a recognised clearing house; and
 
-(b) but for this subsection or any provision in the business rules or default rules of a designated clearing house, would be a party to that transaction as agent,
+(b) but for this subsection or any provision in the business rules or default rules of the approved clearing house or recognised clearing house, the participant would be a party to that transaction as agent,
 
-then, notwithstanding any other written law or rule of law, as between, but only as between, the designated clearing house and any other person (including the participant and the person who is his principal in respect of that transaction), the participant shall for all purposes (including any action, claim or demand, whether civil or criminal) —
-
-(i) be deemed not to be a party to that transaction as agent; and
-
-(ii) be deemed to be a party to that transaction as principal.
-
-[1/2005]
+then, notwithstanding any other written law or rule of law, as between, and only as between, the approved clearing house or recognised clearing house and the participant or the person who is his principal in respect of that transaction, the participant shall, for all purposes (including any action, claim or demand, whether civil or criminal), be deemed to be a party to that transaction as principal, and not as agent.
 
 (2) Where —
 
-(a) 2 or more participants in their capacities as such enter into any transaction; and
+(a) 2 or more participants, in their capacities as such, enter into any transaction; and
 
 (b) but for this subsection, any of the participants would be a party to that transaction as agent,
 
-then, notwithstanding any other written law or rule of law, a participant to whom paragraph (b) applies shall for all purposes (including any action, claim or demand, whether civil or criminal), except as between, but only as between, him and the person who is his principal in respect of that transaction —
+then, notwithstanding any other written law or rule of law, except as between, and only as between, a participant to whom paragraph (b) applies and the person who is his principal in respect of that transaction, the participant shall, for all purposes (including any action, claim or demand, whether civil or criminal), be deemed to be a party to that transaction as principal, and not as agent.
 
-(i) be deemed not to be a party to the transaction as agent; and
-
-(ii) be deemed to be a party to the transaction as principal.
-
-[1/2005]
-
-[HK SF Bill, Clause 55]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Preservation of rights, etc.
 
-81Q\. Except to the extent that it expressly provides, this Division shall not operate to limit, restrict or otherwise affect —
+81N\. Except to the extent that it expressly provides, this Division shall not operate to limit, restrict or otherwise affect —
 
 (a) any right, title, interest, privilege, obligation or liability of a person; or
 
 (b) any investigation, legal proceedings or remedy in respect of any such right, title, interest, privilege, obligation or liability.
 
-[1/2005]
-
-[HK SF Bill, Clause 57]
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Immunity from criminal or civil liability
 
-81R\.—(1) No criminal or civil liability shall be incurred by —
+81O\.—(1) No criminal or civil liability shall be incurred by —
 
-(a) a person discharging, by virtue of a delegation under the default rules of a designated clearing house, an obligation of the designated clearing house in connection with any default proceedings; or
+(a) a person discharging, by virtue of a delegation under the default rules of an approved clearing house or a recognised clearing house, an obligation of the approved clearing house or recognised clearing house in connection with any default proceedings; or
 
 (b) any person acting on behalf of a person referred to in paragraph (a), including —
 
-(i) any member of the board of directors of the last-mentioned person; and
+(i) any member of the board of directors of the person referred to in paragraph (a); and
 
-(ii) any member of any committee established by the last-mentioned person,
+(ii) any member of any committee established by the person referred to in paragraph (a),
 
-in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of that obligation.
+for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of that obligation.
 
-[1/2005]
+(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of an approved clearing house or a recognised clearing house, and the relevant office holder reasonably believes or has reasonable grounds for believing that he is entitled to take that action, the relevant office holder shall not be liable to any person in respect of any loss or damage resulting from any action of the relevant office holder, except insofar as the loss or damage, as the case may be, is caused by the negligence of the relevant office holder.
 
-(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of a designated clearing house, and reasonably believes or has reasonable grounds for believing that he is entitled to take that action, he shall not be liable to any person in respect of any loss or damage resulting from his action except insofar as the loss or damage, as the case may be, is caused by the negligence of the office holder.
-
-[1/2005]
-
-[HK SF Bill, Clause 39]
+[Act 34 of 2012 wef 01/08/2013]
 
 Division 5 —
 
 General Powers of Authority
 
+### Power of Authority to remove officers
+
+81P\.—(1) Where the Authority is satisfied that any of the following applies to an officer of an approved clearing house or a recognised clearing house (such approved clearing house or recognised clearing house being a Singapore corporation), the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct the approved clearing house or recognised clearing house to remove the officer from his office or employment, and the approved clearing house or recognised clearing house shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50) or anything in any other law or in the memorandum or articles of association or other constituent document or documents of the approved clearing house or recognised clearing house:
+
+(a) the officer has wilfully contravened, or wilfully caused the approved clearing house or recognised clearing house to contravene, this Act or the business rules of the approved clearing house or recognised clearing house;
+
+(b) the officer has, without reasonable excuse, failed to ensure compliance with this Act, or with the business rules of the approved clearing house or recognised clearing house, by the approved clearing house or recognised clearing house, by a member of the approved clearing house or recognised clearing house or by a person associated with that member;
+
+(c) the officer has failed to discharge the duties or functions of his office or employment;
+
+(d) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(e) the officer has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+
+(f) the officer has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+
+(g) the officer has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012, involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly.
+
+(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of an approved clearing house, or a recognised clearing house, has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1)(c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+
+(3) Subject to subsection (4), the Authority shall not direct an approved clearing house, or a recognised clearing house, to remove an officer from his office or employment without giving the approved clearing house or recognised clearing house an opportunity to be heard.
+
+(4) The Authority may direct an approved clearing house, or a recognised clearing house, to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the approved clearing house or recognised clearing house an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 7 of the Securities and Futures (Amendment) Act 2012 —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+(5) Where the Authority directs an approved clearing house, or a recognised clearing house, to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
+
+(6) Any approved clearing house or recognised clearing house that is aggrieved by a direction of the Authority made in relation to the approved clearing house or recognised clearing house under subsection (1) may, within 30 days after the approved clearing house or recognised clearing house is notified of the direction, appeal to the Minister, whose decision shall be final.
+
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
+
+(9) Subject to subsection (10), no criminal or civil liability shall be incurred by an approved clearing house, or a recognised clearing house, in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
+
+(10) Any approved clearing house or recognised clearing house which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
 ### Power of Authority to make regulations
 
-81S\.—(1) Without prejudice to section 341, the Authority may make regulations relating to requirements applicable to any person operating a clearing facility, whether or not the person has been designated by the Authority as a designated clearing house under section 55(1).
+81Q\.—(1) Without prejudice to section 341, the Authority may make regulations for the purposes of this Part, including regulations —
 
-[1/2005]
+(a) relating to the approval of approved clearing houses and the recognition of recognised clearing houses;
 
-(1A) The Authority may also make regulations for the purpose of carrying out section 61, including —
+(b) relating to the requirements applicable to any person who establishes, operates or assists in establishing or operating a clearing facility, whether or not the person is approved as an approved clearing house under section 51(1)(a) or recognised as a recognised clearing house under section 51(1)(b) or (2); and
 
-(a) requiring a designated clearing house to reckon specified positions for the purposes of determining if limits established or varied under section 61(1) have been exceeded;
+(c) for the purposes of section 59 and, in particular —
 
-(b) requiring a designated clearing house to take specified steps to ensure compliance with those limits; and
+(i) requiring an approved clearing house to take into account specified positions for the purposes of determining if any limits established or varied under section 59(1) have been exceeded;
 
-(c) specifying measures to manage any risks assumed by a designated clearing house.
+(ii) requiring an approved clearing house to take specified steps to ensure compliance with those limits; and
+
+(iii) specifying measures to manage any risks assumed by an approved clearing house.
 
 (2) Regulations made under this section may provide —
 
 (a) that a contravention of any specified provision thereof shall be an offence; and
 
-(b) for penalties not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, to a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+(b) for a penalty not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, for a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
-[1/2005]
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to issue directions
+
+81R\.—(1) The Authority may issue directions, whether of a general or specific nature, by notice in writing, to an approved clearing house or a recognised clearing house, if the Authority thinks it necessary or expedient —
+
+(a) for ensuring the safe and efficient operation of any clearing facility operated by the approved clearing house or recognised clearing house, or of clearing facilities, operated by approved clearing houses or recognised clearing houses, in general;
+
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
+
+(c) in the interests of the public or a section of the public or for the protection of investors;
+
+(d) for the effective administration of this Act; or
+
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 58(2), 70(5) or (10), 71(11) or (12) or 81SB(1) or (2), or such other obligations or requirements under this Act or as may be prescribed by the Authority.
+
+(2) An approved clearing house or a recognised clearing house shall comply with every direction issued to it under subsection (1).
+
+(3) Any approved clearing house or recognised clearing house which, without reasonable excuse, contravenes a direction issued to it under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Emergency powers of Authority
+
+81S\.—(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing an approved clearing house or a recognised clearing house to take such action as the Authority considers necessary to maintain or restore the safe and efficient operation of the clearing facilities operated by the approved clearing house or recognised clearing house.
+
+(2) Without prejudice to subsection (1), the actions which the Authority may direct an approved clearing house or a recognised clearing house to take include —
+
+(a) ordering the liquidation of all positions or any part thereof, or the reduction of such positions;
+
+(b) altering the conditions of delivery of transactions cleared or settled, or to be cleared or settled, through the clearing facility;
+
+(c) fixing the settlement price at which transactions are to be liquidated;
+
+(d) requiring margins or additional margins for transactions cleared or settled, or to be cleared or settled, through the clearing facility; and
+
+(e) modifying or suspending any of the business rules of the approved clearing house or recognised clearing house.
+
+(3) Where an approved clearing house or a recognised clearing house fails to comply with any direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
+
+(a) set margin levels for transactions cleared or settled, or to be cleared or settled, through the clearing facility to cater for the emergency;
+
+(b) set limits that may apply to positions acquired in good faith prior to the date of the notice issued by the Authority; or
+
+(c) take such other action as the Authority thinks fit to maintain or restore the safe and efficient operation of the clearing facilities operated by the approved clearing house or recognised clearing house.
+
+(4) In this section, “emergency” means any threatened or actual market manipulation or cornering, and includes —
+
+(a) any act of any government affecting any commodity or securities;
+
+(b) any major market disturbance which prevents a market from accurately reflecting the forces of supply and demand for any commodity or securities; or
+
+(c) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency.
+
+(5) The Authority may modify any action taken by an approved clearing house or a recognised clearing house under subsection (1), including the setting aside of that action.
+
+(6) Any person who is aggrieved by any action taken by the Authority, or by an approved clearing house or a recognised clearing house, under this section may, within 30 days after the person is notified of the action, appeal to the Minister, whose decision shall be final.
+
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority, or by an approved clearing house or recognised clearing house, under this section shall continue to have effect pending the decision of the Minister.
+
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority, or by an approved clearing house or a recognised clearing house, under this section, and any such modified action shall have effect from the date of the decision of the Minister.
+
+(9) Any approved clearing house or recognised clearing house which fails to comply with a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to appoint adviser
+
+81SA\.—(1) The Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise an approved clearing house or a recognised clearing house on the proper management of such business of the approved clearing house or recognised clearing house as the Authority may determine, where —
+
+(a) the approved clearing house or recognised clearing house informs the Authority that it is or is likely to become insolvent, that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) the approved clearing house or recognised clearing house becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that the approved clearing house or recognised clearing house —
+
+(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 47;
+
+(ii) is or is likely to become insolvent, is or is likely to become unable to meet its obligations, or is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition attached to its approval as an approved clearing house or its recognition as a recognised clearing house; or
+
+(d) the Authority thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors to do so.
+
+(2) Where the Authority has exercised its power under subsection (1), the Authority may at any time do one or more of the following:
+
+(a) vary or revoke any appointment made by the Authority under subsection (1), on such terms and conditions as the Authority may specify;
+
+(b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(3) No liability shall be incurred by a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(4) The Authority may at any time fix the remuneration and expenses to be paid by an approved clearing house or a recognised clearing house to a statutory adviser appointed in relation to the approved clearing house or recognised clearing house, whether or not the appointment has been terminated.
+
+(5) An approved clearing house or a recognised clearing house shall reimburse the Authority for any remuneration and expenses paid by the Authority to a statutory adviser that is payable by the approved clearing house or recognised clearing house to the statutory adviser.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+### Power of Authority to exempt approved clearing house or recognised clearing house from provisions of this Part
+
+81SB\.—(1) Without prejudice to section 337(1), the Authority may, by regulations made under section 81Q, exempt any approved clearing house, recognised clearing house, or class of approved clearing houses or recognised clearing houses from any provision of this Part, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(2) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any approved clearing house or recognised clearing house from any provision of this Part, subject to such conditions or restrictions as the Authority may specify by notice in writing, if the Authority is satisfied that the non-compliance by that approved clearing house or recognised clearing house with that provision will not detract from the objectives specified in section 47.
+
+(3) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ## PART IIIA
 
@@ -5735,7 +6669,13 @@ APPROVED HOLDING COMPANIES
 
 (i) approved exchanges;
 
-(ii) designated clearing houses; and
+(ia) licensed trade repositories;
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(ii) approved clearing houses; and
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (iii) corporations that are approved holding companies,
 
@@ -5751,21 +6691,47 @@ Establishment of Approved Holding Companies
 
 ### Requirement for approval
 
-81U\.—(1) No corporation shall be the holding company of any approved exchange, designated clearing house, or corporation which is an approved holding company, unless the first-mentioned corporation is an approved holding company.
+81U\.—(1) No corporation shall be the holding company of any approved exchange, licensed trade repository, approved clearing house or corporation which is an approved holding company, unless the first-mentioned corporation is an approved holding company.
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) Any corporation which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
 [1/2005]
 
-(3) The Authority may exempt a holding company of an approved exchange or a designated clearing house from subsection (1) if it is satisfied that the exemption would not detract from the objectives specified in section 81T.
+(3) Without prejudice to section 337(1), the Authority may, by regulations made under section 81ZK, exempt any corporation or class of corporations from subsection (1), subject to such conditions or restrictions as the Authority may prescribe in those regulations.
 
-[2/2009 wef 26/11/2010]
+[Act 34 of 2012 wef 01/08/2013]
 
-(4) The exemption shall be subject to such conditions or restrictions as may be imposed by the Authority.
+(4) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any corporation from subsection (1), subject to such conditions or restrictions as the Authority may specify by notice in writing, if the Authority is satisfied that the exemption will not detract from the objectives specified in section 81T.
 
-[2/2009 wef 26/11/2010]
+[Act 34 of 2012 wef 01/08/2013]
+
+(5) It shall not be necessary to publish any exemption granted under subsection (4) in theGazette.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(6) The Authority may, at any time, by notice in writing —
+
+(a) add to the conditions and restrictions referred to in subsection (4); or
+
+(b) vary or revoke any condition or restriction referred to in that subsection.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(7) Every corporation that is granted an exemption under subsection (3) shall satisfy every condition or restriction imposed on it under that subsection.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(8) Every corporation that is granted an exemption under subsection (4) shall satisfy every condition or restriction imposed on it under that subsection or subsection (6).
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(9) Any corporation which contravenes subsection (7) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Application for approval
 
@@ -5853,7 +6819,9 @@ Establishment of Approved Holding Companies
 
 81Z\.—(1) The Authority may revoke any approval of a corporation as an approved holding company under section 81W(1) if —
 
-(a) the corporation ceases to be the holding company of any approved exchange, designated clearing house or corporation which is an approved holding company;
+(a) the corporation ceases to be the holding company of any approved exchange, licensed trade repository, approved clearing house or corporation which is an approved holding company;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (b) the corporation is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
@@ -5921,23 +6889,33 @@ Regulation of Approved Holding Companies
 
 (b) the carrying on of any activity by the approved holding company other than —
 
-(i) the activities of a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company;
+(i) the activities of a holding company of any approved exchange, licensed trade repository, approved clearing house or corporation that is an approved holding company;
 
-(ii) an activity incidental to being a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company; or
+[Act 34 of 2012 wef 01/08/2013]
+
+(ii) an activity incidental to being a holding company of any approved exchange, licensed trade repository, approved clearing house or corporation that is an approved holding company; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (iii) such activity or class of activities as the Authority may prescribe;
 
 (c) the acquisition by the approved holding company of a substantial shareholding in a corporation which does not carry on —
 
-(i) any activity of a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company;
+(i) any activity of a holding company of any approved exchange, licensed trade repository, approved clearing house or corporation that is an approved holding company;
 
-(ii) any activity incidental to being a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company; or
+[Act 34 of 2012 wef 01/08/2013]
+
+(ii) any activity incidental to being a holding company of any approved exchange, licensed trade repository, approved clearing house or corporation that is an approved holding company; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (iii) such activity or class of activities as the Authority may prescribe;
 
-(d) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the approved holding company.
+(d) any other matter that the Authority may prescribe by regulations made under section 81ZK for the purposes of this paragraph or specify by notice in writing to the approved holding company.
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) Without prejudice to the generality of section 81ZL(1), the Authority may, at any time after receiving a notification referred to in subsection (1), issue directions to the approved holding company —
 
@@ -6171,13 +7149,17 @@ from the requirement under subsection (1) or (2), subject to such conditions or 
 
 [1/2005]
 
-(10) Without prejudice to the generality of section 81ZK, the Authority may make regulations relating to the composition and duties of the board of directors or any committee of an approved holding company.
+(10) The Authority may make regulations under section 81ZK relating to the composition and duties of the board of directors or any committee of an approved holding company.
 
 [1/2005]
 
-(11) In this section, “committee” includes any committee of directors, disciplinary committee, appeals committee or any body responsible for disciplinary action against a member of an approved exchange or a designated clearing house of which an approved holding company is the holding company.
+[Act 34 of 2012 wef 01/08/2013]
+
+(11) In this section, “committee” includes any committee of directors, disciplinary committee, appeals committee or any body responsible for disciplinary action against a member of an approved exchange or approved clearing house, or a participant of a licensed trade repository, of which an approved holding company is the holding company.
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (12) The Authority may exempt an approved holding company or a class of approved holding companies from the requirement under subsection (1), (2) or (9), subject to such conditions or restrictions as may be imposed by the Authority.
 
@@ -6465,11 +7447,15 @@ and the auditor shall carry out such duties.
 
 [E (DM) A, s. 16]
 
-### Power of Authority to exempt approved holding companies from provisions of this Part
+### Power of Authority to exempt approved holding company from provisions of this Part
 
-81ZI\. The Authority may exempt an approved holding company or a class of approved holding companies from any of the provisions of this Part, if it is satisfied that the non-compliance by such approved holding company or class of approved holding companies with such provision would not detract from the objectives specified in section 81T, subject to such conditions or restrictions as may be imposed by the Authority.
+81ZI\.—(1) Without prejudice to section 337(1), the Authority may, by regulations made under section 81ZK, exempt any approved holding company or class of approved holding companies from any provision of this Part, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
 
-[1/2005]
+(2) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any approved holding company from any provision of this Part, subject to such conditions or restrictions as the Authority may specify by notice in writing, if the Authority is satisfied that the non-compliance by that licensed trade repository or licensed foreign trade repository with that provision will not detract from the objectives specified in section 81T.
+
+(3) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Power of Authority to remove officers
 
@@ -6539,9 +7525,11 @@ the Authority may, if it thinks it necessary in the interests of the public or a
 
 ### Power of Authority to make regulations
 
-81ZK\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the approval of, and the requirements applicable to, persons who establish, operate, or assist in establishing or operating approved holding companies.
+81ZK\.—(1) Without prejudice to section 341, the Authority may make regulations for the purposes of this Part, including regulations relating to the approval of, and the requirements applicable to, persons who establish, operate, or assist in establishing or operating approved holding companies.
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) Regulations made under this section may provide —
 
@@ -6556,6 +7544,10 @@ the Authority may, if it thinks it necessary in the interests of the public or a
 81ZL\.—(1) The Authority may, if it thinks it necessary or expedient —
 
 (a) for ensuring fair, orderly and transparent markets;
+
+(aa) for ensuring safe and efficient trade repositories;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (b) for ensuring safe and efficient clearing facilities;
 
@@ -6575,11 +7567,9 @@ issue directions by notice in writing either of a general or specific nature to 
 
 [1/2005]
 
-(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
-[1/2005]
-
-[SIA, s 21; E (DM) A, s. 14]
+[Act 34 of 2012 wef 01/08/2013]
 
 Division 3 —
 
@@ -7536,7 +8526,9 @@ may within 30 days after it is notified of the decision of the Authority, appeal
 
 (f) any securities exchange, futures exchange, recognised market operator or approved holding company in respect of any regulated activity that is solely incidental to its operation of a securities market or futures market or to its performance as an approved holding company, as the case may be;
 
-(g) any designated clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
+(g) any approved clearing house or recognised clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (h) such other person or class of persons in respect of any regulated activity as may be exempted by the Authority.
 
@@ -8603,7 +9595,9 @@ the Authority may, without prejudice to its powers under section 115, if it is s
 
 (b) require any officer, employee or agent of the holder, or any other auditor appointed under this Act, to produce any of the books held by or on behalf of the holder relating to its business, and to make copies of or take extracts from, or retain possession of, such books for such period as is necessary to enable them to be inspected;
 
-(c) require a securities exchange, futures exchange or designated clearing house to produce any of the books kept by it, or any information in its possession, relating to the business of the holder;
+(c) require any securities exchange, futures exchange, licensed trade repository, approved clearing house or recognised clearing house to produce any of the books kept by it, or any information in its possession, relating to the business of the holder;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (d) employ such persons as he considers necessary to assist him in carrying out the examination and audit; and
 
@@ -8659,7 +9653,7 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 
 ### Exchanges, etc., may impose additional obligations on members
 
-114\. Nothing in this Division shall prevent a securities exchange, futures exchange or designated clearing house from imposing on its members any additional obligation or requirement which it thinks is necessary with respect to —
+114\. Nothing in this Division shall prevent any securities exchange, futures exchange, licensed trade repository, approved clearing house or recognised clearing house from imposing on its members any additional obligation or requirement which it thinks is necessary with respect to —
 
 (a) the audit of accounts;
 
@@ -8670,6 +9664,8 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 [1/2005]
 
 [SIA, s. 73; FTA, s. 33]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Additional powers of Authority in respect of auditors
 
@@ -9967,7 +10963,7 @@ in circumstances other than as set out in subsection (1) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (3) — Disclosure by holders of voting shares in
+Subdivision (1) — Disclosure by holders of voting shares in
 responsible person
 
 ### Duty of holders of voting shares in responsible person to notify responsible person
@@ -10261,11 +11257,13 @@ and the nature of the instructions given to the holder or exempt person in respe
 
 (3) The Authority may require a securities exchange or futures exchange to disclose to the Authority, in relation to an acquisition or disposal of securities on the securities market of that securities exchange or futures contracts on the futures market of that futures exchange, the names of the members of that securities exchange or futures exchange who acted in the acquisition or disposal.
 
-(4) The Authority may require a designated clearing house for a securities market or futures market to disclose to the Authority, in relation to any dealing in securities on that securities market or trading in futures contracts on that futures market, the names of the members of the designated clearing house who were concerned in any act or omission in relation to the dealing or trading.
+(4) The Authority may require an approved clearing house or a recognised clearing house for a securities market or futures market to disclose to the Authority, in relation to any dealing in securities on that securities market or trading in futures contracts on that futures market, the names of the members of the approved clearing house or recognised clearing house who were concerned in any act or omission in relation to the dealing or trading.
 
 [1/2005]
 
 [SIA, s. 10 (1)-(3) modified]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 ### Exercise of certain powers in relation to securities
 
@@ -10385,11 +11383,13 @@ Subdivision (2) — Inspection powers of Authority
 
 ### Inspection by Authority
 
-150\.—(1) The Authority may inspect under conditions of secrecy, the books of an approved exchange, a recognised market operator, an exempt market operator, a person operating a clearing facility, a designated clearing house, an approved holding company, the holder of a capital markets services licence, an exempt person or a representative.
+150\.—(1) The Authority may inspect under conditions of secrecy, the books of an approved exchange, a recognised market operator, an exempt market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, the holder of a capital markets services licence, an exempt person or a representative.
 
 [2/2009 wef 26/11/2010]
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) For the purpose of an inspection under this section —
 
@@ -10431,7 +11431,9 @@ Subdivision (2) — Inspection powers of Authority
 
 ### Confidentiality of inspection reports
 
-150A\.—(1) Where a written report or any part thereof (referred to in this section as the report) has been produced by the Authority upon an inspection under section 150 in respect of any approved exchange, recognised market operator, exempt market operator, person operating a clearing facility, designated clearing house, approved holding company, holder of a capital markets services licence, exempt person or representative (referred to in this section as the inspected person) and is provided by the Authority to the inspected person, the report shall not be disclosed by the inspected person or, if the inspected person is a corporation, by any of its officers or auditors, to any other person except in the circumstances provided under subsection (2).
+150A\.—(1) Where a written report or any part thereof (referred to in this section as the report) has been produced by the Authority upon an inspection under section 150 in respect of any approved exchange, recognised market operator, exempt market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house, approved holding company, holder of a capital markets services licence, exempt person or representative (referred to in this section as the inspected person) and is provided by the Authority to the inspected person, the report shall not be disclosed by the inspected person or, if the inspected person is a corporation, by any of its officers or auditors, to any other person except in the circumstances provided under subsection (2).
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) Disclosure of the report referred to in subsection (1) may be made —
 
@@ -10924,11 +11926,15 @@ FOREIGN REGULATORY AUTHORITIES
 
 “enforce” means enforce through criminal, civil or administrative proceedings;
 
-“enforcement” means the taking of any action to enforce a law or regulatory requirement against a specified person, being a law or regulatory requirement that relates to the securities or futures industry of the foreign country of the regulatory authority concerned;
+“enforcement” means the taking of any action to enforce a law or regulatory requirement against a specified person, being a law or regulatory requirement that relates to the securities, futures or derivatives industry of the foreign country of the regulatory authority concerned;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “foreign country” means a country or territory other than Singapore;
 
-“investigation” means an investigation to determine if a specified person has contravened or is contravening a law or regulatory requirement, being a law or regulatory requirement that relates to the securities or futures industry of the foreign country of the regulatory authority concerned;
+“investigation” means an investigation to determine if a specified person has contravened or is contravening a law or regulatory requirement, being a law or regulatory requirement that relates to the securities, futures or derivatives industry of the foreign country of the regulatory authority concerned;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 “material” includes any information, book, document or other record in any form whatsoever, and any container or article relating thereto;
 
@@ -21149,9 +22155,11 @@ APPEALS
 
 310\.—(1) Where an appeal is made to the Minister under this Act, the Minister may confirm, vary or reverse the decision of the Authority on appeal, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
 
-(2) Except for an appeal under Part II, III or IIIA, where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
+(2) Except for an appeal under Part II, IIA, III or IIIA, where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
 
 [16/2003; 42/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2), and may make such recommendations as it thinks fit.
 
@@ -21165,7 +22173,9 @@ APPEALS
 
 [16/2003]
 
-(3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing relating to the securities or futures industry and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
+(3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing relating to the securities, futures or derivatives industry and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (4) Nothing in subsection (3) shall compel the production by an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), of a document or material containing a privileged communication made by or to him in that capacity or authorise the taking of possession of any such document or material which is in his possession.
 
@@ -21385,7 +22395,9 @@ the Authority may refuse to register or receive the record and request that the 
 
 322\.—(1) The Authority may, where it thinks it necessary or expedient in the interest of the public or section of the public or for the protection of investors and in such form or manner as it thinks fit, publish —
 
-(a) any information relating to an approved exchange, a recognised market operator, an exempt market operator, a person operating a clearing facility, a designated clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
+(a) any information relating to an approved exchange, a recognised market operator, an exempt market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (b) any other information which the Authority has acquired in the exercise of its functions or the performance of its duties under this Act.
 
@@ -21415,11 +22427,15 @@ the Authority may refuse to register or receive the record and request that the 
 
 (ii) under any other law, whether of Singapore or any territory or country outside Singapore, against any person referred to in subsection (1) and the outcome of such proceedings, including any settlement, whether in or out of court;
 
-(g) any disciplinary proceedings brought against any person referred to in subsection (1), by the Authority, a securities exchange, a futures exchange or a designated clearing house and the outcome of such proceedings; and
+(g) any disciplinary proceedings brought against any person referred to in subsection (1), by the Authority, a securities exchange, a futures exchange, a licensed trade repository, a licensed foreign trade repository, an approved clearing house or a recognised clearing house and the outcome of such proceedings; and
 
-(h) any other action as may have been taken by the Minister, the Authority, a securities exchange, a futures exchange or a designated clearing house against any person referred to in subsection (1).
+[Act 34 of 2012 wef 01/08/2013]
+
+(h) any other action as may have been taken by the Minister, the Authority, a securities exchange, a futures exchange, a licensed trade repository, a licensed foreign trade repository, an approved clearing house or a recognised clearing house against any person referred to in subsection (1).
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 323\. [Repealed by Act 24/2003]
 
@@ -21481,19 +22497,31 @@ the Authority may refuse to register or receive the record and request that the 
 
 (i) has committed an offence under this Act;
 
-(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, futures exchange, or designated clearing house, or the listing rules of a securities exchange; or
+(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, a futures exchange, a licensed trade repository or an approved clearing house, or the listing rules of a securities exchange; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (iii) is about to do an act with respect to dealing in securities or trading in futures contracts that, if done, would be such an offence or contravention;
 
 (b) on the application of a securities exchange, it appears to the court that a person has contravened the business rules or listing rules of the securities exchange;
 
-(c) on the application of a futures exchange, it appears to the court that a person has contravened the business rules of the futures exchange; or
+(c) on the application of a futures exchange, it appears to the court that a person has contravened the business rules of the futures exchange;
 
-(d) on the application of a designated clearing house, it appears to the court that a person has contravened the business rules of the designated clearing house,
+[Act 34 of 2012 wef 01/08/2013]
+
+(d) on the application of an approved clearing house, it appears to the court that a person has contravened the business rules of the approved clearing house; or
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(e) on the application of a licensed trade repository, it appears to the court that a person has contravened the business rules of the licensed trade repository,
+
+[Act 34 of 2012 wef 01/08/2013]
 
 the court may, without prejudice to any orders it would be entitled to make otherwise than under this section, make one or more of the following orders:
 
-(i) in the case of a persistent or continuing breach of this Act, or of any condition or restriction of a licence, or of any business rule of a securities exchange, futures exchange or clearing house, or any listing rule of a securities exchange an order restraining a person from carrying on business to deal in securities or trade in futures contracts, or acting as a representative of such a person, or from holding himself out as so carrying on business or so acting;
+(i) in the case of a persistent or continuing breach of this Act, or of any condition or restriction of a licence, or of any business rule of a securities exchange, a futures exchange, a licensed trade repository or an approved clearing house, or any listing rule of a securities exchange an order restraining a person from carrying on business to deal in securities or trade in futures contracts, or acting as a representative of such a person, or from holding himself out as so carrying on business or so acting;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (ii) an order restraining a person from acquiring, disposing of or otherwise dealing with any securities or trading in any futures contracts that are specified in the order;
 
@@ -21603,11 +22631,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “officer” includes a person purporting to act in the capacity of an officer;
 
-“relevant person” means any approved exchange, recognised market operator, exempt market operator, person operating a clearing facility, designated clearing house, approved holding company, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
+“relevant person” means any approved exchange, recognised market operator, exempt market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house, approved holding company, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
 
 [1/2005]
 
 [2/2009 wef 01/10/2012]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 [SIA, s. 108]
 
@@ -21631,13 +22661,15 @@ shall use due care to ensure that the document is not false or misleading in any
 
 [Insurance Intermediaries, s. 37 (modified)]
 
-### Duty not to furnish false statements to securities exchange, futures exchange, designated clearing house and Securities Industry Council
+### Duty not to furnish false statements to securities exchange, futures exchange, licensed trade repository, approved clearing house, recognised clearing house and Securities Industry Council
 
-330\.—(1) Any person who, with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to a securities exchange, futures exchange, designated clearing house or any officers thereof relating to —
+330\.—(1) Any person who, with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to any securities exchange, futures exchange, licensed trade repository, approved clearing house or recognised clearing house or any officers thereof relating to —
 
 (a) dealing in securities, trading in futures contracts, foreign exchange trading or leveraged foreign exchange trading;
 
-(b) the enforcement of the business rules of a securities exchange, futures exchange or a designated clearing house or the listing rules of a securities exchange;
+(b) the enforcement of the business rules of a securities exchange, a futures exchange, a licensed trade repository or an approved clearing house or the listing rules of a securities exchange;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (c) the affairs of an entity or a business trust;
 
@@ -21650,6 +22682,8 @@ shall use due care to ensure that the document is not false or misleading in any
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [31/2004; 1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) Any person who, with intent to deceive, makes or furnishes or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to the Securities Industry Council or any of its officers, relating to any matter or thing required by the Securities Industry Council in the exercise of its functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -21703,7 +22737,7 @@ be construed as a reference to such matters as may be prescribed by the Authorit
 
 ### Offences by officers
 
-332\.—(1) Any person, being an officer of an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a designated clearing house, or a holder of a capital markets services licence to carry on business in any regulated activity, who fails to take all reasonable steps to secure —
+332\.—(1) Any person, being an officer of an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house or a holder of a capital markets services licence to carry on business in any regulated activity, who fails to take all reasonable steps to secure —
 
 (a) compliance with any provision of this Act; or
 
@@ -21712,6 +22746,8 @@ be construed as a reference to such matters as may be prescribed by the Authorit
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) In any proceedings against an officer under subsection (1), it shall be a defence for the defendant to prove that he had reasonable grounds for believing that another person was charged with the duty of securing compliance with the requirements of this Act, or with the duty of ensuring that those statements were accurate, as the case may be, and that that person was competent, and in a position, to discharge that duty.
 
@@ -21753,7 +22789,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) any code, guideline, policy statement or practice note issued under section 321; or
 
-(iv) any business rules of a securities exchange, a futures exchange or designated clearing house, or the listing rules of a securities exchange;
+(iv) any business rules of a securities exchange, a futures exchange, a licensed trade repository or an approved clearing house, or the listing rules of a securities exchange;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (b) the failure by an officer of a relevant person to discharge any duty or function of his office; or
 
@@ -21767,11 +22805,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “partner” includes a person purporting to act as a partner;
 
-“relevant person” means an approved exchange, a recognised market operator, an exempt market operator, a person operating a clearing facility, a designated clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer, partner or representative thereof.
+“relevant person” means an approved exchange, a recognised market operator, an exempt market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer, partner or representative thereof.
 
 [16/2003; 1/2005]
 
 [2/2009 wef 01/10/2012]
+
+[34/2012 wef 01/08/2013]
 
 ### General penalty
 
@@ -21835,7 +22875,9 @@ by collecting from a person reasonably suspected of having committed the offence
 
 ### Power to make regulations giving effect to treaty, etc., relating to securities or futures
 
-338\.—(1) Without prejudice to the generality of section 341, the Authority may make regulations prescribing the matters necessary or expedient to give effect in Singapore to the provisions of any treaty, convention, arrangement, memorandum of understanding, exchange of letters or other similar instrument relating to the securities or futures industry, to which Singapore or the Authority is a party.
+338\.—(1) Without prejudice to the generality of section 341, the Authority may make regulations prescribing the matters necessary or expedient to give effect in Singapore to the provisions of any treaty, convention, arrangement, memorandum of understanding, exchange of letters or other similar instrument relating to the securities, futures or derivatives industry, to which Singapore or the Authority is a party.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (2) Without prejudice to the generality of subsection (1), such regulations may provide for —
 
@@ -21859,7 +22901,9 @@ by collecting from a person reasonably suspected of having committed the offence
 
 (a) a person does an act outside Singapore which has a substantial and reasonably foreseeable effect in Singapore; and
 
-(b) that act would, if carried out in Singapore, constitute an offence under any provision of Part II, III, IV, VIII, XII, XIII or XV,
+(b) that act would, if carried out in Singapore, constitute an offence under any provision of Part II, IIA, III, IV, VIII, XII, XIII or XV,
+
+[Act 34 of 2012 wef 01/08/2013]
 
 that person shall be guilty of that offence as if the act were carried out by that person in Singapore, and may be dealt with as if the offence were committed in Singapore.
 
@@ -21907,7 +22951,9 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (e) [Deleted by Act 16/2003]
 
-(f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised market operator, or clearing facility;
+(f) the conditions for the conduct of business on any securities exchange, futures exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house or recognised clearing house;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (g) the form, content distribution and publication of written, printed or visual material and advertisements that may be distributed or used by a person in respect of any regulated activity, including advertisements offering the services of persons holding a capital markets services licence or offering capital markets products for sale;
 
@@ -21949,9 +22995,25 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (a) may be of general or specific application;
 
+(aa) may contain provisions of a savings or transitional nature;
+
+[Act 34 of 2012 wef 01/08/2013]
+
 (b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
 (c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+(3A) For the purposes of paragraphs (a)(iv) and (b) of the definition of “derivatives contract” in section 2(1), the Authority may prescribe different contracts, arrangements, transactions and classes of contracts, arrangements or transactions for different purposes.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(3B) For the purposes of the definition of “financial instrument” in section 2(1), the Authority may prescribe different things for different purposes.
+
+[Act 34 of 2012 wef 01/08/2013]
+
+(3C) For the purposes of paragraphs (a)(iii) and (b) of the definition of “underlying thing” in section 2(1), the Authority may prescribe different arrangements, events, indices, intangible properties, tangible properties, transactions and classes of arrangements, events, indices, intangible properties, tangible properties or transactions for different purposes.
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (4) Where a person is charged with an offence for contravening a regulation made under subsection (2)(la), it shall be a defence for the person to prove —
 
@@ -22025,9 +23087,15 @@ Definition of clearing facility
 
 (a) a facility for the clearing or settlement of —
 
-(i) transactions in securities; or
+(i) transactions in securities;
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (ii) futures contracts; or
+
+(iii) derivatives contracts; or
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (b) such other facility or class of facilities for the clearing or settlement of transactions as the Authority may, by order, prescribe;
 
@@ -22323,9 +23391,17 @@ Specified Provisions
 
 3\. Section 35
 
-4\. Section 59(3)
+4\. Section 49(7)
 
-5\. Section 81C
+5\. Section 57(3)
+
+5A. Section 75(3)
+
+[Act 34 of 2012 wef 01/08/2013]
+
+5B. Section 81SB(2)
+
+[Act 34 of 2012 wef 01/08/2013]
 
 6\. Section 81ZI
 
@@ -22576,22 +23652,23 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|2 January 2011|
 |19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
 ||Date of commencement|17 January 2012|
-|20.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 31/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|15 November 2012|
-||Date of commencement|18 March 2013|
-|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+|20.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|22.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|21.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|22.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 31/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|18 March 2013|
+|||1 August 2013|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
