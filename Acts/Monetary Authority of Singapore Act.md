@@ -48,7 +48,7 @@
 
 - [16 Public servants and public officers](#Public-servants-and-public-officers)
 
-[**Part III PROVISIONS RELATING TO STAFF, ETC**](#Part-III)
+[**Part III PROVISIONS RELATING TO STAFF, ETC.**](#Part-III)
 
 - [17 Appointment of employees](#Appointment-of-employees)
 
@@ -304,7 +304,7 @@ An Act to establish a corporation to be known as the Monetary Authority of Singa
 
 1st January 1971: Parts III and IV ;
 
-8th October 1999: Part V]
+8th October 1999: Part V ]
 
 ## PART I
 
@@ -406,15 +406,11 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 5\.—(1) The paid-up capital of the Authority shall be $100 million.
 
-[13/2007 wef 30/06/2007]
-
 (2) The paid-up capital may be increased from time to time by such amount as the Government may approve.
-
-[13/2007 wef 30/06/2007]
 
 (3) The payment of such increase in the paid-up capital may be made by way of transfers from the General Reserve Fund or by such other means as the Government, in consultation with the board, may from time to time approve.
 
-[13/2007 wef 30/06/2007]
+[21/2005 wef 30/01/2006]
 
 ### General Reserve Fund
 
@@ -624,7 +620,9 @@ to discharge the duties of the managing director during the period of his absenc
 
 ## PART III
 
-PROVISIONS RELATING TO STAFF, ETC
+PROVISIONS RELATING TO STAFF, ETC.
+
+[13/2007 wef 30/06/2007]
 
 ### Appointment of employees
 
@@ -662,7 +660,7 @@ PROVISIONS RELATING TO STAFF, ETC
 
 20\. Notwithstanding the Pensions Act, no person who is transferred to the service of the Authority under section 18 shall be entitled to claim any benefits under this Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office.
 
-21\. [Deleted by Act 13/2007 wef 30/06/2006]
+21\. [Deleted by Act 13/2007 wef 30/06/2007]
 
 ### Immunity of Authority, directors and employees, etc.
 
@@ -714,11 +712,15 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (ea) grant any loan, advance, overdraft or other credit facility to the Government on such terms and conditions as the Authority thinks fit;
 
+[13/2007 wef 30/06/2007]
+
 (f) purchase, repurchase, sell, discount and re-discount bills of exchange and promissory notes arising out of bona fide commercial transactions bearing 2 or more good signatures and maturing within 3 months (exclusive of days of grace) from the date of acquisition;
 
 [Act 9 of 2013 wef 18/04/2013]
 
 (g) grant loans, advances or other credit facilities for the purposes of money market operations, on such terms and conditions as the Authority thinks fit, to such financial institutions or class of financial institutions as the Authority may from time to time determine;
+
+[24/2003 wef 01/01/2004]
 
 (ga) for the purposes of money market operations —
 
@@ -755,6 +757,8 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 (p) underwrite loans in which the Authority may invest;
 
 (q) undertake the issue and management of securities issued by the Government or by any public authority;
+
+[31/2005 wef 18/10/2005]
 
 (qa) form or participate in the formation of any company or in any joint venture as a shareholder or partner or in any other capacity, for purposes that are necessary or expedient for the purpose of discharging its functions or achieving its objects; and
 
@@ -948,7 +952,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (g) any licensed financial adviser under the Financial Advisers Act (Cap. 110);
 
-(h) any approved holding company, securities exchange, futures exchange, recognised market operator, designated clearing house or holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
+(h) any approved holding company, securities exchange, futures exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house or holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
+
+[Act 34 of 2012 wef 01/08/2013]
 
 (i) any trustee for a collective investment scheme authorised under section 286 of the Securities and Futures Act, that is approved under that Act;
 
@@ -1211,6 +1217,8 @@ and the financial institutions concerned shall comply with such directions.
 [Act 2 of 2012 wef 01/07/2010]
 
 “certification authority” has the same meaning as in the Third Schedule to the Electronic Transactions Act 2010;
+
+[Act 2 of 2012 wef 01/07/2010]
 
 “participant” means a person approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
 
@@ -2786,7 +2794,7 @@ Miscellaneous
 
 (2) A significant associated entity of a specified financial institution shall comply with any direction given to the significant associated entity, or any requirement imposed on the significant associated entity, by any notice issued to the significant associated entity under subsection (1).
 
-(3) It shall not be necessary to publish any notice issued under subsection (1) in the Gazette.
+(3) It shall not be necessary to publish any notice issued under subsection (1) in theGazette.
 
 (4) Any significant associated entity (of a specified financial institution) which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -3595,6 +3603,8 @@ subject to such conditions or restrictions as the Authority may specify by notic
 
 42\. The Authority may, with the approval of the President, make regulations for the better carrying out of the objects and purposes of this Act.
 
+[Act 9 of 2013 wef 18/04/2013]
+
 ### Operation of Act not to affect Currency Act
 
 43\. Nothing in this Act shall affect the operation of the Currency Act (Cap. 69).
@@ -3607,51 +3617,95 @@ Sections 16(2), 23(8), (9) and (10), 30AA(4), 30AAH(6), 30AAI(2) and (9), 30AAK,
 
 Written Laws
 
-1\. Banking Act (Cap. 19)
+1. 
 
-1A. Bills of Exchange Act (Cap. 23)
+Banking Act (Cap. 19)
+
+1A. 
+
+Bills of Exchange Act (Cap. 23)
+
+2. 
+
+Bretton Woods Agreements Act (Cap. 27)
+
+3. 
+
+Business Trusts Act (Cap. 31A)
+
+4. 
+
+Chit Funds Act (Cap. 39)
+
+5. 
+
+Currency Act (Cap. 69)
+
+6. 
+
+Deposit Insurance and Policy Owners’ Protection Schemes Act 2011
+
+7. 
+
+Development Loan Act (Cap. 81)
+
+8. 
+
+Development Loan (1987) Act (Cap. 81A)
+
+9. 
+
+Exchange Control Act (Cap. 99)
+
+10. 
+
+Exchanges (Demutualisation and Merger) Act (Cap. 99B)
+
+11. 
+
+Finance Companies Act (Cap. 108)
+
+12. 
+
+Financial Advisers Act (Cap. 110)
+
+13. 
+
+Government Securities Act (Cap. 121A)
+
+14. 
+
+Insurance Act (Cap. 142)
+
+15. 
+
+Local Treasury Bills Act (Cap. 167)
+
+16. 
+
+Money-changing and Remittance Businesses Act (Cap. 187)
+
+17. 
+
+Payment and Settlement Systems (Finality and Netting) Act (Cap. 231)
+
+18. 
+
+Payment Systems (Oversight) Act 2006 (Act 1 of 2006)
+
+19. 
+
+Securities and Futures Act (Cap. 289)
+
+20. 
+
+Trust Companies Act (Cap. 336).
+
+[13/2007 wef 30/06/2007]
 
 [21/2010 wef 15/01/2010]
 
-2\. Bretton Woods Agreements Act (Cap. 27)
-
-3\. Business Trusts Act (Cap. 31A)
-
-4\. Chit Funds Act (Cap. 39)
-
-5\. Currency Act (Cap. 69)
-
-6\. Deposit Insurance and Policy Owners’ Protection Schemes Act 2011
-
-7\. Development Loan Act (Cap. 81)
-
-8\. Development Loan (1987) Act (Cap. 81A)
-
-9\. Exchange Control Act (Cap. 99)
-
-10\. Exchanges (Demutualisation and Merger) Act (Cap. 99B)
-
-11\. Finance Companies Act (Cap. 108)
-
-12\. Financial Advisers Act (Cap. 110)
-
-13\. Government Securities Act (Cap. 121A)
-
-14\. Insurance Act (Cap. 142)
-
-15\. Local Treasury Bills Act (Cap. 167)
-
-16\. Money-changing and Remittance Businesses Act (Cap. 187)
-
-17\. Payment and Settlement Systems (Finality and Netting) Act (Cap. 231)
-
-18\. Payment Systems (Oversight) Act 2006 (Act 1 of 2006)
-
-19\. Securities and Futures Act (Cap. 289)
-
-20. Trust Companies Act (Cap. 336).
-
-[13/2007 wef 30/06/2007]
+[15/2011 wef 01/05/2011]
 
 ## LEGISLATIVE HISTORY
 
@@ -3663,147 +3717,150 @@ This Legislative History is provided for the convenience of users of the Monetar
 
 ||||
 |:-|:-|:-|
-|1.|**1970 Revised Edition (Cap. 195)—Monetary Authority of Singapore Act 1970**|
-||Date of operation|26 December 1970|
-|2.|**Act 42 of 1970—Monetary Authority of Singapore Act 1970**|
-||Date of First Reading|22.7.70|
-|||(Bill No. 30/70 published on 28.7.70)|
-||Date of Second and Third Readings|2.9.70|
-||Date of commencement|26.12.70 (except Parts III and IV) 1.1.71 (Parts III and IV)|
-|3.|**Act 31 of 1972—Monetary Authority of Singapore (Amendment) Act 1972**|
-||Date of First Reading|24.10.72|
-|||(Bill No. 36/72 published on 25.10.72)|
-||Date of Second and Third Readings|3.11.72|
-||Date of commencement|22.12.72|
-|4.|**Act 35 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 4) Act 1973**|
-||Date of First Reading|11.7.73|
-|||(Bill No. 35/73 published on 16.7.73)|
-||Date of Second and Third Readings|26.7.73|
-||Date of commencement|1.9.73|
-|5.|**Act 26 of 1984—Monetary Authority of Singapore (Amendment) Act 1984**|
-||Date of First Reading|24.7.84|
-|||(Bill No. 23/84 published on 3.8.84)|
-||Date of Second and Third Readings|24.8.84|
-||Date of commencement|21.9.84|
-|6.|**1985 Revised Edition—Monetary Authority of Singapore Act**|
-||Date of operation|1 January 1985|
-|7.|**1985 Revised Edition—Monetary Authority of Singapore Act**|
+|1.|**Act 42 of 1970—Monetary Authority of Singapore Act 1970**|
+||Date of First Reading|22 July 1970|
+|||(Bill No. 30/70 published on 28 July 1970)|
+||Date of Second and Third Readings|2 September 1970|
+||Date of commencement|26 December 1970 (except Parts III and IV)|
+|||1 January 1971 (Parts III and IV)|
+|2.|**Act 31 of 1972—Monetary Authority of Singapore (Amendment) Act 1972**|
+||Date of First Reading|24 October 1972|
+|||(Bill No. 36/72 published on 25 October 1972)|
+||Date of Second and Third Readings|3 November 1972|
+||Date of commencement|22 December 1972|
+|3.|**Act 35 of 1973—Statutes of the Repubic of Singapore (Miscellaneous Amendments) (No. 4) Act 1973**|
+||Date of First Reading|11 July 1973|
+|||(Bill No. 35/73 published on 16 July 1973)|
+||Date of Second and Third Readings|26 July 1973|
+||Date of commencement|1 September 1973|
+|4.|**Act 26 of 1984—Monetary Authority of Singapore (Amendment) Act 1984**|
+||Date of First Reading|24 July 1984|
+|||(Bill No. 23/84 published on 3 August 1984)|
+||Date of Second and Third Readings|24 August 1984|
+||Date of commencement|21 September 1984|
+|5.|**1985 Revised Edition—Monetary Authority of Singapore Act**|
 ||Date of operation|30 March 1987|
-|8.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
-||Date of First Reading|3.1.91|
-|||(Bill No. 4/91 published on 4.1.91)|
-||Date of Second and Third Readings|14.1.91|
-||Date of commencement|30.11.91|
-|9.|**Act 28 of 1998—Monetary Authority of Singapore (Amendment) Act 1998**|
-||Date of First Reading|1.6.98|
-|||(Bill No. 19/98 published on 2.6.98)|
-||Date of Second and Third Readings|29.6.98|
-||Date of commencement|10.7.98|
-|10.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
+|6.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
+|7.|**Act 28 of 1998—Monetary Authority of Singapore (Amendment) Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 19/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|10 July 1998|
+|8.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
 ||(Consequential amendments made by)||
-||Date of First Reading|6.7.99|
-|||(Bill No. 20/99 published on 7.7.99)|
-||Date of Second and Third Readings|4.8.99|
-||Date of commencement|8.10.99 (except sections 19 (a), (b) and (c) and 20 (d), (e), (f), (h) and (i) 1.12.99 — Section 20 (d), (e), (f), (h) and (i)|
-|11.|**1999 Revised Edition—Monetary Authority of Singapore Act**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 20/99 published on 7 July 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|8 October 1999 (except sections 19(a), (b) and (c) and 20(d), (e), (f), (h) and (i))|
+|9.|**1999 Revised Edition—Monetary Authority of Singapore Act**|
 ||Date of operation|30 December 1999|
-|12.|**Act 2 of 2000—Securities Industry (Amendment) Act 2000**|
+|10.|**Act 2 of 2000—Securities Industry (Amendment) Act 2000**|
 ||Date of First Reading|23 November 1999|
 |||(Bill No. 40/1999 published on 24 November 1999)|
 ||Date of Second and Third Readings|17 January 2000|
 ||Date of commencement|6 March 2000|
-|13.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+|11.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
 ||Date of First Reading|25 August 2000|
 |||(Bill No. 22/2000 published on 26 August 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
-|14.|**Act 42 of 2001—Securities and Futures Act 2001**|
-||Date of First Reading|25 September 2001|
-|||(Bill No. 33/2001 published on 26 September 2001)|
-||Date of Second and Third Readings|5 October 2001|
-||Dates of commencement|Parts I, VIII, IX, X and XV (except sections 314 and 342 (1) and (3)), First Schedule, Second Schedule and items (4) (o) and (q) and (7) (c) of the Fourth Schedule shall come into operation on 1st January 2002.|
-|||Parts XIII and XIV, and items (1) (a), (3) (a), (4) (a) (i), (iii) to (ix), (b), (c), (f), (g), (h), (i), (l), (m), (t) and (u), (7) (b), (12) and (13) of the Fourth Schedule shall come into operation on 1st July 2002.|
-|||Parts II to VII, XI and XII, sections 314 and 342 (1) and (3), Third Schedule and items (1) (b), (2), (3) (b), (4) (a) (ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7) (a) and (d) and (8) to (11) of the Fourth Schedule shall come into operation on 1st October 2002.|
-|15.|**Act 16 of 2002—Terrorism (Suppression of Financing) Act 2002**|
+|12.|**Act 16 of 2002—Terrorism (Suppression of Financing) Act 2002**|
 ||Date of First Reading|23 May 2002|
 ||Date of Second and Third Readings|8 July 2002|
-||Dates of commencement|Section 39 shall come into operation on 30th September 2002.|
-|||Section 2 to 38 shall come into operation on 29th January 2003.|
-|16.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||Dates of commencement|30th September 2002 (section 39)|
+|13.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
 ||Date of First Reading|8 July 2002|
 |||(Bill No. 23/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 October 2002|
-|17.|**Act 39 of 2002—Payment and Settlement Systems (Finality and Netting) Act 2002**|
+|14.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1st October 2002 (Parts II to VII, XI and XII, sections 314 and 342 (1) and (3), Third Schedule and items (1) (b), (2), (3) (b), (4) (a) (ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7) (a) and (d) and (8) to (11) of the Fourth Schedule)|
+|15.|**Act 39 of 2002—Payment and Settlement Systems (Finality and Netting) Act 2002**|
 ||Date of First Reading|31 October 2002|
 |||(Bill No. 41/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|9 December 2002|
-|18.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+|16.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 21/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
-|19.|**Act 30 of 2004—Business Trusts Act 2004**|
+|17.|**Act 30 of 2004—Business Trusts Act 2004**|
 ||Date of First Reading|20 July 2004|
 |||(Bill No. 28/2004 published on 21 July 2004)|
 ||Date of Second and Third Readings|1 September 2004|
 ||Date of commencement|12 October 2004|
-|20.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+|18.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||Date of First Reading|21 September 2004|
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
-|21.|**Act 31 of 2005—Deposit Insurance Act 2005**|
+|19.|**Act 31 of 2005—Deposit Insurance Act 2005**|
 ||Date of First Reading|15 August 2005|
 |||(Bill No. 21/2005 published on 16 August 2005)|
 ||Date of Second and Third Readings|19 September 2005|
 ||Date of commencement|18 October 2005|
-|22.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+|20.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
-|23.|**Act 13 of 2007—Monetary Authority of Singapore (Amendment) Act 2007**|
+|21.|**Act 13 of 2007—Monetary Authority of Singapore (Amendment) Act 2007**|
 ||Date of First Reading|22 January 2007|
 |||(Bill No. 1/2007 published on 23 January 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|30 June 2007|
-|24.|**Act 42 of 2007—Monetary Authority of Singapore (Amendment No. 2) Act 2007**|
+|22.|**Act 42 of 2007—Monetary Authority of Singapore (Amendment No. 2) Act 2007**|
 ||Date of First Reading|27 August 2007|
 |||(Bill No. 30/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007|
-|25.|**G. N. No. S 21/2010—Monetary Authority of Singapore Act (Amendment of Schedule) Order 2010**|
+|23.|**G. N. No. S 21/2010—Monetary Authority of Singapore Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|15 January 2010|
-|26.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|24.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
-|27.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|25.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||Date of First Reading|21 November 2011|
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 July 2010|
-|28.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|26.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|29.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
+|27.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
 ||Date of First Reading|10 March 2011|
 |||(Bill No. 10/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
-|30.|**Act 9 of 2013—Monetary Authority of Singapore (Amendment) Act 2013**|
-||Date of First Reading|4 February 2013 (Bill No. 3/2013 published on 4 February 2013)|
+|28.|**Act 9 of 2013—Monetary Authority of Singapore (Amendment) Act**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 3/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|31.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
-||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
+|29.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|30.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+||(Consequential amendments made by)||
+||Date of First Reading|15 October 2012|
+|||(Bill No. 31/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|1 August 2013|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
