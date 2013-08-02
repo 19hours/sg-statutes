@@ -28,7 +28,7 @@
 
 - [6 Requirement for approval or recognition](#Requirement-for-approval-or-recognition)
 
-[**Subdivision (1) — Approved exchange and recognised market operator**](#Subdivision-1-—-Approved-exchange-and-recognised-market-operator)
+[**Subdivision 1 Approved exchange and recognised market operator**](#Subdivision-1-Approved-exchange-and-recognised-market-operator)
 
 - [7 Application for approval or recognition](#Application-for-approval-or-recognition)
 
@@ -44,7 +44,7 @@
 
 - [13 Power of Authority to revoke approval and recognition](#Power-of-Authority-to-revoke-approval-and-recognition)
 
-[**Subdivision (2) — Exempt market operator**](#Subdivision-2-—-Exempt-market-operator)
+[**Subdivision 2 Exempt market operator**](#Subdivision-2-Exempt-market-operator)
 
 - [14 Power of Authority to exempt corporations from approval or recognition](#Power-of-Authority-to-exempt-corporations-from-approval-or-recognition)
 
@@ -52,7 +52,7 @@
 
 [**Division 2  Regulation of Approved Exchanges**](#Division-2--Regulation-of-Approved-Exchanges)
 
-[**Subdivision (1) — Obligations of approved exchanges**](#Subdivision-1-—-Obligations-of-approved-exchanges)
+[**Subdivision 1 Obligations of approved exchanges**](#Subdivision-1-Obligations-of-approved-exchanges)
 
 - [16 General obligations](#General-obligations)
 
@@ -70,7 +70,7 @@
 
 - [22 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (2) — Rules of approved exchanges**](#Subdivision-2-—-Rules-of-approved-exchanges)
+[**Subdivision 2 Rules of approved exchanges**](#Subdivision-2-Rules-of-approved-exchanges)
 
 - [23 Business rules and listing rules of approved exchanges](#Business-rules-and-listing-rules-of-approved-exchanges)
 
@@ -80,7 +80,7 @@
 
 - [26 Non-compliance with business rules or listing rules not to substantially affect rights of person](#Non-compliance-with-business-rules-or-listing-rules-not-to-substantially-affect-rights-of-person)
 
-[**Subdivision (3) — Matters requiring approval of Authority**](#Subdivision-3-—-Matters-requiring-approval-of-Authority)
+[**Subdivision 3 Matters requiring approval of Authority**](#Subdivision-3-Matters-requiring-approval-of-Authority)
 
 - [27 Control of substantial shareholding in approved exchanges](#Control-of-substantial-shareholding-in-approved-exchanges)
 
@@ -90,7 +90,7 @@
 
 - [30 Listing of approved exchanges on securities market](#Listing-of-approved-exchanges-on-securities-market)
 
-[**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
+[**Subdivision 4 Powers of Authority**](#Subdivision-4-Powers-of-Authority)
 
 - [31 (Repealed)](#Repealed)
 
@@ -102,7 +102,7 @@
 
 - [35 Power of Authority to exempt approved exchanges from provisions of this Part](#Power-of-Authority-to-exempt-approved-exchanges-from-provisions-of-this-Part)
 
-[**Subdivision (5) — Immunity**](#Subdivision-5-—-Immunity)
+[**Subdivision 5 Immunity**](#Subdivision-5-Immunity)
 
 - [36 Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
 
@@ -174,7 +174,7 @@
 
 [**Division 2  Regulation of Licensed Trade Repositories**](#Division-2--Regulation-of-Licensed-Trade-Repositories)
 
-[**Subdivision (1) — Obligations of licensed trade repositories**](#Subdivision-1-—-Obligations-of-licensed-trade-repositories)
+[**Subdivision 1 Obligations of licensed trade repositories**](#Subdivision-1-Obligations-of-licensed-trade-repositories)
 
 - [46I General obligations](#General-obligations)
 
@@ -192,7 +192,7 @@
 
 - [46P Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (2) — Rules of licensed trade repositories**](#Subdivision-2-—-Rules-of-licensed-trade-repositories)
+[**Subdivision 2 Rules of licensed trade repositories**](#Subdivision-2-Rules-of-licensed-trade-repositories)
 
 - [46Q Business rules of licensed trade repositories](#Business-rules-of-licensed-trade-repositories)
 
@@ -202,15 +202,15 @@
 
 - [46T Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
 
-[**Subdivision (3) — Matters requiring approval of Authority**](#Subdivision-3-—-Matters-requiring-approval-of-Authority)
+[**Subdivision 3 Matters requiring approval of Authority**](#Subdivision-3-Matters-requiring-approval-of-Authority)
 
 - [46U Control of substantial shareholding in licensed trade repository](#Control-of-substantial-shareholding-in-licensed-trade-repository)
 
 - [46V Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
 
-[**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
+[**Subdivision 4 Powers of Authority**](#Subdivision-4-Powers-of-Authority)
 
-- [46W Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
+- [46W (Repealed)](#Repealed)
 
 - [46X Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
 
@@ -218,7 +218,7 @@
 
 - [46Z Power of Authority to remove officers of licensed trade repository](#Power-of-Authority-to-remove-officers-of-licensed-trade-repository)
 
-[**Subdivision (5) — Immunity**](#Subdivision-5-—-Immunity)
+[**Subdivision 5 Immunity**](#Subdivision-5-Immunity)
 
 - [46ZA Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
 
@@ -242,11 +242,31 @@
 
 [**Division 4  General Powers of Authority**](#Division-4--General-Powers-of-Authority)
 
+- [46ZIA Interpretation of sections 46ZIA to 46ZIF](#Interpretation-of-sections-46ZIA-to-46ZIF)
+
+- [46ZIB Action by Authority if licensed trade repository unable to meet obligations, etc.](#Action-by-Authority-if-licensed-trade-repository-unable-to-meet-obligations-etc)
+
+- [46ZIC Effect of assumption of control under section 46ZIB](#Effect-of-assumption-of-control-under-section-46ZIB)
+
+- [46ZID Duration of control](#Duration-of-control)
+
+- [46ZIE Responsibilities of officers, member, etc., of licensed trade repository](#Responsibilities-of-officers-member-etc-of-licensed-trade-repository)
+
+- [46ZIF Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
+
 - [46ZJ Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
 
 - [46ZK Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
 
 - [46ZL Power of Authority to exempt licensed trade repository or licensed foreign trade repository from provisions of this Part](#Power-of-Authority-to-exempt-licensed-trade-repository-or-licensed-foreign-trade-repository-from-provisions-of-this-Part)
+
+[**Division 5  Voluntary Transfer of Business of Licensed Trade Repository or Licensed Foreign Trade Repository**](#Division-5--Voluntary-Transfer-of-Business-of-Licensed-Trade-Repository-or-Licensed-Foreign-Trade-Repository)
+
+- [46ZM Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [46ZN Voluntary transfer of business](#Voluntary-transfer-of-business)
+
+- [46ZO Approval of transfer](#Approval-of-transfer)
 
 [**Part III CLEARING FACILITIES**](#Part-III)
 
@@ -274,7 +294,7 @@
 
 [**Division 2  Regulation of Approved Clearing Houses**](#Division-2--Regulation-of-Approved-Clearing-Houses)
 
-[**Subdivision (1) — Obligations of approved clearing houses**](#Subdivision-1-—-Obligations-of-approved-clearing-houses)
+[**Subdivision 1 Obligations of approved clearing houses**](#Subdivision-1-Obligations-of-approved-clearing-houses)
 
 - [57 General obligations](#General-obligations)
 
@@ -294,7 +314,7 @@
 
 - [65 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (2) — Rules of approved clearing houses**](#Subdivision-2-—-Rules-of-approved-clearing-houses)
+[**Subdivision 2 Rules of approved clearing houses**](#Subdivision-2-Rules-of-approved-clearing-houses)
 
 - [66 Business rules of approved clearing houses](#Business-rules-of-approved-clearing-houses)
 
@@ -304,7 +324,7 @@
 
 - [69 Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
 
-[**Subdivision (3) — Matters requiring approval of Authority**](#Subdivision-3-—-Matters-requiring-approval-of-Authority)
+[**Subdivision 3 Matters requiring approval of Authority**](#Subdivision-3-Matters-requiring-approval-of-Authority)
 
 - [70 Control of substantial shareholding in approved clearing house](#Control-of-substantial-shareholding-in-approved-clearing-house)
 
@@ -314,7 +334,7 @@
 
 - [73 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
 
-[**Subdivision (4) — Immunity**](#Subdivision-4-—-Immunity)
+[**Subdivision 4 Immunity**](#Subdivision-4-Immunity)
 
 - [74 Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
 
@@ -376,9 +396,27 @@
 
 - [81S Emergency powers of Authority](#Emergency-powers-of-Authority)
 
-- [81SA Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
+- [81SA Interpretation of sections 81SA to 81SAE](#Interpretation-of-sections-81SA-to-81SAE)
+
+- [81SAA Action by Authority if approved clearing house or recognised clearing house unable to meet obligations, etc.](#Action-by-Authority-if-approved-clearing-house-or-recognised-clearing-house-unable-to-meet-obligations-etc)
+
+- [81SAB Effect of assumption of control under section 81SAA](#Effect-of-assumption-of-control-under-section-81SAA)
+
+- [81SAC Duration of control](#Duration-of-control)
+
+- [81SAD Responsibilities of officers, member, etc., of approved clearing house or recognised clearing house](#Responsibilities-of-officers-member-etc-of-approved-clearing-house-or-recognised-clearing-house)
+
+- [81SAE Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
 
 - [81SB Power of Authority to exempt approved clearing house or recognised clearing house from provisions of this Part](#Power-of-Authority-to-exempt-approved-clearing-house-or-recognised-clearing-house-from-provisions-of-this-Part)
+
+[**Division 6  Voluntary Transfer of Business of Approved Clearing House or Recognised Clearing House**](#Division-6--Voluntary-Transfer-of-Business-of-Approved-Clearing-House-or-Recognised-Clearing-House)
+
+- [81SC Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [81SD Voluntary transfer of business](#Voluntary-transfer-of-business)
+
+- [81SE Approval of transfer](#Approval-of-transfer)
 
 [**Part IIIA APPROVED HOLDING COMPANIES**](#Part-IIIA)
 
@@ -648,13 +686,13 @@
 
 - [132 Authority may extend scope of Division in certain circumstances](#Authority-may-extend-scope-of-Division-in-certain-circumstances)
 
-[**Subdivision (1) — Disclosure by directors and chiefexecutive officer of corporation**](#Subdivision-1-—-Disclosure-by-directors-and-chiefexecutive-officer-of-corporation)
+[**Subdivision 1 Disclosure by directors and chief executive officer of corporation**](#Subdivision-1-Disclosure-by-directors-and-chief-executive-officer-of-corporation)
 
 - [133 Duty of director or chief executive officer to notify corporation of his interests](#Duty-of-director-or-chief-executive-officer-to-notify-corporation-of-his-interests)
 
 - [134 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (2) — Disclosure by substantial shareholdersin corporation**](#Subdivision-2-—-Disclosure-by-substantial-shareholdersin-corporation)
+[**Subdivision 2 Disclosure by substantial shareholders in corporation**](#Subdivision-2-Disclosure-by-substantial-shareholders-in-corporation)
 
 - [135 Duty of substantial shareholder to notify corporation of his interests](#Duty-of-substantial-shareholder-to-notify-corporation-of-his-interests)
 
@@ -674,7 +712,7 @@
 
 - [137F Power of corporation to require disclosure of beneficial interest in its voting shares](#Power-of-corporation-to-require-disclosure-of-beneficial-interest-in-its-voting-shares)
 
-[**Subdivision (3) — Disclosure by corporation**](#Subdivision-3-—-Disclosure-by-corporation)
+[**Subdivision 3 Disclosure by corporation**](#Subdivision-3-Disclosure-by-corporation)
 
 - [137G Duty of corporation to make disclosure](#Duty-of-corporation-to-make-disclosure)
 
@@ -684,7 +722,7 @@
 
 - [137I Persons obliged to comply with this Division and power of Authority to grant exemption or extension](#Persons-obliged-to-comply-with-this-Division-and-power-of-Authority-to-grant-exemption-or-extension)
 
-[**Subdivision (1) — Disclosure by substantial unitholdersof business trust**](#Subdivision-1-—-Disclosure-by-substantial-unitholdersof-business-trust)
+[**Subdivision 1 Disclosure by substantial unitholders of business trust**](#Subdivision-1-Disclosure-by-substantial-unitholders-of-business-trust)
 
 - [137J Duty of substantial unitholder to notify trustee-manager of his interests](#Duty-of-substantial-unitholder-to-notify-trustee-manager-of-his-interests)
 
@@ -694,19 +732,19 @@
 
 - [137M Power of trustee-manager to require disclosure of beneficial interest in voting units](#Power-of-trustee-manager-to-require-disclosure-of-beneficial-interest-in-voting-units)
 
-[**Subdivision (2) — Disclosure by directors and chief executiveofficer of trustee-manager of business trust**](#Subdivision-2-—-Disclosure-by-directors-and-chief-executiveofficer-of-trustee-manager-of-business-trust)
+[**Subdivision 2 Disclosure by directors and chief executive officer of trustee-manager of business trust**](#Subdivision-2-Disclosure-by-directors-and-chief-executive-officer-of-trustee-manager-of-business-trust)
 
 - [137N Duty of director and chief executive officer of trustee-manager to notify his interests](#Duty-of-director-and-chief-executive-officer-of-trustee-manager-to-notify-his-interests)
 
 - [137O Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (3) — Disclosure by holders of voting shares intrustee-manager**](#Subdivision-3-—-Disclosure-by-holders-of-voting-shares-intrustee-manager)
+[**Subdivision 3 Disclosure by holders of voting shares in trustee-manager**](#Subdivision-3-Disclosure-by-holders-of-voting-shares-in-trustee-manager)
 
 - [137P Duty of holders of voting shares in trustee-manager to notify trustee-manager](#Duty-of-holders-of-voting-shares-in-trustee-manager-to-notify-trustee-manager)
 
 - [137Q Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (4) — Disclosure by trustee-manager**](#Subdivision-4-—-Disclosure-by-trustee-manager)
+[**Subdivision 4 Disclosure by trustee-manager**](#Subdivision-4-Disclosure-by-trustee-manager)
 
 - [137R Duty of trustee-manager of business trust to make disclosure](#Duty-of-trustee-manager-of-business-trust-to-make-disclosure)
 
@@ -716,7 +754,7 @@
 
 - [137T Persons obliged to comply with Division and power of Authority to grant exemption or extension](#Persons-obliged-to-comply-with-Division-and-power-of-Authority-to-grant-exemption-or-extension)
 
-[**Subdivision (1) — Disclosure by substantial unitholders of realestate investment trust**](#Subdivision-1-—-Disclosure-by-substantial-unitholders-of-realestate-investment-trust)
+[**Subdivision 1 Disclosure by substantial unitholders of real estate investment trust**](#Subdivision-1-Disclosure-by-substantial-unitholders-of-real-estate-investment-trust)
 
 - [137U Duty of substantial unitholder to notify trustee and responsible person of his interests](#Duty-of-substantial-unitholder-to-notify-trustee-and-responsible-person-of-his-interests)
 
@@ -726,19 +764,19 @@
 
 - [137X Power of trustee to require disclosure of beneficial interest in voting units](#Power-of-trustee-to-require-disclosure-of-beneficial-interest-in-voting-units)
 
-[**Subdivision (2) — Disclosure by directors and chief executiveofficer of responsible person**](#Subdivision-2-—-Disclosure-by-directors-and-chief-executiveofficer-of-responsible-person)
+[**Subdivision 2 Disclosure by directors and chief executive officer of responsible person**](#Subdivision-2-Disclosure-by-directors-and-chief-executive-officer-of-responsible-person)
 
 - [137Y Duty of director and chief executive officer of responsible person to notify his interests](#Duty-of-director-and-chief-executive-officer-of-responsible-person-to-notify-his-interests)
 
 - [137Z Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (1) — Disclosure by holders of voting shares inresponsible person**](#Subdivision-1-—-Disclosure-by-holders-of-voting-shares-inresponsible-person)
+[**Subdivision 3 Disclosure by holders of voting shares in responsible person**](#Subdivision-3-Disclosure-by-holders-of-voting-shares-in-responsible-person)
 
 - [137ZA Duty of holders of voting shares in responsible person to notify responsible person](#Duty-of-holders-of-voting-shares-in-responsible-person-to-notify-responsible-person)
 
 - [137ZB Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-[**Subdivision (4) — Disclosure by responsible person**](#Subdivision-4-—-Disclosure-by-responsible-person)
+[**Subdivision 4 Disclosure by responsible person**](#Subdivision-4-Disclosure-by-responsible-person)
 
 - [137ZC Duty of responsible person for real estate investment trust to make disclosure](#Duty-of-responsible-person-for-real-estate-investment-trust-to-make-disclosure)
 
@@ -764,7 +802,7 @@
 
 [**Division 1  Supervisory Powers**](#Division-1--Supervisory-Powers)
 
-[**Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts**](#Subdivision-1-—-Powers-of-Authority-to-require-disclosure-of-information-about-securities-and-futures-contracts)
+[**Subdivision 1 Powers of Authority to require disclosure of information about securities and futures contracts**](#Subdivision-1-Powers-of-Authority-to-require-disclosure-of-information-about-securities-and-futures-contracts)
 
 - [141 Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
 
@@ -784,13 +822,13 @@
 
 - [149 Copies of or extracts from documents to be admitted in evidence](#Copies-of-or-extracts-from-documents-to-be-admitted-in-evidence)
 
-[**Subdivision (2) — Inspection powers of Authority**](#Subdivision-2-—-Inspection-powers-of-Authority)
+[**Subdivision 2 Inspection powers of Authority**](#Subdivision-2-Inspection-powers-of-Authority)
 
 - [150 Inspection by Authority](#Inspection-by-Authority)
 
 - [150A Confidentiality of inspection reports](#Confidentiality-of-inspection-reports)
 
-[**Subdivision (3) — Inspection powers of foreign regulatory authority**](#Subdivision-3-—-Inspection-powers-of-foreign-regulatory-authority)
+[**Subdivision 3 Inspection powers of foreign regulatory authority**](#Subdivision-3-Inspection-powers-of-foreign-regulatory-authority)
 
 - [150B Inspection by foreign regulatory authority](#Inspection-by-foreign-regulatory-authority)
 
@@ -802,7 +840,7 @@
 
 [**Division 3  Investigative Powers of Authority**](#Division-3--Investigative-Powers-of-Authority)
 
-[**Subdivision (1) — General**](#Subdivision-1-—-General)
+[**Subdivision 1 General**](#Subdivision-1-General)
 
 - [152 Investigation by Authority](#Investigation-by-Authority)
 
@@ -810,7 +848,7 @@
 
 - [153 Self-incrimination and savings for advocates and solicitors](#Self-incrimination-and-savings-for-advocates-and-solicitors)
 
-[**Subdivision (2) — Examination of persons**](#Subdivision-2-—-Examination-of-persons)
+[**Subdivision 2 Examination of persons**](#Subdivision-2-Examination-of-persons)
 
 - [154 Requirement to appear for examination](#Requirement-to-appear-for-examination)
 
@@ -830,7 +868,7 @@
 
 - [162 Offences under this Subdivision](#Offences-under-this-Subdivision)
 
-[**Subdivision (3) — Powers to obtain information**](#Subdivision-3-—-Powers-to-obtain-information)
+[**Subdivision 3 Powers to obtain information**](#Subdivision-3-Powers-to-obtain-information)
 
 - [163 Power of Authority to order production of books](#Power-of-Authority-to-order-production-of-books)
 
@@ -1008,7 +1046,7 @@
 
 - [236A Interpretation of this Division](#Interpretation-of-this-Division)
 
-[**Subdivision (1) — Corporations**](#Subdivision-1-—-Corporations)
+[**Subdivision 1 Corporations**](#Subdivision-1-Corporations)
 
 - [236B Liability of corporation when employee or officer commits contravention with consent or connivance of corporation](#Liability-of-corporation-when-employee-or-officer-commits-contravention-with-consent-or-connivance-of-corporation)
 
@@ -1016,7 +1054,7 @@
 
 - [236D Civil liability of corporation for contravention by employee or officer](#Civil-liability-of-corporation-for-contravention-by-employee-or-officer)
 
-[**Subdivision (2) — Partnerships and limited liability partnerships**](#Subdivision-2)
+[**Subdivision 2 Partnerships and limited liability partnerships**](#Subdivision-2)
 
 - [236E Liability of partnership and limited liability partnership when partner, etc., commits contravention with consent or connivance](#Liability-of-partnership-and-limited-liability-partnership-when-partner-etc-commits-contravention-with-consent-or-connivance)
 
@@ -1024,13 +1062,13 @@
 
 - [236G Civil liability of partnership or limited liability partnership for contravention by partner, etc.](#Civil-liability-of-partnership-or-limited-liability-partnership-for-contravention-by-partner-etc)
 
-[**Subdivision (3) — Officers, partners, etc., of entities**](#Subdivision-3)
+[**Subdivision 3 Officers, partners, etc., of entities**](#Subdivision-3)
 
 - [236H Civil penalty against officer of corporation, etc.](#Civil-penalty-against-officer-of-corporation-etc)
 
 - [236I Civil liability of officer of corporation, etc.](#Civil-liability-of-officer-of-corporation-etc)
 
-[**Subdivision (4) — General**](#Subdivision-4-—-General)
+[**Subdivision 4 General**](#Subdivision-4-General)
 
 - [236J Actions not to commence or stayed in certain situations](#Actions-not-to-commence-or-stayed-in-certain-situations)
 
@@ -1048,7 +1086,7 @@
 
 [**Division 1  Shares and Debentures**](#Division-1--Shares-and-Debentures)
 
-[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
+[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
 
 - [239 Preliminary provisions](#Preliminary-provisions)
 
@@ -1056,7 +1094,7 @@
 
 - [239B Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
 
-[**Subdivision (2) — Prospectus requirements**](#Subdivision-2-—-Prospectus-requirements)
+[**Subdivision 2 Prospectus requirements**](#Subdivision-2-Prospectus-requirements)
 
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -1104,7 +1142,7 @@
 
 - [260 Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
 
-[**Subdivision (3) — Debentures**](#Subdivision-3-—-Debentures)
+[**Subdivision 3 Debentures**](#Subdivision-3-Debentures)
 
 - [261 Preliminary provisions](#Preliminary-provisions)
 
@@ -1130,7 +1168,7 @@
 
 - [271 Liability of trustees for debenture holders](#Liability-of-trustees-for-debenture-holders)
 
-[**Subdivision (4) — Exemptions**](#Subdivision-4-—-Exemptions)
+[**Subdivision 4 Exemptions**](#Subdivision-4-Exemptions)
 
 - [272 Issue or transfer of securities for no consideration](#Issue-or-transfer-of-securities-for-no-consideration)
 
@@ -1160,7 +1198,7 @@
 
 [**Division 1A  Business Trusts**](#Division-1A--Business-Trusts)
 
-[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
+[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
 
 - [282A Preliminary provisions](#Preliminary-provisions)
 
@@ -1168,7 +1206,7 @@
 
 - [282BA Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
 
-[**Subdivision (2) — Prospectus requirements**](#Subdivision-2-—-Prospectus-requirements)
+[**Subdivision 2 Prospectus requirements**](#Subdivision-2-Prospectus-requirements)
 
 - [282C Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -1206,7 +1244,7 @@
 
 - [282T Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
 
-[**Subdivision (2A) — Recognised business trusts**](#Subdivision-2A-—-Recognised-business-trusts)
+[**Subdivision 2A Recognised business trusts**](#Subdivision-2A-Recognised-business-trusts)
 
 - [282TA Power of Authority to recognise business trusts constituted outside Singapore](#Power-of-Authority-to-recognise-business-trusts-constituted-outside-Singapore)
 
@@ -1214,7 +1252,7 @@
 
 - [282TC Revocation, suspension or withdrawal of recognition](#Revocation-suspension-or-withdrawal-of-recognition)
 
-[**Subdivision (3) — Exemptions**](#Subdivision-3-—-Exemptions)
+[**Subdivision 3 Exemptions**](#Subdivision-3-Exemptions)
 
 - [282U Issue or transfer of units or derivatives of units for no consideration](#Issue-or-transfer-of-units-or-derivatives-of-units-for-no-consideration)
 
@@ -1240,13 +1278,13 @@
 
 - [282ZE Transactions under exempted offers subject to Division 2 of Part XII of Companies Act and Part XII of this Act](#Transactions-under-exempted-offers-subject-to-Division-2-of-Part-XII-of-Companies-Act-and-Part-XII-of-this-Act)
 
-[**Subdivision (4) — Debentures**](#Subdivision-4-—-Debentures)
+[**Subdivision 4 Debentures**](#Subdivision-4-Debentures)
 
 - [282ZF Applicability of provisions relating to prospectus requirements](#Applicability-of-provisions-relating-to-prospectus-requirements)
 
 [**Division 2  Collective Investment Schemes**](#Division-2--Collective-Investment-Schemes)
 
-[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
+[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
 
 - [283 Interpretation of this Division](#Interpretation-of-this-Division)
 
@@ -1260,7 +1298,7 @@
 
 - [284C Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
 
-[**Subdivision (2) — Authorisation and recognition**](#Subdivision-2-—-Authorisation-and-recognition)
+[**Subdivision 2 Authorisation and recognition**](#Subdivision-2-Authorisation-and-recognition)
 
 - [285 Requirement for authorisation or recognition](#Requirement-for-authorisation-or-recognition)
 
@@ -1306,7 +1344,7 @@
 
 - [295C Remedies in cases of oppression or injustice](#Remedies-in-cases-of-oppression-or-injustice)
 
-[**Subdivision (2A) — Voluntary transfer of business ofapproved trustee**](#Subdivision-2A-—-Voluntary-transfer-of-business-ofapproved-trustee)
+[**Subdivision 2A Voluntary transfer of business of approved trustee**](#Subdivision-2A-Voluntary-transfer-of-business-of-approved-trustee)
 
 - [295D Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
 
@@ -1314,7 +1352,7 @@
 
 - [295F Approval of transfer](#Approval-of-transfer)
 
-[**Subdivision (3) — Prospectus requirements**](#Subdivision-3-—-Prospectus-requirements)
+[**Subdivision 3 Prospectus requirements**](#Subdivision-3-Prospectus-requirements)
 
 - [296 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -1330,7 +1368,7 @@
 
 - [302 Application of provisions relating to securities](#Application-of-provisions-relating-to-securities)
 
-[**Subdivision (4) — Exemptions**](#Subdivision-4-—-Exemptions)
+[**Subdivision 4 Exemptions**](#Subdivision-4-Exemptions)
 
 - [302A Issue or transfer for no consideration](#Issue-or-transfer-for-no-consideration)
 
@@ -2500,7 +2538,9 @@ Establishment of Markets
 
 [1/2005]
 
-Subdivision (1) — Approved exchange and recognised market operator
+Subdivision (1) —
+
+Approved exchange and recognised market operator
 
 ### Application for approval or recognition
 
@@ -2836,7 +2876,9 @@ as the Authority may require;
 
 [UK FSMA, s. 297; FTA, s. 7]
 
-Subdivision (2) — Exempt market operator
+Subdivision (2) —
+
+Exempt market operator
 
 ### Power of Authority to exempt corporations from approval or recognition
 
@@ -2980,7 +3022,9 @@ Division 2 —
 
 Regulation of Approved Exchanges
 
-Subdivision (1) — Obligations of approved exchanges
+Subdivision (1) —
+
+Obligations of approved exchanges
 
 ### General obligations
 
@@ -3152,7 +3196,9 @@ as the Authority may require for the proper administration of this Act.
 
 [1/2005]
 
-Subdivision (2) — Rules of approved exchanges
+Subdivision (2) —
+
+Rules of approved exchanges
 
 ### Business rules and listing rules of approved exchanges
 
@@ -3238,7 +3284,9 @@ in relation to a matter shall not prevent the matter from being treated, for the
 
 [1/2005]
 
-Subdivision (3) — Matters requiring approval of Authority
+Subdivision (3) —
+
+Matters requiring approval of Authority
 
 ### Control of substantial shareholding in approved exchanges
 
@@ -3468,7 +3516,9 @@ on any market operated by the approved exchange.
 
 [1/2005]
 
-Subdivision (4) — Powers of Authority
+Subdivision (4) —
+
+Powers of Authority
 
 31\. [Repealed by Act 10 of 2013 wef 18/04/2013]
 
@@ -3650,7 +3700,9 @@ and the auditor shall carry out such duties.
 
 [1/2005]
 
-Subdivision (5) — Immunity
+Subdivision (5) —
+
+Immunity
 
 ### Immunity from criminal or civil liability
 
@@ -4459,6 +4511,10 @@ Licensing of Trade Repositories
 
 (iii) any provision in this Act;
 
+(da) upon the Authority exercising any power under section 46ZIB(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the trade repository licence or foreign trade repository licence, as the case may be;
+
+[Act 10 of 2013 wef 02/08/2013]
+
 (e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
 
 (f) any information or document provided by the corporation to the Authority is false or misleading.
@@ -4495,7 +4551,9 @@ Division 2 —
 
 Regulation of Licensed Trade Repositories
 
-Subdivision (1) — Obligations of licensed trade repositories
+Subdivision (1) —
+
+Obligations of licensed trade repositories
 
 ### General obligations
 
@@ -4657,7 +4715,9 @@ Subdivision (1) — Obligations of licensed trade repositories
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (2) — Rules of licensed trade repositories
+Subdivision (2) —
+
+Rules of licensed trade repositories
 
 ### Business rules of licensed trade repositories
 
@@ -4699,7 +4759,9 @@ Subdivision (2) — Rules of licensed trade repositories
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (3) — Matters requiring approval of Authority
+Subdivision (3) —
+
+Matters requiring approval of Authority
 
 ### Control of substantial shareholding in licensed trade repository
 
@@ -4827,53 +4889,11 @@ Subdivision (3) — Matters requiring approval of Authority
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (4) — Powers of Authority
+Subdivision (4) —
 
-### Power of Authority to appoint adviser
+Powers of Authority
 
-46W\.—(1) The Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise a licensed trade repository on the proper management of such business or operations of the licensed trade repository as the Authority may determine, where —
-
-(a) the licensed trade repository informs the Authority that it is or is likely to become insolvent, that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
-
-(b) the licensed trade repository becomes unable to meet its obligations, is insolvent, or suspends payments;
-
-(c) the Authority is of the opinion that the licensed trade repository —
-
-(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 46A;
-
-(ii) is or is likely to become insolvent, is or is likely to become unable to meet its obligations, or is about to suspend payments; or
-
-(iii) has contravened —
-
-(A) any condition or restriction applicable in respect of its trade repository licence;
-
-(B) any direction issued to it by the Authority under this Act; or
-
-(C) any provision in this Act; or
-
-(d) the Authority thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors to do so.
-
-(2) Where the Authority has exercised its power under subsection (1), the Authority may at any time do one or more of the following:
-
-(a) vary or revoke any appointment made by the Authority under subsection (1), on such terms and conditions as the Authority may specify;
-
-(b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
-
-(c) add to, vary or revoke any term or condition specified by the Authority under this section.
-
-(3) No liability shall be incurred by a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
-
-(a) the exercise or purported exercise of any power under this Act;
-
-(b) the performance or purported performance of any function or duty under this Act; or
-
-(c) the compliance or purported compliance with this Act.
-
-(4) The Authority may at any time fix the remuneration and expenses to be paid by a licensed trade repository to a statutory adviser appointed in relation to the licensed trade repository, whether or not the appointment has been terminated.
-
-(5) A licensed trade repository shall reimburse the Authority for any remuneration and expenses paid by the Authority to a statutory adviser that is payable by the licensed trade repository to the statutory adviser.
-
-[Act 34 of 2012 wef 01/08/2013]
+46W\. [Repealed by Act 10 of 2013 wef 02/08/2013]
 
 ### Additional powers of Authority in respect of auditors
 
@@ -4977,7 +4997,9 @@ Subdivision (4) — Powers of Authority
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (5) — Immunity
+Subdivision (5) —
+
+Immunity
 
 ### Immunity from criminal or civil liability
 
@@ -5125,6 +5147,204 @@ Division 4 —
 
 General Powers of Authority
 
+### Interpretation of sections 46ZIA to 46ZIF
+
+46ZIA\. In this section and sections 46ZIB to 46ZIF, unless the context otherwise requires —
+
+“business” includes affairs and property;
+
+“office holder”, in relation to a licensed trade repository or licensed foreign trade repository, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the licensed trade repository or licensed foreign trade repository (as the case may be), or acting in an equivalent capacity in relation to the licensed trade repository or licensed foreign trade repository (as the case may be);
+
+“relevant business” means any business of a licensed trade repository or licensed foreign trade repository —
+
+(a) which the Authority has assumed control of under section 46ZIB; or
+
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 46ZIB;
+
+“statutory adviser” means a statutory adviser appointed under section 46ZIB;
+
+“statutory manager” means a statutory manager appointed under section 46ZIB.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Action by Authority if licensed trade repository unable to meet obligations, etc.
+
+46ZIB\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+
+(a) a licensed trade repository or licensed foreign trade repository informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) a licensed trade repository or licensed foreign trade repository becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that a licensed trade repository or licensed foreign trade repository —
+
+(i) is carrying on its business in a manner likely to be detrimental to the interests of the public or a section of the public or the protection of investors, or to the objectives specified in section 46A;
+
+(ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition or restriction imposed on it under section 46E(3) or (4); or
+
+(d) the Authority considers it in the public interest to do so.
+
+(2) Subject to subsections (1) and (3), the Authority may —
+
+(a) require the licensed trade repository or licensed foreign trade repository (as the case may be) immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
+
+(b) appoint one or more persons as statutory adviser, on such terms and conditions as the Authority may specify, to advise the licensed trade repository or licensed foreign trade repository (as the case may be) on the proper management of such of the business of the licensed trade repository or licensed foreign trade repository (as the case may be) as the Authority may determine; or
+
+(c) assume control of and manage such of the business of the licensed trade repository or licensed foreign trade repository (as the case may be) as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
+
+(3) In the case of a licensed foreign trade repository, any appointment of a statutory adviser or statutory manager or any assumption of control by the Authority of any business of the licensed foreign trade repository under subsection (2) shall only be in relation to —
+
+(a) the business or affairs of the licensed foreign trade repository carried on in, or managed in or from, Singapore; or
+
+(b) the property of the licensed foreign trade repository located in Singapore, or reflected in the books of the licensed foreign trade repository in Singapore, as the case may be, in relation to its operations in Singapore.
+
+(4) Where the Authority appoints 2 or more persons as the statutory manager of a licensed trade repository or licensed foreign trade repository, the Authority shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised by such persons jointly and severally;
+
+(b) shall be discharged or exercised by such persons jointly; and
+
+(c) shall be discharged or exercised by a specified person or such persons.
+
+(5) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 46H(1)(da), do one or more of the following:
+
+(a) vary or revoke any requirement of, any appointment made by or any action taken by the Authority in the exercise of such power, on such terms and conditions as it may specify;
+
+(b) further exercise any of the powers under subsection (2);
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(6) No liability shall be incurred by a statutory manager or a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(7) Any licensed trade repository or licensed foreign trade repository that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Effect of assumption of control under section 46ZIB
+
+46ZIC\.—(1) Upon assuming control of the relevant business of a licensed trade repository or licensed foreign trade repository, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+
+(2) During the period when the Authority or statutory manager is in control of the relevant business of a licensed trade repository or licensed foreign trade repository, the Authority or statutory manager —
+
+(a) shall manage the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be) in the name of and on behalf of the licensed trade repository or licensed foreign trade repository (as the case may be); and
+
+(b) shall be deemed to be an agent of the licensed trade repository or licensed foreign trade repository (as the case may be).
+
+(3) In managing the relevant business of a licensed trade repository or licensed foreign trade repository, the Authority or statutory manager —
+
+(a) shall take into consideration the interests of the public or the section of the public referred to in section 46ZIB(1)(c)(i), and the need to protect investors; and
+
+(b) shall have all the duties, powers and functions of the members of the board of directors of the licensed trade repository or licensed foreign trade repository (as the case may be) (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the licensed trade repository or licensed foreign trade repository (as the case may be), including powers of delegation, in relation to the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be); but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the licensed trade repository or licensed foreign trade repository (as the case may be) under the Companies Act or the constitution of the licensed trade repository or licensed foreign trade repository (as the case may be).
+
+(4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of a licensed trade repository or licensed foreign trade repository by the Authority or statutory manager, any appointment of a person as the chief executive officer or a director of the licensed trade repository or licensed foreign trade repository (as the case may be), which was in force immediately before the assumption of control, shall be deemed to be revoked, unless the Authority gives its approval, by notice in writing to the person and the licensed trade repository or licensed foreign trade repository (as the case may be), for the person to remain in the appointment.
+
+(5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of a licensed trade repository or licensed foreign trade repository, except with the approval of the Authority, no person shall be appointed as the chief executive officer or a director of the licensed trade repository or licensed foreign trade repository (as the case may be).
+
+(6) Where the Authority has given its approval under subsection (4) or (5) to a person to remain in the appointment of, or to be appointed as, the chief executive officer or a director of a licensed trade repository or licensed foreign trade repository, the Authority may at any time, by notice in writing to the person and the licensed trade repository or licensed foreign trade repository (as the case may be), revoke that approval, and the appointment shall be deemed to be revoked on the date specified in the notice.
+
+(7) Notwithstanding any written law or rule of law, if any person, whose appointment as the chief executive officer or a director of a licensed trade repository or licensed foreign trade repository is revoked under subsection (4) or (6), acts or purports to act after the revocation as the chief executive officer or a director of the licensed trade repository or licensed foreign trade repository (as the case may be) during the period when the Authority or statutory manager is in control of the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be) —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(8) Notwithstanding any written law or rule of law, if any person who is appointed as the chief executive officer or a director of a licensed trade repository or licensed foreign trade repository in contravention of subsection (5) acts or purports to act as the chief executive officer or a director of the licensed trade repository or licensed foreign trade repository (as the case may be) during the period when the Authority or statutory manager is in control of the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be) —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(9) During the period when the Authority or statutory manager is in control of the relevant business of a licensed trade repository or licensed foreign trade repository —
+
+(a) if there is any conflict or inconsistency between —
+
+(i) a direction or decision given by the Authority or statutory manager (including a direction or decision to a person or body of persons referred to in sub-paragraph (ii)); and
+
+(ii) a direction or decision given by any chief executive officer, director, member, executive officer, employee, agent or office holder, or the board of directors, of the licensed trade repository or licensed foreign trade repository (as the case may be),
+
+the direction or decision referred to in sub-paragraph (i) shall, to the extent of the conflict or inconsistency, prevail over the direction or decision referred to in sub-paragraph (ii); and
+
+(b) no person shall exercise any voting or other right attached to any share in the licensed trade repository or licensed foreign trade repository (as the case may be) in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
+
+(10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) In this section, “constitution”, in relation to a licensed trade repository or licensed foreign trade repository, means the memorandum of association and articles of association of the licensed trade repository or licensed foreign trade repository (as the case may be).
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Duration of control
+
+46ZID\.—(1) The Authority shall cease to be in control of the relevant business of a licensed trade repository or licensed foreign trade repository when the Authority is satisfied that —
+
+(a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
+
+(b) it is no longer necessary in the interests of the public or the section of the public referred to in section 46ZIB(1)(c)(i) or for the protection of investors.
+
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of a licensed trade repository or licensed foreign trade repository on the date of his appointment as a statutory manager.
+
+(3) The appointment of a statutory manager in relation to the relevant business of a licensed trade repository or licensed foreign trade repository may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that —
+
+(i) the reasons for the appointment have ceased to exist; or
+
+(ii) it is no longer necessary in the interests of the public or the section of the public referred to in section 46ZIB(1)(c)(i) or for the protection of investors; or
+
+(b) on any other ground,
+
+and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be).
+
+(4) The Authority shall, as soon as practicable, publish in theGazettethe date, and such other particulars as the Authority thinks fit, of —
+
+(a) the Authority’s assumption of control of the relevant business of a licensed trade repository or licensed foreign trade repository;
+
+(b) the cessation of the Authority’s control of the relevant business of a licensed trade repository or licensed foreign trade repository;
+
+(c) the appointment of a statutory manager in relation to the relevant business of a licensed trade repository or licensed foreign trade repository; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of a licensed trade repository or licensed foreign trade repository.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Responsibilities of officers, member, etc., of licensed trade repository
+
+46ZIE\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of a licensed trade repository or licensed foreign trade repository —
+
+(a) the High Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the licensed trade repository or licensed foreign trade repository (as the case may be) to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property or book of the licensed trade repository or licensed foreign trade repository (as the case may be) which is comprised in, forms part of or relates to the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be), and which is in the person’s possession or control; and
+
+(b) any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the licensed trade repository or licensed foreign trade repository (as the case may be) shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of the Authority’s or statutory manager’s duties or functions, or the exercise of the Authority’s or statutory manager’s powers, in relation to the licensed trade repository or licensed foreign trade repository (as the case may be), within such time and in such manner as may be specified by the Authority or statutory manager.
+
+(2) Any person who —
+
+(a) without reasonable excuse, fails to comply with subsection (1)(b); or
+
+(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Remuneration and expenses of Authority and others in certain cases
+
+46ZIF\.—(1) The Authority may at any time fix the remuneration and expenses to be paid by a licensed trade repository or licensed foreign trade repository —
+
+(a) to a statutory manager or statutory adviser appointed in relation to the licensed trade repository or licensed foreign trade repository (as the case may be), whether or not the appointment has been revoked; and
+
+(b) where the Authority has assumed control of the relevant business of the licensed trade repository or licensed foreign trade repository (as the case may be), to the Authority and any person appointed by the Authority under section 320 in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
+
+(2) The licensed trade repository or licensed foreign trade repository (as the case may be) shall reimburse the Authority any remuneration and expenses payable by the licensed trade repository or licensed foreign trade repository (as the case may be) to a statutory manager or statutory adviser.
+
+[Act 10 of 2013 wef 02/08/2013]
+
 ### Power of Authority to make regulations
 
 46ZJ\.—(1) Without prejudice to section 341, the Authority may make regulations for the purposes of this Part, including regulations relating to —
@@ -5184,6 +5404,150 @@ General Powers of Authority
 (3) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
 
 [Act 34 of 2012 wef 01/08/2013]
+
+Division 5 —
+
+Voluntary Transfer of Business of
+
+
+
+
+Licensed Trade Repository or Licensed Foreign
+
+
+
+
+Trade Repository
+
+### Interpretation of this Division
+
+46ZM\. In this Division, unless the context otherwise requires —
+
+“business” includes affairs, property, right, obligation and liability;
+
+“Court” means the High Court or a Judge thereof;
+
+“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“property” includes property, right and power of every description;
+
+“Registrar of Companies” means the Registrar of Companies appointed under the Companies Act and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
+
+“transferee” means a licensed trade repository or licensed foreign trade repository, or a corporation which has applied or will be applying for a trade repository licence or foreign trade repository licence, to which the whole or any part of a transferor’s business is, is to be or is proposed to be transferred under this Division;
+
+“transferor” means a licensed trade repository or licensed foreign trade repository the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Voluntary transfer of business
+
+46ZN\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of a licensed trade repository or licensed foreign trade repository) to a transferee, if —
+
+(a) the Authority has consented to the transfer;
+
+(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of a licensed trade repository or licensed foreign trade repository; and
+
+(c) the Court has approved the transfer.
+
+(2) Subsection (1) is without prejudice to the right of a licensed trade repository or licensed foreign trade repository to transfer the whole or any part of its business under any law.
+
+(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —
+
+(a) the transferee is a fit and proper person; and
+
+(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.
+
+(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division.
+
+(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
+
+(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
+
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this Division.
+
+(8) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or
+
+(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Approval of transfer
+
+46ZO\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under this Division.
+
+(2) Before making an application under subsection (1) —
+
+(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
+
+(b) the transferor shall obtain the consent of the Authority under section 46ZN(1)(a);
+
+(c) the transferor and the transferee shall, if they intend to serve on their respective participants a summary of the transfer, obtain the Authority’s approval of the summary;
+
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;
+
+(e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
+
+(f) unless the Court directs otherwise, the transferor and the transferee shall serve on their respective participants affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).
+
+(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —
+
+(a) shall have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and
+
+(b) may make any application to the Court in relation to the transfer.
+
+(4) The Court shall not approve the transfer if the Authority has not consented under section 46ZN(1)(a) to the transfer.
+
+(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
+
+(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or
+
+(b) refuse to approve the transfer.
+
+(6) If the transferee is not granted a trade repository licence or foreign trade repository licence by the Authority, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee being granted a trade repository licence or foreign trade repository licence by the Authority.
+
+(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters:
+
+(a) the transfer to the transferee of the whole or any part of the business of the transferor;
+
+(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
+
+(c) the continuation by (or against) the transferee of any legal proceedings pending by (or against) the transferor;
+
+(d) the dissolution, without winding up, of the transferor;
+
+(e) the provisions to be made for persons who are affected by the transfer;
+
+(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.
+
+(8) Any order under subsection (7) may —
+
+(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;
+
+(b) make provision in relation to any property which is held by the transferor as trustee; and
+
+(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.
+
+(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order the business (or part thereof) of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have effect.
+
+(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
+
+(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country or territory, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country or territory.
+
+(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —
+
+(a) a copy of the order with the Registrar of Companies and with the Authority; and
+
+(b) where the order relates to land in Singapore, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.
+
+(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 02/08/2013]
 
 ## PART III
 
@@ -5521,6 +5885,10 @@ Establishment of Clearing Facilities
 
 (iii) any provision in this Act;
 
+(da) upon the Authority exercising any power under section 81SAA(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
+
+[Act 10 of 2013 wef 02/08/2013]
+
 (e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
 
 (f) any information or document provided by the corporation to the Authority is false or misleading.
@@ -5561,7 +5929,9 @@ Division 2 —
 
 Regulation of Approved Clearing Houses
 
-Subdivision (1) — Obligations of approved clearing houses
+Subdivision (1) —
+
+Obligations of approved clearing houses
 
 ### General obligations
 
@@ -5767,7 +6137,9 @@ Subdivision (1) — Obligations of approved clearing houses
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (2) — Rules of approved clearing houses
+Subdivision (2) —
+
+Rules of approved clearing houses
 
 ### Business rules of approved clearing houses
 
@@ -5819,7 +6191,9 @@ Subdivision (2) — Rules of approved clearing houses
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (3) — Matters requiring approval of Authority
+Subdivision (3) —
+
+Matters requiring approval of Authority
 
 ### Control of substantial shareholding in approved clearing house
 
@@ -5999,7 +6373,9 @@ Subdivision (3) — Matters requiring approval of Authority
 
 [Act 34 of 2012 wef 01/08/2013]
 
-Subdivision (4) — Immunity
+Subdivision (4) —
+
+Immunity
 
 ### Immunity from criminal or civil liability
 
@@ -6605,35 +6981,77 @@ General Powers of Authority
 
 [Act 34 of 2012 wef 01/08/2013]
 
-### Power of Authority to appoint adviser
+### Interpretation of sections 81SA to 81SAE
 
-81SA\.—(1) The Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise an approved clearing house or a recognised clearing house on the proper management of such business of the approved clearing house or recognised clearing house as the Authority may determine, where —
+81SA\. In this section and sections 81SAA to 81SAE, unless the context otherwise requires —
 
-(a) the approved clearing house or recognised clearing house informs the Authority that it is or is likely to become insolvent, that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+“business” includes affairs and property;
 
-(b) the approved clearing house or recognised clearing house becomes unable to meet its obligations, or is insolvent, or suspends payments;
+“office holder”, in relation to an approved clearing house or a recognised clearing house, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the approved clearing house or recognised clearing house (as the case may be), or acting in an equivalent capacity in relation to the approved clearing house or recognised clearing house (as the case may be);
 
-(c) the Authority is of the opinion that the approved clearing house or recognised clearing house —
+“relevant business” means any business of an approved clearing house or a recognised clearing house —
 
-(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 47;
+(a) which the Authority has assumed control of under section 81SAA; or
 
-(ii) is or is likely to become insolvent, is or is likely to become unable to meet its obligations, or is about to suspend payments;
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 81SAA;
+
+“statutory adviser” means a statutory adviser appointed under section 81SAA;
+
+“statutory manager” means a statutory manager appointed under section 81SAA.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Action by Authority if approved clearing house or recognised clearing house unable to meet obligations, etc.
+
+81SAA\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+
+(a) an approved clearing house or a recognised clearing house informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) an approved clearing house or a recognised clearing house becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that an approved clearing house or a recognised clearing house —
+
+(i) is carrying on its business in a manner likely to be detrimental to the interests of the public or a section of the public or the protection of investors, or to the objectives specified in section 47;
+
+(ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
 
 (iii) has contravened any of the provisions of this Act; or
 
-(iv) has failed to comply with any condition attached to its approval as an approved clearing house or its recognition as a recognised clearing house; or
+(iv) has failed to comply with any condition or restriction imposed on it under section 51(4) or (5); or
 
-(d) the Authority thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors to do so.
+(d) the Authority considers it in the public interest to do so.
 
-(2) Where the Authority has exercised its power under subsection (1), the Authority may at any time do one or more of the following:
+(2) Subject to subsections (1) and (3), the Authority may —
 
-(a) vary or revoke any appointment made by the Authority under subsection (1), on such terms and conditions as the Authority may specify;
+(a) require the approved clearing house or recognised clearing house (as the case may be) immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
 
-(b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
+(b) appoint one or more persons as statutory adviser, on such terms and conditions as the Authority may specify, to advise the approved clearing house or recognised clearing house (as the case may be) on the proper management of such of the business of the approved clearing house or recognised clearing house (as the case may be) as the Authority may determine; or
+
+(c) assume control of and manage such of the business of the approved clearing house or recognised clearing house (as the case may be) as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
+
+(3) In the case of a recognised clearing house which is incorporated outside Singapore, any appointment of a statutory adviser or statutory manager or any assumption of control by the Authority of any business of the recognised clearing house under subsection (2) shall only be in relation to —
+
+(a) the business or affairs of the recognised clearing house carried on in, or managed in or from, Singapore; or
+
+(b) the property of the recognised clearing house located in Singapore, or reflected in the books of the recognised clearing house in Singapore, as the case may be, in relation to its operations in Singapore.
+
+(4) Where the Authority appoints 2 or more persons as the statutory manager of an approved clearing house or a recognised clearing house, the Authority shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised by such persons jointly and severally;
+
+(b) shall be discharged or exercised by such persons jointly; and
+
+(c) shall be discharged or exercised by a specified person or such persons.
+
+(5) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 56(1)(da), do one or more of the following:
+
+(a) vary or revoke any requirement of, any appointment made by or any action taken by the Authority in the exercise of such power, on such terms and conditions as it may specify;
+
+(b) further exercise any of the powers under subsection (2);
 
 (c) add to, vary or revoke any term or condition specified by the Authority under this section.
 
-(3) No liability shall be incurred by a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+(6) No liability shall be incurred by a statutory manager or a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
 
 (a) the exercise or purported exercise of any power under this Act;
 
@@ -6641,11 +7059,125 @@ General Powers of Authority
 
 (c) the compliance or purported compliance with this Act.
 
-(4) The Authority may at any time fix the remuneration and expenses to be paid by an approved clearing house or a recognised clearing house to a statutory adviser appointed in relation to the approved clearing house or recognised clearing house, whether or not the appointment has been terminated.
+(7) Any approved clearing house or recognised clearing house that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(5) An approved clearing house or a recognised clearing house shall reimburse the Authority for any remuneration and expenses paid by the Authority to a statutory adviser that is payable by the approved clearing house or recognised clearing house to the statutory adviser.
+[Act 10 of 2013 wef 02/08/2013]
 
-[Act 34 of 2012 wef 01/08/2013]
+### Effect of assumption of control under section 81SAA
+
+81SAB\.—(1) Upon assuming control of the relevant business of an approved clearing house or a recognised clearing house, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+
+(2) During the period when the Authority or statutory manager is in control of the relevant business of an approved clearing house or a recognised clearing house, the Authority or statutory manager —
+
+(a) shall manage the relevant business of the approved clearing house or recognised clearing house (as the case may be) in the name of and on behalf of the approved clearing house or recognised clearing house (as the case may be); and
+
+(b) shall be deemed to be an agent of the approved clearing house or recognised clearing house (as the case may be).
+
+(3) In managing the relevant business of an approved clearing house or a recognised clearing house, the Authority or statutory manager —
+
+(a) shall take into consideration the interests of the public or the section of the public referred to in section 81SAA(1)(c)(i), and the need to protect investors; and
+
+(b) shall have all the duties, powers and functions of the members of the board of directors of the approved clearing house or recognised clearing house (as the case may be) (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the approved clearing house or recognised clearing house (as the case may be), including powers of delegation, in relation to the relevant business of the approved clearing house or recognised clearing house (as the case may be); but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the approved clearing house or recognised clearing house (as the case may be) under the Companies Act or the constitution of the approved clearing house or recognised clearing house (as the case may be).
+
+(4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of an approved clearing house or a recognised clearing house by the Authority or statutory manager, any appointment of a person as the chief executive officer or a director of the approved clearing house or recognised clearing house (as the case may be), which was in force immediately before the assumption of control, shall be deemed to be revoked, unless the Authority gives its approval, by notice in writing to the person and the approved clearing house or recognised clearing house (as the case may be), for the person to remain in the appointment.
+
+(5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of an approved clearing house or a recognised clearing house, except with the approval of the Authority, no person shall be appointed as the chief executive officer or a director of the approved clearing house or recognised clearing house (as the case may be).
+
+(6) Where the Authority has given its approval under subsection (4) or (5) to a person to remain in the appointment of, or to be appointed as, the chief executive officer or a director of an approved clearing house or a recognised clearing house, the Authority may at any time, by notice in writing to the person and the approved clearing house or recognised clearing house (as the case may be), revoke that approval, and the appointment shall be deemed to be revoked on the date specified in the notice.
+
+(7) Notwithstanding any written law or rule of law, if any person, whose appointment as the chief executive officer or a director of an approved clearing house or a recognised clearing house is revoked under subsection (4) or (6), acts or purports to act after the revocation as the chief executive officer or a director of the approved clearing house or recognised clearing house (as the case may be) during the period when the Authority or statutory manager is in control of the relevant business of the approved clearing house or recognised clearing house (as the case may be) —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(8) Notwithstanding any written law or rule of law, if any person who is appointed as the chief executive officer or a director of an approved clearing house or a recognised clearing house in contravention of subsection (5) acts or purports to act as the chief executive officer or a director of the approved clearing house or recognised clearing house (as the case may be) during the period when the Authority or statutory manager is in control of the relevant business of the approved clearing house or recognised clearing house (as the case may be) —
+
+(a) the act or purported act of the person shall be invalid and of no effect; and
+
+(b) the person shall be guilty of an offence.
+
+(9) During the period when the Authority or statutory manager is in control of the relevant business of an approved clearing house or a recognised clearing house —
+
+(a) if there is any conflict or inconsistency between —
+
+(i) a direction or decision given by the Authority or statutory manager (including a direction or decision to a person or body of persons referred to in sub-paragraph (ii)); and
+
+(ii) a direction or decision given by any chief executive officer, director, member, executive officer, employee, agent or office holder, or the board of directors, of the approved clearing house or recognised clearing house (as the case may be),
+
+the direction or decision referred to in sub-paragraph (i) shall, to the extent of the conflict or inconsistency, prevail over the direction or decision referred to in sub-paragraph (ii); and
+
+(b) no person shall exercise any voting or other right attached to any share in the approved clearing house or recognised clearing house (as the case may be) in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
+
+(10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) In this section, “constitution”, in relation to an approved clearing house or a recognised clearing house, means the memorandum of association and articles of association of the approved clearing house or recognised clearing house (as the case may be).
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Duration of control
+
+81SAC\.—(1) The Authority shall cease to be in control of the relevant business of an approved clearing house or a recognised clearing house when the Authority is satisfied that —
+
+(a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
+
+(b) it is no longer necessary in the interests of the public or the section of the public referred to in section 81SAA(1)(c)(i) or for the protection of investors.
+
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of an approved clearing house or a recognised clearing house on the date of his appointment as a statutory manager.
+
+(3) The appointment of a statutory manager in relation to the relevant business of an approved clearing house or a recognised clearing house may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that —
+
+(i) the reasons for the appointment have ceased to exist; or
+
+(ii) it is no longer necessary in the interests of the public or the section of the public referred to in section 81SAA(1)(c)(i) or for the protection of investors; or
+
+(b) on any other ground,
+
+and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the approved clearing house or recognised clearing house (as the case may be).
+
+(4) The Authority shall, as soon as practicable, publish in theGazettethe date, and such other particulars as the Authority thinks fit, of —
+
+(a) the Authority’s assumption of control of the relevant business of an approved clearing house or a recognised clearing house;
+
+(b) the cessation of the Authority’s control of the relevant business of an approved clearing house or a recognised clearing house;
+
+(c) the appointment of a statutory manager in relation to the relevant business of an approved clearing house or a recognised clearing house; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of an approved clearing house or a recognised clearing house.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Responsibilities of officers, member, etc., of approved clearing house or recognised clearing house
+
+81SAD\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of an approved clearing house or a recognised clearing house —
+
+(a) the High Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved clearing house or recognised clearing house (as the case may be) to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property or book of the approved clearing house or recognised clearing house (as the case may be) which is comprised in, forms part of or relates to the relevant business of the approved clearing house or recognised clearing house (as the case may be), and which is in the person’s possession or control; and
+
+(b) any person who has ceased to be or who is still any chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the approved clearing house or recognised clearing house (as the case may be) shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of the Authority’s or statutory manager’s duties or functions, or the exercise of the Authority’s or statutory manager’s powers, in relation to the approved clearing house or recognised clearing house (as the case may be), within such time and in such manner as may be specified by the Authority or statutory manager.
+
+(2) Any person who —
+
+(a) without reasonable excuse, fails to comply with subsection (1)(b); or
+
+(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Remuneration and expenses of Authority and others in certain cases
+
+81SAE\.—(1) The Authority may at any time fix the remuneration and expenses to be paid by an approved clearing house or a recognised clearing house —
+
+(a) to a statutory manager or statutory adviser appointed in relation to the approved clearing house or recognised clearing house (as the case may be), whether or not the appointment has been revoked; and
+
+(b) where the Authority has assumed control of the relevant business of the approved clearing house or recognised clearing house (as the case may be), to the Authority and any person appointed by the Authority under section 320 in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
+
+(2) The approved clearing house or recognised clearing house (as the case may be) shall reimburse the Authority any remuneration and expenses payable by the approved clearing house or recognised clearing house (as the case may be) to a statutory manager or statutory adviser.
+
+[Act 10 of 2013 wef 02/08/2013]
 
 ### Power of Authority to exempt approved clearing house or recognised clearing house from provisions of this Part
 
@@ -6656,6 +7188,150 @@ General Powers of Authority
 (3) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
 
 [Act 34 of 2012 wef 01/08/2013]
+
+Division 6 —
+
+Voluntary Transfer of Business of
+
+
+
+
+Approved Clearing House or Recognised
+
+
+
+
+Clearing House
+
+### Interpretation of this Division
+
+81SC\. In this Division, unless the context otherwise requires —
+
+“business” includes affairs, property, right, obligation and liability;
+
+“Court” means the High Court or a Judge thereof;
+
+“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“property” includes property, right and power of every description;
+
+“Registrar of Companies” means the Registrar of Companies appointed under the Companies Act and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
+
+“transferee” means an approved clearing house or a recognised clearing house, or a corporation which has applied or will be applying for approval or recognition to carry on in Singapore the usual business of an approved clearing house or a recognised clearing house, to which the whole or any part of a transferor’s business is, is to be or is proposed to be transferred under this Division;
+
+“transferor” means an approved clearing house or a recognised clearing house the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Voluntary transfer of business
+
+81SD\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of an approved clearing house or a recognised clearing house) to a transferee, if —
+
+(a) the Authority has consented to the transfer;
+
+(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of an approved clearing house or a recognised clearing house; and
+
+(c) the Court has approved the transfer.
+
+(2) Subsection (1) is without prejudice to the right of an approved clearing house or a recognised clearing house to transfer the whole or any part of its business under any law.
+
+(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —
+
+(a) the transferee is a fit and proper person; and
+
+(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.
+
+(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division.
+
+(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
+
+(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
+
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this Division.
+
+(8) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or
+
+(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
+
+[Act 10 of 2013 wef 02/08/2013]
+
+### Approval of transfer
+
+81SE\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under this Division.
+
+(2) Before making an application under subsection (1) —
+
+(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
+
+(b) the transferor shall obtain the consent of the Authority under section 81SD(1)(a);
+
+(c) the transferor and the transferee shall, if they intend to serve on their respective participants a summary of the transfer, obtain the Authority’s approval of the summary;
+
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;
+
+(e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
+
+(f) unless the Court directs otherwise, the transferor and the transferee shall serve on their respective participants affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).
+
+(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —
+
+(a) shall have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and
+
+(b) may make any application to the Court in relation to the transfer.
+
+(4) The Court shall not approve the transfer if the Authority has not consented under section 81SD(1)(a) to the transfer.
+
+(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
+
+(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or
+
+(b) refuse to approve the transfer.
+
+(6) If the transferee is not approved as an approved clearing house or recognised as a recognised clearing house by the Authority, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee being approved as an approved clearing house or recognised as a recognised clearing house by the Authority.
+
+(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters:
+
+(a) the transfer to the transferee of the whole or any part of the business of the transferor;
+
+(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
+
+(c) the continuation by (or against) the transferee of any legal proceedings pending by (or against) the transferor;
+
+(d) the dissolution, without winding up, of the transferor;
+
+(e) the provisions to be made for persons who are affected by the transfer;
+
+(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.
+
+(8) Any order under subsection (7) may —
+
+(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;
+
+(b) make provision in relation to any property which is held by the transferor as trustee; and
+
+(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.
+
+(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order the business (or part thereof) of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have effect.
+
+(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
+
+(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country or territory, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country or territory.
+
+(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —
+
+(a) a copy of the order with the Registrar of Companies and with the Authority; and
+
+(b) where the order relates to land in Singapore, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.
+
+(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Act 10 of 2013 wef 02/08/2013]
 
 ## PART IIIA
 
@@ -8610,8 +9286,6 @@ during the period to which the annual fee relates.
 
 [1/2005]
 
-[2/2009 wef 26/11/2010]
-
 (3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
 
 [1/2005]
@@ -9902,7 +10576,13 @@ and the provisions of this Division shall apply accordingly.
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (1) — Disclosure by directors and chief
+Subdivision (1) —
+
+Disclosure by directors and chief
+
+
+
+
 executive officer of corporation
 
 ### Duty of director or chief executive officer to notify corporation of his interests
@@ -10011,7 +10691,13 @@ in circumstances other than as set out in subsection (1) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (2) — Disclosure by substantial shareholders
+Subdivision (2) —
+
+Disclosure by substantial shareholders
+
+
+
+
 in corporation
 
 ### Duty of substantial shareholder to notify corporation of his interests
@@ -10224,7 +10910,9 @@ in circumstances other than as set out in subsection (8) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (3) — Disclosure by corporation
+Subdivision (3) —
+
+Disclosure by corporation
 
 ### Duty of corporation to make disclosure
 
@@ -10329,7 +11017,13 @@ as they apply for the purposes of sections 133(3)(b)(i), 135(2)(b), 136(1), 137(
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (1) — Disclosure by substantial unitholders
+Subdivision (1) —
+
+Disclosure by substantial unitholders
+
+
+
+
 of business trust
 
 ### Duty of substantial unitholder to notify trustee-manager of his interests
@@ -10494,7 +11188,13 @@ in circumstances other than as set out in subsection (8) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (2) — Disclosure by directors and chief executive
+Subdivision (2) —
+
+Disclosure by directors and chief executive
+
+
+
+
 officer of trustee-manager of business trust
 
 ### Duty of director and chief executive officer of trustee-manager to notify his interests
@@ -10561,7 +11261,13 @@ in circumstances other than as set out in subsection (1) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (3) — Disclosure by holders of voting shares in
+Subdivision (3) —
+
+Disclosure by holders of voting shares in
+
+
+
+
 trustee-manager
 
 ### Duty of holders of voting shares in trustee-manager to notify trustee-manager
@@ -10610,7 +11316,9 @@ in circumstances other than as set out in subsection (1) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (4) — Disclosure by trustee-manager
+Subdivision (4) —
+
+Disclosure by trustee-manager
 
 ### Duty of trustee-manager of business trust to make disclosure
 
@@ -10727,7 +11435,13 @@ as they apply for the purposes of sections 133(3)(b)(i), 135(2)(b), 136(1), 137(
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (1) — Disclosure by substantial unitholders of real
+Subdivision (1) —
+
+Disclosure by substantial unitholders of real
+
+
+
+
 estate investment trust
 
 ### Duty of substantial unitholder to notify trustee and responsible person of his interests
@@ -10896,7 +11610,13 @@ in circumstances other than as set out in subsection (8) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (2) — Disclosure by directors and chief executive
+Subdivision (2) —
+
+Disclosure by directors and chief executive
+
+
+
+
 officer of responsible person
 
 ### Duty of director and chief executive officer of responsible person to notify his interests
@@ -10963,7 +11683,13 @@ in circumstances other than as set out in subsection (1) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (1) — Disclosure by holders of voting shares in
+Subdivision (3) —
+
+Disclosure by holders of voting shares in
+
+
+
+
 responsible person
 
 ### Duty of holders of voting shares in responsible person to notify responsible person
@@ -11012,7 +11738,9 @@ in circumstances other than as set out in subsection (1) shall be guilty of an o
 
 [2/2009 wef 19/11/2012]
 
-Subdivision (4) — Disclosure by responsible person
+Subdivision (4) —
+
+Disclosure by responsible person
 
 ### Duty of responsible person for real estate investment trust to make disclosure
 
@@ -11231,7 +11959,9 @@ Division 1 —
 
 Supervisory Powers
 
-Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
+Subdivision (1) —
+
+Powers of Authority to require disclosure of information about securities and futures contracts
 
 ### Interpretation of this Subdivision
 
@@ -11262,6 +11992,8 @@ and the nature of the instructions given to the holder or exempt person in respe
 [1/2005]
 
 [SIA, s. 10 (1)-(3) modified]
+
+[Act 34 of 2012 wef 01/08/2013]
 
 [Act 34 of 2012 wef 01/08/2013]
 
@@ -11379,7 +12111,9 @@ the Authority may require the person to disclose to the Authority the informatio
 
 [SIA, s. 7]
 
-Subdivision (2) — Inspection powers of Authority
+Subdivision (2) —
+
+Inspection powers of Authority
 
 ### Inspection by Authority
 
@@ -11459,7 +12193,9 @@ Subdivision (2) — Inspection powers of Authority
 
 [2/2009 wef 26/11/2010]
 
-Subdivision (3) — Inspection powers of foreign regulatory authority
+Subdivision (3) —
+
+Inspection powers of foreign regulatory authority
 
 ### Inspection by foreign regulatory authority
 
@@ -11553,7 +12289,9 @@ Division 3 —
 
 Investigative Powers of Authority
 
-Subdivision (1) — General
+Subdivision (1) —
+
+General
 
 ### Investigation by Authority
 
@@ -11637,7 +12375,9 @@ Subdivision (1) — General
 
 [Act 34 of 2012 wef 18/03/2013]
 
-Subdivision (2) — Examination of persons
+Subdivision (2) —
+
+Examination of persons
 
 ### Requirement to appear for examination
 
@@ -11753,7 +12493,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [SIA, s. 6; ASIC 1989, s. 63-67]
 
-Subdivision (3) — Powers to obtain information
+Subdivision (3) —
+
+Powers to obtain information
 
 ### Power of Authority to order production of books
 
@@ -13598,7 +14340,9 @@ Attributed Liability
 
 [2/2009 wef 01/10/2012]
 
-Subdivision (1) — Corporations
+Subdivision (1) —
+
+Corporations
 
 ### Liability of corporation when employee or officer commits contravention with consent or connivance of corporation
 
@@ -13754,7 +14498,9 @@ as a result of the contravention by the contravening person, after deducting all
 
 [2/2009 wef 01/10/2012]
 
-Subdivision (2) — Partnerships and limited liability partnerships
+Subdivision (2) —
+
+Partnerships and limited liability partnerships
 
 ### Liability of partnership and limited liability partnership when partner, etc., commits contravention with consent or connivance
 
@@ -13910,7 +14656,9 @@ as a result of the contravention by the contravening person, after deducting all
 
 [2/2009 wef 01/10/2012]
 
-Subdivision (3) — Officers, partners, etc., of entities
+Subdivision (3) —
+
+Officers, partners, etc., of entities
 
 ### Civil penalty against officer of corporation, etc.
 
@@ -13998,7 +14746,9 @@ as a result of the contravention by the contravening person, after deducting all
 
 [2/2009 wef 01/10/2012]
 
-Subdivision (4) — General
+Subdivision (4) —
+
+General
 
 ### Actions not to commence or stayed in certain situations
 
@@ -14160,7 +14910,9 @@ Division 1 —
 
 Shares and Debentures
 
-Subdivision (1) — Interpretation
+Subdivision (1) —
+
+Interpretation
 
 ### Preliminary provisions
 
@@ -14350,7 +15102,9 @@ then this Division shall not apply to that offer.
 
 239B\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of securities as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
 
-Subdivision (2) — Prospectus requirements
+Subdivision (2) —
+
+Prospectus requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -15892,7 +16646,9 @@ and the allotment shall be so voidable notwithstanding that the company is in th
 
 [Companies, s. 57]
 
-Subdivision (3) — Debentures
+Subdivision (3) —
+
+Debentures
 
 ### Preliminary provisions
 
@@ -16246,7 +17002,9 @@ the trustee may and, if in his opinion it is necessary for the protection of the
 
 [Companies, s. 106]
 
-Subdivision (4) — Exemptions
+Subdivision (4) —
+
+Exemptions
 
 ### Issue or transfer of securities for no consideration
 
@@ -16900,8 +17658,6 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 [1/2005]
 
-[Companies, s. 106E]
-
 (7) Subsections (1), (3) and (4) shall not apply where the securities of the corporation acquired are of the same class as other securities of the corporation —
 
 (a) an offer of which has previously been made in or accompanied by a prospectus; and
@@ -16909,6 +17665,8 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 (b) which are listed for quotation on a securities exchange.
 
 [2/2009 wef 29/07/2009]
+
+[Companies, s. 106E]
 
 ### Offer made using offer information statement
 
@@ -17058,7 +17816,9 @@ Division 1A —
 
 Business Trusts
 
-Subdivision (1) — Interpretation
+Subdivision (1) —
+
+Interpretation
 
 ### Preliminary provisions
 
@@ -17174,7 +17934,9 @@ when the trustee acts in that capacity; and
 
 282BA\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of units or derivatives of units in a business trust as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
 
-Subdivision (2) — Prospectus requirements
+Subdivision (2) —
+
+Prospectus requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -18630,7 +19392,9 @@ but if a cheque for the sum payable has been received by the trustee-manager, th
 
 [1/2005]
 
-Subdivision (2A) — Recognised business trusts
+Subdivision (2A) —
+
+Recognised business trusts
 
 ### Power of Authority to recognise business trusts constituted outside Singapore
 
@@ -18758,7 +19522,9 @@ appeal to the Minister whose decision shall be final.
 
 [2/2009 wef 01/10/2012]
 
-Subdivision (3) — Exemptions
+Subdivision (3) —
+
+Exemptions
 
 ### Issue or transfer of units or derivatives of units for no consideration
 
@@ -19604,7 +20370,9 @@ before enabling him to submit any application to subscribe for or purchase units
 
 [SFA, s. 282]
 
-Subdivision (4) — Debentures
+Subdivision (4) —
+
+Debentures
 
 ### Applicability of provisions relating to prospectus requirements
 
@@ -19616,7 +20384,9 @@ Division 2 —
 
 Collective Investment Schemes
 
-Subdivision (1) — Interpretation
+Subdivision (1) —
+
+Interpretation
 
 ### Interpretation of this Division
 
@@ -19766,7 +20536,9 @@ then this Division (other than section 283A) does not apply to that offer.
 
 284C\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of units in a collective investment scheme as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
 
-Subdivision (2) — Authorisation and recognition
+Subdivision (2) —
+
+Authorisation and recognition
 
 ### Requirement for authorisation or recognition
 
@@ -20692,7 +21464,13 @@ shall be treated as held or acquired by the transferee.
 
 [2/2009 wef 29/03/2010]
 
-Subdivision (2A) — Voluntary transfer of business of
+Subdivision (2A) —
+
+Voluntary transfer of business of
+
+
+
+
 approved trustee
 
 ### Interpretation of this Subdivision
@@ -20827,7 +21605,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 10 of 2013 wef 18/04/2013]
 
-Subdivision (3) — Prospectus requirements
+Subdivision (3) —
+
+Prospectus requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -21545,7 +22325,9 @@ have given to the securities exchange an undertaking in writing to comply with t
 
 [Companies, s. 113 (1)]
 
-Subdivision (4) — Exemptions
+Subdivision (4) —
+
+Exemptions
 
 ### Issue or transfer for no consideration
 
@@ -23652,23 +24434,24 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|2 January 2011|
 |19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
 ||Date of commencement|17 January 2012|
-|20.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
-||Date of First Reading|4 February 2013|
-|||(Bill No. 4/2013 published on 4 February 2013)|
-||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|18 April 2013|
+|20.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 31/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|18 March 2013|
+|||1 August 2013|
 |21.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|22.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 31/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|15 November 2012|
-||Date of commencement|18 March 2013|
-|||1 August 2013|
+|22.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|||2 August 2013|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
