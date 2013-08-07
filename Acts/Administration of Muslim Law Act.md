@@ -348,9 +348,9 @@
 
 - [146 Delegation](#Delegation)
 
-[**FIRST SCHEDULE Financial Provisions With Respect to Majlis**](#FIRST-SCHEDULE-Financial-Provisions-With-Respect-to-Majlis)
+[**FIRST SCHEDULE Financial provisions with respect to Majlis**](#FIRST-SCHEDULE-Financial-provisions-with-respect-to-Majlis)
 
-[**SECOND SCHEDULE Financial Provisions With Respect to Trust, Wakaf, Nazar and Mosque**](#SECOND-SCHEDULE-Financial-Provisions-With-Respect-to-Trust-Wakaf-Nazar-and-Mosque)
+[**SECOND SCHEDULE Financial provisions with respect to trust, wakaf, nazar and mosque**](#SECOND-SCHEDULE-Financial-provisions-with-respect-to-trust-wakaf-nazar-and-mosque)
 
 [**THIRD SCHEDULE Contributions to Mosque Building and Mendaki Fund**](#THIRD-SCHEDULE-Contributions-to-Mosque-Building-and-Mendaki-Fund)
 
@@ -384,7 +384,7 @@ Preliminary
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+12\. In this Act, unless the context otherwise requires —
 
 “Appeal Board” means an Appeal Board constituted under section 55;
 
@@ -454,7 +454,7 @@ Preliminary
 
 “wakaf” means the permanent dedication by a Muslim of any movable or immovable property for any purpose recognised by the Muslim law as pious, religious or charitable;
 
-“wakaf `am” means a dedication in perpetuity of the capital and income of property for pious, religious or charitable purposes recognised by the Muslim law and the property so dedicated;
+“wakaf ‘am” means a dedication in perpetuity of the capital and income of property for pious, religious or charitable purposes recognised by the Muslim law and the property so dedicated;
 
 “wakaf khas” means a dedication in perpetuity of the capital of property for pious, religious or charitable purposes recognised by the Muslim law, the income of the property being paid to persons or for purposes specified in the wakaf, and the property so dedicated;
 
@@ -465,6 +465,8 @@ Preliminary
 “zakat” means the charitable contribution required to be made by a Muslim in accordance with the Muslim law.
 
 [34/73; 31/75; 31/84; 14/90; 20/99]
+
+1This section has been amended as set out in section 2 of the Administration of Muslim Law (Amendment) Act 2005 (Act 35 of 2005) when that section was brought into operation on 7th August 2013.
 
 ## PART II
 
@@ -562,8 +564,6 @@ MAJLIS UGAMA ISLAM
 
 [Act 35 of 2005 wef 07/08/2013]
 
-[14/90]
-
 (7) If the President dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, a temporary President may be appointed by the President of Singapore for such period as the President of Singapore may determine to carry out the functions and duties of the President.
 
 [20/99]
@@ -583,8 +583,6 @@ MAJLIS UGAMA ISLAM
 (3) In the event of the temporary absence or incapacity of the Chief Executive, the Majlis may, with the approval of the Minister, appoint a person to act temporarily on his behalf.
 
 [Act 35 of 2005 wef 07/08/2013]
-
-[35/2005]
 
 ### Secretary
 
@@ -744,13 +742,15 @@ MAJLIS UGAMA ISLAM
 
 ### Acting in emergency
 
-25\.—(1) In any case of emergency the President may, after consultation with the Mufti, the Chief Executive and the Secretary, do or direct to be done on behalf of the Majlis any act or thing which might lawfully be done by resolution of the Majlis.
-
-(2) In any such case, a meeting of the Majlis shall be called within one week thereafter for the purpose of ratifying and confirming the action taken and, if the Majlis shall decline to ratify and confirm the same, the Minister may give such directions thereon as he thinks fit.
+525\.—(1) In any case of emergency the President may, after consultation with the Mufti, the Chief Executive and the Secretary, do or direct to be done on behalf of the Majlis any act or thing which might lawfully be done by resolution of the Majlis.
 
 [Act 35 of 2005 wef 07/08/2013]
 
+(2) In any such case, a meeting of the Majlis shall be called within one week thereafter for the purpose of ratifying and confirming the action taken and, if the Majlis shall decline to ratify and confirm the same, the Minister may give such directions thereon as he thinks fit.
+
 [35/2005]
+
+5This subsection has been amended as set out in section 8(a) of the Administration of Muslim Law (Amendment) Act 2005 (Act 35 of 2005) when that section was brought into operation on 7th August 2013.
 
 ### Delegation of powers
 
@@ -1620,11 +1620,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [14/90; 20/99]
 
-(5) No money shall be expended, or property disposed of in kind, except in accordance with such estimates and upon a voucher signed by the President or by any member of the Majlis nominated by the President.
+6(5) No money shall be expended, or property disposed of in kind, except in accordance with such estimates and upon a voucher signed by the President or by any member of the Majlis nominated by the President.
 
 [Act 35 of 2005 wef 07/08/2013]
 
 [14/90]
+
+6This subsection has been amended as set out in section 9 of the Administration of Muslim Law (Amendment) Act 2005 (Act 35 of 2005) when that section was brought into operation on 7th August 2013.
 
 ### Expenses of Majlis
 
@@ -2700,7 +2702,7 @@ FIRST SCHEDULE
 
 Section 72
 
-Financial Provisions With Respect to Majlis
+Financial provisions with respect to Majlis
 
 1\. The Majlis shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are properly authorised and correctly made and that adequate control is maintained over the assets of, or in the custody of, the Majlis and over the expenditure incurred by the Majlis.
 
@@ -2730,9 +2732,15 @@ Financial Provisions With Respect to Majlis
 
 10\. Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-11. The Majlis shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the President or Chief Executive, together with a copy of the auditor’s report.
+9
+
+11.
+
+The Majlis shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the President or Chief Executive, together with a copy of the auditor’s report.
 
 [Act 35 of 2005 wef 07/08/2013]
+
+9This paragraph has been amended as set out in section 12 of the Administration of Muslim Law (Amendment) Act 2005 (Act 35 of 2005) when that section was brought into operation on 7th August 2013.
 
 12\. Where the Auditor-General is not the auditor of the Majlis, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Majlis.
 
@@ -2748,7 +2756,7 @@ SECOND SCHEDULE
 
 Section 73
 
-Financial Provisions With Respect to Trust, Wakaf, Nazar and Mosque
+Financial provisions with respect to trust, wakaf, nazar and mosque
 
 1. The trustees, mutawallis or management board of any trust, wakaf, nazar or mosque to which this Schedule applies, as the case may be, shall —
 
@@ -2840,7 +2848,7 @@ Administration of Muslim Law Act
 
 (CHAPTER 3)
 
-This Legislative History is provided for the convenience of users of the Administration of Muslim Law Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Administration of Muslim Law Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2882,9 +2890,7 @@ This Legislative History is provided for the convenience of users of the Adminis
 ||Report Presented to Parliament|31 May 1966 (Parl. 3 of 1966)|
 ||Date of Third Reading|17 August 1966|
 ||Date of commencement|1 March 1990|
-|||(†sections 81 and 82)|
-†Sections 81 and 82 have been renumbered as sections 87 and 88 in the 1985 Revised Edition, respectively.
-
+|||(sections 81 and 82)|
 |8.|**Act 14 of 1990—Administration of Muslim Law (Amendment) Act 1990**|
 ||Date of First Reading|11 June 1990|
 |||(Bill No. 13/90 published on 15 June 1990)|
@@ -2943,6 +2949,11 @@ This Legislative History is provided for the convenience of users of the Adminis
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|22.|**Act 35 of 2005—Administration of Muslim Law (Amendment) Act 2005**|
+||Date of First Reading|15 August 2005|
+|||(Bill No. 22/2005 published on 16 August 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|7th August 2013 (Sections 2, 3(a) and (c), 4, 8(a), 9 and 12)|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
@@ -3353,7 +3364,7 @@ Proviso to70 —(1)
 
 78 —(6) and (7)
 
-78 —(6) (b)
+78 —(6)(b)
 
 (8)
 
