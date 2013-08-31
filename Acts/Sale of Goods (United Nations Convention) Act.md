@@ -26,9 +26,9 @@
 
 (Original Enactment: Act 14 of 1995)
 
-REVISED EDITION 1996
+REVISED EDITION 2013
 
-(30th April 1996)
+(31st August 2013)
 
 An Act to give effect to the United Nations Convention on Contracts for the International Sale of Goods concluded at Vienna on 11th April 1980.
 
@@ -46,7 +46,7 @@ An Act to give effect to the United Nations Convention on Contracts for the Inte
 
 3\.—(1) Subject to subsection (2), the provisions of the Convention shall have the force of law in Singapore.
 
-(2) Sub-paragraph (1)(b) of Article 1 of the Convention shall not have the force of law in Singapore and accordingly the Convention will apply to contracts of sale of goods only between those parties whose places of business are in different states when the States are Contracting States.
+(2) Sub-paragraph (1)(b) of Article 1 of the Convention shall not have the force of law in Singapore and accordingly the Convention will apply to contracts of sale of goods only between those parties whose places of business are in different States when the States are Contracting States.
 
 (3) The Minister may by order delete subsection (2) if the reservation made pursuant to Article 95 of the Convention is withdrawn except that sub-paragraph (1)(b) of Article 1 of the Convention shall not apply to and shall not have the force of law in relation to any proposal for concluding the contract made or any contract concluded before the date on which the withdrawal of the reservation takes effect under Article 97(4) of the Convention.
 
@@ -88,7 +88,7 @@ Part I
 
 Sphere of Application and General Provisions
 
-CHAPTER I
+Chapter I
 
 Sphere of Application
 
@@ -108,17 +108,29 @@ Article 2
 
 This Convention does not apply to sales:
 
-(a) of goods bought for personal, family or household use, unless the seller, at any time before or at the conclusion of the contract, neither knew nor ought to have known that the goods were bought for any such use;
+(a)
 
-(b) by auction;
+of goods bought for personal, family or household use, unless the seller, at any time before or at the conclusion of the contract, neither knew nor ought to have known that the goods were bought for any such use;
 
-(c) on execution or otherwise by authority of law;
+(b)
 
-(d) of stocks, shares, investment securities, negotiable instruments or money;
+by auction;
 
-(e) of ships, vessels, hovercraft or aircraft;
+(c)
 
-(f) of electricity.
+on execution or otherwise by authority of law;
+
+(d)
+
+of stocks, shares, investment securities, negotiable instruments or money;
+
+(e)
+
+of ships, vessels, hovercraft or aircraft;
+
+(f)
+
+of electricity.
 
 Article 3
 
@@ -130,9 +142,13 @@ Article 4
 
 This Convention governs only the formation of the contract of sale and the rights and obligations of the seller and the buyer arising from such a contract. In particular, except as otherwise expressly provided in this Convention, it is not concerned with:
 
-(a) the validity of the contract or of any of its provisions or of any usage;
+(a)
 
-(b) the effect which the contract may have on the property in the goods sold.
+the validity of the contract or of any of its provisions or of any usage;
+
+(b)
+
+the effect which the contract may have on the property in the goods sold.
 
 Article 5
 
@@ -142,7 +158,7 @@ Article 6
 
 The parties may exclude the application of this Convention or, subject to article 12, derogate from or vary the effect of any of its provisions.
 
-CHAPTER II
+Chapter II
 
 General Provisions
 
@@ -180,7 +196,7 @@ if a party does not have a place of business, reference is to be made to his hab
 
 Article 11
 
-A contract of sale need not be concluded in or evidenced by writing and is not subject to any other requirements as to form. It may be proved by any means, including witnesses.
+A contract of sale need not be concluded in or evidenced by writing and is not subject to any other requirement as to form. It may be proved by any means, including witnesses.
 
 Article 12
 
@@ -290,7 +306,7 @@ Article 29
 
 (2) A contract in writing which contains a provision requiring any modification or termination by agreement to be in writing may not be otherwise modified or terminated by agreement\. However, a party may be precluded by his conduct from asserting such a provision to the extent that the other party has relied on that conduct.
 
-CHAPTER II
+Chapter II
 
 Obligations of the Seller
 
@@ -368,7 +384,7 @@ Article 35
 
 (d) are contained or packaged in the manner usual for such goods or, where there is no such manner, in a manner adequate to preserve and protect the goods.
 
-(3) The seller is not liable under sub-paragraphs (a) to (d) of the preceding paragraph for any lack of conformity of the goods if at the time of the conclusion of the contract the buyer knew or could not have been unaware of such lack of conformity\.
+(3) The seller is not liable under sub-paragraphs (a) to (d) of the preceding paragraph for any lack of conformity of the goods if, at the time of the conclusion of the contract, the buyer knew or could not have been unaware of such lack of conformity\.
 
 Article 36
 
@@ -446,7 +462,7 @@ Article 45
 
 Article 46
 
-(1) The buyer may require performance by the seller of this obligations unless the buyer has resorted to a remedy which is inconsistent with this requirement\.
+(1) The buyer may require performance by the seller of his obligations unless the buyer has resorted to a remedy which is inconsistent with this requirement\.
 
 (2) If the goods do not conform with the contract, the buyer may require delivery of substitute goods only if the lack of conformity constitutes a fundamental breach of contract and a request for substitute goods is made either in conjunction with notice given under article 39 or within a reasonable time thereafter\.
 
@@ -512,7 +528,7 @@ Article 53
 
 The buyer must pay the price for the goods and take delivery of them as required by the contract and this Convention.
 
-Section 1
+Section I
 
 —
 
@@ -732,7 +748,7 @@ Exemptions
 
 Article 79
 
-(1) A party is not liable for a failure to perform any of his obligations if he proved that the failure was due to an impediment beyond his control and that he could not reasonably be expected to have taken the impediment into account at the time of the conclusion of the contract or to have avoided or overcome it or its consequences\.
+(1) A party is not liable for a failure to perform any of his obligations if he proved that the failure was due to an impediment beyond his control and that he could not reasonably be expected to have taken the impediment into account at the time of the conclusion of the contract or to have avoided or overcome it, or its consequences\.
 
 (2) If the party’s failure is due to the failure by a third person whom he has engaged to perform the whole or a part of the contract, that party is exempt from liability only if:
 
@@ -922,7 +938,7 @@ Sale of Goods (United Nations Convention) Act
 
 (CHAPTER 283A)
 
-This Legislative History is provided for the convenience of users of the Sale of Goods (United Nations Convention) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sale of Goods (United Nations Convention) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -933,3 +949,5 @@ This Legislative History is provided for the convenience of users of the Sale of
 ||Date of commencement|1 March 1996|
 |2.|**1996 Revised Edition—Sale of Goods (United Nations Convention) Act (Chapter 283A)**|
 ||Date of operation|30 April 1996|
+|3.|**2013 Revised Edition—Sale of Goods (United Nations Convention) Act (Chapter 283A)**|
+||Date of operation|31 August 2013|
