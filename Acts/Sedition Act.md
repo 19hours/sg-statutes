@@ -36,9 +36,9 @@
 
 (Original Enactment: M Ordinance 14 of 1948)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act for the punishment of sedition.
 
@@ -166,13 +166,13 @@ Provided that no person shall be punished twice for the same offence.
 
 (7) The owner of any prohibited publication delivered or seized under this section may, at any time within 14 days after the delivery or seizure, apply to the Court by originating summons for the discharge of the prohibition order, and if the Court, on the hearing of the application, decides that the prohibition order ought not to have been made, it shall discharge the order and shall order the prohibited publication delivered by or seized from the applicant to be returned to him.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (8) Every prohibited publication delivered or seized under this section with respect to which an application under subsection (7) is not filed within the time aforesaid or which is not ordered to be returned to the owner shall be deemed to be forfeited to the Government.
 
-(9) For the purposes of this section, “Court” means the High Court.
+[42/2005]
 
-[21/73]
+(9) For the purposes of this section, “Court” means the High Court.
 
 ### Arrest without warrant
 
@@ -186,7 +186,7 @@ Sedition Act
 
 (CHAPTER 290)
 
-This Legislative History is provided for the convenience of users of the Sedition Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sedition Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -215,3 +215,5 @@ This Legislative History is provided for the convenience of users of the Seditio
 |||(Bill No. 30/2005 published on 16 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (item (32) of the First Schedule — amendment of Sedition Act)|
+|10.|**2013 Revised Edition—Sedition Act (Chapter 290)**|
+||Date of operation|31 August 2013|
