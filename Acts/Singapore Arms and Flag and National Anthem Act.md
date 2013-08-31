@@ -18,9 +18,9 @@
 
 (Original Enactment: Ordinance 70 of 1959)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act for the regulation of the use, display and performance of the Singapore Arms, Flag and National Anthem.
 
@@ -46,7 +46,7 @@ Singapore Arms and Flag and National Anthem Act
 
 (CHAPTER 296)
 
-This Legislative History is provided for the convenience of users of the Singapore Arms and Flag and National Anthem Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Arms and Flag and National Anthem Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -57,3 +57,5 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of operation|31 July 1971|
 |3.|**1985 Revised Edition—Singapore Arms and Flag and National Anthem Act (Chapter 296)**|
 ||Date of operation|30 March 1987|
+|4.|**2013 Revised Edition—Singapore Arms and Flag and National Anthem Act (Chapter 296)**|
+||Date of operation|31 August 2013|
