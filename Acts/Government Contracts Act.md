@@ -26,9 +26,9 @@
 
 (Original Enactment: Act 43 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act to provide for the making of contracts on behalf of the Government and for matters connected therewith.
 
@@ -52,7 +52,7 @@ An Act to provide for the making of contracts on behalf of the Government and fo
 
 4\. No contracts, made after the commencement of this Act, shall be binding upon the Government, unless entered into in accordance with this Act and the Constitution.
 
-[11/91 wef 30/11/1991]
+[11/91]
 
 ### Limitation of personal liability of public officer
 
@@ -88,3 +88,5 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991 (Item (11) of the Schedule –– Amendment of Government Contracts Act)|
+|5.|**2013 Revised Edition—Government Contracts Act (Chapter 118)**|
+||Date of operation|31 August 2013|
