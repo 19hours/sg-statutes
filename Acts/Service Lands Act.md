@@ -8,7 +8,7 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Removal of unlawful occupants of lands used for the purpose of any Malaysian forces](#Removal-of-unlawful-occupants-of-lands-used-for-the-purpose-of-any-Malaysian-forces)
+- [2 Removal of unlawful occupants of lands used for the purposes of any Malaysian forces](#Removal-of-unlawful-occupants-of-lands-used-for-the-purposes-of-any-Malaysian-forces)
 
 [**Legislative History**](#Legislative-History)
 
@@ -18,9 +18,9 @@
 
 (Original Enactment: M Act 35 of 1963)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act for the ejectment of persons unlawfully occupying any land used or to be used for the purposes of any Malaysian forces.
 
@@ -30,13 +30,13 @@ An Act for the ejectment of persons unlawfully occupying any land used or to be 
 
 1\. This Act may be cited as the Service Lands Act.
 
-### Removal of unlawful occupants of lands used for the purpose of any Malaysian forces
+### Removal of unlawful occupants of lands used for the purposes of any Malaysian forces
 
 2\.—(1) The provisions of this section shall apply to lands used or to be used for the purposes of any military, naval or air forces of Malaysia.
 
 (2) A Magistrate’s Court, on the information of the Federal Lands Commissioner or a person authorised by him that any person is in unlawful occupation of any land to which this section applies, may issue a summons for the appearance before the Court of the person informed against; and on his appearing to the summons or (in default of his appearance thereto) on proof of service of the summons the Court may proceed in a summary way to hear and determine the information.
 
-(3) If on the hearing of the information, the Court is satisfied of the truth thereof, the Court shall by warrant require any police officer specified in the warrant forthwith to dispossess and remove such person from the land, and on behalf of the Federal Lands Commissioner to take possession of the land together with all crops growing thereon and all buildings and other immovable property upon and affixed to the land; and the warrant may be executed by any police officer into whose hands the warrant may come, whether or not it is addressed to him.
+(3) If on the hearing of the information the Court is satisfied of the truth thereof, the Court shall by warrant require any police officer specified in the warrant forthwith to dispossess and remove such person from the land, and on behalf of the Federal Lands Commissioner to take possession of the land together with all crops growing thereon and all buildings and other immovable property upon and affixed to the land; and the warrant may be executed by any police officer into whose hands the warrant may come, whether or not it is addressed to him.
 
 ## LEGISLATIVE HISTORY
 
@@ -44,7 +44,7 @@ Service Lands Act
 
 (CHAPTER 292)
 
-This Legislative History is provided for the convenience of users of the Service Lands Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Service Lands Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -57,3 +57,5 @@ This Legislative History is provided for the convenience of users of the Service
 ||Date of operation|31 August 1971|
 |3.|**1985 Revised Edition—Service Lands Act (Chapter 292)**|
 ||Date of operation|30 March 1987|
+|4.|**2013 Revised Edition—Service Lands Act (Chapter 292)**|
+||Date of operation|31 August 2013|
