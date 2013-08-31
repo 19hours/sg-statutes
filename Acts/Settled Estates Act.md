@@ -24,11 +24,11 @@
 
 - [9 Parties who should concur](#Parties-who-should-concur)
 
-- [10 Notice to be given to persons who do not consent to or concur in the application](#Notice-to-be-given-to-persons-who-do-not-consent-to-or-concur-in-the-application)
+- [10 Notice to be given to persons who do not consent to or concur in application](#Notice-to-be-given-to-persons-who-do-not-consent-to-or-concur-in-application)
 
 - [11 Court may dispense with notice under certain circumstances](#Court-may-dispense-with-notice-under-certain-circumstances)
 
-- [12 Court may dispense with consent having regard to the number and interests of parties](#Court-may-dispense-with-consent-having-regard-to-the-number-and-interests-of-parties)
+- [12 Court may dispense with consent having regard to number and interests of parties](#Court-may-dispense-with-consent-having-regard-to-number-and-interests-of-parties)
 
 - [13 Applications may be granted without consent saving rights of non-consenting parties](#Applications-may-be-granted-without-consent-saving-rights-of-non-consenting-parties)
 
@@ -48,19 +48,19 @@
 
 - [21 What evidence to be produced on application to authorise leases](#What-evidence-to-be-produced-on-application-to-authorise-leases)
 
-- [22 After approval of a lease court to direct who shall be the lessor](#After-approval-of-a-lease-court-to-direct-who-shall-be-the-lessor)
+- [22 After approval of lease court to direct who shall be lessor](#After-approval-of-lease-court-to-direct-who-shall-be-lessor)
 
 - [23 Power of leasing may be vested in trustees](#Power-of-leasing-may-be-vested-in-trustees)
 
-- [24 Conditions that leases be settled by the court not to be inserted in orders made under this Act](#Conditions-that-leases-be-settled-by-the-court-not-to-be-inserted-in-orders-made-under-this-Act)
+- [24 Conditions that leases be settled by court not to be inserted in orders made under this Act](#Conditions-that-leases-be-settled-by-court-not-to-be-inserted-in-orders-made-under-this-Act)
 
 - [25 Condition where inserted may be struck out](#Condition-where-inserted-may-be-struck-out)
 
-- [26 Notice of the exercise of powers to be given as directed by the court](#Notice-of-the-exercise-of-powers-to-be-given-as-directed-by-the-court)
+- [26 Notice of exercise of powers to be given as directed by court](#Notice-of-exercise-of-powers-to-be-given-as-directed-by-court)
 
 - [27 Application of moneys arising from sales](#Application-of-moneys-arising-from-sales)
 
-- [28 Trustees may apply moneys in certain cases without application to the court](#Trustees-may-apply-moneys-in-certain-cases-without-application-to-the-court)
+- [28 Trustees may apply moneys in certain cases without application to court](#Trustees-may-apply-moneys-in-certain-cases-without-application-to-court)
 
 - [29 Moneys, until they can be applied, to be invested, and dividends paid to parties entitled](#Moneys-until-they-can-be-applied-to-be-invested-and-dividends-paid-to-parties-entitled)
 
@@ -78,9 +78,9 @@
 
 (Original Enactment: Ordinance 19 of 1934)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act relating to settled estates.
 
@@ -98,19 +98,19 @@ An Act relating to settled estates.
 
 “judge” means a judge sitting in chambers;
 
-“settlement” means any statute, deed, agreement, will or other instrument, or any number of such instruments, under or by virtue of which any immovable property, or any estates or interests therein, stand limited to, or in trust for, any person or persons, by way of succession, including any such instruments affecting the estates of any one or more of such persons exclusively;
-
 “settled estates” —
 
 (a) means all immovable property and all estates or interests therein, which are the subject of a settlement; and
 
-(b) includes any immovable property of or to which a minor is seised or entitled in his own right other than a lease not exceeding 3 years which is executed by a minor who has attained the age of 18 years as a principal.
+(b) includes any immovable property of or to which a minor is seised or entitled in his own right other than a lease not exceeding 3 years which is executed by a minor who has attained the age of 18 years as a principal;
 
-[7/2009 wef 01/03/2009]
+“settlement” means any statute, deed, agreement, will or other instrument, or any number of such instruments, under or by virtue of which any immovable property, or any estates or interests therein, stand limited to, or in trust for, any person or persons, by way of succession, including any such instruments affecting the estates of any one or more of such persons exclusively.
+
+[7/2009]
 
 ### Remainders and reversions
 
-3\.—(1) All estates or interests in remainder or reversion not disposed of by a settlement, and reverting to the settlor, or descending to the next of kin of a testator, shall be deemed to be estates coming to such settlor or next of kin, under or by virtue of the settlement.
+3\.—(1) All estates or interests in remainder or reversion not disposed of by a settlement, and reverting to the settlor, or descending to the next‑of‑kin of a testator, shall be deemed to be estates coming to such settlor or next‑of‑kin, under or by virtue of the settlement.
 
 ### How court to determine
 
@@ -126,11 +126,11 @@ An Act relating to settled estates.
 
 ### Consideration on lands sold for building
 
-(3) When any such lands are sold for building purposes the court or a judge may, if it or he sees fit, allow the whole or any part of the consideration to be a rent issuing out of such land, to be secured and settled in such manner as the court or judge approves.
+(3) When any such lands are sold for building purposes, the court or a judge may, if it or he sees fit, allow the whole or any part of the consideration to be a rent issuing out of such lands, to be secured and settled in such manner as the court or judge approves.
 
 ### Court to direct execution of conveyance
 
-(4) On every sale under this Act the court or a judge may direct what person or persons shall execute the deed of conveyance.
+(4) On every sale under this Act, the court or a judge may direct what person or persons shall execute the deed of conveyance.
 
 (5) The deed, executed by such person or persons, shall take effect as if the settlement had contained a power enabling such person or persons to effect such sale.
 
@@ -174,7 +174,7 @@ An Act relating to settled estates.
 
 ### Evidence of advisability
 
-8\.—(1) Upon every such application the court shall be satisfied by sufficient evidence that it is proper and consistent with due regard to the interests of all parties entitled under the settlement that the powers should be exercised.
+8\.—(1) Upon every such application, the court shall be satisfied by sufficient evidence that it is proper and consistent with due regard to the interests of all parties entitled under the settlement that the powers should be exercised.
 
 (2) It shall be stated in the affidavit why, and upon what ground, it is deemed so.
 
@@ -182,7 +182,7 @@ An Act relating to settled estates.
 
 9\. The parties to concur or consent shall be all the persons in existence having any beneficial estate or interest under or by virtue of the settlement, and also all trustees having any estate or interest on behalf of any unborn child.
 
-### Notice to be given to persons who do not consent to or concur in the application
+### Notice to be given to persons who do not consent to or concur in application
 
 10\.—(1) Where, on an application under this Act, the concurrence or consent of any such person as aforesaid has not been obtained, notice shall be given to such person in such manner as the court or a judge to which or whom the application is made directs, requiring him to notify, within the time to be specified in the notice, whether he assents to or dissents from the application, or submits his rights or interests, so far as they may be affected by the application, to be dealt with by the court or judge.
 
@@ -194,7 +194,7 @@ An Act relating to settled estates.
 
 11\. Where, on an application under this Act, the concurrence or consent of any such person as aforesaid has not been obtained, and, in case the person cannot be found, or in case it is uncertain whether he is living or dead, or in case it appears to the court that the notice as aforesaid cannot be given to the person without expense disproportionate to the value of the subject matter of the application, then and in any such case the court or a judge, if it or he thinks fit, either on the ground of the rights or interests of that person being small or remote, or being similar to the rights or interests of any other person or persons, or on any other ground, may by order dispense with notice to that person, and that person shall thereupon be deemed to have submitted his rights and interests to be dealt with by the court.
 
-### Court may dispense with consent having regard to the number and interests of parties
+### Court may dispense with consent having regard to number and interests of parties
 
 12\.—(1) An order may be made upon any application notwithstanding that the concurrence or consent of any such person as aforesaid has not been obtained, or has been refused.
 
@@ -208,7 +208,7 @@ An Act relating to settled estates.
 
 ### Notice of application to be served on all trustees, etc.
 
-14\. Notice of any application to the court under this Act shall be served on all trustees who are seised or possessed of any estate in trust for any person whose consent or concurrence to or in the application is hereby required, and on any other parties who, in the opinion of the court or judge, ought to be so served, unless the court or judge thinks fit to dispense with the notice.
+14\. Notice of any application to the court under this Act shall be served on all trustees who are seised or possessed of any estate in trust for any person whose consent or concurrence to or in the application is hereby required, and on any other parties who, in the opinion of the court or a judge, ought to be so served, unless the court or judge thinks fit to dispense with the notice.
 
 ### Notice of application to be given in newspapers if court directs
 
@@ -228,13 +228,9 @@ An Act relating to settled estates.
 
 (b) the Official Assignee on behalf of bankrupts; and
 
-(c) deputies appointed or deemed to be appointed by the High Court for persons who lack capacity under the Mental Capacity Act 2008 with power in relation to such persons for the purposes of this Act, on behalf of such persons.
+(c) deputies appointed or deemed to be appointed by the High Court for persons who lack capacity under the Mental Capacity Act (Cap. 177A) with power in relation to such persons for the purposes of this Act, on behalf of such persons.
 
-[7/2009 wef 01/03/2009]
-
-[21/2008 wef 01/03/2010]
-
-[7/2009 wef 02/03/2010]
+[21/2008; 7/2009]
 
 ### Married woman to be examined apart
 
@@ -256,7 +252,7 @@ An Act relating to settled estates.
 
 ### Examination if out of Singapore
 
-19\. If any married woman so to be examined is outside Singapore her examination may be made by any person appointed for that purpose by the court or a judge, and such person shall certify under his hand to the effect hereinbefore provided in respect of the examination of a married woman within Singapore.
+19\. If any married woman so to be examined is outside Singapore, her examination may be made by any person appointed for that purpose by the court or a judge, and such person shall certify under his hand to the effect hereinbefore provided in respect of the examination of a married woman within Singapore.
 
 ### Modes in which leases may be authorised
 
@@ -266,7 +262,7 @@ An Act relating to settled estates.
 
 21\. When application is made to the court or a judge either to approve of a particular lease or to vest any powers of leasing in trustees, the court or judge shall require the applicant to produce such evidence as is sufficient to enable the nature, value and circumstances of the estate to be ascertained, and the terms and conditions on which leases thereof ought to be authorised.
 
-### After approval of a lease court to direct who shall be the lessor
+### After approval of lease court to direct who shall be lessor
 
 22\.—(1) When a particular lease or contract for a lease is approved by the court or a judge, the court or judge shall direct what person or persons shall execute the same as lessor.
 
@@ -282,7 +278,7 @@ An Act relating to settled estates.
 
 (4) The court or judge may also authorise the insertion of provisions for the appointment of new trustees from time to time for the purpose of exercising such powers of leasing as aforesaid.
 
-### Conditions that leases be settled by the court not to be inserted in orders made under this Act
+### Conditions that leases be settled by court not to be inserted in orders made under this Act
 
 24\. In orders under this Act for vesting any powers of leasing in any trustees or other persons, no conditions shall be inserted requiring that the leases thereby authorised should be submitted to or be settled by the court or a judge, or be made conformable with a model lease deposited in the registry, save only in any case in which the parties applying for the order desire to have any such condition inserted, or in which it appears to the court or judge that there is some special reason rendering the insertion of such a condition necessary or expedient.
 
@@ -292,29 +288,29 @@ An Act relating to settled estates.
 
 (2) Nothing herein shall make it obligatory on the court or a judge to act under this provision in any case in which, from the previous evidence or from any other evidence, it appears to the court or judge that there is any special reason why in the case in question such a condition is necessary or expedient.
 
-### Notice of the exercise of powers to be given as directed by the court
+### Notice of exercise of powers to be given as directed by court
 
 26\. The court or a judge shall direct that some sufficient notice of any exercise of any of the powers conferred on it or him by this Act shall be placed on the settlement, or on any copies thereof, or recorded in any other way, in all cases where it appears to the court or judge to be practicable and expedient for preventing fraud or mistake.
 
 ### Application of moneys arising from sales
 
-27\. The moneys or part of the moneys to be received on any sale effected under this Act, or the rents or payments reserved under any lease or any part of such rents or payments, may be paid to any trustees of whom the judge approves, or the same may be ordered to be paid into court; and such moneys, rents or payments or any part thereof may be applied as the judge from time to time directs to some one or other of the following purposes:
+27\. The moneys or part of the moneys to be received on any sale effected under this Act, or the rents or payments reserved under any lease or any part of such rents or payments, may be paid to any trustees of whom the judge approves, or the same may be ordered to be paid into court; and such moneys, rents or payments or any part thereof may be applied as the judge from time to time directs to any of the following purposes:
 
 (a) the discharge or redemption of any incumbrance affecting the immovable property in respect of which such money was paid, or affecting any other immovable property subject to the same settlement;
 
 (b) the permanent improvement of any immovable property subject to such settlement;
 
-(c) the purchase of other immovable property to be settled in the same manner as the immovable property in respect of which the money was paid; or
+(c) the purchase of other immovable property to be settled in the same manner as the immovable property in respect of which the money was paid;
 
 (d) the payment to any person becoming absolutely entitled.
 
-### Trustees may apply moneys in certain cases without application to the court
+### Trustees may apply moneys in certain cases without application to court
 
-28\. The application of the moneys in the manner aforesaid may, if the court or a judge so directs, be made by the trustees, if any, without any application to the court, or otherwise upon an order of the court on the application of the person who would be entitled to the possession or the receipt of the rents and profits of the immovable property, if the money had been invested in the purchase of immovable property.
+28\. The application of the moneys in the manner provided in section 27 may, if the court or a judge so directs, be made by the trustees, if any, without any application to the court, or otherwise upon an order of the court on the application of the person who would be entitled to the possession or the receipt of the rents and profits of the immovable property, if the money had been invested in the purchase of immovable property.
 
 ### Moneys, until they can be applied, to be invested, and dividends paid to parties entitled
 
-29\.—(1) Until the moneys can be applied as aforesaid the same shall be invested as the court or a judge directs, in some or one of the investments in which cash under the control of the court is for the time being authorised to be invested.
+29\.—(1) Until the moneys can be applied as provided in section 27, the same shall be invested as the court or a judge directs, in some or one of the investments in which cash under the control of the court is for the time being authorised to be invested.
 
 (2) The interest and dividends of such investments shall be paid to the person who would have been entitled to the rents and profits of the immovable property if the money had been invested in the purchase of immovable property.
 
@@ -338,7 +334,7 @@ Settled Estates Act
 
 (CHAPTER 293)
 
-This Legislative History is provided for the convenience of users of the Settled Estates Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Settled Estates Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -354,16 +350,18 @@ This Legislative History is provided for the convenience of users of the Settled
 ||Date of operation|1 March 1971|
 |5.|**1985 Revised Edition—Settled Estates Act (Chapter 293)**|
 ||Date of operation|30 March 1987|
-|6.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|21 July 2008|
-|||(Bill No. 11/2008 published on 22 July 2008)|
-||Date of Second and Third Readings|16 September 2008|
-||Date of commencement|1 March 2010 (except paragraph (i) of item 1(8)(a), item 1(8)(b) and item 1(41) of the Second Schedule)|
-|7.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+|6.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 November 2008|
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1 March 2009 (except item 7(b) of the Schedule)|
 |||2 March 2010 (item 7(b) of the Schedule)|
+|7.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (except paragraph (i) of item 1(8)(a), item 1(8)(b) and item 1(41) of the Second Schedule)|
+|8.|**2013 Revised Edition—Settled Estates Act (Chapter 293)**|
+||Date of operation|31 August 2013|
