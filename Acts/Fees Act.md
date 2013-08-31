@@ -32,9 +32,9 @@
 
 (Original Enactment: Ordinance 1 of 1881)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act to provide for the levy of fees and payments for licences.
 
@@ -98,33 +98,29 @@ This Legislative History is provided for the convenience of users of the Fees Ac
 ||Date of Second Reading|19 June 1883|
 ||Date of Third Reading|6 July 1883|
 ||Date of commencement|7 July 1883|
-|3.|**1920 Revised Edition—Ordinance No. 27 (Fees)**|
-||Date of operation|28 November 1921|
-|4.|**1920 Revised Edition—Ordinance No. 27 (Fees)**|
-||Date of operation|1 August 1926|
-|5.|**Ordinance 31 of 1938—Fees (Amendment) Ordinance 1938**|
+|3.|**Ordinance 31 of 1938—Fees (Amendment) Ordinance 1938**|
 ||Date of First Reading|31 October 1938|
 ||Date of Second and Third Readings|23 November 1938|
-||Date of commencement|6 December 1938|
-|6.|**1955 Revised Edition—Fees Ordinance (Chapter 165)**|
-||Date of operation|1 July 1956|
-|7.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
+||Date of commencement|9 December 1938|
+|4.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 July 1958|
 |||(Bill No. 158/58 published on 22 July 1958)|
 ||Date of Second Reading|13 August 1958|
 ||Date of Third Reading|10 September 1958|
 ||Date of commencement|25 September 1958|
-|8.|**G.N. No. S 223/59—Singapore Constitution (Modification of Laws) Order 1959**|
+|5.|**G.N. No. S 223/59—Singapore Constitution (Modification of Laws) Order 1959**|
 ||Date of commencement|3 June 1959|
-|9.|**S (N.S.) 178/59—Singapore Constitution (Modification of Laws) (No. 4) Order 1959**|
+|6.|**S (N.S.) 178/59—Singapore Constitution (Modification of Laws) (No. 4) Order 1959**|
 ||Date of commencement|20 November 1959|
-|10.|**Act 53 of 1966—Fees (Amendment) Act 1966**|
+|7.|**Act 53 of 1966—Fees (Amendment) Act 1966**|
 ||Date of First Reading|5 December 1966|
 |||(Bill No. 53/66 published on 7 December 1966)|
 ||Date of Second and Third Readings|21 December 1966|
 ||Date of commencement|6 January 1967|
-|11.|**1970 Revised Edition—Fees Act (Chapter 138)**|
+|8.|**1970 Revised Edition—Fees Act (Chapter 138)**|
 ||Date of operation|1 March 1971|
-|12.|**1985 Revised Edition—Fees Act (Chapter 106)**|
+|9.|**1985 Revised Edition—Fees Act (Chapter 106)**|
 ||Date of operation|30 March 1987|
+|10.|**2013 Revised Edition—Fees Act (Chapter 106)**|
+||Date of operation|31 August 2013|
