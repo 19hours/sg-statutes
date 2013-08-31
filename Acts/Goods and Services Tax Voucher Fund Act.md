@@ -1,20 +1,18 @@
-**Goods and Services Tax Voucher Fund Act 2012**
+**Goods and Services Tax Voucher Fund Act**
 
-**(No. 31 of 2012)**
+**(CHAPTER 117C)**
 
 **Table of Contents**
 
 [**Long Title**](#Goods-and-Services-Tax-Voucher-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II GOODS AND SERVICES TAX voucher FUND**](#Part-II)
+[**Part II GOODS AND SERVICES TAX VOUCHER FUND**](#Part-II)
 
 - [3 Establishment of Goods and Services Tax Voucher Fund](#Establishment-of-Goods-and-Services-Tax-Voucher-Fund)
 
@@ -54,52 +52,29 @@
 
 - [19 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Goods and Services Tax Voucher Fund Act
 
-ACTS SUPPLEMENT
+(CHAPTER 117C)
 
-Published by Authority
+(Original Enactment: Act 31 of 2012)
 
-NO. 2]
+REVISED EDITION 2013
 
-Friday, January 25
-
-[2013
-
-The following Act was passed by Parliament on 14th November 2012 and assented to by the President on 5th December 2012:—
-
-Goods and Services Tax
-
-
-
-
-Voucher Fund Act 2012
-
-(No. 31 of 2012)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-5th December 2012.
-
-Date of Commencement: 1st February 2013
+(31st August 2013)
 
 An Act to establish the Goods and Services Tax Voucher Fund, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st February 2013]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Goods and Services Tax Voucher Fund Act 2012 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Goods and Services Tax Voucher Fund Act.
 
 ### Interpretation
 
@@ -111,7 +86,7 @@ PRELIMINARY
 
 ## PART II
 
-GOODS AND SERVICES TAX voucher FUND
+GOODS AND SERVICES TAX VOUCHER FUND
 
 ### Establishment of Goods and Services Tax Voucher Fund
 
@@ -329,3 +304,19 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (d) prescribe anything which may be prescribed under this Act.
 
+## LEGISLATIVE HISTORY
+
+Goods and Services Tax Voucher Fund Act
+
+(CHAPTER 117C)
+
+This Legislative History is provided for the convenience of users of the Goods and Services Tax Voucher Fund Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 31 of 2012—Goods and Services Tax Voucher Fund Act 2012**|
+||Date of First Reading|15 October 2012 (Bill No. 30/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 February 2013|
+|2.|**2013 Revised Edition—Goods and Services Tax Voucher Fund Act (Chapter 117C)**|
+||Date of operation|31 August 2013|
