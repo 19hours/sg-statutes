@@ -24,9 +24,9 @@
 
 (Original Enactment: Ordinance 17 of 1955)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st August 2013)
 
 An Act for the authorisation of measures for the control of traffic, at places where children cross roads on their way to or from school, by persons other than police officers.
 
@@ -54,33 +54,33 @@ An Act for the authorisation of measures for the control of traffic, at places w
 
 “school” includes a children’s social centre run by the Government;
 
-[Act 25 of 2012 wef 28/03/2013]
-
 “school crossing patrol” means a person appointed to patrol in accordance with arrangements under section 3;
 
 “vehicle” means any vehicle whether mechanically propelled or otherwise.
 
+[25/2012]
+
 ### Arrangements for patrolling school crossings
 
-3\.—(1) Subject to such specific or general directions as may be given by the Minister from time to time arrangements may be made by the Commissioner of Police for the patrolling of places where children cross roads on their way to or from school, during periods between the hours of 7 a.m. and 7 p.m. when children are so on their way, by persons appointed by or on behalf of the Commissioner, other than police officers.
+3\.—(1) Subject to such specific or general directions as may be given by the Minister from time to time, arrangements may be made by the Commissioner of Police for the patrolling of places where children cross roads on their way to or from school, during periods between the hours of 7 a.m. and 7 p.m. when children are so on their way, by persons appointed by or on behalf of the Commissioner, other than police officers.
 
 (2) The functions of the Commissioner for the purpose of making arrangements under subsection (1) shall include the duty to satisfy himself of the adequate qualifications of persons appointed to patrol, and to provide requisite training of persons to be appointed.
 
 ### Power of school crossing patrols to stop traffic
 
-4\.—(1) When between the hours of 7 a.m. and 7 p.m. a vehicle is approaching a place in a road where children on their way to or from school are crossing or seeking to cross the road, a school crossing patrol shall, subject to subsection (3), have power, by exhibiting a prescribed sign, to require the person driving or propelling the vehicle to stop it.
+4\.—(1) When between the hours of 7 a.m. and 7 p.m. a vehicle is approaching a place in a road where children on their way to or from school are crossing or seeking to cross the road, a school crossing patrol shall, subject to subsection (4), have power, by exhibiting a prescribed sign, to require the person driving or propelling the vehicle to stop it.
 
 (2) When a person has been required under subsection (1) to stop a vehicle —
 
-(a) he shall cause the vehicle to stop before reaching the place where the children are crossing or seeking to cross and so as not to stop or impede their crossing; and
+(a) he shall cause the vehicle to stop before reaching the place where the children are crossing or seeking to cross so as not to stop or impede their crossing; and
 
 (b) the vehicle shall not be put in motion again so as to reach the place in question so long as the sign continues to be exhibited.
 
-(3) Any person who fails to comply with subsection (2)(a), or who causes a vehicle to be put in motion in contravention of subsection (2)(b), shall be guilty of an offence and shall be liable on conviction in the case of a first offence to a fine not exceeding $200 and in the case of a second or subsequent offence to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months.
+(3) Any person who fails to comply with subsection (2)(a), or who causes a vehicle to be put in motion in contravention of subsection (2)(b), shall be guilty of an offence and shall be liable on conviction in the case of a first offence to a fine not exceeding $200 and, in the case of a second or subsequent offence, to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months.
 
 (4) The power conferred on a school crossing patrol by subsection (1) shall be exercisable only if the patrol is wearing a uniform conforming to a type prescribed by the Minister.
 
-(5) The power conferred by section 42(1) of the Road Traffic Act [Cap. 276] on a court before which a person is convicted of any criminal offence in connection with the driving of a motor vehicle to order him to be disqualified from holding or obtaining a licence to drive a motor vehicle shall not be exercisable by virtue of the conviction of a person of an offence under subsection (3) if it is his first or second conviction of an offence thereunder.
+(5) The power conferred by section 42(1) of the Road Traffic Act (Cap. 276) on a court before which a person is convicted of any criminal offence in connection with the driving of a motor vehicle to order him to be disqualified from holding or obtaining a licence to drive a motor vehicle shall not be exercisable by virtue of the conviction of a person of an offence under subsection (3) if it is his first or second conviction of an offence thereunder.
 
 (6) For the purposes of this section —
 
@@ -98,7 +98,7 @@ School Crossing Patrols Act
 
 (CHAPTER 285)
 
-This Legislative History is provided for the convenience of users of the School Crossing Patrols Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the School Crossing Patrols Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -116,3 +116,5 @@ This Legislative History is provided for the convenience of users of the School 
 |||(Bill No. 23/2012 published on 11 September 2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013 (section 9 — amendment of School Crossing Patrols Act)|
+|5.|**2013 Revised Edition—School Crossing Patrols Act (Chapter 285)**|
+||Date of operation|31 August 2013|
