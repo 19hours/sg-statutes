@@ -30,7 +30,7 @@
 
 - [9 Discontinuance of schools](#Discontinuance-of-schools)
 
-- [10 Minister may appoint Director to take over conduct of schools](#Minister-may-appoint-Director-to-take-over-conduct-of-schools)
+- [10 Minister may appoint Director‑General to take over conduct of schools](#Minister-may-appoint-Director‑General-to-take-over-conduct-of-schools)
 
 - [11 Winding up of governing boards](#Winding-up-of-governing-boards)
 
@@ -54,9 +54,9 @@
 
 (Original Enactment: Act 4 of 1990)
 
-REVISED EDITION 1991
+REVISED EDITION 2013
 
-(1st March 1991)
+(31st August 2013)
 
 An Act to make provisions for the incorporation of governing boards for the purpose of conducting Government schools and aided schools and for matters connected therewith.
 
@@ -80,11 +80,13 @@ PRELIMINARY
 
 (b) is conducted by a committee of management which is in receipt of a grant-in-aid from the Government for the defraying of the expenses incurred for conducting the school;
 
-“Director” means the Director of Education;
+“Director-General” means the Director-General of Education;
 
 “governing board” means a governing board constituted by an order made by the Minister under section 3(1) for the purpose of conducting a school named in the order;
 
 “governor” means a member of a governing board.
+
+[8/97]
 
 ## PART II
 
@@ -110,9 +112,9 @@ ESTABLISHMENT OF GOVERNING BOARDS FOR SCHOOLS
 
 (e) for filling vacancies in the governing board;
 
-(f) as to the election or appointment of a chairman or vice-chairman (if any) of the governing board;
+(f) as to the election or appointment of a chairman or vice‑chairman (if any) of the governing board;
 
-(g) to provide that the principal of the school named in the order shall be appointed by the governing board with the approval of the Director;
+(g) to provide that the principal of the school named in the order shall be appointed by the governing board with the approval of the Director‑General;
 
 (h) conferring upon the governing board full discretion to act with respect to the following matters:
 
@@ -168,9 +170,9 @@ ESTABLISHMENT OF GOVERNING BOARDS FOR SCHOOLS
 
 ### Common seal and execution of documents
 
-6\.—(1) A governing board shall provide for the safe custody of its common seal which shall only be affixed to an instrument or document in the presence of such two persons, being governors, as the governing board determines, or in the absence of any such determination, in the presence of two governors, who shall sign the instrument to which the common seal is affixed.
+6\.—(1) A governing board shall provide for the safe custody of its common seal which shall only be affixed to an instrument or document in the presence of such 2 persons, being governors, as the governing board determines, or in the absence of any such determination, in the presence of 2 governors, who shall sign the instrument to which the common seal is affixed.
 
-(2) Any document purported to be an instrument made or issued by or on behalf of a governing board and to be duly executed under the seal of the governing board, or to be signed or executed by a person authorised by the governing board to act in that behalf shall be received in evidence and be treated, without further proof, as being so made or issued unless the contrary is shown.
+(2) Any document purported to be an instrument made or issued by or on behalf of a governing board and to be duly executed under the seal of the governing board, or to be signed or executed by a person authorised by the governing board to act in that behalf, shall be received in evidence and be treated, without further proof, as being so made or issued unless the contrary is shown.
 
 ### Establishment of governing boards for aided schools
 
@@ -180,7 +182,7 @@ ESTABLISHMENT OF GOVERNING BOARDS FOR SCHOOLS
 
 8\. Except as provided in this Act, no governor shall, by virtue merely of his holding such office —
 
-(a) be liable to contribute towards the payment of the debts and liabilities incurred in the conduct of a school or the costs, charges and expenses of a winding up of the governing board of which he is member; or
+(a) be liable to contribute towards the payment of the debts and liabilities incurred in the conduct of a school or the costs, charges and expenses of a winding up of the governing board of which he is a member; or
 
 (b) be conferred with any right, title or interest, whether legal or equitable, in the property of the governing board,
 
@@ -192,21 +194,21 @@ DISCONTINUANCE OF SCHOOLS AND WINDING UP OF GOVERNING BOARDS
 
 ### Discontinuance of schools
 
-9\.—(1) The governing board of a school shall not discontinue the school except in pursuance of proposals approved by the Director under this section.
+9\.—(1) The governing board of a school shall not discontinue the school except in pursuance of proposals approved by the Director‑General under this section.
 
-(2) Where the governing board of a school decides by a resolution passed at a meeting of the governing board to discontinue the school, the governing board shall, as soon as practicable after the passing of the resolution, submit to the Director its proposals for that purpose.
+(2) Where the governing board of a school decides by a resolution passed at a meeting of the governing board to discontinue the school, the governing board shall, as soon as practicable after the passing of the resolution, submit to the Director‑General its proposals for that purpose.
 
-(3) The Director may reject any proposals under this section or approve them with or without modifications.
+(3) The Director‑General may reject any proposals under this section or approve them with or without modifications.
 
-### Minister may appoint Director to take over conduct of schools
+### Minister may appoint Director‑General to take over conduct of schools
 
-10\.—(1) Where the Minister is satisfied that the governing board of a school has failed to conduct the school efficiently or that the education of the pupils of the school is not being promoted in a proper manner, he may appoint the Director to exercise and perform such powers, duties and functions of the governing board for such period as he may specify.
+10\.—(1) Where the Minister is satisfied that the governing board of a school has failed to conduct the school efficiently or that the education of the pupils of the school is not being promoted in a proper manner, he may appoint the Director‑General to exercise and perform such powers, duties and functions of the governing board for such period as he may specify.
 
-(2) The Minister shall not make an order under subsection (1) unless he has given not less than 90 days’ notice in writing to the chairman of the governing board of his intention to appoint the Director to exercise and perform all or such of the powers, duties and functions of the governing board and the chairman may make representations to the Minister within 60 days of the service of the notice.
+(2) The Minister shall not make an order under subsection (1) unless he has given not less than 90 days’ notice in writing to the chairman of the governing board of his intention to appoint the Director‑General to exercise and perform all or such of the powers, duties and functions of the governing board and the chairman may make representations to the Minister within 60 days of the service of the notice.
 
-(3) Where the Minister has made an order under subsection (1), no governor, while his appointment remains valid, shall exercise or perform any power, authority, duty or function which the Director is authorised to exercise or perform by that order and any such power, function or duty may be exercised or performed by the Director in the name and on behalf of the governing board.
+(3) Where the Minister has made an order under subsection (1), no governor, while his appointment remains valid, shall exercise or perform any power, authority, duty or function which the Director‑General is authorised to exercise or perform by that order and any such power, function or duty may be exercised or performed by the Director‑General in the name and on behalf of the governing board.
 
-(4) The costs and expenses incurred by the Director pursuant to an appointment under this section shall be paid out of the funds of the governing board.
+(4) The costs and expenses incurred by the Director‑General pursuant to an appointment under this section shall be paid out of the funds of the governing board.
 
 ### Winding up of governing boards
 
@@ -214,9 +216,9 @@ DISCONTINUANCE OF SCHOOLS AND WINDING UP OF GOVERNING BOARDS
 
 (a) any proposals by a governing board of a school have been approved under section 9;
 
-(b) the registration of the school concerned under the Education Act [Cap. 87] is cancelled; or
+(b) the registration of the school concerned under the Education Act (Cap. 87) is cancelled; or
 
-(c) the administration of a school has been taken over by the Director under section 10 for a period exceeding 12 months,
+(c) the conduct of a school has been taken over by the Director‑General under section 10 for a period exceeding 12 months,
 
 the Minister may, by order published in theGazette, make provisions for the winding up of the governing board of the school and the disposal of the property of the governing board.
 
@@ -250,19 +252,19 @@ MISCELLANEOUS
 
 ### Registration of schools
 
-13\. Every school which is conducted by a governing board established under this Act shall be deemed to be registered under the provisions of the Education Act [Cap. 87] from the date of incorporation of the governing board.
+13\. Every school which is conducted by a governing board established under this Act shall be deemed to be registered under the provisions of the Education Act (Cap. 87) from the date of incorporation of the governing board.
 
 ### Registration of managers of schools
 
-14\. For the purposes of the Education Act, every governor shall be deemed to be a registered manager of a school as from the date of his appointment as a governor.
+14\. For the purposes of the Education Act (Cap. 87), every governor shall be deemed to be a registered manager of a school as from the date of his appointment as a governor.
 
 ### Operation of this Act not to affect Education Act
 
-15\. Except as otherwise expressly provided in this Act, nothing in this Act shall affect the operation of the Education Act or any regulations made thereunder.
+15\. Except as otherwise expressly provided in this Act, nothing in this Act shall affect the operation of the Education Act (Cap. 87) or any regulations made thereunder.
 
 ### Transfer of property to governing boards
 
-16\. Where a school conducted by a governing board was conducted by the Government immediately before the incorporation of the governing board, the Director may transfer to the governing board any property which immediately before the date of incorporation was property used or held by the Director for the purposes of the school.
+16\. Where a school conducted by a governing board was conducted by the Government immediately before the incorporation of the governing board, the Director‑General may transfer to the governing board any property which immediately before the date of incorporation was property used or held by the Director‑General for the purposes of the school.
 
 ## LEGISLATIVE HISTORY
 
@@ -270,7 +272,7 @@ School Boards (Incorporation) Act
 
 (CHAPTER 284A)
 
-This Legislative History is provided for the convenience of users of the School Boards (Incorporation) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the School Boards (Incorporation) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -281,3 +283,5 @@ This Legislative History is provided for the convenience of users of the School 
 ||Date of commencement|1 January 1990|
 |2.|**1991 Revised Edition—School Boards (Incorporation) Act (Chapter 284A)**|
 ||Date of operation|1 March 1991|
+|3.|**2013 Revised Edition—School Boards (Incorporation) Act (Chapter 284A)**|
+||Date of operation|31 August 2013|
