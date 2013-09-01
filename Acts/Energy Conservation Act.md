@@ -230,6 +230,8 @@ Date of Commencement: 1st July 2012 Parts I, II, Divisions 1 and 3 of Part IV, s
 
 Date of Commencement: 22nd April 2013 Divisions 2 and 3 of Part III, sections 64 to 67, 74, 77, 78 and 79
 
+Date of Commencement: 1st September 2013 Division 1 of Part III, sections 80(1) and 81
+
 An Act to mandate energy efficiency requirements and energy management practices to promote energy conservation, improve energy efficiency and reduce environmental impact, and to make consequential and related amendments to certain other written laws.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
