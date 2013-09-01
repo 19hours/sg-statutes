@@ -676,6 +676,8 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 [32/2010 wef 01/02/2011]
 
+(2) [Deleted by Act 32/2010 wef 01/02/2011]
+
 (3) Every person who is subject to this Act at the time of the alleged commission by him of a service offence of desertion or absence without leave shall continue to be liable to be charged, dealt with and tried at any time under this Act.
 
 (4) In calculating the period of limitation referred to in subsection (1), there shall not be included —
@@ -1424,6 +1426,8 @@ POWERS OF INVESTIGATION
 
 (2) For the purposes of subsection (1), when a provost officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the provost officer shall be deemed to be an officer not below the rank of inspector of police.
 
+[15/2010 wef 02/01/2011]
+
 ## PART IX
 
 DEDUCTIONS FROM PAY OF A MEMBER
@@ -1622,6 +1626,8 @@ CIVIL DEFENCE FORCE FUND
 
 STATE OF CIVIL DEFENCE EMERGENCY
 
+[32/2010 wef 01/02/2011]
+
 ### Declaration of state of civil defence emergency
 
 102\.—(1) If at any time it appears to the Minister that a civil defence emergency has occurred or may occur in any part or district of Singapore, the Minister may declare that a state of civil defence emergency exists in that part or district.
@@ -1702,17 +1708,27 @@ order such number of members of the Force as to him seems expedient to proceed o
 
 (6) All members of the Force ordered under subsection (1) to proceed outside Singapore for service shall comply with every direction issued under subsection (4).
 
+(6A) For the avoidance of doubt, the Minister may order such number of members of the Force as to him seems expedient to carry out duties in international waters, and this Part shall apply, with the necessary modifications, to members of the Force serving outside Singapore pursuant to such an order as it applies to members of the Force serving outside Singapore pursuant to an order under subsection (1).
+
+[Act 14 of 2013 wef 01/09/2013]
+
 (7) No auxiliary member shall be liable to serve or proceed on duty outside Singapore unless he first consents to such service.
+
+[32/2010 wef 01/02/2011]
 
 ### Members of Force serving outside Singapore to remain subject to this Act
 
 105B\. Subject to section 105D, a member of the Force who is temporarily attached to the forces of another territory, or otherwise serving outside Singapore, pursuant to any order made under section 105A shall not cease to be subject to this Act by reason only of his being so temporarily attached, or being outside Singapore.
+
+[32/2010 wef 01/02/2011]
 
 ### Jurisdiction during overseas service
 
 105C\.—(1) Section 105D shall apply to any act done or omitted to be done outside Singapore by any member of the Force while he is serving outside Singapore pursuant to any order made under section 105A.
 
 (2) For the purposes of this section, a person shall be deemed to be serving outside Singapore pursuant to an order made under section 105A from the time he leaves Singapore to undertake those duties until the time he returns to Singapore.
+
+[32/2010 wef 01/02/2011]
 
 ### Offences and misconduct during overseas service
 
@@ -1735,6 +1751,8 @@ order such number of members of the Force as to him seems expedient to proceed o
 (a) the person may be investigated and, if appropriate, proceeded against under this Act by way of disciplinary proceedings under Part VII and punished, in the same manner as if the act or omission had occurred in Singapore; and
 
 (b) for that purpose, this Act and the Civil Defence (Arrests, Searches, Investigation and Trial of Offences) Regulations (Rg 2) shall apply to him with any necessary modifications.
+
+[32/2010 wef 01/02/2011]
 
 ## PART XIV
 
@@ -1842,6 +1860,8 @@ at the rates prescribed by the regulations and paid out of the Pension Fund esta
 
 (h) the establishment and administration of any association for the welfare of members and the control of the funds of any such association and the collection from members thereof of subscriptions thereto;
 
+(i) [Deleted by Act 32/2010 wef 01/02/2011]
+
 (j) the reimbursement for or payment to members;
 
 (k) the payment of compensation in respect of death and physical injury suffered by any member of the Force or by a member of the public in the course of being trained in civil defence measures or taking part in civil defence measures or drills;
@@ -1866,7 +1886,7 @@ Civil Defence Act
 
 (CHAPTER 42)
 
-This Legislative History is provided for the convenience of users of the Civil Defence Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Civil Defence Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1909,6 +1929,11 @@ This Legislative History is provided for the convenience of users of the Civil D
 |||(Bill No. 27/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 February 2011|
+|9.|**Act 14 of 2013—Fire Safety (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 January 2013 (Bill No. 1/2013 published on 14 January 2013)|
+||Date of Second and Third Readings|8 April 2013|
+||Date of commencement|1 September 2013 (with exceptions of sections 40 and 41(b))|
 ## COMPARATIVE TABLE
 
 Civil Defence Act
@@ -1923,9 +1948,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1985 Ed\. 
 
-20 — (2) and (3)
+20 —(2) and (3)
 
-20 — (2)
+20 —(2)
 
 (4)
 
@@ -1935,17 +1960,17 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (4)
 
-75 — (4) and (5)
+75 —(4) and (5)
 
-75 — (4)
+75 —(4)
 
 (6)
 
 (5)
 
-81 — (5) and (6)
+81 —(5) and (6)
 
-81 — (5)
+81 —(5)
 
 (7)
 
@@ -1959,17 +1984,17 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (8)
 
-84 — (2) and (3)
+84 —(2) and (3)
 
-84 — (2)
+84 —(2)
 
-89 — (2) and (3)
+89 —(2) and (3)
 
-89 — (2)
+89 —(2)
 
-92 — (3) and (4)
+92 —(3) and (4)
 
-92 — (3)
+92 —(3)
 
 (5)
 
@@ -1979,9 +2004,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (5)
 
-95 — (3) and (4)
+95 —(3) and (4)
 
-95 — (3)
+95 —(3)
 
 (5)
 
@@ -1991,13 +2016,13 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (5)
 
-98 — (1) and (2)
+98 —(1) and (2)
 
 98 
 
-105 — (1) and (2)
+105 —(1) and (2)
 
-105 — (1)
+105 —(1)
 
 (3)
 
