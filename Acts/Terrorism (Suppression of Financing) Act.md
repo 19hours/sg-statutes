@@ -22,15 +22,21 @@
 
 - [6 Prohibition against dealing with property of terrorists](#Prohibition-against-dealing-with-property-of-terrorists)
 
-- [7 Exemption from prohibition against dealing](#Exemption-from-prohibition-against-dealing)
+- [6A Penalty](#Penalty)
 
-[**Part III Disclosure**](#Part-III)
+- [7 Exemption](#Exemption)
+
+[**Part III Disclosure and Tipping-off**](#Part-III)
 
 - [8 Duty to disclose](#Duty-to-disclose)
 
 - [9 Duty to audit](#Duty-to-audit)
 
 - [10 Information about acts of terrorism financing](#Information-about-acts-of-terrorism-financing)
+
+- [10A Information and identity of informers not to be disclosed](#Information-and-identity-of-informers-not-to-be-disclosed)
+
+- [10B Tipping-off](#Tipping-off)
 
 [**Part IV seizure, freezing and confiscation of terrorist property**](#Part-IV)
 
@@ -94,11 +100,13 @@
 
 - [37 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
-- [38 Amendment of Schedule](#Amendment-of-Schedule)
+- [38 Amendment of Schedules](#Amendment-of-Schedules)
 
 - [39 Regulations](#Regulations)
 
-[**THE SCHEDULE Actions Which Also Constitute Terrorist Acts**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Terrorists and terrorist entities**](#FIRST-SCHEDULE-Terrorists-and-terrorist-entities)
+
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -156,9 +164,13 @@ PRELIMINARY
 
 (b) participates in or facilitates the commission of any terrorist act,
 
-and includes any person defined in regulations made under the United Nations Act (Cap. 339) to be a terrorist;
+and includes any person set out in the First Schedule;
 
-“terrorist entity” means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities.
+[Act 17 of 2013 wef 23/09/2013]
+
+“terrorist entity” means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities, and any entity set out in the First Schedule.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 (2) Subject to subsection (3), for the purposes of this Act, “terrorist act” means the use or threat of action —
 
@@ -194,7 +206,9 @@ and includes any person defined in regulations made under the United Nations Act
 
 (ii) intimidate the public or a section of the public,
 
-and includes any action specified in the Schedule.
+and includes any action specified in the Second Schedule.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 (3) Notwithstanding anything in subsection (2), a terrorist act does not include the activities undertaken by military forces of a State in the exercise of their official duties, to the extent that those activities are governed by other rules of international law.
 
@@ -218,7 +232,9 @@ Terrorist property
 
 (b) knowing or having reasonable grounds to believe that the property will be used,
 
-in whole or in part, in order to commit any terrorist act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+in whole or in part, in order to commit any terrorist act, shall be guilty of an offence.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 ### Prohibition against provision of property and services for terrorist purposes
 
@@ -228,7 +244,9 @@ in whole or in part, in order to commit any terrorist act, shall be guilty of an
 
 (b) knowing or having reasonable grounds to believe that, in whole or in part, they will be used by or will benefit any terrorist or terrorist entity,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+shall be guilty of an offence.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 ### Prohibition against use or possession of property for terrorist purposes
 
@@ -238,7 +256,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) possesses property intending that it be used or knowing or having reasonable grounds to believe that it will be used, directly or indirectly, in whole or in part, for the purpose of facilitating or carrying out a terrorist act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+shall be guilty of an offence.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 ### Prohibition against dealing with property of terrorists
 
@@ -250,23 +270,43 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) provide any financial services or any other related services in respect of any property referred to in paragraph (a) to, or for the benefit of, or on the direction or order of, any terrorist or terrorist entity.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 (3) Any person who acts reasonably in taking, or omitting to take, measures to comply with subsection (1) shall not be liable in any civil proceedings arising from having taken or omitted to take the measures, if the person took all reasonable steps to satisfy himself that the relevant property was owned or controlled by or on behalf of any terrorist or terrorist entity.
 
-### Exemption from prohibition against dealing
+### Penalty
 
-7\.—(1) The Minister or a person designated by the Minister may exempt any person in Singapore or any citizen of Singapore outside Singapore from section 6 in respect of any specified activity or transaction or a class of such activities or transactions.
+6A\. Any person who is guilty of an offence under section 3, 4, 5 or 6 shall be liable on conviction —
 
-(2) The Minister or a person designated by the Minister may make the exemption under subsection (1) subject to any terms and conditions that are required in his opinion, and may amend, suspend, revoke or reinstate the exemption.
+(a) in the case of an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
-(3) If a person has obtained an exemption under subsection (1), any other person involved in carrying out the activity or transaction, or class of activities or transactions, to which the exemption relates is not subject to sections 6 and 8 if the terms and conditions of the exemption, if any, are met.
+(b) in any other case, to a fine not exceeding $1 million.
 
-(4) This section shall not affect any liability that a person has under any other law.
+[Act 17 of 2013 wef 23/09/2013]
+
+### Exemption
+
+7\.—(1) Subject to subsection (2), the Minister may, by order published in theGazette, exempt any person in Singapore, or any citizen of Singapore outside Singapore, from section 4(b) or 6 or both, in respect of any specified activity or transaction or a class of specified activities or transactions carried out by the person or citizen.
+
+(2) An exemption under subsection (1) from section 4(b) may not be made in respect of any activity or transaction involving property or services that will be used by or will benefit a terrorist entity.
+
+(3) An exemption under subsection (1) may be subject to any terms and conditions, including a condition precedent that the person exempted must have a notice of exemption from the Minister or a public officer authorised by the Minister before the exemption takes effect.
+
+(4) If a person is exempted under an order made under subsection (1) in respect of any activity or transaction or class of activities or transactions, any other person involved in carrying out —
+
+(a) the activity or transaction; or
+
+(b) any activity or transaction in that class of activities or transactions,
+
+to which the exemption relates is also exempt from section 4(b) or 6 or both (whichever applies to the act carried out by that other person), and section 8, if the terms and conditions of the exemption (if any) are met.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 ## PART III
 
-Disclosure
+Disclosure and Tipping-off
 
 ### Duty to disclose
 
@@ -327,6 +367,88 @@ who fails to disclose the information immediately to a police officer shall be g
 (2) It shall be a defence for a person charged with an offence under subsection (1) to prove that he had a reasonable excuse for not making the disclosure.
 
 (3) No criminal or civil proceedings shall lie against a person for any disclosure made in good faith under this section.
+
+### Information and identity of informers not to be disclosed
+
+10A\.—(1) Except as provided in subsection (3) —
+
+(a) no information disclosed by an informer pursuant to section 8, 9 or 10 shall be admitted in evidence in any criminal or civil proceedings; and
+
+(b) no witness in any criminal or civil proceedings shall be obliged —
+
+(i) to disclose the name and address of any informer; or
+
+(ii) to answer any question if the answer thereto would lead, or would tend to lead, to the discovery of the name or address of the informer.
+
+(2) If any book, document or paper which is in evidence or liable to inspection in any criminal or civil proceedings contains any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+
+(3) If a court —
+
+(a) in any proceedings before it for an offence under any written law, after full inquiry into the case, is satisfied that an informer wilfully made a material statement which he knew or believed to be false or did not believe to be true; or
+
+(b) in any other proceedings, is of the opinion that justice cannot be fully done between the parties thereto without the disclosure of the name of an informer,
+
+the court may permit inquiry and require full disclosure concerning the informer.
+
+(4) In this section, “informer” means a person who makes a disclosure or report pursuant to section 8, 9 or 10.
+
+[Act 17 of 2013 wef 23/09/2013]
+
+### Tipping-off
+
+10B\.—(1) Any person —
+
+(a) who knows or has reasonable grounds to suspect that a police officer is acting, or is proposing to act, in connection with an investigation which is being, or is about to be, conducted under or for the purposes of this Act; and
+
+(b) who discloses to any other person information or any other matter which is likely to prejudice that investigation or proposed investigation,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) Any person —
+
+(a) who knows or has reasonable grounds to suspect that a disclosure or report has been or is being made under section 8, 9 or 10; and
+
+(b) who discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure or report,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) Nothing in subsection (1) or (2) makes it an offence for an advocate and solicitor or his employee to disclose any information or other matter —
+
+(a) to, or to a representative of, a client of his in connection with the giving of advice to the client in the course of and for the purpose of the professional employment of the advocate and solicitor; or
+
+(b) to any person —
+
+(i) in contemplation of, or in connection with, legal proceedings; and
+
+(ii) for the purpose of those proceedings.
+
+(4) Nothing in subsection (1) or (2) makes it an offence for a legal counsel in an entity or a person acting under his supervision to disclose any information or other matter —
+
+(a) to the entity in connection with the giving of advice to the entity, or any officer or employee of the entity, in the course of and for the purpose of his employment as such legal counsel; or
+
+(b) to any person —
+
+(i) in contemplation of, or in connection with, legal proceedings; and
+
+(ii) for the purpose of those proceedings.
+
+(5) Where a legal counsel is employed by one of a number of corporations that are related to each other under section 6 of the Companies Act (Cap. 50), subsection (4) shall apply in relation to the legal counsel and every corporation so related as if the legal counsel were also employed by each of the related corporations.
+
+(6) Where a legal counsel is employed by a public agency and is required as part of his duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to another public agency or agencies, subsection (4) shall apply in relation to the legal counsel and the second-mentioned public agency or agencies as if the legal counsel were also employed by the second-mentioned public agency or agencies.
+
+(7) Subsections (3) and (4) do not apply in relation to any information or other matter which is disclosed with a view to furthering any illegal purpose.
+
+(8) In proceedings against a person for an offence under subsection (1) or (2), it is a defence to prove that he did not know and had no reasonable ground to suspect that the disclosure was likely to be prejudicial in the way mentioned in subsection (1) or (2).
+
+(9) No person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or other penal legislation.
+
+(10) In this section —
+
+“legal counsel” has the same meaning as in section 3(7) of the Evidence Act (Cap. 97);
+
+“public agency” has the same meaning as in section 128A(6) of the Evidence Act.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 ## PART IV
 
@@ -668,11 +790,15 @@ Miscellaneous
 
 [9/2003]
 
-### Amendment of Schedule
+### Amendment of Schedules
 
-38\. The Minister may, by order published in theGazette, amend the Schedule to specify any act or omission that is punishable under any law that implements any treaty, convention or other international agreement to which Singapore is a party as a terrorist act.
+38\. The Minister may, by order published in theGazette—
 
-[37
+(a) amend, add to or vary the First Schedule; and
+
+(b) amend the Second Schedule to specify any act or omission that is punishable under any law that implements any treaty, convention or other international agreement to which Singapore is a party as a terrorist act.
+
+[Act 17 of 2013 wef 23/09/2013]
 
 ### Regulations
 
@@ -680,11 +806,39 @@ Miscellaneous
 
 [38
 
-## THE SCHEDULE
+FIRST SCHEDULE
+
+Sections 2(1) and 38(a)
+
+Terrorists and terrorist entities
+
+1. All individuals and entities belonging to or associated with the Taliban in the Taliban List, and all individuals and entities belonging to or associated with the Al-Qaida organization in the Al-Qaida List, subject to the following conditions:
+
+(a) where any individual or entity is added to either of the Lists on or after the date of commencement of section 8 of the Terrorism (Suppression of Financing) (Amendment) Act 2013, the individual or entity is taken to be referred to in this Schedule with effect from the date immediately following the date of addition to the List;
+
+(b) where the particulars of any individual or entity in either of the Lists are modified on or after the date of commencement of section 8 of the Terrorism (Suppression of Financing) (Amendment) Act 2013, they are taken to be modified for the purposes of this Schedule with effect from the date immediately following the date of modification in the List.
+
+2. In this Schedule, unless the context otherwise requires —
+
+“1267 Committee” means the committee established pursuant to Resolution 1267 (1999);
+
+“1988 Committee” means the committee established pursuant to Resolution 1988 (2011);
+
+“Al-Qaida List” means the List of individuals and entities belonging to or associated with the Al-Qaida organization, established and maintained by the 1267 Committee pursuant to Resolutions 1267 (1999) and 1989 (2011), which is updated from time to time by the 1267 Committee, and made available on the Internet through the official United Nations website at http://www.un.org/;
+
+“Resolution 1267 (1999)” means Resolution 1267 (1999) of the Security Council of the United Nations concerning Al-Qaida and associated individuals and entities;
+
+“Resolution 1988 (2011)” means Resolution 1988 (2011) of the Security Council of the United Nations concerning the Taliban and associated individuals and entities;
+
+“Resolution 1989 (2011)” means Resolution 1989 (2011) of the Security Council of the United Nations concerning Al-Qaida and associated individuals and entities;
+
+“Taliban List” means the List of individuals and entities belonging to or associated with the Taliban, established and maintained pursuant to Resolution 1988, which is updated from time to time by the 1988 Committee, and made available on the Internet through the official United Nations website at http://www.un.org/.
+
+[Act 17 of 2013 wef 23/09/2013]
+
+SECOND SCHEDULE
 
 Section 2(2)
-
-Actions Which Also Constitute Terrorist Acts
 
 Part I
 
@@ -751,6 +905,8 @@ WITH EFFECT FROM 21st November 2010
 
 Any act constituting an offence under section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
 
+[Act 17 of 2013 wef 23/09/2013]
+
 ## LEGISLATIVE HISTORY
 
 Terrorism (Suppression of Financing) Act
@@ -795,6 +951,10 @@ This Legislative History is provided for the convenience of users of the Terrori
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|10.|**Act 17 of 2013—Terrorism (Suppression of Financing) (Amendment) Act 2013**|
+||Date of First Reading|8 July 2013 (Bill No. 11/2013 published on 8 July 2013)|
+||Date of Second and Third Readings|12 August 2013|
+||Date of commencement|23 September 2013|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
