@@ -200,7 +200,7 @@
 
 [**FIRST SCHEDULE Scheduled premises**](#FIRST-SCHEDULE-Scheduled-premises)
 
-[**SECOND SCHEDULE Control of Hazardous Substances Part i Hazardous Substances**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Control of hazardous substances**](#SECOND-SCHEDULE-Control-of-hazardous-substances)
 
 [**THIRD SCHEDULE Subject matters of Regulations**](#THIRD-SCHEDULE-Subject-matters-of-Regulations)
 
@@ -1995,9 +1995,9 @@ SECOND SCHEDULE
 
 Section 21
 
-Control of Hazardous Substances
+Control of hazardous substances
 
-Part i
+Part I
 
 Hazardous Substances
 
@@ -2011,7 +2011,7 @@ Acetic acid
 
 Substances containing not more than 80%, weight in weight, of acetic acid;
 
-Preparations and solutions for photographic use
+Preparations and solutions for photographic use.
 
 Acetic Anhydride
 
@@ -2299,7 +2299,7 @@ Cyanides
 
 Ferrocyanides;
 
-Ferricyanides
+Ferricyanides;
 
 Acetonitrile;
 
@@ -2886,9 +2886,9 @@ Prochloraz
 
 Pyrethroid compounds used as pesticides, the following:
 
-Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
-
 Fenvalerate
+
+Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
 
 Propylene imine —Deleted by S 78/2005, wef 16/02/2005.
 
@@ -2919,6 +2919,10 @@ Styrene monomer —Deleted by S 78/2005, wef 16/02/2005.
 Sulphur in diesel intended for use in Singapore as fuel for motor vehicles or industrial plants
 
 Sulphur in diesel in which the sulphur content is 0.001% or less by weight.
+
+Sulphur in petrol intended for use in Singapore as fuel for motor vehicles or industrial plants
+
+Sulphur in petrol in which the sulphur content is 0.005% or less by weight.
 
 Sulphur tetrafluoride
 
@@ -2954,49 +2958,25 @@ Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
 Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
+[S 374/2013 wef 01/10/2013]
+
 [S 373/2013 wef 01/07/2013]
 
 [S 43/2008 wef 31/01/2008]
 
 [S 62/2009 wef 01/07/2009]
 
-[S 43/2008 wef 31/01/2008]
-
-[S 62/2009 wef 01/07/2009]
-
-[S 43/2008 wef 31/01/2008]
-
 [S 78/2005 wef 16/02/2005]
-
-[S 43/2008 wef 31/01/2008]
-
-[S 62/2009 wef 01/07/2009]
-
-[S 43/2008 wef 31/01/2008]
-
-[S 62/2009 wef 01/07/2009]
-
-[S 43/2008 wef 31/01/2008]
-
-[S 62/2009 wef 01/07/2009]
-
-[S 43/2008 wef 31/01/2008]
-
-[S 62/2009 wef 01/07/2009]
-
-[S 43/2008 wef 31/01/2008]
 
 [S 441/2011 wef 01/09/2011]
 
-[S 373/2011 wef 1 July 2012]
+[S 373/2011 wef 01/07/2012]
 
 Part II
 
 General Exemptions
 
 Adhesives;
-
-Deleted by S 43/2008, wef 31/01/2008
 
 Anti-fouling compositions other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
@@ -3054,7 +3034,7 @@ Vascular plants and their seeds.
 
 Part III
 
-Deleted by S 43/2008, wef 31/01/2008.
+[Deleted by S 43/2008, wef 31/01/2008]
 
 Part IV
 
@@ -3066,7 +3046,7 @@ For Paints Containing Red Lead Oxide in which the Lead Content is more than 1% b
 
 The label shall contain the following words and symbol:
 
-"HARMFUL BY INHALATION AND IF SWALLOWED\. DANGER OF CUMULATIVE EFFECTS\. 
+“HARMFUL BY INHALATION AND IF SWALLOWED\. DANGER OF CUMULATIVE EFFECTS\. 
 
 When using, do not eat, drink or smoke.
 
@@ -3080,7 +3060,7 @@ If necessary, wear suitable respiratory protection.
 
 Contains Lead\. Should not be used on surfaces liable to be chewed or sucked by children\. 
 
-Keep out of reach of children\." 
+Keep out of reach of children\.” 
 
 The size of the symbol shall be at least equal to one-tenth of the area of a label and shall not in any case be less than 100 square millimetres.
 
@@ -3090,7 +3070,7 @@ For Paints Containing Red Lead Oxide in which the Lead Content is 0.06% to 1% by
 
 The label shall contain the following words:
 
-"Contains Lead\. Should not be used on surfaces liable to be chewed or sucked by children\. 
+“Contains Lead\. Should not be used on surfaces liable to be chewed or sucked by children\. 
 
 Do not breathe vapour/spray mist.
 
@@ -3204,7 +3184,7 @@ Environmental Protection and Management Act
 
 (CHAPTER 94A)
 
-This Legislative History is provided for the convenience of users of the Environmental Protection and Management Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Environmental Protection and Management Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3218,7 +3198,7 @@ This Legislative History is provided for the convenience of users of the Environ
 |3.|**G. N. No. S 605/2000—Environmental Pollution Control (Amendment Of Second Schedule) Order 2000**|
 ||Date of commencement|1 January 2001|
 |4.|**Act 4 of 2002—National Environment Agency Act 2002**|
-||(Consequential Amendments made by)||
+||(Consequential amendments made by)||
 ||Date of First Reading|3.5.2002|
 |||(Bill No. 13/2002 published on 4.5.2002)|
 ||Date of Second and Third Readings|24.5.2002|
@@ -3268,6 +3248,8 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 8/2012 published on 8 March 2012)|
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 September 2013|
+|20.|**G. N. No. S 374/2013—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2013**|
+||Date of commencement|1 October 2013|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
