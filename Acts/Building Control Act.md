@@ -1290,13 +1290,25 @@ Building occupancy
 
 ### Occupation of buildings
 
-12\.—(1) Except as otherwise provided in this Act, no person shall occupy, or permit or cause to be occupied, any building or any part thereof where any building works have been carried out unless the Commissioner of Building Control has issued a certificate of statutory completion in respect of that building or that part of the building.
+12\.—(1) Except as otherwise provided in this Act, no person shall occupy, or permit or cause to be occupied, any building where any building works have been carried out unless the Commissioner of Building Control has issued a certificate of statutory completion in respect of that building.
+
+[Act 22 of 2012 wef 28/10/2013]
+
+(1A) An application for a certificate of statutory completion in respect of any building shall be made to the Commissioner of Building Control in the prescribed manner and accompanied by such certificates or written approvals required to be obtained in respect of the building as may be prescribed.
+
+[Act 22 of 2012 wef 28/10/2013]
 
 (2) Nothing in subsection (1) shall prohibit —
 
-(a) the occupation by any person of any building or part thereof for the sole purpose of preventing any damage to the building or part thereof or any theft of any property therein; or
+(a) the occupation by any person of any building for the sole purpose of preventing any damage to the building or any theft of any property therein; or
+
+[Act 22 of 2012 wef 28/10/2013]
 
 (b) the occupation by any person of any building in respect of which a temporary occupation permit has been granted.
+
+(2A) An application for a temporary occupation permit in respect of any building shall be made to the Commissioner of Building Control in the prescribed manner and accompanied by such certificates or written approvals required to be obtained in respect of the building as may be prescribed.
+
+[Act 22 of 2012 wef 28/10/2013]
 
 (3) The Commissioner of Building Control may, on an application in the prescribed manner in relation to any building, grant a temporary occupation permit in respect of the building subject to such written directions as the Commissioner of Building Control may specify and, in particular, those written directions may —
 
@@ -1317,6 +1329,8 @@ Building occupancy
 (b) in respect of a continuing contravention or failure to comply, to an additional fine not exceeding $1,000 for each day or part thereof the contravention or failure to comply continues,
 
 and if the contravention or failure to comply continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention or failure to comply continues after conviction.
+
+[47/2007 wef 15/02/2008]
 
 Division 6 —
 
@@ -3920,7 +3934,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 |22.|**Act 22 of 2012—Building Control (Amendment) Act 2012**|
 ||Date of First Reading|13 August 2012 (Bill No. 20/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
-||Date of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
+||Dates of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
+|||28 October 2013 (section 5)|
 ## COMPARATIVE TABLE
 
 Building Control Act
