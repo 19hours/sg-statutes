@@ -8,15 +8,15 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Privileges, immunities and capacities of certain international organisations and their staffs](#Privileges-immunities-and-capacities-of-certain-international-organisations-and-their-staffs)
+- [2 Privileges, immunities and capacities of certain international organisations and their staff](#Privileges-immunities-and-capacities-of-certain-international-organisations-and-their-staff)
 
 - [3 Diplomatic immunities of representatives attending international conferences](#Diplomatic-immunities-of-representatives-attending-international-conferences)
 
-- [4 Defence](#Defence)
+- [4 Application to United Nations](#Application-to-United-Nations)
 
-- [5 Offences by owner and occupier](#Offences-by-owner-and-occupier)
+- [5 Reciprocal treatment](#Reciprocal-treatment)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**THE SCHEDULE Immunities and privileges**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -26,11 +26,11 @@
 
 (Original Enactment: Ordinance 19 of 1948)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st October 2013)
 
-An Act to make provisions as to the immunities, privileges and capacities of international organisations of which the Government and foreign governments are members; to confer immunities and privileges on the staffs of such organisations and representatives of member governments and in respect of premises and documents of such organisations; and for purposes connected with the matters aforesaid.
+An Act to make provisions as to the immunities, privileges and capacities of international organisations of which the Government and foreign governments are members; to confer immunities and privileges on the staff of such organisations and representatives of member governments and in respect of premises and documents of such organisations; and for purposes connected with the matters aforesaid.
 
 [28th July 1948]
 
@@ -38,7 +38,7 @@ An Act to make provisions as to the immunities, privileges and capacities of int
 
 1\. This Act may be cited as the International Organisations (Immunities and Privileges) Act.
 
-### Privileges, immunities and capacities of certain international organisations and their staffs
+### Privileges, immunities and capacities of certain international organisations and their staff
 
 2\.—(1) This section shall apply to any organisation declared by an order of the President to be an organisation of which the Government and the government or governments of one or more foreign sovereign Powers are members.
 
@@ -58,7 +58,7 @@ to such extent as may be specified in the order, the immunities and privileges s
 
 (c) confer upon such other classes of officers and employees of the organisation as may be specified in the order, to such extent as may be so specified, the immunities and privileges set out in Part III of the Schedule,
 
-and Part IV of the Schedule shall have effect for the purpose of extending to the staffs of such representatives and members as are mentioned in paragraph (b)(i) and to the families of officers of the organisation any immunities and privileges conferred on the representatives, members or officers under paragraph (b), except in so far as the operation of Part IV is excluded by the order conferring the immunities and privileges:
+and Part IV of the Schedule shall have effect for the purpose of extending to the staff of such representatives and members as are mentioned in paragraph (b)(i) and to the families of officers of the organisation any immunities and privileges conferred on the representatives, members or officers under paragraph (b), except in so far as the operation of Part IV is excluded by the order conferring the immunities and privileges:
 
 Provided that the order shall be so framed as to secure that there are not conferred on any person any immunities or privileges greater in extent than those which, at the time of the making of the order, are required to be conferred on that person in order to give effect to any international agreement in that behalf.
 
@@ -68,13 +68,13 @@ Provided that the order shall be so framed as to secure that there are not confe
 
 (b) shall cause any list compiled under this subsection to be published in theGazette; and
 
-(c) whenever any person ceases or begins to be entitled to the immunities and privileges to which any such list relates shall amend the list and cause a notice of the amendment or, if he thinks fit, an amended list to be published in theGazette.
+(c) whenever any person ceases or begins to be entitled to the immunities and privileges to which any such list relates, shall amend the list and cause a notice of the amendment or, if he thinks fit, an amended list to be published in theGazette.
 
 (4) Every list or notice published under subsection (3) shall state the date from which the list or amendment takes or took effect; and the fact that any person is or was included or not included at any time among the persons entitled to the immunities and privileges in question may, if a list of those persons has been so published, be conclusively proved by producing theGazettecontaining the list or, as the case may be, the last list taking effect before that time, together with theGazettes(if any) containing notices of the amendments taking effect before that time, and by showing that the name of that person is or was at that time included or not included in that list.
 
 ### Diplomatic immunities of representatives attending international conferences
 
-3\.—(1) Where a conference is held in Singapore and is attended by the representatives of the Government and the government or governments of one or more foreign sovereign Powers and it appears to the President that doubts may arise as to the extent to which the representatives of the foreign Powers and members of their official staffs are entitled to diplomatic immunities, he may —
+3\.—(1) Where a conference is held in Singapore and is attended by the representatives of the Government and the government or governments of one or more foreign sovereign Powers and it appears to the President that doubts may arise as to the extent to which the representatives of the foreign Powers and members of their official staff are entitled to diplomatic immunities, he may —
 
 (a) compile a list of the persons aforesaid who are entitled to such immunities, and cause that list to be published in theGazette; and
 
@@ -84,17 +84,23 @@ and every representative of a foreign Power who is for the time being included i
 
 (2) Every list or notice published under subsection (1) in relation to any conference shall include a statement of the date from which the list or amendment takes or took effect; and the fact that any person is or was included or not included at any time among the persons entitled to diplomatic immunities as representatives attending the conference or as members of the official staff of any such representative may, if a list of those persons has been so published, be conclusively proved by producing theGazettecontaining the list or, as the case may be, the list taking effect before that time, together with theGazettes(if any) containing notices of the amendments taking effect before that time, and by showing that the name of that person is or was at that time included or not included in that list.
 
-### Defence
+### Application to United Nations
 
-4\. In any proceedings for a contravention of section 3, it shall be a defence for the person charged to prove that the advertisement to which the proceedings relate was published in such circumstances that he did not know and had no reason to believe that he was taking part in the publication of the advertisement.
+4\. This Act in its application to the United Nations has effect subject to the following modifications:
 
-### Offences by owner and occupier
+(a) any reference to the governing body or any committee of the organisation shall be construed as referring to the General Assembly or any council or other organ of the United Nations;
 
-5\. Any person being the owner or occupier of any premises to which the public or any section of the public has access, on payment or otherwise, who knowingly permits or suffers such premises or any part thereof to be kept or used for the publication of any advertisement in contravention of section 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(b) the powers conferred by section 2(2) include power by order to confer on the judges and registrars of the International Court and on suitors to that Court and their agents, counsel and advocates, such immunities, privileges and facilities as may be required to give effect to any resolution of, or convention approved by, the General Assembly of the United Nations.
+
+### Reciprocal treatment
+
+5\. Nothing in sections 2, 3 and 4 shall be construed as precluding the President from declining to accord immunities or privileges to, or from withdrawing immunities or privileges from, nationals or representatives of any Power on the ground that that Power is failing to accord corresponding immunities or privileges to Singapore nationals or representatives.
 
 ## THE SCHEDULE
 
-Section 2(2).
+Section 2(2)
+
+Immunities and privileges
 
 Part I
 
@@ -106,9 +112,7 @@ Immunities and Privileges of the Organisation
 
 3\. The like exemption or relief from taxes and rates, other than import, export or excise duties on any article or articles, as may be accorded to a foreign sovereign Power.
 
-4. Exemption from import or excise duties on any article or articles directly imported by the organisation for its official use in Singapore, such exemption to be subject to compliance with such conditions as the Director-General of Customs may prescribe for the protection of the revenue.
-
-[4/2003 wef 01/04/2003]
+4\. Exemption from import or excise duties on any article or articles directly imported by the organisation for its official use in Singapore, such exemption to be subject to compliance with such conditions as the Director-General of Customs may prescribe for the protection of the revenue.
 
 5\. Exemption from prohibition and restrictions on importation or exportation in the case of goods directly imported or exported by the organisation for its official use and in the case of any publications of the organisation directly imported or exported by it.
 
@@ -138,7 +142,9 @@ Immunities and Privileges of Representative’s Staff and of High Officer’s Fa
 
 1\. Where any person is entitled to any such immunities and privileges as are mentioned in Part II of this Schedule as a representative on any organ of the organisation or a member of any committee of the organisation or of an organ thereof, his official staff accompanying him as such a representative or member shall also be entitled to those immunities and privileges to the same extent as the retinue of an envoy of a foreign sovereign Power accredited to the President is entitled to the immunities and privileges accorded to the envoy.
 
-2\. Where any person is entitled to any such immunities and privileges as are mentioned in Part II of this Schedule as an officer of the organisation, that person’s wife or husband and children under the age of 21 years shall also be entitled to those immunities and privileges to the same extent as the wife or husband and children of an envoy of a foreign sovereign Power accredited to the President are entitled to the immunities and privileges accorded to the envoy.
+2. Where any person is entitled to any such immunities and privileges as are mentioned in Part II of this Schedule as an officer of the organisation, that person’s wife or husband and children under the age of 21 years shall also be entitled to those immunities and privileges to the same extent as the wife or husband and children of an envoy of a foreign sovereign Power accredited to the President are entitled to the immunities and privileges accorded to the envoy.
+
+[4/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -146,7 +152,7 @@ International Organisations (Immunities and Privileges) Act
 
 (CHAPTER 145)
 
-This Legislative History is provided for the convenience of users of the International Organisations (Immunities and Privileges) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the International Organisations (Immunities and Privileges) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -165,15 +171,9 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 30/59 published on 30 September 1959)|
 ||Date of Second and Third Readings|11 November 1959|
 ||Date of commencement|20 November 1959|
-|4.|**S (N.S.) 178/59—Singapore Constitution (Modification of Laws)**|
-|**
-**|
-|**(No. 4) Order 1959**|
+|4.|**S (N.S.) 178/59—Singapore Constitution (Modification of Laws) (No. 4) Order 1959**|
 ||Date of commencement|20 November 1959|
-|5.|**S (N.S.) 179/59—Singapore Constitution (Modification of Laws)**|
-|**
-**|
-|**(No. 5) Order 1959**|
+|5.|**S (N.S.) 179/59—Singapore Constitution (Modification of Laws) (No. 5) Order 1959**|
 ||Date of commencement|20 November 1959|
 |6.|**1970 Revised Edition—International Organizations (Immunities and Privileges) Act (Chapter 309)**|
 ||Date of operation|31 August 1971|
@@ -184,3 +184,5 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 6/2003 published on 11 April 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|9.|**2013 Revised Edition—International Organisations (Immunities and Privileges) Act (Chapter 145)**|
+||Date of operation|31 October 2013|
