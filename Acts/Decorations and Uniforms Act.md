@@ -22,9 +22,9 @@
 
 (Original Enactment: Ordinance 5 of 1922)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st October 2013)
 
 An Act to prevent the unauthorised use of or wearing of certain orders, decorations, medals, emblems and uniforms and for purposes connected therewith.
 
@@ -84,7 +84,7 @@ Decorations and Uniforms Act
 
 (CHAPTER 74)
 
-This Legislative History is provided for the convenience of users of the Decorations and Uniforms Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Decorations and Uniforms Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -107,3 +107,5 @@ This Legislative History is provided for the convenience of users of the Decorat
 ||Date of operation|31 August 1971|
 |6.|**1985 Revised Edition—Decorations and Uniforms Act (Chapter 74)**|
 ||Date of operation|30 March 1987|
+|7.|**2013 Revised Edition—Decorations and Uniforms Act (Chapter 74)**|
+||Date of operation|31 October 2013|
