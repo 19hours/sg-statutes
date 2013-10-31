@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Establishment of a Science Centre Board](#Establishment-of-a-Science-Centre-Board)
+- [3 Establishment of Science Centre Board](#Establishment-of-Science-Centre-Board)
 
 - [4 Constitution of Board](#Constitution-of-Board)
 
@@ -48,8 +48,6 @@
 
 - [20 Regulations](#Regulations)
 
-- [21 (Repealed)](#Repealed)
-
 [**Legislative History**](#Legislative-History)
 
 # Science Centre Act
@@ -58,15 +56,15 @@
 
 (Original Enactment: Act 33 of 1970)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st October 2013)
 
-An Act to establish a Science Centre Board and for purposes incidental thereto.
+An Act to establish the Science Centre Board and for purposes incidental thereto.
 
 [25th September 1970: Sections 1 to 20 ;
 
-1st April 1972: Section 21]
+1st April 1972: Section 21 ]
 
 ### Short title
 
@@ -86,7 +84,7 @@ An Act to establish a Science Centre Board and for purposes incidental thereto.
 
 “Science Centre” means the Science Centre established under section 5.
 
-### Establishment of a Science Centre Board
+### Establishment of Science Centre Board
 
 3\.—(1) There is hereby established in accordance with the provisions of this Act a body corporate to be called the Science Centre Board.
 
@@ -174,11 +172,11 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 ### Members and officers of Board deemed to be public servants
 
-8\. All members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
+8\. All members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
 ### Directions by Minister
 
-9\.—(1) The Minister may give to the Board such directions, not inconsistent with the provisions of this Act, as he thinks fit, as to the exercise and performance by the Board of its powers, duties and functions under this Act, and the Board shall give effect to all such directions.
+9\.—(1) The Minister may give to the Board such directions, not inconsistent with the provisions of this Act, as he thinks fit, as to the exercise and performance by the Board of its powers, functions and duties under this Act, and the Board shall give effect to all such directions.
 
 (2) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
 
@@ -186,7 +184,7 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 10\.—(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board one or more committees consisting of persons who may or may not be members of the Board for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
 
-(2) The Board may, subject to such conditions or restriction as it thinks fit, delegate to any committee referred to in subsection (1) or the chairman thereof or any employee of the Board all or any of the powers, functions and duties by this Act vested in the Board, (other than the power to delegate conferred by this section) and any power, function or duty so delegated may be exercised or performed by that committee or the chairman thereof or employee in the name and on behalf of the Board.
+(2) The Board may, subject to such conditions or restriction as it thinks fit, delegate to any committee referred to in subsection (1) or the chairman thereof or any employee of the Board all or any of the powers, functions and duties by this Act vested in the Board (other than the power to delegate conferred by this section), and any power, function or duty so delegated may be exercised or performed by that committee or the chairman thereof or employee in the name and on behalf of the Board.
 
 (3) The Board may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of that power, function or duty under this section.
 
@@ -198,7 +196,7 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 ### Execution of documents
 
-12\. All deeds, documents or other instruments requiring the seal of the Board shall be sealed with the common seal of the Board in the presence of the Chairman or the Deputy Chairman and one other member of the Board, who shall sign every such deed, document or other instrument to which the common seal is affixed and their signing shall be sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Board.
+12\. All deeds, documents and other instruments requiring the seal of the Board shall be sealed with the common seal of the Board in the presence of the Chairman or the Deputy Chairman and one other member of the Board, who shall sign every such deed, document and other instrument to which the common seal is affixed, and their signing shall be sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Board.
 
 ### Grants to Board
 
@@ -208,7 +206,7 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Science Centre Fund
 
@@ -232,7 +230,7 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 (2) The accounts of the Board shall be audited by a qualified auditor appointed annually by the Board with the approval of the Minister and the auditor shall make a report on the accounts examined by him.
 
-(3) As soon as the accounts of the Board have been audited in accordance with subsection (2) a copy of the statement of accounts together with a copy of any report made by the auditor shall be submitted to the Minister, who shall present to Parliament a copy of every such statement and report.
+(3) As soon as the accounts of the Board have been audited in accordance with subsection (2), a copy of the statement of accounts together with a copy of any report made by the auditor shall be submitted to the Minister, who shall present to Parliament a copy of every such statement and report.
 
 ### Annual estimates
 
@@ -242,7 +240,7 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 19\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Regulations
 
@@ -261,14 +259,6 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 (a) may prescribe that any act or omission in contravention thereof is an offence; and
 
 (b) may provide for the imposition of a penalty not exceeding a fine of $1,000 for such offence.
-
-[22\*
-
-\*Sections 20 and 21 in the 1970 Edition were repealed by Act 35/73.
-
-Vesting of assets of National Museum in Board
-
-21\. [Repealed by Act 13/93 wef 01/08/1993 wef 01/08/1993 videS 313/93]
 
 ## LEGISLATIVE HISTORY
 
@@ -312,3 +302,5 @@ This Legislative History is provided for the convenience of users of the Science
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|8.|**2013 Revised Edition—Science Centre Act (Chapter 286)**|
+||Date of operation|31 October 2013|
