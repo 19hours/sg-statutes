@@ -12,7 +12,7 @@
 
 - [3 Appointment of Licensing Officer](#Appointment-of-Licensing-Officer)
 
-- [4 Prohibition on quarrying without a licence](#Prohibition-on-quarrying-without-a-licence)
+- [4 Prohibition on quarrying without licence](#Prohibition-on-quarrying-without-licence)
 
 - [5 Licences to be discretionary](#Licences-to-be-discretionary)
 
@@ -62,9 +62,9 @@
 
 (Original Enactment: Act 44 of 1970)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st October 2013)
 
 An Act for the licensing and control of sand and granite quarries and for matters incidental thereto.
 
@@ -78,7 +78,7 @@ An Act for the licensing and control of sand and granite quarries and for matter
 
 2\. In this Act —
 
-“granite quarry” means any land from which granite blocks, gravel, stones and overburden are extracted by blasting, sorting, breaking, loading and transporting whether the processes are executed by manual labour or mechanical means;
+“granite quarry” means any land from which granite blocks, gravel, stones and overburden are extracted by blasting, sorting, breaking, loading and transporting, whether the processes are executed by manual labour or mechanical means;
 
 “licence” means a licence granted under section 5;
 
@@ -90,29 +90,29 @@ An Act for the licensing and control of sand and granite quarries and for matter
 
 ### Appointment of Licensing Officer
 
-3\. The Minister may, by notification in theGazette, appoint a officer to be the Licensing Officer for the purposes of this Act.
+3\. The Minister may, by notification in theGazette, appoint an officer to be the Licensing Officer for the purposes of this Act.
 
-[4/99 wef 01/04/1999]
+[4/99]
 
-### Prohibition on quarrying without a licence
+### Prohibition on quarrying without licence
 
-4\.—(1) No person shall, on or after the commencement of this Act, use or manage any land for the purposes of a sand or granite quarry without a licence from the Licensing Officer authorising him to do so.
+4\.—(1) No person shall, on or after 15th December 1971, use or manage any land for the purposes of a sand or granite quarry without a licence from the Licensing Officer authorising him to do so.
 
-(2) Any person who uses or manages any land for the purposes of a sand or granite quarry without a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and in the case of a continuing offence to a fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+(2) Any person who uses or manages any land for the purposes of a sand or granite quarry without a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 (3) In any prosecution for an offence under this section —
 
-(a) the existence in or on any land of any apparatus or accessories for the getting, dressing or preparation for the sale, or otherwise of sand shall be prima facie evidence that the person owning or having the control of such apparatus or accessories has been using or managing the land for the purposes of a sand quarry; and
+(a) the existence in or on any land of any apparatus or accessories for the getting, dressing or preparation for the sale or otherwise of sand shall be prima facie evidence that the person owning or having the control of such apparatus or accessories has been using or managing the land for the purposes of a sand quarry; and
 
 (b) the existence in or on any land of any mechanical equipment or other like thing used for the purpose of extracting granite blocks, gravel, stones and overburden by blasting, sorting, breaking, loading and transporting shall be prima facie evidence that the person owning or having the control of that mechanical equipment or other like thing has been using or managing the land for the purposes of a granite quarry.
 
 ### Licences to be discretionary
 
-5\.—(1) The Licensing Officer may at his discretion grant, renew or refuse any license in pursuance of this Act or any regulations made thereunder.
+5\.—(1) The Licensing Officer may at his discretion grant, renew or refuse any licence in pursuance of this Act or any regulations made thereunder.
 
-(2) Licenses in pursuance of this Act or any regulations made thereunder may be granted, renewed or refused without any reason for such grant, renewal or refusal being assigned therefor and may be granted or renewed subject to such restrictions and conditions as the Licensing Officer may think fit and shall be subject to suspension or revocation at any time without compensation and without notice by the Licensing Officer upon breach of any restriction or condition subject to which it was granted.
+(2) Licences in pursuance of this Act or any regulations made thereunder may be granted, renewed or refused without any reason for such grant, renewal or refusal being assigned therefor and may be granted or renewed subject to such restrictions and conditions as the Licensing Officer may think fit and shall be subject to suspension or revocation at any time without compensation and without notice by the Licensing Officer upon breach of any restriction or condition subject to which it was granted.
 
-(3) The Licensing Officer may require any applicant for a licence to furnish such information as the Licensing Officer may reasonably require for a full and proper consideration of the application and in the event of refusal to furnish such information shall refuse to grant or renew the licence.
+(3) The Licensing Officer may require any applicant for a licence to furnish such information as the Licensing Officer may reasonably require for a full and proper consideration of the application and, in the event of refusal to furnish such information, shall refuse to grant or renew the licence.
 
 (4) Except as otherwise expressly provided in the licence, any licence granted or renewed in pursuance of this Act or any regulations made thereunder may be for such period not exceeding 12 months as the Licensing Officer thinks fit.
 
@@ -196,11 +196,11 @@ An Act for the licensing and control of sand and granite quarries and for matter
 
 ### Fencing of sand and granite quarries
 
-14\. Where any disused sand or granite quarry is dangerous to the public, it shall be kept reasonably fenced for the prevention of accidents, and if it is not so kept, the licensee of the sand or granite quarry or if there is no such licensee the owner of the land in which the sand or granite quarry lies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in the case of a continuing offence to a fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+14\. Where any disused sand or granite quarry is dangerous to the public, it shall be kept reasonably fenced for the prevention of accidents, and if it is not so kept, the licensee of the sand or granite quarry or if there is no such licensee the owner of the land in which the sand or granite quarry lies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
 ### Power to enter upon premises for purposes of this Act
 
-15\. The Licensing Officer or any officer or employee duly authorised by the Licensing Officer in writing in that behalf may enter any premises which are used or which the officer or employee has reasonable cause to believe to be used as a sand or granite quarry for the purpose of making any survey or inspection or of executing any work authorised by this Act to be executed by him without being liable to any legal proceedings or molestation whatsoever on account of such entry or of anything done in any part of those premises in pursuance of this Act.
+15\. The Licensing Officer or any officer or employee duly authorised by the Licensing Officer in writing in that behalf may enter any premises which are used or which the officer or employee has reasonable cause to believe are to be used as a sand or granite quarry for the purpose of making any survey or inspection or of executing any work authorised by this Act to be executed by him without being liable to any legal proceedings or molestation whatsoever on account of such entry or of anything done in any part of those premises in pursuance of this Act.
 
 ### Penalty for obstructing officer in his duty
 
@@ -214,7 +214,7 @@ An Act for the licensing and control of sand and granite quarries and for matter
 
 ### Penalty for offences not otherwise provided for
 
-18\. Every omission or neglect to comply with and every act done or attempted to be done contrary to the provisions of this Act or any breach of the conditions or restrictions subject to which or upon which any licence is granted under this Act shall be an offence under this Act and in respect of any such offence for which no penalty is expressly provided the offender shall be liable on conviction to a fine not exceeding $1,000 and in the case of a continuing offence to a fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+18\. Every omission or neglect to comply with and every act done or attempted to be done contrary to the provisions of this Act or any breach of the conditions or restrictions subject to which or upon which any licence is granted under this Act shall be an offence under this Act and in respect of any such offence for which no penalty is expressly provided the offender shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
 ### Attempts and abetments
 
@@ -236,7 +236,7 @@ Provided that no person shall be punished twice for the same offence.
 
 ### Costs and expenses to be determined by Magistrate’s Court
 
-22\.—(1) Except as herein otherwise provided, in all cases where costs or expenses are by this Act directed to be paid the amount and any question of liability shall, in the case of dispute or failure to pay, be summarily ascertained and determined by a Magistrate’s Court.
+22\.—(1) Except as herein otherwise provided, in all cases where costs or expenses are by this Act directed to be paid, the amount and any question of liability shall, in the case of dispute or failure to pay, be summarily ascertained and determined by a Magistrate’s Court.
 
 (2) If the amount of costs or expenses is not paid by the person liable to pay it within 7 days after demand, the amount may be reported to a Magistrate’s Court and recovered in the same way as if it were a fine imposed by a Magistrate’s Court.
 
@@ -258,7 +258,7 @@ Sand and Granite Quarries Act
 
 (CHAPTER 284)
 
-This Legislative History is provided for the convenience of users of the Sand and Granite Quarries Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sand and Granite Quarries Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -275,3 +275,5 @@ This Legislative History is provided for the convenience of users of the Sand an
 |||(Bill No. 51/98 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|1 April 1999|
+|4.|**2013 Revised Edition—Sand and Granite Quarries Act (Chapter 284)**|
+||Date of operation|31 October 2013|
