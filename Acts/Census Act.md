@@ -46,7 +46,7 @@
 
 - [20 General offences](#General-offences)
 
-- [21 Impersonation of a census officer](#Impersonation-of-a-census-officer)
+- [21 Impersonation of census officer](#Impersonation-of-census-officer)
 
 - [22 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
@@ -58,7 +58,7 @@
 
 - [26 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE Competent Authorities**](#FIRST-SCHEDULE-Competent-Authorities)
+[**FIRST SCHEDULE Competent authorities**](#FIRST-SCHEDULE-Competent-authorities)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
@@ -70,9 +70,9 @@
 
 (Original Enactment: Act 47 of 1973)
 
-REVISED EDITION 1991
+REVISED EDITION 2013
 
-(1st March 1991)
+(31st October 2013)
 
 An Act relating to the taking of a census in Singapore from time to time.
 
@@ -86,11 +86,9 @@ An Act relating to the taking of a census in Singapore from time to time.
 
 2\. In this Act, unless the context otherwise requires —
 
-“census officer” means any person appointed under section 4, 5, or 6;
+“census officer” means any person appointed under section 4, 5 or 6;
 
 “competent authority” means any public officer or any statutory body established by or under any written law or any officer thereof, being under any obligation imposed by any written law to observe secrecy in respect of any particulars or information obtained by the public officer or the statutory body or officer thereof in the administration of that written law;
-
-[8/90]
 
 “dwelling-house” means a building, erection or tenement, whether permanent or temporary, which is wholly or partly used for the purpose of human habitation and includes any ship or vessel in Singapore;
 
@@ -98,7 +96,7 @@ An Act relating to the taking of a census in Singapore from time to time.
 
 “Superintendent” means the Superintendent of Census appointed under section 4.
 
-[20/86]
+[20/86; 8/90]
 
 ### Power to direct census to be taken
 
@@ -116,7 +114,7 @@ An Act relating to the taking of a census in Singapore from time to time.
 
 ### Appointment of Deputy Superintendents and Assistant Superintendents of Census
 
-5\. The Minister may appoint for specified areas such Deputy Superintendents and such Assistant Superintendents of Census, and assign such functions to them as he considers necessary for the purpose of any census directed to be taken under the provisions of this Act.
+5\. The Minister may appoint for specified areas such Deputy Superintendents and Assistant Superintendents of Census, and assign such functions to them as he considers necessary for the purpose of any census directed to be taken under the provisions of this Act.
 
 ### Appointment of supervisors and enumerators
 
@@ -124,7 +122,7 @@ An Act relating to the taking of a census in Singapore from time to time.
 
 ### Census officers
 
-7\.—(1) Every census officer shall be deemed to be a public servant within the meaning of the Penal Code. (Cap. 224).
+7\.—(1) Every census officer shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
 (2) Every census officer appointed under section 6 shall carry with him at all times when on duty the letter of appointment furnished to him under that section and shall produce the letter for inspection by any person who may in good faith question his authority as a census officer.
 
@@ -142,7 +140,7 @@ An Act relating to the taking of a census in Singapore from time to time.
 
 (2) The occupier shall, within the time mentioned therein, fill in the schedule, or cause it to be filled in, in the manner prescribed and shall thereafter deliver the schedule to an enumerator or a supervisor appointed for the area in which the dwelling-house or other premises is situated or to any other person as the Superintendent may direct.
 
-(3) If the occupier is unable either to fill in the schedule in the prescribed manner or cause it to be filled in, he shall preserve it in the condition in which he received it and shall deliver it to the enumerator, supervisor or other person, as the case may be, who shall, after exercising the powers conferred upon him by section 9, fill in the schedule in the prescribed manner.
+(3) If the occupier is unable either to fill in the schedule or cause it to be filled in, in the manner prescribed, he shall preserve it in the condition in which he received it and shall deliver it to the enumerator, supervisor or other person, as the case may be, who shall, after exercising the powers conferred upon him by section 9, fill in the schedule in the manner prescribed.
 
 (4) At any time before or within one year (or such longer period as may be prescribed) after the date prescribed for the taking of a census, if directed by the Superintendent to do so, any census officer may visit any dwelling-house or other premises within the area for which he is appointed, for the purpose of checking any information obtained or of obtaining further information for the purposes of the census, and may, if satisfied that a schedule is incorrect in any material particular, make any necessary correction thereon.
 
@@ -150,9 +148,9 @@ An Act relating to the taking of a census in Singapore from time to time.
 
 11\.—(1) The Superintendent may deliver or cause to be delivered to —
 
-(a) every person in charge of a hospital, workhouse, prison, police station, reformatory, lock-up, or of any public, charitable, religious or educational institution; and
+(a) every person in charge of a hospital, workhouse, prison, police station, reformatory or lock-up, or of any public, charitable, religious or educational institution; and
 
-(b) every keeper, secretary or manager of a hotel, boarding-house, lodging-house or club,
+(b) every keeper, secretary or manager of a hotel, boarding‑house, lodging-house or club,
 
 a schedule to be filled in in respect of the persons who at the time of the taking of a census are in or upon such premises.
 
@@ -178,8 +176,6 @@ and shall include that information in the abstracts to be made by him as provide
 
 [8/90]
 
-[12A
-
 ### Certain employers may be required to be enumerators
 
 14\.—(1) Upon receipt of a written requisition in the prescribed form signed by the Superintendent, every employer of —
@@ -192,19 +188,13 @@ shall be bound to act as an enumerator in respect of all those employees.
 
 (2) Every such employer shall cause to be filled in in respect of his employees any schedule delivered to him for the purpose, and shall deliver the schedule filled in to the best of his knowledge and belief to the supervisor appointed for the area within which the premises are situated or to such other person as the Superintendent may direct.
 
-[13
-
 ### Government employees to assist in taking census
 
 15\. All Government employees shall be bound to assist the work of taking the census when so required by the Superintendent.
 
-[14
-
 ### Schedules and returns to be delivered by enumerator to supervisor and forwarded to Superintendent
 
 16\. Every enumerator shall deliver to the supervisor of the area for which he is appointed all schedules and all such returns as may be required by the Superintendent on the day or days to be appointed for that purpose by the Deputy or Assistant Superintendent for the district or area, and it shall be the duty of the supervisor to verify them and to transmit them forthwith to the Deputy or Assistant Superintendent who shall, upon receipt of the schedules and returns, immediately forward them to the Superintendent.
-
-[15
 
 ### Release of census information
 
@@ -224,8 +214,6 @@ shall be bound to act as an enumerator in respect of all those employees.
 
 (4) It shall be the duty of the Minister responsible for the Government department or ministry in possession of such particulars to have due regard to the circumstances of various trades and industries and, in particular, to the importance of avoiding the disclosure in any return of any trade secret or of trading profit, or of any other information the disclosure of which would be likely to tend to the prejudice of the person furnishing the return.
 
-[16
-
 ### Disclosure of census information
 
 18\.—(1) Notwithstanding section 17, the Superintendent or any census officer authorised by him in writing may, on the written request of a responsible officer of any public authority specified in the Second Schedule, disclose on a confidential basis any particulars or information relating to any individual person obtained under the provisions of this Act to the public authority if —
@@ -234,7 +222,7 @@ shall be bound to act as an enumerator in respect of all those employees.
 
 (b) in any case where the particulars or information have been obtained from a competent authority under section 13, that competent authority consents in writing to such disclosure.
 
-(2) The Superintendent or any census officer authorised by him in writing shall not be guilty of any offence under any written law or of any breach of confidence by virtue merely of his disclosing any particulars or information in accordance with this section.
+(2) The Superintendent or any census officer authorised by him in writing shall not be guilty of any offence under any written law or of any breach of confidence by virtue merely of the Superintendent or the census officer (as the case may be) disclosing any particulars or information in accordance with this section.
 
 (3) No person employed in or by a public authority to which any particulars or information have been disclosed under subsection (1) shall use any such particulars or information for the purpose of enforcing any obligation or liability applicable under any written law.
 
@@ -248,11 +236,9 @@ shall be bound to act as an enumerator in respect of all those employees.
 
 [8/90]
 
-[16A
-
 ### Offences by census officers
 
-19\. Any census officer and any person employed by the Superintendent in the preparation of reports and abstracts who —
+19\. Any census officer or any person employed by the Superintendent in the preparation of reports and abstracts who —
 
 (a) without sufficient cause, refuses or neglects to comply with any instructions or requisitions addressed to him by the Superintendent, or fails to use reasonable diligence in performing any duty imposed on him;
 
@@ -267,8 +253,6 @@ shall be bound to act as an enumerator in respect of all those employees.
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both.
 
 [8/90]
-
-[17
 
 ### General offences
 
@@ -290,9 +274,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [8/90]
 
-[18
-
-### Impersonation of a census officer
+### Impersonation of census officer
 
 21\. Any person who impersonates a census officer shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months.
 
@@ -300,15 +282,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 22\. No prosecution shall be instituted under this Act without the consent of the Public Prosecutor.
 
-[15/2010 wef 02/01/2011]
-
-[20
+[15/2010]
 
 ### Census records not admissible in evidence
 
 23\. No entry in any book, register or record made by a census officer or by any other person in the discharge of his duty under this Act shall be admissible as evidence in any civil or criminal proceedings, except in a prosecution instituted under this Act in respect of any entry against the person who made it or caused it to be made.
-
-[21
 
 ### Rules
 
@@ -322,37 +300,31 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) generally to give effect to the provisions and purposes of this Act.
 
-[22
-
 ### Amendment of Schedules
 
-25\.—(1) Subject to subsection (2), the Minister may, by notification in theGazette, amend the First or Second Schedule.
+25\.—(1) Subject to subsection (2), the Minister may by notification in theGazetteamend the First or Second Schedule.
 
 (2) The Minister shall not insert or delete and substitute any written law in the First Schedule without the approval of the Minister responsible for the competent authority administering that written law.
-
-[22A
 
 [8/90]
 
 ### Transitional provision
 
-26\. All information collected pursuant to the repealed Census Act (Cap. 297, 1997 Ed.) shall be subject to the same safeguards relating to disclosure as are provided by this Act as if that information was collected under this Act.
-
-[23
+26\. All information collected pursuant to the repealed Census Act (Cap. 297, 1970 Ed.) shall be subject to the same safeguards relating to disclosure as are provided by this Act as if that information was collected under this Act.
 
 FIRST SCHEDULE
 
 Section 13
 
-Competent Authorities
+Competent authorities
 
 First column
 
 Second column
 
-Central Provident Fund Board
+1. Central Provident Fund Board
 
-Central Provident Fund Act (Chapter 36)
+Central Provident Fund Act (Cap. 36).
 
 [8/90]
 
@@ -360,7 +332,7 @@ SECOND SCHEDULE
 
 Section 18
 
-Central Provident Fund Board.
+1. Central Provident Fund Board.
 
 [8/90]
 
@@ -370,7 +342,7 @@ Census Act
 
 (CHAPTER 35)
 
-This Legislative History is provided for the convenience of users of the Census Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Census Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -399,3 +371,5 @@ This Legislative History is provided for the convenience of users of the Census 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|7.|**2013 Revised Edition—Census Act (Chapter 35)**|
+||Date of operation|31 October 2013|
