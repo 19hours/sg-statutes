@@ -34,9 +34,9 @@
 
 - [11 Fees to be paid in respect of branches of chit fund companies](#Fees-to-be-paid-in-respect-of-branches-of-chit-fund-companies)
 
-- [12 Limitation on mergers, etc., of a chit fund company](#Limitation-on-mergers-etc-of-a-chit-fund-company)
+- [12 Limitation on mergers, etc., of chit fund company](#Limitation-on-mergers-etc-of-chit-fund-company)
 
-- [13 Amendment of constitution of a chit fund company](#Amendment-of-constitution-of-a-chit-fund-company)
+- [13 Amendment of constitution of chit fund company](#Amendment-of-constitution-of-chit-fund-company)
 
 - [14 Revocation of licence](#Revocation-of-licence)
 
@@ -50,9 +50,9 @@
 
 - [18 Prohibition of chit funds conducted in contravention of this Act](#Prohibition-of-chit-funds-conducted-in-contravention-of-this-Act)
 
-- [19 When scheme or arrangement deemed to be a chit fund](#When-scheme-or-arrangement-deemed-to-be-a-chit-fund)
+- [19 When scheme or arrangement deemed to be chit fund](#When-scheme-or-arrangement-deemed-to-be-chit-fund)
 
-- [20 A scheme or arrangement which is deemed only to partake of the nature of a chit fund prohibited](#A-scheme-or-arrangement-which-is-deemed-only-to-partake-of-the-nature-of-a-chit-fund-prohibited)
+- [20 Scheme or arrangement which is deemed only to partake of nature of chit fund prohibited](#Scheme-or-arrangement-which-is-deemed-only-to-partake-of-nature-of-chit-fund-prohibited)
 
 - [21 Security](#Security)
 
@@ -62,7 +62,7 @@
 
 - [23 Formation of chit funds](#Formation-of-chit-funds)
 
-- [24 Essential terms and conditions of a chit fund](#Essential-terms-and-conditions-of-a-chit-fund)
+- [24 Essential terms and conditions of chit fund](#Essential-terms-and-conditions-of-chit-fund)
 
 - [25 Duty of chit fund company to acknowledge subscriber’s rights](#Duty-of-chit-fund-company-to-acknowledge-subscriber’s-rights)
 
@@ -72,9 +72,9 @@
 
 - [27 Minutes of meeting](#Minutes-of-meeting)
 
-- [28 Alteration of the agreement](#Alteration-of-the-agreement)
+- [28 Alteration of agreement](#Alteration-of-agreement)
 
-- [29 Receipts for contributions paid and entry of payments in pass-book](#Receipts-for-contributions-paid-and-entry-of-payments-in-pass-book)
+- [29 Receipts for contributions paid and entry of payments in pass‑book](#Receipts-for-contributions-paid-and-entry-of-payments-in-pass‑book)
 
 - [30 Production of guarantors by purchaser of chit fund amount](#Production-of-guarantors-by-purchaser-of-chit-fund-amount)
 
@@ -96,7 +96,7 @@
 
 - [39 Prohibition of bid or tender by chit fund company](#Prohibition-of-bid-or-tender-by-chit-fund-company)
 
-- [40 Termination of a chit fund](#Termination-of-a-chit-fund)
+- [40 Termination of chit fund](#Termination-of-chit-fund)
 
 - [41 Sale by sealed tender as alternative to auction](#Sale-by-sealed-tender-as-alternative-to-auction)
 
@@ -120,7 +120,7 @@
 
 - [49 Inspection and investigation of chit fund companies and production of books, etc.](#Inspection-and-investigation-of-chit-fund-companies-and-production-of-books-etc)
 
-- [50 Powers of Authority to issue orders after an inspection](#Powers-of-Authority-to-issue-orders-after-an-inspection)
+- [50 Powers of Authority to issue orders after inspection](#Powers-of-Authority-to-issue-orders-after-inspection)
 
 [**Part VII MISCELLANEOUS PROVISIONS**](#Part-VII)
 
@@ -154,9 +154,9 @@
 
 (Original Enactment: Act 28 of 1971)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st October 2013)
 
 An Act to provide for the licensing and regulation of chit funds.
 
@@ -176,11 +176,9 @@ PRELIMINARY
 
 “agreement” means the document which contains the terms and conditions agreed to and adopted by the subscribers and the chit fund company;
 
-“Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act [Cap. 186]\*;
+“Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
-\*References formerly in this Act to the Commissioner of Chit Funds are here, in accordance with section 21(4) of the Monetary Authority of Singapore Act (Cap. 186), replaced by references to the Authority. See also G.N. No. S 247/73.
-
-“chit fund” means a scheme or arrangement based wholly on the terms and conditions set out in section 24 or the regulations made thereunder or any scheme or arrangement that is deemed to be a chit fund under section 19 but does not include any scheme or arrangement which only partakes of the nature of a chit fund within the meaning of section 20;
+“chit fund” means a scheme or an arrangement based wholly on the terms and conditions set out in section 24 or the regulations made thereunder or any scheme or arrangement that is deemed to be a chit fund under section 19 but does not include any scheme or arrangement which only partakes of the nature of a chit fund within the meaning of section 20;
 
 “chit fund amount” means the pool or the aggregate of the contributions payable on any specified day or in respect of any specified interval;
 
@@ -212,7 +210,7 @@ MONETARY AUTHORITY OF SINGAPORE TO ADMINISTER ACT
 
 (2) The Authority may authorise or appoint any person to assist the Authority in the exercise of its functions and duties under this Act, either generally or in any particular way.
 
-(3) Any person authorised or appointed by the Authority pursuant to subsection (3) shall be deemed to be a public servant within the meaning of the Penal Code (Cap 224).
+(3) Any person authorised or appointed by the Authority pursuant to subsection (2) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
 ## PART III
 
@@ -222,17 +220,17 @@ LICENSING OF CHIT FUND COMPANIES
 
 4\.—(1) No chit fund business shall be transacted in Singapore except by a public company which is in possession of a valid licence granted under this Act by the Authority with the approval of the Minister authorising it to conduct chit fund business in accordance with the provisions of this Act.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both and in the case of a continuing offence to a further fine of $1,000 for every day during which the offence continues after conviction.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
 ### Use of words “chit” and “chit fund”
 
-5\.—(1) No person or body of persons, whether incorporated or not, other than a chit fund company licensed under this Act shall, without the written consent of the Authority, use the word “chit” or the words “chit fund” or any of its or their derivatives in any language, or any other word indicating it transacts chit fund business, in the name, description or title under which that person or body of persons is transacting business in Singapore or make or continue to make any representation to that effect in any bill head, letter paper, notice, advertisement or in any other manner whatsoever.
+5\.—(1) No person or body of persons, whether incorporated or not, other than a chit fund company licensed under this Act shall, without the written consent of the Authority, use the word “chit” or the words “chit fund” or any of its or their derivatives in any language, or any other word indicating that it transacts chit fund business, in the name, description or title under which that person or body of persons is transacting business in Singapore, or make or continue to make any representation to that effect in any bill head, letter paper, notice, advertisement or in any other manner whatsoever.
 
 (2) For the purposes of subsection (1), the words “HWEI”, “KUTU” and “TONTINE” or any other word in any other language having the same meaning or being to the like intent shall be deemed to be derivatives of the word “chit”.
 
 (3) Nothing in this section shall prohibit an association of chit fund companies formed for the protection of common interests from using the word “chit” or the words “chit fund” or any of its or their derivatives in any language as a part of its name or description of its activities.
 
-(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both and in the case of a continuing offence to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
 ### Examination of persons suspected of transacting chit fund business
 
@@ -258,17 +256,17 @@ LICENSING OF CHIT FUND COMPANIES
 
 (d) the objects of the company as disclosed in its memorandum of association;
 
-(e) the convenience and needs of the community to be served;
+(e) the convenience and needs of the community to be served; and
 
-(f) whether the public interest will be served by granting of a licence.
+(f) whether the public interest will be served by the granting of a licence.
 
-(3) The Authority, with the approval of the Minister, may grant a licence, with or without conditions, or refuse to grant a licence.
+(3) The Authority may, with the approval of the Minister, grant a licence, with or without conditions, or refuse to grant a licence.
 
 (4) The Authority may at any time vary or revoke any existing conditions of a licence or impose conditions or additional conditions thereto.
 
 (5) Where a licence is subject to conditions, the chit fund company shall comply with those conditions.
 
-(6) Any chit fund company which fails to comply with any of the conditions of its licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and in the case of a continuing offence to a further fine of $1,000 for every day during which the offence continues after conviction.
+(6) Any chit fund company which fails to comply with any of the conditions of its licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
 ### Licence fees
 
@@ -300,7 +298,7 @@ and its decision shall be final.
 
 (3) No chit fund company incorporated in Singapore shall open a new branch, agency or office in any place outside Singapore.
 
-(4) Any chit fund company which contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and in the case of a continuing offence to a further fine of $100 for every day during which the offence continues after conviction.
+(4) Any chit fund company which contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a continuing offence, to a further fine of $100 for every day during which the offence continues after conviction.
 
 ### Fees to be paid in respect of branches of chit fund companies
 
@@ -308,9 +306,9 @@ and its decision shall be final.
 
 (2) The manner of payment shall be as specified by the Authority.
 
-### Limitation on mergers, etc., of a chit fund company
+### Limitation on mergers, etc., of chit fund company
 
-12\.—(1) No chit fund company incorporated in Singapore shall be merged or consolidated with or be taken over by another company or companies or their subsidiaries or related companies as described in section 6 of the Companies Act [Cap. 50] (whether that company is or those companies are incorporated in Singapore or outside Singapore) nor shall any such company or companies acquire an interest exceeding 20% of the voting share capital of a chit fund company without application to, and approval by, the Authority.
+12\.—(1) No chit fund company incorporated in Singapore shall be merged or consolidated with or be taken over by another company or companies or their subsidiaries or related companies as described in section 6 of the Companies Act (Cap. 50) (whether that company is or those companies are incorporated in Singapore or outside Singapore) nor shall any such company or companies acquire an interest exceeding 20% of the voting share capital of a chit fund company without application to, and approval by, the Authority.
 
 (2) In considering such an application, the Authority shall have power to call for such information as it may require.
 
@@ -322,7 +320,7 @@ and its decision shall be final.
 
 (4) Any chit fund company whose application has been refused by the Authority may within one month of being notified of the refusal by the Authority appeal against its refusal to the Minister whose decision shall be final.
 
-### Amendment of constitution of a chit fund company
+### Amendment of constitution of chit fund company
 
 13\.—(1) Every chit fund company in Singapore shall, prior to the making of any amendment or alteration in its memorandum of association or articles of association, or other instrument under which it is incorporated, furnish to the Authority for its approval particulars in writing (verified by a statutory declaration made by a senior officer of the chit fund company) of the proposed amendment or alteration.
 
@@ -334,7 +332,7 @@ and its decision shall be final.
 
 (c) refuse to approve the proposed alteration.
 
-(3) If the Authority approves the proposed alteration with modification, the chit fund company shall adopt the proposed alteration as so modified or not proceed with the proposed alteration and if the Authority refuses to approve the proposed alteration it may request the chit fund company to withdraw the proposed alteration and the chit fund company shall comply with the Authority’s request.
+(3) If the Authority approves the proposed alteration with modification, the chit fund company shall adopt the proposed alteration as so modified or not proceed with the proposed alteration, and if the Authority refuses to approve the proposed alteration, it may request the chit fund company to withdraw the proposed alteration and the chit fund company shall comply with the Authority’s request.
 
 (4) Any chit fund company which fails to comply with the requirements of subsection (1) or with any request by the Authority made under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300 for every day during which the default continues after conviction.
 
@@ -374,7 +372,7 @@ and its decision shall be final.
 
 ### Exhibition of licence
 
-16\. The licence issued under section 7(3), or a certified copy thereof, shall, so long as it remains valid, be exhibited in a conspicuous position at the principal place of business of the chit fund company and in the event of revocation under section 14, the licence and all certified copies thereof shall be surrendered forthwith to the Authority.
+16\. Any licence issued under section 7(3), or a certified copy thereof, shall, so long as it remains valid, be exhibited in a conspicuous position at the principal place of business of the chit fund company and in the event of its revocation under section 14, the licence and all certified copies thereof shall be surrendered forthwith to the Authority.
 
 ### Publication of list of companies
 
@@ -388,11 +386,11 @@ CHIT FUNDS — GENERAL PROVISIONS
 
 18\. Any person who promotes or conducts, or aids, assists, or takes any part in the promotion or conduct of any chit fund otherwise than in accordance with the provisions of this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-### When scheme or arrangement deemed to be a chit fund
+### When scheme or arrangement deemed to be chit fund
 
 19\. Any scheme or arrangement which is based wholly on the essential terms and conditions set out in section 24 or has all the attributes and incidents of a chit fund within the scope and intent of that section shall, notwithstanding that it is called by any other name, be deemed to be a chit fund for the purposes of this Act.
 
-### A scheme or arrangement which is deemed only to partake of the nature of a chit fund prohibited
+### Scheme or arrangement which is deemed only to partake of nature of chit fund prohibited
 
 20\.—(1) Every scheme or arrangement by whatever name called which is not based wholly on the essential terms and conditions set out in section 24 or which is based on terms and conditions inconsistent wholly or in part with those essential terms and conditions shall, for the purposes of this Act, be deemed only to partake of the nature of a chit fund.
 
@@ -416,9 +414,9 @@ Formation and essential terms and conditions
 
 23\. Every chit fund shall be formed by the execution of a written agreement between the chit fund company on the one part and the intending subscribers severally on the other part.
 
-### Essential terms and conditions of a chit fund
+### Essential terms and conditions of chit fund
 
-24\.—(1) Every agreement made under section 23 shall contain all the following terms and conditions with the actual amounts. dates and other particulars necessary in each case:
+24\.—(1) Every agreement made under section 23 shall contain all the following terms and conditions with the actual amounts, dates and other particulars necessary in each case:
 
 (a) that the chit fund shall be for a specific amount and for a specified number of subscribers only;
 
@@ -430,7 +428,7 @@ Formation and essential terms and conditions
 
 (e) that on or after each date on which the contributions are payable, the chit fund amount shall be put up for sale by the chit fund company among the subscribers either by auction or by way of sealed tenders;
 
-(f) that each of the subscribers shall be entitled to purchase the chit fund amount once and not oftener during the period of that chit fund, and that no subscriber who has been declared the purchaser at any such sale is to be entitled or permitted to bid or tender at any subsequent sale;
+(f) that each of the subscribers shall be entitled to purchase the chit fund amount once and not more often during the period of that chit fund, and that no subscriber who has been declared the purchaser at any such sale is to be entitled or permitted to bid or tender at any subsequent sale;
 
 (g) that every bid or tender of a subscriber at a sale shall indicate the sum which he is willing to forego as interest for the privilege of obtaining the prize on that occasion;
 
@@ -476,7 +474,7 @@ Conduct of a chit fund
 
 (a) the place, date, time and duration of the meeting;
 
-(b) the names of the subscribers who were present; and
+(b) the names of the subscribers who were present;
 
 (c) the items of business transacted at the meeting,
 
@@ -486,15 +484,15 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 (ii) the name of each bidder and the amount of each bid;
 
-(iii) the name of the purchaser; and
+(iii) the name of the purchaser;
 
 (iv) the amount of the interest.
 
-### Alteration of the agreement
+### Alteration of agreement
 
 28\. Subject to the provisions of this Act and the regulations made thereunder and subject also to any terms or conditions contained in the agreement as to the matters or the mode in which alterations of the agreement may be made, any alteration of the figures, amounts, dates or other particulars which are not likely to affect the intention or the legal effect of the essential terms and conditions, or any alteration of the additional terms and conditions contained in any agreement, shall be made only at any meeting of the subscribers, duly convened for the purpose, by the votes of a majority, the aggregate of whose contributions is not less than three-quarters of the chit fund amount.
 
-### Receipts for contributions paid and entry of payments in pass-book
+### Receipts for contributions paid and entry of payments in pass‑book
 
 29\.—(1) Every subscriber shall receive a receipt issued by or on behalf of the chit fund company for each contribution paid by him.
 
@@ -502,15 +500,15 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 ### Production of guarantors by purchaser of chit fund amount
 
-30\. Every subscriber who is declared the purchaser of a chit fund amount shall, as a condition precedent to the payment of the prize amount to him by the chit fund company, produce at least two guarantors to stand surety for the payment of the contributions due from him for the remainder of the chit fund period.
+30\. Every subscriber who is declared the purchaser of a chit fund amount shall, as a condition precedent to the payment of the prize amount to him by the chit fund company, produce at least 2 guarantors to stand surety for the payment of the contributions due from him for the remainder of the chit fund period.
 
 ### Effect of failing to produce guarantors
 
-31\.—(1) If a subscriber purchasing the chit fund amount fails to produce the guarantors required under section 30 within two weeks of the auction, the chit fund company shall either —
+31\.—(1) If a subscriber purchasing the chit fund amount fails to produce the guarantors required under section 30 within 2 weeks of the auction, the chit fund company shall either —
 
-(a) within 7 days of the expiration of those two weeks declare the next highest bidder, who has not purchased the chit fund amount, to be purchaser of the chit fund amount according to his bid on his producing the guarantors as required under section 30; or
+(a) within 7 days of the expiration of those 2 weeks, declare the next highest bidder, who has not purchased the chit fund amount, to be purchaser of the chit fund amount according to his bid on his producing the guarantors as required under section 30; or
 
-(b) within two weeks after the expiration of those two weeks conduct a fresh sale of that chit fund amount and give not less than 7 days’ notice of the date to each of the subscribers then entitled to bid at the sale.
+(b) within 2 weeks after the expiration of those 2 weeks, conduct a fresh sale of that chit fund amount and give not less than 7 days’ notice of the date to each of the subscribers then entitled to bid at the sale.
 
 (2) Where a subscriber is unable to produce the guarantors as required under section 30, the subscriber shall have the right to a refund of the actual amount of the earlier contributions paid by him to the chit fund company, without any deduction whatsoever. The refund shall be paid by the chit fund company within 3 weeks from the date of the auction.
 
@@ -518,7 +516,7 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 ### Substitution of new subscriber for defaulting subscriber who has not purchased any chit fund amount
 
-32\.—(1) Where default in the payment of any contribution is made by any subscriber who has not purchased a chit fund amount, the chit fund company shall be entitled to remove the name of the defaulting subscriber from the register of subscribers kept under section 37 and to substitute therein the name of a new subscriber except that the removal of his name from the register shall not be deemed to prejudice the right of the defaulting subscriber to a refund of the actual amount of any earlier contributions paid to him, at such time and with such deductions by way of penalty as may be prescribed by regulations made under this Act.
+32\.—(1) Where default in the payment of any contribution is made by any subscriber who has not purchased a chit fund amount, the chit fund company shall be entitled to remove the name of the defaulting subscriber from the register of subscribers kept under section 37 and to substitute therein the name of a new subscriber except that the removal of his name from the register shall not be deemed to prejudice the right of the defaulting subscriber to a refund of the actual amount of any earlier contributions paid by him, at such time and with such deductions by way of penalty as may be prescribed by regulations made under this Act.
 
 (2) All the rights and liabilities that would under the agreement have accrued to or been incurred by the defaulting subscriber after the date of such substitution if he had not made default, shall be deemed to be transferred to the new subscriber.
 
@@ -546,13 +544,13 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 35\.—(1) Any subscriber who has not purchased a chit fund amount may make over his rights in the chit fund by a transfer in writing to any person approved by the chit fund company.
 
-(2) Notice of every transfer made under subsection (1) shall be given forthwith to the chit fund company, in writing signed by the transferor and the transferee.
+(2) Notice of every transfer made under subsection (1) shall be given forthwith to the chit fund company in writing, signed by the transferor and the transferee.
 
 (3) On receipt of the notice of any transfer made under subsection (1), the chit fund company shall make the appropriate entries in the register of subscribers kept under section 37.
 
 (4) Where the transfer of the rights of any subscriber under subsection (1) is proved to have been made to any person who was insolvent at the time of the transfer or to have been made with the intention of defeating the provisions of any written law in force in Singapore, the transfer shall not be deemed to operate as a discharge to that subscriber from his duties and liabilities under the terms and conditions of the agreement.
 
-(5) Notwithstanding anything in any other written law to the contrary, the stamp duty payable on any transfer under this section shall be in accordance with the provisions of the Stamp Duties Act [Cap. 312].
+(5) Notwithstanding anything in any other written law to the contrary, the stamp duty payable on any transfer under this section shall be in accordance with the provisions of the Stamp Duties Act (Cap. 312).
 
 ### Transfer of right of chit fund company to recover contributions to be voidable
 
@@ -572,7 +570,7 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 (b) the minute book required under section 27;
 
-(c) an account book containing separate accounts of the following:
+(c) an account book containing separate accounts of —
 
 (i) the contributions paid by each subscriber and the respective dates of those payments;
 
@@ -596,7 +594,7 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 (2) Any chit fund company licensed under section 7 may, in lieu of substituting a new subscriber in the place of each defaulting subscriber, take up the share of one or more defaulting subscribers, and in every such case the chit fund company shall be entitled to take, without an auction or other sale and without any interest, the successive chit fund amounts available after the last of the continuing eligible subscribers has purchased his prize amount.
 
-### Termination of a chit fund
+### Termination of chit fund
 
 40\.—(1) A chit fund shall be deemed to terminate upon the occurrence of any of the following events:
 
@@ -610,13 +608,13 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 (e) on the licence being revoked by the Authority under section 14.
 
-(2) Upon the termination of a chit fund otherwise than by the expiry of the chit fund period as specified in the agreement or by a voluntary reduction of a chit fund under section 33 every subscriber who has not purchased a chit fund amount shall be entitled —
+(2) Upon the termination of a chit fund otherwise than by the expiry of the chit fund period as specified in the agreement or by a voluntary reduction of a chit fund under section 33, every subscriber who has not purchased a chit fund amount shall be entitled —
 
 (a) to recover from the chit fund company the aggregate of the actual amounts contributed by each subscriber as contributions under the agreement prior to the termination of the chit fund; or
 
 (b) to apply to a court of competent jurisdiction for an order —
 
-(i) directing each subscriber who has drawn a prize amount in that chit fund to deposit in court upon the due dates the several contributions, which, if the chit fund had not terminated, would have been payable by the subscriber to the chit fund company, until the aggregate of the amounts paid to the chit fund company by that subscriber before the termination of the chit fund and of the amounts so deposited in court become equal to the chit fund amount at the time of the sale at which that subscriber was declared the purchaser; and
+(i) directing each subscriber who has drawn a prize amount in that chit fund to deposit in court upon the due dates the several contributions which, if the chit fund had not terminated, would have been payable by the subscriber to the chit fund company, until the aggregate of the amounts paid to the chit fund company by that subscriber before the termination of the chit fund and of the amounts so deposited in court become equal to the chit fund amount at the time of the sale at which that subscriber was declared the purchaser; and
 
 (ii) declaring that all amounts so deposited in court shall be divided rateably among the subscribers who have not drawn a prize amount in that chit fund, and setting out for that purpose any scheme of distribution that may be necessary.
 
@@ -626,13 +624,13 @@ and in the case of a meeting at which a chit fund amount is auctioned, the follo
 
 41\. The sale of the chit fund amounts may, if the terms and conditions of the agreement provided therefor, be effected by way of sealed tenders as an alternative to an auction if, at a duly convened meeting of the subscribers held before the sale of the first chit fund amount, the subscribers by a majority representing three-quarters of the chit fund amount resolve to adopt the method of sealed tenders; and the method adopted for the sale of the first chit fund amount shall be followed at each subsequent sale in connection with that chit fund:
 
-Provided that in every case where the tenders of two or more subscribers are of the same value, the chit fund amount shall be put up for sale by auction among those subscribers, and the initial bid at every such auction shall be the amount set out in the tenders of those subscribers.
+Provided that in every case where the tenders of 2 or more subscribers are of the same value, the chit fund amount shall be put up for sale by auction among those subscribers, and the initial bid at every such auction shall be the amount set out in the tenders of those subscribers.
 
 ### Financial limits to be observed by chit funds
 
 42\.—(1) The total value of the chit fund to be conducted at any one time by a chit fund company shall be as prescribed by regulations made under this Act.
 
-(2) For the purposes of this section, the “total value of the chit funds” means the aggregate of the chit fund amounts that are to be collected and put up for sale during the period of that chit fund.
+(2) For the purposes of this section, the “total value of the chit fund” means the aggregate of the chit fund amounts that are to be collected and put up for sale during the period of that chit fund.
 
 ### Limits on lending powers of chit fund company
 
@@ -640,7 +638,7 @@ Provided that in every case where the tenders of two or more subscribers are of 
 
 (2) A chit fund company may lend to a subscriber who has not purchased the chit fund amount but the amount so lent shall not exceed 75% of the aggregate contributions already paid by that subscriber or such other percentage as may be specified in regulations made under this Act.
 
-(3) A chit fund company that lends to a subscriber under subsection (2) shall not be deemed to be a moneylender under the Moneylenders Act [Cap. 188] and that Act shall not accordingly apply to any transaction under this section.
+(3) A chit fund company that lends to a subscriber under subsection (2) shall not be deemed to be a moneylender under the Moneylenders Act (Cap. 188) and that Act shall not accordingly apply to any transaction under this section.
 
 ## PART V
 
@@ -688,15 +686,15 @@ INSPECTION OF CHIT FUND COMPANIES
 
 (2) The Minister may at any time direct the Authority to make an investigation, under conditions of secrecy, of the books, accounts and transactions of a chit fund company, if he has reason to believe that the chit fund company is carrying on its business in a manner detrimental to the interests of its subscribers and other creditors or has insufficient assets to cover its liabilities to the public, or is contravening the provisions of this Act or the regulations made thereunder.
 
-(3) The Authority may appoint any auditor, other than the auditor appointed by the chit fund company under section 205 of the Companies Act [Cap. 50], to exercise the powers of the Authority under subsections (1) and (2).
+(3) The Authority may appoint any auditor, other than the auditor appointed by the chit fund company under section 205 of the Companies Act (Cap. 50), to exercise the powers of the Authority under subsections (1) and (2).
 
 (4) For the purpose of an inspection or investigation under this section, a chit fund company shall afford the Authority access to its books, accounts and documents and shall give such information and facilities as may be required to conduct the investigation:
 
 Provided that those books, accounts and documents shall not be required to be produced at such times and at such places as shall interfere with the proper conduct of the normal daily business of that chit fund company.
 
-(5) If any book, account or document or information is not supplied in accordance with subsection (4), the chit fund company concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and to a further fine of $250 for every day during which the default continues after conviction.
+(5) If any book, account or document or information is not supplied in accordance with subsection (4), the chit fund company concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine of $250 for every day during which the default continues after conviction.
 
-### Powers of Authority to issue orders after an inspection
+### Powers of Authority to issue orders after inspection
 
 50\.—(1) If the Authority finds upon an inspection under section 49 that the affairs of a chit fund company are being conducted in a manner likely to be detrimental to the interests of the subscribers or prejudicial to the interests of the chit fund company, the Authority may by order require the chit fund company to take such corrective action as the Authority considers to be necessary or require the chit fund company to discontinue such practices or procedures.
 
@@ -714,7 +712,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Exemption
 
-52\. Notwithstanding any of provisions of this Act, the Authority may, with the approval of the Minister, exempt any chit fund company from all or any of the provisions of this Act.
+52\. Notwithstanding any of the provisions of this Act, the Authority may, with the approval of the Minister, exempt any chit fund company from all or any of the provisions of this Act.
 
 ### Winding up provisions
 
@@ -722,21 +720,21 @@ MISCELLANEOUS PROVISIONS
 
 (a) a chit fund company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Minister; and
 
-[Act 42 of 2005 wef 01/04/2006]
-
 (b) the court may order the winding up of a chit fund company if that company —
 
 (i) has held a licence under this Act and that licence has expired or has been revoked;
 
-(ii) has been declared insolvent;
+(ii) has been declared insolvent; or
 
 (iii) has carried on chit fund business in Singapore in contravention of the provisions of this Act.
+
+[42/2005]
 
 (2) In the winding up of a chit fund company that has been carrying on chit fund business, every subscriber who has not purchased a chit fund amount shall be entitled to recover his contribution in the manner set out in section 40(2).
 
 ### Redemption of securities held by chit fund company
 
-54\.—(1) As soon as practicable after the making of an order for the winding up of a chit fund company, the liquidator of the company shall publish in theGazettea notice requiring every debtor of the chit fund company to redeem any property he has deposited with the company as security for any loan that he has obtained from the chit fund company, and shall also send by registered post the notice to every debtor whose security is held by the chit fund company and whose name is mentioned in the statement of affairs made out under section 270 of the Companies Act [Cap. 50].
+54\.—(1) As soon as practicable after the making of an order for the winding up of a chit fund company, the liquidator of the company shall publish in theGazettea notice requiring every debtor of the chit fund company to redeem any property he has deposited with the company as security for any loan that he has obtained from the chit fund company, and shall also send by registered post the notice to every debtor whose security is held by the chit fund company and whose name is mentioned in the statement of affairs made out under section 270 of the Companies Act (Cap. 50).
 
 (2) The notice shall specify the latest date up to which any security may be redeemed, which date shall not be less than 3 months from the date of the notice.
 
@@ -744,13 +742,13 @@ MISCELLANEOUS PROVISIONS
 
 ### Operation of this Act not to affect certain Acts
 
-55\.—(1) Nothing in this Act shall affect the operation of the Companies Act, and any company that is liable to be incorporated under that Act shall continue to be so liable as if this Act had not been passed but in case of conflict between that Act and this Act the provisions of this Act shall prevail, unless otherwise provided in this Act.
+55\.—(1) Nothing in this Act shall affect the operation of the Companies Act, and any company that is liable to be incorporated under that Act shall continue to be so liable as if this Act had not been passed, but in case of conflict between that Act and this Act, the provisions of this Act shall prevail, unless otherwise provided in this Act.
 
 (2) Nothing in this Act shall, unless it is expressly provided to the contrary, affect the operation of any written law relating to moneylending, finance companies, banking or insurance or the liability of any chit fund company under any such law.
 
 ### General penalty
 
-56\. Any chit fund company which, or any person who being a director, officer, employee or agent of a chit fund company, contravenes or fails to comply with any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+56\. Any chit fund company which, or any person who being a director, an officer, an employee or an agent of a chit fund company, contravenes any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 ### Offences triable in District Court
 
@@ -760,7 +758,7 @@ MISCELLANEOUS PROVISIONS
 
 58\. No prosecution in respect of any offence under this Act or the regulations made thereunder shall be instituted except with the consent of the Public Prosecutor.
 
-[Act 15 of 2010 wef 02/01/2011]
+[15/2010]
 
 ### Offences by directors, managing directors or managers
 
@@ -768,7 +766,7 @@ MISCELLANEOUS PROVISIONS
 
 (a) fails to comply or take all reasonable steps to secure compliance by the chit fund company with the provisions of this Act or any other written law relating to chit fund companies in Singapore; or
 
-(b) fails to ensure or to take all reasonable steps to ensure the accuracy and correctness of any statement or information submitted under this Act or of any other written law relating to chit fund companies in force in Singapore,
+(b) fails to ensure or take all reasonable steps to ensure the accuracy and correctness of any statement or information submitted under this Act or any other written law relating to chit fund companies in force in Singapore,
 
 shall be guilty of an offence and shall in respect of each offence be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -804,7 +802,7 @@ shall be guilty of an offence and shall in respect of each offence be liable on 
 
 (i) regulate advertisements of chit fund companies;
 
-(j) vary the security to be furnished by the chit fund company or the subscriber, as the case may be;
+(j) vary the security to be furnished by the chit fund company or the subscriber, as the case may be; and
 
 (k) prescribe the rights, obligations, duties and liabilities of subscribers and the chit fund company.
 
@@ -816,7 +814,7 @@ Chit Funds Act
 
 (CHAPTER 39)
 
-This Legislative History is provided for the convenience of users of the Chit Funds Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Chit Funds Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -838,8 +836,9 @@ This Legislative History is provided for the convenience of users of the Chit Fu
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006 (item (7) of the First Schedule — amendment to Chit Funds Act)|
 |5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 20 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**2013 Revised Edition—Chit Funds Act (Chapter 39)**|
+||Date of operation|31 October 2013|
