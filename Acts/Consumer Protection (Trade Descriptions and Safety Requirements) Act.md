@@ -20,7 +20,7 @@
 
 - [5 False trade descriptions](#False-trade-descriptions)
 
-- [6 Applying a trade description to goods](#Applying-a-trade-description-to-goods)
+- [6 Applying trade description to goods](#Applying-trade-description-to-goods)
 
 - [7 Trade descriptions used in advertisements](#Trade-descriptions-used-in-advertisements)
 
@@ -92,9 +92,9 @@
 
 (Original Enactment: Act 18 of 1975)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st October 2013)
 
 An Act to make provisions prohibiting misdescriptions of goods supplied in the course of trade; to confer power to prescribe requirements relating to informative marking and advertisement of goods and to their safe composition, construction or design, and for purposes connected therewith.
 
@@ -142,7 +142,7 @@ PRELIMINARY
 
 (i) place or date of manufacture, production, processing or reconditioning of any goods;
 
-(j) person by whom any goods are manufactured, produced, processed or reconditioned; and
+(j) person by whom any goods are manufactured, produced, processed or reconditioned;
 
 (k) other history, including previous ownership or use, of any goods.
 
@@ -178,7 +178,7 @@ shall be guilty of an offence.
 
 (b) a false indication, or anything likely to be taken as an indication which would be false, that any goods comply with a standard specified or recognised by any person or implied by the approval of any person shall be deemed to be a false trade description, if there is no such person or no standard as specified, recognised or implied.
 
-### Applying a trade description to goods
+### Applying trade description to goods
 
 6\.—(1) A person applies a trade description to goods if he —
 
@@ -210,21 +210,17 @@ shall be guilty of an offence.
 
 ### Trade marks containing trade descriptions
 
-8\. A trade description which is or is part of a trade mark within the meaning of the Trade Marks Act 1998 may be a false trade description when applied to any goods, except where all of the following conditions are satisfied:
+8\. A trade description which is or is part of a trade mark within the meaning of the Trade Marks Act (Cap. 332) may be a false trade description when applied to any goods, except where all of the following conditions are satisfied:
 
 (a) it could have been lawfully applied to the goods if this Act had not been passed;
 
-(b) on the commencement of this Act the trade mark either is registered under the Trade Marks Act 1998 or is in use to indicate a connection in the course of trade between those goods and the proprietor of the trade mark;
+(b) on 1st August 1975 the trade mark either is registered under the Trade Marks Act or is in use to indicate a connection in the course of trade between those goods and the proprietor of the trade mark;
 
-[Act 46/1998 wef 15/01/1999]
-
-(c) the trade mark as applied is used to indicate such a connection between the goods and the proprietor of the trade mark or a registered user of the trade mark under the Trade Marks Act 1998; and
-
-[Act 46/1998 wef 15/01/1999]
+(c) the trade mark as applied is used to indicate such a connection between the goods and the proprietor of the trade mark or a registered user of the trade mark under the Trade Marks Act; and
 
 (d) the person who is the proprietor of the trade mark is the same person as, or a successor in title of, the proprietor on 1st August 1975.
 
-[Act 46/1998 wef 15/01/1999]
+[46/98]
 
 ## PART III
 
@@ -280,7 +276,7 @@ OTHER MIS-STATEMENTS
 
 ### False representation as to supply or approval of goods
 
-14\.—(1) If any person in the course of any trade or business gives by whatever means any false indication direct or indirect that any goods supplied by him or any methods adopted by him are or are of a kind supplied to or approved by any person including any government or government department or agency or any international body or agency whether in Singapore or abroad, he shall, subject to the provisions of this Act, be guilty of an offence.
+14\.—(1) If any person in the course of any trade or business gives by whatever means any false indication, direct or indirect, that any goods supplied by him or any methods adopted by him are or are of a kind supplied to or approved by any person including any government or government department or agency or any international body or agency whether in Singapore or abroad, he shall, subject to the provisions of this Act, be guilty of an offence.
 
 (2) Subsection (1) shall have effect without prejudice to any written law prohibiting or restricting the use of any name, emblem, insignia, seal, flag, pennant, title, coat of arms, sign, words or letters or any other form of description.
 
@@ -298,7 +294,7 @@ PROVISIONS AS TO OFFENCES
 
 ### Offences by bodies corporate
 
-17\. Where an offence under this Act committed by a body corporate is proved to have been committed with the consent and connivance of, or be attributable to any neglect on the part of, any director, manager, secretary or any other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+17\. Where an offence under this Act committed by a body corporate is proved to have been committed with the consent and connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 ### Offences due to fault of another person
 
@@ -346,7 +342,7 @@ MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
 (c) if he has reasonable cause to believe that an offence under this Act has been committed, he may seize and detain any goods for the purpose of ascertaining, by testing or otherwise, whether the offence has been committed;
 
-(d) he may seize and detain any goods or documents which he has reason to believe may be required as evidence in proceedings for an offence under this Act; and
+(d) he may seize and detain any goods or documents which he has reason to believe may be required as evidence in proceedings for an offence under this Act;
 
 (e) he may, for the purpose of exercising his powers under this subsection to seize goods, but only if and to the extent that it is reasonably necessary in order to secure that the provisions of this Act and of any regulations made thereunder are duly observed, require any person having authority to do so to break open any container or open any vending machine and, if that person does not comply with the requirement, he may do so himself.
 
@@ -382,7 +378,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) if the goods were seized, the Director shall inform the person mentioned in section 23(2) of the result of the test; or
 
-(b) if the goods were purchased and the test leads to the institution of proceedings for an offence under this Act, the Director shall inform the person from whom the goods were purchased, or, in the case of goods sold through a vending machine, the person mentioned in section 23(2), of the result of the test,
+(b) if the goods were purchased and the test leads to the institution of proceedings for an offence under this Act, the Director shall inform the person from whom the goods were purchased or, in the case of goods sold through a vending machine, the person mentioned in section 23(2), of the result of the test,
 
 and shall, where as a result of the test proceedings for an offence under this Act are instituted against any person, allow him to have the goods tested on his behalf if it is reasonably practicable to do so.
 
@@ -396,15 +392,15 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 (4) A person asserting that he is the owner of any goods seized and that they are not liable to forfeiture may personally or by his agent authorised in writing give written notice to the Director that he claims those goods.
 
-(5) On receipt of such notice the Director may direct that such goods be released or may refer the matter to a court for decision.
+(5) On receipt of such notice, the Director may direct that such goods be released or may refer the matter to a court for decision.
 
 (6) All things forfeited or deemed to be forfeited shall be delivered to the Director and shall be disposed of in accordance with the directions of the Minister.
 
-(7) Where any goods seized in exercise of the powers conferred by this Act are of a perishable nature or where the custody of those goods involves unreasonable expense and inconvenience they may be sold at any time and the proceeds of the sale held to abide by the result of any prosecution or claim under this section.
+(7) Where any goods seized in exercise of the powers conferred by this Act are of a perishable nature or where the custody of those goods involves unreasonable expense and inconvenience, they may be sold at any time and the proceeds of the sale held to abide by the result of any prosecution or claim under this section.
 
 ### Goods seized may be delivered to owner or other person
 
-27\. The Minister may upon application made to him in writing through the Director order any goods seized in exercise of the powers conferred by this Act whether forfeited or taken and deemed to be forfeited to be delivered to the owner or other person entitled thereto upon such terms and conditions as he may consider fit.
+27\. The Minister may upon application made to him in writing through the Director order any goods seized in exercise of the powers conferred by this Act, whether forfeited or taken and deemed to be forfeited, to be delivered to the owner or other person entitled thereto upon such terms and conditions as he may consider fit.
 
 ### Protection of officers
 
@@ -416,13 +412,13 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 ### Jurisdiction of District and Magistrate’s Courts
 
-30\. Notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+30\. Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
 
 ### Compensation order
 
-31\.—(1) The court before which a person is convicted of an offence under this Act may, on application or otherwise, make an order requiring him to pay such compensation, not exceeding $1,000 as the court thinks just, for any loss or damage resulting from that offence to any person who has suffered such loss or damage; and section 360 of the Criminal Procedure Code 2010 shall be applicable to any order made under this section.
+31\.—(1) The court before which a person is convicted of an offence under this Act may, on application or otherwise, make an order requiring him to pay such compensation, not exceeding $1,000 as the court thinks just, for any loss or damage resulting from that offence to any person who has suffered such loss or damage; and section 360 of the Criminal Procedure Code (Cap. 68) shall be applicable to any order made under this section.
 
-[Act 15/2010 wef 02/01/2011]
+[15/2010]
 
 (2) A compensation order made under this section shall not prejudice any right to a civil action for the recovery of damages beyond the amount of compensation paid under the order.
 
@@ -432,17 +428,15 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 ## THE SCHEDULE
 
-Section 2(2)
+Sections 2(2) and 13
 
 Specified laws
 
-1. The Sale of Food Act [Cap. 283].
+1\. Sale of Food Act (Cap. 283).
 
-[S 433/2010 wef 10/08/2010]
+2. Health Products Act (Cap. 122D).
 
-2. The Health Products Act (Cap. 122D).
-
-[S 433/2010 wef 10/08/2010]
+[S 433/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -450,7 +444,7 @@ Consumer Protection (Trade Descriptions and Safety Requirements) Act
 
 (CHAPTER 53)
 
-This Legislative History is provided for the convenience of users of the Consumer Protection (Trade Descriptions and Safety Requirements) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Consumer Protection (Trade Descriptions and Safety Requirements) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -462,6 +456,7 @@ This Legislative History is provided for the convenience of users of the Consume
 |2.|**1985 Revised Edition—Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53)**|
 ||Date of operation|30 March 1987|
 |3.|**Act 46 of 1998—Trade Marks Act 1998**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 October 1998|
 |||(Bill No. 42/98 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
@@ -473,3 +468,5 @@ This Legislative History is provided for the convenience of users of the Consume
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**2013 Revised Edition—Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53)**|
+||Date of operation|31 October 2013|
