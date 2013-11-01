@@ -10511,7 +10511,7 @@ REPORTING OF DERIVATIVES CONTRACTS
 
 (d) any finance company licensed under the Finance Companies Act (Cap. 108);
 
-(e) any insurer registered under the Insurance Act (Cap. 142);
+(e) any insurer licensed under the Insurance Act (Cap. 142);
 
 (f) any approved trustee referred to in section 289;
 
@@ -10520,6 +10520,8 @@ REPORTING OF DERIVATIVES CONTRACTS
 (h) any other person who is, or who belongs to a class of persons which is, prescribed by the Authority by regulations made under section 129 for the purposes of this definition.
 
 [Act 34/2012 wef 31/10/2013]
+
+[Act 10/2013 wef 01/11/2013]
 
 ### Reporting of specified derivatives contracts
 
@@ -10713,7 +10715,7 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108);
 
-(d) any insurer registered under the Insurance Act (Cap. 142);
+(d) any insurer licensed under the Insurance Act (Cap. 142);
 
 (e) any approved trustee referred to in section 289;
 
@@ -10722,6 +10724,8 @@ CLEARING OF DERIVATIVES CONTRACTS
 (g) any other person who is, or who belongs to a class of persons which is, prescribed by the Authority by regulations made under section 129G for the purposes of this definition.
 
 [Act 34/2012 wef 31/10/2013]
+
+[Act 10/2013 wef 01/11/2013]
 
 ### Clearing of specified derivatives contracts
 
@@ -24779,19 +24783,20 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
-||Date of First Reading|4 February 2013|
-|||(Bill No. 4/2013 published on 4 February 2013)|
-||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|18 April 2013|
-|||2 August 2013|
-|22.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+|21.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
 ||Date of commencement|18 March 2013|
 |||1 August 2013|
 |||31 October 2013|
+|22.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|||2 August 2013|
+|||1 November 2013|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
