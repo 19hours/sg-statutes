@@ -320,13 +320,13 @@
 
 - [131 Regulations made by, and fees to be paid to, Authority](#Regulations-made-by-and-fees-to-be-paid-to-Authority)
 
-[**FIRST SCHEDULE Requirements under Section 84a, 84d, 84e or 84fa**](#FIRST-SCHEDULE-Requirements-under-Section-84a-84d-84e-or-84fa)
+[**FIRST SCHEDULE Requirements under section 84A, 84D, 84E or 84FA**](#FIRST-SCHEDULE-Requirements-under-section-84A-84D-84E-or-84FA)
 
-[**SECOND SCHEDULE General Meetings for Purposes of Collective Sale**](#SECOND-SCHEDULE-General-Meetings-for-Purposes-of-Collective-Sale)
+[**SECOND SCHEDULE General meetings for purposes of collective sale**](#SECOND-SCHEDULE-General-meetings-for-purposes-of-collective-sale)
 
-[**THIRD SCHEDULE Composition, Constitution and Proceedings of Collective Sale Committee**](#THIRD-SCHEDULE-Composition-Constitution-and-Proceedings-of-Collective-Sale-Committee)
+[**THIRD SCHEDULE Composition, constitution and proceedings of collective sale committee**](#THIRD-SCHEDULE-Composition-constitution-and-proceedings-of-collective-sale-committee)
 
-[**FOURTH SCHEDULE Deductions Allowable by Board or High Court**](#FOURTH-SCHEDULE-Deductions-Allowable-by-Board-or-High-Court)
+[**FOURTH SCHEDULE Deductions allowable by Board or High Court**](#FOURTH-SCHEDULE-Deductions-allowable-by-Board-or-High-Court)
 
 [**Legislative History**](#Legislative-History)
 
@@ -564,7 +564,7 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 Flats not to be sold unless schedule of strata units is filed with and accepted by Commissioner
 
-7\. [Repealed byAct 47 of 2004]
+7\. [Repealed by Act 47 of 2004]
 
 ### Notification of planning condition on land-register, etc.
 
@@ -1332,7 +1332,7 @@ may make an application to the court for an order under subsection (4).
 
 [16/87; 42/2005]
 
-(2) Where, pursuant to the receipt of a certified copy of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land- register which evidences title to a lot the subject of the strata title plan.
+(2) Where, pursuant to the receipt of a certified copy of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land-register which evidences title to a lot the subject of the strata title plan.
 
 [16/87; 42/2005]
 
@@ -1509,6 +1509,8 @@ who have agreed in writing to sell all the lots and common property in the strat
 (5) The Board shall have power —
 
 (a) to mediate in any matter arising from an application made to it under subsection (1);
+
+[13/2010 wef 15/07/2010]
 
 (aa) to summon any person whom the Board is of the view is connected or otherwise related to the sale which is the subject of the application, to attend before the Board at the time and place specified in the summons and to produce such books, documents or other records in the person’s custody or control which the person is required by the summons to produce;
 
@@ -2264,65 +2266,65 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 STRATA TITLES BOARDS
 
-85\. [Repealed byAct 47 of 2004]
+85\. [Repealed by Act 47 of 2004]
 
-86\. [Repealed byAct 47 of 2004]
+86\. [Repealed by Act 47 of 2004]
 
-87\. [Repealed byAct 47 of 2004]
+87\. [Repealed by Act 47 of 2004]
 
-88\. [Repealed byAct 47 of 2004]
+88\. [Repealed by Act 47 of 2004]
 
-89\. [Repealed byAct 47 of 2004]
+89\. [Repealed by Act 47 of 2004]
 
-90\. [Repealed byAct 47 of 2004]
+90\. [Repealed by Act 47 of 2004]
 
-91\. [Repealed byAct 47 of 2004]
+91\. [Repealed by Act 47 of 2004]
 
-92\. [Repealed byAct 47 of 2004]
+92\. [Repealed by Act 47 of 2004]
 
-93\. [Repealed byAct 47 of 2004]
+93\. [Repealed by Act 47 of 2004]
 
-94\. [Repealed byAct 47 of 2004]
+94\. [Repealed by Act 47 of 2004]
 
-95\. [Repealed byAct 47 of 2004]
+95\. [Repealed by Act 47 of 2004]
 
-96\. [Repealed byAct 47 of 2004]
+96\. [Repealed by Act 47 of 2004]
 
-97\. [Repealed byAct 47 of 2004]
+97\. [Repealed by Act 47 of 2004]
 
-98\. [Repealed byAct 47 of 2004]
+98\. [Repealed by Act 47 of 2004]
 
-99\. [Repealed byAct 47 of 2004]
+99\. [Repealed by Act 47 of 2004]
 
-100\. [Repealed byAct 47 of 2004]
+100\. [Repealed by Act 47 of 2004]
 
-101\. [Repealed byAct 47 of 2004]
+101\. [Repealed by Act 47 of 2004]
 
-102\. [Repealed byAct 47 of 2004]
+102\. [Repealed by Act 47 of 2004]
 
-103\. [Repealed byAct 47 of 2004]
+103\. [Repealed by Act 47 of 2004]
 
-104\. [Repealed byAct 47 of 2004]
+104\. [Repealed by Act 47 of 2004]
 
-105\. [Repealed byAct 47 of 2004]
+105\. [Repealed by Act 47 of 2004]
 
-106\. [Repealed byAct 47 of 2004]
+106\. [Repealed by Act 47 of 2004]
 
-107\. [Repealed byAct 47 of 2004]
+107\. [Repealed by Act 47 of 2004]
 
-108\. [Repealed byAct 47 of 2004]
+108\. [Repealed by Act 47 of 2004]
 
-109\. [Repealed byAct 47 of 2004]
+109\. [Repealed by Act 47 of 2004]
 
-110\. [Repealed byAct 47 of 2004]
+110\. [Repealed by Act 47 of 2004]
 
-111\. [Repealed byAct 47 of 2004]
+111\. [Repealed by Act 47 of 2004]
 
-112\. [Repealed byAct 47 of 2004]
+112\. [Repealed by Act 47 of 2004]
 
-113\. [Repealed byAct 47 of 2004]
+113\. [Repealed by Act 47 of 2004]
 
-114\. [Repealed byAct 47 of 2004]
+114\. [Repealed by Act 47 of 2004]
 
 ## PART VII
 
@@ -2334,11 +2336,11 @@ GENERAL
 
 [16/87]
 
-116\. [Repealed byAct 47 of 2004]
+116\. [Repealed by Act 47 of 2004]
 
-117\. [Repealed byAct 47 of 2004]
+117\. [Repealed by Act 47 of 2004]
 
-118\. [Repealed byAct 47 of 2004]
+118\. [Repealed by Act 47 of 2004]
 
 ### Service of documents on management corporation, subsidiary proprietors and others
 
@@ -2378,7 +2380,7 @@ GENERAL
 
 Breaches of provisions of Part IV
 
-120\. [Repealed byAct 47 of 2004]
+120\. [Repealed by Act 47 of 2004]
 
 ### Legal proceedings
 
@@ -2460,7 +2462,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (6) Where the proprietors of the flats who altogether own not less than 25% of the total number of the flats as shown in the records of the Registry of Deeds as at the date of transfer mentioned in subsection (2) have agreed in writing to accept the transfer of the estate and interest of the proprietor of the land, all the proprietors of the flats within the same development and all the respective successors in title or assigns shall be deemed to have accepted the transfer of the proprietor’s estate and interest in the land and to have given consent to the application for the issue of the subsidiary strata certificates of title by the Registrar and the acceptance of the transfer of the proprietor’s estate and interest in the land.
 
-(7) The proprietor of the land shall deposit with the Registrar the title deeds in his possession relating to the land and the Registrar may, after inspection of the title deeds, create a folio of the land- register by issuing a certificate of title for the land on which the flats are erected.
+(7) The proprietor of the land shall deposit with the Registrar the title deeds in his possession relating to the land and the Registrar may, after inspection of the title deeds, create a folio of the land-register by issuing a certificate of title for the land on which the flats are erected.
 
 (8) Where the Registrar is satisfied with the evidence of title and that all the necessary documents are in order, the Registrar may issue subsidiary strata certificates of title for the flats after the publication of the notice referred to in subsection (4).
 
@@ -2714,7 +2716,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 Exemption from stamp duty
 
-129\. [Repealed byAct 38 of 2002]
+129\. [Repealed by Act 38 of 2002]
 
 ## PART IX
 
@@ -2752,7 +2754,7 @@ FIRST SCHEDULE
 
 Sections 84A(3), (4), (7C), (13) and (14), 84D(3), 84E(4) and (5) and 84FA(3) and (4)
 
-Requirements under Section 84a, 84d, 84e or 84fa
+Requirements under section 84A, 84D, 84E or 84FA
 
 1. Before making an application to a Board, the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors of flats referred to in section 84D(2) or 84E(3), as the case may be, shall —
 
@@ -2772,7 +2774,11 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 (c) ensure that the notice in sub-paragraph (b) does not include any subsidiary proprietor who has served or is entitled to serve a notice of rescission under paragraph 6 and that the notice in that sub-paragraph is certified by the advocate and solicitor appointed by the collective sale committee or in accordance with paragraph 7(1)(a) in the Third Schedule, whichever is applicable, to be accurate;
 
+[S 365/2010 wef 16/07/2010]
+
 (d) advertise in the 4 official languages the particulars of the proposed application in such local newspapers as approved by the Board;
+
+[S 365/2010 wef 16/07/2010]
 
 (e) serve notice of the proposed application on all the subsidiary proprietors of all the lots and common property in the strata title plan concerned and, if applicable, on the subsidiary proprietors in reversion of the leasehold estate in the lots, or on all the proprietors of all flats in the development concerned, as the case may be, by letter by registered post notifying everyone of them of the proposed application accompanied by a copy each of the following documents, and stating that copies of the documents may also be obtained from the marketing agent or the collective sale committee:
 
@@ -2787,6 +2793,8 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 (v) a valuation report from an independent valuer on the value of the development as at the date of the close of the public tender or auction; and
 
 (vi) a report by an independent valuer on the proposed method of distributing the proceeds of the sale due under the sale and purchase agreement;
+
+[13/2010 wef 15/07/2010]
 
 (f) give further notice of the proposed application by post addressed to each lot in the strata title plan concerned or each flat in the development concerned, as the case may be, or by placing a copy of the notice in the respective mail boxes for each such lot or flat; and
 
@@ -2916,7 +2924,7 @@ SECOND SCHEDULE
 
 Sections 84A(1A)(a), (3), (7C) and (14), 84D(9) and (9A), 84E(15) and (15A) and 84FA(16) and paragraphs 1(1), 7(1), 9(1) and 12(a) of Third Schedule
 
-General Meetings for Purposes of Collective Sale
+General meetings for purposes of collective sale
 
 Application of Schedule
 
@@ -2931,6 +2939,8 @@ Convening of general meeting on requisition
 (b) not less than 25% of the total number of subsidiary proprietors of the lots whose subsidiary proprietors comprise the management corporation,
 
 immediately proceed to convene a general meeting of the management corporation to be held as soon as practicable but in any case not later than 6 weeks after the receipt by the secretary of the requisition.
+
+[13/2010 wef 15/07/2010]
 
 (1A) If a relevant event happens, the council of the management corporation shall not, on receipt by the secretary thereof of another requisition for a general meeting, proceed to convene another general meeting of the management corporation for the purposes of constituting a collective sale committee unless —
 
@@ -3124,13 +3134,13 @@ Instrument of proxy
 
 (2) Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
-I/We, .................................................... of being a member/members of the above-named management corporation, hereby appoint/appoints .................................... , of .........................................................., or failing him, of............................................................ , as my/our proxy to vote for me/us on my/our behalf at the general meeting of the management corporation, to be convened on the ............... day of ................... 20 ........., and at any adjournment thereof.
+I/We, of being a member/members of the above-named management corporation, hereby appoint/appoints , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the general meeting of the management corporation, to be convened on the day of 20 , and at any adjournment thereof.
 
-Signed this .......... day of ........ 20 ....... .
+Signed this day of 20 .
 
 This form is to be used *in favour of/against the resolution.
 
-*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.].
 
 Proxy to be deposited at registered address of management corporation
 
@@ -3164,7 +3174,7 @@ THIRD SCHEDULE
 
 Sections 84A(1A)(b), (3), (7C) and (14), 84D(9) and (9A), 84E(15) and (15A) and 84FA(16)
 
-Composition, Constitution and Proceedings of Collective Sale Committee
+Composition, constitution and proceedings of collective sale committee
 
 Members of collective sale committee
 
@@ -3342,6 +3352,8 @@ General meetings convened by collective sale committee
 
 (2) The meeting for any of the purposes in sub-paragraph (1)(a), (b) and (c) shall be convened before any subsidiary proprietor signs the collective sale agreement.
 
+[13/2010 wef 15/07/2010]
+
 (3) After the subsidiary proprietors referred to in section 84A(1) or 84FA(2) have signed a collective sale agreement but before the launch for sale referred to in paragraph 11, the collective sale committee must convene a meeting of subsidiary proprietors, of which at least 7 days’ notice is given —
 
 (a) to give an update on the total number of subsidiary proprietors who, immediately before the date of the meeting, have signed the collective sale agreement; and
@@ -3430,11 +3442,13 @@ FOURTH SCHEDULE
 
 Section 84A(8)(a) and (c) and (14)
 
-Deductions Allowable by Board or High Court
+Deductions allowable by Board or High Court
 
 [S 365/2010 wef 16/07/2010]
 
-1\. Stamp duty paid on the purchase of the lot or flat.
+1. Stamp duty paid or payable on the sale, purchase, or sale and purchase (as the case may be) of the lot or flat.
+
+[S 680/2013 wef 07/11/2013]
 
 2\. Legal fees paid in relation to the purchase of the lot or flat.
 
@@ -3450,7 +3464,7 @@ Land Titles (Strata) Act
 
 (CHAPTER 158)
 
-This Legislative History is provided for the convenience of users of the Land Titles (Strata) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Land Titles (Strata) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3600,6 +3614,8 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
 |||(section 24 — Amendment of Land Titles (Strata) Act)|
+|30.|**G.N. No. S 680/2013—Land Titles (Strata) Act (Amendment of Fourth Schedule) Order 2013**|
+||Date of commencement|7 November 2013|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
