@@ -112,6 +112,8 @@
 
 - [44 Furnishing of information](#Furnishing-of-information)
 
+- [44A Request for information from Inland Revenue Authority of Singapore and Jurong Town Corporation](#Request-for-information-from-Inland-Revenue-Authority-of-Singapore-and-Jurong-Town-Corporation)
+
 - [45 Preservation of secrecy](#Preservation-of-secrecy)
 
 - [46 Obstructing officers of Authority](#Obstructing-officers-of-Authority)
@@ -132,13 +134,13 @@
 
 - [53 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-[**FIRST SCHEDULE Constitution and Proceedings of the Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-the-Authority)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Powers of the Authority**](#SECOND-SCHEDULE-Powers-of-the-Authority)
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
-[**FOURTH SCHEDULE Transitional and Savings Provisions**](#FOURTH-SCHEDULE-Transitional-and-Savings-Provisions)
+[**FOURTH SCHEDULE**](#FOURTH-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -176,7 +178,7 @@ PRELIMINARY
 
 “chief executive” means the chief executive of the Authority appointed under section 18 and includes any temporary chief executive of the Authority;
 
-“develop” has the same meaning as in section 12 of the Planning Act (Cap. 232, 1990 Ed.);
+“develop” has the same meaning as in section 12 of the Planning Act [Cap. 232, 1990 Ed.];
 
 “developed land” means land of the Authority upon which a building has been erected;
 
@@ -184,19 +186,27 @@ PRELIMINARY
 
 “former Authority” means the Urban Redevelopment Authority established under the repealed Act;
 
+“Inland Revenue Authority of Singapore” means the Inland Revenue Authority of Singapore established under the Inland Revenue Authority of Singapore Act (Cap. 138A);
+
+[Act 20 of 2013 wef 08/11/2013]
+
+“Jurong Town Corporation” means the Jurong Town Corporation established under the Jurong Town Corporation Act (Cap. 150);
+
+[Act 20 of 2013 wef 08/11/2013]
+
 “land” includes benefits to rise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
 
 “member” means a member of the Authority;
 
 “monument” has the same meaning as in the Preservation of Monuments Act 2009;
 
-[16/2009 wef 01/07/2009 wef 01/07/2009]
+[16/2009 wef 01/07/2009]
 
 “Planning Department” means the Planning Department of the Ministry of National Development;
 
 “property” includes houses, buildings, lands and tenements;
 
-“repealed Act” means the Urban Redevelopment Authority Act (Cap. 340, 1985 Ed.) repealed by this Act;
+“repealed Act” means the Urban Redevelopment Authority Act [Cap. 340, 1985 Ed.] repealed by this Act;
 
 “Research and Statistics Unit” means the Research and Statistics Unit of the Ministry of National Development;
 
@@ -234,7 +244,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (3) The Authority may by resolution or otherwise in writing appoint an officer of the Authority or any other agent either generally or in a particular case to execute or sign on behalf of the Authority an agreement or other instrument not under seal in relation to any matter coming within the powers of the Authority.
 
-(4) Section 12 of the Registration of Deeds Act (Cap. 269, 1989 Ed.) shall not apply to an instrument purporting to have been executed under subsection (2).
+(4) Section 12 of the Registration of Deeds Act [Cap. 269, 1989 Ed.] shall not apply to an instrument purporting to have been executed under subsection (2).
 
 ## PART III
 
@@ -422,7 +432,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants
 
-21\. The members and employees of the Authority shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+21\. The members and employees of the Authority shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
 ## PART V
 
@@ -508,7 +518,7 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 (3) If any question arises as to whether any particular movable property vested in the Government, or whether any particular asset, right, interest, liability or obligation of the Government has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, right, interest, liability or obligation was or was not so transferred or vested.
 
-(4) No disclosure to the Authority under this section of information collected by the Research and Statistics Unit before 1st September 1989 shall be called in question on the ground that such disclosure is contrary to section 5 of the Statistics Act (Cap. 317) or in breach of confidence.
+(4) No disclosure to the Authority under this section of information collected by the Research and Statistics Unit before 1st September 1989 shall be called in question on the ground that such disclosure is contrary to section 5 of the Statistics Act [Cap. 317] or in breach of confidence.
 
 ### Existing agreements, etc.
 
@@ -536,17 +546,17 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 ### Pension benefits
 
-36\.—(1) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+36\.—(1) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
 
 (2) In every case where a person employed by the Government in the Planning Department or the Research and Statistics Unit has been transferred to the service of the Authority under section 34, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement or otherwise leaving the service of the Authority as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (3) Where any person in the service of the Authority whose case does not come within the scope and effect of any pension or other schemes referred to under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority may think fit, such allowance or gratuity as the Authority may determine.
 
-(4) Where any person who is transferred to the service of the Authority under section 34 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority, and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(4) Where any person who is transferred to the service of the Authority under section 34 is a contributor under the Widows’ and Orphans’ Pension Act [Cap. 350], he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority, and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-37\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 34 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+37\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Authority under section 34 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 38\. [Repealed by Act 11/2003 wef 01/08/2003]
 
@@ -574,9 +584,11 @@ SALE OF UNITS
 
 42\. For the purposes of the registration of an assurance pertaining to the sale by the Authority of any unit, the mortgage of such unit in favour of the Authority or the reconveyance or discharge of such mortgage —
 
-(a) in the case of land registered under the provisions of the Registration of Deeds Act (Cap. 269, 1989 Ed.), section 12 of that Act shall not apply; and
+(a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269, 1989 Ed.], section 12 of that Act shall not apply; and
 
-(b) in the case of land registered under the provisions of the Land Titles Act (Cap. 157), where a solicitor is not employed by the party acquiring title under an instrument relating to the transactions referred to in this section, a certificate of an officer authorised in writing in that behalf by the Authority, shall be sufficient for the purposes of section 54(4) of that Act.
+(b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], where a solicitor is not employed by the party acquiring title under an instrument relating to the transactions referred to in this section, a certificate of an officer authorised in writing in that behalf by the Authority, shall be sufficient for the purposes of section 59(3) of that Act.
+
+[Act 20 of 2013 wef 08/11/2013]
 
 ## PART VIII
 
@@ -592,27 +604,69 @@ MISCELLANEOUS
 
 44\.—(1) The Authority or any employee thereof authorised by the Authority in that behalf may, for the purpose of obtaining statistical information, by notice require any person to furnish to the Authority or the employee so authorised, within such period as shall be specified in the notice, all such particulars or information relating to all such matters as may be required by the Authority and as are within the knowledge of that person or in his custody or under his control.
 
-(2) A notice issued under subsection (1) may be served in the following manner:
+(2) Subject to subsection (2D), a notice issued under subsection (1) may be served in the following manner:
 
-(a) if the person on whom service is to be effected is in Singapore, the notice may be delivered to him or left with some adult member of his family (other than a servant) residing with him;
+(a) in the case of an individual —
 
-(b) if the person on whom service is to be effected has an agent in Singapore, the notice may be delivered to the agent;
+(i) by delivering it to the individual personally;
 
-(c) if service cannot be effected in accordance with paragraph (a) or (b), the notice may be sent by registered post addressed to the person on whom service is to be effected at his residence;
+(ii) by leaving it with an adult person apparently resident at, or by sending it by pre‑paid registered post to, the usual or last known address of the place of residence of the individual;
 
-(d) where service is to be effected on a firm, the notice may be served —
+(iii) by leaving it with an adult person apparently employed at, or by sending it by pre‑paid registered post to, the usual or last known address of the place of business of the individual;
 
-(i) upon any one or more of the partners; or
+(iv) by affixing a copy of the notice in a conspicuous place at the usual or last known address of the place of residence or place of business of the individual; or
 
-(ii) at the principal place of business in Singapore of the person having at the time of service the control or management of the partnership business; and
+(v) by electronic communication, by sending an electronic communication of the notice to the last email address given to the Authority by the individual as the email address for the service of documents on the individual;
 
-(e) where service is to be effected on a company or corporation, the notice may be —
+(b) in the case of a partnership other than a limited liability partnership —
 
-(i) left at the registered office, if any, of the company or corporation in Singapore;
+(i) by delivering it to any one of the partners or the secretary or other like officer of the partnership;
 
-(ii) delivered to any director, manager or secretary of the company or corporation in Singapore or to any person having, on behalf of the company or corporation, powers of control or management over the business, occupation, work or matter to which the notice relates; or
+(ii) by leaving it at, or by sending it by pre‑paid registered post to, the principal or last known place of business of the partnership in Singapore;
 
-(iii) sent by registered post addressed to the company or corporation at its principal office wherever situated.
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the principal or last known place of business of the partnership in Singapore; or
+
+(iv) by electronic communication, by sending an electronic communication of the notice to the last email address given to the Authority by the partnership as the email address for the service of documents on the partnership; and
+
+(c) in the case of any limited liability partnership or any other body corporate —
+
+(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager thereof, or to any person having, on behalf of the limited liability partnership or other body corporate, powers of control or management over the business, occupation, work or matter to which the notice relates;
+
+(ii) by leaving it at, or by sending it by pre‑paid registered post to, the registered office or principal place of business of the limited liability partnership or other body corporate in Singapore;
+
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the registered office or principal place of business of the limited liability partnership or other body corporate in Singapore or elsewhere; or
+
+(iv) by electronic communication, by sending an electronic communication of the notice to the last email address given to the Authority by the limited liability partnership or other body corporate as the email address for the service of documents on the limited liability partnership or body corporate.
+
+[Act 20 of 2013 wef 08/11/2013]
+
+(2A) If the person on whom service is to be effected has an agent within Singapore, the notice may be delivered to the agent.
+
+[Act 20 of 2013 wef 08/11/2013]
+
+(2B) Any notice issued under subsection (1) which is to be served on the occupier of any premises —
+
+(a) may be served by delivering it to an adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice to a conspicuous part of the premises; and
+
+(b) shall be deemed to be properly addressed if addressed by the description of the occupier of the premises without further name or description.
+
+[Act 20 of 2013 wef 08/11/2013]
+
+(2C) Where any notice issued under subsection (1) and required to be served on any person is —
+
+(a) sent by registered post to any person in accordance with subsection (2), it shall be deemed to be duly served on the person at the time when it would, in the ordinary course of post, be delivered, whether or not it is returned undelivered, and in proving service of the notice, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post;
+
+(b) sent by ordinary post to any person in accordance with subsection (2), it shall be deemed to be duly served on the person to whom it is addressed on the day succeeding the day on which it would, in the ordinary course of post, be delivered;
+
+(c) sent by a facsimile transmission to the fax transmission number operated at the last known place of residence or business or registered office or principal place of business in accordance with subsection (2), it shall be deemed to be duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending facsimile machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal place of business, as the case may be; and
+
+(d) sent by electronic communication to an email address in accordance with subsection (2), it shall be deemed to be duly served on the person to whom it is addressed at the time of entering the information system addressed to the email address.
+
+[Act 20 of 2013 wef 08/11/2013]
+
+(2D) Service of any notice under this section on a person by electronic communication may be effected only if the person gives as part of his or its address for service an email address.
+
+[Act 20 of 2013 wef 08/11/2013]
 
 (3) Any person who on being required by notice under this section to furnish any particulars or information —
 
@@ -622,17 +676,45 @@ MISCELLANEOUS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+(4) Nothing in this section authorises the Authority, or any employee thereof authorised by the Authority in that behalf, to require the Inland Revenue Authority of Singapore or the Jurong Town Corporation to furnish to the Authority or the employee so authorised —
+
+(a) any particulars or information in the possession of the Inland Revenue Authority of Singapore obtained in the performance of any of its functions; or
+
+(b) any particulars or information in the possession of the Jurong Town Corporation obtained pursuant to any notice under section 35A of the Jurong Town Corporation Act.
+
+[Act 20 of 2013 wef 08/11/2013]
+
+### Request for information from Inland Revenue Authority of Singapore and Jurong Town Corporation
+
+44A\.—(1) For the purpose of obtaining data for statistical purposes relating to property in Singapore, the Authority may in writing require —
+
+(a) the Inland Revenue Authority of Singapore to furnish or supply to the Authority any particulars or information in the possession of the Inland Revenue Authority of Singapore that it obtained in the performance of its function as an agent of the Government in administering, assessing, collecting and enforcing payment of property tax or stamp duties; or
+
+(b) the Jurong Town Corporation to furnish or supply to the Authority any particulars or information in the possession of the Jurong Town Corporation obtained pursuant to any notice under section 35A of the Jurong Town Corporation Act.
+
+(2) Notwithstanding the provisions of the Inland Revenue Authority of Singapore Act and the Jurong Town Corporation Act, the Inland Revenue Authority of Singapore and the Jurong Town Corporation, respectively, shall furnish the particulars and information required under subsection (1) within such time as may be agreed to between the Authority and the Inland Revenue Authority of Singapore or the Jurong Town Corporation, as the case may be.
+
+[Act 20 of 2013 wef 08/11/2013]
+
 ### Preservation of secrecy
 
-45\.—(1) No member, officer or employee of the Authority shall disclose any particulars or information furnished under section 44 which has been obtained by the member, officer or employee of the Authority in the performance of his duties or the exercise of his function except —
+45\.—(1) Any member, officer or employee of the Authority shall not disclose any particulars or information which has been obtained by the member, officer or employee of the Authority in the performance of his duties or the exercise of his function under section 44 or 44A unless —
 
-(a) with the previous consent in writing of the person who furnished the particulars or information;
+(a) the disclosure is with the previous consent in writing of the person who furnished the particulars or information under section 44 or the person to whom the particulars or information relate;
 
-(b) where the disclosure can be made without identifying that individual person;
+(b) the disclosure is as statistics which do not identify the person who furnished the particulars or information under section 44 or the person to whom the particulars or information relate;
 
-(c) information of a general nature which could be obtained from other sources; or
+(c) the disclosure is to the Jurong Town Corporation pursuant to its request made under section 35B of the Jurong Town Corporation Act;
 
-(d) for the purposes of any proceedings for an offence under section 44(3) or this section.
+(d) the disclosure is to the Chief Statistician pursuant to his direction under section 6 of the Statistics Act (Cap. 317) where the particulars or information are not exempted under section 6(2) of that Act from being so furnished;
+
+(e) the disclosure is for the purpose of another member, officer or employee of the Authority carrying into effect the provisions of this Act;
+
+(f) the disclosure is for the purposes of any proceedings for an offence under section 44(3) or this section or any report of those proceedings; or
+
+(g) the particulars or information are already in the public domain at the time of its disclosure.
+
+[Act 20 of 2013 wef 08/11/2013]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -644,13 +726,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 47\. Any proceedings in respect of an offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
 
-[15/2010 wef 02/01/2011 wef 02/01/2011]
+[15/2010 wef 02/01/2011]
 
 ### Consent of Public Prosecutor
 
 48\. No court shall try an offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
 
-[15/2010 wef 02/01/2011 wef 02/01/2011]
+[15/2010 wef 02/01/2011]
 
 ### Exclusion of liability for errors or omissions in information supplied
 
@@ -686,7 +768,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 53\.—(1) The transitional and savings provisions in the Fourth Schedule shall have effect.
 
-(2) Except as provided in the Fourth Schedule, nothing in that Schedule shall affect any saving provided by the Interpretation Act (Cap. 1).
+(2) Except as provided in the Fourth Schedule, nothing in that Schedule shall affect any saving provided by the Interpretation Act [Cap. 1].
 
 FIRST SCHEDULE
 
@@ -702,7 +784,7 @@ Appointment of Chairman, Deputy Chairman and other members
 
 (3) The Minister may appoint the chief executive to be a member.
 
-Tenure of office members
+Tenure of office of members
 
 2\. The Chairman and every other member shall, unless their appointment is revoked under paragraph 5 or they resign during their term of office, hold office for a term of 3 years or such shorter period as the Minister may determine.
 
@@ -732,7 +814,7 @@ Vacation of office of member
 
 (c) resigns from his office.
 
-Filling of vacancy in the office of member
+Filling of vacancy in the office of a member
 
 8\. If a member dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
 
@@ -830,11 +912,11 @@ Financial Provisions
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50, 1988 Ed.).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50, 1988 Ed.].
 
 4. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
-[S 227/95 wef 18/05/1995]
+[S 227/95 wef 15/03/1990]
 
 5\. The Authority shall, as soon as practicable but not later than 31st July in every year, prepare and submit the financial statements in respect of the preceding financial year to the auditor who shall audit and report on them.
 
@@ -916,13 +998,15 @@ Annual report
 
 Pending appeals
 
-8.—(1) Any right of appeal subsisting immediately before 1st September 1989 by virtue of section 51 of the repealed Act shall from that date be treated as subsisting by virtue of section 16 of the Planning Act (Cap. 232, 1990 Ed.).
+8.—(1) Any right of appeal subsisting immediately before 1st September 1989 by virtue of section 51 of the repealed Act shall from that date be treated as subsisting by virtue of section 16 of the Planning Act [Cap. 232, 1990 Ed.].
 
 (2) Any such appeal pending before 1st September 1989 under the repealed Act may be prosecuted and disposed of in accordance with section 16 of the Planning Act.
 
 Information collected by Research and Statistics Units
 
-9\. All information collected by the Research and Statistics Unit before 1st September 1989 and transferred to the Authority under section 31 shall be subject to the same safeguards as respect disclosure as are provided by the Statistics Act (Cap. 317) as if the information had been collected by the Authority under that Act.
+9. Subject to section 35B of the Jurong Town Corporation Act and to section 45, all information collected by the Research and Statistics Unit before 1st September 1989 and transferred to the Authority under section 31 shall be subject to the same safeguards as respect disclosure as are provided by the Statistics Act [Cap. 317] as if the information had been collected by the Authority under that Act.
+
+[Act 20 of 2013 wef 08/11/2013]
 
 Contracts, documents, etc.
 
@@ -938,7 +1022,7 @@ Urban Redevelopment Authority Act
 
 (CHAPTER 340)
 
-This Legislative History is provided for the convenience of users of the Urban Redevelopment Authority Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Urban Redevelopment Authority Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1015,3 +1099,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|16.|**Act 20 of 2013—Jurong Town Corporation (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 September 2013|
+|||(Bill No. 15/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|8 November 2013|
