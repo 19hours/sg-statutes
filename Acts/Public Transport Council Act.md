@@ -1594,19 +1594,31 @@ Section 24(3)(c)
 
 Fare adjustment formula
 
-Maximum Fare Adjustment for any year (X) = Price Index for year (X) – 1.5%
+[0.5 CPI + 0.5 aWI – 1.5%] + [0.4 cCPI + 0.4 WI + 0.2 EI – 0.5%]
 
-where Price Index = 0.5 CPI + 0.5 WI
+where
 
 CPI
 
-is the change in Consumer Price Index between year (X-1) and year (X-2); and
+is the change in Consumer Price Index between year 2011 and the previous year;
+
+cCPI
+
+is the change in Core Consumer Price Index between year 2012 and its previous year;
+
+aWI
+
+is the change in Average Monthly Earnings (Overall Average by Industry) between year 2011 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36);
 
 WI
 
-is the change in Average Monthly Earnings (Overall Average by Industry) between year (X-1) and year (X-2), adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36).
+is the change in National Average Monthly Earnings between year 2012 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act; and
 
-[37/2005; S 386/2008]
+EI
+
+is the change in Energy Index for electricity and fuel between year 2012 and its previous year.
+
+[S 259/2014 wef 11/11/2013]
 
 ## LEGISLATIVE HISTORY
 
@@ -1676,6 +1688,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of operation|31 March 2012|
 |16.|**G.N. No. S 228/2014—Revised Edition of the Laws (Public Transport Council Act) (Rectification) Order 2014**|
 ||Date of commencement|31 March 2012|
+|17.|**G.N. No. S 259/2014—Public Transport Council Act (Amendment of Third Schedule) Order 2014**|
+||Date of commencement|11 November 2013|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
