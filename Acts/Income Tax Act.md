@@ -44,7 +44,7 @@
 
 - [10E Ascertainment of income from business of making investment](#Ascertainment-of-income-from-business-of-making-investment)
 
-- [10F Ascertainment of income from certain public-private partnership arrangement](#Ascertainment-of-income-from-certain-public-private-partnership-arrangement)
+- [10F Ascertainment of income from certain public-private partnership arrangements](#Ascertainment-of-income-from-certain-public-private-partnership-arrangements)
 
 - [10G (Repealed)](#Repealed)
 
@@ -148,7 +148,7 @@
 
 - [14I Provisions by banks and qualifying finance companies for doubtful debts and diminution in value of investments](#Provisions-by-banks-and-qualifying-finance-companies-for-doubtful-debts-and-diminution-in-value-of-investments)
 
-- [14J Further deduction for expenditure on research and development of new financial activities](#Further-deduction-for-expenditure-on-research-and-development-of-new-financial-activities)
+- [14J (Repealed)](#Repealed)
 
 - [14K Further or double deduction for overseas investment development expenditure](#Further-or-double-deduction-for-overseas-investment-development-expenditure)
 
@@ -173,6 +173,10 @@
 - [14T Deduction for expenditure on leasing of PIC automation equipment under qualifying lease](#Deduction-for-expenditure-on-leasing-of-PIC-automation-equipment-under-qualifying-lease)
 
 - [14U Deduction for expenses incurred before first dollar of income from trade, business, profession or vocation](#Deduction-for-expenses-incurred-before-first-dollar-of-income-from-trade-business-profession-or-vocation)
+
+- [14V Deduction for amortisation of intangible asset created under public-private partnership arrangement](#Deduction-for-amortisation-of-intangible-asset-created-under-public-private-partnership-arrangement)
+
+- [14W Deduction for expenditure on licensing intellectual property rights](#Deduction-for-expenditure-on-licensing-intellectual-property-rights)
 
 - [15 Deductions not allowed](#Deductions-not-allowed)
 
@@ -278,7 +282,11 @@
 
 - [37I Cash payout under Productivity and Innovation Credit Scheme](#Cash-payout-under-Productivity-and-Innovation-Credit-Scheme)
 
-- [37J Penalties for false information, etc., under section 37I](#Penalties-for-false-information-etc-under-section-37I)
+- [37IA Productivity and Innovation Credit bonus](#Productivity-and-Innovation-Credit-bonus)
+
+- [37IB Modification of sections 37I and 37IA in their application to partnership](#Modification-of-sections-37I-and-37IA-in-their-application-to-partnership)
+
+- [37J Penalties for false information, etc., resulting in payment under section 37I or 37IA](#Penalties-for-false-information-etc-resulting-in-payment-under-section-37I-or-37IA)
 
 - [37K Deduction for qualifying investments in qualifying start-up companies](#Deduction-for-qualifying-investments-in-qualifying-start-up-companies)
 
@@ -472,7 +480,11 @@
 
 - [65B Power of Comptroller to obtain information](#Power-of-Comptroller-to-obtain-information)
 
-- [65C Failure to comply with notices issued by Comptroller](#Failure-to-comply-with-notices-issued-by-Comptroller)
+- [65C Failure to comply with section 64, 65, 65A or 65B](#Failure-to-comply-with-section-64-65-65A-or-65B)
+
+- [65D Section 65B notice applies notwithstanding duty of secrecy under Banking Act or Trust Companies Act](#Section-65B-notice-applies-notwithstanding-duty-of-secrecy-under-Banking-Act-or-Trust-Companies-Act)
+
+- [65E Section 65B notice may be subject to confidentiality duty](#Section-65B-notice-may-be-subject-to-confidentiality-duty)
 
 - [66 Returns to be deemed to be furnished by due authority](#Returns-to-be-deemed-to-be-furnished-by-due-authority)
 
@@ -544,6 +556,8 @@
 
 - [92C Cash grant for companies for year of assessment 2012](#Cash-grant-for-companies-for-year-of-assessment-2012)
 
+- [92D Remission of tax of companies for years of assessment 2013, 2014 and 2015](#Remission-of-tax-of-companies-for-years-of-assessment-2013-2014-and-2015)
+
 - [93 Repayment of tax](#Repayment-of-tax)
 
 - [93A Relief in respect of error or mistake](#Relief-in-respect-of-error-or-mistake)
@@ -556,9 +570,9 @@
 
 - [95 Penalty for incorrect return, etc.](#Penalty-for-incorrect-return-etc)
 
-- [96 Tax evasion](#Tax-evasion)
+- [96 Tax evasion and wilful action to obtain PIC bonus](#Tax-evasion-and-wilful-action-to-obtain-PIC-bonus)
 
-- [96A Serious fraudulent tax evasion](#Serious-fraudulent-tax-evasion)
+- [96A Serious fraudulent tax evasion and action to obtain PIC bonus](#Serious-fraudulent-tax-evasion-and-action-to-obtain-PIC-bonus)
 
 - [97 Penalties for offences by authorised and unauthorised persons](#Penalties-for-offences-by-authorised-and-unauthorised-persons)
 
@@ -586,7 +600,7 @@
 
 - [105BA Exchange of information arrangement](#Exchange-of-information-arrangement)
 
-- [105C Prescribed arrangement](#Prescribed-arrangement)
+- [105C (Repealed)](#Repealed)
 
 - [105D Request for information](#Request-for-information)
 
@@ -596,19 +610,27 @@
 
 - [105G Power of Comptroller to obtain information from other authorities](#Power-of-Comptroller-to-obtain-information-from-other-authorities)
 
+- [105GA Information may be used for administration of Act](#Information-may-be-used-for-administration-of-Act)
+
 - [105H Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
-[**Part XXB COURT ORDERS RELATING TO RESTRICTED INFORMATION**](#Part-XXB)
+[**Part XXB INTERNATIONAL AGREEMENTS TO IMPROVE TAX COMPLIANCE**](#Part-XXB)
 
 - [105I Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [105J Orders relating to certain information](#Orders-relating-to-certain-information)
+- [105J Purpose of this Part](#Purpose-of-this-Part)
 
-- [105K Supplementary provisions regarding section 105J orders](#Supplementary-provisions-regarding-section-105J-orders)
+- [105K International tax compliance agreements](#International-tax-compliance-agreements)
 
-- [105L Immunities](#Immunities)
+- [105L Provision of information to Comptroller](#Provision-of-information-to-Comptroller)
 
-- [105M Failure to comply with section 105J orders](#Failure-to-comply-with-section-105J-orders)
+- [105M Offences](#Offences)
+
+- [105N Power of Comptroller to obtain information](#Power-of-Comptroller-to-obtain-information)
+
+- [105O Information may be used for administration of Act](#Information-may-be-used-for-administration-of-Act)
+
+- [105P Regulations to implement international tax compliance agreements](#Regulations-to-implement-international-tax-compliance-agreements)
 
 [**Part XXI MISCELLANEOUS**](#Part-XXI)
 
@@ -721,6 +743,22 @@ and “employer” and other cognate expressions shall be construed accordingly;
 “Hindu joint family” means what in any system of law prevailing in India is known as a Hindu joint family or a co-parcenary;
 
 “incapacitated person” means any infant, lunatic, idiot or insane person;
+
+“information subject to legal privilege” means —
+
+(a) communications between an advocate and solicitor and his client or any person representing his client made in connection with the giving of legal advice to the client; and
+
+(b) communications between —
+
+(i) an advocate and solicitor and his client or any person representing his client; or
+
+(ii) an advocate and solicitor or his client or any such representative and any other person,
+
+made in connection with, or in contemplation of, judicial proceedings and for the purposes of such proceedings,
+
+when such communications are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications made with the intention of furthering a criminal purpose;
+
+[Act 19 of 2013 wef 28/11/2013]
 
 “institution of a public character” has the same meaning as in the Charities Act (Cap. 37);
 
@@ -844,7 +882,7 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 [13/84]
 
-(3) [Deleted by Act 29 of 2012 wef 18/12/2012 wef Y/A 2012 & Sub Ys/A]
+(3) [Deleted by Act 29 of 2012 wef Y/A 2012 & Sub Ys/A]
 
 (4) In this Act, for the avoidance of doubt, a reference to the spouse of a person means a spouse who is of the opposite sex to that person.
 
@@ -886,15 +924,19 @@ ADMINISTRATION
 
 shall be guilty of an offence.
 
-(3) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence committed in relation to income tax.
+(3) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence under this Act.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (4) The obligation as to secrecy imposed by this section shall not prevent the disclosure to the authorised officers of the government of any other country —
 
 (a) of such facts as may be necessary to enable the proper relief from income tax to be given in either country, where provision exists for the granting of relief in respect of taxes paid in the other country; or
 
-(b) of any information for the purpose of discharging an obligation of Singapore under an arrangement between the government of that country and the Government of Singapore that has effect under section 49 or 105BA;
+(b) of any information for the purpose of discharging an obligation of Singapore under an arrangement between the government of that country and the Government of Singapore that has effect under section 49 or 105BA, or under any agreement or arrangement between the government of that country and the Government of Singapore and to which Part XXB applies.
 
 [22/2011 wef 20/12/2011]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (5) Notwithstanding anything in this section, the Comptroller shall permit the Minister, the Auditor-General or any officer duly authorised in that behalf by the Auditor-General to have such access to any records or documents as may be necessary for the performance of his official duties.
 
@@ -1124,13 +1166,19 @@ IMPOSITION OF INCOME TAX
 
 (b) the value of any food, clothing or lodging provided or paid for by the employer;
 
-(c) the annual value of any place of residence provided by the employer and for the purposes of this paragraph —
+(c) for the year of assessment 2014 and any preceding year of assessment, the annual value of any place of residence provided by the employer and for the purposes of this paragraph —
 
 (i) if the remuneration received by a director of a company is less than the annual value of the premises, the full annual value shall be deemed to be gains or profits of the employment;
 
 (ii) except as provided in sub-paragraph (i), if the annual value of the premises exceeds 10% of the gains or profits from the employment mentioned in paragraphs (a) and (b) less the rent, if any, paid by the employee for the use of the premises, the excess shall be disregarded;
 
 (iii) where the premises are shared, “place of residence” means the part of the premises occupied by the person chargeable;
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(ca) for the year of assessment 2015 and subsequent years of assessment, the annual value of any place of residence provided by the employer (or the part thereof occupied by the employee if the premises are shared with another) less the rent (if any) paid by the employee for the use of the premises;
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (d) any sum standing to the account of any individual in any pension or provident fund or society which the individual is entitled to withdraw upon retirement or which is withdrawn therefrom.
 
@@ -1608,9 +1656,11 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [1/98; 30/2007]
 
-(4) Notwithstanding subsection (1)(a) but subject to subsection (6), where a contribution is made by an employer in any year to the medisave account of his employee maintained under the Central Provident Fund Act (Cap. 36), the contribution up to the maximum amount referred to in subsection (5) shall not be deemed to be income accruing to the employee.
+(4) Notwithstanding subsection (1)(a) but subject to subsection (6), where a contribution is made by an employer in any year before 2013 to the medisave account of his employee maintained under the Central Provident Fund Act (Cap. 36), the contribution up to the maximum amount referred to in subsection (5) shall not be deemed to be income accruing to the employee.
 
 [22/2011 wef 01/01/2011]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (5) The maximum amount is $1,500 less —
 
@@ -1620,9 +1670,19 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [22/2011 wef 01/01/2011]
 
-(6) Subsection (4) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass in that year.
+(5A) Notwithstanding subsection (1)(a) but subject to subsection (6), where a contribution is made by an employer in 2013 or any subsequent year to the medisave account of his employee maintained under the Central Provident Fund Act (Cap. 36), the contribution up to the maximum amount referred to in subsection (5B) shall not be deemed to be income accruing to the employee.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(5B) The maximum amount is $1,500 in any year less any previous contribution made to that medisave account in that year by that employer in his capacity as a person of a prescribed description referred to in section 13(1)(jd) (if applicable) that is exempt from tax under that provision.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(6) Subsections (4) and (5A) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass in that year.
 
 [1/98; 30/2007]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (7) [Deleted by Act 7 of 2007]
 
@@ -1762,7 +1822,7 @@ whichever is the lesser;
 
 [32/95; 37/2002; 53/2007]
 
-### Ascertainment of income from certain public-private partnership arrangement
+### Ascertainment of income from certain public-private partnership arrangements
 
 10F\.—(1) Where —
 
@@ -1778,13 +1838,57 @@ then —
 
 (ii) the person shall not be assessed to tax on that part of the lease payment under that finance lease that is attributable to repayment of principal.
 
+(1A) Notwithstanding any other provision of this Act, where —
+
+(a) a person provides any services in the basis period for the year of assessment 2012 or any subsequent year of assessment under a public-private partnership arrangement —
+
+(i) that is the subject of a contract entered into between him and the Government or any approved statutory body; and
+
+(ii) to which INT FRS 112 applies; and
+
+(b) the person recognises in his financial statements, prepared in accordance with INT FRS 112, that income of a certain amount has been derived from such services,
+
+then that amount shall be deemed as income derived by that person from those services for that basis period.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(1B) Notwithstanding subsection (1A), the person referred to in that subsection may elect in accordance with subsection (1D) for the Comptroller to assess to tax any deemed income referred to in subsection (1A) from providing any FRS 11 construction or upgrade services under the public-private partnership arrangement, as income derived by him in the basis period in which those services are completed.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(1C) Where an election has been made in accordance with subsection (1D), then, notwithstanding any other provision of this Act —
+
+(a) the income referred to in subsection (1B) shall be deemed as income derived by the person in the basis period in which the FRS 11 construction or upgrade services are completed; and
+
+(b) any expenditure for which a deduction or allowance may be allowed or made to him under Parts V and VI in respect of those services shall be treated as having been incurred in that basis period.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(1D) The election shall be made by notice in writing to the Comptroller —
+
+(a) at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the person first provides the FRS 11 construction or upgrade services, being the year of assessment 2012 or any subsequent year of assessment; or
+
+(b) at such later time as the Comptroller may allow.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(1E) The election made under subsection (1D) shall be irrevocable.
+
+[Act 19 of 2013 wef 28/11/2013]
+
 (2) In this section —
 
 “approved” means approved by the Minister or such person as he may appoint;
 
-“FRS 17” and “INT FRS 104” mean the financial reporting standards known as Financial Reporting Standard 17 (Leases) and Interpretation of Financial Reporting Standard 104 (Determining whether an arrangement contains a lease), respectively, issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B).
+[Deleted by Act 19 of 2013 wef 28/11/2013]
 
-[27/2009 wef 29/12/2009]
+“FRS 11 construction or upgrade services” means any construction or upgrade services (as the case may be) to which FRS 11 applies;
+
+[Act 19 of 2013 wef 28/11/2013]
+
+“FRS 11”, “FRS 17”, “INT FRS 104” and “INT FRS 112” mean the financial reporting standards known as Financial Reporting Standard 11 (Construction Contracts), Financial Reporting Standard 17 (Leases), Interpretation of Financial Reporting Standard 104 (Determining whether an arrangement contains a lease) and Interpretation of Financial Reporting Standard 112 (Service Concession Arrangements), respectively, issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B).
+
+[Act 19 of 2013 wef 28/11/2013]
 
 10G\. [Repealed by Act 37/2002]
 
@@ -2628,7 +2732,9 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 
 (bd) subject to subsection (2I) and such conditions as may be prescribed by regulations, any amount payable to any person from any Islamic debt securities —
 
-(i) which are qualifying debt securities and issued during the period from 16th February 2008 to 31st December 2013; and
+(i) which are qualifying debt securities and issued during the period from 16th February 2008 to 31st December 2018; and
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (ii) the amount payable from which is not deductible against any income of the issuer of those securities accruing in or derived from Singapore;
 
@@ -2658,7 +2764,7 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 
 (jb) any retiring gratuity received by an individual from an approved pension or provident fund (other than the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8)) to the extent of such amount of the gratuity as the Comptroller may determine relating to the period of employment of that individual with the employer before 1st January 1993;
 
-(jc) any voluntary contribution in cash made in 2011 or any subsequent year by a person of a description prescribed by the Minister to the medisave account maintained under the Central Provident Fund Act (Cap. 36) of a self-employed individual, up to $1,500 less —
+(jc) any voluntary contribution in cash made in 2011 or 2012 by a person of a description prescribed by the Minister to the medisave account maintained under the Central Provident Fund Act (Cap. 36) of a self-employed individual, up to $1,500 less —
 
 (i) any previous contribution made to that medisave account in that year that is exempt from tax under this paragraph; and
 
@@ -2667,6 +2773,12 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 Provided that the amount of the voluntary contribution does not exceed the amount allowable under the Central Provident Fund Act and is within the medisave contribution ceiling prevailing at the time the contribution is made;
 
 [22/2011 wef 01/01/2011]
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(jd) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister to the medisave account maintained under the Central Provident Fund Act of a self-employed individual, up to $1,500 less any previous contribution made to that medisave account in that year by the person of the prescribed description in his capacity as an employer (if applicable) which is not deemed to be income under section 10C(5A);
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (k) sums derived from, or received in, Singapore as pensions, being —
 
@@ -2756,7 +2868,9 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (zc) the prescribed amount of interest derived during the period 1st January 2003 to 31st December 2004 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(zd) the interest derived on or after 1st January 2005 by any individual from the deposit of moneys with an approved bank or a finance company licensed under the Finance Companies Act in Singapore;
+(zd) the interest derived on or after 1st January 2005 by any individual from a deposit of moneys held in Singapore with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108);
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (ze) the following income derived from Singapore on or after 1st January 2004 by any individual:
 
@@ -2788,11 +2902,11 @@ except where such income is derived through a partnership in Singapore or is der
 
 (i) any discount from debt securities;
 
-(ii) any distribution made by any restricted Singapore scheme out of income derived from Singapore or received in Singapore on or after 17th February 2006, that is income or deemed to be income of the individual, except distribution made out of Singapore dividends from which tax is deducted or deductible under section 44,
-
-except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+(ii) any distribution made by any restricted Singapore scheme out of income derived from Singapore or received in Singapore on or after 17th February 2006, that is income or deemed to be income of the individual,
 
 [Act 19 of 2013 wef 01/10/2009]
+
+except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
 
 (zj) any income from any structured product offered by a financial institution derived from Singapore —
 
@@ -3162,7 +3276,9 @@ is, notwithstanding anything in that order, treated as revoked on 1st April 2015
 
 (16) In this section —
 
-“approved bank” means a bank in Singapore approved by the Minister by order in theGazette;
+“approved bank” means a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+[Act 19 of 2013 wef 28/11/2013]
 
 “approved bond intermediary” means a financial institution approved as such by the Minister or such person as he may appoint;
 
@@ -3277,6 +3393,8 @@ but does not include, except with the approval of the Minister or such person as
 “registered business trust” and “trustee-manager” have the same meanings as in the Business Trusts Act (Cap. 31A);
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
+
+[Deleted by Act 19 of 2013 wef 01/10/2009]
 
 “restricted Singapore scheme” means a collective investment scheme constituted as a unit trust that is a restricted Singapore scheme within the meaning of the regulations made under the Securities and Futures Act (Cap. 289) for the purpose of section 305 of that Act;
 
@@ -3564,6 +3682,8 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 
 [28/92]
 
+[Act 19 of 2013 wef 28/11/2013]
+
 ### Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore
 
 13C\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of the trustee of any prescribed trust fund arising from funds managed in Singapore by any fund manager.
@@ -3726,11 +3846,9 @@ is the tax rate applicable to that year of assessment as specified in section 43
 
 then the first-mentioned person is taken to beneficially own equity interests of the second level entity; and the percentage which the value of those equity interests bears to the total value of all equity interests of the second level entity shall be computed in accordance with the following formula:
 
-[27/2009 wef 29/12/2009]
-
 where A
 
-is the percentage which the value of equity interests of the first level entity beneficially owned by the first-mentioned person bears to the total value of all equity interests of the first level entity; and
+is the percentage which the value of equity interests of the first level entity beneficially owned by the first‑mentioned person bears to the total value of all equity interests of the first level entity; and
 
 B
 
@@ -4248,11 +4366,13 @@ ought not to have been so exempted or taxed at a concessionary rate for any year
 
 ### Exemption of tax on gains or profits from equity remuneration incentive scheme (SMEs)
 
-13J\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st June 2000, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company, there shall, subject to this section, be exempt from tax 50% of an amount of such gains or profits as determined under subsection (2).
+13J\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted during the period from 1st June 2000 to 31st December 2013 (both dates inclusive), or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted during the period from 1st January 2002 to 31st December 2013 (both dates inclusive), to acquire shares in any qualifying company or in its holding company, there shall, subject to this section, be exempt from tax 50% of an amount of such gains or profits as determined under subsection (2).
 
 [34/2008 wef 16/02/2008]
 
 [37/2002]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (2) The amount of gains or profits referred to in subsection (1) is —
 
@@ -4296,9 +4416,13 @@ ought not to have been so exempted or taxed at a concessionary rate for any year
 
 (6) For the purposes of this section and section 13L, where a company grants —
 
-(a) any stock option on or after 1st April 2001; or
+(a) any stock option during the period from 1st April 2001 to 31st December 2013 (both dates inclusive); or
 
-(b) any right or benefit under any share acquisition scheme (other than a stock option scheme) on or after 1st January 2002,
+[Act 19 of 2013 wef 28/11/2013]
+
+(b) any right or benefit under any share acquisition scheme (other than a stock option scheme) during the period from 1st January 2002 to 31st December 2013 (both dates inclusive),
+
+[Act 19 of 2013 wef 28/11/2013]
 
 to acquire shares under a tranche of the share acquisition scheme and any gains or profits derived by a qualifying employee from any right or benefit granted under that tranche qualifies for tax exemption under this section as well as section 13L, the company shall opt for the tax exemption under this section or section 13L to apply in respect of the gains or profits relating to that tranche but not under both sections.
 
@@ -4319,6 +4443,10 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 (9) Any option by a company under subsection (6) shall be irrevocable.
 
 [24/2001]
+
+(9A) Notwithstanding anything in this section, the exemption under this section shall not apply to any gains or profits derived by a qualifying employee on or after 1st January 2024.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (10) In this section, unless the context otherwise requires —
 
@@ -4372,7 +4500,7 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 ### Exemption of tax on gains or profits from equity remuneration incentive scheme
 
-13L\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st April 2001, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company under a share acquisition scheme which satisfies the relevant percentage requirement, there shall, subject to this section and section 13J(6) to (9), be exempt from tax —
+13L\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted during the period from 1st April 2001 to 31st December 2013 (both dates inclusive), or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted during the period from 1st January 2002 to 31st December 2013 (both dates inclusive), to acquire shares in any qualifying company or in its holding company under a share acquisition scheme which satisfies the relevant percentage requirement, there shall, subject to this section and section 13J(6) to (9), be exempt from tax —
 
 (a) the first $2,000 of such gains or profits in that year of assessment as determined under subsection (2); and
 
@@ -4381,6 +4509,8 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 [37/2002]
 
 [34/2008 wef 16/02/2008]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (2) The amount of gains or profits referred to in subsection (1) is —
 
@@ -4399,6 +4529,10 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 (c) which is derived by him for the release of his right or benefit to acquire shares in any qualifying company or in its holding company by reason of his resignation or termination of his employment with the qualifying company due to misconduct.
 
 [24/2001; 37/2002]
+
+(3A) Notwithstanding anything in this section, the exemption under this section shall not apply to any gains or profits derived by a qualifying employee on or after 1st January 2024.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (4) The Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
 
@@ -4452,7 +4586,7 @@ is the number of part-time employees (other than non-executive directors) on the
 
 D
 
-is the number of full-time employees with less than one year’s service (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
+is the number of full-time employees with less than one year’s service (other than non‑executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
 
 E
 
@@ -4501,6 +4635,10 @@ the company shall opt for the tax exemption under this section or section 13J to
 (b) shall be available in respect of any right or benefit to acquire shares granted subsequent to the option by the company under any tranche under the share acquisition scheme only where the conditions for tax exemption under this section are not satisfied in respect of any such subsequent tranche granted.
 
 [34/2008 wef 16/02/2008]
+
+(5A) Notwithstanding anything in this section, the exemption under this section shall not apply to any gains or profits derived by a qualifying employee on or after 1st January 2024.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (6) The Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
 
@@ -4678,7 +4816,7 @@ where any amount of tax of the NOR individual payable in Singapore is borne, dir
 
 (c)
 
-[Deleted by Act 34/2008, wef Y/A 2009 & Sub Ys/A]
+[Deleted by Act 34 of 2008]
 
 [37/2002; 49/2004]
 
@@ -4952,11 +5090,9 @@ is the tax rate applicable to that year of assessment as specified in section 43
 
 then the first-mentioned person is taken to beneficially own equity interests of the second level entity; and the percentage which the value of those equity interests bears to the total value of all equity interests of the second level entity shall be computed in accordance with the following formula:
 
-[27/2009 wef 29/12/2009]
-
 where A
 
-is the percentage which the value of equity interests of the first level entity beneficially owned by the first-mentioned person bears to the total value of all equity interests of the first level entity; and
+is the percentage which the value of equity interests of the first level entity beneficially owned by the first‑mentioned person bears to the total value of all equity interests of the first level entity; and
 
 B
 
@@ -5754,17 +5890,31 @@ And provided that no deduction shall be allowed in respect of any contribution o
 
 [34/2008 wef Y/A 2009 & Ys/A]
 
-(f) any sum contributed by an employer in any calendar year to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer subject to a maximum deduction of the amount in subsection (1A) for that year for each employee:
+(f) any sum contributed by an employer in any calendar year before 2013 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer subject to a maximum deduction of the amount in subsection (1A) for that year for each employee:
 
 Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
 
 [Act 29 of 2012 wef 01/01/2011]
 
-(fa) any voluntary contribution in cash made in 2011 or any subsequent year by a person of a description prescribed by the Minister for the purposes of this paragraph, to the medisave account of a self-employed individual maintained under the Central Provident Fund Act, subject to a maximum deduction of the amount in subsection (1A) for that year for each individual:
+[Act 19 of 2013 wef 28/11/2013]
+
+(fa) any voluntary contribution in cash made in 2011 or 2012 by a person of a description prescribed by the Minister for the purposes of this paragraph, to the medisave account of a self-employed individual maintained under the Central Provident Fund Act, subject to a maximum deduction of the amount in subsection (1A) for that year for each individual:
 
 Provided that the amount of voluntary contribution does not exceed the amount allowable under the Central Provident Fund Act and is within the medisave contribution ceiling prevailing at the time the contribution is made;
 
 [Act 29 of 2012 wef 01/01/2011]
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(fb) any sum contributed by an employer in 2013 or any subsequent year to the medisave account maintained under the Central Provident Fund Act in respect of any of his employees engaged in activities relating to the production of the income of the employer, up to a maximum deduction of $1,500 for that year for each employee’s medisave account, less any previous contribution made to that medisave account in that year by that employer in his capacity as a person of a prescribed description under paragraph (fc) (if applicable) and that is deductible under that provision:
+
+Provided that no deduction shall be allowed in respect of any sum contributed by an employer to the medisave account maintained under the Central Provident Fund Act in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(fc) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister for the purposes of this paragraph, to the medisave account of a self-employed individual maintained under the Central Provident Fund Act, up to a maximum deduction of $1,500 for that year for each individual’s medisave account, less any previous contribution made to that medisave account in that year by the person of the prescribed description in his capacity as an employer under paragraph (fb) (if applicable) and that is deductible under that provision;
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (g) zakat, fitrah or any religious dues, payment of which is made under any written law;
 
@@ -5896,9 +6046,9 @@ the total amount of medical expenses incurred by the employer for his employees 
 
 the difference between 2% of the total remuneration of his employees in that basis period and C.
 
-[34/2008, wef Y/A 2008 & Sub Ys/A]
-
 [34/2005]
+
+[34/2008, wef Y/A 2008 & Sub Ys/A]
 
 (6C) For the purpose of subsection (6B), a reference to expenses incurred by an employer in providing qualifying insurance excludes any reimbursement in cash by the employer of the employee for payment by the employee of premiums on such qualifying insurance.
 
@@ -6544,7 +6694,7 @@ but excludes such expenses on international freight;
 
 where A
 
-is the amount of the expenditure or payments;
+is the amount of the expenditure or payments (after deducting any amount in respect of which an election for a cash payout has been made under section 37I);
 
 B
 
@@ -6570,7 +6720,7 @@ in a case where the concessionary income derived by the person from the trade or
 
 14DA\.—(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on any trade or business during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2015 (both years inclusive), there shall be allowed in respect of all his trades and businesses, in addition to the deductions allowed under section 14D, a deduction for expenditure or payments for research and development undertaken by him, of an amount computed in accordance with the following formula:
 
-U
+where U
 
 is the amount of qualifying expenditure incurred during the basis period on any local research and development undertaken directly by the person, including on that part undertaken in Singapore of any mixed research and development undertaken directly by that person, but excluding any capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development; and
 
@@ -7004,61 +7154,7 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (f) units in a real estate investment trust within the meaning of section 43(10).
 
-### Further deduction for expenditure on research and development of new financial activities
-
-14J\.—(1) Subject to this section, where the Comptroller is satisfied that the following expenses have been incurred by a financial institution, there shall be allowed a further deduction of the amount of such expenses in addition to the amount allowed under section 14 —
-
-(a) salary, wages and other benefits paid or granted in respect of employment (excluding director’s fees), whether in money or otherwise, to an approved employee engaged in the research and development of any approved new financial activity;
-
-(b) legal expenses, excluding expenses incurred in respect of litigation, which, in the opinion of the Comptroller, are directly attributable to the research and development of any approved new financial activity;
-
-(c) expenses incurred in respect of any approved course of instruction or training conducted in Singapore by an approved employee; and
-
-(d) fees and other benefits paid or granted under or arising out of a contract for financial consultancy services, whether in money or otherwise, to an approved consultant engaged in the research and development of any approved new financial activity, where —
-
-(i) the contract is for a period of not less than 6 months; and
-
-(ii) the approved consultant is not absent from Singapore for more than 30 days in the aggregate during the period of the contract.
-
-[28/92; 26/93; 32/95]
-
-(2) The maximum amount of expenses to be allowed under subsection (1) to any financial institution in the basis period for any year of assessment shall not exceed 30% of such amount as would have been the statutory income of the financial institution for that year of assessment had the further deduction not been allowed.
-
-(3) Any expenses in excess of the amount allowed under subsection (2) shall not be carried forward to any subsequent year of assessment.
-
-(4) The Minister or such person as he may appoint may —
-
-(a) approve any financial institution for such period not exceeding 5 years as he may specify and such approval may be extended for further periods not exceeding 5 years at a time; and
-
-(b) impose such conditions as he thinks fit when approving the institution, employee or new financial activity and may specify the period or periods for which deduction is to be allowed under this section.
-
-(5) No deduction shall be allowed to a financial institution in respect of any expenses which are not allowed as a deduction under section 14.
-
-[27/2009 wef 01/01/2010]
-
-(5A) No approval or extension of approval shall be granted under this section on or after 1st January 2010.
-
-(6) In this section —
-
-“approved” means approved by the Minister or such person as he may appoint;
-
-“financial institution” means a bank, merchant bank, securities dealer, investment adviser or futures broker which is approved for the purposes of this section;
-
-“new financial activity” means a new or innovative financial activity or instrument which falls within the following categories of activities or instruments:
-
-(a) derivatives trading including share options, currency options and interest rate options;
-
-(b) swap transactions excluding plain vanilla swaps;
-
-(c) technical trading computer systems and software;
-
-(d) risk management services which employ sophisticated hedging techniques and instruments;
-
-(e) development of synthetic securities and instruments linked to derivatives;
-
-(f) research on foreign securities; and
-
-(g) such other category of activities or instruments as may be prescribed.
+14J\. [Repealed by Act 19 of 2013 wef 28/11/2013]
 
 ### Further or double deduction for overseas investment development expenditure
 
@@ -7878,7 +7974,7 @@ where A is the lower of —
 
 where A
 
-has the same meaning as in sub-paragraph (ii); and
+has the same meaning as in sub‑paragraph (ii); and
 
 B
 
@@ -7890,7 +7986,7 @@ the renovation or refurbishment expenditure incurred by him during the basis per
 
 (B)
 
-$300,000 – A;
+$300,000 – A; or
 
 [Act 29 of 2012 wef 18/12/2012]
 
@@ -8370,6 +8466,124 @@ shall be allowed the deduction or further deduction for the previous expense und
 
 [22/2011 wef Y/A 2012 & Sub Ys/A]
 
+### Deduction for amortisation of intangible asset created under public-private partnership arrangement
+
+14V\.—(1) Where —
+
+(a) a person provides services under a public-private partnership arrangement —
+
+(i) that is the subject of a contract entered into between the Government or any approved statutory body and any person; and
+
+(ii) to which INT FRS 112 applies;
+
+(b) section 10F(1A) or (1C) applies to him in respect of those services;
+
+(c) the person recognises in his financial statements, prepared in accordance with INT FRS 112, an intangible asset as having been created in the course of providing the services; and
+
+(d) in accordance with FRS 38, amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment,
+
+then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38, shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
+
+(2) In this section —
+
+“FRS 38” means the financial reporting standard known as Financial Reporting Standard 38 (Intangible Assets) issued by the Accounting Standards Council under the Accounting Standards Act;
+
+“INT FRS 112” has the same meaning as in section 10F.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Deduction for expenditure on licensing intellectual property rights
+
+14W\.—(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2013, 2014 or 2015, there shall be allowed, in respect of all his trades and businesses and in addition to the deduction allowed under section 14 or 14D (as the case may be), a deduction for expenditure incurred during the basis period for the purposes of those trades and businesses on the licensing from another person of any qualifying intellectual property rights that is computed in accordance with the following formula:
+
+where A is —
+
+(a) for the year of assessment 2013, the lower of the following:
+
+(i) such expenditure incurred during the basis period for that year of assessment;
+
+(ii) $1,200,000;
+
+(b) for the year of assessment 2014, the lower of the following:
+
+(i) such expenditure incurred during the basis period for that year of assessment;
+
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii); and
+
+(c) for the year of assessment 2015, the lower of the following:
+
+(i) such expenditure incurred during the basis period for that year of assessment;
+
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
+
+(2) Notwithstanding anything in this section or section 19B, where a person has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred both expenditure on the licensing from another person of any qualifying intellectual property rights and expenditure on the acquisition of any intellectual property rights, the aggregate of the expenditure which may be given a deduction under subsection (1) and the expenditure which may be given an allowance under section 19B(1B) shall not exceed —
+
+(a) in the case of the year of assessment 2013, the lower of the following:
+
+(i) the aggregate of all such expenditure;
+
+(ii) $1,200,000;
+
+(b) in the case of the year of assessment 2014, the lower of the following:
+
+(i) the aggregate of all such expenditure;
+
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii); and
+
+(c) in the case of the year of assessment 2015, the lower of the following:
+
+(i) the aggregate of all such expenditure;
+
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
+
+(3) In subsections (1) and (2) —
+
+(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the years of assessment 2013 and 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the other 2 years of assessment shall be substituted with “$800,000”;
+
+(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the years of assessment 2013 and 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the remaining year of assessment shall be substituted with “$400,000”; and
+
+(c) for the avoidance of doubt —
+
+(i) if the person does not carry on any trade or business during the basis period for the year of assessment 2013, no deduction shall be made from the substituted amount in subsection (1)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (1)(a)(i) and (ii), or from the substituted amount in subsection (2)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (2)(a)(i) and (ii); and
+
+(ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2014, no deduction shall be made from the substituted amount in subsection (1)(c)(ii) of the lower of the amounts specified in subsection (1)(b)(i) and (ii), or from the substituted amount in subsection (2)(c)(ii) of the lower of the amounts specified in subsection (2)(b)(i) and (ii).
+
+(4) For the purposes of subsection (1), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights in respect of such firms for the purposes of his trade or business, the deductions that may be allowed to him for that expenditure in respect of all his trades and businesses shall not exceed the amount computed in accordance with subsection (1) for that year of assessment.
+
+(5) For the purposes of subsections (1) and (2), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights and (if applicable) the acquisition of any intellectual property rights, for the purposes of its trade or business, the aggregate of the deductions and allowances that may be allowed to all the partners of the partnership for that expenditure in respect of all the trades and businesses of the partnership shall not exceed the amount computed in accordance with subsection (1) or (2) (as the case may be) for that year of assessment.
+
+(6) No deduction shall be allowed under this section in respect of —
+
+(a) any expenditure which is not allowed as a deduction under section 14 or 14D (as the case may be);
+
+(b) any expenditure incurred by a person on licensing from its related party carrying on any trade or business in Singapore, of any qualifying intellectual property rights, where such rights were acquired or developed (in whole or in part) by the related party during the basis period relating to the year of assessment 2011 or any subsequent year of assessment; or
+
+(c) any qualifying intellectual property rights for which a writing-down allowance has been previously made to that person under section 19B.
+
+(7) The Minister may by order exempt a person from subsection (6)(b) in respect of such transaction as may be specified in the order.
+
+(8) In this section —
+
+“intellectual property rights” has the same meaning as in section 19B(11);
+
+“qualifying intellectual property rights” means intellectual property rights but excludes the right to do or authorise the doing of anything which would, but for that right, be an infringement of —
+
+(a) any trademark; or
+
+(b) any rights to the use of software;
+
+“related party” has the same meaning as in section 13(16).
+
+(9) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights or the acquisition of intellectual property rights excludes any such expenditure to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board.
+
+(10) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights means the licence fees and excludes —
+
+(a) expenditure for the transfer of ownership of any of those rights; and
+
+(b) legal fees and other costs related to the licensing of such rights.
+
+[Act 19 of 2013 wef 28/11/2013]
+
 ### Deductions not allowed
 
 15\.—(1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
@@ -8398,11 +8612,13 @@ shall be allowed the deduction or further deduction for the previous expense und
 
 (iii) such payment made by an employer on his employee’s behalf to the SRS account of that employee up to the amount of the SRS contribution cap applicable to that employee as determined in accordance with regulations made under section 10L(11); and
 
-(iv) such payments as are allowed under section 14(1)(e), (f) and (fa);
+(iv) such payments as are allowed under section 14(1)(e), (f), (fa), (fb) and (fc);
 
 [22/2011 wef 01/01/2011]
 
 [34/2008 wef Y/A 2009 & Sub Ys/A]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (j) any sum referred to in section 12(6) payable by any person outside Singapore to another person outside Singapore except where the sum is exempt from tax, or tax has been deducted and accounted for under section 45;
 
@@ -8434,7 +8650,7 @@ shall be allowed the deduction or further deduction for the previous expense und
 
 [7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14P, 14PA, 14Q or 14S.
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14P, 14PA, 14Q, 14S, 14V or 14W.
 
 [22/2011 wef Y/A 2012 & Sub Ys/A]
 
@@ -8447,6 +8663,8 @@ shall be allowed the deduction or further deduction for the previous expense und
 [29/2010 wef 01/01/2004]
 
 [9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99; 21/2003]
+
+[Act 19 of 2013 wef Y/A 2012 & Sub Ys/A]
 
 (3) In this section, “holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50).
 
@@ -9018,9 +9236,9 @@ there shall be made to that person, computed in accordance with section 16 —
 
 (ii) acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under that Act; or
 
-(b) is registered outside Singapore and used exclusively outside Singapore.
+(b) was acquired in the basis period for the year of assessment 2013 or any preceding year of assessment, and is registered outside Singapore and used exclusively outside Singapore.
 
-[32/99]
+[Act 19 of 2013 wef 28/11/2013]
 
 \*\*(5) No allowance under this sectionor section 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
@@ -10280,9 +10498,9 @@ in a case where the concessionary income derived by the person from the trade or
 
 [32/99]
 
-(5) For the purpose of this section, where the capital expenditure incurred in providing a new motor car registered outside Singapore and used exclusively outside Singapore exceeds $35,000, the expenditure incurred shall be deemed to be $35,000.
+(5) For the purpose of this section, where the capital expenditure incurred in providing, in the basis period for the year of assessment 2013 or any preceding year of assessment, a new motor car registered outside Singapore and used exclusively outside Singapore exceeds $35,000, the expenditure incurred shall be deemed to be $35,000.
 
-[32/99]
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Expenditure on machinery or plant
 
@@ -10454,11 +10672,7 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [7/79; 9/80; 20/91; 26/93; 21/2003; 7/2007]
 
-### Export credit insurers
-
-(5) In the case of an insurer engaged primarily in the business of export credit insurance, the gains or profits on which tax is payable shall be ascertained by such underwriting accounting method as the Comptroller may approve.
-
-[1/82; 7/2007]
+(5) [Deleted by Act 19 of 2013 wef 28/11/2013]
 
 ### Life insurers
 
@@ -10632,7 +10846,7 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to offshore non- participating and offshore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act;
 
-“offshore life policy” means a policy issued in respect of offshore life insurance business;
+[Deleted by Act 19 of 2013 wef 28/11/2013]
 
 “offshore risk” means any risk outside Singapore and —
 
@@ -11536,7 +11750,7 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [34/2008 wef 01/04/2008]
 
-(2) [Deleted by Act 29 of 2012 wef 18/12/2012 wef Y/A 2013 & Sub Ys/A]
+(2) [Deleted by Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
 
 ### Limited liability partnership
 
@@ -13210,9 +13424,17 @@ for which a deduction or an allowance is allowable or can be made to him under a
 
 (a) section 14 in respect of —
 
-(i) expenditure that falls within the definition of “qualifying training expenditure” under section 14R, or the definition of “qualifying design expenditure” under section 14S; or
+(i) expenditure that falls within the definition of “qualifying training expenditure” under section 14R for which a deduction may be given under that section;
 
-(ii) expenditure on the leasing of a PIC automation equipment under a qualifying lease under section 14T;
+(ii) expenditure that falls within the definition of “qualifying design expenditure” under section 14S for which a deduction may be given under that section;
+
+(iii) expenditure on the leasing of a PIC automation equipment under a qualifying lease for which a deduction may be given under section 14T; or
+
+[Act 19 of 2013 wef Y/A 2011 & Sub Ys/A]
+
+(iv) expenditure on the licensing from another person of any qualifying intellectual property rights for which a deduction may be given under section 14W;
+
+[Act 19 of 2013 wef Y/A 2013 & Sub Ys/A]
 
 (b) section 14A;
 
@@ -13225,6 +13447,10 @@ for which a deduction or an allowance is allowable or can be made to him under a
 (f) section 14S;
 
 (g) section 14T;
+
+(ga) section 14W;
+
+[Act 19 of 2013 wef Y/A 2013 & Sub Ys/A]
 
 (h) section 19 or 19A(1), (1B), (2), (2A) or (2B), in respect of expenditure incurred on the provision of any PIC automation equipment, other than any equipment acquired —
 
@@ -13354,9 +13580,7 @@ is 60% if the agreement is signed in the basis period for the year of assessment
 
 [Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
 
-(6) For the purposes of subsections (1), (3), (4) and (4A), the sum of the cash payouts that may be granted to all the partners of a partnership carrying on one or more trades, professions or businesses, shall not exceed the amount computed in accordance with subsection (3) or (4) (as the case may be).
-
-[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
+(6) [Deleted by Act 19 of 2013 wef Y/A 2011 & Sub Ys/A]
 
 (7) Where a qualifying person has elected for a cash payout in lieu of a deduction or an allowance under section 14A, 19, 19A(1), (1B), (2), (2A) or (2B) or 19B, the election so made shall be treated as having been made on the full amount of the expenditure qualifying for such deduction or allowance and incurred on —
 
@@ -13438,11 +13662,11 @@ then the following provisions shall apply:
 
 (ii) an amount computed in accordance with the following formula shall be recoverable by the Comptroller from the qualifying person as a debt due to the Government:
 
-[22/2011 wef Y/A 2011 & Sub Ys/A]
+[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
 
 [29/2010 wef Y/A 2011 & Sub Ys/A]
 
-[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
+[22/2011 wef Y/A 2011 & Sub Ys/A]
 
 (11A) Where —
 
@@ -13486,7 +13710,7 @@ Number of complete years the intellectual property rights were held by the quali
 
 [Act 29 of 2012 wef Y/A 2012 & Sub Ys/A]
 
-(14A) If an election has been made under subsection (1) or (4A) in respect of an amount of expenditure qualifying for a deduction or allowance under section 14A(1A) or (1B), 14DA(2), 14R, 14S, 14T, 19A(2A) or (2B) or 19B(1A) or (1B), the amount of expenditure qualifying for the deduction or allowance under that provision shall, notwithstanding anything in that provision, not exceed the difference between —
+(14A) If an election has been made under subsection (1) or (4A) in respect of an amount of expenditure qualifying for a deduction or allowance under section 14A(1A) or (1B), 14DA(2), 14R, 14S, 14T, 14W, 19A(2A) or (2B) or 19B(1A) or (1B), the amount of expenditure qualifying for the deduction or allowance under that provision shall, notwithstanding anything in that provision, not exceed the difference between —
 
 (a) the maximum amount of expenditure in respect of which the deduction or allowance may be allowed or made under that provision for the year of assessment in question; and
 
@@ -13497,6 +13721,8 @@ Number of complete years the intellectual property rights were held by the quali
 [29/2010 wef Y/A 2011 & Sub Ys/A]
 
 [Act 29 of 2012 wef Y/A 2012 & Sub Ys/A]
+
+[Act 19 of 2013 wef Y/A 2013 & Sub Ys/A]
 
 (15) Where a qualifying person has received a cash payout under subsection (1) or (4A) —
 
@@ -13516,17 +13742,21 @@ the amount of the cash payout or the excess amount of the cash payout, as the ca
 
 [Act 29 of 2012 wef Y/A 2012 & Sub Ys/A]
 
-(16) The amount to be repaid under subsection (10), (11) or (15) shall be payable at the place stated in the notice served by the Comptroller on the qualifying person within 30 days after the service of the notice.
+(16) The amount to be repaid under subsection (10), (11), (11A) or (15) shall be payable at the place stated in the notice served by the Comptroller on the qualifying person within 30 days after the service of the notice.
 
 [29/2010 wef Y/A 2011 & Sub Ys/A]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (17) The Comptroller may, in his discretion and subject to such terms and conditions as he may impose, extend the time limit within which payment under subsection (16) is to be made.
 
 [29/2010 wef Y/A 2011 & Sub Ys/A]
 
-(18) Sections 86(1) to (6), 87(1) and (2), 89, 90 and 91 shall apply to the collection and recovery by the Comptroller of the amounts recoverable under subsections (10), (11) and (15) as they apply to the collection and recovery of tax.
+(18) Sections 86(1) to (6), 87(1) and (2), 89, 90 and 91 shall apply to the collection and recovery by the Comptroller of the amounts recoverable under subsections (10), (11), (11A) and (15) as they apply to the collection and recovery of tax.
 
 [29/2010 wef Y/A 2011 & Sub Ys/A]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (19) Unless disallowed by the Comptroller under subsection (20), where the Comptroller has recovered any amount under subsection (15)(b) or (c), the amount of the relevant expenditure referred to in subsection (14) or (14A) shall be increased by an amount determined in accordance with the formula
 
@@ -13536,9 +13766,9 @@ is the amount recovered by the Comptroller under subsection (15)(b) or (c); and
 
 B
 
-is 30% if the amount recovered is for a cash payout for expenditure incurred, equipment acquired under a hire-purchase agreement signed, or intellectual property rights acquired under an IPR instalment agreement signed, in the basis period for the year of assessment 2011 or the year of assessment 2012; or
+is 30% if the amount recovered is for a cash payout for expenditure incurred, equipment acquired under a hire‑purchase agreement signed, or intellectual property rights acquired under an IPR instalment agreement signed, in the basis period for the year of assessment 2011 or the year of assessment 2012; or
 
-is 60% if the amount recovered is for a cash payout for expenditure incurred, equipment acquired under a hire-purchase agreement signed, or intellectual property rights acquired under an IPR instalment agreement signed, in the basis period for the year of assessment 2013, the year of assessment 2014 or the year of assessment 2015.
+is 60% if the amount recovered is for a cash payout for expenditure incurred, equipment acquired under a hire‑purchase agreement signed, or intellectual property rights acquired under an IPR instalment agreement signed, in the basis period for the year of assessment 2013, the year of assessment 2014 or the year of assessment 2015.
 
 [Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
 
@@ -13624,39 +13854,283 @@ or any of several non-overlapping periods within the basis period as the Comptro
 
 [Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
 
-### Penalties for false information, etc., under section 37I
+### Productivity and Innovation Credit bonus
 
-37J\.—(1) Any person who gives to the Comptroller any information under section 37I(2) that is false in any material particular, or who omits any material particular from any information or document given under that provision, shall be guilty of an offence and shall on conviction be punished with a penalty that is equal to the amount of cash payout that has been made to him or any other person under section 37I as a result of the offence, or which would have been made to him or any other person under that section if the offence had not been detected.
+37IA\.—(1) For each of the years of assessment 2013, 2014 and 2015, a person, being a company or firm (including a partnership) (referred to in this section as an eligible person), shall be entitled to be given an amount in cash (referred to in this section as the Productivity and Innovation Credit Scheme bonus or PIC bonus) if the Comptroller is satisfied, based on the return of his income for that year of assessment and other information available to the Comptroller, that —
+
+(a) the person has incurred during the basis period for the year of assessment PIC expenditure of at least $5,000 in total;
+
+(b) he is carrying on a trade, profession or business in Singapore; and
+
+(c) he employed and made contributions to the Central Provident Fund in respect of at least 3 local employees based on the payroll for the last month (or such other month as the Comptroller may determine) of the basis period.
+
+(2) The amount of the PIC bonus to be given to the eligible person for any year of assessment shall be the lower of the following:
+
+(a) the amount of PIC expenditure incurred by him during the basis period for that year of assessment;
+
+(b) $15,000 less any PIC expenditure incurred by him during the basis period or periods for the other year or years of assessment (whether earlier or later than the first-mentioned basis period) for which he has already been given the PIC bonus.
+
+(3) Notwithstanding subsection (1), the eligible person shall be entitled to be given the PIC bonus for the year of assessment 2013, 2014 or 2015 before the expiration of the time he must deliver the return of his income for that year of assessment, if he has made an election under section 37I for a cash payout in respect of PIC expenditure incurred for a period comprising the whole or a part of the basis period for the year of assessment (referred to in this section as the elected period), and the Comptroller is satisfied, based on information given by the person pursuant to the election and other information available to the Comptroller, that —
+
+(a) the person has incurred PIC expenditure of at least $5,000 in total from the beginning of the basis period to the end of the elected period;
+
+(b) the person is a qualifying person within the meaning of section 37I in respect of the elected period; and
+
+(c) the person is carrying on a trade, profession or business in Singapore.
+
+(4) The amount of the PIC bonus to be given to the eligible person under subsection (3) shall be the lower of the following:
+
+(a) an amount that corresponds to the PIC expenditure incurred from the beginning of the basis period to the end of the elected period, less any expenditure incurred in that period for which he has already been given the PIC bonus;
+
+(b) $15,000 less any PIC expenditure incurred by him during the basis period or periods for the other year or years of assessment (whether earlier or later than the first-mentioned basis period) for which he has already been given the PIC bonus.
+
+(5) Where —
+
+(a) one or more payments of the PIC bonus for a year of assessment has been made to an eligible person under subsection (3); and
+
+(b) as of the date the eligible person delivers the return of his income for that year of assessment, he has not been given the maximum amount of the PIC bonus which he may be given under subsection (2) for that year of assessment,
+
+then he shall be entitled to be given the balance of the PIC bonus in respect of any PIC expenditure incurred in the basis period for the year of assessment for which no PIC bonus has been given, if the Comptroller is satisfied, based on the return and other information available to the Comptroller, that the person —
+
+(i) is carrying on a trade, profession or business in Singapore; and
+
+(ii) employed and made contributions to the Central Provident Fund in respect of at least 3 local employees based on the payroll for the last month (or such other month as the Comptroller may determine) of the basis period.
+
+(6) For the purposes of this section, an individual carrying on one or more trades, professions or businesses through 2 or more firms (excluding partnerships) shall not be given a PIC bonus for any year of assessment that exceeds the amount computed in accordance with subsection (2) for that year of assessment.
+
+(7) Notwithstanding subsections (1), (3) and (5), no PIC bonus may be given in respect of —
+
+(a) any qualifying intellectual property registration costs under section 14A relating to any intellectual property rights or any application for the registration or grant of such rights, if the rights or application have or has been sold, transferred or assigned within one year from the date of filing of the application for the registration or grant of those rights;
+
+(b) any capital expenditure on the provision of any PIC automation equipment —
+
+(i) if it has been sold, transferred, assigned or leased out within one year from the date of provision; and
+
+(ii) a waiver under section 19A(2HA) (in the case of subsection (1) or (5)) or 37I(10A) (in the case of subsection (3)) has not been granted in respect of the sale, transfer, assignment or lease; and
+
+(c) any capital expenditure on the acquisition of any intellectual property rights if any of the following has occurred within one year from the date of acquisition:
+
+(i) the intellectual property rights have come to an end without being subsequently revived;
+
+(ii) all or any part of the intellectual property rights have been sold, transferred or assigned;
+
+(iii) the eligible person has permanently ceased to carry on the trade or business for which the intellectual property rights were used;
+
+(iv) all or any part of the intellectual property rights in any software have been licensed to another.
+
+(8) Where a PIC bonus has been given to an eligible person in respect of —
+
+(a) qualifying intellectual property registration costs under section 14A relating to any intellectual property rights or any application for the registration or grant of such rights, and the rights or application are or is sold, transferred or assigned within one year from the date of filing of the application for the registration or grant of those rights; or
+
+(b) capital expenditure on the provision of any PIC automation equipment and that equipment is sold, transferred, assigned or leased out within one year from the date of provision,
+
+then all of the following provisions shall apply:
+
+(i) the eligible person shall give notice in writing to the Comptroller of such event in the manner specified by the Comptroller within 30 days from the date of such event;
+
+(ii) the PIC bonus given for the PIC expenditure in respect of the application for the registration or grant of intellectual property rights or the PIC automation equipment, shall be recoverable by the Comptroller from the person as a debt due to the Government;
+
+(iii) where the PIC automation equipment is the subject of a hire-purchase agreement, no PIC bonus shall be given to the person for any PIC expenditure under the agreement incurred in the basis period in which the event occurs and for any subsequent basis period thereof.
+
+(9) The Minister, or such person as he may appoint, may waive the application of subsection (8) in respect of an event referred to in paragraph (b) of that subsection in the same circumstances as those referred to in section 19A(2HA).
+
+(10) Where a PIC bonus has been given to an eligible person in respect of capital expenditure on the acquisition of any intellectual property rights and any of the following occurs within 5 years from the date of acquisition:
+
+(a) the intellectual property rights come to an end without being subsequently revived;
+
+(b) all or any part of the intellectual property rights are sold, transferred or assigned;
+
+(c) the person permanently ceases to carry on the trade or business for which the intellectual property rights are used;
+
+(d) all or any part of the intellectual property rights in any software are licensed to another,
+
+then both of the following provisions shall apply:
+
+(i) the person shall give notice in writing to the Comptroller of such event in the manner specified by the Comptroller within 30 days from the date of such event;
+
+(ii) an amount computed in accordance with the following formula shall be recoverable by the Comptroller from the person as a debt due to the Government:
+
+(11) Where a PIC bonus has been given to an eligible person in respect of capital expenditure on the acquisition of any intellectual property rights under an IPR instalment agreement and any of the events in subsection (10)(a) to (d) occurs within 5 years from the date of acquisition of the intellectual property rights, then all the following provisions shall apply:
+
+(a) the person shall give notice in writing to the Comptroller of such event in the manner specified by the Comptroller within 30 days from the date of such event;
+
+(b) where any amount of the PIC bonus has been given to the person before the occurrence of the event, an amount computed in accordance with the formula in subsection (10)(ii) shall be recoverable by the Comptroller from the person as a debt due to the Government;
+
+(c) for the purpose of paragraph (b), the reference in the formula to the amount of PIC bonus is a reference to the total amount of the PIC bonus that has been given to the person before the occurrence of the event;
+
+(d) the amount of the PIC bonus that may be given to the person in respect of those intellectual property rights for the basis period or elected period (as the case may be) in which the event occurs and thereafter shall be the part of the PIC bonus that corresponds to the intellectual property rights multiplied by the following:
+
+(12) Where any tax, duty, interest or penalty is due under this Act, the Goods and Services Tax Act (Cap. 117A), the Property Tax Act (Cap. 254) or the Stamp Duties Act (Cap. 312) by an eligible person to the Comptroller, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, the amount of PIC bonus that may be given by the Comptroller to him shall be reduced by the amount so due.
+
+(13) Any amount reduced under subsection (12) shall be deemed to be tax, duty, interest or penalty paid by the eligible person under the relevant Act and shall (if it is due under an Act other than this Act) be paid by the Comptroller to the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, as the case may be.
+
+(14) Where an eligible person has received a PIC bonus —
+
+(a) in respect of any expenditure that is subsequently found not to qualify for the deduction or allowance under the relevant PIC provision;
+
+(b) without having satisfied all of the requirements in this section for the PIC bonus; or
+
+(c) that is in excess of that which may be given to him under this section,
+
+the amount of the PIC bonus or the excess amount of the PIC bonus, as the case may be, shall be recoverable by the Comptroller from the person as a debt due to the Government.
+
+(15) The amounts to be repaid under subsections (8), (10), (11) and (14) shall be payable at the place stated in the notice served by the Comptroller on the eligible person within 30 days after the service of the notice.
+
+(16) The Comptroller may, in his discretion and subject to such terms and conditions as he may impose, extend the time limit within which payment under subsection (15) is to be made.
+
+(17) Sections 86(1) to (6), 87(1) and (2), 89, 90 and 91 shall apply to the collection and recovery by the Comptroller of the amounts recoverable under subsections (8), (10), (11) and (14) as they apply to the collection and recovery of tax.
+
+(18) In this section —
+
+“IPR instalment agreement” has the same meaning as in section 37I(21);
+
+“local employee”, in relation to an eligible person, means any Singapore citizen or Singapore permanent resident, but excludes —
+
+(a) a shareholder who is also a director of the eligible person if the eligible person is a company within the meaning of section 4 of the Companies Act (Cap. 50); and
+
+(b) a partner under a contract for service of the eligible person if the eligible person is a partnership;
+
+“PIC automation equipment” has the same meaning as in section 19A(15);
+
+“PIC provision” means any of the provisions of this Act in the second column of the table in the definition of “PIC expenditure”;
+
+“Productivity and Innovation Credit Scheme expenditure” or “PIC expenditure”, in relation to an eligible person who incurs the expenditure, means any of the expenditure in the first column of the following table for which a deduction or an allowance may be allowed or made to him under the provision of this Act that corresponds to it in the second column of the table:
+
+Expenditure
+
+Provision of Act
+
+(a)
+
+Qualifying intellectual property registration costs as defined in section 14A
+
+Section 14A(1B)
+
+(b)
+
+Qualifying expenditure as defined in section 14DA
+
+Section 14DA(2)
+
+(c)
+
+Qualifying training expenditure as defined in section 14R
+
+Section 14R(2)
+
+(d)
+
+Qualifying design expenditure as defined in section 14S
+
+Section 14S(2)
+
+(e)
+
+Expenditure on the leasing of any PIC automation equipment, or procuring of cloud computing services as defined in section 14T
+
+Section 14T(2)
+
+(f)
+
+Expenditure on the licensing from another of any intellectual property rights
+
+Section 14W(1)
+
+(g)
+
+Capital expenditure on the provision of any PIC automation equipment
+
+Section 19A(2B)
+
+(h)
+
+Capital expenditure on acquiring any intellectual property rights
+
+Section 19B(1B).
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Modification of sections 37I and 37IA in their application to partnership
+
+37IB\.—(1) A reference to a qualifying person in section 37I (including the person who has to satisfy the conditions for a cash payout), and a reference to an eligible person in section 37IA (including the person who has to satisfy the conditions for the PIC bonus) shall in each case, where the person is a partnership, be a reference to the partnership; except that a reference in those sections to any deduction or allowance that may be allowed or made to a qualifying person or an eligible person under a provision of this Act, is a reference to such deduction or allowance that may be allowed or made to all of the partners of the partnership.
+
+(2) In subsection (1) —
+
+“cash payout” means a payment under section 37I;
+
+“PIC bonus” means a payment under section 37IA.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Penalties for false information, etc., resulting in payment under section 37I or 37IA
+
+37J\.—(1) Any person who gives to the Comptroller any information under section 37I(2) that is false in any material particular, or who omits any material particular from any information or document given under that provision, shall be guilty of an offence and shall on conviction be punished with a penalty that is equal to the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to him or any other person as a result of the offence, or which would have been made to him or any other person if the offence had not been detected.
 
 [29/2010 wef 22/11/2010]
 
-(2) Any person who without reasonable excuse or through negligence gives to the Comptroller any information under section 37I(2) that is false in any material particular, or omits any material particular from any information or document given under that provision, shall be guilty of an offence and shall on conviction be punished with a penalty that is double the amount of cash payout that has been made to him or any other person under section 37I as a result of the offence, or which would have been made to him or any other person under that section if the offence had not been detected, and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+[Act 19 of 2013 wef 28/11/2013]
+
+(2) Any person who without reasonable excuse or through negligence gives to the Comptroller any information under section 37I(2) that is false in any material particular, or omits any material particular from any information or document given under that provision, shall be guilty of an offence and shall on conviction be punished with a penalty that is double the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to him or any other person as a result of the offence, or which would have been made to him or any other person if the offence had not been detected, and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [29/2010 wef 22/11/2010]
 
-(3) Any person who wilfully with intent to obtain, or to assist another person to obtain, a cash payout or a higher amount of cash payout under section 37I which he or that other person is not entitled to —
+[Act 19 of 2013 wef 28/11/2013]
+
+(3) Any person who wilfully with intent to obtain, or to assist another person to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both) which he or that other person is not entitled to —
 
 (a) gives to the Comptroller any information under section 37I(2) that is false in any material particular or omits any material particular from any information or document given under that provision; or
 
 (b) gives any false answer, whether verbally or in writing, to any question or request for information asked or made by the Comptroller,
 
-shall be guilty of an offence and shall on conviction be punished with a penalty that is treble the amount of cash payout that has been made to him or that other person under section 37I as a result of the offence, or which would have been made to him or that other person under that section if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall on conviction be punished with a penalty that is treble the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to him or that other person as a result of the offence, or which would have been made to him or that other person if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [29/2010 wef 22/11/2010]
 
-(4) Any person who wilfully with intent to obtain, or to assist another person to obtain, a cash payout or a higher amount of cash payout under section 37I which he or that other person is not entitled to —
+[Act 19 of 2013 wef 28/11/2013]
+
+(4) Any person who wilfully with intent to obtain, or to assist another person to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both) which he or that other person is not entitled to —
 
 (a) prepares or maintains or authorises the preparation or maintenance of any false books of account or other records or falsifies or authorises the falsification of any books of account or records; or
 
 (b) makes use of any fraud, art or contrivance or authorises the use of such fraud, art or contrivance,
 
-shall be guilty of an offence and shall on conviction be punished with a penalty that is 4 times the amount of cash payout that has been made to him or that other person under section 37I as a result of the offence, or which would have been made to him or that other person under that section if the offence had not been detected, and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+shall be guilty of an offence and shall on conviction be punished with a penalty that is 4 times the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to him or that other person as a result of the offence, or which would have been made to him or that other person if the offence had not been detected, and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 [29/2010 wef 22/11/2010]
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(4A) Where an individual has been convicted for —
+
+(a) 3 or more offences under subsection (3) or section 96;
+
+(b) 2 or more offences under subsection (4) or section 96A; or
+
+(c) one offence under either subsection (3) or section 96, and one offence under either subsection (4) or section 96A,
+
+the imprisonment he shall be liable to shall not be less than 6 months.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(4B) Where in any proceedings under subsection (3) it is proved that any information that is false in a material particular is given to the Comptroller under section 37I(2) by or on behalf of any person, the person who gave the information is presumed, unless the contrary is proved, to have given it with intent to obtain, or to assist the person on whose behalf the information is given to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both), as the case may be.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(4C) Where in any proceedings under subsection (4) it is proved that any false statement or entry is made in any books of account or other records maintained by or on behalf of any person, the person who made the statement or entry shall be presumed, unless the contrary is proved, to have made that false statement or entry with intent to obtain, or to assist the person on whose behalf the statement or entry is made to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both), as the case may be.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (5) The Comptroller may compound any offence under this section other than subsection (4).
 
 [29/2010 wef 22/11/2010]
+
+(6) In this section —
+
+“cash payout” means a payment under section 37I;
+
+“PIC bonus” means a payment under section 37IA.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Deduction for qualifying investments in qualifying start-up companies
 
@@ -13698,7 +14172,7 @@ he shall be allowed on due claim, for the year of assessment relating to the bas
 
 where A
 
-is the aggregate amount of expenditure incurred by the qualifying person on the qualifying investment in a qualifying start-up company or companies or $500,000, whichever is the less.
+is the aggregate amount of expenditure incurred by the qualifying person on the qualifying investment in a qualifying start-up company or companies or $500,000, whichever is less.
 
 [29/2010 wef 01/03/2010]
 
@@ -14368,7 +14842,9 @@ but exclude a director as defined in section 4 of the Companies Act;
 
 (a) any donation allowable under this Act for the year of assessment 2012 or any preceding year of assessment (referred to in this section as the attributed donation) is to be deducted from any income of a company under a provision of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in determining the amount of its income that is exempt from tax under that provision for that or any subsequent year of assessment; and
 
-(b) as of the last day of the basis period for the year of assessment 2012, part or all of the attributed donation (referred to in this section as the balance) has yet to be so deducted,
+(b) part or all of the attributed donation (referred to in this section as the balance) has yet to be fully deducted in determining the amount of income that is exempt from tax for the year of assessment 2012,
+
+[Act 19 of 2013 wef 28/11/2013]
 
 then the following provisions shall apply to the balance:
 
@@ -15396,9 +15872,9 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [37/2002]
 
-(5) Any individual or foreign firm to which subsection (4) applies may make an irrevocable option to be taxed under subsection (1)(b) within 45 days from the date of payment of the income to the individual or firm or, where such payment was made before 10th December 2002, within 30 days after that date.
+(5) Any individual or foreign firm to which subsection (4) applies may make an irrevocable option to be taxed under subsection (1)(b) by the 15th day of the second month following the month in which the payment of the income is liable to be made to the individual or firm.
 
-[37/2002; 21/2003]
+[Act 19 of 2013 wef 28/11/2013]
 
 (6) Notwithstanding subsection (1) but subject to subsection (6A), there shall be levied and paid for each year of assessment upon the chargeable income of every company or body of persons —
 
@@ -18062,7 +18538,7 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 60\. Where 2 or more persons act in the capacity of trustees of a trust they may be charged jointly or severally with the tax with which they are chargeable in that capacity and shall be jointly and severally liable for payment of the same.
 
-61\. [Repealed by Act 29 of 2012 wef 18/12/2012 wef Y/A 2013 & Sub Ys/A]
+61\. [Repealed by Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
 
 ## PART XVI
 
@@ -18256,9 +18732,21 @@ the rate of exchange applicable shall be the rate of exchange prevailing as at t
 
 [37/2002]
 
-(2) No person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
+(2) A person shall not be obliged under this section to disclose —
 
-(3) The Comptroller may require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
+(a) any information which he is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act (Cap. 97)) to observe secrecy; or
+
+(b) any information subject to legal privilege.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(3) The Comptroller may by notice require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(3A) The time for compliance with a notice under subsection (3) shall be 21 days from the date of service of the notice or such other period as the Comptroller considers appropriate.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (4) In this section, “computer” and “computer output” have the same meanings as in the Computer Misuse and Cybersecurity Act (Cap. 50A).
 
@@ -18266,11 +18754,89 @@ the rate of exchange applicable shall be the rate of exchange prevailing as at t
 
 [Act 3 of 2013 wef 13/03/2013]
 
-### Failure to comply with notices issued by Comptroller
+### Failure to comply with section 64, 65, 65A or 65B
 
-65C\. Any person who fails or neglects without reasonable excuse to comply with any notice issued by the Comptroller under section 64, 65, 65A or 65B shall be guilty of an offence.
+65C\.—(1) Any person who, without reasonable excuse —
 
-[4/75]
+(a) fails or neglects to comply with any notice or requirement of the Comptroller under section 64, 65, 65A or 65B; or
+
+(b) hinders or obstructs the Comptroller, or any officer authorised by the Comptroller, in the performance or execution of his duties or of anything which he is empowered or required to do under section 65B,
+
+shall be guilty of an offence.
+
+(2) Any person guilty of an offence under subsection (1) shall be liable on conviction —
+
+(a) to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+(3) The Comptroller may compound any offence under subsection (1).
+
+(4) The generality of the term “reasonable excuse” in subsection (1) is not affected by section 65B(2).
+
+(5) Except as provided under section 65B(2), it is not a defence to a charge under subsection (1) for a failure to disclose any information sought by a notice referred to in section 65B, that the person is under any duty of secrecy in respect of that information (referred to in this section as a displaced duty of secrecy).
+
+(6) A person who in good faith complies with a notice referred to in section 65B shall not be treated as being in breach of a displaced duty of secrecy.
+
+(7) No civil or criminal action for a breach of a displaced duty of secrecy, other than a criminal action for an offence under subsection (8), shall lie against the person referred to in subsection (6) —
+
+(a) for producing any document or providing any information if he had done so in good faith in compliance with the notice under section 65B; or
+
+(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with such a notice.
+
+(8) Any person who, in purported compliance with a notice issued by the Comptroller under section 64, 65, 65A or 65B, produces to the Comptroller any document which contains any information, or provides to the Comptroller any information, known to the person to be false or misleading in a material particular —
+
+(a) without indicating to the Comptroller that the information is false or misleading and the part that is false or misleading; and
+
+(b) without providing correct information to the Comptroller if the person is in possession of, or can reasonably acquire, the correct information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(9) A person shall not be convicted of an offence under this section for failing or neglecting to comply with a notice issued by the Comptroller under section 64, 65, 65A or 65B unless the notice was served on him personally or by registered post.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Section 65B notice applies notwithstanding duty of secrecy under Banking Act or Trust Companies Act
+
+65D\.—(1) This section applies where —
+
+(a) the Comptroller requires any information for the administration of this Act, other than for an investigation or a prosecution for an offence alleged or suspected to have been committed under this Act;
+
+(b) the information is protected from unauthorised disclosure under either of the following laws (referred to in this section as the relevant laws):
+
+(i) section 47 of the Banking Act (Cap. 19) including any regulations made under subsection (10) of that section;
+
+(ii) section 49 of the Trust Companies Act (Cap. 336); and
+
+(c) the Comptroller issues a notice under section 65B to a person to provide that information.
+
+(2) Notwithstanding anything in section 65B(2)(a), a person issued with a notice referred to in subsection (1)(c) is not excused from providing the information by reason only that the person is under a statutory obligation to observe secrecy under a relevant law, and that notice shall have effect notwithstanding the relevant law.
+
+(3) A person who in good faith complies with a notice referred to in subsection (1)(c) shall not be treated as being in breach of the relevant law.
+
+(4) No action for a breach of the relevant law shall lie against the person referred to in subsection (3) —
+
+(a) for producing any document or providing any information if he had done so in good faith in compliance with a notice referred to in subsection (1)(c); or
+
+(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with such a notice.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Section 65B notice may be subject to confidentiality duty
+
+65E\.—(1) Where the Comptroller issues a notice to any person under section 65B and states that the notice must be kept confidential, the person (including an officer, employee or agent of the person) shall not disclose any information relating to the notice to any other person.
+
+(2) Subsection (1) shall not apply to the disclosure of any information relating to the notice to an advocate and solicitor for the purpose of seeking legal advice on the notice, if (and only if) the person who discloses the information informs the advocate and solicitor of the Comptroller’s requirement that the notice be kept confidential.
+
+(3) The advocate and solicitor to whom information is disclosed in accordance with subsection (2) shall be subject to subsection (1) as if he is the person given the notice under subsection (1).
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months.
+
+(5) The Comptroller may compound any offence under subsection (4).
+
+(6) A person who in good faith complies with subsection (1) shall not be treated as being in breach of any duty to disclose the information to any person, whether imposed by written law, rule of law, any contract or any rule of professional conduct; and no criminal or civil action for a breach of such duty shall lie against the first-mentioned person.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Returns to be deemed to be furnished by due authority
 
@@ -19228,6 +19794,16 @@ but excluding any employee who is also a unitholder of the trust.
 
 [Act 29 of 2012 wef Y/A 2012]
 
+### Remission of tax of companies for years of assessment 2013, 2014 and 2015
+
+92D\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, there shall be remitted the tax payable for each of the years of assessment 2013, 2014 and 2015 by the company of an amount equal to the lower of the following:
+
+(a) 30% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
+
+(b) $30,000.
+
+[Act 19 of 2013 wef 28/11/2013]
+
 ### Repayment of tax
 
 93\.—(1) If it is proved to the satisfaction of the Comptroller that any person for any year of assessment has paid tax, by deduction or otherwise, in excess of the amount payable under the provisions of this Act, such person shall be entitled to have the amount so paid in excess refunded.
@@ -19254,15 +19830,33 @@ but excluding any employee who is also a unitholder of the trust.
 
 ### Relief in respect of error or mistake
 
-93A\.—(1) If any person who has paid tax for any year of assessment alleges that an assessment is excessive by reason of some error or mistake in the return or statement made by him for the purposes of the assessment or, where he is exempted from liability to furnish a return under section 62(2), in the notice of assessment served on him, he may, at any time not later than 6 years (if the year of assessment within which the assessment was made is 2007 or a preceding year of assessment) or 4 years (if the year of assessment within which the assessment is made is 2008 or a subsequent year of assessment) after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
+93A\.—(1) If any person alleges that for any year of assessment —
 
-[53/2007]
+(a) an assessment is excessive; or
 
-[43/2008 wef Y/A 2009 & Sub Ys/A]
+(b) any unabsorbed loss, allowance or donation that may be carried forward ought to be of a higher amount than that set out in an assessment,
 
-(2) On receiving any such application, the Comptroller shall inquire into the matter and shall, subject to this section, give by way of repayment of tax such relief in respect of the error or mistake as appears to him to be reasonable and just.
+by reason of some error or mistake —
 
-(3) No relief shall be given under this section in respect of an error or mistake as to the basis on which the liability of the applicant ought to have been computed when the return or statement was in fact made on the basis of or in accordance with the practice of the Comptroller generally prevailing at the time when the return or statement was made.
+(i) in the return or statement made by him for the purposes of the assessment; or
+
+(ii) where he is exempted from liability to furnish a return under section 62(2), in the notice of assessment served on him,
+
+he may, at any time not later than 6 years (if the year of assessment within which the assessment was made is 2007 or a preceding year of assessment) or 4 years (if the year of assessment within which the assessment is made is 2008 or a subsequent year of assessment) after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(2) On receiving the application, the Comptroller shall inquire into the matter and shall, subject to this section, give, by way of repayment of tax or an amendment to the assessment, such relief in respect of the error or mistake as appears to him to be reasonable and just.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(3) No relief by way of repayment of tax shall be given under this section in respect of an error or mistake as to the basis on which the liability of the applicant ought to have been computed when the return or statement was in fact made on the basis of or in accordance with the practice of the Comptroller generally prevailing at the time when the return or statement was made.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(3A) No amendment shall be made to the assessment under this section when the return or statement was in fact made on the basis of or in accordance with the practice of the Comptroller generally prevailing at the time when the return or statement was made.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (4) In determining any application under this section, the Comptroller shall have regard to all the relevant circumstances of the case, and in particular shall consider whether the granting of relief would result in the exclusion from charge to tax of income of the applicant, and for this purpose the Comptroller may take into consideration the liability of the applicant and assessments made upon him in respect of other years.
 
@@ -19296,9 +19890,7 @@ OFFENCES AND PENALTIES
 
 [28/92; 7/2007]
 
-(5) Where any person has been convicted of an offence under section 65C and such conviction is a second or subsequent conviction in respect of the same information required for the same period, he shall be liable to a further penalty of $50 for every day during which the offence is continued after such conviction.
-
-[28/92]
+(5) [Deleted by Act 19 of 2013 wef 28/11/2013]
 
 (6) The Comptroller may compound any offence punishable under this section, and may before judgment stay or compound any proceedings thereunder.
 
@@ -19356,111 +19948,139 @@ and in default of payment to imprisonment for a term not exceeding 6 months.
 
 (a) makes an incorrect return by omitting or understating any income of which he is required by this Act to make a return;
 
-[43/2008 wef 16/12/2008]
-
 (b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership; or
-
-[43/2008 wef 16/12/2008]
 
 (c) fails to comply with section 76(8),
 
-[43/2008 wef 16/12/2008]
+shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to —
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to the amount of tax which has been undercharged in consequence of such incorrect return or information or failure, or which would have been so undercharged if the return or information had been accepted as correct or if a notice had not been provided in accordance with section 76(8).
+(i) the amount of tax;
 
-[4/75]
+(ii) the amount of PIC bonus; or
 
-[43/2008 wef 16/12/2008]
+(iii) the amount of tax and the amount of PIC bonus,
+
+as the case may be, that has been undercharged, obtained, or undercharged and obtained as a result of the incorrect return or information or failure, or that would have been so undercharged, obtained, or undercharged and obtained if the return or information had been accepted as correct or if a notice had not been provided in accordance with section 76(8).
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (2) Every person who without reasonable excuse or through negligence —
 
 (a) makes an incorrect return by omitting or understating any income of which he is required by this Act to make a return;
 
-[43/2008 wef 16/12/2008]
-
 (b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership; or
-
-[43/2008 wef 16/12/2008]
 
 (c) fails to comply with section 76(8),
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to double the amount of tax which has been undercharged in consequence of such incorrect return or information or failure, or which would have been so undercharged if the return or information had been accepted as correct or if a notice had not been provided in accordance with section 76(8), and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to double —
 
-[43/2008 wef 16/12/2008]
+(i) the amount of tax;
+
+(ii) the amount of PIC bonus; or
+
+(iii) the amount of tax and the amount of PIC bonus,
+
+as the case may be, that has been undercharged, obtained, or undercharged and obtained as a result of the incorrect return or information or failure, or that would have been so undercharged, obtained, or undercharged and obtained if the return or information had been accepted as correct or if a notice had not been provided in accordance with section 76(8), and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (3) The Comptroller may compound any offence punishable under subsection (1) or (2), and may before judgment stay or compound any proceedings thereunder.
 
-### Tax evasion
+(4) In this section, “PIC bonus” means a payment under section 37IA.
 
-96\.—(1) Any person who wilfully with intent to evade or to assist any other person to evade tax —
+[Act 19 of 2013 wef 28/11/2013]
+
+### Tax evasion and wilful action to obtain PIC bonus
+
+96\.—(1) Any person who wilfully with intent to evade or to assist any other person to evade tax, or to obtain or to assist any other person to obtain a PIC bonus or a higher amount of PIC bonus, or both —
 
 (a) omits from a return made under this Act any income which should be included;
 
-[43/2008 wef 16/12/2008]
-
 (b) makes any false statement or entry in any return made under this Act or in any notice made under section 76(8);
-
-[43/2008 wef 16/12/2008]
 
 (c) gives any false answer, whether verbally or in writing, to any question or request for information asked or made in accordance with the provisions of this Act; or
 
-[43/2008 wef 16/12/2008]
-
 (d) fails to comply with section 76(8),
 
-[43/2008 wef 16/12/2008]
+shall be guilty of an offence for which, on conviction, he shall pay a penalty of treble —
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty of treble the amount of tax which has been undercharged in consequence of the offence or which would have been undercharged if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(i) the amount of tax;
 
-[4/75; 21/2003]
+(ii) the amount of PIC bonus; or
 
-(2) Where an individual has been convicted for —
+(iii) the amount of tax and the amount of PIC bonus,
 
-(a) 3 or more offences under this section; or
+as the case may be, that has been undercharged, obtained, or undercharged and obtained as a result of the offence, or that would have been undercharged, obtained, or undercharged and obtained if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(b) one offence under this section and one offence under section 96A,
+[Act 19 of 2013 wef 28/11/2013]
+
+(2) When an individual has been convicted for —
+
+(a) 3 or more offences under this section or section 37J(3); or
+
+(b) one offence under this section and one offence under either section 96A or 37J(4),
 
 the imprisonment he shall be liable to shall not be less than 6 months.
 
-[21/2003]
+[Act 19 of 2013 wef 28/11/2013]
 
-(3) Whenever in any proceedings under this section it is proved that any false statement or entry is made in any return furnished under this Act or notice made under section 76(8) by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax.
+(3) Whenever in any proceedings under this section it is proved that any false statement or entry is made in any return furnished under this Act or notice made under section 76(8) by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax, to obtain a PIC bonus or a higher amount of PIC bonus, or both, as the case may be.
 
 [21/2003]
 
 [43/2008 wef 16/12/2008]
 
+[Act 19 of 2013 wef 28/11/2013]
+
 (4) The Comptroller may compound any offence under this section and may before judgment stay or compound any proceedings thereunder.
 
-### Serious fraudulent tax evasion
+(5) In this section, “PIC bonus” means a payment under section 37IA.
 
-96A\.—(1) Any person who wilfully with intent to evade or to assist any other person to evade tax —
+[Act 19 of 2013 wef 28/11/2013]
+
+### Serious fraudulent tax evasion and action to obtain PIC bonus
+
+96A\.—(1) Any person who wilfully with intent to evade or to assist any other person to evade tax, or to obtain or to assist any other person to obtain a PIC bonus or a higher amount of PIC bonus, or both —
 
 (a) prepares or maintains or authorises the preparation or maintenance of any false books of account or other records or falsifies or authorises the falsification of any books of account or records; or
 
 (b) makes use of any fraud, art or contrivance or authorises the use of any such fraud, art or contrivance,
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty of 4 times the amount of tax which has been undercharged in consequence of the offence or which would have been undercharged if the offence had not been detected, and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+shall be guilty of an offence for which, on conviction, he shall pay a penalty of 4 times —
 
-[21/2003]
+(i) the amount of tax;
 
-(2) Where an individual has been convicted for —
+(ii) the amount of PIC bonus; or
 
-(a) 2 or more offences under this section; or
+(iii) the amount of tax and the amount of PIC bonus,
 
-(b) one offence under this section and one offence under section 96,
+as the case may be, that has been undercharged, obtained, or undercharged and obtained as a result of the offence, or that would have been undercharged, obtained, or undercharged and obtained if the offence had not been detected, and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+(2) When an individual has been convicted for —
+
+(a) 2 or more offences under this section or section 37J(4); or
+
+(b) one offence under this section and one offence under either section 96 or 37J(3),
 
 the imprisonment he shall be liable to shall not be less than 6 months.
 
+[Act 19 of 2013 wef 28/11/2013]
+
+(3) Where in any proceedings under this section it is proved that any false statement or entry is made in any books of account or other records maintained by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax, to obtain a PIC bonus or a higher amount of PIC bonus, or both, as the case may be.
+
 [21/2003]
 
-(3) Where in any proceedings under this section it is proved that any false statement or entry is made in any books of account or other records maintained by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax.
-
-[21/2003]
+[Act 19 of 2013 wef 28/11/2013]
 
 (4) The Comptroller may compound any offence under this section and may before judgment stay or compound any proceedings thereunder.
 
 [21/2003]
+
+(5) In this section, “PIC bonus” means a payment under section 37IA.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Penalties for offences by authorised and unauthorised persons
 
@@ -19602,15 +20222,9 @@ exchange of information arrangements
 
 “exchange of information provision” or “EOI provision”, in relation to an avoidance of double taxation arrangement, means a provision in that arrangement which provides expressly for the exchange of information concerning the tax positions of persons;
 
-“prescribed arrangement” means —
+“prescribed arrangement” means an avoidance of double taxation arrangement which contains an EOI provision, or an EOI arrangement;
 
-(a) an avoidance of double taxation arrangement with an EOI provision; or
-
-(b) an EOI arrangement,
-
-that is declared by the Minister, by an order under section 105C(1), as a prescribed arrangement;
-
-[22/2011 wef 20/12/2011]
+[Act 19 of 2013 wef 28/11/2013]
 
 “tax position”, in relation to a person, means the person’s position —
 
@@ -19642,23 +20256,25 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 [22/2011 wef 20/12/2011]
 
-(4) For the avoidance of doubt, the reference to tax in the definition of “tax position” in subsection (1) is not limited to income tax or tax of a similar character.
+(4) For the avoidance of doubt, the reference to tax in the definition of “tax position” in subsection (1) is a reference to any type of tax that is covered by the EOI provision of the avoidance of double taxation arrangement in question or by the EOI arrangement in question, and is not limited to income tax or tax of a similar character.
 
-[22/2011 wef 20/12/2011]
-
-[24/2009 wef 09/02/2010]
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Purpose of this Part
 
 105B\. The purpose of this Part is to facilitate the disclosure of information to a competent authority —
 
-(a) under an avoidance of double taxation arrangement prescribed under section 105C in accordance with the EOI provision in that arrangement; or
+(a) under an avoidance of double taxation arrangement in accordance with the EOI provision in that arrangement; or
 
-(b) under and in accordance with an EOI arrangement prescribed under section 105C.
+[Act 19 of 2013 wef 28/11/2013]
+
+(b) under and in accordance with an EOI arrangement.
 
 [22/2011 wef 20/12/2011]
 
 [24/2009 wef 09/02/2010]
+
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Exchange of information arrangement
 
@@ -19676,15 +20292,7 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 [24/2009 wef 09/02/2010]
 
-### Prescribed arrangement
-
-105C\.—(1) The Minister may by order declare an avoidance of double taxation arrangement or an EOI arrangement as a prescribed arrangement for the purposes of this Part.
-
-[22/2011 wef 20/12/2011]
-
-(2) The Minister may by a subsequent order revoke any order previously made under subsection (1).
-
-[24/2009 wef 09/02/2010]
+105C\. [Repealed by Act 19 of 2013 wef 28/11/2013]
 
 ### Request for information
 
@@ -19704,15 +20312,19 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 (3) Every request shall be subject to and dealt with in accordance with the terms of the prescribed arrangement.
 
+(4) For the purposes of subsection (3), the terms of the prescribed arrangement shall not be construed in such a way as to prevent the Comptroller from complying with, or to permit him to decline to comply with, a request for information merely because —
+
+(a) Singapore does not need the information for its own tax purposes; or
+
+(b) the information is held by a bank or other financial institution, a nominee or a person acting in an agency or fiduciary capacity, or it relates to the ownership interests in an entity.
+
+[Act 19 of 2013 wef 28/11/2013]
+
 ### Comptroller to serve notice of request on certain persons
 
-105E\.—(1) After receipt of a request under section 105D for any information which, in the opinion of the Comptroller, is information referred to in subsection (2), the Comptroller shall serve notice of the request by ordinary post on —
+105E\.—(1) After receipt of a request under section 105D for any information which, in the opinion of the Comptroller, is information referred to in subsection (2), the Comptroller shall serve notice of the request on the person identified in the request as the person in relation to whom the information is sought.
 
-(a) the person identified in the request as the person in relation to whom the information is sought; and
-
-(b) the person identified in the request as the person who is believed to have possession or control of the information.
-
-[24/2009 wef 09/02/2010]
+[Act 19 of 2013 wef 28/11/2013]
 
 (2) The information referred to in subsection (1) is information that is protected from unauthorised disclosure under —
 
@@ -19722,21 +20334,15 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 [24/2009 wef 09/02/2010]
 
-(3) Notice under subsection (1) shall be treated as served on the day succeeding the day on which it would have been received in the ordinary course of post if it is addressed —
-
-(a) in the case of an individual or a body of persons, to the last known business or private address of the individual or body of persons;
-
-(b) in the case of a company incorporated in Singapore, to its registered office; or
-
-(c) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act (Cap. 50) at the address filed with the Registrar of Companies, or to the registered office or any place of business of the company wherever it may be situated.
-
-[24/2009 wef 09/02/2010]
+(3) [Deleted by Act 19 of 2013 wef 28/11/2013]
 
 (4) Notice under subsection (1) need not be served on any person —
 
 (a) if the Comptroller —
 
-(i) does not have any information of the person referred to in subsection (3);
+(i) does not have any information of the person upon whom service may be effected in accordance with section 8;
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (ii) is of the opinion that this is likely to prevent or unduly delay the effective exchange of information under the prescribed arrangement; or
 
@@ -19752,7 +20358,9 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 ### Power of Comptroller to obtain information
 
-105F\.—(1) Sections 65 to 65C shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with a request under section 105D.
+105F\.—(1) Sections 65 to 65D shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with a request under section 105D; and section 65E shall also have effect in relation to a notice issued under section 65B for the purpose of complying with such a request.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 (2) For the purpose of subsection (1) —
 
@@ -19772,6 +20380,12 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 [24/2009 wef 09/02/2010]
 
+### Information may be used for administration of Act
+
+105GA\. For the avoidance of doubt, any information obtained under section 105F or 105G may be used not only for the purpose of complying with a request under section 105D, but also for any purpose connected with the administration of this Act, including the investigation or a prosecution for an offence alleged or suspected to have been committed under this Act.
+
+[Act 19 of 2013 wef 28/11/2013]
+
 ### Rules for purposes of this Part
 
 105H\. The Minister may make rules —
@@ -19784,189 +20398,122 @@ that is declared by the Minister, by an order under section 105C(1), as a prescr
 
 ## PART XXB
 
-COURT ORDERS RELATING TO RESTRICTED INFORMATION
+INTERNATIONAL AGREEMENTS TO
+
+
+
+
+IMPROVE TAX COMPLIANCE
+
+[Act 19 of 2013 wef 28/11/2013]
 
 ### Interpretation of this Part
 
 105I\. In this Part —
 
-“authorised officer” means an officer of the Inland Revenue Authority of Singapore who is authorised by the Comptroller for the purposes of this Part;
+“international tax compliance agreement” means an agreement or arrangement that is declared by the Minister, by an order under section 105K, as an international tax compliance agreement;
 
-“information subject to legal privilege” means —
+“person” has the meaning given to that word in section 2(1) and includes a partnership.
 
-(a) communications between a professional legal adviser and his client or any person representing his client made in connection with the giving of legal advice to the client; and
+[Act 19 of 2013 wef 28/11/2013]
 
-(b) communications between —
+### Purpose of this Part
 
-(i) a professional legal adviser and his client or any person representing his client; or
+105J\. The purpose of this Part is to implement Singapore’s obligations under an international tax compliance agreement.
 
-(ii) a professional legal adviser or his client or any such representative and any other person,
+[Act 19 of 2013 wef 28/11/2013]
 
-made in connection with, or in contemplation of, judicial proceedings and for the purposes of such proceedings,
+### International tax compliance agreements
 
-when they are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications or item held with the intention of furthering a criminal purpose.
+105K\.—(1) The Minister may by order declare any of the following as an international tax compliance agreement for the purposes of this Part:
 
-[24/2009 wef 09/02/2010]
+(a) the agreement reached between the Government and the Government of the United States of America to facilitate compliance by financial institutions and other persons in Singapore with the Foreign Account Tax Compliance Act of the United States of America (FATCA);
 
-### Orders relating to certain information
+(b) any agreement modifying or supplementing that agreement;
 
-105J\.—(1) Where —
+(c) any other agreement or arrangement between the Government and the government of another country which makes provision corresponding, or substantially similar, to that made by an agreement referred to in paragraph (a) or (b).
 
-(a) the Comptroller requires any information —
+(2) An order under subsection (1) may only take effect on or after the date on which the agreement or arrangement enters into force for Singapore.
 
-(i) for the administration of this Act, other than for an investigation or a prosecution of an offence alleged or suspected to have been committed under this Act; or
+[Act 19 of 2013 wef 28/11/2013]
 
-(ii) in order to comply with a request made under section 105D; and
+### Provision of information to Comptroller
 
-(b) the Comptroller is of the opinion that the information is protected from unauthorised disclosure under —
+105L\.—(1) A person falling within any description of persons prescribed by regulations made under section 105P (referred to in this section as a prescribed person) shall, at such times and frequency and in such form and manner as may be prescribed by those regulations, provide the Comptroller with information of a description prescribed by those regulations.
 
-(i) section 47 of the Banking Act (Cap. 19) including any regulations made under subsection (10) of that section; or
+(2) A prescribed person is not excused from providing the information by reason only that the person is under a duty of secrecy, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
 
-(ii) section 49 of the Trust Companies Act (Cap. 336),
+(3) A prescribed person who in good faith complies with subsection (1) shall not be treated as being in breach of any duty of secrecy referred to in subsection (2).
 
-then the Comptroller or an authorised officer may apply to the High Court for an order under subsection (2).
+(4) No civil or criminal action for a breach of any such duty, other than a criminal action for an offence under section 105M(3), shall lie against the prescribed person —
 
-[24/2009 wef 09/02/2010]
+(a) for producing any document or providing any information if he had done so in good faith in compliance with subsection (1); or
 
-(2) If, on such an application, the High Court is satisfied that the conditions referred to in subsection (3) are fulfilled, it may make an order that the person who appears to it to have possession or control of the information to which the application relates shall —
+(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with subsection (1).
 
-(a) make a copy of any document containing the information and provide the copy to an authorised officer for him to take away; or
+(5) Notwithstanding subsection (2), subsection (1) does not apply to any information subject to legal privilege.
 
-(b) give an authorised officer access to the information,
+[Act 19 of 2013 wef 28/11/2013]
 
-within 21 days from the date of the order or such other period as the Court considers appropriate.
+### Offences
 
-[24/2009 wef 09/02/2010]
+105M\.—(1) Any person who, without reasonable excuse, fails or neglects to comply with section 105L(1) shall be guilty of an offence and shall be liable on conviction —
 
-(3) The conditions referred to in subsection (2) are as follows:
+(a) to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months; and
 
-(a) the making of the order is justified in the circumstances of the case; and
+(b) in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
-(b) it is not contrary to the public interest for a copy of the document to be produced or that access to the information be given.
+(2) The Comptroller may compound any offence under subsection (1).
 
-[24/2009 wef 09/02/2010]
+(3) Any person who, in purported compliance with section 105L(1), produces to the Comptroller any document which contains any information, or provides to the Comptroller any information, known to the person to be false or misleading in a material particular —
 
-(4) Both or either of the following persons may, within 7 days from the date the order is served on the person against whom it is made, apply to the High Court to have the order discharged or varied:
+(a) without indicating to the Comptroller that the information is false or misleading and the part that is false or misleading; and
 
-(a) the person against whom the order is made;
-
-(b) the person in relation to whom information is sought,
-
-and the Court, on hearing such an application, may discharge the order or make such variation to it as it thinks fit.
-
-[24/2009 wef 09/02/2010]
-
-(5) The person referred to in subsection (4)(b) shall be entitled to make such an application even if an order under subsection (7) has been made to the effect that an order under subsection (2) shall not be disclosed to him, if (despite the first-mentioned order) he becomes aware of the second-mentioned order.
-
-[24/2009 wef 09/02/2010]
-
-(6) Proceedings under this section other than subsection (4) may, at the discretion of the High Court, be conducted in the presence or absence of —
-
-(a) the person alleged to have possession or control of that information or against whom the order under subsection (2) is made, as the case may be; or
-
-(b) the person in relation to whom information is sought.
-
-[24/2009 wef 09/02/2010]
-
-(7) The High Court may, in any proceedings under this section, on the application of the Comptroller, make such further order as it may consider necessary to ensure the confidentiality of anything relating to any order made in those proceedings.
-
-[24/2009 wef 09/02/2010]
-
-(8) All proceedings under this section shall be heard in camera.
-
-[24/2009 wef 09/02/2010]
-
-(9) No person may inspect or take a copy of any document relating to any proceedings under this section without the leave of the High Court.
-
-[24/2009 wef 09/02/2010]
-
-(10) No information relating to any proceedings under this section may be published without the leave of the High Court; and leave shall not be given unless the Court is satisfied that the information, if published in accordance with such directions as it may give, would not reveal any matter that the Comptroller or any person referred to in subsection (6) reasonably wishes to remain confidential.
-
-[24/2009 wef 09/02/2010]
-
-(11) Rules of Court may provide for the procedure relating to —
-
-(a) any proceedings under this section; and
-
-(b) appeals from such proceedings.
-
-[24/2009 wef 09/02/2010]
-
-### Supplementary provisions regarding section 105J orders
-
-105K\.—(1) Where the High Court orders a person under section 105J(2) to give an authorised officer access to any information found on any premises, it may, on the same or a subsequent application of the Comptroller or an authorised officer, order any person who appears to him to be entitled to grant entry to the premises to allow an authorised officer to enter the premises to obtain access to the information.
-
-[24/2009 wef 09/02/2010]
-
-(2) Where any information to which an order under section 105J relates is contained in or accessible by means of any data equipment —
-
-(a) an order under section 105J(2)(a) shall have effect as an order to make a copy of a document containing the information in a form which can be taken away and which is visible and legible; and
-
-(b) an order under section 105J(2)(b) shall have effect as an order to give access to the information in a form which is visible and legible.
-
-[24/2009 wef 09/02/2010]
-
-(3) A person is not excused from producing any document or giving access to any information by an order under section 105J(2) on the ground that doing so —
-
-(a) might tend to incriminate the person or make the person liable to a penalty; or
-
-(b) would be in breach of an obligation (imposed by law or otherwise) not to disclose the information.
-
-[24/2009 wef 09/02/2010]
-
-(4) An order under section 105J(2) —
-
-(a) shall not confer any right to the production of, or of access to, information subject to legal privilege; and
-
-(b) shall have effect notwithstanding any obligations as to secrecy or other restrictions upon the disclosure of information imposed by law or otherwise.
-
-[24/2009 wef 09/02/2010]
-
-(5) An authorised officer may photograph or make copies of any thing produced or to which access is granted pursuant to an order made under section 105J(2).
-
-[24/2009 wef 09/02/2010]
-
-(6) In this section, “data equipment” means any equipment which —
-
-(a) automatically processes information;
-
-(b) automatically records or stores information;
-
-(c) can be used to cause information to be automatically recorded, stored or otherwise processed on other equipment (wherever situated); or
-
-(d) can be used to retrieve information whether the information is recorded or stored in the equipment itself or in other equipment (wherever situated).
-
-[24/2009 wef 09/02/2010]
-
-### Immunities
-
-105L\.—(1) No civil or criminal action, other than a criminal action for an offence under section 105M, shall lie against any person for —
-
-(a) making a copy of a document or giving access to any information if he had done so in good faith in compliance with an order made against him under section 105J(2); or
-
-(b) doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with an order made under section 105J(2) or (7).
-
-[24/2009 wef 09/02/2010]
-
-(2) Any person who complies with an order made under section 105J(2) or (7) shall not be treated as being in breach of any restriction upon the disclosure of information imposed by any law, contract or rules of professional conduct.
-
-[24/2009 wef 09/02/2010]
-
-### Failure to comply with section 105J orders
-
-105M\. Any person who —
-
-(a) without reasonable excuse contravenes an order under section 105J(2) or (7); or
-
-(b) in purported compliance with an order under section 105J(2), produces to an authorised officer any document which contains any information, or makes available to an authorised officer any information, known to the person to be false or misleading in a material particular without —
-
-(i) indicating to the authorised officer that the information is false or misleading and the part that is false or misleading; or
-
-(ii) providing correct information to the authorised officer if the person is in possession of, or can reasonably acquire, the correct information,
+(b) without providing correct information to the Comptroller if the person is in possession of, or can reasonably acquire, the correct information,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[24/2009 wef 09/02/2010]
+[Act 19 of 2013 wef 28/11/2013]
+
+### Power of Comptroller to obtain information
+
+105N\.—(1) Sections 65 to 65D shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with any provision of an international tax compliance agreement or enabling Singapore to carry out its obligations under any provision of such agreement, and section 65E shall also have effect in relation to a notice issued under section 65B for this purpose.
+
+(2) For the purpose of subsection (1) —
+
+(a) the reference in section 65 to the purpose of obtaining full information in respect of any person’s income shall be read as a reference to the purpose referred to in subsection (1);
+
+(b) a reference in section 65B to the purposes of this Act shall be read as the purpose referred to in subsection (1);
+
+(c) references in section 65B to proceedings for an offence under this Act, proceedings for the recovery of tax or penalty and proceedings by way of an appeal against an assessment shall be read as a reference to proceedings for an offence under this Part; and
+
+(d) the Comptroller may authorise an officer of the Monetary Authority of Singapore under section 4(1) to perform a duty of the Comptroller under section 65, 65A or 65B.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Information may be used for administration of Act
+
+105O\. For the avoidance of doubt, any information provided or obtained under section 105L or 105N may be used for any purpose connected with the administration of this Act, including the investigation or a prosecution for an offence alleged or suspected to have been committed under this Act.
+
+[Act 19 of 2013 wef 28/11/2013]
+
+### Regulations to implement international tax compliance agreements
+
+105P\.—(1) The Minister may make regulations for, or in connection with, giving effect to or enabling effect to be given to an international tax compliance agreement.
+
+(2) Without prejudice to the generality of subsection (1), regulations under subsection (1) may —
+
+(a) prescribe anything which may be prescribed under this Part;
+
+(b) for the purpose of section 105L, prescribe different descriptions of information, forms and manners of provision of the information, and times and frequencies for the provision of the information, in relation to different international tax compliance agreements, different persons or under different circumstances;
+
+(c) impose registration, due diligence procedures and other obligations required or permitted to be imposed under an international tax compliance agreement on any person to whom the agreement applies; and
+
+(d) contain incidental, transitional or savings provisions.
+
+(3) Regulations under subsection (1) may give force of law to any provision of an international tax compliance agreement, whether with or without any modification.
+
+[Act 19 of 2013 wef 28/11/2013]
 
 ## PART XXI
 
@@ -20377,7 +20924,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009]
+[Deleted by Act 27/2009 wef 29/12/2009]
 
 Part C
 
@@ -21114,7 +21661,7 @@ for Information under Part Xxa
 
 [S 595/2012 wef 03/12/2012]
 
-9. [Deleted by S 595/2012 wef 03/12/2012 wef 03/12/2012]
+9. [Deleted by S 595/2012 wef 03/12/2012]
 
 10\. Any other information required to be included with the request under the prescribed arrangement.
 
@@ -22473,6 +23020,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|28 June 2013 (Sections 7(b), (c), (d), (i))|
+|301.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
