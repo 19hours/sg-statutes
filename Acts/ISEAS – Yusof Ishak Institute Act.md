@@ -48,9 +48,9 @@
 
 (Original Enactment: Act 9 of 1968)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(30th November 2013)
 
 An Act to provide for the establishment of the Institute of Southeast Asian Studies and for matters connected therewith.
 
@@ -78,7 +78,7 @@ An Act to provide for the establishment of the Institute of Southeast Asian Stud
 
 ### Constitution of Board of Trustees
 
-4\.—(1) There is hereby constituted a body corporate to be known as “the Board of Trustees of the Institute of Southeast Asian Studies”, which —
+4\.—(1) There is hereby constituted a body corporate to be known as the Board of Trustees of the Institute of Southeast Asian Studies, which —
 
 (a) shall have perpetual succession;
 
@@ -88,23 +88,21 @@ An Act to provide for the establishment of the Institute of Southeast Asian Stud
 
 (2) The Board shall consist of a Chairman and a Deputy Chairman to be appointed by the President and the following other members:
 
-(a) four persons to be appointed by the President;
+(a) 4 persons to be appointed by the President;
 
-(b) four persons, one each to be appointed by the Singapore International Chamber of Commerce, the Singapore Chinese Chamber of Commerce and Industry, the Singapore Indian Chamber of Commerce and the Singapore Malay Chamber of Commerce;
+(b) 4 persons, one each to be appointed by the Singapore International Chamber of Commerce, the Singapore Chinese Chamber of Commerce and Industry, the Singapore Indian Chamber of Commerce and the Singapore Malay Chamber of Commerce;
 
-(c) two persons, one each to be appointed by the Lee Foundation and the Shaw Foundation;
+(c) 2 persons, one each to be appointed by the Lee Foundation and the Shaw Foundation;
 
-(d) six persons to be appointed by the President of the National University of Singapore; and
+(d) 6 persons to be appointed by the President of the National University of Singapore; and
 
-[26/2001 wef 01/09/2001]
+(e) 3 persons to be appointed by the President from among persons nominated by such professional bodies and organisations as the President may consult.
 
-(e) three persons to be appointed by the President from among persons nominated by such professional bodies and organisations as the President may consult.
+[5/81; 26/2001]
 
-[5/81]
+(3) The Director shall be an ex‑officio member of the Board.
 
-(3) The Director shall be an ex officio member of the Board.
-
-(4) The Chairman, the Deputy Chairman, and other members appointed by the President under subsection (2) shall hold office for a period of up to 3 years, unless the President otherwise directs, and shall be eligible for reappointment:
+(4) The Chairman, the Deputy Chairman and other members appointed by the President under subsection (2) shall hold office for a period of up to 3 years, unless the President otherwise directs, and shall be eligible for reappointment:
 
 Provided that the President may at any time revoke such an appointment.
 
@@ -132,7 +130,7 @@ Provided that the person or body appointing such a member may at any time revoke
 
 (b) to approve the budget and research programme of the Institute;
 
-(c) to set up endowment funds and other funds for a specific purpose or purposes; and
+(c) to set up endowment funds and other funds for a specific purpose or specific purposes; and
 
 (d) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its functions under this Act.
 
@@ -142,13 +140,13 @@ Provided that the person or body appointing such a member may at any time revoke
 
 (2) Eight members of the Board shall constitute a quorum at any meeting.
 
-[25/2009 wef 15/01/2010]
+[25/2009]
 
 (3) The chairman at any meeting shall have an original vote and, in the case of an equality of votes, a casting vote.
 
 ### Secretary of Board
 
-7\.—(1) The Executive Secretary of the Institute shall be the Secretary of the Board, and shall attend all meetings thereof unless excused for good cause by the Chairman.
+7\.—(1) The Executive Secretary of the Institute shall be the Secretary of the Board, and shall attend all meetings of the Board unless excused for good cause by the Chairman.
 
 (2) In the absence of the Secretary, the Chairman may appoint a suitable person to act as clerk for a particular meeting.
 
@@ -156,7 +154,7 @@ Provided that the person or body appointing such a member may at any time revoke
 
 8\.—(1) The Board may enter into such contracts as may be necessary or expedient for carrying into effect the provisions of this Act.
 
-(2) The Board may acquire and hold such movable or immovable property as may be necessary or expedient for carrying into effect the provisions of this Act and for the same purposes may sell, lease, mortgage, or otherwise alienate or dispose of any property so acquired.
+(2) The Board may acquire and hold such movable or immovable property as may be necessary or expedient for carrying into effect the provisions of this Act and, for the same purposes, may sell, lease, mortgage, or otherwise alienate or dispose of any property so acquired.
 
 ### Power of Board to borrow and invest
 
@@ -164,7 +162,7 @@ Provided that the person or body appointing such a member may at any time revoke
 
 (2) The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 (3) The Board may do all or any things incidental or appertaining to a body corporate.
 
@@ -172,7 +170,7 @@ Provided that the person or body appointing such a member may at any time revoke
 
 9A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Use of common seal
 
@@ -210,11 +208,11 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (a) the Director, who shall be its chairman;
 
-(b) three members to be appointed by the Board from among the members of the Board;
+(b) 3 members to be appointed by the Board from among the members of the Board;
 
-(c) three members to be appointed by the Minister; and
+(c) 3 members to be appointed by the Minister; and
 
-(d) three members to be appointed by the Director from among the staff of the Institute.
+(d) 3 members to be appointed by the Director from among the staff of the Institute.
 
 (3) The Chairman may, in consultation with the Director, appoint a member of the Executive Committee to preside at meetings of the Executive Committee in the absence of the Director.
 
@@ -228,7 +226,7 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (a) the authorisation of the appropriate and necessary expenditure within the funds available to the Institute;
 
-(b) the preparation of an annual report on the working of the Institute and the preparation of the annual estimates and of such annual statements of account as are required by this Act or by any rules made thereunder;
+(b) the preparation of an annual report on the workings of the Institute, and the preparation of the annual estimates and of such annual statements of account as are required by this Act or by any rules made thereunder;
 
 (c) the appointment of the senior research staff and the senior administrative staff of the Institute and the appointment of such advisers as the Director may consider necessary or desirable;
 
@@ -236,7 +234,7 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (i) the qualifications necessary for entrance to the Institute, the duration and number of the Institute terms, the award of certificates and diplomas to the fellows of the Institute and the revocation of any certificates or diplomas so awarded;
 
-(ii) the institution of other posts and offices and appointments thereto;
+(ii) the institution of other posts and offices and appointments to such posts and offices;
 
 (iii) the establishment of an Institute printing press and the publishing of books and other publications;
 
@@ -256,7 +254,7 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (iii) the powers and functions of the officers of the Institute and of any committee duly appointed by it under the provisions of this Act;
 
-(f) the provision of pensions, superannuation or provident fund schemes for the benefit of the Institute’s employees or any section of its employees and the making of arrangements for the establishment of such schemes;
+(f) the provision of pensions, superannuation or provident fund schemes for the benefit of the Institute’s employees or any section of its employees, and the making of arrangements for the establishment of such schemes;
 
 (g) the provision and regulation of residence for officers, staff and fellows of the Institute and the welfare and discipline of staff and fellows; and
 
@@ -274,7 +272,7 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (a) the powers and functions of the Board;
 
-(b) the preparation, audit and submission to the Minister of estimates, budgets, accounts and other information pertaining to the Institute; and
+(b) the preparation, audit and submission to the Minister of estimates, budgets, accounts and other information pertaining to the Institute;
 
 (c) the terms and conditions of transfer to the Institute of holders of pensionable appointments in the public service.
 
@@ -294,7 +292,7 @@ Institute of Southeast Asian Studies Act
 
 (CHAPTER 141)
 
-This Legislative History is provided for the convenience of users of the Institute of Southeast Asian Studies Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Institute of Southeast Asian Studies Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -339,3 +337,5 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|10.|**2013 Revised Edition—Institute of Southeast Asian Studies Act (Chapter 141)**|
+||Date of operation|30 November 2013|
