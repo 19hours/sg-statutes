@@ -22,7 +22,7 @@
 
 - [8 Property exempted from seizure](#Property-exempted-from-seizure)
 
-- [9 Inventory and estimate of property seized, and notice to tenant of the seizure](#Inventory-and-estimate-of-property-seized-and-notice-to-tenant-of-the-seizure)
+- [9 Inventory and estimate of property seized, and notice to tenant of seizure](#Inventory-and-estimate-of-property-seized-and-notice-to-tenant-of-seizure)
 
 - [10 Application by under-tenant, lodger, etc., for discharge, suspension or release](#Application-by-under-tenant-lodger-etc-for-discharge-suspension-or-release)
 
@@ -62,9 +62,9 @@
 
 (Original Enactment: Ordinance 28 of 1934)
 
-REVISED EDITION 1996
+REVISED EDITION 2013
 
-(30th April 1996)
+(30th November 2013)
 
 An Act relating to distress for rent.
 
@@ -84,19 +84,13 @@ An Act relating to distress for rent.
 
 “prescribed form” means the form prescribed by the Rules of Court;
 
-[G.N. No. S 71/96]
-
 “registrar” means a Registrar, a Deputy Registrar or an Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the High Court and means a Registrar, a Deputy Registrar or an Assistant Registrar of a District Court in all cases where proceedings are taken in a District Court;
 
 “sheriff” includes a bailiff of a District Court in all cases where proceedings are taken in a District Court;
 
 “tenant” means any person from whom a landlord claims rent to be due under any such lease or agreement.
 
-[19/35]
-
-[57/40]
-
-[16/93]
+[19/35; 30/38; 57/40; 16/93; S 71/96]
 
 ### Act not to apply to Government rents
 
@@ -110,11 +104,11 @@ An Act relating to distress for rent.
 
 5\.—(1) A landlord or his agent duly authorised in writing may apply ex parte to a judge or registrar for an order for the issue of a writ, to be called a writ of distress, for the recovery of rent due or payable to the landlord by a tenant of any premises for a period not exceeding 12 completed months of the tenancy immediately preceding the date of the application; and the judge or registrar may make such order accordingly.
 
+[30/38]
+
 (2) Such authority may be in the prescribed form, with such variations as circumstances require, and shall be produced at the time of the application.
 
 (3) Arrears of rent may be distrained for after the determination of the tenancy, provided that either the tenant is still in occupation of the premises in respect of which the rent is claimed to be due, or any goods of the tenant are still on the premises.
-
-[30/38]
 
 ### Provision for distress by one of joint owners
 
@@ -144,7 +138,7 @@ An Act relating to distress for rent.
 
 [26/95]
 
-### Inventory and estimate of property seized, and notice to tenant of the seizure
+### Inventory and estimate of property seized, and notice to tenant of seizure
 
 9\.—(1) After seizing any property under a writ of distress, the sheriff shall make an inventory and an approximate valuation thereof, and shall give to the tenant a notice of the seizure in the prescribed form, with a copy of the inventory and valuation attached, informing him of the amount due under the writ and that the property seized will be sold at a time and place to be named therein (not being less than 6 days from the date thereof), unless he pays the amount due within 5 days from the date thereof, or obtains an order restraining such sale.
 
@@ -182,7 +176,7 @@ has been seized under a writ of distress issued to recover arrears of rent due t
 
 12\. Section 10 shall not apply to —
 
-(a) goods belonging to the husband or wife of the tenant whose rent is in arrear, or to goods comprised in any bill of sale, hire-purchase agreement, or settlement made by such tenant, or to goods in the possession, order or disposition of such tenant by the consent and permission of the true owner under such circumstances that such tenant is the reputed owner thereof;
+(a) goods belonging to the husband or wife of the tenant whose rent is in arrear, or to goods comprised in any bill of sale, hire‑purchase agreement, or settlement made by such tenant, or to goods in the possession, order or disposition of such tenant by the consent and permission of the true owner under such circumstances that such tenant is the reputed owner thereof;
 
 (b) goods of a partner of the immediate tenant;
 
@@ -194,7 +188,7 @@ has been seized under a writ of distress issued to recover arrears of rent due t
 
 ### Exclusion of certain under-tenants
 
-13\. Section 10 shall not apply to any under-tenant where the under-tenancy has been created in breach of any covenant or agreement in writing between the landlord and his immediate tenant.
+13\. Section 10 shall not apply to any under-tenant where the under‑tenancy has been created in breach of any covenant or agreement in writing between the landlord and his immediate tenant.
 
 ### Avoidance of distress
 
@@ -202,7 +196,7 @@ has been seized under a writ of distress issued to recover arrears of rent due t
 
 ### Interpretation of sections 10 to 14
 
-15\. For the purposes of sections 10 to 14, “superior landlord” shall be deemed to include a landlord in cases where the goods seized are not those of an under-tenant or lodger; and “tenant” and “under-tenant” shall not include a lodger.
+15\. For the purposes of sections 10 to 14, “superior landlord” shall be deemed to include a landlord in cases where the goods seized are not those of an under-tenant or a lodger; and “tenant” and “under‑tenant” shall not include a lodger.
 
 ### Application by tenant
 
@@ -210,7 +204,7 @@ has been seized under a writ of distress issued to recover arrears of rent due t
 
 ### Powers of court
 
-17\. The judge may, on application for the release of any property distrained, deal with the matter summarily and dismiss the application or discharge the writ, or order the release unconditionally or on such terms as he thinks fit of any property seized, or may direct an issue to be tried and, pending the determination of such issue, suspend the execution of the writ, or may order the property to be sold and the proceeds of sale to be lodged in court, or may make such other order on such terms as he considers fair as between the parties pending the final determination of the matter.
+17\. The judge may, on an application for the release of any property distrained, deal with the matter summarily and dismiss the application or discharge the writ, or order the release unconditionally or on such terms as he thinks fit of any property seized, or may direct an issue to be tried and, pending the determination of such issue, suspend the execution of the writ, or may order the property to be sold and the proceeds of sale to be lodged in court, or may make such other order on such terms as he considers fair as between the parties pending the final determination of the matter.
 
 ### Costs
 
@@ -234,13 +228,13 @@ has been seized under a writ of distress issued to recover arrears of rent due t
 
 ### Removal of goods to avoid distress
 
-21\.—(1) If any person removes or causes or permits to be removed from any premises property liable to be seized under a writ of distress, with the intention of hindering or preventing the distraint thereof, a judge may, on application by the sheriff, authorise the sheriff, within 30 days of such removal, to follow and seize such property in execution of the writ, wherever it may be found, and to deal therewith as if it had been seized on the premises.
+21\.—(1) If any person removes or causes or permits to be removed from any premises property liable to be seized under a writ of distress, with the intention of hindering or preventing the distraint thereof, a judge may, on the application by the sheriff, authorise the sheriff, within 30 days of such removal, to follow and seize such property in execution of the writ, wherever it may be found, and to deal therewith as if it had been seized on the premises.
 
 (2) The sheriff may, without an order to that effect, follow and seize any such property discovered by him while in process of removal.
 
 ### Where goods removed sold to bona fide purchaser
 
-22\.—(1) If any property so removed has been sold for fair value, whether before or after removal, to a bona fide purchaser not knowing or having the means of knowing that it was liable to distress for non-payment of rent or was removed in order to hinder or prevent the distraint thereof, it shall not be seized, or, if seized, shall be restored to the purchaser.
+22\.—(1) If any property so removed has been sold for fair value, whether before or after removal, to a bona fide purchaser not knowing or having the means of knowing that it was liable to distress for non‑payment of rent or was removed in order to hinder or prevent the distraint thereof, it shall not be seized, or, if seized, shall be restored to the purchaser.
 
 (2) Any person claiming to be a bona fide purchaser for fair value of any property seized under section 21 may, within 4 days of such seizure, or such further time as a judge may allow, apply for an order that the property so seized may be restored to him, and a judge may make such order accordingly.
 
@@ -268,11 +262,9 @@ a judge may, on the application of the landlord, authorise the sheriff to enter 
 
 ### Penalty
 
-24\. Any person who sells or abets the sale of any property seized under a writ of distress in contravention of the provisions of this Act or of the Rules of Court relating to the sale of property seized under a writ of distress, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+24\. Any person who sells or abets the sale of any property seized under a writ of distress in contravention of the provisions of this Act or of the Rules of Court relating to the sale of property seized under a writ of distress shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
-[37/52]
-
-[G.N. No. S 71/96]
+[37/52; S 71/96]
 
 ## LEGISLATIVE HISTORY
 
@@ -280,7 +272,7 @@ Distress Act
 
 (CHAPTER 84)
 
-This Legislative History is provided for the convenience of users of the Distress Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Distress Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -332,3 +324,5 @@ This Legislative History is provided for the convenience of users of the Distres
 ||Date of commencement|1 October 1995|
 |12.|**1996 Revised Edition—Distress Act (Chapter 84)**|
 ||Date of operation|30 April 1996|
+|13.|**2013 Revised Edition—Distress Act (Chapter 84)**|
+||Date of operation|30 November 2013|
