@@ -1,16 +1,14 @@
-**Allied Health Professions Act 2011**
+**Allied Health Professions Act**
 
-**(No. 1 of 2011)**
+**(CHAPTER 6B)**
 
 **Table of Contents**
 
 [**Long Title**](#Allied-Health-Professions-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -134,7 +132,7 @@
 
 - [53 Findings of Disciplinary Tribunal](#Findings-of-Disciplinary-Tribunal)
 
-- [54 Effective dates of Disciplinary Tribunal orders and non-compliance with orders, etc.](#Effective-dates-of-Disciplinary-Tribunal-orders-and-non-compliance-with-orders-etc)
+- [54 Effective dates of Disciplinary Tribunal orders and non‑compliance with orders, etc.](#Effective-dates-of-Disciplinary-Tribunal-orders-and-non‑compliance-with-orders-etc)
 
 - [55 Appeal against order by Disciplinary Tribunal](#Appeal-against-order-by-Disciplinary-Tribunal)
 
@@ -188,51 +186,33 @@
 
 - [76 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-[**FIRST SCHEDULE Allied Health Professions**](#FIRST-SCHEDULE-Allied-Health-Professions)
+[**FIRST SCHEDULE Allied health professions**](#FIRST-SCHEDULE-Allied-health-professions)
 
-[**SECOND SCHEDULE Prescribed Allied Health Professions**](#SECOND-SCHEDULE-Prescribed-Allied-Health-Professions)
+[**SECOND SCHEDULE Prescribed allied health professions**](#SECOND-SCHEDULE-Prescribed-allied-health-professions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Allied Health Professions Act
 
-ACTS SUPPLEMENT
+(CHAPTER 6B)
 
-Published by Authority
+(Original Enactment: Act 1 of 2011)
 
-NO. 7]
+REVISED EDITION 2013
 
-Friday, February 11
-
-[2011
-
-The following Act was passed by Parliament on 10th January 2011 and assented to by the President on 25th January 2011:—
-
-Allied Health Professions Act 2011
-
-(No. 1 of 2011)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-25th January 2011.
-
-Date of Commencement: 8th April 2013
+(30th November 2013)
 
 An Act to provide for the registration of prescribed allied health professionals for the protection of the health and safety of the public and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[8th April 2013]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Allied Health Professions Act 2011 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Allied Health Professions Act.
 
 ### Interpretation
 
@@ -278,7 +258,7 @@ PRELIMINARY
 
 ### Duly qualified allied health professional
 
-3\. In this Act and in any written law, unless the context otherwise requires, “duly qualified allied health professional” or any expression importing a person recognised by law as a member of one of the prescribed allied health professions, means a person who is a registered allied health professional and has a valid practising certificate.
+3\. In this Act and in any written law, unless the context otherwise requires, “duly qualified allied health professional”, or any expression importing a person recognised by law as a member of one of the prescribed allied health professions, means a person who is a registered allied health professional and has a valid practising certificate.
 
 ### Application
 
@@ -448,13 +428,13 @@ REGISTRATION OF ALLIED HEALTH PROFESSIONALS
 
 14\.—(1) The Registrar shall maintain and keep the following registers:
 
-(a) a register to be called “The Register of Allied Health Professionals with Full Registration” which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with full registration in that profession;
+(a) a register to be called “The Register of Allied Health Professionals with Full Registration”, which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with full registration in that profession;
 
-(b) a register to be called “The Register of Allied Health Professionals with Restricted Registration” which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with restricted registration in that profession;
+(b) a register to be called “The Register of Allied Health Professionals with Restricted Registration”, which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with restricted registration in that profession;
 
-(c) a register to be called “The Register of Allied Health Professionals with Conditional Registration” which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with conditional registration in that profession;
+(c) a register to be called “The Register of Allied Health Professionals with Conditional Registration”, which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with conditional registration in that profession;
 
-(d) a register to be called “The Register of Allied Health Professionals with Temporary Registration” which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with temporary registration in that profession.
+(d) a register to be called “The Register of Allied Health Professionals with Temporary Registration”, which shall be divided into parts, with one part corresponding to every prescribed allied health profession and containing the particulars referred to in subsection (2) of persons who are registered as allied health professionals with temporary registration in that profession.
 
 (2) The particulars of every registered allied health professional to be contained in a part of a register are the following:
 
@@ -626,11 +606,11 @@ may be registered as an allied health professional with temporary registration i
 
 (c) the person’s performance shall be subject to review by such allied health professional who is registered in the same prescribed allied health profession as that of the person, or by such healthcare professional, as the Council may approve;
 
-(d) the particular employment or description of employment for the purposes of which he is registered;
+(d) the particular employment or description of employment for the purposes of which the person is registered;
 
-(e) the particular establishment or description of establishments in which he may practise the prescribed allied health profession;
+(e) the particular establishment or description of establishments in which the person may practise the prescribed allied health profession;
 
-(f) the particular branch or area of the prescribed allied health profession which he may practise.
+(f) the particular branch or area of the prescribed allied health profession which the person may practise.
 
 ### Power to amend, vary, rescind, revoke or suspend condition or restriction
 
@@ -676,7 +656,7 @@ may be registered as an allied health professional with temporary registration i
 
 (7) Any person who is aggrieved by any refusal of the Council under subsection (5) may, within 30 days of the notice given under subsection (6), appeal to the Minister whose decision shall be final.
 
-(8) For the purpose of subsection (1), the Council may prescribe different fees for different classes of applicants.
+(8) For the purposes of subsection (1), the Council may prescribe different fees for different classes of applicants.
 
 ### Certificate of registration
 
@@ -740,7 +720,7 @@ if the registered allied health professional fails to comply with any condition 
 
 (d) if he has obtained his registration fraudulently or by an incorrect statement;
 
-(e) if his qualification for registration under this Act has been withdrawn or cancelled by the authority or institution of higher learning through which it was acquired or by which it was awarded; or
+(e) if his qualification for registration under this Act has been withdrawn or cancelled by the authority or institution of higher learning through which it was acquired or by which it was awarded;
 
 (f) if he has had his registration (or its equivalent) in any other country withdrawn, suspended or cancelled by the authority which registered him.
 
@@ -1018,9 +998,9 @@ to be known for the purposes of this Act as Complaints Committees, to inquire in
 
 (3) If the complainant refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may dismiss the matter.
 
-(4) If the registered allied health professional refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may proceed to make a direction under section 42(4)(b)(i) or (c).
+(4) If the registered allied health professional refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may proceed to make any direction under section 42(4)(b)(i) or (c).
 
-(5) If for any reason the mediation does not take place or the matter is not amicably resolved through mediation, the Complaints Committee or another Complaints Committee appointed in its place may make any order or direction under section 42(4)(b)(i) or (c) as it thinks fit.
+(5) If for any reason the mediation does not take place or the matter is not amicably resolved through mediation, the Complaints Committee or another Complaints Committee appointed in its place may make any direction under section 42(4)(b)(i) or (c) as it thinks fit.
 
 (6) Where the matter is amicably resolved through mediation, the Complaints Committee or another Complaints Committee appointed in its place may —
 
@@ -1272,7 +1252,7 @@ Disciplinary Tribunals
 
 (A) an aggregate of not less than 15 years’ standing as an advocate and solicitor;
 
-(B) an aggregate of not less than 15 years of full time employment in the Singapore Legal Service; or
+(B) an aggregate of not less than 15 years of full‑time employment in the Singapore Legal Service; or
 
 (C) any combination of standing referred to in sub-paragraph (A) and employment referred to in sub-paragraph (B) which in the aggregate is not less than 15 years;
 
@@ -1344,7 +1324,7 @@ who has practised that other profession for any number of years, as the chairman
 
 (5) A Disciplinary Tribunal may, for the purposes of any proceedings before it, administer oaths, and any party to the proceedings may take out a subpoena to testify or a subpoena to produce documents.
 
-(6) The subpoenas referred to in subsection (5) shall be served and may be enforced as if it is a subpoena issued in connection with a civil action in the High Court.
+(6) A subpoena referred to in subsection (5) shall be served and may be enforced as if it is a subpoena issued in connection with a civil action in the High Court.
 
 (7) A person giving evidence before a Disciplinary Tribunal shall be legally bound to tell the truth.
 
@@ -1424,7 +1404,7 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (9) The penalty under subsection (2)(e) shall be recoverable as a debt due to the Government.
 
-### Effective dates of Disciplinary Tribunal orders and non-compliance with orders, etc.
+### Effective dates of Disciplinary Tribunal orders and non‑compliance with orders, etc.
 
 54\.—(1) Where a registered allied health professional in respect of whom an order under section 53(2)(c) or (d), 61(1)(b) or 63(1)(d) is made, is found by a Disciplinary Tribunal (whether, in the case of an order under section 53(2)(c) or (d), it is the Disciplinary Tribunal that made the order or another Disciplinary Tribunal appointed in its place) to have failed to comply with any of the requirements imposed on him as conditions or restrictions of his registration, the Disciplinary Tribunal may, if it thinks fit, by order —
 
@@ -1470,7 +1450,7 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (a) one member from the panel referred to in section 50(1)(a); and
 
-(b) 2 members who shall be registered allied health professionals each of whom has practised for not less than 10 years in the same prescribed allied health profession as that which the registered allied health professional is registered in.
+(b) 2 members who shall be registered allied health professionals, each of whom has practised for not less than 10 years in the same prescribed allied health profession as that which the registered allied health professional is registered in.
 
 (4) The chairman of a Review Committee shall be appointed by the Minister from among its 3 members.
 
@@ -1796,7 +1776,7 @@ for any act or thing done under this Act, which is done with reasonable care and
 
 (a) by delivering it to the person or to some adult member or employee of his family or household at his last known place of residence;
 
-(b) by leaving it at his usual or last known place of residence or place of practice in an envelope addressed to the person;
+(b) by leaving it at the person’s usual or last known place of residence or place of practice in an envelope addressed to the person;
 
 (c) by sending it by registered post addressed to the person at his usual or last known place of residence or place of practice; or
 
@@ -1814,13 +1794,11 @@ for any act or thing done under this Act, which is done with reasonable care and
 
 ### Composition of offences
 
-73\.—(1) The Council may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+73\.—(1) The Council may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following sums:
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
-(b) $2,000,
-
-whichever is the lower.
+(b) $2,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
@@ -1866,21 +1844,21 @@ whichever is the lower.
 
 ### Savings and transitional provisions
 
-76\.—(1) Any person who, immediately before the date of commencement of Part III, was practising any prescribed allied health profession shall be deemed to be a duly qualified allied health professional in that prescribed allied health profession until such time as he becomes registered under section 16, 17, 18 or 19 in respect of that prescribed allied health profession or his application for registration is refused or withdrawn, or until such date as may be prescribed, whichever is the earlier.
+76\.—(1) Any person who, immediately before 8th April 2013, was practising any prescribed allied health profession shall be deemed to be a duly qualified allied health professional in that prescribed allied health profession until such time as he becomes registered under section 16, 17, 18 or 19 in respect of that prescribed allied health profession or his application for registration is refused or withdrawn, or until such date as may be prescribed, whichever is the earlier.
 
 (2) For the purpose of the first appointment of the members of the Council under section 6, the reference in subsection (1)(d) of that section to an allied health professional with full registration from a prescribed allied health profession shall be read as a reference to any person who —
 
-(a) immediately prior to the date of commencement of Part II of this Act, had been practising that profession; and
+(a) immediately prior to 8th April 2013, had been practising that profession; and
 
 (b) possesses such qualification in or in relation to that profession which the Minister is satisfied renders him fit for appointment as a member of the Council.
 
-(3) For a period of 2 years after the date of commencement of this section, the Minister may by regulations prescribe such additional provisions of a savings or transitional nature as he may consider necessary or expedient.
+(3) For a period of 2 years after 8th April 2013, the Minister may by regulations prescribe such additional provisions of a savings or transitional nature as he may consider necessary or expedient.
 
 FIRST SCHEDULE
 
 Sections 2 and 5
 
-Allied Health Professions
+Allied health professions
 
 1\. Audiologist
 
@@ -1900,13 +1878,13 @@ Allied Health Professions
 
 9\. Radiographer
 
-10\. Speech Therapist.
+10\. Speech Therapist
 
 SECOND SCHEDULE
 
 Sections 2, 4, 5, 29(1) and 30(1)
 
-Prescribed Allied Health Professions
+Prescribed allied health professions
 
 First column
 
@@ -2030,7 +2008,7 @@ use of bioimpedance technology and perometry; and
 
 (vi)
 
-instruments to assess mobility, physical functions and quality of life.
+instruments to assess mobility, physical functions and quality of life;
 
 (d)
 
@@ -2112,3 +2090,20 @@ provision of expert opinion, selection of, and training in augmentative and alte
 
 advising on and addressing the implications of communication and swallowing problems on an individual’s quality of life and participation in society.
 
+## LEGISLATIVE HISTORY
+
+Allied Health Professions Act
+
+(CHAPTER 6B)
+
+This Legislative History is provided for the convenience of users of the Allied Health Professions Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 1 of 2011—Allied Health Professions Act 2011**|
+||Date of First Reading|22 November 2010|
+|||(Bill No. 33/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|8 April 2013|
+|2.|**2013 Revised Edition—Allied Health Professions Act (Chapter 6B)**|
+||Date of operation|30 November 2013|
