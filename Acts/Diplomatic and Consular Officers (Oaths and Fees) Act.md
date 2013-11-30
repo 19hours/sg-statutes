@@ -36,9 +36,9 @@
 
 (Original Enactment: Act 42 of 1968)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(30th November 2013)
 
 An Act to provide for the administration of oaths and the levy of fees by diplomatic and consular officers.
 
@@ -54,9 +54,9 @@ An Act to provide for the administration of oaths and the levy of fees by diplom
 
 “affidavit” includes any affirmation, statutory or other declaration, acknowledgment, examination, and attestation or protestation of honour;
 
-“consular officer” includes a consul-general, consul, vice-consul, pro-consul and consular agent of Singapore;
+“consular officer” includes any consul-general, consul, vice‑consul, pro‑consul and consular agent of Singapore;
 
-“diplomatic officer” includes an ambassador, high commissioner, minister, charge d’affaires, deputy high commissioner, secretary and attache of a diplomatic mission of Singapore;
+“diplomatic officer” includes any ambassador, high commissioner, minister, charge d’affaires, deputy high commissioner, secretary and attache of a diplomatic mission of Singapore;
 
 “swear” includes affirm, declare and protest.
 
@@ -94,9 +94,9 @@ and every oath, affirmation, affidavit and notarial act administered, sworn or d
 
 ### Excessive or improper fees
 
-6\.—(1) Subject to any orders made under section 4, a diplomatic officer or consular officer entrusted with consular duties shall not ask for or take any fee or reward for or on account of any act, thing or service done, performed or rendered by him in the execution of his office.
+6\.—(1) Subject to any order made under section 4, a diplomatic officer or consular officer entrusted with consular duties shall not ask for or take any fee or reward for or on account of any act, thing or service done, performed or rendered by him in the execution of his office.
 
-(2) Any diplomatic officer or consular officer who acts in contravention of or fails to comply with subsection (1) shall, without prejudice to any other liability, be guilty of an offence.
+(2) Any diplomatic officer or consular officer who acts in contravention of subsection (1) shall, without prejudice to any other liability, be guilty of an offence.
 
 ### Offences
 
@@ -122,7 +122,7 @@ shall be guilty of an offence.
 
 10\. No prosecution shall be instituted in respect of any offence under this Act without the consent of the Public Prosecutor.
 
-[15/2010 wef 02/01/2011]
+[15/2010]
 
 ### Trial of offences
 
@@ -134,7 +134,7 @@ Diplomatic and Consular Officers (Oaths and Fees) Act
 
 (CHAPTER 82)
 
-This Legislative History is provided for the convenience of users of the Diplomatic and Consular Officers (Oaths and Fees) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Diplomatic and Consular Officers (Oaths and Fees) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -157,3 +157,5 @@ This Legislative History is provided for the convenience of users of the Diploma
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**2013 Revised Edition—Diplomatic and Consular Officers (Oaths and Fees) Act (Chapter 82)**|
+||Date of operation|30 November 2013|
