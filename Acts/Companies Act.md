@@ -17163,21 +17163,49 @@ Contents of Annual Return
 
 (m) the name of the auditor who audited the accounts of the company, unless the company is exempt from audit requirements, and where the accounts have been lodged, a statement as to whether the accounts are unqualified;
 
-(n) particulars of the principal activity or activities in the course of the financial year or, if the company was dormant throughout the financial year, the principal activity or activities before it turned dormant;
+(n) either —
 
-(o) a statement as to whether the company has any share-based payment plan;
+(i) where a company is dormant throughout the financial year, its principal activity or activities immediately before it turned dormant; or
 
-(p) a statement as to whether the company has undergone any merger or acquisition;
+(ii) in any other case, particulars of its principal activity or activities at the following dates:
+
+(A) the date to which the accounts of the company are made up; and
+
+(B) the date of the annual return;
+
+[S 704/2013 wef 02/12/2013]
+
+(o) [Deleted by S 704/2013 wef 02/12/2013]
+
+(p) [Deleted by S 704/2013 wef 02/12/2013]
 
 (q) a statement as to whether the company is listed on any securities exchange in Singapore or elsewhere;
 
-(r) if the company is listed on any securities exchange in Singapore or elsewhere, a statement as to whether the company is within its first year of an initial public offer in any such securities exchange; and
+(r) [Deleted by S 704/2013 wef 02/12/2013]
 
-(s) where the annual return is accompanied by such of the relevant documents as may be applicable to the company, such information on the company contained in those documents as the Registrar may specify.
+(s) where the annual return is accompanied by such of the relevant documents as may be applicable to the company, such information on the company contained in those documents as the Registrar may specify;
 
 [S 605/2007 wef 05/11/2007]
 
 [5/2004; 5/2005; 21/2005]
+
+[S 704/2013 wef 02/12/2013]
+
+(t) a statement as to whether the company or, where the company is a holding company, the group of companies to which the company belongs, has more than 50 employees; and
+
+[S 704/2013 wef 02/12/2013]
+
+(u) where the company is listed on a securities exchange in Singapore —
+
+(i) either —
+
+(A) where the public accountant who prepared the report under section 207 for the company on behalf of its auditor for the financial year in question, has prepared such reports for the company (whether on behalf of the same auditor or a different auditor) for 2 or more consecutive financial years including the financial year in question, the calendar year which coincides with the first of those financial years or, if the first of those financial years straddles more than one calendar year, the first of those calendar years; or
+
+(B) where the public accountant who prepared the report under section 207 for the company on behalf of its auditor for the financial year in question, did not prepare such report for the company (whether on behalf of the same auditor or a different auditor) for the previous financial year, the calendar year which coincides with the financial year in question or, where the financial year in question straddles more than one calendar year, the first of those calendar years; and
+
+(ii) such amount of fees (together with an itemised break down of the fees that are attributable to the provision of audit and non‑audit services) paid to the auditors of the company and its subsidiaries for the financial period covered by the last balance‑sheet and the last profit and loss accounts lodged together with the annual return, as is required to be disclosed in the annual report of the company by the securities exchange.
+
+[S 704/2013 wef 02/12/2013]
 
 2. For the purposes of paragraph 1, where the last return of a company consists of a summary of return and a main return, a reference to the last return of the company shall, unless the context requires otherwise, be construed as a reference to the last summary of return of the company.
 
@@ -17200,6 +17228,10 @@ Contents of Annual Return
 (e) the notes to the account.
 
 [S 605/2007 wef 05/11/2007]
+
+5. In paragraph 1(t), “group of companies” has the same meaning as in section 209A.
+
+[S 704/2013 wef 02/12/2013]
 
 NINTH SCHEDULE
 
@@ -17748,6 +17780,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of First Reading|15 October 2012 (Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
 ||Date of commencement|1 August 2013|
+|108.|**G.N. No. S 704/2013—Companies Act (Amendment of Eighth Schedule) Notification 2013**|
+||Date of commencement|2 December 2013|
 ## COMPARATIVE TABLE
 
 Companies Act
