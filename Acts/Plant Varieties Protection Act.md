@@ -136,7 +136,7 @@
 
 - [54 Rules](#Rules)
 
-[**THE SCHEDULE Plant Genera and Species to Which Act Applies**](#THE-SCHEDULE)
+[**THE SCHEDULE Plant genera and species to which Act applies**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -1088,47 +1088,61 @@ may be prescribed for different classes of business.
 
 Section 4
 
-Plant Genera and Species to Which Act Applies
+Plant genera and species to which Act applies
 
 Botanical Name 
 
 Common Name 
 
-(1) Orchids
+1.
 
-Dendrobium Sw.
+Orchids
 
 Dendrobium
 
-Mokara
+Dendrobium
+
+Mokara (Arachnis
+
+Ascocentrum
+
+Vanda)
 
 Mokara
-
-Oncidium Sw.
 
 Oncidium
 
-Vanda R. Br.
+Dancing Lady Orchid
 
 Vanda
 
-Aranda
+Vanda
+
+Aranda (Arachnis
+
+Vanda)
 
 Aranda
 
-Aranthera
+Aranthera (Arachnis
+
+Renanthera)
 
 Aranthera
-
-Phalaenopsis Blume
 
 Phalaenopsis
 
-Renantanda
+Moth Orchid
+
+Renantanda (Renanthera
+
+Vanda)
 
 Renantanda
 
-(2) Aquatic plants and Ornamentals
+2.
+
+Aquatic plants and Ornamentals
 
 Anubias
 
@@ -1136,29 +1150,37 @@ Anubias
 
 Cryptocoryne
 
-Cryptocoryne
+Water Trumpet
 
 Echinodorus
 
-Sword Plant
+Amazon Sword Plant
 
 Limnophilla
 
-Limnophilla
+Asian Marsh Weed
 
 Heliconia
 
-Heliconia
+Crab Claw Plant
 
-(3) Vegetables
+Jatropha curcas
 
-Brassica chinensis L.
+Physic Nut
+
+3.
+
+Vegetables
+
+Brassica rapa subsp. chinensis
 
 Baicai, Xiaobaicai
 
-Brassica chinensis var parachinensis
+Brassica rapa subsp. parachinensis
 
 Caixin
+
+[S 743/2013 wef 09/12/2013]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -1233,3 +1255,5 @@ This Legislative History is provided for the convenience of users of the Plant V
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|Date of coming into operation: 1st March 2007 with the exception of Sections 6, 8 and 11 Section 6 shall come into operation on 1st April 2007|
 |||Sections 8 and 11 shall come into operation on 2nd May 2007.|
+|4.|**G.N. No. S 743/2013—Plant Varieties Protection Act (Amendment of Schedule) Notification 2013**|
+||Date of commencement|9 December 2013|
