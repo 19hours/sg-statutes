@@ -4380,6 +4380,18 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 [24/2005; 20/2011]
 
+(3) The Board may —
+
+(a) transfer to the Fund such part of the moneys of the dissolved Fund retained under subsection (1)(b) as it thinks fit; and
+
+(b) apply the transferred moneys towards meeting —
+
+(i) any of its own liabilities under the Scheme that may have arisen prior to the transfer under section 49A; and
+
+(ii) any costs and expenses incurred by it in maintaining the Scheme.
+
+[Act 24 of 2013 wef 15/12/2013]
+
 ### Disclosure of information
 
 49C\.—(1) The Board may, from time to time, give to an appointed insurer to which its liabilities under the Scheme have been transferred under section 49A such information (including medical information) as is in the Board’s possession that —
@@ -8943,6 +8955,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|13 August 2012 (Bill No. 21/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|1 August 2013 (Section 8)|
+|188.|**Act 24 of 2013—Central Provident Fund (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013 (Bill No. 20/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|15 December 2013 (Section 15)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
