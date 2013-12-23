@@ -2424,6 +2424,8 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 [Act 1 of 2013 wef 22/02/2013]
 
+[S 776/2013 wef 23/12/2013]
+
 (3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced shall be recoverable as a debt due to the Government.
 
 [28/2010 wef 09/12/2010]
@@ -3594,37 +3596,39 @@ Fee
 
 A transfer of the undertaking or shares in respect of a scheme for reconstruction of company or companies, an amalgamation of companies, or a transfer, conveyance or assignment of beneficial interest in assets between associated entities, under section 15
 
-$165, irrespective of whether the instrument qualifies for relief under section 15
+$180, irrespective of whether the instrument qualifies for relief under section 15
 
 1A.
 
 A conversion of a firm or private company to a limited liability partnership under section 15
 
-$165, irrespective of whether the instrument qualifies for relief under section 15
+$180, irrespective of whether the instrument qualifies for relief under section 15
 
 1B.
 
 An acquisition of ordinary shares in a company under section 15A
 
-$165, irrespective of whether the instrument qualifies for relief under section 15A
+$180, irrespective of whether the instrument qualifies for relief under section 15A
 
 2.
 
 Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
 
-$33
+$36
 
 3.
 
 Any other immovable property
 
-$99
+$108
 
 4.
 
 All other transactions
 
-$99.
+$108.
+
+[S 776/2013 wef 23/12/2013]
 
 [S 134/2012 wef 01/04/2012]
 
@@ -3646,7 +3650,7 @@ Fee
 
 Any immovable property sold under Part IV of the Housing and Development Act (Cap. 129)
 
-$33
+$36
 
 2.
 
@@ -3656,7 +3660,7 @@ Any other immovable property —
 
 where there is no difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for the adjudication, the duty was chargeable
 
-$115 for each certificate of valuation
+$126 for each certificate of valuation
 
 (b)
 
@@ -3678,7 +3682,9 @@ on the next $90,000 of such difference
 
 on the excess where the difference is in excess of $100,000
 
-0.25%, or $115 for each certificate of valuation, whichever is the higher.
+0.25%, or $126 for each certificate of valuation, whichever is the higher.
+
+[S 776/2013 wef 23/12/2013]
 
 [S 134/2012 wef 01/04/2012]
 
@@ -4066,6 +4072,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 38/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|22 February 2013|
+|64.|**G.N. No. S 776/2013—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2013**|
+||Date of commencement|23 December 2013|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
