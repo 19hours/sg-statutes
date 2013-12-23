@@ -3180,11 +3180,11 @@ and received in Singapore —
 
 where A
 
-is the percentage of the income of the limited liability partnership to which the partner is entitled as at 21st January 2009; and
+is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
 
-B
+N
 
-is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership.
+is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
 
 [27/2009 wef 22/01/2009]
 
@@ -21606,13 +21606,17 @@ Part II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are as follows:
 
-(a) a non-refundable application fee of $535 (inclusive of goods and services tax), which must accompany the application;
+(a) a non-refundable application fee of $562 (inclusive of goods and services tax), which must accompany the application;
 
 [S 130/2012 wef 01/04/2012]
 
-(b) a further fee, calculated at $133.75 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+[S 775/2013 wef 23/12/2013]
+
+(b) a further fee, calculated at $140.50 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
 
 [S 130/2012 wef 01/04/2012]
+
+[S 775/2013 wef 23/12/2013]
 
 (c) an additional fee, of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
@@ -23025,6 +23029,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
+|302.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
+||Date of commencement|23 December 2013|
 ## COMPARATIVE TABLE
 
 Income Tax Act
