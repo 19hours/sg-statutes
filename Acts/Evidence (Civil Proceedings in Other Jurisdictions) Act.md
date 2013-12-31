@@ -26,9 +26,9 @@
 
 (Original Enactment: Act 18 of 1979)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st December 2013)
 
 An Act to make new provision for enabling the High Court to assist in obtaining evidence required for the purposes of civil proceedings in other jurisdictions and for matters connected therewith.
 
@@ -52,17 +52,17 @@ An Act to make new provision for enabling the High Court to assist in obtaining 
 
 ### Application to High Court for assistance in obtaining evidence to be used abroad
 
-3\. Where an application is made to the High Court for an order for evidence to be obtained in Singapore and the High Court is satisfied —
+3\. Where an application is made to the High Court for an order for evidence to be obtained in Singapore and the High Court is satisfied that —
 
-(a) that the application is made in pursuance of a request issued by or on behalf of a court or tribunal (referred to in this Act as the requesting court) exercising jurisdiction in a country or territory outside Singapore; and
+(a) the application is made in pursuance of a request issued by or on behalf of a court or tribunal (referred to in this Act as the requesting court) exercising jurisdiction in a country or territory outside Singapore; and
 
-(b) that the evidence to which the application relates is to be obtained for the purposes of civil proceedings which either have been instituted before the requesting court or whose institution before that court is contemplated,
+(b) the evidence to which the application relates is to be obtained for the purposes of civil proceedings which either have been instituted before the requesting court or whose institution before that court is contemplated,
 
 the High Court shall have the powers conferred on it by this Act.
 
 ### Power of High Court to give effect to application for evidence
 
-4\.—(1) Subject to this section, the High Court shall have power, on any such application as is mentioned in section 3, by order to make such provision for obtaining evidence in Singapore as may appear to the High Court to be appropriate for the purpose of giving effect to the request in pursuance of which the application is made; and any such order may require a person specified therein to take such steps as the High Court may consider appropriate for that purpose.
+4\.—(1) Subject to this section, the High Court shall have power, on any such application referred to in section 3, by order to make such provision for obtaining evidence in Singapore as may appear to the High Court to be appropriate for the purpose of giving effect to the request in pursuance of which the application is made; and any such order may require a person specified in the order to take such steps as the High Court may consider appropriate for that purpose.
 
 (2) Without prejudice to the generality of subsection (1) but subject to this section, an order under this section may, in particular, make provision —
 
@@ -102,7 +102,7 @@ the High Court shall have the powers conferred on it by this Act.
 
 (b) conceded by the applicant for the order,
 
-and where such a claim made by any person is not supported or conceded as aforesaid he may (subject to the other provisions of this section) be required to give the evidence to which the claim relates but that evidence shall not be transmitted to the requesting court if that court, on the matter being referred to it, upholds the claim.
+and where such a claim made by any person is not so supported or conceded as provided in paragraph (a) or (b), he may (subject to the other provisions of this section) be required to give the evidence to which the claim relates but that evidence shall not be transmitted to the requesting court if that court, on the matter being referred to it, upholds the claim.
 
 (3) Without prejudice to subsection (1), a person shall not be compelled by virtue of an order under section 4 to give any evidence if his doing so would be prejudicial to the security of Singapore, and a certificate signed by or on behalf of the Minister to the effect that it would be so prejudicial for that person to do so shall be conclusive evidence of that fact.
 
@@ -110,13 +110,13 @@ and where such a claim made by any person is not supported or conceded as afores
 
 ### Rules of Court
 
-6\. The power of the Rules Committee to make Rules of Court under section 80 of the Supreme Court of Judicature Act [Cap. 322] shall include power to make Rules of Court —
+6\. The power of the Rules Committee to make Rules of Court under section 80 of the Supreme Court of Judicature Act (Cap. 322) shall include power to make Rules of Court —
 
-(a) as to the manner in which any such application as is mentioned in section 3 is to be made;
+(a) as to the manner in which any application referred to in section 3 is to be made;
 
 (b) subject to the provisions of this Act, as to the circumstances in which an order can be made under section 4; and
 
-(c) as to the manner in which any such reference as is mentioned in section 5(2) is to be made.
+(c) as to the manner in which any reference referred to in section 5(2) is to be made.
 
 ## LEGISLATIVE HISTORY
 
@@ -124,14 +124,16 @@ Evidence (Civil Proceedings in Other Jurisdictions) Act
 
 (CHAPTER 98)
 
-This Legislative History is provided for the convenience of users of the Evidence (Civil Proceedings in Other Jurisdictions) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Evidence (Civil Proceedings in Other Jurisdictions) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 18 of 1979—Evidence (Civil Proceedings in Other Jurisdictions) Act 1979**|
 ||Date of First Reading|15 May 1979|
-|||(Bill No. 19/1979)|
-||Date of Second and Third Readings|Dates not available.|
+|||(Bill No. 19/79 published on 18 May 1979)|
+||Date of Second and Third Readings|7 September 1979|
 ||Date of commencement|19 October 1979|
-|2.|**1985 Revised Edition—Evidence (Civil Proceedings in Other Jurisdictions) Act**|
+|2.|**1985 Revised Edition—Evidence (Civil Proceedings in Other Jurisdictions) Act (Chapter 98)**|
 ||Date of operation|30 March 1987|
+|3.|**2013 Revised Edition—Evidence (Civil Proceedings in Other Jurisdictions) Act (Chapter 98)**|
+||Date of operation|31 December 2013|
