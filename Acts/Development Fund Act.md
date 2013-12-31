@@ -18,7 +18,7 @@
 
 - [6 Contingencies Fund](#Contingencies-Fund)
 
-[**THE SCHEDULE Purposes to Which the Development Fund May be Applied**](#THE-SCHEDULE)
+[**THE SCHEDULE Purposes to which the Development Fund may be applied**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -28,9 +28,9 @@
 
 (Original Enactment: Ordinance 52 of 1959)
 
-REVISED EDITION 1995
+REVISED EDITION 2013
 
-(15th March 1995)
+(31st December 2013)
 
 An Act to define the purposes of and to regulate the Development Fund and to provide for the payment into the Development Fund of sums raised under any Loan Act.
 
@@ -66,11 +66,11 @@ An Act to define the purposes of and to regulate the Development Fund and to pro
 
 ### Payment of moneys from Development Fund
 
-4\.—(1) The Minister for Finance may, by warrant under his hand, authorise the issue of any sum from the Development Fund to meet expenditure appropriated by a Supply or Supplementary Supply law.
+4\.—(1) The Minister may, by warrant under his hand, authorise the issue of any sum from the Development Fund to meet expenditure appropriated by a Supply or Supplementary Supply law.
 
 [11/91]
 
-(2) If it appears to the Minister for Finance to be necessary to alter the proportion assigned to any of the subheads of any head of expenditure appropriated by a Supply or Supplementary Supply law, or to create a new subhead, the Minister may, by warrant under his hand, authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient or of any new subhead except that the amount appropriated under any head of expenditure by a Supply or Supplementary Supply law shall not be thereby exceeded.
+(2) If it appears to the Minister to be necessary to alter the proportion assigned to any of the subheads of any head of expenditure appropriated by a Supply or Supplementary Supply law, or to create a new subhead, the Minister may, by warrant under his hand, authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient or of any new subhead except that the amount appropriated under any head of expenditure by a Supply or Supplementary Supply law shall not be thereby exceeded.
 
 [11/91]
 
@@ -82,7 +82,7 @@ An Act to define the purposes of and to regulate the Development Fund and to pro
 
 6\.—(1) A Contingencies Fund is hereby created consisting of moneys from time to time appropriated thereto from the Development Fund.
 
-(2) The Minister for Finance may, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 4(1), and if the President, acting in his discretion, concurs with the making of an advance for such need, make advances from the Contingencies Fund to meet such need.
+(2) The Minister may, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 4(1), and if the President, acting in his discretion, concurs with the making of an advance for such need, make advances from the Contingencies Fund to meet such need.
 
 [11/91]
 
@@ -92,9 +92,9 @@ An Act to define the purposes of and to regulate the Development Fund and to pro
 
 ## THE SCHEDULE
 
-Section 3.
+Section 3
 
-Purposes to Which the Development Fund May be Applied
+Purposes to which the Development Fund may be applied
 
 1\. The construction, improvement, extension, enlargement and replacement of buildings and works and the provision, acquisition, improvement and replacement of other capital assets (including vehicles, vessels, aircraft, rolling-stock, machinery, instruments and equipment) required in respect of or in connection with the economic development or general welfare of Singapore.
 
@@ -106,15 +106,13 @@ Purposes to Which the Development Fund May be Applied
 
 5\. The payment of any charges or expenses incidental to or arising out of depreciation or losses on investments of moneys in the Development Fund.
 
-6. Grants and loans to any public authority, or any other corporation or body, for any one or more of the purposes referred to in paragraphs 1 to 4.
-
-[6/2000 wef 1/4/2000]
+6\. Grants and loans to any public authority, or any other corporation or body, for any one or more of the purposes referred to in paragraphs 1 to 4.
 
 7.—(1) Capital contribution for investment by way of capital injection in any statutory corporation on such terms and conditions as the Minister for Finance may, after consultation with the Minister in charge of the statutory corporation, determine or as prescribed by any written law.
 
 (2) In sub-paragraph (1), “capital contribution” and “statutory corporation” have the same meanings as in section 7A of the Financial Procedure Act (Cap. 109).
 
-[22/2003 wef 19/12/2003]
+[6/2000; 22/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -122,7 +120,7 @@ Development Fund Act
 
 (CHAPTER 80)
 
-This Legislative History is provided for the convenience of users of the Development Fund Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Development Fund Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -157,3 +155,5 @@ This Legislative History is provided for the convenience of users of the Develop
 |||(Bill No. 29/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|19 December 2003 (section 2 — amendment of Development Fund Act)|
+|9.|**2013 Revised Edition—Development Fund Act (Chapter 80)**|
+||Date of operation|31 December 2013|
