@@ -22,7 +22,7 @@
 
 - [8 Power to make rules](#Power-to-make-rules)
 
-[**THE SCHEDULE Provisions of the Agreement Having the Force of Law**](#THE-SCHEDULE)
+[**THE SCHEDULE Provisions of Agreement having the force of law**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -32,9 +32,9 @@
 
 (Original Enactment: Act 20 of 1968)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st December 2013)
 
 An Act to implement the International Agreement for the establishment and operation of the International Finance Corporation and to enable Singapore to become a member thereof and for matters connected therewith.
 
@@ -72,7 +72,7 @@ An Act to implement the International Agreement for the establishment and operat
 
 5\. For the purposes of providing any sums required for making any payments to the Corporation, the Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interests and subject to such conditions as to repayment, redemption or otherwise as he may think fit, and the principal and interest of those securities and any expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
 
-[Act 11/91 wef 30/11/1991 vide S 527/91]
+[11/91]
 
 ### Receipts
 
@@ -100,9 +100,9 @@ Provided that nothing in section 9 of Article VI of the Agreement shall be const
 
 ## THE SCHEDULE
 
-Section 7.
+Section 7
 
-Provisions of the Agreement Having the Force of Law
+Provisions of Agreement having the force of law
 
 Article VI
 
@@ -112,17 +112,11 @@ Section 2. Status of the Corporation
 
 The Corporation shall possess full juridical personality and, in particular, the capacity —
 
-(i)
+(i) to contract;
 
-to contract;
+(ii) to acquire and dispose of immovable and movable property;
 
-(ii)
-
-to acquire and dispose of immovable and movable property;
-
-(iii)
-
-to institute legal proceedings.
+(iii) to institute legal proceedings.
 
 Section 3. Position of the Corporation with Regard to Judicial Process
 
@@ -148,17 +142,11 @@ Section 8. Immunities and Privileges of Officers and Employees
 
 All Governors, Directors, Alternates, officers and employees of the Corporation —
 
-(i)
+(i) shall be immune from legal process with respect to acts performed by them in their official capacity;
 
-shall be immune from legal process with respect to acts performed by them in their official capacity;
+(ii) not being local nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members;
 
-(ii)
-
-not being local nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members;
-
-(iii)
-
-shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
+(iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
 Section 9. Immunities from Taxation
 
@@ -214,3 +202,5 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 38/90 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991 (item (14) of the Schedule — amendment of International Finance Corporation Act)|
+|5.|**2013 Revised Edition—International Finance Corporation Act (Chapter 144)**|
+||Date of operation|31 December 2013|
