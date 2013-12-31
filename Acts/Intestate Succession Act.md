@@ -14,13 +14,13 @@
 
 - [4 Law regulating distribution](#Law-regulating-distribution)
 
-- [5 Property of an intestate to be distributed](#Property-of-an-intestate-to-be-distributed)
+- [5 Property of intestate to be distributed](#Property-of-intestate-to-be-distributed)
 
 - [6 Persons held to be similarly related to deceased](#Persons-held-to-be-similarly-related-to-deceased)
 
 - [7 Rules for distribution](#Rules-for-distribution)
 
-- [8 Special provision if the intestate leaves lawful widows](#Special-provision-if-the-intestate-leaves-lawful-widows)
+- [8 Special provision if intestate leaves lawful widows](#Special-provision-if-intestate-leaves-lawful-widows)
 
 - [9 Children’s advancement not to be taken into account](#Children’s-advancement-not-to-be-taken-into-account)
 
@@ -34,9 +34,9 @@
 
 (Original Enactment: Act 7 of 1967)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st December 2013)
 
 An Act to make provision for the distribution of intestate estates.
 
@@ -66,19 +66,19 @@ An Act to make provision for the distribution of intestate estates.
 
 (2) The distribution of the immovable property of a person deceased shall be regulated by this Act wherever he may have been domiciled at the time of his death.
 
-### Property of an intestate to be distributed
+### Property of intestate to be distributed
 
-5\. If a person dies intestate after the commencement of this Act, he being at the time of his death —
+5\. If a person dies intestate after 2nd June 1967, he being at the time of his death —
 
-(a) domiciled in Singapore and possessed beneficially of property, whether movable or immovable, or both, situated in Singapore, or
+(a) domiciled in Singapore and possessed beneficially of property, whether movable or immovable, or both, situated in Singapore; or
 
 (b) domiciled outside Singapore and possessed beneficially of immovable property situated in Singapore,
 
-that property or the proceeds thereof, after payment thereout of the expenses of due administration as prescribed by the Probate and Administration Act [Cap. 251] shall be distributed among the persons entitled to succeed beneficially thereto.
+that property or the proceeds thereof, after payment thereout of the expenses of due administration as prescribed by the Probate and Administration Act (Cap. 251), shall be distributed among the persons entitled to succeed beneficially to that property or the proceeds thereof.
 
 ### Persons held to be similarly related to deceased
 
-6\. For the purpose of distribution —
+6\. For the purposes of distribution —
 
 (a) there shall be no distinction between those who are related to a person deceased through his father and those who are related to him through his mother nor between those who were actually born in his lifetime and those who at the date of his death were only conceived in the womb but who have subsequently been born alive; and
 
@@ -86,7 +86,7 @@ that property or the proceeds thereof, after payment thereout of the expenses of
 
 ### Rules for distribution
 
-7\. In effecting such distribution the following rules shall be observed:
+7\. In effecting such distribution, the following rules shall be observed:
 
 Rule 1
 
@@ -100,7 +100,7 @@ Rule 3
 
 Subject to the rights of the surviving spouse, if any, the estate (both as to the undistributed portion and the reversionary interest) of an intestate who leaves issue shall be distributed by equal portions per stirpes to and amongst the children of the person dying intestate and such persons as legally represent those children, in case any of those children be then dead.
 
-Proviso No. (1) — The persons who legally represent the children of an intestate are their descendants and not their next-of-kin.
+Proviso No. (1) — The persons who legally represent the children of an intestate are their descendants and not their next‑of‑kin.
 
 Proviso No. (2) — Descendants of the intestate to the remotest degree stand in the place of their parent or other ancestor, and take according to their stocks the share which he or she would have taken.
 
@@ -110,31 +110,31 @@ If an intestate dies leaving a surviving spouse and no issue but a parent or par
 
 Rule 5
 
-If there are no descendants the parent or parents of the intestate shall take the estate, in equal portions if there be two parents, subject to the rights of the surviving spouse (if any) as provided in rule 4.
+If there are no descendants, the parent or parents of the intestate shall take the estate, in equal portions if there be 2 parents, subject to the rights of the surviving spouse (if any) as provided in rule 4.
 
 Rule 6
 
-If there are no surviving spouse, descendants or parents, the brothers and sisters and children of deceased brothers or sisters of the intestate shall share the estate in equal portions between the brothers and sisters and the children of any deceased brother or sister shall take according to their stocks the share which he or she would have taken.
+If there are no surviving spouse, descendants or parents, the brothers and sisters and children of deceased brothers or sisters of the intestate shall share the estate in equal portions between the brothers and sisters and the children of any deceased brother or sister shall take according to their stocks the share which the deceased brother or sister would have taken.
 
 Rule 7
 
-If there are no surviving spouse, descendants, parents, brothers and sisters or children of such brothers and sisters but grandparents of the intestate the grandparents shall take the whole of the estate in equal portions.
+If there are no surviving spouse, descendants, parents, brothers and sisters or children of such brothers and sisters but grandparents of the intestate, the grandparents shall take the whole of the estate in equal portions.
 
 Rule 8
 
-If there are no surviving spouse, descendants, parents, brothers and sisters or their children or grandparents but uncles and aunts of the intestate the uncles and aunts shall take the whole of the estate in equal portions.
+If there are no surviving spouse, descendants, parents, brothers and sisters or their children or grandparents but uncles and aunts of the intestate, the uncles and aunts shall take the whole of the estate in equal portions.
 
 Rule 9
 
-In default of distribution under the foregoing rules the Government shall be entitled to the whole of the estate.
+In default of distribution under rules 1 to 8, the Government shall be entitled to the whole of the estate.
 
-### Special provision if the intestate leaves lawful widows
+### Special provision if intestate leaves lawful widows
 
-8\. If any person so dying intestate leaves surviving him more wives than one, such wives shall share among them equally the share that the wife of the intestate would have been entitled to, had the intestate left one wife only surviving him.
+8\. If any person so dying intestate leaves surviving him more than one wife, such wives shall share among them equally the share that the wife of the intestate would have been entitled to, had the intestate left only one wife surviving him.
 
 ### Children’s advancement not to be taken into account
 
-9\. Where a distributive share of the property of a person dying intestate is claimed by a child or any descendant of a child of that person no money or other property which the intestate may during his life have given, paid or settled to or for the advancement of the child by whom or by whose descendant the claim is made shall be taken into account in estimating such distributive share.
+9\. Where a distributive share of the property of a person dying intestate is claimed by a child or any descendant of a child of that person, no money or other property which the intestate may during his life have given, paid or settled to or for the advancement of the child by whom or by whose descendant the claim is made shall be taken into account in estimating such distributive share.
 
 ### Application to cases of partial intestacy
 
@@ -148,10 +148,18 @@ Intestate Succession Act
 
 (CHAPTER 146)
 
-This Legislative History is provided for the convenience of users of the Intestate Succession Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Intestate Succession Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 7 of 1967—Intestate Succession Act 1967**|
-||Date of First, Second and Third Readings|Date not available.|
+||Date of First Reading|26 October 1966|
+|||(Bill No. 47/66 published on 2 November 1966)|
+||Date of Second and Third Readings|24 May 1967|
 ||Date of commencement|2 June 1967|
+|2.|**1970 Revised Edition—Intestate Succession Act (Chapter 37)**|
+||Date of operation|1 March 1971|
+|3.|**1985 Revised Edition—Intestate Succession Act (Chapter 146)**|
+||Date of operation|30 March 1987|
+|4.|**2013 Revised Edition—Intestate Succession Act (Chapter 146)**|
+||Date of operation|31 December 2013|
