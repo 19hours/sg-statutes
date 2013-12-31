@@ -42,9 +42,9 @@
 
 - [15 Prohibition of concealment or destruction of controlled articles](#Prohibition-of-concealment-or-destruction-of-controlled-articles)
 
-- [16 Offence to sell controlled articles without a licence or permit](#Offence-to-sell-controlled-articles-without-a-licence-or-permit)
+- [16 Offence to sell controlled articles without licence or permit](#Offence-to-sell-controlled-articles-without-licence-or-permit)
 
-- [17 Retailers to display licence and list of controlled and rationed articles](#Retailers-to-display-licence-and-list-of-controlled-and-rationed-articles)
+- [17 Retailers to display licence and list of controlled articles and rationed articles](#Retailers-to-display-licence-and-list-of-controlled-articles-and-rationed-articles)
 
 - [18 Supply of rationed articles](#Supply-of-rationed-articles)
 
@@ -82,9 +82,9 @@
 
 (Original Enactment: Act 54 of 1973)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st December 2013)
 
 An Act to provide for the control and rationing of essential supplies.
 
@@ -176,7 +176,7 @@ PRELIMINARY
 
 (k) limiting the quantity of any controlled article which may be acquired or held by any person;
 
-(l) providing for the keeping of books of account and other records relating to any trade or business in the course of which controlled articles are sold, and prescribing the manner in which the books or records shall be disposed of or preserved;
+(l) providing for the keeping of books of accounts and other records relating to any trade or business in the course of which controlled articles are sold, and prescribing the manner in which the books or records shall be disposed of or preserved;
 
 (m) prescribing the period and fees to be paid in respect of the issue or renewal of any licence to sell controlled articles;
 
@@ -184,9 +184,7 @@ PRELIMINARY
 
 (o) prescribing such forms as he may think necessary for use in connection with any of the matters referred to in paragraphs (a) to (n).
 
-(3)\*All regulations made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the regulations are so presented annulling the regulations or any part thereof from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to anything previously done thereunder or to the making of new regulations.
-
-\*Former section 31.
+(3) All regulations made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication, and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the regulations are so presented annulling the regulations or any part thereof from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to anything previously done thereunder or to the making of new regulations.
 
 ## PART II
 
@@ -208,7 +206,7 @@ POWERS OF CONTROLLER
 
 ### Power of Controller to obtain information
 
-8\.—(1) The Controller or any person authorised by him in writing in that behalf may by writing under his hand or by notification in theGazetterequire any person or class or description of persons or all persons —
+8\.—(1) The Controller or any person authorised in that behalf by him in writing may by writing under his hand or by notification in theGazetterequire any person or class or description of persons or all persons —
 
 (a) to furnish him or such authorised person as may be specified in the requisition with full and accurate periodical or other returns or information in respect of any supplies specified therein, showing all or any of the following particulars:
 
@@ -216,13 +214,13 @@ POWERS OF CONTROLLER
 
 (ii) the cost thereof or expense incurred in respect thereof;
 
-(iii) the price charged or received by him or them therefor; and
+(iii) the price charged or received by him or them therefor;
 
 (iv) any other information which the Controller may consider necessary to request in respect thereof;
 
 (b) to produce for inspection all or any books or documents relating to any supplies in his or their possession or under his or their control;
 
-(c) to register his or their names and addresses and such other particulars and in such manner as the Controller may specify; and
+(c) to register his name and address or their names and addresses, and such other particulars and in such manner as the Controller may specify; and
 
 (d) to maintain such records or to make such returns containing such particulars relating to the acquisition, disposal, deposit, withdrawal, production, treatment, keeping, storage, movement, transport, distribution, use and consumption of any supplies as the Controller may specify.
 
@@ -232,7 +230,7 @@ POWERS OF CONTROLLER
 
 (4) Any person who —
 
-(a) contravenes or fails to comply with subsection (2) or obstructs or impedes the Controller or any person authorised by him in the lawful exercise of any of his powers under this section; or
+(a) contravenes subsection (2) or obstructs or impedes the Controller or any person authorised by him in the lawful exercise of any of his powers under this section; or
 
 (b) refuses to answer or knowingly gives a false answer to any question or refuses to produce any book or document required for obtaining any information to be furnished in pursuance of this section,
 
@@ -240,7 +238,11 @@ shall be guilty of an offence under this Act.
 
 ### Power of Controller to enter premises
 
-9\.—(1) For the purposes of testing the accuracy of any record kept or return made or information given to the Controller under section 8 or of obtaining information or in any case where the Controller or any person authorised by him has reasonable grounds for believing that an offence under this Act has been committed, the Controller, or any person authorised in that behalf in writing by the Controller, after producing to the occupier the written authority, may enter any premises belonging to, or in the occupation of, any person keeping or making or who has failed to keep or to make, any such record or return or has failed to give any such information or in which the Controller or the authorised person has reason to believe that any supplies, with respect to which a requisition under section 8 has been made, are kept, stored, manufactured or produced or in which he has reasonable grounds for believing that an offence under this Act is being or has been committed and may carry out such inspections and examination (including the inspection and examination of books) as he may consider necessary and may seize and detain any books, documents or other things or supplies found in those premises which may furnish evidence of the commission of an offence under this Act.
+9\.—(1) For the purposes of testing the accuracy of any record kept or return made or information given to the Controller under section 8 or of obtaining information or in any case where the Controller or any person authorised by him has reasonable grounds for believing that an offence under this Act has been committed, the Controller, or any person authorised in that behalf by the Controller in writing, after producing to the occupier the written authority —
+
+(a) may enter any premises belonging to, or in the occupation of, any person keeping or making or who has failed to keep or to make, any such record or return or has failed to give any such information or in which the Controller or the authorised person has reason to believe that any supplies, with respect to which a requisition under section 8 has been made, are kept, stored, manufactured or produced or in which he has reasonable grounds for believing that an offence under this Act is being or has been committed; and
+
+(b) may carry out such inspections and examination (including the inspection and examination of books) as he may consider necessary and may seize and detain any books, documents or other things or supplies found in those premises which may furnish evidence of the commission of an offence under this Act.
 
 (2) Where, as a result of any inspection and examination made under subsection (1), there is any discrepancy between the quantity or quality of any supplies found and any record or return required to be kept or made or any information given in respect of those supplies, the person required to keep the record or to make the return or to give the information shall be guilty of an offence under this Act.
 
@@ -250,17 +252,15 @@ shall be guilty of an offence under this Act.
 
 10\.—(1) The Controller, or any supplies officer or officer of customs authorised in that behalf by the Controller in writing, may —
 
-(a) arrest without warrant any person whom he has reason to believe to have committed an offence under this Act, if the person refuses to furnish his name and address or furnishes an address outside Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond:
-
-Provided that when any person has been so arrested he shall thereafter be dealt with as provided by the Criminal Procedure Code (Cap. 68); and
+(a) arrest without warrant any person whom he has reason to believe to have committed an offence under this Act, if the person refuses to furnish his name and address or furnishes an address outside Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond; and when any person has been so arrested, he shall then be dealt with as provided by the Criminal Procedure Code (Cap. 68); and
 
 (b) seize any supplies which he considers it necessary to seize in relation to the evidence necessary to establish the commission of any such offence.
 
-(2) The Controller or any supplies officer authorised in writing by the Controller in that behalf, and any police officer not below the rank of sergeant, may in relation to any investigation in respect of any offence under this Act without the order of the Public Prosecutor exercise the special powers in relation to police investigations given by the Criminal Procedure Code (Cap.68) in any seizable case.
+(2) The Controller or any supplies officer authorised in that behalf by the Controller in writing, and any police officer not below the rank of sergeant, may in relation to any investigation in respect of any offence under this Act, without the order of the Public Prosecutor, exercise the special powers in relation to police investigations given by the Criminal Procedure Code in any arrestable case.
 
 (3) Any prosecution in respect of an offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by the Controller or other supplies officer.
 
-[15/2010 wef 02/01/2011]
+[15/2010]
 
 ### Powers of Controller to take possession of controlled articles and to give orders and directions
 
@@ -300,11 +300,11 @@ OFFENCES AND PENALTIES
 
 15\. Any person who conceals or destroys any controlled article in order to withhold the article from the market or refuses, without reasonable cause, to supply any controlled article shall be guilty of an offence under this Act.
 
-### Offence to sell controlled articles without a licence or permit
+### Offence to sell controlled articles without licence or permit
 
-16\. Any person, not being the holder of a valid licence or permit issued in accordance with section 7, who, either on his own behalf or on behalf of any body corporate of which he is a director or officer or on behalf of any firm of which he is a partner, sells by wholesale or retail any controlled article or any person, being the holder of any such licence or permit, who so sells any controlled article in any premises or at a place other than the premises or place specified in the licence or permit, or who so sells any controlled article contrary to any conditions expressed in the licence or permit, shall be guilty of an offence under this Act.
+16\. Any person, not being the holder of a valid licence or permit issued in accordance with section 7, who, either on his own behalf or on behalf of any body corporate of which he is a director or an officer or on behalf of any firm of which he is a partner, sells by wholesale or retail any controlled article, or any person, being the holder of any such licence or permit, who so sells any controlled article in any premises or at a place other than the premises or place specified in the licence or permit, or who so sells any controlled article contrary to any conditions expressed in the licence or permit, shall be guilty of an offence under this Act.
 
-### Retailers to display licence and list of controlled and rationed articles
+### Retailers to display licence and list of controlled articles and rationed articles
 
 17\.—(1) Any person carrying on retail business in any premises or at any place in respect of which a licence has been issued in accordance with section 7 shall display in a conspicuous position —
 
@@ -312,7 +312,7 @@ OFFENCES AND PENALTIES
 
 (b) a list in the English language and in any other language as the Controller may direct of the controlled articles or rationed articles sold in that premises or at that place,
 
-so that they may be easily read by any person purchasing controlled or rationed articles in that premises or at that place.
+so that they may be easily read by any person purchasing controlled articles or rationed articles in that premises or at that place.
 
 (2) Any person who fails or refuses to comply with subsection (1) shall be guilty of an offence under this Act.
 
@@ -338,11 +338,11 @@ shall be guilty of an offence under this Act.
 
 20\.—(1) Any person who removes any controlled article or causes or permits any controlled article to be removed from any licensed premises or stores any controlled article or causes or permits any controlled article to be stored in any premises, other than licensed premises or premises approved by the Controller for such storage, shall be guilty of an offence under this Act.
 
-(2) The Controller, any senior officer of customs or any police officer not below the rank of sergeant, if he suspects that any controlled article is being stored or dealt in in any premises in contravention of this section, may, notwithstanding any written law to the contrary for the time being in force, without a search warrant enter upon the premises for the purpose of ascertaining whether or not any such controlled article is in those premises.
+(2) The Controller, any senior officer of customs or any police officer not below the rank of sergeant, if he suspects that any controlled article is being stored or dealt with in any premises in contravention of this section, may, notwithstanding any written law to the contrary for the time being in force, without a search warrant enter upon the premises for the purpose of ascertaining whether or not any such controlled article is in those premises.
 
 (3) In any prosecution for an offence under this section, it shall be sufficient for the prosecution to prove that any controlled article, to the ownership or possession of which the defendant was entitled, was found in premises other than licensed premises or premises approved by the Controller, and the burden of proving that the defendant is not guilty of an offence under this section shall then lie upon the defendant.
 
-(4) Any controlled article found in the course of a search under subsection (2) upon premises other than licensed premises or premises approved by the Controller, in regard to which an offence under this section is reasonably suspected to have been committed, may be removed by the Controller or other person authorised by that subsection to carry out the search and, if not claimed within two weeks of the removal, may be sold by order of the Controller, and the proceeds of any such sale shall be paid into the Consolidated Fund.
+(4) Any controlled article found in the course of a search under subsection (2) upon premises other than licensed premises or premises approved by the Controller, in regard to which an offence under this section is reasonably suspected to have been committed, may be removed by the Controller or other person authorised by that subsection to carry out the search and, if not claimed within 2 weeks of the removal, may be sold by order of the Controller, and the proceeds of any such sale shall be paid into the Consolidated Fund.
 
 ### Unlawful possession of controlled articles
 
@@ -350,13 +350,13 @@ shall be guilty of an offence under this Act.
 
 ### Penalties
 
-22\.—(1) Any person, other than a body corporate, but including a director or officer of a body corporate, who commits an offence under this Act shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both, and in the case of a second or subsequent conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+22\.—(1) Any person, other than a body corporate, but including a director or an officer of a body corporate, who commits an offence under this Act shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (2) Any body corporate which commits an offence under this Act shall be liable on conviction to a fine not exceeding $20,000.
 
-(3) Where any person is convicted of an offence under this Act, the court by which he is so convicted may, whether or not it imposes any other penalty, make an order cancelling any licence issued under section 7 to him, or to any firm of which he is a partner, or to any corporation of which he is a director or officer, and debarring him or the firm or corporation from obtaining a new licence either absolutely or for such period as the court may determine, or may suspend the licence for such period as the court may determine.
+(3) Where any person is convicted of an offence under this Act, the court by which he is so convicted may, whether or not it imposes any other penalty, make an order cancelling any licence issued under section 7 to him, or to any firm of which he is a partner, or to any corporation of which he is a director or an officer, and debarring him or the firm or corporation from obtaining a new licence either absolutely or for such period as the court may determine, or may suspend the licence for such period as the court may determine.
 
-(4) Where a person charged with an offence under this Act is a body corporate every person who, at the time of the commission of the offence, is a director or officer of that body corporate may be charged jointly in the same proceedings with the body corporate, and where the body corporate is convicted of the offence charged, every such director or officer shall be deemed to be guilty of the offence unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission.
+(4) Where a person charged with an offence under this Act is a body corporate, every person who, at the time of the commission of the offence, is a director or an officer of that body corporate may be charged jointly in the same proceedings with the body corporate, and where the body corporate is convicted of the offence charged, every such director or officer shall be deemed to be guilty of the offence unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission.
 
 (5) Any person who would have been liable for an offence under this Act to any penalty for anything done or omitted to be done if the thing had been done or omitted to be done by him personally shall be liable to the same penalty if the thing has been done or omitted to be done by his partner, agent or employee, unless he proves that he took reasonable precautions to prevent the doing or omission of that thing.
 
@@ -376,17 +376,17 @@ MISCELLANEOUS
 
 ### Burden of proof
 
-25\. In any prosecution in respect of an offence under this Act upon a charge of doing any act which is unlawful unless the person doing the act is entitled to do so by reason of his being the holder of a licence, permit or written permission, consent, authorisation or exemption entitling him to do that act, it shall be sufficient for the prosecution to allege and prove his doing that act and the onus shall then be upon the accused to show that he was entitled to do the act.
+25\. In any prosecution in respect of an offence under this Act upon a charge of doing any act which is unlawful, unless the person doing the act is entitled to do so by reason of his being the holder of a licence, permit or written permission, consent, authorisation or exemption entitling him to do that act, it shall be sufficient for the prosecution to allege and prove his doing that act and the onus shall then be upon the accused to show that he was entitled to do the act.
 
 ### Power of court to confiscate
 
 26\.—(1) Where any person is convicted of an offence under this Act, the court may order the confiscation in whole or in part of —
 
-(a) any controlled article in respect of which the offence has been committed which has been seized by, or has otherwise come into the possession of the Controller or any person acting under his authority or any vehicle, vessel or other article, the property of the accused, by means of which the offence has been committed or which is intended to be used for the commission of an offence under this Act; or
+(a) any controlled article in respect of which the offence has been committed and which has been seized by, or has otherwise come into the possession of the Controller or any person acting under his authority or any vehicle, vessel or other article, the property of the accused, by means of which the offence has been committed or which is intended to be used for the commission of an offence under this Act; or
 
 (b) the proceeds of the sale of any such controlled article if it has been sold under section 12.
 
-(2) Where confiscation is ordered under subsection (1), the court shall deliver the controlled article or the proceeds of the sale thereof (if not already in possession of the Controller) to the Controller or to any person designated by him, and shall give directions as to their disposal.
+(2) Where confiscation is ordered under subsection (1), the court shall deliver the controlled article or the proceeds of the sale thereof (if not already in the possession of the Controller) to the Controller or to any person designated by him, and shall give directions as to their disposal.
 
 ### Jurisdiction of courts
 
@@ -394,7 +394,7 @@ MISCELLANEOUS
 
 ### Joinder of offences
 
-28\. Notwithstanding any written law to the contrary for the time being in force, when a person is accused of more than one offence under this Act he may be charged with and tried at one time for any number of those offences.
+28\. Notwithstanding any written law to the contrary for the time being in force, when a person is accused of more than one offence under this Act, he may be charged with and tried at one time for any number of those offences.
 
 ### Composition of offences
 
@@ -410,7 +410,7 @@ MISCELLANEOUS
 
 (3) If in any civil or criminal proceedings whatsoever the court, after full enquiry into the case, is of the opinion that the informer has wilfully made in any information furnished by him a material statement which he knew or believed to be false or did not believe to be true, or the court is of the opinion that justice cannot be fully done without the discovery of the identity of the informer, it shall be lawful for the court to require the production of the original information, if in writing, and to permit enquiry and require full disclosure concerning the informer.
 
-(4) For the purpose of this section, “informer” includes every person who is not called as a witness for the prosecution in a criminal case and who has made any complaint or report or furnished any information, oral or documentary, in respect of any offence under this Act alleged to have been committed by any person.
+(4) For the purposes of this section, “informer” includes every person who is not called as a witness for the prosecution in a criminal case and who has made any complaint or report or furnished any information, oral or documentary, in respect of any offence under this Act alleged to have been committed by any person.
 
 ## LEGISLATIVE HISTORY
 
@@ -418,7 +418,7 @@ Control of Essential Supplies Act
 
 (CHAPTER 55)
 
-This Legislative History is provided for the convenience of users of the Control of Essential Supplies Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Control of Essential Supplies Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -430,7 +430,10 @@ This Legislative History is provided for the convenience of users of the Control
 |2.|**1985 Revised Edition—Control of Essential Supplies Act (Chapter 55)**|
 ||Date of operation|30 March 1987|
 |3.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|4.|**2013 Revised Edition—Control of Essential Supplies Act (Chapter 55)**|
+||Date of operation|31 December 2013|
