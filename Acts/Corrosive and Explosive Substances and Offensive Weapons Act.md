@@ -10,9 +10,9 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Possession of corrosive or explosive substance for the purpose of causing hurt](#Possession-of-corrosive-or-explosive-substance-for-the-purpose-of-causing-hurt)
+- [3 Possession of corrosive or explosive substance for purpose of causing hurt](#Possession-of-corrosive-or-explosive-substance-for-purpose-of-causing-hurt)
 
-- [4 Using a corrosive or explosive substance or offensive weapon](#Using-a-corrosive-or-explosive-substance-or-offensive-weapon)
+- [4 Using corrosive or explosive substance or offensive weapon](#Using-corrosive-or-explosive-substance-or-offensive-weapon)
 
 - [5 Consorting with person carrying corrosive or explosive substance](#Consorting-with-person-carrying-corrosive-or-explosive-substance)
 
@@ -30,9 +30,9 @@
 
 - [12 Power to amend Schedules](#Power-to-amend-Schedules)
 
-[**FIRST SCHEDULE Corrosive Substances**](#FIRST-SCHEDULE-Corrosive-Substances)
+[**FIRST SCHEDULE Corrosive substances**](#FIRST-SCHEDULE-Corrosive-substances)
 
-[**SECOND SCHEDULE Scheduled Weapons**](#SECOND-SCHEDULE-Scheduled-Weapons)
+[**SECOND SCHEDULE Scheduled weapons**](#SECOND-SCHEDULE-Scheduled-weapons)
 
 [**Legislative History**](#Legislative-History)
 
@@ -42,9 +42,9 @@
 
 (Original Enactment: Ordinance 26 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 2013
 
-(30th March 1987)
+(31st December 2013)
 
 An Act to provide certain penalties relating to the unlawful possession of corrosive and explosive substances and the carrying of offensive and scheduled weapons.
 
@@ -68,15 +68,15 @@ An Act to provide certain penalties relating to the unlawful possession of corro
 
 “scheduled weapon” means any offensive weapon specified in the Second Schedule.
 
-### Possession of corrosive or explosive substance for the purpose of causing hurt
+### Possession of corrosive or explosive substance for purpose of causing hurt
 
 3\. Any person who carries or has in his possession or under his control any corrosive or explosive substance in circumstances which raise a reasonable presumption that he intends to use or intends to enable some other person to use the substance for the purpose of causing hurt shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years and shall also be punished with caning with not less than 6 strokes.
 
 [63/73]
 
-### Using a corrosive or explosive substance or offensive weapon
+### Using corrosive or explosive substance or offensive weapon
 
-4\. Any person who unlawfully and maliciously uses or attempts to use any corrosive substance or offensive weapon for the purpose of causing hurt or causes or attempts to cause by any explosive substance an explosion of a nature likely to cause hurt, shall, whether any hurt has actually been caused or not, be guilty of an offence and shall be liable on conviction to imprisonment for life and shall also be punished with caning with not less than 6 strokes.
+4\. Any person who unlawfully and maliciously uses or attempts to use any corrosive substance or offensive weapon for the purpose of causing hurt or causes or attempts to cause by any explosive substance an explosion of a nature likely to cause hurt shall, whether any hurt has actually been caused or not, be guilty of an offence and shall be liable on conviction to imprisonment for life and shall also be punished with caning with not less than 6 strokes.
 
 [63/73]
 
@@ -96,7 +96,7 @@ An Act to provide certain penalties relating to the unlawful possession of corro
 
 (b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
 
-(4) An offence under subsection (1) shall be deemed to be a seizable and non-bailable offence.
+(4) An offence under subsection (1) shall be deemed to be an arrestable and non-bailable offence.
 
 [63/73]
 
@@ -110,11 +110,11 @@ An Act to provide certain penalties relating to the unlawful possession of corro
 
 (c) lends or gives to any other person,
 
-any scheduled weapon shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be punished with caning with not less than 6 strokes, and in the case of a second or subsequent offence to imprisonment for a term of not less than 2 years and not more than 8 years and shall also be punished with caning with not less than 6 strokes.
+any scheduled weapon shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be punished with caning with not less than 6 strokes and, in the case of a second or subsequent offence, to imprisonment for a term of not less than 2 years and not more than 8 years and shall also be punished with caning with not less than 6 strokes.
 
 (2) In any prosecution for an offence under subsection (1), the onus of proving the existence of a lawful purpose shall be upon the accused.
 
-(3) An offence under subsection (1) shall be deemed to be a seizable and non-bailable offence.
+(3) An offence under subsection (1) shall be deemed to be an arrestable and non-bailable offence.
 
 [63/73]
 
@@ -122,7 +122,7 @@ any scheduled weapon shall be guilty of an offence and shall be liable on convic
 
 8\.—(1) Any person who consorts with, or is found in the company of, another person who is carrying or has in his possession or under his control any offensive weapon in contravention of section 6, in circumstances which raise a reasonable presumption that he knew that that other person was carrying or had in his possession or under his control any such weapon shall, unless he shall prove that he had reasonable grounds for believing that that other person was carrying or had in his possession or under his control any such weapon for a lawful purpose, be guilty of an offence and shall be liable on conviction to the like punishment as that other person with whom he was consorting or in whose company he was found.
 
-(2) An offence under this section shall be deemed to be a seizable and non-bailable offence.
+(2) An offence under this section shall be deemed to be an arrestable and non-bailable offence.
 
 ### Powers of search and seizure
 
@@ -132,7 +132,7 @@ any scheduled weapon shall be guilty of an offence and shall be liable on convic
 
 (a) stop and search any person or vehicle, whether in a public road or place or not;
 
-(b) enter and search any premises;
+(b) enter and search any premises; or
 
 (c) board and search any vessel, vehicle or aircraft not being, or having the status of, a naval, military or air force vessel, vehicle or aircraft,
 
@@ -144,13 +144,11 @@ if he has reasonable grounds for believing that any evidence of the commission o
 
 ### Disposal of property
 
-10\.—(1) Subject to subsection (2), the provisions of the Criminal Procedure Code (Cap. 68) relating to the disposal of property the subject of an offence shall apply to any article coming into the possession of a police officer under section 9.
+10\.—(1) Subject to subsection (2), the provisions of the Criminal Procedure Code (Cap. 68) relating to the disposal of property, the subject of an offence, shall apply to any article coming into the possession of a police officer under section 9.
 
 (2) Any corrosive or explosive substance or offensive weapon coming into the possession of a police officer under section 9 may be disposed of in such manner as the Minister may order.
 
 (3) Nothing in this section shall be taken to prejudice any right to retain or dispose of property which may exist in law apart from this section.
-
-[Cap 68.]
 
 ### Presumptions
 
@@ -162,7 +160,7 @@ if he has reasonable grounds for believing that any evidence of the commission o
 
 (b) the substance was kept concealed or in a place other than that in which it might reasonably be expected to be kept for domestic purposes or, in the case of a person carrying on business, for business purposes; or
 
-(c) the substances were kept in containers other than containers of a kind in which those substances are ordinarily kept for domestic purposes or, in the case of a person carrying on business, for business purposes.
+(c) the substance was kept in a container other than a container of a kind in which the substance is ordinarily kept for domestic purposes or, in the case of a person carrying on business, for business purposes.
 
 ### Power to amend Schedules
 
@@ -170,9 +168,9 @@ if he has reasonable grounds for believing that any evidence of the commission o
 
 FIRST SCHEDULE
 
-Section 2.
+Section 2
 
-Corrosive Substances
+Corrosive substances
 
 1. 
 
@@ -212,9 +210,9 @@ Sodium hydroxide.
 
 SECOND SCHEDULE
 
-Section 2.
+Section 2
 
-Scheduled Weapons
+Scheduled weapons
 
 1\. Any knife, sometimes known as a flick knife, which has a blade which opens automatically by hand pressure applied to a button, spring or other device in or attached to the handle of the knife.
 
@@ -226,13 +224,11 @@ Scheduled Weapons
 
 5\. Any blade or other instrument attached to or forming part of a bicycle pump, metal-pipe or stick, and concealed therein, which is capable of being used for cutting or stabbing.
 
-6\. Any sword, machete or parang, axe, sickle, bearing scraper, spear, bayonet, iron rod, and the nancha-ku (segments of wood or metal joined by a chain, leather strap or cord).
+6\. Any sword, machete or parang, axe, sickle, bearing scraper, spear, bayonet, iron rod, or nancha-ku (segments of wood or metal joined by a chain, leather strap or cord).
 
 7. Any knife, sometimes known as a wasp knife, which is capable of injecting a ball of compressed gas that freezes both human and animal tissues and organs surrounding the point of injection.
 
-[S 378/2009 wef 26/08/2009]
-
-[S 318/73]
+[S 318/73; S 378/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -240,7 +236,7 @@ Corrosive and Explosive Substances and Offensive Weapons Act
 
 (CHAPTER 65)
 
-This Legislative History is provided for the convenience of users of the Corrosive and Explosive Substances and Offensive Weapons Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Corrosive and Explosive Substances and Offensive Weapons Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -279,3 +275,5 @@ This Legislative History is provided for the convenience of users of the Corrosi
 ||Date of operation|30 March 1987|
 |11.|**G.N. No. S 378/2009—Corrosive and Explosive Substances and Offensive Weapons Act (Amendment of Second Schedule) Order 2009**|
 ||Date of commencement|26 August 2009|
+|12.|**2013 Revised Edition—Corrosive and Explosive Substances and Offensive Weapons Act (Chapter 65)**|
+||Date of operation|31 December 2013|
