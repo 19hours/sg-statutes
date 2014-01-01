@@ -150,7 +150,7 @@ PRELIMINARY
 
 (3) The Minister may, from time to time, by notification in theGazette, extend the period of one year mentioned in subsection (2) for such further period or periods as he may think fit.1
 
-1The period has been extended to 31st December 2013 vide S 531/2003.
+1The period has been extended to 31st December 2023 vide S 723/2013.
 
 ### Interpretation
 
@@ -618,7 +618,7 @@ IMPORT AND EXPORT
 
 (5) Any reference in this section to the destination of any goods includes a reference to the ultimate destination thereof.
 
-(6) In this section, “making entry of the goods for export” means furnishing to the Trade Development Board established under the Trade Development Board Act (Cap. 330B) any such document as may be required by regulations made under section 3(2)(b)(i) of the Regulation of Imports and Exports Act (Cap. 272A) and “entry” shall be construed accordingly.
+(6) In this section, “making entry of the goods for export” means furnishing to the Trade Development Board established under the Trade Development Board Act (Cap. 330) any such document as may be required by regulations made under section 3(2)(b)(i) of the Regulation of Imports and Exports Act (Cap. 272A) and “entry” shall be construed accordingly.
 
 [24/95]
 
@@ -1414,6 +1414,8 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|27.|**G.N. No. S 723/2013—Exchange Control (Continuance of Act) Notification 2013**|
+||Date of commencement|1 January 2014|
 ## COMPARATIVE TABLE
 
 Exchange Control Act
