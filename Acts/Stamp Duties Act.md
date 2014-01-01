@@ -2290,7 +2290,9 @@ MISCELLANEOUS
 
 (b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of the receipt of the notice in paragraph (c), be payable by the Government to the person in default by or under any written law, contract or scheme; and
 
-(c) before payment of the amount referred to in paragraph (b) is made to the person in default, the Commissioner serves notice on any public officer by whom the payment is to be made that the duty is due from the person in default,
+(c) before payment of the amount referred to in paragraph (b) is made to the person in default, the Commissioner serves notice on any public officer (including an employee appointed under section 9(4) of the Inland Revenue Authority of Singapore Act (Cap. 138A)) by whom the payment is to be made that the duty is due from the person in default,
+
+[Act 21 of 2013 wef 01/01/2014]
 
 then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the duty referred to in paragraph (a), and if the public officer makes such a reduction —
 
@@ -3907,9 +3909,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||7 September 1983)|
 ||Date of Second and Third Readings|20 December 1983|
 ||Date of commencement|6 January 1984|
-|30.|**1985 Revised Edition—Stamp Duties Act (Chapter 312)**|
-||Date of operation|30 March 1987|
-|31.|**Act 18 of 1986—Stamp Duties (Amendment) Act 1986**|
+|30.|**Act 18 of 1986—Stamp Duties (Amendment) Act 1986**|
 ||Date of First Reading|5 May 1986|
 |||(Bill No. 15/86 published on|
 |||
@@ -3917,21 +3917,18 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||6 May 1986)|
 ||Date of Second and Third Readings|29 July 1986|
 ||Date of commencement|8 March 1985|
-|32.|**1985 Revised Edition—Stamp Duties Act**|
+|31.|**1985 Revised Edition—Stamp Duties Act**|
 ||Date of operation|30 March 1987|
-|33.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
-||(Consequential amendments made to Act by)||
+|32.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made by)||
 ||Date of First Reading|26 February 1993|
-|||(Bill No. 14/93 published on|
-|||
-|
-|||27 February 1993)|
+|||(Bill No. 14/93 published on 27 February 1993)|
 ||Date of Second Reading|19 March 1993|
 ||Date Committed to Select Committee|19 March 1993|
-||Date of Presentation of Select Committee Report|7 September 1993(Parl 4 of 1993)|
-||Date of Third Reading|12 October 1993|
-||Date of commencement|26 November 1993(except para (3) of Fifth Schedule) 1 April 1994 (para (3) of Fifth Schedule)|
-|34.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
+||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
+||Date of Third Reading|12 November 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
+|33.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
 ||Date of First Reading|21 May 1996|
 |||(Bill No. 16/96 published on|
 |||
@@ -3939,8 +3936,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||22 May 1996)|
 ||Date of Second and Third Readings|12 July 1996|
 ||Date of commencement|23 August 1996|
-|35.|**1997 Revised Edition—Stamp Duties Act (Chapter 312)**|
+|34.|**1997 Revised Edition—Stamp Duties Act (Chapter 312)**|
 ||Date of operation|30 May 1997|
+|35.|**G. N. No. S 284/1998—Stamp Duties Act (Substitution of Schedules) Notification 1998**|
+||Date of commencement|28 February 1998|
 |36.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
 ||Date of First Reading|3 August 1999|
 |||(Bill No. 28/99 published on|
@@ -3948,8 +3947,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |
 |||4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
-||Date of commencement|1 September 1999(except sections 2 (a), 36, 37 and 39 (2))|
-|37.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
+||Date of commencement|1 September 1999 (except sections 2 (a), 36, 37 and 39 (2))|
+|37.|**G. N. No. S 288/2000—Stamp Duties Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|30 June 2000|
+|38.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
 ||Date of First Reading|13 November 2000|
 |||(Bill No. 31/2000 published on|
 |||
@@ -3957,9 +3958,9 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||14 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 July 2000|
-|38.|**2000 Revised Edition—Stamp Duties Act (Chapter 312)**|
+|39.|**2000 Revised Edition—Stamp Duties Act (Chapter 312)**|
 ||Date of operation|30 December 2000|
-|39.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+|40.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
 ||Date of First Reading|31 October 2002|
 |||(Bill No. 40/2002 published on|
 |||
@@ -3967,7 +3968,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
-|40.|**Act 6 of 2005—Stamp Duties (Amendment) Act 2005**|
+|41.|**G. N. No. S 192/2003—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2003**|
+||Date of commencement|8 April 2003|
+|42.|**G. N. No. S 525/2004—Stamp Duties (Amendment of First Schedule) Notification 2004**|
+||Date of commencement|31 August 2004|
+|43.|**Act 6 of 2005—Stamp Duties (Amendment) Act 2005**|
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 60/2004 published on|
 |||
@@ -3975,7 +3980,9 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|41.|**Act 39 of 2005—Stamp Duties (Amendment No. 2) Act 2005**|
+|44.|**G. N. No. S 448/2005—Stamp Duties Act (Amendment of Fifth Schedule) Notification 2005**|
+||Date of commencement|8 July 2005|
+|45.|**Act 39 of 2005—Stamp Duties (Amendment No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 38/2005 published on|
 |||
@@ -3983,9 +3990,9 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
-|42.|**2006 Revised Edition—Stamp Duties Act**|
+|46.|**2006 Revised Edition—Stamp Duties Act**|
 ||Date of operation|1 April 2006|
-|43.|**Act 36 of 2008—Stamp Duties (Amendment) Act 2008**|
+|47.|**Act 36 of 2008—Stamp Duties (Amendment) Act 2008**|
 ||Date of First Reading|20 October 2008|
 |||(Bill No. 32/2008 published on|
 |||
@@ -3993,87 +4000,93 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
-|44.|**Act 6 of 2010—Stamp Duties (Amendment) Act 2010**|
+|48.|**Act 6 of 2010—Stamp Duties (Amendment) Act 2010**|
 ||Date of First Reading|12 March 2010|
 |||(Bill No. 6/2010 published on 12 March 2010)|
 ||Date of Second and Third Readings|12 March 2010|
 ||Date of commencement|20 February 2010|
-|45.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+|49.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|20 February 2010|
-|46.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+|50.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 15/2010 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 February 2010|
-|47.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+|51.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 April 2010|
-|48.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+|52.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 15/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2010|
-|49.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
+|53.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 9/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|18 May 2010|
 ||Date of commencement|15 July 2010|
-|50.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+|54.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|15 July 2010|
-|51.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
+|55.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
 ||Date of commencement|30 August 2010|
-|52.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+|56.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Reading|18 October 2010|
 ||Date of commencement|9 December 2010|
-|53.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|57.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|54.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
+|58.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
 ||Date of commencement|14 January 2011|
-|55.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+|59.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 15/2011 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|19 February 2011|
-|56.|**G.N. No. S 644/2011—Stamp Duties (Amendment of First Schedule) (No. 2) Notification 2011**|
+|60.|**G.N. No. S 644/2011—Stamp Duties (Amendment of First Schedule) (No. 2) Notification 2011**|
 ||Date of commencement|8 December 2011|
-|57.|**G. N. No. S 117/2012—Stamp Duties Act (Amendment of First Schedule) Notification 2012**|
+|61.|**G. N. No. S 117/2012—Stamp Duties Act (Amendment of First Schedule) Notification 2012**|
 ||Date of commencement|8 December 2011|
-|58.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+|62.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 15/2011 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012|
-|59.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
+|63.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
 ||Date of First Reading|3 August 1999|
 |||(Bill No. 28/99 published on 4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|9 January 2012|
-|60.|**G.N. No. S 134/2012—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2012**|
+|64.|**G.N. No. S 134/2012—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2012**|
 ||Date of commencement|1 April 2012|
-|61.|**G.N. No. S 253/2012—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2012**|
+|65.|**G.N. No. S 253/2012—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2012**|
 ||Date of commencement|1 June 2012|
-|62.|**G.N. No. S 12/2013—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2013**|
+|66.|**G.N. No. S 12/2013—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2013**|
 ||Date of commencement|12 January 2013|
-|63.|**Act 1 of 2013—Stamp Duties (Amendment) Act 2013**|
+|67.|**Act 1 of 2013—Stamp Duties (Amendment) Act 2013**|
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 38/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|22 February 2013|
-|64.|**G.N. No. S 776/2013—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2013**|
+|68.|**G.N. No. S 776/2013—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2013**|
 ||Date of commencement|23 December 2013|
+|69.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 October 2013|
+|||(Bill No. 17/2013 published on 17 December 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 January 2014|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
