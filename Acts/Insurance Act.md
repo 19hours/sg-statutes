@@ -44,9 +44,9 @@
 
 - [11 Annual fees of licensed insurers](#Annual-fees-of-licensed-insurers)
 
-- [12A (Repealed)](#Repealed)
-
 - [12 Cancellation of licence](#Cancellation-of-licence)
+
+- [12A (Repealed)](#Repealed)
 
 - [13 Effects of cancellation of licence](#Effects-of-cancellation-of-licence)
 
@@ -69,8 +69,6 @@
 - [21 Maintenance of assets by licensed insurers](#Maintenance-of-assets-by-licensed-insurers)
 
 - [22 Custody of assets of licensed insurers](#Custody-of-assets-of-licensed-insurers)
-
-[**Miscellaneous requirements as to conduct of business**](#Miscellaneous-requirements-as-to-conduct-of-business)
 
 - [23 (Repealed)](#Repealed)
 
@@ -108,6 +106,8 @@
 
 - [33 General obligation to furnish information](#General-obligation-to-furnish-information)
 
+[**Division 3 — Authorised reinsurers**](#Division-3-—-Authorised-reinsurers)
+
 - [34 Authorisation of reinsurers](#Authorisation-of-reinsurers)
 
 - [34A Annual fees of authorised reinsurers](#Annual-fees-of-authorised-reinsurers)
@@ -125,8 +125,6 @@
 - [34G Custody of assets of authorised reinsurers](#Custody-of-assets-of-authorised-reinsurers)
 
 - [34H General obligation of authorised reinsurers to furnish information](#General-obligation-of-authorised-reinsurers-to-furnish-information)
-
-- [34 (Repealed)](#Repealed)
 
 - [35 Saving for validity of policies](#Saving-for-validity-of-policies)
 
@@ -446,6 +444,8 @@ PRELIMINARY
 
 “actuary” means a Fellow of any prescribed professional body or institute;
 
+[Act 23/2003 wef 01/01/2004]
+
 “advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act (Cap. 161);
 
 [Act 11 of 2013 wef 18/04/2013]
@@ -485,6 +485,8 @@ PRELIMINARY
 [23/2003 wef 01/01/2004]
 
 “direct insurer” means any insurer other than a reinsurer, an authorised reinsurer or a captive insurer;
+
+[23/2003 wef 01/01/2004]
 
 “director” —
 
@@ -678,7 +680,7 @@ but does not include such businesses or activities, such class of businesses or 
 
 [11/86]
 
-(4) For the purposes of this Act, references to carrying on insurance business include the carrying it on through an agent“”.
+(4) For the purposes of this Act, references to carrying on insurance business include the carrying it on through an agent.
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -714,11 +716,15 @@ but does not include such businesses or activities, such class of businesses or 
 
 (9) The definitions set out in the First Schedule shall have effect for the construction of references in this Act to policies of insurance, policy owners and policy moneys.
 
+[23/2003 wef 01/01/2004]
+
 ## PART II
 
 CONDUCT OF INSURANCE BUSINESS
 
 Division 1 — General restriction on insurers
+
+[11/2013 wef 18/04/2013]
 
 ### No person to carry on insurance business unless licensed or authorised by Authority
 
@@ -1000,6 +1006,8 @@ but does not include an advertisement issued outside Singapore that is made avai
 
 Division 2 — Licensed insurers
 
+[Act 11 of 2013 wef 18/04/2013]
+
 ### Licensing of insurers
 
 8\.—(1) A person who desires to carry on insurance business in Singapore as an insurer shall —
@@ -1057,8 +1065,6 @@ Division 2 — Licensed insurers
 (3) The Authority may, where it considers appropriate in a particular case, waive, refund or remit the whole or any part of any annual fee paid or payable under subsection (1).
 
 [Act 11 of 2013 wef 18/04/2013]
-
-12A\. [Repealed by Act 11 of 2013 wef 18/04/2013]
 
 ### Cancellation of licence
 
@@ -1174,6 +1180,8 @@ the Authority shall give notice in writing to the insurer of the date on which t
 
 [Act 11 of 2013 wef 18/04/2013]
 
+12A\. [Repealed by Act 11 of 2013 wef 18/04/2013]
+
 ### Effects of cancellation of licence
 
 13\.—(1) Where an order of cancellation of the licence of an insurer under section 12 becomes effective —
@@ -1244,7 +1252,7 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 [Act 11 of 2013 wef 18/04/2013]
 
-(8) Subject to subsection (7), any register of policies established by a Singapore insurer shall, notwithstanding that the insurer at any time ceases to carry on in Singapore either class of insurance business, continue to be maintained by the insurer for policies belonging to that class so long as the insurer is under any liability in respect of those policies registered or required to be registered at that time;
+(8) Subject to subsection (7), any register of policies established by a Singapore insurer shall, notwithstanding that the insurer at any time ceases to carry on in Singapore either class of insurance business, continue to be maintained by the insurer for policies belonging to that class so long as the insurer is under any liability in respect of those policies registered or required to be registered at that time.
 
 [11/86]
 
@@ -1366,6 +1374,8 @@ th amount allowed to the surplus account in any subsequent accounting period.
 
 [11/86; 32/93]
 
+[23/2003 wef 23/08/2004]
+
 (12) [Deleted by Act 16/2011 wef 01/05/2011]
 
 (13) Any insurance fund established by an insurer for any class of insurance business shall, notwithstanding that the insurer at any time ceases to carry on that class of business in Singapore, continue to be maintained by the insurer so long as the insurer is required by this Act to maintain a register of policies for policies belonging to that class.
@@ -1404,6 +1414,8 @@ as may be prescribed or specified in directions for the purposes of this section
 
 [Act 11 of 2013 wef 18/04/2013]
 
+[23/2003 wef 23/08/2004]
+
 (3) Without prejudice to the generality of section 64, regulations made under this Act, or directions made under subsection (1) or (2), may —
 
 (a) provide for the determination of the value of assets and the amount of liabilities;
@@ -1415,8 +1427,6 @@ as may be prescribed or specified in directions for the purposes of this section
 (c) make different provision in relation to different cases or circumstances.
 
 [11/86]
-
-[Act 11 of 2013 wef 18/04/2013]
 
 (4) The Authority may by notice in writing, if it considers it appropriate in the particular circumstances of a licensed insurer having regard to the risks arising from the activities of the insurer and such other factors as the Authority considers relevant, direct that the insurer satisfy fund solvency requirements or capital adequacy requirements other than those that the insurer is required to maintain under this section.
 
@@ -1506,8 +1516,6 @@ as may be prescribed or specified in directions for the purposes of this section
 
 [Act 11 of 2013 wef 18/04/2013]
 
-[Act 11 of 2013 wef 18/04/2013]
-
 (4) No assets held by a person as trustee for a licensed insurer in compliance with a requirement imposed under this section shall, so long as the requirement is in force, be released except with the written consent of the Authority.
 
 [11/86]
@@ -1519,8 +1527,6 @@ as may be prescribed or specified in directions for the purposes of this section
 [11/86]
 
 [Act 11 of 2013 wef 18/04/2013]
-
-Miscellaneous requirements as to conduct of business
 
 23\. [Repealed by Act 11 of 2013 wef 18/04/2013]
 
@@ -2066,6 +2072,8 @@ if the person —
 
 (3) Subsection (2) shall apply notwithstanding the cancellation of the licence of the insurer under section 12, whether wholly or in respect of a class of business.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 Division 3 — Authorised reinsurers
 
 [Act 11 of 2013 wef 18/04/2013]
@@ -2287,10 +2295,6 @@ then, for the purposes of this Act, the reinsurer shall be treated as having mad
 34H\. The Authority may, by notice in writing, require any authorised reinsurer to furnish it with information about any matter related to any insurance business in respect of which the reinsurer is authorised if the Authority is of the opinion that it requires that information for the discharge of its functions under this Act.
 
 [Act 11 of 2013 wef 18/04/2013]
-
-Carrying on of general business by Lloyd’s underwriters
-
-34\. [Repealed byAct 41/2001 — see section 65]
 
 ### Saving for validity of policies
 
@@ -2589,8 +2593,6 @@ shall be guilty of an offence.
 (l) provide for the exemption from, or modification of, the operation of the provisions of this Act in relation to any foreign insurer carrying on insurance business in Singapore under any foreign insurer scheme or any of its agents; and
 
 (m) provide for any transitional provisions necessary in the event of the revocation of any foreign insurer scheme.
-
-[Act 11 of 2013 wef 18/04/2013]
 
 (2) The Authority may, from time to time and in such form or manner as it considers appropriate, publish any information obtained or received by the Authority under regulations made under subsection (1).
 
@@ -2949,6 +2951,8 @@ the Authority shall give notice in writing to that person of the date on which t
 [41/2001]
 
 Division 2 — Conduct of insurance broking business
+
+[11/2013 wef 18/04/2013]
 
 ### Insurance broker not to carry on business unless registered
 
@@ -3540,13 +3544,23 @@ Returns
 
 36\.—(1) A registered insurance broker shall prepare such statements of account and other statements and in such form and manner as may be prescribed and lodge them with the Authority.
 
+[11/86; 41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (2) A licensed insurer or registered insurance broker shall —
 
 (a) cause to be kept in Singapore such books and records as will sufficiently explain the transactions and financial position of the insurer or insurance broker, as the case may be, in Singapore and enable the insurer or insurance broker to comply with the requirements of this section and, in the case of the insurer, section 37; and
 
 (b) cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
 
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (3) A licensed insurer or an authorised reinsurer shall prepare and lodge with the Authority such statements of accounts and other statements relating to its business and in such form and manner as may be prescribed or specified in directions by the Authority.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (3A) For the purposes of subsection (3) —
 
@@ -3554,9 +3568,15 @@ Returns
 
 (b) notwithstanding the provisions of the Companies Act (Cap. 50) or the Co-operative Societies Act (Cap. 62), as the case may be, every licensed insurer, other than a captive insurer and a marine mutual insurer, shall appoint an auditor annually.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (4) A registered insurance broker shall have its accounts audited for each financial year for which statements of accounts and other statements are prepared in accordance with regulations prescribed under subsection (1).
 
+[41/2001]
+
 (5) A registered insurance broker shall appoint an auditor to carry out an audit of its accounts and other statements prepared in accordance with subsection (1) and where, for any reason, the auditor ceases to act for the registered insurance broker, the registered insurance broker shall, as soon as practicable thereafter, appoint another auditor.
+
+[41/2001]
 
 (6) No person shall act as auditor for any licensed insurer or registered insurance broker unless —
 
@@ -3566,7 +3586,13 @@ Returns
 
 (c) in the case of a licensed insurer, the licensed insurer has obtained the approval of the Authority to appoint that person as an auditor.
 
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (7) An auditor shall not be approved by the Authority as an auditor for a licensed insurer unless he is able to comply with such conditions in relation to the discharge of his duties as may be determined by the Authority.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (8) Notwithstanding any other provision of this Act or the provisions of the Companies Act (Cap. 50), the Authority may, if it is not satisfied with the performance of duties by an auditor appointed by a licensed insurer or registered insurance broker —
 
@@ -3575,6 +3601,10 @@ Returns
 (b) direct the licensed insurer or registered insurance broker, as soon as practicable thereafter, to appoint another auditor,
 
 and the licensed insurer or registered insurance broker, shall comply with such direction.
+
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (9) The Authority may impose all or any of the following duties on an auditor:
 
@@ -3588,7 +3618,17 @@ and the licensed insurer or registered insurance broker, shall comply with such 
 
 and the licensed insurer or registered insurance broker, as the case may be, shall remunerate the auditor in respect of the discharge by him of all or any of these duties.
 
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (10) An auditor’s report made under subsection (9) shall be lodged by the insurer with the Authority together with the statements of accounts lodged under subsection (3).
+
+[41/2001]
+
+[23/2003 wef 01/01/2004]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (11) If an auditor, in the course of the performance of his duties as an auditor of a licensed insurer or registered insurance broker, is satisfied that —
 
@@ -3606,7 +3646,13 @@ and the licensed insurer or registered insurance broker, as the case may be, sha
 
 the auditor shall immediately report the matter in writing to the Authority.
 
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (12) In the case of a company incorporated or established outside Singapore, the audit required by subsection (3A) need not extend beyond the business for which an insurance fund is maintained under this Act.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (13) The Authority may, from time to time and in such form or manner as it considers appropriate, publish any information obtained or received by the Authority under this section or section 37.
 
@@ -3619,6 +3665,8 @@ the auditor shall immediately report the matter in writing to the Authority.
 (a) have an investigation made, by an actuary appointed with the approval of the Authority under section 31, into the financial condition of each class of business that it carries on; and
 
 (b) lodge with the Authority such reports of the investigation referred to in paragraph (a), in such form and manner as may be prescribed or specified in directions by the Authority.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (2) [Deleted by Act 11 of 2013 wef 18/04/2013]
 
@@ -3636,6 +3684,10 @@ the auditor shall immediately report the matter in writing to the Authority.
 
 (9) If the company referred to in subsection (8) is required by the law relating to insurance in the country in which it is incorporated or established to furnish the authority having the administration of that law with returns as to actuarial investigations of its insurance business, the documents to be lodged with the Authority under this section shall be accompanied by certified copies of any such returns made since the company was first licensed under this Act in respect of insurance business, other than returns of which copies have previously been furnished under this subsection.
 
+[11/86; 41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (10) References in this Act to documents lodged with the Authority shall not be taken to include documents required by subsection (9) to accompany documents so lodged.
 
 (11) Where a licensed insurer —
@@ -3645,6 +3697,8 @@ the auditor shall immediately report the matter in writing to the Authority.
 (b) the investigation is not made to comply with subsection (1) or with any provision as to returns in the law relating to insurance in a country outside Singapore, but the results of the investigation are made public,
 
 then the insurer shall, as to the lodging of documents with the Authority, comply with the requirements of subsection (1) as in the case of an investigation made under that subsection.
+
+[41/2001]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -3658,11 +3712,17 @@ then the insurer shall, as to the lodging of documents with the Authority, compl
 
 the Authority may, by notice in writing, require such explanations as it may consider necessary to be made by or on behalf of the insurer within such time (not being less than 14 days) as is specified in the notice.
 
+[11/86]
+
 (2) The Authority may, after considering the explanations referred to in subsection (1), or if such explanations have not been given by or on behalf of the insurer within the time specified in that subsection, reject the document or give such directions as it may think necessary for its variation within such time (not being less than one month) as is specified in the directions.
+
+[11/86]
 
 (3) Directions given under subsection (2) with respect to any document may require such consequential variations of any other document lodged by the insurer under section 36 or 37 as may be specified in the directions.
 
 (4) Where directions are given under subsection (2), any document to which they relate shall be deemed not to have been lodged until it is re-submitted with the variations required by the directions, but the insurer shall be deemed to have submitted the document within the time limited by regulations prescribed or directions issued under section 36(3) if it is re-submitted with the required variations within the time limited by the directions.
+
+[11/86]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -3670,15 +3730,33 @@ the Authority may, by notice in writing, require such explanations as it may con
 
 39\.—(1) Any member or policy owner of an insurer shall have a right, on applying to the insurer, to be sent by the insurer at an address supplied by him copies of documents lodged by the insurer to comply with section 36 or 37, and to have the copies despatched not later than 14 days after the insurer receives the application.
 
+[11/86]
+
 (2) The right referred to in subsection (1) shall not extend to any document excepted from this provision by regulations prescribed or directions issued under section 36(3), or to a document of any other description except the last lodged of that description.
+
+[11/86]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (3) Any person shall have the right, on payment of the prescribed fee, at any time during working hours of the office of the Authority, to inspect at that office any document lodged by an insurer to comply with section 36 or 37 and any document required by that section to accompany the document so lodged and make a copy of the whole or any part of it.
 
+[11/86]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (4) The right referred to in subsection (3) shall not extend to any document excepted from this provision by regulations prescribed or directions issued under section 36(3), or to documents of any other description lodged more than 10 years previously.
+
+[11/86]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (5) In any proceedings, a certificate signed by any person appointed by the Authority under section 50 that a document is one lodged by an insurer to comply with section 36 or 37, or one that accompanied documents so lodged, shall be admissible as evidence of the facts certified.
 
+[11/86]
+
 (6) Any person who contravenes section 36 or 37 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[41/2001]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -3696,13 +3774,23 @@ Inspections and Investigations
 
 (c) an insurance intermediary.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (2) For the purpose of an inspection under this section, a licensed insurer or insurance intermediary referred to in subsection (1) shall —
 
 (a) produce his books, accounts, records and other documents, whether in electronic, print or other form, to the Authority and give such information and facilities as may be required by the Authority to conduct the inspection; and
 
 (b) procure that any person who is in possession of such books, accounts, records and other documents referred to in paragraph (a) shall produce such books, accounts, records and other documents and give such information and facilities as may be required by the Authority.
 
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (3) The Authority may make copies of, or take possession of, any of the books, accounts, records and other documents, whether in electronic, print or other form, of a licensed insurer or an insurance intermediary.
+
+[41/2001]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (4) [Deleted by Act 11 of 2013 wef 18/04/2013]
 
@@ -3722,7 +3810,11 @@ Inspections and Investigations
 
 (b) to determine the truth or otherwise of an alleged or suspected contravention of any provision of this Act or any direction issued under this Act.
 
+[41/2001]
+
 (2) For the purposes of subsection (1), the Authority may, in writing, require any person named therein to provide information or to produce books, accounts, records and other documents, whether in electronic, print or other form, relating to any matter under investigation, and such person shall immediately comply with that requirement.
+
+[41/2001]
 
 (3) Nothing in this Part shall —
 
@@ -3730,7 +3822,17 @@ Inspections and Investigations
 
 (b) authorise the taking of any such document or other material which is in his possession.
 
+[23/2003 wef 01/01/2004]
+
+[Act 11 of 2013 wef 18/04/2013]
+
 (4) If an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), refuses to disclose the information or produce the document or other material referred to in subsection (3), he shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that communication was made.
+
+[41/2001]
+
+[23/2003 wef 01/01/2004]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (5) Any person who fails, without reasonable excuse, to comply with subsection (2) or (4) shall be guilty of an offence and shall be liable on conviction —
 
@@ -3840,6 +3942,8 @@ Division 3 —
 
 Powers where licensed insurer or insurance intermediary is unable to meet obligations, etc.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 ### Action by Authority if relevant person unable to meet obligations, etc.
 
 41\.—(1) The Authority may exercise one or more of the powers specified in subsection (2) as appears to it to be necessary where —
@@ -3859,6 +3963,8 @@ Powers where licensed insurer or insurance intermediary is unable to meet obliga
 (c) a relevant person becomes unable to meet its obligations, or is insolvent, or suspends payments; or
 
 (d) the Authority considers it in the public interest to do so.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (2) The Authority may exercise all or any of the following powers for the purposes of subsection (1):
 
@@ -3880,11 +3986,15 @@ Powers where licensed insurer or insurance intermediary is unable to meet obliga
 
 (b) subject to subsection (3), assume control of and manage such of the business of a licensed insurer as the Authority may determine, or appoint one or more persons as statutory manager to do so on such terms and conditions as the Authority may specify.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (3) In the case of a licensed insurer incorporated outside Singapore, any appointment of a statutory manager or any assumption of control by the Authority of any business of the licensed insurer under subsection (2) shall only be in relation to —
 
 (a) the business and affairs of the licensed insurer carried on, or managed in or from, Singapore; and
 
 (b) the property of the licensed insurer located in Singapore, or reflected in the books of the licensed insurer in Singapore, as the case may be, in relation to its operations in Singapore.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (4) Where the Authority appoints 2 or more persons as the statutory manager of a licensed insurer, it shall specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
 
@@ -3893,6 +4003,8 @@ Powers where licensed insurer or insurance intermediary is unable to meet obliga
 (b) shall be discharged or exercised by such persons jointly; and
 
 (c) shall be discharged or exercised by a specified person or such persons.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (5) Where the Authority has exercised any power under subsection (2), it may, at any time and without prejudice to its power under section 12(2)(l), do one or more of the following:
 
@@ -3918,17 +4030,25 @@ Powers where licensed insurer or insurance intermediary is unable to meet obliga
 
 [Act 11 of 2013 wef 18/04/2013]
 
+[16/2011 wef 01/05/2011]
+
 ### Effect of assumption of control under section 41
 
 41A\.—(1) Upon assuming control of the relevant business of a licensed insurer, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (2) During the period when the Authority or statutory manager is in control of the relevant business of a licensed insurer, the Authority or statutory manager shall manage the relevant business of the licensed insurer in the name of and on behalf of the insurer and shall be deemed to be an agent of the insurer.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (3) In managing the relevant business of a licensed insurer, the Authority or statutory manager —
 
 (a) shall take into consideration the interests of the policy owners of the licensed insurer; and
 
 (b) shall have all the duties, powers and functions of the members of the board of directors of the licensed insurer (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the licensed insurer, including powers of delegation, in relation to the relevant business of the licensed insurer; but nothing in this paragraph shall require the Authority or the statutory manager to call any meeting of the licensed insurer under the Companies Act, the Co-operative Societies Act (Cap. 62) or the constitution of the licensed insurer.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (4) Notwithstanding any written law or rule of law, upon the assumption of control of the relevant business of a licensed insurer by the Authority or statutory manager —
 
@@ -3938,6 +4058,8 @@ Powers where licensed insurer or insurance intermediary is unable to meet obliga
 
 which was in force immediately before the assumption of control, shall be deemed to be revoked unless the Authority gives its approval, by notice in writing to the person and the licensed insurer, for the person to remain in the appointment.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (5) Notwithstanding any written law or rule of law, during the period when the Authority or statutory manager is in control of the relevant business of a licensed insurer, no person shall be appointed —
 
 (a) where the licensed insurer is established or incorporated in Singapore, as a chief executive or director of the licensed insurer; or
@@ -3946,7 +4068,11 @@ which was in force immediately before the assumption of control, shall be deemed
 
 except with the approval of the Authority.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (6) Where the Authority has given its approval under subsection (4) or (5) for a person to remain in the appointment of, or for a person to be appointed as, a chief executive or a director of a licensed insurer, the Authority may at any time, by notice in writing to the person and the licensed insurer, revoke its approval and such appointment shall be deemed to be revoked on the date specified in the notice.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (7) Notwithstanding any written law or rule of law, if any person, whose appointment as a chief executive or director of a licensed insurer is revoked under subsection (4) or (6), acts or purports to act after the revocation —
 
@@ -3960,6 +4086,8 @@ during the period when the Authority or statutory manager is in control of the r
 
 (ii) the person shall be guilty of an offence.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (8) Notwithstanding any written law or rule of law, if any person who is appointed as a chief executive or director of a licensed insurer in contravention of subsection (5) acts or purports to act —
 
 (a) where the licensed insurer is established or incorporated in Singapore, as a chief executive or director of the licensed insurer; or
@@ -3971,6 +4099,8 @@ during the period when the Authority or statutory manager is in control of the r
 (i) the act or purported act of the person shall be invalid and of no effect; and
 
 (ii) the person shall be guilty of an offence.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (9) During the period when the Authority or statutory manager is in control of the relevant business of a licensed insurer —
 
@@ -3984,17 +4114,27 @@ the direction or decision referred to in sub-paragraph (i) shall, to the extent 
 
 (b) no person shall exercise any voting or other right attached to any share in the licensed insurer in any manner that may defeat or interfere with any duty, function or power of the Authority or statutory manager, and any such act or purported act shall be invalid and of no effect.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (10) Any person who is guilty of an offence under subsection (7) or (8) shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (11) In this section, “constitution of the licensed insurer” means the memorandum of association and articles of association of the licensed insurer or other instrument under which the licensed insurer is established or incorporated.
 
 [Act 11 of 2013 wef 18/04/2013]
 
+[Act 16 of 2011 wef 01/05/2011]
+
 ### Duration of control
 
 41B\.—(1) The Authority shall cease to be in control of the relevant business of a licensed insurer when the Authority is satisfied that the reasons for its assumption of control of the relevant business have ceased to exist or that it is no longer necessary for the protection of the policy owners of the licensed insurer.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (2) A statutory manager shall be deemed to have assumed control of the relevant business of a licensed insurer on the date of his appointment as a statutory manager.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (3) The appointment of a statutory manager in relation to the relevant business of a licensed insurer may be revoked by the Authority at any time —
 
@@ -4003,6 +4143,8 @@ the direction or decision referred to in sub-paragraph (i) shall, to the extent 
 (b) on any other ground,
 
 and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the licensed insurer.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (4) The Authority shall publish in theGazettethe date, and such other particulars as it thinks fit, of —
 
@@ -4016,6 +4158,8 @@ and upon such revocation, the statutory manager shall cease to be in control of 
 
 [Act 11 of 2013 wef 18/04/2013]
 
+[16/2011 wef 01/05/2011]
+
 ### Responsibilities of officers, member, etc., of licensed insurer
 
 41C\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of a licensed insurer —
@@ -4023,6 +4167,8 @@ and upon such revocation, the statutory manager shall cease to be in control of 
 (a) the High Court may, on an application of the Authority or statutory manager, direct any person who has ceased to be or who is still a chief executive, director, member, executive officer, employee, agent, banker, auditor or office-holder of, or trustee for, the licensed insurer to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the High Court may specify, any property, book, accounts, record or other documents, whether in electronic, print or other form, of the insurer which is comprised in, forms part of or relates to the relevant business of the insurer, and which is in the person’s possession or control; and
 
 (b) any person who has ceased to be or who is still a chief executive, director, member, executive officer, employee, agent, banker, auditor or office-holder of, or trustee for, the insurer shall give to the Authority or statutory manager such information as the Authority or statutory manager may require for the discharge of its or his duties or functions, or the exercise of its or his powers, in relation to the licensed insurer, within such time and in such manner as may be specified by the Authority or statutory manager.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (2) Any person who —
 
@@ -4033,6 +4179,8 @@ and upon such revocation, the statutory manager shall cease to be in control of 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[16/2011 wef 01/05/2011]
 
 ### Remuneration and expenses of Authority and others in certain cases
 
@@ -4058,11 +4206,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) that no steps shall be taken by any person, other than a person specified in the order, to sell, transfer, assign or otherwise dispose of any property of the licensed insurer.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (2) Any sale, transfer, assignment or other disposition of any property of the licensed insurer in contravention of any order made under subsection (1)(e) shall be void.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (3) Any order made under subsection (1) shall be valid for a period not exceeding 6 months.
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[16/2011 wef 01/05/2011]
 
 ### Interpretation of sections 41 to 41E
 
@@ -4085,6 +4239,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 “statutory manager” means a statutory manager appointed under section 41.
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[16/2011 wef 01/05/2011]
 
 ## PART IIIA
 
@@ -4414,7 +4570,7 @@ Voluntary transfer of business
 
 [Act 11 of 2013 wef 18/04/2013]
 
-(e) a statutory declaration made by the chairman of the board of directors of the transferee, or by its chief executive in Singapore, fully setting forth every payment made or to be made to any person on account of the transfer, and stating that, to the best of his belief, no other payment beyond those so set forth has been, or is to be, made on account thereof by or with the knowledge of any insurer concerned; and in this paragraph, references to the making of a payment include references to the transfer of property or rights of any description.
+(e) a statutory declaration made by the chairman of the board of directors of the transferee, or by its chief executive, fully setting forth every payment made or to be made to any person on account of the transfer, and stating that, to the best of his belief, no other payment beyond those so set forth has been, or is to be, made on account thereof by or with the knowledge of any insurer concerned; and in this paragraph, references to the making of a payment include references to the transfer of property or rights of any description.
 
 [16/2011 wef 01/05/2011]
 
@@ -4752,7 +4908,7 @@ Compulsory transfer of shares
 
 (c) the Authority is satisfied that the transfer is appropriate, having regard to —
 
-(i) the interests of the policy owners of the registered insurer given priority and the order of priority of each class of its policy owners under section 49FR;
+(i) the interests of the policy owners of the licensed insurer given priority and the order of priority of each class of its policy owners under section 49FR;
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -5189,8 +5345,6 @@ the Authority may make a determination that the share capital of the licensed in
 (e) any sale, transfer, assignment or other disposition of any property of the licensed insurer shall be void, except for any payment of claims to policy owners or claimants (other than policy owners who are related corporations of the licensed insurer).
 
 [16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -5698,8 +5852,6 @@ NOMINATION OF BENEFICIARIES
 
 (b) an investment made by a member of the Central Provident Fund under any scheme in accordance with any regulations made under section 77(1)(n) of the Central Provident Fund Act the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Central Provident Fund; or
 
-[3/2009 wef 01/09/2009]
-
 [Act 11 of 2013 wef 18/04/2013]
 
 (c) prescribed by the Authority, or of a type or description prescribed by the Authority.
@@ -5716,23 +5868,13 @@ NOMINATION OF BENEFICIARIES
 
 the nomination shall create a trust of the policy moneys in favour of the nominee or nominees.
 
-[3/2009 wef 01/09/2009]
-
 (3) No nomination under subsection (2) shall be valid unless it provides for the disposition of all policy moneys under the relevant policy.
-
-[3/2009 wef 01/09/2009]
 
 (4) Subject to subsection (5), all policy moneys subject to the trust created under subsection (2) shall not form part of the estate of the policy owner or be subject to his debts.
 
-[3/2009 wef 01/09/2009]
-
 (5) If it is proved that the relevant policy was effected, and the premiums for the relevant policy were paid, with intent to defraud the creditors of the policy owner, the creditors shall be entitled to receive out of the policy moneys a sum equal to the premiums so paid.
 
-[3/2009 wef 01/09/2009]
-
 (6) On the death of any nominee, the nominee’s interest in the policy moneys shall, subject to any encumbrance created over, or any disposition of, the nominee’s interest while the nominee was alive, form part of the nominee’s estate.
-
-[3/2009 wef 01/09/2009]
 
 (7) A policy owner may revoke a nomination under subsection (2) if, and only if, the prior written consent to the revocation has been obtained from —
 
@@ -5754,15 +5896,11 @@ the nomination shall create a trust of the policy moneys in favour of the nomine
 
 (c) such requirements for the revocation as may be prescribed by the Authority are satisfied.
 
-[3/2009 wef 01/09/2009]
-
 (8) Where a nomination under subsection (2) has been revoked in accordance with subsection (7) —
 
 (a) the trust created pursuant to the nomination shall be deemed to be revoked; and
 
 (b) the policy owner may make a new nomination under subsection (2) or section 49M(2).
-
-[3/2009 wef 01/09/2009]
 
 (9) Where a nomination under subsection (2) has been made in respect of a relevant policy, a term or condition of the relevant policy may be varied, and an instruction of the policy owner in relation to the relevant policy (being an instruction which may directly or indirectly alter the benefits payable under the relevant policy) may be executed by the licensed insurer that issued the relevant policy, if, and only if, the prior written consent to the variation of the term or condition or to the execution of the instruction, as the case may be, has been obtained from —
 
@@ -5782,17 +5920,11 @@ the nomination shall create a trust of the policy moneys in favour of the nomine
 
 (ii) a parent or legal guardian, not being the policy owner, of each nominee who is below the age of 18 years.
 
-[3/2009 wef 01/09/2009]
-
 [Act 11 of 2013 wef 18/04/2013]
 
 (10) Any purported revocation of a nomination under subsection (2) in contravention of subsection (7), and any purported variation of any term or condition of a relevant policy in contravention of subsection (9), shall be void.
 
-[3/2009 wef 01/09/2009]
-
 (11) Where a nomination under subsection (2) has been made in respect of a relevant policy, and the licensed insurer that issued the relevant policy executes an instruction of the policy owner in contravention of subsection (9), the licensed insurer shall be liable to each nominee for the loss suffered by the nominee (if any) as a result of the execution of the instruction.
-
-[3/2009 wef 01/09/2009]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -5810,19 +5942,13 @@ the nomination shall create a trust of the policy moneys in favour of the nomine
 
 (ii) the revocation of the appointment of any trustee appointed under paragraph (a) or (b) or pursuant to a provision under sub-paragraph (i).
 
-[3/2009 wef 01/09/2009]
-
 (13) Subject to subsection (14), on or after the death of the policy owner, the High Court may appoint one or more new trustees of the policy moneys if —
 
 (a) there is no trustee of the policy moneys; or
 
 (b) it is expedient to do so.
 
-[3/2009 wef 01/09/2009]
-
 (14) No individual shall be appointed a trustee of policy moneys under subsection (12)(a) or (b) or (13), or pursuant to a provision under subsection (12)(d)(i), unless he has attained the age of 18 years; and any appointment of a trustee of policy moneys in contravention of this subsection shall be void.
-
-[3/2009 wef 01/09/2009]
 
 (15) Where, in respect of a relevant policy issued by a licensed insurer, a trust of the policy moneys has been created pursuant to a nomination under subsection (2), the relevant policy shall vest, in trust for the nominees, in the trustee or trustees of the policy moneys appointed —
 
@@ -5840,23 +5966,15 @@ when the licensed insurer has been given notice of the appointment in such manne
 
 49M\.—(1) This section shall not apply to any relevant policy in respect of which any nomination made by the policy owner under section 49L(2) is not revoked in accordance with section 49L(7).
 
-[3/2009 wef 01/09/2009]
-
 (2) Subject to subsection (3), the policy owner of a relevant policy who has attained the age of 18 years —
 
 (a) may nominate any person as a beneficiary of the whole or any portion of the death benefits under the relevant policy; and
 
 (b) if he does so, shall make the nomination and indicate each nominee’s portion of the death benefits in such manner as may be prescribed by the Authority.
 
-[3/2009 wef 01/09/2009]
-
 (3) No nomination under subsection (2) shall be valid unless it provides for the disposition of all death benefits under the relevant policy.
 
-[3/2009 wef 01/09/2009]
-
 (4) A policy owner may revoke a nomination under subsection (2) at any time in such manner as may be prescribed by the Authority.
-
-[3/2009 wef 01/09/2009]
 
 (5) Where the policy owner of a relevant policy has made a nomination under subsection (2), and any nominee dies before the policy owner —
 
@@ -5872,15 +5990,11 @@ B is the aggregate of all the surviving nominees’ original portions of the dea
 
 C is the deceased nominee’s portion of the death benefits under the policy.
 
-[3/2009 wef 01/09/2009]
-
 (6) For the purposes of subsection (5), where the policy owner and one or more of the nominees die in circumstances rendering it uncertain which of them survived the other or others, then in the absence of any order of the court determining otherwise —
 
 (a) such deaths shall be presumed to have occurred in order of seniority; and
 
 (b) accordingly, the younger shall be deemed to have survived the elder.
-
-[3/2009 wef 01/09/2009]
 
 (7) A nomination made by the policy owner of a relevant policy under subsection (2) shall be deemed to be revoked if —
 
@@ -5894,8 +6008,6 @@ C is the deceased nominee’s portion of the death benefits under the policy.
 
 (c) after the making of the nomination, the policy owner makes another nomination under subsection (2) or a nomination under section 49L(2).
 
-[3/2009 wef 01/09/2009]
-
 (8) Notwithstanding anything in the Wills Act, the Intestate Succession Act (Cap. 146) and any rule of law relating to the distribution of estates, but subject to section 57 of the Probate and Administration Act (Cap. 251), where the policy owner of a relevant policy has made one or more nominations under subsection (2) and one or more wills in accordance with the Wills Act —
 
 (a) if the last nomination is not and is not deemed to be revoked, the death benefits under the relevant policy shall be distributed in accordance with the last nomination;
@@ -5903,8 +6015,6 @@ C is the deceased nominee’s portion of the death benefits under the policy.
 (b) if the last nomination is or is deemed to be revoked, and the last will is not revoked, the death benefits under the relevant policy shall be distributed in accordance with the last will; or
 
 (c) if the last nomination is or is deemed to be revoked, and the last will is revoked, the death benefits under the relevant policy shall be distributed in accordance with the Intestate Succession Act.
-
-[3/2009 wef 01/09/2009]
 
 (9) Notwithstanding anything in the Intestate Succession Act and any rule of law relating to the distribution of estates, but subject to section 57 of the Probate and Administration Act, where the policy owner of a relevant policy who has made one or more nominations under subsection (2) dies intestate —
 
@@ -5922,25 +6032,17 @@ C is the deceased nominee’s portion of the death benefits under the policy.
 
 (b) in respect of whom the licensed insurer has received written notice of the nomination in such manner as may be prescribed by the Authority for the purposes of this subsection.
 
-[3/2009 wef 01/09/2009]
-
 [Act 11 of 2013 wef 18/04/2013]
 
 (2) Where —
 
 (a) any person nominated under section 49L(2) has been registered by a licensed insurer under subsection (1);
 
-[Act 11 of 2013 wef 18/04/2013]
-
 (b) the nomination of that person has been revoked under section 49L(7); and
 
 (c) the licensed insurer has received written notice of the revocation of the nomination in such manner as may be prescribed by the Authority for the purposes of this subsection,
 
-[Act 11 of 2013 wef 18/04/2013]
-
 the licensed insurer shall record the revocation of the nomination under section 49L(7) in its register maintained under subsection (1).
-
-[3/2009 wef 01/09/2009]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -5948,17 +6050,11 @@ the licensed insurer shall record the revocation of the nomination under section
 
 (a) any person nominated under section 49M(2) has been registered by a licensed insurer under subsection (1);
 
-[Act 11 of 2013 wef 18/04/2013]
-
 (b) the nomination of that person has been or is deemed to be revoked; and
 
 (c) the licensed insurer has received written notice of the revocation of the nomination in such manner as may be prescribed by the Authority for the purposes of this subsection,
 
-[Act 11 of 2013 wef 18/04/2013]
-
 the licensed insurer shall record the revocation of the nomination in its register maintained under subsection (1).
-
-[3/2009 wef 01/09/2009]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -5971,8 +6067,6 @@ the licensed insurer shall record the revocation of the nomination in its regist
 (b) has, before that date, revoked every nomination made under section 45(1) of the Co-operative Societies Act in relation to that relevant policy,
 
 nothing in the Co-operative Societies Act shall, on or after that date, apply to that relevant policy or to any share or interest in any policy moneys under that relevant policy.
-
-[3/2009 wef 01/09/2009]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -5991,8 +6085,6 @@ nothing in the Co-operative Societies Act shall apply, on or after the date the 
 ### Regulations for purposes of this Part
 
 49P\.—(1) The Authority may make regulations for the purposes of this Part.
-
-[3/2009 wef 01/09/2009]
 
 (2) Without prejudice to the generality of subsection (1), such regulations may —
 
@@ -6110,15 +6202,23 @@ Division 1 — Administration and enforcement
 
 54A\.—(1) The Authority may provide an electronic service for the service of any document that is required or authorised by this Act to be given to or served on any person.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (2) For the purposes of the electronic service, the Authority may assign to any person —
 
 (a) an authentication code; and
 
 (b) an account with the electronic service.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (3) Notwithstanding section 54, where any person has given his consent for any document to be served on him through the electronic service, the Authority may serve the document on that person by transmitting an electronic record of the document to that person’s account with the electronic service.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (4) Where a person has given his consent for a document to be served on him through the electronic service, the document shall be deemed to have been served at the time when an electronic record of the document enters his account with the electronic service.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (5) Notwithstanding any other written law, in any proceedings under this Act —
 
@@ -6132,6 +6232,8 @@ shall be admissible as evidence of the facts stated or contained therein if that
 
 (ii) is duly authenticated in the manner specified in subsection (7).
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (6) For the avoidance of doubt —
 
 (a) an electronic record of any document that was served through the electronic service; or
@@ -6139,6 +6241,8 @@ shall be admissible as evidence of the facts stated or contained therein if that
 (b) any copy or print-out of that electronic record,
 
 shall not be inadmissible in evidence merely because the document was served without the delivery of any equivalent document or counterpart in paper form.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (7) For the purposes of this section, a certificate —
 
@@ -6154,9 +6258,15 @@ shall not be inadmissible in evidence merely because the document was served wit
 
 shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (8) Where the electronic record of any document, or a copy or print-out of that electronic record, is admissible under subsection (5), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
 
+[Act 11 of 2013 wef 18/04/2013]
+
 (9) The Authority may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing the procedure for the use of the electronic service and the procedure in circumstances where there is a breakdown or interruption of the electronic service.
+
+[Act 11 of 2013 wef 18/04/2013]
 
 (10) In this section, unless the context otherwise requires —
 
@@ -6456,7 +6566,7 @@ the licensed insurer may make a payment from the living benefits, and shall be d
 
 such payment not exceeding that nominee’s portion of the living benefits.
 
-[3/2009 wef 01/03/2009]
+[3/2009 wef 01/09/2009]
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -6662,7 +6772,11 @@ Division 3 — Supplementary
 
 63A\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the First or Second Schedule.
 
+[23/2003 wef 01/01/2004]
+
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
+
+[23/2003 wef 01/01/2004]
 
 (3) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -6699,6 +6813,8 @@ Division 3 — Supplementary
 (ii) in any other case, for penalties not exceeding a fine of $100,000 for each offence and, in the case of a continuing offence, for a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[23/2003 wef 01/01/2004]
 
 (2) The Authority may issue such directions as it may consider necessary for carrying into effect the objects of this Act, and may at any time vary, rescind or revoke any such directions.
 
@@ -6750,19 +6866,27 @@ General
 
 2.—(1) Subject to this paragraph and section 16(3) and (4) of the Act, “Singapore policy”, in relation to any insurer, means a policy issued in the course of the insurer’s business in Singapore and falling within one of the following descriptions:
 
-(a) in relation to a life policy or accident and health policy —
+(a) in relation to a life policy or accident and health policy (not being a reinsurance policy) —
 
-(i) where the policy owner is an individual, the policy owner or insured is ordinarily resident in Singapore at the date of the proposal in respect of the policy (proposal date);
+(i) where the policy owner is an individual, the policy owner or insured is ordinarily resident in Singapore at the date of the proposal in respect of the policy (referred to in this paragraph as the proposal date);
 
-(ii) where the policy owner is not an individual, the policy owner’s address is or was an address in Singapore at the date of issue of the policy and at the date of the establishment of the insurer’s register of Singapore policies (if the policy was issued before then);
+(ii) where the policy owner is not an individual —
 
-(b) in relation to direct general insurance (other than short-term accident and health policies) and facultative general reinsurance, a policy where the risk arises in Singapore or —
+(A) the policy owner’s address is or was an address in Singapore at the date of the issue of the policy and at the date of the establishment of the insurer’s register of Singapore policies (if the policy was issued before then); or
+
+(B) the policy covers an insured who is ordinarily resident in Singapore at the proposal date;
+
+(b) in relation to direct general insurance (other than short-term accident and health policies), a policy where the risk arises in Singapore or —
 
 (i) where the insured is an individual, the insured is ordinarily resident in Singapore; or
 
-(ii) where the insured is not an individual, the insured is a person resident in Singapore or has a permanent establishment in Singapore; and
+(ii) where the insured is not an individual, the insured is a person resident in Singapore or has a permanent establishment in Singapore;
 
-(c) in relation to treaty general reinsurance, a policy where more than 25% of the total risks in terms of gross premiums arises in Singapore.
+(c) in relation to treaty general reinsurance (other than short-term accident and health policies), a policy where more than 25% of the total risks in terms of gross premiums arise in Singapore; and
+
+(d) in relation to treaty life reinsurance or treaty accident and health reinsurance, a policy where more than 25% of the policies under which the risk or risks reinsured ultimately arises or arise in terms of gross premiums are policies referred to in sub-paragraph (a).
+
+[Act 11 of 2013 wef 01/01/2014]
 
 (2) Notwithstanding sub-paragraph (1)(b), a policy where —
 
@@ -6798,11 +6922,17 @@ shall not be regarded as a Singapore policy if it is in respect of cargo transpo
 
 [S 184/2010 wef 01/01/2011]
 
-(5) Sub-paragraph (1)(a) shall apply to a policy of reinsurance —
+(5) Sub-paragraph (1)(a) shall apply to a life or accident and health policy of facultative reinsurance —
 
 (a) where the owner of the policy under which the liability reinsured ultimately arises is an individual, as if the references to the proposal date and to whether the policy owner or insured is ordinarily resident in Singapore are references to those of the policy under which the liability reinsured ultimately arises; and
 
-(b) in any other case, as if the references to the date of issue of the policy and to the policy owner’s address are references to those of the policy under which the liability reinsured ultimately arises.
+(b) where the owner of the policy under which the liability reinsured ultimately arises is not an individual, as if the references to the date of issue and proposal date of the policy, to the policy owner’s address and to whether the insured is ordinarily resident in Singapore are references to those of the policy under which the liability reinsured ultimately arises.
+
+[Act 11 of 2013 wef 01/01/2014]
+
+(6) Sub-paragraph (1)(b) shall apply to a policy of facultative general reinsurance as if the references to the insured are references to the person or persons insured by the policy under which the liability reinsured ultimately arises.
+
+[Act 11 of 2013 wef 01/01/2014]
 
 2A. “Child” means a legitimate child, an illegitimate child, a stepchild or a child adopted in accordance with any written law relating to the adopting of children.
 
@@ -6914,11 +7044,9 @@ Definitions related to life business
 
 [S 184/2010 wef 30/03/2010]
 
-Definitions related to general business
+7. [Deleted by Act 11 of 2013 wef 18/04/2013]
 
-7. [Deleted by Act 11 of 2013 wef 18/04/2013 wef 18/04/2013 wef 18/04/2013 wef 18/04/2013 wef 18/04/2013 wef 18/04/2013]
-
-8\. [Deleted by Act 11 of 2013 wef 18/04/2013]
+8. [Deleted by Act 23 of 2003 wef 01/01/2004]
 
 SECOND SCHEDULE
 
@@ -6926,13 +7054,19 @@ Section 50(1A)
 
 Specified Provisions
 
-(1) [Deleted by Act 11 of 2013 wef 18/04/2013]
+1. [Deleted by Act 11 of 2013 wef 18/04/2013]
 
-(2) Section 35ZA(3)
+2. 
 
-(3) Section 52(2).
+Section 35ZA(3)
+
+3. 
+
+Section 52(2).
 
 [23/2003 wef 01/01/2004]
+
+[Act 11 of 2013 wef 18/04/2013]
 
 ## LEGISLATIVE HISTORY
 
@@ -6947,7 +7081,7 @@ This Legislative History is provided for the convenience of users of the Insuran
 |1.|**Act 46 of 1966—Insurance Act 1966**|
 ||Date of First Reading|26 October 1966|
 |||(Bill No. 40/66 published on 8 November 1966)|
-||Date of Second and Third Readings|5 Demceber 1966|
+||Date of Second and Third Readings|5 December 1966|
 ||Date of commencement|1 January 1967|
 |2.|**Act 37 of 1967—Insurance (Amendment) Act 1967**|
 ||Date of First Reading|14 November 1967|
@@ -6993,7 +7127,7 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of commencement|15 August 1995|
 |12.|**Act 25 of 1999—Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999**|
 ||(Consequential amendments made by)||
-||Date of First Reading|4 May 99|
+||Date of First Reading|4 May 1999|
 |||(Bill No. 16/99 published on 5 May 1999)|
 ||Date of Second and Third Readings|6 July 1999|
 ||Date of commencement|13 September 1999|
@@ -7076,6 +7210,11 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|32.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|1 January 2014|
 ## COMPARATIVE TABLE
 
 Insurance Act
