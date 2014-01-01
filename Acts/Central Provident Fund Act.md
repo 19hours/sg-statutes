@@ -180,6 +180,8 @@
 
 - [42 Persons insured under Scheme](#Persons-insured-under-Scheme)
 
+- [42A Application to persons below 21 years of age](#Application-to-persons-below-21-years-of-age)
+
 - [43 Board may cancel insurance cover](#Board-may-cancel-insurance-cover)
 
 - [44 Board may require insured person to furnish information](#Board-may-require-insured-person-to-furnish-information)
@@ -211,6 +213,8 @@
 - [52 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [53 Establishment of MediShield Scheme](#Establishment-of-MediShield-Scheme)
+
+- [53A Application to persons below 21 years of age](#Application-to-persons-below-21-years-of-age)
 
 - [54 Premium](#Premium)
 
@@ -686,7 +690,9 @@ PRELIMINARY
 
 [15/2006]
 
-(2) The Commissioner for Labour and any Deputy Commissioner for Labour, Assistant Commissioner for Labour or inspecting officer appointed under the Employment Act (Cap. 91) may exercise all or any of the powers of an inspector.
+(2) The Commissioner for Labour and any Deputy Commissioner for Labour, Principal Assistant Commissioner for Labour, Assistant Commissioner for Labour or inspecting officer appointed under the Employment Act (Cap. 91) may exercise all or any of the powers of an inspector.
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (3) In the course of an inspection, an inspector may at any reasonable time —
 
@@ -694,23 +700,49 @@ PRELIMINARY
 
 (b) examine, either alone or in the presence of any other person with respect to any matter under this Act or which he may reasonably require information, any person whom he has reasonable cause to believe to be or to have been an employee or an employer, and require every such person to be examined and for the purposes of the examination may summon any such person to attend at the place and time specified in the summons;
 
-(c) put questions concerning employees to their employers or to any person who may be in charge of them, or to the employees themselves, or to any other person whom he may consider it desirable to question, and the employers or employees or other person shall be legally bound to answer the questions truthfully to the best of his ability;
+(c) put questions concerning employees or their employment to their employers or to any person who may be in charge of them, or to the employees themselves, or to any other person whom he may consider it desirable to question, and the employers or employees or person shall be legally bound to answer the questions truthfully to the best of his ability;
 
-(d) require any employer to produce before him all or any of the employees employed by him together with any contract of service, book of account of salary, register and other document concerning the employees or their employment and to answer such questions relating thereto as he may think proper to ask;
+[Act 24 of 2013 wef 01/01/2014]
+
+(d) require any employer to produce before him all or any of the employees employed by him together with any contract of service, book of account of wages, register and other document concerning the employees or their employment and to answer such questions relating thereto as he may think proper to ask;
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (e) require any employer to produce for his inspection the audited statements of accounts of his undertaking and other records relating to the accounts and to answer such questions relating thereto as he may think proper to ask; and
 
-(f) make copies of any book, document or paper required to be produced under paragraph (d) or (e) and take possession of the book, document or paper when in his opinion —
+(f) require —
 
-(i) the copying thereof cannot reasonably be performed without taking possession;
+(i) any document or record containing information concerning employees or their employment to be furnished by their employers, by any person who may be in charge of the employees, by the employees themselves or by any other person from whom the inspector may consider it desirable to require such document or record to be furnished; and
 
-(ii) the book, document or paper may be tampered with unless possession is taken; or
+(ii) the employers, employees or person referred to in sub-paragraph (i) to answer such questions as the inspector may think proper to ask relating to such document or record.
 
-(iii) the book, document or paper may be required as evidence in any proceedings for an offence under this Act or in any proceedings for the recovery of any moneys due to the Fund.
+[Act 24 of 2013 wef 01/01/2014]
 
-(4) Subsection (3) shall apply, with the necessary modifications, to a person who is required by any regulations made under section 77(1)(e) to contribute to the Fund as it applies to an employer; and a reference to salary in that subsection shall be construed as a reference to income of that person.
+(3A) In addition to the powers conferred on him by subsection (3), an inspector who has reasonable cause to believe that an offence under section 7(3) or (5) or 58(b) has been committed by an employer, or that an offence under section 60 has thereby been committed by any director, manager, secretary or other officer of the employer, may by notice in writing require any person to furnish, within a reasonable period specified in the notice —
+
+(a) any information within the knowledge of that person; or
+
+(b) any document or record in the possession, custody or control of that person,
+
+which the inspector considers to be relevant to the investigation of that offence.
+
+[Act 24 of 2013 wef 01/01/2014]
+
+(3B) An inspector may inspect, make a copy of or take extracts from any book, register, document or record produced or furnished under subsection (3)(d), (e) or (f) or (3A), and take possession of the book, register, document or record, when in his opinion —
+
+(a) the copying thereof cannot reasonably be performed unless possession is taken;
+
+(b) the book, register, document or record may be tampered with unless possession is taken; or
+
+(c) the book, register, document or record may be required as evidence in any proceedings for an offence under this Act or in any proceedings for the recovery of any moneys due to the Fund.
+
+[Act 24 of 2013 wef 01/01/2014]
+
+(4) Subsections (3), (3A) and (3B) shall apply, with the necessary modifications, to a person who is required by any regulations made under section 77(1)(e) to contribute to the Fund as it applies to an employer; and a reference to wages in subsection (3) shall be construed as a reference to income of that person.
 
 [27/92]
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (5) If any person —
 
@@ -718,7 +750,9 @@ PRELIMINARY
 
 (b) fails to comply with the requisition of an inspector or any such officer in pursuance of this section or to produce any record, certificate, notice or document which he is required by or in pursuance of this section to produce;
 
-(c) wilfully withholds any information as to who are the employees of any employer or as to who is the employer of any employee; or
+(c) wilfully withholds any information as to who are the employees of any employer, or as to the employment or employer of any employee, which that person is required by this section to furnish to an inspector or such officer; or
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (d) conceals or prevents or attempts to conceal or prevent a person from appearing before or being examined by an inspector or such officer,
 
@@ -1286,21 +1320,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [20/2011; 23/2012]
 
-(2B) The amount referred to in subsection (2A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+(2B) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (2A)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
-[15/2006]
+[Act 24 of 2013 wef 01/01/2014]
 
 (3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
 
 [5/87; 36/2002]
 
-(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may allow a member who has attained the age of 55 years —
+(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may —
 
-(a) to withdraw, at any time, the sum standing to his credit in the Fund, if the member satisfies the Board that he has been unemployed throughout the period of 6 months immediately preceding the date on which he makes an application for the withdrawal of any sum of money standing to his credit in the Fund; and
+(a) where a member has withdrawn any money from the Fund on the ground that he has attained the age of 55 years, allow him to withdraw, at any time, the sum standing to his credit in the Fund if he satisfies such conditions as the Board may impose in any particular case; and
 
-(b) to withdraw, within such time as the Board may permit, the whole or any part of the amount of any money that is paid, repaid or refunded into his account in the Fund pursuant to a charge under subsection (9), (9A), (11D) or (11E) or section 21(1), 21A(1), 21B(1), 27C(1)(v)(A) or (B), 27D(1)(v)(B), 27DA(1)(v), 27E(1)(iv) or 27F(1)(iv), or pursuant to an undertaking given under subsection (10) or (10A).
+(b) where a member has attained the age of 55 years, allow him to withdraw, within such time as the Board may permit, the whole or any part of the amount of any money that is paid, repaid or refunded into his account in the Fund pursuant to a charge under subsection (9), (9A), (11D) or (11E) or section 21(1), 21A(1), 21B(1), 27C(1)(v)(A) or (B), 27D(1)(v)(B), 27DA(1)(v), 27E(1)(iv) or 27F(1)(iv), or pursuant to an undertaking given under subsection (10) or (10A) or section 27D(1)(v)(A).
 
-[23/2012]
+[Act 24 of 2013 wef 01/01/2014]
 
 (5) Subject to section 25(3), after the death of a member of the Fund, a person who is nominated by the deceased member, by a memorandum executed in accordance with section 25(1), shall be entitled to withdraw, in the manner provided for in the memorandum, from the balance standing to the credit of the deceased member in the Fund, such portion of the amount payable on the deceased member’s death out of the Fund as the person has been nominated to receive under the memorandum.
 
@@ -1352,7 +1386,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (b) any remaining amount may be —
 
-(i) deposited with an approved bank or retained in the member’s retirement account;
+(i) deposited before 1st January 2014 with an approved bank or retained in the member’s retirement account;
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (ii) used to purchase an approved annuity from an insurer; or
 
@@ -1394,9 +1430,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (d) is suffering from a terminal illness or disease; or
 
-(e) is receiving any pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
+(e) is receiving or will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
 
 [22/2010]
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (7B) Where a member of the Fund is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer, at the time of the withdrawal or surrender, as the case may be, and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
 
@@ -1414,9 +1452,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [20/2011; 23/2012]
 
-(7C) The amount referred to in subsection (7B)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+(7C) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (7B)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
-[15/2006]
+[Act 24 of 2013 wef 01/01/2014]
 
 (8) A member need not comply with subsection (6)(a) if the Board is satisfied that the member —
 
@@ -1432,7 +1470,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (d) is suffering from a terminal illness or disease;
 
-(e) on his retirement will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister; or
+(e) is receiving or will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister; or
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (f) has attained the age of 55 years before 1st January 1987.
 
@@ -1454,9 +1494,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [20/2011; 23/2012]
 
-(8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+(8B) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (8A)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
-[15/2006]
+[Act 24 of 2013 wef 01/01/2014]
 
 (8C) Notwithstanding subsections (2A), (6), (7B) and (8A) and section 27, where any amount which a relevant member is entitled to withdraw from his retirement account under subsection (7), or which is due to a relevant member under section 27K(6), has been transferred or paid by the Board into his ordinary account, the Board may, on his application, permit him to withdraw that amount.
 
@@ -1516,13 +1556,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [23/2012]
 
-(11A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
+(11A) Where a member and one or more persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
 
 (a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 (b) to surrender his approved annuity.
 
 [23/2012]
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (11B) Where a member owns any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
 
@@ -1562,15 +1604,11 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [23/2012]
 
-(12) No moneys deposited in an account with an approved bank or retained in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with any amount standing to the credit of the member in his retirement account shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any right of set-off by the approved bank for any debt owing by the member to the approved bank.
+(12) [Deleted by Act 24 of 2013 wef 01/01/2014]
 
-[36/2002; 23/2012]
+(13) [Deleted by Act 24 of 2013 wef 01/01/2014]
 
-(13) Such moneys, withdrawals and payments mentioned in subsection (12) shall not pass to the Official Assignee on the bankruptcy of the member.
-
-(14) If the member is adjudicated a bankrupt by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
-
-[5/87; 10/94; 22/2010]
+(14) [Deleted by Act 24 of 2013 wef 01/01/2014]
 
 (15) The following provisions shall apply to a charge created over any immovable property under subsection (9) or (9A):
 
@@ -1630,13 +1668,19 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Setting aside additional sum
 
-15B\.—(1) A member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum required to be set aside under section 15(6)(a), set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
+15B\.—(1) Before 1st January 2014, a member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum required to be set aside under section 15(6)(a), set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
 
 [39/2000; 20/2011]
 
-(2) The additional sum set aside under subsection (1) may be deposited with an approved bank or used to purchase an approved annuity from an insurer.
+[Act 24 of 2013 wef 01/01/2014]
 
-[39/2000]
+(2) The additional sum set aside under subsection (1) may, before 1st January 2014 —
+
+(a) be deposited with an approved bank; or
+
+(b) be used to purchase an approved annuity from an insurer.
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (3) Section 25 shall not apply to the additional sum set aside under subsection (1).
 
@@ -2368,23 +2412,27 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 [30/89]
 
-(3) Where a member wishes to make any withdrawals for himself, his child or relative for the purpose of subsection (1), that member, child or relative shall —
+(3) Where any member wishes to make any withdrawal under subsection (1) for himself, his child or his relative, that member, child or relative shall —
 
 (a) give an undertaking to the Board; and
 
 (b) if required by the Board, furnish a guarantee by any person acceptable to the Board,
 
-for the repayment to the Board to the account of that member in the Fund from whose account such withdrawals were made, all sums withdrawn, together with the whole or such part, as the Board may determine, of the interest that would have been payable thereon, in such manner and within such time as may be prescribed.
+for —
 
-[30/89; 57/2007]
+(i) the repayment to that member’s account in the Fund (in such manner and within such time as the Minister may prescribe) of all sums withdrawn under that subsection, together with the whole or such part, as the Board may determine, of the interest that would have been payable thereon; and
+
+(ii) the payment into the Fund of the whole or such part, as the Board may determine, of any reasonable expenses incurred by the Board in recovering any sum or interest referred to in paragraph (i).
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (4) An undertaking given to the Board by any person under subsection (3) shall be enforceable notwithstanding that the person was a minor at the time the undertaking was given.
 
 [30/89]
 
-(5) Notwithstanding anything in this Act, any sum not returned to the Board to the account of the member in the Fund under subsection (3) may be sued for and recovered by the Board under section 65.
+(5) Notwithstanding anything in this Act, any amount repayable to a member’s account in the Fund, or payable to the Fund, pursuant to an undertaking given, or a guarantee furnished, under subsection (3) that is not repaid or paid (as the case may be) may be sued for and recovered by the Board under section 65.
 
-[30/89; 25/2008]
+[Act 24 of 2013 wef 01/01/2014]
 
 (5A) The Board may refuse to permit a withdrawal under subsection (1) for a payment to an approved educational institution, if the approved educational institution fails to —
 
@@ -2438,23 +2486,43 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 ### Protection of benefits
 
-24\.—(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27DA, 27E, 27F, 27G, 27H and 57C and any regulations made under section 57F or 77(1) —
+24\.—(1) Subsection (2) shall apply to all of the following things:
 
-(a) no withdrawals made from the Fund under this Act and no rights of any member of the Fund acquired thereunder; and
+(a) any contributions to the Fund, interest thereon and other moneys standing to the credit of a member in the Fund;
 
-(b) no moneys repayable to the Fund by any member of the Fund which are secured by —
+(b) any withdrawals made from the Fund under this Act, and any rights of any member acquired thereunder;
 
-(i) a charge on his estate or interest in an immovable property under section 21(1) or 21A(1); or
+(c) any moneys repayable to the Fund by any member which are secured by —
 
-(ii) a charge constituted on an HDB flat under section 21B(1),
+(i) a charge on the member’s estate or interest in an immovable property under section 21(1), 21A(1), 27C(1)(v)(A) or 27E(1)(iv);
 
-shall be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+(ii) a charge constituted on an HDB flat under section 21B(1) or 27F(1)(iv);
 
-[15/2006; 40/2007; 57/2007; 23/2012]
+(iii) a charge created or constituted on an immovable property under section 15(9), (9A), (11D) or (11E), 27C(1)(v)(B), 27D(1)(v)(B) or 27DA(1)(v);
 
-(2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+(d) any moneys repayable to the Fund pursuant to an undertaking given under section 15(10) or (10A) or 27D(1)(v)(A);
 
-[25/2008]
+(e) any moneys deposited by a member with an approved bank under section 15(6C)(b) or 15B(2) and any interest thereon, and any withdrawals from the moneys and interest;
+
+(f) any payments from an approved annuity referred to in section 15(6C)(b) or 15B(2);
+
+(g) every investment made by a member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund.
+
+[Act 24 of 2013 wef 01/01/2014]
+
+(2) Notwithstanding any written or other law but subject to sections 14, 14A, 27B, 27C, 27D, 27DA, 27E, 27F, 27G, 27H, 27N and 57C and any regulations made under section 27Q, 57F or 77(1), the things set out in subsection (1)(a) to (g) —
+
+(a) shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim;
+
+(b) shall not be subject to any set-off of any nature for any debt owing by the member; and
+
+(c) if the member is adjudicated a bankrupt by a court —
+
+(i) shall not pass to the Official Assignee on the bankruptcy of the member; and
+
+(ii) shall be deemed not to form part of the property of the member.
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (2A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and section 49L of the Insurance Act (Cap. 142) shall not apply to —
 
@@ -2464,13 +2532,7 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 [3/2009]
 
-(3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund —
-
-(a) shall not pass to the Official Assignee on the bankruptcy of the member; and
-
-(b) shall be deemed not to form part of the property of the member.
-
-[25/2008]
+(3) [Deleted by Act 24 of 2013 wef 01/01/2014]
 
 (3A) Subject to subsection (3B), sections 16A, 25(2A), 27N and 57C and any regulations made under section 27Q or 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
@@ -2486,13 +2548,9 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [40/2007]
 
-(4) Subject to sections 27N and 57C and any regulations made under section 27Q or 57F, no contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
+(4) [Deleted by Act 24 of 2013 wef 01/01/2014]
 
-[57/2007; 18/2009]
-
-(5) If the member is adjudicated a bankrupt by a court, the contribution and interest shall be deemed not to form part of the property of the member.
-
-[22/2010]
+(5) [Deleted by Act 24 of 2013 wef 01/01/2014]
 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
@@ -3038,13 +3096,25 @@ if to the best of the Board’s knowledge the deceased nominated person does not
 
 (2) The Board may, in its discretion but only after the Board is satisfied that all repayments of any loan given to the member by the Government under an approved loan scheme within the meaning of section 14A, together with all interest and other charges which the member is liable to pay to the Government under the terms and conditions of that loan, have been paid, allow a member who is an undischarged bankrupt to withdraw from the amount standing to his credit in the Fund if —
 
-(a) he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d), (e), (f) or (g); and
+(a) he satisfies any of the grounds for withdrawals specified in section 15(2); and
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (b) he satisfies such conditions as may be specified by the Minister from time to time.
 
 [31/2003; 15/2006]
 
-(2A) Any moneys paid out of the Fund to that member shall be deemed not to form part of his after-acquired property and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
+(2A) Any moneys paid out of the Fund to that member —
+
+(a) shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim;
+
+(b) shall not be subject to any set-off or any nature for any debt owing by that member;
+
+(c) shall not pass to the Official Assignee; and
+
+(d) shall be deemed not to form part of the property of that member.
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (3) Where withdrawals are made by a member who is an undischarged bankrupt under subsection (2), the Board may impose such condition (including condition as to the amounts that may be withdrawn by the undischarged bankrupt) as it may think fit.
 
@@ -4230,6 +4300,32 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [24/2005]
 
+### Application to persons below 21 years of age
+
+42A\.—(1) On or after the date of commencement of section 14 of the Central Provident Fund (Amendment) Act 2013 —
+
+(a) where any person has attained the age of 16 years (or such other age as the Minister may prescribe in place thereof) but is below the age of 21 years, he may do any thing under this Part, or any regulations made under section 51, as if he were of full age; and
+
+(b) the provisions of this Part and any regulations made under section 51 shall apply to any person who has attained the age of 16 years (or such other age as the Minister may prescribe in place thereof) but is below the age of 21 years, as if he were of full age.
+
+(2) Where, before the date of commencement of section 14 of the Central Provident Fund (Amendment) Act 2013, a person below the age of 21 years did any thing under this Part, or any regulations made under section 51, which would have been validly done if he were of full age, that thing shall be deemed to be and always to have been validly done by him.
+
+(3) Section 42(4) and (5) shall not apply to any member of the Fund unless he has attained the age of 16 years (or such other age as the Minister may prescribe in place thereof).
+
+(4) This section shall apply subject to any contrary age requirement expressly provided under this Act in respect of —
+
+(a) any thing done under this Part, or any regulations made under section 51; or
+
+(b) any provision of this Part or of any regulations made under section 51.
+
+(5) Section 58 of the Insurance Act (Cap. 142) shall not apply to —
+
+(a) any thing done under this Part, or any regulations made under section 51; or
+
+(b) the application of any provision of this Part and of any regulations made under section 51.
+
+[Act 24 of 2013 wef 01/01/2014]
+
 ### Board may cancel insurance cover
 
 43\.—(1) If the Board has reason to believe that an insured person is incapacitated or suffering from terminal illness on or before the date of commencement of his insurance cover under the Scheme, the Board may cancel the cover of that person under the Scheme and upon such cancellation that person shall cease immediately to be insured under the Scheme.
@@ -4471,6 +4567,32 @@ MEDISHIELD SCHEME
 53\. The Board may establish and maintain a medical insurance scheme to be known as the MediShield Scheme for the purpose of paying the full or part of the costs incurred by an insured person for the medical treatment or services received by him in an approved hospital at any time during the period he is insured under the Scheme.
 
 [15/90; 57/2007]
+
+### Application to persons below 21 years of age
+
+53A\.—(1) Subject to subsection (2), on or after the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2013 —
+
+(a) a person below the age of 21 years may do any thing under this Part, or any regulations made under section 57, as if he were of full age; and
+
+(b) the provisions of this Part and any regulations made under section 57 shall apply to a person below the age of 21 years, as if he were of full age.
+
+(2) Any thing done under this Part or any regulations made under section 57, on or after the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2013, by a person below the age of 16 years (or such other age as the Minister may prescribe in place thereof) shall be done with the consent of his parent or guardian.
+
+(3) Where, before the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2013, a person below the age of 21 years did any thing under this Part, or any regulations made under section 57, which would have been validly done if he were of full age, that thing shall be deemed to be and always to have been validly done by him.
+
+(4) This section shall apply subject to any contrary age requirement expressly provided under this Act in respect of —
+
+(a) any thing done under this Part, or any regulations made under section 57; or
+
+(b) any provision of this Part or of any regulations made under section 57.
+
+(5) Section 58 of the Insurance Act (Cap. 142) shall not apply to —
+
+(a) any thing done under this Part, or any regulations made under section 57; or
+
+(b) the application of any provision of this Part and of any regulations made under section 57.
+
+[Act 24 of 2013 wef 01/01/2014]
 
 ### Premium
 
@@ -4756,7 +4878,9 @@ shall be prima facie evidence that the amount so stated was received by the memb
 
 (2) Without prejudice to the generality of subsection (1), such regulations may provide for —
 
-(a) the criteria to be satisfied by an eligible member and the waiver of any such criteria by the Board;
+(a) the criteria to be satisfied by an eligible member and the waiver of the whole or any part of any such criteria, by the Board or such other person as may be prescribed in those regulations;
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (b) the terms and conditions of the Scheme;
 
@@ -4866,7 +4990,27 @@ he shall be guilty of an offence.
 
 ### General penalties
 
-61\. Any person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+61\.—(1) Except as otherwise provided in subsection (2), any person convicted of an offence under this Act for which no penalty is provided shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) if that person is a repeat offender in relation to the same offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) Where any person —
+
+(a) is guilty of an offence under section 7(5) or 58(b); or
+
+(b) being a director, manager or secretary or any other officer of a body corporate, is guilty of an offence under section 60 by virtue of the fact that an offence under section 7(3) or (5) or 58(b) has been committed by that body corporate and is found to have been committed with the consent or connivance of or to be attributable to any act or default on the part of that person,
+
+that person shall be liable on conviction —
+
+(i) to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(ii) if that person is a repeat offender in relation to the same offence, to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) For the purposes of subsections (1) and (2), a person is a repeat offender in relation to an offence (referred to in this subsection as the current offence) if the person has been convicted of the same offence on at least one other occasion (whether before, on or after the date of commencement of section 18 of the Central Provident Fund (Amendment) Act 2013) before the person is convicted of the current offence.
+
+[Act 24 of 2013 wef 01/01/2014]
 
 ### Jurisdiction of court
 
@@ -4962,9 +5106,11 @@ the court before which the conviction is had may, in addition to the fine prescr
 
 ### Composition of offences
 
-63\.—(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+63\.—(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
 [32/86; 27/92; 30/98]
+
+[Act 24 of 2013 wef 01/01/2014]
 
 (2) The Board may make rules to prescribe the offences which may be compounded.
 
@@ -5538,17 +5684,15 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 1A to 7, with effect from 1st September 2012, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1st January 2014, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
-Above 35 but not more than
-50 years of age
+Above 35 but not more than 50 years of age
 
-Above 50 but not more than
-55 years of age
+Above 50 but not more than 55 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -5584,11 +5728,11 @@ An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 0.1063 of the difference between the Total Wages and $50.
+An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 0.093 of the difference between the Total Wages and $50.
+An amount equal to 14% of the Total Wages.
 
 NIL
 
@@ -5600,37 +5744,7 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-(b)
-
-0.48 of the difference between the Total Wages and $500.
-
-An amount equal to 0.48 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.1063 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.48 of the difference between the Total Wages and $500.
-
-An amount equal to 0.48 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.093 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.444 of the difference between the Total Wages and $500.
-
-An amount equal to 0.444 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
+An amount equal to 0.6 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -5638,75 +5752,29 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-(b)
-
-$120 and 0.24 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $120 and 0.24 of the difference between the Total Wages and $750.
+An amount equal to 0.6 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-$74.475 and 0.2171 of the difference between the Total Wages and $750; and
+14% of the Total Wages; and
+
+An amount equal to 0.555 of the difference between the Total Wages and $500.
 
 (b)
 
-$120 and 0.24 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $120 and 0.24 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$65.10 and 0.1756 of the difference between the Total Wages and $750; and
+0.6 of the difference between the Total Wages and $500.
 
 (b)
 
-$111 and 0.222 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $111 and 0.222 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-16% of the Total Wages; and
+0.6 of the difference between the Total Wages and $500.
 
 (b)
 
-$120 and 0.24 of the difference between the Total Wages and $750.
+0.555 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $120 and 0.24 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$172.20 and 0.226 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$120 and 0.24 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $120 and 0.24 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$144.12 and 0.2196 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$111 and 0.222 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $111 and 0.222 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -5714,19 +5782,11 @@ An amount equal to the sum of —
 
 36% of the employee’s ordinary wages for the month subject to a maximum of $1,800; and
 
-(b)
-
-36% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 20% of the employee’s ordinary wages for the month subject to a maximum of $1,000; and
-
-(b)
-
-20% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -5734,29 +5794,17 @@ An amount equal to the sum of —
 
 36% of the employee’s ordinary wages for the month subject to a maximum of $1,800; and
 
-(b)
-
-36% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 20% of the employee’s ordinary wages for the month subject to a maximum of $1,000; and
-
-(b)
-
-20% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
 (a)
 
 32.5% of the employee’s ordinary wages for the month subject to a maximum of $1,625; and
-
-(b)
-
-32.5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -5766,15 +5814,33 @@ An amount equal to the sum of —
 
 (b)
 
+36% of the Relevant Additional Wages.
+
+(b)
+
+20% of the Relevant Additional Wages.
+
+(b)
+
+36% of the Relevant Additional Wages.
+
+(b)
+
+20% of the Relevant Additional Wages.
+
+(b)
+
+32.5% of the Relevant Additional Wages.
+
+(b)
+
 18.5% of the Relevant Additional Wages.
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than
-60 years of age
+Above 55 but not more than 60 years of age
 
-Above 60 but not more than
-65 years of age
+Above 60 but not more than 65 years of age
 
 Above 65 years of age
 
@@ -5808,15 +5874,15 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0697 of the difference between the Total Wages and $50.
+An amount equal to 10.5% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0465 of the difference between the Total Wages and $50.
+An amount equal to 7% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0431 of the difference between the Total Wages and $50.
+An amount equal to 6.5% of the Total Wages.
 
 NIL
 
@@ -5826,115 +5892,39 @@ An amount equal to the sum of —
 
 (a)
 
-0.0697 of the difference between the Total Wages and $50; and
+10.5% of the Total Wages; and
 
-(b)
-
-0.312 of the difference between the Total Wages and $500.
-
-An amount equal to 0.312 of the difference between the Total Wages and $500.
+An amount equal to 0.39 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0465 of the difference between the Total Wages and $50; and
+7% of the Total Wages; and
 
-(b)
-
-0.18 of the difference between the Total Wages and $500.
-
-An amount equal to 0.18 of the difference between the Total Wages and $500.
+An amount equal to 0.225 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0431 of the difference between the Total Wages and $50; and
+6.5% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-(a)
-
-$48.825 and 0.1155 of the difference between the Total Wages and $750; and
+0.39 of the difference between the Total Wages and $500.
 
 (b)
 
-$78 and 0.156 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $78 and 0.156 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$32.55 and 0.0583 of the difference between the Total Wages and $750; and
+0.225 of the difference between the Total Wages and $500.
 
 (b)
 
-$45 and 0.09 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$30.225 and 0.0541 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-$100.80 and 0.189 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$78 and 0.156 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $78 and 0.156 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$58.80 and 0.154 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$54.60 and 0.143 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -5942,19 +5932,11 @@ An amount equal to the sum of —
 
 23.5% of the employee’s ordinary wages for the month subject to a maximum of $1,175; and
 
-(b)
-
-23.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 13% of the employee’s ordinary wages for the month subject to a maximum of $650; and
-
-(b)
-
-13% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -5962,29 +5944,17 @@ An amount equal to the sum of —
 
 14.5% of the employee’s ordinary wages for the month subject to a maximum of $725; and
 
-(b)
-
-14.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
 
-(b)
-
-7.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
-
-(b)
-
-11.5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -5994,19 +5964,39 @@ An amount equal to the sum of —
 
 (b)
 
+23.5% of the Relevant Additional Wages.
+
+(b)
+
+13% of the Relevant Additional Wages.
+
+(b)
+
+14.5% of the Relevant Additional Wages.
+
+(b)
+
+7.5% of the Relevant Additional Wages.
+
+(b)
+
+11.5% of the Relevant Additional Wages.
+
+(b)
+
 5% of the Relevant Additional Wages.
 
-1A. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+[S 843/2013 wef 01/01/2014]
+
+1A. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
-Above 35 but not more than
-50 years of age
+Above 35 but not more than 50 years of age
 
-Above 50 but not more than
-55 years of age
+Above 50 but not more than 55 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6042,11 +6032,11 @@ An amount equal to 4% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0265 of the difference between the Total Wages and $50.
+An amount equal to 4% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0265 of the difference between the Total Wages and $50.
+An amount equal to 4% of the Total Wages.
 
 NIL
 
@@ -6058,37 +6048,7 @@ An amount equal to the sum of —
 
 4% of the Total Wages; and
 
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.0265 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.0265 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -6096,37 +6056,7 @@ An amount equal to the sum of —
 
 4% of the Total Wages; and
 
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$18.60 and 0.0541 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$18.60 and 0.0498 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -6134,37 +6064,21 @@ An amount equal to the sum of —
 
 4% of the Total Wages; and
 
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$42.96 and 0.0568 of the difference between the Total Wages and $1,200; and
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$41.04 and 0.0632 of the difference between the Total Wages and $1,200; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
+(b)
 
-Exceeding $1,500
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -6172,55 +6086,55 @@ An amount equal to the sum of —
 
 9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
-(b)
+An amount equal to the sum of —
 
-9% of the Relevant Additional Wages.
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
 An amount equal to the sum of —
 
 (a)
 
 5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+(b)
+
+9% of the Relevant Additional Wages.
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
 (b)
 
 9% of the Relevant Additional Wages.
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
 (b)
 
 9% of the Relevant Additional Wages.
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
 (b)
 
@@ -6228,11 +6142,9 @@ An amount equal to the sum of —
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than
-60 years of age
+Above 55 but not more than 60 years of age
 
-Above 60 but not more than
-65 years of age
+Above 60 but not more than 65 years of age
 
 Above 65 years of age
 
@@ -6266,15 +6178,15 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0265 of the difference between the Total Wages and $50.
+An amount equal to 4% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0232 of the difference between the Total Wages and $50.
+An amount equal to 3.5% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0232 of the difference between the Total Wages and $50.
+An amount equal to 3.5% of the Total Wages.
 
 NIL
 
@@ -6284,115 +6196,39 @@ An amount equal to the sum of —
 
 (a)
 
-0.0265 of the difference between the Total Wages and $50; and
+4% of the Total Wages; and
 
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0232 of the difference between the Total Wages and $50; and
+3.5% of the Total Wages; and
 
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0232 of the difference between the Total Wages and $50; and
+3.5% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-(a)
-
-$18.60 and 0.044 of the difference between the Total Wages and $750; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$16.275 and 0.0291 of the difference between the Total Wages and $750; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$16.275 and 0.0291 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-$38.40 and 0.072 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$29.40 and 0.077 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$29.40 and 0.077 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -6400,71 +6236,71 @@ An amount equal to the sum of —
 
 9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
+An amount equal to the sum of —
+
+(a)
+
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+
 (b)
 
 9% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
 (b)
 
 5% of the Relevant Additional Wages.
-
-An amount equal to the sum of —
-
-(a)
-
-8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
 
 (b)
 
 8.5% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
 (b)
 
 5% of the Relevant Additional Wages.
-
-An amount equal to the sum of —
-
-(a)
-
-8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
 
 (b)
 
 8.5% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
 (b)
 
 5% of the Relevant Additional Wages.
 
-1B. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+[S 843/2013 wef 01/01/2014]
+
+1B. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
-Above 35 but not more than
-50 years of age
+Above 35 but not more than 50 years of age
 
-Above 50 but not more than
-55 years of age
+Above 50 but not more than 55 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6500,11 +6336,11 @@ An amount equal to 9% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0597 of the difference between the Total Wages and $50.
+An amount equal to 9% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0597 of the difference between the Total Wages and $50.
+An amount equal to 9% of the Total Wages.
 
 NIL
 
@@ -6516,37 +6352,7 @@ An amount equal to the sum of —
 
 9% of the Total Wages; and
 
-(b)
-
-0.36 of the difference between the Total Wages and $500.
-
-An amount equal to 0.36 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.0597 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.36 of the difference between the Total Wages and $500.
-
-An amount equal to 0.36 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.0597 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.36 of the difference between the Total Wages and $500.
-
-An amount equal to 0.36 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -6554,37 +6360,7 @@ An amount equal to the sum of —
 
 9% of the Total Wages; and
 
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$41.85 and 0.1219 of the difference between the Total Wages and $750; and
-
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$41.85 and 0.1126 of the difference between the Total Wages and $750; and
-
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -6592,37 +6368,21 @@ An amount equal to the sum of —
 
 9% of the Total Wages; and
 
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$96.72 and 0.1276 of the difference between the Total Wages and $1,200; and
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 (b)
 
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$92.52 and 0.1416 of the difference between the Total Wages and $1,200; and
+0.45 of the difference between the Total Wages and $500.
 
 (b)
 
-$90 and 0.18 of the difference between the Total Wages and $750.
+0.45 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
+(b)
 
-Exceeding $1,500
+0.45 of the difference between the Total Wages and $500.
+
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -6630,55 +6390,55 @@ An amount equal to the sum of —
 
 24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
 
-(b)
+An amount equal to the sum of —
 
-24% of the Relevant Additional Wages.
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
 
 An amount equal to the sum of —
 
 (a)
 
 15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+(b)
+
+24% of the Relevant Additional Wages.
 
 (b)
 
 15% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
 (b)
 
 24% of the Relevant Additional Wages.
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 (b)
 
 15% of the Relevant Additional Wages.
 
-An amount equal to the sum of —
-
-(a)
-
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
 (b)
 
 24% of the Relevant Additional Wages.
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 (b)
 
@@ -6686,11 +6446,9 @@ An amount equal to the sum of —
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than
-60 years of age
+Above 55 but not more than 60 years of age
 
-Above 60 but not more than
-65 years of age
+Above 60 but not more than 65 years of age
 
 Above 65 years of age
 
@@ -6724,15 +6482,15 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0398 of the difference between the Total Wages and $50.
+An amount equal to 6% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0232 of the difference between the Total Wages and $50.
+An amount equal to 3.5% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0232 of the difference between the Total Wages and $50.
+An amount equal to 3.5% of the Total Wages.
 
 NIL
 
@@ -6742,115 +6500,39 @@ An amount equal to the sum of —
 
 (a)
 
-0.0398 of the difference between the Total Wages and $50; and
+6% of the Total Wages; and
 
-(b)
-
-0.3 of the difference between the Total Wages and $500.
-
-An amount equal to 0.3 of the difference between the Total Wages and $500.
+An amount equal to 0.375 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0232 of the difference between the Total Wages and $50; and
+3.5% of the Total Wages; and
 
-(b)
-
-0.18 of the difference between the Total Wages and $500.
-
-An amount equal to 0.18 of the difference between the Total Wages and $500.
+An amount equal to 0.225 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0232 of the difference between the Total Wages and $50; and
+3.5% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-(a)
-
-$27.90 and 0.066 of the difference between the Total Wages and $750; and
+0.375 of the difference between the Total Wages and $500.
 
 (b)
 
-$75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$16.275 and 0.0291 of the difference between the Total Wages and $750; and
+0.225 of the difference between the Total Wages and $500.
 
 (b)
 
-$45 and 0.09 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$16.275 and 0.0291 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-$57.60 and 0.108 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$29.40 and 0.077 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$29.40 and 0.077 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -6858,19 +6540,11 @@ An amount equal to the sum of —
 
 18.5% of the employee’s ordinary wages for the month subject to a maximum of $925; and
 
-(b)
-
-18.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-(b)
-
-12.5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -6878,19 +6552,11 @@ An amount equal to the sum of —
 
 11% of the employee’s ordinary wages for the month subject to a maximum of $550; and
 
-(b)
-
-11% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
-
-(b)
-
-7.5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -6898,10 +6564,6 @@ An amount equal to the sum of —
 
 8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
 
-(b)
-
-8.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
@@ -6910,19 +6572,39 @@ An amount equal to the sum of —
 
 (b)
 
+18.5% of the Relevant Additional Wages.
+
+(b)
+
+12.5% of the Relevant Additional Wages.
+
+(b)
+
+11% of the Relevant Additional Wages.
+
+(b)
+
+7.5% of the Relevant Additional Wages.
+
+(b)
+
+8.5% of the Relevant Additional Wages.
+
+(b)
+
 5% of the Relevant Additional Wages.
 
-1C. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+[S 843/2013 wef 01/01/2014]
+
+1C. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
-Above 35 but not more than
-50 years of age
+Above 35 but not more than 50 years of age
 
-Above 50 but not more than
-55 years of age
+Above 50 but not more than 55 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6958,11 +6640,11 @@ An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 0.1063 of the difference between the Total Wages and $50.
+An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 0.093 of the difference between the Total Wages and $50.
+An amount equal to 14% of the Total Wages.
 
 NIL
 
@@ -6974,37 +6656,7 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.1063 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.093 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -7012,75 +6664,29 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-$74.475 and 0.2171 of the difference between the Total Wages and $750; and
+14% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$65.10 and 0.1756 of the difference between the Total Wages and $750; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-16% of the Total Wages; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$172.20 and 0.226 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$144.12 and 0.2196 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -7088,19 +6694,11 @@ An amount equal to the sum of —
 
 21% of the employee’s ordinary wages for the month subject to a maximum of $1,050; and
 
-(b)
-
-21% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7108,19 +6706,11 @@ An amount equal to the sum of —
 
 21% of the employee’s ordinary wages for the month subject to a maximum of $1,050; and
 
-(b)
-
-21% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7128,10 +6718,6 @@ An amount equal to the sum of —
 
 19% of the employee’s ordinary wages for the month subject to a maximum of $950; and
 
-(b)
-
-19% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
@@ -7140,15 +6726,33 @@ An amount equal to the sum of —
 
 (b)
 
+21% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(b)
+
+21% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(b)
+
+19% of the Relevant Additional Wages.
+
+(b)
+
 5% of the Relevant Additional Wages.
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than
-60 years of age
+Above 55 but not more than 60 years of age
 
-Above 60 but not more than
-65 years of age
+Above 60 but not more than 65 years of age
 
 Above 65 years of age
 
@@ -7182,15 +6786,15 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0697 of the difference between the Total Wages and $50.
+An amount equal to 10.5% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0465 of the difference between the Total Wages and $50.
+An amount equal to 7% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0431 of the difference between the Total Wages and $50.
+An amount equal to 6.5% of the Total Wages.
 
 NIL
 
@@ -7200,115 +6804,39 @@ An amount equal to the sum of —
 
 (a)
 
-0.0697 of the difference between the Total Wages and $50; and
+10.5% of the Total Wages; and
 
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0465 of the difference between the Total Wages and $50; and
+7% of the Total Wages; and
 
-(b)
-
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0431 of the difference between the Total Wages and $50; and
+6.5% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-(a)
-
-$48.825 and 0.1155 of the difference between the Total Wages and $750; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$32.55 and 0.0583 of the difference between the Total Wages and $750; and
+0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-$30 and 0.06 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$30.225 and 0.0541 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-$100.80 and 0.189 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$58.80 and 0.154 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$54.60 and 0.143 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -7316,19 +6844,11 @@ An amount equal to the sum of —
 
 15.5% of the employee’s ordinary wages for the month subject to a maximum of $775; and
 
-(b)
-
-15.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7336,19 +6856,11 @@ An amount equal to the sum of —
 
 12% of the employee’s ordinary wages for the month subject to a maximum of $600; and
 
-(b)
-
-12% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7356,10 +6868,6 @@ An amount equal to the sum of —
 
 11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
 
-(b)
-
-11.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
@@ -7368,19 +6876,39 @@ An amount equal to the sum of —
 
 (b)
 
+15.5% of the Relevant Additional Wages.
+
+(b)
+
 5% of the Relevant Additional Wages.
 
-1D. Subject to paragraphs 1E to 7, with effect from 1st September 2012, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+(b)
+
+12% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(b)
+
+11.5% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+[S 843/2013 wef 01/01/2014]
+
+1D. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
 (a) where the employee is not more than 55 years of age:
 
 35 years of age and below
 
-Above 35 but not more than
-50 years of age
+Above 35 but not more than 50 years of age
 
-Above 50 but not more than
-55 years of age
+Above 50 but not more than 55 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -7416,11 +6944,11 @@ An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 0.1063 of the difference between the Total Wages and $50.
+An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 0.093 of the difference between the Total Wages and $50.
+An amount equal to 14% of the Total Wages.
 
 NIL
 
@@ -7432,37 +6960,7 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-(b)
-
-0.36 of the difference between the Total Wages and $500.
-
-An amount equal to 0.36 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.1063 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.36 of the difference between the Total Wages and $500.
-
-An amount equal to 0.36 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-0.093 of the difference between the Total Wages and $50; and
-
-(b)
-
-0.36 of the difference between the Total Wages and $500.
-
-An amount equal to 0.36 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -7470,75 +6968,29 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-$74.475 and 0.2171 of the difference between the Total Wages and $750; and
+14% of the Total Wages; and
+
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 (b)
 
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$65.10 and 0.1756 of the difference between the Total Wages and $750; and
+0.45 of the difference between the Total Wages and $500.
 
 (b)
 
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-16% of the Total Wages; and
+0.45 of the difference between the Total Wages and $500.
 
 (b)
 
-$90 and 0.18 of the difference between the Total Wages and $750.
+0.45 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$172.20 and 0.226 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$144.12 and 0.2196 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$90 and 0.18 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $90 and 0.18 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -7546,19 +6998,11 @@ An amount equal to the sum of —
 
 31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
 
-(b)
-
-31% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(b)
-
-15% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7566,19 +7010,11 @@ An amount equal to the sum of —
 
 31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
 
-(b)
-
-31% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(b)
-
-15% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7586,10 +7022,6 @@ An amount equal to the sum of —
 
 29% of the employee’s ordinary wages for the month subject to a maximum of $1,450; and
 
-(b)
-
-29% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
@@ -7598,15 +7030,33 @@ An amount equal to the sum of —
 
 (b)
 
+31% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b)
+
+31% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b)
+
+29% of the Relevant Additional Wages.
+
+(b)
+
 15% of the Relevant Additional Wages.
 
 (b) where the employee is above 55 years of age:
 
-Above 55 but not more than
-60 years of age
+Above 55 but not more than 60 years of age
 
-Above 60 but not more than
-65 years of age
+Above 60 but not more than 65 years of age
 
 Above 65 years of age
 
@@ -7640,15 +7090,15 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0697 of the difference between the Total Wages and $50.
+An amount equal to 10.5% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0465 of the difference between the Total Wages and $50.
+An amount equal to 7% of the Total Wages.
 
 NIL
 
-An amount equal to 0.0431 of the difference between the Total Wages and $50.
+An amount equal to 6.5% of the Total Wages.
 
 NIL
 
@@ -7658,115 +7108,39 @@ An amount equal to the sum of —
 
 (a)
 
-0.0697 of the difference between the Total Wages and $50; and
+10.5% of the Total Wages; and
 
-(b)
-
-0.3 of the difference between the Total Wages and $500.
-
-An amount equal to 0.3 of the difference between the Total Wages and $500.
+An amount equal to 0.375 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0465 of the difference between the Total Wages and $50; and
+7% of the Total Wages; and
 
-(b)
-
-0.18 of the difference between the Total Wages and $500.
-
-An amount equal to 0.18 of the difference between the Total Wages and $500.
+An amount equal to 0.225 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-0.0431 of the difference between the Total Wages and $50; and
+6.5% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
-0.12 of the difference between the Total Wages and $500.
-
-An amount equal to 0.12 of the difference between the Total Wages and $500.
-
-Exceeding $750 but not exceeding $1,200
-
-An amount equal to the sum of —
-
-(a)
-
-$48.825 and 0.1155 of the difference between the Total Wages and $750; and
+0.375 of the difference between the Total Wages and $500.
 
 (b)
 
-$75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$32.55 and 0.0583 of the difference between the Total Wages and $750; and
+0.225 of the difference between the Total Wages and $500.
 
 (b)
 
-$45 and 0.09 of the difference between the Total Wages and $750.
+0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of $45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$30.225 and 0.0541 of the difference between the Total Wages and $750; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,200 but not exceeding $1,500
-
-An amount equal to the sum of —
-
-(a)
-
-$100.80 and 0.189 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $75 and 0.15 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$58.80 and 0.154 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $45 and 0.09 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of —
-
-(a)
-
-$54.60 and 0.143 of the difference between the Total Wages and $1,200; and
-
-(b)
-
-$30 and 0.06 of the difference between the Total Wages and $750.
-
-An amount equal to the sum of $30 and 0.06 of the difference between the Total Wages and $750.
-
-Exceeding $1,500
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -7774,19 +7148,11 @@ An amount equal to the sum of —
 
 23% of the employee’s ordinary wages for the month subject to a maximum of $1,150; and
 
-(b)
-
-23% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-(b)
-
-12.5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7794,29 +7160,17 @@ An amount equal to the sum of —
 
 14.5% of the employee’s ordinary wages for the month subject to a maximum of $725; and
 
-(b)
-
-14.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
 
-(b)
-
-7.5% of the Relevant Additional Wages.
-
 An amount equal to the sum of —
 
 (a)
 
 11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
-
-(b)
-
-11.5% of the Relevant Additional Wages.
 
 An amount equal to the sum of —
 
@@ -7826,7 +7180,29 @@ An amount equal to the sum of —
 
 (b)
 
+23% of the Relevant Additional Wages.
+
+(b)
+
+12.5% of the Relevant Additional Wages.
+
+(b)
+
+14.5% of the Relevant Additional Wages.
+
+(b)
+
+7.5% of the Relevant Additional Wages.
+
+(b)
+
+11.5% of the Relevant Additional Wages.
+
+(b)
+
 5% of the Relevant Additional Wages.
+
+[S 843/2013 wef 01/01/2014]
 
 1E\. Subject to paragraphs 1F to 7, where a foreign employee becomes a permanent resident after 1st March 2009 but before 1st March 2011, or where a person becomes a permanent resident after 1st March 2009 but before 1st March 2011 and subsequently becomes an employee, the contributions payable in respect of that employee during the period beginning on 1st March 2011 and ending on the last day of the second anniversary month, shall be in accordance with the rates of contributions set out in paragraphs 1A and 1B.
 
@@ -8959,6 +8335,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|21 October 2013 (Bill No. 20/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|15 December 2013 (Section 15)|
+|189.|**G.N. No. S 843/2013—Central Provident Fund Act (Amendment of First Schedule) (No. 2) Notification 2013**|
+||Date of commencement|1 January 2014|
+|190.|**Act 24 of 2013—Central Provident Fund (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013 (Bill No. 20/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 January 2014 (Section 3, 5(b), (c), (e), (f), (h), (i), (k), (l) and (m), 6, 8, 9, 10, 14, 16 to 19 and 21)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
