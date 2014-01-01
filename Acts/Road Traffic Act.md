@@ -22,6 +22,8 @@
 
 - [6A Alteration of fuel-measuring equipment](#Alteration-of-fuel-measuring-equipment)
 
+- [6B Leaving Singapore in motor vehicle with altered fuel‑measuring equipment](#Leaving-Singapore-in-motor-vehicle-with-altered-fuel‑measuring-equipment)
+
 - [7 Savings](#Savings)
 
 - [8 Definition of licence](#Definition-of-licence)
@@ -296,7 +298,7 @@
 
 - [102B Appeal to Minister](#Appeal-to-Minister)
 
-- [103 Limitation on number of public service vehicle licences](#Limitation-on-number-of-public-service-vehicle-licences)
+- [103 Maximum number of new public service vehicle licences](#Maximum-number-of-new-public-service-vehicle-licences)
 
 - [104 Transfer of public service vehicle licences](#Transfer-of-public-service-vehicle-licences)
 
@@ -498,6 +500,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Deputy Commissioner of Police” includes any police officer not below the rank of sergeant authorised by the Deputy Commissioner of Police in writing by name or office to exercise the powers vested by this Act in the Deputy Commissioner of Police;
 
+“de‑registered vehicle” means a vehicle the registration of which has been cancelled by the Registrar under section 27(1);
+
+[Act 23 of 2013 wef 01/01/2014]
+
 “diameter”, in relation to the wheel of a vehicle or trailer, means the overall diameter measured between the 2 opposite points on the surface of a tyre which are furthest apart;
 
 “driver” —
@@ -520,9 +526,13 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 (a) except as provided in paragraphs (b) and (c), the Minister charged with the responsibility for transport;
 
-(b) for the purposes of the whole of Parts II and III and sections 74(1) and (2), 75(1), 76(1), 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2) and 143(3) and (11), the Minister charged with the responsibility for home affairs; and
+(b) for the purposes of the whole of Parts II and III and sections 74(1) and (2), 75(1), 76(1), 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2), 133(7)(a) and 143(3) and (11), the Minister charged with the responsibility for home affairs; and
 
-(c) for the purposes of sections 131B(7), 132(7), 133(7), 134, 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
+[Act 23 of 2013 wef 01/01/2014]
+
+(c) for the purposes of sections 131B(7), 132(7), 134, 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
+
+[Act 23 of 2013 wef 01/01/2014]
 
 [Deleted by Act 25 of 2011 wef 01/01/2012]
 
@@ -544,7 +554,15 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “public place” means any place or premises, whether privately owned or not, to which the general public or any section of the general public is permitted to have access, whether on payment or otherwise;
 
-“public service vehicle” means a vehicle used or kept for use for the carriage of passengers for hire or reward, other than a vehicle constructed for use on fixed rails or specially prepared ways;
+“public service vehicle” means a vehicle used or kept for use for the carriage, for hire or reward, of —
+
+(a) in the case of a motor car which does not ply for hire on any road but is hired under a contract, express or implied, for the use of the car as a whole, the driver of the car or any passenger; or
+
+(b) in any other case, any passenger,
+
+but excludes any vehicle constructed for use on fixed rails or specially prepared ways;
+
+[Act 23 of 2013 wef 01/01/2014]
 
 “Registrar” means the Registrar of Vehicles or the Deputy Registrar or an assistant registrar appointed under section 9;
 
@@ -798,11 +816,29 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 [Act 25 of 2011 wef 01/01/2012]
 
-(4) In this section, “fuel-measuring equipment”, in relation to a motor vehicle, means any instrument or appliance, or a combination of instruments or appliances, capable of or constructed for measuring or indicating or measuring and indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle and includes in particular any fuel gauge or fuel sensoring device.
+(4) In this section and section 6B, “fuel-measuring equipment”, in relation to a motor vehicle, means any instrument or appliance, or a combination of instruments or appliances, capable of or constructed for measuring or indicating or measuring and indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle and includes in particular any fuel gauge or fuel sensoring device.
 
 [20/89]
 
 [Act 25 of 2011 wef 01/01/2012]
+
+[Act 23 of 2013 wef 01/01/2014]
+
+### Leaving Singapore in motor vehicle with altered fuel‑measuring equipment
+
+6B\.—(1) Any person, being in charge of a motor vehicle, who leaves or attempts to leave Singapore in the motor vehicle knowing that the fuel‑measuring equipment of the motor vehicle has been altered for the purpose of preventing it from duly measuring or indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
+
+(2) In proceedings for an offence under subsection (1), it shall be presumed until the contrary is proved —
+
+(a) that the person in charge of a motor vehicle has attempted to leave Singapore in the motor vehicle if the motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at any place prescribed for the purposes of section 136 of the Customs Act (Cap. 70); and
+
+(b) that the person in charge of a motor vehicle knew that the fuel‑measuring equipment of the motor vehicle has been altered for the purpose of preventing it from duly measuring or indicating the quantity of motor fuel in the fuel supply tank if there is found in the motor vehicle or on him, at the time he leaves or attempts to leave Singapore in the motor vehicle, any artificial or mechanical means which, either alone or in conjunction with additional artificial or mechanical means (whether or not found) —
+
+(i) could be used for altering or facilitating the alteration of the index of the fuel‑measuring equipment of the motor vehicle; or
+
+(ii) would make the fuel‑measuring equipment false or unjust in measuring or indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle.
+
+[Act 23 of 2013 wef 01/01/2014]
 
 ### Savings
 
@@ -912,13 +948,21 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 11\.—(1) Subject to the provisions of this Act, a tax shall be charged in respect of —
 
-(a) the first registration of every vehicle under this Act; and
+(a) the first registration of every vehicle under this Act;
+
+[Act 23 of 2013 wef 01/01/2014]
+
+(aa) the registration under this Act of a de‑registered vehicle; and
+
+[Act 23 of 2013 wef 01/01/2014]
 
 (b) every vehicle used or kept on any road in Singapore.
 
 (2) The tax shall be paid upon a licence to be taken out by the person keeping the vehicle.
 
-(3) The tax chargeable under subsection (1)(a) in respect of a vehicle shall be of such an amount as the Minister may prescribe from time to time and the Minister may prescribe different taxes for vehicles of different classes, categories or descriptions or vehicles used for different purposes.
+(3) The tax chargeable under subsection (1)(a) or (aa) in respect of a vehicle shall be of such an amount as the Minister may prescribe from time to time and the Minister may prescribe different taxes for vehicles of different classes, categories or descriptions or vehicles used for different purposes.
+
+[Act 23 of 2013 wef 01/01/2014]
 
 (4) The tax chargeable under subsection (1)(b) in respect of a vehicle of any description shall be chargeable by reference to such annual or semi-annual rate as may be prescribed by the Minister from time to time.
 
@@ -1390,9 +1434,11 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (i) has ceased to be kept or used on any road in Singapore;
 
-(ii) has been or will, within the prescribed period, be destroyed or permanently removed from Singapore;
+(ii) has been or will, within the prescribed period, be destroyed or removed from Singapore;
 
 [Act 37 of 2012 wef 01/01/2013]
+
+[Act 23 of 2013 wef 01/01/2014]
 
 (iii) has become wholly unfit for further use; or
 
@@ -1410,9 +1456,11 @@ shall be guilty of an offence and shall be liable on conviction —
 
 [4/2006 wef 27/02/2006]
 
-(2) Where the registration of a vehicle is cancelled under subsection (1), the registered owner or the person in possession of the vehicle shall produce proof to the satisfaction of the Registrar that the vehicle has been permanently removed from all roads in Singapore, or has been destroyed or permanently removed from Singapore, within one month of the date of the cancellation or such other period as the Registrar may approve.
+(2) Where the registration of a vehicle is cancelled under subsection (1), the registered owner or the person in possession of the vehicle shall produce proof to the satisfaction of the Registrar that the vehicle has been removed from all roads in Singapore, or has been destroyed or removed from Singapore, within one month of the date of the cancellation or such other period as the Registrar may approve.
 
 [4/2006 wef 27/02/2006]
+
+[Act 23 of 2013 wef 01/01/2014]
 
 (3) Any person who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
 
@@ -3768,11 +3816,39 @@ PUBLIC SERVICE VEHICLES
 
 [Act 37 of 2012 wef 01/01/2013]
 
-### Limitation on number of public service vehicle licences
+### Maximum number of new public service vehicle licences
 
-103\. The Authority may from time to time prescribe the maximum number of public service vehicles of any class which may be licensed and the Registrar shall not issue licences in excess of the number so prescribed.
+103\.—(1) Subject to subsection (3), the Authority may, in respect of any period, by determination fix the maximum number of new public service vehicle licences which may be issued under section 102(1) during that period, and the Registrar must comply with that determination.
 
-[28/95]
+(2) The maximum number of new public service vehicle licences may be fixed by the Authority in one or more of the following terms:
+
+(a) for public service vehicles of any class;
+
+(b) for a particular person or class of persons;
+
+(c) for such period not exceeding one year.
+
+(3) In determining under subsection (1) the maximum number of new taxi licences which may be issued to a taxi service operator during such period as may be determined by the Authority, the Authority may take into consideration all relevant matters, including the contravention before that period by the taxi service operator of any service standard condition applicable to that operator.
+
+(4) Before taking into consideration any matter referred to in subsection (3), the Authority shall give the taxi service operator concerned notice in writing of its intention to do so and a reasonable opportunity to submit reasons, within such period as the Authority may specify in that notice, as to why such matter should not be taken into consideration.
+
+(5) The Authority shall, as soon as practicable after making a determination under subsection (1), provide a copy of the determination to the Registrar and —
+
+(a) in the case where the determination applies to a particular person or class of persons, provide a copy of the determination to that person or everyone in that class of persons; or
+
+(b) in any other case, publish in theGazette, or in one or more local daily newspapers as the Authority considers appropriate, a notice of the making of the determination.
+
+(6) In this section —
+
+“new”, in relation to a public service vehicle licence, does not include the renewal of an existing public service vehicle licence;
+
+“service standard condition” means a condition of a taxi service operator’s licence granted under section 111C relating to the extent, hours and general level of the services to be provided by the taxi service operator to members of the public;
+
+“taxi licence” means a public service vehicle licence which authorises a motor vehicle to be used as a taxi;
+
+“taxi service operator” means the holder of a licence to operate a taxi service granted under section 111C.
+
+[Act 23 of 2013 wef 01/01/2014]
 
 ### Transfer of public service vehicle licences
 
@@ -5366,9 +5442,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
-(7) A police officer not below the rank of sergeant or an employee of the Authority specially authorised by name in that behalf by the appropriate Minister by notification in theGazettemay, at any time before the date specified in the notice, cancel the notice.
+(7) A notice served under subsection (1) may, at any time before the date specified in the notice, be cancelled by —
 
-[7/90; 28/95; 5/98]
+(a) a police officer not below the rank of sergeant specially authorised by name, by notification in theGazette, made by the Minister; or
+
+(b) an employee of the Authority specially authorised by name, by notification in theGazette, made in person by the Registrar of Vehicles appointed under section 9(1).
+
+[Act 23 of 2013 wef 01/01/2014]
 
 ### Minister may prescribe forms of notices
 
@@ -5378,9 +5458,11 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 ### Composition of offences
 
-135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf by the Minister for Transport by notification in theGazettemay, in his discretion and subject to such conditions as may be prescribed, compound any such offence under this Act as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf personally by the Registrar of Vehicles appointed under section 9(1) by notification in theGazettemay, in his discretion and subject to such conditions as may be prescribed, compound any such offence under this Act as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 [28/95; 11/96; 5/98; 1/2003]
+
+[Act 23 of 2013 wef 01/01/2014]
 
 (2) The appropriate Minister may make rules to prescribe the offences which may be compounded under this section and the conditions subject to which, and the method and procedure by which, such offences may be compounded.
 
@@ -6071,6 +6153,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|16 November 2012|
 ||Date of commencement|1 June 2013|
 |||(sections 11 to 21)|
+|61.|**Act 23 of 2013—Road Traffic (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 19/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 January 2014|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
