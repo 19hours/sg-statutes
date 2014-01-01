@@ -72,15 +72,15 @@
 
 - [13A Exemption of shipping profits](#Exemption-of-shipping-profits)
 
-- [13B Exemption of certain dividends](#Exemption-of-certain-dividends)
+- [13B Assessment of income not entitled to exemption under section 43A, 43C, 43E or 43N](#Assessment-of-income-not-entitled-to-exemption-under-section-43A-43C-43E-or-43N)
 
 - [13C Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-trustee-of-trust-fund-arising-from-funds-managed-by-fund-manager-in-Singapore)
 
 - [13CA Exemption of income of non-resident arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-non-resident-arising-from-funds-managed-by-fund-manager-in-Singapore)
 
-- [13D Exemption of certain dividends of approved investment company](#Exemption-of-certain-dividends-of-approved-investment-company)
+- [13D (Repealed)](#Repealed)
 
-- [13E Exemption of dividends from foreign income](#Exemption-of-dividends-from-foreign-income)
+- [13E (Repealed)](#Repealed)
 
 - [13F Exemption of international shipping profits](#Exemption-of-international-shipping-profits)
 
@@ -226,9 +226,9 @@
 
 - [28 Profits of non-resident air transport and cable undertakings](#Profits-of-non-resident-air-transport-and-cable-undertakings)
 
-- [29 Income from certain dividends to include tax thereon](#Income-from-certain-dividends-to-include-tax-thereon)
+- [29 (Repealed)](#Repealed)
 
-- [30 Certain undistributed profits may be treated as distributed](#Certain-undistributed-profits-may-be-treated-as-distributed)
+- [30 (Repealed)](#Repealed)
 
 - [31 Income arising from settlements](#Income-arising-from-settlements)
 
@@ -264,7 +264,7 @@
 
 - [37 Assessable income](#Assessable-income)
 
-- [37A Restriction on deduction of trading losses against dividends](#Restriction-on-deduction-of-trading-losses-against-dividends)
+- [37A (Repealed)](#Repealed)
 
 - [37B Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
 
@@ -386,9 +386,9 @@
 
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
-- [44 Deduction of tax from dividends of companies](#Deduction-of-tax-from-dividends-of-companies)
+- [44 (Repealed)](#Repealed)
 
-- [44A Transitional provisions for company subjected to former imputation system](#Transitional-provisions-for-company-subjected-to-former-imputation-system)
+- [44A (Repealed)](#Repealed)
 
 - [45 Withholding of tax in respect of interest paid to non-resident persons](#Withholding-of-tax-in-respect-of-interest-paid-to-non-resident-persons)
 
@@ -416,7 +416,7 @@
 
 [**Part XIII ALLOWANCES FOR TAX CHARGED**](#Part-XIII)
 
-- [46 Tax deducted from dividends, interests, etc.](#Tax-deducted-from-dividends-interests-etc)
+- [46 Tax deducted from interests, etc.](#Tax-deducted-from-interests-etc)
 
 - [47 Special allowance for interest received as trading receipts](#Special-allowance-for-interest-received-as-trading-receipts)
 
@@ -636,7 +636,7 @@
 
 - [106 Powers to amend Schedules](#Powers-to-amend-Schedules)
 
-- [107 Consequential provision arising from abolition of imputation system](#Consequential-provision-arising-from-abolition-of-imputation-system)
+- [107 (Repealed)](#Repealed)
 
 - [108 Advance rulings](#Advance-rulings)
 
@@ -959,6 +959,24 @@ shall be guilty of an offence.
 (10A) Notwithstanding anything in this section, the Comptroller may, for the purpose of enabling the Chief Statistician to perform his duties under the Statistics Act (Cap. 317), furnish and permit the Chief Statistician access to any information and records prescribed in rules made under section 7.
 
 [16/2004]
+
+(10B) Notwithstanding anything in this section, the Comptroller may furnish to any person specified in subsection (10C) any information —
+
+(a) which may be required for the purpose of investigating or prosecuting a person for an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A), the predicate offence of which is an offence under this Act; or
+
+(b) which the Comptroller has reasonable grounds to suspect affords evidence of the commission of an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the predicate offence of which is an offence under this Act,
+
+and the specified person and persons under his command shall not further disclose such information except for the purpose of any investigation or prosecution referred to in paragraph (a).
+
+[Act 21 of 2013 wef 01/01/2014]
+
+(10C) The persons specified for the purposes of subsection (10B) are as follows:
+
+(a) the Commissioner of Police;
+
+(b) the Director of the Commercial Affairs Department.
+
+[Act 21 of 2013 wef 01/01/2014]
 
 (11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
 
@@ -1476,15 +1494,19 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (i) qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies;
 
-(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; and
+(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018; and
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (i) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -1920,9 +1942,7 @@ then that amount shall be deemed as income derived by that person from those ser
 
 [32/99]
 
-(4) Where the dividend deemed to be paid under subsection (3) is a dividend to which section 44 applies, the amount of dividend deemed to be paid by the company to the shareholder shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
-
-[32/99]
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (5) For the purposes of this section —
 
@@ -1984,41 +2004,17 @@ then that amount shall be deemed as income derived by that person from those ser
 
 [32/99; 37/2002]
 
-(4) Notwithstanding subsection (3), where a company undertakes a buyback described in subsection (1)(a) through a special trading counter established on the Singapore Exchange, any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) a dividend paid by the company on the date of the payment, and section 44 shall apply, with the necessary modifications, to such dividend; and
+(5) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(b) a dividend received by the shareholder if the conditions in subsection (5) are satisfied.
+(6) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[24/2000]
+(7) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(5) The conditions referred to in subsection (4)(b) are —
+(8) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) the shares sold through the special trading counter are not acquired by the shareholder through any securities lending or repurchase arrangement;
-
-(b) the shareholder has beneficially owned the shares for a continuous period of at least 183 days ending immediately before the day of the sale of the share through the special trading counter;
-
-(c) the shareholder has furnished to the Comptroller, or such other person as the Comptroller may direct, a declaration relating to the ownership and other particulars of the shares sold in such form and manner as may be approved by the Comptroller; and
-
-(d) the company has complied with such requirements as may be imposed by the Comptroller.
-
-[24/2000]
-
-(6) Where the dividend deemed to be paid by a company under subsection (3)(a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3)(b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
-
-[32/99]
-
-(7) The amount of any dividend deemed to be paid by a company under subsection (4)(a) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment would be equal to the amount of payment made by the company.
-
-[24/2000]
-
-(8) The amount of any dividend deemed to be received by a shareholder under subsection (4)(b) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment by the company would be equal to the amount of payment received by the shareholder.
-
-[24/2000]
-
-(9) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b) or (4)(b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
-
-[32/99; 24/2000]
+(9) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (10) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3)(b) —
 
@@ -2036,13 +2032,7 @@ is the number of remaining shares in the company held by the shareholder after t
 
 [32/99]
 
-(11) Notwithstanding any other provisions of this Act, where a shareholder sells his shares through a special trading counter referred to in subsection (4) and any payment received by the shareholder for the buyback of such shares is deemed to be a dividend received by him under that subsection —
-
-(a) no deduction shall be allowed to him in respect of the costs incurred to acquire the shares sold; and
-
-(b) where any provision for the diminution in the value of such shares has been allowed as a deduction previously, the total amount of all such deductions not written back shall be deemed to be a trading receipt of the shareholder for the basis period in which the shares are sold.
-
-[24/2000]
+(11) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (12) For the purposes of this section —
 
@@ -2064,15 +2054,7 @@ is the number of remaining shares in the company held by the shareholder after t
 
 (C) differences in the offers introduced solely to ensure that each shareholder is left with a whole number of shares;
 
-(d) in determining the duration of beneficial ownership of shares for the purposes of subsection (5)(b) —
-
-(i) the day of acquisition of the shares shall be counted as one day, but the day of sale of the shares shall be excluded;
-
-(ii) any bonus shares or shares arising from a consolidation or sub-division of shares shall be deemed to have been acquired on the date of acquisition of the original shares in respect of which the bonus shares were issued, or from which the consolidated or sub-divided shares were derived;
-
-(iii) the duration shall not be regarded as discontinued by the lending or sale of the shares under any securities lending or repurchase arrangement; and
-
-(iv) regard shall be had to such other matters as may be prescribed;
+(d) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (e) “shares” includes stocks but does not include shares or stocks of a preferential nature.
 
@@ -2096,13 +2078,9 @@ is the number of remaining shares in the company held by the shareholder after t
 
 [32/99]
 
-(3) Where the dividend deemed to be paid under subsection (2)(b)(i) is a dividend to which section 44 applies, the amount of dividend deemed to be so paid by the company shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
+(3) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[32/99]
-
-(4) No set-off under section 46 shall be allowed to any shareholder in respect of any payment made by a company to the shareholder for the redemption of his redeemable shares.
-
-[32/99]
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (5) For the purposes of this section —
 
@@ -2334,15 +2312,7 @@ and the gains or profits shall be deemed to arise at the time any of the events 
 
 [37/2002]
 
-(6) A Singapore-based transferee deriving in respect of transferred securities under a securities lending or repurchase arrangement any dividend from Singapore from which tax has been deducted under section 44 shall —
-
-(a) not be entitled to any set-off under section 46(1) in respect of the dividend;
-
-(b) notify such person within such period as the Comptroller may require that he is a transferee; and
-
-(c) comply with such requirement as the Comptroller may impose.
-
-[37/2002]
+(6) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (7) A Singapore-based transferee (other than a transferee under a buy and sell back arrangement in respect of qualifying debt securities or foreign debt securities) shall not be entitled to any tax credit under section 50 or 50A for any distribution received by him from outside Singapore in respect of transferred securities under a securities lending or repurchase arrangement.
 
@@ -2352,9 +2322,11 @@ and the gains or profits shall be deemed to arise at the time any of the events 
 
 (8) Where any compensatory payment derived under a securities lending or repurchase arrangement by a transferor from a Singapore-based transferee is in place of —
 
-(a) any dividend which is exempt from tax or interest which is derived from qualifying debt securities, the transferor shall be assessed at the tax rate that would have been applicable to the dividend or interest, as the case may be, had it been made directly to the transferor;
+(a) any dividend which is exempt from tax or interest which is derived from qualifying debt securities, the transferor shall be assessed at the tax rate that would have been applicable to the dividend or interest, as the case may be, had it been made directly to the transferor; or
 
-(b) a distribution of a dividend derived from Singapore from which tax has been deducted under section 44, no set-off under section 46(1) shall be allowed to the transferor; or
+[ Act 19 of 2013 wef 01/01/2014]
+
+(b) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (c) a distribution of income derived from outside Singapore and where the transferor is resident in Singapore, no tax credit under section 50 or 50A shall be allowed to the transferor.
 
@@ -2368,9 +2340,11 @@ and the gains or profits shall be deemed to arise at the time any of the events 
 
 (b) any compensatory payment in place of —
 
-(i) any distribution of income derived from outside Singapore;
+(i) any distribution of income derived from outside Singapore; or
 
-(ii) any dividend derived from Singapore from which tax has been deducted under section 44; or
+[ Act 19 of 2013 wef 01/01/2014]
+
+(ii) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (iii) any interest (other than interest derived from qualifying debt securities),
 
@@ -2632,21 +2606,27 @@ EXEMPTION FROM INCOME TAX
 
 (a) subject to subsection (2) and such conditions as may be prescribed by regulations, the interest derived from —
 
-(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2013 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2018 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 [34/2008 wef 16/12/2008]
 
-(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2013 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+[Act 19 of 2013 wef 01/01/2014]
+
+(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2018 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities —
 
 (i) issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) issued during the period from 17th February 2006 to 31st December 2013,
+(ii) issued during the period from 17th February 2006 to 31st December 2018,
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 by —
 
@@ -2654,13 +2634,15 @@ by —
 
 (B) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013, to any person —
+(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018, to any person —
 
 (i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 (ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) subject to subsections (2C) and (2D) and such conditions as may be prescribed by regulations —
 
@@ -2678,13 +2660,15 @@ by —
 
 (iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
-(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013 that is derived by any person —
+(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018 that is derived by any person —
 
 (i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 (ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (bb) subject to subsection (2G) and such conditions as may be prescribed by regulations, such other income directly attributable to qualifying debt securities issued on or after a prescribed date as may be prescribed by regulations, that is derived by any person —
 
@@ -2696,7 +2680,9 @@ by —
 
 (i) the interest, discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying debt securities (excluding Singapore Government Securities) which —
 
-(A) are issued during the period from 16th February 2008 to 31st December 2013;
+(A) are issued during the period from 16th February 2008 to 31st December 2018;
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (B) have an original maturity of not less than 10 years;
 
@@ -2742,9 +2728,13 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
-(d) any gains or profits, other than dividends derived from Singapore from which tax has been deducted under section 44, arising from sums standing in the SRS account of any SRS member except where section 10L(13) applies;
+(d) any gains or profits arising from sums standing in the SRS account of any SRS member except where section 10L(13) applies;
 
-(e) the income of any institution, authority, person or fund specified in the First Schedule, except dividends received before 1st January 2008 by it from any company in which it holds, at the time such dividends are declared, more than half of the total number of issued shares of the company unless the Minister otherwise approves;
+[Act 19 of 2013 wef 01/01/2014]
+
+(e) the income of any institution, authority, person or fund specified in the First Schedule;
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (f) the income of —
 
@@ -2758,7 +2748,9 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 
 (i) sums received by way of death gratuities or as consolidated compensation for death or injuries;
 
-(j) sums standing to the account of an individual in the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8) or withdrawn therefrom except for sums in respect of dividends (other than dividends derived from outside Singapore) credited to his Investment Account maintained under the Central Provident Fund Act (Cap. 36);
+(j) sums standing to the account of an individual in the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8) or withdrawn therefrom;
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (ja) sums standing to the account of an individual in an approved pension or provident fund (other than the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8)) to the extent of the sum standing to his account as at 31st December 1992 and of such interest on that sum as the Comptroller may determine for the period 1st January 1993 to the date of his retirement and which are withdrawn only upon or after his retirement in accordance with the rules or constitution of the fund;
 
@@ -2886,7 +2878,9 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (iv) any income from any life insurance policy, except income referred to in section 10(3);
 
-(v) any distribution made by the trustee of any collective investment scheme constituted as a unit trust (excluding any real estate investment trust) authorised under section 286 of the Securities and Futures Act (Cap. 289) and the units of which are offered to the public for subscription, that is income or deemed to be income of the individual, except distributions made out of Singapore dividends from which tax is deducted or deductible under section 44; and
+(v) any distribution made by the trustee of any collective investment scheme constituted as a unit trust (excluding any real estate investment trust) authorised under section 286 of the Securities and Futures Act (Cap. 289) and the units of which are offered to the public for subscription, that is income or deemed to be income of the individual; and
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (vi) any fee or compensatory payment from securities lending or repurchase arrangements,
 
@@ -2968,7 +2962,7 @@ except where such income is derived through a partnership in Singapore or is der
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007]
 
-(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2013 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
+(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
@@ -2977,6 +2971,8 @@ except where such income is derived through a partnership in Singapore or is der
 [32/99; 21/2003]
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (2A) Subsection (1)(aa) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any discount derived from any qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such discount is derived by —
 
@@ -3180,11 +3176,11 @@ and received in Singapore —
 
 where A
 
-is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+is the percentage of the income of the limited liability partnership to which the partner is entitled as at 21st January 2009; and
 
-N
+B
 
-is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
+is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership.
 
 [27/2009 wef 22/01/2009]
 
@@ -3262,13 +3258,7 @@ is, notwithstanding anything in that order, treated as revoked on 1st April 2015
 
 [22/2011 wef 09/01/2009]
 
-(14) Where any income is exempt from tax under subsection (8), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (12) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order) —
-
-(a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
-
-(b) subsections (3) to (11) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
-
-[32/95; 37/2002; 21/2003]
+(14) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (15) The Minister may, at any time, by rules made under section 7, add to, vary or amend the list of commodities mentioned in subsection (1)(n).
 
@@ -3306,7 +3296,15 @@ is, notwithstanding anything in that order, treated as revoked on 1st April 2015
 
 “financial sector incentive (bond market) company” means a company approved as such by the Minister or such person as he may appoint;
 
+“financial sector incentive (capital market) company” means a company approved as such by the Minister or such person as he may appoint;
+
+[Act 19 of 2013 wef 01/01/2014]
+
 “financial sector incentive (project finance) company” means a company approved as such by the Minister or such person as he may appoint;
+
+“financial sector incentive (standard tier) company” has the same meaning as in section 43N(4);
+
+[Act 19 of 2013 wef 01/01/2014]
 
 “Islamic debt securities” has the same meaning as in section 43N(4);
 
@@ -3326,9 +3324,11 @@ is, notwithstanding anything in that order, treated as revoked on 1st April 2015
 
 “qualifying debt securities” means —
 
-(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2013;
+(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) bonds, notes, commercial papers and certificates of deposits which are arranged in accordance with regulations made for this purpose —
 
@@ -3338,25 +3338,43 @@ is, notwithstanding anything in that order, treated as revoked on 1st April 2015
 
 (ii) by any approved bond intermediary and issued —
 
-(A) during the period from 27th February 1999 to 31st December 2013 under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
+(A) during the period from 27th February 1999 to 31st December 2018 under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
 
 [34/2008 wef 16/12/2008]
 
-(B) during the period from 27th February 1999 to 31st December 2003 in any other case; or
+[Act 19 of 2013 wef 01/01/2014]
 
-(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2013;
+(B) during the period from 27th February 1999 to 31st December 2003 in any other case;
+
+[Act 19 of 2013 wef 01/01/2014]
+
+(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2018; or
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
+
+(iv) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2018;
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (c) Islamic debt securities which are arranged in accordance with regulations made for this purpose —
 
-(i) by any financial institution in Singapore and issued during the period from 1st January 2005 to 31st December 2013; or
+(i) by any financial institution in Singapore and issued during the period from 1st January 2005 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(ii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2005 to 31st December 2013,
+[Act 19 of 2013 wef 01/01/2014]
+
+(ii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2005 to 31st December 2018; or
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
+
+(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2018,
+
+[Act 19 of 2013 wef 01/01/2014]
 
 but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 and any Islamic debt securities issued on or after 1st January 2005 which, during its primary launch —
 
@@ -3366,15 +3384,15 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 “qualifying project debt securities” means debt securities —
 
-(a) which are issued during the period from 1st November 2006 to 31st March 2017 and arranged in accordance with regulations made for this purpose —
+(a) which are arranged in accordance with regulations made for this purpose —
 
-(i) by any financial institution in Singapore; or
+(i) by any financial institution in Singapore and issued during the period from 1st November 2006 to 31st December 2013;
 
-(ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company;
+(ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company and issued during the period from 1st November 2006 to 31st March 2017; or
 
-[22/2011 wef 01/01/2012]
+(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st March 2017;
 
-[34/2008 wef 16/12/2008]
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) the interest and other income directly attributable to which are funded primarily by cash flows from an infrastructure asset or project prescribed by regulations (referred to in this definition as a prescribed asset or project); and
 
@@ -3488,51 +3506,29 @@ and the special purpose company does not at that time own any foreign ship, fore
 
 [Act 29 of 2012 wef 01/06/2011]
 
-(4) The Comptroller shall for each year of assessment issue to a shipping enterprise a statement (to be included in a notice of any assessment served on the shipping enterprise under section 76) showing the amount of income derived from the operation of Singapore ships or foreign ships by the shipping enterprise; and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(4) The Comptroller shall for each year of assessment issue to a shipping enterprise a statement (to be included in a notice of any assessment served on the shipping enterprise under section 76) showing the amount of income derived from the operation of Singapore ships or foreign ships by the shipping enterprise; and Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [31/98]
 
+[Act 19 of 2013 wef 01/01/2014]
+
 (5) Subject to subsection (8) where any statement issued under subsection (4) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of a shipping enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
 
-(5A) For the purposes of subsection (5), the Comptroller may, before such statement has become final and conclusive, treat a specified amount of the income of a shipping enterprise from the operation of Singapore ships or foreign ships as exempt from tax pending such statement becoming final and conclusive.
+(5A) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[7/2007]
+(6) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(6) The following provisions shall apply to a shipping enterprise resident in Singapore:
+(7) A shipping enterprise shall deliver to the Comptroller a copy of the accounts referred to in subsection (2) made up to any date specified by him whenever called upon to do so by notice in writing.
 
-(a) as soon as any amount of income of the shipping enterprise is exempted under subsection (5), such amount shall be credited to an account to be kept by the shipping enterprise for the purpose of this section;
+[Act 19 of 2013 wef 01/01/2014]
 
-(b) where such account is in credit at the date on which any dividends are paid by the shipping enterprise out of income which has been exempted, an amount equal to such dividends or to such credit, whichever is the less, shall be debited to such account;
+(8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that any income of a shipping enterprise which has been exempted from tax ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the shipping enterprise as may appear to be necessary in order to make good any loss of tax.
 
-(c) so much of the amount of any dividends debited to such account as are received by a shareholder in the shipping enterprise shall, if the Comptroller is satisfied with the entries in such account, be exempt from tax in the hands of such shareholder;
+[Act 19 of 2013 wef 01/01/2014]
 
-(d) any dividends debited to such account shall be treated as having been distributed to the shareholders of the shipping enterprise or any particular class of such shareholders in accordance with the proportion of their shareholdings in the shipping enterprise;
+(9) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (8) were a notice of assessment.
 
-(e) section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section;
-
-(f) where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof; and
-
-(g) notwithstanding paragraphs (c) and (f), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[3/89; 1/90; 37/2002; 21/2003]
-
-(7) A shipping enterprise shall deliver to the Comptroller a copy of the accounts referred to in subsections (2) and (6) made up to any date specified by him whenever called upon to do so by notice in writing.
-
-(8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
-
-(a) any income of a shipping enterprise which has been exempted from tax; or
-
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
-
-ought not to have been so exempted, the Comptroller may at any time within 6 years (if the year of assessment to which the statement relates is 2007 or a preceding year of assessment) or 4 years (if the year of assessment to which the statement relates is 2008 or a subsequent year of assessment) from the date of the statement referred to in subsection (4) —
-
-(i) make such assessment or additional assessment upon the shipping enterprise or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
-
-(ii) direct the shipping enterprise to debit its account kept in accordance with subsection (6) with such amount as the circumstances may require.
-
-[11/94; 37/2002; 53/2007]
-
-(9) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (8) were a notice of assessment.
+[Act 19 of 2013 wef 01/01/2014]
 
 (10) Nothing in this section shall affect the operation of section 27 in ascertaining the income of a non-resident person owning or operating Singapore ships or foreign ships.
 
@@ -3630,59 +3626,13 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 [This section is amended by section 7 of the Income Tax (Amendment) Act 2017 (Act 39 of 2017) wef 22/02/2010]
 
-### Exemption of certain dividends
+### Assessment of income not entitled to exemption under section 43A, 43C, 43E or 43N
 
-13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, the following provisions of this section shall have effect.
+13B\.—(1) Notwithstanding section 13(1)(y), where it appears to the Comptroller that any income of a person which has been exempted from tax under regulations made under section 43A, 43C, 43E or 43N, ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the person as may appear to be necessary in order to make good any loss of tax.
 
-[1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
+(2) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (1) were a notice of assessment.
 
-(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
-
-[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
-
-(3) Where the account is in credit at the date on which any dividends are paid by the company out of the net amount of the income credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
-
-[15/83]
-
-(4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
-
-(4A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
-
-[37/2002]
-
-(5) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-[1/90]
-
-(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
-
-[37/2002]
-
-(6A) Notwithstanding subsections (4) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[21/2003]
-
-(7) A company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
-
-(8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
-
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder; or
-
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
-
-ought not to have been so taxed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
-
-(i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
-
-(ii) direct the company to debit the account with such amount as the circumstances require.
-
-[15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 11/94; 1/98; 31/98; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
-
-(9) This section shall not, in relation to any income of an insurance company which is subject to the concessionary rate of tax prescribed by regulations made under section 43C, apply to such part of the income ascertained under section 26(7) as is apportioned to the policyholders of the company in accordance with those regulations.
-
-[28/92]
-
-[Act 19 of 2013 wef 28/11/2013]
+[Act 19 of 2013 wef 01/01/2014]
 
 ### Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore
 
@@ -3934,111 +3884,9 @@ is the percentage which the value of equity interests of the second level entity
 
 [27/2009 wef 29/12/2009]
 
-### Exemption of certain dividends of approved investment company
+13D\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
-13D\.—(1) Where an investment company has been approved under section 10A, the provisions of this section shall have effect.
-
-[3/89]
-
-(2) As soon as any amount of the income has been determined to be not chargeable to tax in accordance with regulations prescribed under section 10A, the net amount of that income shall be credited to a special account (referred to in this section as the account) to be kept by the investment company for the purposes of this section.
-
-(3) Subsections (3) to (8) of section 13B shall apply, with the necessary modifications, in respect of any dividends paid out of the account of that investment company.
-
-(4) In this section, “net amount”, in relation to the income referred to in subsection (2) for any year of assessment, means the amount of that income less —
-
-(a) expenses and donations allowable under this Act for that year of assessment which are determined in accordance with regulations prescribed under section 10A as attributable to that income;
-
-(b) any amount of loss for that year of assessment arising from the disposal of securities which is determined in accordance with regulations prescribed under section 10A by reference to the period during which those securities have been held and which is not deductible under those regulations;
-
-(c) any amount of allowances for that year of assessment under section 19, 19A, 20, 21 or 23 which is determined in accordance with regulations prescribed under section 10A as attributable to that income; and
-
-(d) any amount of the expenses, donations, allowances and losses referred to in paragraphs (a), (b) and (c) which have not been deducted in arriving at the net amount of the income for any previous year of assessment.
-
-### Exemption of dividends from foreign income
-
-13E\.—(1) Where a company resident in Singapore receives income in Singapore from outside Singapore (referred to in this section as the income) for which tax credit has been allowed against the tax payable in respect of such income and pays dividends out of such income, the provisions of this section shall have effect.
-
-[2/92]
-
-(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
-
-where A
-
-is the tax credit allowed;
-
-B
-
-is the tax rate applicable to a company under section 43(1); and
-
-C
-
-is the foreign tax paid,
-
-shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
-
-(3) Where the account is in credit at the date on which any dividends are paid by the company out of the income which has been credited to that account, an amount equal to such dividends or to the credit in that account, whichever is the less, shall be debited to the account.
-
-(4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
-
-(5) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
-
-[37/2002]
-
-(6) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-(7) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
-
-[37/2002]
-
-(8) Notwithstanding subsections (4) and (7), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[21/2003]
-
-(9) A company shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
-
-[32/95; 37/2002]
-
-(10) Notwithstanding subsections (1) to (9), where it appears to the Comptroller that any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
-
-(a) make such assessment or additional assessment upon any such shareholder as may be necessary in order to make good any loss of tax; or
-
-(b) direct the company to debit the account with such amount as the circumstances require.
-
-[11/94; 32/95; 37/2002; 53/2007]
-
-(11) In this section —
-
-“foreign tax” means —
-
-(a) Commonwealth income tax within the meaning of section 48(1);
-
-(b) foreign tax within the meaning of section 50(1); or
-
-(c) tax payable under the law of any territory outside Singapore in respect of which credit has been given under section 50 by virtue of section 50A,
-
-as the case may be;
-
-“tax credit” means —
-
-(a) relief from tax under section 48(1);
-
-(b) credit under section 50(1); or
-
-(c) credit under section 50 by virtue of section 50A,
-
-as the case may be.
-
-[26/93; 32/95; 37/2002; 21/2003]
-
-(12) This section shall —
-
-(a) only apply to income received on or after 1st January 1991;
-
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
-
-(c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
-
-[28/92; 26/93; 1/98; 37/2002; 21/2003; 11/2004; 49/2004; 34/2005; 7/2007; 53/2007]
+13E\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
 ### Exemption of international shipping profits
 
@@ -4152,9 +4000,11 @@ to be approved as an approved international shipping enterprise, and the company
 
 [Act 29 of 2012 wef 01/06/2011]
 
-(5) Section 13A(2), (2A), (4), (5), (5A), (6), (7), (8) and (9) shall apply to an approved international shipping enterprise, except that any reference to a shipping enterprise shall be read as a reference to an approved international shipping enterprise.
+(5) Section 13A(2), (2A), (4), (5), (7), (8) and (9) shall apply to an approved international shipping enterprise, except that any reference to a shipping enterprise shall be read as a reference to an approved international shipping enterprise.
 
 [32/99; 37/2002]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (6) In this section —
 
@@ -4162,7 +4012,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 “foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);
 
-“international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships;
+“international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships ;
 
 “qualifying special purpose vehicle”, in relation to an approved international shipping enterprise, means —
 
@@ -4294,55 +4144,43 @@ to be approved as an approved international shipping enterprise, and the company
 
 [31/98]
 
-(6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement (to be included in a notice of any assessment served on the approved venture company under section 76) showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement (to be included in a notice of any assessment served on the approved venture company under section 76) showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [31/98]
 
 [34/2008 wef Y/A 2009 & Sub Ys/A]
 
-(7) Subject to subsection (8), where any statement issued to an approved venture company under subsection (6) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
+[Act 19 of 2013 wef 01/01/2014]
 
-(8) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved venture company as exempt from tax pending such statement becoming final and conclusive.
+(7) Where any statement issued to an approved venture company under subsection (6) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
 
-(9) As soon as any amount of the income of an approved venture company has been exempt from tax or subject to tax at a concessionary rate under regulations made under subsection (1), the amount of the income exempted or the net amount of the income after deduction of the tax shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
+[Act 19 of 2013 wef 01/01/2014]
 
-[31/98]
+(8) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(10) Where the account of an approved venture company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+(9) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(11) So much of the amount of any dividends debited to the account under subsection (10) as is received by a shareholder of an approved venture company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+(10) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(11A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+(11) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[37/2002]
+(11A) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(12) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
+(12) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(13) Where an amount of dividends exempt from tax under this section has been received from a company by a shareholder, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 shall not apply to any such dividend or part thereof.
+(13) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[37/2002]
-
-(14) Notwithstanding subsections (11) and (13), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[21/2003]
+(14) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (15) An approved venture company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
-(16) Notwithstanding anything in this section, where it appears to the Comptroller that —
+(16) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1) ought not to have been so exempted or taxed for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the company as may appear to be necessary in order to make good any loss of tax.
 
-(a) any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1); or
+[Act 19 of 2013 wef 01/01/2014]
 
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
+(17) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (16) were a notice of assessment.
 
-ought not to have been so exempted or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years (if that year of assessment is 2007 or a preceding year of assessment) or 4 years (if that year of assessment is 2008 or a subsequent year of assessment) after the expiration of that year of assessment —
-
-(i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
-
-(ii) direct the company to debit its account with such amount as the circumstances may require.
-
-[11/94; 31/98; 37/2002; 53/2007]
-
-(17) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (16) were a notice of assessment.
+[Act 19 of 2013 wef 01/01/2014]
 
 (18) In this section —
 
@@ -4928,11 +4766,13 @@ as the Minister may by regulations prescribe.
 
 ### Exemption of income derived from asset securitisation transaction
 
-13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2013 (both dates inclusive).
+13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2018 (both dates inclusive).
 
 [34/2008 wef 16/12/2008]
 
 [34/2005]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (2) Regulations made under subsection (1) may provide for the deduction of expenses, allowances and losses of an approved securitisation company otherwise than in accordance with this Act.
 
@@ -4940,9 +4780,13 @@ as the Minister may by regulations prescribe.
 
 [Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
 
-(3) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved securitisation company which has been exempted from tax under subsection (1) ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 6 years (if that year of assessment is 2007 or a preceding year of assessment) or 4 years (if that year of assessment is 2008 or a subsequent year of assessment) after that expiration of that year of assessment, make such assessment or additional assessment on the company as may appear to be necessary in order to make good any loss of tax.
+(3) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved securitisation company which has been exempted from tax under subsection (1) ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the company as may appear to be necessary in order to make good any loss of tax.
 
-[34/2005; 53/2007]
+[Act 19 of 2013 wef 01/01/2014]
+
+(3A) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (3) were a notice of assessment.
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (4) In this section —
 
@@ -5254,69 +5098,47 @@ except that the Minister may extend the period so specified for such further per
 
 [Act 29 of 2012 wef 01/06/2011]
 
-(7) The Comptroller shall for each year of assessment for which the income of an approved shipping investment enterprise is exempt from tax under subsection (1) issue to the enterprise a statement (to be included in a notice of any assessment served on the enterprise under section 76) showing the amount of income exempt from tax under subsection (1); and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(7) The Comptroller shall for each year of assessment for which the income of an approved shipping investment enterprise is exempt from tax under subsection (1) issue to the enterprise a statement (to be included in a notice of any assessment served on the enterprise under section 76) showing the amount of income exempt from tax under subsection (1); and Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [34/2008 wef Y/A 2009 & Sub Ys/A]
 
 [7/2007]
 
-(8) Subject to subsection (9), where any statement issued to an approved shipping investment enterprise under subsection (7) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
+[Act 19 of 2013 wef 01/01/2014]
+
+(8) Where any statement issued to an approved shipping investment enterprise under subsection (7) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
 
 [7/2007]
 
-(9) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved shipping investment enterprise as exempt from tax pending such statement becoming final and conclusive.
+[Act 19 of 2013 wef 01/01/2014]
 
-[7/2007]
+(9) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(10) As soon as any amount of the income of an approved shipping investment enterprise, being a company, has been exempted from tax under subsection (1), the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the enterprise for the purpose of this section.
+(10) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[7/2007]
+(11) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(11) Where the account of an approved shipping investment enterprise is in credit at the date on which any dividends are paid by the enterprise out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+(12) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[7/2007]
+(13) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(12) So much of the amount of any dividends debited to the account under subsection (11) as is received by a shareholder of an approved shipping investment enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+(14) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[7/2007]
+(15) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(13) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the approved shipping investment enterprise or any particular class of the shareholders in accordance with the proportion of their shareholdings in the enterprise.
-
-[7/2007]
-
-(14) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-[7/2007]
-
-(15) Where an amount of dividends exempt from tax under this section has been received from an approved shipping investment enterprise by a shareholder, then, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 shall not apply to any such dividend or part thereof.
-
-[7/2007]
-
-(16) Notwithstanding subsections (12) and (15), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[7/2007]
+(16) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (17) An approved shipping investment enterprise shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
 [7/2007]
 
-(18) Notwithstanding anything in this section, where it appears to the Comptroller that —
+(18) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved shipping investment enterprise which has been exempted from tax under subsection (1) ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the enterprise as may appear to be necessary in order to make good any loss of tax.
 
-(a) any income of an approved shipping investment enterprise which has been exempted from tax under subsection (1); or
+[Act 19 of 2013 wef 01/01/2014]
 
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
+(19) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (18) were a notice of assessment.
 
-ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 6 years (if that year of assessment is 2007 or a preceding year of assessment) or 4 years (if that year of assessment is 2008 or a subsequent year of assessment) after the expiration of that year of assessment —
-
-(i) make such assessment or additional assessment upon the enterprise or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
-
-(ii) direct the enterprise to debit the account with such amount as the circumstances may require.
-
-[7/2007; 53/2007]
-
-(19) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (18) were a notice of assessment.
-
-[7/2007]
+[ Act 19 of 2013 wef 01/01/2014]
 
 (19A) In this section, a reference to the leasing of a sea-going ship by a shipping investment enterprise approved on or after 1st March 2011 excludes the leasing of a sea-going ship which has been treated as though it had been sold pursuant to regulations made under section 10D(1).
 
@@ -5518,25 +5340,9 @@ ought not to have been so exempted for any year of assessment, the Comptroller m
 
 [Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
 
-(13) The following provisions shall apply during the period from 1st July 2007 to 31st December 2007 to an approved law practice which is a law corporation resident in Singapore:
+(13) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) as soon as any amount of income of the approved law practice is exempted under subsection (6), such amount shall be credited to an account to be kept by the approved law practice for the purpose of this section;
-
-(b) where such account is in credit at the date on which any dividends are paid by the approved law practice out of income which has been exempted, an amount equal to such dividends or to such credit, whichever is the less, shall be debited to such account;
-
-(c) so much of the amount of any dividends debited to such account as are received by a shareholder in the approved law practice shall, if the Comptroller is satisfied with the entries in such account, be exempt from tax in the hands of such shareholder;
-
-(d) any dividends debited to such account shall be treated as having been distributed to the shareholders of the approved law practice or any particular class of such shareholders in accordance with the proportion of their shareholdings in the approved law practice;
-
-(e) section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section;
-
-(f) notwithstanding paragraph (c), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[53/2007]
-
-(14) An approved law practice which is a law corporation shall deliver to the Comptroller a copy of the accounts referred to in subsection (13) made up to any date specified by him whenever called upon to do so by notice in writing.
-
-[53/2007]
+(14) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (15) In this section —
 
@@ -5958,9 +5764,7 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 (ii) acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under that Act; or
 
-(b) is registered outside Singapore and used exclusively outside Singapore.
-
-[32/99]
+(b) [Deleted by Act 19 of 2013 wef Y/A 2014 & Sub Ys/A]
 
 (5) Notwithstanding subsection (1), where, in the basis period for any year of assessment, any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86)) incurs medical expenses falling within that subsection in excess of the maximum allowable amount in that basis period, the amount of the excess medical expenses shall not be allowed as deductions.
 
@@ -6396,51 +6200,19 @@ does not exceed $100,000 for each year of assessment.
 
 [22/2011 wef 01/04/2011]
 
-(5) Subject to subsection (6), as soon as any amount of further deduction is allowed to any company under this section, section 14E, 14J or 14L, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
+(5) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[28/92; 21/2003]
+(6) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(6) Where the company is a transferor company within the meaning of section 37C(19) and where any amount of further deduction allowed under this section, section 14E, 14J or 14L is transferred to a claimant company as part of the loss specified under section 37C(14)(b) —
+(7) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
+(8) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(b) for the purposes of this section, section 14E, 14J or 14L, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
+(9) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(c) in relation to the sum transferred under paragraph (a), subsections (7) to (10) shall apply to the claimant company.
+(10) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment any further deduction which has been allowed under this section or section 14E or 14L ought not to have been so allowed, the Comptroller may, within the year of assessment or within 4 years after the expiration thereof, make such assessment or additional assessment upon the firm or company as may be necessary in order to make good any loss of tax.
 
-[21/2003]
-
-(7) Where for any year of assessment a further deduction account of a company is in credit, the company shall —
-
-(a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
-
-(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this section, section 14E, 14J or 14L,
-
-and any remaining balance in the further deduction account shall be carried forward to be used by the company in the first subsequent year of assessment when the company has chargeable income had the further deduction not been allowed, and so on for subsequent years of assessment until the credit in the further deduction account has been fully used.
-
-[28/92]
-
-(8) Where a tax exempt account of a company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
-
-[28/92]
-
-(9) Section 13B(4) to (7) shall apply, with the necessary modifications, in respect of any dividend paid out of the tax exempt account of the company.
-
-[28/92]
-
-(10) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
-
-(a) any further deduction which has been allowed under this section, section 14E, 14J or 14L; or
-
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
-
-ought not to have been so allowed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
-
-(i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
-
-(ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
-
-[28/92; 11/94; 31/98; 37/2002; 53/2007]
+[Act 19 of 2013 wef 01/01/2014]
 
 (11) In this section —
 
@@ -7228,25 +7000,13 @@ does not exceed $100,000 for each year of assessment.
 
 [Act 29 of 2012 wef 01/04/2012]
 
-(4) Subject to subsection (5), as soon as any amount of deduction is allowed to any company under subsection (1), a sum equal to the amount of the expenditure incurred by the company which qualified for the deduction under subsection (1) shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of this section.
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[22/2011 wef 01/04/2011]
+(5) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[21/2003]
+(6) Section 14B(10) shall apply, with the necessary modifications, to any firm or company to which a deduction is allowed under subsection (1).
 
-(5) Where the company is a transferor company within the meaning of section 37C(19) and where any amount of further deduction allowed under this section is transferred to a claimant company as part of the loss specified under section 37C(14)(b) —
-
-(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
-
-(b) for the purposes of this section, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
-
-(c) in relation to the sum transferred under paragraph (a), subsection (6) shall apply to the claimant company.
-
-[21/2003]
-
-(6) Section 14B(7) to (10) shall apply, with the necessary modifications, to any company to which a deduction is allowed under subsection (1) and, in relation to a deduction allowed to any company under subsection (1)(ii), the references to further deduction in those subsections shall be read as references to a deduction of a sum equal to the amount of the expenditure incurred by the company which qualified for the deduction under subsection (1)(ii).
-
-[22/2011 wef 01/04/2011]
+[Act 19 of 2013 wef 01/01/2014]
 
 (7) In this section —
 
@@ -7318,59 +7078,25 @@ is the amount of qualifying expenditure incurred.
 
 [32/99]
 
-(8) Subject to subsection (9), as soon as a deduction is allowed under this section to a company resident in Singapore, an amount (referred to in this section as further deduction) computed in accordance with the formula
+(8) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-shall be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5).
+(9) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[21/2003]
+(10) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(9) Where the company is a transferor company within the meaning of section 37C(19) and where any amount of further deduction allowed under this section is transferred to a claimant company as part of the loss specified under section 37C(14)(b) —
+(11) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
+(12) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(b) for the purposes of this section, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
+(13) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(c) in relation to the sum transferred under paragraph (a), subsections (10) to (17) and (23) shall apply to the claimant company.
+(14) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[21/2003]
+(15) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(10) Where for any year of assessment the further deduction account of the company is in credit, the company shall —
+(16) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
-
-(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this section,
-
-and any remaining balance in the further deduction account shall be carried forward to be used by the company in the first subsequent year of assessment when the company has chargeable income had the further deduction not been allowed, and so on for subsequent years of assessment until the credit in the further deduction account has been fully used.
-
-[21/2003]
-
-(11) Where the tax exempt account is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
-
-[21/2003]
-
-(12) So much of the amount of any dividends so debited to the tax exempt account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
-
-[21/2003]
-
-(13) Any dividends debited to the tax exempt account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
-
-[21/2003]
-
-(14) Where an amount of dividends exempt from tax under this section has been received by a shareholder, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders.
-
-[21/2003]
-
-(15) Notwithstanding subsections (12) and (14), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[21/2003]
-
-(16) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-[21/2003]
-
-(17) The company shall deliver to the Comptroller a copy of the tax exempt account made up to any date specified by him whenever called upon to do so by notice in writing.
-
-[21/2003]
+(17) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (18) During the qualifying period referred to in subsection (3)(a) or within 5 years after the date of completion of the approved refurbishment project, a person who has been allowed any deduction under this section shall not, without the written approval of the Minister or such person as he may appoint —
 
@@ -7416,19 +7142,9 @@ have the same meanings as in paragraph (b).
 
 [32/99]
 
-(23) Where it appears to the Comptroller that in any year of assessment —
+(23) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment any deduction allowed under this section ought not to have been so allowed, the Comptroller may, in the year of assessment or within 4 years after the expiration thereof, make such assessment or additional assessment upon the person as may be necessary in order to make good any loss of tax.
 
-(a) any deduction allowed under this section; or
-
-(b) any dividend exempted in the hands of any shareholder under this section,
-
-ought not to have been so allowed or exempted, as the case may be, the Comptroller may, in the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
-
-(i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
-
-(ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
-
-[32/99; 53/2007]
+[Act 19 of 2013 wef 01/01/2014]
 
 ### Deduction for upfront land premium
 
@@ -8640,7 +8356,7 @@ where A is —
 
 (n) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35(14) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund;
 
-(o) any sum of money, other than any compensatory payment, paid by a transferee to a transferor after the transferee has failed to notify such person within such period as the Comptroller may require under section 10N(6)(b), in place of any dividend derived from Singapore from which tax has been deducted under section 44 in respect of transferred securities under a securities lending or repurchase arrangement to which section 10N applies;
+(o) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (p) any outgoings and expenses, whether directly or in the form of reimbursements, incurred in respect of any right or benefit granted to any person to acquire shares on or after 1st January 2002 in any company, if the right or benefit is not granted by reason of any office or employment held in Singapore by the person; and
 
@@ -9159,6 +8875,10 @@ there shall be made to that person, computed in accordance with section 16 —
 [29/2010 wef 23/02/2010]
 
 [22/2011 wef 23/02/2010]
+
+[This section is amended by section 20(1)(a) of the Income Tax (Amendment) Act 2016 (Act 2 of 2016) wef 22/02/2014]
+
+[This section is amended by section 29 of the Income Tax (Amendment) Act 2014 (Act 37 of 2014) wef 22/02/2014]
 
 ### Initial and annual allowances for machinery or plant
 
@@ -10772,6 +10492,10 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (12) In this section, and section 43C (except in relation to the definition of “insurer”) —
 
+“accident and health policy” has the same meaning as in the Insurance Act (Cap. 142);
+
+[Act 19 of 2013 wef Y/A 2015 & Sub Ys/A]
+
 “income of the shareholders’ fund” means —
 
 (a) gains or profits on the sale of investments of the shareholders’ fund, whether derived from Singapore or elsewhere; and
@@ -10814,17 +10538,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 “non-participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly of non-participating policies;
 
-“offshore life business” means the business of insuring or reinsuring the liability under any of the following life policies of any life insurance fund established under the Insurance Act:
+“offshore life business” means the business of insuring or reinsuring the liability of a life policy, or accident and health policy, of any life insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;
 
-(a) in relation to direct life insurance, any life policy other than a Singapore life policy;
-
-(b) in relation to facultative life reinsurance, a policy issued to reinsure liability under any life policy referred to in paragraph (a); and
-
-(c) in relation to treaty life reinsurance, a reinsurance policy where —
-
-(i) the ceding party is a company incorporated outside Singapore and not resident in Singapore, or is not a permanent establishment in Singapore; or
-
-(ii) the liability in respect of any life policy referred to in paragraph (a) is ceded by a party which is a company incorporated and resident in Singapore or a permanent establishment in Singapore;
+[Act 19 of 2013 wef Y/A 2015 & Sub Ys/A]
 
 “offshore life insurance surplus”, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained —
 
@@ -10848,13 +10564,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [Deleted by Act 19 of 2013 wef 28/11/2013]
 
-“offshore risk” means any risk outside Singapore and —
+“offshore risk” means a risk or liability that is insured by a policy of any general insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;
 
-(a) in relation to direct general insurance or facultative general reinsurance, the insured is not a person resident in Singapore or a permanent establishment in Singapore; and
-
-(b) in relation to treaty general reinsurance, not less than 75% of the total risk in terms of gross premiums is outside Singapore,
-
-and where any such risk is in transit in Singapore, it shall be deemed to be outside Singapore;
+[Act 19 of 2013 wef Y/A 2015 & Sub Ys/A]
 
 “participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act (Cap. 142) which comprises wholly or partly of participating policies;
 
@@ -10862,11 +10574,7 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 “policy moneys” has the same meaning as in the Insurance Act;
 
-“Singapore life policy” means a life policy as described in the definition of “Singapore policy” in the Insurance Act;
-
-[Act 27/2009, wef Y/A 2006 & Sub Ys/A]
-
-[28/92; 7/2007]
+[Deleted by Act 19 of 2013 wef Y/A 2015 & Sub Ys/A]
 
 “surplus account”, in relation to a participating fund of a life insurer, means the surplus account established and maintained under section 17(6)(a) of the Insurance Act as part of that fund.
 
@@ -10976,17 +10684,9 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 28\. Where a non-resident person carries on the business of air transport or of transmission of messages by cable or by any form of wireless apparatus, he shall be assessable to tax as if he were a non-resident shipowner and section 27 shall apply, with the necessary modifications, to the computation of the gains or profits of the business.
 
-### Income from certain dividends to include tax thereon
+29\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
-29\. The income of a person from a dividend (other than a dividend paid by virtue of section 44(3)) paid by a company liable to tax under this Act shall, where any such tax has been deducted therefrom, be the gross amount before making such deduction; where no such deduction has been made, the income shall be deemed to be such a gross amount as after deduction of tax at the maximum rate deductible at the date of payment would be equal to the amount received.
-
-[Act 27/2009, wef Y/A 2010 & Sub Ys/A]
-
-[32/95]
-
-### Certain undistributed profits may be treated as distributed
-
-30\. Where it appears to the Comptroller that, with a view to the avoidance or reduction of tax, a company has not distributed to its shareholders as dividend profits made in any period which could be distributed without detriment to the company’s business, he may treat any such undistributed profits as distributed, and the persons concerned shall be assessable accordingly.
+30\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
 ### Income arising from settlements
 
@@ -11078,7 +10778,9 @@ the Comptroller may, without prejudice to such validity as it may have in any ot
 
 ### Decision of Comptroller no bar to appeal
 
-34\. Nothing in section 30, 32 or 33 shall prevent the decision of the Comptroller in the exercise of any discretion given to him by any such section from being questioned in an appeal against an assessment in accordance with Part XVIII.
+34\. Nothing in section 32 or 33 shall prevent the decision of the Comptroller in the exercise of any discretion given to him by any such section from being questioned in an appeal against an assessment in accordance with Part XVIII.
+
+[Act 19 of 2013 wef 01/01/2014]
 
 ### Adjustment on change of basis of computing profits of financial instruments
 
@@ -11604,25 +11306,7 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 \*This subsection will be deleted and substituted as set out in section 20(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
-(5) Notwithstanding any other provisions of this Act, where any dividend derived from Singapore by any person is assessed to tax on a basis period ending on a date other than 31st December, any such dividend —
-
-(a) derived during the period from 1st January 1992 to 31st December 1992 shall be treated as his statutory income for the year of assessment 1993 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(b) derived during the period from 1st January 1995 to 31st December 1995 shall be treated as his statutory income for the year of assessment 1996 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(c) derived during the period from 1st January 1999 to 31st December 1999 shall be treated as his statutory income for the year of assessment 2000 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(d) derived during the period from 1st January 2000 to 31st December 2000 shall be treated as his statutory income for the year of assessment 2001 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(e) derived during the period from 1st January 2001 to 31st December 2001 shall be treated as his statutory income for the year of assessment 2002 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(f) derived during the period from 1st January 2003 to 31st December 2003 shall be treated as his statutory income for the year of assessment 2004 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(g) derived during the period from 1st January 2006 to 31st December 2006 shall be treated as his statutory income for the year of assessment 2007 and be charged to tax at the rate applicable to him for that year of assessment;
-
-(h) derived during the period from 1st January 2007 to 31st December 2007 shall be treated as his statutory income for the year of assessment 2008 and be charged to tax at the rate applicable to him for that year of assessment.
-
-[1/90; 20/91; 28/92; 26/93; 1/98; 24/2000; 24/2001; 37/2002; 49/2004; 53/2007]
+(5) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 \*(6) Where the statutory income of any person has been computed by reference to an account made up to a certain day, and such person fails for any reason whatsoever to make up an account to the corresponding day in the year following, the statutory income both of the year of assessment in which such failure occurs and of the 2 years of assessment following shall be computed on such basis as the Comptroller in his discretion thinks fit.
 
@@ -11750,7 +11434,7 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [34/2008 wef 01/04/2008]
 
-(2) [Deleted by Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
+(2) [Deleted by Act 29 of 2012 wef 18/12/2012 wef Y/A 2013 & Sub Ys/A]
 
 ### Limited liability partnership
 
@@ -11940,9 +11624,11 @@ as the case may be;
 
 [34/2005]
 
-(3) Sections 35(15), 43(2) and 46(1)(b) shall not apply to any registered business trust or unitholders of any registered business trust.
+(3) Sections 35(15) and 43(2) shall not apply to any registered business trust or unitholders of any registered business trust.
 
 [34/2005]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (4) In this section, “business trust”, “registered business trust”, “trustee-manager”, “unit” and “unitholder” have the same meanings as in the Business Trusts Act (Cap. 31A).
 
@@ -12364,37 +12050,7 @@ is the total amount payable in respect of the share.
 
 [Act 29 of 2012 wef 18/12/2012]
 
-### Restriction on deduction of trading losses against dividends
-
-37A\.—(1) Notwithstanding anything in this Act but subject to subsection (2), in computing the assessable income of any company for any year of assessment, no deduction shall be allowed for any loss incurred by that company (referred to in this Act as the loss company) against any dividends received by it from an associated company.
-
-[7/79]
-
-(2) The Comptroller may allow such deduction if he is satisfied, having regard to all the circumstances of the case, that the object or one of the main objects of the declaration of dividends by the associated company to the loss company is not for the purpose of receiving any benefit or obtaining any advantage in relation to the application of this Act.
-
-(3) Subsection (1) shall not apply —
-
-(a) in respect of any loss incurred by the loss company after the end of its accounting period during which the relevant date occurs; and
-
-(b) in respect of any dividends paid by the associated company out of the profits of the associated company derived after the end of its accounting period during which the relevant date occurs.
-
-(4) For the purposes of this section —
-
-(a) “private company” and “public company” have the same meanings as in the Companies Act (Cap. 50);
-
-(b) “relevant date” means the date when the associated company first became an associated company of the loss company;
-
-(c) a company shall be deemed to be an associated company of a loss company if —
-
-(i) in the case of a private company at least 25% of the total number of its issued shares are beneficially owned, directly or indirectly, by the loss company;
-
-(ii) in the case of a public company at least 50% of the total number of its issued shares are beneficially owned, directly or indirectly, by the loss company;
-
-(d) any dividends received by the loss company from an associated company, being dividends which are paid by the associated company out of income representing, wholly or in part, dividends paid by another associated company of the loss company to the first-mentioned associated company shall be deemed to be dividends received by the loss company from the second-mentioned associated company; and this provision shall apply notwithstanding any company or companies interposed between the first-mentioned associated company and the second-mentioned associated company;
-
-(e) where a loss company beneficially owns, directly or indirectly, a fraction of the total number of issued shares of a second company which in turn beneficially owns, directly or indirectly, a fraction of the total number of issued shares of a third company, the loss company shall be deemed to have a beneficial ownership of the number of issued shares of the third company equal to such fraction of the total number as results from the multiplication of those 2 fractions; and where the third company beneficially owns, directly or indirectly, a fraction of the total number of issued shares of a fourth company, the loss company shall be deemed to have a beneficial ownership of the number of issued shares of the fourth company equal to such fraction of the total number as results from the multiplication of those 3 fractions, and so on.
-
-[34/2005]
+37A\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
 ### Adjustment of capital allowances, losses or donations between income subject to tax at different rates
 
@@ -13662,11 +13318,11 @@ then the following provisions shall apply:
 
 (ii) an amount computed in accordance with the following formula shall be recoverable by the Comptroller from the qualifying person as a debt due to the Government:
 
-[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
+[22/2011 wef Y/A 2011 & Sub Ys/A]
 
 [29/2010 wef Y/A 2011 & Sub Ys/A]
 
-[22/2011 wef Y/A 2011 & Sub Ys/A]
+[Act 29 of 2012 wef Y/A 2011 & Sub Ys/A]
 
 (11A) Where —
 
@@ -15588,9 +15244,7 @@ RATES OF TAX
 
 [Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
 
-(3) Where dividends are received by any institution, authority, person or fund specified in the First Schedule and such dividends are not exempt under section 13(1)(e), the gross amount of the dividends shall be taxed at the same rate as is applicable to a company.
-
-[1/88]
+(3) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (4) [Deleted by Act 27/2009 wef 29/12/2009]
 
@@ -15804,9 +15458,13 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (i) rental income or income from the management or holding of immovable property but not including gains from the disposal of immovable property;
 
-(ii) income that is ancillary to the management or holding of immovable property but not including gains from the disposal of immovable property and Singapore dividends;
+(ii) income that is ancillary to the management or holding of immovable property but not including gains from the disposal of immovable property;
 
-(iii) income (excluding Singapore dividends) that is payable out of rental income or income from the management or holding of immovable property in Singapore, but not out of gains from the disposal of such immovable property;
+[Act 19 of 2013 wef 01/01/2014]
+
+(iii) income that is payable out of rental income or income from the management or holding of immovable property in Singapore, but not out of gains from the disposal of such immovable property;
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (iv) distribution from an approved sub-trust of the real estate investment trust out of income referred to in paragraph (b)(i) and (ii);
 
@@ -15816,9 +15474,11 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (i) rental income or income from the management or holding of immovable property but not including gains from the disposal of immovable property;
 
-(ii) income that is ancillary to the management or holding of immovable property but not including gains from the disposal of immovable property and Singapore dividends; or
+(ii) income that is ancillary to the management or holding of immovable property but not including gains from the disposal of immovable property; or
 
 [27/2009 wef 01/07/2009]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (c) in the case of any other trust, any income from any trade or business carried on by the trustee.
 
@@ -15860,9 +15520,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [29/2010 wef 22/11/2010]
 
-(3C) Notwithstanding anything in this Act, tax at the rate of 18% shall be levied and paid on the gross amount of any Singapore dividends paid during the period from 1st January 2007 to 31st December 2007 by a company resident in Singapore to a person (being an individual or a Hindu joint family) not resident in Singapore unless such person elects for such income to be taxed under subsection (1)(b).
-
-[53/2007]
+(3C) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
 
@@ -15884,21 +15542,29 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
 
-(i) for every dollar of the first $10,000 of the chargeable income (excluding Singapore dividends), only 25% shall be charged with tax; and
+(i) for every dollar of the first $10,000 of the chargeable income, only 25% shall be charged with tax; and
 
-(ii) for every dollar of the next $290,000 of the chargeable income (excluding Singapore dividends), only 50% shall be charged with tax.
+[Act 19 of 2013 wef 01/01/2014]
+
+(ii) for every dollar of the next $290,000 of the chargeable income, only 50% shall be charged with tax.
 
 [27/2009 wef Y/A 2010 & Sub Ys/A]
 
+[Act 19 of 2013 wef 01/01/2014]
+
 (6A) Notwithstanding subsections (1) and (6), where, in any of the first 3 years of assessment, falling in or after the year of assessment 2008, of a company, the company is a qualifying company, then for that year of assessment there shall be levied and paid upon the chargeable income of the company tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
 
-(a) every dollar of the first $100,000 of the chargeable income (excluding Singapore dividends) shall be exempt from tax; and
+(a) every dollar of the first $100,000 of the chargeable income shall be exempt from tax; and
 
-(b) for every dollar of the next $200,000 of the chargeable income (excluding Singapore dividends), only 50% shall be charged with tax.
+[Act 19 of 2013 wef 01/01/2014]
+
+(b) for every dollar of the next $200,000 of the chargeable income, only 50% shall be charged with tax.
 
 [53/2007]
 
 [27/2009 wef 29/12/2009]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (7) The incomes excluded under subsections (3)(b) and (3A) are —
 
@@ -15966,9 +15632,7 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 “real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and listed on the Singapore Exchange, and that invests or proposes to invest in immovable property and immovable property-related assets;
 
-“Singapore dividends” means any dividend derived from Singapore from which tax is deducted or deductible under section 44.
-
-[28/96; 24/2001; 37/2002; 49/2004; 34/2005; 7/2007; 53/2007]
+[Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (11) Notwithstanding the definition of “qualifying company” in subsection (10), a company that is incorporated on or after 26th February 2013 is not a qualifying company in relation to any year of assessment if —
 
@@ -16422,17 +16086,23 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
 
-(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013;
+[Act 19 of 2013 wef 01/01/2014]
+
+(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
 
-(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013;
+[Act 19 of 2013 wef 01/01/2014]
+
+(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (ad) such other income derived by any company that is directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
@@ -16448,23 +16118,31 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (2) Subsection (1)(a), (aa), (ab), (ac) or (ad), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2013;
+(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) any discount from —
 
 (i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013;
+[Act 19 of 2013 wef 01/01/2014]
+
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018;
 
 [34/2008 wef 16/12/2008]
 
-(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; and
+[Act 19 of 2013 wef 01/01/2014]
+
+(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018; and
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -16480,13 +16158,17 @@ where 50% or more of the issue of those securities is beneficially held or funde
 
 [29/2010 wef 22/11/2010]
 
+[This section is amended by section 33(b) of the Income Tax (Amendment) Act 2018 (Act 45 of 2018) wef 01/01/2014]
+
 (3) Regulations made under subsection (1) may provide for exemption from tax of —
 
 (a) income derived before 1st January 2004 by any financial institution from arranging, underwriting or distributing any qualifying debt securities; and
 
-(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 31st December 2013,
+(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 31st December 2018,
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 and for deduction of losses otherwise than in accordance with section 37(3).
 
@@ -16497,6 +16179,8 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 “break cost”, “financial institution”, “prepayment fee”, “qualifying debt securities”, “redemption premium” and “related party” have the same meanings as in section 13(16);
 
 “debt securities” means bonds, notes, commercial papers, treasury bills and certificates of deposits;
+
+[This section is amended by section 33(c) of the Income Tax (Amendment) Act 2018 (Act 45 of 2018) wef 01/01/2014]
 
 “financial sector incentive (standard tier) company” means a financial sector incentive company within the meaning of section 43Q(3), being one that has been approved by the Minister or such person as he may appoint as a financial sector incentive (standard tier) company;
 
@@ -17382,223 +17066,9 @@ or where the Minister otherwise allows such services to be considered “ship br
 
 DEDUCTION OF TAX AT SOURCE
 
-### Deduction of tax from dividends of companies
+44\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
-44\.—(1) Every company resident in Singapore which —
-
-(a) has paid dividend to any shareholder before 1st January 2003;
-
-(b) has paid dividend to any shareholder at any time during the period from 1st January 2003 to 31st March 2003, and before paying the dividend, has not exercised an option under subsection (10); or
-
-(c) at any time during the period from 1st April 2003 to 31st December 2007 —
-
-(i) has paid dividend to any shareholder;
-
-(ii) has a 44A balance of the company remaining on the day before the date of payment of the dividend after taking into account the tax assessed to be added to the 44A balance under section 44A(5); and
-
-(iii) before paying the dividend, has not exercised an option under subsection (10),
-
-shall be entitled to deduct from the amount of dividend paid, tax at the relevant rate on every dollar of such dividend.
-
-[37/2002; 21/2003]
-
-(2) Every company shall upon payment of a dividend from which tax has been deducted or is deductible, furnish each shareholder with a certificate setting forth the amount of the dividend paid to that shareholder and the amount of tax which the company has deducted or is entitled to deduct in respect of that dividend; and where a dividend is deemed to have been received by a shareholder under section 10J(4)(b), such certificate shall also specify that the dividend is in respect of a share buyback through a special trading counter.
-
-[24/2000; 21/2003]
-
-(3) The Minister may, if he is satisfied that it is expedient in the public interest to do so, authorise the Comptroller to pay a company to which subsection (1) applies in respect of such classes of its shareholders as the Minister may designate, a sum equal to the amount of tax which the designated company would be entitled to deduct under subsection (1) from dividends to be paid to the designated shareholders so as to enable the designated company to pay the dividends to those shareholders as if no tax had been deducted under that subsection.
-
-[32/95; 21/2003]
-
-(4) Upon payment of a dividend by a company in any year of assessment before the year of assessment 2003 under subsection (1)(a) —
-
-(a) where such dividend is the first dividend paid in that year of assessment and where the amount of tax deducted under subsection (1)(a) exceeds the aggregate of the balance, if any, on 1st January of that year of assessment and any tax assessed during the period from 1st January of that year of assessment to the day before the date of payment of the dividend; or
-
-(b) where such dividend is the second or subsequent dividend paid in that year of assessment and where the amount of tax deducted under subsection (1)(a) exceeds the aggregate of the balance, if any, after the preceding dividend and any tax assessed during the period from the date of the payment of the preceding dividend to the day before the date of payment of the second or subsequent dividend,
-
-a charge equal to the amount of such excess shall be paid to the Comptroller within 14 days from the date of payment of the dividend, and any amount of tax which remains unpaid on that date shall, notwithstanding section 85, be paid immediately to the Comptroller.
-
-[1/88; 37/2002]
-
-(5) Where upon the payment of any dividend under subsection (1)(a) the aggregate of the balance, if any, after the date of payment of the preceding dividend and any tax assessed during the period from that date to the day before the date of payment of the first-mentioned dividend exceeds the tax deducted under subsection (1)(a) from the first-mentioned dividend, the excess shall be carried forward as a balance to be set-off against the tax deducted from any ensuing dividend paid on or before 31st December 2002.
-
-[1/88; 37/2002]
-
-(6) Upon payment of a dividend by a company during the period 1st January 2003 to 31st December 2007 from which tax has been deducted, whether the company is entitled to make the deduction or otherwise, the amount of tax deducted shall be deducted from the 44A balance of the company remaining on the day before the date of payment of the dividend, and in the event where the amount to be so deducted exceeds the said balance, a charge equal to the amount of such excess shall be paid to the Comptroller within 14 days from the date of payment of the dividend, and any amount of tax which remains unpaid on that date shall, notwithstanding section 85, be paid immediately to the Comptroller.
-
-[37/2002]
-
-(7) Upon the payment of any dividend referred to in subsection (1)(b) or (c), the 44A balance of the company, after deducting the tax deducted from the dividend, if any, remaining on the date of payment of the dividend, shall be carried forward as a balance to be set-off against the tax deducted from any ensuing dividend paid on or before 31st December 2007 so long as the company has not exercised an irrevocable option under subsection (10).
-
-[37/2002; 21/2003]
-
-(8) For the purpose of subsection (6), where a dividend is paid by a company which has not been subjected to the provisions of section 44 in force immediately before 1st January 2003, or which has exercised an option under subsection (10) before payment of the dividend, the 44A balance of the company remaining on the day before the date of payment of the dividend shall be deemed to be nil.
-
-[37/2002; 21/2003]
-
-(9) Subject to subsection (11), every company resident in Singapore which —
-
-(a) whether has or has not, during the period from 1st January 2003 to 31st March 2003; or
-
-(b) has, during the period from 1st April 2003 to 31st December 2007,
-
-a 44A balance and has paid dividend at any time during those periods shall deduct tax from the dividend as provided under subsection (1) unless otherwise provided in this Act or unless the company has exercised an irrevocable option under subsection (10).
-
-[37/2002]
-
-(10) Any company to which subsection (9) applies may exercise an irrevocable option in writing not to deduct tax under subsection (1) and where such an option is made, the company shall not be entitled to deduct tax under subsection (1) upon the exercise of the option.
-
-[37/2002; 21/2003]
-
-(11) Notwithstanding the exercise of an irrevocable option under subsection (10) by a company, section 44A shall continue to apply to the company.
-
-[37/2002]
-
-(12) Where at any date during the period from 1st April 2003 to 31st December 2007 a company which is resident in Singapore has not exercised an option under subsection (10), and the 44A balance of the company is reduced to nil, the company shall not be entitled to deduct tax from dividends under subsection (1) so long as the balance remains as nil on or after that date.
-
-[37/2002]
-
-(13) Where no charge is payable by a company under subsection (4) or (6) but the amount of tax deducted by the company under subsection (1) exceeds —
-
-(a) the aggregate amount as computed under subsection (4)(a) or (b) less any amount of tax assessed on the company but not paid; or
-
-(b) the amount as computed under subsection (6) less any amount of tax assessed on the company which formed part of the 44A balance of the company but not paid,
-
-as the case may be, a sum equal to such excess shall be paid by the company to the Comptroller immediately on the date of payment of the dividend.
-
-[37/2002]
-
-(14) On the payment of any dividend from which tax has been deducted or is deductible, every company shall render to the Comptroller a statement, in such form as the Comptroller may direct, containing such particulars as may be required for the purpose of determining the balance, the 44A balance or charge immediately after the payment of the dividend.
-
-[1/88; 37/2002; 21/2003]
-
-(15) Without prejudice to subsection (14), within 3 months from the end of each year of assessment before the year of assessment 2008 or such longer period as the Comptroller may allow, every such company shall render to the Comptroller a statement, in such form as the Comptroller may direct, containing such particulars as may be required for the purpose of determining the balance or the 44A balance to be carried forward to the first day of the ensuing year of assessment.
-
-[1/88; 3/89; 32/95; 37/2002]
-
-(16) Where any company has been convicted of an offence for failing to comply with subsection (15), the Comptroller may, by notice in writing, require the company to render to him, within such reasonable time as may be specified in the notice, the statement referred to in that subsection.
-
-[28/92]
-
-(17) Any charge or additional charge paid by a company to the Comptroller under subsection (4) shall be used to set-off any tax assessed on it subsequent to the charge or additional charge but before 1st January 2008 and the amount of such tax to be taken into account for computing the charge or balance under subsection (4) or (5) shall be reduced by the amount of the set-off.
-
-[1/88; 37/2002]
-
-(18) Any charge or additional charge paid by a company to the Comptroller under subsection (6) shall only be used to set-off any tax assessed on the estimated chargeable income for the year of assessment 2003 referred to in section 44A(5).
-
-[37/2002]
-
-(19) If any charge or additional charge referred to in subsection (4) or (6) or section 44A(8) is not paid to the Comptroller within the period prescribed for the payment of the charge, section 87 shall have effect in relation to the charge or additional charge, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of the charge or additional charge and penalties imposed thereon.
-
-[37/2002]
-
-(20) For the purposes of this section —
-
-(a) subject to paragraph (b), where any dividend (other than any dividend paid by virtue of subsection (3)) has been paid under subsection (1) without deduction of tax, such dividend or part thereof, from which a company was entitled to deduct tax, shall be deemed to be a dividend of such a gross amount as after deduction of tax at the relevant rate applicable at the date of payment would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from such dividend or part thereof as tax;
-
-(b) where any dividend has been paid and any amount of the charge referred to in subsection (4) or (6) or any amount of tax payable referred to in subsection (4), (6) or (13) is not paid within 14 days from the date of payment of that dividend or by 31st December of the year in which the dividend is paid, whichever is the later, the dividend shall be chargeable to tax on the basis of the net amount received by the shareholder;
-
-(c) in relation to any company, the balance on 1st January of any year of assessment before the year of assessment 2003 shall be the aggregate of —
-
-(i) the balance carried forward after the payment of the last dividend in the preceding year of assessment as computed in accordance with subsection (5); and
-
-(ii) any tax assessed during the period from the date of the payment of that dividend to the end of the preceding year of assessment;
-
-(d) in determining under subsection (4), (6) or (13) the amount of tax assessed and not paid, any payment made to the Comptroller shall be applied first to the payment of any penalties before the payment of tax;
-
-(e) tax assessed excludes —
-
-(i) tax assessed at the rate of 10% or such other rate as may be prescribed under section 43(9); and
-
-(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O or 43P, or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act;
-
-(f) any balance or tax assessed which has been taken into account for the purpose of determining the charge or balance under subsection (4), (5), (6) or (7) upon the payment of any dividend shall be regarded as having been utilised for that purpose notwithstanding that no set-off has been allowed in respect of that dividend under section 46(3); and
-
-(g) relevant rate of tax —
-
-(i) in relation to a dividend paid from 1st January 2004 to 31st December 2006, is 20%; and
-
-(ii) in relation to a dividend paid from 1st January 2007 to 31st December 2007, is 18%.
-
-[1/88; 28/92; 26/93; 32/95; 1/98; 31/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 11/2004; 49/2004; 7/2007; 53/2007]
-
-### Transitional provisions for company subjected to former imputation system
-
-44A\.—(1) This section shall —
-
-(a) have effect from 1st January 2003 to 31st December 2007; and
-
-(b) apply to all companies resident in Singapore which, before 1st January 2003, had been subjected to the provisions of section 44 in force immediately before that date.
-
-[37/2002]
-
-(2) Any excess carried forward by a company under section 44(5) as at 31st December 2002 (referred to in this Act as the 44A balance) remaining as at any date during the period from 1st January 2003 to 31st December 2007 shall be computed in accordance with this section and section 44(6).
-
-[37/2002]
-
-(3) Except as provided in subsections (5) and (12), any tax or additional tax assessed after 31st December 2002 on a company shall not be added to the 44A balance.
-
-[37/2002]
-
-(4) Notwithstanding anything in this Act, where the tax on any dividend paid by a company in the year 2007 has been deducted at the rate of 20% —
-
-(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 18% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
-
-(b) the difference between the amount of tax deducted at 20% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the 44A balance of the company and deemed to be a part thereof.
-
-[53/2007]
-
-(5) Notwithstanding subsection (3), where a company has furnished to the Comptroller an estimate of its chargeable income for the year of assessment 2003 on or before 31st March 2003, the tax assessed on or after 1st January 2003 on such chargeable income, after deducting any amount of such tax which is set-off under subsection (9) and section 44(18), shall be added to the 44A balance of the company on the date such tax is assessed.
-
-[37/2002]
-
-(6) Where tax assessed on a company for any year of assessment is subsequently reduced at any time from 1st January 2003 to 31st December 2007 —
-
-(a) the amount of tax reduced shall be deemed to be a reduction of tax for that year of assessment which has been previously assessed during the period from 1st January 2003 to the date of the reduction of tax (except for the tax assessed on the estimated chargeable income for the year of assessment 2003 referred to in subsection (5)); and
-
-(b) any remaining amount of tax reduced shall be deemed to be a reduction of tax for that year of assessment which has been assessed on or before 31st December 2002 and any tax assessed on the estimated chargeable income for the year of assessment 2003 referred to in subsection (5).
-
-[37/2002]
-
-(7) For the purpose of subsection (6), tax previously assessed during the period from 1st January 2003 to the date of the reduction of tax shall not include any amount of tax previously assessed which has been deemed to be tax restored under subsection (11)(b).
-
-[37/2002]
-
-(8) Where any amount of tax is deemed to be a reduction under subsection (6)(b), it shall be deducted from the 44A balance of the company remaining as at the day of the reduction, and where the amount to be so deducted exceeds the 44A balance, a charge or additional charge equal to the amount of such excess shall be paid by the company to the Comptroller within 14 days of the notice of charge or additional charge.
-
-[37/2002]
-
-(9) Any charge or additional charge paid by a company to the Comptroller under subsection (8) and any charge or additional charge payable under section 44(6) in force immediately before 1st January 2003 shall be used to set-off any tax assessed prior to 1st January 2008 on it subsequent to the charge or additional charge.
-
-[37/2002]
-
-(10) Where any tax assessed after 31st December 2002 which has been set-off by any charge or additional charge paid by a company to the Comptroller under subsection (8), or section 44(4) or (6) in force immediately before 1st January 2003, is subsequently reduced and the reduction is deemed to be a reduction under subsection (6)(a), the charge or additional charge paid under those subsections shall be restored by the amount of tax reduced, and the restored charge or additional charge shall be paid by the company to the Comptroller within 14 days from the date of the reduction of the tax assessed.
-
-[21/2003]
-
-(11) Where additional tax is assessed at any time from 1st January 2003 to 31st December 2007 on a company for any year of assessment subsequent to a reduction of tax during that period, the amount of additional tax assessed shall be deemed to be a restoration of the following:
-
-(a) firstly, the amount of tax for that year of assessment previously deemed to be a reduction under subsection (6)(a); and
-
-(b) secondly, where the amount of additional tax assessed for that year of assessment exceeds the amount referred to in paragraph (a), the amount of tax for that year of assessment previously deemed to be a reduction under subsection (6)(b),
-
-and any remaining amount of additional tax assessed shall be an additional tax assessed which is not deemed to be tax restored in accordance with paragraphs (a) and (b) and shall not be added to the 44A balance of the company.
-
-[37/2002]
-
-(12) Where any amount of additional tax for a year of assessment is deemed to be tax restored under subsection (11)(b), such amount of additional tax, up to the aggregate of —
-
-(a) the amount of such tax previously deducted from the 44A balance of the company under subsection (8); and
-
-(b) the amount of such tax previously resulting in a charge or additional charge under subsection (8) which was used to set-off any subsequent tax assessed on estimated chargeable income for the year of assessment 2003 under subsection (5),
-
-after deducting any amount of such tax which is set-off under subsection (9) and section 44(17) and (18), may upon the application of the company and subject to the submission of sufficient records and reconciliation of the additional tax to the Comptroller, be added back to the 44A balance of the company on the date which the additional tax is assessed.
-
-[37/2002; 21/2003]
-
-(13) In this section, “tax assessed” and “relevant rate of tax” have the same meanings as in section 44(20).
-
-[37/2002]
+44A\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
 ### Withholding of tax in respect of interest paid to non-resident persons
 
@@ -17668,9 +17138,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (9) This section shall not apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2013, subject to such conditions as the Minister may impose;
+(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2018, subject to such conditions as the Minister may impose;
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017, subject to such conditions as the Minister may impose.
 
@@ -17682,6 +17154,8 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [53/2007]
 
+[This section is amended by section 49 of the Income Tax (Amendment) Act 2014 (Act 37 of 2014) wef 21/02/2014]
+
 ### Application of section 45 to royalties, management fees, etc.
 
 45A\.—(1) Section 45(1) to (8) shall apply in relation to the payment of any income referred to in section 12(6) or (7) by any person to another person not known to him to be resident in Singapore as those provisions apply to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in those provisions to interest shall be construed as a reference to the income referred to in section 12(6) or (7).
@@ -17692,23 +17166,29 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (a) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013.
+(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018.
 
 [34/2008 wef 16/12/2008]
 
 [7/2007]
 
-(2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013, subject to such conditions as the Minister may impose.
+[Act 19 of 2013 wef 01/01/2014]
+
+(2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018, subject to such conditions as the Minister may impose.
 
 [34/2008 wef 16/12/2008]
 
 [34/2005]
 
+[Act 19 of 2013 wef 01/01/2014]
+
 (2B) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to —
 
-(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; or
+(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018; or
 
 [34/2008 wef 16/12/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15th February 2007 to 31st March 2017.
 
@@ -17737,6 +17217,8 @@ and every such amount deducted shall be a debt due from him to the Government an
 “Islamic debt securities” has the same meaning as in section 43N(4).
 
 [34/2005; 53/2007]
+
+[This section is amended by section 50 of the Income Tax (Amendment) Act 2014 (Act 37 of 2014) wef 21/02/2014]
 
 ### Tax deemed withheld and recoverable from person in breach of condition imposed under section 13(4)
 
@@ -17902,7 +17384,7 @@ as section 45 applies to any interest paid by a person to another person not kno
 
 ### Application of section 45 to distribution from any real estate investment trust
 
-45G\.—(1) Subject to subsections (2) and (3) and such conditions as the Comptroller may impose, section 45 shall apply in relation to any distribution (except distribution out of Singapore dividends from which tax is deducted or deductible under section 44) made on or after 18th February 2005 by a trustee of any real estate investment trust —
+45G\.—(1) Subject to subsections (2) and (3) and such conditions as the Comptroller may impose, section 45 shall apply in relation to any distribution by a trustee of any real estate investment trust —
 
 (a) to any person (other than an individual) not known to the trustee to be resident in Singapore to whom section 43(3B) applies; or
 
@@ -17919,6 +17401,8 @@ as section 45 applies to any interest paid by a person to another person not kno
 as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore, and for the purpose of such application, any reference in that section to interest shall be construed as a reference to such distribution.
 
 [34/2005; 7/2007]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18th February 2005 to 31st March 2015.
 
@@ -18048,19 +17532,21 @@ if the payment is liable to be made —
 
 ALLOWANCES FOR TAX CHARGED
 
-### Tax deducted from dividends, interests, etc.
+### Tax deducted from interests, etc.
 
 46\.—(1) Any tax —
 
-(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D, 45E(1)(a), 45GA or 45H or has deducted from any remuneration under section 45B;
+(a) which a person has deducted from any interest or other payment under section 45, 45A, 45C, 45D, 45E(1)(a), 45GA or 45H or has deducted from any remuneration under section 45B;
 
 [10/2006 wef 02/04/2008]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (b) applicable to the share to which any person is entitled in the income of —
 
 (i) a body of persons (other than trustees); or
 
-(ii) a trust in respect of any dividend derived from Singapore from which tax is deducted or deductible under section 44;
+(ii) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (c) which a person has deducted from any payment under section 45F in respect of income accrued to or derived by any person who has made an option under section 43(5); or
 
@@ -18070,39 +17556,17 @@ shall, when the income from which the tax has been deducted or when the share re
 
 [7/79; 23/90; 23/96; 24/2001; 37/2002; 34/2005; 10/2006; 7/2007; 53/2007]
 
-(1A) For the purpose of subsection (1), the amount of tax deducted from a dividend under section 44(1) to be set-off for the purpose of collection against the tax charged on the chargeable income of any person shall not exceed —
+(1A) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) the actual amount of tax deducted from the dividend received by that person; or
+(2) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(b) the amount of tax to be deducted from the dividend in accordance with the proportion of his shareholding in the company,
+(3) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-whichever is the lower.
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-[37/2002]
+(5) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2007 has been deducted at the rate of 20%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44A(4).
-
-[53/2007]
-
-(3) Notwithstanding subsection (1), if any amount of the charge referred to in section 44(4) or (6), or any amount of tax payable referred to in section 44(4), (6) or (13) is not paid within 14 days from the date of payment of any dividend to which the charge or tax relates or by 31st December of the year in which the dividend is paid, whichever is the later, no set-off against tax under subsection (1) shall be allowed in respect of the whole of the dividend.
-
-[37/2002]
-
-(4) No set-off shall be allowed under subsection (1) in respect of any dividend paid to any person by virtue of section 44(3).
-
-[32/95]
-
-(5) Notwithstanding section 93(1), where any person for any year of assessment has paid tax by deduction under section 44 in respect of any dividend deemed to be received by him under section 10J(4)(b) and the amount of tax allowed to him as a set-off under subsection (1) is in excess of the amount of tax payable by him for that year of assessment, he shall not be entitled to a refund of an amount of tax equal to —
-
-(a) the amount of tax deducted under section 44 from such dividend, where the amount of set-off in excess is not less than the amount of tax so deducted; or
-
-(b) the amount of set-off in excess, where the amount of set-off in excess is less than the amount of tax so deducted.
-
-[24/2000]
-
-(6) Any amount of set-off in excess for any year of assessment which is not available for refund to any person under subsection (5) shall not be set-off against the tax payable by the person for any other year of assessment and shall not be regarded as tax assessed for the purposes of sections 44 and 44A.
-
-[24/2000; 37/2002]
+(6) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 ### Special allowance for interest received as trading receipts
 
@@ -18496,7 +17960,9 @@ Trustees, agents and curators
 
 (b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of the receipt of the notice in paragraph (c), be payable by the Government to the defaulting taxpayer by or under any written law, contract or scheme; and
 
-(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer (including an employee appointed under section 9(4) of the Inland Revenue Authority of Singapore Act (Cap. 138A)) by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+
+[Act 21 of 2013 wef 01/01/2014]
 
 then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the tax referred to in paragraph (a), and if the public officer makes such a reduction —
 
@@ -18538,7 +18004,7 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 60\. Where 2 or more persons act in the capacity of trustees of a trust they may be charged jointly or severally with the tax with which they are chargeable in that capacity and shall be jointly and severally liable for payment of the same.
 
-61\. [Repealed by Act 29 of 2012 wef Y/A 2013 & Sub Ys/A]
+61\. [Repealed by Act 29 of 2012 wef 18/12/2012 wef Y/A 2013 & Sub Ys/A]
 
 ## PART XVI
 
@@ -18582,9 +18048,11 @@ RETURNS
 
 [49/2004]
 
-(2) The amount of chargeable income (after deducting the amount not charged to tax under section 43(6) or (6A)) of any company for any year of assessment shall be converted to an equivalent amount in Singapore dollar, and the amount of tax which has been deducted or is deductible from any dividend under section 44 or from any interest under section 45 derived by the company shall remain denominated in Singapore dollar.
+(2) The amount of chargeable income (after deducting the amount not charged to tax under section 43(6) or (6A)) of any company for any year of assessment shall be converted to an equivalent amount in Singapore dollar, and the amount of tax which has been deducted or is deductible from any interest under section 45 derived by the company shall remain denominated in Singapore dollar.
 
 [49/2004]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (3) The amount of statutory income from any trade, business, profession or vocation carried on by any individual for any basis period and the amount of donation made by him during any year shall be converted to an equivalent amount in Singapore dollar, and any amount of allowances, losses or donations which remains unabsorbed at the end of any basis period or at the end of any year, as the case may be, shall be carried forward to the next basis period or next year denominated in Singapore dollar.
 
@@ -18606,15 +18074,9 @@ RETURNS
 
 [49/2004]
 
-(7) Notwithstanding subsection (6), for the purposes of —
+(7) Notwithstanding subsection (6), for the purposes of an election under section 24, where the buyer and seller of any property each uses a different functional currency, the rate of exchange applicable shall be the rate of exchange prevailing as at the date of sale of the property.
 
-(a) converting any dividend to which section 44 applies; or
-
-(b) an election under section 24 where the buyer and seller of any property each uses a different functional currency,
-
-the rate of exchange applicable shall be the rate of exchange prevailing as at the date of payment of the dividend or the date of sale of the property, as the case may be.
-
-[49/2004]
+[Act 19 of 2013 wef 01/01/2014]
 
 (8) Notwithstanding subsection (6), where a person has furnished a tax computation and particulars of income with a return of income in Singapore dollar, and is required under subsection (9) or has obtained the approval of the Comptroller under subsection (10), as the case may be, to furnish a tax computation and particulars of income with a return of income in a non-Singapore dollar functional currency for any year of assessment, such person shall convert the amounts denominated in Singapore dollar into the equivalent amount in the functional currency in accordance with the regulations made under subsection (11).
 
@@ -19534,9 +18996,11 @@ COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 ### Suit for tax by Comptroller
 
-89\.—(1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under sections 44, 44A and 45, may be sued for by way of a specially endorsed writ of summons.
+89\.—(1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under section 45, may be sued for by way of a specially endorsed writ of summons.
 
 [24/2000; 37/2002]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (2) The Comptroller may, in his own name, sue for any such tax, interest, penalty or other sum due and shall be entitled to all costs allowed by law against the person liable thereto.
 
@@ -19642,43 +19106,13 @@ COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 [29/2010 wef 22/11/2010]
 
-(3) Subject to rules made under subsection (4), there shall be remitted the tax payable by any company —
+(3) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
-(a) for the year of assessment 2001, a sum equal to —
+(4) The Minister may make rules for the purpose of giving effect to this section.
 
-(i) 50% on every dollar of the first $25,500 of the specified tax payable by the company for that year of assessment; and
+[Act 19 of 2013 wef 01/01/2014]
 
-(ii) 5% on every dollar exceeding $25,500 of the specified tax payable by the company for that year of assessment; and
-
-(b) for the year of assessment 2002, a sum equal to 5% of the specified tax payable by the company for that year of assessment,
-
-where the Comptroller is satisfied that the remission of tax would be beneficial to the company.
-
-[37/2002]
-
-[29/2010 wef 22/11/2010]
-
-(4) The Minister may make rules to provide for —
-
-(a) the exemption from tax of certain dividends received by a shareholder of a company which has been given the remission of tax under subsection (3) where the dividends are received by him from that company;
-
-(b) the exemption from tax of certain dividends received by a shareholder of a company where the dividends are paid by the company out of any dividend which has been exempt from tax under this subsection;
-
-(c) the computation of the amount of tax payable on any dividend derived from Singapore from which tax has been deducted under section 44 for the purposes of the remission under subsection (3); and
-
-(d) generally giving effect to this section.
-
-[32/99]
-
-(5) In this section, “specified tax payable”, in relation to a company for the year of assessment 2001 or 2002, as the case may be, means the amount of tax payable by the company ascertained by deducting from the tax payable of the company for the year of assessment 2001 or 2002, as the case may be, computed in accordance with this Act, and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) if the company is given tax relief under that Act —
-
-(a) any tax payable on any dividend derived from Singapore from which tax has been deducted under section 44; and
-
-(b) any tax payable on any income which is subject to tax at the rate of 15% under section 43(3).
-
-[32/99; 37/2002]
-
-[29/2010 wef 22/11/2010]
+(5) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 ### Remission of tax of companies for year of assessment 2011
 
@@ -19816,9 +19250,7 @@ but excluding any employee who is also a unitholder of the trust.
 
 (3) Nothing in this section shall operate to extend any time limit for appeal or validate any objection or appeal which is otherwise invalid or authorise the revision of any assessment or other matter which has become final and conclusive.
 
-(4) Any refund to be made under this section shall be reduced by the amount of charge or additional charge which has not been utilised for set-off under sections 44(17) and 44A(9) on the date the refund arises, and where the amount of such charge or additional charge exceeds the amount to be refunded no refund shall be made under this section.
-
-[1/88; 37/2002]
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (5) Where through death, incapacity, bankruptcy, liquidation or other cause a person who would, but for such cause, have been entitled to make a claim under subsection (1) is unable to do so, his executor, trustee or receiver, as the case may be, shall be entitled to have refunded to him for the benefit of such person or his estate any tax paid in excess within the meaning of subsection (1).
 
@@ -19886,13 +19318,13 @@ OFFENCES AND PENALTIES
 
 [2/92; 7/2007]
 
-(4) Where any person has been convicted of an offence for failing to comply with section 44(16) and such conviction is subsequent to a conviction for an offence for failing to comply with section 44(15) in respect of the same year of assessment, he shall be liable to a further penalty of $50 for every day during which the offence is continued after such conviction.
-
-[28/92; 7/2007]
+(4) [Deleted by Act 19 of 2013 wef 01/01/2014]
 
 (5) [Deleted by Act 19 of 2013 wef 28/11/2013]
 
-(6) The Comptroller may compound any offence punishable under this section, and may before judgment stay or compound any proceedings thereunder.
+(6) The Comptroller may compound any offence punishable under this section (including an offence for the contravention of a provision that has been repealed), and may before judgment stay or compound any proceedings thereunder.
+
+[Act 19 of 2013 wef 01/01/2014]
 
 ### Penalty for failure to make return
 
@@ -20114,13 +19546,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/92; 24/2000]
 
-(2) Subject to subsection (3), any penalty imposed under section 13CA(2), (4) or (6), 13R(3) or (5), 37(18B), 44(19), 45(4), 87(1) or 91(4) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+(2) Subject to subsection (3), any penalty imposed under section 13CA(2), (4) or (6), 13R(3) or (5), 37(18B), 45(4), 87(1) or 91(4), or section 44(19) in force immediately before 1st January 2014, shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A]
 
 [43/2008 wef 16/12/2008]
 
 [2/92; 37/2002; 21/2003; 10/2007; 53/2007]
+
+[Act 19 of 2013 wef 01/01/2014]
 
 (3) An action to recover a penalty imposed under section 87(1) on any amount recoverable under section 37H(8) (including interest imposed under section 37H(10)) shall not be brought after the expiration of 6 years from the date on which the cause of action accrued.
 
@@ -20531,17 +19965,7 @@ MISCELLANEOUS
 
 [4/75; 28/80; 34/2005]
 
-### Consequential provision arising from abolition of imputation system
-
-107\. The following provisions shall cease to have effect from 1st January 2008:
-
-(a) sections 13(14), 13A(6), 13B, 13D, 13E, 13H(9) to (14), 13S(10) to (16) and 14B(7)(b), (8) and (9); and
-
-[Act 29 of 2012 wef 18/12/2012]
-
-(b) paragraphs (i) (in relation to paragraph (b)) and (ii) of sections 13A(8), 13H(16), 13S(18) and 14B(10).
-
-[53/2007]
+107\. [Repealed by Act 19 of 2013 wef 01/01/2014]
 
 ### Advance rulings
 
@@ -20567,7 +19991,7 @@ MISCELLANEOUS
 
 FIRST SCHEDULE
 
-Sections 13(1)(e), 42(3) and 106(3)
+Sections 13(1)(e) and 106(3)
 
 Institution, Authority, Person or Fund Exempted
 
@@ -20769,6 +20193,8 @@ Young Men’s Christian Association
 
 Young Women’s Christian Association.
 
+[Act 19 of 2013 wef 01/01/2014]
+
 [29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; 4/2004; S 148/76; S 38/77; S 217/80; S 158/82; S 183/83; S 137/84; S 138/84; S 217/84; S 26/85; S 79/88; S 379/89; S 380/89; S381/90; S382/90; S 383/90; S 317/91; S 562/91; S 210/92; S 412/92; S 259/95; S 33/96; S 67/96; S 302/96; S 372/97; S 372/98; S 267/99; S 485/99; S 220/2003; S 715/2005; S 194/2006]
 
 SECOND SCHEDULE
@@ -20924,7 +20350,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009]
+[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009]
 
 Part C
 
@@ -21665,7 +21091,7 @@ for Information under Part Xxa
 
 [S 595/2012 wef 03/12/2012]
 
-9. [Deleted by S 595/2012 wef 03/12/2012]
+9. [Deleted by S 595/2012 wef 03/12/2012 wef 03/12/2012]
 
 10\. Any other information required to be included with the request under the prescribed arrangement.
 
@@ -23031,6 +22457,17 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
 |302.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
 ||Date of commencement|23 December 2013|
+|303.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|1 January 2014|
+|304.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+||(Related amendments made to Act by)||
+||Date of First Reading|21 October 2013|
+|||(Bill No. 17/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
