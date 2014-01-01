@@ -48,7 +48,7 @@
 
 - [18 Notice of chargeability to be given by property owners](#Notice-of-chargeability-to-be-given-by-property-owners)
 
-- [19 Notice of transfer of property](#Notice-of-transfer-of-property)
+- [19 Notice to be given by owners of property, etc.](#Notice-to-be-given-by-owners-of-property-etc)
 
 - [20 Amendment of Valuation List](#Amendment-of-Valuation-List)
 
@@ -56,7 +56,7 @@
 
 - [21 Tax on new buildings, etc.](#Tax-on-new-buildings-etc)
 
-- [22 Collection of taxes under section 21](#Collection-of-taxes-under-section-21)
+- [22 Collection and refund of Taxes](#Collection-and-refund-of-Taxes)
 
 [**Part IV APPEALS**](#Part-IV)
 
@@ -226,23 +226,13 @@ PRELIMINARY
 
 “electronic service” means the electronic service provided by the Comptroller under section 66(1);
 
-“industrial premises” means premises, not being freight-transport premises, occupied and used for the purpose of private gain, as a mine or as a factory or workshop, but does not include premises occupied and used as a factory or workshop if such premises are primarily occupied and used for the following purposes or for any combination of such purposes:
-
-(a) the purposes of a dwelling-house;
-
-(b) the purposes of a retail shop;
-
-(c) the purposes of distributive wholesale business;
-
-(d) the purposes of storage;
-
-(e) the purposes of a public supply undertaking;
-
-(f) any other purposes, whether or not similar to any of the purposes set out in paragraphs (a) to (e), which are not those of a factory or workshop;
+[Deleted by Act 18 of 2013 wef 01/01/2014]
 
 “Minister” means —
 
-(a) in relation to the definitions of “prescribed structural network” and “public authority” in section 2(1) and sections 2(5), 3(1), 6(7), (8) and (11), 7, 8(2), 9(2) and (3), 23(1) and (3) to (7), 24, 25, 66(13) and 69, the Minister charged with the responsibility for finance; and
+(a) in relation to the definitions of “prescribed structural network” and “public authority” in section 2(1) and sections 2(5), 3(1), 6(7), (8) and (11), 7, 9(2) and (3), 19(12), 23(1) and (3) to (7), 24, 25, 66(13) and 69, the Minister charged with the responsibility for finance; and
+
+[Act 18 of 2013 wef 01/01/2014]
 
 (b) in relation to section 49(1), (3), (4), (7), (8) and (9), the Minister charged with the responsibility for national development;
 
@@ -482,17 +472,23 @@ pay to the Government the sum of which is to be calculated on such basis as may 
 
 [25/63; 24/73]
 
-(2) Any owner of a building claiming under this section a refund of the tax which he has paid in respect of that building, for any period commencing from 1st November in any year to 31st October in the ensuing year, shall submit his claim in writing to the Comptroller not later than 15th November in the ensuing year or such other date as the Minister may by order prescribe.
+(1A) Notwithstanding subsection (1), no refund of tax shall be made with respect to —
 
-[46/96]
+(a) any unbroken period of 30 days or a calendar month or longer that starts on or after 1st January 2014; or
+
+(b) such portion of any unbroken period of 30 days or a calendar month or longer that falls after 31st December 2013.
+
+[Act 18 of 2013 wef 01/01/2014]
+
+(2) An owner of a building claiming under this section a refund of the tax for any period or part thereof falling between 1st November 2012 and 31st December 2013 (both dates inclusive) shall submit his claim in writing to the Comptroller not later than 31st March 2014.
+
+[Act 18 of 2013 wef 01/01/2014]
 
 (3) The Comptroller may, in his discretion, make a refund under this section to the extent of the whole or any part thereof, where —
 
 (a) the person claiming the refund failed to submit his claim within the time specified in subsection (2) and the Comptroller is satisfied as to the reason for such failure; or
 
-(b) part of the continuous period of 30 days falls before 1st November in any year and another part of that period falls on or after that date.
-
-[46/96; 33/2002]
+(b) [Deleted by Act 18 of 2013 wef 01/01/2014]
 
 (4) No refund shall be allowed in respect of any building unless the owner satisfies the Comptroller —
 
@@ -518,15 +514,19 @@ pay to the Government the sum of which is to be calculated on such basis as may 
 
 * 10% from 1st July 2001 —seeProperty Tax (Rates) Order (O 9, 2003 Ed.) (G.N. No. S 205/2001).
 
-(2) The Minister may, by order published in theGazette, direct that the tax payable in respect of properties within any area or areas shall be at such a rate or rates being less than the rate prescribed by this section for such period or periods as may seem equitable to the Minister.
+(2) The Minister may, by order published in theGazette, direct that the tax payable in respect of any property prescribed, or falling within a class of property prescribed, or any part of such property, shall be at a rate or rates less than 36%; and different rates may be specified for different properties or classes of properties prescribed.
 
-(3) The Minister may, by order published in theGazette, direct that the tax payable in respect of —
+[Act 18 of 2013 wef 01/01/2014]
 
-(a) any dwelling-house or part thereof; or
+(3) For the purposes of this Act, a reference to a change in the prescribed class of any property is a reference to the property or part thereof —
 
-(b) any industrial premises,
+(a) being prescribed or falling within a class prescribed by the Minister under subsection (2), where it was previously not so prescribed or it previously did not fall within any prescribed class, as the case may be; or
 
-occupied as such by the person whose name appears in the Valuation List as the owner of the property concerned, shall be at a rate less than the rate prescribed by this section.
+(b) ceasing to be prescribed or to fall within a prescribed class, whether or not it also falls within any other prescribed class,
+
+because of a change in circumstances relating to the property (including a change in the use of the property or part thereof).
+
+[Act 18 of 2013 wef 01/01/2014]
 
 ### Valuation List
 
@@ -606,7 +606,7 @@ Authentication of Valuation List
 
 (3) Any person who fails or neglects without reasonable excuse to give such notice of chargeability or to furnish such return shall be guilty of an offence.
 
-### Notice of transfer of property
+### Notice to be given by owners of property, etc.
 
 19\.—(1) Whenever any estate or interest in any house, building, land or tenement included, or capable of being included, in a Valuation List is sold or transferred whether by instrument or operation of law or otherwise, the vendor or transferor shall, within one month after the sale or transfer, give notice thereof to the Chief Assessor in such form as may be prescribed by the Chief Assessor.
 
@@ -666,7 +666,37 @@ the owner of the property shall, within 15 days after the letting or the increas
 
 [24/73]
 
-(12) [Deleted by Act 23/2010 wef 25/10/2010]
+(12) Without prejudice to subsection (11), where there has been a change in the prescribed class of any property referred to in section 9(3), the owner of the property shall, within 15 days after the date of the change, give notice thereof in writing to the Chief Assessor, unless the Minister, in an order referred to in section 9(2) —
+
+(a) prescribes a period longer than 15 days; or
+
+(b) provides that no notice need be given.
+
+[Act 18 of 2013 wef 01/01/2014]
+
+(12A) Where there has been a change in the prescribed class of any property referred to in section 9(3), the owner of the property shall, notwithstanding the change, continue to be liable to pay the tax in respect of the property he had been paying immediately prior to the change as if no change had occurred until his liability is adjusted under subsection (12B), or subsections (12B) and (12C).
+
+[Act 18 of 2013 wef 01/01/2014]
+
+(12B) Where the Comptroller becomes aware of the change in the prescribed class of any property, the owner of the property shall be liable, as from the date of the change, to pay the tax on the basis of the rate or rates applicable to the property following the change.
+
+[Act 18 of 2013 wef 01/01/2014]
+
+(12C) Without prejudice to subsection (12B), where there is a revised annual value ascribed to the property in a subsequent amended Valuation List pursuant to the change in the prescribed class of the property, the owner of the property shall be liable, as from the date of the change and at the option of the Comptroller, to pay the tax on the revised annual value.
+
+[Act 18 of 2013 wef 01/01/2014]
+
+(12D) For the purposes of subsections (12) to (12C), where planning permission (other than provisional permission) for the making of any material change in the use of the property or part thereof (as the case may be) is given by the competent authority under the Planning Act (Cap. 232) and the circumstances for which such permission is sought correspond to any circumstances resulting in the change in the prescribed class of the property, then the date of the planning permission shall be prima facie evidence of the date of the change in the prescribed class of the property.
+
+[Act 18 of 2013 wef 01/01/2014]
+
+(12E) No tax shall be payable or refundable, as the case may be —
+
+(a) under subsection (12B) or (12C) in respect of any period which is more than 5 years prior to the 1st of January of the year in which a notice of amendment to the Valuation List under section 20 is issued pursuant to the change in the prescribed class of the property; or
+
+(b) under subsection (12B) in respect of any period which is more than 5 years prior to the 1st of January of the year in which the Chief Assessor considers it is not desirable that an amendment be made to the Valuation List in respect of the property notwithstanding the change in the prescribed class thereof.
+
+[Act 18 of 2013 wef 01/01/2014]
 
 (13) Any person who fails to give any notice required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -712,6 +742,10 @@ the Chief Assessor may, in the year referred to in paragraph (a), if he consider
 
 (c) any new building or tenement is erected or any building or tenement is rebuilt, enlarged, altered, improved or demolished;
 
+(ca) there is any change in the prescribed class of any property referred to in section 9(3);
+
+[Act 18 of 2013 wef 01/01/2014]
+
 (d) any property or part thereof, not exempted from the provisions of this Act, has not been included in the Valuation List; or
 
 (e) the Chief Assessor is of the opinion that the annual value of any property or part thereof in the Valuation List required to be assessed on the basis of gross receipts by any order made under section 7 does not correctly represent the annual value as evidenced by the gross receipts arising from the use of that property for the purposes of any trade or business and determined in the manner specified in the order.
@@ -746,9 +780,11 @@ provided that no such alteration or cancellation shall be in respect of any annu
 
 [33/2002]
 
-(2) Notwithstanding subsection (1), any owner who desires to object to an amendment made to the Valuation List under section 20 shall do so within 21 days of the service of the notice referred to in section 20(1).
+(2) Notwithstanding subsection (1), any owner who desires to object to an amendment made to the Valuation List under section 20 shall do so within 30 days of the service of the notice referred to in section 20(1).
 
 [33/2002]
+
+[Act 18 of 2013 wef 01/01/2014]
 
 (3) The Chief Assessor shall consider an objection under subsection (1) or (2) and may —
 
@@ -774,9 +810,11 @@ provided that no such alteration or cancellation shall be in respect of any annu
 
 [33/2002]
 
-(7) Any owner dissatisfied with the decision made by the Chief Assessor under subsection (3)(a) or (c) may, within 21 days of the service of the notice under subsection (4), appeal to the Board in the manner provided in section 29.
+(7) Any owner dissatisfied with the decision made by the Chief Assessor under subsection (3)(a) or (c) may, within 30 days of the service of the notice under subsection (4), appeal to the Board in the manner provided in section 29.
 
 [33/2002]
+
+[Act 18 of 2013 wef 01/01/2014]
 
 (8) Where the Board varies any annual value in the Valuation List under an appeal to the Board, the Chief Assessor shall cause the Valuation List to be amended in accordance with the decision of the Board.
 
@@ -866,15 +904,19 @@ is transferred or leased and thereupon included in the Valuation List (whether f
 
 [24/73; 46/96]
 
-### Collection of taxes under section 21
+### Collection and refund of Taxes
 
-22\.—(1) Where it appears to the Comptroller that any tax is payable in respect of any property under section 19(8) or 21, the Comptroller shall give notice thereof to the owner of the property concerned stating the amount of the tax due and the period for which the tax is payable.
+22\.—(1) Where it appears to the Comptroller that any tax is payable or is to be refunded in respect of any property under section 19(8), (12B) or (12C) or 21, as the case may be, the Comptroller shall give notice thereof to the owner of the property concerned stating the amount of the tax due or tax to be refunded and the period for which the tax is payable or to be refunded, as the case may be.
 
 [24/73]
 
-(2) Any owner who objects to any demand made by the Comptroller under subsection (1) may, within 21 days of the service of such notice, give to the Comptroller notice of objection in such form as the Comptroller may determine stating precisely the grounds of his objection.
+[Act 18 of 2013 wef 01/01/2014]
+
+(2) Any owner who objects to any demand made by the Comptroller under subsection (1) may, within 30 days of the service of such notice, give to the Comptroller notice of objection in such form as the Comptroller may determine stating precisely the grounds of his objection.
 
 [24/73; 33/2002]
+
+[Act 18 of 2013 wef 01/01/2014]
 
 (3) The Comptroller shall consider the objection and may —
 
@@ -894,9 +936,11 @@ and shall serve the owner by post or otherwise with a written notice of his deci
 
 [33/2002]
 
-(5) Any owner dissatisfied with the decision made by the Comptroller under subsection (3)(a) or (c) may, within 21 days after such service, appeal to the Board in the manner provided in section 29.
+(5) Any owner dissatisfied with the decision made by the Comptroller under subsection (3)(a) or (c) may, within 30 days after such service, appeal to the Board in the manner provided in section 29.
 
 [24/73; 33/2002]
+
+[Act 18 of 2013 wef 01/01/2014]
 
 ## PART IV
 
@@ -1256,7 +1300,9 @@ and in default of such payment the tax shall be recoverable from him in the mann
 
 (b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of receipt of the notice in paragraph (c), be payable by the Government to the defaulting taxpayer by or under any written law, contract or scheme; and
 
-(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer (including an employee appointed under section 9(4) of the Inland Revenue Authority of Singapore Act (Cap. 138A)) by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+
+[Act 21 of 2013 wef 01/01/2014]
 
 then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the tax referred to in paragraph (a), and if the public officer makes such a reduction —
 
@@ -2009,6 +2055,16 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of Second and Third Readings|16 September 2010|
 ||Date of commencement|1 January 2012|
 |||(section 4(b))|
+|22.|**Act 18 of 2013—Property Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 13/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|1 January 2014|
+|23.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 17/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 January 2014|
 ## COMPARATIVE TABLE
 
 Property Tax Act
