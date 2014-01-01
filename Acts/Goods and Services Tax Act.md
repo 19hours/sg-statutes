@@ -228,6 +228,8 @@
 
 - [83D No costs or damages arising from seizure to be recoverable unless seizure without reasonable or probable cause](#No-costs-or-damages-arising-from-seizure-to-be-recoverable-unless-seizure-without-reasonable-or-probable-cause)
 
+- [83E Arrest of persons](#Arrest-of-persons)
+
 - [84 Power of Comptroller to obtain information and furnishing of information](#Power-of-Comptroller-to-obtain-information-and-furnishing-of-information)
 
 [**Part XII GENERAL PROVISIONS**](#Part-XII)
@@ -250,7 +252,7 @@
 
 [**FIRST SCHEDULE Registration**](#FIRST-SCHEDULE-Registration)
 
-[**SECOND SCHEDULE Matters to be Treated As Supply of Goods or Services**](#SECOND-SCHEDULE-Matters-to-be-Treated-As-Supply-of-Goods-or-Services)
+[**SECOND SCHEDULE Matters to be treated as Supply of Goods or Services**](#SECOND-SCHEDULE-Matters-to-be-treated-as-Supply-of-Goods-or-Services)
 
 [**THIRD SCHEDULE Valuation — Special Cases**](#THIRD-SCHEDULE-Valuation-—-Special-Cases)
 
@@ -462,9 +464,35 @@ shall be guilty of an offence.
 
 [16/2004]
 
+(6A) Notwithstanding anything in this section, the Comptroller may furnish to any person specified in subsection (6B) any information —
+
+(a) which may be required for the purpose of investigating or prosecuting a person for an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A), the predicate offence of which is an offence under this Act; or
+
+(b) which the Comptroller has reasonable grounds to suspect affords evidence of the commission of an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the predicate offence of which is an offence under this Act,
+
+and the specified person and persons under his command shall not further disclose such information except for the purpose of any investigation or prosecution referred to in paragraph (a), and any person who makes a further disclosure in contravention of this provision shall be guilty of an offence.
+
+[Act 21 of 2013 wef 01/01/2014]
+
+(6B) The persons specified for the purposes of subsection (6A) are as follows:
+
+(a) the Commissioner of Police;
+
+(b) the Director of the Commercial Affairs Department.
+
+[Act 21 of 2013 wef 01/01/2014]
+
 (7) Notwithstanding anything in this section, the Comptroller may publish the names and such other particulars of the persons and places specified in the Sixth Schedule, in such form or manner, as he thinks fit.
 
 [Act 19/2012 wef 01/10/2012]
+
+(8) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
+
+[Act 21 of 2013 wef 01/01/2014]
+
+(9) Notwithstanding anything in this section, the Comptroller may furnish to the Government or any statutory board for any statistical or research purpose any information relating to any person in a manner that does not identify, and is not reasonably capable of being used to identify, that person.
+
+[Act 21 of 2013 wef 01/01/2014]
 
 ## PART III
 
@@ -1596,9 +1624,17 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (e) require the repayment or recovery of a refund or remission under this section where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed;
 
-(f) prohibit the selling, giving or receiving in prescribed circumstances of goods in respect of which a claim for refund has been submitted or endorsed by the prescribed person;
+(f) prohibit the selling, giving or receiving in prescribed circumstances of goods in respect of which a claim for refund has been submitted and approved through the prescribed means;
 
-(g) provide for the seizure and forfeiture of goods referred to in paragraph (f); and
+[Act 21 of 2013 wef 01/01/2014]
+
+(g) provide for the seizure and forfeiture of goods where —
+
+(i) there is reasonable cause to suspect that the goods have been used or are intended to be used by any person in seeking or obtaining any refund referred to in subsection (1), in circumstances that constituted or would constitute an offence under section 62 or 63; or
+
+(ii) there is reasonable cause to believe that the goods may aid in any investigation or prosecution in connection with such offence; and
+
+[Act 21 of 2013 wef 01/01/2014]
 
 (h) make different provisions for different circumstances.
 
@@ -1660,9 +1696,11 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [24/2011 wef 01/01/2012]
 
-(b) where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed, require the tax chargeable on the importation or supply to be paid.
+(b) where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed, require the tax chargeable on the importation or supply (or an amount equivalent thereto) to be paid by a prescribed person.
 
 [50/2004]
+
+[Act 21 of 2013 wef 01/01/2014]
 
 (3) The Comptroller may, for the protection of revenue, impose conditions or restrictions in relation to any import or supply of goods referred to in subsection (1).
 
@@ -1828,9 +1866,27 @@ SPECIAL CASES
 
 [24/2011 wef 01/01/2012]
 
-(3) For the purposes of subsection (2), a person who does not belong in Singapore may be treated as not being a taxable person if as a result he will not be required to be registered under this Act.
+(2B) For the purposes of this Act, goods imported by a taxable person as agent for a person who is not a taxable person and supplied by a substituted agent as agent for the person who is not a taxable person may be treated as imported by the taxable person as principal and supplied by the substituted agent as principal.
+
+[Act 21 of 2013 wef 01/01/2014]
+
+(2C) For the purposes of subsection (2B), unless the Comptroller otherwise allows, goods supplied by the substituted agent for a person who is not a taxable person shall not include goods which, following their import, undergo a treatment or process.
+
+[Act 21 of 2013 wef 01/01/2014]
+
+(2D) For the purposes of subsections (2) and (2B), where the taxable person or the substituted agent, as the case may be, ceases to be a taxable person before making a supply of the goods, and any credit for input tax has been allowed to the taxable person on the importation of the goods —
+
+(a) in the case of subsection (2), the taxable person shall pay to the Comptroller the amount of the credit; and
+
+(b) in the case of subsection (2B), the substituted agent shall pay to the Comptroller the amount of the credit.
+
+[Act 21 of 2013 wef 01/01/2014]
+
+(3) For the purposes of subsections (2) and (2B), a person who does not belong in Singapore may be treated as not being a taxable person if as a result he will not be required to be registered under this Act.
 
 [31/2000]
+
+[Act 21 of 2013 wef 01/01/2014]
 
 (3A) For the purpose of subsection (3), a person shall be treated as belonging in Singapore if —
 
@@ -1846,13 +1902,25 @@ SPECIAL CASES
 
 (5) For the purposes of this section —
 
-(a) a person carrying on a business through a branch or an agency in any country shall be treated as having a business establishment there; and
+(a) a person carrying on a business through a branch or an agency in any country shall be treated as having a business establishment there;
 
-(b) “usual place of residence”, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted.
+[Act 21 of 2013 wef 01/01/2014]
+
+(b) “usual place of residence”, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted; and
 
 [UK VAT Act 1983, s. 32]
 
+[Act 21 of 2013 wef 01/01/2014]
+
 [31/2000]
+
+(c) “substituted agent” means a taxable person who —
+
+(i) is appointed as agent by the person referred to in subsection (2B) who is not a taxable person, to take custody of the goods imported by the taxable person referred to in that subsection; and
+
+(ii) has informed the Comptroller, in such form and manner as the Comptroller may require, of his appointment.
+
+[Act 21 of 2013 wef 01/01/2014]
 
 ### Repayment of tax to persons in business overseas
 
@@ -2248,7 +2316,7 @@ and “refiner” shall be construed accordingly.
 
 [Act 19/2012 wef 01/10/2012]
 
-[Act 21/2013 wef 01/10/2012]
+[Act 21 of 2013 wef 01/10/2012]
 
 ### Customers to account for tax on certain supplies
 
@@ -3676,7 +3744,9 @@ COLLECTION AND ENFORCEMENT
 
 (b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of the receipt of the notice in paragraph (c), be payable by the Government to the defaulting taxpayer by or under any written law, contract or scheme; and
 
-(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer (including an employee appointed under section 9(4) of the Inland Revenue Authority of Singapore Act (Cap. 138A)) by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+
+[Act 21 of 2013 wef 01/01/2014]
 
 then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the tax referred to in paragraph (a), and if the public officer makes such a reduction —
 
@@ -3839,6 +3909,30 @@ then the public officer shall, notwithstanding any other written law, contract o
 [Customs 1995 Ed., s. 127]
 
 [25/96]
+
+### Arrest of persons
+
+83E\.—(1) The Minister may by regulations provide that the Comptroller or an authorised person may, in accordance with this section, arrest without warrant any of the following persons, and may search or cause to be searched, any person so arrested:
+
+(a) any person found committing or attempting to commit, or employing or aiding any person to commit, or abetting the commission of, any offence under section 62 or 63 in connection with any refund sought or obtained pursuant to regulations made under section 25;
+
+(b) any person whom he may reasonably suspect to have in his possession any goods liable to seizure pursuant to regulations made under section 25(2)(g)(i);
+
+(c) any person against whom a reasonable suspicion exists that he has been guilty of any offence under section 62 or 63 in connection with any refund sought or obtained pursuant to regulations made under section 25.
+
+(2) No woman shall be searched except by a woman.
+
+(3) The Comptroller or an authorised person making an arrest without warrant shall, without unnecessary delay and subject to this section as to bail or previous release, take or send the person arrested before a Magistrate’s Court.
+
+(4) The Comptroller or an authorised person shall not detain in custody a person arrested without a warrant for a longer period than under the circumstances of the case is reasonable.
+
+(5) Such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+
+(6) A person who has been arrested by the Comptroller or an authorised person shall not be released except on his own bond or on bail or under the special order in writing of a Magistrate or the Comptroller or authorised person.
+
+(7) If any person liable to arrest under this Act is not arrested at the time of committing the offence for which he is so liable, or after arrest makes his escape, he may, at any time afterwards, be arrested and be dealt with as if he had been arrested at the time of committing the offence.
+
+[Act 21 of 2013 wef 01/01/2014]
 
 ### Power of Comptroller to obtain information and furnishing of information
 
@@ -4326,7 +4420,7 @@ SECOND SCHEDULE
 
 Sections 10, 12(6), (7) and 8(c), 39(5) and 41(6)
 
-Matters to be Treated As Supply of Goods or Services
+Matters to be treated as Supply of Goods or Services
 
 Transfer
 
@@ -4448,7 +4542,7 @@ shall be taken to be its open market value.
 
 (4) This paragraph shall not apply to a supply to which paragraph 10 applies.
 
-2\. [Deleted by Act 20/2010, wef 01/01/2011].
+2\. [Deleted by Act 20/2010 wef 01/01/2011]
 
 Connected persons
 
@@ -4520,9 +4614,9 @@ Meaning of control
 
 (2) This paragraph shall not apply where the terms include any provision for payment by instalments.
 
-6\.[Deleted by Act 20/2010, wef 01/01/2011]
+6\. [Deleted by Act 20/2010 wef 01/01/2011]
 
-7\. [Deleted by Act 19/2009, wef 01/01/2010]
+7\. [Deleted by Act 19/2009 wef 01/01/2010]
 
 Business assets
 
@@ -4770,6 +4864,10 @@ Investment Precious Metals
 
 (ix) Singapore Lion coin;
 
+(x) United Kingdom Britannia coin;
+
+[S 828/2013 wef 01/01/2014]
+
 (e) any of the following silver coins which is or was legal tender in its country of origin, and is of a purity of at least 99.9%:
 
 (i) America Eagle coin;
@@ -4787,6 +4885,10 @@ Investment Precious Metals
 (vii) China Panda coin;
 
 (viii) Mexico Libertad coin;
+
+(ix) United Kingdom Britannia coin;
+
+[S 828/2013 wef 01/01/2014]
 
 (f) any of the following platinum coins which is or was legal tender in its country of origin, and is of a purity of at least 99%:
 
@@ -5429,196 +5531,221 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||||
 |:-|:-|:-|
 |1.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
-||Date of First Reading|26.2.93|
-|||(Bill No. 14/93 published on 27.2.93)|
-||Date of Second Reading|19.3.93|
-||Date Referred to Select Committee|Parl 4 of 1993 presented to Parliament on 7.9.93|
-||Date of Third Reading|12.10.93|
-||Dates of commencement|26.11.93 (except para (3) of Fifth Schedule)|
-
-|
-1.4.94(para (3) of Fifth Schedule)|
-|2.|**G. N. No. S 107/1994**|
-||Date of commencement|Date not available|
-|3.|**1994 Revised Edition—Goods and Services Tax Act**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Referred to Select Committee|Parl 4 of 1993 presented to Parliament on 7 September 1993|
+||Date of Third Reading|12 October 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
+|2.|**1994 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|15 March 1994|
-|4.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+|3.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
 ||(Consequential amendments made by)||
-||Date of First Reading|5.12.95|
-|||(Bill No. 46/95 published on 6.12.95)|
-||Date of Second and Third Readings|18.1.96|
-||Date of commencement|2.2.96|
-|5.|**Act 25 of 1996—Goods and Services Tax (Amendment) Act 1996**|
-||Date of First Reading|21.5.96|
-|||(Bill No. 15/96 published on 22.5.96)|
-||Date of Second and Third Readings|12.7.96|
-||Date of commencement|16.8.96|
-|6.|**1997 Revised Edition—Goods and Services Tax Act**|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
+|4.|**Act 25 of 1996—Goods and Services Tax (Amendment) Act 1996**|
+||Date of First Reading|21 May 1996|
+|||(Bill No. 15/1996 published on 22 May 1996)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|16 August 1996|
+|5.|**1997 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|30 May 1997|
-|7.|**Act 26 of 1999—Goods and Services Tax (Amendment) Act 1999**|
-||Date of First Reading|6.7.99|
-|||(Bill No. 23/99 published on 7.7.99)|
-||Date of Second and Third Readings|4.8.99|
-||Date of commencement|20.8.99|
-|8.|**Act 42 of 1999—Postal Services Act 1999**|
+|6.|**Act 26 of 1999—Goods and Services Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 23/99 published on 7 July 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|20 August 1999|
+|7.|**Act 42 of 1999—Postal Services Act 1999**|
 ||(Consequential amendments made by)||
-||Date of First Reading|11.10.99|
-|||(Bill No. 34/99 published on 12.10.99)|
-||Date of Second and Third Readings|23.11.99|
-||Date of commencement|1.12.99|
-|9.|**G. N. No. S 204/2000—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2000**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 34/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|8.|**G. N. No. S 204/2000—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2000**|
 ||Date of commencement|15 April 2000|
-|10.|**Act 31 of 2000—Goods and Services Tax (Amendment) Act 2000**|
-||Date of First Reading|13.11.2000|
-|||(Bill No. 32/2000 published on 13.11.2000)|
-||Date of Second and Third Readings|22.11.2000|
-||Date of commencement|18.12.2000|
-|11.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
+|9.|**Act 31 of 2000—Goods and Services Tax (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 32/2000 published on 13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|18 December 2000|
+|10.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
 ||(Consequential amendments made by)||
-||Date of First Reading|13.11.2000|
-|||(Bill No. 33/2000 published on 13.11.2000)|
-||Date of Second and Third Readings|22.11.2000|
-||Date of commencement|1.1.2001|
-|12.|**2001 Revised Edition—Goods and Services Tax Act**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 33/2000 published on 13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 January 2001|
+|11.|**2001 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|31 July 2001|
-|13.|**Act 43 of 2002—Goods and Services Tax (Amendment) Act 2002**|
-||Date of First Reading|31.10.2002|
-|||(Bill No. 38/2002 published on 1.11.2002)|
-||Date of Second and Third Readings|5.12.2002|
-||Date of commencement|1.1.2003|
-|14.|**G. N. No. S 649/2002—Goods and Services Tax Act (Amendment of Third Schedule) Order 2002**|
+|12.|**Act 43 of 2002—Goods and Services Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 38/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|5 December 2002|
 ||Date of commencement|1 January 2003|
-|15.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+|13.|**G. N. No. S 649/2002—Goods and Services Tax Act (Amendment of Third Schedule) Order 2002**|
+||Date of commencement|1 January 2003|
+|14.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||(Consequential amendments made by)||
-||Date of First Reading|10.3.2003|
-|||(Bill No. 6/2003 published on 11.3.2003)|
-||Date of Second and Third Readings|21.3.2003|
-||Date of commencement|1.4.2003|
-|16.|**G. N. No. S 205/2003—Goods and Services Tax Act (Amendment of First Schedule) Order 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
+|15.|**G. N. No. S 205/2003—Goods and Services Tax Act (Amendment of First Schedule) Order 2003**|
 ||Date of commencement|1 June 2003|
+|16.|**Act 19 of 2003—Goods and Services Tax (Amendment) Act 2003**|
+||Date of First Reading|28 August 2003|
+|||(Bill No. 19/2003 published on 29 August 2003)|
+||Date of Second and Third Readings|16 October 2003|
+||Date of commencement|1 July 2003 (section 4)|
 |17.|**Act 19 of 2003—Goods and Services Tax (Amendment) Act 2003**|
-||Date of First Reading|28.8.2003|
-|||(Bill No. 19/2003 published on 29.8.2003)|
-||Date of Second and Third Readings|16.10.2003|
-||Date of commencement|1.7.2003(section 4)|
-|18.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
+||Date of First Reading|28 August 2003|
+|||(Bill No. 19/2003 published on 29 August 2003)|
+||Date of Second and Third Readings|16 October 2003|
+||Date of commencement|18 November 2003 (sections 1(1) and 7)|
+|18.|**Act 19 of 2003—Goods and Services Tax (Amendment) Act 2003**|
+||Date of First Reading|28 August 2003|
+|||(Bill No. 19/2003 published on 29 August 2003)|
+||Date of Second and Third Readings|16 October 2003|
+||Date of commencement|1 January 2004 (sections 2, 3, 5 and 6)|
+|19.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
-||Date of First Reading|19.4.2004|
-|||(Bill No. 15/2004 published on 20.4.2004)|
-||Date of Second and Third Readings|19.5.2004|
-||Date of commencement|1.7.2004|
-|19.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
-||(Consequential amendments made by)||
-||Date of First Reading|6.2.2004|
-|||(Bill No. 6/2004 published on 7.2.2004)|
-||Date of Second Reading|19.4.2004|
-||Date Committed to Select Committee|Parl. 5 of 2004|
-||Date of Third Reading|19.10.2004|
-||Date of commencement|8.12.2004|
+||Date of First Reading|19 April 2004|
+|||(Bill No. 15/2004 published on 20 April 2004)|
+||Date of Second and Third Readings|19 May 2004|
+||Date of commencement|1 July 2004|
 |20.|**Act 50 of 2004—Goods and Services Tax (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
-||Date of First Reading|19.10.2004|
-|||(Bill No. 59/2004 published on 20.10.2004)|
-||Date of Second and Third Readings|17.11.2004|
-||Date of commencement|8.12.2004|
-|21.|**2005 Revised Edition—Goods and Services Tax Act**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 59/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|8 December 2004|
+|21.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second Reading|19 February 2004|
+||Referred to Select Committee|Parl. 5 of 2004|
+||Date of Third Reading|19 October 2004|
+||Date of commencement|1 April 2005 (except for sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule)|
+|22.|**2005 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|31 July 2005|
-|22.|**G. N. No. S 647/2005—Goods and Services Tax Act (Amendment of Second Schedule) Order 2005**|
+|23.|**G. N. No. S 647/2005—Goods and Services Tax Act (Amendment of Second Schedule) Order 2005**|
 ||Date of commencement|7 October 2005|
-|23.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
+|24.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 37/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
-|24.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
-||Date of commencement|1 July 2006|
-|25.|**G. N. No. S 328/2007—Goods and Services Tax Act (Amendment of Second Schedule) Order 2007**|
-||Date of commencement|1 July 2007|
-|26.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
+|25.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 15/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
-||Dates of commencement|1 July 2007|
-|||17 February 2006|
-|27.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
+||Date of commencement|17 February 2006|
+|26.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
+||Date of commencement|1 July 2006|
+|27.|**G. N. No. S 328/2007—Goods and Services Tax Act (Amendment of Second Schedule) Order 2007**|
+||Date of commencement|1 July 2007|
+|28.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 15/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
+|29.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 48/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|4 April 2008|
-|28.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
+|30.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
 ||Date of First Reading|20 October 2008|
 |||(Bill No. 29/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
-|29.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
+|31.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
 ||Date of commencement|1 January 2009|
-|30.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+|32.|**Act 37 of 2008—Limited Partnerships Act 2008**|
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|4 May 2009|
-|31.|**G. N. No. S 391/2009—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2009**|
+|33.|**G. N. No. S 391/2009—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2009**|
 ||Date of commencement|1 September 2009|
-|32.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
+|34.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
 ||Date of First Reading|20 July 2009|
 |||(Bill No. 12/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|1 January 2010|
-|33.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
+|35.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
 ||Date of First Reading|19 July 2010|
 |||(Bill No. 15/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
-||Date of commencement|1 October 2010 (Except sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
-|||1 January 2011 (Sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
-|34.|**G. N. No. S 567/2010—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2010**|
+||Date of commencement|1 October 2010 (except sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
+|36.|**G. N. No. S 567/2010—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2010**|
 ||Date of commencement|1 October 2010|
-|35.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+|37.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 16/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2011(Section 2)|
-|36.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|38.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
+||Date of First Reading|19 July 2010|
+|||(Bill No. 15/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|1 January 2011 (sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
+|39.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|37.|**Act 7 of 2011—Private Lotteries Act 2011**|
+|40.|**Act 7 of 2011—Private Lotteries Act 2011**|
 ||Date of First Reading|10 January 2011|
 |||(Bill No. 2/2011 published on 10 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|1 April 2011|
-|38.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 16/2011 published on 17 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|1 January 2012 (Except Section 2)|
-|39.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
-||Date of commencement|1 January 2012|
-|40.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
+|41.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
 ||Date of First Reading|13 August 2012|
 |||(Bill No. 19/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|1 January 2012|
-|41.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|42.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
+||Date of commencement|1 January 2012|
+|43.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 16/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 January 2012 (Except section 2)|
+|44.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 November 2011|
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (Except sections 26 and 29)|
-|42.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
+|45.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
 ||Date of commencement|1 April 2012|
-|43.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
+|46.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 17/2013 published on 17 December 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 October 2012 (section 6)|
+|47.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
 ||Date of First Reading|13 August 2012|
 |||(Bill No. 19/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|1 October 2012 (except sections 5(a) and (d) and 9)|
+|48.|**G. N. No. S 487/2012—Goods and Services Tax Act (Amendment of Second Schedule) Order 2012**|
 ||Date of commencement|1 October 2012|
-|44.|**G. N. No. S 487/2012—Goods and Services Tax Act (Amendment of Second Schedule) Order 2012**|
+|49.|**G. N. No. S 496/2012—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2012**|
 ||Date of commencement|1 October 2012|
-|45.|**G. N. No. S 496/2012—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2012**|
-||Date of commencement|1 October 2012|
-|46.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+|50.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
 ||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|51.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 17/2013 published on 17 December 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 January 2014 (except section 6)|
+|52.|**G.N. No. S 828/2013—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2013**|
+||Date of commencement|1 January 2014|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
