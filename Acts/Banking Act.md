@@ -272,13 +272,13 @@
 
 [**FIRST SCHEDULE Banks**](#FIRST-SCHEDULE-Banks)
 
-[**SECOND SCHEDULE Effect of Merger**](#SECOND-SCHEDULE-Effect-of-Merger)
+[**SECOND SCHEDULE Effect of merger**](#SECOND-SCHEDULE-Effect-of-merger)
 
-[**THIRD SCHEDULE Disclosure of Information**](#THIRD-SCHEDULE-Disclosure-of-Information)
+[**THIRD SCHEDULE Disclosure of information**](#THIRD-SCHEDULE-Disclosure-of-information)
 
-[**FOURTH SCHEDULE Specified Provisions**](#FOURTH-SCHEDULE-Specified-Provisions)
+[**FOURTH SCHEDULE Specified provisions**](#FOURTH-SCHEDULE-Specified-provisions)
 
-[**FIFTH SCHEDULE Definitions in Sections 27, 28, 29 and 38**](#FIFTH-SCHEDULE-Definitions-in-Sections-27-28-29-and-38)
+[**FIFTH SCHEDULE Definitions in sections 27, 28, 29 and 38**](#FIFTH-SCHEDULE-Definitions-in-sections-27-28-29-and-38)
 
 [**Legislative History**](#Legislative-History)
 
@@ -510,6 +510,8 @@ where such deposit is to be made with any person (not being a person specified i
 
 (b) any co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62);
 
+[23/2008 wef 20/10/2008]
+
 (c) any finance company licensed under the Finance Companies Act (Cap. 108);
 
 (d) any merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
@@ -608,7 +610,7 @@ where such deposit is to be made with any person (not being a person specified i
 
 (8) Notwithstanding that subsection (7)(a) or (b) applies to a business, it is not a deposit-taking business if the person carrying on the business —
 
-(a) does not hold himself out as accepting deposits on a day-to- day basis; and
+(a) does not hold himself out as accepting deposits on a day-to-day basis; and
 
 (b) does not accept deposits on a day-to-day basis, whether or not involving the issue of debentures or securities.
 
@@ -652,7 +654,7 @@ where such deposit is to be made with any person (not being a person specified i
 
 5\.—(1) No person or body of persons, whether incorporated or not, other than a bank shall, without the written consent of the Authority —
 
-(a) use the word “bank”or any of its derivatives in any language, or any other word indicating it transacts banking business, in the name, description or title under which the person or body of persons is transacting business in Singapore; or
+(a) use the word “bank” or any of its derivatives in any language, or any other word indicating it transacts banking business, in the name, description or title under which the person or body of persons is transacting business in Singapore; or
 
 (b) make or continue to make any representation to that effect in any bill head, letter paper, notice, advertisement or in any other manner.
 
@@ -1114,7 +1116,7 @@ of a designated financial institution shall continue to be such a controller unl
 
 (ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
 
-(iii) B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
@@ -1866,7 +1868,7 @@ any person in the director group of the bank whether or not the bank has contrav
 
 (8) This section shall not affect any acquisition or holding of a major stake which was approved by the Authority before 18th July 2001\*.
 
-\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 2001).
+\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
 
 [23/2001]
 
@@ -1900,7 +1902,7 @@ any person in the director group of the bank whether or not the bank has contrav
 
 34\.—(1) Notwithstanding sections 30 to 33, where any business was carried on, or any property or investment was held, by a bank in Singapore immediately before 18th July 2001\*with the approval of the Authority (where required) or which did not require the approval of the Authority, the bank may continue to carry on such business or hold such property or investment, as the case may be, for a period of 3 years from 18th July 2001.
 
-\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 2001).
+\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
 
 [23/2001]
 
@@ -2770,7 +2772,7 @@ the Authority may direct the bank to remove the person under subsection (2).
 
 (7) Any bank in Singapore which contravenes subsection (1) or fails to comply with a notice issued under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-(8) No criminal or civil liability shall be incurred by a bank in Singapore, or any person acting on behalf of the bank, in respect of anything done or omitted to be done with reasonable care and in gooFd faith in the discharge or purported discharge of the obligations of the bank under this section.
+(8) No criminal or civil liability shall be incurred by a bank in Singapore, or any person acting on behalf of the bank, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of the obligations of the bank under this section.
 
 (9) In this section, unless the context otherwise requires —
 
@@ -2841,6 +2843,8 @@ the Authority may direct the bank to remove the person under subsection (2).
 ## PART VIIA
 
 VOLUNTARY TRANSFER OF BUSINESS
+
+[Act 10 of 2013 wef 18/04/2013]
 
 Division 1 —
 
@@ -3814,7 +3818,7 @@ under this section.
 
 ### Amendment of Schedules
 
-77A\.—(1) The Minister may from time to time, by order published in the Gazette, amend, add to or vary the Fourth or Fifth Schedule.
+77A\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the Fourth or Fifth Schedule.
 
 [1/2007]
 
@@ -3976,7 +3980,7 @@ SECOND SCHEDULE
 
 Section 14C
 
-Effect of Merger
+Effect of merger
 
 Interpretation
 
@@ -4056,7 +4060,7 @@ THIRD SCHEDULE
 
 Section 47
 
-Disclosure of Information
+Disclosure of information
 
 Part I
 
@@ -4074,61 +4078,97 @@ Persons to whom information may be disclosed
 
 Conditions 
 
-1. Disclosure is permitted in writing by the customer or, if he is deceased, his appointed personal representative.
+1.
+
+Disclosure is permitted in writing by the customer or, if he is deceased, his appointed personal representative.
 
 Any person as permitted by the customer or, if he is deceased, his appointed personal representative.
 
-2. Disclosure is solely in connection with an application for a grant of probate or letters of administration in respect of a deceased customer’s estate.
+2.
+
+Disclosure is solely in connection with an application for a grant of probate or letters of administration in respect of a deceased customer’s estate.
 
 Any person whom the bank in good faith believes is entitled to the grant of probate or letters of administration.
 
-3. Disclosure is solely in connection with —
+3.
+
+Disclosure is solely in connection with —
+
+(a)
+
+where the customer is an individual, the bankruptcy of the customer; or
+
+(b)
+
+where the customer is a body corporate, the winding up of the customer.
 
 All persons to whom the disclosure is necessary for the purpose specified in the first column.
 
 Note: Court may order the proceedings to be held in camera [see section 47(3) and (4)].
 
-(a) where the customer is an individual, the bankruptcy of the customer; or
+4.
 
-(b) where the customer is a body corporate, the winding up of the customer.
+Disclosure is solely with a view to the institution of, or solely in connection with, the conduct of proceedings —
 
-4. Disclosure is solely with a view to the institution of, or solely in connection with, the conduct of proceedings —
+(a)
+
+between the bank and the customer or his surety relating to the banking transaction of the customer;
+
+(b)
+
+between the bank and 2 or more parties making adverse claims to money in an account of the customer where the bank seeks relief by way of interpleader; or
+
+(c)
+
+between the bank and one or more parties in respect of property, whether movable or immovable, in or over which some right or interest has been conferred or alleged to have been conferred on the bank by the customer or his surety.
 
 All persons to whom the disclosure is necessary for the purpose specified in the first column.
 
 Note: Court may order the proceedings to be held in camera [see section 47(3) and (4)].
 
-(a) between the bank and the customer or his surety relating to the banking transaction of the customer;
+5.
 
-(b) between the bank and 2 or more parties making adverse claims to money in an account of the customer where the bank seeks relief by way of interpleader; or
+Disclosure is necessary for —
 
-(c) between the bank and one or more parties in respect of property, whether movable or immovable, in or over which some right or interest has been conferred or alleged to have been conferred on the bank by the customer or his surety.
+(a)
 
-5. Disclosure is necessary for —
+compliance with an order or request made under any specified written law to furnish information, for the purposes of an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
+
+(b)
+
+the making of a complaint or report under any specified written law for an offence alleged or suspected to have been committed under any written law.
 
 Any police officer or public officer duly authorised under the specified written law to carry out the investigation or prosecution or to receive the complaint or report, or any court.
 
-(a) compliance with an order or request made under any specified written law to furnish information, for the purposes of an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
+6.
 
-(b) the making of a complaint or report under any specified written law for an offence alleged or suspected to have been committed under any written law.
-
-6. Disclosure is necessary for compliance with a garnishee order served on the bank attaching moneys in the account of the customer.
+Disclosure is necessary for compliance with a garnishee order served on the bank attaching moneys in the account of the customer.
 
 All persons to whom the disclosure is required to be made under the garnishee order.
 
-7. Disclosure is necessary for compliance with an order of the Supreme Court or a Judge thereof pursuant to the powers conferred under Part IV of the Evidence Act (Cap. 97).
+7.
+
+Disclosure is necessary for compliance with an order of the Supreme Court or a Judge thereof pursuant to the powers conferred under Part IV of the Evidence Act (Cap. 97).
 
 All persons to whom the disclosure is required to be made under the court order.
 
-8. Where the bank is a bank incorporated outside Singapore or a foreign-owned bank incorporated in Singapore, the disclosure is strictly necessary for compliance with a request made by its parent supervisory authority.
+8.
+
+Where the bank is a bank incorporated outside Singapore or a foreign-owned bank incorporated in Singapore, the disclosure is strictly necessary for compliance with a request made by its parent supervisory authority.
 
 The parent supervisory authority of the bank incorporated outside Singapore or the foreign-owned bank incorporated in Singapore, as the case may be.
 
-(a) No deposit information shall be disclosed to the parent supervisory authority.
+(a)
 
-(b) The parent supervisory authority is prohibited by the laws applicable to it from disclosing the customer information obtained by it to any person unless compelled to do so by the laws or courts of the country or territory where it is established.
+No deposit information shall be disclosed to the parent supervisory authority.
 
-9. Disclosure is in compliance with the provisions of this Act, the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 or any notice or directive issued by the Authority to banks.
+(b)
+
+The parent supervisory authority is prohibited by the laws applicable to it from disclosing the customer information obtained by it to any person unless compelled to do so by the laws or courts of the country or territory where it is established.
+
+9.
+
+Disclosure is in compliance with the provisions of this Act, the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 or any notice or directive issued by the Authority to banks.
 
 The Authority or any person authorised or appointed by the Authority.
 
@@ -4150,58 +4190,99 @@ Persons to whom information may be disclosed
 
 Conditions 
 
-1. Disclosure is solely in connection with the performance of duties as an officer or a professional adviser of the bank.
+1.
+
+Disclosure is solely in connection with the performance of duties as an officer or a professional adviser of the bank.
 
 Any —
 
-(a) officer of the bank in Singapore;
+(a)
 
-(b) officer designated in writing by the head office of the bank in Singapore or, in the case of a foreign-owned bank incorporated in Singapore, its parent bank;
+officer of the bank in Singapore;
 
-(c) lawyer, consultant or other professional adviser appointed or engaged by the bank in Singapore under a contract for service; or
+(b)
 
-(d) auditor appointed or engaged by the bank in Singapore, the head office of the bank in Singapore or, in the case of a foreign-owned bank incorporated in Singapore, its parent bank, under a contract for service.
+officer designated in writing by the head office of the bank in Singapore or, in the case of a foreign-owned bank incorporated in Singapore, its parent bank;
+
+(c)
+
+lawyer, consultant or other professional adviser appointed or engaged by the bank in Singapore under a contract for service; or
+
+(d)
+
+auditor appointed or engaged by the bank in Singapore, the head office of the bank in Singapore or, in the case of a foreign-owned bank incorporated in Singapore, its parent bank, under a contract for service.
 
 No disclosure shall be made to any auditor referred to in paragraph (d), other than an auditor appointed or engaged by the bank in Singapore, unless the auditor has given to the bank a written undertaking that he will not disclose any customer information obtained by him in the course of the performance of audit to any person except the head office of the bank in Singapore or, in the case of a foreign-owned bank incorporated in Singapore, its parent bank.
 
-2. Disclosure is solely in connection with the conduct of internal audit of the bank or the performance of risk management.
+2.
+
+Disclosure is solely in connection with the conduct of internal audit of the bank or the performance of risk management.
 
 In the case of —
-(a) a bank incorporated outside Singapore —
 
-(i) the head office or parent bank of the bank;
+(a)
 
-(ii) any branch of the bank outside Singapore designated in writing by the head office of the bank;
+a bank incorporated outside Singapore —
 
-(iii) any related corporation of the bank designated in writing by the head office of the bank;
+(i)
 
-(b) a bank incorporated in Singapore, not being a foreign-owned bank incorporated in Singapore —
+the head office or parent bank of the bank;
 
-(i) the parent bank; or
+(ii)
 
-(ii) any related corporation of the bank designated in writing by the head office of the bank; or
+any branch of the bank outside Singapore designated in writing by the head office of the bank;
 
-(c) a foreign-owned bank incorporated in Singapore —
+(iii)
 
-(i) the parent bank; or
+any related corporation of the bank designated in writing by the head office of the bank;
 
-(ii) any related corporation of the bank designated in writing by the parent bank.
+(b)
 
-3. Disclosure is solely in connection with the performance of operational functions of the bank where such operational functions have been out-sourced.
+a bank incorporated in Singapore, not being a foreign-owned bank incorporated in Singapore —
+
+(i)
+
+the parent bank; or
+
+(ii)
+
+any related corporation of the bank designated in writing by the head office of the bank; or
+
+(c)
+
+a foreign-owned bank incorporated in Singapore —
+
+(i)
+
+the parent bank; or
+
+(ii)
+
+any related corporation of the bank designated in writing by the parent bank.
+
+3.
+
+Disclosure is solely in connection with the performance of operational functions of the bank where such operational functions have been out-sourced.
 
 Any person including the head office of the bank or any branch thereof outside Singapore which is engaged by the bank to perform the out-sourced functions.
 
 If any out-sourced function is to be performed outside Singapore, the disclosure shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
 
-4. Disclosure is solely in connection with —
+4.
 
-Any person participating or otherwise involved in the merger, acquisition or issue, or proposed merger, acquisition or issue, including any of his lawyers or other professional advisers (whether or not the merger or acquisition is subsequently entered into or completed).
+Disclosure is solely in connection with —
 
-(a) the merger or proposed merger of the bank or its financial holding company with another company; or
+(a)
 
-(b) any acquisition or issue, or proposed acquisition or issue, of any part of the share capital of the bank or its financial holding company,
+the merger or proposed merger of the bank or its financial holding company with another company; or
+
+(b)
+
+any acquisition or issue, or proposed acquisition or issue, of any part of the share capital of the bank or its financial holding company,
 
 whether or not the merger or acquisition is subsequently entered into or completed.
+
+Any person participating or otherwise involved in the merger, acquisition or issue, or proposed merger, acquisition or issue, including any of his lawyers or other professional advisers (whether or not the merger or acquisition is subsequently entered into or completed).
 
 4A.
 
@@ -4287,69 +4368,115 @@ professional adviser appointed by the bank or any person referred to in paragrap
 
 independent assessor appointed by the Authority under section 30AAZ of the Monetary Authority of Singapore Act.
 
-5. Disclosure is solely in connection with the restructure, transfer or sale, or proposed restructure, transfer or sale, of credit facilities (whether or not the restructure, transfer or sale is subsequently entered into or completed).
+5.
+
+Disclosure is solely in connection with the restructure, transfer or sale, or proposed restructure, transfer or sale, of credit facilities (whether or not the restructure, transfer or sale is subsequently entered into or completed).
 
 Any transferee, purchaser or any other person participating or otherwise involved in the restructure, transfer or sale, or proposed restructure, transfer or sale, including any of his lawyers or other professional advisers (whether or not the restructure, transfer or sale is subsequently entered into or completed).
 
 No customer information, other than information relating to the relevant credit facilities, shall be disclosed.
 
-6. In the case of a customer who has been issued with a credit or charge card by a bank in Singapore, disclosure is strictly necessary for notification of the suspension or cancellation of the card by the bank by reason of the customer’s default in payment to the bank.
+6.
+
+In the case of a customer who has been issued with a credit or charge card by a bank in Singapore, disclosure is strictly necessary for notification of the suspension or cancellation of the card by the bank by reason of the customer’s default in payment to the bank.
 
 Any financial institution in Singapore which issues credit or charge cards.
 
 No customer information, other than information relating to the following, may be disclosed:
 
-(a) the customer’s name and identity;
-(b) the amount of the debt outstanding on the customer’s credit or charge card;
+(a)
 
-(c) the date of suspension or cancellation of the customer’s credit or charge card, as the case may be.
+the customer’s name and identity;
 
-7. Disclosure is strictly necessary —
+(b)
 
-(a) for the collation, synthesis or processing of customer information by the credit bureau for the purposes of the assessment of the credit-worthiness of the customers of banks; or
+the amount of the debt outstanding on the customer’s credit or charge card;
 
-(b) for the assessment, by other members of the credit bureau specified in the second column, of the credit-worthiness of the customers of banks.
+(c)
+
+the date of suspension or cancellation of the customer’s credit or charge card, as the case may be.
+
+7.
+
+Disclosure is strictly necessary —
+
+(a)
+
+for the collation, synthesis or processing of customer information by the credit bureau for the purposes of the assessment of the credit-worthiness of the customers of banks; or
+
+(b)
+
+for the assessment, by other members of the credit bureau specified in the second column, of the credit-worthiness of the customers of banks.
 
 Any —
 
-(a) credit bureau of which the bank is a member;
-(b) other member of the credit bureau that is —
+(a)
 
-(i) a bank or merchant bank; or
+credit bureau of which the bank is a member;
 
-(ii) a person, or a person belonging to a class of persons, recognised by the Authority, by notification published in theGazette, as authorised to receive the information,
+(b)
 
-(a) No deposit information shall be disclosed.
+other member of the credit bureau that is —
 
-(b) The disclosure by any credit bureau to any person referred to in paragraph (b) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+(i)
+
+a bank or merchant bank; or
+
+(ii)
+
+a person, or a person belonging to a class of persons, recognised by the Authority, by notification published in theGazette, as authorised to receive the information,
 
 where that member receives such information from the credit bureau.
 
-8. Disclosure is strictly necessary for the assessment of the credit-worthiness of the customer in connection with or relating to a bona fide commercial transaction or a prospective commercial transaction.
+(a)
+
+No deposit information shall be disclosed.
+
+(b)
+
+The disclosure by any credit bureau to any person referred to in paragraph (b) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+8.
+
+Disclosure is strictly necessary for the assessment of the credit-worthiness of the customer in connection with or relating to a bona fide commercial transaction or a prospective commercial transaction.
 
 Any other bank or merchant bank in Singapore.
 
 No customer information, other than information of a general nature and not related to the details of the customer’s account with the bank, shall be disclosed.
 
-9. Disclosure is solely in connection with the promotion, to customers of the bank in Singapore, of financial products and services made available in Singapore by any financial institution specified in the second column.
+9.
 
-Any financial institution in Singapore which is licensed or otherwise regulated by the Authority.
+[Deleted by Act 26 of 2012 wef 02/01/2014]
 
-No customer information, other than the customer’s name, identity, address, and contact number shall be disclosed.
+10.
 
-10. Disclosure is solely in connection with the payment of compensation under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 to insured depositors or persons referred to in section 22(7) of that Act.
+Disclosure is solely in connection with the payment of compensation under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 to insured depositors or persons referred to in section 22(7) of that Act.
 
-(a) The deposit insurance and policy owners’ protection fund agency;
+(a)
 
-(a) The disclosure by the deposit insurance and policy owners’ protection fund agency or the Public Trustee to any person referred to in paragraph (c) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+The deposit insurance and policy owners’ protection fund agency;
 
-(b) the Public Trustee; or
+(b)
 
-(b) The disclosure by any person referred to in paragraph (a), (b) or (c) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+the Public Trustee; or
 
-(c) any person authorised or appointed by the deposit insurance and policy owners’ protection fund agency or the Public Trustee (as the case may be) to perform its functions under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
+(c)
 
-(c) The Public Trustee may disclose customer information to such persons or class of persons and subject to such conditions, as may be determined by the Minister.
+any person authorised or appointed by the deposit insurance and policy owners’ protection fund agency or the Public Trustee (as the case may be) to perform its functions under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
+
+(a)
+
+The disclosure by the deposit insurance and policy owners’ protection fund agency or the Public Trustee to any person referred to in paragraph (c) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+(b)
+
+The disclosure by any person referred to in paragraph (a), (b) or (c) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+(c)
+
+The Public Trustee may disclose customer information to such persons or class of persons and subject to such conditions, as may be determined by the Minister.
+
+[Act 26 of 2012 wef 02/01/2014]
 
 [Act 10 of 2013 wef 18/04/2013]
 
@@ -4363,7 +4490,7 @@ In this Schedule, unless the context otherwise requires —
 
 “appointed personal representative”, in relation to a deceased person, means a person appointed as executor or administrator of the estate of the deceased person;
 
-“credit bureau” means a credit bureau recognised as such by the Authority by notification in the Gazette for the purposes of this Schedule;
+“credit bureau” means a credit bureau recognised as such by the Authority by notification in theGazettefor the purposes of this Schedule;
 
 “deposit insurance and policy owners’ protection fund agency” means the deposit insurance and policy owners’ protection fund agency designated under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
 
@@ -4381,6 +4508,8 @@ In this Schedule, unless the context otherwise requires —
 
 “specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Hostage-Taking Act 2010, the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151), the Moneylenders Act 2008 (Act 31 of 2008) and the Prevention of Corruption Act (Cap. 241);
 
+[5/2010 wef 11/02/2010]
+
 “surety”, in relation to a customer of a bank, includes any person who has given the bank security for the liability of the customer by way of a mortgage or a charge.
 
 [23/2001; 31/2005]
@@ -4389,7 +4518,7 @@ FOURTH SCHEDULE
 
 Sections 3(1A) and 77A
 
-Specified Provisions
+Specified provisions
 
 1. Section 76A(2).
 
@@ -4397,9 +4526,9 @@ Specified Provisions
 
 FIFTH SCHEDULE
 
-Sections 27(4), 28(8), 29 (7), 38(9) and 77A
+Sections 27(4), 28(8), 29(7), 38(9) and 77A
 
-Definitions in Sections 27, 28, 29 and 38
+Definitions in sections 27, 28, 29 and 38
 
 1. For the purposes of sections 27, 28 and 29 and this Schedule —
 
@@ -4521,7 +4650,7 @@ Banking Act
 
 (CHAPTER 19)
 
-This Legislative History is provided for the convenience of users of the Banking Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Banking Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -4660,7 +4789,7 @@ This Legislative History is provided for the convenience of users of the Banking
 |28.|**Act 23 of 2008—Co-operative Societies (Amendment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 August 2008|
-|||(Bill No. 19/2008 published on 17 October 2008)|
+|||(Bill No. 19/2008 published on 26 August 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|20 October 2008|
 |29.|**Act 5 of 2010—Moneylenders (Amendment) Act 2010**|
@@ -4692,12 +4821,20 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|||(Section 2 — Amendment to Banking Act)|
 |34.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|35.|**Act 26 of 2012—Personal Data Protection Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 September 2012|
+|||(Bill No. 24/2012 published on 10 September 2012)|
+||Date of Second and Third Readings|15 October 2012|
+||Date of commencement|2 January 2014|
+|||(Section 67(1))|
 ## COMPARATIVE TABLE
 
 Banking Act
@@ -4832,15 +4969,11 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 68 (Repealed by Act 24/2003)
 
-COMPARATIVE TABLE
-
 ## COMPARATIVE TABLE
 
 Banking Act
 
 (CHAPTER 19)
-
-BANKING ACT (CHAPTER 19, 2003 EDITION)
 
 The following provisions in the 1999 Revised Edition of the Banking Act were renumbered by the Law Revision Commissioners in the 2003 Revised Edition.
 
@@ -4850,58 +4983,71 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1999 Ed\. 
 
-2 (3) (Deleted by Act 232001)
+—
 
-4B (1) and (2)
+2 —(3) (Deleted by Act 23/2001)
 
-4B (1)
+4B —(1) and (2)
+
+4B —(1)
 
 (3) to (10)
 
 (2) to (9)
 
-9A (7) (Spent)
+—
 
-10 (3)
+9A —(7) (Spent)
 
-10 (2A)
+10 —(3)
+
+10 —(2A)
 
 (4)
 
 (3)
 
-14A (7) (Deleted by Act 232001)
+—
 
-14A (7)
+14A —(7) (Deleted by Act 23/2001)
+
+14A —(7)
 
 (8)
 
-24 (Repealed by Act 232001)
+—
 
-25 (3)
+24 (Repealed by Act 23/2001)
 
-25 (2A)
+25 —(3)
+
+25 —(2A)
 
 (4)
 
 (3)
 
-(4), (5), (5A), (6), (7), (7A) and (8)
-(Deleted by Act 232001)
+—
+
+(4), (5), (5A), (6), (7), (7A) and (8) (Deleted by Act 23/2001)
 
 (5)
 
 (9)
 
-26 (2) (Omitted, being obsolete by virtue of MAS Notice 610 to Banks issued under section 26(1))
+—
 
-26 (2)
+26 —(2) (Omitted, being obsolete by virtue of MAS Notice 610 to Banks issued under section 26(1))
+
+26 —(2)
 
 (2A)
 
 (3) and (4)
 
 (2B) and (2C)
+
+—
 
 (3) (Omitted, being obsolete by virtue of MAS Notice 610 to Banks issued under section 26(1))
 
@@ -4911,15 +5057,19 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 44 
 
-44 (1)
+44 —(1)
 
-(2) (Deleted by Act 232001)
+—
 
-46A (Repealed by Act 232001)
+(2) (Deleted by Act 23/2001)
 
-54 (2) and (3)
+—
 
-54 (2)
+46A (Repealed by Act 23/2001)
+
+54 —(2) and (3)
+
+54 —(2)
 
 (4)
 
@@ -4933,31 +5083,43 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 55 
 
-56 (Repealed by Act 232001)
+—
 
-57 (Repealed by Act 232001)
+56 (Repealed by Act 23/2001)
 
-59A (Repealed by Act 392002)
+—
 
-77A (3)
+57 (Repealed by Act 23/2001)
 
-77A (2A)
+—
+
+59A (Repealed by Act 39/2002)
+
+77A —(3)
+
+77A —(2A)
 
 (4) to (9)
 
 (3) to (8)
 
-78 (3)
+78 —(3)
 
-78 (2A)
+78 —(2A)
 
 (4) and (5)
 
 (3) and (4)
 
+—
+
 First Schedule (Omitted, being obsolete by virtue of MAS Notice 610 to Banks issued under section 26(1))
 
+—
+
 Second Schedule (Omitted, being obsolete by virtue of MAS Notice 610 to Banks issued under section 26(1))
+
+—
 
 Third Schedule (Omitted, being obsolete by virtue of MAS Notice 610 to Banks issued under section 26(1))
 
