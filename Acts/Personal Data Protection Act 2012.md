@@ -76,7 +76,7 @@
 
 - [26 Transfer of personal data outside Singapore](#Transfer-of-personal-data-outside-Singapore)
 
-[**Part VII ENFORCEMENT OF PARTs III TO VI**](#Part-VII)
+[**Part VII ENFORCEMENT OF PARTS III TO VI**](#Part-VII)
 
 - [27 Alternative dispute resolution](#Alternative-dispute-resolution)
 
@@ -770,7 +770,7 @@ CARE OF PERSONAL DATA
 
 ## PART VII
 
-ENFORCEMENT OF PARTs III TO VI
+ENFORCEMENT OF PARTS III TO VI
 
 ### Alternative dispute resolution
 
