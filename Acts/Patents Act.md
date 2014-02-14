@@ -76,6 +76,10 @@
 
 - [29 Search and examination](#Search-and-examination)
 
+- [29A Eligibility for grant of patent, etc.](#Eligibility-for-grant-of-patent-etc)
+
+- [29B Review of examination report, etc.](#Review-of-examination-report-etc)
+
 - [30 Grant of patent](#Grant-of-patent)
 
 - [31 General power to amend application before grant](#General-power-to-amend-application-before-grant)
@@ -98,7 +102,7 @@
 
 - [38 General power to amend specification after grant](#General-power-to-amend-specification-after-grant)
 
-- [38A Search and examination after grant](#Search-and-examination-after-grant)
+- [38A (Repealed)](#Repealed)
 
 - [39 Restoration of lapsed patents](#Restoration-of-lapsed-patents)
 
@@ -234,7 +238,7 @@
 
 - [94 Extension of privilege for communications with solicitors relating to patent proceedings](#Extension-of-privilege-for-communications-with-solicitors-relating-to-patent-proceedings)
 
-- [95 Privilege for communications with patent agents](#Privilege-for-communications-with-patent-agents)
+- [95 Privilege for communications with patent agents, etc.](#Privilege-for-communications-with-patent-agents-etc)
 
 - [96 Costs and expenses in proceedings before Registrar](#Costs-and-expenses-in-proceedings-before-Registrar)
 
@@ -254,11 +258,13 @@
 
 - [103 Composition of offences](#Composition-of-offences)
 
-[**Part XIX PATENT AGENTS**](#Part-XIX)
+[**Part XIX PATENT AGENTS AND FOREIGN PATENT AGENTS**](#Part-XIX)
 
-- [104 Registration of patent agents](#Registration-of-patent-agents)
+- [104 Registration of patent agents and foreign patent agents](#Registration-of-patent-agents-and-foreign-patent-agents)
 
 - [105 Persons entitled to act as patent agents, etc.](#Persons-entitled-to-act-as-patent-agents-etc)
+
+- [105A Foreign patent agents](#Foreign-patent-agents)
 
 [**Part XX MISCELLANEOUS AND GENERAL**](#Part-XX)
 
@@ -284,7 +290,7 @@
 
 - [115A Forms and directions of Registrar](#Forms-and-directions-of-Registrar)
 
-- [116 Fees to be paid to Office](#Fees-to-be-paid-to-Office)
+- [116 Fees](#Fees)
 
 - [117 Transitional provisions](#Transitional-provisions)
 
@@ -380,6 +386,10 @@ PRELIMINARY
 
 “European Patent Office” means the office of that name established by the European Patent Convention;
 
+“examination” means an examination conducted by an Examiner in relation to an application for a patent to determine such matters as may be prescribed;
+
+[Act 15 of 2012 wef 14/02/2014]
+
 “Examiner” means any person, organisation, entity or foreign or international patent office or organisation appointed by the Registrar for the purpose of referring any question or matter relating to patents (including the conduct of any search, examination or search and examination, in relation to an application for a patent, whether before or after the patent is granted), and includes any Deputy Registrar of Patents, and any Assistant Registrar of Patents or public officer to whom the Registrar has delegated, under section 5(1), any of the Registrar’s powers or functions under this Act;
 
 [Act 15 of 2012 wef 08/04/2013]
@@ -400,13 +410,7 @@ PRELIMINARY
 
 “international exhibition” means an official or officially recognised international exhibition falling within the terms of the Convention on International Exhibitions or falling within the terms of any subsequent treaty or convention replacing that convention;
 
-“international preliminary report on patentability” means —
-
-(a) an international preliminary report on patentability (Chapter I of the Patent Co-operation Treaty); or
-
-(b) an international preliminary report on patentability (Chapter II of the Patent Co-operation Treaty),
-
-referred to in the Regulations under the Patent Co-operation Treaty;
+[Deleted by Act 15 of 2012 wef 14/02/2014]
 
 “inventor”, in relation to an invention, means the actual deviser of the invention and “joint inventor” shall be construed accordingly;
 
@@ -464,11 +468,23 @@ which was missing from the application at the date of filing of the application;
 
 “register”, when used as a noun, means the register of patents maintained under section 42 and, when used as a verb, means, in relation to any thing, to register or register particulars, or enter notice, of that thing in the register and, when used in relation to a person, means to enter his name in the register;
 
+“registered foreign patent agent” means a person whose name is entered in the register of foreign patent agents kept in accordance with the rules made under section 104;
+
+[Act 15 of 2012 wef 14/02/2014]
+
 “registered patent agent” means a person whose name is entered in the register of patent agents kept in accordance with the rules made under section 104;
 
 “Registrar” means the Registrar of Patents and includes any Deputy Registrar of Patents holding office under this Act;
 
 “Registry” means the Registry of Patents established under this Act;
+
+“related national phase application”, in relation to an application for a patent (being an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3)) (referred to in this definition as the application in suit), means an application for protection treated as filed with any prescribed patent office (being an international application for a patent (Singapore) that has entered the national or regional phase in the country or jurisdiction the patent office of which is that prescribed patent office) which is derived from the same international application for a patent (Singapore) (being an international application for a patent (Singapore) that is not subject to any priority claim) as the application in suit;
+
+[Act 15 of 2012 wef 14/02/2014]
+
+“related national phase patent”, in relation to a related national phase application, means a patent granted in respect of the related national phase application by the prescribed patent office in which the related national phase application was treated as filed;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 “relevant authority”, in relation to a pharmaceutical product, means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
 
@@ -485,6 +501,14 @@ which was missing from the application at the date of filing of the application;
 “scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person;
 
 [18/2008 wef 01/12/2008]
+
+“search” means a search conducted by an Examiner in relation to an application for a patent to discover such matters as may be prescribed;
+
+[Act 15 of 2012 wef 14/02/2014]
+
+“supplementary examination” means a supplementary examination conducted by an Examiner in relation to an application for a patent to determine such matters as may be prescribed;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 “TRIPS Agreement” means the Agreement on Trade-Related Aspects of Intellectual Property Rights, set out in Annex 1C to the WTO Agreement, as revised or amended from time to time;
 
@@ -914,9 +938,15 @@ but this subsection shall not prevent an application being initiated by document
 
 (7) The purpose of the abstract is to give technical information and on publication it shall not form part of the state of the art by virtue of section 14(3), and the Registrar may determine whether the abstract adequately fulfils its purpose and, if it does not, may reframe it so that it does.
 
-(8) An application for a patent may be withdrawn at any time before the patent is granted and any withdrawal of such an application may not be revoked.
+(8) Subject to subsection (9), an application for a patent may be withdrawn at any time before the patent is granted and any withdrawal of such an application may not be revoked.
 
 [UK Patents 1977, s. 14]
+
+[Act 15 of 2012 wef 14/02/2014]
+
+(9) A request to withdraw an application for a patent shall be made in such manner as may be prescribed.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Date of filing application
 
@@ -994,13 +1024,15 @@ but this subsection shall not prevent an application being initiated by document
 
 (10) Subsections (8) and (9) do not affect the power of the Registrar under section 107(1) to correct an error or a mistake.
 
-(11) Where, after an application for a patent has been filed and before the conditions in section 30(2) and (3) are satisfied —
+(11) Where, after an application for a patent has been filed, but before the applicant satisfies the condition under section 30(c), or the application is refused, withdrawn, treated as or taken to be withdrawn, or treated as abandoned or as having been abandoned —
 
 (a) a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application; and
 
 (b) the conditions in subsection (1)(a), (b) and (c)(i) or (ii) are satisfied in relation to the new application (without the new application contravening section 84),
 
 the new application shall be treated as having, as its date of filing, the date of filing of the earlier application.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (12) Where an application has a date of filing by virtue of this section, the application shall be treated as having been abandoned unless —
 
@@ -1062,17 +1094,23 @@ PROCEDURE FOR GRANT OF PATENT
 
 is missing from the application.
 
-(4) If the Registrar determines under subsection (3)(a) that not all the formal requirements have been complied with, then the Registrar shall notify the applicant accordingly and shall specify in the notification a period during which the applicant shall have the opportunity —
+(4) If the Registrar determines under subsection (3)(a) that not all the formal requirements have been complied with, then the Registrar shall notify the applicant accordingly, and the applicant shall, within the prescribed period —
 
-(a) to make observations on the Registrar’s determination; and
+(a) make observations on the Registrar’s determination; and
 
-(b) subject to section 84, to amend the application so as to comply with all the formal requirements.
+(b) subject to section 84, amend the application in the prescribed manner, so as to comply with all the formal requirements.
 
-(5) Where subsection (4) applies, the Registrar may refuse the application if the applicant fails to amend the application as mentioned in paragraph (b) of that subsection before the end of the period specified by the Registrar under that subsection.
+[Act 15 of 2012 wef 14/02/2014]
+
+(5) Where subsection (4) applies, the Registrar may refuse the application if the applicant fails to amend the application as mentioned in paragraph (b) of that subsection before the end of the prescribed period under that subsection.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (6) Subsection (5) does not apply if —
 
-(a) the applicant makes observations as mentioned in subsection (4)(a) before the end of the period specified by the Registrar under subsection (4); and
+(a) the applicant makes observations as mentioned in subsection (4)(a) before the end of the prescribed period under subsection (4); and
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (b) as a result of the observations, the Registrar is satisfied that all the formal requirements have been complied with.
 
@@ -1102,271 +1140,187 @@ is missing from the application.
 
 [2/2007 wef 01/04/2007]
 
+(11) Where an application for a patent complies with all the formal requirements under this section within the prescribed period, the Registrar shall send a notification to the applicant.
+
+[Act 15 of 2012 wef 14/02/2014]
+
 ### Search and examination
 
-29\.—(1) Where an application for a patent complies with all the formal requirements, the Registrar shall send a notification to the applicant.
+29\.—(1) The applicant in an application for a patent (referred to in this subsection as the application in suit) shall comply with one of the following paragraphs within the period prescribed for that paragraph:
 
-[2/2007 wef 01/04/2007]
+(a) file a request in the prescribed form for a search report;
 
-[19/2004]
+(b) file a request in the prescribed form for a search and examination report;
 
-(2) The applicant shall comply with any of the following paragraphs which is applicable within the period prescribed for that paragraph:
+(c) file the prescribed documents and a request in the prescribed form for an examination report, where the applicant relies on the final results of —
 
-(a) where the application is not an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3), file a request in the prescribed form and pay the prescribed fee for a search report;
+(i) a search in one corresponding application, corresponding international application or related national phase application; or
 
-(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report;
+(ii) a search during the international phase of the application in suit (if the application in suit is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3));
 
-(c) where a corresponding application for a patent has been filed at any prescribed patent office —
+(d) file the prescribed documents and a request in the prescribed form for a supplementary examination report, where —
 
-(i) file —
+(i) the applicant relies on the final results of —
 
-(A) a copy of the search report in respect of the corresponding application;
+(A) any search and examination as to the substance of one corresponding application, corresponding international application or related national phase application; or
 
-(B) where the search report is not in English, an English translation of the search report;
+(B) any search and examination as to the substance of the application in suit during its international phase (if the application in suit is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3));
 
-(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
+(ii) each claim in the application in suit is related to at least one claim in that corresponding application, corresponding international application or related national phase application, or in the application in suit during its international phase, as the case may be; and
 
-(D) a request in the prescribed form for an examination report,
+(iii) according to those results, each claim in the application in suit appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility).
 
-and pay the prescribed fee for an examination report; or
+(2) Where the applicant has complied with subsection (1)(a), the Registrar shall —
 
-(ii) file —
+(a) cause the application to be subjected to a search by an Examiner; and
 
-(A) in the prescribed form, the prescribed information relating to the corresponding application; and
+(b) upon receiving the search report prepared by the Examiner, send the applicant a copy of that report.
 
-(B) where the prescribed information includes any document that is not in English, an English translation of such document;
+(3) Upon receiving the search report under subsection (2)(b) from the Registrar, the applicant shall, within the prescribed period, file a request in the prescribed form for an examination report.
 
-(d) where a corresponding international application for a patent has been filed —
+(4) Where the applicant has complied with subsection (1)(c) or (3), the Registrar shall —
 
-(i) file —
+(a) cause the application to be subjected to an examination by an Examiner; and
 
-(A) a copy of the international search report in respect of the corresponding international application;
+(b) upon receiving the examination report prepared by the Examiner, send the applicant a copy of that report.
 
-(B) where the international search report is not in English, an English translation of the international search report;
-
-(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
-
-(D) a request in the prescribed form for an examination report,
-
-and pay the prescribed fee for an examination report; or
-
-(ii) file —
-
-(A) in the prescribed form, the prescribed information relating to the corresponding international application; and
-
-(B) where the prescribed information includes any document that is not in English, an English translation of such document;
-
-(e) where the application is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3) —
-
-(i) file —
-
-(A) a copy of the international search report issued in respect of the application;
-
-(B) where the international search report is not in English, an English translation of the international search report;
-
-(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
-
-(D) a request in the prescribed form for an examination report,
-
-and pay the prescribed fee for an examination report; or
-
-(ii) file a notice in the prescribed form of the applicant’s intention to rely on the international preliminary report on patentability in respect of that application.
-
-[19/2004]
-
-[2/2007 wef 01/04/2007]
-
-(3) Where the applicant has filed a request and paid the prescribed fee for a search report under subsection (2)(a), the Registrar shall —
-
-(a) cause the application to be subjected to a search by an Examiner to discover the relevant prior art contained in —
-
-(i) such documentation as may be prescribed; and
-
-(ii) any additional documentation that the Examiner is aware of and considers to be relevant; and
-
-(b) upon receiving the search report prepared by the Examiner, send the applicant a notification and a copy of the search report.
-
-[19/2004]
-
-(4) Upon receiving the search report under subsection (3)(b) from the Registrar, the applicant shall, within the prescribed period, file a request in the prescribed form and pay the prescribed fee for an examination report.
-
-[19/2004]
-
-(5) Where the applicant has filed a request and paid the fee for an examination report under subsection (2)(c)(i), (d)(i) or (e)(i) or (4), the Registrar shall —
-
-(a) cause the application to be subjected to an examination by an Examiner to determine —
-
-(i) whether the conditions specified in sections 13 and 25(4) and (5) have been complied with;
-
-(ii) whether the application discloses any additional matter referred to in section 84(1); and
-
-(iii) whether the application discloses any matter extending beyond that disclosed in the application as filed,
-
-taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been referred to in the search report or international search report, as the case may be; and
-
-(b) upon receiving the examination report prepared by the Examiner, send the applicant a notification and a copy of the examination report.
-
-[19/2004]
-
-(6) Where the applicant has filed a request and paid the fee for a search and examination report under subsection (2)(b), the Registrar shall —
+(5) Where the applicant has complied with subsection (1)(b), the Registrar shall —
 
 (a) cause the application to be subjected to —
 
-(i) a search by an Examiner to discover the relevant prior art contained in —
+(i) a search by an Examiner; and
 
-(A) such documentation as may be prescribed; and
+(ii) an examination by an Examiner; and
 
-(B) any additional documentation that the Examiner is aware of and considers to be relevant; and
+(b) upon receiving the search and examination report prepared by the Examiner, send the applicant a copy of that report.
 
-(ii) an examination by an Examiner to determine —
+(6) Where the applicant has complied with subsection (1)(d), the Registrar shall —
 
-(A) whether the conditions specified in sections 13 and 25(4) and (5) have been complied with;
+(a) cause the application to be subjected to a supplementary examination by an Examiner; and
 
-(B) whether the application discloses any additional matter referred to in section 84(1); and
+(b) upon receiving the supplementary examination report prepared by the Examiner, send the applicant a copy of that report.
 
-(C) whether the application discloses any matter extending beyond that disclosed in the application as filed,
+(7) If it appears to an Examiner during the examination of an application under subsection (4) or (5) that one or more of the matters prescribed for the purposes of this subsection apply, the Examiner shall give the applicant at least one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a copy of the written opinion.
 
-taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search; and
+(8) If it appears to an Examiner during the supplementary examination of an application under subsection (6) that one or more of the matters prescribed for the purposes of this subsection apply, the Examiner shall give the applicant one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a copy of the written opinion.
 
-(b) upon receiving the search and examination report prepared by the Examiner, send the applicant a notification and a copy of the search and examination report.
+(9) The applicant shall, before the examination report, search and examination report or supplementary examination report is issued under subsection (4), (5) or (6), as the case may be —
 
-[19/2004]
+(a) respond in the prescribed manner, within the prescribed period, to the written opinion under subsection (7) or (8), as the case may be; and
 
-(7) If, within the prescribed period under —
+(b) subject to section 84, amend in the prescribed manner, within the prescribed period, the specification of the application in accordance with the prescribed conditions.
 
-(a) paragraph (b), (c)(i) or (ii), (d)(i) or (ii) or (e)(i) or (ii) of subsection (2); or
+(10) Notwithstanding subsection (1), where an applicant who has filed a request for an examination report under subsection (1)(c) or (3), or has filed a request for a search and examination report under subsection (1)(b), does not respond to a written opinion issued under subsection (7), he may —
 
-(b) subsection (4),
+(a) within the prescribed period referred to in subsection (9)(a), withdraw that request; and
 
-an applicant files a request in the prescribed form and pays the prescribed fee for that period to be extended, the applicant shall perform the acts set out in that provision within the prescribed extended period for performing those acts.
+(b) within the prescribed period, file a request for a supplementary examination report under subsection (1)(d).
 
-[19/2004]
+(11) Notwithstanding subsection (1), where an applicant who has filed a request for a supplementary examination report under subsection (1)(d) does not respond to the written opinion issued under subsection (8), he may —
+
+(a) within the prescribed period referred to in subsection (9)(a), withdraw that request; and
+
+(b) within the prescribed period, file a request for a search and examination report under subsection (1)(b) or a request for an examination report under subsection (1)(c).
+
+(12) The application shall be treated as abandoned —
+
+(a) if the applicant fails to comply with subsection (1);
+
+(b) where subsection (10) applies, if the applicant fails to file a request for a supplementary examination report under subsection (1)(d) within the prescribed period referred to in subsection (10)(b); or
+
+(c) where subsection (11) applies, if the applicant fails to file a request for a search and examination report under subsection (1)(b) or a request for an examination report under subsection (1)(c) within the prescribed period referred to in subsection (11)(b).
+
+[Act 15 of 2012 wef 14/02/2014]
+
+### Eligibility for grant of patent, etc.
+
+29A\.—(1) Where an examination report issued under section 29(4), a search and examination report issued under section 29(5) or a supplementary examination report issued under section 29(6) does not contain any unresolved objection, the Registrar shall issue to the applicant a notice of eligibility to proceed to the grant of a patent.
+
+(2) Where the Registrar has issued to the applicant a notice under subsection (1) —
+
+(a) the applicant shall satisfy the conditions under section 30(a) and (c) within the prescribed period; and
+
+(b) if the applicant fails to comply with paragraph (a), the application shall be treated as abandoned.
+
+(3) Where an examination report issued under section 29(4), a search and examination report issued under section 29(5) or a supplementary examination report issued under section 29(6) contains one or more unresolved objections, the Registrar shall issue to the applicant a notice of intention to refuse the application for a patent.
+
+(4) Where the Registrar has issued to the applicant a notice under subsection (3) —
+
+(a) the applicant may, within the prescribed period, apply for a review of the examination report, search and examination report or supplementary examination report, as the case may be, in accordance with section 29B(1); and
+
+(b) if the applicant fails to apply for the review under paragraph (a), the application for a patent shall be refused.
+
+[Act 15 of 2012 wef 14/02/2014]
+
+### Review of examination report, etc.
+
+29B\.—(1) A request for a review of an examination report issued under section 29(4), a search and examination report issued under section 29(5) or a supplementary examination report issued under section 29(6) shall be made by filing —
+
+(a) the prescribed form for the request within the prescribed period; and
+
+(b) written submissions to overcome the unresolved objections in the examination report, search and examination report or supplementary examination report, as the case may be.
+
+(2) At the time the request under subsection (1) is made, the applicant may, subject to section 84, amend in the prescribed manner the specification of the application to overcome one or more unresolved objections in the examination report, search and examination report or supplementary examination report, as the case may be.
+
+(3) Upon completing the review of the examination report, search and examination report or supplementary examination report, as the case may be, the Examiner shall prepare an examination review report.
+
+(4) The examination review report shall specify —
+
+(a) whether the Examiner agrees or disagrees with the examination report, search and examination report or supplementary examination report, as the case may be;
+
+(b) where the applicant has amended the specification of the application under subsection (2), whether each unresolved objection in the examination report, search and examination report or supplementary examination report, as the case may be, has been overcome in the amended specification; and
+
+(c) the reasons for the Examiner’s decision under paragraph (a) and, where applicable, paragraph (b).
+
+(5) Upon receiving the examination review report, the Registrar shall send the applicant —
+
+(a) a copy of that report; and
+
+(b) either —
+
+(i) a notice of eligibility to proceed to the grant of a patent, if the Registrar is satisfied by that report that there is no unresolved objection; or
+
+(ii) a notice of refusal of the application for a patent, if the Registrar is satisfied by that report that there are one or more unresolved objections.
+
+(6) Where the Registrar has sent the applicant a notice under subsection (5)(b)(ii), the refusal of the application for a patent shall take effect upon the expiry of the prescribed period.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Grant of patent
 
-30\.—(1) Subject to subsection (4), the Registrar shall grant the applicant a patent if —
+30\. The Registrar shall grant the applicant a patent if all of the following conditions have been satisfied:
 
-(a) the conditions in subsection (2) are satisfied before the end of the prescribed period or any extension thereof; and
+(a) all the formal requirements have been complied with;
 
-(b) the conditions in subsection (3) have been satisfied.
+(b) the applicant has received a notice of eligibility to proceed to the grant of a patent under section 29A(1) or 29B(5)(b)(i); and
 
-[19/2004]
+(c) the prescribed documents for the grant of the patent have been filed.
 
-(2) The conditions referred to in subsection (1)(a) are —
-
-(a) that all the formal requirements have been complied with;
-
-(b) that the Registrar has received —
-
-(i) the search report referred to in section 29(3) and the examination report referred to in section 29(5);
-
-(ii) the search and examination report referred to in section 29(6);
-
-(iii) the search report referred to in section 29(2)(c)(i), the examination report referred to in section 29(5) and, where the search report is not in English, an English translation of the search report;
-
-(iv) the prescribed information referred to in section 29(2)(c)(ii) or (d)(ii) and, where the prescribed information includes any document that is not in English, an English translation of such document;
-
-(v) the international search report referred to in section 29(2)(d)(i) or (e)(i), the examination report referred to in section 29(5) and, where the international search report is not in English, an English translation of the international search report; or
-
-(vi) in the case of an international application for a patent (Singapore) which has entered the national phase in Singapore under section 86(3), as an alternative to the document or documents referred to in any of sub-paragraphs (ii), (iii), (iv) and (v) —
-
-(A) the notice referred to in section 29(2)(e)(ii);
-
-(B) an international search report in respect of that application;
-
-(C) an international preliminary report on patentability in respect of that application; and
-
-(D) where any report referred to in sub-paragraph (B) or (C) is not in English, an English translation of that report;
-
-(c) that the prescribed documents for the grant of the patent have been filed; and
-
-(d) that the prescribed fee for the grant of the patent has been paid.
-
-[19/2004]
-
-(3) The conditions referred to in subsection (1)(b) are —
-
-(a) that —
-
-(i) the document or documents received by the Registrar under subsection (2)(b) do not disclose any unresolved objection on the ground that the claim or claims in the application do not relate to one invention or to a group of inventions which are so linked as to form a single inventive concept; or
-
-(ii) if any such objection is disclosed, the applicant has satisfied the Registrar that the objection has been resolved;
-
-(b) where the applicant relies on any examination report referred to in section 29(5), any search and examination report referred to in section 29(6) or any international preliminary report on patentability referred to in subsection (2)(b)(vi), that each claim in the application at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid is related to at least one claim in the application at the time the report was issued —
-
-(i) which has been examined; and
-
-(ii) which is referred to in the report;
-
-(c) where the applicant relies on the prescribed information relating to a corresponding application referred to in section 29(2)(c)(ii) or the prescribed information relating to a corresponding international application referred to in section 29(2)(d)(ii), at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid, that each claim in the application is related to at least one claim —
-
-(i) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
-
-(ii) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility);
-
-(d) that the invention is not an invention referred to in section 13(2); and
-
-(e) that there is —
-
-(i) no other application for a patent for the same invention having the same priority date filed by the same applicant or his successor in title; and
-
-(ii) no earlier grant of a patent for the same invention having the same priority date to the same applicant or his successor in title.
-
-[19/2004]
-
-(4) If, within the prescribed period under subsection (1)(a) —
-
-(a) an appeal is filed in court in respect of an application; and
-
-(b) the applicant applies to the court to extend that period while the appeal is pending,
-
-the court may extend that period to such date as the court may determine.
-
-[19/2004]
-
-(5) Where the conditions in subsection (2) are not satisfied before the end of the prescribed period under subsection (1)(a) or any extension thereof, the applicant shall be deemed to have abandoned his application at the end of that period.
-
-[19/2004]
-
-(6) If the Registrar is of the opinion that any condition in subsection (3) has not been satisfied —
-
-(a) the Registrar shall send a notification to the applicant setting out the grounds for the Registrar’s objection to granting a patent;
-
-(b) the applicant shall have the right to respond to the Registrar’s objection within a period specified by the Registrar;
-
-(c) unless the Registrar withdraws his objection, the applicant shall, within a period specified by the Registrar and subject to section 84, amend the specification of his application in accordance with the prescribed conditions, with a view to satisfying the conditions in subsection (3); and
-
-(d) if any condition in subsection (3) remains unsatisfied at the end of the period referred to in paragraph (c), the applicant shall be deemed to have abandoned his application at the end of that period.
-
-[19/2004]
+[Act 15 of 2012 wef 14/02/2014]
 
 ### General power to amend application before grant
 
-31\.—(1) If it appears to an Examiner during the examination of an application that —
+31\.—(1) Subject to subsections (2), (3) and (4), the applicant may, of his own volition or otherwise, amend the application or the specification thereof.
 
-(a) the conditions specified in sections 13 and 25(4) and (5) have not been complied with; or
+(2) The applicant shall not be entitled to amend the application or specification unless —
 
-(b) the application discloses —
+(a) he has made a request to do so to the Registrar —
 
-(i) any additional matter referred to in section 84(1); or
+(i) in the prescribed manner; and
 
-(ii) any matter extending beyond that disclosed in the application for the patent as filed,
+(ii) within the prescribed period; and
 
-the Examiner shall give the applicant at least one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a notification and a copy of the written opinion.
+(b) the request is accompanied by the prescribed documents.
 
-[19/2004]
+(3) The applicant may only amend the application or specification in accordance with the prescribed conditions and subject to section 84.
 
-(2) The applicant shall, before the examination report is issued, have the right —
+(4) If the applicant fails to comply with any requirement under subsection (2) or (3), the Registrar shall —
 
-(a) to respond in the prescribed manner to the written opinion within any prescribed period; and
+(a) refuse the applicant’s request to amend the application or specification; and
 
-(b) subject to section 84, to amend in the prescribed manner the specification of the application in accordance with the prescribed conditions.
+(b) inform the applicant of the refusal.
 
-[19/2004]
-
-(3) Notwithstanding subsection (1), during any period prescribed for the purposes of this subsection, the applicant may, in accordance with the prescribed conditions and subject to section 84, amend the application of his own volition.
-
-[19/2004]
+[Act 15 of 2012 wef 14/02/2014]
 
 32\. [Repealed by Act 19/2004]
 
@@ -1452,9 +1406,11 @@ PROVISIONS AS TO PATENTS AFTER GRANT
 
 [30/2001]
 
-(2) The Registrar shall, at the same time as he publishes a notice under subsection (1)(b) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters (including the prescribed information under sections 29 and 30) constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
+(2) The Registrar shall, at the same time as he publishes a notice under subsection (1)(b) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
 
 [UK Patents 1977, s. 24]
+
+[Act 15 of 2012 wef 14/02/2014]
 
 [30/2001]
 
@@ -1488,11 +1444,13 @@ PROVISIONS AS TO PATENTS AFTER GRANT
 
 (a) that there was an unreasonable delay by the Registrar in granting the patent;
 
-(b) where the patent was granted on the basis of prescribed information relating to a corresponding application referred to in section 29(2)(c)(ii), that —
+(b) where the patent was granted on the basis of any prescribed documents referred to in section 29(1)(d) relating to one corresponding application or related national phase application, that —
 
-(i) there was an unreasonable delay in the issue of the corresponding patent; and
+(i) there was an unreasonable delay in the issue of the corresponding patent or related national phase patent (as the case may be); and
 
-(ii) the patent office that granted the corresponding patent has extended the term of the corresponding patent on the basis of such delay;
+(ii) the patent office that granted the corresponding patent or related national phase patent (as the case may be) has extended the term of the corresponding patent or related national phase patent (as the case may be) on the basis of such delay;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (c) where the subject of the patent includes any substance which is an active ingredient of any pharmaceutical product, that —
 
@@ -1502,69 +1460,29 @@ PROVISIONS AS TO PATENTS AFTER GRANT
 
 [19/2004]
 
-(2) A delay by the Registrar in granting a patent shall not be treated as an unreasonable delay under subsection (1)(a) unless —
+(2) A delay by the Registrar in granting a patent shall not be treated as an unreasonable delay under subsection (1)(a) unless such requirements as may be prescribed are satisfied.
 
-(a) the interval between the date of filing of the application for the patent and the date of issue of the certificate of grant, excluding any period attributable to an act or omission of the applicant, exceeds 4 years; or
+[Act 15 of 2012 wef 14/02/2014]
 
-(b) the interval between the date on which the applicant —
+(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact a particular type of unreasonable delay by the Registrar in granting the patent, the Registrar shall extend the term of the patent by such period as may be prescribed for that type of unreasonable delay.
 
-(i) filed a request for a search and examination report in accordance with section 29(2)(b); or
-
-(ii) filed a request for an examination report in accordance with section 29(2)(c)(i), (d)(i) or (e)(i) or (4),
-
-and the date of issue of the certificate of grant, excluding any period attributable to an act or omission of the applicant, exceeds 2 years.
-
-[19/2004]
-
-(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact an unreasonable delay under subsection (1)(a), the Registrar shall extend the term of the patent —
-
-(a) in a case to which subsection (2)(a) applies, by the period by which the interval referred to in subsection (2)(a) exceeds 4 years;
-
-(b) in a case to which subsection (2)(b) applies, by the period by which the interval referred to in subsection (2)(b) exceeds 2 years; or
-
-(c) in a case to which both paragraphs (a) and (b) of subsection (2) apply, by the period by which —
-
-(i) the interval referred to in subsection (2)(a) exceeds 4 years; or
-
-(ii) the interval referred to in subsection (2)(b) exceeds 2 years,
-
-whichever is the longer period.
-
-[19/2004]
+[Act 15 of 2012 wef 14/02/2014]
 
 (4) Where the proprietor of a patent has made an application under subsection (1)(b) and has satisfied the Registrar of the matters referred to in sub-paragraphs (i) and (ii) of subsection (1)(b), the Registrar may, if the Registrar thinks fit, extend the term of the patent by such period, not exceeding 5 years, as the Registrar may determine.
 
 [19/2004]
 
-(5) A curtailment of the opportunity to exploit a patent, the subject of which includes a substance which is an active ingredient of any pharmaceutical product, caused by the process of obtaining marketing approval for a pharmaceutical product, being the first pharmaceutical product to obtain marketing approval which uses the substance as an active ingredient, shall not be treated as an unreasonable curtailment under subsection (1)(c) unless —
+(5) A curtailment of the opportunity to exploit a patent, the subject of which includes a substance which is an active ingredient of any pharmaceutical product, caused by the process of obtaining marketing approval for a pharmaceutical product, being the first pharmaceutical product to obtain marketing approval which uses the substance as an active ingredient, shall not be treated as an unreasonable curtailment under subsection (1)(c) unless such requirements as may be prescribed are satisfied.
 
-(a) the marketing approval was obtained after the date of issue of the certificate of grant; and
+[Act 15 of 2012 wef 14/02/2014]
 
-(b) the interval between the date the application for marketing approval was filed and the date marketing approval was obtained, excluding any period attributable to an act or omission of the applicant for marketing approval, exceeds 2 years.
+(6) Subject to subsections (7), (8) and (9), where the proprietor of a patent has made an application under subsection (1)(c) and has satisfied the Registrar that there was in fact an unreasonable curtailment of the opportunity to exploit the patent under subsection (1)(c), the Registrar shall extend the term of the patent by such period as may be prescribed.
 
-[19/2004]
+[Act 15 of 2012 wef 14/02/2014]
 
-(6) Subject to subsections (7), (8) and (9), where the proprietor of a patent has made an application under subsection (1)(c) and has satisfied the Registrar that there was in fact an unreasonable curtailment of the opportunity to exploit the patent under subsection (1)(c), the Registrar shall extend the term of the patent by —
+(7) The Registrar shall not extend the term of the patent under subsection (6) unless the applicant has procured and submitted to the Registrar a certificate from the relevant authority stating such matters as may be prescribed.
 
-(a) a period equivalent to the interval between the date of issue of the certificate of grant and the date marketing approval was obtained;
-
-(b) the period by which the interval referred to in subsection (5)(b) exceeds 2 years; or
-
-(c) a period of 5 years,
-
-whichever is the shortest period.
-
-[19/2004]
-
-(7) The Registrar shall not extend the term of the patent under subsection (6) unless the applicant has procured and submitted to the Registrar a certificate from the relevant authority stating —
-
-(a) the date the application for marketing approval was filed;
-
-(b) the date marketing approval was obtained; and
-
-(c) for each period attributable to an act or omission of the applicant for marketing approval, the dates on which the period started and ended.
-
-[19/2004]
+[Act 15 of 2012 wef 14/02/2014]
 
 (8) In determining the period by which to extend the term of the patent under subsection (6), the Registrar shall rely on, and shall not be concerned to inquire into the truth of, the statements contained in the certificate from the relevant authority under subsection (7).
 
@@ -1602,87 +1520,9 @@ and the Registrar may reject any application that fails to comply with any requi
 
 [19/2004]
 
-(13) In subsection (2), “period attributable to an act or omission of the applicant” includes (without prejudice to the generality of the expression) any of the following periods which is applicable:
+(13) [Deleted by Act 15 of 2012 wef 14/02/2014]
 
-(a) the period taken by the applicant to pay the filing fee under section 25(1)(b), calculated from the date of filing of the application for the patent to the date on which the filing fee is paid;
-
-(b) the period taken by the applicant to make observations under section 26(3)(b)(i) which satisfy the Registrar that the documents filed at the Registry to initiate the application satisfy all of the conditions in section 26(1)(a), (b) and (c)(i) or (ii), calculated from the date of the Registrar’s notification to the applicant under section 26(3)(a) to the date on which the applicant makes the observations;
-
-(ba) the period taken by the applicant to file the documents referred to in section 26(7)(a), (b) and (c), calculated from the date of filing of the application for a patent to the date on which the applicant files the documents;
-
-(bb) the period taken by the applicant to comply with section 26(9)(b), if the applicant, after filing at the Registry any missing part of the application, makes a request to the Registrar for section 26(8)(b) not to apply to the application, calculated from the date on which the applicant filed at the Registry the missing part of the application to the date on which the applicant complies with section 26(9)(b);
-
-(c) the period taken by the applicant to file one or more claims for the purposes of the application under section 26(12)(a), calculated from the date of filing of the application for the patent to the date on which the applicant files the claim or claims;
-
-(d) the period taken by the applicant to —
-
-(i) make observations under section 28(4)(a) which satisfy the Registrar that all the formal requirements have been complied with; or
-
-(ii) amend his application under section 28(4)(b) to comply with all the formal requirements,
-
-calculated from the date of the Registrar’s notification under section 28(4) to the date on which the applicant makes the observations or the earliest date on which the application, as amended by the applicant, complies with all the formal requirements;
-
-(da) the period taken by the applicant to comply with section 28(9)(b), if the applicant, after filing any drawing or part of the description of the invention which is missing from the application, makes a request to the Registrar for section 28(8)(b) not to apply to the application, calculated from the date of the Registrar’s notification under section 28(7) to the date on which the applicant complies with section 28(9)(b);
-
-(e) the period taken by the applicant to —
-
-(i) file a request and pay the prescribed fee for a search report under section 29(2)(a); or
-
-(ii) file a request and pay the prescribed fee for a search and examination report under section 29(2)(b),
-
-calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the request and pays the fee;
-
-(f) the period taken by the applicant to file the documents referred to in section 29(2)(c)(i), (d)(i) or (e)(i) and pay the prescribed fee for an examination report, calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the documents and pays the fee;
-
-(g) the period taken by the applicant to file the documents referred to in section 29(2)(c)(ii) or (d)(ii), calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the documents;
-
-(h) the period taken by the applicant to file a notice under section 29(2)(e)(ii), calculated from the date of the Registrar’s notification under section 29(1) to the date on which the applicant files the notice;
-
-(i) the period taken by the applicant to file a request for an examination report under section 29(4), calculated from the date of the Registrar’s notification under section 29(3)(b) to the date on which the applicant files the request;
-
-(j) the period taken by the applicant to file the prescribed documents under section 30(2)(c) and pay the prescribed fee under section 30(2)(d) for the grant of the patent, calculated from —
-
-(i) in a case to which section 30(2)(b)(i), (iii) or (v) applies, the date of the Registrar’s notification under section 29(5);
-
-(ii) in a case to which section 30(2)(b)(ii) applies, the date of the Registrar’s notification under section 29(6);
-
-(iii) in a case to which section 30(2)(b)(iv) applies, the date on which the applicant files the documents referred to therein; or
-
-(iv) in a case to which section 30(2)(b)(vi) applies, the date on which the applicant files the notice under section 29(2)(e)(ii),
-
-to the date on which the prescribed documents under section 30(2)(c) are filed and the prescribed fee under section 30(2)(d) is paid;
-
-(k) the period taken by the applicant to rectify any failure to satisfy any condition under section 30(3), calculated from the date of the Registrar’s notification under section 30(6)(a) to the date on which every condition in section 30(3) is satisfied;
-
-(l) the period taken by the applicant to respond to a written opinion under section 31(2)(a), calculated from the date of the Registrar’s notification under section 31(1) to the date on which the applicant responds to the written opinion;
-
-(m) the period taken by the applicant to amend the specification of his application under section 31(2)(b), calculated from the date of the written opinion given under section 31(1) to the date on which the applicant amends the specification of his application;
-
-(n) where the application is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3), the period taken by the applicant to cause the application to enter the national phase in Singapore, calculated from the date of the filing of the application in accordance with the Patent Co-operation Treaty to the date on which the national phase of the application begins under section 86(3);
-
-(o) the period taken by the applicant to rectify any failure to comply with any requirement under this Act or the rules, such period —
-
-(i) to be calculated from the date by which the applicant is required to comply with the requirement to the date on which the applicant rectifies the failure to comply with the requirement; and
-
-(ii) to include any period taken by the Registrar or the Registry to detect or to notify the applicant of the applicant’s failure to comply with the requirement;
-
-(p) the period taken by the applicant to respond to any request by the Registrar for any document, information or evidence, calculated from the date of the Registrar’s notification to the applicant of the request to the date on which the applicant responds to the request;
-
-(q) any extension or alteration of any period to do any thing that is granted by the Registrar or the court at the request or on the application of the applicant.
-
-[19/2004]
-
-[2/2007 wef 01/04/2007]
-
-(14) In subsections (5) and (7), “period attributable to an act or omission of the applicant for marketing approval” includes (without prejudice to the generality of the expression) —
-
-(a) the period taken by the applicant for marketing approval to correct deficiencies in his application for marketing approval, calculated from the date of the relevant authority’s notification to the applicant for marketing approval of the deficiencies to the date on which the applicant for marketing approval corrects the deficiencies;
-
-(b) the period taken by the applicant for marketing approval to respond to any request by the relevant authority for clarification or information, calculated from the date of the relevant authority’s request to the date on which the relevant authority receives the response of the applicant for marketing approval; and
-
-(c) any extension of any period to do any thing that is granted by the relevant authority at the request or on the application of the applicant for marketing approval.
-
-[19/2004]
+(14) [Deleted by Act 15 of 2012 wef 14/02/2014]
 
 ### Patent not to be impugned for lack of unity
 
@@ -1706,109 +1546,7 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 [UK Patents 1977, s. 27]
 
-### Search and examination after grant
-
-38A\.—(1) Subject to subsection (2), any person may request for a search and examination report in respect of any claim or claims in the specification of a patent on any of the following grounds:
-
-(a) where the patent was granted on the basis of any examination report or search and examination report referred to in section 29, any international preliminary report on patentability referred to in section 30(2)(b)(vi) or any international preliminary examination report, that —
-
-(i) at least one claim in the application for the patent at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid was not related to any claim in the application at the time the report was issued —
-
-(A) which has been examined; and
-
-(B) which is referred to in the report; or
-
-(ii) the Examiner of the application did not consider all the relevant prior art before preparing the report;
-
-(b) where the patent was granted on the basis of any prescribed information relating to a corresponding application or corresponding international application referred to in section 29, that —
-
-(i) at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid, at least one claim in the application for the patent did not relate to any claim —
-
-(A) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
-
-(B) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility); or
-
-(ii) the Examiner of the corresponding application or corresponding international application, as the case may be, did not consider all the relevant prior art before preparing his report on the examination of the corresponding application or corresponding international application, as the case may be.
-
-[19/2004]
-
-(2) The Registrar shall not grant a request under subsection (1) unless —
-
-(a) the request is filed in the prescribed manner;
-
-(b) the prescribed fee for the search and examination report has been paid; and
-
-(c) in a case to which subsections (3) and (4) apply, subsection (4) has been complied with.
-
-[19/2004]
-
-(3) Subject to subsection (4), any person who files a request under subsection (1) may, at the time he files the request, also file —
-
-(a) any observation which he wishes to make in relation to the patent; and
-
-(b) any document which he considers to be relevant for the purposes of the examination.
-
-(4) Where any document referred to in subsection (3)(b) is not in English, the person who files the request under subsection (1) shall also file an English translation of the document.
-
-[19/2004]
-
-(5) The Registrar shall not grant a request under subsection (1) if he is of the view that the request is frivolous, vexatious or an abuse of the process.
-
-[19/2004]
-
-(6) No request under subsection (1) shall be filed or granted where there are pending before the court or the Registrar proceedings in which the validity of the patent may be put in issue.
-
-[19/2004]
-
-(7) Where the Registrar grants a request under subsection (1), the Registrar shall cause the claim or claims to be subjected to —
-
-(a) a search by an Examiner to discover the relevant prior art contained in —
-
-(i) such documentation as may be prescribed; and
-
-(ii) any additional documentation that the Examiner is aware of and considers to be relevant; and
-
-(b) an examination by an Examiner to determine —
-
-(i) whether the conditions specified in sections 13 and 25(4) and (5) have been complied with;
-
-(ii) whether the specification of the patent discloses any additional matter referred to in section 84(1); and
-
-(iii) whether the specification of the patent discloses any matter extending beyond that disclosed in the application for the patent as filed,
-
-taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search.
-
-[19/2004]
-
-(8) If it appears to the Examiner during the examination of the specification of the patent that —
-
-(a) the conditions specified in sections 13 and 25(4) and (5) have not been complied with; or
-
-(b) the specification of the patent discloses —
-
-(i) any additional matter referred to in section 84(1); or
-
-(ii) any matter extending beyond that disclosed in the application for the patent as filed,
-
-the Examiner shall give the proprietor of the patent a written opinion to that effect, and the proprietor of the patent shall, before the examination report is issued, have the right to respond in the prescribed manner to the written opinion within the prescribed period.
-
-[19/2004]
-
-(9) Upon receiving the search and examination report prepared by the Examiner, the Registrar shall —
-
-(a) send a copy of the report to the proprietor of the patent; and
-
-(b) where the request under subsection (1) is not filed by the proprietor of the patent, send a copy each of —
-
-(i) the report;
-
-(ii) any written opinion given by the Examiner; and
-
-(iii) any response given in the prescribed manner by the proprietor of the patent to any such written opinion,
-
-to the person who filed the request.
-
-[19/2004]
+38A\. [Repealed by Act 15 of 2012 wef 14/02/2014]
 
 ### Restoration of lapsed patents
 
@@ -1820,7 +1558,9 @@ to the person who filed the request.
 
 (4) Notice of the application shall be published by the Registrar in the prescribed manner.
 
-(5) If the Registrar is satisfied that the proprietor of the patent took reasonable care to see that any renewal fee was paid within the prescribed period or that that fee and any prescribed additional fee were paid within the 6 months immediately following the end of that period, the Registrar shall by order restore the patent on payment of any unpaid renewal fee and any prescribed additional fee.
+(5) If the Registrar is satisfied that the failure of the proprietor of the patent to pay any renewal fee within the prescribed period, or to pay that fee and any prescribed additional fee within the 6 months immediately following the end of that period, was unintentional, the Registrar shall by order restore the patent on payment of any unpaid renewal fee and any prescribed additional fee.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (6) An order under this section may be made subject to such conditions as the Registrar thinks fit (including a condition requiring compliance with any provision of the rules relating to registration which have not been complied with), and if the proprietor of the patent does not comply with any such condition of the order, the Registrar may revoke the order and give such directions consequential on the revocation as he thinks fit.
 
@@ -1862,7 +1602,7 @@ he has the right to continue to do the act or, as the case may be, to do the act
 
 40\.—(1) The proprietor of a patent may at any time by notice given to the Registrar offer to surrender his patent.
 
-(2) A person may give notice to the Registrar of his opposition to the surrender of a patent under this section, and if he does so the Registrar shall notify the proprietor of the patent and determine the question.
+(2) [Deleted by Act 15 of 2012 wef 14/02/2014]
 
 (3) If the Registrar is satisfied that the patent may properly be surrendered, he may accept the offer and, as from the date when notice of his acceptance is published in the journal, the patent shall cease to have effect, but no action for infringement shall lie in respect of any act done before that date and no right to compensation shall accrue for any use of the patented invention before that date in accordance with section 56.
 
@@ -1896,7 +1636,9 @@ PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATION
 
 (b) any assent relating to any patent or any such application or right,
 
-shall be void unless it is in writing and is signed by or on behalf of the parties to the transaction (or, in the case of an assent or other transaction by a personal representative, by or on behalf of the personal representative) or in the case of a body corporate is so signed or is under the seal of that body.
+shall be void unless it is in writing and is signed by or on behalf of the assignor or mortgagor (or, in the case of an assent or other transaction by a personal representative, by or on behalf of the personal representative) or in the case of a body corporate is so signed or is under the seal of that body.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (7) An assignment of a patent or any such application or a share in it, and an exclusive licence granted under any patent or any such application, may confer on the assignee or licensee the right of the assignor or licensor to bring proceedings by virtue of section 67 or 76 for a previous infringement or to bring the proceedings under section 58 for a previous act.
 
@@ -1928,9 +1670,11 @@ shall be void unless it is in writing and is signed by or on behalf of the parti
 
 (6) Any person who applies for a certified copy of an entry in the register or a certified extract from the register shall be entitled to obtain such a copy or extract on payment of a fee prescribed in relation to certified copies and extracts.
 
-(7) The rules may provide that any person who applies for an uncertified copy or extract shall be entitled to such a copy or extract on payment of a fee prescribed in relation to uncertified copies and extracts.
+(7) [Deleted by Act 15 of 2012 wef 14/02/2014]
 
-(8) Applications under subsection (6) or the rules made by virtue of subsection (7) shall be made in such manner as may be prescribed.
+(8) Applications under subsection (6) shall be made in such manner as may be prescribed.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (9) In relation to any portion of the register kept otherwise than in documentary form —
 
@@ -1956,9 +1700,13 @@ shall be void unless it is in writing and is signed by or on behalf of the parti
 
 (a) the assignment of a patent or application for a patent, or a right in it;
 
-(b) the mortgage of a patent or application;
+(b) the mortgage of, or grant of any other security interest in, a patent or application;
 
-(c) the grant or assignment of a licence or sub-licence, or mortgage of a licence or sub-licence, under a patent or application;
+[Act 15 of 2012 wef 14/02/2014]
+
+(c) the grant or assignment of a licence or sub-licence, or mortgage of, or grant of any other security interest in, a licence or sub-licence, under a patent or application;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (d) the death of the proprietor or one of the proprietors of any such patent or application or any person having a right in or under a patent or application and the vesting by an assent of personal representatives of a patent, application or any such right; and
 
@@ -1973,6 +1721,10 @@ and in either case the event by virtue of which the court or authority had power
 (4) Where an application for the registration of a transaction, instrument or event has been made, but the transaction, instrument or event has not been registered, then, for the purposes of subsection (1)(a), registration of the application shall be treated as registration of the transaction, instrument or event.
 
 [UK Patents 1977, s. 33]
+
+(5) Provision may be made by rules as to the amendment, alteration or removal from the register of any particulars in the register relating to any transaction, instrument or event referred to in subsection (3).
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Rectification of register
 
@@ -1998,9 +1750,11 @@ and in either case the event by virtue of which the court or authority had power
 
 which purports to be a certified copy or a certified extract shall be admitted in evidence without further proof and without production of the original.
 
-(4) In this section, “certified copy” and “certified extract” mean a copy and an extract certified by the Registrar and sealed with the seal of the Registry.
+(4) In this section, “certified copy” and “certified extract” mean a copy and an extract certified by the Registrar.
 
 [UK Patents 1977, s. 32]
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Co-ownership of patents and applications for patents
 
@@ -2242,7 +1996,9 @@ LICENCES OF RIGHT AND COMPULSORY LICENCES
 
 (4) Where the Registrar is satisfied, on an application under subsection (3), that the proprietor of the patent is and was so precluded, he shall cancel the entry.
 
-(5) The proprietor shall be liable to pay, within a period specified by the Registrar, a sum equal to the balance of all renewal fees which would have been payable if the entry had not been made, and the patent shall cease to have effect at the expiration of that period if that sum is not so paid.
+(5) The proprietor shall be liable to pay, within the prescribed period, a sum equal to the balance of all renewal fees which would have been payable if the entry had not been made, and the patent shall cease to have effect at the expiration of that period if that sum is not so paid.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (6) Where an entry is cancelled under this section, the rights and liabilities of the proprietor of the patent shall after the cancellation be the same as if the entry had not been made.
 
@@ -2604,23 +2360,9 @@ other than for purposes related to meeting the requirements for marketing approv
 
 (2) A person shall not be taken to have been aware or to have had reasonable grounds for supposing by reason only of the application to a product of the word “patent” or “patented”, or any word or words expressing or implying that a patent has been obtained for the product, unless the number of the patent accompanied the word or words.
 
-(3) In proceedings for infringement of a patent, the court or the Registrar may, if it or he thinks fit, refuse to award any damages, make an order for an account of profits or grant any other relief (including, in proceedings before the court, an injunction) —
+(3) In proceedings for infringement of a patent, the court or the Registrar may, if it or he thinks fit, refuse to award any damages, make an order for an account of profits or grant any other relief (including, in proceedings before the court, an injunction) in respect of an infringement committed during any further period specified under section 36(3), but before the payment of the renewal fee and any additional fee prescribed for the purposes of section 36(3).
 
-(a) in respect of an infringement committed during any further period specified under subsection (3) of section 36, but before the payment of the renewal fee and any additional fee prescribed for the purposes of that subsection;
-
-(b) where the patent was granted on the basis of any examination report referred to in section 29(5), any search and examination report referred to in section 29(6) or any international preliminary report on patentability referred to in section 30(2)(b)(vi), in respect of any infringement alleged to have been committed at any time when any claim (in the specification of the patent) that is alleged to have been infringed is not related to any claim in the application for the patent at the time the report was issued —
-
-(i) which has been examined; and
-
-(ii) which is referred to in the report; or
-
-(c) where the patent was granted on the basis of the prescribed information relating to a corresponding application referred to in section 29(2)(c)(ii) or the prescribed information relating to a corresponding international application referred to in section 29(2)(d)(ii), in respect of any infringement alleged to have been committed at any time when any claim (in the specification of the patent) that is alleged to have been infringed is not related to any claim —
-
-(i) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
-
-(ii) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility).
-
-[19/2004]
+[Act 15 of 2012 wef 14/02/2014]
 
 (4) Where an amendment of the specification of a patent has been allowed under any of the provisions of this Act, the court or the Registrar shall not, in proceedings for an infringement of the patent committed before the decision to allow the amendment, award any damages, make an order for an account of profits or grant any other relief (including, in proceedings before the court, an injunction) unless the court or the Registrar is satisfied that the specification of the patent as published was framed in good faith and with reasonable skill and knowledge.
 
@@ -3154,19 +2896,33 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 [UK Patents 1977, s. 103]
 
-### Privilege for communications with patent agents
+### Privilege for communications with patent agents, etc.
 
 95\.—(1) A communication with respect to any matter relating to patents —
 
-(a) between a person and a registered patent agent, a partnership entitled under Part XIX to describe itself as a firm of patent agents or a body corporate entitled under Part XIX to describe itself as a patent agent; or
+(a) between a person and any of the following:
 
-(b) for the purpose of obtaining, or in response to a request for, information which a person is seeking for the purpose of instructing his patent agent,
+(i) a registered patent agent or a registered foreign patent agent;
+
+(ii) a partnership entitled under Part XIX to describe itself as a firm of patent agents or as a firm of foreign patent agents; or
+
+(iii) a body corporate entitled under Part XIX to describe itself as a patent agent or as a foreign patent agent; or
+
+[Act 15 of 2012 wef 14/02/2014]
+
+(b) for the purpose of obtaining, or in response to a request for, information which a person is seeking for the purpose of instructing his patent agent or a registered foreign patent agent,
+
+[Act 15 of 2012 wef 14/02/2014]
 
 is privileged from disclosure in legal proceedings in Singapore in the same way as a communication between a person and his solicitor or, as the case may be, a communication for the purpose of obtaining, or in response to a request for, information which a person seeks for the purpose of instructing his solicitor.
 
-(2) In this section, “legal proceedings” includes proceedings before the Registrar.
+(2) In this section —
 
-[UK Patents 1977, s. 280]
+“legal proceedings” includes proceedings before the Registrar;
+
+“patent” includes any patent or other protection for an invention granted in any country or jurisdiction other than Singapore.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Costs and expenses in proceedings before Registrar
 
@@ -3180,7 +2936,9 @@ is privileged from disclosure in legal proceedings in Singapore in the same way 
 
 (b) an application is made to the Registrar for the revocation of a patent; or
 
-(c) notice of opposition is given to the Registrar under section 38(4), 40(2), 54(7) or 107(2),
+(c) notice of opposition is given to the Registrar under section 38(4), 54(7) or 107(2),
+
+[Act 15 of 2012 wef 14/02/2014]
 
 neither resides nor carries on business in Singapore, the Registrar may require him to give security for the costs or expenses of the proceedings and in default of such security being given may treat the reference, application or notice as abandoned.
 
@@ -3274,33 +3032,47 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 
 ## PART XIX
 
-PATENT AGENTS
+PATENT AGENTS AND FOREIGN PATENT AGENTS
 
-### Registration of patent agents
+### Registration of patent agents and foreign patent agents
 
-104\.—(1) The Minister may make rules for the registration of individuals as patent agents.
+104\.—(1) The Minister may make rules for the registration of individuals as patent agents or as foreign patent agents.
 
 [30/2001]
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (2) Without prejudice to the generality of subsection (1), the rules may provide —
 
-(a) for the keeping, by such person as the Minister may determine, of a register of patent agents;
+(a) for the keeping, by such person as the Minister may determine, of a register of patent agents and a register of foreign patent agents;
 
-(b) for the form and manner of application for registration as a patent agent, the qualifications and other requirements for registration, the fees payable for registration, and the conditions of registration;
+[Act 15 of 2012 wef 14/02/2014]
+
+(b) for the form and manner of application for registration as a patent agent or as a foreign patent agent, the qualifications and other requirements for registration, the fees payable for registration, and the conditions of registration;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (c) for the issue of practising certificates to registered patent agents;
 
-(d) for the correction of errors and updating of entries in the register of patent agents; and
+(d) for the correction of errors and updating of entries in the register of patent agents and the register of foreign patent agents; and
 
-(e) for transitional matters in relation to the registration of individuals as patent agents, and exclude or vary the operation of this Act in relation to such transitional matters.
+[Act 15 of 2012 wef 14/02/2014]
+
+(e) for transitional matters in relation to the registration of individuals as patent agents or as foreign patent agents, and exclude or vary the operation of this Act in relation to such transitional matters.
 
 [30/2001]
 
-(3) The rules may make provision to regulate the professional conduct of registered patent agents and their practice and, for that purpose, may make provision for and in relation to all or any of the following:
+[Act 15 of 2012 wef 14/02/2014]
 
-(a) making complaints against registered patent agents and hearing and deciding upon such complaints;
+(3) The rules may make provision to regulate the professional conduct of registered patent agents, registered foreign patent agents and the practices of registered patent agents and registered foreign patent agents and, for that purpose, may make provision for and in relation to all or any of the following:
 
-(b) imposing penalties on registered patent agents, including issuing a reprimand, and suspending or cancelling registration;
+(a) making complaints against registered patent agents and registered foreign patent agents and hearing and deciding upon such complaints;
+
+[Act 15 of 2012 wef 14/02/2014]
+
+(b) imposing penalties on registered patent agents and registered foreign patent agents, including issuing a reprimand, and suspending or cancelling registration;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (c) summoning witnesses;
 
@@ -3313,6 +3085,8 @@ PATENT AGENTS
 (g) restoring any registration that has been cancelled and lifting the suspension imposed on any registration.
 
 [30/2001]
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (4) The rules may provide that a contravention of the rules shall be an offence and may provide penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 12 months or to both.
 
@@ -3334,9 +3108,11 @@ PATENT AGENTS
 
 [30/2001]
 
-(4) For the purposes of this section, a person is taken to carry on a business, practise or act as a patent agent if, and only if, the person does, or undertakes to do, on behalf of someone else, any of the following in Singapore for gain:
+(4) For the purposes of this section and section 105A, a person is taken to carry on a business, practise or act as a patent agent if, and only if, the person does, or undertakes to do, on behalf of someone else, any of the following in Singapore for gain:
 
-(a) applying for or obtaining patents in Singapore or anywhere else;
+(a) applying for or obtaining patents at the Registry or any other place;
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (b) preparing specifications or other documents for the purposes of this Act or the patent law of another country; or
 
@@ -3344,11 +3120,17 @@ PATENT AGENTS
 
 [30/2001]
 
+[Act 15 of 2012 wef 14/02/2014]
+
 (5) An individual shall not —
 
-(a) carry on a business under any name or other description which contains the words “patent agent”; or
+(a) carry on a business under any name or other description which contains the words “patent agent” or “patent attorney”; or
 
-(b) in the course of a business otherwise describe himself, hold himself out or permit himself to be described or held out as a “patent agent”,
+[Act 15 of 2012 wef 14/02/2014]
+
+(b) in the course of a business otherwise describe himself, hold himself out or permit himself to be described or held out as a “patent agent” or “patent attorney”,
+
+[Act 15 of 2012 wef 14/02/2014]
 
 unless he is a registered patent agent who has in force a practising certificate.
 
@@ -3356,9 +3138,13 @@ unless he is a registered patent agent who has in force a practising certificate
 
 (6) A partnership shall not —
 
-(a) carry on a business under any name or other description which contains the words “patent agent”; or
+(a) carry on a business under any name or other description which contains the words “patent agent” or “patent attorney”; or
 
-(b) in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a firm of “patent agents”,
+[Act 15 of 2012 wef 14/02/2014]
+
+(b) in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a firm of “patent agents” or “patent attorneys”,
+
+[Act 15 of 2012 wef 14/02/2014]
 
 unless at least one partner is a registered patent agent who has in force a practising certificate.
 
@@ -3366,9 +3152,13 @@ unless at least one partner is a registered patent agent who has in force a prac
 
 (7) A body corporate shall not —
 
-(a) carry on a business under any name or other description which contains the words “patent agent”; or
+(a) carry on a business under any name or other description which contains the words “patent agent” or “patent attorney”; or
 
-(b) in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a “patent agent”,
+[Act 15 of 2012 wef 14/02/2014]
+
+(b) in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a “patent agent” or “patent attorney”,
+
+[Act 15 of 2012 wef 14/02/2014]
 
 unless at least one director is a registered patent agent who has in force a practising certificate.
 
@@ -3378,21 +3168,27 @@ unless at least one director is a registered patent agent who has in force a pra
 
 [30/2001]
 
-(9) Where subsection (5), (6) or (7) would be contravened by the use of the words “patent agent” in reference to an individual, partnership or body corporate, it is equally contravened by the use of the expression “patent attorney” in reference to that person, or his business or place of business, or any other expression in reference thereto which is likely to be understood as indicating that he is entitled to be described as a “patent agent”.
+(9) Where subsection (5), (6) or (7) would be contravened by the use of the words “patent agent” or “patent attorney” in reference to an individual, a partnership or a body corporate, it is equally contravened by the use of any other expression in reference to that person, or that person’s business or place of business, which is likely to be understood as indicating that that person is entitled to be described as a “patent agent” or “patent attorney”.
 
-[30/2001]
+[Act 15 of 2012 wef 14/02/2014]
 
-(10) Where an individual’s employer does not carry on a business, practise or act as a patent agent, the individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by the individual for his employer in his capacity as employee of his employer.
+(10) Where an individual’s employer does not carry on a business, practise or act as a patent agent or as a foreign patent agent, the individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by the individual for his employer in his capacity as employee of his employer.
 
 [2/2007 wef 01/04/2007]
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (10A) Where —
 
 (a) an individual’s employer is a member of a related company group;
 
-(b) the individual’s employer does not carry on a business, practise or act as a patent agent; and
+(b) the individual’s employer does not carry on a business, practise or act as a patent agent or as a foreign patent agent; and
 
-(c) any other member of the related company group does not carry on a business, practise or act as a patent agent,
+[Act 15 of 2012 wef 14/02/2014]
+
+(c) every other member of the related company group does not carry on a business, practise or act as a patent agent or as a foreign patent agent,
+
+[Act 15 of 2012 wef 14/02/2014]
 
 the individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by the individual for that other member of the related company group in his capacity as employee of his employer.
 
@@ -3420,6 +3216,10 @@ the individual does not contravene subsection (1) in respect of anything done, o
 
 “director”, in relation to a body corporate whose affairs are managed by its members, means any member of the body corporate;
 
+“patent” includes any patent or other protection for an invention granted in any country or jurisdiction other than Singapore;
+
+[Act 15 of 2012 wef 14/02/2014]
+
 “practising certificate” means —
 
 (a) in relation to a registered patent agent, a practising certificate issued to him under rules made under section 104; or
@@ -3431,6 +3231,68 @@ the individual does not contravene subsection (1) in respect of anything done, o
 [Aust. Patents 1990, s. 201]
 
 [30/2001]
+
+### Foreign patent agents
+
+105A\.—(1) Notwithstanding anything in section 105, an individual may carry on a business, practise or act as a foreign patent agent if, and only if, he is a registered foreign patent agent.
+
+(2) Notwithstanding anything in section 105, a partnership may carry on a business, practise or act as foreign patent agents if, and only if, at least one partner thereof is a registered foreign patent agent.
+
+(3) Notwithstanding anything in section 105, a body corporate may carry on a business, practise or act as a foreign patent agent if, and only if, at least one director thereof is a registered foreign patent agent.
+
+(4) For the purposes of section 105 and this section, a person is taken to carry on a business, practise or act as a foreign patent agent if, and only if, the person does, or undertakes to do, on behalf of someone else, any of the following in Singapore for gain:
+
+(a) applying for or obtaining patents at any place other than the Registry;
+
+(b) preparing specifications or other documents for the purposes of —
+
+(i) the patent law of any country other than Singapore; or
+
+(ii) an international application for a patent which, on its date of filing, designates any country other than Singapore (whether or not it also designates Singapore); or
+
+(c) giving advice (other than advice of a scientific or technical nature) about the validity, or infringement, of patents under the patent law of any country other than Singapore.
+
+(5) Except as permitted under subsections (1) to (4), a registered foreign patent agent —
+
+(a) shall not carry on a business, practise or act as a patent agent; and
+
+(b) shall not purport to carry on a business, practise or act as a patent agent.
+
+(6) Notwithstanding anything in section 105, if an individual is a registered foreign patent agent, he —
+
+(a) may carry on a business under any name or other description which contains the words “foreign patent agent” or “foreign patent attorney”; and
+
+(b) may in the course of a business otherwise describe himself, hold himself out or permit himself to be described or held out as a “foreign patent agent” or “foreign patent attorney”.
+
+(7) Notwithstanding anything in section 105, if at least one partner of a partnership is a registered foreign patent agent, the partnership —
+
+(a) may carry on a business under any name or other description which contains the words “foreign patent agent” or “foreign patent attorney”; and
+
+(b) may in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a firm of “foreign patent agents” or “foreign patent attorneys”.
+
+(8) Notwithstanding anything in section 105, if at least one director of a body corporate is a registered foreign patent agent, the body corporate —
+
+(a) may carry on a business under any name or other description which contains the words “foreign patent agent” or “foreign patent attorney”; and
+
+(b) may in the course of a business otherwise describe itself, hold itself out or permit itself to be described or held out as a “foreign patent agent” or “foreign patent attorney”.
+
+(9) No person (other than an individual, a partnership and a body corporate referred to in subsections (6), (7) and (8), respectively) shall —
+
+(a) carry on a business under any name or other description which contains the words “foreign patent agent” or “foreign patent attorney”; or
+
+(b) describe himself, hold himself out or permit himself to be described or held out as a “foreign patent agent” or “foreign patent attorney”.
+
+(10) Any person who contravenes subsection (5) or (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(11) Where subsection (9) would be contravened by the use of the words “foreign patent agent” or “foreign patent attorney” in reference to an individual, a partnership or a body corporate, it is equally contravened by the use of any other expression in reference to that person, or that person’s business or place of business, which is likely to be understood as indicating that that person is entitled to be described as a “foreign patent agent” or “foreign patent attorney”.
+
+(12) In this section —
+
+“director”, in relation to a body corporate whose affairs are managed by its members, means any member of the body corporate;
+
+“patent” includes any patent or other protection for an invention granted in any country or jurisdiction other than Singapore.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ## PART XX
 
@@ -3444,9 +3306,11 @@ MISCELLANEOUS AND GENERAL
 
 (b) incur any liability by reason of or in connection with any examination or investigation required or authorised by this Act or any such treaty or any report or other proceedings consequent on any such examination or investigation; or
 
-(c) incur any liability by reason of an incorrect entry in the register of patent agents maintained under Part XIX.
+(c) incur any liability by reason of an incorrect entry in the register of patent agents or the register of foreign patent agents maintained under Part XIX.
 
 [UK Patents 1977, s. 116]
+
+[Act 15 of 2012 wef 14/02/2014]
 
 [3/2001]
 
@@ -3606,7 +3470,9 @@ may be prescribed for different classes of business.
 
 (3) The rules may make different provisions for different cases.
 
-(4) The rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
+(4) The rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents and foreign patent agents, and of other proceedings under this Act.
+
+[Act 15 of 2012 wef 14/02/2014]
 
 (5) The rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
 
@@ -3628,15 +3494,15 @@ may be prescribed for different classes of business.
 
 [19/2004]
 
-### Fees to be paid to Office
+### Fees
 
-116\.—(1) All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+116\.—(1) There shall be paid in respect of applications, grants, registrations and other matters under this Act such fees as may be prescribed.
 
-[3/2001]
+(2) All fees collected shall be paid into the funds of the Office.
 
-(2) Subsection (1) shall not apply to fees paid under section 85 which are to be forwarded to the International Bureau.
+(3) Subsection (2) shall not apply to fees paid under section 85 which are to be forwarded to the International Bureau.
 
-[3/2001]
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Transitional provisions
 
@@ -3845,6 +3711,10 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of First Reading|14 May 2012 (Bill No. 13/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|8 April 2013|
+|16.|**Act 15 of 2012—Patents (Amendment) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 13/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|14 February 2014|
 ## COMPARATIVE TABLE
 
 Patents Act
