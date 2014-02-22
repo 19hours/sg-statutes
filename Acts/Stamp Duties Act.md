@@ -164,7 +164,7 @@
 
 - [56 Liability of any person to pay full duty or penalty unaffected by erroneous assessment](#Liability-of-any-person-to-pay-full-duty-or-penalty-unaffected-by-erroneous-assessment)
 
-[**Part VIII ALLOWANCE FOR SPOILED STAMPS DUTY PAID OR OVERPAID IN CERTAIN CASES**](#Part-VIII)
+[**Part VIII ALLOWANCE FOR DUTY PAID OR OVERPAID IN CERTAIN CASES**](#Part-VIII)
 
 - [57 Allowance for duty paid for certain instruments](#Allowance-for-duty-paid-for-certain-instruments)
 
@@ -226,15 +226,15 @@
 
 - [78 Power to amend Schedules](#Power-to-amend-Schedules)
 
-[**FIRST SCHEDULE Instruments Chargeable With Stamp Duty**](#FIRST-SCHEDULE-Instruments-Chargeable-With-Stamp-Duty)
+[**FIRST SCHEDULE Instruments chargeable with stamp duty**](#FIRST-SCHEDULE-Instruments-chargeable-with-stamp-duty)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Persons Liable to Pay Stamp Duty**](#THIRD-SCHEDULE-Persons-Liable-to-Pay-Stamp-Duty)
+[**THIRD SCHEDULE Persons liable to pay stamp duty**](#THIRD-SCHEDULE-Persons-liable-to-pay-stamp-duty)
 
-[**FOURTH SCHEDULE Adjudication Fees**](#FOURTH-SCHEDULE-Adjudication-Fees)
+[**FOURTH SCHEDULE Adjudication fees**](#FOURTH-SCHEDULE-Adjudication-fees)
 
-[**FIFTH SCHEDULE Valuation Fees**](#FIFTH-SCHEDULE-Valuation-Fees)
+[**FIFTH SCHEDULE Valuation fees**](#FIFTH-SCHEDULE-Valuation-fees)
 
 [**Legislative History**](#Legislative-History)
 
@@ -266,6 +266,8 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+[Deleted by Act 33/99 wef 09/01/2012]
+
 “Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
@@ -273,6 +275,8 @@ PRELIMINARY
 [36/2008 wef 16/12/2008]
 
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
+
+[Deleted by Act 33/99 wef 09/01/2012]
 
 “duly stamped”, as applied to an instrument chargeable with duty, means —
 
@@ -287,6 +291,8 @@ PRELIMINARY
 “equitable mortgage” means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
 “executed” and “execution”, used with reference to instruments not under seal, mean “signed” and “signature”;
+
+[Deleted by Act 33/99 wef 09/01/2012]
 
 “instrument” includes every written document;
 
@@ -564,7 +570,9 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [23/2011 wef 19/02/2011]
 
-(1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19thFebruary 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
+[23/2011 wef 20/02/2010]
+
+(1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19th February 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
 
 [23/2011 wef 19/02/2011]
 
@@ -666,6 +674,8 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [Act 1 of 2013 wef 22/02/2013]
 
+[Act 1 of 2013 wef 01/04/2010]
+
 (2A) No instrument referred to in subsection (1) shall be deemed to be duly stamped unless —
 
 (a) it is stamped with the duty to which it would but for this section be liable; or
@@ -676,9 +686,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (3) In this section, a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary is any of the following:
 
-(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or such total ownership was 50% or less of the total number of ordinary shares in the target company;
+(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
 
-[Act 1 of 2013 wef 22/02/2013]
+[Act 1 of 2013 wef 01/04/2010]
 
 (b) [Deleted by Act 23/2011 wef 01/04/2010];
 
@@ -708,7 +718,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-[Act 1 of 2013 wef 22/02/2013]
+[Act 1 of 2013 wef 01/04/2010]
 
 (5) [Deleted by Act 23/2011 wef 01/04/2010]
 
@@ -718,7 +728,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-[Act 1 of 2013 wef 22/02/2013]
+[Act 1 of 2013 wef 01/04/2010]
 
 (8) Subject to the rules made under subsection (18), where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to it for each of the following periods shall not exceed $200,000:
 
@@ -882,11 +892,11 @@ the claim shall be deemed to have been disallowed and an amount equal to the amo
 
 (a) a natural parent of the party;
 
-and “grandparent” shall be construed accordingly;
-
 (b) a person by whom the party was adopted in accordance with any written law relating to the adoption of children; or
 
 (c) a step-parent of the party,
+
+and “grandparent” shall be construed accordingly;
 
 “specified time period” means —
 
@@ -918,13 +928,13 @@ Explanation.— In the case of a sale of property subject to a mortgage or other
 
 (2) A conveyance on sale made for any consideration in respect of which it is chargeable with ad valorem duty, and in further consideration of a covenant by the purchaser to make or of his having previously made, any substantial improvement of or addition to the property conveyed to him, or of any covenant relating to the subject-matter of the conveyance, is not chargeable, and shall be deemed not to have been chargeable with any duty in respect of such further consideration.
 
-Illustration
+Illustrations
 
 (1)AowesB$1,000.Asells a property toB, the consideration being $500 and the release of the previous debt of $1,000. Stamp duty is payable on $1,500.
 
 (2)Asells a property toBfor $500 which is subject to a mortgage toCfor $1,000 and unpaid interest $200. Stamp duty is payable on $1,700.
 
-(3) A mortgages a house toBfor $5,000.Bafterwards buys the house fromAfor $5,000 and a release of the mortgage debt. Stamp duty is payable on $10,000.
+(3)Amortgages a house toBfor $5,000.Bafterwards buys the house fromAfor $5,000 and a release of the mortgage debt. Stamp duty is payable on $10,000.
 
 ### Duties on foreclosure orders
 
@@ -1024,7 +1034,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 [26/96]
 
-(5) Where more than one contract or agreement for sale is executed by a purchaser in respect of the same sale of the same property, only one such contract or agreement for sale of the property shall be chargeable with ad valorem duty under this section and any other contract or agreement for the same sale of the same property shall be chargeable with a duty of shall, if executed on or after 19th February 2011, be exempt from duty.
+(5) Where more than one contract or agreement for sale is executed by a purchaser in respect of the same sale of the same property, only one such contract or agreement for sale of the property shall be chargeable with ad valorem duty under this section and any other contract or agreement for the same sale of the same property shall, if executed on or after 19th February 2011, be exempt from duty.
 
 [26/96]
 
@@ -1044,7 +1054,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (f) the Commissioner of Building Control made an order under section 24 of the Building Control Act (Cap. 29) in respect of the property; or
 
-(g) a Strata Titles Board or the High Court, as the case may be,refused an application for an order for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
+(g) a Strata Titles Board or the High Court, as the case may be, refused an application for an order for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
 
 [26/96; 33/99; 13/2010]
 
@@ -1088,11 +1098,11 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 22A\.—(1) Subject to the provisions of this Act, every contract or agreement for the sale of any specified immovable property (or any part thereof) which is chargeable with duty pursuant to section 22 (including any instrument chargeable in like manner) shall be charged with additional ad valorem duty (the amounts of which are indicated in the First Schedule), payable by the vendor of the property, in respect of the consideration for that sale as if it were an actual conveyance on sale of immovable property, if the property or part thereof is disposed of under that contract or agreement —
 
-(a) the consideration or value (whichever is applicable) on which the duty is based, shall be reduced by such amount as the Commissioner considers to be attributable to such part of the specified immovable property that is permitted to be used under the Master Plan or the Planning Act (Cap. 232) (as the case may be) for a purpose that is not a prescribed purpose; and
-
-[Act 1 of 2013 wef 22/02/2013]
+(a) whilst this section is in force; and
 
 (b) before the expiration of the period prescribed in the section 22A Order in relation to the specified immovable property (referred to in this section as the specified holding period) from the date on which the vendor acquired that property or any part thereof.
+
+[28/2010 wef 20/02/2010]
 
 (1A) Subject to the provisions of this Act, every conveyance on sale of any specified immovable property (or any part thereof) shall be chargeable with the same additional ad valorem duty under subsection (1), payable by the vendor of the property, in respect of the consideration for that sale, if the property or part thereof is disposed of under that instrument —
 
@@ -1100,7 +1110,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (b) before the expiration of the specified holding period from the date on which the vendor acquired that property or part thereof.
 
-[6/2010 wef 20/02/2010; 28/2010 wef 20/02/2010]
+[28/2010 wef 20/02/2010]
 
 (2) Subject to the provisions of this Act, every instrument —
 
@@ -1120,23 +1130,17 @@ shall be treated for the purpose of this section as a conveyance on sale of immo
 
 (B) before the expiration of the specified holding period from the date on which the transferor acquired that property or any part thereof.
 
-[6/2010 wef 20/02/2010]
-
 (3) Subject to the provisions of this Act and unless the section 22A Order specifies otherwise, every instrument which is a lease or an agreement for lease of any specified immovable property (or any part thereof) for a term equal to or exceeding the prescribed term, shall be treated for the purpose of this section as a conveyance on sale of immovable property and chargeable with the same additional ad valorem duty under subsection (1), payable by the lessor, in respect of the consideration for the lease, if the property or part thereof is disposed of under that instrument —
 
 (a) whilst this section is in force; and
 
 (b) before the expiration of the specified holding period from the date on which the lessor acquired that property or any part thereof.
 
-[6/2010 wef 20/02/2010]
-
 (4) For the purposes of subsection (3) —
 
 (a) the fact that the term of a lease or an agreement for lease may be extended in pursuance of an option shall be taken into consideration in determining whether its term is equal to or exceeds the prescribed term; and
 
 (b) the fact that a lease or an agreement for lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining its term.
-
-[6/2010 wef 20/02/2010]
 
 (5) Subject to the provisions of this Act, an instrument whereby an exchange of any specified immovable property (or any part thereof) is effected shall be treated for the purpose of this section as a conveyance on sale of immovable property if the property or part thereof is disposed of under the instrument —
 
@@ -1146,35 +1150,29 @@ shall be treated for the purpose of this section as a conveyance on sale of immo
 
 and shall be chargeable with the same additional ad valorem duty under subsection (1), payable by that party, in respect of the value of the property or part thereof being exchanged that is of the greater value.
 
-[6/2010 wef 20/02/2010]
-
 (6) In subsection (5), where a party disposes of 2 or more properties or parts thereof to another party under the instrument, those properties or parts shall be treated as one property or part, and their values shall be aggregated, for the purpose of determining the value of the property or part thereof being exchanged that is of the greater value.
-
-[6/2010 wef 20/02/2010]
 
 (7) Where in any conveyance on sale of immovable property or any part thereof (including any instrument which is chargeable in like manner) the vendors, lessors or transferors of the property or part are joint owners of that property or part, the duty payable by each vendor, lessor or transferor under this section shall be a proportion of the duty commensurate with their respective shares in that property or part; and for this purpose, joint tenants of any property or part shall be presumed, until the contrary is proved, to have equal shares in the property or part.
 
-[6/2010 wef 20/02/2010]
-
 (8) For the purposes of determining the additional duty chargeable upon a conveyance on sale of immovable property or any part thereof (including any instrument which is chargeable in like manner) —
 
-(a) the consideration or value (whichever is applicable) on which the duty is based, shall be reduced by such amount as the Commissioner considers to be attributable to such part of the specified immovable property which is lawfully used for purposes other than for a prescribed purpose; and
+(a) the consideration or value (whichever is applicable) on which the duty is based, shall be reduced by such amount as the Commissioner considers to be attributable to such part of the specified immovable property that is permitted to be used under the Master Plan or the Planning Act (Cap. 232) (as the case may be) for a purpose that is not a prescribed purpose; and
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (b) where parts of the property were acquired by the vendor, lessor or transferor at different times, the duty shall be reduced by such amount as the Commissioner determines to be in excess of the duty which would have been chargeable under this section if the property had been conveyed in separate parts.
 
-[6/2010 wef 20/02/2010]
-
 (9) The decisions of the Commissioner under subsection (8)(a) and (b), respectively, shall be final.
-
-[6/2010 wef 20/02/2010]
 
 (10) Section 22(3) shall apply to a vendor, lessor or transferor of specified immovable property or a part thereof as if —
 
 (a) the first reference in that provision to purchaser or sub-purchaser is substituted with a reference to such vendor, lessor or transferor; and
 
-[6/2010 wef 20/02/2010; 28/2010 wef 20/02/2010]
+[28/2010 wef 20/02/2010]
 
 (b) the references in that provision to duty under that section are substituted with references to the additional duty under this section.
+
+[Act 28/2010 wef 20/02/2010]
 
 (10A) Section 22(5) shall apply to a vendor, lessor or transferor of specified immovable property or a part thereof as if —
 
@@ -1186,8 +1184,6 @@ and shall be chargeable with the same additional ad valorem duty under subsectio
 
 (11) Where any duty paid under section 22 in respect of any contract or agreement is refunded under that section, any additional duty paid under this section in respect of that same contract or agreement shall likewise be refunded.
 
-[6/2010 wef 20/02/2010]
-
 (12) Subject to subsection (13) and the section 22A Order, where any specified immovable property or part thereof is acquired or disposed of —
 
 (a) under contract, the time at which the acquisition or disposal is made shall be the time the contract is made (and not, if different, the time at which the property or part is conveyed or transferred), and if the contract is conditional on the exercise of an option, the time at which the acquisition or disposal is made shall be the time when the option is exercised;
@@ -1195,8 +1191,6 @@ and shall be chargeable with the same additional ad valorem duty under subsectio
 (b) by way of gift, release or settlement or under a declaration of trust, the time at which the acquisition or disposal is made shall be the time when the property or part or any beneficial interest therein passes; or
 
 (c) by any other means, the time at which the acquisition or disposal is made shall be the time the property or part or any interest therein is vested or divested, as the case may be, by operation of law or otherwise.
-
-[6/2010 wef 20/02/2010]
 
 (13) In this section —
 
@@ -1258,8 +1252,6 @@ shall be chargeable with duty under this Act as if this section is not in force.
 
 (2) The Minister may, from time to time, by order published in theGazette, declare that section 22A shall come into operation on a date specified in the order, and that section shall come into operation on that date and remain in force until the order is revoked by the Minister.
 
-[6/2010 wef 20/02/2010]
-
 (3) The order shall specify —
 
 (a) the immovable property to which section 22A applies by —
@@ -1274,11 +1266,7 @@ shall be chargeable with duty under this Act as if this section is not in force.
 
 (c) other matters required to be prescribed by that section.
 
-[6/2010 wef 20/02/2010]
-
 (4) The order may specify different holding periods for different classes of immovable property.
-
-[6/2010 wef 20/02/2010]
 
 (5) The order may —
 
@@ -1286,11 +1274,7 @@ shall be chargeable with duty under this Act as if this section is not in force.
 
 (b) specify other matters authorised to be prescribed or specified under section 22A.
 
-[6/2010 wef 20/02/2010]
-
 (6) The Minister may, in respect of the first order made after the commencement of the Stamp Duties (Amendment) Act 2010, specify in the order a date of commencement for section 22A that is before the date of publication of the order in theGazettebut no earlier than 20th February 2010.
-
-[6/2010 wef 20/02/2010]
 
 (7) All orders made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1298,7 +1282,7 @@ shall be chargeable with duty under this Act as if this section is not in force.
 
 Sale of annuity or right not before in existence
 
-23\. [Repealed byAct 39 of 1999]
+23\. [Repealed by Act 33 of 1999]
 
 ### What is to be deemed a conveyance, not being a sale or mortgage
 
@@ -1524,15 +1508,23 @@ Settlement of policy of life insurance
 
 (a) in the case of a person who is a designated partner referred to in subsection (2)(a)
 
-where A is the asset share of the person upon his becoming a designated partner; and
+where A
 
-B is the value of the chargeable property held by the limited liability partnership upon the person becoming a designated partner; and
+is the asset share of the person upon his becoming a designated partner; and
+
+B
+
+is the value of the chargeable property held by the limited liability partnership upon the person becoming a designated partner; and
 
 (b) in the case of a person who is a designated partner referred to in subsection (2)(b)
 
-where C is the asset share of the designated partner upon the significant change of partners in question;
+where C
 
-D is —
+is the asset share of the designated partner upon the significant change of partners in question;
+
+D
+
+is —
 
 (a)
 
@@ -1542,7 +1534,9 @@ the asset share of the designated partner upon a significant change of partners 
 
 if there is no such significant change of partners, the asset share of the designated partner upon the formation of the limited liability partnership; and
 
-E is the value of the chargeable property held by the limited liability partnership upon the significant change of partners in question.
+E
+
+is the value of the chargeable property held by the limited liability partnership upon the significant change of partners in question.
 
 [6/2005]
 
@@ -1818,9 +1812,11 @@ the Commissioner shall certify by issuing and attaching to the instrument a cert
 
 [33/99]
 
-(1A) Any appeal under subsection (1) shall not be effective unless written notice of the appeal is served on the Commissioner within 21 days of the person being informed of the Commissioner’s decision under section 39A(5) on the notice of objection.
+(1A) Any appeal under subsection (1) shall not be effective unless written notice of the appeal is served on the Commissioner within 30 days of the person being informed of the Commissioner’s decision under section 39A(5) on the notice of objection.
 
 [33/99]
+
+[Act 1 of 2013 wef 22/02/2013]
 
 (2) The Commissioner shall thereupon state and sign a case and deliver it to the person by whom it is required, and the case may, within 7 days thereafter, be set down by him for hearing.
 
@@ -1996,7 +1992,7 @@ Special provision as to unstamped receipts
 
 ## PART VIII
 
-ALLOWANCE FOR SPOILED STAMPS DUTY PAID OR OVERPAID IN CERTAIN CASES
+ALLOWANCE FOR DUTY PAID OR OVERPAID IN CERTAIN CASES
 
 ### Allowance for duty paid for certain instruments
 
@@ -2017,8 +2013,6 @@ ALLOWANCE FOR SPOILED STAMPS DUTY PAID OR OVERPAID IN CERTAIN CASES
 (v) an instrument executed by any party thereto, which is inadvertently and undesignedly spoiled, and in lieu whereof another instrument made between the same parties and for the same purpose is executed and duly stamped, or which becomes useless in consequence of the transaction intended to be thereby effected being effected by some other instrument duly stamped.
 
 [33/99]
-
-[Act 1 of 2013 wef 22/02/2013]
 
 [Act 1 of 2013 wef 22/02/2013]
 
@@ -2046,7 +2040,7 @@ and has been issued with a stamp certificate denoting the duty so paid in respec
 
 (i) on an application made within 6 months after the date of the instrument; or
 
-(i) if the instrument is not dated, within 6 months after the execution thereof by the person by whom it was first or alone executed,
+(ii) if the instrument is not dated, within 6 months after the execution thereof by the person by whom it was first or alone executed,
 
 and upon the instrument, if liable to duty, being stamped with the proper duty, cancel that certificate and make an allowance for the duty overpaid or paid (as the case may be).
 
@@ -2178,7 +2172,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 68\.—(1) No prosecution in respect of any offence punishable under this Act shall be instituted without the consent of either the Commissioner or the Public Prosecutor.
 
-[33/99; 15/2010 wef 02/01/2011]
+[33/99]
+
+[15/2010 wef 02/01/2011]
 
 (2) The Commissioner may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
@@ -2230,7 +2226,9 @@ MISCELLANEOUS
 
 70\.—(1) The Commissioner may, by notice in writing, declare any person to be the agent of any other person for the purposes of this Act, and may require the agent so declared to pay any duty due under this Act from any moneys (including sale proceeds, rents, bank balances, pensions, salary, wages or any other remuneration) which, at the date of receipt of the notice or at any time during a period of 90 days thereafter, may be held by him for or due by him to the other person.
 
-[26/96; 36/2008 wef 01/01/2009]
+[26/96]
+
+[36/2008 wef 01/01/2009]
 
 (2) In default of payment by an agent declared under subsection (1), the duty may be sued for by way of a specially endorsed writ of summons in the name of the Commissioner who shall be entitled to all costs allowed by law against the person thereto.
 
@@ -2408,7 +2406,9 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 74\.—(1) The Minister may, in his discretion and subject to such conditions as he may impose, reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instrument when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
 
-[33/99; 28/2010 wef 09/12/2010]
+[33/99]
+
+[28/2010 wef 09/12/2010]
 
 (2) A reduction or remission of duty in relation to a class of instruments, or any instrument belonging to such class, or any instrument when executed by or in favour of a class of persons, or by or in favour of members of such class, shall be made by rules, and the conditions (if any) shall be specified in the rules.
 
@@ -2425,8 +2425,6 @@ then the public officer shall, notwithstanding any other written law, contract o
 [23/2011 wef 01/01/2012]
 
 [Act 1 of 2013 wef 22/02/2013]
-
-[S 776/2013 wef 23/12/2013]
 
 (3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced shall be recoverable as a debt due to the Government.
 
@@ -2500,13 +2498,17 @@ FIRST SCHEDULE
 
 Sections 4(1) and 15(1)
 
-Instruments Chargeable With Stamp Duty
+Instruments chargeable with stamp duty
 
 Article No.
 
 Description of Instrument relating to immovable property and stock or shares
 
 Proper Stamp Duty
+
+(amount to be rounded down to the nearest dollar where
+applicable, subject to a minimum stamp duty of $1
+per instrument)
 
 1
 
@@ -2524,27 +2526,55 @@ CONVEYANCE, ASSIGNMENT or TRANSFER:
 
 (a)
 
-on sale of any immovable property or any interest thereof
+on sale of any immovable property or any interest thereof —
+
+(i)
+
+if executed before 22nd February 2014
 
 Amount of consideration
 
-(i)
+(A)
 
 for every $100 or any part thereof of the first $180,000
 
 $1
 
-(ii)
+(B)
 
 for every $100 or any part thereof of the next $180,000
 
 $2
 
-(iii)
+(C)
 
 thereafter for every $100 or any part thereof
 
 $3
+
+(ii)
+
+if executed on or after 22nd February 2014
+
+Amount of consideration
+
+(A)
+
+for every dollar of the first $180,000
+
+1%
+
+(B)
+
+for every dollar of the next $180,000
+
+2%
+
+(C)
+
+for every dollar exceeding $360,000
+
+3%
 
 (b)
 
@@ -2552,7 +2582,17 @@ on sale of residential property; and which is acquired on or after 20th February
 
 In addition to duty under paragraph (a), where the property is disposed of in the following period from the date of its acquisition:
 
-Amount of consideration or value (whichever is applicable) of the residential property
+Amount of consideration or value
+
+
+
+
+(whichever is applicable) of the
+
+
+
+
+residential property
 
 Within one year
 
@@ -2580,7 +2620,17 @@ on sale of residential property; and which is acquired on or after 30th August 2
 
 In addition to duty under paragraph (a) and either paragraph (bc) or (bf) (as applicable), where the property is disposed of in the following periods from the date of its acquisition:
 
-Amount of consideration or value (whichever is applicable) of the residential property
+Amount of consideration or value
+
+
+
+
+(whichever is applicable) of the
+
+
+
+
+residential property
 
 Within one year
 
@@ -2620,9 +2670,11 @@ $1
 
 (bb)
 
-on sale of residential property, one of which is residential; and which is acquired on or after 14th January 2011 but before 12th January 2013
+on sale of residential property; and which is acquired on or after 14th January 2011 but before 12th January 2013
 
-In addition to duty under paragraph (a) and either paragraph (bc) or (bf) (as applicable), where the property is disposed of in the following periods from the date of its acquisition:
+In addition to duty under paragraph (a) and either paragraph (bc) or (bf)
+(as applicable), where the property is disposed of in the following periods
+from the date of its acquisition:
 
 Within one year
 
@@ -2650,8 +2702,6 @@ In addition to duty under paragraphs (a) and either (ba) or (bb) (as applicable)
 
 if —
 
-3% of the amount or the total amount of consideration or of the residential property or properties that is or are conveyed, assigned or transferred
-
 (A)
 
 the grantee, transferee or lessee is a Singapore citizen owning 2 or more properties, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties and none of the other joint grantees, transferees or lessees is a foreigner or an entity; and
@@ -2660,11 +2710,11 @@ the grantee, transferee or lessee is a Singapore citizen owning 2 or more proper
 
 one or more residential properties is or are conveyed, transferred or assigned under the instrument
 
+3% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
+
 (ii)
 
 if —
-
-3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration for any one of those residential properties, as elected by the person paying the duty
 
 (A)
 
@@ -2674,11 +2724,11 @@ the grantee, transferee or lessee is a Singapore citizen owning one property, or
 
 2 or more residential properties are conveyed, transferred or assigned under the instrument
 
+3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration for any one of those residential properties, as elected by the person paying the duty
+
 (iii)
 
 if —
-
-3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the total amount of consideration for any 2 of those residential properties, as elected by the person paying the duty
 
 (A)
 
@@ -2687,6 +2737,8 @@ the grantee, transferee or lessee is a Singapore citizen not owning property, or
 (B)
 
 3 or more residential properties are conveyed, transferred or assigned under the instrument
+
+3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the total amount of consideration for any 2 of those residential properties, as elected by the person paying the duty
 
 (iv)
 
@@ -2698,8 +2750,6 @@ if the grantee, transferee or lessee is a Singapore permanent resident owning pr
 
 if —
 
-3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration for any one of those residential properties, as elected by the person paying the duty
-
 (A)
 
 the grantee, transferee or lessee is a Singapore permanent resident not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore permanent resident not owning property and none of the other joint grantees, transferees or lessees is a Singapore permanent resident owning property, a Singapore citizen owning 2 or more properties, a foreigner or an entity; and
@@ -2707,6 +2757,8 @@ the grantee, transferee or lessee is a Singapore permanent resident not owning p
 (B)
 
 2 or more residential properties are conveyed, transferred or assigned under the instrument
+
+3% of the total amount of consideration of the residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration for any one of those residential properties, as elected by the person paying the duty
 
 (vi)
 
@@ -2792,11 +2844,11 @@ if —
 
 the grantee, transferee or lessee is a Singapore citizen owning one property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning one property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
 
-7% of the amount of consideration of the residential property that is conveyed, assigned or transferred
-
 (B)
 
 one residential property is conveyed, transferred or assigned under the instrument
+
+7% of the amount of consideration of the residential property that is conveyed, assigned or transferred
 
 (ii)
 
@@ -2806,11 +2858,11 @@ if —
 
 the grantee, transferee or lessee is a Singapore permanent resident not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore permanent resident not owning property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
 
-5% of the amount of consideration of the residential property that is conveyed, assigned or transferred
-
 (B)
 
 one residential property is conveyed, transferred or assigned under the instrument
+
+5% of the amount of consideration of the residential property that is conveyed, assigned or transferred
 
 (iii)
 
@@ -2820,11 +2872,11 @@ if —
 
 the grantee, transferee or lessee is a Singapore citizen owning 2 or more properties or a Singapore permanent resident owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties or a Singapore permanent resident owning property, and none of the other joint grantees, transferees or lessees is a foreigner or an entity; and
 
-10% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
-
 (B)
 
 one or more residential properties is or are conveyed, transferred or assigned under the instrument
+
+10% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
 
 (iv)
 
@@ -2834,11 +2886,11 @@ if —
 
 the grantee, transferee or lessee is a Singapore citizen not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen not owning property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident, a foreigner or an entity; and
 
-7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty
-
 (B)
 
 2 residential properties are conveyed, transferred or assigned under the instrument
+
+7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty
 
 (v)
 
@@ -2847,6 +2899,10 @@ if —
 (A)
 
 the grantee, transferee or lessee is a Singapore citizen not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen not owning property and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident, a foreigner or an entity; and
+
+(B)
+
+3 or more residential properties are conveyed, transferred or assigned under the instrument
 
 The aggregate of —
 
@@ -2858,10 +2914,6 @@ The aggregate of —
 
 10% of the total amount of consideration of the other residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration of any one of those other residential properties, as elected by that person
 
-(B)
-
-3 or more residential properties are conveyed, transferred or assigned under the instrument
-
 (vi)
 
 if —
@@ -2869,6 +2921,10 @@ if —
 (A)
 
 the grantee, transferee or lessee is a Singapore citizen owning one property, or any of 2 or more joint grantees, transferees or lessees is a Singapore citizen owning one property, and none of the other joint grantees, transferees or lessees is a Singapore citizen owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
+
+(B)
+
+2 or more residential properties are conveyed, transferred or assigned under the instrument
 
 The aggregate of —
 
@@ -2880,10 +2936,6 @@ The aggregate of —
 
 10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
 
-(B)
-
-2 or more residential properties are conveyed, transferred or assigned under the instrument
-
 (vii)
 
 if —
@@ -2891,6 +2943,10 @@ if —
 (A)
 
 the grantee, transferee or lessee is a Singapore permanent resident not owning property, or any of 2 or more joint grantees, transferees or lessees is a Singapore permanent resident not owning property, and none of the other joint grantees, transferees or lessees is a Singapore citizen owning one property or owning 2 or more properties, a Singapore permanent resident owning property, a foreigner or an entity; and
+
+(B)
+
+2 or more residential properties are conveyed, transferred or assigned under the instrument
 
 The aggregate of —
 
@@ -2902,10 +2958,6 @@ The aggregate of —
 
 10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
 
-(B)
-
-2 or more residential properties are conveyed, transferred or assigned under the instrument
-
 (viii)
 
 if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is a foreigner or an entity
@@ -2914,11 +2966,19 @@ if the grantee, transferee or lessee, or any of 2 or more joint grantees, transf
 
 (c)
 
-on sale of any stock or shares or any interest thereof, computed on the amount of consideration —
+on sale of any stock or shares or any interest thereof —
 
-for every $100 or any part thereof
+(i)
 
-$0.20
+if executed before 22nd February 2014
+
+$0.20 for every $100 or any part thereof, of the amount of the consideration
+
+(ii)
+
+if executed on or after 22nd February 2014
+
+0.2% of the amount of the consideration
 
 (d)
 
@@ -2934,7 +2994,7 @@ See SETTLEMENT
 
 (f)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (g)
 
@@ -2948,23 +3008,23 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 (ii)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (h)
 
 of any property or any interest thereof which is distributed in specie to a shareholder of a company in connection with a liquidation of the company
 
-The same duty as in paragraph (a) or (c), as the case may be
-
 Exemption:
 
 In a case where the conveyance, assignment or transfer is effected by more than one instrument and one instrument has been duly stamped, each other instrument.
 
+The same duty as in paragraph (a) or (c), as the case may be
+
 (i)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
-(1)In this Article—
+(1) In this Article —
 
 “entity” means a person who is not an individual, and includes an unincorporated association, a trustee for a collective investment scheme when acting in that capacity, a trustee-manager for a business trust when acting in that capacity and, in a case where the property conveyed, transferred or assigned is to be held as partnership property, the partners of the partnership whether or not any of them is an individual;
 
@@ -3028,7 +3088,7 @@ permitted under the Planning Act (Cap. 232) to be used for solely residential pu
 
 “Singapore permanent resident owning property” means a permanent resident of Singapore who, if not for the transaction which is the subject of the instrument to be stamped, beneficially owns (whether alone or jointly or in common with another) an estate or interest in one or more residential properties situated within Singapore.
 
-(2)In this Article—
+(2) In this Article —
 
 (a)
 
@@ -3160,7 +3220,7 @@ a part of the property is attributable to a residential purpose if it is permitt
 
 (2C) For the purposes of the definition of “residential property” as well as paragraph (2B), whether a building or part thereof is permitted under the Planning Act (Cap. 232) to be used for a particular purpose is to be determined in accordance with paragraph 6 of the Stamp Duties (Section 22A) Order 2010.
 
-(3)For the avoidance of doubt, in determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of partnership property or property held on trust by the person shall be disregarded.
+(3) For the avoidance of doubt, in determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of partnership property or property held on trust by the person shall be disregarded.
 
 (4) For the avoidance of doubt —
 
@@ -3190,7 +3250,7 @@ then —
 
 (i)
 
-if no other residential property (or estate or interest therein) besides that estate or interest is conveyed, transferred or assigned under the instrument, paragraph (bc)or (bf) of this Article shall not apply to that instrument notwithstanding anything in that paragraph; or
+if no other residential property (or estate or interest therein) besides that estate or interest is conveyed, transferred or assigned under the instrument, paragraph (bc) or (bf) of this Article shall not apply to that instrument notwithstanding anything in that paragraph; or
 
 (ii)
 
@@ -3302,11 +3362,7 @@ $10
 
 5
 
-[Deleted by Act23/2011 wef 19/02/2011]
-
-Exemption:
-
-The duplicate or counterpart of any instrument which has been exempted from duty or in respect of which duty has been remitted
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 6
 
@@ -3336,13 +3392,32 @@ Exceeding 3 years or for any indefinite term
 
 (a)
 
-without premium and executed on or after 1st April 2003, for every $250 or any part thereof of the average rent and other consideration calculated for a whole year
+without premium and executed on or after 1st April 2003 but before 22nd February 2014, for every $250 or any part thereof of the average rent and other consideration calculated for a whole year
 
 $1
 
 $2
 
 $4
+
+Not exceeding 4 years
+
+Exceeding 4 years or
+
+
+
+
+for any indefinite term
+
+(aa)
+
+without premium and executed on or after 22nd February 2014
+
+0.4% × A × 4
+
+where A
+
+is the average rent and other consideration calculated for a whole year
 
 (b)
 
@@ -3358,21 +3433,17 @@ The same duty as for a conveyance on sale in consideration of the premium and a 
 
 (d)
 
-[Deleted by Act23/2011 wef 19/02/2011]
-
-$2
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (e)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
-$10
-
-Exemption:
+Exemptions:
 
 1.
 
-Any lease or agreement for a lease referred to in paragraph (a) or (c) executed on or after 1st April 2003 where the average rent and other consideration calculated for a whole year does not exceed $1,000.
+Any lease or agreement for a lease referred to in paragraph (a), (aa) or (c) executed on or after 1st April 2003 where the average rent and other consideration calculated for a whole year does not exceed $1,000.
 
 2.
 
@@ -3380,7 +3451,7 @@ Any lease or agreement for a lease executed on or after 19th February 2011 in pu
 
 3.
 
-Any lease or agreement for a lease referred to in paragraph (a) executed on or after 1st June 2012 in respect of the direct leasing of a flat from the Housing and Development Board under a scheme known as the “Public Rental Scheme”
+Any lease or agreement for a lease referred to in paragraph (a) or (aa) executed on or after 1st June 2012 in respect of the direct leasing of a flat from the Housing and Development Board under a scheme known as the “Public Rental Scheme”.
 
 9
 
@@ -3388,15 +3459,35 @@ MORTGAGE, AGREEMENT FOR A MORTGAGE and DEBENTURE of immovable property and stock
 
 (a)
 
-being a security (other than an equitable mortgage) for the payment or repayment of money — for every $1,000 or any part thereof
+being a security (other than an equitable mortgage) for the payment or repayment of money —
 
-$4 subject to a maximum of $500
+(i)
+
+if executed before 22nd February 2014
+
+$4 for every $1,000 or any part thereof, of the amount of the money, subject to a maximum of $500
+
+(ii)
+
+if executed on or after 22nd February 2014
+
+0.4% of the amount of the money, subject to a maximum of $500
 
 (b)
 
-being an equitable mortgage for the payment or repayment of money — for every $1,000 or any part thereof
+being an equitable mortgage for the payment or repayment of money —
 
-$2 subject to a maximum of $500
+(i)
+
+if executed before 22nd February 2014
+
+$2 for every $1,000 or any part thereof, of the amount of the money, subject to a maximum of $500
+
+(ii)
+
+if executed on or after 22nd February 2014
+
+0.2% of the amount of the money, subject to a maximum of $500
 
 (c)
 
@@ -3404,29 +3495,45 @@ transfer, assignment or disposition of any mortgage or debenture —
 
 (i)
 
-for every $1,000 of the amount transferred, assigned or disposed, inclusive of interest which is in arrear; and
+if executed before 22nd February 2014 —
+
+(A)
+
+for every $1,000 of the amount transferred, assigned or disposed, inclusive of interest which is in arrear;
 
 $2 subject to a maximum of $500
 
+(B)
+
+where any further money is added to the money already secured;
+
+$4 for every $1,000 or any part thereof, of the amount of such further money, subject to a maximum of $500
+
 (ii)
+
+if executed on or after 22nd February 2014 —
+
+(A)
+
+for the amount transferred, assigned or disposed, inclusive of interest which is in arrear;
+
+0.2% of the amount subject to a maximum of $500
+
+(B)
 
 where any further money is added to the money already secured
 
-The same duty as in paragraph (a) for such further money
+0.4% of the amount of such further money, subject to a maximum of $500
 
 (d)
 
-[Deleted by Act23/2011 wef 19/02/2011]
-
-$2
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (e)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
-$10
-
-Exemption:
+Exemptions:
 
 1.
 
@@ -3442,7 +3549,7 @@ Any security executed on or after 19th February 2011 in conjunction with the sec
 
 10
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 11
 
@@ -3456,7 +3563,7 @@ The same duty as for conveyance, assignment or transfer
 
 (b)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 Exemption:
 
@@ -3474,7 +3581,9 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 (b)
 
-[Deleted by Act23/2011 wef 19/02/2011]
+[Deleted by Act 23/2011 wef 19/02/2011]
+
+[S 96/2014 wef 22/02/2014]
 
 [S 12/2013 wef 12/01/2013]
 
@@ -3488,19 +3597,19 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 [S 16/2011 wef 14/01/2011]
 
-[38/2002; S 284/98; S 288/2000; S192/2003; S525/2004]
+[38/2002; S 284/98; S 288/2000; S 192/2003; S 525/2004]
 
 [23/2011 wef 19/02/2011]
 
 SECOND SCHEDULE
 
-[Repealed by Act 33/1999 wef 09/01/2011]
+[Repealed by Act 33/1999 wef 09/01/2012]
 
 THIRD SCHEDULE
 
 Section 34(a)
 
-Persons Liable to Pay Stamp Duty
+Persons liable to pay stamp duty
 
 Article No.
 
@@ -3520,11 +3629,9 @@ The lessee
 
 (b)
 
-Duplicate or Counterpart
+[Deleted by Act 23/2011 wef 19/02/2011]
 
-The lessor
-
-2
+2.
 
 CONVEYANCE — Article No. 3(a) to (h)
 
@@ -3558,9 +3665,7 @@ The lessee
 
 (b)
 
-Counterpart or Duplicate
-
-The lessor
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 5.
 
@@ -3570,9 +3675,7 @@ The mortgagor or obligor
 
 6.
 
-PARTITION — Article No. 10
-
-The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 [S 12/2013 wef 12/01/2013]
 
@@ -3582,13 +3685,15 @@ The parties thereto, in proportion to their respective shares in the whole prope
 
 [S 474/2010 wef 30/08/2010]
 
-[S 284/98]
+[Act 23 of 2011 wef 19/02/2011]
+
+[S 284/98; S 192/2003]
 
 FOURTH SCHEDULE
 
 Section 37(1)
 
-Adjudication Fees
+Adjudication fees
 
 Subject-matter of Instrument
 
@@ -3634,15 +3739,15 @@ $108.
 
 [S 134/2012 wef 01/04/2012]
 
-[S 284/98; S 192/2003]
-
 [23/2011 wef 01/01/2012]
+
+[33/99; 32/2000]
 
 FIFTH SCHEDULE
 
 Section 37(4)
 
-Valuation Fees
+Valuation fees
 
 Subject-matter of Instrument
 
@@ -3690,7 +3795,7 @@ on the excess where the difference is in excess of $100,000
 
 [S 134/2012 wef 01/04/2012]
 
-[33/99; 32/2000]
+[33/99; S 448/2005]
 
 ## LEGISLATIVE HISTORY
 
@@ -4087,6 +4192,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 17/2013 published on 17 December 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014|
+|70.|**G.N. No. S 96/2014—Stamp Duties Act (Amendment of First Schedule) Notification 2014**|
+||Date of commencement|22 February 2014|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
