@@ -17233,6 +17233,16 @@ Contents of Annual Return
 
 [S 704/2013 wef 02/12/2013]
 
+6. For a period commencing on 2nd December 2013 and ending on 3rd March 2014, the annual return under section 197(1) may contain the particulars under paragraph 1(n), (o), (p) and (r) in force immediately before 2nd December 2013, in lieu of the particulars required under —
+
+(a) paragraph 1(n) in force on 2nd December 2013;
+
+(b) paragraph 1(t), read with paragraph 5; and
+
+(c) paragraph 1(u).
+
+[S 97/2014 wef 24/02/2014]
+
 NINTH SCHEDULE
 
 Accounts and Consolidated Accounts
@@ -17782,6 +17792,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 August 2013|
 |108.|**G.N. No. S 704/2013—Companies Act (Amendment of Eighth Schedule) Notification 2013**|
 ||Date of commencement|2 December 2013|
+|109.|**G.N. No. S 97/2014—Companies Act (Amendment of Eighth Schedule) Notification 2014**|
+||Date of commencement|24 February 2014|
 ## COMPARATIVE TABLE
 
 Companies Act
