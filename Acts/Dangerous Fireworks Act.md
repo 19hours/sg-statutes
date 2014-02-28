@@ -36,9 +36,9 @@
 
 (Original Enactment: Act 24 of 1972)
 
-REVISED EDITION 1999
+REVISED EDITION 2014
 
-(1st August 1999)
+(28th February 2014)
 
 An Act to prohibit the possession, sale, transport, delivery, distribution, import or discharge of dangerous fireworks.
 
@@ -84,11 +84,9 @@ any dangerous fireworks.
 
 [8/88]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not more than 6 strokes.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code (Cap. 68), be punished with caning with not more than 6 strokes.
 
-[15/2010 wef 02/01/2011 wef 02/01/2010]
-
-[8/88]
+[8/88; 15/2010]
 
 (3) When any offence under subsection (1) committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against accordingly.
 
@@ -102,17 +100,13 @@ any dangerous fireworks.
 
 [8/88]
 
-(6) Section 3(2) shall apply to subsection (1) of this section as it applies to subsection (1) of that section.
-
-[3A
+(6) Section 3(2) shall apply to subsection (1) as it applies to section 3(1).
 
 [8/88]
 
 ### Dangerous fireworks in transit
 
 5\. Where any dangerous fireworks brought into Singapore in transit is landed or transhipped in Singapore, it shall be stored and dealt with as the Minister may direct.
-
-[4
 
 ### Penalty
 
@@ -124,21 +118,15 @@ any dangerous fireworks.
 
 (a) in respect of a first offence, to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(b) in respect of a second or subsequent offence, to imprisonment for a term not exceeding 2 years and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not more than 6 strokes.
+(b) in respect of a second or subsequent offence, to imprisonment for a term not exceeding 2 years and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code (Cap. 68), be punished with caning with not more than 6 strokes.
 
-[5
-
-[15/2010 wef 02/01/2011 wef 02/01/2010]
-
-[8/88]
+[8/88; 15/2010]
 
 ### Arrest
 
 7\.—(1) Any police officer may arrest without warrant any person reasonably suspected by him of having committed an offence under this Act, and take him before a Magistrate’s Court to be dealt with according to law.
 
-(2) Any dangerous fireworks by or in respect of which an offence under this Act has been committed may be seized by a police officer and may, notwithstanding the provisions of the Criminal Procedure Code relating to the disposal of property the subject of an offence, be disposed of as the Minister may direct.
-
-[6
+(2) Any dangerous fireworks by or in respect of which an offence under this Act has been committed may be seized by a police officer and may, notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) relating to the disposal of property the subject of an offence, be disposed of as the Minister may direct.
 
 ### Regulations
 
@@ -148,19 +136,13 @@ any dangerous fireworks.
 
 (b) the better carrying out of the provisions of this Act.
 
-[7
-
 ### Exemption
 
 9\. The Minister may, by notification published in theGazette, exempt any person or class of persons from all or any of the provisions of this Act, whether absolutely or subject to such conditions as the Minister may think fit to impose.
 
-[8
-
 ### Saving
 
 10\. The provisions of this Act shall be in addition to and not in derogation of the provisions of any other written law.
-
-[9
 
 ## LEGISLATIVE HISTORY
 
@@ -168,7 +150,7 @@ Dangerous Fireworks Act
 
 (CHAPTER 72)
 
-This Legislative History is provided for the convenience of users of the Dangerous Fireworks Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Dangerous Fireworks Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -192,45 +174,47 @@ This Legislative History is provided for the convenience of users of the Dangero
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**2014 Revised Edition—Dangerous Fireworks Act (Chapter 72)**|
+||Date of operation|28 February 2014|
 ## COMPARATIVE TABLE
 
 Dangerous Fireworks Act
 
 (CHAPTER 72)
 
-The following provisions in the 1985 Revised Edition of the Dangerous Fireworks Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1985 Revised Edition of the Dangerous Fireworks Act have been renumbered by the Law Revision Commissioners in the 1999 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Dangerous Fireworks Act.
 
-1999 Ed.
+1999 Ed\. 
 
-1985 Ed.
+1985 Ed\. 
 
-4
+4 
 
-3A
+3A 
 
-5
+5 
 
-4
+4 
 
-6
+6 
 
-5
+5 
 
-7
+7 
 
-6
+6 
 
-8
+8 
 
-7
+7 
 
-9
+9 
 
-8
+8 
 
-10
+10 
 
-9
+9 
 
