@@ -48,19 +48,21 @@
 
 - [21 Savings](#Savings)
 
-[**THE SCHEDULE Newspaper Statements Having Qualified Privilege**](#THE-SCHEDULE)
+[**THE SCHEDULE Newspaper statements having qualified privilege**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Defamation Act
 
 (CHAPTER 75)
 
-(Original Enactment: Ordinance M. 20 of 1957)
+(Original Enactment: M. Ordinance 20 of 1957)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(28th February 2014)
 
 An Act relating to libel and slander and other malicious falsehoods.
 
@@ -74,7 +76,7 @@ An Act relating to libel and slander and other malicious falsehoods.
 
 2\. In this Act, unless the context otherwise requires —
 
-“broadcasting by means of telecommunication” means publication for general reception by means of a telecommunication;
+“broadcasting by means of telecommunication” means publication for general reception by means of telecommunication;
 
 “newspaper” means any paper containing public news or observations thereon or consisting wholly or mainly of advertisements which is printed for sale and is published in Singapore either periodically or in parts or numbers at intervals not exceeding 36 days;
 
@@ -86,7 +88,7 @@ An Act relating to libel and slander and other malicious falsehoods.
 
 ### Broadcast statements
 
-3\. For the purpose of the law of libel and slander, the broadcasting of words by means of telecommunication shall be treated as publication in a permanent form.
+3\. For the purposes of the law of libel and slander, the broadcasting of words by means of telecommunication shall be treated as publication in a permanent form.
 
 [3/80]
 
@@ -120,23 +122,23 @@ An Act relating to libel and slander and other malicious falsehoods.
 
 (3) An offer of amends under this section shall be understood to mean an offer —
 
-(a) in any case, to publish or join in the publication of a suitable correction of the words complained of, and a sufficient apology to the party aggrieved in respect of those words;
+(a) in any case, to publish or join in the publication of a suitable correction of the words complained of, and a sufficient apology to the party aggrieved in respect of those words; and
 
 (b) where copies of a document or record containing the said words have been distributed by or with the knowledge of the person making the offer, to take such steps as are reasonably practicable on his part for notifying persons to whom copies have been so distributed that the words are alleged to be defamatory of the party aggrieved.
 
 (4) Where an offer of amends under this section is accepted by the party aggrieved —
 
-(a) any question as to the steps to be taken in fulfilment of the offer as so accepted shall in default of agreement between the parties be referred to and determined by the High Court, whose decision shall be final;
+(a) any question as to the steps to be taken in fulfilment of the offer as so accepted shall in default of agreement between the parties be referred to and determined by the High Court, whose decision shall be final; and
 
-(b) the power of the court to make orders as to costs in proceedings by the party aggrieved against the person making the offer in respect of the publication in question, or in proceedings in respect of the offer under paragraph (a), shall include power to order the payment by the person making the offer to the party aggrieved of costs on an indemnity basis and any expenses reasonably incurred or to be incurred by that party in consequence of the publication in question;
+(b) the power of the court to make orders as to costs in proceedings by the party aggrieved against the person making the offer in respect of the publication in question, or in proceedings in respect of the offer under paragraph (a), shall include power to order the payment by the person making the offer to the party aggrieved of costs on an indemnity basis and any expenses reasonably incurred or to be incurred by that party in consequence of the publication in question,
 
-and if no such proceedings as aforesaid are taken, the High Court may, upon application made by the party aggrieved, make any such order for the payment of such costs and expenses as aforesaid as could be made in such proceedings.
+and if no such proceedings as referred to in paragraph (b) are taken, the High Court may, upon an application made by the party aggrieved, make any such order for the payment of such costs and expenses as referred to in paragraph (b) as could be made in such proceedings.
 
 (5) For the purposes of this section, words shall be treated as published by one person (referred to in this subsection as the publisher) innocently in relation to another person if and only if the following conditions are satisfied:
 
 (a) that the publisher did not intend to publish them of and concerning that other person, and did not know of circumstances by virtue of which they might be understood to refer to him; or
 
-(b) that the words were not defamatory on the face of them, and the publisher did not know of circumstances by virtue of which they might be understood to be defamatory of that other person;
+(b) that the words were not defamatory on the face of them, and the publisher did not know of circumstances by virtue of which they might be understood to be defamatory of that other person,
 
 and in either case that the publisher exercised all reasonable care in relation to the publication; and any reference in this subsection to the publisher shall be construed as including a reference to any servant or agent of his who was concerned with the contents of the publication.
 
@@ -144,7 +146,7 @@ and in either case that the publisher exercised all reasonable care in relation 
 
 ### Justification
 
-8\. In an action for libel or slander in respect of words containing two or more distinct charges against the plaintiff, a defence of justification shall not fail by reason only that the truth of every charge is not proved if the words not proved to be true do not materially injure the plaintiff’s reputation having regard to the truth of the remaining charges.
+8\. In an action for libel or slander in respect of words containing 2 or more distinct charges against the plaintiff, a defence of justification shall not fail by reason only that the truth of every charge is not proved if the words not proved to be true do not materially injure the plaintiff’s reputation having regard to the truth of the remaining charges.
 
 ### Fair comment
 
@@ -152,29 +154,25 @@ and in either case that the publisher exercised all reasonable care in relation 
 
 ### Apology in mitigation of damages
 
-10\.—(1) In any action for defamation the defendant may (after notice in writing of his intention to do so duly given to the plaintiff at the time of filing his written statement of his case) give in evidence, in mitigation of damages, that he made or offered an apology to the plaintiff for such defamation before the commencement of the action or, where the action was commenced before there was an opportunity of making or offering such apology, as soon afterwards as he had an opportunity of doing so.
+10\.—(1) In any action for defamation, the defendant may (after notice in writing of his intention to do so duly given to the plaintiff at the time of filing his written statement of his case) give in evidence, in mitigation of damages, that he made or offered an apology to the plaintiff for such defamation before the commencement of the action or, where the action was commenced before there was an opportunity of making or offering such apology, as soon afterwards as he had an opportunity of doing so.
 
 (2) In an action for libel contained in any newspaper, any defendant who has paid money into court under the provisions of any written law relating to civil procedure may state in mitigation of damages, in his written statement of his case, that such libel was inserted in such newspaper without actual malice and without gross negligence and that, before the commencement of the action or at the earliest opportunity afterwards, he inserted or offered to insert in such newspaper a full apology for the said libel, or, if the newspaper in which the said libel appeared should be ordinarily published at intervals exceeding one week, had offered to publish the said apology in any newspaper to be selected by the plaintiff in such action.
 
 ### Reports of judicial proceedings
 
-11\.—(1) A fair and accurate and contemporaneous report of proceedings publicly heard before any court lawfully exercising judicial authority within Singapore and of the judgment, sentence or finding of any such court shall be absolutely privileged, and any fair and bona fide comment thereon shall be protected, although such judgment, sentence or finding be subsequently reversed, quashed or varied, unless at the time of the publication of such report or comment the defendant who claims the protection afforded by this section knew or ought to have known of such reversal, quashing or variation.
+11\.—(1) A fair and accurate and contemporaneous report of proceedings publicly heard before any court lawfully exercising judicial authority within Singapore and of the judgment, sentence or finding of any such court shall be absolutely privileged, and any fair and bona fide comment thereon shall be protected, although such judgment, sentence or finding is subsequently reversed, quashed or varied, unless at the time of the publication of such report or comment the defendant who claims the protection afforded by this section knew or ought to have known of such reversal, quashing or variation.
 
 (2) Nothing in this section shall authorise the publication of any blasphemous, seditious or indecent matter or of any matter the publication of which is prohibited by law.
 
 ### Qualified privilege of newspapers
 
-12\.—(1) Subject to this section, the publication in a newspaper of any such report or other matter as is mentioned in the Schedule shall be privileged unless the publication is proved to be made with malice.
+12\.—(1) Subject to this section, the publication in a newspaper of any report or other matter specified in the Schedule shall be privileged unless the publication is proved to be made with malice.
 
-(2) In an action for libel in respect of the publication of any such report or matter as is mentioned in Part II of the Schedule, this section shall not be a defence if it is proved that the defendant has been requested by the plaintiff to publish in the newspaper in which the original publication was made a reasonable letter or statement by way of explanation or contradiction, and has refused or neglected to do so, or has done so in a manner not adequate or not reasonable having regard to all the circumstances.
+(2) In an action for libel in respect of the publication of any report or other matter specified in Part II of the Schedule, this section shall not be a defence if it is proved that the defendant has been requested by the plaintiff to publish in the newspaper in which the original publication was made a reasonable letter or statement by way of explanation or contradiction, and has refused or neglected to do so, or has done so in a manner not adequate or not reasonable having regard to all the circumstances.
 
 (3) Nothing in this section shall be construed as protecting the publication of any blasphemous, seditious or indecent matter or of any matter the publication of which is prohibited by law, or of any matter which is not of public concern and the publication of which is not for the public benefit.
 
-(4) Nothing in this section shall be construed as limiting or abridging any privilege subsisting (otherwise than by virtue of the Defamation Ordinance 19601) immediately before the commencement of this Act.
-
-1Repealed by L N 179/65.
-
-[7/60]
+(4) Nothing in this section shall be construed as limiting or abridging any privilege subsisting (otherwise than by virtue of the repealed Defamation Ordinance 1960 [Ordinance 7 of 1960]) immediately before 6th May 1965.
 
 ### Application of Act to broadcasting
 
@@ -182,7 +180,7 @@ and in either case that the publisher exercised all reasonable care in relation 
 
 [3/80]
 
-(2) Section 10(2) shall have effect in relation to such broadcasting as if for the words “to insert in such newspaper” there were substituted the words “to publish in the same manner” and section 12(2) shall have effect in relation to any such broadcasting, as if for the words “in the newspaper in which” there were substituted the words “in the manner in which”.
+(2) Section 10(2) shall have effect in relation to such broadcasting as if for the words “to insert in such newspaper” there were substituted the words “to publish in the same manner”, and section 12(2) shall have effect in relation to any such broadcasting, as if for the words “in the newspaper in which” there were substituted the words “in the manner in which”.
 
 (3) In this section, “broadcasting station” means any telecommunication station which is authorised by law, or in respect of which a licence is granted under any written law authorising the station, to provide broadcasting services for general reception.
 
@@ -192,37 +190,35 @@ and in either case that the publisher exercised all reasonable care in relation 
 
 14\. A defamatory statement published by or on behalf of a candidate in any election to the office of President or to Parliament or other elected or partially elected body shall not be deemed to be published on a privileged occasion on the ground that it is material to a question in issue in the election, whether or not the person by whom it is published is qualified to vote at the election.
 
-[11/91 wef 30/11/1991]
+[11/91]
 
 ### Agreements for indemnity
 
-15\. An agreement for indemnifying any person against civil liability for libel in respect of the publication of any matter shall not be unlawful unless at the time of the publication that person knows that the matter is defamatory, and does not reasonably believe there is a good defence to any action brought upon it.
+15\. An agreement for indemnifying any person against civil liability for libel in respect of the publication of any matter shall not be unlawful unless at the time of the publication that person knows that the matter is defamatory and does not reasonably believe there is a good defence to any action brought upon it.
 
 ### Evidence of other damages recovered by plaintiff
 
-16\. In any action for libel or slander, the defendant may give evidence in mitigation of damages that the plaintiff has recovered damages or has brought actions for damages, for libel or slander in respect of the publication of words to the same effect as the words on which the action is founded, or has received or agreed to receive compensation in respect of any such publication.
+16\. In any action for libel or slander, the defendant may give evidence in mitigation of damages that the plaintiff has recovered damages or has brought actions for damages, libel or slander in respect of the publication of words to the same effect as the words on which the action is founded, or has received or agreed to receive compensation in respect of any such publication.
 
 ### Consolidation of actions for libel
 
-17\.—(1) Upon an application by two or more defendants in actions in respect of the same or substantially the same libel brought by one and the same person, the court or a judge may make an order for the consolidation of such actions so that they shall be tried together.
+17\.—(1) Upon an application by 2 or more defendants in actions in respect of the same or substantially the same libel brought by one and the same person, the court or a judge may make an order for the consolidation of such actions so that they shall be tried together.
 
-(2) After any such order has been made and before the trial of the said actions, the defendants in any new actions instituted in respect of the same or substantially the same libel shall also be entitled to be joined in a common action upon a joint application by such new defendants and the defendants in the actions already consolidated.
+(2) After any order has been made under subsection (1) and before the trial of the actions referred to in that subsection, the defendants in any new actions instituted in respect of the same or substantially the same libel shall also be entitled to be joined in a common action upon a joint application by such new defendants and the defendants in the actions already consolidated.
 
-(3) The court or a judge may, in the case of the same or substantially the same libel published simultaneously in a number of newspapers or copied shortly after publication, give notice to the plaintiff in any action or actions arising out of such libels that a period stated in such notice will be allowed for the discovery of any further publications of such libel in order that the whole of the actions arising out of such libel may be tried together, and after such period has expired no further action shall be instituted in respect of the publication of such libel except for the recovery of special damages.
+(3) The court or a judge may, in the case of the same or substantially the same libel published simultaneously in a number of newspapers or copied shortly after publication, give notice to the plaintiff in any action or actions arising out of such libel that a period stated in the notice will be allowed for the discovery of any further publications of such libel in order that the whole of the actions arising out of such libel may be tried together, and after that period has expired no further action shall be instituted in respect of the publication of such libel except for the recovery of special damages.
 
 (4) In a consolidated action under this section, the whole amount of the damages (if any) shall be assessed in one sum but a separate judgment shall be given in respect of each defendant in the same way as if the actions consolidated had been tried separately.
 
-(5) The amount of damages so assessed shall be apportioned amongst those of the defendants against whom judgment has been given, and if costs are given to the plaintiff the court may make such order as it thinks just apportioning the costs amongst such defendants.
+(5) The amount of damages so assessed shall be apportioned amongst those of the defendants against whom judgment has been given, and if costs are given to the plaintiff the court may make such order as it thinks just apportioning the costs amongst those defendants.
 
 ### Separate assessment of damages in certain cases in actions for libel
 
-18\. Whenever in an action for libel the plaintiff sues more than one defendant, whether jointly, severally, or in the alternative, and evidence is given of malice in one defendant or of any other matter of aggravation which would not be admissible in evidence against any other defendant if he were sued alone, such other defendant may apply to the court to have the damages against himself and his co-defendants separately assessed, and if such application be made the court shall assess the damages separately against each defendant and no defendant shall be liable nor shall execution issue against him for any further or other damages than those so assessed against him.
+18\. Whenever in an action for libel the plaintiff sues more than one defendant, whether jointly, severally, or in the alternative, and evidence is given of malice in one defendant or of any other matter of aggravation which would not be admissible in evidence against any other defendant if he were sued alone, such other defendant may apply to the court to have the damages against himself and his co-defendants separately assessed, and if such application is made, the court shall assess the damages separately against each defendant and no defendant shall be liable nor shall execution issue against him for any further or other damages than those so assessed against him.
 
 ### Severance of defences
 
-19\. Whenever in any action for libel the plaintiff sues more than one defendant, whether jointly, severally, or in the alternative, each defendant may file a separate statement of his case and appear at the trial by separate counsel or, if he thinks fit, apologise or pay money into court or make other amends, whatever may be the defences set up by his co-defendants, and the plaintiff may accept such apology, money, or other amends and settle or compromise the suit and discontinue the action as between himself and one or more defendants without reference to the other defendants:
-
-Provided that the rights and interests of the other defendant or defendants shall not in any way be prejudiced thereby.
+19\. Whenever in any action for libel the plaintiff sues more than one defendant, whether jointly, severally, or in the alternative, each defendant may file a separate statement of his case and appear at the trial by separate counsel or, if he thinks fit, apologise or pay money into court or make other amends, whatever may be the defences set up by his co-defendants, and the plaintiff may accept such apology, money, or other amends and settle or compromise the suit and discontinue the action as between himself and one or more defendants without reference to the other defendants; except that the rights and interests of the other defendant or defendants shall not in any way be prejudiced thereby.
 
 ### Consolidation of actions for slander, etc.
 
@@ -234,9 +230,9 @@ Provided that the rights and interests of the other defendant or defendants shal
 
 ## THE SCHEDULE
 
-Section 12.
+Section 12
 
-Newspaper Statements Having Qualified Privilege
+Newspaper statements having qualified privilege
 
 Part I
 
@@ -252,13 +248,11 @@ Statements Privileged Without Explanation or Contradiction
 
 (d) before any court exercising jurisdiction throughout any part of the Commonwealth outside Singapore or a court martial held outside Singapore under any written law in force in Singapore; and
 
-[7/97 wef 01/10/1997]
-
 (e) in public of a body or person appointed to hold a public inquiry by the Government or legislature of any part of the Commonwealth outside Singapore.
 
 2\. A fair and accurate copy of or extract from any register kept in pursuance of any written law in force in Singapore which is open to inspection by the public or which members of the public are entitled to have searched or of any other document which is required by any such law to be open to inspection by the public or to which members of the public are entitled on payment of a fee to a copy.
 
-3\. A notice, advertisement or report issued or published by or on the authority of any court within Singapore or any judge or officer of such court or by any public officer or receiver or trustee acting in accordance with the requirements of any written law.
+3\. A notice, an advertisement or a report issued or published by or on the authority of any court within Singapore or any judge or officer of such court or by any public officer or receiver or trustee acting in accordance with the requirements of any written law.
 
 Part II
 
@@ -288,7 +282,9 @@ being a meeting or sitting to which admission is not denied to representatives o
 
 4\. A fair and accurate report of the proceedings at a general meeting wherever held of any joint-stock company or corporation wherever registered whose business is in any way directly concerned with Singapore or of any company constituted, registered or incorporated under the provisions of any written law not being a private company within the meaning of the Companies Act (Cap. 50).
 
-5\. A copy or a fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of the Government or by any public officer or authority.
+5. A copy or a fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of the Government or by any public officer or authority.
+
+[7/97]
 
 ## LEGISLATIVE HISTORY
 
@@ -296,7 +292,7 @@ Defamation Act
 
 (CHAPTER 75)
 
-This Legislative History is provided for the convenience of users of the Defamation Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Defamation Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -332,3 +328,23 @@ This Legislative History is provided for the convenience of users of the Defamat
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (item (3) of First Schedule — amendment of Defamation Act)|
+|10.|**2014 Revised Edition—Defamation Act (Chapter 75)**|
+||Date of operation|28 February 2014|
+## COMPARATIVE TABLE
+
+Defamation Act
+
+(CHAPTER 75)
+
+The following provision in the 1985 Revised Edition of the Defamation Act (Cap. 75) was renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Defamation Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+19 —(1) and (2)
+
+19 
+
