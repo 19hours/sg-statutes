@@ -24,9 +24,9 @@
 
 (Original Enactment: Ordinance 3 of 1875)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(28th February 2014)
 
 An Act to control recruiting in Singapore for the service of foreign States.
 
@@ -87,3 +87,5 @@ This Legislative History is provided for the convenience of users of the Foreign
 ||Date of operation|31 July 1971|
 |8.|**1985 Revised Edition—Foreign Recruiting Act (Chapter 112)**|
 ||Date of operation|30 March 1987|
+|9.|**2014 Revised Edition—Foreign Recruiting Act (Chapter 112)**|
+||Date of operation|28 February 2014|
