@@ -12,7 +12,7 @@
 
 - [3 Penalty for causing explosion likely to endanger life or property](#Penalty-for-causing-explosion-likely-to-endanger-life-or-property)
 
-- [4 Penalty for attempt to cause explosion, or for making or keeping explosives with intent to endanger life or property](#Penalty-for-attempt-to-cause-explosion-or-for-making-or-keeping-explosives-with-intent-to-endanger-life-or-property)
+- [4 Penalty for attempt to cause explosion, or for making or keeping explosives, with intent to endanger life or property](#Penalty-for-attempt-to-cause-explosion-or-for-making-or-keeping-explosives-with-intent-to-endanger-life-or-property)
 
 - [5 Penalty for making or possessing explosives under suspicious circumstances](#Penalty-for-making-or-possessing-explosives-under-suspicious-circumstances)
 
@@ -20,15 +20,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Explosive Substances Act
 
 (CHAPTER 100)
 
 (Original Enactment: Ordinance 6 of 1924)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(28th February 2014)
 
 An Act relating to explosive substances.
 
@@ -40,25 +42,29 @@ An Act relating to explosive substances.
 
 ### Interpretation
 
-2\. In this Act “explosive substance” shall be deemed to include any material for making any explosive substance; any apparatus, machine, implement or material used, or intended to be used, or adapted for causing, or aiding in causing, any explosion in or with any explosive substance; and any part of any such apparatus, machine or implement.
+2\. In this Act, “explosive substance” shall be deemed to include —
+
+(a) any material for making any explosive substance;
+
+(b) any apparatus, machine, implement or material used, or intended to be used, or adapted for causing, or aiding in causing, any explosion in or with any explosive substance, and any part of any such apparatus, machine or implement.
 
 ### Penalty for causing explosion likely to endanger life or property
 
-3\. Any person who unlawfully and maliciously causes by any explosive substance an explosion of a nature likely to endanger life or to cause serious injury to property shall, whether any injury to person or property has been actually caused or not, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 10 years or to caning, or to any two of such punishments.
+3\. Any person who unlawfully and maliciously causes by any explosive substance an explosion of a nature likely to endanger life or to cause serious injury to property shall, whether or not any injury to person or property has been actually caused, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 10 years or to caning, or to any 2 of such punishments.
 
-### Penalty for attempt to cause explosion, or for making or keeping explosives with intent to endanger life or property
+### Penalty for attempt to cause explosion, or for making or keeping explosives, with intent to endanger life or property
 
 4\. Any person who unlawfully and maliciously —
 
 (a) does any act with intent to cause by an explosive substance, or conspires to cause by an explosive substance, an explosion of a nature likely to endanger life or to cause serious injury to property; or
 
-(b) makes or has in his possession or under his control any explosive substance with intent by means thereof to endanger life or cause serious injury to property, or to enable any other person by means thereof to endanger life or cause serious injury to property,
+(b) makes, or has in his possession or under his control, any explosive substance with intent by means of the explosive substance to endanger life or cause serious injury to property, or to enable any other person by means of the explosive substance to endanger life or cause serious injury to property,
 
-shall, whether any explosion does or does not take place and whether any injury to person or property has been actually caused or not, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 10 years or to caning, or to any two of such punishments.
+shall, whether any explosion does or does not take place and whether or not any injury to person or property has been actually caused, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 10 years or to caning, or to any 2 of such punishments.
 
 ### Penalty for making or possessing explosives under suspicious circumstances
 
-5\. Any person who makes or knowingly has in his possession or under his control any explosive substance, under such circumstances as to give rise to a reasonable suspicion that he is not making it or does not have it in his possession or under his control for a lawful object, shall, unless he can show that he made it or had it in his possession or under his control for a lawful object, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years or to caning, or to any two of such punishments.
+5\. Any person who makes or knowingly has in his possession or under his control any explosive substance, under such circumstances as to give rise to a reasonable suspicion that he is not making it or does not have it in his possession or under his control for a lawful object, shall, unless he can show that he made it or had it in his possession or under his control for a lawful object, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years or to caning, or to any 2 of such punishments.
 
 ### Penalty for abetment
 
@@ -95,3 +101,23 @@ This Legislative History is provided for the convenience of users of the Explosi
 ||Date of operation|15 April 1971|
 |7.|**1985 Revised Edition—Explosive Substances Act**|
 ||Date of operation|30 March 1987|
+|8.|**2014 Revised Edition—Explosive Substances Act**|
+||Date of operation|28 February 2014|
+## COMPARATIVE TABLE
+
+Explosive Substances Act
+
+(CHAPTER 100)
+
+The following provisions in the 1985 Revised Edition of the Explosive Substances Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Explosive Substances Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+2 (a) and (b)
+
+2 
+
