@@ -130,6 +130,12 @@
 
 - [36 Dispensing of petroleum and flammable materials](#Dispensing-of-petroleum-and-flammable-materials)
 
+- [36A Pipelines for petroleum and flammable materials](#Pipelines-for-petroleum-and-flammable-materials)
+
+- [36B Conduct of works in vicinity of licensed pipeline](#Conduct-of-works-in-vicinity-of-licensed-pipeline)
+
+- [36C Damage to licensed pipeline](#Damage-to-licensed-pipeline)
+
 - [37 Offences](#Offences)
 
 - [38 Powers of entry, inspection, etc.](#Powers-of-entry-inspection-etc)
@@ -226,6 +232,8 @@ PRELIMINARY
 
 using engineering tools, methodologies and performance criteria as may be acceptable to the Commissioner, but does not include engineered smoke control systems where the usage and design are in accordance with the Fire Code;
 
+[7/2004 wef 15/04/2004]
+
 “authorised officer”, in relation to any power conferred or duties imposed on the Commissioner by or under this Act, means a person authorised under section 3 to exercise that power or to carry out that duty;
 
 [Act 14 of 2013 wef 01/09/2013]
@@ -256,7 +264,7 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 (d) the presence in any building of any fire safety measure which from lack of proper maintenance or for any other reason is not in efficient working order;
 
-(e) the obstruction of escape routes, passageways , common property or limited common property of any building such as might render escape in the event of fire more difficult; and
+(e) the obstruction of escape routes, passageways, common property or limited common property of any building such as might render escape in the event of fire more difficult; and
 
 [47/2004 wef 01/04/2005]
 
@@ -265,6 +273,8 @@ using engineering tools, methodologies and performance criteria as may be accept
 “fire hazard abatement notice” means a notice in writing issued by the Commissioner under section 13(1);
 
 “fire performance requirements” means the objectives specified in the Fire Code in respect of fire safety works;
+
+[7/2004 wef 15/04/2004]
 
 “fire protection system” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
@@ -275,6 +285,8 @@ using engineering tools, methodologies and performance criteria as may be accept
 “fire protection works” means the provision, extension or alteration of any fire protection system;
 
 “fire safety engineer” means a person who is registered as a fire safety engineer under this Act;
+
+[7/2004 wef 15/04/2004]
 
 “fire safety measures” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —
 
@@ -332,6 +344,8 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[47/2004 wef 01/04/2005]
+
 (c) in respect of any fire safety measure, includes the occupier or the owner of the premises in or on which the fire safety measure is installed or kept;
 
 (d) in relation to an aircraft or a vessel, includes the charterer of the aircraft or vessel, as the case may be; and
@@ -343,6 +357,8 @@ using engineering tools, methodologies and performance criteria as may be accept
 [Act 14 of 2013 wef 01/09/2013]
 
 “peer reviewer” means a fire safety engineer who is appointed to review and assess whether any alternative solution in plans for any fire safety works that is prepared or proposed by another person satisfies any fire performance requirements;
+
+[7/2004 wef 15/04/2004]
 
 “petroleum” includes crude petroleum, liquefied petroleum gas and other naturally occurring hydrocarbon liquid derived from crude petroleum, coal, shale, peat or other bituminous substances;
 
@@ -386,6 +402,8 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 (iii) business purposes;
 
+[7/2004 wef 15/04/2004]
+
 “qualified person” means a person who is registered as —
 
 (a) an architect under the Architects Act (Cap. 12) and has in force a practising certificate issued under that Act; or
@@ -407,8 +425,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 “street” has the same meaning as in the Street Works Act (Cap. 320A);
 
 [5/2000]
-
-[Act 14 of 2013 wef 01/09/2013]
 
 “vessel” includes —
 
@@ -501,6 +517,8 @@ using engineering tools, methodologies and performance criteria as may be accept
 (f) if he is a qualified person or a fire safety engineer, his registration as such is revoked or cancelled or he is suspended from practising as such under this Act or any other relevant written law.
 
 [5/2000]
+
+[7/2004 wef 01/07/2004]
 
 (2) The Commissioner may, if he considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, by writing censure the registered inspector.
 
@@ -721,6 +739,8 @@ as the Commissioner may determine.
 [5/2000]
 
 (5) Where the complainant withdraws his complaint before the Inquiry Committee is constituted or before the inquiry by the Committee is concluded, the Commissioner may, notwithstanding such withdrawal, constitute an Inquiry Committee and direct it to inquire, or may direct the Inquiry Committee to continue with its inquiry, into the matter, and the Inquiry Committee shall comply with that direction.
+
+[7/2004 wef 15/04/2004]
 
 (6) An Inquiry Committee shall, in its written report, make such recommendation as it thinks fit.
 
@@ -1010,6 +1030,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FIRE HAZARD IN PREMISES
 
+[Act 14 of 2013 wef 01/09/2013]
+
 ### Abatement of fire hazards
 
 13\.—(1) The Commissioner may, if satisfied of the existence in or on any premises of any fire hazard, serve —
@@ -1065,8 +1087,6 @@ cause to be carried out in or on the premises such work, including the removal a
 [Act 14 of 2013 wef 01/09/2013]
 
 (b) if an order referred to in paragraph (a) cannot for any reason be given to the owner or occupier of the premises or if such an order, having been given to that owner or occupier, is not immediately obeyed, close the premises for such period not exceeding 72 hours as the Commissioner considers necessary for the alleviation of the danger in question, using such force as is reasonably necessary for the removal from the premises of persons therein without doing them bodily harm.
-
-[Act 14 of 2013 wef 01/09/2013]
 
 [Act 14 of 2013 wef 01/09/2013]
 
@@ -1222,13 +1242,19 @@ FIRE PREVENTION IN BUILDINGS
 
 20\.—(1) The Commissioner may, by notice in writing, require the owner or occupier of any building subject to this section to apply and obtain a fire certificate from the Commissioner.
 
+[7/2004 wef 10/09/2004]
+
 (1A) The following buildings shall be subject to this section:
 
 (a) any public building which has an occupant load of more than 200 persons or, if so specified, such other occupant load as the Minister may, by notification in theGazette, specify; and
 
 (b) any other particular building, or any building in any other class of buildings, designated by the Minister under subsection (1B) to be subject to this section.
 
+[7/2004 wef 10/09/2004]
+
 (1B) Where, in the opinion of the Minister, any fire within any building (whether used as a residential building or an industrial building or otherwise) is likely to be a significant source of danger to the occupants in the building, or to life or property in the vicinity of that building, the Minister may, by order published in theGazette, designate that particular building or a class of such buildings to be subject to this section.
+
+[7/2004 wef 10/09/2004]
 
 (1C) The Commissioner may, pending compliance with any requirements relating to fire safety affecting any part of a building subject to this section, issue a fire certificate in respect only of any other part of the building if he is satisfied that those requirements do not affect the fire safety of that other part of the building.
 
@@ -1253,6 +1279,8 @@ FIRE PREVENTION IN BUILDINGS
 (b) the purposes of any water, gas, telecommunication, electricity or other industrial undertaking, including research and development for any such industrial undertaking;
 
 “occupant load”, in relation to a building, means the number of persons that may safely occupy the building at any one time.
+
+[7/2004 wef 10/09/2004]
 
 ### Emergency Response Plan
 
@@ -1305,6 +1333,8 @@ FIRE PREVENTION IN BUILDINGS
 ## PART IIIA
 
 FIRE SAFETY ENGINEERS
+
+[7/2004 wef 15/04/2004]
 
 ### Duties and responsibilities of fire safety engineers
 
@@ -1362,6 +1392,8 @@ shall not be regarded as constituting a professional or financial interest.
 
 (10) Any fire safety engineer who contravenes subsection (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[7/2004 wef 15/04/2004]
+
 ### Registration of fire safety engineers
 
 22B\.—(1) An application for registration as a fire safety engineer shall be made to the Commissioner in such form and manner, and be accompanied by such documents, particulars and fee, as may be prescribed.
@@ -1389,6 +1421,8 @@ shall not be regarded as constituting a professional or financial interest.
 (5) Any person whose application for registration has been refused may, within 14 days after receiving notice of such refusal, appeal to the Minister whose decision shall be final.
 
 (6) The Commissioner shall issue a certificate of registration to every person registered as a fire safety engineer.
+
+[7/2004 wef 15/04/2004]
 
 ### Disciplinary action against fire safety engineers
 
@@ -1471,6 +1505,8 @@ the Commissioner may, after giving the fire safety engineer concerned a reasonab
 (10) In any proceedings under this section and section 22D against a fire safety engineer consequent upon his conviction for an offence, the Commissioner and an Inquiry Committee shall accept his conviction as final and conclusive.
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[7/2004 wef 15/04/2004]
 
 ### Inquiry Committee
 
@@ -1566,6 +1602,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 15/04/2004]
+
 ### Fire Safety Engineers Inquiry Panel
 
 22E\.—(1) There shall be a Fire Safety Engineers Inquiry Panel for the purpose of constituting Inquiry Committees under section 22D to investigate into any complaint against or information about the conduct of any fire safety engineer as a peer reviewer or otherwise, or the discharge of his duties as a fire safety engineer or peer reviewer.
@@ -1579,8 +1617,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [Act 14 of 2013 wef 01/09/2013]
 
 (b) such number of members of the Force as the Commissioner may determine.
-
-[Act 14 of 2013 wef 01/09/2013]
 
 [Act 14 of 2013 wef 01/09/2013]
 
@@ -1599,6 +1635,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (6) Each person who, immediately before the date of commencement of section 24 of the Fire Safety (Amendment) Act 2013, is a member of the Fire Safety Engineers Discipline Panel appointed under this section shall be deemed to have been appointed as a member of the Fire Safety Engineers Inquiry Panel for a term expiring on the date when his term would have expired if section 24 of the Fire Safety (Amendment) Act 2013 had not been enacted.
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[7/2004 wef 15/04/2004]
 
 ### Register of fire safety engineers
 
@@ -1630,6 +1668,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) the conduct of the fire safety engineer (whether as a peer reviewer or otherwise) is the subject of any complaint to or information received by the Commissioner.
 
+[7/2004 wef 15/04/2004]
+
 ## PART IV
 
 CONTROL OF FIRE SAFETY WORKS
@@ -1649,6 +1689,8 @@ CONTROL OF FIRE SAFETY WORKS
 (ii) another fire safety engineer as a peer reviewer to review and assess whether the alternative solution therein satisfies the fire performance requirements in the Fire Code; or
 
 (b) in any other case, an appropriate qualified person to prepare the plans of those fire safety works.
+
+[7/2004 wef 01/07/2004]
 
 (2) The Commissioner may —
 
@@ -1684,6 +1726,8 @@ CONTROL OF FIRE SAFETY WORKS
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 01/07/2004]
+
 (5) Notwithstanding subsection (4), the Commissioner may, in his discretion, carry out random checks on any plans of fire safety works at any time before or after approving the plans under that subsection.
 
 [5/2000]
@@ -1695,6 +1739,8 @@ CONTROL OF FIRE SAFETY WORKS
 (b) under subsection (4), if he is satisfied that the written declaration submitted by the qualified person or fire safety engineer or the certificate of a peer reviewer referred to in that subsection is false.
 
 [5/2000]
+
+[7/2004 wef 01/07/2004]
 
 (7) The Commissioner shall not revoke any approval granted in respect of any plans of fire safety works unless —
 
@@ -1736,6 +1782,8 @@ and shall specify a date, not less than 14 days from the date of the written not
 
 (a) any fire certificate granted under section 20 in respect of any building to which the fire safety works relate; and
 
+[7/2004 wef 01/07/2004]
+
 (b) any fire safety certificate or temporary fire permit issued in respect of the fire safety works under section 29,
 
 as the case may be, shall automatically lapse.
@@ -1743,6 +1791,8 @@ as the case may be, shall automatically lapse.
 [5/2000]
 
 (12) For the purposes of this section, any plans of any fire safety works that are prepared in accordance with the solutions issued by the Commissioner as in compliance with the fire performance requirements shall be deemed to satisfy the fire performance requirements.
+
+[7/2004 wef 01/07/2004]
 
 ### Prohibition of fire safety works without approval of plans
 
@@ -1766,13 +1816,19 @@ as the case may be, shall automatically lapse.
 
 (b) in the case of plans referred to in section 23(1A)(b), the same qualified person who prepared the approved plans of those fire safety works to supervise the fire safety works as required under this section.
 
+[7/2004 wef 01/07/2004]
+
 (2) If any qualified person or fire safety engineer appointed under subsection (1) or paragraph (b) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
 
 (a) the qualified person or fire safety engineer shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner and the person for whom such works are or are to be carried out of the fact; and
 
 (b) the person for whom the fire safety works are or are to be carried out shall cease or cause to be ceased and shall not commence or cause to be commenced the carrying out of such work until he has appointed another appropriate qualified person or fire safety engineer in respect of such works.
 
+[7/2004 wef 01/07/2004]
+
 (3) Where the person for whom any such works are or are to be carried out appoints an appropriate qualified person or fire safety engineer under subsection (2)(b), he shall, within 7 days of the appointment, notify the Commissioner of the appointment.
+
+[7/2004 wef 01/07/2004]
 
 (4) Every qualified person or fire safety engineer appointed under this section in respect of any fire safety works shall —
 
@@ -1784,6 +1840,8 @@ as the case may be, shall automatically lapse.
 
 (c) submit to the Commissioner at the prescribed times such reports and certificates as may be prescribed in any regulations made under this Act.
 
+[7/2004 wef 01/07/2004]
+
 (5) Any person who contravenes or fails to comply with subsection (1) or (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
 [Act 14 of 2013 wef 01/09/2013]
@@ -1792,9 +1850,13 @@ as the case may be, shall automatically lapse.
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 01/07/2004]
+
 (7) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (4)(b) for the person charged to prove to the satisfaction of the court that he did not know, nor could reasonably have discovered, the contravention or non-compliance referred to in the charge.
 
 (8) Any qualified person or fire safety engineer or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) shall be guilty of an offence.
+
+[7/2004 wef 01/07/2004]
 
 ### Supervision of fire safety works
 
@@ -1861,8 +1923,6 @@ as the case may be, shall automatically lapse.
 (a) issue the fire safety certificate, subject to such conditions as he thinks fit; or
 
 (b) issue a temporary fire permit and may in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Commissioner may specify for the purpose of ensuring compliance with the provisions of this Act.
-
-[Act 14 of 2013 wef 01/09/2013]
 
 [Act 14 of 2013 wef 01/09/2013]
 
@@ -1962,8 +2022,6 @@ as the case may be, shall automatically lapse.
 
 [Act 14 of 2013 wef 01/09/2013]
 
-[Act 14 of 2013 wef 01/09/2013]
-
 (2) An order made under subsection (1) shall specify all or any of the following:
 
 (a) the manner in which the works, alteration or demolition referred to in subsection (1) is to be carried out;
@@ -2038,8 +2096,6 @@ and shall specify a date, not less than 14 days from the date of the order, on w
 
 [Act 14 of 2013 wef 01/09/2013]
 
-[Act 14 of 2013 wef 01/09/2013]
-
 (2) A closure order shall specify a date, not less than 14 days after the date of the closure order, on which the closure order shall take effect, and may require the person served —
 
 (a) where the order relates to a building or a part of the building, to cease to inhabit or use the building or that part thereof and to remove all goods, furniture and effects from the building or that part thereof before the closure order takes effect; or
@@ -2083,8 +2139,6 @@ and shall specify a date, not less than 14 days from the date of the order, on w
 [Act 14 of 2013 wef 01/09/2013]
 
 (c) where the closure order relates to a relevant pipeline, on the pipeline owner.
-
-[Act 14 of 2013 wef 01/09/2013]
 
 [Act 14 of 2013 wef 01/09/2013]
 
@@ -2142,6 +2196,8 @@ may, before the decision or order, as the case may be, takes effect, appeal in w
 
 (2) For the avoidance of doubt, no person shall be immune from prosecution for any offence under this Part by reason that the person is a contractor engaged to provide services to the Government, or is acting in any other similar capacity for, or on behalf of, the Government.
 
+[7/2004 wef 15/04/2004]
+
 ## PART V
 
 [Deleted by Act 7/2004 wef 16/02/2005]
@@ -2167,6 +2223,8 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 [Deleted by Act 14 of 2013 wef 01/09/2013]
 
 “import”, with its grammatical variations and cognate expressions, means to take or cause to be taken into Singapore by land, sea or air from any place outside Singapore, but does not include the bringing into Singapore by sea or air of any substance or product which it is proved to be intended to be taken out of Singapore on the same vessel or aircraft on which the substance or product was brought into Singapore without any landing or transhipment within Singapore;
+
+[7/2004 wef 15/04/2004]
 
 “licensed pipeline” means any relevant pipeline licensed for the conveyance of any class of petroleum or any flammable material under section 36A;
 
@@ -2202,6 +2260,8 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 (c) any other matters incidental to their transport.
 
+[7/2004 wef 16/02/2005]
+
 (2) For the purposes of this Part and section 61, a person may be regarded as transporting any class of petroleum or any flammable material —
 
 (a) by his marking packages and unit loads containing such petroleum or flammable material for transport, and placarding containers and any vehicles in which such petroleum or flammable material are transported;
@@ -2222,6 +2282,8 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 (i) by being involved as a director, secretary or manager of a body corporate, or other person who takes part in the management of a body corporate, that takes part in an activity referred to above.
 
+[7/2004 wef 16/02/2005]
+
 (3) [Deleted by Act 14 of 2013 wef 01/09/2013]
 
 ### Storage of petroleum and flammable materials
@@ -2240,6 +2302,8 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 16/02/2005]
+
 ### Import of petroleum and flammable materials
 
 35A\.—(1) No person shall import any class of petroleum or any flammable material if —
@@ -2255,6 +2319,8 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 (b) is in such quantities and in such manner and in accordance with requirements prescribed in relation to such petroleum or flammable material.
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[7/2004 wef 16/02/2005]
 
 ### Transport of petroleum and flammable materials
 
@@ -2286,6 +2352,8 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 (6) Every permit issued by the Commissioner before the date of commencement of section 16 of the Fire Safety (Amendment) Act 2004 authorising any person to drive any vehicle transporting any class of petroleum or any flammable material by road shall be deemed to have been issued under subsection (3)(b).
 
+[7/2004 wef 16/02/2005]
+
 ### Dispensing of petroleum and flammable materials
 
 36\. No person shall dispense or cause to be dispensed any class of petroleum or any flammable material except —
@@ -2298,9 +2366,89 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 [Act 14 of 2013 wef 01/09/2013]
 
+### Pipelines for petroleum and flammable materials
+
+36A\. No pipeline owner shall convey, or allow the conveyance of, any class of petroleum or any flammable material through any section of a relevant pipeline in relation to which he is the pipeline owner except under the authority of and in accordance with the provisions of a pipeline licence from the Commissioner and every condition specified therein.
+
+[Act 14 of 2013 wef 01/03/2014]
+
+### Conduct of works in vicinity of licensed pipeline
+
+36B\.—(1) No person (other than the holder of the licence) shall commence or carry out, or cause or permit the commencement or carrying out of, any works in the vicinity of the licensed pipeline unless the person —
+
+(a) has given to the holder of the licence not less than 7 days’ notice in writing of the date on which it is proposed to commence the works;
+
+(b) has obtained from the holder of the licence the necessary information on the location of the licensed pipeline; and
+
+(c) has consulted the holder of the licence on the steps to be taken to prevent the licensed pipeline from being damaged while the works are being carried out.
+
+(2) Every person who commences or carries out, or causes or permits the commencement or carrying out of, any works referred to in subsection (1) shall —
+
+(a) comply with all reasonable requirements of the holder of the licence for the prevention of damage to the licensed pipeline;
+
+(b) ensure that reasonable precautions are taken when such works are being carried out to prevent any damage to the licensed pipeline; and
+
+(c) allow the holder of the licence reasonable access to the work site for the purpose of inspecting or taking any necessary measures to protect the licensed pipeline.
+
+(3) Upon receiving a notice under subsection (1)(a), the holder of the licence shall —
+
+(a) promptly inform the person giving the notice of the location of the licensed pipeline, and provide the person with such other information as may be necessary to enable him to ascertain the exact location of the licensed pipeline;
+
+(b) advise the person on the precautions to be taken to prevent damage to the licensed pipeline; and
+
+(c) take all such measures at the work site as may be reasonable and necessary for the protection of the licensed pipeline and, in so doing, the holder of the licence shall have regard to the potential risks and dangers that can arise from any damage to the licensed pipeline.
+
+(4) Nothing in subsection (1) shall prohibit a person from commencing or carrying out, or causing or permitting the commencement or carrying out of, any works where he has reasonable cause to believe that it is necessary to do so in the interest of public or private safety.
+
+(5) The person referred to in subsection (4) shall, as soon as practicable but not more than 24 hours after commencing the work, give to the holder of the licence notice in writing stating the nature and extent of those works.
+
+(6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence.
+
+(7) Subject to subsection (8), in any proceedings for an offence under subsection (6), it shall be a defence for the person charged to prove —
+
+(a) that he took all reasonable steps to discharge his duty under subsection (1), (2), (3) or (5), as the case may be; or
+
+(b) that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(8) If, in any proceedings for an offence under subsection (6), the defence involves acting on information supplied by the holder of the licence, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the person who supplied him with the information.
+
+(9) In this section —
+
+“construction works and services” has the same meaning as in the Building and Construction Authority Act (Cap. 30A);
+
+“earthworks” has the same meaning as in the Gas Act (Cap. 116A);
+
+“holder of the licence” means the holder of a pipeline licence for the licensed pipeline concerned;
+
+“works” means any construction works and services or earthworks.
+
+[Act 14 of 2013 wef 01/03/2014]
+
+### Damage to licensed pipeline
+
+36C\.—(1) Any person who wilfully or recklessly removes, destroys, damages or suffers to be damaged any licensed pipeline or hinders or prevents a licensed pipeline from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence.
+
+(2) In any proceedings for an offence under subsection (1), it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(3) If, in any proceedings for an offence under subsection (1), the defence involves acting on information supplied by a holder of the licence, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the person who supplied him with the information.
+
+[Act 14 of 2013 wef 01/03/2014]
+
 ### Offences
 
-37\. Any person who contravenes section 35, 35A(1) or (2), 35B(1), (2), (3) or (4) or 36 shall be guilty of an offence.
+37\.—(1) Any person who contravenes section 35, 35A(1) or (2), 35B(1), (2), (3) or (4) or 36 shall be guilty of an offence.
+
+[Act 14 of 2013 wef 01/03/2014]
+
+[7/2004 wef 16/02/2005]
+
+(2) Any person who contravenes section 36A or 36B shall be guilty of an offence.
+
+[Act 14 of 2013 wef 01/03/2014]
+
+(3) Any person who contravenes section 36C shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 14 of 2013 wef 01/03/2014]
 
 ### Powers of entry, inspection, etc.
 
@@ -2312,15 +2460,23 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 16/02/2005]
+
 (c) inspect, examine and test all classes of petroleum or any flammable material stored on land and for such purposes take samples thereof;
+
+[7/2004 wef 16/02/2005]
 
 (d) enter any place where he has reason to believe that any class of petroleum or any flammable material is stored in contravention of this Act; and
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 16/02/2005]
+
 (e) seize any stock of any class of petroleum, any flammable material or equipment in respect of which he has reason to believe that an offence under this Act has been committed.
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[7/2004 wef 16/02/2005]
 
 (2) If any place liable to inspection under this section is closed, any person residing in or being in charge of such place shall, on demand by any authorised officer, allow him free entry thereto and afford all reasonable facilities for a search therein.
 
@@ -2360,27 +2516,45 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 39\.—(1) The grant of any licence or permit under this Part shall be in the absolute discretion of the Commissioner.
 
+[7/2004 wef 16/02/2005]
+
 (2) Every licence or permit granted under this Part shall be subject to such conditions as the Commissioner thinks fit to impose.
+
+[7/2004 wef 16/02/2005]
 
 (3) Every licence or permit granted under this Part, if it has not been cancelled under section 40, may, on the application of the holder of the licence or permit, be renewed by the Commissioner subject to such conditions as he thinks fit to impose.
 
+[7/2004 wef 16/02/2005]
+
 (4) Every licence or permit shall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Commissioner may determine.
+
+[7/2004 wef 16/02/2005]
 
 (5) Any person who is aggrieved by any decision of the Commissioner under this section may, within one month of being notified of the decision of the Commissioner, appeal to the Minister whose decision shall be final.
 
 (6) Any person who contravenes any of the conditions of a licence or permit granted under this Part shall be guilty of an offence.
 
+[7/2004 wef 16/02/2005]
+
 ### Cancellation of licence or permit
 
 40\.—(1) If at any time it appears to the Commissioner that any premises or vehicle, in respect of which a licence or permit has been granted, has become unfit for the purpose for which it was licensed by reason of the increase of building or of population in its neighbourhood, or that from any other cause, any licence or permit should for the public safety be cancelled, or if the person to whom the licence or permit was granted contravenes any of the conditions of the licence or permit, the Commissioner may by order cancel the licence or permit.
 
+[7/2004 wef 16/02/2005]
+
 (2) The Commissioner shall, before cancelling any licence or permit under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the cancellation shall take effect and calling upon the person concerned to show cause to the Commissioner why the licence or permit should not be cancelled.
+
+[7/2004 wef 16/02/2005]
 
 (3) When the Commissioner has cancelled the licence or permit under subsection (1), he shall inform the person concerned by notice in writing of such cancellation as soon as it may be practicable.
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 16/02/2005]
+
 (4) The person whose licence or permit has been cancelled may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the cancellation to the Minister whose decision shall be final.
+
+[7/2004 wef 16/02/2005]
 
 (5) An order of cancellation shall not take effect until the expiration of a period of 14 days after the Commissioner has informed the holder of the licence or permit in question of the order.
 
@@ -2423,6 +2597,8 @@ MISCELLANEOUS
 45\.—(1) A certificate purporting to be signed by an analyst employed by the Health Sciences Authority and purporting to relate to petroleum shall be admitted in evidence in any proceedings for an offence under Part VI, on its production by the prosecution without proof of signature and, until the contrary is proved, such certificate shall be prima facie evidence of all matters contained therein.
 
 (2) In this section, “Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001.
+
+[4/2001 wef 01/04/2001]
 
 ### Powers of arrest
 
@@ -2640,9 +2816,15 @@ MISCELLANEOUS
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 16/02/2005]
+
 (n) the prescribing of the quantities of any class of petroleum or any flammable material that may be stored in any licensed premises and the method in which it is to be stored including the maximum quantity of any class of petroleum or any flammable material that can be stored without a licence for residential, commercial or industrial use;
 
+[7/2004 wef 16/02/2005]
+
 (o) the regulation of the dispensing of any class of petroleum or any flammable material;
+
+[7/2004 wef 16/02/2005]
 
 (oa) the regulation of the conveyance of any class of petroleum or any flammable material by a relevant pipeline;
 
@@ -2650,15 +2832,23 @@ MISCELLANEOUS
 
 (p) the regulation of the transport of any class of petroleum or any flammable material, including specifying the time during which such petroleum or flammable material can be transported and the maximum quantity of any class of petroleum or any flammable material that can be transported without a licence or permit;
 
+[7/2004 wef 16/02/2005]
+
 (q) the determining of the quantity of and the receptacles in which any class of petroleum or any flammable material may be carried in any vehicle;
 
+[7/2004 wef 16/02/2005]
+
 (r) the prescribing of the standard and specification for the construction of any premises in which any class of petroleum or any flammable material is to be stored;
+
+[7/2004 wef 16/02/2005]
 
 (s) the prescribing of the types and standards of materials and appliances to be used for preventing or extinguishing fire in any licensed premises;
 
 (t) the provisions for the protection of premises adjacent to licensed premises;
 
 (u) the requiring of any receptacle containing petroleum or flammable material to carry warning labels and to denote the class of petroleum or the flammable material contained therein;
+
+[7/2004 wef 16/02/2005]
 
 (ua) the regulation of the import, storage, transport, distribution, maintenance and disposal of cylinders used to contain any class of petroleum or flammable material, including requirements to store different brands of cylinders at different licensed premises and for labelling and colour-coding of cylinders;
 
@@ -2670,7 +2860,11 @@ MISCELLANEOUS
 
 [Act 14 of 2013 wef 01/09/2013]
 
+[7/2004 wef 16/02/2005]
+
 (x) the regulation, control and licensing of persons and organisations engaged in the business of petroleum or flammable material distribution;
+
+[7/2004 wef 16/02/2005]
 
 (xa) the requirement for security to be given by any class of licensees to ensure compliance with this Act;
 
@@ -2678,13 +2872,19 @@ MISCELLANEOUS
 
 (y) the prescribing of forms for licences and permits and for other purposes for use in connection with this Act;
 
+[7/2004 wef 16/02/2005]
+
 (z) the duties and responsibilities of registered inspectors and fire safety engineers and the manner in which those duties and responsibilities are to be discharged, including a code of conduct and ethics for registered inspectors and fire safety engineers;
+
+[7/2004 wef 15/04/2004]
 
 (za) the prescribing of the procedure of the Appeal Advisory Board;
 
 (zaa) the regulation of the proceedings of any Inquiry Committee constituted under section 6A or section 22D;
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[7/2004 wef 15/04/2004]
 
 (zab) [Deleted by Act 14 of 2013 wef 01/09/2013]
 
@@ -2774,6 +2974,11 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 1/2013 published on 14 January 2013)|
 ||Date of Second and Third Readings|8 April 2013|
 ||Date of commencement|1 September 2013 (except sections 40 and 41(b))|
+|14.|**Act 14 of 2013—Fire Safety (Amendment) Act 2013**|
+||Date of First Reading|14 January 2013|
+|||(Bill No. 1/2013 published on 14 January 2013)|
+||Date of Second and Third Readings|8 April 2013|
+||Date of commencement|1 March 2014 (sections 40 and 41(b))|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
