@@ -5380,13 +5380,17 @@ Part II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are —
 
-(a) a non-refundable application fee of $535 (inclusive of tax), which shall accompany the application;
+(a) a non-refundable application fee of $562 (inclusive of tax), which shall accompany the application;
 
 [S 129/2012 wef 01/04/2012]
 
-(b) a further fee, calculated at $133.75 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+[S 119/2014 wef 03/03/2014]
+
+(b) a further fee, calculated at $140.50 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
 
 [S 129/2012 wef 01/04/2012]
+
+[S 119/2014 wef 03/03/2014]
 
 (c) an additional fee (inclusive of tax), of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
@@ -5746,6 +5750,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2014 (except section 6)|
 |52.|**G.N. No. S 828/2013—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2013**|
 ||Date of commencement|1 January 2014|
+|53.|**G.N. No. S 119/2014—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2014**|
+||Date of commencement|3 March 2014|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
