@@ -118,11 +118,11 @@
 
 - [44 Rules](#Rules)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
 [**SECOND SCHEDULE Revenue of Land Transport Revenue Account**](#SECOND-SCHEDULE-Revenue-of-Land-Transport-Revenue-Account)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
 
 [**FOURTH SCHEDULE Compensation**](#FOURTH-SCHEDULE-Compensation)
 
@@ -196,7 +196,7 @@ and any associated investigative and engineering studies, but does not include t
 
 “President” means the President of the Compensation Board appointed under section 26;
 
-“railway” has the same meaning as in the Rapid Transit Systems Act (Cap. 263A);
+“railway” has the same meaning as in the Rapid Transit Systems Act [Cap. 263A];
 
 “road” includes —
 
@@ -244,7 +244,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 6\.—(1) Subject to the provisions of this Act, it shall be the function and duty of the Authority —
 
-(a) to plan, design, construct, manage and maintain roads in Singapore in accordance with this Act and the Street Works Act (Cap. 320A);
+(a) to plan, design, construct, manage and maintain roads in Singapore in accordance with this Act and the Street Works Act [Cap. 320A];
 
 (b) to plan, design, construct, maintain and improve pedestrian walkways, bus stops or shelters, bus interchanges or terminals, bus depots, bus parks, taxi stands, bicycle parking and other commuter facilities in accordance with this Act, the Street Works Act and any other written law;
 
@@ -252,7 +252,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (c) to maintain, operate and improve road traffic signs or signals, traffic control equipment or lighting equipment associated with a road and other road traffic facilities for the purposes of traffic management and control;
 
-(d) to provide parking places for motor vehicles, to license and regulate the use of parking places and to administer the Parking Places Act (Cap. 214);
+(d) to provide parking places for motor vehicles, to license and regulate the use of parking places and to administer the Parking Places Act [Cap. 214];
 
 (e) to develop and implement road traffic management strategies and practices;
 
@@ -284,7 +284,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (j) to promote better understanding of land transport policies and programmes, whether solely or jointly with other authorities or organisations;
 
-(k) to plan, design, construct, manage, operate and maintain the railway in accordance with this Act and the Rapid Transit Systems Act (Cap. 263A);
+(k) to plan, design, construct, manage, operate and maintain the railway in accordance with this Act and the Rapid Transit Systems Act [Cap. 263A];
 
 (l) to approve and regulate the operation of the railway in accordance with this Act and the Rapid Transit Systems Act;
 
@@ -310,17 +310,17 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (r) to act as agent of the Government and provide service in administering, assessing, collecting and enforcing payment of —
 
-(i) the special tax imposed under section 17 of the Customs Act (Cap. 70);
+(i) the special tax imposed under section 17 of the Customs Act [Cap. 70];
 
-(ii) the surcharge imposed under the Parking Places (Surcharge) Act (Cap. 215);
+(ii) the surcharge imposed under the Parking Places (Surcharge) Act [Cap. 215];
 
-(iii) the charge imposed pursuant to the Parking Places Act (Cap. 214) for the waiver of requirements imposed by or under that Act in relation to car parks;
+(iii) the charge imposed pursuant to the Parking Places Act [Cap. 214] for the waiver of requirements imposed by or under that Act in relation to car parks;
 
 (iv) the proposed sums of successful bids for particular index marks and registration numbers for any type or category of vehicle; and
 
-(v) all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act (Cap. 276) or any rules made thereunder which are not specified in the Second Schedule;
+(v) all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act [Cap. 276] or any rules made thereunder which are not specified in the Second Schedule;
 
-(s) to act as agent of the Government in vesting of land under the Street Works Act (Cap. 320A);
+(s) to act as agent of the Government in vesting of land under the Street Works Act [Cap. 320A];
 
 (t) to collect, compile and analyse information of a statistical nature relating to land transport or such other subject-matter necessary for the performance of the functions of the Authority, and to publish and disseminate the results of any such compilation and analysis or abstracts of those results;
 
@@ -357,6 +357,8 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 (d) to lease or let, with or without taking a premium, any property vested in or acquired by it or to grant easements, rights of way, temporary licences or other rights or privileges over, under, through or in respect of any land or buildings belonging to or vested in the Authority upon such terms and conditions as the Authority may think fit;
 
 (e) to subscribe for or acquire any securities, stocks and shares of an incorporated company or other body corporate, to procure its admission to membership of an incorporated company limited by guarantee and not having a share capital or to acquire an undertaking or part thereof;
+
+[11/2007 wef 01/03/2007]
 
 (f) to form or participate in the formation of any company or corporation, or enter into any joint venture or partnership, whether in Singapore or elsewhere;
 
@@ -452,9 +454,9 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants and public officers
 
-11\.—(1) All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code.
+11\.—(1) All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
-(2) The members, officers and employees of the Authority shall, in relation to their administration, assessment, collection and enforcement of payment of the taxes, fees and charges referred to in section 6(1)(r), be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+(2) The members, officers and employees of the Authority shall, in relation to their administration, assessment, collection and enforcement of payment of the taxes, fees and charges referred to in section 6(1)(r), be deemed to be public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
 ## PART V
 
@@ -479,6 +481,8 @@ FINANCIAL PROVISIONS
 (ii) for or in connection with the advertising on such buses or at such bus stops, bus interchanges or terminals or bus parks,
 
 after deducting such proportion of those fees, rental or other revenue as the Minister has approved for the Bus Service Enhancement Fund under section 13B(1)(h);
+
+[Act 17 of 2012 wef 12/09/2012]
 
 (e) all moneys borrowed by the Authority under this Act; and
 
@@ -690,7 +694,7 @@ RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION
 
 19\.—(1) No action, claim or proceedings shall lie or be brought against the Authority or any other person —
 
-(a) to restrain the doing of anything which is authorised by or under the Rapid Transit Systems Act (Cap. 263A) or to compel the doing of anything which may be omitted to be done thereunder; or
+(a) to restrain the doing of anything which is authorised by or under the Rapid Transit Systems Act [Cap. 263A] or to compel the doing of anything which may be omitted to be done thereunder; or
 
 (b) to recover damages, compensation or costs for —
 
@@ -708,7 +712,7 @@ which is authorised by or under the Rapid Transit Systems Act or arises from any
 
 (a) to restrain the doing of anything which —
 
-(i) is authorised by section 9, 12 or 29 of the Street Works Act (Cap. 320A); or
+(i) is authorised by section 9, 12 or 29 of the Street Works Act [Cap. 320A]; or
 
 (ii) is authorised by any other provision of the Street Works Act relating to the construction of a road tunnel,
 
@@ -724,7 +728,7 @@ or to compel the doing of anything which may be omitted to be done under those p
 
 (iv) effecting or complying with any requirement or condition imposed by the Authority,
 
-which is authorised by or under section 9, 12 or 29 of the Street Works Act or is authorised by any other provision thereof relating to the construction of a road tunnel, or arises from any act or omission so authorised, except in pursuance of one of the rights of compensation provided for in section 20.
+which is authorised by or under section 9, 12 or 29 of the Street Works Act [Cap. 320A] or is authorised by any other provision thereof relating to the construction of a road tunnel, or arises from any act or omission so authorised, except in pursuance of one of the rights of compensation provided for in section 20.
 
 ### Compensation
 
@@ -796,7 +800,7 @@ in pursuance of one of the rights to compensation provided for in section 20, se
 
 and in every case shall briefly state its reasons for rejection so that the claimant is adequately informed of those reasons.
 
-(6) Where the Authority has rejected a claim or any part thereof under subsection (5) or where a claim or any part thereof is deemed to have been rejected under sub-section (4), the Authority may —
+(6) Where the Authority has rejected a claim or any part thereof under subsection (5) or where a claim or any part thereof is deemed to have been rejected under subsection (4), the Authority may —
 
 (a) by notice in writing offer to the claimant such sum (including costs) as the Authority is willing to pay in full and final settlement of the claim or any part thereof, as the case may be; or
 
@@ -836,7 +840,9 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (2) The President and every member of the Compensation Board shall be appointed by the Minister and upon appointment the names of the President and every member of the Board shall be published in theGazette.
 
-(3) The President shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act, and shall preside at all sessions of the Compensation Board.
+(3) The President shall possess the qualifications required for a District Judge under section 9(3) of the State Courts Act [Cap. 321] or be a District Judge appointed under section 9(1) of that Act, and shall preside at all sessions of the Compensation Board.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) Three members of the Compensation Board of whom the President shall be one shall form a quorum, and the opinion of the majority of the Board present shall be decisive upon any matter, except that in the case of an equality the President shall decide which opinion shall prevail.
 
@@ -846,7 +852,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (7) Where a person ceases to be a member of the Compensation Board, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in the Board shall not invalidate the acts of the Board.
 
-(8) Every member of the Compensation Board when and so long as he is serving on the Board shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224)and the proceedings of the Board shall be deemed to be judicial proceedings.
+(8) Every member of the Compensation Board when and so long as he is serving on the Board shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and the proceedings of the Board shall be deemed to be judicial proceedings.
 
 (9) There shall be paid to the members of the Compensation Board such salaries, fees and allowances as the Minister may determine.
 
@@ -854,7 +860,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (a) by an advocate and solicitor of the Supreme Court;
 
-(b) subject to the provisions of the Legal Aid and Advice Act (Cap. 160), by the Director of Legal Aid or any of his officers; or
+(b) subject to the provisions of the Legal Aid and Advice Act [Cap. 160], by the Director of Legal Aid or any of his officers; or
 
 (c) in any particular case in which the Board may at the request of that party and for good reason permit, by an agent acting without fee, gain, reward or any expectation thereof, as that party may appoint.
 
@@ -862,9 +868,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (12) The Minister may appoint a secretary of the Compensation Board and such other officers and employees of the Board as may be necessary.
 
-(13) The persons who immediately before 1st September 1995 were appointed President and members of the Railway Compensation Board under the repealed Mass Rapid Transit Corporation Act (Cap. 172, 1988 Ed.)shall continue to be President and members, respectively, of the Compensation Board under this Act as if they had been appointed under this section on the same terms and conditions for a term expiring on the day on which their respective appointments under the repealed Mass Rapid Transit Corporation Act would expire.
-
-[1988 Ed.]
+(13) The persons who immediately before 1st September 1995 were appointed President and members of the Railway Compensation Board under the repealed Mass Rapid Transit Corporation Act [Cap. 172, 1988 Ed.] shall continue to be President and members, respectively, of the Compensation Board under this Act as if they had been appointed under this section on the same terms and conditions for a term expiring on the day on which their respective appointments under the repealed Mass Rapid Transit Corporation Act would expire.
 
 ### Compensation Board to hear and determine claims
 
@@ -956,17 +960,17 @@ as the Minister may determine shall be transferred to the service of the Authori
 
 34\.—(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 33 while in the employment of the Government; and any such term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Government by the persons so transferred to be service by them under the Authority.
 
-(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
 
 (3) In every case where a person has been transferred to the service of the Authority under section 33, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (4) Where any person in the service of the Authority whose case does not fall within the scope of any pension or other schemes established under this section retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
-(5) Where any person who is transferred to the service of the Authority under section 33 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(5) Where any person who is transferred to the service of the Authority under section 33 is a contributor under the Widows’ and Orphans’ Pension Act [Cap. 350], he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-35\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 33 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+35\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Authority under section 33 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 ### Existing contracts
 
@@ -974,9 +978,9 @@ as the Minister may determine shall be transferred to the service of the Authori
 
 ### Continuation and completion of disciplinary proceedings
 
-37\.—(1) Where on 1st September 1995 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority, the proceedings shall be carried on and completed by the Authority; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, a ruling or a direction as it could have made under the authority vested in it before 1st September 1995.
+37\.—(1) Where on 1st September 1995 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority, the proceedings shall be carried on and completed by the Authority; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before 1st September 1995.
 
-(2) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
+(2) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
@@ -990,7 +994,7 @@ GENERAL
 
 39\.—(1) In addition to the powers conferred on him by any written law specified in the Fifth Schedule, an officer or employee of the Authority may, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —
 
-(a) exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act (Cap. 276) and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer shall include a reference to such officer or employee of the Authority;
+(a) exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act [Cap. 276] and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer shall include a reference to such officer or employee of the Authority;
 
 (b) require any person whom he reasonably believes to have committed an offence under any such written law to furnish evidence of the person’s identity;
 
@@ -1003,6 +1007,8 @@ GENERAL
 (f) detain or seize any document found in the course of a search under this subsection.
 
 (2) Where any person is arrested by an officer or employee of the Authority under subsection (1), the officer or employee shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.
+
+[15/2010 wef 02/01/2011]
 
 (3) A person who —
 
@@ -1017,6 +1023,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### Proceedings conducted by officers of Authority
 
 40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority.
+
+[15/2010 wef 02/01/2011]
 
 (2) The Minister may, by order published in theGazette, amend the Fifth Schedule.
 
@@ -1058,7 +1066,7 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Authority
+Constitution and proceedings of Authority
 
 Appointment of Chairman and other members
 
@@ -1158,17 +1166,15 @@ Revenue of Land Transport Revenue Account
 
 (b) a vehicle parking certificate,
 
-under the Parking Places Act (Cap. 214).
+under the Parking Places Act [Cap. 214].
 
-2\. All fees for the grant, issue or renewal of a licence to operate the railway or any part thereof under the Rapid Transit Systems Act (Cap. 263A).
+2\. All fees for the grant, issue or renewal of a licence to operate the railway or any part thereof under the Rapid Transit Systems Act [Cap. 263A].
 
-3\. All fees under section 10 of the Road Traffic Act (Cap. 276) for the registration of a vehicle.
+3\. All fees under section 10 of the Road Traffic Act [Cap. 276] for the registration of a vehicle.
 
 4. All fees for the grant, issue, renewal or replacement of —
 
-(a) a visitor’s licence referred to in the Road Traffic (Motor Vehicles, Registration and Licensing) Rules;
-
-[R 5.]
+(a) a visitor’s licence referred to in the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [Cap. 276, R 5];
 
 (b) a general licence referred to in section 28 of the Road Traffic Act;
 
@@ -1176,27 +1182,19 @@ under the Parking Places Act (Cap. 214).
 
 (d) a vocational licence referred to in section 110 of the Road Traffic Act;
 
-(e) a permit authorising the carriage of passengers in or on a goods vehicle under the Road Traffic (Passengers in Goods Vehicles) (Permits and Fees) Rules; and
+(e) a permit authorising the carriage of passengers in or on a goods vehicle under the Road Traffic (Passengers in Goods Vehicles) (Permits and Fees) Rules [Cap. 276, R 2]; and
 
-[R 2.]
+(f) a licence under the Road Traffic (Malaysian and Thai-Registered Goods and Public Service Vehicles Licensing) Rules [Cap. 276, R 17].
 
-(f) a licence under the Road Traffic (Malaysian and Thai-Registered Goods and Public Service Vehicles Licensing) Rules.
+5\. All fees for the inspection of a vehicle under section 87 of the Road Traffic Act [Cap. 276].
 
-[R 17.]
-
-5\. All fees for the inspection of a vehicle under section 87 of the Road Traffic Act.
-
-6. All fees for the assignment and sealing of identification marks on any vehicle under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
-
-[R 5.]
+6\. All fees for the assignment and sealing of identification marks on any vehicle under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [Cap. 276, R 5].
 
 7\. All fees for the weighing of a motor vehicle on a weighbridge under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
 
 8. The fees for the following, excluding additional transfer fees:
 
-(a) the transfer of a certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules;
-
-[R 31.]
+(a) the transfer of a certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules [Cap. 276, R 31];
 
 (b) the transfer of the residual value of any certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules;
 
@@ -1206,33 +1204,31 @@ under the Parking Places Act (Cap. 214).
 
 9\. All conversion fees under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules for registering a private motor car as an off-peak car.
 
-10. All fees relating to an appeal under the Road Traffic (Motor Vehicles, Test) Rules against any refusal of a test certificate.
-
-[R 21.]
+10\. All fees relating to an appeal under the Road Traffic (Motor Vehicles, Test) Rules [Cap. 276, R 21] against any refusal of a test certificate.
 
 11\. All late payment fees for the issue of a licence referred to in section 21 of the Road Traffic Act or for the renewal of a certificate of entitlement.
 
 12\. All fees for the issue of a warrant under section 30 of the Road Traffic Act and all fees for the towing and transportation of vehicles seized under such warrant.
 
-13\. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act, or any rules made thereunder, which falls under the purview of the Minister charged with the responsibility for transport.
+13. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act, or any rules made thereunder, which falls under the purview of the Minister charged with the responsibility for transport.
+
+[24/2010 wef 01/11/2010]
 
 14\. All fees for furnishing a copy of or an extract from a vocational licence or for conducting a search or furnishing a copy of an extract from any register relating to a motor vehicle.
 
-15\. All fees for the grant of an exemption under section 142 of the Road Traffic Act (Cap. 276).
+15\. All fees for the grant of an exemption under section 142 of the Road Traffic Act [Cap. 276].
 
-16. All security deposits for the issue of a general licence forfeited under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
-
-[R 5.]
+16\. All security deposits for the issue of a general licence forfeited under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [Cap. 276, R 5].
 
 17. All composition sums collected —
 
-(a) under the Rapid Transit Systems Act (Cap. 263A);
+(a) under the Rapid Transit Systems Act [Cap. 263A];
 
 (b) by the Registrar or any duly authorised employee of the Authority under the Road Traffic Act;
 
-(c) under the Street Works Act (Cap. 320A); and
+(c) under the Street Works Act [Cap. 320A]; and
 
-(d) under the Parking Places Act (Cap. 214).
+(d) under the Parking Places Act [Cap. 214].
 
 18. All fines for offences under this Act and any written law specified in Part I of the Fifth Schedule.
 
@@ -1250,7 +1246,7 @@ THIRD SCHEDULE
 
 Section 18
 
-Financial Provisions
+Financial provisions
 
 1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
@@ -1412,6 +1408,10 @@ Any person owning a share or interest in the object or structure on the date on 
 
 Before the expiration of one year from the date of removal.
 
+[7/97 wef 01/10/1997]
+
+[6/2004 wef 08/03/2004]
+
 Part II
 
 General effect of this Part
@@ -1444,13 +1444,13 @@ No account of certain financial loss or increase or decrease in value attributab
 
 (b) any increase or decrease in the value of land to which the compensation relates which is attributable to —
 
-(i) the delineation thereof under section 3 of the Rapid Transit Systems Act (Cap. 263A) as part of the railway area; or
+(i) the delineation thereof under section 3 of the Rapid Transit Systems Act [Cap. 263A] as part of the railway area; or
 
 (ii) the construction or operation of any railway or road.
 
 Refusal or reduction where Building Control Act contravened
 
-4\. Compensation may be refused or reduced in respect of any building or part thereof which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act (Cap. 29) being a contravention within the meaning of that Act.
+4\. Compensation may be refused or reduced in respect of any building or part thereof which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act [Cap. 29] being a contravention within the meaning of that Act.
 
 Compensation where damage results only partly from railway
 
@@ -1458,7 +1458,7 @@ Compensation where damage results only partly from railway
 
 No compensation under item 5 (c) of Part I for loss of advertising
 
-6\. Where a sign advertising any business, product, service or activity is removed under section 11(4) of the Rapid Transit Systems Act (Cap. 263A), nothing in item 5 (c) of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
+6\. Where a sign advertising any business, product, service or activity is removed under section 11(4) of the Rapid Transit Systems Act [Cap. 263A], nothing in item 5 (c) of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
 
 Claim by a mortgagee in possession
 
@@ -1480,9 +1480,9 @@ Part I
 
 2\. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
 
-3\. All provisions of the Parking Places Act (Cap. 214) and any subsidiary legislation made thereunder.
+3\. All provisions of the Parking Places Act [Cap. 214] and any subsidiary legislation made thereunder.
 
-4\. All provisions of the Rapid Transit Systems Act (Cap. 263A) and any subsidiary legislation made thereunder.
+4\. All provisions of the Rapid Transit Systems Act [Cap. 263A] and any subsidiary legislation made thereunder.
 
 5. All provisions of the Road Traffic Act (Cap. 276) and any subsidiary legislation made thereunder which are carried out or administered by the Authority, and —
 
@@ -1500,9 +1500,19 @@ Part I
 
 (d) rule 8 of the Road Traffic (Traffic Signs) Rules (Cap. 276, R 33).
 
-6\. All provisions of the Street Works Act (Cap. 320A) and any subsidiary legislation made thereunder.
+6\. All provisions of the Street Works Act [Cap. 320A] and any subsidiary legislation made thereunder.
 
-7\. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
+7. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
+
+[S 590/2004 wef 24/09/2004]
+
+[S 63/2006 wef 01/02/2006]
+
+[S 301/2008 wef 01/07/2008]
+
+[S 630/2010 wef 01/11/2010]
+
+[S 310/2012 wef 01/07/2012]
 
 Part II
 
@@ -1516,7 +1526,7 @@ Land Transport Authority of Singapore Act
 
 (CHAPTER 158A)
 
-This Legislative History is provided for the convenience of users of the Land Transport Authority of Singapore Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Land Transport Authority of Singapore Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1602,3 +1612,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of First Reading|14 May 2012 (Bill No. 15/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|12 September 2012|
+|21.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
