@@ -296,7 +296,7 @@
 
 - [122 References in other written laws and documents](#References-in-other-written-laws-and-documents)
 
-[**THE SCHEDULE Disciplinary Offences**](#THE-SCHEDULE)
+[**THE SCHEDULE Disciplinary offences**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -2204,7 +2204,9 @@ and where a direction is given under paragraph (b), the Compensation Board shall
 
 (b) 2 other members selected by the president or deputy president from a panel of members constituted in accordance with this section.
 
-(2) The president and every deputy president of a Compensation Board shall be appointed by the Minister for a period of 2 years and shall be eligible for re-appointment, but no person shall be eligible for appointment unless he possesses the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
+(2) The president and every deputy president of a Compensation Board shall be appointed by the Minister for a period of 2 years and shall be eligible for re-appointment, but no person shall be eligible for appointment unless he possesses the qualifications required for a District Judge under section 9(3) of the State Courts Act (Cap. 321) or is a District Judge appointed under section 9(1) of that Act.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) The Minister may appoint such number of deputy presidents as he thinks fit.
 
@@ -2672,7 +2674,7 @@ shall continue to hold such office as if he were appointed under section 6(1) as
 
 Sections 2(1), 40(1), 81 and 82
 
-Disciplinary Offences
+Disciplinary offences
 
 1\. Absence from duty without leave within the meaning of section 36.
 
@@ -2764,7 +2766,7 @@ Police Force Act
 
 (CHAPTER 235)
 
-Unless otherwise stated, the abbreviations used in the cross-references are references to the Police Force Act (Chapter 235, 1985 Revised Edition). The references are provided for convenience and are not part of the Act.
+Notes:—Unless otherwise stated, the abbreviations used in the cross-references are references to the Police Force Act (Chapter 235, 1985 Revised Edition). The references are provided for convenience and are not part of the Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -2772,7 +2774,7 @@ Police Force Act
 
 (CHAPTER 235)
 
-This Legislative History is provided for the convenience of users of the Police Force Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Police Force Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2816,6 +2818,11 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (Item 76 of the Sixth Schedule –– Amendment of Police Force Act)|
+|8.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Police Force Act
