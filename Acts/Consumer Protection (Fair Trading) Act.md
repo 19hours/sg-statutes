@@ -68,13 +68,13 @@
 
 - [20 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Excluded Transactions Excluded transactions in relation to consumer transactions**](#FIRST-SCHEDULE-Excluded-Transactions-Excluded-transactions-in-relation-to-consumer-transactions)
+[**FIRST SCHEDULE Excluded transactions in relation to consumer transactions**](#FIRST-SCHEDULE-Excluded-transactions-in-relation-to-consumer-transactions)
 
-[**SECOND SCHEDULE Specific Unfair Practices**](#SECOND-SCHEDULE-Specific-Unfair-Practices)
+[**SECOND SCHEDULE Specific unfair practices**](#SECOND-SCHEDULE-Specific-unfair-practices)
 
-[**THIRD SCHEDULE Constitution and Proceedings of Injunction Proposals Review Panel**](#THIRD-SCHEDULE-Constitution-and-Proceedings-of-Injunction-Proposals-Review-Panel)
+[**THIRD SCHEDULE Constitution and proceedings of Injunction Proposals Review Panel**](#THIRD-SCHEDULE-Constitution-and-proceedings-of-Injunction-Proposals-Review-Panel)
 
-[**FOURTH SCHEDULE Modifications to Provisions of Limitation Act**](#FOURTH-SCHEDULE-Modifications-to-Provisions-of-Limitation-Act)
+[**FOURTH SCHEDULE Modifications to provisions of Limitation Act**](#FOURTH-SCHEDULE-Modifications-to-provisions-of-Limitation-Act)
 
 [**Legislative History**](#Legislative-History)
 
@@ -178,7 +178,9 @@ but does not include any transaction specified in the First Schedule;
 
 (d) financial services;
 
-“Small Claims Tribunal” means a Small Claims Tribunal constituted under section 4 of the Subordinate Courts Act (Cap. 321);
+“Small Claims Tribunal” means a Small Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321);
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “specified body” means any person or body appointed under section 8(10);
 
@@ -208,9 +210,13 @@ and includes any employee or agent of the person, and the word “supply”, wit
 
 “voucher” means any document that purports to give the holder of the document the right to obtain goods or a service or the right to obtain goods or a service at a discounted or reduced price.
 
+[15/2008]
+
 (2) An individual who holds himself out as acting exclusively in the course of business shall be treated as acting exclusively in the course of business for the purpose of the definition of “consumer” in subsection (1).
 
 (3) For the purposes of the definitions of “financial product” and “financial services” in subsection (1), a reference to a person regulated under a written law shall include a person exempted from being licensed, approved or regulated under that written law.
+
+[15/2008]
 
 ## PART II
 
@@ -290,11 +296,19 @@ UNFAIR PRACTICES
 
 (6) The prescribed limit referred to in this section shall be $30,000 or such other amount as the Minister may, by order in theGazette, prescribe.
 
+[15/2008]
+
 (7) Any party to an action in a court under subsection (1) may, at any time, apply to that court to stay the proceedings so far as the proceedings relate to an unfair practice in respect of which an application has been made under section 9 against the same supplier.
+
+[15/2008]
 
 (8) The court to which an application under subsection (7) has been made may, if the court is satisfied that the determination in respect of the application under section 9 will be material to the action under subsection (1), make an order, upon such terms as the court thinks fit, staying the proceedings so far as the proceedings relate to that unfair practice.
 
+[15/2008]
+
 (9) Where no party to the proceedings has taken any further step in the proceedings for a period of 2 or more years after an order staying the proceedings has been made, the court may, on its own motion, make an order discontinuing the proceedings without prejudice to the right of any of the parties to apply for the discontinued proceedings to be reinstated.
+
+[15/2008]
 
 ### Jurisdiction and powers of courts
 
@@ -310,11 +324,19 @@ UNFAIR PRACTICES
 
 (e) any action insofar as it relates to a deposit paid in relation to or in contemplation of a motor vehicle sale contract.
 
+[15/2008]
+
 (2) In subsection (1), “relevant contract” means a contract referred to in section 5(1)(a) (contract for the sale of goods or the provision of services) or (c) (contract for the lease of residential premises that does not exceed 2 years) of the Small Claims Tribunals Act (Cap. 308), and does not include a hire-purchase agreement or sale of immovable property.
+
+[15/2008]
 
 (2A) For the avoidance of doubt, subsections (2) to (5) of section 5 of the Small Claims Tribunals Act shall apply, with the necessary modifications, to a Small Claims Tribunal exercising the jurisdiction conferred by subsection (1).
 
-(3) For the purposes of determining whether an action under section 6(1) exceeds the District Court limit or the Magistrate’s Court limit within the meaning of the Subordinate Courts Act (Cap. 321), such an action shall be deemed to be a claim founded on contract.
+[15/2008]
+
+(3) For the purposes of determining whether an action under section 6(1) exceeds the District Court limit or the Magistrate’s Court limit within the meaning of the State Courts Act (Cap. 321), such an action shall be deemed to be a claim founded on contract.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) Without prejudice to any other powers of the court to grant relief, a court (other than a Small Claims Tribunal) may in any proceedings where the court finds that a supplier has engaged in an unfair practice —
 
@@ -349,6 +371,8 @@ and “business use” and “non-business use” shall be construed accordingly
 (b) resolve the dispute with the supplier before commencing the action.
 
 (10) For the purposes of subsection (9)(b), if any specified dispute resolution scheme was available to the consumer in respect of the dispute, the court shall consider whether the consumer had sought to resolve the dispute through such a scheme.
+
+[15/2008]
 
 ### Voluntary compliance agreement
 
@@ -478,6 +502,8 @@ in such manner or upon such terms as specified in the undertakings.
 
 whichever occurs later.
 
+[15/2008]
+
 (2) No action under section 8(6), (7) or (8) shall be commenced later than one year from the date of the failure to comply with the undertaking sought to be enforced.
 
 (3) No action under section 9 shall be commenced later than 2 years —
@@ -487,6 +513,8 @@ whichever occurs later.
 (b) where the specified body alleges in the action that the supplier has engaged in an unfair practice in respect of any consumer, from the earliest date on which that consumer had knowledge that the supplier had engaged in the alleged unfair practice, as provided in subsection (1)(b),
 
 whichever occurs later.
+
+[15/2008]
 
 (4) No action under any regulations made under section 11 shall be commenced later than one year from the date of the cancellation of the contract.
 
@@ -753,9 +781,15 @@ the provision must be interpreted against the supplier.
 
 18A\.—(1) If, in any proceedings taken in any court between a consumer and a supplier in relation to a consumer transaction, any dispute arises as to whether the supplier has complied with any specified requirement of this Act or the regulations made thereunder, the burden of proving that the supplier has so complied shall be on the supplier.
 
+[15/2008]
+
 (2) The Minister may, by regulations, specify the requirements of this Act or the regulations made thereunder to which subsection (1) shall apply.
 
+[15/2008]
+
 (3) This section shall not affect any other rule of law that places a burden of proof on the supplier.
+
+[15/2008]
 
 ### Amendment of Schedules
 
@@ -790,6 +824,8 @@ the provision must be interpreted against the supplier.
 (k) specifying dispute resolution schemes for the purposes of section 7(10); and
 
 (l) modifying the application of section 6(2), in relation to any class of supplier or any class of goods or services or transactions, where multiple actions involving the same unfair practice are commenced under section 6(1) by the same consumer.
+
+[15/2008]
 
 ### Rights transferred
 
@@ -825,9 +861,15 @@ the provision must be interpreted against the supplier.
 
 18A\.—(1) If, in any proceedings taken in any court between a consumer and a supplier in relation to a consumer transaction, any dispute arises as to whether the supplier has complied with any specified requirement of this Act or the regulations made thereunder, the burden of proving that the supplier has so complied shall be on the supplier.
 
+[15/2008]
+
 (2) The Minister may, by regulations, specify the requirements of this Act or the regulations made thereunder to which subsection (1) shall apply.
 
+[15/2008]
+
 (3) This section shall not affect any other rule of law that places a burden of proof on the supplier.
+
+[15/2008]
 
 ### Amendment of Schedules
 
@@ -863,11 +905,15 @@ the provision must be interpreted against the supplier.
 
 (l) modifying the application of section 6(2), in relation to any class of supplier or any class of goods or services or transactions, where multiple actions involving the same unfair practice are commenced under section 6(1) by the same consumer.
 
+[15/2008]
+
 FIRST SCHEDULE
 
 Section 2
 
 Excluded transactions in relation to consumer transactions
+
+[Act 7 of 2012 wef 01/09/2012]
 
 1. The term “consumer transaction” does not include any of the following transactions:
 
@@ -895,9 +941,9 @@ Excluded transactions in relation to consumer transactions
 
 (h) [Deleted by Act 15/2008 wef 01/04/2010]
 
-(i) Pawnbrokers Act (Cap. 222).1
+(i) Pawnbrokers Act (Cap. 222).\*
 
-1Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
+\*Sub-paragraph (i) of paragraph 2 will be deleted when section 8(c) of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
 
 [15/2008]
 
@@ -905,7 +951,7 @@ SECOND SCHEDULE
 
 Section 4(d)
 
-Specific Unfair Practices
+Specific unfair practices
 
 1\. Representing that goods or services have sponsorship, approval, performance characteristics, accessories, ingredients, components, qualities, uses or benefits that they do not have.
 
@@ -951,7 +997,7 @@ THIRD SCHEDULE
 
 Section 10(6)
 
-Constitution and Proceedings of
+Constitution and proceedings of
 
 
 
@@ -988,7 +1034,7 @@ FOURTH SCHEDULE
 
 Section 12(8)
 
-Modifications to Provisions of Limitation Act
+Modifications to provisions of Limitation Act
 
 1. In the case of an action under section 6, subsection (1) of section 24 of the Limitation Act (Cap. 163) shall be replaced by the following subsection:
 
@@ -1022,7 +1068,7 @@ Consumer Protection (Fair Trading) Act
 
 (CHAPTER 52A)
 
-This Legislative History is provided for the convenience of users of the Consumer Protection (Fair Trading) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Consumer Protection (Fair Trading) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1050,3 +1096,9 @@ This Legislative History is provided for the convenience of users of the Consume
 |||(Bill No. 3/2012 published on 14 February 2012)|
 ||Date of Second and Third Readings|9 March 2012|
 ||Date of commencement|1 September 2012|
+|7.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
