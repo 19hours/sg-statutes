@@ -196,11 +196,11 @@ An Act relating to the guardianship of infants.
 
 ### Exception for money paid into a District Court
 
-21\. \*Nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Subordinate Courts Rules, unless in any case the High Court or a judge of the High Court otherwise orders.
-
-\*SeeG.N. No. S 59/86.
+21\. Nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Rules of Court, unless in any case the High Court or a judge of the High Court otherwise orders.
 
 [Act 16/93 wef 01/07/1993]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ## LEGISLATIVE HISTORY
 
@@ -208,7 +208,7 @@ Guardianship of Infants Act
 
 (CHAPTER 122)
 
-This Legislative History is provided for the convenience of users of the Guardianship of Infants Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Guardianship of Infants Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -218,7 +218,7 @@ This Legislative History is provided for the convenience of users of the Guardia
 |2.|**Ordinance 58 of 1940—Guardianship of Infants (Amendment) Ordinance 1940**|
 ||Date of First, Second and Third Readings|Date not available.|
 ||Date of commencement|30 November 1940|
-|3.|**Ordinance 17 of 1965—Guardianship of Infants (Amendment) Act 1965**|
+|3.|**Act 17 of 1965—Guardianship of Infants (Amendment) Act 1965**|
 ||Date of First, Second and Third Readings|Date not available.|
 ||Date of commencement|6 January 1965|
 |4.|**1970 Revised Edition—Guardianship of Infants Act (Cap. 22)**|
@@ -237,3 +237,8 @@ This Legislative History is provided for the convenience of users of the Guardia
 |||(Bill No. 34/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|10 January 2011|
 ||Date of commencement|1 June 2011|
+|8.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
