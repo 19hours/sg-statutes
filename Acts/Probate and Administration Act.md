@@ -600,9 +600,11 @@ DISTRICT COURTS
 
 (3) Unless in such case the grantee complies without delay with the requirements of subsection (2), the grant may be revoked, on the application of the Commissioner of Estate Duties, or of the Registrar of the Supreme Court, or of any person having any interest as beneficiary or creditor in the assets of the estate.
 
-(4) In this section, “District Court limit” has the same meaning as in sections 26(a) and 27 of the Subordinate Courts Act (Cap. 321).
+(4) In this section, “District Court limit” has the same meaning as in sections 26(a) and 27 of the State Courts Act (Cap. 321).
 
 [42/2005 wef 01/01/2006]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Security in case of grant of administration by District Court
 
@@ -1199,6 +1201,12 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|21.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
