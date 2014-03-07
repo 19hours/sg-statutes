@@ -228,13 +228,17 @@ but does not include a hospital;
 
 3\.—(1) The President may, on the recommendation of the Chief Justice, appoint a State Coroner and such other Coroners as are necessary for the proper administration of this Act.
 
-(2) No person shall be appointed a Coroner unless he is a judicial officer appointed under the Subordinate Courts Act (Cap. 321) and, in the case of the State Coroner, unless he is a District Judge appointed under that Act.
+(2) No person shall be appointed a Coroner unless he is a judicial officer appointed under the Subordinate Courts ActState Courts Act (Cap. 321) and, in the case of the State Coroner, unless he is a District Judge appointed under that Act.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) The State Coroner shall be charged with the general administration of this Act and the exercise of the functions and duties imposed upon him by this Act.
 
 (4) The State Coroner may authorise or appoint any person to assist him in the exercise of his functions and duties under this Act whether generally or in any particular case.
 
-(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Chief District Judge appointed under the Subordinate Courts Act may appoint another Coroner to act as State Coroner for that period.
+(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Chief District Judge appointed under the Subordinate Courts ActState Courts Act may appoint another Coroner to act as State Coroner for that period.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (6) All appointments made under subsection (1) shall be published in theGazette.
 
@@ -875,11 +879,13 @@ MISCELLANEOUS
 
 ### Savings and transitional provisions
 
-50\.—(1) A person who, immediately before 2nd January 2011, was a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321) shall be deemed to be a Coroner appointed under section 3(1) of this Act.
+50\.—(1) A person who, immediately before 2nd January 2011, was a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321) in force immediately before 2nd January 2011 shall be deemed to be a Coroner appointed under section 3(1) of this Act.
 
 (2) The provisions of this Act shall apply in relation to any investigation or inquiry into the death of any person conducted on or after 2nd January 2011, whether the death of the person occurred before, on or after 2nd January 2011.
 
 (3) For a period of 2 years after 2nd January 2011, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of this Act as he may consider necessary or expedient.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 FIRST SCHEDULE
 
@@ -1153,3 +1159,7 @@ This Legislative History is provided for the convenience of users of the Coroner
 ||Date of commencement|1 March 2012 (section 19 — Amendment of Coroners Act 2010)|
 |4.|**2012 Revised Edition—Coroners Act (Chapter 63A)**|
 ||Date of operation|31 October 2012|
+|5.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 26 February 2014)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
