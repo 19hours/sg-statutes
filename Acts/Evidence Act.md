@@ -254,7 +254,7 @@
 
 - [99 Evidence as to application of language to one of two sets of facts to neither of which the whole correctly applies](#Evidence-as-to-application-of-language-to-one-of-two-sets-of-facts-to-neither-of-which-the-whole-correctly-applies)
 
-- [100 Evidence as to meaning of illegible characters, etc](#Evidence-as-to-meaning-of-illegible-characters-etc)
+- [100 Evidence as to meaning of illegible characters, etc.](#Evidence-as-to-meaning-of-illegible-characters-etc)
 
 - [101 Who may give evidence of agreement varying terms of document](#Who-may-give-evidence-of-agreement-varying-terms-of-document)
 
@@ -324,7 +324,7 @@
 
 - [128A Communications with legal counsel in entity](#Communications-with-legal-counsel-in-entity)
 
-- [129 Sections 128Sections 128 and 128A to apply to interpreters, etc.](#Sections-128Sections-128-and-128A-to-apply-to-interpreters-etc)
+- [129 Sections 128 and 128A to apply to interpreters, etc.](#Sections-128-and-128A-to-apply-to-interpreters-etc)
 
 - [130 Privilege not waived by volunteering evidence](#Privilege-not-waived-by-volunteering-evidence)
 
@@ -608,7 +608,7 @@ Illustrations
 
 (a)
 
-Ais tried for the murder ofBby beating him with a club with the intention of causing his death.
+A is tried for the murder of B by beating him with a club with the intention of causing his death.
 
 AtA’strial the following facts are in issue:
 
@@ -718,45 +718,31 @@ The fact that he said he had been robbed without making any complaint is not rel
 
 Illustrations
 
-(a)
-
-The question is whether a given document is the will ofA.
+(a) The question is whether a given document is the will ofA.
 
 The state ofA’sproperty and of his family at the date of the alleged will may be relevant facts.
 
-(b)
-
-AsuesBfor libel imputing disgraceful conduct toA;Baffirms that the matter alleged to be libellous is true.
+(b)AsuesBfor libel imputing disgraceful conduct toA;Baffirms that the matter alleged to be libellous is true.
 
 The position and relations of the parties at the time when the libel was published may be relevant facts as introductory to the facts in issue.
 
 The particulars of a dispute betweenAandBabout a matter unconnected with the alleged libel are irrelevant, though the fact that there was a dispute may be relevant if it affected the relations betweenAandB.
 
-(c)
+(c)Ais accused of a crime.
 
-Ais accused of a crime.
-
-The fact that soon after the commission of the crimeAabsconded from his house is relevant under section 8(1) as conduct subsequent to and affected by facts in issue.
+The fact that soon after the commission of the crimeAabsconded from his house is relevant under section 8 as conduct subsequent to and affected by facts in issue.
 
 The fact that at the time when he left home he had sudden and urgent business at the place to which he went is relevant as tending to explain the fact that he left home suddenly.
 
 The details of the business on which he left are not relevant, except in so far as they are necessary to show that the business was sudden and urgent.
 
-(d)
+(d)AsuesBfor inducingCto break a contract of service made by him withA.Con leavingA’sservice says toA: “I am leaving you becauseBhas made me a better offer”. This statement is a relevant fact as explanatory ofC’sconduct, which is relevant as a fact in issue.
 
-AsuesBfor inducingCto break a contract of service made by him withA.Con leavingA’sservice says toA: “I am leaving you becauseBhas made me a better offer”. This statement is a relevant fact as explanatory ofC’sconduct, which is relevant as a fact in issue.
+(e) A accused of theft is seen to give the stolen property toBwho is seen to give it toA’swife.Bsays as he delivers it: “Asays you are to hide this”.B’sstatement is relevant as explanatory of a fact which is part of the transaction.
 
-(e)
+(f)Ais tried for a riot and is proved to have marched at the head of a mob. The cries of the mob are relevant as explanatory of the nature of the transaction.
 
-Aaccused of theft is seen to give the stolen property toBwho is seen to give it toA’swife.Bsays as he delivers it: “Asays you are to hide this”.B’sstatement is relevant as explanatory of a fact which is part of the transaction.
-
-(f)
-
-Ais tried for a riot and is proved to have marched at the head of a mob. The cries of the mob are relevant as explanatory of the nature of the transaction.
-
-(g)
-
-Aseeks to adduce evidence againstBin the form of an electronic record. The method and manner in which the electronic record was (properly or improperly) generated, communicated, received or stored (byAorB), the reliability of the devices and the circumstances in which the devices were (properly or improperly) used or operated to generate, communicate, receive or store the electronic record, may be relevant facts (if the contents are relevant) as authenticating the electronic record and therefore as explaining or introducing the electronic record, or identifying it as the relevant electronic record to support a finding that the record is, or is not, what its proponentAclaims.
+(g)Aseeks to adduce evidence againstBin the form of an electronic record. The method and manner in which the electronic record was (properly or improperly) generated, communicated, received or stored (byAorB), the reliability of the devices and the circumstances in which the devices were (properly or improperly) used or operated to generate, communicate, receive or store the electronic record, may be relevant facts (if the contents are relevant) as authenticating the electronic record and therefore as explaining or introducing the electronic record, or identifying it as the relevant electronic record to support a finding that the record is, or is not, what its proponentAclaims.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -978,7 +964,7 @@ Asays toB: “Go and askC,Cknows all about it”.C’sstatement is an admission.
 
 21\. Admissions are relevant and may be proved as against the person who makes them or his representative in interest; but they cannot be proved by or on behalf of the person who makes them or by his representative in interest except in the following cases:
 
-(a) an admission may be proved by or on behalf of the person making it when it is of such a nature that, if the person making it were dead, it would be relevant as between third persons under section 32(1);
+(a) an admission may be proved by or on behalf of the person making it when it is of such a nature that, if the person making it were dead, it would be relevant as between third persons under section 32;
 
 (b) an admission may be proved by or on behalf of the person making it when it consists of a statement of the existence of any state of mind or body relevant or in issue, made at or about the time when such state of mind or body existed and is accompanied by conduct rendering its falsehood improbable; and
 
@@ -986,37 +972,27 @@ Asays toB: “Go and askC,Cknows all about it”.C’sstatement is an admission.
 
 Illustrations
 
-(a)
-
-The question betweenAandBis whether a certain deed is or is not forged.Aaffirms that it is genuine;Bthat it is forged.
+(a) The question betweenAandBis whether a certain deed is or is not forged.Aaffirms that it is genuine;Bthat it is forged.
 
 Amay prove a statement byBthat the deed is genuine, andBmay prove a statement byAthat the deed is forged; butAcannot prove a statement by himself that the deed is genuine, nor canBprove a statement by himself that the deed is forged.
 
-(b)
-
-A, the captain of a ship, is tried for casting her away.
+(b)A, the captain of a ship, is tried for casting her away.
 
 Evidence is given to show that the ship was taken out of her proper course.
 
-Aproduces a book kept by him in the ordinary course of his business, showing observations alleged to have been taken by him from day to day, and indicating that the ship was not taken out of her proper course.Amay prove these statements because they would be admissible between third parties if he were dead under section 32(1)(b).
+Aproduces a book kept by him in the ordinary course of his business, showing observations alleged to have been taken by him from day to day, and indicating that the ship was not taken out of her proper course. A may prove these statements because they would be admissible between third parties if he were dead under section 32(1)(b).
 
-(c)
+(c)Ais accused of a crime committed by him at Singapore. He produces a letter written by himself and dated at Penang on that day, and bearing the Penang postmark of that day.
 
-Ais accused of a crime committed by him at Singapore. He produces a letter written by himself and dated at Penang on that day, and bearing the Penang postmark of that day.
+The statement in the date of the letter is admissible, because ifAwere dead it would be admissible under section 32(1)(b).
 
-The statement in the date of the letter is admissible, because if A were dead it would be admissible under section 32(1)(b).
-
-(d)
-
-Ais accused of receiving stolen goods, knowing them to be stolen.
+(d)Ais accused of receiving stolen goods, knowing them to be stolen.
 
 He offers to prove that he refused to sell them below their value.
 
 Amay prove these statements though they are admissions, because they are explanatory of conduct influenced by facts in issue.
 
-(e)
-
-Ais accused of fraudulently having in his possession counterfeit coin which he knew to be counterfeit.
+(e)Ais accused of fraudulently having in his possession counterfeit coin which he knew to be counterfeit.
 
 He offers to prove that he asked a skilful person to examine the coin as he doubted whether it was counterfeit or not, and that that person did examine it and told him it was genuine.
 
@@ -1036,11 +1012,11 @@ Amay prove these facts for the reasons stated in illustration (d).
 
 (b) upon circumstances from which the court can infer that the parties agreed together that evidence of it should not be given.
 
-(2) Nothing in subsection (1)subsection (1) shall be taken —
+(2) Nothing in subsection (1) shall be taken —
 
-(a) to exempt any advocate or solicitor from giving evidence of any matter of which he may be compelled to give evidence under section 128section 128; or
+(a) to exempt any advocate or solicitor from giving evidence of any matter of which he may be compelled to give evidence under section 128; or
 
-(b) to exempt any legal counsel in an entity from giving evidence of any matter of which he may be compelled to give evidence under section 128Asection 128A.
+(b) to exempt any legal counsel in an entity from giving evidence of any matter of which he may be compelled to give evidence under section 128A.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1065,6 +1041,8 @@ Amay prove these facts for the reasons stated in illustration (d).
 ### Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant
 
 32\.—(1) Subject to subsections (2)subsections (2) and (3), statements of relevant facts made by a person (whether orally, in a document or otherwise), are themselves relevant facts in the following cases:
+
+[Act 4 of 2012 wef 01/08/2012]
 
 when it relates to cause of death; 
 
@@ -1095,6 +1073,8 @@ any information in market quotations, tabulations, lists, directories or other c
 a document constituting, or forming part of, the records (whether past or present) of a trade, business, profession or other occupation that are recorded, owned or kept by any person, body or organisation carrying out the trade, business, profession or other occupation,
 
 and includes a statement made in a document that is, or forms part of, a record compiled by a person acting in the ordinary course of a trade, business, profession or other occupation based on information supplied by other persons;
+
+[Act 4 of 2012 wef 01/08/2012]
 
 or against interest of maker; 
 
@@ -1130,17 +1110,21 @@ a
 
 when the statement is contained in any deed or other document which relates to any such transaction as is mentioned in section 13(a);
 
-or is made by several persons and expresses feelings relevant to matter in question 
+or is made by several persons and expresses feelings relevant to matter in question; 
 
 (h)
 
 when the statement was made by a number of persons and expressed feelings or impressions on their part relevant to the matter in question;
+
+[Act 4 of 2012 wef 01/08/2012]
 
 or is made by person who is compellable but refuses to give evidence; 
 
 (i)
 
 when the statement was made by a person who, being compellable to give evidence on behalf of the party desiring to give the statement in evidence, attends or is brought before the court, but refuses to be sworn or affirmed, or is sworn or affirmed but refuses to give any evidence;
+
+[Act 4 of 2012 wef 01/08/2012]
 
 or is made by person who is dead or who cannot be produced as witness; 
 
@@ -1163,6 +1147,8 @@ that he is outside Singapore and it is not practicable to secure his attendance;
 (iv)
 
 that, being competent but not compellable to give evidence on behalf of the party desiring to give the statement in evidence, he refuses to do so;
+
+[Act 4 of 2012 wef 01/08/2012]
 
 or by agreement\. 
 
@@ -1258,8 +1244,6 @@ AsuesBfor a libel expressed in a printed caricature exposed in a shop-window. Th
 
 The remarks of a crowd of spectators on these points may be proved.
 
-[Act 4 of 2012 wef 01/08/2012]
-
 (2) For the purposes of paragraph (a)paragraph (a), (c), (d), (e), (f), (g), (h), (i) or (j) of subsection (1)subsection (1), where a person makes an oral statement to or in the hearing of another person who, at the request of the maker of the statement, puts it (or the substance of it) into writing at the time or reasonably soon afterwards, thereby producing a corresponding statement in a document, the statement in the document shall be treated for the purposes of those paragraphs as the statement of the maker of the oral statement.
 
 [Act 4 of 2012 wef 01/08/2012]
@@ -1290,15 +1274,15 @@ The remarks of a crowd of spectators on these points may be proved.
 
 ### Protest, greeting, etc., treated as stating fact that utterance implies
 
-32A\. For the purposes of section 32(1)section 32(1), a protest, greeting or other verbal utterance may be treated as stating any fact that the utterance implies.
+32A\. For the purposes of section 32(1), a protest, greeting or other verbal utterance may be treated as stating any fact that the utterance implies.
 
 [Act 4 of 2012 wef 01/08/2012]
 
 ### Statement of opinion
 
-32B\.—(1) Subject to this section, section 32section 32 applies to statements of opinion as they apply to statements of fact.
+32B\.—(1) Subject to this section, section 32 applies to statements of opinion as they apply to statements of fact.
 
-(2) A statement of opinion shall only be admissible under section 32(1)section 32(1) if that statement would be admissible in those proceedings if made through direct oral evidence.
+(2) A statement of opinion shall only be admissible under section 32(1) if that statement would be admissible in those proceedings if made through direct oral evidence.
 
 (3) Where a person is called as a witness in any proceedings, a statement of opinion by him on a relevant matter on which he is not qualified to give expert evidence, if made as a way of conveying relevant facts personally perceived by him, is admissible as evidence of what he perceived.
 
@@ -1306,17 +1290,17 @@ The remarks of a crowd of spectators on these points may be proved.
 
 ### Admissibility of evidence as to credibility of maker, etc., of statement admitted under certain provisions
 
-32C\.—(1) Where in any proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence by virtue of section 32(1)section 32(1) —
+32C\.—(1) Where in any proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence by virtue of section 32(1) —
 
 (a) any evidence which, if that person had been so called, would be admissible for the purpose of undermining or supporting that person’s credibility as a witness, is admissible for that purpose in those proceedings; and
 
 (b) as regards any matter which, if that person had been so called, could have been put to him in cross-examination for the purpose of undermining his credibility as a witness, being a matter of which, if he had denied it, evidence could not have been adduced by the cross-examining party, evidence of that matter may with the leave of the court be given for that purpose.
 
-(2) Where in any proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence by virtue of section 32(1)section 32(1), evidence tending to prove that, whether before or after he made that statement, he made another statement (orally, written or otherwise) inconsistent with the first-mentioned statement is admissible for the purpose of showing that he has contradicted himself.
+(2) Where in any proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence by virtue of section 32(1), evidence tending to prove that, whether before or after he made that statement, he made another statement (orally, written or otherwise) inconsistent with the first-mentioned statement is admissible for the purpose of showing that he has contradicted himself.
 
-(3) For the purposes of section 32(1)(b)section 32(1)(b), subsections (1)subsections (1) and (2) apply in relation to both the maker of the statement and the person who originally supplied the information from which the statement was made.
+(3) For the purposes of section 32(1)(b), subsections (1) and (2) apply in relation to both the maker of the statement and the person who originally supplied the information from which the statement was made.
 
-(4) Section 32(2)Section 32(2) applies for the purposes of this section as it applies for the purposes of section 32(1)section 32(1).
+(4) Section 32(2) applies for the purposes of this section as it applies for the purposes of section 32(1).
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1422,7 +1406,7 @@ Judgments of courts of justice when relevant
 
 ### Relevancy and effect of judgments, orders or decrees other than those mentioned in section 43
 
-44\. Judgments, orders or decrees other than those mentioned in section 43(1) are relevant if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.
+44\. Judgments, orders or decrees other than those mentioned in section 43 are relevant if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.
 
 Illustration
 
@@ -1432,19 +1416,15 @@ The existence of a decree in favour of the defendant in a suit byAagainstCfor a 
 
 ### Judgments, etc., other than those mentioned in sections 42 to 44 when relevant
 
-45\. Judgments, orders or decrees other than those mentioned in sections 42, 43(1) and 44 are irrelevant unless the existence of such judgment, order or decree is a fact in issue or is relevant under some other provision of this Act.
+45\. Judgments, orders or decrees other than those mentioned in sections 42, 43 and 44 are irrelevant unless the existence of such judgment, order or decree is a fact in issue or is relevant under some other provision of this Act.
 
 Illustrations
 
-(a)
-
-AandBseparately sueCfor a libel which reflects upon each of them.Cin each case says that the matter alleged to be libellous is true, and the circumstances are such that it is probably true in each case or in neither.
+(a)AandBseparately sueCfor a libel which reflects upon each of them.Cin each case says that the matter alleged to be libellous is true, and the circumstances are such that it is probably true in each case or in neither.
 
 Aobtains a decree againstCfor damages on the ground thatCfailed to make out his justification. The fact is irrelevant as betweenBandC.
 
-(b)
-
-AprosecutesBunder section 498 of the Penal Code for enticing awayC,A’swife.
+(b)AprosecutesBunder section 498 of the Penal Code for enticing awayC,A’swife.
 
 Bdenies thatCisA’swife, but the court convictsB.
 
@@ -1452,25 +1432,19 @@ AfterwardsCis prosecuted for bigamy in marryingBduringA’slifetime.Csays that s
 
 The judgment againstBis irrelevant as againstC.
 
-(c)
-
-Ahas obtained a decree for the possession of land againstB.C,B’sson, murdersAin consequence.
+(c) A has obtained a decree for the possession of land againstB.C,B’sson, murdersAin consequence.
 
 The existence of the judgment is relevant as showing motive for a crime.
 
-(d)
-
-Ais charged with theft and with having been previously convicted of theft.
+(d)Ais charged with theft and with having been previously convicted of theft.
 
 The previous conviction is relevant as a fact in issue.
 
-(e)
-
-Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas convicted and sentenced is relevant under section 8(1) as showing the motive for the fact in issue.
+(e)Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas convicted and sentenced is relevant under section 8 as showing the motive for the fact in issue.
 
 ### Relevance of convictions and acquittals
 
-45A\.—(1) Without prejudice to sections 42, 43(1), 44 and 45, the fact that a person has been convicted or acquitted of an offence by or before any court in Singapore shall be admissible in evidence for the purpose of proving, where relevant to any issue in the proceedings, that he committed (or, as the case may be, did not commit) that offence, whether or not he is a party to the proceedings; and where he was convicted, whether he was so convicted upon a plea of guilty or otherwise.
+45A\.—(1) Without prejudice to sections 42, 43, 44 and 45, the fact that a person has been convicted or acquitted of an offence by or before any court in Singapore shall be admissible in evidence for the purpose of proving, where relevant to any issue in the proceedings, that he committed (or, as the case may be, did not commit) that offence, whether or not he is a party to the proceedings; and where he was convicted, whether he was so convicted upon a plea of guilty or otherwise.
 
 [8/96]
 
@@ -1488,9 +1462,11 @@ Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas co
 
 [8/96]
 
-(4) Any conviction or acquittal admissible under this section may be proved by a certificate of conviction or acquittal, signed by the Registrar of the Supreme Court or the Registrar of the Subordinate Courts, as the case may be, giving the substance and effect of the charge and of the conviction or acquittal.
+(4) Any conviction or acquittal admissible under this section may be proved by a certificate of conviction or acquittal, signed by the Registrar of the Supreme Court or the Registrar of the State Courts, as the case may be, giving the substance and effect of the charge and of the conviction or acquittal.
 
 [8/96]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (5) Where relevant, any document containing details of the information, complaint, charge, agreed statement of facts or record of proceedings on which the person in question is convicted shall be admissible in evidence.
 
@@ -1504,25 +1480,27 @@ Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas co
 
 [8/96]
 
-(8) In this section, “Registrar” has the meaning assigned to it in the Supreme Court of Judicature Act (Cap. 322) and the Subordinate Courts Act (Cap. 321), respectively.
+(8) In this section, “Registrar” has the meaning assigned to it in the Supreme Court of Judicature Act (Cap. 322) and the State Courts Act (Cap. 321), respectively.
 
 [8/96]
 
+[Act 5 of 2014 wef 07/03/2014]
+
 ### Fraud or collusion in obtaining judgment or incompetency of court may be proved
 
-46\. Any party to a suit or other proceeding may show that any judgment, order or decree which is relevant under section 42, 43(1) or 44, and which has been proved by the adverse party, was delivered by a court not competent to deliver it or was obtained by fraud or collusion.
+46\. Any party to a suit or other proceeding may show that any judgment, order or decree which is relevant under section 42, 43 or 44, and which has been proved by the adverse party, was delivered by a court not competent to deliver it or was obtained by fraud or collusion.
 
 Opinions of third persons when relevant
 
 ### Opinions of experts
 
-47\.—(1) Subject to subsection (4)subsection (4), when the court is likely to derive assistance from an opinion upon a point of scientific, technical or other specialised knowledge, the opinions of experts upon that point are relevant facts.
+47\.—(1) Subject to subsection (4), when the court is likely to derive assistance from an opinion upon a point of scientific, technical or other specialised knowledge, the opinions of experts upon that point are relevant facts.
 
 (2) An expert is a person with such scientific, technical or other specialised knowledge based on training, study or experience.
 
 (3) The opinion of an expert shall not be irrelevant merely because the opinion or part thereof relates to a matter of common knowledge.
 
-(4) An opinion which is otherwise relevant under subsection (1)subsection (1) shall not be relevant if the court is of the view that it would not be in the interests of justice to treat it as relevant.
+(4) An opinion which is otherwise relevant under subsection (1) shall not be relevant if the court is of the view that it would not be in the interests of justice to treat it as relevant.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1582,17 +1560,15 @@ the opinions of persons having special means of knowledge thereon are relevant f
 
 (2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 494 or 495 of the Penal Code (Cap. 224).
 
+[51/2007 wef 01/02/2008]
+
 Illustration
 
-(a)
-
-The question is whetherAandBwere married.
+(a) The question is whetherAandBwere married.
 
 The fact that they were usually received and treated by their friends as husband and wife is relevant.
 
-(b)
-
-The question is whetherAwas a legitimate son ofB.
+(b) The question is whetherAwas a legitimate son ofB.
 
 The fact thatAwas always treated as such by members of the family is relevant.
 
@@ -1634,7 +1610,7 @@ Character when relevant
 
 57\. In civil cases, the fact that the character of any person is such as to affect the amount of damages which he ought to receive is relevant.
 
-Explanation.—In sections 54, 55, 56(1) and 57, the word “character” includes both reputation and disposition; but, except as provided in section 56(1), evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition are shown.
+Explanation.—In sections 54, 55, 56 and 57, the word “character” includes both reputation and disposition; but, except as provided in section 56, evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition are shown.
 
 ## PART II
 
@@ -1812,15 +1788,13 @@ A person is shown to have been in possession of a number of placards, all printe
 
 Explanation3.—NotwithstandingExplanation2, if a copy of a document in the form of an electronic record is shown to reflect that document accurately, then the copy is primary evidence.
 
+[Act 4 of 2012 wef 01/08/2012]
+
 Illustrations
 
-(a)
+(a) An electronic record, which has been manifestly or consistently acted on, relied upon, or used as the information recorded or stored on the computer system (the document), is primary evidence of that document.
 
-An electronic record, which has been manifestly or consistently acted on, relied upon, or used as the information recorded or stored on the computer system (the document), is primary evidence of that document.
-
-(b)
-
-If the electronic record has not been manifestly or consistently acted on, relied upon, or used as a record of the information in the document, the electronic record may be a copy of the document and treated as secondary evidence of that document.
+(b) If the electronic record has not been manifestly or consistently acted on, relied upon, or used as a record of the information in the document, the electronic record may be a copy of the document and treated as secondary evidence of that document.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1844,31 +1818,21 @@ If the electronic record has not been manifestly or consistently acted on, relie
 
 Illustrations
 
-(a)
+(a) A photograph of an original is secondary evidence of its contents, though the 2 have not been compared, if it is proved that the thing photographed was the original.
 
-A photograph of an original is secondary evidence of its contents, though the 2 have not been compared, if it is proved that the thing photographed was the original.
+(b) A copy compared with a copy of a letter made by a copying machine is secondary evidence of the contents of the letter if it is shown that the copy made by the copying machine was made from the original.
 
-(b)
+(c) [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-A copy compared with a copy of a letter made by a copying machine is secondary evidence of the contents of the letter if it is shown that the copy made by the copying machine was made from the original.
+(d) A copy transcribed from a copy but afterwards compared with the original is secondary evidence, but the copy not so compared is not secondary evidence of the original, although the copy from which it was transcribed was compared with the original.
 
-(c)
-
-[Deleted by Act 4 of 2012 wef 01/08/2012]
-
-(d)
-
-A copy transcribed from a copy but afterwards compared with the original is secondary evidence, but the copy not so compared is not secondary evidence of the original, although the copy from which it was transcribed was compared with the original.
-
-(e)
-
-Neither an oral account of a copy compared with the original nor an oral account of a photograph or machine-copy of the original is secondary evidence of the original.
+(e) Neither an oral account of a copy compared with the original nor an oral account of a photograph or machine-copy of the original is secondary evidence of the original.
 
 [8/96]
 
 ### Proof of documents by primary evidence
 
-66\. Documents must be proved by primary evidence except in the cases mentioned in section 67(1).
+66\. Documents must be proved by primary evidence except in the cases mentioned in section 67.
 
 ### Cases in which secondary evidence relating to documents may be given
 
@@ -1882,7 +1846,7 @@ Neither an oral account of a copy compared with the original nor an oral account
 
 (iii) any person legally bound to produce it,
 
-and when, after the notice mentioned in section 68(1), such person does not produce it;
+and when, after the notice mentioned in section 68, such person does not produce it;
 
 (b) when the existence, condition or contents of the original have been proved to be admitted in writing by the person against whom it is proved or by his representative in interest;
 
@@ -1906,7 +1870,7 @@ and when, after the notice mentioned in section 68(1), such person does not prod
 
 ### Proof of documents in certain cases
 
-67A\. Where in any proceedings a statement in a document is admissible in evidence by virtue of section 32(1)section 32(1), it may be proved by the production of that document or (whether or not that document is still in existence) by the production of a copy of that document, or of the material part of it, authenticated in a manner approved by the court.
+67A\. Where in any proceedings a statement in a document is admissible in evidence by virtue of section 32(1), it may be proved by the production of that document or (whether or not that document is still in existence) by the production of a copy of that document, or of the material part of it, authenticated in a manner approved by the court.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1960,11 +1924,11 @@ and when, after the notice mentioned in section 68(1), such person does not prod
 
 69\.—(1) If a document is alleged to be signed or to have been written wholly or in part by any person, the signature or the handwriting of so much of the document as is alleged to be in that person’s handwriting must be proved to be in his handwriting.
 
-[Act 25/98]
+[Act 25/98 wef 10/07/98]
 
 (2) This section shall not apply to any electronic record or electronic signature to which the Electronic Transactions Act 1998 applies.
 
-[Act 25/98]
+[Act 25/98 wef 10/07/98]
 
 ### Proof of execution of document required by law to be attested
 
@@ -2122,7 +2086,7 @@ Presumptions as to documents
 
 ### Presumption as toGazettes, newspapers and other documents
 
-83\. \**The court shall presume the genuineness of every document purporting to be the GovernmentGazetteof Singapore or the GovernmentGazetteof Malaysia or of any part of the Commonwealth, or to be theGazetteissued by the local government of any part of Malaysia or of the Commonwealth, or to be a newspaper or journal and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.
+83\. \*The court shall presume the genuineness of every document purporting to be the GovernmentGazetteof Singapore or the GovernmentGazetteof Malaysia or of any part of the Commonwealth, or to be theGazetteissued by the local government of any part of Malaysia or of the Commonwealth, or to be a newspaper or journal and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.
 
 \*See also section 48 of the Interpretation Act (Cap. 1) and the explanation appended to section 92 of this Act.
 
@@ -2166,13 +2130,13 @@ Presumptions as to documents
 
 ### Presumption as to due execution, etc., of documents not produced
 
-91\. The court shall presume that every document called for and not produced, after notice to produce given under section 68(1), was attested, stamped and executed in the manner required by law.
+91\. The court shall presume that every document called for and not produced, after notice to produce given under section 68, was attested, stamped and executed in the manner required by law.
 
 ### Presumption as to documents 30 years old
 
 92\. Where any document purporting or proved to be 30 years old is produced from any custody which the court in the particular case considers proper, the court may presume that the signature and every other part of such document which purports to be in the handwriting of any particular person is in that person’s handwriting, and in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.
 
-Explanation.—Documents are said to be in proper custody if they are in the place in which and under the care of the person with whom they would naturally be, but no custody is improper if it is proved to have had a legitimate origin, or if the circumstances of the particular case are such as to render such an origin probable.
+Explanation.—Documents are said to be in proper custody if they are in the place in which and under the care of the person with whom they would naturally be; but no custody is improper if it is proved to have had a legitimate origin, or if the circumstances of the particular case are such as to render such an origin probable.
 
 This explanation applies also to section 83.
 
@@ -2342,7 +2306,7 @@ Illustration
 
 Aagrees to sell toB“my land atXin the occupation ofY”.Ahas land atX, but not in the occupation ofY, and he has land in the occupation ofY, but it is not atX. Evidence may be given of facts showing which he meant to sell.
 
-### Evidence as to meaning of illegible characters, etc
+### Evidence as to meaning of illegible characters, etc.
 
 100\. Evidence may be given to show the meaning of illegible or not commonly intelligible characters, of foreign, obsolete, technical, local and provincial expressions, of abbreviations and of words used in a peculiar sense.
 
@@ -2488,7 +2452,7 @@ Illustrations
 
 114\. The fact that any person was born during the continuance of a valid marriage between his mother and any man, or within 280 days after its dissolution, the mother remaining unmarried, shall be conclusive proof that he is the legitimate son of that man, unless it can be shown that the parties to the marriage had no access to each other at any time when he could have been begotten.
 
-115\. [Act 8/96]
+115\. [Repealed by Act 8/96]
 
 ### Court may presume existence of certain fact
 
@@ -2562,7 +2526,7 @@ as to illustration (i)—a bond is in possession of the obligor, but the circums
 
 Illustration
 
-Aseeks to adduce evidence in the form of an electronic record or document produced by an electronic device or process.Aproves that the electronic device or process in question is one that, or is of a kind that, if properly used, ordinarily produces that electronic record or document. This is a relevant fact for the court to presume that in producing the electronic record or document on the occasion in question, the electronic device or process produced the electronic record or document which A seeks to adduce.
+Aseeks to adduce evidence in the form of an electronic record or document produced by an electronic device or process.Aproves that the electronic device or process in question is one that, or is of a kind that, if properly used, ordinarily produces that electronic record or document. This is a relevant fact for the court to presume that in producing the electronic record or document on the occasion in question, the electronic device or process produced the electronic record or document whichAseeks to adduce.
 
 (2) Unless evidence to the contrary is adduced, the court shall presume that any electronic record generated, recorded or stored is authentic if it is established that the electronic record was generated, recorded or stored in the usual and ordinary course of business by a person who was not a party to the proceedings on the occasion in question and who did not generate, record or store it under the control of the party seeking to introduce the electronic record.
 
@@ -2576,13 +2540,13 @@ Illustration
 
 Aseeks to adduce evidence againstBin the form of an electronic record. The fact that the electronic record was generated, recorded or stored byB, who opposes the relevance of the evidence, is a relevant fact for the court to presume that the electronic record is authentic.
 
-(4) For the purposes of subsection (2)subsection (2), in criminal proceedings a party to the proceedings shall include —
+(4) For the purposes of subsection (2), in criminal proceedings a party to the proceedings shall include —
 
 (a) the police officer or other officer of a law enforcement agency who was involved in the investigation of offences allegedly committed by the accused person; or
 
 (b) an accomplice of the accused person even though he is not charged with an offence in the same proceedings.
 
-(5) The Minister may make regulations providing for a process by which a document may be recorded or stored through the use of an imaging system, including providing for the appointment of one or more persons or organisations to certify these systems and their use, and for any matters incidental thereto, and an “approved process” in subsection (6)subsection (6) means a process that has been approved in accordance with the provisions of such regulations.
+(5) The Minister may make regulations providing for a process by which a document may be recorded or stored through the use of an imaging system, including providing for the appointment of one or more persons or organisations to certify these systems and their use, and for any matters incidental thereto, and an “approved process” in subsection (6) means a process that has been approved in accordance with the provisions of such regulations.
 
 (6) Where an electronic record was recorded or stored from a document produced pursuant to an approved process, the court shall presume, unless evidence to the contrary is adduced, that the electronic record accurately reproduces that document.
 
@@ -2638,13 +2602,15 @@ Explanation.—A lunatic is not incompetent to testify unless he is prevented by
 
 (3) In any criminal proceedings, the accused shall be competent to give evidence on behalf of himself or any person jointly charged with him, but shall not be compellable to do so.
 
-(4) Where in any criminal proceedings the accused gives evidence, then, subject to this section and section 56(1), he shall not in cross-examination be asked, and if asked shall not be required to answer, any question tending to reveal to the court —
+(4) Where in any criminal proceedings the accused gives evidence, then, subject to this section and section 56, he shall not in cross-examination be asked, and if asked shall not be required to answer, any question tending to reveal to the court —
 
 (a) the fact that he has committed, or has been charged with or convicted or acquitted of, any offence other than the offence charged; or
 
 (b) the fact that he is generally or in a particular respect a person of bad disposition or reputation.
 
 (5) Subsection (4) shall not apply to a question tending to reveal to the court a fact about the accused such as is mentioned in paragraph (a) or (b) thereof if evidence of that fact is (by virtue of section 14 or 15 of this Act or of section 265 or 266 of the Criminal Procedure Code 2010 or of any other written law) admissible for the purpose of proving the commission by him of the offence charged.
+
+[15/2010 wef 02/01/2011]
 
 (6) Where in any criminal proceedings in which 2 or more persons are jointly charged, any of the accused gives evidence, subsection (4) shall not in his case apply to any question tending to reveal to the court a fact about him such as is mentioned in subsection (4)(a) or (b) if evidence of that fact is admissible for the purpose of showing any other of the accused to be not guilty of the offence with which that other is charged.
 
@@ -2685,6 +2651,8 @@ Illustrations
 126\.—(1) No public officer shall be compelled to disclose communications made to him in official confidence when he considers that the public interest would suffer by the disclosure.
 
 (2) No person who is a member, an officer or an employee of, or who is seconded to, any organisation specified in the Schedule to the Official Secrets Act (Cap. 213) shall be compelled to disclose communications made to him in official confidence when he considers that the public interest would suffer by the disclosure.
+
+[17/2003 wef 26/09/2003]
 
 ### Information as to commission of offences
 
@@ -2732,7 +2700,7 @@ This being a fact observed byBin the course of his employment, showing that a fr
 
 128A\.—(1) A legal counsel in an entity shall not at any time be permitted, except with the entity’s express consent, to disclose any communication made to him in the course and for the purpose of his employment as such legal counsel, or to state the contents or condition of any document with which he has become acquainted in the course and for the purpose of his employment as such legal counsel, or to disclose any legal advice given by him to the entity, or to any officer or employee of the entity, in the course and for the purpose of such employment.
 
-(2) Nothing in subsection (1)subsection (1) shall protect from disclosure —
+(2) Nothing in subsection (1) shall protect from disclosure —
 
 (a) any such communication made in furtherance of any illegal purpose;
 
@@ -2742,13 +2710,13 @@ This being a fact observed byBin the course of his employment, showing that a fr
 
 (d) any document which the legal counsel was made acquainted with otherwise than in the course of and for the purpose of seeking his legal advice.
 
-(3) For the purposes of subsection (2)(b)subsection (2)(b), it is immaterial whether the attention of the legal counsel was or was not directed to that fact by or on behalf of the entity.
+(3) For the purposes of subsection (2)(b), it is immaterial whether the attention of the legal counsel was or was not directed to that fact by or on behalf of the entity.
 
-(4) Where a legal counsel is employed by one of a number of corporations that are related to each other under section 6section 6 of the Companies Act (Cap. 50)Companies Act (Cap. 50), subsection (1)subsection (1) shall apply in relation to the legal counsel and every corporation so related as if the legal counsel were also employed by each of the related corporations.
+(4) Where a legal counsel is employed by one of a number of corporations that are related to each other under section 6 of the Companies Act (Cap. 50), subsection (1) shall apply in relation to the legal counsel and every corporation so related as if the legal counsel were also employed by each of the related corporations.
 
-(5) Where a legal counsel is employed by a public agency and is required as part of his duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to another public agency or agencies, subsection (1)subsection (1) shall apply in relation to the legal counsel and the second-mentioned public agency or agencies as if the legal counsel were also employed by the second-mentioned public agency or agencies.
+(5) Where a legal counsel is employed by a public agency and is required as part of his duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to another public agency or agencies, subsection (1) shall apply in relation to the legal counsel and the second-mentioned public agency or agencies as if the legal counsel were also employed by the second-mentioned public agency or agencies.
 
-(6) For the purposes of subsection (5)subsection (5), “public agency” includes —
+(6) For the purposes of subsection (5), “public agency” includes —
 
 (a) the Government, including any ministry, department, agency, or Organ of State or instrumentality of the Government;
 
@@ -2758,19 +2726,19 @@ This being a fact observed byBin the course of his employment, showing that a fr
 
 [Act 4 of 2012 wef 01/08/2012]
 
-### Sections 128Sections 128 and 128A to apply to interpreters, etc.
+### Sections 128 and 128A to apply to interpreters, etc.
 
-129\. Sections 128Sections 128 and 128A shall apply to interpreters and other persons who work under the supervision of legal professional advisers.
+129\. Sections 128 and 128A shall apply to interpreters and other persons who work under the supervision of legal professional advisers.
 
 [Act 4 of 2012 wef 01/08/2012]
 
 ### Privilege not waived by volunteering evidence
 
-130\.—(1) If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 128section 128 or 128A.
+130\.—(1) If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 128 or 128A.
 
-(2) If any party to a suit or proceeding calls any advocate or solicitor as a witness, that party shall be deemed to have consented to such disclosure as is mentioned in section 128section 128 only if that party questions the advocate or solicitor on matters which but for the question the advocate or solicitor would not be at liberty to disclose.
+(2) If any party to a suit or proceeding calls any advocate or solicitor as a witness, that party shall be deemed to have consented to such disclosure as is mentioned in section 128 only if that party questions the advocate or solicitor on matters which but for the question the advocate or solicitor would not be at liberty to disclose.
 
-(3) If any party to a suit or proceeding calls any legal counsel in an entity as a witness, that party shall be deemed to have consented to such disclosure as is mentioned in section 128Asection 128A only if that party questions the legal counsel on matters which but for the question the legal counsel would not be at liberty to disclose.
+(3) If any party to a suit or proceeding calls any legal counsel in an entity as a witness, that party shall be deemed to have consented to such disclosure as is mentioned in section 128A only if that party questions the legal counsel on matters which but for the question the legal counsel would not be at liberty to disclose.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -2780,11 +2748,11 @@ This being a fact observed byBin the course of his employment, showing that a fr
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(2) In subsection (1)subsection (1) and section 129section 129, “legal professional adviser” means —
+(2) In subsection (1) and section 129, “legal professional adviser” means —
 
 (a) an advocate or solicitor; or
 
-(b) in the case of any communication which has taken place between any officer or employee of an entity and a legal counsel employed, or deemed under section 128A(4)section 128A(4) or (5) to be employed, by the entity in the course and for the purpose of seeking his legal advice as such legal counsel, that legal counsel.
+(b) in the case of any communication which has taken place between any officer or employee of an entity and a legal counsel employed, or deemed under section 128A(4) or (5) to be employed, by the entity in the course and for the purpose of seeking his legal advice as such legal counsel, that legal counsel.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -2812,7 +2780,7 @@ This being a fact observed byBin the course of his employment, showing that a fr
 
 (a) he shall not be entitled to refuse to answer a question or produce a document or thing on the ground that to do so would tend to prove the commission by him of the offence charged; and
 
-(b) except as regards any question, document or thing which in the opinion of the court is relevant solely or mainly to the accused’s credibility as a witness (not being, in the case of a question, one asked by virtue of section 56(1)), he shall not be entitled to refuse to answer a question or produce a document or thing on the ground that to do so would —
+(b) except as regards any question, document or thing which in the opinion of the court is relevant solely or mainly to the accused’s credibility as a witness (not being, in the case of a question, one asked by virtue of section 56), he shall not be entitled to refuse to answer a question or produce a document or thing on the ground that to do so would —
 
 (i) tend to expose him to proceedings for some other offence or for the recovery of a penalty; or
 
@@ -2858,29 +2826,21 @@ Examination of witnesses
 
 Illustrations
 
-(a)
-
-It is proposed to prove a statement about a relevant fact by a person alleged to be dead, which statement is relevant under section 32(1).
+(a) It is proposed to prove a statement about a relevant fact by a person alleged to be dead, which statement is relevant under section 32.
 
 The fact that the person is dead must be proved by the person proposing to prove the statement before evidence is given of the statement.
 
-(b)
-
-It is proposed to prove by a copy the contents of a document said to be lost.
+(b) It is proposed to prove by a copy the contents of a document said to be lost.
 
 The fact that the original is lost must be proved by the person proposing to produce the copy before the copy is produced.
 
-(c)
-
-Ais accused of receiving stolen property, knowing it to have been stolen.
+(c)Ais accused of receiving stolen property, knowing it to have been stolen.
 
 It is proposed to prove that he denied the possession of the property.
 
 The relevancy of the denial depends on the identity of the property. The court may, in its discretion, either require the property to be identified before the denial of the possession is proved or permit the denial of the possession to be proved before the property is identified.
 
-(d)
-
-It is proposed to prove a fact (A) which is said to have been the cause or effect of a fact in issue. There are several intermediate facts (B,CandD) which must be shown to exist before the fact (A) can be regarded as the cause or effect of the fact in issue. The court may either permitAto be proved beforeB,CorDis proved or may require proof ofB,CandDbefore permitting proof ofA.
+(d) It is proposed to prove a fact (A) which is said to have been the cause or effect of a fact in issue. There are several intermediate facts (B,CandD) which must be shown to exist before the fact (A) can be regarded as the cause or effect of the fact in issue. The court may either permitAto be proved beforeB,CorDis proved or may require proof ofB,CandDbefore permitting proof ofA.
 
 ### Examination-in-chief, cross-examination and re-examination
 
@@ -2968,7 +2928,7 @@ Cdeposes that he heardAsay toD: “Bwrote a letter accusing me of theft and I wi
 
 ### When witness to be compelled to answer
 
-149\. If any such question relates to a matter relevant to the suit or proceeding, section 134(1) shall apply thereto.
+149\. If any such question relates to a matter relevant to the suit or proceeding, section 134 shall apply thereto.
 
 ### Court to decide when question shall be asked and when witness compelled to answer
 
@@ -2986,25 +2946,17 @@ Cdeposes that he heardAsay toD: “Bwrote a letter accusing me of theft and I wi
 
 ### Question not to be asked without reasonable grounds
 
-151\. No such question as is referred to in section 150(1) ought to be asked unless the person asking it has reasonable grounds for thinking that the imputation which it conveys is well founded.
+151\. No such question as is referred to in section 150 ought to be asked unless the person asking it has reasonable grounds for thinking that the imputation which it conveys is well founded.
 
 Illustrations
 
-(a)
+(a) An advocate is instructed by a solicitor that an important witness is a professional gambler. This is a reasonable ground for asking the witness whether he is a professional gambler.
 
-An advocate is instructed by a solicitor that an important witness is a professional gambler. This is a reasonable ground for asking the witness whether he is a professional gambler.
+(b) An advocate is informed by a person in court that an important witness is a professional gambler. The informant, on being questioned by the advocate, gives satisfactory reasons for his statement. This is a reasonable ground for asking the witness whether he is a professional gambler.
 
-(b)
+(c) A witness of whom nothing whatever is known, is asked at random whether he is a professional gambler. There are here no reasonable grounds for the question.
 
-An advocate is informed by a person in court that an important witness is a professional gambler. The informant, on being questioned by the advocate, gives satisfactory reasons for his statement. This is a reasonable ground for asking the witness whether he is a professional gambler.
-
-(c)
-
-A witness of whom nothing whatever is known, is asked at random whether he is a professional gambler. There are here no reasonable grounds for the question.
-
-(d)
-
-A witness of whom nothing whatever is known being questioned as to his mode of life and means of living gives unsatisfactory answers. This may be a reasonable ground for asking him if he is a professional gambler.
+(d) A witness of whom nothing whatever is known being questioned as to his mode of life and means of living gives unsatisfactory answers. This may be a reasonable ground for asking him if he is a professional gambler.
 
 ### Procedure of court in case of question being asked without reasonable grounds
 
@@ -3078,7 +3030,7 @@ He may be contradicted on the ground that the question tends to impeach his impa
 
 (d) [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-Explanation.—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answers which he gives cannot be contracdicted, though, if they are false, he may afterwards be charged with giving false evidence.
+Explanation.—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answers which he gives cannot be contradicted, though, if they are false, he may afterwards be charged with giving false evidence.
 
 Illustrations
 
@@ -3114,15 +3066,15 @@ The evidence is admissible.
 
 ### What matters may be proved in connection with proved statement relevant under section 32 or 33
 
-160\. Whenever any statement relevant under section 32(1) or 33 is proved, all matters may be proved either in order to contradict or to corroborate it, or in order to impeach or confirm the credit of the person by whom it was made, which might have been proved if that person had been called as a witness and had denied upon cross-examination the truth of the matter suggested.
+160\. Whenever any statement relevant under section 32 or 33 is proved, all matters may be proved either in order to contradict or to corroborate it, or in order to impeach or confirm the credit of the person by whom it was made, which might have been proved if that person had been called as a witness and had denied upon cross-examination the truth of the matter suggested.
 
 ### Evidence not capable of corroboration
 
 160A\. For the purpose of any rule of law or practice that requires evidence to be corroborated or that regulates the manner in which uncorroborated evidence is to be treated —
 
-(a) a statement that is admissible in evidence by virtue of section 32(1)section 32(1) is not capable of corroborating evidence given by the maker of the statement; and
+(a) a statement that is admissible in evidence by virtue of section 32(1) is not capable of corroborating evidence given by the maker of the statement; and
 
-(b) a statement that is admissible in evidence by virtue of section 32(1)(b)section 32(1)(b) is not capable of corroborating evidence given by the person who originally supplied the information from which the statement was made.
+(b) a statement that is admissible in evidence by virtue of section 32(1)(b) is not capable of corroborating evidence given by the person who originally supplied the information from which the statement was made.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -3138,7 +3090,7 @@ The evidence is admissible.
 
 ### Testimony to facts stated in document mentioned in section 161
 
-162\. A witness may also testify to facts mentioned in any such document as is mentioned in section 161(1) although he has no specific recollection of the facts themselves, if he is sure that the facts were correctly recorded in the document.
+162\. A witness may also testify to facts mentioned in any such document as is mentioned in section 161 although he has no specific recollection of the facts themselves, if he is sure that the facts were correctly recorded in the document.
 
 Illustration
 
@@ -3146,7 +3098,7 @@ A book-keeper may testify to facts recorded by him in books regularly kept in th
 
 ### Right of adverse party as to writing used to refresh memory
 
-163\. Any writing referred to under section 161(1) or 162 must be produced and shown to the adverse party if he requires it; such party may cross-examine the witness thereupon.
+163\. Any writing referred to under section 161 or 162 must be produced and shown to the adverse party if he requires it; such party may cross-examine the witness thereupon.
 
 ### Production and translation of documents
 
@@ -3176,7 +3128,7 @@ AsuesBon an agreement, and givesBnotice to produce it. At the trialAcalls for th
 
 (2) The judgment must be based upon facts declared by this Act to be relevant and duly proved.
 
-(3) This section shall not authorise any Judge to compel any witness to answer any question or to produce any document which such witness would be entitled to refuse to answer or produce under sections 123 to 133 if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 150(1) or 151; nor shall he dispense with the primary evidence of any document, except in the cases excepted in this Act.
+(3) This section shall not authorise any Judge to compel any witness to answer any question or to produce any document which such witness would be entitled to refuse to answer or produce under sections 123 to 133 if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 150 or 151; nor shall he dispense with the primary evidence of any document, except in the cases excepted in this Act.
 
 ### Power of assessors to put questions
 
@@ -3197,6 +3149,8 @@ BANKERS’ BOOKS
 170\. In this Part —
 
 “bank” and “banker” mean any company carrying on the business of bankers in Singapore under a licence granted under any law relating to banking;
+
+[37/98 wef 16/11/98]
 
 “bankers’ books” includes ledgers, day books, cash books, account books and all other books used in the ordinary business of the bank;
 
@@ -3244,7 +3198,7 @@ BANKERS’ BOOKS
 
 ## THE SCHEDULE
 
-Section 80A(1)
+Section 80A
 
 Statutory Body
 
@@ -3266,7 +3220,7 @@ Central Provident Fund Act (Chapter 36).
 
 Civil Aviation Authority of Singapore
 
-Civil Aviation Authority of Singapore Act 2009 (Chapter 41)
+Civil Aviation Authority of Singapore Act 2009.
 
 3A.
 
@@ -3285,9 +3239,11 @@ Civil Service College Act 2001
 
 5.
 
-Building and Construction Authority
+Construction Industry Development Board
 
-Building and Construction Authority Act 1999 (Act 4 of 1999).
+Construction Industry Development Board Act
+
+(Chapter 51).
 
 5A.
 
@@ -3357,7 +3313,7 @@ Monetary Authority of Singapore Act (Chapter 186).
 
 13.
 
-[Deleted by Act 41/99, wef 01/12/1999.]
+[Deleted by Act 41/99, wef 01/12/1999]
 
 14.
 
@@ -3379,9 +3335,11 @@ Singapore Land Authority Act 2001.
 
 16.
 
-Standard, Productivity and Innovative Board
+Singapore Productivity and Standards Board
 
-Standard, Productivity and Innovative Board Act (Chapter 303A).
+Singapore Productivity and Standards Board Act
+
+(Chapter 303A).
 
 17.
 
@@ -3391,13 +3349,15 @@ Singapore Tourism Board Act (Chapter 305B).
 
 18.
 
-[Deleted by Act 41/99, wef 01/12/1999.]
+[Deleted by Act 41/99, wef 01/12/1999]
 
 19.
 
-International Enterprise Singapore Board
+Trade Development Board
 
-International Enterprise Singapore Board Act (Chapter 330).
+Trade Development Board Act
+
+(Chapter 330).
 
 20.
 
@@ -3405,9 +3365,11 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
 
+[S 414/92; 29/95; 1/96; 7/96]
+
 [S 210/2011 wef 01/05/2011]
 
-[S 414/92]
+[3/2005 wef 10/06/2005]
 
 [S 613/2001 wef 12/12/2001]
 
@@ -3421,19 +3383,13 @@ Urban Redevelopment Authority Act (Chapter 340).
 
 [17/2009 wef 01/07/2009]
 
-[29/95]
-
-[1/96]
-
-[7/96]
-
 ## LEGISLATIVE HISTORY
 
 Evidence Act
 
 (CHAPTER 97)
 
-This Legislative History is provided for the convenience of users of the Evidence Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Evidence Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3621,3 +3577,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 2/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 August 2012|
+|40.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
+|||(item (10) in the Schedule)|
