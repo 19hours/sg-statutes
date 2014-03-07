@@ -158,7 +158,9 @@ PRELIMINARY
 
 “rules” means rules made under section 47;
 
-“tribunal” means a Small Claims Tribunal constituted under section 4 of the Subordinate Courts Act (Cap. 321);
+“tribunal” means a Small Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321);
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “work order” means an order to rectify a defect in goods or to make good any deficiency in the performance of services, by doing such work or attending to such matters (including the replacement of goods or parts thereof) as may be specified in the order.
 
@@ -170,7 +172,9 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 ### Establishment of tribunals
 
-3\. The President may, under section 4 of the Subordinate Courts Act, constitute one or more Small Claims Tribunals as he thinks fit to exercise the jurisdiction in respect of claims created by this Act.
+3\. The President may, under section 4 of the State Courts Act, constitute one or more Small Claims Tribunals as he thinks fit to exercise the jurisdiction in respect of claims created by this Act.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Appointment and qualification of Referees
 
@@ -204,9 +208,11 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (a) in respect of damage caused to any property by an accident arising out of or in connection with the use of a motor vehicle; or
 
-(b) which the subordinate courts have no jurisdiction to hear and determine.
+(b) which the State Courts have no jurisdiction to hear and determine.
 
 [17/95]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) Except where this Act expressly provides otherwise, the jurisdiction of a tribunal shall not extend to a claim —
 
@@ -218,7 +224,7 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $20,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
 
-[17/95; S321/97]
+[17/95; S 321/97]
 
 (5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal shall discontinue the proceedings and advise the claimant and respondent accordingly.
 
@@ -488,21 +494,21 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (f) the Council of the Singapore Business Federation as referred to in the Singapore Business Federation Act 2001, one of the members of the Council or any employee of the Federation duly authorised by the Council may present the case on the Council’s behalf;
 
-[40/2002 wef 01/04/2002 ]
+[40/2001 wef 01/04/2001]
 
 (g) a minor and is, in the opinion of the Registrar or tribunal, unable to present his own case, his parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on his behalf;
 
-[40/2002 wef 01/04/2002]
+[40/2001 wef 01/04/2001]
 
 (h) a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by him in writing may, with the approval of the Registrar or tribunal, present the case on his behalf; and
 
-[40/2002 wef 01/04/2002]
+[40/2001 wef 01/04/2001]
 
 (i) a person who is, in the opinion of the Registrar or tribunal, unable to present his own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by him in writing or who is approved by the Registrar or tribunal may present the case on his behalf.
 
 [31/92; 17/95]
 
-[40/2002 wef 01/04/2002]
+[40/2001 wef 01/04/2001]
 
 (3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or, except as provided by subsection (2), an agent, whether paid or otherwise.
 
@@ -540,7 +546,7 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 ### Claims may be heard together
 
-26\.—(1) Where 2 or more claims are file and it appears to a tribunal that —
+26\.—(1) Where 2 or more claims are filed and it appears to a tribunal that —
 
 (a) a common question of fact or law arises in both or all of them;
 
@@ -550,7 +556,7 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 the tribunal may order that such claims be heard at the same time.
 
-(2) The power conferred by this secton may be exercised by a tribunal notwithstanding that the hearing of one or more the claims has begun.
+(2) The power conferred by this section may be exercised by a tribunal notwithstanding that the hearing of one or more of the claims has begun.
 
 [23
 
@@ -742,7 +748,7 @@ APPEAL
 
 (1B) For the avoidance of doubt, leave of the District Court is necessary even if one of the grounds stated in subsection (1) is shown to exist.
 
-[43/2005 wef 15/02/0200]
+[43/2005 wef 15/02/2006]
 
 (2) Rules may be made under section 47 to regulate and prescribe the procedure to be followed on appeals from a tribunal to the High Court.
 
@@ -826,7 +832,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Protection of Referees, etc.
 
-44\.—(1) A Referee shall have and enjoy the same protection as a Magistrate has and enjoys under the Subordinate Courts Act (Cap. 321).
+44\.—(1) A Referee shall have and enjoy the same protection as a Magistrate has and enjoys under the State Courts Act (Cap. 321).
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) For the avoidance of doubt as to the privileges and immunities of Referees, parties, representatives and witnesses in the proceedings of a tribunal, it is declared that such proceedings are judicial proceedings.
 
@@ -896,7 +904,7 @@ Small Claims Tribunals Act
 
 (CHAPTER 308)
 
-This Legislative History is provided for the convenience of users of the Small Claims Tribunals Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Small Claims Tribunals Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -906,14 +914,14 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of Second and Third Readings|24 August 1984|
 ||Date of commencement|15 January 1985|
 |2.|**1985 Revised Edition—Small Claims Tribunals Act (Cap. 308)**|
-||Date of operation|31 March 1985|
+||Date of operation|30 March 1987|
 |3.|**Act 31 of 1992—Small Claims Tribunals (Amendment) Act 1992**|
 ||Date of First Reading|31 July 1992|
 |||(Bill No. 30/1992 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|13 November 1992|
 |4.|**Act 17 of 1995—Small Claims Tribunals (Amendment) Act 1995**|
-||Date of First Reading|March95|
+||Date of First Reading|1 March 1995|
 |||(Bill No. 9/1995 published on 2 March 1995)|
 ||Date of Second and Third Readings|25 May 1995|
 ||Date of commencement|15 August 1995|
@@ -951,3 +959,8 @@ This Legislative History is provided for the convenience of users of the Small C
 |||(Bill No. 10/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|25 August 2008|
 ||Dates of commencement|15 April 2009 (Except section 8(c))|
+|13.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
