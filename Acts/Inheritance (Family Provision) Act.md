@@ -50,7 +50,9 @@ An Act relating to the disposition of estates of deceased persons and for other 
 
 “net estate” means all the property of which a deceased person had power to dispose by his will (otherwise than by virtue of a special power of appointment) less the amount of his funeral, testamentary and administration expenses, debts and liabilities and estate duty payable out of his estate on his death;
 
-“Registrar” means the Registrar or the Deputy Registrar of the Supreme Court in all cases where proceedings are taken in the High Court and means the Registrar or Deputy Registrar of the Subordinate Courts where proceedings are taken in a District Court;
+“Registrar” means the Registrar or the Deputy Registrar of the Supreme Court in all cases where proceedings are taken in the High Court and means the Registrar or Deputy Registrar of the State Courts where proceedings are taken in a District Court;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “will” includes any codicil or other testamentary document;
 
@@ -152,3 +154,9 @@ This Legislative History is provided for the convenience of users of the Inherit
 ||Date of operation|1 March 1971|
 |3.|**1985 Revised Edition—Inheritance (Family Provision) Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
