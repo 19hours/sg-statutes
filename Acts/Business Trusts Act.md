@@ -186,7 +186,7 @@
 
 - [73 Limitation of liability of trustee, etc., registered as holder of units](#Limitation-of-liability-of-trustee-etc-registered-as-holder-of-units)
 
-[**Division 3  Annual return**](#Division-3--Annual-return)
+[**Division 3  Annual Return**](#Division-3--Annual-Return)
 
 - [74 Annual returns and information](#Annual-returns-and-information)
 
@@ -282,7 +282,7 @@
 
 - [114 Regulations](#Regulations)
 
-[**THE SCHEDULE Types of Trusts That Are Not Regarded As Business Trusts for Purposes of Act**](#THE-SCHEDULE)
+[**THE SCHEDULE Types of trusts that are not regarded as business trusts for purposes of Act**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -402,6 +402,8 @@ but does not include the types of trusts specified in the Schedule;
 
 “securities exchange” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
+[Deleted by Act 2 of 2009 wef 19/11/2012]
+
 “substantial shareholder” means a person who has a substantial shareholding in a company in accordance with section 81 of the Companies Act;
 
 “temporary trustee-manager” means a company that has been appointed as the temporary trustee-manager of a registered business trust under section 21;
@@ -427,8 +429,6 @@ but does not include the types of trusts specified in the Schedule;
 “unit”, in relation to a business trust, means a share in the beneficial ownership in the trust property of the business trust;
 
 “unitholder” means a person who holds units in a business trust.
-
-[2/2009 wef 19/11/2012]
 
 [Companies 1994 Ed., ss. 4, 81; SFA 2002 Ed., s. 2; Aust. Corp. 2001, s. 9]
 
@@ -1192,6 +1192,8 @@ Duty of substantial shareholder of trustee-manager to notify securities exchange
 
 CIVIL LIABILITY AND TAKE-OVERS
 
+[2/2009 wef 26/11/2010]
+
 ### Civil liability of trustee-managers to unitholders
 
 40\.—(1) Any unitholder of a registered business trust who suffers loss or damage because of any conduct of the trustee-manager of the registered business trust which contravenes any provision of this Act may recover the amount of the loss or damage by action against the trustee-manager, whether or not the trustee-manager has been convicted of an offence in respect of such contravention.
@@ -1350,7 +1352,9 @@ shall be treated as held or acquired by the transferee.
 
 (c) an order requiring the trustee-manager of a registered business trust in its capacity as trustee-manager of the registered business trust to pay reasonable legal fees and disbursements incurred by the complainant in connection with the action.
 
-(5) Where an action has been commenced or is to be brought in the subordinate courts, an application for leave under subsection (1) shall be made in a District Court.
+(5) Where an action has been commenced or is to be brought in the State Courts, an application for leave under subsection (1) shall be made in a District Court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (6) In this section and section 43, “complainant” means —
 
@@ -1376,7 +1380,7 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 ### Winding up under provision of trust deed
 
-44\.—(1) Subject to subsection (2), the trust deed of a registered business trust may provide that the registered business trust is to be wound up
+44\.—(1) Subject to subsection (2), the trust deed of a registered business trust may provide that the registered business trust is to be wound up —
 
 (a) at a specified time;
 
@@ -1950,7 +1954,7 @@ the person aggrieved or any unitholder or the trustee-manager of the registered 
 
 Division 3 —
 
-Annual return
+Annual Return
 
 ### Annual returns and information
 
@@ -1972,7 +1976,7 @@ Accounts
 
 75\.—(1) The trustee-manager of a registered business trust shall cause to be kept such accounting records and other records as will sufficiently explain the transactions by the trustee-manager entered into on behalf of the registered business trust and financial position of the registered business trust and enable true and fair accounts and any documents required to be attached thereto to be prepared from time to time, and shall cause those records to be kept in such manner as to enable them to be conveniently and properly audited.
 
-(2) Every management corporation shall retain all its records, books of account and such other documents relating to any of its transactions or operations for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those documents relate are completed.
+(2) The trustee-manager of a registered business trust shall retain the records referred to in subsection (1) for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those records relate are completed.
 
 [2/2007 wef 01/03/2007]
 
@@ -2671,7 +2675,7 @@ that document may be given, sent or served using electronic communications to th
 
 (a) the document is published on and remains accessible to that person from the website throughout a period beginning before the specified number of days before the date of the meeting and ending with the conclusion of the meeting; and
 
-(b) the notification given for the purpose of subsection (2) (d) is given not less than the specified number of days before the date of the meeting.
+(b) the notification given for the purpose of subsection (2)(d) is given not less than the specified number of days before the date of the meeting.
 
 (4) Nothing in subsection (3) shall invalidate the proceedings of a meeting where —
 
@@ -3047,7 +3051,7 @@ by collecting from a person reasonably suspected of having committed the offence
 
 Sections 2 and 113
 
-Types of Trusts That Are Not Regarded As Business Trusts for Purposes of Act
+Types of trusts that are not regarded as business trusts for purposes of Act
 
 1\. A trust operated by a person otherwise than by way of business.
 
@@ -3119,7 +3123,7 @@ Business Trusts Act
 
 (CHAPTER 31A)
 
-This Legislative History is provided for the convenience of users of the Business Trusts Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Business Trusts Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3131,7 +3135,6 @@ This Legislative History is provided for the convenience of users of the Busines
 |2.|**2005 Revised Edition—Business Trusts Act**|
 ||Date of operation|31 July 2005|
 |3.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
-||(Consequential amendments made by)||
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
@@ -3168,3 +3171,8 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of First Reading|4 February 2013 (Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|9.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
