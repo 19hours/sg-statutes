@@ -316,9 +316,11 @@ Provided that any attachment ordered shall extend only to property liable to be 
 
 (10) The District Court may discharge or vary any order made under this section, or may suspend its operation.
 
-### Powers of Registrar of Subordinate Courts
+### Powers of Registrar of State Courts
 
-(11) Subject to the Subordinate Courts Rules and notwithstanding anything in section 2, the powers conferred by subsections (5) and (6) may be exercised by the Registrar of the Subordinate Courts sitting in open court.
+(11) Subject to the Subordinate Courts RulesRules of Court and notwithstanding anything in section 2, the powers conferred by subsections (5) and (6) may be exercised by the Registrar of the State Courts sitting in open court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Power of District Judge to order discharge of debtor
 
@@ -397,3 +399,9 @@ This Legislative History is provided for the convenience of users of the Debtors
 ||Date of commencement|24 August 1973 (item (c) of the Schedule — amendment of Debtors Act)|
 |13.|**1985 Revised Edition—Debtors Act (Chapter 73)**|
 ||Date of operation|30 March 1987|
+|14.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014 (item 9 of the Schedule — amendment of Debtors Act)|
