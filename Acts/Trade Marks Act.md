@@ -322,7 +322,7 @@ An Act to establish a new law for trade marks, to enable Singapore to give effec
 
 [15th January 1999;
 
-31st October 2000: section 54]
+31st October 2000: Section 54]
 
 ## PART I
 
@@ -378,7 +378,17 @@ and includes a trade mark in respect of which an application for registration ha
 
 “geographical indication” has the same meaning as in section 2 of the Geographical Indications Act (Cap. 117B);
 
-“international trade mark (Singapore)” has the meaning given to it under section 54;
+“International Bureau” has the meaning given by Article 2(1) of the Madrid Protocol;
+
+[Act 16 of 2012 wef 07/03/2014]
+
+“international trade mark (Singapore)” means a trade mark which is entitled to protection in Singapore under the Madrid Protocol, or a trade mark prescribed by the Minister (by rules made under section 54) as an international trade mark (Singapore);
+
+[Act 16 of 2012 wef 07/03/2014]
+
+“Madrid Protocol” means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time;
+
+[Act 16 of 2012 wef 07/03/2014]
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
 
@@ -2006,15 +2016,7 @@ The Madrid Protocol, etc.
 
 (3) Provision may also be made in the rules to apply in relation to an international trade mark (Singapore) the provisions of section 35 and Parts VI and X.
 
-(4) For the purposes of this section —
-
-“International Bureau” has the meaning given by Article 2(1) of the Madrid Protocol;
-
-“international trade mark (Singapore)” means a trade mark which is entitled to protection in Singapore under the Madrid Protocol or a trade mark prescribed by the Minister as an international trade mark (Singapore);
-
-“Madrid Protocol” means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time.
-
-[UK Trade Marks Act 1994, s. 54]
+(4) [Deleted by Act 16 of 2012 wef 07/03/2014]
 
 The Paris Convention, the TRIPS Agreement
 
@@ -3655,6 +3657,11 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 15/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|2 July 2007|
+|14.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|14 May 2012|
+|||(Bill No. 14/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
