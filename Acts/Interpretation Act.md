@@ -282,6 +282,8 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “prescribed” means prescribed by the Act in which the word occurs or by any subsidiary legislation made thereunder and, in relation to forms, includes being set out in electronic form on an electronically accessible server (such as an internet website) that is specified in the Act or subsidiary legislation in which the word occurs;
 
+[9/2003 wef 16/05/2003]
+
 “President” means the President of Singapore and includes any person for the time being performing the functions of the President under the provisions of the Constitution;
 
 “public holiday” means any day which is declared to be or proclaimed as a public holiday or which under any written law is to be observed as a public holiday in Singapore;
@@ -344,7 +346,7 @@ which constitute part of Malaysia;
 
 words importing the masculine gender include females;
 
-words in the singular include the plural and words in the plural include the singular.
+words in the singular include the plural and words in the plural include the singular;
 
 “writing” and expressions referring to writing include printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form;
 
@@ -386,9 +388,7 @@ words in the singular include the plural and words in the plural include the sin
 
 (l) references to a Judge of the High Court and the Registrar of the High Court shall be construed as references to a Judge of the Supreme Court and the Registrar of the Supreme Court, respectively.
 
-(4) In every written law enacted before or after 26th January 1996, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
-
-[4/96]
+(4) [Deleted by Act 5 of 2014 wef 07/03/2014]
 
 (5) Where an Act authorises or requires any document to be served by post, whether the word “serve”, “give” or “send” or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
 
@@ -459,6 +459,8 @@ words in the singular include the plural and words in the plural include the sin
 (8) Nothing in this section shall —
 
 (a) affect the operation of section 110 of the Evidence Act (Cap. 97) (burden of proving that a person is alive who has not been heard of for 7 years), section 100 of the Women’s Charter (Cap. 353) (proceedings for interim judgment of presumption of death and divorce) or any other written law relating to the presumption of death;
+
+[42/2005 wef 01/01/2006]
 
 (b) prevent the certification or determination of death in a case where the body of a person is not found or recovered.
 
@@ -1194,6 +1196,12 @@ This Legislative History is provided for the convenience of users of the Interpr
 
 |
 (Section 2 — Amendment of Interpretation Act)|
+|21.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014 (Item (1) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Interpretation Act
@@ -1208,7 +1216,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1999 Ed\. 
 
-2 — (2)
+2 —(2)
 
 2 —(1A)
 
