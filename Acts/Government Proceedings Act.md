@@ -46,9 +46,9 @@
 
 - [16 Civil proceedings in High Court](#Civil-proceedings-in-High-Court)
 
-[**Subordinate Courts**](#Subordinate-Courts)
+[**State Courts**](#State-Courts)
 
-- [17 Civil proceedings in a subordinate court](#Civil-proceedings-in-a-subordinate-court)
+- [17 Civil proceedings in State Court](#Civil-proceedings-in-State-Court)
 
 [**General**](#General)
 
@@ -148,7 +148,9 @@ PRELIMINARY
 
 “proceedings against the Government” includes a claim by way of set-off or counterclaim in proceedings by the Government;
 
-“subordinate court” means a District Court and any Magistrate’s Court.
+“State Court” means a District Court and any Magistrate Court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) Any reference in Part IV or V to civil proceedings by or against the Government, or to civil proceedings to which the Government is a party, shall be construed as including a reference to civil proceedings to which any officer of the Government as such is a party:
 
@@ -272,7 +274,7 @@ shall be enforceable by proceedings against the Government for that purpose in a
 
 (B) on any journey necessary to enable him to report for duty as such or to return home after such duty; and
 
-[Subst. by Act 45/96 wef 28/12/1996 vide S 545/96]
+[Act 45/96 wef 28/12/1996]
 
 (b) the Minister responsible for finance certifies that his suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to an award under any written law relating to the disablement or death of members of the force of which he is a member:
 
@@ -324,13 +326,25 @@ The High Court
 
 16\. Subject to the provisions of this Act, all civil proceedings by or against the Government in the High Court shall, subject to the provisions of any other written law for the time being in force, be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
 
-Subordinate Courts
+State Courts
 
-### Civil proceedings in a subordinate court
+[Act 17/2005 wef 15/07/2005]
 
-17\.—(1) Subject to the provisions of this Act and of any written law limiting the jurisdiction of a subordinate court (whether by reference to the subject-matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise), any civil proceedings against the Government may be instituted in a subordinate court.
+[Act 5 of 2014 wef 07/03/2014]
 
-(2) Any proceedings by or against the Government in a subordinate court shall be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
+### Civil proceedings in State Court
+
+17\.—(1) Subject to the provisions of this Act and of any written law limiting the jurisdiction of a State Court (whether by reference to the subject-matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise), any civil proceedings against the Government may be instituted in a State Court.
+
+[Act 5 of 2014 wef 07/03/2014]
+
+[Act 17/2005 wef 15/07/2005]
+
+(2) Any proceedings by or against the Government in a State Court shall be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
+
+[Act 5 of 2014 wef 07/03/2014]
+
+[Act 17/2005 wef 15/07/2005]
 
 General
 
@@ -394,7 +408,11 @@ a legal officer may appear as advocate on behalf of such public officer and shal
 
 ### Transfer of proceedings to High Court
 
-25\.—(1) If, at any stage in any civil proceedings in a subordinate court to which the Government is a party, an application is made by the Government to the High Court by reason that the proceedings may involve an important question of law or may be decisive of other cases arising in the same matter or that it is otherwise desirable in the public interest or for any other reason that such proceedings should be transferred to the High Court, and there is produced to the High Court a certificate of the Attorney-General to that effect, the High Court shall order the proceedings to be transferred to the High Court.
+25\.—(1) If, at any stage in any civil proceedings in a State Court to which the Government is a party, an application is made by the Government to the High Court by reason that the proceedings may involve an important question of law or may be decisive of other cases arising in the same matter or that it is otherwise desirable in the public interest or for any other reason that such proceedings should be transferred to the High Court, and there is produced to the High Court a certificate of the Attorney-General to that effect, the High Court shall order the proceedings to be transferred to the High Court.
+
+[Act 5 of 2014 wef 07/03/2014]
+
+[Act 17/2005 wef 15/07/2005]
 
 (2) Notwithstanding subsection (1), if it appears to the High Court that the removal of the proceedings in accordance with that subsection is likely to occasion substantial additional expenses to any party to the proceedings other than the Government, the High Court may refuse to grant the application unless the Government enters into an undertaking that it will, on or before such date as the High Court may specify, pay to such other party such sum of money as, in the opinion of the High Court, is necessary to cover the additional expense likely to be so occasioned to such party. The amount of such sum of money shall be ascertained in such manner as the High Court may direct.
 
@@ -402,11 +420,13 @@ a legal officer may appear as advocate on behalf of such public officer and shal
 
 ### Removal and transfer of proceedings
 
-26\. Without prejudice to the rights of the Government under section 25, any written law relating to the removal or transfer of proceedings from a subordinate court to the High Court, from the High Court to a subordinate court, or from one subordinate court to another, shall apply in relation to proceedings against the Government:
+26\. Without prejudice to the rights of the Government under section 25, any written law relating to the removal or transfer of proceedings from a State Court to the High Court, from the High Court to a State Court, or from one State Court to another, shall apply in relation to proceedings against the Government:
 
-Provided that an order for the transfer to a subordinate court of any proceedings against the Government in the High Court shall not be made without the consent of the Government and shall not be conditional upon the giving of security by the Government.
+Provided that an order for the transfer to a State Court of any proceedings against the Government in the High Court shall not be made without the consent of the Government and shall not be conditional upon the giving of security by the Government.
 
-[26/2005 wef 01/01/2006]
+[Act 5 of 2014 wef 07/03/2014]
+
+[Act 26/2005 wef 01/01/2006]
 
 ### Nature of relief
 
@@ -488,7 +508,9 @@ Provided that the court by which any such order as aforesaid is made or any cour
 
 (3) For the purposes of this section, “the Government” shall be deemed to include any public officer who in his official capacity has any money in his custody or control.
 
-(4) Subsections (1), (2) and (3) shall, so far as they relate to forms of relief falling within the jurisdiction of a subordinate court, have effect in relation to subordinate courts as they have effect in relation to the High Court.
+(4) Subsections (1), (2) and (3) shall, so far as they relate to forms of relief falling within the jurisdiction of a State Court, have effect in relation to State Courts as they have effect in relation to the High Court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ## PART V
 
@@ -500,7 +522,9 @@ Miscellaneous
 
 34\.—(1) Subject to and in accordance with Rules of Court —
 
-(a) in any civil proceedings in the High Court or a subordinate court to which the Government is a party, the Government may be required by the court to make discovery of documents and produce documents for inspection; and
+(a) in any civil proceedings in the High Court or a State Court to which the Government is a party, the Government may be required by the court to make discovery of documents and produce documents for inspection; and
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) in any such proceedings as aforesaid, the Government may be required by the court to answer interrogatories:
 
@@ -512,7 +536,9 @@ Provided that this section shall be without prejudice to any other written law, 
 
 35\.—(1) Nothing in this Act shall authorise proceedings in rem in respect of any claim against the Government, or the arrest, detention or sale of any ship or aircraft, or of any cargo or other property belonging to the Government, or give to any person any lien on such ship, aircraft, cargo or other property.
 
-(2) Where proceedings in rem have been instituted in the High Court or in a subordinate court against any such ship, aircraft, cargo or other property, the court may, if satisfied, either on an application by the plaintiff for an order under this subsection or an application by the Government to set aside the proceedings, that the proceedings were so instituted by the plaintiff in the reasonable belief that the ship, aircraft, cargo or other property did not belong to the Government, order that the proceedings shall be treated as if they were in personam duly instituted against the Government in accordance with the provisions of this Act, or duly instituted against any other person whom the court regards as the proper person to be sued in the circumstances, and that the proceedings shall continue accordingly.
+(2) Where proceedings in rem have been instituted in the High Court or in a State Court against any such ship, aircraft, cargo or other property, the court may, if satisfied, either on an application by the plaintiff for an order under this subsection or an application by the Government to set aside the proceedings, that the proceedings were so instituted by the plaintiff in the reasonable belief that the ship, aircraft, cargo or other property did not belong to the Government, order that the proceedings shall be treated as if they were in personam duly instituted against the Government in accordance with the provisions of this Act, or duly instituted against any other person whom the court regards as the proper person to be sued in the circumstances, and that the proceedings shall continue accordingly.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) An order under subsection (2) may be made upon such terms, if any, as the court thinks just; and where the court makes any such order it may make such consequential orders as the court thinks expedient.
 
@@ -574,7 +600,7 @@ Government Proceedings Act
 
 (CHAPTER 121)
 
-This Legislative History is provided for the convenience of users of the Government Proceedings Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Government Proceedings Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -590,7 +616,7 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of operation|30 March 1987|
 |5.|**Act 45 of 1996—Government Proceedings (Amendment) Act 1996**|
 ||Date of First Reading|2 December 1996|
-|||(Bill No. 35/1996 published on 3 December 1996)|
+|||(Bill No. 35/1996 published on 2 December 1996)|
 ||Date of Second and Third Readings|11 December 1996|
 ||Date of commencement|28 December 1996|
 |6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
@@ -609,3 +635,8 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 16/2005 published on 19 July 2005)|
 ||Date of Second and Third Readings|15 August 2005|
 ||Date of commencement|1 January 2006|
+|9.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
