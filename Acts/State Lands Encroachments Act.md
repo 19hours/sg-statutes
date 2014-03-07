@@ -76,9 +76,11 @@ An Act to prevent encroachments upon State lands.
 
 3\.—(1) The Magistrate’s Court shall proceed in a summary way in the presence of the parties, or in case of wilful absence of any person against whom such information has been laid, then in his absence, to hear and determine the information.
 
-(2) In any action commenced under section 2 for the removal of any person in unlawful occupation of State land, the defendant may within such time as may be prescribed by the Rules of the Supreme Court for the time being in force, apply to the High Court for the action to be transferred to the High Court on the ground that the defendant is claiming title to the land.
+(2) In any action commenced under section 2 for the removal of any person in unlawful occupation of State land, the defendant may within such time as may be prescribed by the Rules of Court for the time being in force, apply to the High Court for the action to be transferred to the High Court on the ground that the defendant is claiming title to the land.
 
 [23/74]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) On the hearing of any such application, the High Court, if it is satisfied that a bona fide claim of title is raised, may make an order for the action to be transferred to the High Court.
 
@@ -249,11 +251,11 @@ To Wit.
 
 In the matter of the State Lands Encroachments Act (Chapter 315). and between complainant, andA.B., occupant:
 
-You are hereby summoned to appear at on the day of 19 at the hour of a.m. to answer the complainant of that you are in unlawful occupation of certain State lands, to wit
+You are hereby summoned to appear at on the day of 19 at the hour of a.m. to answer the complaint of that you are in unlawful occupation of certain State lands, to wit
 
 Dated the day of 19 .
 
-In case you fail to attend this summons, upon proof of service of the same, the complainant will be heard in your absence, and such order made as to the court shall seem fit.
+In case you fail to attend this summons, upon proof of service of the same, the complaint will be heard in your absence, and such order made as to the court shall seem fit.
 
 FORM C
 
@@ -377,3 +379,9 @@ This Legislative History is provided for the convenience of users of the State L
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|21.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
