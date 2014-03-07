@@ -110,15 +110,15 @@
 
 - [45 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Scheduled Territories**](#FIRST-SCHEDULE-Scheduled-Territories)
+[**FIRST SCHEDULE Scheduled territories**](#FIRST-SCHEDULE-Scheduled-territories)
 
-[**SECOND SCHEDULE Foreign Companies**](#SECOND-SCHEDULE-Foreign-Companies)
+[**SECOND SCHEDULE Foreign companies**](#SECOND-SCHEDULE-Foreign-companies)
 
-[**THIRD SCHEDULE Blocked Accounts**](#THIRD-SCHEDULE-Blocked-Accounts)
+[**THIRD SCHEDULE Blocked accounts**](#THIRD-SCHEDULE-Blocked-accounts)
 
-[**FOURTH SCHEDULE Legal Proceedings, etc.**](#FOURTH-SCHEDULE-Legal-Proceedings-etc)
+[**FOURTH SCHEDULE Legal proceedings, etc.**](#FOURTH-SCHEDULE-Legal-proceedings-etc)
 
-[**FIFTH SCHEDULE**](#FIFTH-SCHEDULE)
+[**FIFTH SCHEDULE Enforcement**](#FIFTH-SCHEDULE-Enforcement)
 
 [**Legislative History**](#Legislative-History)
 
@@ -910,7 +910,7 @@ shall comply with such directions as may be given to them respectively by the Au
 
 (2) Where any directions are given under this section with respect to any country or territory, a branch in that country or territory of any business, whether carried on by a body corporate or otherwise, shall, for the purposes of this section, be treated in all respects as if the branch were a body corporate resident in that country or territory.
 
-44\. [Deleted by Act 38/2002 wef 01/01/2003]
+44\. [Repealed by Act 38/2002 wef 01/01/2003]
 
 ### Regulations
 
@@ -924,7 +924,7 @@ FIRST SCHEDULE
 
 Section 2(1)
 
-Scheduled Territories
+Scheduled territories
 
 Australia including Christmas Island, Cocos (Keeling) Islands and Norfolk Island
 
@@ -1062,7 +1062,7 @@ SECOND SCHEDULE
 
 Section 32(1) and (9)
 
-Foreign Companies
+Foreign companies
 
 1. The bodies corporate in question are bodies corporate not incorporated under the law of Singapore in the case of which any of the following conditions is fulfilled:
 
@@ -1082,15 +1082,13 @@ Foreign Companies
 
 is receivable, directly or indirectly, by or for the benefit of persons resident in Singapore.
 
-[S 114/76]
-
 2\. Where the identity of the persons by whom or for whose benefit any sum, assets, interest or dividends are directly or indirectly receivable depends on the exercise by a person resident in Singapore of a power of appointment or similar power, the sum, assets, interests or dividends shall, for the purposes of this Schedule, be deemed to be receivable directly or indirectly by or for the benefit of persons resident in Singapore.
 
 THIRD SCHEDULE
 
 Section 34
 
-Blocked Accounts
+Blocked accounts
 
 1. In this Schedule —
 
@@ -1138,7 +1136,7 @@ FOURTH SCHEDULE
 
 Section 35(4)
 
-Legal Proceedings, etc.
+Legal proceedings, etc.
 
 1.—(1) The provisions of Part III of this Act shall apply to sums required to be paid by any judgment or order of any court or by any award as they apply in relation to other sums.
 
@@ -1158,7 +1156,7 @@ may be made by the Rules Committee established under section 80 of the Supreme C
 
 (2) The form of any statutory demand shall be such as may be prescribed by the Authority.
 
-(3) Nothing in this paragraph shall affect the provisions of any legislation which requires Rules of Court for subordinate courts to have the concurrence of the rule-making authority for the High Court.
+(3) [Deleted by Act 5 of 2014 wef 07/03/2014]
 
 4.—(1) In any proceedings in a prescribed court and in any arbitration proceedings, a claim for the recovery of any debt shall not be defeated by reason only of the debt not being payable without the permission of the Authority and of that permission not having been given or having been revoked.
 
@@ -1361,7 +1359,7 @@ This Legislative History is provided for the convenience of users of the Exchang
 ||Date of commencement|6 December 1968|
 |11.|**1970 Revised Edition (Cap. 245)—Exchange Control Act 1970**|
 ||Date of operation|31 July 1971|
-|12.|**G. N. No. S 20/1972—Exchange Control (Scheduled Territories) (Amendment No. 2) Order 1972**|
+|12.|**G. N. No. S 20/1972—Exchange Control (Scheduled Territories) (Amendment) Order 1972**|
 ||Date of commencement|24 December 1971|
 |13.|**G. N. No. S 69/1972—Exchange Control (Scheduled Territories) (Amendment No. 2) Order 1972**|
 ||Date of commencement|4 March 1972|
@@ -1412,10 +1410,15 @@ This Legislative History is provided for the convenience of users of the Exchang
 ||(Consequential amendments made by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 21 July 2008)|
-||Date of Second and Third Readings|16 September 2008|
+||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
 |27.|**G.N. No. S 723/2013—Exchange Control (Continuance of Act) Notification 2013**|
 ||Date of commencement|1 January 2014|
+|28.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Exchange Control Act
