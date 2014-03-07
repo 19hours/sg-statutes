@@ -224,13 +224,15 @@ MEDIATION
 
 (b) where a corporation that is a body corporate constituted under section 10A of the Land Titles (Strata) Act (Cap. 158) is a party to a mediation session — a council or committee member or its managing agent;
 
+[4/2010 wef 17/02/2010]
+
 (c) where a statutory body is a party to a mediation session — an officer of the statutory body; or
 
 (d) where a society registered under section 4 or 4A of the Societies Act (Cap. 311) is a party to a mediation session — an officer of the society as defined in section 2 of that Act,
 
-from representing that company, corporation, body corporate or society, as the case may be.
-
 [4/2010 wef 17/02/2010]
+
+from representing that company, corporation, body corporate or society, as the case may be.
 
 (3) Where a Director approves of the representation of a party by an agent, the approval of the Director may be given subject to such conditions as the Director considers reasonable to ensure that any other party to the mediation session is not substantially disadvantaged by the agent appearing at the mediation session and, where the Director does so, the entitlement of the agent to represent the party shall be subject to compliance by the agent with those conditions.
 
@@ -250,7 +252,9 @@ refer the complaint to a mediator of a Community Mediation Centre for mediation 
 
 (2) In making any referral under subsection (1), the Magistrate may order the personal attendance of the complainant or the person complained against before a mediator of a Community Mediation Centre at a time and place to be specified in the order of the Magistrate.
 
-(3) Any person who fails to comply with the order of the Magistrate made under subsection (2) shall be guilty of contempt of court and action may be taken against him under section 8 of the Subordinate Courts Act (Cap. 321).
+(3) Any person who fails to comply with the order of the Magistrate made under subsection (2) shall be guilty of contempt of court and action may be taken against him under section 8 of the State Courts Act (Cap. 321).
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) In a referral by a Magistrate under this section, the mediator of a Community Mediation Centre shall record and notify the Magistrate of the outcome of the mediation to enable the Magistrate to take such further action as he thinks fit under the provisions of the Criminal Procedure Code.
 
@@ -280,23 +284,27 @@ shall, if the matter or thing was done in good faith for the purpose of executin
 
 (a) a subpoena for the attendance before the court of the mediator, the Director or any member of the staff, employee or officer of the Community Mediation Centre; or
 
+[42/2005 wef 01/01/2006]
+
 (b) a subpoena for the production to the court of any of the records or documents of the Centre,
 
-unless the registrar is satisfied that, having regard to all the circumstances of the case, such attendance or production is necessary for the fair disposal of the case or to save costs.
-
 [42/2005 wef 01/01/2006]
+
+unless the registrar is satisfied that, having regard to all the circumstances of the case, such attendance or production is necessary for the fair disposal of the case or to save costs.
 
 (2) Where an order is made by the registrar under subsection (1)(b), it shall be sufficient compliance for the Centre to produce certified true copies of any of the records or documents and such copies shall, subject to section 19, be admissible as evidence of the facts stated or contained therein.
 
 (3) For the purposes of this section —
 
-“court” includes an arbitral tribunal.
+“court” includes an arbitral tribunal;
 
 “registrar” means —
 
 (a) the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the Supreme Court; and
 
-(b) the registrar or a deputy registrar of the subordinate courts in all cases where proceedings are taken in a subordinate court;
+(b) the registrar or a deputy registrar of the State Courts in all cases where proceedings are taken in a State Court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Privilege
 
@@ -401,8 +409,14 @@ This Legislative History is provided for the convenience of users of the Communi
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010|
 |6.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made by)||
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 20110|
 ||Date of commencement|2 January 2011|
+|7.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
