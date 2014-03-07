@@ -308,7 +308,9 @@ when they are in the possession of a person who is entitled to possession of the
 
 “process” means any summons, warrant, order or other document in respect of a criminal matter that is issued —
 
-(a) out of any court of Singapore or by any Judge, District Judge, Magistrate, the Registrar or Deputy Registrar or an Assistant Registrar of the Supreme Court, or the Registrar or a Deputy Registrar of the Subordinate Courts; or
+(a) out of any court of Singapore or by any Judge, District Judge, Magistrate, the Registrar or Deputy Registrar or an Assistant Registrar of the Supreme Court, or the Registrar or a Deputy Registrar of the State Courts; or
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) out of any court of a foreign country or by any judge, magistrate or officer of such a court,
 
@@ -1726,6 +1728,11 @@ This Legislative History is provided for the convenience of users of the Mutual 
 |||(Bill No. 2/2006 published on 17 January 2006)|
 ||Date of Second and Third Readings|13 February 2006|
 ||Date of commencement|1 April 2006|
+|7.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Mutual Assistance in Criminal Matters Act
