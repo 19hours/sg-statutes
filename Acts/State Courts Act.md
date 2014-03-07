@@ -1,4 +1,4 @@
-**Subordinate Courts Act**
+**State Courts Act**
 
 **(CHAPTER 321)**
 
@@ -14,7 +14,7 @@
 
 [**Part II CONSTITUTION**](#Part-II)
 
-- [3 Subordinate courts](#Subordinate-courts)
+- [3 State Courts](#State-Courts)
 
 - [4 Court houses](#Court-houses)
 
@@ -22,7 +22,7 @@
 
 - [6 Process of courts](#Process-of-courts)
 
-- [6A Sittings of subordinate courts](#Sittings-of-subordinate-courts)
+- [6A Sittings of State Courts](#Sittings-of-State-Courts)
 
 - [7 Sittings in camera, etc.](#Sittings-in-camera-etc)
 
@@ -36,13 +36,13 @@
 
 - [11 Justices of the Peace](#Justices-of-the-Peace)
 
-- [12 Appointments and qualifications of registrar and deputy registrars of subordinate courts](#Appointments-and-qualifications-of-registrar-and-deputy-registrars-of-subordinate-courts)
+- [12 Appointments and qualifications of registrar and deputy registrars of State Courts](#Appointments-and-qualifications-of-registrar-and-deputy-registrars-of-State-Courts)
 
 - [13 Powers and duties of deputy registrars](#Powers-and-duties-of-deputy-registrars)
 
-- [14 Subordinate court officers](#Subordinate-court-officers)
+- [14 State Court officers](#State-Court-officers)
 
-- [15 Powers and duties of certain subordinate court officers](#Powers-and-duties-of-certain-subordinate-court-officers)
+- [15 Powers and duties of certain State Court officers](#Powers-and-duties-of-certain-State-Court-officers)
 
 - [15A Solicitor, etc., authorised to act as bailiff](#Solicitor-etc-authorised-to-act-as-bailiff)
 
@@ -96,7 +96,7 @@
 
 - [38 (Repealed)](#Repealed)
 
-- [39 Costs of certain actions commenced in High Court which could have been commenced in a subordinate court](#Costs-of-certain-actions-commenced-in-High-Court-which-could-have-been-commenced-in-a-subordinate-court)
+- [39 Costs of certain actions commenced in High Court which could have been commenced in a State Court](#Costs-of-certain-actions-commenced-in-High-Court-which-could-have-been-commenced-in-a-State-Court)
 
 - [40 (Repealed)](#Repealed)
 
@@ -136,13 +136,13 @@
 
 - [54A General power to transfer from Magistrate’s Court to District Court](#General-power-to-transfer-from-Magistrate’s-Court-to-District-Court)
 
-- [54B General power to transfer from subordinate courts to High Court](#General-power-to-transfer-from-subordinate-courts-to-High-Court)
+- [54B General power to transfer from State Courts to High Court](#General-power-to-transfer-from-State-Courts-to-High-Court)
 
-- [54C General power to transfer from High Court to subordinate courts](#General-power-to-transfer-from-High-Court-to-subordinate-courts)
+- [54C General power to transfer from High Court to State Courts](#General-power-to-transfer-from-High-Court-to-State-Courts)
 
 - [54D General power to transfer from District Court to Magistrate’s Court](#General-power-to-transfer-from-District-Court-to-Magistrate’s-Court)
 
-- [54E Transfer of counterclaim from subordinate courts to High Court](#Transfer-of-counterclaim-from-subordinate-courts-to-High-Court)
+- [54E Transfer of counterclaim from State Courts to High Court](#Transfer-of-counterclaim-from-State-Courts-to-High-Court)
 
 - [54F Transfer of counterclaim from Magistrate’s Court to District Court](#Transfer-of-counterclaim-from-Magistrate’s-Court-to-District-Court)
 
@@ -158,13 +158,13 @@
 
 [**Part V ADMINISTRATION**](#Part-V)
 
-- [57 Registry of subordinate courts](#Registry-of-subordinate-courts)
+- [57 Registry of State Courts](#Registry-of-State-Courts)
 
 - [58 Nature of business at any sitting](#Nature-of-business-at-any-sitting)
 
 - [59 Distribution of business](#Distribution-of-business)
 
-- [60 Office of a court](#Office-of-a-court)
+- [60 Office of State Court](#Office-of-State-Court)
 
 - [61 Vacations for District and Magistrates’ Courts](#Vacations-for-District-and-Magistrates’-Courts)
 
@@ -194,7 +194,7 @@
 
 [**Comparative Table**](#Comparative-Table)
 
-# Subordinate Courts Act
+# State Courts Act
 
 (CHAPTER 321)
 
@@ -204,7 +204,9 @@ REVISED EDITION 2007
 
 (31st July 2007)
 
-An Act relating to the constitution, jurisdiction and powers of the subordinate courts and the administration of justice therein.
+An Act relating to the constitution, jurisdiction and powers of the State Courts and the administration of justice therein.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 [1st January 1971]
 
@@ -214,7 +216,9 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Subordinate Courts Act.
+1\. This Act may be cited as the State Courts Act.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Interpretation
 
@@ -246,7 +250,9 @@ PRELIMINARY
 
 “Public Prosecutor” includes a Deputy Public Prosecutor;
 
-“registrar” means the registrar of the subordinate courts and includes a deputy registrar;
+“registrar” means the registrar of the State Courts and includes a deputy registrar;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “Rules of Court” means Rules of Court made under this Act and includes forms;
 
@@ -258,9 +264,9 @@ PRELIMINARY
 
 CONSTITUTION
 
-### Subordinate courts
+### State Courts
 
-3\.—(1) There shall be within Singapore the following subordinate courts with such jurisdiction as is conferred by this Act or any other written law:
+3\.—(1) There shall be within Singapore the following subordinate courts called the State Courts with such jurisdiction as is conferred by this Act or any other written law:
 
 (a) District Courts;
 
@@ -274,6 +280,8 @@ CONSTITUTION
 
 [27/84]
 
+[Act 5 of 2014 wef 07/03/2014]
+
 (2) The Small Claims Tribunals shall have such jurisdiction as is conferred by the Small Claims Tribunals Act (Cap. 308) or any other written law.
 
 (3) Except as provided in the Small Claims Tribunals Act, no provision of this Act or Rules of Court shall apply to a Small Claims Tribunal.
@@ -284,25 +292,33 @@ CONSTITUTION
 
 ### Court houses
 
-4\. The President may constitute under appropriate names so many subordinate courts as he shall think fit, and shall appoint some place or places as the court house or court houses of each such court.
+4\. The President may constitute under appropriate names so many State Courts as he shall think fit, and shall appoint some place or places as the court house or court houses of each such Court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Seals of courts
 
-5\. The subordinate courts shall have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in theGazette3, prescribe.
+5\. The State Courts shall have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in theGazette3, prescribe.
 
 3N 1, 1997 Ed. (S 230/75).
 
+[Act 5 of 2014 wef 07/03/2014]
+
 ### Process of courts
 
-6\. Subject to Rules of Court, all writs, summonses, warrants, orders, notices and other mandatory processes issued by the subordinate courts shall be signed by a judicial officer and shall bear the seal of the court issuing the same.
+6\. Subject to Rules of Court, all writs, summonses, warrants, orders, notices and other mandatory processes issued by the State Courts shall be signed by a judicial officer and shall bear the seal of the court issuing the same.
 
 [3/87]
 
-### Sittings of subordinate courts
+[Act 5 of 2014 wef 07/03/2014]
 
-6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Saturdays, Sundays and public holidays.
+### Sittings of State Courts
+
+6A\.—(1) Subject to subsection (2), every State Court shall sit on every day of the year except on Saturdays, Sundays and public holidays.
 
 [8/98; 2/2007]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Saturday, Sunday or public holiday or during a vacation authorised under section 61 if —
 
@@ -312,17 +328,23 @@ CONSTITUTION
 
 [8/98; 2/2007]
 
-(3) Every subordinate court shall sit at such times as the Chief Justice may from time to time appoint.
+(3) Every State Court shall sit at such times as the Chief Justice may from time to time appoint.
 
 [8/98]
 
+[Act 5 of 2014 wef 07/03/2014]
+
 ### Sittings in camera, etc.
 
-7\.—(1) The place in which any subordinate court is held shall be deemed an open and public court to which the public generally may have access.
+7\.—(1) The place in which any State Court is held shall be deemed an open and public court to which the public generally may have access.
 
-(2) A subordinate court shall have power to hear any proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public security or propriety, or for other sufficient reason to do so.
+[Act 5 of 2014 wef 07/03/2014]
 
-(2A) A subordinate court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
+(2) A State Court shall have power to hear any proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public security or propriety, or for other sufficient reason to do so.
+
+[Act 5 of 2014 wef 07/03/2014]
+
+(2A) A State Court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
 
 (a) the name, address or photograph of any witness; or
 
@@ -332,7 +354,9 @@ which is contained in any court document intended to be produced before the cour
 
 [15/2010 wef 02/01/2011]
 
-(3) A subordinate court may at any time order that no person shall —
+[Act 5 of 2014 wef 07/03/2014]
+
+(3) A State Court may at any time order that no person shall —
 
 (a) publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness; or
 
@@ -340,17 +364,21 @@ which is contained in any court document intended to be produced before the cour
 
 [15/2010 wef 02/01/2011]
 
+[Act 5 of 2014 wef 07/03/2014]
+
 (4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Contempt
 
-8\.—(1) The subordinate courts shall have power to punish for contempt of court where the contempt is committed —
+8\.—(1) The State Courts shall have power to punish for contempt of court where the contempt is committed —
 
 (a) in the face of the court; or
 
 (b) in connection with any proceedings in the subordinate courts.
 
 [4/96]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) Where contempt of court is committed in the circumstances mentioned in subsection (1), the court may impose imprisonment for a term not exceeding 6 months or a fine not exceeding $2,000 or both.
 
@@ -374,7 +402,17 @@ APPOINTMENTS, POWERS AND DUTIES
 
 (2) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Chief District Judge who shall have seniority over all other District Judges.
 
-(3) No person shall be appointed to be or to act as a District Judge unless he has been for not less than 5 years a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161).
+(3) No person shall be appointed to be or to act as a District Judge unless he has been for not less than 7 years a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161).
+
+[Act 5 of 2014 wef 07/03/2014]
+
+(3A) Notwithstanding subsection (3), a person may be appointed to be or to act as a District Judge if —
+
+(a) he has been for not less than 5 years a qualified person as defined in section 2 of the Legal Profession Act; and
+
+(b) the Chief Justice, after having regard to the qualifications and experience of the person, is of the opinion that the person is suitable to be appointed as a District Judge.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) Any person appointed to be or to act as a District Judge shall, although the period of his appointment has expired or his appointment has been revoked, sit as a District Judge for the purpose of giving judgment or otherwise in relation to any case heard by him.
 
@@ -384,7 +422,17 @@ APPOINTMENTS, POWERS AND DUTIES
 
 10\.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate .
 
-(2) No person shall be appointed to be or to act as a Magistrate unless he has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act.
+(2) No person shall be appointed to be or to act as a Magistrate unless he has been for not less than 3 years a qualified person as defined in section 2 of the Legal Profession Act.
+
+[Act 5 of 2014 wef 07/03/2014]
+
+(3) Notwithstanding subsection (2), a person may be appointed to be or to act as a Magistrate if —
+
+(a) he has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act; and
+
+(b) the Chief Justice, after having regard to the qualifications and experience of the person, is of the opinion that the person is suitable to be appointed as a Magistrate.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Justices of the Peace
 
@@ -392,9 +440,11 @@ APPOINTMENTS, POWERS AND DUTIES
 
 (2) Justices of the Peace shall have and may exercise such powers and perform such duties of a Magistrate as may be conferred on them by any written law.
 
-### Appointments and qualifications of registrar and deputy registrars of subordinate courts
+### Appointments and qualifications of registrar and deputy registrars of State Courts
 
-12\.—(1) There shall be appointed by the Chief Justice a registrar and so many deputy registrars as may be necessary for the subordinate courts.
+12\.—(1) There shall be appointed by the Chief Justice a registrar and so many deputy registrars as may be necessary for the State Courts.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) No person shall be appointed to be or to act as registrar unless he is a qualified person as defined in section 2 of the Legal Profession Act, except that the Chief Justice may, in his discretion, appoint any person who is not a qualified person under that Act.
 
@@ -404,19 +454,25 @@ APPOINTMENTS, POWERS AND DUTIES
 
 13\. Subject to Rules of Court, all the powers and duties conferred and imposed on the registrar may be exercised by a deputy registrar.
 
-### Subordinate court officers
+### State Court officers
 
-14\. There shall be attached to the subordinate courts such commissioners for oaths, interpreters, clerks, bailiffs, process servers and other officers as, from time to time, may appear to the Chief Justice to be necessary for the administration of justice and the due execution of all powers and duties which are vested in the subordinate courts.
+14\. There shall be attached to the State Courts such commissioners for oaths, interpreters, clerks, bailiffs, process servers and other officers as, from time to time, may appear to the Chief Justice to be necessary for the administration of justice and the due execution of all powers and duties which are vested in the State Courts.
 
-### Powers and duties of certain subordinate court officers
+[Act 5 of 2014 wef 07/03/2014]
+
+### Powers and duties of certain State Court officers
 
 15\. The bailiffs and process servers shall —
 
-(a) execute all writs, summonses, warrants, orders, notices and other mandatory processes of the subordinate courts given to them;
+(a) execute all writs, summonses, warrants, orders, notices and other mandatory processes of the State Courts given to them;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) make a return of the same together with the manner of the execution thereof to the court from which the process issued; and
 
-(c) arrest and receive all such persons and property as are committed to the custody of the subordinate courts.
+(c) arrest and receive all such persons and property as are committed to the custody of the State Courts.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Solicitor, etc., authorised to act as bailiff
 
@@ -424,9 +480,11 @@ APPOINTMENTS, POWERS AND DUTIES
 
 [15/93]
 
-(2) Section 68(2) shall apply to a solicitor or person authorised under subsection (1) as it applies to an officer of a subordinate court.
+(2) Section 68(2) shall apply to a solicitor or person authorised under subsection (1) as it applies to an officer of a State Court.
 
 [15/93]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Special powers of bailiffs
 
@@ -434,13 +492,17 @@ APPOINTMENTS, POWERS AND DUTIES
 
 ### Oaths of judicial officers and certain other officers
 
-17\.—(1) All judicial officers and such other officers of the subordinate courts as may be required by the Chief Justice shall, before exercising the functions of their respective offices, take and subscribe the appropriate oath of office and allegiance set out in the Schedule.
+17\.—(1) All judicial officers and such other officers of the State Courts as may be required by the Chief Justice shall, before exercising the functions of their respective offices, take and subscribe the appropriate oath of office and allegiance set out in the Schedule.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) The oath referred to in subsection (1) may be taken and subscribed before the Chief District Judge or a Judge of the Supreme Court.
 
 (3) Where the oath is taken before the Chief District Judge, he shall —
 
-(a) enter in the record of his court that the oath was duly administered and taken before him; and
+(a) enter in the record of the State Courts that the oath was duly administered and taken before him; and
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) transmit a certified copy of the entry to the Registrar of the Supreme Court.
 
@@ -484,7 +546,9 @@ Civil Jurisdiction of District Courts
 
 (iv) an Order for Review of Detention;
 
-(c) any jurisdiction vested exclusively in the High Court, in any other subordinate court, or in any judicial, quasi-judicial or administrative tribunal, by written law; and
+(c) any jurisdiction vested exclusively in the High Court, in any other State Court, or in any judicial, quasi-judicial or administrative tribunal, by written law; and
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (d) any jurisdiction expressly excluded by written law.
 
@@ -672,9 +736,9 @@ General power to transfer from District Court to High Court
 
 38\. [Repealed by Act 26 of 2005]
 
-### Costs of certain actions commenced in High Court which could have been commenced in a subordinate court
+### Costs of certain actions commenced in High Court which could have been commenced in a State Court
 
-39\.—(1) Where an action is commenced in the High Court which could have been commenced in a subordinate court, then, subject to subsections (3) and (4), the plaintiff —
+39\.—(1) Where an action is commenced in the High Court which could have been commenced in a State Court, then, subject to subsections (3) and (4), the plaintiff —
 
 (a) if he recovers a sum not exceeding the District Court limit, shall not be entitled to any more costs of the action than those to which he would have been entitled if the action had been brought in a District Court; and
 
@@ -682,31 +746,43 @@ General power to transfer from District Court to High Court
 
 [15/93]
 
-(2) For the purposes of subsection (1)(a) and (b), a plaintiff shall be treated as recovering the full amount recoverable in respect of his claim without regard to any deduction made in respect of contributory negligence on his part or otherwise in respect of matters not falling to be taken into account in determining whether the action could have been commenced in a subordinate court.
+[Act 5 of 2014 wef 07/03/2014]
+
+(2) For the purposes of subsection (1)(a) and (b), a plaintiff shall be treated as recovering the full amount recoverable in respect of his claim without regard to any deduction made in respect of contributory negligence on his part or otherwise in respect of matters not falling to be taken into account in determining whether the action could have been commenced in a State Court.
 
 [15/93]
 
-(3) Where a plaintiff is entitled to costs on the subordinate courts scale only, the Registrar of the Supreme Court shall have the same power of allowing any items of costs as a District Judge or Magistrate would have had if the action had been brought in a subordinate court.
+[Act 5 of 2014 wef 07/03/2014]
+
+(3) Where a plaintiff is entitled to costs on the State Courts scale only, the Registrar of the Supreme Court shall have the same power of allowing any items of costs as a District Judge or Magistrate would have had if the action had been brought in a State Court.
 
 [15/93]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) In any action, the High Court, if satisfied —
 
 (a) that there was sufficient reason for bringing the action in the High Court; or
 
-(b) that the defendant or one of the defendants objected to the transfer of the action to a subordinate court,
+(b) that the defendant or one of the defendants objected to the transfer of the action to a State Court,
 
-may make an order allowing the costs or any part of the costs thereof on the High Court scale or on the subordinate courts scale as it may direct.
+[Act 5 of 2014 wef 07/03/2014]
+
+may make an order allowing the costs or any part of the costs thereof on the High Court scale or on the State Courts scale as it may direct.
 
 [15/93]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (5) This section shall not apply in the case of any proceedings by the Government.
 
 [15/93]
 
-(6) This section shall not affect any question as to costs if it appears to the High Court that there was reasonable ground for supposing the amount recoverable in respect of the plaintiff’s claim to be in excess of the amount recoverable in an action commenced in a subordinate court.
+(6) This section shall not affect any question as to costs if it appears to the High Court that there was reasonable ground for supposing the amount recoverable in respect of the plaintiff’s claim to be in excess of the amount recoverable in an action commenced in a State Court.
 
 [15/93]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 Costs in cases transferred from one court to another
 
@@ -760,7 +836,9 @@ District Court may forward judgment to High Court for execution
 
 ### General provision relating to civil appeals
 
-47\. Subject to the provisions of the Supreme Court of Judicature Act (Cap. 322) relating to civil appeals from the subordinate courts to the High Court, Rules of Court shall regulate and prescribe the procedure on appeals from a District Court exercising civil jurisdiction to the High Court.
+47\. Subject to the provisions of the Supreme Court of Judicature Act (Cap. 322) relating to civil appeals from the State Courts to the High Court, Rules of Court shall regulate and prescribe the procedure on appeals from a District Court exercising civil jurisdiction to the High Court.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Agreement not to appeal
 
@@ -898,11 +976,13 @@ Transfers of Civil Proceedings
 
 [26/2005]
 
-### General power to transfer from subordinate courts to High Court
+### General power to transfer from State Courts to High Court
 
-54B\.—(1) Where it appears to the High Court, on the application of a party to any civil proceedings pending in a subordinate court, that the proceedings, by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, should be tried in the High Court, it may order the proceedings to be transferred to the High Court.
+54B\.—(1) Where it appears to the High Court, on the application of a party to any civil proceedings pending in a State Court, that the proceedings, by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, should be tried in the High Court, it may order the proceedings to be transferred to the High Court.
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) An order under subsection (1) may be made on such terms as the court sees fit.
 
@@ -912,23 +992,27 @@ Explanation.—The intended enforcement overseas of any judgment obtained in the
 
 [26/2005]
 
-### General power to transfer from High Court to subordinate courts
+### General power to transfer from High Court to State Courts
 
-54C\.—(1) A party to any civil proceedings pending in the High Court may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a subordinate court.
+54C\.—(1) A party to any civil proceedings pending in the High Court may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a State Court.
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) Subject to subsection (3), the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.
 
 [26/2005]
 
-(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the subordinate court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.
+(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.
 
-Explanation.—The fact that the proceedings fall within the civil jurisdiction of the subordinate courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the subordinate courts, if enforcement overseas is intended of any judgment obtained in the High Court under any enforcement arrangements currently in force
+Explanation.—The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the High Court under any enforcement arrangements currently in force
 
 .
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### General power to transfer from District Court to Magistrate’s Court
 
@@ -944,29 +1028,37 @@ Explanation.—The fact that the proceedings fall within the civil jurisdiction 
 
 [26/2005]
 
-### Transfer of counterclaim from subordinate courts to High Court
+### Transfer of counterclaim from State Courts to High Court
 
-54E\.—(1) Where, in any civil proceedings pending in a subordinate court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the District Court limit, any party to the proceedings may apply to the High Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
+54E\.—(1) Where, in any civil proceedings pending in a State Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the District Court limit, any party to the proceedings may apply to the High Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) On any such application or on its own motion, the High Court may, as it thinks fit, and on such terms as it sees fit, order —
 
 (a) that the whole proceedings be transferred to the High Court;
 
-(b) that the whole proceedings be tried in the subordinate courts; or
+(b) that the whole proceedings be tried in the State Courts; or
 
-(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to the High Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in the subordinate courts.
+[Act 5 of 2014 wef 07/03/2014]
+
+(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to the High Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in the State Courts.
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the plaintiff, execution thereon shall, unless the High Court at any time otherwise orders, be stayed until the proceedings transferred to the High Court have been concluded.
 
 [26/2005]
 
-(4) Where no application is made under subsection (1) or where it is ordered that the whole proceedings be tried in the subordinate courts, such subordinate court shall have jurisdiction to try the proceedings, notwithstanding any other provision of this Act.
+(4) Where no application is made under subsection (1) or where it is ordered that the whole proceedings be tried in the State Courts, such State Court shall have jurisdiction to try the proceedings, notwithstanding any other provision of this Act.
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Transfer of counterclaim from Magistrate’s Court to District Court
 
@@ -996,23 +1088,33 @@ Explanation.—The fact that the proceedings fall within the civil jurisdiction 
 
 54G\.—(1) Where proceedings are ordered to be transferred —
 
-(a) from the High Court to a subordinate court;
+(a) from the High Court to a State Court;
 
-(b) from a subordinate court to the High Court; or
+[Act 5 of 2014 wef 07/03/2014]
 
-(c) from one subordinate court to another,
+(b) from a State Court to the High Court; or
+
+[Act 5 of 2014 wef 07/03/2014]
+
+(c) from one State Court to another,
+
+[Act 5 of 2014 wef 07/03/2014]
 
 the costs of the whole proceedings both before and after the transfer shall, subject to any order made by the court which ordered the transfer, be in the discretion of the court to which the proceedings are transferred, and that court shall have power to make orders with respect thereto and as to the scales on which the costs of the several parts of the proceedings are to be paid.
 
 [26/2005]
 
-(2) As regards so much of the proceedings in any action transferred from the High Court to a subordinate court as takes place in the High Court before the transfer —
+(2) As regards so much of the proceedings in any action transferred from the High Court to a State Court as takes place in the High Court before the transfer —
 
 (a) the costs thereof shall be subject to section 39; and
 
-(b) the powers of the High Court under section 39(4) to make an order allowing costs on the High Court scale or on the subordinate courts scale, shall, subject to any order of the High Court, be exercisable by the subordinate court.
+(b) the powers of the High Court under section 39(4) to make an order allowing costs on the High Court scale or on the State Courts scale, shall, subject to any order of the High Court, be exercisable by the State Court.
 
 [26/2005]
+
+[Act 5 of 2014 wef 07/03/2014]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 Jurisdiction of Juvenile Courts
 
@@ -1028,11 +1130,13 @@ Jurisdiction of Juvenile Courts
 
 ADMINISTRATION
 
-### Registry of subordinate courts
+### Registry of State Courts
 
-57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Saturdays, Sundays and public holidays.
+57\.—(1) The Registry of the State Courts shall be open on every day of the year except on Saturdays, Sundays and public holidays.
 
 [8/98; 2/2007]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —
 
@@ -1052,11 +1156,15 @@ ADMINISTRATION
 
 ### Distribution of business
 
-59\. The distribution of business in the subordinate courts shall be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Chief District Judge.
+59\. The distribution of business in the State Courts shall be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Chief District Judge.
 
-### Office of a court
+[Act 5 of 2014 wef 07/03/2014]
 
-60\.—(1) There shall be attached to each subordinate court or a number of subordinate courts an office, under whatever name, for the purpose of carrying out the work or business in such court or courts.
+### Office of State Court
+
+60\.—(1) There shall be attached to each State Court or a number of State Courts an office, under whatever name, for the purpose of carrying out the work or business in such Court or Courts.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) Subject to such directions as may be given by the Chief Justice from time to time, the Chief District Judge shall be responsible for the apportionment of the work among the several officers in any such office.
 
@@ -1068,7 +1176,9 @@ ADMINISTRATION
 
 62\.—(1) The Chief District Judge may frame and publish a list of persons proved to his satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons, and may alter and amend the list.
 
-(2) The Chief District Judge may, by general or special order, exclude from the precincts of the subordinate courts any person whose name is included in the list, except when such person is a party to or a witness in any proceedings in a subordinate court, when he shall be allowed to remain for such time as is necessary.
+(2) The Chief District Judge may, by general or special order, exclude from the precincts of the State Courts any person whose name is included in the list, except when such person is a party to or a witness in any proceedings in a State Court, when he shall be allowed to remain for such time as is necessary.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) No person’s name shall be included in the list until he has been heard or had an opportunity of being heard against such inclusion.
 
@@ -1080,13 +1190,17 @@ ADMINISTRATION
 
 [16/93]
 
-(6) A copy of the list shall be kept hung up in the office or offices of the subordinate courts and shall be published in theGazette.
+(6) A copy of the list shall be kept hung up in the office or offices of the State Courts and shall be published in theGazette.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act (Cap. 322) shall be deemed to be included in the list under this section, and vice versa.
 
 ### Impounding documents
 
-63\.—(1) A subordinate court may order any document produced before it in any proceedings to be impounded.
+63\.—(1) A State Court may order any document produced before it in any proceedings to be impounded.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) The document which has been impounded shall not be delivered out of the custody of the court or inspected except on an order signed by a judicial officer.
 
@@ -1118,11 +1232,13 @@ ADMINISTRATION
 
 ### Officers of court not to bid at sales under any written law
 
-66\. No officer of the subordinate courts having any duty to perform in connection with the sale of any property under any written law shall, directly or indirectly, purchase or bid for the property.
+66\. No officer of the State Courts having any duty to perform in connection with the sale of any property under any written law shall, directly or indirectly, purchase or bid for the property.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Misconduct of officers
 
-67\.—(1) Without prejudice to any written law and rules governing the conduct and discipline of public officers, if any officer of a subordinate court is charged —
+67\.—(1) Without prejudice to any written law and rules governing the conduct and discipline of public officers, if any officer of a State Court is charged —
 
 (a) with extortion or misconduct while acting under colour of the process of the court; or
 
@@ -1130,11 +1246,15 @@ ADMINISTRATION
 
 it shall be lawful for a District Judge nominated by the Chief District Judge to inquire into the matter in a summary manner.
 
+[Act 5 of 2014 wef 07/03/2014]
+
 (2) For the purpose of any such inquiry, the District Judge may summon and enforce the attendance of all necessary parties in the like manner as the attendance of witnesses in any case may be enforced.
 
 (3) On any such inquiry, the District Judge may make such order as he thinks just for the repayment of the money extorted or the due payment of the money levied, and for the payment of damages and costs, and also, if he thinks fit, may impose such fine upon the officer, not exceeding $100 for each offence, as appears to him to be adequate.
 
-(4) If it is found by a District Judge that any officer, while employed in carrying out his duties under this Act or Rules of Court or in exercising any of the powers thereof, has wilfully and corruptly exacted or accepted any fee or reward, other than such fees as are for the time being allowed under this Act or Rules of Court, that officer shall, in addition to being liable for damages under subsection (3), be incapable of being an officer of the subordinate courts.
+(4) If it is found by a District Judge that any officer, while employed in carrying out his duties under this Act or Rules of Court or in exercising any of the powers thereof, has wilfully and corruptly exacted or accepted any fee or reward, other than such fees as are for the time being allowed under this Act or Rules of Court, that officer shall, in addition to being liable for damages under subsection (3), be incapable of being an officer of the State Courts.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (5) An appeal shall lie to the Chief Justice from an order made by the District Judge under this section.
 
@@ -1144,17 +1264,23 @@ it shall be lawful for a District Judge nominated by the Chief District Judge to
 
 68\.—(1) A judicial officer shall not be liable to be sued for any act done by him in the discharge of his judicial duty whether or not within the limits of his jurisdiction, provided that he at the time in good faith believed himself to have jurisdiction to do or order the act complained of.
 
-(2) No officer of a subordinate court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the subordinate courts shall be liable to be sued for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by such writ, summons, warrant, order, notice or other mandatory process of the court in question.
+(2) No officer of a State Court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the State Courts shall be liable to be sued for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by such writ, summons, warrant, order, notice or other mandatory process of the court in question.
 
-(3) An officer of a subordinate court shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
+[Act 5 of 2014 wef 07/03/2014]
 
-(4) No judicial officer, officer of a subordinate court or court-appointed mediator shall be liable to be sued for an act done by him for the purposes of any mediation or other alternative dispute resolution process conducted by him in a subordinate court, if the act —
+(3) An officer of a State Court shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
+
+[Act 5 of 2014 wef 07/03/2014]
+
+(4) No judicial officer, officer of a State Court or court-appointed mediator shall be liable to be sued for an act done by him for the purposes of any mediation or other alternative dispute resolution process conducted by him in a State Court, if the act —
 
 (a) was done in good faith; and
 
 (b) did not involve any fraud or wilful misconduct on his part.
 
 [31/2010 wef 01/01/2011]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Rules of Court
 
@@ -1190,11 +1316,17 @@ is issued, to deposit from time to time a sum of money to provide for the expens
 
 (g) enabling proceedings —
 
-(i) to be commenced in a subordinate court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;
+(i) to be commenced in a State Court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;
 
-(ii) purporting to have been commenced in a subordinate court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commencement; and
+[Act 5 of 2014 wef 07/03/2014]
 
-(iii) commenced or treated as commenced in a subordinate court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
+(ii) purporting to have been commenced in a State Court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commencement; and
+
+[Act 5 of 2014 wef 07/03/2014]
+
+(iii) commenced or treated as commenced in a State Court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (h) prescribing the manner in which money in a court is to be dealt with and in particular —
 
@@ -1270,9 +1402,11 @@ Officer Administering the Oath
 
 ## LEGISLATIVE HISTORY
 
-Subordinate Courts Act
+State Courts Act
 
 (CHAPTER 321)
+
+formerly known as the Subordinate Courts Act
 
 This Legislative History is provided for the convenience of users of the Subordinate Courts Act. It is not part of this Act.
 
@@ -1393,9 +1527,13 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 10/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|25.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
-Subordinate Courts Act
+State Courts Act
 
 (CHAPTER 321)
 
