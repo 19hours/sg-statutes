@@ -354,7 +354,9 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 (a) the High Court — the Registrar, Deputy Registrar or Assistant Registrar of the Supreme Court;
 
-(b) a District Court or a Magistrate’s Court — the Registrar or Deputy Registrar of the Subordinate Courts;
+(b) a District Court or a Magistrate’s Court — the Registrar or Deputy Registrar of the State Courts;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “restraint order” means an order made under section 16(1);
 
@@ -5712,6 +5714,11 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|18 April 2013 (except section 65(a) and (b))|
 |35.|**G.N. No. S 380/2013—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2013**|
 ||Date of commencement|1 July 2013|
+|36.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
