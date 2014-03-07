@@ -200,11 +200,9 @@ Provided that the Public Trustee may in writing authorise an Assistant Public Tr
 
 (5) In any suit or proceeding in which the Public Trustee is appointed under this section to act for a minor, no costs shall be recoverable from the Public Trustee personally or from the Government.
 
-(6) In this section, “suit” means a suit for the administration of the estate of any deceased person or of a trust, and “proceeding” means a proceeding under Order 80 of the Rules of the Supreme Court\*or under Order 72 of the Subordinate Courts Rules†.
+(6) In this section, “suit” means a suit for the administration of the estate of any deceased person or of a trust, and “proceeding” means a proceeding under Order 80 of the Rules of Court.
 
-\*SeeG.N. No. S 274/70.
-
-†SeeG.N. No. S 59/86.
+[Act 5 of 2014 wef 07/03/2014]
 
 In the Administration of Small Estates
 
@@ -547,3 +545,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|10 September 2012 (Bill No. 25/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|16 October 2012|
 ||Date of commencement|15 February 2013|
+|24.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
