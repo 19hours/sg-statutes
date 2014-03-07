@@ -562,7 +562,7 @@
 
 - [193 Saving of other rights and remedies](#Saving-of-other-rights-and-remedies)
 
-[**Part IXA WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM0**](#Part-IXA)
+[**Part IXA WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM**](#Part-IXA)
 
 - [193A Interpretation and effect of application of this Part](#Interpretation-and-effect-of-application-of-this-Part)
 
@@ -610,9 +610,9 @@
 
 - [202 Regulations](#Regulations)
 
-- [203 (Repealed)](#Repealed)
+- [203 (Omitted)](#Omitted)
 
-- [204 (Repealed)](#Repealed)
+- [204 (Omitted)](#Omitted)
 
 [**Part XI TRANSITIONAL**](#Part-XI)
 
@@ -672,7 +672,7 @@
 
 - [228 Limitation of actions](#Limitation-of-actions)
 
-- [229 (Repealed)](#Repealed)
+- [229 (Omitted)](#Omitted)
 
 - [230 References and applications to Tribunal in relation to licence schemes](#References-and-applications-to-Tribunal-in-relation-to-licence-schemes)
 
@@ -994,6 +994,8 @@ to cause a device having information processing capabilities to perform a partic
 
 “Copyright Tribunal” or “Tribunal” means any Copyright Tribunal established under Part VII;
 
+[23/2009 wef 31/12/2009]
+
 “digital audio transmission” means a transmission of a sound recording, in whole or in part, in a digital or other non-analogue form;
 
 “dramatic work” includes —
@@ -1187,8 +1189,6 @@ which is to be or has been conveyed by means of a telecommunication system;
 “work of joint authorship” means a work that has been produced by the collaboration of 2 or more authors and in which the contribution of each author is not separate from the contribution of the other author or the contributions of other authors;
 
 “writing” means a mode of representing or reproducing words, figures or symbols in a visible form, and “written” shall have a corresponding meaning.
-
-[23/2009 wef 31/12/2009]
 
 [14/94; 15/94; 6/98; 3/99; 38/99; 3/2001; 34/2002; 52/2004]
 
@@ -2448,7 +2448,7 @@ and includes, in relation to a work held in electronic form, any copying by elec
 
 [6/98]
 
-[UK CPD 1988, s. 32]
+[UK CPD 1988, s. 32]]
 
 ### Multiple copying or communication of insubstantial portions of works
 
@@ -3669,7 +3669,7 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 
 ### Temporary copy made in course of communication
 
-107E\.—(1) Subject to subsection (2), the copyright in an audio- visual item is not infringed by the making of a temporary or transient copy of the audio-visual item if —
+107E\.—(1) Subject to subsection (2), the copyright in an audio-visual item is not infringed by the making of a temporary or transient copy of the audio-visual item if —
 
 (a) the copy is made incidentally as part of the technical process of making or receiving a communication; and
 
@@ -5057,31 +5057,33 @@ COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS
 
 Interpretation of this Part
 
-143\. [Repealed byAct 21 of 2004]
+143\. [Repealed by Act 21 of 2004]
 
 Licence to produce and publish translations
 
-144\. [Repealed byAct 21 of 2004]
+144\. [Repealed by Act 21 of 2004]
 
 Licence to reproduce and publish works for certain purposes
 
-145\. [Repealed byAct 21 of 2004]
+145\. [Repealed by Act 21 of 2004]
 
 Licence for domestic broadcasting organisation
 
-146\. [Repealed byAct 21 of 2004]
+146\. [Repealed by Act 21 of 2004]
 
 Termination of licences granted under this Part
 
-147\. [Repealed byAct 21 of 2004]
+147\. [Repealed by Act 21 of 2004]
 
 Discontinuation of this Part
 
-148\. [Repealed byAct 21 of 2004]
+148\. [Repealed by Act 21 of 2004]
 
 ## PART VII
 
 COPYRIGHT TRIBUNALS
+
+[23/2009 wef 31/12/2009]
 
 Division 1 —
 
@@ -5185,9 +5187,11 @@ Constitution of Tribunal
 
 [23/2009 wef 31/12/2009]
 
-(2) No person shall be appointed as the president of the Tribunals unless he possesses the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
+(2) No person shall be appointed as the president of the Tribunals unless he possesses the qualifications required for a District Judge under section 9(3) of the State Courts Act (Cap. 321) or is a District Judge appointed under section 9(1) of that Act.
 
 [23/2009 wef 31/12/2009]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) No person shall be appointed as a deputy president of the Tribunals unless he is a qualified person (as defined in section 2 of the Legal Profession Act (Cap. 161)) of not less than 5 years’ standing.
 
@@ -6171,7 +6175,7 @@ where the reproduction was, or the reproductions were, to his knowledge, not mad
 
 ## PART IXA
 
-WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM0
+WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM
 
 ### Interpretation and effect of application of this Part
 
@@ -6201,7 +6205,7 @@ but does not include such person or class of persons as the Minister may prescri
 
 (b) has been developed through an open, voluntary process by a broad consensus of copyright owners and network service providers;
 
-(c) is available to any person on reasonable and non- discriminatory terms; and
+(c) is available to any person on reasonable and non-discriminatory terms; and
 
 (d) does not impose substantial costs on network service providers or substantial burdens on their primary networks.
 
@@ -6861,13 +6865,13 @@ of a copy of a sound recording or a cinematograph film bearing, or to which ther
 
 [22/2005]
 
-203\. \*[* (Omitted)]
+203\. \*[Omitted]
 
 \*This section repealed the U.K. Copyright Act 1911, the Copyright Act (Cap. 187, 1970 Ed.) and the Copyright (Gramophone Records and Government Broadcasting) Act (Cap. 188, 1970 Ed.).
 
-204\. +[+ (Omitted)]
+204\. †[Omitted]
 
-+This section repealed section 38 of the Singapore Broadcasting Corporation Act 1979 (Act 33 of 1979).
+†This section repealed section 38 of the Singapore Broadcasting Corporation Act 1979 (Act 33 of 1979).
 
 ## PART XI
 
@@ -7541,7 +7545,7 @@ being a live performance given in Singapore or by one or more qualified persons,
 
 ### Educational purposes
 
-247\. Without limiting the meaning of the expression “educational purposes” in paragraph (c) ofthe definition of “exempt recording” in section 246(1), a recording or a copy of such a recording, shall be taken to have been made for the educational purposes of an educational institution if it is made —
+247\. Without limiting the meaning of the expression “educational purposes” in paragraph (c) of the definition of “exempt recording” in section 246(1), a recording or a copy of such a recording, shall be taken to have been made for the educational purposes of an educational institution if it is made —
 
 (a) for use in connection with a particular course of instruction provided by the institution; or
 
@@ -7553,7 +7557,7 @@ being a live performance given in Singapore or by one or more qualified persons,
 
 ### Exempt recordings cease to be exempt recordings in certain circumstances
 
-248\.—(1) If any recording of a performance, being a recording that is an exempt recording under paragraph (j) ofthe definition of “exempt recording” in section 246(1), is not destroyed —
+248\.—(1) If any recording of a performance, being a recording that is an exempt recording under paragraph (j) of the definition of “exempt recording” in section 246(1), is not destroyed —
 
 (a) before the expiration of the period of 6 months or, in the case of a recording made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which the recording is first used for broadcasting the performance; or
 
@@ -7563,7 +7567,7 @@ the recording shall, at the end of that period, cease to be an exempt recording.
 
 [38/99]
 
-(2) If any copy of a recording of a performance, being an exempt recording under paragraph (m) ofthe definition of “exempt recording” in section 246(1), is not destroyed —
+(2) If any copy of a recording of a performance, being an exempt recording under paragraph (m) of the definition of “exempt recording” in section 246(1), is not destroyed —
 
 (a) before the expiration of the period of 6 months or, in the case of a copy made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which the copy is first used for broadcasting the performance; or
 
@@ -8291,7 +8295,7 @@ the article shall be returned to the person in whose possession it was when it w
 
 257\.—(1) If it appears to the Minister that the law of a country does not give adequate protection to performances given in that country by a citizen of Singapore or a person resident in Singapore (whether the lack of protection relates to the nature of the performance or the nationality, citizenship or country of residence of its performer, or all of those matters), the Minister may, having regard to the nature and extent of the lack of protection involved, make regulations in relation to that country in accordance with subsection (2).
 
-[6/98
+[6/98]
 
 (2) Regulations made for the purposes of this section may provide, either generally or in such cases as are specified in the regulations, that this Part shall not apply to performances given after a date specified in the regulations (which may be a date before 16th April 1998) if, at the time the performances were or are given, the performers were or are citizens or nationals of a country specified in the regulations, other than persons resident in Singapore.
 
@@ -8737,15 +8741,13 @@ for the sole purpose of achieving interoperability of an independently created c
 
 (h) the act is carried out by the Government or by any person authorised by the Government for the purpose of law enforcement, intelligence, national defence, essential security or other similar purpose.
 
-[30/2008 wef 17/12/2008]
-
 [52/2004]
 
 (2) The Minister may, by order published in theGazette, exclude the operation of section 261C(1)(a) in relation to a specified work or other subject-matter or performance, or a specified class of works or other subject-matters or performances, if he is satisfied that any dealing with the work, subject-matter or performance or with the class of works, subject-matters or performances, being a dealing which does not amount to an infringement of copyright therein or an unauthorised use thereof (as the case may be), has been or is likely to be adversely impaired or affected as a result of the operation of this section.
 
-[30/2008 wef 17/12/2008]
-
 [52/2004]
+
+[30/2008 wef 17/12/2008]
 
 (2A) The order referred to in subsection (2) may specify —
 
@@ -9170,7 +9172,7 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |13.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|1 October 2002|
-|||(Bill No. 37/2002 published on 2 October 2002)|
+|||(Bill No. 37/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 January 2003|
 |14.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
@@ -9210,6 +9212,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013|
+|22.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Copyright Act
