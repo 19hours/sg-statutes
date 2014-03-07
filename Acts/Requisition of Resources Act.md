@@ -154,9 +154,9 @@ PRELIMINARY
 
 “aircraft” means any flying machine whether propelled by mechanical means or not and includes any description of balloon;
 
-“armed forces” means any force constituted under the Singapore Armed Forces Act (Cap. 295);
+“armed forces” means any force constituted under the Singapore Armed Forces Act [Cap. 295];
 
-“civil defence force” means any force constituted under the Civil Defence Act (Cap. 42);
+“civil defence force” means any force constituted under the Civil Defence Act [Cap. 42];
 
 “Commissioner” means the Commissioner or an Assistant Commissioner of a Compensation Board appointed under section 30(2);
 
@@ -230,7 +230,7 @@ ADMINISTRATION
 
 ### Authorised officers deemed to be public servants
 
-6\. All authorised officers shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+6\. All authorised officers shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
 ### Authorised officer to declare his office
 
@@ -604,7 +604,9 @@ COMPENSATION BOARDS TO DETERMINE DISPUTES
 
 30\.—(1) For the purpose of determining disputes as to any entitlement to, or the quantum of, compensation payable under this Act for the requisition or acquisition of any property or services or for work or services performed or carried on the direction or order of the competent authority, there shall be constituted one or more Compensation Boards consisting of a Commissioner or an Assistant Commissioner of a Compensation Board and two other members selected by the Commissioner or Assistant Commissioner from the panel of members constituted in accordance with this section.
 
-(2) The Commissioner and an Assistant Commissioner of a Compensation Board shall be appointed by the Minister but no person shall be eligible for appointment unless he possesses the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
+(2) The Commissioner and an Assistant Commissioner of a Compensation Board shall be appointed by the Minister but no person shall be eligible for appointment unless he possesses the qualifications required for a District Judge under section 9(3) of the State Courts Act (Cap. 321) or is a District Judge appointed under section 9(1) of that Act.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) The Minister may appoint such number of Assistant Commissioners as he thinks fit.
 
@@ -632,7 +634,7 @@ COMPENSATION BOARDS TO DETERMINE DISPUTES
 
 ### Member of Compensation Board and proceedings deemed to be public servant and judicial proceedings respectively
 
-31\.—(1) Every member of a Compensation Board, when and so long as he is serving on the Compensation Board, shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224) and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
+31\.—(1) Every member of a Compensation Board, when and so long as he is serving on the Compensation Board, shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
 
 (2) All proceedings before the Compensation Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
 
@@ -816,7 +818,7 @@ Telephone conversation with employee or person in charge of place of business or
 
 Pager
 
-(e) be sending it by radio-communications pager transmission in the prescribed manner to the person to be served, one or more of the partners of the firm to be served or any director, manager or secretary of the company or corporation to be served; or
+(e) by sending it by radio-communications pager transmission in the prescribed manner to the person to be served, one or more of the partners of the firm to be served or any director, manager or secretary of the company or corporation to be served; or
 
 Facsimile transmission, telex and other means of telecommunication
 
@@ -868,7 +870,7 @@ Provided that there is an acknowledgment by electronic or any other means to the
 
 ### Vehicles used for the purposes of this Act
 
-42\.—(1) When Part III is in force, any person who is in possession of a certificate or document issued to him by a competent authority authorising him to drive or requisition a vehicle of a class or description specified in such certificate or document may drive any such vehicle requisitioned under this Act or hired for the purposes of the armed forces or the civil defence force and that certificate or document shall be deemed to be a driving licence for the purposes of section 35 of the Road Traffic Act (Cap. 276).
+42\.—(1) When Part III is in force, any person who is in possession of a certificate or document issued to him by a competent authority authorising him to drive or requisition a vehicle of a class or description specified in such certificate or document may drive any such vehicle requisitioned under this Act or hired for the purposes of the armed forces or the civil defence force and that certificate or document shall be deemed to be a driving licence for the purposes of section 35 of the Road Traffic Act [Cap. 276].
 
 (2) A person using any vehicle pursuant to a requisitioning order under this Act shall be deemed, as respects any claim in respect of injury or damage to any other person or property, to be so using the vehicle as an employee of the Government.
 
@@ -934,7 +936,7 @@ Requisition of Resources Act
 
 (CHAPTER 273)
 
-This Legislative History is provided for the convenience of users of the Requisition of Resources Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Requisition of Resources Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -962,3 +964,7 @@ This Legislative History is provided for the convenience of users of the Requisi
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 20008|
 ||Date of commencement|1 March 2010|
+|6.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
