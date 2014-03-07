@@ -1634,7 +1634,9 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (a) a Judge or the Registrar; or
 
-(b) a District Judge, a Magistrate, or the Registrar or a Deputy Registrar of the Subordinate Courts.
+(b) a District Judge, a Magistrate, or the Registrar or a Deputy Registrar of the State Courts.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) A qualified person in respect of whom an application under subsection (3) has been granted shall be entitled to appear in accordance with that subsection at any time during the period —
 
@@ -2952,7 +2954,9 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (d) convicted of an offence under section 33 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) or under any provision of this Act;
 
-(e) listed as a tout under section 62 of the Subordinate Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act (Cap. 322); or
+(e) listed as a tout under section 62 of the State Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act (Cap. 322); or
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (f) a person in respect of whom an order under subsection (4) has been made.
 
@@ -5079,13 +5083,15 @@ RECOVERY AND TAXATION OF COSTS
 
 “court” means the High Court, a Judge when sitting in open court or in chambers, a District Court or a Magistrate’s Court and includes the Registrar;
 
-“Registrar” means the Registrar of the Supreme Court or the Registrar of the Subordinate Courts, and includes —
+“Registrar” means the Registrar of the Supreme Court or the Registrar of the State Courts, and includes —
 
 (a) the Deputy Registrar of the Supreme Court;
 
 (b) an Assistant Registrar of the Supreme Court; and
 
-(c) a Deputy Registrar of the Subordinate Courts;
+(c) a Deputy Registrar of the State Courts;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation or a limited liability law partnership.
 
@@ -5153,9 +5159,11 @@ RECOVERY AND TAXATION OF COSTS
 
 (3) In any case where a solicitor and his client consent to taxation of a solicitor’s bill, the Registrar may proceed to tax the bill notwithstanding that there is no order therefor.
 
-(4) Section 39 of the Subordinate Courts Act (Cap. 321) shall not apply to proceedings brought under this section.
+(4) Section 39 of the State Courts Act (Cap. 321) shall not apply to proceedings brought under this section.
 
 [35/2001]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Costs of order for taxation
 
@@ -7115,6 +7123,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 June 2012 (sections 10. 11. 12 and 14)|
+|53.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014 (item (16) of the Schedule)|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
