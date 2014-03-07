@@ -116,15 +116,15 @@
 
 - [45 Power to enter on land adjacent to works](#Power-to-enter-on-land-adjacent-to-works)
 
-- [46 Penalty for obstructing Board in his duty](#Penalty-for-obstructing-Board-in-his-duty)
+- [46 Penalty for obstructing Board in its duty](#Penalty-for-obstructing-Board-in-its-duty)
 
 - [46A Making of false statements, etc.](#Making-of-false-statements-etc)
 
 - [47 Appeal to Minister against notices, orders, directions, etc.](#Appeal-to-Minister-against-notices-orders-directions-etc)
 
-[**Part VIII COMPENSATION, DAMAGES, fees, cOSTS and expenses**](#Part-VIII)
+[**Part VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-VIII)
 
-- [48 Compensation, damages, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
+- [48 Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
 
 - [49 Occupier may execute work where owner defaults in execution of work](#Occupier-may-execute-work-where-owner-defaults-in-execution-of-work)
 
@@ -168,7 +168,7 @@
 
 - [67A Liability for offence committed by agent or employee](#Liability-for-offence-committed-by-agent-or-employee)
 
-- [68 Jurisdiction of Courts](#Jurisdiction-of-Courts)
+- [68 Jurisdiction of court](#Jurisdiction-of-court)
 
 - [69 Saving of prosecutions under other written laws](#Saving-of-prosecutions-under-other-written-laws)
 
@@ -236,7 +236,9 @@ PRELIMINARY
 
 “industrial water” means any water reclaimed from the sewage treatment works for use in industries that do not require high grade potable water;
 
-“Magistrate’s Court limit” has the same meaning as in the Subordinate Courts Act (Cap. 321);
+“Magistrate’s Court limit” has the same meaning as in the State Courts Act (Cap. 321);
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “occupier”, in relation to any premises, includes any person having the charge, management or control of the premises or any part thereof;
 
@@ -476,7 +478,7 @@ SEWERAGE
 
 (7) No compensation shall be payable for any premises that are vested in the Government under this section.
 
-(8) Where any premises are vested in the Government under this section, the Board may take possession of the premises and proceed to demolish and remove any building or portion of any building forming part thereof.
+(8) When any premises are vested in the Government under this section, the Board may take possession of the premises and proceed to demolish and remove any building or portion of any building forming part thereof.
 
 [9
 
@@ -488,7 +490,7 @@ SEWERAGE
 
 [8/2001]
 
-(2) Before the Board makes a declaration under subsection (1), it shall give a notice in writing of his intention to do so to the owner of the sewer in question.
+(2) Before the Board makes a declaration under subsection (1), it shall give notice in writing of its intention to do so to the owner of the sewer in question.
 
 [8/2001]
 
@@ -794,15 +796,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) to immediately cease the discharge of such substance or trade effluent into the public sewerage system or the drain-line or sewer communicating with a public sewerage system;
 
-[Act 10 of 2012 wef 01/09/2012]
-
 (b) to take such steps as may be specified in the order to treat the substance or trade effluent which is complained of; and
 
-[Act 10 of 2012 wef 01/09/2012]
-
 (c) to immediately cease the carrying on of any process or work which produces the substance or trade effluent, either indefinitely or until such steps as are specified in the order have been taken to treat the substance or trade effluent before it is discharged into the public sewerage system or the drain-line or sewer communicating with a public sewerage system.
-
-[8/2001]
 
 [Act 10 of 2012 wef 01/09/2012]
 
@@ -858,7 +854,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “mobile toilet” means a sanitary convenience which is not part of a sewerage system, including a sanitary convenience which is mobile or in a conveyance.
 
-[19]
+[19
 
 ### Restrictions on use of public sewerage system
 
@@ -934,7 +930,7 @@ DRAINAGE
 
 [8/2001]
 
-(2) Before the Board makes a declaration under subsection (1), it shall give notice of his intention to do so to the owner of the drain in question.
+(2) Before the Board makes a declaration under subsection (1), it shall give notice of its intention to do so to the owner of the drain in question.
 
 [8/2001]
 
@@ -952,7 +948,7 @@ DRAINAGE
 
 (6) Where a declaration has been made in respect of a private drain under this section, the Board —
 
-(a) shall maintain the drain and, if he sees fit, enlarge, alter or otherwise improve such drain; and
+(a) shall maintain the drain and, if it sees fit, enlarge, alter or otherwise improve such drain; and
 
 (b) may discontinue, close up or destroy such drain as it thinks necessary as if it is a drain constructed by the Board.
 
@@ -998,7 +994,7 @@ DRAINAGE
 
 (c) erect, construct or lay within any drainage reserve any fence, retaining wall, foundation, manhole, pipe, cable mains or any obstruction or structure (whether temporary or permanent),
 
-without obtaining in respect of those works, a clearance certificate or the approval of the Board under section 33.
+without obtaining in respect of those works a clearance certificate or the approval of the Board under section 33.
 
 [8/2001]
 
@@ -1212,7 +1208,7 @@ REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
 ### Certificates or approval required for works
 
-33\.—(1) Every application for a clearance certificate or for the approval of the Board for the purposes of section 11, 14, 23, 24 or 26, shall be made in such form and manner as the Board may require.
+33\.—(1) Every application for a clearance certificate or for the approval of the Board for the purposes of section 11, 14, 23, 24 or 26 shall be made in such form and manner as the Board may require.
 
 [8/2001]
 
@@ -1422,7 +1418,7 @@ ENFORCEMENT
 
 ### Appeal against notice
 
-42\.—(1) Where a person is aggrieved by a notice, referred to in section 26(4)(a) or 41(1) served on him —
+42\.—(1) Where a person is aggrieved by a notice referred to in section 26(4)(a) or 41(1) served on him —
 
 (a) he may, within 14 days from the date of service of the notice and in the prescribed form and manner, appeal to the Minister; and
 
@@ -1460,7 +1456,7 @@ the Minister may authorise the Board immediately to execute the work.
 
 ### Board may act in cases of emergency
 
-43\. Where the Board considers it necessary in the case of an emergency, the Board may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in his opinion necessary for the service and safety of the public.
+43\. Where the Board considers it necessary in the case of an emergency, the Board may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in its opinion necessary for the service and safety of the public.
 
 [44
 
@@ -1536,7 +1532,7 @@ without making any previous payment, tender or deposit and doing as little damag
 
 [8/2001]
 
-### Penalty for obstructing Board in his duty
+### Penalty for obstructing Board in its duty
 
 46\. Any person who —
 
@@ -1590,7 +1586,7 @@ shall be guilty of an offence.
 
 [Act 10 of 2012 wef 01/09/2012]
 
-(d) a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26, or 30.
+(d) a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26 or 30.
 
 [48
 
@@ -1601,9 +1597,9 @@ COMPENSATION, DAMAGES,
 
 
 
-fees, cOSTS and expenses
+FEES, COSTS AND EXPENSES
 
-### Compensation, damages, costs and expenses to be determined by Magistrate’s Court or District Court
+### Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court
 
 48\.—(1) Except as otherwise provided, in all cases where compensation, damages, fees, costs or expenses are provided under this Act to be paid, the amount and, if necessary, the apportionment of the amount and any question of liability shall, in case of dispute, or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount claimed exceeds the Magistrate’s Court limit, by a District Court.
 
@@ -1613,7 +1609,7 @@ fees, cOSTS and expenses
 
 (b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
-(c) where those expenses were incurred under section 41(1)(b)section 26(6) or 41(1)(b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
+(c) where those expenses were incurred under section 26(6) or 41(1)(b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
 
 [8/2001]
 
@@ -1681,11 +1677,11 @@ fees, cOSTS and expenses
 
 ### Proceedings for recovery of arrears
 
-52\.—(1) For the recovery of arrears the Board shall have and may exercise, either successively or concurrently, in addition to any other remedies conferred by this Act, the following powers:
+52\.—(1) For the recovery of arrears, the Board shall have and may exercise, either successively or concurrently, in addition to any other remedies conferred by this Act, the following powers:
 
 (a) the Board may issue a warrant of attachment and may seize by virtue thereof any movable property and crops of any person liable to pay the arrears and may also seize any movable property or crops to whomever it belongs which are found on the premises in respect of which the arrears are due and may, after service of the prescribed notice, sell the same by public auction in any prescribed manner;
 
-(b) the Board may, by notice of sale to be served or published in the prescribed manner, declare his intention to sell, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Board may sell by public auction, in lots or otherwise, the whole of the premises or such portion thereof or such interest therein as he considers sufficient for the recovery of the arrears and costs.
+(b) the Board may, by notice of sale to be served or published in the prescribed manner, declare its intention to sell, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Board may sell by public auction, in lots or otherwise, the whole of the premises or such portion thereof or such interest therein as it considers sufficient for the recovery of the arrears and costs.
 
 [8/2001]
 
@@ -1771,7 +1767,7 @@ fees, cOSTS and expenses
 
 ### Power to stop sale
 
-57\. If any person having any interest in any property liable to be sold at any time previous to such sale tenders to the Board the arrears with interest and costs, the Board hall thereupon desist from all further proceedings in respect of the sale.
+57\. If any person having any interest in any property liable to be sold at any time previous to such sale tenders to the Board the arrears with interest and costs, the Board shall thereupon desist from all further proceedings in respect of the sale.
 
 [58
 
@@ -1829,7 +1825,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Service of notices, etc.
 
-62\.—(1) Every notice, order or document required by or authorised by this Act to be served on any person may be served —
+62\.—(1) Every notice, order or document required or authorised by this Act to be served on any person may be served —
 
 (a) by delivering it to that person or by delivering it at the last known place of residence of that person to some adult member of his family or his employee;
 
@@ -1837,9 +1833,9 @@ MISCELLANEOUS PROVISIONS
 
 (c) by forwarding it by post in a prepaid letter addressed to that person at his usual or last known place of residence or place of business.
 
-(2) A notice, order or document required by or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
+(2) A notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
 
-(3) A notice, order or document required by or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
+(3) A notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises.
 
 (4) A notice, order or document required by or authorised by this Act to be served on any body corporate may be served —
 
@@ -1885,7 +1881,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Evidence of analyst
 
-66\.—(1) The Board may appoint persons who in its opinion are qualified to be analyst for the purposes of this Act.
+66\.—(1) The Board may appoint persons who in its opinion are qualified to be analysts for the purposes of this Act.
 
 [8/2001]
 
@@ -1911,7 +1907,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 10 of 2012 wef 01/09/2012]
 
-### Jurisdiction of Courts
+### Jurisdiction of court
 
 68\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have power to impose the full punishment in respect of any offence under this Act.
 
@@ -1925,7 +1921,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-70\.—(1) The Board may, in his discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
+70\.—(1) The Board may, in its discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
 
 [8/2001]
 
@@ -2015,7 +2011,7 @@ Sewerage and Drainage Act
 
 (CHAPTER 294)
 
-This Legislative History is provided for the convenience of users of the Sewerage and Drainage Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sewerage and Drainage Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2024,7 +2020,7 @@ This Legislative History is provided for the convenience of users of the Sewerag
 |||(Bill No. 3/99 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 April 1999|
-|2.|**2000 Revised Edition—Sewerage and Drainage Act**|
+|2.|**2000 Revised Edition—Sewerage and Drainage Act (Cap. 293A)**|
 ||Date of operation|30 December 2000|
 |3.|**Act 8 of 2001—Public Utilities Act 2001**|
 ||(Consequential amendments made by)||
@@ -2058,6 +2054,12 @@ This Legislative History is provided for the convenience of users of the Sewerag
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 February 2013|
 |||(sections 32, 34, 35 and 36(1))|
+|9.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
+|||(item (21) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
