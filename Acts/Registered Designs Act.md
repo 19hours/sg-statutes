@@ -196,7 +196,7 @@
 
 - [72 Certificate of Registrar](#Certificate-of-Registrar)
 
-- [73 Fees to be paid to Office](#Fees-to-be-paid-to-Office)
+- [73 Fees](#Fees)
 
 - [74 General power to make rules](#General-power-to-make-rules)
 
@@ -271,6 +271,10 @@ PRELIMINARY
 “designer”, in relation to a design, means the person who creates it or, if there are 2 or more such persons, each of those persons;
 
 “exclusive licence” means a licence from the registered owner of a registered design authorising the licensee, or the licensee and persons authorised by him, to the exclusion of all other persons (including the registered owner), to use the design in the manner authorised by the licence and “exclusive licensee” shall be construed accordingly;
+
+“International Bureau” means the International Bureau of the World Intellectual Property Organisation;
+
+[Act 16 of 2012 wef 07/03/2014]
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
 
@@ -1520,7 +1524,7 @@ THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC
 
 “Geneva Act of the Hague Agreement” means the Act, signed at Geneva on 2nd July 1999, of the Hague Agreement Concerning the International Registration of Industrial Designs;
 
-“International Bureau” means the International Bureau of the World Intellectual Property Organisation;
+[Deleted by Act 16 of 2012 wef 07/03/2014]
 
 “international design (Singapore)” means —
 
@@ -1618,11 +1622,15 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 [Trade Marks 1999 Ed., s. 103]
 
-### Fees to be paid to Office
+### Fees
 
-73\. All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+73\.—(1) There shall be paid in respect of applications, registrations and other matters under this Act such fees as may be prescribed.
 
-[3/2001]
+(2) All fees collected shall be paid into the funds of the Office.
+
+(3) Subsection (2) shall not apply to fees prescribed in rules made under section 64A(2)(e) which are to be forwarded to the International Bureau.
+
+[Act 16 of 2012 wef 07/03/2014]
 
 ### General power to make rules
 
@@ -1914,6 +1922,10 @@ This Legislative History is provided for the convenience of users of the Registe
 ||Date of commencement|1 January 2005|
 |7.|**2005 Revised Edition—Registered Designs Act**|
 ||Date of operation|31 July 2005|
+|8.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 14/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|7 March 2014|
 ## COMPARATIVE TABLE
 
 Registered Designs Act
