@@ -280,9 +280,11 @@ on such terms and conditions as the Minister may determine.
 
 [37/2010 wef 15/03/2011]
 
-(3) The President and every deputy President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321].
+(3) The President and every deputy President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the State Courts Act or be a District Judge appointed under section 9(1) of that Act [Cap. 321].
 
 [37/2010 wef 15/03/2011]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3A) A deputy President of the Tribunal shall have and may exercise and perform all the powers, duties and functions of the President of the Tribunal conferred by this Act, subject to such limitations as the President may think fit to impose.
 
@@ -549,3 +551,8 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 22/2011 published on 22 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (except sections 26 and 29)|
+|6.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
