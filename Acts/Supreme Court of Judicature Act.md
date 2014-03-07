@@ -256,9 +256,11 @@ PRELIMINARY
 
 “seal” includes stamp;
 
-“subordinate court” means a court constituted under the Subordinate Courts Act (Cap. 321) and any other court, tribunal or judicial or quasi-judicial body from the decisions of which under any written law there is a right of appeal to the Supreme Court.
+“subordinate court” means a court constituted under the State Courts Act (Cap. 321) and any other court, tribunal or judicial or quasi-judicial body from the decisions of which under any written law there is a right of appeal to the Supreme Court.
 
 [58/73; 16/93; 3/96]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ## PART II
 
@@ -1734,6 +1736,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 1/2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 April 2012 (section 15 — amendment of Supreme Court of Judicature Act)|
+|29.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential or related amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Dates of commencement|7 March 2014 (section 11(7)(a) — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
