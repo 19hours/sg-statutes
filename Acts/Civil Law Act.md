@@ -62,7 +62,7 @@
 
 - [28 No person chargeable with rent bona fide paid to holder under defective title](#No-person-chargeable-with-rent-bona-fide-paid-to-holder-under-defective-title)
 
-- [29 Rules to apply to subordinate courts](#Rules-to-apply-to-subordinate-courts)
+- [29 Rules to apply to State Courts](#Rules-to-apply-to-State-Courts)
 
 - [30 Presumption of survivorship in regard to claim to property](#Presumption-of-survivorship-in-regard-to-claim-to-property)
 
@@ -78,7 +78,7 @@
 
 - [36 Legal proceedings and actions by minors who have attained 18 years of age](#Legal-proceedings-and-actions-by-minors-who-have-attained-18-years-of-age)
 
-[**THE SCHEDULE Legal Proceedings and Actions to Which Section 36 Applies**](#THE-SCHEDULE)
+[**THE SCHEDULE Legal Proceedings and Actions to which Section 36 Applies**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -824,7 +824,7 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 (a) where a right to the estate of any person who dies (whether before, on or after the date of commencement of section 2 of the Civil Law (Amendment) Act 2012) intestate without next-of-kin has accrued to the Government; or
 
-(b) where a right to the property of any person who dies (whether before, on or after the date of commencement of section 2 of the Civil Law (Amendment) Act 2012) has accrued to the Government as a result of disposal under such written law as the Minister may, by order published in the Gazette, prescribe for the purposes of this section.
+(b) where a right to the property of any person who dies (whether before, on or after the date of commencement of section 2 of the Civil Law (Amendment) Act 2012) has accrued to the Government as a result of disposal under such written law as the Minister may, by order published in theGazette, prescribe for the purposes of this section.
 
 (2) Where a right to any estate or property upon the death of a person as mentioned in subsection (1) has accrued to the Government, such estate, property or part thereof that is not land, or where such estate or property or part thereof is land and that land is sold, its proceeds, shall form part of the Consolidated Fund.
 
@@ -874,11 +874,13 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 [19
 
-### Rules to apply to subordinate courts
+### Rules to apply to State Courts
 
-29\. The rules of law enacted in this Act and declared shall with the necessary modifications be, and shall, so far as they were already in force in Singapore, be deemed to have been, in force in the subordinate courts so far as the matters to which such rules relate are respectively cognizable by such courts.
+29\. The rules of law enacted in this Act and declared shall with the necessary modifications be, and shall, so far as they were already in force in Singapore, be deemed to have been, in force in the State Courts so far as the matters to which such rules relate are respectively cognizable by such courts.
 
 [20
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Presumption of survivorship in regard to claim to property
 
@@ -889,8 +891,6 @@ but is not broken by a temporary grant of administration if probate is subsequen
 ### Accumulation of income
 
 31\.—(1) Income arising from a settlement or disposition of property made on or after the date of commencement of the Trustees (Amendment) Act 2004 may, subject to the terms of the settlement or disposition to the contrary, be accumulated for the duration of the settlement or disposition.
-
-[45/2004 wef 15/12/2004]
 
 (2) Except as otherwise provided in subsection (4), income arising from a settlement or disposition of property made before the date of commencement of the Trustees (Amendment) Act 2004 shall not be wholly or partially accumulated for any longer period than one of the following, namely:
 
@@ -906,11 +906,7 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 (f) the duration of the minority or respective minorities of any person or persons in being at the date of the making of the disposition.
 
-[45/2004 wef 15/12/2004]
-
 (3) In every case where any accumulation is directed otherwise than in accordance with subsection (2), the direction shall, except as otherwise provided in subsection (4), be void, and the income of the property directed to be accumulated shall, so long as the same is directed to be accumulated contrary to this section, go to and be received by the person or persons who would have been entitled thereto if such accumulation had not been directed.
-
-[45/2004 wef 15/12/2004]
 
 (4) Subsections (2) and (3) do not extend to any provision —
 
@@ -930,11 +926,7 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 32\.—(1) In the rule against perpetuities as is applicable to any settlement or disposition of property, the perpetuity period shall be 100 years or such shorter period as may be specified in the instrument by which the settlement or disposition is made.
 
-[45/2004 wef 15/12/2004]
-
 (2) Where any instrument making any settlement or disposition of property refers to lives in being or specifies a perpetuity period that exceeds 100 years, the perpetuity period shall be deemed to be a period of 100 years.
-
-[45/2004 wef 15/12/2004]
 
 (3) This section shall apply in relation to —
 
@@ -952,8 +944,6 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 (b) it could, at all times during its currency when that person is of full age and capacity, be exercised by him so as immediately to transfer to himself the whole of the interest governed by the power without the consent of any other person or compliance with any other condition, not being a formal condition relating only to the mode of exercise of the power.
 
-[45/2004 wef 15/12/2004]
-
 (2) For the purpose of determining whether a disposition made under a power of appointment exercisable by will only is void for remoteness, the power shall be treated as a general power where it would have fallen to be so treated if exercisable by deed.
 
 [45/2004 wef 15/12/2004]
@@ -962,15 +952,9 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 34\.—(1) Where, apart from the provisions of this section, a disposition would be invalid as infringing the rule against perpetuities, the disposition shall be treated, until such time (if any) as it becomes certain that the vesting will occur, if at all, after the end of the perpetuity period, as if the disposition were not invalid as infringing the rule against perpetuities, and its becoming so certain shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income, or otherwise.
 
-[45/2004 wef 15/12/2004]
-
 (2) Where, apart from the provisions of this section, a disposition consisting of the conferring of a general power of appointment would be invalid as infringing the rule against perpetuities, the disposition shall be treated, until such time (if any) as it becomes certain that the power will not be exercisable within the perpetuity period, as if the disposition were not invalid as infringing the rule against perpetuities.
 
-[45/2004 wef 15/12/2004]
-
 (3) Where, apart from the provisions of this section, a disposition consisting of the conferring of any power, option, or other right would be invalid as infringing the rule against perpetuities, the disposition shall be treated as regards any exercise of the right within the perpetuity period as if it were not so invalid and, subject to the provisions of this section, shall be treated as invalid as infringing the rule against perpetuities only if and so far as the right is not fully exercised within that period.
-
-[45/2004 wef 15/12/2004]
 
 (4) This section shall apply only in relation to dispositions made on or after the date of commencement of the Trustees (Amendment) Act 2004.
 
@@ -980,19 +964,13 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 35\.—(1) Except as otherwise provided by this section or by any other written law, as from the appointed day, a contract entered into by a minor who has attained the age of 18 years shall have effect as if he were of full age.
 
-[7/2009 wef 01/03/2009]
-
 (2) Where a minor has, on the appointed day, already attained the age of 18 years, subsection (1) shall apply to him and to contracts entered into by him on and after that day.
-
-[7/2009 wef 01/03/2009]
 
 (3) Subsection (1) shall not affect or alter —
 
 (a) a minor’s lack of capacity to enter into contracts arising from reasons other than because of his age; or
 
 (b) the application of any provision in any other written law stipulating a requirement as to the attainment of a particular age for the purposes of that written law.
-
-[7/2009 wef 01/03/2009]
 
 (4) The following contracts, if entered into by a minor who has attained the age of 18 years, shall not, by virtue of subsection (1), have effect as if he were of full age:
 
@@ -1008,23 +986,15 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 (ii) any claim from which any such legal proceedings or action may arise.
 
-[7/2009 wef 01/03/2009]
-
 (5) Subsection (1) does not entitle —
 
 (a) a trustee to pay money or deliver property to a minor who has attained the age of 18 years otherwise than in accordance with the terms of the trust; or
 
 (b) a minor who has attained the age of 18 years to enter into a contract whereby a trust is extinguished or the terms of a trust are varied, and any such contract entered into by the minor shall not, by virtue of that subsection, have effect as if the minor were of full age.
 
-[7/2009 wef 01/03/2009]
-
 (6) Nothing in this section shall apply to or affect any contract that was made before the appointed day, and the law in force immediately before that day shall continue to apply in relation to such a contract as if this section had not been enacted.
 
-[7/2009 wef 01/03/2009]
-
 (7) Nothing in this section shall limit or affect the rule of law whereby a minor is not liable in tort for procuring a contract by means of fraudulent representations as to his own age or any other matter.
-
-[7/2009 wef 01/03/2009]
 
 (8) In this section, “appointed day” means the date of commencement of section 6 of the Civil Law (Amendment) Act 2009.
 
@@ -1037,8 +1007,6 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 (a) may, in his own name and without a litigation representative, bring, defend, conduct or intervene in any legal proceeding or action specified in the Schedule as if he were of full age; and
 
 (b) shall not be considered to be a person under disability on account of his age for the purpose of any such legal proceeding or action or for the purpose of any written law regulating the limitation of actions.
-
-[7/2009 wef 01/03/2009]
 
 (2) The Minister may, at any time, by order published in theGazette, amend the Schedule.
 
@@ -1053,7 +1021,7 @@ Legal Proceedings and Actions
 
 
 
-to Which Section 36 Applies
+to which Section 36 Applies
 
 1\. Any legal proceeding or action arising from or in connection with a contract to which the minor is a party and which, by virtue of section 35, has effect as if the minor were of full age.
 
@@ -1075,8 +1043,6 @@ to Which Section 36 Applies
 
 (b) any legal proceeding or action arising from or in connection with his acting as a person responsible for the management of such business (as defined in section 2(1) of that Act).
 
-[7/2009 wef 01/03/2009]
-
 5. Where the minor carries on business in Singapore as a limited partnership registered under the Limited Partnerships Act 2008 (Act 37 of 2008) (whether as a general partner or a limited partner) —
 
 (a) any legal proceeding or action arising from or in connection with his carrying on of such business; or
@@ -1085,13 +1051,15 @@ to Which Section 36 Applies
 
 [S 192/2009 wef 04/05/2009]
 
+[7/2009 wef 01/03/2009]
+
 ## LEGISLATIVE HISTORY
 
 Civil Law Act
 
 (CHAPTER 43)
 
-This Legislative History is provided for the convenience of users of the Civil Law Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Civil Law Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1193,8 +1161,7 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of First Reading|11 July 1997|
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
-||Date of commencement|1 October 1997|
-|||(Except section 3)|
+||Date of commencement|1 October 1997 (except section 3)|
 |23.|**Act 45 of 1998—Civil Law (Amendment) Act 1998**|
 ||Date of First Reading|12 October 1998|
 |||(Bill No. 41/98 published on 13 October 1998)|
@@ -1245,6 +1212,13 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 25/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|16 October 2012|
 ||Date of commencement|15 February 2013|
+|33.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
+|||(Item (1) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Civil Law Act
