@@ -262,7 +262,9 @@ ADMINISTRATION
 
 ### Delegation by Registrar
 
-6\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Plant Varieties so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+6\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Plant Varieties or any public officer so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+
+[Act 16 of 2012 wef 07/03/2014]
 
 (2) A delegation under this section is revocable at will and no delegation shall prevent the exercise of a power or function by the Registrar or by any Deputy Registrar of Plant Varieties.
 
@@ -1253,7 +1255,10 @@ This Legislative History is provided for the convenience of users of the Plant V
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 14/2006 published on 16 February 2007)|
 ||Date of Second and Third Readings|22 January 2007|
-||Dates of commencement|Date of coming into operation: 1st March 2007 with the exception of Sections 6, 8 and 11 Section 6 shall come into operation on 1st April 2007|
-|||Sections 8 and 11 shall come into operation on 2nd May 2007.|
+||Dates of commencement|1 March 2007|
 |4.|**G.N. No. S 743/2013—Plant Varieties Protection Act (Amendment of Schedule) Notification 2013**|
 ||Date of commencement|9 December 2013|
+|5.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 14/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|7 March 2014|
