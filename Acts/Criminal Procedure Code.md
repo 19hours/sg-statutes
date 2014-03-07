@@ -20,13 +20,13 @@
 
 - [6 Where no procedure is provided](#Where-no-procedure-is-provided)
 
-[**Part II CRIMINAL JURISDICTION OF SUBORDINATE COURTS**](#Part-II)
+[**Part II CRIMINAL JURISDICTION OF STATE COURTS**](#Part-II)
 
 - [7 Criminal jurisdiction of Magistrates’ Courts](#Criminal-jurisdiction-of-Magistrates’-Courts)
 
 - [8 Criminal jurisdiction of District Courts](#Criminal-jurisdiction-of-District-Courts)
 
-- [9 Enlargement of jurisdiction of Subordinate Courts](#Enlargement-of-jurisdiction-of-Subordinate-Courts)
+- [9 Enlargement of jurisdiction of State Courts](#Enlargement-of-jurisdiction-of-State-Courts)
 
 - [10 Consent required for prosecution of certain offences](#Consent-required-for-prosecution-of-certain-offences)
 
@@ -362,7 +362,7 @@
 
 - [156 Absence of accused](#Absence-of-accused)
 
-[**Part IX PRE-TRIAL PROCEDURES IN THE SUBORDINATE COURTS**](#Part-IX)
+[**Part IX PRE-TRIAL PROCEDURES IN THE STATE COURTS**](#Part-IX)
 
 [**Division 1  General matters**](#Division-1--General-matters)
 
@@ -940,9 +940,9 @@
 
 - [399 Opinion on case stated](#Opinion-on-case-stated)
 
-[**Division 3  Revision of proceedings before Subordinate Courts**](#Division-3--Revision-of-proceedings-before-Subordinate-Courts)
+[**Division 3  Revision of proceedings before State Courts**](#Division-3--Revision-of-proceedings-before-State-Courts)
 
-- [400 Power to call for records of Subordinate Courts](#Power-to-call-for-records-of-Subordinate-Courts)
+- [400 Power to call for records of State Courts](#Power-to-call-for-records-of-State-Courts)
 
 - [401 Powers of High Court on revision](#Powers-of-High-Court-on-revision)
 
@@ -1134,17 +1134,25 @@ PRELIMINARY
 
 (b) any corporation, authority, board, council, commission, office or other body established by or under any public Act for a public purpose;
 
-“Registrar of the Subordinate Courts” includes a Deputy Registrar of the Subordinate Courts;
+“Registrar of the State Courts” includes a Deputy Registrar of the State Courts;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “Registrar of the Supreme Court” includes the Deputy Registrar and an Assistant Registrar of the Supreme Court;
 
 “repealed Code” means the Criminal Procedure Code (Cap. 68, 1985 Ed.) repealed by this Code;
 
-“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge of the Supreme Court, the Registrar of the Supreme Court, the Registrar of the Subordinate Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
+“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge of the Supreme Court, the Registrar of the Supreme Court, the Registrar of the State Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
+
+[Act 5 of 2014 wef 07/03/2014]
+
+“State Court” means any court constituted under the State Courts Act (Cap. 321) for the administration of criminal justice;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 “stolen property” has the same meaning as in section 410 of the Penal Code (Cap. 224);
 
-“Subordinate Court” means any court constituted under the Subordinate Courts Act (Cap. 321) for the administration of criminal justice;
+[Deleted by Act 5 of 2014 wef 07/03/2014]
 
 “travel document” means a passport and includes any document issued by any State (including Singapore) or territory for the purpose of facilitating travel by the holder thereof;
 
@@ -1238,7 +1246,9 @@ PRELIMINARY
 
 ## PART II
 
-CRIMINAL JURISDICTION OF SUBORDINATE COURTS
+CRIMINAL JURISDICTION OF STATE COURTS
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Criminal jurisdiction of Magistrates’ Courts
 
@@ -1268,7 +1278,7 @@ CRIMINAL JURISDICTION OF SUBORDINATE COURTS
 
 (2) Every District Court shall have in the exercise of its jurisdiction all the powers of a Magistrate’s Court.
 
-### Enlargement of jurisdiction of Subordinate Courts
+### Enlargement of jurisdiction of State Courts
 
 9\.—(1) Where an offence is triable by a District Court but not by a Magistrate’s Court, the Public Prosecutor may in writing authorise a Magistrate’s Court in any particular case to try the offence.
 
@@ -1287,6 +1297,8 @@ CRIMINAL JURISDICTION OF SUBORDINATE COURTS
 (c) if the Public Prosecutor applies to the District Court to try such offence, and the accused consents, or if more than one are charged together with the same offence, all such accused persons consent.
 
 (4) Nothing in this section shall be construed as enlarging the power conferred on the Magistrate’s Court or District Court under section 303.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Consent required for prosecution of certain offences
 
@@ -1355,7 +1367,9 @@ as the case may be.
 
 (7) No person shall appear on behalf of the Public Prosecutor in any criminal appeal, or any case stated or criminal reference under Division 2 of Part XX, other than the Solicitor-General, a Deputy Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
 
-(8) Subject to subsections (9) and (10), any proceeding relating to a criminal matter before a Subordinate Court must be conducted only by the Public Prosecutor, the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or any other person authorised under subsection (5).
+(8) Subject to subsections (9) and (10), any proceeding relating to a criminal matter before a State Court must be conducted only by the Public Prosecutor, the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or any other person authorised under subsection (5).
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (9) An officer of a public body, or an advocate acting on behalf of that public body, may with the authorisation of the Public Prosecutor, conduct any prosecution in summary cases before a Magistrate’s Court.
 
@@ -2555,7 +2569,9 @@ the person must be released on bail by a police officer in cases determined by t
 
 ### High Court’s powers to grant or vary bail
 
-97\.—(1) Whether there is an appeal against conviction or not, the High Court may grant bail to any accused before it, release him on personal bond or vary the amount or conditions of the bail or personal bond required by a police officer or a Subordinate Court, and impose such other conditions for the bail or personal bond as it thinks fit.
+97\.—(1) Whether there is an appeal against conviction or not, the High Court may grant bail to any accused before it, release him on personal bond or vary the amount or conditions of the bail or personal bond required by a police officer or a State Court, and impose such other conditions for the bail or personal bond as it thinks fit.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) At any stage of any proceeding under this Code, the High Court may cause any person released under this section to be arrested and may commit him to custody.
 
@@ -3368,7 +3384,9 @@ the court may either proceed ex parte to hear and determine the complaint or may
 
 ## PART IX
 
-PRE-TRIAL PROCEDURES IN THE SUBORDINATE COURTS
+PRE-TRIAL PROCEDURES IN THE STATE COURTS
+
+[Act 5 of 2014 wef 07/03/2014]
 
 Division 1 —
 
@@ -4200,7 +4218,9 @@ shall not be communicated to any other person by the accused, and if the accused
 
 (4) Any person who acts in contravention of any order under subsection (1) or any condition imposed by the relevant judge under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(5) The “relevant judge” referred to in this section means a District Judge, Magistrate, the Registrar of the Subordinate Courts or the Registrar of the Supreme Court, as the case may be, conducting a criminal case disclosure conference under Part IX or X.
+(5) The “relevant judge” referred to in this section means a District Judge, Magistrate, the Registrar of the State Courts or the Registrar of the Supreme Court, as the case may be, conducting a criminal case disclosure conference under Part IX or X.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Restrictions on reports of restricted information
 
@@ -4242,11 +4262,15 @@ When accused pleads guilty electronically
 
 (2) To plead guilty electronically, the accused must —
 
-(a) enter a plea of guilty at a computer terminal designated by the Registrar of the Subordinate Courts for that purpose within the prescribed time; and
+(a) enter a plea of guilty at a computer terminal designated by the Registrar of the State Courts for that purpose within the prescribed time; and
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) pay in advance the fine fixed by the supervising Magistrate as the sentence to be imposed on an accused who pleads guilty electronically to that offence.
 
-(3) The Registrar of the Subordinate Courts must, within a reasonable time after the accused has entered the plea and paid the fine, send to the supervising Magistrate a record of the guilty plea and of the fine paid.
+(3) The Registrar of the State Courts must, within a reasonable time after the accused has entered the plea and paid the fine, send to the supervising Magistrate a record of the guilty plea and of the fine paid.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) When the supervising Magistrate is satisfied that the fine fixed under subsection (2)(b) has been paid, he shall convict the accused of the prescribed offence in the accused’s absence and record the fine paid as the sentence passed for that offence.
 
@@ -4450,7 +4474,9 @@ the Public Prosecutor may, if he thinks fit, inform the court that he will not f
 
 (2) Except in cases referred to in section 147, a discharge under subsection (1) shall not amount to an acquittal unless the court so directs.
 
-(3) Where an accused had previously been granted a discharge not amounting to an acquittal by a Magistrate’s Court or District Court in relation to an offence triable in the Subordinate Courts, any Magistrate’s Court or District Court, as the case may be, may grant the accused a discharge amounting to an acquittal on the application of the Public Prosecutor.
+(3) Where an accused had previously been granted a discharge not amounting to an acquittal by a Magistrate’s Court or District Court in relation to an offence triable in the State Courts, any Magistrate’s Court or District Court, as the case may be, may grant the accused a discharge amounting to an acquittal on the application of the Public Prosecutor.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) Where an accused had previously been granted a discharge not amounting to an acquittal by a Magistrate’s Court or District Court in relation to an offence triable in the High Court, any Magistrate’s Court or District Court, as the case may be, may grant the accused a discharge on the application of the Public Prosecutor.
 
@@ -4545,7 +4571,9 @@ Transfer of cases
 
 239\.—(1) Where in respect of any case it appears to the High Court that —
 
-(a) a fair and impartial trial cannot be had in any Subordinate Court;
+(a) a fair and impartial trial cannot be had in any State Court;
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) some question of law of unusual difficulty is likely to arise; or
 
@@ -4553,11 +4581,15 @@ Transfer of cases
 
 the High Court may order —
 
-(i) that the case be transferred from a Subordinate Court to any other Subordinate Court of equal or superior jurisdiction; or
+(i) that the case be transferred from a State Court to any other State Court of equal or superior jurisdiction; or
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (ii) that the case be transferred to and tried before the High Court.
 
-(2) An application for the transfer of a case may be made only after a court has fixed the case for trial in accordance with the pre-trial procedures in the Subordinate Courts in Part IX, and the order may be granted at any time thereafter before the conclusion of the trial.
+(2) An application for the transfer of a case may be made only after a court has fixed the case for trial in accordance with the pre-trial procedures in the State Courts in Part IX, and the order may be granted at any time thereafter before the conclusion of the trial.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) The application for the transfer of a case shall be by way of a motion and Division 5 of Part XX shall apply, except that where the applicant is the Public Prosecutor, the motion need not be supported by affidavit.
 
@@ -5284,7 +5316,9 @@ Witnesses
 
 (2) The officer in charge of the prison must have the person named in the warrant brought to court as directed and must arrange for his safe custody during his absence from prison.
 
-(3) A warrant must bear the seal of the court and be signed by the Registrar of the Supreme Court, Registrar of the Subordinate Courts, District Judge or Magistrate, as the case may be.
+(3) A warrant must bear the seal of the court and be signed by the Registrar of the Supreme Court, Registrar of the State Courts, District Judge or Magistrate, as the case may be.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Power of court to summon and examine persons
 
@@ -6405,7 +6439,9 @@ COMPENSATION AND COSTS
 
 355\.—(1) The court before which a person is convicted of an offence may, in its discretion and if satisfied that the defence of the person was conducted in an extravagant and unnecessary manner, order that person to pay a sum to be fixed by the court by way of costs of his prosecution.
 
-(2) If an accused is acquitted of any charge for any offence, and if it is proved to the satisfaction of the court that the prosecution was frivolous or vexatious, the court may order the prosecution or the complainant or the person on whose information the prosecution was instituted to pay full costs, charges and expenses incurred by the accused in and for his defence, to be taxed by the Registrar of the Supreme Court or the Registrar of the Subordinate Courts, as the case may be.
+(2) If an accused is acquitted of any charge for any offence, and if it is proved to the satisfaction of the court that the prosecution was frivolous or vexatious, the court may order the prosecution or the complainant or the person on whose information the prosecution was instituted to pay full costs, charges and expenses incurred by the accused in and for his defence, to be taxed by the Registrar of the Supreme Court or the Registrar of the State Courts, as the case may be.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) The court may direct that either an order for payment of costs under subsection (1) or an order for payment of compensation under section 359(1) be paid in priority to the other, and if no direction is given, the order for payment of costs takes priority over the order for payment of compensation.
 
@@ -6638,7 +6674,9 @@ Appeals
 
 [Act 33 of 2012 wef 01/01/2013]
 
-(5) No appeal may lie against any order made by a Magistrate, a District Judge, the Registrar of the Subordinate Courts or the Registrar of the Supreme Court in any criminal case disclosure conference held under Part IX or X.
+(5) No appeal may lie against any order made by a Magistrate, a District Judge, the Registrar of the State Courts or the Registrar of the Supreme Court in any criminal case disclosure conference held under Part IX or X.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Limited right of appeal against plea of guilty
 
@@ -6660,13 +6698,15 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 377\.—(1) Subject to sections 374, 375 and 376, a person who is not satisfied with any judgment, sentence or order of a trial court in a criminal case or matter to which he is a party may appeal to the appellate court against that judgment, sentence or order in respect of any error in law or in fact, or in an appeal against sentence, on the ground that the sentence imposed is manifestly excessive or manifestly inadequate.
 
-(2) A notice of appeal against any judgment, sentence or order of the trial court must be lodged by the appellant with the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a District Court or a Magistrate’s Court) —
+(2) A notice of appeal against any judgment, sentence or order of the trial court must be lodged by the appellant with the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the State Courts (if the trial court is a District Court or a Magistrate’s Court) —
 
 (a) in the case of an appeal against conviction, or an appeal against conviction and sentence, within 14 days after the date of the sentence; and
 
 (b) in any other case, within 14 days after the date of the judgment, sentence or order.
 
 [Act 33 of 2012 wef 01/01/2013]
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (3) Every notice of appeal must —
 
@@ -6678,33 +6718,45 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 (4) In the case of an appeal by the Public Prosecutor under this Part against the judgment, sentence or order of the High Court hearing a criminal case, the notice of appeal shall be signed by him only.
 
-(5) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is an accused or a complainant, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the appellant or his advocate at the address mentioned in the notice of appeal, a notice that a copy each of the record of proceedings and the grounds of decision are available and can be had on applying for the same.
+(5) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is an accused or a complainant, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the appellant or his advocate at the address mentioned in the notice of appeal, a notice that a copy each of the record of proceedings and the grounds of decision are available and can be had on applying for the same.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (6) Subject to subsection (6A), where an appellant makes an application pursuant to subsection (5), he shall be served with a copy each of the record of proceedings and the grounds of decision upon the payment of the prescribed fee.
 
 [2/2012]
 
-(6A) The Registrar of the Subordinate Courts or the Registrar of the Supreme Court, as the case may be, may, as he thinks fit, furnish copies of the record of proceedings and the grounds of decision free of charge in any specific case or category of cases.
+(6A) The Registrar of the State Courts or the Registrar of the Supreme Court, as the case may be, may, as he thinks fit, furnish copies of the record of proceedings and the grounds of decision free of charge in any specific case or category of cases.
 
 [2/2012]
 
-(7) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is the Public Prosecutor, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the Public Prosecutor a copy each of the record of proceedings and the grounds of decision free of charge.
+[Act 5 of 2014 wef 07/03/2014]
+
+(7) After the notice of appeal has been lodged in accordance with subsection (2) by an appellant who is the Public Prosecutor, the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) must, as soon as possible, serve on the Public Prosecutor a copy each of the record of proceedings and the grounds of decision free of charge.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Petition of appeal
 
-378\.—(1) Within 14 days after service of the record of proceedings and the grounds of decision under section 377(6) or (7), the appellant or his advocate must lodge a petition of appeal with the Registrar of the Supreme Court (if the trial court is the High Court) or Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court).
+378\.—(1) Within 14 days after service of the record of proceedings and the grounds of decision under section 377(6) or (7), the appellant or his advocate must lodge a petition of appeal with the Registrar of the Supreme Court (if the trial court is the High Court) or Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court).
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) The petition of appeal must be signed by the appellant or his advocate and must state briefly the substance of the judgment, sentence or order appealed against and must contain sufficient particulars of any points of law or of fact in respect of which the appellant claims the trial court was in error.
 
 (3) Subject to section 380, if a petition of appeal is not lodged within the time provided under this section, the appeal will be treated as withdrawn.
 
-(4) At any time before the petition of appeal is lodged, the appellant may file with the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court), a notice of discontinuance of the appeal, and if he does so, he must serve the notice on the other party to the appeal on the date of the filing.
+(4) At any time before the petition of appeal is lodged, the appellant may file with the Registrar of the Supreme Court (if the trial court is the High Court) or the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court), a notice of discontinuance of the appeal, and if he does so, he must serve the notice on the other party to the appeal on the date of the filing.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (5) The appellant may, after he had lodged a petition of appeal within the time provided under this section, in a notice in writing to the Registrar of the Supreme Court seek leave of court to withdraw the appeal.
 
 (6) Except with the leave of the appellate court, the appellant shall not be permitted, on the hearing of the appeal, to rely on any ground of appeal other than those set out in the petition of appeal.
 
-(7) Upon withdrawal or discontinuance of any appeal, the Registrar of the Supreme Court shall notify the Registrar of the Subordinate Courts (if the trial court is a Magistrate’s Court or District Court) accordingly and any stay of execution shall immediately cease to have effect.
+(7) Upon withdrawal or discontinuance of any appeal, the Registrar of the Supreme Court shall notify the Registrar of the State Courts (if the trial court is a Magistrate’s Court or District Court) accordingly and any stay of execution shall immediately cease to have effect.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Records of court proceedings to be sent to appellate court and respondent
 
@@ -6720,11 +6772,15 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 
 381\.—(1) If the appellant is in prison, he shall be deemed to have complied with the requirements in sections 377 and 378 if he gives to the officer in charge of the prison, either orally or in writing, a notice of appeal and the particulars to be included in the petition of appeal within the times prescribed by those sections.
 
-(2) Such officer must immediately forward such notice and petition or their purport to the Registrar of the Supreme Court or the Registrar of the Subordinate Courts, as the case may be.
+(2) Such officer must immediately forward such notice and petition or their purport to the Registrar of the Supreme Court or the Registrar of the State Courts, as the case may be.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Bail pending appeal
 
-382\. A Subordinate Court or the High Court may grant bail to a person who has filed a notice of appeal against his conviction or sentence in accordance with section 377.
+382\. A State Court or the High Court may grant bail to a person who has filed a notice of appeal against his conviction or sentence in accordance with section 377.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Stay of execution pending appeal
 
@@ -6994,13 +7050,17 @@ Points reserved
 
 (15) In this section, “relevant court” means —
 
-(a) the High Court where the trial court which stated the case is a Subordinate Court; and
+(a) the High Court where the trial court which stated the case is a State Court; and
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (b) the Court of Appeal where the trial court which stated the case is the High Court.
 
 ### Application to state case directly to Court of Appeal
 
-396\.—(1) Any party to the proceedings may, instead of applying to state a case on any question of law arising at a trial before a Subordinate Court for the opinion of the High Court under section 395, apply to state a case directly to the Court of Appeal.
+396\.—(1) Any party to the proceedings may, instead of applying to state a case on any question of law arising at a trial before a State Court for the opinion of the High Court under section 395, apply to state a case directly to the Court of Appeal.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) An application under subsection (1) shall only be made with the leave of the Court of Appeal.
 
@@ -7036,7 +7096,9 @@ Points reserved
 
 (a) the Public Prosecutor;
 
-(b) the Registrar of the Subordinate Courts where the trial court which stated the case is a Subordinate Court; and
+(b) the Registrar of the State Courts where the trial court which stated the case is a State Court; and
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (c) every party to the proceedings in which the case stated arose.
 
@@ -7049,17 +7111,23 @@ Revision of proceedings before
 
 
 
-Subordinate Courts
+State Courts
 
-### Power to call for records of Subordinate Courts
+[Act 5 of 2014 wef 07/03/2014]
 
-400\.—(1) Subject to this section and section 401, the High Court may, on its own motion or on the application of a Subordinate Court, the Public Prosecutor or the accused in any proceedings, call for and examine the record of any criminal proceeding before any Subordinate Court to satisfy itself as to the correctness, legality or propriety of any judgment, sentence or order recorded or passed and as to the regularity of those proceedings.
+### Power to call for records of State Courts
+
+400\.—(1) Subject to this section and section 401, the High Court may, on its own motion or on the application of a State Court, the Public Prosecutor or the accused in any proceedings, call for and examine the record of any criminal proceeding before any State Court to satisfy itself as to the correctness, legality or propriety of any judgment, sentence or order recorded or passed and as to the regularity of those proceedings.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) No application may be made by any party under this section in relation to any judgment, sentence or order which he could have appealed against but had failed to do so in accordance with the law unless the application is made —
 
 (a) against a failure by a court to impose the mandatory minimum sentence or any other sentence required by written law; or
 
 (b) against a sentence imposed by a court which the court is not competent to impose.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Powers of High Court on revision
 
@@ -7073,7 +7141,9 @@ Subordinate Courts
 
 ### Orders on revision
 
-402\. Where a case is revised under this Division, the High Court must certify its decision or order to the Subordinate Court which recorded or passed the judgment, sentence or order and that Court must make the requisite orders to give effect to the decision or order.
+402\. Where a case is revised under this Division, the High Court must certify its decision or order to the State Court which recorded or passed the judgment, sentence or order and that Court must make the requisite orders to give effect to the decision or order.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 ### Permission for parties to appear
 
@@ -7092,15 +7162,21 @@ disclosure conference
 
 ### Power to revise orders made at criminal case disclosure conference
 
-404\.—(1) The High Court may, on its own motion or on the application of the Public Prosecutor or the accused in any criminal case disclosure conference, call for and examine the record of any criminal case disclosure conference held under Part IX or X before a Magistrate, a District Judge, the Registrar of the Subordinate Courts or the Registrar of the Supreme Court to satisfy itself as to the correctness, legality or propriety of any order recorded or passed at the criminal case disclosure conference, and as to the regularity of the criminal case disclosure conference.
+404\.—(1) The High Court may, on its own motion or on the application of the Public Prosecutor or the accused in any criminal case disclosure conference, call for and examine the record of any criminal case disclosure conference held under Part IX or X before a Magistrate, a District Judge, the Registrar of the State Courts or the Registrar of the Supreme Court to satisfy itself as to the correctness, legality or propriety of any order recorded or passed at the criminal case disclosure conference, and as to the regularity of the criminal case disclosure conference.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (2) Any application by the Public Prosecutor or the accused under subsection (1) must be made within 7 days from the date of the order so recorded or passed at the criminal case disclosure conference to which the application relates.
 
-(3) On examining a record under revision in this Division, the High Court may affirm, vary or set aside any of the orders made by the Magistrate, District Judge, Registrar of the Subordinate Courts or Registrar of the Supreme Court, as the case may be, who presided over the criminal case disclosure conference.
+(3) On examining a record under revision in this Division, the High Court may affirm, vary or set aside any of the orders made by the Magistrate, District Judge, Registrar of the State Courts or Registrar of the Supreme Court, as the case may be, who presided over the criminal case disclosure conference.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 (4) The High Court may not proceed under subsection (3) without first giving the parties adversely affected by the High Court so proceeding an opportunity of being heard either personally or by advocate.
 
-(5) Where a case is revised under this Division, the High Court must certify its decision or order to the Magistrate, District Judge, Registrar of the Subordinate Courts or Registrar of the Supreme Court, as the case may be, who recorded or passed the order at the criminal case disclosure conference and that Magistrate, District Judge, Registrar of the Subordinate Courts or the Registrar of the Supreme Court, as the case may be, must make the requisite orders to give effect to the decision or order.
+(5) Where a case is revised under this Division, the High Court must certify its decision or order to the Magistrate, District Judge, Registrar of the State Courts or Registrar of the Supreme Court, as the case may be, who recorded or passed the order at the criminal case disclosure conference and that Magistrate, District Judge, Registrar of the State Courts or the Registrar of the Supreme Court, as the case may be, must make the requisite orders to give effect to the decision or order.
+
+[Act 5 of 2014 wef 07/03/2014]
 
 Division 5 —
 
@@ -17128,3 +17204,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013|
+|11.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|7 March 2014|
