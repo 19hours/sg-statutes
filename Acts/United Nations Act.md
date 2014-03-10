@@ -74,7 +74,13 @@ where such failure, neglect or refusal is solely attributable to, or occasioned 
 
 ### Liability for breach of regulations
 
-5\.—(1) Every person who commits, or attempts to commit, or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit, or conspires with any other person (whether in Singapore or elsewhere) to commit any offence against any regulations made under this Act shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+5\.—(1) Every person who commits, or attempts to commit, or does any act with intent to commit, or counsels, procures, aids, abets, or incites any other person to commit, or conspires with any other person (whether in Singapore or elsewhere) to commit any offence against any regulations made under this Act shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
+
+(b) in any other case, to a fine not exceeding $1 million.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (2) Nothing in this Act or any regulations made thereunder shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations, but no person shall be punished twice for the same offence.
 
@@ -96,7 +102,7 @@ United Nations Act
 
 (CHAPTER 339)
 
-This Legislative History is provided for the convenience of users of the United Kingdom Designs (Protection) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the United Nations Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -113,3 +119,7 @@ This Legislative History is provided for the convenience of users of the United 
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|4.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
