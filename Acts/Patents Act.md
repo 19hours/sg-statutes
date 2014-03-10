@@ -292,6 +292,8 @@
 
 - [116 Fees](#Fees)
 
+- [116A Amendment of Schedule](#Amendment-of-Schedule)
+
 - [117 Transitional provisions](#Transitional-provisions)
 
 [**THE SCHEDULE Substances Which Are Not Pharmaceutical Products**](#THE-SCHEDULE)
@@ -478,9 +480,11 @@ which was missing from the application at the date of filing of the application;
 
 “Registry” means the Registry of Patents established under this Act;
 
-“related national phase application”, in relation to an application for a patent (being an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3)) (referred to in this definition as the application in suit), means an application for protection treated as filed with any prescribed patent office (being an international application for a patent (Singapore) that has entered the national or regional phase in the country or jurisdiction the patent office of which is that prescribed patent office) which is derived from the same international application for a patent (Singapore) (being an international application for a patent (Singapore) that is not subject to any priority claim) as the application in suit;
+“related national phase application”, in relation to an application for a patent (being an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3)), or a new application filed in accordance with section 26(11) which derived its filing date from an international application for a patent (Singapore) (referred to in this definition as the application in suit), means an application for protection treated as filed with any prescribed patent office (being an international application for a patent (Singapore) that has entered the national or regional phase in the country or jurisdiction the patent office of which is that prescribed patent office) which is derived from the same international application for a patent (Singapore) (being an international application for a patent (Singapore) that is not subject to any priority claim) as the application in suit;
 
 [Act 15 of 2012 wef 14/02/2014]
+
+[Act 4 of 2014 wef 10/03/2014]
 
 “related national phase patent”, in relation to a related national phase application, means a patent granted in respect of the related national phase application by the prescribed patent office in which the related national phase application was treated as filed;
 
@@ -568,9 +572,15 @@ ADMINISTRATION
 
 ### Delegation by Registrar
 
-5\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Patents or any public officer so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+5\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Patents, any public officer, or any person with the relevant qualifications for or experience in the matter or class of matters, so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (2) A delegation under this section is revocable at will and no delegation shall prevent the exercise of a power or function by the Registrar or by any Deputy Registrar of Patents.
+
+(3) A person with the relevant qualifications or experience referred to in subsection (1) shall, when exercising the delegated powers and functions, be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[Act 4 of 2014 wef 10/03/2014]
 
 ### Registry of Patents
 
@@ -1281,6 +1291,14 @@ is missing from the application.
 (i) a notice of eligibility to proceed to the grant of a patent, if the Registrar is satisfied by that report that there is no unresolved objection; or
 
 (ii) a notice of refusal of the application for a patent, if the Registrar is satisfied by that report that there are one or more unresolved objections.
+
+(5A) Where the Registrar has issued to the applicant a notice under subsection (5)(b)(i) —
+
+(a) the applicant shall satisfy the conditions under section 30(a) and (c) within the prescribed period; and
+
+(b) if the applicant fails to comply with paragraph (a), the application shall be treated as abandoned.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (6) Where the Registrar has sent the applicant a notice under subsection (5)(b)(ii), the refusal of the application for a patent shall take effect upon the expiry of the prescribed period.
 
@@ -3504,6 +3522,14 @@ may be prescribed for different classes of business.
 
 [Act 15 of 2012 wef 14/02/2014]
 
+### Amendment of Schedule
+
+116A\.—(1) The Minister may, by order published in theGazette, amend the Schedule.
+
+(2) The Minister may prescribe in an order amending the Schedule such transitional provisions as may be necessary or expedient.
+
+[Act 4 of 2014 wef 10/03/2014]
+
 ### Transitional provisions
 
 117\.—(1) Where an application has been made under section 3 of the repealed Registration of United Kingdom Patents Act (Cap. 271, 1985 Ed.) before 23rd February 1995, the Registrar may issue a certificate of registration under section 5 of that Act after that date as if that Act had not been repealed.
@@ -3530,73 +3556,7 @@ Section 2(1)
 
 Substances Which Are Not Pharmaceutical Products
 
-1. In this Schedule, unless the context otherwise requires —
-
-“Chinese proprietary medicine” means any medicinal product in any dosage form used in the system of therapeutics according to the traditional Chinese method, that is to say, any medicinal product —
-
-(a) which has been manufactured as a finished product;
-
-(b) which contains one or more active ingredients which are derived wholly from any plant, animal or mineral or a combination of plants, animals or minerals; and
-
-(c) which is, or all of the active ingredients of which are, described in the current edition of “A Dictionary of Chinese Pharmacy” <<中药大辞典>>, “The Chinese Herbal Medicine Materia Medica” <<本草纲目>> or such other publication as may be approved by the Minister,
-
-but does not include —
-
-(i) any medicinal product to be injected into the human body;
-
-(ii) any item specified in the Poisons List in the Schedule to the Poisons Act (Cap. 234); or
-
-(iii) any medicinal product which contains as an active ingredient any chemically defined isolated constituent of any plant, animal or mineral or a combination of plants, animals or minerals;
-
-“current edition”, in relation to any publication which describes a Chinese proprietary medicine, means an edition which is current at the time the Chinese proprietary medicine in question is sold or supplied, and includes any amendment, addition or deletion made to that edition of the publication up to that time;
-
-“homoeopathic medicine” means any substance used in the system of therapeutics in which a disease is treated by the use of minute amounts of one or more substances capable of producing in a healthy human being symptoms similar to those of the disease being treated;
-
-“medicated oil or balm” means any external medicated embrocation, medicated cream, ointment or inhalant which is used mainly for soothing purposes and which contains one or more of the following substances as active ingredients:
-
-(a) any essential oil;
-
-(b) any fixed oils derived from a plant;
-
-(c) methyl salicylate;
-
-(d) menthol;
-
-(e) camphor;
-
-(f) peppermint;
-
-“quasi-medicinal product” means —
-
-(a) any anti-dandruff preparation;
-
-(b) any type of medicated cosmetics for the treatment of pimples and acne, except any preparation containing etretinate or 13-cis-retinoic acid;
-
-(c) any medicated soap;
-
-(d) any sweet for relieving coughs or throat irritations;
-
-(e) any medicated plaster;
-
-(f) any sunscreen or suntan preparation;
-
-(g) any medicated beverage;
-
-(h) any vitamin or nutritional preparation from a natural source; or
-
-(i) any medicated toothpaste;
-
-“traditional medicine” means any medicinal product consisting of one or more substances derived from natural sources, that is to say, any plant, animal or mineral or a combination of plants, animals or minerals, but does not include —
-
-(a) any medicinal product administered by injection into a human body;
-
-(b) any vaccine used by a human being;
-
-(c) any product derived from human blood;
-
-(d) any item specified in the Poisons List in the Schedule to the Poisons Act (Cap. 234); or
-
-(e) any Chinese proprietary medicine.
+1\. In this Schedule, unless the context otherwise requires —
 
 2. For the purposes of this Act, “pharmaceutical product” does not include —
 
@@ -3715,6 +3675,10 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of First Reading|14 May 2012 (Bill No. 13/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|14 February 2014|
+|17.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
 ## COMPARATIVE TABLE
 
 Patents Act
