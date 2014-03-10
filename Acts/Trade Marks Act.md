@@ -322,7 +322,7 @@ An Act to establish a new law for trade marks, to enable Singapore to give effec
 
 [15th January 1999;
 
-31st October 2000: Section 54]
+31st October 2000: section 54]
 
 ## PART I
 
@@ -2265,9 +2265,15 @@ The Registrar
 
 ### Delegation by Registrar
 
-63\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Trade Marks or any public officer so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+63\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Trade Marks, any public officer, or any person with the relevant qualifications for or experience in the matter or class of matters, so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (2) A delegation under this section is revocable at will and no delegation shall prevent the exercise of a power or function by the Registrar or by a Deputy Registrar of Trade Marks.
+
+(3) A person with the relevant qualifications or experience referred to in subsection (1) shall, when exercising the delegated powers and functions, be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[Act 4 of 2014 wef 10/03/2014]
 
 ### Registry of Trade Marks
 
@@ -3662,6 +3668,11 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 14/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|7 March 2014|
+|15.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014 (except sections 7(1)(c) and (d), 8(c) and (d) and 13(a) and (b))|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
