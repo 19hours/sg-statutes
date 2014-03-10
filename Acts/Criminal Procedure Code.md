@@ -534,7 +534,7 @@
 
 [**Division 3  Plead guilty procedures**](#Division-3--Plead-guilty-procedures)
 
-- [227 Procedure if accused pleads guilty or retracts plea](#Procedure-if-accused-pleads-guilty-or-retracts-plea)
+- [227 Procedure if accused pleads guilty, etc.](#Procedure-if-accused-pleads-guilty-etc)
 
 - [228 Address on sentence, mitigation and sentence](#Address-on-sentence-mitigation-and-sentence)
 
@@ -4306,7 +4306,7 @@ Division 3 —
 
 Plead guilty procedures
 
-### Procedure if accused pleads guilty or retracts plea
+### Procedure if accused pleads guilty, etc.
 
 227\.—(1) If the accused pleads guilty to the charge after it has been read and explained to him, whether as originally framed or as amended, his plea must be recorded and he may be convicted on it.
 
@@ -4345,6 +4345,8 @@ the court may order the parties to the case to attend a criminal case disclosure
 (c) on that date, the accused refuses to plead, does not plead or claims trial,
 
 the court may order the parties to the case to attend a criminal case disclosure conference for the purpose of settling the matters referred to in section 160 and the procedures in Division 2 of Part IX shall, with the necessary modifications, apply in relation to the case.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 ### Address on sentence, mitigation and sentence
 
@@ -17209,3 +17211,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|12.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
