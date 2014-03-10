@@ -480,11 +480,9 @@ given to a police officer or officer of the Central Narcotics Bureau in charge o
 
 “registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
-“registrable particulars” means the particulars of any detention or supervision order made under section 30, 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
-
-[32/2004 wef 21/10/2004]
-
 [22/2007 wef 01/01/2008]
+
+“registrable particulars” means the particulars of any detention or supervision order made under section 30, 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
 
 (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 27A.
 
@@ -862,7 +860,9 @@ Essential Services
 
 8\. Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
 
-9\. Information services and undertakings provided by the Ministry of Information, Communications and the Arts and its agencies.
+9. Information services and undertakings provided by the Ministry of Communications and Information and its agencies.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 10\. Information technology services to support the processing of applications for permits for the import, export and transshipment of goods.
 
@@ -936,12 +936,12 @@ FORM 1
 
 Section 6(5)
 
-Criminal Law (Temporary Provisions) Act
+CRIMINAL LAW (TEMPORARY PROVISIONS) ACT
 
 
 
 
-(Chapter 67)
+(CHAPTER 67)
 
 To
 
@@ -980,24 +980,20 @@ We
 
 being
 
-………………………………………………………
-(Name of trade unions)
+…………………………………………
+(Name of trade union)
 
-acting on behalf of employees of
-
-………………………………………………
+acting on behalf of employees of ……………………………………
 (Name of company, firm, etc.)
 
 hereby give notice that the classes of employees as set out below intend to go
 
-on a strike on
-
-……………………………………..
+on strike on …………………..
 (date)
 
 unless negotiations for
 
-a settlement have been commenced beforehand or unless the demands presented to you on …………………………………….. 20….. have been satisfied by ………………………. 20…….
+a settlement have been commenced beforehand or unless the demands presented to you on …………………………….. 20….. have been satisfied by ……………………. 20…….
 
 (1)
 
@@ -1029,7 +1025,7 @@ Signatures
 
 …………………………………………………………..
 
-Classes of employees (giving usual designation)
+Classes of employees (giving usual designation):
 
 …………………………………………………………………..
 
@@ -1043,30 +1039,24 @@ FORM 2
 
 Section 6(6)
 
-Criminal Law (Temporary Provisions) Act
+CRIMINAL LAW (TEMPORARY PROVISIONS) ACT
 
 
 
 
-(Chapter 67)
+(CHAPTER 67)
 
 I
 
-……………………………
+…………………
 (name)
 
 being
 
-……………………………….
-
-
-
-
+……………………………………….
 (manager, proprietor, partner, etc.)
 
-of
-
-……………………………………………………………………………….
+of …………………………………………………………….
 (Name of company, firm, etc.)
 
 hereby give notice to the classes of my employees set out below that as from ………………………….. 20………. they will not be permitted to work on my premises of the above
@@ -1075,13 +1065,13 @@ unless a satisfactory agreement as to conditions of employment has been reached 
 
 Class of employees (giving usual designation):
 
-…………………………………………………….
+…………………………………………….
 
-…………………………………………………….
+…………………………………………….
 
-…………………………………………………….
+…………………………………………….
 
-……………………………
+…………………
 (Signature)
 
 SECOND SCHEDULE
@@ -1122,7 +1112,7 @@ The Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65).
 
 Section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
 
-3. [S 668/2010 wef 21/11/2010 wef 21/11/2010 wef 21/11/2010 wef 21/11/2010]
+3. [S 668/2010 wef 21/11/2010]
 
 4. 
 
@@ -1378,6 +1368,12 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |||(item 29 in the Sixth Schedule)|
+|55.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
+|||(section 4 — Amendment to Criminal Law (Temporary Provisions) Act)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
