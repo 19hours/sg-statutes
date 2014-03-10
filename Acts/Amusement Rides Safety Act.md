@@ -2433,7 +2433,9 @@ shall take effect from the date specified by the Commissioner for the revocation
 
 (i) the properties and design strength of the materials to be used in the construction of an amusement ride;
 
-(ii) the speed at which an amusement ride may be opened;
+(ii) the speed at which an amusement ride may be operated;
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (iii) the equipment, drives, brakes, anchorages, tensioning devices and safety devices to be incorporated as part of the amusement ride;
 
@@ -2548,3 +2550,7 @@ This Legislative History is provided for the convenience of users of the Amuseme
 ||Date of commencement|1 July 2011|
 |2.|**2012 Revised Edition—Amusement Rides Safety Act (Chapter 6A)**|
 ||Date of operation|30 September 2012|
+|3.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
