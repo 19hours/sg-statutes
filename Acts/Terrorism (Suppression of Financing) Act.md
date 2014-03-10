@@ -140,6 +140,10 @@ PRELIMINARY
 
 “entity” means a person, group, trust, partnership or fund or an unincorporated association or organisation;
 
+“police officer” includes a Commercial Affairs Officer referred to in section 64 of the Police Force Act (Cap. 235);
+
+[Act 4 of 2014 wef 10/03/2014]
+
 “property” means —
 
 (a) assets of every kind, whether tangible or intangible, movable or immovable, however acquired; and
@@ -955,6 +959,10 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of First Reading|8 July 2013 (Bill No. 11/2013 published on 8 July 2013)|
 ||Date of Second and Third Readings|12 August 2013|
 ||Date of commencement|23 September 2013|
+|11.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
