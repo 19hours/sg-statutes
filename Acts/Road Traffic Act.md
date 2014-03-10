@@ -244,7 +244,7 @@
 
 - [81 Duty to give information](#Duty-to-give-information)
 
-- [82 Restrictions on prosecutions under certain sections](#Restrictions-on-prosecutions-under-certain-sections)
+- [82 (Repealed)](#Repealed)
 
 - [83 Liability of owner of vehicle for specified offence](#Liability-of-owner-of-vehicle-for-specified-offence)
 
@@ -456,7 +456,7 @@
 
 [**FIRST SCHEDULE Specified Acts**](#FIRST-SCHEDULE-Specified-Acts)
 
-[**SECOND SCHEDULE Classification and Descriptions of Public Service Vehicles**](#SECOND-SCHEDULE-Classification-and-Descriptions-of-Public-Service-Vehicles)
+[**SECOND SCHEDULE Classification and descriptions of public service vehicles**](#SECOND-SCHEDULE-Classification-and-descriptions-of-public-service-vehicles)
 
 [**THIRD SCHEDULE Specified offences**](#THIRD-SCHEDULE-Specified-offences)
 
@@ -498,6 +498,8 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “company” means any company as defined in the Companies Act (Cap. 50) and includes any company to which Division 2 of Part XI of that Act applies, any company formed in pursuance of any other Act or by royal charter or letters patent, a limited liability partnership and any other body corporate formed or incorporated by or under any written law;
 
+[24/2010 wef 01/11/2010]
+
 “Deputy Commissioner of Police” includes any police officer not below the rank of sergeant authorised by the Deputy Commissioner of Police in writing by name or office to exercise the powers vested by this Act in the Deputy Commissioner of Police;
 
 “de‑registered vehicle” means a vehicle the registration of which has been cancelled by the Registrar under section 27(1);
@@ -533,6 +535,8 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 (c) for the purposes of sections 131B(7), 132(7), 134, 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
 
 [Act 23 of 2013 wef 01/01/2014]
+
+[24/2010 wef 01/11/2010]
 
 [Deleted by Act 25 of 2011 wef 01/01/2012]
 
@@ -590,6 +594,8 @@ but excludes any vehicle constructed for use on fixed rails or specially prepare
 
 “security officer” means a licensed security officer within the meaning of the Private Security Industry Act (Cap. 250A) who is authorised by the Deputy Commissioner of Police or the Authority (as appropriate) under section 142B to regulate traffic under any provision of this Act;
 
+[24/2010 wef 01/11/2010]
+
 “trailer” means a vehicle drawn by a motor vehicle;
 
 “tricycle” means a three-wheeled pedal cycle constructed or adapted for the carriage of goods;
@@ -602,13 +608,11 @@ but excludes any vehicle constructed for use on fixed rails or specially prepare
 
 [20/89; 33/93; 28/95; 5/98; 1/99; 45/99; 1/2003]
 
-[24/2010 wef 01/11/2010]
-
 (2) For the purposes of this Act, except section 38, a person is a resident of Singapore, or is deemed to have taken up residence in Singapore, if he resides in Singapore for a continuous period of 6 months and any temporary period or periods of absence during that period of 6 months is immaterial.
 
 [1/99]
 
-[24/210 wef 01/11/2010]
+[24/2010 wef 01/11/2010]
 
 ## PART I
 
@@ -1644,7 +1648,7 @@ or any one or more of these facts was or were such as would be necessary to esta
 
 (3) The Authority shall keep and maintain a register of electronic service agents in which shall be entered such particulars of every electronic service agent as it considers appropriate.
 
-[42/2006 wef 27/02/2006]
+[4/2006 wef 27/02/2006]
 
 ### Electronic service
 
@@ -1754,6 +1758,8 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (e) to prescribe the form of, and the particulars to be included in, the register with respect to vehicles for which a general licence has been taken out by a manufacturer, repairer or dealer and the identification marks to be carried by any such vehicle and to define the purposes for which the holder of a general licence may use a vehicle under such general licence;
 
+[4/2006 wef 27/02/2006]
+
 (f) to extend any provisions as to registration and provisions incidental to any such provisions to any vehicle in respect of which taxes chargeable under this Part are not payable and to provide for the identification of any such vehicle;
 
 (g) to provide for information contained in any records maintained by the Registrar with respect to the marking, registration or keeping of vehicles to be made public or to be made available, either without payment or on payment of the prescribed fee, to such persons as may be determined by or under the rules;
@@ -1825,6 +1831,8 @@ ROAD-USER CHARGES
 “road-user charge” means the charge payable for riding, driving or moving a motor vehicle on a specified road during the prescribed hours;
 
 “specified road” means any road or part thereof as may be specified in rules made under this Part.
+
+[Deleted by Act 1/2006 wef 23/06/2006]
 
 ### Levying of road-user charge
 
@@ -2774,9 +2782,11 @@ causes the heavy motor vehicle or public service vehicle to collide with any bui
 
 66\.—(1) Any person who causes the death of another person by the driving of a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 
-(2) [Deleted by Act15/2010]
+(2) [Deleted by Act 15/2010 wef 02/01/2011]
 
-(3) If upon the trial of a person for an offence under this section the court is not satisfied that his driving was the cause of the death, but is satisfied that he is guilty of driving as specified in subsection (1), it shall be lawful for the court to convict him of an offence under section 64, whether or not the requirements of section 82 have been satisfied as respects that offence.
+(3) If upon the trial of a person for an offence under this section the court is not satisfied that his driving was the cause of the death, but is satisfied that he is guilty of driving as specified in subsection (1), it shall be lawful for the court to convict him of an offence under section 64.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 ### Driving while under influence of drink or drugs
 
@@ -3146,6 +3156,8 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 (b) in the case of a second or subsequent offence, be disqualified from holding or obtaining a driving licence for a period of not less than 2 years.
 
+[4/2006 wef 27/02/2006]
+
 (5) Any disqualification imposed against any person under subsection (4) shall take effect from the date he is released from prison.
 
 (6) In this section —
@@ -3230,25 +3242,7 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 [24/2010 wef 01/11/2010]
 
-### Restrictions on prosecutions under certain sections
-
-82\.—(1) Where a person is prosecuted for an offence under section 64 or 65 or under any of the provisions of this Part relating to the maximum speed at which motor vehicles may be driven, he shall not be convicted unless either —
-
-(a) he was warned at the time the offence was committed that the question of prosecuting him for an offence under any such provision as aforesaid would be taken into consideration;
-
-(b) within 30 days of the commission of the offence a summons for the offence was served on him; or
-
-(c) within the said 30 days a notice of the intended prosecution specifying the nature of the alleged offence and the time and place where it is alleged to have been committed was served on or sent by registered post to him or to the person registered as the owner of the motor vehicle at the time of the commission of the offence.
-
-(2) Failure to comply with the requirement of subsection (1) shall not be a bar to the conviction of the accused in any case in which the court is satisfied that —
-
-(a) neither the name and address of the accused nor the name and address of the registered owner of the motor vehicle could with reasonable diligence have been ascertained in time for a summons to be served or for a notice to be served or sent as aforesaid; or
-
-(b) the accused by his own conduct contributed to the failure.
-
-(3) The requirement of this section shall in every case be deemed to have been complied with unless the contrary is proved.
-
-(4) This section shall not apply in any case in which the person prosecuted was, in connection with the incident in respect of which a charge against that person is preferred, arrested either on the day on which the incident occurred or within 30 days of that date.
+82\. [Repealed by Act 4 of 2014 wef 10/03/2014]
 
 ### Liability of owner of vehicle for specified offence
 
@@ -3446,6 +3440,8 @@ Miscellaneous
 
 (e) the additional fee to be paid for any further examination of a motor vehicle where the vehicle is found, after a previous examination, not to comply with any prescribed requirement referred to in subsection (1);
 
+[4/2006 wef 27/02/2006]
+
 (f) the manner in which an application may be made for the examination of a motor vehicle;
 
 (g) the manner in which and time within which an appeal may be brought under subsection (3);
@@ -3458,7 +3454,7 @@ Miscellaneous
 
 (k) the keeping by an authorised examiner of a register of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such register by such person and in such circumstances as may be prescribed;
 
-(l) the keeping of records by an authorised examiner and the furnishing of returns and information to the Registrar by the authorised examiner ; and
+(l) the keeping of records by an authorised examiner and the furnishing of returns and information to the Registrar by the authorised examiner; and
 
 (m) the submission to the Authority of documents specified by the Authority in support of any matter examined.
 
@@ -3675,6 +3671,8 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle i
 (a) designed or adapted for the purpose of preventing the removal of the vehicle; and
 
 (b) approved by the Authority or the Deputy Commissioner of Police for use for the purpose of this section;
+
+[Deleted by Act 24/2010 wef 01/11/2010]
 
 “warrant of arrest” means a warrant of arrest issued by a court against a person in connection with any offence committed by him under —
 
@@ -4234,6 +4232,8 @@ the Authority shall give notice in writing to the licensee of the date by which 
 
 LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
+[Act 37 of 2012 wef 01/06/2013]
+
 ### Interpretation of this Part
 
 111K\. In this Part, unless the context otherwise requires ––
@@ -4262,13 +4262,9 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 111L\.—(1) No person except the Authority or a licensee shall operate any bus interchange or bus depot.
 
-[4/2006 wef 01/04/2006]
-
 [Act 37 of 2012 wef 01/06/2013]
 
 (2) Any person who operates any bus interchange or bus depot in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
-
-[4/2006 wef 01/04/2006]
 
 [Act 37 of 2012 wef 01/06/2013]
 
@@ -4280,17 +4276,11 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 111M\.—(1) Subject to the provisions of this Part, the Authority may, on the application of any person, grant a licence to that person to operate any bus interchange or bus depot for such period as may be specified in the licence.
 
-[4/2006 wef 01/04/2006]
-
 [Act 37 of 2012 wef 01/06/2013]
 
 (2) An application under subsection (1) shall be made to the Authority in such form and manner as the Authority may require.
 
-[4/2006 wef 01/04/2006]
-
 (3) A licensee shall be authorised under this Act to operate the bus interchange or bus depot specified in the licence for the period specified in the licence unless the licence is earlier revoked, cancelled or suspended under the provisions of this Act.
-
-[4/2006 wef 01/04/2006]
 
 [Act 37 of 2012 wef 01/06/2013]
 
@@ -4340,8 +4330,6 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 [Act 37 of 2012 wef 01/06/2013]
 
-[Act 37 of 2012 wef 01/06/2013]
-
 (2) Without prejudice to the generality of subsection (1), conditions included in a licence to operate a bus interchange or bus depot may require the licensee —
 
 (a) to maintain any premises, structure or facility used for the purposes of, or which is otherwise reasonably necessary or incidental to, the smooth operation of the bus interchange or bus depot;
@@ -4352,19 +4340,17 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 [Act 37 of 2012 wef 01/06/2013]
 
+[4/2006 wef 01/04/2006]
+
 ### Modification of licence conditions
 
 111P\.—(1) Subject to this section, the Authority may modify the conditions of a licence.
-
-[4/2006 wef 01/04/2006]
 
 (2) Before making any modification to the conditions of a licence under subsection (1), the Authority shall give notice to the licensee —
 
 (a) stating that it proposes to make the modification in the manner specified in the notice; and
 
 (b) specifying the time (not being less than 28 days from the date of service of the notice on such licensee) within which the licensee may make written representations to the Authority with respect to the proposed modification.
-
-[4/2006 wef 01/04/2006]
 
 (3) Upon receipt of any written representation referred to in subsection (2)(b), the Authority shall consider such representation and may —
 
@@ -4374,8 +4360,6 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 (b) amend the proposed modification in such manner as it thinks fit having regard to the representation; or
 
-[4/2006 wef 01/04/2006]
-
 [Act 37 of 2012 wef 01/06/2013]
 
 (c) withdraw the proposed modification.
@@ -4384,11 +4368,7 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 (4) Subject to subsection (6), if the Authority rejects any written representation under subsection (3)(a) or amends any proposed modification to the conditions of a licence under subsection (3)(b), the modification as specified in the notice or as amended by the Authority, as the case may be, shall take effect on a date specified in writing by the Authority.
 
-[4/2006 wef 01/04/2006]
-
 (5) Subject to subsection (6), if no written representation is received by the Authority within the time specified under subsection (2)(b) or if any written representation made under subsection (2)(b) is subsequently withdrawn, the modification as specified in the notice shall take effect on a date specified in writing by the Authority.
-
-[4/2006 wef 01/04/2006]
 
 (6) Any modification to the conditions of a licence under subsection (4) or (5) shall not take effect —
 
@@ -4418,8 +4398,6 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 
 (e) any other matter affecting the interests of the public in connection with the service provided by the licensee.
 
-[4/2006 wef 01/04/2006]
-
 (2) Any direction given under subsection (1) —
 
 (a) may require the licensee concerned (according to the circumstances of the case) to do, or not to do, such things as are specified or described in the direction;
@@ -4427,8 +4405,6 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 (b) shall take effect at such time as specified in the direction; and
 
 (c) may be revoked or modified at any time by the Authority.
-
-[4/2006 wef 01/04/2006]
 
 (3) Before giving any direction to any licensee under subsection (1), the Authority —
 
@@ -4441,8 +4417,6 @@ LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
 unless the Authority, in respect of any particular direction, considers that it is not practicable or desirable that such notice be given; and
 
 (b) shall consider any representation made by the licensee.
-
-[4/2006 wef 01/04/2006]
 
 (4) Every licensee shall, at his own expense, comply with every direction given to him by the Authority under this section.
 
@@ -4496,11 +4470,7 @@ the Authority may, by notice in writing and without any compensation to the lice
 
 (iii) require the licensee to pay, within a specified period, a financial penalty of such amount not exceeding $100,000 as the Authority thinks fit.
 
-[4/2006 wef 01/04/2006]
-
 (2) The Authority shall, before taking any action under subsection (1), give the licensee notice in writing of its intention to do so and shall call upon the licensee to show cause within such time as may be specified by the Authority as to why such action ought not to be taken.
-
-[4/2006 wef 01/04/2006]
 
 (3) Any cost recoverable from any licensee under subsection (1)(i) and any financial penalty payable by any licensee under subsection (1)(iii) shall be recoverable as a debt due to the Authority from the licensee, and the licensee’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
 
@@ -4509,8 +4479,6 @@ the Authority may, by notice in writing and without any compensation to the lice
 ### Renewal of licence
 
 111S\.—(1) The Authority may, on the application of a licensee, renew the licence on such conditions as it thinks fit.
-
-[4/2006 wef 01/04/2006]
 
 (2) The fee for any renewal of licence shall be such amount as may be prescribed.
 
@@ -4536,8 +4504,6 @@ the Authority may, by notice in writing and without any compensation to the lice
 
 may, within 14 days of the receipt of the notice relating to the relevant matter from the Authority, appeal to the Minister.
 
-[4/2006 wef 01/04/2006]
-
 (2) Subject to section 111P(6) and subsection (3) and unless the Minister otherwise directs, where an appeal is lodged by a licensee under subsection (1) —
 
 (a) the licensee shall comply or continue to comply with any licence condition, direction, code of practice or decision being appealed against; and
@@ -4550,17 +4516,11 @@ may, within 14 days of the receipt of the notice relating to the relevant matter
 
 until the determination of the appeal.
 
-[4/2006 wef 01/04/2006]
-
 (3) Where the licensee appeals under subsection (1) against any refusal to renew his licence and his licence expires at any time from the date of receipt of the Authority’s notice of refusal to the date of determination of his appeal, the licensee shall be deemed to have a licence to operate the bus interchange or bus depot, in respect of which his licence was first granted, from the date of expiry of his licence to the date of determination of the appeal.
-
-[4/2006 wef 01/04/2006]
 
 [Act 37 of 2012 wef 01/06/2013]
 
 (4) The Minister may determine an appeal under this section by confirming, varying or reversing any decision of the Authority or by amending any licence condition, direction or code of practice affecting the licensee.
-
-[4/2006 wef 01/04/2006]
 
 [Act 37 of 2012 wef 01/06/2013]
 
@@ -4644,8 +4604,6 @@ PROVISIONS AS TO USE OF HIGHWAYS
 
 114A\.—(1) The Minister may make rules to prohibit, restrict or regulate the use of any excluded vehicle on an expressway.
 
-[24/2010 wef 01/11/2010]
-
 (2) Rules made under subsection (1) may —
 
 (a) require the owner or driver of any excluded vehicle to —
@@ -4661,8 +4619,6 @@ PROVISIONS AS TO USE OF HIGHWAYS
 (c) relax, or empower the Authority or an employee thereof to relax, in a particular case any prohibition or restriction imposed by such rules; and
 
 (d) prescribe the form and manner in which an application for a permit referred to in paragraph (a) is to be made.
-
-[24/2010 wef 01/11/2010]
 
 (3) In this section —
 
@@ -4874,19 +4830,11 @@ in relation to the restriction or prohibition of the use of that road or part th
 
 (b) any pedestrian shall comply with any direction given by the police officer, employee of the Authority or security officer (as the case may be) in the execution of his duty, either to pedestrians or to pedestrians and other traffic.
 
-[24/2010 wef 01/11/2010]
-
 (2) Where a police officer or a security officer, who is in uniform, is for the time being engaged in the regulation of traffic on a road at any place where there are traffic light signals regulating the movement of traffic, any person driving a vehicle shall comply with the directions given by the police officer or security officer notwithstanding that the traffic light signals indicate otherwise.
-
-[24/2010 wef 01/11/2010]
 
 (3) Where any traffic sign, being a sign for regulating the movement of traffic or indicating the route to be followed by traffic, has been lawfully placed on or near any road pursuant to section 119, any person driving or propelling any vehicle shall comply with the indication given by the sign.
 
-[24/2010 wef 01/11/2010]
-
 (4) Any person who fails to comply with subsection (1), (2) or (3) shall be guilty of an offence.
-
-[24/2010 wef 01/11/2010]
 
 (5) In any proceedings for an offence under subsection (3), in so far as it is necessary to establish the offence charged, it shall be presumed until the contrary is proved that the sign was of the prescribed size, colour and type and that it was lawfully placed under section 119.
 
@@ -4930,11 +4878,7 @@ an enforcement officer who is in uniform may —
 
 (iii) immobilise the vehicle.
 
-[24/2010 wef 01/11/2010]
-
 (2) Where an enforcement officer has removed and detained, or has immobilised, any vehicle under subsection (1), the enforcement officer shall, with all reasonable despatch, notify the owner of the vehicle as to the procedure by which such owner may secure the release of the vehicle.
-
-[24/2010 wef 01/11/2010]
 
 (3) The notification under subsection (2) may be given —
 
@@ -4946,8 +4890,6 @@ an enforcement officer who is in uniform may —
 
 (b) where the vehicle has been immobilised, by affixing a notice onto the windscreen or any other conspicuous part of the vehicle.
 
-[24/2010 wef 01/11/2010]
-
 (4) No vehicle which has been removed and detained, or immobilised, under this section shall be released to the owner thereof except —
 
 (a) by or under the direction of a Magistrate or the Deputy Commissioner of Police or the Registrar; and
@@ -4955,8 +4897,6 @@ an enforcement officer who is in uniform may —
 (b) upon the owner of the vehicle having paid the costs of the removal and detention, or the immobilisation, of the vehicle, and such other charges as may be prescribed,
 
 and the vehicle shall remain at the risk of the owner of the vehicle until all such costs and charges have been paid.
-
-[24/2010 wef 01/11/2010]
 
 (5) A person shall be guilty of an offence if he —
 
@@ -4970,23 +4910,13 @@ and the vehicle shall remain at the risk of the owner of the vehicle until all s
 
 (iii) the immobilisation device that has been fixed to a vehicle under this section.
 
-[24/2010 wef 01/11/2010]
-
 (6) Where the owner or driver of a vehicle which has been immobilised under this section does not appear to secure the release of the vehicle within the time stipulated in the notice referred to in subsection (3)(b), an enforcement officer may remove the vehicle (including any trailer drawn or any load carried thereby) to such place as he thinks fit and detain it thereat, and shall give notice to the owner of the vehicle in accordance with subsection (3)(a) as to the procedure by which such owner may secure the release of the vehicle.
-
-[24/2010 wef 01/11/2010]
 
 (7) Where any vehicle which has been removed and detained, or immobilised, under this section is not claimed by its owner within 3 months from the date on which it was so removed and detained or immobilised (as the case may be), the Deputy Commissioner of Police or the Registrar may, after giving due notice in theGazetteand after giving not less than one month’s notice in writing to the owner (if the name and address of such owner are known to the Deputy Commissioner of Police or the Registrar), sell the vehicle by public auction or otherwise dispose of the vehicle.
 
-[24/2010 wef 01/11/2010]
-
 (8) The proceeds from the sale or disposal of any such vehicle shall be applied in the payment of the costs incurred in carrying out the provisions of this section and such other charges as may be prescribed, and the surplus, if any, shall be paid to the owner of the vehicle or, if not claimed by such owner within 12 months, shall be forfeited to the Government.
 
-[24/2010 wef 01/11/2010]
-
 (9) The enforcement officer who removes and detains, or who immobilises, a vehicle under this section, the Deputy Commissioner of Police, the Registrar, the Authority or any person who assists the enforcement officer to remove and detain, or to immobilise, the vehicle shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the enforcement officer, the Deputy Commissioner of Police, the Registrar, the Authority or the person assisting the enforcement officer in the exercise of the powers under this section.
-
-[24/2010 wef 01/11/2010]
 
 (10) In this section —
 
@@ -5204,19 +5134,25 @@ MISCELLANEOUS PROVISIONS
 
 (a) in relation to an application made under this Act for registration or the cancellation of the registration of a vehicle, the grant of any approval, permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any approval, permit or licence or of procuring the imposition of any condition or limitation in relation to any approval, permit or licence, makes or causes to be made any statement or declaration which is false or in any material respect misleading;
 
+[4/2006 wef 27/02/2006]
+
 (b) furnishes or causes to be furnished any particulars in connection with a change of the registration of any vehicle which to his knowledge are false or in any material respect misleading; or
 
+[4/2006 wef 27/02/2006]
+
 (c) makes or causes to be made any entry in a record, register or other document required to be kept under this Act which to his knowledge is false or in any material respect misleading,
+
+[4/2006 wef 27/02/2006]
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [45/99; 1/2003]
 
-[4/2006 wef 27/02/2006]
-
 (2) If any person —
 
 (a) forges or alters or defaces or mutilates or uses or lends to, or allows to be used by, any other person, any mark, plate or document which is required under this Act to be carried on a vehicle or trailer, or any licence issued under this Act;
+
+[4/2006 wef 27/02/2006]
 
 (b) makes or has in his possession any mark, plate or document so closely resembling a licence or any mark, plate or document as aforesaid as to be calculated to deceive;
 
@@ -5237,8 +5173,6 @@ he shall, unless he establishes to the satisfaction of the court that he acted w
 (iii) in any other case, with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both.
 
 [45/99; 1/2003]
-
-[4/2006 wef 27/02/2006]
 
 (3) Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have the jurisdiction to try any offence under this section and to impose the maximum penalty prescribed therefor.
 
@@ -5338,11 +5272,7 @@ shall be guilty of an offence.
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-[24/2010 wef 01/11/2010]
-
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
-
-[24/2010 wef 01/11/2010]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -5352,11 +5282,7 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-[24/2010 wef 01/11/2010]
-
 (4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
-
-[24/2010 wef 01/11/2010]
 
 (5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
@@ -5365,8 +5291,6 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 (b) to be attributable to any act or default on the part of such an officer or a member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
-
-[24/2010 wef 01/11/2010]
 
 (6) In this section —
 
@@ -5379,8 +5303,6 @@ the officer or member as well as the unincorporated association shall be guilty 
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
-
-[24/2010 wef 01/11/2010]
 
 (7) The appropriate Minister may make rules to provide for the application of any provision of this section, with such modifications as the appropriate Minister considers appropriate, to any body corporate, limited liability partnership or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -5437,6 +5359,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 (6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall —
 
 (a) proceed as though he were produced before it under section 153 of the Criminal Procedure Code 2010; and
+
+[15/2010 wef 02/01/2011]
 
 (b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him,
 
@@ -5592,8 +5516,6 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 
 to hear and determine such appeal in his place.
 
-[24/2010 wef 01/11/2010]
-
 (2) In this section, the references to a Minister of State and a Parliamentary Secretary include, respectively, references to a Senior Minister of State and a Senior Parliamentary Secretary.
 
 [24/2010 wef 01/11/2010]
@@ -5602,8 +5524,6 @@ to hear and determine such appeal in his place.
 
 142B\.—(1) The Deputy Commissioner of Police or the Authority may, for the purpose of assisting him or it in the regulation of traffic under any provision of this Act, authorise, subject to such restrictions as he or it may impose, such number of security officers as he or it thinks necessary to regulate traffic under that provision.
 
-[24/2010 wef 01/11/2010]
-
 (2) Every security officer who is authorised to regulate traffic pursuant to subsection (1) shall, when in uniform and while carrying out his duties in regulating traffic under any provision of this Act, comply with such directions as the Deputy Commissioner of Police or the Authority (as the case may be) may give.
 
 [24/2010 wef 01/11/2010]
@@ -5611,8 +5531,6 @@ to hear and determine such appeal in his place.
 ### Regulation of traffic in connection with events, etc.
 
 143\.—(1) Except as otherwise provided by rules made under subsection (11), no person shall conduct any event on any road or part thereof unless he has obtained a permit from the Deputy Commissioner of Police under this section authorising him to use that road or part thereof for the conduct of such event.
-
-[24/2010 wef 01/11/2010]
 
 (2) The Deputy Commissioner of Police may, on his own motion, or upon granting a permit referred to in subsection (1), issue police orders to —
 
@@ -5628,15 +5546,11 @@ to hear and determine such appeal in his place.
 
 (iv) such other matters as may be necessary or incidental to the closure of any road or part thereof under paragraph (a).
 
-[24/2010 wef 01/11/2010]
-
 (3) An application for a permit referred to in subsection (1) shall —
 
 (a) be made to the Deputy Commissioner of Police in such form or manner, and not less than such period before the date of the event, as the Deputy Commissioner of Police may require; and
 
 (b) be accompanied by such fee (if any) as the Minister may prescribe.
-
-[24/2010 wef 01/11/2010]
 
 (4) Upon receiving an application under subsection (3), the Deputy Commissioner of Police may, after consulting the Authority —
 
@@ -5647,8 +5561,6 @@ to hear and determine such appeal in his place.
 (ii) subject to such conditions as the Deputy Commissioner of Police and the Authority may each think fit to impose; or
 
 (b) refuse to grant the permit.
-
-[24/2010 wef 01/11/2010]
 
 (5) The conditions which may be imposed under subsection (4)(a)(ii) include conditions requiring the person to whom the permit is granted, at such person’s own expense —
 
@@ -5668,31 +5580,17 @@ to hear and determine such appeal in his place.
 
 (d) to engage a sufficient number of auxiliary police officers or security officers to regulate traffic on any road or at or around the venue of the event to which the permit relates in accordance with such directions as the Deputy Commissioner of Police may give.
 
-[24/2010 wef 01/11/2010]
-
 (6) Without prejudice to subsection (5), the Deputy Commissioner of Police may take such measures as he thinks fit to implement any police order issued under subsection (2) and may deploy police officers, auxiliary police officers and security officers to regulate traffic on any road or at or around any venue affected by the police order.
-
-[24/2010 wef 01/11/2010]
 
 (7) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-[24/2010 wef 01/11/2010]
-
 (8) If the person to whom a permit is granted under this section fails to comply with any condition imposed by the Deputy Commissioner of Police or the Authority (as the case may be) under subsection (4)(a)(ii), that person shall be guilty of an offence, and the Deputy Commissioner of Police may revoke the permit granted to that person.
-
-[24/2010 wef 01/11/2010]
 
 (9) If any person neglects or refuses to stop a vehicle or to make it proceed in or keep to a particular line of traffic or neglects or refuses himself to proceed in or keep to a particular line of traffic when directed to do so by a police officer, an auxiliary police officer or a security officer, who is in uniform and who is engaged or deployed to regulate traffic for the purpose of this section, that person shall be guilty of an offence.
 
-[24/2010 wef 01/11/2010]
-
 (10) Police orders issued under this section shall be published in theGazetteand may be published in such other manner as the Deputy Commissioner of Police may think fit.
 
-[24/2010 wef 01/11/2010]
-
 (11) The Minister may make rules to prescribe the types of event to which subsection (1) does not apply and to make provisions subject to which any road or part thereof may be used for the conduct of any such event.
-
-[24/2010 wef 01/11/2010]
 
 (12) In this section, “event” means —
 
@@ -5748,7 +5646,7 @@ SECOND SCHEDULE
 
 Section 100
 
-Classification and Descriptions of Public Service Vehicles
+Classification and descriptions of public service vehicles
 
 1. The classification and descriptions of public service vehicles for the purpose of this Act shall be as follows:
 
@@ -5846,7 +5744,7 @@ Road Traffic Act
 
 (CHAPTER 276)
 
-This Legislative History is provided for the convenience of users of the Road Traffic Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Road Traffic Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -6158,6 +6056,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 19/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014|
+|62.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
@@ -6168,9 +6071,9 @@ The following provisions in the 1997 Revised Edition of the Road Traffic Act hav
 
 This Comparative Table is provided for the convenience of users. It is not part of the Road Traffic Act.
 
-2004 Ed.
+2004 Ed\. 
 
-1997 Ed.
+1997 Ed\. 
 
 5 —(1)
 
