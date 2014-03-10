@@ -522,7 +522,9 @@ CHARTERED ACCOUNTANTS OF SINGAPORE
 
 (a) describe himself as “Chartered Accountant of Singapore”; and
 
-(b) use the initials “C.A. (Singapore)” after his name.
+(b) use the initials “CA (Singapore)” after his name.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (2) A person who is not registered as a chartered accountant, or whose registration as such is suspended, under this Act shall not —
 
@@ -532,7 +534,9 @@ CHARTERED ACCOUNTANTS OF SINGAPORE
 
 (i) the expression “Chartered Accountant of Singapore” or any of its derivatives or abbreviations, in any language;
 
-(ii) the initials “C.A. (Singapore)”; or
+(ii) the initials “CA (Singapore)”; or
+
+[Act 4 of 2014 wef 10/03/2014]
 
 (iii) any word, designation or description, in any language, tending to convey the impression that he is a Chartered Accountant of Singapore, or that he is qualified or authorised to practise as such.
 
