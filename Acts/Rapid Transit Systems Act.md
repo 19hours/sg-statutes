@@ -56,6 +56,8 @@
 
 - [18 Directions affecting licensees](#Directions-affecting-licensees)
 
+- [18A Appointment and removal of director, etc., of licensee](#Appointment-and-removal-of-director-etc-of-licensee)
+
 - [19 Suspension or cancellation of licence, etc.](#Suspension-or-cancellation-of-licence-etc)
 
 - [19A Provisional orders for securing compliance](#Provisional-orders-for-securing-compliance)
@@ -202,17 +204,29 @@ and any associated investigative and engineering studies, but does not include t
 
 “railway area” means the land delineated as such in plans and maps prepared under section 3(1) or (3);
 
-“railway premises” means any area, space or building owned or occupied by the Authority which is designed, equipped or set apart for the carriage of passengers by train or for affording facilities incidental to the carriage of passengers by train and includes any train on such premises;
+“railway commuter facility” means —
+
+(a) a pedestrian facility (such as ramps, overhead bridges, footpaths, escalators, stairs and lifts) for or connected or facilitating access to the railway comprised in any rapid transit system;
+
+(b) a bicycle parking facility or vehicle set down facility for intending passengers of the railway comprised in any rapid transit system; or
+
+(c) any other similar structure or facility that integrates a rapid transit system with developments surrounding the rapid transit system by facilitating better access for passengers to residences, employment, markets, services and recreation;
+
+[Act 9 of 2014 wef 25/03/2014]
+
+“railway premises” means any area, space or building owned or occupied by the Authority which is designed, equipped or set apart for the carriage of passengers by train or for affording facilities incidental to the carriage of passengers by train (but not any railway commuter facility) and includes any train on such premises;
+
+[Act 9 of 2014 wef 25/03/2014]
 
 “rapid transit system” means any railway line, or a combination of 2 or more railway lines, and any part thereof comprised in that line or those lines set up or intended to be set up under this Act to meet the transport requirements of the public and includes the Mass Rapid Transit system set up under the repealed Act;
+
+[21/2010 wef 13/09/2010]
 
 “repealed Act” means the repealed Mass Rapid Transit Corporation Act (Cap. 172, 1988 Ed.);
 
 “train” includes a carriage, tram, car or other vehicle for the carriage of passengers on a railway.
 
 [3/98]
-
-[21/2010 wef 13/09/2010]
 
 ## PART II
 
@@ -240,11 +254,19 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 ### Power to enter State land to lay and operate railway
 
-4\. For the purpose of constructing, maintaining and operating any railway, the Authority or any person authorised by the Authority may —
+4\.—(1) For the purpose of constructing, maintaining and operating any railway, the Authority or any person authorised by the Authority may —
 
 (a) at any reasonable time, enter upon any State land within or adjoining the railway area; and
 
 (b) subject to the approval of the Collector of Land Revenue, lay, construct and operate the railway on, under or over the State land and do all things as are reasonably necessary for the laying, construction, maintenance and operation of the railway.
+
+(2) In addition to subsection (1), the Authority may, at any reasonable time, enter upon any State land that is within or adjoining any railway area, and do all things as are reasonably necessary for the construction and maintenance of railway commuter facilities on, under or over that land.
+
+[Act 9 of 2014 wef 25/03/2014]
+
+(3) For the avoidance of doubt, nothing in subsection (2) derogates from any power of the Authority to construct and maintain any street, road structure or road related facility under the Street Works Act (Cap. 320A).
+
+[Act 9 of 2014 wef 25/03/2014]
 
 ### Power to enter private land to lay railway
 
@@ -265,6 +287,14 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 (d) state that any person entitled to payment of any compensation under the Land Transport Authority of Singapore Act (Cap. 158A) may serve a written claim on the Authority.
 
 (5) The ownership of anything shall not be altered by reason only that it is placed in, under, over or affixed to any land in exercise of a right conferred upon the Authority by this section.
+
+(5A) Any person authorised under this section to enter upon any land shall, if so required by the owner or occupier, produce evidence of his authority before so entering the land.
+
+[Act 9 of 2014 wef 25/03/2014]
+
+(5B) Any person who refuses to give access to, or obstructs, hinders or delays, an agent or employee of the Authority at any time in the exercise of his authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[Act 9 of 2014 wef 25/03/2014]
 
 (6) In this section, a reference to entry on land includes the digging or boring of a tunnel under the land and the erection of any structure over or under the land.
 
@@ -334,7 +364,9 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 (7) Any person authorised under this section to enter upon any land or building shall, if so required by the owner or occupier, produce evidence of his authority before so entering it.
 
-(8) Any person who unlawfully obstructs an agent or employee of the Authority at any time in the exercise of his authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(8) Any person who refuses to give access to, or obstructs, hinders or delays, an agent or employee of the Authority at any time in the exercise of his authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[Act 9 of 2014 wef 25/03/2014]
 
 ### Utility services
 
@@ -436,9 +468,11 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 
 (b) the security and safety of persons using or engaged in work on the rapid transit system;
 
+[21/2010 wef 13/09/2010]
+
 (c) the maintenance and operation of the railway relating to the rapid transit system;
 
-(d) the approval by the Authority of the appointment, re-appointment or removal of any person as the licensee’s chief executive officer, the chairman of the licensee’s board of directors or any of its directors;
+(d) [Deleted by Act 9 of 2014 wef 25/03/2014]
 
 (e) the deposit of security or bank guarantee to the satisfaction of the Authority for the due performance by the licensee of all or any obligations imposed upon it by the licence or by this Act;
 
@@ -449,8 +483,6 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 (h) the standards of performance to be complied by the licensee in the maintenance or operation of the rapid transit system or the provision of rapid transit system services.
 
 [41/2002]
-
-[21/2010 wef 13/09/2010]
 
 (2) Without prejudice to the generality of subsection (1), conditions included in a licence to operate a rapid transit system —
 
@@ -476,7 +508,9 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 
 (i) to operate or maintain any extension of the rapid transit system or part thereof; or
 
-(ii) to maintain any premises, structure or facility used or for the purposes of, or otherwise reasonably necessary or incidental to, operating the rapid transit system so as to integrate the rapid transit system with transport services and facilities and developments surrounding the rapid transit system and enhance railway passenger services, including but not limited to any approaches, forecourt, cycle store or car park connected with or adjoining a station, any passenger overhead bridges and lifts within the vicinity of a station;
+(ii) to maintain any railway commuter facility within the vicinity of a station that is part of the rapid transit system, and any other premises, facilities and structures used as, or for the purposes of, or otherwise reasonably necessary for or incidental to operating the rapid transit system;
+
+[Act 9 of 2014 wef 25/03/2014]
 
 (g) may require the licensee to acquire from such person as may be specified in the licence, and to use, such property or rights as may be so specified, or to undertake such liabilities as may be so specified;
 
@@ -564,11 +598,7 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 
 (b) the Authority consents in writing to such acquisition.
 
-[21/2010 wef 13/09/2010]
-
 (2) Any acquisition, or a purported acquisition, on or after the date of commencement of section 6 of the Rapid Transit Systems (Amendment) Act 2010, of any essential operating asset of a rapid transit system or part thereof, or an interest in an essential operating asset of a rapid transit system or part thereof, in contravention of subsection (1) shall be void.
-
-[21/2010 wef 13/09/2010]
 
 (3) In this section, “essential operating asset”, in relation to any rapid transit system, means any land, plant, equipment, machinery or other property which —
 
@@ -586,11 +616,7 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 
 (b) the Authority consents in writing to such transfer or assignment.
 
-[21/2010 wef 13/09/2010]
-
 (2) Any consent under subsection (1) may be given subject to compliance with such conditions as the Authority thinks fit to impose, which may, subject to section 16, include conditions modifying, or requiring or otherwise providing for the making of modifications to, the conditions of the licence.
-
-[21/2010 wef 13/09/2010]
 
 (3) A transfer or an assignment, or a purported transfer or assignment, of a licence shall be void —
 
@@ -599,8 +625,6 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 (b) if the transfer or assignment, or purported transfer or assignment, is in breach of a condition of the licence; or
 
 (c) if there has, before the transfer or assignment or purported transfer or assignment, been a contravention of a condition subject to compliance with which the consent required by subsection (1) is given.
-
-[21/2010 wef 13/09/2010]
 
 (4) Every licence shall not be capable of being surrendered without the consent in writing of the Authority, and any surrender or purported surrender of a licence shall be void if it is without such consent.
 
@@ -658,11 +682,11 @@ OPERATION OF RAPID TRANSIT SYSTEMS
 
 (d) the security and safety of persons who use or who are engaged in any work on the rapid transit system; and
 
+[21/2010 wef 13/09/2010]
+
 (e) any other matters affecting the interests of the public in connection with the services provided by licensees.
 
 [41/2002]
-
-[21/2010 wef 13/09/2010]
 
 (2) Any direction given under subsection (1) —
 
@@ -694,17 +718,71 @@ unless the Authority, in respect of any particular direction, considers that it 
 
 [41/2002]
 
+### Appointment and removal of director, etc., of licensee
+
+18A\.—(1) No licensee shall —
+
+(a) appoint or re‑appoint an individual as its chief executive officer, its director or the chairman of its board of directors; or
+
+(b) remove its chief executive officer or the chairman of its board of directors or any of its directors,
+
+unless the licensee has obtained the approval of the Authority to do so.
+
+(2) Where a licensee, in contravention of subsection (1), does any of the following without the approval of the Authority:
+
+(a) appoint or re‑appoint an individual as its chief executive officer, its director or the chairman of its board of directors;
+
+(b) remove its chief executive officer or the chairman of its board of directors or any of its directors,
+
+the Authority may issue a direction to the licensee to do either of the following, whichever being applicable, and the licensee must comply with that direction given to it:
+
+(i) to remove that individual from his appointment as the chief executive officer or a director or the chairman of the board of directors of the licensee, as the case may be;
+
+(ii) to reinstate the individual as the chief executive officer or a director or the chairman of the board of directors of the licensee, as the case may be.
+
+(3) Where at any time the Authority is satisfied that it is necessary or desirable to act for the purpose of the proper administration of the licensee’s business of operating a rapid transit system, the Authority may issue a direction to the licensee to appoint an individual as an additional director of the licensee, and the licensee must comply with that direction given to it.
+
+(4) Before giving any direction to any licensee under subsection (2) or (3), the Authority must give notice to the licensee informing the licensee of the proposed direction and setting out its effect, and specifying the time within which representations or objections to the proposed direction may be made by the licensee in connection with the proposed direction, unless the Authority, in respect of any particular direction, considers that it is not practicable or desirable that such notice be given.
+
+(5) The Authority must consider any representations or objections which are duly made by the licensee in connection with a proposed direction following a notice under subsection (4).
+
+(6) This section shall have effect notwithstanding the provisions of any other written law and the provisions of the memorandum or articles of association, or other constitution, of the licensee, and nothing in section 152 of the Companies Act (Cap. 50) shall prevent the Authority from exercising any power under this section.
+
+(7) Nothing in subsections (2) to (6) shall be taken as depriving an individual who is removed under any of those provisions of compensation or damages payable to him in respect of the termination of his appointment as a chief executive officer, director or chairman of the board of directors.
+
+(8) In this section —
+
+“chief executive officer”, in relation to a licensee, means any individual (however described by name) who —
+
+(a) is in the direct employment of, or acting for or by arrangement with, the licensee; and
+
+(b) is principally responsible for the management and conduct of any type of business of the licensee in Singapore,
+
+and includes any individual for the time being performing all or any of the functions or duties of the chief executive officer;
+
+“director” has the same meaning as in section 4(1) of the Companies Act.
+
+[Act 9 of 2014 wef 25/03/2014]
+
 ### Suspension or cancellation of licence, etc.
 
 19\.—(1) Subject to subsection (2), if any licensee —
 
-(a) contravenes or fails to comply with, or fails to secure the compliance by its employees, agents or contractors with, any of the conditions of its licence to operate any rapid transit system or with the provisions of this Act;
+(a) contravenes or fails to comply with, or fails to secure the compliance by its employees, agents or contractors with, any of the conditions of its licence to operate any rapid transit system or with any provision of this Act which is applicable to the licensee and for which no criminal penalty is prescribed for a contravention of the provision;
+
+[Act 9 of 2014 wef 25/03/2014]
+
+(aa) is convicted of any offence under this Act;
+
+[Act 9 of 2014 wef 25/03/2014]
 
 (b) in the opinion of the Authority, fails or is likely to fail to provide and maintain an adequate, safe and satisfactory service;
 
 (c) fails to comply with any provision of any code of practice issued or approved by the Authority under section 17;
 
-(d) fails to comply with any direction given by the Authority under section 18;
+(d) fails to comply with any direction given by the Authority under section 18 or 18A;
+
+[Act 9 of 2014 wef 25/03/2014]
 
 (da) fails to comply with any provisional order confirmed under section 19A;
 
@@ -720,17 +798,29 @@ the Authority may, by notice in writing and without any compensation, do all or 
 
 (ii) forfeit the whole or any part of any security deposited with the Authority by the licensee or by its bank pursuant to a bank guarantee;
 
-(iii) require the licensee to pay, within a specified period, a financial penalty of such amount not exceeding $1 million as the Authority thinks fit.
+(iii) require the licensee to pay, within a specified period, a financial penalty of such amount as the Authority thinks fit, which in any case shall not exceed the maximum amount specified in subsection (1A).
 
-[41/2002]
+[Act 9 of 2014 wef 25/03/2014]
+
+(1A) For the purposes of requiring a licensee of any rapid transit system to pay a financial penalty under subsection (1)(iii), the maximum amount means the higher of the following amounts:
+
+(a) $1 million; or
+
+(b) 10% of the licensee’s annual fare revenue that is received —
+
+(i) during the licensee’s last‑completed financial year as ascertained from the licensee’s latest audited accounts; and
+
+(ii) from the operation of the rapid transit system or, if more than one rapid transit system is the subject of the licensee’s licence, of each rapid transit system.
+
+[Act 9 of 2014 wef 25/03/2014]
 
 (2) The Authority shall not impose any financial penalty under subsection (1)(iii) on any licensee by reason only that under subsection (1)(b) the Authority is of the opinion that the licensee is likely to fail to provide and maintain an adequate, safe and satisfactory service.
 
 [41/2002]
 
-[21/2010 wef 13/09/2010]
+(3) In this section, “annual fare revenue”, in relation to a licensee of a rapid transit system, means the total charges received by the licensee from passengers for travel services provided on any railway comprised in that rapid transit system, less any goods and services tax paid by, the value of any rebate supplied to, and any connection commission paid by, passengers in connection with those travel services.
 
-(3) [Deleted by Act 21/2010 wef 17/09/2010 wef 17/09/2010 wef 17/09/2010 wef 17/09/2010 wef 13/09/2010]
+[Act 9 of 2014 wef 25/03/2014]
 
 ### Provisional orders for securing compliance
 
@@ -742,8 +832,6 @@ the Authority may, by notice in writing and without any compensation, do all or 
 
 and that it is appropriate or requisite that a provisional order be made under this section, the Authority shall, instead of taking any decision under section 19, by provisional order make such provision as appears to it requisite for securing compliance with that condition.
 
-[21/2010 wef 13/09/2010]
-
 (2) A provisional order —
 
 (a) shall require the licensee to whom it relates (according to the circumstances of the case) to do, or not to do, such things as are specified in the provisional order or are of a description so specified;
@@ -752,19 +840,13 @@ and that it is appropriate or requisite that a provisional order be made under t
 
 (c) may be revoked at any time by the Authority.
 
-[21/2010 wef 13/09/2010]
-
 (3) In determining whether it is appropriate or requisite that a provisional order be made, the Authority shall have regard, in particular, to the extent to which any person is likely to sustain loss or damage in consequence of anything which, in contravention of the condition of a licence, is likely to be done, or omitted to be done, before a decision under section 19 may be made.
-
-[21/2010 wef 13/09/2010]
 
 (4) Subject to subsections (5), (6) and (7), the Authority shall, by notice in writing, confirm a provisional order, with or without modifications, if —
 
 (a) the Authority is satisfied that the licensee to whom the order relates is contravening, or is likely to contravene any condition of its licence, or has failed to secure the compliance by its employees, agents or contractors with any condition of its licence; and
 
 (b) the provision made by the order (with any modifications) is requisite for the purpose of securing compliance with that condition.
-
-[21/2010 wef 13/09/2010]
 
 (5) The Authority shall not make or confirm a provisional order in relation to a licensee if it is satisfied —
 
@@ -773,8 +855,6 @@ and that it is appropriate or requisite that a provisional order be made under t
 (b) that the licensee has agreed to take, and is taking, all such steps as it appears to the Authority for the time being to be appropriate for the licensee to take for the purpose of securing or facilitating compliance with the condition in question; or
 
 (c) that the contraventions were, or the apprehended contraventions are, of a trivial nature.
-
-[21/2010 wef 13/09/2010]
 
 (6) Before the Authority makes or confirms a provisional order, the Authority shall give notice to the licensee concerned —
 
@@ -792,8 +872,6 @@ and that it is appropriate or requisite that a provisional order be made under t
 
 and shall consider any representations or objections which are duly made and not withdrawn.
 
-[21/2010 wef 13/09/2010]
-
 (7) The Authority shall not confirm a provisional order with modifications except —
 
 (a) with the consent of the licensee to whom the provisional order relates; or
@@ -803,8 +881,6 @@ and shall consider any representations or objections which are duly made and not
 (i) serving on that licensee such notice of the proposal to confirm the provisional order with modifications and in that notice, specifying the period (not being less than 28 days from the date of service of the notice) within which representations or objections with respect to the proposed modifications may be made; and
 
 (ii) considering any representations or objections which are duly made and not withdrawn.
-
-[21/2010 wef 13/09/2010]
 
 (8) In this section, “provisional order” means an order under this section which, if not previously confirmed in accordance with subsection (5), will cease to have effect at the end of such period (not exceeding 3 months) as is determined by or under the order.
 
@@ -842,17 +918,19 @@ and the liability of the licensee concerned to pay shall not be affected by its 
 
 (a) any licence condition imposed by the Authority under section 15(1)(g) or (h) or (2);
 
+[21/2010 wef 13/09/2010]
+
 (b) any addition, deletion or modification of the terms or conditions of its licence under section 16;
 
 (c) any code of practice as issued, approved or modified by the Authority under section 17;
 
-(d) any direction given by the Authority under section 18;
+(d) any direction given by the Authority under section 18 or 18A;
+
+[Act 9 of 2014 wef 25/03/2014]
 
 (e) any decision made by the Authority under section 19(1)(i), (ii) or (iii);
 
 (ea) any confirmed provisional order under section 19A; or
-
-[21/2010 wef 13/09/2010]
 
 (f) the refusal of the Authority to renew its licence,
 
@@ -864,11 +942,11 @@ may, within 14 days of the receipt of the notice relating to the relevant matter
 
 [21/2010 wef 13/09/2010]
 
+[41/2002]
+
 (2A) If any such appeal is made in relation to a provision of a notice under section 19(1)(iii) requiring the payment of a financial penalty and the financial penalty would be payable before the time when the appeal is determined, it need not be paid until that time.
 
 [21/2010 wef 13/09/2010]
-
-[41/2002]
 
 (3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision of the Authority or by amending any licence condition, code of practice or direction affecting the licensee.
 
@@ -946,15 +1024,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 23A\.—(1) For the purposes of ensuring the security or safety of persons on any railway premises (whether passengers of a rapid transit system or otherwise), an authorised officer may, without giving any reason, ask any person on the railway premises to allow the authorised officer to inspect and search any baggage or other thing carried by the person or apparently in the immediate control of the person; and that person shall permit the baggage or thing to be inspected and searched.
 
-[21/2010 wef 13/09/2010]
-
 (2) Without prejudice to subsection (3), an authorised officer may require any person who refuses to permit any baggage or thing carried by the person or apparently in the immediate control of the person to be inspected and searched to leave the railway premises with the baggage or thing, and that person shall do so within a reasonable time.
 
-[21/2010 wef 13/09/2010]
-
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[21/2010 wef 13/09/2010]
 
 (4) In this section, “authorised officer” means —
 
@@ -1028,8 +1100,6 @@ RAILWAY ADMINISTRATION ORDERS
 
 (b) in a manner which protects the respective interests of the members, creditors and customers of the licensee.
 
-[21/2010 wef 13/09/2010]
-
 (2) The purposes of a railway administration order made in relation to any licensee that is a company shall be for —
 
 (a) the safety, security and continuity of the supply of railway passenger services and facilities relating to the rapid transit system specified in its licence;
@@ -1044,11 +1114,7 @@ RAILWAY ADMINISTRATION ORDERS
 
 (ii) appointing a person to advise the company in the proper conduct of its business.
 
-[21/2010 wef 13/09/2010]
-
 (3) The Minister may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a company which is a licensee to any person appointed by the Minister under a railway administration order to advise the company in the proper conduct of its business.
-
-[21/2010 wef 13/09/2010]
 
 (4) The Minister may, by rules published in theGazette, give effect to this Part, including making provision for applying, omitting or modifying provisions of the Companies Act (Cap. 50) where a railway administration order is made.
 
@@ -1057,8 +1123,6 @@ RAILWAY ADMINISTRATION ORDERS
 ### Railway administration order, etc., made on application by Authority
 
 27B\.—(1) If, on an application made to the Minister by the Authority, the Minister is satisfied in relation to any company that is a licensee that any one or more of the grounds specified in subsection (2) is satisfied in relation to that company, the Minister may make a railway administration order in relation to that company.
-
-[21/2010 wef 13/09/2010]
 
 (2) The grounds mentioned in subsection (1) are, in relation to any company that is a licensee of a rapid transit system —
 
@@ -1070,15 +1134,9 @@ RAILWAY ADMINISTRATION ORDERS
 
 (d) that the Minister otherwise considers it in the public interest.
 
-[21/2010 wef 13/09/2010]
-
 (3) Notice of any application under subsection (1) shall be given immediately by the Authority to such persons and in such manner as may be prescribed.
 
-[21/2010 wef 13/09/2010]
-
 (4) Any decision of the Minister under subsection (1) shall be final.
-
-[21/2010 wef 13/09/2010]
 
 (5) For the purposes of this section, a company is unable to pay its debts if it is a company which is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
 
@@ -1127,8 +1185,6 @@ RAILWAY ADMINISTRATION ORDERS
 (b) no judicial management order under the Companies Act (Cap. 50) shall be made in relation to the company; and
 
 (c) no step shall be taken by any person to enforce any security over the company’s property except where that person has served 14 days’ notice of his intention to take that step on the Authority.
-
-[21/2010 wef 13/09/2010]
 
 (2) The Authority shall be a party to any proceedings under the Companies Act (Cap. 50) relating to the winding up of the affairs of a company which is a licensee.
 
@@ -1344,8 +1400,6 @@ whichever is the lower.
 
 (g) prescribing the fees for services rendered by the Authority.
 
-[21/2010 wef 13/09/2010]
-
 (3) The Authority may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $5,000 and, in the case of a continuing offence, a further sum of $100 for every day or part thereof during which the offence continues after conviction.
 
 [42
@@ -1386,7 +1440,7 @@ Rapid Transit Systems Act
 
 (CHAPTER 263A)
 
-This Legislative History is provided for the convenience of users of the Rapid Transit Systems Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Rapid Transit Systems Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1414,19 +1468,23 @@ This Legislative History is provided for the convenience of users of the Rapid T
 ||Date of First Reading|19 July 2010|
 ||Date of Second and Third Reading|16 August 2010|
 ||Date of commencement|13 September 2010|
+|7.|**Act 9 of 2014—Rapid Transit Systems (Amendment) Act 2014**|
+||Date of First Reading|20 January 2014 (Bill No. 5/2014 published on 20 January 2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|25 March 2014|
 ## COMPARATIVE TABLE
 
 Rapid Transit Systems Act
 
 (CHAPTER 263A)
 
-The following provisions in the 1985 Revised Edition of the Industrial Relations Act have been renumbered by the Law Revision Commissioners in this 2004 Revised Edition.
+The following provisions in the 1996 Revised Edition of the Rapid Transit Systems Act have been renumbered by the Law Revision Commissioners in this 2004 Revised Edition.
 
-This Comparative Table is provided for the convenience of users. It is not part of the Industrial Relations Act.
+This Comparative Table is provided for the convenience of users. It is not part of the Rapid Transit Systems Act.
 
 2004 Ed\. 
 
-1985 Ed\. 
+1996 Ed\. 
 
 16 
 
