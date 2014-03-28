@@ -1714,7 +1714,9 @@ whichever is the lower.
 
 (h) the governing board constituted for any school under the School Boards (Incorporation) Act (Cap. 284A), its governors and the teachers of such a school;
 
-(i) the Nanyang Technological University, the National University of Singapore, the Singapore Management University, the Singapore University of Technology and Design and any other person whose function of providing university education is determined by written law, any entity owned (wholly or partly) or controlled by any such University or person, and the teachers of the respective Universities and entities; and
+(i) the Nanyang Technological University, the National University of Singapore, the Singapore Management University, the Singapore University of Technology and Design, the Singapore Institute of Technology and any other person whose function of providing university education is determined by written law, any entity owned (wholly or partly) or controlled by any such University or person, and the teachers of the respective Universities and entities; and
+
+[Act 11 of 2014 wef 28/03/2014]
 
 (j) any place of safety or juvenile rehabilitation centre approved, appointed or established under the Children and Young Persons Act (Cap. 38) or any approved institution approved under section 12 of the Probation of Offenders Act (Cap. 252), respectively, and the respective managers thereof.
 
@@ -2018,6 +2020,11 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of commencement|18 October 2011|
 |5.|**2011 Revised Edition—Private Education Act (Chapter 247A)**|
 ||Date of operation|31 December 2011|
+|6.|**Act 11 of 2014—Singapore Institute of Technology Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 January 2014 (Bill No. 7/2014 published on 20 January 2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|28 March 2014|
 ## COMPARATIVE TABLE
 
 Private Education Act
