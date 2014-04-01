@@ -232,7 +232,9 @@ and where the services of an employee are temporarily lent or let on hire to ano
 
 Provided that every injury specified in the First Schedule, except such injury or combination of injuries in respect of which the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to or exceeds 100%, shall be deemed to result in permanent partial incapacity;
 
-“seaman” means any person employed as part of the crew of any Singapore ship within the meaning of the Merchant Shipping Act (Cap. 179) and includes the master of any such ship;
+“seaman” means any person employed as part of the crew of any Singapore ship within the meanings of “crew” and “Singapore ship” in the Merchant Shipping Act (Cap. 179);
+
+[Act 6 of 2014 wef 01/04/2014]
 
 “total incapacity” means such incapacity whether of a temporary or permanent nature as incapacitates an employee for all work which he was capable of undertaking at the time of the accident resulting in such incapacity:
 
@@ -818,9 +820,19 @@ the amount due in respect of any compensation or liability for compensation accr
 
 (c) where an injured master or seaman is discharged or left behind in any territory in the Commonwealth or in a foreign country, depositions respecting the circumstances and nature of the injury may be taken by any judge or magistrate in that territory or by a consular officer in the foreign country, and if so taken and transmitted by the person by whom they are taken to the Minister, they or certified copies thereof shall, in any proceedings for enforcing the claim, be admissible in evidence as provided by sections 184 and 186 of the Merchant Shipping Act (Cap. 179), and those sections shall apply accordingly;
 
-(d) no periodical payment for temporary incapacity shall be payable in respect of the period during which the owner of the ship is, under any law relating to shipping in force for the time being in Singapore or any part thereof, liable to defray the expenses of maintenance of the injured master or seaman.
+(d) no periodical payment for temporary incapacity shall be payable in respect of the period during which the owner of the ship is, under any law relating to shipping in force for the time being in Singapore or any part thereof (other than the Merchant Shipping (Maritime Labour Convention) Act 2014), liable to defray the expenses of maintenance of the injured master or seaman;
 
 [S 22/89; 16/90; 5/2008]
+
+[Act 6 of 2014 wef 01/04/2014]
+
+(e) where a seaman has received payment under section 35 of the Merchant Shipping (Maritime Labour Convention) Act 2014 for the cost of medical treatment in respect of any injury within the meaning of this Act, the amount of compensation payable to the seaman under section 14(2) for the cost of medical treatment in respect of that injury shall be reduced by the amount so received;
+
+[Act 6 of 2014 wef 01/04/2014]
+
+(f) where a seaman has received payment under section 36 of the Merchant Shipping (Maritime Labour Convention) Act 2014 for loss of earnings in respect of any injury within the meaning of this Act, the amount of compensation payable to the seaman under section 14A for any temporary incapacity resulting from that injury shall be reduced by the amount so received.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 Division 5 —
 
@@ -954,7 +966,7 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 ### Pre-hearing conferences to be held when directed by Commissioner
 
-25B\.—(1) Without prejudice to the generality of section 25A(1), at any time after a claim for compensation has been made under section 11, the Commissioner may direct parties to attend a pre- hearing conference by serving a notice to the parties.
+25B\.—(1) Without prejudice to the generality of section 25A(1), at any time after a claim for compensation has been made under section 11, the Commissioner may direct parties to attend a pre‑hearing conference by serving a notice to the parties.
 
 [5/2008]
 
@@ -2128,8 +2140,6 @@ Any occupation involving exposure to tar, pitch, bitumen, mineral oil (including
 
 [S 200/2012 wef 01/06/2012]
 
-[5/2008]
-
 THIRD SCHEDULE
 
 Sections 7, 14(2), 14A and 44(1)
@@ -2630,11 +2640,17 @@ Sections 2(1) and 44(1)
 
 Classes of Persons Not Covered
 
-1\. Any member of the Singapore Armed Forces.
+1. 
 
-2\. Any officer of the Singapore Police Force, the Singapore Civil Defence Force, the Central Narcotics Bureau or the Singapore Prisons Service.
+Any member of the Singapore Armed Forces.
 
-3. A domestic worker, being any person employed in or in connection with the domestic services of any private premises.
+2. 
+
+Any officer of the Singapore Police Force, the Singapore Civil Defence Force, the Central Narcotics Bureau or the Singapore Prisons Service.
+
+3. 
+
+A domestic worker, being any person employed in or in connection with the domestic services of any private premises.
 
 [5/2008]
 
@@ -2701,3 +2717,7 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of commencement|1 June 2012|
 |14.|**G.N. No. S 200/2012—Work Injury Compensation Act (Amendment of Second and Third Schedules) Order 2012**|
 ||Date of commencement|1 June 2012|
+|15.|**Act 6 of 2014—Merchant Shipping (Maritime Labour Convention) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 27/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 April 2014|
