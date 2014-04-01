@@ -98,6 +98,8 @@
 
 - [22 Exemption on application](#Exemption-on-application)
 
+[**THE SCHEDULE**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
 # Child Development Co-Savings Act
@@ -136,6 +138,8 @@ PRELIMINARY
 
 “benefit period”, in relation to a female employee to whom subsection (1), (1A), (1B), (1C), (1D), (1E) or (1F) of section 9 applies, means such period as she is entitled under the applicable subsection to receive payment from her employer at her gross rate of pay;
 
+[28/2008 wef 31/10/2008]
+
 “confinement” means the delivery of a child;
 
 “dependant’s pass”, in relation to a child, means a dependant’s pass issued in respect of the child under regulations made under the Immigration Act (Cap. 133) to enable the child to remain, or to enter and remain, in Singapore for the purposes of adoption under the Adoption of Children Act (Cap. 4), and includes a document evidencing that the application for the dependant’s pass has been approved;
@@ -149,6 +153,8 @@ PRELIMINARY
 “employer” means any person who employs another person under a contract of service and includes —
 
 (a) the Government;
+
+[42/2004 wef 01/10/2004]
 
 (b) any statutory authority;
 
@@ -170,13 +176,19 @@ PRELIMINARY
 
 “medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174);
 
+[28/2008 wef 31/10/2008]
+
 “member” means a member of the Scheme;
 
 “natural father”, in relation to a child, includes a person who is identified in the registration of the birth of the child as the father of the child;
 
+[28/2008 wef 31/10/2008]
+
 “parent”, in relation to a child, includes a legal guardian of the child;
 
 “part-time employee” has the same meaning as in section 66A(1) of the Employment Act (Cap. 91);
+
+[28/2008 wef 31/10/2008]
 
 “personal representative” means the executor, original or by representation, or administrator for the time being of a deceased person;
 
@@ -185,6 +197,8 @@ PRELIMINARY
 [Act 12 of 2013 wef 01/05/2013]
 
 “PSE account” has the same meaning as in the Education Endowment and Savings Schemes Act (Cap. 87A);
+
+[52/2007 wef 01/01/2008]
 
 “Scheme” means the Child Development Co-Savings Scheme established by the regulations made under section 3;
 
@@ -207,6 +221,8 @@ PRELIMINARY
 ## PART II
 
 CHILD DEVELOPMENT CO-SAVINGS SCHEME
+
+[13/2011 wef 01/05/2011]
 
 ### Establishment of Child Development Co-Savings Scheme to assist families
 
@@ -346,6 +362,8 @@ the Government may recover such payment from any moneys standing to the credit o
 
 MATERNITY PROTECTION AND BENEFITS, ADOPTION LEAVE, CHILDCARE LEAVE, EXTENDED CHILDCARE LEAVE, UNPAID INFANT CARE LEAVE, SHARED PARENTAL LEAVE AND PATERNITY LEAVE
 
+[Act 12 of 2013 wef 01/05/2013]
+
 ### Length of maternity benefit period, etc., for female employee or self-employed woman
 
 9\.—(1) Subject to subsections (2) and (3), sections 9A and 12E and any regulations made under section 20, every female employee who satisfies the requirements of section 9A(1) shall be entitled to absent herself from work —
@@ -374,15 +392,15 @@ MATERNITY PROTECTION AND BENEFITS, ADOPTION LEAVE, CHILDCARE LEAVE, EXTENDED CHI
 
 (B) not later than the day of her confinement; and
 
-(ii) one or more further periods, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement,
+(ii) one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement,
 
 [28/2008 wef 31/10/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 and for such period of her absence from work, she shall be entitled to receive payment from her employer at her gross rate of pay.
 
 [9/2007 wef 01/03/2007]
-
-[Act 12 of 2013 wef 01/05/2013]
 
 (1A) Subject to subsection (3A), sections 9A and 12E and any regulations made under section 20, every female employee who —
 
@@ -452,13 +470,17 @@ shall be entitled —
 
 (AA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act; and
 
-(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (B) if the child becomes a citizen of Singapore after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act —
 
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the child becomes a citizen of Singapore; and
 
-(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the child becomes a citizen of Singapore), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must commence on or after the day the child becomes a citizen of Singapore and be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (vi) where section 76(1)(c) of that Act applies and the child is delivered during her third or subsequent confinement —
 
@@ -466,17 +488,17 @@ shall be entitled —
 
 (AA) to receive payment from her employer at her gross rate of pay for the period commencing on the day the child becomes a citizen of Singapore and ending on the last day of the period referred to in section 76(1)(c)(i) of that Act, and for every period referred to in section 76(1)(c)(ii) of that Act; and
 
-(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (B) if the child becomes a citizen of Singapore after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act —
 
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the child becomes a citizen of Singapore; and
 
-(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the child becomes a citizen of Singapore), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must commence on or after the day the child becomes a citizen of Singapore and be taken within the period of 12 months commencing on the day of her confinement.
 
-[28/2008 wef 31/10/2008]
-
-[Act 12 of 2013 wef 01/05/2013]
+[Act 26 of 2013 wef 01/04/2014]
 
 (1B) Subject to subsection (3), sections 9A and 12E and any regulations made under section 20, every female employee who —
 
@@ -496,17 +518,17 @@ shall be entitled to absent herself from work during, and to receive payment fro
 
 (A) the period commencing on the day the child becomes a citizen of Singapore and ending on the last day of the period of 8 weeks commencing on the day of her confinement; and
 
-(B) one or more further periods, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(B) one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
 
 [28/2008 wef 31/10/2008]
 
-(iii) if the child becomes a citizen of Singapore after the period of 8 weeks commencing on the day of her confinement, one or more periods commencing on or after the day the child becomes a citizen of Singapore, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+[Act 26 of 2013 wef 01/04/2014]
+
+(iii) if the child becomes a citizen of Singapore after the period of 8 weeks commencing on the day of her confinement, one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must commence on or after the day the child becomes a citizen of Singapore and be taken within the period of 12 months commencing on the day of her confinement.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 [28/2008 wef 31/10/2008]
-
-[9/2007 wef 01/03/2007]
-
-[Act 12 of 2013 wef 01/05/2013]
 
 (1C) Subject to subsection (3A), sections 9A and 12E and any regulations made under section 20, every female employee who —
 
@@ -515,6 +537,10 @@ shall be entitled to absent herself from work during, and to receive payment fro
 (b) satisfies the requirements of section 9A(1B); and
 
 (c) absents herself from work under section 76(1) of the Employment Act (Cap. 91),
+
+[28/2008 wef 31/10/2008]
+
+[Act 12 of 2013 wef 01/05/2013]
 
 shall be entitled —
 
@@ -576,13 +602,17 @@ shall be entitled —
 
 (AA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act; and
 
-(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (B) if she becomes lawfully married to the child’s natural father after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act —
 
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day she becomes lawfully married to the child’s natural father; and
 
-(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day she becomes lawfully married to the child’s natural father), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must commence on or after the day she becomes lawfully married to the child’s natural father and be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (vi) where section 76(1)(c) of that Act applies and the child is delivered during her third or subsequent confinement —
 
@@ -590,17 +620,17 @@ shall be entitled —
 
 (AA) to receive payment from her employer at her gross rate of pay for the period commencing on the day she becomes lawfully married to the child’s natural father and ending on the last day of the period referred to in section 76(1)(c)(i) of that Act, and for every period referred to in section 76(1)(c)(ii) of that Act; and
 
-(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (B) if she becomes lawfully married to the child’s natural father after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act —
 
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day she becomes lawfully married to the child’s natural father; and
 
-(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day she becomes lawfully married to the child’s natural father), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must commence on or after the day she becomes lawfully married to the child’s natural father and be taken within the period of 12 months commencing on the day of her confinement.
 
-[28/2008 wef 31/10/2008]
-
-[Act 12 of 2013 wef 01/05/2013]
+[Act 26 of 2013 wef 01/04/2014]
 
 (1D) Subject to subsection (3), sections 9A and 12E and any regulations made under section 20, every female employee who —
 
@@ -620,17 +650,17 @@ shall be entitled to absent herself from work during, and to receive payment fro
 
 (A) the period commencing on the day she becomes lawfully married to the child’s natural father and ending on the last day of the period of 8 weeks commencing on the day of her confinement; and
 
-(B) one or more further periods, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(B) one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
 
 [28/2008 wef 31/10/2008]
 
-(iii) if she becomes lawfully married to the child’s natural father after the period of 8 weeks commencing on the day of her confinement, one or more periods commencing on or after the day she becomes lawfully married to the child’s natural father, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+[Act 26 of 2013 wef 01/04/2014]
+
+(iii) if she becomes lawfully married to the child’s natural father after the period of 8 weeks commencing on the day of her confinement, one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must commence on or after the day she becomes lawfully married to the child’s natural father and be taken within the period of 12 months commencing on the day of her confinement.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 [28/2008 wef 31/10/2008]
-
-[9/2007 wef 01/03/2007]
-
-[Act 12 of 2013 wef 01/05/2013]
 
 (1E) Subject to subsection (3A), sections 9A and 12E and any regulations made under section 20, every female employee who —
 
@@ -702,13 +732,17 @@ shall be entitled —
 
 (AA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act; and
 
-(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (B) if the relevant event occurs after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act —
 
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the relevant event occurs; and
 
-(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the relevant event occurs), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must commence on or after the day the relevant event occurs and be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (vi) where section 76(1)(c) of that Act applies and the child is delivered during her third or subsequent confinement —
 
@@ -716,17 +750,21 @@ shall be entitled —
 
 (AA) to receive payment from her employer at her gross rate of pay for the period commencing on the day the relevant event occurs and ending on the last day of the period referred to in section 76(1)(c)(i) of that Act, and for every period referred to in section 76(1)(c)(ii) of that Act; and
 
-(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(AB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (B) if the relevant event occurs after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act —
 
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the relevant event occurs; and
 
-(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the relevant event occurs), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+(BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, all of which must commence on or after the day the relevant event occurs and be taken within the period of 12 months commencing on the day of her confinement.
 
 [28/2008 wef 31/10/2008]
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (1F) Subject to subsection (3), sections 9A and 12E and any regulations made under section 20, every female employee who —
 
@@ -748,17 +786,19 @@ shall be entitled to absent herself from work during, and to receive payment fro
 
 (A) the period commencing on the day the relevant event occurs and ending on the last day of the period of 8 weeks commencing on the day of her confinement; and
 
-(B) one or more further periods, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement; or
+(B) one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement; or
 
 [28/2008 wef 31/10/2008]
 
-(iii) if the relevant event occurs after the period of 8 weeks commencing on the day of her confinement, one or more periods commencing on or after the day the relevant event occurs, not exceeding 48 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+[Act 26 of 2013 wef 01/04/2014]
 
-[28/2008 wef 31/10/2008]
+(iii) if the relevant event occurs after the period of 8 weeks commencing on the day of her confinement, one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, all of which must commence on or after the day the relevant event occurs and be taken within the period of 12 months commencing on the day of her confinement.
 
-[9/2007 wef 01/03/2007]
+[Act 26 of 2013 wef 01/04/2014]
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[28/2008 wef 31/10/2008]
 
 (2) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled —
 
@@ -769,8 +809,6 @@ shall be entitled to absent herself from work during, and to receive payment fro
 [42/2004 wef 01/10/2004]
 
 (3) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1)(c)(ii), (1A)(v)(A)(AB) or (B)(BB) or (vi)(A)(AB) or (B)(BB), (1B)(ii)(B) or (iii), (1C)(v)(A)(AB) or (B)(BB) or (vi)(A)(AB) or (B)(BB), (1D)(ii)(B) or (iii), (1E)(v)(A)(AB) or (B)(BB) or (vi)(A)(AB) or (B)(BB) or (1F)(ii)(B) or (iii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
-
-[9/2007 wef 01/03/2007]
 
 [28/2008 wef 31/10/2008]
 
@@ -806,15 +844,13 @@ shall be entitled to absent herself from work during, and to receive payment fro
 
 (B) not later than the day of her confinement; and
 
-(ii) one or more further periods, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement,
+(ii) one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, which shall be within the period of 12 months commencing on the day of her confinement,
 
 [28/2008 wef 31/10/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 and who has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation, shall be entitled to claim from the Government the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
-
-[42/2004 wef 01/10/2004]
-
-[28/2008 wef 31/10/2008]
 
 [Act 12 of 2013 wef 01/05/2013]
 
@@ -834,21 +870,23 @@ and who has lost any income by reason of her ceasing to be actively engaged in s
 
 (A) the period commencing on the day the child becomes a citizen of Singapore and ending on the last day of the period of 8 weeks commencing on the day of her confinement; and
 
-(B) one or more further periods, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement; or
+(B) one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, which shall be within the period of 12 months commencing on the day of her confinement; or
 
 [28/2008 wef 31/10/2008]
 
-(iii) if the child becomes a citizen of Singapore after the period of 8 weeks commencing on the day of her confinement, during one or more periods commencing on or after the day the child becomes a citizen of Singapore, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement; and
+[Act 26 of 2013 wef 01/04/2014]
+
+(iii) if the child becomes a citizen of Singapore after the period of 8 weeks commencing on the day of her confinement, during one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, commencing on or after the day the child becomes a citizen of Singapore, which shall be within the period of 12 months commencing on the day of her confinement; and
 
 [28/2008 wef 31/10/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (d) has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation,
 
 shall be entitled to claim from the Government the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
 
 [9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
 
 [Act 12 of 2013 wef 01/05/2013]
 
@@ -862,25 +900,29 @@ shall be entitled to claim from the Government the income she would otherwise ha
 
 (i) during the period commencing on the day she becomes lawfully married to the child’s natural father and ending on the last day of the period of 16 weeks commencing on the day of her confinement;
 
+[28/2008 wef 31/10/2008]
+
 (ii) if she becomes lawfully married to the child’s natural father within the period of 8 weeks commencing on the day of her confinement, during —
 
 (A) the period commencing on the day she becomes lawfully married to the child’s natural father and ending on the last day of the period of 8 weeks commencing on the day of her confinement; and
 
-(B) one or more further periods, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement; or
+(B) one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, which shall be within the period of 12 months commencing on the day of her confinement; or
 
 [28/2008 wef 31/10/2008]
 
-(iii) if she becomes lawfully married to the child’s natural father after the period of 8 weeks commencing on the day of her confinement, during one or more periods commencing on or after the day she becomes lawfully married to the child’s natural father, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement; and
+[Act 26 of 2013 wef 01/04/2014]
+
+(iii) if she becomes lawfully married to the child’s natural father after the period of 8 weeks commencing on the day of her confinement, during one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, commencing on or after the day she becomes lawfully married to the child’s natural father, which shall be within the period of 12 months commencing on the day of her confinement; and
 
 [28/2008 wef 31/10/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (d) has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation,
 
 shall be entitled to claim from the Government the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
 
 [9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
 
 [Act 12 of 2013 wef 01/05/2013]
 
@@ -902,13 +944,17 @@ shall be entitled to claim from the Government the income she would otherwise ha
 
 (A) the period commencing on the day the relevant event occurs and ending on the last day of the period of 8 weeks commencing on the day of her confinement; and
 
-(B) one or more further periods, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement; or
+(B) one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, which shall be within the period of 12 months commencing on the day of her confinement; or
 
 [28/2008 wef 31/10/2008]
 
-(iii) if the relevant event occurs after the period of 8 weeks commencing on the day of her confinement, during one or more periods commencing on or after the day the relevant event occurs, not exceeding 48 days in the aggregate, which shall be within the period of 12 months commencing on the day of her confinement; and
+[Act 26 of 2013 wef 01/04/2014]
+
+(iii) if the relevant event occurs after the period of 8 weeks commencing on the day of her confinement, during one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part I of the Schedule or 48 days, whichever is the lower, commencing on or after the day the relevant event occurs, which shall be within the period of 12 months commencing on the day of her confinement; and
 
 [28/2008 wef 31/10/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (e) has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation,
 
@@ -966,13 +1012,19 @@ shall be entitled to claim from the Government the income she would otherwise ha
 
 (5D) Where —
 
-(a) the child is delivered during a former female employee’s first or second confinement, the period shall be determined by the formula 56 − N; and
+(a) the child is delivered during a former female employee’s first or second confinement, the applicable period shall be determined by the formula 56 – N; and
 
-(b) the child is delivered during a former female employee’s third or subsequent confinement, the period shall be determined by the formula 112 − N,
+(b) the child is delivered during a former female employee’s third or subsequent confinement, the applicable period shall be determined by the formula 112 – N.
 
-where “N” means the number of days in which the former female employee has exercised her entitlement to absent herself from work or to receive payment from her employer under subsection (1), (1A), (1B), (1C), (1D), (1E) or (1F), before her employment was terminated upon the completion of her contract of service.
+[Act 26 of 2013 wef 01/04/2014]
 
-[Act 12 of 2013 wef 01/05/2013]
+(5E) In subsection (5D), “N” means the total number of days in paragraphs (a) and (b) falling any time before the former female employee’s employment was terminated upon completion of her contract of service:
+
+(a) the days on which she has exercised her entitlement to absent herself from work or to receive payment under subsection (1), (1A), (1B), (1C), (1D), (1E) or (1F) or under section 76(1) or (1A) of the Employment Act (Cap. 91); and
+
+(b) the days on which her entitlement to absent herself from work under this section has been reduced under section 12E(5) by virtue of her election for her child’s father to take shared parental leave and such election has not been revoked and the leave returned to her in accordance with section 12E, before her employment was terminated upon completion of her contract of service.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (6) In subsections (1E), (1F) and (4C), “relevant event”, in relation to a female employee or self-employed woman who —
 
@@ -1013,6 +1065,8 @@ means the later of the following events:
 the Government may recover that amount from the woman as a civil debt.
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[42/2004 wef 01/10/2004]
 
 ### Eligibility criteria and cap in respect of maternity benefits
 
@@ -1162,11 +1216,7 @@ the Government may recover that amount from the woman as a civil debt.
 
 (e) where 2 or more periods of employment overlap, the overlapping periods shall be counted only once.
 
-[Act 12 of 2013 wef 01/05/2013]
-
 (3) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to absent herself from work or to any payment under section 76 of that Act in respect of any confinement to which she is entitled to absent herself from work or to payment under section 9(1).
-
-[42/2004 wef 01/10/2004]
 
 (3A) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to receive payment under section 76 of that Act in respect of any period of her absence from work under section 76(1) of that Act for which she is entitled to receive payment under section 9(1A), (1C) or (1E).
 
@@ -1202,10 +1252,6 @@ the Government may recover that amount from the woman as a civil debt.
 
 (ii) shall not exceed a total of $40,000.
 
-[42/2004 wef 01/10/2004]
-
-[28/2008 wef 31/10/2008]
-
 (5) Where a self-employed woman ceases to be actively engaged in her trade, business, profession or vocation during the whole or part of any period referred to in section 9(4), (4A), (4B) or (4C) —
 
 (a) in respect of her first or second confinement, the amount of payment she shall be entitled to receive from the Government under section 9(5)(a) —
@@ -1238,15 +1284,11 @@ the Government may recover that amount from the woman as a civil debt.
 
 (6) The amounts of payment referred to in subsections (4), (5) and (5A) shall be inclusive of any contribution to the Central Provident Fund which an employer, a female employee or a self-employed woman is liable to make under the Central Provident Fund Act (Cap. 36).
 
-[42/2004 wef 01/03/2004]
-
 [Act 12 of 2013 wef 01/05/2013]
 
 (7) Subject to subsections (3) and (3A), nothing in section 9 and this section shall be construed as derogating from any other benefits that a female employee is entitled to during the benefit period under the terms of her contract of service or under any written law.
 
 [28/2008 wef 31/10/2008]
-
-[42/2004 wef 01/10/2004]
 
 [Act 12 of 2013 wef 01/05/2013]
 
@@ -1272,6 +1314,8 @@ for the whole period of her absence from work under that provision, if that peri
 
 if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work under that provision; and
 
+[28/2008 wef 31/10/2008]
+
 (ii) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages; and
 
 (b) in respect of the third or subsequent confinement of the employee, for —
@@ -1282,9 +1326,9 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 (B) under subsection (1A), (1C) or (1E) of section 9 for such period of her absence from work under section 76(1) of the Employment Act, or under that subsection, as she is entitled to receive payment under that subsection; and
 
-(ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
+[28/2008 wef 31/10/2008]
 
-[42/2004 wef 01/10/2004]
+(ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
 
 [28/2008 wef 31/10/2008]
 
@@ -1338,8 +1382,6 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 the employer shall be entitled to claim reimbursement from the Government in accordance with any regulations made under section 20 for the payments referred to in subsection (2).
 
-[28/2008 wef 31/10/2008]
-
 (2) The payments for which an employer shall be entitled to be reimbursed by the Government under subsection (1) shall be —
 
 (a) in respect of the first or second confinement of a female employee —
@@ -1368,8 +1410,6 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 (ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
 
-[28/2008 wef 31/10/2008]
-
 (3) The amount of reimbursement an employer shall be entitled to claim from the Government under subsection (1) in respect of a female employee —
 
 (a) where subsection (2)(a) applies —
@@ -1383,8 +1423,6 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 (i) shall not exceed $10,000 for every 4 weeks or 24 days, as the case may be, of the employee’s absence from work; and
 
 (ii) shall not exceed a total of $40,000.
-
-[28/2008 wef 31/10/2008]
 
 (4) Subject to subsections (5) and (6), where —
 
@@ -1410,8 +1448,6 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 she shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
 
-[28/2008 wef 31/10/2008]
-
 (5) A self-employed woman referred to in subsection (4) who ceases or has ceased to be actively engaged in her trade, business, profession or vocation because of her confinement shall be entitled to receive payment from the Government under that subsection —
 
 (a) in respect of her first or second confinement —
@@ -1425,8 +1461,6 @@ she shall be entitled to claim from the Government, in accordance with any regul
 (B) does not exceed 8 weeks; and
 
 (b) in respect of her third or subsequent confinement, for the whole period of her cessation of active engagement in her trade, business, profession or vocation.
-
-[28/2008 wef 31/10/2008]
 
 (6) The amount of payment that a self-employed woman shall be entitled to receive from the Government under subsection (4) —
 
@@ -1536,9 +1570,9 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 (b) any dispute under this Part, or under any regulations made under section 20, between any such employer and any such employee; and
 
-(c) any offence or proceedings under section 12AA, 12B, 12D, 12E, 12H or 17 (including any act or omission in respect of which a penalty is imposed),
-
 [28/2008 wef 31/10/2008]
+
+(c) any offence or proceedings under section 12AA, 12B, 12D, 12E, 12H or 17 (including any act or omission in respect of which a penalty is imposed),
 
 [Act 12 of 2013 wef 01/05/2013]
 
@@ -1562,11 +1596,15 @@ as they apply in relation to any employer, employee, dispute, offence or proceed
 
 (ii) the child is not a citizen of Singapore at the time the application is made and a dependant’s pass has been issued in respect of the child;
 
+[28/2008 wef 31/10/2008]
+
 (c) at the time the Director of Social Welfare is appointed as guardian in adoption of the child or the dependant’s pass is issued in respect of the child, as the case may be —
 
 (i) the child is below 6 months of age;
 
 (ii) the employee is married, widowed or divorced; and
+
+[28/2008 wef 31/10/2008]
 
 (iii) if the application referred to in paragraph (a) is made before 17th August 2008, the employee has fewer than 4 other living children;
 
@@ -1578,6 +1616,8 @@ as they apply in relation to any employer, employee, dispute, offence or proceed
 
 for one or more periods, not exceeding 24 days in the aggregate; and
 
+[28/2008 wef 31/10/2008]
+
 (e) the employee has received payment from her employer at her gross rate of pay during such period or periods of absence,
 
 the employer shall be entitled to be reimbursed by the Government, in accordance with any regulations made under section 20, for —
@@ -1585,6 +1625,8 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 (A) the amount of such payment; and
 
 (B) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages.
+
+[28/2008 wef 31/10/2008]
 
 (1A) [Deleted by Act 28/2008 wef 31/10/2008]
 
@@ -1600,21 +1642,19 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (aa) any childcare leave to which an employee may be entitled under section 87A of the Employment Act or under section 12B;
 
+[28/2008 wef 31/10/2008]
+
 (ab) any unpaid infant care leave to which an employee may be entitled under section 12D; and
+
+[28/2008 wef 31/10/2008]
 
 (b) any type of leave of absence to which the female employee is entitled under her contract of service with her employer that does not relate to the adoption of a child.
 
 [42/2004 wef 01/10/2004]
 
-[9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
-
 (3) The amount of reimbursement an employer shall be entitled to claim from the Government in respect of a female employee under subsection (1) shall not exceed $10,000.
 
 [42/2004 wef 01/10/2004]
-
-[9/2007 wef 01/03/2007]
 
 [28/2008 wef 31/10/2008]
 
@@ -1628,11 +1668,11 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (ii) is not a citizen of Singapore by birth and does not become a citizen of Singapore within 6 months from the date he is adopted by that employee,
 
+[28/2008 wef 31/10/2008]
+
 the Government may recover that payment from that employee as a civil debt.
 
 [9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
 
 (4) Subject to subsection (5), where —
 
@@ -1670,8 +1710,6 @@ the self-employed woman shall be entitled to claim from the Government, in accor
 
 [42/2004 wef 01/10/2004]
 
-[9/2007 wef 01/03/2007]
-
 [28/2008 wef 31/10/2008]
 
 (6) Where —
@@ -1708,11 +1746,13 @@ the Government may recover that payment from that self-employed woman as a civil
 
 (ii) in the case of an application to adopt a child who is not a citizen of Singapore, the date on which the dependant’s pass in respect of the child is issued; or
 
-(b) one or more periods, not exceeding 24 days in the aggregate, as agreed to between the female employee and her employer, commencing not earlier than —
+(b) one or more than one period each of such duration as agreed between the female employee and her employer but in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, commencing not earlier than —
 
 (i) in the case of an application to adopt a child who is a citizen of Singapore, the date the application to adopt is made; and
 
 (ii) in the case of an application to adopt a child who is not a citizen of Singapore, the date on which the dependant’s pass in respect of the child is issued.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (3) An employer shall grant, and a female employee who is entitled to adoption leave shall take, the entitlement of adoption leave within a period of 12 months commencing on the date of the birth of the child, and any employee who fails to take that leave within that period —
 
@@ -1750,11 +1790,15 @@ the Government may recover that payment from that self-employed woman as a civil
 
 12AB\.—(1) Subject to subsections (2) and (3), section 12AC and any regulations made under section 20, every self-employed woman who applies to adopt a child in accordance with any written law relating to the adoption of children, and who satisfies the requirements of section 12AC shall, if she —
 
-(a) ceases to be actively engaged in her trade, business, profession or vocation during one or more periods, not exceeding 24 days in the aggregate, which shall be within the period of 12 months commencing on the date of the birth of the child; and
+(a) ceases to be actively engaged in her trade, business, profession or vocation during one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part II of the Schedule or 24 days, whichever is the lower, which shall be within the period of 12 months commencing on the date of the birth of the child; and
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (b) has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation,
 
-be entitled to claim from the Government any income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during that period or periods referred to in paragraph (a) not exceeding 24 days in the aggregate.
+be entitled to claim from the Government any income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during that period or periods referred to in paragraph (a).
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (2) A self-employed woman shall not be entitled to claim from the Government under subsection (1) unless her claim for lost income by reason of her cessation of active engagement in her trade, business, profession or vocation relates to one or more periods commencing —
 
@@ -1890,31 +1934,35 @@ the employee shall be entitled to 2 days of extended childcare leave (referred t
 
 [28/2008 wef 31/10/2008]
 
-(3) Where any employee who has taken any childcare leave under section 87A of the Employment Act subsequently become entitled to childcare leave under this section —
+(3) Notwithstanding anything in section 87A of the Employment Act, when an employee becomes entitled (whether before, on or after 1st April 2014) to childcare leave or extended childcare leave in relation to a qualifying child under this section, whether or not he has taken (before, on or after 1st April 2014) any childcare leave under section 87A of that Act and whether or not in relation to the same child before he becomes so entitled, then —
 
-(a) the childcare leave taken under section 87A of the Employment Act shall be treated, for the purposes of this Act, as childcare leave taken under this section; and
+(a) he shall not be entitled to childcare leave under section 87A of that Act, or to payment from his employer under section 87A(5) of that Act, for so long as he is entitled to childcare leave or extended childcare leave under this section;
 
-(b) a payment made by his employer to him under section 87A(5) of the Employment Act shall be treated, for the purposes of this Act, as a payment made by his employer to him under subsection (9).
+(b) any childcare leave taken under section 87A of that Act (before he became entitled to childcare leave or extended childcare leave under this section) in a relevant period shall be treated, for the purposes of this Act, as childcare leave or extended childcare leave taken under this section in that relevant period in relation to the qualifying child;
 
-[28/2008 wef 31/10/2008]
+(c) where he has not received any payment from his employer under section 87A(5) of that Act in respect of any childcare leave already taken by him under section 87A of that Act, he shall be entitled to payment from his employer under subsection (9) in respect of the childcare leave so taken by him; and
 
-(4) Notwithstanding anything in section 87A of the Employment Act, when an employee becomes entitled to childcare leave under this section —
+(d) where he has received payment from his employer under section 87A(5) of that Act with respect to the childcare leave taken by him under section 87A of that Act, the payment shall be treated, for the purposes of this Act, as a payment made by his employer to him under subsection (9).
 
-(a) he shall not be entitled to childcare leave under section 87A of that Act, or to payment from his employer under section 87A(5) of that Act, for so long as he is entitled to childcare leave under this section; and
+[Act 26 of 2013 wef 01/04/2014]
 
-(b) if, at that time, he has not received any payment from his employer under section 87A(5) of that Act in respect of any childcare leave already taken by him under section 87A of that Act, he shall be entitled to payment from his employer under subsection (9) in respect of the childcare leave so taken by him.
+(4) [Deleted by Act 26 of 2013 wef 01/04/2014]
 
-[28/2008 wef 31/10/2008]
+(5) Notwithstanding anything in section 87A of the Employment Act, when an employee —
 
-(5) Notwithstanding anything in section 87A of the Employment Act, when an employee ceases to be entitled to childcare leave under this section, but has any child below the age of 7 years at any time during any relevant period, his entitlement, if any, to childcare leave under section 87A of that Act shall be affected in the following manner:
+(a) ceases to be entitled to childcare leave and extended childcare leave (whether before, on or after 1st April 2014) under this section; or
 
-(a) he shall be entitled to 2 days of childcare leave under section 87A of that Act for that relevant period, if he had not taken any childcare leave under this section during that relevant period;
+(b) ceases to be entitled to childcare leave (whether before, on or after 1st April 2014) and is not entitled to extended childcare leave under this section,
 
-(b) he shall be entitled to one day of childcare leave under section 87A of that Act for that relevant period, if he had taken one day of childcare leave under this section during that relevant period; and
+but has any child below the age of 7 years at any time during any relevant period, his entitlement, if any, to childcare leave under section 87A of that Act shall be affected in the following manner:
 
-(c) he shall not be entitled to any childcare leave under section 87A of that Act for that relevant period, if he had taken 2 or more days of childcare leave under this section during that relevant period.
+(i) he shall be entitled to 2 days of childcare leave under section 87A of that Act for that relevant period, if he had not taken any childcare leave or extended childcare leave under this section during that relevant period;
 
-[28/2008 wef 31/10/2008]
+(ii) he shall be entitled to one day of childcare leave under section 87A of that Act for that relevant period, if he had taken one day of childcare leave or extended childcare leave under this section during that relevant period; and
+
+(iii) he shall not be entitled to any childcare leave under section 87A of that Act for that relevant period, if he had taken 2 or more days in total of childcare leave or extended childcare leave or both under this section during that relevant period.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (6) Where —
 
@@ -2088,7 +2136,7 @@ he shall be entitled to claim from the Government the income he would otherwise 
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(21) In this section and sections 11 and 12C —
+(21) In this section and sections 11, 12C and 12CA —
 
 “child”, in relation to an employee or a self-employed person, includes any adopted child or step-child of the employee or self-employed person;
 
@@ -2248,19 +2296,23 @@ then such leave of absence shall be treated, for the purposes of this Act, as un
 
 (a) a period of one week, which must be consumed within the period of 12 months commencing on the date of the birth of the child; or
 
-(b) one or more periods, not exceeding 6 days in the aggregate, as agreed to by the male employee and his employer, which must be consumed within the period of 12 months commencing on the date of the birth of the child,
+(b) one or more than one period each of such duration as agreed between the employee and his employer but in aggregate no shorter than as reckoned in accordance with Part III of the Schedule or 6 days, whichever is the lower, all of which must be consumed within the period of 12 months commencing on the date of the birth of the child,
+
+[Act 26 of 2013 wef 01/04/2014]
 
 provided an election for the natural father to take shared parental leave is made in accordance with subsection (4).
 
 (2) An employer shall grant a male employee his entitlement to shared parental leave in accordance with this Act and shall pay the employee who is entitled to such leave his gross rate of pay for every day of such leave that is taken by the employee.
 
-(3) Subject to this section and any regulations made under section 20, every self-employed man who is the natural father of a child and who satisfies the requirements of section 12F(1) shall, if he —
+(3) Subject to this section and any regulations made under section 20, every self-employed man who is the natural father of a child and who satisfies the requirements of section 12F(1) shall, if —
 
-(a) ceases to be actively engaged in his trade, business, profession or vocation during one or more periods, not exceeding 6 days in the aggregate, which shall be within the period of 12 months commencing on the date of the birth of the child; and
+(a) at any time during the period of 12 months commencing from and after the date of the birth of the child, he ceases to be actively engaged in his trade, business, profession or vocation during one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part III of the Schedule or 6 days, whichever is the lower; and
 
-(b) has lost any income by reason of his ceasing to be actively engaged in such trade, business, profession or vocation,
+(b) he loses any income by reason of his so ceasing to be actively engaged in such trade, business, profession or vocation,
 
-be entitled to claim from the Government, the income he would otherwise have derived from his trade, business, profession or vocation had he continued to be actively engaged in such trade, business, profession or vocation during that period or periods referred to in paragraph (a) not exceeding 6 days in the aggregate, provided an election for the natural father to take shared parental leave is made in accordance with subsection (4).
+be entitled to claim from the Government, the income he would otherwise have derived from his trade, business, profession or vocation had he continued to be actively engaged in such trade, business, profession or vocation during that period or periods referred to in paragraph (a), provided that an election for the natural father to take shared parental leave is made in accordance with subsection (4).
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (4) For the purposes of subsections (1) and (3), an election for the natural father to take shared parental leave —
 
@@ -2270,11 +2322,21 @@ be entitled to claim from the Government, the income he would otherwise have der
 
 (c) shall be irrevocable, except as provided in subsection (6).
 
-(5) Subject to subsection (6), where an election is made in accordance with subsection (4), the mother’s entitlement to absent herself from work and to receive payment under section 9 shall be reduced by the following period:
+(5) Subject to subsection (6), where an election is made in accordance with subsection (4), the mother’s entitlement to absent herself from work and to receive payment under section 9(1), (1A), (1B), (1C), (1D), (1E) or (1F) or to claim from the Government income lost by reason of her ceasing to be actively engaged in her trade, business, profession or vocation under section 9(4), (4A), (4B) or (4C) shall be reduced by the following period:
 
-(a) one week, where the mother’s entitlement to absent herself from work under section 9 is prescribed only in weeks, which shall be taken from the last week of that entitlement; or
+(a) one week, where the mother’s entitlement to absent herself from work or where the mother has lost income by reason of her ceasing to be actively engaged in her trade, business, profession or vocation under section 9 is prescribed only in weeks, which shall be taken from the last week of that entitlement;
 
-(b) in a case other than paragraph (a), 6 days, which shall be taken from the last 24 days or 48 days, as the case may be, of that entitlement.
+(b) in a case other than paragraph (a), where the mother is an employee —
+
+(i) one-quarter of the number of days reckoned in accordance with Part II of the Schedule or one-quarter of 24 days, whichever is the lower, which shall be taken from the last 24 days of that entitlement; or
+
+(ii) one-eighth of the number of days reckoned in accordance with Part I of the Schedule or one-eighth of 48 days, whichever is the lower, which shall be taken from the last 48 days of that entitlement,
+
+as the case may be; or
+
+(c) in a case other than paragraph (a), where the mother is a self-employed woman, one-eighth of the number of days reckoned in accordance with Part I of the Schedule or one-eighth of 48 days, whichever is the lower, which shall be taken from the last 48 days of that entitlement.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (6) A male employee or self-employed man, as the case may be, or the mother of the child may, at any time within the period of 12 months commencing on the date of the birth of the child and in accordance with any regulations made under section 20, revoke the election made under subsection (4) and return the whole of the entitlement of the male employee or self-employed man to the mother of the child, in any of the following circumstances, failing which the entitlement of the male employee or self-employed man shall be forfeited:
 
@@ -2290,7 +2352,7 @@ be entitled to claim from the Government, the income he would otherwise have der
 
 (b) if he does not consume the remaining part of that entitlement within the period of 12 months commencing on the date of the birth of the child.
 
-(9) For the purposes of this section, a natural father’s entitlement to shared parental leave, where it is consumed in accordance with subsection (1)(b), shall be based on the natural father’s work week which, in any event, shall not exceed 6 days.
+(9) [Deleted by Act 26 of 2013 wef 01/04/2014]
 
 (10) Any employer who fails, without reasonable cause, to grant shared parental leave to a male employee who is entitled to and requests for such leave shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -2356,19 +2418,23 @@ be entitled to claim from the Government, the income he would otherwise have der
 
 (a) a period of one week which must be consumed within the period of 16 weeks commencing on the date of the birth of the child; or
 
-(b) one or more periods, not exceeding 6 days in the aggregate, as agreed to by the male employee and his employer, which must be consumed within the period of 12 months commencing on the date of the birth of the child.
+(b) one or more than one period each of such duration as agreed between the employee and his employer but in aggregate no shorter than as reckoned in accordance with Part III of the Schedule or 6 days, whichever is the lower, all of which must be consumed within the period of 12 months commencing on the date of the birth of the child.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (2) An employer shall grant an employee his entitlement to paternity leave in accordance with this Act and pay the employee who is entitled to such leave his gross rate of pay for every day of such leave that is taken by the employee.
 
 (3) Where the employment of a male employee is terminated (whether by resignation or dismissal, upon the completion of his contract of service, or for any other reason) before he has exercised, wholly or partly, his entitlement to absent himself from work on paternity leave, he shall forfeit his entitlement (or the balance thereof) upon the termination of his employment.
 
-(4) Subject to subsection (5) and any regulations made under section 20, every self-employed man, who is the natural father of a child who satisfies the requirements of section 12I(1), or who is the adoptive father of a child who satisfies the requirements of section 12I(2), and who ceases to be actively engaged in his trade, business, profession or vocation —
+(4) Subject to subsection (5) and any regulations made under section 20, every self-employed man who is the natural father of a child and who satisfies the requirements of section 12I(1), or who is the adoptive father of a child and who satisfies the requirements of section 12I(2) shall, if —
 
-(a) during one or more periods, not exceeding 6 days in the aggregate, which shall be within the period of 12 months commencing on the date of the birth of the child; and
+(a) at any time during the period of 12 months commencing from and after the date of the birth of the child, he ceases to be actively engaged in his trade, business, profession or vocation during one or more than one period that is in aggregate no shorter than as reckoned in accordance with Part III of the Schedule or 6 days, whichever is the lower; and
 
-(b) who has lost any income by reason of his ceasing to be actively engaged in such trade, business, profession or vocation,
+(b) he loses any income by reason of his so ceasing to be actively engaged in such trade, business, profession or vocation,
 
-shall be entitled to claim from the Government the income he would otherwise have derived from his trade, business, profession or vocation had he continued to be actively engaged in such trade, business, profession or vocation during that period or periods referred to in paragraph (a) not exceeding 6 days in the aggregate.
+be entitled to claim from the Government, the income he would otherwise have derived from his trade, business, profession or vocation had he continued to be actively engaged in such trade, business, profession or vocation during that period or periods referred to in paragraph (a).
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (5) Every male employee or self-employed man who is the adoptive father of a child and who satisfies the requirements of section 12I(2) shall only be entitled to take the paternity leave commencing not earlier than —
 
@@ -2376,7 +2442,7 @@ shall be entitled to claim from the Government the income he would otherwise hav
 
 (b) the date on which the dependant’s pass in respect of the child is issued, where the child is not a citizen of Singapore.
 
-(6) For the purposes of this section, a natural father’s or an adoptive father’s entitlement to paternity leave, where it is consumed in accordance with subsection (1)(b), shall be based on the father’s work week which, in any event, shall not exceed 6 days.
+(6) [Deleted by Act 26 of 2013 wef 01/04/2014]
 
 (7) Any employer who fails, without reasonable cause, to grant paternity leave to a male employee who is entitled to and requests for such leave shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -2573,6 +2639,8 @@ he shall be entitled to claim from the Government, in accordance with any regula
 (b) such class or classes of self-employed persons; and
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[28/2008 wef 31/10/2008]
 
 (c) such class or classes of employers,
 
@@ -2812,13 +2880,255 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 [Act 12 of 2013 wef 01/05/2013]
 
+## THE SCHEDULE
+
+Part I
+
+Sections 9(1), (1B), (1D), (1F), (4),
+
+
+
+
+(4A), (4B) and (4C) and 12E(5)
+
+NUMBER OF DAYS ON WHICH A FEMALE EMPLOYEE IS
+ENTITLED TO ABSENT HERSELF FROM WORK UNDER
+SECTION 9(1), (1B), (1D) OR (1F); A SELF-EMPLOYED WOMAN IS
+ENTITLED TO CLAIM LOST INCOME FROM THE GOVERNMENT
+UNDER SECTION 9(4), (4A), (4B) OR (4C); OR A FEMALE
+EMPLOYEE’S OR SELF-EMPLOYED WOMAN’S ENTITLEMENT IS
+REDUCED UNDER SECTION 12E(5)(b)(ii) OR (c)
+
+First column
+
+Second column
+
+Number of days on which a female employee is required to work under her contract of service, or on which a self-employed woman is engaged in her trade, business, profession or vocation (referred to in this Part as her work days)
+
+Calculation of total number of days on which:
+
+(a) a female employee is entitled to absent herself from work under section 9 for one or more periods;
+
+(b) a self-employed woman is entitled to claim lost income from the Government under section 9; or
+
+(c) a female employee’s or self-employed woman’s entitlement is reduced under section 12E(5)(b)(ii) or (c)
+
+1.
+
+Where the number of work days in a week is the same in every week.
+
+8 × the number of work days in a week
+
+2.
+
+Where the number of work days varies from one week to another and there is a consistent or regular pattern repeated over a number of fixed weeks.
+
+3.
+
+Where the number of work days varies from one week to another and there is no consistent or regular pattern repeated over a number of fixed weeks.
+
+In the case of a female employee under section 9(1) or a self-employed woman under section 9(4):
+
+8 × the average number of work days in a week over the period of 3 weeks immediately preceding the day of confinement or the first day of leave, whichever is the earlier
+
+In the case of a female employee under section 9(1B), (1D) or (1F) or a self-employed woman under section 9(4A), (4B) or (4C):
+
+8 × the average number of work days in a week over the period of 3 weeks immediately preceding the day on which the last of all the eligibility criteria under section 9A(1A), (1B) or (1C), as the case may be, is satisfied
+
+Part II
+
+Sections 9(1A), (1C) and (1E),
+
+
+
+
+12AA(2), 12AB(1) and 12E(5)
+
+NUMBER OF DAYS ON WHICH A FEMALE EMPLOYEE IS
+ENTITLED TO ABSENT HERSELF FROM WORK UNDER
+SECTION 9(1A), (1C) OR (1E) OR 12AA; A SELF-EMPLOYED
+WOMAN IS ENTITLED TO CLAIM LOST INCOME FROM THE
+GOVERNMENT UNDER SECTION 12AB; OR A FEMALE
+EMPLOYEE’S ENTITLEMENT IS REDUCED UNDER
+SECTION 12E(5)(b)(i)
+
+First column
+
+Second column
+
+Number of days on which a female employee is required to work under her contract of service, or on which a self-employed woman is engaged in her trade, business, profession or vocation (referred to in this Part as her work days)
+
+Calculation of total number of days on which:
+
+(a) a female employee is entitled to absent herself from work under section 9 or 12AA for one or more periods;
+
+(b) a self-employed woman is entitled to claim lost income from the Government under section 12AB; or
+
+(c) a female employee’s entitlement is reduced under section 12E(5)(b)(i)
+
+1.
+
+Where the number of work days in a week is the same in every week.
+
+4 × the number of work days in a week
+
+2.
+
+Where the number of work days varies from one week to another and there is a consistent or regular pattern repeated over a number of fixed weeks.
+
+3.
+
+Where the number of work days varies from one week to another and there is no consistent or regular pattern repeated over a number of fixed weeks.
+
+In the case of a female employee under section 9(1A), (1C) or (1E):
+
+4 × the average number of work days in a week over the period of 3 weeks immediately preceding the day on which the last of all the eligibility criteria under section 9A(1A), (1B) or (1C), as the case may be, is satisfied
+
+In the case of a female employee under section 12AA or a self-employed woman under section 12AB, where the child to be adopted is a citizen of Singapore:
+
+4 × the average number of work days in a week over the period of 3 weeks immediately preceding the date the application to adopt the child is made
+
+In the case of a female employee under section 12AA or a self-employed woman under section 12AB, where the child to be adopted is not a citizen of Singapore:
+
+4 × the average number of work days in a week over the period of 3 weeks immediately preceding the date on which the dependant’s pass in respect of the child is issued
+
+Part III
+
+Sections 12E and 12H
+
+NUMBER OF DAYS ON WHICH A MALE EMPLOYEE IS
+
+
+
+
+ENTITLED TO ABSENT HIMSELF FROM WORK UNDER
+
+
+
+
+SECTION 12E OR 12H; OR A SELF-EMPLOYED MAN IS ENTITLED
+
+
+
+
+TO CLAIM LOST INCOME FROM THE GOVERNMENT UNDER
+
+
+
+
+SECTION 12E OR 12H
+
+First column
+
+Second column
+
+Number of days on which a male employee is required to work under his contract of service, or on which a self-employed man is engaged in his trade, business, profession or vocation (referred to in this Part as his work days)
+
+Calculation of total number of days on which:
+
+(a) a male employee is entitled to absent himself from work under section 12E or 12H for one or more periods; or
+
+(b) a self-employed man is entitled to claim lost income from the Government under section 12E or 12H
+
+1.
+
+Where the number of work days in a week is the same in every week.
+
+The number of work days in a week
+
+2.
+
+Where the number of work days varies from one week to another and there is a consistent or regular pattern repeated over a number of fixed weeks.
+
+3.
+
+Where the number of work days varies from one week to another and there is no consistent or regular pattern repeated over a number of fixed weeks.
+
+In the case of a male employee or a self-employed man who is a natural father under section 12E or 12H:
+
+The average number of work days in a week over the period of 3 weeks immediately preceding the day on which the last of all the eligibility criteria under section 12F(1) or 12I(1), as the case may be, is satisfied
+
+In the case of a male employee or a self-employed man who is an adoptive father under section 12H, where the child to be adopted is a citizen of Singapore:
+
+The average number of work days in a week over the period of 3 weeks immediately preceding the date the application to adopt the child is made
+
+In the case of a male employee or a self-employed man under section 12H, where the child to be adopted is not a citizen of Singapore:
+
+The average number of work days in a week over the period of 3 weeks immediately preceding the date on which the dependant’s pass in respect of the child is issued
+
+4.
+
+In this Schedule, the calculation of the number of days on which a male or female employee is entitled to absent himself or herself from work shall be determined in accordance with the work pattern in the following period:
+
+(a)
+
+where a female employee is entitled to absent herself from work under section 9(1), the calculation of the number of days shall be determined in accordance with the work pattern under her contract of service immediately preceding the day of confinement or the first day of leave, whichever is the earlier;
+
+(b)
+
+where a female employee is entitled to absent herself from work under section 9(1A), (1B), (1C), (1D), (1E) or (1F), the calculation of the number of days shall be determined in accordance with the work pattern under her contract of service immediately preceding the day on which the last of all the eligibility criteria under section 9A(1A), (1B) or (1C), as the case may be, is satisfied;
+
+(c)
+
+where a female employee is entitled to absent herself from work under section 12AA, the calculation of the number of days shall be determined in accordance with her work pattern under her contract of service immediately preceding the date on which an application to adopt the child is made (where the child to be adopted is a citizen of Singapore) or the date on which the dependant’s pass in respect of the child is issued (where the child to be adopted is not a citizen of Singapore);
+
+(d)
+
+where a male employee who is a natural father is entitled to absent himself from work under section 12E or 12H, the calculation of the number of days shall be determined in accordance with his work pattern under his contract of service immediately preceding the day on which the last of all the eligibility criteria under section 12F(1) or 12I(1), as the case may be, is satisfied;
+
+(e)
+
+where a male employee who is an adoptive father is entitled to absent himself from work under section 12H, the calculation of the number of days shall be determined in accordance with his work pattern under his contract of service immediately preceding the date on which an application to adopt the child is made (where the child to be adopted is a citizen of Singapore) or the date on which the dependant’s pass in respect of the child is issued (where the child to be adopted is not a citizen of Singapore).
+
+5.
+
+In this Schedule, the calculation of the number of days on which a self-employed man or woman is entitled to claim lost income from the Government shall be determined in accordance with the work pattern in the following period:
+
+(a)
+
+where the self-employed woman’s entitlement is pursuant to section 9(4), the calculation of the number of days shall be determined in accordance with her work pattern immediately preceding the day of confinement or the first day of leave, whichever is the earlier;
+
+(b)
+
+where the self-employed woman’s entitlement is pursuant to section 9(4A), (4B) or (4C), the calculation of the number of days shall be determined in accordance with her work pattern immediately preceding the day on which the last of all the eligibility criteria under section 9A(1A), (1B) or (1C), as the case may be, is satisfied;
+
+(c)
+
+where the self-employed woman’s entitlement is pursuant to section 12AB, the calculation of the number of days shall be determined in accordance with her work pattern immediately preceding the date on which an application to adopt the child is made (where the child to be adopted is a citizen of Singapore) or the date on which the dependant’s pass in respect of the child is issued (where the child to be adopted is not a citizen of Singapore);
+
+(d)
+
+in the case of a self-employed man who is a natural father, where his entitlement is pursuant to section 12E or 12H, the calculation of the number of days shall be determined in accordance with his work pattern immediately preceding the day on which the last of all the eligibility criteria under section 12F(1) or 12I(1), as the case may be, is satisfied;
+
+(e)
+
+in the case of a self-employed man who is an adoptive father, where his entitlement is pursuant to section 12H, the calculation of the number of days shall be determined in accordance with his work pattern immediately preceding the date on which an application to adopt the child is made (where the child to be adopted is a citizen of Singapore) or the date on which the dependant’s pass in respect of the child is issued (where the child to be adopted is not a citizen of Singapore).
+
+6.
+
+In this Schedule, where the number of days in the second column of Part I, II or III is not a whole number, that number shall be rounded down to the nearest half day or whole day.
+
+7.
+
+In this Schedule —
+
+“week” means a continuous period of 7 days commencing at midnight on Sunday;
+
+“work pattern” means a work pattern described in item 1, 2 or 3 in the first column of Part I, II or III.
+
+8.
+
+In calculating the number of work days, any day on which an employee is required to work for 5 hours or shorter under his contract of service or on which a self-employed man or woman is engaged in his or her trade, business, profession or vocation for 5 hours or shorter, shall be regarded as half a day.
+
+[Act 26 of 2013 wef 01/04/2014]
+
 ## LEGISLATIVE HISTORY
 
 Child Development Co-Savings Act
 
 (CHAPTER 38A)
 
-This Legislative History is provided for the convenience of users of the Children Development Co-Savings Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Children Development Co-Savings Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2882,3 +3192,8 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|15 March 2013 (Bill No. 10/2013 published on 15 March 2013)|
 ||Date of Second and Third Readings|8 April 2013|
 ||Date of commencement|1 May 2013|
+|13.|**Act 26 of 2013—Employment, Parental Leave and Other Measures Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 April 2014|
