@@ -380,8 +380,6 @@ INDUSTRIAL ARBITRATION COURTS
 
 shall not be eligible for appointment to a panel.
 
-[21/2008 wef 01/03/2010]
-
 (5) The Minister may exempt any person from subsection (1) or (3).
 
 ### Duration of appointment
@@ -610,6 +608,10 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 [29/72]
 
+(5A) Notwithstanding subsection (5)(a), where there is a transfer of an undertaking referred to in section 18A(1) of the Employment Act (Cap. 91), any collective agreement that was entered into between the transferor and the trade union of the affected employees and in force immediately before the transfer shall, for the purposes of section 18A(8)(b) of the Employment Act, continue in force between the transferee and the trade union of the affected employees for a period of 18 months after the date of the transfer or until the date of its expiry as specified in the collective agreement, whichever is the later.
+
+[Act 26 of 2013 wef 01/04/2014]
+
 (6) The referee mentioned in subsection (5)(b) shall be a person to be chosen in a manner provided by the collective agreement from among the persons referred to in section 43(3) and whose decision shall have effect as if it were a term of the collective agreement.
 
 (7) The memorandum when certified by the Court shall be deposited with and registered by the Registrar.
@@ -808,8 +810,6 @@ but does not include any person belonging to any class of persons whom the Minis
 
 the material facts of which giving rise to the dispute occur on or after the date of commencement of this Part.
 
-[36/2010 wef 01/02/2011]
-
 (2) The following disputes may not be the subject of tripartite mediation:
 
 (a) any dispute where the material facts giving rise to the dispute occur earlier than one year before the date on which the Commissioner receives a notification under section 30H(2) relating to that dispute;
@@ -822,11 +822,7 @@ the material facts of which giving rise to the dispute occur on or after the dat
 
 30H\.—(1) An executive employee who has a dispute with his employer may seek tripartite mediation by informing his trade union or any federation of which his trade union may be part of, of such dispute.
 
-[36/2010 wef 01/02/2011]
-
 (2) The trade union or federation may notify the Commissioner of such dispute, in such form and manner as the Commissioner may determine.
-
-[36/2010 wef 01/02/2011]
 
 (3) Upon receiving a notification of a dispute under subsection (2), the Commissioner may —
 
@@ -844,11 +840,7 @@ the material facts of which giving rise to the dispute occur on or after the dat
 
 to participate in the tripartite mediation by assisting the tripartite mediation advisors assigned under paragraph (b).
 
-[36/2010 wef 01/02/2011]
-
 (4) The conciliation officer may conduct the tripartite mediation session in such manner as he deems fit and shall, subject to subsection (5), have the discretion to decide on the persons who may attend any mediation session.
-
-[36/2010 wef 01/02/2011]
 
 (5) No party shall be represented by an advocate or solicitor or a paid agent at any mediation session.
 
@@ -868,19 +860,11 @@ to participate in the tripartite mediation by assisting the tripartite mediation
 
 (e) performs or exercises any other function, duty or power which may give rise to a real or potential conflict of interest if he is represented by the trade union or federation.
 
-[36/2010 wef 01/02/2011]
-
 (2) Where an employer wishes to raise any objection under subsection (1), the employer shall, within 14 days from the date of the direction referred to in section 30H(3)(c) (or such longer period as the Commissioner may, in his discretion, allow in any particular case), give notice of his objection in the prescribed form and manner to the Commissioner stating precisely the grounds of his objection.
-
-[36/2010 wef 01/02/2011]
 
 (3) In deciding whether the objection should stand, the Commissioner may consult one or more tripartite mediation advisors who, in the opinion of the Commissioner, are of sufficient standing and experience to advise and make recommendations to the Commissioner in relation to such objection.
 
-[36/2010 wef 01/02/2011]
-
 (4) Any tripartite mediation advisor who is consulted under subsection (3) shall not be assigned and shall not continue (if assigned) to assist the parties in the tripartite mediation under section 30H(3)(b).
-
-[36/2010 wef 01/02/2011]
 
 (5) The Commissioner’s decision as to whether any objection should stand shall be final.
 
@@ -890,11 +874,7 @@ to participate in the tripartite mediation by assisting the tripartite mediation
 
 30J\.—(1) In the event that an executive employee who has been directed to participate in tripartite mediation under section 30H(3)(c) fails to attend any mediation session without reasonable excuse, the Commissioner may issue such further directions as he deems fit, including but not limited to terminating the tripartite mediation proceedings.
 
-[36/2010 wef 01/02/2011]
-
 (2) In the event that an employer who has been directed to participate in tripartite mediation under section 30H(3)(c) fails to attend any mediation session without reasonable excuse, the Minister may in writing, direct such employer to attend a mediation session.
-
-[36/2010 wef 01/02/2011]
 
 (3) Any employer who fails to comply with the Minister’s direction to attend a mediation session under subsection (2) without reasonable excuse shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -1666,6 +1646,8 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a penalty not exceeding $1,000.
 
+[36/2010 wef 01/02/2011]
+
 ### Onus of proof and prosecution
 
 84\.—(1) In any proceedings for an offence under section 82 or 83 if all the facts and circumstances constituting the offence, other than the reason for the defendant’s action, are proved, the onus shall be on the defendant to prove that he was not actuated by the reason alleged in the charge.
@@ -1718,7 +1700,7 @@ Industrial Relations Act
 
 (CHAPTER 136)
 
-This Legislative History is provided for the convenience of users of the Industrial Relations Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Industrial Relations Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1745,13 +1727,13 @@ This Legislative History is provided for the convenience of users of the Industr
 ||Date of Second Reading|31 July 1968 and 1 August 1968|
 ||Date of Third Reading|1 August 1968|
 ||Date of commencement|15 August 1968|
-|5.|**1970 Revised Edition (Cap. 124)—Industrial Relations Act 1970**|
-||Date of operation|1 January 1970|
-|6.|**Act 48 of 1970—Statute Law Revision Act 1970**|
+|5.|**Act 48 of 1970—Statute Law Revision Act 1970**|
 ||Date of First Reading|2 September 1970|
 |||(Bill No. 36/70 published on 7 September 1970)|
 ||Date of Second and Third Readings|4 November 1970|
 ||Date of commencement|11 December 1970|
+|6.|**1970 Revised Edition (Cap. 124)—Industrial Relations Act 1970**|
+||Date of operation|30 April 1971|
 |7.|**Act 29 of 1972—Industrial Relations (Amendment) Act 1972**|
 ||Date of First Reading|17 October 1972|
 |||(Bill No. 29/72 published on 19 October 1972)|
@@ -1809,6 +1791,11 @@ This Legislative History is provided for the convenience of users of the Industr
 |||(Bill No. 36/2010 published on 22nd November 2010)|
 ||Date of Second and Third Readings|11th January 2011|
 ||Date of commencement|1st January 2012|
+|19.|**Act 26 of 2013—Employment, Parental Leave and Other Measures Act 2013**|
+||(Consequential amendments to Act made by)||
+||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 April 2014|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
