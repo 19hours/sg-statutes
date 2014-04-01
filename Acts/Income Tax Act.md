@@ -2512,7 +2512,9 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
 
-(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the rendering of assistance or service is not performed through that business carried on in Singapore or that permanent establishment; and
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the rendering of assistance or service is not performed through that business carried on in Singapore or that permanent establishment;
+
+[Act 37 of 2014 wef 28/02/2013]
 
 (b) the management or assistance in the management of any trade, business or profession, where such management or assistance is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
 
@@ -2522,9 +2524,31 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
 
-(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the management or assistance is not performed through that business carried on in Singapore or that permanent establishment.
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the management or assistance is not performed through that business carried on in Singapore or that permanent establishment; and
 
 [27/2009]
+
+[Act 37 of 2014 wef 28/02/2013]
+
+(c) the use of or the right to use software, information or digitised goods, not being a right to commercially exploit in one form or another the copyright in such software, information or digitised goods such as the right to —
+
+(i) reproduce, modify or adapt, and distribute the software, information or digitised goods; or
+
+(ii) prepare a derivative work based on the software, information or digitised goods for distribution.
+
+[Act 37 of 2014 wef 28/02/2013]
+
+(7B) In subsection (7A)(c) —
+
+“digitised goods” means text, images or sounds that are transferred through a handphone, fixed‑line phone, cable network, satellite, the Internet or other forms of electronic transmission, but does not include software;
+
+“information” means —
+
+(a) any information in any newspaper or magazine article or report, including financial and business data (such as foreign exchange, stock and property data), and other proprietary data; and
+
+(b) any information obtained solely for research purposes.
+
+[Act 37 of 2014 wef 28/02/2013]
 
 ### Commission or other payment of licensed international market agent
 
@@ -2808,7 +2832,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zq) any contribution to the Central Provident Fund in respect of an individual, and any cash payment to an individual, made by the Government under the Workfare Income Supplement Scheme established under Part VIA of the Central Provident Fund Act; and
 
-(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Recognition Award.
+(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
+
+[Act 39 of 2017 wef 1/04/2014]
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
@@ -3448,15 +3474,35 @@ and the special purpose company does not at that time own any foreign ship, fore
 
 [27/2009]
 
+(4) This section shall not apply to any income derived on or after 1st April 2014 except to the extent allowed by subsection (5).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(5) This section continues to apply to income referred to in subsection (1) of a trustee of a trust fund that is derived on or after 1st April 2014 and before the end of the basis period of that trustee in which that date falls, if —
+
+(a) the trustee has a basis period that ends on a date other than 31st March; and
+
+(b) the trustee makes an election, at the time of lodgment of the return of income for the year of assessment 2015 or 2016 (as the case may be), or such later time as the Comptroller may allow, to apply this section to such income.
+
+[Act 37 of 2014 wef 01/04/2014]
+
 ### Exemption of income of non-resident arising from funds managed by fund manager in Singapore
 
 13CA\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of any prescribed person arising from funds managed in Singapore by any fund manager.
 
 [53/2007; 22/2011]
 
-(1A) The Minister shall not prescribe the trustee of a prescribed trust fund referred to in section 13C as a prescribed person for the purposes of subsection (1).
+(1A) Subsection (1) does not apply to any income of a prescribed person that is —
 
-[34/2008]
+(a) derived in the prescribed person’s capacity as a trustee of a pension or provident fund approved under section 5;
+
+(b) derived in the prescribed person’s capacity as a trustee of a designated unit trust referred to in section 35(14) in a basis period or part of a basis period for a year of assessment, where the person has elected under section 35(12) for that provision to apply to any of the person’s income in that basis period or that part of the basis period;
+
+(c) derived in the prescribed person’s capacity as a trustee of a real estate investment trust within the meaning of section 43(10); or
+
+(d) exempt from tax under section 13X.
+
+[Act 2 of 2016 wef 01/04/2014]
 
 (2) Where —
 
@@ -3594,6 +3640,10 @@ is the percentage which the value of equity interests of the second level entity
 
 [27/2009]
 
+(7B) The Minister or such person as he may appoint may at any time, in the discretion of the Minister or person and subject to such conditions as the Minister or person may impose, remit or refund, wholly or in part, the penalty that is payable or paid by a person under subsection (2), (4) or (6); and section 92(2B) to (2E) shall, with the necessary modifications, apply to any non‑compliance with any such condition as they apply to the non‑compliance with a condition imposed under section 92(2).
+
+[Act 37 of 2014 wef 01/04/2014]
+
 (8) Regulations made under this section may —
 
 (a) provide for the determination of the amount of income of any prescribed person to be exempt from tax;
@@ -3634,19 +3684,31 @@ is the percentage which the value of equity interests of the second level entity
 
 “value” —
 
-(a) in relation to issued securities of a company other than those prescribed under paragraph (c) of the definition of “issued securities”, means the value of those securities at the time of their issue by the company; or
+(a) in relation to issued securities of a company other than those prescribed under paragraph (c) of the definition of “issued securities”, means —
 
-(b) in relation to issued securities of a company prescribed under paragraph (c) of the definition of “issued securities”, means the value of those securities at the prescribed time.
+(i) where the relevant day is before 1st April 2014, the value of those securities at the time of their issue by the company; and
 
-[53/2007; 34/2008; 27/2009]
+(ii) where the relevant day falls on or after 1st April 2014, the net asset value of those securities as at the relevant day; or
+
+(b) in relation to issued securities of a company prescribed under paragraph (c) of the definition of “issued securities”, means —
+
+(i) where the relevant day is before 1st April 2014, the value of those securities at the prescribed time; and
+
+(ii) where the relevant day falls on or after 1st April 2014, the net asset value of those securities as at the relevant day.
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (10) This section shall not apply to —
 
-(a) a company or trustee of a trust fund, as the case may be, that is incorporated or constituted on or after 1st April 2014; or
+(a) a company or trustee of a trust fund, as the case may be, that is incorporated or constituted on or after 1st April 2019; or
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (b) a company or trustee of a trust fund, as the case may be, that —
 
-(i) is incorporated or constituted before 1st April 2014; and
+(i) is incorporated or constituted before 1st April 2019; and
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (ii) is not a prescribed person at any time before that date.
 
@@ -3847,6 +3909,52 @@ to be approved as an approved international shipping enterprise, and the company
 “trustee company” has the same meaning as in section 43J(2).
 
 [7/2007]
+
+(6) This section shall not apply to —
+
+(a) a trust that is constituted on or after 1st April 2019;
+
+(b) a company that is incorporated on or after 1st April 2019;
+
+(c) a trust that —
+
+(i) is constituted before 1st April 2019; and
+
+(ii) in the basis period in which 31st March 2019 falls, is not a foreign trust specified in the regulations under subsection (1) (referred to in this subsection and subsection (8) as a specified trust) that is administered by a trustee company in Singapore within the meaning of those regulations; or
+
+(d) a company that —
+
+(i) is incorporated before 1st April 2019; and
+
+(ii) in the basis period in which 31st March 2019 falls —
+
+(A) is not an eligible holding company established for the purposes of a specified trust, and specified in the regulations under subsection (1); or
+
+(B) is not administered by a trustee company in Singapore within the meaning of those regulations.
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(7) Where, in any basis period beginning on or after 1st April 2019 —
+
+(a) a trust or company does not satisfy the requirements referred to in subsection (8); or
+
+(b) the trustee company which administers a foreign trust or an eligible holding company established for the purposes of a foreign trust fails to comply with any of the regulations under subsection (1),
+
+then this section shall not apply to the trust or company in paragraph (a), or the foreign trust or eligible holding company in paragraph (b), for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirements are satisfied and the regulations are complied with in the basis period for that subsequent year of assessment.
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(8) In subsection (7), the requirements are —
+
+(a) in the case of the trust, that it is a specified trust and is administered by a trustee company in Singapore within the meaning of those regulations; or
+
+(b) in the case of the company —
+
+(i) that it is an eligible holding company established for the purposes of a specified trust, and specified in those regulations; and
+
+(ii) that it is administered by a trustee company in Singapore within the meaning of those regulations.
+
+[Act 37 of 2014 wef 01/04/2014]
 
 ### Exemption of income of venture company
 
@@ -4486,6 +4594,46 @@ as the Minister may by regulations prescribe.
 
 [7/2007]
 
+(5) This section shall not apply to —
+
+(a) a trust that is constituted on or after 1st April 2019;
+
+(b) a company that is incorporated on or after 1st April 2019;
+
+(c) a trust that —
+
+(i) is constituted before 1st April 2019; and
+
+(ii) in the basis period in which 31st March 2019 falls, is not a philanthropic purpose trust that —
+
+(A) has a foreign account; and
+
+(B) is administered by a trustee company in Singapore; or
+
+(d) a company —
+
+(i) is incorporated before 1st April 2019; and
+
+(ii) in the basis period in which 31st March 2019 falls, is not an eligible holding company established for the purposes of a philanthropic purpose trust which satisfies the requirements in paragraph (c)(ii)(A) and (B).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(6) Where, in any basis period beginning on or after 1st April 2019, a trust or company does not satisfy the applicable requirement referred to in subsection (7), then this section shall not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if that requirement is satisfied in the basis period for the subsequent year of assessment.
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(7) In subsection (6), the requirement is —
+
+(a) in the case of the trust, that it is a philanthropic purpose trust that has a foreign account and is administered by a trustee company in Singapore; or
+
+(b) in the case of the company, that it is an eligible holding company established for the purposes of a philanthropic purpose trust which satisfies all of the requirements in paragraph (a).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(8) Where, in any basis period beginning on or after 1st April 2019, the trustee company which administers a philanthropic purpose trust fails to comply with any of the regulations under subsection (1), then this section shall not apply to the trust or the eligible holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
+
+[Act 37 of 2014 wef 01/04/2014]
+
 ### Exemption of income derived from asset securitisation transaction
 
 13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2018 (both dates inclusive).
@@ -4546,6 +4694,42 @@ as the Minister may by regulations prescribe.
 
 [7/2007; 53/2007]
 
+(4) This section shall not apply to —
+
+(a) a trust that is constituted on or after 1st April 2019;
+
+(b) a company that is incorporated on or after 1st April 2019;
+
+(c) a trust that —
+
+(i) is constituted before 1st April 2019; and
+
+(ii) in the basis period in which 31st March 2019 falls, is not a locally administered trust prescribed under subsection (1) (referred to in this subsection and subsection (6) as a prescribed trust); or
+
+(d) a company that —
+
+(i) is incorporated before 1st April 2019; and
+
+(ii) in the basis period in which 31st March 2019 falls, is not a holding company established for the purposes of a prescribed trust, and prescribed under subsection (1).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(5) Where, in any basis period beginning on or after 1st April 2019, a trust or company does not satisfy the requirement referred to in subsection (6), then this section shall not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirement is satisfied in the basis period for the subsequent year of assessment.
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(6) In subsection (5), the requirement is —
+
+(a) in the case of the trust, that it is a prescribed trust; or
+
+(b) in the case of the company, that it is a holding company established for the purposes of a prescribed trust, and prescribed under subsection (1).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+(7) Where, in any basis period beginning on or after 1st April 2019, the trustee company which administers a locally administered trust fails to comply with any of the regulations made under subsection (1), then this section shall not apply to the trust or the holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
+
+[Act 37 of 2014 wef 01/04/2014]
+
 ### Exemption of income of company incorporated and resident in Singapore arising from funds managed by fund manager in Singapore
 
 13R\.—(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the company, there shall be exempt from tax such income as the Minister may by regulations prescribe of a company incorporated and resident in Singapore and approved by the Minister or such person as he may appoint (referred to in this section as an approved company) arising from funds managed —
@@ -4560,9 +4744,11 @@ as the Minister may by regulations prescribe.
 
 [22/2011]
 
-(2) No approval shall be granted under subsection (1) after 31st March 2014.
+(2) No approval shall be granted under subsection (1) after 31st March 2019.
 
 [53/2007; 27/2009]
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (3) Where —
 
@@ -4656,6 +4842,10 @@ is the percentage which the value of equity interests of the second level entity
 
 [53/2007; 27/2009]
 
+(6A) The Minister or such person as he may appoint may at any time, in the discretion of the Minister or person and subject to such conditions as the Minister or person may impose, remit or refund, wholly or in part, the penalty that is payable or paid by a person under subsection (3) or (5); and section 92(2B) to (2E) shall, with the necessary modifications, apply to any non‑compliance with any such condition as they apply to the non‑compliance with a condition imposed under section 92(2).
+
+[Act 37 of 2014 wef 01/04/2014]
+
 (7) Regulations made under this section may —
 
 (a) provide for the determination of the amount of income of any approved company to be exempt from tax;
@@ -4694,11 +4884,19 @@ is the percentage which the value of equity interests of the second level entity
 
 “value” —
 
-(a) in relation to issued securities of a company other than those prescribed under paragraph (c) of the definition of “issued securities”, means the value of those securities at the time of their issue by the company; or
+(a) in relation to issued securities of a company other than those prescribed under paragraph (c) of the definition of “issued securities”, means —
 
-(b) in relation to issued securities of a company prescribed under paragraph (c) of the definition of “issued securities”, means the value of those securities at the prescribed time.
+(i) where the relevant day is before 1st April 2014, the value of those securities at the time of their issue by the company; and
 
-[53/2007; 34/2008; 27/2009]
+(ii) where the relevant day falls on or after 1st April 2014, the net asset value of those securities as at the relevant day; or
+
+(b) in relation to issued securities of a company prescribed under paragraph (c) of the definition of “issued securities”, means —
+
+(i) where the relevant day is before 1st April 2014, the value of those securities at the prescribed time; and
+
+(ii) where the relevant day falls on or after 1st April 2014, the net asset value of those securities as at the relevant day.
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (9) The Minister may by regulations make such transitional and savings provisions as he may consider necessary or expedient in relation to the repeal of section 13R in force immediately before 1st September 2007.
 
@@ -5084,13 +5282,17 @@ except that the Minister may extend the period so specified for such further per
 
 [27/2009; 29/2010; 22/2011]
 
-(2) Approval under subsection (1)(a) may be granted during the period from 1st April 2009 to 31st March 2014 (both dates inclusive).
+(2) Approval under subsection (1)(a) may be granted during the period from 1st April 2009 to 31st March 2019 (both dates inclusive).
 
 [27/2009; 29/2010]
 
-(2A) Approval under subsection (1)(b) may be granted during the period from 7th July 2010 to 31st March 2014 (both dates inclusive).
+[Act 37 of 2014 wef 01/04/2014]
+
+(2A) Approval under subsection (1)(b) may be granted during the period from 7th July 2010 to 31st March 2019 (both dates inclusive).
 
 [29/2010]
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (3) Where the income of any approved person or company, trustee or partner referred to in subsection (1)(b) is not exempt from tax under this section, sections 13C, 13CA and 13R shall not apply to that income notwithstanding anything in those provisions.
 
@@ -5144,13 +5346,19 @@ except that the Minister may extend the period so specified for such further per
 
 [29/2010; 22/2011]
 
-(2) The Minister or such person as he may appoint may, at any time between 1st April 2010 and 31st March 2015 (both dates inclusive), approve a foreign government-owned entity for the purpose of subsection (1).
+(2) The Minister or such person as he may appoint may, at any time between 1st April 2010 and 31st March 2019 (both dates inclusive), approve a foreign government-owned entity for the purpose of subsection (1).
 
 [29/2010]
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (3) Regulations made under subsection (1) may —
 
 (a) provide for the period of each approval, and that the conditions to which any approval is subject may be stated in the letter of approval issued to the foreign government‑owned entity;
+
+(aa) provide for renewal of an approval;
+
+[Act 37 of 2014 wef 01/04/2014]
 
 (b) provide for the determination of the amount of income of a prescribed sovereign fund entity or an approved foreign government-owned entity that is exempt from tax;
 
@@ -8294,13 +8502,21 @@ there shall be made to that person, computed in accordance with section 16 —
 
 ### Initial and annual allowances for certain buildings and structures
 
-18C\.—(1) Where any person proposes to incur or has incurred on or after 23rd February 2010 qualifying capital expenditure on the construction or renovation of a building or structure on industrial land for which an application for planning permission or conservation permission is made to the competent authority in accordance with the Planning Act (Cap. 232) on or after 23rd February 2010, he may apply to the Minister or such person as he may appoint, between 1st July 2010 and 30th June 2015 (both dates inclusive) for such construction or renovation to be approved for the purposes of making an allowance under this section in respect of such expenditure incurred by him.
+18C\.—(1) Where any person proposes to incur or has incurred on or after 23rd February 2010 qualifying capital expenditure on the construction or renovation of a building or structure on industrial land for which an application for planning permission or conservation permission is made to the competent authority in accordance with the Planning Act (Cap. 232) on or after 23rd February 2010, he may apply to the Minister or such person as he may appoint, between 1st July 2010 and 30th June 2020 (both dates inclusive) for such construction or renovation to be approved for the purposes of making an allowance under this section in respect of such expenditure incurred by him.
 
 [29/2010]
 
-(2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1), is satisfied that the construction or renovation of the building or structure on industrial land promotes such intensified use of the land for the purposes of such trade or business as may be prescribed by regulations, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
+[Act 37 of 2014 wef 22/02/2014]
+
+(1A) Where any person proposes to incur or has incurred on or after 22nd February 2014 qualifying capital expenditure on the construction or renovation of a building or structure on port land or airport land, for which an application for planning permission or conservation permission is made on or after that date to the competent authority in accordance with the Planning Act (Cap. 232), the person may apply to the Minister or such person as the Minister may appoint, between 22nd February 2014 and 30th June 2020 (both dates inclusive) for such construction or renovation to be approved for the purposes of making an allowance under this section in respect of such expenditure incurred by that person.
+
+[Act 37 of 2014 wef 22/02/2014]
+
+(2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1) or (1A), is satisfied that the construction or renovation of the building or structure on industrial land, port land or airport land (as the case may be) promotes such intensified use of the land for the purposes of such trade or business as may be prescribed by regulations, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
 
 [29/2010; 22/2011]
+
+[Act 37 of 2014 wef 22/02/2014]
 
 (2A) Where a trade or business is prescribed under subsection (2), then, unless otherwise provided in regulations —
 
@@ -8356,11 +8572,23 @@ there shall be made to that person, computed in accordance with section 16 —
 
 (12) In this section —
 
-“approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land approved under subsection (2);
+“airport land” means any land zoned for use as an airport under the Master Plan;
+
+[Act 37 of 2014 wef 22/02/2014]
+
+“approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land, port land or airport land (as the case may be) approved under subsection (2);
+
+[Act 37 of 2014 wef 22/02/2014]
 
 “industrial land” means any land zoned for the purpose of “Business 1” or “Business 2” (other than “Business 1 White” and “Business 2 White”) under the Master Plan, and includes such other land as may be approved by the Minister;
 
-“Master Plan” means the Master Plan as defined in the Planning Act which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1);
+“Master Plan” means the Master Plan as defined in the Planning Act which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1) or (1A), as the case may be;
+
+[Act 37 of 2014 wef 22/02/2014]
+
+“port land” means any land zoned for use as a port under the Master Plan;
+
+[Act 37 of 2014 wef 22/02/2014]
 
 “qualifying capital expenditure” means the following types of capital expenditure which are incurred in respect of any construction or renovation, between 23rd February 2010 and the date of completion of that construction or renovation (both dates inclusive):
 
@@ -8377,6 +8605,8 @@ there shall be made to that person, computed in accordance with section 16 —
 (f) legal and other professional fees in relation to the approved construction or approved renovation; and
 
 (g) stamp duties payable in respect of title of the building or structure;
+
+[Act 37 of 2014 wef 22/02/2014]
 
 “relevant interest”, in relation to any qualifying capital expenditure incurred on an approved construction or approved renovation of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
 
@@ -15993,9 +16223,15 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2018, subject to such conditions as the Minister may impose;
 
-(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017, subject to such conditions as the Minister may impose.
+(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017, subject to such conditions as the Minister may impose;
 
 [53/2007; 34/2008; 22/2011; 19/2013]
+
+[Act 37 of 2014 wef 21/02/2014]
+
+(c) any interest liable to be paid on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
+
+[Act 37 of 2014 wef 21/02/2014]
 
 (10) In this section, “qualifying debt securities” and “qualifying project debt securities” have the same meanings as in section 13(16).
 
@@ -16038,6 +16274,10 @@ and every such amount deducted shall be a debt due from him to the Government an
 (2D) Subsection (1) shall not apply to any payment liable to be made on or after 17th February 2012 under any agreement or arrangement for the charter of any ship.
 
 [29/2012]
+
+(2E) Subsection (1) shall not apply to any payment liable to be made on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
+
+[Act 37 of 2014 wef 21/02/2014]
 
 (3) In this section —
 
@@ -21051,263 +21291,251 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|23 February 2010 (Section 28)|
-|259.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
-||Date of Second and Third Readings|29 February 2016|
-||Date of commencement|23 February 2010|
-|260.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|259.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item 1(20) of the Second Schedule — amendment of Income Tax Act)|
-|261.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|260.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 March 2010 (Sections 28(d), 33)|
-|262.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|261.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 April 2010 (Sections 8, 10, 34, 38(a), (b), 47, 54(d), 55(d))|
-|263.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|262.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2010 (Sections 15, 35)|
-|264.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|263.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 April 2010 (Sections 33(a), (b), (d), (e), (h), (i), (j), (o), (p), (f)|
-|265.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|264.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|21 May 2010 (Section 42)|
-|266.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|265.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|7 July 2010 (Section 9)|
-|267.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|266.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|7 July 2010 (Section 14(b))|
-|268.|**Act 25 of 2010—Estate Agents Act 2010**|
+|267.|**Act 25 of 2010—Estate Agents Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 August 2010|
 |||(Bill No. 19/2010 published on 16 August 2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|22 October 2010 (item 4 of the Third Schedule — amendment of Income Tax Act)|
-|269.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|268.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|22 November 2010|
-|270.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|269.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 January 2011 (Sections 28(a), (c), 43)|
-|271.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|270.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2011 (Sections 4(a), 6(b), (e), (f), (i), 16(b), 27(a))|
-|272.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|271.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 January 2011 (Sections 12, 25(a) to (f), (h), (i))|
-|273.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|272.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|19 February 2011 (Section 37)|
-|274.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|273.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 March 2011 (Sections 7(b), (c), 44(b), 45(b), 46(b))|
-|275.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|274.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2011 (Section 18, 20, 34, 38, 40)|
-|276.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|275.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|25 April 2011 (Section 41)|
-|277.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+|276.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|28 February 2011|
 |||(Bill No. 8/2011 published on 28 February 2011)|
 ||Date of Second and Third Readings|10 March 2011|
 ||Date of commencement|1 May 2011|
-|278.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|277.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 June 2011 (Sections 10(f), 48, 49, 69(a), 71)|
-|279.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|278.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 June 2011 (Sections 4, 5(a), (c), (d), (e), 9)|
-|280.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|279.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 September 2011 (Section 16(a))|
-|281.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|280.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 December 2011 (Sections 2, 5, 6(g), 12, 30(j), (k), 32(a), 36(1), 39,42, 43, 45, 46, 47, 50, 51, 52, 55 to 60, 62 to 68(b), 72)|
-|282.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
+|281.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|22 November 2010|
 |||(Bill No. 36/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|11 January 2011|
 ||Date of commencement|1 January 2012|
-|283.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|282.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012 (Sections 6(a), (c), (d), 32(b))|
-|284.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|283.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|17 February 2012 (Sections 3(b), (c), (d), (e), 33(c), (f), (g), (k) to (h), (q), (r), (s), (u), (v), 42, 44)|
-|285.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|284.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|28 February 2012 (Sections 38, 39)|
-|286.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|285.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||Date of First Reading|21 November 2011|
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (section 4 — amendment of Income Tax Act)|
-|287.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|286.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 March 2012 (Section 20)|
-|288.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
+|287.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
 ||Date of commencement|1 April 2012|
-|289.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|288.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 April 2012 (Sections 13, 17, 37(b))|
-|290.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|289.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 June 2012 (Sections 11, 51(d))|
-|291.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
+|290.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
 ||Date of commencement|3 December 2012|
-|292.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|291.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|18 December 2012 (Sections 3(a), 7, 8, 10(b), 16, 18, 22, 25(g), 26, 29, 31, 48)|
-|293.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|292.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|18 December 2012 (Section 15)|
-|294.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
+|293.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 28/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|16 November 2012|
 ||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
-|295.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+|294.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
-|296.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|295.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|25 February 2013 (Section 29, 50, 53)|
-|297.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|296.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|26 February 2013 (Section 27(b))|
-|298.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
-||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
-||Date of Second and Third Readings|3 November 2014|
-||Date of commencement|28 February 2013|
-|299.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+|297.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
-|300.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|298.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 April 2013 (Section 30)|
-|301.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|299.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
-|302.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
-||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
-||Date of Second and Third Readings|29 February 2016|
-||Date of commencement|25 April 2013|
-|303.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|300.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|28 June 2013 (Sections 7(b), (c), (d), (i))|
-|304.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|301.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
-|305.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
+|302.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
 ||Date of commencement|23 December 2013|
-|306.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|303.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 January 2014|
-|307.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+|304.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
 ||(Related amendments made to Act by)||
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
-|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|31 March 2014|
+|306.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
-||Date of commencement|21 February 2014|
-|309.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
-||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
-||Date of Second and Third Readings|3 November 2014|
-||Date of commencement|22 February 2014|
-|310.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+||Date of commencement|1 April 2014|
+|307.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
-||Date of commencement|22 February 2014|
-|311.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
-||Date of operation|31 March 2014|
+||Date of commencement|1 April 2014|
+|308.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
 ## COMPARATIVE TABLE
 
 Income Tax Act
