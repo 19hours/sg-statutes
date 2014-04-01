@@ -42,7 +42,7 @@
 
 - [8 Duties of developers](#Duties-of-developers)
 
-- [9 Duties of qualified persons](#Duties-of-qualified-persons)
+- [9 Duties of qualified persons and specialists](#Duties-of-qualified-persons-and-specialists)
 
 - [10 Duties of site supervisors](#Duties-of-site-supervisors)
 
@@ -992,7 +992,7 @@ Duties of developers, qualified persons, site supervisors and builders
 
 [47/2007 wef 15/02/2008]
 
-### Duties of qualified persons
+### Duties of qualified persons and specialists
 
 9\.—(1) Every qualified person who is appointed under section 8 or 11 to prepare the plans of any building works shall —
 
@@ -1012,6 +1012,8 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (iii) the qualified person appointed under section 8 or 11 to supervise those building works.
 
+[Act 22 of 2012 wef 01/04/2014]
+
 (2) For the purpose of subsection (1)(a) —
 
 (a) the plans of any building works that are prepared in accordance with the acceptable solutions as set out in the Approved Document issued by the Commissioner of Building Control in respect of such building works shall be deemed to comply with the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and
@@ -1022,9 +1024,13 @@ Duties of developers, qualified persons, site supervisors and builders
 
 [Act 2 of 2012 wef 01/03/2012]
 
-(ii) obtain the certification of another qualified person, being a specialist in the application of such an alternative solution, that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works.
+(ii) obtain the certification of another person who has such requisite specialist knowledge or qualification in the application of the alternative solution as the Commissioner of Building Control may approve (referred to in this section as a specialist in the alternative solution), that the alternative solution satisfies the objectives and performance requirements prescribed by the building regulations in respect of such building works.
 
-(3) No qualified person shall issue any certification for the purposes of subsection (2)(b)(ii) unless he has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his certification is being sought satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of the building works for which the alternative solution is to be applied.
+[Act 22 of 2012 wef 01/04/2014]
+
+(3) No specialist in the alternative solution shall issue any certification for the purposes of subsection (2)(b)(ii) unless he has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his certification is being sought satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of the building works for which the alternative solution is to be applied.
+
+[Act 22 of 2012 wef 01/04/2014]
 
 (4) Every qualified person who is appointed under section 8 or 11 to supervise the carrying out of any building works, or the geotechnical aspects of any geotechnical building works, shall —
 
@@ -1090,13 +1096,19 @@ if he, or any nominee of his, is a partner, an officer or an employee of —
 
 [Act 22 of 2012 wef 01/12/2012]
 
-(8) If any qualified person appointed under section 8 or 11 to prepare the plans of any building works contravenes subsection (1)(a), (2)(b) or (3), he shall be guilty of an offence and shall be liable on conviction —
+(8) If any qualified person appointed under section 8 or 11 to prepare the plans of any building works contravenes subsection (1)(a) or 2(b), he shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
 (b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the qualified person fails to comply with the requirement,
 
 and if the contravention continues after the conviction, the qualified person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.
+
+[Act 22 of 2012 wef 01/04/2014]
+
+(8A) If any specialist in the alternative solution referred to in subsection (2)(b)(ii) contravenes subsection (3), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 22 of 2012 wef 01/04/2014]
 
 (9) If any qualified person appointed under section 8 or 11 contravenes subsection (4)(a) or (b), he shall be guilty of an offence and shall be liable on conviction —
 
@@ -1129,6 +1141,8 @@ and if the contravention continues after the conviction, the qualified person sh
 the qualified person shall be guilty of an offence.
 
 (12) It shall be a defence in any prosecution for a contravention of subsection (1)(b) or (4)(c) for the person charged to prove to the satisfaction of the court that he did not know and could not reasonably have discovered the contravention referred to in the charge.
+
+[47/2007 wef 15/02/2008]
 
 ### Duties of site supervisors
 
@@ -3820,7 +3834,7 @@ Building Control Act
 
 (CHAPTER 29)
 
-This Legislative History is provided for the convenience of users of the Building Control Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Building Control Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3936,6 +3950,7 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of Second and Third Readings|10 September 2012|
 ||Dates of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
 |||28 October 2013 (section 5)|
+|||1 April 2014 (section 4)|
 ## COMPARATIVE TABLE
 
 Building Control Act
