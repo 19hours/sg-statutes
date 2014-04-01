@@ -414,7 +414,21 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants
 
-18\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+18\.—(1) All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(2) The members, officers and employees of the Agency shall, in relation to their administration, assessment, collection and enforcement of payment of —
+
+(a) all fees and charges in connection with the Agency’s function referred to in section 11(1)(o);
+
+(b) any composition sums imposed under any written law administered by the Agency; and
+
+(c) the financial penalties imposed under Part IXA of the Environmental Public Health Act (Cap. 95) with respect to the cleaning business licences issued under that Part,
+
+be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109), and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ## PART V
 
@@ -810,6 +824,10 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|7.|**Act 15 of 2014—Environmental Public Health (Amendment) Act 2014**|
+||Date of First Reading|20 January 2014 (Bill No. 3/2014 published on 20 January 2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|1 April 2014|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
