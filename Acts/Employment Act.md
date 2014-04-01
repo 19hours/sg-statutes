@@ -36,7 +36,7 @@
 
 - [13 When contract deemed to be broken by employer and employee](#When-contract-deemed-to-be-broken-by-employer-and-employee)
 
-- [14 Misconduct of employee](#Misconduct-of-employee)
+- [14 Misconduct of employeeDismissal](#Misconduct-of-employeeDismissal)
 
 - [15 Termination by employee threatened by danger](#Termination-by-employee-threatened-by-danger)
 
@@ -78,7 +78,7 @@
 
 - [31 Recovery of advances and loans](#Recovery-of-advances-and-loans)
 
-- [32 Deductions not to exceed 50% of salary](#Deductions-not-to-exceed-50%-of-salary)
+- [32 Deductions not to exceed prescribed limit](#Deductions-not-to-exceed-prescribed-limit)
 
 - [33 Priority of salary to other debts](#Priority-of-salary-to-other-debts)
 
@@ -250,7 +250,19 @@
 
 - [104 Notice to employer by Commissioner or inspecting officer of inspection or visit](#Notice-to-employer-by-Commissioner-or-inspecting-officer-of-inspection-or-visit)
 
-- [105 (Repealed)](#Repealed)
+- [105 Power to arrest without warrant](#Power-to-arrest-without-warrant)
+
+- [105A How to arrest](#How-to-arrest)
+
+- [105B No unnecessary restraint](#No-unnecessary-restraint)
+
+- [105C Search of persons arrested](#Search-of-persons-arrested)
+
+- [105D Inspecting officer to be armed](#Inspecting-officer-to-be-armed)
+
+- [105E Power to seize offensive weapons](#Power-to-seize-offensive-weapons)
+
+- [105F Power on escape to pursue and arrest](#Power-on-escape-to-pursue-and-arrest)
 
 - [106 Inspecting officer not to reveal secrets](#Inspecting-officer-not-to-reveal-secrets)
 
@@ -270,9 +282,11 @@
 
 - [112 Penalties](#Penalties)
 
+- [112A Abetment of offences](#Abetment-of-offences)
+
 - [113 Penalty for fraudulently inducing employee to emigrate](#Penalty-for-fraudulently-inducing-employee-to-emigrate)
 
-- [113A Offence by body corporate](#Offence-by-body-corporate)
+- [113A Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
 - [114 Power to compound offences](#Power-to-compound-offences)
 
@@ -294,7 +308,7 @@
 
 - [122 Jurisdiction of courts not affected](#Jurisdiction-of-courts-not-affected)
 
-- [123 (Repealed)](#Repealed)
+- [123 No division of claims](#No-division-of-claims)
 
 - [124 Investigations of complaints and offences](#Investigations-of-complaints-and-offences)
 
@@ -305,6 +319,8 @@
 [**Part XVI PROCEDURE AND REGULATIONS**](#Part-XVI)
 
 - [127 Officers to be public servants](#Officers-to-be-public-servants)
+
+- [127A Protection from personal liability](#Protection-from-personal-liability)
 
 - [128 Place of employment deemed to be public place](#Place-of-employment-deemed-to-be-public-place)
 
@@ -337,6 +353,10 @@
 [**SECOND SCHEDULE Registration Fee**](#SECOND-SCHEDULE-Registration-Fee)
 
 [**THIRD SCHEDULE Calculation of Gross and Basic Rates of Pay of An Employee Employed on A Monthly Rate or on Piece Rates**](#THIRD-SCHEDULE-Calculation-of-Gross-and-Basic-Rates-of-Pay-of-An-Employee-Employed-on-A-Monthly-Rate-or-on-Piece-Rates)
+
+[**FOURTH SCHEDULE Employee’s hourly basic rate of pay for calculation of payment due for overtime**](#FOURTH-SCHEDULE-Employee’s-hourly-basic-rate-of-pay-for-calculation-of-payment-due-for-overtime)
+
+[**FIFTH SCHEDULE Number of days on which a female employee is entitled to absent herself from work under section 76(1)(c)(ii)**](#FIFTH-SCHEDULE-Number-of-days-on-which-a-female-employee-is-entitled-to-absent-herself-from-work-under-section-761cii)
 
 [**Legislative History**](#Legislative-History)
 
@@ -404,7 +424,9 @@ PRELIMINARY
 
 “employee” means a person who has entered into or works under a contract of service with an employer and includes a workman, and any officer or employee of the Government included in a category, class or description of such officers or employees declared by the President to be employees for the purposes of this Act or any provision thereof, but does not include —
 
-(a) any seaman;
+(a) any seafarer;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (b) any domestic worker;
 
@@ -488,6 +510,18 @@ but does not include any payment which forms part of the employee’s regular re
 
 (f) any retrenchment benefit payable on retrenchment;
 
+“seafarer” means any person, including the master, who is employed or engaged or works in any capacity on board a ship, but does not include —
+
+(a) a pilot;
+
+(b) a port worker;
+
+(c) a person temporarily employed on the ship during the period it is in port; and
+
+(d) a person who is employed or engaged or works in any capacity on board a harbour craft or pleasure craft licensed under regulations made under section 41 of the Maritime and Port Authority of Singapore Act (Cap. 170A), when the harbour craft or pleasure craft is used within a port declared by the Minister under section 3 of that Act;
+
+[Act 6 of 2014 wef 01/04/2014]
+
 “subcontractor” means any person who contracts with a contractor for the supply of labour or for the execution by the subcontractor of the whole or any part of any work undertaken by the contractor for his principal, and includes any person who contracts with a subcontractor to supply labour or to carry out the whole or any part of any work undertaken by the subcontractor for a contractor;
 
 “subcontractor for labour” means any person who contracts with a contractor or subcontractor to supply the labour required for the execution of the whole or any part of any work a contractor or subcontractor has contracted to carry out for a principal or contractor, as the case may be;
@@ -498,7 +532,9 @@ but does not include any payment which forms part of the employee’s regular re
 
 “workman” means —
 
-(a) any person, skilled or unskilled, who has entered into a contract of service with an employer in pursuance of which he is engaged in manual labour, including any artisan or apprentice, but excluding any seaman or domestic worker;
+(a) any person, skilled or unskilled, who has entered into a contract of service with an employer in pursuance of which he is engaged in manual labour, including any artisan or apprentice, but excluding any seafarer or domestic worker;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (b) any person, other than clerical staff, employed in the operation or maintenance of mechanically propelled vehicles used for the transport of passengers for hire or for commercial purposes;
 
@@ -512,17 +548,9 @@ Provided that when any person is employed by any one employer partly as a workma
 
 [21/84; 36/95; 41/2004; 32/2008]
 
-(2) Any person employed in a managerial or an executive position who is in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed by the Minister, shall be regarded as an employee for the purposes of —
+(2) Any person who is employed in a managerial or an executive position and is in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed in substitution by the Minister, shall be regarded as an employee for the purposes of this Act except the provisions in Part IV.
 
-(a) sections 20, 20A, 21, 22, 23 (read with section 10 or 11, as the case may be), 24, 25 and 34 and Parts XII to XVI (read with the Second and Third Schedules); and
-
-(b) such other provisions of this Act as the Minister may, by regulations, specify,
-
-and those provisions shall apply in relation to that person subject to such modification as may be prescribed.
-
-[32/2008]
-
-[36/2010 wef 01/02/2011]
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Appointment of officers
 
@@ -610,7 +638,7 @@ CONTRACTS OF SERVICE
 
 (b) without informing or attempting to inform his employer of the excuse for such absence.
 
-### Misconduct of employee
+### Dismissal
 
 14\.—(1) An employer may after due inquiry dismiss without notice an employee employed by him on the grounds of misconduct inconsistent with the fulfilment of the express or implied conditions of his service except that instead of dismissing an employee an employer may —
 
@@ -618,7 +646,25 @@ CONTRACTS OF SERVICE
 
 (b) instantly suspend him from work without payment of salary for a period not exceeding one week.
 
-(2) Notwithstanding subsection (1), where an employee considers that he has been dismissed without just cause or excuse by his employer, he may, within one month of the dismissal, make representations in writing to the Minister to be reinstated in his former employment.
+(2) Notwithstanding subsection (1), where a relevant employee considers that he has been dismissed without just cause or excuse by his employer, he may, within one month of the dismissal, make representations in writing to the Minister to be reinstated in his former employment.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+(2A) For the purposes of subsection (2), a relevant employee means —
+
+(a) an employee employed in a managerial or an executive position —
+
+(i) who is dismissed with notice; or
+
+(ii) who is dismissed without notice but receives payment of any salary in lieu of notice,
+
+after having served that employer for at least 12 months in any position (whether or not a managerial or an executive position);
+
+(b) an employee employed in a managerial or an executive position who is dismissed without notice and without salary in lieu of such notice; or
+
+(c) an employee not employed in a managerial or an executive position.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (3) The Minister may, before making a decision on any such representations, by writing under his hand request the Commissioner to inquire into the dismissal and report whether in his opinion the dismissal is without just cause or excuse.
 
@@ -741,6 +787,10 @@ the Commissioner may, by notice in writing, direct the transferor to comply with
 (ii) from the transfer of the employee’s employment from the transferor to the transferee under this section.
 
 [36/95]
+
+(8A) For the purposes of subsection (8)(b), any collective agreement that was entered into between the transferor and the trade union of the affected employees and in force immediately before the transfer shall continue in force between the transferee and the trade union of the affected employees for a period of 18 months after the date of the transfer or until the date of its expiry as specified in the collective agreement, whichever is the later.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (9) A dispute or disagreement between the transferor and an employee or the transferee and an employee arising from a transfer under subsection (1), whether before or after the transfer, may be referred by a party to the dispute or disagreement to the Commissioner under section 115 and shall be deemed to be a dispute to which that section applies.
 
@@ -878,7 +928,15 @@ Number of days the employee actually worked in that month.
 
 ### No unauthorised deductions to be made
 
-26\. No deductions other than deductions authorised under the provisions of this Act shall be made by an employer from the salary of an employee unless they are required to be made by order of a court or other authority competent to make such order.
+26\. No deduction shall be made by an employer from the salary of an employee, unless the deduction is authorised by or under any provision of this Act or is required to be made —
+
+(a) by order of a court or other authority competent to make such order;
+
+(b) pursuant to a declaration made by the Comptroller of Income Tax under section 57 of the Income Tax Act (Cap. 134), the Comptroller of Property Tax under section 38 of the Property Tax Act (Cap. 254) or the Comptroller of Goods and Services Tax under section 79 of the Goods and Services Tax Act (Cap. 117A) that the employer is an agent for recovery of income tax, property tax or goods and services tax (as the case may be) payable by the employee; or
+
+(c) pursuant to a direction given by the Comptroller of Income Tax under section 91 of the Income Tax Act.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Authorised deductions
 
@@ -896,7 +954,7 @@ Number of days the employee actually worked in that month.
 
 (f) deductions for recovery of advances or loans or for adjustment of over-payments of salary;
 
-(g) deductions for income tax payable by the employee;
+(g) [Deleted by Act 26 of 2013 wef 01/04/2014]
 
 (h) deductions of contributions payable by an employer on behalf of an employee under and in accordance with the provisions of the Central Provident Fund Act (Cap. 36);
 
@@ -920,15 +978,23 @@ Number of days the employee actually worked in that month.
 
 ### Deductions for damages or loss
 
-29\.—(1) A deduction under section 27(1)(b) shall not exceed the amount of the damages or loss caused to the employer by the neglect or default of the employee and except with the permission of the Commissioner shall in no case exceed one-quarter of one month’s wages and shall not be made until the employee has been given an opportunity of showing cause against the deduction.
+29\.—(1) A deduction under section 27(1)(b) shall not exceed the amount of the damages or loss caused to the employer by the neglect or default of the employee and except with the permission of the Commissioner shall in no case exceed one-quarter (or such other proportion prescribed in substitution by the Minister) of one month’s wages and shall not be made until the employee has been given an opportunity of showing cause against the deduction.
 
 [21/84]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (2) All such deductions and all realisations thereof shall be recorded in a register to be kept by the employer in such form as may be prescribed.
 
 ### Deductions for accommodation, amenity and service
 
-30\. A deduction under section 27(1)(d) or (e) shall not be made from the salary of an employee unless the house accommodation, amenity or service has been accepted by him, as a term of employment or otherwise, and the deduction shall not exceed an amount equivalent to the value of the house accommodation, amenity or service supplied and, in the case of a deduction under section 27(1)(e), shall be subject to such conditions as the Commissioner may impose.
+30\.—(1) A deduction under section 27(1)(d) or (e) shall not be made from the salary of an employee unless the house accommodation, amenity or service has been accepted by him, as a term of employment or otherwise.
+
+(2) Any deduction under section 27(1)(d) or (e) shall not exceed an amount equivalent to the value of the house accommodation, amenity or service supplied, and the total amount of all deductions under section 27(1)(d) and (e) made from the salary of the employee by his employer in any one salary period shall in no case exceed one-quarter (or such other proportion prescribed in substitution by the Minister) of the salary payable to the employee in respect of that period.
+
+(3) In the case of a deduction under section 27(1)(e), the deduction shall be subject to such conditions as the Commissioner may impose.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Recovery of advances and loans
 
@@ -936,17 +1002,23 @@ Number of days the employee actually worked in that month.
 
 (2) Advances may be recovered in instalments by deductions from salary spread over not more than 12 months.
 
-(3) No instalment under subsection (2) shall exceed one-quarter of the salary due for the salary period in respect of which the deduction is made.
+(3) No instalment under subsection (2) shall exceed one-quarter (or such other proportion prescribed in substitution by the Minister) of the salary due for the salary period in respect of which the deduction is made.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (4) Loans may be recovered in instalments by deductions from salary.
 
-(5) No instalment under subsection (4) shall exceed one-quarter of the salary due for the salary period in respect of which the deduction is made.
+(5) No instalment under subsection (4) shall exceed one-quarter (or such other proportion prescribed in substitution by the Minister) of the salary due for the salary period in respect of which the deduction is made.
 
-### Deductions not to exceed 50% of salary
+[Act 26 of 2013 wef 01/04/2014]
 
-32\.—(1) The total amount of all deductions made from the salary of an employee by an employer in any one salary period, other than deductions under section 27(1)(a), (f), (g) or (j), shall not exceed 50% of the salary payable to the employee in respect of that period.
+### Deductions not to exceed prescribed limit
+
+32\.—(1) The total amount of all deductions made from the salary of an employee by an employer in any one salary period, other than deductions under section 27(1)(a), (f) or (j), shall not exceed 50% (or such other percentage prescribed in substitution by the Minister) of the salary payable to the employee in respect of that period.
 
 [21/84]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (2) Subsection (1) shall not apply to deductions made from the last salary due to an employee on termination of his contract of service or on completion of his contract of service.
 
@@ -958,9 +1030,11 @@ Number of days the employee actually worked in that month.
 
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
-(b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,000 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
+(b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
 
 [32/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (2) When, on the application of a person holding a mortgage, charge or lien or of a person who has obtained a judgment or decree, the property of an employer is sold, or any money due to the employer is garnished, the court ordering the sale or garnishment shall not distribute the proceeds of the sale or the money to the person entitled thereto unless the court has ascertained and paid the salary due to all the employees employed by that employer and to all employees engaged by a contractor or subcontractor and working for that employer.
 
@@ -984,7 +1058,21 @@ Number of days the employee actually worked in that month.
 
 ### Offence
 
-34\. Any employer failing to pay salary in accordance with the provisions of this Part shall be guilty of an offence.
+34\.—(1) Any employer failing to pay salary in accordance with the provisions of this Part shall be guilty of an offence.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+(2) Any employer who is guilty of an offence under subsection (1) for contravening section 21, 22 or 23 shall be liable on conviction —
+
+(a) to a fine of not less than $3,000 and not more than $15,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) if the employer is a repeat offender, to a fine of not less than $6,000 and not more than $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+(3) For the purposes of subsection (2), a person is a repeat offender in relation to an offence under subsection (1) if the person who is convicted or found guilty of an offence under subsection (1) of contravening section 21, 22 or 23 (referred to as the current offence) has been convicted or found guilty of an offence of contravening section 21, 22 or 23 on at least one other occasion (whether before, on or after the date of commencement of section 2(11) of the Employment, Parental Leave and Other Measures Act 2013) before the date on which he is convicted or found guilty of the current offence.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ## PART IV
 
@@ -996,9 +1084,11 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
-(b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,000 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
+(b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
 
 [32/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Rest day
 
@@ -1108,13 +1198,9 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 (5) An employee shall not be permitted to work overtime for more than 72 hours a month.
 
-(6) For the purpose of calculating the payment due for overtime to an employee, the employee’s hourly basic rate of pay shall be taken to be —
+(6) For the purpose of calculating under subsection (4) the payment due for overtime to an employee referred to in the first column of the Fourth Schedule, the employee’s hourly basic rate of pay shall be determined in accordance with the second column of the Fourth Schedule.
 
-(a) in the case of a person employed on a monthly rate of pay, 12 times his monthly basic rate of pay divided by 52 times 44 hours; and
-
-(b) in the case of a person employed on piece rates, the total weekly pay at the basic rate of pay received divided by the total number of hours worked in the week.
-
-[36/95]
+[Act 26 of 2013 wef 01/04/2014]
 
 (7) The Minister may make regulations for the purpose of calculating the payment due for overtime to an employee employed on piece rates.
 
@@ -1144,11 +1230,19 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 (c) work essential for defence or security;
 
-(d) urgent work to be done to machinery or plant; or
+(d) urgent work to be done to machinery or plant;
 
-(e) an interruption of work which it was impossible to foresee.
+[Act 26 of 2013 wef 01/04/2014]
+
+(e) an interruption of work which it was impossible to foresee; or
 
 [32/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
+
+(f) work to be performed by employees in any industrial undertaking essential to the economy of Singapore or any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act (Cap. 67).
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (3) Except in the circumstances described in subsection (2A)(a), (b), (c), (d) and (e), no employee to whom this section applies shall under any circumstances work for more than 12 hours in any one day.
 
@@ -1579,9 +1673,9 @@ AND CHILDCARE LEAVE FOR PARENT
 
 (B) not later than the day of her confinement; and
 
-(ii) one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+(ii) one or more than one period each of such duration as agreed between the employee and her employer but in aggregate no shorter than as reckoned in accordance with the Fifth Schedule or 24 days, whichever is the lower, all of which must be taken within the period of 12 months commencing on the day of her confinement.
 
-[41/2004; 28/2008]
+[Act 26 of 2013 wef 01/04/2014]
 
 (1A) Subject to this section, every female employee shall be entitled to receive payment from her employer at her gross rate of pay for any of the following periods (referred to in this Part as the benefit period):
 
@@ -1913,6 +2007,18 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 [32/2008]
 
+(4A) Notwithstanding subsections (1) and (4), where an employee who is employed in a managerial or an executive position is required by his employer to work on any holiday to which he would otherwise be entitled under subsection (1), the employee shall be paid the gross rate of pay for that day and may be given the following, in lieu of a day off in substitution for that holiday or an extra day’s salary at the basic rate of pay:
+
+(a) part of a day off on a working day comprising such number of hours as may be agreed between the employee and his employer; and
+
+(b) in the case where there is no such agreement —
+
+(i) part of a day off on a working day comprising 4 hours if the employee worked on that holiday for a period not exceeding 4 hours; or
+
+(ii) a day off on a working day if the employee worked on that holiday for a period of more than 4 hours.
+
+[Act 26 of 2013 wef 01/04/2014]
+
 (5) No employee shall, by reason of subsection (4), receive double any housing allowance or food allowance.
 
 [32/2008]
@@ -2024,6 +2130,10 @@ shall be deemed to have absented himself from work without the permission of his
 (c) may be revoked by the Commissioner in writing at any time.
 
 [32/2008]
+
+(10) This section shall not apply to any employee seeking or undergoing medical treatment which, in the opinion of a medical practitioner or medical officer performing the examination under subsection (1) or (2), is for cosmetic purposes.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Offence
 
@@ -2143,6 +2253,10 @@ INSPECTION AND ENQUIRY
 
 (a) to enter and search, by day or by night, any premises or part thereof when he has reasonable cause to believe that evidence of the commission of an offence under this Act can be found therein;
 
+(aa) to enter without previous notice at any reasonable time any place of employment for the purpose of conducting any audit in relation to the terms and conditions of employment of any employee;
+
+[Act 26 of 2013 wef 01/04/2014]
+
 (b) to examine orally any person reasonably believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and to reduce into writing the answer given or statement made by that person;
 
 (c) to require any person whom the Commissioner or inspecting officer has reason to believe has any document, including documents of identity or documents containing information relevant to the carrying out of the provisions of this Act, to produce any such document and to answer such questions relating thereto as he may think proper to ask;
@@ -2177,9 +2291,75 @@ INSPECTION AND ENQUIRY
 
 [21/84; 36/95; 32/2008]
 
-Powers of Commissioner and inspecting officer
+### Power to arrest without warrant
 
-105\. [Repealed byAct 32 of 2008]
+105\.—(1) Any inspecting officer may arrest without warrant any person whom he reasonably suspects —
+
+(a) is committing or has committed an offence under section 21, 22 or 23 read with section 34; or
+
+(b) has abetted the commission of any offence referred to in paragraph (a).
+
+(2) Any inspecting officer may arrest without warrant any person who is an officer or a member of a body corporate or an unincorporated association or a partner of a partnership and whom the inspecting officer reasonably suspects has consented to, connived in or due to neglect on his part caused the commission of an offence referred to in subsection (1)(a).
+
+(3) An inspecting officer making an arrest without warrant shall, without unnecessary delay and subject to subsection (5), produce the person arrested before a Magistrate’s Court.
+
+(4) No inspecting officer shall detain in custody a person arrested without warrant for longer than is reasonable in the circumstances, and such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+
+(5) Any person who has been arrested by an inspecting officer may be released on bail, or on his own bond, by an inspecting officer.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+### How to arrest
+
+105A\.—(1) In making an arrest, an inspecting officer making the arrest must touch or confine the body of the person to be arrested unless the person submits to arrest by word or action.
+
+(2) If the person forcibly resists or tries to evade arrest, the inspecting officer may use all means necessary to effect the arrest.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+### No unnecessary restraint
+
+105B\.—(1) The person arrested shall not be subjected to more restraint than is necessary to prevent his escape.
+
+(2) An inspecting officer may use handcuffs or any similar means of restraint on a person arrested to prevent him from —
+
+(a) inflicting any bodily injury to himself or others;
+
+(b) damaging any property;
+
+(c) creating any disturbance; or
+
+(d) escaping from custody.
+
+(3) The handcuffs or similar means of restraint shall not be used for the purpose of punishment.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+### Search of persons arrested
+
+105C\.—(1) When a person is arrested, the inspecting officer making the arrest may search the person and take possession of all articles (other than necessary wearing apparel) found upon the person that the inspecting officer has reason to believe were connected with the offence for which the person is being arrested.
+
+(2) Whenever it is necessary to cause a person to be searched, the search shall be made by an inspecting officer of the same sex as the person, with strict regard to decency.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+### Inspecting officer to be armed
+
+105D\. Every inspecting officer shall be provided with such batons and accoutrements as may be necessary for the effective discharge of his duties.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+### Power to seize offensive weapons
+
+105E\. An inspecting officer making any arrest may take from the person arrested any offensive weapons which he has about his person.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+### Power on escape to pursue and arrest
+
+105F\. If a person in lawful custody escapes or is rescued, the inspecting officer from whose custody he escaped or was rescued may immediately pursue and arrest him in any place within Singapore and deal with that person as he might have done on the original arrest.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Inspecting officer not to reveal secrets
 
@@ -2241,23 +2421,75 @@ GENERAL
 
 [21/84; 32/2008]
 
+### Abetment of offences
+
+112A\. Any person who abets the commission of an offence under this Act shall be guilty of the offence and shall be liable on conviction to be punished with the punishment provided for that offence.
+
+[Act 26 of 2013 wef 01/04/2014]
+
 ### Penalty for fraudulently inducing employee to emigrate
 
 113\. Any person who by force, intoxication or ill-treatment, intimidation or fraud, or by means of false representations, induces or attempts to induce any person to enter into a contract of service to work beyond the limits of Singapore shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [32/2008]
 
-### Offence by body corporate
+### Offences by bodies corporate, etc.
 
-113A\. Where an offence under this Act is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+113A\.—(1) Where an offence under this Act committed by a body corporate is proved —
 
-[36/95]
+(a) to have been committed with the consent or connivance of an officer of the body corporate; or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) For the purposes of this section, where an offence under this Act has been committed by a body corporate, an unincorporated association (other than a partnership) or a partnership, it shall be presumed, until the contrary is proved, that the offence is attributable to the neglect of an officer or a member of the body corporate or unincorporated association or a partner of the partnership, as the case may be, who —
+
+(a) is primarily responsible for the act or omission which constitutes the offence; and
+
+(b) has failed to exercise reasonable supervision or oversight as such officer, member or partner.
+
+(6) In this section —
+
+“body corporate” includes a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+(7) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Power to compound offences
 
-114\. The Commissioner may in his discretion compound any such offence under this Act as may be prescribed as being an offence which may be compounded by accepting from the person reasonably suspected of committing that offence a sum not exceeding $1,000.
+114\. The Commissioner may in his discretion compound any such offence under this Act as may be prescribed as being an offence which may be compounded by accepting from the person reasonably suspected of committing that offence a sum not exceeding $5,000.
 
 [32/2008]
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ## PART XV
 
@@ -2276,6 +2508,14 @@ Provided that the person claiming in respect of matters arising out of or as the
 (3A) Where the employee is employed in a managerial or an executive position, an order for the payment of money under subsection (1) shall not exceed $20,000.
 
 [36/2010 wef 01/02/2011]
+
+(3B) Subject to subsection (3C), any order made by the Commissioner under subsection (1) in the absence of a party concerned or affected by the order may be set aside or varied by the Commissioner, on the application of that party, on such terms as the Commissioner thinks just.
+
+[Act 26 of 2013 wef 01/04/2014]
+
+(3C) An application to set aside or vary an order made by the Commissioner referred to in subsection (3B) shall be made no later than 14 days after the date of the order.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (4) In this section, “employer” includes the transferor and the transferee of an undertaking or part thereof referred to in section 18A.
 
@@ -2339,6 +2579,10 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 (b) shall act according to equity, good conscience and the merits of the case without regard to technicalities.
 
+(3) All proceedings before the Commissioner shall be held in private.
+
+[Act 26 of 2013 wef 01/04/2014]
+
 ### Representation before Commissioner
 
 120\. In proceedings before the Commissioner, a party —
@@ -2363,9 +2607,11 @@ but shall not be represented by an advocate or solicitor or a paid agent.
 
 122\. Nothing in this Part shall limit or affect the jurisdiction of any court.
 
-Employee’s remedy when employer about to abscond
+### No division of claims
 
-123\. [Repealed byAct 32 of 2008]
+123\. No claim shall be divided and pursued in separate proceedings before the Commissioner for the sole purpose of bringing the sum claimed in each of such proceedings within the jurisdiction of this Act.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Investigations of complaints and offences
 
@@ -2402,6 +2648,12 @@ PROCEDURE AND REGULATIONS
 ### Officers to be public servants
 
 127\. For the purposes of this Act and of the Penal Code (Cap. 224), the Commissioner and all other officers appointed or acting under this Act shall be deemed to be public servants within the meaning of the Penal Code.
+
+### Protection from personal liability
+
+127A\. No liability shall lie against any person appointed under section 3 or any other person acting under the direction of the Commissioner for anything which is done with reasonable care and in good faith in the execution or purported execution of this Act.
+
+[Act 26 of 2013 wef 01/04/2014]
 
 ### Place of employment deemed to be public place
 
@@ -2490,6 +2742,10 @@ PROCEDURE AND REGULATIONS
 (f) prescribe the form of register to be kept under section 29 and the forms of orders to be made under sections 115 and 119;
 
 (g) prescribe the fees payable for copies of notes of evidence and decisions recorded under section 119(1)(j);
+
+(ga) provide for any matter relating to the release of any arrested person on any bail or bond under section 105(5);
+
+[Act 26 of 2013 wef 01/04/2014]
 
 (h) prescribe penalties for any contravention of the provisions of the regulations made under this section; except that no such penalty shall exceed $5,000 in the case of a first offence or $10,000 in the case of a second or subsequent offence under the same regulation within one year.
 
@@ -2693,6 +2949,133 @@ ____
 
 7\. In calculating the number of working days in a week or the average number of working days in a week, any day on which an employee is required to work for 5 hours or less under his contract of service shall be regarded as half a day.
 
+FOURTH SCHEDULE
+
+Section 38(6)
+
+Employee’s hourly basic rate of pay for
+
+
+
+
+calculation of payment due for overtime
+
+First column
+
+Second column
+
+Type of employee
+
+Calculation of hourly basic rate of pay
+
+1.
+
+A workman employed on a monthly rate of pay
+
+2.
+
+A non-workman whose monthly basic rate of pay is less than $2,250
+
+3.
+
+A non-workman whose monthly basic rate of pay is $2,250 or more
+
+4.
+
+A workman employed on piece rates
+
+The total weekly pay at the basic rate of pay received divided by the total number of hours worked in the week
+
+5.
+
+A non-workman employed on piece rates
+
+The total weekly pay at the basic rate of pay received divided by the total number of hours worked in the week, or the hourly basic rate of pay of an employee specified in this column for item 3, whichever is the lower
+
+6.
+
+A workman employed on a hourly rate of pay
+
+Actual hourly basic rate of pay
+
+7.
+
+A non-workman employed on a hourly rate of pay
+
+Actual hourly basic rate of pay, or the hourly basic rate of pay of an employee specified in this column for item 3, whichever is the lower
+
+8.
+
+A workman employed on a daily rate of pay
+
+Daily basic rate of pay divided by the number of working hours per day
+
+9.
+
+A non-workman employed on a daily rate of pay
+
+Daily basic rate of pay divided by the number of working hours per day, or the hourly basic rate of pay of an employee specified in this column for item 3, whichever is the lower
+
+[Act 26 of 2013 wef 01/04/2014]
+
+FIFTH SCHEDULE
+
+Section 76(1)
+
+Number of days
+on which a female employee is entitled to
+absent herself from work under section 76(1)(
+
+c
+
+)(ii)
+
+First column
+
+Second column
+
+Number of days on which a female employee is required to work under her contract of service (referred to in this Schedule as her work days)
+
+Calculation of total number of days on which a female employee is entitled to absent herself from work under section 76(1)(c)(ii) for one or more periods
+
+1.
+
+Where the number of work days in a week is the same in every week.
+
+4 × the number of work days in a week
+
+2.
+
+Where the number of work days varies from one week to another and there is a consistent or regular pattern repeated over a number of fixed weeks.
+
+3.
+
+Where the number of work days varies from one week to another and there is no consistent or regular pattern repeated over a number of fixed weeks.
+
+4 × the average number of work days in a week over the period of 3 weeks immediately preceding the day of confinement or the first day of leave, whichever is the earlier
+
+4. 
+
+In this Schedule, the calculation of the number of days on which a female employee is entitled to absent herself from work under section 76(1)(c)(ii) shall be determined in accordance with her work pattern under her contract of service immediately preceding the day of confinement or the first day of leave, whichever is the earlier.
+
+5. 
+
+In this Schedule, where the number of days in the second column is not a whole number, that number shall be rounded down to the nearest half day or whole day.
+
+6. 
+
+In this Schedule —
+
+“week” means a continuous period of 7 days commencing at midnight on Sunday;
+
+“work pattern” means a work pattern described in item 1, 2 or 3 in the first column.
+
+7. 
+
+In calculating the number of work days, any day on which a female employee is required to work for 5 hours or shorter under her contract of service shall be regarded as half a day.
+
+[Act 26 of 2013 wef 01/04/2014]
+
 ## LEGISLATIVE HISTORY
 
 Employment Act
@@ -2838,3 +3221,13 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|15 March 2013 (Bill No. 10/2013 published on 15 March 2013)|
 ||Date of Second and Third Readings|8 April 2013|
 ||Date of commencement|1 May 2013|
+|31.|**Act 6 of 2014—Merchant Shipping (Maritime Labour Convention) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 27/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 April 2014|
+|32.|**Act 26 of 2013—Employment, Parental Leave and Other Measures Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 April 2014|
