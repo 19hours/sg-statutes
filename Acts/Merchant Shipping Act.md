@@ -132,7 +132,7 @@
 
 - [59 Settlement of disputes](#Settlement-of-disputes)
 
-- [60 Restriction on attachment or assignment of and charge upon seamen’s wages](#Restriction-on-attachment-or-assignment-of-and-charge-upon-seamen’s-wages)
+- [60 Restriction on attachment or assignment of and charge upon crew member’s wages](#Restriction-on-attachment-or-assignment-of-and-charge-upon-crew-member’s-wages)
 
 - [61 Assignment or sale of salvage invalid](#Assignment-or-sale-of-salvage-invalid)
 
@@ -142,7 +142,7 @@
 
 - [64 Right, or loss of right, to wages in certain circumstances](#Right-or-loss-of-right-to-wages-in-certain-circumstances)
 
-- [65 Compensation to seaman improperly discharged](#Compensation-to-seaman-improperly-discharged)
+- [65 Compensation to crew member improperly discharged](#Compensation-to-crew-member-improperly-discharged)
 
 - [66 Wages on termination of service by illness](#Wages-on-termination-of-service-by-illness)
 
@@ -150,7 +150,7 @@
 
 - [68 Remedies of master for remuneration, disbursements, etc.](#Remedies-of-master-for-remuneration-disbursements-etc)
 
-- [69 Powers of court in case of unreasonable delay in paying seaman’s wages](#Powers-of-court-in-case-of-unreasonable-delay-in-paying-seaman’s-wages)
+- [69 Powers of court in case of unreasonable delay in paying crew member’s wages](#Powers-of-court-in-case-of-unreasonable-delay-in-paying-crew-member’s-wages)
 
 - [70 Provisions and water](#Provisions-and-water)
 
@@ -186,9 +186,9 @@
 
 - [86 Limit of employer’s liability under section 85](#Limit-of-employer’s-liability-under-section-85)
 
-- [87 Custody, etc., of property of deceased seamen](#Custody-etc-of-property-of-deceased-seamen)
+- [87 Custody, etc., of property of deceased crew members](#Custody-etc-of-property-of-deceased-crew-members)
 
-- [88 Disposal of property of deceased seamen](#Disposal-of-property-of-deceased-seamen)
+- [88 Disposal of property of deceased crew members](#Disposal-of-property-of-deceased-crew-members)
 
 - [89 Official and other log-books](#Official-and-other-log-books)
 
@@ -236,7 +236,7 @@
 
 - [110 Owner and master liable in respect of unsafe ship](#Owner-and-master-liable-in-respect-of-unsafe-ship)
 
-- [111 Master or seaman may claim discharge if ship is unsafe](#Master-or-seaman-may-claim-discharge-if-ship-is-unsafe)
+- [111 Crew member may claim discharge if ship is unsafe](#Crew-member-may-claim-discharge-if-ship-is-unsafe)
 
 - [112 Obligation of shipowner to crew with respect to use of reasonable efforts to secure seaworthiness](#Obligation-of-shipowner-to-crew-with-respect-to-use-of-reasonable-efforts-to-secure-seaworthiness)
 
@@ -462,7 +462,7 @@
 
 - [217 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE Convention on Limitation of Liability for Maritime Claims, 1976 Part I Text of Convention Chapter I Right of Limitation**](#THE-SCHEDULE)
+[**THE SCHEDULE Convention on Limitation of Liability for Maritime Claims, 1976**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -494,9 +494,7 @@ PRELIMINARY
 
 “alteration” includes deterioration;
 
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
-
-[Act 7 of 1996.]
+“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996];
 
 “beneficial interest” includes interests arising under contract and other equitable interests;
 
@@ -518,7 +516,19 @@ PRELIMINARY
 
 “court”, in relation to any proceedings, includes any court having jurisdiction in the matter to which the proceedings relate;
 
+“crew” means the following:
+
+(a) if the ship is a ship to which the Merchant Shipping (Maritime Labour Convention) Act 2014 applies, all the seafarers employed on board that ship;
+
+(b) if the ship is not a ship mentioned in paragraph (a), the master and all the seamen employed on board that ship;
+
+[Act 6 of 2014 wef 01/04/2014]
+
 “crew agreement” means an agreement made pursuant to section 53;
+
+“crew member” means a member of the crew;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 “Director” means the Director of Marine appointed under section 4 and includes the Deputy Director of Marine;
 
@@ -572,11 +582,13 @@ PRELIMINARY
 
 [7/96]
 
-“port of return” means such port as is agreed upon by the master or seaman and his employer in the crew agreement or otherwise, or, in the absence of agreement —
+“port of return” means such port as is agreed upon by the crew member and his employer in the crew agreement or seafarer’s employment agreement, as the case may be, or otherwise, or, in the absence of agreement —
 
-(a) Singapore, in the case of a master or seaman who is resident in Singapore; or
+(a) Singapore, in the case of a crew member who is resident in Singapore; or
 
-(b) the port where the master or seaman was employed or joined the ship, in any other case;
+(b) the port where the crew member was employed or joined the ship, in any other case;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 “Registrar” means the Registrar of Singapore ships;
 
@@ -585,6 +597,14 @@ PRELIMINARY
 “salvor”, in relation to salvage services rendered by the officers or crew or part of the crew of any naval ship, means the person in command of that ship;
 
 “sea” includes any waters within the ebb and flow of tide;
+
+“seafarer” has the same meaning as in the Merchant Shipping (Maritime Labour Convention) Act 2014;
+
+[Act 6 of 2014 wef 01/04/2014]
+
+“seafarer’s employment agreement” has the same meaning as in the Merchant Shipping (Maritime Labour Convention) Act 2014;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 “seaman” includes every person employed or engaged in any capacity on board a ship on the business of the ship, other than —
 
@@ -626,9 +646,13 @@ PRELIMINARY
 
 (3) For the purposes of this Act —
 
-(a) a seaman is discharged from a ship when his employment on that ship is terminated;
+(a) a crew member is discharged from a ship when his employment on that ship is terminated;
 
-(b) a seaman discharged from a ship in any country and left there shall be deemed to be left behind in that country notwithstanding that the ship also remains there; and
+[Act 6 of 2014 wef 01/04/2014]
+
+(b) a crew member discharged from a ship in any country and left there shall be deemed to be left behind in that country notwithstanding that the ship also remains there; and
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (c) a ship shall be deemed to have gone to sea if it has got under way for any purpose except for the purpose of moving the ship from one berth or place in a port to another berth or place in the port.
 
@@ -640,6 +664,8 @@ PRELIMINARY
 
 4\.—(1) The Authority may appoint a Director of Marine and a Deputy Director of Marine.
 
+[7/96]
+
 (2) If the Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, a person may be appointed by the Authority to act in the place of the Director during any such period of absence from duty.
 
 [7/96]
@@ -647,8 +673,6 @@ PRELIMINARY
 (3) The Director may appoint such number of officers as he thinks fit for the purpose of carrying out all or any of the functions conferred on the Director by this Act.
 
 (4) The Director may delegate to any officer appointed under this section all or any of the powers conferred on the Director by this Act, except the powers conferred by section 113.
-
-[7/96]
 
 ### Appointment of surveyors
 
@@ -672,6 +696,8 @@ SINGAPORE REGISTRY
 
 8\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the conditions for the registration of a ship as a Singapore ship.
 
+[7/96]
+
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may make provision —
 
 (a) describing the persons qualified to own Singapore ships or any share therein (referred to in this Part as persons qualified to own Singapore ships);
@@ -685,8 +711,6 @@ SINGAPORE REGISTRY
 (e) empowering the Registrar to close the registry of a Singapore ship and cancel its certificate of registry for any contravention of the regulations.
 
 (3) The Registrar may refuse to register any ship as a Singapore ship without assigning any reason.
-
-[7/96]
 
 ### Register of Singapore ships
 
@@ -816,7 +840,9 @@ SINGAPORE REGISTRY
 
 (c) any unpaid fees within the meaning of section 213(4) with respect to the ship; and
 
-(d) any outstanding claims of the master or seamen of the ship in respect of wages which have been notified to the Director.
+(d) any outstanding claim of any crew member of the ship in respect of wages which has been notified to the Director.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (6) Subsection (5) shall not apply in respect of a bill of sale executed pursuant to an order of the High Court for the sale of a Singapore ship or any share therein.
 
@@ -836,7 +862,9 @@ SINGAPORE REGISTRY
 
 (c) any unpaid fees within the meaning of section 213(4) with respect to the ship; and
 
-(d) any outstanding claims of the master or seamen of the ship in respect of wages which have been notified to the Director.
+(d) any outstanding claim of any crew member of the ship in respect of wages which has been notified to the Director.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (2) Where a Singapore ship or any share therein is transferred to a person not qualified to own a Singapore ship and the bill of sale is registered under section 18, the registry of the ship shall be deemed to be closed and the Registrar shall make an entry thereof in the register.
 
@@ -992,7 +1020,9 @@ SINGAPORE REGISTRY
 
 (c) unpaid fees within the meaning of section 213(4) with respect to the ship; and
 
-(d) outstanding claims of the master or seamen of the ship in respect of wages which have been notified to the Director.
+(d) outstanding claim of any crew member of the ship in respect of wages which has been notified to the Director.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (2) The application shall specify the name of the ship, the intended port and country of registry (if applicable) or otherwise the reason for the closure and shall be submitted to the Registrar together with the certificate of registry of the ship.
 
@@ -1011,8 +1041,6 @@ SINGAPORE REGISTRY
 [7/96]
 
 (3) Where the registry of a ship is closed under this section, the registered owner of the ship at the time of the closure shall, within 30 days of the closure, deliver up the certificate of registry to the Registrar for cancellation and if he fails to deliver up the certificate of registry within the specified period, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
-
-[7/96]
 
 ### Rules as to name of ship
 
@@ -1034,7 +1062,9 @@ SINGAPORE REGISTRY
 
 ### Regulations on evidence of seaworthiness, etc.
 
-45\.—(1) The Authority may, with the approval of the Minister, make such regulations as he considers necessary or expedient to implement the provisions of this Part.
+45\.—(1) The Authority may, with the approval of the Minister, make such regulations as the Authority considers necessary or expedient to implement the provisions of this Part.
+
+[7/96]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, in particular, make regulations —
 
@@ -1082,6 +1112,8 @@ MANNING AND CERTIFICATION
 
 (c) providing that existing certificates shall, except in such cases as are specified in the regulations, be deemed for the purposes of this Act to be issued in pursuance of this section and to confer on the persons to whom they are issued such qualifications as may be specified in the regulations.
 
+[7/96]
+
 (2) In subsection (1), “existing certificate” means a certificate granted before 1st August 1986.
 
 (3) Without prejudice to the generality of paragraph (b) of subsection (1), the conditions prescribed or specified under that paragraph may include conditions as to nationality and regulations made for the purposes of that paragraph may make provision for —
@@ -1091,8 +1123,6 @@ MANNING AND CERTIFICATION
 (b) the conduct of any examination, the condition for admission to the examination and the appointment and remuneration of examiners; and
 
 (c) the issue, surrender, replacement, form and recording of certificates and other documents.
-
-[7/96]
 
 ### Prohibition of going to sea undermanned
 
@@ -1132,9 +1162,15 @@ CREW MATTERS
 
 (d) any ship which is not propelled by mechanical means.
 
+(1A) Sections 53, 54, 55, 56, 57, 58, 59, 62, 63, 64, 72, 73, 74, 75(1), 80, 81, 82, 83, 85, 86, 95 and 96 shall not apply to any ship to which the Merchant Shipping (Maritime Labour Convention) Act 2014 applies.
+
+[Act 6 of 2014 wef 01/04/2014]
+
 (2) Subject to subsection (1) and to any extension to foreign ships under section 97, this Part shall apply only to Singapore ships.
 
-(3) For the purposes of this Part, except sections 71, 72, 76, 77, 78, 80, 81 and 83, “seaman” (notwithstanding the definition in section 2) includes the master of a ship.
+(3) For the purposes of this Part, except sections 72, 76, 77, 78, 80, 81 and 83, “seaman” (notwithstanding the definition in section 2) includes the master of a ship.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Crew agreements
 
@@ -1224,17 +1260,23 @@ CREW MATTERS
 
 (3) An award made by the Director upon the submission shall be conclusive as to the rights of the parties, and the submission or award shall not require a stamp; and a document purporting to be the submission or award shall be admissible as evidence thereof.
 
-### Restriction on attachment or assignment of and charge upon seamen’s wages
+### Restriction on attachment or assignment of and charge upon crew member’s wages
 
-60\.—(1) Subject to this section, the following provisions shall have effect with respect to the wages due or accruing to a seaman employed on a ship:
+60\.—(1) Subject to this section, the following provisions shall have effect with respect to the wages due or accruing to a crew member employed on a ship:
 
 (a) the wages shall not be subject to attachment;
 
-(b) an assignment thereof before they have accrued shall not bind the seaman and the payment of the wages to the seaman shall be valid notwithstanding any previous assignment or charge; and
+[Act 6 of 2014 wef 01/04/2014]
+
+(b) an assignment thereof before they have accrued shall not bind the crew member and the payment of the wages to the crew member shall be valid notwithstanding any previous assignment or charge; and
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (c) a power of attorney or authority for the receipt of the wages shall not be irrevocable.
 
-(2) Nothing in this section shall affect the provisions of this Act with respect to allotment notes.
+(2) Nothing in this section shall affect the provisions of this Act or the Merchant Shipping (Maritime Labour Convention) Act 2014 with respect to allotment notes.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (3) Nothing in this section shall apply to any disposition relating to the application of wages —
 
@@ -1246,7 +1288,9 @@ or to anything done or to be done for giving effect to such a disposition.
 
 ### Assignment or sale of salvage invalid
 
-61\. Subject to this Act, an assignment or sale of salvage payable to a seaman made prior to the accruing thereof shall not bind the person making the assignment or sale of salvage; and a power of attorney or authority for the receipt of any such salvage shall not be irrevocable.
+61\. Subject to this Act, an assignment or sale of salvage payable to a crew member made prior to the accruing thereof shall not bind the person making the assignment or sale of salvage; and a power of attorney or authority for the receipt of any such salvage shall not be irrevocable.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Allotment notes
 
@@ -1282,45 +1326,77 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (b) that the seaman was able to obtain suitable employment for that day but unreasonably refused to take it.
 
-### Compensation to seaman improperly discharged
+### Compensation to crew member improperly discharged
 
-65\. If a seaman, having signed an agreement, is discharged otherwise than in accordance with the terms thereof before the commencement of the voyage, or before one month’s wages are earned, without fault on his part justifying that discharge, and without his consent, the seaman shall be entitled to receive from the person employing him, in addition to any wages which he has earned, due compensation for the damage caused to him by the discharge, not exceeding one month’s wages and may recover that compensation as if it were wages duly earned.
+65\. If a crew member, having signed an agreement, is discharged otherwise than in accordance with the terms thereof before the commencement of the voyage, or before one month’s wages are earned, without fault on his part justifying that discharge, and without his consent, the crew member shall be entitled to receive from the person employing him, in addition to any wages which he has earned, due compensation for the damage caused to him by the discharge, not exceeding one month’s wages and may recover that compensation as if it were wages duly earned.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Wages on termination of service by illness
 
-66\. Where the service of a seaman terminates before the date contemplated in his agreement, by reason of his being left ashore at any place outside his port of return under a medical certificate of unfitness or inability to proceed on a voyage, the seaman shall be entitled to wages up to the time of such termination, but not for any longer period.
+66\. Where the service of a crew member terminates before the date contemplated in his agreement, by reason of his being left ashore at any place outside his port of return under a medical certificate of unfitness or inability to proceed on a voyage, the crew member shall be entitled to wages up to the time of such termination, but not for any longer period.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Protection of certain rights and remedies
 
-67\.—(1) A seaman’s lien, his remedies for the recovery of his wages, his right to wages in case of the wreck or loss of his ship, and any right he may have or obtain in the nature of salvage shall not be capable of being renounced by any agreement.
+67\.—(1) A seaman’s lien and a crew member’s remedies for the recovery of his wages, his right to wages in case of the wreck or loss of his ship, and any right he may have or obtain in the nature of salvage shall not be capable of being renounced by any agreement.
 
-(2) Subsection (1) does not affect such term of any agreement made with a seaman belonging to a ship which, in accordance with the agreement, is to be employed on salvage service, as provide for the remuneration to be paid to him for salvage services rendered by that ship.
+[Act 6 of 2014 wef 01/04/2014]
+
+(2) Subsection (1) does not affect such term of any agreement made with a crew member belonging to a ship which, in accordance with the agreement, is to be employed on salvage service, as provide for the remuneration to be paid to him for salvage services rendered by that ship.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Remedies of master for remuneration, disbursements, etc.
 
 68\. The master of a ship shall have the same lien and remedies for his remuneration and all disbursements or liabilities properly made or incurred by him on account of the ship, as a seaman has for his wages.
 
-### Powers of court in case of unreasonable delay in paying seaman’s wages
+### Powers of court in case of unreasonable delay in paying crew member’s wages
 
-69\. In any action or other legal proceedings by any seaman of a ship for the recovery of any sum due to him on account of wages, the court may, if it appears that the payment of the sum due has been delayed otherwise than owing to the act or default of the seaman or to any reasonable dispute as to liability, or to any other cause not being the wrongful act or default of the person liable to make the payment, order that person to pay, in addition to any sum due on account of wages, such sum as the court thinks just as damages in respect of the delay, without prejudice to any claim which may be made by the seaman on that account.
+69\. In any action or other legal proceedings by any crew member of a ship for the recovery of any sum due to him on account of wages, the court may, if it appears that the payment of the sum due has been delayed otherwise than owing to the act or default of the crew member or to any reasonable dispute as to liability, or to any other cause not being the wrongful act or default of the person liable to make the payment, order that person to pay, in addition to any sum due on account of wages, such sum as the court thinks just as damages in respect of the delay, without prejudice to any claim which may be made by the crew member on that account.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Provisions and water
 
-70\.—(1) The Authority may, with the approval of the Minister, make regulations requiring such provisions and water to be provided for seamen employed on ships.
+70\.—(1) The Authority may, with the approval of the Minister, make regulations —
 
-(2) Regulations made under this section may require a ship to carry such weighing and measuring equipment as may be necessary to ensure that the quantities of provisions and water supplied to seamen employed on the ship are in accordance with the regulations.
+(a) requiring such provisions and drinking water to be provided for crew members employed on ships;
 
-(3) If any regulation made under this section is not complied with, the master or the person employing the seamen of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he proves that the failure to comply was not due to his neglect or default.
+(b) providing for the quality, nutritional value and quantity of provisions and drinking water to be provided;
 
-(4) If a person empowered under this Act to inspect the provisions and water to be supplied to the seamen employed on a ship is not satisfied that the provisions and water are in accordance with regulations made under this section, the ship may be detained.
+(c) regulating the storage and handling of provisions and drinking water; and
 
-[7/96]
+(d) regulating the organisation and equipment of the catering department.
+
+[Act 6 of 2014 wef 01/04/2014]
+
+(1A) The owner and master of a ship shall ensure that provisions and drinking water provided in accordance with subsection (1) are provided free of charge to all crew members while they are on board.
+
+[Act 6 of 2014 wef 01/04/2014]
+
+(2) Regulations made under this section may require a ship to carry such weighing and measuring equipment as may be necessary to ensure that the quantities of provisions and water supplied to crew members employed on the ship are in accordance with the regulations.
+
+[Act 6 of 2014 wef 01/04/2014]
+
+(3) If any regulation made under this section is not complied with, the master or the person employing the crew members of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he proves that the failure to comply was not due to his neglect or default.
+
+[Act 6 of 2014 wef 01/04/2014]
+
+(4) If a person empowered under this Act to inspect the provisions and water to be supplied to the crew members employed on a ship is not satisfied that the provisions and water are in accordance with regulations made under this section, the ship may be detained.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Complaints about provisions or water
 
-71\.—(1) If 3 or more seamen employed on a ship consider that the provisions or water provided for the seamen employed on that ship are not in accordance with the regulations made under section 70 (whether because of bad quality, unfitness for use or deficiency in quantity) they may complain to the master of the ship who shall investigate the complaint.
+71\.—(1) If 3 or more crew members employed on a ship consider that the provisions or water provided for the crew members employed on that ship are not in accordance with the regulations made under section 70 (whether because of bad quality, unfitness for use or deficiency in quantity) they may complain to the master of the ship who shall investigate the complaint.
 
-(2) If the seamen are dissatisfied with the action taken by the master as a result of his investigation or by his failure to take any action, they may state their dissatisfaction to him and may complain to the Director; and thereupon the master shall make adequate arrangements to enable the seamen to do so as soon as the service of the ship permits.
+[Act 6 of 2014 wef 01/04/2014]
+
+(2) If the crew members are dissatisfied with the action taken by the master as a result of his investigation or by his failure to take any action, they may state their dissatisfaction to him and may complain to the Director; and thereupon the master shall make adequate arrangements to enable the crew members to do so as soon as the service of the ship permits.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (3) The Director shall, upon receiving the complaint made under subsection (2), investigate the complaint and may examine the provisions or water or cause them to be examined.
 
@@ -1342,11 +1418,11 @@ or to anything done or to be done for giving effect to such a disposition.
 
 73\.—(1) The Authority may, with the approval of the Minister, make regulations requiring ships to carry such medicines and other medical stores (including books containing instructions and advice) as may be specified in the regulations.
 
+[7/96]
+
 (2) If a ship goes to sea or attempts to go to sea without carrying the medical stores which it is required to carry by regulations made under this section, the master or the owner of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he proves that the failure to carry the medical stores was not due to his neglect or default.
 
 (3) If a person empowered under this Act to inspect the medical stores carried in a ship is not satisfied that the ship carries the stores which it is required to carry by the regulations made under this section, the ship may be detained.
-
-[7/96]
 
 ### Medical treatment on board ship
 
@@ -1394,6 +1470,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 80\.—(1) For the purpose of maintaining discipline on board a ship, the Authority may, with the approval of the Minister, make regulations prescribing any misconduct on board as a disciplinary offence and enabling the master of the ship, or such officer as may under the regulations be required or authorised to exercise the powers of the master, to impose fines on any seaman committing any disciplinary offence.
 
+[7/96]
+
 (2) The regulations made under this section may provide for —
 
 (a) the fine that may be imposed on a seaman in respect of each disciplinary offence;
@@ -1401,8 +1479,6 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 (b) the procedure to be followed in dealing with the disciplinary offence; and
 
 (c) the circumstances in which the master of a ship may remit the whole or part of any fine imposed thereunder.
-
-[7/96]
 
 ### Appeal against fine for disciplinary offences
 
@@ -1436,7 +1512,9 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 ### Civil liability for smuggling
 
-84\. If a seaman employed on a ship is found in civil proceedings before a court in Singapore or elsewhere to have committed an act of smuggling, whether in Singapore or elsewhere, he shall be liable to make good any loss or expense that the act has caused to any other person.
+84\. If a crew member employed on a ship is found in civil proceedings before a court in Singapore or elsewhere to have committed an act of smuggling, whether in Singapore or elsewhere, he shall be liable to make good any loss or expense that the act has caused to any other person.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Relief and repatriation of seaman left behind
 
@@ -1462,41 +1540,57 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 86\. Where a person left behind in or taken to any country as mentioned in section 85(1) remains there after the end of a period of 3 months, the person who last employed him as a seaman shall not be liable under that section to make provision for his return or for any matter arising after the end of that period, unless he has, before the end of that period, been under an obligation imposed on him by regulations made under that section to make provision with respect to him.
 
-### Custody, etc., of property of deceased seamen
+### Custody, etc., of property of deceased crew members
 
 87\.—(1) The Authority may, with the approval of the Minister, make regulations providing for the custody of and dealing with —
 
-(a) any property left on board a ship by a seaman dying while or after being employed on the ship;
+(a) any property left on board a ship by a crew member dying while or after being employed on the ship;
 
-(b) any property left in a country outside Singapore by a seaman dying while or within such period as provided for in the regulations after being employed on a ship; and
+[Act 6 of 2014 wef 01/04/2014]
 
-(c) the recovery by the Director of any wages which, at the time of a seaman’s death, were due to him in respect of his employment on a ship.
+(b) any property left in a country outside Singapore by a crew member dying while or within such period as provided for in the regulations after being employed on a ship; and
 
-(2) Regulations made under this section may require the recording of particulars and the rendering of accounts and may enable the Director or any person having custody of any such property to sell it by auction or otherwise and account for the proceeds.
+[Act 6 of 2014 wef 01/04/2014]
+
+(c) the recovery by the Director of any wages which, at the time of a crew member’s death, were due to him in respect of his employment on a ship.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 [7/96]
 
-### Disposal of property of deceased seamen
+(2) Regulations made under this section may require the recording of particulars and the rendering of accounts and may enable the Director or any person having custody of any such property to sell it by auction or otherwise and account for the proceeds.
 
-88\.—(1) Where, on the death of a seaman, any property comes into the hands of the Director by virtue of section 87, the Director may satisfy out of them any expenses incurred by the Director in respect of the seaman or his property.
+### Disposal of property of deceased crew members
+
+88\.—(1) Where, on the death of a crew member, any property comes into the hands of the Director by virtue of section 87, the Director may satisfy out of them any expenses incurred by the Director in respect of the crew member or his property.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (2) If the value of the residue of the property does not exceed $5,000, the Director may at any time pay or deliver it to any of the persons mentioned in subsection (3) or distribute it among them, unless a grant of representation has then been made and the Director knows of it; and the Director shall thereby be discharged from any further liability in respect of the residue.
 
 (3) The persons referred to in subsection (2) are —
 
-(a) any person appearing to the Director to be a person named as the seaman’s next of kin in the crew agreement in which the seaman’s name last appeared;
+(a) any person appearing to the Director to be a person named as the crew member’s next of kin in the crew agreement or seafarer’s employment agreement, as the case may be, in which the crew member’s name last appeared;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (b) any person appearing to the Director to be his widow or his child;
 
-(c) any person appearing to the Director to be beneficially entitled, under a will or on intestacy, to the seaman’s estate or any part thereof; or
+(c) any person appearing to the Director to be beneficially entitled, under a will or on intestacy, to the crew member’s estate or any part thereof; or
 
-(d) any person appearing to the Director to be a creditor of the seaman.
+[Act 6 of 2014 wef 01/04/2014]
+
+(d) any person appearing to the Director to be a creditor of the crew member.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (4) Where no claim to the property received by the Director is substantiated within one year after the receipt of the property by the Director, the Director shall pay the property, the proceeds thereof, or the residue thereof, into the Consolidated Fund.
 
 (5) If any subsequent claim is made to such property, or the residue thereof, and is established to the satisfaction of the Director, the amount, or so much as appears to be due to the claimant, shall be paid out of the Consolidated Fund.
 
 (6) If any claim is not established to the satisfaction of the Director, the claimant may apply by originating summons to the High Court, and the Court, after taking evidence orally or on affidavit, may make such order on the application as it thinks just.
+
+[42/2005 wef 01/01/2006]
 
 (7) After the expiration of 6 years from the receipt of such property or proceeds thereof by the Director, no such claim shall be made without the sanction of the Minister.
 
@@ -1528,9 +1622,9 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (c) for the surrender of discharge books in such circumstances as may be prescribed by the regulations.
 
-(2) Any provision of the regulations having effect by virtue of paragraph (a) of subsection (1) may be so framed as to apply to all such persons as are mentioned in that paragraph or any description of such persons and as to have effect subject to any exemptions for which provisions may be made by the regulations.
-
 [7/96]
+
+(2) Any provision of the regulations having effect by virtue of paragraph (a) of subsection (1) may be so framed as to apply to all such persons as are mentioned in that paragraph or any description of such persons and as to have effect subject to any exemptions for which provisions may be made by the regulations.
 
 ### Returns of births and deaths in ships, etc.
 
@@ -1541,6 +1635,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 (b) requiring the master of any ship to conduct an inquiry to determine the nature and cause and make a report to the Director of any death occurring in the ship and, wherever occurring outside Singapore, of any person employed on the ship, and to notify any such death to such person (if any) as the deceased may have named as his next of kin; and
 
 (c) requiring the master of any ship not registered in Singapore which calls at Singapore in the course of or at the end of a voyage to make a return to the Director of any birth or death of a citizen of Singapore which has occurred in the ship during the voyage.
+
+[7/96]
 
 (2) Regulations made under this section may require the Director to send a certified copy of any return made thereunder to the Registrar of Births and Deaths.
 
@@ -1561,8 +1657,6 @@ and the provisions of any written law relating to the registration of births and
 (c) any death of a person who has been employed on a Singapore ship which occurs elsewhere than in the ship.
 
 (5) Any person who, being required under the regulations made under this section to make a return of any birth or death or a report on the inquiry into the cause of any death, furnishes as true any information in the return or report which he knows or has reason to believe to be false shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[7/96]
 
 ### Handing over of documents on change of master
 
@@ -1588,11 +1682,11 @@ and the provisions of any written law relating to the registration of births and
 
 96\.—(1) No young person shall be employed on any ship except as permitted by regulations made under this section.
 
+[7/96]
+
 (2) The Authority may, with the approval of the Minister, make regulations prescribing the circumstances in which and the conditions subject to which young persons who have attained such specified age may be employed on a ship in such capacities as may be specified.
 
 (3) If any person is employed on a ship in contravention of any regulations made under this section or if any condition subject to which a person may be employed under any such regulation is not complied with, the owner or the master of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-[7/96]
 
 ### Extension to foreign ships
 
@@ -1626,11 +1720,15 @@ and the ship may be detained until the certificates are produced to the Director
 
 100\.—(1) The Authority may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Part.
 
+[7/96]
+
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations providing for —
 
 (a) the standards of construction and equipment of ships including the provision of life-saving and fire-fighting appliances and radio installations;
 
-(b) the standards of accommodation for crew and passengers;
+(b) the standards of accommodation and recreational facilities for crew and passengers;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (c) the tonnage measurement of ships;
 
@@ -1659,8 +1757,6 @@ and the ship may be detained until the certificates are produced to the Director
 (4) The owner and the master of any ship to which section 99 applies shall comply with any regulations made under this section and shall ensure that the ship and its equipment and in respect of any matter that is governed by the regulations comply with any such regulations before the ship goes to sea and at all times when the ship is at sea, unless otherwise provided in this Act.
 
 (5) Any owner or master who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the ship may be detained.
-
-[7/96]
 
 ### Overloaded ships
 
@@ -1738,7 +1834,7 @@ the ship shall, for the purposes of this Act, be deemed to be overloaded to the 
 
 (a) has sustained or caused an accident occasioning loss of life or serious injury to a person;
 
-(b) has sustained an accident or received damage, or otherwise sustained a defect or deficiency in the ship or its equipment which has been discovered, and the accident, damage, defect or deficiency has affected, or is likely to affect the sea-worthiness of the ship, or the efficiency or completeness of the life-saving appliances or other safety equipment of the ship;
+(b) has sustained an accident or received damage, or otherwise sustained a defect or deficiency in the ship or its equipment which has been discovered, and the accident, damage, defect or deficiency has affected, or is likely to affect the seaworthiness of the ship, or the efficiency or completeness of the life-saving appliances or other safety equipment of the ship;
 
 (c) has been in a position of great peril, either from the action of some other ship or from danger of wreck or collision; or
 
@@ -1800,13 +1896,17 @@ is an unsafe ship, that is to say, is by reason of any of the matters mentioned 
 
 (b) it was reasonable not to have made such arrangements.
 
-### Master or seaman may claim discharge if ship is unsafe
+### Crew member may claim discharge if ship is unsafe
 
-111\. If a ship is an unsafe ship, the master or seaman belonging to the ship shall not be deemed to have committed a breach of his agreement by reason of his having refused to sail in the ship while it is unsafe; and any master or seaman so refusing may claim his discharge unless the ship is made safe within a reasonable time.
+111\. If a ship is an unsafe ship, a crew member belonging to the ship shall not be deemed to have committed a breach of his agreement by reason of his having refused to sail in the ship while it is unsafe; and any crew member so refusing may claim his discharge unless the ship is made safe within a reasonable time.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Obligation of shipowner to crew with respect to use of reasonable efforts to secure seaworthiness
 
-112\.—(1) In every contract of service, express or implied, between the owner of a ship or the person employing the master and seamen and the master or any seaman thereof, there shall be implied, notwithstanding any agreement to the contrary, an obligation on the owner of the ship that the owner of the ship and the master and every agent charged with the loading of the ship or the preparing of the ship for sea or the sending of the ship to sea shall use all reasonable means to ensure the seaworthiness of the ship for the voyage at the time when the voyage commences, and to keep her in a seaworthy condition for the voyage during the voyage.
+112\.—(1) In every contract of service, express or implied, between the owner of a ship or the person employing the crew members and any crew member thereof, there shall be implied, notwithstanding any agreement to the contrary, an obligation on the owner of the ship that the owner of the ship and the master and every agent charged with the loading of the ship or the preparing of the ship for sea or the sending of the ship to sea shall use all reasonable means to ensure the seaworthiness of the ship for the voyage at the time when the voyage commences, and to keep her in a seaworthy condition for the voyage during the voyage.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (2) Nothing in this section —
 
@@ -1848,7 +1948,7 @@ is an unsafe ship, that is to say, is by reason of any of the matters mentioned 
 
 ### Conduct endangering ships, structures or individuals
 
-115\.—(1) This section shall apply to the master of, or any seaman employed on —
+115\.—(1) This section shall apply to any crew member employed on —
 
 (a) a Singapore ship; and
 
@@ -1857,6 +1957,8 @@ is an unsafe ship, that is to say, is by reason of any of the matters mentioned 
 (i) is registered under the law of any country outside Singapore; and
 
 (ii) is in a port in Singapore or within the seaward limits of the territorial waters of Singapore while proceeding to or from any such port, unless the ship would not be in that port, or, as the case may be, would not be so proceeding, but for weather conditions or any other unavoidable circumstances.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (2) If a person to whom this section applies, while on board his ship or in its immediate vicinity —
 
@@ -1882,7 +1984,9 @@ and either of the conditions specified in subsection (3) is satisfied with respe
 
 (a) that the act or omission was deliberate or amounted to a breach or neglect of duty; and
 
-(b) that the master or seaman in question was under the influence of drink or a drug at the time of the act or omission.
+(b) that the crew member in question was under the influence of drink or a drug at the time of the act or omission.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (4) If a person to whom this section applies —
 
@@ -1912,7 +2016,9 @@ he shall, subject to subsections (5) and (6), be guilty of an offence and shall 
 
 “duty” —
 
-(a) in relation to a master or seaman, means any duty falling to be discharged by him in his capacity as such; and
+(a) in relation to any crew member, means any duty falling to be discharged by him in his capacity as such; and
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (b) in relation to a master, includes his duty with respect to the good management of his ship and his duty with respect to the safety of operation of his ship, its machinery and equipment;
 
@@ -1921,6 +2027,8 @@ he shall, subject to subsections (5) and (6), be guilty of an offence and shall 
 ### Regulations for survey of ships and issue of certificates
 
 116\.—(1) The Authority may, with the approval of the Minister, make regulations for the purposes of authorising any organisation for the survey or inspection of Singapore ships and the issue of any certificate under this Part.
+
+[7/96]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, in the regulations —
 
@@ -1933,8 +2041,6 @@ he shall, subject to subsections (5) and (6), be guilty of an offence and shall 
 [7/96]
 
 (3) Any certificate issued or endorsement made by any authorised organisation in accordance with any regulations made under this section shall be deemed to be issued or made by the Director for the purposes of this Act.
-
-[7/96]
 
 ## PART VI
 
@@ -2016,9 +2122,9 @@ and, at the time it occurred, the ship was registered in Singapore or the ship o
 
 121\.—(1) The Authority may, with the approval of the Minister, make regulations for the conduct of inquiries under section 117 and of formal investigations under section 119 and for the conduct of any re-hearing under section 120 which is not held by the High Court.
 
-(2) Without prejudice to the generality of subsection (1), regulations made under this section may provide for the appointment and summoning of assessors, the manner in which any facts may be proved, the persons allowed to appear, and the notices to be given to persons affected.
-
 [7/96]
+
+(2) Without prejudice to the generality of subsection (1), regulations made under this section may provide for the appointment and summoning of assessors, the manner in which any facts may be proved, the persons allowed to appear, and the notices to be given to persons affected.
 
 ### Failure to deliver cancelled or suspended certificate
 
@@ -2142,6 +2248,8 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 (b) any structure (whether completed or in the course of completion) launched and intended for use in navigation as a ship or part of a ship.
 
+[56/2004 wef 01/05/2005]
+
 ### Exclusion of liability
 
 135\.—(1) Subject to subsection (3), the owner of a Singapore ship is not liable for any loss or damage —
@@ -2160,6 +2268,8 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 (4) In this section, “owner”, in relation to a ship, includes any part owner and any charterer, manager or operator of the ship.
 
+[56/2004 wef 01/05/2005]
+
 ### Limitation of liability for maritime claims
 
 136\.—(1) Subject to this Part, the provisions of the Convention, other than paragraph 1(d) and (e) of Article 2 of the Convention, shall have the force of law in Singapore.
@@ -2167,6 +2277,8 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 (2) For the purposes of paragraph 3 of Article 6 of the Convention, it is hereby provided that a claim in respect of damage to harbour works, basins, waterways or aids to navigation has priority over any other claim under paragraph 1(b) of that Article.
 
 (3) Notwithstanding paragraph 2 of Article 1 of the Convention, the right to limit liability under the Convention applies in relation to any ship whether seagoing or not, and “shipowner” in that paragraph has a corresponding meaning.
+
+[56/2004 wef 01/05/2005]
 
 ### General limits
 
@@ -2184,9 +2296,13 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 (3) Any order under this section shall, so far as appears to the Minister to be practicable, give effect to the regulations in Annex I of the International Convention on Tonnage Measurement of Ships, 1969.
 
+[56/2004 wef 01/05/2005]
+
 ### Limit for passenger claims
 
 138\. In the case of a passenger ship within the meaning of Part V, the ship’s certificate mentioned in paragraph 1 of Article 7 of the Convention is the passenger ship’s certificate issued under or recognised by regulations made under section 100.
+
+[56/2004 wef 01/05/2005]
 
 ### Constitution and distribution of fund
 
@@ -2196,13 +2312,19 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 (3) No lien or other right in respect of any ship or property shall affect the proportions in which under Article 12 of the Convention the fund is distributed among several claimants.
 
+[56/2004 wef 01/05/2005]
+
 ### Bar to other actions
 
 140\. Where the release of a ship or other property is ordered under paragraph 2 of Article 13 of the Convention, the person on whose application it is ordered to be released is deemed to have submitted to the jurisdiction of the High Court to adjudicate on the claim for which the ship or property was arrested or attached.
 
+[56/2004 wef 01/05/2005]
+
 ### Meaning of “State Party”
 
 141\. The Minister may, by order published in theGazette, declare that any State specified in the order is, or was at a date specified in the order, a party to the Convention in respect of a particular country, and any such order shall be conclusive evidence that that State is, while the order remains in force, or was at that date, a party to the Convention in respect of that country.
+
+[56/2004 wef 01/05/2005]
 
 ### Units of Account
 
@@ -2212,13 +2334,19 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 (3) The Authority may charge such fee as it may determine for any certificate given by it under this section.
 
+[56/2004 wef 01/05/2005]
+
 ### Amendment of Schedule
 
 143\. The Minister may, by order published in theGazette, amend the Schedule in accordance with any revision to the Convention or to any protocol to the Convention which may apply to Singapore from time to time.
 
+[56/2004 wef 01/05/2005]
+
 ### Saving
 
 144\. Nothing in the Merchant Shipping (Amendment) Act 2004 shall apply in relation to any liability arising out of an occurrence which took place before the coming into operation of that Act, and the repealed Part VIII in force immediately before the coming into operation of that Act shall continue to apply to that occurrence as if that Act had not been enacted.
+
+[56/2004 wef 01/05/2005]
 
 ## PART IX
 
@@ -2402,7 +2530,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) wrongfully carry away or remove any part of a ship stranded or in danger of being stranded, or otherwise in distress on or near any coast or tidal water, or any part of the cargo or apparel thereof or any wreck.
 
-(4) Any person who acts in contravention of sub-section (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000, and such fine may be imposed in addition to any punishment to which he may be liable by law under this Act or otherwise.
+(4) Any person who acts in contravention of subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000, and such fine may be imposed in addition to any punishment to which he may be liable by law under this Act or otherwise.
 
 ### Summary procedure for concealment of wreck
 
@@ -2540,7 +2668,9 @@ LEGAL PROCEEDINGS
 
 ### Sums ordered to be paid leviable by distress on ship
 
-183\. Where any court has power to make an order directing payment to be made of any master’s or seaman’s wages, fines or other sums of money, then, if the party so directed to pay the same is the person employing the master or seaman, or the owner of a ship, and the same is not paid at the time and in the manner prescribed in the order, the court which made the order may, in addition to payment, direct the amount remaining unpaid to be levied by distress and sale of the ship and its equipment.
+183\. Where any court has power to make an order directing payment to be made of any crew member’s wages, fines or other sums of money, then, if the party so directed to pay the same is the person employing the crew member, or the owner of a ship, and the same is not paid at the time and in the manner prescribed in the order, the court which made the order may, in addition to payment, direct the amount remaining unpaid to be levied by distress and sale of the ship and its equipment.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 ### Depositions to be received in evidence when witness cannot be produced
 
@@ -2627,6 +2757,8 @@ LEGAL PROCEEDINGS
 ### Offences under this Act
 
 192\. No person shall be charged with any offence under this Act except on the complaint or with the consent of the Public Prosecutor, the Director, the Port Master, a Port Health Officer or a surveyor of ships.
+
+[15/2010 wef 02/01/2011]
 
 ### Forgery, etc., of documents and fraudulent use
 
@@ -2732,6 +2864,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 202\.—(1) If it appears that there was no reasonable or probable cause for the provisional detention of a ship under section 113, the Authority shall be liable to pay to the owner of the ship his costs of and incidental to the detention and survey of the ship, and also compensation for any loss or damage sustained by him by reason of the detention or survey.
 
+[7/96]
+
 (2) An action for any costs or compensation payable by the Authority under subsection (1) may be brought against the Director by his official title.
 
 [7/96]
@@ -2756,7 +2890,9 @@ the owner of the ship shall be liable to pay to the Authority its costs of and i
 
 203\.—(1) Where a complaint is made to the Director that a ship is an unsafe ship, the Director may, if he thinks fit, require the complainant to give security to his satisfaction for any costs and compensation which the Director may become liable to pay in consequence of the detention and survey of the ship.
 
-(2) Such security shall not be required where the complaint is made by 3 or more seamen belonging to the ship and is not in the opinion of the Director frivolous or vexatious, and if the complaint is made in sufficient time before the sailing of the ship, the Director shall take proper steps to ascertain whether the ship ought to be detained.
+(2) Such security shall not be required where the complaint is made by 3 or more crew members belonging to the ship and is not in the opinion of the Director frivolous or vexatious, and if the complaint is made in sufficient time before the sailing of the ship, the Director shall take proper steps to ascertain whether the ship ought to be detained.
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (3) Where a ship is detained in consequence of any complaint, and the circumstances are such that the Authority is liable under section 202 to pay to the owner of the ship any costs or compensation, the complainant shall be liable to pay the Authority all costs incurred and compensation paid by the Authority in respect of the detention and survey of the ship.
 
@@ -2780,7 +2916,9 @@ MISCELLANEOUS
 
 (c) require and enforce the production of any book, certificate or document relating to any ship or persons on board the ship;
 
-(d) muster the crew and passengers of any ship;
+(d) muster all persons on board any ship;
+
+[Act 6 of 2014 wef 01/04/2014]
 
 (e) summon any person before him and require him to answer questions; and
 
@@ -2850,6 +2988,8 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 213\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the fees to be paid in respect of the issue or recording of any certificate, licence or other instrument or the doing of any other thing in pursuance of this Act.
 
+[7/96]
+
 (2) All fees prescribed under this Act shall be paid to the Director.
 
 (3) All fees due to or which may be recovered by the Director under this Act shall, without prejudice to any other remedy, be recoverable as salvage is recoverable.
@@ -2866,8 +3006,6 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 (5) All moneys recovered or received under this Act shall be paid to the Authority except that the annual tonnage tax paid under section 14(2) shall be paid into the Consolidated Fund.
 
-[7/96]
-
 ### Documents to be in approved form
 
 214\. Every register, certificate, licence, book, instrument or other document prescribed by this Act shall be made in such form, if any, as may be approved by the Authority or as near thereto as circumstances permit.
@@ -2883,6 +3021,8 @@ or some other person having knowledge of the facts of the case, shall make a dec
 ### Regulations
 
 216\.—(1) The Authority may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act.
+
+[7/96]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations —
 
@@ -2906,9 +3046,7 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 217\.—(1) Every Singapore ship registered before 2nd February 1996 shall be deemed to be registered under Part II of this Act and the provisions of this Act shall apply to the ship and all matters relating thereto as they apply to a ship registered on or after that date.
 
-(2) Any document, endorsement, exemption or certificate prepared, made or granted under the repealed Merchant Shipping Act [Cap. 179,] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been prepared or granted under the corresponding provisions of this Act.
-
-[1985 Ed.]
+(2) Any document, endorsement, exemption or certificate prepared, made or granted under the repealed Merchant Shipping Act [Cap. 179, 1985 Ed.] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been prepared or granted under the corresponding provisions of this Act.
 
 (3) Any reference to the Surveyor-General of Ships or Superintendent of the Mercantile Marine Office in any written law shall be read as a reference to the Director.
 
@@ -2922,12 +3060,9 @@ Part I
 
 Text of Convention
 
-
-
-
 Chapter I
 
-Right of Limitation
+RIGHT OF LIMITATION
 
 Article 1
 
@@ -2969,7 +3104,7 @@ Claims subject to limitation
 
 Article 3
 
-Claims Excepted from Limitation
+Claims excepted from limitation
 
 The rules of this Convention shall not apply to:
 
@@ -2995,7 +3130,7 @@ claims by servants of the shipowner or salvor whose duties are connected with th
 
 Article 4
 
-Conduct Barring Limitation
+Conductbarringlimitation
 
 A person liable shall not be entitled to limit his liability if it is proved that the loss resulted from his personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result.
 
@@ -3007,7 +3142,7 @@ Where a person entitled to limitation of liability under the rules of this Conve
 
 Chapter II
 
-Limits of Liability
+LIMITS OF LIABILITY
 
 Article 6
 
@@ -3093,7 +3228,7 @@ Limitation of liability without constitution of a limitation fund
 
 Chapter III
 
-Limitation Fund
+LIMITATION FUND
 
 Article 11
 
@@ -3143,7 +3278,7 @@ Subject to the provisions of this Chapter, the rules relating to the constitutio
 
 Chapter IV
 
-Scope of Application
+SCOPE OF APPLICATION
 
 Article 15
 
@@ -3157,7 +3292,7 @@ Merchant Shipping Act
 
 (CHAPTER 179)
 
-This Legislative History is provided for the convenience of users of the Merchant Shipping Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Merchant Shipping Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3202,3 +3337,8 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|9.|**Act 6 of 2014—Merchant Shipping (Maritime Labour Convention) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 27/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 April 2014|
