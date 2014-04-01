@@ -194,7 +194,7 @@
 
 - [82 Duty free shops for tourists](#Duty-free-shops-for-tourists)
 
-[**Part XI composite LICENCE**](#Part-XI)
+[**Part XI COMPOSITE LICENCE**](#Part-XI)
 
 - [83 Grant of composite licence](#Grant-of-composite-licence)
 
@@ -378,7 +378,7 @@
 
 (CHAPTER 70)
 
-(Original Enactment: 1/79)
+(Original Enactment: 44/60)
 
 REVISED EDITION 2004
 
@@ -426,6 +426,8 @@ PRELIMINARY
 
 “bottling warehouse” means a warehouse licensed by the Director-General for the bottling, blending, compounding or varying of intoxicating liquor under section 66(1) or 83(4);
 
+[3/2008 wef 04/04/2008]
+
 “captain of an aircraft” means every person having or taking command or charge of an aircraft;
 
 “complete month” means the period from the first day of a month to the last day of the month, both days inclusive;
@@ -450,6 +452,8 @@ PRELIMINARY
 
 as certified by an analyst employed by such laboratory as the Director-General may specify;
 
+[3/2008 wef 04/04/2008]
+
 “denatured” means rendered unfit for human consumption to the satisfaction of the Director-General;
 
 “Director-General” means the Director-General of Customs appointed under section 4(1);
@@ -470,6 +474,8 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
 
+[Deleted by 3/2008 wef 04/04/2008]
+
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
 “import” means to bring or cause to be brought into the customs territory by any means from any place including a free trade zone; except that goods bona fide in transit, including goods which have been taken into any free trade zone from outside the customs territory or transhipped, shall not, for the purpose of the levy of customs duties or excise duties, be deemed to be imported unless they are or become uncustomed goods;
@@ -483,6 +489,8 @@ as certified by an analyst employed by such laboratory as the Director-General m
 (b) a mixture of alcohol and water containing more than 0.5 per cent alcohol by volume, which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include denatured spirit;
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
+
+[Deleted by 3/2008 wef 04/04/2008]
 
 “licensed warehouse” means a warehouse or other place licensed or deemed to be licensed under section 51(1), 63(1), or 83(4) (if the licence granted under section 83(4) covers an activity for which a licence under section 51(1), 63(1) or 66(1) is required);
 
@@ -563,8 +571,6 @@ as certified by an analyst employed by such laboratory as the Director-General m
 “uncustomed goods” means goods in respect of which a breach of the provisions of this Act has been committed.
 
 [S 270/71; 24/81; 23/93; 24/96; 29/98; 33/2000; 4/2001; 4/2003]
-
-[3/2008 wef 04/04/2008]
 
 (2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse, licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
 
@@ -1014,11 +1020,7 @@ to order the refund of the money so overpaid or erroneously paid.
 
 29\.—(1) The Director-General may, on an application made in accordance with the Schedule, make a ruling on any of the matters specified in the Schedule in accordance with the Schedule.
 
-[3/2008 wef 04/04/2008]
-
 (2) The Schedule shall apply to and in connection with an application under subsection (1) and any ruling made by the Director-General under that subsection.
-
-[3/2008 wef 04/04/2008]
 
 (3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the Schedule.
 
@@ -1107,6 +1109,8 @@ except under and in accordance with the conditions contained in a permit issued 
 (ii) the Director-General may, subject to any general or special directions of the Minister, determine,
 
 and which is in the possession or in the baggage of any person arriving in Singapore;
+
+[3/2008 wef 04/04/2008]
 
 (d) of motor fuel or petroleum for use in the propulsion of a motor vehicle or an aircraft which —
 
@@ -1410,6 +1414,8 @@ WAREHOUSING
 
 54\. A senior officer of customs may, at any time, direct that any goods or package lodged in any Government warehouse or licensed warehouse or customs office or customs station or in any other place approved by the Director-General in writing shall be opened, weighed or otherwise examined, and, after the goods or package has been so opened or examined, may cause the same to be sealed or marked in such manner as he thinks fit.
 
+[3/2008 wef 04/04/2008]
+
 ### Detention of goods where doubt exists
 
 55\.—(1) The proper officer of customs may detain in a Government warehouse or customs office or customs station or in any other place approved by the Director-General in writing any goods if he is in doubt whether the goods are dutiable or not.
@@ -1664,6 +1670,8 @@ DRAWBACK
 
 (a) the tobacco has been manufactured in a factory licensed under section 63(1) or under section 83(3) for manufacturing dutiable goods;
 
+[3/2008 wef 04/04/2008]
+
 (b) provision to the satisfaction of the Director-General has been made for the control and supervision in the factory of the deposit and issue for use of the tobacco on which duty has been paid;
 
 (c) such tobacco has been imported by the manufacturer or purchased by him before removal from customs control;
@@ -1756,7 +1764,7 @@ DUTY FREE SHOPS FOR TOURISTS
 
 ## PART XI
 
-composite LICENCE
+COMPOSITE LICENCE
 
 ### Grant of composite licence
 
@@ -2014,9 +2022,11 @@ except where it is necessary for the purposes of —
 
 [Act 25 of 2011 wef 01/01/2012]
 
-(ix) enabling a public agency to take steps to ensure public health or safety, or the security of Singapore, provided the approval of the Minister has been given for the publication, communication or disclosure for such purpose.
+(ix) enabling a public agency to take steps to protect individuals and communities from risks or threats to public health or safety, or to protect against risks or threats to the security of Singapore (including her financial and economic security), provided the approval of the Minister has been given for the publication, communication or disclosure for such purpose.
 
 [Act 25 of 2011 wef 01/01/2012]
+
+[Act 3 of 2014 wef 01/04/2014]
 
 (1A) The approval of the Minister referred to in subsection (1)(ix) may be given in respect of —
 
@@ -2042,9 +2052,11 @@ except where it is necessary for the purposes of —
 
 “Comptroller”, in relation to goods and services tax, has the same meaning as in the Goods and Services Tax Act;
 
-“public agency” means a public officer, an organ of state or a ministry or department of the Government, or a public authority established by or under any written law for a public purpose or a member, an officer or an employee, or any department, thereof.
+“public agency” means a public officer, an organ of state or a ministry or department of the Government, or a public authority established by or under any public Act for a public purpose or a member, an officer or an employee, or any department, thereof.
 
 [Act 25 of 2011 wef 01/01/2012]
+
+[Act 3 of 2014 wef 01/04/2014]
 
 ### Retention of trade documents
 
@@ -2282,7 +2294,7 @@ shall be deemed to be and always to have been validly collected, and no legal pr
 
 (d) where an objection under paragraph (c) has been received, the person declared to be the agent shall —
 
-(i) retain the amount of such moneys referred to in paragraph (a)(ii) until such time as the Director General by notice under paragraph (e) informs him of his decision on the objection; and
+(i) retain the amount of such moneys referred to in paragraph (a)(ii) until such time as the Director-General by notice under paragraph (e) informs him of his decision on the objection; and
 
 (ii) inform the Director-General of the objection within 7 days after the receipt of the objection;
 
@@ -2639,6 +2651,8 @@ shall, until the contrary is proved, be presumed to have had those dutiable, pro
 118\.—(1) A certificate purporting to be signed by an analyst employed by such laboratory as the Director-General may specify (referred to in this section as an analyst) and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
 
 [23/93; 24/96; 4/2001]
+
+[3/2008 wef 04/04/2008]
 
 (2) Where the accused person desires to examine an analyst on his report, he may require the court to summon that analyst to give evidence and the court shall thereupon summon that analyst as a witness for the prosecution.
 
@@ -3254,11 +3268,17 @@ REGULATIONS
 
 (k) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed warehouse or bottling warehouse may be open for business;
 
+[3/2008 wef 04/04/2008]
+
 (l) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed warehouses and bottling warehouses and the management and control of the same;
+
+[3/2008 wef 04/04/2008]
 
 (m) to prescribe the amount to be paid as warehouse rent on goods deposited in a Government warehouse;
 
 (n) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse or licensed warehouse;
+
+[3/2008 wef 04/04/2008]
 
 (o) to regulate the erection, inspection, supervision, management and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
 
@@ -3297,8 +3317,6 @@ REGULATIONS
 (2) All regulations and orders made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
 [23/93]
-
-[3/2008 wef 04/04/2008]
 
 ### References in written laws and documents
 
@@ -3522,7 +3540,7 @@ Customs Act
 
 (CHAPTER 70)
 
-This Legislative History is provided for the convenience of users of the Customs Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Customs Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3700,6 +3718,12 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2013|
 |||(section 14)|
+|38.|**Act 3 of 2014—Regulation of Imports and Exports (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 24/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 April 2014|
+|||(section 5 — consequential amendments to Customs Act)|
 ## COMPARATIVE TABLE
 
 Customs Act
@@ -3820,7 +3844,7 @@ Omitted
 
 Omitted
 
-134 to13 6 (Repealed by Act 4/2003)
+134 to136 (Repealed by Act 4/2003)
 
 136 
 
