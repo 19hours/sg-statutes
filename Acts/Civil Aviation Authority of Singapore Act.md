@@ -545,7 +545,9 @@ POWERS OF AUTHORITY
 
 (a) to regulate safety and promote safety and security in civil aviation and to exercise safety regulatory oversight over civil aviation operations in Singapore and the operation of Singapore aircraft outside Singapore;
 
-(b) to exercise licensing and regulatory functions in respect of the provision of air services, the operation of airports and the provision of airport services and facilities in Singapore;
+(b) to exercise licensing and regulatory functions in respect of the operation of airports and the provision of airport services and facilities in Singapore;
+
+[Act 10 of 2014 wef 01/04/2014]
 
 (c) to regulate and promote competition and fair and efficient market conduct in the operation of airports and the provision of airport services and facilities or, in the absence of a competitive market, to prevent the misuse or abuse of monopoly or market power;
 
@@ -556,6 +558,10 @@ POWERS OF AUTHORITY
 (f) to provide air navigation services within the Singapore Flight Information Region and such other area as the Minister may authorise;
 
 (g) to provide or co-ordinate search and rescue services to aircraft in distress within the Singapore Search and Rescue Region;
+
+(ga) to cooperate with the Air Accident Investigation Bureau of Singapore in relation to investigations under Part IIA of the Air Navigation Act (Cap. 6);
+
+[Act 10 of 2014 wef 01/04/2014]
 
 (h) to encourage, promote, facilitate and assist in the development and improvement of civil aviation capabilities, skills and services in Singapore;
 
@@ -1391,8 +1397,6 @@ Charges, accounts and records
 (f) any other terms as the Authority considers appropriate.
 
 (2) The Minister may make rules prescribing the content, form and procedure to be followed, and the methodology or other matters to be included in connection with the preparation, setting and approval of maximum prices for the purposes of subsection (1).
-
-[4/2010 wef 05/02/2010]
 
 (3) Any maximum price approved by the Authority immediately upon the commencement of Division 4 of Part IV in respect of any aeronautical charges at any airport shall be deemed to be maximum prices approved by the Authority under, and in accordance with rules made under, this section in respect of those aeronautical charges of the airport licensee for that airport.
 
@@ -2360,7 +2364,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-85\. (1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
+85\.—(1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
@@ -2830,11 +2834,43 @@ Powers of Authority
 
 2\. To provide or acquire or assume the operation, maintenance or management of any airport under this Act.
 
-3\. To conduct or supervise the conduct of examinations or tests leading to the grant of a licence, certificate, permit, permission, consent, concurrence or approval by the Authority under this Act or any other written law.
+3. To conduct or supervise the conduct of examinations or tests leading to the grant of a licence, certificate, permit, permission, consent, concurrence, aviation safety instrument or approval by the Authority under this Act or any other written law.
+
+[Act 10 of 2014 wef 01/04/2014]
+
+3A. To develop and issue appropriate, clear and concise aviation safety standards, codes, rules, requirements, specifications or other documents for the purpose of providing practical guidance or certainty to, or otherwise relating to —
+
+(a) the flight crew engaged in operations of aircraft;
+
+(b) the design, construction, maintenance, operation and use of aircraft and related equipment;
+
+(c) the planning, construction, establishment, operation and use of aerodromes;
+
+(d) the establishment and use of airspace;
+
+(e) the regulation of air navigation services;
+
+(f) the personnel engaged in the maintenance of aircraft and related equipment; or
+
+(g) any matter that is the subject of any order or regulations under the Air Navigation Act,
+
+and to develop effective enforcement strategies to secure compliance with those aviation safety standards, codes or specifications.
+
+[Act 10 of 2014 wef 01/04/2014]
+
+3B. To conduct regular reviews of the system of civil aviation safety in order to monitor the safety performance of the aviation industry, to identify safety-related trends and risk factors and to conduct regular and timely assessment of international safety developments.
+
+[Act 10 of 2014 wef 01/04/2014]
+
+3C. To conduct comprehensive safety education and training programmes and provide accurate and timely aviation safety advice.
+
+[Act 10 of 2014 wef 01/04/2014]
 
 4\. To provide information or issue notices relating to any matter in connection with the Authority’s functions and duties in such form or manner as the Authority may determine.
 
-5\. To impose such charges and fees as may in the Authority’s opinion be appropriate for the grant, validation or renewal of licences, permits, certificates, approvals, consents, concurrences, exemptions and other services provided by the Authority under this Act or any other written law, and to remit or waive the whole or any part of any such charges or fees paid or payable to the Authority.
+5. To impose such charges and fees as may in the Authority’s opinion be appropriate for the grant, validation or renewal of licences, permits, certificates, approvals, consents, concurrences, aviation safety instruments, exemptions and other services provided by the Authority under this Act or any other written law, and to remit or waive the whole or any part of any such charges or fees paid or payable to the Authority.
+
+[Act 10 of 2014 wef 01/04/2014]
 
 6\. To regulate rates, charges and fees levied by operators of airports in Singapore.
 
@@ -3024,7 +3060,7 @@ Statutory Corporations (Contributions to Consolidated Fund) Act
 
 (Chapter 319A, 2004 Ed.)
 
-The Schedule, item 7
+Schedule, item 7
 
 Delete the words “Civil Aviation Authority of Singapore Act (Chapter 41)” under the heading “Act under which established or constituted” and substitute the words “Civil Aviation Authority of Singapore Act 2009”.
 
