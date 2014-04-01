@@ -20,9 +20,9 @@
 
 [**Part III PUBLIC CLEANSING**](#Part-III)
 
-[**Cleaning of Streets**](#Cleaning-of-Streets)
+[**Cleaning of Streets, etc.**](#Cleaning-of-Streets-etc)
 
-- [5 Director-General to cause public streets to be cleansed](#Director-General-to-cause-public-streets-to-be-cleansed)
+- [5 Director-General to cause public streets, etc., to be cleansed](#Director-General-to-cause-public-streets-etc-to-be-cleansed)
 
 - [6 Duty of owner and occupier to keep clean private streets, etc., abutting on their premises](#Duty-of-owner-and-occupier-to-keep-clean-private-streets-etc-abutting-on-their-premises)
 
@@ -84,7 +84,7 @@
 
 - [26 Notice requiring periodic removal of industrial waste from premises](#Notice-requiring-periodic-removal-of-industrial-waste-from-premises)
 
-- [27 Furnishing of information on industrial waste](#Furnishing-of-information-on-industrial-waste)
+- [27 (Repealed)](#Repealed)
 
 - [28 Industrial waste brought to disposal facility to be recycled or treated](#Industrial-waste-brought-to-disposal-facility-to-be-recycled-or-treated)
 
@@ -92,7 +92,19 @@
 
 - [30 Excessive production of toxic industrial waste](#Excessive-production-of-toxic-industrial-waste)
 
+[**General**](#General)
+
+- [30A Furnishing of information and keeping, etc., of records on waste and submission of waste reduction plan](#Furnishing-of-information-and-keeping-etc-of-records-on-waste-and-submission-of-waste-reduction-plan)
+
 - [31 Licensing of persons carrying on business of collecting, removing, etc., of refuse or waste](#Licensing-of-persons-carrying-on-business-of-collecting-removing-etc-of-refuse-or-waste)
+
+- [31A Special administration order, etc., made on application by Agency](#Special-administration-order-etc-made-on-application-by-Agency)
+
+- [31B Meaning and effect of special administration orders](#Meaning-and-effect-of-special-administration-orders)
+
+- [31C Remuneration and expenses of Agency and others](#Remuneration-and-expenses-of-Agency-and-others)
+
+- [31D Restrictions on voluntary winding up, etc.](#Restrictions-on-voluntary-winding-up-etc)
 
 [**Part IV FOOD ESTABLISHMENTS, MARKETS AND HAWKERS**](#Part-IV)
 
@@ -115,6 +127,8 @@
 - [40 Articles of food unfit for human consumption](#Articles-of-food-unfit-for-human-consumption)
 
 - [41 Cleanliness of vehicles, equipment, etc.](#Cleanliness-of-vehicles-equipment-etc)
+
+- [41A Penalties for offences under this Part](#Penalties-for-offences-under-this-Part)
 
 - [42 Notice to attend Court](#Notice-to-attend-Court)
 
@@ -210,6 +224,36 @@
 
 - [80 Regulations on standard of quality, etc., of water supplied](#Regulations-on-standard-of-quality-etc-of-water-supplied)
 
+- [80A Penalty for offence under this Part](#Penalty-for-offence-under-this-Part)
+
+[**Part IXA GENERAL CLEANING INDUSTRY**](#Part-IXA)
+
+- [80B Purpose of this Part](#Purpose-of-this-Part)
+
+- [80C Non-application of sections 99 and 103](#Non-application-of-sections-99-and-103)
+
+- [80D Carrying on cleaning business without cleaning business licence prohibited](#Carrying-on-cleaning-business-without-cleaning-business-licence-prohibited)
+
+- [80E Offence to engage unlicensed persons](#Offence-to-engage-unlicensed-persons)
+
+- [80F Application for cleaning business licence](#Application-for-cleaning-business-licence)
+
+- [80G Grant or refusal of cleaning business licence](#Grant-or-refusal-of-cleaning-business-licence)
+
+- [80H Conditions of cleaning business licence](#Conditions-of-cleaning-business-licence)
+
+- [80I Form and validity of cleaning business licence](#Form-and-validity-of-cleaning-business-licence)
+
+- [80J Revocation and suspension of cleaning business licence](#Revocation-and-suspension-of-cleaning-business-licence)
+
+- [80K Financial penalty](#Financial-penalty)
+
+- [80L Changes to information submitted](#Changes-to-information-submitted)
+
+- [80M Monitoring powers](#Monitoring-powers)
+
+- [80N Register of licensees](#Register-of-licensees)
+
 [**Part X ENFORCEMENT**](#Part-X)
 
 - [81 Power to enter upon lands for purposes of Act](#Power-to-enter-upon-lands-for-purposes-of-Act)
@@ -227,6 +271,8 @@
 - [87 Power of investigating offences under sections 20 and 23](#Power-of-investigating-offences-under-sections-20-and-23)
 
 - [88 Powers of arrest](#Powers-of-arrest)
+
+- [88A False or misleading information](#False-or-misleading-information)
 
 [**Part XI COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-XI)
 
@@ -262,6 +308,8 @@
 
 - [103 General penalties](#General-penalties)
 
+- [103A Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+
 - [104 Composition of offences](#Composition-of-offences)
 
 - [105 Inaccuracies in documents](#Inaccuracies-in-documents)
@@ -280,13 +328,13 @@
 
 - [112 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE Description of Purposes for Use of Food Establishments to Which Section 32 Applies**](#FIRST-SCHEDULE-Description-of-Purposes-for-Use-of-Food-Establishments-to-Which-Section-32-Applies)
+[**FIRST SCHEDULE Description of purposes for use of Food Establishments to which section 32 applies**](#FIRST-SCHEDULE-Description-of-purposes-for-use-of-Food-Establishments-to-which-section-32-applies)
 
-[**SECOND SCHEDULE Infectious Diseases**](#SECOND-SCHEDULE-Infectious-Diseases)
+[**SECOND SCHEDULE Infectious diseases**](#SECOND-SCHEDULE-Infectious-diseases)
 
-[**THIRD SCHEDULE Subject Matters of Regulations**](#THIRD-SCHEDULE-Subject-Matters-of-Regulations)
+[**THIRD SCHEDULE Subject matters of regulations**](#THIRD-SCHEDULE-Subject-matters-of-regulations)
 
-[**FOURTH SCHEDULE Private Persons Who Can be Authorised to Exercise Powers under the Act or Regulations and Powers in Respect of Which Persons May Act**](#FOURTH-SCHEDULE-Private-Persons-Who-Can-be-Authorised-to-Exercise-Powers-under-the-Act-or-Regulations-and-Powers-in-Respect-of-Which-Persons-May-Act)
+[**FOURTH SCHEDULE Private persons who can be authorised to exercise powers under the Act or Regulations and powers in respect of which persons may act**](#FOURTH-SCHEDULE-Private-persons-who-can-be-authorised-to-exercise-powers-under-the-Act-or-Regulations-and-powers-in-respect-of-which-persons-may-act)
 
 [**Legislative History**](#Legislative-History)
 
@@ -322,7 +370,55 @@ PRELIMINARY
 
 “authorised officer” means any person appointed by the Director-General under sections 3(2) and 4(2) to be an authorised officer;
 
+“basic rate of pay” means the total amount of money (including wage adjustments and increments) to which an employee is entitled under his contract of service for working for one month, but does not include —
+
+(a) additional payments by way of overtime payments;
+
+(b) additional payments by way of bonus payments or annual wage supplements;
+
+(c) any sum paid to the employee to reimburse him for special expenses incurred by him in the course of his employment;
+
+(d) productivity incentive payments; and
+
+(e) any allowance however described;
+
+[Act 15 of 2014 wef 01/04/2014]
+
+“basic wage” means wage calculated at the basic rate of pay for one month;
+
+[Act 15 of 2014 wef 01/04/2014]
+
 “building” includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise, and any structure, support or foundation connected to the foregoing;
+
+“cleaner” means an individual who is engaged, whether as a full-time employee, part-time employee or casual employee and whether or not at piece rates —
+
+(a) to perform cleaning work for a person other than his employer; or
+
+(b) to supervise other individuals performing cleaning work for a person other than his employer, whether or not the individual is known as a supervisor or leader or by any other title,
+
+and includes any individual who is declared by the Minister, by notification in theGazette, to be a cleaner;
+
+[Act 15 of 2014 wef 01/04/2014]
+
+“cleaning business” means a business, whether or not the business is carried on for profit, in which a person provides cleaning work to other persons through the services of cleaners engaged or employed by that person;
+
+[Act 15 of 2014 wef 01/04/2014]
+
+“cleaning business licence” means a licence granted under section 80G(1);
+
+[Act 15 of 2014 wef 01/04/2014]
+
+“cleaning contract”, in relation to a person, means a contract for the provision of cleaning work to other persons by cleaners who are engaged or employed by the person;
+
+[Act 15 of 2014 wef 01/04/2014]
+
+“cleaning work” means work carried out in Singapore that has, as its main or only component, the bringing of premises or any public place into, or keeping of premises or any public place in, a clean condition, and includes supervising the carrying out of such work but excludes any work that the Minister declares, by notification in theGazette, not to be cleaning work;
+
+[Act 15 of 2014 wef 01/04/2014]
+
+“Commissioner for Labour” means the Commissioner for Labour appointed under section 3(1) of the Employment Act (Cap. 91);
+
+[Act 15 of 2014 wef 01/04/2014]
 
 “construction site” means any premises on which works of the following description are being or are going to be carried out:
 
@@ -341,6 +437,8 @@ PRELIMINARY
 (b) any explosive within the meaning of the Arms and Explosives Act (Cap. 13);
 
 (c) any radioactive material within the meaning of the Radiation Protection Act 2007;
+
+[Act 27/2007 wef 01/07/2007]
 
 (d) any substance which owing to its nature, composition or quantity constitutes a danger to property or human life or health; and
 
@@ -400,7 +498,11 @@ PRELIMINARY
 
 (c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
 
+[Act 47/2004 wef 01/04/2005]
+
 (d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+
+[Act 47/2004 wef 01/04/2005]
 
 “place of public resort” means a building or a defined or an enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
 
@@ -412,6 +514,10 @@ PRELIMINARY
 
 “public market” means a market owned, leased or maintained by the Government;
 
+“public park” has the same meaning as in section 2 of the Parks and Trees Act (Cap. 216);
+
+[Act 15 of 2014 wef 01/04/2014]
+
 “public place” includes any place whether privately owned or not to which the public has access;
 
 “public service vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
@@ -422,6 +528,8 @@ PRELIMINARY
 
 “recyclable” means such refuse, waste or other material or thing as may be prescribed by the Agency, with the approval of the Minister, to be capable of being recycled or reused;
 
+[Act 26/2008 wef 01/11/2008]
+
 “recycling facility” means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
 
 “sale” includes barter, exchange, import and export and also includes offering or attempting to sell, or causing or allowing to be sold, or exposing for sale, or receiving or sending or delivering for sale, or supplying any food, drink or goods where consideration is to be received by the supplier for such supply either specifically or as part of a service contracted for, or having in possession for sale or having in possession any food, drink or goods knowing that the same is likely to be sold or offered or exposed for sale and “sell” shall be construed accordingly;
@@ -429,6 +537,10 @@ PRELIMINARY
 “sanitary conveniences” includes latrines, toilets, urinals and water-closets;
 
 “showboard” includes showcase and any description of container used for the display of any article or thing;
+
+“specified amount” means the amount that is specified in an order made by the Commissioner for Labour under section 80H(2);
+
+[Act 15 of 2014 wef 01/04/2014]
 
 “stable refuse” means the dung or urine of birds, poultry or animals and the sweepings or refuse or drainage from any stables or cattle-sheds or places for keeping animals, birds or poultry;
 
@@ -460,15 +572,13 @@ and anything which is discarded or otherwise dealt with as if it were waste shal
 
 “waste disposal licensee” means any person who is licensed under section 23 to construct, establish, maintain or operate any disposal facility;
 
+“waterway” means a navigable river, conduit or drain;
+
+[Act 15 of 2014 wef 01/04/2014]
+
 “work place” means any premises or place used for any industrial, trade, commercial or manufacturing purposes and includes all construction sites, work sites and farms.
 
 [2/96; 22/99; 4/2002]
-
-[47/2004 wef 01/04/2005]
-
-[27/2007 wef 01/07/2007]
-
-[26/2008 wef 01/11/2008]
 
 ## PART II
 
@@ -498,13 +608,17 @@ ADMINISTRATION
 
 PUBLIC CLEANSING
 
-Cleaning of Streets
+Cleaning of Streets, etc.
 
-### Director-General to cause public streets to be cleansed
+### Director-General to cause public streets, etc., to be cleansed
 
-5\. The Director-General shall cause public streets, including the footways thereof, to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
+5\.—(1) The Director-General shall cause public streets, including the footways thereof, and public parks, beaches, foreshores, canals, waterways and unoccupied State land, to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
 
-[4/2002]
+[Act 15 of 2014 wef 01/04/2014]
+
+(2) Nothing in subsection (1) shall derogate from the effect of any other written law.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ### Duty of owner and occupier to keep clean private streets, etc., abutting on their premises
 
@@ -664,6 +778,30 @@ Offences in respect of Uncleanliness in Public Places
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
+(4) Where the driver or a passenger of a motor vehicle is alleged or suspected to be guilty of an offence under this section —
+
+(a) the owner of the motor vehicle shall give such information as he may be required to give by a police officer or an authorised officer as to the identity and address of the person who, at or about the time of the alleged offence, was the driver or a passenger of the motor vehicle; and
+
+(b) any other person who was or should have been in charge or in control of the motor vehicle at or about the time of the alleged offence shall, if so required, give any information which it is in his power to give and which may lead to the identification of the driver and passengers.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(5) Where an offence under this section is alleged or suspected to be in connection with throwing, dropping or scattering of refuse or any other matter or thing from a flat used for residential purpose (including a flat which is leased for residential purpose) —
+
+(a) any owner of that flat shall give such information as he may be required to give by a police officer or an authorised officer as to the identity of every person who, at or about the time of the alleged offence, was an occupier of that flat; and
+
+(b) any occupier of that flat at or about the time of the alleged offence, or any owner of that flat in the case where that flat was unoccupied at or about that time, shall, if so required, give any information which it is in his power to give and which may lead to the identification of the alleged offender.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(6) Any person who, without reasonable excuse, fails to comply with subsection (4) or (5) within 14 days after the date on which the information was required from him shall be guilty of an offence.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(7) A person is not excused from giving any information required of him by subsection (4) or (5) on the ground that the disclosure of the information might tend to incriminate the person.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 ### Building works constituting danger to life, health, etc.
 
 18\. Any person who, during the erection, alteration, construction or demolition of any building or at any time, fails to take reasonable precautions to prevent danger to the life, health or well-being of persons using any public place from flying dust or falling fragments or from any other material, thing or substance shall be guilty of an offence.
@@ -690,15 +828,23 @@ in any public place (whether from a moving or stationary vehicle or in any other
 
 (b) where the driver of a motor vehicle is alleged or is suspected to be guilty of the offence under this section —
 
-(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer or an authorised officer as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer or authorised officer may require; and
+(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer or an authorised officer as to the identity and address of the person who, at or about the time of the alleged offence, was the driver of the motor vehicle and such other information as the police officer or authorised officer may require; and
 
-(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver.
+[Act 15 of 2014 wef 01/04/2014]
+
+(ii) any other person who was or should have been in charge or in control of the motor vehicle at or about the time of the alleged offence shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver.
 
 [22/99; 4/2002]
 
-(4) Any person who fails to comply with subsection (3)(b)(i) or (ii) within 14 days of the date on which the information was required from him shall be guilty of an offence unless he proves to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required.
+[Act 15 of 2014 wef 01/04/2014]
 
-[22/99]
+(4) Any person who, without reasonable excuse, fails to comply with subsection (3)(b) within 14 days after the date on which the information was required from him shall be guilty of an offence.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(5) A person is not excused from giving any information required of him by subsection (3)(b) on the ground that the disclosure of the information might tend to incriminate the person.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ### Prohibition against dumping and disposing
 
@@ -711,6 +857,22 @@ in any public place (whether from a moving or stationary vehicle or in any other
 shall be guilty of an offence.
 
 [22/99]
+
+(1A) Where the driver or a passenger of a motor vehicle is alleged or suspected to be guilty of an offence under this section —
+
+(a) the owner of the motor vehicle shall give such information as he may be required to give by a police officer or an authorised officer as to the identity and address of the person who, at or about the time of the alleged offence, was the driver or a passenger of the motor vehicle; and
+
+(b) any other person who was or should have been in charge or in control of the motor vehicle at or about the time of the alleged offence shall, if so required, give any information which it is in his power to give and which may lead to the identification of the driver and passengers.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(1B) Any person who, without reasonable excuse, fails to comply with subsection (1A) within 14 days after the date on which the information was required from him shall be guilty of an offence.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(1C) A person is not excused from giving any information required of him by subsection (1A) on the ground that the disclosure of the information might tend to incriminate the person.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 (2) Any vehicle used in dumping or disposing of refuse, waste or any other article in any public place (other than a disposal facility established with a licence granted by the Director-General under section 23(1) or a public disposal facility) may be seized by any police officer, or any authorised officer, and removed to and detained in any police station or Government depot or other place as may be approved by the Director-General at the risk of the owner for the purposes of proceedings under this Act.
 
@@ -758,13 +920,19 @@ shall be guilty of an offence.
 
 (c) in the case of any other offence, to a fine not exceeding —
 
-(i) in the case of a first conviction, $1,000;
+(i) in the case of a first conviction, $2,000;
 
-(ii) in the case of a second conviction, $2,000; and
+[Act 15 of 2014 wef 01/04/2014]
 
-(iii) in the case of a third or subsequent conviction, $5,000.
+(ii) in the case of a second conviction, $4,000; and
+
+[Act 15 of 2014 wef 01/04/2014]
+
+(iii) in the case of a third or subsequent conviction, $10,000.
 
 [22/99; 4/2002]
+
+[Act 15 of 2014 wef 01/04/2014]
 
 (2) Notwithstanding subsection (1) or any other written law, any police officer or authorised officer who, having effected an arrest in accordance with this section, is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking that person before a Court or to a police station, serve upon that person a notice in such form as may be prescribed under section 108 requiring the person to attend at the Court described at the hour and on the date specified in the notice.
 
@@ -807,6 +975,8 @@ shall be guilty of an offence.
 (3) Notwithstanding section 307(1) of the Criminal Procedure Code 2010, where a Court makes corrective work orders in respect of 2 or more offences of which the offender has been convicted by or before the Court, the Court may direct that the hours of work specified in any of those orders shall be concurrent with or additional to the hours specified in any other of those orders, but so that the total number of hours which are not concurrent shall not exceed the maximum specified in subsection (2).
 
 [32/92]
+
+[Act 15/2010 wef 02/01/2011]
 
 (4) In making a corrective work order, the Court shall consider the physical and mental condition of the offender and his suitability for carrying out the requirements of such order.
 
@@ -988,11 +1158,7 @@ Disposal and Treatment of Industrial Waste
 
 [4/2002]
 
-### Furnishing of information on industrial waste
-
-27\. The Director-General may, by notice in writing from time to time, require the owner or occupier of any work place to furnish him with any information on the amount, type and nature of any industrial waste produced in such place and such other particulars as may be specified in the notice.
-
-[4/2002]
+27\. [Repealed by Act 15 of 2014 wef 01/04/2014]
 
 ### Industrial waste brought to disposal facility to be recycled or treated
 
@@ -1036,6 +1202,22 @@ Disposal and Treatment of Industrial Waste
 
 [4/2002]
 
+General
+
+### Furnishing of information and keeping, etc., of records on waste and submission of waste reduction plan
+
+30A\.—(1) The Director-General may, by notice in writing from time to time, require any owner, occupier or lessee of a work place to do all or any of the following:
+
+(a) to furnish the Director-General with any information on the amount, type and nature of any waste produced in that work place and such other particulars as may be specified in the notice;
+
+(b) to keep and maintain records containing such information on any waste produced in that work place as may be specified in the notice and retain those records for such period as may be specified in the notice;
+
+(c) to submit to the Director-General any waste reduction plan for such period and containing information on the targets for waste reduction, measures to reduce waste and the progress of any waste reduction measure contained in any waste reduction plan previously submitted to the Director‑General, and such other particulars relating to waste reduction, as may be specified in the notice.
+
+(2) Any person who fails to comply with any notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 ### Licensing of persons carrying on business of collecting, removing, etc., of refuse or waste
 
 31\.—(1) No person shall carry on the business of collecting, removing, transporting, storing or importing refuse or waste of any description without a waste collector licence granted by the Director-General under this section.
@@ -1077,6 +1259,84 @@ Disposal and Treatment of Industrial Waste
 (8) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [2/96]
+
+### Special administration order, etc., made on application by Agency
+
+31A\.—(1) If, on an application made to the Minister by the Agency, the Minister is satisfied, in relation to any public waste collector licensee, that any one or more of the grounds specified in subsection (2) is satisfied, the Minister may make any one or more of the following orders:
+
+(a) a special administration order in relation to that public waste collector licensee;
+
+(b) an order requiring the public waste collector licensee immediately to take action or to do or not to do any act or thing in relation to that part of its business or undertaking to which its licence relates as the Minister may consider necessary;
+
+(c) an order appointing a person to advise the public waste collector licensee on the proper conduct of that part of its business or undertaking to which its licence relates.
+
+(2) The grounds referred to in subsection (1) are —
+
+(a) there has been, is or is likely to be, a contravention by the public waste collector licensee of the conditions of its licence that is serious enough to make it inappropriate for the public waste collector licensee to continue to be designated a public waste collector licensee;
+
+(b) the public waste collector licensee is or is likely to be unable to pay its debts;
+
+(c) a public emergency has occurred;
+
+(d) the Minister considers it in the interest of the security and reliability of waste collection and removal services to the public; or
+
+(e) the Minister otherwise considers it in the public interest.
+
+(3) Notice of any application under subsection (1) shall be given immediately by the Agency to such persons and in such manner as may be determined by the Agency.
+
+(4) Any order made by the Minister under subsection (1) must be published in such manner as will secure adequate publicity.
+
+(5) Any decision of the Minister under subsection (1) shall be final.
+
+(6) For the purposes of this section, in the case of a public waste collector licensee which is a company, the public waste collector licensee is unable to pay its debts if it is deemed to be unable to pay its debts under section 254(2) of the Companies Act (Cap. 50).
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Meaning and effect of special administration orders
+
+31B\.—(1) A special administration order is an order of the Minister made in accordance with section 31A directing that, during the period for which the order is in force, the affairs, business and property of the public waste collector licensee shall be managed directly or indirectly by the Agency —
+
+(a) for securing one or more of the purposes of such an order set out in subsection (2); and
+
+(b) in a manner which protects the respective interests of the members, creditors and customers of that public waste collector licensee.
+
+(2) The purposes referred to in subsection (1)(a) are —
+
+(a) the security and reliability of the supply of waste collection and removal services in any specified area to the public;
+
+(b) the survival of the public waste collector licensee, or the whole or part of its business for which it is authorised by its licence to carry on, as a going concern;
+
+(c) the transfer to another person, or (as respects different parts of its undertaking) to 2 or more different persons, as a going concern, of so much of the public waste collector licensee’s undertaking as it is necessary to transfer in order to ensure that the functions which have been vested in the public waste collector licensee by virtue of its licence may be properly carried out; or
+
+(d) the carrying out of those functions and duties which have been vested in the public waste collector licensee pending the making of the transfer and the vesting of those functions and duties in other person or persons.
+
+(3) The Minister may, by rules published in theGazette, give effect to this section and section 31A, including making provision for applying, omitting or modifying provisions of Part VIIIA of the Companies Act where a special administration order is made.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Remuneration and expenses of Agency and others
+
+31C\.—(1) Where a special administration order has been made under section 31A(1)(a), the Agency may, at any time, whether or not the order is still in force, fix the remuneration and expenses to be paid by the public waste collector licensee to the Agency.
+
+(2) The Agency may, at any time, fix the remuneration and expenses to be paid by a public waste collector licensee to any person appointed by the Minister under section 31A(1)(c), whether or not the appointment of the person has terminated.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Restrictions on voluntary winding up, etc.
+
+31D\.—(1) Notwithstanding the provisions of any other written law —
+
+(a) a public waste collector licensee shall not be wound up voluntarily without the consent of the Agency;
+
+(b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to a public waste collector licensee;
+
+(c) no step shall be taken by any person to enforce any security over a public waste collector licensee’s property, except where that person has served on the Agency 14 days’ notice of the person’s intention to take that step; and
+
+(d) no step shall be taken by any person to execute or enforce a judgment or an order of court obtained against a public waste collector licensee, except where that person has served on the Agency 14 days’ notice of the person’s intention to take that step.
+
+(2) The Agency shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a public waste collector licensee.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ## PART IV
 
@@ -1242,11 +1502,37 @@ in any street or part thereof or in any premises or public place without first o
 
 [4/2002]
 
+### Penalties for offences under this Part
+
+41A\.—(1) Any person who contravenes section 32(1), 33, 34(1), 35, 36, 37(5), 38(1), 39(1) or (2), 40(1) or (9) or 41(1) shall be guilty of an offence and —
+
+(a) in the case of any contravention of section 33, 34(1), 37(5), 39(2) or 41(1) —
+
+(i) the person shall be liable on conviction to a fine not exceeding $5,000; and
+
+(ii) where the person is a repeat offender, the person shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and
+
+(b) in the case of any contravention of section 32(1), 35, 36, 38(1), 39(1) or 40(1) or (9) —
+
+(i) the person shall be liable on conviction to a fine not exceeding $10,000; and
+
+(ii) where the person is a repeat offender, the person shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(2) For the purposes of subsection (1), a person is a repeat offender in relation to an offence under subsection (1) if the person who is convicted, or found guilty, of an offence under that subsection (referred to as the current offence) for contravening section 32(1), 33, 34(1), 35, 36, 37(5), 38(1), 39(1) or (2), 40(1) or (9) or 41(1) —
+
+(a) has been convicted or found guilty on at least one other earlier occasion of an offence under that subsection for contravening the same provision as the current offence; or
+
+(b) has (whether before, on or after the date of commencement of section 12 of the Environmental Public Health (Amendment) Act 2014) been convicted or found guilty on at least one other earlier occasion of an offence under section 42(1) in force immediately before that date for contravening the same provision as the current offence.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 ### Notice to attend Court
 
-42\.—(1) Any person who contravenes any of the provisions of this Part shall be guilty of an offence and may be arrested without warrant by any police officer or authorised officer and taken before a Magistrate’s Court and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 3 months or to both.
+42\.—(1) Any person who contravenes any of the provisions of this Part may be arrested without warrant by any police officer or authorised officer and taken before a Magistrate’s Court.
 
 [4/2002]
+
+[Act 15 of 2014 wef 01/04/2014]
 
 (2) Notwithstanding subsection (1) or any other written law for the time being in force, any police officer or authorised officer, who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking him before a Magistrate’s Court or to a police station serve upon that person a notice in such form as may be prescribed under section 108 requiring him to attend at the Court described at the hour and on the date specified in the notice.
 
@@ -1284,7 +1570,9 @@ in any street or part thereof or in any premises or public place without first o
 
 (13) Every seizure shall, except when the articles, goods or money have been returned to the owner, be reported to a Magistrate’s Court.
 
-(14) The Magistrate’s Court shall, on convicting any person of an offence under subsection (1) or on receiving a report in respect of any abandoned articles which were apparently being used in connection with the sale of food or goods, order the property seized under subsection (8) to be forfeited and to be disposed of in such manner as the Court may think fit.
+(14) The Magistrate’s Court shall, on convicting any person of an offence under section 41A(1) or on receiving a report in respect of any abandoned articles which were apparently being used in connection with the sale of food or goods, order the property seized under subsection (8) to be forfeited and to be disposed of in such manner as the Court may think fit.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 (15) The Magistrate’s Court may, on receiving a report in respect of any abandoned articles which were not apparently being used in connection with the sale of food or goods, order the property seized under subsection (8) to be forfeited and to be disposed of in such manner as the Court may think fit.
 
@@ -1292,11 +1580,15 @@ in any street or part thereof or in any premises or public place without first o
 
 [4/2002]
 
-(17) The Magistrate’s Court may, on convicting any person for an offence under subsection (1), order any money seized under subsection (9) to be returned to him if he satisfies the Court that he is the owner thereof.
+(17) The Magistrate’s Court may, on convicting any person for an offence under section 41A(1), order any money seized under subsection (9) to be returned to him if he satisfies the Court that he is the owner thereof.
 
-(18) The Magistrate’s Court shall, on convicting any person for an offence under subsection (1) and such person does not satisfy the Court that he is the owner of any money seized under subsection (9) or, on receiving a report in respect of any abandoned money, order such money to be forfeited and paid to the Agency.
+[Act 15 of 2014 wef 01/04/2014]
+
+(18) The Magistrate’s Court shall, on convicting any person for an offence under section 41A(1) and such person does not satisfy the Court that he is the owner of any money seized under subsection (9) or, on receiving a report in respect of any abandoned money, order such money to be forfeited and paid to the Agency.
 
 [4/2002]
+
+[Act 15 of 2014 wef 01/04/2014]
 
 (19) This section shall apply, with the necessary modifications, to any person who contravenes any regulations made under this Act for the control of matters under this Part.
 
@@ -1634,6 +1926,10 @@ General Health Requirements for Buildings
 
 [22/99]
 
+(2A) Notwithstanding subsection (2), where a construction site has more than one occupier, the Director-General may, by notice in writing, require the developer of that construction site to employ a competent person to act as an Environmental Control Officer in that construction site, and the developer shall ensure that an Environmental Control Officer is so employed until the completion of the works in that construction site.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 (3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Protection and Management Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294), and any regulations made thereunder.
 
 [22/99]
@@ -1808,6 +2104,336 @@ CONTROL OF PURITY OF WATER SUPPLIES
 
 [4/2002]
 
+### Penalty for offence under this Part
+
+80A\. Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+## PART IXA
+
+GENERAL CLEANING INDUSTRY
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Purpose of this Part
+
+80B\. The purpose of this Part is to regulate and upgrade cleaning standards and productivity in the cleaning industry in Singapore by licensing cleaning businesses with requirements for the training of cleaners and the payment of progressive wages to cleaners that ensure a more engaged cleaning workforce and the retention of a core of resident cleaners.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Non-application of sections 99 and 103
+
+80C\.—(1) Section 99 shall not apply to or in relation to any cleaning business licence.
+
+(2) Section 103 shall not apply to the contravention of any provision of this Part.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Carrying on cleaning business without cleaning business licence prohibited
+
+80D\.—(1) No person shall carry on a cleaning business in Singapore, except under and in accordance with a cleaning business licence that is in force.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) In this section, a person is presumed, until the contrary is proved, to be carrying on a cleaning business if the person, directly or indirectly, charges or receives any fee or reward for providing cleaning work to other persons, or undertakes for a fee or reward to provide cleaning work to other persons, as follows:
+
+(a) by contract of service, the person employs 2 or more individuals as cleaners to perform the cleaning work;
+
+(b) the person, having —
+
+(i) to achieve a stated result or outcome; and
+
+(ii) to supply all or substantially all of the plant or equipment or the tools of trade needed to perform the cleaning work,
+
+by contract (whether or not a contract of service) engages 2 or more individuals to perform the cleaning work; or
+
+(c) being a principal contractor, the person engages by contract (other than a contract of service) any person referred to in paragraph (a) or (b) to provide cleaning work to other persons.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Offence to engage unlicensed persons
+
+80E\.—(1) Where —
+
+(a) a person (referred to in this section as A) enters into or renews any contract (other than a contract of service) with another person (referred to in this section as B) for cleaning work to be performed by cleaners engaged or employed by B on premises or any public place owned, occupied or managed by A; and
+
+(b) B does not hold a valid cleaning business licence as required by section 80D,
+
+then, whether or not any criminal proceedings are instituted against B, A shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) In any proceedings for an offence under subsection (1), it shall be a defence for A to prove, on a balance of probabilities, that he did not know and could not reasonably have been expected to know that B did not hold a valid cleaning business licence as required by section 80D.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Application for cleaning business licence
+
+80F\.—(1) Every application for a cleaning business licence shall —
+
+(a) be made to the Director-General in such form and manner as the Director-General may require; and
+
+(b) be accompanied by —
+
+(i) the prescribed application fee (if any);
+
+(ii) a progressive wage plan in respect of the applicant’s cleaning business that is in conformity with section 80G(5); and
+
+(iii) such other particulars, information and documents as the Director-General may require.
+
+(2) The applicant shall, at the request of the Director-General, provide any further information or evidence that the Director-General may require to decide the application.
+
+(3) Any person who, in relation to any application for the grant or renewal of a cleaning business licence, submits a false document or makes a statement which is false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Grant or refusal of cleaning business licence
+
+80G\.—(1) The Director-General may grant or refuse to grant a cleaning business licence in accordance with this Part, and in every case he must notify the applicant in writing of his decision.
+
+(2) There shall be charged for the grant of any cleaning business licence such fee, if any, as may be prescribed.
+
+(3) No applicant for, or holder of, a cleaning business licence shall be entitled to any refund of any fee paid in respect of any application for or grant of a cleaning business licence.
+
+(4) Subject to the provisions of this Part, an applicant shall be eligible for a cleaning business licence if —
+
+(a) the applicant is a company registered under the Companies Act, a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A), a sole proprietorship or firm registered under the Business Registration Act (Cap. 32), a society registered under the Societies Act (Cap. 311) or an entity having such business or corporate structure as may be prescribed;
+
+(b) the applicant satisfies the Director-General that —
+
+(i) the applicant has, during the prescribed period before the date of the applicant’s application, performed or started performing no fewer than the prescribed minimum number of cleaning contracts; or
+
+(ii) in the case where the applicant does not satisfy the requirement in sub-paragraph (i) in relation to the cleaning contracts, the applicant has at least one officer or employee who has not less than the prescribed minimum number of years of practical experience in supervising cleaning work or who has been conferred such qualification or certificate relating to cleaning work as may be prescribed;
+
+(c) the progressive wage plan in respect of its cleaning business submitted by the applicant is in conformity with subsection (5);
+
+(d) in the case of an applicant who has one or more cleaners in the applicant’s employ at the time of the application, the applicant satisfies the Director-General that the prescribed proportion of the cleaners the applicant employs have attended the prescribed training and at the prescribed frequency; and
+
+(e) the applicant satisfies such other requirements as may be prescribed.
+
+(5) Every progressive wage plan in respect of a cleaning business of a licensee or an applicant for a cleaning business licence must —
+
+(a) relate to every citizen or permanent resident of Singapore the licensee or applicant employs or proposes to employ as a cleaner in its cleaning business;
+
+(b) specify the basic wage payable to every cleaner in paragraph (a) that is on an increasing scale depending on seniority, responsibilities, cleaning work experience and training received; and
+
+(c) specify an amount as the basic wage for each class of cleaners in paragraph (a) that is not less than the amount specified under section 80H(2) for that class.
+
+(6) The Director-General may, if he thinks fit, in any particular case waive any (but not all) of the requirements of subsection (4).
+
+(7) Any person who is aggrieved by the decision of the Director-General refusing to grant the person a cleaning business licence may, within 14 days after the person is notified of that decision, appeal to the Minister whose decision shall be final.
+
+(8) In subsection (4)(b)(ii), “officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate;
+
+(b) in relation to a partnership, means any partner;
+
+(c) in relation to a sole proprietorship, means the sole proprietor; or
+
+(d) in relation to a society, means any member of the committee of the society.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Conditions of cleaning business licence
+
+80H\.—(1) Every cleaning business licence shall be deemed to be granted subject to the following conditions:
+
+(a) the holder of a cleaning business licence (referred to in this Part as a licensee) shall keep such records relating to the licensee’s cleaning business, and retain the records for such period, as may be prescribed;
+
+(b) the licensee —
+
+(i) shall ensure that each cleaner the licensee employs attends such training as may be specified by the Director-General whenever the Director-General requires that cleaner to attend such training; and
+
+(ii) shall keep training records of each cleaner the licensee employs in such manner, containing such particulars and for such period as may be prescribed;
+
+(c) for each cleaner the licensee employs, the licensee shall enter into a contract of service in writing;
+
+(d) for every contract of service entered into between the licensee and a cleaner who is a citizen or permanent resident of Singapore, the contract must —
+
+(i) provide for payment to that cleaner of a basic wage that is not less than the amount specified under subsection (2) for the class of cleaners to which that cleaner belongs; and
+
+(ii) contain terms not inconsistent with the requirements in section 80G(5) for the progressive wage plan in respect of that licensee’s cleaning business;
+
+(e) the licensee shall issue to each cleaner the licensee employs a pay slip containing such particulars of that cleaner’s basic wage and such other payment received by that cleaner from the licensee, and at such frequency, as may be prescribed; and
+
+(f) in the case where the licensee was required to satisfy the requirement in section 80G(4)(b)(ii) in respect of the grant of the cleaning business licence, the licensee shall ensure that at all times at least one of the licensee’s officers or employees has the practical experience, qualification or certificate referred to in section 80G(4)(b)(ii).
+
+(2) The Commissioner for Labour shall, by order, specify the amount for the purposes of subsection (1)(d) and when the specified amount takes effect, and he may specify different specified amounts for or in respect of different classes of cleaners and may, from time to time, vary any amount so specified.
+
+(3) In making an order under subsection (2), the Commissioner for Labour shall consider the recommendations by the Tripartite Cluster for Cleaners on remuneration for cleaners, if any.
+
+(4) The Commissioner for Labour must publish every order he makes under subsection (2) in any way he thinks appropriate to bring the order to the notice of persons who in his opinion ought to have notice thereof, except that failure to comply with this subsection in respect of any order shall not invalidate the order.
+
+(5) A specified amount shall take effect for the purposes of this Part notwithstanding that the basic wage that would have been payable to a cleaner under any collective agreement as defined in section 2 of the Industrial Relations Act (Cap. 136) is lower than the specified amount.
+
+(6) The Director-General may, by notice in writing to licensees, postpone the effective date of any specified amount (or any variation of that amount) —
+
+(a) in relation to cleaners employed (whether or not exclusively) to carry out or supervise the carrying out of cleaning work under any cleaning contract entered into by licensees before the date on which the specified amount otherwise takes effect; and
+
+(b) in any case where the Commissioner for Labour varies the specified amount, in relation to cleaners employed (whether or not exclusively) to carry out or supervise the carrying out of cleaning work under any cleaning contract entered into by licensees before the variation otherwise takes effect.
+
+(7) The Director-General may, if he thinks fit, waive any (but not all) of the conditions specified in subsection (1) in any particular case.
+
+(8) Subject to subsection (10), the Director-General may impose such other conditions on a cleaning business licence as he thinks fit, being conditions which are not inconsistent with those specified in subsection (1).
+
+(9) Subject to subsection (10), the Director-General may, at any time, add to, vary or revoke any condition of a cleaning business licence imposed under subsection (8), except that any addition or variation must also not be inconsistent with any condition specified in subsection (1).
+
+(10) Before imposing any condition under subsection (8) or making any modification to any condition of a cleaning business licence under subsection (9), the Director-General shall give notice to the licensee concerned —
+
+(a) of the terms of the proposed condition or modification; and
+
+(b) specifying the time (being not less than 14 days after the date of service of the notice on the licensee concerned) within which written representations with respect to the proposed condition or modification may be made.
+
+(11) Upon receipt of any written representation referred to in subsection (10)(b), the Director-General shall consider the representation, and may reject the representation or amend the proposed condition or modification in accordance with the representation or otherwise, and in either event shall thereupon issue a direction in writing to the licensee concerned, requiring that effect be given within a reasonable time to the proposed condition or modification specified in the notice under subsection (10) or to such condition or modification as subsequently amended by the Director-General.
+
+(12) In this section —
+
+“officer”, in relation to a licensee referred to in subsection (1)(f), has the same meaning as in section 80G(8);
+
+“Tripartite Cluster for Cleaners” means the body, comprising the representatives from employers, the trade unions of employees, and the Government, which is responsible for making recommendations on progressive wages for cleaners.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Form and validity of cleaning business licence
+
+80I\.—(1) Every cleaning business licence —
+
+(a) shall be in such form as the Director-General may determine;
+
+(b) shall contain the conditions subject to which it was granted;
+
+(c) shall be valid for the period stated therein unless it is earlier revoked under section 80J; and
+
+(d) may be renewed upon its expiry.
+
+(2) Sections 80F, 80G and 80H shall apply, with the necessary modifications, to the renewal and an application for the renewal of a cleaning business licence.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Revocation and suspension of cleaning business licence
+
+80J\.—(1) Subject to subsections (3) and (4), the Director-General may by order revoke any cleaning business licence if he is satisfied that —
+
+(a) the licensee has ceased to carry on a cleaning business in Singapore;
+
+(b) the licensee has gone or is likely to go into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;
+
+(c) the licensee no longer satisfies the requirements for a cleaning business licence referred to in section 80G(4)(a);
+
+(d) the licensee had, in connection with the application for the grant or renewal of its cleaning business licence, furnished false or misleading information in a material particular, or its cleaning business licence had been obtained by fraud or misrepresentation;
+
+(e) a circumstance which the Director-General becomes aware of would have required or permitted the Director-General to refuse to grant or renew the licensee’s cleaning business licence, had the Director-General been aware of the circumstance immediately before granting or renewing the cleaning business licence;
+
+(f) any part of the progressive wage plan in respect of the licensee’s cleaning business is not in conformity with section 80G(5);
+
+(g) the licensee has contravened any requirement or other provision of this Part or has been convicted of an offence under this Part;
+
+(h) the licensee has, on or after the date of commencement of section 15 of the Environmental Public Health (Amendment) Act 2014, contravened any requirement or provision of Part III of the Employment Act (Cap. 91) relating to the payment of salary, or has been convicted of an offence under Part III of the Employment Act relating to the payment of salary, of any of its employees, whether or not cleaners;
+
+(i) the licensee has failed to comply with any notice, direction or order issued under this Part by the Director-General or any authorised officer;
+
+(j) the licensee has failed to pay any fine for any offence under this Part, or any financial penalty, charge or fee charged or imposed under this Part;
+
+(k) the licensee has failed to comply with any condition of its cleaning business licence that is not waived under section 80H(7); or
+
+(l) it is in the public interest to revoke the cleaning business licence.
+
+(2) Subject to subsection (3), where the Director-General considers that one or more events referred to in subsection (1) have occurred, but the event or events are not of sufficient gravity to revoke a cleaning business licence, the Director-General may by order —
+
+(a) suspend the cleaning business licence for such period of time (not exceeding 6 months) as the Director-General thinks fit; or
+
+(b) impose such other directions or restrictions as the Director-General considers appropriate on the licensee’s cleaning business in Singapore.
+
+(3) The Director-General shall not exercise his powers under subsection (1) or (2) unless an opportunity of being heard (whether in writing or otherwise) had been given to the licensee against whom the Director-General intends to exercise his powers, being a period of not less than 3 days and not more than 14 days, after the Director-General informs the licensee of such intention.
+
+(4) In addition, the Director-General shall not exercise his powers under subsection (1) or (2) in relation to a licensee for failing to comply with the licence condition referred to in section 80H(1)(d) unless the Director-General has first consulted the Commissioner for Labour.
+
+(5) Where the Director-General has by order revoked a cleaning business licence under subsection (1) or made any order under subsection (2) in respect of a cleaning business licence, he must, without delay, serve on the licensee concerned a notice of his order.
+
+(6) Subject to subsections (7) and (8), an order under subsection (1) or (2) by the Director-General revoking or suspending a cleaning business licence or imposing restrictions on the licensee’s cleaning business shall not take effect until the expiration of 14 days after the notice under subsection (5) has been served on the licensee.
+
+(7) Any licensee or former licensee who is aggrieved by any order of the Director-General revoking or suspending its cleaning business licence or imposing directions or restrictions on its cleaning business may, within 14 days after the notice under subsection (5) has been served on the licensee or former licensee, appeal to the Minister whose decision shall be final.
+
+(8) Where the licensee or former licensee concerned has appealed under subsection (7) to the Minister against any order of the Director-General under subsection (1) or (2), the order shall not take effect until it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn.
+
+(9) Where an order of revocation or suspension of a cleaning business licence becomes effective, the licensee or former licensee concerned shall cease to carry on cleaning business in Singapore except to the extent allowed by the Director-General.
+
+(10) Subsection (9) shall not prejudice the enforcement by any person of any right or claim against the licensee or former licensee concerned or by the licensee or former licensee concerned against any person.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Financial penalty
+
+80K\.—(1) Without prejudice to section 80J, where a licensee fails to comply with any condition of its cleaning business licence including any modification to any condition made by the Director-General under section 80H(9), the Director-General may, in lieu of or in addition to revocation or suspension of its cleaning business licence or imposition of directions or restrictions on the licensee’s cleaning business under section 80J, impose a financial penalty of such amount, not exceeding $5,000, as the Director-General thinks fit.
+
+(2) The Director-General shall not exercise his powers under subsection (1) in relation to a licensee for failing to comply with the licence condition referred to in section 80H(1)(d) unless the Director-General has first consulted the Commissioner for Labour.
+
+(3) Any licensee or former licensee who is aggrieved by the imposition of any financial penalty by the Director-General under subsection (1) may, within 14 days after the notice of such imposition has been served on the licensee or former licensee, appeal to the Minister whose decision shall be final.
+
+(4) Any financial penalty imposed on any person under this section —
+
+(a) shall be collected, and may be sued for and recovered, by the Agency;
+
+(b) shall be deemed to be a debt due to the Government for the purposes of section 127 of the Bankruptcy Act (Cap. 20) and section 10 of the Government Proceedings Act (Cap. 121); and
+
+(c) shall be paid into the Consolidated Fund upon such collection or recovery,
+
+and that person’s liability to pay shall not be affected by its cleaning business licence ceasing, for any reason, to be in force.
+
+(5) The Director-General may, in any case in which he thinks fit, waive, remit or refund in whole or in part any financial penalty imposed under this section.
+
+(6) In any proceedings for the recovery of any financial penalty which any person is liable to pay, a certificate purporting to be under the hand of the Director-General certifying the amount of the financial penalty that is payable by the person shall be prima facie evidence of the facts stated therein.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Changes to information submitted
+
+80L\. Every licensee of a cleaning business licence shall notify the Director-General of any change to —
+
+(a) information contained in the licensee’s application for the grant or renewal of its cleaning business licence or any document accompanying the licensee’s application;
+
+(b) particulars of any progressive wage plan submitted by the licensee under section 80F; or
+
+(c) information the licensee submitted to the Director-General for the purposes of the licensee’s application for the grant or renewal of its cleaning business licence,
+
+no later than 14 days after the date of the change.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Monitoring powers
+
+80M\.—(1) Subject to subsection (2), the Director-General or any authorised officer appointed under section 3(2) may, for the purposes of the execution of this Part, by notice in writing —
+
+(a) require a licensee to produce such records, accounts and documents kept by the licensee in relation to its cleaning business within such reasonable time as may be specified in the notice;
+
+(b) inspect, examine and make copies of any such records, accounts and documents so produced; and
+
+(c) make such inquiry as may be necessary to ascertain whether the provisions of this Part are complied with.
+
+(2) Where the Director-General or any authorised officer appointed under section 3(2) has received information or has reasonable cause to believe that an offence under this Part or a failure to comply with any condition of a cleaning business licence has occurred, or is occurring or about to occur, the Director-General or authorised officer may exercise all or any of the powers referred to in subsection (1) without having to issue any notice in writing.
+
+(3) Where any such records, accounts and documents as are mentioned in subsection (1) are kept in electronic form —
+
+(a) the power of the Director-General or authorised officer in subsection (1)(a) to require any such records, accounts or documents to be produced for inspection includes power to require a copy of the records, accounts or documents to be made available for inspection in legible form and subsection (1)(b) shall accordingly apply in relation to any copy so made available; and
+
+(b) the power of the Director-General or authorised officer under subsection (1)(b) to inspect any such records, accounts or documents includes power to require any person on the premises in question to give the Director-General or authorised officer such assistance as the Director-General or authorised officer may reasonably require to enable him to inspect and make copies of the records, accounts or documents in legible form or to make records of information contained in them.
+
+(4) Any person who fails, without reasonable excuse, to comply with any requirement imposed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 15 of 2014 wef 01/04/2014]
+
+### Register of licensees
+
+80N\.—(1) The Director-General shall keep and maintain a register in which shall be entered such particulars of the licensees as the Director-General may determine.
+
+(2) Where the cleaning business licence of any licensee has been suspended or revoked or has expired, the Director-General may —
+
+(a) remove the particulars of the licensee from the register; or
+
+(b) indicate against the particulars of the licensee in the register the fact of such suspension, revocation or expiry of the licence, as the case may be.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 ## PART X
 
 ENFORCEMENT
@@ -1838,11 +2464,13 @@ ENFORCEMENT
 
 ### Director-General may act in cases of emergency
 
-83\. In cases of emergency, the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General necessary for public health or for the safety of the public.
+83\.—(1) In cases of emergency, the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General necessary for public health or for the safety of the public.
 
-[84
+[Act 15 of 2014 wef 01/04/2014]
 
-[4/2002]
+(2) The Director-General may recover, from the owner or occupier of the premises in which any work or act referred to in subsection (1) is executed, the costs and expenses reasonably incurred in the execution of such work or act.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ### Appeal to Minister against notice, order or decision
 
@@ -1930,6 +2558,18 @@ ENFORCEMENT
 
 [99
 
+### False or misleading information
+
+88A\. A person shall be guilty of an offence if —
+
+(a) the person provides information to a police officer or any authorised officer in connection with any function or duty of the police officer or authorised officer under this Act;
+
+(b) the information is false or misleading in a material particular; and
+
+(c) the person knew that that information is false or misleading in a material particular or is reckless as to whether it is so.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 ## PART XI
 
 COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
@@ -1956,11 +2596,9 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 ### Fees, etc., payable to Agency
 
-91\. All fees, charges, composition fines and moneys collected under this Act shall be paid to the Agency.
+91\. All fees, charges and moneys collected under this Act, other than composition sums and financial penalties, shall be paid to the Agency.
 
-[89A
-
-[4/2002]
+[Act 15 of 2014 wef 01/04/2014]
 
 ### Recovery of costs and expenses payable by owners
 
@@ -2138,11 +2776,13 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 [4/2002]
 
-(15) In this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Director-General under this Act.
+(15) In this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Director-General under this Act, but does not include a cleaning business licence granted or renewed under Part IXA.
 
 [94
 
 [4/2002]
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ### Receipts, notices, etc., may be given by authorised officer
 
@@ -2176,21 +2816,69 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 [22/99]
 
+### Offences by bodies corporate, etc.
+
+103A\.—(1) Where an offence under this Act committed by a body corporate is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the body corporate; or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) In this section —
+
+“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act;
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+(6) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 ### Composition of offences
 
-104\.—(1) The Director-General may, in his discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence —
+104\.—(1) The Director-General may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) a sum of money not exceeding $500 in the case of an offence punishable on conviction with a fine not exceeding $5,000 (whether with or without imprisonment); or
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) a sum of money not exceeding $5,000 in the case of an offence punishable on conviction with a fine exceeding $5,000 (whether with or without imprisonment).
+(b) $5,000.
 
-[22/99; 4/2002]
+[Act 15 of 2014 wef 01/04/2014]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
 (3) The Agency may, with the approval of the Minister, make rules to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
 
 [4/2002]
+
+(4) All sums collected under this section shall be paid into the Consolidated Fund.
+
+[Act 15 of 2014 wef 01/04/2014]
 
 ### Inaccuracies in documents
 
@@ -2248,9 +2936,11 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 [4/2002]
 
-(3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which the offence continues after conviction.
+(3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $20,000 and, in the case of a continuing offence, the sum of $1,000 for every day or part thereof during which the offence continues after conviction.
 
 [22/99; 4/2002]
+
+[Act 15 of 2014 wef 01/04/2014]
 
 (4) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
@@ -2270,7 +2960,7 @@ FIRST SCHEDULE
 
 Section 32
 
-Description of Purposes for Use of Food Establishments to Which Section 32 Applies
+Description of purposes for use of Food Establishments to which section 32 applies
 
 1. As a retail food establishment where food is sold wholly by retail (whether or not the food sold is also prepared, stored or packed for sale or consumed at such premises), including —
 
@@ -2300,7 +2990,7 @@ SECOND SCHEDULE
 
 Section 68
 
-Infectious Diseases
+Infectious diseases
 
 1\. Anthrax.
 
@@ -2318,7 +3008,7 @@ THIRD SCHEDULE
 
 Section 111(1)
 
-Subject Matters of Regulations
+Subject matters of regulations
 
 1\. Public cleansing, conservancy and the depositing, collection, removal and disposal of dust, dirt, ashes, rubbish, nightsoil, dung, trade refuse, garden refuse, stable refuse, trade effluent and other filth; and matters relating to the receptacles used or provided in connection therewith.
 
@@ -2358,11 +3048,15 @@ Subject Matters of Regulations
 
 [S 77/98]
 
+16. The prescribing of matters relating to or for the purposes of cleaning business licences and the regulation of cleaning businesses.
+
+[Act 15 of 2014 wef 01/04/2014]
+
 FOURTH SCHEDULE
 
 Section 4(2)
 
-Private Persons Who Can be Authorised to Exercise Powers under the Act or Regulations and Powers in Respect of Which Persons May Act
+Private persons who can be authorised to exercise powers under the Act or Regulations and powers in respect of which persons may act
 
 First column
 
@@ -2549,7 +3243,7 @@ Environmental Public Health Act
 
 (CHAPTER 95)
 
-This Legislative History is provided for the convenience of users of the Betting Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Environmental Public Health Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -2630,6 +3324,10 @@ This Legislative History is provided for the convenience of users of the Betting
 ||Date of commencement|2 January 2011|
 |18.|**G.N. No. S 442/2013—Environmental Public Health Act (Amendment of Fourth Schedule) Notification 2013**|
 ||Date of commencement|18 July 2013|
+|19.|**Act 15 of 2014—Environmental Public Health (Amendment) Act 2014**|
+||Date of First Reading|20 January 2014 (Bill No. 3/2014 published on 20 January 2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|1 April 2014|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
@@ -2766,7 +3464,7 @@ PART XII — MISCELLANEOUS PROVISIONS
 
 —
 
-100 (Repealed by Act 4/200)
+100 (Repealed by Act 4/2002)
 
 100 
 
