@@ -154,7 +154,7 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Act;
 
-“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act (Cap. 143B);
+“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
 
 [17/2002 wef 01/04/2002]
 
@@ -168,7 +168,7 @@ PRELIMINARY
 
 “electronic notice” has the meaning assigned to it in section 8(1);
 
-“examination station” means any place which has been prescribed under section 143(1)(d) of the Customs Act (Cap. 70) as a customs office or customs station for the examination of goods or any place or premises as may be determined by a senior authorised officer for the examination of goods;
+“examination station” means any place which has been prescribed under section 143(1)(d) of the Customs Act [Cap. 70] as a customs office or customs station for the examination of goods or any place or premises as may be determined by a senior authorised officer for the examination of goods;
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, water or air and includes the placing of any goods in a conveyance for the purpose of the goods being taken out of Singapore but does not include the taking out from Singapore of any goods on the same conveyance on which they were brought into Singapore unless such goods after being brought into Singapore have been landed or transhipped within Singapore;
 
@@ -178,9 +178,9 @@ PRELIMINARY
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, water or air from any place which is outside Singapore but does not include the bringing into Singapore of goods which are to be taken out of Singapore on the same conveyance on which they were brought into Singapore without any landing or transhipment within Singapore;
 
-“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 (Act 7 of 1996) when acting in the course of his duties;
+“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996] when acting in the course of his duties;
 
-“officer of customs” has the same meaning as in the Customs Act (Cap. 70);
+“officer of customs” has the same meaning as in the Customs Act [Cap. 70];
 
 “pilot of an aircraft” means every person having or taking command or charge of an aircraft;
 
@@ -291,7 +291,9 @@ such particulars, information or documents relating to goods imported into, expo
 
 (j) for the registration of all or such class of goods, as may be prescribed, imported into, exported from, transhipped in or in transit through Singapore;
 
-(k) for the registration of importers, exporters, common carriers of goods or any other person who has made a declaration under this Act or any regulations made thereunder;
+(k) for the registration of importers, exporters, common carriers of goods or any person making a declaration under this Act or any regulations made thereunder;
+
+[Act 3 of 2014 wef 01/04/2014]
 
 (l) for the issue of certificates of entitlement to permits for the export or import of such classes of goods, as are prescribed, to successful applicants who submitted bids for the certificates;
 
@@ -305,9 +307,11 @@ such particulars, information or documents relating to goods imported into, expo
 
 (o) for prescribing the fees and charges, or the method or manner for determining the amount of the fees or charges, payable by virtue of any regulations made under this section, and for prescribing the manner or method in which such fees or charges shall be paid;
 
-(p) for prescribing the fees to be charged for services and facilities provided by the Director-General; and
+(p) for prescribing the fees to be charged for services and facilities provided by the Director-General;
 
 [28/2003 wef 01/01/2004]
+
+[6/2003 wef 01/04/2003]
 
 (pa) for the bringing of appeals to the Minister in respect of any matter referred to in this Act or any regulations made thereunder, and the procedure for such appeals; and
 
@@ -413,9 +417,9 @@ shall be admissible as evidence of the facts stated or contained therein.
 
 (b) purporting to be signed by an authorised officer or by a person occupying a responsible position in relation to the operation of the computer service at the relevant time,
 
-shall be sufficient evidence that the electronic notice or the copy thereof has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
-
 [6/2003 wef 01/04/2003]
+
+shall be sufficient evidence that the electronic notice or the copy thereof has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
 
 (8) Where an electronic notice or a copy thereof is admissible under subsection (6), it shall be presumed, until the contrary is proved, that the contents of the electronic notice or the copy thereof have been accurately transmitted.
 
@@ -629,6 +633,8 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 (a) shall be entitled at any time to have access to, and inspect and check the operation of, any computer and any associated device, apparatus or material which is or has been in use in connection with any data or document to which section 19, 20, 22, 23 or 28A applies; and
 
+[28/2003 wef 01/01/2004]
+
 (b) may require —
 
 (i) the person by whom or on whose behalf the computer is or has been so used; or
@@ -645,7 +651,7 @@ to provide the authorised officer or senior authorised officer, with such reason
 
 [6/1997 wef 01/10/1997]
 
-(2) In this section, “railway” has the same meaning as in the Railways Act (Cap. 263).
+(2) In this section, “railway” has the same meaning as in the Railways Act [Cap. 263].
 
 ### Powers of arrest and search
 
@@ -777,19 +783,63 @@ except where it is necessary for the purposes of —
 
 [28/2003 wef 01/01/2004]
 
-(iv) enabling a foreign government authority to investigate a suspected offence committed in a foreign country and where the conditions specified in subsection (4) are satisfied; or
+(iv) a prosecution of such offence under such written law (other than this Act) as may be prescribed;
 
-[28/2003 wef 01/01/2004]
+[Act 3 of 2014 wef 01/04/2014]
 
-(v) complying with any provision of any prescribed agreement and where the conditions specified in subsection (5) are satisfied.
+(v) enabling a public agency to enforce such provision of written law (other than this Act) as may be prescribed;
 
-[28/2003 wef 01/01/2004]
+[Act 3 of 2014 wef 01/04/2014]
+
+(vi) enabling a public agency to investigate a suspected offence under such provision of written law (other than this Act) as may be prescribed;
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(vii) subject to subsection (1A), enabling a public agency to discharge its function, duty or power of collecting, compiling and analysing the particulars or information, and —
+
+(A) providing its collection, compilation or analysis to another public agency for policy formulation or review by that other public agency; or
+
+(B) publishing its collection, compilation or analysis in such form as will not identify, and is not reasonably capable of being used to identify, any person to which the information or particulars relate;
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(viii) subject to subsection (1A), enabling a public agency to take steps to protect individuals and communities from risks or threats to public health or safety, or to protect against risks or threats to the security of Singapore (including her financial and economic security);
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(ix) enabling a foreign government authority to investigate a suspected offence committed in a foreign country, where the conditions specified in subsection (4) are satisfied; or
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(x) complying with any provision of any prescribed agreement, where the conditions specified in subsection (5) are satisfied.
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(1A) No particulars, information or document referred to in subsection (1) may be published, disclosed or communicated pursuant to paragraph (vii) or (viii) of that subsection except with the approval of the Minister.
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(1B) The approval of the Minister referred to in subsection (1A) may be given in respect of —
+
+(a) a specific public agency or a class of public agencies; and
+
+(b) a specific request for particulars, information or documents, or requests for particulars, information or documents falling within such class as the Minister may in his approval specify.
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(1C) For the purposes of subsection (1)(viii), the particulars or information in question may be provided to the public agency through another public agency.
+
+[Act 3 of 2014 wef 01/04/2014]
+
+(1D) Nothing in subsection (1) shall prevent the Minister, and any public officer assisting the Minister and duly authorised by the Minister for the purposes of this subsection, from having access to such particulars, information or document referred to in subsection (1) as may be necessary for the performance of his official duties in connection with this Act or the advancement or development of trade.
+
+[Act 3 of 2014 wef 01/04/2014]
 
 (2) Any authorised officer or any person employed or engaged in the administration of this Act or any regulations made thereunder who makes use of, publishes or permits any other person to see or communicates or discloses to any other person the contents of any such particulars, information or document to any other person, otherwise than with such consent or for such purpose as is referred to in subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (3) Any person, having possession of any information which to his knowledge has been communicated, disclosed or published in contravention of this section, who publishes or communicates that information to any other person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) The conditions referred to in subsection (1)(iv) are as follows:
+(4) The conditions referred to in subsection (1)(ix) are as follows:
 
 (a) there exists a treaty or memorandum of understanding between Singapore and the government of the foreign country in respect of matters under this Act or any regulations made thereunder and a request has been made by the foreign government authority pursuant to such treaty or memorandum of understanding;
 
@@ -809,7 +859,9 @@ except where it is necessary for the purposes of —
 
 (i) the Minister has given his consent in writing to the publication, communication or disclosure.
 
-(5) The conditions referred to in subsection (1)(v) are as follows:
+[Act 3 of 2014 wef 01/04/2014]
+
+(5) The conditions referred to in subsection (1)(x) are as follows:
 
 (a) the particulars, information or documents requested by the foreign country are available to the Director-General;
 
@@ -819,21 +871,29 @@ except where it is necessary for the purposes of —
 
 [28/2003 wef 01/01/2004]
 
+[Act 3 of 2014 wef 01/04/2014]
+
 (6) In this section —
 
 “foreign country” means any country or territory outside Singapore;
 
-“prescribed agreement” means an agreement between Singapore and a foreign country which is prescribed as an agreement for the purpose of subsection (1)(v).
+“prescribed agreement” means an agreement between Singapore and a foreign country which is prescribed as an agreement for the purpose of subsection (1)(x);
 
 [28/2003 wef 01/01/2004]
 
+[Act 3 of 2014 wef 01/04/2014]
+
+“public agency” means a public officer, an organ of state or a ministry or department of the Government, or a public authority established by or under any public Act for a public purpose or a member, an officer or an employee, or any department, thereof.
+
+[Act 3 of 2014 wef 01/04/2014]
+
 ### Abetment and attempts
 
-32\. Any person who abets, within the meaning of the Penal Code (Cap. 224), and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
+32\. Any person who abets, within the meaning of the Penal Code [Cap. 224], and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
 
 ### Jurisdiction of Courts
 
-33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
+33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
 
 ### Power of Minister to remit penalties and restore goods seized or forfeited
 
@@ -879,7 +939,9 @@ except where it is necessary for the purposes of —
 
 39\.—(1) Any senior authorised officer may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
 
-(a) $1,000 in respect of any offence where the minimum fine prescribed for that offence is less than $5,000; and
+(a) $1,000 in respect of any offence where the maximum fine prescribed for that offence is less than $5,000; and
+
+[Act 3 of 2014 wef 01/04/2014]
 
 (b) $5,000 in respect of any other prescribed offence.
 
@@ -901,7 +963,7 @@ except where it is necessary for the purposes of —
 
 ### Officers to be deemed public servants
 
-41\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+41\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Levy, fees and other charges
 
@@ -925,11 +987,11 @@ MISCELLANEOUS
 
 ### Transitional and savings provisions
 
-44\.—(1) Any scheme, certificate, document, licence or permit granted before 1st December 1995 under the repealed Control of Imports and Exports Act (Cap. 56, 1985 Ed.) or the repealed Registration of Imports and Exports Act (Cap. 270, 1985 Ed.) or any order, rules or regulations made thereunder shall, except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been granted or approved under the corresponding provisions of this Act or the regulations made thereunder.
+44\.—(1) Any scheme, certificate, document, licence or permit granted before 1st December 1995 under the repealed Control of Imports and Exports Act [Cap. 56, 1985 Ed.] or the repealed Registration of Imports and Exports Act [Cap. 270, 1985 Ed.] or any order, rules or regulations made thereunder shall, except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been granted or approved under the corresponding provisions of this Act or the regulations made thereunder.
 
 (2) Any subsidiary legislation made under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act and in force immediately before 1st December 1995 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or cancelled by subsidiary legislation made under this Act.
 
-(3) Any reference in any written law to the repealed Control of Imports and Exports Act (Cap. 56, 1985 Ed.) or the repealed Registration of Imports and Exports Act (Cap. 270, 1985 Ed.) shall be read as a reference to this Act.
+(3) Any reference in any written law to the repealed Control of Imports and Exports Act [Cap. 56, 1985 Ed.] or the repealed Registration of Imports and Exports Act [Cap. 270, 1985 Ed.] shall be read as a reference to this Act.
 
 (4) Any proceedings or cause of action pending or existing immediately before 1st December 1995 by or against the Board or any person acting on behalf of the Board under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act may be continued and enforced by or against the Board as it might have been continued and enforced by or against the Board or such person as if this Act had not been enacted.
 
@@ -947,7 +1009,7 @@ Regulation of Imports and Exports Act
 
 (CHAPTER 272A)
 
-This Legislative History is provided for the convenience of users of the Regulation of Imports and Exports Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Regulation of Imports and Exports Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -999,3 +1061,7 @@ This Legislative History is provided for the convenience of users of the Regulat
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (Item 88 of the Sixth Schedule – Amendment of Regulation of Imports and Exports Act)|
+|10.|**Act 3 of 2014—Regulation of Imports and Exports (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 24/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 April 2014|
