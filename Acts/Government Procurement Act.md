@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Relevant State](#Relevant-State)
+- [3 Relevant State or relevant Protocol State](#Relevant-State-or-relevant-Protocol-State)
 
 - [4 Application](#Application)
 
@@ -98,7 +98,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Agreement on Government Procurement” means the Agreement by that name done at Marrakesh on 15th April 1994;
+“Agreement on Government Procurement” means the Agreement by that name done at Marrakesh on 15th April 1994 and amended by the Protocol;
+
+[Act 2 of 2014 wef 06/04/2014]
 
 “award”, in relation to a contract or tender, means to accept an offer made;
 
@@ -118,13 +120,33 @@ PRELIMINARY
 
 “procurement subject to the Act” means a procurement declared, by order made under section 4(2), to be a procurement subject to the Act;
 
+“Protocol” means the Protocol Amending the Agreement on Government Procurement done at Geneva on 30th March 2012;
+
+[Act 2 of 2014 wef 06/04/2014]
+
 “qualification of suppliers” means a process undertaken by a contracting authority to shortlist suppliers for a particular procurement, a particular type of procurement or procurement in general;
+
+“relevant Protocol State” means a country or territory declared, by order made under section 3, as a relevant Protocol State for the purposes of this Act;
+
+[Act 2 of 2014 wef 06/04/2014]
+
+“relevant Protocol supplier”, in relation to a procurement subject to the Act, means —
+
+(a) a supplier who is a national of Singapore or of a relevant Protocol State that is specified in an order made under section 4(2) as one to which that procurement relates;
+
+(b) a supplier which is a company or an association or a body of persons, corporate or unincorporate, which is formed under the laws of Singapore or such relevant Protocol State and has its principal place of business in Singapore or such relevant Protocol State; or
+
+(c) a supplier, or supplier within a class of suppliers, specified under that order as a relevant Protocol supplier or class of relevant Protocol suppliers in relation to that procurement;
+
+[Act 2 of 2014 wef 06/04/2014]
 
 “relevant State” means a country or territory declared, by order made under section 3, as a relevant State for the purposes of this Act;
 
 “relevant supplier”, in relation to a procurement subject to the Act, means —
 
-(a) a supplier who is a national of Singapore or of a relevant State that is specified as one to which that procurement relates in the order made under section 4(2) declaring that procurement as one subject to the Act;
+(a) a supplier who is a national of Singapore or of a relevant State that is specified in an order made under section 4(2) as one to which that procurement relates;
+
+[Act 2 of 2014 wef 06/04/2014]
 
 (b) a supplier which is a company or an association or a body of persons, corporate or unincorporate, which is formed under the laws of Singapore or such relevant State and has its principal place of business in Singapore or such relevant State; or
 
@@ -136,9 +158,11 @@ PRELIMINARY
 
 “Tribunal” means the Government Procurement Adjudication Tribunal established under section 8.
 
-### Relevant State
+### Relevant State or relevant Protocol State
 
-3\. The Minister may, from time to time, by order published in theGazette, declare any country or territory as a relevant State for the purposes of this Act.
+3\. The Minister may, from time to time, by order published in theGazette, declare any country or territory as a relevant State or relevant Protocol State for the purposes of this Act.
+
+[Act 2 of 2014 wef 06/04/2014]
 
 ### Application
 
@@ -168,11 +192,21 @@ PRELIMINARY
 
 (5) An order made under subsection (2) —
 
-(a) shall specify that the procurement is a procurement subject to the Act in relation to all relevant States or a specified relevant State; and
+(a) shall specify that the procurement is a procurement subject to the Act in relation to all or any of the following:
 
-(b) may specify any supplier or class of suppliers as a relevant supplier or class of relevant suppliers in relation to that procurement for the purposes of paragraph (c) of the definition of “relevant supplier” in section 2.
+(i) all relevant States or a specified relevant State;
 
-[28/2004 wef 01/09/2004]
+(ii) all relevant Protocol States or a specified relevant Protocol State; and
+
+[Act 2 of 2014 wef 06/04/2014]
+
+(b) may specify any supplier or class of suppliers as —
+
+(i) a relevant supplier or class of relevant suppliers in relation to that procurement for the purposes of paragraph (c) of the definition of “relevant supplier” in section 2; or
+
+(ii) a relevant Protocol supplier or class of relevant Protocol suppliers in relation to that procurement for the purposes of paragraph (c) of the definition of “relevant Protocol supplier” in section 2.
+
+[Act 2 of 2014 wef 06/04/2014]
 
 ### Certification by Minister
 
@@ -212,11 +246,13 @@ REGULATIONS GOVERNING PROCUREMENT
 
 (2) The duty of a contracting authority referred to in subsection (1) is a duty owed to —
 
-(a) relevant suppliers in relation to that procurement; and
+(a) relevant suppliers or relevant Protocol suppliers in relation to that procurement; and
 
-(b) such other supplier or class of suppliers as the Minister may, by order published in theGazette, declare.
+[Act 2 of 2014 wef 06/04/2014]
 
 [28/2004 wef 01/09/2004]
+
+(b) such other supplier or class of suppliers as the Minister may, by order published in theGazette, declare.
 
 (3) A breach of a duty referred to in subsection (1) shall not be the subject of any proceedings in any court but may be the subject of a challenge brought before the Tribunal by a supplier to whom the duty is owed and who has suffered, or reasonably risks suffering, loss or damage as a result of the breach.
 
@@ -510,7 +546,7 @@ Government Procurement Act
 
 (CHAPTER 120)
 
-This Legislative History is provided for the convenience of users of the Government Procurement Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Government Procurement Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -538,3 +574,7 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (Item 1(16) of the Second Schedule — Amendment of Government Procurement Act)|
+|6.|**Act 2 of 2014—Government Procurement (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 23/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|6 April 2014|
