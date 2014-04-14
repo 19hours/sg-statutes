@@ -126,7 +126,43 @@
 
 [**Part V**](#Part-V)
 
-[**[42. to 60.Repealed by Act 15/2010 wef 02/01/2011]**](#[42-to-60Repealed-by-Act-15/2010-wef-02/01/2011])
+- [42 (Repealed)](#Repealed)
+
+- [43 (Repealed)](#Repealed)
+
+- [44 (Repealed)](#Repealed)
+
+- [45 (Repealed)](#Repealed)
+
+- [46 (Repealed)](#Repealed)
+
+- [47 (Repealed)](#Repealed)
+
+- [48 (Repealed)](#Repealed)
+
+- [49 (Repealed)](#Repealed)
+
+- [50 (Repealed)](#Repealed)
+
+- [51 (Repealed)](#Repealed)
+
+- [52 (Repealed)](#Repealed)
+
+- [53 (Repealed)](#Repealed)
+
+- [54 (Repealed)](#Repealed)
+
+- [55 (Repealed)](#Repealed)
+
+- [56 (Repealed)](#Repealed)
+
+- [57 (Repealed)](#Repealed)
+
+- [58 (Repealed)](#Repealed)
+
+- [59 (Repealed)](#Repealed)
+
+- [60 (Repealed)](#Repealed)
 
 [**Part VI OFFICERS AND OFFICES**](#Part-VI)
 
@@ -202,7 +238,7 @@
 
 - [83 Amendment of Third, Fourth and Fifth Schedules](#Amendment-of-Third-Fourth-and-Fifth-Schedules)
 
-[**FIRST SCHEDULE Additional Powers of the High Court**](#FIRST-SCHEDULE-Additional-Powers-of-the-High-Court)
+[**FIRST SCHEDULE Additional powers of the High Court**](#FIRST-SCHEDULE-Additional-powers-of-the-High-Court)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
@@ -298,9 +334,9 @@ THE SUPREME COURT
 
 ### Seal
 
-6\. The Supreme Court shall have and use as occasion may require a seal of such nature and pattern as the Chief Justice may, by notification in theGazette1, prescribe.
+6\. The Supreme Court shall have and use as occasion may require a seal of such nature and pattern as the Chief Justice may, by notification in theGazette\*, prescribe.
 
-1Cap. 322, N 1 (1990 Ed.)
+\*Cap. 322, N 1 (1990 Ed.).
 
 ### Contempt
 
@@ -369,6 +405,20 @@ General
 (4) If a Judge reserves judgment in any proceedings and his appointment as a Judge expires or is terminated before his judgment is delivered, he shall have power to deliver judgment in respect of those proceedings, notwithstanding that his appointment as a Judge has expired or has been terminated.
 
 [3/96]
+
+(5) No Judge shall sit in the High Court on the hearing of, or determine any application in proceedings incidental or preliminary to —
+
+(a) an appeal from a judgment or an order made by him as the Presiding Judge of the State Courts;
+
+(b) an appeal against a conviction before him or a sentence passed by him as the Presiding Judge of the State Courts;
+
+(c) the consideration of any case stated by him under section 395 of the Criminal Procedure Code (Cap. 68) as the Presiding Judge of the State Courts;
+
+(d) any application made under section 400 of the Criminal Procedure Code in relation to any judgment or order made, or sentence passed, by him as the Presiding Judge of the State Courts; or
+
+(e) any proceedings relating to any judgment, order or direction made by him as the Presiding Judge of the State Courts.
+
+[Act 5 of 2014 wef 14/04/2014]
 
 ### Assessors to assist High Court
 
@@ -619,6 +669,8 @@ Appellate Jurisdiction of the High Court
 (2) The High Court shall have the like powers and jurisdiction on the hearing of such appeals as the Court of Appeal has on the hearing of appeals from the High Court.
 
 Supervisory and Revisionary Jurisdiction
+
+[30/2010 wef 01/01/2011]
 
 ### Revision of criminal proceedings of subordinate courts
 
@@ -916,6 +968,8 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (3) Every direction or order so made may be discharged or varied by the Court of Appeal.
 
+[30/2010 wef 01/01/2011]
+
 ### Hearing of appeals
 
 37\.—(1) Appeals to the Court of Appeal shall be by way of rehearing.
@@ -956,7 +1010,43 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 ## PART V
 
-[42. to 60.Repealed by Act 15/2010 wef 02/01/2011]
+42\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+43\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+44\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+45\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+46\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+47\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+48\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+49\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+50\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+51\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+52\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+53\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+54\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+55\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+56\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+57\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+58\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+59\. [Repealed by Act 15/2010 wef 02/01/2011]
+
+60\. [Repealed by Act 15/2010 wef 02/01/2011]
 
 ## PART VI
 
@@ -1274,17 +1364,19 @@ Rules of Court
 
 (b) the Attorney-General;
 
-(c) not more than 5 Judges of the Supreme Court to be appointed by the Chief Justice for such period as he may specify in writing;
+(c) not more than 5 Judges of the Supreme Court (excluding the Presiding Judge of the State Courts) to be appointed by the Chief Justice for such period as he may specify in writing;
 
-(d) the Chief District Judge;
+[Act 5 of 2014 wef 14/04/2014]
+
+(d) the Presiding Judge of the State Courts;
+
+[Act 5 of 2014 wef 14/04/2014]
 
 (e) a District Judge to be appointed by the Chief Justice for such period as he may specify in writing; and
 
 (f) 2 practising advocates and solicitors to be appointed by the Chief Justice for such period as he may specify in writing.
 
 [3/96]
-
-[4/2010 wef 17/02/2010]
 
 (4) At any meeting of the Rules Committee, 5 members shall form a quorum and all questions shall be decided by a majority of votes of the members present and voting.
 
@@ -1346,7 +1438,7 @@ FIRST SCHEDULE
 
 Section 18(2)
 
-Additional Powers of the High Court
+Additional powers of the High Court
 
 Prerogative orders
 
@@ -1450,29 +1542,29 @@ SECOND SCHEDULE
 
 Section 69
 
-1. OATH OF OFFICE OF THE REGISTRAR, DEPUTY REGISTRAR OR ASSISTANT REGISTRAR
+1\. OATH OF OFFICE OF THE REGISTRAR, DEPUTY REGISTRAR OR ASSISTANT REGISTRAR
 
-I,..................................................................................................................., having been appointed to the office of .............................................................................................. do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability and I will be faithful and bear true allegiance to the Republic of Singapore.
+I, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability and I will be faithful and bear true allegiance to the Republic of Singapore.
 
 Taken and subscribed before me at this day of .
 
-Officer Administering the Oath
+Officer Administering the Oath.
 
-2. OATH OF OFFICE OF AN INTERPRETER
+2\. OATH OF OFFICE OF AN INTERPRETER
 
-I, ..........................................................................................................., having been appointed an Interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the ........................................ language into the English language and from the English language into the ........................................ language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
+I, , having been appointed an Interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
 
-Taken and subscribed before me at ................ this .................. day of ................. .
+Taken and subscribed before me at this day of .
 
-Officer Administering the Oath
+Officer Administering the Oath.
 
-3. OATH OF OFFICE OF OTHER OFFICER OF THE SUPREME COURT
+3\. OATH OF OFFICE OF OTHER OFFICER OF THE SUPREME COURT
 
-I,...................................................................., having been appointed to the office of ......................................... in the Supreme Court do solemnly and sincerely swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, nor will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.
+I, , having been appointed to the office of in the Supreme Court do solemnly and sincerely swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, nor will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.
 
-Taken and subscribed before me at ..................... this ............. day of ................. .
+Taken and subscribed before me at this day of .
 
-Officer Administering the Oath
+Officer Administering the Oath.
 
 [16/93]
 
@@ -1595,7 +1687,7 @@ Supreme Court of Judicature Act
 
 (CHAPTER 322)
 
-This Legislative History is provided for the convenience of users of the Supreme Court of Judicature Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Supreme Court of Judicature Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1741,6 +1833,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Dates of commencement|7 March 2014 (section 11(7)(a) — amendment of Supreme Court of Judicature Act)|
+|30.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||(Consequential or related amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 26/2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Dates of commencement|14 April 2014 (section 11(7)(b) and (c) — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
@@ -1751,9 +1848,9 @@ The following provisions in the 1993 Reprint of the Supreme Court of Judicature 
 
 This Comparative Table is provided for the convenience of users. It is not part of the Supreme Court of Judicature Act.
 
-1999 Ed.
+1999 Ed\. 
 
-1993 Reprint
+1993 Reprint 
 
 Omitted —Repealed by Act 16/93
 
