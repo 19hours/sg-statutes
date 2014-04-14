@@ -228,7 +228,7 @@ but does not include a hospital;
 
 3\.—(1) The President may, on the recommendation of the Chief Justice, appoint a State Coroner and such other Coroners as are necessary for the proper administration of this Act.
 
-(2) No person shall be appointed a Coroner unless he is a judicial officer appointed under the Subordinate Courts ActState Courts Act (Cap. 321) and, in the case of the State Coroner, unless he is a District Judge appointed under that Act.
+(2) No person shall be appointed a Coroner unless he is a judicial officer appointed under the State Courts Act (Cap. 321) and, in the case of the State Coroner, unless he is a District Judge appointed under that Act.
 
 [Act 5 of 2014 wef 07/03/2014]
 
@@ -236,9 +236,11 @@ but does not include a hospital;
 
 (4) The State Coroner may authorise or appoint any person to assist him in the exercise of his functions and duties under this Act whether generally or in any particular case.
 
-(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Chief District Judge appointed under the Subordinate Courts ActState Courts Act may appoint another Coroner to act as State Coroner for that period.
+(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Presiding Judge of the State Courts appointed under the State Courts Act may appoint another Coroner to act as State Coroner for that period.
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 5 of 2014 wef 14/04/2014]
 
 (6) All appointments made under subsection (1) shall be published in theGazette.
 
@@ -416,7 +418,7 @@ INVESTIGATIONS INTO DEATHS
 
 (c) request the Coroner to direct the police to provide such assistance as the forensic pathologist may require to investigate the cause of and circumstances connected with the death.
 
-[2/2012 wef 01/03/2012]
+[2/2012]
 
 (2) Any medical practitioner or health-care practitioner who is required by a forensic pathologist under subsection (1)(b) to provide any report, record, information, substance or thing and who —
 
@@ -428,7 +430,7 @@ INVESTIGATIONS INTO DEATHS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[2/2012 wef 01/03/2012]
+[2/2012]
 
 (3) The Registrar, or any Registry officer, agent of the Registry or other person who acts under the direction of the Registrar —
 
@@ -436,11 +438,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) shall not by so doing be treated as being in breach of any such restriction, notwithstanding anything to the contrary in that section.
 
-[2/2012 wef 01/03/2012]
+[2/2012]
 
 (4) In this section, “agent of the Registry”, “Registrar”, “Registry” and “Registry officer” have the same meanings as in the National Registry of Diseases Act.
 
-[2/2012 wef 01/03/2012]
+[2/2012]
 
 ## PART IV
 
@@ -977,7 +979,7 @@ Any death in Singapore the manner or cause of which is unknown.
 
 Any death in Singapore that occurred under suspicious circumstances.
 
-[S 712/2011 wef 01/01/2012]
+[S 712/2011]
 
 [HK Coroners Ord, s. 4, Sch. Pt. 2; UK CA, s. 8; Vic CA, s. 4; QLD CA, ss. 7, 8; WA CA, s. 3; Ontario CA, s. 10; NZ CA, ss. 13, 14]
 
@@ -1023,7 +1025,7 @@ Any death in Singapore the manner or cause of which is unknown.
 
 Any death in Singapore that occurred under suspicious circumstances.
 
-[S 712/2011 wef 01/01/2012]
+[S 712/2011]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -1160,6 +1162,10 @@ This Legislative History is provided for the convenience of users of the Coroner
 |4.|**2012 Revised Edition—Coroners Act (Chapter 63A)**|
 ||Date of operation|31 October 2012|
 |5.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
-||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 26 February 2014)|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|6.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|14 April 2014|
