@@ -310,7 +310,7 @@ in connection with any trade, business, profession or undertaking carried on by 
 
 “Council” means the Workplace Safety and Health Council established under section 39;
 
-“dangerous occurrence” means any occurrence which is specified in The First Schedule;
+“dangerous occurrence” means any occurrence which is specified in the First Schedule;
 
 [18/2011 wef 01/09/2011]
 
@@ -438,7 +438,7 @@ but does not include any machinery used solely for the propulsion of vehicles;
 
 which the contractor or subcontractor has been engaged as contractor or subcontractor, as the case may be, to do;
 
-“work of engineering construction” means any work specified in The Third Schedule;
+“work of engineering construction” means any work specified in the Third Schedule;
 
 [18/2011 wef 01/09/2011]
 
@@ -483,6 +483,8 @@ which the contractor or subcontractor has been engaged as contractor or subcontr
 (b) which is specified in the Fourth Schedule.
 
 [18/2011 wef 01/09/2011]
+
+(3) [Deleted by Act 18 of 2011]
 
 (4) Where any person carries on any work referred to in subsection (2) in a workplace with the express or implied permission of, or under any agreement with, the occupier of the workplace, then, notwithstanding that the person is not an employee of the occupier of the workplace —
 
@@ -1020,7 +1022,9 @@ OCCUPATIONAL DISEASES
 
 (2) The Inquiry Committee referred to in subsection (1) shall comprise —
 
-(a) a District Judge appointed by the Minister after consulting the Chief District Judge; and
+(a) a District Judge appointed by the Minister after consulting the Presiding Judge of the State Courts; and
+
+[Act 5 of 2014 wef 14/04/2014]
 
 (b) one or more assessors appointed by the Minister.
 
@@ -1856,7 +1860,7 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 [18/2011 wef 01/09/2011]
 
-(vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a certificates of registration of a factory is issued;
+(vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a certificate of registration of a factory is issued;
 
 [18/2011 wef 01/09/2011]
 
@@ -2355,6 +2359,10 @@ The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104
 |||(Bill No. 13/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 September 2011|
+|10.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|14 April 2014|
 ## COMPARATIVE TABLE
 
 Workplace Safety and Health Act
@@ -2397,5 +2405,5 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 Omitted(spent)
 
-66 (16)
+66— (16)
 
