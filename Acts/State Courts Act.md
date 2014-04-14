@@ -30,6 +30,8 @@
 
 [**Part III APPOINTMENTS, POWERS AND DUTIES**](#Part-III)
 
+- [8A Appointment of Presiding Judge of State Courts](#Appointment-of-Presiding-Judge-of-State-Courts)
+
 - [9 Appointments and qualifications of District Judges](#Appointments-and-qualifications-of-District-Judges)
 
 - [10 Appointments and qualifications of Magistrates](#Appointments-and-qualifications-of-Magistrates)
@@ -188,7 +190,7 @@
 
 - [70 Conversion of pending petitions to writs of summons and originating summonses](#Conversion-of-pending-petitions-to-writs-of-summons-and-originating-summonses)
 
-[**THE SCHEDULE Forms of Oaths and Affirmations**](#THE-SCHEDULE)
+[**THE SCHEDULE Forms of oaths and affirmations**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -236,15 +238,17 @@ PRELIMINARY
 
 (a) in sections 26(a) and 27, $3 million or such other amount as may be specified by an order under section 30; and
 
-(b) in any other section, $250,0001or such other amount as may be specified by an order under section 30;
+(b) in any other section, $250,000\*or such other amount as may be specified by an order under section 30;
 
-1O1 (S 333/97) — Subordinate Courts (Variation of District Court Limit) Order.
+\*O1 (S 333/97) — Subordinate Courts (Variation of District Court Limit) Order.
 
-“judicial officer” means a District Judge, Magistrate, or registrar;
+“judicial officer” means a District Judge, Magistrate or registrar;
 
-“Magistrate’s Court limit” means $60,0002or such other amount as may be specified by an order under section 52(3);
+[14/2010 wef 02/01/2011]
 
-2O 2 (S 263/99) — Subordinate Courts (Variation of Magistrate’s Court Limit) Order
+“Magistrate’s Court limit” means $60,000†or such other amount as may be specified by an order under section 52(3);
+
+†O 2 (S 263/99) — Subordinate Courts (Variation of Magistrate’s Court Limit) Order.
 
 “prescribed” means prescribed by Rules of Court;
 
@@ -298,9 +302,9 @@ CONSTITUTION
 
 ### Seals of courts
 
-5\. The State Courts shall have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in theGazette3, prescribe.
+5\. The State Courts shall have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in theGazette\*, prescribe.
 
-3N 1, 1997 Ed. (S 230/75).
+\*N 1, 1997 Ed. (S 230/75).
 
 [Act 5 of 2014 wef 07/03/2014]
 
@@ -322,7 +326,11 @@ CONSTITUTION
 
 (2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Saturday, Sunday or public holiday or during a vacation authorised under section 61 if —
 
-(a) the Chief District Judge, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
+(a) the Presiding Judge of the State Courts, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 (b) in the opinion of the judicial officer, the business to be despatched is extremely urgent.
 
@@ -368,13 +376,15 @@ which is contained in any court document intended to be produced before the cour
 
 (4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[15/2010 wef 02/01/2011]
+
 ### Contempt
 
 8\.—(1) The State Courts shall have power to punish for contempt of court where the contempt is committed —
 
 (a) in the face of the court; or
 
-(b) in connection with any proceedings in the subordinate courts.
+(b) in connection with any proceedings in the State Courts.
 
 [4/96]
 
@@ -392,15 +402,31 @@ which is contained in any court document intended to be produced before the cour
 
 [4/96]
 
+[15/2010 wef 02/01/2011]
+
 ## PART III
 
 APPOINTMENTS, POWERS AND DUTIES
 
+### Appointment of Presiding Judge of State Courts
+
+8A\.—(1) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Judge or Judicial Commissioner of the Supreme Court to be the Presiding Judge of the State Courts for such period as the Chief Justice may recommend.
+
+(2) Notwithstanding any other written law, the Presiding Judge of the State Courts may sit in any State Court and act as a judge (however described) thereof, in which case he shall have all the jurisdiction, power and privileges of such a judge.
+
+(3) A Judge or Judicial Commissioner of the Supreme Court may, during the period of his appointment as the Presiding Judge of the State Courts, continue to sit in the High Court or the Court of Appeal in accordance with the Supreme Court of Judicature Act (Cap. 322).
+
+(4) Any person appointed to be the Presiding Judge of the State Courts shall, although the period of his appointment as such has expired or his appointment as such has been revoked, in relation to any case heard by him as a judge (however described) of a State Court, continue to sit as such a judge for the purpose of giving judgment or otherwise.
+
+[Act 5 of 2014 wef 14/04/2014]
+
 ### Appointments and qualifications of District Judges
 
-9\.—(1) A District Court shall be presided over by a District Judge appointed by the President on the recommendation of the Chief Justice.
+9\.—(1) Subject to section 8A, a District Court shall be presided over by a District Judge appointed by the President on the recommendation of the Chief Justice.
 
-(2) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Chief District Judge who shall have seniority over all other District Judges.
+[Act 5 of 2014 wef 14/04/2014]
+
+(2) [Deleted by Act 5 of 2014 wef 14/04/2014]
 
 (3) No person shall be appointed to be or to act as a District Judge unless he has been for not less than 7 years a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161).
 
@@ -420,7 +446,9 @@ APPOINTMENTS, POWERS AND DUTIES
 
 ### Appointments and qualifications of Magistrates
 
-10\.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate .
+10\.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate.
+
+[14/2010 wef 02/01/2011]
 
 (2) No person shall be appointed to be or to act as a Magistrate unless he has been for not less than 3 years a qualified person as defined in section 2 of the Legal Profession Act.
 
@@ -476,9 +504,13 @@ APPOINTMENTS, POWERS AND DUTIES
 
 ### Solicitor, etc., authorised to act as bailiff
 
-15A\.—(1) Subject to such directions as may be given by the Chief District Judge, the registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the registrar thinks fit and subject to such terms and conditions as the registrar may determine.
+15A\.—(1) Subject to such directions as may be given by the Presiding Judge of the State Courts, the registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the registrar thinks fit and subject to such terms and conditions as the registrar may determine.
 
 [15/93]
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 (2) Section 68(2) shall apply to a solicitor or person authorised under subsection (1) as it applies to an officer of a State Court.
 
@@ -496,15 +528,23 @@ APPOINTMENTS, POWERS AND DUTIES
 
 [Act 5 of 2014 wef 07/03/2014]
 
-(2) The oath referred to in subsection (1) may be taken and subscribed before the Chief District Judge or a Judge of the Supreme Court.
+(2) The oath referred to in subsection (1) may be taken and subscribed before the Presiding Judge of the State Courts or a Judge of the Supreme Court.
 
-(3) Where the oath is taken before the Chief District Judge, he shall —
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
+
+(3) Where the oath is taken before the Presiding Judge of the State Courts, he shall —
 
 (a) enter in the record of the State Courts that the oath was duly administered and taken before him; and
 
 [Act 5 of 2014 wef 07/03/2014]
 
+[4/2010 wef 17/02/2010]
+
 (b) transmit a certified copy of the entry to the Registrar of the Supreme Court.
+
+[Act 5 of 2014 wef 14/04/2014]
 
 ### Appointments and revocations to be gazetted
 
@@ -614,6 +654,8 @@ Transfer of counterclaim from District Court to High Court
 
 [15/93]
 
+[31/2010 wef 01/01/2011]
+
 ### Equity jurisdiction
 
 26\. Without prejudice to the generality of section 19, a District Court shall have jurisdiction under section 19(2) to hear and try any of the following proceedings:
@@ -633,6 +675,8 @@ Transfer of counterclaim from District Court to High Court
 (g) proceedings for relief against fraud or mistake where the damage sustained or the amount or value of the estate or fund in respect of which relief is sought does not exceed the District Court limit.
 
 [15/93; 5/2005]
+
+[31/2010 wef 01/01/2011]
 
 ### Jurisdiction to grant probates
 
@@ -655,6 +699,8 @@ Transfer of counterclaim from District Court to High Court
 (b) where the person seeking relief is under liability for any debt, money, or other movable property of which the amount or value does not exceed the District Court limit and for or in respect of which he has been or expects to be sued by 2 or more parties making adverse claims thereto.
 
 [6/76; 3/86; 15/93]
+
+[31/2010 wef 01/01/2011]
 
 (2) If it appears to the High Court that any proceedings in the High Court by way of interpleader, in which the amount in dispute or value of the subject-matter does not exceed the District Court limit, may be more conveniently tried in a District Court, the High Court may at any time order that the proceedings be transferred to a District Court.
 
@@ -695,6 +741,8 @@ as ought to be granted or given in the like action by the High Court and in as f
 32\. A District Judge shall have power in any civil proceeding pending in a District Court to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers.
 
 [15/93]
+
+[31/2010 wef 01/01/2011]
 
 ### Assessors
 
@@ -747,6 +795,8 @@ General power to transfer from District Court to High Court
 [15/93]
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[31/2010 wef 01/01/2011]
 
 (2) For the purposes of subsection (1)(a) and (b), a plaintiff shall be treated as recovering the full amount recoverable in respect of his claim without regard to any deduction made in respect of contributory negligence on his part or otherwise in respect of matters not falling to be taken into account in determining whether the action could have been commenced in a State Court.
 
@@ -952,6 +1002,8 @@ as ought to be granted or given in the like action by the High Court and in as f
 
 (2) In exercising its jurisdiction under subsection (1) or powers under subsection (1B), a Magistrate’s Court shall be subject to the same limitations and provisions as are applicable to a District Court under this Act.
 
+[31/2010 wef 01/01/2011]
+
 (3) The President may, after consulting the Chief Justice, by order vary the Magistrate’s Court limit.
 
 [15/93]
@@ -986,9 +1038,7 @@ Transfers of Civil Proceedings
 
 (2) An order under subsection (1) may be made on such terms as the court sees fit.
 
-Explanation.—The intended enforcement overseas of any judgment obtained in the High Court, under any enforcement arrangements currently in force, would ordinarily be sufficient reason for transferring the proceedings to the High Court
-
-.
+Explanation—The intended enforcement overseas of any judgment obtained in the High Court, under any enforcement arrangements currently in force, would ordinarily be sufficient reason for transferring the proceedings to the High Court.
 
 [26/2005]
 
@@ -1006,9 +1056,7 @@ Explanation.—The intended enforcement overseas of any judgment obtained in the
 
 (3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.
 
-Explanation.—The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the High Court under any enforcement arrangements currently in force
-
-.
+Explanation— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the High Court under any enforcement arrangements currently in force.
 
 [26/2005]
 
@@ -1114,8 +1162,6 @@ the costs of the whole proceedings both before and after the transfer shall, sub
 
 [Act 5 of 2014 wef 07/03/2014]
 
-[Act 5 of 2014 wef 07/03/2014]
-
 Jurisdiction of Juvenile Courts
 
 ### Jurisdiction of Juvenile Courts
@@ -1124,7 +1170,7 @@ Jurisdiction of Juvenile Courts
 
 56\. [Repealed by Act 14/2010 wef 02/01/2011]
 
-56A\. [Deleted by Act 15/2010 wef 02/01/2011]
+56A\. [Repealed by Act 15/2010 wef 02/01/2011]
 
 ## PART V
 
@@ -1140,15 +1186,23 @@ ADMINISTRATION
 
 (2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —
 
-(a) the Chief District Judge, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
+(a) the Presiding Judge of the State Courts, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 (b) in the opinion of the registrar, the business to be despatched is extremely urgent.
 
 [8/98; 2/2007]
 
-(3) The office hours of the Registry shall be such times as the Chief District Judge, with the concurrence of the Chief Justice, may from time to time direct.
+(3) The office hours of the Registry shall be such times as the Presiding Judge of the State Courts, with the concurrence of the Chief Justice, may from time to time direct.
 
 [8/98]
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 ### Nature of business at any sitting
 
@@ -1156,9 +1210,13 @@ ADMINISTRATION
 
 ### Distribution of business
 
-59\. The distribution of business in the State Courts shall be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Chief District Judge.
+59\. The distribution of business in the State Courts shall be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Presiding Judge of the State Courts.
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 ### Office of State Court
 
@@ -1166,7 +1224,11 @@ ADMINISTRATION
 
 [Act 5 of 2014 wef 07/03/2014]
 
-(2) Subject to such directions as may be given by the Chief Justice from time to time, the Chief District Judge shall be responsible for the apportionment of the work among the several officers in any such office.
+(2) Subject to such directions as may be given by the Chief Justice from time to time, the Presiding Judge of the State Courts shall be responsible for the apportionment of the work among the several officers in any such office.
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 ### Vacations for District and Magistrates’ Courts
 
@@ -1174,17 +1236,29 @@ ADMINISTRATION
 
 ### List of touts
 
-62\.—(1) The Chief District Judge may frame and publish a list of persons proved to his satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons, and may alter and amend the list.
+62\.—(1) The Presiding Judge of the State Courts may frame and publish a list of persons proved to his satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons, and may alter and amend the list.
 
-(2) The Chief District Judge may, by general or special order, exclude from the precincts of the State Courts any person whose name is included in the list, except when such person is a party to or a witness in any proceedings in a State Court, when he shall be allowed to remain for such time as is necessary.
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
+
+(2) The Presiding Judge of the State Courts may, by general or special order, exclude from the precincts of the State Courts any person whose name is included in the list, except when such person is a party to or a witness in any proceedings in a State Court, when he shall be allowed to remain for such time as is necessary.
 
 [Act 5 of 2014 wef 07/03/2014]
 
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
+
 (3) No person’s name shall be included in the list until he has been heard or had an opportunity of being heard against such inclusion.
 
-(4) An appeal shall lie to a Judge of the High Court in chambers from an order made by the Chief District Judge to include a person’s name in the list.
+(4) An appeal shall lie to a Judge of the High Court in chambers from an order made by the Presiding Judge of the State Courts to include a person’s name in the list.
 
 [16/93]
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 (5) The decision of the Judge of the High Court shall be final.
 
@@ -1244,9 +1318,13 @@ ADMINISTRATION
 
 (b) with not duly paying or accounting for any money levied by him under the authority of this Act or Rules of Court,
 
-it shall be lawful for a District Judge nominated by the Chief District Judge to inquire into the matter in a summary manner.
+it shall be lawful for a District Judge nominated by the Presiding Judge of the State Courts to inquire into the matter in a summary manner.
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 (2) For the purpose of any such inquiry, the District Judge may summon and enforce the attendance of all necessary parties in the like manner as the attendance of witnesses in any case may be enforced.
 
@@ -1358,9 +1436,13 @@ then, if any such action or application that has been commenced or made before t
 
 [42/2005]
 
-(2) The Chief District Judge, with the concurrence of the Chief Justice, may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons or an originating summons, as is appropriate.
+(2) The Presiding Judge of the State Courts, with the concurrence of the Chief Justice, may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons or an originating summons, as is appropriate.
 
 [42/2005]
+
+[Act 5 of 2014 wef 14/04/2014]
+
+[4/2010 wef 17/02/2010]
 
 (3) Where pursuant to subsection (1) or (2) any pending action or application has been converted to an action or application commenced or made by way of a writ of summons or an originating summons —
 
@@ -1374,29 +1456,29 @@ then, if any such action or application that has been commenced or made before t
 
 Section 17(1)
 
-Forms of Oaths and Affirmations
+Forms of oaths and affirmations
 
 1. OATHS OF OFFICE AND ALLEGIANCE OF A JUDICIAL OFFICER
 
-I, ................................................................................................, having been appointed to the office of ................................................................................................ do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.
+I, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.
 
-Taken and subscribed before me at ...................................................... this .............. day of ........................... .
+Taken and subscribed before me at this day of .
 
 Officer Administering the Oath
 
 2. OATH OF OFFICE OF AN INTERPRETER
 
-I,................................................................................................., having been appointed an interpreter of the .................................................................................... Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the .................................................. language into the English language and from the English language into the ................................... language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
+I, , having been appointed an interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
 
-Taken and subscribed before me at ............................................................. this ................ day of ......................................... .
+Taken and subscribed before me at this day of .
 
 Officer Administering the Oath
 
 3. OATH OF OFFICE OF OTHER OFFICER OF A COURT
 
-I,.............................................................................................. , having been appointed to the office of ............................................................................................ in the ................................... Court do solemnly swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, neither will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.
+I, , having been appointed to the office of in the Court do solemnly swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, neither will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.
 
-Taken and subscribed before me at ................................. this ............................. day of ................................. .
+Taken and subscribed before me at this day of .
 
 Officer Administering the Oath
 
@@ -1406,9 +1488,9 @@ State Courts Act
 
 (CHAPTER 321)
 
-formerly known as the Subordinate Courts Act
+(formerly known as the Subordinate Courts Act)
 
-This Legislative History is provided for the convenience of users of the Subordinate Courts Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Subordinate Courts Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1531,6 +1613,10 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|26.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|14 April 2014|
 ## COMPARATIVE TABLE
 
 State Courts Act
