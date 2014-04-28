@@ -100,11 +100,13 @@
 
 - [34 Supervision, treatment and rehabilitation of drug addicts](#Supervision-treatment-and-rehabilitation-of-drug-addicts)
 
-- [35 Approved institutions](#Approved-institutions)
+- [35 Approved institutions and community rehabilitation centres](#Approved-institutions-and-community-rehabilitation-centres)
 
 - [36 Administration of approved institutions](#Administration-of-approved-institutions)
 
-- [37 Review Committees for approved institutions](#Review-Committees-for-approved-institutions)
+- [36A Administration of community rehabilitation centres](#Administration-of-community-rehabilitation-centres)
+
+- [37 Review Committees for approved institutions and community rehabilitation centres](#Review-Committees-for-approved-institutions-and-community-rehabilitation-centres)
 
 - [38 Review, discharge and transfer of inmates](#Review-discharge-and-transfer-of-inmates)
 
@@ -222,6 +224,10 @@ PRELIMINARY
 
 “committee of inquiry” means a committee of inquiry convened under section 41;
 
+“community rehabilitation centre” means any place declared by the Minister as such under section 35;
+
+[Act 30 of 2012 wef 28/04/2014]
+
 “controlled drug” means any substance or product which is for the time being specified in Part I, II or III of the First Schedule or anything that contains any such substance or product;
 
 “controlled equipment, controlled material or controlled substance” means any equipment, material or substance, respectively, specified in the Third Schedule;
@@ -246,7 +252,9 @@ PRELIMINARY
 
 “immigration officer” has the same meaning as in the Immigration Act (Cap. 133);
 
-“inmate” means a person who is detained in an approved institution;
+“inmate” means a person who is detained in an approved institution or a community rehabilitation centre;
+
+[Act 30 of 2012 wef 28/04/2014]
 
 “manufacture”, in relation to —
 
@@ -1088,9 +1096,13 @@ TREATMENT AND REHABILITATION
 
 [12/77]
 
-(4) If the Review Committee of an approved institution is of the opinion that an inmate of that institution whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may by order in writing direct that the inmate be detained in the institution for a further period or periods not exceeding 6 months at any one time.
+(3A) Where a person who is admitted to an approved institution under this section is transferred from that approved institution to one or more other approved institutions or to one or more community rehabilitation centres, the combined period of his detention in all the approved institutions and community rehabilitation centres shall not be less than 6 months unless he is discharged earlier by the Director or the Review Committee of the approved institution or community rehabilitation centre.
 
-[12/77]
+[Act 30 of 2012 wef 28/04/2014]
+
+(4) If the Review Committee of an approved institution or a community rehabilitation centre is of the opinion that an inmate of that institution or centre whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may, by order in writing, direct that the inmate be detained in the institution or centre for a further period or periods not exceeding 6 months at any one time.
+
+[Act 30 of 2012 wef 28/04/2014]
 
 (4A) The Director may, under such circumstances as may be prescribed, extend the period for which a person is subject to supervision under subsection (2)(a) or (2A) for a period not exceeding 2 years.
 
@@ -1098,15 +1110,17 @@ TREATMENT AND REHABILITATION
 
 [Act 30 of 2012 wef 01/05/2013]
 
-(5) No person in respect of whom an order has been made under subsection (2)(b) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+(5) No person in respect of whom an order has been made under subsection (2)(b) shall be detained in an approved institution or institutions or a community rehabilitation centre or centres for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+
+[Act 30 of 2012 wef 28/04/2014]
 
 [12/77; 28/79; 2/2006]
 
-### Approved institutions
+### Approved institutions and community rehabilitation centres
 
-35\. The Minister may from time to time, by notification in theGazette, declare any institution or place to be an approved institution for the purpose of the treatment and rehabilitation of drug addicts and other persons under this Act and may at any time in like manner revoke or amend any such notification.
+35\. The Minister may, from time to time, by notification in theGazette, declare any institution or place to be an approved institution or a community rehabilitation centre for the purpose of the treatment and rehabilitation of drug addicts and other persons under this Act, and may at any time in like manner revoke or amend any such notification.
 
-[12/77]
+[Act 30 of 2012 wef 28/04/2014]
 
 ### Administration of approved institutions
 
@@ -1130,9 +1144,21 @@ TREATMENT AND REHABILITATION
 
 [20/98]
 
-### Review Committees for approved institutions
+### Administration of community rehabilitation centres
 
-37\.—(1) The Minister shall appoint for any approved institution or institutions a Review Committee which shall have such functions as are conferred upon it by this Act.
+36A\.—(1) Subject to the directions of the Minister, the general charge and administration of a community rehabilitation centre shall be under the Director of Prisons.
+
+[Act 30 of 2012 wef 28/04/2014]
+
+(2) The Director of Prisons may appoint a person to be the manager of the community rehabilitation centre and such person shall be responsible for the supervision and administration of that community rehabilitation centre.
+
+[Act 30 of 2012 wef 28/04/2014]
+
+### Review Committees for approved institutions and community rehabilitation centres
+
+37\.—(1) The Minister shall appoint for any approved institution or institutions, or any community rehabilitation centre or centres, a Review Committee which shall have such functions as are conferred upon it by this Act.
+
+[Act 30 of 2012 wef 28/04/2014]
 
 [12/77]
 
@@ -1168,37 +1194,41 @@ TREATMENT AND REHABILITATION
 
 (8) Any order of the Review Committee may be signed by the Chairman or a member of the Committee.
 
+[Act 30 of 2012 wef 28/04/2014]
+
 [12/77]
 
 ### Review, discharge and transfer of inmates
 
-38\.—(1) The Review Committee of an approved institution shall keep the case of every inmate under review and shall, as often as practicable, consider whether he should be discharged.
+38\.—(1) The Review Committee of an approved institution or a community rehabilitation centre shall keep the case of every inmate under review and shall, as often as practicable, consider whether he should be discharged.
 
-[12/77]
+[Act 30 of 2012 wef 28/04/2014]
 
-(2) The Director or the Review Committee of an approved institution may at any time by order in writing —
+(2) The Director or the Review Committee of an approved institution or a community rehabilitation centre may at any time by order in writing —
 
 (a) discharge any inmate; or
 
-(b) transfer any inmate from one approved institution to another approved institution.
+(b) transfer any inmate from one approved institution or community rehabilitation centre to another approved institution or community rehabilitation centre.
 
-[12/77]
+[Act 30 of 2012 wef 28/04/2014]
 
-(3) The Superintendent of an approved institution may enter into an arrangement with the Superintendent of another approved institution for the transfer of any inmate to that other institution and may, subject to any direction given by the Director or the Review Committee, carry out any transfer in accordance with that arrangement.
+(3) The Superintendent of an approved institution or the manager of a community rehabilitation centre may enter into an arrangement with the Superintendent of another approved institution or the manager of another community rehabilitation centre for the transfer of any inmate to that other institution or community rehabilitation centre and may, subject to any direction given by the Director or the Review Committee, carry out any transfer in accordance with that arrangement.
 
-[12/77]
+[Act 30 of 2012 wef 28/04/2014]
 
-(4) On proof to his satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the Superintendent may order that the inmate be taken to that place.
+(4) On proof to his satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the Superintendent of an approved institution or the manager of a community rehabilitation centre may order that the inmate be taken to that place.
 
-[28/79]
+[Act 30 of 2012 wef 28/04/2014]
 
 ### Power of Magistrate to inquire into complaint of misconduct or breach of duty
 
-39\.—(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved institution by reason of any misconduct or breach of duty on the part of any officer in the discharge of his functions pursuant to this Act, the Magistrate may —
+39\.—(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved institution or a community rehabilitation centre by reason of any misconduct or breach of duty on the part of any officer in the discharge of his functions pursuant to this Act, the Magistrate may —
 
 (a) inquire into the complaint himself; or
 
 (b) direct a police officer to make an inquiry for the purpose of ascertaining the truth or falsehood of the complaint and report to the Magistrate the result of the inquiry.
+
+[Act 30 of 2012 wef 28/04/2014]
 
 [12/77]
 
@@ -1210,9 +1240,9 @@ TREATMENT AND REHABILITATION
 
 [12/77]
 
-(4) If, after considering the result of any such inquiry, the Magistrate is satisfied that any person who is detained in an approved institution ought not to be so detained, the Magistrate may make an order for the discharge of that person from the approved institution and that person shall be discharged accordingly.
+(4) If, after considering the result of any such inquiry, the Magistrate is satisfied that any person who is detained in an approved institution or a community rehabilitation centre ought not to be so detained, the Magistrate may make an order for the discharge of that person from the approved institution or community rehabilitation centre and that person shall be discharged accordingly.
 
-[12/77]
+[Act 30 of 2012 wef 28/04/2014]
 
 (5) Any order or decision of the Magistrate made under this section shall be final.
 
@@ -1224,19 +1254,19 @@ TREATMENT AND REHABILITATION
 
 ### Inmates deemed to be in legal custody
 
-40\.—(1) Every inmate shall be deemed to be in the legal custody of the approved institution in which he is for the time being detained.
+40\.—(1) Every inmate shall be deemed to be in the legal custody of the approved institution or community rehabilitation centre in which he is for the time being detained.
 
-[28/79]
+[Act 30 of 2012 wef 28/04/2014]
 
 (2) An inmate shall be deemed to be in legal custody —
 
-(a) while he is confined in, or is being taken to or from, an approved institution;
+(a) while he is confined in, or is being taken to or from, an approved institution or a community rehabilitation centre;
 
-(b) while he is for any other reason outside an approved institution in the custody or under the control of an officer of the approved institution; or
+(b) while he is for any other reason outside an approved institution or a community rehabilitation centre and in the custody or under the control of an officer of the approved institution or community rehabilitation centre; or
 
 (c) while he is being taken to any place to which he is required or authorised under this Act to be taken, or is kept in custody in pursuance of any such requirement or authorisation.
 
-[28/79]
+[Act 30 of 2012 wef 28/04/2014]
 
 ## PART V
 
@@ -1676,13 +1706,19 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 (l) prescribing the punishment by a fine not exceeding $10,000 or imprisonment for a term not exceeding 4 years or both to be imposed on the conviction for a breach of the regulations;
 
-(m) providing for the management, maintenance and inspection of approved institutions;
+(m) providing for the management, maintenance and inspection of approved institutions or community rehabilitation centres;
+
+[Act 30 of 2012 wef 28/04/2014]
 
 (n) prescribing the functions and procedure of Review Committees;
 
-(o) providing for the control, discipline (including the imposition of corporal punishment) and occupation of inmates and for the granting of leave to inmates for the purpose of their employment outside an approved institution and to return to their residences or other designated places;
+(o) providing for the control, discipline (including the imposition of corporal punishment) and occupation of inmates and for the granting of leave to inmates for the purpose of their employment outside an approved institution or a community rehabilitation centre and to return to their residences or other designated places;
 
-(p) prescribing the appointment and duties of officers of approved institutions;
+[Act 30 of 2012 wef 28/04/2014]
+
+(p) prescribing the appointment and duties of officers of approved institutions or community rehabilitation centres;
+
+[Act 30 of 2012 wef 28/04/2014]
 
 (q) providing for the supervision and aftercare of persons referred to in section 34(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b);
 
@@ -3694,7 +3730,7 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|14 August 2006|
 |38.|**G. N. No. S 560/2006—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2006**|
 ||Date of commencement|1 October 2006|
-|39.|**G. N. No. S 402/2007—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2007**|
+|39.|**G. N. No. S 402/2007—Misuse of Drugs Act Act (Amendment of Fourth Schedule) Order 2007**|
 ||Date of commencement|1 August 2007|
 |40.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
 ||(Consequential amendments made to Act by)||
@@ -3704,7 +3740,7 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 January 2008|
 |41.|**2008 Revised Edition—Misuse of Drugs Act**|
 ||Date of operation|31 March 2008|
-|42.|**G. N. No. S 685/2010—Misuse of Drugs (Amendment of First Schedule) Order 2010**|
+|42.|**G. N. No. S 685/2010—Misuse of Drugs Act (Amendment of First Schedule) Order 2010**|
 ||Date of commencement|15 November 2010|
 |43.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
@@ -3729,6 +3765,11 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 May 2013|
 |47.|**G.N. No. S 273/2013—Misuse of Drugs Act (Amendment of Fifth Schedule) Order 2013**|
 ||Date of commencement|2 May 2013|
+|48.|**Act 30 of 2012—Misuse of Drugs (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 27/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|28 April 2014|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
