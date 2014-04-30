@@ -28,15 +28,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # House to House and Street Collections Act
 
 (CHAPTER 128)
 
 (Original Enactment: Ordinance 19 of 1947)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(30th April 2014)
 
 An Act to regulate house to house and street collections.
 
@@ -66,7 +68,7 @@ An Act to regulate house to house and street collections.
 
 ### House to house and street collections to be licensed
 
-3\.—(1) Subject to the provisions of this Act, no collection shall be made unless the requirements of this Act as to a licence for the promotion thereof are satisfied.
+3\.—(1) Subject to the provisions of this Act, no collection shall be made unless the requirements of this Act as to a licence for the promotion of a collection are satisfied.
 
 (2) If any person promotes a collection, and a collection is made in any locality pursuant to his promotion, then, unless there is in force, throughout the period during which the collection is made, a licence authorising him, or authorising another under whose authority he acts, to promote that collection, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -74,43 +76,43 @@ An Act to regulate house to house and street collections.
 
 ### Licences
 
-4\.—(1) Where any person who desires to promote a collection in Singapore makes to the Commissioner of Police an application in the prescribed manner specifying the purpose of the collection, and furnishes him with the prescribed information, the Commissioner of Police shall, subject to the following provisions of this section and to such conditions as he thinks fit to impose, grant to him a licence authorising him to promote a collection for that purpose.
+4\.—(1) Where any person who desires to promote a collection in Singapore makes to the Commissioner of Police an application in the prescribed manner specifying the purpose of the collection, and furnishes him with the prescribed information, the Commissioner of Police shall, subject to the following provisions of this section and to such conditions as he thinks fit to impose, grant to the person a licence authorising the person to promote a collection for that purpose.
 
-(2) A licence granted under this section shall be for such period as the Commissioner of Police may in his discretion determine. The period in respect of which the licence is granted shall be specified in the licence.
+(2) A licence granted under this section shall be for such period as the Commissioner of Police may in his discretion determine, and the period in respect of which the licence is granted shall be specified in the licence.
 
 (3) Every application for a licence shall specify an address within Singapore for service on the applicant of any notice or other communication required to be served on him.
 
 (4) The Commissioner of Police may, in his discretion, refuse to grant a licence or may at any time revoke a licence granted by him, if it appears to him —
 
-(a) that the total amount likely to be applied for the purpose of the collection from the proceeds thereof (including any amount already so applied) is inadequate in proportion to the value of the proceeds likely to be received (including any proceeds already received);
+(a) that the total amount likely to be applied for the purpose of the collection from the proceeds of the collection (including any amount already so applied) is inadequate in proportion to the value of the proceeds likely to be received (including any proceeds already received);
 
-(b) that remuneration which is excessive in relation to the total amount aforesaid is likely to be, or has been, retained or received out of the proceeds of the collection by any person;
+(b) that remuneration which is excessive in relation to the total amount referred to in paragraph (a) is likely to be, or has been, retained or received out of the proceeds of the collection by any person;
 
 (c) that the grant of a licence would be likely to facilitate the commission of an offence under any written law, or that any such offence has been committed in connection with the collection, and in particular, that any force, threat or compulsion is likely to be, or has been, used in order to obtain any contribution for the purpose of the collection;
 
 (d) that the applicant or the holder of the licence is not a fit and proper person to hold a licence by reason of the fact that he has been convicted, whether in Singapore or elsewhere, of any offence conviction for which necessarily involved or implied a finding that he had acted fraudulently or dishonestly, or of any offence of a kind the commission of which would be likely to be facilitated by the grant of a licence;
 
-(e) that the applicant or the holder of the licence, in promoting a collection in respect of which a licence has been granted to him, has failed to exercise due diligence to ensure that persons authorised by him to act as collectors for the purposes of the collection were fit and proper persons to secure compliance on the part of persons so authorised with the provisions of this Act or any regulations made thereunder, or to prevent prescribed badges or prescribed certificates of authority being obtained by persons not so authorised;
+(e) that the applicant or the holder of the licence, in promoting a collection in respect of which a licence has been granted to him, has failed to exercise due diligence to ensure that persons authorised by him to act as collectors for the purposes of the collection were fit and proper persons to secure compliance on the part of persons so authorised with the provisions of this Act or any of its regulations, or to prevent prescribed badges or prescribed certificates of authority being obtained by persons not so authorised;
 
 (f) that the collection is in aid of, or that the promoter or any of the collectors are members of, an unlawful society, or that the purpose of the collection is illegal, fictitious or objectionable on grounds of public policy, or that the refusal or revocation of a licence is otherwise desirable in the public interest; or
 
 (g) that the applicant or the holder of the licence has furnished false information to the Commissioner of Police or has refused or neglected to furnish to the Commissioner of Police such information as he may have reasonably required for the purpose of informing himself as to any of the matters specified in paragraphs (a) to (f).
 
-(5) When the Commissioner of Police refuses to grant a licence or revokes a licence which has been granted, he shall forthwith give written notice to the applicant or the holder of the licence stating upon which one or more of the grounds set out in subsection (4) the licence has been refused or revoked and informing him of the right of appeal given by this section, and the applicant or the holder of the licence may thereupon appeal to the Minister against the refusal or revocation of the licence, as the case may be, and the decision of the Minister shall be final:
+(5) Subject to subsection (6), when the Commissioner of Police refuses to grant a licence or revokes a licence which has been granted, the Commissioner of Police shall forthwith give written notice to the applicant or the holder of the licence stating upon which one or more of the grounds set out in subsection (4) the licence has been refused or revoked and informing him of the right of appeal given by this section, and the applicant or the holder of the licence may then appeal to the Minister against the refusal or revocation of the licence, as the case may be, and the decision of the Minister shall be final.
 
-Provided that in any case in which the refusal or revocation by the Commissioner of Police was based on any ground mentioned in subsection (4)(f) the Commissioner of Police may decline to state his reasons for the refusal or revocation or to disclose the nature or source of the information on which he acted.
+(6) In any case in which the refusal or revocation by the Commissioner of Police under subsection (5) was based on any ground mentioned in subsection (4)(f), the Commissioner of Police may decline to state his reasons for the refusal or revocation or to disclose the nature or source of the information on which he acted.
 
-(6) The time within which any such appeal may be brought shall be 14 days from the date on which notice is given under subsection (5).
+(7) The time within which any such appeal may be brought shall be 14 days from the date on which notice is given under subsection (5).
 
-(7) If the Minister decides that the appeal shall be allowed, the Commissioner of Police shall forthwith grant a licence or cancel the revocation, as the case may be, in accordance with the decision of the Minister.
+(8) If the Minister decides that the appeal shall be allowed, the Commissioner of Police shall forthwith grant a licence or cancel the revocation, as the case may be, in accordance with the decision of the Minister.
 
 ### Regulations
 
 5\.—(1) The Minister may make regulations for prescribing anything which by this Act is required to be prescribed and for regulating the manner in which licensed collections may be carried out and the conduct of promoters and collectors in relation to such collections, and generally to give effect to the provisions of this Act.
 
-(2) Without prejudice to the generality of the powers conferred by subsection (1), regulations made thereunder may provide for all or any of the following matters:
+(2) Without prejudice to the generality of the powers conferred by subsection (1), regulations made under this Act may provide for all or any of the following matters:
 
-(a) for requiring and regulating the use by collectors of prescribed badges and prescribed certificates of authority, and the issue, custody, production, display and return thereof, and, in particular, for requiring collectors on demand by a police officer or by any occupant of a house visited or person solicited to produce their certificates of authority;
+(a) for requiring and regulating the use by collectors of prescribed badges and prescribed certificates of authority, and the issue, custody, production, display and return of such badges and certificates of authority, and, in particular, for requiring collectors on demand by a police officer or by any occupant of a house visited or person solicited to produce their certificates of authority;
 
 (b) for the authentication of prescribed certificates of authority and for the clear indication in prescribed badges of the purpose of the collection;
 
@@ -126,7 +128,7 @@ Provided that in any case in which the refusal or revocation by the Commissioner
 
 (h) for prescribing penalties for contravention of, or failure to comply with, any such regulations.
 
-(3) Any person who contravenes or fails to comply with any regulations made under this Act shall be guilty of an offence.
+(3) Any person who contravenes any regulations made under this Act shall be guilty of an offence.
 
 (4) Regulations made under this Act shall be presented to Parliament and when approved, by a resolution of Parliament, shall have the same force as if they had been enacted as part of this Act.
 
@@ -140,27 +142,27 @@ Provided that in any case in which the refusal or revocation by the Commissioner
 
 shall be guilty of an offence.
 
-(2) Any person who, in furnishing any information for the purposes of this Act or any regulations made thereunder, knowingly or recklessly makes any statement which is false in any material particular shall be guilty of an offence.
+(2) Any person who, in furnishing any information for the purposes of this Act or any of its regulations, knowingly or recklessly makes any statement which is false in any material particular shall be guilty of an offence.
 
 ### Collector to give name, etc., to police on demand
 
-7\. Any police officer may require any person whom he believes to be acting as a collector for the purposes of a collection to declare to him immediately his name and address and if any person fails to comply with a requirement duly made to him under this section he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+7\. Any police officer may require any person whom he believes to be acting as a collector for the purposes of a collection to declare to him immediately the person’s name and address and, if any person fails to comply with a requirement duly made to the person under this section, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
 
 ### Penalties
 
-8\.—(1) Any person guilty of an offence under this Act for which no special penalty is provided by this Act or by any regulations made thereunder shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+8\.—(1) Any person guilty of an offence under this Act for which no special penalty is provided by this Act or by any of its regulations shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (2) Where any offence under this Act is committed by any corporation, society, association or body of persons, every person charged with, or concerned or acting in, the control or management of the affairs or activities of the corporation, society, association or body of persons shall be deemed to be guilty of that offence and shall be liable to be punished accordingly unless it is proved by any such person that, through no neglect or omission on his part, he was not aware that the offence was being or was about to be committed or that he took all reasonable steps to prevent its commission.
 
 ### Jurisdiction
 
-9\.—(1) Notwithstanding any provisions to the contrary contained in any written law for the time being in force, a District Court or a Magistrate's Court shall have jurisdiction to try any offence under this Act and to award any punishment specified or prescribed therefor.
+9\.—(1) Notwithstanding any provisions to the contrary contained in any written law for the time being in force, a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act and to award any punishment specified or prescribed for that offence.
 
-(2) At the conclusion of any trial in respect of an alleged offence under this Act, when the trial results in a conviction, the court may make an order for the return to its owner, if known, or for the forfeiture or confiscation of any money or other property produced before it or in its custody or the custody of the police or of any public servant which, in the opinion of the court, was obtained by or in consequence of the commission of an offence under this Act.
+(2) At the conclusion of any trial in respect of an alleged offence under this Act, when the trial results in a conviction, the court may make an order for the return to its owner, if known, or for the forfeiture or confiscation of any money or other property produced before the court or in the custody of the court, the police or any public servant which, in the opinion of the court, was obtained by or in consequence of the commission of an offence under this Act.
 
 ### Exemption
 
-10\. The Minister may by notification in theGazetteexempt any person from the provisions of this Act subject to such conditions, if any, as he may impose.
+10\. The Minister may, by notification in theGazette,exempt any person from the provisions of this Act subject to such conditions, if any, as the Minister may impose.
 
 ## LEGISLATIVE HISTORY
 
@@ -168,7 +170,7 @@ House to House and Street Collections Act
 
 (CHAPTER 128)
 
-This Legislative History is provided for the convenience of users of the House to House and Street Collections Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the House to House and Street Collections Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -200,3 +202,31 @@ This Legislative History is provided for the convenience of users of the House t
 ||Date of operation|31 July 1971|
 |8.|**1985 Revised Edition—House to House and Street Collections Act (Chapter 128)**|
 ||Date of operation|30 March 1987|
+|9.|**2014 Revised Edition—House to House and Street Collections Act (Chapter 128)**|
+||Date of operation|30 April 2014|
+## COMPARATIVE TABLE
+
+House to House and Street Collections Act
+
+(CHAPTER 128)
+
+The following provisions in the 1985 Revised Edition of the House to House and Street Collections Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the House to House and Street Collections Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+4 —(6)
+
+4 —(5)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
