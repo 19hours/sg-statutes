@@ -14,7 +14,7 @@
 
 - [4 Licensing of homes](#Licensing-of-homes)
 
-- [5 Refusal to issue a licence](#Refusal-to-issue-a-licence)
+- [5 Refusal to issue licence](#Refusal-to-issue-licence)
 
 - [6 Revocation and suspension of licence](#Revocation-and-suspension-of-licence)
 
@@ -54,9 +54,9 @@
 
 (Original Enactment: Act 15 of 1988)
 
-REVISED EDITION 1989
+REVISED EDITION 2014
 
-(15th March 1989)
+(30th April 2014)
 
 An Act to provide for the control, licensing and inspection of homes for the aged and for purposes connected therewith.
 
@@ -70,9 +70,7 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 2\. In this Act, unless the context otherwise requires —
 
-“Director” means the Director of Social Welfare appointed under section 2A(1) of the Children and Young Persons Act (Cap. 38) and includes any person who is authorised by him to perform any of the duties or exercise any of the powers of the Director under this Act or any regulations made thereunder;
-
-[20/2001 wef 01/10/2001]
+“Director” means the Director of Social Welfare appointed under section 3 of the Children and Young Persons Act (Cap. 38) and includes any person who is authorised by him to perform any of the duties or exercise any of the powers of the Director under this Act or any of its regulations;
 
 “home for the aged” means any establishment the object of which is, or is held out to be, the provision of residential accommodation with board and personal care for 5 or more old persons, whether able-bodied or disabled, but does not include —
 
@@ -90,6 +88,8 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 “resident”, in relation to a home, means any old person, except a member of the staff, residing in the home.
 
+[20/2001]
+
 ### Homes to which this Act applies
 
 3\.—(1) The homes to which this Act applies are homes for the aged.
@@ -106,7 +106,7 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 (4) If any condition imposed by or under subsection (3) is not complied with, the person carrying on the home shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-### Refusal to issue a licence
+### Refusal to issue licence
 
 5\. The Director may refuse to issue a licence if he is satisfied —
 
@@ -126,25 +126,25 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 (c) if the premises are no longer being used as a home;
 
-(d) if a home does not conform in all respects with minimum standards of accommodation that may be prescribed;
+(d) if the home does not conform in all respects with minimum standards of accommodation that may be prescribed;
 
-(e) if in the opinion of the Director the construction of the home constitutes a fire risk, or the fire-fighting equipment available, or the means of escape provided, or the other precautions taken for avoiding danger from fire, extinguishing fire or otherwise protecting residents from fire, do not conform with the minimum standard required for homes;
+(e) if, in the opinion of the Director, the construction of the home constitutes a fire risk, or the fire-fighting equipment available, or the means of escape provided, or the other precautions taken for avoiding danger from fire, extinguishing fire or otherwise protecting residents from fire, do not conform with the minimum standard required for homes;
 
 (f) if in the opinion of the Director —
 
-(i) the standard of care available to residents in a home is unsatisfactory;
+(i) the standard of care available to residents in the home is unsatisfactory;
 
 (ii) any resident has been ill-treated or neglected in a manner likely to cause unnecessary suffering or has been kept in an environment that is injurious to his mental or physical health;
 
-(iii) the premises of a home are unsafe for residents or are insanitary; or
+(iii) the premises of the home are unsafe for residents or are insanitary; or
 
-(iv) the premises of a home are in such a condition, or a home is managed or conducted in such a manner, that the revocation of the licence is required in the interests of the residents or in the public interest;
+(iv) the premises of the home are in such a condition, or the home is managed or conducted in such a manner, that the revocation of the licence is required in the interests of the residents or in the public interest;
 
-(g) if a home does not comply with any requirement under this Act or any regulations made thereunder relating to staff;
+(g) if the home does not comply with any requirement under this Act or any of its regulations relating to staff;
 
-(h) if the premises of a home are not repaired or altered as required by the Director;
+(h) if the premises of the home are not repaired or altered as required by the Director;
 
-(i) if a licensee is convicted for contravening any of the provisions of this Act or any regulations made thereunder or if he fails to comply with any direction given by the Director under this Act; or
+(i) if a licensee is convicted for contravening any of the provisions of this Act or any of its regulations or if he fails to comply with any direction given by the Director under this Act; or
 
 (j) if a licensee has contravened or if he fails to comply with any of the conditions specified in the licence.
 
@@ -158,27 +158,27 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 8\.—(1) On the issue of a licence, the licensee shall pay to the Director a fee of such amount as may be prescribed.
 
-(2) A licence shall continue in force for a period of two years from the date of its issue, unless it has been previously revoked but may be renewed by the issue of a new licence.
+(2) A licence shall continue in force for a period of 2 years from the date of its issue, unless it has been previously revoked but may be renewed by the issue of a new licence.
 
 ### Display of licence
 
 9\.—(1) Every licensee shall cause his current licence to be permanently exhibited in some conspicuous place where it can readily be seen by all persons having access to the premises to which the licence relates.
 
-(2) Every licensee who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+(2) Every licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
 ### Transfer of licence
 
-10\. On an application in writing signed by the licensee of any home, and by the person to whom the licensee desires to transfer the licence, the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to that person, and thereupon that person shall become the licensee of the home.
+10\. On an application in writing signed by the licensee of any home, and by the person to whom the licensee desires to transfer the licence, the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to that person, and upon such transfer that person shall then become the licensee of the home.
 
 ### Transfer or revocation of licence upon death of licensee
 
-11\.—(1) If the licensee, or the sole surviving licensee, of a home dies, his surviving spouse or any member of his family or any relative shall within 21 days of his death notify the Director of his death, and the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to a person nominated for the purpose by the executors or administrators of the deceased licensee, and thereupon that person shall become the licensee of the home.
+11\.—(1) If the licensee, or the sole surviving licensee, of a home dies, his surviving spouse or any member of his family or any relative shall within 21 days of his death notify the Director of his death, and the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to a person nominated for the purpose by the executors or administrators of the deceased licensee, and upon such transfer that person shall become the licensee of the home.
 
 (2) Subject to subsection (4), until the licence is transferred in accordance with subsection (1) or unless the licence is revoked under this section or section 6, the home shall continue to be a licensed home under this Act.
 
-(3) If the licence is not transferred in accordance with subsection (1) within 3 months after the death of the licensee or of the sole surviving licensee, the Director may, by notice under his hand published in theGazette, revoke the licence and thereupon the home shall cease to be a licensed home.
+(3) If the licence is not transferred in accordance with subsection (1) within 3 months after the death of the licensee or of the sole surviving licensee, the Director may, by notice under his hand published in theGazette, revoke the licence and upon such revocation the home shall then cease to be a licensed home.
 
-(4) If the Director is not notified of the death of the licensee or of the sole surviving licensee by the end of the period of 21 days after his death under subsection (1), the home shall thereupon cease to be a licensed home.
+(4) If the Director is not notified of the death of the licensee or of the sole surviving licensee by the end of the period of 21 days after his death under subsection (1), the home shall then upon the expiration of that period cease to be a licensed home.
 
 ### Termination of licence where licensee disposes of home
 
@@ -198,9 +198,9 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 ### Directions as to apparatus and equipment
 
-15\.—(1) Where in the opinion of the Director the use of any apparatus, appliance, equipment or instrument in a home is dangerous or detrimental to any person therein or is otherwise unsuitable for the purpose for which it is used, the Director may by notice direct the licensee to stop using it.
+15\.—(1) Where, in the opinion of the Director, the use of any apparatus, appliance, equipment or instrument in a home is dangerous or detrimental to any person in the home or is otherwise unsuitable for the purpose for which it is used, the Director may by notice direct the licensee to stop using it.
 
-(2) The Director may by notice direct the licensee of a home to install or replace such apparatus, appliance, equipment or instrument therein as may be specified in the notice.
+(2) The Director may by notice direct the licensee of a home to install or replace such apparatus, appliance, equipment or instrument in the home as may be specified in the notice.
 
 ### Duty to furnish information
 
@@ -208,7 +208,7 @@ An Act to provide for the control, licensing and inspection of homes for the age
 
 (a) the staff and residents;
 
-(b) any apparatus, appliance, equipment or instrument used therein;
+(b) any apparatus, appliance, equipment or instrument used in the home;
 
 (c) the condition or treatment of any resident;
 
@@ -256,7 +256,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) the facilities and services to be provided in a home;
 
-(g) empowering the Director to limit the number of persons of any description who may be received into any home for the aged and for enabling licensing of any such home to be made subject to the condition that persons shall not be received in the home in excess of the number fixed for the home in accordance with the regulations;
+(g) empowering the Director to limit the number of persons of any description who may be received into any home for the aged and for enabling the licensing of any such home to be made subject to the condition that persons shall not be received in the home in excess of the number fixed for the home in accordance with the regulations;
 
 (h) the minimum standards of accommodation, sanitation and other amenities in a home;
 
@@ -266,7 +266,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (k) the management, control, superintendence and care of a home;
 
-(l) the notification of events occurring in a home; and
+(l) the notification of events occurring in a home;
 
 (m) the general conduct of a home.
 
@@ -286,7 +286,7 @@ Homes for the Aged Act
 
 (CHAPTER 126A)
 
-This Legislative History is provided for the convenience of users of the Homes for the Aged Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Homes for the Aged Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -303,3 +303,5 @@ This Legislative History is provided for the convenience of users of the Homes f
 |||(Bill No. 12/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|20 April 2001|
 ||Date of commencement|1 October 2001|
+|4.|**2014 Revised Edition—Homes for the Aged Act (Chapter 126A)**|
+||Date of operation|30 April 2014|
