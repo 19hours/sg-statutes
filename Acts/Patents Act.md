@@ -296,7 +296,7 @@
 
 - [117 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE Substances Which Are Not Pharmaceutical Products**](#THE-SCHEDULE)
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -358,7 +358,7 @@ PRELIMINARY
 
 “Council for TRIPS” means the Council for Trade-Related Aspects of Intellectual Property Rights established under the TRIPS Agreement;
 
-[18/2008 wef 01/12/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008]
 
 “country” includes —
 
@@ -378,7 +378,7 @@ PRELIMINARY
 
 “Doha Declaration Implementation Decision” means the Decision adopted by the General Council of the World Trade Organisation on 30th August 2003 on the implementation of paragraph 6 of the Declaration on the TRIPS Agreement and Public Health adopted in Doha on 14th November 2001;
 
-[18/2008 wef 01/12/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008]
 
 “employee” means a person who works or (where the employment has ceased) worked under a contract of employment or in employment under or for the purposes of a Government department;
 
@@ -402,7 +402,7 @@ PRELIMINARY
 
 “formal requirements” means those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act;
 
-[2/2007 wef 01/04/2007 wef 01/04/2007]
+[2/2007 wef 01/04/2007]
 
 “international application for a patent” means an application made under the Patent Co-operation Treaty;
 
@@ -434,7 +434,7 @@ PRELIMINARY
 
 which was missing from the application at the date of filing of the application;
 
-[2/2007 wef 01/04/2007 wef 01/04/2007]
+[2/2007 wef 01/04/2007]
 
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
@@ -498,7 +498,7 @@ which was missing from the application at the date of filing of the application;
 
 (b) paragraph 1(a) of the Annex to the TRIPS Agreement;
 
-[18/2008 wef 01/12/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008]
 
 “right”, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
@@ -516,11 +516,11 @@ which was missing from the application at the date of filing of the application;
 
 “TRIPS Agreement” means the Agreement on Trade-Related Aspects of Intellectual Property Rights, set out in Annex 1C to the WTO Agreement, as revised or amended from time to time;
 
-[18/2008 wef 01/12/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008]
 
 “WTO Agreement” means the World Trade Organisation Agreement signed in Marrakesh in 1994 as revised or amended from time to time.
 
-[18/2008 wef 01/12/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008]
 
 [40/95; 3/2001; 30/2001; 19/2004]
 
@@ -782,9 +782,9 @@ PATENTABILITY
 
 (b) any other country with which Singapore has entered into a treaty, convention, arrangement or engagement and which is declared by the Minister, by order published in theGazette, as a convention country.
 
-[UK Patents 1977, s. 5]
-
 [30/2001]
+
+[UK Patents 1977, s. 5]
 
 ### Disclosure of matter, etc., between earlier and later applications
 
@@ -1680,7 +1680,17 @@ shall be void unless it is in writing and is signed by or on behalf of the assig
 
 (e) the publication and advertisement of anything done under this Act or the rules in relation to the register.
 
-(3) Notwithstanding anything in subsection (2)(b), no notice of any trust, whether express, implied or constructive, shall be entered in the register and the Registrar shall not be affected by any such notice.
+(3) Notwithstanding anything in subsection (2)(b), no notice of any implied or constructive trust shall be entered in the register and the Registrar shall not be affected by any such notice.
+
+[Act 4 of 2014 wef 30/04/2014]
+
+(3A) A notice of an express trust or of the beneficiary of an express trust, or both, may be entered in the register; but —
+
+(a) the Registrar shall not be affected by any such notice in the register; and
+
+(b) for the avoidance of doubt, a failure to enter such notice in the register does not affect any rights or duties under the trust.
+
+[Act 4 of 2014 wef 30/04/2014]
 
 (4) The register need not be kept in documentary form.
 
@@ -2548,6 +2558,8 @@ REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 
 as the case may be, from which the filing date and the right of priority has been derived, as filed;
 
+[2/2007 wef 01/04/2007]
+
 (e) an amendment or a correction has been made to the specification of —
 
 (i) the patent; or
@@ -2567,8 +2579,6 @@ which should not have been allowed;
 (g) the patent is one of 2 or more patents for the same invention having the same priority date and filed by the same party or his successor in title.
 
 [19/2004]
-
-[2/2007 wef 01/04/2007]
 
 (2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1)(a), (c), (d) and (e), the Registrar may, subject to subsection (3), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
 
@@ -2790,9 +2800,9 @@ an English translation of the amendment has been filed at the Registry; or
 
 (b) any declaration of priority made under the Treaty shall be treated as made under section 17(2), and where in accordance with the Treaty any extra days are allowed, the period of 12 months referred to in section 17(2A)(a) shall be treated as altered accordingly; and
 
-(c) any statement of the name of the inventor under the Treaty shall be treated as a statement filed under section 24(2).
-
 [2/2007 wef 01/04/2007]
+
+(c) any statement of the name of the inventor under the Treaty shall be treated as a statement filed under section 24(2).
 
 (2) If the application, not having been published under this Act, is published in accordance with the Patent Co-operation Treaty, it shall be treated, for purposes other than those mentioned in subsection (3), as published under section 27 when the national phase of the application begins or, if later, when published in accordance with the Treaty.
 
@@ -2820,7 +2830,7 @@ an English translation of the amendment has been filed at the Registry; or
 
 ### Evidence of Patent Co-operation Treaty and its instruments
 
-88\.—(1) Judicial notice shall be taken of the Patent Co-operation Treaty and any Gazette, bulletin or journal published under the Treaty.
+88\.—(1) Judicial notice shall be taken of the Patent Co-operation Treaty and anyGazette, bulletin or journal published under the Treaty.
 
 (2) Any such document mentioned in subsection (1) shall be admissible as evidence of any instrument or other act thereby communicated of any institution having functions under the Treaty.
 
@@ -2896,7 +2906,7 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 (2) The Government may be represented by a Legal Service Officer in any proceedings before the Registrar under this Act or any treaty to which Singapore is a party.
 
-[2/2007 wef 01/04/2007]
+[20/2009 wef 09/10/2009]
 
 [30/2001]
 
@@ -3051,6 +3061,8 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 ## PART XIX
 
 PATENT AGENTS AND FOREIGN PATENT AGENTS
+
+[Act 15 of 2012 wef 14/02/2014]
 
 ### Registration of patent agents and foreign patent agents
 
@@ -3214,7 +3226,7 @@ the individual does not contravene subsection (1) in respect of anything done, o
 
 (11) A Legal Service Officer does not commit an offence against subsection (1) in respect of anything done, or undertaken to be done, by him on behalf of the Government.
 
-[2/2007 wef 01/04/2007]
+[20/2009 wef 09/10/2009]
 
 [30/2001]
 
@@ -3242,13 +3254,13 @@ the individual does not contravene subsection (1) in respect of anything done, o
 
 (a) in relation to a registered patent agent, a practising certificate issued to him under rules made under section 104; or
 
-(b) in relation to an advocate and solicitor, a practising certificate issued to him under section 25 of the Legal Profession Act (Cap. 61); and
+(b) in relation to an advocate and solicitor, a practising certificate issued to him under section 25 of the Legal Profession Act; and
 
 “related company group” means a group of 2 or more corporations within the meaning of the Companies Act (Cap. 50) which are related to each other in accordance with section 6 of that Act.
 
-[Aust. Patents 1990, s. 201]
-
 [30/2001]
+
+[Aust. Patents 1990, s. 201]
 
 ### Foreign patent agents
 
@@ -3326,11 +3338,11 @@ MISCELLANEOUS AND GENERAL
 
 (c) incur any liability by reason of an incorrect entry in the register of patent agents or the register of foreign patent agents maintained under Part XIX.
 
-[UK Patents 1977, s. 116]
-
 [Act 15 of 2012 wef 14/02/2014]
 
 [3/2001]
+
+[UK Patents 1977, s. 116]
 
 ### Correction of errors in patents and applications
 
@@ -3412,9 +3424,9 @@ MISCELLANEOUS AND GENERAL
 
 may be prescribed for different classes of business.
 
-[UK Patents 1977, s. 120]
-
 [19/2004]
+
+[UK Patents 1977, s. 120]
 
 ### Government’s right to sell forfeited articles
 
@@ -3554,9 +3566,79 @@ may be prescribed for different classes of business.
 
 Section 2(1)
 
-Substances Which Are Not Pharmaceutical Products
+Substances which are not pharmaceutical products
 
-1\. In this Schedule, unless the context otherwise requires —
+1. In this Schedule, unless the context otherwise requires —
+
+“Chinese proprietary medicine” means any medicinal product used in the system of therapeutics according to the traditional Chinese method, that is to say, any medicinal product —
+
+(a) which has been manufactured into a finished product;
+
+(b) which contains one or more active substances derived wholly from any plant, animal or mineral, or any combination thereof; and
+
+(c) which is, or all of the active substances of which are, described in the current edition of “A Dictionary of Chinese Pharmacy” <<中药大辞典>> or “The Chinese Herbal Medicine Materia Medica” <<本草纲目>>,
+
+but does not include —
+
+(i) any medicinal product to be administered by injection into a human body; or
+
+(ii) any medicinal product which contains as an active substance any chemically-defined isolated constituent of any plant, animal or mineral, or any combination thereof;
+
+“current edition”, in relation to any publication which describes a Chinese proprietary medicine, means an edition which is current at the time the Chinese proprietary medicine in question is sold or supplied, and includes any amendment, addition or deletion made to that edition of the publication up to that time;
+
+“homoeopathic medicine” means any substance used in the system of therapeutics in which a disease is treated by the use of minute amounts of one or more substances which, in their undiluted forms, are capable of producing in a healthy human being symptoms similar to those of the disease being treated;
+
+“medicated oil or balm” means any external medicated embrocation, medicated cream, ointment or inhalant —
+
+(a) which is used mainly for soothing purposes; and
+
+(b) which contains one or more of the following substances as an active ingredient or as active ingredients:
+
+(i) any essential oil;
+
+(ii) any fixed oil derived from a plant;
+
+(iii) methyl salicylate;
+
+(iv) menthol;
+
+(v) camphor;
+
+(vi) peppermint;
+
+“quasi-medicinal product” means —
+
+(a) any anti-dandruff preparation;
+
+(b) any medicated cosmetic product for the treatment of pimples or acne, except any preparation containing etretinate or 13-cis-retinoic acid;
+
+(c) any medicated soap;
+
+(d) any sweet for relieving coughs or throat irritations;
+
+(e) any medicated plaster;
+
+(f) any sunscreen or suntan preparation;
+
+(g) any medicated beverage;
+
+(h) any vitamin or nutritional preparation from any plant, animal or mineral, or any combination thereof; or
+
+(i) any medicated toothpaste;
+
+“traditional medicine” means any medicinal product consisting of one or more substances derived from any plant, animal or mineral, or any combination thereof, but does not include the following:
+
+(a) any medicinal product to be administered by injection into a human body;
+
+(b) any vaccine to be administered to a human being;
+
+(c) any product derived from human blood;
+
+(d) any item specified in the Poisons List in the Schedule to the Poisons Act (Cap. 234);
+
+(e) any Chinese proprietary medicine.
+
+[Act 4 of 2014 wef 10/03/2014]
 
 2. For the purposes of this Act, “pharmaceutical product” does not include —
 
@@ -3679,6 +3761,10 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|18.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|30 April 2014|
 ## COMPARATIVE TABLE
 
 Patents Act
@@ -3791,17 +3877,13 @@ Patents Act
 
 (CHAPTER 221)
 
-COMPARATIVE TABLE
-
-PATENTS ACT (CHAPTER 221, 2002 EDITION)
-
 The following provisions in the 1995 Revised Edition of the Patents Act were renumbered by the Law Revision Commissioners in the 2002 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Patents Act.
 
-2002 Ed.
+2002 Ed\. 
 
-1995 Ed.
+1995 Ed\. 
 
 1 
 
