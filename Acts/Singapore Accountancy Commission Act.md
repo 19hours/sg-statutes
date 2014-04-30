@@ -1,16 +1,14 @@
-**Singapore Accountancy Commission Act 2013**
+**Singapore Accountancy Commission Act**
 
-**(No. 5 of 2013)**
+**(CHAPTER 294B)**
 
 **Table of Contents**
 
 [**Long Title**](#Singapore-Accountancy-Commission-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -106,11 +104,7 @@
 
 - [41 Regulations](#Regulations)
 
-- [42 Savings and transitional provisions](#Savings-and-transitional-provisions)
-
-- [43 Consequential amendment to Accountants Act](#Consequential-amendment-to-Accountants-Act)
-
-- [44 Consequential amendment to Accounting and Corporate Regulatory Authority Act](#Consequential-amendment-to-Accounting-and-Corporate-Regulatory-Authority-Act)
+- [42 Savings and transitional provision](#Savings-and-transitional-provision)
 
 [**FIRST SCHEDULE Constitution and proceedings of Commission**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Commission)
 
@@ -118,53 +112,35 @@
 
 [**THIRD SCHEDULE Designated entities**](#THIRD-SCHEDULE-Designated-entities)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Accountancy Commission Act
 
-ACTS SUPPLEMENT
+(CHAPTER 294B)
 
-Published by Authority
+(Original Enactment: Act 5 of 2013)
 
-NO. 10]
+REVISED EDITION 2014
 
-Thursday, March 28
+(30th April 2014)
 
-[2013
+An Act to establish the Singapore Accountancy Commission, to establish a framework for the growth and development of the accountancy sector and its related fields in Singapore, to provide for the registration of chartered accountants in Singapore, and for matters connected therewith.
 
-The following Act was passed by Parliament on 15th January 2013 and assented to by the President on 27th February 2013:—
-
-Singapore Accountancy Commission Act 2013
-
-(No. 5 of 2013)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-27th February 2013.
-
-Date of Commencement: 1st April 2013
-
-An Act to establish the Singapore Accountancy Commission, to establish a framework for the growth and development of the accountancy sector and its related fields in Singapore, to provide for the registration of chartered accountants in Singapore, and for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2013]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Accountancy Commission Act 2013 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Accountancy Commission Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“certified public accountant” means any person registered with or recognised by the Institute as a Certified Public Accountant Singapore immediately before the date of commencement of Part VII;
+“certified public accountant” means any person registered with or recognised by the Institute as a Certified Public Accountant Singapore immediately before 1st April 2013;
 
 “Chairman” means the Chairman of the Commission appointed under section 5(1)(a) and includes any temporary Chairman of the Commission appointed under paragraph 3 of the First Schedule;
 
@@ -178,7 +154,7 @@ PRELIMINARY
 
 “designated entity” means any company, association or body of persons, corporate or unincorporate, specified in the Third Schedule;
 
-“Institute” means the Institute of Certified Public Accountants of Singapore, being a society registered under the Societies Act (Cap. 311) immediately before the date of commencement of Part VII;
+“Institute” means the Institute of Certified Public Accountants of Singapore, being a society registered under the Societies Act (Cap. 311) immediately before 1st April 2013;
 
 “member” —
 
@@ -356,7 +332,7 @@ shall disclose any information relating to the affairs of the Commission or any 
 
 12\.—(1) No liability shall lie personally against any member, officer or employee of the Commission, committee member or other person acting under the direction of the Commission who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act or any other written law.
 
-(2) Where the Commission provides a service to the public whereby information is supplied to the public pursuant to any written law, neither any of its members, officers or employees nor any committee member involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if the member, officer, employee or committee member had acted with reasonable care and in good faith and in the ordinary course of the discharge of his duties.
+(2) Where the Commission provides a service to the public whereby information is supplied to the public pursuant to any written law, neither any of its members, officers or employees nor any committee member involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing in the information or however caused if the member, officer, employee or committee member had acted with reasonable care and in good faith and in the ordinary course of the discharge of his duties.
 
 ### Public servants
 
@@ -440,7 +416,7 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 “Authority” means the Accounting and Corporate Regulatory Authority established under section 3 of the Accounting and Corporate Regulatory Authority Act (Cap. 2A);
 
-“transfer date” means the date of commencement of this Part;
+“transfer date” means 1st April 2013;
 
 “transferred employee” means any employee of the Authority transferred to the service of the Commission under section 24(1).
 
@@ -456,7 +432,7 @@ shall, by virtue of this section, be transferred to and vest in the Commission w
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, debt, liability or obligation has been transferred to or vested in the Commission under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, debt, liability or obligation was or was not so transferred or vested.
 
-(3) Every agreement relating to any of the transferred property, assets, interests, rights, privileges, debts, liabilities or obligations to which the Authority was a party immediately before the transfer date, whether or not of such a nature that the rights and liabilities thereunder could be assigned, shall have effect and shall be enforceable by or against the Commission as from that date as if —
+(3) Every agreement relating to any of the transferred property, assets, interests, rights, privileges, debts, liabilities or obligations to which the Authority was a party immediately before the transfer date, whether or not of such a nature that the rights and liabilities under the agreement could be assigned, shall have effect and shall be enforceable by or against the Commission as from that date as if —
 
 (a) the Commission had been a party to such an agreement instead of the Authority; and
 
@@ -492,15 +468,15 @@ shall, by virtue of this section, be transferred to and vest in the Commission w
 
 (5) All deeds, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the transfer date to which the Authority is a party and relating to a transferred employee shall have effect and shall be enforceable by or against the Commission as from that date as if —
 
-(a) the Commission had been a party thereto instead of the Authority; and
+(a) the Commission had been a party to the deeds, schemes, bonds, agreements, instruments and arrangements instead of the Authority; and
 
-(b) for any reference to the Authority therein there were substituted in respect of anything to be done on or after the transfer date a reference to the Commission.
+(b) for any reference to the Authority in the deeds, schemes, bonds, agreements, instruments and arrangements there were substituted in respect of anything to be done on or after the transfer date a reference to the Commission.
 
 (6) Where, on the transfer date —
 
 (a) any disciplinary proceedings were pending against any transferred employee, the proceedings shall be carried on and completed by the Commission; and
 
-(b) any matter concerning any transferred employee was in the course of being heard or investigated or had been heard or investigated by a committee of the Authority acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date,
+(b) any matter concerning any transferred employee was in the course of being heard or investigated or had been heard or investigated by a committee of the Authority acting under due authority but no order, ruling or direction had been made on the matter, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date,
 
 and any order, ruling or direction made by such a committee pursuant to this subsection shall be treated as an order, a ruling or a direction of the Commission and have the same force and effect as if it had been made by the Commission pursuant to the authority vested in the Commission under this Act.
 
@@ -524,7 +500,7 @@ CHARTERED ACCOUNTANTS OF SINGAPORE
 
 (b) use the initials “CA (Singapore)” after his name.
 
-[Act 4 of 2014 wef 10/03/2014]
+[4/2014]
 
 (2) A person who is not registered as a chartered accountant, or whose registration as such is suspended, under this Act shall not —
 
@@ -536,9 +512,9 @@ CHARTERED ACCOUNTANTS OF SINGAPORE
 
 (ii) the initials “CA (Singapore)”; or
 
-[Act 4 of 2014 wef 10/03/2014]
-
 (iii) any word, designation or description, in any language, tending to convey the impression that he is a Chartered Accountant of Singapore, or that he is qualified or authorised to practise as such.
+
+[4/2014]
 
 (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -654,7 +630,7 @@ the Commission may revoke his registration as a chartered accountant.
 
 may, within 30 days after receipt of the decision, appeal to the Commission.
 
-(2) Any person who makes an appeal to the Commission under subsection (1) shall, within the period specified therein —
+(2) Any person who makes an appeal to the Commission under subsection (1) shall, within the period specified in that subsection —
 
 (a) state as concisely as possible the circumstances under which the appeal arises and the issues and grounds for the appeal; and
 
@@ -704,7 +680,7 @@ and the decision of the Commission shall be final.
 
 may, within 30 days after receipt of the decision, appeal to the Minister.
 
-(2) Any person who makes an appeal to the Minister under subsection (1) shall, within the period specified therein —
+(2) Any person who makes an appeal to the Minister under subsection (1) shall, within the period specified in that subsection —
 
 (a) state as concisely as possible the circumstances under which the appeal arises and the issues and grounds for the appeal; and
 
@@ -754,7 +730,7 @@ and the decision of the Minister shall be final.
 
 ### Designated entities
 
-33\.—(1) Subject to section 34, the Commission may, with the approval of the Minister, by order published in theGazette, amend the Third Schedule by adding thereto, deleting therefrom or otherwise varying any designated entity.
+33\.—(1) Subject to section 34, the Commission may, with the approval of the Minister, by order published in theGazette, amend the Third Schedule by adding to or deleting from that Schedule or otherwise varying any designated entity.
 
 (2) A designated entity shall be subject to such conditions as the Commission may, from time to time, specify.
 
@@ -904,7 +880,7 @@ the officer or member (as the case may be) as well as the unincorporated associa
 
 (c) in the case of a limited liability partnership or other body corporate, or an unincorporated association —
 
-(i) by delivering it to the secretary or other like officer of the body corporate or unincorporated association or, in the case of a limited liability partnership, the manager thereof;
+(i) by delivering it to the secretary or other like officer of the body corporate or unincorporated association or, in the case of a limited liability partnership, the manager of the limited liability partnership;
 
 (ii) by leaving it at, or by sending it by pre-paid registered post to, the registered office or principal office of the limited liability partnership, body corporate or unincorporated association in Singapore;
 
@@ -940,19 +916,11 @@ the officer or member (as the case may be) as well as the unincorporated associa
 
 (a) provide that a contravention of any specified provision thereof shall be an offence; and
 
-(b) provide for penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 6 months or both for any offence specified therein and, in the case of a continuing offence, a further penalty not exceeding a fine of $250 for every day or part thereof during which the offence continues after conviction.
+(b) provide for penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 6 months or both for any offence specified in such regulations and, in the case of a continuing offence, a further penalty not exceeding a fine of $250 for every day or part thereof during which the offence continues after conviction.
 
-### Savings and transitional provisions
+### Savings and transitional provision
 
 42\. For a period of 2 years after the commencement of a provision in this Act, the Minister may, by regulations, prescribe such provisions of a savings or transitional nature consequent on the enactment of that provision as he may consider necessary or expedient, including but not limited to deeming registration of a certified public accountant as a chartered accountant under this Act.
-
-### Consequential amendment to Accountants Act
-
-43\. The long title to the Accountants Act (Cap. 2) is amended by inserting, immediately before the word “accountants”, the word “public”.
-
-### Consequential amendment to Accounting and Corporate Regulatory Authority Act
-
-44\. Section 6(4) of the Accounting and Corporate Regulatory Authority Act (Cap. 2A) is amended by inserting, immediately after the words “accounting corporations”, the words “providing public accountancy services”.
 
 FIRST SCHEDULE
 
@@ -990,7 +958,7 @@ Vacation of office
 
 (a) on his death;
 
-(b) if he fails to attend 3 consecutive meetings of the Commission without sufficient cause (the sufficiency thereof to be decided by the Commission);
+(b) if he fails to attend 3 consecutive meetings of the Commission without sufficient cause (the sufficiency of which to be decided by the Commission);
 
 (c) if he becomes in any manner disqualified from membership of the Commission;
 
@@ -1038,7 +1006,7 @@ Procedure at meetings
 
 12.—(1) The Chairman or any officer authorised by him shall, subject to such standing orders as may be made by the Commission under sub-paragraph (2), summon all meetings of the Commission for the despatch of business.
 
-(2) Subject to the provisions of this Act, the Commission may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+(2) Subject to the provisions of this Act, the Commission may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings at such meetings, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
 
 (3) Where not fewer than 4 members, by notice in writing signed by them, request the Chairman to convene a meeting of the Commission for any purpose specified in the notice, the Chairman shall, within 7 days from the receipt of the notice, convene a meeting for that purpose.
 
@@ -1068,7 +1036,7 @@ Transaction of business of Commission outside meetings
 
 (5) For the purpose of a decision under this paragraph, the Chairman and each member shall have the same voting rights as they have at any meeting of the Commission.
 
-(6) The decision of the Commission shall be made when the last member thereof required for the majority signs and his decision is duly delivered in the manner provided in sub-paragraph (9).
+(6) The decision of the Commission shall be made when the last member of the Commission required for the majority signs and his decision is duly delivered in the manner provided in sub-paragraph (9).
 
 (7) The Chairman may stipulate a period of time within which a decision may be made under this paragraph.
 
@@ -1096,7 +1064,7 @@ Financial provisions
 
 Financial year
 
-1\. The financial year of the Commission shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Commission shall begin on the date of commencement of Part II and end on 31st March of the succeeding year.
+1\. The financial year of the Commission shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Commission shall begin on 1st April 2013 and end on 31st March of the succeeding year.
 
 Accounts of Commission
 
@@ -1162,9 +1130,32 @@ Sections 2(1), 33(1) and 34(1) to (4) and (6)
 
 Designated entities
 
-1. 
+1. Institute of Singapore Chartered Accountants (formerly known as Institute of Certified Public Accountants of Singapore).
 
-Institute of Singapore Chartered Accountants (formerly known as Institute of Certified Public Accountants of Singapore).
+[S 402/2013]
 
-[S 402/2013 wef 02/07/2013]
+## LEGISLATIVE HISTORY
 
+Singapore Accountancy Commission Act
+
+(CHAPTER 294B)
+
+This Legislative History is provided for the convenience of users of the Singapore Accountancy Commission Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 2013—Singapore Accountancy Commission Act 2013**|
+||Date of First Reading|15 November 2012|
+|||(Bill No. 40/2012 published on 15 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|1 April 2013|
+|2.|**G. N. No. S 402/2013—Singapore Accountancy Commission Act (Amendment of Third Schedule) Order 2013**|
+||Date of commencement|2 July 2013|
+|3.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|10 March 2014|
+|||(section 11 — amendment of Singapore Accountancy Commission Act 2013)|
+|4.|**2014 Revised Edition—Singapore Accountancy Commission Act (Chapter 294B)**|
+||Date of operation|30 April 2014|
