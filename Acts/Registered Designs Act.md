@@ -90,7 +90,7 @@
 
 - [31 Rights of third parties to continue use of registered designs](#Rights-of-third-parties-to-continue-use-of-registered-designs)
 
-[**Division 2  Registered Design as OBJECT OF PROPERTY**](#Division-2--Registered-Design-as-OBJECT-OF-PROPERTY)
+[**Division 2  Registered Design as Object of Property**](#Division-2--Registered-Design-as-Object-of-Property)
 
 - [32 Nature of registered design](#Nature-of-registered-design)
 
@@ -924,7 +924,12 @@ has the right to continue to do the act or, as the case may be, to do the act.
 
 Division 2 —
 
-Registered Design as OBJECT OF PROPERTY
+Registered Design as
+
+
+
+
+Object of Property
 
 ### Nature of registered design
 
@@ -1328,7 +1333,17 @@ Register
 
 (d) such other matters as the Registrar may think fit.
 
-(3) No notice of any trust, whether express, implied or constructive, shall be entered in the Register, and the Registrar shall not be affected by any such notice.
+(3) No notice of any implied or constructive trust shall be entered in the Register, and the Registrar shall not be affected by any such notice.
+
+[Act 4 of 2014 wef 30/04/2014]
+
+(3A) A notice of an express trust or of the beneficiary of an express trust, or both, may be entered in the Register; but —
+
+(a) the Registrar shall not be affected by any such notice in the Register; and
+
+(b) for the avoidance of doubt, a failure to enter such notice in the Register does not affect any rights or duties under the trust.
+
+[Act 4 of 2014 wef 30/04/2014]
 
 (4) The Register may be kept in whole or in part using a computer.
 
@@ -1936,6 +1951,10 @@ This Legislative History is provided for the convenience of users of the Registe
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|10.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|30 April 2014|
 ## COMPARATIVE TABLE
 
 Registered Designs Act
