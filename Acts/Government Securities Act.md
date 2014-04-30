@@ -106,15 +106,17 @@
 
 [**Comparative Table**](#Comparative-Table)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Government Securities Act
 
 (CHAPTER 121A)
 
 (Original Enactment: Act 1 of 1992)
 
-REVISED EDITION 2002
+REVISED EDITION 2014
 
-(31st December 2002)
+(30th April 2014)
 
 An Act to establish and regulate the Government Securities Fund and to provide for the borrowing of moneys by the issue of Government securities in Singapore.
 
@@ -142,15 +144,11 @@ PRELIMINARY
 
 “financial institution” means any person licensed, approved, registered or regulated by the Authority, or exempted from such licensing, approval, registration or regulation, under any written law administered by the Authority;
 
-[2/2010 wef 01/04/2010]
+“Government securities” means stocks, bearer bonds, book-entry Government securities or other securities which may be issued under this Act;
 
 “Government Securities Fund” means the Government Securities Fund established under Part II;
 
-“Government securities” means stocks, bearer bonds, book-entry Government securities or other securities which may be issued under this Act;
-
 “primary dealer” means a person approved under Part VIIA to be a primary dealer;
-
-[2/2010 wef 01/04/2010]
 
 “regulations” means regulations made under this Act and, in relation to any particular issue of Government securities, includes any notification in theGazettevarying such regulations in relation to that issue;
 
@@ -159,6 +157,8 @@ PRELIMINARY
 “stocks” means stocks issued under Part IV;
 
 “trustee stock” means any of the securities mentioned in the Trustees Act (Cap. 337) in which trustees may invest.
+
+[2/2010]
 
 ## PART II
 
@@ -170,9 +170,9 @@ ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
 (a) all sums representing the proceeds of loans raised or advance deposits accepted under this Act;
 
-(b) all sums representing the proceeds of loans raised under the Local Treasury Bills Act (Cap. 167) on or after 1st April 1996\*;
+(b) all sums representing the proceeds of loans raised under the Local Treasury Bills Act (Cap. 167) on or after 1st April 19961;
 
-\*Date of commencement of the Local Treasury Bills (Amendment) Act 1996 (Act 6 of 1996).
+1Date of commencement of the Local Treasury Bills (Amendment) Act 1996 (Act 6 of 1996).
 
 (c) all moneys from time to time authorised to be paid into the Government Securities Fund by this Act or any other written law; and
 
@@ -190,7 +190,7 @@ ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
 ### Expenses
 
-5\. There shall be charged upon and payable out of the Government Securities Fund, all expenses —
+5\. There shall be charged upon and payable out of the Government Securities Fund all expenses —
 
 (a) arising from or incidental to the investment and management of moneys in the Government Securities Fund; and
 
@@ -210,7 +210,7 @@ under this Act, the Local Treasury Bills Act (Cap. 167) on or after 1st April 19
 
 (a) to repay any principal sum or interest payable on any Government securities issued or advance deposits accepted under this Act;
 
-(b) to repay any principal sum payable on any Treasury Bill or book-entry Treasury Bill issued under the Local Treasury Bills Act on or after 1st April 1996; or
+(b) to repay any principal sum payable on any Treasury Bill or book-entry Treasury Bill issued under the Local Treasury Bills Act (Cap. 167) on or after 1st April 1996; or
 
 (c) to meet any other obligation charged upon the Government Securities Fund arising from this Act or any other written law,
 
@@ -242,23 +242,27 @@ AUTHORISATION OF BORROWING AND APPLICATION OF PROCEEDS
 
 11\.—(1) The Parliament may, by a resolution under Article 144(1)(a) of the Constitution with which the President concurs, authorise the amount of borrowing by the issue of Government securities in Singapore under this Act, and may, from time to time, vary that amount.
 
-[29/2004 wef 14/09/2004]
+[29/2004]
 
-(1A) The Minister may, from time to time, borrow such sums by the issue of Government securities in Singapore except that the aggregate amount borrowed (whether before, on or after the date of commencement of the Government Securities (Amendment) Act 2004) and outstanding at any time shall not exceed the amount specified in any resolution (varied or otherwise) referred to in subsection (1).
+(2) The Minister may, from time to time, borrow such sums by the issue of Government securities in Singapore except that the aggregate amount borrowed (whether before, on or after 14th September 2004) and outstanding at any time shall not exceed the amount specified in any resolution (varied or otherwise) referred to in subsection (1).
 
-[29/2004 wef 14/09/2004]
+[29/2004]
 
-(2) The Authority may, on behalf of the Minister, undertake the issue and management of Government securities issued under this Act.
+(3) The Authority may, on behalf of the Minister, undertake the issue and management of Government securities issued under this Act.
 
 ### Securities lending arrangements
 
 11A\.—(1) The Authority may, from time to time, enter into securities lending arrangements by lending Government securities issued under this Act to primary dealers.
 
+[2/2010]
+
 (2) Lending Government securities shall include an arrangement under which Government securities are sold and repurchased.
+
+[2/2010]
 
 (3) Nothing in this section affects the power of the Minister to make investments under section 7 of the Financial Procedure Act (Cap. 109).
 
-[2/2010 wef 01/04/2010]
+[2/2010]
 
 ### Payment into Government Securities Fund
 
@@ -296,9 +300,9 @@ PROVISIONS APPLICABLE TO ISSUE AND REGISTRATION OF STOCKS AND BEARER BONDS
 
 (a) issued by the Authority upon such terms as may be prescribed; and
 
-(b) authenticated either by the signature of the Minister or by facsimile of his signature or in such manner as may be approved by the Minister.
+(b) authenticated either by the signature of the Minister or by facsimile of his signature or in such other manner as may be approved by the Minister.
 
-(2) Every bearer bond shall, when issued, bind the Government to pay the bearer the principal sum mentioned in that bond and interest thereon in accordance with the terms and conditions of the issue.
+(2) Every bearer bond shall, when issued, bind the Government to pay the bearer the principal sum mentioned in that bond and interest on that sum in accordance with the terms and conditions of the issue.
 
 (3) Bearer bonds shall be transferable by delivery without endorsement.
 
@@ -318,7 +322,7 @@ BOOK-ENTRY GOVERNMENT SECURITIES
 
 “depositor” means any person in whose name an account is established and maintained on the records of the Authority;
 
-“pledge” includes a pledge of, or any security interest in, book-entry Government securities —
+“pledge” includes a pledge of, or any security interest in, book‑entry Government securities —
 
 (a) as collateral for loans or advances; or
 
@@ -346,7 +350,7 @@ BOOK-ENTRY GOVERNMENT SECURITIES
 
 ### Transfers and pledges effected by Authority under book-entry clearing system
 
-19\.—(1) A transfer or a pledge of book-entry Government securities to the Authority or to the Government or to any transferee or pledgee eligible to maintain an appropriate account in its name with the Authority shall be effected, notwithstanding any written law to the contrary, by the Authority making an appropriate entry in its records of the securities transferred or pledged.
+19\.—(1) A transfer or pledge of book-entry Government securities to the Authority or to the Government or to any transferee or pledgee eligible to maintain an appropriate account in its name with the Authority shall be effected, notwithstanding any written law to the contrary, by the Authority making an appropriate entry in its records of the securities transferred or pledged.
 
 (2) The making of an entry in the records of the Authority under subsection (1) shall —
 
@@ -358,19 +362,19 @@ BOOK-ENTRY GOVERNMENT SECURITIES
 
 (d) if a pledge, have the effect of vesting a security interest in favour of the pledgee.
 
-(3) A transfer or a pledge of a book-entry Government security effected in accordance with this section shall have priority over any transfer or pledge involving, or any interest in, the security effected or created in any other manner before, on or after the date of the transfer or pledge in accordance with this section.
+(3) A transfer or pledge of a book-entry Government security effected in accordance with this section shall have priority over any transfer or pledge involving, or any interest in, the security effected or created in any other manner before, on or after the date of the transfer or pledge in accordance with this section.
 
 ### Transfers and pledges effected by other means
 
-20\.—(1) Notwithstanding section 19, a transfer or a pledge of book-entry Government securities, or any interest therein, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of book-entry Government securities, or any interest therein, if the securities were issued by the Authority in the form of engraved or printed certificates.
+20\.—(1) Notwithstanding section 19, a transfer or pledge of book‑entry Government securities, or any interest in such securities, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of book‑entry Government securities, or any interest therein, if the securities were issued by the Authority in the form of engraved or printed certificates.
 
 (2) The Authority shall be deemed not to be —
 
-(a) a bailee for purposes of notification of pledges of book-entry Government securities not effected in accordance with section 19; and
+(a) a bailee for the purposes of notification of pledges of book‑entry Government securities not effected in accordance with section 19; and
 
-(b) a person in possession of book-entry Government securities for purposes of acknowledgment of transfers of such securities not effected in accordance with section 19.
+(b) a person in possession of book-entry Government securities for the purposes of acknowledgment of transfers of such securities not effected in accordance with section 19.
 
-(3) Where book-entry Government securities are recorded on the books of a depositary institution for account of the pledgor or transferor thereof and such securities are on deposit with the Authority in an account, that depositary institution shall, for the purposes of effecting delivery of the securities to a purchaser or pledgee, be deemed to be —
+(3) Where book-entry Government securities are recorded on the books of a depositary institution for account of the pledgor or transferor of the securities and such securities are on deposit with the Authority in an account, that depositary institution shall, for the purposes of effecting delivery of the securities to a purchaser or pledgee, be deemed to be —
 
 (a) the bailee to which notification of the pledge of the securities may be given; or
 
@@ -394,7 +398,7 @@ according to the instructions of its depositor notwithstanding that the deposito
 
 ### Confirmation of transaction
 
-22\.—(1) The Authority shall, following any transaction affecting book-entry Government securities maintained for any depositor under this Part, issue to each depositor a confirmation thereof in the form of an advice (serially numbered or otherwise).
+22\.—(1) The Authority shall, following any transaction affecting book-entry Government securities maintained for any depositor under this Part, issue to each depositor a confirmation of the transaction in the form of an advice (serially numbered or otherwise).
 
 (2) The advice referred to in subsection (1) shall specify the amount and description of the securities and any other pertinent transaction data.
 
@@ -424,31 +428,33 @@ appropriate out of the Government Securities Fund a sum equal to the appropriate
 
 ### Redemption of Government securities
 
-24\.—(1) Subject to subsection (1A) and section 24A, Government securities shall be redeemable at par —
+24\.—(1) Subject to subsection (2) and section 24A, Government securities shall be redeemable at par —
 
 (a) on such date as may be specified in the regulations relating to the issue of such Government securities (referred to in this Part as the date of maturity); or
 
 (b) in the case of Government securities that are redeemable at the election of the holder thereof at any time, on the earlier of the following dates:
 
-(i) the date of maturity; or
+(i) the date of maturity;
 
 (ii) such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the prescribed manner.
 
+[6/2002; 2/2010]
+
+(2) In the case of Government securities that are held by the Authority for the purpose of securities lending to primary dealers under section 11A, such Government securities shall be redeemable on such conditions as are agreed upon between the Government and the Authority.
+
+[2/2010]
+
+(3) After the date of maturity of the Government securities under subsection (1), all the interest on the principal sums payable on the Government securities shall cease and determine, whether or not payment of the principal sums has been demanded.
+
 [6/2002]
 
-(1A) In the case of Government securities that are held by the Authority for the purpose of securities lending to primary dealers under section 11A, such Government securities shall be redeemable on such conditions as are agreed upon between the Government and the Authority.
-
-[2/2010 wef 01/04/2010]
-
-(2) After the date of maturity of the Government securities under subsection (1), all the interest on the principal sums payable on the Government securities shall cease and determine, whether or not payment of the principal sums has been demanded.
-
-[6/2002]
-
-(3) Redemption proceeds of book-entry Government securities shall be disposed of in accordance with the instructions from the depositor for whose account the securities shall have been maintained by the Authority.
+(4) Redemption proceeds of book-entry Government securities shall be disposed of in accordance with the instructions from the depositor for whose account the securities have been maintained by the Authority.
 
 ### Early redemption
 
 24A\.—(1) The Authority may, from time to time, by public notice invite the public to apply to redeem any Government securities specified in the public notice before the date of maturity of those Government securities.
+
+[2/2010]
 
 (2) The public notice referred to in subsection (1) may specify —
 
@@ -456,21 +462,27 @@ appropriate out of the Government Securities Fund a sum equal to the appropriate
 
 (b) such other information as the Authority may consider necessary.
 
+[2/2010]
+
 (3) The Authority may refuse any application to redeem any Government securities before the date of maturity of those Government securities without assigning any reason.
 
-(4) Section 24(2) and (3) shall apply, with the necessary modifications, to any redemption of Government securities under this section.
+[2/2010]
 
-(5) This section shall apply to Government securities issued on, before or after the date of commencement of section 5 of the Government Securities (Amendment) Act 2010.
+(4) Section 24(3) and (4) shall apply, with the necessary modifications, to any redemption of Government securities under this section.
 
-[2/2010 wef 01/04/2010]
+[2/2010]
+
+(5) This section shall apply to Government securities issued before, on or after 1st April 2010.
+
+[2/2010]
 
 ### Sinking fund
 
-25\.—(1) The Minister may from time to time appropriate out of the Government Securities Fund moneys for the creation of a sinking fund for the repayment of the principal sums payable on any of the Government securities issued under this Act.
+25\.—(1) The Minister may, from time to time, appropriate out of the Government Securities Fund moneys for the creation of a sinking fund for the repayment of the principal sums payable on any of the Government securities issued under this Act.
 
 (2) The total amount in the sinking fund shall not exceed the outstanding principal sums payable on the Government securities.
 
-(3) The Minister may at any time apply all or any part of the moneys in the sinking fund to the purchase of trustee stock or of any other stock, bond, fund or security or investment mentioned in section 7(3) of the Financial Procedure Act (Cap. 109), except any stock, bond, fund or security issued by the Government under any written law.
+(3) The Minister may at any time apply all or any part of the moneys in the sinking fund to the purchase of trustee stock or of any other stock, bond, fund, security or investment mentioned in section 7(3) of the Financial Procedure Act (Cap. 109), except any stock, bond, fund or security issued by the Government under any written law.
 
 (4) All income from investments of moneys in the sinking fund and all profits arising from the realisation of any such investments shall be paid into the sinking fund.
 
@@ -492,15 +504,15 @@ ADVANCE DEPOSITS
 
 (4) Interest on advance deposits shall be paid half-yearly.
 
-(5) The Minister shall, in each half-yearly period ending with the day on which interest on advance deposits falls due, appropriate out of the Government Securities Fund a sum equal to the appropriate half-year’s interest on the advance deposits in order that the interest for that half-year may be paid therefrom.
+(5) The Minister shall, in each half-yearly period ending with the day on which interest on advance deposits falls due, appropriate out of the Government Securities Fund a sum equal to the appropriate half‑year’s interest on the advance deposits in order that the interest for that half-year may be paid from that sum.
 
-(6) If a depositor wishes the whole or part of the advance deposits made by him to be repaid, he shall give not less than 2 working days notice to the Authority of his intention and the advance deposits or that part of them, as the case may be, shall be repaid to him together with such interest as may be determined by the Authority.
+(6) If a depositor wishes the whole or part of the advance deposits made by him to be repaid, he shall give not less than 2 working days’ notice to the Authority of his intention and the advance deposits or that part of them, as the case may be, shall be repaid to him together with such interest as may be determined by the Authority.
 
 (7) Advance deposits may be converted to Government securities issued under this Act on such date as may be agreed between the Authority and the depositors.
 
 ### Power to make advance deposits
 
-28\. Any power to invest conferred on a person by any instrument or other written law shall, unless the contrary intention appears therein, be deemed to include power to make advance deposits in accordance with this Act.
+28\. Any power to invest conferred on a person by any instrument or other written law shall, unless the contrary intention appears in such instrument or other written law, be deemed to include power to make advance deposits in accordance with this Act.
 
 ### Saving
 
@@ -510,8 +522,6 @@ ADVANCE DEPOSITS
 
 PRIMARY DEALERS
 
-[2/2010 wef 01/04/2010]
-
 ### Appointment as primary dealers
 
 29A\.—(1) The Authority may, on application, appoint as a primary dealer any financial institution which carries on or intends to carry on, or holds itself out as carrying on or willing to carry on the business of either or both of the following:
@@ -519,6 +529,8 @@ PRIMARY DEALERS
 (a) applying to the Authority to purchase Government securities on behalf of another person in pursuance of any public invitation under section 30;
 
 (b) offering to redeem any Government securities on behalf of another person in pursuance of any public invitation under section 24A or otherwise.
+
+[2/2010]
 
 (2) In determining whether to appoint a financial institution as a primary dealer, the Authority shall consider the following:
 
@@ -528,17 +540,25 @@ PRIMARY DEALERS
 
 (c) the public interest.
 
+[2/2010]
+
 (3) The Authority may, in any particular case, require the financial institution applying to be appointed as a primary dealer (referred to in this section as an applicant) to furnish such information or document as the Authority deems relevant to its considerations under subsection (2).
+
+[2/2010]
 
 (4) The Authority may refuse an application if —
 
-(a) the applicant does not furnish the Authority with such information or document as are required under subsection (3);
+(a) the applicant does not furnish the Authority with such information or document as is required under subsection (3);
 
 (b) in the opinion of the Authority, the applicant does not meet, or is unlikely to be able to continue to meet, such requirements as may be prescribed in relation to carrying on any business referred to in subsection (1); or
 
 (c) the applicant makes any statement, or furnishes any information or document, in relation to its application that is false or misleading in any material particular, or omits to state any matter or thing without which its application is false or misleading in a material particular.
 
+[2/2010]
+
 (5) Every appointment as a primary dealer under this section shall continue in force for such period as may be specified by the Authority, unless the appointment is earlier cancelled or suspended.
+
+[2/2010]
 
 (6) If a person who is not a primary dealer carries on or holds himself out as carrying on or willing to carry on any business referred to in subsection (1), the person shall be guilty of an offence and shall be liable on conviction —
 
@@ -546,13 +566,21 @@ PRIMARY DEALERS
 
 (b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
+[2/2010]
+
 ### Conditions of appointment as primary dealers
 
 29B\.—(1) The Authority may appoint any financial institution as a primary dealer subject to such conditions or restrictions as the Authority thinks fit.
 
+[2/2010]
+
 (2) Without prejudice to the generality of subsection (1), the Authority may impose such conditions or restrictions with respect to the type of services which may or may not be provided by the primary dealer as the Authority may consider appropriate.
 
+[2/2010]
+
 (3) Subject to subsections (4), (5) and (6), the Authority may at any time add to, vary or revoke any condition or restriction of any financial institution’s appointment as a primary dealer.
+
+[2/2010]
 
 (4) Before making any modification to the conditions or restrictions of any financial institution’s appointment as a primary dealer under this section, the Authority shall, unless the Authority in respect of any particular case considers that it is not practicable or desirable to do so, give notice to the financial institution concerned —
 
@@ -562,6 +590,8 @@ PRIMARY DEALERS
 
 (c) specifying the time (being not less than 28 days from the date of service of notice on the financial institution) within which written representations with respect to the proposed modification may be made.
 
+[2/2010]
+
 (5) Where the Authority receives any written representation under subsection (4)(c), the Authority shall consider the representation and may —
 
 (a) reject the representation; or
@@ -570,27 +600,39 @@ PRIMARY DEALERS
 
 and, in either case, the Authority shall thereupon issue a notice in writing to the primary dealer concerned requiring that effect be given within a reasonable time to the proposed modification specified in the notice or to such modification as may subsequently be amended by the Authority.
 
+[2/2010]
+
 (6) If no written representation is received by the Authority within the time specified under subsection (4)(c) or if any written representation made under that subsection is subsequently withdrawn, the modification shall take effect as specified in the notice given under that subsection.
+
+[2/2010]
 
 ### Directions to primary dealers
 
 29C\.—(1) The Authority may give directions to be observed by any primary dealer or class of primary dealers —
 
-(a) to ensure the continuity or reliability of the provision of services by the primary dealer or class of primary dealers to its customers; or
+(a) to ensure the continuity or reliability of the provision of services by the primary dealer or class of primary dealers to its or their customers; or
 
 (b) in the public interest.
 
+[2/2010]
+
 (2) A direction under subsection (1) —
 
-(a) shall require the primary dealer or every primary dealer in that class of primary dealers concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the direction or are of a description as specified therein, including but not limited to the manner in which the primary dealer conducts the business referred to in section 29A(1) with its customers;
+(a) shall require the primary dealer or every primary dealer in that class of primary dealers concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the direction or are of a description as specified in the direction, including but not limited to the manner in which the primary dealer conducts the business referred to in section 29A(1) with its customers;
 
 (b) shall take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
 
 (c) may be varied or revoked at any time by the Authority.
 
+[2/2010]
+
 (3) Every primary dealer shall comply with every direction of the Authority given to the dealer under this section.
 
+[2/2010]
+
 (4) It shall not be necessary to publish any direction in theGazette.
+
+[2/2010]
 
 ### Cancellation, etc., of appointment as primary dealer
 
@@ -620,35 +662,51 @@ and, in either case, the Authority shall thereupon issue a notice in writing to 
 
 the Authority may by order cancel the appointment as a primary dealer.
 
-(2) The Authority may, if it considers it desirable to do so, in lieu of an order cancelling the appointment as a primary dealer, by order do all or any of the following:
+[2/2010]
+
+(2) The Authority may, if it considers it desirable to do so, in lieu of an order cancelling the appointment as a primary dealer, by order do either or both of the following:
 
 (a) suspend the appointment for such period (not exceeding 6 months) as it thinks fit;
 
 (b) reprimand the primary dealer in writing.
 
+[2/2010]
+
 (3) In the case of a failure by a primary dealer to comply with any direction issued by the Authority under section 29C, the Authority may, in addition to any order that may be made under subsection (2), order the primary dealer to pay to the Authority, for every day or part thereof of such failure, a financial penalty in accordance with such formula as the Minister may, by notification published in theGazette, prescribe.
 
-(3A) A financial penalty collected by the Authority under subsection (3) shall be paid into the Consolidated Fund.
+[2/2010]
 
-[Act 10 of 2013 wef 18/04/2013]
+(4) A financial penalty collected by the Authority under subsection (3) shall be paid into the Consolidated Fund.
 
-(4) The Authority shall not make any order under subsection (1), (2) or (3) unless an opportunity of being heard by a representative in writing had been given to the primary dealer against which the Authority intends to exercise its powers, being a period of at least 21 days but not more than 28 days.
+[10/2013]
 
-(5) Where the Authority has made any order under subsection (1), (2) or (3) against any primary dealer, it shall serve on the primary dealer concerned a notice of its order.
+(5) The Authority shall not make any order under subsection (1), (2) or (3) unless an opportunity of being heard by a representative in writing had been given to the primary dealer against which the Authority intends to exercise its powers, being a period of at least 21 days but not more than 28 days.
 
-(6) Subject to subsections (7) and (8), any order made by the Authority under subsection (1), (2) or (3) against any primary dealer shall not take effect until the expiration of 21 days after the Authority has served the notice of the order on the primary dealer concerned.
+[2/2010]
 
-(7) Any order cancelling or suspending an appointment as a primary dealer shall not operate so as to —
+(6) Where the Authority has made any order under subsection (1), (2) or (3) against any primary dealer, it shall serve on the primary dealer concerned a notice of its order.
+
+[2/2010]
+
+(7) Subject to subsections (8) and (9), any order made by the Authority under subsection (1), (2) or (3) against any primary dealer shall not take effect until the expiration of 21 days after the Authority has served the notice of its order on the primary dealer concerned.
+
+[2/2010]
+
+(8) Any order cancelling or suspending an appointment as a primary dealer shall not operate so as to —
 
 (a) prejudice the enforcement by any person of any right or claim against the financial institution formerly appointed as a primary dealer, or by the financial institution formerly so appointed, of any right or claim against any person; or
 
 (b) affect the validity or enforceability of any agreement, transaction or arrangement in respect of Government securities or Treasury bills entered into (whenever) by the primary dealer.
 
-(8) An order of reprimand under subsection (2) shall take effect on the date it is served on the primary dealer concerned.
+[2/2010]
 
-(9) The Authority may recover on behalf of the Government any financial penalty ordered under subsection (3) as though the financial penalty were a civil debt due to the Authority.
+(9) An order of reprimand under subsection (2) shall take effect on the date it is served on the primary dealer concerned.
 
-[Act 10 of 2013 wef 18/04/2013]
+[2/2010]
+
+(10) The Authority may recover on behalf of the Government any financial penalty ordered under subsection (3) as though the financial penalty were a civil debt due to the Authority.
+
+[10/2013]
 
 ### Appeal to Minister
 
@@ -662,15 +720,23 @@ the Authority may by order cancel the appointment as a primary dealer.
 
 may, within 14 days of the receipt by the primary dealer of the notice of the condition or restriction, the direction (or variation thereof) or order, as the case may be, appeal to the Minister whose decision shall be final.
 
+[2/2010]
+
 (2) Where an appeal is lodged under this section —
 
 (a) the order under section 29D cancelling the appointment as a primary dealer shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn; and
 
 (b) all other notices, directions (or variation thereof) or orders appealed against shall take effect and be complied with until the determination of the appeal.
 
+[2/2010]
+
 (3) Subject to subsection (4), the Minister may determine an appeal under this section by confirming, varying or reversing the notice, direction (or variation thereof) or order of the Authority that is appealed against.
 
+[2/2010]
+
 (4) If the Minister is satisfied that an appeal by a primary dealer is instituted or pursued without reasonable ground, the Minister may, without calling for a reply from the Authority, but after giving the primary dealer an opportunity to be heard, determine the appeal by confirming the notice, direction (or variation thereof) or order of the Authority that is appealed against.
+
+[2/2010]
 
 ### Inspection of books
 
@@ -682,11 +748,13 @@ may, within 14 days of the receipt by the primary dealer of the notice of the co
 
 (c) the primary dealer has satisfied or satisfies any of its obligations under or arising from this Part.
 
+[2/2010]
+
 (2) For the purposes of an inspection under this section —
 
-(a) a primary dealer, and any person who is in possession of the books of the primary dealer relating to its business referred to in section 29A(1), shall produce such books (and afford the Authority access thereto) and provide such information and facilities as may be required by the Authority to conduct the inspection;
+(a) a primary dealer, and any person who is in possession of the books of the primary dealer relating to its business referred to in section 29A(1), shall produce such books (and afford the Authority access to such books) and provide such information and facilities as may be required by the Authority to conduct the inspection;
 
-(b) the primary dealer shall procure that any such person in paragraph (a) who is in possession of its books produce the books to the Authority and give such information or facilities as may be required by the Authority; and
+(b) the primary dealer shall procure that any such person in paragraph (a) who is in possession of the books of the primary dealer produce the books to the Authority and give such information or facilities as may be required by the Authority; and
 
 (c) the Authority may —
 
@@ -694,19 +762,31 @@ may, within 14 days of the receipt by the primary dealer of the notice of the co
 
 (ii) retain possession of any of such books for so long as is necessary for the purposes of exercising a power conferred by this section (except subsection (4)).
 
+[2/2010]
+
 (3) No person shall be entitled, as against the Authority, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
+
+[2/2010]
 
 (4) While the books of a primary dealer are in the possession of the Authority, the Authority —
 
-(a) shall permit another person to inspect at all reasonable times such (if any) of the books as the other person would be entitled to inspect if they were not in the possession of the Authority; and
+(a) shall permit another person to inspect at all reasonable times such books, if any, as the other person would be entitled to inspect if they were not in the possession of the Authority; and
 
 (b) may permit another person to inspect any of the books.
 
+[2/2010]
+
 (5) The Authority may require a person who produced any book to the Authority to explain, to the best of his knowledge and belief, any matter about the compilation of the book or to which the book relates.
+
+[2/2010]
 
 (6) Any person who fails, without reasonable excuse, to comply with subsection (2) or a requirement of the Authority under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-(7) In this section, “books” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any electronic form or otherwise.
+[2/2010]
+
+(7) In this section, “book”, with its grammatical variations, includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any electronic form or otherwise.
+
+[2/2010]
 
 ## PART VIII
 
@@ -730,19 +810,13 @@ GENERAL
 
 (d) prescribing the manner in which applications to be appointed as a primary dealer are to be made;
 
-[2/2010 wef 01/04/2010]
-
 (e) prescribing the duties and obligations of a primary dealer;
 
-[2/2010 wef 01/04/2010]
-
-(f) providing that section 75B of the Banking Act (Cap. 19) shall apply to primary dealers as if the primary dealer were a bank licensed under that Act, with such prescribed exceptions, modifications and adaptations as the differences between Part IV and that Act require; and
-
-[2/2010 wef 01/04/2010]
+(f) providing that section 75B of the Banking Act (Cap. 19) shall apply to a primary dealer as if the primary dealer were a bank licensed under that Act, with such prescribed exceptions, modifications and adaptations as the differences between Part IV and that Act require; and
 
 (g) exempting any financial institution or class of financial institutions from all or any of the provisions of Part VIIA.
 
-[2/2010 wef 01/04/2010]
+[2/2010]
 
 (2) The Authority may, with the approval of the Minister, by notification in theGazette, vary the regulations in relation to any particular issue of Government securities issued or advance deposits accepted under this Act.
 
@@ -752,7 +826,7 @@ GENERAL
 
 (b) in any other case, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
-[2/2010 wef 01/04/2010]
+[2/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -760,7 +834,7 @@ Government Securities Act
 
 (CHAPTER 121A)
 
-This Legislative History is provided for the convenience of users of the Government Securities Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Government Securities Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -798,13 +872,77 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (section 6 — amendment of Government Securities Act)|
+|9.|**2014 Revised Edition—Government Securities Act (Chapter 121A)**|
+||Date of operation|30 April 2014|
 ## COMPARATIVE TABLE
 
 Government Securities Act
 
 (CHAPTER 121A)
 
-The following provisions in the 1993 Revised Edition of the Government Securities Act have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+The following provisions in the 2002 Revised Edition of the Government Securities Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Government Securities Act.
+
+2014 Ed\. 
+
+2002 Ed\. 
+
+11 —(2)
+
+11 —(1A)
+
+(3)
+
+(2)
+
+24 —(2)
+
+24 —(1A)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+29D —(4)
+
+29D —(3A)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
+(9)
+
+(8)
+
+(10)
+
+(9)
+
+## COMPARATIVE TABLE
+
+Government Securities Act
+
+(CHAPTER 121A)
+
+The following provisions in the 1993 Revised Edition of the Government Securities Act were renumbered by the Law Revision Commissioners in the 2002 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Government Securities Act.
 
@@ -828,7 +966,11 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 25 —(1)
 
-(3) and (4)
+(3)
 
-(2) and (3)
+(2)
+
+(4)
+
+(3)
 
