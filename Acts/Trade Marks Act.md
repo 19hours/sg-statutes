@@ -322,7 +322,7 @@ An Act to establish a new law for trade marks, to enable Singapore to give effec
 
 [15th January 1999;
 
-31st October 2000: section 54]
+31st October 2000: section 54 ]
 
 ## PART I
 
@@ -1426,7 +1426,7 @@ any aggrieved person may bring proceedings for relief under this section.
 
 [UK Trade Marks Act 1994, s. 21]
 
-[20/2004]
+[28/2000]
 
 ## PART IV
 
@@ -1534,7 +1534,17 @@ the prescribed particulars of the transaction shall be entered in the register.
 
 ### Trusts and equities
 
-40\.—(1) No notice of any trust (express, implied or constructive) shall be entered in the register, and the Registrar shall not be affected by any such notice.
+40\.—(1) No notice of any implied or constructive trust shall be entered in the register, and the Registrar shall not be affected by any such notice.
+
+[Act 4 of 2014 wef 30/04/2014]
+
+(1A) A notice of an express trust or of the beneficiary of an express trust, or both, may be entered in the register; but —
+
+(a) the Registrar shall not be affected by any such notice in the register; and
+
+(b) for the avoidance of doubt, a failure to enter such notice in the register does not affect any rights or duties under the trust.
+
+[Act 4 of 2014 wef 30/04/2014]
 
 (2) Subject to the provisions of this Act, equities in respect of a registered trade mark may be enforced in like manner as in respect of other personal or movable property.
 
@@ -2553,7 +2563,7 @@ Border enforcement measures
 
 “vessel” has the same meaning as in section 2 of the Regulation of Imports and Exports Act.
 
-[Copyright 1998 Ed., s. 140A]
+[Copyright 1988 Ed., s. 140A]
 
 [4/2003; 20/2004]
 
@@ -3073,6 +3083,8 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 [3/2001]
 
+[3/2007 wef 02/07/2007]
+
 (2) Without prejudice to the generality of subsection (1), the rules may make provision —
 
 (a) as to the practice and procedure of any proceedings or other matter before the Registrar;
@@ -3163,6 +3175,8 @@ Approval of regulations by Registrar
 
 (3) If the applicant does not comply with sub-paragraph (2), the application shall be treated as withdrawn.
 
+[42/2005 wef 01/01/2006]
+
 7.—(1) The Registrar shall consider whether the requirements mentioned in paragraph 6(1) are met.
 
 (2) If it appears to the Registrar that those requirements are not met, he shall inform the applicant and give him an opportunity, within such period as the Registrar may specify, to make representations or to file amended regulations.
@@ -3251,7 +3265,7 @@ General
 
 Signs of which a certification mark may consist
 
-2\. In relation to a certification mark, the reference in the definition of “trade mark” in section 2(1) to distinguishing goods or services dealt with or provided in the course of trade by a person from those so dealt with or provided by any other person shall be construed as a reference to distinguishing goods or services dealt with or provided in the course of trade and which are certified in the manner referred to in section 61(1) (b) from those which are not so certified.
+2\. In relation to a certification mark, the reference in the definition of “trade mark” in section 2(1) to distinguishing goods or services dealt with or provided in the course of trade by a person from those so dealt with or provided by any other person shall be construed as a reference to distinguishing goods or services dealt with or provided in the course of trade and which are certified in the manner referred to in section 61(1)(b) from those which are not so certified.
 
 Indication of geographical origin
 
@@ -3294,6 +3308,8 @@ Approval of regulations, etc.
 (2) Before the end of the prescribed period after the date of the application for registration of a certification mark, the applicant must file the regulations with the Registrar and pay the prescribed fee.
 
 (3) If the applicant does not comply with sub-paragraph (2), the application shall be treated as withdrawn.
+
+[42/2005 wef 01/01/2006]
 
 8.—(1) The Registrar shall consider whether the requirements mentioned in paragraph 7(1) are met.
 
@@ -3365,7 +3381,7 @@ Section 109
 
 Transitional Provisions
 
-INTRODUCTORY
+Introductory
 
 1.—(1) In this Schedule, unless the context otherwise requires —
 
@@ -3531,11 +3547,11 @@ Pending application for alteration of registered mark
 
 15\. An application under section 38 of the repealed Act which is pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
-REVOCATION FOR NON-use
+Revocation for non-use
 
 16.—(1) An application under section 40 of the repealed Act which is pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
-(2) An application under section 22(1) (a) or (b) of this Act may be made in relation to an existing registered mark at any time after 15th January 1999.
+(2) An application under section 22(1)(a) or (b) of this Act may be made in relation to an existing registered mark at any time after 15th January 1999.
 
 (3) However, no application referred to in sub-paragraph (2) for the revocation of the registration of an existing registered mark registered by virtue of section 41 of the repealed Act may be made until more than 5 years after 15th January 1999.
 
@@ -3673,6 +3689,11 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014 (except sections 7(1)(c) and (d), 8(c) and (d) and 13(a) and (b))|
+|16.|**Act 4 of 2014—Statutes (Miscellaneous Amendments) Act 2014**|
+||Date of First Reading|11 November 2013|
+|||(Bill No. 25/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|30 April 2014 (sections 7(1)(c) and (d), 8(c) and (d) and 13(a) and (b))|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
