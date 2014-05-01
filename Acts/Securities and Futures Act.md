@@ -888,7 +888,9 @@
 
 - [163 Power of Authority to order production of books](#Power-of-Authority-to-order-production-of-books)
 
-- [164 Application for warrant to seize books not produced](#Application-for-warrant-to-seize-books-not-produced)
+- [163A Power to enter premises without warrant](#Power-to-enter-premises-without-warrant)
+
+- [164 Warrant to seize books, etc.](#Warrant-to-seize-books-etc)
 
 - [165 Powers where books are produced or seized](#Powers-where-books-are-produced-or-seized)
 
@@ -896,7 +898,7 @@
 
 - [167 Copies of or extracts from books to be admitted in evidence](#Copies-of-or-extracts-from-books-to-be-admitted-in-evidence)
 
-- [168 Offences under this Part](#Offences-under-this-Part)
+- [168 Offences under this Division](#Offences-under-this-Division)
 
 [**Division 4  Transfer of Evidence**](#Division-4--Transfer-of-Evidence)
 
@@ -1600,6 +1602,8 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 (b) in relation to a corporation (other than one referred to in paragraph (a)), means any person, by whatever name called, who is in the direct employment of, or acting for or by arrangement with, the corporation, and who is principally responsible for the management and conduct of the business of the corporation;
 
+[2/2009 wef 29/07/2009]
+
 “clearing facility” has the meaning given to it in Part II of the First Schedule;
 
 “clearing or settlement” has the meaning given to it in Part II of the First Schedule;
@@ -1679,6 +1683,8 @@ but does not include —
 “commodity” means gold or any produce, item, goods, article or financial instrument, and includes an index, right or interest in such commodity other than a financial instrument; and such other index, right or interest of any nature as the Authority may, by notification in theGazette, prescribe to be a commodity;
 
 [Act 34 of 2012 wef 01/08/2013]
+
+[35/2007 wef 27/02/2008]
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1828,6 +1834,8 @@ but does not include such person or class of persons as may be prescribed; or
 
 and includes a futures option transaction, but does not include such contract or class of contracts as the Authority may prescribe; or
 
+[2/2009 wef 20/04/2009]
+
 (ii) such other contract or class of contracts as the Authority may prescribe;
 
 (b) for the purposes of any other provision in this Act —
@@ -1839,6 +1847,8 @@ and includes a futures option transaction, but does not include such contract or
 (B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of the futures market at which the contract is made,
 
 and includes a futures option transaction, but does not include such contract or class of contracts as the Authority may prescribe; or
+
+[2/2009 wef 20/04/2009]
 
 (ii) such other contract or class of contracts as the Authority may prescribe;
 
@@ -1852,9 +1862,13 @@ and includes a futures option transaction, but does not include such contract or
 
 “leveraged foreign exchange trading” has the meaning given to it in the Second Schedule;
 
+[Deleted by Act 2/2009 wef 26/11/2010]
+
 “licensed foreign trade repository” means a corporation that has in force a foreign trade repository licence granted by the Authority under section 46E(2);
 
 [Act 34 of 2012 wef 01/08/2013]
+
+[Deleted by Act 2/2009 wef 26/11/2010]
 
 “licensed trade repository” means a corporation that has in force a trade repository licence granted by the Authority under section 46E(1);
 
@@ -1962,6 +1976,8 @@ whether those rules are made —
 
 “real estate investment trust management” has the meaning given to it in the Second Schedule;
 
+[S 376/2008 wef 01/08/2008]
+
 “recognised business trust” means a business trust that is recognised by the Authority under section 282TA(1);
 
 [2/2009 wef 01/10/2012]
@@ -1981,6 +1997,8 @@ whether those rules are made —
 “related corporation” has the same meaning as in section 4(1) of the Companies Act;
 
 “representative”, except for the purposes of Part XIII, means a person, by whatever name called, in the direct employment of, or acting for, or by arrangement with, a person who carries on business in any regulated activity, who carries out for that person any such activity (other than work ordinarily performed by accountants, clerks or cashiers), whether or not he is remunerated, and whether his remuneration, if any, is by way of salary, wages, commission or otherwise; and includes any officer of a corporation who performs for the corporation any such activity whether or not he is remunerated, and whether his remuneration, if any, is by way of salary, wages, commission or otherwise;
+
+[Deleted by Act 2/2009 wef 26/11/2010]
 
 “responsible person”, in relation to a collective investment scheme, means —
 
@@ -2008,13 +2026,11 @@ whether those rules are made —
 
 (f) any unit in a business trust;
 
-[2/2009 wef 20/04/2009]
-
 (g) any derivative of a unit in a business trust; or
 
-[2/2009 wef 20/04/2009]
-
 (h) such other product or class of products as the Authority may prescribe,
+
+[2/2009 wef 20/04/2009]
 
 but does not include —
 
@@ -2024,11 +2040,11 @@ but does not include —
 
 (iii) promissory notes;
 
-[2/2009 wef 20/04/2009]
-
 (iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere; or
 
 (v) such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 “securities exchange” means an approved exchange in respect of the operation of its securities market;
 
@@ -2076,8 +2092,6 @@ but does not include —
 
 (B) all of the remaining shares in the company or corporation made to all other members of the company or corporation as a result of the person acquiring or consolidating effective control of that company or corporation within the meaning of the Take-over Code;
 
-[2/2009 wef 29/07/2009]
-
 (ii) in the case of a registered business trust, or of a business trust all or any of the units of which are listed for quotation on a securities exchange —
 
 (A) some or all of the units, or some or all of the units of a particular class, in the business trust made to all unitholders of the business trust, or where the person already holds units in the business trust, made to all other unitholders of the business trust; or
@@ -2089,6 +2103,8 @@ but does not include —
 (A) some or all of the units, or some or all of the units of a particular class, in the scheme made to all unitholders of the scheme, or where the person already holds units in the scheme, made to all other unitholders of the scheme; or
 
 (B) all of the remaining units in the scheme made to all other unitholders of the scheme as a result of the person acquiring or consolidating effective control of that scheme within the meaning of the Take-over Code; or
+
+[2/2009 wef 29/07/2009]
 
 (b) a proposed compromise or arrangement which —
 
@@ -2187,8 +2203,6 @@ and which, if executed, would result in a change in effective control of the pub
 (b) a group of users, from which the name of a user can be directly inferred;
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
-
-[2/2009 wef 19/11/2012]
 
 “voting unit” —
 
@@ -2472,6 +2486,8 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 (CA) real estate investment trust management;
 
+[S 396/2008 wef 01/08/2008]
+
 (D) securities financing; or
 
 (E) trading in futures contracts;
@@ -2499,6 +2515,8 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 (c) the holder of a licence issued under that Act when acting lawfully under that Act,
 
 but only to the extent that the activities carried out by such person are regulated under that Act.
+
+[35/2007 wef 27/02/2008]
 
 ## PART II
 
@@ -3097,6 +3115,8 @@ Obligations of approved exchanges
 (3) An approved exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
 (4) Any person who wilfully exceeds any position limit established or varied by an approved exchange shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.
+
+[2/2009 wef 29/03/2010]
 
 ### Obligation to notify Authority of certain matters
 
@@ -3858,6 +3878,8 @@ on any market operated by the recognised market operator.
 
 (2) Such exemption shall be subject to such conditions or restrictions as may be imposed by the Authority.
 
+[2/2009 wef 29/07/2009]
+
 Division 4 —
 
 General Powers of Authority
@@ -4152,6 +4174,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) specifying measures to manage any risks assumed by an approved exchange.
 
+[2/2009 wef 29/03/2010]
+
 (2) Regulations made under this section may provide —
 
 (a) that a contravention of any specified provision thereof shall be an offence; and
@@ -4185,6 +4209,8 @@ issue directions, whether of a general or specific nature, by notice in writing,
 [1/2005]
 
 (3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
+
+[SIA, s. 21; E (DM) A, s. 14]
 
 [Act 34 of 2012 wef 18/03/2013]
 
@@ -8261,6 +8287,8 @@ issue directions by notice in writing either of a general or specific nature to 
 
 (3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
+[SIA, s 21, E (DM) A, s. 14]
+
 [Act 34 of 2012 wef 01/08/2013]
 
 Division 3 —
@@ -8410,6 +8438,8 @@ Division 1 —
 
 Capital Markets Services Licence
 
+[2/2009 wef 26/11/2010]
+
 ### Need for capital markets services licence
 
 82\.—(1) Subject to subsection (2) and section 99, no person shall, whether as principal or agent, carry on business in any regulated activity or hold himself out as carrying on such business unless he is the holder of a capital markets services licence for that regulated activity.
@@ -8420,7 +8450,7 @@ Capital Markets Services Licence
 
 [SIA, s. 24 and s. 26; FTA, s. 11]
 
-83\. [Deleted by Act 2/2009 wef 26/11/2010]
+83\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 ### Application for grant of capital markets services licence
 
@@ -8458,9 +8488,9 @@ Capital Markets Services Licence
 
 (3) Subject to subsection (2), the Authority may, where it considers appropriate, refund the whole or part of any licence fee paid to it.
 
-[SIA, s. 28; FTA, s. 13]
-
 (4) Where the holder of a capital markets services licence fails to pay the licence fee by the date on which such fee is due, the Authority may impose a late payment fee of a prescribed amount for every day or part thereof that the payment is late and both fees shall be recoverable by the Authority as a judgment debt.
+
+[SIA, s. 28; FTA, s. 13]
 
 [2/2009 wef 26/11/2010]
 
@@ -8512,17 +8542,15 @@ Capital Markets Services Licence
 
 (m) the Authority has reason to believe that the applicant, or any of its officers or employees, will not perform the functions for which the applicant seeks to be licensed, efficiently, honestly or fairly;
 
-[2/2009 wef 26/11/2010]
-
 (n) the Authority is of the opinion that it would be contrary to the interests of the public to grant the licence; or
 
 [2/2009 wef 26/11/2010]
 
-[16/2003; 1/2005]
-
 (o) a prohibition order under section 101A has been made by the Authority, and remains in force, against the applicant.
 
 [2/2009 wef 26/11/2010]
+
+[16/2003; 1/2005]
 
 (5) Subject to subsection (6), the Authority shall not refuse an application for a grant of a capital markets services licence without giving the applicant an opportunity to be heard.
 
@@ -8538,19 +8566,17 @@ Capital Markets Services Licence
 
 (c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
 
-[2/2009 wef 26/11/2010]
-
-[16/2003]
-
 (d) a prohibition order under section 101A has been made by the Authority, and remains in force, against the applicant.
 
 [2/2009 wef 26/11/2010]
 
+[16/2003]
+
 [SIA, s. 29; FTA, s. 14 and s. 24]
 
-87\. [Deleted by Act 2/2009 wef 26/11/2010]
+87\. [Repealed by Act 2/2009 wef 26/11/2010]
 
-87A\. [Deleted by Act 2/2009 wef 26/11/2010]
+87A\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 ### Power of Authority to impose conditions or restrictions
 
@@ -8568,7 +8594,7 @@ Capital Markets Services Licence
 
 [SIA, s. 33; FTA, s. 15]
 
-89\. [Deleted by Act 2/2009 wef 26/11/2010]
+89\. [Repealed by Act 2/2009 wef 26/11/2010]
 
 ### Variation of capital markets services licence
 
@@ -9272,17 +9298,13 @@ may within 30 days after it is notified of the decision of the Authority, appeal
 
 (i) its exemption is withdrawn;
 
-[2/2009 wef 26/11/2010]
-
 (ii) it fails or ceases to carry on business in that regulated activity; or
-
-[2/2009 wef 26/11/2010]
 
 (iii) a prohibition order has been made against it under section 101A,
 
-[2/2009 wef 26/11/2010]
-
 during the period to which the annual fee relates; and
+
+[2/2009 wef 26/11/2010]
 
 (b) in the case of a representative of a person exempted under section 99(1)(f), (g) or (h) —
 
@@ -9485,6 +9507,8 @@ Representatives
 
 (5) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
+[2/2009 wef 26/11/2010]
+
 ### Records and public register of representatives
 
 99C\.—(1) The Authority shall keep in such form as it thinks fit records of the following information of each appointed representative, provisional representative and temporary representative:
@@ -9504,6 +9528,8 @@ Representatives
 (2) The information referred to in subsection (1) need only be kept for such period of time as the Authority considers appropriate.
 
 (3) The Authority may reproduce the records referred to in subsection (1) or any part of them in a public register of representatives which shall be published in such manner as it considers appropriate.
+
+[2/2009 wef 26/11/2010]
 
 ### Appointed representative
 
@@ -9557,6 +9583,8 @@ Representatives
 
 furnish particulars of such cessation to the Authority, in the prescribed form and manner.
 
+[2/2009 wef 26/11/2010]
+
 ### Provisional representative
 
 99E\.—(1) For the purposes of this Act, a provisional representative in respect of a type of regulated activity is an individual —
@@ -9601,6 +9629,8 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (5) Where a provisional representative in respect of a type of regulated activity has satisfied the examination requirements specified for that type of regulated activity, his principal shall inform the Authority of that fact in the prescribed form and manner and within the prescribed time.
 
+[2/2009 wef 26/11/2010]
+
 ### Temporary representative
 
 99F\.—(1) For the purposes of this Act, a temporary representative in respect of a type of regulated activity is an individual —
@@ -9637,11 +9667,15 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (b) with such other modifications and adaptations as the differences between temporary representatives and appointed representatives require.
 
+[2/2009 wef 26/11/2010]
+
 ### Offences
 
 99G\.—(1) Any person who contravenes section 99D(3), 99E(4) (in relation to the application of section 99D(3) to a provisional representative) or 99F(4) (in relation to the application of section 99D(3) to a temporary representative) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 (2) Any person who contravenes section 99D(8), 99E(4) (in relation to the application of section 99D(8) to a provisional representative), 99F(4) (in relation to the application of section 99D(8) to a temporary representative) or 99H(5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 26/11/2010]
 
 ### Lodgment of documents
 
@@ -9669,11 +9703,15 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (5) Where a change occurs in any particulars of the appointed, provisional or temporary representative in any document required to be furnished to the Authority under subsection (1), the principal shall, no later than 14 days after the occurrence of such change, furnish particulars of such change to the Authority, in the prescribed form and manner.
 
+[2/2009 wef 26/11/2010]
+
 ### Exemption
 
 99I\.—(1) The Authority may exempt any person or class of persons from any of the requirements of sections 99D to 99H.
 
 (2) Such exemption is subject to such conditions or restrictions as may be imposed by the Authority.
+
+[2/2009 wef 26/11/2010]
 
 ### Representative to act for only one principal
 
@@ -9684,6 +9722,8 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 (3) The Authority may require an applicant for approval under subsection (1) to furnish it with such information or documents as the Authority considers necessary in relation to the application.
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 26/11/2010]
 
 ### Lodgment and fees
 
@@ -9703,6 +9743,8 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 
 (7) The fees referred to in this section shall be paid in the manner specified by the Authority.
 
+[2/2009 wef 26/11/2010]
+
 ### Additional regulated activity
 
 99L\.—(1) The principal of an appointed representative may at any time lodge a notice with the Authority of its intention to appoint the representative as an appointed representative in respect of a type of regulated activity in addition to that indicated against the representative’s name in the public register of representatives.
@@ -9714,6 +9756,8 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 (4) The Authority may, before entering in the public register of representatives the matter set out in subsection (3), require the principal or representative to furnish it with such information or documents as the Authority considers necessary.
 
 (5) A notification under subsection (1) shall be accompanied by a non-refundable prescribed fee which shall be paid in the manner specified by the Authority.
+
+[2/2009 wef 26/11/2010]
 
 ### Power of Authority to refuse entry or revoke or suspend status of appointed, provisional or temporary representative
 
@@ -9758,8 +9802,6 @@ furnish particulars of such cessation to the Authority, in the prescribed form a
 (B) his record of past performance or expertise,
 
 having regard to the nature of his duties as an appointed, provisional or temporary representative;
-
-[Act 34 of 2012 wef 18/03/2013]
 
 (iii) the Authority has reason to believe that he will not carry, or has not carried, on business in the type of regulated activity for which he is appointed efficiently, honestly or fairly; or
 
@@ -9881,6 +9923,8 @@ having regard to the nature of his duties as an appointed, provisional or tempor
 
 (b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
+[2/2009 wef 26/11/2010]
+
 ### Power of Authority to impose conditions or restrictions
 
 99N\.—(1) The Authority may, by notice in writing to an appointed, provisional or temporary representative, impose such conditions or restrictions as it thinks fit on him.
@@ -9890,6 +9934,8 @@ having regard to the nature of his duties as an appointed, provisional or tempor
 (3) The Authority may, at any time by notice in writing to the appointed, provisional or temporary representative, vary any condition or restriction or impose such further condition or restriction as it may think fit.
 
 (4) Any person who contravenes any condition or restriction imposed by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 26/11/2010]
 
 ### False statements in relation to notification of appointed, provisional or temporary representative
 
@@ -9923,6 +9969,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) after doing so, believed on reasonable grounds that the statement made or the omission to state the matter or thing, as the case may be, was not false or misleading.
 
+[2/2009 wef 26/11/2010]
+
 ### Appeals
 
 99P\. Any person who is aggrieved by —
@@ -9932,6 +9980,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) the revocation or suspension of his status as an appointed, provisional or temporary representative under section 99M(1) or (2)(a),
 
 may, within 30 days after he is notified of the decision of the Authority, appeal to the Minister whose decision shall be final.
+
+[2/2009 wef 26/11/2010]
 
 Division 3 —
 
@@ -10063,8 +10113,6 @@ that the order would otherwise prohibit him from doing.
 
 (6) Where the Authority makes a prohibition order against any person who is an appointed, provisional or temporary representative, it shall indicate against his name in the public register of representatives that fact, and the indication shall remain in the register for the duration of the order.
 
-[2/2009 wef 26/11/2010]
-
 (7) The Authority shall keep, in such form as it thinks fit, records on persons against whom prohibition orders are made under this section.
 
 [Act 34 of 2012 wef 18/03/2013]
@@ -10072,6 +10120,8 @@ that the order would otherwise prohibit him from doing.
 (8) The Authority may publish the records referred to in subsection (7), or any part of them, in such manner as the Authority considers appropriate.
 
 [Act 34 of 2012 wef 18/03/2013]
+
+[2/2009 wef 26/11/2010]
 
 ### Effect of prohibition orders
 
@@ -10487,6 +10537,8 @@ General
 
 REPORTING OF DERIVATIVES CONTRACTS
 
+[Act 34 of 2012 wef 31/10/2013]
+
 ### Interpretation of this Part
 
 124\. In this Part, unless the context otherwise requires —
@@ -10513,6 +10565,8 @@ REPORTING OF DERIVATIVES CONTRACTS
 
 (e) any insurer licensed under the Insurance Act (Cap. 142);
 
+[Act 10/2013 wef 01/11/2013]
+
 (f) any approved trustee referred to in section 289;
 
 (g) any holder of a capital markets services licence; or
@@ -10520,8 +10574,6 @@ REPORTING OF DERIVATIVES CONTRACTS
 (h) any other person who is, or who belongs to a class of persons which is, prescribed by the Authority by regulations made under section 129 for the purposes of this definition.
 
 [Act 34/2012 wef 31/10/2013]
-
-[Act 10/2013 wef 01/11/2013]
 
 ### Reporting of specified derivatives contracts
 
@@ -10697,6 +10749,8 @@ REPORTING OF DERIVATIVES CONTRACTS
 
 CLEARING OF DERIVATIVES CONTRACTS
 
+[Act 34/2012 wef 31/10/2013]
+
 ### Interpretation of this Part
 
 129B\. In this Part, unless the context otherwise requires —
@@ -10717,6 +10771,8 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 (d) any insurer licensed under the Insurance Act (Cap. 142);
 
+[Act 10/2013 wef 01/11/2013]
+
 (e) any approved trustee referred to in section 289;
 
 (f) any holder of a capital markets services licence; or
@@ -10724,8 +10780,6 @@ CLEARING OF DERIVATIVES CONTRACTS
 (g) any other person who is, or who belongs to a class of persons which is, prescribed by the Authority by regulations made under section 129G for the purposes of this definition.
 
 [Act 34/2012 wef 31/10/2013]
-
-[Act 10/2013 wef 01/11/2013]
 
 ### Clearing of specified derivatives contracts
 
@@ -12302,6 +12356,8 @@ Division 1 —
 
 Supervisory Powers
 
+[2/2009 wef 01/10/2012]
+
 Subdivision (1) —
 
 Powers of Authority to require disclosure of information about securities and futures contracts
@@ -12338,8 +12394,6 @@ and the nature of the instructions given to the holder or exempt person in respe
 
 [Act 34 of 2012 wef 01/08/2013]
 
-[Act 34 of 2012 wef 01/08/2013]
-
 ### Exercise of certain powers in relation to securities
 
 143\.—(1) This section shall apply where the Authority considers that —
@@ -12347,6 +12401,8 @@ and the nature of the instructions given to the holder or exempt person in respe
 (a) it may be necessary to prohibit dealing in securities of, or made available by, a corporation under section 32;
 
 (aa) it may be necessary to give a direction or take any action under section 34 or 81 in relation to securities of, or made available by, a corporation;
+
+[2/2009 wef 29/07/2009]
 
 (b) a person may have contravened any of the provisions of Part XII in relation to securities of, or made available by, a corporation; or
 
@@ -12378,9 +12434,9 @@ the Authority may require the person to disclose to the Authority the informatio
 
 (a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 34;
 
-[2/2009 wef 29/07/2009]
-
 (aa) it may be necessary to give a direction or take any action in relation to futures contracts under section 81; or
+
+[2/2009 wef 29/07/2009]
 
 (b) a person may have contravened any of the provisions of Part XII in relation to futures contracts.
 
@@ -12576,6 +12632,8 @@ except a foreign regulatory authority with the prior written approval of the Aut
 
 (5) For the purposes of this section and section 150C, a reference to a foreign regulatory authority is a reference to an authority of a country or territory other than Singapore, exercising any function that corresponds to a regulatory function of the Authority under the Monetary Authority of Singapore Act (Cap. 186).
 
+[2/2009 wef 26/11/2010]
+
 ### Confidentiality of inspection report by foreign regulatory authority
 
 150C\.—(1) Where a written report or any part thereof (referred to in this section as the report) has been produced by a foreign regulatory authority upon an inspection under section 150B in respect of any holder of a capital markets services licence or person exempted under section 99(1)(a), (b), (c), (d) or (h) (referred to in this section as the inspected person) and is provided by the foreign regulatory authority to the inspected person, the report shall not be disclosed by the inspected person or, if the inspected person is a corporation, by any of its officers or auditors, to any other person except in the circumstances provided under subsection (2).
@@ -12603,6 +12661,8 @@ except a foreign regulatory authority with the prior written approval of the Aut
 (b) where the disclosure was made in any written form, he had as soon as practicable after receiving the report surrendered or taken all reasonable steps to surrender the report and all copies thereof to the Authority; and
 
 (c) where the disclosure was made in an electronic form, he had as soon as practicable after receiving the report taken all reasonable steps to ensure that all electronic copies of the report had been deleted and that the report and all copies thereof in other forms had been surrendered to the Authority.
+
+[2/2009 wef 26/11/2010]
 
 Division 2 —
 
@@ -12660,7 +12720,9 @@ General
 
 (c) for doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this Division.
 
-(6) In this section, “requirement imposed by the Authority” includes a requirement imposed by an investigator under Subdivision (2).
+(6) In this section, “requirement imposed by the Authority” includes a requirement imposed by an investigator under Subdivision (2) or (3).
+
+[Act 34 of 2012 wef 01/05/2014]
 
 ### Confidentiality of investigation reports
 
@@ -12692,15 +12754,19 @@ General
 
 ### Self-incrimination and savings for advocates and solicitors
 
-153\.—(1) A person is not excused from disclosing information to the Authority or, as the case may be, an investigator under Subdivision (2), under a requirement made of him under any provision of this Division on the ground that the disclosure of the information might tend to incriminate him.
+153\.—(1) A person is not excused from disclosing information to the Authority or, as the case may be, an investigator under Subdivision (2) or (3), under a requirement made of him under any provision of this Division on the ground that the disclosure of the information might tend to incriminate him.
 
-(2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Division to the Authority or, as the case may be, an investigator under Subdivision (2), that the statement might tend to incriminate him, that statement —
+[Act 34 of 2012 wef 01/05/2014]
+
+(2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Division to the Authority or, as the case may be, an investigator under Subdivision (2) or (3), that the statement might tend to incriminate him, that statement —
 
 (a) shall not be admissible in evidence against him in criminal proceedings other than proceedings for an offence under section 162(3); but
 
 [2/2009 wef 29/07/2009]
 
 (b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings under Part XII.
+
+[Act 34 of 2012 wef 01/05/2014]
 
 (3) Nothing in this Division shall —
 
@@ -12844,39 +12910,103 @@ Powers to obtain information
 
 163\. For the purpose of an investigation under this Division, the Authority may, in writing, require any person at a specified time and place to provide information or produce books relating to any matter under investigation, and such person shall comply with that requirement.
 
-### Application for warrant to seize books not produced
+### Power to enter premises without warrant
 
-164\.—(1) Where the Authority has reasonable grounds to suspect that there is, on any particular premises, any book the production of which has been required under section 163, and —
+163A\.—(1) In connection with an investigation under this Division, any officer of the Authority who is authorised by the Authority to do so (referred to in this section as an investigator) and such other officers or persons as the Authority has authorised in writing to accompany the investigator (each referred to in this section as an authorised person) may enter any premises.
 
-(a) which has not been produced in compliance with that requirement; or
+(2) No investigator and no authorised person accompanying the investigator shall enter any premises in the exercise of the powers under this section unless the investigator has given the occupier of the premises a written notice which —
 
-(b) which the Authority has reasonable grounds to believe will not be produced in compliance with that requirement,
+(a) gives at least 2 working days’ notice of the intended entry;
 
-the Authority may apply to a Magistrate for the issue of a warrant to search the premises for such book.
+(b) indicates the subject-matter and purpose of the investigation; and
 
-(2) Whenever it appears to a Magistrate, upon an application made under subsection (1), and after such enquiry as he may think necessary, that there are reasonable grounds for suspecting that there is, on particular premises, any book the production of which has been required under section 163, and —
+(c) indicates the nature of the offences created by section 168.
 
-(a) which has not been produced in compliance with that requirement; or
+(3) Subsection (2) shall not apply —
 
-(b) which the Magistrate has reasonable grounds to suspect will not be produced in compliance with that requirement,
+(a) if the investigation relates to an alleged or a suspected contravention of any provision of Part XII, and the investigator has reasonable grounds for suspecting that the premises are, or have been, occupied by a person who is being investigated in relation to the contravention; or
 
-the Magistrate may issue a warrant authorising the Authority or any person named therein, with or without assistance —
+(b) if the investigator has taken all such steps as are reasonably practicable to give notice under subsection (2)(a) but has not been able to do so.
 
-(i) to enter and search the premises and to break open and search anything, whether a fixture or not, in the premises; and
+(4) Where subsection (3) applies, the power of entry conferred by subsection (1) shall only be exercised upon production of —
 
-(ii) to take possession of, or secure against interference, any book that appears to be a book the production of which was so required.
+(a) evidence of the investigator’s authorisation and the authorisation of every authorised person accompanying him; and
 
-(3) The powers conferred under subsections (1) and (2) are in addition to, and not in derogation of, any other powers conferred by any other written law or rule of law.
+(b) a document containing the information referred to in subsection (2)(b) and (c).
 
-(4) In this section, “premises” includes any structure, building, aircraft, vehicle or vessel.
+(5) An investigator or authorised person entering any premises under this section may —
 
-[SIA, s. 5 (9) to (11) modified]
+(a) take with him such equipment as appears to him to be necessary;
+
+(b) require any person on the premises to produce any book which the investigator or authorised person considers relates to any matter relevant to the investigation;
+
+(c) require any person on the premises to state, to the best of the person’s knowledge and belief, where any such book is to be found; and
+
+(d) take any step, or issue to any person on the premises any requirement, which appears to be necessary for the purpose of preserving or preventing interference with any book which the investigator or authorised person considers relates to any matter relevant to the investigation.
+
+[Act 34 of 2012 wef 01/05/2014]
+
+### Warrant to seize books, etc.
+
+164\.—(1) A Magistrate may, on the application of the Authority —
+
+(a) issue a warrant, if the Magistrate is satisfied that there are reasonable grounds to suspect that there is, on any particular premises, any book —
+
+(i) the production of which has been required by the Authority under section 163 or by an investigator or authorised person under section 163A, but which has not been produced in compliance with that requirement; or
+
+(ii) which, if required by the Authority under section 163 to be produced, will be concealed, removed, tampered with or destroyed; and
+
+(b) if the Magistrate is also satisfied that there are reasonable grounds to suspect that there is, on those premises, any other book which relates to any matter relevant to the investigation concerned, direct that the powers exercisable under the warrant shall extend to that other book.
+
+(2) A warrant issued under subsection (1) shall authorise the Authority or any person named in the warrant, with or without assistance —
+
+(a) to enter the premises specified in the warrant, using such force as is reasonably necessary for the purpose;
+
+(b) to search the premises and to break open and search anything, whether a fixture or not, in the premises;
+
+(c) to take possession of, or secure against interference, any book that appears to be a book referred to in subsection (1)(a) or, where applicable, subsection (1)(b);
+
+(d) to require any person to provide an explanation of any book that appears to be a book referred to in subsection (1)(a) or, where applicable, subsection (1)(b), or to state, to the best of that person’s knowledge and belief, where any such book may be found;
+
+(e) to search any person on those premises, if there are reasonable grounds to suspect that the person has in his possession any book referred to in subsection (1)(a) or, where applicable, subsection (1)(b), or any equipment or article which relates to any matter relevant to the investigation concerned; and
+
+(f) to remove from those premises for examination any book that appears to be a book referred to in subsection (1)(a) or, where applicable, subsection (1)(b), or any equipment or article which relates to any matter relevant to the investigation concerned.
+
+(3) The Authority or any person named in the warrant to execute it may allow any equipment or article referred to in subsection (2)(f) to be retained on the premises specified in the warrant to be searched, subject to such conditions as the Authority or that person may require.
+
+(4) Any person entering any premises by virtue of a warrant issued under subsection (1) may take with him such equipment as appears to him to be necessary.
+
+(5) Where a warrant is issued under subsection (1), and there is no one present at the premises specified in the warrant to be searched when the Authority or any person named in the warrant proposes to execute the warrant, the Authority or that person shall, before executing the warrant —
+
+(a) take such steps as are reasonable in all the circumstances to inform the occupier of the premises of the intended entry into the premises; and
+
+(b) subject to subsection (6), give the occupier or the occupier’s legal or other representative a reasonable opportunity to be present when the warrant is executed.
+
+(6) If the Authority or any person named in the warrant to execute it is unable to inform the occupier of the premises of the intended entry into the premises, the Authority or that person shall, when executing the warrant, leave a copy of the warrant in a prominent place on the premises.
+
+(7) On leaving any premises specified in a warrant issued under subsection (1), the Authority or any person named in the warrant to execute it shall, if the premises are unoccupied or if the occupier of the premises is temporarily absent, leave the premises as effectively secured as the Authority or that person found the premises.
+
+(8) The powers conferred by this section are in addition to, and not in derogation of, any other powers conferred by any other written law or rule of law.
+
+(9) In this section —
+
+“occupier”, in relation to any premises specified in a warrant issued under subsection (1), includes any person whom the Authority or any person named in the warrant to execute it reasonably believes to be the occupier of those premises;
+
+“premises” includes any structure, building, aircraft, vehicle or vessel.
+
+[Act 34 of 2012 wef 01/05/2014]
 
 ### Powers where books are produced or seized
 
 165\.—(1) This section shall apply where —
 
-(a) books are produced to the Authority under a requirement made under section 163;
+(a) books are produced to the Authority —
+
+(i) pursuant to a requirement of the Authority under section 163 or of an investigator or authorised person under section 163A(5); or
+
+(ii) during an entry into any premises by an investigator or authorised person under section 163A;
+
+[Act 34 of 2012 wef 01/05/2014]
 
 (b) under a warrant issued under section 164, the Authority or a person named therein —
 
@@ -12892,7 +13022,7 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (a) inspect, and may make copies of, or take extracts from, any of the books;
 
-(b) use, or permit the use of, any of the books for the purposes of any proceedings; and
+(b) use, or permit the use of, any of the books for the purposes of any proceedings;
 
 (c) retain possession of any of the books for so long as is necessary —
 
@@ -12900,7 +13030,11 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (ii) for a decision to be made about whether or not any proceedings to which the books concerned would be relevant should be instituted; or
 
-(iii) for such proceedings to be instituted and carried on.
+(iii) for such proceedings to be instituted and carried on; and
+
+(d) require any book which the Authority or person referred to in subsection (1)(b) is satisfied relates to any matter relevant to an investigation under this Division, and which is stored in any electronic form, to be produced in a form which can be taken away and which is visible and legible.
+
+[Act 34 of 2012 wef 01/05/2014]
 
 (4) No person shall be entitled, as against the Authority or, where applicable, a person referred to in subsection (1)(b) to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
 
@@ -12910,15 +13044,19 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (b) may permit any other person to inspect any of the books.
 
-(6) Unless subsection (1)(b)(ii) applies, a person referred to in subsection (1)(b) may deliver any of the books into the possession of the Authority or of a person authorised by the Authority to receive them.
+(6) Unless subsection (1)(b)(ii) applies, an investigator or authorised person referred to in subsection (1)(a) or a person referred to in subsection (1)(b) may deliver any of the books into the possession of the Authority or of a person authorised by the Authority to receive them.
 
-(7) Where subsection (1)(a) or (b) applies, the Authority, a person referred to in subsection (1)(b) or a person into whose possession the books are delivered under subsection (6), may require —
+[Act 34 of 2012 wef 01/05/2014]
+
+(7) Without prejudice to sections 163A(5) and 164(2)(d), where subsection (1)(a) or (b) applies, the Authority, an investigator or authorised person referred to in subsection (1)(a), a person referred to in subsection (1)(b) or a person into whose possession the books are delivered under subsection (6), may require —
 
 (a) if subsection (1)(a) applies, a person who so produced any of the books; or
 
 (b) in any other case, a person who was a party to the compilation of any of the books,
 
 to explain to the best of his knowledge and belief any matter about the compilation of any of the books or to which any of the books relate.
+
+[Act 34 of 2012 wef 01/05/2014]
 
 [SIA, s. 5 (6) (a); ASIC 1989, s. 37 modified]
 
@@ -12942,23 +13080,31 @@ to explain to the best of his knowledge and belief any matter about the compilat
 
 [SIA, s. 7]
 
-### Offences under this Part
+### Offences under this Division
 
-168\.—(1) A person who, without reasonable excuse, refuses or fails to comply with any requirement imposed under section 163, 165(7) or 166 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+168\.—(1) A person who, without reasonable excuse, refuses or fails to comply with any requirement imposed under section 163, 163A(5), 165(3)(d) or (7) or 166, or pursuant to an authorisation referred to in section 164(2)(d), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [1/2005]
+
+[Act 34 of 2012 wef 01/05/2014]
 
 (2) A person who, in purported compliance with a requirement under this Subdivision, furnishes information or makes a statement that is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (3) It shall be a defence to a prosecution for an offence under subsection (2) if the defendant proves that he believed on reasonable grounds that the information or statement was true and not misleading.
 
-(4) Any person, who conceals, destroys, mutilates or alters any book relating to a matter that the Authority is investigating or about to investigate under this Division or who, where such a book is within the territory of Singapore, takes or sends the book out of Singapore, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+(4) Any person, who conceals, destroys, mutilates or alters any book, equipment or article relating to a matter that the Authority is investigating or about to investigate under this Division or who, where any such book, equipment or article is within the territory of Singapore, takes or sends the book, equipment or article out of Singapore, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(5) A person who, without reasonable excuse, obstructs or hinders the Authority in the exercise of any power under this Subdivision, or obstructs or hinders a person who is executing a warrant issued under section 164, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 34 of 2012 wef 01/05/2014]
+
+(5) A person who, without reasonable excuse, obstructs or hinders the Authority in the exercise of any power under this Subdivision, or obstructs or hinders a person who is exercising any power under section 163A(1) or (5) or executing a warrant issued under section 164, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [1/2005]
 
-(6) The occupier or the person in charge of the premises that a person enters under a warrant issued under section 164 who fails to provide to that person all reasonable facilities and assistance for the effective exercise of his powers under the warrant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 34 of 2012 wef 01/05/2014]
+
+(6) Any occupier or person in charge of any premises who fails to provide, to any person who enters those premises under section 163A(1) or under a warrant issued under section 164(1), all reasonable facilities and assistance for the effective exercise of that person’s powers under section 163A(1) or (5) or under the warrant, as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 34 of 2012 wef 01/05/2014]
 
 [SIA, s. 6 modified; ASIC 1989, s. 63-67]
 
@@ -12974,6 +13120,8 @@ Transfer of Evidence
 
 “police officer” means a member of the Singapore Police Force who is deployed in the Commercial Affairs Department of that Force.
 
+[2/2009 wef 29/07/2009]
+
 ### Evidence obtained by Authority may be used in criminal investigations and proceedings
 
 168B\.—(1) Notwithstanding the provisions of any written law or any rule of law, the Authority may furnish any book, document, written record of any examination or other information obtained by the Authority in the exercise of its powers under this Part to ––
@@ -12988,6 +13136,8 @@ for the purposes of any investigation into or criminal proceedings against a per
 
 (2) For the avoidance of doubt, any book, document, written record of examination or other information furnished by the Authority under subsection (1) shall not be inadmissible in any criminal proceedings by reason only that it was first obtained by the Authority in the exercise of its powers under this Act, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
 
+[2/2009 wef 29/07/2009]
+
 ### Evidence obtained in police investigations may be used in civil proceedings
 
 168C\.—(1) Notwithstanding the provisions of any written law or any rule of law, any book, document, statement or other information obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under Divisions 1 and 2 of Part IV and sections 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010 may be furnished to the Authority, if the Public Prosecutor is satisfied that such information is necessary to enable the Authority to investigate or bring an action for a civil penalty order against a person in respect of a contravention of any provision in Part XII.
@@ -12995,6 +13145,8 @@ for the purposes of any investigation into or criminal proceedings against a per
 [15/2010 wef 02/01/2011]
 
 (2) For the avoidance of doubt, any book, document, statement or other information furnished to the Authority under subsection (1) shall not be inadmissible in any civil proceedings under this Act to which the Authority is a party by reason only that it was first obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under the Criminal Procedure Code, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
+
+[2/2009 wef 29/07/2009]
 
 ## PART X
 
@@ -13361,9 +13513,9 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 (b) making a payment under subsection (2) or (5),
 
-1shall not, in respect of each member, exceed the prescribed amount.
+\*shall not, in respect of each member, exceed the prescribed amount.
 
-1Prescribed amount shall be $2 million for the purposes of section 186(10) — see G.N. No. S 367/2005.
+\*Prescribed amount shall be $2 million for the purposes of section 186(1) — see G.N. No. S 367/2005.
 
 (11) Subject to the provisions of this section —
 
@@ -13371,9 +13523,9 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 (b) the amount that the Official Assignee, a trustee in bankruptcy, a nominee or a liquidator may pay to each creditor of a member from any amount paid to the Official Assignee, trustee in bankruptcy, nominee or liquidator, as the case may be, under subsection (2) or (5),
 
-2shall not exceed the prescribed amount.
+†shall not exceed the prescribed amount.
 
-2Prescribed amount shall be $50,000 for the purposes of section 186(11) — see G.N. No. S 367/2005.
+†Prescribed amount shall be $50,000 for the purposes of section 186(11) — see G.N. No. S 367/2005.
 
 (12) For the purposes of subsections (10) and (11), any amount paid out of the fidelity fund shall, to the extent to which the fund is subsequently reimbursed therefor, be disregarded.
 
@@ -13390,6 +13542,8 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 (a) on the approved exchange which establishes, keeps and administers the fidelity fund; or
 
 (b) through a trading linkage of the approved exchange with an overseas securities exchange or an overseas futures exchange.
+
+[2/2009 wef 29/07/2009]
 
 ### Claims against fund
 
@@ -13589,11 +13743,11 @@ Prohibited Conduct — Securities
 
 (B) the value or price of any group of any such debentures, stocks or shares; or
 
-(C) an index of any such debentures, stocks or shares ; or
-
-[2/2009 wef 20/04/2009]
+(C) an index of any such debentures, stocks or shares; or
 
 (iv) such other product or class of products as the Authority may prescribe,
+
+[2/2009 wef 20/04/2009]
 
 but does not include —
 
@@ -13603,11 +13757,11 @@ but does not include —
 
 (CC) promissory notes;
 
-[2/2009 wef 20/04/2009]
-
 (DD) certificates of deposit issued by a bank or finance company; or
 
 (EE) such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 (b) in relation to a business trust, for the purposes of sections 196(a)(ia) and (b)(ia), 198, 202 and 203, means —
 
@@ -13617,13 +13771,11 @@ but does not include —
 
 (iii) debentures of a business trust;
 
-[2/2009 wef 20/04/2009]
-
 (iv) any right, option or derivative in respect of any such debentures; or
 
-[2/2009 wef 20/04/2009]
-
 (v) such other product or class of products as the Authority may prescribe,
+
+[2/2009 wef 20/04/2009]
 
 but does not include —
 
@@ -13631,11 +13783,11 @@ but does not include —
 
 (B) bills of exchange;
 
-[2/2009 wef 20/04/2009]
-
 (C) promissory notes; or
 
 (D) such other product or class of products as the Authority may prescribe as not being securities; and
+
+[2/2009 wef 20/04/2009]
 
 (c) in any other case, has the same meaning as in section 2.
 
@@ -13805,6 +13957,8 @@ if the entity, trustee or responsible person is required by the securities excha
 
 in respect of that contravention.
 
+[2/2009 wef 29/07/2009]
+
 Division 2 —
 
 Prohibited Conduct —
@@ -13925,6 +14079,8 @@ induce or attempt to induce another person to trade in a futures contract or eng
 
 in respect of that contravention.
 
+[2/2009 wef 29/07/2009]
+
 Division 3 —
 
 Insider Trading
@@ -14003,13 +14159,13 @@ Insider Trading
 
 (C) an index of any such debentures, stocks or shares;
 
-[2/2009 wef 20/04/2009]
-
 (iv) a futures contract only if the commodity which is the subject of the futures contract is a share or stock of a corporation; or
 
 (v) such other product or class of products as the Authority may prescribe,
 
 but does not include such product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 (b) in relation to a business trust, for the purposes of sections 213(a)(ia) and (b)(ia) and 218(1A) and (4A) —
 
@@ -14019,15 +14175,13 @@ but does not include such product or class of products as the Authority may pres
 
 (iii) debentures of a business trust;
 
-[2/2009 wef 20/04/2009]
-
 (iv) any right, option or derivative in respect of any such debentures; or
-
-[2/2009 wef 20/04/2009]
 
 (v) such other product or class of products as the Authority may prescribe,
 
 but does not include such product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 (c) in any other case —
 
@@ -14053,9 +14207,9 @@ but does not include such product or class of products as the Authority may pres
 
 (vii) a futures contract only if the commodity which is the subject of the futures contract is a share or share index, or stock or stock index; or
 
-[2/2009 wef 20/04/2009]
-
 (viii) such other product or class of products as the Authority may prescribe,
+
+[2/2009 wef 20/04/2009]
 
 but does not include —
 
@@ -14063,11 +14217,11 @@ but does not include —
 
 (BB) promissory notes;
 
-[2/2009 wef 20/04/2009]
-
 (CC) certificates of deposit issued by a bank or finance company; or
 
 (DD) such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 “sell”, in relation to securities, includes, in the case of an option contract under which a party acquires an option or right from another party —
 
@@ -14215,6 +14369,8 @@ it shall be presumed, until the contrary is proved, that the connected person kn
 
 (ii) he is a substantial shareholder in that corporation or in a related corporation; or
 
+[2/2009 wef 01/10/2012]
+
 (iii) he occupies a position that may reasonably be expected to give him access to information of a kind to which this section applies by virtue of —
 
 (A) any professional or business relationship existing between himself (or his employer or a corporation of which he is an officer) and that corporation or a related corporation; or
@@ -14286,6 +14442,8 @@ subsections (2) and (3) shall apply.
 (b) the person has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5),
 
 in respect of that contravention.
+
+[2/2009 wef 29/07/2009]
 
 ### Exception for redemption of units in collective investment scheme
 
@@ -14425,7 +14583,11 @@ in respect of that contravention.
 
 (b) the holder or representative has not given any advice to the principal in relation to the transaction or agreement or otherwise sought to procure the principal’s instructions to enter into the transaction or agreement; and
 
+[2/2009 wef 26/11/2010]
+
 (c) the principal is not an associate of the holder or representative.
+
+[2/2009 wef 26/11/2010]
 
 (2) Nothing in this section shall affect the application of section 218(2) or 219(2) in relation to the principal.
 
@@ -14513,13 +14675,13 @@ whichever is the greater.
 
 (i) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading were dealt in or traded contemporaneously with the contravention; and
 
+[2/2009 wef 01/10/2009]
+
 (ii) the price at which the securities, futures contracts, or contracts or arrangements in connection with leveraged foreign exchange trading would have been likely to have been so dealt in or traded at the time of the contemporaneous dealing or trading if —
 
 (A) in any case where the contravening person had acted in contravention of section 218 or 219, the information referred to in section 218(1) or 219(1), as the case may be, had been generally available; or
 
 (B) in any other case, the contravention had not occurred.
-
-[Act 34 of 2012 wef 18/03/2013]
 
 [Act 34 of 2012 wef 18/03/2013]
 
@@ -14615,6 +14777,8 @@ shall be stayed, and may not thereafter be continued except with the leave of co
 
 (b) has an order for the payment of a civil penalty made against him under section 232, other than by way of a default judgment or a consent order made with or without admission of contravention under section 232(4),
 
+[2/2009 wef 29/07/2009]
+
 in respect of the contravention of any of the provisions in this Part, the court which convicted him or made the order against him (referred to in this section as the relevant court) may, after the conviction or the order imposing the civil penalty has been made final, fix a date on or before which all claimants have to file and prove their claims for compensation in respect of that contravention.
 
 [Act 34 of 2012 wef 18/03/2013]
@@ -14641,9 +14805,9 @@ in respect of the contravention of any of the provisions in this Part, the court
 
 (c) no notice of appeal against the conviction is lodged within the time prescribed by sections 377 and 378 of the Criminal Procedure Code 2010; or
 
-(d) any appeal against the conviction is withdrawn.
-
 [15/2010 wef 02/01/2011]
+
+(d) any appeal against the conviction is withdrawn.
 
 (5) For the purposes of this section, an order imposing a civil penalty is made final if —
 
@@ -15211,9 +15375,13 @@ whichever is the lesser.
 
 “claimant”, in relation to a contravention of any provision in this Part, means any person who would qualify as a claimant under section 234 in respect of that contravention.
 
+[2/2009 wef 01/10/2012]
+
 Division 6 —
 
 Miscellaneous
+
+[2/2009 wef 01/10/2012]
 
 ### Jurisdiction of District Court
 
@@ -15229,13 +15397,15 @@ Miscellaneous
 
 [Act 34 of 2012 wef 18/03/2013]
 
-(b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
-
 [2/2009 wef 01/10/2012]
+
+(b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
 (2) Without prejudice to the generality of subsection (1), Rules of Court may, in relation to proceedings under sections 236, 236K and 236L —
 
 (a) provide for the advertisement of a notice for the filing and proof of claims under those sections;
+
+[2/2009 wef 01/10/2012]
 
 (b) prescribe the procedure for the filing, proof and hearing of those claims; and
 
@@ -15262,6 +15432,8 @@ Interpretation
 239\.—(1) In this Division —
 
 “borrowing entity” means an entity that is or will be under a liability (whether or not such liability is present or future) to repay any money received by it in response to an invitation to subscribe for or purchase debentures of the entity;
+
+[Deleted by Act 2/2009 wef 29/07/2009]
 
 “control”, in relation to an entity, means the capacity of a person to determine the outcome of decisions on the financial and operating policies of the entity, having regard to —
 
@@ -15290,6 +15462,8 @@ but does not include any capacity of a person to influence decisions on the fina
 “issuer”, in relation to an offer of securities, means the entity that issued or will be issuing the securities being offered;
 
 “limited liability partnership” means any limited liability partnership whether registered in Singapore under the Limited Liability Partnerships Act (Cap. 163A) or otherwise;
+
+[2/2009 wef 29/07/2009]
 
 “minimum subscription”, in relation to any securities offered for subscription, means the amount stated in the prospectus relating to the offer as the minimum amount which must be raised by the issue of the securities so offered, failing which no securities will be allotted or issued;
 
@@ -15352,6 +15526,8 @@ when the trustee acts in that capacity; and
 (d) such other product or class of products as the Authority may prescribe,
 
 but does not include such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 “statutory meeting” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -15444,6 +15620,8 @@ then this Division shall not apply to that offer.
 ### Modification of provisions to certain offers
 
 239B\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of securities as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
+
+[2/2009 wef 29/07/2009]
 
 Subdivision (2) —
 
@@ -15543,7 +15721,7 @@ Prospectus requirements
 
 [1/2005]
 
-(6) [Deleted Act 1/2005]
+(6) [Deleted by Act 1/2005]
 
 (7) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -15571,11 +15749,13 @@ Prospectus requirements
 
 (8A) Where, after a notice of an opportunity to be heard has been given under subsection (8)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than such day from the date of lodgment of the prospectus or profile statement with the Authority as the Authority may prescribe.
 
-[2/2009 wef 29/03/2010]
-
 [1/2005]
 
+[2/2009 wef 29/03/2010]
+
 (8B) For the purposes of subsections (8) and (8A), the Authority may prescribe the same period and day for all offers or different periods and days for different offers.
+
+[2/2009 wef 29/03/2010]
 
 (9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (4A) and which contains the information required to be stipulated in the prospectus under section 243, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been lodged with the Authority.
 
@@ -17247,6 +17427,8 @@ the trustee shall immediately lodge notice of that fact with the Authority.
 
 (b) a profit and loss account and balance-sheet of a borrowing entity or its guarantor entity required to be made out and lodged in accordance with subsection (6)(b) need not be audited, or the audit thereof may be of a limited nature or extent, if the trustee for the holders of the debentures of the borrowing entity has, by notice in writing, consented to the audit being dispensed with or being of a limited nature or extent, as the case may be.
 
+[2/2009 wef 29/07/2009]
+
 (11) Where the trustee has by notice in writing given his consent under subsection (10), the directors or equivalent persons of the borrowing entity, or the directors or equivalent persons of the guarantor entity, in respect of whose profit and loss account and balance-sheet the notice was given, shall lodge with the Authority a copy of the notice at the time when the profit and loss account and balance-sheet to which the notice relates are lodged with the Authority.
 
 [1/2005]
@@ -17389,8 +17571,6 @@ Exemptions
 
 (c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (d) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -17408,6 +17588,8 @@ Exemptions
 (i) the prospectus has expired pursuant to section 250; or
 
 (ii) the person making the offer has before making the offer informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) For the purposes of subsection (1)(b), where any notice, circular, material, publication or other document is issued in connection with the offer, the person making the offer is deemed to have given the statement and notification to the person to whom he makes the offer in accordance with that provision if such statement or notification is contained in the first page of that notice, circular, material, publication or document.
 
@@ -17593,8 +17775,6 @@ that is published in connection with an offer of securities, but does not includ
 
 (b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -17602,8 +17782,6 @@ that is published in connection with an offer of securities, but does not includ
 (ii) an exempt person in respect of dealing in securities; or
 
 (iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
-
-[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -17616,6 +17794,8 @@ that is published in connection with an offer of securities, but does not includ
 (A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) The Authority may prescribe such other number of persons in substitution for the number specified in subsection (1)(a).
 
@@ -17727,11 +17907,17 @@ that is made to existing members or debenture holders of that entity (whether or
 
 (d) it is an offer of shares or debentures (not being such excluded shares or excluded debentures as may be prescribed by the Authority) that have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange;
 
+[2/2009 wef 29/07/2009]
+
 (e) it is an offer of units of shares or debentures (not being such excluded units of shares or debentures as may be prescribed by the Authority) where —
 
 (i) the units of shares or debentures have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange; or
 
+[2/2009 wef 29/07/2009]
+
 (ii) an application has been or will be made for permission for the units of shares or debentures to be listed for quotation or quoted on a securities exchange and the shares or debentures have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange; or
+
+[2/2009 wef 29/07/2009]
 
 (f) it is made (whether or not in relation to securities that have been previously issued) by an entity to a qualifying person, where the securities are to be held by or for the benefit of the qualifying person and are the securities of the entity or any of its related parties.
 
@@ -17811,8 +17997,6 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 
 (a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -17820,8 +18004,6 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 (ii) an exempt person in respect of dealing in securities; or
 
 (iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
-
-[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -17835,13 +18017,13 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
 
+[2/2009 wef 29/07/2009]
+
 (1A) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of securities to a person who acquires the securities as principal, whether or not the securities have been previously issued, if —
 
 (a) the offer is on terms that the securities may only be acquired at a consideration of not less than $200,000 (or its equivalent in a foreign currency) for each transaction, whether such amount is to be paid for in cash or by exchange of securities or other assets;
 
 (b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
-
-[2/2009 wef 29/07/2009]
 
 (c) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -17862,6 +18044,8 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 (A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
 
 (B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) In this section —
 
@@ -17935,7 +18119,11 @@ then Subdivisions (2) and (3) of this Division shall apply to the offer resultin
 
 [1/2005]
 
+[2/2009 wef 29/07/2009]
+
 (1A) The reference to the sale of securities under subsection (1) shall, in a case where the securities initially acquired are debentures, or units of shares or debentures, with an attached right of conversion into shares or debentures, include a reference to the sale of the converted shares or debentures.
+
+[2/2009 wef 29/07/2009]
 
 (2) Where securities initially acquired pursuant to an offer made in reliance on an exemption under section 274 or 275 are sold to —
 
@@ -18237,6 +18425,8 @@ when the trustee acts in that capacity; and
 
 “supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 282D(1), as the case may be;
 
+[Deleted by Act 2/2009 wef 19/11/2012]
+
 “trust deed” has the same meaning as “deed” in section 2 of the Business Trusts Act;
 
 “trust property” has the same meaning as in section 2 of the Business Trusts Act.
@@ -18276,6 +18466,8 @@ when the trustee acts in that capacity; and
 ### Modification of provisions to certain offers
 
 282BA\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of units or derivatives of units in a business trust as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
+
+[2/2009 wef 29/07/2009]
 
 Subdivision (2) —
 
@@ -18396,6 +18588,8 @@ Prospectus requirements
 [1/2005]
 
 (11A) For the purposes of subsections (10) and (11), the Authority may prescribe the same period and day for all offers or different periods and days for different offers.
+
+[2/2009 wef 29/03/2010]
 
 (12) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (5) and which contains the information required to be stipulated in the prospectus under section 282F, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been lodged with the Authority.
 
@@ -19923,8 +20117,6 @@ This offer is made in reliance on the exemption under section 282V(1) of the Sec
 
 (c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (d) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -19933,8 +20125,6 @@ This offer is made in reliance on the exemption under section 282V(1) of the Sec
 
 (iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
 
-[2/2009 wef 29/07/2009]
-
 [1/2005]
 
 (e) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
@@ -19942,6 +20132,8 @@ This offer is made in reliance on the exemption under section 282V(1) of the Sec
 (i) the prospectus has expired pursuant to section 282K; or
 
 (ii) the person making the offer has before making the offer informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) For the purposes of subsection (1)(b), where any notice, circular, material, publication or other document is issued in connection with the offer, the person making the offer is deemed to have given the statement and notification to the person to whom he makes the offer in accordance with that provision if such statement or notification is contained in the first page of that notice, circular, material, publication or document.
 
@@ -20135,8 +20327,6 @@ that is published in connection with an offer of units or derivatives of units i
 
 (b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -20144,8 +20334,6 @@ that is published in connection with an offer of units or derivatives of units i
 (ii) an exempt person in respect of dealing in securities; or
 
 (iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
-
-[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -20244,6 +20432,8 @@ and such proposed compromise or arrangement and the execution thereof complies w
 [2/2009 wef 29/07/2009]
 
 (ii) an application has been or will be made for permission for the derivatives of units to be listed for quotation or quoted on a securities exchange and the units have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange;
+
+[2/2009 wef 29/07/2009]
 
 (f) it is an offer of units in a business trust made to any existing unitholder of the business trust or any holder of debentures of the trustee-manager issued in its capacity as trustee-manager of the business trust whose units are listed for quotation on a securities exchange; or
 
@@ -20355,8 +20545,6 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 (a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -20364,8 +20552,6 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 (ii) an exempt person in respect of dealing in securities; or
 
 (iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
-
-[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -20387,8 +20573,6 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 (b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer, or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (c) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -20396,8 +20580,6 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 (ii) an exempt person in respect of dealing in securities; or
 
 (iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
-
-[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -20601,6 +20783,8 @@ then Subdivision (2) shall apply to an offer resulting in a sale of any of the u
 
 (b) which are listed for quotation on a securities exchange.
 
+[2/2009 wef 29/07/2009]
+
 ### Offer made using offer information statement
 
 282ZB\.—(1) Subject to subsection (2), Subdivision (2) of this Division (other than subsection (1)(a) of section 282C and section 282Q) shall not apply to an offer of units or derivatives of units in a business trust (not being such securities as may be prescribed by the Authority) issued by a trustee-manager acting in its capacity as trustee-manager of the business trust where units of the business trust which have been previously issued are listed for quotation on a securities exchange, whether by means of a rights issue or otherwise, if —
@@ -20734,6 +20918,8 @@ Interpretation
 ### Interpretation of this Division
 
 283\.—(1) In this Division, unless the context otherwise requires —
+
+[Deleted by Act 2/2009 wef 29/07/2009]
 
 “control”, in relation to an entity, means the capacity of a person to determine the outcome of decisions on the financial and operating policies of the entity, having regard to —
 
@@ -20879,6 +21065,8 @@ then this Division (other than section 283A) does not apply to that offer.
 
 284C\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of units in a collective investment scheme as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
 
+[2/2009 wef 29/07/2009]
+
 Subdivision (2) —
 
 Authorisation and recognition
@@ -20888,6 +21076,8 @@ Authorisation and recognition
 285\.—(1) No person shall make an offer of units in a collective investment scheme if the collective investment scheme has not been authorised under section 286 or recognised under section 287.
 
 [1/2005]
+
+[2/2009 wef 29/07/2009]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -21647,9 +21837,7 @@ the trustee shall summon a meeting of the participants for the purpose of determ
 
 (b) a corporation,
 
-referred to in this section as the transferee has, within 4 months after the making of the offer in that behalf by the transferee, been approved as to the units or as to each class of units whose transfer is involved by participants of the subject trust holding no less than 90% of the total number of those units or of the units of that class (other than units already held at the date of the offer by the transferee), the transferee may, at any time within 2 months after the offer has been so approved, give notice in the prescribed manner to any dissenting participant of the subject trust that it desires to acquire his units.
-
-[2/2009 wef 29/03/2010]
+(referred to in this section as the transferee) has, within 4 months after the making of the offer in that behalf by the transferee, been approved as to the units or as to each class of units whose transfer is involved by participants of the subject trust holding no less than 90% of the total number of those units or of the units of that class (other than units already held at the date of the offer by the transferee), the transferee may, at any time within 2 months after the offer has been so approved, give notice in the prescribed manner to any dissenting participant of the subject trust that it desires to acquire his units.
 
 (2) When a notice referred to in subsection (1) is given, the transferee shall, unless on an application made by a dissenting participant within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting participant under subsection (3) (whichever is the later) a court thinks fit to order otherwise, be entitled and bound to acquire those units —
 
@@ -21657,11 +21845,7 @@ referred to in this section as the transferee has, within 4 months after the mak
 
 (b) if the offer contained 2 or more alternative sets of terms, on the terms which were specified in the offer as being applicable to dissenting participants.
 
-[2/2009 wef 29/03/2010]
-
 (3) Where a transferee has given notice to any dissenting participant of the subject trust that it desires to acquire his units, the dissenting participant shall be entitled to require the transferee by a demand in writing served on the transferee, within one month from the date on which the notice was given, to supply him with a statement in writing of the names and addresses of all other dissenting participants as shown in the register of participants of the subject trust; and the transferee shall not be entitled or bound to acquire the units of the dissenting participants until 14 days after the posting of the statement of such names and addresses to the dissenting participant.
-
-[2/2009 wef 29/03/2010]
 
 (4) Where, pursuant to any such arrangement or contract, units in the subject trust are transferred to the transferee or its nominee and those units together with any other units in the subject trust held by the transferee at the date of the transfer comprise or include 90% of the total number of the units in the subject trust or of any class of those units, then —
 
@@ -21669,15 +21853,11 @@ referred to in this section as the transferee has, within 4 months after the mak
 
 (b) any such participant may within 3 months from receiving the notice require the transferee to acquire his units.
 
-[2/2009 wef 29/03/2010]
-
 (5) Where a participant has given notice under subsection (4)(b) with respect to any units, the transferee shall be entitled and bound to acquire those units —
 
 (a) on the terms on which under the arrangement or contract the units of the approving participants were transferred to it; or
 
 (b) on such other terms as are agreed or as the court on the application of either the transferee or the participant thinks fit to order.
-
-[2/2009 wef 29/03/2010]
 
 (6) Where a notice has been given by the transferee under subsection (1) and a court has not, on an application made by the dissenting participant, ordered to the contrary, the transferee shall —
 
@@ -21688,8 +21868,6 @@ referred to in this section as the transferee has, within 4 months after the mak
 (c) if an application to the court by the dissenting participant is then pending, after that application has been disposed of,
 
 transmit a copy of the notice to the trustee of the subject trust together with an instrument of transfer executed on behalf of the participant by any person appointed by the transferee and on its own behalf by the transferee, and pay, allot or transfer to the trustee of the subject trust the amount or other consideration representing the price payable by the transferee for the units which by virtue of this section the transferee is entitled to acquire, and the trustee of the subject trust shall thereupon register the transferee as the holder of those units.
-
-[2/2009 wef 29/03/2010]
 
 (7) Any sums received by the trustee of the subject trust under this section shall be paid into a separate bank account, and any such sums and any other consideration so received shall be held by that trustee in trust for the several persons who had held the units in respect of which they were respectively received.
 
@@ -21721,23 +21899,17 @@ shall be treated as held or acquired by the transferee.
 
 (b) a reference to a transfer of units of a trust to a transferee (being the trustee of another trust) is a reference to such transfer of units to him as trustee of that other trust.
 
-[2/2009 wef 29/03/2010]
-
 (12) The reference in subsection (1) to units already held by the transferee —
 
 (a) includes a reference to units which the transferee has contracted to acquire; but
 
 (b) excludes units which are the subject of a contract binding the holder thereof to accept the offer when it is made, being a contract entered into by the holder for no consideration and under seal or for no consideration other than a promise by the transferee to make the offer.
 
-[2/2009 wef 29/03/2010]
-
 (13) Where, during the period within which an offer for the transfer of units to the transferee can be approved, the transferee acquires or contracts to acquire any of the units whose transfer is involved but otherwise than by virtue of the approval of the offer, then the transferee may be treated for the purposes of this section as having acquired or contracted to acquire those units by virtue of the approval of the offer if, and only if —
 
 (a) the consideration for which the units are acquired or contracted to be acquired (referred to in this subsection as the acquisition consideration) does not at that time exceed the consideration specified in the terms of the offer; or
 
 (b) those terms are subsequently revised so that when the revision is announced the acquisition consideration, at the time referred to in paragraph (a), no longer exceeds the consideration specified in those terms.
-
-[2/2009 wef 29/03/2010]
 
 (14) In this section and sections 295B and 295C —
 
@@ -21757,11 +21929,7 @@ shall be treated as held or acquired by the transferee.
 
 295B\.—(1) The Official Receiver who receives moneys arising from the proceeds of a sale or disposal under section 295A shall place the moneys to the credit of a separate account to be entitled the Compulsory Acquisition of Scheme Account.
 
-[2/2009 wef 29/03/2010]
-
 (2) The interest arising from the investment of the moneys standing to the credit of the Compulsory Acquisition of Scheme Account shall be paid into the Consolidated Fund.
-
-[2/2009 wef 29/03/2010]
 
 (3) If any person makes any demand for any money placed to the credit of the Compulsory Acquisition of Scheme Account, the Official Receiver, upon being satisfied that that person is entitled to the money, shall authorise payment thereof to be made to him out of that Account or, if it has been paid into the Consolidated Fund, may authorise payment of a like amount to be made to him out of moneys made available by Parliament for the purpose.
 
@@ -21780,8 +21948,6 @@ shall be treated as held or acquired by the transferee.
 (a) that the affairs of the trust are being conducted by the manager or trustee for the trust, or the powers of the directors of the manager or directors of the trustee for the trust are being exercised, in a manner oppressive to one or more of the participants of the trust including himself or in disregard of his or their interests as participants of the trust; or
 
 (b) that some act of the manager or trustee for the trust, carried out in its capacity as manager or trustee for the trust, as the case may be, has been done or is threatened or that some resolution of the participants of the trust or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the participants of the trust including himself.
-
-[2/2009 wef 29/03/2010]
 
 (2) If on such application the court is of the opinion that either of the grounds referred to in subsection (1) is established, the court may, with a view to bringing to an end to or remedying the matters complained of, make such order as it thinks fit and, without prejudice to the generality of the foregoing, the order may —
 
@@ -22712,8 +22878,6 @@ Exemptions
 
 (c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (d) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the following persons:
 
 (i) the holder of a capital markets services licence to deal in securities;
@@ -22725,8 +22889,6 @@ Exemptions
 (iv) an exempt financial adviser as defined in section 2(1) of the Financial Advisers Act; or
 
 (v) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities or marketing of collective investment schemes, or who is exempted therefrom in respect of such dealing or marketing; and
-
-[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -22868,8 +23030,6 @@ that is published in connection with an offer of units in a collective investmen
 
 (b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-[2/2009 wef 29/07/2009]
-
 (c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the persons specified in section 302B(1)(d)(i) to (v); and
 
 [1/2005]
@@ -22939,6 +23099,8 @@ both persons shall be counted for the purposes of determining whether offers of 
 ### Offer or invitation made under certain circumstances
 
 303\.—(1) Subdivision (3) of this Division shall not apply to an offer of units in a collective investment scheme if it is made in relation to units in a collective investment scheme (not being such excluded units in a scheme as may be prescribed by the Authority) that have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange.
+
+[2/2009 wef 29/07/2009]
 
 (2) Subdivisions (2) and (3) of this Division shall not apply to an offer of units in a collective investment scheme if it is an offer to enter into an underwriting agreement relating to units in a collective investment scheme.
 
@@ -23063,6 +23225,8 @@ that is published in connection with an offer of units in a collective investmen
 then Subdivisions (2) and (3) of this Division shall apply to the offer resulting in that sale.
 
 [1/2005]
+
+[2/2009 wef 29/07/2009]
 
 (2) Subject to subsection (5), securities of a corporation (other than a corporation that is an accredited investor) —
 
@@ -23372,9 +23536,9 @@ MISCELLANEOUS
 
 [Act 34 of 2012 wef 18/03/2013]
 
-(b) require a copy of or extract from any such record to be given or certified by the Authority.
-
 [2/2009 wef 01/10/2012]
+
+(b) require a copy of or extract from any such record to be given or certified by the Authority.
 
 (3) A copy of or extract from any record lodged with or kept by the Authority certified to be a true copy or extract by the Authority shall in any proceedings be admissible as evidence of equal validity as the original record.
 
@@ -23524,11 +23688,11 @@ the Authority may refuse to register or receive the record and request that the 
 
 [Act 34 of 2012 wef 01/08/2013]
 
+[2/2009 wef 01/10/2012]
+
 (b) any other information which the Authority has acquired in the exercise of its functions or the performance of its duties under this Act.
 
 [1/2005]
-
-[2/2009 wef 01/10/2012]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may publish information relating to —
 
@@ -23631,8 +23795,6 @@ the Authority may refuse to register or receive the record and request that the 
 (b) on the application of a securities exchange, it appears to the court that a person has contravened the business rules or listing rules of the securities exchange;
 
 (c) on the application of a futures exchange, it appears to the court that a person has contravened the business rules of the futures exchange;
-
-[Act 34 of 2012 wef 01/08/2013]
 
 (d) on the application of an approved clearing house, it appears to the court that a person has contravened the business rules of the approved clearing house; or
 
@@ -23950,8 +24112,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.
 
-[SIA, s. 117; FTA, s. 66]
-
 [Act 34 of 2012 wef 18/03/2013]
 
 (3) The Authority may, in its discretion, compound any offence under this Act (including an offence under a provision that has been repealed) which —
@@ -23967,6 +24127,8 @@ by collecting from a person reasonably suspected of having committed the offence
 (4) All sums collected by the Authority under subsection (2) or (3) shall be paid into the Consolidated Fund.
 
 [Act 34 of 2012 wef 18/03/2013]
+
+[SIA, s. 117; FTA, s. 66]
 
 ### Exemption
 
@@ -24150,6 +24312,8 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (ii) he became so aware before the date of the summons and complied with the regulation within 14 days after becoming so aware.
 
+[2/2009 wef 19/11/2012]
+
 (5) For the purposes of subsection (4), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the securities concerned, was aware of at that time.
 
 [16/2003]
@@ -24214,8 +24378,6 @@ Definition of clearing facility
 
 (i) transactions in securities;
 
-[Act 34 of 2012 wef 01/08/2013]
-
 (ii) futures contracts; or
 
 (iii) derivatives contracts; or
@@ -24279,6 +24441,8 @@ fund management;
 (ea)
 
 real estate investment trust management;
+
+[S 376/2008 wef 01/08/2008]
 
 (f)
 
@@ -24347,6 +24511,8 @@ but does not include any act performed for or in connection with a contract or a
 (b) foreign exchange trading or leveraged foreign exchange trading for the purpose of managing the customer’s funds,
 
 but does not include real estate investment trust management;
+
+[S 376/2008 wef 01/08/2008]
 
 “leveraged foreign exchange trading” means —
 
@@ -24516,9 +24682,13 @@ Specified Provisions
 
 3\. Section 35
 
-4\. Section 49(7)
+4. Section 49(7)
 
-5\. Section 57(3)
+[Act 34 of 2012 wef 01/08/2013]
+
+5. Section 57(3)
+
+[Act 34 of 2012 wef 01/08/2013]
 
 5A. Section 75(3)
 
@@ -24588,7 +24758,7 @@ Securities and Futures Act
 
 (CHAPTER 289)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for the convenience of users and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for the convenience of users and are not part of the Act:
 
 Aust. Corporations 2001
 
@@ -24783,20 +24953,21 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|21.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 31/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|15 November 2012|
-||Date of commencement|18 March 2013|
-|||1 August 2013|
-|||31 October 2013|
-|22.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
 |||2 August 2013|
 |||1 November 2013|
+|22.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 31/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|15 November 2012|
+||Date of commencement|18 March 2013|
+|||1 August 2013|
+|||31 October 2013|
+|||1 May 2014|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
@@ -24841,15 +25012,15 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 —
 
-287— (3) (b) (iv) to (vi) (Deleted by Act 16/2003)
+287— (3)(b)(iv) to (vi) (Deleted by Act 16/2003)
 
 —
 
-(3) (c) (Deleted by Act 1/2005)
+(3)(c) (Deleted by Act 1/2005)
 
 —
 
-(5) (d) (Deleted by Act 16/2003)
+(5)(d) (Deleted by Act 16/2003)
 
 Omitted (spent)
 
