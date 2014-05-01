@@ -588,7 +588,7 @@ shall be admitted in evidence, in any proceedings for an offence under this Act,
 
 (ii) α-methyl-3,4-(methylenedioxy)phenethylamine; or
 
-(iii) N-ethyl-α−methyl-3,4-(methylenedioxy)phenethylamine,
+(iii) N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine,
 
 whether or not contained in any substance, extract, preparation or mixture, shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
 
@@ -1132,7 +1132,7 @@ TREATMENT AND REHABILITATION
 
 [20/98]
 
-(2) The Director of Prisons or the person appointed under subsection 1(b), as the case may be, may appoint a person to be the superintendent of an approved institution and such person shall be responsible for the supervision and administration of that approved institution.
+(2) The Director of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the superintendent of an approved institution and such person shall be responsible for the supervision and administration of that approved institution.
 
 [20/98]
 
@@ -1140,7 +1140,7 @@ TREATMENT AND REHABILITATION
 
 [20/98]
 
-(4) The person appointed under subsection 1(b) may in writing issue orders, to be called standing orders, for the approved institutions designated under his charge.
+(4) The person appointed under subsection (1)(b) may in writing issue orders, to be called standing orders, for the approved institutions designated under his charge.
 
 [20/98]
 
@@ -1194,15 +1194,11 @@ TREATMENT AND REHABILITATION
 
 (8) Any order of the Review Committee may be signed by the Chairman or a member of the Committee.
 
-[Act 30 of 2012 wef 28/04/2014]
-
 [12/77]
 
 ### Review, discharge and transfer of inmates
 
 38\.—(1) The Review Committee of an approved institution or a community rehabilitation centre shall keep the case of every inmate under review and shall, as often as practicable, consider whether he should be discharged.
-
-[Act 30 of 2012 wef 28/04/2014]
 
 (2) The Director or the Review Committee of an approved institution or a community rehabilitation centre may at any time by order in writing —
 
@@ -1210,11 +1206,7 @@ TREATMENT AND REHABILITATION
 
 (b) transfer any inmate from one approved institution or community rehabilitation centre to another approved institution or community rehabilitation centre.
 
-[Act 30 of 2012 wef 28/04/2014]
-
 (3) The Superintendent of an approved institution or the manager of a community rehabilitation centre may enter into an arrangement with the Superintendent of another approved institution or the manager of another community rehabilitation centre for the transfer of any inmate to that other institution or community rehabilitation centre and may, subject to any direction given by the Director or the Review Committee, carry out any transfer in accordance with that arrangement.
-
-[Act 30 of 2012 wef 28/04/2014]
 
 (4) On proof to his satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the Superintendent of an approved institution or the manager of a community rehabilitation centre may order that the inmate be taken to that place.
 
@@ -1255,8 +1247,6 @@ TREATMENT AND REHABILITATION
 ### Inmates deemed to be in legal custody
 
 40\.—(1) Every inmate shall be deemed to be in the legal custody of the approved institution or community rehabilitation centre in which he is for the time being detained.
-
-[Act 30 of 2012 wef 28/04/2014]
 
 (2) An inmate shall be deemed to be in legal custody —
 
@@ -1768,341 +1758,603 @@ FIRST SCHEDULE
 
 Sections 2 and 58A
 
+[Act 30 of 2012 wef 01/05/2013]
+
 Controlled Drugs
 
 Part I
 
-Class A Drugs
+CLASS A DRUGS
 
 1. The following substances and products:
 
-Acetorphine.
+(1) Acetorphine
 
-4-Bromo-2,5- dimethoxyphenethylamine.
+(2) Acetylmethadol
 
-Acetylmethadol.
+(3) Allylprodine
 
-Bufotenine.
+(4) Alphacetylmethadol
 
-Allylprodine.
+(5) Alphameprodine
 
-Buprenorphine.
+(6) Alphamethadol
 
-Alphacetylmethadol.
+(7) Alphaprodine
 
-Cannabinol.
+(8) 2-Amino-1-(2,5-dimethoxy-4-methyl)phenylpropane
 
-Alphameprodine.
+(9) Amphetamine
 
-Cannabinol derivatives.
+(10) Anileridine
 
-Alphamethadol.
+(11) Benzethidine
 
-Cannabis and cannabis resin.
+(12) Benzylmorphine (3-benzylmorphine)
 
-Alphaprodine.
+(13) 1-Benzylpiperazine (also known as BZP)
 
-Cathinone.
+(14) Betacetylmethadol
 
-2-amino-1-(2, 5-dimethoxy-4-methyl) phenylpropane.
+(15) Betameprodine
 
-Clonitazene.
+(16) Betamethadol
 
-Amphetamine.
+(17) Betaprodine
 
-Coca leaf.
+(18) Bezitramide
 
-Anileridine.
+(19) 4-Bromo-2,5-dimethoxy-α-methylphenethylamine (also known as Brolamfetamine or DOB)
 
-Cocaine.
+(20) 4-Bromo-2,5-dimethoxyphenethylamine (also known as 2C-B)
 
-Benzethidine.
+(21) Bufotenine
 
-Codoxime.
+(22) Buprenorphine
 
-Benzylmorphine (3-benzyl-morphine).
+(23) Cannabinol
 
-Desomorphine.
+(24) Cannabinol derivatives
 
-1-benzylpiperazine
+(25) Cannabis and cannabis resin
 
-Dextromoramide.
+(26) Cathinone
 
-Betacetylmethadol.
+(27) Clonitazene
 
-Diamorphine.
+(28) Coca leaf
 
-Betameprodine.
+(29) Cocaine
 
-Diampromide.
+(30) Codoxime
 
-Betamethadol.
+(31) 4-Cyano-2-dimethylamino-4,4-diphenylbutane
 
-Diethylthiambutene.
+(32) 4-Cyano-1-methyl-4-phenyl-piperidine
 
-Betaprodine.
+(33) Desomorphine
 
-Difenoxin.
+(34) Dextromoramide
 
-Bezitramide.
+(35) Diamorphine
 
-Dihydroetorphine.
+(36) Diampromide
 
-4-Bromo-2,5-dimethoxy-α-methylphenethylamine (also known as Brolamfetamine)
+(37) Diethylthiambutene
 
-Dihydromorphine.
+(38) N,N-Diethyltryptamine
 
-2, 5-Dimethoxy-α- methylphenethylamine
+(39) Difenoxin
 
-Dimenoxadole.
+(40) Dihydroetorphine
 
-N, α-dimethyl-3, 4-(methylenedioxy) phenethylamine
+(41) Dihydromorphine
 
-Dimepheptanol.
+(42) Dimenoxadole
 
-3-(1, 2-dimethylheptyl)-1-hydroxy-7, 8, 9, 10 tetrahydro-6, 6, 9-trimethyl-6H-dibenzo [b, d] pyran.
+(43) Dimepheptanol
 
-Lysergide and other N-alkyl derivatives of lysergamide.
+(44) 2,5-Dimethoxy-4,α-dimethyl-phenethylamine
 
-Dimethylthiambutene.
+(45) 2,5-Dimethoxy-α-methylphenethylamine
 
-Mescaline.
+(46) N,α-Dimethyl-3,4-(methylenedioxy)phenethylamine (also known as MDMA)
 
-Dioxaphetyl butyrate.
+(47) 3-(1,2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran
 
-Metazocine.
+(48) Dimethylthiambutene
 
-Diphenoxylate.
+(49) N,N-Dimethyltryptamine
 
-Methadone.
+(50) Dioxaphetyl butyrate
 
-Dipipanone.
+(51) Diphenoxylate
 
-Methadyl acetate.
+(52) Dipipanone
 
-Drotebanol
+(53) Drotebanol
 
-Methcathinone.
+(54) Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine
 
-Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine.
+(55) 4-Ethyl-2,5-dimethoxy-α-methylphenethylamine
 
-3-Methoxy- α-methyl-4, 5-(methylenedioxy phenethylamine
+(56) N-Ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine (also known as MDEA)
 
-4-Ethyl-2,5-dimethoxy-α-methylphenethylamine.
+(57) Ethylmethylthiambutene
 
-5-Methoxy-N, N-diisopropyltryptamine.
+(58) Eticyclidine
 
-N-ethyl-α-methyl-3,4-(methylenedioxy) phenethylamine.
+(59) Etonitazene
 
-p-methoxy-α-methylphenethylamine.
+(60) Etorphine
 
-Ethylmethylthiambutene.
+(61) Etoxeridine
 
-4-methylaminorex.
+(62) Etryptamine
 
-Eticyclidine.
+(63) Furethidine
 
-Methamphetamine (also known as Methylamphetamine).
+(64) Gamma hydroxybutyric acid
 
-Etonitazene.
+(65) Hydrocodone
 
-Methyldesorphine.
+(66) Hydromorphinol
 
-Etorphine.
+(67) Hydromorphone
 
-N-Methyl-α-ethyl-3,4-(methylenedioxy)phenethylamine.
+(68) 1-Hydroxy-3-pentyl-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-6-H-dibenzo[b,d]pyran
 
-Etoxeridine.
+(69) Hydroxypethidine
 
-Methyldihydromorphine (6-methyldihydromorphine).
+(70) Isomethadone
 
-Etryptamine.
+(71) Ketamine
 
-4-methylmethcathinone
+(72) Ketobemidone
 
-Furethidine.
+(73) Levomethorphan
 
-4-methylthioamphetamine.
+(74) Levomoramide
 
-Gamma hydroxybutyric acid.
+(75) Levophenacylmorphan
 
-Metopon.
+(76) Levorphanol
 
-Hydrocodone.
+(77) Lysergamide
 
-Monoacetylmorphine.
+(78) Lysergide and other N-alkyl derivatives of lysergamide
 
-Hydromorphinol.
+(79) Mescaline
 
-Morpheridine.
+(80) Metazocine
 
-Hydromorphone.
+(81) Methadone
 
-Morphine.
+(82) Methadyl acetate
 
-N-[α-methyl-3, 4-(methylenedioxy)phenethyl] hydroxylamine.
+(83) Methamphetamine (also known as Methylamphetamine)
 
-Morphine methobromide, morphineN-oxide and other pentavalent nitrogen morphine derivatives.
+(84) 5-Methoxy-N,N-diisopropyltryptamine
 
-Hydroxypethidine.
+(85) 3-Methoxy-α-methyl-4,5-(methylenedioxy)phenethylamine
 
-Myrophine.
+(86) p-Methoxy-α-methylphenethylamine
 
-Isomethadone.
+(87) N-Methyl-α-ethyl-3,4-(methylenedioxy)phenethylamine (also known as MBDB)
 
-Nicomorphine (3, 6-dinicotinoyl-morphine).
+(88) N-[α-Methyl-3,4-(methylenedioxy)phenethyl]hydroxylamine
 
-Ketamine.
+(89) α-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine or MDA)
 
-Noracymethadol.
+(90) 2-Methyl-3-morpholino-1,1-diphenylpropanecarboxylic acid
 
-Ketobemidone.
+(91) 1-Methyl-4-phenylpiperidine-4-carboxylic acid
 
-Norbuprenorphine.
+(92) 4-Methylaminorex
 
-Levomethorphan.
+(93) Methyldesorphine
 
-Norketamine and its dehydro derivatives.
+(94) Methyldihydromorphine (6-Methyldihydromorphine)
 
-Levomoramide.
+(95) 4-Methylthioamphetamine
 
-Norlevorphanol.
+(96) 3-Methylthiofentanyl
 
-Levophenacylmorphan.
+(97) Metopon
 
-Normethadone.
+(98) Monoacetylmorphine
 
-Levorphanol.
+(99) Morpheridine
 
-Normorphine.
+(100) Morphine
 
-Lysergamide.
+(101) Morphine methobromide, morphineN-oxide and other pentavalent nitrogen morphine derivatives
 
-Norpipanone.
+(102) Myrophine
 
-Oxymorphone.
+(103) Nicomorphine (3,6-dinicotinoyl-morphine)
 
-Opium.
+(104) Noracymethadol
 
-Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9-trimethyl 6H-dibenzo [b, d] pyran).
+(105) Norbuprenorphine
 
-Oxycodone.
+(106) Norketamine and its dehydro derivatives
 
-Pethidine.
+(107) Norlevorphanol
 
-Tenocyclidine.
+(108) Normethadone
 
-Phenadoxone.
+(109) Normorphine
 
-Thebacon.
+(110) Norpipanone
 
-Phenampromide.
+(111) Opium
 
-Thebaine.
+(112) Oxycodone
 
-Phenazocine
+(113) Oxymorphone
 
-Tilidine.
+(114) Parahexyl (3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran)
 
-Phenomorphan
+(115) Pethidine
 
-Trimeperidine.
+(116) Phenadoxone
 
-Phenoperidine
+(117) Phenampromide
 
-1-(3-trifluoromethylphenyl)piperazine.
+(118) Phenazocine
 
-Piminodine.
+(119) Phenomorphan
 
-3, 4, 5-trimethoxy-α-methylphenethylamine.
+(120) Phenoperidine
 
-Piritramide.
+(121) 4-Phenylpiperidine-4-carboxylic acid ethyl ester
 
-4-Cyano-2-dimethylamino-4, 4-diphenylbutane.
+(122) Piminodine
 
-Poppy-straw and concentrate of poppy-straw.
+(123) Piritramide
 
-4-Cyano-1-methyl-4-phenyl-piperidine.
+(124) Poppy-straw and concentrate of poppy-straw
 
-Proheptazine.
+(125) Proheptazine
 
-N,N-Diethyltryptamine.
+(126) Properidine (1-Methyl-4-phenyl-piperidine-4-carboxylic acid isopropyl ester)
 
-Properidine (1-methyl-4-phenyl-piperidine-4-carboxylic acid isopropyl ester).
+(127) Psilocin
 
-N,N-Dimethyltryptamine.
+(128) Psilocybine
 
-Psilocin.
+(129) Racemethorphan
 
-2,5-Dimethoxy-4,α-dimethyl-phenethylamine.
+(130) Racemoramide
 
-Psilocybine.
+(131) Racemorphan
 
-1-Hydroxy-3-pentyl-6a, 7, 10, 10a-tetra hydro-6, 6, 9-trimethyl-6-H-dibenzo [b, d] pyran.
+(132) Remifentanil
 
-Racemethorphan.
+(133) Rolicyclidine
 
-1-Methyl-4-phenylpiperidine-4-carboxylic acid.
+(134) Tenocyclidine
 
-Racemoramide.
+(135) Thebacon
 
-2-Methyl-3-morpholino-1, 1-diphenylpropanecarboxylic acid.
+(136) Thebaine
 
-Racemorphan.
+(137) Tilidine
 
-3-methylthiofentanyl.
+(138) 1-(3-Trifluoromethylphenyl)piperazine (also known as TFMPP)
 
-Remifentanil.
+(139) Trimeperidine
 
-4-Phenylpiperidine-4-carboxylic acid ethyl ester.
+(140) 3,4,5-Trimethoxy-α-methylphenethylamine
 
-Rolicyclidine.
+2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1, not being dextromethorphan or dextrorphan.
 
-α-Methyl-3,4-(methylenedioxy) phenethylamine (also known as Tenamfetamine).
+3\. Any ester or ether of a substance for the time being specified in paragraph 1 or 2, not being a substance for the time being specified in Part II.
 
-[S 272/2013 wef 01/05/2013]
-
-[S 685/2010 wef 15/11/2010]
-
-2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrorphan.
-
-3\. Any ester or ether of a substance for the time being specified in paragraph 1 or 2 not being a substance for the time being specified in Part II.
-
-4\. Any salt of a substance for the time being specified in any of paragraphs 1 to 3.
+4\. Any salt of a substance for the time being specified in any of paragraphs 1, 2 and 3.
 
 5\. Any preparation or other products containing a substance or product for the time being specified in any of paragraphs 1 to 4.
 
-6\. Any preparation designed for administration by injection which includes a substance or product for the time being specified in any of paragraphs 1 to 3 of Part II.
+6\. Any preparation designed for administration by injection which includes a substance or product for the time being specified in any of paragraphs 1, 2 and 3 of Part II.
 
-7. Fentanyl and any compounds structurally derived from N-(1-Methyl-4-piperidyl)-N-phenyl formanide by substitution of any of the hydrogen atoms, including the following; and any salt of any substance falling within this item:
+7. Fentanyl and any compounds structurally derived from N-(1-Methyl-4-piperidyl)-N-phenyl formamide by substitution of any of the hydrogen atoms, including the following; and any salt of any substance falling within this item:
 
-Alfentanil.
+(1) Alfentanil
 
-Carfentanil.
+(2) Alpha-methyl fentanyl
 
-Alpha-Methyl fentanyl.
+(3) Alpha-methyl fentanyl acetanilide
 
-Lofentanil.
+(4) Alpha-methylthiofentanyl
 
-Alpha-Methyl fentanyl Acetanilide.
+(5) Benzyl fentanyl
 
-3-Methyl fentanyl.
+(6) Beta-hydroxy fentanyl
 
-Alpha-Methylthiofentanyl.
+(7) Beta-hydroxy-3-methyl fentanyl
 
-para-fluorofentanyl.
+(8) Carfentanil
 
-Benzyl fentanyl.
+(9) Lofentanil
 
-Sufentanil.
+(10) 3-Methyl fentanyl
 
-Beta-Hydroxy-3-Methyl Fentanyl.
+(11) Para-fluorofentanyl
 
-Beta-hydroxy fentanyl.
+(12) Sufentanil
 
-Thiofentanyl.
+(13) Thiofentanyl
 
-[S 272/2013 wef 01/05/2013]
+8. Any compound containing a 3-(1-naphthoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) (1-Butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone (also known as JWH-073)
+
+(2) (4-Chloronaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone (also known as JWH-398)
+
+(3) [1-(4-Chloropent-1-yl)-1H-indol-3-yl](naphthalen-1-yl)methanone (also known as 4-Chloro-AM-2201)
+
+(4) (4-Ethylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone (also known as JWH-210)
+
+(5) [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](4-methylnaphthalen-1-yl)methanone (also known as MAM-2201)
+
+(6) [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](naphthalen-1-yl)methanone (also known as AM-2201)
+
+(7) [1-(4-Fluoropent-1-yl)-1H-indol-3-yl](naphthalen-1-yl)methanone (also known as 4-Fluoro-AM-2201)
+
+(8) [1-(5-Fluoropent-1-yl)-6-nitro-1H-indol-3-yl](naphthalen-1-yl)methanone (also known as AM-1235)
+
+(9) [1-(Heptan-2-yl)-2-methyl-1H-indol-3-yl](naphthalen-1-yl)methanone (also known as JWH-011)
+
+(10) (1-Heptyl-1H-indol-3-yl)(naphthalen-1-yl)methanone (also known as JWH-020)
+
+(11) (1-Hexyl-1H-indol-3-yl)(naphthalen-1-yl)methanone (also known as JWH-019)
+
+(12) (4-Methoxynaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone (also known as JWH-081)
+
+(13) (2-Methyl-1-propyl-1H-indol-3-yl)(naphthalen-1-yl)methanone (also known as JWH-015)
+
+(14) (4-Methylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone (also known as JWH-122)
+
+(15) {1-[(1-Methylpiperidin-2-yl)methyl]-1H-indol-3-yl}(naphthalen-1-yl)methanone (also known as AM-1220)
+
+(16) {1-[2-(Morpholin-4-yl)ethyl]-1H-indol-3-yl}(naphthalen-1-yl)methanone (also known as JWH-200)
+
+(17) Naphthalen-1-yl[1-(pent-4-en-1-yl)-1H-indol-3-yl]methanone (also known as JWH-022)
+
+(18) Naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone (also known as JWH-018)
+
+(19) Naphthalen-1-yl(1-propyl-1H-indol-3-yl)methanone (also known as JWH-072)
+
+9. Any compound containing a 3-(1-naphthylmethyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) 3-[(4-Methylnaphthalen-1-yl)methyl]-1-pentyl-1H-indole (also known as JWH-184)
+
+(2) 3-(Naphthalen-1-ylmethyl)-1-pentyl-1H-indole (also known as JWH-175)
+
+10. Any compound containing a 3-(1-naphthoyl)pyrrole structure with substitution at the nitrogen atom of the pyrrole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) [5-(2-Chlorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone (also known as JWH-369)
+
+(2) [5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone (also known as JWH-307)
+
+(3) [5-(3-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone (also known as JWH-368)
+
+(4) (1-Hexyl-5-phenyl-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone (also known as JWH-147)
+
+(5) (1-Hexyl-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone (also known as JWH-031)
+
+(6) [5-(2-Methylphenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone (also known as JWH-370)
+
+(7) Naphthalen-1-yl[5-(naphthalen-1-yl)-1-pentyl-1H-pyrrol-3-yl]methanone (also known as JWH-309)
+
+(8) Naphthalen-1-yl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)methanone (also known as JWH-145)
+
+(9) Naphthalen-1-yl(1-pentyl-1H-pyrrol-3-yl)methanone (also known as JWH-030)
+
+11. Any compound containing a naphthylideneindene structure with substitution at the 3-position of the indene ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indene ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) E-1-[1-(1-Naphthalenylmethylene)-1H-inden-3-yl]pentane (also known as JWH-176)
+
+12. Any compound containing a 3-phenylacetylindole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) 2-(2-Chlorophenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone (also known as JWH-203)
+
+(2) 1-[1-(2-Cyclohexylethyl)-1H-indol-3-yl]-2-(2-methoxyphenyl)ethanone (also known as RCS-8)
+
+(3) 2-(2-Methoxyphenyl)-1-{1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}ethanone (also known as cannabipiperidiethanone)
+
+(4) 2-(2-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone (also known as JWH-250)
+
+(5) 2-(3-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone (also known as JWH-302)
+
+(6) 2-(4-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone (also known as JWH-201)
+
+(7) 2-(2-Methylphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone (also known as JWH-251)
+
+13. Any compound containing a 2-(3-hydroxycyclohexyl)phenol structure with substitution at the 5-position of the phenolic ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not substituted in the cyclohexyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) 2-[5-Hydroxy-2-(3-hydroxypropyl)cyclohexyl]-5-(2-methyloctan-2-yl)phenol (also known as CP55,940)
+
+(2) 2-(3-Hydroxycyclohexyl)-5-(2-methyloctan-2-yl)phenol (also known as CP47,497)
+
+14. Any compound containing a 3-(benzoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) [1-(5-Fluoropentyl)-1H-indol-3-yl](2-iodophenyl)methanone (also known as AM-694)
+
+(2) (2-Iodo-5-nitrophenyl){1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone (also known as AM-1241)
+
+(3) (2-Iodophenyl){1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone (also known as AM-2233)
+
+(4) (2-Iodophenyl)(1-pentyl-1H-indol-3-yl)methanone (also known as AM-679)
+
+(5) (4-Methoxyphenyl){2-methyl-1-[2-(morpholin-4-yl)ethyl]-1H-indol-3-yl}methanone (also known as pravadoline)
+
+(6) (4-Methoxyphenyl)(1-pentyl-1H-indol-3-yl)methanone (also known as RCS-4)
+
+15. Any compound containing a 3-(1-adamantoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the adamantyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+
+(1) Adamantan-1-yl{1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone (also known as AM-1248)
+
+(2) Adamantan-1-yl(1-pentyl-1H-indol-3-yl)methanone (also known as AB-001)
+
+16. Any compound, other than bupropion, that is structurally derived from 2-amino-1-phenylpropan-1-one by modification in any of the following ways:
+
+(a) substitution in the phenyl ring to any extent with alkyl, alkoxy, alkylenedioxy, haloalkyl, or halide substituents, whether or not further substituted in the phenyl ring by one or more other univalent substituents;
+
+(b) substitution at the 3-position with an alkyl substituent;
+
+(c) substitution at the nitrogen atom with alkyl or dialkyl, benzyl or methoxybenzyl groups, or by inclusion of the nitrogen atom in a cyclic structure,
+
+including any salt or stereoisomeric form of the above compounds, and any preparation or product containing the above compounds, for example:
+
+(1) 1-(1,3-Benzodioxol-5-yl)-2-(dimethylamino)-1-propanone (also known as Bk-MDDMA)
+
+(2) 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)propan-1-one (also known as ethylone)
+
+(3) 1-(1,3-Benzodioxol-5-yl)-2-(methylamino)butan-1-one (also known as butylone)
+
+(4) 1-(1,3-Benzodioxol-5-yl)-2-(methylamino)pentan-1-one (also known as pentylone)
+
+(5) 1-(1,3-Benzodioxol-5-yl)-2-(methylamino)propan-1-one (also known as methylone or 3,4-methylenedioxy-N-methylcathinone)
+
+(6) 1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)butan-1-one (also known as MDPBP)
+
+(7) 1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one (also known as 3,4-methylenedioxypyrovalerone or MDPV)
+
+(8) 1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)propan-1-one (also known as MDPPP)
+
+(9) 2-(Dimethylamino)-1-phenylpropan-1-one (also known as metamfepramone or dimethylcathinone)
+
+(10) 1-(Dimethylphenyl)-2-(methylamino)propan-1-one (also known as dimethylmethcathinone)
+
+(11) 2-(Ethylamino)-1-(methylphenyl)propan-1-one (also known as methylethcathinone)
+
+(12) 2-(Ethylamino)-1-phenylbutan-1-one (also known as N-ethylbuphedrone)
+
+(13) 2-(Ethylamino)-1-phenylpentan-1-one (also known as α-Ethylaminopentiophenone)
+
+(14) 2-(Ethylamino)-1-phenylpropan-1-one (also known as ethcathinone)
+
+(15) 1-(Fluorophenyl)-2-(methylamino)propan-1-one (also known as fluoromethcathinone)
+
+(16) 1-(Methoxyphenyl)-2-(methylamino)propan-1-one (also known as methoxymethcathinone)
+
+(17) 1-(4-Methoxyphenyl)-2-(pyrrolidin-1-yl)propan-1-one (also known as MOPPP)
+
+(18) 2-(Methylamino)-1-phenylbutan-1-one (also known as buphedrone)
+
+(19) 2-(Methylamino)-1-phenylpentan-1-one (also known as pentedrone)
+
+(20) 2-(Methylamino)-1-phenylpropan-1-one (also known as methcathinone)
+
+(21) 1-(Methylphenyl)-2-(methylamino)propan-1-one (also known as methylmethcathinone)
+
+(22) 1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)butan-1-one (also known as MPBP)
+
+(23) 1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)pentan-1-one (also known as pyrovalerone)
+
+(24) 1-Phenyl-2-(pyrrolidin-1-yl)butan-1-one (also known as α-PBP)
+
+(25) 1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-one (also known as α-PVP)
+
+(26) 1-Phenyl-2-(pyrrolidin-1-yl)propan-1-one (also known as α-PPP)
+
+17. Any compound that is structurally derived from 2-aminopropan-1-one by substitution at the 1-position with any monocyclic, or fused-polycyclic ring system (not being a phenyl ring or alkylenedioxyphenyl ring system), whether or not the compound is further modified in any of the following ways:
+
+(a) substitution in the ring system to any extent with alkyl, alkoxy, haloalkyl, or halide substituents, whether or not further substituted in the ring system by one or more other univalent substituents;
+
+(b) substitution at the 3-position with an alkyl substituent; or
+
+(c) substitution at the 2-amino nitrogen atom with alkyl or dialkyl groups, or by inclusion of the 2-amino nitrogen atom in a cyclic structure,
+
+including any salt or stereoisomeric form of the above compounds, and any preparation or product containing the above compounds, for example:
+
+(1) 1-(Naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one (also known as naphyrone or naphthylpyrovalerone)
+
+(2) 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one (also known as α-Pyrrolidinopentiothiophenone or α-PVT)
+
+18. The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
+
+(1) N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide (also known as APINACA)
+
+(2) N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide (also known as APICA)
+
+(3) 5-(2-Aminopropyl)benzofuran (also known as 5-APB)
+
+(4) 6-(2-Aminopropyl)benzofuran (also known as 6-APB or BenzoFury)
+
+(5) 5-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 5-APDB)
+
+(6) 6-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 6-APDB)
+
+(7) 17-Carboxy-16,17-dihydromitragynine
+
+(8) 16-Carboxymitragynine
+
+(9) 17-O-Desmethyl-16,17-dihydromitragynine
+
+(10) 9-O-Desmethylmitragynine
+
+(11) 2,3-Dihydro-1H-inden-2-amine (also known as 2-Aminoindane)
+
+(12) 6,7-Dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine (also known as 5,6-(methylenedioxy)-2-aminoindane or MDAI)
+
+(13) 2,3-Dihydro-5-iodo-1H-inden-2-amine (also known as 5-Iodo-2-aminoindane or 5-IAI)
+
+(14) [2,3-Dihydro-5-methyl-3-(morpholin-4-ylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl](naphthalen-1-yl)methanone
+
+(15) {4-[2,6-Dimethoxy-4-(2-methyloctan-2-yl)phenyl]-6,6-dimethyl-bicyclo[3.1.1]hept-2-en-2-yl}methanol
+
+(16) 6,6-Dimethyl-3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1,9-diol
+
+(17) N,N-Dimethyl-1-phenylpropan-2-amine (also known as N,N-dimethylamphetamine)
+
+(18) Diphenyl(pyrrolidin-2-yl)methanol (also known as diphenylprolinol)
+
+(19) 2-Diphenylmethylpiperidine (also known as desoxypipradrol)
+
+(20) [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as XLR-11 or 5-fluoro UR-144)
+
+(21) 1-(Fluorophenyl)piperazine
+
+(22) 1-(Fluorophenyl)propan-2-amine
+
+(23) 1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-yl)-6,6a,7,8,10,10a-hexahydro-9H-benzo[c]chromen-9-one
+
+(24) [9-Hydroxy-6-methyl-3-(5-phenylpentan-2-yl)oxy-5,6,6a,7,8,9,10,10a-octahydrophenanthridin-1-yl]acetate
+
+(25) 3-Hydroxy-2-[3-methyl-6-(2-propenyl)-cyclohex-2-en-1-yl]-5-pentyl-1,4-benzoquinone
+
+(26) 9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydro-6H-benzo[c]chromen-1-ol
+
+(27) 7-Hydroxymitragynine
+
+(28) 2-(3-Methoxyphenyl)-2-(N-ethylamino)cyclohexanone (also known as methoxetamine)
+
+(29) N-Methyl-1-(fluorophenyl)propan-2-amine
+
+(30) N-Methyl-1-(methoxyphenyl)propan-2-amine
+
+(31) N-Methyl-1-(methylphenyl)propan-2-amine
+
+(32) (N-Methyl-4-phenylpiperidin-4-yl)propanoate (also known as desmethylprodine)
+
+(33) N-Methyl-1-(thiophen-2-yl)propan-2-amine (also known as methiopropamine)
+
+(34) 1-(4-Methylbenzo-1,3-dioxol-6-yl)propan-2-amine (also known as 5-methyl-MDA or 5-methyl-3,4-methylenedioxyamphetamine)
+
+(35) Mitragynine
+
+(36) Naphthalen-1-yl(4-pentyloxynaphthalen-1-yl)methanone (also known as CB-13)
+
+(37) 5-[3-(1-Naphthoyl)-1H-indol-1-yl]pentanenitrile (also known as AM-2232)
+
+(38) (1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (also known as UR-144)
+
+(39) Salvinorin A
+
+[S 323/2014 wef 01/05/2014]
 
 Part II
 
@@ -2198,18 +2450,17 @@ For the purposes of this Schedule —
 
 “poppy-straw” means all parts, except the seeds, of the opium poppy, after mowing.
 
-[40/93; 2/2006; S 88/79; S238/83; S 229/84; S 272/84; S 31/86; S50/90; S 564/91; S 66/92; S 262/95; S223/96; S 469/97; S 391/99; S 232/2000; S493/2001; S30/2004; S507/2005; S 491/2006]
+[40/93; 2/2006; S 88/79; S 238/83; S 229/84; S 272/84; S 31/86; S 50/90; S 564/91; S 66/92; S 262/95; S 223/96; S 469/97; S 391/99; S 232/2000; S 493/2001; S 30/2004; S 507/2005; S 491/2006]
 
 SECOND SCHEDULE
 
 Sections 2, 33 and 33B
 
+[Act 30 of 2012 wef 01/01/2013]
+
 Offences Punishable on Conviction
 
 Section creating offence
-
-
-
 
 General nature of offence
 
@@ -2263,19 +2514,19 @@ Unauthorised traffic in controlled drug except as otherwise provided in this Sch
 
 Maximum 20 years and 15 strokes
 
-Minimum 5 years and 5 strokes
-
 Maximum 20 years and 10 strokes
-
-Minimum3 years and 3 strokes
 
 Maximum 10 years and 5 strokes
 
+—
+
+—
+
+Minimum 5 years and 5 strokes
+
+Minimum 3 years and 3 strokes
+
 Minimum 2 years and 2 strokes
-
-—
-
-—
 
 —
 
@@ -2297,9 +2548,9 @@ not less than 800 grammes and not more than 1,200 grammes and containing not les
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
+
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2332,6 +2583,8 @@ not less than 20 grammes and not more than 30 grammes
 —
 
 Maximum 30 years or imprisonment for life and 15 strokes
+
+—
 
 Minimum 20 years and 15 strokes
 
@@ -2367,12 +2620,9 @@ not less than 10 grammes and not more than 15 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2406,12 +2656,9 @@ not less than 20 grammes and not more than 30 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2445,12 +2692,9 @@ not less than 330 grammes and not more than 500 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2484,12 +2728,9 @@ not less than 660 grammes and not more than 1,000 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2523,6 +2764,8 @@ not less than 130 grammes and not more than 200 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
@@ -2551,12 +2794,9 @@ not less than 167 grammes and not more than 250 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2664,13 +2904,17 @@ Unauthorised import or export of controlled drug except as otherwise provided in
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 5 years and 5 strokes
-
 Maximum 30 years or imprisonment for life and 15 strokes
 
+Maximum 20 years and 15 strokes
+
+—
+
+—
+
 Minimum 5 years and 5 strokes
 
-Maximum 20 years and 15 strokes
+Minimum 5 years and 5 strokes
 
 Minimum 3 years and 5 strokes
 
@@ -2694,12 +2938,9 @@ not less than 800 grammes and not more than 1,200 grammes and containing not les
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2733,12 +2974,9 @@ not less than 20 grammes and not more than 30 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
-Minimum 20 years and 15 strokes
-
 —
 
-
-
+Minimum 20 years and 15 strokes
 
 —
 
@@ -2758,7 +2996,7 @@ Death
 
 (4)
 
-Unauthorised import or export of controlled drug containing such quantity of diamorphine being
+Unauthorised import or export of controlled drug containing such quantity of diamorphine being —
 
 (a)
 
@@ -2771,6 +3009,8 @@ not less than 10 grammes and not more than 15 grammes
 —
 
 Maximum 30 years or imprisonment for life and 15 strokes
+
+—
 
 Minimum 20 years and 15 strokes
 
@@ -2806,6 +3046,8 @@ not less than 20 grammes and not more than 30 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
@@ -2839,6 +3081,8 @@ not less than 330 grammes and not more than 500 grammes
 —
 
 Maximum 30 years or imprisonment for life and 15 strokes
+
+—
 
 Minimum 20 years and 15 strokes
 
@@ -2874,6 +3118,8 @@ not less than 660 grammes and not more than 1,000 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
@@ -2908,6 +3154,8 @@ not less than 130 grammes and not more than 200 grammes
 
 Maximum 30 years or imprisonment for life and 15 strokes
 
+—
+
 Minimum 20 years and 15 strokes
 
 —
@@ -2941,6 +3189,8 @@ not less than 167 grammes and not more than 250 grammes
 —
 
 Maximum 30 years or imprisonment for life and 15 strokes
+
+—
 
 Minimum 20 years and 15 strokes
 
@@ -3040,33 +3290,21 @@ Being the owner, tenant, occupier or person concerned in the management of premi
 
 Maximum 10 years or $40,000 or both
 
-Minimum 2 years or $4,000 or both
-
 Maximum 10 years or $40,000 or both
 
+Maximum 5 years or $10,000 or both
+
+—
+
+—
+
 Minimum 2 years or $4,000 or both
 
-Maximum 5 years or $10,000 or both
+Minimum 2 years or $4,000 or both
 
 Minimum 12 months or $2,000 or both
 
 —
-
-
-
-
-
-
-
-—
-
-—
-
-
-
-
-
-
 
 —
 
@@ -3076,19 +3314,19 @@ Causing or procuring young person or vulnerable person to commit certain offence
 
 Maximum 30 years and 15 strokes
 
-Minimum 10 years and 10 strokes
-
 Maximum 30 years and 15 strokes
-
-Minimum 6 years and 6 strokes
 
 Maximum 20 years and 15 strokes
 
+—
+
+—
+
+Minimum 10 years and 10 strokes
+
+Minimum 6 years and 6 strokes
+
 Minimum 4 years and 4 strokes
-
-—
-
-—
 
 13
 
@@ -3242,7 +3480,11 @@ Pseudoephedrine also known as β-Hydroxy-N-methylamphetamine
 
 Safrole also known as 4-Allyl-1,2-methylenedioxybenzene.
 
-2\. The salts of the substances listed in paragraph 1 whenever the existence of such salts is possible.
+2. The salts of the substances listed in paragraph 1 whenever the existence of such salts is possible.
+
+[S 272/2013 wef 01/05/2013]
+
+[20/98; S 404/2000]
 
 Part II
 
@@ -3264,9 +3506,11 @@ Sulphuric acid
 
 Toluene also known as Methylbenzene or Phenylmethane.
 
-2. The salts of the substances listed in paragraph 1 of Part II of the Third Schedule whenever the existence of such salts is possible.
+2. The salts of the substances listed in paragraph 1 whenever the existence of such salts is possible.
 
 [S 272/2013 wef 01/05/2013]
+
+[20/98]
 
 FOURTH SCHEDULE
 
@@ -3280,7 +3524,9 @@ Amphetamine
 
 2. 
 
-N,α-dimethyl-3,4-(methylenedioxy)phenethylamine
+N,α-Dimethyl-3,4-(methylenedioxy)phenethylamine (also known as MDMA)
+
+[S 323/2014 wef 01/05/2014]
 
 2A. 
 
@@ -3312,7 +3558,9 @@ Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to 
 
 4. 
 
-N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine
+N-Ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine (also known as MDEA)
+
+[S 323/2014 wef 01/05/2014]
 
 5. 
 
@@ -3324,7 +3572,9 @@ Methamphetamine (also known as Methylamphetamine)
 
 7. 
 
-α-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine)
+α-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine or MDA)
+
+[S 323/2014 wef 01/05/2014]
 
 8. 
 
@@ -3350,7 +3600,7 @@ Norketamine and its dehydro derivatives
 
 Opium.
 
-[2/2006; S560/2006; S402/2007]
+[2/2006; S 560/2006; S 402/2007]
 
 FIFTH SCHEDULE
 
@@ -3358,255 +3608,37 @@ Sections 24, 26, 27, 32 and 58A
 
 Temporarily listed drugs
 
-1. Any compound containing a 3-(1-naphthoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
+1. 
 
-{1-[(1-Methylpiperidin-2-yl)methyl]-1H-indol-3-yl}(naphthalen-1-yl)methanone, also known as AM-1220
+The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
 
-[1-(5-Fluoropent-1-yl)-6-nitro-1H-indol-3-yl](naphthalen-1-yl)methanone, also known as AM-1235
+(1) N-(1-Adamantyl)-5-fluoropentyl-1H-indazole-3-carboxamide (also known as 5-Fluoro-APINACA or 5F-AKB48)
 
-[1-(5-Fluoropent-1-yl)-1H-indol-3-yl](naphthalen-1-yl)methanone, also known as AM-2201
+(2) N-(1-Adamantyl)-5-fluoropentyl-1H-indole-3-carboxamide (also known as 5-Fluoro-APICA or STS-135)
 
-[1-(Heptan-2-yl)-2-methyl-1H-indol-3-yl](naphthalen-1-yl)methanone, also known as JWH-011
+(3) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as AB-FUBINACA)
 
-(2-Methyl-1-propyl-1H-indol-3-yl)(naphthalen-1-yl)methanone, also known as JWH-015
+(4) 4-(2-Aminopropyl)benzofuran (also known as 4-APB)
 
-Naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone, also known as JWH-018
+(5) 7-(2-Aminopropyl)benzofuran (also known as 7-APB)
 
-(1-Hexyl-1H-indol-3-yl)(naphthalen-1-yl)methanone, also known as JWH-019
+(6) 4-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 4-APDB)
 
-Naphthalen-1-yl[1-(pent-4-en-1-yl)-1H-indol-3-yl]methanone, also known as JWH-022
+(7) 7-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 7-APDB)
 
-(1-Butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone, also known as JWH-073
+(8) 2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25B-NBOMe)
 
-(4-Methoxynaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone, also known as JWH-081
+(9) 2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25C-NBOMe)
 
-(4-Methylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone, also known as JWH-122
+(10) 2-(2,5-Dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25H-NBOMe)
 
-{1-[2-(Morpholin-4-yl)ethyl]-1H-indol-3-yl}(naphthalen-1-yl)methanone, also known as JWH-200
+(11) 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25I-NBOMe)
 
-(4-Ethylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone, also known as JWH-210
+(12) Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (also known as 5-Fluoro-PB-22 or 5-Fluoro-QUPIC)
 
-(4-Chloronaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone, also known as JWH-398
+(13) Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (also known as PB-22 or QUPIC)
 
-[1-(5-Fluoropent-1-yl)-1H-indol-3-yl](4-methylnaphthalen-1-yl)methanone, also known as MAM-2201
-
-[S 273/2013 wef 02/05/2013]
-
-2. Any compound containing a 3-(1-naphthylmethyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-3-(Naphthalen-1-ylmethyl)-1-pentyl-1H-indole, also known as JWH-175
-
-3-[(4-Methylnaphthalen-1-yl)methyl]-1-pentyl-1H-indole, also known as JWH-184
-
-3. Any compound containing a 3-(1-naphthoyl)pyrrole structure with substitution at the nitrogen atom of the pyrrole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-Naphthalen-1-yl(1-pentyl-1H-pyrrol-3-yl)methanone, also known as JWH-030
-
-(1-Hexyl-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone, also known as JWH-031
-
-Naphthalen-1-yl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)methanone, also known as JWH-145
-
-(1-Hexyl-5-phenyl-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone, also known as JWH-147
-
-[5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone, also known as JWH-307
-
-Naphthalen-1-yl[5-(naphthalen-1-yl)-1-pentyl-1H-pyrrol-3-yl]methanone, also known as JWH-309
-
-[5-(3-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone, also known as JWH-368
-
-[5-(2-Chlorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone, also known as JWH-369
-
-[5-(2-Methylphenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone, also known as JWH-370
-
-4. Any compound containing a naphthylideneindene structure with substitution at the 3-position of the indene ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indene ring to any extent and whether or not substituted in the naphthyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-E-1-[1-(1-Naphthalenylmethylene)-1H-inden-3-yl]pentane, also known as JWH-176
-
-5. Any compound containing a 3-phenylacetylindole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-2-(2-Methoxyphenyl)-1-{1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}ethanone, also known as cannabipiperidiethanone
-
-2-(4-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone, also known as JWH-201
-
-2-(2-Chlorophenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone, also known as JWH-203
-
-2-(2-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone, also known as JWH-250
-
-2-(2-Methylphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone, also known as JWH-251
-
-2-(3-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone, also known as JWH-302
-
-1-[1-(2-Cyclohexylethyl)-1H-indol-3-yl]-2-(2-methoxyphenyl)ethanone, also known as RCS-8
-
-6. Any compound containing a 2-(3-hydroxycyclohexyl)phenol structure with substitution at the 5-position of the phenolic ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not substituted in the cyclohexyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-2-(3-Hydroxycyclohexyl)-5-(2-methyloctan-2-yl)phenol, also known as CP47,497
-
-2-[5-Hydroxy-2-(3-hydroxypropyl)cyclohexyl]-5-(2-methyloctan-2-yl)phenol, also known as CP55,940
-
-7. Any compound containing a 3-(benzoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-[1-(5-Fluoropentyl)-1H-indol-3-yl](2-iodophenyl)methanone, also known as AM-694
-
-(2-Iodo-5-nitrophenyl){1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone, also known as AM-1241
-
-(2-Iodophenyl){1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone, also known as AM-2233
-
-(4-Methoxyphenyl){2-methyl-1-[2-(morpholin-4-yl)ethyl]-1H-indol-3-yl}methanone, also known as pravadoline
-
-(4-Methoxyphenyl)(1-pentyl-1H-indol-3-yl)methanone, also known as RCS-4
-
-8. Any compound containing a 3-(1-adamantoyl)indole structure with substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, and any derivatives of the above compounds containing hydroxy and/or carboxylic acid groups, whether or not further substituted in the indole ring to any extent and whether or not substituted in the adamantyl ring to any extent, including any salt or stereoisomeric form of the above compounds or derivatives, and any preparation or product containing the above compounds or derivatives, for example:
-
-Adamantan-1-yl{1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone, also known as AM-1248
-
-Adamantan-1-yl(1-pentyl-1H-indol-3-yl)methanone, also known as AB-001
-
-9. Any compound, other than bupropion, methcathinone and 4-methylmethcathinone, that is structurally derived from 2-amino-1-phenylpropan-1-one by modification in any of the following ways:
-
-(a) substitution in the phenyl ring to any extent with alkyl, alkoxy, alkylenedioxy, haloalkyl, or halide substituents, whether or not further substituted in the phenyl ring by one or more other univalent substituents;
-
-(b) substitution at the 3-position with an alkyl substituent; or
-
-(c) substitution at the nitrogen atom with alkyl or dialkyl, benzyl or methoxybenzyl groups, or by inclusion of the nitrogen atom in a cyclic structure,
-
-including any salt or stereoisomeric form of the above compounds, and any preparation or product containing the above compounds, for example:
-
-2-(Dimethylamino)-1-phenylpropan-1-one, also known as metamfepramone or dimethylcathinone
-
-1-(Fluorophenyl)-2-(methylamino)propan-1-one
-
-2-(Methylamino)-1-phenylbutan-1-one, also known as buphedrone
-
-1-(1,3-Benzodioxol-5-yl)-2-(methylamino)butan-1-one, also known as butylone
-
-2-(Ethylamino)-1-phenylpropan-1-one, also known as ethcathinone
-
-1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)propan-1-one, also known as ethylone
-
-1-(4-Methoxyphenyl)-2-(methylamino)propan-1-one, also known as methedrone
-
-2-(Ethylamino)-1-(4-methylphenyl)propan-1-one, also known as 4-methylethcathinone
-
-1-(1,3-Benzodioxol-5-yl)-2-(methylamino)propan-1-one, also known as methylone or 3,4-methylenedioxy-N-methylcathinone
-
-1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one, also known as 3,4-methylenedioxypyrovalerone or MDPV
-
-1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)butan-1-one, also known as MDPBP
-
-1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)propan-1-one, also known as MDPPP
-
-1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)butan-1-one, also known as MPBP
-
-1-(4-Methoxyphenyl)-2-(pyrrolidin-1-yl)propan-1-one, also known as MOPPP
-
-2-(Methylamino)-1-phenylpentan-1-one, also known as pentedrone
-
-1-(1,3-Benzodioxol-5-yl)-2-(methylamino)pentan-1-one, also known as pentylone
-
-1-Phenyl-2-(pyrrolidin-1-yl)butan-1-one, also known as α-PBP
-
-1-Phenyl-2-(pyrrolidin-1-yl)propan-1-one, also known as α-PPP
-
-1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-one, also known as α-PVP
-
-1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)pentan-1-one, also known as pyrovalerone
-
-10. Any compound that is structurally derived from 2-aminopropan-1-one by substitution at the 1-position with any monocyclic, or fused-polycyclic ring system (not being a phenyl ring or alkylenedioxyphenyl ring system), whether or not the compound is further modified in any of the following ways:
-
-(a) substitution in the ring system to any extent with alkyl, alkoxy, haloalkyl, or halide substituents, whether or not further substituted in the ring system by one or more other univalent substituents;
-
-(b) substitution at the 3-position with an alkyl substituent; or
-
-(c) substitution at the 2-amino nitrogen atom with alkyl or dialkyl groups, or by inclusion of the 2-amino nitrogen atom in a cyclic structure,
-
-including any salt or stereoisomeric form of the above compounds, and any preparation or product containing the above compounds, for example:
-
-1-(Naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one, also known as naphyrone or napthylpyrovalerone
-
-11. The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
-
-2,3-Dihydro-1H-inden-2-amine, also known as 2-Aminoindane
-
-2,3-Dihydro-5-iodo-1H-inden-2-amine, also known as 5-Iodo-2-aminoindane or 5-IAI
-
-6,7-Dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine, also known as 5,6-(methylenedioxy)-2-aminoindane or MDAI
-
-5-(2-Aminopropyl)benzofuran, also known as 5-APB
-
-6-(2-Aminopropyl)benzofuran, also known as 6-APB or BenzoFury
-
-5-(2-Aminopropyl)-2,3-dihydrobenzofuran, also known as 5-APDB
-
-6-(2-Aminopropyl)-2,3-dihydrobenzofuran, also known as 6-APDB
-
-1-(Fluorophenyl)propan-2-amine
-
-N-Methyl-1-(fluorophenyl)propan-2-amine
-
-N-Methyl-1-(methylphenyl)propan-2-amine
-
-N-Methyl-1-(methoxyphenyl)propan-2-amine
-
-1-(4-Methylbenzo-1,3-dioxol-6-yl)propan-2-amine, also known as 5-methyl-MDA or 5-methyl-3,4-methylenedioxyamphetamine
-
-N,N-Dimethyl-1-phenylpropan-2-amine, also known as N,N-dimethylamphetamine
-
-[2,3-Dihydro-5-methyl-3-(morpholin-4-ylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl](naphthalen-1-yl)methanone
-
-6,6-Dimethyl-3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1,9-diol
-
-[9-Hydroxy-6-methyl-3-(5-phenylpentan-2-yl)oxy-5,6,6a,7,8,9,10,10a-octahydrophenanthridin-1-yl]acetate
-
-9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydro-6H-benzo[c]chromen-1-ol
-
-1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-yl)-6,6a,7,8,10,10a-hexahydro-9H-benzo[c]chromen-9-one
-
-{4-[2,6-Dimethoxy-4-(2-methyloctan-2-yl)phenyl]-6,6-dimethyl-bicyclo[3.1.1]hept-2-en-2-yl}methanol, also known as HU-308
-
-3-Hydroxy-2-[3-methyl-6-(2-propenyl)-cyclohex-2-en-1-yl]-5-pentyl-1,4-benzoquinone
-
-5-[3-(1-Naphthoyl)-1H-indol-1-yl]pentanenitrile, also known as AM-2232
-
-(1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone, also known as UR-144
-
-[1-(5-Fluoropent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone, also known as XLR-11 or 5-fluoro UR-144
-
-N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide, also known as APICA
-
-N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide, also known as APINACA
-
-Naphthalen-1-yl(4-pentyloxynaphthalen-1-yl)methanone, also known as CB-13
-
-Salvinorin A
-
-Mitragynine
-
-7-Hydroxymitragynine
-
-16-Carboxymitragynine
-
-17-O-Desmethyl-16,17-dihydromitragynine
-
-9-O-Desmethylmitragynine
-
-17-Carboxy-16,17-dihydromitragynine
-
-2-Diphenylmethylpiperidine, also known as desoxypipradrol
-
-Diphenyl(pyrrolidin-2-yl)methanol, also known as diphenylprolinol
-
-N-Methyl-1-(thiophen-2-yl)propan-2-amine, also known as methiopropamine
-
-2-(3-Methoxyphenyl)-2-(N-ethylamino)cyclohexanone, also known as methoxetamine
-
-(N-Methyl-4-phenylpiperidin-4-yl)propanoate, also known as desmethylprodine
-
-4-(Fluorophenyl)piperazine.
-
-[S 273/2013 wef 02/05/2013]
-
-[Act 30 of 2012 wef 01/05/2013]
+[S 323/2014 wef 01/05/2014]
 
 ## LEGISLATIVE HISTORY
 
@@ -3614,7 +3646,7 @@ Misuse of Drugs Act
 
 (CHAPTER 185)
 
-This Legislative History is provided for the convenience of users of the Misuse of Drugs Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Misuse of Drugs Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3730,7 +3762,7 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|14 August 2006|
 |38.|**G. N. No. S 560/2006—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2006**|
 ||Date of commencement|1 October 2006|
-|39.|**G. N. No. S 402/2007—Misuse of Drugs Act Act (Amendment of Fourth Schedule) Order 2007**|
+|39.|**G. N. No. S 402/2007—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2007**|
 ||Date of commencement|1 August 2007|
 |40.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
 ||(Consequential amendments made to Act by)||
@@ -3770,6 +3802,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 27/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|28 April 2014|
+|49.|**G.N. No. S 323/2014—Misuse of Drugs Act (Amendment of First, Fourth and Fifth Schedules) Order 2014**|
+||Date of commencement|1 May 2014|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
@@ -3786,7 +3820,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 —
 
-31—(5) (Deleted by Act 2/2006)
+31 —(5) (Deleted by Act 2/2006)
 
 PART V
 
@@ -3800,17 +3834,13 @@ PART VII
 
 PART VI
 
-COMPARATIVE TABLE
-
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
 
 (CHAPTER 185)
 
-MISUSE OF DRUGS ACT (CHAPTER 185, 2001 EDITION)
-
-The following provisions in the 1998 Revised Edition of the Misuse of Drugs Act were renumbered by the Law Revision Commissioners in the 2001 Revised Edition.
+The following provisions in the 1998 Revised Edition of the Misuse of Drugs Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Misuse of Drugs Act.
 
@@ -3818,9 +3848,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1998 Ed\. 
 
-33 (2) and (3)
+33 —(2) and (3)
 
-33 (2)
+33 —(2)
 
 (4)
 
@@ -3840,7 +3870,7 @@ PART IV
 
 35 
 
-38 (1) and (2)
+38 —(1) and (2)
 
 36 
 
