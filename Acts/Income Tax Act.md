@@ -1526,17 +1526,17 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (a) in relation to an individual, means an individual who is not resident in Singapore;
 
-(b) in relation to a company, means a company which is not resident in Singapore and —
+(b) in relation to a company, means a company which is neither resident in Singapore nor carrying on business through a permanent establishment in Singapore, and not less than 80% of the total number of the issued shares of which are beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
 
-(i) in the case of a company with not more than 50 shareholders, all of its issued shares are beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
-
-(ii) in the case of a company with more than 50 shareholders, not less than 80% of the total number of its issued shares are beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
+[Act 37 of 2014 wef 30/05/2014]
 
 (c) in relation to a trust fund, means a trust fund where at least 80% of the value of the fund is beneficially held, directly or indirectly, by foreign investors referred to in paragraph (a) or (b) and, unless waived by the Minister or such person as he may appoint, where —
 
 (i) the fund is created outside Singapore; and
 
-(ii) the trustees of the fund are neither citizens of Singapore nor resident in Singapore;
+(ii) the trustees of the fund are neither citizens of Singapore nor resident in Singapore, nor do they carry out duties as such trustees through a permanent establishment in Singapore;
+
+[Act 37 of 2014 wef 30/05/2014]
 
 “qualifying debt securities” has the same meaning as in section 13(16);
 
@@ -2514,7 +2514,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the rendering of assistance or service is not performed through that business carried on in Singapore or that permanent establishment;
 
-[Act 37 of 2014 wef 28/02/2013]
+[Act 37 of 2014 wef 01/04/2014]
 
 (b) the management or assistance in the management of any trade, business or profession, where such management or assistance is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
 
@@ -2528,7 +2528,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 [27/2009]
 
-[Act 37 of 2014 wef 28/02/2013]
+[Act 37 of 2014 wef 01/04/2014]
 
 (c) the use of or the right to use software, information or digitised goods, not being a right to commercially exploit in one form or another the copyright in such software, information or digitised goods such as the right to —
 
@@ -2536,7 +2536,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (ii) prepare a derivative work based on the software, information or digitised goods for distribution.
 
-[Act 37 of 2014 wef 28/02/2013]
+[Act 37 of 2014 wef 01/04/2014]
 
 (7B) In subsection (7A)(c) —
 
@@ -2548,7 +2548,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (b) any information obtained solely for research purposes.
 
-[Act 37 of 2014 wef 28/02/2013]
+[Act 37 of 2014 wef 01/04/2014]
 
 ### Commission or other payment of licensed international market agent
 
@@ -8506,17 +8506,17 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [29/2010]
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 (1A) Where any person proposes to incur or has incurred on or after 22nd February 2014 qualifying capital expenditure on the construction or renovation of a building or structure on port land or airport land, for which an application for planning permission or conservation permission is made on or after that date to the competent authority in accordance with the Planning Act (Cap. 232), the person may apply to the Minister or such person as the Minister may appoint, between 22nd February 2014 and 30th June 2020 (both dates inclusive) for such construction or renovation to be approved for the purposes of making an allowance under this section in respect of such expenditure incurred by that person.
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 (2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1) or (1A), is satisfied that the construction or renovation of the building or structure on industrial land, port land or airport land (as the case may be) promotes such intensified use of the land for the purposes of such trade or business as may be prescribed by regulations, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
 
 [29/2010; 22/2011]
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 (2A) Where a trade or business is prescribed under subsection (2), then, unless otherwise provided in regulations —
 
@@ -8574,21 +8574,21 @@ there shall be made to that person, computed in accordance with section 16 —
 
 “airport land” means any land zoned for use as an airport under the Master Plan;
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 “approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land, port land or airport land (as the case may be) approved under subsection (2);
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 “industrial land” means any land zoned for the purpose of “Business 1” or “Business 2” (other than “Business 1 White” and “Business 2 White”) under the Master Plan, and includes such other land as may be approved by the Minister;
 
-“Master Plan” means the Master Plan as defined in the Planning Act which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1) or (1A), as the case may be;
+“Master Plan” means the Master Plan as defined in the Planning Act which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1) or (1A), as the case may be ;
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 “port land” means any land zoned for use as a port under the Master Plan;
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 “qualifying capital expenditure” means the following types of capital expenditure which are incurred in respect of any construction or renovation, between 23rd February 2010 and the date of completion of that construction or renovation (both dates inclusive):
 
@@ -8606,7 +8606,7 @@ there shall be made to that person, computed in accordance with section 16 —
 
 (g) stamp duties payable in respect of title of the building or structure;
 
-[Act 37 of 2014 wef 22/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 “relevant interest”, in relation to any qualifying capital expenditure incurred on an approved construction or approved renovation of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
 
@@ -12649,7 +12649,7 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 (b) the amount of cash payout that may be made to him is the lesser of —
 
-(i) 
+(i) A × B,
 
 where A
 
@@ -16227,11 +16227,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [53/2007; 34/2008; 22/2011; 19/2013]
 
-[Act 37 of 2014 wef 21/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 (c) any interest liable to be paid on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
 
-[Act 37 of 2014 wef 21/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 (10) In this section, “qualifying debt securities” and “qualifying project debt securities” have the same meanings as in section 13(16).
 
@@ -16277,7 +16277,7 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (2E) Subsection (1) shall not apply to any payment liable to be made on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
 
-[Act 37 of 2014 wef 21/02/2014]
+[Act 37 of 2014 wef 01/04/2014]
 
 (3) In this section —
 
@@ -21523,19 +21523,20 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
 |305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 March 2014|
-|306.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
-||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
-||Date of Second and Third Readings|3 November 2014|
-||Date of commencement|1 April 2014|
-|307.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|306.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
-|308.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+|307.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017|
 |||(Bill No. 36/2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|1 April 2014|
+|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|3 November 2014|
+||Date of commencement|1 April 2014|
+|||30 May 2014|
 ## COMPARATIVE TABLE
 
 Income Tax Act
