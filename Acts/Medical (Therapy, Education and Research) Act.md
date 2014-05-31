@@ -62,9 +62,9 @@
 
 (Original Enactment: Act 23 of 1972)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st May 2014)
 
 An Act to make provision for the use of the bodies of deceased persons or parts thereof for purposes of medical or dental education, research, advancement of medical or dental science, therapy and transplantation, and for other purposes connected therewith.
 
@@ -86,27 +86,25 @@ PRELIMINARY
 
 “designated officer”, in relation to an approved hospital for the purposes of this Act, means a person appointed under section 2A to be the designated officer of the approved hospital;
 
-[4/2010 wef 17/02/2010]
-
 “Director” means the Director of Medical Services, and includes the Deputy Director of Medical Services and such designated officer of an approved hospital or such public officer as is authorised by the Director of Medical Services in writing to act on his behalf;
-
-[4/2010 wef 17/02/2010]
 
 “donor” means an individual who makes a gift of all or any part of his body;
 
 “part”, in relation to a human body, includes organs, tissues, eyes, bones, arteries, blood, other fluids and other portions of a human body.
 
+[4/2010]
+
 ### Appointment of designated officers
 
 2A\. The Director of Medical Services may appoint, in writing, any senior official of the Ministry of Health or senior executive of an approved hospital for the purposes of this Act, to be the designated officer of any approved hospital for the purposes of this Act.
 
-[4/2010 wef 17/02/2010]
+[4/2010]
 
 ### Approved hospitals, etc.
 
 2B\. The Minister may, by notification in theGazette, declare a hospital, medical or dental school, college or university to be an approved hospital, medical or dental school, college or university for the purposes of this Act.
 
-[4/2010 wef 17/02/2010]
+[4/2010]
 
 ## PART II
 
@@ -116,7 +114,7 @@ ANATOMICAL GIFTS
 
 3\. Any person who is not mentally disordered and who is 18 years of age or above may give all or any part of his body for any of the purposes specified in section 7, the gift to take effect upon death.
 
-[21/2008 wef 01/03/2010]
+[21/2008]
 
 ### Relatives may donate body of deceased person
 
@@ -126,7 +124,7 @@ ANATOMICAL GIFTS
 
 ### When donee should not accept gift
 
-5\. The donee of a gift of a body or any part thereof shall not accept the gift if he has actual notice of contrary indications by the deceased person or that a gift by a member of a class is opposed by a member of the same class or a prior class.
+5\. The donee of a gift of a body or any part of a body shall not accept the gift if he has actual notice of contrary indications by the deceased person or that a gift by a member of a class is opposed by a member of the same class or a prior class.
 
 ### Medical examination of body
 
@@ -134,27 +132,27 @@ ANATOMICAL GIFTS
 
 ### Purposes of anatomical gifts, etc.
 
-7\.—(1) The following persons may become donees of gifts of bodies or parts thereof for the purposes stated:
+7\.—(1) The following persons may become donees of gifts of bodies or parts of bodies for the purposes stated:
 
 (a) any approved hospital for medical or dental education, research, advancement of medical or dental science, therapy or transplantation;
 
-(b) any approved medical or dental school, college or university for medical or dental education, research, advancement of medical or dental science, therapy or transplantation; or
+(b) any approved medical or dental school, college or university for medical or dental education, research, advancement of medical or dental science, therapy or transplantation;
 
 (c) any specified individual for therapy or transplantation needed by him.
 
-(2) [Deleted by Act 4/2010 wef 17/02/2010]
+(2) [Deleted by Act 4 of 2010]
 
 ### Mode of executing gift
 
-8\. A gift of all or any part of a body under section 3 may be made by the donor either in writing at any time or orally in the presence of two or more witnesses during a last illness.
+8\. A gift of all or any part of a body under section 3 may be made by the donor either in writing at any time or orally in the presence of 2 or more witnesses during a last illness.
 
 ### Revocation of gift
 
-9\. A gift of a body or any part thereof may be revoked by the donor at any time —
+9\. A gift of a body or any part of a body may be revoked by the donor at any time —
 
 (a) by a signed statement in writing delivered to the donee;
 
-(b) by an oral statement made in the presence of two or more persons and communicated to the donee; or
+(b) by an oral statement made in the presence of 2 or more persons and communicated to the donee; or
 
 (c) by a written document to that effect found on his person or in his effects.
 
@@ -164,19 +162,21 @@ ANATOMICAL GIFTS
 
 (2) If the gift is made without specifying a donee, the designated officer of the approved hospital in which the death of the deceased person has taken place or to which the body of the deceased person has been removed may accept the gift as donee upon or following the death for the purposes of section 7(a) or (b), as the case may be.
 
-[4/2010 wef 17/02/2010]
+[4/2010]
 
 ### Rights and duties of donee
 
-11\.—(1) The donee may accept or reject the gift of a body or part thereof.
+11\.—(1) A donee may accept or reject a gift of a body or part of a body.
 
-(2) If the gift is of a part of the body of a deceased person, the donee shall cause the part to be removed without unnecessary mutilation. After removal of the part, custody of the remainder of the body shall vest in the surviving spouse, next of kin or other person under obligation to dispose of the body.
+(2) If the gift is of a part of the body of a deceased person, the donee shall cause the part to be removed without unnecessary mutilation.
+
+(3) After removal of the part of the body under subsection (2), custody of the remainder of the body shall vest in the surviving spouse, next‑of‑kin or other person under obligation to dispose of the body.
 
 ### Authority to remove parts of unclaimed bodies
 
 12\. Where the body of a deceased person has not been claimed from an approved hospital or from an institution maintained on public funds, for more than 24 hours after death, the Director may authorise in writing the use of the body or any specified part for the purposes of medical or dental education, research, advancement of medical or dental science, therapy or transplantation.
 
-[4/2010 wef 17/02/2010]
+[4/2010]
 
 ## PART III
 
@@ -184,9 +184,9 @@ POST-MORTEM EXAMINATION
 
 ### Person may authorise post-mortem examination
 
-13\.—(1) Any person who is not mentally disordered and who is 18 years of age or above may either in writing at any time or orally in the presence of two or more witnesses during his last illness authorise the post-mortem examination of his body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
+13\.—(1) Any person who is not mentally disordered and who is 18 years of age or above may either in writing at any time or orally in the presence of 2 or more witnesses during his last illness authorise the post‑mortem examination of his body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
 
-[4/2010 wef 17/02/2010]
+[21/2008]
 
 (2) Such authority shall be effective upon the death of that person.
 
@@ -200,7 +200,7 @@ POST-MORTEM EXAMINATION
 
 15\. Where the body of a deceased person has not been claimed from an approved hospital or from an institution maintained on public funds, for more than 24 hours after death, the Director may authorise in writing the post-mortem examination of the body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
 
-[4/2010 wef 17/02/2010]
+[4/2010]
 
 ## PART IV
 
@@ -210,21 +210,25 @@ SUPPLEMENTARY PROVISIONS
 
 16\.—(1) Subject to subsection (2), the removal and use of any part of a body in accordance with section 3, 4 or 12, as the case may be, or the post-mortem examination of a body in accordance with the provisions of Part III, shall be lawful.
 
+[14/2010]
+
 (2) No such removal or post-mortem examination shall be effected except —
 
 (a) by a registered medical practitioner, who shall have satisfied himself that the death of the deceased person has been determined and certified in accordance with section 2A of the Interpretation Act (Cap. 1); or
 
-(b) where the Coroner has ordered the release of the body under section 22(3)(c) of the Coroners Act 2010, in a case where an inquiry is to be held in respect of the death of any person.
+(b) where the Coroner has ordered the release of the body under section 22(3)(c) of the Coroners Act (Cap. 63A), in a case where an inquiry is to be held in respect of the death of any person.
 
-[22/1998 wef 02/11/1998]
+[22/98; 14/2010]
 
 ### Power of Coroner unaffected
 
-17\. Sections 3, 4, 13, 14 and 15 shall be without prejudice to the authority of the Coroner to direct the post-mortem examination of a body of a deceased person under the provisions of the Coroners Act 2010.
+17\. Sections 3, 4, 13, 14 and 15 shall be without prejudice to the authority of the Coroner to direct the post-mortem examination of a body of a deceased person under the provisions of the Coroners Act (Cap. 63A).
+
+[14/2010]
 
 ## THE SCHEDULE
 
-Sections 4 and 14.
+Sections 4 and 14
 
 Authorised persons
 
@@ -293,3 +297,5 @@ This Legislative History is provided for the convenience of users of the Medical
 |||(Bill No. 10/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (item 2 in the Fourth Schedule — amendment of Medical (Therapy, Education and Research) Act)|
+|7.|**2014 Revised Edition—Medical (Therapy, Education and Research) Act (Chapter 175)**|
+||Date of operation|31 May 2014|
