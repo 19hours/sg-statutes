@@ -1,16 +1,14 @@
-**Civil Aviation Authority of Singapore Act 2009**
+**Civil Aviation Authority of Singapore Act**
 
-**(No. 17 of 2009)**
+**(CHAPTER 41)**
 
 **Table of Contents**
 
 [**Long Title**](#Civil-Aviation-Authority-of-Singapore-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -94,7 +92,7 @@
 
 - [38 Modification of conditions of airport licence](#Modification-of-conditions-of-airport-licence)
 
-- [39 Suspension or revocation, etc., of airport licence](#Suspension-or-revocation-etc-of-airport-licence)
+- [39 Revocation or suspension, etc., of airport licence](#Revocation-or-suspension-etc-of-airport-licence)
 
 - [40 Security deposit against contraventions by airport licensee](#Security-deposit-against-contraventions-by-airport-licensee)
 
@@ -180,7 +178,7 @@
 
 - [72 Special administration order, etc., made on application by Authority](#Special-administration-order-etc-made-on-application-by-Authority)
 
-- [73 Meaning and effect of special administration orders](#Meaning-and-effect-of-special-administration-orders)
+- [73 Meaning and effect of special administration order](#Meaning-and-effect-of-special-administration-order)
 
 - [74 Special administration order provisions](#Special-administration-order-provisions)
 
@@ -246,11 +244,7 @@
 
 - [102 Regulations](#Regulations)
 
-- [103 Repeal](#Repeal)
-
-- [104 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
-
-- [105 Savings and transitional provisions](#Savings-and-transitional-provisions)
+- [103 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
 [**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
@@ -258,51 +252,33 @@
 
 [**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
 
-[**FOURTH SCHEDULE Consequential amendments to other written laws**](#FOURTH-SCHEDULE-Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Civil Aviation Authority of Singapore Act
 
-ACTS SUPPLEMENT
+(CHAPTER 41)
 
-Published by Authority
+(Original Enactment: Act 17 of 2009)
 
-NO. 16]
+REVISED EDITION 2014
 
-Friday, May 22
+(31st May 2014)
 
-[2009
+An Act to provide for the transfer of the airport undertaking of the Civil Aviation Authority of Singapore to a successor company, to provide for the reconstitution of the Civil Aviation Authority of Singapore, to provide for the regulation of the operation of airports and for the imposition of economic controls at airports.
 
-The following Act was passed by Parliament on 13th April 2009 and assented to by the President on 28th April 2009:—
+[1st July 2009 (with the exception of sections 86 and 87);
 
-Civil Aviation Authority of Singapore Act 2009
-
-(No. 17 of 2009)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th April 2009.
-
-Date of Commencement: 1st July 2009 Parts I to VIII, sections 88 to 95, Part X, the First, Second, Third and Fourth Schedules
-
-Date of Commencement: 1st October 2009 Sections 86 and 87
-
-An Act to provide for the transfer of the airport undertaking of the Civil Aviation Authority of Singapore to a successor company, to provide for the reconstitution of the Civil Aviation Authority of Singapore, to provide for the regulation of the operation of airports and for the imposition of economic controls at airports, to repeal the Civil Aviation Authority of Singapore Act (Chapter 41 of the 1985 Revised Edition) and to make consequential amendments to other written laws relating to airports.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+1st October 2009: sections 86 and 87 ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Civil Aviation Authority of Singapore Act 2009 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Civil Aviation Authority of Singapore Act.
 
 ### Interpretation
 
@@ -321,8 +297,6 @@ PRELIMINARY
 (d) alerting services provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and to assist such organisations as may be required;
 
 (da) communications, navigation and surveillance services;
-
-[4/2010 wef 05/02/2010]
 
 (e) meteorological services for air navigation;
 
@@ -358,7 +332,7 @@ PRELIMINARY
 
 (iv) services to maintain and repair airfields, runways, taxiways and parking aprons for aircraft;
 
-(v) rescue, fire safety and environmental hazard control services;
+(v) rescue, fire safety and environmental hazard control services; and
 
 (vi) airfield supervisory and security services;
 
@@ -368,7 +342,7 @@ PRELIMINARY
 
 (ii) services and facilities for the maintenance and refueling of aircraft and waste disposal;
 
-(iii) services and facilities for the storing and processing of cargo;
+(iii) services and facilities for the storing and processing of cargo; and
 
 (iv) security, customs and quarantine services for cargo;
 
@@ -386,7 +360,7 @@ PRELIMINARY
 
 (vi) services and facilities for the operation of security and police services;
 
-(vii) activities undertaken (including the services and facilities provided) in a passenger terminal to enable the check-in and screening of passengers, including services for baggage handling and screening;
+(vii) activities undertaken (including the services and facilities provided) in a passenger terminal to enable the check-in and screening of passengers, including services for baggage handling and screening; and
 
 (viii) the holding of any facilities and assets (including land) acquired or held to provide the services referred to in this paragraph in the future (whether or not used for any other purpose in the meantime);
 
@@ -406,11 +380,9 @@ but does not include air navigation services;
 
 “Appeals Advisory Panel” means an Appeals Advisory Panel established under section 56;
 
-“appointed day” means the date of commencement of Part II;
-
 “authorised officer”, in relation to any provision of this Act, means any person authorised in that behalf by the Authority under section 76 for the purposes of that provision;
 
-“Authority” means the Civil Aviation Authority of Singapore established under the Civil Aviation Authority of Singapore Act (Cap. 41) as in force immediately before the appointed day and reconstituted by this Act;
+“Authority” means the Civil Aviation Authority of Singapore established under the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Ed.) as in force immediately before 1st July 2009 and reconstituted by this Act;
 
 “Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
 
@@ -468,7 +440,7 @@ and “operation” and “operating” shall be construed accordingly;
 
 “regulations” and “rules” mean regulations and rules made under this Act;
 
-“repealed Act” means the Civil Aviation Authority of Singapore Act (Cap. 41) repealed by this Act;
+“repealed Act” means the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Ed.) repealed by this Act;
 
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
@@ -488,6 +460,8 @@ and “operation” and “operating” shall be construed accordingly;
 
 “transfer date” has the meaning given in section 26.
 
+[4/2010]
+
 (2) For the purposes of this Act, a company shall be regarded as wholly owned by the Government at any time when all the issued shares in the company are held by or on behalf of the Government.
 
 ### Airports
@@ -504,26 +478,21 @@ and “operation” and “operating” shall be construed accordingly;
 
 (b) any road leading into an area referred to in paragraph (a);
 
-(c) any buildings, installations, and equipment on or adjacent to any such area used in connection with the airport or its administration.
+(c) any buildings, installations and equipment on or adjacent to any such area used in connection with the airport or its administration.
 
 (2) Every declaration made under subsection (1) shall define the limits of the airport.
 
 ## PART II
 
-RECONSTITUTION, FUNCTIONS AND
-
-
-
-
-POWERS OF AUTHORITY
+RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
 ### Reconstitution of Authority
 
-4\. As from the appointed day, the Authority shall continue in existence and shall continue to be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its corporate name and performing such other acts as bodies corporate may by law perform, and shall exercise and perform such other powers and functions as are conferred by or under this Act or other written law.
+4\. As from 1st July 2009, the Authority shall continue in existence and shall continue to be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its corporate name and performing such other acts as bodies corporate may by law perform, and shall exercise and perform such other powers and functions as are conferred by or under this Act or other written law.
 
 ### Common seal
 
-5\.—(1) As from the appointed day, the Authority shall continue to have a common seal and the seal may, from time to time, be broken, altered or made anew as the Authority thinks fit.
+5\.—(1) As from 1st July 2009, the Authority shall continue to have a common seal and the seal may, from time to time, be broken, altered or made anew as the Authority thinks fit.
 
 (2) All deeds and other documents requiring the seal of the Authority shall be sealed with the common seal of the Authority and every instrument to which the common seal is affixed shall be signed by any 2 members generally or specially authorised by the Authority for the purpose, or by one member and the Chief Executive.
 
@@ -547,8 +516,6 @@ POWERS OF AUTHORITY
 
 (b) to exercise licensing and regulatory functions in respect of the operation of airports and the provision of airport services and facilities in Singapore;
 
-[Act 10 of 2014 wef 01/04/2014]
-
 (c) to regulate and promote competition and fair and efficient market conduct in the operation of airports and the provision of airport services and facilities or, in the absence of a competitive market, to prevent the misuse or abuse of monopoly or market power;
 
 (d) to regulate, encourage, promote, facilitate and assist in the use, development and improvement of air services, airports and aerospace industries;
@@ -560,8 +527,6 @@ POWERS OF AUTHORITY
 (g) to provide or co-ordinate search and rescue services to aircraft in distress within the Singapore Search and Rescue Region;
 
 (ga) to cooperate with the Air Accident Investigation Bureau of Singapore in relation to investigations under Part IIA of the Air Navigation Act (Cap. 6);
-
-[Act 10 of 2014 wef 01/04/2014]
 
 (h) to encourage, promote, facilitate and assist in the development and improvement of civil aviation capabilities, skills and services in Singapore;
 
@@ -583,6 +548,8 @@ POWERS OF AUTHORITY
 
 (q) to carry out such other functions and duties as are conferred or imposed on the Authority by or under this Act or any other written law.
 
+[10/2014]
+
 (2) In performing the functions and discharging the duties imposed on it by subsection (1), the Authority shall have regard to —
 
 (a) satisfying all reasonable demands for air services, air navigation services and airport services and facilities;
@@ -593,19 +560,13 @@ POWERS OF AUTHORITY
 
 (d) enabling persons providing airport services or air navigation services, and persons operating airports or providing airport services and facilities in Singapore, to compete effectively in doing so outside Singapore;
 
-[Act 11 of 2012 wef 01/07/2012]
-
 (e) the promotion of measures for the safety and security of life and property in aircraft, airports and other civil aviation facilities;
-
-[Act 11 of 2012 wef 01/07/2012]
 
 (f) the promotion of energy efficiency within the airport services sector; and
 
-[Act 11 of 2012 wef 01/07/2012]
-
 (g) environmental protection and the sustainable development of air transport.
 
-[Act 11 of 2012 wef 01/07/2012]
+[11/2012]
 
 (3) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions and duties as the Minister may assign to the Authority and in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Authority in respect of such functions and duties.
 
@@ -785,16 +746,13 @@ shall disclose any information relating to the affairs of the Authority or of an
 
 ## PART III
 
-TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND
-
-
-
-
-EMPLOYEES TO SUCCESSOR COMPANY
+TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND EMPLOYEES TO SUCCESSOR COMPANY
 
 ### Transfer date
 
-26\. The Minister shall, by notification in theGazette, specify a date to be the date on which the airport undertaking of the Authority and employees of the Authority in that undertaking shall be transferred to the successor company under this Part (referred to in this Act as the transfer date).
+26\. The Minister shall, by notification in theGazette1, specify a date to be the date on which the airport undertaking of the Authority and employees of the Authority in that undertaking shall be transferred to the successor company under this Part (referred to in this Act as the transfer date).
+
+1The transfer date is 1st July 2009 —videS 295/2009.
 
 ### Transfer of airport undertaking to successor company
 
@@ -820,7 +778,7 @@ EMPLOYEES TO SUCCESSOR COMPANY
 
 (4A) All assets, powers, rights, interests, privileges, debts, liabilities and obligations connected with the part of the excluded property transferred to the successor company under subsection (4)(a) shall be deemed, on the transfer date, by virtue of this section and without further assurance, to have become the assets, powers, rights, interests, privileges, debts, liabilities and obligations of the successor company.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (5) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the successor company under subsection (2) or (4), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -860,11 +818,11 @@ EMPLOYEES TO SUCCESSOR COMPANY
 
 (b) the day of her confinement is less than 90 days after the transfer date,
 
-then, on and after the transfer date, the woman shall be entitled to, or to continue to, be absent from work in relation to that confinement under section 9 of the Children Development Co-Savings Act (Cap. 38A) or section 76 of the Employment Act (Cap. 91) as may be applicable to her as if the Authority continued to be her employer.
+then, on and after the transfer date, the woman shall be entitled to, or to continue to, be absent from work in relation to that confinement under section 9 of the Child Development Co-Savings Act (Cap. 38A) or section 76 of the Employment Act (Cap. 91) as may be applicable to her as if the Authority continued to be her employer.
 
 (3) If —
 
-(a) immediately before the transfer date, a woman was an employee of the Authority and was absent from work under section 9 of the Children Development Co-Savings Act or section 76 of the Employment Act or both;
+(a) immediately before the transfer date, a woman was an employee of the Authority and was absent from work under section 9 of the Child Development Co-Savings Act or section 76 of the Employment Act or both;
 
 (b) the woman becomes an employee of the successor company under section 28; and
 
@@ -872,7 +830,7 @@ then, on and after the transfer date, the woman shall be entitled to, or to cont
 
 then, on and after the transfer date, the woman shall continue to be so entitled to be absent from work under either or both of those Acts as if the Authority continued to be her employer.
 
-(4) For the avoidance of doubt, section 18A of the Employment Act (Cap. 91) shall not apply to the transfer under this Part of any employee of the Authority to the successor company.
+(4) For the avoidance of doubt, section 18A of the Employment Act shall not apply to the transfer under this Part of any employee of the Authority to the successor company.
 
 (5) Except as otherwise provided in this section, nothing in section 28(1) shall prevent the terms and conditions of a transferred employee’s employment on or after the transfer date from being varied in accordance with those terms and conditions, or by or under any written law, or an award, a determination or an agreement.
 
@@ -928,7 +886,7 @@ then, on and after the transfer date, the woman shall continue to be so entitled
 
 (c) to enter into and carry out agreements for the transfer of his shares to an approved person.
 
-(3) Any such negotiations conducted before the date of commencement of this section are validated to the extent of any invalidity.
+(3) Any such negotiations conducted before 1st July 2009 are validated to the extent of any invalidity.
 
 (4) Any amounts received for the sale of the successor company shall be paid into the Consolidated Fund, except that there may be deducted from those amounts, before payment into the Consolidated Fund, such amount as the Minister for Finance approves to meet the expenses reasonably incurred in connection with the sale of the successor company.
 
@@ -1030,7 +988,7 @@ and, in either event, it shall thereupon issue a direction in writing to such ai
 
 (5) If no written representation is received by the Authority within the time specified in subsection (2) or if any written representation made under that subsection is subsequently withdrawn, the Authority may immediately carry out the modifications as specified in the notice given under that subsection.
 
-### Suspension or revocation, etc., of airport licence
+### Revocation or suspension, etc., of airport licence
 
 39\.—(1) If the Authority is satisfied that —
 
@@ -1322,7 +1280,7 @@ but nothing in this subsection shall limit the matters to which the Authority ma
 
 (c) providing that a contravention thereof shall be punishable by a fine not exceeding $10,000 or with imprisonment for a term not exceeding 2 years or both as may be specified in the rules.
 
-(5) Any master plan approved by the Authority immediately upon the commencement of Division 3 of Part IV for any airport or any part thereof shall be deemed to be a master plan approved under, and in accordance with rules made under, this section for that airport.
+(5) Any master plan approved by the Authority immediately upon the commencement of this Division for any airport or any part thereof shall be deemed to be a master plan approved under, and in accordance with rules made under, this section for that airport.
 
 ### Major airport development in accordance with master plan
 
@@ -1398,7 +1356,9 @@ Charges, accounts and records
 
 (2) The Minister may make rules prescribing the content, form and procedure to be followed, and the methodology or other matters to be included in connection with the preparation, setting and approval of maximum prices for the purposes of subsection (1).
 
-(3) Any maximum price approved by the Authority immediately upon the commencement of Division 4 of Part IV in respect of any aeronautical charges at any airport shall be deemed to be maximum prices approved by the Authority under, and in accordance with rules made under, this section in respect of those aeronautical charges of the airport licensee for that airport.
+[4/2010]
+
+(3) Any maximum price approved by the Authority immediately upon the commencement of this Division in respect of any aeronautical charges at any airport shall be deemed to be maximum prices approved by the Authority under, and in accordance with rules made under, this section in respect of those aeronautical charges of the airport licensee for that airport.
 
 ### Accounts and statements
 
@@ -1432,7 +1392,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) An airport licensee, or a person who provides airport services and facilities under an agreement with an airport licensee shall not, in purported compliance with a requirement under subsection (1), make a record of any matter or thing in such a way that it does not correctly record the matter or thing.
 
-(3) An airport licensee or a person who provides airport services and facilities under an agreement with an airport licensee —
+(3) An airport licensee, or a person who provides airport services and facilities under an agreement with an airport licensee —
 
 (a) who is subject to any requirement under subsection (1) or (2); and
 
@@ -1496,7 +1456,7 @@ to provide the Minister with all such information as he may require (whether for
 
 (6) Unless otherwise provided by this Act or the Minister, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until the determination of the appeal.
 
-(7) The Minister may, determine an appeal under this section —
+(7) The Minister may determine an appeal under this section —
 
 (a) by confirming, varying or reversing any decision, notice or direction of, or code of practice or standard of performance issued by, the Authority; or
 
@@ -1750,9 +1710,9 @@ and includes any person for the time being performing any or all of the function
 
 “control” includes control as a result of, or by means of, trusts, agreements, arrangements, understanding and practices, whether or not having legal or equitable force and whether or not based on legal or equitable rights;
 
-“corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+“corporation” has the same meaning as in section 4(1) of the Companies Act;
 
-“designated business trust” means a business trust that is established wholly or partly in respect of an airport (or any part thereof) and which has been declared by the Authority, by notification in the Gazette, to be a designated business trust for the purposes of this Part;
+“designated business trust” means a business trust that is established wholly or partly in respect of an airport (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated business trust for the purposes of this Part;
 
 “director” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -1766,7 +1726,7 @@ and includes such prescribed circumstances under which a person would be conside
 
 “increase”, in relation to a stake in a company, includes an increase from a starting point of nil;
 
-“indirect controller”, in relation to an airport licensee or designated business trust, means any person, whether acting alone or together with any other person, and whether with or without holding equity interests or controlling the voting power in the airport licensee or designated business trust —
+“indirect controller”, in relation to an airport licensee or a designated business trust, means any person, whether acting alone or together with any other person, and whether with or without holding equity interests or controlling the voting power in the airport licensee or designated business trust —
 
 (a) in accordance with whose directions, instructions or wishes the directors or other officers of the airport licensee or the trustee-manager of the business trust, as the case may be, are accustomed or under an obligation, whether formal or informal, to act; or
 
@@ -1792,7 +1752,7 @@ but does not include —
 
 (b) a parent or remoter lineal ancestor of the person;
 
-(c) a son, daughter or remoter issue of the person;
+(c) a son, daughter or remoter issue of the person; or
 
 (d) a brother or sister of the person;
 
@@ -1802,13 +1762,13 @@ but does not include —
 
 (b) an interest in such a share or in such stock;
 
-“treasury share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+“treasury share” has the same meaning as in section 4(1) of the Companies Act;
 
-“trustee-manager” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+“trustee-manager” has the same meaning as in section 2 of the Business Trusts Act;
 
 “unit” has the same meaning as in section 2 of the Business Trusts Act;
 
-“voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50) but does not include a treasury share.
+“voting share” has the same meaning as in section 4(1) of the Companies Act but does not include a treasury share.
 
 (2) In this Part, a person is entitled to acquire anything if the person is absolutely or contingently entitled to acquire it, whether because of any constituent document of a company, the exercise of any right or option or for any other reason.
 
@@ -1836,7 +1796,7 @@ but does not include —
 
 (g) an employee of an individual of whom the person is an employee;
 
-(h) the trustee of an discretionary trust where the person or another person who is an associate of the person by virtue of another paragraph in this subsection benefits, or is capable (whether by exercise of a power of appointment or otherwise) of benefitting, under the trust, either directly or through interposed companies, partnerships or trusts;
+(h) the trustee of a discretionary trust where the person or another person who is an associate of the person by virtue of another paragraph in this subsection benefits, or is capable (whether by exercise of a power of appointment or otherwise) of benefitting, under the trust, either directly or through interposed companies, partnerships or trusts;
 
 (i) a company whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the person;
 
@@ -1844,7 +1804,7 @@ but does not include —
 
 (k) such other person as may be prescribed by regulations.
 
-(2) If a person (referred to as the first person) enters, or proposes to enter, into an arrangement with another person (the second person) that relates to any of the following matters:
+(2) If a person (referred to as the first person) enters, or proposes to enter, into an arrangement with another person (referred to as the second person) that relates to any of the following matters:
 
 (a) the first person and the second person being in a position, by acting together, to control any of the voting power in a company;
 
@@ -1870,7 +1830,7 @@ then, the second person shall be taken to be an associate of the first person fo
 
 (3) Where a company is limited both by shares and by guarantee or does not have a share capital, subsection (1) shall have effect as if the members or policy holders of the company were shareholders in the company.
 
-(4) If the percentage of total rights to vote or participate in decision-making differs as between different types of voting or decision-making, the highest of those percentages shall apply for the purposes of this Part.
+(4) If the percentage of total rights to vote or participate in decision‑making differs as between different types of voting or decision‑making, the highest of those percentages shall apply for the purposes of this Part.
 
 ### Meaning of “interest in share”
 
@@ -1962,7 +1922,7 @@ AIRPORT OPERATIONS
 
 (j) regulating vehicular traffic generally on such roads including speed of traffic;
 
-(k) specifying the places (in this section referred to as parking places) in which vehicles, whether unattended or not, may remain stationary either indefinitely or for any period not exceeding a specified period and the period, purpose and conditions (including the parking fees payable) under which vehicles may remain stationary in other specified places in the airport;
+(k) specifying the places in which vehicles, whether unattended or not, may remain stationary either indefinitely or for any period not exceeding a specified period and the period, purpose and conditions (including the parking fees payable) under which vehicles may remain stationary in other specified places in the airport;
 
 (l) prohibiting the keeping or leaving of any vehicles stationary in any place in the airport for a purpose not permitted or not in accordance with the conditions (if any) prescribed by the by-laws;
 
@@ -2028,7 +1988,7 @@ the airport licensee or exempt airport operator for the airport may, with the ap
 
 (a) require that access be given to specified kinds of airport service for specified kinds of defence-related purposes, or for the conduct of specified kinds of public events of national significance; or
 
-(b) require that priority of access be given to specified kinds of airport service for specified kinds of defence-related purposes or for the conduct of specified kinds of public events of national significance.
+(b) require that priority of access be given to specified kinds of airport service for specified kinds of defence-related purposes, or for the conduct of specified kinds of public events of national significance.
 
 (2) The manner in which that access, or priority of access, is to be given shall be set out in the direction under subsection (1).
 
@@ -2088,7 +2048,7 @@ SPECIAL ADMINISTRATION ORDERS
 
 (2) The grounds mentioned in subsection (1) are, in relation to any company that is an airport licensee for an airport —
 
-(a) that there has been, is or is likely to be such a contravention by the company of the conditions of its airport licence or this Act which is serious enough to make it inappropriate for the company to continue to hold the airport licence for that airport;
+(a) that there has been, is or is likely to be such a contravention by the company of the conditions of its airport licence or this Act, which is serious enough to make it inappropriate for the company to continue to hold the airport licence for that airport;
 
 (b) that the company is or is likely to be unable to pay its debts;
 
@@ -2106,9 +2066,9 @@ SPECIAL ADMINISTRATION ORDERS
 
 (7) Nothing in Part V shall apply to prohibit or invalidate any special administration order or other order made under this Part or any transaction entered into to give effect to such an order.
 
-[4/2010 wef 05/02/2010]
+[4/2010]
 
-### Meaning and effect of special administration orders
+### Meaning and effect of special administration order
 
 73\.—(1) A special administration order is an order of the Minister made in accordance with section 72(1)(a) in relation to an airport licensee and directing that, during the period for which the order is in force, the affairs, business and property of the airport licensee shall be managed by a person appointed by the Minister —
 
@@ -2218,7 +2178,7 @@ in the performance and execution of any matter or thing which he is authorised t
 
 79\. No court shall try any offence under this Act or any regulations or rules except with the consent of the Public Prosecutor.
 
-[Act 15 of 2010 wef 02/01/2011]
+[15/2010]
 
 ### Power to remove persons, etc., and arrest
 
@@ -2328,7 +2288,7 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-[Act 2 of 2012 wef 01/03/2012]
+[2/2012]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -2356,7 +2316,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -2364,7 +2324,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-85\.—(1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
+85\.—(1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one‑half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
@@ -2448,7 +2408,7 @@ and prescribe conditions relating to the making of such returns;
 
 an employee authorised by the Authority in writing to act under this section may make an entry in the Register of Statutory Liens in the prescribed manner.
 
-(2) When the entry is made, a statutory lien on the aircraft vests in Authority.
+(2) When the entry is made, a statutory lien on the aircraft vests in the Authority.
 
 (3) The statutory lien shall cover the following:
 
@@ -2654,17 +2614,9 @@ MISCELLANEOUS
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal
-
-103\. The Civil Aviation Authority of Singapore Act (Cap. 41) is repealed.
-
-### Consequential amendments to other written laws
-
-104\. The provisions of the Acts specified in the first column of the Fourth Schedule are amended in the manner set out in the second column thereof.
-
 ### Savings and transitional provisions
 
-105\.—(1) On the appointed day, every person who, immediately before that date, held office as —
+103\.—(1) On 1st July 2009, every person who, immediately before that date, held office as —
 
 (a) a member of the Authority under the repealed Act; or
 
@@ -2680,11 +2632,11 @@ shall cease holding such appointments, and no such person shall be entitled to a
 
 and any rights, priorities, liabilities, reliefs, obligations, requirements, powers, duties or exemptions dependent on the beginning, duration or end of such a period as above mentioned shall be under this Act as they were or would have been under that former provision.
 
-(3) Any subsidiary legislation made under the repealed Act and in force immediately before the date of commencement of section 103 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
+(3) Any subsidiary legislation made under the repealed Act and in force immediately before 1st July 20092shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
+
+2Date of commencement of section 103 of the Civil Aviation Authority of Singapore Act 2009 (Act 17 of 2009), which is omitted in this Revised Edition.
 
 (4) Any written law or document referring to the repealed Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
-
-(5) For a period of 2 years after the date of commencement of this section, the Minister may, by regulations, prescribe such additional provisions of a savings or transitional nature consequent on the enactment of section 103 as he may consider necessary or expedient.
 
 FIRST SCHEDULE
 
@@ -2708,7 +2660,7 @@ Temporary members
 
 3\. The Minister may appoint any person to be a temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.
 
-Temporary Chairman, Deputy Chairman and other members
+Temporary Chairman and Deputy Chairman
 
 4\. The Minister may appoint any member to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or the Deputy Chairman, as the case may be.
 
@@ -2774,7 +2726,7 @@ Meetings of Authority
 
 14.—(1) The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
-(2) At every meeting of the Authority, one-third of the membership or 3 members, whichever is the higher, shall form a quorum.
+(2) At every meeting of the Authority, one-third of the membership or 3 members, whichever is higher, shall form a quorum.
 
 (3) A decision at a meeting of the Authority shall be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
@@ -2834,9 +2786,7 @@ Powers of Authority
 
 2\. To provide or acquire or assume the operation, maintenance or management of any airport under this Act.
 
-3. To conduct or supervise the conduct of examinations or tests leading to the grant of a licence, certificate, permit, permission, consent, concurrence, aviation safety instrument or approval by the Authority under this Act or any other written law.
-
-[Act 10 of 2014 wef 01/04/2014]
+3\. To conduct or supervise the conduct of examinations or tests leading to the grant of a licence, certificate, permit, permission, consent, concurrence, aviation safety instrument or approval by the Authority under this Act or any other written law.
 
 3A. To develop and issue appropriate, clear and concise aviation safety standards, codes, rules, requirements, specifications or other documents for the purpose of providing practical guidance or certainty to, or otherwise relating to —
 
@@ -2856,21 +2806,13 @@ Powers of Authority
 
 and to develop effective enforcement strategies to secure compliance with those aviation safety standards, codes or specifications.
 
-[Act 10 of 2014 wef 01/04/2014]
+3B\. To conduct regular reviews of the system of civil aviation safety in order to monitor the safety performance of the aviation industry, to identify safety-related trends and risk factors and to conduct regular and timely assessment of international safety developments.
 
-3B. To conduct regular reviews of the system of civil aviation safety in order to monitor the safety performance of the aviation industry, to identify safety-related trends and risk factors and to conduct regular and timely assessment of international safety developments.
-
-[Act 10 of 2014 wef 01/04/2014]
-
-3C. To conduct comprehensive safety education and training programmes and provide accurate and timely aviation safety advice.
-
-[Act 10 of 2014 wef 01/04/2014]
+3C\. To conduct comprehensive safety education and training programmes and provide accurate and timely aviation safety advice.
 
 4\. To provide information or issue notices relating to any matter in connection with the Authority’s functions and duties in such form or manner as the Authority may determine.
 
-5. To impose such charges and fees as may in the Authority’s opinion be appropriate for the grant, validation or renewal of licences, permits, certificates, approvals, consents, concurrences, aviation safety instruments, exemptions and other services provided by the Authority under this Act or any other written law, and to remit or waive the whole or any part of any such charges or fees paid or payable to the Authority.
-
-[Act 10 of 2014 wef 01/04/2014]
+5\. To impose such charges and fees as may in the Authority’s opinion be appropriate for the grant, validation or renewal of licences, permits, certificates, approvals, consents, concurrences, aviation safety instruments, exemptions and other services provided by the Authority under this Act or any other written law, and to remit or waive the whole or any part of any such charges or fees paid or payable to the Authority.
 
 6\. To regulate rates, charges and fees levied by operators of airports in Singapore.
 
@@ -2918,7 +2860,9 @@ and to develop effective enforcement strategies to secure compliance with those 
 
 26\. To promote or undertake publicity in any form.
 
-27\. To do anything incidental to any of its functions under this Act or any other written law.
+27. To do anything incidental to any of its functions under this Act or any other written law.
+
+[10/2014]
 
 THIRD SCHEDULE
 
@@ -2956,111 +2900,84 @@ Financial provisions
 
 10\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor under paragraph 9 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-FOURTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 104
+Civil Aviation Authority of Singapore Act
 
-Consequential amendments to other written laws
+(CHAPTER 41)
 
-First column
+This Legislative History is provided for the convenience of users of the Civil Aviation Authority of Singapore Act. It is not part of the Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Dates of commencement|1 July 2009 (except sections 86 and 87)|
+Note:
 
-1.
+The Civil Aviation Authority of Singapore Act 2009 repealed and re‑enacted with amendments the Civil Aviation Authority of Singapore Act (Chapter 41, 1985 Revised Edition).
 
-Accounting Standards Act
+|2.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Dates of commencement|1 October 2009 (sections 86 and 87)|
+|3.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 24 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|5 February 2010 (section 10 — amendment of Civil Aviation Authority of Singapore Act)|
+|4.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (item 16 of the Sixth Schedule — amendment of Civil Aviation Authority of Singapore Act)|
+|5.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 18 — amendment of Civil Aviation Authority of Singapore Act)|
+|6.|**Act 11 of 2012—Energy Conservation Act 2012**|
+||Date of First Reading|8 March 2012|
+|||(Bill No. 8/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 July 2012 (item 1 of Second Schedule — amendment of Civil Aviation Authority of Singapore Act)|
+|7.|**Act 10 of 2014—Air Navigation (Amendment) Act 2014**|
+||Date of First Reading|20 January 2014|
+|||(Bill No. 6/2014 published on 20 January 2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|1 April 2014|
+|8.|**2014 Revised Edition—Civil Aviation Authority of Singapore Act (Chapter 41)**|
+||Date of operation|31 May 2014|
+## COMPARATIVE TABLE
 
+Civil Aviation Authority of Singapore Act
 
+(CHAPTER 41)
 
+The following provisions in the Civil Aviation Authority of Singapore Act 2009 (Act 17 of 2009) have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
 
-(Chapter 2B, 2008 Ed.)
+This Comparative Table is provided for the convenience of users. It is not part of the Civil Aviation Authority of Singapore Act.
 
-The Schedule, item 7
+2014 Ed\. 
 
-Delete the words “Civil Aviation Authority of Singapore Act (Chapter 41)” in the second column and substitute the words “Civil Aviation Authority of Singapore Act 2009”.
+Act 17 of 2009 
 
-2.
+Omitted
 
-Air Navigation Act
+103 
 
+Omitted
 
+104 
 
+103 —(1) to (4)
 
-(Chapter 6, 1985 Ed.)
+105 —(1) to (4)
 
-(a)
+Omitted
 
-Section 2(1)
-
-(i)
-
-Delete the words “section 3 of the Civil Aviation Authority of Singapore Act” in the definition of “Authority” and substitute the words “section 4 of the Civil Aviation Authority of Singapore Act 2009”.
-
-(ii)
-
-Delete the marginal reference “Cap. 41” in the definition of “Authority”.
-
-(b)
-
-Section 8
-
-Repeal.
-
-(c)
-
-Section 18(8)
-
-Delete the words “the person carrying on or entitled to carry on the business of an aerodrome in” in paragraph (b) and substitute the words “the airport licensee or exempt airport operator under the Civil Aviation Authority of Singapore Act 2009 for”.
-
-3.
-
-Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
-
-
-
-
-(Chapter 65A, 2000 Ed.)
-
-Section 48B(1)
-
-Delete the words “Civil Aviation Authority of Singapore Act (Cap. 41)” in the definition of “eligible place” and substitute the words “Civil Aviation Authority of Singapore Act 2009”.
-
-4.
-
-Evidence Act
-
-
-
-
-(Chapter 97, 1997 Ed.)
-
-The Schedule, item 3
-
-Delete the words “Civil Aviation Authority of Singapore Act (Chapter 41)” under the heading “Act under which established” and substitute the words “Civil Aviation Authority of Singapore Act 2009”.
-
-5.
-
-Statutory Bodies and Government Companies (Protection of Secrecy) Act
-
-
-
-
-(Chapter 319, 2004 Ed.)
-
-The Schedule, item 3
-
-Delete the words “Civil Aviation Authority of Singapore Act (Chapter 41)” under the heading “Act under which established or constituted” and substitute the words “Civil Aviation Authority of Singapore Act 2009”.
-
-6.
-
-Statutory Corporations (Contributions to Consolidated Fund) Act
-
-
-
-
-(Chapter 319A, 2004 Ed.)
-
-Schedule, item 7
-
-Delete the words “Civil Aviation Authority of Singapore Act (Chapter 41)” under the heading “Act under which established or constituted” and substitute the words “Civil Aviation Authority of Singapore Act 2009”.
+(5)
 
