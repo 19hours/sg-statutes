@@ -1,16 +1,14 @@
-**Energy Conservation Act 2012**
+**Energy Conservation Act**
 
-**(No. 11 of 2012)**
+**(CHAPTER 92C)**
 
 **Table of Contents**
 
 [**Long Title**](#Energy-Conservation-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -180,7 +178,7 @@
 
 - [75 Saving of prosecutions under other laws](#Saving-of-prosecutions-under-other-laws)
 
-- [76 Amendment of First Schedule](#Amendment-of-First-Schedule)
+- [76 Amendment of Schedule](#Amendment-of-Schedule)
 
 - [77 Exemption](#Exemption)
 
@@ -188,65 +186,41 @@
 
 - [79 Adoption of codes and standards](#Adoption-of-codes-and-standards)
 
-- [80 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
+- [80 Savings and transitional provisions in relation to Part III](#Savings-and-transitional-provisions-in-relation-to-Part-III)
 
-- [81 Savings and transitional provisions in relation to Part III](#Savings-and-transitional-provisions-in-relation-to-Part-III)
+- [81 Savings and transitional provisions in relation to Part IV](#Savings-and-transitional-provisions-in-relation-to-Part-IV)
 
-- [82 Savings and transitional provisions in relation to Part IV](#Savings-and-transitional-provisions-in-relation-to-Part-IV)
+[**THE SCHEDULE Persons to whom information may be disclosed**](#THE-SCHEDULE)
 
-[**FIRST SCHEDULE PERSONS TO WHOM INFORMATION MAY BE DISCLOSED**](#FIRST-SCHEDULE-PERSONS-TO-WHOM-INFORMATION-MAY-BE-DISCLOSED)
+[**Legislative History**](#Legislative-History)
 
-[**SECOND SCHEDULE CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER WRITTEN LAWS**](#SECOND-SCHEDULE-CONSEQUENTIAL-AND-RELATED-AMENDMENTS-TO-OTHER-WRITTEN-LAWS)
+# Energy Conservation Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 92C)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 11 of 2012)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2014
 
-Published by Authority
-
-NO. 12]
-
-Friday, June 1
-
-[2012
-
-The following Act was passed by Parliament on 9th April 2012 and assented to by the President on 15th May 2012:—
-
-Energy Conservation Act 2012
-
-(No. 11 of 2012)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-15th May 2012.
-
-Date of Commencement: 1st July 2012 Parts I, II, Divisions 1 and 3 of Part IV, sections 68 to 73, 75, 76, 80(2), 82, First and Second Schedules
-
-Date of Commencement: 22nd April 2013 Divisions 2 and 3 of Part III, sections 64 to 67, 74, 77, 78 and 79
-
-Date of Commencement: 1st September 2013 Division 1 of Part III, sections 80(1) and 81
-
-Date of Commencement: 1st January 2014 Division 2 of Part IV
+(31st May 2014)
 
 An Act to mandate energy efficiency requirements and energy management practices to promote energy conservation, improve energy efficiency and reduce environmental impact, and to make consequential and related amendments to certain other written laws.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 2012: Parts I, II, Divisions 1 and 3 of Part IV, sections 68 to 73, 75, 76, 81, The Schedule ;
+
+22nd April 2013: Divisions 2 and 3 of Part III, sections 64 to 67, 74, 77, 78 and 79 ;
+
+1st September 2013: Division 1 of Part III, section 80 ;
+
+1st January 2014: Division 2 of Part IV ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Energy Conservation Act 2012 and shall, with the exception of Part IV, come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) Part IV shall come into operation on such date as the Transport Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Energy Conservation Act.
 
 ### Interpretation
 
@@ -256,7 +230,7 @@ PRELIMINARY
 
 “airport service operator” means —
 
-(a) a person operating an airport under an airport licence or an exemption granted under the Civil Aviation Authority of Singapore Act 2009 (Act 17 of 2009); or
+(a) a person operating an airport under an airport licence or an exemption granted under the Civil Aviation Authority of Singapore Act (Cap. 41); or
 
 (b) a person providing any service or facility for an aircraft’s arrival at or departure from any airport referred to in paragraph (a), including any of the following:
 
@@ -268,9 +242,9 @@ PRELIMINARY
 
 (iv) the check-in and screening of aircraft passengers, including services for baggage handling and screening;
 
-“authorised officer” means an officer appointed by the Director-General under section 6(2) to be an authorised officer;
+“authorised officer” means an officer appointed by the Director‑General under section 6(2) to be an authorised officer;
 
-“Civil Aviation Authority” means the Civil Aviation Authority of Singapore reconstituted under the Civil Aviation Authority of Singapore Act 2009;
+“Civil Aviation Authority” means the Civil Aviation Authority of Singapore reconstituted under the Civil Aviation Authority of Singapore Act;
 
 “corporation” and “related corporation” have the same meanings as in the Companies Act (Cap. 50);
 
@@ -368,9 +342,9 @@ PRELIMINARY
 
 (3) For the purposes of this Act, only one such corporation can have operational control over a business activity or premises at any one time.
 
-(4) If more than one corporation could satisfy subsection (1) at any one time, then the corporation that has the greatest authority to introduce and implement the policies mentioned in subsection (1)(a) and (c) shall be taken, for the purposes of this Act, to have operational control over the business activity.
+(4) If more than one corporation satisfies subsection (1) at any one time, then the corporation that has the greatest authority to introduce and implement the policies mentioned in subsection (1)(a) and (c) shall be taken, for the purposes of this Act, to have operational control over the business activity.
 
-(5) If more than one corporation could satisfy subsection (2) at any one time, then the corporation that has the greatest authority to carry out subsection (2)(b) shall be taken, for the purposes of this Act, to have operational control over the premises.
+(5) If more than one corporation satisfies subsection (2) at any one time, then the corporation that has the greatest authority to carry out subsection (2)(b) shall be taken, for the purposes of this Act, to have operational control over the premises.
 
 ### Application of Act to Government
 
@@ -396,27 +370,27 @@ ADMINISTRATION
 
 7\.—(1) The Land Transport Authority shall, subject to any general or special directions of the Transport Minister, be responsible for the administration of the provisions of this Act relating to fuel economy labelling of motor vehicles and the provisions of this Act as they apply to any land transport operator, and may —
 
-(a) appoint, by name or office, any officer or employee of the Land Transport Authority or any auxiliary police officer appointed as such under the Police Force Act (Cap. 235) to be a transport sector authorised officer for the purposes of this Act in relation thereto;
+(a) appoint, by name or office, any officer or employee of the Land Transport Authority or any auxiliary police officer appointed as such under the Police Force Act (Cap. 235) to be a transport sector authorised officer for the purposes of this Act in relation to such matters;
 
-(b) perform such duties as are imposed and exercise such powers as are conferred upon it by this Act in relation thereto; and
+(b) perform such duties as are imposed and exercise such powers as are conferred upon it by this Act in relation to such matters; and
 
-(c) subject to such conditions or restrictions as it may specify, delegate the exercise of all or any of the powers conferred or duties imposed on the Land Transport Authority by or under this Act in relation thereto (except the power of delegation conferred by this paragraph) to any transport sector authorised officer appointed by it under paragraph (a).
+(c) subject to such conditions or restrictions as it may specify, delegate the exercise of all or any of the powers conferred or duties imposed on the Land Transport Authority by or under this Act in relation to such matters (except the power of delegation conferred by this paragraph) to any transport sector authorised officer appointed by it under paragraph (a).
 
 (2) The Maritime and Port Authority shall, subject to any general or special directions of the Transport Minister, be responsible for the administration of the provisions of this Act as they apply to any port service operator, and may —
 
-(a) appoint, by name or office, any officer or employee of the Maritime and Port Authority or any auxiliary police officer appointed as such under the Police Force Act to be a transport sector authorised officer for the purposes of this Act in relation thereto;
+(a) appoint, by name or office, any officer or employee of the Maritime and Port Authority or any auxiliary police officer appointed as such under the Police Force Act to be a transport sector authorised officer for the purposes of this Act in relation to such matters;
 
-(b) perform such duties as are imposed and exercise such powers as are conferred upon it by this Act in relation thereto; and
+(b) perform such duties as are imposed and exercise such powers as are conferred upon it by this Act in relation to such matters; and
 
-(c) subject to such conditions or restrictions as it may specify, delegate the exercise of all or any of the powers conferred or duties imposed on the Maritime and Port Authority by or under this Act in relation thereto (except the power of delegation conferred by this paragraph) to any transport sector authorised officer appointed by it under paragraph (a).
+(c) subject to such conditions or restrictions as it may specify, delegate the exercise of all or any of the powers conferred or duties imposed on the Maritime and Port Authority by or under this Act in relation to such matters (except the power of delegation conferred by this paragraph) to any transport sector authorised officer appointed by it under paragraph (a).
 
 (3) The Civil Aviation Authority shall, subject to any general or special directions of the Transport Minister, be responsible for the administration of the provisions of this Act as they apply to any airport service operator, and may —
 
-(a) appoint, by name or office, any officer or employee of the Civil Aviation Authority or any auxiliary police officer appointed as such under the Police Force Act to be a transport sector authorised officer for the purposes of this Act in relation thereto;
+(a) appoint, by name or office, any officer or employee of the Civil Aviation Authority or any auxiliary police officer appointed as such under the Police Force Act to be a transport sector authorised officer for the purposes of this Act in relation to such matters;
 
-(b) perform such duties as are imposed and exercise such powers as are conferred upon it by this Act in relation thereto; and
+(b) perform such duties as are imposed and exercise such powers as are conferred upon it by this Act in relation to such matters; and
 
-(c) subject to such conditions or restrictions as it may specify, delegate the exercise of all or any of the powers conferred or duties imposed on the Civil Aviation Authority by or under this Act in relation thereto (except the power of delegation conferred by this paragraph) to any transport sector authorised officer appointed by it under paragraph (a).
+(c) subject to such conditions or restrictions as it may specify, delegate the exercise of all or any of the powers conferred or duties imposed on the Civil Aviation Authority by or under this Act in relation to such matters (except the power of delegation conferred by this paragraph) to any transport sector authorised officer appointed by it under paragraph (a).
 
 ### Public servants
 
@@ -440,7 +414,7 @@ ADMINISTRATION
 
 for anything which is done or intended to be done in good faith and with reasonable care, in the exercise or purported exercise of any power, or the performance or purported performance of any function or duty, under this Act.
 
-(2) Where the Agency or a sector regulator provides a service to the public whereby information is supplied to the public pursuant to any provision of this Act, none of the members, officers or employees of the Agency or the sector regulator, as the case may be, involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and with reasonable care in the ordinary course of the discharge of the duties of such member, officer or employee.
+(2) Where the Agency or a sector regulator provides a service to the public whereby information is supplied to the public pursuant to any provision of this Act, none of the members, officers or employees of the Agency or the sector regulator, as the case may be, involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing in the information or however caused if made in good faith and with reasonable care in the ordinary course of the discharge of the duties of such member, officer or employee.
 
 ## PART III
 
@@ -546,7 +520,7 @@ Energy labelling and minimum performance standards for registrable goods
 
 15\.—(1) The registration of any registered supplier shall remain valid unless withdrawn or revoked under section 16.
 
-(2) The registration of any registered goods, including any renewal thereof, shall be valid for 3 years unless earlier withdrawn or revoked under section 16.
+(2) The registration of any registered goods, including any renewal of such registration, shall be valid for 3 years unless earlier withdrawn or revoked under section 16.
 
 (3) An application to renew the registration of any registered goods shall be made before the expiry of the registration, and in such form and manner as may be prescribed.
 
@@ -568,7 +542,7 @@ Energy labelling and minimum performance standards for registrable goods
 
 (2) The Director-General may revoke the registration of any registered supplier after giving notice to the registered supplier and after such inquiry as the Director-General thinks fit —
 
-(a) if the registered supplier procured the registration by providing any particulars, information or document, or by making any statement or representation, to the Director-General which is false or misleading in any material particular;
+(a) if the registered supplier procured the registration by providing any particulars, information or document, or by making any statement or representation, to the Director‑General which is false or misleading in any material particular;
 
 (b) if the Director-General is satisfied that the registered supplier has contravened any condition of the registration;
 
@@ -576,7 +550,7 @@ Energy labelling and minimum performance standards for registrable goods
 
 (d) in the event of such other occurrence or in such other circumstances as may be prescribed.
 
-(3) The Director-General may revoke the registration of any registered goods after giving notice to the registered supplier supplying those goods and after such inquiry as the Director-General thinks fit, if he is satisfied —
+(3) The Director-General may revoke the registration of any registered goods after giving notice to the registered supplier supplying those goods and after such inquiry as the Director‑General thinks fit, if he is satisfied —
 
 (a) that the registered goods do not conform with the results of any test or examination furnished by the registered supplier to the Director-General under this Part;
 
@@ -634,9 +608,9 @@ as the case may be, shall take effect from the date specified by the Director-Ge
 
 18\.—(1) A registered supplier shall keep and maintain complete and accurate records in such form and manner, and containing such information, as may be prescribed.
 
-(2) The registered supplier shall make available to the Director-General the records referred to in subsection (1) for inspection.
+(2) The registered supplier shall make available to the Director‑General the records referred to in subsection (1) for inspection.
 
-(3) The registered supplier shall submit such records, or furnish such other documents or information, as may be required by the Director-General within the time specified by the Director-General.
+(3) The registered supplier shall submit such records, or furnish such other documents or information, as may be required by the Director‑General within the time specified by the Director-General.
 
 (4) Any registered supplier who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -648,7 +622,7 @@ as the case may be, shall take effect from the date specified by the Director-Ge
 
 (b) to furnish to the Director-General such documents or information as he may require in respect of those registrable goods or the supply of those registrable goods.
 
-(2) Any person who contravenes any requirement of the Director-General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(2) Any person who contravenes any requirement of the Director‑General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 ### False statements, forging of documentation, etc.
 
@@ -700,7 +674,7 @@ Energy management practices for corporations
 
 (b) such documents and information as may be prescribed.
 
-(3) The Director-General shall register a corporation if the Director-General is satisfied that —
+(3) The Director-General shall register a corporation if the Director‑General is satisfied that —
 
 (a) the corporation is a registrable corporation; and
 
@@ -708,7 +682,7 @@ Energy management practices for corporations
 
 (4) The registration of any registered corporation shall remain valid until it is cancelled under section 25.
 
-(5) A registrable corporation which fails to apply to the Director-General to be registered within the time specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(5) A registrable corporation which fails to apply to the Director‑General to be registered within the time specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 ### Register of registered corporations
 
@@ -724,7 +698,7 @@ Energy management practices for corporations
 
 ### Corporation may apply to cancel registration
 
-25\.—(1) A registered corporation may apply to the Director-General to cancel its registration —
+25\.—(1) A registered corporation may apply to the Director‑General to cancel its registration —
 
 (a) subject to paragraph (b), if the registered corporation no longer qualifies as a registrable corporation;
 
@@ -742,7 +716,7 @@ Energy management practices for corporations
 
 (a) by notice in writing, require the corporation to —
 
-(i) carry out such tests or inspections as the Director-General may specify; or
+(i) carry out such tests or inspections as the Director‑General may specify; or
 
 (ii) furnish to the Director-General such reports, documents or information as he may require in respect of any business activity or premises of the corporation;
 
@@ -770,9 +744,9 @@ from the operation of any business activity or premises or part thereof under th
 
 (c) contain such other information as may be prescribed.
 
-(3) The Director-General may, in respect of any incomplete or inaccurate report from a registered corporation, in writing direct the registered corporation to do the following within the period specified in the direction:
+(3) The Director-General may, in respect of any incomplete or inaccurate report from a registered corporation, in writing direct the registered corporation to do all of the following within the period specified in the direction:
 
-(a) to carry out such rectifications or re-computation as the Director-General may require; and
+(a) to carry out such rectifications or re-computation as the Director-General may require;
 
 (b) to re-submit the report.
 
@@ -780,7 +754,7 @@ from the operation of any business activity or premises or part thereof under th
 
 (a) fails to submit or re-submit a report under this section within the period delimited under this section, or within such extended time as the Director-General may allow in any particular case;
 
-(b) fails to comply with any direction given by the Director-General under subsection (3)(a); or
+(b) fails to comply with any direction given by the Director‑General under subsection (3)(a); or
 
 (c) submits a false or misleading report,
 
@@ -798,7 +772,7 @@ shall be guilty of an offence.
 
 (a) retain the records referred to in subsection (1) for such period as may be prescribed; and
 
-(b) during that prescribed period, make available to the Director-General or any authorised officer the records referred to in subsection (1) for inspection whenever requested to do so by the Director-General.
+(b) during that prescribed period, make available to the Director‑General or any authorised officer the records referred to in subsection (1) for inspection whenever requested to do so by the Director-General.
 
 (3) A registered corporation shall submit such records, or furnish such other documents or information, as may be required by the Director-General within the time specified by the Director-General.
 
@@ -826,7 +800,7 @@ shall be guilty of an offence.
 
 ### Appointment of energy manager
 
-30\.—(1) Unless granted a waiver under subsection (5), every registered corporation shall appoint from among its employees such number of energy managers as may be prescribed for that class, description or type of registered corporation, each being an employee who has the prescribed qualifications and training to carry out the following functions:
+30\.—(1) Unless granted a waiver under subsection (5), every registered corporation shall appoint from among its employees such number of energy managers as may be prescribed for that class, description or type of registered corporation, each being an employee who has the prescribed qualifications and training to carry out all of the following functions:
 
 (a) assist the registered corporation —
 
@@ -840,7 +814,7 @@ shall be guilty of an offence.
 
 (b) train and educate employees of the registered corporation as to the energy conservation practices of the registered corporation;
 
-(c) encourage energy conservation efforts by the registered corporation; and
+(c) encourage energy conservation efforts by the registered corporation;
 
 (d) carry out such other duties as may be prescribed.
 
@@ -870,7 +844,7 @@ shall be guilty of an offence.
 
 (b) makes any entry or omission in any record required to be kept under this Act, which he knows to be false or misleading, or makes any record containing a statement which he knows to be false or misleading; or
 
-(c) falsifies any data required to be submitted to the Director-General under this Act,
+(c) falsifies any data required to be submitted to the Director‑General under this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -912,7 +886,7 @@ during normal business hours without notice, or at any other time after giving n
 
 (d) take photographs or make video or audio recordings or sketches on the premises of any such activity or thing;
 
-(e) affix or bring onto the premises, with such assistants and workmen as may be necessary, any meter or instrument and take readings therefrom, or take readings from any meter or instrument on the premises;
+(e) affix or bring onto the premises, with such assistants and workmen as may be necessary, any meter or instrument and take readings from the meter or instrument, or take readings from any meter or instrument on the premises;
 
 (f) inspect any document on the premises that may relate to information provided for the purposes of this Part;
 
@@ -976,7 +950,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Penalty for obstructing Director-General or authorised officer in his duty
 
-38\. Any person who at any time hinders or obstructs the Director-General or any authorised officer in the performance or execution of his duty or of any thing which he is empowered or required to do under this Part shall be guilty of an offence and shall be liable on conviction —
+38\. Any person who at any time hinders or obstructs the Director‑General or any authorised officer in the performance or execution of his duty or of any thing which he is empowered or required to do under this Part shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
@@ -996,7 +970,7 @@ Fuel economy labelling, etc., of motor vehicles
 
 “authorised dealer” means a person who is appointed to sell a vehicle in Singapore under a distributorship agreement with the manufacturer of the vehicle;
 
-“batch type-approval”, “modified type-approval” and “type-approval” have the same meanings as in rule 3D of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5);
+“batch type-approval”, “modified type-approval” and “type‑approval” have the same meanings as in rule 3D of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5);
 
 “FEL effective date” or “fuel economy labelling effective date”, in relation to any motor vehicle, means the date on which the motor vehicle becomes one of a class, description or type of motor vehicle specified in an order under section 40;
 
@@ -1010,11 +984,11 @@ Fuel economy labelling, etc., of motor vehicles
 
 41\. Any authorised dealer, manufacturer or importer of motor vehicles intending to sell or offer for sale any motor vehicle of a class, description or type specified in an order under section 40 in Singapore on or after the FEL effective date in respect of that motor vehicle shall —
 
-(a) when applying for type-approval, batch type-approval or modified type-approval in respect of motor vehicles of that class, description or type, submit to the Registrar the following documents relating to the class, description or type of motor vehicle, in accordance with the prescribed requirements:
+(a) when applying for type-approval, batch type-approval or modified type-approval in respect of motor vehicles of that class, description or type, submit to the Registrar all of the following documents relating to the class, description or type of motor vehicle, in accordance with the prescribed requirements:
 
 (i) a certificate relating to fuel economy issued by a standards organisation or an international authority recognised by the Registrar;
 
-(ii) fuel consumption and carbon dioxide emissions data issued by a vehicle emission testing laboratory recognised by the Registrar or measured in accordance with any prescribed method or any method which meets any prescribed criteria; and
+(ii) fuel consumption and carbon dioxide emissions data issued by a vehicle emission testing laboratory recognised by the Registrar or measured in accordance with any prescribed method or any method which meets any prescribed criteria;
 
 (iii) such other information and documents relating to fuel economy as may be prescribed; and
 
@@ -1107,9 +1081,9 @@ from the operation of any business activity or premises or part thereof under th
 
 (c) contain such other information as may be prescribed.
 
-(3) The sector regulator may, in respect of any incomplete or inaccurate report from a transport facility operator, in writing direct the transport facility operator to do the following within the period specified in the direction:
+(3) The sector regulator may, in respect of any incomplete or inaccurate report from a transport facility operator, in writing direct the transport facility operator to do all of the following within the period specified in the direction:
 
-(a) to carry out such rectifications or re-computation as the sector regulator may require; and
+(a) to carry out such rectifications or re-computation as the sector regulator may require;
 
 (b) to re-submit the report.
 
@@ -1163,7 +1137,7 @@ shall be guilty of an offence.
 
 ### Appointment of energy manager
 
-50\.—(1) Unless granted a waiver under subsection (5), every transport facility operator shall appoint from among its employees such number of energy managers as may be prescribed for that class, description or type of transport facility operator, each being an employee who has the prescribed qualifications and training to carry out the following functions:
+50\.—(1) Unless granted a waiver under subsection (5), every transport facility operator shall appoint from among its employees such number of energy managers as may be prescribed for that class, description or type of transport facility operator, each being an employee who has the prescribed qualifications and training to carry out all of the following functions:
 
 (a) assist the transport facility operator —
 
@@ -1177,7 +1151,7 @@ shall be guilty of an offence.
 
 (b) train and educate employees of the transport facility operator as to the energy conservation practices of the transport facility operator;
 
-(c) encourage energy conservation efforts by the transport facility operator; and
+(c) encourage energy conservation efforts by the transport facility operator;
 
 (d) carry out such other duties as may be prescribed.
 
@@ -1249,7 +1223,7 @@ during normal business hours without notice, or at any other time after giving n
 
 (d) take photographs or make video or audio recordings or sketches on the premises of any such activity or thing;
 
-(e) affix or bring onto the premises, with such assistants and workmen as may be necessary, any meter or instrument and take readings therefrom, or take readings from any meter or instrument on the premises;
+(e) affix or bring onto the premises, with such assistants and workmen as may be necessary, any meter or instrument and take readings from the meter or instrument, or take readings from any meter or instrument on the premises;
 
 (f) inspect any document on the premises that may relate to information provided for the purposes of this Part;
 
@@ -1319,7 +1293,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) require by notice in writing the attendance before himself of any person within the limits of Singapore, who, from information given or otherwise, appears to be acquainted with the facts and circumstances of matters under this Part, and that person shall attend as required;
 
-(c) require any person to furnish any information or produce any book, document or copy thereof in the possession of that person and, without payment, inspect, keep, copy or take extracts from such book or document.
+(c) require any person to furnish any information or produce any book, document or copy of such book or document in the possession of that person and, without payment, inspect, keep, copy or take extracts from such book or document.
 
 (2) Any person examined under this section shall be bound to state truly what he knows of the facts and circumstances concerning matters under this Part, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
@@ -1349,11 +1323,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-60\.—(1) The appropriate sector regulator or an officer authorised by the sector regulator to compound offences may, in its or his discretion, compound any offence under this Part which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence, a sum not exceeding the lower of the following sums:
+60\.—(1) The appropriate sector regulator or an officer authorised by the sector regulator to compound offences may, in its or his discretion, compound any offence under this Part which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) a sum of $5,000.
+(b) $5,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
@@ -1407,11 +1381,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) the requirements for the appointment, training and qualification of an energy manager;
 
-(i) the functions and duties of an energy manager; and
+(ii) the functions and duties of an energy manager; and
 
-(ii) the powers of an energy manager, being necessary powers for the discharge of his functions and duties;
+(iii) the powers of an energy manager, being necessary powers for the discharge of his functions and duties;
 
-(iii) prescribing any forms for use under this Part;
+(i) prescribing any forms for use under this Part;
 
 (j) prescribing any fees and charges payable for the purposes of this Part;
 
@@ -1437,7 +1411,7 @@ MISCELLANEOUS
 
 ### Power to obtain energy consumption data from energy suppliers
 
-64\.—(1) For the purpose of carrying out his duties and functions under this Act, or obtaining information to assist a sector regulator in carrying out its duties and functions under Part IV, the Director-General may, by a notice in writing to any of the following persons (referred to in this section as an energy supplier), require the energy supplier to furnish to him data relating to the energy consumption of any person, business activity or premises specified in the notice:
+64\.—(1) For the purpose of carrying out his duties and functions under this Act, or obtaining information to assist a sector regulator in carrying out its duties and functions under Part IV, the Director‑General may, by a notice in writing to any of the following persons (referred to in this section as an energy supplier), require the energy supplier to furnish to him data relating to the energy consumption of any person, business activity or premises specified in the notice:
 
 (a) any electricity licensee under the Electricity Act (Cap. 89A);
 
@@ -1473,7 +1447,7 @@ MISCELLANEOUS
 
 (b) require by notice in writing the attendance before himself of any person within the limits of Singapore, who, from information given or otherwise, appears to be acquainted with the facts and circumstances of matters under this Act, and that person shall attend as required;
 
-(c) require any person to furnish any information or produce any book, document or copy thereof in the possession of that person and, without payment, inspect, keep, copy or take extracts from such book or document.
+(c) require any person to furnish any information or produce any book, document or copy of such book or document in the possession of that person and, without payment, inspect, keep, copy or take extracts from such book or document.
 
 (2) Any person examined under this section shall be bound to state truly what he knows of the facts and circumstances concerning matters under this Act, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
@@ -1497,9 +1471,9 @@ MISCELLANEOUS
 
 (b) a sector regulator is empowered to give under this Act may, subject to the direction of the sector regulator, be given by any transport sector authorised officer appointed by that sector regulator on its behalf.
 
-(2) Where any such notice or document referred to in subsection (1)(a) requires authentication, the signature or an official facsimile thereof of the Director-General or an authorised officer affixed thereto shall be sufficient authentication.
+(2) Where any such notice or document referred to in subsection (1)(a) requires authentication, the signature or an official facsimile of the signature of the Director-General or an authorised officer affixed to the notice or document shall be sufficient authentication.
 
-(3) Where any such notice or document referred to in subsection (1)(b) requires authentication, the signature or an official facsimile thereof of the Chief Executive, or a transport sector authorised officer, of the sector regulator affixed thereto shall be sufficient authentication.
+(3) Where any such notice or document referred to in subsection (1)(b) requires authentication, the signature or an official facsimile of the signature of the Chief Executive, or a transport sector authorised officer, of the sector regulator affixed to the notice or document shall be sufficient authentication.
 
 ### Service of documents, etc.
 
@@ -1527,7 +1501,7 @@ MISCELLANEOUS
 
 (c) in the case of a body corporate —
 
-(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager thereof;
+(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager of the limited liability partnership;
 
 (ii) by leaving it at, or by sending it by post to, the registered office or principal office of the body corporate in Singapore; or
 
@@ -1555,17 +1529,17 @@ MISCELLANEOUS
 
 70\.—(1) The contents of any document prepared, issued or served by the Agency, a sector regulator or any authorised officer or transport sector authorised officer under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct.
 
-(2) All records, registers and other documents kept by the Agency or a sector regulator or by any authorised officer or transport sector authorised officer for the purposes of this Act shall be deemed to be public documents, and copies thereof or extracts therefrom certified by an officer or employee of the Agency or sector regulator responsible for the custody thereof to be true copies or extracts, as the case may be, and subscribed by such officer or employee with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+(2) All records, registers and other documents kept by the Agency or a sector regulator or by any authorised officer or transport sector authorised officer for the purposes of this Act shall be deemed to be public documents, and copies of or extracts from such documents certified by an officer or employee of the Agency or sector regulator responsible for the custody of such documents to be true copies or extracts, as the case may be, and subscribed by such officer or employee with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts from the documents.
 
 ### Disclosure of information
 
-71\. Notwithstanding section 47 of the National Environment Agency Act (Cap. 195), section 14 of the Civil Aviation Authority of Singapore Act 2009 (Act 17 of 2009), section 41 of the Land Transport Authority of Singapore Act (Cap. 158A) and section 98 of the Maritime and Port Authority of Singapore Act (Cap. 170A) —
+71\. Notwithstanding section 47 of the National Environment Agency Act (Cap. 195), section 14 of the Civil Aviation Authority of Singapore Act (Cap. 41), section 41 of the Land Transport Authority of Singapore Act (Cap. 158A) and section 98 of the Maritime and Port Authority of Singapore Act (Cap. 170A) —
 
 (a) the Director-General, and any authorised officer with the approval of the Director-General; and
 
 (b) each of the sector regulators, and any transport sector authorised officer with the approval of the appropriate sector regulator,
 
-may furnish any information, report or document obtained in the performance of their duties or in the exercise of their functions under this Act to any of the public officers or statutory bodies set out in the First Schedule for the purpose of enabling the performance or discharge by that public officer or statutory body of his or its functions or duties.
+may furnish any information, report or document obtained in the performance of their duties or in the exercise of their functions under this Act to any of the public officers or statutory bodies set out in the Schedule for the purpose of enabling the performance or discharge by that public officer or statutory body of his or its functions or duties.
 
 ### Offences by bodies corporate, etc.
 
@@ -1619,11 +1593,11 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-74\.—(1) The Director-General or any officer of the Agency authorised by the Director-General to compound offences may, in his discretion, compound any offence under this Act (except Part IV) which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence, a sum not exceeding the lower of the following sums:
+74\.—(1) The Director-General or any officer of the Agency authorised by the Director-General to compound offences may, in his discretion, compound any offence under this Act (except Part IV) which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) a sum of $5,000.
+(b) $5,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
@@ -1635,9 +1609,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 75\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act, except that no person shall be punished twice for the same offence.
 
-### Amendment of First Schedule
+### Amendment of Schedule
 
-76\.—(1) The Minister may, from time to time, by order published in theGazette, amend, add to or vary the First Schedule.
+76\.—(1) The Minister may, from time to time, by order published in theGazette, amend, add to or vary the Schedule.
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provision as may be necessary or expedient.
 
@@ -1717,61 +1691,57 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (3) In any proceedings, a copy certified by the Director-General as a true copy of a code, standard, rule, specification or provision adopted under subsection (1) shall be evidence of the code, standard, rule, specification or provision so adopted.
 
-### Consequential and related amendments to other written laws
-
-80\.—(1) Part XA of the Environmental Protection and Management Act (Cap. 94A) is repealed.
-
-(2) The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
-
 ### Savings and transitional provisions in relation to Part III
 
-81\.—(1) Any person who, immediately before the appointed date, was a registered supplier under the repealed provisions shall be deemed to be a registered supplier under this Act.
+80\.—(1) Any person who, immediately before 1st September 20131, was a registered supplier under the repealed provisions shall be deemed to be a registered supplier under this Act.
 
-(2) Any registered goods registered under the repealed provisions immediately before the appointed date shall be deemed to be registered goods under this Act, and the registration shall expire on the date it would have expired if section 80(1) of this Act had not been enacted, unless earlier withdrawn or revoked under this Act.
+1Date of commencement of Division 1 of Part III of the Energy Conservation Act 2012 (Act 11 of 2012).
 
-(3) Any application for registration of a registered supplier or registered goods under the repealed provisions before the appointed date which application was not dealt with before that date shall be deemed to be an application for registration under the corresponding provisions of this Act.
+(2) Any registered goods registered under the repealed provisions immediately before 1st September 20131shall be deemed to be registered goods under this Act, and the registration shall expire on the date it would have expired if Part XA of the Environmental Protection and Management Act (Cap. 94A) had not been repealed, unless earlier withdrawn or revoked under this Act.
 
-(4) Where an appeal has been made to the Minister under the repealed provisions and the appeal has not been dealt with or disposed of immediately before the appointed date, the appeal may be dealt with in accordance with the repealed provisions as if this Act had not been enacted.
+(3) Any application for registration of a registered supplier or registered goods under the repealed provisions before 1st September 20131which application was not dealt with before that date shall be deemed to be an application for registration under the corresponding provisions of this Act.
 
-(5) For a period of 2 years after the appointed date, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters as he may consider necessary or expedient.
+(4) Where an appeal has been made to the Minister under the repealed provisions and the appeal has not been dealt with or disposed of immediately before 1st September 20131, the appeal may be dealt with in accordance with the repealed provisions as if those provisions had not been repealed.
 
-(6) In this section —
+(5) For a period of 2 years after 1st September 20131, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters as he may consider necessary or expedient.
 
-“appointed date” means the date of commencement of Division 1 of Part III of this Act;
+1Date of commencement of Division 1 of Part III of the Energy Conservation Act 2012 (Act 11 of 2012).
 
-“repealed provisions” means Part XA of the Environmental Protection and Management Act (Cap. 94A) repealed by section 80(1) of this Act.
+(6) In this section, “repealed provisions” means the repealed Part XA of the Environmental Protection and Management Act (Cap. 94A)2.
+
+2Part XA of the Environmental Protection and Management Act (Cap. 94A) was repealed by section 80(1) of the Energy Conservation Act 2012.
 
 ### Savings and transitional provisions in relation to Part IV
 
-82\.—(1) No registration of any class, description or type of motor vehicles as registered goods under the EPMA provisions shall be valid after 31st December 2012.
+81\.—(1) No registration of any class, description or type of motor vehicles as registered goods under the EPMA provisions shall be valid after 31st December 2012.
 
-(2) Subject to subsections (4) and (5), an authorised dealer, manufacturer or importer of motor vehicles of a class, description or type which, immediately before the FEL appointed date, were registered goods registered under the EPMA provisions, may continue to sell or offer for sale those motor vehicles on or after that date in accordance with the EPMA provisions until —
+(2) Subject to subsections (3) and (4), an authorised dealer, manufacturer or importer of motor vehicles of a class, description or type which, immediately before 1st July 20123, were registered goods registered under the EPMA provisions, may continue to sell or offer for sale those motor vehicles on or after that date in accordance with the EPMA provisions until —
 
-(a) the date on which the registration of those motor vehicles under the EPMA provisions expires (or is deemed by subsection (5) to expire), or is withdrawn or revoked under the EPMA provisions; or
+3Date of commencement of Division 1 of Part IV of the Energy Conservation Act 2012.
+
+(a) the date on which the registration of those motor vehicles under the EPMA provisions expires (or is deemed by subsection (4) to expire), or is withdrawn or revoked under the EPMA provisions; or
 
 (b) 31st December 2012,
 
 whichever occurs first, and sections 41 and 42 of this Act shall not apply until then.
 
-(3) Notwithstanding section 80(1) of this Act coming into force before 31st December 2012, subsection (2) shall continue to apply to an authorised dealer, manufacturer or importer referred to in subsection (2) as if section 80(1) of this Act had not been enacted.
+(3) Subsection (2) shall apply on the condition that the motor vehicles referred to in that subsection are sold or offered for sale bearing the label in the manner required under the EPMA provisions.
 
-(4) Subsections (2) and (3) shall apply on the condition that the motor vehicles referred to therein are sold or offered for sale bearing the label in the manner required under the EPMA provisions.
+(4) Notwithstanding subsection (2), the registration of any class, description or type of motor vehicles as registered goods under the EPMA provisions shall be deemed to expire when any type‑approval, batch type-approval or modified type-approval referred to in section 41 of this Act is obtained in respect of that class, description or type of motor vehicles.
 
-(5) Notwithstanding subsection (2) or (3), the registration of any class, description or type of motor vehicles as registered goods under the EPMA provisions shall be deemed to expire when any type-approval, batch type-approval or modified type-approval referred to in section 41 of this Act is obtained in respect of that class, description or type of motor vehicles.
+(5) For a period of 2 years after 1st July 20123, the Transport Minister may, by regulations, prescribe such other transitional, incidental and consequential matters as he may consider necessary or expedient.
 
-(6) For a period of 2 years after the FEL appointed date, the Transport Minister may, by regulations, prescribe such other transitional, incidental and consequential matters as he may consider necessary or expedient.
+3Date of commencement of Division 1 of Part IV of the Energy Conservation Act 2012 (Act 11 of 2012).
 
-(7) In this section —
+(6) In this section, “EPMA provisions” means Part XA of the Environmental Protection and Management Act (Cap. 94A) in force before 1st September 20134.
 
-“EPMA provisions” means Part XA of the Environmental Protection and Management Act (Cap. 94A) in force before the date of commencement of section 80(1) of this Act;
+4Date of commencement of section 80(1) of the Energy Conservation Act 2012.
 
-“FEL appointed date” means the date of commencement of Division 1 of Part IV of this Act.
-
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Sections 71 and 76(1)
 
-PERSONS TO WHOM INFORMATION MAY BE DISCLOSED
+Persons to whom information may be disclosed
 
 1\. The Minister charged with the responsibility for the environment and water resources, and any member, officer or employee of the Agency.
 
@@ -1783,86 +1753,23 @@ PERSONS TO WHOM INFORMATION MAY BE DISCLOSED
 
 5\. The Public Utilities Board continued under section 3 of the Public Utilities Act (Cap. 261), and any officer or employee of that Board authorised by the Chief Executive of that Board for the purposes of section 71.
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 80(2)
+Energy Conservation Act
 
-CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER WRITTEN LAWS
+(CHAPTER 92C)
 
-First column
+This Legislative History is provided for the convenience of users of the Energy Conservation Act. It is not part of the Act.
 
-Second column
-
-1.
-
-Civil Aviation Authority of Singapore Act 2009
-
-
-
-
-(Act 17 of 2009)
-
-Section 7(2)
-
-(i)
-
-Delete the word “and” at the end of paragraph (d).
-
-(ii)
-
-Delete the full-stop at the end of paragraph (e) and substitute a semi-colon, and insert immediately thereafter the following paragraphs:
-
-“(f)
-
-the promotion of energy efficiency within the airport services sector; and
-
-(g) environmental protection and the sustainable development of air transport.”.
-
-2.
-
-Land Transport Authority of Singapore Act
-
-
-
-
-(Chapter 158A, 1996 Ed.)
-
-(a)
-
-Section 6
-
-Insert, immediately after subsection (1A), the following subsection:
-
-“(1B) In performing the functions and discharging the duties imposed on it by subsections (1) and (1A), the Authority shall have regard to the promotion of energy efficiency within the land transport sector, environmental protection and the sustainable development of land transport.”.
-
-(b)
-
-Second Schedule
-
-Delete the words “the Fifth Schedule” in paragraph 18 and substitute the words “Part I of the Fifth Schedule”.
-
-3.
-
-Maritime and Port Authority of Singapore Act
-
-
-
-
-(Chapter 170A, 1997 Ed.)
-
-Section 7(2)
-
-(i)
-
-Delete the word “and” at the end of paragraph (e).
-
-(ii)
-
-Delete the full-stop at the end of paragraph (f) and substitute a semi‑colon, and insert immediately thereafter the following paragraphs:
-
-“(g)
-
-the promotion of energy efficiency within the port services and facilities sector; and
-
-(h) environmental protection and the sustainable development of sea transport.”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 11 of 2012—Energy Conservation Act 2012**|
+||Date of First Reading|8 March 2012|
+|||(Bill No. 8/2012 published on 8 March 2012)|
+||Date of Second and Third Readings|9 April 2012|
+||Date of commencement|1 July 2012 (Parts I, II, Divisions 1 and 3 of Part IV, sections 68 to 73, 75, 76, 80(2), 82, First and Second Schedule)|
+|||22 April 2013 (Division 2 and 3 of Part III, sections 64 to 67, 74, 77, 78 and 79)|
+|||1 September 2013 (Division 1 of Part III, sections 80(1) and 81)|
+|||1 January 2014 (Division 2 of Part IV)|
+|2.|**2014 Revised Edition—Energy Conservation Act (Chapter 92C)**|
+||Date of operation|31 May 2014|
