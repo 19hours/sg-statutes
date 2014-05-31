@@ -30,9 +30,9 @@
 
 (Original Enactment: Ordinance 28 of 1959)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st May 2014)
 
 An Act to incorporate the Minister for Finance and to provide for the vesting in such corporation of properties vested in the Chief Secretary.
 
@@ -46,7 +46,7 @@ An Act to incorporate the Minister for Finance and to provide for the vesting in
 
 2\.—(1) The Minister for the time being charged with the responsibility for finance shall be a body corporate under the name of “Minister for Finance” (referred to in this Act as the Corporation).
 
-(2) The Corporation may sue and be sued in its said name and shall have perpetual succession and a corporate seal, and the said seal may from time to time be broken, changed, altered and made anew as to the Corporation seems fit and until a seal is provided under this section, a stamp bearing the inscription “Minister for Finance” may be used as the corporate seal.
+(2) The Corporation may sue and be sued in its name and shall have perpetual succession and a corporate seal, and that seal may from time to time be broken, changed, altered and made anew as to the Corporation seems fit and until a seal is provided under this section, a stamp bearing the inscription “Minister for Finance” may be used as the corporate seal.
 
 ### Powers
 
@@ -54,21 +54,25 @@ An Act to incorporate the Minister for Finance and to provide for the vesting in
 
 ### Execution of documents
 
-4\.—(1) All deeds, documents or other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Minister for the time being charged with the responsibility for finance, who shall sign every such deed, document or other instrument to which the corporate seal is affixed, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Corporation.
+4\.—(1) All deeds, documents or other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Minister for the time being charged with the responsibility for finance, and the Minister shall sign every such deed, document or other instrument to which the corporate seal is affixed, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Corporation.
 
-(2) Section 12 of the Registration of Deeds Act [Cap. 269] shall not apply to any instrument purporting to be executed under subsection (1).
+(2) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to be executed under subsection (1).
 
 ### Vesting of property
 
-5\.—(1) All property, movable and immovable, which immediately before the commencement of this Act was vested in the Chief Secretary, Colony of Singapore, under the provisions of the Chief Secretary Incorporation Ordinance [1955 Ed. Cap. 54], shall, on the commencement of this Act and without any conveyance, assignment or transfer whatever, vest in the Corporation for the like title, estate or interest and on the like tenure and for the like purposes as the same was vested or held immediately before the commencement of this Act.
+5\.—(1) All property, movable and immovable, which immediately before 3rd June 19591was vested in the Chief Secretary, Colony of Singapore, under the provisions of the Chief Secretary Incorporation Ordinance (Cap. 54, 1955 Ed.) shall, on 3rd June 19591and without any conveyance, assignment or transfer whatever, vest in the Corporation for the like title, estate or interest and on the like tenure and for the like purposes as the same was vested or held immediately before 3rd June 19591.
 
-(2) The President may, by order, vest in the Corporation any property, movable or immovable, which is for the time being vested in any public officer or authority and upon the coming into operation of any such order, the property to which the order relates shall, without any conveyance, assignment or transfer whatever, vest in the Corporation for the like title, estate or interest and on the like tenure and for the like purposes as the same was vested or held immediately before the coming into operation of the order.
+1Date of commencement of the Financial Secretary (Incorporation) Ordinance 1959 (Ordinance 28 of 1959).
+
+(2) The President may, by order, vest in the Corporation any property, movable or immovable, which is for the time being vested in any public officer or authority, and upon the coming into operation of any such order, the property to which the order relates shall, without any conveyance, assignment or transfer whatever, vest in the Corporation for the like title, estate or interest and on the like tenure and for the like purposes as the same was vested or held immediately before the coming into operation of the order.
 
 (3) The President may, by order, vest in any public officer or authority any property, movable or immovable, for the time being vested in the Corporation and upon the coming into operation of any such order, the property to which the order relates shall, without any conveyance, assignment or transfer whatever vest in such officer or authority for the like title, estate or interest and on the like tenure and for the like purposes as the same was vested or held immediately before the coming into operation of the order.
 
 ### Vesting of rights and liabilities of Chief Secretary
 
-6\. All rights and liabilities which were, immediately before the commencement of this Act, vested in or imposed on the Chief Secretary, Colony of Singapore, by virtue of the Chief Secretary Incorporation Ordinance [1955 Ed. Cap. 54] or otherwise shall, on the commencement of this Act, be vested in or imposed on the Corporation.
+6\. All rights and liabilities which were, immediately before 3rd June 19592, vested in or imposed on the Chief Secretary, Colony of Singapore, by virtue of the Chief Secretary Incorporation Ordinance (Cap. 54, 1955 Ed.) or otherwise shall, on 3rd June 19592, be vested in or imposed on the Corporation.
+
+2Date of commencement of the Financial Secretary (Incorporation) Ordinance 1959 (Ordinance 28 of 1959).
 
 ### Notification to be conclusive evidence
 
@@ -84,7 +88,7 @@ Minister for Finance (Incorporation) Act
 
 (CHAPTER 183)
 
-This Legislative History is provided for the convenience of users of the Minister for Finance (Incorporation) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Minister for Finance (Incorporation) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -100,3 +104,5 @@ This Legislative History is provided for the convenience of users of the Ministe
 ||Date of operation|1 April 1971|
 |5.|**1985 Revised Edition—Minister for Finance (Incorporation) Act (Chapter 183)**|
 ||Date of operation|30 March 1987|
+|6.|**2014 Revised Edition—Minister for Finance (Incorporation) Act (Chapter 183)**|
+||Date of operation|31 May 2014|
