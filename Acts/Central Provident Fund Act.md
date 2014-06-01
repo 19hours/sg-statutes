@@ -422,6 +422,10 @@ PRELIMINARY
 
 “relevant individual” means such individual as the Minister may prescribe by regulations made under section 77(1) for the purposes of section 18(1)(a), (2)(a) and (3)(a), and the Minister may prescribe different individuals in different regulations for different purposes;
 
+“reserved amount”, in relation to a member, means such reserved amount referred to in section 15(2A)(c), (6)(c), (7B)(c) or (8A)(c) as may be applicable to the member;
+
+[Act 24 of 2013 wef 01/06/2014]
+
 “retirement account” means a retirement account maintained —
 
 (a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) and Part IIIB; and
@@ -1310,15 +1314,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund; and
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
 
 (b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund.
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
 
-[20/2011; 23/2012]
+(c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in that account.
+
+[Act 24 of 2013 wef 01/06/2014]
 
 (2B) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (2A)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -1342,19 +1352,29 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
 
-(a) such minimum sum applicable to the member as may be prescribed shall be set aside or topped-up —
+(a) such minimum sum applicable to the member as may be prescribed shall be set aside or topped‑up —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund; and
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
 
 (b) unless the Board otherwise allows, such amount as may be specified under subsection (6D) shall be set aside or topped-up in the member’s medisave account —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund after deducting any sum standing to the member’s credit in his retirement account.
+(ii) from the sum standing to the member’s credit in the Fund, after excluding —
 
-[20/2011; 23/2012]
+(A) any reserved amount standing to the member’s credit in his ordinary account; and
+
+(B) any sum standing to the member’s credit in his retirement account; and
+
+(c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in that account.
+
+[Act 24 of 2013 wef 01/06/2014]
 
 (6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on a joint application made by them before 1st January 2013, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
 
@@ -1442,15 +1462,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund; and
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
 
 (b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund.
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
 
-[20/2011; 23/2012]
+(c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in that account.
+
+[Act 24 of 2013 wef 01/06/2014]
 
 (7C) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (7B)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -1484,15 +1510,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund; and
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
 
 (b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund.
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
 
-[20/2011; 23/2012]
+(c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in that account.
+
+[Act 24 of 2013 wef 01/06/2014]
 
 (8B) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (8A)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -5582,6 +5614,10 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (ii) the purposes for which any moneys transferred to or paid into a special account under section 18(3) may be applied, the amount which may be applied for each such purpose, and the manner in which any such amount may be withdrawn;
 
+(ob) to provide for the reserved amount to be set aside or topped-up in an ordinary account;
+
+[Act 24 of 2013 wef 01/06/2014]
+
 (p) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
 
 (q) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
@@ -8341,6 +8377,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|21 October 2013 (Bill No. 20/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|1 January 2014 (Section 3, 5(b), (c), (e), (f), (h), (i), (k), (l) and (m), 6, 8, 9, 10, 14, 16 to 19 and 21)|
+|191.|**Act 24 of 2013—Central Provident Fund (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013 (Bill No. 20/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 June 2014 (Sections 2, 5(a) and (d), (g), (j) and 20(d))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
