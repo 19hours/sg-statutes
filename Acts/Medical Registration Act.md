@@ -226,7 +226,7 @@
 
 - [75 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE SINGAPORE degree**](#FIRST-SCHEDULE-SINGAPORE-degree)
+[**FIRST SCHEDULE Singapore degree**](#FIRST-SCHEDULE-Singapore-degree)
 
 [**SECOND SCHEDULE List of registrable basic medical qualifications**](#SECOND-SCHEDULE-List-of-registrable-basic-medical-qualifications)
 
@@ -344,9 +344,13 @@ MEDICAL COUNCIL
 
 (c) 12 registered medical practitioners resident in Singapore to be elected by the fully registered medical practitioners resident in Singapore; and
 
+[1/2010 wef 10/08/2010]
+
 (d) 8 registered medical practitioners resident in Singapore to be appointed by the Minister.
 
 [46/2002]
+
+[1/2010 wef 10/08/2010]
 
 (2) The members referred to in subsection (1)(b), (c) and (d) shall hold office for a period of 3 years and shall be eligible for reappointment or re-election.
 
@@ -372,7 +376,9 @@ MEDICAL COUNCIL
 
 (e) to make recommendations to the appropriate authorities for the training and education of registered medical practitioners;
 
-(f) to determine and regulate the conduct and ethics of registered medical practitioners; and
+(f) to determine and regulate the conduct and ethics of registered medical practitioners;
+
+[1/2010 wef 01/12/2010]
 
 (fa) to determine and regulate standards of practice and the competence of registered medical practitioners within the medical profession;
 
@@ -409,6 +415,8 @@ MEDICAL COUNCIL
 (a) if he is not a citizen or a permanent resident of Singapore;
 
 (b) if he is not a registered medical practitioner with at least 10 years’ experience in the practice of medicine;
+
+[1/2010 wef 01/12/2010]
 
 (c) if he is an undischarged bankrupt;
 
@@ -480,13 +488,13 @@ MEDICAL COUNCIL
 
 (2) The quorum at every meeting of the Medical Council shall be one-third of the total number of members in office or 7 members, whichever is the higher.
 
-[46/2002]
-
 [Act 2/2012 wef 01/03/2012]
 
 (3) The chairman at any meeting of the Medical Council shall have an original vote and, in the case of an equality of votes, a casting vote.
 
 (4) There shall be paid to the members of the Medical Council and members of any committee appointed by the Medical Council, or their respective employers, such fees as may, from time to time, be approved by the Minister.
+
+[1/2010 wef 01/12/2010]
 
 (5) The Medical Council may make rules for the conduct of its business.
 
@@ -676,6 +684,8 @@ shall, if the Medical Council thinks fit so to direct, be registered as a fully 
 
 (a) holds a degree from a university specified in the Second Schedule or any other qualification which is, in the opinion of the Medical Council, not lower in standing than a degree specified in the Second Schedule;
 
+[1/2010 wef 01/12/2010]
+
 (b) has been selected for employment in Singapore as a medical practitioner in hospitals or other institutions or medical practice approved by the Medical Council;
 
 (c) satisfies the Medical Council that he has the knowledge and skill and has acquired the experience which is necessary for practice as a medical practitioner;
@@ -690,6 +700,8 @@ shall, if the Medical Council thinks fit so to direct and subject to such condit
 
 [46/2002]
 
+[1/2010 wef 01/12/2010]
+
 (2) Subject to the provisions of this Act, any person who holds —
 
 (a) a Singapore degree; and
@@ -700,7 +712,11 @@ shall be entitled to be registered as a medical practitioner with conditional re
 
 [46/2002]
 
+[1/2010 wef 01/12/2010]
+
 (3) The Medical Council may require a person with a degree, other than a degree specified in the Second Schedule, to undergo and pass an examination conducted or arranged by the Medical Council or by such other person or persons as the Medical Council may appoint to satisfy itself that the degree is not lower in standing than a degree specified in the Second Schedule.
+
+[1/2010 wef 01/12/2010]
 
 (4) Every direction by virtue of which a person is registered under this section shall specify the conditions or restrictions of his registration and may further specify one or more of the following:
 
@@ -718,7 +734,11 @@ shall be entitled to be registered as a medical practitioner with conditional re
 
 (a) the medical practitioner fails to comply with any of the conditions or restrictions specified in the direction by virtue of which he is registered; or
 
+[1/2010 wef 01/12/2010]
+
 (b) the Medical Council is of the opinion, having regard to any report of one or more fully registered medical practitioners supervising him and any reviews of the medical practitioners or healthcare professionals referred to in subsection (4)(b), if any, that he is unable to perform the duties of a medical practitioner satisfactorily.
+
+[1/2010 wef 01/12/2010]
 
 (7) A person who is or has been registered with conditional registration may —
 
@@ -733,6 +753,8 @@ apply to the Medical Council to be registered as a fully registered medical prac
 (8) If the Medical Council thinks fit so to direct, having regard to the knowledge and skill shown and the experience acquired by the applicant referred to in subsection (7), he shall be registered under section 20 as a fully registered medical practitioner.
 
 (9) On a medical practitioner with conditional registration becoming registered otherwise than conditionally, his name shall be removed from Part II of the Register of Medical Practitioners.
+
+[1/2010 wef 01/12/2010]
 
 ### Registration of specialists
 
@@ -954,8 +976,6 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (3) The Credentials Committee may interview the applicants and make such enquiries or do anything which the Committee may think necessary or expedient for discharging its functions under this Act.
 
-[30
-
 (4) Without prejudice to the generality of subsection (3), the Credentials Committee may, by notice in writing, require an applicant —
 
 (a) to furnish such further information, documents or particulars as the Credentials Committee may require within the time specified in the notice; or
@@ -971,6 +991,8 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 (6) Any applicant who fails to comply with a requirement under subsection (4) within the time stated in the notice shall be deemed to have withdrawn his application.
 
 [1/2010 wef 01/12/2010]
+
+[30
 
 ### Publication of list of registered medical practitioners with practising certificates
 
@@ -993,6 +1015,8 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 (e) remove from a register the name of any person who is deceased;
 
 (f) remove from a register the name of any person who has not renewed his practising certificate for a continuous period of not less than 2 years, and who cannot be contacted or sent any document using his particulars in the register; and
+
+[1/2010 wef 01/12/2010]
 
 (g) remove from a register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless an inquiry has or proceedings have commenced under Part VII against that person.
 
@@ -1104,6 +1128,8 @@ SPECIALISTS ACCREDITATION BOARD
 
 (d) to grant to persons who have the qualifications or experience and who meet the conditions for registration as specialists under this Act certificates to that effect;
 
+[1/2010 wef 01/12/2010]
+
 (e) to recommend to the Medical Council programmes for the continuing medical education of persons who are registered as specialists under this Act; and
 
 (f) to advise the Medical Council on matters affecting or connected with the registration of specialists under this Act.
@@ -1117,6 +1143,8 @@ SPECIALISTS ACCREDITATION BOARD
 [1/2010 wef 01/12/2010]
 
 (2) Any person who desires to have a certificate from the Board to certify that he has the qualifications or experience and who meet the conditions for registration as specialists under this Act may apply to the Board.
+
+[1/2010 wef 01/12/2010]
 
 (3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of the refusal, appeal to the Minister whose decision shall be final.
 
@@ -1148,6 +1176,8 @@ FAMILY PHYSICIANS ACCREDITATION BOARD
 
 (10) The Board may appoint one or more committees consisting of such members as it thinks fit to assist the Board in carrying out its functions under this Act.
 
+[1/2010 wef 01/12/2010]
+
 ### Functions of Family Physicians Accreditation Board
 
 35B\.—(1) The functions of the Board shall be —
@@ -1167,6 +1197,8 @@ FAMILY PHYSICIANS ACCREDITATION BOARD
 (2) Any person who desires to have a certificate from the Board to certify that he has the qualifications or experience and meets the conditions for registration as a family physician under this Act may apply to the Board.
 
 (3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of refusal, appeal to the Minister whose decision shall be final.
+
+[1/2010 wef 01/12/2010]
 
 ## PART VI
 
@@ -1207,6 +1239,8 @@ if the registered medical practitioner fails to comply with any condition that i
 ### Cancellation of practising certificates
 
 37\. Where a registered medical practitioner has had his name removed from a register (other than the Register of Specialists or the Register of Family Physicians) under this Act or his registration suspended, any practising certificate issued to him shall be deemed to be cancelled and the registered medical practitioner shall immediately surrender the practising certificate to the Medical Council.
+
+[1/2010 wef 01/12/2010]
 
 ## PART VII
 
@@ -2014,6 +2048,8 @@ GENERAL
 
 (3) The costs and expenses of and incidental to the performance of the functions of the Medical Council, the Complaints Committees, the Disciplinary Tribunals, the Health Committee and any other committee appointed by the Medical Council under this Act shall be paid by the Medical Council out of its funds.
 
+[1/2010 wef 01/12/2010]
+
 (4) The Minister may pay into the funds of the Medical Council such sum of money out of moneys to be provided by Parliament as the Minister may determine.
 
 (4A) The Medical Council may invest moneys belonging to its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
@@ -2080,9 +2116,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [46/2002]
 
+[1/2010 wef 01/12/2010]
+
 (2) Any assessor appointed under this section shall not participate or sit in any deliberations of the Medical Council or any Complaints Committee, Disciplinary Tribunal, Health Committee or Interim Orders Committee unless invited to do so, and his participation shall be limited only to questions of law arising from the proceedings.
 
 [46/2002]
+
+[1/2010 wef 01/12/2010]
 
 (3) The Medical Council may pay to persons appointed to act as assessors such remuneration, to be paid as part of the expenses of the Medical Council, as the Medical Council may determine.
 
@@ -2138,6 +2178,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [46/2002]
 
+[1/2010 wef 01/07/2010]
+
 (1A) A registered medical practitioner who is not registered under section 22A as a family physician shall not —
 
 (a) practise under any name, title, addition or description implying that he is registered under that section as a family physician or has any degree, qualification or experience that could make him eligible for such registration; or
@@ -2151,6 +2193,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [54A
 
 [46/2002]
+
+[1/2010 wef 01/07/2010]
 
 ### Exemption
 
@@ -2194,6 +2238,8 @@ whichever is the lower.
 
 [57
 
+[1/2010 wef 01/12/2010]
+
 ### Power to amend, vary, rescind, revoke or suspend condition or restriction
 
 68A\. For the avoidance of doubt, the power of the Medical Council to impose a condition or restriction under Parts IV, V and VA includes, unless the contrary intention appears, the power to amend, vary, rescind, revoke or suspend such condition or restriction.
@@ -2224,6 +2270,8 @@ whichever is the lower.
 
 (e) enabling a Disciplinary Tribunal, the Health Committee and an Interim Orders Committee to order and give discovery and inspection of documents for the purpose of any proceedings before them;
 
+[1/2010 wef 01/12/2010]
+
 (f) regulating the professional practice, etiquette, conduct and discipline of registered medical practitioners;
 
 (g) prescribing the forms necessary for the administration of this Act;
@@ -2249,6 +2297,8 @@ whichever is the lower.
 71\. The Minister may, after consultation with the Medical Council, by order amend the First or Second Schedule.
 
 [59
+
+[1/2010 wef 01/12/2010]
 
 ## PART IX
 
@@ -2318,19 +2368,33 @@ FIRST SCHEDULE
 
 Sections 2, 20(1A) and 71
 
-SINGAPORE degree
+Singapore degree
 
-1\. Licentiate in medicine and surgery of the King Edward VII College of Medicine, Singapore.
+1. 
 
-2\. Degree in medicine and surgery of the University of Malaya in Singapore.
+Licentiate in medicine and surgery of the King Edward VII College of Medicine, Singapore.
 
-3\. Degree in medicine and surgery of the University of Singapore.
+2. 
 
-4\. Degree in medicine and surgery of the Yong Loo Lin School of Medicine (formerly known as the Faculty of Medicine), National University of Singapore.
+Degree in medicine and surgery of the University of Malaya in Singapore.
 
-5. Doctor of Medicine of the Duke-NUS Graduate Medical School Singapore.
+3. 
 
-[1/2010 wef 01/12/2010]
+Degree in medicine and surgery of the University of Singapore.
+
+4. 
+
+Degree in medicine and surgery of the Yong Loo Lin School of Medicine (formerly known as the Faculty of Medicine), National University of Singapore.
+
+5. 
+
+Doctor of Medicine of the Duke-NUS Graduate Medical School Singapore.
+
+6. 
+
+Degree in medicine and surgery of the Lee Kong Chian School of Medicine, Nanyang Technological University — Imperial College London.
+
+[S 404/2014 wef 02/06/2014]
 
 SECOND SCHEDULE
 
@@ -2362,13 +2426,13 @@ MB BS
 
 School of Medicine, Faculty of Health Sciences, The Flinders University of South Australia
 
-MB BS
+MB BS, MD
 
 3.
 
 Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne
 
-MB BS, Doctor of Medicine
+MB BS, MD
 
 4.
 
@@ -2386,7 +2450,7 @@ BMed
 
 Faculty of Medicine, University of New South Wales
 
-MB BS
+MB BS, BMed MD
 
 7.
 
@@ -2398,7 +2462,7 @@ MB BS
 
 Faculty of Medicine, University of Sydney
 
-MB BS
+MB BS, MD
 
 9.
 
@@ -2410,7 +2474,7 @@ MB BS
 
 Faculty of Medicine and Dentistry, University of Western Australia
 
-MB BS
+MB BS, MD
 
 11.
 
@@ -2600,12 +2664,7 @@ India
 
 1.
 
-All-India Institute of Medical
-
-
-
-
-Sciences
+All‑India Institute of Medical Sciences, New Delhi
 
 MB BS
 
@@ -2622,21 +2681,15 @@ MB BS
 
 3.
 
-Armed Forces Medical College (AFMC), Maharashtra University of Health Sciences
+Armed Forces Medical College (AFMC), Pune
 
 MB BS
 
 4.
 
-Deleted by S 521/2009, wef 30/10/2009.
+[Deleted by S 521/2009 wef 30/10/2009]
 
 5.
-
-Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Pondicherry University
-
-MB BS
-
-5A.
 
 Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Puducherry
 
@@ -2644,25 +2697,25 @@ MB BS
 
 6.
 
-Lady Hardinge Medical College (New Delhi), University of Delhi
+Lady Hardinge Medical College, New Delhi
 
 MB BS
 
 7.
 
-Grant Medical College (Mumbai), Maharashtra University of Health Sciences
+Grant Medical College, Mumbai
 
 MB BS
 
 8.
 
-St. John’s Medical College (Bangalore), Rajiv Gandhi University of Health Sciences
+St. John’s Medical College, Bangalore
 
 MB BS
 
 9.
 
-Madras Medical College (Chennai), Tamil Nadu Dr.M.G.R. Medical University
+Madras Medical College, Chennai
 
 MB BS
 
@@ -2722,7 +2775,7 @@ Laurea in Medicina e Chirurgia
 
 2.
 
-Facoltà di Medicina e Chirurgia , Università degli Studi di Firenze
+Facoltà di Medicina e Chirurgia, Università degli Studi di Firenze
 
 Laurea in Medicina e Chirurgia
 
@@ -2912,12 +2965,12 @@ Eui-haksa
 
 3.
 
-College of Medicine
+College of Medicine (Seoul),
 
 
 
 
-(Seoul), Korea University
+Korea University
 
 Eui-haksa
 
@@ -3012,7 +3065,7 @@ Doctor of Medicine
 
 College of Medicine (Taoyuan), Chang Gung University
 
-Bachelor of Medicine
+Doctor of Medicine
 
 United
 
@@ -3407,13 +3460,21 @@ Doctor of Medicine
 
 38.
 
-Warren Alpert Medical School of Brown University – formerly known as Brown Medical School
+Warren Alpert Medical School of Brown University — formerly known as Brown Medical School
 
 Doctor of Medicine
+
+[S 404/2014 wef 02/06/2014]
 
 [S 455/2012 wef 15/09/2012]
 
 [S 521/2009 wef 30/10/2009]
+
+[1/2010 wef 01/12/2010]
+
+[S 455/2012 wef 01/11/2010]
+
+[S 183/2009 wef 29/04/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -3421,7 +3482,7 @@ Medical Registration Act
 
 (CHAPTER 174)
 
-This Legislative History is provided for the convenience of users of the Medical Registration Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Medical Registration Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3482,6 +3543,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|1 March 2012|
 |18.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
 ||Date of commencement|15 September 2012|
+|19.|**G. N. No. S 404/2014—Medical Registration Act (Amendment of First and Second Schedules) Order 2014**|
+||Date of commencement|2 June 2014|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
@@ -3510,7 +3573,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 —
 
-(3) [Deleted by Act 46/2002]
+(3) (Deleted by Act 46/2002)
 
 (4), (5) and (6)
 
@@ -3526,7 +3589,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 —
 
-25 (Repealed by Act 46/2002) 
+25 (Repealed by Act 46/2002)
 
 25 
 
@@ -3572,9 +3635,9 @@ Omitted — Spent
 
 39 
 
-39 — (1)
+39 —(1)
 
-40 — (1)
+40 —(1)
 
 (2)
 
@@ -3852,11 +3915,15 @@ Omitted — Spent
 
 62 
 
-74 (Taken from section 32 of Medical Registration (Amendment) Act 2002 (Act 46/2002)
+74 
+
+(Taken from section 32 of Medical Registration (Amendment) Act 2002 (Act 46/2002)
 
 —
 
-75 (Taken from section 33 of Medical Registration (Amendment) Act 2002 (Act 46/2002)
+75 
+
+(Taken from section 33 of Medical Registration (Amendment) Act 2002 (Act 46/2002)
 
 —
 
