@@ -2012,13 +2012,15 @@ Infectious Diseases
 
 19\. Meningococcal Disease.
 
+19A. Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+
+[S 395/2014 wef 05/06/2014]
+
 20\. Mumps.
 
 21\. Nipah Virus Infection.
 
-21A. Novel Coronavirus Infection.
-
-[S 183/2013 wef 02/04/2013]
+21A\. [Deleted by S 395/2014 wef 05/06/2014]
 
 22\. Paratyphoid.
 
@@ -2048,7 +2050,7 @@ Infectious Diseases
 
 (e) Syphilis.
 
-30A. [Deleted by S 618/2010 wef 01/11/2010 wef 01/11/2010, wef 01/11/2010.]
+30A\. [Deleted by S 618/2010 wef 01/11/2010, wef 01/11/2010.]
 
 31\. Typhoid.
 
@@ -2113,11 +2115,11 @@ Diseases in Respect of Which Acts Referred to in Section 21a Are Prohibited
 
 [S 176/2009 wef 28/04/2009]
 
-2\. Novel Coronavirus Infection.
+2\. Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
 
 2. 
 
-[S 298/2013 wef 14/05/2013]
+[S 395/2014 wef 05/06/2014]
 
 SIXTH SCHEDULE
 
@@ -2127,9 +2129,11 @@ Diseases in Respect of Which Information May be Disclosed by the Director to A P
 
 1. 
 
-Novel Coronavirus Infection.
+Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
 
-[S 183/2013 wef 02/04/2013]
+1. 
+
+[S 395/2014 wef 05/06/2014]
 
 2. 
 
@@ -2275,6 +2279,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|2 April 2013|
 |35.|**G.N. No. S 298/2013—Infectious Diseases Act (Amendment of Fifth and Sixth Schedules) Notification 2013**|
 ||Date of commencement|14 May 2013|
+|36.|**G.N. No. S 395/2014—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2014**|
+||Date of commencement|5 June 2014|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
