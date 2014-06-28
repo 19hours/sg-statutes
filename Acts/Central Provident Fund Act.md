@@ -1814,9 +1814,13 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (3) The Board may, subject to any regulations made under section 77(1)(oa) and such terms and conditions as it may impose, permit —
 
-(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of a relevant individual, if the relevant individual has not attained the age of 55 years; or
+(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of a relevant individual, if the Board has not transferred under section 15(6CA) any amount from the sum standing to the credit of the relevant individual in the Fund to the relevant individual’s retirement account; or
 
-(b) any person to pay money into the special account of a member who has not attained the age of 55 years.
+[Act 24 of 2013 wef 28/06/2014]
+
+(b) any person to pay money into the special account of a member, if the Board has not transferred under section 15(6CA) any amount from the sum standing to the credit of the member in the Fund to the member’s retirement account.
+
+[Act 24 of 2013 wef 28/06/2014]
 
 [40/2007; 25/2008; 18/2009; 23/2012]
 
@@ -1824,33 +1828,29 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) the moneys so transferred; and
 
-(b) any interest that would have accrued thereto,
+(b) the whole or such part as the Board may determine of any interest that would have accrued thereon,
 
-shall be transferred by the Board to the member’s retirement account when the member attains the age of 55 years.
+shall be transferred by the Board to the member’s retirement account at the relevant time.
 
-[25/2008; 18/2009; 23/2012]
+[Act 24 of 2013 wef 28/06/2014]
 
 (5) Subject to subsection (6) —
 
 (a) any moneys paid by any person into a member’s special account under subsection (3)(b); and
 
-(b) any interest that would have accrued thereto,
+(b) the whole or such part as the Board may determine of any interest that would have accrued thereon,
 
-shall be transferred by the Board to the member’s retirement account when the member attains the age of 55 years.
+shall be transferred by the Board to the member’s retirement account at the relevant time.
 
-[25/2008]
+[Act 24 of 2013 wef 28/06/2014]
 
-(6) Where, when a member attains the age of 55 years, the total amount of the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) exceeds the minimum sum applicable to the member —
+(6) Where, at the relevant time, the total amount of the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) exceeds the minimum sum applicable to a member —
 
 (a) the total amount to be transferred by the Board to the member’s retirement account under subsections (4) and (5) shall not exceed the minimum sum applicable to the member; and
 
-(b) the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to the member’s retirement account in the following order of priority:
+(b) the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to the member’s retirement account in such order of priority as may be prescribed in any regulations made under section 77(1)(oa).
 
-(i) the moneys and interest referred to in subsection (4)(a) and (b); and
-
-(ii) the moneys and interest referred to in subsection (5)(a) and (b).
-
-[25/2008]
+[Act 24 of 2013 wef 28/06/2014]
 
 (7) All moneys transferred to or paid into a special account under subsection (3) shall be applied in accordance with any regulations made under section 77(1)(oa) and such terms and conditions as the Board may impose.
 
@@ -1859,6 +1859,10 @@ shall be transferred by the Board to the member’s retirement account when the 
 (8) Any moneys transferred under subsection (1)(a), (2)(a) or (3)(a), paid under subsection (1)(b), (2)(b) or (3)(b) or maintained under subsection (1)(c) shall be deemed to be contributions for the purposes of this Act.
 
 [25/2008]
+
+(9) In this section, “relevant time”, in relation to a member, means such time as may be prescribed in relation to the member in any regulations made under section 77(1).
+
+[Act 24 of 2013 wef 28/06/2014]
 
 ### Transfer of member’s moneys in ordinary account or special account to retirement account
 
@@ -5608,11 +5612,19 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (v) provide for the payment into a member’s account in the Fund of any payment to the Board that is secured under section 15(9), (9A), (10), (10A), (11D) or (11E), 27C(1) or (2), 27D(1) or (2) or 27DA(1) or (2);
 
-(oa) for the purposes of section 18(3) and (7) and, in particular, to prescribe —
+(oa) for the purposes of section 18(3), (6)(b) and (7) and, in particular, to prescribe —
 
-(i) the method of computing the amount of moneys which may be transferred to or paid into a special account under section 18(3); and
+(i) the method of computing the amount of moneys which may be transferred to or paid into a special account under section 18(3);
+
+[Act 24 of 2013 wef 28/06/2014]
+
+(ia) the order of priority in which the moneys and interest referred to in section 18(4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to a member’s retirement account; and
+
+[Act 24 of 2013 wef 28/06/2014]
 
 (ii) the purposes for which any moneys transferred to or paid into a special account under section 18(3) may be applied, the amount which may be applied for each such purpose, and the manner in which any such amount may be withdrawn;
+
+[Act 24 of 2013 wef 28/06/2014]
 
 (ob) to provide for the reserved amount to be set aside or topped-up in an ordinary account;
 
@@ -8381,6 +8393,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|21 October 2013 (Bill No. 20/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|1 June 2014 (Sections 2, 5(a) and (d), (g), (j) and 20(d))|
+|192.|**Act 24 of 2013—Central Provident Fund (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 20/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|28 June 2014 (Sections 7, 20(a), (b), (c))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
