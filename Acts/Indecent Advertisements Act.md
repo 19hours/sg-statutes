@@ -16,7 +16,7 @@
 
 - [5 Indecent or obscene pictures or printed or written matter](#Indecent-or-obscene-pictures-or-printed-or-written-matter)
 
-- [6 Persons sending others to do the acts punishable under section 5](#Persons-sending-others-to-do-the-acts-punishable-under-section-5)
+- [6 Persons sending others to do acts punishable under section 5](#Persons-sending-others-to-do-acts-punishable-under-section-5)
 
 - [7 Advertisements as to syphilis, etc., declared indecent](#Advertisements-as-to-syphilis-etc-declared-indecent)
 
@@ -30,9 +30,9 @@
 
 (Original Enactment: Ordinance 43 of 1941)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(30th June 2014)
 
 An Act to suppress indecent advertisements and advertisements relating to the treatment of venereal disease.
 
@@ -48,7 +48,7 @@ An Act to suppress indecent advertisements and advertisements relating to the tr
 
 ### Restriction on advertisements
 
-3\.—(1) A person shall not by any advertisement or any public notice or announcement treat or offer to treat any person for venereal disease, or prescribe or offer to prescribe any remedy therefor, or offer to give or give any advice in connection with the treatment thereof.
+3\.—(1) A person shall not by any advertisement or any public notice or announcement treat or offer to treat any person for venereal disease, or prescribe or offer to prescribe any remedy for venereal disease, or offer to give or give any advice in connection with the treatment of venereal disease.
 
 (2) A person shall not hold out or recommend to the public by any notice or advertisement, or by any written or printed papers or handbills, or by any label or words written or printed, affixed to or delivered with, any packet, box, bottle, phial or other enclosure containing the same, any pills, capsules, powders, lozenges, tinctures, potions, cordials, electuaries, plasters, unguents, salves, ointments, drops, lotions, oils, spirits, medicated herbs and waters, chemical and officinal preparations whatsoever, to be used or applied externally or internally as medicines or medicaments for the prevention, cure or relief of any venereal disease.
 
@@ -60,15 +60,15 @@ An Act to suppress indecent advertisements and advertisements relating to the tr
 
 ### Indecent or obscene pictures or printed or written matter
 
-5\. Whoever affixes to or inscribes on any house, building, wall, hoarding, gate, fence, pillar, post, board, tree or any other thing whatsoever, so as to be visible to a person being in or passing along any public place, or public road, or footpath, and whoever affixes to or inscribes on any public urinal, or delivers or attempts to deliver, or exhibits, to any inhabitant or to any person being in or passing along any public place, or public road, or footpath, or exhibits to public view in the window of any house or shop, any picture or printed or written matter which is of an indecent or obscene nature, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month or to both.
+5\. Any person who affixes to or inscribes on any house, building, wall, hoarding, gate, fence, pillar, post, board, tree or any other thing, so as to be visible to a person being in or passing along any public place, public road or footpath, and any person who affixes to or inscribes on any public urinal, or delivers or attempts to deliver, or exhibits, to any inhabitant or to any person being in or passing along any public place, public road or footpath, or exhibits to public view in the window of any house or shop, any picture or printed or written matter which is of an indecent or obscene nature, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month or to both.
 
-### Persons sending others to do the acts punishable under section 5
+### Persons sending others to do acts punishable under section 5
 
-6\. Whoever gives or delivers to any other person any such pictures, or printed or written matter mentioned in section 5 with the intent that the same, or some one or more thereof, should be affixed, inscribed, delivered or exhibited as therein mentioned, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 3 months or to both.
+6\. Any person who gives or delivers to any other person any such pictures, or printed or written matter mentioned in section 5 with the intent that the same, or some one or more of the same, should be affixed, inscribed, delivered or exhibited as mentioned in section 5, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Advertisements as to syphilis, etc., declared indecent
 
-7\.—(1) Any advertisement relating to venereal disease, nervous debility, or other complaint or infirmity arising from or relating to sexual intercourse, and any advertisement claiming for any preparation aphrodisiac properties, shall be deemed to be printed or written matter of an indecent nature within the meaning of section 5, if such advertisement is published to the public by any means or is affixed to or inscribed on any house, building, wall, hoarding, gate, fence, pillar, post, board, tree or other thing whatsoever, so as to be visible to a person being in or passing along any public place, public road or footpath, or is affixed to or inscribed on any public urinal, or is delivered or attempted to be delivered to any person being in or passing along any public place, public road or footpath.
+7\.—(1) Any advertisement relating to venereal disease, nervous debility, or other complaint or infirmity arising from or relating to sexual intercourse, and any advertisement claiming for any preparation aphrodisiac properties, shall be deemed to be printed or written matter of an indecent nature within the meaning of section 5, if such advertisement is published to the public by any means or is affixed to or inscribed on any house, building, wall, hoarding, gate, fence, pillar, post, board, tree or any other thing, so as to be visible to a person being in or passing along any public place, public road or footpath, or is affixed to or inscribed on any public urinal, or is delivered or attempted to be delivered to any person being in or passing along any public place, public road or footpath.
 
 (2) Nothing in this section shall apply to any advertisement relating to venereal disease published by or with the authority of the Government or by any local or public authority.
 
@@ -82,7 +82,7 @@ Indecent Advertisements Act
 
 (CHAPTER 135)
 
-This Legislative History is provided for the convenience of users of the Indecent Advertisements Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Indecent Advertisements Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -102,3 +102,5 @@ This Legislative History is provided for the convenience of users of the Indecen
 ||Date of operation|31 May 1971|
 |5.|**1985 Revised Edition—Indecent Advertisements Act (Chapter 135)**|
 ||Date of operation|30 March 1987|
+|6.|**2014 Revised Edition—Indecent Advertisements Act (Chapter 135)**|
+||Date of operation|30 June 2014|
