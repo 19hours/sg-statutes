@@ -42,7 +42,7 @@
 
 - [16 Application by defendant](#Application-by-defendant)
 
-[**Part III ATTACHMENT OF PROPERTY BEFORE JUDGEMENT**](#Part-III)
+[**Part III ATTACHMENT OF PROPERTY BEFORE JUDGMENT**](#Part-III)
 
 - [17 Seizure of property before judgment](#Seizure-of-property-before-judgment)
 
@@ -50,7 +50,7 @@
 
 - [19 Order for sale of perishable goods](#Order-for-sale-of-perishable-goods)
 
-- [20 Property liable to execution. Subject to prior claims](#Property-liable-to-execution-Subject-to-prior-claims)
+- [20 Property liable to execution but subject to prior claims](#Property-liable-to-execution-but-subject-to-prior-claims)
 
 [**Part IV DAMAGES FOR IMPROPER ARREST OR ATTACHMENT**](#Part-IV)
 
@@ -80,9 +80,9 @@
 
 (Original Enactment: Ordinance 16 of 1923)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(30th June 2014)
 
 An Act relating to debtors and to provide penalties for fraudulent debtors.
 
@@ -108,7 +108,7 @@ ARREST, EXAMINATION AND IMPRISONMENT OF JUDGMENT DEBTORS
 
 ### Arrest of judgment debtor
 
-3\. Where a judgment for the payment of money remains wholly or in part unsatisfied, whether a writ of execution has issued or not, the court or a judge may order the debtor to be arrested and brought before the court forthwith for examination as hereinafter provided, if it appears to the court or judge that there is probable reason for believing, having regard to his conduct, or the state of his affairs, or otherwise, that he is likely to leave Singapore with a view to avoiding payment of such money or to avoiding examination in respect of his affairs.
+3\. Where a judgment for the payment of money remains wholly or in part unsatisfied, whether or not a writ of execution has issued, the court or a judge may order the debtor to be arrested and brought before the court forthwith for examination as hereinafter provided, if it appears to the court or judge that there is probable reason for believing, having regard to his conduct, or the state of his affairs, or otherwise, that he is likely to leave Singapore with a view to avoiding payment of such money or to avoiding examination in respect of his affairs.
 
 ### Examination of debtor
 
@@ -126,11 +126,11 @@ ARREST, EXAMINATION AND IMPRISONMENT OF JUDGMENT DEBTORS
 
 6\.—(1) On the conclusion of the examination, the court may commit the debtor to the civil prison for a term which may extend to 6 weeks or until earlier payment of the judgment debt, or may order that the judgment debt be paid by instalments of such amount and at such times as it thinks fit.
 
-(2) Subject to any rules of court made under or having effect by virtue of the Supreme Court of Judicature Act [Cap. 322], an order for the payment of instalments under this section shall not be a bar to proceedings in execution unless and except to the extent that the court so directs.
+(2) Subject to any rules of court made under or having effect by virtue of the Supreme Court of Judicature Act (Cap. 322), an order for the payment of instalments under this section shall not be a bar to proceedings in execution unless and except to the extent that the court so directs.
 
 ### Failure to comply with order for instalments
 
-(3) If the debtor makes default in the payment of any instalment ordered to be paid as aforesaid, the judgment creditor may apply in such manner as may be prescribed by rules of court made under or having effect by virtue of, the Supreme Court of Judicature Act [Cap. 322] for a notice in the prescribed form, to be issued from the court office, calling upon the debtor to attend before the court at a time therein named, and to show cause why he should not be committed to prison for such default and may cause such notice to be served personally upon him; and if on the day so named, or any subsequent day to which the matter may be adjourned, no sufficient cause is shown by the debtor, the court may commit him to the civil prison for a term which may extend to 6 weeks or until earlier payment of any instalment or instalments due.
+(3) If the debtor makes default in the payment of any instalment ordered to be paid under subsection (1), the judgment creditor may apply in such manner as may be prescribed by rules of court made under or having effect by virtue of the Supreme Court of Judicature Act for a notice in the prescribed form, to be issued from the court office, calling upon the debtor to attend before the court at a time named in the notice, and to show cause why he should not be committed to prison for such default and may cause such notice to be served personally upon him; and if on the day so named, or any subsequent day to which the matter may be adjourned, no sufficient cause is shown by the debtor, the court may commit him to the civil prison for a term which may extend to 6 weeks or until earlier payment of any instalment or instalments due.
 
 (4) A debtor shall not be committed to prison under this section unless it appears that he has, since the date of the judgment or of the order directing payment by instalments, had sufficient means to pay the judgment or comply with the order, as the case may be.
 
@@ -138,9 +138,9 @@ ARREST, EXAMINATION AND IMPRISONMENT OF JUDGMENT DEBTORS
 
 7\. Rules of court may be made under the Supreme Court of Judicature Act for the following purposes:
 
-(a) for requiring the deposit by the person at whose instance any order for arrest or imprisonment is issued, of a sum of money to provide for the expense of bringing the debtor before the court and the subsistence of the debtor while in prison; and
+(a) to require the deposit by the person at whose instance any order for arrest or imprisonment is issued, of a sum of money to provide for the expense of bringing the debtor before the court and the subsistence of the debtor while in prison;
 
-(b) for regulating any matter incidental to such deposit.
+(b) to regulate any matter incidental to such deposit.
 
 ### Arrest or commitment to be dependent on deposit of expenses
 
@@ -192,7 +192,7 @@ Provided that the defendant shall not be arrested if he pays to the officer entr
 
 ### Procedure on application by surety to be discharged
 
-14\.—(1) A surety for the appearance of a defendant may at any time apply to the court or a judge to be discharged from his obligation and on such application the court or a judge shall summon the defendant to appear, or may issue an order for his arrest.
+14\.—(1) A surety for the appearance of a defendant may at any time apply to the court or a judge to be discharged from his obligation and on such application the court or judge shall summon the defendant to appear, or may issue an order for his arrest.
 
 (2) On the appearance of a defendant pursuant to any such summons or order, the court or judge shall discharge the surety from his obligation and call upon the defendant to furnish fresh security.
 
@@ -202,35 +202,35 @@ Provided that the defendant shall not be arrested if he pays to the officer entr
 
 (2) No person shall be detained in prison under this section —
 
-(a) in any case for a longer period than 6 weeks; or
+(a) in any case for a period longer than 6 weeks; or
 
 (b) after he has complied with such order.
 
 ### Application by defendant
 
-16\. A defendant may, at any time after his arrest, apply to the court or a judge to rescind or vary the order made thereunder, or discharge him from custody, and the court or a judge may make such order as is just.
+16\. A defendant may, at any time after his arrest, apply to the court or a judge to rescind or vary the order made thereunder, or discharge him from custody, and the court or judge may make such order as is just.
 
 ## PART III
 
-ATTACHMENT OF PROPERTY BEFORE JUDGEMENT
+ATTACHMENT OF PROPERTY BEFORE JUDGMENT
 
 ### Seizure of property before judgment
 
 17\.—(1) If it is shown to the satisfaction of the court or a judge, at any time after the issue of a writ of summons, by evidence on oath, that the plaintiff has a good cause of action against the defendant, and —
 
-(a) that the defendant is absent from Singapore and that his place of abode cannot be discovered;
+(a) that the defendant is absent from Singapore and his place of abode cannot be discovered;
 
 (b) that service of a writ of summons cannot without great delay or difficulty be effected; or
 
 (c) that the defendant, with intent to obstruct or delay the execution of any judgment which has been or may be made against him, has removed, or is about to remove, or has concealed, or is concealing, or making away with, or handing over to others, any of his movable or immovable property,
 
-the court or judge may order that the property of the defendant, or any part thereof, be forthwith seized by the Sheriff of the Supreme Court as a pledge or surety to answer the just demand of the plaintiff, until the trial of the action and satisfaction of any judgment that may be made against the defendant; but such order shall not constitute the plaintiff a secured creditor if the defendant is adjudicated bankrupt:
+the court or judge may order that the property of the defendant, or any part thereof, be forthwith seized by the Sheriff of the Supreme Court as a pledge or surety to answer the just demand of the plaintiff, until the trial of the action and satisfaction of any judgment that may be made against the defendant; but such order shall not constitute the plaintiff a secured creditor if the defendant is adjudicated bankrupt.
 
-Provided that any property of the defendant, if in the custody of any officer in the service of the Government, or of any member of the Singapore Armed Forces or of any visiting forces lawfully present in Singapore, in his official capacity shall be seized only with the consent in writing of the Attorney-General.
+(2) Any property of the defendant, if in the custody of any officer in the service of the Government, or of any member of the Singapore Armed Forces or of any visiting forces lawfully present in Singapore, in his official capacity shall be seized under subsection (1) only with the consent in writing of the Attorney‑General.
 
-(2) If any immovable property is seized under this section, the Sheriff shall forthwith cause the order to be registered under the Registration of Deeds Act [Cap. 269], the Land Titles Act [Cap. 157] or the Land Titles (Strata) Act [Cap. 158].
+(3) If any immovable property is seized under this section, the Sheriff shall forthwith cause the order to be registered under the Registration of Deeds Act (Cap. 269), the Land Titles Act (Cap. 157) or the Land Titles (Strata) Act (Cap. 158).
 
-(3) In case the land is subsequently seized in execution in satisfaction of judgment in the action, the order of court registered pursuant to such seizure shall have priority as though it had been registered upon the date on which the order registered under this section was registered.
+(4) In a case where the land is subsequently seized in execution in satisfaction of judgment in the action, the order of court registered pursuant to such seizure shall have priority as though it had been registered upon the date on which the order registered under this section was registered.
 
 ### Court may release property
 
@@ -240,7 +240,7 @@ Provided that any property of the defendant, if in the custody of any officer in
 
 19\. The court or a judge may, at any time pending the trial of the action, order the sale of any property seized under this Part which is of a perishable nature, or which for any other reason it is desirable to sell without delay, and direct the proceeds of such sale to be retained by the Sheriff or paid into court pending the trial of the action.
 
-### Property liable to execution. Subject to prior claims
+### Property liable to execution but subject to prior claims
 
 20\. Any property so seized, or the proceeds of sale thereof, shall be liable to execution in satisfaction of any judgment in the action against the defendant; but it shall be subject to the prior claims of any judgment creditor whose judgment was obtained within one year before the seizure thereof under this Part if the judgment creditor had issued execution against the defendant’s property before the making of any order under this Part.
 
@@ -272,19 +272,19 @@ Provided that any attachment ordered shall extend only to property liable to be 
 
 ### Judgment debtor summons
 
-24\.—(1) Where a judgment or order of a District Court is for the recovery or payment of money, whether by instalments or otherwise, the party entitled to enforce it (hereinafter called the judgment creditor) may, subject to such rules as may be prescribed, summon the judgment debtor, or if the judgment debtor is a corporation, an officer of that corporation, to be orally examined before that District Court respecting the judgment debtor’s ability to pay or satisfy the judgment debt and for the discovery of property applicable to such payment and as to the disposal which the judgment debtor has made of such property.
+24\.—(1) Where a judgment or an order of a District Court is for the recovery or payment of money, whether by instalments or otherwise, the party entitled to enforce it (hereinafter called the judgment creditor) may, subject to such rules as may be prescribed, summon the judgment debtor or, if the judgment debtor is a corporation, an officer of that corporation, to be orally examined before that District Court respecting the judgment debtor’s ability to pay or satisfy the judgment debt and for the discovery of property applicable to such payment and as to the disposal which the judgment debtor has made of such property.
 
 ### Production of books and papers
 
-(2) The judgment debtor or, where the judgment debtor is a corporation, the officer thereof who has been summoned shall, when called upon, produce all books, papers or documents in his possession or power relating to such property.
+(2) The judgment debtor or, where the judgment debtor is a corporation, the officer thereof, who has been summoned shall, when called upon, produce all books, papers or documents in his possession or power relating to such property.
 
 ### Subpoena for witness
 
 (3) The judgment creditor may subpoena as a witness any person whom he considers likely to be able to supply information respecting the judgment debtor’s ability to pay the judgment debt or respecting his property.
 
-### Judgement debtor not appearing
+### Judgment debtor not appearing
 
-(4) Whether the judgment debtor, or, where the judgment debtor is a corporation, the officer thereof, appears or not the judgment creditor and other witnesses may be examined on oath respecting the matters aforesaid.
+(4) Whether the judgment debtor or, where the judgment debtor is a corporation, the officer thereof, appears or not, the judgment creditor and other witnesses may be examined on oath respecting the matters aforesaid.
 
 (5) If the judgment debtor or, where the judgment debtor is a corporation, the officer thereof, having been duly served does not appear, the court may —
 
@@ -294,15 +294,15 @@ Provided that any attachment ordered shall extend only to property liable to be 
 
 ### Order
 
-(6) Upon such examination or non-appearance as aforesaid, the court may order the judgment debtor to pay the judgment debt either —
+(6) Upon such examination or non-appearance referred to in subsection (5), the court may order the judgment debtor to pay the judgment debt either —
 
 (a) in one sum whether forthwith or within such period as the court may fix; or
 
 (b) by such instalments payable at such times as the court may fix.
 
-### Failure to comply with order. Notice to show cause
+### Failure to comply with order and notice to show cause
 
-(7) If the judgment debtor makes default in payment according to any such order, a notice in the prescribed form may be issued on the request of the judgment creditor, calling upon the judgment debtor to attend before the court at a time therein stated and show cause why he should not be committed to prison for such default.
+(7) If the judgment debtor makes default in payment according to any such order, a notice in the prescribed form may be issued on the request of the judgment creditor, calling upon the judgment debtor to attend before the court at a time stated in the notice and show cause why he should not be committed to prison for such default.
 
 ### Commitment to prison
 
@@ -314,13 +314,11 @@ Provided that any attachment ordered shall extend only to property liable to be 
 
 ### Power to discharge, vary or suspend order
 
-(10) The District Court may discharge or vary any order made under this section, or may suspend its operation.
+(10) A District Court may discharge or vary any order made under this section, or may suspend its operation.
 
 ### Powers of Registrar of State Courts
 
-(11) Subject to the Subordinate Courts RulesRules of Court and notwithstanding anything in section 2, the powers conferred by subsections (5) and (6) may be exercised by the Registrar of the State Courts sitting in open court.
-
-[Act 5 of 2014 wef 07/03/2014]
+(11) Subject to the Rules of Court and notwithstanding anything in section 2, the powers conferred by subsections (5) and (6) may be exercised by the Registrar of the State Courts sitting in open court.
 
 ### Power of District Judge to order discharge of debtor
 
@@ -342,9 +340,9 @@ FRAUDULENT DEBTORS
 
 (a) if in incurring any debt or liability he has obtained credit under false pretences or by means of any other fraud;
 
-(b) if he has, with intent to defraud his creditors or any of them, made or caused to be made any gift, delivery or transfer of or any charge on his property; or
+(b) if he has, with intent to defraud his creditors or any of them, made or caused to be made any gift, delivery or transfer of or any charge on his property;
 
-(c) if he has, with intent to defraud his creditors or any of them, concealed or removed any part of his property since or within two months before the date of any unsatisfied judgment or order for payment of money obtained against him.
+(c) if he has, with intent to defraud his creditors or any of them, concealed or removed any part of his property since or within 2 months before the date of any unsatisfied judgment or order for payment of money obtained against him.
 
 ## LEGISLATIVE HISTORY
 
@@ -352,7 +350,7 @@ Debtors Act
 
 (CHAPTER 73)
 
-This Legislative History is provided for the convenience of users of the Debtors Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Debtors Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -405,3 +403,5 @@ This Legislative History is provided for the convenience of users of the Debtors
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014 (item 9 of the Schedule — amendment of Debtors Act)|
+|15.|**2014 Revised Edition—Debtors Act (Chapter 73)**|
+||Date of operation|30 June 2014|
