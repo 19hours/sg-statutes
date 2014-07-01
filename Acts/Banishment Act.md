@@ -268,11 +268,6 @@ FORM 1
 
 Section 3(2)
 
-
-
-
-21/73
-
 The Banishment Act
 
 
@@ -280,19 +275,19 @@ The Banishment Act
 
 (Chapter 18)
 
-Warrant of Arrest and Detention
+WARRANT OF ARREST AND DETENTION
 
 To:
 
 The Commissioner of Police and all other police officers
 
-*The Director of Prisons.
+*The Commissioner of Prisons.
 
 Whereas it appears to me in accordance with section 3 of the Banishment Act that it is conducive to the public good that …………………………… of ……………… be banished from Singapore:
 
 Now, therefore, you, the said officers, are hereby directed to arrest the said ………………….. wherever he may be found in Singapore and to convey him to prison at …………………
 
-*You, the Director of Prisons, are hereby directed to detain the said ……………………………………..……. in safe custody in the prison at ……………………… until you shall receive further orders from me.
+*You, the Commissioner of Prisons, are hereby directed to detain the said ……………………………………..……. in safe custody in the prison at ……………………… until you shall receive further orders from me.
 
 Dated this ………… day of …………. 19……
 
@@ -309,6 +304,10 @@ Dated this ………… day of …………. 19……
 Magistrate
 
 _______________
+
+[Act 1 of 2014 wef 01/07/2014]
+
+[21/73]
 
 *Delete in the case of a person already detained in prison.
 
@@ -338,8 +337,12 @@ I, ……………………………., hereby certify that I today served a copy
 
 Dated this ………… day of …………. 19……
 
-…………………………
-(Officer in charge of the prison at …………. or police officer not below the rank of sergeant)
+……..……………………….……
+(Officer in charge of the prison
+at …………. or police officer not
+below the rank of sergeant)
+
+*Delete whichever alternative is inapplicable.
 
 _______________
 
@@ -356,13 +359,13 @@ The Banishment Act
 
 Warrant of Execution of Banishment Order
 
-To the Director of Prisons and
+To the Commissioner of Prisons and
 
 to the Commissioner of Police and all other police officers:
 
 Whereas by a banishment order made in accordance with section 5 of the Banishment Act ………………………… (hereinafter called the banishee) has been ordered to be banished from Singapore for the term of
 
-Now, therefore, I hereby direct you, the Director of Prisons, to deliver the banishee into the custody of such police officer not below the rank of sergeant as may be appointed by the Commissioner of Police in that behalf together with this warrant.
+Now, therefore, I hereby direct you, the Commissioner of Prisons, to deliver the banishee into the custody of such police officer not below the rank of sergeant as may be appointed by the Commissioner of Police in that behalf together with this warrant:
 
 And I further direct you, the Commissioner of Police, or other police officer appointed by you in that behalf to receive the banishee into your custody and to cause him to be conveyed to …………………………… and there placed on board …………………………… for removal to ……………..
 
@@ -381,12 +384,15 @@ And I further certify that I handed a copy of the banishment order referred to i
 
 Dated this ………… day of …………. 19……
 
-…………………………
-(Police officer not below the rank of sergeant)
+……………….……………
+(Police officer not below
+the rank of sergeant)
 
 _______________
 
 *Delete whichever alternative is inapplicable.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 FORM 4
 
@@ -418,8 +424,10 @@ I, ………………………………, hereby certify that I today served a co
 
 Dated this ………… day of …………. 19……
 
-…………………………
-(Police officer not below the rank of sergeant or other person authorised by the Minister to serve the above order)
+…………………………………………
+(Police officer not below the rank of
+sergeant or other person authorised
+by the Minister to serve the above order)
 
 ## LEGISLATIVE HISTORY
 
@@ -427,7 +435,7 @@ Banishment Act
 
 (CHAPTER 18)
 
-This Legislative History is provided for the convenience of users of the Banishment Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Banishment Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -457,3 +465,9 @@ This Legislative History is provided for the convenience of users of the Banishm
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|8.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
