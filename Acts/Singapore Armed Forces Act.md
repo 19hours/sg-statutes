@@ -2908,13 +2908,15 @@ Execution of sentences
 
 ### Civil prisons may receive military prisoners
 
-123\. It shall be lawful for the Director of Prisons appointed under section 20 of the Prisons Act (Cap. 247) or any Superintendent of Prisons, in accordance with any regulations made under this Act, to receive any person —
+123\. It shall be lawful for the Commissioner of Prisons appointed under section 20 of the Prisons Act (Cap. 247) or any Superintendent of Prisons, in accordance with any regulations made under this Act, to receive any person —
 
 (a) sentenced by a subordinate military court duly sent to him in pursuance of such regulations and to confine him until execution of the sentence is completed or the prisoner is discharged or delivered over in due course of law;
 
 (b) delivered into his custody as a deserter or absentee without leave by any person conveying him under legal authority on production of a warrant of a magistrate on which such deserter or absentee without leave has been taken or committed; and
 
 (c) in military custody and detain him for a period not exceeding 7 days.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 ### Provisions as to persons unlawfully at large
 
@@ -4797,6 +4799,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 2/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 August 2012|
+|25.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
