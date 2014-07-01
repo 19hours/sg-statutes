@@ -2765,7 +2765,9 @@ may require a person whom he has reasonable grounds for believing has committed 
 
 (3) If the person arrested and taken before the Magistrate under subsection (2) is unable to show good reasons for not surrendering his travel document, the Magistrate may commit him to prison until he surrenders his travel document.
 
-(4) For the purposes of subsection (3), a certificate signed by an authorised officer, or the head or director of any law enforcement agency or a person of a similar rank, or the head or director of any prescribed law enforcement agency or a person of a similar rank, as the case may be, to the effect that the prisoner has complied with the requirements to surrender his travel document is sufficient warrant for the Director of Prisons to release the prisoner.
+(4) For the purposes of subsection (3), a certificate signed by an authorised officer, or the head or director of any law enforcement agency or a person of a similar rank, or the head or director of any prescribed law enforcement agency or a person of a similar rank, as the case may be, to the effect that the prisoner has complied with the requirements to surrender his travel document is sufficient warrant for the Commissioner of Prisons to release the prisoner.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (5) In this section and section 113 —
 
@@ -2908,6 +2910,16 @@ THE CHARGE
 (5) The fact that the charge is made is equivalent to a statement that the case fulfils every legal condition required by law to constitute the offence charged.
 
 (6) If the accused has been previously convicted of any offence and it is intended to prove that previous conviction for the purpose of affecting the punishment which the court is competent to award, the fact, date and place of the previous conviction shall be stated in the charge; but if the statement is omitted, the court may add it at any time before sentence is passed.
+
+(6A) If the accused is subject to a remission order made under the Prisons Act (Cap. 247) and it is intended to prove the remission order for the purpose of affecting the punishment the court is competent to award, the charge must state —
+
+(a) the fact of the remission order; and
+
+(b) the remaining duration of the remission order on the date of the offence stated in the charge,
+
+but if the statement is omitted, the court may add it at any time before sentence is passed.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 Illustrations
 
@@ -5578,9 +5590,13 @@ then, if the court is satisfied that it is expedient with a view to his reformat
 
 then, if the court is satisfied that it is expedient for the protection of the public that he should be detained in custody for a substantial period of time, followed by a period of supervision if released before the expiration of his sentence, the court, unless it has special reasons for not doing so, shall sentence him to preventive detention for a period of 7 to 20 years in lieu of any sentence of imprisonment.
 
-(3) Before sentencing any offender to corrective training or preventive detention, the court must call for and consider any report submitted by the Director of Prisons, or any person authorised by the Director of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for such a sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
+(3) Before sentencing any offender to corrective training or preventive detention, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for such a sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
 
-(4) The court must give a copy of any report submitted by the Director of Prisons to the offender or his advocate and to the Public Prosecutor.
+[Act 1 of 2014 wef 01/07/2014]
+
+(4) The court must give a copy of any report submitted by the Commissioner of Prisons to the offender or his advocate and to the Public Prosecutor.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (5) Where an offender who is sentenced under subsection (1) or (2) is also convicted at the same trial of any offence other than an offence punishable with imprisonment for 2 years or more, the court may, on the application of the Public Prosecutor, instead of imposing any term of imprisonment as may be prescribed for that offence, take into account such offence for the purposes of determining the period of corrective training or preventive detention, as the case may be.
 
@@ -5604,9 +5620,13 @@ the court may impose a sentence of reformative training in lieu of any other sen
 
 (b) in any case, deal with him in the manner that the Juvenile Court might have dealt with him.
 
-(3) Before imposing any sentence of reformative training, the court must call for and consider any report submitted by the Director of Prisons, or any person authorised by the Director of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for the sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
+(3) Before imposing any sentence of reformative training, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for the sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
 
-(4) The court must give a copy of any report submitted by the Director of Prisons to the offender or his advocate and to the Public Prosecutor.
+[Act 1 of 2014 wef 01/07/2014]
+
+(4) The court must give a copy of any report submitted by the Commissioner of Prisons to the offender or his advocate and to the Public Prosecutor.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (5) A person sentenced to reformative training must be detained in accordance with the regulations made under section 428.
 
@@ -5696,9 +5716,13 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 313\. The following provisions apply to death sentences:
 
-(a) after sentence has been pronounced, a warrant under the seal of the court must be made out for the person sentenced to be committed to the custody of the Director of Prisons in accordance with such prescribed form;
+(a) after sentence has been pronounced, a warrant under the seal of the court must be made out for the person sentenced to be committed to the custody of the Commissioner of Prisons in accordance with such prescribed form;
 
-(b) the warrant shall be full authority to the Director of Prisons, or any officer appointed by him for that purpose, for receiving into his custody and detaining the person sentenced until he receives the court’s further warrant or order;
+[Act 1 of 2014 wef 01/07/2014]
+
+(b) the warrant shall be full authority to the Commissioner of Prisons, or any officer appointed by him for that purpose, for receiving into his custody and detaining the person sentenced until he receives the court’s further warrant or order;
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (c) the trial Judge who tried the accused must, within a reasonable time after sentence has been pronounced, prepare a copy of the notes of evidence taken at the trial and a report in writing signed by him stating whether, in his opinion, there is any reason (and, if so, particulars of the reason) why the death sentence should be carried out;
 
@@ -5728,13 +5752,21 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 (h) the President may, at any time before the warrant is carried out, order a respite of the execution of the warrant and afterwards appoint some other time or other place for its execution;
 
-(i) the warrant must be directed to the Director of Prisons who must carry out the sentence in accordance with law;
+(i) the warrant must be directed to the Commissioner of Prisons who must carry out the sentence in accordance with law;
 
-(j) there must be present at the execution of the sentence the superintendent of the prison, a medical officer of the prison, and any other prison officers that the Director of Prisons requires;
+[Act 1 of 2014 wef 01/07/2014]
 
-(k) there may also be present a minister of religion in attendance at the prison and any other persons that the Director of Prisons thinks proper to admit;
+(j) there must be present at the execution of the sentence the superintendent of the prison, a medical officer of the prison, and any other prison officers that the Commissioner of Prisons requires;
 
-(l) immediately after the death sentence has been carried out, the medical officer of the prison present must examine the body of the person executed, ascertain the fact of death and sign a death certificate and deliver it to the Director of Prisons;
+[Act 1 of 2014 wef 01/07/2014]
+
+(k) there may also be present a minister of religion in attendance at the prison and any other persons that the Commissioner of Prisons thinks proper to admit;
+
+[Act 1 of 2014 wef 01/07/2014]
+
+(l) immediately after the death sentence has been carried out, the medical officer of the prison present must examine the body of the person executed, ascertain the fact of death and sign a death certificate and deliver it to the Commissioner of Prisons;
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (m) within 24 hours after the execution, a Coroner must hold an inquiry as provided under the Coroners Act 2010 (Act 14 of 2010) and satisfy himself of the identity of the body and whether the sentence of death was duly carried out;
 
@@ -5764,9 +5796,13 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 ### Sentences other than of death
 
-317\.—(1) Where an accused is sentenced to imprisonment or to caning, the court must immediately forward a warrant (unless the accused is already confined in prison) stating the name of the accused and sentence to the Director of Prisons or an officer appointed by him for that purpose who must receive into his custody the person named in the warrant.
+317\.—(1) Where an accused is sentenced to imprisonment or to caning, the court must immediately forward a warrant (unless the accused is already confined in prison) stating the name of the accused and sentence to the Commissioner of Prisons or an officer appointed by him for that purpose who must receive into his custody the person named in the warrant.
 
-(2) The warrant shall be full authority to the Director of Prisons or the officer appointed by him for receiving into custody and detaining the accused and carrying out the sentence.
+[Act 1 of 2014 wef 01/07/2014]
+
+(2) The warrant shall be full authority to the Commissioner of Prisons or the officer appointed by him for receiving into custody and detaining the accused and carrying out the sentence.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 ### Date that sentence begins
 
@@ -5850,7 +5886,9 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 ### Return of warrant of execution
 
-324\. Where a death sentence has been carried out pursuant to a warrant issued under section 313(i), the Director of Prisons who carried out the sentence must return the warrant to the court which issued it with an endorsement signed by him, certifying that the sentence has been carried out.
+324\. Where a death sentence has been carried out pursuant to a warrant issued under section 313(i), the Commissioner of Prisons who carried out the sentence must return the warrant to the court which issued it with an endorsement signed by him, certifying that the sentence has been carried out.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 Division 2 —
 
@@ -6135,7 +6173,9 @@ COMMUNITY SENTENCES
 
 (c) that the court has the power, under section 351, to vary or revoke the order on the application of the day reporting officer.
 
-(7) The Director of Prisons may appoint any person to be a day reporting officer for the purposes of this section.
+(7) The Commissioner of Prisons may appoint any person to be a day reporting officer for the purposes of this section.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (8) The Minister charged with the responsibility for home affairs may designate any place as a day reporting centre.
 
@@ -6365,7 +6405,9 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (b) taking into account the extent to which the offender has complied with the order, revoke the order and impose such sentence which is provided for the offence or offences in respect of which the order has been made.
 
-(6) Where an offender is in breach of a short detention order, a court may, on the application of the Director of Prisons or any person authorised by the Director of Prisons, revoke the order and, taking into account the period the offender has been detained under that order, impose such sentence which is provided for the offence or offences in respect of which the order has been made.
+(6) Where an offender is in breach of a short detention order, a court may, on the application of the Commissioner of Prisons or any person authorised by the Commissioner of Prisons, revoke the order and, taking into account the period the offender has been detained under that order, impose such sentence which is provided for the offence or offences in respect of which the order has been made.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (7) If it is proved to the satisfaction of a court that an offender in respect of whom a day reporting order, community work order or community service order is in force is in breach of the order, the court may, without prejudice to the continuance of the order, make an order for the offender to be detained in prison for a period which shall not exceed 14 days.
 
@@ -17215,3 +17257,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|13.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
