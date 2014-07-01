@@ -1111,7 +1111,9 @@ Extradition Act
 
 Warrant of Commitment
 
-To all members of the Singapore Police Force and to the Director of Prisons.
+To all members of the Singapore Police Force and to the Commissioner of Prisons.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 Whereas on this day of , (referred to in this Warrant as the fugitive) has been brought before me, a District Judge [orMagistrate] to show cause why he should not be surrendered in pursuance of the Extradition Act on the ground of his being accused [orhaving been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] :
 
@@ -1119,9 +1121,13 @@ And Whereas no sufficient cause has been shown to me why the fugitive should not
 
 This is therefore to authorise and command —
 
-(a) you, members of the Singapore Police Force, to convey the fugitive to the prison at and deliver him there to the Director of Prisons together with this Warrant; and
+(a) you, members of the Singapore Police Force, to convey the fugitive to the prison at and deliver him there to the Commissioner of Prisons together with this Warrant; and
 
-(b) you, the said Director, to receive the fugitive into your custody in the said prison and there safely to keep him until he is delivered therefrom in accordance with law.
+[Act 1 of 2014 wef 01/07/2014]
+
+(b) you, the said Commissioner, to receive the fugitive into your custody in the said prison and there safely to keep him until he is delivered therefrom in accordance with law.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 Given under my hand at Singapore this day of .
 
@@ -1141,19 +1147,25 @@ Extradition Act
 
 Warrant of Surrender of Fugitive
 
-To the Director of Prisons and to
+To the Commissioner of Prisons and to
 
-Whereas (referred to in this Warrant as the fugitive) who is accused [orhas been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] was delivered into custody of you, the Director of Prisons, by Warrant dated the day of , in pursuance of the Extradition Act:
+[Act 1 of 2014 wef 01/07/2014]
+
+Whereas (referred to in this Warrant as the fugitive) who is accused [orhas been convicted] of the offence of alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] was delivered into custody of you, the Commissioner of Prisons, by Warrant dated the day of , in pursuance of the Extradition Act:
+
+[Act 1 of 2014 wef 01/07/2014]
 
 Now therefore I, the Minister for , in pursuance of the Extradition Act, hereby order —
 
 (a)
 
-you, the Director of Prisons, to deliver the fugitive into the custody of the said ; and
+you, the Commissioner of Prisons, to deliver the fugitive into the custody of the said ; and
 
 (b)
 
 you, the said , to receive the fugitive into your custody and to convey him to a place in or within the jurisdiction of and there surrender him to some person appointed to receive him.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 Given under my hand at Singapore this day of .
 
@@ -1322,6 +1334,10 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|15.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
 ## COMPARATIVE TABLE
 
 Extradition Act
