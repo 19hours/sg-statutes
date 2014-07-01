@@ -606,9 +606,11 @@ if the President certifies that the paper, book, record or other document or the
 
 [23/86]
 
-(5) Where the warrant directs that the offender be detained in prison, the Director of Prisons shall receive the offender into his custody and detain him in accordance with the warrant.
+(5) Where the warrant directs that the offender be detained in prison, the Commissioner of Prisons shall receive the offender into his custody and detain him in accordance with the warrant.
 
 [23/86]
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (6) It shall be lawful for any person charged with or assisting in the execution of any warrant issued under this section to enter and search any premises, vessel, aircraft, vehicle or train in which the offender may be, or may reasonably be suspected of being, concealed.
 
@@ -767,6 +769,12 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 18/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|21 May 2011|
+|10.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||(Related amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
 ## COMPARATIVE TABLE
 
 Parliament (Privileges, Immunities and Powers) Act
