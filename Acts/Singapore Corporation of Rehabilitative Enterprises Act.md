@@ -110,7 +110,7 @@ An Act to establish the Singapore Corporation of Rehabilitative Enterprises and 
 
 [7th November 1975: Parts I, II, IV to VII ;
 
-1st April 1976: Part III]
+1st April 1976: Part III ]
 
 ## PART I
 
@@ -134,7 +134,7 @@ PRELIMINARY
 
 “inmate” means a person who is detained in any approved institution under the Misuse of Drugs Act [Cap. 185] or in such other institution or place as may be prescribed;
 
-[Act 23/87 wef 01/11/1987 vide S260/87]
+[Act 23/87 wef 01/11/1987]
 
 “member” means a member of the Corporation and includes the Chairman and the Deputy Chairman;
 
@@ -158,7 +158,9 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION
 
 (b) a Deputy Chairman who shall be an officer from the Ministry of Home Affairs;
 
-(c) the Director of Prisons or his representative; and
+(c) the Commissioner of Prisons or his representative; and
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (d) not less than 2 nor more than 12 other members.
 
@@ -260,7 +262,7 @@ shall be transferred to the service of the Corporation on terms as near as may b
 
 ### No benefit for abolition or re-organisation of office
 
-14\.—(1) Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Corporation under section 11 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or re-organisation of office in consequence of the establishment and incorporation of the Corporation under this Act.
+14\.—(1) Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Corporation under section 11 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or re-organisation of office in consequence of the establishment and incorporation of the Corporation under this Act.
 
 (2) In every case where a person has been transferred to the service of the Corporation under section 11(1), the Government shall be liable to pay to the Corporation such portion of any gratuity, pension or allowance payable to that person or his dependants on his retirement, death or otherwise leaving the service of the Corporation as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Corporation.
 
@@ -274,17 +276,29 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (a) to manage and maintain the vocational or industrial training institutions transferred to the Corporation by this Act and such other institutions as the Corporation may establish under this Act for the employment, or vocational or industrial training of prisoners and inmates;
 
+[23/1987 wef 01/11/1987]
+
 (b) to provide or secure the provision of such employment or facilities for such training and to organise programmes therefor;
 
 (c) to provide technical training in skilled trades for suitable prisoners and inmates;
 
+[23/1987 wef 01/11/1987]
+
 (d) to promote the vocational skills of prisoners and inmates;
 
-(e) to require any prisoner to work pursuant to section 50 of the Prisons Act [Cap. 247];
+[23/1987 wef 01/11/1987]
+
+(e) to provide any prisoner with work for the purposes of section 67 of the Prisons Act (Cap. 247);
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (f) to advise the Government on all matters relating to the provision of vocational or industrial training and technical training in trades for prisoners and inmates; and
 
+[23/1987 wef 01/11/1987]
+
 (g) to provide or secure the provision of rehabilitative and aftercare services to prisoners and inmates before and after their discharge from custody and to assist the provision by others of such services.
+
+[23/1987 wef 01/11/1987]
 
 ### Powers
 
@@ -292,9 +306,15 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (a) provide, whether by itself or with the co-operation of other persons, such vocational or industrial training schemes for any prisoner and inmate as the Corporation thinks fit;
 
+[23/1987 wef 01/11/1987]
+
 (b) carry on any trade or business whether by arrangement with other persons or by itself for the purpose of providing facilities for the training of or employment for prisoners and inmates;
 
+[23/1987 wef 01/11/1987]
+
 (c) pay such salaries, wages, remuneration or allowances as the Corporation thinks fit to prisoners and inmates who work for the Corporation;
+
+[23/1987 wef 01/11/1987]
 
 (d) acquire, hire, procure, construct, erect, manufacture, provide, operate, maintain or repair anything whatsoever required by the Corporation for the purposes of this Act;
 
@@ -304,19 +324,25 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (g) make loans to persons, other than prisoners and inmates, who are employed by the Corporation (including loans to assist them to acquire housing accommodation) and guarantee loans made to persons so employed (including loans made by building societies and other bodies for housing purposes);
 
+[23/1987 wef 01/11/1987]
+
 (h) promote recreational activities for and activities conducive to the welfare of persons, other than prisoners and inmates, who are or have been engaged in the employment of the Corporation and assist the promotion by others of those activities;
+
+[23/1987 wef 01/11/1987]
 
 (i) enter into such contracts as the Corporation considers necessary for the discharge of its functions;
 
 (j) make grants or lend money to, or enter into guarantees on behalf of, any person or organisation in matters relating to the provision of industrial or vocational training for, or of rehabilitative and aftercare services to, prisoners and inmates before and after their discharge from custody;
 
+[23/1987 wef 01/11/1987]
+
 (ja) make grants or lend money to, or enter into guarantees on behalf of, prisoners and inmates after their discharge from custody for the purposes of any vocation, trade or business carrying on by them;
+
+[23/1987 wef 01/11/1987]
 
 (k) with the approval of the Minister, enter into joint ventures with any person or organisation, or cause to be formed under the provisions of the Companies Act [Cap. 50] an incorporated company or companies for the purpose of carrying out any of the functions of the Corporation; and
 
 (l) do all such other things as are incidental to or necessary for the performance of its functions.
-
-[23/1987 wef 01/11/1987]
 
 ### Appointment of committees and delegation of powers
 
@@ -492,7 +518,7 @@ Singapore Corporation of Rehabilitative Enterprises Act
 
 (CHAPTER 298)
 
-This Legislative History is provided for the convenience of users of the Singapore Corporation of Rehabilitative Enterprises Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Corporation of Rehabilitative Enterprises Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -526,3 +552,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|7.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
