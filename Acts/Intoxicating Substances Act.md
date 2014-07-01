@@ -150,9 +150,15 @@ PRELIMINARY
 
 “article liable to seizure” means anything by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
 
+“Commissioner of Prisons” means the Commissioner of Prisons appointed under section 20 of the Prisons Act (Cap. 247);
+
+[Act 1 of 2014 wef 01/07/2014]
+
 “Director” means the Director of the Central Narcotics Bureau appointed under section 3(1) of the Misuse of Drugs Act (Cap. 185) and includes any Deputy Director of the Bureau;
 
-“Director of Prisons” means the Director of Prisons appointed under section 20 of the Prisons Act (Cap. 247);
+[3/2006 wef 01/03/2006]
+
+[Deleted by Act 1 of 2014 wef 01/07/2014]
 
 “Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001 (Act 4 of 2001);
 
@@ -406,19 +412,25 @@ for voluntary treatment and rehabilitation on such terms and conditions as may b
 
 19\.—(1) Subject to the directions of the Minister, the general charge and administration of —
 
-(a) approved centres, except those designated under paragraph (b), shall be under the Director of Prisons; and
+(a) approved centres, except those designated under paragraph (b), shall be under the Commissioner of Prisons; and
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (b) such approved centres as the Minister may designate shall be under such person as the Minister may appoint.
 
 [20/98]
 
-(2) The Director of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the officer-in-charge of an approved centre and such person shall be responsible for the supervision and administration of that approved centre.
+(2) The Commissioner of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the officer-in-charge of an approved centre and such person shall be responsible for the supervision and administration of that approved centre.
 
 [20/98]
 
-(3) Subject to such modifications as may be made by the Director of Prisons, the standing orders issued under the Prisons Act (Cap. 247) shall apply to an approved centre under the charge of the Director of Prisons as they apply to a prison.
+[Act 1 of 2014 wef 01/07/2014]
+
+(3) Subject to such modifications as may be made by the Commissioner of Prisons, the standing orders issued under the Prisons Act (Cap. 247) shall apply to an approved centre under the charge of the Commissioner of Prisons as they apply to a prison.
 
 [20/98]
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (4) The person appointed under subsection (1)(b) may in writing issue orders, to be called standing orders, for the approved centres designated under his charge.
 
@@ -560,9 +572,9 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 ### Employment of auxiliary police officers as escorts and guards
 
-25\.—(1) For the purpose of assisting him in the discharge of his duties under this Act, the Director of Prisons may employ such numbers of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the inmates who are under his custody while the inmates are transported to, or from, any approved centre and while the inmates are at any place outside an approved centre.
+25\.—(1) For the purpose of assisting him in the discharge of his duties under this Act, the Commissioner of Prisons may employ such number of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the inmates who are under his custody.
 
-[8/2000]
+[Act 1 of 2014 wef 01/07/2014]
 
 (2) An inmate who is delivered into the custody of an auxiliary police officer under this section shall be deemed to be in legal custody within the meaning of section 23.
 
@@ -658,6 +670,8 @@ after that officer has informed the person concerned, his parent or guardian or 
 
 “registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76).
 
+[22/2007 wef 01/01/2008]
+
 (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 26B.
 
 (3) The additional types of body samples that may be prescribed under subsection (2) shall not include samples to be obtained from —
@@ -667,6 +681,8 @@ after that officer has informed the person concerned, his parent or guardian or 
 (b) a person’s body orifice other than the mouth; or
 
 (c) the breast of a woman.
+
+[3/2006 wef 01/03/2006]
 
 ### Taking of photographs, finger impressions, particulars and body samples from person convicted, subject to supervision or in approved centres
 
@@ -710,6 +726,8 @@ after that officer has informed the person concerned, his parent or guardian or 
 
 shall be taken from any person unless the appropriate consent is given for the taking of the sample.
 
+[3/2006 wef 01/03/2006]
+
 ### Further provisions for taking of body samples
 
 26C\.—(1) For the purposes of section 26B(1)(c), a body sample may only be taken by —
@@ -725,6 +743,8 @@ shall be taken from any person unless the appropriate consent is given for the t
 (3) The fact that a body sample has been taken shall be recorded by the person who took the sample in such form or manner as may be required by the Commissioner of Police.
 
 (4) Every body sample taken shall be sent to an authorised analyst for forensic DNA analysis.
+
+[3/2006 wef 01/03/2006]
 
 ### Retention of photographs, finger impressions, particulars and body samples taken
 
@@ -761,6 +781,8 @@ shall be taken from any person unless the appropriate consent is given for the t
 (c) any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1),
 
 shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, be admissible in evidence in any proceedings without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
+
+[3/2006 wef 01/03/2006]
 
 ## PART V
 
@@ -986,7 +1008,7 @@ Intoxicating Substances Act
 
 (CHAPTER 146A)
 
-This Legislative History is provided for the convenience of users of the Intoxicating Substances Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Intoxicating Substances Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1040,6 +1062,11 @@ This Legislative History is provided for the convenience of users of the Intoxic
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|11.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||(Related amendments made to Act by)||
+||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
 ## COMPARATIVE TABLE
 
 Intoxicating Substances Act
