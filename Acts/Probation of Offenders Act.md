@@ -44,7 +44,7 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to prov for the probation of offenders.
+An Act to provide for the probation of offenders.
 
 [9th July 1951]
 
@@ -68,7 +68,9 @@ An Act to prov for the probation of offenders.
 
 “police officer” has the same meaning as in the Police Force Act (Cap. 235);
 
-“prison officer” has the same meaning as in the Prisons Act (Cap. 247) and includes the Director of Prisons and a Superintendent of Prisons appointed under that Act;
+“prison officer” has the same meaning as in the Prisons Act (Cap. 247) and includes the Commissioner of Prisons and a Superintendent of Prisons appointed under that Act;
+
+[Act 1 of 2014 wef 01/07/2014]
 
 “probation committee” means a group of persons appointed to carry out the duties under section 4;
 
@@ -220,8 +222,6 @@ Provided that this subsection shall not apply to an order cancelling a requireme
 
 (8) Where, under the following provisions of this Act, a probationer is sentenced for the offence for which he was placed on probation, the probation order shall cease to have effect.
 
-[]]
-
 ### Breach of requirements of probation order
 
 7\.—(1) If at any time during the probation period it appears on information to a magistrate that the probationer has failed to comply with any of the requirements of the order the magistrate may issue a summons requiring the probationer to appear before a Magistrate’s Court.
@@ -234,7 +234,7 @@ Provided that this subsection shall not apply to an order cancelling a requireme
 
 [7/89 wef 01/04/1989]
 
-[15/2010 wef 01/04/1989 wef 2/1/2011]
+[15/2010 wef 02/01/2011]
 
 (3) Where the Magistrate’s Court deals with the case as provided in subsection (2)(b) then —
 
@@ -272,11 +272,11 @@ Provided that a magistrate shall not issue such a warrant except on information 
 
 (a) if the probation order or the order for conditional discharge was made by the High Court, a Judge of the High Court;
 
+[16/93 wef 01/07/1993]
+
 (b) if the order was made by a District Court, a District Judge; and
 
 (c) if the order was made by a Magistrate’s Court or Juvenile Court, a magistrate.
-
-[16/93 wef 01/07/1993]
 
 (3) A summons or warrant issued under this section shall direct the person so convicted to appear or be brought before the court by which the probation order was made.
 
@@ -348,7 +348,7 @@ Probation of Offenders Act
 
 (CHAPTER 252)
 
-This Legislative History is provided for the convenience of users of the Probation of Offenders Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Probation of Offenders Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -400,3 +400,9 @@ This Legislative History is provided for the convenience of users of the Probati
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|13.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 November 2013|
+|||(Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
