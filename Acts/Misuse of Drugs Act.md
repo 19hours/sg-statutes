@@ -222,6 +222,10 @@ PRELIMINARY
 
 “Class A drug”, “Class B drug” and “Class C drug” mean any of the substances and products for the time being specified in Parts I, II and III of the First Schedule, respectively;
 
+“Commissioner of Prisons” means the Commissioner of Prisons appointed under section 20 of the Prisons Act (Cap. 247);
+
+[Act 1 of 2014 wef 01/07/2014]
+
 “committee of inquiry” means a committee of inquiry convened under section 41;
 
 “community rehabilitation centre” means any place declared by the Minister as such under section 35;
@@ -240,7 +244,7 @@ PRELIMINARY
 
 “Director” means the Director of the Central Narcotics Bureau appointed under section 3(1);
 
-“Director of Prisons” means the Director of Prisons appointed under section 20 of the Prisons Act (Cap. 247);
+[Deleted by Act 1 of 2014 wef 01/07/2014]
 
 “drug addict” means a person who, through the use of any controlled drug, has developed —
 
@@ -996,9 +1000,11 @@ is convicted of an offence under section 8(b) for consumption of a specified dru
 
 [20/98]
 
-(3) A certificate purporting to be signed by an officer authorised in writing by the Director of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of all matters contained therein.
+(3) A certificate purporting to be signed by an officer authorised in writing by the Commissioner of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of all matters contained therein.
 
 [20/98]
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (4) A certificate purporting to be signed by the Registrar for the subordinate military courts or for the Military Court of Appeal appointed under section 82(5) of the Singapore Armed Forces Act (Cap. 295) shall be admissible in evidence, in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of a person’s previous conviction by a subordinate military court or the Military Court of Appeal.
 
@@ -1126,19 +1132,25 @@ TREATMENT AND REHABILITATION
 
 36\.—(1) Subject to the directions of the Minister, the general charge and administration of —
 
-(a) approved institutions, except those designated under paragraph (b), shall be under the Director of Prisons; and
+(a) approved institutions, except those designated under paragraph (b), shall be under the Commissioner of Prisons; and
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (b) such approved institutions as the Minister may designate, shall be under such person as the Minister may appoint.
 
 [20/98]
 
-(2) The Director of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the superintendent of an approved institution and such person shall be responsible for the supervision and administration of that approved institution.
+(2) The Commissioner of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the superintendent of an approved institution and such person shall be responsible for the supervision and administration of that approved institution.
 
 [20/98]
 
-(3) Subject to such modifications as may be made by the Director of Prisons, the standing orders issued under the Prisons Act (Cap. 247) shall apply to an approved institution under the charge of the Director of Prisons as they apply to a prison.
+[Act 1 of 2014 wef 01/07/2014]
+
+(3) Subject to such modifications as may be made by the Commissioner of Prisons, the standing orders issued under the Prisons Act (Cap. 247) shall apply to an approved institution under the charge of the Commissioner of Prisons as they apply to a prison.
 
 [20/98]
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (4) The person appointed under subsection (1)(b) may in writing issue orders, to be called standing orders, for the approved institutions designated under his charge.
 
@@ -1648,9 +1660,9 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 ### Employment of auxiliary police officers as escorts and guards
 
-57\.—(1) For the purpose of assisting him in the discharge of his duties under this Act, the Director of Prisons may employ such numbers of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the inmates who are under his custody while the inmates are transported to, or from, any approved institution and while the inmates are at any place outside an approved institution.
+57\.—(1) For the purpose of assisting him in the discharge of his duties under this Act, the Commissioner of Prisons may employ such number of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the inmates who are under his custody.
 
-[8/2000]
+[Act 1 of 2014 wef 01/07/2014]
 
 (2) An inmate who is delivered into the custody of an auxiliary police officer under this section shall be deemed to be in legal custody within the meaning of section 40.
 
@@ -3486,6 +3498,10 @@ Safrole also known as 4-Allyl-1,2-methylenedioxybenzene.
 
 [20/98; S 404/2000]
 
+3. Any substance which is a preparation or product containing ephedrine (also known as β‑Hydroxy‑N‑methylamphetamine) or pseudoephedrine (also known as β‑Hydroxy‑N‑methylamphetamine).
+
+[S 440/2014 wef 01/07/2014]
+
 Part II
 
 1. The following substances:
@@ -3690,14 +3706,14 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|7 February 1986|
 |14.|**1985 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
 ||Date of operation|30 March 1987|
-|15.|**Act 38 of 1989—Misuse of Drugs (Amendment) Act 1989**|
+|15.|**G. N. No. S 50/1990—Misuse of Drugs Act (Amendment of First Schedule) Order 1990**|
+||Date of commencement|15 February 1990|
+|16.|**Act 38 of 1989—Misuse of Drugs (Amendment) Act 1989**|
 ||Date of First Reading|6 October 1989|
 |||(Bill No. 39/89 published on 7 October 1989)|
 ||Date of Second and Third Readings|30 November 1989|
 ||Date of commencement|15 February 1990|
-|16.|**G. N. No. S 50/1990—Misuse of Drugs Act (Amendment of First Schedule) Order 1990**|
-||Date of commencement|15 February 1990|
-|17.|**G. N. No. S 564/1991—Misuse of Drugs Act (Amendment of First Schedule) Order 1991**|
+|17.|**G. N. No. S 564/1991—Misuse of Drugs (Amendment of First Schedule) Order 1991**|
 ||Date of commencement|2 January 1992|
 |18.|**G. N. No. S 66/1992—Misuse of Drugs Act (Amendment of First Schedule) Order 1992**|
 ||Date of commencement|1 March 1992|
@@ -3804,6 +3820,12 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|28 April 2014|
 |49.|**G.N. No. S 323/2014—Misuse of Drugs Act (Amendment of First, Fourth and Fifth Schedules) Order 2014**|
 ||Date of commencement|1 May 2014|
+|50.|**G.N. No. S 440/2014—Misuse of Drugs Act (Amendment of Third Schedule) Order 2014**|
+||Date of commencement|1 July 2014|
+|51.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
+||Date of Second and Third Readings|21 January 2014|
+||Date of commencement|1 July 2014|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
