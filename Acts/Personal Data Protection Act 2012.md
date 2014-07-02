@@ -1671,11 +1671,7 @@ Collection of personal data without consent
 
 (ii) is collected by the organisation for purposes consistent with the purpose of that disclosure.
 
-2. In this paragraph and paragraph 1(
-
-h
-
-) —
+2. In this paragraph and paragraph 1(h) —
 
 “broadcasting service” has the same meaning as in section 2 of the Broadcasting Act (Cap. 28);
 
@@ -1733,11 +1729,7 @@ h
 
 (n) Special interest radio services.
 
-3.—(1) The conditions in this paragraph shall apply if the personal data is collected under paragraph 1(
-
-p
-
-).
+3.—(1) The conditions in this paragraph shall apply if the personal data is collected under paragraph 1(p).
 
 (2) If the organisation is a prospective party to a business asset transaction —
 
@@ -1759,17 +1751,9 @@ p
 
 (4) If a business asset transaction does not proceed or is not completed, the organisation shall destroy, or return to the other organisation, all the personal data collected.
 
-(5) In this paragraph and paragraph 1(
+(5) In this paragraph and paragraph 1(p), “business asset transaction” has the same meaning as in paragraph 3(4) of the Fourth Schedule.
 
-p
-
-), “business asset transaction” has the same meaning as in paragraph 3(4) of the Fourth Schedule.
-
-4. For the avoidance of doubt, personal data disclosed before the appointed day in the circumstances and conditions set out in the Fourth Schedule shall satisfy paragraph 1(
-
-r
-
-), notwithstanding that section 17(3) was not in force at the time of the disclosure.
+4\. For the avoidance of doubt, personal data disclosed before the appointed day in the circumstances and conditions set out in the Fourth Schedule shall satisfy paragraph 1(r), notwithstanding that section 17(3) was not in force at the time of the disclosure.
 
 THIRD SCHEDULE
 
@@ -1799,11 +1783,7 @@ Use of personal data without consent
 
 (j) the data was collected by the organisation in accordance with section 17(1), and is used by the organisation for purposes consistent with the purpose of that collection.
 
-2. Paragraph 1(
-
-i
-
-) shall not apply unless —
+2. Paragraph 1(i) shall not apply unless —
 
 (a) the research purpose cannot reasonably be accomplished unless the personal data is provided in an individually identifiable form;
 
@@ -1813,11 +1793,7 @@ i
 
 (d) linkage of the personal data to other information is not harmful to the individuals identified by the personal data and the benefits to be derived from the linkage are clearly in the public interest.
 
-3. For the avoidance of doubt, personal data collected before the appointed day in the circumstances and conditions set out in the Second Schedule shall satisfy paragraph 1(
-
-j
-
-) notwithstanding that section 17(1) was not in force at the time of the collection.
+3\. For the avoidance of doubt, personal data collected before the appointed day in the circumstances and conditions set out in the Second Schedule shall satisfy paragraph 1(j) notwithstanding that section 17(1) was not in force at the time of the collection.
 
 FOURTH SCHEDULE
 
@@ -1875,17 +1851,9 @@ Disclosure of personal data without consent
 
 (ii) is disclosed by the organisation for purposes consistent with the purpose of that collection.
 
-2. In the case of disclosure under paragraph 1(
+2\. In the case of disclosure under paragraph 1(c), the organisation shall, as soon as may be practicable, notify the individual whose personal data is disclosed of the disclosure and the purposes of the disclosure.
 
-c
-
-), the organisation shall, as soon as may be practicable, notify the individual whose personal data is disclosed of the disclosure and the purposes of the disclosure.
-
-3.—(1) The conditions in this paragraph shall apply to personal data disclosed under paragraph 1(
-
-p
-
-).
+3.—(1) The conditions in this paragraph shall apply to personal data disclosed under paragraph 1(p).
 
 (2) In the case of disclosure to a prospective party to a business asset transaction —
 
@@ -1899,25 +1867,13 @@ p
 
 (b) the personal data about them has been disclosed to the party.
 
-(4) In this paragraph and paragraph 1(
+(4) In this paragraph and paragraph 1(p) —
 
-p
-
-) —
-
-“business asset transaction” means the purchase, sale, lease, merger or amalgamation or any other acquisition, disposal or financing of an organisation or a portion of an organisation or of any of the business or assets of an organisation other than the personal data to be disclosed under paragraph 1(
-
-p
-
-);
+“business asset transaction” means the purchase, sale, lease, merger or amalgamation or any other acquisition, disposal or financing of an organisation or a portion of an organisation or of any of the business or assets of an organisation other than the personal data to be disclosed under paragraph 1(p);
 
 “party” means another organisation that enters into the business asset transaction with the organisation.
 
-4. Paragraph 1(
-
-q
-
-) shall not apply unless —
+4. Paragraph 1(q) shall not apply unless —
 
 (a) the research purpose cannot reasonably be accomplished without the personal data being provided in an individually identifiable form;
 
@@ -1939,11 +1895,7 @@ q
 
 (v) a requirement not to use the personal data for any other purpose or to disclose the personal data in individually identifiable form without the express authorisation of the organisation that disclosed the personal data.
 
-5. For the avoidance of doubt, personal data collected before the appointed day in the circumstances and conditions set out in the Second Schedule shall satisfy paragraph 1(
-
-s
-
-) notwithstanding that section 17(1) was not in force at the time of the collection.
+5\. For the avoidance of doubt, personal data collected before the appointed day in the circumstances and conditions set out in the Second Schedule shall satisfy paragraph 1(s) notwithstanding that section 17(1) was not in force at the time of the collection.
 
 FIFTH SCHEDULE
 
@@ -1967,19 +1919,7 @@ Exceptions from access requirement
 
 (g) personal data which, if disclosed, would reveal confidential commercial information that could, in the opinion of a reasonable person, harm the competitive position of the organisation;
 
-(h) personal data collected, used or disclosed without consent, under paragraph 1(
-
-e
-
-) of the Second Schedule, paragraph 1(
-
-e
-
-) of the Third Schedule or paragraph 1(
-
-f
-
-) of the Fourth Schedule, respectively, for the purposes of an investigation if the investigation and associated proceedings and appeals have not been completed;
+(h) personal data collected, used or disclosed without consent, under paragraph 1(e) of the Second Schedule, paragraph 1(e) of the Third Schedule or paragraph 1(f) of the Fourth Schedule, respectively, for the purposes of an investigation if the investigation and associated proceedings and appeals have not been completed;
 
 (i) the personal data was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he was appointed to act —
 
