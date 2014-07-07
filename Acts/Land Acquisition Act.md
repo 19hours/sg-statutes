@@ -628,7 +628,9 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 [19/2007 wef 07/05/2007]
 
-(b) any increase in the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put;
+(b) any increase in the value of any other land (such as contiguous or adjacent land) of the person interested likely to accrue from the use to which the land acquired will be put;
+
+[Act 26 of 2014 wef 07/07/2014]
 
 (c) the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land;
 
@@ -640,7 +642,9 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 [66/73]
 
-(2) [Deleted by Act 19/2007 wef 07/05/2007]
+(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set‑off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.
+
+[Act 26 of 2014 wef 07/07/2014]
 
 (3) [Deleted by Act 19/2007 wef 07/05/2007]
 
@@ -984,3 +988,7 @@ This Legislative History is provided for the convenience of users of the Land Ac
 ||Date of First Reading|21 November 2011 (Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (section 23)|
+|19.|**Act 26 of 2014—Land Acquisition (Amendment) Act 2014**|
+||Date of First Reading|7 July 2014 (Bill No. 20/2014 published on 7 July 2014)|
+||Date of Second and Third Readings|5 August 2014|
+||Date of commencement|7 July 2014 (section (12))|
