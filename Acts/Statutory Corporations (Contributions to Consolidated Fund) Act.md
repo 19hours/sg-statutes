@@ -310,6 +310,12 @@ Singapore Academy of Law
 
 Singapore Academy of Law Act (Chapter 294A)
 
+32C.
+
+Singapore Accountancy Commission
+
+Singapore Accountancy Commission Act (Chapter 294B)
+
 33.
 
 Singapore Labour Foundation
@@ -356,7 +362,7 @@ Singapore Tourism Board Act (Chapter 305B)
 
 Singapore Workforce Development Agency
 
-Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
+Singapore Workforce Development Agency Act 2003 (Act 14 of 2003)
 
 41.
 
@@ -376,7 +382,9 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
 
-[7/96; 41/99; S 414/93; S 344/95; S 405/96; S 470/97; S 518/97; S 366/98; S 588/2000; S 220/2001; S 312/2001; S 143/2003; S 480/2003; S 410/2004; S 195/2006; 22/2007; S 314/2008; 48/2007;17/2009; S 590/2009]
+[S 476/2014 wef 16/07/2014]
+
+[7/96; 41/99; 3/2004; S 414/93; S 344/95; S 405/96; S 470/97; S 518/97; S 366/98; S 588/2000; S 220/2001; S 312/2001; S 143/2003; S 480/2003; S 410/2004; S 148/2005; S 195/2006; 22/2007; S 314/2008; 48/2007; 17/2009; S 590/2009]
 
 [25/2010 wef 22/10/2010]
 
@@ -386,7 +394,7 @@ Statutory Corporations (Contributions to Consolidated Fund) Act
 
 (CHAPTER 319A)
 
-This Legislative History is provided for the convenience of users of the Statutory Corporations (Contributions to Consolidated Fund) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Statutory Corporations (Contributions to Consolidated Fund) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -488,3 +496,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 19/2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|22 October 2010|
+|31.|**G. N. No. S 476/2014—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2014**|
+||Date of commencement|16 July 2014|
