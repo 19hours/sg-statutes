@@ -14,7 +14,7 @@
 
 - [3 Act to bind Government](#Act-to-bind-Government)
 
-- [4 Application of Act to certain plants](#Application-of-Act-to-certain-plants)
+- [4 Application of Act](#Application-of-Act)
 
 [**Part II ADMINISTRATION**](#Part-II)
 
@@ -126,6 +126,8 @@
 
 - [49 Forms and directions of Registrar](#Forms-and-directions-of-Registrar)
 
+- [49A Amendment of documents](#Amendment-of-documents)
+
 - [50 Fees](#Fees)
 
 - [51 Hours of business and excluded days](#Hours-of-business-and-excluded-days)
@@ -136,7 +138,7 @@
 
 - [54 Rules](#Rules)
 
-[**THE SCHEDULE Plant genera and species to which Act applies**](#THE-SCHEDULE)
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -186,6 +188,10 @@ PRELIMINARY
 
 “denomination” means the distinguishing name or identification for a plant variety;
 
+“Examiner” means any person, organisation or entity appointed by the Registrar for the purpose of referring any question or matter relating to a grant of protection;
+
+[Act 16 of 2014 wef 30/07/2014]
+
 “grant of protection” means a grant of protection made by the Registrar under section 21;
 
 “grantee” means the holder of a grant of protection;
@@ -206,7 +212,7 @@ PRELIMINARY
 
 (c) considered as a unit with regard to its suitability for being propagated unchanged;
 
-“prescribed examination authority” means such plant variety examination authority in Singapore or any other UPOV member as the Minister may from time to time prescribe;
+[Deleted by Act 16 of 2014 wef 30/07/2014]
 
 “procedural representative”, in relation to any plant variety, means a person who is resident or has an office in Singapore and who is appointed by the breeder of that variety to act on his behalf in respect of the making of any application for, or any proceedings relating to, a grant of protection for that variety;
 
@@ -236,13 +242,11 @@ PRELIMINARY
 
 [Patents 1995 Ed., s. 3; Trade Marks 1999 Ed., s. 100]
 
-### Application of Act to certain plants
+### Application of Act
 
-4\.—(1) This Act only applies to the plant genera and species listed in the Schedule.
+4\. This Act shall apply to all plant genera and species.
 
-(2) The Minister may, by notification in theGazette, amend the Schedule.
-
-[HK Plant Ord. 1997, s. 4]
+[Act 16 of 2014 wef 30/07/2014]
 
 ## PART II
 
@@ -262,11 +266,15 @@ ADMINISTRATION
 
 ### Delegation by Registrar
 
-6\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Plant Varieties or any public officer so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
+6\.—(1) The Registrar may, in relation to a particular matter or class of matters, by writing under his hand, delegate all or any of his powers or functions under this Act (except this power of delegation) to an Assistant Registrar of Plant Varieties, any public officer, or any person with the relevant qualifications for or experience in the matter or class of matters, so that the delegated powers and functions may be exercised by the delegate with respect to the matter or class of matters specified in the instrument of delegation.
 
-[Act 16 of 2012 wef 07/03/2014]
+[Act 16 of 2014 wef 30/07/2014]
 
 (2) A delegation under this section is revocable at will and no delegation shall prevent the exercise of a power or function by the Registrar or by any Deputy Registrar of Plant Varieties.
+
+(3) Where the delegate is a person with the relevant qualifications or experience referred to in subsection (1), he shall, when exercising the delegated powers or functions, be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[Act 16 of 2014 wef 30/07/2014]
 
 ### Registry of Plant Varieties
 
@@ -360,7 +368,9 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (2) The breeder shall, within 3 months of making the claim of a right of priority under subsection (1), submit to the Registrar a copy of any document constituting the foreign application, which must be certified as correct by the authority in the UPOV member to which the foreign application was made.
 
-(3) The breeder shall be allowed a period of 2 years after the expiration of the period referred to in subsection (1)(b) or, where the foreign application (or the earliest foreign application) is rejected or withdrawn, a period of 2 years after such rejection or withdrawal, in which to furnish any necessary information, document or material required for the purpose of the examination under section 17 to the Registrar or a local prescribed examination authority, as the case may be, or an examination report under section 18 to the Registrar.
+(3) The breeder shall be allowed a period of 2 years after the expiration of the period referred to in subsection (1)(b) or, where the foreign application (or the earliest foreign application) is rejected or withdrawn, a period of 2 years after such rejection or withdrawal, in which to furnish any necessary information, document or material required for the purpose of the examination under section 17 to the Registrar or an Examiner appointed by the Registrar for the purposes of this subsection, as the case may be, or an examination report under section 18 to the Registrar.
+
+[Act 16 of 2014 wef 30/07/2014]
 
 [HK Plant Ord. 1997, s. 20]
 
@@ -402,9 +412,9 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 ### Examination of plant variety
 
-17\.—(1) Subject to section 18, the applicant shall, within the prescribed period after making an application, give to the Registrar or any prescribed examination authority in Singapore (referred to in this section as a local prescribed examination authority) —
+17\.—(1) Subject to section 18, the applicant shall, within the prescribed period after making an application, give to the Registrar or any Examiner appointed by the Registrar for the purposes of this section —
 
-(a) in such detail as the Registrar or the local prescribed examination authority may require for examination under subsection (2), a description of —
+(a) in such detail as the Registrar or the Examiner may require for examination under subsection (2), a description of —
 
 (i) the origin and breeding of the plant variety concerned (referred to in this section as the candidate variety);
 
@@ -412,9 +422,13 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (iii) at least one plant variety that is, to the knowledge of the breeder, most similar to the candidate variety and at least one characteristic which distinguishes the candidate variety from such other variety or varieties; and
 
+[Act 16 of 2014 wef 30/07/2014]
+
 (b) propagating material of the candidate variety.
 
-(2) The Registrar or the local prescribed examination authority shall examine the candidate variety —
+[Act 16 of 2014 wef 30/07/2014]
+
+(2) The Registrar or the Examiner shall examine the candidate variety —
 
 (a) to verify whether the candidate variety belongs to the stated botanical taxon;
 
@@ -422,19 +436,27 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (c) where the candidate variety is found to meet the requirements in paragraphs (a) and (b), to establish an official description of the variety.
 
-(3) The Registrar or the local prescribed examination authority may, by way of written notice, request the applicant to furnish any further information, document or propagating material of the candidate variety and of any similar plant variety in addition to any plant variety referred to in subsection (1)(a)(iii).
+[Act 16 of 2014 wef 30/07/2014]
 
-(4) Where the Registrar or the local prescribed examination authority has made a request for further information, documents or propagating material under subsection (3), the applicant shall —
+(3) The Registrar or the Examiner may, by way of written notice, request the applicant to furnish any further information, document or propagating material of the candidate variety and of any similar plant variety in addition to any plant variety referred to in subsection (1)(a)(iii).
+
+[Act 16 of 2014 wef 30/07/2014]
+
+(4) Where the Registrar or the Examiner has made a request for further information, documents or propagating material under subsection (3), the applicant shall —
 
 (a) furnish such information, document or propagating material within the period stated in the written notice; or
 
-(b) where such information, document or propagating material is not available, notify the Registrar or the local prescribed examination authority, as the case may be, of this fact within that period.
+(b) where such information, document or propagating material is not available, notify the Registrar or the Examiner, as the case may be, of this fact within that period.
+
+[Act 16 of 2014 wef 30/07/2014]
 
 [HK Plant Ord. 1997, s. 13; UPOV Model Law 1996, Art. 37]
 
 ### Corresponding examination
 
-18\.—(1) Subject to subsection (2), the applicant may, instead of complying with the provisions in section 17, lodge with the Registrar in such manner as the Registrar may require and within the prescribed period, an examination report issued and certified by a prescribed examination authority in any UPOV member other than Singapore.
+18\.—(1) Subject to subsection (2), the applicant may, instead of complying with the provisions in section 17, lodge with the Registrar in such manner as the Registrar may require and within the prescribed period, an examination report issued and certified by an Examiner in any UPOV member other than Singapore.
+
+[Act 16 of 2014 wef 30/07/2014]
 
 (2) The Registrar may reject an examination report lodged under subsection (1), in which case the applicant shall comply with the provisions in section 17.
 
@@ -444,7 +466,9 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (2) The withdrawal of an application shall not affect the liability of the applicant for any fees that may have become payable up to the date of that withdrawal.
 
-(3) Where any information, document or material required to be given to the Registrar or a local prescribed examination authority under the provisions of this Act is not supplied within the period stated in the written notice issued by the Registrar or the local prescribed examination authority, as the case may be, requiring such information, document or material, the application concerned shall lapse upon the expiration of that period.
+(3) Where any information, document or material required to be given to the Registrar or an Examiner under the provisions of this Act is not supplied within the period stated in the written notice issued by the Registrar or the Examiner, as the case may be, requiring such information, document or material, the application concerned shall lapse upon the expiration of that period.
+
+[Act 16 of 2014 wef 30/07/2014]
 
 [HK Plant Ord. 1997, s. 15]
 
@@ -518,6 +542,14 @@ no account shall be taken of any sale or disposal under that arrangement.
 
 (ii) having been produced during the breeding, increase of stock, test, or trial of that plant variety, the material is not or no longer required for any of those activities.
 
+(3A) Notwithstanding subsection (1)(a), where this Act did not apply to a plant genus or species before the date of commencement of section 3 of the Plant Varieties Protection (Amendment) Act 2014, and an application for a grant of protection is made within one year after that date in respect of any plant variety belonging to that plant genus or species, that plant variety shall be deemed to be new if harvested or propagating material of that plant variety has not been sold, or otherwise disposed of, in Singapore to another person, by or with the consent of the breeder for the purposes of exploitation in Singapore of that plant variety —
+
+(a) earlier than 6 years before the date that application is made, in the case of trees or vines; or
+
+(b) earlier than 4 years before the date that application is made, in any other case.
+
+[Act 16 of 2014 wef 30/07/2014]
+
 (4) For the purpose of subsection (1)(b), the making of an application in any country for —
 
 (a) a grant of protection in respect of a plant variety; or
@@ -560,7 +592,7 @@ the Registrar shall make a grant of protection to the applicant whose applicatio
 
 (a) the plant variety concerned is not new or distinct within the meaning of section 22;
 
-(b) where the grant of protection was made on the basis of an examination report by a prescribed examination authority lodged under section 18, the plant variety was not, at the time the grant of protection was made, stable or uniform within the meaning of section 22(1)(c) or (d), respectively; or
+(b) where the grant of protection was made on the basis of an examination report by an Examiner lodged under section 18, the plant variety was not, at the time the grant of protection was made, stable or uniform within the meaning of section 22(1)(c) or (d), respectively; or
 
 (c) the grant of protection has been made to a person who is not entitled to it, unless it has since been transferred to the person who is so entitled.
 
@@ -880,11 +912,15 @@ REGISTER OF PLANT VARIETIES
 
 (3) Any person who applies for a certified copy of an entry in the register or a certified extract from the register shall be entitled to obtain such a copy or extract on payment of the prescribed fee.
 
-(4) Any person who applies for an uncertified copy or extract shall be entitled to such a copy or extract on payment of the prescribed fee.
+(4) [Deleted by Act 16 of 2012 wef 30/07/2014]
 
-(5) In relation to any portion of the register kept otherwise than in documentary form, the right to a copy or extract conferred by subsection (3) or (4) is a right to a copy or extract in a form in which it can be taken away.
+(5) In relation to any portion of the register kept otherwise than in documentary form, the right to a copy or extract conferred by subsection (3) is a right to a copy or extract in a form in which it can be taken away.
 
-(6) In this section, “certified copy” and “certified extract” mean a copy and extract certified by the Registrar and sealed with the seal of the Registrar.
+[Act 16 of 2012 wef 30/07/2014]
+
+(6) In this section, “certified copy” and “certified extract” mean a copy and extract certified by the Registrar.
+
+[Act 16 of 2012 wef 30/07/2014]
 
 [Trade Marks 1999 Ed., s. 68]
 
@@ -970,7 +1006,9 @@ MISCELLANEOUS
 
 47\.—(1) The Registrar and any officer of the Registry shall not be taken to warrant the correctness or validity of a grant of protection or the registration of a denomination under this Act or under any international agreement or convention to which Singapore is a party.
 
-(2) The Registrar, any officer of the Registry and any officer of a local prescribed examination authority referred to in section 17(1), shall not incur any liability by reason only of, or in connection with, any examination required or authorised by this Act, or any such international agreement or convention, or any report or other proceedings consequent on such examination.
+(2) The Registrar, any officer of the Registry and any Examiner referred to in section 17(1) and officer thereof (if the Examiner is not an individual), shall not incur any liability by reason only of, or in connection with, any examination required or authorised by this Act, or any such international agreement or convention, or any report or other proceedings consequent on such examination.
+
+[Act 16 of 2014 wef 30/07/2014]
 
 ### Right of appeal
 
@@ -994,13 +1032,27 @@ MISCELLANEOUS
 
 (b) the practice directions issued by the Registrar.
 
+### Amendment of documents
+
+49A\. The Registrar may, at the written request of a person who has made any application under this Act (including an application for a grant of protection for a plant variety), or filed a notice or other document for the purposes of this Act, or at the written request of the person’s agent, amend the application, notice or document —
+
+(a) to correct a clerical error or an obvious mistake; or
+
+(b) if the Registrar is of the opinion that it is fair and reasonable in all the circumstances of the case to do so.
+
+[Act 16 of 2012 wef 30/07/2014]
+
 ### Fees
 
-50\.—(1) There shall be paid in respect of applications and other matters before the Registrar under this Act such fees as may be prescribed.
+50\.—(1) There shall be paid in respect of applications, grants, registrations and other matters under this Act such fees as may be prescribed.
+
+[Act 16 of 2012 wef 30/07/2014]
 
 (2) The Minister may make rules as to the remission of fees under prescribed circumstances.
 
-(3) All fees collected shall be paid into the funds of the Registry.
+(3) All fees collected shall be paid into the funds of the Office.
+
+[Act 16 of 2012 wef 30/07/2014]
 
 [Trade Marks 1999 Ed., s. 77]
 
@@ -1088,101 +1140,7 @@ may be prescribed for different classes of business.
 
 ## THE SCHEDULE
 
-Section 4
-
-Plant genera and species to which Act applies
-
-Botanical Name 
-
-Common Name 
-
-1.
-
-Orchids
-
-Dendrobium
-
-Dendrobium
-
-Mokara (Arachnis
-
-Ascocentrum
-
-Vanda)
-
-Mokara
-
-Oncidium
-
-Dancing Lady Orchid
-
-Vanda
-
-Vanda
-
-Aranda (Arachnis
-
-Vanda)
-
-Aranda
-
-Aranthera (Arachnis
-
-Renanthera)
-
-Aranthera
-
-Phalaenopsis
-
-Moth Orchid
-
-Renantanda (Renanthera
-
-Vanda)
-
-Renantanda
-
-2.
-
-Aquatic plants and Ornamentals
-
-Anubias
-
-Anubias
-
-Cryptocoryne
-
-Water Trumpet
-
-Echinodorus
-
-Amazon Sword Plant
-
-Limnophilla
-
-Asian Marsh Weed
-
-Heliconia
-
-Crab Claw Plant
-
-Jatropha curcas
-
-Physic Nut
-
-3.
-
-Vegetables
-
-Brassica rapa subsp. chinensis
-
-Baicai, Xiaobaicai
-
-Brassica rapa subsp. parachinensis
-
-Caixin
-
-[S 743/2013 wef 09/12/2013]
+[Deleted by Act 16 of 2014 wef 30/07/2014]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -1240,7 +1198,7 @@ Plant Varieties Protection Act
 
 (CHAPTER 232A)
 
-This Legislative History is provided for the convenience of users of the Plant Varieties Protection Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Plant Varieties Protection Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1253,12 +1211,23 @@ This Legislative History is provided for the convenience of users of the Plant V
 ||Date of operation|31 January 2006|
 |3.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
 ||Date of First Reading|8 November 2006|
-|||(Bill No. 14/2006 published on 16 February 2007)|
+|||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|1 March 2007|
 |4.|**G.N. No. S 743/2013—Plant Varieties Protection Act (Amendment of Schedule) Notification 2013**|
 ||Date of commencement|9 December 2013|
-|5.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendments) Act 2012**|
-||Date of First Reading|14 May 2012 (Bill No. 14/2012 published on 14 May 2012)|
+|5.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendment) Act 2012**|
+||Date of First Reading|14 May 2012|
+|||(Bill No. 14/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|7 March 2014|
+|6.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendment) Act 2012**|
+||Date of First Reading|14 May 2012|
+|||(Bill No. 14/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|30 July 2014|
+|7.|**Act 16 of 2014—Plant Varieties Protection (Amendment) Act 2014**|
+||Date of First Reading|17 February 2014|
+|||(Bill No. 9/2014 published on 17 February 2014)|
+||Date of Second and Third Readings|13 March 2014|
+||Date of commencement|30 July 2014|
