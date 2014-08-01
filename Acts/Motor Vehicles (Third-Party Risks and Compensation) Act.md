@@ -16,7 +16,9 @@
 
 - [5 Exclusion of liability in respect of passengers to be of no effect](#Exclusion-of-liability-in-respect-of-passengers-to-be-of-no-effect)
 
-- [6 Payment of compensation](#Payment-of-compensation)
+- [5A Composite settlement agreements](#Composite-settlement-agreements)
+
+- [6 Payment of compensation under settlement agreements](#Payment-of-compensation-under-settlement-agreements)
 
 - [7 Certain conditions in policies or securities to be of no effect](#Certain-conditions-in-policies-or-securities-to-be-of-no-effect)
 
@@ -41,6 +43,8 @@
 - [17 Deposits under this Act](#Deposits-under-this-Act)
 
 - [18 Prohibition of solicitation in respect of claims](#Prohibition-of-solicitation-in-respect-of-claims)
+
+- [18A Power of Public Trustee to obtain information](#Power-of-Public-Trustee-to-obtain-information)
 
 - [19 Public Trustee may appear in court](#Public-Trustee-may-appear-in-court)
 
@@ -82,9 +86,55 @@ An Act to provide against third-party risks arising out of the use of motor vehi
 
 2\. In this Act, unless the context otherwise requires —
 
+“appropriate Minister”, in relation to the exercise of powers under sections 20 and 24, means —
+
+(a) the Minister charged with the responsibility for the Public Trustee’s department insofar as those powers are exercised in connection with the purposes of sections 5A, 6, 9(1), (2), (2A), (2B), (2C), (3), (8), (8A) and (9), 18, 18A and 19; and
+
+(b) the Minister charged with the responsibility for land transport insofar as those powers are exercised in connection with the purposes of any other provision of this Act;
+
+[Act 22 of 2013 wef 01/08/2014]
+
 “Deputy Commissioner of Police” includes any police officer authorised by him in writing by name or office to exercise the powers vested by this Act in the Deputy Commissioner of Police;
 
+“detention barrack” means a building or any part thereof which is set apart by —
+
+(a) the Armed Forces Council under the Singapore Armed Forces Act (Cap. 295);
+
+(b) the Commissioner of Civil Defence under the Civil Defence Act (Cap. 42);
+
+(c) the Commissioner of Police under the Police Force Act (Cap. 235); or
+
+(d) the Commissioner of Police under the Vigilante Corps Act (Cap. 343),
+
+for the purpose of persons serving sentences of detention under the respective Acts;
+
+[Act 22 of 2013 wef 01/08/2014]
+
+“Minister” means the Minister charged with the responsibility for land transport;
+
+[Act 22 of 2013 wef 01/08/2014]
+
 “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
+
+“place of detention” means any of the following places:
+
+(a) a detention barrack;
+
+(b) a disciplinary barrack within the meaning of section 2(1) of the Singapore Armed Forces Act;
+
+(c) a military prison within the meaning of section 2(1) of the Singapore Armed Forces Act;
+
+(d) a place or premises declared under section 18 of the Intoxicating Substances Act (Cap. 146A) to be an approved centre for the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing a state of intoxication;
+
+(e) a prison within the meaning of section 2 of the Prisons Act (Cap. 247);
+
+(f) a hospital or part thereof designated under section 3 of the Mental Health (Care and Treatment) Act (Cap. 178A) to be a psychiatric institution;
+
+(g) a welfare home within the meaning of section 2(1) of the Destitute Persons Act (Cap. 78);
+
+(h) any other place as may be prescribed by the Minister charged with the responsibility for the Public Trustee’s department;
+
+[Act 22 of 2013 wef 01/08/2014]
 
 “policy of insurance” includes a cover note;
 
@@ -92,9 +142,35 @@ An Act to provide against third-party risks arising out of the use of motor vehi
 
 “Registrar” means the Registrar of Vehicles or a Deputy Registrar or Assistant Registrar appointed under the provisions of the Road Traffic Act (Cap. 276);
 
-“relevant amount” means $5,000 or, where an amount has been prescribed by the Minister under section 20 for the purposes of sections 6(1), 9(2) and (8) and 18(4), the prescribed amount;
+“relevant amount” means $5,000 or, where another amount has been prescribed under section 20 by the appropriate Minister for the purposes of sections 6(1), 9(1)(a) and (b) and 18(4), the prescribed amount;
+
+[Act 22 of 2013 wef 01/08/2014]
 
 “road” means any public road and any other road to which the public has access, and includes bridges over which a road passes;
+
+“specified person” means —
+
+(a) for the purposes of section 6, a person who is entitled to the benefit of a payment, pursuant to a settlement agreement, referred to in section 6(1) and who —
+
+(i) at the time the settlement agreement is made, is not represented by a public officer or an advocate and solicitor;
+
+(ii) at the time of the making of the payment under section 6(2), is isolated in a hospital or other place under section 15(1) or (2) of the Infectious Diseases Act (Cap. 137); or
+
+(iii) at the time of the making of the payment under section 6(2), is under legal custody in a place of detention; and
+
+(b) for the purposes of section 9, a person who is entitled to the benefit of a judgment referred to in section 9(1)(b) and who, at the time the judgment is given —
+
+(i) is below the age of 21 years;
+
+(ii) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
+
+(iii) is not represented by a public officer or an advocate and solicitor;
+
+(iv) is isolated in a hospital or other place under section 15(1) or (2) of the Infectious Diseases Act; or
+
+(v) is under legal custody in a place of detention;
+
+[Act 22 of 2013 wef 01/08/2014]
 
 “use” means use on any road.
 
@@ -262,15 +338,47 @@ in respect of the death of or bodily injury to any person arising out of the use
 
 [37/80]
 
-### Payment of compensation
+### Composite settlement agreements
 
-6\.—(1) Where any payment exceeding the relevant amount, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, that payment, together with any sum payable in respect of costs, shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
+5A\. In every case where 2 or more persons are entitled to the benefit of any payment of compensation made by an insurer or the owner of a motor vehicle under section 6 pursuant to a settlement agreement, the insurer or the owner of the motor vehicle, as the case may be, shall ensure that the settlement agreement states the amount of compensation and costs (where applicable) that each of the persons are entitled to.
 
-[26/94; 23/98; 28/2000]
+[Act 22 of 2013 wef 01/08/2014]
 
-(2) The Public Trustee may where he considers that any payment made to him under subsection (1) is manifestly inadequate require the parties to obtain the approval of the court before accepting payment.
+### Payment of compensation under settlement agreements
 
-(3) The moneys received by the Public Trustee under subsection (1) shall be distributed by him after payment of all costs and fees directly to the persons entitled thereto in accordance with the law for the time being in force and with any rules made under this Act.
+6\.—(1) This section applies to every payment (excluding any sum payable in respect of costs and interest) exceeding the relevant amount that —
+
+(a) is made by way of compensation by an insurer or the owner of a motor vehicle pursuant to a settlement agreement in respect of the death or bodily injury to a person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule; and
+
+(b) is not a liquidated sum specified in a policy of insurance.
+
+(2) Subject to subsections (3) and (4), the insurer or the owner of a motor vehicle shall make the payment, together with any sum payable in respect of costs and interest under the settlement agreement, directly to —
+
+(a) the Public Trustee as trustee for the person entitled to the benefit of the payment if the person is a specified person; or
+
+(b) in any other case, the person entitled to the benefit of the payment in accordance with the law for the time being in force and with any rules made under this Act.
+
+(3) Subject to subsection (5), no payment under subsection (2) shall be made until —
+
+(a) in the case where the person entitled to the benefit of the payment is a person referred to in paragraph (a)(i) of the definition of “specified person” in section 2, the insurer or the owner of the motor vehicle obtains —
+
+(i) the approval of the Public Trustee of the adequacy of the payment to be made; or
+
+(ii) where the Public Trustee considers it to be manifestly inadequate, the approval of the court of its adequacy; and
+
+(b) the costs payable to any public officer or any advocate and solicitor who acts or has acted in respect of the claim for compensation on behalf of the person entitled to the benefit of the payment have been determined in accordance with section 18(3).
+
+(4) Before making any payment under subsection (2), the insurer or the owner of a motor vehicle shall deduct from it the costs referred to in subsection (3)(b) and pay the costs directly to the public officer or the advocate and solicitor entitled to it.
+
+(5) Nothing in subsection (2)(a), (3) or (4) shall prevent an insurer or the owner of a motor vehicle from making any interim payment of compensation of any amount to any person entitled to the benefit thereof.
+
+(6) Every application to the Public Trustee for his approval under subsection (3)(a)(i) and every payment to the Public Trustee under subsection (2)(a) shall be made in such manner, and together with such documents and information, as the Public Trustee may require.
+
+(7) Subject to subsection (8), the Public Trustee shall, after deducting any fee payable to him for acting as trustee, distribute the moneys received by him under subsection (2)(a) directly to the persons entitled thereto in accordance with the law for the time being in force and with any rules made under this Act.
+
+(8) The Public Trustee may, where he receives moneys under subsection (2)(a) for a specified person who is below the age of 21 years, hold the moneys on trust for that person until that person attains the age of 21 years.
+
+[Act 22 of 2013 wef 01/08/2014]
 
 ### Certain conditions in policies or securities to be of no effect
 
@@ -306,23 +414,35 @@ shall as respects such liabilities as are required to be covered by a policy und
 
 ### Duty of insurers to satisfy judgments against persons insured in respect of third-party risks
 
-9\.—(1) If after a certificate of insurance has been issued under section 4(9) to the person by whom a policy has been effected judgment in respect of any such liability as is required to be covered by a policy under section 4(1)(b) (being a liability covered by the terms of the policy) is obtained against any person insured by the policy then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to this section, pay to the Public Trustee as trustee for the persons entitled thereto —
+9\.—(1) Subject to this section, if after a certificate of insurance has been issued under section 4(9) to the person by whom a policy has been effected, judgment in respect of any liability required to be covered by a policy under section 4(1)(b) (being a liability covered by the terms of the policy) is obtained against any person insured by the policy, then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the following shall apply to the insurer:
 
-(a) any sum payable thereunder in respect of the liability including any amount payable in respect of costs; and
+(a) where the sum payable (excluding any amount payable in respect of costs and interest by virtue of any written law relating to interest on judgments) under the judgment to any person entitled to the benefit of the judgment in respect of the liability does not exceed the relevant amount, the insurer may pay that sum, together with any amount payable in respect of costs and interest on the sum by virtue of any written law relating to interest on judgments, to the person; and
 
-(b) any sum payable in respect of interest on that sum by virtue of any written law relating to interest on judgments.
+(b) where the sum payable (excluding any amount payable in respect of costs and interest by virtue of any written law relating to interest on judgments) under the judgment to any person entitled to the benefit of the judgment in respect of the liability exceeds the relevant amount, the insurer shall —
 
-[26/94; 23/98]
+(i) pay that sum, together with any amount payable in respect of costs and interest on the sum by virtue of any written law relating to interest on judgments, directly to the Public Trustee as trustee for the person if the person is a specified person and the judgment requires the sum to be paid to the Public Trustee as trustee for the person; or
 
-(2) Notwithstanding subsection (1) providing for the payment to the Public Trustee —
+(ii) in any other case, pay that sum, together with any amount payable in respect of costs and interest on the sum by virtue of any written law relating to interest on judgments, directly to the person in accordance with the judgment and with any rules made under this Act.
 
-(a) where the judgment is for a sum not exceeding the relevant amount, the insurer may pay the sum to the person or persons entitled to the benefit of the judgment; and
+[Act 22 of 2013 wef 01/08/2014]
 
-(b) the right of action thereby created shall vest in the person or persons entitled to the benefit of the judgment payable thereunder.
+(2) Notwithstanding subsection (1)(b)(i) providing for payment to the Public Trustee, the right of action created by the judgment referred to in that subsection shall vest in the person or persons entitled to the benefit of the judgment.
 
-[23/98; 28/2000]
+[Act 22 of 2013 wef 01/08/2014]
 
-(3) No sum shall be payable by an insurer under subsections (1) and (2) —
+(2A) Subject to subsection (2C), no payment shall be made under subsection (1)(b) until the costs payable to any public officer or any advocate and solicitor who acts or has acted in respect of the claim or action (relating to the judgment) on behalf of the person entitled to the benefit of the judgment have been determined in accordance with section 18(3).
+
+[Act 22 of 2013 wef 01/08/2014]
+
+(2B) Before making any payment under subsection (1)(b), the insurer shall deduct from it the costs referred to in subsection (2A) and pay the costs directly to the public officer or the advocate and solicitor entitled to it.
+
+[Act 22 of 2013 wef 01/08/2014]
+
+(2C) Nothing in subsection (1)(b)(i), (2A) or (2B) shall prevent the insurer from making any interim payment of compensation of any amount to any person entitled to the benefit thereof.
+
+[Act 22 of 2013 wef 01/08/2014]
+
+(3) No sum shall be payable by an insurer under subsections (1) and (2B) —
 
 (a) in respect of any judgment unless before or within 7 days after the commencement of the proceedings in which the judgment was given the insurer had notice of the bringing of the proceedings;
 
@@ -336,7 +456,11 @@ shall as respects such liabilities as are required to be covered by a policy und
 
 (iii) before or after the happening of that event but within the period of 14 days the insurer commenced proceedings under this Act in respect of the failure to surrender the certificate.
 
-(4) No sum shall be payable by an insurer under subsections (1), (2) and (3) if in an action commenced before or within 3 months after the commencement of the proceedings in which the judgment was given he has obtained a declaration that apart from any provision contained in the policy he is entitled to avoid it on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular or, if he has avoided the policy on that ground, that he was entitled to do so apart from any provision contained in it.
+[Act 22 of 2013 wef 01/08/2014]
+
+(4) No sum shall be payable by an insurer under (3)subsections (1), (2B) and (3) if in an action commenced before or within 3 months after the commencement of the proceedings in which the judgment was given he has obtained a declaration that apart from any provision contained in the policy he is entitled to avoid it on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular or, if he has avoided the policy on that ground, that he was entitled to do so apart from any provision contained in it.
+
+[Act 22 of 2013 wef 01/08/2014]
 
 (5) An insurer who has obtained a declaration under subsection (4) in an action shall not thereby become entitled to the benefit of that subsection as respects any judgment obtained in proceedings commenced before the commencement of that action unless before or within 7 days after the commencement of that action he has given notice thereof to the person who is the plaintiff in those proceedings specifying the non-disclosure or false representation on which he proposes to rely and any person to whom notice of such an action is so given shall be entitled if he thinks fit to be made a party thereto.
 
@@ -344,13 +468,27 @@ shall as respects such liabilities as are required to be covered by a policy und
 
 (7) In this Act references to a certificate of insurance in any provision relating to the surrender or the loss or destruction of a certificate of insurance shall in relation to policies under which more than one certificate is issued be construed as references to all the certificates and shall where any copy has been issued of any certificate be construed as including a reference to that copy.
 
-(8) Every judgment for a sum exceeding the relevant amount in respect of any such liability as is required to be covered by a policy under section 4(1)(b) shall provide that the sums payable under the judgment shall be paid to the Public Trustee as trustee for the persons entitled to the benefit of the judgment.
+(8) Every judgment referred to in subsection (1)(b) —
 
-[26/94; 28/2000]
+(a) shall state the amount payable to each person entitled to the benefit of the judgment; and
 
-(9) The moneys received by the Public Trustee under a judgment in accordance with subsection (1) shall be distributed by him, after payment of all costs and fees, directly to the persons entitled in accordance with the judgment of the court and with any rules made under this Act.
+(b) shall require the costs referred to in subsection (2A) to be paid directly to the public officer or the advocate and solicitor entitled to it.
+
+[Act 22 of 2013 wef 01/08/2014]
+
+(8A) Every payment to the Public Trustee under subsection (1)(b)(i) shall be made in such manner, and together with such documents and information, as the Public Trustee may require.
+
+[Act 22 of 2013 wef 01/08/2014]
+
+(9) The Public Trustee shall, after deducting any fee payable to him for acting as trustee, distribute the moneys received by him under a judgment in accordance with subsection (1)(b)(i) directly to the persons entitled in accordance with the judgment and with any rules made under this Act.
+
+[Act 22 of 2013 wef 01/08/2014]
 
 (10) In this section —
+
+“judgment” includes an approval of the court obtained under Order 76, Rule 10 or 11 of the Rules of Court (Cap. 322, R 5);
+
+[Act 22 of 2013 wef 01/08/2014]
 
 “material” means of such a nature as to influence the judgment of a prudent insurer in determining whether he will take the risk and if so at what premium and on what conditions;
 
@@ -484,19 +622,27 @@ no agreement made between the insurer and the insured after liability has been i
 
 [28/2000]
 
-(4) Subsection (3) shall not apply to a public officer or an advocate and solicitor claiming costs in respect of a judgment or settlement for a sum not exceeding the relevant amount.
+(3A) For the purpose of subsection (3)(a), an application to the Public Trustee by a public officer or an advocate and solicitor for an agreement on costs shall be made in such manner, and together with such documents and information, as the Public Trustee may require.
+
+[Act 22 of 2013 wef 01/08/2014]
+
+(4) Subsection (3) shall not apply to a public officer or an advocate and solicitor claiming costs in respect of a judgment or settlement for a sum (excluding any amount payable in respect of costs and interest) not exceeding the relevant amount.
 
 [28/2000]
+
+[Act 22 of 2013 wef 01/08/2014]
 
 (5) For the purposes of subsection (3)(c), “relevant date” means —
 
-(a) the date the Public Trustee accepts or the court approves the payment referred to in section 6, as the case may be; or
+(a) in relation to a settlement agreement referred to in section 6(1) —
 
-(b) the date the judgment of the court referred to in section 9(1) is given,
+(i) in the case where the quantum of the compensation payable under the settlement agreement requires the approval of the Public Trustee or the court under section 6(3)(a), the date of such approval; and
 
-as the case may be.
+(ii) in any other case, the date of the settlement agreement; and
 
-[28/2000]
+(b) in relation to a judgment referred to in section 9(1), the date the judgment is given.
+
+[Act 22 of 2013 wef 01/08/2014]
 
 (6) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -510,6 +656,22 @@ as the case may be.
 
 [28/2000]
 
+### Power of Public Trustee to obtain information
+
+18A\.—(1) The Public Trustee may by notice in writing require a person to furnish, within such period and in such manner specified in the notice, any document or information that the Public Trustee may reasonably require for the discharge of his duties or functions, or the exercise of his powers, under this Act.
+
+(2) The Public Trustee shall be entitled without payment to keep any copy of or extract from a document furnished under subsection (1).
+
+(3) Any person who —
+
+(a) without reasonable excuse, fails to comply with any requirement under subsection (1); or
+
+(b) in purported compliance with any requirement under subsection (1), knowingly or recklessly furnishes to the Public Trustee any document or information that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months.
+
+[Act 22 of 2013 wef 01/08/2014]
+
 ### Public Trustee may appear in court
 
 19\. The Public Trustee shall have the right to appear and be heard in a court in any proceedings under this Act or in relation to any claim or action for damages for the death or bodily injury of any person arising out of the use of a motor vehicle.
@@ -520,13 +682,15 @@ as the case may be.
 
 ### Power to amend sums specified in certain provisions
 
-20\. The Minister may, by order published in theGazette, amend the following provisions of this Act by substituting a different sum for any sum for the time being specified therein:
+20\. The appropriate Minister may, by order published in theGazette, amend the following provisions of this Act by substituting a different sum for any sum for the time being specified therein:
 
-Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(2)(a) and (8) and 18(4).
+Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(1)(a) and (b) and 18(4).
 
 [19A
 
 [23/98]
+
+[Act 22 of 2013 wef 01/08/2014]
 
 ### Application of this Act to securities
 
@@ -552,11 +716,15 @@ Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(2)(a) and (8) and 18(4).
 
 ### Rules
 
-24\.—(1) The Minister may make rules for prescribing anything which may be prescribed under this Act and generally for the purpose of carrying this Act into effect and in particular but without prejudice to the generality of this provision may make rules —
+24\.—(1) The appropriate Minister may make rules for prescribing anything which may be prescribed under this Act and generally for the purpose of carrying this Act into effect and in particular but without prejudice to the generality of this provision may make rules —
 
 (a) to prescribe the forms to be used for the purposes of this Act;
 
 (b) as to applications for and the issue of certificates of insurance and any other documents which may be prescribed and as to the keeping of records of documents and the furnishing of particulars thereof or the giving of information with respect thereto to the Minister or to the Deputy Commissioner of Police;
+
+(ba) as to the fees to be paid to the Public Trustee for anything to be done under this Act;
+
+[Act 22 of 2013 wef 01/08/2014]
 
 (c) as to the manner in which moneys received by the Public Trustee under this Act shall be distributed;
 
@@ -570,6 +738,8 @@ Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(2)(a) and (8) and 18(4).
 
 [23/98]
 
+[Act 22 of 2013 wef 01/08/2014]
+
 (2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
 (3) If a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
@@ -578,7 +748,7 @@ Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(2)(a) and (8) and 18(4).
 
 ## THE SCHEDULE
 
-Sections 3(1)(b) and (9), 4(1)(b), (2)(b) and (5) and 6(1)
+6(1)Sections 3(1)(b) and (9), 4(1)(b), (2)(b) and (5) and 6(1)(a)
 
 Territory
 
@@ -658,6 +828,10 @@ This Legislative History is provided for the convenience of users of the Motor V
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|15.|**Act 22 of 2013—Motor Vehicles (Third-Party Risks and Compensation) (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013 (Bill No. 18/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 August 2014|
 ## COMPARATIVE TABLE
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
