@@ -190,13 +190,13 @@
 
 [**SECOND SCHEDULE Dangerous Infectious Diseases**](#SECOND-SCHEDULE-Dangerous-Infectious-Diseases)
 
-[**THIRD SCHEDULE Requirements As to Vaccination and Other Prophylaxis**](#THIRD-SCHEDULE-Requirements-As-to-Vaccination-and-Other-Prophylaxis)
+[**THIRD SCHEDULE Requirements as to vaccination and other prophylaxis**](#THIRD-SCHEDULE-Requirements-as-to-vaccination-and-other-prophylaxis)
 
-[**FOURTH SCHEDULE Diseases Against Which A Child Is to be Vaccinated**](#FOURTH-SCHEDULE-Diseases-Against-Which-A-Child-Is-to-be-Vaccinated)
+[**FOURTH SCHEDULE Diseases against which a child is to be vaccinated**](#FOURTH-SCHEDULE-Diseases-against-which-a-child-is-to-be-vaccinated)
 
-[**FIFTH SCHEDULE Diseases in Respect of Which Acts Referred to in Section 21a Are Prohibited**](#FIFTH-SCHEDULE-Diseases-in-Respect-of-Which-Acts-Referred-to-in-Section-21a-Are-Prohibited)
+[**FIFTH SCHEDULE Diseases in respect of which Acts referred to in section 21A are prohibited**](#FIFTH-SCHEDULE-Diseases-in-respect-of-which-Acts-referred-to-in-section-21A-are-prohibited)
 
-[**SIXTH SCHEDULE Diseases in Respect of Which Information May be Disclosed by the Director to A Person to Enable Him to Take Steps to Prevent Spread of Diseases**](#SIXTH-SCHEDULE-Diseases-in-Respect-of-Which-Information-May-be-Disclosed-by-the-Director-to-A-Person-to-Enable-Him-to-Take-Steps-to-Prevent-Spread-of-Diseases)
+[**SIXTH SCHEDULE Diseases in respect of which information may be disclosed by the Director to a person to enable him to take steps to prevent spread of diseases**](#SIXTH-SCHEDULE-Diseases-in-respect-of-which-information-may-be-disclosed-by-the-Director-to-a-person-to-enable-him-to-take-steps-to-prevent-spread-of-diseases)
 
 [**Legislative History**](#Legislative-History)
 
@@ -206,7 +206,7 @@
 
 (CHAPTER 137)
 
-(Original Enactment: 2003 REVISED EDITION)
+(Original Enactment: Act 21 of 1976)
 
 REVISED EDITION 2003
 
@@ -248,6 +248,8 @@ PRELIMINARY
 
 “Director” means the Director of Medical Services and includes a Deputy Director of Medical Services;
 
+[10/2008 wef 10/06/2008]
+
 “Director-General” means the Director-General of the Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
 
 “Health Officer” means a Health Officer appointed by the Director-General or the Director under section 4;
@@ -257,6 +259,8 @@ PRELIMINARY
 “HIV Infection” means Human Immunodeficiency Virus Infection;
 
 “infected” means infected with the micro-organism or agent of an infectious disease;
+
+[10/2008 wef 10/06/2008]
 
 “infectious disease” means —
 
@@ -269,6 +273,8 @@ PRELIMINARY
 (ii) that is capable or is suspected to be capable of transmission by any means to human beings; and
 
 (iii) that, the Director has reason to believe, if left uninvestigated or unchecked, is likely to result in an epidemic of the disease;
+
+[10/2008 wef 10/06/2008]
 
 “isolation”, in relation to a person or group of persons, means the separation of that person or group of persons from any other persons, other than —
 
@@ -284,7 +290,11 @@ PRELIMINARY
 
 (a) in relation to sections 3(1), 7(1), 10(1), 17(1) and (2), 17A, 19(7) and (8), 21(6) and (7), 25(1)(k), 26, 47, 52, 54, 57A, 58(1) and 59A(1)(b), the Minister charged with the responsibility for health; and
 
+[10/2008 wef 10/06/2008]
+
 (b) in relation to section 3(2), the Minister charged with the responsibility for the environment and water resources;
+
+[10/2008 wef 10/06/2008]
 
 “minor” means a person who is below the age of 21 years;
 
@@ -394,8 +404,6 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (b) any other disease which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
 
-[10/2008 wef 10/06/2008]
-
 (2) For the purpose of any public health surveillance programme, epidemiological investigation or survey under subsection (1), the Director may require any person —
 
 (a) to furnish him, within such time as he may specify, with —
@@ -406,11 +414,7 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (b) to submit to such medical examination as he thinks fit.
 
-[10/2008 wef 10/06/2008]
-
 (3) If a person who is required by the Director under subsection (2) to furnish the Director with any information or sample, or to submit to any medical examination, fails, without reasonable excuse, to do so, he shall be guilty of an offence.
-
-[10/2008 wef 10/06/2008]
 
 (4) The Director may send any sample obtained under subsection (2)(a)(ii) for such test, examination or analysis as he may consider necessary or expedient.
 
@@ -420,15 +424,9 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 8\.—(1) The Director may require any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination or medical treatment within or at such time, and at such place, as the Director may determine.
 
-[10/2008 wef 10/06/2008]
-
 (2) For the purpose of subsection (1), the medical examination may include X-rays and the taking of the person’s blood and other body samples for testing and analysis.
 
-[10/2008 wef 10/06/2008]
-
 (3) Where the person who is, or is suspected to be, a case or carrier or contact of an infectious disease is a minor, the Director may require the parent or guardian of the minor to have the minor medically examined or treated at such times and at such hospital or other place as the Director may determine.
-
-[10/2008 wef 10/06/2008]
 
 (4) Any person who fails, without reasonable excuse, to comply with the requirement of the Director under this section shall be guilty of an offence.
 
@@ -666,7 +664,7 @@ for such period of time and subject to such conditions as may be specified by th
 
 [7/2003]
 
-(8) Goods brought into or removed from an isolation area in contravention of an order under subsection (3) shall be forfeited to the Government and may be seized, dealt with and disposed of in accordance with section 60(2) and (3) as if those goods were any substance or matter referred to in section 60(1)(c).
+(8) Goods brought into or removed from an isolation area in contravention of an order under subsection (3) shall be forfeited to the Government and may be seized, dealt with and disposed of in accordance with section 55(2) and (3) as if those goods were any substance or matter referred to in section 55(1)(c).
 
 [7/2003]
 
@@ -674,35 +672,21 @@ for such period of time and subject to such conditions as may be specified by th
 
 17A\.—(1) If the Minister is satisfied that there is an outbreak or imminent outbreak of an infectious disease that poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore, he may, by order, declare a public health emergency.
 
-[10/2008 wef 10/06/2008]
-
 (2) The Minister may, if it appears necessary or expedient for the securing of public health or safety during a public health emergency, by order declare the whole of or such area in Singapore to be a restricted zone and may in such order prohibit or restrict, subject to such conditions as he may think fit —
 
 (a) the entry and stay of persons in any place, building or other premises (whether public or private) within the restricted zone; and
 
 (b) the holding of, or the attendance of persons at, any public meeting, reception, procession or other gathering within the restricted zone.
 
-[10/2008 wef 10/06/2008]
-
 (3) Subject to subsection (4), every order made under subsection (1) or (2) shall remain in force until it is revoked by the Minister or upon the expiration of 14 days from the date upon which it was made, whichever is the earlier.
-
-[10/2008 wef 10/06/2008]
 
 (4) An order made under subsection (1) or (2) may be renewed by declaration of the Minister from time to time for such period, not exceeding 14 days at a time, as may be specified in the declaration.
 
-[10/2008 wef 10/06/2008]
-
 (5) An order made under subsection (1) or (2) and a declaration of renewal made under subsection (4) shall be published in such manner as the Minister thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof and shall have effect as soon as such notice has been given, without publication in theGazette.
-
-[10/2008 wef 10/06/2008]
 
 (6) A copy of every order made under subsection (1) or (2) and of every declaration of renewal made under subsection (4) shall be published in theGazetteand shall be presented to Parliament as soon as possible after it has been made and if a resolution is passed by Parliament annulling the order or declaration, it shall cease to have effect, notwithstanding subsection (3) or (4) (whichever is applicable), but without prejudice to anything previously done by virtue thereof.
 
-[10/2008 wef 10/06/2008]
-
 (7) Where an order referred to in subsection (2)(b) is in force, any public officer or officer of any statutory body who is authorised in writing by the Director (hereinafter referred to as an authorised person) or any police officer may direct the persons at any public meeting, reception, procession or other gathering within the restricted zone to disperse and it shall thereupon be the duty of the persons so directed to disperse accordingly.
-
-[10/2008 wef 10/06/2008]
 
 (8) Any person who refuses or fails, without reasonable excuse, to comply with an order made under subsection (2) or with any direction given by an authorised person or a police officer under subsection (7) —
 
@@ -754,31 +738,17 @@ and may require the owner or occupier of the premises to —
 
 (ii) carry out such additional measures as the Director may require in the manner and within the time specified in the notice.
 
-[10/2008 wef 10/06/2008]
-
 (2) A notice under subsection (1)(a) directing the owner or the occupier of the premises to close the premises may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by notice in writing, specify.
-
-[10/2008 wef 10/06/2008]
 
 (3) Subject to subsection (7), any person who fails to comply with a notice given to him by the Director under subsection (1) shall be guilty of an offence.
 
-[10/2008 wef 10/06/2008]
-
 (4) When any premises have been ordered to be closed under subsection (1)(a), any person who enters those premises without the permission of the Director shall be guilty of an offence.
-
-[10/2008 wef 10/06/2008]
 
 (5) Without prejudice to any proceedings under subsection (3), where a notice issued by the Director under subsection (1) has not been complied with, the Director, a Health Officer or a police officer may, without warrant and with such force as may be necessary, enter the premises to which the notice relates and close the premises or take or cause to be taken such measures as have been specified in the notice.
 
-[10/2008 wef 10/06/2008]
-
 (6) The costs and expenses incurred by the Director or a Health Officer under subsection (5) shall be paid by the person in default and may be recovered as a debt due to the Government.
 
-[10/2008 wef 10/06/2008]
-
 (7) Any person who is aggrieved by any order or requirement of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the Minister whose decision shall be final.
-
-[10/2008 wef 10/06/2008]
 
 (8) Notwithstanding that any appeal under subsection (7) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
 
@@ -878,11 +848,11 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (a) to undergo counselling at such time and at such hospital or other place as the Director may determine; and
 
+[10/2008 wef 10/06/2008]
+
 (b) to comply with such precautions and safety measures as may be specified by the Director.
 
 [5/92; 13/99]
-
-[10/2008 wef 10/06/2008]
 
 (2) Any person who fails or refuses to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -896,8 +866,6 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (b) that other person has voluntarily agreed to accept that risk.
 
-[10/2008 wef 10/06/2008]
-
 (2) A person who does not know that he has AIDS or HIV Infection, but who has reason to believe that he has, or has been exposed to a significant risk of contracting, AIDS or HIV Infection shall not engage in any sexual activity with another person unless —
 
 (a) before the sexual activity takes place he informs that other person of the risk of contracting AIDS or HIV Infection from him and that other person voluntarily agrees to accept that risk;
@@ -906,23 +874,13 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (c) during the sexual activity, he takes reasonable precautions to ensure that he does not expose that other person to the risk of contracting AIDS or HIV Infection.
 
-[10/2008 wef 10/06/2008]
-
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
-
-[10/2008 wef 10/06/2008]
 
 (4) For the purposes of this section, a person shall not, only by reason of age, be presumed incapable of engaging in sexual activity.
 
-[10/2008 wef 10/06/2008]
-
 (5) For the purposes of this section, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
 
-[10/2008 wef 10/06/2008]
-
 (6) No prosecution shall be instituted for an offence under subsection (2) except with the written consent of the Public Prosecutor, but a person charged with such an offence may be arrested and be remanded in custody or released on bail notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, except that the case shall not be further prosecuted until that consent of the Public Prosecutor has been obtained.
-
-[10/2008 wef 10/06/2008]
 
 [15/2010 wef 02/01/2011]
 
@@ -971,6 +929,8 @@ CONTROL OF AIDS AND HIV INFECTION
 (c) when ordered to do so by a court;
 
 (d) to any medical practitioner or other health staff who is treating or caring for, or counselling, the other person;
+
+[10/2008 wef 10/06/2008]
 
 (e) to any blood, organ, semen or breast milk bank that has received or will receive any blood, organ, semen or breast milk from the other person;
 
@@ -1338,6 +1298,8 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 VACCINATION AND OTHER PROPHYLAXIS
 
+[10/2008 wef 10/06/2008]
+
 ### Responsibility of parent or guardian
 
 46\.—(1) The parent or guardian of every child in Singapore shall ensure that the child is vaccinated against the diseases set out in the Fourth Schedule.
@@ -1388,6 +1350,8 @@ the Minister may by order direct any person or class of persons not protected or
 
 (a) keep in the prescribed manner a record of all vaccination carried out by him or under his supervision; and
 
+[10/2008 wef 10/06/2008]
+
 (b) within the prescribed period after carrying out any vaccination, notify in the prescribed manner —
 
 (i) the Director or any officer of the Board who is designated by the Director for the purpose; and
@@ -1434,7 +1398,7 @@ the Minister may by order direct any person or class of persons not protected or
 
 (2) The Minister shall, on the termination of such epidemic, by notification in theGazetterestore such provisions of this Part that he has suspended and order all persons affected by the suspension to perform within such time as he may specify all acts that remained to be performed by reason of the suspension.
 
-53\. [Deleted by Act 10/2008 wef 10/06/2008]
+53\. [Repealed by Act 10/2008 wef 10/06/2008]
 
 ### Fees for vaccinations and other prophylaxis
 
@@ -1476,7 +1440,11 @@ and may, if necessary, further require such person to attend at a specified time
 
 (f) require, by notice in writing, any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination and have his blood or other body sample taken for examination within or at such time, and at such place, as may be specified in such notice, and to undergo such treatment as may be necessary;
 
+[10/2008 wef 10/06/2008]
+
 (g) subject to subsection (5), order the closure or cordoning off of any public place in which the outbreak or suspected outbreak, or the transmission or suspected transmission, of an infectious disease has taken place;
+
+[10/2008 wef 10/06/2008]
 
 (h) subject to subsections (6) and (7), requisition, for such period as the Director or Health Officer thinks necessary —
 
@@ -1487,6 +1455,8 @@ and may, if necessary, further require such person to attend at a specified time
 (i) by order prohibit or restrict the movement of persons, animals and conveyances into, within or out of any public place referred to in paragraph (g) or any premises referred to in paragraph (h)(i).
 
 [5/2003; 7/2003]
+
+[10/2008 wef 10/06/2008]
 
 (2) Where the Director or Health Officer seizes any substance or matter under subsection (1)(c) —
 
@@ -1560,15 +1530,11 @@ and may, if necessary, further require such person to attend at a specified time
 
 (b) at any time without warrant and with such force as may be necessary stop, board, enter, inspect and search any premises or conveyance, as the case may be, and take samples of or seize any substance or matter found on the premises or conveyance.
 
-[10/2008 wef 10/06/2008]
-
 (2) A statement made by any person giving evidence under subsection (1)(a) —
 
 (a) shall be reduced to writing and read over to him; and
 
 (b) shall, after correction (if any), be signed by him.
-
-[10/2008 wef 10/06/2008]
 
 (3) Any person who, without reasonable excuse —
 
@@ -1578,11 +1544,7 @@ and may, if necessary, further require such person to attend at a specified time
 
 shall be guilty of an offence.
 
-[10/2008 wef 10/06/2008]
-
 (4) For the purposes of subsection (3), it is a reasonable excuse for a person to refuse or fail to furnish any information, produce any book, document or other record or answer any question if doing so might tend to incriminate him.
-
-[10/2008 wef 10/06/2008]
 
 (5) For the purposes of subsection (1)(a)(i), where any document or record required by a police officer or Health Officer is kept in electronic form, then —
 
@@ -1596,8 +1558,6 @@ shall be guilty of an offence.
 
 56\.—(1) Any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under section 11(1), 20(2), 21A(4), 23(3), 24(2) or 55(8).
 
-[10/2008 wef 10/06/2008]
-
 (2) Subject to subsection (1), any police officer, or any Health Officer authorised in writing in that behalf by the Director-General or the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under this Act if —
 
 (a) the name and address of the person are unknown to him;
@@ -1608,27 +1568,17 @@ shall be guilty of an offence.
 
 (d) there is reason to doubt the accuracy of the name and address if given.
 
-[10/2008 wef 10/06/2008]
-
 (3) Subject to subsection (7), any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person who —
 
 (a) being required to be isolated in any place under the provisions of this Act, has failed to proceed to that place or has left or attempted to leave that place; or
 
 (b) being required to undergo or submit to any surveillance, medical examination or medical treatment under the provisions of this Act, has failed to undergo or submit to such surveillance, examination or treatment or comply with any condition relating to his surveillance.
 
-[10/2008 wef 10/06/2008]
-
 (4) Any person arrested under subsection (2) shall, within 24 hours from the arrest or immediately in the case of a person who gives his address as a place outside Singapore, be taken before a Magistrate’s Court, unless before that time his true name and residence are ascertained, in which case he shall be immediately released on his executing a bond with or without sureties before a police officer not below the rank of inspector for his appearance before a Magistrate’s Court, if so required.
-
-[10/2008 wef 10/06/2008]
 
 (5) Without prejudice to subsection (4), no person arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
-[10/2008 wef 10/06/2008]
-
 (6) The Director may issue any order under this Act for the isolation, surveillance, medical examination or medical treatment of a person arrested under subsection (3).
-
-[10/2008 wef 10/06/2008]
 
 (7) Where a person who has failed to comply with any of the requirements referred to in subsection (3)(a) or (b) is unable to do so by reason of his age or any infirmity of body or mind, the police officer or Health Officer may, instead of arresting that person, take such measures as he thinks fit —
 
@@ -1644,8 +1594,6 @@ for such period of time and subject to such conditions as the Director thinks ne
 
 (c) in a case where that person is to undergo medical examination or medical treatment, to cause that person to be medically examined or treated.
 
-[10/2008 wef 10/06/2008]
-
 (8) The measures referred to in subsection (7) may extend to —
 
 (a) the entry into any premises without a warrant; and
@@ -1654,7 +1602,7 @@ for such period of time and subject to such conditions as the Director thinks ne
 
 [10/2008 wef 10/06/2008]
 
-56A\. [Deleted by Act 10/2008 wef 10/06/2008]
+56A\. [Repealed by Act 10/2008 wef 10/06/2008]
 
 ### Police officer or Health Officer may demand names and addresses in certain cases
 
@@ -1682,19 +1630,11 @@ for such period of time and subject to such conditions as the Director thinks ne
 
 (b) to the World Health Organisation or a State Party to the World Health Organisation if such disclosure is necessary to comply with an international obligation of Singapore.
 
-[10/2008 wef 10/06/2008]
-
 (2) The Director may, in disclosing any information to any person under subsection (1)(a)(i), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
-
-[10/2008 wef 10/06/2008]
 
 (3) The Minister may, in giving his approval for the disclosure of any information under subsection (1)(a)(ii), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
 
-[10/2008 wef 10/06/2008]
-
 (4) A person to whom the Director has disclosed any information under subsection (1)(a) may only disclose or use such information to the extent necessary for implementing any measure permitted by the Director for the purpose of preventing the spread or possible outbreak of that infectious disease, but not otherwise.
-
-[10/2008 wef 10/06/2008]
 
 (5) Any person who —
 
@@ -1703,8 +1643,6 @@ for such period of time and subject to such conditions as the Director thinks ne
 (b) contravenes subsection (4),
 
 shall be guilty of an offence.
-
-[10/2008 wef 10/06/2008]
 
 (6) This section shall apply without prejudice to any other right of disclosure under this Act or any other written law or rule of law.
 
@@ -1736,8 +1674,6 @@ NATIONAL PUBLIC HEALTH RESEARCH
 
 (b) any other disease which is, or which the Minister suspects to be, of an infectious nature, and which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
 
-[10/2008 wef 10/06/2008]
-
 (2) In deciding whether to undertake or facilitate any public health research under subsection (1), the Director shall consider —
 
 (a) whether there is an outbreak or a significant likelihood of an outbreak in Singapore of the disease to which the research relates;
@@ -1745,8 +1681,6 @@ NATIONAL PUBLIC HEALTH RESEARCH
 (b) whether the disease to which the research relates poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore; and
 
 (c) whether the new knowledge that may be acquired or the new or improved materials, devices, processes or products that may be discovered or created as a result of the research will result in any significant public health benefit to Singapore.
-
-[10/2008 wef 10/06/2008]
 
 (3) For the purposes of any research under subsection (1), the Director may —
 
@@ -1758,19 +1692,13 @@ NATIONAL PUBLIC HEALTH RESEARCH
 
 (b) require any medical practitioner, over such period as the Director may specify, to obtain, with the requisite consent, such information or samples (including human samples) as the Director may consider necessary or appropriate from the patients under his care, and to furnish such information or samples to the Director.
 
-[10/2008 wef 10/06/2008]
-
 (4) Where any person is required by the Director to furnish any information or human sample under subsection (3), he shall cause the information or human sample to be anonymised before it is furnished to the Director.
-
-[10/2008 wef 10/06/2008]
 
 (5) For the purpose of subsection (1), the Director may, subject to such conditions as he thinks fit to impose —
 
 (a) send any anonymised information or human sample received by him under subsection (3) to a third party to carry out such test, examination or analysis as the Director may consider necessary; or
 
 (b) provide any anonymised information or human sample received by him under subsection (3) to a third party who is engaged in any research concerning an infectious disease.
-
-[10/2008 wef 10/06/2008]
 
 (6) It shall be an offence for any person —
 
@@ -1779,8 +1707,6 @@ NATIONAL PUBLIC HEALTH RESEARCH
 (b) to deliberately identify or attempt to identify, from any anonymised information or human sample received by him from the Director pursuant to subsection (3), the identity of the person to whom the information relates or from whom the human sample was obtained; or
 
 (c) to breach any condition imposed under subsection (5).
-
-[10/2008 wef 10/06/2008]
 
 (7) In this section —
 
@@ -1956,15 +1882,15 @@ shall be guilty of an offence.
 
 ### Transitional and saving provisions
 
-74\.—(1) Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 20021shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+74\.—(1) Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 2002\*shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-1Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002).
+\*Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002).
 
 [4/2002]
 
-(2) All orders made under sections 8, 15 and 16, as in force immediately before 27th April 20032, shall as from 27th April 2003 continue to be valid and effective as if they were orders made under sections 8, 15 and 16 (as amended by the Infectious Diseases (Amendment No. 2) Act 2003 (Act 7 of 2003).
+(2) All orders made under sections 8, 15 and 16, as in force immediately before 27th April 2003†, shall as from 27th April 2003 continue to be valid and effective as if they were orders made under sections 8, 15 and 16 (as amended by the Infectious Diseases (Amendment No. 2) Act 2003 (Act 7 of 2003).
 
-2Date of commencement of the Infectious Diseases (Amendment No. 2) Act 2003 (Act 7 of 2003)
+†Date of commencement of the Infectious Diseases (Amendment No. 2) Act 2003 (Act 7 of 2003).
 
 [7/2003]
 
@@ -1974,71 +1900,141 @@ Section 2
 
 Infectious Diseases
 
-1\. Acquired Immune Deficiency Syndrome (AIDS).
+1. 
 
-2\. Avian Influenza.
+Acquired Immune Deficiency Syndrome (AIDS).
 
-3\. Campylobacteriosis.
+2. 
 
-4\. Chikungunya Fever.
+Avian Influenza.
 
-5\. Cholera.
+3. 
 
-6\. Dengue Fever.
+Campylobacteriosis.
 
-7\. Dengue Haemorrhagic Fever.
+4. 
 
-8\. Diphtheria.
+Chikungunya Fever.
 
-9\. Encephalitis, Viral.
+5. 
 
-10\. Haemophilus Influenzae Type b (Hib) Disease.
+Cholera.
 
-11\. Hand, Foot and Mouth Disease.
+6. 
 
-12\. Hepatitis, Viral.
+Dengue Fever.
 
-13\. Human Immunodeficiency Virus Infection (Non-AIDS).
+7. 
 
-14\. Legionellosis.
+Dengue Haemorrhagic Fever.
 
-15\. Leprosy.
+8. 
 
-16\. Malaria.
+Diphtheria.
 
-17\. Measles.
+8A. 
 
-18\. Melioidosis.
+Ebola Virus Disease (EVD).
 
-19\. Meningococcal Disease.
+[S 523/2014 wef 08/08/2014]
 
-19A. Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+9. 
+
+Encephalitis, Viral.
+
+10. 
+
+Haemophilus Influenzae Type b (Hib) Disease.
+
+11. 
+
+Hand, Foot and Mouth Disease.
+
+12. 
+
+Hepatitis, Viral.
+
+13. 
+
+Human Immunodeficiency Virus Infection (Non-AIDS).
+
+14. 
+
+Legionellosis.
+
+15. 
+
+Leprosy.
+
+16. 
+
+Malaria.
+
+17. 
+
+Measles.
+
+18. 
+
+Melioidosis.
+
+19. 
+
+Meningococcal Disease.
+
+19A. 
+
+Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
 
 [S 395/2014 wef 05/06/2014]
 
-20\. Mumps.
+20. 
 
-21\. Nipah Virus Infection.
+Mumps.
 
-21A\. [Deleted by S 395/2014 wef 05/06/2014]
+21. 
 
-22\. Paratyphoid.
+Nipah Virus Infection.
 
-23\. Pertussis.
+21A. 
 
-24\. Plague.
+[Deleted by S 395/2014 wef 05/06/2014]
 
-25\. Pneumococcal Disease (Invasive).
+22. 
 
-26\. Poliomyelitis.
+Paratyphoid.
 
-27\. Rubella.
+23. 
 
-28\. Salmonellosis.
+Pertussis.
 
-29\. Severe Acute Respiratory Syndrome (SARS).
+24. 
 
-30. Sexually Transmitted Infections —
+Plague.
+
+25. 
+
+Pneumococcal Disease (Invasive).
+
+26. 
+
+Poliomyelitis.
+
+27. 
+
+Rubella.
+
+28. 
+
+Salmonellosis.
+
+29. 
+
+Severe Acute Respiratory Syndrome (SARS).
+
+30. 
+
+Sexually Transmitted Infections —
 
 (a) Chlamydia Genital Infection;
 
@@ -2050,13 +2046,21 @@ Infectious Diseases
 
 (e) Syphilis.
 
-30A\. [Deleted by S 618/2010 wef 01/11/2010, wef 01/11/2010.]
+30A. 
 
-31\. Typhoid.
+[Deleted by S 618/2010 wef 01/11/2010]
 
-32\. Tuberculosis.
+31. 
 
-33. Yellow Fever.
+Typhoid.
+
+32. 
+
+Tuberculosis.
+
+33. 
+
+Yellow Fever.
 
 [S 614/2008 wef 19/12/2008]
 
@@ -2072,18 +2076,18 @@ Dangerous Infectious Diseases
 
 (3) Yellow Fever.
 
-[S 119/90; S127/2003]
+[S 119/90; S 127/2003]
 
 THIRD SCHEDULE
 
 Section 31
 
-Requirements As to Vaccination
+Requirements as to vaccination
 
 
 
 
-and Other Prophylaxis
+and other prophylaxis
 
 1.Yellow Fever— Every person who is going to or coming from or has passed through any country which is wholly or partly endemic for yellow fever shall be vaccinated against yellow fever —
 
@@ -2097,41 +2101,45 @@ FOURTH SCHEDULE
 
 Section 46
 
-Diseases Against Which A Child Is to be Vaccinated
+Diseases against which a child is to be vaccinated
 
 (1) Diphtheria\.
 
 (2) Measles.
 
-[S 61/81; S196/85]
+[S 61/81; S 196/85]
 
 FIFTH SCHEDULE
 
 Section 21A(1), (2) and (3)
 
-Diseases in Respect of Which Acts Referred to in Section 21a Are Prohibited
+Diseases in respect of which Acts referred to in section 21A are prohibited
 
-1. Severe Acute Respiratory Syndrome (SARS).
+1. 
 
-[S 176/2009 wef 28/04/2009]
-
-2\. Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+Severe Acute Respiratory Syndrome (SARS).
 
 2. 
 
+Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+
 [S 395/2014 wef 05/06/2014]
+
+3. 
+
+Ebola Virus Disease (EVD).
+
+[S 523/2014 wef 08/08/2014]
 
 SIXTH SCHEDULE
 
 Section 57A(1)
 
-Diseases in Respect of Which Information May be Disclosed by the Director to A Person to Enable Him to Take Steps to Prevent Spread of Diseases
+Diseases in respect of which information may be disclosed by the Director to a person to enable him to take steps to prevent spread of diseases
 
 1. 
 
 Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
-
-1. 
 
 [S 395/2014 wef 05/06/2014]
 
@@ -2145,7 +2153,7 @@ Severe Acute Respiratory Syndrome (SARS).
 
 Tuberculosis.
 
-[S 183/2013 wef 02/04/2013]
+[S 298/2012 wef 14/05/2013]
 
 4. 
 
@@ -2153,13 +2161,19 @@ Avian Influenza.
 
 [S 298/2013 wef 14/05/2013]
 
+5. 
+
+Ebola Virus Disease (EVD).
+
+[S 523/2014 wef 08/08/2014]
+
 ## LEGISLATIVE HISTORY
 
 Infectious Diseases Act
 
 (CHAPTER 137)
 
-This Legislative History is provided for the convenience of users of the Infectious Diseases Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Infectious Diseases Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2281,6 +2295,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|14 May 2013|
 |36.|**G.N. No. S 395/2014—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2014**|
 ||Date of commencement|5 June 2014|
+|37.|**G.N. No. S 523/2014—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) (No. 2) Notification 2014**|
+||Date of commencement|8 August 2014|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
