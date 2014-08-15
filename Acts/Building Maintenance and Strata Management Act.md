@@ -326,15 +326,15 @@
 
 - [140 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
-[**FIRST SCHEDULE General Meetings of Management Corporations and Subsidiary Management Corporations**](#FIRST-SCHEDULE-General-Meetings-of-Management-Corporations-and-Subsidiary-Management-Corporations)
+[**FIRST SCHEDULE General meetings of management corporations and subsidiary management corporations**](#FIRST-SCHEDULE-General-meetings-of-management-corporations-and-subsidiary-management-corporations)
 
-[**SECOND SCHEDULE Proceedings of Councils and Executive Committees**](#SECOND-SCHEDULE-Proceedings-of-Councils-and-Executive-Committees)
+[**SECOND SCHEDULE Proceedings of councils and executive committees**](#SECOND-SCHEDULE-Proceedings-of-councils-and-executive-committees)
 
-[**THIRD SCHEDULE Consequential Amendments to Land Titles (Strata) Act (Chapter 158, 1999 Edition)**](#THIRD-SCHEDULE-Consequential-Amendments-to-Land-Titles-Strata-Act-Chapter-158-1999-Edition)
+[**THIRD SCHEDULE Consequential amendments to Land Titles (Strata) Act (Chapter 158, 1999 Edition)**](#THIRD-SCHEDULE-Consequential-amendments-to-Land-Titles-Strata-Act-Chapter-158-1999-Edition)
 
-[**FOURTH SCHEDULE Transitional and Savings Provisions**](#FOURTH-SCHEDULE-Transitional-and-Savings-Provisions)
+[**FOURTH SCHEDULE Transitional and savings provisions**](#FOURTH-SCHEDULE-Transitional-and-savings-provisions)
 
-[**FIFTH SCHEDULE Consequential Amendments to Other Written Laws**](#FIFTH-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+[**FIFTH SCHEDULE Consequential amendments to other written laws**](#FIFTH-SCHEDULE-Consequential-amendments-to-other-written-laws)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -855,13 +855,13 @@ and the Commissioner accepts that amended schedule of strata units under section
 
 (2) In subsection (1)(b), “collective sale contract” means —
 
-(a) any sale and purchase agreement referred to in section 84A, 84D, 84E, 84F, or 84FA of the Land Titles (Strata) Act (Cap. 158);
+(a) any sale and purchase agreement referred to in section 84A, 84D, 84E, 84F or 84FA of the Land Titles (Strata) Act (Cap. 158);
+
+[13/2010 wef 15/07/2010]
 
 (b) any sale and purchase agreement whereby the owners of all the lots in a development agree to sell all their lots to a purchaser; or
 
 (c) any sale and purchase agreement whereby the owner of any land agrees to sell the land to a purchaser either by itself or together with the owners of any adjacent land.
-
-[13/2010 wef 15/07/2010]
 
 [LT(S)A, s. 7(9A) and (14)]
 
@@ -1907,6 +1907,10 @@ and such amount or contribution remains unpaid on the expiry of a period of 30 d
 
 (6) For the purpose of registration of a charge, discharge or transfer under this section, the Registrar of Titles may dispense with the production of the relevant duplicate subsidiary strata certificate of title issued under the Land Titles (Strata) Act (Cap. 158).
 
+(6A) Without prejudice to subsection (6), where the existing subsidiary strata certificate of title for the lot is not presented with the transfer, the Registrar of Titles may cancel the existing folio and create a new folio in favour of the transferee.
+
+[Act 8 of 2014 wef 15/08/2014]
+
 (7) Notwithstanding section 80 of the Land Titles Act (Cap. 157) and section 15 of the Registration of Deeds Act (Cap. 269) —
 
 (a) where further contributions and interest thereon are due to the management corporation after the registration of an instrument of charge under this section; or
@@ -2911,7 +2915,7 @@ upon such terms and conditions as may be agreed between the subsidiary managemen
 
 81\. The expenses of a subsidiary management corporation that relate solely to its limited common property shall be shared by the subsidiary proprietors from time to time of all lots entitled under this Division to the exclusive use of the limited common property, and each lot’s share of contribution shall be calculated as follows:
 
-Where A
+where A
 
 is the share value of a lot;
 
@@ -3583,55 +3587,11 @@ to do or refrain from doing a specified act with respect to a subdivided buildin
 
 [LT(S)A, s. 113]
 
-## \*PART VII
+## PART VII\*
 
 STAGED DEVELOPMENTS
 
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
-
-### Staged development contracts
-
-121\.—(1) Every staged development shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Commissioner under this section.
-
-(2) For the purposes of this Act, the Commissioner —
-
-(a) shall accept any staged development contract (including any amendments thereto) approved under the Housing Developers (Control and Licensing) Act (Cap. 130) or the Sale of Commercial Properties Act (Cap. 281) in relation to any staged development under those respective Acts; and
-
-(b) may accept any staged development contract in relation to any other staged development, and any amendments thereto.
-
-(3) For the purposes of subsection (2)(b), the Commissioner may refuse to accept any staged development contract in relation to any staged development, and any amendments thereto, if the contract —
-
-(a) is not in the prescribed form;
-
-(b) does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
-
-(c) does not specify the proposed date the entire staged development is to be finally completed and concluded or such other information, conditions or particulars as may be prescribed.
-
-(4) No amendment to a staged development contract accepted under this Act by the Commissioner in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Commissioner.
-
-(5) A staged development contract accepted under this Act by the Commissioner in relation to any staged development of a parcel, and any amendments thereto, shall have effect as an agreement under seal containing such covenants as may be prescribed entered into by the management corporation constituted under a strata title plan of the whole or part of that parcel and each person who for the time being is —
-
-(a) the owner developer concerned;
-
-(b) the subsidiary proprietor of that management corporation; or
-
-(c) a mortgagee of the subsidiary proprietor’s lot.
-
-(6) A staged development contract shall cease to have effect —
-
-(a) in relation to a person described in subsection (5)(a), (b) or (c) on that person ceasing to be a person so described; and
-
-(b) in relation to all persons described in subsection (5) when the staged development to which the contract relates is finally completed and concluded.
-
-(7) For the avoidance of doubt, subsection (6) shall not affect any obligation that was incurred by a person, or any right that accrued to a person, under the staged development contract before it ceased to have effect in relation to the person.
-
-(8) No amendment to a staged development contract accepted under this Act by the Commissioner in relation to any staged development referred to in subsection (2)(b) shall be valid unless the amendment is accepted by the Commissioner.
-
-### Staged development regulations
-
-122\.—(1) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
-
-(2) Every regulation made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
+\*No date has been appointed for the coming into operation of this Part as at 1st July 2008.
 
 ### Staged development contracts
 
@@ -3949,17 +3909,17 @@ FIRST SCHEDULE
 
 Sections 27(3), 29(1)(h), 80(2) and 135(1)
 
-General Meetings of
+General meetings of
 
 
 
 
-Management Corporations and
+management corporations and
 
 
 
 
-Subsidiary Management Corporations
+subsidiary management corporations
 
 Notice of general meetings
 
@@ -4153,9 +4113,9 @@ Instrument of proxy
 
 (2) Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
-I/We, ......................................... of being a member/members of the above-named management corporation, hereby appoint/appoints ............................................., of ......................................................., or failing him, of ................................................, as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation or subsidiary management corporation, to be held on the ........... day of ....... 20 ........, and at any adjournment thereof.
+I/We, of being a member/members of the above-named management corporation, hereby appoint/appoints , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation or subsidiary management corporation, to be held on the day of 20 , and at any adjournment thereof.
 
-Signed this ......... day of ......... 20 ........
+Signed this day of 20
 
 This form is to be used *in favour of/against the resolution.
 
@@ -4197,12 +4157,12 @@ SECOND SCHEDULE
 
 Sections 53(11), 54(4), 80(6) and 135(1)
 
-Proceedings of Councils
+Proceedings of councils
 
 
 
 
-and Executive Committees
+and executive committees
 
 Chairperson to preside at meetings
 
@@ -4296,7 +4256,7 @@ THIRD SCHEDULE
 
 Section 138
 
-Consequential Amendments to
+Consequential amendments to
 
 
 
@@ -4414,7 +4374,7 @@ all windows of a lot, proposed lot or non-strata lot that are located on any ext
 
 (b)
 
-all other windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot shall be common property, unless otherwise described in a strata title plan.".
+all other windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot shall be common property, unless otherwise described in a strata title plan.”.
 
 (2)
 
@@ -4620,9 +4580,7 @@ Section 81
 
 Delete subsection (1) and substitute the following subsection:
 
-“(1)
-
-This section shall apply where a management corporation has, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004, resolved to terminate the strata subdivision of the building.”.
+“(1) This section shall apply where a management corporation has, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004, resolved to terminate the strata subdivision of the building.”.
 
 (ii)
 
@@ -4754,7 +4712,7 @@ FOURTH SCHEDULE
 
 Sections 32(2), 137(1), 138(2) and 139
 
-Transitional and Savings Provisions
+Transitional and savings provisions
 
 Part I
 
@@ -4914,12 +4872,12 @@ FIFTH SCHEDULE
 
 Section 140
 
-Consequential Amendments to
+Consequential amendments to
 
 
 
 
-Other Written Laws
+other written laws
 
 First column
 
@@ -5455,19 +5413,16 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007 (item (1) of the Schedule — Amendment of Building Maintenance and Strata Management Act 2004)|
 |4.|**Act 46 of 2007—Land Titles (Strata) (Amendment) Act 2007**|
-||(Related amendments made to Act by)||
 ||Date of First Reading|27 August 2007|
 |||(Bill No. 32/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|4 October 2007|
 |5.|**Act 47 of 2007—Building Control (Amendment) Act 2007**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|27 August 2007|
 |||(Bill No. 34/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|15 February 2008|
 |6.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2007**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
@@ -5485,6 +5440,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 9/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|18 May 2010|
 ||Date of commencement|15 July 2010|
+|10.|**Act 8 of 2014—Land Titles (Amendment) Act 2014**|
+||Date of First Reading|20 January 2014 (Bill No. 4/2014 published on 20 January 2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|15 August 2014|
 ## COMPARATIVE TABLE
 
 Building Maintenance and Strata Management Act
