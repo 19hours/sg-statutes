@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Power of Minister to vary monthly variable component and non-pensionable annual allowance](#Power-of-Minister-to-vary-monthly-variable-component-and-non-pensionable-annual-allowance)
+- [3 Power of Minister to vary monthly variable component and non‑pensionable annual allowance](#Power-of-Minister-to-vary-monthly-variable-component-and-non‑pensionable-annual-allowance)
 
 - [4 Pensions not to be affected](#Pensions-not-to-be-affected)
 
@@ -22,9 +22,9 @@
 
 (Original Enactment: Act 14 of 1988)
 
-REVISED EDITION 1989
+REVISED EDITION 2014
 
-(15th March 1989)
+(31st August 2014)
 
 An Act to enable annual wage increases and the non-pensionable annual allowance payable to the public service to be varied.
 
@@ -46,7 +46,7 @@ An Act to enable annual wage increases and the non-pensionable annual allowance 
 
 (b) service under any statutory body or authority designated by the Minister by notification in theGazette.
 
-### Power of Minister to vary monthly variable component and non-pensionable annual allowance
+### Power of Minister to vary monthly variable component and non‑pensionable annual allowance
 
 3\.—(1) The Minister may, by order published in theGazette, vary in such manner as may be specified in the order —
 
@@ -68,7 +68,7 @@ in excess of the rates or amount specified in the order shall to the extent of t
 
 ### Pensions not to be affected
 
-4\. All pensions, gratuities and other allowances to be granted under the Pensions Act [Cap. 225] and the Parliamentary Pensions Act [Cap. 219] to any person shall be computed as if the monthly variable component applicable to that person had not been reduced by virtue of any order made or continued in force under this Act.
+4\. All pensions, gratuities and other allowances to be granted under the Pensions Act (Cap. 225) and the Parliamentary Pensions Act (Cap. 219) to any person shall be computed as if the monthly variable component applicable to that person had not been reduced by virtue of any order made or continued in force under this Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -76,14 +76,16 @@ Public Service (Monthly Variable Component and Non-pensionable Annual Allowance)
 
 (CHAPTER 259A)
 
-This Legislative History is provided for the convenience of users of the Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
-|1.|**Act 14 of 1988—Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988**|
+|1.|**Act 14 of 1988—Public Service (Monthly Variable Component and Non‑pensionable Annual Allowance) Act 1988**|
 ||Date of First Reading|28 June 1988|
-|||(Bill No. 12/1988 published on 26 August 1988)|
+|||(Bill No. 12/88)|
 ||Date of Second and Third Readings|29 July 1988|
 ||Date of commencement|1 July 1988|
 |2.|**1989 Revised Edition—Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act (Chapter 259A)**|
 ||Date of operation|15 March 1989|
+|3.|**2014 Revised Edition—Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act (Chapter 259A)**|
+||Date of operation|31 August 2014|
