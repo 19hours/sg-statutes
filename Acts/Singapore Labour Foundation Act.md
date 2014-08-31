@@ -22,11 +22,11 @@
 
 - [6 Members of Foundation](#Members-of-Foundation)
 
-- [7 Management of the affairs of Foundation](#Management-of-the-affairs-of-Foundation)
+- [7 Management of affairs of Foundation](#Management-of-affairs-of-Foundation)
 
 - [8 Engagement of employees](#Engagement-of-employees)
 
-- [9 General administrative control of the work of Foundation](#General-administrative-control-of-the-work-of-Foundation)
+- [9 General administrative control of work of Foundation](#General-administrative-control-of-work-of-Foundation)
 
 - [10 Meetings of Board](#Meetings-of-Board)
 
@@ -66,15 +66,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Singapore Labour Foundation Act
 
 (CHAPTER 302)
 
 (Original Enactment: Act 9 of 1977)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st August 2014)
 
 An Act to establish the Singapore Labour Foundation and for matters connected therewith.
 
@@ -144,9 +146,9 @@ THE FOUNDATION AND THE BOARD
 
 (e) establish and maintain industrial rehabilitation centres;
 
-(f) construct and maintain suitable premises for the use of trade unions and co-operative societies managed by trade unions in Singapore; and
+(f) construct and maintain suitable premises for the use of trade unions and co‑operative societies managed by trade unions in Singapore; and
 
-(g) assist by way of grants, donations or otherwise such charitable, educational or other work, object or endeavour in Singapore or elsewhere as the Board considers desirable in the interests of, or for the furtherance of, the trade union or co-operative movement in Singapore or elsewhere.
+(g) assist by way of grants, donations or otherwise such charitable, educational or other work, object or endeavour in Singapore or elsewhere as the Board considers desirable in the interests of, or for the furtherance of, the trade union or co‑operative movement in Singapore or elsewhere.
 
 ### Powers
 
@@ -156,7 +158,7 @@ THE FOUNDATION AND THE BOARD
 
 (b) sell, manage, lease, mortgage, dispose of, or otherwise deal with, all or any part of the property of the Foundation;
 
-(c) receive any gift of whatsoever nature for one or more of the objects of the Foundation;
+(c) receive any gift of any nature for one or more of the objects of the Foundation;
 
 (d) take such steps by personal or written appeals, public meetings or otherwise, as may, from time to time, be considered necessary or expedient by the Board, to obtain funds for the Foundation in the shape of contributions, donations, annual subscriptions or otherwise, and generally raise funds by all lawful means to carry out the objects of the Foundation;
 
@@ -172,7 +174,7 @@ THE FOUNDATION AND THE BOARD
 
 ### Members of Foundation
 
-6\.—(1) The Foundation shall consist of such number of members as the Board may, from time to time, admit to membership thereof.
+6\.—(1) The Foundation shall consist of such number of members as the Board may, from time to time, admit to membership.
 
 (2) Without prejudice to the generality of subsection (1), the Board may admit as members bodies or organisations affiliated to the National Trades Union Congress or any person, company or association who or which is a benefactor of the Foundation.
 
@@ -183,8 +185,6 @@ THE FOUNDATION AND THE BOARD
 (5) The Board may at any time terminate the membership of any member —
 
 (a) if he becomes mentally disordered and incapable of managing himself or his affairs;
-
-[21/2008 wef 01/03/2010]
 
 (b) if he becomes a bankrupt or suspends payment to, or makes any arrangement or composition with, his creditors;
 
@@ -198,27 +198,29 @@ THE FOUNDATION AND THE BOARD
 
 (g) for such other reason as to the Board may seem just or proper.
 
-### Management of the affairs of Foundation
+[21/2008]
+
+### Management of affairs of Foundation
 
 7\.—(1) The affairs of the Foundation shall be managed by a Board of Directors which shall consist of —
 
-(a) three directors to be appointed by the Minister on the advice of the National Trades Union Congress;
+(a) 3 directors to be appointed by the Minister on the advice of the National Trades Union Congress;
 
-(b) two directors to be appointed by the Minister; and
+(b) 2 directors to be appointed by the Minister; and
 
-(c) two directors to be elected at the annual general meeting of the Foundation.
+(c) 2 directors to be elected at the annual general meeting of the Foundation.
 
 (2) The directors shall hold office for a term of 3 years and shall, at the end of their term of office, be eligible for reappointment.
 
 (3) The Board shall elect a Chairman and a Deputy Chairman from amongst its directors.
 
-(4) The Minister may, at any time, revoke any appointment made by him under subsection (1)(a) or (b) without assigning any reason therefor; and any director elected under subsection (1)(c) may be removed by a resolution passed at a general meeting of the Foundation.
+(4) The Minister may, at any time, revoke any appointment made by him under subsection (1)(a) or (b) without assigning any reason; and any director elected under subsection (1)(c) may be removed by a resolution passed at a general meeting of the Foundation.
 
 ### Engagement of employees
 
 8\. The Board shall engage such employees as it considers necessary and shall regulate their duties and fix their salaries.
 
-### General administrative control of the work of Foundation
+### General administrative control of work of Foundation
 
 9\. The Board may appoint one of the directors to exercise, subject to the direction of the Board, general administrative control over the work of the Foundation, and any appointment so made may be honorary, or at the discretion of the Board, remunerated at such rate as the Board may, from time to time, determine.
 
@@ -228,11 +230,13 @@ THE FOUNDATION AND THE BOARD
 
 (2) At every meeting of the Board, 4 directors shall form a quorum, and decisions shall be adopted by a simple majority of the votes of the directors present and voting, except in the case of an equality of votes when the Chairman, or the person presiding at the meeting, shall have a casting vote.
 
-(3) The Chairman, or in his absence the Deputy Chairman, shall preside at meetings of the Board. If both the Chairman and the Deputy Chairman are absent from a meeting of the Board, such director as the directors present shall select shall preside at the meeting.
+(3) The Chairman, or in his absence the Deputy Chairman, shall preside at meetings of the Board.
 
-(4) Subject to subsection (2), the Board shall not be precluded from holding any meeting or acting in any matter merely by reason of any vacancy in its membership.
+(4) If both the Chairman and the Deputy Chairman are absent from a meeting of the Board, such director as the directors present shall select shall preside at the meeting.
 
-(5) Subject to the provisions of this Act, the Board may prescribe rules to regulate its own proceedings, and in particular regarding the holding of meetings, the notice to be given of the meetings, the proceedings of the meeting, the keeping of minutes and the custody, production and inspection of the minutes.
+(5) Subject to subsection (2), the Board shall not be precluded from holding any meeting or acting in any matter merely by reason of any vacancy in its membership.
+
+(6) Subject to the provisions of this Act, the Board may prescribe rules to regulate its own proceedings, and in particular regarding the holding of meetings, the notice to be given of the meetings, the proceedings of the meeting, the keeping of minutes and the custody, production and inspection of the minutes.
 
 ### Validity of acts of directors
 
@@ -264,9 +268,9 @@ THE FOUNDATION AND THE BOARD
 
 ### Notice of general meeting
 
-14\.—(1) The Board shall send a notice of every general meeting to the members at least 14 days prior to any such meeting being held, and the notice shall specify the date, time and place for the holding of the meeting, the nature of the business to be transacted at the meeting and, in case of special business, concise particulars thereof.
+14\.—(1) The Board shall send a notice of every general meeting to the members at least 14 days prior to any such meeting being held, and the notice shall specify the date, time and place for the holding of the meeting, the nature of the business to be transacted at the meeting and, in case of special business, concise particulars of the special business.
 
-(2) The accidental omission to give such notice to, and the non-receipt of the notice by, a member shall not invalidate the proceedings at any meeting.
+(2) The accidental omission to give such notice to, and the non‑receipt of the notice by, a member shall not invalidate the proceedings at any meeting.
 
 ### Venue of general meeting
 
@@ -308,9 +312,9 @@ MISCELLANEOUS
 
 ### Application of income and property
 
-19\. The income and property of the Foundation from wherever derived shall be applied solely towards the promotion of the objects of the Foundation as set out in section 4, and no portion thereof shall be paid or transferred directly or indirectly by way of dividend, bonus, profit or otherwise to members or directors:
+19\.—(1) Subject to subsection (2), the income and property of the Foundation from wherever derived shall be applied solely towards the promotion of the objects of the Foundation as set out in section 4, and no portion of that income or property shall be paid or transferred directly or indirectly by way of dividend, bonus, profit or otherwise to members or directors.
 
-Provided that nothing in this section shall be construed as preventing the payment, in good faith, of —
+(2) Nothing in subsection (1) shall be construed as preventing the payment, in good faith, of —
 
 (a) remuneration to employees of the Foundation;
 
@@ -324,15 +328,15 @@ Provided that nothing in this section shall be construed as preventing the payme
 
 19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Foundation under this Act, or of any capital injection or other investment by the Government in the Foundation in accordance with any written law, the Foundation shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Presentation of accounts
 
-20\. The Board shall, at every annual general meeting, cause to be prepared and to be laid before the Foundation an income and expenditure account, a balance-sheet and a financial report in respect of the preceding year.
+20\. The Board shall, at every annual general meeting, cause to be prepared and to be laid before the Foundation an income and expenditure account, a balance‑sheet and a financial report in respect of the preceding year.
 
 ### Auditors
 
-21\. The auditors to be appointed by the Foundation at a general meeting shall be approved company auditors within the meaning of the Companies Act (Cap. 50).
+21\. The auditors to be appointed by the Foundation at a general meeting shall be public accountants within the meaning of the Companies Act (Cap. 50).
 
 ### Annual report
 
@@ -360,7 +364,7 @@ Singapore Labour Foundation Act
 
 (CHAPTER 302)
 
-This Legislative History is provided for the convenience of users of the Singapore Labour Foundation Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Labour Foundation Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -384,3 +388,35 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 11/2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item (46) of the Second Schedule — amendment of Singapore Labour Foundation Act)|
+|5.|**2014 Revised Edition—Singapore Labour Foundation Act (Chapter 302)**|
+||Date of operation|31 August 2014|
+## COMPARATIVE TABLE
+
+Singapore Labour Foundation Act
+
+(CHAPTER 302)
+
+The following provisions in the 1985 Revised Edition of the Singapore Labour Foundation Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Singapore Labour Foundation Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+10 —(3) and (4)
+
+10 —(3)
+
+(5)
+
+ (4)
+
+(6)
+
+(5)
+
+19 —(1) and (2)
+
+19 
+
