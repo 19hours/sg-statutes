@@ -164,7 +164,7 @@
 
 - [35 (Repealed)](#Repealed)
 
-- [36 Amount payable by Board to Housing Authority or approved mortgagee on death or incapacity of member of Scheme](#Amount-payable-by-Board-to-Housing-Authority-or-approved-mortgagee-on-death-or-incapacity-of-member-of-Scheme)
+- [36 Amount payable by Board on death or incapacity of member of Scheme](#Amount-payable-by-Board-on-death-or-incapacity-of-member-of-Scheme)
 
 - [37 Housing Authority or approved mortgagee to send notice to Board on payment of premium](#Housing-Authority-or-approved-mortgagee-to-send-notice-to-Board-on-payment-of-premium)
 
@@ -1080,21 +1080,31 @@ CONTRIBUTIONS TO FUND
 
 (7C) Where the Board has transferred any amount standing to a member’s credit in the Fund to his ordinary account under subsection (7A)(a) or to the general moneys of the Fund under subsection (7B)(a) or any regulations made under section 77(1) —
 
-(a) the Board shall restore the transferred amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made) to the member’s account in the Fund from which that amount had been transferred, if the Board is satisfied that the member was still alive at the time of the transfer;
+(a) the Board shall restore to the member’s account in the Fund from which the transferred amount had been transferred, or transfer to such other account in the Fund of the member as may be prescribed in any regulations made under section 77(1), that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), if the Board is satisfied that the member was still alive at the time of the transfer;
+
+[Act 24 of 2013 wef 01/09/2014]
 
 (b) if the Board is served with an order of court referred to in section 27B awarding any amount to be paid out from the money standing to the credit of the member in the Fund (including any money which is payable or repayable to the Fund to the credit of the member) —
 
-(i) where the amount awarded under the order of court exceeds the amount standing to the member’s credit in the Fund (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), the Board shall restore the latter amount (including interest) to the member’s account in the Fund from which that amount had been transferred; or
+(i) where the amount awarded under the order of court exceeds the amount standing to the member’s credit in the Fund (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), the Board shall restore the latter amount (including interest, if any) to the member’s account in the Fund from which that amount had been transferred, or transfer that latter amount (including interest, if any) to such other account in the Fund of the member as may be prescribed in any regulations made under section 77(1); or
 
-(ii) where the amount awarded under the order of court does not exceed the amount standing to the member’s credit in the Fund (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), the Board shall restore the former amount to the member’s account in the Fund from which that amount had been transferred; and
+[Act 24 of 2013 wef 01/09/2014]
 
-(c) the Board may restore the whole or any part of the transferred amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made) to the member’s account in the Fund from which that amount had been transferred in such other circumstances as may be prescribed in any regulations made under section 77(1).
+(ii) where the amount awarded under the order of court does not exceed the amount standing to the member’s credit in the Fund (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), the Board shall restore the former amount to the member’s account in the Fund from which that amount had been transferred, or transfer that former amount to such other account in the Fund of the member as may be prescribed in any regulations made under section 77(1); and
+
+[Act 24 of 2013 wef 01/09/2014]
+
+(c) in such other circumstances as may be prescribed in any regulations made under section 77(1), the Board may restore to the member’s account in the Fund from which the transferred amount had been transferred, or transfer to such other account in the Fund of the member as may be prescribed in those regulations, the whole or any part of that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made).
 
 [22/2010]
 
-(7D) Where the Board has transferred any amount standing to a member’s credit in the Fund to his ordinary account under subsection (7A)(b) or to the general moneys of the Fund under subsection (7B)(b) or any regulations made under section 77(1), the Board may restore the whole or any part of that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made) to the member’s account in the Fund from which that amount had been transferred in such circumstances as may be prescribed in any regulations made under section 77(1).
+[Act 24 of 2013 wef 01/09/2014]
+
+(7D) Where the Board has transferred any amount standing to a member’s credit in the Fund to his ordinary account under subsection (7A)(b) or to the general moneys of the Fund under subsection (7B)(b) or any regulations made under section 77(1), the Board may restore to the member’s account in the Fund from which that amount had been transferred, or transfer to such other account in the Fund of the member as may be prescribed in those regulations, the whole or any part of that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made) in such circumstances as may be prescribed in those regulations.
 
 [22/2010]
+
+[Act 24 of 2013 wef 01/09/2014]
 
 (7E) Where the Board is unable to ascertain a member’s identity, the Board may transfer to the general moneys of the Fund, in accordance with any regulations made under section 77(1), any amount standing to his credit in the Fund.
 
@@ -4050,9 +4060,15 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Establishment of Home Protection Insurance Scheme
 
-29\.—(1) The Board is hereby authorised to establish and maintain a Home Protection Insurance Scheme for the purpose of providing that on the death or incapacity of a member of the Scheme at any time during the period in which the member is insured under the Scheme, his liability to repay his housing loan to a Housing Authority or an approved mortgagee secured by a mortgage of the immovable property to that Authority or approved mortgagee, as the case may be, shall be discharged by the Board in accordance with the Scheme.
+29\.—(1) The Board is hereby authorised to establish and maintain a Home Protection Insurance Scheme for the purpose of providing that on the death or incapacity of a member of the Scheme at any time during the period in which the member is insured under the Scheme —
+
+(a) his liability to repay his housing loan to a Housing Authority or an approved mortgagee secured by a mortgage of the immovable property to that Authority or approved mortgagee (as the case may be) shall be discharged by the Board in accordance with the Scheme; or
+
+(b) if that liability has been discharged, such person or persons whom the Board is satisfied have discharged that liability shall be reimbursed by the Board in such manner as may be prescribed by regulations made under this Part.
 
 [30/87]
+
+[Act 24 of 2013 wef 01/09/2014]
 
 (2) Subject to section 31, the Scheme shall apply to every member who has withdrawn moneys standing to his credit in the Fund to repay any instalment of housing loan taken by the member from a Housing Authority or an approved mortgagee for the purchase of any immovable property from a Housing Authority.
 
@@ -4168,47 +4184,77 @@ HOME PROTECTION INSURANCE SCHEME
 
 35\. [Repealed by Act 39 of 2000]
 
-### Amount payable by Board to Housing Authority or approved mortgagee on death or incapacity of member of Scheme
+### Amount payable by Board on death or incapacity of member of Scheme
 
-36\.—(1) Where a member of the Scheme dies at any time during the period he is insured under the Scheme, the Board shall, upon proof of death, forthwith pay to the Housing Authority or the approved mortgagee such an amount as is prescribed under regulations made under this Part.
+36\.—(1) Where a member of the Scheme dies at any time during the period he is insured under the Scheme, the Board shall, upon proof of death, forthwith pay such amount as may be prescribed by regulations made under this Part —
+
+(a) in any case where there exist such circumstances as may be prescribed by those regulations —
+
+(i) to such person or persons (other than the Housing Authority or the approved mortgagee) and in such manner as may be prescribed by those regulations; and
+
+(ii) if that amount is payable to 2 or more persons, in such proportion as may be determined by the Board; or
+
+(b) in any other case, to the Housing Authority or the approved mortgagee.
 
 [30/87]
 
-(2) Subject to subsections (3), (4) and (5), where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to the Housing Authority or the approved mortgagee, as the case may be, the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
+[Act 24 of 2013 wef 01/09/2014]
+
+(2) Subject to subsections (3), (4) and (5), where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall, upon proof of incapacity —
+
+(a) in any case where there exist such circumstances as may be prescribed by regulations made under this Part, pay such amount as may be prescribed by those regulations to be payable at the time of incapacity of the member —
+
+(i) to such person or persons (other than the Housing Authority or the approved mortgagee) and in such manner as may be prescribed by those regulations; and
+
+(ii) if that amount is payable to 2 or more persons, in such proportion as may be determined by the Board; or
+
+(b) in any other case, pay to the Housing Authority or the approved mortgagee the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
 
 [39/2000]
 
-(3) For the avoidance of doubt, where the housing loan is taken from a Housing Authority or an approved mortgagee by 2 or more members of the Scheme in respect of property purchased jointly by the members, the monthly or other periodic loan instalments payable by the Board under subsection (2) on account of the incapacity of a member shall be in proportion to that member’s liability for the repayment of the housing loan as declared by that member to, and accepted by, the Board.
+[Act 24 of 2013 wef 01/09/2014]
+
+(3) For the avoidance of doubt, where the housing loan is taken from a Housing Authority or an approved mortgagee by 2 or more members of the Scheme in respect of property purchased jointly by the members, the monthly or other periodic loan instalments payable by the Board under subsection (2)(b) on account of the incapacity of a member shall be in proportion to that member’s liability for the repayment of the housing loan as declared by that member to, and accepted by, the Board.
 
 [39/2000]
 
-(4) The Board shall cease payment to the Housing Authority or the approved mortgagee under subsection (2) if the member of the Scheme is no longer incapacitated.
+[Act 24 of 2013 wef 01/09/2014]
+
+(4) The Board shall cease payment to the Housing Authority or the approved mortgagee under subsection (2)(b) if the member of the Scheme is no longer incapacitated.
 
 [39/2000]
 
-(5) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (4), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2).
+[Act 24 of 2013 wef 01/09/2014]
+
+(5) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (4), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2)(b).
 
 [39/2000]
 
-(6) Notwithstanding subsection (2), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
+[Act 24 of 2013 wef 01/09/2014]
+
+(6) Notwithstanding subsection (2)(b), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
 
 (A + B) — C,
 
 where A is the amount prescribed under regulations made under this Part to be payable at the time of incapacity of the member;
 
-B is the amount of interest accrued on A as determined by the Board from the time the first monthly or other periodic loan instalment is made under subsection (2) to the time the amount under this subsection is paid by the Board;
+B is the amount of interest accrued on A as determined by the Board from the time the first monthly or other periodic loan instalment is made under subsection (2)(b) to the time the amount under this subsection is paid by the Board;
 
-C is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2).
+C is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2)(b).
 
 [39/2000]
+
+[Act 24 of 2013 wef 01/09/2014]
 
 (7) Where a claim under the Scheme is made in respect of the incapacity of a member of the Scheme, the Board may backdate any payment to be made by the Board to the Housing Authority or the approved mortgagee under this section to the date on which the incapacity occurred.
 
 [39/2000]
 
-(8) The amount payable by the Board to the Housing Authority or the approved mortgagee under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
+(8) The amount payable by the Board under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
 
 [30/87]
+
+[Act 24 of 2013 wef 01/09/2014]
 
 (9) The Board shall not be required to make any payment in respect of any member of the Scheme —
 
@@ -4233,6 +4279,8 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 (b) fails to disclose to the Board any material fact or circumstance known to him at the time he is required to be insured under the Scheme which might influence the Board as to whether he should be insured under the Scheme.
 
 [30/87]
+
+[Act 24 of 2013 wef 01/09/2014]
 
 ### Housing Authority or approved mortgagee to send notice to Board on payment of premium
 
@@ -4259,6 +4307,10 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 (ca) provide, in respect of each class of members of the Scheme, for the amount of money for which a member of the Scheme may be insured under the Scheme;
 
 (d) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
+
+(da) prescribe the circumstances referred to in section 36(1)(a) and (2)(a) under which the Board may make payment to any person other than the Housing Authority or the approved mortgagee, the person or persons to whom such payment may be made and the manner in which such payment may be made;
+
+[Act 24 of 2013 wef 01/09/2014]
 
 (e) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
 
@@ -8398,6 +8450,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 20/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|28 June 2014 (Sections 7, 20(a), (b), (c))|
+|193.|**Act 24 of 2013—Central Provident Fund (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 20/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 September 2014 (Sections 4, 11, 12, 13)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
