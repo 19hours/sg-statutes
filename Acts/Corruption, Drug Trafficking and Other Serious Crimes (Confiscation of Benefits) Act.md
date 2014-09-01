@@ -12,9 +12,13 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Meaning of "item subject to legal privilege"](#Meaning-of-"item-subject-to-legal-privilege")
+
 - [3 Application](#Application)
 
-[**Part II CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT**](#Part-II)
+- [3A Suspicious Transaction Reporting Office](#Suspicious-Transaction-Reporting-Office)
+
+[**Part II CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT**](#Part-II)
 
 - [4 Confiscation orders](#Confiscation-orders)
 
@@ -22,11 +26,11 @@
 
 - [6 Live video or live television links](#Live-video-or-live-television-links)
 
-- [7 Assessing benefits of drug trafficking](#Assessing-benefits-of-drug-trafficking)
+- [7 Assessing benefits of drug dealing](#Assessing-benefits-of-drug-dealing)
 
 - [8 Assessing benefits derived from criminal conduct](#Assessing-benefits-derived-from-criminal-conduct)
 
-- [9 Statements relating to drug trafficking or criminal conduct](#Statements-relating-to-drug-trafficking-or-criminal-conduct)
+- [9 Statements relating to drug dealing or criminal conduct](#Statements-relating-to-drug-dealing-or-criminal-conduct)
 
 - [10 Amount to be recovered under confiscation order](#Amount-to-be-recovered-under-confiscation-order)
 
@@ -72,13 +76,21 @@
 
 - [29 Service of documents on absconders](#Service-of-documents-on-absconders)
 
+[**Part IVA CONFISCATION OF PROPERTY OF CORRESPONDING VALUE TO INSTRUMENTALITIES**](#Part-IVA)
+
+- [29A Application of Part](#Application-of-Part)
+
+- [29B Substitute property confiscation order](#Substitute-property-confiscation-order)
+
+- [29C Modified application of Parts II, III and IV](#Modified-application-of-Parts-II-III-and-IV)
+
 [**Part V INFORMATION GATHERING POWERS**](#Part-V)
 
 [**Division 1  Production orders**](#Division-1--Production-orders)
 
 - [30 Production orders](#Production-orders)
 
-- [31 Production orders against financial institution to produce material relating to drug trafficking or criminal conduct](#Production-orders-against-financial-institution-to-produce-material-relating-to-drug-trafficking-or-criminal-conduct)
+- [31 Production orders against financial institution to produce material relating to drug dealing or criminal conduct](#Production-orders-against-financial-institution-to-produce-material-relating-to-drug-dealing-or-criminal-conduct)
 
 - [32 Variation of production order](#Variation-of-production-order)
 
@@ -112,15 +124,17 @@
 
 [**Part VI OFFENCES**](#Part-VI)
 
-- [43 Assisting another to retain benefits of drug trafficking](#Assisting-another-to-retain-benefits-of-drug-trafficking)
+- [43 Assisting another to retain benefits of drug dealing](#Assisting-another-to-retain-benefits-of-drug-dealing)
 
 - [44 Assisting another to retain benefits from criminal conduct](#Assisting-another-to-retain-benefits-from-criminal-conduct)
 
 - [45 Restriction on revealing disclosure under sections 43 and 44](#Restriction-on-revealing-disclosure-under-sections-43-and-44)
 
-- [46 Acquiring, possessing, using, concealing or transferring benefits of drug trafficking](#Acquiring-possessing-using-concealing-or-transferring-benefits-of-drug-trafficking)
+- [46 Acquiring, possessing, using, concealing or transferring benefits of drug dealing](#Acquiring-possessing-using-concealing-or-transferring-benefits-of-drug-dealing)
 
 - [47 Acquiring, possessing, using, concealing or transferring benefits of criminal conduct](#Acquiring-possessing-using-concealing-or-transferring-benefits-of-criminal-conduct)
+
+- [47A Proof and knowledge, etc., of predicate offence](#Proof-and-knowledge-etc-of-predicate-offence)
 
 - [48 Tipping-off](#Tipping-off)
 
@@ -174,7 +188,7 @@
 
 - [64 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Drug trafficking offences**](#FIRST-SCHEDULE-Drug-trafficking-offences)
+[**FIRST SCHEDULE Drug dealing offences**](#FIRST-SCHEDULE-Drug-dealing-offences)
 
 [**SECOND SCHEDULE Serious offences**](#SECOND-SCHEDULE-Serious-offences)
 
@@ -192,9 +206,11 @@ REVISED EDITION 2000
 
 (1st July 2000)
 
-An Act to provide for the confiscation of benefits derived from, and to combat, corruption, drug trafficking and other serious crimes and for purposes connected therewith.
+An Act to provide for the confiscation of benefits derived from, and to combat, corruption, drug dealing and other serious crimes and for purposes connected therewith.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 [30th November 1993]
 
@@ -232,7 +248,7 @@ PRELIMINARY
 
 “confiscation order” means an order made under section 4 or 5;
 
-“corresponding law” means a law stated in a certificate purporting to be issued by or on behalf of the government of a foreign country to be a law providing for the control and regulation in that country of —
+“corresponding law” means a law of a foreign country or part thereof providing for the control or regulation, in that country or part thereof, of —
 
 (a) the production, supply, use, export and import of drugs and other substances in accordance with the provisions of the Single Convention on Narcotic Drugs signed at New York on 30th March 1961;
 
@@ -240,95 +256,93 @@ PRELIMINARY
 
 (c) the benefits of trafficking in the drugs or substances referred to in paragraph (a) or (b);
 
-“criminal conduct” means —
+[Act 21 of 2014 wef 01/09/2014]
 
-(a) doing or being concerned in, whether in Singapore or elsewhere, any act constituting —
+“criminal conduct” means doing or being concerned in, whether in Singapore or elsewhere, any act constituting a serious offence or a foreign serious offence;
 
-(i) a serious offence (other than an offence under section 44 or 47); or
-
-(ii) a foreign serious offence;
-
-(b) entering into or being otherwise concerned in, whether in Singapore or elsewhere, an arrangement whereby —
-
-(i) the retention or control by or on behalf of another person of that other person’s benefits from an act referred to in paragraph (a) is facilitated; or
-
-(ii) the benefits from an act referred to in paragraph (a) by another person are used to secure funds that are placed at that other person’s disposal, directly or indirectly, or are used for that other person’s benefit to acquire property by way of investment or otherwise;
-
-(c) the acquisition, possession, use, concealing or disguising by a person of any property which is, or in part, directly or indirectly, represents, his benefits from an act referred to in paragraph (a); or
-
-[44/2007 wef 01/11/2007]
-
-(d) the conversion or transfer, by a person, of any property referred to in paragraph (c) or the removal of such property from the jurisdiction;
+[Act 21 of 2014 wef 01/09/2014]
 
 “dealing with property” is to be construed in accordance with section 16(7);
 
-“defendant” means a person against whom proceedings have been instituted for a drug trafficking offence or a serious offence, as the case may be, or offences whether or not he has been convicted thereof;
+“defendant” means a person against whom proceedings have been instituted for a drug dealing offence or a serious offence, as the case may be, or offences whether or not he has been convicted thereof;
 
-“drug trafficking” means —
+[Act 21 of 2014 wef 01/09/2014]
 
-(a) doing or being concerned in, whether in Singapore or elsewhere, any act constituting —
+[Deleted by Act 21 of 2014 wef 01/09/2014]
 
-(i) a drug trafficking offence (other than an offence under section 43 or 46); or
+[Deleted by Act 21 of 2014 wef 01/09/2014]
 
-(ii) a foreign drug trafficking offence;
+“drug dealing” means doing or being concerned in, whether in Singapore or elsewhere, any act constituting a drug dealing offence or a foreign drug dealing offence;
 
-(b) entering into or being otherwise concerned in, whether in Singapore or elsewhere, an arrangement whereby —
+[Act 21 of 2014 wef 01/09/2014]
 
-(i) the retention or control by or on behalf of another person of that other person’s benefits from an act referred to in paragraph (a) is facilitated; or
+“drug dealing offence” means —
 
-(ii) the benefits from an act referred to in paragraph (a) by another person are used to secure funds that are placed at that other person’s disposal, directly or indirectly, or are used for that other person’s benefit to acquire property by way of investment or otherwise;
+(a) any offence specified in the First Schedule;
 
-(c) the acquisition, possession, use, concealing or disguising by a person of any property which is, or in part, directly or indirectly, represents, his benefits from an act referred to in paragraph (a); or
+(b) conspiracy to commit any such offence;
 
-[44/2007 wef 01/11/2007]
+(c) inciting another to commit any such offence;
 
-(d) the conversion or transfer by a person of any property referred to in paragraph (c) or the removal of such property from the jurisdiction;
+(d) attempting to commit any such offence; or
 
-“drug trafficking offence” means —
+(e) aiding, abetting, counselling or procuring the commission of any such offence;
 
-(a) any of the offences specified in the First Schedule;
+[Act 21 of 2014 wef 01/09/2014]
 
-(b) conspiracy to commit any of those offences;
+“employer”, in relation to a legal counsel, includes —
 
-(c) inciting another to commit any of those offences;
+(a) if the employer is one of a number of corporations that are related to each other under section 6 of the Companies Act (Cap. 50), every corporation so related as if the legal counsel is also employed by each of the related corporations; and
 
-(d) attempting to commit any of those offences; or
+(b) if the employer is a public agency within the meaning of section 128A(6) of the Evidence Act (Cap. 97) and the legal counsel is required as part of his duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to any other public agency or agencies, the other public agency or agencies as if the legal counsel is also employed by the other public agency or each of the other public agencies;
 
-(e) aiding, abetting, counselling or procuring the commission of any of those offences;
+[Act 21 of 2014 wef 01/09/2014]
 
-“financial institution” means —
+“financial institution” has the same meaning as in section 27A(6) of the Monetary Authority of Singapore Act (Cap. 186) read with section 27A(7) of that Act;
 
-(a) a bank licensed under the Banking Act (Cap. 19);
-
-(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
-
-(c) a finance company licensed under the Finance Companies Act (Cap. 108);
-
-(d) the holder of a capital markets services licence under the Securities and Futures Act 2001;
-
-(e) a licensed financial adviser under the Financial Advisers Act 2001;
-
-(f) a company or co-operative society licensed under the Insurance Act (Cap. 142) as a direct insurer carrying on life business;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(g) an insurance intermediary licensed under any written law relating to insurance intermediaries if the intermediary arranges contracts of insurance in respect of life business; and
-
-(h) such other persons or class of persons as the Minister may by order prescribe,
-
-but excludes a money-changer licensed to conduct money-changing business and a remitter licensed to conduct remittance business under the Money-changing and Remittance Businesses Act (Cap. 187);
+[Act 21 of 2014 wef 01/09/2014]
 
 “foreign country” means any country or territory outside Singapore;
 
 “foreign court” means a court of competent jurisdiction in a foreign country which is a party to any treaty, memorandum of understanding or agreement for the control of narcotic drugs or for assistance in criminal matters to which Singapore is also a party;
 
-“foreign drug trafficking offence” means a drug trafficking offence punishable under a corresponding law;
+[Deleted by Act 21 of 2014 wef 01/09/2014]
 
-“foreign serious offence” means an offence (other than a foreign drug trafficking offence) against the laws of, or of a part of, a foreign country stated in a certificate purporting to be issued by or on behalf of the government of that country and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted a serious offence;
+“foreign drug dealing offence” means an offence against a corresponding law that consists of or includes conduct which, if the conduct had occurred in Singapore, would have constituted a drug dealing offence;
+
+[Act 21 of 2014 wef 01/09/2014]
+
+“foreign serious offence” —
+
+(a) means an offence (other than a foreign drug dealing offence) against the law of a foreign country or part thereof that consists of or includes conduct which, if the conduct had occurred in Singapore, would have constituted a serious offence; and
+
+(b) includes a foreign serious tax offence;
+
+[Act 21 of 2014 wef 01/09/2014]
+
+“foreign serious tax offence” means an offence against the national law of a foreign country that consists of the doing of any of the following (however described) wilfully with intent to evade, or to assist any other person to evade, any tax of that country:
+
+(a) omitting from, or understating or overstating in, a return made for the purposes of that tax any information which should be included in the return;
+
+(b) making any false statement or entry in any return, claim or application made, or any document or information required to be given, for the purposes of that tax;
+
+(c) giving any false answer, whether verbally or in writing, to any question or request for information asked or made for the purposes of that tax;
+
+(d) failing to inform the authority responsible for the collection of that tax, in the required manner, of any incorrect information appearing in any assessment made by that authority, when required to do so;
+
+(e) preparing or maintaining, or authorising the preparation or maintenance, of any false books of account or other records, or falsifying or authorising the falsification of any books of account or records;
+
+(f) making use of any fraud, art or contrivance, or authorising the use of any such fraud, art or contrivance;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 “gift caught by this Act” is to be construed in accordance with section 12(7) or (8);
 
 “interest”, in relation to property, includes any right;
+
+“legal counsel” has the same meaning as in section 3(7) of the Evidence Act;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 “making a gift” is to be construed in accordance with section 12(9);
 
@@ -341,6 +355,10 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 [4/2003 wef 01/04/2003]
 
 “officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
+
+“possession”, in relation to any property, means actual or constructive possession of the property;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 “property” means money and all other property, movable or immovable, including things in action and other intangible or incorporeal property;
 
@@ -398,7 +416,7 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 (e) proceedings for an offence are instituted in Singapore when a person is produced and charged in court with the offence;
 
-(f) proceedings in Singapore for a drug trafficking offence or a serious offence, as the case may be, are concluded on the occurrence of one of the following events:
+(f) proceedings in Singapore for a drug dealing offence or a serious offence, as the case may be, are concluded on the occurrence of one of the following events:
 
 (i) the discontinuance of the proceedings;
 
@@ -410,19 +428,67 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 (v) the satisfaction of a confiscation order made in the proceedings (whether by payment of the amount due under the order or by the defendant serving imprisonment in default); and
 
+[Act 21 of 2014 wef 01/09/2014]
+
 (g) an order is subject to appeal as long as an appeal or further appeal is pending against the order or (if it was made on a conviction) against the conviction; and for this purpose, an appeal or further appeal shall be treated as pending (where one is competent but has not been brought) until the expiration of the time for bringing the appeal.
 
 [25/99]
 
+### Meaning of “item subject to legal privilege”
+
+2A\.—(1) For the purposes of this Act, an item is subject to legal privilege if —
+
+(a) it is a communication made between a lawyer and a client, or a legal counsel acting as such and his employer, in connection with the lawyer giving legal advice to the client or the legal counsel giving legal advice to the employer, as the case may be;
+
+(b) it is a communication made between 2 or more lawyers acting for a client, or 2 or more legal counsel acting as such for their employer, in connection with one or more of the lawyers giving legal advice to the client or one or more of the legal counsel giving legal advice to the employer, as the case may be;
+
+(c) it is a communication made —
+
+(i) between a client, or an employer of a legal counsel, and another person;
+
+(ii) between a lawyer acting for a client and either the client or another person; or
+
+(iii) between a legal counsel acting as such for his employer and either the employer or another person,
+
+in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or employer, as the case may be, is or may be, or was or might have been, a party;
+
+(d) it is an item, or a document (including its contents), that is enclosed with or referred to in any communication in paragraph (a) or (b) and that is made or prepared by any person in connection with a lawyer or legal counsel, or one or more of the lawyers or legal counsel, in either paragraph giving legal advice to the client or the employer of the legal counsel, as the case may be; or
+
+(e) it is an item, or a document (including its contents), that is enclosed with or referred to in any communication in paragraph (c) and that is made or prepared by any person in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or the employer of the legal counsel, as the case may be, is or may be, or was or might have been, a party,
+
+but it is not any such communication, item or document that is made, prepared or held with the intention of furthering a criminal purpose.
+
+(2) In this section —
+
+“client”, in relation to a lawyer, includes an agent of or other person representing a client and, if a client has died, a personal representative of the client;
+
+“employer”, in relation to a legal counsel, includes —
+
+(a) if the employer is one of a number of corporations that are related to each other under section 6 of the Companies Act (Cap. 50), every corporation so related as if the legal counsel is also employed by each of the related corporations;
+
+(b) if the employer is a public agency within the meaning of section 128A(6) of the Evidence Act (Cap. 97) and the legal counsel is required as part of his duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to any other public agency or agencies, the other public agency or agencies as if the legal counsel is also employed by the other public agency or each of the other public agencies; and
+
+(c) an employee or officer of the employer;
+
+“lawyer” means an advocate and solicitor, and includes an interpreter or other person who works under the supervision of an advocate and solicitor;
+
+“legal counsel” means a legal counsel as defined in section 3(7) of the Evidence Act, and includes an interpreter or other person who works under the supervision of a legal counsel.
+
+[Act 21 of 2014 wef 01/09/2014]
+
 ### Application
 
-3\.—(1) This Act shall apply to any drug trafficking offence or foreign drug trafficking offence whether committed before or after 30th November 1993.
+3\.—(1) This Act shall apply to any drug dealing offence or foreign drug dealing offence whether committed before or after 30th November 1993.
 
 [25/99]
 
-(2) Nothing in this Act shall impose any duty or confer any power on any court in or in connection with any proceedings under this Act against a person for a drug trafficking offence in respect of which he has been convicted by a court before 30th November 1993.
+[Act 21 of 2014 wef 01/09/2014]
+
+(2) Nothing in this Act shall impose any duty or confer any power on any court in or in connection with any proceedings under this Act against a person for a drug dealing offence in respect of which he has been convicted by a court before 30th November 1993.
 
 [25/99; 12/2000]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (3) This Act shall apply to any serious offence or foreign serious offence whether committed before or after 13th September 1999.
 
@@ -434,37 +500,79 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 (5) This Act shall apply to any property, whether it is situated in Singapore or elsewhere.
 
+### Suspicious Transaction Reporting Office
+
+3A\.—(1) There shall be an office of the Government to be known as the Suspicious Transaction Reporting Office which shall be responsible for —
+
+(a) the receipt and analysis of —
+
+(i) any thing disclosed to a Suspicious Transaction Reporting Officer pursuant to a requirement under subsection (3) or pursuant to section 39(1);
+
+(ii) any report under section 48C given to a Suspicious Transaction Reporting Officer under section 48C(5) or forwarded to a Suspicious Transaction Reporting Officer under section 48D;
+
+(iii) any report under section 48E given to a Suspicious Transaction Reporting Officer under section 48E(5);
+
+(iv) any cash transaction report submitted to a Suspicious Transaction Reporting Officer under section 48J(1); and
+
+(v) any cash transaction report filed with a Suspicious Transaction Reporting Officer under any regulations made under section 200 of the Casino Control Act (Cap. 33A); and
+
+(b) the dissemination of the results of any such analysis.
+
+(2) There shall be attached to the Suspicious Transaction Reporting Office such number of Suspicious Transaction Reporting Officers as appear to the Minister to be necessary for the performance of the responsibilities of the Suspicious Transaction Reporting Office.
+
+(3) A Suspicious Transaction Reporting Officer who is attached to the Suspicious Transaction Reporting Office may require any person to disclose any document or information for the purposes of an analysis referred to in subsection (1).
+
+(4) Where a person discloses any document or information to a Suspicious Transaction Reporting Officer pursuant to a requirement under subsection (3) —
+
+(a) the disclosure shall not be treated as a breach of any restriction against the disclosure imposed by law, contract or rules of professional conduct; and
+
+(b) the person shall not be liable for any loss arising out of the disclosure or any act or omission in consequence of the disclosure.
+
+[Act 21 of 2014 wef 01/09/2014]
+
 ## PART II
 
-CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT
+CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT
 
 ### Confiscation orders
 
-4\.—(1) Subject to section 27, where a defendant is convicted of one or more drug trafficking offences, the court shall, on the application of the Public Prosecutor, make a confiscation order against the defendant in respect of benefits derived by him from drug trafficking if the court is satisfied that such benefits have been so derived.
+4\.—(1) Subject to section 27, where a defendant is convicted of one or more drug dealing offences, the court shall, on the application of the Public Prosecutor, make a confiscation order against the defendant in respect of benefits derived by him from drug dealing if the court is satisfied that such benefits have been so derived.
 
-(2) If the court is satisfied that benefits have been derived by the defendant from drug trafficking, the court shall, at any time after sentencing or otherwise dealing with him in respect of the offence or, as the case may be, any of the offences concerned, determine in accordance with section 10 the amount to be recovered in his case by virtue of this section.
+[Act 21 of 2014 wef 01/09/2014]
+
+(2) If the court is satisfied that benefits have been derived by the defendant from drug dealing, the court shall, at any time after sentencing or otherwise dealing with him in respect of the offence or, as the case may be, any of the offences concerned, determine in accordance with section 10 the amount to be recovered in his case by virtue of this section.
+
+[25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
+
+(3) The court shall not take into account any application or proposed application for a confiscation order in determining the appropriate sentence or other manner of dealing with the defendant in respect of the drug dealing offences concerned.
 
 [25/99]
 
-(3) The court shall not take into account any application or proposed application for a confiscation order in determining the appropriate sentence or other manner of dealing with the defendant in respect of the drug trafficking offences concerned.
-
-[25/99]
+[Act 21 of 2014 wef 01/09/2014]
 
 (3A) Where the court which convicted the defendant is for any reason unable to determine the amount to be recovered under subsection (2), the determination and confiscation order, if any, may be made by the Registrar.
 
 [25/99]
 
-(3B) Any relevant evidence admitted in the proceedings against the defendant for the drug trafficking offence concerned shall, if the court or the Registrar thinks fit, be taken into account in determining the amount to be recovered under subsection (2) or (3A).
+(3B) Any relevant evidence admitted in the proceedings against the defendant for the drug dealing offence concerned shall, if the court or the Registrar thinks fit, be taken into account in determining the amount to be recovered under subsection (2) or (3A).
 
 [25/99]
 
-(4) Subject to section 28, for the purposes of this Act, a person who holds or has at any time (whether before or after 30th November 1993) held any property or any interest therein disproportionate to his known sources of income, the holding of which cannot be explained to the satisfaction of the court, shall, until the contrary is proved, be presumed to have derived benefits from drug trafficking.
+[Act 21 of 2014 wef 01/09/2014]
+
+(4) Subject to section 28, for the purposes of this Act, a person who holds or has at any time (whether before or after 30th November 1993) held any property or any interest therein disproportionate to his known sources of income, the holding of which cannot be explained to the satisfaction of the court, shall, until the contrary is proved, be presumed to have derived benefits from drug dealing.
 
 [25/99]
 
-(4A) Any expenditure by a person referred to in subsection (4) (whether incurred before or after 30th November 1993) shall, until the contrary is proved, be presumed to have been met out of his benefits derived from drug trafficking.
+[Act 21 of 2014 wef 01/09/2014]
+
+(4A) Any expenditure by a person referred to in subsection (4) (whether incurred before or after 30th November 1993) shall, until the contrary is proved, be presumed to have been met out of his benefits derived from drug dealing.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (5) The presumption referred to in subsection (4) or (4A) shall not be rebutted merely by adducing proof to the effect that the property or interest therein was derived from criminal conduct.
 
@@ -504,15 +612,17 @@ CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT
 
 [25/99]
 
-(8) The presumption referred to in subsection (6) shall not be rebutted merely by adducing proof to the effect that the property or interest therein (including income accruing from such property or interest) was derived from drug trafficking.
+(8) The presumption referred to in subsection (6) shall not be rebutted merely by adducing proof to the effect that the property or interest therein (including income accruing from such property or interest) was derived from drug dealing.
 
 [4A
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 ### Live video or live television links
 
-6\.—(1) Where the defendant has been charged with or convicted of a drug trafficking offence or a serious offence, the court or the Registrar may make an order that —
+6\.—(1) Where the defendant has been charged with or convicted of a drug dealing offence or a serious offence, the court or the Registrar may make an order that —
 
 (a) if the defendant is represented by an advocate and solicitor, the defendant shall not be present in person in any proceedings under this Act; or
 
@@ -520,27 +630,35 @@ CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 (2) Where an order is made under subsection (1)(b), section 62A of the Evidence Act (Cap. 97) shall apply, with the necessary modifications, as if the defendant were a witness.
 
 [4B
 
 [25/99]
 
-### Assessing benefits of drug trafficking
+### Assessing benefits of drug dealing
 
 7\.—(1) Subject to section 28, for the purposes of this Act —
 
-(a) the benefits derived by any person from drug trafficking shall be any property or interest therein (including income accruing from such property or interest) held by the person at any time, whether before or after 30th November 1993, being property or interest disproportionate to his known sources of income and the holding of which cannot be explained to the satisfaction of the court; and
+(a) the benefits derived by any person from drug dealing shall be any property or interest therein (including income accruing from such property or interest) held by the person at any time, whether before or after 30th November 1993, being property or interest disproportionate to his known sources of income and the holding of which cannot be explained to the satisfaction of the court; and
 
-(b) the value of the benefits derived by him from drug trafficking shall be the aggregate of the values of the properties and interests therein referred to in paragraph (a).
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) the value of the benefits derived by him from drug dealing shall be the aggregate of the values of the properties and interests therein referred to in paragraph (a).
 
 [25/99]
 
-(2) For the purpose of assessing the value of the benefits derived by the defendant from drug trafficking in a case where a confiscation order has previously been made against him, the court shall leave out of account any such benefits of drug trafficking or criminal conduct that are shown to the court to have been taken into account in determining the amount to be recovered under that order.
+[Act 21 of 2014 wef 01/09/2014]
+
+(2) For the purpose of assessing the value of the benefits derived by the defendant from drug dealing in a case where a confiscation order has previously been made against him, the court shall leave out of account any such benefits of drug dealing or criminal conduct that are shown to the court to have been taken into account in determining the amount to be recovered under that order.
 
 [5
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Assessing benefits derived from criminal conduct
 
@@ -552,17 +670,21 @@ CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT
 
 [25/99]
 
-(2) For the purpose of assessing the value of the benefits derived by the defendant from criminal conduct, in a case where a confiscation order or an order made under section 13 of the Prevention of Corruption Act (Cap. 241) has previously been made against him, the court shall leave out of account any such benefits derived from drug trafficking or criminal conduct, as the case may be, that are shown to the court to have been taken into account in determining the amount to be recovered under that order.
+(2) For the purpose of assessing the value of the benefits derived by the defendant from criminal conduct, in a case where a confiscation order or an order made under section 13 of the Prevention of Corruption Act (Cap. 241) has previously been made against him, the court shall leave out of account any such benefits derived from drug dealing or criminal conduct, as the case may be, that are shown to the court to have been taken into account in determining the amount to be recovered under that order.
 
 [5A
 
 [25/99]
 
-### Statements relating to drug trafficking or criminal conduct
+[Act 21 of 2014 wef 01/09/2014]
+
+### Statements relating to drug dealing or criminal conduct
 
 9\.—(1) Where —
 
-(a) there is tendered to the court by the prosecution a statement as to any matters relevant to the determination whether benefits have been derived by the defendant from drug trafficking or from criminal conduct, as the case may be, or to the assessment of the value of those benefits; and
+(a) there is tendered to the court by the prosecution a statement as to any matters relevant to the determination whether benefits have been derived by the defendant from drug dealing or from criminal conduct, as the case may be, or to the assessment of the value of those benefits; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) the defendant accepts to any extent any allegation in the statement,
 
@@ -594,23 +716,29 @@ the court may, for the purposes of that determination, treat the acceptance by t
 
 (b) in writing.
 
-(6) No acceptance by the defendant under this section that benefits have been derived by him from drug trafficking or from criminal conduct, as the case may be, shall be admissible in evidence in any proceedings for an offence.
+(6) No acceptance by the defendant under this section that benefits have been derived by him from drug dealing or from criminal conduct, as the case may be, shall be admissible in evidence in any proceedings for an offence.
 
 [6
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 ### Amount to be recovered under confiscation order
 
-10\.—(1) Subject to subsection (3), the amount to be recovered from the defendant under the confiscation order shall be the amount the court assesses to be the value of the benefits derived by the defendant from drug trafficking or from criminal conduct, as the case may be.
+10\.—(1) Subject to subsection (3), the amount to be recovered from the defendant under the confiscation order shall be the amount the court assesses to be the value of the benefits derived by the defendant from drug dealing or from criminal conduct, as the case may be.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) If the court is satisfied as to any matter relevant for determining the amount that might be realised at the time the confiscation order is made (whether by an acceptance under section 9 or otherwise), the court may issue a certificate giving its opinion as to the matters concerned and shall do so if satisfied as mentioned in subsection (3).
 
-(3) If the court is satisfied that the amount that might be realised at the time the confiscation order is made is less than the amount the court assesses to be the value of the benefits derived by the defendant from drug trafficking or from criminal conduct, as the case may be, the amount to be recovered from the defendant under the confiscation order shall be the amount appearing to the court to be the amount that might be so realised.
+(3) If the court is satisfied that the amount that might be realised at the time the confiscation order is made is less than the amount the court assesses to be the value of the benefits derived by the defendant from drug dealing or from criminal conduct, as the case may be, the amount to be recovered from the defendant under the confiscation order shall be the amount appearing to the court to be the amount that might be so realised.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (4) If, on an application made in accordance with subsection (5), the court is satisfied that the amount that might be realised in the case of the person in question is greater than the amount taken into account in making the confiscation order (whether it was greater than was thought when the order was made or has subsequently increased), the court shall issue a certificate to that effect, giving its reasons.
 
@@ -692,9 +820,13 @@ the value referred to in subsection (3)(b) shall be the value to him at the mate
 
 (7) A gift (including a gift made before 30th November 1993) is caught by this Act if —
 
-(a) it was made by the defendant at any time since the beginning of the period of 6 years ending when the proceedings for a drug trafficking offence were instituted against him or, where no such proceedings have been instituted, when an application under section 4 for a confiscation order is made against him; or
+(a) it was made by the defendant at any time since the beginning of the period of 6 years ending when the proceedings for a drug dealing offence were instituted against him or, where no such proceedings have been instituted, when an application under section 4 for a confiscation order is made against him; or
 
-(b) it was made by the defendant at any time and was a gift of property which is or is part of the benefits derived by the defendant from drug trafficking.
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) it was made by the defendant at any time and was a gift of property which is or is part of the benefits derived by the defendant from drug dealing.
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (8) A gift (including a gift made before 13th September 1999) is caught by this Act if —
 
@@ -720,13 +852,17 @@ the value referred to in subsection (3)(b) shall be the value to him at the mate
 
 (2) If a person applies to the court for an order under this subsection in respect of his interest in property and the court is satisfied —
 
-(a) that he was not in any way involved in the defendant’s drug trafficking or criminal conduct, as the case may be; and
+(a) that he was not in any way involved in the defendant’s drug dealing or criminal conduct, as the case may be; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) that he acquired the interest —
 
 (i) for sufficient consideration; and
 
-(ii) without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time he acquired it, property that was involved in or derived from drug trafficking or criminal conduct, as the case may be,
+(ii) without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time he acquired it, property that was involved in or derived from drug dealing or criminal conduct, as the case may be,
+
+[Act 21 of 2014 wef 01/09/2014]
 
 the court shall make an order declaring the nature, extent and value (as at the time the order is made) of his interest.
 
@@ -788,37 +924,51 @@ the term of imprisonment to be served in default of payment of the amount shall 
 
 [25/99]
 
-(4) Where a defendant is convicted of a drug trafficking offence or a serious offence, as the case may be, and sentenced to death, any amount which the court orders the defendant to pay under section 4 or 5 may, on an application by the Public Prosecutor to the High Court, be realised by the High Court exercising the powers conferred by section 19(3) to (7).
+(4) Where a defendant is convicted of a drug dealing offence or a serious offence, as the case may be, and sentenced to death, any amount which the court orders the defendant to pay under section 4 or 5 may, on an application by the Public Prosecutor to the High Court, be realised by the High Court exercising the powers conferred by section 19(3) to (7).
 
 [25/99]
 
-(5) Where a defendant is convicted of a drug trafficking offence or a serious offence, as the case may be, any amount which the court orders the defendant to pay under section 4 or 5 and which, in the case of realisable property comprising wholly or partly cash, may be realised by the High Court making a garnishee order subject to Rules of Court.
+[Act 21 of 2014 wef 01/09/2014]
+
+(5) Where a defendant is convicted of a drug dealing offence or a serious offence, as the case may be, any amount which the court orders the defendant to pay under section 4 or 5 and which, in the case of realisable property comprising wholly or partly cash, may be realised by the High Court making a garnishee order subject to Rules of Court.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Cases in which restraint orders and charging orders may be made
 
 15\.—(1) The powers conferred on the High Court by section 16(1) to make a restraint order and by section 17(1) to make a charging order are exercisable where —
 
-(a) proceedings have been instituted against the defendant for a drug trafficking offence or a serious offence, as the case may be;
+(a) proceedings have been instituted against the defendant for a drug dealing offence or a serious offence, as the case may be;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) the proceedings have not been concluded; and
 
-(c) the Court is satisfied that there is reasonable cause to believe that benefits have been derived by the defendant from drug trafficking or from criminal conduct, as the case may be.
+(c) the Court is satisfied that there is reasonable cause to believe that benefits have been derived by the defendant from drug dealing or from criminal conduct, as the case may be.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) Those powers are also exercisable where the High Court is satisfied —
 
-(a) that a person has been informed under section 23(1) of the Criminal Procedure Code 2010 that he may be prosecuted for a drug trafficking offence or a serious offence, as the case may be; or
+(a) that a person has been informed under section 23(1) of the Criminal Procedure Code 2010 that he may be prosecuted for a drug dealing offence or a serious offence, as the case may be; or
 
 [15/2010 wef 02/01/2011]
 
-(b) that investigation for a drug trafficking offence or a serious offence, as the case may be, having been commenced against a person, he dies or cannot be found or is outside the jurisdiction,
+[Act 21 of 2014 wef 01/09/2014]
 
-and that there is reasonable cause to believe that benefits have been derived by that person from drug trafficking or from criminal conduct, as the case may be.
+(b) that investigation for a drug dealing offence or a serious offence, as the case may be, having been commenced against a person, he dies or cannot be found or is outside the jurisdiction,
+
+[Act 21 of 2014 wef 01/09/2014]
+
+and that there is reasonable cause to believe that benefits have been derived by that person from drug dealing or from criminal conduct, as the case may be.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2A) The High Court may exercise the powers conferred by section 16(1) notwithstanding any provision in any other written law prohibiting any dealing with any realisable property.
 
@@ -828,9 +978,11 @@ and that there is reasonable cause to believe that benefits have been derived by
 
 (a) references in this Act to the defendant shall be construed as references to the person referred to in subsection (2); and
 
-(b) references in this Act to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (2) for a drug trafficking offence or a serious offence, as the case may be.
+(b) references in this Act to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (2) for a drug dealing offence or a serious offence, as the case may be.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (4) Where the High Court has made an order under section 16(1) or 17(1) by virtue of subsection (2), the Court shall discharge the order if the proposed proceedings are not instituted within such time as the Court considers reasonable and which shall not in any event exceed a period of 3 months.
 
@@ -860,9 +1012,11 @@ and that there is reasonable cause to believe that benefits have been derived by
 
 (a) may be discharged or varied in relation to any property; and
 
-(b) shall be discharged when proceedings for the drug trafficking offence or serious offence, as the case may be, are concluded.
+(b) shall be discharged when proceedings for the drug dealing offence or serious offence, as the case may be, are concluded.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (6) Where the High Court has made a restraint order, the Court may at any time appoint the Public Trustee or any person as receiver —
 
@@ -928,11 +1082,13 @@ subject to such exceptions and conditions as may be specified by the Court; and 
 
 (7) Where the High Court has made a charging order, the Court may give such directions to the Public Trustee or any person as the Court thinks fit to safeguard the assets under the charging order.
 
-(8) The High Court may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings for the drug trafficking offence or serious offence, as the case may be, are concluded or the amount, payment of which is secured by the charge, is paid into Court.
+(8) The High Court may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings for the drug dealing offence or serious offence, as the case may be, are concluded or the amount, payment of which is secured by the charge, is paid into Court.
 
 [13
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Charging orders: supplementary provisions
 
@@ -950,7 +1106,9 @@ subject to such exceptions and conditions as may be specified by the Court; and 
 
 19\.—(1) Where —
 
-(a) in proceedings instituted for a drug trafficking offence or a serious offence, as the case may be, a confiscation order is made;
+(a) in proceedings instituted for a drug dealing offence or a serious offence, as the case may be, a confiscation order is made;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) the order is not subject to appeal; and
 
@@ -962,7 +1120,9 @@ the High Court may, on an application of the Public Prosecutor, exercise the pow
 
 (2) The High Court may, on the application of the Public Prosecutor, also exercise the powers conferred by subsections (3) to (7) where —
 
-(a) a confiscation order is made against a person who is, by reason of section 26, taken to be convicted of a drug trafficking offence or a serious offence, as the case may be;
+(a) a confiscation order is made against a person who is, by reason of section 26, taken to be convicted of a drug dealing offence or a serious offence, as the case may be;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) the order is not subject to appeal; and
 
@@ -1150,13 +1310,15 @@ APPLICATION TO ABSCONDED PERSONS
 
 ### Absconded persons
 
-26\.—(1) For the purposes of this Act, a person shall be taken to be convicted of a drug trafficking offence or a serious offence, as the case may be, if the person absconds in connection with the drug trafficking offence or the serious offence, as the case may be, and any reference in Part II to the defendant shall include reference to such a person.
+26\.—(1) For the purposes of this Act, a person shall be taken to be convicted of a drug dealing offence or a serious offence, as the case may be, if the person absconds in connection with the drug dealing offence or the serious offence, as the case may be, and any reference in Part II to the defendant shall include reference to such a person.
 
 [25/99]
 
-(2) For the purposes of subsection (1), a person shall be taken to abscond in connection with a drug trafficking offence if whether before or after 30th November 1993 —
+[Act 21 of 2014 wef 01/09/2014]
 
-(a) investigations for a drug trafficking offence have been commenced against the person; and
+(2) For the purposes of subsection (1), a person shall be taken to abscond in connection with a drug dealing offence if whether before or after 30th November 1993 —
+
+(a) investigations for a drug dealing offence have been commenced against the person; and
 
 (b) the person —
 
@@ -1165,6 +1327,8 @@ APPLICATION TO ABSCONDED PERSONS
 (ii) at the end of the period of 6 months from the date on which investigations referred to in paragraph (a) were commenced against him, cannot be found, apprehended or extradited.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (3) For the purposes of subsection (1), a person shall be taken to abscond in connection with a serious offence if, whether before or after 13th September 1999 —
 
@@ -1182,15 +1346,17 @@ APPLICATION TO ABSCONDED PERSONS
 
 ### Confiscation order where person has absconded
 
-27\. Where a person is, by reason of section 26, to be taken to have been convicted of a drug trafficking offence or a serious offence, as the case may be, a court shall not make a confiscation order in reliance on the person’s conviction of the offence unless the court is satisfied —
+27\. Where a person is, by reason of section 26, to be taken to have been convicted of a drug dealing offence or a serious offence, as the case may be, a court shall not make a confiscation order in reliance on the person’s conviction of the offence unless the court is satisfied —
 
 (a) on the evidence adduced before it that, on the balance of probabilities, the person has absconded; and
 
-(b) having regard to all the evidence before the court, that such evidence if unrebutted would warrant his conviction for the drug trafficking offence or serious offence, as the case may be.
+(b) having regard to all the evidence before the court, that such evidence if unrebutted would warrant his conviction for the drug dealing offence or serious offence, as the case may be.
 
 [23
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Effect of death on proceedings
 
@@ -1206,13 +1372,15 @@ APPLICATION TO ABSCONDED PERSONS
 
 [25/99]
 
-(4) For the purposes of Part II, the following provisions shall apply in determining whether a deceased defendant had derived benefits from drug trafficking or in determining those benefits or the value of those benefits:
+(4) For the purposes of Part II, the following provisions shall apply in determining whether a deceased defendant had derived benefits from drug dealing or in determining those benefits or the value of those benefits:
 
-(a) a deceased defendant shall, until the contrary is proved, be presumed to have derived benefits from drug trafficking if he had, at any time (whether before or after 30th November 1993) since the beginning of the period of 6 years ending at the date of his death, held any property or interest therein disproportionate to his known sources of income, the holding of which cannot be explained to the satisfaction of the court;
+(a) a deceased defendant shall, until the contrary is proved, be presumed to have derived benefits from drug dealing if he had, at any time (whether before or after 30th November 1993) since the beginning of the period of 6 years ending at the date of his death, held any property or interest therein disproportionate to his known sources of income, the holding of which cannot be explained to the satisfaction of the court;
 
-(b) the benefits derived by a deceased defendant from drug trafficking shall be any property or interest therein held by him during the period mentioned in paragraph (a), being property or interest therein disproportionate to his known sources of income, and the holding of which cannot be explained to the satisfaction of the court; and
+(b) the benefits derived by a deceased defendant from drug dealing shall be any property or interest therein held by him during the period mentioned in paragraph (a), being property or interest therein disproportionate to his known sources of income, and the holding of which cannot be explained to the satisfaction of the court; and
 
-(c) the value of the benefits derived by a deceased defendant from drug trafficking shall be the aggregate of the values of those properties and interests therein less the value of any such benefits that are shown to have been taken into account by any court in determining the amount to be recovered under any confiscation order previously made against the deceased defendant.
+(c) the value of the benefits derived by a deceased defendant from drug dealing shall be the aggregate of the values of those properties and interests therein less the value of any such benefits that are shown to have been taken into account by any court in determining the amount to be recovered under any confiscation order previously made against the deceased defendant.
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (4A) For the purposes of Part II, the following provisions shall apply in determining whether a deceased defendant had derived benefits from criminal conduct or in determining those benefits or the value of those benefits:
 
@@ -1228,13 +1396,17 @@ APPLICATION TO ABSCONDED PERSONS
 
 (a) subsection (4) shall not be rebutted merely by adducing proof to the effect that the property or interest therein was derived from criminal conduct;
 
-(b) subsection (4A) shall not be rebutted merely by adducing proof to the effect that the property or interest therein was derived from drug trafficking.
+(b) subsection (4A) shall not be rebutted merely by adducing proof to the effect that the property or interest therein was derived from drug dealing.
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 (5) In this section, “deceased defendant” means a person who dies —
 
-(a) after investigations for a drug trafficking offence or a serious offence, as the case may be, have been commenced against him; and
+(a) after investigations for a drug dealing offence or a serious offence, as the case may be, have been commenced against him; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) before proceedings in respect of the offence have been instituted or if such proceedings have been instituted, before he is convicted of the offence.
 
@@ -1252,6 +1424,93 @@ APPLICATION TO ABSCONDED PERSONS
 
 [25
 
+## PART IVA
+
+CONFISCATION OF PROPERTY OF
+
+
+
+
+CORRESPONDING VALUE TO INSTRUMENTALITIES
+
+[Act 21 of 2014 wef 01/09/2014]
+
+### Application of Part
+
+29A\.—(1) This Part applies in relation to any drug dealing offence or serious offence, whether committed before, on or after the date of commencement of section 5 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Amendment) Act 2014.
+
+(2) However, nothing in this Part imposes any duty or confers any power on a court in connection with any proceedings against a person for a drug dealing offence or a serious offence for which he has been convicted by a court before the date of commencement of section 5 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Amendment) Act 2014.
+
+[Act 21 of 2014 wef 01/09/2014]
+
+### Substitute property confiscation order
+
+29B\.—(1) Where a defendant is convicted, or is by reason of section 26 taken to be convicted, of a drug dealing offence or a serious offence, the court shall, on the application of the Public Prosecutor, make a substitute property confiscation order against the defendant, if the court is satisfied that —
+
+(a) the defendant had used or intended to use any property (referred to in this Part as an instrumentality) for the commission of the offence; and
+
+(b) the instrumentality is not available for forfeiture as mentioned in subsection (2).
+
+(2) For the purposes of subsection (1), an instrumentality is not available for forfeiture if —
+
+(a) the instrumentality is not held by the defendant;
+
+(b) the instrumentality is held by the defendant and has been seized under any written law, but has been ordered to be released, or to be disposed of in favour of any person other than the defendant; or
+
+(c) the instrumentality has been sold or otherwise disposed of, or cannot be found.
+
+(3) When a court makes a substitute property confiscation order against the defendant, the defendant is liable to pay to the Government the amount which —
+
+(a) the court assesses to be the value of the instrumentality at the time the drug dealing offence or serious offence was committed; and
+
+(b) is specified in the order.
+
+(4) For the purposes of subsection (3), the value of the instrumentality shall be its full value, even if the defendant did not expend any amount for the purpose of using it for the commission of the offence, or did not expend an amount equal to its full value for that purpose.
+
+(5) If a substitute property confiscation order is made against 2 or more defendants in respect of the same instrumentality, the defendants are jointly and severally liable to pay to the Government the amount specified in the order.
+
+[Act 21 of 2014 wef 01/09/2014]
+
+### Modified application of Parts II, III and IV
+
+29C\.—(1) The provisions of Parts II, III and IV shall apply in relation to, and for the purpose of enabling the satisfaction of, a substitute property confiscation order as they apply in relation to, and for the purpose of enabling the satisfaction of, a confiscation order, subject to —
+
+(a) the following modifications:
+
+(i) a reference in section 4(2) or 5(2) to a court being satisfied that a defendant has derived benefits from drug dealing or from criminal conduct shall be read as a reference to a court being satisfied that the defendant had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
+
+(ii) a reference in section 4(2) or 5(2) to a determination in accordance with section 10 of the amount to be recovered by virtue of section 4 or 5 shall be read as a reference to a determination in accordance with sections 10 and 29B(3) and (4) of the amount to be recovered by virtue of section 29B;
+
+(iii) the reference in section 9(1) to a determination of whether benefits have been derived by a defendant from drug dealing or from criminal conduct shall be read as a reference to a determination of whether the defendant had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
+
+(iv) a reference in section 9(1) or 10(3) or (6) to an assessment of the value of benefits derived by a defendant from drug dealing or from criminal conduct shall be read as a reference to an assessment of the value of the instrumentality in accordance with section 29B(3) and (4);
+
+(v) the reference in section 9(6) to an acceptance by a defendant that benefits have been derived by him from drug dealing or from criminal conduct shall be read as a reference to an acceptance by the defendant that he had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
+
+(vi) each reference in section 14 to an order to pay an amount under section 4 or 5 shall be read as a reference to an order to pay an amount under a substitute property confiscation order;
+
+(vii) a reference in section 15(1) or (2) to the High Court being satisfied that there is reasonable cause to believe that benefits have been derived by a person from drug dealing or from criminal conduct shall be read as a reference to the High Court being satisfied that there is reasonable cause to believe that the person had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
+
+(viii) the reference in section 17(1)(a) to a confiscation order shall be read as a reference to a substitute property confiscation order; and
+
+(b) such other modifications as may be prescribed for the purposes of this subsection.
+
+(2) Where both a confiscation order and a substitute property confiscation order are made against a defendant in relation to the same drug dealing offence or serious offence, then —
+
+(a) a reference in section 17(1)(b) or 20(2) to the amount payable under a confiscation order shall be read as a reference to the total amount payable under both orders;
+
+(b) a reference in section 20(1) or 21(2) or (6) to the satisfaction of a confiscation order shall be read as a reference to the satisfaction of both orders; and
+
+(c) each reference in section 22 to the amount to be recovered under a confiscation order shall be read as a reference to the amount to be recovered under either order or both orders, as the case may be.
+
+(3) In this section, a reference to Parts II, III and IV —
+
+(a) includes a reference to section 2, insofar as that section applies to the interpretation of the provisions of those Parts; but
+
+(b) excludes any reference to sections 4(1), (4), (4A), (5) and (6), 5(1), (6), (7) and (8), 7, 8, 10(1), 13 and 28(3A), (4), (4A), (4B) and (6), and all other provisions that are rendered inapplicable by regulations made for the purpose of subsection (1)(b).
+
+[Act 21 of 2014 wef 01/09/2014]
+
 ## PART V
 
 INFORMATION GATHERING POWERS
@@ -1262,9 +1521,11 @@ Production orders
 
 ### Production orders
 
-30\.—(1) An authorised officer may, for the purpose of an investigation into drug trafficking or criminal conduct, as the case may be, apply to a court for an order under subsection (2) in relation to particular material or material of a particular description.
+30\.—(1) An authorised officer may, for the purpose of an investigation into drug dealing or criminal conduct, as the case may be, apply to a court for an order under subsection (2) in relation to particular material or material of a particular description.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (1A) This section shall not apply to any material in the possession of a financial institution.
 
@@ -1282,7 +1543,9 @@ within such period as the order may specify.
 
 (4) The conditions referred to in subsection (2) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or from criminal conduct, as the case may be;
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug dealing or from criminal conduct, as the case may be;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) that there are reasonable grounds for believing that the material to which the application relates —
 
@@ -1348,13 +1611,15 @@ that the material should be produced or that access to it should be given.
 
 [Act 2 of 2012 wef 01/03/2012]
 
-### Production orders against financial institution to produce material relating to drug trafficking or criminal conduct
+### Production orders against financial institution to produce material relating to drug dealing or criminal conduct
 
-31\.—(1) The Public Prosecutor or any person duly authorised by him in writing may, for the purpose of an investigation into a drug trafficking offence or a serious offence, as the case may be, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
+31\.—(1) The Public Prosecutor or any person duly authorised by him in writing may, for the purpose of an investigation into a drug dealing offence or a serious offence, as the case may be, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
 
 [15/2010 wef 02/01/2011]
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) The High Court may, if on such an application it is satisfied that the conditions referred to in subsection (3) are fulfilled, make an order that the financial institution which appears to the Court to be in possession of the material to which the application relates shall —
 
@@ -1372,7 +1637,9 @@ within a reasonable period, but not less than 7 days, as the order may specify.
 
 (3) The conditions referred to in subsection (2) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or criminal conduct, as the case may be;
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug dealing or criminal conduct, as the case may be;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) that there are reasonable grounds for believing that the material to which the application relates —
 
@@ -1400,11 +1667,7 @@ within a reasonable period, but not less than 7 days, as the order may specify.
 
 [Act 2 of 2012 wef 01/03/2012]
 
-(7) In this section, “items subject to legal privilege” has the same meaning as in section 35(2).
-
-[26A
-
-[25/99]
+(7) [Deleted by Act 21 of 2014 wef 01/09/2014]
 
 ### Variation of production order
 
@@ -1436,9 +1699,11 @@ Search powers
 
 ### Authority for search
 
-34\.—(1) An authorised officer may, for the purpose of an investigation into drug trafficking or criminal conduct, as the case may be, apply to a court for a warrant under this section in relation to specified premises.
+34\.—(1) An authorised officer may, for the purpose of an investigation into drug dealing or criminal conduct, as the case may be, apply to a court for a warrant under this section in relation to specified premises.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) On such application, the court may issue a warrant authorising an authorised officer to enter and search the premises if the court is satisfied that —
 
@@ -1452,7 +1717,9 @@ Search powers
 
 (3) The conditions referred to in subsection (2)(b) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or from criminal conduct, as the case may be; and
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug dealing or from criminal conduct, as the case may be; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) that the conditions in section 30(4)(b) and (c) or 31(3)(b) and (c) are fulfilled in relation to any material on the premises.
 
@@ -1460,11 +1727,15 @@ Search powers
 
 (4) The conditions referred to in subsection (2)(c) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or from criminal conduct, as the case may be; and
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug dealing or from criminal conduct, as the case may be; and
 
-(b) that there are reasonable grounds for suspecting that there is on the premises material relating to the specified person or to drug trafficking or criminal conduct, as the case may be, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made, but that the material cannot at the time of the application be particularised.
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) that there are reasonable grounds for suspecting that there is on the premises material relating to the specified person or to drug dealing or criminal conduct, as the case may be, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made, but that the material cannot at the time of the application be particularised.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (5) Where an authorised officer has entered premises in the execution of a warrant issued under this section, he may seize and retain any material, other than items subject to legal privilege, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
 
@@ -1484,19 +1755,7 @@ Search powers
 
 “court” means the High Court and the District Court;
 
-“items subject to legal privilege” means —
-
-(a) communications between an advocate and solicitor and his client or any person representing his client made in connection with the giving of legal advice to the client;
-
-(b) communications between an advocate and solicitor and his client or any person representing his client or between such an advocate and solicitor or his client or any such representative and any other person made in connection with or in contemplation of legal proceedings and for the purposes of such proceedings; and
-
-(c) items enclosed with or referred to in such communications and made —
-
-(i) in connection with the giving of legal advice; or
-
-(ii) in connection with or in contemplation of legal proceedings and for the purposes of such proceedings,
-
-when they are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications or item held with the intention of furthering a criminal purpose;
+[Deleted by Act 21 of 2014 wef 01/09/2014]
 
 “premises” includes any place and, in particular, includes —
 
@@ -1600,11 +1859,13 @@ Record-keeping and suspicious transaction reports
 
 (c) is intended to be used in connection with,
 
-any act which may constitute drug trafficking or criminal conduct, as the case may be, and the information or matter on which the knowledge or suspicion is based came to his attention in the course of his trade, profession, business or employment, he shall disclose the knowledge or suspicion or the information or other matter on which that knowledge or suspicion is based to a Suspicious Transaction Reporting Officer as soon as is reasonably practicable after it comes to his attention.
+any act which may constitute drug dealing or criminal conduct, as the case may be, and the information or matter on which the knowledge or suspicion is based came to his attention in the course of his trade, profession, business or employment, he shall disclose the knowledge or suspicion or the information or other matter on which that knowledge or suspicion is based to a Suspicious Transaction Reporting Officer as soon as is reasonably practicable after it comes to his attention.
 
 [44/2007 wef 01/11/2007]
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (1A) For the avoidance of doubt, where the property referred to in subsection (1) is the subject of a transaction, the person referred to in that subsection shall make the disclosure referred to in that subsection regardless of whether the transaction was completed.
 
@@ -1620,9 +1881,15 @@ any act which may constitute drug trafficking or criminal conduct, as the case m
 
 [25/99]
 
-(4) Subsection (1) or (2) does not make it an offence for an advocate and solicitor or his clerks or employees or an interpreter to fail to disclose any information or other matter which are items subject to legal privilege.
+(4) Nothing in subsection (1) or (2) makes it an offence —
 
-[25/99]
+(a) for an advocate and solicitor, or an interpreter or other person who works under the supervision of an advocate and solicitor, to fail to disclose any information or other matter which is an item subject to legal privilege;
+
+(b) for a legal counsel acting as such for his employer, or an interpreter or other person who works under the supervision of the legal counsel, to fail to disclose any information or other matter concerning the employer which is an item subject to legal privilege; or
+
+(c) for an arbitrator to fail to disclose any information or other matter which came to his attention in the course of any arbitral proceedings in which he acted as an arbitrator.
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (5) It is a defence to a charge of committing an offence under this section that the person charged had a reasonable excuse for not disclosing the information or other matter in question.
 
@@ -1648,11 +1915,7 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 
 [25/99]
 
-(9) In this section, “items subject to legal privilege” has the same meaning as in section 35(2).
-
-[38
-
-[25/99]
+(9) [Deleted by Act 21 of 2014 wef 01/09/2014]
 
 ### Protection where information given under section 39
 
@@ -1692,19 +1955,39 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [44/2007 wef 01/11/2007]
 
-(4) In this section, “informer” means a person who makes a disclosure under section 39(1).
+(4) In this section, “informer” means a person who makes a disclosure pursuant to a requirement under section 3A(3) or pursuant to section 39(1).
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Communication of information to foreign authority
 
 41\.—(1) Notwithstanding section 56 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing —
 
-(a) disclosed to him under section 39(1), 48C or 48E; or
+(a) disclosed to him pursuant to a requirement under section 3A(3) or pursuant to section 39(1);
 
-(b) forwarded to him under section 48D,
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) given to him under section 48C(5) or 48E(5);
+
+[Act 21 of 2014 wef 01/09/2014]
+
+(c) forwarded to him under section 48D;
+
+[Act 21 of 2014 wef 01/09/2014]
+
+(d) submitted to him under section 48J(1); or
+
+[Act 21 of 2014 wef 01/09/2014]
+
+(e) filed with him under any regulations made under section 200 of the Casino Control Act (Cap. 33A),
+
+[Act 21 of 2014 wef 01/09/2014]
 
 to a corresponding authority of a foreign country if —
 
-(i) that thing may be relevant to an investigation by that authority into a foreign drug trafficking offence or a foreign serious offence; and
+(i) that thing may be relevant to an investigation by that authority into a foreign drug dealing offence or a foreign serious offence; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (ii) the conditions in subsection (2) are satisfied.
 
@@ -1712,9 +1995,11 @@ to a corresponding authority of a foreign country if —
 
 (2) The conditions referred to in subsection (1) are as follows:
 
-(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed to a Suspicious Transaction Reporting Officer under section 39(1), 48C or 48E or an immigration officer under section 48C;
+(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed, or the corresponding authority of the foreign country has given an undertaking, to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed, given, forwarded or submitted to, or filed with, a Suspicious Transaction Reporting Officer pursuant to a requirement under section 3A(3), pursuant to section 39(1), under section 48C(5), 48D, 48E(5) or 48J(1) or under any regulations made under section 200 of the Casino Control Act, or required to be given to an immigration officer under section 48C(5);
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) the Suspicious Transaction Reporting Officer is satisfied that the corresponding authority has given appropriate undertakings —
 
@@ -1776,13 +2061,17 @@ Disclosure of information held by public bodies
 
 (a) a reasonable opportunity has been given for an officer of the public body to make representations to the Court; and
 
-(b) it appears to the Court that the material is likely to be of substantial value in exercising functions relating to drug trafficking or criminal conduct, as the case may be.
+(b) it appears to the Court that the material is likely to be of substantial value in exercising functions relating to drug dealing or criminal conduct, as the case may be.
 
 [25/99]
 
-(8) Material disclosed in pursuance of an order under subsection (7) may, subject to any conditions contained in the order, be further disclosed for the purposes of functions relating to drug trafficking or criminal conduct, as the case may be.
+[Act 21 of 2014 wef 01/09/2014]
+
+(8) Material disclosed in pursuance of an order under subsection (7) may, subject to any conditions contained in the order, be further disclosed for the purposes of functions relating to drug dealing or criminal conduct, as the case may be.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (9) Material may be produced or disclosed in pursuance of this section notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by statute or otherwise.
 
@@ -1800,25 +2089,33 @@ Disclosure of information held by public bodies
 
 OFFENCES
 
-### Assisting another to retain benefits of drug trafficking
+### Assisting another to retain benefits of drug dealing
 
 43\.—(1) Subject to subsection (3), a person who enters into, or is otherwise concerned in an arrangement, knowing or having reasonable grounds to believe that by the arrangement —
 
-(a) the retention or control by or on behalf of another (referred to in this section as that other person) of that other person’s benefits of drug trafficking is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise); or
+(a) the retention or control by or on behalf of another (referred to in this section as that other person) of that other person’s benefits of drug dealing is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise); or
 
-(b) that other person’s benefits of drug trafficking —
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) that other person’s benefits of drug dealing —
 
 (i) are used to secure funds that are placed at that other person’s disposal, directly or indirectly; or
 
 (ii) are used for that other person’s benefit to acquire property by way of investment or otherwise,
 
-and knowing or having reasonable grounds to believe that that other person is a person who carries on or has carried on drug trafficking or has benefited from drug trafficking, shall be guilty of an offence.
+[Act 21 of 2014 wef 01/09/2014]
+
+and knowing or having reasonable grounds to believe that that other person is a person who carries on or has carried on drug dealing or has benefited from drug dealing, shall be guilty of an offence.
 
 [25/99]
 
-(2) In this section, references to any person’s benefits of drug trafficking include a reference to any property which, in whole or in part, directly or indirectly, represented in his hands his benefits of drug trafficking.
+[Act 21 of 2014 wef 01/09/2014]
 
-(3) Where a person discloses to an authorised officer a suspicion or belief that any property, funds or investments are derived from or used in connection with drug trafficking or any matter on which such a suspicion or belief is based —
+(2) In this section, references to any person’s benefits of drug dealing include a reference to any property which, in whole or in part, directly or indirectly, represented in his hands his benefits of drug dealing.
+
+[Act 21 of 2014 wef 01/09/2014]
+
+(3) Where a person discloses to an authorised officer a suspicion or belief that any property, funds or investments are derived from or used in connection with drug dealing or any matter on which such a suspicion or belief is based —
 
 (a) if he does any act in contravention of subsection (1) and the disclosure relates to the arrangement concerned, he shall not be guilty of an offence under this section if the disclosure is made in accordance with this paragraph, that is —
 
@@ -1836,9 +2133,13 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 (4) In any proceedings against a person for an offence under this section, it is a defence to prove —
 
-(a) that he did not know and had no reasonable ground to believe that the arrangement related to any person’s proceeds of drug trafficking;
+(a) that he did not know and had no reasonable ground to believe that the arrangement related to any person’s proceeds of drug dealing;
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) that he did not know and had no reasonable ground to believe that, by the arrangement, the retention or control by or on behalf of the relevant person of any property was facilitated or, as the case may be, that, by the arrangement, any property was used as mentioned in subsection (1); or
 
@@ -1854,9 +2155,11 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 (5) Any person who commits an offence under this section shall be liable on conviction —
 
-(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -1922,7 +2225,9 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 (5) Any person who commits an offence under this section shall be liable on conviction —
 
-(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -1994,13 +2299,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [42
 
-### Acquiring, possessing, using, concealing or transferring benefits of drug trafficking
+### Acquiring, possessing, using, concealing or transferring benefits of drug dealing
 
 46\.—(1) Any person who —
 
-(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking;
+(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug dealing;
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) converts or transfers that property or removes it from the jurisdiction; or
 
@@ -2014,7 +2321,7 @@ shall be guilty of an offence.
 
 [25/99]
 
-(2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking —
+(2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug dealing —
 
 (a) conceals or disguises that property; or
 
@@ -2026,7 +2333,9 @@ shall be guilty of an offence.
 
 [25/99]
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking, acquires that property or has possession of or uses such property, shall be guilty of an offence.
+[Act 21 of 2014 wef 01/09/2014]
+
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug dealing, acquires that property or has possession of or uses such property, shall be guilty of an offence.
 
 [44/2007 wef 01/11/2007]
 
@@ -2034,15 +2343,19 @@ shall be guilty of an offence.
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 (4) In subsections (1)(a) and (2)(a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
 
 (5) [Deleted by Act 2 of 2012 wef 01/03/2012]
 
 (6) Any person who commits an offence under this section shall be liable on conviction —
 
-(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -2100,9 +2413,11 @@ shall be guilty of an offence.
 
 (6) Any person who commits an offence under this section shall be liable on conviction —
 
-(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -2111,6 +2426,18 @@ shall be guilty of an offence.
 [44/2007 wef 01/11/2007]
 
 [25/99]
+
+### Proof and knowledge, etc., of predicate offence
+
+47A\.—(1) For the purpose of proving under this Part whether the whole or any part of any property constitutes, or directly or indirectly represents, the benefits of drug dealing or the benefits from criminal conduct, it is not necessary for the prosecution to prove the particulars of any offence constituted by the drug dealing or criminal conduct.
+
+(2) For the purpose of proving under this Part whether a person knows or has reasonable grounds to believe that the whole or any part of any property constitutes, or directly or indirectly represents, the benefits of drug dealing or the benefits from criminal conduct —
+
+(a) it is sufficient for the prosecution to prove that the person knows or has reasonable grounds to believe that the whole or part of the property constitutes, or directly or indirectly represents, the benefits of an offence generally; and
+
+(b) it is not necessary for the prosecution to prove that the person knows or has reasonable grounds to believe that the whole or part of the property constitutes, or directly or indirectly represents, the benefits of a particular offence.
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Tipping-off
 
@@ -2148,19 +2475,35 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [25/99]
 
-(4) Subsection (3) does not apply in relation to any information or other matter which is disclosed with a view to furthering any illegal purpose.
+(3A) Nothing in subsection (1) or (2) makes it an offence for a legal counsel acting as such for his employer, or a person who works under the supervision of the legal counsel, to disclose any information or other matter —
+
+(a) to the employer in connection with the giving of legal advice to the employer, or to any employee or officer of the employer, in the course of and for the purpose of the employment of the legal counsel as such; or
+
+(b) to any person —
+
+(i) in contemplation of, or in connection with, legal proceedings concerning the employer; and
+
+(ii) for the purposes of those proceedings.
+
+[Act 21 of 2014 wef 01/09/2014]
+
+(4) Subsections (3) and (3A) do not apply in relation to any information or other matter which is disclosed with a view to furthering any illegal purpose.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (5) In proceedings against a person for an offence under subsection (1) or (2), it is a defence to prove that he did not know and had no reasonable ground to suspect that the disclosure was likely to be prejudicial in the way mentioned in subsection (1) or (2).
 
 [25/99]
 
-(6) No authorised officer or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other written law relating to drug trafficking or a serious offence.
+(6) No authorised officer or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other written law relating to drug dealing or criminal conduct.
 
 [43B
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ## PART VIA
 
@@ -2170,9 +2513,11 @@ CROSS BORDER MOVEMENTS OF PHYSICAL CURRENCY AND BEARER NEGOTIABLE INSTRUMENTS
 
 ### Object of this Part
 
-48A\. The object of this Part is to impose measures for the disclosure of information regarding movements of physical currency and bearer negotiable instruments into and out of Singapore for the purpose of detecting, investigating and prosecuting drug trafficking offences and serious offences.
+48A\. The object of this Part is to impose measures for the disclosure of information regarding movements of physical currency and bearer negotiable instruments into and out of Singapore for the purpose of detecting, investigating and prosecuting drug dealing offences and serious offences.
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Interpretation of this Part
 
@@ -2230,9 +2575,11 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 ### Reports about cross border movements of cash
 
-48C\.—(1) A person shall not move or attempt to move into or out of Singapore cash the total value of which exceeds the prescribed amount, without giving a report in respect of the movement in accordance with this section.
+48C\.—(1) A person shall not move or attempt to move into or out of Singapore cash the total value of which exceeds the prescribed amount (or its equivalent in a foreign currency), without giving a report in respect of the movement in accordance with this section.
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2240,9 +2587,7 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 (3) It shall be a defence for a person charged with an offence under subsection (2) to prove that he did not know and had no reasonable ground to believe that the receptacle within which the cash was moved or attempted to be moved contained cash.
 
-(4) For the purposes of subsection (1), the prescribed amount is $30,000 (or its equivalent in a foreign currency) or such other amount as the Minister may, by notification in theGazette, specify.
-
-[44/2007 wef 01/11/2007]
+(4) [Deleted by Act 21 of 2014 wef 01/09/2014]
 
 (5) A report under this section shall —
 
@@ -2260,13 +2605,15 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 [44/2007 wef 01/11/2007]
 
-(6) The Minister may make regulations for the matters referred to in subsection (5)(a), (c) and (d); and may, for the purposes of subsection (5)(a) and (d), prescribe different forms and different times —
+(6) The Minister may make regulations for the matters referred to in this section; and may, for the purposes of subsection (5)(a) and (d), prescribe different forms and different times —
 
 (a) for different manners of moving cash into and out of Singapore; and
 
 (b) for different classes of persons.
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (7) Subsection (1) shall not apply if —
 
@@ -2300,9 +2647,11 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 ### Reports about receipts of cash from outside Singapore
 
-48E\.—(1) A person who receives cash the total value of which exceeds the prescribed amount, which is moved to the person from outside Singapore, shall make a report in respect of the receipt in accordance with this section before the end of the period of 5 business days beginning on the day of the receipt.
+48E\.—(1) A person who receives cash the total value of which exceeds the prescribed amount (or its equivalent in a foreign currency), which is moved to the person from outside Singapore, shall make a report in respect of the receipt in accordance with this section before the end of the period of 5 business days beginning on the day of the receipt.
 
 [44/2007 wef 01/11/2007]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2312,9 +2661,7 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 [44/2007 wef 01/11/2007]
 
-(4) For the purposes of subsection (1), the prescribed amount is $30,000 (or its equivalent in a foreign currency) or such other amount as the Minister may, by notification in theGazette, specify.
-
-[44/2007 wef 01/11/2007]
+(4) [Deleted by Act 21 of 2014 wef 01/09/2014]
 
 (5) A report under this section shall —
 
@@ -2325,6 +2672,10 @@ and includes a negotiable instrument that has been signed but with the payee’s
 (c) be given to a Suspicious Transaction Reporting Officer.
 
 [44/2007 wef 01/11/2007]
+
+(6) The Minister may make regulations for the matters referred to in this section.
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Questioning and search powers in relation to cash
 
@@ -2432,9 +2783,11 @@ MISCELLANEOUS
 
 ### Offence of prejudicing investigation
 
-49\.—(1) Where, in relation to an investigation into drug trafficking or criminal conduct, as the case may be, an order under section 30 has been made or has been applied for and has not been refused or a warrant under section 34 has been issued, a person who, knowing or suspecting that the investigation is taking place, makes any disclosure which is likely to prejudice the investigation shall be guilty of an offence.
+49\.—(1) Where, in relation to an investigation into drug dealing or criminal conduct, as the case may be, an order under section 30 has been made or has been applied for and has not been refused or a warrant under section 34 has been issued, a person who, knowing or suspecting that the investigation is taking place, makes any disclosure which is likely to prejudice the investigation shall be guilty of an offence.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) In proceedings against a person for an offence under this section, it is a defence to prove that —
 
@@ -2448,13 +2801,13 @@ MISCELLANEOUS
 
 ### Compensation
 
-50\.—(1) If an investigation is begun against a person for a drug trafficking offence or a serious offence, as the case may be, or offences and any of the following circumstances occur, namely:
+50\.—(1) If an investigation is begun against a person for a drug dealing offence or a serious offence, as the case may be, or offences and any of the following circumstances occur, namely:
 
 (a) no proceedings are instituted against that person;
 
-(b) proceedings are instituted against that person but do not result in his conviction for any drug trafficking offence or serious offence, as the case may be; or
+(b) proceedings are instituted against that person but do not result in his conviction for any drug dealing offence or serious offence, as the case may be; or
 
-(c) proceedings are instituted against that person and he is convicted of one or more drug trafficking offences or serious offences, as the case may be, but —
+(c) proceedings are instituted against that person and he is convicted of one or more drug dealing offences or serious offences, as the case may be, but —
 
 (i) the conviction or convictions concerned are quashed; or
 
@@ -2463,6 +2816,8 @@ MISCELLANEOUS
 the High Court may, on application by a person who held property which was realisable property, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, the Court considers it appropriate to make such an order.
 
 [25/99]
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (2) The High Court shall not order compensation to be paid under subsection (1) unless it is satisfied that —
 
@@ -2476,7 +2831,9 @@ the High Court may, on application by a person who held property which was reali
 
 (a) a disclosure is made by any person in accordance with section 43(3) in relation to any property;
 
-(b) in consequence of the disclosure and for the purposes of an investigation or prosecution in respect of a drug trafficking offence or a serious offence or offences any act is done or omitted to be done in relation to that property; and
+(b) in consequence of the disclosure and for the purposes of an investigation or prosecution in respect of a drug dealing offence or a serious offence or offences any act is done or omitted to be done in relation to that property; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (c) no proceedings are instituted against any person in respect of that offence or offences or no order is made by the High Court under section 16 or 17 in relation to that property,
 
@@ -2530,11 +2887,15 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 ### Evidence of corresponding law or foreign law
 
-53\.—(1) A document purporting to be issued by or on behalf of the government of a foreign country and purporting to state the terms of —
+53\.—(1) A document purporting to be issued by or on behalf of the government of a foreign country or part thereof and purporting to state the terms of —
 
-(a) a corresponding law in force in that country; or
+(a) a corresponding law in force in that country or part thereof; or
 
-(b) a law in relation to a foreign serious offence in force in that country,
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) a law in relation to a foreign serious offence in force in that country or part thereof,
+
+[Act 21 of 2014 wef 01/09/2014]
 
 shall be admissible in evidence for the purpose of proving the matters referred to in subsection (2), in any proceedings under this Act or any subsidiary legislation made thereunder, on its production by the Public Prosecutor or by any person duly authorised by him in writing.
 
@@ -2542,11 +2903,17 @@ shall be admissible in evidence for the purpose of proving the matters referred 
 
 [25/99]
 
+[Act 21 of 2014 wef 01/09/2014]
+
 (2) Such document shall be sufficient evidence —
 
-(a) that it is issued by or on behalf of the government of the foreign country stated in the document;
+(a) that it is issued by or on behalf of the government of the foreign country or part thereof stated in the document;
 
-(b) that the terms of the corresponding law or the law of the foreign country are as stated in the document; and
+[Act 21 of 2014 wef 01/09/2014]
+
+(b) that the terms of the corresponding law or the law of the foreign country or part thereof are as stated in the document; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (c) that any fact stated in the document as constituting an offence under that law does constitute such offence.
 
@@ -2596,13 +2963,17 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 [44/2007]
 
-(2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
+(2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into an arrestable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where an arrestable offence is disclosed under any written law in the course of an investigation under this Act.
 
-(3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act.
+[Act 21 of 2014 wef 01/09/2014]
 
-(4) In this section, “seizable offence” and “non-seizable offence” have the same meanings as in section 2 of the Criminal Procedure Code.
+(3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non‑arrestable offence is disclosed under any written law in the course of investigations under this Act.
 
-[51
+[Act 21 of 2014 wef 01/09/2014]
+
+(4) In this section, “arrestable offence” and “non‑arrestable offence” have the same meanings as in section 2(1) of the Criminal Procedure Code.
+
+[Act 21 of 2014 wef 01/09/2014]
 
 ### Preservation of secrecy
 
@@ -2734,13 +3105,13 @@ FIRST SCHEDULE
 
 Section 2
 
-Drug trafficking offences
+Drug dealing offences
 
 Part I
 
 —
 
-Offences included as drug trafficking offences with effect from 30th November 1993
+Offences included as drug dealing offences with effect from 30th November 1993
 
 Offences
 
@@ -2780,7 +3151,7 @@ Part II
 
 —
 
-Offence included as drug trafficking offence with effect from 1st November 2007
+Offence included as drug dealing offence with effect from 1st November 2007
 
 Offences
 
@@ -5719,6 +6090,10 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|37.|**Act 21 of 2014—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Amendment) Act 2014**|
+||Date of First Reading|28 May 2014 (Bill No. 15/2014 published on 28 May 2014)|
+||Date of Second and Third Readings|7 July 2014|
+||Date of commencement|1 September 2014|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
