@@ -2046,6 +2046,10 @@ CLASS A DRUGS
 
 (133) Rolicyclidine
 
+(133A) Tapentadol
+
+[S 572/2014 wef 01/09/2014]
+
 (134) Tenocyclidine
 
 (135) Thebacon
@@ -3462,6 +3466,8 @@ Part I
 
 Acetic anhydride also known as Acetic oxide
 
+Alpha-phenylacetoacetonitrile, also known as APAAN, and its optical isomers
+
 N-acetylanthranilic acid also known as N-Acetyl-o-aminobenzoic acid
 
 Ephedrine also known as β-Hydroxy-N-methylamphetamine
@@ -3492,6 +3498,8 @@ Pseudoephedrine also known as β-Hydroxy-N-methylamphetamine
 
 Safrole also known as 4-Allyl-1,2-methylenedioxybenzene.
 
+[S 572/2014 wef 01/09/2014]
+
 2. The salts of the substances listed in paragraph 1 whenever the existence of such salts is possible.
 
 [S 272/2013 wef 01/05/2013]
@@ -3508,7 +3516,7 @@ Part II
 
 Acetone also known as 2-Propanone or Dimethyl ketone
 
-Anthranilic acid also known as o-Aminobenzoic acid
+Anthranilic acid also known aso-Aminobenzoic acid
 
 Ethyl ether also known as Ether or Diethyl ether or Ethyl oxide or Diethyl oxide or Ethoxyethane or 1,1’-Oxybisethane
 
@@ -3649,6 +3657,10 @@ The following compounds, including any salt or stereoisomeric form of such compo
 (10) 2-(2,5-Dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25H-NBOMe)
 
 (11) 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25I-NBOMe)
+
+(11A) Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate (also known as BB-22 or QUCHIC)
+
+[S 572/2014 wef 01/09/2014]
 
 (12) Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (also known as 5-Fluoro-PB-22 or 5-Fluoro-QUPIC)
 
@@ -3826,6 +3838,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
+|52.|**G.N. No. S 572/2014—Misuse of Drugs Act (Amendment of First, Third and Fifth Schedules) Order 2014**|
+||Date of commencement|1 September 2014|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
