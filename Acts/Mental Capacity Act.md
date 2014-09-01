@@ -1526,11 +1526,7 @@ Requirements as to content of instruments
 
 (ii) intends the authority conferred under the instrument to mean authority to make decisions on his behalf in circumstances where he no longer has capacity;
 
-(c) a statement by the donor —
-
-(i) naming a person or persons whom the donor wishes to be notified of any application for the registration of the instrument; or
-
-(ii) stating that there are no persons whom he wishes to be notified of any such application;
+(c) [Deleted by S 526/2014 wef 01/09/2014]
 
 (d) a statement by the donee (or, if more than one, each of them) to the effect that he —
 
@@ -1546,15 +1542,11 @@ Requirements as to content of instruments
 
 (iii) there is nothing else which would prevent a lasting power of attorney from being created by the instrument.
 
-(2) Regulations may —
+(2) [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
 
-(a) prescribe a maximum number of named persons;
+(3) [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
 
-(b) provide that, where the instrument includes a statement under sub- paragraph (1)(c)(ii), 2 persons of a prescribed description must each give a certificate under sub-paragraph (1)(e).
-
-(3) The persons who may be “named persons” do not include a person who is appointed as donee under the instrument.
-
-(4) In this Schedule, “named person” means a person named under sub- paragraph (1)(c).
+(4) [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
 
 (5) A certificate under sub-paragraph (1)(e) must —
 
@@ -1602,21 +1594,21 @@ Applications and procedure for registration
 
 (5) Subject to paragraphs 10 to 13, the Public Guardian must register the instrument as a lasting power of attorney at the end of the prescribed period if the application complies with sub-paragraphs (1), (2) and (3).
 
-Notification to named persons
-
-5.—(1) A donor about to make an application under paragraph 4(2)(a) must notify any named persons that he is about to do so.
-
-(2) The donee (or donees) about to make an application under paragraph 4(2)(b) or (c) must notify any named persons that he is (or they are) about to do so.
+5. [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
 
 Notification to donee
 
-6\. As soon as is practicable after receiving an application by the donor under paragraph 4(2)(a), the Public Guardian must notify the donee (or donees) that the application has been received.
+6. As soon as is practicable after receiving an application by the donor under paragraph 4(2)(a) and determining that the application is in order, the Public Guardian must notify the donee (or donees) that the application has been received.
+
+[S 526/2014 wef 01/09/2014]
 
 Notification to donor and others
 
-7.—(1) As soon as is practicable after receiving an application by a donee (or donees) under paragraph 4(2)(b), the Public Guardian must notify the donor that the application has been received.
+7.—(1) As soon as is practicable after receiving an application by a donee (or donees) under paragraph 4(2)(b) and determining that the application is in order, the Public Guardian must notify the donor that the application has been received.
 
-(2) As soon as is practicable after receiving an application by a donee under paragraph 4(2)(c), the Public Guardian must notify —
+[S 526/2014 wef 01/09/2014]
+
+(2) As soon as is practicable after receiving an application by a donee under paragraph 4(2)(c) and determining that the application is in order, the Public Guardian must notify —
 
 (a) the donor; and
 
@@ -1624,21 +1616,15 @@ Notification to donor and others
 
 that the application has been received.
 
+[S 526/2014 wef 01/09/2014]
+
 Notification requirements
 
-8.—(1) A notice under paragraph 5 must be made in the prescribed form.
+8. A notice under paragraph 6 or 7 must include such information, if any, as may be prescribed.
 
-(2) A notice under paragraph 5, 6 or 7 must include such information, if any, as may be prescribed.
+[S 526/2014 wef 01/09/2014]
 
-Power to dispense with notification requirements
-
-9. The court may —
-
-(a) on the application of the donor, dispense with the requirement to notify under paragraph 5(1); or
-
-(b) on the application of the donee or donees concerned, dispense with the requirement to notify under paragraph 5(2),
-
-if it is satisfied that no useful purpose would be served by giving the notice.
+9. [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
 
 Instrument not made properly or containing ineffective provision
 
@@ -1680,13 +1666,17 @@ Deputy already appointed
 
 (2) The Public Guardian must not register the instrument unless the court directs him to do so.
 
-Objection by donee or named person
+Objection by donee
 
-12.—(1) Sub-paragraph (2) applies if a donee or a named person —
+12.—(1) Sub-paragraph (2) applies if a donee —
 
-(a) receives a notice under paragraph 5, 6 or 7 of an application for the registration of an instrument; and
+(a) receives a notice under paragraph 6 or 7(2)(b) of an application for the registration of an instrument; and
+
+[S 526/2014 wef 01/09/2014]
 
 (b) before the end of the prescribed period, gives notice to the Public Guardian of an objection to the registration on the ground that an event mentioned in section 15(3) or (5)(a) to (d) has occurred which has revoked the instrument.
+
+[S 526/2014 wef 01/09/2014]
 
 (2) If the Public Guardian is satisfied that the ground for making the objection is established, he must not register the instrument unless the court, on the application of the person applying for the registration —
 
@@ -1694,15 +1684,19 @@ Objection by donee or named person
 
 (b) directs the Public Guardian to register the instrument.
 
-(3) Sub-paragraph (4) applies if a donee or a named person —
+(3) Sub-paragraph (4) applies if a donee —
 
-(a) receives a notice under paragraph 5, 6 or 7 of an application for the registration of an instrument; and
+(a) receives a notice under paragraph 6 or 7(2)(b) of an application for the registration of an instrument; and
+
+[S 526/2014 wef 01/09/2014]
 
 (b) before the end of the prescribed period —
 
 (i) makes an application to the court objecting to the registration on a prescribed ground; and
 
 (ii) notifies the Public Guardian of the application.
+
+[S 526/2014 wef 01/09/2014]
 
 (4) The Public Guardian must not register the instrument unless the court directs him to do so.
 
@@ -1778,17 +1772,27 @@ Circumstances for severance or cancellation
 
 (b) direct him to cancel the registration of the instrument as a lasting power of attorney.
 
-Delivery of instrument
+Delivery of instrument on cancellation of registration
 
-19\. On the cancellation of the registration of an instrument, the instrument and any office copies of it must be delivered up to the Public Guardian to be cancelled.
+19. On the cancellation of the registration of an instrument, any person who possesses all or any of the following documents must deliver them to the Public Guardian to be cancelled:
+
+(a) the instrument;
+
+(b) any office copies of the instrument;
+
+(c) any copies of the instrument that have been certified by the Public Guardian under paragraph 15.
+
+[S 526/2014 wef 01/09/2014]
 
 Part IV
 
 Records of Alterations in Registered Powers
 
-Partial revocation or suspension of power as a result of bankruptcy
+Partial revocation of power as a result of bankruptcy
 
-20\. If in the case of a registered instrument it appears to the Public Guardian that under section 15 a lasting power of attorney is revoked, or suspended, in relation to the donor’s property and affairs (but not in relation to other matters), the Public Guardian must attach to the instrument a note to that effect.
+20. If in the case of a registered instrument it appears to the Public Guardian that under section 15 a lasting power of attorney is revoked in relation to the donor’s property and affairs (but not in relation to other matters), the Public Guardian must attach to the instrument a note to that effect.
+
+[S 526/2014 wef 01/09/2014]
 
 Termination of appointment of donee which does not revoke power
 
@@ -1807,6 +1811,18 @@ Replacement of donee
 Severance of ineffective provisions
 
 23\. If in the case of a registered instrument the court notifies the Public Guardian under paragraph 18(2)(a) that it has severed a provision of the instrument, the Public Guardian must attach to it a note to that effect.
+
+Delivery of instrument for attachment of note
+
+23A. If the Public Guardian is required to attach a note to a registered instrument under paragraph 20, 21, 22 or 23, any person who possesses all or any of the following documents must deliver them to the Public Guardian for the note to be attached:
+
+(a) the instrument;
+
+(b) any office copies of the instrument;
+
+(c) any copies of the instrument that have been certified by the Public Guardian under paragraph 15.
+
+[S 526/2014 wef 01/09/2014]
 
 Notification of alterations
 
@@ -2120,3 +2136,5 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of commencement|1 March 2010 (section 12)|
 |6.|**2010 Revised Edition—Mental Capacity Act**|
 ||Date of operation|31 March 2010|
+|7.|**G.N. No. S 526/2014—Mental Capacity Act (Amendment of First Schedule) Order 2014**|
+||Date of commencement|1 September 2014|
