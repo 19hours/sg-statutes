@@ -274,17 +274,21 @@ shall be deemed always to have been a policy of insurance —
 
 (5) Where any payment is made (whether or not with an admission of liability) by —
 
-(a) an approved insurer under or in consequence of a policy issued under this Act;
+(a) an insurer under or in consequence of a policy issued under this Act;
 
 (b) the owner of a motor vehicle in relation to the user of which a security under subsection (11) is in force; or
 
 (c) the owner of a motor vehicle who has made a deposit under section 3,
 
-in respect of the death of or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, and the person who has so died or been bodily injured has, to the knowledge of the approved insurer or the owner, as the case may be, received treatment at a hospital, whether as an inpatient, or as an out-patient, in respect of the injury so arising, there shall also be paid by the approved insurer or the owner to the hospital the expenses reasonably incurred by the hospital in affording that treatment, after deducting from those expenses any moneys actually received by the hospital in payment of a specific charge for that treatment.
+in respect of the death of or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, and the person who has so died or been bodily injured has, to the knowledge of the insurer or the owner, as the case may be, received treatment at a hospital, whether as an inpatient, or as an out-patient, in respect of the injury so arising, there shall also be paid by the insurer or the owner to the hospital the expenses reasonably incurred by the hospital in affording that treatment, after deducting from those expenses any moneys actually received by the hospital in payment of a specific charge for that treatment.
 
 [23/98]
 
-(6) The amount to be paid by the approved insurer or the owner under subsection (5) shall not exceed $400 for each person so treated as an in-patient or $40 for each person so treated as an out-patient.
+[Act 22 of 2013 wef 01/09/2014]
+
+(6) The amount to be paid by the insurer or the owner under subsection (5) shall not exceed $400 for each person so treated as an in-patient or $40 for each person so treated as an out-patient.
+
+[Act 22 of 2013 wef 01/09/2014]
 
 (7) For the purposes of subsection (5) —
 
@@ -458,7 +462,7 @@ shall as respects such liabilities as are required to be covered by a policy und
 
 [Act 22 of 2013 wef 01/08/2014]
 
-(4) No sum shall be payable by an insurer under (3)subsections (1), (2B) and (3) if in an action commenced before or within 3 months after the commencement of the proceedings in which the judgment was given he has obtained a declaration that apart from any provision contained in the policy he is entitled to avoid it on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular or, if he has avoided the policy on that ground, that he was entitled to do so apart from any provision contained in it.
+(4) No sum shall be payable by an insurer under subsections (1), (2B) and (3) if in an action commenced before or within 3 months after the commencement of the proceedings in which the judgment was given he has obtained a declaration that apart from any provision contained in the policy he is entitled to avoid it on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular or, if he has avoided the policy on that ground, that he was entitled to do so apart from any provision contained in it.
 
 [Act 22 of 2013 wef 01/08/2014]
 
@@ -748,7 +752,7 @@ Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(1)(a) and (b) and 18(4).
 
 ## THE SCHEDULE
 
-6(1)Sections 3(1)(b) and (9), 4(1)(b), (2)(b) and (5) and 6(1)(a)
+Sections 3(1)(b) and (9), 4(1)(b), (2)(b) and (5) and 6(1)(a)
 
 Territory
 
@@ -762,7 +766,7 @@ Motor Vehicles (Third-Party Risks and Compensation) Act
 
 (CHAPTER 189)
 
-This Legislative History is provided for the convenience of users of the Motor Vehicles (Third-Party Risks and Compensation) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Motor Vehicles (Third-Party Risks and Compensation) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -832,6 +836,10 @@ This Legislative History is provided for the convenience of users of the Motor V
 ||Date of First Reading|21 October 2013 (Bill No. 18/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 August 2014|
+|16.|**Act 22 of 2013—Motor Vehicles (Third-Party Risks and Compensation) (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013 (Bill No. 18/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|1 September 2014|
 ## COMPARATIVE TABLE
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
@@ -846,9 +854,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1985 Ed\. 
 
-3 — (2) and (3)
+3 —(2) and (3)
 
-3 — (2)
+3 —(2)
 
 (4)
 
@@ -874,9 +882,9 @@ Proviso to (2)
 
 (7)
 
-4 — (2)
+4 —(2)
 
-4 — (1A)
+4 —(1A)
 
 (3)
 
@@ -910,25 +918,25 @@ Proviso to (2)
 
 (8)
 
-5 — (1) and (2)
+5 —(1) and (2)
 
-5 — (1)
+5 —(1)
 
 (3)
 
 (2)
 
-7 — (1) and (2)
+7 —(1) and (2)
 
 7 
 
-8 — (1) and (2)
+8 —(1) and (2)
 
 8 
 
-9 — (4) and (5)
+9 —(4) and (5)
 
-9 — (4)
+9 —(4)
 
 (6)
 
@@ -938,9 +946,9 @@ Proviso to (2)
 
 (6)
 
-11 — (2) and (3)
+11 —(2) and (3)
 
-11 — (2)
+11 —(2)
 
 (4)
 
@@ -954,17 +962,17 @@ Proviso to (2)
 
 (5)
 
-13 — (1) and (2)
+13 —(1) and (2)
 
 13 
 
-15 — (1) and (2)
+15 —(1) and (2)
 
 15 
 
-16 — (1), (2) and (3)
+16 —(1), (2) and (3)
 
-16 — (1)
+16 —(1)
 
 (4), (5) and (6)
 
@@ -978,9 +986,9 @@ Proviso to (2)
 
 (4)
 
-18 — (4)
+18 —(4)
 
-18 — (3A)
+18 —(3A)
 
 (5)
 
@@ -1006,7 +1014,7 @@ Proviso to (2)
 
 19A 
 
-21 — (1) and (2)
+21 —(1) and (2)
 
 20 
 
@@ -1018,9 +1026,9 @@ Proviso to (2)
 
 22 
 
-24 — (1)
+24 —(1)
 
-19 — (1)
+19 —(1)
 
 (2) and (3)
 
