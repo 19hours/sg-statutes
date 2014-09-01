@@ -968,10 +968,6 @@ and the specified person and persons under his command shall not further disclos
 
 [21/2013]
 
-(11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
-
-[4/75]
-
 (11A) Despite anything in this section, the Comptroller —
 
 (a) may furnish to —
@@ -985,6 +981,10 @@ any information required for the performance of the official duties of the chief
 (b) may allow the chief executive officer or authorised officer such access to any records or documents as may be necessary for the performance of those official duties.
 
 [Act 2 of 2016 wef 25/04/2013]
+
+(11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
+
+[4/75]
 
 (12) Notwithstanding subsections (1) and (2) and without prejudice to subsections (5) to (11), the Comptroller may disclose information relating to the income or items of income of any person to any of the following with the express consent of the person to whom the information relates:
 
@@ -1426,7 +1426,7 @@ which involves novelty or originality;
 
 [23/90]
 
-(20) Any distribution made by a designated unit trust to any unit holder or by an approved CPF unit trust to any unit holder out of —
+(20) Any distribution made by a designated unit trust for any year of assessment to any unit holder out of —
 
 (a) gains or profits derived from Singapore or elsewhere from the disposal of securities;
 
@@ -1434,11 +1434,13 @@ which involves novelty or originality;
 
 (c) dividends derived from outside Singapore and received in Singapore,
 
-which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(12) shall, subject to subsection (21), be deemed to be income of the unit holder if he is not a foreign investor.
+which do not form part of the statutory income of the designated unit trust by virtue of section 35(12) shall, subject to subsection (21), be deemed to be income of the unit holder if he is not a foreign investor.
 
 [32/95; 31/98; 24/2000]
 
-(20A) Any distribution made by a designated unit trust or an approved CPF unit trust to any unit holder out of —
+[Act 37 of 2014 wef 01/09/2014]
+
+(20A) Any distribution made by a designated unit trust for any year of assessment to any unit holder out of —
 
 (a) gains or profits derived on or after 27th February 2004 from —
 
@@ -1498,9 +1500,11 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (i) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
-which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(12A) shall be deemed to be income of the unit holder if he is not a foreign investor.
+which do not form part of the statutory income of the designated unit trust by virtue of section 35(12A) shall be deemed to be income of the unit holder if he is not a foreign investor.
 
 [49/2004; 11/2005; 7/2007; 53/2007; 34/2008; 11/2013; 19/2013]
+
+[Act 37 of 2014 wef 01/09/2014]
 
 (21) Where any distribution made out of gains or profits referred to in subsection (20)(a) is made to a unit holder who is an individual resident in Singapore, the distribution, if made on or after 28th February 1998, shall not be deemed to be income of that unit holder.
 
@@ -1512,13 +1516,15 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (23) In subsections (20), (20A), (21) and (22) —
 
-“approved CPF unit trust” has the same meaning as in section 35(14);
+[Deleted by Act 37 of 2014 wef 01/09/2014]
 
 “break cost”, “prepayment fee” and “redemption premium” have the same meanings as in section 13(16);
 
 “compensatory payment” has the same meaning as in section 10N(12);
 
-“designated unit trust” means any unit trust designated under section 35(14);
+“designated unit trust”, in relation to any year of assessment, has the same meaning as in section 35(14);
+
+[Act 37 of 2014 wef 01/09/2014]
 
 “financial index” includes any currency, interest rate, share, stock or bond index;
 
@@ -2514,7 +2520,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the rendering of assistance or service is not performed through that business carried on in Singapore or that permanent establishment;
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 28/02/2013]
 
 (b) the management or assistance in the management of any trade, business or profession, where such management or assistance is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
 
@@ -2528,7 +2534,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 [27/2009]
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 28/02/2013]
 
 (c) the use of or the right to use software, information or digitised goods, not being a right to commercially exploit in one form or another the copyright in such software, information or digitised goods such as the right to —
 
@@ -2536,7 +2542,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (ii) prepare a derivative work based on the software, information or digitised goods for distribution.
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 28/02/2013]
 
 (7B) In subsection (7A)(c) —
 
@@ -2548,7 +2554,7 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (b) any information obtained solely for research purposes.
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 28/02/2013]
 
 ### Commission or other payment of licensed international market agent
 
@@ -5066,9 +5072,11 @@ except that the Minister may extend the period so specified for such further per
 
 (a) any income of a real estate investment trust within the meaning of section 43(10);
 
-(b) any income of a unit trust designated under section 35(14);
+(b) any income of a designated unit trust within the meaning of section 35(14);
 
-(c) any income of an approved CPF unit trust within the meaning of section 35(14);
+[Act 37 of 2014 wef 01/09/2014]
+
+(c) [Deleted by Act 37 of 2014 wef 01/09/2014]
 
 (d) any income of a trust fund prescribed under section 13C;
 
@@ -5318,11 +5326,13 @@ except that the Minister may extend the period so specified for such further per
 
 “approved” means approved by the Minister or such person as he may appoint;
 
-“approved CPF unit trust” has the same meaning as in section 35(14);
+[Deleted by Act 37 of 2014 wef 01/09/2014]
 
 “approved person” means any approved company, any partner of an approved limited partnership or any trustee of an approved trust fund;
 
-“designated unit trust” means any unit trust designated under section 35(14);
+“designated unit trust” means any designated unit trust within the meaning of section 35(14) and whose income does not form part of the statutory income of its trustee by reason of section 35(12);
+
+[Act 2 of 2016 wef 01/04/2014]
 
 “feeder fund” means a company, trust fund or limited partnership that invests its funds substantially and directly through only one master fund;
 
@@ -5332,9 +5342,11 @@ except that the Minister may extend the period so specified for such further per
 
 “real estate investment trust” has the same meaning as in section 43(10);
 
-“trust fund” does not include any trust that is a pension or provident fund approved by the Comptroller under section 5, approved CPF unit trust, designated unit trust and real estate investment trust.
+“trust fund” does not include any trust that is a pension or provident fund approved by the Comptroller under section 5, designated unit trust and real estate investment trust.
 
 [27/2009; 29/2010]
+
+[Act 37 of 2014 wef 01/09/2014]
 
 ### Exemption of certain income of prescribed sovereign fund entity and approved foreign government-owned entity
 
@@ -6530,9 +6542,11 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (2) The deduction allowed under this section for any year of assessment shall not exceed the total interest and dividends chargeable to tax of the approved investment company in the basis period for that year of assessment.
 
-(3) This section shall not apply to any investment company which has been approved under section 10A or any unit trust which has been approved under section 10B or any unit trust designated under section 35(14).
+(3) This section shall not apply to any investment company which has been approved under section 10A or any unit trust which has been approved under section 10B or any designated unit trust within the meaning of section 35(14).
 
 [3/89; 23/90; 32/95]
+
+[Act 37 of 2014 wef 01/09/2014]
 
 (4) In this section —
 
@@ -8028,11 +8042,13 @@ where A is —
 
 (v) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes if the person is carrying on the business of providing driving instruction and holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act;
 
-(l) any outgoings and expenses incurred in respect of any unit trust designated under section 35(14) if the person is a unit holder of such trust;
+(l) any outgoings and expenses incurred in respect of any designated unit trust within the meaning of section 35(14) if the person is a unit holder of such trust;
+
+[Act 37 of 2014 wef 01/09/2014]
 
 (m) any amount of output tax paid or payable under the Goods and Services Tax Act which is borne by the person if he is registered as a taxable person under that Act;
 
-(n) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35(14) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund;
+(n) [Deleted by Act 37 of 2014 wef 01/09/2014]
 
 (o) [Deleted by Act 19 of 2013]
 
@@ -8506,17 +8522,17 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [29/2010]
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 (1A) Where any person proposes to incur or has incurred on or after 22nd February 2014 qualifying capital expenditure on the construction or renovation of a building or structure on port land or airport land, for which an application for planning permission or conservation permission is made on or after that date to the competent authority in accordance with the Planning Act (Cap. 232), the person may apply to the Minister or such person as the Minister may appoint, between 22nd February 2014 and 30th June 2020 (both dates inclusive) for such construction or renovation to be approved for the purposes of making an allowance under this section in respect of such expenditure incurred by that person.
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 (2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1) or (1A), is satisfied that the construction or renovation of the building or structure on industrial land, port land or airport land (as the case may be) promotes such intensified use of the land for the purposes of such trade or business as may be prescribed by regulations, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
 
 [29/2010; 22/2011]
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 (2A) Where a trade or business is prescribed under subsection (2), then, unless otherwise provided in regulations —
 
@@ -8574,21 +8590,21 @@ there shall be made to that person, computed in accordance with section 16 —
 
 “airport land” means any land zoned for use as an airport under the Master Plan;
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 “approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land, port land or airport land (as the case may be) approved under subsection (2);
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 “industrial land” means any land zoned for the purpose of “Business 1” or “Business 2” (other than “Business 1 White” and “Business 2 White”) under the Master Plan, and includes such other land as may be approved by the Minister;
 
-“Master Plan” means the Master Plan as defined in the Planning Act which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1) or (1A), as the case may be ;
+“Master Plan” means the Master Plan as defined in the Planning Act which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1) or (1A), as the case may be;
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 “port land” means any land zoned for use as a port under the Master Plan;
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 “qualifying capital expenditure” means the following types of capital expenditure which are incurred in respect of any construction or renovation, between 23rd February 2010 and the date of completion of that construction or renovation (both dates inclusive):
 
@@ -8606,7 +8622,7 @@ there shall be made to that person, computed in accordance with section 16 —
 
 (g) stamp duties payable in respect of title of the building or structure;
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 22/02/2014]
 
 “relevant interest”, in relation to any qualifying capital expenditure incurred on an approved construction or approved renovation of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
 
@@ -10915,21 +10931,19 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (11) The statutory income of a trustee (not being the trustee of an incapacitated person) for any year of assessment shall be computed in accordance with subsections (1) to (7).
 
-(12) The following income shall not form part of the statutory income of any designated unit trust or any approved CPF unit trust for any year of assessment:
+(12A) Subsection (12) only applies to income derived on or after 1st September 2014.
 
-(a) gains or profits derived from Singapore or elsewhere from the disposal of securities;
+[Act 37 of 2014 wef 01/09/2014]
 
-(b) interest (other than interest for which tax has been deducted under section 45); and
+(12B) An election under subsection (12) shall be made by submitting such form as the Comptroller may specify, together with the trustee’s return of income for the year of assessment in question, before the expiration of the time the return of income is to be delivered or within such extended time as the Comptroller may allow.
 
-(c) dividends derived from outside Singapore and received in Singapore.
+[Act 37 of 2014 wef 01/09/2014]
 
-[32/95; 31/98]
+(12C) An election under subsection (12) is irrevocable.
 
-(12A) The income referred to in section 10(20A) shall not form part of the statutory income of any designated unit trust or approved CPF unit trust for any year of assessment.
+[Act 37 of 2014 wef 01/09/2014]
 
-[49/2004]
-
-(13) No deduction under section 14 shall be allowed in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by any designated unit trust or any approved CPF unit trust against any income derived by the unit trust from —
+(13) No deduction under section 14 shall be allowed for any year of assessment in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by the trustee of a designated unit trust for that year of assessment in respect of the unit trust, against any income derived by the trustee in respect of the unit trust from —
 
 (a) dividends paid by any company resident in Singapore; or
 
@@ -10937,23 +10951,91 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [32/95; 31/98]
 
-(13A) No deduction under section 14 shall be allowed in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by any designated unit trust or approved CPF unit trust against any income derived by the unit trust from discount, fees and compensatory payments for which tax has been deducted under section 45A.
+[Act 37 of 2014 wef 01/09/2014]
+
+(13A) No deduction under section 14 shall be allowed for any year of assessment in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by the trustee of a designated unit trust for that year of assessment in respect of the unit trust, against any income derived by the trustee in respect of the unit trust from discount, fees and compensatory payments for which tax has been deducted under section 45A.
 
 [49/2004]
 
-(14) In subsections (12), (13) and (13A) —
+[Act 37 of 2014 wef 01/09/2014]
 
-“approved CPF unit trust” means any unit trust scheme approved for the purposes of any investment scheme under the Central Provident Fund Act (Cap. 36);
+(14) In subsections (12), (13), (13A), (14A), (14B), (14C) and (14D) —
+
+[Deleted by Act 37 of 2014 wef 01/09/2014]
 
 “compensatory payment” has the same meaning as in section 10N(12);
 
-“designated” means designated by the Minister or such person as he may appoint;
+[Deleted by Act 37 of 2014 wef 01/09/2014]
+
+“designated unit trust”, in relation to a year of assessment, means a trust that is —
+
+(a) a unit trust scheme or an exchange traded fund interest scheme, in which any moneys standing to the credit of a member of the Central Provident Fund in the Fund have been or may be invested, and which remains prescribed by the Minister for the purposes of this definition throughout the basis period for that year of assessment; or
+
+(b) a unit trust which satisfies all of the following conditions throughout the basis period for that year of assessment:
+
+(i) it is one of the following:
+
+(A) a collective investment scheme which is authorised under section 286 of the Securities and Futures Act (Cap. 289) and the units of which are offered to the public for subscription;
+
+(B) a collective investment scheme which was a former designated unit trust, is a restricted Singapore scheme within the meaning of section 13(16), and satisfies the conditions in subsection (14B); or
+
+(C) a collective investment scheme which was a former designated unit trust, is a collective investment scheme the units of which are offered only to institutional investors, and satisfies the conditions set out in subsection (14B);
+
+(ii) it is neither a real estate investment trust within the meaning of section 43(10), nor a property trust that invests directly in immovable properties in Singapore;
+
+(iii) the trustee of the unit trust is resident in Singapore;
+
+(iv) the unit trust is managed in Singapore by a fund manager;
+
+[Act 37 of 2014 wef 01/09/2014]
+
+“exchange traded fund interest scheme” means any scheme or arrangement which is made for the purpose, or having the effect, of providing facilities for the participation by persons as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of a portfolio of predetermined proportions, which constituent assets comprise securities listed for quotation on any stock exchange;
+
+[Act 37 of 2014 wef 01/09/2014]
+
+“former designated unit trust” means a unit trust that, immediately before 21st February 2014, was a designated unit trust under this section in force immediately before that date;
+
+[Act 37 of 2014 wef 01/09/2014]
 
 “securities” has the same meaning as in section 10A;
 
 “unit” and “unit trust” have the same meanings as in section 10B.
 
 [32/95; 31/98; 49/2004]
+
+[Act 37 of 2014 wef 01/09/2014]
+
+(14A) For the purposes of paragraph (a) of the definition of “designated unit trust” in subsection (14), the Minister may prescribe, as designated unit trusts, descriptions of unit trust schemes and exchange traded fund interest schemes set out on a specified website of the Central Provident Fund Board, as amended from time to time.
+
+[Act 37 of 2014 wef 01/09/2014]
+
+(14B) The conditions referred to in paragraph (b)(i)(B) and (C) of the definition of “designated unit trust” in subsection (14) are as follows:
+
+(a) no more than 50% of the units in the unit trust is beneficially held by related parties (within the meaning of section 13(16)) of the fund manager;
+
+(b) the unit holders have no control over the management of the property of the unit trust and have no right to be consulted or to give directions in respect of such management;
+
+(c) the unit holders have no control over any matter relating to distributions to be made out of the income of the unit trust;
+
+(d) no property was transferred (other than by way of a sale in accordance with market terms and conditions), directly or indirectly, to the trustee of the unit trust to be held as its property, by a company which has derived income from that property that is chargeable to tax under this Act; and
+
+(e) the investment strategy of the unit trust as of 20th February 2014 remains unchanged.
+
+[Act 37 of 2014 wef 01/09/2014]
+
+(14C) Notwithstanding the definition of “designated unit trust” in subsection (14), a collective investment scheme (being a former designated unit trust) —
+
+(a) which is a restricted Singapore scheme within the meaning of section 13(16); or
+
+(b) the units of which are offered only to institutional investors,
+
+which fails to satisfy the conditions set out in subsection (14B) in any part of the basis period for a year of assessment shall not be treated as a designated unit trust for the year of assessment to which that basis period relates, or for any subsequent year of assessment even if all of the requirements in the definition of that term have been satisfied for that subsequent year of assessment.
+
+[Act 37 of 2014 wef 01/09/2014]
+
+(14D) For the purposes of paragraphs (a) and (b) of the definition of “designated unit trust” in subsection (14), a reference to a condition being satisfied throughout the basis period for a year of assessment is, where the unit trust is dissolved at any time in the basis period, a reference to the condition being satisfied from the beginning of the basis period up to the date of the dissolution.
+
+[Act 37 of 2014 wef 01/09/2014]
 
 (15) The statutory income for any year of assessment of any beneficiary under a trust shall be that share of the statutory income of the trustee for that year of assessment which corresponds to the share of the trust income to which the beneficiary is entitled for the year preceding the year of assessment.
 
@@ -12649,7 +12731,7 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 (b) the amount of cash payout that may be made to him is the lesser of —
 
-(i) A × B,
+(i) 
 
 where A
 
@@ -15555,9 +15637,11 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 (a) any income of a real estate investment trust within the meaning of section 43(10);
 
-(b) any income of a unit trust designated under section 35(14);
+(b) any income of a designated unit trust within the meaning of section 35(14);
 
-(c) any income of an approved CPF unit trust within the meaning of section 35(14);
+[Act 37 of 2014 wef 01/09/2014]
+
+(c) [Deleted by Act 37 of 2014 wef 01/09/2014]
 
 (d) any income of a trust fund prescribed under section 13C;
 
@@ -16227,11 +16311,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [53/2007; 34/2008; 22/2011; 19/2013]
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 21/02/2014]
 
 (c) any interest liable to be paid on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 21/02/2014]
 
 (10) In this section, “qualifying debt securities” and “qualifying project debt securities” have the same meanings as in section 13(16).
 
@@ -16277,7 +16361,7 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (2E) Subsection (1) shall not apply to any payment liable to be made on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
 
-[Act 37 of 2014 wef 01/04/2014]
+[Act 37 of 2014 wef 21/02/2014]
 
 (3) In this section —
 
@@ -16347,9 +16431,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [23/90; 32/95]
 
-(2) Subsection (1) shall not apply to any distribution which is made on or after 28th February 1998 by a designated unit trust or an approved CPF unit trust referred to in section 35(12).
+(2) Subsection (1) shall not apply to any distribution which is made on or after 28th February 1998 by a designated unit trust referred to in section 35(12).
 
 [31/98]
+
+[Act 37 of 2014 wef 01/09/2014]
 
 ### Application of section 45 to gains from real property transaction
 
@@ -16805,9 +16891,11 @@ the tax credit in respect of that share shall be given to the beneficiary instea
 
 (a) any income of a real estate investment trust within the meaning of section 43(10);
 
-(b) any income of a unit trust designated under section 35(14);
+(b) any income of a designated unit trust within the meaning of section 35(14);
 
-(c) any income of an approved CPF unit trust within the meaning of section 35(14);
+[Act 37 of 2014 wef 01/09/2014]
+
+(c) [Deleted by Act 37 of 2014 wef 01/09/2014]
 
 (d) any income of a trust fund prescribed under section 13C;
 
@@ -21523,20 +21611,22 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
 |305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 March 2014|
-|306.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
-||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
-||Date of Second and Third Readings|29 February 2016|
-||Date of commencement|1 April 2014|
-|307.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+|306.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017|
 |||(Bill No. 36/2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|1 April 2014|
-|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|307.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
 |||30 May 2014|
+|||1 September 2014|
+|308.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 April 2014|
+|||1 September 2014|
 ## COMPARATIVE TABLE
 
 Income Tax Act
