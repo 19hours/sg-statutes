@@ -160,8 +160,6 @@ APPLICATION OF PENSION FUND
 
 9\.—(1) The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
 
-[12/98 wef 01/04/1998]
-
 (2) The Minister may by warrant under his hand authorise the transfer to the SAVER-Premium Fund established under section 205B of the Singapore Armed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan or Premium Plan established under section 205A of the Singapore Armed Forces Act.
 
 [12/98 wef 01/04/1998]
@@ -228,7 +226,9 @@ The Civil Defence Act [Cap. 42].
 
 2. 
 
-The Civil List and Pension Act [Cap. 44].
+The Civil List and Gratuity Act [Cap. 44].
+
+[Act 20 of 2012 wef 25/09/2014]
 
 3. 
 
@@ -290,7 +290,7 @@ Pension Fund Act
 
 (CHAPTER 224A)
 
-This Legislative History is provided for the convenience of users of the Pension Fund Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Pension Fund Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -343,3 +343,8 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 18/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|21 May 2011|
+|10.|**Act 20 of 2012—Civil List and Pension (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|13 August 2012 (Bill No. 17/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|25 September 2014|
