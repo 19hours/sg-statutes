@@ -1,4 +1,4 @@
-**Civil List and Pension Act**
+**Civil List and Gratuity Act**
 
 **(CHAPTER 44)**
 
@@ -22,25 +22,25 @@
 
 - [7 Variation of Schedule](#Variation-of-Schedule)
 
-[**Part II PENSION**](#Part-II)
+[**Part II GRATUITY**](#Part-II)
 
-- [8 Pension for former Presidents](#Pension-for-former-Presidents)
+- [8 (Repealed)](#Repealed)
 
-- [9 Payment of pensions](#Payment-of-pensions)
+- [9 (Repealed)](#Repealed)
 
 - [10 Gratuity on death](#Gratuity-on-death)
 
-- [11 Pension for widow and children of President and former Presidents](#Pension-for-widow-and-children-of-President-and-former-Presidents)
+- [11 (Repealed)](#Repealed)
 
-- [12 Pension or gratuity not to be assignable](#Pension-or-gratuity-not-to-be-assignable)
+- [12 Gratuity not to be assignable](#Gratuity-not-to-be-assignable)
 
-- [13 Pensions and gratuities to be paid out of Pension Fund](#Pensions-and-gratuities-to-be-paid-out-of-Pension-Fund)
+- [13 Gratuities to be paid out of Pension Fund](#Gratuities-to-be-paid-out-of-Pension-Fund)
 
 [**THE SCHEDULE Sums payable**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
-# Civil List and Pension Act
+# Civil List and Gratuity Act
 
 (CHAPTER 44)
 
@@ -50,13 +50,17 @@ REVISED EDITION 2002
 
 (31st December 2002)
 
-An Act to provide a civil list and pension for the President of the Republic of Singapore.
+An Act to provide a civil list and gratuity for the President of the Republic of Singapore.
+
+[Act 20 of 2012 wef 25/09/2014]
 
 [1st July 1970]
 
 ### Short title
 
-1\. This Act may be cited as the Civil List and Pension Act.
+1\. This Act may be cited as the Civil List and Gratuity Act.
+
+[Act 20 of 2012 wef 25/09/2014]
 
 ## PART I
 
@@ -106,51 +110,41 @@ CIVIL LIST
 
 ## PART II
 
-PENSION
+GRATUITY
 
-### Pension for former Presidents
+8\. [Repealed by Act 20 of 2012 wef 25/09/2014]
 
-8\. Subject to the provisions of this Act, any person who ceases to be President (referred to in this Act as former President) shall be granted a pension of such amount and on such terms as Parliament may by resolution determine.
-
-### Payment of pensions
-
-9\. Pensions under this Act may be paid monthly at the end of each month in which the pension falls due.
+9\. [Repealed by Act 20 of 2012 wef 25/09/2014]
 
 ### Gratuity on death
 
 10\. Where, after 1st July 1970, the President or a former President dies, there may be paid to his dependants or, if there are no dependants, to his legal personal representative a gratuity of such amount as Parliament may by resolution determine.
 
-### Pension for widow and children of President and former Presidents
+11\. [Repealed by Act 20 of 2012 wef 25/09/2014]
 
-11\.—(1) Where the President or a former President dies, there may be granted, in addition to any gratuity which may be paid under section 10, a pension to his widow as well as to his surviving children of such amount or amounts and subject to such terms as Parliament may by resolution determine.
+### Gratuity not to be assignable
 
-[49/70]
-
-(2) Any pension granted under subsection (1) shall commence on the date of the death of the President or former President.
-
-[49/70]
-
-(3) Any pension paid to a widow under subsection (1) shall cease upon her re-marriage or death.
-
-[49/70]
-
-### Pension or gratuity not to be assignable
-
-12\. A pension or gratuity granted under this Act shall not be —
+12\. A gratuity granted under this Act shall not be —
 
 (a) assignable or transferable except for the purpose of satisfying —
 
 (i) a debt due to the Government; or
 
-(ii) an order of any court for the payment of periodical sums of money towards the maintenance of the wife, or former wife or minor child of the former President to whom the pension has been granted; and
+(ii) an order of any court for the payment of periodical sums of money towards the maintenance of the wife, or former wife or minor child of the former President to whom the gratuity has been granted; and
+
+[Act 20 of 2012 wef 25/09/2014]
 
 (b) attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government.
 
-### Pensions and gratuities to be paid out of Pension Fund
+[Act 20 of 2012 wef 25/09/2014]
 
-13\. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A) all such sums of money as may, from time to time, be granted by way of pension or gratuity in accordance with this Act.
+### Gratuities to be paid out of Pension Fund
+
+13\. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A) all such sums of money as may, from time to time, be granted by way of gratuity in accordance with this Act.
 
 [8/95]
+
+[Act 20 of 2012 wef 25/09/2014]
 
 ## THE SCHEDULE
 
@@ -198,7 +192,7 @@ $550,000
 
 ## LEGISLATIVE HISTORY
 
-Civil List and Pension Act
+Civil List and Gratuity Act
 
 (CHAPTER 44)
 
@@ -265,90 +259,59 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991 (section 2 read with item (6) of the Schedule)|
-|25.|**G. N. No. S 92/80—Parliamentary Resolution**|
-||Date of commencement|27 February 1978|
-|26.|**G. N. No. S 93/80—Parliamentary Resolution**|
-||Date of commencement|5 March 1979|
-|27.|**G. N. No. S 94/80—Parliamentary Resolution**|
-||Date of commencement|5 March 1980|
-|28.|**G. N. No. S 94/81—Parliamentary Resolution**|
-||Date of commencement|6 March 1981|
-|29.|**G. N. No. S 201/82—Parliamentary Resolution**|
-||Date of commencement|5 March 1982|
-|30.|**G. N. No. S 77/83—Parliamentary Resolution**|
-||Date of commencement|4 March 1983|
-|31.|**G. N. No. S 103/84—Parliamentary Resolution**|
-||Date of commencement|2 March 1984|
-|32.|**G. N. No. S 93/85—Parliamentary Resolution**|
-||Date of commencement|8 March 1985|
-|33.|**G. N. No. S 84/86—Parliamentary Resolution**|
-||Date of commencement|7 March 1986|
-|34.|**G. N. No. S 100/87—Parliamentary Resolution**|
-||Date of commencement|4 March 1987|
-|35.|**1985 Revised Edition—Civil List and Pension Act (Chapter 44)**|
-||Date of operation|31 March 1987|
-|36.|**G. N. No. S 86/88—Parliamentary Resolution**|
-||Date of commencement|4 March 1988|
-|37.|**G. N. No. S 177/89—Parliamentary Resolution**|
-||Date of commencement|7 April 1989|
-|38.|**G. N. No. S 44/91—Parliamentary Resolution**|
-||Date of commencement|2 March 1990|
-|39.|**G. N. No. S 163/91—Parliamentary Resolution**|
-||Date of commencement|1 March 1991|
-|40.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
-||Date of First Reading|3 January 1991|
-|||(Bill No. 4/91 published on 4 January 1991)|
-||Date of Second and Third Readings|14 January 1991|
-||Date of commencement|30 November 1991 (section 2 read with item (6) of the Schedule)|
-|41.|**G. N. No. S 176/92—Parliamentary Resolution**|
+|25.|**G. N. No. S 176/92—Parliamentary Resolution**|
 ||Date of commencement|28 February 1992|
-|42.|**1994 Revised Edition—Civil List and Pension Act**|
+|26.|**1994 Revised Edition—Civil List and Pension Act**|
 ||Date of operation|15 July 1994|
-|43.|**Act 8 of 1995—Pension Fund Act**|
+|27.|**Act 8 of 1995—Pension Fund Act**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|23 January 1995|
 |||(Bill No. 2/1995 published on 24 January 1995)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 April 1995|
-|44.|**G. N. No. S 232/96—Parliamentary Resolution**|
+|28.|**G. N. No. S 232/96—Parliamentary Resolution**|
 ||Date of commencement|28 February 1996|
-|45.|**G. N. No. S 366/97—Parliamentary Resolution**|
+|29.|**G. N. No. S 366/97—Parliamentary Resolution**|
 ||Date of commencement|11 July 1997|
-|46.|**1997 Revised Edition—Civil List and Pension Act**|
+|30.|**1997 Revised Edition—Civil List and Pension Act**|
 ||Date of operation|20 December 1997|
-|47.|**G. N. No. S 246/98—Parliamentary Resolution**|
+|31.|**G. N. No. S 246/98—Parliamentary Resolution**|
 ||Date of commencement|27 February 1998|
-|48.|**G. N. No. S 188/99—Parliamentary Resolution**|
+|32.|**G. N. No. S 188/99—Parliamentary Resolution**|
 ||Date of commencement|26 February 1999|
-|49.|**G. N. No. S 143/2000—Parliamentary Resolution**|
+|33.|**G. N. No. S 143/2000—Parliamentary Resolution**|
 ||Date of commencement|25 February 2000|
-|50.|**G. N. No. S 36/2001—Parliamentary Resolution**|
+|34.|**G. N. No. S 36/2001—Parliamentary Resolution**|
 ||Date of commencement|12 January 2001|
-|51.|**G. N. No. S 168/2001—Parliamentary Resolution**|
+|35.|**G. N. No. S 168/2001—Parliamentary Resolution**|
 ||Date of commencement|23 February 2001|
-|52.|**2002 Revised Edition—Civil List and Pension Act**|
+|36.|**2002 Revised Edition—Civil List and Pension Act**|
 ||Date of operation|31 December 2002|
-|53.|**G. N. No. S 772/2004—Parliamentary Resolution**|
+|37.|**G. N. No. S 772/2004—Parliamentary Resolution**|
 ||Date of commencement|27 February 2004|
-|54.|**G. N. No. S 52/2005—Parliamentary Resolution**|
+|38.|**G. N. No. S 52/2005—Parliamentary Resolution**|
 ||Date of commencement|25 January 2005|
-|55.|**G. N. No. S 185/2005—Parliamentary Resolution**|
+|39.|**G. N. No. S 185/2005—Parliamentary Resolution**|
 ||Date of commencement|18 February 2005|
-|56.|**G. N. No. S 36/2006—Parliamentary Resolution**|
+|40.|**G. N. No. S 36/2006—Parliamentary Resolution**|
 ||Date of commencement|17 January 2006|
-|57.|**G. N. No. S 183/2006—Parliamentary Resolution**|
+|41.|**G. N. No. S 183/2006—Parliamentary Resolution**|
 ||Date of commencement|17 February 2006|
-|58.|**G. N. No. S 43/2007—Parliamentary Resolution**|
+|42.|**G. N. No. S 43/2007—Parliamentary Resolution**|
 ||Date of commencement|23 January 2007|
-|59.|**G. N. No. S 37/2008—Parliamentary Resolution**|
+|43.|**G. N. No. S 37/2008—Parliamentary Resolution**|
 ||Date of commencement|22 January 2008|
-|60.|**G. N. No. S 175/2008—Parliamentary Resolution**|
+|44.|**G. N. No. S 175/2008—Parliamentary Resolution**|
 ||Date of commencement|15 February 2008|
-|61.|**G. N. No. S 139/2009—Parliamentary Resolution**|
+|45.|**G. N. No. S 139/2009—Parliamentary Resolution**|
 ||Date of commencement|22 January 2009|
-|62.|**G. N. No. S 203/2010—Parliamentary Resolution**|
+|46.|**G. N. No. S 203/2010—Parliamentary Resolution**|
 ||Date of commencement|2 March 2010|
-|63.|**G. N. No. S 177/2011—Parliamentary Resolution**|
+|47.|**G. N. No. S 177/2011—Parliamentary Resolution**|
 ||Date of commencement|10 March 2011|
-|64.|**G. N. No. S 137/2012—Civil List and Pension Act — Resolution Passed At Parliament Meeting**|
+|48.|**G. N. No. S 137/2012—Civil List and Pension Act — Resolution Passed At Parliament Meeting**|
 ||Date of commencement|17 February 2012|
+|49.|**Act 20 of 2012—Civil List and Pension (Amendment) Act 2012**|
+||Date of First Reading|13 August 2012 (Bill No. 17/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|25 September 2014|
