@@ -114,6 +114,8 @@
 
 - [47 Supply of information, etc., by management corporations](#Supply-of-information-etc-by-management-corporations)
 
+- [47A Display of award of compensation for acquisition, etc.](#Display-of-award-of-compensation-for-acquisition-etc)
+
 - [48 Records, etc., of management corporation](#Records-etc-of-management-corporation)
 
 - [49 Restrictions on management corporation’s powers during initial period](#Restrictions-on-management-corporation’s-powers-during-initial-period)
@@ -203,6 +205,8 @@
 [**Division 9  Miscellaneous**](#Division-9--Miscellaneous)
 
 - [85 Management corporation, etc., may represent subsidiary proprietors in proceedings](#Management-corporation-etc-may-represent-subsidiary-proprietors-in-proceedings)
+
+- [85A Limited right to representation by management corporation in non‑lot acquisition](#Limited-right-to-representation-by-management-corporation-in-non‑lot-acquisition)
 
 - [86 Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects](#Management-corporation’s-power-to-take-proceedings-as-agent-for-subsidiary-proprietor-in-case-of-structural-defects)
 
@@ -468,6 +472,18 @@ and includes a lot specified as an accessory lot on any such plan;
 “managing agent” means a managing agent appointed under this Act;
 
 “mediation” means a structured negotiation process in which the mediator, as a neutral and independent party, assists the parties to a dispute to achieve their own resolution of the dispute;
+
+“non‑lot acquisition” means any acquisition under the Land Acquisition Act (Cap. 152) of any common property (and no other land) comprised in a strata title plan;
+
+[Act 26 of 2014 wef 29/09/2014]
+
+“non‑lot acquisition related expenses”, in relation to any management corporation for a strata title plan, means —
+
+(a) any legal costs, valuation and other professional fees reasonably incurred by the management corporation in relation to the preparation and filing of a claim for compensation under the Land Acquisition Act, or any appeal under that Act, in respect of any non‑lot acquisition affecting the strata title plan; and
+
+(b) any other financial costs reasonably incurred by the management corporation in convening and conducting meetings for or in connection with the preparation and filing of a claim for compensation under the Land Acquisition Act, or any appeal under that Act, in respect of any non‑lot acquisition relating to its strata title plan;
+
+[Act 26 of 2014 wef 29/09/2014]
 
 “non-strata lot” means any stratum that —
 
@@ -1693,6 +1709,10 @@ make an order directing the management corporation or management corporations to
 
 (b) the proceeds of the sale or other disposal of any movable property of the management corporation;
 
+(ba) all moneys received by it from the Collector of Land Revenue as an award of compensation under the Land Acquisition Act for any non‑lot acquisition relating to its strata title plan;
+
+[Act 26 of 2014 wef 29/09/2014]
+
 (c) any fee received by the management corporation under section 47;
 
 (d) any amount paid to the management corporation by way of discharge of insurance claims; and
@@ -1767,7 +1787,13 @@ make an order directing the management corporation or management corporations to
 
 (c) the renewal or replacement pursuant to section 29 of parts of the parcel being the common property, fixtures, fittings and other property (including movable property) held by or on behalf of the management corporation;
 
-(d) the acquisition of movable property; and
+(d) the acquisition of movable property;
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(da) any non‑lot acquisition related expenses of the management corporation; and
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (e) such other liabilities expected to be incurred at a future time where the management corporation determines in a general meeting that the whole or part thereof should be met from its sinking fund.
 
@@ -1995,9 +2021,17 @@ and the auditor shall hold office until the conclusion of the next annual genera
 
 (v) the books of account of the management corporation;
 
-(vi) a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 38(10); and
+(vi) a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 38(10);
 
-(vii) any other record or document in the custody or under the control of the management corporation,
+[Act 26 of 2014 wef 29/09/2014]
+
+(vii) any notice under section 3, 8 or 16 of the Land Acquisition Act, or any copy of an award under section 10 of that Act, received by the management corporation for any non‑lot acquisition relating to the strata title plan for which the management corporation is constituted; and
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(viii) any other record or document in the custody or under the control of the management corporation,
+
+[Act 26 of 2014 wef 29/09/2014]
 
 at such time and place as may be agreed upon by the applicant or his agent and the management corporation and, failing agreement, at the subdivided building at a time and on a date fixed by the management corporation under subsection (2);
 
@@ -2011,11 +2045,19 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (iv) whether there is any amount recoverable from the subsidiary proprietor of that lot under section 30 and, if so, the amount thereof;
 
-(v) any interest payable under section 40(6)(b) in respect of any unpaid contribution referred to in that subsection; and
+(v) any interest payable under section 40(6)(b) in respect of any unpaid contribution referred to in that subsection;
 
-(vi) whether the management corporation has received a copy of any application made to, or any order of, any Board or the High Court under section 84A or 84FA of the Land Titles (Strata) Act (Cap. 158).
+[Act 26 of 2014 wef 29/09/2014]
+
+(vi) whether the management corporation has received a copy of any application made to, or any order of, any Board or the High Court under section 84A or 84FA of the Land Titles (Strata) Act (Cap 158); and
 
 [13/2010 wef 15/07/2010]
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(vii) whether the management corporation has received any notice under section 3, 8 or 16 of the Land Acquisition Act, or any copy of an award under section 10 of that Act, for any non‑lot acquisition relating to the strata title plan for which the management corporation is constituted.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (1A) A management corporation for a strata title plan shall, upon application made to it in writing by a collective sale committee constituted in accordance with the Land Titles (Strata) Act (Cap. 158) for the purposes of a collective sale under section 84A or 84FA of that Act and on payment by the collective sale committee of the prescribed fee, furnish a copy of extracts from the strata roll containing the information referred to in section 46(3) in respect of every lot comprised in that strata title plan.
 
@@ -2028,6 +2070,18 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 (4) A person entitled to inspect a document made available under subsection (1)(b) may take extracts from, or make a copy of, the document but may not, without the consent of the management corporation, remove the document from the custody of the management corporation for the purpose of inspecting the document, taking extracts therefrom or making a copy thereof.
 
 [LT(S)A, s. 54]
+
+### Display of award of compensation for acquisition, etc.
+
+47A\.—(1) If the management corporation is required by its by-laws to maintain a notice board, its council must —
+
+(a) within 7 days after the management corporation receives any notice under section 3, 8, 16 or any other provision under the Land Acquisition Act, or any award under section 10 of that Act, for any non‑lot acquisition relating to the strata title plan for which the management corporation is constituted, cause a copy of every such notice or award to be displayed on the notice board; and
+
+(b) for not less than 14 days keep displayed on that notice board the copy of that notice or award.
+
+(2) If there is no notice board, the council concerned must give, within the period delimited by paragraph (a) of subsection (1), each subsidiary proprietor who then constitutes the management corporation a copy of the notice or award referred to in that paragraph.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Records, etc., of management corporation
 
@@ -3004,6 +3058,26 @@ the proceedings may be taken by or against the management corporation in the cas
 (b) the same proportion as calculated in accordance with section 81, in the case of a judgment or an order for or against a subsidiary management corporation.
 
 [LT(S)A, s. 116]
+
+### Limited right to representation by management corporation in non‑lot acquisition
+
+85A\.—(1) Notwithstanding anything in section 85, the management corporation for a strata title plan —
+
+(a) may start any proceedings before the Appeals Board under the Land Acquisition Act for any non‑lot acquisition relating to the strata title plan and represent every subsidiary proprietor of every lot comprised in the strata title plan in those proceedings; and
+
+(b) may lodge any appeal to the Court of Appeal from the decision of the Appeals Board under the Land Acquisition Act for any non‑lot acquisition relating to the strata title plan and represent every subsidiary proprietor of every lot comprised in the strata title plan in that appeal,
+
+if, and only if, the proceedings and appeal, respectively, are each authorised by an ordinary resolution of the subsidiary proprietors constituting the management corporation.
+
+(2) Unless authorised by ordinary resolution, a management corporation for a strata title plan shall not make a claim for compensation under the Land Acquisition Act for any non‑lot acquisition relating to its strata title plan.
+
+(3) Unless otherwise agreed by special resolution under subsection (4), the amount of compensation awarded under the Land Acquisition Act for any non‑lot acquisition relating to a strata title plan shall be paid into the management fund of the management corporation for that strata title plan.
+
+(4) The subsidiary proprietors constituting the management corporation for a strata title plan may, by special resolution, agree that the compensation for any non‑lot acquisition relating to the strata title plan be distributed among themselves; in which event that compensation must be distributed among the subsidiary proprietors in shares proportionate to their respective share values of their lots as on the date possession is taken under section 16 of the Land Acquisition Act of the land acquired under the non‑lot acquisition.
+
+(5) Unless authorised by a resolution by consensus, a management corporation for a strata title plan shall not express any desire under section 49(1) of the Land Acquisition Act for the whole of the land comprised in its strata title plan to be acquired under that Act.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects
 
@@ -5430,7 +5504,6 @@ This Legislative History is provided for the convenience of users of the Buildin
 |7.|**2008 Revised Edition—Building Maintenance and Strata Management Act**|
 ||Date of operation|31 July 2008|
 |8.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
@@ -5444,6 +5517,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of First Reading|20 January 2014 (Bill No. 4/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|15 August 2014|
+|11.|**Act 26 of 2014—Land Acquisition (Amendment) Act 2014**|
+||Date of First Reading|7 July 2014 (Bill No. 20/2014 published on 7 July 2014)|
+||Date of Second and Third Readings|5 August 2014|
+||Date of commencement|29 September 2014|
 ## COMPARATIVE TABLE
 
 Building Maintenance and Strata Management Act
