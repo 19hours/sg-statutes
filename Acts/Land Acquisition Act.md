@@ -174,23 +174,45 @@ PRELIMINARY
 
 “Commissioner” means a Commissioner of Appeals or a Deputy Commissioner of Appeals, appointed under section 19(2), and includes an acting Commissioner of Appeals or acting Deputy Commissioner of Appeals;
 
-“land” includes benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
+“common property” and “lot” have the same respective meanings as in the Land Titles (Strata) Act (Cap. 158);
 
-“person interested” includes every person claiming an interest in compensation to be made on account of the acquisition of land under this Act, but does not include a tenant by the month or at will.
+[Act 26 of 2014 wef 29/09/2014]
 
-[66/73. ]
+“land” includes any foreshore, and benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
 
-[17/2001 wef 01/06/2001]
+[Act 26 of 2014 wef 29/09/2014]
+
+“management corporation”, in relation to any land comprised in a strata title plan, means the management corporation constituted in respect of that strata title plan under the Land Titles (Strata) Act;
+
+[Act 26 of 2014 wef 29/09/2014]
+
+“non‑lot acquisition” means an acquisition under this Act of any common property (and no other land) comprised in a strata title plan;
+
+[Act 26 of 2014 wef 29/09/2014]
+
+“person interested” includes every person claiming an interest in compensation to be made on account of the acquisition of land under this Act, but does not include a tenant by the month or at will;
 
 [19/2007 wef 07/05/2007]
 
+“strata title plan” and “subsidiary proprietor” have the same respective meanings as in the Land Titles (Strata) Act.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+[66/73]
+
 (2) For the purposes of this Act, the following persons shall be deemed persons “entitled to act” as and to the extent hereinafter provided:
 
-(a) trustees for other persons beneficially interested shall be deemed the persons entitled to act with reference to any such case, and that to the same extent as the persons beneficially interested could have acted if free from disability; and
+(a) trustees for other persons beneficially interested shall be deemed the persons entitled to act with reference to any such case, and that to the same extent as the persons beneficially interested could have acted if free from disability;
 
-(b) [Deleted by Act 19/2007 wef 07/05/2007]
+[19/2007 wef 07/05/2007]
+
+(b) the management corporation for a strata title plan shall be deemed the person entitled to act for, and the person authorised to receive service within Singapore on behalf of, every subsidiary proprietor of every lot comprised in the strata title plan with reference only to any non‑lot acquisition relating to that strata title plan; and
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (c) the guardians of minors and deputies appointed or deemed to be appointed by the High Court for persons who lack capacity (incapacitated persons) under the Mental Capacity Act 2008 with power in relation to the incapacitated persons for the purposes of this Act, shall be deemed respectively the persons so entitled to act, to the same extent as the minors or incapacitated persons themselves could have acted if free from disability:
+
+[21/2008 wef 01/03/2010]
 
 Provided that —
 
@@ -201,6 +223,10 @@ Provided that —
 (iii) the provisions of the Rules of Court for the time being in force shall, mutatis mutandis, apply in the case of persons interested appearing before the Collector, the Board or the Court of Appeal by a next friend, or by a guardian for the case, in proceedings under this Act; and
 
 (iv) no person “entitled to act” shall be competent to receive the compensation money payable to the person for whom he is entitled to act, unless he would have been competent to alienate the land and receive and give a good discharge for the purchase money on a voluntary sale.
+
+(3) Notwithstanding subsection (2)(iv) and sections 34 and 35 of the Building Maintenance and Strata Management Act (Cap. 30C), a management corporation for a strata title plan is deemed for the purposes of this Act, competent to receive the compensation money payable under this Act for any non‑lot acquisition relating to that strata title plan.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ## PART II
 
@@ -223,6 +249,8 @@ Preliminary investigation
 (e) mark those levels, boundaries and line by placing marks and cutting trenches; and
 
 (f) cut down and clear away any standing crop, fence or jungle, where otherwise the survey cannot be completed, the levels taken or the boundaries or line of the work marked.
+
+[19/2007 wef 07/05/2007]
 
 (2) No person shall enter into any building or upon any enclosed court or garden attached to a dwelling-house unless with the consent of the occupier thereof, without previously giving the occupier at least 7 days’ notice in writing of his intention to do so.
 
@@ -306,17 +334,31 @@ the President may, by notification published in theGazette, declare the land to 
 
 (b) shall require all persons interested in the land —
 
-(i) to appear personally or by any person authorised in writing in that behalf before the Collector at the time and place mentioned in the notice, such time being not earlier than 21 days after the date of the notice; and
+(i) to appear personally, or by the person entitled to act for the person interested or any other person authorised in writing in that behalf, before the Collector at the time and place mentioned in the notice, such time being not earlier than 21 days after the date of the notice; and
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (ii) to state the nature of their respective interests in the land, the amount and particulars of their claims to compensation for those interests, the basis or mode of valuation by which the amount claimed is arrived at, and their objections, if any, to the measurements in any plan prepared under section 7.
 
 [Act 2 of 2012 wef 01/03/2012]
 
+[19/2007 wef 07/05/2007]
+
 (4) The Collector may, in any case, require any statement under subsection (3) to be made in writing and signed by the party or his agent.
+
+(5) In a non-lot acquisition relating to a strata title plan, only the management corporation constituted for that strata title plan, and no other person, is entitled to make a claim for compensation pursuant to a notice published under subsection (1) or served under subsection (2) in relation to the non‑lot acquisition, and it shall be lawful for the Collector to reject any claim for compensation as a result of that non‑lot acquisition made by —
+
+(a) any subsidiary proprietor constituting the management corporation; or
+
+(b) any mortgagee, chargee or other person with an estate and interest in any lot comprised in the strata title plan.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Power to require statements as to names and interests
 
-9\.—(1) The Collector may also require any such person to deliver to him within a time to be specified, being not less than 15 days, a statement in writing containing, so far as may be practicable, the name of every other person possessing any interest in the land or any part thereof as co-owner, mortgagee, lessee, sub-lessee, tenant or otherwise, and of the nature of that interest, and of the rents and profits, if any, received or receivable on account thereof for 3 years next preceding the date of the statement.
+9\.—(1) The Collector may also require any such person to deliver to him within a time to be specified, being not less than 15 days, a statement in writing containing, so far as may be practicable, the name of every other person possessing any interest in the land or any part thereof as co-owner, mortgagee, lessee, sub-lessee, tenant or otherwise, and of the nature of that interest, and of the rents and profits, if any, received or receivable on account thereof for 3 years next preceding the date of the statement and, where any claim to compensation is made by a management corporation, the resolution required under section 85A(2) of the Building Maintenance and Strata Management Act to authorise the management corporation to make that claim and any special resolution referred to in section 85A(4) of that Act.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (2) Every person required to make or deliver a statement under section 8 or this section shall be deemed to be legally bound to do so within the meaning of sections 175 and 176 of the Penal Code [Cap. 224].
 
@@ -333,6 +375,20 @@ Inquiry into measurements, value and claims, and award by Collector
 (c) the apportionment of the compensation among all the persons known or believed to be interested in the land, of whom or of whose claims he has information, whether or not they have respectively appeared before him.
 
 [Act 2 of 2012 wef 01/03/2012]
+
+[19/2007 wef 07/05/2007]
+
+(1A) Despite subsection (1)(c), the compensation awarded for a non‑lot acquisition relating to any strata title plan under this Act shall not be apportioned among the subsidiary proprietors constituting the management corporation for that strata title plan but must be awarded to the management corporation unless subsection (1B) applies.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(1B) Where the subsidiary proprietors constituting the management corporation for a strata title plan so agree by a special resolution referred to in section 85A(4) of the Building Maintenance and Strata Management Act, the compensation awarded under subsection (1) for a non‑lot acquisition relating to that strata title plan shall be apportioned —
+
+(a) among the persons who, on the date the Collector takes possession under section 16 of the land acquired, are subsidiary proprietors constituting the management corporation; and
+
+(b) in shares proportional to the share values of those persons’ respective lots.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (2) The Collector may at any time refer to the High Court for its determination any question as to —
 
@@ -382,7 +438,13 @@ Inquiry into measurements, value and claims, and award by Collector
 
 ### Power to summon and enforce attendance of witnesses and production of documents
 
-14\. For the purpose of inquiries under this Act, the Collector shall have power to summon and enforce the attendance of witnesses, including the parties interested or any of them, and to compel the production of documents by the same means, and, so far as may be, in the same manner, as is provided in the case of a court under the Rules of Court for the time being in force.
+14\.—(1) For the purpose of inquiries under this Act, the Collector shall have power to summon and enforce the attendance of witnesses, including the parties interested or any of them, and to compel the production of documents by the same means, and, so far as may be, in the same manner, as is provided in the case of a court under the Rules of Court for the time being in force.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(2) The Collector shall, in particular, have power to compel the production of any resolution by the subsidiary proprietors constituting the management corporation for a strata title plan where that is relevant to the making of any award of compensation for the acquisition under this Act of any property comprised in the strata title plan.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Matters to be considered and matters to be disregarded
 
@@ -392,9 +454,9 @@ Taking possession
 
 ### Power to take possession
 
-16\.—(1) When the Collector has made an award under section 10, he may take possession of the land by posting thereupon an appropriate notice.
+16\. When a Collector has made an award under section 10, the Collector may take possession of the land by serving, in accordance with section 45, a copy of an appropriate notice of taking possession on every person interested in the land or any person known or believed to be entitled to act for a person so interested.
 
-(2) Upon taking possession of the land under subsection (1), the Collector shall also serve a copy of the notice upon the persons interested in the land.
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Power to take possession in cases of urgency
 
@@ -411,6 +473,8 @@ Taking possession
 (a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269], give notice to the Registrar of Deeds who shall make an entry in the books of the registry that the land has vested in the State, and upon that entry being made, the land shall vest in the State free from encumbrances; or
 
 (b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], lodge in accordance with section 143(2) of that Act, an instrument of acquisition with the Registrar of Titles who shall, upon a request by the Collector, endorse on the relevant folio of the land register a notification to the effect that the land has become vested in the State as State land free from encumbrances and has ceased to be subject to the provisions of the Land Titles Act, and upon that endorsement being made, the land shall vest in the State free from encumbrances.
+
+[19/2007 wef 07/05/2007]
 
 ## PART III
 
@@ -429,6 +493,8 @@ REFERENCE TO AN APPEALS BOARD AND PROCEDURE THEREON
 (c) has been sentenced to imprisonment for a term exceeding 6 months and has not received a free pardon; or
 
 (d) is mentally disordered and incapable of managing himself or his affairs.
+
+[21/2008 wef 01/03/2010]
 
 (3) The Commissioner and the Deputy Commissioner shall hold office for a period of two years from the date of their appointments and shall be eligible for reappointment.
 
@@ -464,11 +530,33 @@ REFERENCE TO AN APPEALS BOARD AND PROCEDURE THEREON
 
 23\.—(1) Any person interested, who is aggrieved by an award made under section 10, may appeal to the Board by —
 
-(a) lodging with the Registrar, within 14 days of the date of the receipt of the award of the Collector, a written notice of appeal in duplicate;
+(a) lodging with the Registrar, within 28 days after the date of the receipt of the award of the Collector, a written notice of appeal in duplicate;
 
-(b) depositing or authorising the Collector to deposit with the Accountant-General within 14 days of the date of the receipt of the award a sum equivalent to one-third the amount of the award or $5,000, whichever is the less, unless a written waiver from the Collector has been obtained; and
+[Act 26 of 2014 wef 29/09/2014]
 
-(c) lodging with the Registrar, within 14 days of the date on which the grounds of award of the Collector have been served upon the appellant, a petition of appeal in duplicate containing a statement of the grounds of appeal.
+[19/2007 wef 07/05/2007]
+
+(b) depositing or authorising the Collector to deposit with the Accountant-General within 28 days after the date of the receipt of the award a sum equivalent to one-third the amount of the award or $5,000, whichever is the less, unless a written waiver from the Collector has been obtained; and
+
+[Act 26 of 2014 wef 29/09/2014]
+
+[9/2003 wef 16/05/2003]
+
+[19/2007 wef 07/05/2007]
+
+(c) lodging with the Registrar, within 28 days after the date on which the grounds of award of the Collector have been served upon the appellant, a petition of appeal in duplicate containing a statement of the grounds of appeal.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+[19/2007 wef 07/05/2007]
+
+(1A) Notwithstanding anything in this section, in a non‑lot acquisition relating to a strata title plan, only the management corporation constituted for the strata title plan is entitled to lodge with the Registrar a notice of appeal or petition of appeal in accordance with subsection (1) in respect of that non‑lot acquisition, and there shall be no such appeal by —
+
+(a) any of the subsidiary proprietors constituting the management corporation for the strata title plan; and
+
+(b) any mortgagee, chargee or other person with an estate and interest in any lot comprised in the strata title plan.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (2) On receipt of a notice of appeal, the Registrar shall forthwith forward one copy thereof to the Collector. The Collector shall thereupon lodge with the Registrar his grounds of award and a copy of those grounds shall be served by the Registrar upon the appellant by delivering or tendering the copy to him or sending it to him by registered post.
 
@@ -486,7 +574,9 @@ REFERENCE TO AN APPEALS BOARD AND PROCEDURE THEREON
 
 (a) the deposit required under section 23(1)(b) is not deposited or authorised to be deposited, within the time specified, with the Accountant-General; or
 
-(b) the petition of appeal is not lodged within the time prescribed by section 23(1)(c).
+(b) the petition of appeal is not lodged, by the person permitted by section 23 to do so, within the time prescribed by section 23(1)(c).
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Hearing and disposal of appeals
 
@@ -528,6 +618,8 @@ Provided that if it is proved to the satisfaction of the Board that, owing to ab
 
 (c) is mentally disordered and incapable of managing himself or his affair.
 
+[21/2008 wef 01/03/2010]
+
 (4) A person appointed to the panel shall, save where his appointment is revoked by the Minister under subsection (6), be a member of the panel, unless he resigns during the period of the appointment, for a period of two years or for such shorter period as the Minister may in any case determine, but shall be eligible for reappointment.
 
 (5) Where a person ceases to be a member of the panel the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy, but the existence of any vacancy in the panel shall not invalidate the acts of the Board.
@@ -555,6 +647,14 @@ Provided that if it is proved to the satisfaction of the Board that, owing to ab
 29\.—(1) Subject to this section, the decision of the Board shall be final.
 
 (2) In any case in which the award, as determined by the Board (excluding the amount of any costs awarded) exceeds $5,000, the appellant or the Collector may appeal to the Court of Appeal from the decision of the Board upon any question of law.
+
+(2A) Notwithstanding subsection (2), in a non‑lot acquisition relating to a strata title plan, only the management corporation constituted for the strata title plan is entitled to make an appeal to the Court of Appeal under subsection (2) in respect of that non‑lot acquisition, and there shall be no such appeal by —
+
+(a) any of the subsidiary proprietors constituting the management corporation for the strata title plan; and
+
+(b) any mortgagee, chargee or other person with an estate and interest in any lot comprised in the strata title plan.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (3) The procedure governing such appeals to the Court of Appeal and costs relating to such appeals shall be the same as for appeals to the Court of Appeal from decisions of the High Court.
 
@@ -608,13 +708,35 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 (3) Where the Board is of the opinion that the claim of the appellant was so excessive or that he was so negligent in putting his case before the Collector that some deduction from his costs should be made or that he should pay part of the Collector’s costs, the Board may make such order as to costs, as it may think fit.
 
+(3A) In relation to any proceedings before it, the Board may order a vexatious third party —
+
+(a) to personally pay the whole or part of the costs of the proceedings; or
+
+(b) if any party is the client of the vexatious third party, to repay to his client costs which the client has been ordered to pay to any other party to the proceedings.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(3B) No order under subsection (3A) shall be made against any person unless that person has been given a reasonable opportunity to appear before the Board and show cause why the order should not be made.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(3C) In subsection (3A), “vexatious third party”, in relation to any proceedings before the Board, means a person —
+
+(a) who is not a party to the proceedings; and
+
+(b) who the Board considers to be responsible for anything done or not done by or on behalf of any party that unnecessarily or unreasonably protracts, or adds to the costs or complexity of, those proceedings or puts any party to unnecessary expense in relation to those proceedings.
+
+[Act 26 of 2014 wef 29/09/2014]
+
 (4) If the claim of the appellant exceeds the amount awarded by 20% or more, he shall not be entitled to his costs.
 
 (5) Any costs directed by the Board or by this section to be paid shall, unless the Board otherwise directs, be taxable in the High Court.
 
 [66/73]
 
-(6) The costs, if any, payable by the appellant or the Collector may be recovered as if they were costs in a suit in the High Court and as if the award of the Board were the decree therein.
+(6) The costs, if any, payable by the appellant, the Collector or person who is not a party may be recovered as if they were costs in a suit in the High Court and as if the award of the Board were the decree therein.
+
+[Act 26 of 2014 wef 29/09/2014]
 
 ### Matters to be considered in determining compensation
 
@@ -662,11 +784,9 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 (e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonably be willing to pay, after taking into account the zoning and density requirements and any other restrictions imposed by or under the Planning Act (Cap. 232) as at the date of acquisition and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other use more intensive than that permitted by or under the Planning Act as at the date of acquisition.
 
-(f) [Deleted by Act 19/2007 wef 07/05/2007]
-
-[3/1998 wef 01/04/1998]
-
 [19/2007 wef 07/05/2007]
+
+(f) [Deleted by Act 19/2007 wef 07/05/2007]
 
 (6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under section 5(1) declaring that that land is needed for the purpose specified in the declaration.
 
@@ -734,7 +854,23 @@ PAYMENT
 
 ### Payment of compensation or deposit thereof with court
 
-40\.—(1) On making an award under section 10, the Collector shall make a written offer of the compensation awarded by him to the persons interested entitled thereto according to the award, and shall pay it to them unless prevented by one or more of the contingencies mentioned in subsection (2).
+40\.—(1) On making an award under section 10, the Collector shall make a written offer of the compensation awarded by him to the persons interested entitled thereto according to the award, and shall pay it to them unless prevented by one or more of the contingencies mentioned in subsection (2) or subsection (1A) applies.
+
+[Act 26 of 2014 wef 29/09/2014]
+
+(1A) If —
+
+(a) an award is made under section 10 with respect to a non‑lot acquisition relating to a strata title plan; and
+
+(b) within 28 days after that award is made, the subsidiary proprietors constituting the management corporation for the strata title plan serve on the Collector a copy of a special resolution referred to in section 85A(4) of the Building Maintenance and Strata Management Act with respect to that non‑lot acquisition,
+
+the Collector need not make a written offer of the compensation awarded in accordance with subsection (1) but must instead —
+
+(i) inform the management corporation for the strata title plan that the compensation awarded is to be paid to the persons in section 10(1B)(a); and
+
+(ii) pay that compensation according to section 10(1B) unless prevented by one or more of the contingencies mentioned in subsection (2).
+
+[Act 26 of 2014 wef 29/09/2014]
 
 (2) If they do not consent to receive it, or if there is no person competent to alienate the land, or if there is any dispute as to the title to receive the compensation or as to the apportionment of it, or if possession of the land has not been taken by the Collector, the Collector shall apply to the Registrar of the Supreme Court ex parte for an order to deposit the amount of the compensation in court, and, notwithstanding anything to the contrary in the Rules of Court for the time being in force, the Registrar may make such an order except that any person admitted to be interested may receive such payment under protest as to the sufficiency of the amount.
 
@@ -872,6 +1008,10 @@ Provided that the person interested may, at any time before the Collector has ma
 
 (3) If any question arises as to whether any land proposed to be taken under this Act does or does not form part of a house, manufactory or building which is reasonably required for the full and unimpaired use of the house, manufactory or building within the meaning of this section, the Collector shall refer the determination of that question to the High Court, and shall not take possession of the land until after the question has been determined.
 
+(4) A management corporation for a strata title plan may express any desire under subsection (1) for the whole of the land comprised in the strata title plan to be acquired under this Act, but only if the subsidiary proprietors constituting the management corporation for the strata title plan so agree to the acquisition of the whole of the land by a resolution by consensus referred to in section 85A(5) of the Building Maintenance and Strata Management Act.
+
+[Act 26 of 2014 wef 29/09/2014]
+
 ### Acquisition of whole or any additional portion of land where compensation for severance is payable
 
 50\.—(1) If any claim for compensation is made to a Collector holding an inquiry under section 10 by a person interested or his agent as provided by sections 15 and 33(1)(c), on account of the severing of the land to be acquired from his other land, or if, notwithstanding that no such claim has been made, a Collector holding such an inquiry has certified under his hand that compensation as aforesaid is payable upon the acquisition, it shall be lawful for the President at any time before the Collector has made his award, to order the acquisition of the whole or any additional portion of the land of which the land first sought to be acquired forms a part.
@@ -882,7 +1022,7 @@ Provided that the person interested may, at any time before the Collector has ma
 
 51\. Where land is acquired for any person, corporation or statutory board, the costs incurred by the Collector in the acquisition shall be defrayed by that person, corporation or statutory board.
 
-52\. [Deleted by Act 38/2002 wef 01/01/2003]
+52\. [Repealed by Act 38/2002 wef 01/01/2003]
 
 ### Suits to set aside awards under this Act to be barred
 
@@ -902,7 +1042,7 @@ Land Acquisition Act
 
 (CHAPTER 152)
 
-This Legislative History is provided for the convenience of users of the Land Acquisition Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Land Acquisition Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -992,3 +1132,7 @@ This Legislative History is provided for the convenience of users of the Land Ac
 ||Date of First Reading|7 July 2014 (Bill No. 20/2014 published on 7 July 2014)|
 ||Date of Second and Third Readings|5 August 2014|
 ||Date of commencement|7 July 2014 (section (12))|
+|20.|**Act 26 of 2014—Land Acquisition (Amendment) Act 2014**|
+||Date of First Reading|7 July 2014 (Bill No. 20/2014 published on 7 July 2014)|
+||Date of Second and Third Readings|5 August 2014|
+||Date of commencement|29 September 2014 (sections 2 to 11, 13 to 16, and the Schedule)|
