@@ -92,11 +92,19 @@ PRELIMINARY
 
 “certified copy”, in relation to an order of court, means a copy of the order certified by the proper officer of the court to be a true copy;
 
-“court” includes any tribunal or person having power to make, confirm, enforce, vary or revoke a maintenance order;
+“court” includes any tribunal or person having power to make, confirm, enforce, vary or revoke a maintenance order that is enforceable by a civil court of competent jurisdiction;
+
+[Act 2 of 2012 wef 30/09/2014]
 
 “maintenance order” means an order (however described) of the following descriptions:
 
-(a) an order (including an affiliation order or order consequent upon an affiliation order) which provides for the periodical payment of sums of money towards the maintenance of any person, being a person to whom the person liable to make payments under the order is, according to the law applied in the place where the order was made, liable to maintain; and
+(a) an order (including an affiliation order or order consequent upon an affiliation order) which provides for the payment of a lump sum or the making of periodical payments —
+
+(i) by a man towards the maintenance of his wife or former wife; or
+
+(ii) by a person towards the maintenance of his child; and
+
+[Act 2 of 2012 wef 30/09/2014]
 
 (b) an affiliation order or order consequent upon an affiliation order, being an order which provides for the payment by a person adjudged, found or declared to be a child’s father of expenses incidental to the child’s birth or, where the child had died, of his funeral expenses,
 
@@ -160,7 +168,7 @@ the court shall have jurisdiction to hear the complaint and may, subject to subs
 
 (2) A maintenance order made by virtue of this section shall be a provisional order.
 
-(3) If the court hearing a complaint to which subsection (1) applies is satisfied that there are grounds on which a maintenance order containing a provision requiring the making of payments for the maintenance of a child may be made on that complaint, but that it has no jurisdiction to make that order unless it also makes an order providing for the legal custody of that child, then, for the purpose of enabling the court to make the maintenance order, the complainant shall be deemed to be the person to whom the legal custody of that child has been committed by an order of the court which is for the time being in force.
+(3) [Deleted by Act 2 of 2012 wef 30/09/2014]
 
 (4) No enactment empowering a Magistrate’s Court or District Court to refuse to make an order on a complaint on the ground that the matter in question is one which would be more conveniently dealt with by the High Court shall apply in relation to a complaint to which subsection (1) applies.
 
@@ -202,9 +210,13 @@ the order varying the order shall be a provisional order.
 
 (6) For the purpose of determining whether a provisional order should be confirmed under subsection (5), the court shall proceed as if an application for the variation or revocation, as the case may be, of the maintenance order in question had been made to it.
 
-(7) Where a maintenance order to which this section applies has been varied by an order (including a provisional order which has been confirmed) made by a court in Singapore or by a competent court in a reciprocating country, the maintenance order shall, as from the date on which the order was made, have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
+(7) Where a maintenance order to which this section applies has been varied by an order (including a provisional order which has been confirmed) made by a court in Singapore or by a competent court in a reciprocating country, the maintenance order shall, as from the date on which under the provisions of the order the variation is to take effect, have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
 
-(8) Where a maintenance order to which this section applies has been revoked by an order made by a court in Singapore or by a competent court in a reciprocating country, including a provisional order made by the last-mentioned court which has been confirmed by a court in Singapore, the maintenance order shall, as from the date on which the order was made, be deemed to have ceased to have effect except as respects any arrears due under the maintenance order at that date.
+[Act 2 of 2012 wef 30/09/2014]
+
+(8) Where a maintenance order to which this section applies has been revoked by an order made by a court in Singapore or by a competent court in a reciprocating country, including a provisional order made by the last-mentioned court which has been confirmed by a court in Singapore, the maintenance order shall, as from the date on which under the provisions of the order the revocation is to take effect, be deemed to have ceased to have effect except as respects any arrears due under the maintenance order at that date.
+
+[Act 2 of 2012 wef 30/09/2014]
 
 (9) Where before a maintenance order made by virtue of section 4 is confirmed a document, duly authenticated, setting out or summarising evidence taken in a reciprocating country for the purpose of proceedings relating to the confirmation of the order is received by the court in Singapore which made the order, or that court, in compliance with a request made to it by a court in such a country, takes the evidence of a person residing in Singapore for the purpose of those proceedings, the court in Singapore which made the order shall consider that evidence and if, having done so, it appears to it that the order ought not to have been made —
 
@@ -238,11 +250,15 @@ ORDERS MADE BY COURTS IN RECIPROCATING COUNTRIES
 
 is received by the Minister from the responsible authority in a reciprocating country, and it appears to the Minister that the payer under the order is residing in Singapore, he shall send the copy of the order and documents which accompanied it to the prescribed officer of the appropriate court, and that court shall —
 
-(i) if the payer under the order establishes any such defence as he might have raised in the proceedings in which the order was made, refuse to confirm the order; and
+(i) if the payer under the order establishes any grounds on which he might have opposed the making of the order in the proceedings in which the order was made, refuse to confirm the order; and
+
+[Act 2 of 2012 wef 30/09/2014]
 
 (ii) in any other case, confirm the order either without alteration or with such alterations as it thinks reasonable.
 
-(3) In any proceedings for the confirmation under this section of a provisional order, the statement received from the court which made the order of the grounds on which the making of the order might have been opposed by the payer under the order shall be conclusive evidence that the payer might have raised a defence on any of those grounds in the proceedings in which the order was made.
+(3) In any proceedings for the confirmation under this section of a provisional order, the statement received from the court which made the order of the grounds on which the making of the order might have been opposed by the payer under the order shall be conclusive evidence that the payer might have opposed the making of the order on any of those grounds in the proceedings in which the order was made.
+
+[Act 2 of 2012 wef 30/09/2014]
 
 (4) For the purpose of determining whether a provisional order should be confirmed under this section, the court shall proceed as if an application for a maintenance order against the payer under the provisional order had been made to it.
 
@@ -254,7 +270,9 @@ is received by the Minister from the responsible authority in a reciprocating co
 
 8\.—(1) A registered order may be enforced in Singapore as if it has been made by the registering court and as if that court has had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken accordingly.
 
-(2) A registered order which has been registered or confirmed by a District Court shall be enforceable in the manner as if the order had been made under Part VII of the Women’s Charter [Cap. 353].
+(2) A registered order which has been registered or confirmed by a District Court shall be enforceable in the manner as if the order had been made under Part VIII of the Women’s Charter [Cap. 353].
+
+[Act 2 of 2012 wef 30/09/2014]
 
 (3) Any person for the time being under an obligation to make payments in pursuance of a registered order shall give notice of any change of address to the clerk of the registering court, and any person failing without reasonable excuse to give such a notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
@@ -292,9 +310,13 @@ is received by the Minister from the responsible authority in a reciprocating co
 
 (7) For the purpose of determining whether a provisional order should be confirmed under subsection (6), the court shall proceed as if an application for the variation of the registered order had been made to it.
 
-(8) Where a registered order has been varied by an order (including a provisional order which has been confirmed) made by a court in Singapore or by a competent court in a reciprocating country, the registered order shall, as from the date on which the order was made, have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
+(8) Where a registered order has been varied by an order (including a provisional order which has been confirmed) made by a court in Singapore or by a competent court in a reciprocating country, the registered order shall, as from the date on which under the provisions of the order the variation is to take effect, have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
 
-(9) Where a registered order has been revoked by an order made by a court in Singapore or by a competent court in a reciprocating country, including a provisional order made by the first-mentioned court which has been confirmed by a competent court in a reciprocating country, the registered order shall, as from the date on which the order was made, be deemed to have ceased to have effect except as respects any arrears due under the registered order at that date.
+[Act 2 of 2012 wef 30/09/2014]
+
+(9) Where a registered order has been revoked by an order made by a court in Singapore or by a competent court in a reciprocating country, including a provisional order made by the first-mentioned court which has been confirmed by a competent court in a reciprocating country, the registered order shall, as from the date on which under the provisions of the order the revocation is to take effect, be deemed to have ceased to have effect except as respects any arrears due under the registered order at that date.
+
+[Act 2 of 2012 wef 30/09/2014]
 
 (10) The prescribed officer of the registering court shall register in the prescribed manner any order varying a registered order other than a provisional order which is not confirmed.
 
@@ -314,7 +336,7 @@ the prescribed officer of the registering court shall cancel the registration; b
 
 ### Steps to be taken by the Minister where payer under certain orders is not residing in Singapore
 
-11\. If it appears to the Minister that the payer under a maintenance order, a certified copy of which has been received by him from a reciprocating country, is not residing in Singapore or, in the case of an order which subsequently became a registered order, has ceased to reside therein, he shall send to the responsible authority in that country —
+11\. If at any time it appears to the Minister that the payer under a maintenance order, a certified copy of which has been received by him from a reciprocating country, is not residing in Singapore or, in the case of an order which subsequently became a registered order, has ceased to reside therein, he shall send to the responsible authority in that country —
 
 (a) the certified copy of the order in question and a certified copy of any order varying that order;
 
@@ -323,6 +345,8 @@ the prescribed officer of the registering court shall cancel the registration; b
 (c) a statement giving such information as the Minister possesses as to the whereabouts of the payer; and
 
 (d) any other relevant documents in his possession relating to the case.
+
+[Act 2 of 2012 wef 30/09/2014]
 
 ## PART IV
 
@@ -446,3 +470,8 @@ This Legislative History is provided for the convenience of users of the Mainten
 ||Date of commencement|3 May 1976|
 |3.|**1985 Revised Edition—Maintenance Orders (Reciprocal Enforcement) Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|30 September 2014|
