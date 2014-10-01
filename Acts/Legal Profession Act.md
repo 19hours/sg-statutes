@@ -48,6 +48,20 @@
 
 - [17 Extension or abridgment of time](#Extension-or-abridgment-of-time)
 
+- [18 (Repealed)](#Repealed)
+
+- [19 (Repealed)](#Repealed)
+
+- [20 (Repealed)](#Repealed)
+
+- [21 (Repealed)](#Repealed)
+
+- [22 (Repealed)](#Repealed)
+
+- [23 (Repealed)](#Repealed)
+
+- [24 (Repealed)](#Repealed)
+
 [**Part III PRACTISING CERTIFICATES**](#Part-III)
 
 - [25 Practising certificates](#Practising-certificates)
@@ -454,9 +468,9 @@
 
 - [137 Jurisdiction of court](#Jurisdiction-of-court)
 
-[**FIRST SCHEDULE Intervention in Solicitor’s Practice**](#FIRST-SCHEDULE-Intervention-in-Solicitor’s-Practice)
+[**FIRST SCHEDULE Intervention in solicitor’s practice**](#FIRST-SCHEDULE-Intervention-in-solicitor’s-practice)
 
-[**SECOND SCHEDULE Inadequate Professional Services**](#SECOND-SCHEDULE-Inadequate-Professional-Services)
+[**SECOND SCHEDULE Inadequate professional services**](#SECOND-SCHEDULE-Inadequate-professional-services)
 
 [**Legislative History**](#Legislative-History)
 
@@ -498,6 +512,8 @@ PRELIMINARY
 
 “Board of Legal Education” means the Board of Legal Education established under section 3 in force immediately before the date of commencement of section 3(a) of the Legal Profession (Amendment) Act 2011;
 
+[8/2011 wef 03/05/2011]
+
 “client” includes —
 
 (a) in relation to contentious business, any person who, as a principal or on behalf of another person, retains or employs, or is about to retain or employ, a solicitor, and any person who is or may be liable to pay a solicitor’s, a law corporation’s or a limited liability law partnership’s costs; and
@@ -530,9 +546,13 @@ PRELIMINARY
 
 “foreign practitioner certificate” means a certificate issued by the Attorney-General in respect of the registration of a foreign lawyer under section 130I;
 
+[8/2011 wef 03/05/2011]
+
 “Inquiry Committee” means an Inquiry Committee constituted under section 85(10);
 
 “Institute” means the Singapore Institute of Legal Education established under section 3;
+
+[8/2011 wef 03/05/2011]
 
 “Joint Law Venture” means a Joint Law Venture licensed under section 130B;
 
@@ -546,6 +566,8 @@ PRELIMINARY
 
 “Legal Service Officer” means an officer in the Singapore Legal Service;
 
+[20/2009 wef 09/10/2009]
+
 “licensed foreign law practice” means a foreign law practice licensed under section 130E;
 
 “limited liability law partnership” means a limited liability partnership approved as a limited liability law partnership under section 81Q;
@@ -554,9 +576,15 @@ PRELIMINARY
 
 “practice trainee” means a qualified person who is serving his practice training period;
 
+[20/2009 wef 09/10/2009]
+
 “practice training contract” means a formal training arrangement between a qualified person and a Singapore law practice, pursuant to which the qualified person receives, and the Singapore law practice provides, supervised training in relation to the practice of Singapore law;
 
+[20/2009 wef 09/10/2009]
+
 “practice training period” means the period during which a qualified person is required to receive supervised training in relation to the practice of Singapore law before he can be admitted as an advocate and solicitor;
+
+[20/2009 wef 09/10/2009]
 
 “practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of an advocate and solicitor under Part IV;
 
@@ -570,6 +598,8 @@ PRELIMINARY
 
 (c) is approved by the Minister as a qualified person under section 15A(1) in force immediately before the date of commencement of section 3(e) of the Legal Profession (Amendment) Act 2011 or under section 14(1);
 
+[8/2011 wef 03/05/2011]
+
 “Qualifying Foreign Law Practice” means a foreign law practice licensed under section 130D;
 
 “register of practitioners” means the annual register kept by the Registrar under section 27;
@@ -582,6 +612,8 @@ PRELIMINARY
 
 (b) a legal officer of such statutory body or law office in the public service as the Minister may prescribe by rules published in theGazette;
 
+[20/2009 wef 09/10/2009]
+
 “Review Committee” means a Review Committee constituted under section 85(6);
 
 “roll” means the roll of advocates and solicitors of the Supreme Court kept under section 24;
@@ -589,6 +621,8 @@ PRELIMINARY
 “Rules Committee” means the Rules Committee constituted under any written law for the time being in force with the power to make rules regulating procedure in the Supreme Court;
 
 “Senate” means the Senate of the Academy established under section 5 of the Singapore Academy of Law Act;
+
+[8/2011 wef 03/05/2011]
 
 “Singapore law practice” means —
 
@@ -607,6 +641,8 @@ PRELIMINARY
 [11/79; 5/81; 17/84; 30/86; 15/89; 16/93; 41/93; 4/2000; 23/2004; 41/2005; 42/2005; 20/2007; 19/2008]
 
 (2) For the purposes of the definition of “qualified person” in subsection (1), the Minister may, after consulting the Board of Directors of the Institute, make rules to prescribe the qualifications, education and training for, and any other requirements that must be satisfied by, persons seeking to be qualified persons under this Act.
+
+[8/2011 wef 03/05/2011]
 
 (3) Without prejudice to the generality of subsection (2), rules made thereunder may —
 
@@ -668,6 +704,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (c) to do and perform such other acts as bodies corporate may by law perform.
 
+[8/2011 wef 03/05/2011]
+
 ### Functions and powers of Institute
 
 4\.—(1) The functions of the Institute shall be as follows:
@@ -718,6 +756,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (h) do all things that are necessary, incidental or conducive to carry into effect the functions of the Institute.
 
+[8/2011 wef 03/05/2011]
+
 ### Board of Directors of Institute
 
 5\.—(1) The management of the affairs of the Institute and its property shall be vested in a Board of Directors.
@@ -742,6 +782,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (6) The Institute shall give effect to every direction of the Senate under subsection (5).
 
+[8/2011 wef 03/05/2011]
+
 ### Appointment of Dean of Institute, officers and employees
 
 6\.—(1) The Board of Directors of the Institute shall, after consulting the President of the Academy, appoint a Dean of the Institute on such terms and conditions as the Board may determine.
@@ -753,6 +795,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 (b) shall not be removed from office without the consent of the President of the Academy.
 
 (3) The Institute may, from time to time, appoint and employ, on such terms and conditions as the Board of Directors of the Institute may determine, such other officers and employees as may be necessary for the effective performance of the Institute’s functions under this Act or any other written law.
+
+[8/2011 wef 03/05/2011]
 
 ### Appointment of committees and delegation
 
@@ -769,6 +813,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 (3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Institute.
 
 (4) No delegation under this section shall prevent the performance or exercise of any function or power by the Board of Directors of the Institute.
+
+[8/2011 wef 03/05/2011]
 
 ### Meetings of Board of Directors of Institute
 
@@ -788,6 +834,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (8) The validity of the proceedings of the Board of Directors of the Institute shall not be affected by any vacancy amongst its members or by any irregularity in the appointment of any member.
 
+[8/2011 wef 03/05/2011]
+
 ### Passing of resolution of Board of Directors of Institute by written means
 
 9\.—(1) Notwithstanding section 8, the Board of Directors of the Institute may pass any resolution of the Board by written means.
@@ -797,6 +845,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 (3) Any reference in this Act or any other law to a decision of the Board of Directors of the Institute includes a reference to a resolution of the Board passed by written means.
 
 (4) Any reference in this Act or any other law to the doing of anything by the Board of Directors of the Institute includes a reference to the passing of a resolution of the Board by written means which authorises the doing of that thing.
+
+[8/2011 wef 03/05/2011]
 
 ### Rules relating to legal education, continuing professional development and admission of advocates and solicitors
 
@@ -831,6 +881,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 (3) Disciplinary proceedings may be taken against any advocate and solicitor, or foreign lawyer registered by the Attorney-General under section 130I, who contravenes any rules made under this section.
 
 [Act 3 of 2012 wef 01/04/2012]
+
+[8/2011 wef 03/05/2011]
 
 ### Protection from personal liability
 
@@ -880,6 +932,8 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (15) In this section, “relevant date” means the date of commencement of section 4 of the Legal Profession (Amendment) Act 2011.
 
+[8/2011 wef 03/05/2011]
+
 ## PART IIA
 
 ADMISSION OF ADVOCATES AND SOLICITORS
@@ -890,7 +944,7 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 (2) Any qualified person who applies to be admitted under this section shall —
 
-(a) do so in accordance with, and comply with all applicable requirements of, any rules made under section10(2)(g); and
+(a) do so in accordance with, and comply with all applicable requirements of, any rules made under section 10(2)(g); and
 
 (b) if he belongs to such class of qualified persons as the Minister may prescribe under subsection (6), do so within such time as the Minister may prescribe under that subsection.
 
@@ -906,6 +960,8 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 (b) in respect of each such class of qualified persons, the time within which a qualified person belonging to that class shall make his application under subsection (2).
 
+[8/2011 wef 03/05/2011]
+
 ### Requirements for admission
 
 13\.—(1) Subject to any rules made under section 14, no qualified person shall be admitted as an advocate and solicitor unless he —
@@ -918,9 +974,11 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 (d) has attended and satisfactorily completed such courses of instruction as the Board of Directors of the Institute may prescribe under section 10; and
 
-(e) has passed such examinations as the Board of Directors of the Institute may prescribe under section10.
+(e) has passed such examinations as the Board of Directors of the Institute may prescribe under section 10.
 
 (2) No person who is a qualified person by reason of his having passed the final examination for a law degree in any institution of higher learning pursuant to any rules made under section 2(2) shall be admitted as an advocate and solicitor before the law degree is conferred upon him.
+
+[8/2011 wef 03/05/2011]
 
 ### Powers of Minister in relation to admission requirements
 
@@ -936,7 +994,7 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 (b) issue to that person a notice in writing to that effect.
 
-(3) Upon an application made to the Minister by any person who possesses any qualification that is recognised, by a foreign authority having the function conferred by-law of authorising or registering persons to practise law in a state or territory other than Singapore, as a qualification required for eligibility to practise law in that state or territory, the Minister may, after consulting the Board of Directors of the Institute and if the Minister is of the opinion that the person’s qualification is equivalent to any qualification prescribed under section 2(2) —
+(3) Upon an application made to the Minister by any person who possesses any qualification that is recognised, by a foreign authority having the function conferred by law of authorising or registering persons to practise law in a state or territory other than Singapore, as a qualification required for eligibility to practise law in that state or territory, the Minister may, after consulting the Board of Directors of the Institute and if the Minister is of the opinion that the person’s qualification is equivalent to any qualification prescribed under section 2(2) —
 
 (a) deem the person’s qualification to be a qualification that is so prescribed, subject to such conditions as the Minister may think fit to impose; and
 
@@ -967,6 +1025,8 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 (ii) any matter related or incidental to any such application; and
 
 (b) all other matters related thereto.
+
+[8/2011 wef 03/05/2011]
 
 ### Ad hoc admissions
 
@@ -1010,6 +1070,8 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 (10) In this section, “case” includes any interlocutory or appeal proceedings connected with a case.
 
+[8/2011 wef 03/05/2011]
+
 ### Roll of advocates and solicitors
 
 16\.—(1) The Registrar shall maintain a roll of advocates and solicitors with the dates of their respective admissions.
@@ -1022,11 +1084,27 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 (5) This section shall not apply to persons admitted under section 15.
 
+[8/2011 wef 03/05/2011]
+
 ### Extension or abridgment of time
 
 17\. Without prejudice to the generality of section 18(2) of, and item 7 of the First Schedule to, the Supreme Court of Judicature Act (Cap. 322), the court may, at any time and on such terms as it thinks just, by order extend or abridge the time prescribed for any thing under any rules made under section 10(2)(g).
 
-[Sections 18 to 24 repealed by Act 8 of 2011 wef 3 May 2011]
+[8/2011 wef 03/05/2011]
+
+18\. [Repealed by Act 8 of 2011 wef 03/05/2011]
+
+19\. [Repealed by Act 8 of 2011 wef 03/05/2011]
+
+20\. [Repealed by Act 8 of 2011 wef 03/05/2011]
+
+21\. [Repealed by Act 8 of 2011 wef 03/05/2011]
+
+22\. [Repealed by Act 8 of 2011 wef 03/05/2011]
+
+23\. [Repealed by Act 8 of 2011 wef 03/05/2011]
+
+24\. [Repealed by Act 8 of 2011 wef 03/05/2011]
 
 ## PART III
 
@@ -1050,7 +1128,11 @@ PRACTISING CERTIFICATES
 
 (v) that he is not disqualified under section 26(1) from applying for a practising certificate; and
 
+[8/2011 wef 03/05/2011]
+
 (vi) in a case where he is applying for a practising certificate to practise as a locum solicitor, that he is not disqualified under section 26(1A) from applying for such a practising certificate;
+
+[8/2011 wef 03/05/2011]
 
 (b) a certificate from the Council or such other evidence as the Registrar may require that —
 
@@ -1064,7 +1146,11 @@ PRACTISING CERTIFICATES
 
 (iv) if he has been ordered by the Council to pay any penalty under Part VII, he has paid the penalty; and
 
+[8/2011 wef 03/05/2011]
+
 (v) if he has been ordered by any court of law in Singapore or elsewhere to pay any sum to the Council or the Society, he has paid the sum;
+
+[8/2011 wef 03/05/2011]
 
 (c) a certificate from the Academy that he has paid all moneys, contributions and subscriptions payable by him under the Singapore Academy of Law Act (Cap. 294A) and any rules made thereunder;
 
@@ -1396,6 +1482,8 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 [40/96]
 
+[8/2011 wef 03/05/2011]
+
 (2) Any person may inspect the register of practitioners during office hours without payment.
 
 (3) If there is any change with respect to any solicitor in the particulars referred to in subsection (1) or with respect to the status of his practising certificate, including as to whether it has ceased to be in force under section 26(9), that solicitor shall within one week thereafter notify the Registrar and the Council, and the Registrar shall thereupon cause the entry in respect of that solicitor in the register of practitioners to be amended.
@@ -1508,7 +1596,9 @@ the suspension of the practising certificate of the solicitor shall terminate im
 
 (b) the accountant’s report submitted by the solicitor does not comply with section 73; or
 
-(c) the certificate has ceased to be in force under section 26(9)(a) or (b), but the solicitor has failed to notify the Registrar and the Council of this in accordance with section27(3).
+(c) the certificate has ceased to be in force under section 26(9)(a) or (b), but the solicitor has failed to notify the Registrar and the Council of this in accordance with section 27(3).
+
+[8/2011 wef 03/05/2011]
 
 (2) Such an application shall be served on the advocate and solicitor concerned and upon the hearing thereof the Judge may make such order as he may think fit and may also make such order for the payment of costs as may be just.
 
@@ -1533,6 +1623,8 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (c) the Director of Legal Aid and Assistant Directors of Legal Aid to appear and plead in those courts under the provisions of the Legal Aid and Advice Act (Cap. 160) or the International Child Abduction Act 2010.
 
 [19/2008]
+
+[27/2010 wef 01/03/2011]
 
 (3) Notwithstanding subsection (1), an advocate and solicitor who practises in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice shall not be entitled to practise Singapore law except in accordance with Part IXA and any rules made under section 130W.
 
@@ -1560,13 +1652,15 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (5) The appointment of a Senior Counsel shall be deemed to be revoked if the Senior Counsel —
 
-(a) [Deleted byAct 19 of 2008]
+(a) [Deleted by Act 19 of 2008]
 
 (b) being a Legal Service Officer, is dismissed from the Singapore Legal Service;
 
 [20/2009 wef 09/10/2009]
 
 (c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, is dismissed from the Faculty or School, as the case may be;
+
+[20/2009 wef 09/10/2009]
 
 (d) is convicted of an offence by a court of law in Singapore or elsewhere and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $2,000 and has not received a free pardon;
 
@@ -1632,11 +1726,19 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (3) A Judge may, if he thinks fit, on the application of any advocate and solicitor in active practice in a Singapore law practice, allow a qualified person who has served not less than 3 months of his practice training period, and who is serving his practice training period under a practice training contract with that Singapore law practice at the time the application is made, to appear, on behalf of that Singapore law practice, before —
 
-(a) a Judge or the Registrar; or
+(a) a Judge or the Registrar;
 
-(b) a District Judge, a Magistrate, or the Registrar or a Deputy Registrar of the State Courts.
+[Act 27 of 2014 wef 01/10/2014]
 
-[Act 5 of 2014 wef 07/03/2014]
+(b) a judge (however described) of a Family Court or Youth Court, or the registrar, the deputy registrar or an assistant registrar of the Family Justice Courts; or
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(c) a judge (however described) of a District Court or Magistrate’s Court, or the registrar or a deputy registrar of the State Courts.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+[8/2011 wef 03/05/2011]
 
 (4) A qualified person in respect of whom an application under subsection (3) has been granted shall be entitled to appear in accordance with that subsection at any time during the period —
 
@@ -1647,6 +1749,8 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (i) the time that qualified person is admitted as an advocate and solicitor of the Supreme Court; or
 
 (ii) the expiration of 3 months after the last day of that qualified person’s practice training period.
+
+[8/2011 wef 03/05/2011]
 
 ### Unauthorised person acting as advocate or solicitor
 
@@ -1720,13 +1824,19 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (c) the Director of Legal Aid and Assistant Directors of Legal Aid acting in the course of their duties under the provisions of the Legal Aid and Advice Act (Cap. 160) or the International Child Abduction Act 2010;
 
+[27/2010 wef 01/03/2010]
+
 (d) any other public officer drawing or preparing instruments in the course of his duty;
 
 (e) any person acting personally for himself only in any matter or proceeding to which he is a party;
 
 (ea) any officer of a company or limited liability partnership who is duly authorised by the company or limited liability partnership to act on its behalf in any relevant matter or proceeding to which it is a party, in respect only of that officer acting on behalf of the company or limited liability partnership, in accordance with the Rules of Court, in that matter or proceeding;
 
+[8/2011 wef 03/05/2011]
+
 (eb) any officer of an unincorporated association (other than a partnership) who is duly authorised by the unincorporated association to act on its behalf in any relevant matter or proceeding to which it is a party, in respect only of that officer acting on behalf of the unincorporated association, in accordance with the Rules of Court, in that matter or proceeding;
+
+[8/2011 wef 03/05/2011]
 
 (ec) any legal counsel (by whatever name called) in an entity acting solely for the entity in any matter to which it is a party, other than by —
 
@@ -1736,9 +1846,11 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (iii) attesting any document which is required to be attested by an advocate and solicitor;
 
+[8/2011 wef 03/05/2011]
+
 (f) any bona fide and full-time employee of an insurance company negotiating for the settlement of or settling a claim made or contemplated against any person or body corporate in cases where the claim, arising out of personal injury or death, relates to a risk insured by that insurance company;
 
-(g) [Deleted byAct 23 of 2004]
+(g) [Deleted by Act 23 of 2004]
 
 (h) any full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed by an advocate and solicitor;
 
@@ -1755,6 +1867,8 @@ shall, unless he proves that the act was not done for or in expectation of any f
 [35/2001; 23/2004]
 
 (2) The Minister may make rules for the exemption from section 33 of any person who, or any class of persons each of whom, satisfies such requirements, and does such act in such circumstances, as may be prescribed in those rules.
+
+[8/2011 wef 03/05/2011]
 
 (3) In this section —
 
@@ -1777,6 +1891,8 @@ shall, unless he proves that the act was not done for or in expectation of any f
 “relevant matter or proceeding” means a matter or proceeding of such type as may be specified in the Rules of Court;
 
 “Rules of Court” means Rules of Court made by the Rules Committee.
+
+[8/2011 wef 03/05/2011]
 
 ### Sections 32 and 33 not to extend to arbitration proceedings
 
@@ -1938,9 +2054,11 @@ Members of Society and subscriptions
 
 (b) granted the approval of the Attorney-General under section 130L(1),
 
+[Act 3 of 2012 wef 01/06/2012]
+
 shall, without election, admission or appointment, become a member of the Society and remain a member under this section so long and only so long as his registration or approval, as the case may be, continues in force.
 
-[Act 3 of 2012 wef 01/06/2012]
+[8/2011 wef 03/05/2011]
 
 (2) Every foreign lawyer who is a member of the Society under subsection (1) shall be referred to in this Act as a foreign practitioner member.
 
@@ -2056,7 +2174,9 @@ shall, without election, admission or appointment, become a member of the Societ
 
 (1B) The subscription shall be payable to the Society by a foreign practitioner member —
 
-(a) if he is registered under section 130I, in each year not later than14 days after the date of issue of his foreign practitioner certificate by the Attorney-General; or
+(a) if he is registered under section 130I, in each year not later than 14 days after the date of issue of his foreign practitioner certificate by the Attorney-General; or
+
+[8/2011 wef 03/05/2011]
 
 (b) if he has been granted an approval referred to in section 130L(1), but is not registered under section 130I —
 
@@ -2065,6 +2185,8 @@ shall, without election, admission or appointment, become a member of the Societ
 (ii) not later than the anniversary of that date of issue in each subsequent year.
 
 [Act 3 of 2012 wef 01/06/2012]
+
+[8/2011 wef 03/05/2011]
 
 (1C) [Deleted by Act 8/2011 wef 03/05/2011]
 
@@ -2656,6 +2778,8 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (b) a solicitor registered by the Attorney-General under section 130N, in respect of the solicitor’s practice of Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice.
 
+[8/2011 wef 03/05/2011]
+
 (3) The Minister may, after consulting the Attorney-General, make rules to prescribe the modifications to be made to the First Schedule for the purposes of subsection (2).
 
 [19/2008]
@@ -2674,17 +2798,21 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (a) registered by the Attorney-General under section 130I; or
 
+[8/2011 wef 03/05/2011]
+
 (b) granted the approval of the Attorney-General under section 130L(1),
+
+[Act 3 of 2012 wef 01/06/2012]
 
 shall, while his registration referred to in paragraph (a) or his approval referred to in paragraph (b) continues in force, pay to the Society an annual contribution of such sum (not exceeding the amount applicable to solicitors under subsection (2)) as the Council may from time to time determine and the Society shall pay that contribution to the Fund.
 
 [20/2007; 19/2008]
 
-[Act 3 of 2012 wef 01/06/2012]
-
 (3B) A foreign lawyer shall pay the contribution required under subsection (3A) —
 
-(a) if he is registered under section 130I, in each year not later than14 days after the date of issue of his foreign practitioner certificate by the Attorney-General; or
+(a) if he is registered under section 130I, in each year not later than 14 days after the date of issue of his foreign practitioner certificate by the Attorney-General; or
+
+[8/2011 wef 03/05/2011]
 
 (b) if he has been granted an approval referred to in section 130L(1), but is not registered under section 130I —
 
@@ -2693,6 +2821,8 @@ shall, while his registration referred to in paragraph (a) or his approval refer
 (ii) not later than the anniversary of that date of issue in each subsequent year.
 
 [Act 3 of 2012 wef 01/06/2012]
+
+[8/2011 wef 03/05/2011]
 
 (3C) [Deleted by Act 8/2011 wef 03/05/2011]
 
@@ -2852,6 +2982,8 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (b) are not of the quality which it is reasonable to expect of him.
 
+[8/2011 wef 03/05/2011]
+
 (3) The Minister may, after consulting the Attorney-General, make rules to prescribe the modifications to be made to the Second Schedule and any rules made under paragraph 11 of that Schedule for the purposes of subsections (2) and (2A).
 
 [8/2011 wef 03/05/2011]
@@ -2884,7 +3016,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [20/2007; 19/2008]
 
-(4A) [Deleted byAct 20 of 2007]
+(4A) [Deleted by Act 20 of 2007]
 
 (5) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
@@ -2911,6 +3043,8 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 [8/2011 wef 03/05/2011]
 
 (1A) Where any person who is both a solicitor and a foreign lawyer is qualified under any rules made under section 130W to take or use the title of consultant in relation to his capacity as a foreign lawyer, nothing in subsection (1) shall affect his qualification to use that title in relation to that capacity.
+
+[8/2011 wef 03/05/2011]
 
 (2) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
@@ -2954,9 +3088,11 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (d) convicted of an offence under section 33 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) or under any provision of this Act;
 
-(e) listed as a tout under section 62 of the State Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act (Cap. 322); or
+(e) listed as a tout under section 39 of the Family Justice Act 2014, section 62 of the State Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act (Cap. 322); or
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (f) a person in respect of whom an order under subsection (4) has been made.
 
@@ -3732,8 +3868,6 @@ DISCIPLINARY PROCEEDINGS
 
 (d) to suffer the punishment referred to in paragraph (b) in addition to the punishment referred to in paragraph (a) or (c).
 
-[8/2011 wef 03/05/2011]
-
 (2) Such due cause may be shown by proof that the foreign lawyer —
 
 (a) has been convicted of a criminal offence, implying a defect of character which makes him unfit for his profession;
@@ -3756,17 +3890,11 @@ DISCIPLINARY PROCEEDINGS
 
 (j) has been disbarred, struck off, suspended, ordered to pay a penalty, censured or reprimanded in his capacity as a legal practitioner by whatever name called in any other country.
 
-[8/2011 wef 03/05/2011]
-
 [Act 3 of 2012 wef 01/04/2012]
 
 (3) Sections 85 to 99 and 103 to 106 shall apply, with the necessary modifications, to a foreign lawyer registered by the Attorney-General under section 130I as they apply to an advocate and solicitor registered by the Attorney-General under section 130N, except that in lieu of an order that he be struck off the roll or suspended from practice for a period not exceeding 5 years, an order may be made for his registration under section 130I to be cancelled or suspended for such period as the court may think fit.
 
-[8/2011 wef 03/05/2011]
-
 (4) In any proceedings instituted under this section against a foreign lawyer registered by the Attorney-General under section 130I, the court may in addition to the facts of the case take into account the past conduct of the foreign lawyer in order to determine what order should be made.
-
-[8/2011 wef 03/05/2011]
 
 (5) In any proceedings instituted under this section against a foreign lawyer registered by the Attorney-General under section 130I consequent upon the foreign lawyer’s conviction for a criminal offence, an Inquiry Committee, a Disciplinary Tribunal and a court of 3 Judges of the Supreme Court referred to in section 98 shall accept the foreign lawyer’s conviction as final and conclusive.
 
@@ -4284,13 +4412,15 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (a) no application is made to set aside an order for the payment of a penalty under subsection (1) or section 94(3)(a) or if the order is affirmed or varied by the court under section 95(3)(a); or
 
+[8/2011 wef 03/05/2011]
+
 (b) an advocate and solicitor has been reprimanded by the Council under subsection (1) or section 94(3)(a),
+
+[8/2011 wef 03/05/2011]
 
 the Council shall, at the expense of the advocate and solicitor, publish in theGazettea notice of the order or of the reprimand, as the case may be.
 
 [41/93; 35/2001]
-
-[8/2011 wef 03/05/2011]
 
 (5) Any notice under subsection (4) shall contain the name of the advocate and solicitor, the nature of the misconduct committed by him and the penalty payable by him or the reprimand, as the case may be.
 
@@ -4570,11 +4700,11 @@ and may make an order for payment of costs by or to either the Society or the ap
 
 (b) that no sufficient cause for a formal investigation exists but that the advocate and solicitor concerned should be given a warning, reprimanded or ordered to pay a penalty,
 
+[8/2011 wef 03/05/2011]
+
 that person may, if he is dissatisfied with the determination of the Council, apply to a Judge under this section within 14 days of being notified of the determination.
 
 [41/93]
-
-[8/2011 wef 03/05/2011]
 
 (2) Such an application shall be made by originating summons and shall be accompanied by an affidavit or affidavits of the facts constituting the basis of the complaint and by a copy of the complaint originally made to the Society together with a copy of the Council’s reasons in writing supplied to the applicant under section 87(4).
 
@@ -4796,7 +4926,9 @@ and such order for the payment of costs as may be just.
 
 ### Costs
 
-103\.—(1) [Deleted byAct 19 of 2008]
+103\. 
+
+—(1) [Deleted by Act 19 of 2008]
 
 (2) [Deleted by Act 19 of 2008]
 
@@ -5081,17 +5213,19 @@ RECOVERY AND TAXATION OF COSTS
 
 116\.—(1) In this Part —
 
-“court” means the High Court, a Judge when sitting in open court or in chambers, a District Court or a Magistrate’s Court and includes the Registrar;
+“court” means the High Court, a Family Court, a District Court or a Magistrate’s Court, and includes the Registrar;
 
-“Registrar” means the Registrar of the Supreme Court or the Registrar of the State Courts, and includes —
+[Act 27 of 2014 wef 01/10/2014]
 
-(a) the Deputy Registrar of the Supreme Court;
+“Registrar” means the Registrar of the Supreme Court, the registrar of the Family Justice Courts or the registrar of the State Courts, and includes —
 
-(b) an Assistant Registrar of the Supreme Court; and
+(a) the Deputy Registrar or an Assistant Registrar of the Supreme Court;
 
-(c) a Deputy Registrar of the State Courts;
+(b) the deputy registrar or an assistant registrar of the Family Justice Courts; and
 
-[Act 5 of 2014 wef 07/03/2014]
+(c) a deputy registrar of the State Courts;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 “solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation or a limited liability law partnership.
 
@@ -5298,9 +5432,7 @@ FOREIGN LAW PRACTICES
 
 “permitted areas of legal practice” means all areas of legal practice other than any area of legal practice prescribed as an area to be excluded from the ambit of this definition;
 
-“relevant date” means 19th September 2008\**;
-
-\*Date of commencement of section 53 of the Legal Profession (Amendment) Act 2008 (Act 19 of 2008).
+“relevant date” means 19th September 2008;
 
 “representative office” means an office set up in Singapore by a foreign law practice to carry out only liaison or promotional work for the foreign law practice, without providing legal services in Singapore or conducting any other business activities.
 
@@ -5642,15 +5774,11 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 130I\.—(1) An application may be made for a foreign lawyer to be registered by the Attorney-General to practise Singapore law in a Joint Law Venture, Qualifying Foreign Law Practice, licensed foreign law practice or Singapore law practice, if the foreign lawyer possesses such qualifications and satisfies such requirements as may be prescribed.
 
-[8/2011 wef 03/05/2011]
-
 (2) The Attorney-General may approve an application under subsection (1), and register a foreign lawyer to practise Singapore law in a Joint Law Venture, Qualifying Foreign Law Practice, licensed foreign law practice or Singapore law practice, subject to —
 
 (a) such conditions as may be prescribed; and
 
 (b) such conditions as the Attorney-General may think fit to impose in any particular case.
-
-[8/2011 wef 03/05/2011]
 
 (3) A foreign lawyer who is registered by the Attorney-General to practise Singapore law in a Joint Law Venture, Qualifying Foreign Law Practice, licensed foreign law practice or Singapore law practice —
 
@@ -5662,19 +5790,13 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 (b) shall be entitled to such other privileges as may be prescribed.
 
-[8/2011 wef 03/05/2011]
-
 (4) The registration of a foreign lawyer under this section shall —
 
 (a) lapse on the occurrence of such events as may be prescribed; and
 
 (b) be suspended, for such period as the Attorney-General may think fit, on the occurrence of such events as may be prescribed.
 
-[8/2011 wef 03/05/2011]
-
 (5) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
-
-[8/2011 wef 03/05/2011]
 
 (6) With effect from the date of commencement of section 25 of the Legal Profession (Amendment) Act 2011, a foreign lawyer who, immediately before that date, was registered or deemed to be registered by the Attorney-General under this section, or the repealed section 130J, as in force immediately before that date shall be deemed to be registered under this section, subject to the conditions referred to in subsection (2)(a) and such conditions as the Attorney-General may think fit to impose in any particular case.
 
@@ -5736,8 +5858,6 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 
 [19/2008]
 
-[Act 3 of 2012 wef 01/06/2012]
-
 (4) With effect from the date of commencement of section 27 of the Legal Profession (Amendment) Act 2011 —
 
 (a) a foreign lawyer who, immediately before that date, was granted or deemed to be granted an approval under this section as in force immediately before that date shall be deemed to be granted an approval under this section and shall continue to comply with the conditions referred to in subsection (2)(a) and such conditions as the Attorney-General may think fit to impose in any particular case on the foreign lawyer; and
@@ -5797,8 +5917,6 @@ solicitor-client privilege exists between a Formal Law Alliance and its client i
 (3) Where any foreign lawyer, Singapore law practice or partner or director referred to in subsection (1) has contravened section 130L or any undertaking required under subsection (1), the Attorney-General may —
 
 (a) cancel the approval under section 130L(1) in respect of the foreign lawyer concerned; and
-
-[Act 3 of 2012 wef 01/06/2012]
 
 (b) issue directions to the foreign lawyer, Singapore law practice or partner or director concerned (as the case may be) to ensure compliance with section 130L.
 
@@ -6470,7 +6588,7 @@ FIRST SCHEDULE
 
 Section 74
 
-Intervention in Solicitor’s Practice
+Intervention in solicitor’s practice
 
 Part I
 
@@ -6624,7 +6742,7 @@ the powers conferred by Part II shall be exercisable in relation to the limited 
 
 (a) any reference to the solicitor or to his practice shall be construed as including a reference to the limited liability law partnership in relation to which the powers conferred by that Part are exercisable by virtue of paragraph 8A, 8B or 8C(1) or to its business (or former business) as a limited liability law partnership;
 
-(b) any reference to paragraph 1shall be construed as including a reference to paragraph 8A or 8C(1); and
+(b) any reference to paragraph 1 shall be construed as including a reference to paragraph 8A or 8C(1); and
 
 (c) any reference to paragraph 3 shall be construed as including a reference to paragraph 8B.
 
@@ -6736,7 +6854,7 @@ SECOND SCHEDULE
 
 Section 75B
 
-Inadequate Professional Services
+Inadequate professional services
 
 Circumstances in which Council’s powers may be exercised
 
@@ -6878,7 +6996,7 @@ Legal Profession Act
 
 (CHAPTER 161)
 
-This Legislative History is provided for the convenience of users of the Legal Profession Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Legal Profession Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -7128,6 +7246,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014 (item (16) of the Schedule)|
+|54.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014 (section 62)|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
