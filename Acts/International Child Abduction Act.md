@@ -96,7 +96,9 @@ PRELIMINARY
 
 “Convention” means the Convention on the Civil Aspects of International Child Abduction which was signed at The Hague on 25th October 1980;
 
-“Court” means the High Court or a Judge thereof;
+“Court” means the High Court or a Family Court;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 “Minister” means —
 
@@ -329,13 +331,9 @@ Article 5
 
 For the purposes of this Convention —
 
-(a)
+(a) “rights of custody” shall include rights relating to the care of the person of the child and, in particular, the right to determine the child’s place of residence;
 
-“rights of custody” shall include rights relating to the care of the person of the child and, in particular, the right to determine the child’s place of residence;
-
-(b)
-
-“rights of access” shall include the right to take a child for a limited period of time to a place other than the child’s habitual residence.
+(b) “rights of access” shall include the right to take a child for a limited period of time to a place other than the child’s habitual residence.
 
 ... ... ...
 
@@ -373,7 +371,7 @@ Chapter III
 
 —
 
-― Return of Children
+Return of Children
 
 Article 8
 
@@ -457,7 +455,7 @@ Chapter IV
 
 —
 
-― Rights of Access
+Rights of Access
 
 Article 21
 
@@ -471,7 +469,7 @@ Chapter V
 
 —
 
-― General Provisions
+General Provisions
 
 Article 22
 
@@ -525,7 +523,7 @@ Article 32
 
 In relation to a State which in matters of custody of children has two or more systems of law applicable to different categories of persons, any reference to the law of that State shall be construed as referring to the legal system specified by the law of that State.
 
-... ... ...
+… … …
 
 ## LEGISLATIVE HISTORY
 
@@ -544,3 +542,9 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of commencement|1 March 2011|
 |2.|**2011 Revised Edition—International Child Abduction Act (Chapter 143C)**|
 ||Date of operation|31 December 2011|
+|3.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
