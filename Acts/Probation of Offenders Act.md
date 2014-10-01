@@ -276,7 +276,9 @@ Provided that a magistrate shall not issue such a warrant except on information 
 
 (b) if the order was made by a District Court, a District Judge; and
 
-(c) if the order was made by a Magistrate’s Court or Juvenile Court, a magistrate.
+(c) if the order was made by a Magistrate’s Court or Youth Court, a magistrate.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) A summons or warrant issued under this section shall direct the person so convicted to appear or be brought before the court by which the probation order was made.
 
@@ -406,3 +408,9 @@ This Legislative History is provided for the convenience of users of the Probati
 |||(Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
+|14.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
