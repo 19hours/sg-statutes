@@ -1064,7 +1064,9 @@ PRELIMINARY
 
 [Act 3 of 2013 wef 13/03/2013]
 
-“court” means the Court of Appeal, the High Court, a District Court or a Magistrate’s Court, as the case may be, which exercises criminal jurisdiction;
+“court” means the Court of Appeal, the High Court, a Family Court, a Youth Court, a District Court or a Magistrate’s Court, as the case may be, which exercises criminal jurisdiction;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 “criminal record” means the record of any —
 
@@ -5614,11 +5616,13 @@ the court may impose a sentence of reformative training in lieu of any other sen
 
 [3/2011]
 
-(2) Where a young person has been ordered by a Juvenile Court under the Children and Young Persons Act to be brought before a District Court, then the court must inquire into the circumstances of the case and may —
+(2) Where a young person has been ordered by a Youth Court under the Children and Young Persons Act to be brought before a District Court, then the court must inquire into the circumstances of the case and may —
 
 (a) if satisfied that to reform him he should undergo a period of training in a reformative training centre, sentence him to reformative training instead of any other sentence; or
 
-(b) in any case, deal with him in the manner that the Juvenile Court might have dealt with him.
+(b) in any case, deal with him in the manner that the Youth Court might have dealt with him.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) Before imposing any sentence of reformative training, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for the sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
 
@@ -17262,3 +17266,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
+|14.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
