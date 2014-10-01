@@ -72,11 +72,9 @@ An Act relating to the guardianship of infants.
 
 ### Interpretation
 
-2\. In this Act, unless there is anything repugnant in the context —
+2\. In this Act, unless the context otherwise requires, “court” means the High Court or a Family Court.
 
-“court” means the High Court or a judge when sitting in open court;
-
-“judge” means a judge sitting in chambers.
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Welfare of infant to be paramount consideration
 
@@ -130,11 +128,15 @@ An Act relating to the guardianship of infants.
 
 ### Removal of guardian
 
-10\. The court or a judge may remove from his guardianship any guardian, and may appoint another guardian in his place.
+10\. The court may remove from his guardianship any guardian, and may appoint another guardian in his place.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Matters to be considered
 
-11\. The court or a judge, in exercising the powers conferred by this Act, shall have regard primarily to the welfare of the infant, and shall, where the infant has a parent or parents, consider the wishes of such parent or both of them, as the case may be.
+11\. The court, in exercising the powers conferred by this Act, shall have regard primarily to the welfare of the infant, and shall, where the infant has a parent or parents, consider the wishes of such parent or both of them, as the case may be.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Court to have regard to advice of welfare officers, etc.
 
@@ -148,59 +150,89 @@ An Act relating to the guardianship of infants.
 
 ### Production of infant
 
-13\. A judge may, for the purpose of any application under this Act, direct that any person appearing to have the custody of an infant shall produce the infant in the judge’s chambers or at such other place as he may appoint, and he may make such order for the temporary custody and protection of the infant as he thinks fit.
+13\. The court may, for the purpose of any application under this Act —
+
+(a) direct any person appearing to have the custody of an infant to produce the infant before the court or at such other place as the court may appoint; and
+
+(b) make such order for the temporary custody and protection of the infant as the court thinks fit.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Placing infant in custody of guardian
 
-14\. Where an infant leaves, or is removed from, the custody of his lawful guardian, the court or a judge may order that he be returned to such custody, and for the purposes of enforcing such order, may direct the Sheriff to seize the person of the infant and deliver him into the custody of his lawful guardian.
+14\. Where an infant leaves, or is removed from, the custody of his lawful guardian, the court may order that he be returned to such custody, and for the purposes of enforcing such order, may direct the bailiff to seize the person of the infant and deliver him into the custody of his lawful guardian.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Security to be given
 
-15\.—(1) Where a person appointed by the court is the guardian of an infant’s property, he shall unless the judge otherwise orders, give security in such sum as may be appointed for the due performance of his duties as such guardian.
+15\.—(1) Where a person appointed by the court is the guardian of an infant’s property, he shall unless the court otherwise orders, give security in such sum as may be appointed for the due performance of his duties as such guardian.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Such security shall be given in the manner prescribed for the time being in the case of receivers appointed by the court; and the guardian so appointed shall pass his accounts at such periods as may be ordered, and shall pay any balance certified to be due from him into court in the manner prescribed in the case of receivers.
 
 ### Limitation of guardian’s powers
 
-16\.—(1) A guardian of the property of an infant shall not, without the leave of the court or a judge —
+16\.—(1) A guardian of the property of an infant shall not, without the leave of the court —
 
 (a) sell, mortgage, exchange, or otherwise part with the possession of any of the movable or immovable property of the infant; or
 
 (b) lease any land belonging to the infant for a term exceeding one year.
 
-(2) Any disposal of an infant’s property in contravention of this section may be declared void, and on such declaration the judge may make such order as appears requisite for restoring to the infant’s estate the property so disposed of.
+(2) Any disposal of an infant’s property in contravention of this section may be declared void, and on such declaration the court may make such order as appears requisite for restoring to the infant’s estate the property so disposed of.
 
-(3) The court or a judge shall not make any order under subsection (1) unless it is necessary or advisable in the interests of the infant.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) The court shall not make any order under subsection (1) unless it is necessary or advisable in the interests of the infant.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Guardian may not give discharge for capital property
 
-17\. A guardian of the property of an infant shall not, unless in any case the court or a judge otherwise orders, be empowered to give a good discharge for any legacy or other capital moneys payable to or receivable by an infant.
+17\. A guardian of the property of an infant shall not, unless in any case the court otherwise orders, be empowered to give a good discharge for any legacy or other capital moneys payable to or receivable by an infant.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Guardian may support infant out of income
 
-18\.—(1) A guardian of the property of an infant may make reasonable provision out of the income of such property for his maintenance and education, having regard to his station in life; but no sum exceeding $100 per month may be so applied without the leave of the court or a judge.
+18\.—(1) A guardian of the property of an infant may make reasonable provision out of the income of such property for his maintenance and education, having regard to his station in life; but no sum exceeding $100 per month may be so applied without the leave of the court.
 
-(2) Where the income of the infant’s property in the hands of the guardian is insufficient for such purpose, or money is required for the infant’s advancement, a judge may order that provision for such purpose be made out of the capital of the infant’s property, and for such purpose may authorise the sale or mortgage of any part of the infant’s property, and give such directions in regard thereto as may be necessary in the interests of the infant.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) Where the income of the infant’s property in the hands of the guardian is insufficient for such purpose, or money is required for the infant’s advancement, the court may order that provision for such purpose be made out of the capital of the infant’s property, and for such purpose may authorise the sale or mortgage of any part of the infant’s property, and give such directions in regard thereto as may be necessary in the interests of the infant.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Special order in case of small estate
 
-19\.—(1) If it appears that, having regard to the station in life of an infant and to the value of his property and to all the circumstances of the case, it would be expedient that the capital property of the infant should be made available for his maintenance, education or advancement in such manner as to avoid the expense of applications to the court, a judge may, instead of appointing a guardian of the property of the infant order that all the property of the infant of whatsoever description shall be placed in the hands of a person to be appointed by the judge, with full power to deal with and apply the same for the purpose aforesaid in his sole and uncontrolled discretion; and in such case the receipt of the person so appointed shall be a good discharge to any person making any payment or transfer of any property to him on behalf of the infant.
+19\.—(1) If it appears that, having regard to the station in life of an infant and to the value of his property and to all the circumstances of the case, it would be expedient that the capital property of the infant should be made available for his maintenance, education or advancement in such manner as to avoid the expense of applications to the court, the court may, instead of appointing a guardian of the property of the infant order that all the property of the infant of whatsoever description shall be placed in the hands of a person to be appointed by the court, with full power to deal with and apply the same for the purpose aforesaid in his sole and uncontrolled discretion; and in such case the receipt of the person so appointed shall be a good discharge to any person making any payment or transfer of any property to him on behalf of the infant.
 
-(2) Any person so appointed may be ordered by the court or a judge to render an account of his dealings with the infant’s estate.
+[Act 27 of 2014 wef 01/10/2014]
 
-(3) The court or a judge may for any sufficient reason discharge any order, or revoke any appointment, made under subsection (1), and may appoint another person with the same power or such greater or less power as may appear advisable, or may appoint a guardian of the infant’s property.
+(2) Any person so appointed may be ordered by the court to render an account of his dealings with the infant’s estate.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) The court may for any sufficient reason discharge any order, or revoke any appointment, made under subsection (1), and may appoint another person with the same power or such greater or less power as may appear advisable, or may appoint a guardian of the infant’s property.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Application for opinion, etc.
 
-20\. Any guardian may apply to a judge for his opinion, advice or direction on any question respecting the management or administration of the infant’s property.
+20\. Any guardian may apply to the court for the court’s opinion, advice or direction on any question respecting the management or administration of the infant’s property.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Exception for money paid into a District Court
 
-21\. Nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Rules of Court, unless in any case the High Court or a judge of the High Court otherwise orders.
+21\. Unless the court otherwise orders, nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Rules of Court.
 
 [Act 16/93 wef 01/07/1993]
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ## LEGISLATIVE HISTORY
 
@@ -242,3 +274,9 @@ This Legislative History is provided for the convenience of users of the Guardia
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|9.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
