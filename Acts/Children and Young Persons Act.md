@@ -78,7 +78,7 @@
 
 - [27A Restriction on publication of information leading to identification of child or young person who is subject of investigation, etc.](#Restriction-on-publication-of-information-leading-to-identification-of-child-or-young-person-who-is-subject-of-investigation-etc)
 
-[**Part III JUVENILE COURT**](#Part-III)
+[**Part III YOUTH COURT**](#Part-III)
 
 - [28 General consideration](#General-consideration)
 
@@ -88,9 +88,9 @@
 
 - [31 Attendance at court of parent or guardian of child or young person charged with an offence, etc.](#Attendance-at-court-of-parent-or-guardian-of-child-or-young-person-charged-with-an-offence-etc)
 
-- [32 Constitution of Juvenile Court](#Constitution-of-Juvenile-Court)
+- [32 Constitution of Youth Court](#Constitution-of-Youth-Court)
 
-- [33 Jurisdiction of Juvenile Court](#Jurisdiction-of-Juvenile-Court)
+- [33 Jurisdiction of Youth Court](#Jurisdiction-of-Youth-Court)
 
 - [34 Place of sitting and persons who may be present](#Place-of-sitting-and-persons-who-may-be-present)
 
@@ -104,19 +104,19 @@
 
 - [39 Power to order parent or guardian to pay fine, etc., instead of child or young person](#Power-to-order-parent-or-guardian-to-pay-fine-etc-instead-of-child-or-young-person)
 
-- [40 Power of other courts to remit juvenile offenders to Juvenile Court](#Power-of-other-courts-to-remit-juvenile-offenders-to-Juvenile-Court)
+- [40 Power of other courts to remit juvenile offenders to Youth Court](#Power-of-other-courts-to-remit-juvenile-offenders-to-Youth-Court)
 
 - [41 Words "conviction" and "sentence" not to be used](#Words-"conviction"-and-"sentence"-not-to-be-used)
 
-- [42 Procedure in Juvenile Court](#Procedure-in-Juvenile-Court)
+- [42 Procedure in Youth Court](#Procedure-in-Youth-Court)
 
 - [43 Presumption as to age](#Presumption-as-to-age)
 
-- [44 Powers of Juvenile Court on proof of offence](#Powers-of-Juvenile-Court-on-proof-of-offence)
+- [44 Powers of Youth Court on proof of offence](#Powers-of-Youth-Court-on-proof-of-offence)
 
 - [45 Power to convene juvenile case conference to deal with child or young person guilty of offence](#Power-to-convene-juvenile-case-conference-to-deal-with-child-or-young-person-guilty-of-offence)
 
-- [46 Additional orders which may be made by Juvenile Court in relation to child or young person found guilty of offence](#Additional-orders-which-may-be-made-by-Juvenile-Court-in-relation-to-child-or-young-person-found-guilty-of-offence)
+- [46 Additional orders which may be made by Youth Court in relation to child or young person found guilty of offence](#Additional-orders-which-may-be-made-by-Youth-Court-in-relation-to-child-or-young-person-found-guilty-of-offence)
 
 - [47 Maximum age limit for detention in place of detention, juvenile rehabilitation centre or place of safety](#Maximum-age-limit-for-detention-in-place-of-detention-juvenile-rehabilitation-centre-or-place-of-safety)
 
@@ -130,15 +130,15 @@
 
 - [48C Service of summons](#Service-of-summons)
 
-- [49 Powers of Juvenile Court in respect of children and young persons in need of care or protection](#Powers-of-Juvenile-Court-in-respect-of-children-and-young-persons-in-need-of-care-or-protection)
+- [49 Powers of Youth Court in respect of children and young persons in need of care or protection](#Powers-of-Youth-Court-in-respect-of-children-and-young-persons-in-need-of-care-or-protection)
 
 [**Children and Young Persons beyond Parental Control**](#Children-and-Young-Persons-beyond-Parental-Control)
 
-- [50 Power of parent or guardian to bring child or young person before Juvenile Court](#Power-of-parent-or-guardian-to-bring-child-or-young-person-before-Juvenile-Court)
+- [50 Power of parent or guardian to bring child or young person before Youth Court](#Power-of-parent-or-guardian-to-bring-child-or-young-person-before-Youth-Court)
 
-[**Additional powers of Juvenile Court**](#Additional-powers-of-Juvenile-Court)
+[**Additional powers of Youth Court**](#Additional-powers-of-Youth-Court)
 
-- [51 Additional orders which may be made by Juvenile Court in relation to child or young person in need of care and protection or beyond parental control](#Additional-orders-which-may-be-made-by-Juvenile-Court-in-relation-to-child-or-young-person-in-need-of-care-and-protection-or-beyond-parental-control)
+- [51 Additional orders which may be made by Youth Court in relation to child or young person in need of care and protection or beyond parental control](#Additional-orders-which-may-be-made-by-Youth-Court-in-relation-to-child-or-young-person-in-need-of-care-and-protection-or-beyond-parental-control)
 
 - [52 Failure to comply with requirements of supervision order](#Failure-to-comply-with-requirements-of-supervision-order)
 
@@ -254,7 +254,7 @@
 
 [**Part IX MISCELLANEOUS**](#Part-IX)
 
-- [85 Powers of Juvenile Court conferred on other courts](#Powers-of-Juvenile-Court-conferred-on-other-courts)
+- [85 Powers of Youth Court conferred on other courts](#Powers-of-Youth-Court-conferred-on-other-courts)
 
 - [86 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -626,7 +626,9 @@ the protector may exercise the powers conferred under subsection (1A).
 
 (b) produce the child or young person before a registered medical practitioner, a psychologist or an approved welfare officer for an assessment or for any medical or other treatment as may be necessary,
 
-following which the Director, protector or police officer may, if he thinks necessary, remove the child or young person and commit the child or young person to a place of temporary care and protection or to the care of a fit person until the child or young person can be brought before a Juvenile Court to be dealt with under section 49.
+following which the Director, protector or police officer may, if he thinks necessary, remove the child or young person and commit the child or young person to a place of temporary care and protection or to the care of a fit person until the child or young person can be brought before a Youth Court to be dealt with under section 49.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) For the purposes of this section and sections 9 and 9A, a reference to a police officer is a reference to a police officer not below the rank of sergeant.
 
@@ -636,27 +638,35 @@ following which the Director, protector or police officer may, if he thinks nece
 
 9\.—(1) Where the Director, a protector or a police officer is satisfied on reasonable grounds that a child or young person is in need of care or protection, the Director, protector or police officer may without warrant and with such assistance and by such force as is necessary, by day or by night enter any place in which the child or young person is to be found and —
 
-(a) remove the child or young person and commit him to a place of temporary care and protection or to the care of a fit person until the child or young person can be brought before a Juvenile Court to be dealt with under section 49; or
+(a) remove the child or young person and commit him to a place of temporary care and protection or to the care of a fit person until the child or young person can be brought before a Youth Court to be dealt with under section 49; or
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (b) remove the child or young person and, before committing him to a place of temporary care and protection or to the care of a fit person under paragraph (a), present the child or young person before a registered medical practitioner, a psychologist or an approved welfare officer for an assessment or for any medical or other treatment as may be necessary.
 
 [3/2011 wef 20/07/2011]
 
-(2) Subject to subsection (3), every child or young person who is removed by the Director, a protector or a police officer under section 8A or this section shall, unless he is sooner returned to the custody of his parent or guardian, be brought before a Juvenile Court within 3 working days from the date of his being so removed in order that he may be dealt with under section 49.
+(2) Subject to subsection (3), every child or young person who is removed by the Director, a protector or a police officer under section 8A or this section shall, unless he is sooner returned to the custody of his parent or guardian, be brought before a Youth Court within 3 working days from the date of his being so removed in order that he may be dealt with under section 49.
 
 [3/2011 wef 20/07/2011]
 
-(3) If for any reason it is not possible for the child or young person to be brought before a Juvenile Court within the time specified in subsection (2) —
+[Act 27 of 2014 wef 01/10/2014]
 
-(a) the Director, protector or police officer (as the case may be) who removed the child or young person under subsection (1) shall, within 3 working days from the date of the removal of the child or young person, inform the Juvenile Court of the removal and the reason for which it is not possible to comply with subsection (2); and
+(3) If for any reason it is not possible for the child or young person to be brought before a Youth Court within the time specified in subsection (2) —
 
-(b) the Juvenile Court may make such order as the circumstances may admit and require in relation to the custody, charge and care of the child or young person until such time as the child or young person may be brought before the Juvenile Court.
+(a) the Director, protector or police officer (as the case may be) who removed the child or young person under subsection (1) shall, within 3 working days from the date of the removal of the child or young person, inform the Youth Court of the removal and the reason for which it is not possible to comply with subsection (2); and
+
+(b) the Youth Court may make such order as the circumstances may admit and require in relation to the custody, charge and care of the child or young person until such time as the child or young person may be brought before the Youth Court.
 
 [3/2011 wef 20/07/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (4) Where the Director or a protector is of the view that any contact or access between the child or young person removed under subsection (1) and any other person is not in the best interests of the child or young person, the Director or protector may order that —
 
-(a) the other person concerned shall not make any contact or have access to the child or young person during the period before the child or young person is brought before the Juvenile Court under subsection (2); or
+(a) the other person concerned shall not make any contact or have access to the child or young person during the period before the child or young person is brought before the Youth Court under subsection (2); or
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (b) the other person concerned may only have contact or access to the child or young person subject to such conditions as the Director or protector may impose.
 
@@ -690,11 +700,13 @@ following which the Director, protector or police officer may, if he thinks nece
 
 ### Warrant to search for or remove child or young person
 
-10\.—(1) If a Magistrate’s Court, upon receiving any information or complaint, has reason to believe that a relevant offence has been or is being committed in respect of a child or young person, the Court may issue a warrant authorising any police officer named therein to search for the child or young person, if necessary, and remove the child or young person and commit him to a place of temporary care and protection until he can be brought before a Juvenile Court to be dealt with under section 49.
+10\.—(1) If a Magistrate’s Court, upon receiving any information or complaint, has reason to believe that a relevant offence has been or is being committed in respect of a child or young person, the Court may issue a warrant authorising any police officer named therein to search for the child or young person, if necessary, and remove the child or young person and commit him to a place of temporary care and protection until he can be brought before a Youth Court to be dealt with under section 49.
 
 [3/2011 wef 20/07/2011]
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) A warrant issued by a Magistrate’s Court under this section may authorise the police officer named therein, before committing the child or young person concerned to a place of temporary care and protection, to present the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may appear to be necessary.
 
@@ -976,7 +988,7 @@ shall jointly be guilty of an offence and shall be liable on conviction to a fin
 
 ## PART III
 
-JUVENILE COURT
+YOUTH COURT
 
 ### General consideration
 
@@ -992,15 +1004,19 @@ JUVENILE COURT
 
 ### Bail of children and young persons arrested
 
-30\.—(1) Where a person apparently below the age of 16 years is arrested with or without warrant and he is not released, he shall be brought before a Juvenile Court.
+30\.—(1) Where a person apparently below the age of 16 years is arrested with or without warrant and he is not released, he shall be brought before a Youth Court.
 
 [3/2011 wef 20/07/2011]
 
-(2) Where the person cannot be brought immediately before a Juvenile Court as required under subsection (1), the police officer or other officer from a law enforcement agency making the arrest shall, without unnecessary delay, take or send the person arrested before a Magistrate.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) Where the person cannot be brought immediately before a Youth Court as required under subsection (1), the police officer or other officer from a law enforcement agency making the arrest shall, without unnecessary delay, take or send the person arrested before a Magistrate.
 
 [3/2011 wef 20/07/2011]
 
-(3) The Juvenile Court or Magistrate, as the case may be, before whom a person is brought under subsection (1) or (2) shall inquire into the case and shall determine whether —
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) The Youth Court or Magistrate, as the case may be, before whom a person is brought under subsection (1) or (2) shall inquire into the case and shall determine whether —
 
 (a) the charge is one of an offence triable only by the High Court;
 
@@ -1020,9 +1036,13 @@ JUVENILE COURT
 
 [3/2011 wef 20/07/2011]
 
-(4) If none of the circumstances referred to in subsection (3) exist, the Juvenile Court or Magistrate shall release the person on a bond, with or without sureties, for such amount as will, in the opinion of the Juvenile Court or Magistrate, secure the attendance of the person upon the hearing of the charge.
+[Act 27 of 2014 wef 01/10/2014]
+
+(4) If none of the circumstances referred to in subsection (3) exist, the Youth Court or Magistrate shall release the person on a bond, with or without sureties, for such amount as will, in the opinion of the Youth Court or Magistrate, secure the attendance of the person upon the hearing of the charge.
 
 [3/2011 wef 20/07/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (5) The bond shall be entered into by the parent or guardian of the person or any other person responsible for the care and control of the person.
 
@@ -1042,55 +1062,79 @@ JUVENILE COURT
 
 [20/2001]
 
-### Constitution of Juvenile Court
+### Constitution of Youth Court
 
-32\.—(1) A Juvenile Court shall be presided over by a Magistrate nominated by the President.
+32\. 
 
-(2) If at any time, by reason of illness or other emergency, the Magistrate nominated under subsection (1) is not available, any Magistrate, although not so nominated, may preside over a Juvenile Court.
+—(1) [Deleted by Act 27 of 2014 wef 01/10/2014]
 
-(3) The presiding Magistrate, when determining the method of dealing with a child or young person in respect of whom a written report is obtained by the Juvenile Court regarding his background, family history, school record or such other matters, shall sit with 2 advisers from a panel of advisers nominated by the President except that where it appears that the Court cannot without adjournment be fully constituted and that an adjournment would be inexpedient in the interests of justice, he may sit with one adviser or he may sit alone.
+(2) [Deleted by Act 27 of 2014 wef 01/10/2014]
 
-(3A) The functions of the panel of advisers referred to in subsection (3) shall be to inform and advise the Juvenile Court with respect to —
+(3) A judge of a Youth Court, when determining the method of dealing with a child or young person in respect of whom a written report is obtained by the Youth Court regarding his background, family history, school record or such other matters, shall sit with 2 advisers from a panel of advisers nominated by the President except that where it appears that the Court cannot without adjournment be fully constituted and that an adjournment would be inexpedient in the interests of justice, he may sit with one adviser or he may sit alone.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(3A) The functions of the panel of advisers referred to in subsection (3) shall be to inform and advise the Youth Court with respect to —
 
 (a) any matter or consideration which may affect the treatment of any child or young person; or
 
-(b) any order that may be made in respect of any child or young person brought before the Juvenile Court.
+(b) any order that may be made in respect of any child or young person brought before the Youth Court.
 
 [3/2011 wef 20/07/2011]
 
-(4) Except as modified or extended by this Act, the provisions of the Criminal Procedure Code (Cap. 68) shall apply to a Juvenile Court as if that Court were a Magistrate’s Court.
+[Act 27 of 2014 wef 01/10/2014]
 
-### Jurisdiction of Juvenile Court
+(4) Except as modified or extended by this Act, the provisions of the Criminal Procedure Code (Cap. 68) shall apply to a Youth Court as if that Court were a District Court.
 
-33\.—(1) Subject to the provisions of this section, no child or young person shall be charged with or tried for any offence by a court of summary jurisdiction except a Juvenile Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+### Jurisdiction of Youth Court
+
+33\.—(1) Subject to the provisions of this section, no child or young person shall be charged with or tried for any offence by a court of summary jurisdiction except a Youth Court.
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Where a child or young person is charged with any offence triable only by the High Court, he shall be tried by the High Court unless —
 
-(a) the Public Prosecutor applies to the Juvenile Court to try such offence; and
+(a) the Public Prosecutor applies to the Youth Court to try such offence; and
 
-(b) the legal representative of the child or young person concerned consents to the offence being tried by the Juvenile Court.
+[Act 27 of 2014 wef 01/10/2014]
 
-[20/2001]
-
-(3) Where a charge is made jointly against a child or young person and a person who has attained the age of 16 years, the charge shall be heard by a court of appropriate jurisdiction other than a Juvenile Court.
+(b) the legal representative of the child or young person concerned consents to the offence being tried by the Youth Court.
 
 [20/2001]
 
-(4) Where, in the course of any proceedings before any court of appropriate jurisdiction other than a Juvenile Court, it appears that the person to whom the proceedings relate is a child or young person, the court may, notwithstanding subsection (1), proceed with the hearing and determination of the proceedings if it thinks fit.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Where a charge is made jointly against a child or young person and a person who has attained the age of 16 years, the charge shall be heard by a court of appropriate jurisdiction other than a Youth Court.
 
 [20/2001]
 
-(5) A Juvenile Court shall have jurisdiction to try all offences which, but for subsections (1) and (2), would be triable only by a Magistrate’s Court, a District Court or the High Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+(4) Where, in the course of any proceedings before any court of appropriate jurisdiction other than a Youth Court, it appears that the person to whom the proceedings relate is a child or young person, the court may, notwithstanding subsection (1), proceed with the hearing and determination of the proceedings if it thinks fit.
 
 [20/2001]
 
-(6) A person who has attained the age of 16 years on the date of commencement of the hearing of the charge shall not be tried for any offence by a Juvenile Court.
+[Act 27 of 2014 wef 01/10/2014]
 
-(7) Where in the course of any trial before a Juvenile Court the child or young person to whom the trial relates attains the age of 16 years, nothing in subsection (6) shall prevent the Juvenile Court, if it thinks fit, from proceeding with the trial and dealing with the child or young person in accordance with the provisions of this Act.
+(5) A Youth Court shall have jurisdiction to try all offences which, but for subsections (1) and (2), would be triable only by a Magistrate’s Court, a District Court or the High Court.
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(6) A person who has attained the age of 16 years on the date of commencement of the hearing of the charge shall not be tried for any offence by a Youth Court.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(7) Where in the course of any trial before a Youth Court the child or young person to whom the trial relates attains the age of 16 years, nothing in subsection (6) shall prevent the Youth Court, if it thinks fit, from proceeding with the trial and dealing with the child or young person in accordance with the provisions of this Act.
+
+[20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (8) In this section, “legal representative”, in relation to a child or young person who is charged with an offence, includes any person assisting the child or young person in his defence to the charge.
 
@@ -1098,9 +1142,11 @@ JUVENILE COURT
 
 ### Place of sitting and persons who may be present
 
-34\.—(1) A Juvenile Court shall sit as often as may be necessary for the purpose of exercising any jurisdiction conferred on it by this or any other Act.
+34\.—(1) A Youth Court shall sit as often as may be necessary for the purpose of exercising any jurisdiction conferred on it by this or any other Act.
 
-(2) A Juvenile Court shall sit either in a different building or room from that in which sittings of courts other than Juvenile Courts are held, or on different days from those on which sittings of the other courts are held, and no person shall be present at any sitting of a Juvenile Court except —
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) A Youth Court shall sit either in a different building or room from that in which sittings of courts other than Youth Courts are held, or on different days from those on which sittings of the other courts are held, and no person shall be present at any sitting of a Youth Court except —
 
 (a) members and officers of the Court;
 
@@ -1109,6 +1155,8 @@ JUVENILE COURT
 (c) bona fide representatives of newspapers or news agencies; and
 
 (d) such other persons as the Court may specially authorise to be present.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Restriction on publication of information relating to proceedings involving children and young persons
 
@@ -1178,79 +1226,117 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power to order parent or guardian to pay fine, etc., instead of child or young person
 
-39\.—(1) Where a child or young person is charged before a Juvenile Court with any offence for the commission of which a fine may be imposed and damages or costs or both may be awarded, and the Court is of the opinion that the case would be best met by the imposition of all or any of those penalties whether with or without any other punishment, the Court may, in such case, and shall, if the offender is a child, order that the fine imposed and damages or costs awarded be paid by the parent or guardian of the child or young person, unless the Court is satisfied that the parent or guardian cannot be found or that he has not conduced to the commission of the offence by neglecting to exercise due care of the child or young person.
+39\.—(1) Where a child or young person is charged before a Youth Court with any offence for the commission of which a fine may be imposed and damages or costs or both may be awarded, and the Court is of the opinion that the case would be best met by the imposition of all or any of those penalties whether with or without any other punishment, the Court may, in such case, and shall, if the offender is a child, order that the fine imposed and damages or costs awarded be paid by the parent or guardian of the child or young person, unless the Court is satisfied that the parent or guardian cannot be found or that he has not conduced to the commission of the offence by neglecting to exercise due care of the child or young person.
 
-(2) Where a child or young person is charged with any offence, a Juvenile Court may order his parent or guardian to give security for his good behaviour.
+[Act 27 of 2014 wef 01/10/2014]
 
-(3) Where a Juvenile Court thinks that a charge against a child or young person is proved, the Court may make an order on the parent or guardian under this section for the payment of damages or costs or requiring him to give security for the good behaviour of the child or young person, without proceeding to record a finding of guilt against the child or young person.
+(2) Where a child or young person is charged with any offence, a Youth Court may order his parent or guardian to give security for his good behaviour.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Where a Youth Court thinks that a charge against a child or young person is proved, the Court may make an order on the parent or guardian under this section for the payment of damages or costs or requiring him to give security for the good behaviour of the child or young person, without proceeding to record a finding of guilt against the child or young person.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (4) An order under this section may be made against a parent or guardian who, having been required to attend, has failed to do so, but, subject to subsection (1), no such order shall be made without giving the parent or guardian an opportunity to be heard.
 
 (5) Any sum imposed and ordered to be paid by the parent or guardian under this section, or on forfeiture of any such security, may be recovered from him in the manner provided by the Criminal Procedure Code (Cap. 68) in like manner as if the order had been made on the conviction of the parent or guardian of the offence with which the child or young person was charged.
 
-### Power of other courts to remit juvenile offenders to Juvenile Court
+### Power of other courts to remit juvenile offenders to Youth Court
 
-40\.—(1) Any court by or before which a child or young person is found guilty of an offence may, if it thinks fit, remit the case to a Juvenile Court.
+40\.—(1) Any court by or before which a child or young person is found guilty of an offence may, if it thinks fit, remit the case to a Youth Court.
 
-(2) Where any such case is so remitted, the offender shall be brought before a Juvenile Court accordingly, and the Juvenile Court may deal with him in any way in which it might have dealt with him if he had been tried and found guilty by the Juvenile Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) Where any such case is so remitted, the offender shall be brought before a Youth Court accordingly, and the Youth Court may deal with him in any way in which it might have dealt with him if he had been tried and found guilty by the Youth Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) No appeal shall lie against an order of remission made under subsection (1) but nothing in this subsection shall affect any right of appeal against the verdict or finding on which such an order is founded.
 
-(4) A person aggrieved by the order of the Juvenile Court to which the case is remitted may appeal therefrom to the High Court as if he has been tried by, and had pleaded guilty before, the Juvenile Court.
+(4) A person aggrieved by the order of the Youth Court to which the case is remitted may appeal therefrom to the High Court as if he has been tried by, and had pleaded guilty before, the Youth Court.
 
-(5) A court by which an order remitting a case to a Juvenile Court is made under this section —
+[Act 27 of 2014 wef 01/10/2014]
 
-(a) may give such directions as appear to be necessary with respect to the custody of the offender or for his release on bail until he can be brought before a Juvenile Court; and
+(5) A court by which an order remitting a case to a Youth Court is made under this section —
 
-(b) shall cause to be transmitted to the Juvenile Court to which the case has been remitted a certificate setting out the nature of the offence and stating that the case has been remitted for the purpose of being dealt with under this section.
+(a) may give such directions as appear to be necessary with respect to the custody of the offender or for his release on bail until he can be brought before a Youth Court; and
+
+(b) shall cause to be transmitted to the Youth Court to which the case has been remitted a certificate setting out the nature of the offence and stating that the case has been remitted for the purpose of being dealt with under this section.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Words “conviction” and “sentence” not to be used
 
-41\.—(1) The words “conviction” and “sentence” shall cease to be used in relation to children and young persons dealt with by a Juvenile Court.
+41\.—(1) The words “conviction” and “sentence” shall cease to be used in relation to children and young persons dealt with by a Youth Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Any reference in any written law to a person convicted, a conviction or a sentence shall, in the case of a child or young person, be construed as including a reference to a person found guilty of an offence, a finding of guilt or an order made upon such a finding, as the case may be.
 
-### Procedure in Juvenile Court
+### Procedure in Youth Court
 
-42\.—(1) Where a child or young person is brought before a Juvenile Court for any offence, it shall be the duty of the Court as soon as possible to explain to him in simple language suitable to his age and understanding the substance of the alleged offence.
+42\.—(1) Where a child or young person is brought before a Youth Court for any offence, it shall be the duty of the Court as soon as possible to explain to him in simple language suitable to his age and understanding the substance of the alleged offence.
 
-(2) After explaining the substance of the alleged offence, the Juvenile Court shall ask the child or young person whether he admits the facts constituting the offence.
+[Act 27 of 2014 wef 01/10/2014]
 
-(3) If the child or young person does not admit the facts constituting the offence, the Juvenile Court shall then hear the evidence of the witnesses in support thereof.
+(2) After explaining the substance of the alleged offence, the Youth Court shall ask the child or young person whether he admits the facts constituting the offence.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) If the child or young person does not admit the facts constituting the offence, the Youth Court shall then hear the evidence of the witnesses in support thereof.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (4) At the close of the evidence in chief of each witness, the witness may be cross-examined by or on behalf of the child or young person.
 
-(5) The Juvenile Court shall, except in any case where the child or young person is legally represented, allow his parents or guardian or, in their absence, any relative or other responsible person to assist him in conducting his defence.
+(5) The Youth Court shall, except in any case where the child or young person is legally represented, allow his parents or guardian or, in their absence, any relative or other responsible person to assist him in conducting his defence.
 
-(6) If in any case where the child or young person is not legally represented or assisted in his defence as provided for in subsection (5), the child or young person, instead of asking questions by way of cross-examination, makes assertions, the Juvenile Court shall then put to the witness such questions as it thinks necessary on behalf of the child or young person and may, for this purpose, question the child or young person in order to bring out or clear up any point arising out of those questions.
+[Act 27 of 2014 wef 01/10/2014]
 
-(7) If it appears to the Juvenile Court that a prima facie case is made out, the Court shall explain to the child or young person the substance of the evidence against him and, in particular, any points therein which specially tell against him or require explanation and the child or young person shall be allowed to give evidence upon oath or affirmation or to make a statement if he so desires and the evidence of any witness for the defence shall be heard.
+(6) If in any case where the child or young person is not legally represented or assisted in his defence as provided for in subsection (5), the child or young person, instead of asking questions by way of cross-examination, makes assertions, the Youth Court shall then put to the witness such questions as it thinks necessary on behalf of the child or young person and may, for this purpose, question the child or young person in order to bring out or clear up any point arising out of those questions.
 
-(8) If the child or young person admits the offence or the Juvenile Court is satisfied that it is proved, he and his parent or guardian, if present, shall then be asked if they desire to say anything in extenuation or mitigation of the penalty or otherwise.
+[Act 27 of 2014 wef 01/10/2014]
 
-(9) Before deciding how to deal with him, the Juvenile Court may obtain such information as to his family background, general conduct, home surroundings, school record, medical history and state of development, as may enable it to deal with the case in the best interests of the child or young person, and may put to him any question arising out of such information.
+(7) If it appears to the Youth Court that a prima facie case is made out, the Court shall explain to the child or young person the substance of the evidence against him and, in particular, any points therein which specially tell against him or require explanation and the child or young person shall be allowed to give evidence upon oath or affirmation or to make a statement if he so desires and the evidence of any witness for the defence shall be heard.
 
-[20/2001]
+[Act 27 of 2014 wef 01/10/2014]
 
-(10) The information referred to in subsection (9) may include any written report of a probation officer, an approved welfare officer, a registered medical practitioner or any other person whom the Juvenile Court thinks fit to provide a report on the child, and may be received and considered by the Court without being read aloud.
+(8) If the child or young person admits the offence or the Youth Court is satisfied that it is proved, he and his parent or guardian, if present, shall then be asked if they desire to say anything in extenuation or mitigation of the penalty or otherwise.
 
-[20/2001]
+[Act 27 of 2014 wef 01/10/2014]
 
-(11) For the purpose of subsection (9), the Juvenile Court may —
-
-(a) require either or both the child or young person and the parent or guardian thereof to furnish such information or render such assistance to the Juvenile Court as the Court thinks necessary;
-
-(b) require either or both the child or young person and the parent or guardian thereof to undergo such medical, psychological or other assessment as the Juvenile Court thinks necessary; and
-
-(c) from time to time release the child or young person on bail or remand him in a place of detention in order to facilitate the carrying out of any requirement of the Juvenile Court under paragraph (a) or (b).
+(9) Before deciding how to deal with him, the Youth Court may obtain such information as to his family background, general conduct, home surroundings, school record, medical history and state of development, as may enable it to deal with the case in the best interests of the child or young person, and may put to him any question arising out of such information.
 
 [20/2001]
 
-(12) The costs of and incidental to any assessment under subsection (11)(b) shall be borne by the parent or guardian of the child or young person, unless the Juvenile Court directs otherwise.
+[Act 27 of 2014 wef 01/10/2014]
+
+(10) The information referred to in subsection (9) may include any written report of a probation officer, an approved welfare officer, a registered medical practitioner or any other person whom the Youth Court thinks fit to provide a report on the child, and may be received and considered by the Court without being read aloud.
 
 [20/2001]
 
-(13) Where the Juvenile Court has received and considered a written report of a probation officer, an approved welfare officer, a registered medical practitioner or any other person whom the Court thinks fit to provide a report on the child or young person —
+[Act 27 of 2014 wef 01/10/2014]
+
+(11) For the purpose of subsection (9), the Youth Court may —
+
+(a) require either or both the child or young person and the parent or guardian thereof to furnish such information or render such assistance to the Youth Court as the Court thinks necessary;
+
+(b) require either or both the child or young person and the parent or guardian thereof to undergo such medical, psychological or other assessment as the Youth Court thinks necessary; and
+
+(c) from time to time release the child or young person on bail or remand him in a place of detention in order to facilitate the carrying out of any requirement of the Youth Court under paragraph (a) or (b).
+
+[20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(12) The costs of and incidental to any assessment under subsection (11)(b) shall be borne by the parent or guardian of the child or young person, unless the Youth Court directs otherwise.
+
+[20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(13) Where the Youth Court has received and considered a written report of a probation officer, an approved welfare officer, a registered medical practitioner or any other person whom the Court thinks fit to provide a report on the child or young person —
 
 (a) the child or young person shall be told the substance of any part of the report bearing on his character or conduct which the Court considers to be material to the manner in which he should be dealt with;
 
@@ -1260,7 +1346,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [20/2001]
 
-(14) If in any case the Juvenile Court considers it necessary in the interests of the child or young person, the Court may require the parent or guardian of the child or young person, as the case may be, to withdraw from the Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+(14) If in any case the Youth Court considers it necessary in the interests of the child or young person, the Court may require the parent or guardian of the child or young person, as the case may be, to withdraw from the Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Presumption as to age
 
@@ -1270,9 +1360,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [20/2001]
 
-### Powers of Juvenile Court on proof of offence
+### Powers of Youth Court on proof of offence
 
-44\.—(1) Subject to the provisions of this section, where a Juvenile Court is satisfied that an offence has been proved, or where the child or young person (referred to in this section as the offender) admits the facts constituting the offence, the Court shall, in addition to any other powers exercisable by virtue of this Act or any other written law for the time being in force, have power —
+44\.—(1) Subject to the provisions of this section, where a Youth Court is satisfied that an offence has been proved, or where the child or young person (referred to in this section as the offender) admits the facts constituting the offence, the Court shall, in addition to any other powers exercisable by virtue of this Act or any other written law for the time being in force, have power —
 
 (a) to discharge the offender;
 
@@ -1294,19 +1384,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (j) to order the offender to pay a fine, damages or costs;
 
-(k) to order the offender to be brought before a District Court to be dealt with under section 305 of the Criminal Procedure Code 2010 if the offender —
+(k) to deal with the offender, or order the offender to be brought before a District Court to be dealt with, under section 305 of the Criminal Procedure Code 2010 if the offender —
 
 (i) has attained the age of 16 years; or
 
 (ii) having attained the age of 14 years but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under paragraph (i) to be sent to a juvenile rehabilitation centre established under section 64,
 
-and the Juvenile Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre.
+and the Youth Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre.
 
 [3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(2) For the purpose of subsection (1), the Juvenile Court shall have power —
+[Act 27 of 2014 wef 01/10/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) For the purpose of subsection (1), the Youth Court shall have power —
 
 (a) to make the orders referred to in subsection (1)(b), (c), (d), (e), (f), (g), (h), (i) and (j) singly, or combine, in such manner as it thinks just and expedient in the circumstances —
 
@@ -1322,13 +1416,17 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 [20/2001]
 
-(3) Where the Juvenile Court makes an order under subsection (1)(g) for the detention of an offender in a place of detention in combination with a probation order under subsection (1)(e), the period of the offender’s detention shall not exceed 3 months.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Where the Youth Court makes an order under subsection (1)(g) for the detention of an offender in a place of detention in combination with a probation order under subsection (1)(e), the period of the offender’s detention shall not exceed 3 months.
 
 [20/2001]
 
+[Act 27 of 2014 wef 01/10/2014]
+
 (4) [Deleted by Act 3/2011 wef 20/07/2011]
 
-(5) If an offender, without reasonable excuse, contravenes any order made by the Juvenile Court under subsection (1) (referred to hereinafter as the original order) or any condition thereof, the Juvenile Court may make such order as is necessary for the offender to be produced before it and thereafter, deal with the offender by —
+(5) If an offender, without reasonable excuse, contravenes any order made by the Youth Court under subsection (1) (referred to hereinafter as the original order) or any condition thereof, the Youth Court may make such order as is necessary for the offender to be produced before it and thereafter, deal with the offender by —
 
 (a) making any order that the Court is empowered to make under subsection (1);
 
@@ -1338,31 +1436,39 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 [20/2001]
 
-(6) Where an offender, while being detained in a place of detention or a juvenile rehabilitation centre pursuant to an order under subsection (1)(g) or (i), is found guilty of another offence by the Juvenile Court, the Court may, instead of making a fresh order against the offender under subsection (1)(g) or (i), extend the period of detention that is being served by the offender.
+[Act 27 of 2014 wef 01/10/2014]
+
+(6) Where an offender, while being detained in a place of detention or a juvenile rehabilitation centre pursuant to an order under subsection (1)(g) or (i), is found guilty of another offence by the Youth Court, the Court may, instead of making a fresh order against the offender under subsection (1)(g) or (i), extend the period of detention that is being served by the offender.
 
 [20/2001]
 
 [3/2011 wef 20/07/2011]
 
-(7) Where a Juvenile Court is satisfied, on the representations of the manager of a place of detention, a juvenile rehabilitation centre or a place of safety, that a person ordered to be detained in the place of detention, juvenile rehabilitation centre or place of safety is of so unruly a character that he cannot be so detained, the Court may —
+[Act 27 of 2014 wef 01/10/2014]
+
+(7) Where a Youth Court is satisfied, on the representations of the manager of a place of detention, a juvenile rehabilitation centre or a place of safety, that a person ordered to be detained in the place of detention, juvenile rehabilitation centre or place of safety is of so unruly a character that he cannot be so detained, the Court may —
 
 (a) order the person to be transferred to and detained in a juvenile rehabilitation centre or in another juvenile rehabilitation centre, as the case may be, which the Court considers more suitable for him and to be detained there for the whole or any part of the unexpired period of detention; or
 
-(b) order the person to be brought before a District Court to be dealt with under section 305 of the Criminal Procedure Code 2010 if the person —
+(b) deal with the person, or order the person to be brought before a District Court to be dealt with, under section 305 of the Criminal Procedure Code 2010 if the person —
 
 (i) has attained the age of 16 years; or
 
 (ii) having attained the age of 14 years but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under subsection (1)(i) to be sent to a juvenile rehabilitation centre,
 
-and the Juvenile Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre.
+and the Youth Court is satisfied that it is expedient with a view to his reformation that he should undergo a period of training in a reformative training centre.
 
 [3/2011 wef 20/07/2011]
 
 [20/2001]
 
+[Act 27 of 2014 wef 01/10/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
+
 ### Power to convene juvenile case conference to deal with child or young person guilty of offence
 
-45\.—(1) Without prejudice to section 44, the Juvenile Court may, for the purpose of dealing with a child or young person who has been found guilty of committing an offence (referred to in this section as the offender), convene a juvenile case conference in accordance with the prescribed requirements and a juvenile case conference so convened may deal with the offender by —
+45\.—(1) Without prejudice to section 44, the Youth Court may, for the purpose of dealing with a child or young person who has been found guilty of committing an offence (referred to in this section as the offender), convene a juvenile case conference in accordance with the prescribed requirements and a juvenile case conference so convened may deal with the offender by —
 
 (a) reprimanding the offender;
 
@@ -1380,15 +1486,19 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 [20/2001]
 
+[Act 27 of 2014 wef 01/10/2014]
+
 (2) In exercising its powers under this section, the juvenile case conference shall —
 
 (a) comply with the prescribed procedure; and
 
-(b) have regard to the orders which may be made by the Juvenile Court under section 44 for dealing with a person who has been found guilty by the Court of a comparable offence.
+(b) have regard to the orders which may be made by the Youth Court under section 44 for dealing with a person who has been found guilty by the Court of a comparable offence.
 
 [3/2011 wef 20/07/2011]
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) If the offender fails —
 
@@ -1396,11 +1506,13 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 (b) to comply with any requirement of the juvenile case conference,
 
-the juvenile case conference shall report the matter to the Juvenile Court and the Court shall thereupon make such order as is necessary for the offender to be produced before the Court and thereafter deal with the offender as the Court thinks fit in accordance with section 44.
+the juvenile case conference shall report the matter to the Youth Court and the Court shall thereupon make such order as is necessary for the offender to be produced before the Court and thereafter deal with the offender as the Court thinks fit in accordance with section 44.
 
 [3/2011 wef 20/07/2011]
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (4) A person who attends a juvenile case conference (not being the offender, the parent or guardian of the offender or any other member of the offender’s family) shall not divulge any personal information obtained at the conference relating to any of those persons.
 
@@ -1416,9 +1528,9 @@ the juvenile case conference shall report the matter to the Juvenile Court and t
 
 [3/2011 wef 20/07/2011]
 
-### Additional orders which may be made by Juvenile Court in relation to child or young person found guilty of offence
+### Additional orders which may be made by Youth Court in relation to child or young person found guilty of offence
 
-46\.—(1) Where a child or young person has been dealt with in connection with an offence by a court or by a juvenile case conference, the Juvenile Court may, on its own motion or on the application of the Director or a protector, make an additional order requiring either or both the child or young person and the parent or guardian thereof to undergo such counselling, psychotherapy or other programme or to partake in such activity as the Court thinks necessary for the purpose of —
+46\.—(1) Where a child or young person has been dealt with in connection with an offence by a court or by a juvenile case conference, the Youth Court may, on its own motion or on the application of the Director or a protector, make an additional order requiring either or both the child or young person and the parent or guardian thereof to undergo such counselling, psychotherapy or other programme or to partake in such activity as the Court thinks necessary for the purpose of —
 
 (a) resolving any relationship problems between the child or young person and the parent or guardian thereof;
 
@@ -1432,15 +1544,21 @@ the juvenile case conference shall report the matter to the Juvenile Court and t
 
 [20/2001]
 
-(2) In making an order referred to in subsection (1), the Juvenile Court may require the parent or guardian of the child or young person to enter into a bond to comply with such order.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) In making an order referred to in subsection (1), the Youth Court may require the parent or guardian of the child or young person to enter into a bond to comply with such order.
 
 [20/2001]
 
-(3) Where the parent or guardian of any child or young person contravenes with any order made by the Juvenile Court under subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Where the parent or guardian of any child or young person contravenes with any order made by the Youth Court under subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [44B
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Maximum age limit for detention in place of detention, juvenile rehabilitation centre or place of safety
 
@@ -1458,11 +1576,13 @@ the juvenile case conference shall report the matter to the Juvenile Court and t
 
 ### Appeals
 
-48\. Any child or young person or his parent or guardian who is dissatisfied with any judgment or order of a Juvenile Court may appeal to the High Court against the judgment or order in accordance with the provision of any law in force for the time being regulating appeals to the High Court from a Magistrate’s Court.
+48\. Any child or young person or his parent or guardian who is dissatisfied with any judgment or order of a Youth Court may appeal to the High Court against the judgment or order in accordance with the provision of any law in force for the time being regulating appeals to the High Court from a District Court.
 
 [46
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Children and Young Persons in need of Care and Protection
 
@@ -1474,9 +1594,11 @@ Children and Young Persons in need of Care and Protection
 
 ### Procedure
 
-48B\.—(1) Subject to section 48C, all applications to a Juvenile Court under section 49 or 50 shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by the District Court or a Magistrate’s Court under the provisions of the Criminal Procedure Code 2010 (Act 15 of 2010) and an application under section 49 or 50 shall be deemed to be a complaint for the purposes of that Code.
+48B\.—(1) Subject to section 48C, all applications to a Youth Court under section 49 or 50 shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard under the provisions of the Criminal Procedure Code 2010 (Act 15 of 2010) and an application under section 49 or 50 shall be deemed to be a complaint for the purposes of that Code.
 
 [3/2011 wef 20/07/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) For the avoidance of doubt, proceedings under section 49 or 50 shall not be treated as criminal proceedings.
 
@@ -1502,9 +1624,9 @@ Children and Young Persons in need of Care and Protection
 
 [3/2011 wef 20/07/2011]
 
-### Powers of Juvenile Court in respect of children and young persons in need of care or protection
+### Powers of Youth Court in respect of children and young persons in need of care or protection
 
-49\.—(1) Subject to the provisions of this section and on the application made by the Director or a protector, if a Juvenile Court is satisfied that any person brought before it is a child or young person in need of care or protection, the Court may —
+49\.—(1) Subject to the provisions of this section and on the application made by the Director or a protector, if a Youth Court is satisfied that any person brought before it is a child or young person in need of care or protection, the Court may —
 
 (a) order the parent or guardian of the child or young person to enter into a bond to exercise proper care and guardianship of the child or young person for such period as may be specified by the Court;
 
@@ -1518,33 +1640,43 @@ Children and Young Persons in need of Care and Protection
 
 [20/2001]
 
-(2) A Juvenile Court may, in making any order under subsection (1), impose such conditions or give such directions as it thinks fit for the purpose of ensuring the safety and well-being of the child or young person in respect of whom such order is made, and every person upon whom such conditions are imposed or to whom such directions are given shall comply with such conditions or directions.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) A Youth Court may, in making any order under subsection (1), impose such conditions or give such directions as it thinks fit for the purpose of ensuring the safety and well-being of the child or young person in respect of whom such order is made, and every person upon whom such conditions are imposed or to whom such directions are given shall comply with such conditions or directions.
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) No order under subsection (1) shall be made without giving the parent or guardian of the child or young person an opportunity to attend and be heard.
 
 [20/2001]
 
-(3A) Where the Juvenile Court considers the presence of a child or young person or his parent or guardian to be necessary or expedient for the purposes of the proceedings, the Court may compel the attendance of the child or young person or his parent or guardian by summons.
+(3A) Where the Youth Court considers the presence of a child or young person or his parent or guardian to be necessary or expedient for the purposes of the proceedings, the Court may compel the attendance of the child or young person or his parent or guardian by summons.
 
 [3/2011 wef 20/07/2011]
 
-(3B) The Juvenile Court may dispense with the attendance of a child or young person in Court if it considers that the prejudicial effects, if any, of dispensing with his attendance is outweighed by any harm or injury to or any other detrimental effect on the welfare of the child or young person that will or may be caused to him by his attendance in Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3B) The Youth Court may dispense with the attendance of a child or young person in Court if it considers that the prejudicial effects, if any, of dispensing with his attendance is outweighed by any harm or injury to or any other detrimental effect on the welfare of the child or young person that will or may be caused to him by his attendance in Court.
 
 [3/2011 wef 20/07/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (4) Notwithstanding subsection (3), an order under subsection (1) may be made if the parent or guardian of the child or young person, having been required to attend, has failed to do so or cannot be found within a reasonable time.
 
 [20/2001]
 
-(5) In determining what order to be made under subsection (1), the Juvenile Court shall treat the welfare of the child or young person as the paramount consideration and shall endeavour to obtain such information as to the family background, general conduct, home environment, school record, medical history and state of development of the child or young person as may enable the Court to deal with the case in the best interests of the child or young person.
+(5) In determining what order to be made under subsection (1), the Youth Court shall treat the welfare of the child or young person as the paramount consideration and shall endeavour to obtain such information as to the family background, general conduct, home environment, school record, medical history and state of development of the child or young person as may enable the Court to deal with the case in the best interests of the child or young person.
 
 [3/2011 wef 20/07/2011]
 
 [20/2001]
 
-(6) For the purpose of subsection (5), the Juvenile Court may —
+[Act 27 of 2014 wef 01/10/2014]
+
+(6) For the purpose of subsection (5), the Youth Court may —
 
 (a) require any person who, in the opinion of the Court, is able to furnish any information regarding the child or young person to furnish to the Court such information as the Court may specify;
 
@@ -1560,7 +1692,9 @@ Children and Young Persons in need of Care and Protection
 
 [20/2001]
 
-(7) Where the Juvenile Court requires any child or young person or the parent or guardian thereof to undergo any assessment under subsection (6)(c) or (d) —
+[Act 27 of 2014 wef 01/10/2014]
+
+(7) Where the Youth Court requires any child or young person or the parent or guardian thereof to undergo any assessment under subsection (6)(c) or (d) —
 
 (a) the person carrying out the assessment shall provide a written report to the Court and a protector stating the results of his assessment, and such report may be received and considered by the Court without being read aloud; and
 
@@ -1570,17 +1704,25 @@ Children and Young Persons in need of Care and Protection
 
 [20/2001]
 
-(8) If the Juvenile Court is not satisfied that the child or young person brought before it is in need of protection, the Court may order that the child or young person be returned to the care and custody of his parent or guardian.
+[Act 27 of 2014 wef 01/10/2014]
+
+(8) If the Youth Court is not satisfied that the child or young person brought before it is in need of protection, the Court may order that the child or young person be returned to the care and custody of his parent or guardian.
 
 [20/2011]
 
-(9) The Juvenile Court may, at any time before the expiry of an order made under subsection (1) and on the application of the Director or a protector, vary or discharge the order if the Court is satisfied that it would be in the best interests of the person in respect of whom the order was made.
+[Act 27 of 2014 wef 01/10/2014]
+
+(9) The Youth Court may, at any time before the expiry of an order made under subsection (1) and on the application of the Director or a protector, vary or discharge the order if the Court is satisfied that it would be in the best interests of the person in respect of whom the order was made.
 
 [3/2011 wef 20/07/2011]
 
-(10) For the avoidance of doubt, where an order to be varied or discharged under subsection (9) is an order made under subsection (1)(b), (c) or (d) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Juvenile Court shall not vary the period for which the person is to be detained, committed to care or placed under supervision, as the case may be.
+[Act 27 of 2014 wef 01/10/2014]
+
+(10) For the avoidance of doubt, where an order to be varied or discharged under subsection (9) is an order made under subsection (1)(b), (c) or (d) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Youth Court shall not vary the period for which the person is to be detained, committed to care or placed under supervision, as the case may be.
 
 [3/2011 wef 20/07/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (11) If the parent or guardian of the child or young person fails to enter into the bond within the time specified in the order made under subsection (1)(a) or breaches any condition of the bond, the parent or guardian shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -1590,9 +1732,9 @@ Children and Young Persons in need of Care and Protection
 
 Children and Young Persons beyond Parental Control
 
-### Power of parent or guardian to bring child or young person before Juvenile Court
+### Power of parent or guardian to bring child or young person before Youth Court
 
-50\.—(1) Where the parent or guardian of a child or young person proves to a Juvenile Court that he is unable to control the child or young person, the Court, may on the application made by the parent or guardian and if satisfied —
+50\.—(1) Where the parent or guardian of a child or young person proves to a Youth Court that he is unable to control the child or young person, the Court, may on the application made by the parent or guardian and if satisfied —
 
 (a) that it is expedient so to deal with the child or young person; and
 
@@ -1608,29 +1750,39 @@ may order the child or young person —
 
 [20/2001]
 
-(1A) Where the Juvenile Court requires further information to be provided as to the family background, general conduct, home environment, school record, medical history and state of development of the child or young person, the Court may order that the child or young person be kept in custody at such place as may be determined by a protector pending the receipt of such information by the Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+(1A) Where the Youth Court requires further information to be provided as to the family background, general conduct, home environment, school record, medical history and state of development of the child or young person, the Court may order that the child or young person be kept in custody at such place as may be determined by a protector pending the receipt of such information by the Court.
 
 [3/2011 wef 20/07/2011]
 
-(2) The provisions of section 49(5), (6) and (7) shall apply, with the necessary modifications, in respect of an order made by the Juvenile Court under subsection (1) as they apply in respect of an order made by the Juvenile Court under section 49(1).
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) The provisions of section 49(5), (6) and (7) shall apply, with the necessary modifications, in respect of an order made by the Youth Court under subsection (1) as they apply in respect of an order made by the Youth Court under section 49(1).
 
 [20/2001]
 
-(3) The Juvenile Court may, on the application of the Director, a protector or the parent or guardian of any child or young person in respect of whom an order under subsection (1) has been made, vary or discharge the order if the Court is satisfied that it is in the best interests of the child or young person to do so.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) The Youth Court may, on the application of the Director, a protector or the parent or guardian of any child or young person in respect of whom an order under subsection (1) has been made, vary or discharge the order if the Court is satisfied that it is in the best interests of the child or young person to do so.
 
 [20/2001]
 
-(4) For the avoidance of doubt, where an order to be varied or discharged under subsection (3) is an order made under subsection (1)(i) or (ii) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Juvenile Court shall not vary the period for which the person is to be placed on supervision or detained in a place of safety, as the case may be.
+[Act 27 of 2014 wef 01/10/2014]
+
+(4) For the avoidance of doubt, where an order to be varied or discharged under subsection (3) is an order made under subsection (1)(i) or (ii) and involves a person who is above the age of 16 years (but below the age of 19 years) at the time the order is to be varied or discharged, the Youth Court shall not vary the period for which the person is to be placed on supervision or detained in a place of safety, as the case may be.
 
 [3/2011 wef 20/07/2011]
 
 [49
 
-Additional powers of Juvenile Court
+[Act 27 of 2014 wef 01/10/2014]
 
-### Additional orders which may be made by Juvenile Court in relation to child or young person in need of care and protection or beyond parental control
+Additional powers of Youth Court
 
-51\.—(1) Where a child or young person has been dealt with under section 49 or 50, the Juvenile Court may, on its own motion or on the application of the Director or a protector, make an additional order requiring either or both the child or young person concerned and the parent or guardian thereof to undergo such counselling, psychotherapy or other assessment and treatment or to partake in such activity as the Court thinks necessary for the purpose of —
+### Additional orders which may be made by Youth Court in relation to child or young person in need of care and protection or beyond parental control
+
+51\.—(1) Where a child or young person has been dealt with under section 49 or 50, the Youth Court may, on its own motion or on the application of the Director or a protector, make an additional order requiring either or both the child or young person concerned and the parent or guardian thereof to undergo such mediation, counselling, psychotherapy or other assessment and treatment or to partake in such activity as the Court thinks necessary for the purpose of —
 
 (a) resolving any relationship problems between the child or young person and the parent or guardian thereof;
 
@@ -1642,21 +1794,29 @@ Additional powers of Juvenile Court
 
 [20/2001]
 
-(2) In making an order referred to in subsection (1), the Juvenile Court may require the parent or guardian of the child or young person concerned to enter into a bond to comply with such order.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) In making an order referred to in subsection (1), the Youth Court may require the parent or guardian of the child or young person concerned to enter into a bond to comply with such order.
 
 [20/2001]
 
-(3) Where the parent or guardian of any child or young person fails to comply with any order or requirement of the Juvenile Court under subsection (1) or (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Where the parent or guardian of any child or young person fails to comply with any order or requirement of the Youth Court under subsection (1) or (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [20/2001]
 
 [49A
 
+[Act 27 of 2014 wef 01/10/2014]
+
 ### Failure to comply with requirements of supervision order
 
-52\. If it appears on information to the Juvenile Court that a child or young person against whom a supervision order made under section 50 is in force has failed to comply with any of the requirements of the supervision order, the Court may make a fresh order against the child or young person under that section.
+52\. If it appears on information to the Youth Court that a child or young person against whom a supervision order made under section 50 is in force has failed to comply with any of the requirements of the supervision order, the Court may make a fresh order against the child or young person under that section.
 
 [50
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ## PART IIIA
 
@@ -2085,11 +2245,15 @@ REMAND HOMES
 
 (2) A court committing for trial a child or young person who is not released on bail shall, notwithstanding anything to the contrary in any other written law, instead of committing him to prison, commit him to a remand home, to be remanded there for the period for which he is committed or until he is delivered from that place in due course of law.
 
-(2A) Where an order made by the Juvenile Court in respect of a child or young person under section 44(1) has been contravened, the Juvenile Court may, notwithstanding that the person is above the age of 16 years (but below the age of 19 years) at the time of the contravention, order that the person be remanded in a remand home pending any further order by the Court on how he is to be dealt with.
+(2A) Where an order made by the Youth Court in respect of a child or young person under section 44(1) has been contravened, the Youth Court may, notwithstanding that the person is above the age of 16 years (but below the age of 19 years) at the time of the contravention, order that the person be remanded in a remand home pending any further order by the Court on how he is to be dealt with.
 
 [3/2011 wef 20/07/2011]
 
-(3) Notwithstanding subsection (1), any person whilst being subject to the jurisdiction of the Juvenile Court who has attained the age of 16 years but is below the age of 19 years may be remanded at a remand home.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Notwithstanding subsection (1), any person whilst being subject to the jurisdiction of the Youth Court who has attained the age of 16 years but is below the age of 19 years may be remanded at a remand home.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (4) Notwithstanding subsections (1) and (2), in the case of a young person it shall not be obligatory on the court to remand him in or commit him to a remand home under those subsections if the court certifies that it is impracticable to do so, or that he is of so unruly a character that he cannot be safely so remanded or committed, and in that case the court may remand the young person to custody in, or may commit him to, a prison.
 
@@ -2526,17 +2690,21 @@ EXPENSES AND CONTRIBUTIONS
 
 ### Contributions by parents or guardians
 
-83\. Where an order has been made by a Juvenile Court under any of the provisions of this Act committing a child or young person to the care of a fit person, or sending the child or young person to a place of temporary care and protection, place of detention, juvenile rehabilitation centre or place of safety, it shall be the duty of a parent or guardian or other person having the custody of the child or young person to make contributions in respect of the maintenance of the child or young person.
+83\. Where an order has been made by a Youth Court under any of the provisions of this Act committing a child or young person to the care of a fit person, or sending the child or young person to a place of temporary care and protection, place of detention, juvenile rehabilitation centre or place of safety, it shall be the duty of a parent or guardian or other person having the custody of the child or young person to make contributions in respect of the maintenance of the child or young person.
 
 [79
 
 [3/2011 wef 20/07/2011]
 
+[Act 27 of 2014 wef 01/10/2014]
+
 ### Contribution order
 
-84\.—(1) When an order has been made by a Juvenile Court committing a child or young person to the care of a fit person or sending the child or young person to a place of temporary care and protection, a place of detention, a hostel, a juvenile rehabilitation centre or a place of safety, the Court which makes the order may, at the same time or subsequently, make an order (referred to in this section as a contribution order) on the parent or guardian or person having the custody of the child or young person requiring him to contribute such weekly or monthly sum as the Court, having regard to the means of the parent, guardian or person having the custody of the child or young person, thinks fit.
+84\.—(1) When an order has been made by a Youth Court committing a child or young person to the care of a fit person or sending the child or young person to a place of temporary care and protection, a place of detention, a hostel, a juvenile rehabilitation centre or a place of safety, the Court which makes the order may, at the same time or subsequently, make an order (referred to in this section as a contribution order) on the parent or guardian or person having the custody of the child or young person requiring him to contribute such weekly or monthly sum as the Court, having regard to the means of the parent, guardian or person having the custody of the child or young person, thinks fit.
 
 [3/2011 wef 20/07/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) An order made under subsection (1) may be made against a parent or guardian or person having the custody of the child or young person, who, having been required to attend, has failed to do so.
 
@@ -2558,25 +2726,31 @@ EXPENSES AND CONTRIBUTIONS
 
 (6) A contribution order made under this section —
 
-(a) may be varied, revoked or suspended by the Juvenile Court; and
+(a) may be varied, revoked or suspended by the Youth Court; and
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (b) shall not be so varied as to increase any contribution payable thereunder without giving the person making the contribution an opportunity to be heard.
 
-(7) If any person wilfully neglects to comply with a contribution order made under this section, the Juvenile Court may, for every breach of the order, by warrant, direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court, or may sentence the person to imprisonment for a term not exceeding one month for each month’s contribution remaining unpaid.
+(7) If any person wilfully neglects to comply with a contribution order made under this section, the Youth Court may, for every breach of the order, by warrant, direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court, or may sentence the person to imprisonment for a term not exceeding one month for each month’s contribution remaining unpaid.
 
 [80
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ## PART IX
 
 MISCELLANEOUS
 
-### Powers of Juvenile Court conferred on other courts
+### Powers of Youth Court conferred on other courts
 
-85\. Except as otherwise provided, nothing in this Act shall affect the powers of a Magistrate’s Court, a District Court or the High Court, and all the powers which may be exercised under this Act by a Juvenile Court may, in like manner, be exercised by a Magistrate’s Court, a District Court or the High Court.
+85\. Except as otherwise provided, nothing in this Act shall affect the powers of a Magistrate’s Court, a District Court or the High Court, and all the powers which may be exercised under this Act by a Youth Court may, in like manner, be exercised by a Magistrate’s Court, a District Court or the High Court.
 
 [83
 
 [20/2001]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Protection from personal liability
 
@@ -2722,8 +2896,6 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 89\. Rules of Court may be made by the Chief Justice for regulating the procedure and practice in Juvenile Courts.
 
-[86
-
 ## LEGISLATIVE HISTORY
 
 Children and Young Persons Act
@@ -2789,6 +2961,12 @@ This Legislative History is provided for the convenience of users of the Childre
 
 |
 (except sections 26 and 29)|
+|11.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
