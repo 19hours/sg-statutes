@@ -158,7 +158,7 @@ shall be sent by that officer to the Minister with a view to their being transmi
 
 ### Power to make provisional maintenance order against person residing in reciprocating country
 
-4\.—(1) Where a complaint is made to a Magistrate’s Court or District Court against a person residing in a reciprocating country and the complaint is one on which such court would have jurisdiction by virtue of any enactment to make a maintenance order if —
+4\.—(1) Where a complaint is made to a Family Court against a person residing in a reciprocating country and the complaint is one on which such court would have jurisdiction by virtue of any enactment to make a maintenance order if —
 
 (a) that person were residing in Singapore; and
 
@@ -166,13 +166,17 @@ shall be sent by that officer to the Minister with a view to their being transmi
 
 the court shall have jurisdiction to hear the complaint and may, subject to subsection (2), make a maintenance order on the complaint.
 
+[Act 27 of 2014 wef 01/10/2014]
+
 (2) A maintenance order made by virtue of this section shall be a provisional order.
 
 (3) [Deleted by Act 2 of 2012 wef 30/09/2014]
 
-(4) No enactment empowering a Magistrate’s Court or District Court to refuse to make an order on a complaint on the ground that the matter in question is one which would be more conveniently dealt with by the High Court shall apply in relation to a complaint to which subsection (1) applies.
+(4) No enactment empowering a Family Court to refuse to make an order on a complaint on the ground that the matter in question is one which would be more conveniently dealt with by the High Court shall apply in relation to a complaint to which subsection (1) applies.
 
-(5) Where a Magistrate’s Court or District Court makes a maintenance order which is by virtue of this section a provisional order, the following documents:
+[Act 27 of 2014 wef 01/10/2014]
+
+(5) Where a Family Court makes a maintenance order which is by virtue of this section a provisional order, the following documents:
 
 (a) a certified copy of the maintenance order;
 
@@ -188,7 +192,11 @@ the court shall have jurisdiction to hear the complaint and may, subject to subs
 
 shall be sent by that officer to the Minister with a view to their being transmitted by the Minister to the responsible authority in the reciprocating country in which the payer is residing if he is satisfied that the statement relating to the whereabouts of the payer gives sufficient information to justify that being done.
 
-(6) A maintenance order made by virtue of this section which has been confirmed by a competent court in a reciprocating country shall be treated for all purposes as if the Magistrate’s Court or District Court which made the order had made it in the form in which it was confirmed and as if the order had never been a provisional order, and subject to section 5, any such order may be enforced, varied or revoked accordingly.
+[Act 27 of 2014 wef 01/10/2014]
+
+(6) A maintenance order made by virtue of this section which has been confirmed by a competent court in a reciprocating country shall be treated for all purposes as if the Family Court which made the order had made it in the form in which it was confirmed and as if the order had never been a provisional order, and subject to section 5, any such order may be enforced, varied or revoked accordingly.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Variation and revocation of maintenance order made in Singapore
 
@@ -270,13 +278,15 @@ is received by the Minister from the responsible authority in a reciprocating co
 
 8\.—(1) A registered order may be enforced in Singapore as if it has been made by the registering court and as if that court has had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken accordingly.
 
-(2) A registered order which has been registered or confirmed by a District Court shall be enforceable in the manner as if the order had been made under Part VIII of the Women’s Charter [Cap. 353].
+(2) A registered order which has been registered or confirmed by a Family Court (or any other court in Singapore) shall be enforceable as if the order had been made under Part VIII of the Women’s Charter (Cap. 353).
 
-[Act 2 of 2012 wef 30/09/2014]
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) Any person for the time being under an obligation to make payments in pursuance of a registered order shall give notice of any change of address to the clerk of the registering court, and any person failing without reasonable excuse to give such a notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
-(4) The Magistrate’s Court or District Court by which an order is enforceable by virtue of this section, and the officers thereof, shall take all such steps for enforcing the order as may be prescribed.
+(4) The Family Court by which an order is enforceable by virtue of this section, and the officers thereof, shall take all such steps for enforcing the order as may be prescribed.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (5) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Act a certificate of arrears sent to the prescribed officer of the court shall be evidence of the facts stated therein.
 
@@ -475,3 +485,8 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|30 September 2014|
+|5.|**Act 27 of 2014—Family Justice Act 2014**|
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
