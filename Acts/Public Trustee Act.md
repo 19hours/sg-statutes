@@ -132,7 +132,7 @@ Any reference in this Act or in any other written law to officers or officer of 
 
 [7/1997 wef 01/10/1997]
 
-(5) The Public Trustee and every officer of the Public Trustee is hereby declared to be a public servant within the meaning of the Penal Code (Cap. 224).
+(5) The Public Trustee and every officer of the Public Trustee is hereby declared to be a public servant within the meaning of the Penal Code [Cap. 224].
 
 Powers and Duties of Public Trustee
 
@@ -152,11 +152,15 @@ Powers and Duties of Public Trustee
 
 (a) undertake such functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign him;
 
-(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity;
-
 [22/2008 wef 01/03/2010]
 
+(b) be appointed as a deputy by the court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity;
+
 [Act 27 of 2012 wef 15/02/2013]
+
+[Act 27 of 2014 wef 01/10/2014]
+
+[15/2011 wef 01/05/2011]
 
 (c) undertake such role, functions and duties as set out in the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011; and
 
@@ -212,7 +216,7 @@ In the Administration of Small Estates
 
 ### Vesting of trust property
 
-(2) On the Public Trustee undertaking, by declaration in writing signed and sealed by him, to administer the estate, the trust property other than stock shall, by virtue of this Act, vest in him, and the right to transfer or call for the transfer of any stock forming part of the estate shall also vest in him, in like manner as if vesting orders had been made for the purpose by the court under the Trustees Act (Cap. 337), and that Act shall apply accordingly:
+(2) On the Public Trustee undertaking, by declaration in writing signed and sealed by him, to administer the estate, the trust property other than stock shall, by virtue of this Act, vest in him, and the right to transfer or call for the transfer of any stock forming part of the estate shall also vest in him, in like manner as if vesting orders had been made for the purpose by the court under the Trustees Act [Cap. 337], and that Act shall apply accordingly:
 
 Provided that the Public Trustee shall not exercise the right of himself transferring the stock without the leave of the court.
 
@@ -240,7 +244,7 @@ As an Ordinary Trustee
 
 ### Retirement
 
-(2) Where the Public Trustee has been appointed a trustee of any trust, a co-trustee may retire from the trust under and in accordance with section 43 of the Trustees Act (Cap. 337), notwithstanding that there are not more than two trustees, and without such consents as are required by that section.
+(2) Where the Public Trustee has been appointed a trustee of any trust, a co-trustee may retire from the trust under and in accordance with section 43 of the Trustees Act [Cap. 337], notwithstanding that there are not more than two trustees, and without such consents as are required by that section.
 
 ### Contrary provisions in trust instrument
 
@@ -464,7 +468,7 @@ Public Trustee Act
 
 (CHAPTER 260)
 
-This Legislative History is provided for the convenience of users of the Public Trustee Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Public Trustee Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -550,3 +554,9 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|25.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
