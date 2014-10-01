@@ -212,11 +212,13 @@ An Act to make provision for the maintenance of parents by their children and fo
 
 ### Enforcement of maintenance orders
 
-10\.—(1) Maintenance orders made under this Act shall be deemed to be orders made by a District Court and may be enforced in the same manner as maintenance orders for wives and children are enforced under the Women’s Charter, and the provisions of that Act shall apply, with the necessary modifications, to enforcement of orders made under this Act.
+10\.—(1) Maintenance orders made under this Act shall be deemed to be orders made by a Family Court and may be enforced in the same manner as maintenance orders for wives and children are enforced under the Women’s Charter [Cap. 353], and the provisions of that Act shall apply, with the necessary modifications, to enforcement of orders made under this Act.
 
-[37/2010 wef 15/03/2011]
+[Act 27 of 2014 wef 01/10/2014]
 
-(2) For the purposes of subsection (1), the District Court may adopt such measures as it deems relevant or appropriate for the enforcement of maintenance orders made under this Act.
+(2) For the purposes of subsection (1), the Family Court may adopt such measures as it deems relevant or appropriate for the enforcement of maintenance orders made under this Act.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 [37/2010 wef 15/03/2011]
 
@@ -372,7 +374,9 @@ on such terms and conditions as the Minister may determine.
 
 (f) to make an order by consent of the parties; and
 
-(g) all the powers of a District Court with regard to the enforcement of attendance of witnesses and hearing evidence on oath.
+(g) all the powers of a Family Court with regard to the enforcement of attendance of witnesses and hearing evidence on oath.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 [37/2010 wef 15/03/2011]
 
@@ -434,7 +438,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) drawn up by the President and shall set out shortly the facts on which the law is to be applied and the question or questions of law to be determined;
 
-(b) sent by the President to the Registrar of the Supreme Court; and
+(b) sent by the President to the registrar of the Family Justice Courts; and
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (c) set down for argument in such manner as the High Court directs.
 
@@ -457,8 +463,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [37/2010 wef 15/03/2011]
 
 (3) The procedure governing any such appeal to the High Court shall be as provided for in the Rules of Court.
-
-[Act 2 of 2012 wef 01/03/2012]
 
 (4) The High Court shall have jurisdiction to hear and determine any such appeal and may confirm, vary or annul the decision of the Tribunal on appeal and make such further or other order on such appeal, whether as to costs or otherwise, as the Court may consider fit.
 
@@ -484,7 +488,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) In all proceedings under this Act including a case stated and an appeal from the decision of the Tribunal or the High Court, as the case may be —
 
-(a) the remuneration a solicitor is entitled to receive in respect of such proceedings shall not exceed the amount prescribed in rules made under section 21 and any agreement for costs which exceeds the maximum amount so prescribed shall be null and void;
+(a) the remuneration a solicitor is entitled to receive in respect of such proceedings shall not exceed the maximum amount prescribed in rules made under section 21 and any agreement for costs which exceeds the maximum amount so prescribed shall be null and void;
 
 (b) the costs of the Commissioner shall be at the discretion of the Tribunal or the Court, as the case may be, but the Commissioner shall not be ordered to pay the costs of any of the other parties; and
 
@@ -520,7 +524,7 @@ Maintenance of Parents Act
 
 (CHAPTER 167B)
 
-This Legislative History is provided for the convenience of users of the Maintenance of Parents Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Maintenance of Parents Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -556,3 +560,9 @@ This Legislative History is provided for the convenience of users of the Mainten
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|7.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
