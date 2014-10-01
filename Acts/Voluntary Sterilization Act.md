@@ -56,6 +56,10 @@ An Act relating to treatment for voluntary sexual sterilization by registered me
 
 2\. In this Act, unless the context otherwise requires —
 
+“court” means the High Court or a Family Court;
+
+[Act 27 of 2014 wef 01/10/2014]
+
 “health institution” means —
 
 (a) any private hospital licensed under the Private Hospitals and Medical Clinics Act (Cap. 248);
@@ -90,11 +94,15 @@ An Act relating to treatment for voluntary sexual sterilization by registered me
 
 (c) subject to paragraph (e), in the case of an unmarried person who is below 21 years of age, if the person, and at least one parent or guardian of the person, both give consent to such treatment;
 
-(d) in the case of a married person who lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) to consent to such treatment, if, on the application of the person’s spouse, the High Court makes an order declaring that such treatment is necessary in the best interests of that person;
+(d) in the case of a married person who lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) to consent to such treatment, if, on the application of the person’s spouse, the court makes an order declaring that such treatment is necessary in the best interests of that person;
 
-(e) in the case of an unmarried person who lacks capacity within the meaning of section 4 of the Mental Capacity Act to consent to such treatment, if, on the application of at least one parent or guardian of the person, the High Court makes an order declaring that such treatment is necessary in the best interests of that person.
+[Act 27 of 2014 wef 01/10/2014]
+
+(e) in the case of an unmarried person who lacks capacity within the meaning of section 4 of the Mental Capacity Act to consent to such treatment, if, on the application of at least one parent or guardian of the person, the court makes an order declaring that such treatment is necessary in the best interests of that person.
 
 [28/2012]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) Before a registered medical practitioner carries out treatment for sexual sterilization, he shall give to the person undergoing such treatment, not being a person who lacks capacity within the meaning of section 4 of the Mental Capacity Act to consent to such treatment, a full and reasonable explanation as to the meaning and consequences of that treatment, and such person shall certify that he clearly understands the meaning and consequences of that treatment.
 
@@ -172,9 +180,9 @@ shall, unless the person upon whom the treatment has been performed expressly gi
 
 10\. No person shall be under any duty whether by contract or by any statutory or legal requirement to participate in any treatment for sexual sterilization authorised by this Act to which he has a conscientious objection.
 
-11\. [Repealed by Act 26 of 2001 wef 01/09/2001]
+11\. [Repealed by Act 26 of 2001]
 
-12\. [Repealed by Act 28 of 2012 wef 31/12/2012]
+12\. [Repealed by Act 28 of 2012]
 
 ### Regulations
 
@@ -223,3 +231,9 @@ This Legislative History is provided for the convenience of users of the Volunta
 ||Date of commencement|31 December 2012|
 |6.|**2013 Revised Edition—Voluntary Sterilization Act (Chapter 347)**|
 ||Date of operation|30 November 2013|
+|7.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
