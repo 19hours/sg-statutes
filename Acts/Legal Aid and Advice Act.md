@@ -46,7 +46,7 @@
 
 - [18 Appeal by aided persons](#Appeal-by-aided-persons)
 
-- [19 Rules of Court](#Rules-of-Court)
+- [19 Rules regulating practice and procedure of court](#Rules-regulating-practice-and-procedure-of-court)
 
 [**Part III LEGAL ADVICE**](#Part-III)
 
@@ -110,13 +110,9 @@ PRELIMINARY
 
 “guardian”, in relation to a minor, includes any person whom the Director considers might properly be appointed to be the litigation representative of the minor;
 
-“judge”, in relation to proceedings —
+“judge”, in relation to any proceedings, means the person (however described) who decided those proceedings;
 
-(a) in the High Court, includes a Judicial Commissioner;
-
-(b) in a District Court, includes a District Judge; and
-
-(c) in a Magistrate’s Court, includes a Magistrate;
+[Act 27 of 2014 wef 01/10/2014]
 
 “legal aid” means legal aid granted under this Act;
 
@@ -312,7 +308,9 @@ the aided person shall, upon attaining the age of 21 years, make a fresh applica
 
 [6/2013]
 
-(3) Upon the filing in court of such notification, then, unless otherwise ordered by the court before which any proceedings are pending, all steps in the proceedings shall, by virtue of this subsection, be stayed for a period of 14 days and, subject as aforesaid, during such period, time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run.
+(3) Upon the filing in court of such notification, then, unless otherwise ordered by the court before which any proceedings are pending, all steps in the proceedings shall, by virtue of this subsection, be stayed for a period of 14 days and, subject as aforesaid, during such period, time fixed by or under any Act or by or under any Rules of Court, Family Justice Rules or regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 [6/2013]
 
@@ -476,7 +474,7 @@ whichever is the lower.
 
 [6/2013]
 
-(2) Where any notification is so filed, then, unless otherwise ordered by the court before which the proceedings are pending, all steps in the proceedings shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by the court), time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run, except that —
+(2) Where any notification is so filed, then, unless otherwise ordered by the court before which the proceedings are pending, all steps in the proceedings shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by the court), time fixed by or under any Act or by or under any Rules of Court, Family Justice Rules or regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run, except that —
 
 (a) the filing of the notification shall not operate to prevent the making of —
 
@@ -487,6 +485,8 @@ whichever is the lower.
 (iii) any other order which, in the opinion of the court before which proceedings are pending, is necessary to prevent an irremediable injustice; and
 
 (b) unless otherwise ordered by the court before which proceedings are pending, the filing of the notification shall not operate to prevent the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect any such order as is mentioned in paragraph (a) or a decree to the like effect.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 [6/2013]
 
@@ -510,9 +510,29 @@ the aided person must make a fresh application for legal aid to the Director in 
 
 [6/2013]
 
-### Rules of Court
+### Rules regulating practice and procedure of court
 
-19\. Where it is necessary or convenient to do so for carrying out or giving effect to this Act or any regulations made thereunder, the Rules Committee may, under section 80 of the Supreme Court of Judicature Act (Cap. 322), make rules regulating the practice and procedure of any court in which proceedings may be taken by an aided person.
+19\. Where it is necessary or convenient to do so for carrying out or giving effect to this Act or any regulations made thereunder —
+
+(a) the Rules Committee constituted under section 80(3) of the Supreme Court of Judicature Act (Cap. 322) may make under section 80 of that Act rules regulating the practice and procedure of any of the following courts in which proceedings may be taken by an aided person:
+
+(i) the Court of Appeal;
+
+(ii) the High Court (other than the Family Division thereof);
+
+(iii) any District Court;
+
+(iv) any Magistrate’s Court; and
+
+(b) the Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make under section 46 of that Act rules regulating the practice and procedure of any of the following courts in which proceedings may be taken by an aided person:
+
+(i) the Family Division of the High Court;
+
+(ii) any Family Court;
+
+(iii) any Youth Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ## PART III
 
@@ -640,11 +660,15 @@ Description of Proceedings
 
 1\. Proceedings in the High Court and the Court of Appeal.
 
-2\. Proceedings in District Courts and Magistrates’ Courts.
+2. Proceedings in Family Courts, District Courts and Magistrates’ Courts.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 3\. Proceedings before any person to whom a case is referred in whole or in part by the Supreme Court.
 
-4\. Proceedings before any person to whom a case is referred in whole or in part by a District Court.
+4. Proceedings before any person to whom a case is referred in whole or in part by a Family Court or District Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 5\. Proceedings under the Women’s Charter (Cap. 353).
 
@@ -668,7 +692,9 @@ Excepted Proceedings
 
 3\. Any application under the Parliamentary Elections Act (Cap. 218) or the Presidential Elections Act (Cap. 240A).
 
-4\. In a District Court, proceedings for or consequent on the issue of a judgment summons and, in the case of a defendant, proceedings where the only question to be brought before the Court is as to the time or mode of payment by him of a debt (including liquidated damages) and costs.
+4. In a Family Court or District Court, proceedings for or consequent on the issue of a judgment summons and, in the case of a defendant, proceedings where the only question to be brought before the Court is as to the time or mode of payment by him of a debt (including liquidated damages) and costs.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 5. Proceedings incidental to any proceedings mentioned in this Part.
 
@@ -825,19 +851,17 @@ This Legislative History is provided for the convenience of users of the Legal A
 ||Date of commencement|30 October 1964|
 |7.|**L.N. 90/65—Modification of Laws (Legal Aid and Advice) (Singapore) Order 1965**|
 ||Date of commencement|18 March 1965|
-|8.|**1966 Reprint—Legal Aid and Advice Ordinance 1959**|
-||Date of operation|Date not available.|
-|9.|**1970 Revised Edition—Legal Aid and Advice Act (Chapter 9)**|
+|8.|**1970 Revised Edition—Legal Aid and Advice Act (Chapter 9)**|
 ||Date of operation|1 March 1971|
-|10.|**1985 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
+|9.|**1985 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
 ||Date of operation|30 March 1987|
-|11.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+|10.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 February 1993|
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
-|12.|**Act 20 of 1995—Legal Aid and Advice Act 1995**|
+|11.|**Act 20 of 1995—Legal Aid and Advice Act 1995**|
 ||Date of First Reading|15 March 1995|
 |||(Bill No. 15/95 published on 16 March 1995)|
 ||Date of Second and Third Readings|7 July 1995|
@@ -846,35 +870,41 @@ Note:
 
 The Legal Aid and Advice Act 1995 repealed the Legal Aid and Advice Act (Chapter 160, 1985 Revised Edition).
 
-|13.|**1996 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
+|12.|**1996 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
 ||Date of operation|30 April 1996|
-|14.|**G.N. No. S 135/2001—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2001**|
+|13.|**G.N. No. S 135/2001—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2001**|
 ||Date of commencement|1 April 2001|
-|15.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+|14.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|8 March 2004|
-|16.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|15.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (item (12) of the Fifth Schedule — amendment of Legal Aid and Advice Act)|
-|17.|**G.N. No. S 310/2007—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2007**|
+|16.|**G.N. No. S 310/2007—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2007**|
 ||Date of commencement|1 July 2007|
-|18.|**Act 27 of 2010—International Child Abduction Act 2010**|
+|17.|**Act 27 of 2010—International Child Abduction Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 August 2010|
 |||(Bill No. 22/2010 published on 17 August 2010)|
 ||Date of Second and Third Readings|16 September 2010|
 ||Date of commencement|1 March 2011|
-|19.|**Act 6 of 2013—Legal Aid and Advice (Amendment) Act 2013**|
+|18.|**Act 6 of 2013—Legal Aid and Advice (Amendment) Act 2013**|
 ||Date of First Reading|14 January 2013|
 |||(Bill No. 2/2013 published on 14 January 2013)|
 ||Date of Second and Third Readings|4 February 2013|
 ||Date of commencement|1 July 2013|
-|20.|**2014 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
+|19.|**2014 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
 ||Date of operation|30 April 2014|
+|20.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
 ## COMPARATIVE TABLE
 
 Legal Aid and Advice Act
