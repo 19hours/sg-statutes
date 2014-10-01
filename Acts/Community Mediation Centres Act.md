@@ -300,11 +300,13 @@ unless the registrar is satisfied that, having regard to all the circumstances o
 
 “registrar” means —
 
-(a) the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the Supreme Court; and
+(a) the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court, in any case where proceedings are taken in the High Court (other than the Family Division thereof) or the Court of Appeal;
 
-(b) the registrar or a deputy registrar of the State Courts in all cases where proceedings are taken in a State Court.
+(b) the registrar, the deputy registrar or an assistant registrar of the Family Justice Courts, in any case where proceedings are taken in the Family Division of the High Court, a Family Court or a Youth Court; or
 
-[Act 5 of 2014 wef 07/03/2014]
+(c) the registrar or a deputy registrar of the State Courts, in any case where proceedings are taken in a State Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Privilege
 
@@ -420,3 +422,9 @@ This Legislative History is provided for the convenience of users of the Communi
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|8.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
