@@ -180,11 +180,11 @@
 
 - [75 Application of Act to orders made under repealed Minor Offences Ordinance, etc.](#Application-of-Act-to-orders-made-under-repealed-Minor-Offences-Ordinance-etc)
 
-- [76 Power of District Court or Magistrate’s Court to refuse order where High Court proceedings more convenient](#Power-of-District-Court-or-Magistrate’s-Court-to-refuse-order-where-High-Court-proceedings-more-convenient)
+- [76 Power of Family Court to refuse order where High Court proceedings more convenient](#Power-of-Family-Court-to-refuse-order-where-High-Court-proceedings-more-convenient)
 
 - [77 Appeal](#Appeal)
 
-- [78 Powers of High Court](#Powers-of-High-Court)
+- [78 (Repealed)](#Repealed)
 
 - [79 Procedure](#Procedure)
 
@@ -334,7 +334,7 @@
 
 - [134 Evidence](#Evidence)
 
-- [135 Sittings in camera](#Sittings-in-camera)
+- [135 (Repealed)](#Repealed)
 
 - [136 Power to rescind interim judgment in certain cases](#Power-to-rescind-interim-judgment-in-certain-cases)
 
@@ -479,6 +479,16 @@ PRELIMINARY
 “club” means any place which is used by an association of 2 or more persons for any purpose or object;
 
 “Conciliation Officer” means a Conciliation Officer appointed under section 48;
+
+“court” —
+
+(a) for the purposes of sections 13, 17, 20 and 59 and Parts VIII and X, means the High Court or a Family Court;
+
+(b) for the purposes of Part VII, means a Family Court; and
+
+(c) for the purposes of Part IX, means the High Court or a Family Court, and includes the Syariah Court constituted under the Administration of Muslim Law Act (Cap. 3);
+
+[Act 27 of 2014 wef 01/10/2014]
 
 “Deputy Registrar” means a Deputy Registrar of Marriages appointed under section 26;
 
@@ -652,19 +662,29 @@ SOLEMNIZATION OF MARRIAGES
 
 (a) the necessity for the consent of that person shall be dispensed with, if there is any other person whose consent is also required; and
 
-(b) if the consent of no other person is required, the Registrar or the Minister may dispense with the necessity of obtaining any consent, or the High Court may, on application being made, consent to the marriage, and the consent of the High Court so given shall have the same effect as if it had been given by the person whose consent cannot be so obtained.
+(b) if the consent of no other person is required, the Registrar or the Minister may dispense with the necessity of obtaining any consent, or the court may, on application being made, consent to the marriage, and the consent of the court so given shall have the same effect as if it had been given by the person whose consent cannot be so obtained.
 
 [26/80]
 
-(3) If any person whose consent is required refuses his consent, the High Court may, on application being made, consent to the marriage, and the consent of the High Court so given shall have the same effect as if it had been given by the person whose consent is so refused.
+[Act 27 of 2014 wef 01/10/2014]
 
-(4) An application to the High Court under this section shall be made to a judge in chambers.
+(3) If any person whose consent is required refuses his consent, the court may, on application being made, consent to the marriage, and the consent of the court so given shall have the same effect as if it had been given by the person whose consent is so refused.
 
-(5) When an application is made to the High Court in consequence of a refusal to give consent, notice of the application shall be served upon the person who refused to give consent.
+[Act 27 of 2014 wef 01/10/2014]
+
+(4) An application to the court under this section shall be heard in chambers.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(5) When an application is made to the court in consequence of a refusal to give consent, notice of the application shall be served upon the person who refused to give consent.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (6) Notwithstanding anything to the contrary in this Part, consent to the marriage of a minor shall not be necessary if the minor has been previously married.
 
-(7) There shall be no appeal from an order of a judge under this section.
+(7) There shall be no appeal from an order of the court under this section.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Notice of marriage
 
@@ -702,7 +722,9 @@ SOLEMNIZATION OF MARRIAGES
 
 (i) each of the parties is 21 years of age or above, or, if not, is divorced or is a widower or widow or has had his or her previous marriage declared null and void, as the case may be; or
 
-(ii) if either party is a minor who has not been previously married — the consent of the appropriate person mentioned in the Second Schedule has been given in writing, or has been dispensed with, or the consent of the High Court has been given in accordance with section 13;
+(ii) if either party is a minor who has not been previously married — the consent of the appropriate person mentioned in the Second Schedule has been given in writing, or has been dispensed with, or the consent of the court has been given in accordance with section 13;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (c) that neither party is below the age of 18 years;
 
@@ -786,21 +808,29 @@ SOLEMNIZATION OF MARRIAGES
 
 [26/80]
 
-(2) In cases of doubt, it shall be lawful for the Registrar to refer the matter of any caveat referred to in subsection (1) to the High Court which shall decide upon the same.
+(2) In cases of doubt, it shall be lawful for the Registrar to refer the matter of any caveat referred to in subsection (1) to the court which shall decide upon the same.
 
-(3) Where the Registrar has refused to issue the marriage licence, the person applying for the same shall have a right of appeal to the High Court which shall thereupon either confirm the refusal or direct the issue of the marriage licence.
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) Where the Registrar has refused to issue the marriage licence, the person applying for the same shall have a right of appeal to the court which shall thereupon either confirm the refusal or direct the issue of the marriage licence.
 
 [26/80]
 
-(4) The High Court may examine the allegations contained in the caveat in a summary way and may hear evidence in support of and in opposition to the objection.
+[Act 27 of 2014 wef 01/10/2014]
+
+(4) The court may examine the allegations contained in the caveat in a summary way and may hear evidence in support of and in opposition to the objection.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (5) The proceedings under this section shall be before a judge in chambers.
 
 (6) There shall be no appeal from a decision of a judge under this section.
 
-(7) If the Registrar or the High Court declares the grounds of objection to be frivolous and such as ought not to obstruct the issue of the marriage licence, the person entering the caveat shall be liable for the costs of all proceedings relating thereto and for damages to be recovered by suit by the party against whose marriage the caveat was entered.
+(7) If the Registrar or the court declares the grounds of objection to be frivolous and such as ought not to obstruct the issue of the marriage licence, the person entering the caveat shall be liable for the costs of all proceedings relating thereto and for damages to be recovered by suit by the party against whose marriage the caveat was entered.
 
 [26/80]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Special marriage licence
 
@@ -1286,13 +1316,17 @@ shall belong to her in all respects as if she were a feme sole and may be dispos
 
 ### Questions between husband and wife as to property to be decided in summary way
 
-59\.—(1) In any question between husband and wife as to the title to or possession of property, either party may apply by summons or otherwise in a summary way to any Judge of the High Court, and the Judge may make such order with respect to the property in dispute and as to the costs of and consequent on the application as he thinks fit, or may direct the application to stand over, and any inquiry touching the matters in question to be made in such manner as he thinks fit.
+59\.—(1) In any question between husband and wife as to the title to or possession of property, either party may apply by summons or otherwise in a summary way to the court, and the court may make such order with respect to the property in dispute and as to the costs of and consequent on the application as the court thinks fit, or may direct the application to stand over, and any inquiry touching the matters in question to be made in such manner as the court thinks fit.
 
 [16/93]
 
-(2) Any order made under this section shall be subject to appeal in the same way as an order made by the same Judge in an action pending in the High Court.
+[Act 27 of 2014 wef 01/10/2014]
 
-(3) The Judge may, if either party so requires, hear any such application in his chambers.
+(2) The court may, if either party so requires, hear any such application in chambers.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(3) [Deleted by Act 27 of 2014 wef 01/10/2014]
 
 (4) An application may be made under this section by either of the parties to a marriage notwithstanding that their marriage has been dissolved or annulled so long as the application is made within the period of 3 years beginning with the date on which the marriage was dissolved or annulled.
 
@@ -1330,7 +1364,7 @@ PROTECTION OF FAMILY
 
 “applicant” means the person who applies for a protection order or, where the application is made by a person referred to in section 65(10), the child or incapacitated person on whose behalf the application is made;
 
-“court” means a District Court or a Magistrate’s Court;
+[Deleted by Act 27 of 2014 wef 01/10/2014]
 
 “expedited order” means an order made under section 66(1);
 
@@ -1474,13 +1508,17 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 ### Court may order maintenance of wife and children
 
-69\.—(1) Any married woman whose husband neglects or refuses to provide her reasonable maintenance may apply to a District Court or a Magistrate’s Court and that Court may, on due proof thereof, order the husband to pay a monthly allowance or a lump sum for her maintenance.
+69\.—(1) Any married woman whose husband neglects or refuses to provide her reasonable maintenance may apply to the court, and the court may, on due proof thereof, order the husband to pay a monthly allowance or a lump sum for her maintenance.
 
 [30/96]
 
-(2) A District Court or a Magistrate’s Court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) The court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
 
 [30/96]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) An application for the maintenance of a child under subsection (2) may be made by —
 
@@ -1642,9 +1680,11 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 [2/2011 wef 01/06/2011]
 
-(3) A maintenance order made by the High Court may be enforced by a District Court in accordance with subsection (1) as if that order had been made by the District Court, except that a District Court shall have no power to vary an order of the High Court.
+(3) A maintenance order made by the High Court may be enforced by a Family Court in accordance with subsection (1) as if that order had been made by the Family Court, except that a Family Court shall have no power to vary an order of the High Court.
 
 [26/80]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Bankerʼs guarantee
 
@@ -1696,9 +1736,11 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 (b) prescribe the duration within which community service to be performed under a community service order shall be completed; and
 
-(c) make rules, not inconsistent with the provisions of this Part, to make further provisions for the manner in which a community service order may be performed, including the imposition of additional requirements and the service of any instructions or notice on a maintenance defaulter in respect of whom such an order has been made.
+(c) make rules under section 180, not inconsistent with the provisions of this Part, to make further provisions for the manner in which a community service order may be performed, including the imposition of additional requirements and the service of any instructions or notice on a maintenance defaulter in respect of whom such an order has been made.
 
 [2/2011 wef 01/06/2011]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Rescission and variation of order
 
@@ -1720,41 +1762,49 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Application of Act to orders made under repealed Minor Offences Ordinance, etc.
 
-75\.—(1) All orders made under section 37 of the repealed Minor Offences Ordinance (Cap. 24, 1936 Ed.) or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance (Cap. 44, 1955 Ed.) and in force on 15th September 1961 shall be deemed to have been made under this Part by a District Court or a Magistrate’s Court, as the case may be, and the provisions of this Part shall apply to the same accordingly.
+75\.—(1) All orders made under section 37 of the repealed Minor Offences Ordinance (Cap. 24, 1936 Ed.) or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance (Cap. 44, 1955 Ed.) and in force on 15th September 1961 shall be deemed to have been made under this Part by a court, and the provisions of this Part shall apply to the same accordingly.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Upon an application to vary any order made under section 37 of the repealed Minor Offences Ordinance (Cap. 24, 1936 Ed.) or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance (Cap. 44, 1955 Ed.), the court may make under section 72 any order which it could have made upon an application under section 69 or under section 2 of the repealed Married Women and Children (Maintenance) Ordinance.
 
-### Power of District Court or Magistrate’s Court to refuse order where High Court proceedings more convenient
+### Power of Family Court to refuse order where High Court proceedings more convenient
 
-76\.—(1) If in the opinion of the District Court or the Magistrate’s Court the matters in question between the parties or any of them would be more conveniently dealt with by the High Court, the District Court or the Magistrate’s Court may refuse to make an order and in that case there shall be no appeal from its decision.
+76\.—(1) If in the opinion of the Family Court the matters in question between the parties or any of them would be more conveniently dealt with by the High Court, the Family Court may refuse to make an order and in that case there shall be no appeal from its decision.
 
-(2) The High Court or a Judge thereof shall have power, by order in any proceedings in the High Court relating to or comprising the same subject-matter as the application refused or any part thereof under subsection (1), to direct the District Court or the Magistrate’s Court to rehear or determine the same.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) The High Court or a Judge thereof shall have power, by order in any proceedings in the High Court relating to or comprising the same subject-matter as the application refused or any part thereof under subsection (1), to direct the Family Court to rehear or determine the same.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Appeal
 
-77\.—(1) Subject to the provisions of this Part and Part VII, an appeal shall lie from any order or the refusal of any order by a District Court or a Magistrate’s Court under this Part and Part VII to the High Court exercising appellate civil jurisdiction under the provisions of the Supreme Court of Judicature Act (Cap. 322).
+77\.—(1) Subject to the provisions of this Part and Part VII, an appeal shall lie from any order or the refusal of any order by a Family Court under this Part and Part VII to the Family Division of the High Court exercising appellate civil jurisdiction under section 23 of the Family Justice Act 2014.
 
-[30/96]
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) All appeals brought under this section shall be by way of rehearing and the High Court shall have the like powers and jurisdiction on the hearing of such appeals as the Court of Appeal has on the hearing of appeals from the High Court under the Supreme Court of Judicature Act.
 
 [26/80]
 
-(3) No appeal made under the provisions of this Part and Part VII from any order shall operate as a stay of such order unless the High Court or the District Court or the Magistrate’s Court so directs.
+(3) No appeal made under the provisions of this Part and Part VII from any order shall operate as a stay of such order unless the High Court or the Family Court so directs.
 
 [26/80; 30/96]
 
-### Powers of High Court
+[Act 27 of 2014 wef 01/10/2014]
 
-78\. The High Court shall have the jurisdiction and powers which belong to and are exercisable by a District Court or a Magistrate’s Court under this Part.
+78\. [Repealed by Act 27 of 2014 wef 01/10/2014]
 
 ### Procedure
 
-79\.—(1) Except as otherwise provided in the rules made under subsection (1A), all applications to a District Court or a Magistrate’s Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by the District Court or the Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
+79\.—(1) Except as otherwise provided in the rules made under subsection (1A), all applications to a Family Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by a District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
 
 [2/2011 wef 01/06/2011]
 
 [30/96]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (1A) The committee constituted under section 139 may make rules fixing and regulating the practice and procedure of any part of the proceedings under this Part as it deems fit.
 
@@ -1770,7 +1820,7 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Service of summons
 
-79A\.—(1) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), a summons issued against a person by a District Court or Family Court under this Part (except an application made under section 69 or 70) may be served on the person concerned —
+79A\.—(1) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), a summons issued against a person under this Part (except an application made under section 69 or 70) may be served on the person concerned —
 
 (a) by delivering it to the person personally;
 
@@ -1796,6 +1846,8 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 [2/2011 wef 01/06/2011]
 
+[Act 27 of 2014 wef 01/10/2014]
+
 (2) Any summons sent by pre-paid registered post to any person in accordance with subsection (1)(d) shall be deemed to be duly served on the person to whom the summons is addressed at the time when the summons would in the ordinary course of post be delivered.
 
 [2/2011 wef 01/06/2011]
@@ -1812,7 +1864,7 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 80\. In this Part, unless the context otherwise requires —
 
-“court” includes the Syariah Court constituted under the provisions of the Administration of Muslim Law Act (Cap. 3);
+[Deleted by Act 27 of 2014 wef 01/10/2014]
 
 “defendant”, in relation to a maintenance order or a related attachment of earnings order, means the person liable to make payments under the maintenance order;
 
@@ -1848,9 +1900,11 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 [30/96]
 
-(2) A District Court may make an attachment of earnings order to secure payments the defendant is required to make under a maintenance order made by the High Court.
+(2) A Family Court may make an attachment of earnings order to secure payments the defendant is required to make under a maintenance order made by the High Court.
 
 [26/80]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Service of attachment of earnings order
 
@@ -2014,7 +2068,7 @@ DIVORCE
 
 “child of the marriage” means any child of the husband and wife, and includes any adopted child and any other child (whether or not a child of the husband or of the wife) who was a member of the family of the husband and wife at the time when they ceased to live together or at the time immediately preceding the institution of the proceedings, whichever first occurred; and for the purposes of this definition, the parties to a purported marriage that is void shall be deemed to be husband and wife;
 
-“court” means the High Court or a Judge thereof;
+[Deleted by Act 27 of 2014 wef 01/10/2014]
 
 “desertion” implies an abandonment against the wish of the person charging it;
 
@@ -2848,11 +2902,7 @@ GENERAL PROVISIONS
 
 [42/2005]
 
-### Sittings in camera
-
-135\. The whole or any part of any proceedings under this Part may be heard, if the court thinks fit, in camera.
-
-[42/2005]
+135\. [Repealed by Act 27 of 2014 wef 01/10/2014]
 
 ### Power to rescind interim judgment in certain cases
 
@@ -3268,7 +3318,9 @@ may, by warrant under the hand of the Director, be ordered to be removed to a pl
 
 ### Women and girls detained to be subject to rules
 
-169\.—(1) Every woman or girl detained under this Part shall be subject to such rules as are prescribed.
+169\.—(1) Every woman or girl detained under this Part shall be subject to such rules as are made under section 180.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Every woman or girl detained or ordered to be detained under this Part who leaves any place in which she is detained otherwise than in accordance with such rules may be arrested and taken back to such place by any police officer or by any officer duly authorised thereto either specially or generally by the Director.
 
@@ -3864,3 +3916,7 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 23/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013|
+|25.|**Act 27 of 2014—Family Justice Act 2014**|
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
