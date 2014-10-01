@@ -84,7 +84,7 @@
 
 [**Allocation of Proceedings**](#Allocation-of-Proceedings)
 
-- [28A Allocation of proceedings to District Court](#Allocation-of-proceedings-to-District-Court)
+- [28A Allocation of proceedings to District Court or Family Court](#Allocation-of-proceedings-to-District-Court-or-Family-Court)
 
 [**Further Arguments**](#Further-Arguments)
 
@@ -280,6 +280,14 @@ PRELIMINARY
 
 “court” means a court established by this Act;
 
+“Family Division of the High Court” means the Family Division of the High Court constituted under section 4 of the Family Justice Act 2014;
+
+[Act 27 of 2014 wef 01/10/2014]
+
+“Family Justice Rules” means the Family Justice Rules made under the Family Justice Act 2014 and any other written law by the Family Justice Rules Committee constituted under section 46(1) of that Act;
+
+[Act 27 of 2014 wef 01/10/2014]
+
 “Judge” means a Judge of the High Court and includes the Chief Justice and any person appointed to exercise the powers of a Judge;
 
 “Judge of Appeal” includes the Chief Justice and a Judge of the High Court sitting as a judge of the Court of Appeal under section 29(3);
@@ -292,11 +300,13 @@ PRELIMINARY
 
 “seal” includes stamp;
 
-“subordinate court” means a court constituted under the State Courts Act (Cap. 321) and any other court, tribunal or judicial or quasi-judicial body from the decisions of which under any written law there is a right of appeal to the Supreme Court.
+“subordinate court” means a court constituted under the State Courts Act (Cap. 321), a Family Court or Youth Court constituted under the Family Justice Act 2014, and any other court, tribunal or judicial or quasi-judicial body from the decisions of which under any written law there is a right of appeal to the Supreme Court.
 
 [58/73; 16/93; 3/96]
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ## PART II
 
@@ -396,7 +406,9 @@ General
 
 10\.—(1) Every proceeding in the High Court and all business arising thereout shall, except as otherwise provided by any written law for the time being in force, be heard and disposed of before a single Judge.
 
-(2) A Judge may, subject to Rules of Court, exercise in court or in chambers all or any part of the jurisdiction vested in the High Court, in all such causes and matters and in all such proceedings in any causes or matters as might immediately before 9th January 1970 have been heard in court or in chambers respectively by a single Judge, or as may be directed or authorised to be so heard by Rules of Court for the time being in force.
+(2) A Judge may, subject to Rules of Court or Family Justice Rules, exercise in court or in chambers all or any part of the jurisdiction vested in the High Court, in all such causes and matters and in all such proceedings in any causes or matters as might immediately before 9th January 1970 have been heard in court or in chambers respectively by a single Judge, or as may be directed or authorised to be so heard by Rules of Court or Family Justice Rules for the time being in force.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) A Judge of Appeal may sit in the High Court and act as a Judge thereof whenever the business of the High Court so requires, in which case he shall have all the jurisdiction, powers and privileges of such a Judge.
 
@@ -408,27 +420,41 @@ General
 
 (5) No Judge shall sit in the High Court on the hearing of, or determine any application in proceedings incidental or preliminary to —
 
-(a) an appeal from a judgment or an order made by him as the Presiding Judge of the State Courts;
+(a) an appeal from a judgment or an order made by him as the Presiding Judge of the State Courts or the Presiding Judge of the Family Justice Courts;
 
-(b) an appeal against a conviction before him or a sentence passed by him as the Presiding Judge of the State Courts;
+[Act 27 of 2014 wef 01/10/2014]
 
-(c) the consideration of any case stated by him under section 395 of the Criminal Procedure Code (Cap. 68) as the Presiding Judge of the State Courts;
+(b) an appeal against a conviction before him or a sentence passed by him as the Presiding Judge of the State Courts or the Presiding Judge of the Family Justice Courts;
 
-(d) any application made under section 400 of the Criminal Procedure Code in relation to any judgment or order made, or sentence passed, by him as the Presiding Judge of the State Courts; or
+[Act 27 of 2014 wef 01/10/2014]
 
-(e) any proceedings relating to any judgment, order or direction made by him as the Presiding Judge of the State Courts.
+(c) the consideration of any case stated by him under section 395 of the Criminal Procedure Code (Cap. 68) as the Presiding Judge of the State Courts or the Presiding Judge of the Family Justice Courts;
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(d) any application made under section 400 of the Criminal Procedure Code in relation to any judgment or order made, or sentence passed, by him as the Presiding Judge of the State Courts or the Presiding Judge of the Family Justice Courts; or
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(e) any proceedings relating to any judgment, order or direction made by him as the Presiding Judge of the State Courts or the Presiding Judge of the Family Justice Courts.
 
 [Act 5 of 2014 wef 14/04/2014]
 
+[Act 27 of 2014 wef 01/10/2014]
+
 ### Assessors to assist High Court
 
-10A\.—(1) In any proceedings before the High Court, the Court may, if it thinks fit on the application of any party, or on its own motion, summon to its assistance, in such manner as may be prescribed by Rules of Court, one or more persons of skill and experience in the matter to which the proceedings relate who may be willing to sit with the Court and act as assessors.
+10A\.—(1) In any proceedings before the High Court, the Court may, if it thinks fit on the application of any party, or on its own motion, summon to its assistance, in such manner as may be prescribed by Rules of Court or Family Justice Rules, one or more persons of skill and experience in the matter to which the proceedings relate who may be willing to sit with the Court and act as assessors.
 
 [16/93]
 
-(2) Subject to subsection (3), the remuneration of assessors for sitting under this section shall be at such rate as may be prescribed by Rules of Court and shall be costs in the proceedings unless otherwise ordered by the High Court.
+[Act 27 of 2014 wef 01/10/2014]
+
+(2) Subject to subsection (3), the remuneration of assessors for sitting under this section shall be at such rate as may be prescribed by Rules of Court or Family Justice Rules and shall be costs in the proceedings unless otherwise ordered by the High Court.
 
 [16/93]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) Where one or more assessors are summoned for the purposes of this section otherwise than on the application of a party to the proceedings, the remuneration of any such assessor shall be payable out of moneys provided by Parliament.
 
@@ -512,9 +538,13 @@ Original Jurisdiction
 
 (a) the defendant is served with a writ of summons or any other originating process —
 
-(i) in Singapore in the manner prescribed by Rules of Court; or
+(i) in Singapore in the manner prescribed by Rules of Court or Family Justice Rules; or
 
-(ii) outside Singapore in the circumstances authorised by and in the manner prescribed by Rules of Court; or
+[Act 27 of 2014 wef 01/10/2014]
+
+(ii) outside Singapore in the circumstances authorised by and in the manner prescribed by Rules of Court or Family Justice Rules; or
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (b) the defendant submits to the jurisdiction of the High Court.
 
@@ -612,9 +642,11 @@ Original Jurisdiction
 
 [16/93]
 
-(3) The powers referred to in subsection (2) shall be exercised in accordance with any written law or Rules of Court relating to them.
+(3) The powers referred to in subsection (2) shall be exercised in accordance with any written law, Rules of Court or Family Justice Rules relating to them.
 
 [16/93]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Appellate Jurisdiction of the High Court
 
@@ -622,15 +654,29 @@ Appellate Jurisdiction of the High Court
 
 19\. The appellate criminal jurisdiction of the High Court shall consist of —
 
-(a) the hearing of appeals from District Courts or Magistrates’ Courts before one or more Judges according to the provisions of the law for the time being in force relating to criminal procedure; and
+(a) the hearing of appeals from District Courts or Magistrates’ Courts before one or more Judges according to the provisions of the law for the time being in force relating to criminal procedure;
 
-(b) the hearing of points of law reserved by special cases submitted by a District Court or Magistrate’s Court before one or more Judges according to the provisions of the law for the time being in force relating to criminal procedure.
+[Act 27 of 2014 wef 01/10/2014]
+
+(b) the hearing of points of law reserved by special cases submitted by a District Court or Magistrate’s Court before one or more Judges according to the provisions of the law for the time being in force relating to criminal procedure;
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(c) the hearing of appeals from Family Courts when exercising criminal jurisdiction; and
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(d) the hearing of appeals from Youth Courts.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Appellate civil jurisdiction
 
 20\. The appellate civil jurisdiction of the High Court shall consist of —
 
-(a) [Deleted by Act 30/2010 wef 01/01/2011]
+(a) the hearing of appeals from Family Courts when exercising jurisdiction of a quasi-criminal or civil nature;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (b) the hearing of appeals from District Courts and Magistrates’ Courts when exercising jurisdiction of a quasi-criminal or civil nature; and
 
@@ -708,11 +754,13 @@ Supervisory and Revisionary Jurisdiction
 
 Allocation of Proceedings
 
-### Allocation of proceedings to District Court
+### Allocation of proceedings to District Court or Family Court
 
-28A\.—(1) The Chief Justice may, where he considers it necessary or expedient to improve efficiency in the administration of justice and to provide for more speedy disposal of proceedings commenced in the High Court, by order direct such class or classes or description of proceedings as may be specified in the order to be heard and determined by the District Court.
+28A\.—(1) The Chief Justice may, where he considers it necessary or expedient to improve efficiency in the administration of justice and to provide for more speedy disposal of proceedings commenced in the High Court, by order direct such class or classes or description of proceedings as may be specified in the order to be heard and determined by the District Court or Family Court.
 
 [16/93]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Notwithstanding any other written law, any order under subsection (1) —
 
@@ -720,13 +768,23 @@ Allocation of Proceedings
 
 (i) any proceedings specified in the order which, but for the order, the District Court would not have jurisdiction to hear and determine by reason only of the fact that the amount involved exceeds the monetary limit of its jurisdiction; or
 
-(ii) any proceedings relating to any of the matters referred to in section 17(a) to (e);
+(ii) any proceedings relating to any of the matters referred to in section 17(b) or (c);
 
-(b) may make such provision governing appeals relating to proceedings transferred to the District Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
+[Act 27 of 2014 wef 01/10/2014]
 
-(c) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+(aa) may confer jurisdiction on a Family Court to hear and determine any proceedings specified in the order which, but for the order, the Family Court would not have jurisdiction to hear and determine;
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(b) may make such provision governing appeals relating to proceedings transferred to the District Court or Family Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(c) may make such incidental provision for the transfer of the proceedings to the District Court or Family Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
 [16/93; 36/2004]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Further Arguments
 
@@ -955,6 +1013,14 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
 [43/98]
+
+(4) Subsections (1) and (2) shall not apply to any decision, judgment or order of the Family Division of the High Court.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+(5) Except with the leave of the Court of Appeal, or of a Judge of the Family Division of the High Court, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction referred to in section 23 of the Family Justice Act 2014.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Applications
 
@@ -1217,6 +1283,10 @@ List of Touts
 (5) The decision of the Judge in chambers shall be final.
 
 (6) A copy of the list shall be kept hung up in the Registry and shall be published in theGazette.
+
+(7) A person whose name appears in the list of touts under section 39 of the Family Justice Act 2014, or the list of touts under section 62 of the State Courts Act (Cap. 321), shall be deemed to be included in the list under this section, and vice versa.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Vexatious litigants
 
@@ -1490,7 +1560,9 @@ Time
 
 Enforcement of judgment
 
-8\. Power to enforce a judgment of the court in any manner which may be prescribed by any written law or by Rules of Court made under this Act.
+8. Power to enforce a judgment of the court in any manner which may be prescribed by any written law or by Rules of Court or Family Justice Rules.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Stay of proceedings
 
@@ -1498,7 +1570,9 @@ Stay of proceedings
 
 Transfer of proceedings
 
-10\. Power to transfer any proceedings to any other court or to or from any subordinate court, and in the case of transfer to or from a subordinate court to give any directions as to the further conduct thereof, except that this power shall be exercised in such manner as may be prescribed by Rules of Court.
+10. Power to transfer any proceedings to any other court or to or from any subordinate court, and in the case of transfer to or from a subordinate court to give any directions as to the further conduct thereof, except that this power shall be exercised in such manner as may be prescribed by Rules of Court or Family Justice Rules.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Set-off
 
@@ -1506,7 +1580,9 @@ Set-off
 
 Discovery and interrogatories
 
-12\. Power before or after any proceedings are commenced to order discovery of facts or documents by any party to the proceedings or by any other person in such manner as may be prescribed by Rules of Court.
+12. Power before or after any proceedings are commenced to order discovery of facts or documents by any party to the proceedings or by any other person in such manner as may be prescribed by Rules of Court or Family Justice Rules.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Costs
 
@@ -1537,6 +1613,22 @@ Ordering medical examination
 19. Power to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.
 
 [16/93; 42/2005]
+
+Examination and assessment of child, etc.
+
+20. Power, in any proceedings involving the custody or welfare of a child or involving a person —
+
+(a) to appoint a registered medical practitioner, psychologist, counsellor, social worker or mental health professional to examine and assess the child or person (as the case may be) for the purposes of preparing expert evidence for use in those proceedings; and
+
+(b) to prohibit from being adduced in those proceedings any evidence arising out of an examination or assessment of the child or person by any person who is not so appointed.
+
+[Act 27 of 2014 wef 01/10/2014]
+
+Ordering mediation, counselling or participation in family support programme or activity
+
+21. Power to order any party to any proceedings, or any child who is a subject of those proceedings, to undergo such mediation or counselling, or to participate in such family support programme or activity (that is to say, any programme or activity carried out for the purpose of addressing or resolving any relationship issue or relationship problem between spouses or former spouses, between siblings or between parent and child), as the court may direct.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 SECOND SCHEDULE
 
@@ -1838,6 +1930,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Dates of commencement|14 April 2014 (section 11(7)(b) and (c) — amendment of Supreme Court of Judicature Act)|
+|31.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Dates of commencement|1 October 2014 (except section 74(e) and (m) to (p) — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
