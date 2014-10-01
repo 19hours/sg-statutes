@@ -46,13 +46,17 @@ An Act relating to the disposition of estates of deceased persons and for other 
 
 “annual income” means, in relation to the net estate of a deceased person, the income that the net estate might be expected at the date of the order made under this Act, when realised, to yield in a year;
 
+“court” means the High Court or a Family Court;
+
+[Act 27 of 2014 wef 01/10/2014]
+
 “death duties” means estate duty and every other duty leviable or payable on death;
 
 “net estate” means all the property of which a deceased person had power to dispose by his will (otherwise than by virtue of a special power of appointment) less the amount of his funeral, testamentary and administration expenses, debts and liabilities and estate duty payable out of his estate on his death;
 
-“Registrar” means the Registrar or the Deputy Registrar of the Supreme Court in all cases where proceedings are taken in the High Court and means the Registrar or Deputy Registrar of the State Courts where proceedings are taken in a District Court;
+“Registrar” means the registrar of the Family Justice Courts;
 
-[Act 5 of 2014 wef 07/03/2014]
+[Act 27 of 2014 wef 01/10/2014]
 
 “will” includes any codicil or other testamentary document;
 
@@ -160,3 +164,9 @@ This Legislative History is provided for the convenience of users of the Inherit
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|5.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
