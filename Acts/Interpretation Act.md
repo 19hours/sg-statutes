@@ -232,6 +232,14 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, sea or air;
 
+“Family Court” means a Family Court constituted under section 5 of the Family Justice Act 2014;
+
+[Act 27 of 2014 wef 01/10/2014]
+
+“Family Justice Rules” means the Family Justice Rules made under the Family Justice Act 2014 and any other written law by the Family Justice Rules Committee constituted under section 46(1) of that Act;
+
+[Act 27 of 2014 wef 01/10/2014]
+
 “Gazette” or “GovernmentGazette” means theGazettepublished in electronic or other form by order of the Government and includes any supplement thereto and anyGazetteExtraordinary so published;
 
 “Government” means the Government of Singapore;
@@ -354,7 +362,13 @@ words in the singular include the plural and words in the plural include the sin
 
 “Yang di-Pertuan Agong” means the Yang di-Pertuan Agong or Supreme Head of Malaysia and includes the Deputy Supreme Head of Malaysia or a Ruler of a Malay State, whenever he is lawfully exercising the functions of the Yang di-Pertuan Agong;
 
-“year” means a year reckoned according to the Gregorian calendar.
+“year” means a year reckoned according to the Gregorian calendar;
+
+[Act 27 of 2014 wef 01/10/2014]
+
+“Youth Court” means a Youth Court constituted under section 5 of the Family Justice Act 2014.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 [14/69; 11/91; 16/93; 7/97; 25/98; 28/2000]
 
@@ -1202,6 +1216,12 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014 (Item (1) in the Schedule)|
+|22.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
 ## COMPARATIVE TABLE
 
 Interpretation Act
