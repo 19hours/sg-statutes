@@ -150,9 +150,7 @@
 
 - [54G Costs in cases transferred from one court to another](#Costs-in-cases-transferred-from-one-court-to-another)
 
-[**Jurisdiction of Juvenile Courts**](#Jurisdiction-of-Juvenile-Courts)
-
-- [55 Jurisdiction of Juvenile Courts](#Jurisdiction-of-Juvenile-Courts)
+- [55 (Repealed)](#Repealed)
 
 - [56 (Repealed)](#Repealed)
 
@@ -276,7 +274,7 @@ CONSTITUTION
 
 (b) Magistrates’ Courts;
 
-(c) Juvenile Courts;
+(c) [Deleted by Act 27 of 2014 wef 01/10/2014]
 
 (d) Coroners’ Courts;
 
@@ -528,11 +526,13 @@ APPOINTMENTS, POWERS AND DUTIES
 
 [Act 5 of 2014 wef 07/03/2014]
 
-(2) The oath referred to in subsection (1) may be taken and subscribed before the Presiding Judge of the State Courts or a Judge of the Supreme Court.
+(2) The oath referred to in subsection (1) may be taken and subscribed before the Presiding Judge of the State Courts, the Presiding Judge of the Family Justice Courts or a Judge or Judicial Commissioner of the Supreme Court.
 
 [Act 5 of 2014 wef 14/04/2014]
 
 [4/2010 wef 17/02/2010]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (3) Where the oath is taken before the Presiding Judge of the State Courts, he shall —
 
@@ -545,6 +545,16 @@ APPOINTMENTS, POWERS AND DUTIES
 (b) transmit a certified copy of the entry to the Registrar of the Supreme Court.
 
 [Act 5 of 2014 wef 14/04/2014]
+
+(4) Where the oath is taken before the Presiding Judge of the Family Justice Courts, he shall —
+
+(a) enter in the record of the Family Justice Courts that the oath was duly administered and taken before him;
+
+(b) transmit a certified copy of the entry to the Registrar of the Supreme Court; and
+
+(c) transmit a certified copy of the entry to the Presiding Judge of the State Courts.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Appointments and revocations to be gazetted
 
@@ -586,9 +596,11 @@ Civil Jurisdiction of District Courts
 
 (iv) an Order for Review of Detention;
 
-(c) any jurisdiction vested exclusively in the High Court, in any other State Court, or in any judicial, quasi-judicial or administrative tribunal, by written law; and
+(c) any jurisdiction vested exclusively in the High Court, in a Family Court, in a Youth Court, in any other State Court, or in any judicial, quasi-judicial or administrative tribunal, by written law; and
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (d) any jurisdiction expressly excluded by written law.
 
@@ -602,9 +614,7 @@ Civil Jurisdiction of District Courts
 
 [31/2010 wef 01/01/2011]
 
-(5) A District Court’s jurisdiction to hear and try any civil proceeding which comes within the jurisdiction of the Syariah Court constituted under the Administration of Muslim Law Act (Cap. 3) shall be the same as the High Court as if section 17A of the Supreme Court of Judicature Act (Cap. 322) applies to the District Court with the modification that any reference therein to the High Court shall be read as a reference to a District Court.
-
-[20/99]
+(5) [Deleted by Act 27 of 2014 wef 01/10/2014]
 
 (6) Without prejudice to the generality of subsection (2), a District Court shall have such jurisdiction as is vested in it by any other written law.
 
@@ -668,7 +678,7 @@ Transfer of counterclaim from District Court to High Court
 
 (d) proceedings for the specific performance, or for the rectification, delivery up or cancellation of any agreement for the sale, purchase or lease of any property, where, in the case of a sale or purchase, the purchase money or, in the case of a lease, the amount or value of the property does not exceed the District Court limit;
 
-(e) proceedings relating to the maintenance or advancement of an infant, where the amount or value of the property of the infant does not exceed the District Court limit;
+(e) [Deleted by Act 27 of 2014 wef 01/10/2014]
 
 (f) proceedings for the dissolution or winding up of any partnership (other than a limited liability partnership registered under the Limited Liability Partnerships Act 2005), whether or not the existence of the partnership is in dispute, where the amount or value of all the assets of the partnership does not exceed the District Court limit;
 
@@ -1162,11 +1172,7 @@ the costs of the whole proceedings both before and after the transfer shall, sub
 
 [Act 5 of 2014 wef 07/03/2014]
 
-Jurisdiction of Juvenile Courts
-
-### Jurisdiction of Juvenile Courts
-
-55\. A Juvenile Court shall have the jurisdiction and powers conferred on it by the Children and Young Persons Act (Cap. 38).
+55\. [Repealed by Act 27 of 2014 wef 01/10/2014]
 
 56\. [Repealed by Act 14/2010 wef 02/01/2011]
 
@@ -1268,7 +1274,9 @@ ADMINISTRATION
 
 [Act 5 of 2014 wef 07/03/2014]
 
-(7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act (Cap. 322) shall be deemed to be included in the list under this section, and vice versa.
+(7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act (Cap. 322), or the list of touts under section 39 of the Family Justice Act 2014, shall be deemed to be included in the list under this section, and vice versa.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Impounding documents
 
@@ -1617,6 +1625,10 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|14 April 2014|
+|27.|**Act 27 of 2014—Family Justice Act 2014**|
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
 ## COMPARATIVE TABLE
 
 State Courts Act
