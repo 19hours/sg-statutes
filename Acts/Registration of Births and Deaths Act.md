@@ -108,7 +108,11 @@ words referring to burial of bodies shall be held to include burning of bodies.
 
 3\.—(1) The Minister may appoint, by name or office, a Registrar-General of Births and Deaths who shall be responsible for carrying out the provisions of this Act and shall have general charge and supervision of all registers kept and of all matters done or performed under this Act.
 
+[Act 7/1997 wef 01/10/1997]
+
 (2) The Minister may appoint, by name or office, a registrar for each local registration area with such supervising deputy registrars, deputy registrars, clerks and subordinate officers as he may think necessary for the purpose of performing the several duties prescribed by this Act.
+
+[Act 7/1997 wef 01/10/1997]
 
 (3) The limits of each local registration area shall be such as may be from time to time declared by notification in theGazetteand shall, unless otherwise provided, be deemed to include the territorial waters of Singapore adjacent thereto.
 
@@ -218,11 +222,15 @@ Provided that the Registrar-General may impose and order to be paid to him forth
 
 (4) The amount of any penalty imposed under the proviso to subsection (2) may be recovered in the manner provided by section 319(1)(b)(iii) of the Criminal Procedure Code 2010, as if it were a fine.
 
+[Act 15/2010 wef 02/01/2011]
+
 ### Still births
 
 14\. In the case of every still birth it shall, unless there has been an inquest, be the duty of the person who would, if the child had been born alive, have been required by section 9 to give information concerning the birth, to give information within 14 days after the still birth has taken place to any deputy registrar of the local registration area in which the still birth occurred of the particulars required to be registered concerning the still birth and every such person on giving information shall either —
 
 (a) deliver to the deputy registrar a written certificate in the prescribed form that the child was not born alive, signed by a medical practitioner or a registered midwife within the meaning of the Nurses and Midwives Act 1999 who was in attendance at the birth, or by a medical practitioner who has examined the body of the child; or
+
+[Act 46/1999 wef 01/05/2000]
 
 (b) make a declaration in the prescribed form to the effect that no medical practitioner or registered midwife was present at the birth, or that no medical practitioner has examined the body, or that a certificate as required in paragraph (a) cannot be obtained and that the child was not born alive.
 
@@ -354,13 +362,15 @@ Provided that this subsection shall not apply to any copy or extract of any entr
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) 
+(2)(a) Any person who wilfully or carelessly destroys, injures, mutilates, defaces, or loses any register used for the purpose of this Act;
 
-(a) Any person who wilfully or carelessly destroys, injures, mutilates, defaces, or loses any register used for the purpose of this Act;
+(b)
 
-(b) any registrar or deputy registrar who refuses or omits without reasonable cause, the proof of which shall rest with the person accused, to register or record any birth or death, within his area of which he has notice or knowledge; or
+any registrar or deputy registrar who refuses or omits without reasonable cause, the proof of which shall rest with the person accused, to register or record any birth or death, within his area of which he has notice or knowledge; or
 
-(c) any registrar who carelessly or wilfully allows any register to be destroyed, injured, mutilated, defaced or lost while in his custody or keeping,
+(c)
+
+any registrar who carelessly or wilfully allows any register to be destroyed, injured, mutilated, defaced or lost while in his custody or keeping,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -372,11 +382,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 28\. No prosecution for any offence under this Act shall be instituted except with the consent of the Public Prosecutor, the Registrar-General, a registrar or a supervising deputy registrar.
 
+[15/2010 wef 02/01/2011]
+
 ### Rules
 
 29\.—(1) The Minister may make rules in respect of all or any of the following matters:
 
-(a) the form of the registers and the manner in which the registers are to be kept.
+(a) the form of the registers and the manner in which the registers are to be kept;
 
 (b) the forms of any certificates, notices, or other documents required for the purpose of carrying out this Act;
 
@@ -387,6 +399,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (e) the custody of the registers and other documents connected with the business of registration;
 
 (f) any other matters which are required to be prescribed as to which it is expedient to make rules for carrying into effect the objects of this Act.
+
+(1A) Without prejudice to the generality of subsection (1), the Minister may make rules for the registration or re‑registration, as the case may be, of the birth of a child to whom the Status of Children (Assisted Reproduction Technology) Act 2013 applies, including the particulars of the parents of the child and the legitimation of the child under that Act.
+
+[Act 16 of 2013 wef 01/10/2014]
 
 (2) Such rules shall be published in theGazette.
 
@@ -400,7 +416,7 @@ Registration of Births and Deaths Act
 
 (CHAPTER 267)
 
-This Legislative History is provided for the convenience of users of the Registration of Births and Deaths Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Registration of Births and Deaths Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -469,3 +485,8 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|20.|**Act 16 of 2013—Status of Children (Assisted Reproduction Technology) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2013 (Bill No. 12/2013 published on 8 July 2013)|
+||Date of Second and Third Readings|12 August 2013|
+||Date of commencement|1 October 2014|
