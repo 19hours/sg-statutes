@@ -36,7 +36,7 @@
 
 - [13 When contract deemed to be broken by employer and employee](#When-contract-deemed-to-be-broken-by-employer-and-employee)
 
-- [14 Misconduct of employeeDismissal](#Misconduct-of-employeeDismissal)
+- [14 Dismissal](#Dismissal)
 
 - [15 Termination by employee threatened by danger](#Termination-by-employee-threatened-by-danger)
 
@@ -184,7 +184,7 @@
 
 - [74 Offence](#Offence)
 
-- [75 Power of Juvenile Court in respect of children or young persons requiring care or protection](#Power-of-Juvenile-Court-in-respect-of-children-or-young-persons-requiring-care-or-protection)
+- [75 Power of Youth Court in respect of children or young persons requiring care or protection](#Power-of-Youth-Court-in-respect-of-children-or-young-persons-requiring-care-or-protection)
 
 [**Part IX MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT**](#Part-IX)
 
@@ -350,9 +350,9 @@
 
 [**FIRST SCHEDULE Workmen**](#FIRST-SCHEDULE-Workmen)
 
-[**SECOND SCHEDULE Registration Fee**](#SECOND-SCHEDULE-Registration-Fee)
+[**SECOND SCHEDULE Registration fee**](#SECOND-SCHEDULE-Registration-fee)
 
-[**THIRD SCHEDULE Calculation of Gross and Basic Rates of Pay of An Employee Employed on A Monthly Rate or on Piece Rates**](#THIRD-SCHEDULE-Calculation-of-Gross-and-Basic-Rates-of-Pay-of-An-Employee-Employed-on-A-Monthly-Rate-or-on-Piece-Rates)
+[**THIRD SCHEDULE Calculation of gross and basic rates of pay of an employee employed on a monthly rate or on piece rates**](#THIRD-SCHEDULE-Calculation-of-gross-and-basic-rates-of-pay-of-an-employee-employed-on-a-monthly-rate-or-on-piece-rates)
 
 [**FOURTH SCHEDULE Employee’s hourly basic rate of pay for calculation of payment due for overtime**](#FOURTH-SCHEDULE-Employee’s-hourly-basic-rate-of-pay-for-calculation-of-payment-due-for-overtime)
 
@@ -574,7 +574,7 @@ Provided that when any person is employed by any one employer partly as a workma
 
 Invalidity of contract of service
 
-7\. [Repealed byAct 32 of 2008]
+7\. [Repealed by Act 32 of 2008]
 
 ## PART II
 
@@ -864,17 +864,15 @@ PAYMENT OF SALARY
 
 the salary due to him for that month shall be calculated in accordance with the following formula:
 
-___
-
-Monthly gross rate of pay__
-
-Number of days on which the
-employee is required to work
-in that month
+Monthly gross rate of pay
 
 x
 
 Number of days the employee actually worked in that month.
+
+Number of days on which the
+employee is required to work
+in that month
 
 [36/95]
 
@@ -1280,7 +1278,7 @@ the employer shall display the order or a copy thereof conspicuously in the plac
 
 Holidays
 
-42\. [Repealed byAct 32 of 2008]
+42\. [Repealed by Act 32 of 2008]
 
 ### Annual leave
 
@@ -1318,7 +1316,7 @@ Holidays
 
 Sick Leave
 
-44\. [Repealed byAct 32 of 2008]
+44\. [Repealed by Act 32 of 2008]
 
 ### Payment of retrenchment benefit
 
@@ -1398,7 +1396,7 @@ Sick Leave
 
 Interpretation of “ordinary rate of pay”
 
-51\. [Repealed byAct 36 of 1995]
+51\. [Repealed by Act 36 of 1995]
 
 ### Power to suspend application of Part IV
 
@@ -1410,11 +1408,13 @@ Interpretation of “ordinary rate of pay”
 
 [21/84; 32/2008]
 
-(2) [Deleted byAct 32 of 2008]
+(2) [Deleted by Act 32 of 2008]
 
 (3) Notwithstanding subsection (1) —
 
 (a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in section 43; and
+
+[4/2010 wef 05/02/2010]
 
 (b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in section 43.
 
@@ -1466,7 +1466,7 @@ TRUCK SYSTEM
 
 Proceedings may be taken against actual offender
 
-62\. [Repealed byAct 32 of 2008]
+62\. [Repealed by Act 32 of 2008]
 
 ### Payment of salary through bank
 
@@ -1636,9 +1636,11 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 [32/2008]
 
-### Power of Juvenile Court in respect of children or young persons requiring care or protection
+### Power of Youth Court in respect of children or young persons requiring care or protection
 
-75\. A child or young person in respect of whom any of the offences mentioned in this Part has been committed may be brought before a Juvenile Court and the Court, if satisfied that the child or young person requires care or protection, may exercise with respect to that child or young person all or any of the powers conferred by section 49 of the Children and Young Persons Act (Cap. 38).
+75\. A child or young person in respect of whom any of the offences mentioned in this Part has been committed may be brought before a Youth Court and the Court, if satisfied that the child or young person requires care or protection, may exercise with respect to that child or young person all or any of the powers conferred by section 49 of the Children and Young Persons Act (Cap. 38).
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ## PART IX
 
@@ -2153,7 +2155,13 @@ shall be deemed to have absented himself from work without the permission of his
 
 HEALTH, ACCOMMODATION AND MEDICAL CARE
 
-[91. to 94. [Repealed byAct 32 of 2008]
+91\. [Repealed by Act 32 of 2008]
+
+92\. [Repealed by Act 32 of 2008]
+
+93\. [Repealed by Act 32 of 2008]
+
+94\. [Repealed by Act 32 of 2008]
 
 ## PART XII
 
@@ -2211,7 +2219,7 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 Service of requisitions
 
-100\. [Repealed byAct 32 of 2008]
+100\. [Repealed by Act 32 of 2008]
 
 ### Offence
 
@@ -2595,8 +2603,6 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 but shall not be represented by an advocate or solicitor or a paid agent.
 
-[36/2010 wef 01/02/2011]
-
 ### Joining of claims
 
 121\.—(1) In proceedings under this Part where it appears to the Commissioner that there are more employees or subcontractors for labour than one having a common claim or similar claims against the same employer or person liable, it shall not be necessary for each of them to make a separate claim under this Part, but the Commissioner may, if he thinks fit, permit one or more of them to lodge a memorandum or make a claim and to attend and act on behalf of and generally to represent the others, and the Commissioner may proceed to adjudicate on the several or joint claim of each and every such employee or subcontractor for labour.
@@ -2785,15 +2791,19 @@ SECOND SCHEDULE
 
 Sections 118 and 119
 
-Registration Fee
+Registration fee
 
 The registration fee payable by any person making a claim with the Commissioner for Labour shall be as follows:
 
-(a) where the claim is made by an employee ...
+(a)
+
+where the claim is made by an employee ...
 
 $3
 
-(b) where the claim is made by an employer ...
+(b)
+
+where the claim is made by an employer ...
 
 $20.
 
@@ -2801,7 +2811,7 @@ THIRD SCHEDULE
 
 Section 107A
 
-Calculation of Gross and Basic Rates of Pay of An Employee Employed on A Monthly Rate or on Piece Rates
+Calculation of gross and basic rates of pay of an employee employed on a monthly rate or on piece rates
 
 First column
 
@@ -2875,14 +2885,6 @@ The gross rate of pay for one day is to be calculated according to the following
 
 The basic rate of pay for one day is to be calculated according to the following formula:
 
-12 x monthly gross rate of pay
-
-12 x monthly basic rate of pay
-
-52 x number of days on which the employee is required to work in a week.
-
-52 x number of days on which the employee is required to work in a week.
-
 3.
 
 Where an employee is employed on a monthly rate of pay and is required under his contract of service to work on a certain number of days in one week and on a different number of days in the following week in every period of 2 consecutive weeks.
@@ -2891,14 +2893,6 @@ The gross rate of pay for one day is to be calculated according to the following
 
 The basic rate of pay for one day is to be calculated according to the following formula:
 
-12 x monthly gross rate of pay
-
-12 x monthly basic rate of pay
-
-52 x average number of days on which the employee is required to work in a week over any period of 2 consecutive weeks.
-
-52 x average number of days on which the employee is required to work in a week over any period of 2 consecutive weeks.
-
 4.
 
 Where an employee is employed on a monthly rate of pay and is required under his contract of service to work on different number of days in different weeks.
@@ -2906,20 +2900,6 @@ Where an employee is employed on a monthly rate of pay and is required under his
 The gross rate of pay for one day is to be calculated according to the following formula or such other formula as may be approved by the Commissioner:
 
 The basic rate of pay for one day is to be calculated according to the following formula or such other formula as may be approved by the Commissioner:
-
-___
-
-12 x monthly gross rate of pay___
-
-52 x average number of working days in a week.
-
-____
-
-12 x monthly basic rate of pay___
-
-52 x average number of working days in a week.
-
-[S 475/90]
 
 5. In this Schedule —
 
@@ -3082,7 +3062,7 @@ Employment Act
 
 (CHAPTER 91)
 
-This Legislative History is provided for the convenience of users of the Employment Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Employment Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3231,3 +3211,8 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|1 April 2014|
+|33.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
