@@ -54,6 +54,10 @@ An Act to provide for the legitimation of children born out of wedlock.
 
 2\. In this Act, unless there is something repugnant in the subject or context —
 
+“court” means the High Court or a Family Court;
+
+[Act 27 of 2014 wef 01/10/2014]
+
 “date of legitimation” means the date of the marriage leading to the legitimation, or, where the marriage occurred before 18th May 1934, that day;
 
 “disposition” means an assurance of any interest in property by any instrument whether inter vivos or by will;
@@ -66,7 +70,9 @@ An Act to provide for the legitimation of children born out of wedlock.
 
 ### Legitimation by subsequent marriage of parents
 
-3\.—(1) Subject to this section, where the parents of an illegitimate person marry or have married one another, whether before, on or after 18th May 1934 the marriage shall, if the father of the illegitimate person was or is at the date of the marriage domiciled in Singapore, render that person, if living, legitimate from 18th May 1934 or from the date of the marriage, whichever last happens.
+3\.—(1) Subject to this section, where the parents of an illegitimate person marry or have married one another, whether before, on or after 18th May 1934 the marriage shall, if the father or mother of the illegitimate person was or is at the date of the marriage domiciled in Singapore, render that person, if living, legitimate from 18th May 1934 or from the date of the marriage, whichever last happens.
+
+[Act 16 of 2013 wef 01/10/2014]
 
 (2) Nothing in this Act shall operate to legitimate a person unless the marriage leading to the legitimation was solemnized and registered in accordance with the provisions of the repealed Christian Marriage Ordinance [Cap. 37, 1955 Ed.] or of the Civil Marriage Ordinance [Cap. 38, 1955 Ed.] or unless that marriage was registered or deemed to be registered under the Women’s Charter [Cap. 353].
 
@@ -76,9 +82,11 @@ An Act to provide for the legitimation of children born out of wedlock.
 
 ### Declarations of legitimacy of legitimated persons
 
-4\.—(1) A person claiming that he or his parent or any remoter ancestor became or has become a legitimated person may, whether domiciled in Singapore or elsewhere, and whether a citizen of Singapore or not, apply to the High Court by originating summons for a decree declaring that the applicant is the legitimate child of his parents, or that his parent or remoter ancestor was legitimate, and the High Court shall have jurisdiction to hear and determine that application and to make such decree declaratory of the legitimacy or illegitimacy of such person as to the court may seem just; and that decree shall be binding to all intents and purposes on the Government and on all persons whomsoever.
+4\.—(1) A person claiming that he or his parent or any remoter ancestor became or has become a legitimated person may, whether domiciled in Singapore or elsewhere, and whether a citizen of Singapore or not, apply to the court by originating summons for a decree declaring that the applicant is the legitimate child of his parents, or that his parent or remoter ancestor was legitimate, and the court shall have jurisdiction to hear and determine that application and to make such decree declaratory of the legitimacy or illegitimacy of such person as to the court may seem just; and that decree shall be binding to all intents and purposes on the Government and on all persons whomsoever.
 
 [42/2005 wef 01/01/2006]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Every application under this section shall be supported by an affidavit verifying the facts alleged in the same, and by such proof of the absence of fraud and collusion, as the court may by any general rule direct.
 
@@ -160,7 +168,9 @@ Provided that the Registrar-General shall not authorise the re-registration of t
 
 (a) the paternity of the legitimated person has been established by an affiliation order or otherwise by a decree of a court of competent jurisdiction; or
 
-(b) a declaration of the legitimacy of the legitimated person has been made by the High Court under section 4.
+(b) a declaration of the legitimacy of the legitimated person has been made by the court under section 4.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 2\. It shall be the duty of the parents of a legitimated person, or, in cases where re-registration can be effected on information furnished by one parent and one of the parents is dead, of the surviving parent, within 3 months after the date of the marriage, to furnish to the Registrar-General information with a view to obtaining the re-registration of the birth of that person.
 
@@ -208,3 +218,13 @@ This Legislative History is provided for the convenience of users of the Legitim
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (item (21) of First Schedule)|
+|10.|**Act 16 of 2013—Status of Children (Assisted Reproduction Technology) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2013 (Bill No. 12/2013 published on 8 July 2013)|
+||Date of Second and Third Readings|12 August 2013|
+||Date of commencement|1 October 2014|
+|11.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
