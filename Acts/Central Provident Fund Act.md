@@ -482,7 +482,9 @@ PRELIMINARY
 
 (3) In this Act, unless the context otherwise requires, where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) —
 
-(a) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(b), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(b), may likewise be done by, or will likewise apply to, a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act with power in relation to the person for the purposes of this Act; and
+(a) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(b), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(b), may likewise be done by, or will likewise apply to, a deputy appointed or deemed to be appointed for the person by the court under the Mental Capacity Act with power in relation to the person for the purposes of this Act; and
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (b) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(c), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(c), may likewise be done by, or will likewise apply to, a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to the person for the purposes of this Act.
 
@@ -498,7 +500,9 @@ PRELIMINARY
 
 (d) how any provision referred to in paragraph (b) or (c) will be modified in its application to either or both of the following:
 
-(i) a deputy appointed or deemed to be appointed for any person referred to in paragraph (a) by the High Court under the Mental Capacity Act with power in relation to that person for the purposes of this Act;
+(i) a deputy appointed or deemed to be appointed for any person referred to in paragraph (a) by the court under the Mental Capacity Act with power in relation to that person for the purposes of this Act;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (ii) a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to any person referred to in paragraph (a) for the purposes of this Act.
 
@@ -5372,7 +5376,9 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (c) who, to the best of the Board’s knowledge, has neither of the following:
 
-(i) a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act (Cap. 177A) with power in relation to the person for the purposes of this Act;
+(i) a deputy appointed or deemed to be appointed for the person by the court under the Mental Capacity Act (Cap. 177A) with power in relation to the person for the purposes of this Act;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (ii) a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to the person for the purposes of this Act.
 
@@ -8455,6 +8461,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 20/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|1 September 2014 (Sections 4, 11, 12, 13)|
+|194.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
