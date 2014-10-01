@@ -286,7 +286,7 @@
 
 - [113 Proof of good faith in transactions where one party is in relation of active confidence](#Proof-of-good-faith-in-transactions-where-one-party-is-in-relation-of-active-confidence)
 
-- [114 Birth during marriage conclusive proof of legitimacy](#Birth-during-marriage-conclusive-proof-of-legitimacy)
+- [114 Rebuttable presumption of paternity](#Rebuttable-presumption-of-paternity)
 
 - [115 (Repealed)](#Repealed)
 
@@ -620,7 +620,9 @@ A’sintention to causeB’sdeath.
 
 (b)
 
-A, a party to a suit, does not comply with a notice given byB, the other party, to produce forB’sinspection a document referred to inA’spleadings. This section does not enableAto put such document in evidence on his behalf in such suit, otherwise than in accordance with the conditions prescribed by the Rules of Court.
+A, a party to a suit, does not comply with a notice given byB, the other party, to produce forB’sinspection a document referred to inA’spleadings. This section does not enableAto put such document in evidence on his behalf in such suit, otherwise than in accordance with the conditions prescribed by the Rules of Court or the Family Justice Rules (as the case may be).
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Relevancy of facts forming part of same transaction
 
@@ -1040,7 +1042,7 @@ Amay prove these facts for the reasons stated in illustration (d).
 
 ### Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant
 
-32\.—(1) Subject to subsections (2)subsections (2) and (3), statements of relevant facts made by a person (whether orally, in a document or otherwise), are themselves relevant facts in the following cases:
+32\.—(1) Subject to subsections (2) and (3), statements of relevant facts made by a person (whether orally, in a document or otherwise), are themselves relevant facts in the following cases:
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1160,9 +1162,7 @@ when the parties to the proceedings agree that for the purpose of those proceedi
 
 Illustrations
 
-(a)
-
-The question is whetherAwas murdered byB.
+(a) The question is whetherAwas murdered byB.
 
 Adies of injuries received in a transaction in the course of which she was ravished.
 
@@ -1172,103 +1172,81 @@ The question is whetherAwas killed byBunder such circumstances that a suit would
 
 Statements made byAas to the cause of his or her death, referring respectively to the murder, the rape and the actionable wrong under consideration, are relevant facts.
 
-(b)
+(b) The question is as to the date ofA’sbirth.
 
-The question is as to the date ofA’sbirth.
+An entry in the diary of a deceased surgeon regularly kept in the course of business, stating that on a given day he attended A’s mother and delivered her of a son, is a relevant fact.
 
-An entry in the diary of a deceased surgeon regularly kept in the course of business, stating that on a given day he attendedA’smother and delivered her of a son, is a relevant fact.
-
-(c)
-
-The question is whetherAwas in Singapore on a given day.
+(c) The question is whetherAwas in Singapore on a given day.
 
 A statement in the diary of a deceased solicitor regularly kept in the course of business that on a given day the solicitor attendedAat a place mentioned in Singapore for the purpose of conferring with him upon specified business is a relevant fact.
 
-(d)
-
-The question is whether a ship sailed from Singapore harbour on a given day.
+(d) The question is whether a ship sailed from Singapore harbour on a given day.
 
 A letter written by a deceased member of a merchant’s firm by which she was chartered to their correspondents in London, to whom the cargo was consigned, stating that the ship sailed on a given day from Singapore harbour is a relevant fact.
 
-(e)
-
-The question is whether rent was paid to A for certain land.
+(e) The question is whether rent was paid toAfor certain land.
 
 A letter fromA’sdeceased agent toB, saying that he had received the rent onA’saccount and held it atA’sorders, is a relevant fact.
 
-(f)
-
-The question is whetherAandBwere legally married.
+(f) The question is whetherAandBwere legally married.
 
 The statement of a deceased clergyman that he married them under such circumstances that the celebration would be a crime is relevant.
 
-(g)
-
-The question is whetherA, a person who cannot be found, wrote a letter on a certain day.
+(g) The question is whetherA, a person who cannot be found, wrote a letter on a certain day.
 
 The fact that a letter written by him is dated on that day is relevant.
 
-(h)
-
-The question is, what was the cause of the wreck of a ship?
+(h) The question is, what was the cause of the wreck of a ship?
 
 A protest made by the captain, whose attendance cannot be procured, is a relevant fact.
 
-(i)
-
-The question is, what was the price of shares on a certain day in a particular market?
+(i) The question is, what was the price of shares on a certain day in a particular market?
 
 A statement of the price made by a deceased broker in the ordinary course of his business is a relevant fact.
 
-(j)
-
-The question is whetherA, who is dead, was the father ofB.
+(j) The question is whetherA, who is dead, was the father ofB.
 
 A statement byAthatBwas his son is a relevant fact.
 
-(k)
-
-The question is, what was the date of the birth ofA?
+(k) The question is, what was the date of the birth ofA?
 
 A letter fromA’sdeceased father to a friend, announcing the birth ofAon a given day, is a relevant fact.
 
-(l)
-
-The question is whether and whenAandBwere married.
+(l) The question is whether and whenAandBwere married.
 
 An entry in a memorandum-book byC, the deceased father ofB, of his daughter’s marriage withAon a given date, is a relevant fact.
 
-(m)
-
-AsuesBfor a libel expressed in a printed caricature exposed in a shop-window. The question is as to the similarity of the caricature and its libellous character.
+(m)AsuesBfor a libel expressed in a printed caricature exposed in a shop‑window. The question is as to the similarity of the caricature and its libellous character.
 
 The remarks of a crowd of spectators on these points may be proved.
 
-(2) For the purposes of paragraph (a)paragraph (a), (c), (d), (e), (f), (g), (h), (i) or (j) of subsection (1)subsection (1), where a person makes an oral statement to or in the hearing of another person who, at the request of the maker of the statement, puts it (or the substance of it) into writing at the time or reasonably soon afterwards, thereby producing a corresponding statement in a document, the statement in the document shall be treated for the purposes of those paragraphs as the statement of the maker of the oral statement.
+(2) For the purposes of paragraph (a), (c), (d), (e), (f), (g), (h), (i) or (j) of subsection (1), where a person makes an oral statement to or in the hearing of another person who, at the request of the maker of the statement, puts it (or the substance of it) into writing at the time or reasonably soon afterwards, thereby producing a corresponding statement in a document, the statement in the document shall be treated for the purposes of those paragraphs as the statement of the maker of the oral statement.
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(3) A statement which is otherwise relevant under subsection (1)subsection (1) shall not be relevant if the court is of the view that it would not be in the interests of justice to treat it as relevant.
+(3) A statement which is otherwise relevant under subsection (1) shall not be relevant if the court is of the view that it would not be in the interests of justice to treat it as relevant.
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(4) Except in the case of subsection (1)(k)subsection (1)(k), evidence may not be given under subsection (1) on behalf of a party to the proceedings unless that party complies —
+(4) Except in the case of subsection (1)(k), evidence may not be given under subsection (1) on behalf of a party to the proceedings unless that party complies —
 
-(a) in the case of criminal proceedings, with such notice requirements and other conditions as may be prescribed by the Minister under section 428section 428 of the Criminal Procedure Code 2010 (Act 15 of 2010); and
+(a) in the case of criminal proceedings, with such notice requirements and other conditions as may be prescribed by the Minister under section 428 of the Criminal Procedure Code 2010 (Act 15 of 2010); and
 
-(b) in all other proceedings, with such notice requirements and other conditions as may be prescribed in Rules of Court (Cap. 322, R 5) made by the Rules Committee constituted under section 80section 80 of the Supreme Court of Judicature Act (Cap. 322)Supreme Court of Judicature Act (Cap. 322).
+(b) in all other proceedings, with such notice requirements and other conditions as may be prescribed in the Rules of Court or the Family Justice Rules.
 
-[Act 4 of 2012 wef 01/08/2012]
-
-(5) Where a statement is admitted in evidence under subsection (1)subsection (1), the court shall assign such weight as it deems fit to the statement.
+[Act 27 of 2014 wef 01/10/2014]
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(6) Notwithstanding paragraph (k)paragraph (k) of subsection (1)subsection (1), an agreement under that paragraph does not enable a statement to be given in evidence in criminal proceedings on the prosecution’s behalf unless at the time the agreement is made, the accused or any of the co-accused is represented by an advocate.
+(5) Where a statement is admitted in evidence under subsection (1), the court shall assign such weight as it deems fit to the statement.
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(7) Notwithstanding paragraph (k)paragraph (k) of subsection (1)subsection (1), an agreement under that paragraph shall be of no effect for the purposes of any proceedings before the High Court or any proceedings arising out of proceedings before the High Court if made during proceedings before an examining Magistrate conducting a committal hearing under Division 2 of Part XDivision 2 of Part X of the Criminal Procedure Code 2010.
+(6) Notwithstanding paragraph (k) of subsection (1), an agreement under that paragraph does not enable a statement to be given in evidence in criminal proceedings on the prosecution’s behalf unless at the time the agreement is made, the accused or any of the co-accused is represented by an advocate.
+
+[Act 4 of 2012 wef 01/08/2012]
+
+(7) Notwithstanding paragraph (k) of subsection (1), an agreement under that paragraph shall be of no effect for the purposes of any proceedings before the High Court or any proceedings arising out of proceedings before the High Court if made during proceedings before an examining Magistrate conducting a committal hearing under Division 2 of Part X of the Criminal Procedure Code 2010.
 
 [Act 4 of 2012 wef 01/08/2012]
 
@@ -1332,9 +1310,11 @@ AsuesBfor $1,000 and shows entries in his account-books showingBto be indebted t
 
 ### Rules for filing and receiving evidence and documents in court by using information technology
 
-36A\.—(1) The Rules Committee constituted under the Supreme Court of Judicature Act (Cap. 322) may make rules to provide for the filing, receiving and recording of evidence and documents in court by the use of information technology in such form, manner or method as may be prescribed.
+36A\.—(1) The Rules Committee constituted under the Supreme Court of Judicature Act (Cap. 322), and the Family Justice Rules Committee constituted under the Family Justice Act 2014, may make rules to provide for the filing, receiving and recording of evidence and documents in court by the use of information technology in such form, manner or method as may be prescribed.
 
 [8/96]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (2) Without prejudice to the generality of subsection (1), such rules may —
 
@@ -1462,11 +1442,13 @@ The previous conviction is relevant as a fact in issue.
 
 [8/96]
 
-(4) Any conviction or acquittal admissible under this section may be proved by a certificate of conviction or acquittal, signed by the Registrar of the Supreme Court or the Registrar of the State Courts, as the case may be, giving the substance and effect of the charge and of the conviction or acquittal.
+(4) Any conviction or acquittal admissible under this section may be proved by a certificate of conviction or acquittal, signed by the Registrar of the Supreme Court, the registrar of the State Courts or the registrar of the Family Justice Courts, as the case may be, giving the substance and effect of the charge and of the conviction or acquittal.
 
 [8/96]
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 (5) Where relevant, any document containing details of the information, complaint, charge, agreed statement of facts or record of proceedings on which the person in question is convicted shall be admissible in evidence.
 
@@ -1480,11 +1462,15 @@ The previous conviction is relevant as a fact in issue.
 
 [8/96]
 
-(8) In this section, “Registrar” has the meaning assigned to it in the Supreme Court of Judicature Act (Cap. 322) and the State Courts Act (Cap. 321), respectively.
+(8) In this section —
 
-[8/96]
+“registrar of the Family Justice Courts” includes the deputy registrar or an assistant registrar of the Family Justice Courts;
 
-[Act 5 of 2014 wef 07/03/2014]
+“registrar of the State Courts” includes a deputy registrar of the State Courts;
+
+“Registrar of the Supreme Court” includes the Deputy Registrar or an Assistant Registrar of the Supreme Court.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 ### Fraud or collusion in obtaining judgment or incompetency of court may be proved
 
@@ -1762,9 +1748,11 @@ Oral evidence
 
 [8/96]
 
-(9) The Rules Committee constituted under the Supreme Court of Judicature Act (Cap. 322) may make such rules as appear to it to be necessary or expedient for the purpose of giving effect to this section and for prescribing anything which may be prescribed under this section.
+(9) The Rules Committee constituted under the Supreme Court of Judicature Act (Cap. 322), and the Family Justice Rules Committee constituted under the Family Justice Act 2014, may make such rules as appear to it to be necessary or expedient for the purpose of giving effect to this section and for prescribing anything which may be prescribed under this section.
 
 [8/96]
+
+[Act 27 of 2014 wef 01/10/2014]
 
 Documentary evidence
 
@@ -2448,9 +2436,19 @@ Illustrations
 
 (b) The good faith of a sale by a son just come of age to a father is in question in a suit brought by the son. The burden of proving the good faith of the transaction is on the father.
 
-### Birth during marriage conclusive proof of legitimacy
+### Rebuttable presumption of paternity
 
-114\. The fact that any person was born during the continuance of a valid marriage between his mother and any man, or within 280 days after its dissolution, the mother remaining unmarried, shall be conclusive proof that he is the legitimate son of that man, unless it can be shown that the parties to the marriage had no access to each other at any time when he could have been begotten.
+114\.—(1) Where any person was born —
+
+(a) during the continuance of a valid marriage between his mother and any man; or
+
+(b) within 280 days after the dissolution of the marriage, the mother remaining unmarried,
+
+it shall be presumed that the person is the legitimate child of that man, unless the contrary is proved.
+
+(2) Subsection (1) shall not apply to a person whose parenthood is determined under the Status of Children (Assisted Reproduction Technology) Act 2013.
+
+[Act 16 of 2013 wef 01/10/2014]
 
 115\. [Repealed by Act 8/96]
 
@@ -3584,3 +3582,11 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
 |||(item (10) in the Schedule)|
+|41.|**Act 27 of 2014—Family Justice Act 2014**|
+||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
+|42.|**Act 16 of 2013—Status of Children (Assisted Reproduction Technology) Act 2013**|
+||Date of First Reading|8 July 2013 (Bill No. 12/2013 published on 8 July 2013)|
+||Date of Second and Third Readings|12 August 2013|
+||Date of commencement|1 October 2014|
