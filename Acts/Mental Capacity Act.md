@@ -118,11 +118,11 @@
 
 - [47 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-[**FIRST SCHEDULE Lasting Powers of Attorney: Formalities**](#FIRST-SCHEDULE-Lasting-Powers-of-Attorney:-Formalities)
+[**FIRST SCHEDULE Lasting powers of attorney: formalities**](#FIRST-SCHEDULE-Lasting-powers-of-attorney:-formalities)
 
-[**SECOND SCHEDULE Property and Affairs: Supplementary Provisions**](#SECOND-SCHEDULE-Property-and-Affairs:-Supplementary-Provisions)
+[**SECOND SCHEDULE Property and affairs: supplementary provisions**](#SECOND-SCHEDULE-Property-and-affairs:-supplementary-provisions)
 
-[**THIRD SCHEDULE Savings and Transitional Provisions**](#THIRD-SCHEDULE-Savings-and-Transitional-Provisions)
+[**THIRD SCHEDULE Savings and transitional provisions**](#THIRD-SCHEDULE-Savings-and-transitional-provisions)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -156,7 +156,9 @@ PRELIMINARY
 
 “clinical trial” means a clinical trial within the meaning of the Medicines Act (Cap. 176) or the Health Products Act (Cap. 122D);
 
-“court” means the High Court;
+“court” means the High Court or a Family Court;
+
+[Act 27 of 2014 wef 01/10/2014]
 
 “deputy” has the meaning given to it in section 20(2)(b);
 
@@ -950,9 +952,9 @@ EXCLUDED DECISIONS AND DECLARATORY PROVISIONS
 
 (l) such other matter as may be prescribed.
 
-[UK MCA 2005, s. 27]
-
 [18/2009]
+
+[UK MCA 2005, s. 27]
 
 ### Mental Health (Care and Treatment) Act matters
 
@@ -1312,7 +1314,9 @@ so far as the record relates to P.
 
 (l) for the payment of fees and costs within a specified time of the death of the person to whom the proceedings relate or the conclusion of the proceedings.
 
-(3) Rules of Court may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the Registrar of the Supreme Court.
+(3) Rules of Court may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+[Act 27 of 2014 wef 01/10/2014]
 
 [UK MCA 2005, ss. 51, 56]
 
@@ -1490,7 +1494,7 @@ FIRST SCHEDULE
 
 Sections 11(2) and (3), 12(6) and (7), 16(1) and 45
 
-Lasting Powers of Attorney: Formalities
+Lasting powers of attorney: formalities
 
 Part I
 
@@ -1542,11 +1546,11 @@ Requirements as to content of instruments
 
 (iii) there is nothing else which would prevent a lasting power of attorney from being created by the instrument.
 
-(2) [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
+(2) [Deleted by S 526/2014 wef 01/09/2014]
 
-(3) [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
+(3) [Deleted by S 526/2014 wef 01/09/2014]
 
-(4) [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
+(4) [Deleted by S 526/2014 wef 01/09/2014]
 
 (5) A certificate under sub-paragraph (1)(e) must —
 
@@ -1594,7 +1598,7 @@ Applications and procedure for registration
 
 (5) Subject to paragraphs 10 to 13, the Public Guardian must register the instrument as a lasting power of attorney at the end of the prescribed period if the application complies with sub-paragraphs (1), (2) and (3).
 
-5. [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
+5. [Deleted by S 526/2014 wef 01/09/2014]
 
 Notification to donee
 
@@ -1624,7 +1628,7 @@ Notification requirements
 
 [S 526/2014 wef 01/09/2014]
 
-9. [Deleted by S 526/2014 wef 01/09/2014 wef 01/09/2014]
+9. [Deleted by S 526/2014 wef 01/09/2014]
 
 Instrument not made properly or containing ineffective provision
 
@@ -1834,7 +1838,7 @@ SECOND SCHEDULE
 
 Sections 23(4) and (5) and 45
 
-Property and Affairs: Supplementary Provisions
+Property and affairs: supplementary provisions
 
 Wills: general
 
@@ -1998,7 +2002,7 @@ THIRD SCHEDULE
 
 Sections 45 and 47
 
-Savings and Transitional Provisions
+Savings and transitional provisions
 
 Savings and transitional provisions
 
@@ -2064,7 +2068,7 @@ Mental Capacity Act
 
 (CHAPTER 177A)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 UK MCA 2005
 
@@ -2102,7 +2106,7 @@ Mental Capacity Act
 
 (CHAPTER 177A)
 
-This Legislative History is provided for the convenience of users of the Mental Capacity Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Mental Capacity Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2138,3 +2142,9 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of operation|31 March 2010|
 |7.|**G.N. No. S 526/2014—Mental Capacity Act (Amendment of First Schedule) Order 2014**|
 ||Date of commencement|1 September 2014|
+|8.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 October 2014|
