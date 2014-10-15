@@ -154,6 +154,16 @@
 
 - [48G Power to exempt](#Power-to-exempt)
 
+[**Part VIB CASH TRANSACTION REPORTS**](#Part-VIB)
+
+- [48H Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [48I Customer due diligence measures, etc.](#Customer-due-diligence-measures-etc)
+
+- [48J Cash transaction reports](#Cash-transaction-reports)
+
+- [48K Keeping of records](#Keeping-of-records)
+
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
 - [49 Offence of prejudicing investigation](#Offence-of-prejudicing-investigation)
@@ -211,6 +221,8 @@ An Act to provide for the confiscation of benefits derived from, and to combat, 
 [25/99]
 
 [Act 21 of 2014 wef 01/09/2014]
+
+[44/2007 wef 01/11/2007]
 
 [30th November 1993]
 
@@ -533,6 +545,8 @@ but it is not any such communication, item or document that is made, prepared or
 ## PART II
 
 CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT
+
+[21/2014 wef 01/09/2014]
 
 ### Confiscation orders
 
@@ -1220,6 +1234,8 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 [15/2010 wef 02/01/2011]
 
+[44/2007 wef 01/11/2007]
+
 ### Bankruptcy of defendant, etc.
 
 23\.—(1) Where a person who holds realisable property is adjudged bankrupt —
@@ -1319,6 +1335,8 @@ APPLICATION TO ABSCONDED PERSONS
 (2) For the purposes of subsection (1), a person shall be taken to abscond in connection with a drug dealing offence if whether before or after 30th November 1993 —
 
 (a) investigations for a drug dealing offence have been commenced against the person; and
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (b) the person —
 
@@ -1432,8 +1450,6 @@ CONFISCATION OF PROPERTY OF
 
 
 CORRESPONDING VALUE TO INSTRUMENTALITIES
-
-[Act 21 of 2014 wef 01/09/2014]
 
 ### Application of Part
 
@@ -1959,6 +1975,8 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [Act 21 of 2014 wef 01/09/2014]
 
+[44/2007 wef 01/11/2007]
+
 ### Communication of information to foreign authority
 
 41\.—(1) Notwithstanding section 56 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing —
@@ -1996,8 +2014,6 @@ to a corresponding authority of a foreign country if —
 (2) The conditions referred to in subsection (1) are as follows:
 
 (a) there exists an arrangement under which the corresponding authority of the foreign country has agreed, or the corresponding authority of the foreign country has given an undertaking, to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed, given, forwarded or submitted to, or filed with, a Suspicious Transaction Reporting Officer pursuant to a requirement under section 3A(3), pursuant to section 39(1), under section 48C(5), 48D, 48E(5) or 48J(1) or under any regulations made under section 200 of the Casino Control Act, or required to be given to an immigration officer under section 48C(5);
-
-[44/2007 wef 01/11/2007]
 
 [Act 21 of 2014 wef 01/09/2014]
 
@@ -2228,6 +2244,8 @@ and knowing or having reasonable grounds to believe that that other person is a 
 (a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
 [Act 21 of 2014 wef 01/09/2014]
+
+[44/2007 wef 01/11/2007]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -2509,8 +2527,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 CROSS BORDER MOVEMENTS OF PHYSICAL CURRENCY AND BEARER NEGOTIABLE INSTRUMENTS
 
-[44/2007 wef 01/11/2007]
-
 ### Object of this Part
 
 48A\. The object of this Part is to impose measures for the disclosure of information regarding movements of physical currency and bearer negotiable instruments into and out of Singapore for the purpose of detecting, investigating and prosecuting drug dealing offences and serious offences.
@@ -2559,11 +2575,7 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 “send” includes send through the post or by means of another person.
 
-[44/2007 wef 01/11/2007]
-
 (2) In determining whether an amount of foreign currency (including an amount in which a document is denominated) is equivalent to a Singapore dollar amount under this Part, the amount of foreign currency is to be translated to Singapore currency at the exchange rate applicable at the relevant time.
-
-[44/2007 wef 01/11/2007]
 
 (3) For the purposes of this Part ––
 
@@ -2577,13 +2589,9 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 48C\.—(1) A person shall not move or attempt to move into or out of Singapore cash the total value of which exceeds the prescribed amount (or its equivalent in a foreign currency), without giving a report in respect of the movement in accordance with this section.
 
-[44/2007 wef 01/11/2007]
-
 [Act 21 of 2014 wef 01/09/2014]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[44/2007 wef 01/11/2007]
 
 (3) It shall be a defence for a person charged with an offence under subsection (2) to prove that he did not know and had no reasonable ground to believe that the receptacle within which the cash was moved or attempted to be moved contained cash.
 
@@ -2603,15 +2611,11 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 (d) be given at the prescribed time.
 
-[44/2007 wef 01/11/2007]
-
 (6) The Minister may make regulations for the matters referred to in this section; and may, for the purposes of subsection (5)(a) and (d), prescribe different forms and different times —
 
 (a) for different manners of moving cash into and out of Singapore; and
 
 (b) for different classes of persons.
-
-[44/2007 wef 01/11/2007]
 
 [Act 21 of 2014 wef 01/09/2014]
 
@@ -2620,8 +2624,6 @@ and includes a negotiable instrument that has been signed but with the payee’s
 (a) the person is a commercial passenger carrier; and
 
 (b) the cash is in the possession of any of the carrier’s passengers.
-
-[44/2007 wef 01/11/2007]
 
 (8) Subsection (1) shall not apply if ––
 
@@ -2632,8 +2634,6 @@ and includes a negotiable instrument that has been signed but with the payee’s
 (c) the other person has not disclosed to the carrier that the goods carried on behalf of the other person include cash; and
 
 (d) the carrier does not know and has no reasonable ground to believe that the goods carried on behalf of the other person include cash.
-
-[44/2007 wef 01/11/2007]
 
 (9) The burden of proving the matters referred to in subsection (7) or (8) lies with the person who wishes to rely on that subsection.
 
@@ -2649,17 +2649,11 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 48E\.—(1) A person who receives cash the total value of which exceeds the prescribed amount (or its equivalent in a foreign currency), which is moved to the person from outside Singapore, shall make a report in respect of the receipt in accordance with this section before the end of the period of 5 business days beginning on the day of the receipt.
 
-[44/2007 wef 01/11/2007]
-
 [Act 21 of 2014 wef 01/09/2014]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[44/2007 wef 01/11/2007]
-
 (3) It shall be a defence for a person charged with an offence under subsection (2) to prove that he did not know and had no reasonable ground to believe that the cash was moved from outside Singapore.
-
-[44/2007 wef 01/11/2007]
 
 (4) [Deleted by Act 21 of 2014 wef 01/09/2014]
 
@@ -2670,8 +2664,6 @@ and includes a negotiable instrument that has been signed but with the payee’s
 (b) contain full and accurate information relating to the receipt being reported as is specified in the form; and
 
 (c) be given to a Suspicious Transaction Reporting Officer.
-
-[44/2007 wef 01/11/2007]
 
 (6) The Minister may make regulations for the matters referred to in this section.
 
@@ -2699,8 +2691,6 @@ must, if required to do so by an authorised officer or immigration officer —
 
 (v) answer any question the officer may have with respect to the cash.
 
-[44/2007 wef 01/11/2007]
-
 (2) An authorised officer or immigration officer may, with such assistance as is reasonable and necessary, examine any article or baggage which a person has with him if the person —
 
 (a) is about to leave Singapore;
@@ -2710,8 +2700,6 @@ must, if required to do so by an authorised officer or immigration officer —
 (c) has arrived in Singapore,
 
 for the purpose of finding out whether the person has with him any cash in respect of which a report under section 48C is required.
-
-[44/2007 wef 01/11/2007]
 
 (3) An authorised officer or immigration officer may, with such assistance as is reasonable and necessary, search a person for the purpose of finding out whether the person has with him any cash in respect of which a report under section 48C is required, so long as —
 
@@ -2725,19 +2713,11 @@ for the purpose of finding out whether the person has with him any cash in respe
 
 (b) the officer has reasonable grounds to suspect that there is on the person or in clothing being worn by the person, cash in respect of which a report under section 48C is required.
 
-[44/2007 wef 01/11/2007]
-
 (4) If an authorised officer or immigration officer has reasonable grounds to suspect that any cash found in the course of an examination or search under subsection (2) or (3) may afford evidence as to the commission of an offence under section 48C, the officer may seize the cash.
-
-[44/2007 wef 01/11/2007]
 
 (5) A person must not be searched under subsection (3) except by a person of the same sex.
 
-[44/2007 wef 01/11/2007]
-
 (6) An authorised officer or immigration officer, and any person assisting the officer, may board any motor vehicle, train, vessel or aircraft or enter any premises for the purpose of exercising the powers conferred by subsection (1), (2), (3) or (4).
-
-[44/2007 wef 01/11/2007]
 
 (7) An authorised officer or immigration officer may, with such assistance as is reasonable and necessary —
 
@@ -2747,9 +2727,7 @@ for the purpose of finding out whether the person has with him any cash in respe
 
 for the purpose of ascertaining whether there is on board the motor vehicle, train, vessel or aircraft any cash in respect of which a report under section 48C is required.
 
-[44/2007 wef 01/11/2007]
-
-(8) Where an authorised officer or immigration officer has reasonable grounds to suspect that an offence under section 48Cmay have been committed, the officer may, with such assistance as is reasonable and necessary —
+(8) Where an authorised officer or immigration officer has reasonable grounds to suspect that an offence under section 48C may have been committed, the officer may, with such assistance as is reasonable and necessary —
 
 (a) enter any eligible place; and
 
@@ -2757,11 +2735,7 @@ for the purpose of ascertaining whether there is on board the motor vehicle, tra
 
 for the purpose of ascertaining whether there is at or in the place, or in the thing, any cash in respect of which a report under section 48C is required.
 
-[44/2007 wef 01/11/2007]
-
 (9) If an authorised officer or immigration officer has reasonable grounds to suspect that cash found in the course of a search under subsection (7) or (8) may afford evidence as to the commission of an offence under section 48C, the officer may seize the cash.
-
-[44/2007 wef 01/11/2007]
 
 (10) A person who, without reasonable excuse, fails to comply with a requirement under subsection (1), or pursuant to any such requirement knowingly or recklessly makes a declaration or gives an answer that is false in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2771,11 +2745,75 @@ for the purpose of ascertaining whether there is at or in the place, or in the t
 
 48G\.—(1) The Minister may, by order published in theGazette, with or without conditions, exempt any person or class of persons from section 48C or 48E, or both.
 
-[44/2007 wef 01/11/2007]
-
 (2) If any exemption is granted under subsection (1) with conditions, the exemption operates only if the conditions are complied with.
 
 [44/2007 wef 01/11/2007]
+
+## PART VIB
+
+CASH TRANSACTION REPORTS
+
+### Interpretation of this Part
+
+48H\. In this Part, unless the context otherwise requires —
+
+“cash” means currency notes and coins (whether of Singapore or of a foreign country) which are legal tender and circulate as money in the country of issue;
+
+“cash transaction” means a cash transaction which is of a type prescribed for the purposes of this definition;
+
+“cash transaction report” means a cash transaction report submitted to a Suspicious Transaction Reporting Officer under section 48J(1);
+
+“customer” means any person who is involved in any cash transaction with a prescribed person;
+
+“prescribed person” means any person who is prescribed, or who belongs to a class of persons which is prescribed, for the purposes of this definition.
+
+[Act 21 of 2014 wef 15/10/2014]
+
+### Customer due diligence measures, etc.
+
+48I\.—(1) A prescribed person shall perform such customer due diligence measures and internal control measures as may be prescribed, before entering into any of the following:
+
+(a) a single cash transaction with a customer the value of which exceeds the prescribed amount (or its equivalent in a foreign currency);
+
+(b) 2 or more cash transactions in a single day with the same customer, or with customers whom the prescribed person knows act on behalf of the same person, the total value of which exceeds the prescribed amount (or its equivalent in a foreign currency).
+
+(2) The prescribed person shall not proceed with any cash transaction referred to in subsection (1) if there exists such circumstances as may be prescribed.
+
+(3) A prescribed person shall maintain —
+
+(a) a record of each cash transaction referred to in subsection (1) containing the prescribed information on that transaction;
+
+(b) a record of all information relating to a customer which is obtained through the customer due diligence measures performed for that transaction; and
+
+(c) a copy of each supporting document relied on in support of any information referred to in paragraph (b).
+
+(4) Any prescribed person who fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 21 of 2014 wef 15/10/2014]
+
+### Cash transaction reports
+
+48J\.—(1) A prescribed person who enters into any cash transaction referred to in section 48I(1) shall submit to a Suspicious Transaction Reporting Officer, within the prescribed time, a cash transaction report relating to that transaction in the prescribed form.
+
+(2) A prescribed person shall maintain —
+
+(a) a copy of each cash transaction report submitted under subsection (1); and
+
+(b) a copy of each supporting document relied on in support of any information contained in that cash transaction report.
+
+(3) Any prescribed person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 21 of 2014 wef 15/10/2014]
+
+### Keeping of records
+
+48K\.—(1) A prescribed person shall maintain each record referred to in section 48I(3)(a) relating to a cash transaction, each record referred to in section 48I(3)(b) relating to information obtained through the customer due diligence measures performed for that transaction, and each copy referred to in section 48I(3)(c) of a supporting document relating to that information, for a period of 5 years after the date on which the cash transaction report relating to that transaction was submitted under section 48J(1).
+
+(2) A prescribed person shall maintain each copy referred to in section 48J(2)(a) of a cash transaction report, and each copy referred to in section 48J(2)(b) of a supporting document relating to information contained in that cash transaction report, for a period of 5 years after the date on which that cash transaction report was submitted under section 48J(1).
+
+(3) Any prescribed person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 21 of 2014 wef 15/10/2014]
 
 ## PART VII
 
@@ -2806,6 +2844,8 @@ MISCELLANEOUS
 (a) no proceedings are instituted against that person;
 
 (b) proceedings are instituted against that person but do not result in his conviction for any drug dealing offence or serious offence, as the case may be; or
+
+[Act 21 of 2014 wef 01/09/2014]
 
 (c) proceedings are instituted against that person and he is convicted of one or more drug dealing offences or serious offences, as the case may be, but —
 
@@ -3017,11 +3057,7 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-[44/2007 wef 01/11/2007]
-
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
-
-[44/2007 wef 01/11/2007]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -3031,8 +3067,6 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-[44/2007 wef 01/11/2007]
-
 (4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
@@ -3040,8 +3074,6 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 (b) to be attributable to any neglect on the part of such an officer or member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
-
-[44/2007 wef 01/11/2007]
 
 (5) In this section —
 
@@ -3054,8 +3086,6 @@ the officer or member as well as the unincorporated association shall be guilty 
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
-
-[44/2007 wef 01/11/2007]
 
 (6) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -3097,9 +3127,17 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Regulations
 
-64\. The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and generally for carrying out the purposes and provisions of this Act.
+64\.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and generally for carrying out the purposes and provisions of this Act.
 
-[59
+[Act 21 of 2014 wef 15/10/2014]
+
+(2) Without prejudice to the generality of subsection (1), the regulations —
+
+(a) may provide that a contravention of any specified provision of the regulations shall be an offence; and
+
+(b) may provide for penalties not exceeding a fine of $20,000 or imprisonment for a term not exceeding 2 years or both for each offence.
+
+[Act 21 of 2014 wef 15/10/2014]
 
 FIRST SCHEDULE
 
@@ -3113,9 +3151,11 @@ Part I
 
 Offences included as drug dealing offences with effect from 30th November 1993
 
+[Act 21 of 2014 wef 01/09/2014]
+
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
+Description*
 
 1.
 
@@ -3147,6 +3187,8 @@ Sections 43 and 46 of this Act
 
 Money laundering.
 
+*Note: The short description of offences in this Schedule is for ease of reference only.
+
 Part II
 
 —
@@ -3155,7 +3197,7 @@ Offence included as drug dealing offence with effect from 1st November 2007
 
 Offences
 
-Description: The short description of offences in this Schedule is for ease of reference only.\*
+Description*
 
 6.
 
@@ -3165,18 +3207,28 @@ Manufacture, supply, possession, import or export of equipment, materials or sub
 
 [S 597/2007 wef 01/11/2007]
 
+[Act 21 of 2014 wef 01/09/2014]
+
+*Note: The short description of offences in this Schedule is for ease of reference only.
+
 SECOND SCHEDULE
 
 Section 2
 
 Serious offences
 
-Part I — Offences included as serious offences with
+Part I
+
+—
+
+Offences included as serious offences with
 
 
 
 
 effect from 13th September 1999
+
+[S 579/2005 wef 09/09/2005]
 
 Offences
 
@@ -3215,8 +3267,6 @@ Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65)
 Section 3
 
 Possession of corrosive or explosive substance for purpose of causing hurt
-
-Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap\. 124) 
 
 Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap\. 124) 
 
@@ -4302,7 +4352,17 @@ Causing or encouraging prostitution of, intercourse with, or indecent assault on
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part II — Offences included as serious offences with
+[25/99]
+
+[S 187/2009 wef 01/05/2009]
+
+[S 33/2008 wef 01/02/2008]
+
+Part II
+
+—
+
+Offences included as serious offences with
 
 
 
@@ -4329,7 +4389,15 @@ Harassing borrower, besetting his residence, etc.
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part III — Offences included as serious offences
+[31/2008 wef 01/03/2009]
+
+[S 579/2005 wef 09/09/2005]
+
+Part III
+
+—
+
+Offences included as serious offences
 
 
 
@@ -4386,9 +4454,9 @@ Section 6
 
 Possession or transfer of possession of unmarked plastic explosives
 
-191.
+192.
 
-Section 6
+Section 7
 
 Importation or exportation of unmarked plastic explosives
 
@@ -4908,13 +4976,13 @@ Section 477A
 
 Falsification of accounts
 
-Sale of Food Act (Cap\. 283) 
-
-Food Regulations (Rg 1) 
-
 265.
 
 [Deleted by S 28/2010, wef 22/01/2010]
+
+Sale of Food Act (Cap\. 283) 
+
+Food Regulations (Rg 1) 
 
 266.
 
@@ -5220,7 +5288,19 @@ Keeping or management of brothels
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part IV — offences included as serious offences with
+[26/2007 wef 01/01/2008]
+
+[Act 3 of 2013 wef 13/03/2013]
+
+[S 254/2006 wef 08/05/2006]
+
+[S 28/2010 wef 22/01/2010]
+
+Part IV
+
+—
+
+offences included as serious offences with
 
 
 
@@ -5249,7 +5329,13 @@ Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-Part V — offences included as serious offences
+[S 488/2007 wef 27/09/2007]
+
+Part V
+
+—
+
+offences included as serious offences
 
 
 
@@ -5332,9 +5418,7 @@ Section 128H (previously section 130(1)(a) of the 2004 Revised Edition)
 
 Offences in relation to shipping, unshipping, loading, unloading, etc., of uncustomed or prohibited goods
 
-303A.
-
-Section 128I(1)(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
+303A. Section 128I(1)(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
 
 Offences in relation to possession, storage and harbouring of goods
 
@@ -5358,9 +5442,9 @@ Section 57(1)(k)
 
 Making a false statement to obtain or attempting to obtain an entry permit, re-entry permit, pass or certificate for himself or for other person
 
-306.
+307.
 
-Section 57(1)(k)
+Section 57(1)(l)
 
 Using or without lawful authority having possession of any forged, unlawfully altered or irregular entry or re-entry permit, pass or certificate, etc.
 
@@ -5512,7 +5596,17 @@ Contravention of order for restraint of property
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part VI — Offences included as serious offences with
+[S 597/2007 wef 01/11/2007]
+
+[S 187/2009 wef 01/05/2009]
+
+[S 380/2013 wef 01/07/2013]
+
+Part VI
+
+—
+
+Offences included as serious offences with
 
 
 
@@ -5679,7 +5773,13 @@ Making or possessing equipment for making a false instrument with intent to indu
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part VII — Offences included as serious offences with
+[S 33/2008 wef 01/02/2008]
+
+Part VII
+
+—
+
+Offences included as serious offences with
 
 
 
@@ -5706,7 +5806,13 @@ Failure to disclose information about acts of terrorist bombing
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part VIII — Offences included as serious offences with
+[S 83/2008 wef 20/02/2008]
+
+Part VIII
+
+—
+
+Offences included as serious offences with
 
 
 
@@ -5745,7 +5851,13 @@ Forgery
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part IX — Offences included as serious offences with
+[S 187/2009 wef 01/05/2009]
+
+Part IX
+
+—
+
+Offences included as serious offences with
 
 
 
@@ -5796,7 +5908,13 @@ Transport of radioactive waste.
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part X — Offences included as serious offences with
+[S 28/2010 wef 22/01/2010]
+
+Part X
+
+—
+
+Offences included as serious offences with
 
 
 
@@ -5817,7 +5935,13 @@ Hostage-taking
 
 *Note: The short description of offences in this Schedule is for ease of reference only.
 
-Part XI — offences included as serious offences
+[S 667/2010 wef 21/11/2010]
+
+Part XI
+
+—
+
+Offences included as serious offences
 
 
 
@@ -5860,7 +5984,13 @@ Harbouring offenders of Immigration Act or Regulations
 
 * Note: The short description of offences is for ease of reference only.
 
-Part XII — Offences included as serious offences
+[S 59/2011 wef 15/02/2011]
+
+Part XII
+
+—
+
+Offences included as serious offences
 
 
 
@@ -5929,7 +6059,7 @@ Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits)
 
 (CHAPTER 65A)
 
-This Legislative History is provided for the convenience of users of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -6094,6 +6224,7 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of First Reading|28 May 2014 (Bill No. 15/2014 published on 28 May 2014)|
 ||Date of Second and Third Readings|7 July 2014|
 ||Date of commencement|1 September 2014|
+|||15 October 2014|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
