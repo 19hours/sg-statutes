@@ -134,7 +134,7 @@
 
 (CHAPTER 67)
 
-(Original Enactment: ORDINANCE 26 of 1955)
+(Original Enactment: Ordinance 26 of 1955)
 
 REVISED EDITION 2000
 
@@ -152,13 +152,9 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the Criminal Law (Temporary Provisions) Act.
 
-(2) This Act shall continue in force for a period of 5 years from 21st October 2009.
+(2) This Act shall continue in force for a period of 5 years from 21st October 2014.
 
-[8/2009 wef 21/10/2009]
-
-[17/99]
-
-[32/2004 wef 21/10/2004]
+[Act 25 of 2013 wef 21/10/2014]
 
 (3) The expiry of this Act shall not affect the operation thereof as respects things previously done or omitted to be done.
 
@@ -256,7 +252,7 @@ ILLEGAL STRIKES AND LOCK-OUTS IN ESSENTIAL SERVICES
 
 (b) gas services; and
 
-(c) electricity services
+(c) electricity services.
 
 (2) No workman employed in any essential service, not being an essential service specified in subsection (1), shall go on strike —
 
@@ -486,8 +482,6 @@ given to a police officer or officer of the Central Narcotics Bureau in charge o
 
 (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 27A.
 
-[32/2004 wef 21/10/2004]
-
 (3) The additional types of body samples that may be prescribed under subsection (2) shall not include samples to be obtained from —
 
 (a) the genital or anal area of a person’s body;
@@ -582,8 +576,6 @@ shall be taken from any person unless the appropriate consent is given for the t
 
 (ii) section 40D of the Misuse of Drugs Act (Cap. 185);
 
-[32/2004 wef 21/10/2004]
-
 [2/2006 wef 01/03/2006]
 
 (c) for any proceedings for any offence;
@@ -599,8 +591,6 @@ shall be taken from any person unless the appropriate consent is given for the t
 (b) placed on detention or supervision under this Act,
 
 the Commissioner of Police shall cause all such photographs, finger impressions, records of particulars and body samples taken from that person to be removed from the register and DNA database maintained under subsection (1).
-
-[32/2004 wef 21/10/2004]
 
 (4) For the purposes of subsection (2)(c) —
 
@@ -844,61 +834,115 @@ Part I
 
 Essential Services
 
-1\. Banking services, including services relating to transactions in securities and futures contracts.
+1. 
 
-2\. Broadcasting services.
+Banking services, including services relating to transactions in securities and futures contracts.
 
-3\. Bulk distribution of fuel and lubricants.
+2. 
 
-4\. Civil defence services provided by the Singapore Civil Defence Force.
+Broadcasting services.
 
-5\. Clearing and settlement services relating to transactions in securities and futures contracts and transactions in the banking system.
+3. 
 
-6\. Drug enforcement services provided by the Central Narcotics Bureau.
+Bulk distribution of fuel and lubricants.
 
-7\. Electricity and gas services.
+4. 
 
-8\. Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
+Civil defence services provided by the Singapore Civil Defence Force.
 
-9. Information services and undertakings provided by the Ministry of Communications and Information and its agencies.
+5. 
+
+Clearing and settlement services relating to transactions in securities and futures contracts and transactions in the banking system.
+
+6. 
+
+Drug enforcement services provided by the Central Narcotics Bureau.
+
+7. 
+
+Electricity and gas services.
+
+8. 
+
+Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
+
+9. 
+
+Information services and undertakings provided by the Ministry of Communications and Information and its agencies.
 
 [Act 4 of 2014 wef 10/03/2014]
 
-10\. Information technology services to support the processing of applications for permits for the import, export and transshipment of goods.
+10. 
 
-11\. Newspaper services.
+Information technology services to support the processing of applications for permits for the import, export and transshipment of goods.
 
-12\. Pollution control and environmental monitoring and assessment services provided by the National Environment Agency.
+11. 
 
-13\. Port, dock and harbour services and undertakings including services relating to the tracking and safe navigation of vessels in the territorial waters of Singapore and marine services and facilities and port services and facilities as defined in the Maritime and Port Authority of Singapore Act (Cap. 170A).
+Newspaper services.
 
-14\. Postal and telecommunication services and undertakings.
+12. 
 
-15\. Prison services.
+Pollution control and environmental monitoring and assessment services provided by the National Environment Agency.
 
-16\. Private and public health services, including services relating to the collection of blood for the use of hospitals and the pharmaceutical services.
+13. 
 
-17\. Public transport and air transport services, including ground handling services.
+Port, dock and harbour services and undertakings, including services relating to the tracking and safe navigation of vessels in the territorial waters of Singapore and marine services and facilities and port services and facilities as defined in the Maritime and Port Authority of Singapore Act (Cap. 170A).
 
-18\. Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
+14. 
 
-19\. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
+Postal and telecommunication services and undertakings.
 
-20\. Services provided by the Immigration & Checkpoints Authority.
+15. 
 
-21\. Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act (Cap. 289).
+Prison services.
 
-22\. Sewerage and waste water treatment services.
+16. 
 
-23\. Veterinary public health services provided by the Agri-Food and Veterinary Authority, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
+Private and public health services, including services relating to the collection of blood for the use of hospitals and the pharmaceutical services.
 
-24\. Water reclamation services.
+17. 
 
-25\. Water services.
+Public transport and air transport services, including ground handling services.
 
-26\. Weather information provided by the Meteorological Services Division of the National Environment Agency.
+18. 
 
-27. The following undertakings performed for the Singapore Armed Forces:
+Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
+
+19. 
+
+Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
+
+20. 
+
+Services provided by the Immigration & Checkpoints Authority.
+
+21. 
+
+Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act (Cap. 289).
+
+22. 
+
+Sewerage and waste water treatment services.
+
+23. 
+
+Veterinary public health services provided by the Agri-Food and Veterinary Authority, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
+
+24. 
+
+Water reclamation services.
+
+25. 
+
+Water services.
+
+26. 
+
+Weather information provided by the Meteorological Services Division of the National Environment Agency.
+
+27. 
+
+The following undertakings performed for the Singapore Armed Forces:
 
 (a) the construction, maintenance and repair of military installations;
 
@@ -914,7 +958,9 @@ Essential Services
 
 (g) the surveillance, testing and disposal of ammunition.
 
-28. All undertakings of whatever nature of —
+28. 
+
+All undertakings of whatever nature of —
 
 (a) a securities exchange, a futures exchange, a clearing house or an exchange holding company approved under the Securities and Futures Act (Cap. 289);
 
@@ -928,7 +974,7 @@ Essential Services
 
 (f) the Monetary Authority of Singapore under the Currency Act (Cap. 69).
 
-[S 31/2000]
+[S 13/2005 wef 07/01/2005]
 
 Part II
 
@@ -1112,27 +1158,29 @@ The Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65).
 
 Section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
 
-3. [S 668/2010 wef 21/11/2010]
-
-4. 
+3. 
 
 Sections 58 and 59 of the Internal Security Act (Cap. 143).
 
-5. 
+4. 
 
 Sections 3, 4 and 5 of the Kidnapping Act (Cap. 151).
 
-6. 
+5. 
 
 Section 5 of the Misuse of Drugs Act (Cap. 185).
 
-7. 
+6. 
 
 Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 363A, 364, 364A, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
 
-8. 
+7. 
 
 Sections 14 and 15 of the Societies Act (Cap. 311).
+
+[S 668/2010 wef 21/11/2010]
+
+[51/2007 wef 01/02/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -1140,7 +1188,7 @@ Criminal Law (Temporary Provisions) Act
 
 (CHAPTER 67)
 
-This Legislative History is provided for the convenience of users of the Criminal Law (Temporary Provisions) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Criminal Law (Temporary Provisions) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1374,6 +1422,11 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
 |||(section 4 — Amendment to Criminal Law (Temporary Provisions) Act)|
+|56.|**Act 25 of 2013—Criminal Law (Temporary Provisions) (Amendment) Act 2013**|
+||Date of First Reading|21 October 2013|
+|||(Bill No. 16/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|11 November 2013|
+||Date of commencement|21 October 2014|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
