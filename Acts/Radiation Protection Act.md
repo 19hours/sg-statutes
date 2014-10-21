@@ -12,6 +12,8 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Application of Act to Government](#Application-of-Act-to-Government)
+
 [**Part II ADMINISTRATION**](#Part-II)
 
 - [3 Administration of Act and appointment of authorised officers](#Administration-of-Act-and-appointment-of-authorised-officers)
@@ -74,6 +76,24 @@
 
 - [26 Obligations of persons carrying out inspections](#Obligations-of-persons-carrying-out-inspections)
 
+[**Part VIIIA OFFENCES RELATING TO NUCLEAR MATERIAL CONVENTION**](#Part-VIIIA)
+
+- [26A Nuclear material](#Nuclear-material)
+
+- [26B Use, etc., of nuclear material](#Use-etc-of-nuclear-material)
+
+- [26C Enhanced punishment for theft, etc., of nuclear material](#Enhanced-punishment-for-theft-etc-of-nuclear-material)
+
+- [26D Threat to commit certain offences](#Threat-to-commit-certain-offences)
+
+- [26E Information relating to offence](#Information-relating-to-offence)
+
+- [26F Extra-territoriality](#Extra-territoriality)
+
+- [26G Assistance under Mutual Assistance in Criminal Matters Act](#Assistance-under-Mutual-Assistance-in-Criminal-Matters-Act)
+
+- [26H Extradition](#Extradition)
+
 [**Part IX ENFORCEMENT**](#Part-IX)
 
 - [27 Power of arrest](#Power-of-arrest)
@@ -106,9 +126,11 @@
 
 - [40 Composition of offences](#Composition-of-offences)
 
+- [40A Cost of enforcement](#Cost-of-enforcement)
+
 - [41 Exemption](#Exemption)
 
-- [42 Amendment of Schedule](#Amendment-of-Schedule)
+- [42 Amendment of Schedules](#Amendment-of-Schedules)
 
 - [43 Regulations](#Regulations)
 
@@ -116,7 +138,9 @@
 
 - [45 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-[**THE SCHEDULE Definition of Nuclear Material**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Definition of nuclear material**](#FIRST-SCHEDULE-Definition-of-nuclear-material)
+
+[**SECOND SCHEDULE Enhanced punishments for offences committed in relation to nuclear material**](#SECOND-SCHEDULE-Enhanced-punishments-for-offences-committed-in-relation-to-nuclear-material)
 
 [**Legislative History**](#Legislative-History)
 
@@ -132,7 +156,9 @@ REVISED EDITION 2008
 
 (31st March 2008)
 
-An Act to control and regulate the import, export, manufacture, sale, disposal, transport, storage, possession and use of radioactive materials and irradiating apparatus, to make provision in relation to the non-proliferation of nuclear weapons and to establish a system for the imposition and maintenance of nuclear safeguards, and to provide for matters connected therewith.
+An Act to control and regulate the import, export, manufacture, sale, disposal, transport, storage, possession and use of radioactive materials and irradiating apparatus, to make provision in relation to the non-proliferation of nuclear weapons, to establish a system for the imposition and maintenance of nuclear safeguards, and to implement the Convention on the Physical Protection of Nuclear Material, and to provide for matters connected therewith.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 [1st July 2007]
 
@@ -152,7 +178,15 @@ PRELIMINARY
 
 “authorised officer” means any person appointed as an authorised officer under section 3(2), and includes the Director-General;
 
+“Convention country” means a foreign country that is a Party to the Nuclear Material Convention;
+
+[Act 20 of 2014 wef 21/10/2014]
+
 “conveyance” includes any vessel, train, vehicle, aircraft or other mode of transport;
+
+“country” includes a State or territory, as the case may be;
+
+[Act 20 of 2014 wef 21/10/2014]
 
 “Director-General” means the Director-General of Environmental Protection appointed under section 3(1) of the Environmental Protection and Management Act (Cap. 94A);
 
@@ -188,7 +222,27 @@ and “dispose of” shall be construed accordingly;
 
 “non-ionising radiations” means electromagnetic radiations and fields with wavelengths greater than 100 nanometers and all acoustic radiations and fields with frequencies below 16 Hz and above 16 kHz;
 
-“nuclear material” has the same meaning as in the Schedule;
+“nuclear material” has the same meaning as in the First Schedule;
+
+[Act 20 of 2014 wef 21/10/2014]
+
+“Nuclear Material Convention” means the Convention on the Physical Protection of Nuclear Material adopted in Vienna on 26th October 1979;
+
+[Act 20 of 2014 wef 21/10/2014]
+
+“nuclear offence” means —
+
+(a) an offence under section 26B or 26D;
+
+(b) an offence specified in the Second Schedule committed in relation to any nuclear material;
+
+(c) an abetment of or a conspiracy to commit an offence referred to in paragraph (a) or (b);
+
+(d) an attempt to commit an offence under section 26B, or an offence referred to in paragraph (b) except any offence under section 384, 385, 386, 387, 388 or 389 of the Penal Code (Cap. 224) committed in relation to nuclear material; or
+
+(e) an act by a person which would make him liable for an offence referred to in paragraph (a), (b) or (d) by virtue of section 34, 35 or 37 of the Penal Code;
+
+[Act 20 of 2014 wef 21/10/2014]
 
 “owner”, in relation to any premises, includes —
 
@@ -240,6 +294,14 @@ and “sale” and “purchase” shall have corresponding meanings.
 
 (2) Any word or expression used and not defined in this Act but defined in the Safeguards Agreement shall, unless the context otherwise requires, have the same meaning as in the Safeguards Agreement.
 
+### Application of Act to Government
+
+2A\.—(1) Except as provided in subsection (2), Parts III to VIII and X and regulations made for the purposes of these Parts shall bind and apply to the Government.
+
+(2) Nothing in this Act shall render the Government liable to prosecution for an offence.
+
+[Act 20 of 2014 wef 21/10/2014]
+
 ## PART II
 
 ADMINISTRATION
@@ -274,7 +336,9 @@ CONTROL OF IMPORT, EXPORT, ETC., OF RADIOACTIVE MATERIALS AND IRRADIATING APPARA
 
 (d) transport any radioactive material.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 ### Control of import, export, etc., of irradiating apparatus
 
@@ -294,7 +358,9 @@ CONTROL OF IMPORT, EXPORT, ETC., OF RADIOACTIVE MATERIALS AND IRRADIATING APPARA
 
 (4) No person shall dispose of any irradiating apparatus, whether in a working condition or otherwise, without the prior approval in writing of the Director-General.
 
-(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 (6) Any person who contravenes subsection (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -438,7 +504,9 @@ INFORMATION AND DOCUMENTS
 
 ### Power to obtain information and documents
 
-16\.—(1) The Director-General may, by notice in writing to any person whom the Director-General considers to be capable of giving any information or document that is required to be given by Singapore to the IAEA under the Safeguards Agreement, require the person to give such information or document to the Director-General in such form and manner, and within such period, as may be specified in the notice.
+16\.—(1) The Director-General may, by notice in writing to any person whom the Director-General considers to be capable of giving any information or document that is required to be given by Singapore to the IAEA under the Safeguards Agreement, or to a Convention country or the IAEA or any other international organisation under the Nuclear Material Convention, require the person to give such information or document to the Director-General in such form and manner, and within such period, as may be specified in the notice.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 (2) Notwithstanding section 44, the duty to comply with a notice given under subsection (1) is not affected by any obligation as to secrecy or other restriction on disclosure, whether imposed by written law or otherwise.
 
@@ -452,7 +520,9 @@ INFORMATION AND DOCUMENTS
 
 (a) with the consent of the person to whose affairs it relates;
 
-(b) in connection with anything done for the purposes of this Act or the Safeguards Agreement;
+(b) in connection with anything done for the purposes of this Act, the Safeguards Agreement or the Nuclear Material Convention;
+
+[Act 20 of 2014 wef 21/10/2014]
 
 (c) in connection with the investigation of a criminal offence or for the purposes of criminal proceedings;
 
@@ -617,6 +687,165 @@ may, unconditionally or subject to conditions, issue a warrant authorising the e
 (b) where applicable, have a warrant with him and produce it if required to do so; and
 
 (c) where any matter, thing or document is taken, give the owner, occupier or person in control of the premises a written inventory thereof.
+
+## PART VIIIA
+
+OFFENCES RELATING TO NUCLEAR
+
+
+
+
+MATERIAL CONVENTION
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Nuclear material
+
+26A\.—(1) In this Part, “nuclear material” means —
+
+(a) plutonium except plutonium with an isotopic concentration of plutonium-238 exceeding 80%;
+
+(b) uranium-233;
+
+(c) uranium containing uranium-233 or uranium-235 or both in such an amount that the abundance ratio of the sum of those isotopes to uranium-238 is greater than the ratio of uranium-235 to uranium-238 occurring in nature;
+
+(d) uranium with an isotopic concentration equal to that occurring in nature; or
+
+(e) any material containing one or more of the foregoing,
+
+that is used for peaceful purposes, but does not include uranium in the form of ore or ore-residue.
+
+(2) If in any proceedings a question arises whether any nuclear material was used for peaceful purposes, a certificate issued by the Minister and stating that it was, or was not, so used at a time specified in the certificate, shall be prima facie evidence of that matter.
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Use, etc., of nuclear material
+
+26B\. Any person who, without lawful authority, receives, possesses, uses, transfers, alters, disposes of, or disperses nuclear material, where the act causes or is likely to cause —
+
+(a) death or serious injury to any person; or
+
+(b) substantial damage to property,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to life imprisonment.
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Enhanced punishment for theft, etc., of nuclear material
+
+26C\.—(1) If, in a prosecution of a person for an offence under a section of the Penal Code (Cap. 224) set out in the first column of the Second Schedule, it is proved that —
+
+(a) the offence is committed in relation to nuclear material; and
+
+(b) the person knew that it was nuclear material,
+
+then, in lieu of the term of imprisonment prescribed in that section, the person shall be liable to the term of imprisonment set out in the second column of that Schedule against that section.
+
+(2) Subsection (1) is without prejudice to any liability of the person to, or the jurisdiction of the court to impose, any other punishment prescribed in that section of the Penal Code.
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Threat to commit certain offences
+
+26D\.—(1) Any person who threatens to use nuclear material to cause —
+
+(a) death or serious injury to any person; or
+
+(b) substantial damage to property,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 10 years.
+
+(2) Any person who threatens to commit, in relation to nuclear material —
+
+(a) theft within the meaning of section 378 of the Penal Code (Cap. 224); or
+
+(b) robbery within the meaning of section 390 of the Penal Code,
+
+in order to compel a person, an international organisation, the Government or the government of a country to do or refrain from doing any act, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 10 years.
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Information relating to offence
+
+26E\.—(1) Any person in Singapore who has information which he knows or believes may be of material assistance —
+
+(a) in preventing the commission by another person of an offence to which this section applies; or
+
+(b) in securing the apprehension, prosecution or conviction of another person, in Singapore, for an offence involving the commission, preparation or instigation of an offence to which this section applies,
+
+and who fails to disclose the information immediately to a police officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) This section applies to the following offences:
+
+(a) an offence under section 26B;
+
+(b) an offence specified in the Second Schedule committed in relation to any nuclear material.
+
+(3) No criminal or civil proceedings shall lie against a person for any disclosure made in good faith under this section.
+
+(4) A person who makes a disclosure in good faith under this section shall not be treated as being in breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct.
+
+(5) For the avoidance of doubt, this section is without prejudice to sections 128, 128A and 129 of the Evidence Act (Cap. 97).
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Extra-territoriality
+
+26F\. Any person who, outside Singapore, commits an act that, if committed in Singapore, would constitute a nuclear offence is deemed to commit the act in Singapore and may be proceeded against, charged, tried and punished accordingly.
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Assistance under Mutual Assistance in Criminal Matters Act
+
+26G\.—(1) For the purposes of the provision of assistance under Part III of the Mutual Assistance in Criminal Matters Act (Cap. 190A) to a foreign country for a criminal matter involving a relevant offence of that country, the relevant offence shall be deemed not to be an offence of a political character.
+
+(2) In this section —
+
+“criminal matter” has the meaning given to that expression in section 2(1) of the Mutual Assistance in Criminal Matters Act;
+
+“relevant offence”, in relation to a foreign country, means an offence against the law of that country that consists of or includes conduct which, if it had occurred in Singapore, would have constituted a nuclear offence.
+
+[Act 20 of 2014 wef 21/10/2014]
+
+### Extradition
+
+26H\.—(1) All nuclear offences shall be deemed to be extraditable crimes for the purposes of Parts III and IV of the Extradition Act (Cap. 103).
+
+(2) For the purposes of the Extradition Act, the expression “extradition crime”, in relation to a Convention country that is a declared Commonwealth country, shall be deemed to include relevant offences.
+
+(3) Subject to subsection (4), where no extradition treaty is in force between Singapore and a Convention country that is not a declared Commonwealth country, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
+
+(4) Where the Extradition Act is applied under subsection (3), that Act shall have effect in relation to that country as if the only extradition crimes under that Act were the relevant offences of that country.
+
+(5) Subsection (4) is without prejudice to any other notification made under section 4 of the Extradition Act.
+
+(6) Where —
+
+(a) an extradition treaty is in force between Singapore and a Convention country; and
+
+(b) the treaty does not provide for the extradition of persons accused of or convicted of a relevant offence of that country,
+
+a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act in relation to that country as if the treaty provided for the matter referred to in paragraph (b).
+
+(7) Where a notification referred to in subsection (6) is made, any limitation, condition, exception or qualification specified in any other notification made under section 4 of the Extradition Act, or in any Order in Council referred to in section 3 of that Act, in relation to that country shall, to the extent that it prevents the relevant offence from being considered an extradition crime in relation to that country, be disregarded in the application of that Act in relation to that country.
+
+(8) For the purposes of the Extradition Act —
+
+(a) any act, wherever committed, which is a relevant offence of a Convention country which is a declared Commonwealth country, or which is a relevant offence of a Convention country which is not a declared Commonwealth country in the case of which the Extradition Act has been applied by a notification in theGazettemade under section 4 of that Act, shall be deemed to be an offence within the jurisdiction of that country; and
+
+(b) any such offence shall be deemed not to be an offence of a political character.
+
+(9) In this section —
+
+“declared Commonwealth country” has the meaning given to that expression in the Extradition Act;
+
+“relevant offence”, in relation to a Convention country, means an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission —
+
+(a) would constitute a nuclear offence; or
+
+(b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 ## PART IX
 
@@ -802,13 +1031,21 @@ whichever is the lower.
 
 (3) The Agency may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
+### Cost of enforcement
+
+40A\. Where a person has been convicted by a court for an offence under section 5 or 6 or under Part VIIIA, the court may order that person to pay reasonable costs of any enforcement action taken by an authorised officer in respect of the offence, including any cost of storage of the subject-matter of the offence or anything used in the commission of the offence.
+
+[Act 20 of 2014 wef 21/10/2014]
+
 ### Exemption
 
 41\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, by regulations exempt any person, premises, material or thing, or any class thereof, from all or any of the provisions of this Act, subject to such terms or conditions as may be prescribed.
 
-### Amendment of Schedule
+### Amendment of Schedules
 
-42\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the Schedule.
+42\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the First or Second Schedule.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
 
@@ -834,7 +1071,9 @@ whichever is the lower.
 
 (h) imposing requirements with respect to the construction or structural alteration of buildings used or intended to be used for the manufacture, production, treatment, storage or use of any radioactive substance, or in which any irradiating apparatus is used or intended to be used;
 
-(i) requiring persons who are exposed or are likely to be exposed to the risk of disease due to radiation from any radioactive substance or irradiating apparatus to submit to medical examinations, including blood tests;
+(i) requiring persons who are exposed or are likely to be exposed to the risk of disease due to radiation from any radioactive substance or irradiating apparatus to submit to screening and decontamination procedures by such persons as may be approved by the Director-General, as well as to medical examinations, including blood tests;
+
+[Act 20 of 2014 wef 21/10/2014]
 
 (j) prohibiting the use of any prescribed radioactive substance or any prescribed class or description of irradiating apparatus either generally, or for prescribed purposes or otherwise than for prescribed purposes;
 
@@ -856,7 +1095,9 @@ whichever is the lower.
 
 (s) prescribing the fees payable for services rendered by the Director-General;
 
-(t) prescribing offences in respect of the contravention of any regulation made under this section, and prescribing penalties, not exceeding $50,000, that may, on conviction, be imposed in respect of any such offence; and
+(t) prescribing offences in respect of the contravention of any regulation made under this section, and prescribing penalties, not exceeding $50,000 or an imprisonment term not exceeding 6 months or both, that may, on conviction, be imposed in respect of any such offence; and
+
+[Act 20 of 2014 wef 21/10/2014]
 
 (u) any other matter which is required or permitted to be prescribed or which is necessary or expedient to be prescribed for carrying out or giving effect to the provisions of this Act.
 
@@ -875,6 +1116,10 @@ such particulars, information or documents as may be prescribed in respect of an
 (c) prohibiting the issue of a port clearance to the master of any vessel pending compliance with any provision of the regulations; and
 
 (d) the registration of any nuclear material that is imported or exported.
+
+(3) Without prejudice to the generality of subsection (1), the Agency may, with the approval of the Minister, make regulations for the purposes of implementing the Nuclear Material Convention, including for or with respect to any of the matters referred to in subsection (1), as well as to prescribe measures for the physical protection of a nuclear facility within the meaning of the Convention, including licensing the operation of such facility.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 ### Saving for other written law
 
@@ -896,11 +1141,13 @@ such particulars, information or documents as may be prescribed in respect of an
 
 [47
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Sections 2(1) and 42
 
-Definition of Nuclear Material
+[Act 20 of 2014 wef 21/10/2014]
+
+Definition of nuclear material
 
 1. In this Act, “nuclear material” means —
 
@@ -933,6 +1180,186 @@ Definition of Nuclear Material
 (d) any material containing one or more of the foregoing,
 
 but does not include source material.
+
+SECOND SCHEDULE
+
+Sections 2(1), 26C(1),
+26E(2)(b) and 42
+
+Enhanced punishments for offences
+
+
+
+
+committed in relation to nuclear material
+
+Offence under Penal Code
+
+Substituted imprisonment term
+
+1.
+
+Section 379 (Theft)
+
+Term which may extend to 5 years
+
+2.
+
+Section 380 (Theft in dwelling-house, etc.)
+
+Term which may extend to 10 years
+
+3.
+
+Section 381 (Theft by clerk or servant of property in possession of master)
+
+Term which may extend to 10 years
+
+4.
+
+Section 382 (Theft after preparation made for causing death or hurt in order to commit theft)
+
+Term which may extend to 15 years
+
+5.
+
+Section 384 (Extortion)
+
+Term of not less than 3 years and not more than 10 years
+
+6.
+
+Section 385 (Putting person in fear of harm in order to commit extortion)
+
+Term of not less than 3 years and not more than 8 years
+
+7.
+
+Section 386 (Extortion by putting a person in fear of death or grievous hurt)
+
+Term of not less than 3 years and not more than 15 years
+
+8.
+
+Section 387 (Putting person in fear of death or of grievous hurt in order to commit extortion)
+
+Term of not less than 3 years and not more than 10 years
+
+9.
+
+Section 388 (Extortion by threat of accusation of an offence punishable with death, or imprisonment, etc.)
+
+Term which may extend to 15 years
+
+10.
+
+Section 389 (Putting person in fear of accusation of offence, in order to commit extortion)
+
+Term which may extend to 15 years
+
+11.
+
+Section 392 (Robbery committed at or after 7 a.m. and at or before 7 p.m.)
+
+Term of not less than 3 years and not more than 15 years
+
+12.
+
+Section 392 (Robbery committed after 7 p.m. and before 7 a.m.)
+
+Term of not less than 5 years and not more than 20 years
+
+13.
+
+Section 393 (Attempt to commit robbery)
+
+Term of not less than 3 years and not more than 10 years
+
+14.
+
+Section 394 (Voluntarily causing hurt in committing robbery)
+
+Term of not less than 8 years and not more than 30 years
+
+15.
+
+Section 395 (Punishment for gang-robbery)
+
+Term of not less than 8 years and not more than 30 years
+
+16.
+
+Section 399 (Making preparation to commit gang-robbery)
+
+Term of not less than 5 years and not more than 15 years
+
+17.
+
+Section 402 (Assembling for purpose of committing gang-robbery)
+
+Term which may extend to 10 years
+
+18.
+
+Section 403 (Dishonest misappropriation of property)
+
+Term which may extend to 3 years
+
+19.
+
+Section 406 (Criminal breach of trust)
+
+Term which may extend to 10 years
+
+20.
+
+Section 407 (Criminal breach of trust by carrier, etc.)
+
+Term which may extend to 20 years
+
+21.
+
+Section 408 (Criminal breach of trust by clerk or servant)
+
+Term which may extend to 20 years
+
+22.
+
+Section 409 (Criminal breach of trust by public servant, or by banker, merchant, or agent)
+
+Term which may extend to 30 years
+
+23.
+
+Section 417 (Cheating)
+
+Term which may extend to 5 years
+
+24.
+
+Section 418 (Cheating with knowledge that wrongful loss may be thereby caused to a person whose interest the offender is bound to protect)
+
+Term which may extend to 8 years
+
+25.
+
+Section 419 (Cheating by personation)
+
+Term which may extend to 8 years
+
+26.
+
+Section 420 (Cheating and dishonestly inducing delivery of property)
+
+Term which may extend to 15 years
+
+27.
+
+Section 468 (Forgery for purpose of cheating)
+
+Term which may extend to 15 years.
+
+[Act 20 of 2014 wef 21/10/2014]
 
 ## LEGISLATIVE HISTORY
 
@@ -974,6 +1401,10 @@ The Radiation Protection Act 2007 repealed and re-enacted with amendments to the
 
 |6.|**2008 Revised Edition—Radiation Protection Act (Chapter 262)**|
 ||Date of operation|31 March 2008|
+|7.|**Act 20 of 2014—Radiation Protection (Amendment) Act 2014**|
+||Date of First Reading|26 May 2014 (Bill No. 14/2014 published on 26 May 2014)|
+||Date of Second and Third Readings|7 July 2014|
+||Date of commencement|21 October 2014 (except sections 3(2) and 9(2) to (5))|
 ## COMPARATIVE TABLE
 
 Radiation Protection Act
@@ -984,19 +1415,19 @@ The following provisions in the Radiation Protection Act 2007 (Act 27 of 2007) h
 
 This Comparative Table is provided for the convenience of users. It is not part of the Radiation Protection Act.
 
-2008 Ed.
+2008 Ed\. 
 
-Act 27 of 2007
-
-Omitted
-
-45
+Act 27 of 2007 
 
 Omitted
 
-46
+45 
 
-45
+Omitted
 
-47
+46 
+
+45 
+
+47 
 
