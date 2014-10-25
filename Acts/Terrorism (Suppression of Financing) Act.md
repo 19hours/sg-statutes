@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II Terrorist property**](#Part-II)
+[**Part II TERRORIST PROPERTY**](#Part-II)
 
 - [3 Prohibition against providing or collecting property for terrorist acts](#Prohibition-against-providing-or-collecting-property-for-terrorist-acts)
 
@@ -26,7 +26,7 @@
 
 - [7 Exemption](#Exemption)
 
-[**Part III Disclosure and Tipping-off**](#Part-III)
+[**Part III DISCLOSURE AND TIPPING-OFF**](#Part-III)
 
 - [8 Duty to disclose](#Duty-to-disclose)
 
@@ -38,7 +38,7 @@
 
 - [10B Tipping-off](#Tipping-off)
 
-[**Part IV seizure, freezing and confiscation of terrorist property**](#Part-IV)
+[**Part IV SEIZURE, FREEZING AND CONFISCATION OF TERRORIST PROPERTY**](#Part-IV)
 
 - [11 Application for warrant for seizure and order for restraint of property](#Application-for-warrant-for-seizure-and-order-for-restraint-of-property)
 
@@ -80,7 +80,7 @@
 
 - [30 Other forfeiture provisions unaffected](#Other-forfeiture-provisions-unaffected)
 
-[**Part V Mutual assistance and extradition**](#Part-V)
+[**Part V MUTUAL ASSISTANCE AND EXTRADITION**](#Part-V)
 
 - [31 Interpretation of this Part](#Interpretation-of-this-Part)
 
@@ -92,7 +92,7 @@
 
 - [34 Extra-territoriality](#Extra-territoriality)
 
-[**Part VII Miscellaneous**](#Part-VII)
+[**Part VII MISCELLANEOUS**](#Part-VII)
 
 - [35 Offences by body corporate](#Offences-by-body-corporate)
 
@@ -124,7 +124,7 @@ REVISED EDITION 2003
 
 An Act to suppress the financing of terrorism, to give effect to the International Convention for the Suppression of the Financing of Terrorism and for matters connected therewith.
 
-[30th January 2008]
+[29th January 2003]
 
 ## PART I
 
@@ -226,13 +226,13 @@ and includes any action specified in the Second Schedule.
 
 ## PART II
 
-Terrorist property
+TERRORIST PROPERTY
 
 ### Prohibition against providing or collecting property for terrorist acts
 
 3\. Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —
 
-(a) with the intention that the property be used ; or
+(a) with the intention that the property be used; or
 
 (b) knowing or having reasonable grounds to believe that the property will be used,
 
@@ -310,7 +310,9 @@ to which the exemption relates is also exempt from section 4(b) or 6 or both (wh
 
 ## PART III
 
-Disclosure and Tipping-off
+DISCLOSURE AND TIPPING-OFF
+
+[17/2013 wef 23/09/2013]
 
 ### Duty to disclose
 
@@ -456,7 +458,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART IV
 
-seizure, freezing and confiscation of terrorist property
+SEIZURE, FREEZING AND CONFISCATION OF TERRORIST PROPERTY
 
 ### Application for warrant for seizure and order for restraint of property
 
@@ -541,6 +543,8 @@ seizure, freezing and confiscation of terrorist property
 ### Application by Public Prosecutor to revoke or vary warrant or order
 
 18\. The Public Prosecutor may at any time apply to a Judge to revoke or vary a warrant or order issued or made under this Part, other than an appointment made under section 15(2).
+
+[15/2010 wef 02/01/2011]
 
 ### Application by interested person to revoke or vary warrant or order
 
@@ -696,7 +700,7 @@ set aside any conveyance or transfer of the property that occurred after the sei
 
 ## PART V
 
-Mutual assistance and extradition
+MUTUAL ASSISTANCE AND EXTRADITION
 
 ### Interpretation of this Part
 
@@ -760,6 +764,8 @@ a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) ma
 
 (b) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
+[30/2008 wef 17/12/2008]
+
 ## PART VI
 
 JURISDICTION
@@ -772,7 +778,7 @@ JURISDICTION
 
 ## PART VII
 
-Miscellaneous
+MISCELLANEOUS
 
 ### Offences by body corporate
 
@@ -855,6 +861,8 @@ with effect from 29th January 2003
 
 Any act or omission constituting an offence under the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124).
 
+[S 86/2008 wef 20/02/2008]
+
 Part II
 
 Actions which also constitute terrorist acts
@@ -866,7 +874,9 @@ with effect from 20th February 2008
 
 1\. Any act or omission constituting an offence under section 3, 4, 5 or 6 of the Maritime Offences Act (Cap. 170B).
 
-2\. Any act or omission constituting an offence under section 3 of the Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007).
+2. Any act or omission constituting an offence under section 3 of the Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007).
+
+[S 86/2008 wef 20/02/2008]
 
 Part III
 
@@ -874,21 +884,13 @@ Actions Which Also Constitute Terrorist Acts With Effect from 2ND June 2008
 
 Any act or omission constituting —
 
-(a)
+(a) an offence under section 4, 5, 6 or 7 of the Internationally Protected Persons Act 2008 (Act 8 of 2008);
 
-an offence under section 4, 5, 6 or 7 of the Internationally Protected Persons Act 2008 (Act 8 of 2008);
+(b) an offence specified in the First Schedule to that Act committed to or in relation to an internationally protected person;
 
-(b)
+(c) an offence specified in the Second Schedule to that Act committed to or in relation to a relevant premises or a vehicle used by an internationally protected person;
 
-an offence specified in the First Schedule to that Act committed to or in relation to an internationally protected person;
-
-(c)
-
-an offence specified in the Second Schedule to that Act committed to or in relation to a relevant premises or a vehicle used by an internationally protected person;
-
-(d)
-
-an abetment of or a conspiracy or an attempt to commit —
+(d) an abetment of or a conspiracy or an attempt to commit —
 
 (i) an offence under section 4 or 5 of that Act; or
 
@@ -897,6 +899,8 @@ an abetment of or a conspiracy or an attempt to commit —
 Note:
 
 In this Schedule, the expressions “internationally protected person”, “relevant premises” and “vehicle” have the meanings given to them in the Internationally Protected Persons Act 2008.
+
+[S 280/2008 wef 02/06/2008]
 
 Part IV
 
@@ -909,7 +913,36 @@ WITH EFFECT FROM 21st November 2010
 
 Any act constituting an offence under section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
 
-[Act 17 of 2013 wef 23/09/2013]
+[S 675/2010 wef 21/11/2010]
+
+Part V
+
+ACTIONS WHICH ALSO CONSTITUTE TERRORIST ACTS WITH
+
+
+
+
+EFFECT FROM 25 OCTOBER 2014
+
+Any act or omission constituting —
+
+(a) an offence under section 26B or 26D of the Radiation Protection Act (Cap. 262);
+
+(b) an offence specified in the Second Schedule to that Act where committed in relation to any nuclear material;
+
+(c) an abetment of, or a conspiracy to commit, an offence referred to in paragraph (a) or (b);
+
+(d) an attempt to commit an offence under section 26B of that Act;
+
+(e) an attempt to commit, in relation to any nuclear material, an offence specified in items 1 to 4 and 11 to 27 of the Second Schedule to that Act; or
+
+(f) an offence referred to in paragraph (a), (b), (d) or (e) for which a person would be made liable by virtue of section 34, 35 or 37 of the Penal Code (Cap. 224).
+
+Note:
+
+In this Schedule, the expression “nuclear material” has the meaning given to it in the Radiation Protection Act.
+
+[S 716/2014 wef 25/10/2014]
 
 ## LEGISLATIVE HISTORY
 
@@ -917,7 +950,7 @@ Terrorism (Suppression of Financing) Act
 
 (CHAPTER 325)
 
-This Legislative History is provided for the convenience of users of the Terrorism (Suppression of Financing) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Terrorism (Suppression of Financing) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -963,6 +996,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|12.|**G.N. No. S 716/2014—Terrorism (Suppression of Financing) Act (Amendment of Second Schedule) Order 2014**|
+||Date of commencement|25 October 2014|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
