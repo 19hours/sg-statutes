@@ -2167,6 +2167,18 @@ Ebola Virus Disease (EVD).
 
 [S 523/2014 wef 08/08/2014]
 
+6. 
+
+Dengue Fever.
+
+[S 720/2014 wef 30/10/2014]
+
+7. 
+
+Dengue Haemorrhagic Fever.
+
+[S 720/2014 wef 30/10/2014]
+
 ## LEGISLATIVE HISTORY
 
 Infectious Diseases Act
@@ -2297,6 +2309,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|5 June 2014|
 |37.|**G.N. No. S 523/2014—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) (No. 2) Notification 2014**|
 ||Date of commencement|8 August 2014|
+|38.|**G.N. No. S 720/2014—Infectious Diseases Act (Amendment of Sixth Schedule) Notification 2014**|
+||Date of commencement|30 October 2014|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
