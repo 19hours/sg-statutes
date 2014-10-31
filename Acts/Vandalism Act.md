@@ -16,7 +16,7 @@
 
 - [5 Power to seize article or thing in respect of which offence committed](#Power-to-seize-article-or-thing-in-respect-of-which-offence-committed)
 
-- [6 Offences to be seizable and non-bailable](#Offences-to-be-seizable-and-non-bailable)
+- [6 Offences to be arrestable and non-bailable](#Offences-to-be-arrestable-and-non-bailable)
 
 - [7 Presumption](#Presumption)
 
@@ -30,9 +30,9 @@
 
 (Original Enactment: Act 38 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st October 2014)
 
 An Act to provide for exemplary punishment for acts of vandalism and to make special provisions in regard to certain offences relating to public property.
 
@@ -64,13 +64,13 @@ An Act to provide for exemplary punishment for acts of vandalism and to make spe
 
 ### Penalty for acts of vandalism
 
-3\. Notwithstanding the provisions of any other written law, any person who commits any act of vandalism or attempts to do any such act or causes any such act to be done shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years, and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes and not more than 8 strokes:
-
-Provided that the punishment of caning shall not be imposed on a first conviction under this Act in the case of any act falling within —
+3\. Notwithstanding the provisions of any other written law, any person who commits any act of vandalism or attempts to do any such act or causes any such act to be done shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years, and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes and not more than 8 strokes, except that the punishment of caning shall not be imposed on a first conviction under this Act in the case of any act falling within —
 
 (a) paragraph (a)(i) of the definition of “act of vandalism” in section 2, if the writing, drawing, mark or inscription is done with pencil, crayon, chalk or other delible substance or thing and not with paint, tar or other indelible substance or thing; or
 
-(b) paragraph (a)(ii) or (a)(iii) of that definition.
+(b) paragraph (a)(ii) or (iii) of that definition.
+
+[15/2010]
 
 ### Written authority or written consent to be produced on demand to certain persons
 
@@ -80,21 +80,21 @@ Provided that the punishment of caning shall not be imposed on a first convictio
 
 ### Power to seize article or thing in respect of which offence committed
 
-5\. Any person mentioned in section 4(1) may seize any poster, placard, bunting, paper or document or any other article or thing whatsoever in respect of which he reasonably believes an offence to have been committed under this Act or which he reasonably believes to be or to contain evidence relating to such an offence.
+5\. Any person mentioned in section 4(1) may seize any poster, placard, bunting, paper or document or any other article or thing in respect of which he reasonably believes an offence to have been committed under this Act or which he reasonably believes to be or to contain evidence relating to such an offence.
 
-### Offences to be seizable and non-bailable
+### Offences to be arrestable and non-bailable
 
-6\. Every offence under the provisions of this Act shall be seizable and non-bailable for the purposes of the Criminal Procedure Code [Cap. 68].
+6\. Every offence under the provisions of this Act shall be arrestable and non-bailable for the purposes of the Criminal Procedure Code (Cap. 68).
 
 ### Presumption
 
-7\. For the purposes of any prosecution under section 411 of the Penal Code [Cap. 224], where the stolen property is public property, it shall be presumed, until the contrary is proved, that the person who received or retained that property knew or had reason to believe that the property was stolen public property and also that such person received or retained it dishonestly.
+7\. For the purposes of any prosecution under section 411 of the Penal Code (Cap. 224), where the stolen property is public property, it shall be presumed, until the contrary is proved, that the person who received or retained that property knew or had reason to believe that the property was stolen public property and also that such person received or retained it dishonestly.
 
 ### Revocation of secondhand goods dealer’s licence upon conviction
 
-8\. Where any secondhand goods dealer within the meaning of the Secondhand Goods Dealers Act 2007 is convicted under section 411 of the Penal Code (Cap. 224) and the stolen property concerned is public property, the court shall, in addition to any other penalty that it may impose, revoke any licence or exemption granted under that Act to the secondhand goods dealer.
+8\. Where any secondhand goods dealer within the meaning of the Secondhand Goods Dealers Act (Cap. 288A) is convicted under section 411 of the Penal Code (Cap. 224) and the stolen property concerned is public property, the court shall, in addition to any other penalty that it may impose, revoke any licence or exemption granted under that Act to the secondhand goods dealer.
 
-[4/2007 wef 01/12/2007]
+[4/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -102,7 +102,7 @@ Vandalism Act
 
 (CHAPTER 341)
 
-This Legislative History is provided for the convenience of users of the Vandalism Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Vandalism Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -127,3 +127,5 @@ This Legislative History is provided for the convenience of users of the Vandali
 |||(Bill No. 11/2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (item 114 of the Sixth Schedule — amendment of Vandalism Act)|
+|6.|**2014 Revised Edition—Vandalism Act (Chapter 341)**|
+||Date of operation|31 October 2014|
