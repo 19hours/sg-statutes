@@ -18,9 +18,9 @@
 
 - [6 Penalty for instigation](#Penalty-for-instigation)
 
-- [7 Penalty for giving financial aid to illegal industrial action or lock-out](#Penalty-for-giving-financial-aid-to-illegal-industrial-action-or-lock-out)
+- [7 Penalty for giving financial aid to illegal industrial action or lock‑out](#Penalty-for-giving-financial-aid-to-illegal-industrial-action-or-lock‑out)
 
-- [8 Protection of persons refusing to take part in illegal industrial action or lock-out](#Protection-of-persons-refusing-to-take-part-in-illegal-industrial-action-or-lock-out)
+- [8 Protection of persons refusing to take part in illegal industrial action or lock‑out](#Protection-of-persons-refusing-to-take-part-in-illegal-industrial-action-or-lock‑out)
 
 - [9 Intimidation](#Intimidation)
 
@@ -28,7 +28,7 @@
 
 - [11 Breach of contract liable to injure person or property](#Breach-of-contract-liable-to-injure-person-or-property)
 
-- [12 Offences seizable and non-bailable](#Offences-seizable-and-non-bailable)
+- [12 Offences arrestable and non-bailable](#Offences-arrestable-and-non-bailable)
 
 - [13 Consent of Public Prosecutor to proceed with charge under section 5, 6 or 7](#Consent-of-Public-Prosecutor-to-proceed-with-charge-under-section-5-6-or-7)
 
@@ -44,9 +44,9 @@
 
 (Original Enactment: Ordinance 59 of 1941)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st October 2014)
 
 An Act to control trade disputes and matters arising therefrom.
 
@@ -60,7 +60,7 @@ An Act to control trade disputes and matters arising therefrom.
 
 2\. In this Act —
 
-“award” means an award made by an Industrial Arbitration Court and includes a collective agreement a memorandum of the terms of which has been certified by the President of the Industrial Arbitration Court in accordance with the provisions of the Industrial Relations Act [Cap. 136];
+“award” means an award made by an Industrial Arbitration Court and includes a collective agreement a memorandum of the terms of which has been certified by the President of the Industrial Arbitration Court in accordance with the provisions of the Industrial Relations Act (Cap. 136);
 
 “industrial action” means —
 
@@ -90,6 +90,8 @@ An Act to control trade disputes and matters arising therefrom.
 
 (c) it is designed or calculated to coerce the Government either directly or by inflicting hardship on the community.
 
+[23/81]
+
 (2) A lock-out shall be illegal if —
 
 (a) it has any other object than the furtherance of a trade dispute within the trade or industry in which the employers locking out are engaged;
@@ -97,8 +99,6 @@ An Act to control trade disputes and matters arising therefrom.
 (b) it is in furtherance of a trade dispute of which an Industrial Arbitration Court has cognizance; or
 
 (c) it is designed or calculated to coerce the Government either directly or by inflicting hardship on the community.
-
-[23/81]
 
 ### When lock-out or industrial action not deemed to be illegal
 
@@ -120,13 +120,13 @@ An Act to control trade disputes and matters arising therefrom.
 
 [23/81]
 
-### Penalty for giving financial aid to illegal industrial action or lock-out
+### Penalty for giving financial aid to illegal industrial action or lock‑out
 
-7\. Any person who knowingly expends or applies any money in direct furtherance or support of any illegal industrial action or lock-out shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+7\. Any person who knowingly expends or applies any money in direct furtherance or support of any illegal industrial action or lock‑out shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [23/81]
 
-### Protection of persons refusing to take part in illegal industrial action or lock-out
+### Protection of persons refusing to take part in illegal industrial action or lock‑out
 
 8\.—(1) No person who refuses to take part in or to continue to take part in an illegal industrial action or lock-out shall, by reason of such refusal, be subject to expulsion from any trade union or to any fine or penalty, or to any deprivation of any right or benefit to which he or his legal personal representative would otherwise be entitled nor shall such person be placed in any respect either directly or indirectly under any disability or at any disadvantage as compared with other members of the union.
 
@@ -148,7 +148,7 @@ An Act to control trade disputes and matters arising therefrom.
 
 (d) watches or besets the house or other place where such other person resides or works or carries on business or happens to be or the approach to such house or place; or
 
-(e) follows such other person with two or more persons in a disorderly manner in or through any street or road,
+(e) follows such other person with 2 or more persons in a disorderly manner in or through any street or road,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -160,13 +160,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) merely for the purpose of peacefully obtaining or communicating information; or
 
-(b) merely for the purpose of peacefully persuading or inducing any person to work or abstain from working:
+(b) merely for the purpose of peacefully persuading or inducing any person to work or abstain from working,
 
-Provided that if such person or persons so attends or attend in such numbers or otherwise in such manner as to be calculated —
+except that if such person or persons so attends or attend in such numbers or otherwise in such manner as to be calculated —
 
 (i) to intimidate any person in that house or place;
 
-(ii) to obstruct the approach thereto or egress therefrom; or
+(ii) to obstruct the approach to or exit from that house or place; or
 
 (iii) to lead to a breach of the peace,
 
@@ -178,15 +178,15 @@ such attending shall be unlawful and shall be deemed to constitute an offence un
 
 [23/81]
 
-### Offences seizable and non-bailable
+### Offences arrestable and non-bailable
 
-12\. Every offence against the provisions of this Act shall be seizable and non-bailable for the purposes of the Criminal Procedure Code.
+12\. Every offence against the provisions of this Act shall be arrestable and non-bailable for the purposes of the Criminal Procedure Code (Cap. 68).
 
 ### Consent of Public Prosecutor to proceed with charge under section 5, 6 or 7
 
-13\. Where any person is charged before any court with an offence under section 5, 6 or 7, no further proceedings in respect thereof shall be taken against him without the consent of the Public Prosecutor, except such as the court may think necessary to remand (whether in custody or on bail) or otherwise to secure the safe custody of the person charged, provided that this section shall not apply to proceedings instituted by or on behalf of the Public Prosecutor ab initio.
+13\. Where any person is charged before any court with an offence under section 5, 6 or 7, no further proceedings in respect of that offence shall be taken against him without the consent of the Public Prosecutor, except such as the court may think necessary to remand (whether in custody or on bail) or otherwise to secure the safe custody of the person charged, provided that this section shall not apply to proceedings instituted by or on behalf of the Public Prosecutor ab initio.
 
-[15/2010 wef 02/01/2011]
+[15/2010]
 
 ### Place of trial
 
@@ -194,11 +194,11 @@ such attending shall be unlawful and shall be deemed to constitute an offence un
 
 ### Conspiracy in trade disputes
 
-15\.—(1) An agreement or combination by two or more persons to do or procure to be done any act in contemplation or furtherance of a trade dispute between employers and employees shall not be punishable as a conspiracy if such act committed by one person would not be punishable as a crime.
+15\.—(1) An agreement or a combination by 2 or more persons to do or procure to be done any act in contemplation or furtherance of a trade dispute between employers and employees shall not be punishable as a conspiracy if such act committed by one person would not be punishable as a crime.
 
-(2) An act done in pursuance of an agreement or combination of two or more persons shall, if done in contemplation or furtherance of a trade dispute, not be actionable unless the act, if done without any such agreement or combination, would be actionable.
+(2) An act done in pursuance of an agreement or a combination of 2 or more persons shall, if done in contemplation or furtherance of a trade dispute, not be actionable unless the act, if done without any such agreement or combination, would be actionable.
 
-(3) Nothing in this section shall exempt from punishment any persons guilty of a conspiracy for which a punishment is awarded by any written law.
+(3) Nothing in this section shall exempt from punishment any person guilty of a conspiracy for which a punishment is awarded by any written law.
 
 (4) Nothing in this section shall affect the law relating to riot, unlawful assembly, breach of the peace, or sedition, or any offence against the State or the President.
 
@@ -210,7 +210,7 @@ Trade Disputes Act
 
 (CHAPTER 331)
 
-This Legislative History is provided for the convenience of users of the Trade Disputes Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Trade Disputes Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -250,3 +250,5 @@ This Legislative History is provided for the convenience of users of the Trade D
 |||(Bill No. 11/2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011 (item 109 of the Sixth Schedule –– amendment of Trade Disputes Act)|
+|10.|**2014 Revised Edition—Trade Disputes Act (Chapter 331)**|
+||Date of operation|31 October 2014|
