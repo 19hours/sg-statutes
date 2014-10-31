@@ -6,13 +6,13 @@
 
 [**Long Title**](#National-Library-Board-Act)
 
-[**Part I PRELIMINARY**](#Part-I)
+[**Part 1 PRELIMINARY**](#Part-1)
 
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD**](#Part-II)
+[**Part 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD**](#Part-2)
 
 - [3 Establishment of National Library Board](#Establishment-of-National-Library-Board)
 
@@ -38,7 +38,7 @@
 
 - [14 Directions by Minister](#Directions-by-Minister)
 
-[**Part IIA NATIONAL ARCHIVES OF SINGAPORE AND ORAL HISTORY CENTRES**](#Part-IIA)
+[**Part 2A NATIONAL ARCHIVES OF SINGAPORE AND ORAL HISTORY CENTRES**](#Part-2A)
 
 - [14A National Archives of Singapore](#National-Archives-of-Singapore)
 
@@ -64,7 +64,7 @@
 
 - [14L Transfer of employees from National Heritage Board, etc.](#Transfer-of-employees-from-National-Heritage-Board-etc)
 
-[**Part III PROVISIONS RELATING TO STAFF**](#Part-III)
+[**Part 3 PROVISIONS RELATING TO STAFF**](#Part-3)
 
 - [15 Chief executive officer of Board](#Chief-executive-officer-of-Board)
 
@@ -72,7 +72,7 @@
 
 - [17 Public servants for purposes of Penal Code](#Public-servants-for-purposes-of-Penal-Code)
 
-[**Part IV FINANCIAL PROVISIONS**](#Part-IV)
+[**Part 4 FINANCIAL PROVISIONS**](#Part-4)
 
 - [18 Funds of Board](#Funds-of-Board)
 
@@ -90,7 +90,7 @@
 
 - [24 Financial provisions](#Financial-provisions)
 
-[**Part V TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-V)
+[**Part 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-5)
 
 - [25 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
@@ -108,7 +108,7 @@
 
 - [32 Misconduct or neglect of duty by employee before transfer](#Misconduct-or-neglect-of-duty-by-employee-before-transfer)
 
-[**Part VI MISCELLANEOUS PROVISIONS**](#Part-VI)
+[**Part 6 MISCELLANEOUS PROVISIONS**](#Part-6)
 
 - [33 Board’s symbol](#Board’s-symbol)
 
@@ -124,21 +124,23 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # National Library Board Act
 
 (CHAPTER 197)
 
 (Original Enactment: Act 5 of 1995)
 
-REVISED EDITION 1996
+REVISED EDITION 2014
 
-(30th April 1996)
+(31st October 2014)
 
 An Act to establish and incorporate the National Library Board, to transfer to it the National Library and for matters connected therewith.
 
 [1st September 1995]
 
-## PART I
+## PART 1
 
 PRELIMINARY
 
@@ -170,13 +172,9 @@ PRELIMINARY
 
 “member” means a member of the Board;
 
-“National Archives” means the National Archives of Singapore transferred by the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 to the Board and administered in accordance with Part IIA;
-
-[Act 25 of 2012 wef 28/03/2013]
+“National Archives” means the National Archives of Singapore transferred by the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (Act 25 of 2012) to the Board and administered in accordance with Part 2A;
 
 “National Heritage Board” means the National Heritage Board established under section 3 of the National Heritage Board Act (Cap. 196A);
-
-[Act 25 of 2012 wef 28/03/2013]
 
 “printed”, in relation to books, means produced by printing, lithography, duplication or any other like process, and “printer” has a corresponding meaning;
 
@@ -188,15 +186,9 @@ PRELIMINARY
 
 (c) have been transferred to the Board or to such other place as the Board may from time to time determine;
 
-[Act 25 of 2012 wef 28/03/2013]
-
 “public office” means any department, office, institution, agency, commission, board, local authority or statutory body or any other office of the Government or branch or subdivision thereof, and any other body that the President may, by notification in theGazette, declare to be a public office;
 
-[Act 25 of 2012 wef 28/03/2013]
-
 “public records” means papers, documents, records, registers, printed materials, books, maps, plans, drawings, photographs, microforms, videotapes, films, machine readable and electronic records, sound recordings and other forms of records of any kind whatsoever, that are produced or received by any public office in the transaction of official business, or by any officer in the course of his official duties, and includes public archives;
-
-[Act 25 of 2012 wef 28/03/2013]
 
 “publicly-funded libraries” means all libraries owned by the Government or any statutory body and such other libraries which are, directly or indirectly, funded by the Government (whether fully or partially) as the Board may determine;
 
@@ -204,7 +196,9 @@ PRELIMINARY
 
 “publisher” means any person who arranges for any library material to be published in Singapore.
 
-## PART II
+[25/2012]
+
+## PART 2
 
 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
@@ -234,7 +228,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (b) a Deputy Chairman; and
 
-(c) not less than 10 nor more than 20 other members as the Minister may from time to time determine.
+(c) not less than 10 but not more than 20 other members as the Minister may from time to time determine.
 
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
@@ -256,23 +250,15 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (g) to compile and maintain a national union catalogue and a national bibliography;
 
-[Act 25 of 2012 wef 28/03/2013]
+(h) to advise the Government on national needs and policies in respect of matters relating to publicly‑funded libraries and library information services in Singapore;
 
-(h) to advise the Government on national needs and policies in respect of matters relating to publicly-funded libraries and library information services in Singapore;
-
-[Act 25 of 2012 wef 28/03/2013]
-
-(i) to provide a permanent repository of records of national or historical significance and to facilitate access thereto;
-
-[Act 25 of 2012 wef 28/03/2013]
+(i) to provide a permanent repository of records of national or historical significance and to facilitate access to those records;
 
 (j) to conduct records management programmes for the Government; and
 
-[Act 25 of 2012 wef 28/03/2013]
-
 (k) to record, preserve and disseminate the history of Singapore through oral history methodology or other means.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Powers of Board
 
@@ -294,17 +280,11 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (g) to establish liaison with other library authorities and information providers and other archives and oral history centres (foreign or otherwise) to secure maximum collaboration of all activities relevant to the Board’s functions;
 
-[Act 25 of 2012 wef 28/03/2013]
-
 (h) to undertake or sponsor programmes for the training of persons in the profession and skills involved in the operations of libraries, archives and oral history centres;
-
-[Act 25 of 2012 wef 28/03/2013]
 
 (i) to arrange for or provide professional and technical services in connection with libraries on such terms and conditions as the Board may determine;
 
 (j) to undertake and facilitate research on libraries, librarianship, archival work and oral history;
-
-[Act 25 of 2012 wef 28/03/2013]
 
 (k) to raise funds by all lawful means and to receive gifts and donations, whether on trust or otherwise;
 
@@ -317,6 +297,8 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 (o) to provide or undertake publicity in any form; and
 
 (p) to charge fees, commissions or rent for any services or facilities provided by the Board.
+
+[25/2012]
 
 ### Directors and advisory committees for libraries
 
@@ -340,7 +322,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (b) the quality and the format of the copies of library materials required to be deposited.
 
-(3) Every publisher of any library material who contravenes or fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(3) Every publisher of any library material who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (4) The Board may, in its discretion, compound any offence under this section by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
@@ -370,7 +352,7 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (2) The Board shall give the Minister such information with regard to its property and activities as the Minister may require.
 
-## PART IIA
+## PART 2A
 
 NATIONAL ARCHIVES OF SINGAPORE
 
@@ -379,11 +361,13 @@ NATIONAL ARCHIVES OF SINGAPORE
 
 AND ORAL HISTORY CENTRES
 
-[Act 25 of 2012 wef 28/03/2013]
-
 ### National Archives of Singapore
 
-14A\.—(1) On the date of commencement of section 8(2) of the Statutes (Miscellaneous Amendments) (No. 2) Act 2012, the National Archives of Singapore in which records of national or historical significance shall be preserved is transferred from the National Heritage Board to the Board.
+14A\.—(1) On 28 March 20132, the National Archives of Singapore in which records of national or historical significance shall be preserved is transferred from the National Heritage Board to the Board.
+
+2Date of commencement of the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (Act 25 of 2012).
+
+[25/2012]
 
 (2) The Board —
 
@@ -403,37 +387,47 @@ AND ORAL HISTORY CENTRES
 
 (h) may acquire by purchase, donations, bequest or otherwise any document, book or other material which, in the opinion of the Board, is or is likely to be of national or historical significance.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Appointment of Director of National Archives
 
 14B\.—(1) There shall be an officer of the Board whom the Board shall appoint as the Director of National Archives, and the Director of National Archives shall be responsible to the Board for the general management and control of the National Archives.
 
+[25/2012]
+
 (2) The Director of National Archives, and any person acting on behalf or under the direction of the Director of National Archives, shall, with respect to access to public records, satisfy any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to the public records.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Transfer of public records to National Archives
 
 14C\. Any public records which, in the opinion of the Board, are of national or historical significance shall be transferred to the care and control of the National Archives in accordance with such schedules or other agreements for the transfer of records as may be agreed on between the Board and the public office responsible for the public records.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Destruction or disposal of public records only on authority of Board
 
 14D\.—(1) No person shall, without the authorisation of the Board under subsection (4), destroy or otherwise dispose of, or authorise the destruction or disposal of, any public records which are in his possession or under his control.
 
+[25/2012]
+
 (2) Any person intending to destroy or dispose of or to authorise the destruction or disposal of any public records shall first notify the Board of that intention and shall, in his notification, specify the nature of the public records in question.
+
+[25/2012]
 
 (3) The Board may inspect any public records specified in any notification under subsection (2) and shall, if it requires those records to be made available to it, inform the person making the notification of that requirement, and the public records shall be made available to the Board.
 
+[25/2012]
+
 (4) The Board may authorise the destruction of any specified classes of public records which by reason of their number, kind or routine nature do not in its opinion possess any enduring value for preservation as public archives.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Inspection of public records and recordings
 
 14E\.—(1) Except with the written authority of the Director of National Archives, a person who is not an officer of the National Archives shall not inspect any public records or recordings that are not made available to the public under subsection (2).
+
+[25/2012]
 
 (2) Any person may, for the purpose of reference or research, inspect any public archives or recordings made available to the public subject —
 
@@ -441,17 +435,21 @@ AND ORAL HISTORY CENTRES
 
 (b) to such conditions as the Director of National Archives may consider necessary for their preservation.
 
+[25/2012]
+
 (3) The National Archives shall be open for the inspection of public records during such hours as may be determined by the Board.
+
+[25/2012]
 
 (4) In this section, “recording” means any recording deposited with the Board under section 14I.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Certified copy of public records
 
 14F\. Any copy of a public record which is certified by the Director of National Archives as a true copy of the original document shall be admissible in a court of law.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Reproduction of public records and recordings
 
@@ -463,11 +461,15 @@ AND ORAL HISTORY CENTRES
 
 as the case may be.
 
+[25/2012]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[25/2012]
 
 (3) Nothing in this section shall be construed as affecting or extending the law relating to copyright.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Prohibition of export, etc., of public records
 
@@ -479,15 +481,21 @@ as the case may be.
 
 (c) mutilate, excise or otherwise damage any public records.
 
+[25/2012]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Deposit of certain recordings
 
 14I\.—(1) The producer or distributor of a recording shall, within 6 months after a request in writing is made by the Board, provide without charge the Board with a copy of the recording in such form as may be specified in the request.
 
+[25/2012]
+
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[25/2012]
 
 (3) This section shall not apply to or in respect of —
 
@@ -495,13 +503,17 @@ as the case may be.
 
 (b) any recording of a class or kind that is exempted from the application of this section by such regulations as the Minister may make for the purpose.
 
+[25/2012]
+
 (4) In this section, “recording” means anything in which sounds are embodied or on which images are fixed or both, regardless of form.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Oral history centres
 
 14J\.—(1) The Board may, in addition to any oral history centre transferred under section 14K, establish any other oral history centre for the purposes of this Act.
+
+[25/2012]
 
 (2) The purposes of any oral history centre transferred to the Board under section 14K or established by the Board under this section shall be —
 
@@ -515,29 +527,39 @@ as the case may be.
 
 (e) to disseminate information on the collection and work of the centre by any means, including publications, audio-visual educational packages, exhibitions, consultations, research and heritage promotional activities.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
 ### Transfer of archive undertakings, etc., from National Heritage Board
 
-14K\.—(1) All the lands, buildings and other property, movable or immovable, vested in the National Heritage Board immediately before the date of commencement of section 8(2) of the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (referred to in this section as the transfer date) for the purposes of —
+14K\.—(1) All the lands, buildings and other property, movable or immovable, vested in the National Heritage Board immediately before 28 March 20131(referred to in this section as the transfer date) for the purposes of —
+
+1Date of commencement of the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (Act 25 of 2012).
 
 (a) the National Archives; or
 
 (b) any oral history centre established by the National Heritage Board,
 
-and all assets, powers, interests, rights, privileges, debts, liabilities and obligations of the National Heritage Board relating to paragraph (a) or (b), shall, on the transfer date, become by virtue of this section and without further assurance, the property, assets, powers, interests, rights, privileges, debts, liabilities and obligations of the Board.
+and all assets, powers, interests, rights, privileges, debts, liabilities and obligations of the National Heritage Board relating to paragraph (a) or (b) shall, on the transfer date, become by virtue of this section and without further assurance, the property, assets, powers, interests, rights, privileges, debts, liabilities and obligations of the Board.
 
-(2) Every agreement relating to any of the properties, assets, interests, rights, privileges, liabilities or obligations transferred under subsection (1) and to which the National Heritage Board was a party immediately before the transfer date, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
+[25/2012]
+
+(2) Every agreement relating to any of the properties, assets, interests, rights, privileges, liabilities or obligations transferred under subsection (1) and to which the National Heritage Board was a party immediately before the transfer date, whether or not of such nature that the rights and liabilities could be assigned, shall have effect as from that date as if —
 
 (a) the Board had been a party to such an agreement; and
 
-(b) for any reference to the National Heritage Board there were substituted in respect of anything to be done on or after the transfer date a reference to the Board,
+(b) for any reference to the National Heritage Board there were substituted in respect of anything to be done on or after the transfer date a reference to the Board.
 
-and if any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister charged with the responsibility for finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
+[25/2012]
 
-(3) Any proceedings or cause of action pending or existing immediately before the transfer date by or against the National Heritage Board relating to the National Archives or any oral history centre transferred under subsection (1) may be continued and shall be enforced by or against the Board.
+(3) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister charged with the responsibility for finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
-(4) The operation of subsections (1) and (2) shall not be regarded —
+[25/2012]
+
+(4) Any proceedings or cause of action pending or existing immediately before the transfer date by or against the National Heritage Board relating to the National Archives or any oral history centre transferred under subsection (1) may be continued and shall be enforced by or against the Board.
+
+[25/2012]
+
+(5) The operation of subsections (1), (2) and (3) shall not be regarded —
 
 (a) as a breach of contract or confidence or otherwise as a civil wrong;
 
@@ -547,15 +569,21 @@ and if any question arises as to whether any particular property, asset, interes
 
 (d) as an event of default under any contract or other legal instrument.
 
-(5) Any provision in any existing contract, agreement, conveyance, deed, lease, guarantee, bond, indemnity and other instrument or undertaking to which the National Heritage Board is a party or may be bound prohibiting or having the effect of prohibiting the transfer of any property, assets, interests, rights, privileges, liabilities or obligations comprised in the undertaking transferred under subsection (1) shall be deemed by this Act to have been waived.
+[25/2012]
 
-(6) No attornment to the Board by a lessee from the National Heritage Board shall be required.
+(6) Any provision in any existing contract, agreement, conveyance, deed, lease, guarantee, bond, indemnity and other instrument or undertaking to which the National Heritage Board is a party or may be bound prohibiting or having the effect of prohibiting the transfer of any property, assets, interests, rights, privileges, liabilities or obligations comprised in the undertaking transferred under subsection (1) shall be deemed by this Act to have been waived.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
+
+(7) No attornment to the Board by a lessee from the National Heritage Board shall be required.
+
+[25/2012]
 
 ### Transfer of employees from National Heritage Board, etc.
 
-14L\.—(1) On the date of commencement of section 8(2) of the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (referred to in this section as the transfer date), such categories of persons employed by the National Heritage Board immediately before that date in —
+14L\.—(1) On 28 March 20131(referred to in this section as the transfer date), such categories of persons employed by the National Heritage Board immediately before that date in —
+
+1Date of commencement of the Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (Act 25 of 2012).
 
 (a) the National Archives; or
 
@@ -563,7 +591,11 @@ and if any question arises as to whether any particular property, asset, interes
 
 as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
+[25/2012]
+
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the National Heritage Board shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the service of the National Heritage Board.
+
+[25/2012]
 
 (3) The terms and conditions of employment to be drawn up by the Board —
 
@@ -573,31 +605,49 @@ as the Minister may determine shall be transferred to the service of the Board o
 
 (c) shall not adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
+[25/2012]
+
 (4) All deeds, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the transfer date to which the National Heritage Board is a party and relating to any person transferred to the service of the Board under subsection (1) shall continue in force on and after that date and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the National Heritage Board.
 
+[25/2012]
+
 (5) Any proceedings or cause of action relating to any employee transferred to the service of the Board under subsection (1) pending or existing immediately before the transfer date by or against the National Heritage Board, or any person acting on its behalf, may be continued and shall be enforced by or against the Board.
+
+[25/2012]
 
 (6) Where on the transfer date —
 
 (a) any disciplinary proceedings were pending against any employee of the National Heritage Board transferred to the service of the Board under subsection (1), the proceedings shall be carried on and completed by the Board; and
 
-(b) any matter was in the course of being heard or investigated or had been heard or investigated by a committee of the National Heritage Board acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date,
+(b) any matter was in the course of being heard or investigated or had been heard or investigated by a committee of the National Heritage Board acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-and any order, ruling or direction made by such a committee pursuant to this subsection shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made by the Board pursuant to the authority vested in the Board under this Act.
+[25/2012]
 
-(7) The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under subsection (1) for any misconduct or neglect of duty committed before the transfer date which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the National Heritage Board and if this Act had not been enacted.
+(7) Any order, ruling or direction made by such a committee pursuant to subsection (6) shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made by the Board pursuant to the authority vested in the Board under this Act.
 
-(8) For the avoidance of doubt, section 18A of the Employment Act (Cap. 91) shall not apply to the transfer under this section of any employee of the National Heritage Board to the Board.
+[25/2012]
 
-(9) Notwithstanding any other written law or any contract, no person who is transferred from the National Heritage Board to the service of the Board under subsection (1) shall be entitled to claim any benefit under that written law or contract for termination of his service on the ground of redundancy or abolition of his office in consequence of the transfer of the National Archives or any oral history centre from the National Heritage Board to the Board.
+(8) The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under subsection (1) for any misconduct or neglect of duty committed before the transfer date which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the National Heritage Board and if this Act had not been enacted.
 
-(10) Except as otherwise provided in this section, nothing in subsection (1) shall prevent the terms and conditions of a transferred employee’s employment on or after the transfer date from being varied in accordance with those terms and conditions, or by or under any written law, or an award, a determination or an agreement; and “vary”, in relation to terms and conditions of service, includes omitting any of those terms and conditions, adding to those terms and conditions, or substituting new terms and conditions for any of those terms and conditions.
+[25/2012]
 
-(11) In every case where a person transferred to the service of the Board under this section is also a person transferred from the employment of the Government to the National Heritage Board under section 40 of the National Heritage Board Act (Cap. 196A), the Government and the National Heritage Board shall each be liable to pay the Board such portion of any gratuity, pension or allowance payable under the Pensions Act to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government and the National Heritage Board, respectively, bears to the aggregate amount of his pensionable emoluments during his total service under the Government, the National Heritage Board and the Board.
+(9) For the avoidance of doubt, section 18A of the Employment Act (Cap. 91) shall not apply to the transfer under this section of any employee of the National Heritage Board to the Board.
 
-[Act 25 of 2012 wef 28/03/2013]
+[25/2012]
 
-## PART III
+(10) Notwithstanding any other written law or any contract, no person who is transferred from the National Heritage Board to the service of the Board under subsection (1) shall be entitled to claim any benefit under that written law or contract for termination of his service on the ground of redundancy or abolition of his office in consequence of the transfer of the National Archives or any oral history centre from the National Heritage Board to the Board.
+
+[25/2012]
+
+(11) Except as otherwise provided in this section, nothing in subsection (1) shall prevent the terms and conditions of a transferred employee’s employment on or after the transfer date from being varied in accordance with those terms and conditions, or by or under any written law, or an award, a determination or an agreement; and “vary”, in relation to terms and conditions of service, includes omitting any of those terms and conditions, adding to those terms and conditions, or substituting new terms and conditions for any of those terms and conditions.
+
+[25/2012]
+
+(12) In every case where a person transferred to the service of the Board under this section is also a person transferred from the employment of the Government to the National Heritage Board under section 40 of the National Heritage Board Act (Cap. 196A), the Government and the National Heritage Board shall each be liable to pay the Board such portion of any gratuity, pension or allowance payable under the Pensions Act to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government and the National Heritage Board, respectively, bears to the aggregate amount of his pensionable emoluments during his total service under the Government, the National Heritage Board and the Board.
+
+[25/2012]
+
+## PART 3
 
 PROVISIONS RELATING TO STAFF
 
@@ -623,9 +673,9 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants for purposes of Penal Code
 
-17\. All members, officers and employees of the Board (including persons seconded to the Board for any period) shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+17\. All members, officers and employees of the Board (including persons seconded to the Board for any period) shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
-## PART IV
+## PART 4
 
 FINANCIAL PROVISIONS
 
@@ -653,7 +703,7 @@ FINANCIAL PROVISIONS
 
 20\. The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Power to borrow
 
@@ -663,7 +713,7 @@ FINANCIAL PROVISIONS
 
 21A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002]
 
 ### Grants
 
@@ -695,29 +745,29 @@ FINANCIAL PROVISIONS
 
 24\. The financial provisions set out in the Second Schedule shall apply to the Board.
 
-## PART V
+## PART 5
 
 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer of assets and liabilities
 
-25\.—(1) As from 1st September 1995, all movable property vested in the Government immediately before that date and used or managed by the National Library and all assets, rights, interests, liabilities and obligations of the Government relating to the National Library shall be transferred to and shall vest in the Board without further assurance.
+25\.—(1) As from 1 September 1995, all movable property vested in the Government immediately before that date and used or managed by the National Library and all assets, rights, interests, liabilities and obligations of the Government relating to the National Library shall be transferred to and shall vest in the Board without further assurance.
 
-(2) As from 1st September 1995, the Board shall control and manage all the libraries which are under the control of the National Library.
+(2) As from 1 September 1995, the Board shall control and manage all the libraries which are under the control of the National Library.
 
 (3) If any question arises as to whether any particular property, or whether any particular asset, right, interest, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, right, interest, liability or obligation was or was not so transferred or vested.
 
 ### Existing agreements, etc.
 
-26\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1st September 1995, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 25(1) shall continue in force on and after that date and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
+26\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1 September 1995, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 25(1) shall continue in force on and after that date and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-27\. Any proceedings or cause of action pending or existing immediately before 1st September 1995 by or against the Government or any person acting on behalf of the Government relating to the National Library may be continued and shall be enforced by or against the Board.
+27\. Any proceedings or cause of action pending or existing immediately before 1 September 1995 by or against the Government or any person acting on behalf of the Government relating to the National Library may be continued and shall be enforced by or against the Board.
 
 ### Transfer of employees
 
-28\.—(1) As from 1st September 1995, such categories of persons employed immediately before that date in the National Library as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+28\.—(1) As from 1 September 1995, such categories of persons employed immediately before that date in the National Library as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the service of the Government.
 
@@ -725,31 +775,31 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 29\.—(1) The terms and conditions of service of persons transferred to the service of the Board under section 28 shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by such persons while in the employment of the Government and any such term or condition relating to the length of service with the Board shall provide for the recognition of service under the Government by persons so transferred to be service by them under the Board.
 
-(2) Nothing in the terms and conditions of service to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
+(2) Nothing in the terms and conditions of service to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
 (3) In every case where a person has been transferred to the service of the Board under section 28, the Government shall be liable to pay the Board such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-30\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Board under section 28 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
+30\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Board under section 28 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
 
 ### Continuation and completion of disciplinary proceedings
 
-31\.—(1) Where on 1st September 1995, any disciplinary proceedings are pending against any person transferred to the service of the Board under section 28, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that date and make such order, ruling or direction as the Government or committee could have made under the authority vested in it immediately before that date.
+31\.—(1) Where on 1 September 1995, any disciplinary proceedings are pending against any person transferred to the service of the Board under section 28, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that date and make such order, ruling or direction as the Government or committee could have made under the authority vested in it immediately before that date.
 
 (2) Any order, ruling or direction made or given by the Government or committee pursuant to this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the power vested in the Board under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-32\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 28 for any misconduct or neglect of duty committed prior to 1st September 1995 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
+32\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 28 for any misconduct or neglect of duty committed prior to 1 September 1995 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
 
-## PART VI
+## PART 6
 
 MISCELLANEOUS PROVISIONS
 
 ### Board’s symbol
 
-33\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+33\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as it may select or devise and display or exhibit in connection with its activities or affairs.
 
 (2) A person who, without the permission of the Board, uses a symbol or representation identical with that of the Board or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -769,31 +819,25 @@ MISCELLANEOUS PROVISIONS
 
 (ba) provide for the use, custody, preservation, reproduction, removal, destruction and disposal of public records and other documents under this Act;
 
-[Act 25 of 2012 wef 28/03/2013]
-
 (bb) provide for regulating the taking of oral history recordings and transcripts;
 
-[Act 25 of 2012 wef 28/03/2013]
-
-(c) enable the officers or employees of the Board to exclude or remove from its libraries, library buildings, the National Archives, any oral history centre or any other land or building owned by or under the control of the Board persons committing any offence under this Act or any regulations made thereunder;
-
-[Act 25 of 2012 wef 28/03/2013]
+(c) enable the officers or employees of the Board to exclude or remove from its libraries, library buildings, the National Archives, any oral history centre or any other land or building owned by or under the control of the Board persons committing any offence under this Act or any of its regulations;
 
 (d) provide for the preservation of order and the prevention of nuisance in any library, library building, the National Archives, any oral history centre or any other land or building owned by or under the control of the Board;
 
-[Act 25 of 2012 wef 28/03/2013]
-
 (e) fix the days and times of admission to its libraries;
 
-(f) provide for the admission of vehicles to the grounds of its libraries and the regulation of traffic therein;
+(f) provide for the admission of vehicles to the grounds of its libraries and the regulation of traffic in those grounds;
 
 (g) prescribe the amount of fines that may be levied for the damage, loss or late return of borrowed library materials and for the waiving or refund of such fines; and
 
 (h) prescribe that any act or omission in contravention of the provisions of any regulations made under this Act shall be an offence and imposing penalties for those offences, which penalties shall not exceed a fine of $5,000.
 
+[25/2012]
+
 ### Transitional provision
 
-36\. Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Library Act [Cap. 197, 1985 Ed.] shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
+36\. Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Library Act (Cap. 197, 1985 Ed.) shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
 
 FIRST SCHEDULE
 
@@ -893,7 +937,7 @@ Financial provisions
 
 Financial year
 
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year.
+1\. The financial year of the Board shall begin on 1 April of each year and end on 31 March of the succeeding year.
 
 Accounts to be kept
 
@@ -907,7 +951,7 @@ Appointment of auditor
 
 4.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
 Remuneration of auditor
 
@@ -957,27 +1001,119 @@ This Legislative History is provided for the convenience of users of the Nationa
 
 ||||
 |:-|:-|:-|
-|1.|**Act 5 of 1995—National Library Board Act 1995**|
+|1.|**Ordinance 31 of 1957—Raffles National Library Ordinance 1957**|
+||Date of First Reading|21 August 1957|
+|||(Bill No. 112/57)|
+||Date of Second and Third Readings|11 September 1957|
+||Date of commencement|1 April 1958|
+|2.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
+||Date of First Reading|16 July 1958|
+|||(Bill No. 158/58)|
+||Date of Second and Third Readings|13 August 1958|
+||Date of commencement|25 September 1958|
+|3.|**G.N. No. S 223/59—Singapore Constitution (Modification of Laws) Order 1959**|
+||Date of commencement|3 June 1959|
+|4.|**S (N.S.) 179/59—Singapore Constitution (Modification of Laws) (No. 5) Order 1959**|
+||Date of commencement|3 June 1959|
+|5.|**Ordinance 66 of 1960—Raffles National Library (Change of Name) Ordinance 1960**|
+||Date of First Reading|16 November 1960|
+|||(Bill No. 105/60)|
+||Date of Second and Third Readings|29 November 1960|
+||Date of commencement|9 December 1960|
+|6.|**Act 11 of 1968—National Library (Amendment) Act 1968**|
+||Date of First Reading|9 May 1968|
+|||(Bill No. 12/68)|
+||Date of Second and Third Readings|22 May 1968|
+||Date of commencement|19 June 1969|
+|7.|**1970 Revised Edition—National Library Act (Chapter 311)**|
+||Date of operation|31 August 1971|
+|8.|**1985 Revised Edition—National Library Act (Chapter 197)**|
+||Date of operation|30 March 1987|
+|9.|**Act 5 of 1995—National Library Board Act 1995**|
 ||Date of First Reading|23 January 1995|
-|||(Bill No. 5/1995 published on 24 January 1995)|
+|||(Bill No. 5/95)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 September 1995|
-|2.|**1996 Revised Edition—National Library Board Act**|
+Note:
+
+The National Library Board Act 1995 repealed and re-enacted with amendments the National Library Act (Chapter 197, 1985 Revised Edition).
+
+|10.|**1996 Revised Edition—National Library Board Act (Chapter 197)**|
 ||Date of operation|30 April 1996|
-|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+|11.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|3 May 2002|
-|||(Bill No. 7/2002 published on 4 May 2002)|
+|||(Bill No. 7/2002)|
 ||Date of Second and Third Readings|24 May 2002|
-||Date of commencement|15 July 2002|
-|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of commencement|15 July 2002 (item (27) of the Schedule — amendment of National Library Board Act)|
+|12.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 September 2004|
-|||(Bill No. 43/2004 published on 22 September 2004)|
+|||(Bill No. 43/2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
-|5.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
+|13.|**Act 25 of 2012—Statutes (Miscellaneous Amendments) (No. 2) Act 2012**|
 ||Date of First Reading|10 September 2012|
-|||(Bill No. 23/2012 published on 10 September 2012)|
+|||(Bill No. 23/2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013|
+|14.|**2014 Revised Edition—National Library Board Act (Chapter 197)**|
+||Date of operation|31 October 2014|
+## COMPARATIVE TABLE
+
+National Library Board Act
+
+(CHAPTER 197)
+
+The following provisions in the 1996 Revised Edition of the National Library Board Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the National Library Board Act.
+
+2014 Ed\. 
+
+1996 Ed\. 
+
+14K —(2) and (3)
+
+14K —(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+14L —(6) and (7)
+
+14L —(6)
+
+(8)
+
+(7)
+
+(9)
+
+(8)
+
+(10)
+
+(9)
+
+(11)
+
+(10)
+
+(12)
+
+(11)
+
