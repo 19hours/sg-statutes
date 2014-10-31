@@ -6,13 +6,13 @@
 
 [**Long Title**](#Pension-Fund-Act)
 
-[**Part I PRELIMINARY**](#Part-I)
+[**Part 1 PRELIMINARY**](#Part-1)
 
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II PENSION FUND**](#Part-II)
+[**Part 2 PENSION FUND**](#Part-2)
 
 - [3 Establishment of Pension Fund](#Establishment-of-Pension-Fund)
 
@@ -20,7 +20,7 @@
 
 - [5 Investment](#Investment)
 
-[**Part III APPLICATION OF PENSION FUND**](#Part-III)
+[**Part 3 APPLICATION OF PENSION FUND**](#Part-3)
 
 - [6 Application of moneys in Pension Fund](#Application-of-moneys-in-Pension-Fund)
 
@@ -32,7 +32,7 @@
 
 - [10 Withdrawals](#Withdrawals)
 
-[**Part IV ACCOUNTING AND AUDIT**](#Part-IV)
+[**Part 4 ACCOUNTING AND AUDIT**](#Part-4)
 
 - [11 Accounts to be kept](#Accounts-to-be-kept)
 
@@ -54,15 +54,15 @@
 
 (Original Enactment: Act 8 of 1995)
 
-REVISED EDITION 1996
+REVISED EDITION 2014
 
-(30th April 1996)
+(31st October 2014)
 
 An Act to establish a Pension Fund and for matters connected therewith.
 
 [1st April 1995]
 
-## PART I
+## PART 1
 
 PRELIMINARY
 
@@ -78,23 +78,23 @@ PRELIMINARY
 
 “public service” means service, whether in a civil or military capacity, under the Government of Singapore and includes —
 
-(a) service as a Member of the Legislative Assembly or Parliament (including an office-holding Member);
+(a) service as a Member of the Legislative Assembly or Parliament (including an office‑holding Member);
 
-(b) service as a member of the Special Constabulary constituted by the Police Force Act [Cap. 235];
+(b) service as a member of the Special Constabulary constituted by the Police Force Act (Cap. 235);
 
 (c) service as a volunteer in the Singapore Armed Forces or the Singapore Civil Defence Force; and
 
-(d) such other service as has been determined to be public service for the purposes of the Pensions Act [Cap. 225];
+(d) such other service as has been determined to be public service for the purposes of the Pensions Act (Cap. 225);
 
 “Singapore” means —
 
-(a) in relation to any period ending before 3rd June 1959 — the Colony of Singapore; or
+(a) in relation to any period ending before 3 June 1959 — the Colony of Singapore; or
 
-(b) in relation to any period beginning on or after 3rd June 1959 and ending before 9th August 1965 — the State of Singapore;
+(b) in relation to any period beginning on or after 3 June 1959 and ending before 9 August 1965 — the State of Singapore;
 
 “superannuation scheme” means a scheme providing for the payment of any pension, gratuity, allowance or other benefit on death, superannuation, resignation, retirement or discharge to persons who have been in the public service in Singapore or to the legal personal representatives or dependants of such persons.
 
-## PART II
+## PART 2
 
 PENSION FUND
 
@@ -120,9 +120,9 @@ PENSION FUND
 
 ### Investment
 
-5\. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act [Cap. 109].
+5\. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act (Cap. 109).
 
-## PART III
+## PART 3
 
 APPLICATION OF PENSION FUND
 
@@ -136,7 +136,7 @@ APPLICATION OF PENSION FUND
 
 (c) the payment of any sum ex gratia or any pension, gratuity, allowance, compensation, subsidy or other like benefit pursuant to a prescribed superannuation scheme;
 
-(d) the payment of any gratuity on the death or retirement of persons appointed as members of the local staff of any diplomatic mission of Singapore; and
+(d) the payment of any gratuity on the death or retirement of persons appointed as members of the local staff of any diplomatic mission of Singapore;
 
 (e) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit which is referred to in paragraphs (a) and (b) and expressly provided by written law to be met out of the Pension Fund.
 
@@ -152,7 +152,7 @@ APPLICATION OF PENSION FUND
 
 (2) Subsection (1) shall apply only to any pension, gratuity, allowance, compensation or other like benefit in respect of persons who have been in the public service in Singapore which —
 
-(a) prior to 1st April 1995, was charged on the Consolidated Fund; or
+(a) prior to 1 April 1995, was charged on the Consolidated Fund; or
 
 (b) is provided for under any written law enacted on or after such commencement.
 
@@ -160,17 +160,15 @@ APPLICATION OF PENSION FUND
 
 9\.—(1) The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
 
-(2) The Minister may by warrant under his hand authorise the transfer to the SAVER-Premium Fund established under section 205B of the Singapore Armed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan or Premium Plan established under section 205A of the Singapore Armed Forces Act.
+[12/98]
 
-[12/98 wef 01/04/1998]
+(2) The Minister may by warrant under his hand authorise the transfer to the SAVER‑Premium Fund established under section 205B of the Singapore Armed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan or Premium Plan established under section 205A of the Singapore Armed Forces Act.
 
-[10/2000 wef 31/03/2000]
+[12/98; 10/2000]
 
-(3) The Minister may by warrant under his hand authorise the transfer to the INVEST Fund established under section 12 of the Home Affairs Uniformed Services Superannuation Act 2001 such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those public officers who opted in favour of joining the INVEST Plan established under that Act and to all public officers who opted in favour of joining the Occupational Superannuation Scheme under the Prevention of Corruption Act (Cap. 241).
+(3) The Minister may by warrant under his hand authorise the transfer to the INVEST Fund established under section 12 of the Home Affairs Uniformed Services Superannuation Act (Cap. 126B) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those public officers who opted in favour of joining the INVEST Plan established under that Act and to all public officers who opted in favour of joining the Occupational Superannuation Scheme under the Prevention of Corruption Act (Cap. 241).
 
-[33/2001 wef 01/10/2001]
-
-[29/2002 wef 30/01/2003]
+[33/2001; 29/2002]
 
 ### Withdrawals
 
@@ -178,7 +176,7 @@ APPLICATION OF PENSION FUND
 
 (2) No payment shall be made out of the Pension Fund unless such payment is authorised by the Minister.
 
-## PART IV
+## PART 4
 
 ACCOUNTING AND AUDIT
 
@@ -190,7 +188,7 @@ ACCOUNTING AND AUDIT
 
 12\.—(1) The Minister shall, as soon as practicable after the close of each financial year, cause to be prepared and submitted financial statements in respect of that year to the Auditor-General who shall audit and report on them.
 
-(2) In this section, the financial year of the Pension Fund shall begin on 1st April of each year and end on 31st March of the succeeding year.
+(2) In this section, the financial year of the Pension Fund shall begin on 1 April of each year and end on 31 March of the succeeding year.
 
 ### Periodic examination of Pension Fund
 
@@ -206,11 +204,11 @@ and the amendment affects the cost of benefits payable under the law or scheme o
 
 (3) The person appointed under subsection (1) or (2) shall, at the end of his examination, report to the Minister the state of the Pension Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
 
-(4) The Minister shall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
+(4) The Minister shall cause a copy of every such report to be presented to Parliament forthwith after receiving it.
 
 ### Application of Financial Procedure Act
 
-14\. Except as otherwise expressly provided in this Act, the provisions of the Financial Procedure Act [Cap. 109] and any regulations made thereunder shall apply to the Pension Fund.
+14\. Except as otherwise expressly provided in this Act, the provisions of the Financial Procedure Act (Cap. 109) and any of its regulations shall apply to the Pension Fund.
 
 ### Regulations
 
@@ -218,71 +216,61 @@ and the amendment affects the cost of benefits payable under the law or scheme o
 
 ## THE SCHEDULE
 
-Section 6(1).
+Sections 6 and 13(2)
 
 1. 
 
-The Civil Defence Act [Cap. 42].
+Civil Defence Act (Cap. 42).
 
 2. 
 
-The Civil List and Gratuity Act [Cap. 44].
-
-[Act 20 of 2012 wef 25/09/2014]
+Civil List and Gratuity Act (Cap. 44).
 
 3. 
 
-The Internal Security (Injury Allowances) Regulations [Cap. 143, Rg 3].
-
-3A. 
-
-The Parliament (Privileges, Immunities and Powers) Act (Cap. 217).
-
-[Act 21 of 2012 wef 21/05/2011]
+Internal Security (Injury Allowances) Regulations (Cap. 143, Rg 3).
 
 4. 
 
-The Parliamentary Pensions Act [Cap. 219].
+Parliamentary Pensions Act (Cap. 219).
 
 5. 
 
-The Pensions Act [Cap. 225].
+Pensions Act (Cap. 225).
 
 6. 
 
-The Personal Injuries (Emergency Provisions) Act [Cap. 228].
+Personal Injuries (Emergency Provisions) Act (Cap. 228).
 
 7. 
 
-The Police Force Act [Cap. 235, Rg 1], more particularly the Police Regulations.
+Police Force Act (Cap. 235), more particularly the Police Regulations (Cap. 235, Rg 1).
 
 8. 
 
-The Public Service Commission (Pension) Regulations [Const., Rg 2].
+Public Service Commission (Pension) Regulations (Const., Rg 2).
 
 9. 
 
 Section 206(1) of the Singapore Armed Forces Act (Cap. 295).
 
-[43/2004 wef 01/12/2004]
-
 10. 
 
-The Widows’ and Orphans’ Pension Act.
+Widows’ and Orphans’ Pension Act (Cap. 350).
 
 11. 
 
-The Work Injury Compensation Act (Cap. 354).
-
-[5/2008 wef 01/04/2008]
+Work Injury Compensation Act (Cap. 354).
 
 12. 
 
-The Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954.
+Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954.
 
 13. 
 
-The Municipal (Firemen’s Injuries) Provident Fund Rules 1956.
+Municipal (Firemen’s Injuries) Provident Fund Rules 1956.
+
+[43/2004; 5/2008; 20/2012]
 
 ## LEGISLATIVE HISTORY
 
@@ -296,47 +284,47 @@ This Legislative History is provided for the convenience of users of the Pension
 |:-|:-|:-|
 |1.|**Act 8 of 1995—Pension Fund Act 1995**|
 ||Date of First Reading|23 January 1995|
-|||(Bill No. 2/95 published on 24 January 1995)|
+|||(Bill No. 2/95)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 April 1995|
-|2.|**1996 Revised Edition—Pension Fund Act**|
+|2.|**1996 Revised Edition—Pension Fund Act (Chapter 224A)**|
 ||Date of operation|30 April 1996|
 |3.|**Act 12 of 1998—Singapore Armed Forces (Amendment) Act 1998**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 February 1998|
-|||(Bill No. 10/1998 published on 19 February 1998)|
+|||(Bill No. 10/98)|
 ||Date of Second and Third Readings|20 March 1998|
-||Date of commencement|1 April 1998|
+||Date of commencement|1 April 1998 (section 5 — amendment of Pension Fund Act)|
 |4.|**Act 10 of 2000—Singapore Armed Forces (Amendment) Act 2000**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 January 2000|
-|||(Bill No. 2/2000 published on 18 January 2000)|
-||Date of Second and Third Readings|21 February 2000|
-||Date of commencement|31 March 2000|
+|||(Bill No. 2/2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|31 March 2000 (section 14 — amendment of Pension Fund Act)|
 |5.|**Act 33 of 2001—Home Affairs Uniformed Services Superannuation Act 2001**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 July 2001|
-|||(Bill No. 31/2001 published on 26 July 2001)|
+|||(Bill No. 31/2001)|
 ||Date of Second and Third Readings|13 August 2001|
-||Date of commencement|1 October 2001|
+||Date of commencement|1 October 2001 (section 25 — amendment of Pension Fund Act)|
 |6.|**Act 29 of 2002—Prevention of Corruption (Amendment) Act 2002**|
-||(Consequential amendments made to Act by)||
+||(Related amendments made to Act by)||
 ||Date of First Reading|1 October 2002|
-|||(Bill No. 29/2002 published on 2 October 2002)|
+|||(Bill No. 29/2002)|
 ||Date of Second and Third Readings|31 October 2002|
-||Date of commencement|30 January 2003|
+||Date of commencement|30 January 2003 (section 6 — amendment of Pension Fund Act)|
 |7.|**Act 43 of 2004—Singapore Armed Forces (Amendment No. 2) Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 September 2004|
-|||(Bill No. 45/2004 published on 22 September 2004)|
+|||(Bill No. 45/2004)|
 ||Date of Second and Third Readings|19 October 2004|
-||Date of commencement|1 December 2004|
+||Date of commencement|1 December 2004 (section 4 — amendment of Pension Fund Act)|
 |8.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2007|
-|||(Bill No. 50/2007 published on 13 November 2007)|
+|||(Bill No. 50/2007)|
 ||Date of Second and Third Readings|22 January 2008|
-||Date of commencement|1 April 2008|
+||Date of commencement|1 April 2008 (item (13) of the Schedule — amendment of Pension Fund Act)|
 |9.|**Act 21 of 2012—Parliamentary Pensions (Abolition) Act 2012**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|13 August 2012|
@@ -345,6 +333,9 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of commencement|21 May 2011|
 |10.|**Act 20 of 2012—Civil List and Pension (Amendment) Act 2012**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|13 August 2012 (Bill No. 17/2012 published on 13 August 2012)|
+||Date of First Reading|13 August 2012|
+|||(Bill No. 17/2012)|
 ||Date of Second and Third Readings|10 September 2012|
-||Date of commencement|25 September 2014|
+||Date of commencement|25 September 2014 (section 8 — amendment of Pension Fund Act)|
+|11.|**2014 Revised Edition—Pension Fund Act (Chapter 224A)**|
+||Date of operation|31 October 2014|
