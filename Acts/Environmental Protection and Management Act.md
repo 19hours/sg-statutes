@@ -2381,6 +2381,8 @@ Substances containing not more than 5%, weight in weight, of formic acid.
 
 Germane
 
+Hexabromocyclododecane (HBCD)
+
 Guanidine nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
@@ -2958,6 +2960,8 @@ Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
 Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
+[S 688/2014 wef 01/11/2014]
+
 [S 374/2013 wef 01/10/2013]
 
 [S 373/2013 wef 01/07/2013]
@@ -3250,6 +3254,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 September 2013|
 |20.|**G. N. No. S 374/2013—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2013**|
 ||Date of commencement|1 October 2013|
+|21.|**G.N. No. S 688/2014—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2014**|
+||Date of commencement|1 November 2014|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
