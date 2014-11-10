@@ -28,6 +28,8 @@
 
 - [9 Contributions and interest to be paid to members of Edusave Pupils Fund](#Contributions-and-interest-to-be-paid-to-members-of-Edusave-Pupils-Fund)
 
+- [9A Cash grant](#Cash-grant)
+
 - [10 Advisory Council](#Advisory-Council)
 
 - [11 Functions of Council](#Functions-of-Council)
@@ -36,7 +38,9 @@
 
 - [12 Conditions for withdrawal from Edusave Pupils Fund](#Conditions-for-withdrawal-from-Edusave-Pupils-Fund)
 
-- [13 Donation and transfer of member’s moneys in Edusave Pupils Fund](#Donation-and-transfer-of-member’s-moneys-in-Edusave-Pupils-Fund)
+- [13 Closure of Edusave account, etc.](#Closure-of-Edusave-account-etc)
+
+- [13A Donation of member’s moneys in Edusave Pupils Fund](#Donation-of-member’s-moneys-in-Edusave-Pupils-Fund)
 
 - [14 Applications for withdrawal from Edusave Pupils Fund](#Applications-for-withdrawal-from-Edusave-Pupils-Fund)
 
@@ -55,6 +59,8 @@
 [**Part IIIB WITHDRAWAL FROM PSE FUND**](#Part-IIIB)
 
 - [16D Conditions for withdrawal from PSE Fund](#Conditions-for-withdrawal-from-PSE-Fund)
+
+- [16DA Donation of member’s moneys in PSE Fund](#Donation-of-member’s-moneys-in-PSE-Fund)
 
 - [16E Transfer of member’s moneys in PSE Fund](#Transfer-of-member’s-moneys-in-PSE-Fund)
 
@@ -116,7 +122,7 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Board” means the Central Provident Fund Board established under the Central Provident Fund Act (Cap. 36);
+[Deleted by Act 33 of 2014 wef 10/11/2014]
 
 “Council” means the Advisory Council established under section 10;
 
@@ -124,9 +130,43 @@ PRELIMINARY
 
 “Edusave Pupils Fund” means the Edusave Pupils Fund established under section 7(1);
 
+“Edusave Qualifying Ages” means the range of ages prescribed by regulations to be the Edusave Qualifying Ages;
+
+[Act 33 of 2014 wef 10/11/2014]
+
+“Edusave Scheme Administrator” means the public officer appointed under section 7(2) by the Minister to administer the Edusave Pupils Fund on behalf of the Minister;
+
+[Act 33 of 2014 wef 10/11/2014]
+
 “Endowment Fund” means the Edusave Endowment Fund established under section 3(1);
 
+“junior college”, in relation to a member of the Edusave Pupils Fund, means any of the following which is not a prescribed school:
+
+(a) a junior college that is organised and conducted directly by the Government to provide full-time pre-university education;
+
+(b) a junior college that is established by a person other than the Government and is conducted by a committee of management in receipt of a grant-in-aid from the Government to defray the costs and expenses of conducting the junior college to provide full-time pre-university education;
+
+(c) a centralised institute that provides full-time pre-university education;
+
+(d) such other educational institution providing full-time pre-university education that may be prescribed as a junior college;
+
+[Act 33 of 2014 wef 10/11/2014]
+
 “parent” includes a legal guardian;
+
+“prescribed school”, in relation to a member of the Edusave Pupils Fund, means —
+
+(a) an institution for providing full-time primary or secondary education, being —
+
+(i) a school organised and conducted directly by the Government;
+
+(ii) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act (Cap. 284A); or
+
+(iii) a school that is established by a person other than the Government and is conducted by a committee of management in receipt of a grant-in-aid from the Government to defray the costs and expenses of conducting the school; or
+
+(b) such other educational institution that may be prescribed as a prescribed school;
+
+[Act 33 of 2014 wef 10/11/2014]
 
 “PSE account” means a PSE account maintained under section 16A(3);
 
@@ -134,23 +174,21 @@ PRELIMINARY
 
 “PSE Scheme Administrator” means the public officer appointed by the Minister to administer the PSE Fund on behalf of the Minister;
 
-“school age” means such age as may be prescribed;
+[Deleted by Act 33 of 2014 wef 10/11/2014]
+
+“schooling” means enrolled as a full-time student of a prescribed school or a junior college;
+
+[Act 33 of 2014 wef 10/11/2014]
 
 “sibling”, in relation to a member of the PSE Fund, means the natural sibling, step-sibling or adopted sibling of the member.
 
 [52/2007]
 
-(2) For the purposes of sections 12, 13 and 14, “school” means such educational institution as the Minister may approve from time to time under subsection (3).
+(2) For the purposes of this Act, the time at which an individual attains a particular age expressed in years is the relevant anniversary of the date of that individual’s birth, except that where an individual was born on 29 February in any year, then, in any subsequent year that is not a leap year, the anniversary of the birth of the individual shall be deemed to occur on 1 March of that subsequent year.
 
-[52/2007]
+[Act 33 of 2014 wef 10/11/2014]
 
-(3) The Minister may —
-
-(a) approve any educational institution as a school for the purposes of any provision of sections 12, 13 and 14; and
-
-(b) approve different educational institutions for the purposes of different provisions of sections 12, 13 and 14 and for different classes of members of the Edusave Pupils Fund.
-
-[52/2007]
+(3) [Deleted by Act 33 of 2014 wef 10/11/2014]
 
 ## PART II
 
@@ -162,9 +200,17 @@ EDUCATION ENDOWMENT SCHEME
 
 (a) all capital money provided by Parliament pursuant to this Act;
 
-(b) all income of that Fund; and
+(b) all income of that Fund;
 
-(c) any moneys which the Minister has authorised under section 7(5) to be transferred from the Edusave Pupils Fund,
+[Act 33 of 2014 wef 10/11/2014]
+
+(c) any moneys which the Minister has authorised under section 7(5) to be transferred from the Edusave Pupils Fund; and
+
+[Act 33 of 2014 wef 10/11/2014]
+
+(d) all donations to that Fund made under section 13A,
+
+[Act 33 of 2014 wef 10/11/2014]
 
 and out of which shall be met all payments authorised to be paid under this Act.
 
@@ -194,7 +240,9 @@ and out of which shall be met all payments authorised to be paid under this Act.
 
 (a) for the provision of grants to any educational institution prescribed for the purposes of this paragraph, to enable it to enhance its quality of teaching;
 
-(b) for the provision of scholarships to full-time pupils at any educational institution prescribed for the purposes of this paragraph;
+(b) for the provision of scholarships to full-time students at any educational institution prescribed for the purposes of this paragraph;
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (c) for the provision of contributions and additional income to the Edusave Pupils Fund;
 
@@ -220,17 +268,19 @@ and out of which shall be met all payments authorised to be paid under this Act.
 
 [13/2001; 32/2005; 52/2007]
 
-(2) The Board shall administer the Edusave Pupils Fund on behalf of the Minister and all moneys belonging to that Fund may be —
+(2) A public officer who is appointed by the Minister as the Edusave Scheme Administrator shall administer the Edusave Pupils Fund on behalf of the Minister, and all moneys belonging to that Fund may be deposited in any bank approved by the Edusave Scheme Administrator and invested in such securities as trustees may by any written law be authorised to invest.
 
-(a) deposited in a bank or banks approved by the Board; and
+[Act 33 of 2014 wef 10/11/2014]
 
-(b) invested in such securities as trustees may by any written law be authorised to invest.
-
-(3) The Board shall maintain for each member of the Edusave Pupils Fund in respect of the money standing to his credit in that Fund an account to be called the Edusave account from which withdrawals may be made under section 12 or 13.
+(3) The Edusave Scheme Administrator shall maintain for each member of the Edusave Pupils Fund in respect of the money standing to his credit in that Fund an account to be called the Edusave account from which withdrawals may be made under section 12 or 13.
 
 [52/2007]
 
-(4) The Board shall have such powers and shall perform such duties as are given or imposed by this Act or as may be directed by the Minister, and the Minister or the Board may by instrument in writing delegate to any person all or any of those powers and duties.
+[Act 33 of 2014 wef 10/11/2014]
+
+(4) The Edusave Scheme Administrator shall have such powers and shall perform such duties as are given or imposed by this Act or as may be directed by the Minister, and the Minister or the Edusave Scheme Administrator may by instrument in writing delegate to any person all or any of those powers and duties, except the power of delegation conferred by this subsection.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (5) The Minister may authorise the transfer to the Endowment Fund of any moneys in the Edusave Pupils Fund which, in his opinion, are not immediately required to meet the purposes of the Edusave Pupils Fund, and such moneys shall form part of the income of the Endowment Fund.
 
@@ -238,63 +288,89 @@ and out of which shall be met all payments authorised to be paid under this Act.
 
 ### Members of Edusave Pupils Fund
 
-8\. Every child who —
+8\.—(1) Every individual who —
 
 (a) is a citizen of Singapore;
 
-(b) is of school age; and
+(b) is schooling or, if not schooling, is between the Edusave Qualifying Ages; and
 
 (c) satisfies such other requirements as may be prescribed,
 
-shall become, by virtue of this section, a member of the Edusave Pupils Fund.
+shall be and remain, by virtue of this section, a member of the Edusave Pupils Fund until the individual’s membership ceases under section 13.
 
-[52/2007]
+(2) An individual who is a member of the PSE Fund or, if the member of the PSE Fund is below 21 years of age, any parent of that member, may apply to the Edusave Scheme Administrator for the individual to resume membership of the Edusave Pupils Fund.
+
+(3) The Edusave Scheme Administrator may approve an application under subsection (2) for an individual who is a member of the PSE Fund to resume membership of the Edusave Pupils Fund, with effect from such date as may be specified by the Edusave Scheme Administrator, if the Edusave Scheme Administrator is satisfied that the individual —
+
+(a) is a citizen of Singapore;
+
+(b) is schooling;
+
+(c) had ceased to be a member of the Edusave Pupils Fund by virtue of section 13(6) read with section 13(1)(a), (b) or(c); and
+
+(d) satisfies such other requirements as may be prescribed.
+
+(4) An individual who resumes membership of the Edusave Pupils Fund under this section may continue to be a member of the PSE Fund in accordance with Parts IIIA and IIIB.
+
+(5) An application under subsection (2) must be supported by such documents or evidence as the Edusave Scheme Administrator may require.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 ### Contributions and interest to be paid to members of Edusave Pupils Fund
 
-9\.—(1) There shall be paid to every member of the Edusave Pupils Fund in each year out of the income of the Endowment Fund the prescribed amount of contribution for that year if on 1st January of that year he is of school age and at any time during that year he is a full-time pupil at a prescribed school.
+9\.—(1) It shall be lawful for the Edusave Scheme Administrator to pay, out of the income of the Endowment Fund, to any member of the Edusave Pupils Fund in each year a single contribution of an amount prescribed for that year if, at any time during that year, the member —
 
-[52/2007]
+(a) is a full-time student of a prescribed school and receiving primary or secondary education; or
 
-(2) The Board shall cause to be credited —
+(b) is between the Edusave Qualifying Ages, if the member is not schooling at any time during that year.
 
-(a) to any eligible member of the Edusave Pupils Fund the prescribed amount of contribution payable to him under subsection (1); and
+[Act 33 of 2014 wef 10/11/2014]
 
-(b) to every member of the Edusave Pupils Fund interest at the rate referred to in subsection (4) at such intervals and on the amount standing to his credit in his Edusave account to be paid out of the income of that Fund at such time as the Board may determine.
+(2) The Edusave Scheme Administrator must also cause to be paid out of the income of the Edusave Pupils Fund, to the Edusave account of each member of that Fund, at such intervals as the Edusave Scheme Administrator may determine, interest at the rate referred to in subsection (4) on the amount standing to the member’s credit in his Edusave account.
 
-[52/2007]
+[Act 33 of 2014 wef 10/11/2014]
 
-(3) The Board shall, as far as practicable, credit the prescribed amount of contribution payable to an eligible member of the Edusave Pupils Fund under subsection (1) to the Edusave account of that member on or before 31st January of each year, commencing from the year 1993.
+(3) The amount of contribution that a member of the Edusave Pupils Fund is eligible to receive under subsection (1) in a year is as follows:
 
-[52/2007]
+(a) for an individual who becomes such a member for the first time under section 8(1), the amount prescribed for the member (or the class to which the member belongs) on the date the individual first becomes a member;
+
+(b) for any other member, the amount prescribed for the member (or the class to which the member belongs) on the qualifying date in the year prescribed for that member (or the class to which that member belongs).
+
+[Act 33 of 2014 wef 10/11/2014]
+
+(3A) Unless the member dies, the amount of contribution that a member of the Edusave Pupils Fund is eligible to receive under subsection (1) in a year must be paid —
+
+(a) not later than 31 January in that year in the case of a member referred to in subsection (1)(a);
+
+(b) not later than 30 April in that year in the case of a member referred to in subsection (1)(b); or
+
+(c) despite paragraphs (a) and (b), as soon as practicable after the date the individual first becomes a member of the Edusave Pupils Fund in the case of a member referred to in subsection (3)(a).
+
+[Act 33 of 2014 wef 10/11/2014]
+
+(3B) Where a member of the Edusave Pupils Fund belongs to 2 or more classes on the qualifying date prescribed for any year, the Edusave Scheme Administrator may, for the purposes of this section, determine that the member belongs for that year to the class the Edusave Scheme Administrator considers appropriate; and the decision of the Edusave Scheme Administrator is final and conclusive.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (4) Interest shall be payable on the amount standing to the credit of every member of the Edusave Pupils Fund in his Edusave account at such rate per annum as the Minister may from time to time determine.
 
 [52/2007]
 
-(5) For the purposes of this section, the “prescribed amount of contribution” in respect of the year 1993 and every subsequent year is such amount as the Minister may, by order published in theGazette, from time to time prescribe.
+(5) The Minister may, by an order published in theGazette, prescribe for each year —
 
-(6) In this section —
+(a) different amounts of contributions for different members or different classes of members of the Edusave Pupils Fund; and
 
-“eligible member of the Edusave Pupils Fund” means any member of that Fund who is eligible for the payment of the prescribed amount of contribution under subsection (1);
+(b) different qualifying dates in the year for different members or different classes of members of the Edusave Pupils Fund for the purposes of subsection (3)(b).
 
-“prescribed school” means —
+[Act 33 of 2014 wef 10/11/2014]
 
-(a) an institution for providing full-time primary or secondary education, being —
+(6) [Deleted by Act 33 of 2014 wef 10/11/2014]
 
-(i) a school organised and conducted directly by the Government;
+### Cash grant
 
-(ii) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act (Cap. 284A); or
+9A\. The Edusave Scheme Administrator must also pay to the Edusave account of any member of the Edusave Pupils Fund, such cash grant as the Government may make, who satisfies the eligibility criteria the Government determines for that cash grant.
 
-(iii) a school which —
-
-(A) is established by any person other than the Government; and
-
-(B) is conducted by a committee of management which is in receipt of a grant-in-aid from the Government for the defraying of the expenses incurred for conducting the school; or
-
-(b) such other educational institution as may be prescribed.
-
-[52/2007]
+[Act 33 of 2014 wef 10/11/2014]
 
 ### Advisory Council
 
@@ -316,45 +392,77 @@ WITHDRAWAL FROM EDUSAVE PUPILS FUND
 
 ### Conditions for withdrawal from Edusave Pupils Fund
 
-12\.—(1) Any money standing to the credit of any member of the Edusave Pupils Fund in his Edusave account may be withdrawn from that Fund with the authority of the Board in accordance with this section and section 13.
+12\.—(1) Any money standing to the credit of any member of the Edusave Pupils Fund in his Edusave account may be withdrawn from that Fund with the authority of the Edusave Scheme Administrator in accordance with this section and section 13.
 
 [52/2007]
 
+[Act 33 of 2014 wef 10/11/2014]
+
 (2) Subject to this section, the parent of a member of the Edusave Pupils Fund below the age of 21 years, or a member of that Fund who has attained the age of 21 years, shall be entitled to withdraw the sum standing to the credit of the member in his Edusave account at any time for the following purposes:
 
-(a) to defray the whole or part of such expenses of the member as may be necessary to enable him to take part in any extra-curricular activity or enhancement programme approved by the school of the member; and
+(a) where the member is schooling, to defray the whole or part of such expenses of the member as may be necessary to enable the member to take part in any enrichment programme approved by the prescribed school or junior college the member is schooling at; and
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (b) such other purposes as may be prescribed.
 
 [52/2007]
 
-### Donation and transfer of member’s moneys in Edusave Pupils Fund
+### Closure of Edusave account, etc.
 
-13\.—(1) The Board may, subject to such terms and conditions as it may impose, permit the parent of a member of the Edusave Pupils Fund below the age of 21 years, or a member of that Fund who has attained the age of 21 years, to donate to the school of the member such portion of the sum standing to the credit of the member in his Edusave account as the parent of the member, or the member, as the case may be, may determine.
+13\.—(1) The Edusave Scheme Administrator must, as soon as practicable after the happening of the first of the following events concerning a member of the Edusave Pupils Fund, transfer all balances in the member’s Edusave account to the member’s PSE account:
 
-[52/2007]
+(a) if the member is non-schooling, at the start of the year immediately after the year in which he attains the highest of the Edusave Qualifying Ages;
 
-(2) Subject to subsection (3) and any regulations made under section 24, where a member of the Edusave Pupils Fund has attained the age of 16 years or has ceased to be a full-time pupil at any school, whichever is the later, the Board shall, as soon as practicable, transfer the sum standing to his credit in his Edusave account to his PSE account, and thereupon he shall cease to be a member of that Fund.
+(b) if the member is schooling at the start of the year immediately after the year in which he attains the highest of the Edusave Qualifying Ages, when the member stops schooling;
 
-[52/2007]
+(c) where an application under subsection (2) to close the individual’s Edusave account early is approved under subsection (4).
 
-(3) Subject to any regulations made under section 24, where a member of the Edusave Pupils Fund below the age of 16 years satisfies such requirements as may be prescribed, the Board may, upon application by the parent of the member, transfer the sum standing to the credit of the member in his Edusave account to his PSE account, and thereupon he shall cease to be a member of that Fund.
+(2) An individual who is a member of the Edusave Pupils Fund or, if the individual is below 21 years of age, any parent of that individual, may apply to the Edusave Scheme Administrator to close the individual’s Edusave account early for the purpose of transferring the balance in the individual’s Edusave account to his PSE account.
 
-[52/2007]
+(3) An application under subsection (2) must be supported by such documents or evidence as the Edusave Scheme Administrator may require.
+
+(4) The Edusave Scheme Administrator may approve an application under subsection (2) relating to a member of the Edusave Pupils Fund only if the Edusave Scheme Administrator is satisfied that the member is enrolled in an approved institution referred to in section 16D(2)(a).
+
+(5) The Edusave Scheme Administrator must close the member’s Edusave account —
+
+(a) upon completing the transfer of all balances in a member’s Edusave account to the member’s PSE account under subsection (1); or
+
+(b) upon payment to the Public Trustee under section 16 of all balances in the Edusave account of a deceased member.
+
+(6) An individual ceases to be a member of the Edusave Pupils Fund when his Edusave account is closed.
+
+[Act 33 of 2014 wef 10/11/2014]
+
+### Donation of member’s moneys in Edusave Pupils Fund
+
+13A\.—(1) An individual who is a member of the Edusave Pupils Fund or, if the individual is below 21 years of age, any parent of that individual, may by notice given to the Edusave Scheme Administrator donate to the Endowment Fund all or part of the sum standing to the member’s credit in his Edusave account.
+
+(2) Upon receiving the notice in subsection (1), the Edusave Scheme Administrator may authorise the payment of such sum, as stated in the notice, to the Endowment Fund.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 ### Applications for withdrawal from Edusave Pupils Fund
 
-14\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member of the Edusave Pupils Fund in the member’s Edusave account by the parent of the member or by the member, as the case may be, under section 12 or 13, the Board may authorise the payment to the school of the member of such sum as the parent or member is entitled to withdraw from the member’s Edusave account.
+14\.—(1) Upon an application to withdraw any sum of money standing to the credit of a member of the Edusave Pupils Fund in the member’s Edusave account for the purposes in section 12(2), the Edusave Scheme Administrator may authorise the payment of such sum as may, under this Act, be withdrawn from the member’s Edusave account —
 
-[52/2007]
+(a) in the case of a withdrawal for the purposes in section 12(2)(a), to the prescribed school or junior college that the member is schooling at; and
 
-(2) All applications for withdrawal shall be supported by such evidence as may be prescribed and by such further evidence as the Board may reasonably require.
+(b) in the case of a withdrawal for the purposes in section 12(2)(b), to a person, an educational institution or any other entity as may be determined by the Edusave Scheme Administrator.
+
+[Act 33 of 2014 wef 10/11/2014]
+
+(2) All applications for withdrawal shall be supported by such evidence as may be prescribed and by such further evidence as the Edusave Scheme Administrator may reasonably require.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 ### Protection of benefits of member of Edusave Pupils Fund
 
-15\. No withdrawals made by the authority of the Board from the Edusave Pupils Fund under section 12 or 13 nor the rights of any member of that Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatsoever.
+15\. No withdrawals made by the authority of the Edusave Scheme Administrator from the Edusave Pupils Fund under section 12, 13 or 13A nor the rights of any member of that Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatsoever.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 ### Moneys payable on death of member of Edusave Pupils Fund
 
@@ -366,9 +474,11 @@ WITHDRAWAL FROM EDUSAVE PUPILS FUND
 
 [Act 2 of 2012 wef 01/03/2012]
 
-(2) The receipt of the Public Trustee shall be a good discharge to the Board for such portions of the moneys payable out of the Edusave account on the death of a member of the Edusave Pupils Fund as are payable to the Public Trustee under subsection (1).
+(2) The receipt of the Public Trustee shall be a good discharge to the Edusave Scheme Administrator for such portions of the moneys payable out of the Edusave account on the death of a member of the Edusave Pupils Fund as are payable to the Public Trustee under subsection (1).
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (3) All moneys paid out of the Edusave account on the death of any member of the Edusave Pupils Fund shall be deemed to be impressed with a trust in favour of the person or persons determined by the Public Trustee in accordance with subsection (1) to be entitled thereto but shall, without prejudice to the Estate Duty Act (Cap. 96), be deemed not to form part of the deceased member’s estate or to be subject to his debts.
 
@@ -390,7 +500,9 @@ POST-SECONDARY EDUCATION SCHEME
 
 [13/2011 wef 01/05/2011]
 
-(d) all sums transferred to any PSE account under section 13(2) or (3); and
+(d) all sums transferred to any PSE account under section 13(1) or section 13(2) or (3) as in force before the date of commencement of section 10 of the Education Endowment and Savings Schemes (Amendment) Act 2014; and
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (e) any cash grant made by the Government,
 
@@ -406,9 +518,11 @@ and out of which shall be met all payments authorised to be paid under this Act.
 
 [52/2007]
 
-(3) The PSE Scheme Administrator shall maintain for each member of the PSE Fund in respect of the money standing to the member’s credit in that Fund an account to be called the PSE account from which withdrawals may be made under section 16D or 16E.
+(3) The PSE Scheme Administrator shall maintain for each member of the PSE Fund in respect of the money standing to the member’s credit in that Fund an account to be called the PSE account from which withdrawals may be made under section 16D, 16DA or 16E.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (4) The PSE Scheme Administrator shall have such powers and shall perform such duties as are given or imposed by this Act or as may be directed by the Minister, and the PSE Scheme Administrator may by instrument in writing delegate to any person all or any of those powers and duties, except the power of delegation conferred by this subsection.
 
@@ -500,9 +614,11 @@ WITHDRAWAL FROM PSE FUND
 
 ### Conditions for withdrawal from PSE Fund
 
-16D\.—(1) Any money standing to the credit of any member of the PSE Fund in his PSE account may be withdrawn from that Fund with the authority of the PSE Scheme Administrator in accordance with this section and any regulations made under section 24.
+16D\.—(1) Any money standing to the credit of any member of the PSE Fund in his PSE account may be withdrawn from that Fund with the authority of the PSE Scheme Administrator in accordance with this section, section 16DA and any regulations made under section 24.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (2) Subject to any regulations made under section 24, the parent of a member of the PSE Fund below the age of 21 years, or a member of that Fund who has attained the age of 21 years, shall be entitled to withdraw at any time the sum standing to the credit of the member in his PSE account —
 
@@ -518,19 +634,33 @@ WITHDRAWAL FROM PSE FUND
 
 (b) if the Minister is satisfied that it is just and equitable to do so,
 
-permit the withdrawal of the whole sum standing to the credit of the member in his PSE account, and thereupon he shall cease to be a member of that Fund.
+permit the withdrawal of the whole sum standing to the credit of the member in his PSE account, and thereupon his PSE account shall be closed and he shall cease to be a member of that Fund.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (4) In subsection (2), “approved”, in relation to a course of study or programme or an institution, means approved by the Minister for the purposes of that subsection.
 
 [52/2007]
 
+### Donation of member’s moneys in PSE Fund
+
+16DA\.—(1) An individual who is a member of the PSE Fund or, if the individual is below 21 years of age, any parent of that individual, may by notice given to the PSE Scheme Administrator donate all or part of the sum standing to the member’s credit in his PSE account to a prescribed charity of the individual’s or parent’s choice (as the case may be), being a charity whose objects are exclusively or primarily for the advancement of education.
+
+(2) Upon receiving the notice in subsection (1), the PSE Scheme Administrator may authorise the payment of such sum, as stated in the notice, to the prescribed charity.
+
+(3) In this section, “charity” means a charity as defined in section 2(1) of the Charities Act (Cap. 37) whether or not registered under that Act.
+
+[Act 33 of 2014 wef 10/11/2014]
+
 ### Transfer of member’s moneys in PSE Fund
 
-16E\.—(1) Subject to any regulations made under section 24, the PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained the age of 21 years, permit the member to transfer the whole sum standing to his credit in his PSE account to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act (Cap. 36), and thereupon he shall cease to be a member of the PSE Fund.
+16E\.—(1) Subject to any regulations made under section 24, the PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained the age of 21 years, permit the member to transfer the whole sum standing to his credit in his PSE account to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act (Cap. 36), and thereupon his PSE account shall be closed and he shall cease to be a member of the PSE Fund.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (2) Subject to any regulations made under section 24, the PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained the relevant age, permit the member to transfer —
 
@@ -538,21 +668,29 @@ permit the withdrawal of the whole sum standing to the credit of the member in h
 
 (b) any remainder of that sum to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act,
 
-and thereupon he shall cease to be a member of the PSE Fund.
+and thereupon his PSE account shall be closed and he shall cease to be a member of the PSE Fund.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (3) The PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained or is about to attain the relevant age, permit him to remain as a member of that Fund, and to continue to maintain in his PSE account the sum standing to his credit in that account, until such time after attaining the relevant age as the PSE Scheme Administrator may determine.
 
 [52/2007]
 
-(4) Subject to subsection (3), where any member of the PSE Fund has attained the relevant age, and no application has been made, within such period (not exceeding 12 months) after the member has attained the relevant age as the PSE Scheme Administrator may specify, for the sum standing to the member’s credit in his PSE account to be withdrawn under section 16D(3) or transferred under subsection (1) or (2), the PSE Scheme Administrator shall transfer the sum standing to the member’s credit in his PSE account to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act (Cap. 36), and thereupon he shall cease to be a member of the PSE Fund.
+(4) Subject to subsection (3), where any member of the PSE Fund has attained the relevant age, and no application has been made, within such period (not exceeding 12 months) after the member has attained the relevant age as the PSE Scheme Administrator may specify, for the sum standing to the member’s credit in his PSE account to be withdrawn under section 16D(3) or transferred under subsection (1) or (2), the PSE Scheme Administrator shall transfer the sum standing to the member’s credit in his PSE account to his ordinary account, if any, maintained under section 13 of the Central Provident Fund Act (Cap. 36), and thereupon his PSE account shall be closed and he shall cease to be a member of the PSE Fund.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (5) In this section, “relevant age” means such age as may be prescribed for the purposes of this section.
 
 [52/2007]
+
+(6) An individual who is a member of the PSE Fund and who resumes being a member of the Edusave Pupils Fund by virtue of section 8(3), or, if the individual is below 21 years of age, any parent of the individual, may apply to the PSE Scheme Administrator to transfer moneys standing to the credit of the individual in his PSE account to his Edusave account.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 ### Applications for withdrawal or transfer from PSE account
 
@@ -564,6 +702,10 @@ and thereupon he shall cease to be a member of the PSE Fund.
 
 [52/2007]
 
+(2A) Upon an application under section 16E(6) to transfer moneys from the PSE account of an individual who is a PSE Fund member to his Edusave account, the PSE Scheme Administrator may authorise the transfer to the Edusave account of an amount not exceeding the amount earlier transferred to his PSE account under section 13(1) with respect to that individual.
+
+[Act 33 of 2014 wef 10/11/2014]
+
 (3) All applications for withdrawal or transfer shall be supported by such evidence as may be prescribed and by such further evidence as the PSE Scheme Administrator may reasonably require.
 
 [52/2007]
@@ -574,9 +716,11 @@ and thereupon he shall cease to be a member of the PSE Fund.
 
 [52/2007]
 
-(2) No withdrawals or transfers made by the authority of the PSE Scheme Administrator from the PSE Fund under section 16D or 16E nor the rights of any member of that Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatsoever.
+(2) No withdrawals or transfers made by the authority of the PSE Scheme Administrator from the PSE Fund under section 16D, 16DA or 16E nor the rights of any member of that Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatsoever.
 
 [52/2007]
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (3) A contribution by a parent of a member of the PSE Fund under section 16C(1) shall not constitute a transaction at an undervalue or an unfair preference under section 98 or 99 of the Bankruptcy Act (Cap. 20) or form part of the estate of the parent, if the parent has been adjudged bankrupt.
 
@@ -591,6 +735,10 @@ and thereupon he shall cease to be a member of the PSE Fund.
 (b) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member was a Muslim at the time of his death.
 
 [Act 2 of 2012 wef 01/03/2012]
+
+(1A) Where the total amount standing to the credit of a member of the PSE Fund in his PSE account has been paid to the Public Trustee under subsection (1), the member’s PSE account shall be closed and he shall cease to be a member of the PSE Fund.
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (2) The receipt of the Public Trustee shall be a good discharge to the PSE Scheme Administrator for such portions of the moneys payable out of the PSE account on the death of a member of the PSE Fund as are payable to the Public Trustee under subsection (1).
 
@@ -710,9 +858,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) prescribe the amount which may be withdrawn, and the manner in which withdrawals may be made, by members of the Edusave Pupils Fund or their parents;
 
-(c) provide for such information, evidence and documents as the Board may require from members of the Edusave Pupils Fund or their parents who have applied for or utilised such withdrawals;
+(c) provide for such information, evidence and documents as the Edusave Scheme Administrator may require from members of the Edusave Pupils Fund or their parents who have applied for or utilised such withdrawals;
 
-(d) provide for the circumstances in which a refund of any sum withdrawn from the Edusave Pupils Fund shall be made or may be required by the Board to be made, and for the person by whom and the manner in which the refund is to be made;
+[Act 33 of 2014 wef 10/11/2014]
+
+(d) provide for the circumstances in which a refund of any sum withdrawn from the Edusave Pupils Fund shall be made or may be required by the Edusave Scheme Administrator to be made, and for the person by whom and the manner in which the refund is to be made;
+
+[Act 33 of 2014 wef 10/11/2014]
 
 (e) provide for the disposal of amounts in the Edusave Pupils Fund which are unclaimed or unpaid, or which otherwise remain in that Fund;
 
@@ -770,7 +922,7 @@ Education Endowment and Savings Schemes Act
 
 (CHAPTER 87A)
 
-This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of this Scheme.
+This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -815,3 +967,7 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (except sections 26 and 29)|
+|10.|**Act 33 of 2014—Education Endowment and Savings Schemes (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 30/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|10 November 2014|
