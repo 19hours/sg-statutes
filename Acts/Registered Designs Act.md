@@ -52,6 +52,8 @@
 
 - [18 Registration and publication](#Registration-and-publication)
 
+- [18A Deferment of publication](#Deferment-of-publication)
+
 - [19 Only formality examination required](#Only-formality-examination-required)
 
 - [20 Date of registration](#Date-of-registration)
@@ -172,7 +174,7 @@
 
 - [64 Hours of business and excluded days](#Hours-of-business-and-excluded-days)
 
-[**Part VA THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC**](#Part-VA)
+[**Part VA THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC.**](#Part-VA)
 
 - [64A Power to make provision giving effect to the Geneva Act of the Hague Agreement, etc.](#Power-to-make-provision-giving-effect-to-the-Geneva-Act-of-the-Hague-Agreement-etc)
 
@@ -195,6 +197,8 @@
 - [71 Costs in proceedings before Court](#Costs-in-proceedings-before-Court)
 
 - [72 Certificate of Registrar](#Certificate-of-Registrar)
+
+- [72A Amendment of documents other than application for registration](#Amendment-of-documents-other-than-application-for-registration)
 
 - [73 Fees](#Fees)
 
@@ -446,7 +450,27 @@ Proceedings for Registration
 
 ### Application for registration
 
-11\. An application for registration of a design shall be filed in the prescribed manner with the Registrar, and is subject to the payment of the prescribed application fee.
+11\.—(1) An application for registration of a design shall be filed in the prescribed manner with the Registrar, and is subject to the payment of the prescribed application fee.
+
+[Act 16 of 2012 wef 13/11/2014]
+
+(2) The application shall —
+
+(a) contain a request for the registration of a design;
+
+(b) state the name and address of the applicant; and
+
+(c) contain a clear representation of the design.
+
+[Act 16 of 2012 wef 13/11/2014]
+
+(3) The date on which the application is filed shall be the earliest date on which —
+
+(a) the fee payable under subsection (1) has been paid or is treated by the Registrar as paid; and
+
+(b) all the requirements under subsection (2) have been satisfied.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 ### Claim to priority of Convention application
 
@@ -584,7 +608,7 @@ the Registrar determines that the application does not satisfy the formal requir
 
 ### Registration and publication
 
-18\. Subject to section 17, if the Registrar determines that an application for registration of a design satisfies the formal requirements, he shall as soon as practicable —
+18\. Subject to sections 17 and 18A(3), if the Registrar determines that an application for registration of a design satisfies the formal requirements, he shall as soon as practicable —
 
 (a) register the design by entering the prescribed particulars in the Register;
 
@@ -594,9 +618,23 @@ the Registrar determines that the application does not satisfy the formal requir
 
 (d) publish a notice of the registration and a representation of the design in the prescribed manner.
 
+[26/2001]
+
+[Act 16 of 2012 wef 13/11/2014]
+
 [HK Designs, s. 25]
 
-[26/2001]
+### Deferment of publication
+
+18A\.—(1) An applicant may, when filing his application for registration of a design, request that any publication under section 18 of the design be deferred for the prescribed period after the date of filing of that application.
+
+(2) A request under subsection (1) shall be made in the prescribed manner and accompanied by the prescribed fee.
+
+(3) Notwithstanding section 18, the Registrar shall defer the publication under that section of a design which is the subject of a request under subsection (1) for the prescribed period referred to in that subsection.
+
+(4) The Minister may make rules to provide for the deferment of the publication under section 18 of a registered design and for matters relating thereto.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 ### Only formality examination required
 
@@ -640,6 +678,10 @@ Duration of Registration
 
 (c) an act which would have constituted use of the design for the services of the Government under Part IV if the registration had not ceased to be in force shall be treated as such use.
 
+(6) The Minister may make rules to provide for the restoration of the registration of a design which has been removed from the Register, subject to such conditions as may be prescribed.
+
+[Act 16 of 2012 wef 13/11/2014]
+
 [UK Designs 1949, s. 8]
 
 ### Exceptions relating to artistic works, etc.
@@ -682,9 +724,9 @@ and the Court shall determine the question and may make such order as it conside
 
 (d) that the registered owner of the design or any person having any right in the design carry out such act as the Court considers appropriate to give effect to any directions in the order.
 
-(3) If any person to whom a direction referred to in subsection (2) (d) was given fails to comply with the direction within 14 days after the date of the order, the Court may, on application made to it by any person in whose favour or on whose application the order was made, authorise the second-mentioned person to do that thing on behalf of the person to whom the direction was given.
+(3) If any person to whom a direction referred to in subsection (2)(d) was given fails to comply with the direction within 14 days after the date of the order, the Court may, on application made to it by any person in whose favour or on whose application the order was made, authorise the second-mentioned person to do that thing on behalf of the person to whom the direction was given.
 
-(4) If an application under this section is made after the end of the period of 2 years from the date of issue of the certificate of registration referred to in section 18 (c) in respect of the design in question, no order shall be made under subsection (1) transferring any right in the design from the registered owner to any other person on the ground that the registered owner was not entitled to be registered as the owner, unless it is shown that the registered owner knew at the time of the registration or of the transfer of the design to him, as the case may be, that he was not entitled to be registered as the owner.
+(4) If an application under this section is made after the end of the period of 2 years from the date of issue of the certificate of registration referred to in section 18(c) in respect of the design in question, no order shall be made under subsection (1) transferring any right in the design from the registered owner to any other person on the ground that the registered owner was not entitled to be registered as the owner, unless it is shown that the registered owner knew at the time of the registration or of the transfer of the design to him, as the case may be, that he was not entitled to be registered as the owner.
 
 (5) The Court shall not make any order under subsection (1) unless notice of the application has first been given to —
 
@@ -822,7 +864,7 @@ shall not be open to public inspection in the Registry during the continuance in
 
 (a) shall be held in abeyance after the formal requirements referred to in section 16 have been satisfied; and
 
-(b) notwithstanding section 18, shall not proceed to be processed in accordance with that section until the directions are revoked under subsection (5) (d).
+(b) notwithstanding section 18, shall not proceed to be processed in accordance with that section until the directions are revoked under subsection (5)(d).
 
 (5) Where the Registrar gives such directions, he shall give notice of the application and of the directions to the Minister, and thereupon the following provisions shall have effect:
 
@@ -894,7 +936,7 @@ any article in respect of which the design is registered and to which that desig
 
 (b) the doing of any act for the purpose of evaluation, analysis, research or teaching.
 
-(6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) of the definition of "design" in section 2(1), is left out of account in determining whether the design is registrable.
+(6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) of the definition of “design” in section 2(1), is left out of account in determining whether the design is registrable.
 
 (7) The right in a registered design is not infringed by the import, sale, hire, or offer or exposure for sale or hire of any article to which the design has been applied, and which has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner.
 
@@ -953,6 +995,10 @@ Object of Property
 
 (8) Subsections (6) and (7) shall apply to an assignment by way of security as they apply to any other assignment.
 
+(8A) A registered design or any right in it may be the subject of a charge in the same way as other personal or movable property.
+
+[Act 16 of 2012 wef 13/11/2014]
+
 (9) An assignment of a registered design or any right in it, or an exclusive licence in relation to a registered design, may confer on the assignee or licensee the right of the assignor or licensor to bring proceedings under section 23 or 36.
 
 [HK Designs, s. 32]
@@ -963,7 +1009,15 @@ Object of Property
 
 (2) Subject to this section and to any agreement to the contrary, where there is more than one registered owner of a registered design, each of them shall be entitled, by himself or his agent, to do in relation to the design and for his own benefit and without the consent of, or the need to account to, the other or others, an act which would otherwise amount to an infringement of the design.
 
-(3) Subject to any agreement to the contrary, where there is more than one registered owner of a registered design, no registered owner shall, without the consent of each of the others, grant a licence for the use of the design or assign any interest in it.
+(3) Subject to any agreement to the contrary, where there is more than one registered owner of a registered design, no registered owner shall, without the consent of each of the others —
+
+(a) grant a licence for the use of the design;
+
+(b) assign any interest in the design; or
+
+(c) charge his share in the rights in the design.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 (4) Nothing in subsection (1) or (2) shall affect the mutual rights or obligations of trustees or personal representatives of a deceased person, or their rights or obligations as such.
 
@@ -998,6 +1052,10 @@ the prescribed particulars of the transaction shall be entered in the Register.
 (a) damages or account of profits in respect of any infringement of the registered design occurring after the date of the transaction and before the date of application for registration of the prescribed particulars of the transaction; or
 
 (b) compensation under section 46, pursuant to terms as agreed between the Government and the registered owner, or as determined by the court, in respect of the use of the design for the services of the Government occurring after the date of the transaction and before the date of application for registration of the prescribed particulars of the transaction.
+
+(5) Provision may be made by rules as to the amendment, alteration or removal from the Register of any particulars in the Register relating to any registrable transaction.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 [Trade Marks 1999 Ed., s. 39]
 
@@ -1373,7 +1431,9 @@ unless, in any case, the Court directs otherwise.
 
 ### Inspection of and extract from Register
 
-55\.—(1) The Register shall be available at the Registry for inspection by any person during the hours when the Registry is open for business upon payment of the prescribed fee.
+55\.—(1) The Register shall be available at the Registry for inspection by any person during the hours when the Registry is open for business.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 (2) If the Register, or any part thereof, is kept by using a computer, subsection (1) is satisfied if a person who wants to inspect the Register or that part thereof is given access to a computer terminal from which he can read on a screen, or obtain a printed copy of, the particulars or other matters recorded in the Register or that part thereof.
 
@@ -1381,7 +1441,9 @@ unless, in any case, the Court directs otherwise.
 
 (4) In relation to any portion of the Register kept otherwise than in documentary form, the right to a copy or an extract conferred by subsection (3) is a right to a copy or an extract in a form in which it can be taken away.
 
-(5) In this section, “certified copy” and “certified extract” mean a copy and an extract certified by the Registrar and sealed with the seal of the Registry.
+(5) In this section, “certified copy” and “certified extract” mean a copy and an extract certified by the Registrar.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 [Trade Marks 1999 Ed., s. 68]
 
@@ -1453,9 +1515,9 @@ Powers of Registrar
 
 (b) shall be subject to any liability by reason of, or in connection with, any examination required or authorised by this Act, or any such treaty, convention, arrangement or engagement, or any report or other proceedings consequent on such examination.
 
-[HK Designs, s. 74]
-
 [3/2001]
+
+[HK Designs, s. 74]
 
 ### Appeal from decision or order of Registrar
 
@@ -1509,13 +1571,13 @@ Hours of Business of Registry
 
 may be prescribed for different classes of business.
 
-[Trade Marks 1999 Ed., s. 78]
-
 [44/2004]
+
+[Trade Marks 1999 Ed., s. 78]
 
 ## PART VA
 
-THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC
+THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC.
 
 ### Power to make provision giving effect to the Geneva Act of the Hague Agreement, etc.
 
@@ -1579,9 +1641,9 @@ knowing or having reason to believe the entry or thing, as the case may be, is f
 
 66\.—(1) Any person who falsely represents that a design applied to any article disposed of by him for value is registered in respect of that article shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) For the purposes of subsection (1), a person shall be deemed to represent that a design applied to any article is registered in respect of that article, if there is stamped, engraved, or impressed on or otherwise applied to the article the word "registered" or anything expressing or implying that the design applied to the article has been registered in respect of that article.
+(2) For the purposes of subsection (1), a person shall be deemed to represent that a design applied to any article is registered in respect of that article, if there is stamped, engraved, or impressed on or otherwise applied to the article the word “registered” or anything expressing or implying that the design applied to the article has been registered in respect of that article.
 
-(3) Any person who, after the right in a registered design has expired, marks any article to which the design has been applied with the word "registered", or anything implying that there is a subsisting right in the design under this Act, or causes any such article to be so marked, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who, after the right in a registered design has expired, marks any article to which the design has been applied with the word “registered”, or anything implying that there is a subsisting right in the design under this Act, or causes any such article to be so marked, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [HK Designs, s. 86]
 
@@ -1643,6 +1705,16 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 [Trade Marks 1999 Ed., s. 103]
 
+### Amendment of documents other than application for registration
+
+72A\. The Registrar may, at the written request of a person who has made an application (other than an application for registration of a design), or filed a notice or other document for the purposes of this Act, or at the written request of the person’s agent, amend the application, notice or document —
+
+(a) to correct a clerical error or an obvious mistake; or
+
+(b) if the Registrar is of the opinion that it is fair and reasonable in all the circumstances of the case to do so.
+
+[Act 16 of 2012 wef 13/11/2014]
+
 ### Fees
 
 73\.—(1) There shall be paid in respect of applications, registrations and other matters under this Act such fees as may be prescribed.
@@ -1671,6 +1743,10 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 (a) prescribing the manner of filing of applications or other documents;
 
+(aa) as to the practice and procedure of any proceedings or other matter before the Registrar;
+
+[16/2012 wef 13/11/2014]
+
 (b) requiring persons to make such statutory declarations as may be prescribed in support of any application, notice or request;
 
 (c) requiring and regulating the translation of documents and the filing and authentication of any translation;
@@ -1693,9 +1769,19 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 (l) providing for the publication of the practice directions issued by the Registrar;
 
-(m) providing for the publication of the forms to be used for any purpose relating to the registration of a design or any other proceedings or matters before the Registrar; and
+(m) providing for the publication of the forms to be used for any purpose relating to the registration of a design or any other proceedings or matters before the Registrar;
 
-(n) providing for the publication and sale of documents by the Registry and of information about such documents.
+[16/2012 wef 13/11/2014]
+
+(n) providing for the publication and sale of documents by the Registry and of information about such documents; and
+
+(o) for the reinstatement, and the conditions for the reinstatement, of —
+
+(i) any application which is treated as withdrawn; or
+
+(ii) any right which has been abrogated, or thing which has ceased to be in force or to exist, by reason of a failure to comply with any time limit which has been prescribed or which the Registrar has specified.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 [44/2004]
 
@@ -1751,17 +1837,17 @@ Preliminary
 
 (2) Unless the context otherwise requires, any word or expression used in this Schedule and defined in the UK Act has the same meaning as in that Act.
 
-(3) For the purposes of this Schedule and the avoidance of doubt, the date of registration of a design under the UK Act shall be determined in accordance with1section 3(5) of the UK Act.
+(3) For the purposes of this Schedule and the avoidance of doubt, the date of registration of a design under the UK Act shall be determined in accordance with\*section 3(5) of the UK Act.
 
-1Section 3(5) of the UK Act is the section in force as of the date of operation of the Singapore Registered Designs Act (13th November 2000).
+\*Section 3(5) of the UK Act is the section in force as of the date of operation of the Singapore Registered Designs Act (13th November 2000).
 
 Relevant Designs
 
 2.—(1) A design registered under the UK Act before 13th November 2000 shall be deemed to be a registered design for the purposes of this Act in respect of the article for which it is registered under the UK Act if the registration has not expired or been cancelled on 13th November 2000.
 
-(2) For the avoidance of doubt, the reference in sub-paragraph (1) to a design registered under the UK Act before 13th November 2000 includes a reference to a design registered under the UK Act the date of registration of which is deemed, under2section 3(5) of the UK Act, to be a date before 13th November 2000.
+(2) For the avoidance of doubt, the reference in sub-paragraph (1) to a design registered under the UK Act before 13th November 2000 includes a reference to a design registered under the UK Act the date of registration of which is deemed, under\*section 3(5) of the UK Act, to be a date before 13th November 2000.
 
-2Section 3(5) of the UK Act is the section in force as of the date of operation of the Singapore Registered Designs Act (13th November 2000)
+\*Section 3(5) of the UK Act is the section in force as of the date of operation of the Singapore Registered Designs Act (13th November 2000).
 
 (3) The registration of a design that is deemed to be a registered design under sub-paragraph (1) shall be for an initial period that ends on the earlier of —
 
@@ -1859,7 +1945,7 @@ Registered Designs Act
 
 (CHAPTER 266)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 Aust. Designs 1906
 
@@ -1909,7 +1995,7 @@ Registered Designs Act
 
 (CHAPTER 266)
 
-This Legislative History is provided for the convenience of users of the Registered Designs Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Registered Designs Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1955,6 +2041,11 @@ This Legislative History is provided for the convenience of users of the Registe
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|30 April 2014|
+|11.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|14 May 2012|
+|||(Bill No. 14/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|13 November 2014|
 ## COMPARATIVE TABLE
 
 Registered Designs Act
