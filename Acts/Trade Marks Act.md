@@ -2339,11 +2339,15 @@ The Register
 
 (2) If the register, or any part of the register, is kept by using a computer, subsection (1) is satisfied if a person who wants to inspect the register or that part of the register is given access to a computer terminal from which he can read on a screen, or obtain a printed copy of, the particulars or other matters recorded in the register or that part of the register.
 
-(3) Any person who applies for a certified copy of an entry in the register or a certified extract from the register shall be entitled to obtain such a copy or extract on payment of the prescribed fee; and any person who applies for an uncertified copy or extract shall be entitled to such a copy or extract on payment of the prescribed fee.
+(3) Any person who applies for a certified copy of an entry in the register or a certified extract from the register shall be entitled to obtain such a copy or extract on payment of the prescribed fee.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 (4) In relation to any portion of the register kept otherwise than in documentary form, the right to a copy or extract conferred by subsection (3) is a right to a copy or extract in a form in which it can be taken away.
 
-(5) In this section, “certified copy” and “certified extract” mean a copy and extract certified by the Registrar and sealed with the seal of the Registrar.
+(5) In this section, “certified copy” and “certified extract” mean a copy and extract certified by the Registrar.
+
+[Act 16 of 2012 wef 13/11/2014]
 
 [Aust. Trade Marks Act 1995, s. 209]
 
@@ -3694,6 +3698,11 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|30 April 2014 (sections 7(1)(c) and (d), 8(c) and (d) and 13(a) and (b))|
+|17.|**Act 16 of 2012—Intellectual Property (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|14 May 2012|
+|||(Bill No. 14/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|13 November 2014|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
