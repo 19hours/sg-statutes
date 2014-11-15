@@ -1953,7 +1953,9 @@ and for good behaviour
 
 (a) rioting, assault or any other breach of the peace or abetting any such offence;
 
-(b) an offence under section 143, 144, 145, 153, 504 or 510 of the Penal Code (Cap. 224) or under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184);
+(b) an offence under section 143, 144, 145, 153, 504 or 510 of the Penal Code (Cap. 224), under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before the date of commencement of the Protection from Harassment Act 2014 or under section 3, 4, 5 or 6 of the Protection from Harassment Act 2014;
+
+[Act 17 of 2014 wef 15/11/2014]
 
 (c) assembling armed men or taking other unlawful measures for such purpose; or
 
@@ -14466,19 +14468,11 @@ Compoundable by the owner or lawful occupier of land
 
 50.
 
-13A
-
-Intentional harassment, alarm or distress
-
-Compoundable by the person harassed, alarmed or distressed
+[Deleted by Act 17 of 2014 wef 15/11/2014]
 
 51.
 
-13C
-
-Fear or provocation of violence
-
-Compoundable by the person towards whom threatening, abusive or insulting words were used, or to whom threatening, abusive or insulting writing, sign or other visible representation was distributed or displayed
+[Deleted by Act 17 of 2014 wef 15/11/2014]
 
 52.
 
@@ -14497,6 +14491,57 @@ Part V — Touting
 Touting for business
 
 Compoundable by the person solicited
+
+Part III
+
+OFFENCES UNDER PROTECTION FROM
+
+
+
+
+HARASSMENT ACT 2014
+
+First column
+
+Second column
+
+Third column
+
+Fourth column
+
+Item No.
+
+Section
+
+Offence
+
+Explanatory Note
+
+54.
+
+3
+
+Intentionally causing harassment, alarm or distress
+
+Compoundable by the victim within the meaning of section 3 of the Protection from Harassment Act 2014
+
+55.
+
+5
+
+Fear or provocation of violence
+
+Compoundable by the victim within the meaning of section 5 of the Protection from Harassment Act 2014
+
+56.
+
+7
+
+Unlawful stalking
+
+Compoundable by the victim within the meaning of section 7 of the Protection from Harassment Act 2014
+
+[Act 17 of 2014 wef 15/11/2014]
 
 FIFTH SCHEDULE
 
@@ -17271,3 +17316,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|15.|**Act 17 of 2014—Protection from Harassment Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 March 2014 (Bill No. 12/2014 published on 3 March 2014)|
+||Date of Second and Third Readings|13 March 2014|
+||Date of commencement|15 November 2014|
