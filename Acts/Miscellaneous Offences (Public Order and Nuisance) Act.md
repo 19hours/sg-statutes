@@ -36,13 +36,13 @@
 
 - [13 Other offences relating to public road](#Other-offences-relating-to-public-road)
 
-- [13A Intentional harassment, alarm or distress](#Intentional-harassment-alarm-or-distress)
+- [13A (Repealed)](#Repealed)
 
-- [13B Harassment, alarm or distress](#Harassment-alarm-or-distress)
+- [13B (Repealed)](#Repealed)
 
-- [13C Fear or provocation of violence](#Fear-or-provocation-of-violence)
+- [13C (Repealed)](#Repealed)
 
-- [13D Threatening, abusing or insulting public servant](#Threatening-abusing-or-insulting-public-servant)
+- [13D (Repealed)](#Repealed)
 
 - [14 Excessive noise](#Excessive-noise)
 
@@ -294,75 +294,13 @@ OFFENCES AGAINST PUBLIC ORDER AND NUISANCE
 
 (2) If it is proved that any article or thing has been deposited on any public road from any building or land in contravention of subsection (1)(c), it shall be presumed, until the contrary is proved, that the occupier of the building or land has caused or allowed it to be so deposited.
 
-### Intentional harassment, alarm or distress
+13A\. [Repealed by Act 17 of 2014 wef 15/11/2014]
 
-13A\.—(1) Any person who in a public place or in a private place, with intent to cause harassment, alarm or distress to another person —
+13B\. [Repealed by Act 17 of 2014 wef 15/11/2014]
 
-(a) uses threatening, abusive or insulting words or behaviour; or
+13C\. [Repealed by Act 17 of 2014 wef 15/11/2014]
 
-(b) displays any writing, sign or other visible representation which is threatening, abusive or insulting,
-
-thereby causing that person or any other person harassment, alarm or distress, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-[12/96]
-
-(2) It is a defence for the accused to prove —
-
-(a) that he was inside a dwelling-house and had no reason to believe that the words or behaviour used, or the writing, sign or other visible representation displayed, by him would be heard or seen by a person outside that dwelling-house or any other dwelling-house; or
-
-(b) that his conduct was reasonable.
-
-[12/96]
-
-### Harassment, alarm or distress
-
-13B\.—(1) Any person who in a public place or in a private place —
-
-(a) uses threatening, abusive or insulting words or behaviour; or
-
-(b) displays any writing, sign or other visible representation which is threatening, abusive or insulting,
-
-within the hearing or sight of any person likely to be caused harassment, alarm or distress thereby shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[12/96]
-
-(2) It is a defence for the accused to prove —
-
-(a) that he had no reason to believe that there was any person within hearing or sight who was likely to be caused harassment, alarm or distress;
-
-(b) that he was inside a dwelling-house and had no reason to believe that the words or behaviour used, or the writing, sign or other visible representation displayed, would be heard or seen by a person outside that dwelling-house or any other dwelling-house; or
-
-(c) that his conduct was reasonable.
-
-[12/96]
-
-### Fear or provocation of violence
-
-13C\. Any person who in a public place or in a private place —
-
-(a) uses towards another person threatening, abusive or insulting words or behaviour; or
-
-(b) distributes or displays to another person any writing, sign or other visible representation which is threatening, abusive or insulting,
-
-with intent to cause that person to believe that immediate unlawful violence will be used against him or another person by any person, or to provoke the immediate use of unlawful violence by that person or another person, or whereby that person is likely to believe that such violence will be used or it is likely that such violence will be provoked shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[12/96]
-
-### Threatening, abusing or insulting public servant
-
-13D\.—(1) Any person who in a public place or in a private place —
-
-(a) uses any indecent, threatening, abusive or insulting words or behaviour towards a public servant in the execution of his duty as such public servant; or
-
-(b) distributes or displays to a public servant in the execution of his duty as such public servant any writing, sign or other visible representation which is indecent, threatening, abusive or insulting,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
-
-[12/96]
-
-(2) For the purpose of this section, “public servant” has the same meaning as in the Penal Code (Cap. 224) and includes any other officer who, by virtue of any other written law, is deemed to be a public servant within the meaning of that Code.
-
-[12/96]
+13D\. [Repealed by Act 17 of 2014 wef 15/11/2014]
 
 ### Excessive noise
 
@@ -1069,3 +1007,7 @@ This Legislative History is provided for the convenience of users of the Miscell
 |||(Bill No. 22/2012 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|48.|**Act 17 of 2014—Protection from Harassment Act 2014**|
+||Date of First Reading|3 March 2014 (Bill No. 12/2014 published on 3 March 2014)|
+||Date of Second and Third Readings|13 March 2014|
+||Date of commencement|15 November 2014|
