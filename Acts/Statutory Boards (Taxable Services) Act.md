@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Minister may specify taxable services and prescribe rate of tax thereon](#Minister-may-specify-taxable-services-and-prescribe-rate-of-tax-thereon)
+- [3 Minister may specify taxable services and prescribe tax rate](#Minister-may-specify-taxable-services-and-prescribe-tax-rate)
 
 - [4 Collection and recovery of tax](#Collection-and-recovery-of-tax)
 
@@ -22,15 +22,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Statutory Boards (Taxable Services) Act
 
 (CHAPTER 318)
 
 (Original Enactment: Act 39 of 1968)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(30th November 2014)
 
 An Act for the imposition of a tax on certain services rendered by statutory boards.
 
@@ -46,27 +48,31 @@ An Act for the imposition of a tax on certain services rendered by statutory boa
 
 “services” includes the letting of any apparatus or appliance;
 
-“statutory board” includes a public telecommunication licensee referred to in the Telecommunication Act (Cap. 323), a gas licensee under the Gas Act 2001 and a market support services licensee under the Electricity Act 2001;
-
-[11/2001 wef 11/06/2007]
+“statutory board” includes a public telecommunication licensee referred to in the Telecommunications Act (Cap. 323), a gas licensee under the Gas Act (Cap. 116A) and a market support services licensee under the Electricity Act (Cap. 89A);
 
 “tax” means the tax imposed under this Act;
 
 “taxable services” means the services of a statutory board specified to be taxable under section 3.
 
-### Minister may specify taxable services and prescribe rate of tax thereon
+[11/2001]
 
-3\.—(1) The Minister may, by order published in theGazette, specify any services rendered by any statutory board as he may designate in such order to be taxable services, and may in such order prescribe the rate of tax to be charged thereon.
+### Minister may specify taxable services and prescribe tax rate
 
-(2) Any order under subsection (1) may prescribe an additional tax at the rate of 50% of the charges for any electrical energy supplied to such commercial buildings or class of commercial buildings as may be specified in the order and any additional tax so prescribed shall be paid by the owners of such buildings; and for this purpose “owners” has the same meaning as in the Property Tax Act [Cap. 254] and a commercial building shall be deemed to include any part of the building which is used for residential purposes.
+3\.—(1) The Minister may, by order published in theGazette, specify any services rendered by any statutory board as he may designate in such order to be taxable services, and may in such order prescribe the rate of tax to be charged on those services.
 
-[18/81]
+(2) Any order under subsection (1) may prescribe an additional tax at the rate of 50% of the charges for any electrical energy supplied to such commercial buildings or class of commercial buildings as may be specified in the order and any additional tax so prescribed shall be paid by the owners of such buildings.
 
-[1/84]
+[18/81; 1/84]
 
-(3) For the purposes of this Act, any services in respect of which fees or other charges are collected by a statutory board on behalf of the Government shall be deemed to be services rendered by that statutory board.
+(3) In subsection (2) ––
 
-(4) Any order made under this section shall be presented to Parliament as soon as possible after publication.
+(a) “owners” has the same meaning as in the Property Tax Act (Cap. 254); and
+
+(b) a reference to a commercial building is deemed to include any part of the building which is used for residential purposes.
+
+(4) For the purposes of this Act, any services in respect of which fees or other charges are collected by a statutory board on behalf of the Government shall be deemed to be services rendered by that statutory board.
+
+(5) Any order made under this section shall be presented to Parliament as soon as possible after publication.
 
 ### Collection and recovery of tax
 
@@ -141,3 +147,31 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 10/2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|11 June 2007 (section 97(2) –– amendment of Statutory Boards (Taxable Services) Act)|
+|10.|**2014 Revised Edition—Statutory Boards (Taxable Services) Act (Chapter 318)**|
+||Date of operation|30 November 2014|
+## COMPARATIVE TABLE
+
+Statutory Boards (Taxable Services) Act
+
+(CHAPTER 318)
+
+The following provisions in the 1985 Revised Edition of the Statutory Boards (Taxable Services) Act (Cap. 318) have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Statutory Boards (Taxable Services) Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+3 —(2) and (3)
+
+3 —(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
