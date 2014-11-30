@@ -6,7 +6,7 @@
 
 [**Long Title**](#Visiting-Forces-Act)
 
-[**Part I PRELIMINARY**](#Part-I)
+[**Part 1 PRELIMINARY**](#Part-1)
 
 - [1 Short title](#Short-title)
 
@@ -18,7 +18,7 @@
 
 - [5 Definition of relevant association](#Definition-of-relevant-association)
 
-[**Part II VISITING FORCES**](#Part-II)
+[**Part 2 VISITING FORCES**](#Part-2)
 
 - [6 Exercise of powers by service courts and authorities of countries sending visiting forces](#Exercise-of-powers-by-service-courts-and-authorities-of-countries-sending-visiting-forces)
 
@@ -36,23 +36,25 @@
 
 - [13 Settlement of claims against visiting forces](#Settlement-of-claims-against-visiting-forces)
 
-- [14 Evidence for purposes of Part II](#Evidence-for-purposes-of-Part-II)
+- [14 Evidence for purposes of Part 2](#Evidence-for-purposes-of-Part-2)
 
-[**Part III DESERTERS AND ABSENTEES WITHOUT LEAVE**](#Part-III)
+[**Part 3 DESERTERS AND ABSENTEES WITHOUT LEAVE**](#Part-3)
 
 - [15 Apprehension and disposal of deserters and absentees without leave](#Apprehension-and-disposal-of-deserters-and-absentees-without-leave)
 
 - [16 Evidence for purposes of section 15](#Evidence-for-purposes-of-section-15)
 
-[**Part IV ATTACHMENT OF PERSONNEL AND MUTUAL POWERS OF COMMAND**](#Part-IV)
+[**Part 4 ATTACHMENT OF PERSONNEL AND MUTUAL POWERS OF COMMAND**](#Part-4)
 
 - [17 Attachment of personnel and mutual powers of command](#Attachment-of-personnel-and-mutual-powers-of-command)
 
-[**Part V SUPPLEMENTARY PROVISIONS**](#Part-V)
+[**Part 5 SUPPLEMENTARY PROVISIONS**](#Part-5)
 
 - [18 Provisions as to proof of facts by certificate](#Provisions-as-to-proof-of-facts-by-certificate)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Visiting Forces Act
 
@@ -60,15 +62,15 @@
 
 (Original Enactment: M Act 23 of 1960)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(30th November 2014)
 
 An Act to provide for the naval, military and air forces of certain other countries visiting Singapore, and for the apprehension and disposal of deserters or absentees without leave in Singapore from the forces of such countries and for matters connected therewith.
 
 [16th September 1963]
 
-## PART I
+## PART 1
 
 PRELIMINARY
 
@@ -100,7 +102,7 @@ PRELIMINARY
 
 “law of Singapore” means any written law for the time being in force in Singapore or any part thereof, and includes the Constitution;
 
-“member”, in relation to a visiting force, means a member of the force of a sending country, being one of the members thereof for the time being appointed to serve with that visiting force, and includes any person in Singapore for the time being voluntarily enlisted in that force;
+“member”, in relation to a visiting force, means a member of the force of a sending country, being one of the members of the force for the time being appointed to serve with that visiting force, and includes any person in Singapore for the time being voluntarily enlisted in that force;
 
 “Minister” means the Minister for the time being charged with the responsibility for defence;
 
@@ -108,7 +110,7 @@ PRELIMINARY
 
 “service authorities” means the authorities of a force who are empowered by the law of the country of whose forces the visiting force forms part to exercise command or jurisdiction over members of a force;
 
-“service court” means a court established under service law and includes any authority of a country who under the law thereof is empowered to review the proceedings of such a court or to try or investigate charges brought against persons subject to the service law of that country; and references to trial by, or to sentences passed by, service courts of a country shall be construed respectively as including references to trial by, and to punishment imposed by, such an authority in the exercise of such power;
+“service court” means a court established under service law and includes any authority of a country who under the law of that country is empowered to review the proceedings of such a court or to try or investigate charges brought against persons subject to the service law of that country; and references to trial by, or to sentences passed by, service courts of a country shall be construed respectively as including references to trial by, and to punishment imposed by, such an authority in the exercise of such power;
 
 “service law”, in relation to a country, means the law governing all or any of the forces of that country;
 
@@ -130,19 +132,19 @@ PRELIMINARY
 
 3\.—(1) References in this Act to a country to which a provision of this Act applies are references to any country designated for the purpose of that provision by order of the President under subsection (2).
 
-(2) Where it appears to the President that it is expedient that all or any of the provisions of this Act should have effect in relation to any country, he may by order designate that country for the purposes of such provisions\*.
+(2) Where it appears to the President that it is expedient that all or any of the provisions of this Act should have effect in relation to any country, he may by order designate that country for the purposes of such provisions1.
 
-\*See L.N. 202 of 1960 and L.N. 231 of 1963.
+1See L.N. 202 of 1960 and L.N. 231 of 1963.
 
 (3) The President may by order provide that insofar as this Act has effect in relation to any country designated under subsection (2), it shall have effect subject to such limitations, adaptations or modifications (including the limitation, adaptation or modification of any definition in this Act) as may be specified in that order.
 
 ### Definition of membership of civilian component of visiting force
 
-4\.—(1) In Part II references to a member of a civilian component of a visiting force are references to a person for the time being fulfilling the following conditions:
+4\.—(1) In Part 2, references to a member of a civilian component of a visiting force are references to a person for the time being fulfilling all the following conditions:
 
 (a) that he holds a passport issued in respect of him by a government, not being a passport issued by the passport authorities of Singapore;
 
-(b) that the passport contains an uncancelled entry made by or on behalf of the appropriate authority of the sending country stating that he is a member of a civilian component of a visiting force of that country; and
+(b) that the passport contains an uncancelled entry made by or on behalf of the appropriate authority of the sending country stating that he is a member of a civilian component of a visiting force of that country;
 
 (c) that the passport contains a note of recognition of that entry by or on behalf of the Minister for the time being charged with responsibility for immigration which has not been cancelled and as respects which no notification in writing has been given by or on behalf of that Minister to the appropriate authority of the sending country stating that the recognition is withdrawn.
 
@@ -152,13 +154,13 @@ PRELIMINARY
 
 ### Definition of relevant association
 
-5\. In Part II references to a person’s having at any time a relevant association with a visiting force are references to his being at that time a person of one or other of the following descriptions:
+5\. In Part 2, references to a person’s having at any time a relevant association with a visiting force are references to his being at that time a person of one or other of the following descriptions:
 
 (a) a member of that visiting force or a member of a civilian component of that force;
 
 (b) a person (not being a citizen of Singapore or ordinarily resident in Singapore) being a dependant of a member of that visiting force or of a civilian component of that force.
 
-## PART II
+## PART 2
 
 VISITING FORCES
 
@@ -168,13 +170,13 @@ VISITING FORCES
 
 (2) The persons subject to the jurisdiction of the service courts and service authorities of a country in accordance with this section are the following:
 
-(a) members of any visiting force of that country:
+(a) members of any visiting force of that country;
 
 (b) all persons, not being citizens of Singapore, seconded or temporarily attached to or serving with the Singapore Armed Forces in accordance with any treaty, arrangement or agreement to which the Government is a party, and who by their terms and conditions of service are subject to the jurisdiction of such courts and authorities; and
 
-(c) all other persons who, being neither citizens of Singapore nor ordinarily resident in Singapore, are for the time being subject to the service law of that country otherwise than as members of that country’s forces:
+(c) all other persons who, being neither citizens of Singapore nor ordinarily resident in Singapore, are for the time being subject to the service law of that country otherwise than as members of that country’s forces,
 
-Provided that for the purposes of this subsection a person shall not be treated as a member of a visiting force of a country if he became (or last became) a member of that country’s forces at a time when he was in Singapore, unless it is shown that he then became a member of those forces with his consent.
+except that for the purposes of this subsection, a person shall not be treated as a member of a visiting force of a country if he became (or last became) a member of that country’s forces at a time when he was in Singapore, unless it is shown that he then became a member of those forces with his consent.
 
 (3) Where any sentence has, whether within or outside Singapore, been passed by a service court of a country to which this section applies upon a person who immediately before the sentence was passed was subject to the jurisdiction of that court in accordance with this section, then for the purposes of any proceedings in a court of Singapore that service court shall be deemed to have been properly constituted, and the sentence shall be deemed to be within the jurisdiction of that court and in accordance with the law of that country, and if executed according to the tenor of the sentence shall be deemed to have been lawfully executed.
 
@@ -224,9 +226,9 @@ shall for the purposes of any proceedings in any court of Singapore be deemed to
 
 (2) Where a person to whom this section applies is taken into custody by a police officer for any offence referred to in subsection (1), and is not released, and —
 
-(a) it is apparent that he has a relevant association with a visiting force of a country to which this section applies, then he shall as soon as practicable thereafter, be delivered or remanded into the custody of a service authority of that country;
+(a) it is apparent that he has a relevant association with a visiting force of a country to which this section applies, then he shall as soon as practicable thereafter, be delivered or remanded into the custody of a service authority of that country; or
 
-(b) it is not apparent but there are reasonable grounds for believing that in accordance with section 6 he is subject to the jurisdiction of the service courts of a country to which this section applies, then with a view to its being determined whether he is to be dealt with for that offence under the law of Singapore or by the service courts of that country, as the case may be, he may be detained in custody for a period not exceeding 24 hours: but if within that period he is not delivered into the custody of a service authority of that country he shall be released on bail or brought before a Magistrate.
+(b) it is not apparent but there are reasonable grounds for believing that in accordance with section 6 he is subject to the jurisdiction of the service courts of a country to which this section applies, then with a view to its being determined whether he is to be dealt with for that offence under the law of Singapore or by the service courts of that country, as the case may be, he may be detained in custody for a period not exceeding 24 hours; but if within that period he is not delivered into the custody of a service authority of that country he shall be released on bail or brought before a Magistrate.
 
 (3) Where a prosecution for an offence alleged to have been committed by a person to whom this section applies is instituted pursuant to section 7(1) in any court of Singapore, that person shall be delivered or remanded into the custody of a service authority of that country until he is brought to trial by the Singapore authorities.
 
@@ -254,13 +256,13 @@ shall for the purposes of any proceedings in any court of Singapore be deemed to
 
 then unless the Minister otherwise directs the Magistrate or Coroner shall adjourn the inquiry, and shall furnish the registrar of deaths with a certificate stating the particulars necessary for the registration of the death so far as they have been ascertained at the inquiry.
 
-(3) Where an inquiry is adjourned under this section, the Magistrate or Coroner shall not resume it except on the direction of the Minister and, if he does resume it, shall proceed in all respects as if the inquiry had not previously been begun, except that it shall not be obligatory on the Magistrate or Coroner to view the body or to furnish the registrar of deaths with any certificate or further certificate, as the case may be.
+(3) Where an inquiry is adjourned under this section, the Magistrate or Coroner shall not resume it except on the direction of the Minister and, if the Magistrate or Coroner does resume it, shall proceed in all respects as if the inquiry had not previously been begun, except that it shall not be obligatory on the Magistrate or Coroner to view the body or to furnish the registrar of deaths with any certificate or further certificate, as the case may be.
 
-(4) Any law in force in Singapore restricting the removal out of Singapore of the body of a deceased person shall not apply to the body of a person who at the time of his death had a relevant association with a visiting force:
+(4) Subject to subsection (5), any law in force in Singapore restricting the removal out of Singapore of the body of a deceased person shall not apply to the body of a person who at the time of his death had a relevant association with a visiting force.
 
-Provided that this subsection shall not apply as respects the body of a person concerning whose death, by virtue of a direction of the Minister under subsection (1) or (3), an inquiry is required to be held or, if begun, is required to be resumed.
+(5) Subsection (4) shall not apply as respects the body of a person concerning whose death, by virtue of a direction of the Minister under subsection (1) or (3), an inquiry is required to be held or, if begun, is required to be resumed.
 
-(5) Notwithstanding anything in any law of Singapore relating to certificates to be given to persons giving information concerning deaths, a certificate shall not be given under that law to the person giving information concerning a death if that person states that the body is one as respects which subsection (4) has effect and that it is proposed to remove the body out of Singapore.
+(6) Notwithstanding anything in any law of Singapore relating to certificates to be given to persons giving information concerning deaths, a certificate shall not be given under that law to the person giving information concerning a death if that person states that the body is one as respects which subsection (4) has effect and that it is proposed to remove the body out of Singapore.
 
 ### Application to visiting forces of law relating to Singapore forces
 
@@ -274,13 +276,13 @@ the President may by order make provision for securing that subject to any condi
 
 (2) The President may by order made as respects any visiting force for the purpose of implementing any treaty, agreement or arrangement between Singapore and the country to which such force belongs —
 
-(a) exempt that force or members or service courts or other persons (including any authorised service organisation) in any way connected therewith or property used or to be used for the purposes thereof from the operation of any written law specified in the order;
+(a) exempt that force or members or service courts or other persons (including any authorised service organisation) in any way connected therewith or property used or to be used for those purposes from the operation of any written law specified in the order; and
 
 (b) confer on that force or any such members, courts, persons or property any other power, privilege or immunity which would be enjoyed or would be capable of being conferred on the force, members, courts, persons or property if the force were part of any of the Singapore forces.
 
 (3) Where by any written law the doing of anything is prohibited, restricted or required in relation to —
 
-(a) any of the Singapore forces or their members or service courts or other persons in any way connected therewith;
+(a) any of the Singapore forces or their members or service courts or other persons in any way connected therewith; or
 
 (b) any property used or to be used for the purposes of any of the Singapore forces,
 
@@ -288,7 +290,7 @@ the President may by order make provisions for securing that the prohibition, re
 
 (4) An order under this section —
 
-(a) may contain such incidental, consequential and supplementary provisions as appear to the President expedient for the purposes of the order, including provisions for applying, modifying, adapting or suspending any written law;
+(a) may contain such incidental, consequential and supplementary provisions as appear to the President expedient for the purposes of the order, including provisions for applying, modifying, adapting or suspending any written law; and
 
 (b) may make financial provision in respect of the exercise of any power, or the discharge of any duty, conferred or imposed by the order.
 
@@ -302,7 +304,7 @@ the President may by order make provisions for securing that the prohibition, re
 
 (2) The Minister shall take such steps as may be requisite for securing that persons concerned with any arrangements made by him under this section shall be informed of the nature and operation of the arrangements.
 
-### Evidence for purposes of Part II
+### Evidence for purposes of Part 2
 
 14\.—(1) For the purposes of this Part, a certificate issued by or on behalf of the appropriate authority of a country, stating that at a time specified in the certificate a person so specified either was or was not a member of a visiting force of that country, shall in any proceedings in any court in Singapore be sufficient evidence of the fact so stated unless the contrary is proved.
 
@@ -316,53 +318,47 @@ the President may by order make provisions for securing that the prohibition, re
 
 shall in any proceedings in any court of Singapore be conclusive evidence of the facts so stated.
 
-(3) For the purposes of section 4, the following provisions shall have effect in any proceedings in any court of Singapore:
+(3) For the purposes of section 4, all the following provisions shall have effect in any proceedings in any court of Singapore:
 
-(a) a document purporting to be a passport issued by or on behalf of a government and to be so issued in respect of a person bearing the name in which a person is referred to in the proceedings (whether as a party thereto or otherwise) shall, unless the contrary is proved, be deemed to have been issued by that government and to relate to the person so referred to;
+(a) a document purporting to be a passport issued by or on behalf of a government and to be so issued in respect of a person bearing the name in which a person is referred to in the proceedings (whether as a party to the proceedings or otherwise) shall, unless the contrary is proved, be deemed to have been issued by that government and to relate to the person so referred to;
 
-(b) an entry in a passport containing such a statement as is mentioned in section 4(1)(b) and purporting to be made by or on behalf of the appropriate authority of the sending country shall, unless the contrary is proved, be deemed to have been so made; and
+(b) an entry in a passport containing such a statement as is mentioned in section 4(1)(b) and purporting to be made by or on behalf of the appropriate authority of the sending country shall, unless the contrary is proved, be deemed to have been so made;
 
 (c) a mark or indication in a passport purporting to be made by or on behalf of the Minister shall, unless the contrary is proved be deemed to have been so made.
 
-(4) For the purposes of this Part, the production of an uncancelled entry made by or on behalf of the appropriate authority of the sending country in a document purporting to be a passport issued by a government (other than Singapore) stating that the person mentioned therein (not being a citizen of Singapore or ordinarily resident therein) is a dependant of a member of a visiting force of that country or of a civilian component of that force shall in any proceedings in any court of Singapore be sufficient evidence of the fact so stated unless the contrary is proved.
+(4) For the purposes of this Part, the production of an uncancelled entry made by or on behalf of the appropriate authority of the sending country in a document purporting to be a passport issued by a government (other than Singapore) stating that the person mentioned in such document (not being a citizen of Singapore or ordinarily resident in Singapore) is a dependant of a member of a visiting force of that country or of a civilian component of that force shall in any proceedings in any court of Singapore be sufficient evidence of the fact so stated unless the contrary is proved.
 
 (5) Where a person is charged with an offence against the law of Singapore and at the time when the offence is alleged to have been committed he was a member of a visiting force or a member of a civilian component of such a force, a certificate issued by or on behalf of the appropriate authority of the sending country, stating that the alleged offence, if committed by him, arose out of and in the course of his duty as a member of that force or component, as the case may be, shall in any such proceedings be sufficient evidence of that fact unless the contrary is proved.
 
-(6) For the purposes of section 7(1), any certificate of the Public Prosecutor given thereunder shall in any proceedings be conclusive evidence of the facts stated therein.
+(6) For the purposes of section 7(1), any certificate of the Public Prosecutor given under that section shall in any proceedings be conclusive evidence of the facts stated therein.
 
-## PART III
+## PART 3
 
 DESERTERS AND ABSENTEES WITHOUT LEAVE
 
 ### Apprehension and disposal of deserters and absentees without leave
 
-15\.—(1) Subject to this section, sections 123, 167 and 168 of the Singapore Armed Forces Act (which relate to the apprehension, custody and delivery into military custody of deserters and absentees without leave from the Singapore Armed Forces) shall within Singapore apply in relation to deserters and absentees without leave from the forces of any country to which this section applies as they apply in relation to deserters and absentees without leave from the Singapore Armed Forces.
+15\.—(1) Subject to this section, sections 123, 167 and 168 of the Singapore Armed Forces Act (Cap. 295) (which relate to the apprehension, custody and delivery into military custody of deserters and absentees without leave from the Singapore Armed Forces) shall within Singapore apply in relation to deserters and absentees without leave from the forces of any country to which this section applies as they apply in relation to deserters and absentees without leave from the Singapore Armed Forces.
 
 [7/72]
 
 (2) The powers conferred by sections 123, 167 and 168 of the Singapore Armed Forces Act as applied by subsection (1) shall not be exercised in relation to a person except in compliance with a request (whether specific or general) of the appropriate authority of the country to which he belongs.
 
-[7/72]
-
 (3) In sections 123, 167 and 168 of the Singapore Armed Forces Act as applied by subsection (1), references to the delivery of a person into military custody shall be construed as references to the handing over of that person to such authority of the country to which he belongs, at such place in Singapore as may be designated by the appropriate authority of that country.
-
-[7/72]
 
 (4) In this section, references to the country to which a person belongs are references to the country from whose forces he is suspected of being or (where he has surrendered himself) appears from his confession to be a deserter or absentee without leave.
 
-[7/72]
-
 ### Evidence for purposes of section 15
 
-16\. For the purposes of any proceedings under or arising out of any provision of the Singapore Armed Forces Act as applied by section 15 —
+16\. For the purposes of any proceedings under or arising out of any provision of the Singapore Armed Forces Act (Cap. 295) as applied by section 15 —
 
 (a) a document purporting to be a certificate under the hand of the Minister, stating that a request has been made for the exercise of the powers mentioned in section 15(2), and indicating the effect of the request, shall be sufficient evidence, unless the contrary is proved, that the request has been made and of its effect; and
 
-(b) a document purporting to be a certificate under the hand of the officer commanding a unit or detachment of any of the forces of a country to which this section applies, stating that a person named and described therein was at the date of the certificate a deserter, or absentee without leave, from those forces shall be sufficient evidence, unless the contrary is proved, of the facts appearing from the document to be so certified.
+(b) a document purporting to be a certificate under the hand of the officer commanding a unit or detachment of any of the forces of a country to which this section applies, stating that a person named and described in the document was at the date of the certificate a deserter, or absentee without leave, from those forces shall be sufficient evidence, unless the contrary is proved, of the facts appearing from the document to be so certified.
 
 [7/72]
 
-## PART IV
+## PART 4
 
 ATTACHMENT OF PERSONNEL AND MUTUAL POWERS OF COMMAND
 
@@ -370,25 +366,25 @@ ATTACHMENT OF PERSONNEL AND MUTUAL POWERS OF COMMAND
 
 17\.—(1) The Armed Forces Council —
 
-(a) may attach temporarily to a Singapore force any member of the forces of any country to which this section applies who is placed at the disposal of the Government for the purpose by the service authorities of that country;
+(a) may attach temporarily to a Singapore force any member of the forces of any country to which this section applies who is placed at the disposal of the Government for the purpose by the service authorities of that country; and
 
-(b) subject to anything to the contrary in the conditions applicable to his service, may place any member of a Singapore force at the disposal of the service authorities of any country to which this section applies for the purpose of being attached temporarily by those authorities to a force of that country:
+(b) subject to anything to the contrary in the conditions applicable to his service, may place any member of a Singapore force at the disposal of the service authorities of any country to which this section applies for the purpose of being attached temporarily by those authorities to a force of that country,
 
-Provided nevertheless that the power conferred by paragraph (b) shall not be exercisable in relation to any person without his consent.
+except that the power conferred by paragraph (b) shall not be exercisable in relation to any person without his consent.
 
-(2) While a member of any force of a country to which this section applies is by virtue of this section attached temporarily to a Singapore force, he shall be treated and shall have the like powers of command and punishment over members of the Singapore force to which he is attached and shall be subject in all respects to the law relating to discipline and administration of that force as if he were a member of the force of relative rank:
+(2) Subject to subsection (3), while a member of any force of a country to which this section applies is by virtue of this section attached temporarily to a Singapore force, he shall be treated and shall have the like powers of command and punishment over members of the Singapore force to which he is attached and shall be subject in all respects to the law relating to discipline and administration of that force as if he were a member of the force of relative rank.
 
-Provided that the President may by order direct in relation to members of a force of any such country specified in the order, that such law shall apply with such exceptions and subject to such adaptations and modifications as may be so specified.
+(3) The President may by order direct in relation to members of a force of any such country specified in the order, that such law shall apply with such exceptions and subject to such adaptations and modifications as may be so specified.
 
-(3) When a Singapore force and a force of a country to which this section applies (referred to in this subsection as the other force) are serving together whether alone or not —
+(4) When a Singapore force and a force of a country to which this section applies (referred to in this subsection as the other force) are serving together whether alone or not —
 
 (a) any member of the other force shall be treated and shall have over members of the Singapore force the like powers of command as if he were a member of the Singapore force of relative rank; and
 
 (b) if the forces are acting in combination, any officer of the other force appointed by the President or in accordance with regulations made by or by authority of the President, to command the combined force, or any part thereof, shall be treated and shall have over members of the Singapore force the like powers of command and punishment and may be invested with the like authority to convene, and confirm the findings and sentences of, courts martial as if he were an officer of the Singapore force of relative rank and holding the same command.
 
-(4) For the purpose of this section, forces shall be deemed to be serving together or acting in combination if and only if they are declared to be so serving or so acting by order of the President and the relative rank of members of the Singapore forces and of other forces shall be such as may be prescribed by regulations made by the President.
+(5) For the purpose of this section, forces shall be deemed to be serving together or acting in combination if and only if they are declared to be so serving or so acting by order of the President and the relative rank of members of the Singapore forces and of other forces shall be such as may be prescribed by regulations made by the President.
 
-## PART V
+## PART 5
 
 SUPPLEMENTARY PROVISIONS
 
@@ -402,7 +398,7 @@ SUPPLEMENTARY PROVISIONS
 
 (2) Where in any certificate issued for the purposes of this Act reference is made to a person by name, and in any proceedings in a court of Singapore reference is made to a person by that name (whether as a party to the proceedings or otherwise), the references in the certificate and in the proceedings respectively shall, unless the contrary is proved, be deemed to be references to one and the same person.
 
-(3) Any document purporting to be a certificate issued for the purposes of any provision of this Act, and to be signed by or on behalf of an authority specified therein, shall be received in evidence and shall, unless the contrary is proved, be deemed to be a certificate issued by or on behalf of that authority; and where under the provision in question a certificate is required to be issued by or on behalf of the appropriate authority of a country, and the document purports to be signed by or on behalf of an authority of that country, that authority shall, unless the contrary is proved, be deemed to be the appropriate authority of that country for the purposes of that provision.
+(3) Any document purporting to be a certificate issued for the purposes of any provision of this Act, and to be signed by or on behalf of an authority specified in it, shall be received in evidence and shall, unless the contrary is proved, be deemed to be a certificate issued by or on behalf of that authority; and where under the provision in question a certificate is required to be issued by or on behalf of the appropriate authority of a country, and the document purports to be signed by or on behalf of an authority of that country, that authority shall, unless the contrary is proved, be deemed to be the appropriate authority of that country for the purposes of that provision.
 
 ## LEGISLATIVE HISTORY
 
@@ -410,7 +406,7 @@ Visiting Forces Act
 
 (CHAPTER 344)
 
-This Legislative History is provided for the convenience of users of the Visiting Forces Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Visiting Forces Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -430,3 +426,39 @@ This Legislative History is provided for the convenience of users of the Visitin
 ||Date of commencement|15 June 1972|
 |5.|**1985 Revised Edition—Visiting Forces Act (Chapter 344)**|
 ||Date of operation|30 March 1987|
+|6.|**2014 Revised Edition—Visiting Forces Act (Chapter 344)**|
+||Date of operation|30 November 2014|
+## COMPARATIVE TABLE
+
+Visiting Forces Act
+
+(CHAPTER 344)
+
+The following provisions in the 1985 Revised Edition of the Visiting Forces Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Visiting Forces Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+11 —(4) and (5)
+
+11 —(4)
+
+(6)
+
+ (5)
+
+17 —(2) and (3)
+
+17 —(2)
+
+(4)
+
+ (3)
+
+(5)
+
+ (4)
+
