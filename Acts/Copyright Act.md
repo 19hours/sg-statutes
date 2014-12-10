@@ -580,6 +580,12 @@
 
 - [193DD Maker of false notice guilty of offence and liable in damages](#Maker-of-false-notice-guilty-of-offence-and-liable-in-damages)
 
+- [193DDA Order to disable access to flagrantly infringing online location](#Order-to-disable-access-to-flagrantly-infringing-online-location)
+
+- [193DDB Application for order under section 193DDA](#Application-for-order-under-section-193DDA)
+
+- [193DDC Variation or revocation of order](#Variation-or-revocation-of-order)
+
 - [193DE Regulations](#Regulations)
 
 - [193E User caching](#User-caching)
@@ -737,6 +743,12 @@
 - [252CC Evidence of compliance with conditions](#Evidence-of-compliance-with-conditions)
 
 - [252CD Maker of false notice guilty of offence and liable in damages](#Maker-of-false-notice-guilty-of-offence-and-liable-in-damages)
+
+- [252CDA Order to disable access to flagrantly infringing online location](#Order-to-disable-access-to-flagrantly-infringing-online-location)
+
+- [252CDB Application for order under section 252CDA](#Application-for-order-under-section-252CDA)
+
+- [252CDC Variation or revocation of order](#Variation-or-revocation-of-order)
 
 - [252CE Regulations](#Regulations)
 
@@ -6183,15 +6195,23 @@ WORKS, OR OTHER SUBJECT-MATTER, IN ELECTRONIC FORM
 
 “electronic copy”, in relation to any material, means a copy of the material in an electronic form, and includes the original version of the material in that form;
 
+“flagrantly infringing online location” means an online location which is determined by the High Court under section 193DDA to have been or is being used to flagrantly commit or facilitate infringement of copyright in materials;
+
+[Act 22 of 2014 wef 10/12/2014]
+
 “material” means any work or other subject-matter in which copyright subsists by virtue of this Act;
 
 “monetary relief” means damages, an account of profits or statutory damages;
 
 “network service provider” —
 
-(a) for the purposes of section 193B, means a person who provides services relating to, or provides connections for, the transmission or routing of data; and
+(a) for the purposes of sections 193B, 193DDA and 193DDB, means a person who provides services relating to, or provides connections for, the transmission or routing of data; and
 
-(b) for the purposes of this Part (other than section 193B), means a person who provides, or operates facilities for, online services or network access and includes a person referred to in paragraph (a),
+[Act 22 of 2014 wef 10/12/2014]
+
+(b) for the purposes of this Part (other than sections 193B, 193DDA and 193DDB), means a person who provides, or operates facilities for, online services or network access and includes a person referred to in paragraph (a),
+
+[Act 22 of 2014 wef 10/12/2014]
 
 but does not include such person or class of persons as the Minister may prescribe;
 
@@ -6323,9 +6343,11 @@ the network service provider expeditiously takes reasonable steps to remove or d
 
 [52/2004; 22/2005]
 
-(3) For the purposes of subsection (2), a notice purportedly made by the owner of the copyright in the material or under the owner’s authority which is not a notice referred to in subsection (2)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (2)(b)(i) or (ii).
+(3) For the purposes of subsection (2), a notice purportedly made by the owner of the copyright in the material or under the owner’s authority which is not a notice referred to in subsection (2)(b)(iii), or a notice under section 193DDB(1)(b), shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (2)(b)(i) or (ii).
 
 [22/2005]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (4) The conditions referred to in subsection (1)(b) are that —
 
@@ -6349,9 +6371,11 @@ the network service provider expeditiously takes reasonable steps to disable acc
 
 [52/2004; 22/2005]
 
-(5) For the purposes of subsection (4), a notice purportedly made by the owner of the copyright in the material or under the owner’s authority which is not a notice referred to in subsection (4)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (4)(b)(i) or (ii).
+(5) For the purposes of subsection (4), a notice purportedly made by the owner of the copyright in the material or under the owner’s authority which is not a notice referred to in subsection (4)(b)(iii), or a notice under section 193DDB(1)(b), shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (4)(b)(i) or (ii).
 
 [22/2005]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (6) For the purposes of subsections (2)(a) and (4)(a), in determining whether a financial benefit is directly attributable to the infringement of copyright in the material, the court shall have regard to —
 
@@ -6439,7 +6463,9 @@ if such restoration was done in reliance on any counter notice referred to in su
 
 (a) the network service provider has provided a facility which was used by another person to do that act;
 
-(b) the network service provider has received any notice referred to in section 193C(2)(b) or 193D(2)(b)(iii) or (4)(b)(iii) in respect of that act;
+(b) the network service provider has received any notice referred to in section 193C(2)(b), 193D(2)(b)(iii) or (4)(b)(iii) or 193DDB(1)(b) in respect of that act;
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (c) the network service provider has acquired any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
 
@@ -6469,7 +6495,7 @@ if such restoration was done in reliance on any counter notice referred to in su
 
 [52/2004]
 
-(3) When making an order under subsection (1) or (2), the court shall have regard to —
+(3) When making an order under subsection (1) or (2) or section 193DDA(1), the court shall have regard to —
 
 (a) the harm that has been or may foreseeably be caused to the plaintiff;
 
@@ -6486,6 +6512,8 @@ if such restoration was done in reliance on any counter notice referred to in su
 (g) all other matters which it considers relevant.
 
 [52/2004]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 ### Evidence of compliance with conditions
 
@@ -6513,6 +6541,72 @@ the court shall presume, in the absence of evidence to the contrary, that the ne
 
 [52/2004]
 
+### Order to disable access to flagrantly infringing online location
+
+193DDA\.—(1) Where the High Court is satisfied, on an application made by the owner or exclusive licensee of copyright in a material against a network service provider, that —
+
+(a) the services of the network service provider have been or are being used to access an online location, which is the subject of the application, to commit or facilitate infringement of copyright in that material; and
+
+(b) the online location is a flagrantly infringing online location,
+
+the High Court may, after having regard to the factors referred to in section 193DB(3), make an order requiring the network service provider to take reasonable steps to disable access to the flagrantly infringing online location.
+
+(2) For the purpose of determining under subsection (1)(b) whether an online location has been or is being used to flagrantly commit or facilitate infringement of copyright in materials, the High Court shall have regard to, and give such weight as the High Court considers appropriate to, all of the following matters:
+
+(a) whether the primary purpose of the online location is to commit or facilitate copyright infringement;
+
+(b) whether the online location makes available or contains directories, indexes or categories of the means to commit or facilitate copyright infringement;
+
+(c) whether the owner or operator of the online location demonstrates a disregard for copyright generally;
+
+(d) whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;
+
+(e) whether the online location contains guides or instructions to circumvent measures, or any order of any court, that disables access to the online location on the ground of or related to copyright infringement;
+
+(f) the volume of traffic at or frequency of access to the online location.
+
+(3) For the avoidance of doubt, the High Court shall not be confined to consideration of matters specified in subsection (2) and may take into account such other matters and evidence as may be relevant.
+
+[Act 22 of 2014 wef 10/12/2014]
+
+### Application for order under section 193DDA
+
+193DDB\.—(1) Subject to subsection (3), the owner or exclusive licensee of copyright in a material must, before applying for an order under section 193DDA(1) —
+
+(a) send a notice to the owner of the online location that is intended to be the subject of the order (referred to in this section as the relevant online location owner) stating that the online location has been or is being used to commit or facilitate infringement of copyright in the material, and the intention of the owner or the exclusive licensee, as the case may be, to apply for that order if the relevant online location owner does not, within the prescribed period, cease the use of the online location to commit or facilitate infringement of copyright in the material; and
+
+(b) send, upon or after the end of the prescribed period referred to in paragraph (a) or after reasonable efforts are made to send the notice referred to in paragraph (a) to the relevant online location owner, a notice to the network service provider that is to be the defendant in an action under that section stating the intention of the owner or exclusive licensee, as the case may be, to apply for that order.
+
+(2) Every application for an order under section 193DDA(1) must be served on the network service provider who is the defendant in the action under that section, and notice of the making of the application must be given to the relevant online location owner.
+
+(3) At the hearing of an application for an order under section 193DDA(1), the High Court may dispense with the notice required to be sent under subsection (1)(a) and the notice under subsection (2) if the High Court is satisfied that the plaintiff, despite reasonable efforts to do so, is unable to determine the identity or address of the relevant online location owner or to send the notices to the relevant online location owner.
+
+(4) The relevant online location owner shall —
+
+(a) have the right to be heard on an application for an order under section 193DDA(1); and
+
+(b) have the same right of appeal as a party to the application.
+
+(5) All provisions in Division 4 of Part V shall apply, with the necessary modifications, to any application for an order under section 193DDA(1).
+
+[Act 22 of 2014 wef 10/12/2014]
+
+### Variation or revocation of order
+
+193DDC\.—(1) The High Court may, on the application of a party to an order made under section 193DDA(1), vary the order as it thinks just if the High Court is satisfied that there has been a material change in the circumstances or that it is otherwise appropriate in the circumstances to do so.
+
+(2) The High Court may, on the application of a party to an order made under section 193DDA(1), revoke the order if the High Court is satisfied —
+
+(a) upon further evidence, that the order ought not to have been made;
+
+(b) that the online location has ceased to be a flagrantly infringing online location; or
+
+(c) that it is otherwise appropriate in the circumstances to do so.
+
+(3) In this section, a reference to a party to an order made under section 193DDA(1) includes a reference to the owner of the online location that is the subject of the order.
+
+[Act 22 of 2014 wef 10/12/2014]
+
 ### Regulations
 
 193DE\.—(1) The Minister may make regulations prescribing any thing required or authorised to be prescribed under this Part.
@@ -6521,11 +6615,19 @@ the court shall presume, in the absence of evidence to the contrary, that the ne
 
 (2) Without prejudice to the generality of subsection (1), the regulations may —
 
-(a) prescribe the procedure or requirements for the notices to be furnished under this Part, including the forms of and information to be contained in such notices, the manner of sending such notices, and the manner of verification of statements in such notices; and
+(a) prescribe the procedure or requirements for the notices to be furnished under this Part, including the forms of and information to be contained in such notices, the manner of sending such notices, and the manner of verification of statements in such notices;
 
-(b) prescribe other conditions which a network service provider must comply with in order to benefit from the provisions in this Part.
+[Act 22 of 2014 wef 10/12/2014]
+
+(b) prescribe other conditions which a network service provider must comply with in order to benefit from the provisions in this Part; and
 
 [52/2004]
+
+[Act 22 of 2014 wef 10/12/2014]
+
+(c) prescribe the reasonable efforts required to be made by an owner or exclusive licensee of copyright in any material, for the purposes of section 193DDB(3).
+
+[Act 22 of 2014 wef 10/12/2014]
 
 ### User caching
 
@@ -7471,11 +7573,17 @@ PERFORMERS’ PROTECTION
 
 (o) a copy of an authorised recording of a performance;
 
+“flagrantly infringing online location” means an online location which is determined by the High Court under section 252CDA to have been or is being used to flagrantly make or facilitate unauthorised use of performances;
+
+[Act 22 of 2014 wef 10/12/2014]
+
 “monetary relief” means damages, an account of profits or statutory damages;
 
 “network service provider” —
 
-(a) for the purposes of section 252A, means a person who provides services relating to, or provides connections for, the transmission or routing of data; and
+(a) for the purposes of sections 252A, 252CDA and 252CDB, means a person who provides services relating to, or provides connections for, the transmission or routing of data; and
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (b) for the purposes of sections 252B to 252CC and 252CE, means a person who provides, or operates facilities for, online services or network access and includes a person referred to in paragraph (a),
 
@@ -7763,9 +7871,11 @@ the network service provider expeditiously takes reasonable steps to remove or d
 
 [52/2004; 22/2005]
 
-(3) For the purposes of subsection (2), a notice purportedly made by the performer of the performance or under the performer’s authority which is not a notice referred to in subsection (2)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (2)(b)(i) or (ii).
+(3) For the purposes of subsection (2), a notice purportedly made by the performer of the performance or under the performer’s authority which is not a notice referred to in subsection (2)(b)(iii), or a notice under section 252CDB(1)(b), shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (2)(b)(i) or (ii).
 
 [22/2005]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (4) The conditions referred to in subsection (1)(b) are that —
 
@@ -7789,9 +7899,11 @@ the network service provider expeditiously takes reasonable steps to disable acc
 
 [52/2004; 22/2005]
 
-(5) For the purposes of subsection (4), a notice purportedly made by the performer of the performance or under the performer’s authority which is not a notice referred to in subsection (4)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (4)(b)(i) or (ii).
+(5) For the purposes of subsection (4), a notice purportedly made by the performer of the performance or under the performer’s authority which is not a notice referred to in subsection (4)(b)(iii), or a notice under section 252CDB(1)(b), shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (4)(b)(i) or (ii).
 
 [22/2005]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (6) For the purposes of subsections (2)(a) and (4)(a), in determining whether a financial benefit is directly attributable to the unauthorised use of the performance, the court shall have regard to —
 
@@ -7871,7 +7983,9 @@ if such restoration was done in reliance on any counter notice referred to in su
 
 (a) the network service provider has provided a facility which was used by another person to do that act;
 
-(b) the network service provider has received any notice referred to in section 252C(2)(b) or 252C(2)(b)(iii) or (4)(b)(iii) in respect of that act;
+(b) the network service provider has received any notice referred to in section 252C(2)(b) or 252C(2)(b)(iii) or (4)(b)(iii) or 252CDB(1)(b) in respect of that act;
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (c) the network service provider has acquired any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
 
@@ -7901,7 +8015,7 @@ if such restoration was done in reliance on any counter notice referred to in su
 
 [52/2004]
 
-(3) When making an order under subsection (1) or (2), the court shall have regard to —
+(3) When making an order under subsection (1) or (2) or section 252CDA(1), the court shall have regard to —
 
 (a) the harm that has been or may foreseeably be caused to the plaintiff;
 
@@ -7918,6 +8032,8 @@ if such restoration was done in reliance on any counter notice referred to in su
 (g) all other matters which it considers relevant.
 
 [52/2004]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 ### Evidence of compliance with conditions
 
@@ -7945,19 +8061,93 @@ the court shall presume, in the absence of evidence to the contrary, that the ne
 
 [52/2004]
 
+### Order to disable access to flagrantly infringing online location
+
+252CDA\.—(1) Where the High Court is satisfied, on an application made during the protection period of a performance by the performer of the performance against a network service provider, that —
+
+(a) the services of the network service provider have been or are being used to access an online location, which is the subject of the application, to make or facilitate any unauthorised use of that performance; and
+
+(b) the online location is a flagrantly infringing online location,
+
+the High Court may, after having regard to the factors referred to in section 252CB(3), make an order requiring the network service provider to take reasonable steps to disable access to the flagrantly infringing online location.
+
+(2) For the purpose of determining under subsection (1)(b) whether an online location has been or is being used to make or facilitate an unauthorised use of any performance, the High Court shall have regard to, and give such weight as the High Court considers appropriate to, all of the following matters:
+
+(a) whether the primary purpose of the online location is to make or facilitate unauthorised use of performances;
+
+(b) whether the online location makes available or contains directories, indexes or categories of the means to make or facilitate unauthorised use of performances;
+
+(c) whether the owner or operator of the online location demonstrates a disregard for the authorised use of performances generally;
+
+(d) whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to the unauthorised use of performances;
+
+(e) whether the online location contains guides or instructions to circumvent measures, or any order of any court, that disables access to the online location on the ground of or related to the unauthorised use of performances;
+
+(f) the volume of traffic at or frequency of access to the online location.
+
+(3) For the avoidance of doubt, the High Court shall not be confined to consideration of matters specified in subsection (2) and may take into account such other matters and evidence as may be relevant.
+
+[Act 22 of 2014 wef 10/12/2014]
+
+### Application for order under section 252CDA
+
+252CDB\.—(1) Subject to subsection (3), the performer of a performance, the protection period of which has not expired, must before applying for an order under section 252CDA(1) —
+
+(a) send a notice to the owner of the online location that is intended to be the subject of the order (referred to in this section as the relevant online location owner) stating that the online location has been or is being used to make or facilitate an unauthorised use of the performance and the intention of the performer, to apply for that order if the relevant online location owner does not, within a prescribed period, cease the use of the online location to make or facilitate an unauthorised use of the performance; and
+
+(b) send, upon or after the end of the prescribed period referred to in paragraph (a) or after reasonable efforts are made to send the notice referred to in paragraph (a) to the relevant online location owner, a notice to the network service provider that is to be the defendant in an action under that section stating the intention of the performer to apply for that order.
+
+(2) Every application for an order under section 252CDA(1) must be served on the network service provider who is the defendant in the action under that section, and notice of the making of the application must be given to the relevant online location owner.
+
+(3) At the hearing of an application for an order under section 252CDA(1), the High Court may dispense with the notice required to be sent under subsection (1)(a) and the notice under subsection (2) if the High Court is satisfied that the plaintiff, despite reasonable efforts to do so, is unable to determine the identity or address of the relevant online location owner or to send the notices to the relevant online location owner.
+
+(4) The relevant online location owner shall —
+
+(a) have the right to be heard on an application for an order under section 252CDA(1); and
+
+(b) have the same right of appeal as a party to the application.
+
+[Act 22 of 2014 wef 10/12/2014]
+
+### Variation or revocation of order
+
+252CDC\.—(1) The High Court may, on the application of a party to an order made under section 252CDA(1), vary the order as the High Court thinks just if the High Court is satisfied that there has been a material change in the circumstances or that it is otherwise appropriate in the circumstances to do so.
+
+(2) The High Court may, on the application of a party to an order made under section 252CDA(1), revoke the order if the High Court is satisfied —
+
+(a) upon further evidence, that the order ought not to have been made;
+
+(b) that the online location has ceased to be a flagrantly infringing online location; or
+
+(c) that it is otherwise appropriate in the circumstances to do so.
+
+(3) In this section, a reference to a party to an order made under section 252CDA(1) includes a reference to the owner of the online location that is the subject of the order.
+
+[Act 22 of 2014 wef 10/12/2014]
+
 ### Regulations
 
-252CE\.—(1) The Minister may make regulations prescribing anything required or authorised to be prescribed under sections 252A to 252CD.
+252CE\.—(1) The Minister may make regulations prescribing anything required or authorised to be prescribed under sections 252A to 252CDC.
 
 [52/2004]
+
+[Act 22 of 2014 wef 10/12/2014]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may —
 
-(a) prescribe the procedure or requirements for the notices to be furnished under sections 252B(2)(b), 252B(2)(b)(iii) and (4)(b)(iii) and 252CA(2)(b), including the forms of and information to be contained in such notices, the manner of sending such notices, and the manner of verification of statements in such notices; and
+(a) prescribe the procedure or requirements for the notices to be furnished under sections 252B(2)(b), 252B(2)(b)(iii) and (4)(b)(iii), 252CA(2)(b) and 252CDB(1)(a) and (b) and (2), including the forms of and information to be contained in such notices, the manner of sending such notices, and the manner of verification of statements in such notices;
 
-(b) prescribe other conditions which a network service provider must comply with in order to benefit from the provisions in section 252A to 252CD.
+[Act 22 of 2014 wef 10/12/2014]
+
+(b) prescribe other conditions which a network service provider must comply with in order to benefit from the provisions in section 252A to 252CD; and
 
 [52/2004]
+
+[Act 22 of 2014 wef 10/12/2014]
+
+(c) prescribe the reasonable efforts required to be made by a performer of a performance for the purposes of section 252CDB(3).
+
+[Act 22 of 2014 wef 10/12/2014]
 
 ### Effect of application of sections 252A to 252CD
 
@@ -9216,6 +9406,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|23.|**Act 22 of 2014—Copyright (Amendment) Act 2014**|
+||Date of First Reading|29 May 2014 (Bill No. 16/2014 published on 29 May 2014)|
+||Date of Second and Third Readings|8 July 2014|
+||Date of commencement|10 December 2014|
 ## COMPARATIVE TABLE
 
 Copyright Act
