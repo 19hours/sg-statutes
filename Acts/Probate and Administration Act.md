@@ -258,9 +258,11 @@ PRELIMINARY
 
 [42/2005 wef 01/01/2006]
 
-“Public Trustee” means the Public Trustee appointed under the Public Trustee Act (Cap. 260) and includes an Assistant Public Trustee appointed under that Act;
+“Public Trustee” means the Public Trustee appointed under the Public Trustee Act (Cap. 260) and includes a Deputy Public Trustee and an Assistant Public Trustee appointed under that Act;
 
 [6/2004 wef 08/03/2004]
+
+[Act 44 of 2014 wef 31/12/2014]
 
 “registrar” means —
 
@@ -1207,6 +1209,10 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|22.|**Act 44 of 2014—Public Trustee (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 34/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|3 November 2014|
+||Date of commencement|31 December 2014|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
