@@ -36,15 +36,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Military Manoeuvres Act
 
 (CHAPTER 182)
 
 (Original Enactment: M. Enactment F.M.S. Cap. 43)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st December 2014)
 
 An Act to facilitate military manoeuvres and firing exercises.
 
@@ -56,45 +58,51 @@ An Act to facilitate military manoeuvres and firing exercises.
 
 ### Notice of manoeuvres
 
-2\.—(1) Whenever the number of troops to be engaged in military manoeuvres exceeds 500 notice in writing shall be given to the Secretary to the Armed Forces Council at least one month before the date on which it is proposed to execute such manoeuvres, specifying the date of the commencement of the manoeuvres, the period not exceeding 3 months during which and approximately the limits within which the manoeuvres are to be executed. The notice shall also specify a date not earlier than one month from the conclusion of the manoeuvres within which claims for compensation arising from the putting in force of the provisions of this Act shall be sent to the Secretary to the Armed Forces Council.
+2\.—(1) Whenever the number of troops to be engaged in military manoeuvres exceeds 500, notice in writing shall be given to the Secretary to the Armed Forces Council at least one month before the date on which it is proposed to execute such manoeuvres, specifying —
+
+(a) the date of the commencement of the manoeuvres, the period not exceeding 3 months during which and approximately the limits within which the manoeuvres are to be executed; and
+
+(b) a date not earlier than one month from the conclusion of the manoeuvres within which claims for compensation arising from the putting in force of the provisions of this Act shall be sent to the Secretary to the Armed Forces Council.
 
 [8/83]
 
 ### Publication of notice
 
-(2) The Secretary to the Armed Forces Council shall cause copies of such notice to be posted in every village and at other convenient places within the limits therein mentioned at least 14 days before the day named for the commencement of the manoeuvres.
+(2) The Secretary to the Armed Forces Council shall cause copies of such notice to be posted in every village and at other convenient places within the limits mentioned in the notice at least 14 days before the day named for the commencement of the manoeuvres.
 
-### When no notice is necessary
+[8/83]
 
-(3) Whenever the number of troops to be engaged in the manoeuvres does not exceed 500 no such notice as mentioned in subsection (1) shall be necessary:
+### When no notice necessary
 
-Provided that where no such notice is given the manoeuvres shall not extend beyond a period of 48 hours.
+(3) Whenever the number of troops to be engaged in the manoeuvres does not exceed 500 no such notice as mentioned in subsection (1) shall be necessary; and if no such notice is given, the manoeuvres shall not extend beyond a period of 48 hours.
 
 ### Powers of persons engaged in manoeuvres
 
-3\.—(1) When any military manoeuvres are being executed under this Act such persons as are engaged in the manoeuvres may within the limits specified in the notice, if any, as aforesaid and during the specified period —
+3\.—(1) When any military manoeuvres are being executed under this Act, such persons as are engaged in the manoeuvres may within the limits specified in the notice, if any, as aforesaid and during the specified period —
 
-(a) pass over and encamp, construct military works not of a permanent character and execute military manoeuvres on any land;
+(a) pass over and encamp, construct military works not of a permanent character and execute military manoeuvres on any land; and
 
-(b) supply themselves with water from any sources of water, public or private, and for that purpose dam up any running water:
+(b) supply themselves with water from any sources of water, public or private, and for that purpose dam up any running water,
 
-Provided that such damming does not interfere with any trade or industry and that nothing in this Act shall authorise the taking of water from any source of supply belonging to a private owner or public authority except subject to the supply shown to be required by those entitled to use the water supply.
+provided that such damming under paragraph (b) does not interfere with any trade or industry and that nothing in this Act shall authorise the taking of water from any source of supply belonging to a private owner or public authority except subject to the supply shown to be required by those entitled to use the water supply.
 
 (2) Nothing in this Act shall authorise entry on or interference with any dwelling-house, place of worship, school, factory, store or premises used for the carrying on of any business or manufacture or any ground attached to any place of worship or school or any premises enclosed within the curtilage of or attached to any dwelling-house.
 
 ### Compensation for damage
 
-4\. Full compensation shall be paid for any injury or damage to persons or property or interference with rights or privileges arising from putting in force any of the provisions of this Act, whether or not occasioned by the acts or defaults of the forces engaged in the manoeuvres, including therein all expenses reasonably incurred in the protection of persons, property, rights and privileges, and any damage by reason of excessive weight or extraordinary traffic caused to any highway for the repair of which any public body or any individual is responsible. The compensation shall be paid to all persons who send in their claims to the Secretary to the Armed Forces Council within the period named in the notice or, if there is no such notice, to the Secretary within one month from the conclusion of the manoeuvres.
+4\.—(1) Full compensation shall be paid for any injury or damage to persons or property or interference with rights or privileges arising from putting in force any of the provisions of this Act, whether or not occasioned by the acts or defaults of the forces engaged in the manoeuvres, including therein all expenses reasonably incurred in the protection of persons, property, rights and privileges, and any damage by reason of excessive weight or extraordinary traffic caused to any highway for the repair of which any public body or any individual is responsible.
+
+(2) The compensation shall be paid to all persons who send in their claims to the Secretary to the Armed Forces Council within the period named in the notice or, if there is no such notice, to the Secretary within one month from the conclusion of the manoeuvres.
 
 [8/83]
 
 ### Assessment of compensation
 
-5\.—(1) If the amount of compensation is not settled by agreement between the Armed Forces Council and the claimant, the difference between them shall be referred to arbitration, and the sending in of a claim for compensation shall be treated as a submission to arbitration under the Arbitration Act [Cap. 10].
+5\.—(1) If the amount of compensation is not settled by agreement between the Armed Forces Council and the claimant, the difference between them shall be referred to arbitration, and the sending in of a claim for compensation shall be treated as a submission to arbitration under the Arbitration Act (Cap. 10).
 
 [8/83]
 
-(2) The reference shall be to two arbitrators having power to appoint an umpire under that Act.
+(2) The reference shall be to 2 arbitrators having power to appoint an umpire under the Arbitration Act.
 
 ### Offences
 
@@ -114,6 +122,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (2) Such person may be arrested without a warrant and any animal or vehicle under his charge may be removed by any police officer or by order of any commissioned officer of the forces engaged in the manoeuvres.
 
+[8/83]
+
 ### Manoeuvres not to be held in catchment area of waterworks
 
 7\. No military manoeuvres shall be executed and no military encampment made on any land forming part of the catchment area in connection with the impounding reservoir of any public waterworks or on any land set apart for the collection of water for the supply of any public waterworks.
@@ -122,13 +132,13 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 8\.—(1) It shall be lawful for the Minister from time to time by proclamation to declare —
 
-(a) that any area specified in the proclamation shall be a manoeuvring ground;
+(a) that any area specified in the proclamation shall be a manoeuvring ground; or
 
-(b) that any area specified in the proclamation shall be a firing ground;
+(b) that any area specified in the proclamation shall be a firing ground,
 
 and from time to time in the like manner to declare that any such area or part of that area shall cease to be a manoeuvring ground or a firing ground, as the case may be.
 
-[Act 7/97 wef 01/10/1997]
+[7/97]
 
 (2) A manoeuvring ground may include any land, sea, tidal water or shore on which or over which aircraft can manoeuvre or from which they can take off or on which they can alight.
 
@@ -152,7 +162,7 @@ and from time to time in the like manner to declare that any such area or part o
 
 (c) offences,
 
-shall be applicable to all manoeuvres carried on in and over the manoeuvring ground.
+shall be applicable to all manoeuvres carried on, in and over the manoeuvring ground.
 
 ### Powers of Armed Forces Council in respect of firing ground
 
@@ -172,7 +182,7 @@ shall be applicable to all manoeuvres carried on in and over the manoeuvring gro
 
 (c) offences,
 
-shall be applicable to any military or air force exercises carried on in and over the firing ground.
+shall be applicable to any military or air force exercises carried on, in and over the firing ground.
 
 ### Rules for firing grounds
 
@@ -186,7 +196,7 @@ shall be applicable to any military or air force exercises carried on in and ove
 
 [8/83]
 
-(2) All such rules shall be published in theGazette, and copies thereof in Malay, Chinese, Tamil and English shall be posted in at least 3 conspicuous places within or near the firing ground.
+(2) All such rules shall be published in theGazette, and copies of the rules in Malay, Chinese, Tamil and English shall be posted in at least 3 conspicuous places within or near the firing ground.
 
 (3) If any such rules injuriously affect or obstruct the exercise of any private right of any person in or over any sea, tidal water or shore, that person shall be entitled to compensation, and the compensation shall, in case of dispute, be ascertained in the manner provided by section 13.
 
@@ -208,15 +218,15 @@ shall be applicable to any military or air force exercises carried on in and ove
 
 13\.—(1) Such compensation, unless otherwise agreed, shall be in the form of an annual rent payable to every person entitled to the compensation so long as the land in respect of which it is paid continues to be a firing ground.
 
+(2) The amount of such compensation shall be such as is agreed upon between the Armed Forces Council and the claimant, and if the amount of the compensation cannot be settled by agreement, the difference between the parties shall be referred to arbitration, and the sending in of a claim for compensation shall be treated as a submission to arbitration under the Arbitration Act (Cap. 10).
+
 [8/83]
 
-(2) The amount of such compensation shall be such as is agreed upon between the Armed Forces Council and the claimant, and if the amount of the compensation cannot be settled by agreement, the difference between the parties shall be referred to arbitration, and the sending in of a claim for compensation shall be treated as a submission to arbitration under the Arbitration Act [Cap. 10].
-
-(3) The reference shall be to two arbitrators having power to appoint an umpire under that Act.
+(3) The reference shall be to 2 arbitrators having power to appoint an umpire under the Arbitration Act.
 
 ### Time limit for claim to compensation
 
-14\.—(1) Every claim for compensation under section 11(3) or 12 shall be made in writing to the Secretary to the Armed Forces Council, within two months after the land, sea, tidal water or shore, as the case may be, in respect of which the claim is made has been used as a firing ground for the purposes of military or air force exercises by virtue of a declaration under this Act.
+14\.—(1) Every claim for compensation under section 11(3) or 12 shall be made in writing to the Secretary to the Armed Forces Council, within 2 months after the land, sea, tidal water or shore, as the case may be, in respect of which the claim is made has been used as a firing ground for the purposes of military or air force exercises by virtue of a declaration under this Act.
 
 [8/83]
 
@@ -232,8 +242,9 @@ This Legislative History is provided for the convenience of users of the Militar
 
 ||||
 |:-|:-|:-|
-|1.|**M. Enactment F.M.S—Military Manoeuvres Enactment (Chapter 43)**|
+|1.|**M. Enactment F.M.S.—Military Manoeuvres Enactment (Chapter 43)**|
 ||Dates of First, Second and Third Readings|Dates not available.|
+|||(No Bill number given)|
 ||Date of commencement|31 December 1934|
 |2.|**M. Ordinance 1 of 1948—Transfer of Powers Ordinance 1948**|
 ||Dates of First, Second and Third Readings|Dates not available.|
@@ -245,10 +256,10 @@ This Legislative History is provided for the convenience of users of the Militar
 ||Date of commencement|7 May 1959|
 |5.|**L.N. 233/63—Malaysia Act, 1963, Modification of Laws (Armed Forces) (Singapore) Order 1963**|
 ||Date of commencement|16 September 1963|
-|6.|**G. N. No. S 166/1966—Modification of Laws (Military Manoeuvres) Order 1966**|
+|6.|**G. N. No. S 166/66—Modification of Laws (Military Manoeuvres) Order 1966**|
 ||Date of commencement|5 August 1966|
-|7.|**1966 Reprint—Military Manoeuvres Enactment (M. (F.M.S) Chapter 43)**|
-||Date of Reprint|17 August 1966|
+|7.|**1966 Reprint—Military Manoeuvres Enactment (M. (F.M.S.) Chapter 43)**|
+||Date of operation|17 August 1966|
 |8.|**1970 Revised Edition—Military Manoeuvres Act (Chapter 232)**|
 ||Date of operation|31 July 1971|
 |9.|**Act 8 of 1983—Military Manoeuvres (Amendment) Act 1983**|
@@ -264,3 +275,27 @@ This Legislative History is provided for the convenience of users of the Militar
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
 |||(item (17) of the Second Schedule — amendment of Military Manoeuvres Act)|
+|12.|**2014 Revised Edition—Military Manoeuvres Act (Chapter 182)**|
+||Date of operation|31 December 2014|
+## COMPARATIVE TABLE
+
+Military Manoeuvres Act
+
+(CHAPTER 182)
+
+The following provisions in the 1985 Revised Edition of the Military Manoeuvres Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Military Manoeuvres Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+2 —(1)(a) and (b)
+
+2 —(1)
+
+4 —(1) and (2)
+
+4 
+
