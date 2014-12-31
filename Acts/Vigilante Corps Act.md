@@ -54,9 +54,9 @@
 
 - [24 Prosecution for disciplinary offences](#Prosecution-for-disciplinary-offences)
 
-- [25 Threatening or insulting any police officer or Vigilante Corps member of senior or equal rank](#Threatening-or-insulting-any-police-officer-or-Vigilante-Corps-member-of-senior-or-equal-rank)
+- [25 Threatening or insulting police officer or Vigilante Corps member of senior or equal rank](#Threatening-or-insulting-police-officer-or-Vigilante-Corps-member-of-senior-or-equal-rank)
 
-- [26 Loss of or damage to arms, equipment, etc., to be made good by order of a court or by composition](#Loss-of-or-damage-to-arms-equipment-etc-to-be-made-good-by-order-of-a-court-or-by-composition)
+- [26 Loss of or damage to arms, equipment, etc., to be made good by order of court or by composition](#Loss-of-or-damage-to-arms-equipment-etc-to-be-made-good-by-order-of-court-or-by-composition)
 
 - [27 Power to summon witnesses](#Power-to-summon-witnesses)
 
@@ -74,15 +74,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Vigilante Corps Act
 
 (CHAPTER 343)
 
 (Original Enactment: Act 24 of 1967)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st December 2014)
 
 An Act to provide for the establishment and maintenance of the Vigilante Corps and for purposes connected therewith.
 
@@ -104,7 +106,7 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 “Corps” means the Vigilante Corps established under this Act;
 
-“detention barracks” means any building or part thereof set apart by the Commissioner for the purposes of persons serving sentences of detention;
+“detention barracks” means any building or part of a building set apart by the Commissioner for the purposes of persons serving sentences of detention;
 
 “disciplinary officer” means any officer or any police officer of or above the rank of Inspector in the Police Force who is appointed by the Commandant to conduct disciplinary proceedings;
 
@@ -112,9 +114,9 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 “national serviceman” means a person who has been directed to present himself for enlistment in the Corps under the provisions of any written law for the time being in force relating to national service or enlistment;
 
-“officer” means any member of the Corps not less than the rank of assistant unit leader;
+“officer” means any member of the Corps not below the rank of assistant unit leader;
 
-“Police Force” means the Singapore Police Force established by the Police Force Act [Cap. 235];
+“Police Force” means the Singapore Police Force established by the Police Force Act (Cap. 235);
 
 “subordinate officer” means a member of the Corps below the rank of assistant unit leader.
 
@@ -122,7 +124,7 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 ### Raising and maintenance of Vigilante Corps
 
-3\. There shall be raised and maintained in accordance with the provisions of this Act and of the regulations made thereunder a Corps to be known as the Vigilante Corps.
+3\. There shall be raised and maintained in accordance with the provisions of this Act and its regulations a corps to be known as the Vigilante Corps.
 
 ### Composition of Corps
 
@@ -146,7 +148,7 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 ### Affiliation to Police Force
 
-7\.—(1) The Corps shall be affiliated to the Police Force but members of the Corps shall not be police officers within the meaning of the Police Force Act [Cap. 235].
+7\.—(1) The Corps shall be affiliated to the Police Force but members of the Corps shall not be police officers within the meaning of the Police Force Act (Cap. 235).
 
 (2) The Commissioner may second any member of the Police Force for full-time or part-time service in the Corps.
 
@@ -156,7 +158,7 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 ### Power to disband Corps
 
-9\. The Minister may, whenever it seems to him expedient to do so, disband or discontinue the service of the Corps or any part thereof.
+9\. The Minister may, whenever it seems to him expedient to do so, disband or discontinue the service of the Corps or any part of the Corps.
 
 ### Oath or affirmation
 
@@ -182,11 +184,9 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 13\.—(1) Every member of the Corps who, by resignation, dismissal, discharge or otherwise leaves the Corps, shall before leaving deliver up in good order (fair wear and tear only excepted) any arms, ammunition, accoutrement, uniform or other article supplied to him and any other property belonging to the Government which may be in his possession.
 
-(2) Any person neglecting to deliver up any such article or property shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months, and in addition thereto shall be liable to pay the value of the article or property not delivered up, which value shall be ascertained in a summary manner by the same court by which the person was convicted where it shall be recoverable as a fine.
+(2) Any person neglecting to deliver up any such article or property shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months, and shall, in addition be liable to pay the value of the article or property not delivered up.
 
-[14\*
-
-\*The former section 13 was repealed by Act 21 of 1974.
+(3) For the purposes of subsection (2), the value of the article or property shall be ascertained in a summary manner by the same court by which the person was convicted, where it shall be recoverable as a fine.
 
 ### Desertion
 
@@ -194,13 +194,9 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 (2) Any police officer may arrest without warrant any person where there are reasonable grounds to believe that that person is guilty of an offence under subsection (1).
 
-[15
-
 ### Members to obey lawful orders
 
 15\. Every member of the Corps shall obey all lawful orders, whether given verbally or in writing by his superior officer and shall obey and conform to any written order issued from time to time by the Commissioner, a commanding officer or the Commandant.
-
-[16
 
 ### Punishment of subordinate officers
 
@@ -216,7 +212,7 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 (e) extra duty or drill for any period not exceeding 7 days;
 
-(f) reprimand; or
+(f) reprimand;
 
 (g) caution.
 
@@ -224,11 +220,15 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 (2) If a disciplinary officer is of the opinion that a subordinate officer found guilty of any offence under this section should be reduced in rank, he may refer the charge and the record of the proceedings to the Commandant who may reduce the rank of the subordinate officer or impose any one of the punishments which a disciplinary officer may impose under subsection (1).
 
-(3) A subordinate officer may appeal against any decision under this section to a commanding officer within 14 days from the date of the decision and in every case where an appeal has been lodged any punishment imposed shall be suspended pending the determination of the appeal.
+[24/82]
+
+(3) A subordinate officer may appeal against any decision under this section to a commanding officer within 14 days from the date of the decision and in every case where an appeal has been lodged, any punishment imposed shall be suspended pending the determination of the appeal.
+
+[24/82]
 
 (4) In addition to any of the punishments under subsection (1), a disciplinary officer may order a subordinate officer found guilty of any offence under this Act to pay compensation not exceeding $50 to any person who suffered damage or loss through the offence.
 
-[17
+[24/82]
 
 ### Punishment of officers
 
@@ -236,11 +236,13 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 [24/82]
 
-(2) An officer may appeal against any decision under this section to the Commissioner within 14 days from the date of the decision and in every case where an appeal has been lodged any punishment imposed shall be suspended pending the determination of the appeal.
+(2) An officer may appeal against any decision under this section to the Commissioner within 14 days from the date of the decision and in every case where an appeal has been lodged, any punishment imposed shall be suspended pending the determination of the appeal.
+
+[24/82]
 
 (3) In addition to any of the punishments under subsection (1), a commanding officer may order an officer found guilty of any offence under this Act to pay compensation not exceeding $100 to any person who suffered damage or loss through the offence.
 
-[18
+[24/82]
 
 ### Decision on appeal
 
@@ -252,49 +254,39 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 (c) impose such other punishment as he thinks fit except that the punishment so imposed shall not in any event be greater or more severe than that originally imposed.
 
-[18A
-
 [24/82]
 
 ### Commencement of sentence of detention
 
 19\. A term of detention imposed under section 16 or 17 shall take effect from the date on which it was passed unless the officer passing the sentence otherwise directs.
 
-[18B
-
 [24/82]
 
 ### Sentence of detention
 
-20\. A person sentenced to detention under this Act shall, unless otherwise provided for in any regulations made thereunder, serve his sentence in detention barracks.
-
-[18C
+20\. A person sentenced to detention under this Act shall, unless otherwise provided for in any regulations made under the Act, serve his sentence in detention barracks.
 
 [24/82]
 
 ### Provisions as to persons unlawfully at large
 
-21\.—(1) Any person who, having been sentenced to detention under this Act, is at large may (without prejudice to any other power of arrest) be arrested by any police officer without warrant and taken to any place in which he may be required to be detained in accordance with this Act or any regulations made thereunder.
+21\.—(1) Any person who, having been sentenced to detention under this Act, is at large may (without prejudice to any other power of arrest) be arrested by any police officer without warrant and taken to any place in which he may be required to be detained in accordance with this Act or any of its regulations.
 
 [24/82]
 
 (2) Where any person sentenced to detention under this Act is at large at any time during the period for which he is liable to be detained in pursuance of the sentence, no account shall be taken, in calculating the period for which he is liable to be so detained, of any time elapsing after he was at large and before he is taken into custody or he is received into a detention barrack.
 
-[18D
+[24/82]
 
 ### Recovery of compensation
 
 22\. An order for payment of compensation made under section 16 or 17 shall not prejudice any right to any civil remedy for the recovery of damages beyond the amount of compensation paid under the order.
-
-[18E
 
 [24/82]
 
 ### Approval of proper authority for discharge of member called up for national service
 
 23\. No member of the Corps who has been called up for national service in the Corps shall be discharged under section 12 except with the prior approval of the proper authority appointed under any written law relating to national service or enlistment.
-
-[19
 
 [24/82]
 
@@ -306,45 +298,43 @@ An Act to provide for the establishment and maintenance of the Vigilante Corps a
 
 (2) Where a member of the Corps is convicted under subsection (1), the court may order him to pay to any person who suffered damage or loss through the offence compensation not exceeding $1,000.
 
+[24/82]
+
 (3) Nothing in subsection (2) shall prejudice the right of any person to a civil remedy for the recovery of damages beyond the amount of compensation ordered.
+
+[24/82]
 
 (4) No prosecution under this section shall be instituted without the previous sanction in writing of a commanding officer.
 
-[20
+[24/82]
 
-### Threatening or insulting any police officer or Vigilante Corps member of senior or equal rank
+### Threatening or insulting police officer or Vigilante Corps member of senior or equal rank
 
 25\.—(1) Any member of the Corps who threatens or insults any police officer or member of senior or equal rank when that police officer or member is on duty, or when such threat or insult relates to or is consequent on the discharge of duty by the police officer or member so threatened or insulted, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (2) Any police officer may arrest without warrant any member of the Corps who has committed or is accused of having committed an offence under subsection (1).
 
-[21
+### Loss of or damage to arms, equipment, etc., to be made good by order of court or by composition
 
-### Loss of or damage to arms, equipment, etc., to be made good by order of a court or by composition
+26\.—(1) Any member of the Corps who pawns, sells, loses by neglect, makes away with or wilfully or negligently damages any arms, ammunition, accoutrement, uniform or other article supplied to him, or any vehicle or property committed to his charge shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months, and shall, in addition be liable to pay the value of that article or property.
 
-26\.—(1) Any member of the Corps who pawns, sells, loses by neglect, makes away with or wilfully or negligently damages any arms, ammunition, accoutrement, uniforms or other article supplied to him, or any vehicle or property committed to his charge shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months, and in addition thereto shall be liable to pay the value of that article or property, which value shall be ascertained in a summary manner by the same court by which the person was convicted, where it shall be recoverable as a fine.
+(1A) For the purposes of subsection (1), the value of that article or property shall be ascertained in a summary manner by the same court by which the person was convicted, where it shall be recoverable as a fine.
 
 (2) The Commandant may in minor cases compound such offences.
 
-[22
-
 ### Power to summon witnesses
 
-27\.—(1) The person conducting the disciplinary proceedings into any offence under section 16 or 17 may by notice require any person to attend and give evidence before him and may require that person to produce any documents relating to that offence:
+27\.—(1) Subject to subsection (2), the person conducting the disciplinary proceedings into any offence under section 16 or 17 may by notice require any person to attend and give evidence before him and may require that person to produce any documents relating to that offence.
 
-Provided that no person so required to attend shall be obliged to disclose any matter or produce any document which would have been protected from disclosure or production, as the case may be, on the ground of privilege if the proceedings had been held in any court.
+(2) No person required to attend under subsection (1) shall be obliged to disclose any matter or produce any document which would have been protected from disclosure or production, as the case may be, on the ground of privilege if the proceedings had been held in any court.
 
 [24/82]
 
-(2) Any person required to attend under subsection (1) who without reasonable excuse fails to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month or to both.
-
-[23
+(3) Any person required to attend under subsection (1) who without reasonable excuse fails to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month or to both.
 
 ### Authorised deductions only to be made from pay
 
-28\. The pay of a member of the Corps shall be paid without any deduction other than the deductions authorised by this Act or any regulations made thereunder or by any other written law.
-
-[23A
+28\. The pay of a member of the Corps shall be paid without any deduction other than the deductions authorised by this Act or any of its regulations or by any other written law.
 
 [24/82]
 
@@ -358,13 +348,13 @@ Provided that no person so required to attend shall be obliged to disclose any m
 
 (ii) for every day of imprisonment, corrective training, preventive detention, reformative training or detention of any other description, to which he is liable in consequence of an order or sentence of a court or order of the civil power;
 
-(iii) for every day of detention imposed under section 16 or 17;
+(iii) for every day of detention imposed under section 16 or 17; and
 
 (iv) for every day on which he is in hospital on account of sickness certified by the proper medical officer attending on him at the hospital to have been caused by an offence under this Act committed by him;
 
-(b) the sum required to make good such compensation for any expenses, loss, damage or destruction occasioned by the commission of any offence as may be awarded by a court by whom he is convicted of the offence or by a person conducting the disciplinary proceedings against him under this Act or any regulations made thereunder;
+(b) the sum required to make good such compensation for any expenses, loss, damage or destruction occasioned by the commission of any offence as may be awarded by a court by whom he is convicted of the offence or by a person conducting the disciplinary proceedings against him under this Act or any of its regulations;
 
-(c) the sum required to make good such compensation for any expenses caused by him, or for any loss of or damage or destruction done by him to any arms, equipment, clothing, instruments or to any buildings or property, as may be awarded by a court or by a person conducting the disciplinary proceedings against him under this Act or any regulations made thereunder; and
+(c) the sum required to make good such compensation for any expenses caused by him, or for any loss of or damage or destruction done by him to any arms, equipment, clothing, instruments or to any buildings or property, as may be awarded by a court or by a person conducting the disciplinary proceedings against him under this Act or any of its regulations; and
 
 (d) the sum required to pay a fine imposed under section 16 or 17 or any fine, penalty, damages, compensation or costs which a court before which he has been charged with an offence has ordered him to pay.
 
@@ -372,7 +362,7 @@ Provided that no person so required to attend shall be obliged to disclose any m
 
 (2) The total amount of deduction from the ordinary pay due to a member of the Corps in respect of the sums required to pay any compensation, fine or sum awarded or ordered to be paid under subsection (1) shall not exceed such sums as will leave to him less than $1 a day; and a member shall not be subjected to any deductions greater than is sufficient to make good the expenses, loss, damage or destruction for which the compensation is awarded, or to pay the sum awarded or ordered.
 
-[23B
+[24/82]
 
 ### Supplemental provisions as to deductions from ordinary pay
 
@@ -380,9 +370,9 @@ Provided that no person so required to attend shall be obliged to disclose any m
 
 [24/82]
 
-(2) Any regulations made under subsection (1) may from time to time declare what shall, for the purposes of this Act relating to deductions from pay, be deemed to constitute a day of absence or a day of imprisonment or detention, so, however, that —
+(2) Any regulations referred to in subsection (1) may from time to time declare what shall, for the purposes of this Act relating to deductions from pay, be deemed to constitute a day of absence or a day of imprisonment or detention, except that —
 
-(a) no person shall be treated as absent, imprisoned or detained for the purposes of this Act unless the absence, imprisonment or detention has lasted 6 hours or more, except where the absence prevented the absentee from fulfilling any duty;
+(a) no person shall be treated as absent, imprisoned or detained for the purposes of this Act unless the absence, imprisonment or detention has lasted 6 hours or more, or the absence prevented the absentee from fulfilling any duty;
 
 (b) a period of absence, imprisonment or detention which commences before and ends after midnight may be reckoned as a day;
 
@@ -390,11 +380,11 @@ Provided that no person so required to attend shall be obliged to disclose any m
 
 (d) no period of less than 24 hours shall be reckoned as more than one day.
 
-[23C
+[24/82]
 
 ### Regulations
 
-31\.—(1) The Minister may make regulations respecting the constitution, general administration, discipline, training and welfare of the Corps and generally for carrying out the purposes of this Act.
+31\.—(1) The Minister may make regulations with respect to the constitution, general administration, discipline, training and welfare of the Corps and generally for carrying out the purposes of this Act.
 
 (2) In particular and without prejudice to the generality of subsection (1), such regulations may provide for —
 
@@ -422,19 +412,15 @@ Provided that no person so required to attend shall be obliged to disclose any m
 
 (l) any other matter necessary or expedient for carrying out the purposes of this Act.
 
-[24
-
 ### Continuance of existing Vigilante Corps and persons deemed to be members of Corps
 
-32\.—(1) The Vigilante Corps existing immediately before the date of commencement of this Act shall, as from and after that date, be deemed to have been raised and maintained under this Act.
+32\.—(1) The Vigilante Corps existing immediately before 22 September 1967 shall, as from and after that date, be deemed to have been raised and maintained under this Act.
 
-(2) Upon the date of commencement of this Act, every person who immediately before that date was a member of the Vigilante Corps shall be deemed to be appointed or enrolled, with the same rank or seniority, under the provisions of this Act, and the provisions of this Act shall extend to every such person accordingly.
-
-[25
+(2) With effect from 22 September 1967, every person who immediately before that date was a member of the Vigilante Corps shall be deemed to be appointed or enrolled, with the same rank or seniority, under the provisions of this Act, and the provisions of this Act shall extend to every such person accordingly.
 
 ## THE SCHEDULE
 
-Sections 16, 17 and 24.
+Sections 16(1), 17(1) and 24(1).
 
 Offences
 
@@ -506,27 +492,59 @@ This Legislative History is provided for the convenience of users of the Vigilan
 |:-|:-|:-|
 |1.|**Act 24 of 1967—Vigilante Corps Act 1967**|
 ||Date of First Reading|29 June 1967|
-|||(Bill No. 13/1967)|
-||Date of Second and Third Readings|Dates not available.|
+|||(Bill No. 13/67)|
+||Date of Second and Third Readings|8 September 1967|
 ||Date of commencement|22 September 1967|
-|2.|**Act 25 of 1970—Enlistment Act 1970**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|7 May 1970|
-|||(Bill No. 17/1970 published on 11 May 1970)|
-||Date of Second and Third Readings|21 May 1970|
-||Date of commencement|1 August 1970 (all except section 24)|
-|3.|**1970 Revised Edition—Vigilante Corps Act (Chapter 80)**|
+|2.|**1970 Revised Edition—Vigilante Corps Act (Chapter 80)**|
 ||Date of operation|1 April 1971|
+|3.|**Act 25 of 1970—Enlistment Act 1970**|
+||(Amendment made to Act by)||
+||Date of First Reading|7 May 1970|
+|||(Bill No. 17/70)|
+||Date of Second and Third Readings|21 May 1970|
+||Date of commencement|1 August 1970|
 |4.|**Act 21 of 1974—Enlistment (Amendment) Act 1974**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|23 October 1974|
-|||(Bill No. 27/1974 published on 25 October 1974)|
+|||(Bill No. 27/74)|
 ||Date of Second and Third Readings|6 November 1974|
 ||Date of commencement|1 March 1975|
 |5.|**Act 24 of 1982—Vigilante Corps (Amendment) Act 1982**|
 ||Date of First Reading|27 July 1982|
-|||(Bill No. 14/1982 published on 4 August 1982)|
+|||(Bill No. 14/82)|
 ||Date of Second and Third Readings|31 August 1982|
 ||Date of commencement|1 October 1982|
-|6.|**1985 Revised Edition—Vigilante Corps Act**|
+|6.|**1985 Revised Edition—Vigilante Corps Act (Chapter 343)**|
 ||Date of operation|30 March 1987|
+|7.|**2014 Revised Edition—Vigilante Corps Act (Chapter 343)**|
+||Date of operation|31 December 2014|
+## COMPARATIVE TABLE
+
+Vigilante Corps Act
+
+(CHAPTER 343)
+
+The following provisions in the 1985 Revised Edition of the Vigilante Corps Act have been renumbered by the Law Revision Commissioners in this 2014 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Vigilante Corps Act.
+
+2014 Ed\. 
+
+1985 Ed\. 
+
+13 —(2) and (3)
+
+13 —(2)
+
+26 —(1) and (1A)
+
+26 —(1)
+
+27 —(1) and (2)
+
+27 —(1)
+
+(3)
+
+(2)
+
