@@ -6,7 +6,7 @@
 
 [**Long Title**](#Medical-Registration-Act)
 
-[**Part I PRELIMINARY**](#Part-I)
+[**Part 1 PRELIMINARY**](#Part-1)
 
 - [1 Short title](#Short-title)
 
@@ -14,7 +14,7 @@
 
 - [2A Object of Act](#Object-of-Act)
 
-[**Part II MEDICAL COUNCIL**](#Part-II)
+[**Part 2 MEDICAL COUNCIL**](#Part-2)
 
 - [3 Medical Council to continue to exist](#Medical-Council-to-continue-to-exist)
 
@@ -36,7 +36,7 @@
 
 - [12 Meetings and quorum of Medical Council](#Meetings-and-quorum-of-Medical-Council)
 
-[**Part III PRIVILEGES OF MEDICAL PRACTITIONERS**](#Part-III)
+[**Part 3 PRIVILEGES OF MEDICAL PRACTITIONERS**](#Part-3)
 
 - [13 Qualifications to practise](#Qualifications-to-practise)
 
@@ -48,7 +48,7 @@
 
 - [17 Unauthorised person acting as medical practitioner](#Unauthorised-person-acting-as-medical-practitioner)
 
-[**Part IV REGISTRATION OF MEDICAL PRACTITIONERS**](#Part-IV)
+[**Part 4 REGISTRATION OF MEDICAL PRACTITIONERS**](#Part-4)
 
 - [18 Registrar of Medical Council](#Registrar-of-Medical-Council)
 
@@ -84,25 +84,25 @@
 
 - [33 Restoration of names removed under section 31 or 32](#Restoration-of-names-removed-under-section-31-or-32)
 
-[**Part V SPECIALISTS ACCREDITATION BOARD**](#Part-V)
+[**Part 5 SPECIALISTS ACCREDITATION BOARD**](#Part-5)
 
 - [34 Establishment of Specialists Accreditation Board](#Establishment-of-Specialists-Accreditation-Board)
 
 - [35 Functions of Specialists Accreditation Board](#Functions-of-Specialists-Accreditation-Board)
 
-[**Part VA FAMILY PHYSICIANS ACCREDITATION BOARD**](#Part-VA)
+[**Part 5A FAMILY PHYSICIANS ACCREDITATION BOARD**](#Part-5A)
 
 - [35A Establishment of Family Physicians Accreditation Board](#Establishment-of-Family-Physicians-Accreditation-Board)
 
 - [35B Functions of Family Physicians Accreditation Board](#Functions-of-Family-Physicians-Accreditation-Board)
 
-[**Part VI PRACTISING CERTIFICATES**](#Part-VI)
+[**Part 6 PRACTISING CERTIFICATES**](#Part-6)
 
 - [36 Practising certificates](#Practising-certificates)
 
 - [37 Cancellation of practising certificates](#Cancellation-of-practising-certificates)
 
-[**Part VII DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS**](#Part-VII)
+[**Part 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS**](#Part-7)
 
 [**Division 1  Voluntary removal, suspension, etc.**](#Division-1--Voluntary-removal-suspension-etc)
 
@@ -184,7 +184,7 @@
 
 - [59I Medical Council may appoint legal counsel](#Medical-Council-may-appoint-legal-counsel)
 
-[**Part VIII GENERAL**](#Part-VIII)
+[**Part 8 GENERAL**](#Part-8)
 
 - [60 Application of funds of Medical Council](#Application-of-funds-of-Medical-Council)
 
@@ -216,7 +216,7 @@
 
 - [71 Amendment of Schedules](#Amendment-of-Schedules)
 
-[**Part IX SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-IX)
+[**Part 9 SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-9)
 
 - [72 Persons who are already registered](#Persons-who-are-already-registered)
 
@@ -240,15 +240,15 @@
 
 (Original Enactment: Act 5 of 1997)
 
-REVISED EDITION 2004
+REVISED EDITION 2014
 
-(31st July 2004)
+(31st December 2014)
 
 An Act to provide for the registration of medical practitioners and for matters connected therewith.
 
 [3rd April 1998]
 
-## PART I
+## PART 1
 
 PRELIMINARY
 
@@ -264,33 +264,19 @@ PRELIMINARY
 
 “Complaints Committee” means a committee appointed by the chairman of the Complaints Panel under section 40;
 
-[1/2010 wef 01/12/2010]
-
 “Complaints Panel” means the panel appointed by the Medical Council under section 38;
 
-[1/2010 wef 01/12/2010]
-
 “conditional registration” means registration in Part II of the Register of Medical Practitioners pursuant to section 21 or any other provision of this Act, which registration is subject to any condition or restriction as may be imposed;
-
-[1/2010 wef 01/12/2010]
 
 “degree” means any degree or diploma or any qualification granted by any university or institution legally authorised to grant that degree or diploma or qualification and which degree or diploma or qualification is recognised or approved by the Medical Council;
 
 “Disciplinary Tribunal” means a tribunal appointed by the Medical Council under section 50;
 
-[1/2010 wef 01/12/2010]
-
 “fully registered medical practitioner” means a person registered in Part I of the Register of Medical Practitioners in accordance with section 20(1) or (2), as the case may be;
-
-[1/2010 wef 01/12/2010]
 
 “Health Committee” means a committee appointed by the Medical Council under section 57;
 
-[1/2010 wef 01/12/2010]
-
 “Interim Orders Committee” means a committee appointed by the Medical Council under section 59A;
-
-[1/2010 wef 01/12/2010]
 
 “Medical Council” means the Medical Council of Singapore established under section 3(1) of the repealed Medical Registration Act (Cap. 174, 1985 Ed.), and by virtue of section 3 of this Act means the Singapore Medical Council;
 
@@ -300,8 +286,6 @@ PRELIMINARY
 
 “professional performance” means the knowledge, skill or care possessed and applied by a registered medical practitioner in the provision of medical services;
 
-[1/2010 wef 01/12/2010]
-
 “provisional registration” means registration by virtue of section 24 and “provisionally registered” shall be construed accordingly;
 
 “registered medical practitioner” means a person registered under this Act and includes a person deemed to be so registered under section 72(1);
@@ -310,7 +294,7 @@ PRELIMINARY
 
 “Singapore degree” means a degree, diploma or licence in medicine and surgery specified in the First Schedule.
 
-[1/2010 wef 01/12/2010]
+[46/2002; 1/2010]
 
 ### Object of Act
 
@@ -322,15 +306,15 @@ PRELIMINARY
 
 (c) maintain public confidence in the medical profession.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
-## PART II
+## PART 2
 
 MEDICAL COUNCIL
 
 ### Medical Council to continue to exist
 
-3\. The Medical Council of Singapore shall continue to exist as a body corporate having perpetual succession and a common seal and shall, as from 3rd April 1998, be known as the Singapore Medical Council.
+3\. The Medical Council of Singapore shall continue to exist as a body corporate having perpetual succession and a common seal and shall, as from 3 April 1998, be known as the Singapore Medical Council.
 
 ### Constitution of Medical Council
 
@@ -340,17 +324,11 @@ MEDICAL COUNCIL
 
 (b) 2 registered medical practitioners from each prescribed medical school in Singapore to be appointed by the Minister on the nomination of the council of the university to which the prescribed medical school belongs, one of whom shall be the Dean of the medical school;
 
-[1/2010 wef 10/08/2010]
-
 (c) 12 registered medical practitioners resident in Singapore to be elected by the fully registered medical practitioners resident in Singapore; and
-
-[1/2010 wef 10/08/2010]
 
 (d) 8 registered medical practitioners resident in Singapore to be appointed by the Minister.
 
-[46/2002]
-
-[1/2010 wef 10/08/2010]
+[46/2002; 1/2010]
 
 (2) The members referred to in subsection (1)(b), (c) and (d) shall hold office for a period of 3 years and shall be eligible for reappointment or re-election.
 
@@ -378,17 +356,13 @@ MEDICAL COUNCIL
 
 (f) to determine and regulate the conduct and ethics of registered medical practitioners;
 
-[1/2010 wef 01/12/2010]
-
 (fa) to determine and regulate standards of practice and the competence of registered medical practitioners within the medical profession;
-
-[1/2010 wef 01/12/2010]
 
 (fb) to provide administrative services to other bodies (whether corporate or unincorporate) responsible for the regulation of healthcare professionals; and
 
-[1/2010 wef 01/12/2010]
-
 (g) generally to do all such acts and matters and things as are necessary to be carried out under this Act.
+
+[1/2010]
 
 ### Compulsory voting
 
@@ -416,8 +390,6 @@ MEDICAL COUNCIL
 
 (b) if he is not a registered medical practitioner with at least 10 years’ experience in the practice of medicine;
 
-[1/2010 wef 01/12/2010]
-
 (c) if he is an undischarged bankrupt;
 
 (d) if he has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude or implying a defect in character which makes him unfit for his profession;
@@ -427,6 +399,8 @@ MEDICAL COUNCIL
 (f) if he has been found guilty in Singapore or elsewhere of professional misconduct; or
 
 (g) if his fitness to practise as a medical practitioner is judged by the Health Committee to be impaired by reason of his physical or mental condition.
+
+[1/2010]
 
 ### Filling of vacancies
 
@@ -488,17 +462,17 @@ MEDICAL COUNCIL
 
 (2) The quorum at every meeting of the Medical Council shall be one-third of the total number of members in office or 7 members, whichever is the higher.
 
-[Act 2/2012 wef 01/03/2012]
+[2/2012]
 
 (3) The chairman at any meeting of the Medical Council shall have an original vote and, in the case of an equality of votes, a casting vote.
 
 (4) There shall be paid to the members of the Medical Council and members of any committee appointed by the Medical Council, or their respective employers, such fees as may, from time to time, be approved by the Minister.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (5) The Medical Council may make rules for the conduct of its business.
 
-## PART III
+## PART 3
 
 PRIVILEGES OF MEDICAL PRACTITIONERS
 
@@ -522,7 +496,7 @@ unless at the time of rendering such services the person is registered under thi
 
 ### Medical certificates
 
-15\. No certificate or other document required by any written law to be signed by a duly qualified medical practitioner given after 3rd April 1998 shall be valid unless signed by a person who is registered under this Act and has a valid practising certificate.
+15\. No certificate or other document required by any written law to be signed by a duly qualified medical practitioner given after 3 April 1998 shall be valid unless signed by a person who is registered under this Act and has a valid practising certificate.
 
 ### Legally qualified or duly qualified medical practitioner
 
@@ -558,7 +532,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) he did not in any way represent himself as a duly qualified or registered medical practitioner.
 
-## PART IV
+## PART 4
 
 REGISTRATION OF MEDICAL PRACTITIONERS
 
@@ -570,15 +544,15 @@ REGISTRATION OF MEDICAL PRACTITIONERS
 
 (3) The Minister may appoint a Deputy Registrar to assist the Registrar in carrying out his functions and duties under this Act.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (4) The Registrar may, subject to such conditions or restrictions as he thinks fit, delegate to the Deputy Registrar any of his powers or functions under this Act, except the power of delegation conferred by this section.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (5) The Registrar may continue to exercise any power conferred on him or perform any function under this Act notwithstanding the delegation of such power or function under this section.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Registers
 
@@ -594,13 +568,11 @@ REGISTRATION OF MEDICAL PRACTITIONERS
 
 (ba) a register to be called “The Register of Family Physicians” containing the names of persons registered as family physicians under section 22A;
 
-[1/2010 wef 01/07/2011]
-
 (c) a register to be called “The Register of Temporarily Registered Medical Practitioners” containing the names of persons who are registered temporarily as medical practitioners under section 23; and
 
 (d) a register to be called “The Register of Provisionally Registered Medical Practitioners” containing the names of persons registered provisionally under section 24.
 
-[46/2002]
+[46/2002; 1/2010]
 
 (2) Each register shall contain —
 
@@ -624,15 +596,15 @@ REGISTRATION OF MEDICAL PRACTITIONERS
 
 within 28 days after such change or addition.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (4A) Any person who contravenes subsection (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (4B) A person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (4)(a) on the date on which he makes the report.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (5) The Registrar may disclose any information in the registers to any person prescribed by regulations made under this Act, if such disclosure is in accordance with such conditions as may be specified in those regulations.
 
@@ -654,11 +626,11 @@ within 28 days after such change or addition.
 
 shall be entitled to be registered as a fully registered medical practitioner in Part I of the Register of Medical Practitioners.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (1A) For the purposes of subsection (1)(c), the Medical Council may prescribe different requirements for the different degrees, diplomas or licences in medicine and surgery specified in the First Schedule.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2) Notwithstanding subsection (1), a person, not being a Singapore degree holder, who —
 
@@ -672,9 +644,9 @@ shall be entitled to be registered as a fully registered medical practitioner in
 
 shall, if the Medical Council thinks fit so to direct, be registered as a fully registered medical practitioner.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
-(3) Notwithstanding subsections (1) and (2), the Medical Council may, if it is of the view that it is not in the public interest for a person referred to in either of those subsections to be registered as a fully registered medical practitioner, direct that he be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) to (9) shall apply accordingly.
+(3) Notwithstanding subsections (1) and (2), the Medical Council may, if it is of the view that it is not in the public interest for a person referred to in either of those subsections to be registered as a fully registered medical practitioner, direct that he be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) shall apply accordingly.
 
 [46/2002]
 
@@ -684,8 +656,6 @@ shall, if the Medical Council thinks fit so to direct, be registered as a fully 
 
 (a) holds a degree from a university specified in the Second Schedule or any other qualification which is, in the opinion of the Medical Council, not lower in standing than a degree specified in the Second Schedule;
 
-[1/2010 wef 01/12/2010]
-
 (b) has been selected for employment in Singapore as a medical practitioner in hospitals or other institutions or medical practice approved by the Medical Council;
 
 (c) satisfies the Medical Council that he has the knowledge and skill and has acquired the experience which is necessary for practice as a medical practitioner;
@@ -694,13 +664,9 @@ shall, if the Medical Council thinks fit so to direct, be registered as a fully 
 
 (e) satisfies such other requirements as the Medical Council may, with the approval of the Minister, prescribe,
 
-[1/2010 wef 01/12/2010]
-
 shall, if the Medical Council thinks fit so to direct and subject to such conditions or restrictions as the Medical Council may think fit to impose, be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners.
 
-[46/2002]
-
-[1/2010 wef 01/12/2010]
+[46/2002; 1/2010]
 
 (2) Subject to the provisions of this Act, any person who holds —
 
@@ -710,13 +676,11 @@ shall, if the Medical Council thinks fit so to direct and subject to such condit
 
 shall be entitled to be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners and be subject to such conditions or restrictions as the Medical Council may think fit to impose.
 
-[46/2002]
-
-[1/2010 wef 01/12/2010]
+[46/2002; 1/2010]
 
 (3) The Medical Council may require a person with a degree, other than a degree specified in the Second Schedule, to undergo and pass an examination conducted or arranged by the Medical Council or by such other person or persons as the Medical Council may appoint to satisfy itself that the degree is not lower in standing than a degree specified in the Second Schedule.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (4) Every direction by virtue of which a person is registered under this section shall specify the conditions or restrictions of his registration and may further specify one or more of the following:
 
@@ -726,19 +690,17 @@ shall be entitled to be registered as a medical practitioner with conditional re
 
 (c) the particular employment or descriptions of employment for the purposes of which he is so registered.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
-(5) [Deleted by Act 1/2010 wef 01/12/2010]
+(5) [Deleted by Act 1 of 2010]
 
 (6) The Medical Council may cancel the conditional registration of a medical practitioner if —
 
 (a) the medical practitioner fails to comply with any of the conditions or restrictions specified in the direction by virtue of which he is registered; or
 
-[1/2010 wef 01/12/2010]
-
 (b) the Medical Council is of the opinion, having regard to any report of one or more fully registered medical practitioners supervising him and any reviews of the medical practitioners or healthcare professionals referred to in subsection (4)(b), if any, that he is unable to perform the duties of a medical practitioner satisfactorily.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (7) A person who is or has been registered with conditional registration may —
 
@@ -748,13 +710,13 @@ shall be entitled to be registered as a medical practitioner with conditional re
 
 apply to the Medical Council to be registered as a fully registered medical practitioner.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (8) If the Medical Council thinks fit so to direct, having regard to the knowledge and skill shown and the experience acquired by the applicant referred to in subsection (7), he shall be registered under section 20 as a fully registered medical practitioner.
 
 (9) On a medical practitioner with conditional registration becoming registered otherwise than conditionally, his name shall be removed from Part II of the Register of Medical Practitioners.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Registration of specialists
 
@@ -766,11 +728,11 @@ apply to the Medical Council to be registered as a fully registered medical prac
 
 in a particular branch or branches of medicine, may apply to the Medical Council to be registered as a specialist.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (1A) A person may be registered under subsection (1) as a specialist subject to such conditions or restrictions as the Medical Council may impose.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2) The Medical Council shall not register any person under subsection (1) as a specialist unless the person has obtained a certificate from the Specialists Accreditation Board under section 35.
 
@@ -780,7 +742,7 @@ in a particular branch or branches of medicine, may apply to the Medical Council
 
 (b) regulating the recording in, removal from, and restoration to the Register of Specialists of the names, particulars and qualifications of persons so registered;
 
-(c) providing for appeals by medical practitioners against any refusal of the Medical Council to register them in the Register of Specialists or to restore their names to that Register or against any decision of the Medical Council to remove their names from that Register; and
+(c) providing for appeals by medical practitioners against any refusal of the Medical Council to register them in the Register of Specialists or to restore their names to that Register or against any decision of the Medical Council to remove their names from that Register;
 
 (d) prescribing the fees payable in respect of —
 
@@ -802,9 +764,15 @@ in a particular branch or branches of medicine, may apply to the Medical Council
 
 in family medicine, may apply to the Medical Council to be registered as a family physician in the Register of Family Physicians.
 
+[1/2010]
+
 (2) A person may be registered under subsection (1) as a family physician subject to such conditions or restrictions as the Medical Council may impose.
 
+[1/2010]
+
 (3) The Medical Council shall not register any person under subsection (1) as a family physician unless the person has obtained a certificate from the Family Physicians Accreditation Board under section 35B.
+
+[1/2010]
 
 (4) The Medical Council may, with the approval of the Minister, make regulations for all or any of the following purposes:
 
@@ -824,7 +792,7 @@ in family medicine, may apply to the Medical Council to be registered as a famil
 
 (iv) any appeal.
 
-[1/2010 wef 01/07/2011]
+[1/2010]
 
 ### Temporary registration
 
@@ -852,7 +820,7 @@ and who, if he has a degree other than a Singapore degree, complies with section
 
 (2) Any person who is qualified to be registered under this Act may, for the purpose of satisfying any requirement as to experience, be provisionally registered for such duration and subject to such conditions or restrictions as the Medical Council may specify, if he produces evidence satisfactory to the Registrar that he has been selected to be engaged in such employment as is mentioned in section 25(1).
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2A) The Medical Council may cancel the provisional registration of a medical practitioner if —
 
@@ -860,15 +828,15 @@ and who, if he has a degree other than a Singapore degree, complies with section
 
 (b) the Medical Council is of the opinion, having regard to the report of one or more registered medical practitioners supervising him and the reviews, if any, of the registered medical practitioners or healthcare professionals working with him, that he is unfit or otherwise unable to practise as a medical practitioner.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2B) The Medical Council shall, before proceeding under subsection (2A), notify the registered medical practitioner concerned of its intention to cancel his provisional registration under subsection (2A) and shall give the registered medical practitioner an opportunity to submit reasons why his registration should not be so cancelled.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2C) Any person who is aggrieved by the cancellation of his registration by the Medical Council under subsection (2A) may, within 30 days after being notified of the cancellation, appeal to the Minister whose decision shall be final.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (3) Any person who is provisionally registered shall be registered in the Register of Provisionally Registered Medical Practitioners and on a person becoming registered otherwise than provisionally his name shall be removed from such register.
 
@@ -896,7 +864,7 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (c) such other person as may be prescribed.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Experience required for holders of degrees other than Singapore degrees
 
@@ -906,19 +874,15 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (b) rendered satisfactory service in any appointment which, in the opinion of the Medical Council, confers experience of the practice of medicine not less extensive than that required for a certificate of experience.
 
-[27
-
 [46/2002]
 
 ### Evidence of qualification and entry of additional qualifications
 
-27\.—(1) No qualification shall be entered on a register unless the Registrar is satisfied by such evidence as he may consider proper that the person claiming the qualification is entitled thereto.
+27\.—(1) No qualification shall be entered on a register unless the Registrar is satisfied by such evidence as he may consider proper that the person claiming the qualification is entitled to it.
 
 (2) Every person registered under this Act, who obtains any qualification in addition to the qualification by virtue of which he has been registered, may apply to the Medical Council to have that additional qualification inserted in a register.
 
 (3) The Medical Council shall have power to decide what additional qualifications may be entered in a register.
-
-[28
 
 ### Application for registration
 
@@ -938,19 +902,13 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (ii) for any other reason;
 
-[1/2010 wef 01/12/2010]
-
 (d) has failed without reasonable cause to submit to a medical examination when required to do so under section 29(4)(b);
 
-[1/2010 wef 01/12/2010]
-
-(e) has had his name removed from a register of medical practitioners in any country whose degrees or licences in medicine are recognised as a qualification entitling the holder thereof to be registered under this Act; or
-
-[1/2010 wef 01/12/2010]
+(e) has had his name removed from a register of medical practitioners in any country whose degrees or licences in medicine are recognised as a qualification entitling the holder of the degree or licence to be registered under this Act; or
 
 (f) has failed to comply with any condition or restriction of any previous registration as may have been imposed on him by the Medical Council.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (4) Where the Medical Council refuses to register an applicant, the Medical Council shall by notice in writing inform the applicant of such refusal.
 
@@ -960,8 +918,6 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (7) Every registered medical practitioner shall, on payment of the prescribed fee, be entitled to receive a certificate of registration.
 
-[29
-
 ### Credentials Committee
 
 29\.—(1) The Medical Council shall appoint a committee to be known as the Credentials Committee, consisting of not less than 3 members of the Medical Council, to —
@@ -970,7 +926,7 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (b) undertake such other duties as the Medical Council thinks fit to assign to the Credentials Committee.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2) The term of office of the members of the Credentials Committee and the quorum of the Committee shall be determined by the Medical Council.
 
@@ -982,23 +938,21 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (b) to submit to a medical examination to be conducted by a registered medical practitioner nominated or approved by the Medical Council within such time as may be specified in the notice.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (5) The registered medical practitioner who conducts the examination referred to in subsection (4)(b) shall, within 14 days after the examination or such longer time as the Credentials Committee may allow, submit his report on the applicant’s fitness to practise medicine to the Credentials Committee.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (6) Any applicant who fails to comply with a requirement under subsection (4) within the time stated in the notice shall be deemed to have withdrawn his application.
 
-[1/2010 wef 01/12/2010]
-
-[30
+[1/2010]
 
 ### Publication of list of registered medical practitioners with practising certificates
 
 30\. The Registrar shall publish on the Medical Council’s Internet website, or on such other medium which is accessible to members of the public as the Minister may require, a list of the names, practice addresses, qualifications and dates of qualifications and registration of all registered medical practitioners who have in force a practising certificate.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Alterations in registers
 
@@ -1016,21 +970,15 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (f) remove from a register the name of any person who has not renewed his practising certificate for a continuous period of not less than 2 years, and who cannot be contacted or sent any document using his particulars in the register; and
 
-[1/2010 wef 01/12/2010]
+(g) remove from a register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless an inquiry has or proceedings have commenced under Part 7 against that person.
 
-(g) remove from a register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless an inquiry has or proceedings have commenced under Part VII against that person.
-
-[32
-
-[46/2002]
+[46/2002; 1/2010]
 
 ### Power of Medical Council to remove names from registers
 
 32\.—(1) Notwithstanding the provisions of this Act, the Medical Council may, upon such evidence as it may require, order the removal from the appropriate register the name of a registered medical practitioner under any of the following circumstances:
 
 (a) if he has been registered with conditional registration and the conditional registration has been cancelled by the Medical Council under section 21(6);
-
-[1/2010 wef 01/12/2010]
 
 (b) if he has been temporarily registered under section 23 and has contravened or failed to comply with any condition or restriction imposed by the Medical Council;
 
@@ -1040,35 +988,27 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (ii) he has contravened or failed to comply with any condition or restriction imposed by the Medical Council under section 22;
 
-[1/2010 wef 01/12/2010]
-
 (ca) if he has been registered in the Register of Family Physicians and —
 
 (i) his name has been removed from the Register of Medical Practitioners; or
 
 (ii) he has contravened or failed to comply with any condition or restriction imposed by the Medical Council under section 22A;
 
-[1/2010 wef 01/12/2010]
-
 (cb) if his provisional registration has been cancelled by the Medical Council under section 24(2A);
-
-[1/2010 wef 01/12/2010]
 
 (d) if he has obtained registration fraudulently or by incorrect statement;
 
 (e) if his degree for registration under this Act has been withdrawn or cancelled by the authority through which it was acquired or by which it was awarded;
 
-(f) if he has had his registration in any other country withdrawn, suspended or cancelled by the authority which registered him; or
+(f) if he has had his registration in any other country withdrawn, suspended or cancelled by the authority which registered him;
 
 (g) if he has failed to serve the Government or such other body or organisation as directed by the Government for such period as may be specified in any undertaking given by him to the Government.
 
-[46/2002]
+[46/2002; 1/2010]
 
 (2) The Medical Council shall, before exercising its powers under subsection (1), notify the registered medical practitioner concerned of its intention to take such action and shall give the registered medical practitioner an opportunity to submit reasons why his name should not be removed.
 
 (3) Any person who is aggrieved by any order of the Medical Council under subsection (1) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
-
-[33
 
 ### Restoration of names removed under section 31 or 32
 
@@ -1076,9 +1016,9 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (a) that his name be restored to the register; or
 
-(b) that he be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) to (9) shall apply accordingly.
+(b) that he be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) shall apply accordingly.
 
-[46/2002]
+[46/2002; 1/2010]
 
 (2) No application under subsection (1) shall be made to the Medical Council more than once in any period of 6 months by or on behalf of the medical practitioner.
 
@@ -1086,11 +1026,9 @@ the certifying authority shall grant, in such form as may be prescribed, a certi
 
 (3) No application under subsection (1) shall be made to the Medical Council by or on behalf of the medical practitioner unless the medical practitioner has complied with all the terms of the order made against him under section 32(1), where applicable.
 
-[33A
-
 [46/2002]
 
-## PART V
+## PART 5
 
 SPECIALISTS ACCREDITATION BOARD
 
@@ -1104,7 +1042,7 @@ SPECIALISTS ACCREDITATION BOARD
 
 (4) If any member of the Board dies, resigns or is removed from office, the Minister may fill the vacancy by the appointment of a registered medical practitioner and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
 
-(5) The powers of the Board shall not be affected by any vacancy in the membership thereof.
+(5) The powers of the Board shall not be affected by any vacancy in its membership.
 
 (6) At any meeting of the Board, 3 members shall form a quorum.
 
@@ -1128,55 +1066,71 @@ SPECIALISTS ACCREDITATION BOARD
 
 (d) to grant to persons who have the qualifications or experience and who meet the conditions for registration as specialists under this Act certificates to that effect;
 
-[1/2010 wef 01/12/2010]
-
 (e) to recommend to the Medical Council programmes for the continuing medical education of persons who are registered as specialists under this Act; and
 
 (f) to advise the Medical Council on matters affecting or connected with the registration of specialists under this Act.
 
+[1/2010]
+
 (1A) The Board may further subdivide the specialties in medicine into further classes of sub-specialties and this section shall apply, with the necessary modifications, to such sub-specialties.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (1B) A reference in this Act to a specialty shall be construed as including a reference to a sub-specialty.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (2) Any person who desires to have a certificate from the Board to certify that he has the qualifications or experience and who meet the conditions for registration as specialists under this Act may apply to the Board.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of the refusal, appeal to the Minister whose decision shall be final.
 
-## PART VA
+## PART 5A
 
 FAMILY PHYSICIANS ACCREDITATION BOARD
-
-[1/2010 wef 01/12/2010]
 
 ### Establishment of Family Physicians Accreditation Board
 
 35A\.—(1) There shall be a board to be known as the Family Physicians Accreditation Board (referred to in this Part as the Board) consisting of not less than 8 registered medical practitioners to be appointed by the Minister.
 
+[1/2010]
+
 (2) The chairman of the Board shall be appointed by the Minister from among its members.
+
+[1/2010]
 
 (3) The chairman and members of the Board shall be appointed for a term not exceeding 3 years but may from time to time be reappointed and may at any time be removed from office by the Minister.
 
+[1/2010]
+
 (4) If any member of the Board dies, resigns or is removed from office, the Minister may fill the vacancy by the appointment of a registered medical practitioner and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
 
-(5) The powers of the Board shall not be affected by any vacancy in the membership thereof.
+[1/2010]
+
+(5) The powers of the Board shall not be affected by any vacancy in its membership.
+
+[1/2010]
 
 (6) At any meeting of the Board, 4 members shall form a quorum.
 
+[1/2010]
+
 (7) At any meeting of the Board, the chairman shall preside and, in his absence, the members present shall elect one of their members to preside at the meeting.
+
+[1/2010]
 
 (8) If on any question to be determined by the Board there is an equality of votes, the chairman or the member presiding at the meeting shall have a casting vote.
 
+[1/2010]
+
 (9) Subject to the provisions of this Act, the Board may determine its own procedure.
+
+[1/2010]
 
 (10) The Board may appoint one or more committees consisting of such members as it thinks fit to assist the Board in carrying out its functions under this Act.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Functions of Family Physicians Accreditation Board
 
@@ -1194,13 +1148,17 @@ FAMILY PHYSICIANS ACCREDITATION BOARD
 
 (f) to advise the Medical Council on matters affecting or connected with the registration of family physicians under this Act.
 
+[1/2010]
+
 (2) Any person who desires to have a certificate from the Board to certify that he has the qualifications or experience and meets the conditions for registration as a family physician under this Act may apply to the Board.
+
+[1/2010]
 
 (3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of refusal, appeal to the Minister whose decision shall be final.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
-## PART VI
+## PART 6
 
 PRACTISING CERTIFICATES
 
@@ -1234,19 +1192,17 @@ if the registered medical practitioner fails to comply with any condition that i
 
 (c) take out and maintain, or be covered by, adequate and appropriate insurance or other forms of protection with such insurers or other organisations as may be approved by the Medical Council for indemnity against loss arising from claims in respect of civil liability incurred by that practitioner in the course of his medical practice, and which meets such minimum terms and conditions as the Medical Council may determine.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Cancellation of practising certificates
 
 37\. Where a registered medical practitioner has had his name removed from a register (other than the Register of Specialists or the Register of Family Physicians) under this Act or his registration suspended, any practising certificate issued to him shall be deemed to be cancelled and the registered medical practitioner shall immediately surrender the practising certificate to the Medical Council.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
-## PART VII
+## PART 7
 
 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS
-
-[1/2010 wef 01/12/2010]
 
 Division 1 —
 
@@ -1266,13 +1222,17 @@ may request the Medical Council to do one or more of the following:
 
 (ii) to suspend his registration in the appropriate register for a period of not more than 3 years;
 
-(iii) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, to remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) to (9) shall apply accordingly;
+(iii) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, to remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) and (6) to (9) shall apply accordingly;
 
 (iv) where the registered medical practitioner is registered in any register other than Part I of the Register of Medical Practitioners, to impose appropriate conditions or restrictions on his registration;
 
 (v) to suspend or cancel his practising certificate.
 
+[1/2010]
+
 (2) Subject to this section, if the Medical Council and the registered medical practitioner agree in writing on the action to be taken under subsection (1), the Medical Council may proceed with the agreed course of action.
+
+[1/2010]
 
 (3) The Medical Council shall not take any action under this section in relation to a registered medical practitioner if —
 
@@ -1280,7 +1240,11 @@ may request the Medical Council to do one or more of the following:
 
 (b) proceedings have been commenced under Division 2 against the registered medical practitioner.
 
+[1/2010]
+
 (4) This section shall apply where the Medical Council has notified the registered medical practitioner under section 39(3)(b), except that if the Medical Council and the registered medical practitioner are unable to agree on the course of action to be taken under subsection (1)(i) to (v), the Medical Council shall proceed to refer the matter to the chairman of the Complaints Panel under section 39(3)(a).
+
+[1/2010]
 
 Division 2 —
 
@@ -1296,13 +1260,23 @@ Complaints and commencement of inquiry
 
 (c) not less than 6 and not more than 50 lay persons nominated by the Minister.
 
+[1/2010]
+
 (2) The term of office of a member of the Complaints Panel referred to in subsection (1)(a) shall expire at the end of his term of office as member of the Medical Council, and a member of the Complaints Panel referred to in subsection (1)(b) or (c) shall be appointed for a term of 2 years; and any member of the Complaints Panel shall be eligible for reappointment.
+
+[1/2010]
 
 (3) The Medical Council may at any time remove from office any member of the Complaints Panel or fill any vacancy in its membership.
 
+[1/2010]
+
 (4) The Medical Council shall appoint, from among the members of the Complaints Panel who are members of the Medical Council, the chairman and the deputy chairman of the Complaints Panel.
 
+[1/2010]
+
 (5) Any member of the Medical Council who is employed in the Ministry of Health shall not be disqualified from being a member of any Complaints Committee, Disciplinary Tribunal, Health Committee or Interim Orders Committee by reason only that he is so employed.
+
+[1/2010]
 
 ### Complaints against registered medical practitioners, etc.
 
@@ -1318,7 +1292,11 @@ Complaints and commencement of inquiry
 
 shall be made or referred to the Medical Council in writing and supported by such statutory declaration as the Medical Council may require, except that no statutory declaration shall be required if the complaint or information is made or referred by any public officer or by the Medical Council.
 
+[1/2010]
+
 (2) The Medical Council shall refer every complaint or information, other than a complaint or information touching on the matters referred to in section 32, to the chairman of the Complaints Panel.
+
+[1/2010]
 
 (3) The Medical Council may, on its own motion —
 
@@ -1326,7 +1304,11 @@ shall be made or referred to the Medical Council in writing and supported by suc
 
 (b) notify the registered medical practitioner and proceed under section 37A(1)(i) to (v) if it believes that there is evidence of any matter referred to in subsection (1)(c) or (d) and the registered medical practitioner agrees to such course of action in writing.
 
+[1/2010]
+
 (4) Notwithstanding subsections (2) and (3), where a registered medical practitioner has been convicted in Singapore or elsewhere of an offence implying a defect in character which makes him unfit to practise medicine, the Medical Council may immediately refer the matter to a Disciplinary Tribunal under section 50.
+
+[1/2010]
 
 ### Appointment of Complaints Committees
 
@@ -1340,25 +1322,45 @@ shall be made or referred to the Medical Council in writing and supported by suc
 
 to inquire into any complaint or information mentioned in section 39(1).
 
+[1/2010]
+
 (2) A Complaints Committee shall be appointed in connection with one or more matters or for such fixed period of time as the chairman of the Complaints Panel may think fit.
+
+[1/2010]
 
 (3) The chairman of the Complaints Panel may at any time revoke the appointment of any Complaints Committee or may remove any member of a Complaints Committee or fill any vacancy in a Complaints Committee.
 
+[1/2010]
+
 (4) No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
+
+[1/2010]
 
 (5) All the members of a Complaints Committee shall be present to constitute a quorum for a meeting of the Complaints Committee and any resolution or decision in writing signed by all the members of a Complaints Committee shall be as valid and effectual as if it had been made or reached at a meeting of the Complaints Committee where all its members were present.
 
+[1/2010]
+
 (6) A Complaints Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as its members may think fit.
+
+[1/2010]
 
 (7) The chairman of a Complaints Committee may at any time summon a meeting of the Complaints Committee.
 
+[1/2010]
+
 (8) All members of a Complaints Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
 
+[1/2010]
+
 (9) A member of a Complaints Committee shall, notwithstanding that he has ceased to be a member of the Complaints Panel on the expiry of his term of office, be deemed to be a member of the Complaints Panel until such time as the Complaints Committee has completed its work.
+
+[1/2010]
 
 ### Referral to Complaints Committee
 
 41\.—(1) Where any complaint or information mentioned in section 39(1)(a), (b) or (c) is made or referred by the Medical Council to the chairman of the Complaints Panel, the chairman of the Complaints Panel shall lay the complaint or information before a Complaints Committee.
+
+[1/2010]
 
 (2) Where any information mentioned in section 39(1)(d) is referred by the Medical Council to the chairman of the Complaints Panel, the chairman of the Complaints Panel shall —
 
@@ -1366,13 +1368,21 @@ to inquire into any complaint or information mentioned in section 39(1).
 
 (b) in any other case, lay the information before a Complaints Committee.
 
+[1/2010]
+
 ### Commencement of inquiry by Complaints Committee
 
 42\.—(1) A Complaints Committee shall, within 2 weeks after its appointment, commence its inquiry into any complaint or information, or any information or evidence referred to in section 44(5), and complete its inquiry not later than 3 months after the date the complaint or information is laid before the Complaints Committee.
 
+[1/2010]
+
 (2) Where a Complaints Committee is of the opinion that it will not be able to complete its inquiry within the period specified in subsection (1) due to the complexity of the matter or serious difficulties encountered by the Complaints Committee in conducting its inquiry, the Complaints Committee may apply in writing to the chairman of the Complaints Panel for an extension of time to complete its inquiry and the chairman may grant such extension of time to the Complaints Committee as he thinks fit.
 
+[1/2010]
+
 (3) For the purposes of any inquiry, a Complaints Committee may appoint one or more investigators in accordance with section 60A to investigate the complaint or information, and the investigator may exercise any one or more of the powers under that section in carrying out his functions and duties under this Part.
+
+[1/2010]
 
 (4) A Complaints Committee shall —
 
@@ -1386,27 +1396,43 @@ to inquire into any complaint or information mentioned in section 39(1).
 
 (c) in any other case, direct one or more investigators to carry out an investigation and make a report to it under section 48.
 
+[1/2010]
+
 ### Mediation
 
 43\.—(1) In referring the matter for mediation under section 42(4)(b)(ii), the Complaints Committee may order the personal attendance of the complainant and the registered medical practitioner before a mediator specified by the Complaints Committee.
 
+[1/2010]
+
 (2) The mediator referred to in subsection (1) shall submit a report to the Complaints Committee on the outcome of the mediation.
+
+[1/2010]
 
 (3) If the complainant refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may dismiss the matter.
 
+[1/2010]
+
 (4) If the registered medical practitioner refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may proceed to make a direction under section 42(4)(b)(i) or (c).
 
+[1/2010]
+
 (5) If for any reason the mediation does not take place or the matter is not amicably resolved through mediation, the Complaints Committee or another Complaints Committee appointed in its place may make any direction under section 42(4)(b)(i) or (c) as it thinks fit.
+
+[1/2010]
 
 ### Conduct of investigation
 
 44\.—(1) An investigator directed under section 42(4)(c) to investigate any complaint or information shall, if he is of the opinion that a registered medical practitioner should be called upon to answer any allegation made against him, give notice in writing of the complaint or information to him.
+
+[1/2010]
 
 (2) A notice under subsection (1) shall —
 
 (a) include copies of any complaint or information and of any statutory declaration or affidavit that have been made in support of the complaint or information; and
 
 (b) invite the registered medical practitioner, within such period (not being less than 21 days after the date of the notice) as may be specified in the notice, to give to the Complaints Committee any written explanation he may wish to offer.
+
+[1/2010]
 
 (3) In the course of investigations, the Complaints Committee may authorise the investigator in writing to —
 
@@ -1415,6 +1441,8 @@ to inquire into any complaint or information mentioned in section 39(1).
 (b) in the case of any information mentioned in section 39(1)(d), obtain the consent of the registered medical practitioner to submit to a fitness assessment in accordance with the provisions of Division 3,
 
 and the registered medical practitioner shall respond within such reasonable time as the investigator may, in the notice, specify.
+
+[1/2010]
 
 (4) If the registered medical practitioner —
 
@@ -1426,7 +1454,11 @@ and the registered medical practitioner shall respond within such reasonable tim
 
 the investigator shall make a report to the Complaints Committee under section 48 and the Complaints Committee may proceed with the inquiry and make such order as it deems fit under section 49(1) or (2).
 
+[1/2010]
+
 (5) Where, in the course of an investigation, an investigator receives any information touching on, or obtains any evidence of, the conduct, physical or mental fitness, or professional performance of a registered medical practitioner other than the registered medical practitioner concerned which may give rise to proceedings under this Part, the investigator shall make a report to the Complaints Committee under section 48.
+
+[1/2010]
 
 (6) On receiving a report under subsection (5), the Complaints Committee may —
 
@@ -1438,6 +1470,8 @@ the investigator shall make a report to the Complaints Committee under section 4
 
 (ii) refer the matter to the chairman of the Complaints Panel and the chairman shall act in accordance with section 41 by referring the complaint or information to a Health Committee or laying it before a different Complaints Committee, as the case may be.
 
+[1/2010]
+
 Division 3 —
 
 Performance and fitness assessments
@@ -1445,6 +1479,8 @@ Performance and fitness assessments
 ### Performance assessment
 
 45\.—(1) If a registered medical practitioner agrees to undergo a performance assessment under section 44(3)(a), the quality of professional services provided by him shall be assessed by a Performance Assessment Panel appointed by the Complaints Committee and comprising one or more suitably qualified persons as the Complaints Committee may determine.
+
+[1/2010]
 
 (2) The Performance Assessment Panel will carry out the performance assessment in accordance with —
 
@@ -1454,6 +1490,8 @@ Performance and fitness assessments
 
 (c) such instructions as may be issued by the Complaints Committee.
 
+[1/2010]
+
 (3) The registered medical practitioner under assessment shall, if required by the Performance Assessment Panel —
 
 (a) produce to the Panel or afford the Panel access to any record or document specified by the Panel or any record or other document which is of a class or description so specified and which is in his possession or under his control being in either case a record or other document which the Panel reasonably believes is or may be relevant to the performance assessment, within such time and at such place as the Panel may reasonably require;
@@ -1462,17 +1500,29 @@ Performance and fitness assessments
 
 (c) give to the Panel all assistance in connection with the performance assessment which he is reasonably able to give.
 
+[1/2010]
+
 (4) Where any information or matter relevant to a performance assessment is recorded otherwise than in a legible form, the power of a Performance Assessment Panel to require the production of any record or other document conferred under subsection (3) shall include the power to require the production of a reproduction of any such information or matter or of the relevant part of it in a legible form.
+
+[1/2010]
 
 (5) A Performance Assessment Panel may inspect, examine or make copies of or take any abstract of or extract from any record or document produced under subsection (3) or (4).
 
+[1/2010]
+
 (6) The Performance Assessment Panel shall give a report of the assessment to the Complaints Committee and, with the approval of the Complaints Committee, the registered medical practitioner.
 
+[1/2010]
+
 (7) The Complaints Committee, or the investigator with the approval of the Complaints Committee, may discuss the report with the registered medical practitioner under assessment and, in the case of an adverse finding in the report, the possible ways of dealing with that finding.
+
+[1/2010]
 
 ### Fitness assessment
 
 46\.—(1) If a registered medical practitioner agrees to submit to a fitness assessment under section 44(3)(b), his fitness to practise medicine by reason of his physical or mental condition shall be assessed by a Fitness Assessment Panel appointed by the Complaints Committee and comprising one or more suitably qualified persons as the Complaints Committee may determine.
+
+[1/2010]
 
 (2) The Fitness Assessment Panel will carry out the fitness assessment in accordance with —
 
@@ -1482,9 +1532,15 @@ Performance and fitness assessments
 
 (c) such instructions as may be issued by the Complaints Committee.
 
+[1/2010]
+
 (3) The Fitness Assessment Panel shall submit a report of the assessment to the Complaints Committee and, with the approval of the Complaints Committee, provide a copy of the report to the registered medical practitioner.
 
+[1/2010]
+
 (4) The Complaints Committee, or the investigator with the approval of the Complaints Committee, may discuss the report with the registered medical practitioner under assessment and, in the case of an adverse finding in the report, the possible ways of dealing with that finding.
+
+[1/2010]
 
 ### Confidentiality of information
 
@@ -1494,11 +1550,15 @@ Performance and fitness assessments
 
 (b) a prosecution for a criminal offence.
 
+[1/2010]
+
 (2) A person to whom this section applies shall not disclose any information contained in any document as may have come to his knowledge in the course of a performance or fitness assessment unless the disclosure is made —
 
 (a) under or for the purpose of administering and enforcing this Act or the Infectious Diseases Act (Cap. 137); or
 
 (b) for any other purpose with the consent of the person to whom the information relates.
+
+[1/2010]
 
 (3) This section applies to —
 
@@ -1510,6 +1570,8 @@ Performance and fitness assessments
 
 (d) any member, officer or agent of the Medical Council.
 
+[1/2010]
+
 Division 4 —
 
 Powers after investigation
@@ -1517,6 +1579,8 @@ Powers after investigation
 ### Investigation report and deliberation by Complaints Committee
 
 48\.—(1) Upon completing an investigation into any complaint or information, the investigator shall submit a report on the findings of the investigation to the Complaints Committee for its deliberation.
+
+[1/2010]
 
 (2) The report referred to in subsection (1) shall include —
 
@@ -1526,15 +1590,23 @@ Powers after investigation
 
 (c) any recommendation on the necessity or otherwise of a formal inquiry by a Disciplinary Tribunal or Health Committee.
 
+[1/2010]
+
 (3) No person shall disclose the contents of the investigation report or any information contained in any document which was obtained in the course of any investigation or inquiry commenced under this Part to any other person, including the registered medical practitioner, except where —
 
 (a) the Complaints Committee in its absolute discretion thinks otherwise; or
 
 (b) such disclosure is required for the purpose of administering and enforcing this Act or the Infectious Diseases Act (Cap. 137).
 
+[1/2010]
+
 (4) The Complaints Committee may, in the course of its deliberations and before it reaches a decision, seek such legal advice as it thinks necessary.
 
+[1/2010]
+
 (5) The registered medical practitioner concerned shall not have the right to be heard by the Complaints Committee, whether in person or by counsel, unless the Complaints Committee in its absolute discretion otherwise allows.
+
+[1/2010]
 
 ### Findings of Complaints Committee
 
@@ -1558,7 +1630,7 @@ Powers after investigation
 
 (ii) suspend the registration of the registered medical practitioner from the appropriate register for a period of not more than 3 years;
 
-(iii) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) to (9) shall apply accordingly;
+(iii) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) and (6) to (9) shall apply accordingly;
 
 (iv) where the registered medical practitioner is registered in any register other than Part I of the Register of Medical Practitioners, impose appropriate conditions or restrictions on his registration; or
 
@@ -1570,21 +1642,35 @@ Powers after investigation
 
 (j) make such other order as it thinks fit.
 
+[1/2010]
+
 (2) Where a Complaints Committee determines that a formal inquiry is necessary, it shall order —
 
 (a) that an inquiry be held by a Health Committee if the complaint, information or evidence touches on the physical or mental fitness of the registered medical practitioner to practise; or
 
 (b) that an inquiry be held by a Disciplinary Tribunal.
 
+[1/2010]
+
 (3) Where a Complaints Committee has made an order under subsection (2) or (6) for a formal inquiry to be held by a Disciplinary Tribunal or Health Committee, the Medical Council shall appoint a Disciplinary Tribunal or Health Committee, as the case may be, which shall hear and investigate the complaint or matter.
+
+[1/2010]
 
 (4) Where a Complaints Committee has decided to issue a letter of advice to the registered medical practitioner, the chairman of the Complaints Committee shall issue the letter of advice in such terms as it thinks fit.
 
+[1/2010]
+
 (5) Where a Complaints Committee has referred the matter for mediation, section 43 shall apply with the necessary modifications, and references in section 43(4) and (5) to section 42(4)(b)(i) or (c) shall be read as references to section 49(1) or (2), respectively.
+
+[1/2010]
 
 (6) Where a registered medical practitioner in respect of whom an order is made under subsection (1)(c), (d), (e) or (f) is found by a Complaints Committee (whether it is the Complaints Committee that made the order or another Complaints Committee appointed in its place) to have failed to comply with any of the requirements imposed on him, the Complaints Committee may, if it thinks fit, order that a formal inquiry be held by a Disciplinary Tribunal or Health Committee, as the case may be, in respect of the complaint, information or evidence.
 
+[1/2010]
+
 (7) Where, in the course of an inquiry, a Complaints Committee receives any information touching on, or any evidence of, the conduct of the registered medical practitioner concerned which discloses an offence under any written law, the Complaints Committee shall record the information and report it to the Medical Council.
+
+[1/2010]
 
 (8) Where the complainant withdraws his complaint before —
 
@@ -1594,13 +1680,23 @@ Powers after investigation
 
 the Medical Council may, notwithstanding such withdrawal, refer the complaint to or direct a Complaints Committee to continue the inquiry, as the case may be, and the chairman of the Complaints Panel, or the Complaints Committee, Disciplinary Tribunal or Health Committee, as the case may be, shall comply with such direction as if the complaint had been made by the Medical Council.
 
+[1/2010]
+
 (9) A Complaints Committee shall notify the registered medical practitioner concerned and the person who made the complaint or referred the information under section 39(1) of its decision under subsection (1) or (2) and, if it makes an order under subsection (1), the reason for making the order.
+
+[1/2010]
 
 (10) A registered medical practitioner who is aggrieved by any order of a Complaints Committee under subsection (1) may, within 30 days after being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
 
+[1/2010]
+
 (11) If the person who has made the complaint or referred any information to the Medical Council is dissatisfied with any order of a Complaints Committee under subsection (1), he may, within 30 days after being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
 
+[1/2010]
+
 (12) If the Medical Council is dissatisfied with any order of a Complaints Committee under subsection (1) in a case where a complaint is made or any matter or information is referred to the chairman of the Complaints Panel under section 37A(4), 39(3)(a) or 44(6)(b)(ii), the Medical Council may, within 30 days after being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
+
+[1/2010]
 
 (13) The Minister may, after considering the appeal, make —
 
@@ -1616,7 +1712,11 @@ the Medical Council may, notwithstanding such withdrawal, refer the complaint to
 
 (d) such other order as he thinks fit.
 
+[1/2010]
+
 (14) Every Complaints Committee shall immediately report to the Medical Council its findings and the order or orders made.
+
+[1/2010]
 
 Division 5 —
 
@@ -1646,25 +1746,47 @@ Disciplinary Tribunals
 
 to inquire into any matter in respect of which a Complaints Committee has under section 49(2)(b) ordered that a formal inquiry be held or into any matter referred to the Disciplinary Tribunal under section 39(4).
 
+[1/2010]
+
 (2) A member of a Complaints Committee inquiring into any matter concerning a registered medical practitioner shall not be a member of a Disciplinary Tribunal inquiring into the same matter.
+
+[1/2010]
 
 (3) The observer appointed under subsection (1)(c)(i) shall not vote on any question or matter to be decided by the Disciplinary Tribunal and need not be present at every meeting of the Disciplinary Tribunal.
 
+[1/2010]
+
 (4) A Disciplinary Tribunal may be appointed in connection with one or more matters or for a fixed period of time as the Medical Council may think fit.
+
+[1/2010]
 
 (5) The Medical Council may at any time revoke the appointment of any Disciplinary Tribunal or may remove any member of a Disciplinary Tribunal or fill any vacancy in a Disciplinary Tribunal.
 
+[1/2010]
+
 (6) Without prejudice to the generality of subsection (5), where, after a Disciplinary Tribunal has commenced the hearing and investigation of any matter, any member of the Disciplinary Tribunal is unable through death, illness or any other cause to continue with the hearing and investigation of the matter, the Medical Council may fill the vacancy or appoint another Disciplinary Tribunal to continue the hearing and investigation of the matter.
+
+[1/2010]
 
 (7) The Disciplinary Tribunal so reconstituted or appointed under subsection (6) may, with the consent of the Medical Council and the registered medical practitioner to whom the complaint relates, and having regard to the evidence given, the arguments adduced and any order made during the proceedings before the previous Disciplinary Tribunal, hear and investigate the matter afresh.
 
+[1/2010]
+
 (8) The production of any written instrument purporting to be signed by the Medical Council and making an appointment, revocation or removal referred to in this section shall be evidence that such appointment or revocation has been duly made.
+
+[1/2010]
 
 (9) Every member of a Disciplinary Tribunal appointed under subsection (1) shall be paid such remuneration as the Medical Council may determine.
 
+[1/2010]
+
 (10) No act done by or under the authority of a Disciplinary Tribunal shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
 
+[1/2010]
+
 (11) Subject to subsection (3), all members of a Disciplinary Tribunal shall be personally present at any meeting thereof to constitute a quorum for the transaction of any business.
+
+[1/2010]
 
 (12) Subject to subsection (3), all members of a Disciplinary Tribunal present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes —
 
@@ -1672,35 +1794,63 @@ to inquire into any matter in respect of which a Complaints Committee has under 
 
 (b) where the chairman is not a registered medical practitioner, the question shall be determined by a majority of votes of the members of the Disciplinary Tribunal who are registered medical practitioners, and if there is no such majority of votes, the question shall be resolved in favour of the registered medical practitioner under inquiry.
 
+[1/2010]
+
 ### Proceedings of Disciplinary Tribunal
 
 51\.—(1) A Disciplinary Tribunal shall meet from time to time to inquire into any matter referred to it by the Medical Council and may regulate its own procedure.
 
+[1/2010]
+
 (2) A member of a Disciplinary Tribunal shall, notwithstanding that he has ceased to be a member of the Complaints Panel or panel referred to in section 50(1)(a) on the expiry of his term of office, continue to be a member of the Disciplinary Tribunal until such time as the Disciplinary Tribunal has completed its work.
+
+[1/2010]
 
 (3) The registered medical practitioner concerned may appear in person or be represented by counsel.
 
+[1/2010]
+
 (4) A Disciplinary Tribunal shall not be bound to act in a formal manner and shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other law relating to evidence but may inform itself on any matter in such manner as it thinks fit.
+
+[1/2010]
 
 (5) A Disciplinary Tribunal may, for the purposes of any proceedings before it, administer oaths and any party to the proceedings may take out a subpoena to testify or a subpoena to produce documents.
 
+[1/2010]
+
 (6) The subpoenas referred to in subsection (5) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
+
+[1/2010]
 
 (7) Any person giving evidence before a Disciplinary Tribunal shall be legally bound to tell the truth.
 
+[1/2010]
+
 (8) Witnesses shall have the same privileges and immunities in relation to hearings before a Disciplinary Tribunal as if such hearings were proceedings in a court of law.
+
+[1/2010]
 
 (9) A Disciplinary Tribunal shall carry out its work expeditiously and may apply to the Medical Council for an extension of time and for directions to be given to the Disciplinary Tribunal if the Disciplinary Tribunal fails to make its finding and order within 6 months from the date of its appointment.
 
+[1/2010]
+
 (10) When an application for extension of time has been made under subsection (9), the Medical Council may grant an extension of time for such period as it thinks fit.
 
+[1/2010]
+
 (11) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Tribunal taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include any such investigation.
+
+[1/2010]
 
 ### Reference and transfer of cases to Health Committee
 
 52\.—(1) Where, in the course of inquiring into the case of a registered medical practitioner, it appears to a Disciplinary Tribunal that his fitness to practise may be impaired by reason of his physical or mental condition, the Disciplinary Tribunal may refer that question to a Health Committee for determination.
 
+[1/2010]
+
 (2) If, on a reference under this section, the Health Committee determines that the fitness of the registered medical practitioner to practise is not impaired by reason of his physical or mental condition, the Health Committee shall certify its opinion to the Disciplinary Tribunal.
+
+[1/2010]
 
 (3) If, on a reference under this section, the Health Committee determines that the fitness of the registered medical practitioner to practise is impaired by reason of his physical or mental condition, the Health Committee shall —
 
@@ -1709,6 +1859,8 @@ to inquire into any matter in respect of which a Complaints Committee has under 
 (b) proceed to dispose of the case in accordance with section 58,
 
 and the Disciplinary Tribunal shall cease to exercise its function in relation to the case.
+
+[1/2010]
 
 ### Findings of Disciplinary Tribunal
 
@@ -1726,13 +1878,15 @@ and the Disciplinary Tribunal shall cease to exercise its function in relation t
 
 the Disciplinary Tribunal may exercise one or more of the powers referred to in subsection (2).
 
+[1/2010]
+
 (2) For the purposes of subsection (1), the Disciplinary Tribunal may —
 
 (a) by order remove the name of the registered medical practitioner from the appropriate register;
 
 (b) by order suspend the registration of the registered medical practitioner in the appropriate register for a period of not less than 3 months and not more than 3 years;
 
-(c) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, by order remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) to (9) shall apply accordingly;
+(c) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, by order remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) and (6) to (9) shall apply accordingly;
 
 (d) where the registered medical practitioner is registered in any register other than Part I of the Register of Medical Practitioners, by order impose appropriate conditions or restrictions on his registration;
 
@@ -1744,15 +1898,27 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (h) make such other order as the Disciplinary Tribunal thinks fit, including any order that a Complaints Committee may make under section 49(1).
 
+[1/2010]
+
 (3) In any proceedings instituted under this Part against a registered medical practitioner consequent upon his conviction for a criminal offence, a Disciplinary Tribunal and the High Court on appeal from any order of the Disciplinary Tribunal shall accept his conviction as final and conclusive.
+
+[1/2010]
 
 (4) Where a registered medical practitioner is not found by a Disciplinary Tribunal to have been convicted or guilty of any matter referred to in subsection (1), the Disciplinary Tribunal shall dismiss the complaint or matter.
 
+[1/2010]
+
 (5) A Disciplinary Tribunal may under subsection (2) order the registered medical practitioner concerned to pay to the Medical Council such sums as it thinks fit in respect of costs and expenses of and incidental to any proceedings before the Disciplinary Tribunal and, where applicable, an Interim Orders Committee.
+
+[1/2010]
 
 (6) The High Court shall have jurisdiction to tax such costs referred to in subsection (5) and any such order for costs made shall be enforceable as if it were ordered in connection with a civil action in the High Court.
 
+[1/2010]
+
 (7) The Disciplinary Tribunal in ordering that costs be paid by the registered medical practitioner under this section may certify that costs for more than one solicitor be paid if it is satisfied that the issues involved in the proceedings are of sufficient complexity, and the certification by the Disciplinary Tribunal shall have the same effect as if it were a certification by a Judge in a civil action in the High Court.
+
+[1/2010]
 
 (8) The costs and expenses referred to in subsection (5) shall include —
 
@@ -1762,6 +1928,8 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (c) such reasonable expenses as are necessary for the conduct of proceedings before the Disciplinary Tribunal and the Interim Orders Committee.
 
+[1/2010]
+
 ### Orders of Disciplinary Tribunal
 
 54\.—(1) Where a registered medical practitioner, in respect of whom an order under section 53(2)(c) or (d), 59B(1)(b) or 59D(1)(d) is made, is found by a Disciplinary Tribunal (whether, in the case of an order under section 53(2)(c) or (d), it is the Disciplinary Tribunal that made the order or another Disciplinary Tribunal appointed in its place) to have failed to comply with any of the requirements imposed on him as conditions or restrictions of his registration, the Disciplinary Tribunal may, if it thinks fit, by order —
@@ -1770,7 +1938,11 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (b) suspend his registration in the appropriate register for such period not exceeding 12 months as may be specified in the order.
 
+[1/2010]
+
 (2) Where a Disciplinary Tribunal has made an order for suspension under subsection (1)(b) or section 53(2)(b), the Disciplinary Tribunal may make an order under section 53(2)(c) or (d), to take effect from the expiry of the current period of suspension.
+
+[1/2010]
 
 (3) Where a Disciplinary Tribunal has made an order for suspension under subsection (1)(b) or section 53(2)(b) against a registered medical practitioner and he has failed to comply with that order, the Disciplinary Tribunal or another Disciplinary Tribunal appointed in its place may, if it thinks fit —
 
@@ -1778,15 +1950,27 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (b) make an order under section 53(2)(c) or (d), to take effect from the expiry of the current period of suspension.
 
+[1/2010]
+
 (4) Where a Disciplinary Tribunal has made an order under section 53(2)(c) or (d), the Disciplinary Tribunal or another Disciplinary Tribunal appointed in its place may revoke the order or revoke or vary any of the conditions or restrictions imposed by the order.
+
+[1/2010]
 
 (5) Subsection (1) shall apply to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under subsection (2) or (3) as it applies to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under section 53(2)(c) or (d), and subsection (4) shall apply accordingly.
 
+[1/2010]
+
 (6) Where a Disciplinary Tribunal has made an order under section 53 or this section, or has varied the conditions or restrictions imposed by an order under this section, the Registrar shall immediately serve on the registered medical practitioner and on the complainant a notice of the order or the variation.
+
+[1/2010]
 
 (7) Subject to subsection (8), an order made by a Disciplinary Tribunal for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2) shall not take effect until the expiration of 30 days after the order is made.
 
+[1/2010]
+
 (8) On making an order for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2), a Disciplinary Tribunal, if satisfied that to do so is necessary for the protection of members of the public or would be in the best interests of the registered medical practitioner concerned, may order that his name be removed from the register or that his registration in the register be suspended immediately.
+
+[1/2010]
 
 (9) Where an order under subsection (8) is made, the Registrar shall immediately serve a notice of the order on the person to whom it applies and —
 
@@ -1794,15 +1978,25 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (b) if that person was neither present nor represented at the proceedings of the Disciplinary Tribunal, the order shall take effect from the date of service of the notice on him.
 
+[1/2010]
+
 (10) An order of a Disciplinary Tribunal, other than an order for the removal of any name or for the suspension of any registration under subsection (1) or (3) or section 53(2)(a) or (b), shall take effect from the date the order is made.
 
+[1/2010]
+
 (11) While any order for the suspension of any registration remains in force, the person concerned shall not be regarded as being registered, notwithstanding that his name still appears in the register, but immediately on the expiry of such order, his rights and privileges as a registered medical practitioner shall be revived as from the date of such expiry provided that the medical practitioner has complied with all the terms of the order.
+
+[1/2010]
 
 ### Appeal against order by Disciplinary Tribunal
 
 55\.—(1) A registered medical practitioner or the Medical Council who is dissatisfied with a decision of the Disciplinary Tribunal referred to in section 53(2), (4) or (5) or 54 (referred to in this section as the decision of the Disciplinary Tribunal) may, within 30 days after the service on the registered medical practitioner of the notice of the order, appeal to the High Court against the order (referred to in this section as an appeal to the High Court).
 
+[1/2010]
+
 (2) A complainant who is dissatisfied with the decision of the Disciplinary Tribunal may, within 30 days after the lapse of the period for appeal in subsection (1), provided he has not received notice of the Medical Council’s decision to file an appeal to the High Court, apply to a Review Committee to direct the Medical Council to file an appeal to the High Court.
+
+[1/2010]
 
 (3) For the purposes of hearing applications under subsection (2), the Minister may from time to time appoint one or more Review Committees, each comprising —
 
@@ -1810,23 +2004,43 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (b) 2 members who shall be registered medical practitioners of not less than 10 years’ standing.
 
+[1/2010]
+
 (4) The chairman of a Review Committee shall be appointed by the Minister from among its 3 members.
+
+[1/2010]
 
 (5) A Review Committee shall not be bound by the rules of evidence and shall regulate its own proceedings.
 
+[1/2010]
+
 (6) Upon an application under subsection (2), the Review Committee may, if it is unanimously of the opinion that there are sufficient grounds for the decision of the Disciplinary Tribunal to be appealed against to the High Court, direct the Medical Council to file an appeal to the High Court.
+
+[1/2010]
 
 (7) Before exercising its power under subsection (6), the Review Committee shall give to both the Medical Council and the registered medical practitioner concerned a reasonable opportunity to make representations in writing as to why the Review Committee should not make a direction under subsection (6).
 
+[1/2010]
+
 (8) The Review Committee’s decision under subsection (6) shall be final.
+
+[1/2010]
 
 (9) If the Review Committee directs the Medical Council to file an appeal to the High Court, the Medical Council shall do so within 14 days of the receipt of the direction notwithstanding the expiry of 30 days referred to in subsection (1).
 
+[1/2010]
+
 (10) An appeal under this section shall be heard by 3 Judges of the High Court and from the decision of that Court there shall be no appeal.
+
+[1/2010]
 
 (11) In any appeal to the High Court against a decision referred to in section 53(2), (4) or (5) or 54, the High Court shall accept as final and conclusive any finding of the Disciplinary Tribunal relating to any issue of medical ethics or standards of professional conduct unless such finding is in the opinion of the High Court unsafe, unreasonable or contrary to the evidence.
 
+[1/2010]
+
 (12) Notwithstanding anything in section 53 or 54, where a registered medical practitioner has appealed to the High Court against an order referred to in section 53(2) or 54, the order shall not take effect unless the order is confirmed by the High Court or the appeal is for any reason dismissed by the High Court or is withdrawn.
+
+[1/2010]
 
 ### Restoration of names to register
 
@@ -1834,7 +2048,9 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 (a) restore his name to the register; or
 
-(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) to (9) shall apply accordingly.
+(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) shall apply accordingly.
+
+[1/2010]
 
 (2) No application for the restoration of the name of a medical practitioner to a register under this section shall be made to the Medical Council —
 
@@ -1844,6 +2060,8 @@ the Disciplinary Tribunal may exercise one or more of the powers referred to in 
 
 and unless the medical practitioner has complied with all the terms of the order made against him.
 
+[1/2010]
+
 Division 6 —
 
 Health Committee
@@ -1852,9 +2070,15 @@ Health Committee
 
 57\.—(1) The Medical Council may, from time to time, appoint one or more Health Committees, each comprising not less than 3 persons, of whom at least one shall be a member of the Medical Council and who shall be the chairman.
 
+[1/2010]
+
 (2) A Health Committee shall inquire into any case or matter referred to it under this Act.
 
+[1/2010]
+
 (3) A Health Committee may be appointed in connection with one or more matters or for a fixed period of time as the Medical Council may think fit.
+
+[1/2010]
 
 ### Unfitness to practise through illness, etc.
 
@@ -1862,7 +2086,7 @@ Health Committee
 
 (a) by order suspend his registration in the appropriate register for such period not exceeding 12 months as may be specified in the order;
 
-(b) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, by order remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) to (9) shall apply accordingly;
+(b) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, by order remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) and (6) to (9) shall apply accordingly;
 
 (c) where the registered medical practitioner is registered in any register other than Part I of the Register of Medical Practitioners, by order impose appropriate conditions or restrictions on his registration;
 
@@ -1870,11 +2094,19 @@ Health Committee
 
 (e) order that he pays to the Medical Council costs and expenses of and incidental to any inquiry or hearing by the Health Committee and, where applicable, an Interim Orders Committee.
 
+[1/2010]
+
 (2) Where the Medical Council accepts the recommendation of the Health Committee under subsection (1)(d), the Medical Council shall by order remove the name of the registered medical practitioner from the appropriate register and that order shall take effect from the date the order is made.
+
+[1/2010]
 
 (3) Where a registered medical practitioner, in respect of whom an order under subsection (1)(b) or (c) or section 59B(1)(b) or 59D(1)(d) is made, is determined by a Health Committee to have failed to comply with any of the requirements imposed on him as conditions or restrictions of his registration, the Health Committee may, if it thinks fit, by order suspend his registration in the appropriate register for such period not exceeding 12 months as may be specified in the order.
 
+[1/2010]
+
 (4) Where a Health Committee has made an order for suspension under subsection (1)(a) or (3), the Health Committee may make an order under subsection (1)(b) or (c), to take effect from the expiry of the current period of suspension.
+
+[1/2010]
 
 (5) Where a Health Committee has made an order for suspension under subsection (1)(a) or (3) against a person and that person has failed to comply with that order, the Health Committee may, if it thinks fit —
 
@@ -1882,21 +2114,39 @@ Health Committee
 
 (b) make an order under subsection (1)(b) or (c), to take effect from the expiry of the current period of suspension.
 
+[1/2010]
+
 (6) Where a Health Committee has made an order under subsection (1)(b) or (c), the Health Committee or another Health Committee appointed in its place may, on its own motion or on the application of the Medical Council or the registered medical practitioner, revoke the order or revoke or vary any of the conditions or restrictions imposed by the order.
+
+[1/2010]
 
 (7) No application under subsection (6) shall be made in respect of the same registered medical practitioner more than once in any period of 12 months.
 
+[1/2010]
+
 (8) Subsection (3) shall apply to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under subsection (4) or (5)(b) as it applies to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under subsection (1)(b) or (c), and subsection (5) shall apply accordingly.
+
+[1/2010]
 
 (9) Where a Health Committee has made an order (including a revocation of the order or a revocation or variation of any condition or restriction imposed by the order) under this section, the Registrar shall immediately serve on the person to whom the order applies a notice of the order or of the revocation or variation.
 
+[1/2010]
+
 (10) While a person’s registration in the register is suspended by virtue of this section, he shall be treated as not being registered in the register notwithstanding that his name still appears in it.
+
+[1/2010]
 
 (11) Sections 50(9), (10), (11) and (12)(a) and 51 shall apply, with the necessary modifications, to a Health Committee and references to a Disciplinary Tribunal shall be read as references to a Health Committee.
 
+[1/2010]
+
 (12) Any person who is aggrieved by an order (including a revocation of the order or a revocation or variation of any condition or restriction imposed by the order) made under this section may, within 30 days after the service on him of the notification of the order, appeal to the Minister whose decision shall be final.
 
+[1/2010]
+
 (13) Any order (including a revocation of the order or a revocation or variation of any condition or restriction imposed by the order) made under this section shall take effect from the date the order, revocation or variation is made unless the Minister decides otherwise.
+
+[1/2010]
 
 ### Restoration of names removed on recommendation of Health Committee
 
@@ -1904,11 +2154,17 @@ Health Committee
 
 (a) restore his name to the register; or
 
-(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) to (9) shall apply accordingly.
+(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) shall apply accordingly.
+
+[1/2010]
 
 (2) No application under subsection (1) in respect of the same person shall be made to the Medical Council more than once in any period of 12 months.
 
+[1/2010]
+
 (3) No application under subsection (1) in respect of a person shall be made to the Medical Council unless that person has complied with all the terms of the order made against him.
+
+[1/2010]
 
 Division 7 —
 
@@ -1918,19 +2174,35 @@ Interim Orders Committees
 
 59A\.—(1) The Medical Council may, from time to time, appoint one or more committees each comprising 3 of its members, to be known for the purposes of this Act as Interim Orders Committees, to inquire into any matter referred by the Medical Council under subsection (3).
 
+[1/2010]
+
 (2) An Interim Orders Committee may be appointed in connection with one or more matters or for a fixed period of time.
+
+[1/2010]
 
 (3) The chairman of the Complaints Panel, or a Complaints Committee, Disciplinary Tribunal or Health Committee may refer any complaint or information to the Medical Council for the purpose of determining if an order should be made under section 59B(1), and the Medical Council shall refer the complaint or information to an Interim Orders Committee for this purpose.
 
+[1/2010]
+
 (4) Neither the chairman of the Complaints Panel nor a member of a Complaints Committee, Disciplinary Tribunal or Health Committee inquiring into any matter shall be a member of an Interim Orders Committee inquiring into or reviewing the same matter.
+
+[1/2010]
 
 (5) A member of an Interim Orders Committee inquiring into or reviewing any matter shall not be a member of a Complaints Committee or Disciplinary Tribunal inquiring into the same matter, or take part in any deliberation of the Medical Council under section 58 in respect of the same matter.
 
+[1/2010]
+
 (6) All members of an Interim Orders Committee shall vote on any question arising at a meeting of the Interim Orders Committee and such question shall be determined by a majority of votes.
+
+[1/2010]
 
 (7) A member of an Interim Orders Committee which has commenced any inquiry or review of any case or matter shall, notwithstanding that he has ceased to be a member of the Medical Council, continue to be a member of the Interim Orders Committee until completion of that inquiry or review.
 
+[1/2010]
+
 (8) Sections 50(9), (10), (11) and (12)(a) and 51(1), (4) to (8) and (11) shall apply, with the necessary modifications, to an Interim Orders Committee and to proceedings before it as they apply to a Disciplinary Tribunal and to proceedings before a Disciplinary Tribunal.
+
+[1/2010]
 
 ### Interim orders
 
@@ -1940,21 +2212,29 @@ Interim Orders Committees
 
 (b) that his registration be conditional on his compliance, during such period not exceeding 18 months as may be specified in the order, with such conditions or restrictions so specified as the Interim Orders Committee thinks fit to impose (referred to in this Part as an interim restriction order).
 
+[1/2010]
+
 (2) The Registrar shall immediately serve a notification of the order made under subsection (1) on the registered medical practitioner, and such order shall take effect from the date the order is made.
+
+[1/2010]
 
 ### Review of interim orders
 
 59C\.—(1) Subject to subsection (2), where an Interim Orders Committee has made an order under section 59B(1), the Interim Orders Committee or another Interim Orders Committee appointed in its place —
 
-(a) shall review it within the period of 6 months beginning on the date on which the order was made, and shall thereafter, for so long as the order continues in force, further review it before the end of the period of 3 months beginning on the date of the decision of the immediately preceding review; and
+(a) shall review the order within the period of 6 months beginning on the date on which the order was made, and shall, for so long as the order continues in force, further review it before the end of the period of 3 months beginning on the date of the decision of the immediately preceding review; and
 
-(b) may review it where new evidence relevant to the order has become available after the making of the order.
+(b) may review the order where new evidence relevant to the order has become available after the making of the order.
+
+[1/2010]
 
 (2) Where the High Court has extended the order under section 59F(2) or an Interim Orders Committee has made a replacement order under section 59D(1)(c) or (d), the first review after such extension or making of the replacement order shall take place —
 
 (a) if the order (or the order which has been replaced) had not been reviewed under subsection (1), within the period of 6 months beginning on the date on which the High Court ordered the extension or on which the replacement order was made, as the case may be; or
 
 (b) if it had been reviewed under subsection (1), within the period of 3 months beginning on the date on which the High Court ordered the extension or on which the replacement order was made.
+
+[1/2010]
 
 ### Interim Orders Committee may revoke, vary or replace interim order
 
@@ -1968,21 +2248,35 @@ Interim Orders Committees
 
 (d) if satisfied that the public interest or the interests of the registered medical practitioner concerned would be more adequately served by an interim restriction order, replace the interim suspension order with an interim restriction order having effect for the remainder of the period of the former.
 
+[1/2010]
+
 (2) The Registrar shall immediately serve a notification of the decision under subsection (1) on the registered medical practitioner, and such order shall take effect from the date the order is made.
+
+[1/2010]
 
 ### Right of hearing
 
 59E\.—(1) No order under section 59B(1) or 59D(1)(b), (c) or (d) shall be made by an Interim Orders Committee in respect of any registered medical practitioner unless he has been afforded an opportunity of appearing before the Interim Orders Committee and being heard on the question whether such an order should be made in his case.
 
+[1/2010]
+
 (2) For the purposes of subsection (1), the registered medical practitioner may be represented before the Interim Orders Committee by counsel.
 
+[1/2010]
+
 (3) Regulations made for the purposes of an Interim Orders Committee may include provisions securing that the registered medical practitioner in respect of whom an interim suspension order or an interim restriction order has been made shall, if he so requires, be entitled to be heard by the Interim Orders Committee on each occasion when it reviews the order, and be represented by counsel during such review.
+
+[1/2010]
 
 ### Application to High Court
 
 59F\.—(1) The Medical Council may apply to the High Court for an extension of the period for which an order made under section 59B(1) or 59D(1)(c) or (d) has effect, and may apply again for further extensions.
 
+[1/2010]
+
 (2) On such an application, the High Court may extend (or further extend) for up to 12 months the period for which the order has effect.
+
+[1/2010]
 
 (3) The High Court may, on application by the registered medical practitioner concerned —
 
@@ -1991,6 +2285,8 @@ Interim Orders Committees
 (b) in the case of an interim restriction order, revoke the order or vary any condition or restriction imposed by the order; or
 
 (c) in either case, substitute for the period specified in the order (or in the order extending it) some other period which could have been specified in the order when it was made (or in the order extending it).
+
+[1/2010]
 
 ### Duration of interim orders
 
@@ -2006,6 +2302,8 @@ Interim Orders Committees
 
 whichever is the earlier.
 
+[1/2010]
+
 (2) For the purposes of subsection (1)(b), the relevant proceedings are concluded if —
 
 (a) the Complaints Committee inquiring into the complaint or information has made an order under section 49(1) and —
@@ -2020,13 +2318,21 @@ whichever is the earlier.
 
 as the case may be.
 
+[1/2010]
+
 ### Person suspended under interim suspension order not regarded as registered
 
 59H\.—(1) While a person’s registration in the register is suspended by virtue of an interim suspension order, he shall not be regarded as being registered notwithstanding that his name still appears in the register.
 
+[1/2010]
+
 (2) Immediately upon the expiry or revocation of the interim suspension order, the person’s rights and privileges as a registered medical practitioner shall be revived from the date of such expiry or revocation, provided that he has complied with all the terms of the order.
 
+[1/2010]
+
 (3) For the avoidance of doubt, sections 39 to 54, 57 and 58 shall continue to apply to a person whose registration in the register is suspended by virtue of an interim suspension order.
+
+[1/2010]
 
 Division 8 —
 
@@ -2036,7 +2342,9 @@ Appointment of legal counsel
 
 59I\. For the purposes of an inquiry under this Part by any Disciplinary Tribunal, Health Committee or Interim Orders Committee, the Medical Council may appoint an advocate and solicitor and pay him, as part of the expenses of the Medical Council, such remuneration as the Medical Council may determine.
 
-## PART VIII
+[1/2010]
+
+## PART 8
 
 GENERAL
 
@@ -2048,17 +2356,15 @@ GENERAL
 
 (3) The costs and expenses of and incidental to the performance of the functions of the Medical Council, the Complaints Committees, the Disciplinary Tribunals, the Health Committee and any other committee appointed by the Medical Council under this Act shall be paid by the Medical Council out of its funds.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (4) The Minister may pay into the funds of the Medical Council such sum of money out of moneys to be provided by Parliament as the Minister may determine.
 
 (4A) The Medical Council may invest moneys belonging to its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 (5) The Medical Council shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
-
-[50
 
 ### Investigators
 
@@ -2066,7 +2372,9 @@ GENERAL
 
 (a) to investigate the commission of an offence under this Act; or
 
-(b) to carry out an investigation under Part VII.
+(b) to carry out an investigation under Part 7.
+
+[1/2010]
 
 (2) An investigator may, for the purposes of subsection (1) —
 
@@ -2084,7 +2392,7 @@ and may, if necessary, further require such person to attend at a specified time
 
 (d) without warrant enter, inspect and search during regular business hours any premises which are used or proposed to be used, or in respect of which there is reasonable cause to believe are being used by the registered medical practitioner who is under investigation to carry out the practice of medicine and may —
 
-(i) inspect and make copies of and take extracts from, or require the registered medical practitioner or the person having the management or control of the premises to provide copies of or extracts from, any book, document, record or electronic material relating to the affairs of the premises or the facilities or services provided or the practices or procedures being carried out thereat;
+(i) inspect and make copies of and take extracts from, or require the registered medical practitioner or the person having the management or control of the premises to provide copies of or extracts from, any book, document, record or electronic material relating to the affairs of the premises or the facilities or services provided or the practices or procedures being carried out at the premises;
 
 (ii) inspect any apparatus, appliance, equipment or instrument used or found on the premises;
 
@@ -2094,9 +2402,11 @@ and may, if necessary, further require such person to attend at a specified time
 
 (v) inspect any test or procedure performed or carried out on the premises;
 
-(vi) take such photographs or video recording as he thinks necessary to record the premises or part thereof, including any apparatus, appliance, equipment, instrument, article, book, document or record found on the premises; and
+(vi) take such photographs or video recording as he thinks necessary to record the premises or part of the premises, including any apparatus, appliance, equipment, instrument, article, book, document or record found on the premises; and
 
 (vii) seize and remove from the premises any book, record, document, apparatus, equipment, instrument, material, chemical, pharmaceutical or any other substance which the investigator reasonably believes to be the subject-matter of, or to be connected with, an investigation under subsection (1)(a) or (b).
+
+[1/2010]
 
 (3) Any person who —
 
@@ -2106,27 +2416,23 @@ and may, if necessary, further require such person to attend at a specified time
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[1/2010]
+
 (4) In this section, “record” includes the medical record of any person.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Assessor to Medical Council
 
 61\.—(1) For the purposes of advising the Medical Council or any Complaints Committee, Disciplinary Tribunal, Health Committee or Interim Orders Committee in proceedings before any of them under the provisions of this Act, the Medical Council may appoint an assessor to the Medical Council who shall be an advocate and solicitor of not less than 10 years’ standing.
 
-[46/2002]
-
-[1/2010 wef 01/12/2010]
+[46/2002; 1/2010]
 
 (2) Any assessor appointed under this section shall not participate or sit in any deliberations of the Medical Council or any Complaints Committee, Disciplinary Tribunal, Health Committee or Interim Orders Committee unless invited to do so, and his participation shall be limited only to questions of law arising from the proceedings.
 
-[46/2002]
-
-[1/2010 wef 01/12/2010]
+[46/2002; 1/2010]
 
 (3) The Medical Council may pay to persons appointed to act as assessors such remuneration, to be paid as part of the expenses of the Medical Council, as the Medical Council may determine.
-
-[51
 
 ### Fraudulent registration
 
@@ -2144,17 +2450,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[52
-
 ### Medical practitioner not to practise during suspension from practice
 
-63\.—(1) No registered medical practitioner whose registration in the appropriate register is suspended under Part VII shall practise medicine or act as a medical practitioner during his suspension.
+63\.—(1) No registered medical practitioner whose registration in the appropriate register is suspended under Part 7 shall practise medicine or act as a medical practitioner during his suspension.
 
 [46/2002]
 
 (2) Any registered medical practitioner who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[53
 
 ### Medical practitioner to use only qualifications entered in register and approved title, etc.
 
@@ -2166,8 +2468,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any registered medical practitioner who contravenes subsection (1) may be subject to disciplinary proceedings under this Act.
 
-[54
-
 ### False assumption of title of specialist or family physician
 
 65\.—(1) A registered medical practitioner who is not registered under section 22 as a specialist in a branch of medicine shall not —
@@ -2176,9 +2476,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) advertise or hold himself out as a specialist in that branch of medicine.
 
-[46/2002]
-
-[1/2010 wef 01/07/2010]
+[46/2002; 1/2010]
 
 (1A) A registered medical practitioner who is not registered under section 22A as a family physician shall not —
 
@@ -2186,15 +2484,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) advertise or hold himself out as being registered as a family physician.
 
-[1/2010 wef 01/07/2012]
+[1/2010]
 
 (2) A registered medical practitioner who contravenes subsection (1) or (1A) may be subject to disciplinary proceedings under this Act.
 
-[54A
-
-[46/2002]
-
-[1/2010 wef 01/07/2010]
+[46/2002; 1/2010]
 
 ### Exemption
 
@@ -2204,25 +2498,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) entitled to all the privileges of registered medical practitioners under this Act.
 
-[55
-
 ### Composition of offences
 
-66A\.—(1) The Medical Council may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+66A\.—(1) The Medical Council may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(a) one‑half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) $5,000,
+(b) $5,000.
 
-whichever is the lower.
+[1/2010]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
+[1/2010]
+
 (3) The Medical Council may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+[1/2010]
 
 (4) All sums collected under this section shall be paid into the funds of the Medical Council.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Duty of medical practitioner to inform Medical Council of medical practitioners who are unfit to practise
 
@@ -2230,33 +2526,27 @@ whichever is the lower.
 
 (2) Any registered medical practitioner who fails to comply with subsection (1) may be subject to disciplinary proceedings under this Act.
 
-[56
-
 ### No action in absence of bad faith
 
 68\. No action or proceedings shall lie against the Medical Council, a Complaints Committee, a Disciplinary Tribunal, the Health Committee or any other committee appointed by the Medical Council or any member or employee thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
-[57
-
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Power to amend, vary, rescind, revoke or suspend condition or restriction
 
-68A\. For the avoidance of doubt, the power of the Medical Council to impose a condition or restriction under Parts IV, V and VA includes, unless the contrary intention appears, the power to amend, vary, rescind, revoke or suspend such condition or restriction.
+68A\. For the avoidance of doubt, the power of the Medical Council to impose a condition or restriction under Parts 4, 5 and 5A includes, unless the contrary intention appears, the power to amend, vary, rescind, revoke or suspend such condition or restriction.
 
-[1/2010 wef 01/12/2010]
+[1/2010]
 
 ### Jurisdiction of court
 
 69\. A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of the offence.
 
-[57A
-
 [28/2000]
 
 ### Regulations
 
-70\.—(1) Subject to the provisions of this Act, the Medical Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+70\.—(1) Subject to the provisions of this Act, the Medical Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.
 
 (2) Without prejudice to the generality of subsection (1), the Medical Council may, with the approval of the Minister, make regulations —
 
@@ -2269,8 +2559,6 @@ whichever is the lower.
 (d) prescribing the procedure of any committee appointed by the Medical Council under this Act and the conduct of any proceedings by such committee;
 
 (e) enabling a Disciplinary Tribunal, the Health Committee and an Interim Orders Committee to order and give discovery and inspection of documents for the purpose of any proceedings before them;
-
-[1/2010 wef 01/12/2010]
 
 (f) regulating the professional practice, etiquette, conduct and discipline of registered medical practitioners;
 
@@ -2286,59 +2574,51 @@ whichever is the lower.
 
 (l) generally providing for such other matters as may be necessary or expedient for carrying out the provisions of this Act.
 
-[46/2002]
+[46/2002; 1/2010]
 
 (3) Regulations made under this Act may make different provision for different classes of persons and different circumstances.
-
-[58
 
 ### Amendment of Schedules
 
 71\. The Minister may, after consultation with the Medical Council, by order amend the First or Second Schedule.
 
-[59
+[1/2010]
 
-[1/2010 wef 01/12/2010]
-
-## PART IX
+## PART 9
 
 SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### Persons who are already registered
 
-72\.—(1) Every person who is registered under the provisions of the repealed Medical Registration Act (referred to in this Part as the repealed Act) immediately before 3rd April 1998 shall upon that date be deemed to be a registered medical practitioner under the provisions of this Act.
+72\.—(1) Every person who is registered under the provisions of the repealed Medical Registration Act (Cap. 174, 1985 Ed.) (referred to in this Part as the repealed Act) immediately before 3 April 1998 shall upon that date be deemed to be a registered medical practitioner under the provisions of this Act.
 
 (2) The Registrar shall —
 
-(a) transfer to Part I of the Register of Medical Practitioners the names, addresses, qualifications and any other particulars of all medical practitioners registered pursuant to section 9(1)(a) of the repealed Act which appear, immediately before 3rd April 1998, in the register kept under that Act;
+(a) transfer to Part I of the Register of Medical Practitioners the names, addresses, qualifications and any other particulars of all medical practitioners registered pursuant to section 9(1)(a) of the repealed Act which appear, immediately before 3 April 1998, in the register kept under that Act;
 
-(b) transfer to Part II of the Register of Medical Practitioners the names, addresses, qualifications and any other particulars of all medical practitioners registered pursuant to section 9(1)(b) and (c) of the repealed Act which appear, immediately before 3rd April 1998, in the register kept under that Act;
+(b) transfer to Part II of the Register of Medical Practitioners the names, addresses, qualifications and any other particulars of all medical practitioners registered pursuant to section 9(1)(b) and (c) of the repealed Act which appear, immediately before 3 April 1998, in the register kept under that Act;
 
-(c) transfer to the Register of Provisionally Registered Medical Practitioners the names, addresses, qualifications and any other particulars of all persons provisionally registered pursuant to section 13 of the repealed Act which appear, immediately before 3rd April 1998, in the Register of Provisional Medical Registration kept under that Act; and
+(c) transfer to the Register of Provisionally Registered Medical Practitioners the names, addresses, qualifications and any other particulars of all persons provisionally registered pursuant to section 13 of the repealed Act which appear, immediately before 3 April 1998, in the Register of Provisional Medical Registration kept under that Act; and
 
-(d) transfer to the Register of Temporarily Registered Medical Practitioners the names, addresses, qualifications and any other particulars of persons registered for a limited period pursuant to section 9(3) of the repealed Act which appear, immediately before 3rd April 1998, in the register kept under that Act.
+(d) transfer to the Register of Temporarily Registered Medical Practitioners the names, addresses, qualifications and any other particulars of persons registered for a limited period pursuant to section 9(3) of the repealed Act which appear, immediately before 3 April 1998, in the register kept under that Act.
 
 (3) In transferring the names under subsection (2), the Registrar may omit the names of any person known to the Registrar to be deceased.
 
 (4) Section 47 shall also apply to any person whose name was removed from or struck-off the register kept under the repealed Act.
 
-[61
-
 ### Pending disciplinary proceedings
 
-73\.—(1) This Act shall not apply to any inquiry, investigation or other proceedings of a disciplinary nature commenced before 3rd April 1998 and the repealed Act shall continue to apply to that inquiry, investigation or proceedings as if this Act had not been enacted.
+73\.—(1) This Act shall not apply to any inquiry, investigation or other proceedings of a disciplinary nature commenced before 3 April 1998 and the repealed Act shall continue to apply to that inquiry, investigation or proceedings as if this Act had not been enacted.
 
-(2) Where on 3rd April 1998 any matter is in the course of being investigated by the Preliminary Proceedings Committee, the Preliminary Proceedings Committee shall continue to exist to complete the investigation and may make such order, ruling or direction as it could have made under the powers conferred upon it by the repealed Act.
+(2) Where on 3 April 1998 any matter is in the course of being investigated by the Preliminary Proceedings Committee, the Preliminary Proceedings Committee shall continue to exist to complete the investigation and may make such order, ruling or direction as it could have made under the powers conferred upon it by the repealed Act.
 
 (3) Any order, ruling or direction made or given by the Medical Council pursuant to the repealed Act shall be treated as an order, a ruling or a direction under this Act and shall have the same force and effect as if it had been made or given by the Medical Council pursuant to the powers vested in the Medical Council under this Act.
 
 (4) Nothing in this section shall be taken as prejudicing section 16 of the Interpretation Act (Cap. 1).
 
-[62
-
 ### Term of office of member appointed or elected to take place of existing member
 
-74\.—(1) Notwithstanding section 4(2), a person appointed or elected after 24th January 2003 as a member of the Medical Council to take the place of a member of the Medical Council who was appointed or elected before that date and whose term of office has expired, shall hold office for a term that is determined by the Minister by order published in theGazette.
+74\.—(1) Notwithstanding section 4(2), a person appointed or elected after 24 January 2003 as a member of the Medical Council to take the place of a member of the Medical Council who was appointed or elected before that date and whose term of office has expired, shall hold office for a term that is determined by the Minister by order published in theGazette.
 
 [46/2002]
 
@@ -2348,11 +2628,11 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### Transitional provisions
 
-75\.—(1) A lay person who was appointed as a member of the Complaints Panel before 24th January 2003, and whose term has not expired by that date, shall be deemed, for the purposes of section 38(1)(c), to have been nominated by the Minister for such appointment and shall continue to be a member of the Complaints Panel until the date of expiry of that term.
+75\.—(1) A lay person who was appointed as a member of the Complaints Panel before 24 January 2003, and whose term has not expired by that date, shall be deemed, for the purposes of section 38(1)(c), to have been nominated by the Minister for such appointment and shall continue to be a member of the Complaints Panel until the date of expiry of that term.
 
 [46/2002]
 
-(2) Notwithstanding sections 20, 21 and 23, the Minister may, subject to such conditions as he may determine, by regulations exempt any person or person within a class of persons who, at any time on or before 24th January 2003, was engaged as a house officer, or in such other similar capacity as may be approved by the Medical Council, in a hospital or an institution approved by the Medical Council under section 25, from the requirement that he must —
+(2) Notwithstanding sections 20, 21 and 23, the Minister may, subject to such conditions as he may determine, by regulations exempt any person or person within a class of persons who, at any time on or before 24 January 2003, was engaged as a house officer, or in such other similar capacity as may be approved by the Medical Council, in a hospital or an institution approved by the Medical Council under section 25, from the requirement that he must —
 
 (a) in the case of section 20(1), hold a certificate of experience;
 
@@ -2394,7 +2674,7 @@ Doctor of Medicine of the Duke-NUS Graduate Medical School Singapore.
 
 Degree in medicine and surgery of the Lee Kong Chian School of Medicine, Nanyang Technological University — Imperial College London.
 
-[S 404/2014 wef 02/06/2014]
+[1/2010; S 404/2014]
 
 SECOND SCHEDULE
 
@@ -2642,7 +2922,7 @@ Hochschulabschluss
 
 4.
 
-Fachbereich Medizin, Johann Wolfgang Goethe-Universität Frankfurt am Main
+Fachbereich Medizin, Johann Wolfgang Goethe‑Universität Frankfurt am Main
 
 Zweiter Abschnitt der Ärztlichen Prüfung
 
@@ -2687,7 +2967,7 @@ MB BS
 
 4.
 
-[Deleted by S 521/2009 wef 30/10/2009]
+[Deleted by S 521/2009]
 
 5.
 
@@ -3464,17 +3744,7 @@ Warren Alpert Medical School of Brown University — formerly known as Brown Med
 
 Doctor of Medicine
 
-[S 404/2014 wef 02/06/2014]
-
-[S 455/2012 wef 15/09/2012]
-
-[S 521/2009 wef 30/10/2009]
-
-[1/2010 wef 01/12/2010]
-
-[S 455/2012 wef 01/11/2010]
-
-[S 183/2009 wef 29/04/2009]
+[1/2010; S 525/2007; S 183/2009; S 521/2009; S 455/2012; S 404/2014]
 
 ## LEGISLATIVE HISTORY
 
@@ -3545,13 +3815,15 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|15 September 2012|
 |19.|**G. N. No. S 404/2014—Medical Registration Act (Amendment of First and Second Schedules) Order 2014**|
 ||Date of commencement|2 June 2014|
+|20.|**2014 Revised Edition—Medical Registration Act (Chapter 174)**|
+||Date of operation|31 December 2014|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
 
 (CHAPTER 174)
 
-The following provisions in the 1998 Revised Edition of the Medical Registration Act have been renumbered by the Law Revision Commissioners in this 2004 Revised Edition.
+The following provisions in the 1998 Revised Edition of the Medical Registration Act were renumbered by the Law Revision Commissioners in the 2004 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Medical Registration Act.
 
@@ -3917,13 +4189,13 @@ Omitted — Spent
 
 74 
 
-(Taken from section 32 of Medical Registration (Amendment) Act 2002 (Act 46/2002)
+(Taken from section 32 of Medical Registration (Amendment) Act 2002 (Act 46/2002))
 
 —
 
 75 
 
-(Taken from section 33 of Medical Registration (Amendment) Act 2002 (Act 46/2002)
+(Taken from section 33 of Medical Registration (Amendment) Act 2002 (Act 46/2002))
 
 —
 
