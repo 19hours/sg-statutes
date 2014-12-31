@@ -2492,7 +2492,9 @@ Provisions applicable to the holding and payment of compensation by the Public T
 
 (a) take any step to trace or contact any entitled person for the purpose of making payment of the compensation moneys to him;
 
-(b) notwithstanding section 10(1) of the Public Trustee Act (Cap. 260) and rule 22 of the Public Trustee Rules (Cap. 260, R 1), invest any compensation moneys for the benefit of any entitled person;
+(b) notwithstanding section 10(1B) of the Public Trustee Act (Cap. 260) and rule 22 of the Public Trustee Rules (Cap. 260, R 1), invest any compensation moneys for the benefit of any entitled person;
+
+[Act 44 of 2014 wef 31/12/2014]
 
 (c) notwithstanding section 21 of the Public Trustee Act and rule 22 of the Public Trustee Rules, pay any interest on any compensation moneys to any entitled person.
 
@@ -2692,6 +2694,10 @@ The Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 repealed 
 ||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|7.|**Act 44 of 2014—Public Trustee (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 34/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|3 November 2014|
+||Date of commencement|31 December 2014|
 ## COMPARATIVE TABLE
 
 Deposit Insurance and Policy Owners’ Protection Schemes Act
