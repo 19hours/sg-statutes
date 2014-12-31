@@ -6,13 +6,13 @@
 
 [**Long Title**](#State-Immunity-Act)
 
-[**Part I PRELIMINARY**](#Part-I)
+[**Part 1 PRELIMINARY**](#Part-1)
 
 - [1 Short title and application](#Short-title-and-application)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II PROCEEDINGS IN SINGAPORE BY OR AGAINST OTHER STATES**](#Part-II)
+[**Part 2 PROCEEDINGS IN SINGAPORE BY OR AGAINST OTHER STATES**](#Part-2)
 
 [**Immunity from jurisdiction**](#Immunity-from-jurisdiction)
 
@@ -30,7 +30,7 @@
 
 - [8 Ownership, possession and use of property](#Ownership-possession-and-use-of-property)
 
-- [9 Patents, trademarks, etc.](#Patents-trademarks-etc)
+- [9 Patents, trade marks, etc.](#Patents-trade-marks-etc)
 
 - [10 Membership of bodies corporate, etc.](#Membership-of-bodies-corporate-etc)
 
@@ -46,7 +46,7 @@
 
 - [15 Other procedural privileges](#Other-procedural-privileges)
 
-[**Part III SUPPLEMENTARY PROVISIONS**](#Part-III)
+[**Part 3 SUPPLEMENTARY PROVISIONS**](#Part-3)
 
 - [16 States entitled to immunities and privileges](#States-entitled-to-immunities-and-privileges)
 
@@ -64,15 +64,15 @@
 
 (Original Enactment: Act 19 of 1979)
 
-REVISED EDITION 1985
+REVISED EDITION 2014
 
-(30th March 1987)
+(31st December 2014)
 
 An Act to make provision with respect to proceedings in Singapore by or against other States, and for purposes connected therewith.
 
 [26th October 1979]
 
-## PART I
+## PART 1
 
 PRELIMINARY
 
@@ -80,7 +80,7 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the State Immunity Act.
 
-(2) Subject to subsection (3), Part II does not apply to proceedings in respect of matters that occurred before the commencement of this Act and, in particular —
+(2) Subject to subsection (3), Part 2 does not apply to proceedings in respect of matters that occurred before the commencement of this Act and, in particular —
 
 (a) sections 4(2) and 15(3) do not apply to any prior agreement; and
 
@@ -102,11 +102,11 @@ entered into before that date.
 
 (2) In this Act —
 
-(a) references to an agreement in sections 4(2) and 15(3) include references to a treaty, convention or other international agreement;
+(a) references to an agreement in sections 4(2) and 15(3) include references to a treaty, convention or other international agreement; and
 
 (b) references to entry of appearance and judgments in default of appearance include references to any corresponding procedures.
 
-## PART II
+## PART 2
 
 PROCEEDINGS IN SINGAPORE BY OR AGAINST OTHER STATES
 
@@ -140,7 +140,7 @@ Exceptions from immunity
 
 (5) Subsection (3)(b) does not apply to any step taken by the State in ignorance of facts entitling it to immunity if those facts could not reasonably have been ascertained and immunity is claimed as soon as reasonably practicable.
 
-(6) A submission in respect of any proceedings extends to any appeal but not to any counter-claim unless it arises out of the same legal relationship or facts as the claim.
+(6) A submission in respect of any proceedings extends to any appeal but not to any counterclaim unless it arises out of the same legal relationship or facts as the claim.
 
 (7) The head of a State’s diplomatic mission in Singapore, or the person for the time being performing his functions, shall be deemed to have authority to submit on behalf of the State in respect of any proceedings; and any person who has entered into a contract on behalf of and with the authority of a State shall be deemed to have authority to submit on its behalf in respect of proceedings arising out of the contract.
 
@@ -156,7 +156,7 @@ but this subsection does not apply to a contract of employment between a State a
 
 (2) This section does not apply if the parties to the dispute are States or have otherwise agreed in writing; and subsection (1)(b) does not apply if the contract (not being a commercial transaction) was made in the territory of the State concerned and the obligation in question is governed by its administrative law.
 
-(3) In this section “commercial transaction” means —
+(3) In this section, “commercial transaction” means —
 
 (a) any contract for the supply of goods or services;
 
@@ -204,7 +204,7 @@ caused by an act or omission in Singapore.
 
 (3) The fact that a State has or claims an interest in any property shall not preclude any court from exercising in respect of it any jurisdiction relating to the estates of deceased persons or mentally disordered persons or to insolvency, the winding up of companies or the administration of trusts.
 
-[21/2008 wef 01/03/2010]
+[21/2008]
 
 (4) A court may entertain proceedings against a person other than a State notwithstanding that the proceedings relate to property —
 
@@ -214,13 +214,13 @@ caused by an act or omission in Singapore.
 
 if the State would not have been immune had the proceedings been brought against it or, in a case within paragraph (b), if the claim is neither admitted nor supported by prima facie evidence.
 
-### Patents, trademarks, etc.
+### Patents, trade marks, etc.
 
 9\. A State is not immune as respects proceedings relating to —
 
-(a) any patent, trademark or design belonging to the State and registered or protected in Singapore or for which the State has applied in Singapore;
+(a) any patent, trade mark or design belonging to the State and registered or protected in Singapore or for which the State has applied in Singapore;
 
-(b) an alleged infringement by the State in Singapore of any patent, trademark, design or copyright; or
+(b) an alleged infringement by the State in Singapore of any patent, trade mark, design or copyright; or
 
 (c) the right to use a trade or business name in Singapore.
 
@@ -258,15 +258,15 @@ being proceedings arising between the State and the body or its other members or
 
 if, at the time when the cause of action arose, the ship was in use or intended for use for commercial purposes.
 
-(3) Where an action in rem is brought against a ship belonging to a State for enforcing a claim in connection with another ship belonging to that State, subsection (2)(a) does not apply as respects the first-mentioned ship unless, at the time when the cause of action relating to the other ship arose, both ships were in use or intended for use for commercial purposes.
+(3) Where an action in rem is brought against a ship belonging to a State for enforcing a claim in connection with another ship belonging to that State, subsection (2)(a) does not apply as respects the first‑mentioned ship unless, at the time when the cause of action relating to the other ship arose, both ships were in use or intended for use for commercial purposes.
 
 (4) A State is not immune as respects —
 
 (a) an action in rem against a cargo belonging to that State if both the cargo and the ship carrying it were, at the time when the cause of action arose, in use or intended for use for commercial purposes; or
 
-(b) an action in personam for enforcing a claim in connection with such a cargo if the ship carrying it was then in use or intended for use as aforesaid.
+(b) an action in personam for enforcing a claim in connection with such a cargo if the ship carrying it was then in use or intended for use for commercial purposes.
 
-(5) In subsections (2) to (4) references to a ship or cargo belonging to a State include references to a ship or cargo in its possession or control or in which it claims an interest; and, subject to subsection (4), subsection (2) applies to property other than a ship as it applies to a ship.
+(5) In subsections (2), (3) and (4), references to a ship or cargo belonging to a State include references to a ship or cargo in its possession or control or in which it claims an interest; and, subject to subsection (4), subsection (2) applies to property other than a ship as it applies to a ship.
 
 ### Customs duties, etc.
 
@@ -274,31 +274,29 @@ if, at the time when the cause of action arose, the ship was in use or intended 
 
 (a) any customs duty or excise duty;
 
-[25/96 wef 16/08/1996]
-
 (aa) any goods and services tax; or
 
-[25/96 wef 16/08/1996]
-
 (b) any tax in respect of premises occupied by it for commercial purposes.
+
+[25/96]
 
 Procedure
 
 ### Service of process and judgments in default of appearance
 
-14\.—(1) Any writ or other document required to be served for instituting proceedings against a State shall be served by being transmitted through the Ministry of Foreign Affairs, Singapore, to the ministry of foreign affairs of the State and service shall be deemed to have been effected when the writ or document is received at that ministry.
+14\.—(1) Any writ or other document required to be served for instituting proceedings against a State shall be served by being transmitted through the Ministry of Foreign Affairs, Singapore, to the ministry of foreign affairs of that State, and service shall be deemed to have been effected when the writ or document is received at that ministry.
 
-(2) Any time for entering an appearance (whether prescribed by Rules of Court or otherwise) shall begin to run two months after the date on which the writ or document is received as aforesaid.
+(2) Any time for entering an appearance (whether prescribed by Rules of Court or otherwise) shall begin to run 2 months after the date on which the writ or document is so received.
 
 (3) A State which appears in proceedings cannot thereafter object that subsection (1) has not been complied with in the case of those proceedings.
 
 (4) No judgment in default of appearance shall be given against a State except on proof that subsection (1) has been complied with and that the time for entering an appearance as extended by subsection (2) has expired.
 
-(5) A copy of any judgment given against a State in default of appearance shall be transmitted through the Ministry of Foreign Affairs, Singapore, to the ministry of foreign affairs of that State and any time for applying to have the judgment set aside (whether prescribed by Rules of Court or otherwise) shall begin to run two months after the date on which the copy of the judgment is received at that ministry.
+(5) A copy of any judgment given against a State in default of appearance shall be transmitted through the Ministry of Foreign Affairs, Singapore, to the ministry of foreign affairs of that State and any time for applying to have the judgment set aside (whether prescribed by Rules of Court or otherwise) shall begin to run 2 months after the date on which the copy of the judgment is received at that ministry.
 
 (6) Subsection (1) does not prevent the service of a writ or other document in any manner to which the State has agreed and subsections (2) and (4) do not apply where service is effected in any such manner.
 
-(7) This section shall not be construed as applying to proceedings against a State by way of counter-claim or to an action in rem; and subsection (1) shall not be construed as affecting any Rules of Court whereby leave is required for the service of process outside the jurisdiction.
+(7) This section shall not be construed as applying to proceedings against a State by way of counterclaim or to an action in rem; and subsection (1) shall not be construed as affecting any Rules of Court whereby leave is required for the service of process outside the jurisdiction.
 
 ### Other procedural privileges
 
@@ -308,7 +306,7 @@ Procedure
 
 (a) relief shall not be given against a State by way of injunction or order for specific performance or for the recovery of land or other property; and
 
-(b) the property of a State shall not be subject to any process for the enforcement of a judgment or arbitration award or, in an action in rem, for its arrest, detention or sale.
+(b) the property of a State shall not be subject to any process for the enforcement of a judgment or an arbitration award or, in an action in rem, for its arrest, detention or sale.
 
 (3) Subsection (2) does not prevent the giving of any relief or the issue of any process with the written consent of the State concerned; and any such consent (which may be contained in a prior agreement) may be expressed so as to apply to a limited extent or generally; but a provision merely submitting to the jurisdiction of the courts is not to be regarded as a consent for the purposes of this subsection.
 
@@ -316,13 +314,13 @@ Procedure
 
 (5) The head of a State’s diplomatic mission in Singapore, or the person for the time being performing his functions, shall be deemed to have authority to give on behalf of the State any such consent as is mentioned in subsection (3) and, for the purposes of subsection (4), his certificate to the effect that any property is not in use or intended for use by or on behalf of the State for commercial purposes shall be accepted as sufficient evidence of that fact unless the contrary is proved.
 
-## PART III
+## PART 3
 
 SUPPLEMENTARY PROVISIONS
 
 ### States entitled to immunities and privileges
 
-16\.—(1) The immunities and privileges conferred by Part II apply to any foreign or Commonwealth State other than Singapore; and references to a State include references to —
+16\.—(1) The immunities and privileges conferred by Part 2 apply to any foreign or Commonwealth State other than Singapore; and references to a State include references to —
 
 (a) the sovereign or other head of that State in his public capacity;
 
@@ -340,15 +338,15 @@ but not to any entity (referred to in this section as a separate entity) which i
 
 (3) If a separate entity (not being a State’s central bank or other monetary authority) submits to the jurisdiction in respect of proceedings in the case of which it is entitled to immunity by virtue of subsection (2), section 15(1) to (4) shall apply to it in respect of those proceedings as if references to a State were references to that entity.
 
-(4) Property of a State’s central bank or other monetary authority shall not be regarded for the purposes of section 15(4) as in use or intended for use for commercial purposes; and where any such bank or authority is a separate entity section 15(1) to (3) shall apply to it as if references to a State were references to the bank or authority.
+(4) Property of a State’s central bank or other monetary authority shall not be regarded for the purposes of section 15(4) as in use or intended for use for commercial purposes; and where any such bank or authority is a separate entity, section 15(1), (2) and (3) shall apply to it as if references to a State were references to the bank or authority.
 
 (5) Section 14 applies to proceedings against the constituent territories of a federal State; and the President may by order provide for the other provisions of this Part to apply to any such constituent territory specified in the order as they apply to a State.
 
-(6) Where the provisions of Part II do not apply to a constituent territory by virtue of any such order subsections (2) and (3) shall apply to it as if it were a separate entity.
+(6) Where the provisions of Part 2 do not apply to a constituent territory by virtue of any such order, subsections (2) and (3) shall apply to it as if it were a separate entity.
 
 ### Restriction and extension of immunities and privileges
 
-17\. If it appears to the President that the immunities and privileges conferred by Part II in relation to any State —
+17\. If it appears to the President that the immunities and privileges conferred by Part 2 in relation to any State —
 
 (a) exceed those accorded by the law of that State in relation to Singapore; or
 
@@ -360,17 +358,17 @@ the President may, by order, provide for restricting or, as the case may be, ext
 
 18\. A certificate by or on behalf of the Minister for Foreign Affairs shall be conclusive evidence on any question —
 
-(a) whether any country is a State for the purposes of Part II, whether any territory is a constituent territory of a federal State for those purposes or as to the person or persons to be regarded for those purposes as the head or government of a State;
+(a) whether any country is a State for the purposes of Part 2, whether any territory is a constituent territory of a federal State for those purposes or as to the person or persons to be regarded for those purposes as the head or government of a State; and
 
 (b) whether, and if so when, a document has been served or received as mentioned in section 14(1) or (5).
 
 ### Excluded matters
 
-19\.—(1) Part II does not affect any immunity or privilege applicable in Singapore to diplomatic and consular agents, and section 8(1) does not apply to proceedings concerning a State’s title to or its possession of property used for the purposes of a diplomatic mission.
+19\.—(1) Part 2 does not affect any immunity or privilege applicable in Singapore to diplomatic and consular agents, and section 8(1) does not apply to proceedings concerning a State’s title to or its possession of property used for the purposes of a diplomatic mission.
 
-(2) Part II does not apply to —
+(2) Part 2 does not apply to —
 
-(a) proceedings relating to anything done by or in relation to the armed forces of a State while present in Singapore and, in particular, has effect subject to the Visiting Forces Act [Cap. 344];
+(a) proceedings relating to anything done by or in relation to the armed forces of a State while present in Singapore and, in particular, has effect subject to the Visiting Forces Act (Cap. 344);
 
 (b) criminal proceedings; and
 
@@ -388,20 +386,22 @@ This Legislative History is provided for the convenience of users of the State I
 |:-|:-|:-|
 |1.|**Act 19 of 1979—State Immunity Act 1979**|
 ||Date of First Reading|15 May 1979|
-|||(Bill No. 20/1979 published on 18 May 1979)|
+|||(Bill No. 20/79)|
 ||Date of Second and Third Readings|7 September 1979|
 ||Date of commencement|26 October 1979|
-|2.|**1985 Revised Edition—State Immunity Act**|
+|2.|**1985 Revised Edition—State Immunity Act (Chapter 313)**|
 ||Date of operation|30 March 1987|
 |3.|**Act 25 of 1996—Goods and Services Tax (Amendment) Act 1996**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 May 1996|
-|||(Bill No. 15/1996 published on 22 May 1996)|
+|||(Bill No. 15/96)|
 ||Date of Second and Third Readings|12 July 1996|
-||Date of commencement|16 August 1996 (Section 18 –– Amendments of State Immunity Act)|
+||Date of commencement|16 August 1996 (section 18 –– amendment of State Immunity Act)|
 |4.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
-||(Consequential amendments made to Act by)||
+||(Consequential and related amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
-|||(Bill No. 11/2008 published on 22 July 2008|
+|||(Bill No. 11/2008)|
 ||Date of Second and Third Readings|16 September 2008|
-||Date of commencement|1 March 2010 (Item (48) of the Second Schedule –– Amendment State Immunity Act)|
+||Date of commencement|1 March 2010 (item 1(48) of the Second Schedule — amendment of State Immunity Act)|
+|5.|**2014 Revised Edition—State Immunity Act (Chapter 313)**|
+||Date of operation|31 December 2014|
