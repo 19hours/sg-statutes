@@ -266,7 +266,7 @@
 
 - [88 Regulations](#Regulations)
 
-- [89 Rules of Court](#Rules-of-Court)
+- [89 Family Justice Rules](#Family-Justice-Rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -2892,9 +2892,21 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 [20/2001]
 
-### Rules of Court
+### Family Justice Rules
 
-89\. Rules of Court may be made by the Chief Justice for regulating the procedure and practice in Juvenile Courts.
+89\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
+
+(a) to regulate and prescribe the procedure and practice to be followed in the Youth Courts; and
+
+(b) to provide for any matter relating to any such procedure or practice.
+
+(2) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+(3) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 27 of 2014 wef 01/01/2015]
+
+[86
 
 ## LEGISLATIVE HISTORY
 
@@ -2967,6 +2979,12 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|12.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
