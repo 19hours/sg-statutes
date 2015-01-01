@@ -168,7 +168,7 @@
 
 - [57 Allowance for duty paid for certain instruments](#Allowance-for-duty-paid-for-certain-instruments)
 
-- [58 Allowance for duty paid or overpaid for misused stamp certificates](#Allowance-for-duty-paid-or-overpaid-for-misused-stamp-certificates)
+- [58 Allowance for duty paid or overpaid](#Allowance-for-duty-paid-or-overpaid)
 
 - [59 (Repealed)](#Repealed)
 
@@ -556,7 +556,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 ### Relief from ad valorem stamp duty
 
-15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
+15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 1st July 2000 for the purposes of or in connection with —
 
 (a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
 
@@ -572,9 +572,23 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [23/2011 wef 20/02/2010]
 
+[Act 30 of 2014 wef 01/01/2015]
+
 (1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19th February 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
 
 [23/2011 wef 19/02/2011]
+
+(1B) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Article 3(bd) and (be) in the First Schedule shall not be chargeable on any instrument executed on or after 12 January 2013 for the purposes of or in connection with —
+
+(a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
+
+(b) the transfer, conveyance or assignment of any beneficial interest in any asset between such entities that are associated in such manner as may be prescribed;
+
+(c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act (Cap. 163A); or
+
+(d) the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act.
+
+[Act 30 of 2014 wef 01/01/2015]
 
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
@@ -596,15 +610,17 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [28/2010 wef 09/12/2010]
 
-(ii) be recoverable from that entity as a debt due to the Government, together with interest thereon at the rate of 6% per annum —
+(ii) be recoverable from that entity as a debt due to the Government, together with interest on the amount at the rate of 6% per annum —
 
-(A) if the instrument is executed by any person in Singapore, from the date of its execution; or
+(A) in a case where duty was paid on the instrument and then refunded after a claim for relief was allowed under this section, from the date on which the refund was made; or
 
-(B) if the instrument is executed outside Singapore, from the date the instrument is first received in Singapore.
+(B) in any other case —
 
-[28/2010 wef 09/12/2010]
+(BA) if the instrument is executed by any person in Singapore, from the date of its execution; or
 
-[23/2011 wef 19/02/2011]
+(BB) if the instrument is executed outside Singapore, from the date the instrument is first received in Singapore.
+
+[Act 30 of 2014 wef 01/01/2015]
 
 (3A) The amount recoverable under subsection (3) shall be payable at the place stated in a notice served by the Commissioner on the entity, within one month after the service of the notice by the Commissioner on that entity.
 
@@ -744,7 +760,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (11) Where an acquiring company or an acquiring subsidiary has paid ad valorem stamp duty on a qualifying acquisition of ordinary shares in a target company (referred to in this subsection as a relevant qualifying acquisition), the acquiring company may apply under section 75 for a refund of the duty so paid in relation to the relevant qualifying acquisition; and section 75 shall apply with the following modifications:
 
-(a) where the qualifying period is the period referred to in subsection (4)(a), the reference to the date of the overpayment in section 75(2) shall be read as a reference to —
+(a) where the qualifying period is the period referred to in subsection (4)(a), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to —
 
 (i) the date of the relevant qualifying acquisition; or
 
@@ -752,11 +768,17 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 whichever is the later;
 
-(b) where the qualifying period is the period referred to in subsection (4)(b), the reference to the date of the overpayment in section 75(2) shall be read as a reference to the last day of the financial year that is replaced by the prescribed period elected under subsection (4)(b);
+[Act 30 of 2014 wef 01/01/2015]
 
-(c) where the qualifying period is the period referred to in subsection (4)(c), the reference to the date of the overpayment in section 75(2) shall be read as a reference to the date of lodgment of the return of income by the acquiring company under section 37L(6) of the Income Tax Act.
+(b) where the qualifying period is the period referred to in subsection (4)(b), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to the last day of the financial year that is replaced by the prescribed period elected under subsection (4)(b);
+
+[Act 30 of 2014 wef 01/01/2015]
+
+(c) where the qualifying period is the period referred to in subsection (4)(c), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to the date of lodgment of the return of income by the acquiring company under section 37L(6) of the Income Tax Act.
 
 [23/2011 wef 01/04/2010]
+
+[Act 30 of 2014 wef 01/01/2015]
 
 (11A) Where, as a result of a change in the qualifying period pursuant to subsection (4)(b) or (c), a qualifying acquisition ceases to be a qualifying acquisition, the ad valorem stamp duty on the instrument for the acquisition shall be payable to the Commissioner in such manner and within such time after such cessation as the Commissioner may specify, together with interest referred to in subsection (13), by —
 
@@ -780,27 +802,35 @@ the claim shall be deemed to have been disallowed and an amount equal to the amo
 
 (A) become payable by the acquiring company to the Commissioner immediately; and
 
-(B) be recoverable together with interest referred to in subsection (13) from the acquiring company as a debt due to the Government; and
+(B) be recoverable together with interest referred to in subsection (13A) from the acquiring company as a debt due to the Government; and
+
+[Act 30 of 2014 wef 01/01/2015]
 
 (ii) in a case where the ordinary shares in the target company are acquired by the acquiring subsidiary under the instrument —
 
 (A) become payable by the acquiring company and the acquiring subsidiary, on a joint and several basis, to the Commissioner immediately; and
 
-(B) be recoverable together with interest referred to in subsection (13) from the acquiring company and the acquiring subsidiary, on a joint and several basis, as a debt due to the Government.
+(B) be recoverable together with interest referred to in subsection (13A) from the acquiring company and the acquiring subsidiary, on a joint and several basis, as a debt due to the Government.
 
 [23/2011 wef 01/04/2010]
 
-(13) Interest referred to in this section shall accrue as follows:
+[Act 30 of 2014 wef 01/01/2015]
 
-(a) in the case of subsection (11A), on the amount of duty referred to therein at the rate of 6% per annum after the expiry of the period in which the duty must be paid to the Commissioner; and
+(13) Interest referred to in subsection (11A) shall accrue on the amount of duty referred to in that subsection at the rate of 6% per annum after the expiry of the period in which the duty must be paid to the Commissioner.
 
-(b) in the case of subsection (12), on the amount of relief referred to therein at the rate of 6% per annum —
+[Act 30 of 2014 wef 01/01/2015]
+
+(13A) Interest referred to in subsection (12) shall accrue on the amount of relief referred to in that subsection at the rate of 6% per annum —
+
+(a) in a case where duty was paid on the instrument and then refunded after a claim for relief was allowed under this section, from the date on which the refund was made; or
+
+(b) in any other case —
 
 (i) if the instrument is executed by any person in Singapore, from the date of its execution; or
 
 (ii) if the instrument is executed outside Singapore, from the date the instrument is first received in Singapore.
 
-[23/2011 wef 01/04/2010]
+[Act 30 of 2014 wef 01/01/2015]
 
 (14) The amount recoverable under subsection (12) shall be payable at the place stated in a notice served by the Commissioner on the acquiring company, or the acquiring company and the acquiring subsidiary, as the case may be, within one month after the service of the notice by the Commissioner on the acquiring company, or the acquiring company and the acquiring subsidiary, as the case may be.
 
@@ -1074,9 +1104,11 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 [23/2011 wef 01/01/2012]
 
-(b) in the case of an executed instrument, the instrument is given up to be cancelled.
+(b) in the case of an executed instrument, the instrument is surrendered to the Commissioner, unless the Commissioner dispenses with such surrender in a particular case.
 
 [26/96; 33/99]
+
+[Act 30 of 2014 wef 01/01/2015]
 
 (8) Subject to the provisions of this Act, this section shall apply to instruments made on or after 15th May 1996.
 
@@ -2022,13 +2054,15 @@ ALLOWANCE FOR DUTY PAID OR OVERPAID IN CERTAIN CASES
 
 [Act 1 of 2013 wef 22/02/2013]
 
-(b) in the case of an executed instrument no legal proceeding has been commenced in which the instrument could or would have been given or offered in evidence, and that the instrument is given up to be cancelled.
+(b) in the case of an executed instrument no legal proceeding has been commenced in which the instrument could or would have been given or offered in evidence, and that the instrument is surrendered to the Commissioner, unless the Commissioner dispenses with such surrender in a particular case.
 
 [38/75]
 
+[Act 30 of 2014 wef 01/01/2015]
+
 (3) [Deleted by Act 1 of 2013 wef 22/02/2013]
 
-### Allowance for duty paid or overpaid for misused stamp certificates
+### Allowance for duty paid or overpaid
 
 58\.—(1) When any person —
 
@@ -2040,15 +2074,29 @@ and has been issued with a stamp certificate denoting the duty so paid in respec
 
 (i) on an application made within 6 months after the date of the instrument; or
 
-(ii) if the instrument is not dated, within 6 months after the execution thereof by the person by whom it was first or alone executed,
+(ii) if the instrument is not dated, on an application made within 6 months after the execution thereof by the person by whom it was first or alone executed,
+
+[Act 30 of 2014 wef 01/01/2015]
 
 and upon the instrument, if liable to duty, being stamped with the proper duty, cancel that certificate and make an allowance for the duty overpaid or paid (as the case may be).
 
 [Act 1 of 2013 wef 22/02/2013]
 
+[Act 30 of 2014 wef 01/01/2015]
+
 (2) When as a result of unavoidable circumstances an application under subsection (1) cannot be made within the period of 6 months, the Commissioner may, in his discretion, allow the application to be made within such further period as the Commissioner considers reasonable.
 
 [4/81]
+
+(3) Notwithstanding subsection (1), where the Commissioner has reasonable cause to believe that a person —
+
+(a) has inadvertently paid duty of a greater value than was necessary; or
+
+(b) has inadvertently paid duty in respect of an instrument not liable to any duty,
+
+the Commissioner may, on his own initiative, make an allowance for the duty overpaid or paid (as the case may be).
+
+[Act 30 of 2014 wef 01/01/2015]
 
 59\. [Repealed by Act 33/1999 wef 09/01/2012]
 
@@ -2462,9 +2510,15 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 ### Refund and repayment of duty
 
-75\.—(1) The Commissioner may, if he is satisfied that any money has been overpaid as duty under this Act, certify the amount to be refunded and shall cause the refund to be made immediately.
+75\.—(1) The Commissioner may certify any amount of money to be refunded and cause the refund to be made immediately under any of the following circumstances:
 
-(2) No refund under subsection (1) shall be made unless a claim in respect thereof is lodged with the Commissioner within 6 months from the date of the overpayment or within such period as the Commissioner may, in his discretion, allow.
+(a) a claim that the amount of money has been overpaid as duty under this Act is lodged with the Commissioner within 6 months after the date of the overpayment or within such longer period as the Commissioner may, in his discretion allow, and the Commissioner is satisfied that the money has been overpaid as duty under this Act;
+
+(b) the Commissioner has reasonable cause to believe in any particular case that the amount of money has been overpaid as duty under this Act.
+
+[Act 30 of 2014 wef 01/01/2015]
+
+(2) [Deleted by Act 30 of 2014 wef 01/01/2015]
 
 (3) Without prejudice to any other remedy provided for under the provisions of this Act for the recovery of any duty, where, for any reason, the whole or any part of any duty, after having been paid, has been erroneously refunded, the person to whom such refund was erroneously made, shall repay the amount refunded to him in excess, within 15 days of his receiving a demand therefor from the Commissioner.
 
@@ -4194,6 +4248,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 January 2014|
 |70.|**G.N. No. S 96/2014—Stamp Duties Act (Amendment of First Schedule) Notification 2014**|
 ||Date of commencement|22 February 2014|
+|71.|**Act 30 of 2014—Stamp Duties (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 27/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
