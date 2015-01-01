@@ -34,6 +34,8 @@
 
 - [10 Meaning of "supply"](#Meaning-of-"supply")
 
+- [10A Making of supply: bare trustees](#Making-of-supply:-bare-trustees)
+
 - [11 Time of supply: general provisions](#Time-of-supply:-general-provisions)
 
 - [11A Time of supply: exceptions to section 11(2) and (3)](#Time-of-supply:-exceptions-to-section-112-and-3)
@@ -68,7 +70,7 @@
 
 - [21A Zero-rating of supply of certain tools, machinery and prototypes](#Zero-rating-of-supply-of-certain-tools-machinery-and-prototypes)
 
-- [21B Zero-rating of supplies relating to goods to approved taxable person in shipping or marine industry](#Zero-rating-of-supplies-relating-to-goods-to-approved-taxable-person-in-shipping-or-marine-industry)
+- [21B Zero-rating of sale or letting on hire of goods to approved taxable person in shipping or marine industry](#Zero-rating-of-sale-or-letting-on-hire-of-goods-to-approved-taxable-person-in-shipping-or-marine-industry)
 
 - [21C Zero-rating of grant or assignment of lease, tenancy or licence to occupy land](#Zero-rating-of-grant-or-assignment-of-lease-tenancy-or-licence-to-occupy-land)
 
@@ -101,6 +103,8 @@
 - [33 Agents](#Agents)
 
 - [33A Repayment of tax to persons in business overseas](#Repayment-of-tax-to-persons-in-business-overseas)
+
+- [33B Claiming of input tax on import of processed goods](#Claiming-of-input-tax-on-import-of-processed-goods)
 
 - [34 Transfers of going concerns](#Transfers-of-going-concerns)
 
@@ -268,6 +272,8 @@
 
 [**Comparative Table**](#Comparative-Table)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Goods and Services Tax Act
 
 (CHAPTER 117A)
@@ -299,6 +305,20 @@ PRELIMINARY
 “authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
 
 “authorised person” means any person acting under the authority of the Comptroller;
+
+“bare trustee” means a trustee who —
+
+(a) holds any goods, intellectual property rights or licence to use any intellectual property rights, on trust for the business of —
+
+(i) persons carrying on the business in partnership; or
+
+(ii) a person that is a club, an association, a society or an organisation;
+
+(b) has no interest in the goods, rights or licence other than that by reason of the office and legal title as trustee; and
+
+(c) has no duty to perform in relation to the goods, rights or licence, other than to act in accordance with instructions given by the persons or person, as the case may be, for any supply relating to the goods, rights or licence;
+
+[Act 31 of 2014 wef 01/01/2015]
 
 “Board” means the Goods and Services Tax Board of Review established under section 50;
 
@@ -557,6 +577,12 @@ IMPOSITION AND EXTENT OF TAX
 (5) For the purposes of this section, where goods are manufactured or produced from any other goods, those other goods shall be treated as incorporated in the first-mentioned goods.
 
 [UK VAT Act 1983, s. 3]
+
+### Making of supply: bare trustees
+
+10A\. For the purposes of this Act, any supply made by a bare trustee relating to any goods, intellectual property rights or licence to use any intellectual property rights held by the bare trustee, is to be treated as a supply made by the persons or person for whose business the bare trustee holds the goods, rights or licence.
+
+[Act 31 of 2014 wef 01/01/2015]
 
 ### Time of supply: general provisions
 
@@ -1048,6 +1074,10 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 
 [UK VAT Act 1983, s. 14]
 
+(14A) For the purposes of this section, where a supply of any goods or intellectual property rights is made by way of a sale, lease or licence of any interest in or right over the goods or intellectual property rights to a bare trustee (with such interest or right to be held as a bare trustee), the supply to the bare trustee is to be treated as a supply made to the persons or person for whose business the bare trustee holds the interest or right.
+
+[Act 31 of 2014 wef 01/01/2015]
+
 (15) In this section —
 
 “initial specified period” means a period of 12 months from the due date for payment of the consideration or the part thereof, as the case may be, by the taxable person to his supplier;
@@ -1424,7 +1454,7 @@ and in either case, if such other conditions or restrictions, if any, as may be 
 
 [20/2010 wef 01/01/2011]
 
-(6A) Subject to subsection (6B), a supply relating to goods is zero-rated where the Comptroller is satisfied that the goods are —
+(6A) Subject to subsection (6B), a sale or letting on hire of goods is zero-rated where the Comptroller is satisfied that the goods are —
 
 (a) for use as stores or fuel on a ship;
 
@@ -1438,9 +1468,13 @@ and, in any of those cases, if such other conditions or restrictions, if any, as
 
 [20/2010 wef 01/01/2011]
 
-(6B) Where there is a supply relating to goods referred to in subsection (6A) in relation to any ship which is designed or adapted for use for recreation or pleasure, the supply is zero-rated under that subsection only if the Comptroller is satisfied that the goods are used outside of Singapore.
+[Act 31 of 2014 wef 01/01/2015]
+
+(6B) Where there is a sale or letting on hire of goods referred to in subsection (6A) in relation to any ship which is designed or adapted for use for recreation or pleasure, the supply is zero-rated under that subsection only if the Comptroller is satisfied that the goods are used outside of Singapore.
 
 [20/2010 wef 01/01/2011]
+
+[Act 31 of 2014 wef 01/01/2015]
 
 (7) The Minister may by regulations provide for the zero-rating of supplies of goods, or of such goods as may be specified in the regulations, in cases where the Comptroller is satisfied that the goods have been or are to be exported and such other conditions, if any, as may be specified in the regulations or as the Comptroller may impose are fulfilled.
 
@@ -1494,9 +1528,11 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 [28/2007 wef 01/07/2007]
 
-### Zero-rating of supplies relating to goods to approved taxable person in shipping or marine industry
+### Zero-rating of sale or letting on hire of goods to approved taxable person in shipping or marine industry
 
-21B\.—(1) The Minister may by regulations, in relation to a supply relating to goods for a prescribed purpose made by any taxable person to a taxable person in the shipping or marine industry who is approved by the Comptroller, permit the supply to be zero-rated.
+21B\.—(1) The Minister may by regulations, in relation to a sale or letting on hire of goods for a prescribed purpose made by any taxable person to a taxable person in the shipping or marine industry who is approved by the Comptroller, permit the supply to be zero-rated.
+
+[Act 31 of 2014 wef 01/01/2015]
 
 (2) Where a supply by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1516,7 +1552,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 [24/2011 wef 01/01/2012]
 
-(5) [Deleted by Act 19/2012 wef 01/10/2012]
+(5) [Deleted by Act 19/2012 wef 01/10/2012][Act 31 of 2014 wef 01/01/2015]
 
 ### Zero-rating of grant or assignment of lease, tenancy or licence to occupy land
 
@@ -1726,9 +1762,15 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (2) Regulations made under subsection (1) may —
 
-(a) provide that goods imported by a taxable person in the course or furtherance of any business carried on by him (as referred to in subsection (1)(a)) may, where such requirements as may be prescribed are satisfied, include imported goods which are consigned to the taxable person as recipient in order for the taxable person to make supplies (other than supplies referred to in section 22) using or in relation to those goods;
+(a) provide that goods imported by a taxable person in the course or furtherance of any business carried on by the taxable person (as referred to in subsection (1)(a)) may, subject to such requirements (including conditions, whether precedent or subsequent) as may be prescribed, include —
+
+(i) imported goods which are consigned to the taxable person as recipient in order for the taxable person to make supplies using or in relation to those goods, other than supplies referred to in section 22; or
+
+(ii) goods which are imported in the circumstances referred to in section 33B;
 
 [24/2011 wef 01/01/2012]
+
+[Act 31 of 2014 wef 01/01/2015]
 
 (aa) require a taxable person referred to in that subsection to account for the tax chargeable on the importation or supply of the goods in such form and manner and within such time as may be prescribed, notwithstanding such tax is not payable; and
 
@@ -1760,7 +1802,13 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (2) Regulations made under subsection (1) may —
 
-(a) provide that goods imported by a taxable person in the course or furtherance of any business carried on by him (as referred to in subsection (1)) may, where such requirements as may be prescribed are satisfied, include imported goods which are consigned to the taxable person as recipient in order for the taxable person to make supplies (other than supplies referred to in section 22) using or in relation to those goods; and
+(a) provide that goods imported by a taxable person in the course or furtherance of any business carried on by the taxable person (as referred to in subsection (1)) may, subject to such requirements (including conditions, whether precedent or subsequent) as may be prescribed, include —
+
+(i) imported goods which are consigned to the taxable person as recipient in order for the taxable person to make supplies using or in relation to those goods, other than supplies referred to in section 22; or
+
+(ii) goods which are imported in the circumstances referred to in section 33B; and
+
+[Act 31 of 2014 wef 01/01/2015]
 
 (b) require a taxable person referred to in subsection (1) to account for and pay the tax chargeable on the importation of the goods in such form and manner, within such time and to such person as may be prescribed.
 
@@ -1985,6 +2033,48 @@ SPECIAL CASES
 [UK VAT Act 1994, s. 39]
 
 [25/96]
+
+### Claiming of input tax on import of processed goods
+
+33B\.—(1) The Minister may by regulations make provision for a taxable person to claim any tax paid or payable by the taxable person on the importation of goods as input tax under section 19 (as if the whole of the input tax were allowable under section 20), where the importation occurs in the following circumstances:
+
+(a) the taxable person makes a supply to his customer who is —
+
+(i) a person who belongs in Singapore; or
+
+(ii) a taxable person who does not belong in Singapore;
+
+(b) the supply comprises the application of any process to, or the carrying out of any process on, goods which the taxable person’s customer consigns to the taxable person in Singapore;
+
+(c) in connection with the supply, the taxable person removes the goods to a country outside Singapore for a process to be applied to or carried out on the goods; and
+
+(d) the taxable person then imports the goods back into Singapore after the process in paragraph (c) has been applied to or carried out on the goods.
+
+(2) Regulations made under subsection (1) may —
+
+(a) prescribe the conditions (including conditions subsequent) to which a claim for the deduction of an amount of tax pursuant to that subsection is subject; and
+
+(b) require the taxable person to repay to the Comptroller, if any such condition is not satisfied, the amount of tax allowed to the taxable person in such form and manner, and in such time, as may be prescribed.
+
+(3) The Comptroller may, for the protection of revenue, impose conditions or restrictions in relation to any claim referred to in subsection (1).
+
+(4) In this section, “process”, in relation to goods, includes (but is not limited to) any treatment.
+
+(5) For the purposes of this section, the customer is treated as belonging in Singapore if the customer —
+
+(a) has in Singapore a business establishment or some other fixed establishment and no such establishment elsewhere;
+
+(b) has no such establishment in any country but his usual place of residence is in Singapore; or
+
+(c) has such establishments both in Singapore and elsewhere and among which the establishment of the customer that is most directly concerned with the supply referred to in subsection (1) being made to him, is in Singapore.
+
+(6) For the purposes of subsection (5) —
+
+(a) a customer carrying on a business through a branch or an agency in any country is to be treated as having a business establishment there; and
+
+(b) “usual place of residence”, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted.
+
+[Act 31 of 2014 wef 01/01/2015]
 
 ### Transfers of going concerns
 
@@ -4566,9 +4656,17 @@ by the other person in or towards satisfaction of a debt owed by the taxable per
 
 (2) In the application of those paragraphs by virtue of sub-paragraph (1), references to transfer, disposition or sale shall have effect as references to the grant or assignment of any interest in, right over or licence to occupy the land concerned.
 
-(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5 by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
+(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5(1) by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
 
 [UK VAT Act 1983, Sch. 2]
+
+9. In paragraphs 5 and 7 —
+
+(a) a reference to a person carrying on a business includes a reference to any persons or person, as the case may be, carrying on a business for which a bare trustee holds any goods; and
+
+(b) a reference to goods forming part of the assets of the business carried on by a person includes a reference to goods held by a bare trustee for the business of the persons or person, as the case may be.
+
+[Act 31 of 2014 wef 01/01/2015]
 
 THIRD SCHEDULE
 
@@ -4782,7 +4880,9 @@ Finance
 
 (a) the operation of any current, deposit or savings account;
 
-(b) the exchange or grant of an option for the exchange of currency (whether effected by the exchange of bank notes, currency notes or coin, by crediting or debiting accounts, or otherwise) other than the supply of a note or a coin as a collector’s item, investment article or item of numismatic interest;
+(b) the exchange of currency (whether effected by the exchange of bank notes, currency notes or coin, by crediting or debiting accounts, or otherwise) other than the supply of a note or a coin as a collector’s item, investment article or item of numismatic interest;
+
+[S 852/2012 wef 01/01/2015]
 
 (c) any supply by a person carrying on a credit card, charge card or similar payment card operation made directly in connection with that operation to a person who accepts the card used in the operation when presented to him in payment for goods or services;
 
@@ -4798,7 +4898,9 @@ Finance
 
 (i) the transfer or assignment of the provision of the facility of instalment credit finance in a hire-purchase agreement;
 
-(j) the grant of a right or option relating to an obligation to pay interest or the exchange or grant of an option for the exchange of obligations to pay interest;
+(j) the provision or assignment of a derivative that does not lead to any delivery of goods or supply of taxable services;
+
+[S 852/2012 wef 01/01/2015]
 
 (k) the renewal or variation of a debt security, equity security or contract for the provision of any loan, advance or credit;
 
@@ -4808,11 +4910,13 @@ Finance
 
 [S 391/2009 wef 01/09/2009]
 
-(m) the provision or assignment of any futures contract including a futures option transaction which does not lead to a delivery of any goods from the seller to the buyer;
+(m) [Deleted by S 852/2014 wef 01/01/2015]
 
-(n) the provision or assignment of any option or contract for the sale of any unallocated commodity which does not lead to a delivery of the commodity from the seller to the buyer;
+(n) the provision or assignment of any contract for the sale of any unallocated commodity which does not lead to a delivery of the commodity from the seller to the buyer;
 
-(o) the grant of a right or option to acquire any unallocated commodity where the right is exercisable at a future date and any sale resulting from the exercise of the right would be a sale which does not lead to a delivery of the commodity from the seller to the buyer;
+[S 852/2012 wef 01/01/2015]
+
+(o) [Deleted by S 852/2014 wef 01/01/2015]
 
 (p) the issue or transfer of ownership of a unit under any unit trust or business trust;
 
@@ -4992,6 +5096,10 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 “debt security” means any interest in or right to be paid money that is, or is to be, owing by any person or any option to acquire any such interest or right but excludes a contract of insurance and an estate or interest in land, other than an estate or interest as mortgagee or chargeholder;
 
+“derivative” means any financial instrument that derives its value from an underlying financial asset, index or other investment, and includes options, swaps and credit default swaps;
+
+[S 852/2012 wef 01/01/2015]
+
 “effective return” means —
 
 (a) in the case of a qualifying Islamic financial arrangement in relation to non-residential property in the circumstances described in paragraph (a)(ii)(A) of the definition of that arrangement, the difference between the price of the non-residential property sold by the provider of the financing to the purchaser over the cost of the non-residential property bought by the provider of the financing;
@@ -5036,7 +5144,7 @@ and the money provided by the provider of the financing for the joint purchase o
 
 (b) the immovable properties are leased by the special purpose vehicle to the originator; and
 
-(c) the immovable properties, or all or part of the beneficial interest therein referred to in paragraph (a), re-acquired by the originator upon the maturity of the Islamic debt securities;
+(c) the immovable properties, or all or part of the beneficial interest therein referred to in paragraph (a), are re-acquired by the originator upon the maturity of the Islamic debt securities;
 
 [S 567/2010 wef 01/10/2010]
 
@@ -5208,9 +5316,11 @@ Application
 
 [Act 19/2012 wef 01/10/2012]
 
-(2) Paragraph 1(m), (n) and (o) of Part I shall not apply to any supply which section 37 provides are to be disregarded for the purposes of this Act.
+(2) Paragraph 1(j) and (n) of Part I shall not apply to any supply which section 37 provides are to be disregarded for the purposes of this Act.
 
 [Act 19/2012 wef 01/10/2012]
+
+[S 852/2012 wef 01/01/2015]
 
 (3) Paragraph 2 of Part I shall not apply to that part of the supply comprising —
 
@@ -5820,6 +5930,13 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|55.|**Act 31 of 2014—Goods and Services Tax (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 28/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|1 January 2015|
+|56.|**G. N. No. S 852/2014—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2014**|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
@@ -5827,6 +5944,48 @@ Goods and Services Tax Act
 (CHAPTER 117A)
 
 The following provisions in the 2001 Revised Edition of the Goods and Services Tax Act have been renumbered by the Law Revision Commissioners in this 2005 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Goods and Services Tax Act.
+
+2005 Ed\. 
+
+2001 Ed\. 
+
+84 —(1)
+
+84 —(1)
+
+—
+
+(2) (Deleted by Act 43/2002)
+
+(2)
+
+(3)
+
+(3)
+
+(4)
+
+—
+
+(5) (Deleted by Act 43/2002)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+## COMPARATIVE TABLE
+
+Goods and Services Tax Act
+
+(CHAPTER 117A)
+
+The following provisions in the 1997 Revised Edition of the Goods and Services Tax Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Goods and Services Tax Act.
 
