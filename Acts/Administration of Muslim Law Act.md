@@ -1348,6 +1348,18 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 [29/2008]
 
+(7) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
+
+(a) to regulate and prescribe the procedure and practice to be followed in any proceedings commenced in a Family Court pursuant to subsection (1) or (2); and
+
+(b) to provide for any matter relating to any such procedure or practice.
+
+[Act 27 of 2014 wef 01/01/2015]
+
+(8) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+[Act 27 of 2014 wef 01/01/2015]
+
 ### Execution of deed or indorsement of negotiable instrument
 
 53A\.—(1) If a judgment or an order of the Court is for the execution of a deed, or signing of a document, or for the indorsement of a negotiable instrument, and the party ordered to execute, sign or indorse such instrument is absent, or neglects or refuses to do so, any party interested in having the same executed, signed or indorsed, may prepare a deed, a document or an indorsement of the instrument in accordance with the terms of the judgment or order, and tender the same to the Court for execution upon the proper stamp, if any is required by law.
@@ -2970,6 +2982,12 @@ This Legislative History is provided for the convenience of users of the Adminis
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|24.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
