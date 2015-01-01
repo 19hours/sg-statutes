@@ -98,7 +98,7 @@
 
 - [38 Applications to court](#Applications-to-court)
 
-- [39 Rules of Court](#Rules-of-Court)
+- [39 Family Justice Rules](#Family-Justice-Rules)
 
 - [40 Costs](#Costs)
 
@@ -1228,7 +1228,9 @@ SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
 
 (4) The report must deal with such matters relating to P as the court may direct.
 
-(5) The Rules of Court may specify matters which, unless the court directs otherwise, must also be dealt with in the report.
+(5) The Family Justice Rules may specify matters which, unless the court directs otherwise, must also be dealt with in the report.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (6) The report may be made in writing or orally as the court may direct.
 
@@ -1266,7 +1268,9 @@ so far as the record relates to P.
 
 (iii) an order under this Act is necessary for the protection of the personal welfare, property or affairs of the person.
 
-(2) Subject to the Rules of Court, permission is required for any other application to the court.
+(2) Subject to the Family Justice Rules, permission is required for any other application to the court.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (3) In deciding whether to grant permission the court shall, in particular, have regard to —
 
@@ -1280,15 +1284,17 @@ so far as the record relates to P.
 
 [UK MCA 2005, s. 50]
 
-### Rules of Court
+### Family Justice Rules
 
-39\.—(1) Rules of Court may be made —
+39\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
 
 (a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under this Act; and
 
 (b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
-(2) Without prejudice to the generality of subsection (1), Rules of Court may make provision —
+[Act 27 of 2014 wef 01/01/2015]
+
+(2) Without prejudice to the generality of subsection (1), the Family Justice Rules may make provision —
 
 (a) as to the manner and form in which proceedings are to be commenced;
 
@@ -1302,7 +1308,9 @@ so far as the record relates to P.
 
 (f) for enabling or requiring the proceedings or any part of them to be conducted in private and for enabling the court to determine who is to be admitted when the court sits in private and to exclude specified persons when it sits in public;
 
-(g) as to what may be received as evidence (whether or not admissible apart from the Rules of Court) and the manner in which it is to be presented;
+(g) as to what may be received as evidence (whether or not admissible apart from the Family Justice Rules) and the manner in which it is to be presented;
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (h) for the enforcement of orders made and directions given in the proceedings;
 
@@ -1314,15 +1322,21 @@ so far as the record relates to P.
 
 (l) for the payment of fees and costs within a specified time of the death of the person to whom the proceedings relate or the conclusion of the proceedings.
 
-(3) Rules of Court may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+[Act 27 of 2014 wef 01/01/2015]
+
+(3) The Family Justice Rules may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
 [Act 27 of 2014 wef 01/10/2014]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 [UK MCA 2005, ss. 51, 56]
 
 ### Costs
 
-40\.—(1) Subject to the Rules of Court, the costs of and incidental to all proceedings in the court are in its discretion.
+40\.—(1) Subject to the Family Justice Rules, the costs of and incidental to all proceedings in the court are in its discretion.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (2) The court has full power to determine by whom and to what extent the costs are to be paid.
 
@@ -1332,7 +1346,9 @@ so far as the record relates to P.
 
 (b) order the legal or other representatives concerned to meet,
 
-the whole of any wasted costs or such part of them as may be determined in accordance with the Rules of Court.
+the whole of any wasted costs or such part of them as may be determined in accordance with the Family Justice Rules.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (4) In subsection (3) —
 
@@ -2054,11 +2070,13 @@ Court records
 
 Accounts
 
-5. Rules of Court may provide that, in a case where paragraph 1 applies, the members of the committee are to have a duty to render accounts —
+5. The Family Justice Rules may provide that, in a case where paragraph 1 applies, the members of the committee are to have a duty to render accounts —
 
 (a) while they are members of the committee; and
 
 (b) after they are discharged.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 [UK MCA 2005, Sch. 5]
 
@@ -2114,7 +2132,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
-||Date of commencement|2 October 2008 (except sections 13(9) and 26(l))|
+||Date of Act publication|17 October 2008|
 |2.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 May 2009|
@@ -2125,7 +2143,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
-||Date of commencement|1 March 2010 (sections 13(9) and 26(l))|
+||Date of commencement|1 March 2010 (except sections 13(9) and 26(l))|
 |4.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 May 2009|
@@ -2148,3 +2166,9 @@ This Legislative History is provided for the convenience of users of the Mental 
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|9.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
