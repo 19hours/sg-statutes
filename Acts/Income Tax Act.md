@@ -604,7 +604,7 @@
 
 - [105 Jurisdiction of court](#Jurisdiction-of-court)
 
-[**Part XXA Exchange of information under avoidance of double taxation arrangements and exchange of information arrangements**](#Part-XXA)
+[**Part XXA EXCHANGE OF INFORMATION UNDER AVOIDANCE OF DOUBLE TAXATION ARRANGEMENTS AND EXCHANGE OF INFORMATION ARRANGEMENTS**](#Part-XXA)
 
 - [105A Interpretation of this Part](#Interpretation-of-this-Part)
 
@@ -662,7 +662,7 @@
 
 [**SECOND SCHEDULE Rates of tax**](#SECOND-SCHEDULE-Rates-of-tax)
 
-[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
+[**THIRD SCHEDULE Repealed**](#THIRD-SCHEDULE-Repealed)
 
 [**FOURTH SCHEDULE Name of bond, securities, stock or fund**](#FOURTH-SCHEDULE-Name-of-bond-securities-stock-or-fund)
 
@@ -852,7 +852,7 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 (g) cosmetic modifications or stylistic changes to materials, devices, products, processes or production methods;
 
-(h) [Deleted byAct 29 of 2012]
+(h) [Deleted by Act 29 of 2012]
 
 “research and development organisation” means a body or an organisation which provides research and development services for any trade or business;
 
@@ -3146,7 +3146,7 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive) in any other case;
+(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive)in any other case;
 
 [Act 37 of 2014 wef 27/11/2014]
 
@@ -10658,13 +10658,17 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (12) In this section, and section 43C (except in relation to the definition of “insurer”) —
 
+“accident and health policy” has the same meaning as in the Insurance Act (Cap. 142);
+
+[Act 19 of 2013 wef Y/A 2015]
+
 1“income of the shareholders’ fund” means —
 
 (a) gains or profits on the sale of investments of the shareholders’ fund, whether derived from Singapore or elsewhere; and
 
 (b) investment income and other income of the shareholders’ fund derived from Singapore or received in Singapore from outside Singapore;
 
-1The definition of “accident and health policy” will be inserted immediately before the definition of “income of the shareholders’ fund” as follows from the year of assessment 2015, as set out in section 21(1)(b) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013):
+1The definition of “accident and health policy” has been inserted immediately before the definition of “income of the shareholders’ fund” from the year of assessment 2015 pursuant to section 21(1)(b) and (2) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013).
 
 “insurer” means —
 
@@ -10700,19 +10704,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 “non-participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly of non-participating policies;
 
-2“offshore life business” means the business of insuring or reinsuring the liability under any of the following life policies of any life insurance fund established under the Insurance Act:
+2“offshore life business” means the business of insuring or reinsuring the liability of a life policy, or accident and health policy, of any life insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;
 
-(a) in relation to direct life insurance, any life policy other than a Singapore life policy;
+[Act 19 of 2013 wef Y/A 2015]
 
-(b) in relation to facultative life reinsurance, a policy issued to reinsure liability under any life policy referred to in paragraph (a); and
-
-(c) in relation to treaty life reinsurance, a reinsurance policy where —
-
-(i) the ceding party is a company incorporated outside Singapore and not resident in Singapore, or is not a permanent establishment in Singapore; or
-
-(ii) the liability in respect of any life policy referred to in paragraph (a) is ceded by a party which is a company incorporated and resident in Singapore or a permanent establishment in Singapore;
-
-2The definition of “offshore life business” will be deleted and substituted as follows from the year of assessment 2015, as set out in section 21(1)(c) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013):
+2The definition of “offshore life business” has been deleted and substituted from the year of assessment 2015 pursuant to section 21(1)(c) and (2) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013).
 
 “offshore life insurance surplus”, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained —
 
@@ -10734,15 +10730,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act;
 
-3“offshore risk” means any risk outside Singapore and —
+3“offshore risk” means a risk or liability that is insured by a policy of any general insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;
 
-(a) in relation to direct general insurance or facultative general reinsurance, the insured is not a person resident in Singapore or a permanent establishment in Singapore; and
+[Act 19 of 2013 wef Y/A 2015]
 
-(b) in relation to treaty general reinsurance, not less than 75% of the total risk in terms of gross premiums is outside Singapore,
-
-and where any such risk is in transit in Singapore, it shall be deemed to be outside Singapore;
-
-3The definition of “offshore risk” will be deleted and substituted as follows from the year of assessment 2015, as set out in section 21(1)(e) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013):
+3The definition of “offshore risk” has been deleted and substituted from the year of assessment 2015 pursuant to section 21(1)(e) and (2) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013).
 
 “participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly or partly of participating policies;
 
@@ -10750,9 +10742,7 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 “policy moneys” has the same meaning as in the Insurance Act;
 
-4“Singapore life policy” means a life policy as described in the definition of “Singapore policy” in the Insurance Act;
-
-4The definition of “Singapore life policy” will be deleted from the year of assessment 2015, as set out in section 21(1)(f) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013).
+[Deleted by Act 19 of 2013 wef Y/A 2015]
 
 “surplus account”, in relation to a participating fund of a life insurer, means the surplus account established and maintained under section 17(6)(a) of the Insurance Act as part of that fund.
 
@@ -11374,7 +11364,7 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 [27/2009]
 
-### Amalgamating company as qualifying person undersection 34A
+### Amalgamating company as qualifying person under section 34A
 
 (26) Where any of the amalgamating companies is a qualifying person to which section 34A applies —
 
@@ -17574,6 +17564,10 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [Act 37 of 2014 wef 01/09/2014]
 
+(3) Subsection (1) shall not apply to any distribution made on or after 1st January 2015 by a unit trust to a branch in Singapore of a company incorporated outside Singapore and not known to the trustee of the unit trust to be resident in Singapore.
+
+[Act 37 of 2014 wef 01/01/2015]
+
 ### Application of section 45 to gains from real property transaction
 
 45D\.—(1) Where any person whose income arising from the disposal of any real property is chargeable to tax under section 10(1)(a) is a non-resident person, any designated person shall, before paying to the non-resident person any money which is the whole or part of the consideration for the disposal of the real property, notwithstanding any other written law, immediately deduct therefrom tax at the rate of 15% on every dollar of such payment.
@@ -17595,6 +17589,10 @@ and every such amount deducted shall be a debt due from him to the Government an
 (5) It shall be presumed, until the contrary is proved, that the persons who own any real property as joint owners shall share the proceeds of disposal of the real property in equal shares.
 
 [37/2002]
+
+(5A) This section shall not apply to any payment made on or after 1st January 2015 by a designated person to a branch in Singapore of a company incorporated outside Singapore and is a non-resident person.
+
+[Act 37 of 2014 wef 01/01/2015]
 
 (6) In this section —
 
@@ -17704,6 +17702,10 @@ as that section applies to any interest paid by a person to another person not k
 
 [34/2005]
 
+(4A) Subsection (1) shall not apply to any distribution made on or after 1st January 2015 by a trustee of a real estate investment trust to a branch in Singapore of a company incorporated outside Singapore and not known to the trustee to be resident in Singapore.
+
+[Act 37 of 2014 wef 01/01/2015]
+
 (5) In this section, “real estate investment trust” has the same meaning as in section 43(10).
 
 [34/2005]
@@ -17737,6 +17739,10 @@ as that section applies to any interest paid by a person to another person not k
 (2) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 3%.
 
 [10/2006]
+
+(2A) Subsection (1) shall not apply to any payment liable to be made on or after 1st January 2015 by any person to a branch in Singapore of a licensed international market agent, being a company incorporated outside Singapore and not known to the person to be resident in Singapore.
+
+[Act 37 of 2014 wef 01/01/2015]
 
 (3) In this section, “casino marketing arrangement”, “casino operator” and “international market agent” have the same meanings as in the Casino Control Act (Cap. 33A).
 
@@ -19896,17 +19902,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART XXA
 
-Exchange of information under avoidance
+EXCHANGE OF INFORMATION UNDER AVOIDANCE
 
 
 
 
-of double taxation arrangements and
+OF DOUBLE TAXATION ARRANGEMENTS AND
 
 
 
 
-exchange of information arrangements
+EXCHANGE OF INFORMATION ARRANGEMENTS
 
 ### Interpretation of this Part
 
@@ -22880,18 +22886,19 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
 |||1 September 2014|
-|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|308.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016|
+|||(Bill No. 34/2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|27 November 2014|
+|309.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
 |||30 May 2014|
 |||1 September 2014|
 |||27 November 2014|
-|309.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
-||Date of First Reading|10 October 2016|
-|||(Bill No. 34/2016)|
-||Date of Second and Third Readings|10 November 2016|
-||Date of commencement|27 November 2014|
+|||1 January 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
