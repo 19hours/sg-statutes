@@ -40,7 +40,7 @@
 
 - [13 Regulations](#Regulations)
 
-- [14 Rules of Court](#Rules-of-Court)
+- [14 Family Justice Rules](#Family-Justice-Rules)
 
 - [15 Transitional provisions](#Transitional-provisions)
 
@@ -402,19 +402,19 @@ MISCELLANEOUS
 
 13\. The Minister may make regulations for carrying out the purposes of this Act and for prescribing any matter which is required under this Act to be prescribed.
 
-### Rules of Court
+### Family Justice Rules
 
-14\.—(1) Without prejudice to section 80 of the Supreme Court of Judicature Act (Cap. 322), the Rules Committee constituted under that Act may make Rules of Court —
+14\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
 
 (a) to regulate and prescribe the procedure and practice in respect of proceedings under this Act;
 
 (b) to provide for the transmission of any order of court with respect to the parenthood of a child to the Registrar-General of Births and Deaths under the Registration of Births and Deaths Act (Cap. 267); and
 
-(c) to provide for the costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings,
+(c) to provide for the costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
-and section 80 of the Supreme Court of Judicature Act shall apply to the making of these Rules of Court.
+(2) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-(2) Rules of Court may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the Registrar of the Supreme Court.
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Transitional provisions
 
