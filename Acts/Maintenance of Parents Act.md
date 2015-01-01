@@ -462,7 +462,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [37/2010 wef 15/03/2011]
 
-(3) The procedure governing any such appeal to the High Court shall be as provided for in the Rules of Court.
+(3) The procedure governing any such appeal to the High Court shall be as provided for in the Family Justice Rules.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (4) The High Court shall have jurisdiction to hear and determine any such appeal and may confirm, vary or annul the decision of the Tribunal on appeal and make such further or other order on such appeal, whether as to costs or otherwise, as the Court may consider fit.
 
@@ -566,3 +568,9 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|8.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
