@@ -552,11 +552,13 @@ from which gratuity there shall be deducted the amount of the gratuity, if any, 
 
 [12/95]
 
-(5) This section shall apply to all officers appointed to the public service in Singapore, whether appointed before or after 1st April 1986.
+(5) This section shall apply to all officers appointed to the public service in Singapore, whether appointed before or after 1st April 1986, but not a Judge of the Supreme Court, an Attorney‑General, an Auditor‑General, a Deputy Attorney‑General or a member of the Public Service Commission who is eligible to be granted a death gratuity under any other written law.
 
 [16
 
 [12/95]
+
+[Act 38 of 2014 wef 01/01/2015]
 
 ### Repeal and saving
 
@@ -778,9 +780,15 @@ Pensionable service
 
 (e) any period during which an officer shall have been seconded for other public service or for service under a public body with the approval of the President;
 
-(f) any period during which an officer has been granted leave without salary to serve under a private body with the approval of the President unless the officer has exercised an irrevocable option not to have the period taken into account as pensionable service.
+(f) any period during which an officer has been granted leave without salary to serve under a private body with the approval of the President unless the officer has exercised an irrevocable option not to have the period taken into account as pensionable service;
 
 [6
+
+[S 846/2014 wef 01/01/2015]
+
+(g) any period during which he is required to serve in a non-pensionable office established under the Constitution and regulation 25 does not apply.
+
+[S 846/2014 wef 01/01/2015]
 
 Service to be unbroken
 
@@ -1534,13 +1542,15 @@ Miscellaneous
 
 Transfer from pensionable to non-pensionable office
 
-25\. Where an officer has been transferred from a pensionable office to a non-pensionable office then at the option of such officer —
+25\. —(1) Where an officer has been transferred from a pensionable office to a non-pensionable office then at the option of such officer —
 
 (a) his service in the non-pensionable office may be reckoned as though it were service in a pensionable office at the pensionable emoluments payable to him immediately prior to such transfer; or
 
 (b) his service in the pensionable office may be reckoned as though it were service in a non-pensionable office.
 
-[23
+(2) This regulation does not apply to an officer who, immediately before 1 January 2015, is in a pensionable office established under the Constitution and who is transferred, on or after that date to a non-pensionable office established under the Constitution.
+
+[S 846/2014 wef 01/01/2015]
 
 Gratuity where service insufficient for pension
 
@@ -2179,6 +2189,12 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010|
+|42.|**G.N. No. S 846/2014—Pensions (Amendment) Regulations 2014**|
+||Date of commencement|1 January 2015|
+|43.|**Act 38 of 2014—Judges’ Remuneration (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 31/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Pensions Act
