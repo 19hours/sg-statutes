@@ -192,7 +192,9 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “appoint” includes re-appoint;
 
-“Attorney-General” means the Attorney-General of Singapore;
+“Attorney-General” means the Attorney-General of Singapore and in relation to any function, power or duty of the Attorney-General, includes a Deputy Attorney-General so assigned by the Attorney-General to perform that function, power or duty;
+
+[Act 41 of 2014 wef 01/01/2015]
 
 “Auditor-General” means the Auditor-General of Singapore;
 
@@ -224,6 +226,10 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Crown Agents” means the persons for the time being acting as Crown Agents for Overseas Governments and Administrations in the United Kingdom;
 
+“Deputy Attorney-General” means a Deputy Attorney-General appointed under Article 35A of the Constitution;
+
+[Act 41 of 2014 wef 01/01/2015]
+
 “Deputy Speaker” means the Deputy Speaker of Parliament elected under the Constitution;
 
 “District Court” means any District Court constituted under any written law for the time being in force relating to the courts;
@@ -252,9 +258,13 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, sea or air;
 
-“Judge” means a Judge of the High Court and includes any person appointed to exercise the powers of a Judge;
+“Judge” means a Judge of the High Court and includes the Chief Justice and any person sitting in the High Court in accordance with section 9 of the Supreme Court of Judicature Act (Cap. 322);
 
-“Judge of the Supreme Court” includes the Chief Justice, a Judge of Appeal and a Judge of the High Court;
+[Act 42 of 2014 wef 01/01/2015]
+
+“Judge of the Supreme Court” means the Chief Justice, a Judge of Appeal or a Judge of the High Court;
+
+[Act 42 of 2014 wef 01/01/2015]
 
 “legislature”, in relation to any part of the Commonwealth, means the authority competent to make laws for that part of the Commonwealth;
 
@@ -308,7 +318,9 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “repeal” includes rescind, revoke, cancel or replace;
 
-“Rules of Court”, in relation to any court, means rules made by the authority having for the time being power to make rules or orders regulating the practice and procedure of such court, together with the forms necessary thereto;
+“Rules of Court” means the Rules of Court made under the Supreme Court of Judicature Act (Cap. 322) and any other written law by the Rules Committee constituted under section 80(3) of that Act;
+
+[Act 27 of 2014 wef 01/01/2015]
 
 “Secretary to the Cabinet” means the Secretary to the Cabinet appointed in accordance with the provisions of the Constitution;
 
@@ -932,7 +944,9 @@ shall, unless otherwise ordered by the Court, continue to proceed in accordance 
 
 (a) the Court of Appeal or a Judge of Appeal;
 
-(b) the High Court or a Judge thereof;
+(b) the High Court or a Judge;
+
+[Act 42 of 2014 wef 01/01/2015]
 
 (c) a District Court;
 
@@ -994,7 +1008,9 @@ MISCELLANEOUS
 
 ### Prima facie evidence of signature
 
-43\. Where the fiat, authorisation or sanction of the President, a Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or any public officer is necessary before any prosecution or action is commenced or for any purpose in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be.
+43\. Where the fiat, authorisation or sanction of the President, a Minister, the Attorney-General, a Deputy Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or any public officer is necessary before any prosecution or action is commenced or for any purpose in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, Minister, Attorney-General, Deputy Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, Minister, Attorney-General, Deputy Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be.
+
+[Act 41 of 2014 wef 01/01/2015]
 
 ### Public officers
 
@@ -1222,6 +1238,24 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|23.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
+|24.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|7 October 2014|
+|||(Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
+|25.|**Act 42 of 2014—Supreme Court of Judicature (Amendment) Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|7 October 2014|
+|||(Bill No. 38/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Interpretation Act
