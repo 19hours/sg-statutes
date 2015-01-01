@@ -164,7 +164,9 @@ if the first-mentioned person is not resident in Singapore —
 
 (b) section 6(4) of that Act (which provides for the appointment of additional personal representatives in the case of a minority or a life interest) shall not apply in any case where the existing personal representative is a consular officer appointed under this section.
 
-(7) Without prejudice to section 29(3) of the Probate and Administration Act (which enables the court or a judge or any registrar specially appointed by the Chief Justice for that purpose to dispense with sureties to administration bonds in certain cases), sureties shall not be required to an administration bond given by a consular officer upon the grant of letters of administration under this section.
+(7) Without prejudice to section 29(3) of the Probate and Administration Act (which enables the court or the registrar of the Family Justice Courts to dispense with sureties to administration bonds in certain cases), sureties shall not be required to an administration bond given by a consular officer upon the grant of letters of administration under this section.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (8) This section shall be without prejudice to sections 59, 60 and 61 of the Probate and Administration Act.
 
@@ -1637,3 +1639,9 @@ The Diplomatic and Consular Relations Act 2005 repealed the Consular Conventions
 
 |2.|**2006 Revised Edition—Diplomatic and Consular Relations Act**|
 ||Date of operation|1 April 2006|
+|3.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
