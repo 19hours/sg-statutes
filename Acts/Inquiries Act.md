@@ -504,9 +504,13 @@ Representation before inquiry body
 
 Role of Attorney-General
 
-11.—(1) If the Attorney-General has been appointed to lead evidence in an inquiry under the terms of reference, the Attorney-General or, at the direction of the Attorney-General, the Solicitor-General or State Counsel shall lead evidence in the inquiry.
+11.—(1) If the Attorney-General has been appointed to lead evidence in an inquiry under the terms of reference, the Attorney-General or, at the direction of the Attorney-General, a Deputy Attorney‑General, the Solicitor-General or State Counsel shall lead evidence in the inquiry.
 
-(2) Notwithstanding sub-paragraph (1), the Attorney-General or, at the direction of the Attorney-General, the Solicitor-General or State Counsel shall be entitled at any time to appear before and address the inquiry body on any matter which appears to the Attorney-General to be relevant to the inquiry.
+[Act 41 of 2014 wef 01/01/2015]
+
+(2) Notwithstanding sub-paragraph (1), the Attorney-General or, at the direction of the Attorney-General, a Deputy Attorney‑General, the Solicitor-General or State Counsel shall be entitled at any time to appear before and address the inquiry body on any matter which appears to the Attorney-General to be relevant to the inquiry.
+
+[Act 41 of 2014 wef 01/01/2015]
 
 Protection of members, advocates, assessors and witnesses
 
@@ -674,6 +678,10 @@ This Legislative History is provided for the convenience of users of the Inquiri
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|4.|**Act 41 of 2014—Statutes (Miscellaneous Amendments â Deputy Attorney-General) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Inquiries Act
