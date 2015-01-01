@@ -1084,9 +1084,13 @@ PRELIMINARY
 
 “fine” means any fine or financial penalty imposed by any court upon any conviction of any offence;
 
-“Judge” means a Judge of the High Court and includes the Chief Justice and any person appointed to exercise the powers of a Judge;
+“Judge” means a Judge of the High Court and includes the Chief Justice and any person sitting in the High Court in accordance with section 9 of the Supreme Court of Judicature Act (Cap. 322);
 
-“Judge of Appeal” includes the Chief Justice and a Judge of the High Court sitting as a judge of the Court of Appeal under section 29(3) of the Supreme Court of Judicature Act (Cap. 322);
+[Act 42 of 2014 wef 01/01/2015]
+
+“Judge of Appeal” includes the Chief Justice and any person sitting in the Court of Appeal in accordance with section 29 of the Supreme Court of Judicature Act;
+
+[Act 42 of 2014 wef 01/01/2015]
 
 “judicial proceeding” means any proceeding in the course of which evidence is or may be legally taken by a court;
 
@@ -1144,9 +1148,11 @@ PRELIMINARY
 
 “repealed Code” means the Criminal Procedure Code (Cap. 68, 1985 Ed.) repealed by this Code;
 
-“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge of the Supreme Court, the Registrar of the Supreme Court, the Registrar of the State Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
+“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge, the Registrar of the Supreme Court, the Registrar of the State Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 42 of 2014 wef 01/01/2015]
 
 “State Court” means any court constituted under the State Courts Act (Cap. 321) for the administration of criminal justice;
 
@@ -1240,7 +1246,9 @@ PRELIMINARY
 
 ### Saving of powers of Supreme Court and law officers
 
-5\. Nothing in this Code shall derogate from the jurisdiction or powers of the Court of Appeal or the High Court or the Judges thereof, or the Attorney-General or the Solicitor-General.
+5\. Nothing in this Code shall derogate from the jurisdiction or powers of the Court of Appeal or the High Court or the Judges thereof, or the Attorney-General, a Deputy Attorney-General or the Solicitor-General.
+
+[Act 41 of 2014 wef 01/01/2015]
 
 ### Where no procedure is provided
 
@@ -1343,9 +1351,13 @@ AND PUBLIC PROSECUTOR
 
 11\.—(1) The Attorney-General shall be the Public Prosecutor and shall have the control and direction of criminal prosecutions and proceedings under this Code or any other written law.
 
-(2) The Solicitor-General shall have all the powers of a Deputy Public Prosecutor and shall act as Public Prosecutor when the Attorney-General is absent or unable to act.
+(2) The Deputy Attorney-General assigned by the Attorney-General to have control and direction of criminal prosecutions and proceedings under this Code or any other written law shall have all the powers of the Public Prosecutor, and any reference in this Code or any other written law to the Public Prosecutor shall, unless the context otherwise requires, include a reference to this Deputy Attorney-General.
 
-(3) Subject to this section, the Public Prosecutor may appoint any officer or other person to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under this Code or under any other written law, and may assign any of those duties to a Deputy Public Prosecutor or an Assistant Public Prosecutor.
+[Act 41 of 2014 wef 01/01/2015]
+
+(3) Subject to this section, the Public Prosecutor may appoint the Solicitor-General, any officer or other person to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under this Code or under any other written law, and may assign any of those duties to a Deputy Public Prosecutor or an Assistant Public Prosecutor.
+
+[Act 41 of 2014 wef 01/01/2015]
 
 (4) The Public Prosecutor may authorise in writing one or more Deputy Public Prosecutors —
 
@@ -1363,15 +1375,23 @@ on behalf of the Public Prosecutor that is required by this Code or any other wr
 
 as the case may be.
 
-(5) The Public Prosecutor, the Solicitor-General or a Deputy Public Prosecutor may authorise any person, on such terms and conditions as he thinks fit, to act for the Public Prosecutor in the conduct of a case or prosecution in court or in any part of such conduct.
+(5) The Public Prosecutor, the Deputy Attorney-General referred to in subsection (2), the Solicitor-General or a Deputy Public Prosecutor may authorise any person, on such terms and conditions as he thinks fit, to act for the Public Prosecutor in the conduct of a case or prosecution in court or in any part of such conduct.
 
-(6) Any proceeding before the High Court must be conducted by the Public Prosecutor, the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
+[Act 41 of 2014 wef 01/01/2015]
 
-(7) No person shall appear on behalf of the Public Prosecutor in any criminal appeal, or any case stated or criminal reference under Division 2 of Part XX, other than the Solicitor-General, a Deputy Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
+(6) Any proceeding before the High Court must be conducted by the Public Prosecutor, the Deputy Attorney-General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
 
-(8) Subject to subsections (9) and (10), any proceeding relating to a criminal matter before a State Court must be conducted only by the Public Prosecutor, the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or any other person authorised under subsection (5).
+[Act 41 of 2014 wef 01/01/2015]
+
+(7) No person shall appear on behalf of the Public Prosecutor in any criminal appeal, or any case stated or criminal reference under Division 2 of Part XX, other than the Deputy Attorney-General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
+
+[Act 41 of 2014 wef 01/01/2015]
+
+(8) Subject to subsections (9) and (10), any proceeding relating to a criminal matter before a State Court must be conducted only by the Public Prosecutor, the Deputy Attorney-General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or any other person authorised under subsection (5).
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 41 of 2014 wef 01/01/2015]
 
 (9) An officer of a public body, or an advocate acting on behalf of that public body, may with the authorisation of the Public Prosecutor, conduct any prosecution in summary cases before a Magistrate’s Court.
 
@@ -1385,7 +1405,9 @@ as the case may be.
 
 ### Public Prosecutor’s power to take over conduct of prosecution, etc.
 
-13\. Where a prosecution is conducted by a person other than the Public Prosecutor, the Solicitor-General, a Deputy Public Prosecutor or an Assistant Public Prosecutor, the Public Prosecutor may, if he thinks fit, take over the conduct of the prosecution at any stage of the proceedings and continue or discontinue the prosecution.
+13\. Where a prosecution is conducted by a person other than the Public Prosecutor, the Deputy Attorney-General referred to in section 11(2), the Solicitor-General, a Deputy Public Prosecutor or an Assistant Public Prosecutor, the Public Prosecutor may, if he thinks fit, take over the conduct of the prosecution at any stage of the proceedings and continue or discontinue the prosecution.
+
+[Act 41 of 2014 wef 01/01/2015]
 
 ## PART IV
 
@@ -14779,12 +14801,7 @@ New
 
 —
 
-Regulation 5(3), Monetary Authority of Singapore (Freezing of Assets of Former President of Liberia and Connected Persons) Regulations 2004
-
-
-
-
-(S 260/2004)
+Regulation 5(3), Monetary Authority of Singapore (Freezing of Assets of Former President of Liberia and Connected Persons) Regulations 2004 (S 260/2004)
 
 36
 
@@ -16156,36 +16173,21 @@ New
 
 258(3)
 
-Provisio to 122(5)
+Proviso to 122(5)
 
 —
 
 258(3)Explanation 2
 
-Section 29 (repealed),
-
-
-
-
-Evidence Act (Cap. 97, 1997 Ed.)
+Section 29 (repealed), Evidence Act (Cap. 97, 1997 Ed.)
 
 258(4)
 
-Section 28 (repealed),
-
-
-
-
-Evidence Act (Cap. 97, 1997 Ed.)
+Section 28 (repealed), Evidence Act (Cap. 97, 1997 Ed.)
 
 258(5)
 
-Section 30 (repealed),
-
-
-
-
-Evidence Act (Cap. 97, 1997 Ed.)
+Section 30 (repealed), Evidence Act (Cap. 97, 1997 Ed.)
 
 258(6)(a)
 
@@ -16201,12 +16203,7 @@ Evidence Act (Cap. 97, 1997 Ed.)
 
 258(6)(c)
 
-Section 27 (repealed),
-
-
-
-
-Evidence Act (Cap. 97, 1997 Ed.)
+Section 27 (repealed), Evidence Act (Cap. 97, 1997 Ed.)
 
 259
 
@@ -16506,12 +16503,7 @@ New
 
 —
 
-Section 71 (repealed),
-
-
-
-
-Penal Code (Cap. 224, 2008 Ed.)
+Section 71 (repealed), Penal Code (Cap. 224, 2008 Ed.)
 
 309
 
@@ -17033,12 +17025,7 @@ New
 
 263
 
-Section 56A (repealed),
-
-
-
-
-Subordinate Courts Act (Cap. 321, 2007 Ed.)
+Section 56A (repealed), Subordinate Courts Act (Cap. 321, 2007 Ed.)
 
 396
 
@@ -17321,3 +17308,12 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|3 March 2014 (Bill No. 12/2014 published on 3 March 2014)|
 ||Date of Second and Third Readings|13 March 2014|
 ||Date of commencement|15 November 2014|
+|16.|**Act 42 of 2014—Supreme Court of Judicature (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|7 October 2014 (Bill No. 38/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
+|17.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
