@@ -108,9 +108,13 @@ An Act to provide for the legitimation of children born out of wedlock.
 
 (7) No proceedings to be had under this section shall affect any final judgment or decree already pronounced or made by any court of competent jurisdiction.
 
-### Power to make rules
+(8) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules for carrying the provisions of this section into effect.
 
-(8) The Judges of the Supreme Court or any 3 of them, of whom the Chief Justice shall be one, may make rules for carrying the provisions of this section into effect.
+[Act 27 of 2014 wef 01/01/2015]
+
+(9) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Rights of legitimated persons to take interests in property
 
@@ -228,3 +232,4 @@ This Legislative History is provided for the convenience of users of the Legitim
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|||1 January 2015|
