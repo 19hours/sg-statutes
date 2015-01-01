@@ -112,11 +112,9 @@ PRELIMINARY
 
 [8/2011 wef 03/05/2011]
 
-“Judge of the Supreme Court” includes —
+“Judge of the Supreme Court” includes a Judicial Commissioner;
 
-(a) a person designated to sit as a Judge of the High Court or as a Judge of Appeal under Article 94(3) of the Constitution; and
-
-(b) a Judicial Commissioner appointed under Article 94(4) of the Constitution;
+[Act 42 of 2014 wef 01/01/2015]
 
 “Law Society” means the Law Society of Singapore established under section 36 of the Legal Profession Act (Cap. 161);
 
@@ -233,6 +231,10 @@ CONSTITUTION AND POWERS OF SENATE
 (b) the Judges of the Supreme Court;
 
 (c) the Attorney-General;
+
+(ca) every Deputy Attorney‑General;
+
+[Act 41 of 2014 wef 01/01/2015]
 
 (d) the Solicitor-General;
 
@@ -360,7 +362,9 @@ MEMBERSHIP OF ACADEMY
 
 (b) all other members of the Senate except for those appointed under section 5(1)(h);
 
-(c) persons who have since 1st January 1980 held office as Chief Justice, Judge of the Supreme Court, Attorney-General or Solicitor-General for not less than 2 years;
+(c) persons who have since 1st January 1980 held office as Chief Justice, Judge of the Supreme Court, Attorney-General, Deputy Attorney‑General or Solicitor-General for not less than 2 years;
+
+[Act 41 of 2014 wef 01/01/2015]
 
 (d) honorary or associate members who are elected by the Senate as Fellows for life or for such period as the Senate may in any case consider appropriate; and
 
@@ -638,3 +642,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 3/2011 published on 10 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|3 May 2011|
+|13.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
+|14.|**Act 42 of 2014—Supreme Court of Judicature (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 38/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
