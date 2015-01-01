@@ -94,6 +94,10 @@ An Act to make provision for the preparation and publication of a revised editio
 
 (a) the Attorney-General;
 
+(aa) a Deputy Attorney‑General;
+
+[Act 41 of 2014 wef 01/01/2015]
+
 (b) the Solicitor-General;
 
 (c) the Chief Legislative Counsel; and
@@ -478,3 +482,7 @@ This Legislative History is provided for the convenience of users of the Revised
 ||Date of commencement|1 March 2012|
 |8.|**G. N. No. S 365/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 2013**|
 ||Date of commencement|1 July 2013|
+|9.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
