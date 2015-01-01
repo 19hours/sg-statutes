@@ -890,149 +890,13 @@ Other matters
 
 (4) Any family proceedings (not being probate proceedings) commenced in a District Court or Magistrate’s Court before the appointed date shall, on and after that date, be continued in and dealt with by a Family Court.
 
-(5) Notwithstanding sections 69(
+(5) Notwithstanding sections 69(a), (b), (g), (h), (l), (m), (n) and (p) and 72(a), (g) and (i), any contentious probate proceedings commenced in a District Court before the date specified under subsection (11) shall, on and after that date, be continued in and dealt with by a District Court.
 
-a
-
-), (
-
-b
-
-), (
-
-g
-
-), (
-
-h
-
-), (
-
-l
-
-), (
-
-m
-
-), (
-
-n
-
-) and (
-
-p
-
-) and 72(
-
-a
-
-), (
-
-g
-
-) and (
-
-i
-
-), any contentious probate proceedings commenced in a District Court before the date specified under subsection (11) shall, on and after that date, be continued in and dealt with by a District Court.
-
-(6) Sections 69(
-
-a
-
-), (
-
-b
-
-), (
-
-g
-
-), (
-
-h
-
-), (
-
-l
-
-), (
-
-m
-
-), (
-
-n
-
-) and (
-
-p
-
-) and 72(
-
-a
-
-), (
-
-g
-
-) and (
-
-i
-
-) shall not apply to any contentious probate proceedings commenced in a District Court before the date specified under subsection (11); instead, the following provisions shall continue to apply to any such contentious probate proceedings as if sections 69(
-
-a
-
-), (
-
-b
-
-), (
-
-g
-
-), (
-
-h
-
-), (
-
-l
-
-), (
-
-m
-
-), (
-
-n
-
-) and (
-
-p
-
-) and 72(
-
-a
-
-), (
-
-g
-
-) and (
-
-i
-
-) had not been enacted:
+(6) Sections 69(a), (b), (g), (h), (l), (m), (n) and (p) and 72(a), (g) and (i) shall not apply to any contentious probate proceedings commenced in a District Court before the date specified under subsection (11); instead, the following provisions shall continue to apply to any such contentious probate proceedings as if sections 69(a), (b), (g), (h), (l), (m), (n) and (p) and 72(a), (g) and (i) had not been enacted:
 
 (a) sections 2 (definitions of “court” and “judge”), 31, 34, 36, 39, 40, 43(2), 45, 50(1), 53, 54, 66(1) and (2) and 67(1) and (2) of the Probate and Administration Act (Cap. 251) as in force immediately before the date specified under subsection (11);
 
-(b) sections 2 (definition of “District Court limit”), 26(
-
-a
-
-) and 27 of the State Courts Act (Cap. 321) as in force immediately before the date specified under subsection (11).
+(b) sections 2 (definition of “District Court limit”), 26(a) and 27 of the State Courts Act (Cap. 321) as in force immediately before the date specified under subsection (11).
 
 (7) Notwithstanding sections 4 and 23, any appeal from any contentious probate proceedings commenced in a District Court shall, if the appeal is commenced in the High Court before the date specified under subsection (11), be continued in and dealt with by the High Court, on and after that date, as if those sections had not been enacted.
 
@@ -1215,11 +1079,7 @@ Family Justice Rules
 
 (2) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-(3) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in the
-
-Gazette
-
-.
+(3) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ”.
 
@@ -1541,11 +1401,7 @@ Sections 4(1), (4), (5) and (6) and 8(4); and
 
 (b) by deleting the words “Rules of Court” in the following provisions and substituting in each case the words “Family Justice Rules”:
 
-Sections 37(5), 38(2), 39(2)(
-
-g
-
-) and 40(1) and (3);
+Sections 37(5), 38(2), 39(2)(g) and 40(1) and (3);
 
 (c) by deleting the words “Rules of Court may be made” in section 39(1) and substituting the words “The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules”;
 
@@ -1685,11 +1541,7 @@ Sections 39, 43(2) and 66(1);
 
 (f) by deleting subsection (5) of section 19;
 
-(g) by deleting paragraph (
-
-a
-
-) of section 26;
+(g) by deleting paragraph (a) of section 26;
 
 (h) by deleting paragraph (e) of section 26;
 
@@ -1787,33 +1639,17 @@ Sections 10(2), 10A(1) and (2) and 16(1)(a)(i) and (ii) and paragraphs 10 and 12
 
 ”;
 
-(m) by inserting the word “or” at the end of section 34(2)(
+(m) by inserting the word “or” at the end of section 34(2)(c);
 
-c
+(n) by deleting the word “; or” at the end of section 34(2)(d) and substituting a full-stop;
 
-);
-
-(n) by deleting the word “; or” at the end of section 34(2)(
-
-d
-
-) and substituting a full-stop;
-
-(o) by deleting paragraph (
-
-e
-
-) of section 34(2);
+(o) by deleting paragraph (e) of section 34(2);
 
 (p) by deleting subsection (2A) of section 34 and substituting the following subsection:
 
 “
 
-(2A) Subsection (2)(
-
-a
-
-) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction.
+(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction.
 
 ”;
 
@@ -1917,11 +1753,7 @@ Sections 13(2)(b), (3), (4) and (5), 17(2)(b)(ii) and 20(2), (3), (4) and (7);
 
 (l) by deleting the words “A District Court or a Magistrate’s Court” in section 69(2) and substituting the words “The court”;
 
-(m) by deleting the words “rules made under this Act” in section 71(1)(
-
-c
-
-) and substituting the words “Family Justice Rules made under section 79”;
+(m) by deleting the words “rules made under this Act” in section 71(1)(c) and substituting the words “Family Justice Rules made under section 79”;
 
 (n) by deleting the words “District Court” wherever they appear in the following provisions and substituting in each case the words “Family Court”:
 
@@ -1963,11 +1795,7 @@ Sections 76(1) and (2) and 77(3);
 
 (a) prescribing the procedure for applications to the Family Court under this Part and Part VII;
 
-(b) giving effect to sections 65 and 66 and, in particular, providing for the hearing without delay of any application for an order under section 65(5)(
-
-a
-
-);
+(b) giving effect to sections 65 and 66 and, in particular, providing for the hearing without delay of any application for an order under section 65(5)(a);
 
 (c) prescribing how any document (other than a summons issued under this Part) may be served on any person;
 
@@ -1977,11 +1805,7 @@ a
 
 (3) The Family Justice Rules made under this section may, instead of providing for any matter, refer to any provision made or to be made about the matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-(3A) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in the
-
-Gazette
-
-.
+(3A) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ”;
 
@@ -2019,11 +1843,7 @@ Family Justice Rules
 
 (3) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-(4) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in the
-
-Gazette
-
-.
+(4) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ”;
 
