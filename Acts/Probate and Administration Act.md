@@ -114,11 +114,11 @@
 
 [**Part VIII DISTRICT COURTS**](#Part-VIII)
 
-- [34 Jurisdiction of District Courts](#Jurisdiction-of-District-Courts)
+- [34 (Repealed)](#Repealed)
 
 - [35 Grants in excess of jurisdiction not to be invalid](#Grants-in-excess-of-jurisdiction-not-to-be-invalid)
 
-- [36 Security in case of grant of administration by District Court](#Security-in-case-of-grant-of-administration-by-District-Court)
+- [36 (Repealed)](#Repealed)
 
 [**Part IX PROTECTION OF ESTATES PENDING GRANT**](#Part-IX)
 
@@ -138,7 +138,7 @@
 
 - [44 Receiver’s lien](#Receiver’s-lien)
 
-- [45 District Courts](#District-Courts)
+- [45 (Repealed)](#Repealed)
 
 [**Part X RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE**](#Part-X)
 
@@ -156,7 +156,7 @@
 
 - [52 Notice of revocation](#Notice-of-revocation)
 
-- [53 District Courts](#District-Courts)
+- [53 (Repealed)](#Repealed)
 
 [**Part XI GENERAL**](#Part-XI)
 
@@ -230,17 +230,11 @@ PRELIMINARY
 
 2\. In this Act, unless there is something repugnant in the subject or context —
 
-“court” means —
+“court” means the High Court or a Family Court;
 
-(a) the High Court or a judge when sitting in open court in all cases where proceedings are taken in the High Court; and
+[Act 27 of 2014 wef 01/01/2015]
 
-(b) a District Court or a District Judge when sitting in open court in all cases where proceedings are taken in a District Court;
-
-“judge” means —
-
-(a) a judge sitting in chambers in all cases where proceedings are taken in the High Court; and
-
-(b) a District Judge sitting in chambers in all cases where proceedings are taken in a District Court;
+[Deleted by Act 27 of 2014 wef 01/01/2015]
 
 “letters of administration” means a grant under the seal of the court issuing the same, authorising the person or persons therein named to administer an intestate’s estate in accordance with law;
 
@@ -264,13 +258,9 @@ PRELIMINARY
 
 [Act 44 of 2014 wef 31/12/2014]
 
-“registrar” means —
+“registrar” means the registrar of the Family Justice Courts;
 
-(a) the Registrar or the Deputy Registrar or Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the High Court;
-
-(b) a registrar or deputy registrar of a District Court in all cases where proceedings are taken in a District Court to which a registrar is attached; and
-
-(c) a District Judge in all cases where proceedings are taken in any other District Court;
+[Act 27 of 2014 wef 01/01/2015]
 
 “will” includes any codicil or other testamentary document.
 
@@ -532,7 +522,9 @@ SECURITY
 
 (2) The security shall ordinarily be by bond in the prescribed form by the grantee and 2 sureties in the amount at which the estate within the jurisdiction is sworn, without deduction of any debts due by the deceased, other than debts secured by mortgage.
 
-(3) The court or a judge or any registrar whom the Chief Justice may specially appoint for that purpose may for any sufficient reason increase or decrease the number of the sureties, or dispense with them, or reduce the amount of the bond.
+(3) The court or the registrar may for any sufficient reason increase or decrease the number of the sureties, or dispense with them, or reduce the amount of the bond.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (4) Where the Public Trustee has obtained a grant of letters of administration, he shall not be required to give security.
 
@@ -542,7 +534,17 @@ SECURITY
 
 (6) Sureties may be required by the registrar to justify.
 
-(7) In the case of administrations whether with or without the will annexed the person to whom the grant is made or on whose behalf it is sealed shall give security for the due administration of the estate.
+(7) Subject to subsection (8), in the case of administrations whether with or without the will annexed the person to whom the grant is made or on whose behalf it is sealed shall give security for the due administration of the estate.
+
+[Act 27 of 2014 wef 01/01/2015]
+
+(8) A grantee of letters of administration from a Family Court shall not be required to give security for the due administration of the estate unless —
+
+(a) the person for whose use and benefit the grant is made is an infant; or
+
+(b) the Family Court thinks fit to require such security.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Bond by creditor administrator
 
@@ -550,7 +552,9 @@ SECURITY
 
 ### Assignment of bond
 
-31\. The court or a judge may, if it appears that the condition of an administration bond has been broken, order that it be assigned by the registrar to some named person, who shall thereupon be entitled to sue on the bond under his own name on behalf of all persons interested in the estate in respect of which the bond was executed, as though it had originally been made in his favour.
+31\. The court may, if it appears that the condition of an administration bond has been broken, order that it be assigned by the registrar to some named person, who shall thereupon be entitled to sue on the bond under his own name on behalf of all persons interested in the estate in respect of which the bond was executed, as though it had originally been made in his favour.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ## PART VI
 
@@ -576,21 +580,15 @@ CAVEATS
 
 DISTRICT COURTS
 
-### Jurisdiction of District Courts
-
-34\.—(1) District Courts shall exercise the jurisdiction conferred on them by any written law for the time being in force relating to the courts in accordance with this Act, subject to sections 35 and 36 and to the Rules of Court (Cap. 322, R 5).
-
-[7/76]
-
-(2) A District Court may, subject to the Rules of Court, allow any citation issued under section 4 or under any such Rules to be served out of the jurisdiction by registered post upon any person required to be served therewith wherever he may be whether in Singapore or elsewhere.
-
-[7/76]
+34\. [Repealed by Act 27 of 2014 wef 01/01/2015]
 
 ### Grants in excess of jurisdiction not to be invalid
 
-35\.—(1) No probate or letters of administration granted by a District Court shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of a value which exceeds the District Court limit.
+35\.—(1) No probate or letters of administration granted by a District Court before the date of commencement of section 69 of the Family Justice Act 2014 shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of a value which exceeds $3 million.
 
 [42/2005 wef 01/01/2006]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (2) The grantee shall be —
 
@@ -600,17 +598,13 @@ DISTRICT COURTS
 
 [7/76; 3/87]
 
-(3) Unless in such case the grantee complies without delay with the requirements of subsection (2), the grant may be revoked, on the application of the Commissioner of Estate Duties, or of the Registrar of the Supreme Court, or of any person having any interest as beneficiary or creditor in the assets of the estate.
+(3) Unless in such case the grantee complies without delay with the requirements of subsection (2), the grant may be revoked, on the application of the Commissioner of Estate Duties, or of the registrar of the Family Justice Courts, or of any person having any interest as beneficiary or creditor in the assets of the estate.
 
-(4) In this section, “District Court limit” has the same meaning as in sections 26(a) and 27 of the State Courts Act (Cap. 321).
+[Act 27 of 2014 wef 01/01/2015]
 
-[42/2005 wef 01/01/2006]
+(4) [Deleted by Act 27 of 2014 wef 01/01/2015]
 
-[Act 5 of 2014 wef 07/03/2014]
-
-### Security in case of grant of administration by District Court
-
-36\. A grantee of letters of administration from the District Court shall not be required to give security for the due administration of the estate, unless the person for whose use and benefit the grant is made is an infant, or unless in any other case the District Court thinks fit to require such security.
+36\. [Repealed by Act 27 of 2014 wef 01/01/2015]
 
 ## PART IX
 
@@ -658,7 +652,7 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 ### Receiver pending grant
 
-39\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on an application made by originating summons by the Public Trustee or by any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the Public Trustee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
+39\. Where any person dies leaving property within Singapore, the court may, if it appears, on an application made by originating summons by the Public Trustee or by any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the Public Trustee or such other person as the court thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
 
 [38
 
@@ -666,11 +660,15 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 [42/2005 wef 01/01/2006]
 
+[Act 27 of 2014 wef 01/01/2015]
+
 ### Sale by order of court
 
-40\. The court or a judge may, on application by a receiver appointed under section 39, or any person interested in the estate, order the sale of the whole or any part of such property, if it appears that such sale will be beneficial to the estate.
+40\. The court may, on application by a receiver appointed under section 39, or any person interested in the estate, order the sale of the whole or any part of such property, if it appears that such sale will be beneficial to the estate.
 
 [39
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Application of rules relating to receivers
 
@@ -690,9 +688,11 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 43\.—(1) No suit shall be brought against a receiver appointed under section 39 in relation to anything done or intended to be done by him in respect of the property of the deceased in exercise or intended exercise of the powers vested in him.
 
-(2) Any person aggrieved by anything so done, or intended to be done, may apply to the court or a judge for directions in the matter, and the court or judge may make such order in the premises as is just.
+(2) Any person aggrieved by anything so done, or intended to be done, may apply to the court for directions in the matter, and the court may make such order in the premises as is just.
 
 [42
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Receiver’s lien
 
@@ -700,11 +700,7 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 [43
 
-### District Courts
-
-45\. This Part shall not apply to District Courts.
-
-[44
+45\. [Repealed by Act 27 of 2014 wef 01/01/2015]
 
 ## PART X
 
@@ -732,17 +728,21 @@ RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE
 
 (b) a court of probate in a country or territory, being a country or territory declared by the Minister under subsection (5) as a country or territory to which this subsection applies, has, on or after a date specified by the Minister in respect of that country or territory (referred to in this section as the relevant date), granted probate or letters of administration in respect of the estate of a deceased person,
 
-the probate or letters of administration so granted, or a certified copy thereof, sealed with the seal of the court granting the same, may, on being produced to and a copy thereof deposited in the High Court, be sealed with the seal of the Supreme Court.
+the probate or letters of administration so granted, or a certified copy thereof, sealed with the seal of the court granting the same, may, on being produced to and a copy thereof deposited in the High Court, be sealed with the seal of the Family Justice Courts.
 
 [2/99]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (2) Upon sealing under subsection (1), the probate or letters of administration shall be of the like force and effect, and have the same operation in Singapore, as if granted by the High Court to the person by whom or on whose behalf the application for sealing was made.
 
 [2/99]
 
-(3) Before the probate or letters of administration is sealed with the seal of the Supreme Court, the High Court may require such evidence as it thinks fit as to the domicile of the deceased person.
+(3) Before the probate or letters of administration is sealed with the seal of the Family Justice Courts, the High Court may require such evidence as it thinks fit as to the domicile of the deceased person.
 
 [2/99]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (4) If it appears that the deceased was not, at the time of his death, domiciled within the jurisdiction of the court from which the grant was issued, the seal shall not be affixed unless the grant is such as the High Court would have made.
 
@@ -770,7 +770,9 @@ the probate or letters of administration so granted, or a certified copy thereof
 
 ### Security for creditors in Singapore
 
-50\.—(1) Where the deceased has carried on business or resided in Singapore within 12 months of his death, the court or a judge may, on the application of a creditor of the deceased or otherwise, before a grant of probate or letters of administration is re-sealed, require adequate security to be given for the payment of debts due to creditors residing in Singapore.
+50\.—(1) Where the deceased has carried on business or resided in Singapore within 12 months of his death, the court may, on the application of a creditor of the deceased or otherwise, before a grant of probate or letters of administration is re-sealed, require adequate security to be given for the payment of debts due to creditors residing in Singapore.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (2) Any such creditor may give notice in writing to the registrar, requiring that he be notified of any application for the sealing of a grant of probate under this Part; and no such grant shall be sealed before the expiration of 7 days after service on such creditor of a notice in writing of an application for sealing.
 
@@ -782,9 +784,7 @@ the probate or letters of administration so granted, or a certified copy thereof
 
 52\. When notice has been received by the court of the re-sealing of a grant issued in Singapore, notice of any revocation or alteration of the grant shall be sent forthwith by the registrar to the court so re-sealing the grant.
 
-### District Courts
-
-53\. This Part shall not apply to District Courts.
+53\. [Repealed by Act 27 of 2014 wef 01/01/2015]
 
 ## PART XI
 
@@ -792,7 +792,9 @@ GENERAL
 
 ### Order to bring in will, etc.
 
-54\. The court or a judge may, on the application of any person interested, if it appears that there is reason to believe that any will or other testamentary document of a deceased person is in the possession or under the control of any person, or that any person has knowledge of the existence of such a will or document, order that that person do, within a time named, produce the will or document at the registry, or attend at a time named before a court or a judge, for the purpose of being examined in relation to the will or document.
+54\. The court may, on the application of any person interested, if it appears that there is reason to believe that any will or other testamentary document of a deceased person is in the possession or under the control of any person, or that any person has knowledge of the existence of such a will or document, order that that person do, within a time named, produce the will or document at the registry, or attend at a time named before a court, for the purpose of being examined in relation to the will or document.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Grant to Public Trustee in cases of delay
 
@@ -958,15 +960,23 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 ### Executors’ or administrators’ commission
 
-66\.—(1) The court or a judge may in its or his discretion allow the executors or administrators a commission not exceeding 5% on the value of the assets collected by them, but in the allowance or disallowance of such commission the court or judge shall be guided by its or his approval or otherwise of their conduct in the administration of the estate.
+66\.—(1) The court may in its or his discretion allow the executors or administrators a commission not exceeding 5% on the value of the assets collected by them, but in the allowance or disallowance of such commission the court shall be guided by its or his approval or otherwise of their conduct in the administration of the estate.
 
-(2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court or a judge by subsection (1).
+[Act 27 of 2014 wef 01/01/2015]
+
+(2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court by subsection (1).
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Testamentary and funeral expenses
 
-67\.—(1) The court or a judge shall allow the executors or administrators the reasonable testamentary and other expenses incurred by them, and also proper funeral expenses and all reasonable expenses of subsequent religious ceremonies suitable to the station in life of the deceased.
+67\.—(1) The court shall allow the executors or administrators the reasonable testamentary and other expenses incurred by them, and also proper funeral expenses and all reasonable expenses of subsequent religious ceremonies suitable to the station in life of the deceased.
 
-(2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court or a judge by subsection (1).
+[Act 27 of 2014 wef 01/01/2015]
+
+(2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court by subsection (1).
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Where funds of estate cannot be immediately distributed
 
@@ -1213,6 +1223,12 @@ This Legislative History is provided for the convenience of users of the Probate
 ||Date of First Reading|7 October 2014 (Bill No. 34/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|31 December 2014|
+|23.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
