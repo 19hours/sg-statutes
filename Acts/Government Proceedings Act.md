@@ -136,7 +136,9 @@ PRELIMINARY
 
 [7/97 wef 01/10/1997]
 
-“law officer” means the Attorney-General and the Solicitor-General;
+“law officer” means the Attorney-General, a Deputy Attorney‑General and the Solicitor-General;
+
+[Act 41 of 2014 wef 01/01/2015]
 
 “legal officer” includes a law officer and a legally qualified member of the Attorney-General’s Chambers;
 
@@ -640,3 +642,7 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|10.|**Act 41 of 2014—Statutes (Miscellaneous Amendments â Deputy Attorney-General) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
