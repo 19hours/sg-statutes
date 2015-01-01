@@ -20,6 +20,8 @@
 
 - [5 Acting appointment](#Acting-appointment)
 
+- [5A International Judges](#International-Judges)
+
 - [6 Seal](#Seal)
 
 - [7 Contempt](#Contempt)
@@ -57,6 +59,34 @@
 - [17A Civil jurisdiction — concurrent jurisdiction with Syariah Court in certain matters](#Civil-jurisdiction-—-concurrent-jurisdiction-with-Syariah-Court-in-certain-matters)
 
 - [18 Powers of High Court](#Powers-of-High-Court)
+
+[**Singapore International Commercial Court**](#Singapore-International-Commercial-Court)
+
+- [18A Singapore International Commercial Court](#Singapore-International-Commercial-Court)
+
+- [18B President of Singapore International Commercial Court](#President-of-Singapore-International-Commercial-Court)
+
+- [18C Act to apply with modifications](#Act-to-apply-with-modifications)
+
+- [18D Jurisdiction of Singapore International Commercial Court](#Jurisdiction-of-Singapore-International-Commercial-Court)
+
+- [18E Pre-action certificate](#Pre-action-certificate)
+
+- [18F Effect of jurisdiction agreement](#Effect-of-jurisdiction-agreement)
+
+- [18G Composition of Singapore International Commercial Court](#Composition-of-Singapore-International-Commercial-Court)
+
+- [18H Provisions where Singapore International Commercial Court comprises 3 Judges](#Provisions-where-Singapore-International-Commercial-Court-comprises-3-Judges)
+
+- [18I Powers of Singapore International Commercial Court, generally](#Powers-of-Singapore-International-Commercial-Court-generally)
+
+- [18J Transfer of cases](#Transfer-of-cases)
+
+- [18K Rules of evidence in certain cases](#Rules-of-evidence-in-certain-cases)
+
+- [18L Determination of foreign law on submissions](#Determination-of-foreign-law-on-submissions)
+
+- [18M Representation by foreign lawyers](#Representation-by-foreign-lawyers)
 
 [**Appellate Jurisdiction of the High Court**](#Appellate-Jurisdiction-of-the-High-Court)
 
@@ -109,6 +139,8 @@
 - [33 Continuation of civil appeal notwithstanding absence of a Judge of Appeal](#Continuation-of-civil-appeal-notwithstanding-absence-of-a-Judge-of-Appeal)
 
 - [34 Matters that are non-appealable or appealable only with leave](#Matters-that-are-non-appealable-or-appealable-only-with-leave)
+
+- [34A Court of Appeal may decide application for leave to appeal without hearing oral arguments](#Court-of-Appeal-may-decide-application-for-leave-to-appeal-without-hearing-oral-arguments)
 
 - [35 Applications](#Applications)
 
@@ -288,11 +320,15 @@ PRELIMINARY
 
 [Act 27 of 2014 wef 01/10/2014]
 
-“Judge” means a Judge of the High Court and includes the Chief Justice and any person appointed to exercise the powers of a Judge;
+“Judge” means a Judge of the High Court and includes the Chief Justice and any person sitting in the High Court in accordance with section 9;
 
-“Judge of Appeal” includes the Chief Justice and a Judge of the High Court sitting as a judge of the Court of Appeal under section 29(3);
+[Act 42 of 2014 wef 01/01/2015]
 
-“Public Prosecutor” includes a Deputy Public Prosecutor;
+“Judge of Appeal” includes the Chief Justice and any person sitting in the Court of Appeal in accordance with section 29;
+
+[Act 42 of 2014 wef 01/01/2015]
+
+[Deleted by Act 42 of 2014 wef 01/01/2015]
 
 “Registrar” means the Registrar of the Supreme Court and includes the Deputy Registrar and the Assistant Registrars;
 
@@ -328,9 +364,13 @@ THE SUPREME COURT
 
 (a) the Chief Justice;
 
-(b) the vice-presidents of the Court of Appeal, who among themselves shall rank according to the priority of their respective appointments as vice-presidents;
+(b) the Vice‑Presidents of the Court of Appeal, who among themselves shall rank according to the priority of their respective appointments as Vice‑Presidents;
 
-(c) the Judges of Appeal (other than vice-presidents), who among themselves shall rank according to the priority of their respective appointments; and
+[Act 42 of 2014 wef 01/01/2015]
+
+(c) the Judges of Appeal (other than Vice‑Presidents), who among themselves shall rank according to the priority of their respective appointments; and
+
+[Act 42 of 2014 wef 01/01/2015]
 
 (d) the Judges of the High Court, who among themselves shall rank according to the priority of their respective appointments.
 
@@ -341,6 +381,12 @@ THE SUPREME COURT
 5\.—(1) Whenever during any period, owing to illness or absence from Singapore or any other cause, the Chief Justice is unable to exercise the powers or perform the duties of his office, such powers shall be had and may be exercised and such duties shall be performed by the Judge having precedence next after the Chief Justice who is present in Singapore and able to act during that period.
 
 (2) For the purposes of this section, temporary absence in any part of Malaysia shall not be deemed to be absence from Singapore.
+
+### International Judges
+
+5A\. An International Judge of the Supreme Court may only sit in the Singapore International Commercial Court and in appeals from that Court in accordance with sections 9(4)(b) and 29(4), respectively.
+
+[Act 42 of 2014 wef 01/01/2015]
 
 ### Seal
 
@@ -394,13 +440,25 @@ General
 
 ### Constitution of High Court
 
-9\. The High Court shall consist of —
+9\.—(1) The High Court shall consist of —
 
 (a) the Chief Justice; and
 
 (b) the Judges of the High Court.
 
-[16/93]
+(2) A Judge of Appeal may, if the Chief Justice so requires, sit in the High Court.
+
+(3) A Judicial Commissioner of the Supreme Court appointed for a specified period may sit in the High Court to hear and determine any case or such classes of cases as the Chief Justice may specify.
+
+(4) The Chief Justice may, from time to time —
+
+(a) require a Senior Judge of the Supreme Court appointed for a specified period to sit in the High Court to hear and determine any case or such classes of cases as the Chief Justice may specify; and
+
+(b) require an International Judge of the Supreme Court appointed for a specified period to sit in the Singapore International Commercial Court to hear and determine any case in that Court or such classes of cases in that Court as the Chief Justice may specify.
+
+(5) A person sitting in the High Court in accordance with subsection (2), (3) or (4), or to hear and determine a case that he was specifically appointed to hear and determine, shall have all the jurisdiction, powers and privileges of a Judge of the High Court sitting in the High Court or in the Singapore International Commercial Court, as the case may be.
+
+[Act 42 of 2014 wef 01/01/2015]
 
 ### Proceedings in High Court to be disposed of by single Judge
 
@@ -410,9 +468,7 @@ General
 
 [Act 27 of 2014 wef 01/10/2014]
 
-(3) A Judge of Appeal may sit in the High Court and act as a Judge thereof whenever the business of the High Court so requires, in which case he shall have all the jurisdiction, powers and privileges of such a Judge.
-
-[16/93]
+(3) [Deleted by Act 42 of 2014 wef 01/01/2015]
 
 (4) If a Judge reserves judgment in any proceedings and his appointment as a Judge expires or is terminated before his judgment is delivered, he shall have power to deliver judgment in respect of those proceedings, notwithstanding that his appointment as a Judge has expired or has been terminated.
 
@@ -606,13 +662,17 @@ Original Jurisdiction
 
 [20/99]
 
-(5) Subsection (3)(a) shall not apply if the civil proceedings referred to therein are commenced in the High Court by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act have been filed in accordance with Rules of Court.
+(5) Subsection (3)(a) shall not apply if the civil proceedings referred to therein are commenced in the High Court by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act have been filed in accordance with Family Justice Rules.
 
 [20/99]
 
-(6) Subsection (3)(b) shall not apply if the civil proceedings referred to therein are continued by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act (Cap. 3) have been filed in accordance with Rules of Court.
+[Act 27 of 2014 wef 01/01/2015]
+
+(6) Subsection (3)(b) shall not apply if the civil proceedings referred to therein are continued by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act (Cap. 3) have been filed in accordance with Family Justice Rules.
 
 [20/99]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (7) For the avoidance of any doubt, the High Court, in exercising its jurisdiction or powers under subsection (2), shall apply the civil law.
 
@@ -647,6 +707,154 @@ Original Jurisdiction
 [16/93]
 
 [Act 27 of 2014 wef 01/10/2014]
+
+Singapore International Commercial Court
+
+### Singapore International Commercial Court
+
+18A\. There shall be a division of the High Court known as the Singapore International Commercial Court.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### President of Singapore International Commercial Court
+
+18B\.—(1) The Chief Justice may appoint a Judge of Appeal, a Judge of the High Court, a Senior Judge of the Supreme Court or an International Judge of the Supreme Court to be the President of the Singapore International Commercial Court for such period as the Chief Justice may specify.
+
+(2) If no appointment is made under subsection (1), the Chief Justice shall be the President of the Singapore International Commercial Court.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Act to apply with modifications
+
+18C\. Subject to sections 18D to 18M and 80(2A), the provisions of this Act shall apply to proceedings in the Singapore International Commercial Court as they apply to proceedings in the High Court exercising its original civil jurisdiction.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Jurisdiction of Singapore International Commercial Court
+
+18D\. The Singapore International Commercial Court shall have jurisdiction to hear and try any action that satisfies all of the following conditions:
+
+(a) the action is international and commercial in nature;
+
+(b) the action is one that the High Court may hear and try in its original civil jurisdiction;
+
+(c) the action satisfies such other conditions as the Rules of Court may prescribe.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Pre-action certificate
+
+18E\.—(1) A party intending to bring an action in the Singapore International Commercial Court may apply for a certificate stating all or any of the following matters:
+
+(a) that the intended action is international and commercial in nature for the purposes of section 18D(a);
+
+(b) such other matters as the Rules of Court may prescribe.
+
+(2) An application under subsection (1) —
+
+(a) shall be made by an originating process or such other process as the Rules of Court may prescribe;
+
+(b) shall be determined by a Judge or the Registrar; and
+
+(c) may be determined summarily or otherwise in accordance with such procedure as the Rules of Court may prescribe.
+
+(3) A certificate issued under this section is conclusive as to the matters certified in such circumstances as the Rules of Court may prescribe.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Effect of jurisdiction agreement
+
+18F\.—(1) Subject to subsection (2), the parties to an agreement to submit to the jurisdiction of the Singapore International Commercial Court shall be considered to have agreed —
+
+(a) to submit to the exclusive jurisdiction of the Singapore International Commercial Court;
+
+(b) to carry out any judgment or order of the Singapore International Commercial Court without undue delay; and
+
+(c) to waive any recourse to any court or tribunal outside Singapore against any judgment or order of the Singapore International Commercial Court, and against the enforcement of such judgment or order, insofar as such recourse can be validly waived.
+
+(2) Subsection (1)(a), (b) and (c) applies only if there is no express provision to the contrary in the agreement.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Composition of Singapore International Commercial Court
+
+18G\. Every proceeding in the Singapore International Commercial Court shall be heard and disposed of before a single Judge or 3 Judges.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Provisions where Singapore International Commercial Court comprises 3 Judges
+
+18H\.—(1) This section applies where a case in the Singapore International Commercial Court is heard before 3 Judges.
+
+(2) The Chief Justice shall appoint one of the Judges to preside.
+
+(3) The case shall be decided in accordance with the opinion of the majority of the Judges hearing the case.
+
+(4) Subject to subsection (5), a case shall be reheard if one or more of the Judges are unable to continue hearing the case for any reason.
+
+(5) Where one Judge is unable to continue hearing a case for any reason, the remaining 2 Judges may continue to hear and determine the case if the parties consent.
+
+(6) Where a case is heard by 2 Judges under subsection (5) —
+
+(a) if the 2 Judges have the same opinion, the case shall be determined according to their opinion; or
+
+(b) if the 2 Judges have different opinions on any claim, counterclaim or application, the claim, counterclaim or application, as the case may be, shall be dismissed.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Powers of Singapore International Commercial Court, generally
+
+18I\.—(1) The Singapore International Commercial Court may exercise such powers as the High Court may exercise in its original civil jurisdiction, except —
+
+(a) the power under paragraph 1 of the First Schedule; and
+
+(b) any power that must be exercised through the Family Division of the High Court.
+
+(2) The Singapore International Commercial Court shall exercise its powers in accordance with the Rules of Court, and any other written law, relating to that Court or those powers.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Transfer of cases
+
+18J\.—(1) The Singapore International Commercial Court may transfer a case commenced in that Court to the High Court in accordance with the Rules of Court.
+
+(2) The High Court may transfer a case commenced in that Court to the Singapore International Commercial Court in accordance with the Rules of Court.
+
+(3) Where a case is transferred under subsection (1) or (2) —
+
+(a) the court to which the case is transferred may permit any matter that has been adduced to remain in evidence, notwithstanding that different rules of evidence may apply in the court to which the case is transferred; and
+
+(b) the court transferring the case and the court to which the case is transferred may make any consequential order in accordance with the Rules of Court.
+
+(4) In this section, “High Court” does not include the Singapore International Commercial Court.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Rules of evidence in certain cases
+
+18K\.—(1) The Singapore International Commercial Court —
+
+(a) shall not be bound to apply any rule of evidence under Singapore law in such cases and to such extent as the Rules of Court may provide; and
+
+(b) may, in those cases, apply other rules of evidence (whether such rules are found under any foreign law or otherwise) in accordance with the Rules of Court.
+
+(2) In subsection (1), “rule of evidence” includes any rule of law relating to privilege, or to the taking of evidence.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Determination of foreign law on submissions
+
+18L\.—(1) The Singapore International Commercial Court may, in such cases as the Rules of Court may prescribe, order that any question of foreign law be determined on the basis of submissions instead of proof.
+
+(2) In determining any question of foreign law on the basis of submissions, the Singapore International Commercial Court may have regard to such matters as the Rules of Court may prescribe.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Representation by foreign lawyers
+
+18M\. A party to a case in the Singapore International Commercial Court, or to an appeal from that Court, may in accordance with the Rules of Court be represented by a foreign lawyer who is registered in accordance with Part IVB of the Legal Profession Act (Cap. 161).
+
+[Act 42 of 2014 wef 01/01/2015]
 
 Appellate Jurisdiction of the High Court
 
@@ -838,17 +1046,31 @@ THE COURT OF APPEAL
 
 [16/93]
 
-(2) The Chief Justice may appoint one or more of the Judges of Appeal as vice-presidents of the Court of Appeal.
+(2) The Chief Justice shall be the President of the Court of Appeal, and may appoint one or more of the Judges of Appeal as Vice‑Presidents of the Court of Appeal.
 
 [16/93]
 
-(3) A Judge of the High Court may, on the request of the Chief Justice, sit as a judge of the Court of Appeal, in which case he shall have all the jurisdiction, powers and privileges of a judge of the Court of Appeal.
+[Act 42 of 2014 wef 01/01/2015]
 
-[16/93]
+(3) A Judge of the High Court, a Judicial Commissioner of the Supreme Court or a Senior Judge of the Supreme Court may, if the Chief Justice so requires, sit in the Court of Appeal.
 
-(4) The Chief Justice shall be the President of the Court of Appeal and, in his absence for any cause, the presidency shall be determined in accordance with the order of precedence prescribed in section 4.
+[Act 42 of 2014 wef 01/01/2015]
 
-[16/93]
+(4) An International Judge of the Supreme Court may, if the Chief Justice so requires, sit in the Court of Appeal in an appeal from any judgment or order of the Singapore International Commercial Court.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+(5) A person sitting in the Court of Appeal in accordance with subsection (3) or (4) shall have all the jurisdiction, powers and privileges of a Judge of Appeal sitting in the Court of Appeal.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+(6) The person who presides over a sitting of the Court of Appeal shall be determined as follows:
+
+(a) where the Court of Appeal includes one or more Judges of the Supreme Court specified in section 4, the person shall be determined according to the order of precedence prescribed in that section;
+
+(b) where the Court of Appeal does not include any Judge of the Supreme Court specified in section 4, the Chief Justice shall appoint a person to preside.
+
+[Act 42 of 2014 wef 01/01/2015]
 
 ### Jurisdiction of Court of Appeal
 
@@ -885,6 +1107,10 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 (a) an application to extend the time for filing and serving a notice of appeal;
 
 (b) an application to discharge or vary any direction or order made under section 36(1);
+
+(ba) an application for leave to appeal to the Court of Appeal, whether under this Act or any other written law;
+
+[Act 42 of 2014 wef 01/01/2015]
 
 (c) an appeal against an interlocutory judgment;
 
@@ -926,9 +1152,9 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 [16/93]
 
-(2) Where an appeal has been heard by the Court of Appeal consisting of 2 Judges of Appeal and the members of the Court are divided, the decision appealed against shall stand.
+(2) Where an appeal or application has been heard by the Court of Appeal consisting of 2 Judges of Appeal and the members of that Court are divided, the decision appealed against shall stand or the application shall be dismissed, as the case may be.
 
-[16/93]
+[Act 42 of 2014 wef 01/01/2015]
 
 ### Sittings of Court of Appeal
 
@@ -978,7 +1204,7 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(2) Except with the leave of a Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
+(2) Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal in any of the following cases:
 
 (a) where the amount in dispute, or the value of the subject-matter, at the hearing before the High Court (excluding interest and costs) does not exceed $250,000 or such other amount as may be specified by an order made under subsection (3);
 
@@ -986,29 +1212,25 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
-(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
+(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute; or
 
-(d) where a Judge makes an order specified in the Fifth Schedule, except in such circumstances as may be specified in that Schedule; or
+[Act 27 of 2014 wef 01/01/2015]
 
-[30/2010 wef 01/01/2011]
-
-(e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
-
-[16/93; 43/98; 36/2004]
-
-(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under —
-
-(a) section 17A;
-
-(b) section 59 or Part X of the Women’s Charter; or
-
-(c) any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction.
+(d) where a Judge makes an order specified in the Fifth Schedule, except in such circumstances as may be specified in that Schedule.
 
 [30/2010 wef 01/01/2011]
 
-(2B) An order of a Judge giving or refusing leave under subsection (2) shall be final.
+[Act 27 of 2014 wef 01/01/2015]
 
-[30/2010 wef 01/01/2011]
+(e) [Deleted by Act 27 of 2014 wef 01/01/2015]
+
+[Act 42 of 2014 wef 01/01/2015]
+
+(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction.
+
+[Act 27 of 2014 wef 01/01/2015]
+
+(2B) [Deleted by Act 42 of 2014 wef 01/01/2015]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
@@ -1021,6 +1243,40 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 (5) Except with the leave of the Court of Appeal, or of a Judge of the Family Division of the High Court, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction referred to in section 23 of the Family Justice Act 2014.
 
 [Act 27 of 2014 wef 01/10/2014]
+
+(6) Subsections (1) and (2) shall not apply to any decision, judgment or order of the High Court in —
+
+(a) any family proceedings (not being probate proceedings) commenced in the High Court before 1 October 2014;
+
+(b) any contentious probate proceedings commenced in the High Court before the date specified under section 47(11) of the Family Justice Act 2014 (Act 27 of 2014) for the purposes of section 47(2) of that Act; and
+
+(c) any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before the date specified under section 47(11) of the Family Justice Act 2014 for the purposes of section 47(7) of that Act.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+(7) Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the High Court involving the exercise of the appellate civil jurisdiction of the High Court in any of the following circumstances:
+
+(a) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi‑criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
+
+(b) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
+
+(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before the date specified under section 47(11) of the Family Justice Act 2014 for the purposes of section 47(7) of that Act.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+(8) In this section —
+
+“family proceedings” has the same meaning as in section 2(1) of the Family Justice Act 2014;
+
+“probate proceedings” has the same meaning as in section 47(13) of the Family Justice Act 2014.
+
+[Act 42 of 2014 wef 01/01/2015]
+
+### Court of Appeal may decide application for leave to appeal without hearing oral arguments
+
+34A\. The Court of Appeal may, without hearing oral arguments, decide any application for leave to appeal to that Court, whether under this Act or any other written law.
+
+[Act 42 of 2014 wef 01/01/2015]
 
 ### Applications
 
@@ -1428,6 +1684,32 @@ Rules of Court
 
 [16/93; 2/94]
 
+(2A) Without prejudice to the generality of subsection (1), Rules of Court may be made in relation to the Singapore International Commercial Court for the following purposes:
+
+(a) to provide for different procedures and practices to be followed in respect of proceedings in that Court and in appeals from that Court;
+
+(b) to prescribe, for the purposes of section 18D, what constitutes an action of an international and commercial nature, and any other conditions that an action must satisfy before that Court may hear and try the action;
+
+(c) to prescribe, for the purposes of section 18E, the matters which can be certified under that section, the conditions to be satisfied before an application can be made under that section, the procedure to be followed in such an application, and the circumstances in which the certified matters are conclusive;
+
+(d) to prescribe, for the purposes of section 18J, the conditions to be satisfied before an action can be transferred to or from that Court, and to provide for the making of, and other matters related to, any consequential order referred to in section 18J(3)(b);
+
+(e) to prescribe, for the purposes of section 18K, the cases in which and the extent to which that Court is not bound to apply any rule of evidence under Singapore law, and the rules of evidence (if any) to be applied in those cases;
+
+(f) to prescribe, for the purposes of section 18L, any conditions to be satisfied before an order can be made under section 18L(1), and the matters which that Court may have regard to in determining any question of foreign law on the basis of submissions;
+
+(g) to prescribe, for the purposes of section 18M, any conditions to be satisfied before a party can be represented by a foreign lawyer in that Court or in an appeal from that Court;
+
+(h) to prescribe the circumstances where that Court may make a judgment or an order without hearing oral arguments;
+
+(i) to declare to be final, for the purposes of section 34(1)(e), any judgment or order of that Court (not being a judgment or an order that finally disposes of an action on its merits);
+
+(j) to prescribe the fees and deposits payable for proceedings in that Court and in appeals from that Court;
+
+(k) to provide for the Registrar to decline to administer, or decline to continue administering, a case in that Court or an appeal from that Court if any fee or deposit referred to in paragraph (j) is not paid.
+
+[Act 42 of 2014 wef 01/01/2015]
+
 (3) The Rules Committee shall consist of —
 
 (a) the Chief Justice, who shall be the Chairman of the Committee;
@@ -1735,7 +2017,7 @@ Orders Made by Judge
 
 That Are Appealable Only With Leave
 
-Except with the leave of a Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
+Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal in any of the following cases:
 
 (a) where a Judge makes an order refusing leave to amend a pleading, except if —
 
@@ -1772,6 +2054,8 @@ Except with the leave of a Judge, no appeal shall be brought to the Court of App
 (x) for a stay of proceedings.
 
 [30/2010 wef 01/01/2011]
+
+[Act 42 of 2014 wef 01/01/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -1935,6 +2219,17 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Dates of commencement|1 October 2014 (except section 74(e) and (m) to (p) — amendment of Supreme Court of Judicature Act)|
+|32.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|8 July 2014 (Bill No. 21/2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Dates of commencement|1 January 2015 (section 74(e) and (m) to (p) — amendment of Supreme Court of Judicature Act)|
+|33.|**Act 42 of 2014—Supreme Court of Judicature (Amendment) Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|7 October 2014|
+|||(Bill No. 38/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
