@@ -74,7 +74,7 @@
 
 - [26 Equity jurisdiction](#Equity-jurisdiction)
 
-- [27 Jurisdiction to grant probates](#Jurisdiction-to-grant-probates)
+- [27 (Repealed)](#Repealed)
 
 - [28 Jurisdiction to issue writ of distress](#Jurisdiction-to-issue-writ-of-distress)
 
@@ -232,13 +232,9 @@ PRELIMINARY
 
 [14/2010 wef 02/01/2011]
 
-“District Court limit” means —
+“District Court limit” means $250,000 or such other amount as may be specified by an order under section 30;
 
-(a) in sections 26(a) and 27, $3 million or such other amount as may be specified by an order under section 30; and
-
-(b) in any other section, $250,000\*or such other amount as may be specified by an order under section 30;
-
-\*O1 (S 333/97) — Subordinate Courts (Variation of District Court Limit) Order.
+[Act 27 of 2014 wef 01/01/2015]
 
 “judicial officer” means a District Judge, Magistrate or registrar;
 
@@ -670,7 +666,7 @@ Transfer of counterclaim from District Court to High Court
 
 26\. Without prejudice to the generality of section 19, a District Court shall have jurisdiction under section 19(2) to hear and try any of the following proceedings:
 
-(a) proceedings for the administration of the estate of a deceased person, where the amount or value of the estate does not exceed the District Court limit;
+(a) [Deleted by Act 27 of 2014 wef 01/01/2015]
 
 (b) proceedings for the execution of any trust or for a declaration that a trust subsists, where the amount or value of the property subject, or alleged to be subject, to the trust does not exceed the District Court limit;
 
@@ -688,11 +684,7 @@ Transfer of counterclaim from District Court to High Court
 
 [31/2010 wef 01/01/2011]
 
-### Jurisdiction to grant probates
-
-27\. A District Court shall have jurisdiction to grant probate or letters of administration in respect of the estate and effects within Singapore of any deceased person, where the estate and effects in respect of which the grant is applied for, exclusive of what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, do not exceed in value the District Court limit; and may alter, revoke or annul the same.
-
-[6/76; 3/86; 15/93]
+27\. [Repealed by Act 27 of 2014 wef 01/01/2015]
 
 ### Jurisdiction to issue writ of distress
 
@@ -1629,6 +1621,12 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|28.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 State Courts Act
