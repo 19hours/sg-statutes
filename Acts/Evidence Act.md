@@ -472,13 +472,13 @@ Preliminary
 
 “copy of a document” includes —
 
-(a) in the case of a document falling within paragraph (d)paragraph (d) but not paragraph (e)paragraph (e) of the definition of “document”, a transcript of the sounds or other data embodied in it;
+(a) in the case of a document falling within paragraph (d) but not paragraph (e) of the definition of “document”, a transcript of the sounds or other data embodied in it;
 
-(b) in the case of a document falling within paragraph (e)paragraph (e) but not paragraph (d)paragraph (d) of that definition, a reproduction or still reproduction of the image or images embodied in it, whether enlarged or not;
+(b) in the case of a document falling within paragraph (e) but not paragraph (d) of that definition, a reproduction or still reproduction of the image or images embodied in it, whether enlarged or not;
 
-(c) in the case of a document falling within paragraphs (d)paragraphs (d) and (e) of that definition, such a transcript together with such a still reproduction; and
+(c) in the case of a document falling within paragraphs (d) and (e) of that definition, such a transcript together with such a still reproduction; and
 
-(d) in the case of a document not falling within paragraph (e)paragraph (e) of that definition of which a visual image is embodied in a document falling within that paragraph, a reproduction of that image, whether enlarged or not,
+(d) in the case of a document not falling within paragraph (e) of that definition of which a visual image is embodied in a document falling within that paragraph, a reproduction of that image, whether enlarged or not,
 
 and any reference to a copy of the material part of a document must be construed accordingly;
 
@@ -572,13 +572,19 @@ thatAat the time of doing the act which causedB’sdeath was by reason of unsoun
 
 (5) A fact is said to be “not proved” when it is neither proved nor disproved.
 
-(6) For the purposes of sections 23sections 23, 128, 130 and 131, a reference to “advocate or solicitor” therein shall include a reference to any public officer in the Attorney-General’s Chambers when he acts as an advocate or a solicitor.
+(6) For the purposes of sections 23, 128, 130 and 131, a reference to “advocate or solicitor” therein shall include a reference to any public officer in the Attorney-General’s Chambers when he acts as an advocate or a solicitor.
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(7) For the purposes of sections 23sections 23, 128A, 130 and 131, a “legal counsel” means —
+(7) For the purposes of sections 23, 128A, 130 and 131, a “legal counsel” means —
 
-(a) a person (by whatever name called) who is an employee of an entity employed to undertake the provision of legal advice or assistance in connection with the application of the law or any form of resolution of legal disputes; or
+(a) a person (by whatever name called) who is an employee of an entity employed to undertake the provision of legal advice or assistance in connection with the application of the law or any form of resolution of legal disputes;
+
+[Act 41 of 2014 wef 01/01/2015]
+
+(aa) any Deputy Attorney‑General; or
+
+[Act 41 of 2014 wef 01/01/2015]
 
 (b) a public officer in the Singapore Legal Service —
 
@@ -3590,3 +3596,7 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of First Reading|8 July 2013 (Bill No. 12/2013 published on 8 July 2013)|
 ||Date of Second and Third Readings|12 August 2013|
 ||Date of commencement|1 October 2014|
+|43.|**Act 41 of 2014—Statutes (Miscellaneous Amendments â Deputy Attorney-General) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|1 January 2015|
