@@ -342,7 +342,7 @@
 
 - [138 Power to allow intervention on terms](#Power-to-allow-intervention-on-terms)
 
-- [139 Power to make rules](#Power-to-make-rules)
+- [139 Family Justice Rules](#Family-Justice-Rules)
 
 [**Part XI OFFENCES AGAINST WOMEN AND GIRLS**](#Part-XI)
 
@@ -442,7 +442,7 @@
 
 - [186 Savings for proceedings before 1st May 1997](#Savings-for-proceedings-before-1st-May-1997)
 
-[**FIRST SCHEDULE Kindred and affinity: prohibited degrees of relationship**](#FIRST-SCHEDULE-Kindred-and-affinity:-prohibited-degrees-of-relationship)
+[**FIRST SCHEDULE Kindred and affinity prohibited degrees of relationship**](#FIRST-SCHEDULE-Kindred-and-affinity-prohibited-degrees-of-relationship)
 
 [**SECOND SCHEDULE Consents required to the marriage of a minor**](#SECOND-SCHEDULE-Consents-required-to-the-marriage-of-a-minor)
 
@@ -1488,9 +1488,7 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 [30/96]
 
-(2) Rules of Court may be made for the purpose of giving effect to sections 65 and 66 and any such Rules may, in particular, make provision for the hearing without delay of any application for an order under section 65(5)(a).
-
-[30/96]
+(2) [Deleted by Act 27 of 2014 wef 01/01/2015]
 
 (3) The expiry by virtue of section 66(2) of an expedited order shall not prejudice the making of a further expedited order under that section.
 
@@ -1620,9 +1618,11 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 [2/2011 wef 01/06/2011]
 
-(c) make a garnishee order in accordance with the rules made under this Act;
+(c) make a garnishee order in accordance with the Family Justice Rules made under section 79;
 
 [2/2011 wef 01/06/2011]
+
+[Act 27 of 2015 wef 01/01/2015]
 
 [30/96]
 
@@ -1798,7 +1798,7 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Procedure
 
-79\.—(1) Except as otherwise provided in the rules made under subsection (1A), all applications to a Family Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by a District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
+79\.—(1) Except as otherwise provided in Family Justice Rules made under this section, all applications to a Family Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by a District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
 
 [2/2011 wef 01/06/2011]
 
@@ -1806,13 +1806,33 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 [Act 27 of 2014 wef 01/10/2014]
 
-(1A) The committee constituted under section 139 may make rules fixing and regulating the practice and procedure of any part of the proceedings under this Part as it deems fit.
+[Act 27 of 2014 wef 01/01/2015]
 
-[2/2011 wef 01/06/2011]
+(1A) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules regulating and prescribing the procedure and the practice to be followed for the purposes of this Part and Part VII and any matters incidental to or relating to any such procedure or practice.
 
-(2) The Rules of Court for the time being in force made under the provisions of the Supreme Court of Judicature Act (Cap. 322) and applicable to appeals from District Courts brought under section 21 of that Act shall apply to all appeals brought under section 77.
+[Act 27 of 2014 wef 01/01/2015]
 
-(3) Where an appeal is so brought from a Magistrate’s Court, the Rules of Court shall be construed and applied as far as necessary as if references to a District Court were references to a Magistrate’s Court and references to a District Judge were references to a Magistrate.
+(2) Without prejudice to the generality of subsection (1A), Family Justice Rules may be made for the following purposes:
+
+(a) prescribing the procedure for applications to the Family Court under this Part and Part VII;
+
+(b) giving effect to sections 65 and 66 and, in particular, providing for the hearing without delay of any application for an order under section 65(5)(a);
+
+(c) prescribing how any document (other than a summons issued under this Part) may be served on any person;
+
+(d) prescribing the procedure applicable to appeals from the Family Court brought under section 77;
+
+(e) prescribing the fees payable in relation to proceedings under this Part and Part VII.
+
+[Act 27 of 2014 wef 01/01/2015]
+
+(3) The Family Justice Rules made under this section may, instead of providing for any matter, refer to any provision made or to be made about the matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+[Act 27 of 2014 wef 01/01/2015]
+
+(3A) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (4) A court before which any application under this Part or Part VII is heard may make such order as to costs as it thinks fit.
 
@@ -2102,9 +2122,11 @@ DIVORCE
 
 [42/2005]
 
-(2) The court may, upon application being made in accordance with the Rules of Court, allow a writ to be filed before 3 years have passed on the ground that the case is one of exceptional hardship suffered by the plaintiff or of exceptional depravity on the part of the defendant, but if it appears to the court at the hearing of the proceedings that the plaintiff obtained leave to file the writ by any misrepresentation or concealment of the nature of the case, the court may, if it grants an interim judgment, do so subject to the condition that no application to make the judgment final shall be made until after the expiration of 3 years from the date of the marriage, or may dismiss the proceedings without prejudice to any proceedings which may be brought after the expiration of the said 3 years upon the same, or substantially the same, facts as those proved in support of the proceedings so dismissed.
+(2) The court may, upon application being made in accordance with the Family Justice Rules made under section 139, allow a writ to be filed before 3 years have passed on the ground that the case is one of exceptional hardship suffered by the plaintiff or of exceptional depravity on the part of the defendant, but if it appears to the court at the hearing of the proceedings that the plaintiff obtained leave to file the writ by any misrepresentation or concealment of the nature of the case, the court may, if it grants an interim judgment, do so subject to the condition that no application to make the judgment final shall be made until after the expiration of 3 years from the date of the marriage, or may dismiss the proceedings without prejudice to any proceedings which may be brought after the expiration of the said 3 years upon the same, or substantially the same, facts as those proved in support of the proceedings so dismissed.
 
 [42/2005]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (3) In determining any application under this section for leave to file a writ before the expiration of 3 years from the date of the marriage, the court shall have regard to the interest of any child of the marriage and to the question whether there is reasonable probability of a reconciliation between the parties before the expiration of the said 3 years.
 
@@ -2168,9 +2190,11 @@ DIVORCE
 
 ### Rules to provide for agreements to be referred to court
 
-96\. Provision may be made by Rules of Court for enabling the parties to a marriage, or either of them, on application made either before or after the filing of the writ for divorce, to refer to the court any agreement or arrangement made or proposed to be made between them, being an agreement or arrangement which relates to, arises out of, or is connected with, the proceedings for divorce which are contemplated or, as the case may be, have begun, and for enabling the court to express an opinion, should the court think it desirable to do so, as to the reasonableness of the agreement or arrangement and to give such directions, if any, in the matter as the court thinks fit.
+96\. Provision may be made by the Family Justice Rules made under section 139 for enabling the parties to a marriage, or either of them, on application made either before or after the filing of the writ for divorce, to refer to the court any agreement or arrangement made or proposed to be made between them, being an agreement or arrangement which relates to, arises out of, or is connected with, the proceedings for divorce which are contemplated or, as the case may be, have begun, and for enabling the court to express an opinion, should the court think it desirable to do so, as to the reasonableness of the agreement or arrangement and to give such directions, if any, in the matter as the court thinks fit.
 
 [42/2005]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Intervention of Attorney-General
 
@@ -2616,9 +2640,11 @@ MATRIMONIAL PROCEEDINGS
 
 (b) the divorce, annulment or judicial separation is entitled to be recognised as valid in Singapore under Singapore law,
 
-either party to the marriage may apply to the court in the manner prescribed in the rules made by the committee constituted under section 139 for an order for financial relief under this Chapter.
+either party to the marriage may apply to the court in the manner prescribed in the Family Justice Rules made under section 139 for an order for financial relief under this Chapter.
 
 [2/2011 wef 01/06/2011]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Jurisdiction of court
 
@@ -2634,9 +2660,11 @@ either party to the marriage may apply to the court in the manner prescribed in 
 
 ### Leave of court required for applications for financial relief
 
-121D\.—(1) No application for an order for financial relief shall be made unless the leave of the court has been obtained in accordance with the rules made by the committee constituted under section 139.
+121D\.—(1) No application for an order for financial relief shall be made unless the leave of the court has been obtained in accordance with the Family Justice Rules made under section 139.
 
 [2/2011 wef 01/06/2011]
+
+[Act 27 of 2014 wef 01/01/2015]
 
 (2) The court shall not grant leave unless it considers that there is substantial ground for the making of an application for such an order.
 
@@ -2888,9 +2916,11 @@ GENERAL PROVISIONS
 
 ### Procedure
 
-133\. Subject to the provisions of this Part, all proceedings under this Part shall be regulated by the Rules of Court.
+133\. Subject to the provisions of this Part, all proceedings under this Part shall be regulated by the Family Justice Rules made under section 139.
 
 [42/2005]
+
+[Act 27 of 2014 01/01/2015]
 
 ### Evidence
 
@@ -2926,27 +2956,21 @@ GENERAL PROVISIONS
 
 [42/2005]
 
-### Power to make rules
+### Family Justice Rules
 
-139\.—(1) A committee constituted by the following persons may make rules to fix and regulate the fees and costs payable upon all proceedings under this Part, and also such rules concerning the practice and procedure under this Part as they consider expedient:
+139\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules regulating and prescribing the procedure and the practice to be followed for the purposes of this Part and any matters incidental to or relating to any such procedure or practice.
 
-(a) the Chief Justice;
+(2) Without prejudice to the generality of subsection (1), Family Justice Rules may be made for the following purposes:
 
-(b) a Judge of the Supreme Court to be appointed by the Chief Justice for such period as he may specify in writing;
+(a) fixing and regulating the fees and costs payable in proceedings under this Part; and
 
-(c) a District Judge to be appointed by the Chief Justice for such period as he may specify in writing; and
+(b) providing for the forms to be used in proceedings under this Part.
 
-(d) 2 practising advocates and solicitors to be appointed by the Chief Justice for such period as he may specify in writing.
+(3) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-[42/2005; 2/2007]
+(4) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-(2) Rules made under subsection (1) may prescribe the forms to be used in proceedings under this Part.
-
-[42/2005]
-
-(3) All such rules shall be presented to Parliament as soon as possible after publication in theGazette.
-
-[42/2005]
+[Act 27 of 2014 wef 01/01/2015]
 
 ## PART XI
 
@@ -3462,7 +3486,7 @@ MISCELLANEOUS
 
 ### Rules
 
-180\.—(1) Subject to section 139, the Minister may make rules generally for carrying out the provisions of this Act and, in particular, may make rules providing for —
+180\.—(1) Subject to sections 79 and 139, the Minister may make rules generally for carrying out the provisions of this Act and, in particular, may make rules providing for —
 
 (a) the forms to be used for the purposes of this Act;
 
@@ -3486,11 +3510,17 @@ MISCELLANEOUS
 
 [30/96]
 
-(2) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazetteand if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when such rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+[Act 27 of 2014 wef 01/01/2015]
+
+(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazetteand if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when such rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
 [9/67]
 
-(3) Any person who contravenes any rules made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 27 of 2014 wef 01/01/2015]
+
+(3) Any person who contravenes any rules made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 27 of 2014 wef 01/01/2015]
 
 ### Marriages solemnized before 15th September 1961 deemed to be registered under this Act
 
@@ -3578,7 +3608,7 @@ FIRST SCHEDULE
 
 Section 10
 
-Kindred and affinity:
+Kindred and affinity
 
 
 
@@ -3920,3 +3950,9 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|26.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
