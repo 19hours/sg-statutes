@@ -304,11 +304,11 @@
 
 - [79 Reciprocal agreements](#Reciprocal-agreements)
 
-[**FIRST SCHEDULE Rates of Contribution**](#FIRST-SCHEDULE-Rates-of-Contribution)
+[**FIRST SCHEDULE Rates of contribution**](#FIRST-SCHEDULE-Rates-of-contribution)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**THIRD SCHEDULE Specified Acts Relating to Self-employed Persons**](#THIRD-SCHEDULE-Specified-Acts-Relating-to-Self-employed-Persons)
+[**THIRD SCHEDULE Specified acts relating to self-employed persons**](#THIRD-SCHEDULE-Specified-acts-relating-to-self-employed-persons)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1592,7 +1592,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [15/2006; 23/2012]
 
-(10C) [Deleted by Act 23 of 2012 wef 01/01/2013]
+(10C) [Deleted by Act 23 of 2012]
 
 (11) Where a member owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
 
@@ -1670,7 +1670,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act or the Registration of Deeds Act, as the case may be;
 
-(e) the charge shall on the application of the member or any other person having an interest in the property, be cancelled if the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
+(e) the charge shall, on the application of the member or any other person having an interest in the property, be cancelled if the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
 
 [5/87; 39/2000; 15/2006; 18/2009; 22/2010; 20/2011; 23/2012]
 
@@ -1922,7 +1922,7 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 [20/2011]
 
-(2) [Deleted by Act 20 of 2011].
+(2) [Deleted by Act 20 of 2011]
 
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
@@ -2196,7 +2196,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(3) [Deleted by Act 23 of 2012 wef 01/01/2013]
+(3) [Deleted by Act 23 of 2012]
 
 (4) Upon lodgment by the Board with the Registrar of an instrument (which shall be in such form as the Registrar may require) for the purpose of registering or notifying any charge under subsection (1) and the acceptance of the instrument by the Registrar, the Board shall have —
 
@@ -2214,7 +2214,7 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(7) [Deleted by Act 23 of 2012 wef 01/01/2013]
+(7) [Deleted by Act 23 of 2012]
 
 (8) Notwithstanding section 80 of the Land Titles Act and section 15 of the Registration of Deeds Act —
 
@@ -2304,7 +2304,7 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [27/95]
 
-(6) [Deleted by Act 23 of 2012 wef 01/01/2013]
+(6) [Deleted by Act 23 of 2012]
 
 (7) Notwithstanding section 80 of the Land Titles Act and section 15 of the Registration of Deeds Act—
 
@@ -2380,7 +2380,7 @@ there shall, immediately upon any such withdrawal, be a charge constituted on th
 
 [36/2002; 57/2007]
 
-(4) [Deleted by Act 23 of 2012 wef 01/01/2013]
+(4) [Deleted by Act 23 of 2012]
 
 (5) If —
 
@@ -2450,7 +2450,7 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 [36/2002]
 
-(14) [Deleted by Act 18 of 2009 wef 20/08/2009]
+(14) [Deleted by Act 18 of 2009]
 
 ### Withdrawals for payment of tuition fees at approved educational institution
 
@@ -2692,7 +2692,7 @@ by the transfer of such part of that portion as the Board may determine to that 
 
 (a) in writing delegate to any person or group of persons appointed by that Minister all or any of his functions and powers under subsections (1C) to (1F); and
 
-(b) under paragraph (a), delegate different functions and powers to different persons or groups of persons
+(b) under paragraph (a), delegate different functions and powers to different persons or groups of persons.
 
 [20/2011]
 
@@ -3043,8 +3043,6 @@ if to the best of the Board’s knowledge the deceased nominated person does not
 “proper claimant” means a person who —
 
 (a) claims to be entitled to the proceeds of the sale of the shares vested in the Board under subsection (1) as executor of the deceased member; or
-
-[22/2010]
 
 (b) claims to be entitled to the proceeds of the sale of the shares vested in the Board under subsection (1) (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased member.
 
@@ -3604,7 +3602,7 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (iv) there shall be a charge constituted on the HDB flat to secure the payment referred to in paragraph (ii);
 
-(v) sections 21(12) and 21B(2), (3)(a), (b) and (d), and (5) to (11) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
+(v) sections 21(12) and 21B(2), (3)(a), (b) and (d) and (5) to (11) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
 
 (A) any reference to the charge under section 21B(1) shall be read as a reference to the charge under paragraph (iv);
 
@@ -4238,7 +4236,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 (6) Notwithstanding subsection (2)(b), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
 
-(A + B) — C,
+(A + B) - C,
 
 where A is the amount prescribed under regulations made under this Part to be payable at the time of incapacity of the member;
 
@@ -4283,8 +4281,6 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 (b) fails to disclose to the Board any material fact or circumstance known to him at the time he is required to be insured under the Scheme which might influence the Board as to whether he should be insured under the Scheme.
 
 [30/87]
-
-[Act 24 of 2013 wef 01/09/2014]
 
 ### Housing Authority or approved mortgagee to send notice to Board on payment of premium
 
@@ -5788,17 +5784,19 @@ FIRST SCHEDULE
 
 Sections 7, 8, 70, 75 and 77
 
-Rates of Contribution
+Rates of contribution
 
-1. Subject to paragraphs 1A to 7, with effect from 1st January 2014, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1 January 2015, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 60 years of age:
 
-35 years of age and below
+50 years of age and below
 
-Above 35 but not more than 50 years of age
+Above 50 but not more than
+55 years of age
 
-Above 50 but not more than 55 years of age
+Above 55 but not more than
+60 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -5830,7 +5828,7 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 16% of the Total Wages.
+An amount equal to 17% of the Total Wages.
 
 NIL
 
@@ -5838,7 +5836,7 @@ An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 14% of the Total Wages.
+An amount equal to 12% of the Total Wages.
 
 NIL
 
@@ -5848,7 +5846,7 @@ An amount equal to the sum of —
 
 (a)
 
-16% of the Total Wages; and
+17% of the Total Wages; and
 
 An amount equal to 0.6 of the difference between the Total Wages and $500.
 
@@ -5858,19 +5856,15 @@ An amount equal to the sum of —
 
 16% of the Total Wages; and
 
-An amount equal to 0.6 of the difference between the Total Wages and $500.
+An amount equal to 0.57 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
 (a)
 
-14% of the Total Wages; and
+12% of the Total Wages; and
 
-An amount equal to 0.555 of the difference between the Total Wages and $500.
-
-(b)
-
-0.6 of the difference between the Total Wages and $500.
+An amount equal to 0.39 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -5878,7 +5872,11 @@ An amount equal to 0.555 of the difference between the Total Wages and $500.
 
 (b)
 
-0.555 of the difference between the Total Wages and $500.
+0.57 of the difference between the Total Wages and $500.
+
+(b)
+
+0.39 of the difference between the Total Wages and $500.
 
 Exceeding $750
 
@@ -5886,7 +5884,7 @@ An amount equal to the sum of —
 
 (a)
 
-36% of the employee’s ordinary wages for the month subject to a maximum of $1,800; and
+37% of the employee’s ordinary wages for the month subject to a maximum of $1,850; and
 
 An amount equal to the sum of —
 
@@ -5898,29 +5896,29 @@ An amount equal to the sum of —
 
 (a)
 
-36% of the employee’s ordinary wages for the month subject to a maximum of $1,800; and
+35% of the employee’s ordinary wages for the month subject to a maximum of $1,750; and
 
 An amount equal to the sum of —
 
 (a)
 
-20% of the employee’s ordinary wages for the month subject to a maximum of $1,000; and
+19% of the employee’s ordinary wages for the month subject to a maximum of $950; and
 
 An amount equal to the sum of —
 
 (a)
 
-32.5% of the employee’s ordinary wages for the month subject to a maximum of $1,625; and
+25% of the employee’s ordinary wages for the month subject to a maximum of $1,250; and
 
 An amount equal to the sum of —
 
 (a)
 
-18.5% of the employee’s ordinary wages for the month subject to a maximum of $925; and
+13% of the employee’s ordinary wages for the month subject to a maximum of $650; and
 
 (b)
 
-36% of the Relevant Additional Wages.
+37% of the Relevant Additional Wages.
 
 (b)
 
@@ -5928,25 +5926,24 @@ An amount equal to the sum of —
 
 (b)
 
-36% of the Relevant Additional Wages.
+35% of the Relevant Additional Wages.
 
 (b)
 
-20% of the Relevant Additional Wages.
+19% of the Relevant Additional Wages.
 
 (b)
 
-32.5% of the Relevant Additional Wages.
+25% of the Relevant Additional Wages.
 
 (b)
 
-18.5% of the Relevant Additional Wages.
+13% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 years of age:
+(b) where the employee is above 60 years of age:
 
-Above 55 but not more than 60 years of age
-
-Above 60 but not more than 65 years of age
+Above 60 but not more than
+65 years of age
 
 Above 65 years of age
 
@@ -5960,10 +5957,6 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
 (1)
 
 (2)
@@ -5974,21 +5967,13 @@ Amount recoverable from the employee’s wages for the calendar month
 
 (5)
 
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
 
-An amount equal to 10.5% of the Total Wages.
+An amount equal to 8.5% of the Total Wages.
 
 NIL
 
-An amount equal to 7% of the Total Wages.
-
-NIL
-
-An amount equal to 6.5% of the Total Wages.
+An amount equal to 7.5% of the Total Wages.
 
 NIL
 
@@ -5998,15 +5983,7 @@ An amount equal to the sum of —
 
 (a)
 
-10.5% of the Total Wages; and
-
-An amount equal to 0.39 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-7% of the Total Wages; and
+8.5% of the Total Wages; and
 
 An amount equal to 0.225 of the difference between the Total Wages and $500.
 
@@ -6014,13 +5991,9 @@ An amount equal to the sum of —
 
 (a)
 
-6.5% of the Total Wages; and
+7.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.39 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6036,19 +6009,7 @@ An amount equal to the sum of —
 
 (a)
 
-23.5% of the employee’s ordinary wages for the month subject to a maximum of $1,175; and
-
-An amount equal to the sum of —
-
-(a)
-
-13% of the employee’s ordinary wages for the month subject to a maximum of $650; and
-
-An amount equal to the sum of —
-
-(a)
-
-14.5% of the employee’s ordinary wages for the month subject to a maximum of $725; and
+16% of the employee’s ordinary wages for the month subject to a maximum of $800; and
 
 An amount equal to the sum of —
 
@@ -6060,7 +6021,7 @@ An amount equal to the sum of —
 
 (a)
 
-11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
 
 An amount equal to the sum of —
 
@@ -6070,15 +6031,7 @@ An amount equal to the sum of —
 
 (b)
 
-23.5% of the Relevant Additional Wages.
-
-(b)
-
-13% of the Relevant Additional Wages.
-
-(b)
-
-14.5% of the Relevant Additional Wages.
+16% of the Relevant Additional Wages.
 
 (b)
 
@@ -6086,23 +6039,25 @@ An amount equal to the sum of —
 
 (b)
 
-11.5% of the Relevant Additional Wages.
+12.5% of the Relevant Additional Wages.
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-[S 843/2013 wef 01/01/2014]
+[S 860/2014 wef 01/01/2015]
 
-1A. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1A. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 60 years of age:
 
-35 years of age and below
+50 years of age and below
 
-Above 35 but not more than 50 years of age
+Above 50 but not more than
+55 years of age
 
-Above 50 but not more than 55 years of age
+Above 55 but not more than
+60 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6246,11 +6201,10 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 years of age:
+(b) where the employee is above 60 years of age:
 
-Above 55 but not more than 60 years of age
-
-Above 60 but not more than 65 years of age
+Above 60 but not more than
+65 years of age
 
 Above 65 years of age
 
@@ -6264,10 +6218,6 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
 (1)
 
 (2)
@@ -6278,15 +6228,7 @@ Amount recoverable from the employee’s wages for the calendar month
 
 (5)
 
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
-
-An amount equal to 4% of the Total Wages.
-
-NIL
 
 An amount equal to 3.5% of the Total Wages.
 
@@ -6302,14 +6244,6 @@ An amount equal to the sum of —
 
 (a)
 
-4% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
 3.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
@@ -6321,10 +6255,6 @@ An amount equal to the sum of —
 3.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6335,18 +6265,6 @@ An amount equal to 0.15 of the difference between the Total Wages and $500.
 0.15 of the difference between the Total Wages and $500.
 
 Exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
 An amount equal to the sum of —
 
@@ -6374,14 +6292,6 @@ An amount equal to the sum of —
 
 (b)
 
-9% of the Relevant Additional Wages.
-
-(b)
-
-5% of the Relevant Additional Wages.
-
-(b)
-
 8.5% of the Relevant Additional Wages.
 
 (b)
@@ -6396,17 +6306,19 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-[S 843/2013 wef 01/01/2014]
+[S 860/2014 wef 01/01/2015]
 
-1B. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1B. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 60 years of age:
 
-35 years of age and below
+50 years of age and below
 
-Above 35 but not more than 50 years of age
+Above 50 but not more than
+55 years of age
 
-Above 50 but not more than 55 years of age
+Above 55 but not more than
+60 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6445,162 +6357,28 @@ NIL
 An amount equal to 9% of the Total Wages.
 
 NIL
-
-An amount equal to 9% of the Total Wages.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-Exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(b)
-
-24% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-24% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-24% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b) where the employee is above 55 years of age:
-
-Above 55 but not more than 60 years of age
-
-Above 60 but not more than 65 years of age
-
-Above 65 years of age
-
-Total amount of the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-Exceeding $50 but not exceeding $500
 
 An amount equal to 6% of the Total Wages.
 
 NIL
 
-An amount equal to 3.5% of the Total Wages.
-
-NIL
-
-An amount equal to 3.5% of the Total Wages.
-
-NIL
-
 Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the Total Wages; and
+
+An amount equal to 0.45 of the difference between the Total Wages and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the Total Wages; and
+
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -6610,35 +6388,43 @@ An amount equal to the sum of —
 
 An amount equal to 0.375 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of —
+(b)
 
-(a)
+0.45 of the difference between the Total Wages and $500.
 
-3.5% of the Total Wages; and
+(b)
 
-An amount equal to 0.225 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-3.5% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
+0.45 of the difference between the Total Wages and $500.
 
 (b)
 
 0.375 of the difference between the Total Wages and $500.
 
-(b)
-
-0.225 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
-
 Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 An amount equal to the sum of —
 
@@ -6651,6 +6437,95 @@ An amount equal to the sum of —
 (a)
 
 12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
+
+(b)
+
+24% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b)
+
+24% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b)
+
+18.5% of the Relevant Additional Wages.
+
+(b)
+
+12.5% of the Relevant Additional Wages.
+
+(b) where the employee is above 60 years of age:
+
+Above 60 but not more than
+65 years of age
+
+Above 65 years of age
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 3.5% of the Total Wages.
+
+NIL
+
+An amount equal to 3.5% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+3.5% of the Total Wages; and
+
+An amount equal to 0.225 of the difference between the Total Wages and $500.
+
+An amount equal to the sum of —
+
+(a)
+
+3.5% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
+
+(b)
+
+0.225 of the difference between the Total Wages and $500.
+
+(b)
+
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
 
 An amount equal to the sum of —
 
@@ -6678,14 +6553,6 @@ An amount equal to the sum of —
 
 (b)
 
-18.5% of the Relevant Additional Wages.
-
-(b)
-
-12.5% of the Relevant Additional Wages.
-
-(b)
-
 11% of the Relevant Additional Wages.
 
 (b)
@@ -6700,17 +6567,19 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-[S 843/2013 wef 01/01/2014]
+[S 860/2014 wef 01/01/2015]
 
-1C. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1C. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-(a) where the employee is not more than 55 years of age:
+(a) where the employee is not more than 60 years of age:
 
-35 years of age and below
+50 years of age and below
 
-Above 35 but not more than 50 years of age
+Above 50 but not more than
+55 years of age
 
-Above 50 but not more than 55 years of age
+Above 55 but not more than
+60 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6742,7 +6611,7 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 16% of the Total Wages.
+An amount equal to 17% of the Total Wages.
 
 NIL
 
@@ -6750,7 +6619,7 @@ An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 14% of the Total Wages.
+An amount equal to 12% of the Total Wages.
 
 NIL
 
@@ -6760,7 +6629,7 @@ An amount equal to the sum of —
 
 (a)
 
-16% of the Total Wages; and
+17% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
 
@@ -6776,7 +6645,7 @@ An amount equal to the sum of —
 
 (a)
 
-14% of the Total Wages; and
+12% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
 
@@ -6793,6 +6662,18 @@ An amount equal to 0.15 of the difference between the Total Wages and $500.
 0.15 of the difference between the Total Wages and $500.
 
 Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+22% of the employee’s ordinary wages for the month subject to a maximum of $1,100; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
 
 An amount equal to the sum of —
 
@@ -6810,19 +6691,7 @@ An amount equal to the sum of —
 
 (a)
 
-21% of the employee’s ordinary wages for the month subject to a maximum of $1,050; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-19% of the employee’s ordinary wages for the month subject to a maximum of $950; and
+17% of the employee’s ordinary wages for the month subject to a maximum of $850; and
 
 An amount equal to the sum of —
 
@@ -6832,7 +6701,7 @@ An amount equal to the sum of —
 
 (b)
 
-21% of the Relevant Additional Wages.
+22% of the Relevant Additional Wages.
 
 (b)
 
@@ -6848,25 +6717,20 @@ An amount equal to the sum of —
 
 (b)
 
-19% of the Relevant Additional Wages.
+17% of the Relevant Additional Wages.
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 years of age:
+(b) where the employee is above 60 years of age:
 
-Above 55 but not more than 60 years of age
-
-Above 60 but not more than 65 years of age
+Above 60 but not more than
+65 years of age
 
 Above 65 years of age
 
 Total amount of the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
 
 Contributions payable by the employer for the calendar month
 
@@ -6886,21 +6750,13 @@ Amount recoverable from the employee’s wages for the calendar month
 
 (5)
 
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
 
-An amount equal to 10.5% of the Total Wages.
+An amount equal to 8.5% of the Total Wages.
 
 NIL
 
-An amount equal to 7% of the Total Wages.
-
-NIL
-
-An amount equal to 6.5% of the Total Wages.
+An amount equal to 7.5% of the Total Wages.
 
 NIL
 
@@ -6910,7 +6766,7 @@ An amount equal to the sum of —
 
 (a)
 
-10.5% of the Total Wages; and
+8.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
 
@@ -6918,21 +6774,9 @@ An amount equal to the sum of —
 
 (a)
 
-7% of the Total Wages; and
+7.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-6.5% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6948,7 +6792,7 @@ An amount equal to the sum of —
 
 (a)
 
-15.5% of the employee’s ordinary wages for the month subject to a maximum of $775; and
+13.5% of the employee’s ordinary wages for the month subject to a maximum of $675; and
 
 An amount equal to the sum of —
 
@@ -6960,19 +6804,7 @@ An amount equal to the sum of —
 
 (a)
 
-12% of the employee’s ordinary wages for the month subject to a maximum of $600; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
 
 An amount equal to the sum of —
 
@@ -6982,7 +6814,7 @@ An amount equal to the sum of —
 
 (b)
 
-15.5% of the Relevant Additional Wages.
+13.5% of the Relevant Additional Wages.
 
 (b)
 
@@ -6990,31 +6822,25 @@ An amount equal to the sum of —
 
 (b)
 
-12% of the Relevant Additional Wages.
+12.5% of the Relevant Additional Wages.
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-(b)
+[S 860/2014 wef 01/01/2015]
 
-11.5% of the Relevant Additional Wages.
+1D. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-(b)
+(a) where the employee is not more than 60 years of age:
 
-5% of the Relevant Additional Wages.
+50 years of age and below
 
-[S 843/2013 wef 01/01/2014]
+Above 50 but not more than
+55 years of age
 
-1D. Subject to paragraphs 1E to 7, with effect from 1st January 2014, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
-
-(a) where the employee is not more than 55 years of age:
-
-35 years of age and below
-
-Above 35 but not more than 50 years of age
-
-Above 50 but not more than 55 years of age
+Above 55 but not more than
+60 years of age
 
 Total amount of the employee’s wages for the calendar month
 
@@ -7046,7 +6872,7 @@ Amount recoverable from the employee’s wages for the calendar month
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 16% of the Total Wages.
+An amount equal to 17% of the Total Wages.
 
 NIL
 
@@ -7054,11 +6880,19 @@ An amount equal to 16% of the Total Wages.
 
 NIL
 
-An amount equal to 14% of the Total Wages.
+An amount equal to 12% of the Total Wages.
 
 NIL
 
 Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+17% of the Total Wages; and
+
+An amount equal to 0.45 of the difference between the Total Wages and $500.
 
 An amount equal to the sum of —
 
@@ -7072,157 +6906,128 @@ An amount equal to the sum of —
 
 (a)
 
-16% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-14% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-Exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-29% of the employee’s ordinary wages for the month subject to a maximum of $1,450; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(b)
-
-31% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-31% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-29% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b) where the employee is above 55 years of age:
-
-Above 55 but not more than 60 years of age
-
-Above 60 but not more than 65 years of age
-
-Above 65 years of age
-
-Total amount of the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 10.5% of the Total Wages.
-
-NIL
-
-An amount equal to 7% of the Total Wages.
-
-NIL
-
-An amount equal to 6.5% of the Total Wages.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-10.5% of the Total Wages; and
+12% of the Total Wages; and
 
 An amount equal to 0.375 of the difference between the Total Wages and $500.
 
+(b)
+
+0.45 of the difference between the Total Wages and $500.
+
+(b)
+
+0.45 of the difference between the Total Wages and $500.
+
+(b)
+
+0.375 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
 An amount equal to the sum of —
 
 (a)
 
-7% of the Total Wages; and
+32% of the employee’s ordinary wages for the month subject to a maximum of $1,600; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a)
+
+24.5% of the employee’s ordinary wages for the month subject to a maximum of $1,225; and
+
+An amount equal to the sum of —
+
+(a)
+
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
+
+(b)
+
+32% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b)
+
+31% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b)
+
+24.5% of the Relevant Additional Wages.
+
+(b)
+
+12.5% of the Relevant Additional Wages.
+
+(b) where the employee is above 60 years of age:
+
+Above 60 but not more than
+65 years of age
+
+Above 65 years of age
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 8.5% of the Total Wages.
+
+NIL
+
+An amount equal to 7.5% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+8.5% of the Total Wages; and
 
 An amount equal to 0.225 of the difference between the Total Wages and $500.
 
@@ -7230,13 +7035,9 @@ An amount equal to the sum of —
 
 (a)
 
-6.5% of the Total Wages; and
+7.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.375 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -7252,19 +7053,7 @@ An amount equal to the sum of —
 
 (a)
 
-23% of the employee’s ordinary wages for the month subject to a maximum of $1,150; and
-
-An amount equal to the sum of —
-
-(a)
-
-12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-An amount equal to the sum of —
-
-(a)
-
-14.5% of the employee’s ordinary wages for the month subject to a maximum of $725; and
+16% of the employee’s ordinary wages for the month subject to a maximum of $800; and
 
 An amount equal to the sum of —
 
@@ -7276,7 +7065,7 @@ An amount equal to the sum of —
 
 (a)
 
-11.5% of the employee’s ordinary wages for the month subject to a maximum of $575; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
 
 An amount equal to the sum of —
 
@@ -7286,15 +7075,7 @@ An amount equal to the sum of —
 
 (b)
 
-23% of the Relevant Additional Wages.
-
-(b)
-
-12.5% of the Relevant Additional Wages.
-
-(b)
-
-14.5% of the Relevant Additional Wages.
+16% of the Relevant Additional Wages.
 
 (b)
 
@@ -7302,13 +7083,13 @@ An amount equal to the sum of —
 
 (b)
 
-11.5% of the Relevant Additional Wages.
+12.5% of the Relevant Additional Wages.
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-[S 843/2013 wef 01/01/2014]
+[S 860/2014 wef 01/01/2015]
 
 1E\. Subject to paragraphs 1F to 7, where a foreign employee becomes a permanent resident after 1st March 2009 but before 1st March 2011, or where a person becomes a permanent resident after 1st March 2009 but before 1st March 2011 and subsequently becomes an employee, the contributions payable in respect of that employee during the period beginning on 1st March 2011 and ending on the last day of the second anniversary month, shall be in accordance with the rates of contributions set out in paragraphs 1A and 1B.
 
@@ -7334,7 +7115,7 @@ whichever is the earlier.
 
 then —
 
-(i) if the agreement is for those contributions to be in accordance with the rates set out in the First Schedule to the Act, the rates in this Schedule shall continue to apply in relation to that employee; or
+(i) if the agreement is for those contributions to be in accordance with the rates set out in the First Schedule to the Act, the rates in this Schedule shall apply in relation to that employee; or
 
 (ii) if the agreement is for those contributions to be in accordance with the rates set out in paragraphs 3 and 4 of the Schedule to those Regulations, the rates set out in paragraphs 1C and 1D of this Schedule shall apply in relation to that employee,
 
@@ -7380,7 +7161,9 @@ shall be disregarded; and
 
 5. For the purpose of this Schedule —
 
-(a) a person shall be deemed to have attained 35, 50, 55, 60 or 65 years of age on the thirty-fifth, fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 35, 50, 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
+(a) a person is deemed to have attained 50, 55, 60 or 65 years of age on the fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of the person’s birth and the contributions payable in respect of an employee above 50, 55, 60 or 65 years of age are payable from the first day of the month following the month in which the employee attains that age;
+
+[S 860/2014 wef 01/01/2015]
 
 (b) the contribution payable by the employer shall be rounded off to the nearest dollar except where the fraction of a dollar is 50 cents, it shall be regarded as a dollar;
 
@@ -7486,7 +7269,7 @@ shall be disregarded; and
 
 (33) Nanyang Polytechnic.
 
-(34) [Deleted by S 193/2006 wef 01/04/2006]
+(34) [Deleted by S 193/2006]
 
 (35) National Arts Council.
 
@@ -7508,7 +7291,7 @@ shall be disregarded; and
 
 (44) People’s Association.
 
-(45) [Deleted by Act 16 of 2009 wef 01/07/2009]
+(45) [Deleted by Act 16 of 2009]
 
 (46) Professional Engineers Board.
 
@@ -7578,7 +7361,7 @@ SECOND SCHEDULE
 
 Sections 10 and 11
 
-Financial Provisions
+Financial provisions
 
 1.—(1) The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made, properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
 
@@ -7628,100 +7411,186 @@ THIRD SCHEDULE
 
 Section 13A
 
-Specified Acts Relating to
+Specified acts relating to
 
 
 
 
-Self-employed Persons
+self-employed persons
 
-1\. Animals and Birds Act (Cap. 7).
+1. 
 
-2\. Appraisers Act (Cap. 16).
+Animals and Birds Act (Cap. 7).
 
-3\. Arms and Explosives Act (Cap. 13).
+2. 
 
-4\. Business Registration Act (Cap. 32).
+Appraisers Act (Cap. 16).
 
-5\. Child Care Centres Act (Cap. 37A).
+3. 
 
-6\. Commodity Trading Act (Cap. 48A).
+Arms and Explosives Act (Cap. 13).
 
-7\. Control of Plants Act (Cap. 57A).
+4. 
 
-8\. Control of Vectors and Pesticides Act (Cap. 59).
+Business Registration Act (Cap. 32).
 
-9\. Customs Act (Cap. 70).
+5. 
 
-10\. Electricity Act (Cap. 89A).
+Child Care Centres Act (Cap. 37A).
 
-11\. Employment Agencies Act (Cap. 92).
+6. 
 
-12\. Environmental Protection and Management Act (Cap. 94A).
+Commodity Trading Act (Cap. 48A).
 
-13\. Environmental Public Health Act (Cap. 95).
+7. 
 
-14\. Estate Agents Act (Cap. 95A).
+Control of Plants Act (Cap. 57A).
 
-15\. Films Act (Cap. 107).
+8. 
 
-16\. Financial Advisers Act (Cap. 110).
+Control of Vectors and Pesticides Act (Cap. 59).
 
-17\. Fisheries Act (Cap. 111).
+9. 
 
-18\. Gas Act (Cap. 116A).
+Customs Act (Cap. 70).
 
-19\. Homes for the Aged Act (Cap. 126A).
+10. 
 
-20\. Limited Liability Partnerships Act (Cap. 163A).
+Electricity Act (Cap. 89A).
 
-21\. Limited Partnerships Act (Cap. 163B).
+11. 
 
-22\. Maritime and Port Authority of Singapore Act (Cap. 170A).
+Employment Agencies Act (Cap. 92).
 
-23\. Massage Establishments Act (Cap. 173).
+12. 
 
-24\. Money-changing and Remittance Businesses Act (Cap. 187).
+Environmental Protection and Management Act (Cap. 94A).
 
-25\. Moneylenders Act (Cap. 188).
+13. 
 
-26\. Parking Places Act (Cap. 214).
+Environmental Public Health Act (Cap. 95).
 
-27\. Pawnbrokers Act (Cap. 222).
+14. 
 
-28\. Planning Act (Cap. 232).
+Estate Agents Act (Cap. 95A).
 
-29\. Postal Services Act (Cap. 237A).
+15. 
 
-30\. Price Control Act (Cap. 244).
+Films Act (Cap. 107).
 
-31\. Private Security Industry Act (Cap. 250A).
+16. 
 
-32\. Public Entertainments and Meetings Act (Cap. 257).
+Financial Advisers Act (Cap. 110).
 
-33\. Public Utilities Act (Cap. 261).
+17. 
 
-34\. Road Traffic Act (Cap. 276).
+Fisheries Act (Cap. 111).
 
-35\. Rubber Industry Act (Cap. 280).
+18. 
 
-36\. Sale of Food Act (Cap. 283).
+Gas Act (Cap. 116A).
 
-37\. Secondhand Goods Dealers Act (Cap. 288A).
+19. 
 
-38\. Securities and Futures Act (Cap. 289).
+Homes for the Aged Act (Cap. 126A).
 
-39\. Sewerage and Drainage Act (Cap. 294).
+20. 
 
-40\. Singapore Tourism Board Act (Cap. 305B).
+Limited Liability Partnerships Act (Cap. 163A).
 
-41\. Telecommunications Act (Cap. 323).
+21. 
 
-42\. Wholesome Meat and Fish Act (Cap. 349A).
+Limited Partnerships Act (Cap. 163B).
 
-43. Workplace Safety and Health Act (Cap. 354A).
+22. 
 
-[27/92; 7/96; 43/99; 22/2000; 42/2001; 7/2006; 4/2007; 26/2007; 38/2007; 25/2010; S 34/93; S 520/99; S 258/2000;S 457/2004; S 660/2004; S 243/2005; S 191/2009; S 154/2010]
+Maritime and Port Authority of Singapore Act (Cap. 170A).
+
+23. 
+
+Massage Establishments Act (Cap. 173).
+
+24. 
+
+Money-changing and Remittance Businesses Act (Cap. 187).
+
+25. 
+
+Moneylenders Act (Cap. 188).
+
+26. 
+
+Parking Places Act (Cap. 214).
+
+27. 
+
+Pawnbrokers Act (Cap. 222).
+
+28. 
+
+Planning Act (Cap. 232).
+
+29. 
+
+Postal Services Act (Cap. 237A).
+
+30. 
+
+Price Control Act (Cap. 244).
+
+31. 
+
+Private Security Industry Act (Cap. 250A).
+
+32. 
+
+Public Entertainments and Meetings Act (Cap. 257).
+
+33. 
+
+Public Utilities Act (Cap. 261).
+
+34. 
+
+Road Traffic Act (Cap. 276).
+
+35. 
+
+Rubber Industry Act (Cap. 280).
+
+36. 
+
+Sale of Food Act (Cap. 283).
+
+37. 
+
+Secondhand Goods Dealers Act (Cap. 288A).
+
+38. 
+
+Securities and Futures Act (Cap. 289).
+
+39. 
+
+Sewerage and Drainage Act (Cap. 294).
+
+40. 
+
+Singapore Tourism Board Act (Cap. 305B).
+
+41. 
+
+Telecommunications Act (Cap. 323).
+
+42. 
+
+Wholesome Meat and Fish Act (Cap. 349A).
+
+43. 
+
+Workplace Safety and Health Act (Cap. 354A).
+
+[27/92; 7/96; 43/99; 22/2000; 42/2001; 7/2006; 4/2007; 26/2007; 38/2007; 25/2010; S 34/93; S 520/99; S 258/2000; S 457/2004; S 660/2004; S 243/2005; S 191/2009; S 154/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -8466,6 +8335,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|195.|**G.N. No. S 860/2014—Central Provident Fund Act (Amendment of First Schedule) Notification 2014**|
+||Date of commencement|1 January 2015|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
