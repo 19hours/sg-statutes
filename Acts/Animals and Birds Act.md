@@ -102,13 +102,23 @@
 
 - [40 Anti-rabies vaccination of dogs](#Anti-rabies-vaccination-of-dogs)
 
-[**Part IV PREVENTION OF CRUELTY TO ANIMALS**](#Part-IV)
+[**Part IV ANIMAL WELFARE AND PREVENTION OF CRUELTY TO ANIMALS**](#Part-IV)
 
 - [41 Interpretation of this Part](#Interpretation-of-this-Part)
 
+- [41A Codes of animal welfare](#Codes-of-animal-welfare)
+
+- [41B Use of codes of animal welfare in proceedings](#Use-of-codes-of-animal-welfare-in-proceedings)
+
+- [41C Duty of care of animal owners](#Duty-of-care-of-animal-owners)
+
 - [42 Cruelty to animals](#Cruelty-to-animals)
 
-- [43 Powers of authorised officers and police officers](#Powers-of-authorised-officers-and-police-officers)
+- [43 Prescribed activities and services to be performed by qualified individuals](#Prescribed-activities-and-services-to-be-performed-by-qualified-individuals)
+
+- [43A Power to issue directions](#Power-to-issue-directions)
+
+- [43B Disqualification orders](#Disqualification-orders)
 
 - [44 Orders by Magistrate when an offence has been committed](#Orders-by-Magistrate-when-an-offence-has-been-committed)
 
@@ -124,13 +134,15 @@
 
 - [49 Movement or slaughter of animals and birds may be prohibited](#Movement-or-slaughter-of-animals-and-birds-may-be-prohibited)
 
-[**Part VI SEARCH, SEIZURE AND ARREST**](#Part-VI)
+[**Part VI ENFORCEMENT POWERS**](#Part-VI)
 
-- [50 Power of search for diseased animals or birds](#Power-of-search-for-diseased-animals-or-birds)
+- [50 Powers of search, etc.](#Powers-of-search-etc)
 
-- [51 Seizure of animal, bird, carcases or articles](#Seizure-of-animal-bird-carcases-or-articles)
+- [51 Powers of seizure](#Powers-of-seizure)
 
 - [52 Powers of arrest](#Powers-of-arrest)
+
+- [52A Powers of investigation](#Powers-of-investigation)
 
 [**Part VII LICENSING OF VETERINARY CENTRE, VETERINARY BIOLOGICS AND KEEPING, BREEDING, ETC., OF ANIMAL OR BIRD**](#Part-VII)
 
@@ -226,7 +238,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “aircraft” includes any kind of craft which may be used for the conveyance of animals or birds by air;
 
@@ -308,7 +320,11 @@ PRELIMINARY
 
 (b) the treatment, vaccination or inoculation of animals or birds.
 
-[16/2000; 10/2002]
+[Act 46 of 2014 wef 16/01/2015]
+
+(2) Nothing in this Act affects a police officer’s powers or duties under the Criminal Procedure Code (Cap. 68).
+
+[Act 46 of 2014 wef 16/01/2015]
 
 ### Appointment of Director-General, etc.
 
@@ -1052,13 +1068,123 @@ Special provisions relating to dogs and cats in connection with rabies
 
 ## PART IV
 
-PREVENTION OF CRUELTY TO ANIMALS
+ANIMAL WELFARE AND PREVENTION OF CRUELTY TO ANIMALS
 
 ### Interpretation of this Part
 
-41\. In this Part, unless the context otherwise requires, “animal” includes any beast, bird, fish, reptile or insect, whether wild or tame.
+41\. In this Part, unless the context otherwise requires —
 
-[42
+“animal” includes any beast, bird, fish or reptile, whether wild or tame;
+
+“animal-related business” means —
+
+(a) the operation of any place or establishment for the purpose of —
+
+(i) using or holding animals for display, sport, entertainment, sale, breeding or conservation; or
+
+(ii) the care, boarding, grooming, treatment, vaccination, inoculation, training or destruction of animals, for reward;
+
+(b) the provision of any service relating to the care, boarding, grooming, treatment, vaccination, inoculation, training, transportation, capture or destruction of animals, for reward; or
+
+(c) the operation of any animal rescue or welfare organisation or facility,
+
+but does not include any business in respect of animals intended for consumption;
+
+“code of animal welfare” means any code of animal welfare issued, adopted or amended by the Director-General and in force under section 41A;
+
+“owner”, in relation to an animal, includes a person in charge of the animal;
+
+“person in charge”, in relation to an animal, means a person who has, whether permanently or on a temporary basis, the animal in the person’s possession, custody or control, or under the person’s care or supervision, and includes an individual who has the animal in such a manner in the course of the individual’s employment;
+
+“reward” means any payment or other benefit (whether monetary or otherwise).
+
+[Act 46 of 2014 wef 16/01/2015]
+
+### Codes of animal welfare
+
+41A\.—(1) The Director-General may, from time to time, for the purposes of this Part —
+
+(a) issue one or more codes of animal welfare;
+
+(b) adopt as a code of animal welfare, with or without any modification, any document (or any part of such document) prepared by any person in or outside Singapore; or
+
+(c) amend or revoke any code of animal welfare issued or adopted under this subsection,
+
+with respect to the standards of care to be provided or observed in respect of any animal or class of animals.
+
+(2) Upon issuing, adopting, amending or revoking a code of animal welfare under subsection (1), the Director-General must —
+
+(a) publish a notice of the issue, adoption, amendment or revocation, as the case may be, in such manner as will secure adequate publicity for such issue, adoption, amendment or revocation;
+
+(b) specify the date of the issue, adoption, amendment or revocation, as the case may be, in the notice; and
+
+(c) ensure that the code of animal welfare (including any amendment made to the code of animal welfare) remains available for access or inspection without charge by the public.
+
+(3) Any issue, adoption, amendment or revocation of a code of animal welfare under subsection (1) does not have any force or effect until the notice relating to it has been published in accordance with subsection (2)(a) and (b).
+
+(4) If any provision of any code of animal welfare in force under this section is inconsistent with any provision of this Act or any rule made under this Act, the provision in the code of animal welfare does not, to the extent of the inconsistency, have effect.
+
+(5) The Director-General may, either generally or for such time as the Director-General may specify, waive the application of any code of animal welfare (or any part of such code) issued, adopted or amended under this section to any animal owner or class of animal owners, or in respect of any animal or class of animals.
+
+(6) Any code of animal welfare issued under this section shall be deemed not to be subsidiary legislation.
+
+[Act 46 of 2014 wef 16/01/2015]
+
+### Use of codes of animal welfare in proceedings
+
+41B\.—(1) A person shall not be liable to any criminal proceedings by reason only that the person has failed to observe any provision of a code of animal welfare.
+
+(2) In any criminal proceedings, any party to the proceedings may rely upon —
+
+(a) the failure of a person to comply with a provision of a code of animal welfare which applies to that person; or
+
+(b) that person’s compliance with that provision,
+
+as tending to establish or negate any liability which is in question in the proceedings.
+
+[Act 46 of 2014 wef 16/01/2015]
+
+### Duty of care of animal owners
+
+41C\.—(1) Every owner of an animal —
+
+(a) must take reasonable steps to ensure that —
+
+(i) the animal is provided with adequate and suitable food and water, taking into account its dietary needs;
+
+(ii) the animal is provided with adequate shelter;
+
+(iii) the animal is not kept in confinement, conveyed, lifted, carried or handled in a manner or position that subjects the animal to unreasonable or unnecessary pain or suffering; and
+
+(iv) the animal is protected from, and rapidly diagnosed of, any significant injury or disease;
+
+(b) must not abandon the animal, or cause or permit the animal to be abandoned, whether permanently or temporarily, without reasonable cause or excuse;
+
+(c) in the case where the animal is missing, must make reasonable efforts to recover the animal; and
+
+(d) must take reasonable steps to ensure that the animal is cared for in accordance with the codes of animal welfare applicable to the animal.
+
+(2) Any person who fails to comply with subsection (1)(a), (b) or (c) shall be guilty of an offence.
+
+(3) A person who is guilty of an offence under subsection (2) shall be liable on conviction —
+
+(a) in the case where the person commits the offence in the course of carrying on, or employment or purported employment with, an animal-related business —
+
+(i) for a first offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 2 years or to both; and
+
+(ii) for a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; and
+
+(b) in any other case —
+
+(i) for a first offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(ii) for a second or subsequent offence, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) For the purpose of subsection (3), a person is a repeat offender if the person who is convicted, or found guilty, of an offence under subsection (2) has (whether before, on or after the date of commencement of section 4 of the Animals and Birds (Amendment) Act 2014) been convicted or found guilty on at least one other earlier occasion of an offence under section 42(1)(f) in force immediately before that date.
+
+(5) In this section, “employment”, in relation to an animal-related business, includes the holding of the office, or purporting to act in the capacity, of a director, manager, partner, secretary or other analogous position in the animal-related business.
+
+[Act 46 of 2014 wef 16/01/2015]
 
 ### Cruelty to animals
 
@@ -1068,21 +1194,23 @@ PREVENTION OF CRUELTY TO ANIMALS
 
 (b) causes or procures or, being the owner, permits any animal to be so used;
 
-(c) being in charge of any animal in confinement or in the course of transport from one place to another neglects to supply the animal with sufficient food and water;
+(c) [Deleted by Act 46 of 2014 wef 16/01/2015]
 
 (d) by wantonly or unreasonably doing or omitting to do any act, causes any unnecessary pain or suffering or, being the owner, permits any unnecessary pain or suffering to any animal;
 
-(e) causes, procures or, being the owner, permits to be confined, conveyed, lifted or carried any animal in such a manner or position as to subject it to unnecessary pain or suffering;
+(e) [Deleted by Act 46 of 2014 wef 16/01/2015]
 
-(f) being the owner of any animal, abandons the animal without reasonable cause or excuse, whether permanently or not, in circumstances likely to cause the animal any unnecessary suffering or distress, or causes or permits the animal to be so abandoned;
+(f) [Deleted by Act 46 of 2014 wef 16/01/2015]
 
 (g) employs or causes or procures or, being the owner, permits to be employed in any work of labour, any animal which in consequence of any disease, infirmity, wound or sore, or otherwise is unfit to be so employed; or
 
 (h) causes, procures or assists at the fighting or baiting of any animal, or keeps, uses, manages, or acts or assists in the management of any premises or place for the purpose, or partly for the purpose, of fighting or baiting any animal, or permits any premises or place to be so kept, managed or used, or receives or causes or procures any person to receive money for the admission of any person to the premises or place,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; except where an owner is convicted of having permitted cruelty to an animal under subsection (2), he shall be liable to a fine not exceeding $10,000.
+shall be guilty of an offence.
 
 [10/2002]
+
+[Act 46 of 2014 wef 16/01/2015]
 
 (2) For the purposes of subsection (1), an owner shall be deemed to have permitted cruelty to an animal, if he has failed to exercise reasonable care and supervision in respect of the animal.
 
@@ -1090,43 +1218,83 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [43
 
-### Powers of authorised officers and police officers
+(4) A person who is guilty of an offence under subsection (1) shall be liable on conviction —
 
-43\.—(1) Any authorised officer or any police officer may, without warrant —
+(a) in the case where the person commits the offence in the course of carrying on, or employment or purported employment with, an animal-related business —
 
-(a) arrest any person who, in his presence, commits an offence under section 42;
+(i) for a first offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(b) enter and search any premises in which he has reasonable cause for suspecting that an offence under section 42 has been or is being committed; and
+(ii) for a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; and
 
-(c) seize any animal in respect of which, and any conveyance or article with or by means of which, that offence is reasonably suspected to have been committed.
+(b) in any other case —
 
-[10/2002]
+(i) for a first offence, to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 18 months or to both; and
 
-(2) An authorised officer or a police officer acting under subsection (1)(b) may, if the circumstances so warrant, with such assistance as he thinks necessary, remove anything obstructing his entry to the premises or break open any door, window, lock, fastener, hold, compartment, box, container or any other thing.
+(ii) for a second or subsequent offence, to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[10/2002]
+[Act 46 of 2014 wef 16/01/2015]
 
-(3) Any person arrested and any conveyance or article seized under subsection (1) shall immediately be taken to a police station.
+(5) In this section, “employment”, in relation to an animal-related business, includes the holding of the office, or purporting to act in the capacity, of a director, manager, partner, secretary or other analogous position in the animal-related business.
 
-[10/2002]
+[Act 46 of 2014 wef 16/01/2015]
 
-(4) Any animal seized under subsection (1) shall be taken to a police station, pound, veterinary centre or any other place which the authorised officer or police officer thinks fit and may, subject to any order made in respect thereof by a Magistrate, be detained there until the accused has been tried by a court.
+### Prescribed activities and services to be performed by qualified individuals
 
-[10/2002]
+43\.—(1) A person carrying on any prescribed animal-related business must not employ or engage any individual to perform any prescribed activity or service, or prescribed class of activities or services, relating to the ownership of an animal or class of animals unless the individual holds such qualifications or has completed such training as the Director-General may specify.
 
-(5) No compensation shall be payable to any person in respect of any damage to his property caused or occasioned by any act authorised by subsection (2).
+(2) The Director-General must publish on a prescribed website the Director-General’s specifications on qualifications and training under subsection (1).
 
-[10/2002]
+(3) Any person carrying on a prescribed animal-related business who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(6) Any authorised officer or any police officer may stop and examine in any street or public place any animal in respect of which he has reason to believe that an offence under section 42 has been or is being committed.
+[Act 46 of 2014 wef 16/01/2015]
 
-[44
+### Power to issue directions
 
-[10/2002]
+43A\.—(1) The Director-General may in any particular case issue to the owner of an animal such directions as the Director-General considers necessary to ensure that —
+
+(a) the welfare of the animal is safeguarded; or
+
+(b) the provisions of this Part are complied with,
+
+and the owner must comply with the directions.
+
+(2) Any person who fails, without reasonable excuse, to comply with any direction issued to the person under subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case where the person commits the offence in the course of carrying on, or employment or purported employment with, an animal-related business, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in any other case, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) In this section, “employment”, in relation to an animal-related business, includes the holding of the office, or purporting to act in the capacity, of a director, manager, partner, secretary or other analogous position in the animal-related business.
+
+[Act 46 of 2014 wef 16/01/2015]
+
+### Disqualification orders
+
+43B\.—(1) Where a person is convicted of an offence under section 41C(2), 42(1) or 43(3), the court before which the person is convicted of that offence may, in addition to the punishment provided for that offence —
+
+(a) in the case where the person commits the offence in the course of carrying on, or employment or purported employment with, an animal-related business, disqualify the person from —
+
+(i) carrying on any animal-related business or class of animal-related businesses; or
+
+(ii) being a person in charge of any animal or class of animals in the course of any employment with any animal-related business; and
+
+(b) in any other case, disqualify the person from owning any animal or any class of animals,
+
+for a period not exceeding 12 months starting on such date as the court may specify.
+
+(2) Where a court makes a disqualification order against a person under subsection (1), the court may make such order as it thinks fit for the disposal of any animal owned by the person at the time of the making or start of the disqualification order.
+
+(3) Any person who contravenes a disqualification order made against the person under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) Any person carrying on the business of an animal-related business who, knowingly or with reckless disregard, employs any individual in any capacity that is prohibited by a disqualification order made against that individual under subsection (1)(a)(ii) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(5) In this section, “employment”, in relation to an animal-related business, includes the holding of the office, or purporting to act in the capacity, of a director, manager, partner, secretary or other analogous position in the animal-related business.
+
+[Act 46 of 2014 wef 16/01/2015]
 
 ### Orders by Magistrate when an offence has been committed
 
-44\.—(1) When any person has been convicted of an offence under section 42, the court may order —
+44\.—(1) When any person has been convicted of an offence under this Part, the court may order —
 
 (a) that the animal in respect of which the offence was committed be taken to a veterinary centre or such other place as the court may specify and there detained and treated for any period stated in the order, or until released by further order of a Magistrate or until an authorised officer has certified in writing that it may properly be released;
 
@@ -1136,13 +1304,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [16/2000; 10/2002]
 
+[Act 46 of 2014 wef 16/01/2015]
+
 (2) Where the court makes an order under subsection (1)(a), the person who has been convicted of an offence in respect of the animal shall be liable to pay the costs and expenses for its maintenance and treatment until it is declared fit for release or use.
 
 [10/2002]
 
-(3) Without prejudice to subsection (1), where the owner of any animal is convicted of an offence under section 42, the court may, upon convicting him, if it thinks fit, in addition to any other punishment, deprive him of the ownership of the animal and make such order as to the disposal of the animal as the court thinks fit.
+(3) Without prejudice to subsection (1), where the owner of any animal is convicted of an offence under this Part, the court may, upon convicting him, if it thinks fit, in addition to any other punishment, deprive him of the ownership of the animal and make such order as to the disposal of the animal as the court thinks fit.
 
 [10/2002]
+
+[Act 46 of 2014 wef 16/01/2015]
 
 (4) The court shall not make an order under subsection (3) unless it is satisfied by evidence as to a previous conviction, or as to the character of the owner or otherwise, that the animal, if left with the owner, is likely to be exposed to cruelty.
 
@@ -1166,13 +1338,17 @@ may give written directions requiring the animal to be destroyed and those direc
 
 [21/93; 16/2000; 10/2002]
 
-(2) If the animal so diseased or injured is in any house, stable, shed, or enclosure proper for that animal and not in a public thoroughfare, market or place, no written directions shall be given until the owner of the animal (if known) or person in charge (if any) has been duly notified of the state of the animal.
+(2) If the animal so diseased or injured is in any house, stable, shed, or enclosure proper for that animal and not in a public thoroughfare, market or place, no written directions shall be given until the owner of the animal (if known) has been duly notified of the state of the animal.
 
 [21/73]
 
-(3) If any animal is destroyed under written directions given under subsection (1), the expenses of the removal and burial of the carcase of the animal shall be paid by the owner or person in charge thereof and the amount thereof may be recovered from that owner or person in charge in a summary manner before a Magistrate.
+[Act 46 of 2014 wef 16/01/2015]
+
+(3) If any animal is destroyed under written directions given under subsection (1), the expenses of the removal and burial of the carcase of the animal shall be paid by the owner thereof and the amount thereof may be recovered from that owner in a summary manner before a Magistrate.
 
 [46
+
+[Act 46 of 2014 wef 16/01/2015]
 
 ### No compensation for destruction of an animal incurably diseased or injured or destroyed at request of professed owner
 
@@ -1224,9 +1400,9 @@ CONTROL OF LIVESTOCK
 
 ## PART VI
 
-SEARCH, SEIZURE AND ARREST
+ENFORCEMENT POWERS
 
-### Power of search for diseased animals or birds
+### Powers of search, etc.
 
 50\.—(1) For the purpose of ascertaining whether any animal or bird is suffering from disease or for the purpose of ascertaining whether any offence under this Act has been or is being committed —
 
@@ -1240,6 +1416,14 @@ SEARCH, SEIZURE AND ARREST
 
 [10/2002]
 
+(2A) Any authorised officer, police officer or officer of customs acting under subsection (1) may take such photographs or audio or video recordings as necessary of any premises or conveyance referred to in that subsection (including anything in the premises or conveyance).
+
+[Act 46 of 2014 wef 16/01/2015]
+
+(2B) Any authorised officer, police officer or officer of customs may stop and examine in any street or public place any animal in respect of which the officer has reason to believe that an offence under this Act has been or is being committed.
+
+[Act 46 of 2014 wef 16/01/2015]
+
 (3) No compensation shall be payable to any person in respect of any damage to his property caused or occasioned by any act authorised by subsection (2).
 
 [10/2002]
@@ -1250,47 +1434,109 @@ SEARCH, SEIZURE AND ARREST
 
 [10/2002]
 
-### Seizure of animal, bird, carcases or articles
+[Act 46 of 2014 wef 16/01/2015]
+
+### Powers of seizure
 
 51\.—(1) Where any authorised officer or police officer has reason to believe that any offence under this Act has been or is being committed or where any officer of customs has reason to believe that an offence under this Act relating to importation or exportation has been or is being committed, the authorised officer, officer of customs or police officer may —
 
-(a) seize any animal, bird, carcase or article, the subject-matter of such an offence; and
+(a) seize any animal, bird, carcase or article, the subject-matter of such an offence;
 
-(b) remove that animal, bird, carcase or article to any compound, enclosure or other place selected by the authorised officer and there detain it.
+[Act 46 of 2014 wef 16/01/2015]
+
+(aa) seize any article or conveyance with which or by means of which, the offence is reasonably suspected to have been committed; and
+
+[Act 46 of 2014 wef 16/01/2015]
+
+(b) remove that animal, bird, carcase, article or conveyance to any compound, enclosure or other place selected by the authorised officer and there detain it.
 
 [16/2000]
 
-(2) Where any animal, bird, carcase or article has been seized and detained under subsection (1), the authorised officer, officer of customs or police officer shall report the same to a Magistrate and the Magistrate may make such order for the further detention or release of the animal, bird, carcase or article as he may think fit.
+[Act 46 of 2014 wef 16/01/2015]
+
+(2) Where any animal, bird, carcase, article or conveyance has been seized and detained under subsection (1), the authorised officer, officer of customs or police officer shall report the same to a Magistrate and the Magistrate may make such order for the further detention or release of the animal, bird, carcase, article or conveyance as he may think fit.
 
 [16/2000]
 
-(3) The owner of the animal, bird, carcase or article shall pay such sum as the Magistrate may consider reasonable to cover the expenses connected with its removal to a place of detention and unless that sum is paid within a specified time the animal, bird, carcase or article shall be forfeited.
+[Act 46 of 2014 wef 16/01/2015]
+
+(3) The owner of the animal, bird, carcase, article or conveyance shall pay such sum as the Magistrate may consider reasonable to cover the expenses connected with its removal to a place of detention and unless that sum is paid within a specified time the animal, bird, carcase, article or conveyance shall be forfeited.
 
 [52
 
+[Act 46 of 2014 wef 16/01/2015]
+
+[Act 46 of 2014 wef 16/01/2015]
+
 ### Powers of arrest
 
-52\.—(1) Any authorised officer, officer of customs or police officer may arrest without warrant any person whom he sees or finds committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act, if —
+52\.—(1) An authorised officer, a police officer or an officer of customs may arrest without warrant any person whom the officer reasonably suspects of committing or attempting to commit an offence under this Act.
 
-(a) the person refuses to furnish his name and address;
+[Act 46 of 2014 wef 16/01/2015]
 
-(b) the person furnishes an address out of Singapore;
+(1A) The officer making an arrest under this section must not restrain the person arrested more than is necessary to prevent the person’s escape.
 
-(c) there are reasonable grounds for believing that the person has furnished a false name or address; or
-
-(d) the person is likely to abscond.
-
-[16/2000]
+[Act 46 of 2014 wef 16/01/2015]
 
 (2) Any authorised officer, officer of customs or police officer making an arrest without warrant shall, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court.
 
 [16/2000]
+
+(2A) A person who is arrested under this section must not be detained in custody for a period longer than is reasonable under the circumstances of the case, and such period must not exceed 48 hours (excluding the time necessary for the journey to a Magistrate’s Court).
+
+[Act 46 of 2014 wef 16/01/2015]
 
 (3) No person who has been arrested by any authorised officer, officer of customs or police officer shall be released, except on his own bond or on bail or on the special order in writing of the Magistrate or the Director-General.
 
 [53
 
 [16/2000]
+
+### Powers of investigation
+
+52A\.—(1) For the purposes of investigating any offence under this Act, an authorised officer, a police officer or an officer of customs may do all or any of the following:
+
+(a) examine orally any person who appears to be material to the investigation —
+
+(i) whether before or after that person or anyone else is charged with an offence in connection with the case; and
+
+(ii) whether or not the person is to be called as a witness in any inquiry, trial or other proceeding in connection with the case;
+
+(b) issue a written notice requiring any person within the limits of Singapore, who appears to be material to the investigation, to attend before the officer;
+
+(c) require any person who is reasonably believed to have —
+
+(i) any information; or
+
+(ii) any document or article in the person’s possession, custody or control,
+
+relevant to the investigation, to furnish that information, or produce that document or article.
+
+(2) Any person examined under this section shall be bound to state truly what the person knows of the facts and circumstances of the case, except that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture.
+
+(3) A statement made by any person examined under this section must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+(4) If any person fails to comply with a written notice issued to the person by an authorised officer, a police officer or an officer of customs under subsection (1)(b), the officer may report such failure to a Magistrate who may then, in the Magistrate’s discretion, issue a warrant ordering the person to comply with the written notice.
+
+(5) Subject to subsection (6), an authorised officer, a police officer or an officer of customs may take possession of, or any extract from or copy of, any document or article produced under subsection (1)(c) for further investigation.
+
+(6) Any thing taken possession of by an authorised officer, a police officer or an officer of customs under subsection (5) —
+
+(a) must be placed in safe custody by the officer; and
+
+(b) unless ordered otherwise by a court, may be retained by the officer until the completion of any proceedings (including proceedings on appeal) in which it may be evidence.
+
+(7) Any person who, without reasonable excuse, refuses or fails to comply with any notice issued to the person under subsection (1)(b) or with any requirement made of the person under subsection (1)(c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 46 of 2014 wef 16/01/2015]
 
 ## PART VII
 
@@ -1804,6 +2050,10 @@ appended thereto shall be sufficient authentication.
 
 (h) to provide for the licensing, control, supervision and inspection of places in which animals or birds are or may be kept in captivity for sale, export, exhibition, production, or any other purpose;
 
+(ha) to provide for the licensing, control, supervision and inspection of places and establishments where animals (as defined in section 41) are or may be boarded for reward;
+
+[Act 46 of 2014 wef 16/01/2015]
+
 (i) to provide for the inspection of premises subject to this Act and of vehicles, aircraft or ships used for the carriage of animals and birds;
 
 (j) to provide for the control of pollution caused by animals and the imposition of fees and charges for the purpose of such control together with the time, place and manner of collection;
@@ -1816,11 +2066,19 @@ appended thereto shall be sufficient authentication.
 
 (n) to regulate the management and maintenance of quarantine stations and veterinary centres;
 
-(o) to prescribe the fees to be charged for the purposes of this Act; and
+(o) to prescribe the fees to be charged for the purposes of this Act;
 
-(p) to prescribe the offences which may be compounded under section 69 and the method and procedure by which such offences may be compounded.
+[Act 46 of 2014 wef 16/01/2015]
+
+(p) to prescribe the offences which may be compounded under section 69 and the method and procedure by which such offences may be compounded; and
 
 [10/2002]
+
+[Act 46 of 2014 wef 16/01/2015]
+
+(q) to provide for matters relating to the employment or engagement of qualified or trained individuals by persons carrying on animal-related businesses.
+
+[Act 46 of 2014 wef 16/01/2015]
 
 (3) The Minister may, in making any rules, provide that any contravention of, or failure or neglect to comply with, any provision of the rules or any directive issued by the Director-General pursuant to the rules shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.
 
@@ -1900,6 +2158,10 @@ This Legislative History is provided for the convenience of users of the Animals
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|14.|**Act 46 of 2014—Animals and Birds (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014 (Bill No. 40/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|5 November 2014|
+||Date of commencement|16 January 2015|
 ## COMPARATIVE TABLE
 
 Animals and Birds Act
