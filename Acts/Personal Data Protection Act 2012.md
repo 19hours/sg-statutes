@@ -1981,13 +1981,59 @@ Chairman of Appeal Panel or temporary Chairman of Appeal Panel
 
 (2) The Minister may appoint any member to be a temporary Chairman of the Appeal Panel during the temporary incapacity from illness or otherwise or during the temporary absence from Singapore of the Chairman of the Appeal Panel.
 
+Secretary to Appeal Panel
+
+2A.—(1) The Secretary to the Appeal Panel is to be appointed by the Minister.
+
+(2) The Secretary is to provide administrative and secretarial support to the Chairman of the Appeal Panel, the Appeal Panel and every Appeal Committee, in the discharge of their functions, duties and powers under this Act.
+
+(3) The Secretary is to act in accordance with the instructions of the Chairman and, in particular, be responsible for —
+
+(a) the acceptance, transmission, service and custody of documents relating to the Appeal Panel, Appeal Committees and appeal proceedings under section 34; and
+
+(b) keeping the records of proceedings relating to appeals under section 34 in such form as the Chairman may direct.
+
+(4) The Secretary and any person authorised under sub‑paragraph (5) may attend any meeting of an Appeal Committee to carry out their functions under this Act.
+
+(5) The Secretary may be assisted in carrying out the Secretary’s functions under this Act by persons authorised by the Secretary.
+
+[S 19/2015 wef 23/01/2015]
+
+Constitution of Appeal Committee
+
+2B.—(1) Where an appeal under section 34 is made, the Chairman of the Appeal Panel is to nominate 3 or more members of the Appeal Panel (which may include himself) to constitute an Appeal Committee to hear the appeal.
+
+(2) For the proper functioning of any Appeal Committee, the Chairman of the Appeal Panel may at any time —
+
+(a) terminate the nomination of any member of the Appeal Committee; and
+
+(b) re-constitute the Appeal Committee upon the termination of the nomination, the expiry of the term of appointment or the withdrawal of any member of the Appeal Committee.
+
+(3) The re-constitution of an Appeal Committee under sub‑paragraph (2)(b) does not affect the validity of anything done by the Appeal Committee under this Act before, on or after the re‑constitution of the Appeal Committee.
+
+[S 19/2015 wef 23/01/2015]
+
 Proceedings of Appeal Committees
 
-3.—(1) Subject to sub-paragraph (2), where the Chairman of the Appeal Panel is nominated as a member of an Appeal Committee under section 33(4), he shall preside at every meeting of the Appeal Committee, and where the Chairman of the Appeal Panel is not nominated as a member of the Appeal Committee, the Chairman of the Appeal Panel shall determine which member of the Appeal Committee shall preside at every meeting of that Appeal Committee.
+3.—(1) The presiding member of an Appeal Committee is —
 
-(2) All matters coming before an Appeal Committee at any sitting thereof shall be decided by a majority of votes of those members present and, in the event of an equality of votes, the Chairman of the Appeal Panel (if he is nominated as a member of the Appeal Committee) or any other member presiding shall have a second or casting vote.
+(a) the Chairman of the Appeal Panel, if he nominates himself as a member of the Appeal Committee; or
 
-(3) Any member of the Appeal Panel whose term of appointment expires in the course of proceedings by an Appeal Committee to which he has been appointed shall continue as a member of that Appeal Committee until the Committee has completed its work.
+(b) the member of the Appeal Panel appointed by the Chairman of the Appeal Panel as the presiding member of that Appeal Committee.
+
+(2) However, in the absence at any meeting of the presiding member of an Appeal Committee referred to in sub‑paragraph (1), another member of the Appeal Committee chosen by the members of that Appeal Committee present is to preside at that meeting.
+
+(3) All matters coming before an Appeal Committee are to be decided by a majority of votes of those members present and, in the event of an equality of votes, the presiding member has a second or casting vote.
+
+(4) Any member of the Appeal Panel whose term of appointment expires in the course of proceedings by an Appeal Committee to which he is appointed continues as a member of that Appeal Committee until the Appeal Committee —
+
+(a) completes its work on the appeal; or
+
+(b) is earlier re‑constituted under paragraph 2B(2)(b) without that member.
+
+(5) An Appeal Committee is to meet for any purpose under this Act at such times and places as determined by the presiding member before the meeting.
+
+[S 19/2015 wef 23/01/2015]
 
 Powers of Appeal Committees
 
@@ -2009,13 +2055,31 @@ Powers of Appeal Committees
 
 (6) All appeals under section 34 shall be determined, having regard to the nature and complexity of the appeal, as soon as reasonably practicable.
 
-(7) An Appeal Committee shall notify the Commission and the parties to the appeal of the date on and the place at which the appeal shall be heard.
+(7) An Appeal Committee shall inform the Commission and the parties to the appeal of the date on and the place at which the appeal shall be heard.
 
-(8) An Appeal Committee shall notify the Commission and the parties to the appeal of its decision in respect of the appeal and the reasons for its decision.
+[S 19/2015 wef 23/01/2015]
+
+(8) An Appeal Committee shall inform the Commission and the parties to the appeal of its decision in respect of the appeal and the reasons for its decision.
+
+[S 19/2015 wef 23/01/2015]
+
+(9) Subject to other provisions of this Act and regulations made under this Act, an Appeal Committee may regulate its own procedure.
+
+[S 19/2015 wef 23/01/2015]
 
 Allowances
 
 5\. Members of the Appeal Committee may receive such remuneration and such travelling and subsistence allowances as the Minister may determine.
+
+Validity of act or proceeding
+
+6. No appeal proceeding before an Appeal Committee, and no act of the Chairman of the Appeal Panel or of the presiding member of an Appeal Committee, is to be nullified only because of —
+
+(a) in the case of an appeal or proceeding before or act of an Appeal Committee, any vacancy in, or defect in the constitution of, the Appeal Committee; or
+
+(b) any defect in the appointment of the Chairman of the Appeal Panel, or any member (or presiding member) of an Appeal Committee, as the case may be.
+
+[S 19/2015 wef 23/01/2015]
 
 EIGHTH SCHEDULE
 
