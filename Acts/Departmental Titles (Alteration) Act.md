@@ -468,6 +468,16 @@ Parliamentary Counsel
 
 Chief Legislative Counsel.
 
+Chief Executive, Judiciary Administration and Operations of the Supreme Court
+
+Chief Executive, Office of the Chief Justice of the Supreme Court.
+
+Deputy Chief Executive, Judiciary Administration and Operations of the Supreme Court
+
+Deputy Chief Executive of the Supreme Court.
+
+[S 83/2015 wef 01/02/2015]
+
 [S 25/70; S 139/70; S 83/72; S 46/77; S 178/78; S 360/81; S 321/85; S 203/86; S 121/87; S 154/89; S 315/94; S 548/95; S 412/98; S 151/99; S 408/99; S 173/2000]
 
 [S 365/2013 wef 01/07/2013]
@@ -554,3 +564,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|6 February 2013|
 |28.|**G.N. No. S 365/2013—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 2013**|
 ||Date of commencement|1 July 2013|
+|29.|**G.N. No. S 83/2015—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2015**|
+||Date of commencement|1 February 2015|
