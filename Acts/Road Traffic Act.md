@@ -120,7 +120,7 @@
 
 - [35C Surrender of driving licence](#Surrender-of-driving-licence)
 
-- [36 Tests of competence to drive of new applicants for driving licences](#Tests-of-competence-to-drive-of-new-applicants-for-driving-licences)
+- [36 Prescribed test of competence to drive for grant of driving licence](#Prescribed-test-of-competence-to-drive-for-grant-of-driving-licence)
 
 - [37 Provisions as to physical fitness of applicants for driving licences](#Provisions-as-to-physical-fitness-of-applicants-for-driving-licences)
 
@@ -184,7 +184,7 @@
 
 - [59 Refusal to grant or renew licence](#Refusal-to-grant-or-renew-licence)
 
-- [60 Appeal to Minister](#Appeal-to-Minister)
+- [60 Appeal to Minister or Commissioner of Police](#Appeal-to-Minister-or-Commissioner-of-Police)
 
 - [61 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -204,7 +204,7 @@
 
 - [65A Collision of heavy motor vehicles and public service vehicles with buildings or structures](#Collision-of-heavy-motor-vehicles-and-public-service-vehicles-with-buildings-or-structures)
 
-- [65B Use of mobile telephone while driving](#Use-of-mobile-telephone-while-driving)
+- [65B Use of mobile communication device while driving](#Use-of-mobile-communication-device-while-driving)
 
 - [66 Causing death by reckless or dangerous driving](#Causing-death-by-reckless-or-dangerous-driving)
 
@@ -222,9 +222,9 @@
 
 - [71A Evidence in proceedings for offences under sections 67 and 68](#Evidence-in-proceedings-for-offences-under-sections-67-and-68)
 
-- [71B Deputy Commissioner of Police may require medical practitioner to send blood specimen for laboratory test](#Deputy-Commissioner-of-Police-may-require-medical-practitioner-to-send-blood-specimen-for-laboratory-test)
+- [71B Deputy Commissioner of Police may require registered medical practitioner to send blood specimen for laboratory test](#Deputy-Commissioner-of-Police-may-require-registered-medical-practitioner-to-send-blood-specimen-for-laboratory-test)
 
-- [72 Interpretation of sections 67 to 71B](#Interpretation-of-sections-67-to-71B)
+- [72 Interpretation of sections 67 to 71B, etc.](#Interpretation-of-sections-67-to-71B-etc)
 
 - [73 Pillion riding](#Pillion-riding)
 
@@ -424,7 +424,7 @@
 
 - [133 Traffic ticket notice](#Traffic-ticket-notice)
 
-- [134 Minister may prescribe forms of notices](#Minister-may-prescribe-forms-of-notices)
+- [134 Forms of notices for purposes of sections 132 and 133](#Forms-of-notices-for-purposes-of-sections-132-and-133)
 
 - [135 Composition of offences](#Composition-of-offences)
 
@@ -496,6 +496,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “cart” includes a wagon, handcart or trolley used or constructed for the carriage of goods;
 
+“Commissioner of Police” means the public officer appointed under section 6(1) of the Police Force Act (Cap. 235);
+
+[Act 28 of 2014 wef 01/02/2015]
+
 “company” means any company as defined in the Companies Act (Cap. 50) and includes any company to which Division 2 of Part XI of that Act applies, any company formed in pursuance of any other Act or by royal charter or letters patent, a limited liability partnership and any other body corporate formed or incorporated by or under any written law;
 
 [24/2010 wef 01/11/2010]
@@ -528,15 +532,11 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 (a) except as provided in paragraphs (b) and (c), the Minister charged with the responsibility for transport;
 
-(b) for the purposes of the whole of Parts II and III and sections 74(1) and (2), 75(1), 76(1), 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2), 133(7)(a) and 143(3) and (11), the Minister charged with the responsibility for home affairs; and
+(b) for the purposes of the whole of Parts II and III and sections 75(1), 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2) and 143(3) and (11), the Minister charged with the responsibility for home affairs; and
 
-[Act 23 of 2013 wef 01/01/2014]
+(c) for the purposes of sections 131B(7), 132(7), 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
 
-(c) for the purposes of sections 131B(7), 132(7), 134, 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
-
-[Act 23 of 2013 wef 01/01/2014]
-
-[24/2010 wef 01/11/2010]
+[Act 28 of 2014 wef 01/02/2015]
 
 [Deleted by Act 25 of 2011 wef 01/01/2012]
 
@@ -567,6 +567,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 but excludes any vehicle constructed for use on fixed rails or specially prepared ways;
 
 [Act 23 of 2013 wef 01/01/2014]
+
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174);
+
+[Act 28 of 2014 wef 01/02/2015]
 
 “Registrar” means the Registrar of Vehicles or the Deputy Registrar or an assistant registrar appointed under section 9;
 
@@ -1926,7 +1930,9 @@ LICENSING OF DRIVERS
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
-(4) An application for a driving licence shall be made in the prescribed form to the Deputy Commissioner of Police.
+(4) An application for a grant or renewal of a driving licence shall be made in such form as the Deputy Commissioner of Police may design and utilise.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (5) On an application for the grant of a driving licence, the applicant shall, in addition to any declaration required under this Act, state whether —
 
@@ -1938,13 +1944,27 @@ LICENSING OF DRIVERS
 
 (d) he is under the provisions of this Act disqualified by reason of age or otherwise from obtaining the licence for which he is applying.
 
-(6) Subject to the provisions of this Part as to tests of competence to drive and as to the physical fitness of applicants for driving licences, the Deputy Commissioner of Police shall, on payment of the prescribed fee, grant a licence to any person who applies for it in the prescribed manner and makes a declaration in the prescribed form that he is not disqualified by reason of age or otherwise from obtaining the licence for which he is applying.
+(6) Subject to the provisions of this Part as to tests of competence to drive and as to the physical fitness of applicants for driving licences, the Deputy Commissioner of Police shall, upon payment of the prescribed fee (if any), grant a licence to any person who —
 
-(7) The Deputy Commissioner of Police shall grant a licence under subsection (6) except in the case of an applicant —
+(a) applies for it in the prescribed manner; and
+
+(b) declares in writing that the person is not disqualified by any reason (age or otherwise) from obtaining the licence.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(6A) The Deputy Commissioner of Police may, upon payment of the prescribed fee (if any), renew the driving licence of any person who holds a driving licence authorising him to drive a class or description of a motor vehicle if the Deputy Commissioner of Police is satisfied that the person has passed the whole or such part of the prescribed test of competence to drive that class or description of vehicle as the Deputy Commissioner of Police may require.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(7) The Deputy Commissioner of Police shall grant a licence under subsection (6) or renew a licence under subsection (6A) except in the case of an applicant —
 
 (a) who is disqualified as provided under this section; or
 
-(b) to whom, in the opinion of the Deputy Commissioner of Police, it would not be in the public interest to grant a licence.
+(b) to whom, in the opinion of the Deputy Commissioner of Police, it would not be in the public interest to grant or renew a licence.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (8) A driving licence may authorise the holder thereof to drive all classes of motor vehicles or such class or classes or such type or types within any class or classes as the Deputy Commissioner of Police may specify therein.
 
@@ -1952,27 +1972,35 @@ LICENSING OF DRIVERS
 
 (10) Subject to the provisions of this Act, unless earlier revoked or surrendered —
 
-(a) a driving licence or a renewal thereof granted to a person who is a citizen or permanent resident of Singapore shall remain in force for the lifetime of that person; and
+(a) a driving licence granted to a person who is, or a renewed driving licence of a person who becomes, a citizen or permanent resident of Singapore remains in force for the lifetime of that person; and
 
-(b) a driving licence or a renewal thereof granted to a person who is not a citizen or permanent resident of Singapore shall remain in force for a period not exceeding 5 years from the date of such grant.
+(b) a driving licence granted to, or a renewed driving licence of, a person who is not a citizen or permanent resident of Singapore remains in force for a period of 5 years beginning on the date of such grant or renewal, as the case may be, or such shorter period as the Deputy Commissioner of Police may specify in any particular case.
 
-[21/2002]
+[Act 28 of 2014 wef 01/02/2015]
+
+(10A) Notwithstanding subsection (10) but subject to the other provisions of this Act, a driving licence referred to in subsection (10)(a) or (b) ceases to be in force when the person who holds the driving licence attains any of the prescribed ages applicable to the person, unless before attaining such age —
+
+(a) the person undergoes the prescribed medical examination and is duly certified by a registered medical practitioner as being physically fit to drive a motor vehicle of the class or description in that licence; and
+
+(b) the person passes the whole or such part of the prescribed test of competence to drive as the Deputy Commissioner of Police may require for the person to drive a motor vehicle of the class or description in that licence.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (11) Subsection (10) shall not apply to a provisional licence referred to in section 36(3).
 
 [21/2002]
 
-(12) In subsection (10), “permanent resident” means a person who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133).
+(12) [Deleted by Act 28 of 2014 wef 01/02/2015]
 
-[21/2002]
-
-(13) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period shorter than that provided for in subsection (10)(a) or (b), if he is satisfied —
+(13) The Deputy Commissioner of Police may refuse to renew any driving licence if he is satisfied —
 
 (a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or any written law specified in Part II of the First Schedule; or
 
 (b) that the holder of the driving licence has, pursuant to a warrant of court, been arrested in connection with an offence under this Act or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court.
 
 [1/99; 28/2001; 21/2002]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (14) Subject to subsection (15), the Minister may, by notification in theGazette, amend Part II of the First Schedule.
 
@@ -1982,13 +2010,13 @@ LICENSING OF DRIVERS
 
 [8/94]
 
-(16) Where a driving licence has lapsed for a period of 3 years or more, the Deputy Commissioner of Police shall not renew the licence or grant a new licence to the person who held such a licence unless —
+(16) Where a person’s driving licence has ceased to be in force for a period of 3 years or more, the Deputy Commissioner of Police must not grant another driving licence to the person authorising him to drive a class or description of motor vehicle unless —
 
-(a) he passes the prescribed test of competence to drive; or
+(a) the person passes the test of competence to drive referred to in section 36(1); or
 
-(b) the Deputy Commissioner of Police is satisfied that, at some time within 3 years before the date of the application, the applicant has held a driver’s certificate or licence granted by the competent authority in any country authorising him to drive a motor vehicle of the class or description which he would be authorised to drive by the licence applied for.
+(b) the Deputy Commissioner of Police is satisfied that, at any time within 3 years before the date that the person applies for the other driving licence, the person held a driver’s certificate or licence granted by the competent authority in any country other than Singapore authorising the person to drive a motor vehicle of that class or description.
 
-[7/90]
+[Act 28 of 2014 wef 01/02/2015]
 
 (17) A person shall be disqualified from obtaining a driving licence —
 
@@ -1998,7 +2026,13 @@ LICENSING OF DRIVERS
 
 (18) In any proceedings, the fact that a driving licence has been granted to a person shall be evidence that the person for the purpose of obtaining the licence made a declaration that he was not disqualified from holding or obtaining the licence.
 
-(19) If any person is aggrieved by the refusal of the Deputy Commissioner of Police to grant a driving licence or by the revocation of a driving licence under section 37, he may, after giving the Deputy Commissioner of Police notice of his intention to do so, appeal to the Minister and on any such appeal the Minister may make such order as he thinks fit and any order so made shall be binding on the Deputy Commissioner of Police.
+(19) If any person is aggrieved by the refusal of the Deputy Commissioner of Police to grant or renew a driving licence or by the revocation of a driving licence under section 37, he may, after giving the Deputy Commissioner of Police notice of his intention to do so, appeal to the Commissioner of Police and on any such appeal the Commissioner of Police may make such order as he thinks fit and any order so made shall be binding on the Deputy Commissioner of Police.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(20) In this section, “permanent resident of Singapore” means a person who holds a valid entry permit under section 10 of the Immigration Act (Cap. 133) or a valid re‑entry permit under section 11 of that Act.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Power of Deputy Commissioner of Police to revoke driving licence
 
@@ -2054,17 +2088,21 @@ LICENSING OF DRIVERS
 
 [7/90]
 
-(3) A person may, within 14 days of the receipt of the notice referred to in subsection (2), or within such extended period of time as the Minister may allow, appeal in writing against the revocation to the Minister whose decision shall be final.
+(3) A person may, within 14 days of the receipt of the notice referred to in subsection (2), or within such extended period of time as the Commissioner of Police may allow, appeal in writing against the revocation to the Commissioner of Police whose decision shall be final.
 
 [7/90]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (4) An order of revocation under section 35A shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the person concerned of the order.
 
 [7/90]
 
-(5) If within that period the person concerned appeals to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+(5) If within that period the person concerned appeals to the Commissioner of Police, the order shall not take effect unless the order is confirmed by the Commissioner of Police or the appeal is for any reason dismissed by the Commissioner of Police.
 
 [7/90]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Surrender of driving licence
 
@@ -2076,31 +2114,41 @@ LICENSING OF DRIVERS
 
 [7/90]
 
-(3) Any person whose driving licence has been revoked under section 35A shall not drive a motor vehicle on a road under any other driving licence granted by any authority or otherwise.
+(3) Any person whose driving licence has been revoked under section 35A shall not drive a motor vehicle of the class or description which the revoked licence had authorised that person to drive until that person is granted a new driving licence authorising that person to drive a motor vehicle of that class or description.
 
-[7/90]
+[Act 28 of 2014 wef 01/02/2015]
 
 (4) Any person who drives a motor vehicle on a road when his driving licence is revoked under section 35A shall be guilty of an offence.
 
 [7/90]
 
-### Tests of competence to drive of new applicants for driving licences
+### Prescribed test of competence to drive for grant of driving licence
 
 36\.—(1) A driving licence shall not be granted to any applicant unless he passes the prescribed test of competence to drive.
 
 [9/85]
 
-(2) Notwithstanding subsection (1), the Deputy Commissioner of Police may grant a driving licence to an applicant who satisfies him that at some time within 3 years before the date on which he makes the application he has held a driver’s certificate or licence issued by the competent authority in any country authorising him to drive motor vehicles of the class or description which he would be authorised to drive by the licence applied for.
+(2) Notwithstanding subsection (1), the Deputy Commissioner of Police may grant a driving licence to an applicant who satisfies the Deputy Commissioner of Police that —
 
-(3) Subject to subsection (6), for the purpose of enabling the applicant for a driving licence to learn to drive a motor vehicle with a view to passing a test under this section, the Deputy Commissioner of Police may, if so requested by the applicant and on payment of the prescribed fee, grant to the applicant a provisional licence to be in force for a period of 6 months.
+(a) at any time within 3 years before the date that the applicant makes the application, the applicant —
+
+(i) has held a driving licence which has ceased to be in force under section 35(10A); or
+
+(ii) has held a driver’s certificate or licence granted by the competent authority in any country other than Singapore authorising the applicant to drive a motor vehicle of the class or description which the applicant would be authorised to drive by the licence applied for; and
+
+(b) the applicant passes the whole or such part of the test of competence to drive referred to in subsection (1) or such other prescribed test of competence to drive, as the Deputy Commissioner of Police may require.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(3) For the purpose of enabling the applicant for a driving licence to learn to drive a motor vehicle with a view to passing a test under this section, the Deputy Commissioner of Police may, if so requested by the applicant and on payment of the prescribed fee, grant to the applicant a provisional licence to be in force for a period of 6 months.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (4) A provisional licence shall be in the prescribed form and granted subject to the prescribed conditions.
 
 (5) If any person to whom such a provisional licence is granted fails to comply with any of the conditions subject to which it is granted, he shall be guilty of an offence.
 
-(6) A provisional licence to drive a motor cycle shall not be granted to any applicant unless he has completed a prescribed course of training to enable him to obtain a provisional licence.
-
-[9/85]
+(6) [Deleted by Act 28 of 2014 wef 01/02/2015]
 
 (7) The court before which a person is convicted of an offence under section 64, 65 or 65A may, whether he has previously passed the prescribed test of competence to drive or not and whether or not the court makes an order under section 42 disqualifying him from holding or obtaining a licence to drive a motor vehicle, order him to be disqualified from holding or obtaining a licence to drive a motor vehicle until he has since the date of the order passed the test.
 
@@ -2114,9 +2162,17 @@ LICENSING OF DRIVERS
 
 (c) on the return to the person disqualified of any driving licence held by him or on the issue to him of such a licence there shall be added to the endorsed particulars of the disqualification a statement that the person disqualified has since the order was made passed the prescribed test.
 
+[Act 28 of 2014 wef 01/02/2015]
+
 ### Provisions as to physical fitness of applicants for driving licences
 
-37\.—(1) On an application for the grant of a driving licence, the applicant shall make a declaration in the prescribed form as to whether or not he is suffering from any such disease or physical disability as may be specified in the form or any other disease or physical disability which would be likely to cause the driving by him of a motor vehicle, being a motor vehicle of such a class or description as he would be authorised by the licence to drive, to be a source of danger to the public.
+37\.—(1) On an application for the grant of a driving licence, the applicant must make a declaration in writing as to whether the applicant is suffering from —
+
+(a) any prescribed disease or physical disability; or
+
+(b) any other disease or physical disability which is likely to cause the driving by the applicant of a motor vehicle (of the class or description which the applicant would be authorised by the licence to drive) to be a source of danger to the public.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (2) If from the declaration it appears that the applicant is suffering from any such disease or disability as specified in subsection (1), the Deputy Commissioner of Police shall refuse to grant the driving licence.
 
@@ -2132,9 +2188,7 @@ LICENSING OF DRIVERS
 
 (8) The licence holder may, except in the case of such diseases and disabilities as may be prescribed, claim to be subjected to a test as to his fitness or disability to drive a motor vehicle and, if he passes the prescribed test, the driving licence shall not be revoked or, if it has already been revoked, shall be returned to the licence holder and the revocation thereof shall be rescinded.
 
-(9) Subject to the provisions of this Act, a driving licence or a renewal thereof referred to in section 35(10)(a) or (b) shall cease to be valid when the licence holder attains any of the prescribed ages, unless he has, before attaining such age, undergone the prescribed medical examination and is duly certified by a medical practitioner as being fit to drive a motor vehicle.
-
-[21/2002]
+(9) [Deleted by Act 28 of 2014 wef 01/02/2015]
 
 ### Recognition of foreign driving licences and driving permits
 
@@ -2354,13 +2408,17 @@ the Deputy Commissioner of Police may, as he thinks fit, suspend the driving lic
 
 (a) 14 days of the receipt of the notice referred to in subsection (2); or
 
-(b) such extended period of time as the Minister may allow,
+(b) such extended period of time as the Commissioner of Police may allow,
 
-appeal in writing against the suspension to the Minister whose decision shall be final.
+appeal in writing against the suspension to the Commissioner of Police whose decision shall be final.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (4) An order of suspension under section 45 shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the person concerned of the order.
 
-(5) If within that period the person concerned appeals to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+(5) If within that period the person concerned appeals to the Commissioner of Police, the order shall not take effect unless the order is confirmed by the Commissioner of Police or the appeal is for any reason dismissed by the Commissioner of Police.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Surrender and return of driving licence
 
@@ -2408,9 +2466,11 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 
 (c) an offence under section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189);
 
-(d) an offence under section 279 or 304A of the Penal Code (Cap. 224).
+(d) an offence under section 279, 304A or 338 of the Penal Code (Cap. 224).
 
 [24/2010 wef 01/11/2010]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (3) The suspension of a person’s driving licence under subsection (1) shall, unless it is sooner rescinded by the Deputy Commissioner of Police under subsection (10), remain in force until the offence on account of which the person’s driving licence is so suspended has been tried and determined by a court.
 
@@ -2436,13 +2496,17 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 
 [7/90]
 
-(8) A person aggrieved by the suspension of his driving licence under subsection (1) may, within 14 days after the receipt of the notice referred to in subsection (4) or such extended period of time as the Minister may allow in any particular case, appeal in writing against the suspension to the Minister whose decision shall be final.
+(8) A person aggrieved by the suspension of his driving licence under subsection (1) may, within 14 days after the receipt of the notice referred to in subsection (4) or such extended period of time as the Commissioner of Police may allow in any particular case, appeal in writing against the suspension to the Commissioner of Police whose decision shall be final.
 
 [24/2010 wef 01/11/2010]
 
-(9) Notwithstanding that any appeal under subsection (8) is pending, the suspension of a person’s driving licence under subsection (1) shall take effect from the date specified in the notice given to him by the Deputy Commissioner of Police under subsection (4), unless the Minister otherwise orders.
+[Act 28 of 2014 wef 01/02/2015]
+
+(9) Notwithstanding that any appeal under subsection (8) is pending, the suspension of a person’s driving licence under subsection (1) shall take effect from the date specified in the notice given to him by the Deputy Commissioner of Police under subsection (4), unless the Commissioner of Police otherwise orders.
 
 [24/2010 wef 01/11/2010]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (10) The Deputy Commissioner of Police may, at any time, rescind the suspension of a person’s driving licence under subsection (1) on account of any offence referred to in subsection (2), but shall, as soon as is practicable, rescind the suspension if —
 
@@ -2502,9 +2566,11 @@ such provision shall, in relation to the holder of a foreign driving licence, be
 
 ### Rules for purposes of this Part
 
-48\. The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
+48\.—(1) The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
 
-(a) to regulate the granting of driving licences, to prescribe the form of application for and the contents of driving licences, to prescribe the fees to be charged therefor and the manner of payment thereof;
+(a) to regulate the granting and renewal of driving licences, to prescribe the form of application for and the contents of driving licences, to prescribe the fees to be charged therefor and the manner of payment thereof;
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (b) with respect to the nature of tests of competence to drive, to evidence of the result thereof and generally with respect thereto;
 
@@ -2520,9 +2586,15 @@ such provision shall, in relation to the holder of a foreign driving licence, be
 
 (h) to make any particulars with respect to persons, who are disqualified from holding or obtaining driving licences or whose licences are suspended, available for use by the Deputy Commissioner of Police and to prevent a person holding more than one driving licence and to facilitate the identification of holders of driving licences and to provide for the issue of a new licence in the place of a driving licence lost or defaced on payment of such fee as may be prescribed and in connection with driving licences generally; and
 
-(i) to prescribe the circumstances in which a person may be required to be certified by a medical practitioner as fit to drive a vehicle or to pass any practical driving test before granting or renewing a driving licence.
+(i) to prescribe the circumstances in which a person may be required to be certified by a registered medical practitioner as fit to drive a vehicle, or may be required by the Deputy Commissioner of Police to pass any prescribed test of competence to drive, before the granting or renewal of the person’s driving licence.
 
-[7/90]
+[Act 28 of 2014 wef 01/02/2015]
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(2) The Minister may by such rules confer on the Deputy Commissioner of Police a discretion to waive, in any particular case, the application of any of those rules to or in relation to any person subject to such conditions as the Deputy Commissioner of Police may impose.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Exemption
 
@@ -2576,13 +2648,17 @@ LICENSING OF DRIVING INSTRUCTORS AND DRIVING SCHOOLS
 
 (3) Where the Deputy Commissioner of Police has revoked or suspended an instructor’s licence under subsection (1), he shall immediately inform the driving instructor concerned by notice in writing of the revocation or suspension.
 
-(4) A driving instructor may, within 14 days of the receipt of the notice referred to in subsection (3), appeal in writing against the revocation or suspension to the Minister whose decision shall be final.
+(4) A driving instructor may, within 14 days of the receipt of the notice referred to in subsection (3), appeal in writing against the revocation or suspension to the Commissioner of Police whose decision shall be final.
 
 [4/2006 wef 27/02/2006]
 
+[Act 28 of 2014 wef 01/02/2015]
+
 (5) An order of revocation or suspension shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the driving instructor concerned of the order.
 
-(6) If within that period the driving instructor concerned appeals to the Minister, the order shall not take effect until it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+(6) If within that period the driving instructor concerned appeals to the Commissioner of Police, the order shall not take effect until it is confirmed by the Commissioner of Police or the appeal is for any reason dismissed by the Commissioner of Police.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (7) Where an order of revocation or suspension becomes effective under subsection (5), the driving instructor concerned shall, as from the date when the order becomes effective, cease to give instruction to any person in the driving of a motor vehicle.
 
@@ -2634,9 +2710,17 @@ LICENSING OF DRIVING INSTRUCTORS AND DRIVING SCHOOLS
 
 59\. The Deputy Commissioner of Police may, in his discretion, refuse to grant or renew any licence granted under this Part without assigning any reason.
 
-### Appeal to Minister
+### Appeal to Minister or Commissioner of Police
 
-60\. Any person aggrieved by the refusal of the Deputy Commissioner of Police to grant or renew any licence granted under this Part may, within 14 days of the written notification to him of the refusal, appeal in writing to the Minister whose decision shall be final.
+60\.—(1) Any person aggrieved by the refusal of the Deputy Commissioner of Police to grant or renew any licence that may be granted or renewed under this Part may, within 14 days after receiving the written notification to him of the refusal, appeal in writing —
+
+(a) in the case of a driving school licence, to the Minister; or
+
+(b) in the case of an instructor’s licence, to the Commissioner of Police.
+
+(2) The decision of the Minister or the Commissioner of Police (as the case may be) in an appeal under subsection (1) is final.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Rules for purposes of this Part
 
@@ -2692,7 +2776,7 @@ Provisions as to driving and offences in connection therewith
 
 ### Restriction on driving certain categories of heavy motor vehicles
 
-62A\. A person who has attained the age of 70 years shall not drive a vehicle belonging to the following categories or classes of motor vehicles:
+62A\. A person who has attained the prescribed age shall not drive a vehicle belonging to the following categories or classes of motor vehicles:
 
 (a) heavy locomotives;
 
@@ -2703,6 +2787,8 @@ Provisions as to driving and offences in connection therewith
 (d) heavy motor cars.
 
 [7/90; 21/2002]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Rate of speed
 
@@ -2764,19 +2850,39 @@ causes the heavy motor vehicle or public service vehicle to collide with any bui
 
 [11/96]
 
-### Use of mobile telephone while driving
+### Use of mobile communication device while driving
 
-65B\.—(1) Any person who, being the driver of a motor vehicle on a road or in a public place, uses a mobile telephone while the motor vehicle is in motion shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both, and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+65B\.—(1) A driver of a motor vehicle who uses a mobile communication device while the motor vehicle is in motion on a road or in a public place is guilty of an offence and is liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[1/99]
+(2) Where a person who is convicted or found guilty of an offence under subsection (1) is a repeat offender, the person is liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) In this section —
+(3) In this section —
 
-“mobile telephone” includes any hand held equipment which is designed or capable of being used for telecommunication;
+“communicative function” means any of the following functions:
 
-“use”, in relation to a mobile telephone, means to hold it in one hand while using it to communicate with any person.
+(a) sending or receiving oral or written messages;
 
-[1/99]
+(b) sending or receiving electronic documents;
+
+(c) sending or receiving still or moving images;
+
+(d) sending or receiving audio or video files;
+
+(e) providing access to the Internet;
+
+“mobile communication device” includes a mobile telephone and any hand‑held device which is designed or capable of being used for a communicative function;
+
+“repeat offender”, in relation to an offence under subsection (1), means a person who is convicted or found guilty of that offence (called the current offence) and who was previously convicted or found guilty of —
+
+(a) an offence under subsection (1); or
+
+(b) an offence under section 65B as in force immediately before the date of commencement of section 14 of the Road Traffic (Amendment) Act 2014,
+
+on at least one previous occasion before the date on which the person is convicted or found guilty of the current offence;
+
+“use”, in relation to a mobile communication device, means to hold it in at least one hand while operating any of its functions.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Causing death by reckless or dangerous driving
 
@@ -2916,7 +3022,9 @@ the police officer may, subject to section 71, require that person to provide a 
 
 (a) to provide a specimen of his breath for analysis by means of a prescribed breath alcohol analyser; or
 
-(b) to provide at a hospital a specimen of his blood for a laboratory test,
+(b) to provide to a registered medical practitioner, at such place as may be determined by the police officer, a specimen of his blood for a laboratory test,
+
+[Act 28 of 2014 wef 01/02/2015]
 
 notwithstanding that he has been required to provide a specimen of his breath for a breath test under section 69(1).
 
@@ -2954,13 +3062,17 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 ### Protection of hospital patients
 
-71\.—(1) A person who is at a hospital as a patient shall not be required to provide a specimen for a breath test or to provide a specimen for a laboratory test unless the medical practitioner in immediate charge of his case authorises it and the specimen is to be provided at the hospital.
+71\.—(1) A person who is at a hospital as a patient shall not be required to provide a specimen for a breath test or to provide a specimen for a laboratory test unless the registered medical practitioner in immediate charge of his case authorises it and the specimen is to be provided at the hospital.
 
 [11/96]
 
-(2) The medical practitioner referred to in subsection (1) shall not authorise a specimen to be taken where it would be prejudicial to the proper care and treatment of the patient.
+[Act 28 of 2014 wef 01/02/2015]
+
+(2) The registered medical practitioner referred to in subsection (1) shall not authorise a specimen to be taken where it would be prejudicial to the proper care and treatment of the patient.
 
 [11/96]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Evidence in proceedings for offences under sections 67 and 68
 
@@ -2988,9 +3100,11 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 [11/96]
 
-(4) A specimen of blood shall be disregarded unless it was taken from the accused with his consent by a medical practitioner; but evidence that a specimen of blood was so taken may be given by the production of a document purporting to certify that fact and to be signed by a medical practitioner.
+(4) A specimen of blood shall be disregarded unless it was taken from the accused with his consent by a registered medical practitioner; but evidence that a specimen of blood was so taken may be given by the production of a document purporting to certify that fact and to be signed by a registered medical practitioner.
 
 [11/96]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (5) A document purporting to be such a statement or such a certificate, or both, as is mentioned in subsection (3) is admissible in evidence on behalf of the prosecution in pursuance of this section only if a copy of it has been handed to the accused when the document was produced or has been served on him not later than 7 days before the hearing, and any other document is so admissible only if a copy of it has been served on the accused not later than 7 days before the hearing.
 
@@ -3004,7 +3118,7 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 [11/96]
 
-### Deputy Commissioner of Police may require medical practitioner to send blood specimen for laboratory test
+### Deputy Commissioner of Police may require registered medical practitioner to send blood specimen for laboratory test
 
 71B\.—(1) Notwithstanding anything in section 69 or 71A, where a person —
 
@@ -3016,9 +3130,11 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 (b) as a result of any injury sustained by him in the accident or any other cause is unable to provide a specimen of his breath under section 69 or to give his consent to a specimen of blood being taken from him for analysis,
 
-any medical practitioner treating such person for his injury shall, if so directed by the Deputy Commissioner of Police, cause any specimen of blood taken by the medical practitioner from such person in connection with his treatment to be sent for a laboratory test to determine the proportion of alcohol or of any drug or intoxicating substance in the specimen.
+any registered medical practitioner treating such person for his injury shall, if so directed by the Deputy Commissioner of Police, cause any specimen of blood taken by the registered medical practitioner from such person in connection with his treatment to be sent for a laboratory test to determine the proportion of alcohol or of any drug or intoxicating substance in the specimen.
 
 [11/96]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (2) In proceedings for an offence under section 67 or 68, evidence of the proportion of alcohol or of any drug or intoxicating substance in a specimen of blood analysed in pursuance of this section shall be taken into account.
 
@@ -3032,13 +3148,19 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 [11/96]
 
-### Interpretation of sections 67 to 71B
+[Act 28 of 2014 wef 01/02/2015]
+
+### Interpretation of sections 67 to 71B, etc.
 
 72\.—(1) In sections 67 to 71B —
 
-“authorised analyst” means any medical practitioner, scientific officer or chemist who is employed in a hospital or laboratory to carry out analyses of blood;
+“authorised analyst” means any registered medical practitioner, scientific officer or chemist who is employed in a hospital or laboratory to carry out analyses of blood;
 
-“breath test” means a test for the purpose of obtaining, by means of a breath alcohol analyser or any other device prescribed by the Minister, an indication whether the proportion of alcohol in a person’s breath or blood is likely to exceed the prescribed limit;
+[Act 28 of 2014 wef 01/02/2015]
+
+“breath test” means a test for the purpose of obtaining, by means of a breath alcohol analyser or any other device approved by the Deputy Commissioner of Police, an indication whether the proportion of alcohol in a person’s breath or blood is likely to exceed the prescribed limit;
+
+[Act 28 of 2014 wef 01/02/2015]
 
 “fail” includes refuse;
 
@@ -3054,15 +3176,27 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 [11/96; 1/99]
 
+(1A) Once a device is approved by the Deputy Commissioner of Police for the purposes of the definition of “breath test” in subsection (1), he must, as soon as practicable, cause to be published in theGazettea notification specifying each device so approved by him.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(1B) However, failure to comply with subsection (1A) in respect of any device does not invalidate the approval for that device.
+
+[Act 28 of 2014 wef 01/02/2015]
+
 (2) A person does not provide a specimen of breath for a breath test or for analysis unless the specimen is sufficient to enable the test or the analysis to be carried out and is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
 
 [11/96]
 
-(3) Subject to section 71B, a person provides a specimen of blood if and only if he consents to its being taken by a medical practitioner and it is so taken.
+(3) Subject to section 71B, a person provides a specimen of blood if and only if he consents to its being taken by a registered medical practitioner and it is so taken.
 
 [71C
 
 [11/96]
+
+[Act 28 of 2014 wef 01/02/2015]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Pillion riding
 
@@ -3072,11 +3206,23 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 ### Drivers and pillion riders of motor cycles to wear protective helmets
 
-74\.—(1) Every person who drives or is carried on a motor cycle shall wear securely on his head a protective helmet of a type approved by the Minister.
+74\.—(1) Every person who drives or is carried on a motor cycle shall wear securely on his head a protective helmet of a type approved by the Deputy Commissioner of Police.
 
-(2) No person shall import, sell or offer for sale or have in his possession for sale any protective helmet which is not of a type approved by the Minister.
+[Act 28 of 2014 wef 01/02/2015]
+
+(2) No person shall import, sell or offer for sale or have in his possession for sale any protective helmet which is not of a type approved by the Deputy Commissioner of Police.
 
 [7/90]
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(2A) Once a type of protective helmet is approved by the Deputy Commissioner of Police for the purposes of subsections (1) and (2), he must, as soon as practicable, cause to be published in theGazettea notification specifying each type of protective helmet so approved by him.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(2B) However, failure to comply with subsection (2A) in respect of any type of protective helmet does not invalidate the approval for that type of protective helmet.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
@@ -3084,7 +3230,9 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 ### Wearing of seat belts
 
-75\.—(1) The Minister may make rules requiring, subject to such exceptions as may be prescribed, persons driving or riding in motor vehicles to wear seat belts of such description as may be prescribed.
+75\.—(1) The Minister may make rules requiring, subject to such exceptions as may be prescribed, any person driving or riding in a motor vehicle to wear a seat belt of a type approved by the Deputy Commissioner of Police under section 76(1).
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (2) Rules under this section —
 
@@ -3094,9 +3242,19 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 ### Sale of seat belts
 
-76\.—(1) No person shall sell or offer for sale or have in his possession for sale any seat belt which is not of a type approved by the Minister.
+76\.—(1) No person shall sell or offer for sale or have in his possession for sale any seat belt which is not of a type approved by the Deputy Commissioner of Police.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+(3) Once a type of seat belt is approved by the Deputy Commissioner of Police for the purposes of subsection (1) and section 75(1), he must, as soon as practicable, cause to be published in theGazettea notification specifying each type of seat belt so approved by him.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(4) However, failure to comply with subsection (3) in respect of any type of seat belt does not invalidate the approval for that type of seat belt.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Requirements as to employment of drivers and attendants
 
@@ -3182,33 +3340,27 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 ### Duty to give information
 
-81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, the owner of the motor vehicle shall give such information as he may be required by a police officer or an employee of the Authority to give as to —
+81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, the owner of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, such information as to —
 
 (a) the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence; and
 
-(b) the driving licence held by that person,
+(b) the driving licence held by that person.
 
-and, if he fails to do so within 7 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required.
+(1A) An owner of a motor vehicle who fails to give the information required of the owner under subsection (1) is guilty of an offence unless the owner proves, on a balance of probabilities, that the owner did not know and could not with reasonable diligence have ascertained the information required.
 
-(1A) For the purposes of subsection (1), where the owner of the motor vehicle is a company, a partnership or an unincorporated body, such owner shall not be deemed to have discharged the burden of proving that it could not, with reasonable diligence, have ascertained the information required under that subsection unless such owner also proves to the satisfaction of the court that —
+(1B) Where the owner of a motor vehicle who is guilty of an offence under subsection (1A) holds a driving licence, and the driver of the motor vehicle is alleged or suspected to be guilty of an offence specified in Part I of the Third Schedule, the owner of the motor vehicle is presumed, until the contrary is proved, to be driving the motor vehicle at the time of the occurrence of the second‑mentioned offence.
+
+(1C) For the purposes of subsection (1A), where the owner of the motor vehicle is a company, a partnership or an unincorporated body, the owner is not deemed to have discharged the burden of proving that it could not, with reasonable diligence, have ascertained the information required under subsection (1) unless the owner also proves, on a balance of probabilities, that —
 
 (a) it had kept a proper and accurate record as required under subsection (8); but
 
-(b) the record reveals that no person had been permitted by such owner to drive the motor vehicle at or about the time of the alleged offence.
+(b) the record shows no person having been permitted by the owner to drive the motor vehicle at or about the time of the alleged offence.
 
-[24/2010 wef 01/11/2010]
-
-(2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, any other person who was or should have been in charge of the motor vehicle shall, if required by a police officer or an employee of the Authority, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 7 days of the date on which the information was required from him, he fails to do so, he shall be guilty of an offence.
-
-[5/98]
+(2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, any other person who was or should have been in charge of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, any information which the person has power to give, and which may lead to the identification of the driver, and if that person fails to do so, that person is guilty of an offence.
 
 (3) Any person who wilfully or recklessly furnishes any false or misleading information under subsection (1) or (2) shall be guilty of an offence.
 
-[24/2010 wef 01/11/2010]
-
 (4) A police officer or an employee of the Authority may require any information to be furnished under subsection (1) or (2) to be in writing signed by the person required to furnish such information.
-
-[5/98]
 
 (5) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with any offence under this Act or any offence in connection with the driving of a motor vehicle may be used as evidence without proof of signature at the hearing of the charge.
 
@@ -3220,13 +3372,9 @@ and, if he fails to do so within 7 days of the date on which the information was
 
 shall be admissible in evidence without proof of signature for the purpose of determining by whom the motor vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
 
-[5/98]
-
-(7) Any person who is guilty of an offence under subsection (1), (2) or (3) shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(7) Any person who is guilty of an offence under subsection (1A), (2) or (3) shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (8) Where the owner of a vehicle is a company, a partnership or an unincorporated body, it shall be the duty of such owner to keep a proper and accurate record of each occasion on which it permits any person to drive the motor vehicle, whether or not such person is a director, member, partner, officer, employee or agent of such owner or otherwise, and whether or not such person is permitted to drive the motor vehicle in the course of his employment with such owner or otherwise.
-
-[24/2010 wef 01/11/2010]
 
 (9) The record required to be kept under subsection (8) —
 
@@ -3240,7 +3388,7 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 (b) shall be retained by the owner of the motor vehicle for a period of at least 6 months beginning with the date, or with the date of the commencement of the period, referred to in paragraph (a)(iii).
 
-[24/2010 wef 01/11/2010]
+[Act 28 of 2014 wef 01/02/2015]
 
 82\. [Repealed by Act 4 of 2014 wef 10/03/2014]
 
@@ -3264,7 +3412,9 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 (a) in any case where the offence is dealt with under section 132 or 133, he —
 
-(i) within 7 days after service on him of a notice under section 132 or 133 alleging that he has been guilty of such offence, furnishes by statutory declaration to the police officer or employee of the Authority referred to in section 132 or 133(7), as the case may be, the name and address of the person who was in charge of the vehicle at all relevant times relating to the offence concerned; or
+(i) within 14 days after service on him of a notice under section 132 or 133 alleging that he has been guilty of such offence, furnishes by statutory declaration to the police officer or employee of the Authority referred to in section 132 or 133(7), as the case may be, the name and address of the person who was in charge of the vehicle at all relevant times relating to the offence concerned; or
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (ii) satisfies the police officer or employee of the Authority that he did not know and could not with reasonable diligence have ascertained such name and address; and
 
@@ -3298,9 +3448,11 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 [Deleted by Act 37 of 2012 wef 01/01/2013]
 
-“specified offence” means any offence set out in the Third Schedule.
+“specified offence” means any offence set out in Part II of the Third Schedule.
 
 [Act 37 of 2012 wef 01/01/2013]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 Division 2 —
 
@@ -3308,9 +3460,21 @@ Accidents
 
 ### Duty to stop in case of accident
 
-84\.—(1) If in any case owing to the presence of a motor vehicle on a road an accident occurs whereby damage or injury is caused to any person, vehicle, structure or animal, the driver of the motor vehicle shall stop and, if required to do so by any person having reasonable grounds for so requiring, give his name and address and also the name and address of the owner and the identification marks of the motor vehicle.
+84\.—(1) Where an accident occurs owing to the presence of a motor vehicle on a road and the accident results in damage or injury to any person, vehicle, structure or animal, the driver of the motor vehicle must stop the motor vehicle and the driver must do such of the following as may be applicable:
 
-(2) If in the case of any such accident as aforesaid the driver of the motor vehicle for any reason does not give his name and address to any such person as aforesaid, he shall report the accident at a police station or to a police officer as soon as reasonably practicable and, in any case, within 24 hours of the occurrence thereof.
+(a) the driver if requested to do so by any person at the scene of the accident having reasonable grounds for so requesting the driver’s particulars, provide the driver’s particulars to that person;
+
+(b) if no person referred to in paragraph (a) is present at the scene of the accident, the driver must take reasonable steps to inform the owner (if any) of the damaged vehicle or structure, or injured animal, of the damage or injury caused to the vehicle, structure or animal (as the case may be), and provide that owner with the driver’s particulars.
+
+[Act 28 of 2014 wef 01/02/2015]
+
+(2) The driver of the motor vehicle referred to in subsection (1) must report the accident at a police station or to a police officer as soon as reasonably practicable within 24 hours after the accident unless either of the following has occurred:
+
+(a) the driver has provided the driver’s particulars to a person referred to in subsection (1)(a);
+
+(b) the owner referred to in subsection (1)(b) has contacted the driver.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (3) If in any case owing to the presence of a motor vehicle on a road an accident occurs whereby any person is killed or any damage or injury is caused to any person, vehicle, structure or animal, the driver of the motor vehicle shall render such assistance as may be reasonably required by any police officer or in the absence of any police officer such assistance as it may reasonably be in the power of the driver to render.
 
@@ -3324,7 +3488,13 @@ Accidents
 
 (5) Subsection (4) shall not apply where it is urgently necessary to remove any seriously injured person to hospital and no suitable means of conveyance other than a vehicle involved in the accident is at hand.
 
-(6) In this section, “animal” means any horse, cattle, ass, mule, sheep, pig, goat or dog.
+(6) In this section —
+
+“animal” means any horse, cattle, ass, mule, sheep, pig, goat or dog;
+
+“particulars”, in relation to a driver of a motor vehicle, means the name and address of the driver of the motor vehicle, the name and address of the owner of the motor vehicle, and the identification marks of the motor vehicle.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (7) If any person fails to comply with any of the provisions of this section, he shall be guilty of an offence.
 
@@ -5310,9 +5480,11 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Ticketing of prescribed offences
 
-132\.—(1) Where it appears to a police officer or an employee of the Authority authorised in that behalf that any person has committed or is guilty of any prescribed offence to which this section applies, he may serve a prescribed notice on such person, offering such person the opportunity of the discharge of any liability to the conviction of that offence by the payment of a fixed penalty prescribed for that offence under this section.
+132\.—(1) Where it appears to a police officer or an employee of the Authority authorised in that behalf that any person has committed or is guilty of any prescribed offence to which this section applies, he may serve a notice on such person, offering such person the opportunity of the discharge of any liability to the conviction of that offence by the payment of a fixed penalty prescribed for that offence under this section.
 
 [28/95]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (2) No person shall be liable to be convicted of an offence mentioned in subsection (1) if the fixed penalty is paid in accordance with this section before the expiration of 14 days following the date of the notice or such longer period (if any) as may be specified therein.
 
@@ -5340,9 +5512,11 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Traffic ticket notice
 
-133\.—(1) Where a police officer or an employee of the Authority authorised in that behalf has reasonable grounds for believing that a person has committed an offence under this Act, he may, in lieu of applying to a court for a summons, immediately serve upon that person a prescribed notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
+133\.—(1) Where a police officer or an employee of the Authority authorised in that behalf has reasonable grounds for believing that a person has committed an offence under this Act, he may, in lieu of applying to a court for a summons, immediately serve upon that person a notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
 
 [28/95]
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (2) A duplicate of the notice shall be prepared by the police officer and, if so required by a court, produced to the court.
 
@@ -5368,17 +5542,23 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 (7) A notice served under subsection (1) may, at any time before the date specified in the notice, be cancelled by —
 
-(a) a police officer not below the rank of sergeant specially authorised by name, by notification in theGazette, made by the Minister; or
+(a) a police officer not below the rank of sergeant specially authorised by name, by notification in theGazette, made by the Deputy Commissioner of Police; or
+
+[Act 28 of 2014 wef 01/02/2015]
 
 (b) an employee of the Authority specially authorised by name, by notification in theGazette, made in person by the Registrar of Vehicles appointed under section 9(1).
 
 [Act 23 of 2013 wef 01/01/2014]
 
-### Minister may prescribe forms of notices
+### Forms of notices for purposes of sections 132 and 133
 
-134\. The appropriate Minister may prescribe such forms of notices as he may think fit for the purposes of sections 132 and 133.
+134\. Each of the following may design and utilise forms of notices for the purposes of sections 132 and 133:
 
-[5/98]
+(a) the Deputy Commissioner of Police;
+
+(b) the Registrar of Vehicles.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ### Composition of offences
 
@@ -5712,31 +5892,69 @@ Three-wheeled pedal cycles constructed or adapted for the carriage of passengers
 
 THIRD SCHEDULE
 
-Section 83
+Sections 81(1B) and 83(6)
 
 Specified offences
 
+Part I
+
 1. 
 
-Section 11A.
+Sections 63(4), 65, 73(2), 74(3), 113(6), 120(4), 122 and 127(5).
 
 2. 
 
-Any offence in contravention of any of the provisions of Part IA or the rules made under section 34D.
+Section 121(6) for contravening any of the following provisions of the Road Traffic (Pedestrian Crossings) Rules (R 24):
+
+Rules 4, 5, 6, 7, 9, 10(1) and 11(1).
 
 3. 
 
-Any offence of parking a motor vehicle or of causing or permitting a motor vehicle to stand, wait or be parked in contravention of any rules made under this Act or any offence under section 122.
+Section 131 for acting in contravention of any of the following provisions of the Road Traffic Rules (R 20):
+
+Rules 2(1), 3, 5, 6, 7, 8, 11, 12(2), 13(1) and (2)(a) and (b), 14, 17, 18, 19, 23, 28(1), 29, 30, 33(1) and (2), 34 and 35(1).
 
 4. 
 
-Rule 26A of the Road Traffic Rules (R 20).
+Section 131 for acting in contravention of any of the following provisions of the Road Traffic (Expressway Traffic) Rules (R 23):
+
+Rules 4, 5, 6(1), 7, 8, 9, 12(1), 13(d) to (h) and 14(1)(a) and (b).
 
 5. 
 
-Rule 8 of the Road Traffic (Traffic Signs) Rules (R 33).
+Rule 7 of the Road Traffic (Motor Vehicles, Speed Limiters) Rules (R 39).
 
-[Act 37 of 2012 wef 01/01/2013]
+6. 
+
+Rule 10 of the Road Traffic (Motor Vehicles, Wearing of Seat Belts) Rules 2011 (G.N. No. S 688/2011) for contravening rule 4 or 5 of those Rules.
+
+Part II
+
+1. 
+
+Sections 11A(3) and (4), 34E(4) and 122.
+
+2. 
+
+Section 120(4) (for failing to comply with section 120(3)) read with rule 8 of the Road Traffic (Traffic Signs) Rules (R 33).
+
+3. 
+
+Section 131 for acting in contravention of rule 26A of the Road Traffic Rules.
+
+4. 
+
+Rules 5(1) and 6(1) of the Road Traffic (Collection of Toll at Woodlands and Tuas Checkpoints) Rules (R 12).
+
+5. 
+
+Rules 4(2), 7(1) and (6), 8(1) and (2) and 13(1) of the Road Traffic (Electronic Road Pricing System) Rules 2011 (G.N. No. S 97/2011).
+
+6. 
+
+Any offence of parking a motor vehicle or of causing or permitting a motor vehicle to stand, wait or be parked in contravention of any rules made under this Act.
+
+[Act 28 of 2014 wef 01/02/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -6061,6 +6279,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|63.|**Act 28 of 2014—Road Traffic (Amendment) Act 2014**|
+||Date of First Reading|4 August 2014 (Bill No. 22/2014 published on 4 August 2014)|
+||Date of Second and Third Readings|8 September 2014|
+||Date of commencement|1 February 2015|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
