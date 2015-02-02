@@ -232,6 +232,14 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (b) a contract for betting that is held, promoted, organised, administered or operated by a person or an organisation that is exempted under section 22 of the Betting Act (Cap. 21) from the provisions of that Act in respect of such betting, only if the betting takes place under the control or supervision of that person or organisation;
 
+(ba) a contract by way of gaming, wagering or betting using remote communication that is conducted, promoted, organised or administered by —
+
+(i) an exempt operator within the meaning of the Remote Gambling Act 2014; or
+
+(ii) a person that is exempted under section 40 of that Act from section 10 or 11 of that Act;
+
+[Act 34 of 2014 wef 02/02/2015]
+
 (c) a contract for betting that takes place on a totalisator conducted by or on behalf of the Singapore Totalisator Board or a turf club in accordance with an approved scheme; and
 
 (d) a contract to participate in a private lottery promoted or conducted by the holder of a permit granted under section 8 of the Private Lotteries Act 2011.
@@ -251,6 +259,10 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 (3D) In the case of a person or an organisation exempted under section 22 of the Betting Act in respect of any betting held, promoted, organised, administered or operated for or on behalf of another person or organisation, subsection (3A)(b) applies only if the contract is for betting held, promoted, organised, administered or operated by that person or organisation for or on behalf of that other person or organisation.
 
 [10/2006 wef 02/04/2008]
+
+(3DA) In the case of an exempt operator or person exempted under section 40 of the Remote Gambling Act 2014 in respect of any gaming, wagering or betting conducted, promoted, organised or administered for or on behalf of another person or organisation, subsection (3A)(ba) applies only if the contract is for betting conducted, promoted, organised or administered by that person or organisation for or on behalf of that other person or organisation.
+
+[Act 34 of 2014 wef 02/02/2015]
 
 (3E) In subsection (3A) —
 
@@ -1219,6 +1231,10 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
 |||(Item (1) in the Schedule)|
+|34.|**Act 34 of 2014—Remote Gambling Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 23/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|2 February 2015|
 ## COMPARATIVE TABLE
 
 Civil Law Act
