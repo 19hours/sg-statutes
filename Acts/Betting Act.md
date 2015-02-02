@@ -10,6 +10,8 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Act not applicable to remote gambling](#Act-not-applicable-to-remote-gambling)
+
 - [3 Offences relating to common betting-houses and betting information centres](#Offences-relating-to-common-betting-houses-and-betting-information-centres)
 
 - [4 Advancing money for conducting business of common betting-house](#Advancing-money-for-conducting-business-of-common-betting-house)
@@ -111,6 +113,12 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 (4) Every person who demises or lets for hire a place shall be deemed to be the owner thereof.
 
 (5) A common betting-house shall be deemed to be a common nuisance and contrary to law.
+
+### Act not applicable to remote gambling
+
+2A\. The provisions of this Act do not apply to or in relation to any remote gambling within the meaning of the Remote Gambling Act 2014.
+
+[Act 34 of 2014 wef 02/02/2015]
 
 ### Offences relating to common betting-houses and betting information centres
 
@@ -377,3 +385,7 @@ This Legislative History is provided for the convenience of users of the Betting
 ||Date of commencement|2 January 2011|
 |10.|**2011 Revised Edition—Betting Act (Chapter 21)**|
 ||Date of operation|31 December 2011|
+|11.|**Act 34 of 2014—Remote Gambling Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 23/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|2 February 2015|
