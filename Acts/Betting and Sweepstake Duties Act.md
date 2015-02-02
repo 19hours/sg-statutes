@@ -56,7 +56,9 @@ An Act relating to duties on betting and sweepstakes.
 
 “Commissioner” means the Commissioner of Betting Duties or any Deputy Commissioner of Betting Duties or Assistant Commissioner of Betting Duties appointed under the Private Lotteries Act (Cap. 250);
 
-“exempt organisation” means any person or organisation that is exempt from all of the provisions of the Betting Act (Cap. 21) under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act (Cap. 49) under a notification made under section 24(1) of that Act;
+“exempt organisation” means any person who is an exempt operator within the meaning of the Remote Gambling Act 2014 or any person who is otherwise exempt from section 10 or 11 of that Act, or any person or organisation that is exempt from all of the provisions of the Betting Act (Cap. 21) under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act (Cap. 49) under a notification made under section 24(1) of that Act;
+
+[Act 34 of 2014 wef 02/02/2015]
 
 “football game” means the game also known as soccer, whether taking place inside or outside Singapore;
 
@@ -275,6 +277,10 @@ This Legislative History is provided for the convenience of users of the Betting
 ||Date of commencement|1 April 2011|
 |19.|**2012 Revised Edition—Betting and Sweepstake Duties Act (Chapter 22)**|
 ||Date of operation|31 October 2012|
+|20.|**Act 34 of 2014—Remote Gambling Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 23/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|2 February 2015|
 ## COMPARATIVE TABLE
 
 Betting and Sweepstake Duties Act
