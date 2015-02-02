@@ -10,6 +10,8 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Act not applicable to remote gambling](#Act-not-applicable-to-remote-gambling)
+
 - [3 Gaming houses declared public nuisances](#Gaming-houses-declared-public-nuisances)
 
 - [4 Offences](#Offences)
@@ -109,6 +111,12 @@ An Act relating to the suppression of common gaming houses, public gaming and pu
 (b) declare any game, method, device, scheme or competition specified or described in the notification to be a game of chance or a mixed game of chance and skill for the purposes of this Act and thereupon it shall be an irrebuttable presumption of law that that game, method, device, scheme or competition is a game of chance or a mixed game of chance and skill, as the case may be, for the purposes of this Act.
 
 (4) The Minister may from time to time by notification in theGazettedeclare articles specified or described in the notification to be instruments or appliances for gaming.
+
+### Act not applicable to remote gambling
+
+2A\. The provisions of this Act do not apply to or in relation to any remote gambling within the meaning of the Remote Gambling Act 2014.
+
+[Act 34 of 2014 wef 02/02/2015]
 
 ### Gaming houses declared public nuisances
 
@@ -417,3 +425,7 @@ This Legislative History is provided for the convenience of users of the Common 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|10.|**Act 34 of 2014—Remote Gambling Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 23/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|2 February 2015|
