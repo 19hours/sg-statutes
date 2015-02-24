@@ -3246,9 +3246,11 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 [34/2008]
 
-(1C) The income of a shipping enterprise referred to in this section shall include income derived on or after 22nd February 2010 by the shipping enterprise from the provision of ship management services to any qualifying company in respect of Singapore ships owned or operated by the qualifying company.
+(1C) The income of a shipping enterprise referred to in this section shall include income derived at any time in the period between 22 February 2010 and 23 February 2015 (both dates inclusive) by the shipping enterprise from the provision of ship management services to any qualifying company in respect of Singapore ships owned or operated by the qualifying company.
 
 [29/2010]
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (1CA) The income of a shipping enterprise referred to in this section includes income derived on or after 1st June 2011 by the shipping enterprise from —
 
@@ -3278,6 +3280,32 @@ and the special purpose company does not at that time own any foreign ship, fore
 
 [29/2012]
 
+(1CD) The income of a shipping enterprise referred to in this section includes income derived on or after 24 February 2015 by the shipping enterprise from providing prescribed ship management services to a qualifying company in respect of Singapore ships owned or operated by the qualifying company.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(1CE) The income of a shipping enterprise referred to in this section includes income derived on or after 24 February 2015 by the shipping enterprise from —
+
+(a) any mobilisation or holding of any ship used or to be used for offshore oil or gas activity outside the limits of the port of Singapore; or
+
+(b) the demobilisation of any ship after it has been so used,
+
+where the mobilisation, holding or demobilisation is undertaken by the shipping enterprise itself using a Singapore ship.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(1CF) The income of a shipping enterprise referred to in this section includes income derived on or after 24 February 2015 by the shipping enterprise from —
+
+(a) any mobilisation or holding of a Singapore ship owned or operated by the shipping enterprise and used or to be used for offshore oil or gas activity outside the limits of the port of Singapore; or
+
+(b) the demobilisation of a Singapore ship owned or operated by the shipping enterprise after it has been so used.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(1CG) The income of a shipping enterprise referred to in this section includes income derived on or after 24 February 2015 by the shipping enterprise from the leasing of any container (other than finance leasing) carried out in connection with its operation of Singapore ships and that is incidental to such operation.
+
+[Act 2 of 2016 wef 24/02/2015]
+
 (1D) This section does not apply to income of a shipping enterprise, being an international shipping enterprise approved under section 13F, derived in the basis period for the year of assessment 2012 or any subsequent year of assessment from the operation of foreign ships.
 
 [22/2011]
@@ -3294,9 +3322,11 @@ and the special purpose company does not at that time own any foreign ship, fore
 
 (a) the capital allowances provided under sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income; and
 
-(b) a loss incurred by a shipping enterprise in respect of any activity referred to in subsection (1), (1B) or (1C) for any basis period shall only be deducted against the income from any activity referred to in any of those subsections, and the balance of such loss shall not be available as a deduction against any other income.
+(b) a loss incurred by a shipping enterprise in respect of any activity referred to in subsection (1), (1B), (1C), (1CD), (1CE), (1CF) or (1CG) for any basis period shall only be deducted against the income from any activity referred to in any of those subsections, and the balance of such loss shall not be available as a deduction against any other income.
 
 [4/75; 31/98; 7/2007; 29/2010; 29/2012]
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (3A) Where a shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1CA) in any basis period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1CA) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -3356,7 +3386,27 @@ and the special purpose company does not at that time own any foreign ship, fore
 
 (16) In this section —
 
+“container” has the same meaning as in section 43ZA(7);
+
+[Act 2 of 2016 wef 24/02/2015]
+
+“demobilisation”, in relation to a ship, means the standing down and restoration of the ship to the state it was in before mobilisation;
+
+[Act 2 of 2016 wef 24/02/2015]
+
+“finance leasing”, in relation to any container, means a lease of the container (including any arrangement or agreement made in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of the container to the lessee;
+
+[Act 2 of 2016 wef 24/02/2015]
+
 “foreign ship” has the same meaning as in section 13F;
+
+“holding”, in relation to a ship, means keeping the ship on a standby mode for use in offshore oil or gas activity;
+
+[Act 2 of 2016 wef 24/02/2015]
+
+“mobilisation”, in relation to a ship, means bringing the ship to a state of readiness for use in offshore oil or gas activity, and includes moving the ship to the deployment site, and outfitting and re-engineering the ship to bring it to a state of readiness for use in such activity;
+
+[Act 2 of 2016 wef 24/02/2015]
 
 “operation” means —
 
@@ -3371,6 +3421,10 @@ and the special purpose company does not at that time own any foreign ship, fore
 (iv) for the year of assessment 2007 and subsequent years of assessment, the use outside the limits of the port of Singapore of the ship as a dredger, seismic ship or vessel used for offshore oil or gas activity; and
 
 (b) in relation to a foreign ship, the carriage of passengers, mail, livestock or goods shipped in Singapore, except where such carriage arises solely from transhipment from Singapore, or is only within the limits of the port of Singapore;
+
+“prescribed ship management services” means activities that support or are incidental to owning or operating a ship, and which are prescribed as prescribed ship management services under section 7;
+
+[Act 2 of 2016 wef 24/02/2015]
 
 “qualifying company”, in relation to a shipping enterprise, means a company at least 50% of the total number of the issued ordinary shares of which are beneficially and directly owned by the enterprise;
 
@@ -3736,7 +3790,9 @@ is the percentage which the value of equity interests of the second level entity
 
 (d) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the operations described in paragraphs (a), (b) and (c);
 
-(e) on or after 22nd February 2010 from the provision of ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle, unless the conditions of its approval otherwise provides; and
+(e) at any time in the period between 22 February 2010 and 23 February 2015 (both dates inclusive) from the provision of ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle, unless the conditions of its approval otherwise provides;
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (f) for the year of assessment 2012 and subsequent years of assessment, from the carriage by any foreign ship of passengers, mail, livestock or goods which are shipped in Singapore, except where such carriage is only within the limits of the port of Singapore;
 
@@ -3746,9 +3802,37 @@ is the percentage which the value of equity interests of the second level entity
 
 (ii) the assignment to another of all its rights as the buyer under a contract for the construction of a ship, dredger, seismic ship or vessel that, at the time of the assignment, is intended to be a foreign ship, a foreign dredger, a foreign seismic ship or any foreign vessel used for offshore oil or gas activity; or
 
-(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved international shipping enterprise where, at the time of the sale of the shares, the special purpose company owns any ship, dredger, seismic ship or vessel used for offshore oil or gas activity, or is the buyer under a contract for the construction of any ship, dredger, seismic ship or vessel used for offshore oil or gas activity.
+(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved international shipping enterprise where, at the time of the sale of the shares, the special purpose company owns any ship, dredger, seismic ship or vessel used for offshore oil or gas activity, or is the buyer under a contract for the construction of any ship, dredger, seismic ship or vessel used for offshore oil or gas activity;
 
 [37/2002; 49/2004; 34/2008; 29/2010; 22/2011; 29/2012]
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(h) on or after 24 February 2015 from providing prescribed ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle, unless the conditions of its approval otherwise provides;
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(i) on or after 24 February 2015 from —
+
+(i) any mobilisation or holding of any ship used or to be used for offshore oil or gas activity outside the limits of the port of Singapore; or
+
+(ii) the demobilisation of any ship after it has been so used,
+
+where the mobilisation, holding or demobilisation is undertaken by the approved international shipping enterprise itself using a foreign ship;
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(j) on or after 24 February 2015 from —
+
+(i) any mobilisation or holding of a foreign ship owned or operated by the approved international shipping enterprise and used or to be used for offshore oil or gas activity outside the limits of the port of Singapore; or
+
+(ii) the demobilisation of a foreign ship owned or operated by the approved international shipping enterprise after it has been so used; and
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(k) on or after 24 February 2015 from the leasing of any container (other than finance leasing) carried out in connection with its operation of foreign ships and that is incidental to such operation.
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (1A) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(e) does not apply to the provision by an approved international shipping enterprise of ship management services to a qualifying special purpose vehicle if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
 
@@ -3761,6 +3845,10 @@ is the percentage which the value of equity interests of the second level entity
 (b) any income of an approved international shipping enterprise from carrying on a business of trading in ships, dredgers, seismic ships, or vessels used for offshore oil or gas activity, or of constructing ships, dredgers, seismic ships, or vessels used for offshore oil or gas activity for sale.
 
 [29/2012]
+
+(1AB) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(h) does not apply to the provision by an approved international shipping enterprise of prescribed ship management services to a qualifying special purpose vehicle, if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (1B) An application may be made to the Minister or such person as he may appoint for a company —
 
@@ -3792,13 +3880,15 @@ to be approved as an approved international shipping enterprise, and the company
 
 [29/2010]
 
-(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f) of subsection (1), that loss —
+(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f) and (h) to (k) of subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
 (b) shall only be deducted against the income referred to in any of those paragraphs, and the balance of such loss shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 37.
 
 [29/2012]
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (4A) Where an approved international shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1)(g) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1)(g) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -3811,6 +3901,14 @@ to be approved as an approved international shipping enterprise, and the company
 (6) In this section —
 
 “approved” means approved by the Minister, or such person as he may appoint, subject to such conditions as he may impose;
+
+“container” has the same meaning as in section 43ZA(7);
+
+[Act 2 of 2016 wef 24/02/2015]
+
+“demobilisation”, “finance leasing”, “holding”, “mobilisation” and “prescribed ship management services” have the same meanings as in section 13A(16);
+
+[Act 2 of 2016 wef 24/02/2015]
 
 “foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);
 
@@ -3826,9 +3924,11 @@ to be approved as an approved international shipping enterprise, and the company
 
 “ship management services” has the same meaning as in section 13A(16);
 
-“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is undertaking any operation referred to in subsection (1)(a), (b), (c) and (f), or any operation of a Singapore ship as defined in section 13A(16).
+“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is undertaking any operation referred to in subsection (1)(a), (b), (c), (f), (i) and (j), or any operation of a Singapore ship as defined in section 13A(16).
 
 [32/99; 24/2001; 37/2002; 29/2010; 22/2011; 29/2012]
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (7) In this section, “qualifying special purpose vehicle”, in relation to a company referred to in paragraph (b) of the definition of “international shipping enterprise” in subsection (6) or an approved international shipping enterprise (called in this subsection the entity), means —
 
@@ -5020,9 +5120,7 @@ except that the Minister may extend the period so specified for such further per
 
 [19/2013]
 
-(19A) In this section, a reference to the leasing of a sea-going ship by a shipping investment enterprise approved on or after 1st March 2011 excludes the leasing of a sea-going ship which has been treated as though it had been sold pursuant to regulations made under section 10D(1).
-
-[29/2010]
+(19A) [Deleted by Act 2 of 2016 wef 24/02/2015]
 
 (20) In this section —
 
@@ -16878,9 +16976,13 @@ except that the Minister may extend the period so specified for such further per
 
 (6) In determining the income of an approved container investment enterprise from the leasing of any container or intermodal equipment —
 
-(a) the allowances under section 19, 19A, 20, 21, 22 or 23 shall be taken into account notwithstanding that no claim for such allowances has been made;
+(a) the allowances under section 19, 19A, 20, 21, 22 or 23 (other than allowances made to the lessee under regulations made under section 10D) shall be taken into account notwithstanding that no claim for such allowances has been made;
 
-(b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of finance leasing in any year of assessment shall be deducted against the income from such leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
+[Act 2 of 2016 wef 24/02/2015]
+
+(b) the allowances under section 19, 19A, 20, 21, 22 or 23 (other than allowances made to the lessee under regulations made under section 10D) in respect of finance leasing in any year of assessment shall be deducted against the income from such leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (c) where the approved container investment enterprise ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction against the income from such leasing shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
 
@@ -16912,9 +17014,7 @@ except that the Minister may extend the period so specified for such further per
 
 [34/2008; 29/2012]
 
-(8) In this section, a reference to the leasing of a container or an intermodal equipment excludes the leasing of a container or an intermodal equipment which has been treated as though it had been sold pursuant to regulations made under section 10D(1).
-
-[34/2008; 29/2012]
+(8) [Deleted by Act 2 of 2016 wef 24/02/2015]
 
 ### Concessionary rate of tax for container investment manager
 
@@ -17120,9 +17220,13 @@ unless the Minister otherwise allows.
 
 ### Concessionary rate of tax for shipping-related support services
 
-43ZF\.—(1) Notwithstanding section 43, tax at the rate of 10% shall be levied and paid for each year of assessment upon the income of an approved company derived on or after the service approval date from providing in or from Singapore any shipping‑related support service approved for the company at the time of its approval or such later date as the Minister or a person appointed by him may allow, which in the aggregate are in excess of the base amount.
+43ZF\.—(1) Despite section 43, tax at the rate of 10% is to be levied and paid for each year of assessment upon the amount of income in subsection (1A) of an approved company derived on or after the service approval date and during the period of its approval under subsection (2) (but not any extended period of its approval under subsection (5A)), from providing in or from Singapore any shipping‑related support service approved for it under subsection (2A).
 
-[22/2011]
+[Act 2 of 2016 wef 24/02/2015]
+
+(1A) In subsection (1), the amount of the income is that which exceeds the base amount calculated in accordance with subsection (4).
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (2) Approval may be granted under this section between 1st June 2011 and 31st May 2016 (both dates inclusive) to a company for a period of 5 years; and may be given subject to such conditions as the Minister may impose.
 
@@ -17130,13 +17234,19 @@ unless the Minister otherwise allows.
 
 [Act 37 of 2014 wef 27/11/2014]
 
+(2A) The Minister or appointed person must approve for the company one or more shipping-related support services for the purposes of subsection (1) at the time of granting the approval, and may approve for the company additional shipping-related support services during the period it is approved.
+
+[Act 2 of 2016 wef 24/02/2015]
+
 (3) A company that is deemed an approved company on 1st June 2011 by virtue of regulations made under subsection (7), shall be deemed to have been approved for such period not exceeding 10 years from that date as the Minister may specify in the regulations.
 
 [22/2011]
 
-(4) The base amount referred to in subsection (1) shall be calculated in accordance with the following provisions:
+(4) The base amount referred to in subsection (1A) shall be calculated in accordance with the following provisions:
 
-(a) where the approved company had provided one or more of the shipping-related support services approved for it at any time during the period of 3 years immediately before the date of its approval, the base amount shall be ascertained by dividing the aggregate net profit before tax as shown in its audited accounts that is derived from providing all of those services during that period by the actual number of months (a period of less than a month being reckoned as one month) during that period in which those services were provided and multiplying by 12;
+(a) where the approved company had provided one or more of the shipping-related support services approved for it at any time during the period of 3 years immediately before the date of its approval, the base amount shall be ascertained by dividing the aggregate net profit before tax as shown in its audited accounts (or such other accounts as the Minister or appointed person may approve for the company) that is derived from providing all of those services during that period by the actual number of months (a period of less than a month being reckoned as one month) during that period in which those services were provided and multiplying by 12;
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (b) where the company had not provided any of the shipping‑related support services approved for it at any time during the period of 3 years immediately before the date of its approval, the base amount shall be zero; or
 
@@ -17144,9 +17254,67 @@ unless the Minister otherwise allows.
 
 [22/2011]
 
-(5) The base amount determined in accordance with subsection (4) shall apply to the approved company for the entire duration of the period of its approval, unless the Minister otherwise decides.
+[Act 2 of 2016 wef 24/02/2015]
+
+(5) The base amount determined in accordance with subsection (4) shall apply to the approved company for the entire duration of the period of its approval (but not the extended period of its approval under subsection (5A)), unless the Minister otherwise decides.
 
 [22/2011]
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5A) The Minister or appointed person may extend the period of any approval under subsection (2) for further periods of 5 years at any one time, and the extension is subject to the company satisfying such conditions as the Minister or appointed person has imposed on it at the time of granting the extension.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5B) The Minister or appointed person must approve for the company one or more shipping-related support services for the purposes of subsection (5C) at the time of granting the extension, and may approve for the company additional shipping-related support services during the extended period of its approval.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5C) Despite section 43, tax at the rate of 10% is levied and must be paid for each year of assessment upon the amount of income in subsection (5D) of an approved company derived on or after the service approval date and during the extended period of its approval under subsection (5A), from providing in or from Singapore any shipping-related support service approved for it under subsection (5B).
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5D) In subsection (5C), the amount of the income is that which exceeds the base amount calculated in accordance with subsection (5I).
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5E) The approved company may, in lieu of subsection (5C), elect for the amount referred to in subsection (5F) of its income derived on or after the service approval date and during the extended period of its approval under subsection (5A), from providing in or from Singapore any shipping-related support service approved for it under subsection (5B), to be taxed at a rate of 10.5%.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5F) In subsection (5E), the amount of the income is that which exceeds the base amount referred to in subsection (4).
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5G) An election under subsection (5E) must be made in such form and manner and within such reasonable time as the Minister or appointed person may allow, and must be accompanied by such particulars as the Minister or appointed person determines.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5H) An election under subsection (5E) is irrevocable.
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5I) The base amount referred to in subsection (5D) is determined as follows:
+
+(a) where the approved company had provided one or more of the shipping-related support services approved for it under subsection (5B) at any time during the period of 3 years immediately before the date the extension is granted under subsection (5A), the base amount is ascertained by the following formula:
+
+where A
+
+is the total net profit before tax as shown in the company’s audited accounts (or such other accounts as the Minister or appointed person may approve for the company) that is derived from providing all of those services during that period of 3 years; and
+
+B
+
+is the actual number of months (a period of less than a month being reckoned as one month) during that period in which those services were provided;
+
+(b) where the company had not provided any of the shipping-related support services approved for it under subsection (5B) at any time during the period referred to in paragraph (a), the base amount is zero;
+
+(c) the Minister may in a particular case specify an amount in substitution for the amount referred to in paragraph (a) or (b).
+
+[Act 2 of 2016 wef 24/02/2015]
+
+(5J) The base amount determined in accordance with subsection (5I) applies to the approved company for the entire duration of the extended period of its approval under subsection (5A), unless the Minister otherwise decides.
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (6) In determining the income of an approved company from the provision of shipping-related support services approved for it —
 
@@ -17226,13 +17394,19 @@ as an approved company for the purpose of this section from that date;
 
 [Act 39 of 2017 wef 2/06/2011]
 
-and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsection (4);
+and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsections (4) and (5I);
+
+[Act 2 of 2016 wef 24/02/2015]
 
 “finance leasing” has the same meaning as in section 13S(20) or 43ZA(7);
 
 “forward freight agreement trading” means the undertaking of a position under a forward freight agreement trade where such trade is in connection with shipping freight rates;
 
 “freight forwarding and logistics service” means managing a customer’s freight, supply chain or logistics process flow;
+
+“prescribed ship management services” has the same meaning as in section 13A(16);
+
+[Act 2 of 2016 wef 24/02/2015]
 
 “related company”, in relation to an approved company, means a company that is carrying on a shipping-related business and —
 
@@ -17242,7 +17416,9 @@ and only services provided to an approved related company of that company shall 
 
 (c) whose operations are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of the approved company;
 
-“service approval date”, in relation to any shipping-related support service approved for an approved company under subsection (1), means the date the service is approved for that company under that subsection or, in the case of corporate service to be provided by the company to its approved related company, the date the related company is approved as such;
+“service approval date”, in relation to any shipping-related support service approved for an approved company under subsection (2A) or (5B), means the date the service is approved for that company under that subsection or, in the case of corporate service to be provided by the company to its approved related company, the date the related company is approved as such;
+
+[Act 2 of 2016 wef 24/02/2015]
 
 “ship” includes any dredger, seismic ship or any vessel used for offshore oil and gas activity;
 
@@ -17266,7 +17442,7 @@ and only services provided to an approved related company of that company shall 
 
 and includes the services referred to in subsection (9);
 
-“ship management services” has the same meaning as in section 13A(16);
+[Deleted by Act 2 of 2016 wef 24/02/2015]
 
 “shipping-related business” means any of the following:
 
@@ -17288,7 +17464,7 @@ and includes the services referred to in subsection (9);
 
 (i) ship agency;
 
-(j) ship management services;
+(j) prescribed ship management services;
 
 (k) freight and logistics services in respect of a ship;
 
@@ -17302,13 +17478,15 @@ and includes the services referred to in subsection (9);
 
 (p) maritime research and development;
 
+[Act 2 of 2016 wef 24/02/2015]
+
 “shipping-related support service” means any of the following:
 
 (a) ship broking;
 
 (b) forward freight agreement trading;
 
-(c) ship management services;
+(c) prescribed ship management services;
 
 (d) ship agency;
 
@@ -17318,9 +17496,11 @@ and includes the services referred to in subsection (9);
 
 [22/2011]
 
+[Act 2 of 2016 wef 24/02/2015]
+
 (9) In this section, “ship broking” includes —
 
-(a) for the purpose of subsection (1), the provision of research, consultancy or advisory services using information derived from the business of carrying on any of the activities referred to in paragraphs (a) to (e) of the definition of “ship broking” in subsection (8), where the total sum of the fees derived by the approved company from the research, consultancy and advisory services in the basis period for the year of assessment concerned (referred to in this paragraph as the said sum) is not more than 20% of the sum of —
+(a) for the purpose of subsections (1), (2A), (5B) and (5C), the provision of research, consultancy or advisory services using information derived from the business of carrying on any of the activities referred to in paragraphs (a) to (e) of the definition of “ship broking” in subsection (8), where the total sum of the fees derived by the approved company from the research, consultancy and advisory services in the basis period for the year of assessment concerned (referred to in this paragraph as the said sum) is not more than 20% of the sum of —
 
 (i) the total fees and commissions derived by the approved company from all of those other activities in the basis period for that year of assessment; and
 
@@ -17328,7 +17508,9 @@ and includes the services referred to in subsection (9);
 
 or where the Minister otherwise allows such services to be considered “ship broking”; and
 
-(b) for the purpose of subsection (4), the provision, within any financial year or part thereof of the approved company that falls within the period of 3 years immediately before the date of its approval, of research, consultancy or advisory services using information derived from the business of carrying on any of the activities referred to in paragraphs (a) to (e) of the definition of “ship broking” in subsection (8), where the total sum of the fees derived by the approved company from the research, consultancy and advisory services in that financial year or part thereof (referred to in this paragraph as the said sum) is not more than 20% of the sum of —
+[Act 2 of 2016 wef 24/02/2015]
+
+(b) for the purpose of subsections (4) and (5I), the provision, within any financial year or part thereof of the approved company that falls within the period of 3 years immediately before the date of its approval, of research, consultancy or advisory services using information derived from the business of carrying on any of the activities referred to in paragraphs (a) to (e) of the definition of “ship broking” in subsection (8), where the total sum of the fees derived by the approved company from the research, consultancy and advisory services in that financial year or part thereof (referred to in this paragraph as the said sum) is not more than 20% of the sum of —
 
 (i) the total fees and commissions derived by the approved company from all of those other activities in that financial year or part thereof; and
 
@@ -17337,6 +17519,8 @@ or where the Minister otherwise allows such services to be considered “ship br
 or where the Minister otherwise allows such services to be considered “ship broking”.
 
 [22/2011]
+
+[Act 2 of 2016 wef 24/02/2015]
 
 (10) For the purposes of the definition of “related company” in subsection (8), a company (referred to as the first company) is deemed to be a related company of another company if —
 
@@ -22881,17 +23065,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 36/2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|1 April 2014|
-|307.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
-||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
-||Date of Second and Third Readings|29 February 2016|
-||Date of commencement|1 April 2014|
-|||1 September 2014|
-|308.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|307.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|27 November 2014|
-|309.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
@@ -22899,6 +23078,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 September 2014|
 |||27 November 2014|
 |||1 January 2015|
+|309.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 April 2014|
+|||1 September 2014|
+|||24 February 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
