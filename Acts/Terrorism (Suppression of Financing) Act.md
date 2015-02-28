@@ -828,6 +828,34 @@ Terrorists and terrorist entities
 
 (b) where the particulars of any individual or entity in either of the Lists are modified on or after the date of commencement of section 8 of the Terrorism (Suppression of Financing) (Amendment) Act 2013, they are taken to be modified for the purposes of this Schedule with effect from the date immediately following the date of modification in the List.
 
+1A. The following individuals:
+
+(a) Haji Ibrahim B Haji Maidin (Singapore citizen) (Date of Birth: 1 October 1950);
+
+(b) Alahuddeen bin Abdullah (Singapore citizen) (Date of Birth: 27 May 1967);
+
+(c) Mohammad Aslam bin Yar Ali Khan (Singapore citizen) (Date of Birth: 19 October 1964);
+
+(d) Mas Selamat bin Kastari (Singapore citizen) (Date of Birth: 23 January 1961);
+
+(e) Abd Rahim bin Abdul Rahman (Singapore citizen) (Date of Birth: 19 October 1968);
+
+(f) Husaini bin Ismail (Singapore citizen) (Date of Birth: 30 December 1958);
+
+(g) Abdul Basheer s/o Abdul Kader (Singapore citizen) (Date of Birth: 17 October 1978);
+
+(h) Asyrani bin Hussaini (Singapore citizen) (Date of Birth: 16 May 1989);
+
+(i) Masyhadi bin Mas Selamat (Singapore citizen) (Date of Birth: 8 January 1989);
+
+(j) Mohamed Hassan bin Saynudin (Singapore citizen) (Date of Birth: 3 November 1973);
+
+(k) Muhamad Ali s/o Abdul Rahiman (Singapore citizen) (Date of Birth: 14 January 1965);
+
+(l) Haja Fakkurudeen Usman Ali (Singapore citizen) (Date of Birth: 30 July 1976).
+
+[S 93/2015 wef 28/02/2015]
+
 2. In this Schedule, unless the context otherwise requires —
 
 “1267 Committee” means the committee established pursuant to Resolution 1267 (1999);
@@ -998,6 +1026,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|10 March 2014|
 |12.|**G.N. No. S 716/2014—Terrorism (Suppression of Financing) Act (Amendment of Second Schedule) Order 2014**|
 ||Date of commencement|25 October 2014|
+|13.|**G.N. No. S 93/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2015**|
+||Date of commencement|28 February 2015|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
