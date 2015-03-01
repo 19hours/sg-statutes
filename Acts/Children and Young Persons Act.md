@@ -794,9 +794,17 @@ Trafficking in Children
 
 (a) has been brought into Singapore either after having been transferred for valuable consideration or by fraud, misrepresentation or any false pretence;
 
-(b) has been transferred to the custody or control of any person for valuable consideration either within or outside Singapore; or
+(b) has been transferred to the custody or control of any person for valuable consideration either within or outside Singapore;
 
-(c) is being detained against his will by some person other than his parents or lawful guardian,
+[Act 45 of 2014 wef 01/03/2015]
+
+(c) is being detained against his will by some person other than his parents or lawful guardian; or
+
+[Act 45 of 2014 wef 01/03/2015]
+
+(d) is a trafficked victim, as defined in section 2 of the Prevention of Human Trafficking Act 2014,
+
+[Act 45 of 2014 wef 01/03/2015]
 
 he may either —
 
@@ -2985,6 +2993,12 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|13.|**Act 45 of 2014—Prevention of Human Trafficking Act 2014**|
+||(Consequential amendments made by)||
+||Date of First Reading|7 October 2014|
+|||(Bill No. 39/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|3 November 2014|
+||Date of commencement|1 March 2015|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
