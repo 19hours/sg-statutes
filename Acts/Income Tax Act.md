@@ -648,6 +648,8 @@
 
 - [105P Regulations to implement international tax compliance agreements](#Regulations-to-implement-international-tax-compliance-agreements)
 
+- [105PA Duty to provide information under regulations prevails over duty of secrecy, etc.](#Duty-to-provide-information-under-regulations-prevails-over-duty-of-secrecy-etc)
+
 - [105Q Confidentiality requirements for judicial review proceedings](#Confidentiality-requirements-for-judicial-review-proceedings)
 
 [**Part XXI MISCELLANEOUS**](#Part-XXI)
@@ -17392,7 +17394,7 @@ as an approved company for the purpose of this section from that date;
 
 (l) information technology support services,
 
-[Act 39 of 2017 wef 2/06/2011]
+[Act 39 of 2017 wef 02/06/2011]
 
 and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsections (4) and (5I);
 
@@ -20513,6 +20515,24 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 [19/2013]
 
+### Duty to provide information under regulations prevails over duty of secrecy, etc.
+
+105PA\.—(1) This section applies where a regulation made under section 105P imposes a duty on a person (A) to provide any information to another person.
+
+(2) In relation to a duty to provide information that arises on or after the date the Income Tax (Amendment) Act 2016 is published in theGazette,Ais not excused from providing the information by reason only thatAis under a duty not to collect, use or disclose that information, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
+
+(3)Awho in good faith and with reasonable care does any act for the purpose of complying with the regulation mentioned in subsection (1) is not to be treated as being in breach of any duty mentioned in subsection (2).
+
+(4) No civil or criminal action for a breach of any such duty, other than criminal action for an offence under section 105M (if applicable), lies againstA—
+
+(a) for producing any document or providing any information ifAdoes so in good faith and with reasonable care in compliance with the regulation mentioned in subsection (1); or
+
+(b) for doing or omitting to do any act ifAdoes or omits to do the act in good faith and with reasonable care and for the purpose of or as a result of complying with the regulation mentioned in subsection (1).
+
+(5) Despite subsection (2), subsection (1) does not apply to any information subject to legal privilege.
+
+[Act 2 of 2016 wef 18/03/2015]
+
 ### Confidentiality requirements for judicial review proceedings
 
 105Q\.—(1) This section applies to a judicial review instituted by any person in respect of —
@@ -23084,6 +23104,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 April 2014|
 |||1 September 2014|
 |||24 February 2015|
+|||18 March 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
