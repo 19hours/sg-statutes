@@ -150,9 +150,9 @@
 
 - [53 Application of Division to illustrations accompanying articles and other works](#Application-of-Division-to-illustrations-accompanying-articles-and-other-works)
 
-[**Division 7  Copying of Works in Institutions Assisting Handicapped Readers and Institutions Assisting Intellectually Handicapped Readers**](#Division-7--Copying-of-Works-in-Institutions-Assisting-Handicapped-Readers-and-Institutions-Assisting-Intellectually-Handicapped-Readers)
+[**Division 7  Copying of Works in Institutions Assisting Persons with Reading Disabilities and Institutions Assisting Intellectually Handicapped Readers**](#Division-7--Copying-of-Works-in-Institutions-Assisting-Persons-with-Reading-Disabilities-and-Institutions-Assisting-Intellectually-Handicapped-Readers)
 
-- [54 Multiple copying under statutory licence by institutions assisting handicapped readers](#Multiple-copying-under-statutory-licence-by-institutions-assisting-handicapped-readers)
+- [54 Copying, etc., under statutory licence for persons with reading disabilities](#Copying-etc-under-statutory-licence-for-persons-with-reading-disabilities)
 
 - [54A Multiple copying under statutory licence by institutions assisting intellectually handicapped readers](#Multiple-copying-under-statutory-licence-by-institutions-assisting-intellectually-handicapped-readers)
 
@@ -315,6 +315,8 @@
 - [115A Copying for course of instruction in making of film or sound-track](#Copying-for-course-of-instruction-in-making-of-film-or-sound-track)
 
 - [115B Things done for purposes of examination](#Things-done-for-purposes-of-examination)
+
+- [115C Copying, etc., under statutory licence by institutions for reading disabilities](#Copying-etc-under-statutory-licence-by-institutions-for-reading-disabilities)
 
 - [116 Reproductions of editions of work](#Reproductions-of-editions-of-work)
 
@@ -896,6 +898,26 @@ INTERPRETATION
 
 7\.—(1) In this Act, unless the context otherwise requires —
 
+“accessible format” means any format that —
+
+(a) is accessible to a person with a reading disability, including (but not limited to) a large print version, an electronic book, a sound recording, and the format known as Digital Accessible Information System (DAISY); or
+
+(b) is specifically designed to meet the needs of a person with a reading disability, including (but not limited to) a Braille version and photographic version;
+
+[Act 22 of 2014 wef 31/03/2015]
+
+“accessible format copy” —
+
+(a) in relation to any work to which section 54 applies, means a copy (whether in an electronic or a physical form) of the work or part of the work in an accessible format; or
+
+(b) in relation to any subject‑matter to which section 115C applies, means —
+
+(i) in the case of a sound recording, a copy (whether in an electronic or a physical form) of the sound recording or part of that sound recording in an accessible format; and
+
+(ii) in the case of a sound broadcast, a sound recording or a copy of a sound recording (whether in an electronic or a physical form) of the sound broadcast or part of that sound broadcast, in an accessible format;
+
+[Act 22 of 2014 wef 31/03/2015]
+
 “accessory”, in relation to an article, means one or more of the following:
 
 (a) a label affixed to, or displayed on, the article;
@@ -1068,17 +1090,17 @@ but does not include an institution that is conducted for the profit, direct or 
 
 “exclusive licence” means a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that, by virtue of this Act, the owner of the copyright would, but for the licence, have the exclusive right to do, and “exclusive licensee” shall have a corresponding meaning;
 
+“foreign institution assisting persons with reading disabilities” means an institution —
+
+(a) that has as its principal function, or one of its principal functions, the provision of works or other subject‑matter to persons with reading disabilities; and
+
+(b) that is formed, incorporated or established outside Singapore;
+
+[Act 22 of 2014 wef 31/03/2015]
+
 “future copyright” means copyright to come into existence at a future time or upon the happening of a future event;
 
-“handicapped reader” means —
-
-(a) a blind person;
-
-(b) a person suffering severe impairment of his sight;
-
-(c) a person unable to hold or manipulate books or to focus or move his eyes; or
-
-(d) a person suffering from a perceptual handicap;
+[Deleted by Act 22 of 2014 wef 31/03/2015]
 
 “infringing copy” —
 
@@ -1096,13 +1118,7 @@ being an article the making of which constituted an infringement of the copyrigh
 
 “institution” includes an educational institution;
 
-“institution assisting handicapped readers” means —
-
-(a) an educational institution; or
-
-(b) any other institution, not being an institution conducted for profit, direct or indirect, of an individual or individuals,
-
-that has as its principal function, or one of its principal functions, the provision of literary or dramatic works to handicapped readers and that is declared by regulations made under this Act to be, for the purposes of this Act, an institution assisting handicapped readers;
+[Deleted by Act 22 of 2014 wef 31/03/2015]
 
 “institution assisting intellectually handicapped readers” means —
 
@@ -1111,6 +1127,16 @@ that has as its principal function, or one of its principal functions, the provi
 (b) any non-profit organisation,
 
 that has as its principal function, or one of its principal functions, the provision of assistance to intellectually handicapped persons and that is declared by regulations made under this Act to be, for the purposes of this Act, an institution assisting intellectually handicapped readers;
+
+“institution assisting persons with reading disabilities” means an institution —
+
+(a) that has as its principal function, or one of its principal functions, the provision of works or other subject‑matter to persons with reading disabilities;
+
+(b) that is formed, incorporated or established in Singapore; and
+
+(c) that is declared by regulations made under this Act to be an institution for assisting persons with reading disabilities;
+
+[Act 22 of 2014 wef 31/03/2015]
 
 “international organisation to which this Act applies” means an organisation that is declared by the regulations made for the purposes of section 185 to be an international organisation to which this Act applies, and includes —
 
@@ -1127,6 +1153,18 @@ that has as its principal function, or one of its principal functions, the provi
 “non-profit organisation” means an organisation or association or persons, whether corporate or unincorporate, that is not operated or conducted for profit;
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
+
+“person with a reading disability” means —
+
+(a) a blind person;
+
+(b) a person whose sight is severely impaired;
+
+(c) a person unable to hold or manipulate books or to focus or move his eyes; or
+
+(d) a person with a perceptual handicap;
+
+[Act 22 of 2014 wef 31/03/2015]
 
 “photograph” means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, and “photography” shall have a corresponding meaning;
 
@@ -1212,6 +1250,10 @@ which is to be or has been conveyed by means of a telecommunication system;
 
 [6/98]
 
+(1B) For the purposes of paragraph (b) of the definition of “accessible format” in subsection (1), something is in photographic version if it is produced as a film‑strip or series of separate transparencies designed to meet the needs of persons with a reading disability.
+
+[Act 22 of 2014 wef 31/03/2015]
+
 (2) Without limiting the meaning of the expression “reasonable portion” in this Act, where a literary, dramatic or musical work is contained in a published edition of that work, being an edition of not less than 10 pages, a copy of part of that work, as it appears in that edition, shall be taken to contain only a reasonable portion of that work if the pages that are copied in the edition —
 
 (a) do not exceed, in the aggregate, 10% of the number of pages in that edition; or
@@ -1238,17 +1280,19 @@ but contains only the whole or part of a single chapter of the work.
 
 (3) In this Act, unless the contrary intention appears —
 
-(a) a reference to the body administering an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as —
+(a) a reference to the body administering an educational institution, an institution assisting persons with reading disabilities or an institution assisting intellectually handicapped readers shall be read as —
 
 (i) in a case where the institution is a body corporate, a reference to the institution; or
 
 (ii) in any other case, a reference to the body or person (including the Government) having ultimate responsibility for the administration of the institution;
 
+[Act 22 of 2014 wef 31/03/2015]
+
 (b) a reference to the body administering a library or archives shall be read as a reference to the body (whether incorporated or not), or the person (including the Government), having ultimate responsibility for the administration of the library or archives;
 
 (c) a reference to a copy of a sound recording shall be read as a reference to a record embodying a sound recording or a substantial part of a sound recording being a record derived, directly or indirectly, from a record produced upon the making of a sound recording;
 
-(d) a reference to the copying records of an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as a reference to the collection of —
+(d) a reference to the copying records of an educational institution, an institution assisting persons with reading disabilities or an institution assisting intellectually handicapped readers shall be read as a reference to the collection of —
 
 (i) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 52;
 
@@ -1258,15 +1302,21 @@ but contains only the whole or part of a single chapter of the work.
 
 other than any such records as have been duly destroyed by, or by authority of, the body administering that institution;
 
-(e) a reference to the custodian in charge of the copying records of an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as a reference to the person having responsibility for the day-to-day administration of the institution;
+[Act 22 of 2014 wef 31/03/2015]
+
+(e) a reference to the custodian in charge of the copying records of an educational institution, an institution assisting persons with reading disabilities or an institution assisting intellectually handicapped readers shall be read as a reference to the person having responsibility for the day-to-day administration of the institution;
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (f) a reference to the making, by reprographic reproduction, of a copy of a document, or of the whole or a part of a work, shall be read as a reference to the making of a facsimile copy of the document or the whole or that part of the work, being a facsimile copy of any size or form;
 
-(g) a reference to a handicapped reader’s copy of a work, or of a part of a work, shall be read as a reference to —
+(g) a reference to a copy of a work or other subject‑matter, or of a part of a work or other subject‑matter, for a person with a reading disability shall be read as a reference to an accessible format copy of the work or subject‑matter —
 
-(i) a record embodying a sound recording of the work, or of the part of the work, being a record that was made by, or on behalf of, the body administering an institution assisting handicapped readers for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake or for the purpose of instructing himself on any matter; or
+(i) made, on a non‑profit basis, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, for use by a person with a reading disability for a permitted purpose within the meaning of section 54; and
 
-(ii) a Braille version, large-print version or photographic version of the work, or of the part of the work, being a Braille version, large-print version or photographic version, as the case may be, made by, or on behalf of, the body administering the institution assisting handicapped readers for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake or for the purpose of instructing himself on any matter;
+(ii) made available or distributed, on a non‑profit basis, to a person with a reading disability for use by him for any of those permitted purposes;
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (h) a reference to an intellectually handicapped reader’s copy of a work, or of a part of a work, shall be read as a reference to a copy of a work, or of a part of a work, as the case may be, made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons, being a copy that is made for the sole purpose of use in the provision, whether by the institution or otherwise, of assistance to any intellectually handicapped person;
 
@@ -1282,7 +1332,9 @@ other than any such records as have been duly destroyed by, or by authority of, 
 
 (l) a reference to a relevant record, or a relevant declaration, in relation to the making, in reliance on a particular section —
 
-(i) of a copy, a handicapped reader’s copy, or an intellectually handicapped reader’s copy, of the whole or a part of a work; or
+(i) of a copy, a copy for a person with a reading disability, or an intellectually handicapped reader’s copy, of the whole or a part of a work or other subject‑matter; or
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (ii) of a copy of a sound recording,
 
@@ -1307,6 +1359,16 @@ paragraph (b) of the definition of “archives” in subsection (1) shall apply 
 shall be regarded as a telecommunication system and any person who controls the apparatus shall be regarded as running the system.
 
 [Aust. 1968, s. 10]
+
+(6) In this Act, an accessible format copy is made available to a person with a reading disability or a foreign institution assisting persons with reading disabilities if the copy is made available to —
+
+(a) the person with a reading disability; or
+
+(b) a person having responsibility for the day‑to‑day administration of the institution or another person authorised by the person having such responsibility,
+
+on a network or otherwise, in such a way that the copy may be accessed by the person referred to in paragraph (a) or (b) (as the case may be) from a place and at a time chosen by the person.
+
+[Act 22 of 2014 wef 31/03/2015]
 
 ### Literary works include compilation and computer program
 
@@ -2674,51 +2736,137 @@ without infringement of that copyright.
 
 Division 7 —
 
-Copying of Works in Institutions Assisting Handicapped Readers and Institutions Assisting Intellectually Handicapped Readers
+Copying of Works in Institutions Assisting Persons with Reading Disabilities and Institutions Assisting Intellectually Handicapped Readers
 
-### Multiple copying under statutory licence by institutions assisting handicapped readers
+### Copying, etc., under statutory licence for persons with reading disabilities
 
-54\.—(1) The copyright in a literary or dramatic work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting handicapped readers, of a record embodying a sound recording of the work or of a part of the work, for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter.
+54\.—(1) Where all of the conditions in subsection (4) are satisfied, the copyright in a relevant work that has been published is not infringed by the making, on a non‑profit basis, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, of an accessible format copy of the work for use by a local person with a reading disability for a permitted purpose.
 
-[52/2004]
+(2) Where all of the conditions in subsection (4) are satisfied, the copyright in a relevant work that has been published is not infringed by the distribution, on a non‑profit basis, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, of an accessible format copy in a physical form of the work to a local person with a reading disability, for use by that person for a permitted purpose.
 
-(2) The copyright in a literary or dramatic work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting handicapped readers, of a Braille version, a large-print version or a photographic version, of the work or of a part of the work, for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter.
+(3) Where all of the conditions in subsection (4) are satisfied, the copyright in a relevant work that has been published is not infringed by the making available, on a non‑profit basis, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, of an accessible format copy in an electronic form of the work to a local person with a reading disability, for use by that person for a permitted purpose.
 
-[52/2004]
+(4) The conditions referred to in subsections (1), (2) and (3) are as follows:
 
-(3) Where a sound recording of a work has been published, subsection (1) shall not apply to the making of any record embodying a sound recording of the work (including a record that is a copy of that first-mentioned sound recording) for or on behalf of the body administering an institution assisting handicapped readers unless the person who makes that record, or causes that record to be made, is satisfied, after reasonable investigation, that no new record that embodies only a sound recording of the work can be obtained within a reasonable time at an ordinary commercial price.
+(a) as soon as practicable after the making, distribution or making available of the accessible format copy, as the case may be, the body administering the institution assisting persons with reading disabilities or the educational institution, or the person acting on behalf of that body, makes a record of that act setting out such particulars as may be prescribed in regulations;
 
-(4) Where a Braille version of a work has been separately published, subsection (2) shall not apply to the making of a Braille version of the work, or of a part of the work, unless the person who makes that version, or causes that version to be made, for or on behalf of the body administering an institution assisting handicapped readers is satisfied, after reasonable investigation, that no new copy of a Braille version of the work, being a version that has been separately published, can be obtained within a reasonable time at an ordinary commercial price.
+(b) the body administering the institution assisting persons with reading disabilities or the educational institution, or the person acting on behalf of that body, is satisfied after reasonable investigation that no new accessible format copy of the relevant work that has been separately published and is in the same format as the copy which is to be made, distributed or made available, can be obtained within a reasonable time at an ordinary commercial price;
 
-(5) Where a large-print version of a work has been separately published, subsection (2) shall not apply to the making of a large-print version of the work, or of a part of the work, unless the person who makes the version, or causes that version to be made, for or on behalf of the body administering an institution assisting handicapped readers is satisfied, after reasonable investigation, that no new copy of a large-print version of the work, being a version that has been separately published, can be obtained within a reasonable time at an ordinary commercial price.
+(c) in the case of an educational institution, the local person with a reading disability for or to whom the accessible format copy is made, made available or distributed is a student of the institution;
 
-(6) Where a photographic version of a work has been separately published, subsection (2) shall not apply to the making of a photographic version of the work, or of a part of the work, unless the person who makes the version, or causes that version to be made, for or on behalf of the body administering an institution assisting handicapped readers is satisfied, after reasonable investigation, that no new copy of a photographic version of the work, being a version that has been separately published, can be obtained within a reasonable time at an ordinary commercial price.
+(d) such other conditions as may be prescribed in regulations.
 
-(7) Subsections (1) and (2) shall not apply to the reproduction of the whole or a part of an article contained in a periodical publication by way of the making, by or on behalf of the body administering an institution assisting handicapped readers, of a handicapped reader’s copy of the article or of that part of the article unless there is made, by or on behalf of that body, as soon as practicable after the making of that copy, a record of the copying setting out such particulars as may be prescribed by the regulations.
+(5) Where the conditions in subsection (6) are satisfied, the copyright in a relevant work that has been published is not infringed by —
 
-(8) Subsections (1) and (2) shall not apply to the reproduction of the whole or a part of a work (not being an article contained in a periodical publication) by way of the making, by or on behalf of the body administering an institution assisting handicapped readers, of a handicapped reader’s copy of the work or of that part of the work unless there is made, by or on behalf of that body, as soon as practicable after the making of that copy, a record of the copying setting out such particulars as may be prescribed by the regulations.
+(a) the making, on a non‑profit basis, of an accessible format copy in a physical form of the work for the purpose of export; or
 
-(9) For the purposes of subsections (7) and (8), a record of the copying of a work or a part of a work —
+(b) the making available, on a non‑profit basis, of an accessible format copy in an electronic form of the work,
+
+by or on behalf of a body administering an institution assisting persons with reading disabilities or an educational institution, for or to —
+
+(i) a foreign institution assisting persons with reading disabilities; or
+
+(ii) a person with a reading disability who is not resident in Singapore.
+
+(6) The conditions referred to in subsection (5) are as follows:
+
+(a) the body administering the institution assisting persons with reading disabilities or the educational institution, or the person acting on behalf of that body, complies with such requirements at such time as may be prescribed in regulations, for the purpose of ascertaining or verifying the identity of, and other information concerning —
+
+(i) the foreign institution assisting persons with reading disabilities; or
+
+(ii) the person with a reading disability who is not resident in Singapore;
+
+(b) as soon as practicable after the making, or the making available, of the accessible format copy, as the case may be, the body administering the institution assisting persons with reading disabilities or the educational institution, or the person acting on behalf of that body makes a record of the act, setting out such particulars as may be prescribed in regulations;
+
+(c) such other conditions as may be prescribed in regulations.
+
+(7) Where all of the conditions in subsection (10) are satisfied, the copyright in a relevant work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, of a temporary or transient reproduction of an accessible format copy in an electronic form of the work that is received from a foreign institution assisting persons with reading disabilities, being a reproduction that is made incidentally as part of the technical process of such receipt.
+
+(8) Where all of the conditions in subsection (10) are satisfied, the copyright in a relevant work that has been published is not infringed by the importation, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, of an accessible format copy in a physical form of a relevant work that originated from a foreign institution assisting persons with reading disabilities.
+
+(9) Where all of the conditions in subsection (10) are satisfied, the copyright in a relevant work that has been published is not infringed by the distribution, on a non‑profit basis, by or on behalf of the body administering an institution assisting persons with reading disabilities or an educational institution, of an accessible format copy in a physical form of the work to a local person with a reading disability for use by him for a permitted purpose, being an accessible format copy that originated from a foreign institution assisting persons with reading disabilities.
+
+(10) The conditions referred to in subsections (7), (8) and (9) are as follows:
+
+(a) the body administering the institution assisting persons with reading disabilities or the educational institution made a request to the foreign institution assisting persons with reading disabilities for the accessible format copy for use by a person with a reading disability for a permitted purpose, or for the purpose of distributing that copy on a non‑profit basis to a person with a reading disability for use by the person for a permitted purpose;
+
+(b) in the case of an educational institution, the person with a reading disability referred to in paragraph (a) and in subsection (9) is a student of that institution;
+
+(c) as soon as practicable after receiving the accessible format copy, the body, or a person acting on its behalf, makes a record setting out such particulars as may be prescribed in regulations;
+
+(d) the body, or the person acting on its behalf, is satisfied after reasonable investigation that no new accessible format copy of the relevant work that has been separately published and is in the same format as the copy requested for, can be obtained within a reasonable time at an ordinary commercial price;
+
+(e) such other conditions as may be prescribed in regulations.
+
+(11) Where all of the conditions in subsection (12) are satisfied, the copyright in a relevant work that has been published is not infringed by the making by —
+
+(a) a local person with a reading disability; or
+
+(b) a person acting on behalf of a local person with a reading disability, not being the body administering —
+
+(i) an institution assisting persons with reading disabilities; or
+
+(ii) an educational institution of which the person with a reading disability is a student,
+
+of an accessible format copy of the work for use by the person with a reading disability for a permitted purpose.
+
+(12) The conditions referred to in subsection (11) are as follows:
+
+(a) the local person with a reading disability, or the person acting on his behalf, is satisfied after reasonable investigation that no new accessible format copy of the relevant work that has been separately published and is in the same format as the copy which is to be made, can be obtained within a reasonable time at an ordinary commercial price;
+
+(b) such other conditions as may be prescribed in regulations.
+
+(13) For the purposes of subsections (4)(a), (6)(b) and (10)(c), a record —
 
 (a) shall be kept in writing or in any other manner prescribed by the regulations; and
 
 (b) if it is kept in writing, shall be in accordance with the prescribed form.
 
-(10) Where a handicapped reader’s copy of the whole or a part of a work is made by or on behalf of the body administering an institution assisting handicapped readers and, by virtue of this section, the making of that copy does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copy, for payment for the making of the copy, pay to the owner such an amount by way of equitable remuneration for the making of that copy as is agreed upon between the owner and the body, or, in default of agreement, such amount as is determined by a Copyright Tribunal on the application of either the owner or the body.
+(14) For the purposes of subsections (4)(b), (10)(d) and (12)(a), “new accessible format copy”, in relation to a relevant work, means —
 
-[23/2009 wef 31/12/2009]
+(a) if the accessible format copy of the work is a physical copy, a copy that is not secondhand;
 
-(11) Where a Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an institution assisting handicapped readers in relation to a handicapped reader’s copy of the whole or a part of that work that has been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+(b) if the accessible format copy of the work is a sound recording or an electronic copy of the work that is embodied or stored in a record or other article, a copy that is embodied or stored in a record or other article that is not secondhand; or
 
-[23/2009 wef 31/12/2009]
+(c) where the accessible format copy of the work is a sound recording or an electronic copy of the work that is not embodied or stored in a record or other article, a copy that is fit for use.
 
-(12) Notwithstanding any other provision of this Act, copyright shall not vest in the maker of the handicapped reader’s copy by reason of his making that copy.
+(15) Where —
 
-(13) Nothing in this section shall affect the right of the owner of copyright in a work to grant a licence authorising the body administering an institution assisting handicapped readers to make, or cause to be made, sound recordings of, or Braille, large-print or photographic versions of, the whole or a part of the work without infringement of that copyright.
+(a) by virtue of subsection (1), (2), (3) or (9), the making, or the making available or distribution to a person, of an accessible format copy of a relevant work does not infringe the copyright in a relevant work; and
 
-(14) For the purposes of this section, a record, or a Braille version, a large-print version or a photographic version, of a work shall be taken to be a new record, or a new Braille version, a new large-print version or a new photographic version, of the work, as the case may be, if it is not a secondhand record, or a secondhand Braille version, a secondhand large-print version or a secondhand photographic version, of the work, as the case may be.
+(b) the owner of the copyright in the relevant work makes a request in writing, at any time during the period prescribed by regulations after that act for payment for the copy so made, made available or distributed,
 
-(15) In this section, a reference to a photographic version of a work or a part of a work shall be read as a reference to a copy or copies of the work or a part of a work produced as a film-strip or series of separate transparencies designed to meet the needs of handicapped readers.
+then the body administering the institution assisting persons with reading disabilities or the educational institution shall pay to the owner such amount by way of equitable remuneration for that act —
+
+(i) as is agreed upon between the owner and the body; or
+
+(ii) in default of agreement, such amount as is determined by a Copyright Tribunal under section 158(3) on the application of either the owner or the body.
+
+(16) Where a Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of the copyright by the body administering the institution assisting persons with reading disabilities or the educational institution, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+
+(17) Notwithstanding any other provision of this Act, copyright shall not vest in the maker of a copy of a relevant work for a person with a reading disability by reason of the maker making that copy.
+
+(18) Nothing in this section shall affect the right of the owner of the copyright in a relevant work to grant a licence authorising a body administering an institution assisting persons with reading disabilities or an educational institution to make, make available or distribute, or cause to be made, made available or distributed, an accessible format copy of the relevant work without infringement of that copyright.
+
+(19) In this section —
+
+“local person with a reading disability” means a person with a reading disability who is resident in Singapore;
+
+“permitted purpose”, in relation to a person with a reading disability, means —
+
+(a) the purpose of research or study undertaken or to be undertaken by the person; or
+
+(b) the purpose of otherwise instructing himself in any matter;
+
+“relevant work” means —
+
+(a) a literary work;
+
+(b) a dramatic work; or
+
+(c) an artistic work.
+
+[Act 22 of 2014 wef 31/03/2015]
 
 ### Multiple copying under statutory licence by institutions assisting intellectually handicapped readers
 
@@ -3843,6 +3991,24 @@ in the course of instruction, or preparation for instruction, in the making of a
 
 [6/98]
 
+### Copying, etc., under statutory licence by institutions for reading disabilities
+
+115C\.—(1) Subject to the modifications in subsection (2), section 54 shall apply in relation to each of the following subject‑matter as it applies in relation to a relevant work that has been published within the meaning of that section:
+
+(a) a sound recording that has been published, other than one that comprises only of the performance of a musical work, or of a musical work in which words are sung, or are spoken incidentally to or in association with the music;
+
+(b) a sound broadcast, other than one that comprises only of the performance of a musical work, or of a musical work in which words are sung, or are spoken incidentally to or in association with the music.
+
+(2) The modifications referred to in subsection (1) are as follows:
+
+(a) a reference to an accessible format copy of a work shall be read as a reference to an accessible format copy of the subject‑matter in question;
+
+(b) a reference to the making available to any person of an accessible format copy in an electronic form of a work shall, in the case of an accessible format copy of the sound recording referred to in subsection (1)(a), be read as a reference to the making available to that person by means of or as part of a digital audio transmission; and
+
+(c) such other modifications as may be prescribed by regulations.
+
+[Act 22 of 2014 wef 31/03/2015]
+
 ### Reproductions of editions of work
 
 116\. The copyright in a published edition of a work or works is not infringed by the making of a reproduction of the whole or a part of that edition if that reproduction is made in the course of —
@@ -3851,17 +4017,23 @@ in the course of instruction, or preparation for instruction, in the making of a
 
 (i) a dealing with that work, being a dealing that does not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work; or
 
-(ii) the making of a copy (including a handicapped reader’s copy or an intellectually handicapped reader’s copy) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work; or
+(ii) the making of a copy (including a copy for a person with a reading disability or an intellectually handicapped reader’s copy) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work; or
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (b) where the edition contains more than one work —
 
 (i) a dealing with one of those works or dealings with some or all of those works, being a dealing that does not, or dealings that do not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work or those works; or
 
-(ii) the making of a copy (including a handicapped reader’s copy or an intellectually handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the handicapped reader’s copies or the intellectually handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
+(ii) the making of a copy (including a copy for a person with a reading disability or an intellectually handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the copies for persons with reading disabilities or the intellectually handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
 
 [6/98]
 
 [Aust. 1968, s. 112]
+
+[Act 22 of 2014 wef 31/03/2015]
+
+[Act 22 of 2014 wef 31/03/2015]
 
 ### Accessories to imported articles
 
@@ -5405,23 +5577,31 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Applications to Tribunal for determination of remuneration payable to owner of copyright for copies made under statutory licence
 
-158\.—(1) This section shall apply where application is made to a Tribunal under section 52(11) or (11C), 54(10) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copies, of a handicapped reader’s copy or of an intellectually handicapped reader’s copy, as the case requires, of the whole or of a part of that work.
+158\.—(1) This section shall apply where application is made to a Tribunal under section 52(11) or (11C), 54(15) (including that provision as applied by section 115C) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work or other subject‑matter for the making of, or the making available or distribution to a person of (as the case requires) —
 
-[23/2009 wef 31/12/2009]
+(a) copies;
 
-[6/98; 52/2004]
+(b) a copy for a person with reading disability; or
+
+(c) an intellectually handicapped reader’s copy,
+
+of the whole or of a part of that work or subject‑matter.
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (2) The parties to an application in relation to which this section applies are —
 
 (a) the owner of the copyright in a work; and
 
-(b) the body by which, or on behalf of which, the copies, the handicapped reader’s copy or the intellectually handicapped reader’s copy referred to in subsection (1) were or was made.
+(b) the body by which, or on behalf of which, the copies or copy referred to in subsection (1) were or was made, made available or distributed (as the case requires).
 
-[6/98]
+[Act 22 of 2014 wef 31/03/2015]
 
 (3) Where an application in relation to which this section applies is made to a Tribunal, the Tribunal shall consider the application and, after giving the parties to the application opportunities of presenting their cases —
 
-(a) shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copies or, of the handicapped reader’s copy or of the intellectually handicapped reader’s copy, as the case requires; and
+(a) shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making, making available or distribution (as the case requires) of the copies or copy; and
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (b) may, subject to the regulations, make such order as to costs as the Tribunal thinks fit.
 
@@ -6851,21 +7031,21 @@ unless the first-mentioned person satisfies the court that the acts in respect o
 
 ### Notation of copies, etc.
 
-201\.—(1) In proceedings against a person or body for infringement of copyright in a work in connection with the making, by or on behalf of an institution, of a copy of the whole or a part of that work, the person or body is not entitled to rely on section 45, 46, 48, 52, 54 or 54A as justification for the making of that copy unless, at or about the time the copy was made, there was made on the copy a notation —
+201\.—(1) In proceedings against a person or body for infringement of copyright in a work or other subject‑matter in connection with the making, by or on behalf of an institution, of a copy of the whole or a part of that work or other subject‑matter, the person or body is not entitled to rely on section 45, 46, 48, 52, 54(1) or (5)(a) (including those provisions as applied by section 115C) or 54A as justification for the making of that copy unless, at or about the time the copy was made, there was made on the copy a notation stating that the copy was made on behalf of that institution and the date on which it was made.
 
-(a) stating that the copy was made on behalf of that institution and the date on which it was made; and
-
-(b) in the case of a copy that was made in reliance on section 54(4), stating that the copy is a prescribed reproduction made in reliance on that subsection.
-
-[6/98]
+[Act 22 of 2014 wef 31/03/2015]
 
 (2) In proceedings against a person or body for infringement of copyright in a sound recording or a cinematograph film in connection with the making, by or on behalf of an institution, of a copy of the sound recording or cinematograph film, the person or body is not entitled to rely on section 113 as justification for the making of the copy unless, at or about the time the copy was made, there was made on, or attached to, the copy a notation stating that the copy was made on behalf of that institution and setting out the date on which the copy was made.
 
-(3) In proceedings against a person or body for infringement of copyright in a work in connection with the making, on behalf of an institution assisting handicapped readers, a record embodying a sound recording of the work, or of a part of the work, the person or body is not entitled to rely on section 54(1) unless, at the time the record was made, there was embodied on the record, immediately before the commencement of that sound recording, a sound recording of a prescribed message.
+(3) In proceedings against a person or body for infringement of copyright in a work or other subject‑matter in connection with the making, by or on behalf of an institution, of a record embodying a sound recording of the whole or a part of that work or other subject‑matter, the person or body is not entitled to rely on section 54(1) or (5)(a) (including those provisions as applied by section 115C) unless, at the time the record was made, there was embodied on the record, immediately before the commencement of that sound recording, a sound recording of a prescribed message.
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (4) A person who —
 
-(a) makes on a copy of the whole or a part of a work, a notation referred to in subsection (1);
+(a) makes on a copy of the whole or a part of a work or other subject‑matter, a notation referred to in subsection (1);
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (b) makes on, or attaches to, a copy of a sound recording or a cinematograph film a notation of the kind referred to in subsection (2); or
 
@@ -6875,43 +7055,63 @@ being a notation of message that contains a statement that the person knows, or 
 
 (5) For the purposes of subsections (1), (2) and (3) —
 
-(a) where a copy of a work, a sound recording or a cinematograph film is made, or caused to be made, by an authorised officer of a library, or is made by or on behalf of the officer-in-charge of a library, being a library of an institution, the copy shall be deemed to have been made on behalf of the institution;
+(a) where a copy of a work or other subject‑matter, a sound recording or a cinematograph film is made, or caused to be made, by an authorised officer of a library, or is made by or on behalf of the officer-in-charge of a library, being a library of an institution, the copy shall be deemed to have been made on behalf of the institution;
 
-(b) where a copy of a work, a sound recording or a cinematograph film is made, or caused to be made by an authorised officer of a library, or is made by or on behalf of the officer-in-charge of a library, being a library that is not a library of an institution, then —
+[Act 22 of 2014 wef 31/03/2015]
+
+(b) where a copy of a work or other subject‑matter, a sound recording or a cinematograph film is made, or caused to be made by an authorised officer of a library, or is made by or on behalf of the officer-in-charge of a library, being a library that is not a library of an institution, then —
 
 (i) the copy shall be deemed to have been made on behalf of the person or body administering the library; and
 
 (ii) those subsections apply as if a reference in those subsections to an institution included a reference to that person or body;
 
-(c) where a copy of a work, a sound recording or a cinematograph film is made, or caused to be made, by an authorised officer of archives, or is made by or on behalf of the officer-in-charge of archives, then —
+[Act 22 of 2014 wef 31/03/2015]
+
+(c) where a copy of a work or other subject‑matter, a sound recording or a cinematograph film is made, or caused to be made, by an authorised officer of archives, or is made by or on behalf of the officer-in-charge of archives, then —
 
 (i) the copy shall be deemed to have been made on behalf of the person or body administering the archives; and
 
 (ii) those subsections apply as if a reference in those subsections to an institution included a reference to that person or body;
 
-(d) where a copy, or a record embodying a sound recording, of a whole or of a part of a work, is made by or on behalf of the body administering an institution, the copy or record, as the case may be, shall be deemed to have been made on behalf of the institution; and
+[Act 22 of 2014 wef 31/03/2015]
+
+(d) where a copy, or a record embodying a sound recording, of a whole or of a part of a work or other subject‑matter, is made by or on behalf of the body administering an institution, the copy or record, as the case may be, shall be deemed to have been made on behalf of the institution; and
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (e) where a copy of a sound recording or cinematograph film is made by or on behalf of the body administering an institution, the copy shall be deemed to have been made on behalf of the institution.
 
 (6) The production, in any proceedings —
 
-(a) for infringement of copyright in a work;
+(a) for infringement of copyright in a work or other subject‑matter;
 
-(b) before a Copyright Tribunal on application made under section 52(11), 54(10) or 54A(7); or
+[Act 22 of 2014 wef 31/03/2015]
+
+(b) before a Copyright Tribunal on application made under section 52(11), 54(15) or 54A(7); or
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (c) for a contravention of a provision of this Act,
 
-of a copy of a work, or of a part of a work, bearing a notation of the kind referred to in subsection (1) is prima facie evidence of the matters stated in the notation.
+of a copy of a work or other subject‑matter, or of a part of a work or other subject‑matter, bearing a notation of the kind referred to in subsection (1) is prima facie evidence of the matters stated in the notation.
 
 [23/2009 wef 31/12/2009]
 
 [6/98]
 
-(7) For the purposes of subsection (6), where a copy of a work or a part of a work bears a notation of a kind referred to in subsection (1), the notation shall, unless the contrary is proved, be deemed to have been made on the copy at or about the time the copy was made.
+[Act 22 of 2014 wef 31/03/2015]
 
-(8) The production, in any proceedings of a kind referred to in subsection (6), of a record embodying a sound recording of a work or a part of a work, being a record that also embodies a sound recording of a message of the kind referred to in subsection (3), is prima facie evidence of the matters stated in the message.
+(7) For the purposes of subsection (6), where a copy of a work or other subject‑matter or a part of a work or other subject‑matter bears a notation of a kind referred to in subsection (1), the notation shall, unless the contrary is proved, be deemed to have been made on the copy at or about the time the copy was made.
 
-(9) For the purposes of subsection (8), where a record embodying a sound recording of a work or a part of a work also embodies a sound recording of a message of the kind referred to in subsection (3), the message shall, unless the contrary is proved, be deemed to have been embodied on the record at the time the record was made.
+[Act 22 of 2014 wef 31/03/2015]
+
+(8) The production, in any proceedings of a kind referred to in subsection (6), of a record embodying a sound recording of a work or other subject‑matter or a part of a work or other subject‑matter, being a record that also embodies a sound recording of a message of the kind referred to in subsection (3), is prima facie evidence of the matters stated in the message.
+
+[Act 22 of 2014 wef 31/03/2015]
+
+(9) For the purposes of subsection (8), where a record embodying a sound recording of a work or other subject‑matter or a part of a work or other subject‑matter also embodies a sound recording of a message of the kind referred to in subsection (3), the message shall, unless the contrary is proved, be deemed to have been embodied on the record at the time the record was made.
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (10) The production, in any proceedings —
 
@@ -6923,9 +7123,9 @@ of a copy of a sound recording or a cinematograph film bearing, or to which ther
 
 (11) For the purposes of subsection (10), where a copy of a sound recording or a cinematograph film bears, or where there is attached to such a copy, a notation of the kind referred to in subsection (2), the notation shall, unless the contrary is proved, be deemed to have been made on or attached to the copy at or about the time the copy was made.
 
-(12) In this section, “copy”, in relation to a work, or a part of a work, includes a microform copy, a Braille version, a large-print version, or a photographic version, of the work, or of the part of the work.
+(12) In this section, “copy”, in relation to a work or other subject‑matter or a part of a work or other subject‑matter, includes a microform copy, a copy in an accessible format, of the work or other subject‑matter or of the part thereof.
 
-[Aust. 1968, s. 203H]
+[Act 22 of 2014 wef 31/03/2015]
 
 ### Immunity of Government, etc.
 
@@ -7539,7 +7739,9 @@ PERFORMERS’ PROTECTION
 
 (e) a direct or an indirect recording of a performance made in the course of instruction, or preparation for instruction, in the making of a cinematograph film or a sound-track associated with the visual images forming part of a cinematograph film, if the recording is done by a person giving or receiving such instruction;
 
-(f) a direct or an indirect recording of a performance made by, or on behalf of, the body administering an institution assisting handicapped readers solely for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter;
+(f) a direct or an indirect recording of a performance made by, or on behalf of, the body administering an institution assisting persons with reading disabilities solely for use by a person with a reading disability for the purpose of research or study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter;
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (g) a direct or an indirect recording of a performance made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons solely for the purpose of the provision, whether by the institution or otherwise, of assistance to intellectually handicapped persons;
 
@@ -8631,9 +8833,11 @@ he shall be guilty of an offence and shall be liable on conviction —
 
 [52/2004; 22/2005]
 
-(7) Subsection (6) shall not apply to any act done by or on behalf of a non-profit library, any non-profit archives, an educational institution, an institution assisting handicapped readers, an institution assisting intellectually handicapped readers, or such public, non-commercial broadcasting organisation as the Minister may prescribe.
+(7) Subsection (6) shall not apply to any act done by or on behalf of a non-profit library, any non-profit archives, an educational institution, an institution assisting persons with reading disabilities, an institution assisting intellectually handicapped readers, or such public, non-commercial broadcasting organisation as the Minister may prescribe.
 
 [52/2004]
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (8) For the purposes of subsection (6), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
 
@@ -8873,9 +9077,11 @@ primarily for the purpose of circumventing the technological measure.
 
 [52/2004]
 
-(9) Subsections (4) and (5) shall not apply to any act done by or on behalf of a non-profit library, any non-profit archives, an educational institution, an institution assisting handicapped readers, an institution assisting intellectually handicapped readers, or such public, non-commercial broadcasting organisation as the Minister may prescribe.
+(9) Subsections (4) and (5) shall not apply to any act done by or on behalf of a non-profit library, any non-profit archives, an educational institution, an institution assisting persons with reading disabilities, an institution assisting intellectually handicapped readers, or such public, non-commercial broadcasting organisation as the Minister may prescribe.
 
 [52/2004]
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (10) This section does not affect the import or sale of a device that does not render effective a technological measure whose sole purpose is to control market segmentation for access to cinematograph films, if the import or sale of the device does not otherwise contravene any written law including this Act.
 
@@ -8887,7 +9093,9 @@ primarily for the purpose of circumventing the technological measure.
 
 261D\.—(1) Subject to subsection (3), section 261C(1)(a) is not contravened by the doing of an act to circumvent a technological measure if —
 
-(a) the act is done to enable a non-profit library, any non-profit archives, an educational institution, an institution assisting handicapped readers, or an institution assisting intellectually handicapped readers to have access to a work or other subject-matter or recording of a performance which is not otherwise available to the library, archives or institution, for the sole purpose of determining whether to acquire a copy of the work or other subject-matter or recording;
+(a) the act is done to enable a non-profit library, any non-profit archives, an educational institution, an institution assisting persons with reading disabilities, or an institution assisting intellectually handicapped readers to have access to a work or other subject-matter or recording of a performance which is not otherwise available to the library, archives or institution, for the sole purpose of determining whether to acquire a copy of the work or other subject-matter or recording;
+
+[Act 22 of 2014 wef 31/03/2015]
 
 (b) the technological measure has the capability to collect or disseminate personally identifying information to reflect the manner of use of a network by persons without providing conspicuous notice of such collection or dissemination to those persons, and the act is done for the sole purpose of identifying and disabling the technological measure, provided that the act does not affect the ability of any person to gain access to any work or other subject-matter or recording of any performance;
 
@@ -9410,6 +9618,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|29 May 2014 (Bill No. 16/2014 published on 29 May 2014)|
 ||Date of Second and Third Readings|8 July 2014|
 ||Date of commencement|10 December 2014|
+|24.|**Act 22 of 2014—Copyright (Amendment) Act 2014**|
+||Date of First Reading|29 May 2014 (Bill No. 16/2014 published on 29 May 2014)|
+||Date of Second and Third Readings|8 July 2014|
+||Date of commencement|31 March 2015|
 ## COMPARATIVE TABLE
 
 Copyright Act
