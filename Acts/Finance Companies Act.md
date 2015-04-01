@@ -1718,9 +1718,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) any bank licensed under the Banking Act (Cap. 19); or
 
-(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222).
+(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act 2015.
 
 [37/98; 23/2008]
+
+[Act 2 of 2015 wef 01/04/2015]
 
 (1A) Every co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62) to provide financial services shall, to the extent that such services amount to financing business, be exempt from section 3 in respect of such services.
 
@@ -1890,6 +1892,10 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
+|23.|**Act 2 of 2015—Pawnbrokers Act 2015**|
+||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
