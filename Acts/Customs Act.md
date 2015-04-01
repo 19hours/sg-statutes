@@ -162,23 +162,7 @@
 
 - [69 Power to enter licensed premises](#Power-to-enter-licensed-premises)
 
-[**Part VIII SALE OF INTOXICATING LIQUORS**](#Part-VIII)
-
-- [70 Liquors Licensing Board](#Liquors-Licensing-Board)
-
-- [71 Retail sale to be licensed](#Retail-sale-to-be-licensed)
-
-- [72 Sale by wholesale to be licensed](#Sale-by-wholesale-to-be-licensed)
-
-- [73 Storage of liquors](#Storage-of-liquors)
-
-- [74 Licences](#Licences)
-
-- [75 Duties of licensee](#Duties-of-licensee)
-
-- [76 Prohibition on licensee](#Prohibition-on-licensee)
-
-- [77 Unlicensed person not to exhibit sign](#Unlicensed-person-not-to-exhibit-sign)
+[**Part VIII (Repealed)**](#Part-VIII)
 
 [**Part IX DRAWBACK**](#Part-IX)
 
@@ -1558,107 +1542,7 @@ MANUFACTURE AND BOTTLING
 
 ## PART VIII
 
-SALE OF INTOXICATING LIQUORS
-
-### Liquors Licensing Board
-
-70\.—(1) There shall be a Liquors Licensing Board (referred to in this Act as the Board) which shall consist of a chairman, a vice-chairman and 5 other members to be appointed by the Minister.
-
-(2) With the exception of the chairman, no public servant shall be appointed to the Board who, in his official capacity, has any dealings or is in any way concerned with the sale or purchase of intoxicating liquors or with premises in which the sale or purchase is or may be carried on.
-
-(3) The Secretary of the Board shall be such person as the Minister appoints.
-
-### Retail sale to be licensed
-
-71\.—(1) Subject to this section, no person shall sell by retail or offer for sale by retail, or permit to be sold or offered, or have in his possession, for sale by retail, any intoxicating liquors except under and in accordance with a licence in that behalf granted under this Act and in a place specified in the licence.
-
-(2) No licence under this section shall be required in respect of the sale by retail, in premises authorised in writing for such sale by the commanding officers of the Singapore Armed Forces or of any visiting forces lawfully present in Singapore of intoxicating liquors to —
-
-(a) officers and men of the Singapore Armed Forces or of the visiting forces serving in Singapore on full pay; and
-
-(b) such civilian employees of the visiting forces as are authorised by the commanding officer concerned to purchase intoxicating liquors at those premises.
-
-(3) No licence under this section shall be required in respect of the sale by retail by a person registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act of alcohol exempted from payment of duty in accordance with an order made under section 13, and in accordance with the terms of the exemption.
-
-[48/2007 wef 01/09/2008]
-
-(4) Subject to section 72(2), the delivery of intoxicating liquors in quantities of 30 litres or less shall, in any proceedings under this Act, be taken to be prima facie evidence of sale by retail and that money or other consideration was given for the same.
-
-[S 270/71]
-
-(5) The Minister may, by order published in theGazette, exempt any person from subsection (1), subject to such conditions as the Minister may consider fit to impose.
-
-[33/2000]
-
-### Sale by wholesale to be licensed
-
-72\.—(1) No person shall sell by wholesale or offer for sale by wholesale or permit to be so sold or offered, or have in his possession for sale by wholesale, any intoxicating liquors except under and in accordance with a licence in that behalf granted under this Act and in a place specified in the licence.
-
-(2) The delivery of intoxicating liquors in any quantity to the licensee of a public house, beer house, samsu shop, retail liquor shop or retail beer shop and the delivery of intoxicating liquors to any other person in quantities exceeding 30 litres in any one day shall be taken in any proceedings under this Act to be prima facie evidence of sale by wholesale and that money or other consideration was given for the same.
-
-[S 270/71]
-
-### Storage of liquors
-
-73\.—(1) No person licensed to sell intoxicating liquors by retail or by wholesale shall keep or store such liquors, on which duty has been paid, elsewhere than in such premises as shall be specified in his licence.
-
-(2) This section shall not apply to intoxicating liquors bona fide and actually in course of transit or kept solely for private consumption.
-
-### Licences
-
-74\.—(1) The Board shall have authority in its discretion to grant or transfer the following licences in such form as may be approved by the Board and on payment of the prescribed fees:
-
-(a) a public house licence for the sale by retail of intoxicating liquors for consumption on the premises or at the place where they are sold;
-
-(b) a beer house licence for the sale by retail of beer for consumption on the premises or at the place where it is sold;
-
-(c) a samsu shop licence for the sale by retail of samsu for consumption on or off the premises where it is sold;
-
-(d) a retail liquor shop licence for the sale by retail of intoxicating liquors for consumption elsewhere than on the premises or at the place where they are sold;
-
-(e) a wholesale liquor shop licence for the sale by wholesale of intoxicating liquors;
-
-(f) a retail beer shop licence for the sale by retail of beer for consumption elsewhere than on the premises or at the place where it is sold; and
-
-(g) a wholesale beer shop licence for the sale by wholesale of beer.
-
-(2) The Board may, in its discretion, grant in respect of any premises or place more than one of the categories of licences referred to in subsection (1).
-
-(3) The Board shall not grant a retail liquor shop licence for premises in respect of which a beer house or samsu shop licence is in force, or a beer house licence authorising the sale of beer on premises in respect of which a samsu shop licence is in force beyond the hours provided for in the samsu shop licence.
-
-(4) The Board may, in its discretion, subject the grant or transfer of any licence under this section to such restrictions or conditions, not inconsistent with the provisions of this Act, to be endorsed on the licence, as it may think fit to impose.
-
-[24/96]
-
-(5) The Board may, in its discretion, refuse to grant or transfer any licence, and shall not be compelled to assign reasons for any decision to refuse the issue, including renewal or transfer, of a licence, and may suspend or cancel a licence at any time.
-
-(6) The licensee shall not be entitled to any compensation for the suspension or cancellation of his licence under subsection (5), but the Board may allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, cancelled or surrendered.
-
-(7) In case of the death, mental disorder, illness or bankruptcy of any licensee, the Board may, by endorsement on the licence, authorise any other person to exercise the rights conferred by the licence until the expiration of the term for which it was originally granted, or for any shorter period, and subject to all the conditions originally imposed by the licence and to such further conditions as the Board may think fit to impose.
-
-(8) The Board may, if it thinks fit, require as a condition of grant of any licence that the applicant shall enter into recognizances with sureties in the form approved by the Board.
-
-(9) Any person affected by such grant, transfer, refusal, suspension or cancellation shall, if he so desires, be heard by the Board either in person or by an advocate and solicitor.
-
-### Duties of licensee
-
-75\. Every person licensed under this Part shall —
-
-(a) permit, at any time at which he is authorised by his licence to sell intoxicating liquors, any member of the Board or the Secretary of the Board or the proper officer of customs, to enter his licensed premises and inspect the premises and any intoxicating liquors therein and all accounts kept in connection therewith and to take such copies thereof or extracts therefrom as the member of the Board or the Secretary of the Board or the proper officer of customs may think fit; and
-
-(b) comply with such duties and requirements as may be prescribed.
-
-[33/2000]
-
-### Prohibition on licensee
-
-76\. No person licensed under this Part shall supply or permit to be supplied to any person on or from his licensed premises any intoxicating liquors in exchange for any article except such money as is legal tender within Singapore or by such other means of payment as the Director-General may approve.
-
-[23/93]
-
-### Unlicensed person not to exhibit sign
-
-77\. No person, other than a person licensed under this Part, shall display any sign, writing, painting or other mark which may imply or give reasonable cause to believe that his premises are so licensed or that intoxicating liquors are sold therein.
+[Repealed by Act 5 of 2015 wef 01/04/2015]
 
 ## PART IX
 
@@ -3286,9 +3170,13 @@ REGULATIONS
 
 (q) to regulate the blending, compounding, varying and bottling of intoxicating liquors in bottling warehouses and to fix the fees to be paid for bottling dutiable intoxicating liquor;
 
-(r) to prescribe the books to be kept by licensees, other than licensees under Part VIII;
+(r) to prescribe the books to be kept by licensees;
 
-(s) to regulate the grant and transfer of licences other than licences under Part VIII;
+[Act 5 of 2015 wef 01/04/2015]
+
+(s) to regulate the grant and transfer of licences;
+
+[Act 5 of 2015 wef 01/04/2015]
 
 (sa) to provide that no compensation may be given in the event of a suspension, withdrawal or surrender of a licence;
 
@@ -3300,9 +3188,9 @@ REGULATIONS
 
 (t) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
 
-(u) to regulate the proceedings of the Liquors Licensing Board, the election of their members, the grant and transfer of licences under their authority and the fees for the licences or transfers of licences;
+(u) [Deleted by Act 5 of 2015 wef 01/04/2015]
 
-(v) to regulate the management of premises licensed by the Liquors Licensing Board;
+(v) [Deleted by Act 5 of 2015 wef 01/04/2015]
 
 (w) [Deleted by Act 18 of 2012 wef 19/12/2012]
 
@@ -3724,6 +3612,10 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 April 2014|
 |||(section 5 — consequential amendments to Customs Act)|
+|39.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Customs Act
