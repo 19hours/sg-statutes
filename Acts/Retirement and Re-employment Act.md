@@ -608,7 +608,13 @@ the Minister may allow the employee to lodge a claim for employment assistance p
 
 (5) In proceedings before the Commissioner, a party —
 
-(a) being an employee and a member of a trade union that has been given recognition under Part III of the Industrial Relations Act (Cap. 136) by the employer of the employee, may be represented by an officer of the trade union; and
+(a) being an employee and a member of a trade union that has been given recognition under Part III of the Industrial Relations Act (Cap. 136) by the employer of the employee, may be represented by an officer of the trade union;
+
+[Act 1 of 2015 wef 01/04/2015]
+
+(aa) being an employee that is represented by a trade union under Part IV of the Industrial Relations Act, may be represented by an officer of the trade union; and
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (b) being an employer may be represented by one of his employees, but shall not be represented by an advocate or solicitor or a paid agent.
 
@@ -839,6 +845,10 @@ This Legislative History is provided for the convenience of users of the Retirem
 ||Date of commencement|1 January 2012|
 |6.|**2012 Revised Edition—Retirement and Re-employment Act (Chapter 274A)**|
 ||Date of operation|30 September 2012|
+|7.|**Act 1 of 2015—Industrial Relations (Amendment) Act 2015**|
+||Date of First Reading|3 November 2014 (Bill No. 41/2014 published on 3 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Retirement and Re-employment Act
