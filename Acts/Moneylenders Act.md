@@ -182,7 +182,9 @@ and includes a finance company licensed under the Finance Companies Act (Cap. 10
 
 (c) any society registered as a credit society under the Co-operative Societies Act (Cap. 62);
 
-(d) any pawnbroker licensed under the Pawnbrokers Act (Cap. 222);
+(d) any pawnbroker licensed under the Pawnbrokers Act 2015;
+
+[Act 2 of 2015 wef 01/04/2015]
 
 (e) any person who —
 
@@ -1538,3 +1540,7 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 |||(Bill No. 4/2012 published on 14 February 2012)|
 ||Date of Second and Third Readings|9 March 2012|
 ||Date of commencement|2 October 2012|
+|7.|**Act 2 of 2015—Pawnbrokers Act 2015**|
+||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
