@@ -70,7 +70,7 @@
 
 - [29 Negotiations otherwise than under this Part or Part IV](#Negotiations-otherwise-than-under-this-Part-or-Part-IV)
 
-[**Part IV LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS**](#Part-IV)
+[**Part IV LIMITED REPRESENTATION OF EXECUTIVE EMPLOYEES**](#Part-IV)
 
 - [30 Interpretation of this Part](#Interpretation-of-this-Part)
 
@@ -280,11 +280,19 @@ PRELIMINARY
 
 (e) for the purposes of Parts V, VI and VII, the transferor of an undertaking whose employment of employees is transferred by virtue of section 18A of the Employment Act;
 
+“executive employee”, in relation to an employer, means an employee who is employed in a managerial or an executive position by the employer;
+
+[Act 1 of 2015 wef 01/04/2015]
+
 “industrial matters” means matters pertaining to the relations of employers and employees which are connected with the employment or non-employment or the terms of employment, the transfer of employment or the conditions of work of any person;
 
 “industrial relations officer” means an industrial relations officer appointed under section 28;
 
 “inspecting officer” means a person who is an inspecting officer for the purposes of the Employment Act (Cap. 91);
+
+“non‑executive employee”, in relation to an employer, means an employee other than an executive employee;
+
+[Act 1 of 2015 wef 01/04/2015]
 
 “officer”, in relation to a trade union or a branch of a trade union, includes any member of the body, by whatever name called, to which the management of the affairs of the trade union or branch is entrusted;
 
@@ -338,7 +346,9 @@ INDUSTRIAL ARBITRATION COURTS
 
 6\.—(1) For the purpose of enabling the Courts to be constituted in accordance with this Act, 2 panels of persons (referred to in this Act as the employer panel and the employee panel) shall be appointed in the manner set out in this section.
 
-(2) The employer panel and the employee panel shall each consist of 10 persons appointed by the Minister whose names shall be notified in theGazette.
+(2) The employer panel and the employee panel shall each consist of not more than 15 persons appointed by the Minister whose names shall be notified in theGazette.
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (3) The Minister may from time to time invite —
 
@@ -348,11 +358,15 @@ INDUSTRIAL ARBITRATION COURTS
 
 (4) Subject to subsection (5) —
 
-(a) 7 of the members of the employer panel shall be persons nominated in reply to an invitation by the Minister under subsection (3) and 3 of the members of that panel shall be persons nominated by the Minister for Finance as nominees of the Government as an employer; and
+(a) at least 7 of the members of the employer panel shall be persons nominated in reply to an invitation by the Minister under subsection (3) and at least 3 of the members of that panel shall be persons nominated by the Minister charged with the responsibility for human resource management in the Civil Service as nominees of the Government as an employer; and
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (b) the members of the employee panel shall be persons nominated in reply to an invitation by the Minister under subsection (3).
 
-(5) Where the Minister has invited nominations for inclusion in a panel from such trade unions of employers or employees as in the circumstances he considers appropriate and no suitable person is nominated or the number of suitable persons nominated is less than the number which is required to be appointed in order that all vacancies in that panel may be filled, the Minister may, after filling as many vacancies as he is able to do by the appointment of suitable persons nominated in accordance with this section, appoint persons who have not been so nominated to fill the vacancies unfilled or remaining unfilled.
+(5) Where the Minister has invited nominations for inclusion in a panel from such trade unions of employers or employees as in the circumstances he considers appropriate and no suitable person is nominated or the number of suitable persons nominated is less than the maximum number which is required to be appointed in order that all vacancies in that panel may be filled, the Minister may, after filling as many vacancies as he is able to do by the appointment of suitable persons nominated in accordance with this section, appoint persons who have not been so nominated.
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (6) For the purposes of subsection (5), a person shall be deemed to be a suitable person for appointment to a panel if he is eligible in accordance with section 7 and is in the opinion of the Minister a fit and proper person to be selected to be a member of the Court.
 
@@ -360,7 +374,9 @@ INDUSTRIAL ARBITRATION COURTS
 
 7\.—(1) Subject to subsection (2), a person who is an employee shall not be eligible to be a member of the employer panel.
 
-(2) A person in the service of the Government shall be eligible to be a member of the employer panel if he is nominated by the Minister for Finance.
+(2) A person in the service of the Government shall be eligible to be a member of the employer panel if he is nominated by the Minister charged with the responsibility for human resource management in the Civil Service.
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (3) A person who is an employer or a director of a company which is an employer or is employed by a trade union of employers or association of employers shall not be eligible to be a member of the employee panel.
 
@@ -384,7 +400,9 @@ shall not be eligible for appointment to a panel.
 
 ### Duration of appointment
 
-8\.—(1) A person appointed to a panel shall, subject to section 9, be a member of the panel for a period of one year unless he sooner resigns but shall be eligible for reappointment.
+8\.—(1) A person appointed to a panel shall, subject to section 9, be a member of the panel for a period of 2 years unless he sooner resigns but shall be eligible for reappointment.
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (2) A panel member who resigns or whose appointment expires during the course of any proceedings of a Court shall for the purposes of such proceedings and until their determination be deemed to remain a member of the Court.
 
@@ -406,7 +424,9 @@ shall not be eligible for appointment to a panel.
 
 ### Vacancies in panels
 
-10\. Where a person ceases to be a member of a panel, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in either panel shall not invalidate the constitution of a Court.
+10\. Where a person ceases to be a member of a panel, the Minister may take steps to fill the vacancy but the existence of any vacancy in either panel shall not invalidate the constitution of a Court.
+
+[Act 1 of 2015 wef 01/04/2015]
 
 ### Constitution of Court
 
@@ -462,7 +482,9 @@ COLLECTIVE BARGAINING
 
 16\. For the purposes of this Part —
 
-(a) the Minister for Finance shall be deemed to be the employer of employees of the Government; and
+(a) the Minister charged with the responsibility for human resource management in the Civil Service shall be deemed to be the employer of employees of the Government; and
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (b) the Minister shall be deemed to have been notified that a trade dispute exists if a person designated by him for that purpose has been so notified.
 
@@ -474,7 +496,19 @@ COLLECTIVE BARGAINING
 
 (2) No trade union of employees whose constitution and rules do not permit it to admit as members any class of employees may seek recognition in respect of that class of employees or serve a notice under section 18 in respect of those employees.
 
-(3) No trade union of employees the majority of whose membership consists of employees in non-managerial or non-executive positions may seek recognition in respect of employees in managerial or executive positions or serve a notice under section 18 in respect of those employees.
+(3) No trade union of employees the majority of whose membership consists of non‑executive employees may seek recognition or serve a notice under section 18 in respect of any executive employee who —
+
+(a) is employed in a senior management position or performs or exercises any function, duty or power of a person employed in a senior management position, including the control and supervision of major business operations, accountability for operational performance, formulation of business policies, plans and strategies and provision of leadership to other employees;
+
+(b) performs or exercises any function, duty or power which includes decision‑making, or the power to substantially influence decision‑making, on any industrial matter including the employment, termination of employment, promotion, transfer, reward or discipline of other employees;
+
+(c) performs any function or duty which includes representing the employer in any negotiation relating to any industrial matter;
+
+(d) has access to confidential information relating to the budget and finances of the employer, any industrial relations matter or the salaries and personal records of other employees; or
+
+(e) performs or exercises any other function, duty or power which may give rise to a real or potential conflict of interest if the executive employee is represented by the trade union.
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (4) Where an employer raises the objection that a trade union should not represent certain employees or a class of employees, the employer and the trade union shall make a joint application to a Court for the determination of the question.
 
@@ -666,23 +700,26 @@ unless he is a person qualified in accordance with section 64 to represent an em
 
 ## PART IV
 
-LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
+LIMITED REPRESENTATION OF EXECUTIVE
+
+
+
+
+EMPLOYEES
 
 ### Interpretation of this Part
 
-30\.—(1) In this Part, unless the context otherwise requires —
+30\.—(1) In this Part, unless the context otherwise requires,“recognised trade union” means a trade union the majority of whose membership consists of non‑executive employees and which has been accorded recognition by an employer under section 17 in respect of any non‑executive employees.
 
-“executive employee”, in relation to an employer, means an employee who is employed in a managerial or an executive position by the employer;
+[Act 1 of 2015 wef 01/04/2015]
 
-“recognised trade union” means a trade union the majority of whose membership consists of employees in non-managerial or non-executive positions and which has been accorded recognition by an employer only in respect of such employees under section 17.
-
-[23/2002]
-
-(2) For the purposes of this Part, the Minister for Finance shall be deemed to be the employer of employees of the Government.
+(2) For the purposes of this Part, the Minister charged with the responsibility for human resource management in the Civil Service shall be deemed to be the employer of employees of the Government.
 
 [30A
 
 [23/2002]
+
+[Act 1 of 2015 wef 01/04/2015]
 
 ### Limited representation of executive employees
 
@@ -694,17 +731,27 @@ LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
 
 (c) to negotiate with the employer with a view to resolving any dispute relating to a breach of contract of employment by the executive employee or the employer;
 
-(d) to represent the executive employee in proceedings before a Court in respect of the dismissal or reinstatement of the executive employee in circumstances arising out of a contravention of section 82 or any matter referred to in paragraph (b) or (c).
+(d) to represent the executive employee in proceedings before a Court in respect of the dismissal or reinstatement of the executive employee in circumstances arising out of a contravention of section 82 or any matter referred to in paragraph (b) or (c);
 
 [23/2002]
+
+[Act 1 of 2015 wef 01/04/2015]
+
+(e) to negotiate with the employer with a view to resolving any re‑employment dispute as defined in section 8A(4) of the Retirement and Re‑employment Act (Cap. 274A).
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (2) Where a recognised trade union seeks to represent an executive employee under subsection (1), the employer may object to such representation only on the ground that the executive employee —
 
 (a) is employed in a senior management position or performs or exercises any function, duty or power of a person employed in a senior management position, including the control and supervision of major business operations, accountability for operational performance, formulation of business policies, plans and strategies and provision of leadership to other employees;
 
-(b) performs or exercises any function, duty or power which includes decision making, or the power to substantially influence decision making, on any industrial matters including the employment, termination of employment, promotion, transfer, reward or discipline of other employees;
+(b) performs or exercises any function, duty or power which includes decision‑making, or the power to substantially influence decision‑making, on any industrial matter including the employment, termination of employment, promotion, transfer, reward or discipline of other employees;
 
-(c) performs any function or duty which includes representing the employer in any negotiation relating to any industrial matters;
+[Act 1 of 2015 wef 01/04/2015]
+
+(c) performs any function or duty which includes representing the employer in any negotiation relating to any industrial matter;
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (d) has access to confidential information relating to the budget and finances of the employer, any industrial relations matter or the salaries and personal records of other employees; or
 
@@ -730,7 +777,9 @@ LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
 
 30B\. A recognised trade union representing an executive employee under section 30A may serve on an employer or an employer may serve on a recognised trade union, as the case may be, a notice in the prescribed form (referred to in this Part as an invitation to negotiate) —
 
-(a) setting out proposals for resolving any dispute relating to the issue of retrenchment benefit payable to the executive employee upon the retrenchment of the executive employee or a breach of contract of employment by the executive employee or his employer; and
+(a) setting out proposals for resolving any dispute relating to the issue of retrenchment benefit payable to the executive employee upon the retrenchment of the executive employee or a breach of contract of employment by the executive employee or his employer or any re‑employment dispute as defined in section 8A(4) of the Retirement and Re‑employment Act (Cap. 274A); and
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (b) inviting the employer or trade union, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a settlement.
 
@@ -780,13 +829,15 @@ TRIPARTITE MEDIATION OF DISPUTES INVOLVING EXECUTIVE EMPLOYEES
 
 30F\. In this Part —
 
-“executive employee”, in relation to an employer, means an employee who is an executive employee within the meaning of Part IV and who —
+“executive employee”, in relation to an employer, means an employee who is an executive employee within the meaning of this Act and who —
 
 (a) is in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed by the Minister; and
 
 (b) is a member of a trade union which has not been given recognition by his employer under section 17,
 
 but does not include any person belonging to any class of persons whom the Minister may, from time to time, by notification in theGazette, declare not to be executive employee for the purposes of this Part;
+
+[Act 1 of 2015 wef 01/04/2015]
 
 “federation” has the same meaning as in the Trade Unions Act (Cap. 333);
 
@@ -852,9 +903,13 @@ to participate in the tripartite mediation by assisting the tripartite mediation
 
 (a) is employed in a senior management position or performs or exercises any function, duty or power of a person employed in a senior management position, including the control and supervision of major business operations, accountability for operational performance, formulation of business policies, plans and strategies and provision of leadership to other employees;
 
-(b) performs or exercises any function, duty or power which includes decision making, or the power to substantially influence decision making, on any industrial matters including the employment, termination of employment, promotion, transfer, reward or discipline of other employees;
+(b) performs or exercises any function, duty or power which includes decision‑making, or the power to substantially influence decision‑making, on any industrial matter including the employment, termination of employment, promotion, transfer, reward or discipline of other employees;
 
-(c) performs any function or duty which includes representing the employer in any negotiation relating to any industrial matters;
+[Act 1 of 2015 wef 01/04/2015]
+
+(c) performs any function or duty which includes representing the employer in any negotiation relating to any industrial matter;
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (d) has access to confidential information relating to the budget and finances of the employer, any industrial relations matter or the salaries and personal records of other employees; or
 
@@ -1572,13 +1627,9 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 [36/2010 wef 01/02/2011]
 
-(2) It shall not be an offence for an employer to require as a condition of the appointment or promotion of a person to a managerial or an executive position that the person shall not be or continue to be an officer or a member of a particular trade union unless —
+(2) It shall not be an offence for an employer to require, as a condition of the appointment or promotion of a person to a position of an executive employee as described in section 17(3), that the person shall not be or continue to be an officer or a member of a particular trade union unless that trade union is a trade union whose constitution and rules restrict its membership to executive employees.
 
-(a) that trade union is a trade union whose constitution and rules restrict its membership to persons in managerial or executive positions; or
-
-(b) that trade union is a trade union which may represent persons in managerial or executive positions only under section 30A.
-
-[23/2002]
+[Act 1 of 2015 wef 01/04/2015]
 
 ### Employers not to discriminate against members of trade unions
 
@@ -1796,6 +1847,10 @@ This Legislative History is provided for the convenience of users of the Industr
 ||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|1 April 2014|
+|20.|**Act 1 of 2015—Industrial Relations (Amendment) Act 2015**|
+||Date of First Reading|3 November 2014 (Bill No. 41/2014 published on 3 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
