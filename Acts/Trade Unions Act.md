@@ -200,9 +200,17 @@ PRELIMINARY
 
 “executive” means the body, by whatever name called, to which the management of the affairs of a trade union or of any branch thereof is entrusted;
 
+“executive employee”, in relation to an employer, means an employee who is employed in a managerial or an executive position by the employer;
+
+[Act 1 of 2015 wef 01/04/2015]
+
 “federation” means a federation of 2 or more trade unions;
 
 “lock-out” means the closing of a place of employment or the suspension of work, or the refusal by an employer to continue to employ any number of persons employed by him in consequence of a dispute, done with a view to compelling those persons, or to aid another employer in compelling persons employed by him, to accept terms or conditions of or affecting employment;
+
+“non‑executive employee”, in relation to an employer, means an employee other than an executive employee;
+
+[Act 1 of 2015 wef 01/04/2015]
 
 “officer”, in relation to a trade union, includes any member of the executive thereof and any member of any committee, provision for which is made in the rules of the trade union, but does not include an auditor;
 
@@ -572,9 +580,11 @@ RIGHTS AND LIABILITIES OF TRADE UNIONS
 
 [3/77]
 
-(2) A registered trade union the majority of whose membership consists of employees in non-managerial or non-executive positions shall not commence, promote, organise or finance any strike or any form of industrial action in connection with any trade dispute between members employed in managerial or executive positions and represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136) and their employer.
+(2) A registered trade union the majority of whose membership consists of non‑executive employees shall not commence, promote, organise or finance any strike or any form of industrial action in connection with any trade dispute between members who are executive employees that are represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136) and their employer.
 
 [23/2002]
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (3) Any registered trade union which, and every member of its executive who, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
@@ -590,17 +600,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [11/2000]
 
-(5) No member of a registered trade union who is employed in a managerial or an executive position and who is represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136) shall commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action taken by the trade union.
+(5) No member of a registered trade union who is an executive employee that is represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136) shall commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action taken by the trade union.
 
 [23/2002]
 
-(6) No member of a registered trade union the majority of whose membership consists of employees in non-managerial or non-executive positions shall commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action in connection with any trade dispute between members employed in managerial or executive positions and represented by the trade union under section 30A of the Industrial Relations Act and their employer.
+[Act 1 of 2015 wef 01/04/2015]
+
+(6) No member of a registered trade union the majority of whose membership consists of non‑executive employees shall commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action in connection with any trade dispute between members who are executive employees that are represented by the trade union under section 30A of the Industrial Relations Act and their employer.
 
 [23/2002]
 
-(7) Nothing in subsection (2) or (6) shall preclude a registered trade union referred to in those subsections or any of its members employed in non-managerial or non-executive positions from commencing, promoting, organising, financing, participating or otherwise acting in furtherance of any strike or any form of industrial action affecting those members in accordance with subsection (1).
+[Act 1 of 2015 wef 01/04/2015]
+
+(7) Nothing in subsection (2) or (6) shall preclude a registered trade union referred to in those subsections or any member of a registered trade union that is recognised by the employer in the manner prescribed under Part III of the Industrial Relations Act (Cap. 136) as a registered trade union representing that member from commencing, promoting, organising, financing, participating or otherwise acting in furtherance of any strike or any form of industrial action affecting the member in accordance with subsection (1).
 
 [23/2002]
+
+[Act 1 of 2015 wef 01/04/2015]
 
 (8) Any member of a registered trade union who contravenes subsection (5) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -638,9 +654,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [23/2002]
 
-(16) For the purposes of this section, where the majority of the membership of a registered trade union consists of employees in non-managerial or non-executive positions, the consent of its members employed in managerial or executive positions and represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136) shall not be taken into account in ascertaining whether the consent of the majority of the members have been obtained under subsection (1).
+(16) For the purposes of this section, where the majority of the membership of a registered trade union consists of non‑executive employees, the consent of its members who are executive employees that are represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136) shall not be taken into account in ascertaining whether the consent of the majority of the members have been obtained under subsection (1).
 
 [23/2002]
+
+[Act 1 of 2015 wef 01/04/2015]
 
 ## PART V
 
@@ -808,9 +826,9 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 [11/2000]
 
-(2) Notwithstanding subsection (1), where the majority of the membership of a registered trade union consists of employees in non-managerial or non-executive positions, no rule of the trade union shall confer on any member who is employed in a managerial or an executive position the right to vote in any secret ballot taken for the purpose of obtaining the consent of its members to commence, organise, participate or otherwise act in furtherance of any strike or any form of industrial action under section 27(1).
+(2) Notwithstanding subsection (1), where the majority of the membership of a registered trade union consists of non‑executive employees, no rule of the trade union shall confer on any member who is an executive employee that is represented by the trade union under section 30A of the Industrial Relations Act (Cap. 136), the right to vote in any secret ballot taken for the purpose of obtaining the consent of its members to commence, organise, participate or otherwise act in furtherance of any strike or any form of industrial action under section 27(1).
 
-[23/2002]
+[Act 1 of 2015 wef 01/04/2015]
 
 (3) For the purpose of satisfying himself that a secret ballot taken by a registered trade union has been properly conducted, the Registrar may —
 
@@ -1379,6 +1397,10 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|29.|**Act 1 of 2015—Industrial Relations (Amendment) Act 2015**|
+||Date of First Reading|3 November 2014 (Bill No. 41/2014 published on 3 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Trade Unions Act
