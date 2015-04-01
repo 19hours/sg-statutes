@@ -60,7 +60,7 @@
 
 [**Part III OTHER OFFENCES**](#Part-III)
 
-- [18 Drunkenness in public places](#Drunkenness-in-public-places)
+- [18 (Repealed)](#Repealed)
 
 - [19 Soliciting in public place](#Soliciting-in-public-place)
 
@@ -434,13 +434,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 OTHER OFFENCES
 
-### Drunkenness in public places
-
-18\. \*Any person who is found drunk and incapable of taking care of himself, in any public road or in any public place or place of public amusement or resort, or in the immediate vicinity of any court or of any public office or police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
-
-\*See also section 128 of the Employment Act (Cap. 91).
-
-[10/89]
+18\. [Repealed by Act 5 of 2015 wef 01/04/2015]
 
 ### Soliciting in public place
 
@@ -450,9 +444,11 @@ OTHER OFFENCES
 
 ### Riotous, disorderly or indecent behaviour in, or in the immediate vicinity of, certain places
 
-20\. Any person who is found guilty of any riotous, disorderly or indecent behaviour in any public road or in any public place or place of public amusement or resort, or in the immediate vicinity of, or in, any court, public office, police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
+20\. Any person who is found guilty of any riotous, disorderly or indecent behaviour in any public road or in any public place or place of public amusement or resort, or in the immediate vicinity of, or in, any court, public office, police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/89]
+
+[Act 5 of 2015 wef 01/04/2015]
 
 ### Wilful trespass on property
 
@@ -1011,3 +1007,7 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of First Reading|3 March 2014 (Bill No. 12/2014 published on 3 March 2014)|
 ||Date of Second and Third Readings|13 March 2014|
 ||Date of commencement|15 November 2014|
+|49.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
