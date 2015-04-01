@@ -1320,9 +1320,11 @@ Sick Leave
 
 ### Payment of retrenchment benefit
 
-45\. No employee who has been in continuous service with an employer for less than 3 years shall be entitled to any retrenchment benefit on his dismissal on the ground of redundancy or by reason of any reorganisation of the employer’s profession, business, trade or work.
+45\. No employee who has been in continuous service with an employer for less than 2 years shall be entitled to any retrenchment benefit on his dismissal on the ground of redundancy or by reason of any reorganisation of the employer’s profession, business, trade or work.
 
 [32/2008]
+
+[Act 26 of 2013 wef 01/04/2015]
 
 ### Retirement benefit
 
@@ -2663,7 +2665,9 @@ PROCEDURE AND REGULATIONS
 
 ### Place of employment deemed to be public place
 
-128\. For the purposes of section 18 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184), every place of employment shall be deemed to be a public place.
+128\. For the purposes of section 14(1) of the Liquor Control (Supply and Consumption) Act 2015, every place of employment shall be deemed to be a public place.
+
+[Act 5 of 2015 wef 01/04/2015]
 
 ### Jurisdiction of Magistrates’ and District Courts
 
@@ -3216,3 +3220,13 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|34.|**Act 26 of 2013—Employment, Parental Leave and Other Measures Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
+||Date of Second and Third Readings|12 November 2013|
+||Date of commencement|1 April 2015|
+|35.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
