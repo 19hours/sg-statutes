@@ -7524,7 +7524,9 @@ Parking Places Act (Cap. 214).
 
 27. 
 
-Pawnbrokers Act (Cap. 222).
+Pawnbrokers Act 2015.
+
+[Act 2 of 2015 wef 01/04/2015]
 
 28. 
 
@@ -8337,6 +8339,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 October 2014|
 |195.|**G.N. No. S 860/2014—Central Provident Fund Act (Amendment of First Schedule) Notification 2014**|
 ||Date of commencement|1 January 2015|
+|196.|**Act 2 of 2015—Pawnbrokers Act 2015**|
+||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
