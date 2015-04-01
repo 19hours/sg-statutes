@@ -1154,7 +1154,7 @@
 
 - [509 Word or gesture intended to insult the modesty of a woman](#Word-or-gesture-intended-to-insult-the-modesty-of-a-woman)
 
-- [510 Misconduct in public by a drunken person](#Misconduct-in-public-by-a-drunken-person)
+- [510 (Repealed)](#Repealed)
 
 [**Chapter XXIII  Attempts to commit offences**](#Chapter-XXIII--Attempts-to-commit-offences)
 
@@ -6915,13 +6915,7 @@ Illustration
 
 [Indian PC 1860, s. 509]
 
-### Misconduct in public by a drunken person
-
-510\. Whoever, in a state of intoxication, appears in any public place, or in any place which it is a trespass in him to enter, and there conducts himself in such a manner as to cause annoyance to any person, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
-
-[51/2007]
-
-[Indian PC 1860, s. 510]
+510\. [Repealed by Act 5 of 2015 wef 01/04/2015]
 
 ### Chapter XXIII
 
@@ -7296,3 +7290,8 @@ This Ordinance was deemed to have come into operation on the same date as the St
 ||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
+|53.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||Date of First Reading|19 January 2015|
+|||(Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
