@@ -818,9 +818,11 @@ shall not, without the consent in writing of the Commissioner, act or continue t
 
 ### Employment agency deemed to be public place
 
-26\. For the purposes of section 18 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184), the premises of every employment agency shall be deemed to be a public place.
+26\. For the purposes of section 14(1) of the Liquor Control (Supply and Consumption) Act 2015, the premises of every employment agency shall be deemed to be a public place.
 
 [5/2011]
+
+[Act 5 of 2015 wef 01/04/2015]
 
 ### Right of hearing
 
@@ -1016,3 +1018,7 @@ This Legislative History is provided for the convenience of users of the Employm
 |||1 July 2011 (section 12)|
 |7.|**2012 Revised Edition—Employment Agencies Act (Chapter 92)**|
 ||Date of operation|30 September 2012|
+|8.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
