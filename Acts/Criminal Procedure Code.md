@@ -1026,7 +1026,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Criminal Procedure Code
+# wCriminal Procedure Code
 
 (CHAPTER 68)
 
@@ -1975,9 +1975,11 @@ and for good behaviour
 
 (a) rioting, assault or any other breach of the peace or abetting any such offence;
 
-(b) an offence under section 143, 144, 145, 153, 504 or 510 of the Penal Code (Cap. 224), under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before the date of commencement of the Protection from Harassment Act 2014 or under section 3, 4, 5 or 6 of the Protection from Harassment Act 2014;
+(b) an offence under section 143, 144, 145, 153 or 504 of the Penal Code (Cap. 224), under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before the date of commencement of the Protection from Harassment Act 2014 or under section 3, 4, 5 or 6 of the Protection from Harassment Act 2014;
 
 [Act 17 of 2014 wef 15/11/2014]
+
+[Act 5 of 2015 wef 01/04/2015]
 
 (c) assembling armed men or taking other unlawful measures for such purpose; or
 
@@ -13826,19 +13828,7 @@ Ditto
 
 Ditto
 
-510
-
-Appearing in a public place, etc., in a state of intoxication, and causing annoyance to any person
-
-May arrest without warrant
-
-Ditto
-
-Ditto
-
-Imprisonment for 6 months, or fine*, or both
-
-Ditto
+[Deleted by Act 5 of 2015 wef 01/04/2015]
 
 CHAPTER XXIII — ATTEMPTS TO COMMIT OFFENCES
 
@@ -13913,6 +13903,8 @@ Ditto
 According to sections 7, 8 and 9 of this Code
 
 [S 664/2011]
+
+[Act 5 of 2015 wef 01/04/2015]
 
 SECOND SCHEDULE
 
@@ -17317,3 +17309,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
+|18.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
