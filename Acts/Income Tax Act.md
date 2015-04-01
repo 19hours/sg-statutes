@@ -396,6 +396,10 @@
 
 - [43ZF Concessionary rate of tax for shipping-related support services](#Concessionary-rate-of-tax-for-shipping-related-support-services)
 
+- [43ZG Concessionary rate of tax for income derived from managing approved venture company](#Concessionary-rate-of-tax-for-income-derived-from-managing-approved-venture-company)
+
+- [43ZH Concessionary rate of tax for international growth company](#Concessionary-rate-of-tax-for-international-growth-company)
+
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
 - [44 (Repealed)](#Repealed)
@@ -2656,6 +2660,22 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (r) the income derived on or after 3rd May 2002 by an individual not resident in Singapore from acting as an arbitrator, and for this purpose, “arbitrator” means an individual appointed for any arbitration which is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A) or would have been governed by either of those Acts had the place of arbitration been Singapore;
 
+(ra) the income derived during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) by a qualifying mediator who is not resident in Singapore, for providing the services of a mediator for a mediation —
+
+(i) that takes place in Singapore; or
+
+(ii) that would have taken place in Singapore but for the settlement of the dispute or withdrawal of the claim in question;
+
+[Act 2 of 2016 wef 01/14/2015]
+
+(rb) the income derived during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) by an individual who is not resident in Singapore, for providing the services of a mediator for a qualifying mediation —
+
+(i) that takes place in Singapore; or
+
+(ii) that would have taken place in Singapore but for the settlement of the dispute or withdrawal of the claim in question;
+
+[Act 2 of 2016 wef 01/14/2015]
+
 (s) sums payable by way of annual bounty out of the public revenue to members of such local forces as the Minister may from time to time by order declare to be a force to which this paragraph shall apply;
 
 (t) the income derived on or after 20th August 1968 from interest on moneys held on deposit in an approved bank in Singapore by —
@@ -2764,9 +2784,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
 
-[Act 39 of 2017 wef 1/04/2014]
-
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
+
+[Act 39 of 2017 wef 01/04/2014]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -3060,9 +3080,11 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 34 of 2016 wef 27/11/2014]
 
-(12C) To avoid doubt, any exemption on or after 1st April 2015 referred to in subsection (12A) is subject to the conditions and restrictions of the exemption as prescribed in the order, insofar as those conditions and restrictions remain applicable.
+(12C) To avoid doubt, any exemption on or after 1st April 2020 referred to in subsection (12A) is subject to the conditions and restrictions of the exemption as prescribed in the order, insofar as those conditions and restrictions remain applicable.
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (13) An order made under subsection (12) may —
 
@@ -3182,6 +3204,14 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 (BB) 50% or more of the issue of debt securities or Islamic debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those debt securities or Islamic debt securities;
 
+“qualifying mediation” means a mediation that is administered by a body or an organisation that provides services for the conduct of mediation (called in this section a mediation service provider), and that is prescribed under section 7;
+
+[Act 2 of 2016 wef 01/04/2015]
+
+“qualifying mediator” means an individual who is certified or accredited under a mediator certification or accreditation scheme prescribed under section 7;
+
+[Act 2 of 2016 wef 01/04/2015]
+
 “qualifying project debt securities” means debt securities —
 
 (a) which are arranged in accordance with regulations made for this purpose —
@@ -3233,6 +3263,10 @@ but does not include any sum paid in respect of any debt securities, units of a 
 “unit trust” has the same meaning as in section 10B.
 
 [31/98; 32/99; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007; 34/2008; 22/2011; 29/2012; 19/2013]
+
+(17) For the purposes of the definitions of “qualifying mediation” and “qualifying mediator” in subsection (16), the Minister may prescribe a description of mediation service providers and a description of mediator certification or accreditation schemes that are set out on a specified website of the Ministry of Law, as amended from time to time.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 ### Exemption of shipping profits
 
@@ -3458,11 +3492,11 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 (i) arranging insurance for it;
 
-(j) undertaking crew‑related matters for it, including the provision of qualified crew, the appointment of a crew manager, the provision of crew training or the arrangement of crew insurance;
+(j) undertaking crew-related matters for it, including the provision of qualified crew, the appointment of a crew manager, the provision of crew training or the arrangement of crew insurance;
 
 [Act 39 of 2017 wef 22/02/2010]
 
-(k) arranging or supervising dry‑docking, repair, overhaul, alteration, maintenance or lay‑up of it;
+(k) arranging or supervising dry-docking, repair, overhaul, alteration, maintenance or lay-up of it;
 
 [Act 39 of 2017 wef 22/02/2010]
 
@@ -5380,13 +5414,41 @@ except that the Minister may extend the period so specified for such further per
 
 ### Exemption of income arising from funds managed by fund manager in Singapore
 
-13X\.—(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the person, master fund, feeder fund or master-feeder fund structure, there shall be exempt from tax such income as the Minister may by regulations prescribe of —
+13X\.—(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the person, master fund, feeder fund, master-feeder fund structure, master-feeder fund-SPV structure or master fund-SPV structure, there shall be exempt from tax such income as the Minister may by regulations prescribe of —
 
-(a) an approved person arising from funds managed in Singapore by a fund manager; or
+(a) an approved person arising from funds managed in Singapore by a fund manager;
 
-(b) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund or an approved feeder fund of an approved master-feeder fund structure, arising from funds of the master fund or any feeder fund of that structure that are managed in Singapore by a fund manager.
+[Act 2 of 2016 wef 01/04/2015]
+
+(b) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund or an approved feeder fund of an approved master-feeder fund structure, arising from funds of the master fund or any feeder fund of that structure that are managed in Singapore by a fund manager;
 
 [27/2009; 29/2010; 22/2011]
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(c) in relation to an approved master-feeder fund-SPV structure —
+
+(i) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund or an approved feeder fund of the structure;
+
+(ii) an approved 1st tier SPV of the structure; and
+
+(iii) an approved 2nd tier SPV of the structure,
+
+arising from funds of the master fund or any feeder fund of the structure that are managed in Singapore by a fund manager; or
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(d) in relation to an approved master fund-SPV structure —
+
+(i) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund of the structure;
+
+(ii) an approved 1st tier SPV of the structure; and
+
+(iii) an approved 2nd tier SPV of the structure,
+
+arising from funds of the master fund of the structure that are managed in Singapore by a fund manager.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (2) Approval under subsection (1)(a) may be granted during the period from 1st April 2009 to 31st March 2019 (both dates inclusive).
 
@@ -5400,27 +5462,49 @@ except that the Minister may extend the period so specified for such further per
 
 [Act 37 of 2014 wef 01/04/2014]
 
-(3) Where the income of any approved person or company, trustee or partner referred to in subsection (1)(b) is not exempt from tax under this section, sections 13C, 13CA and 13R shall not apply to that income notwithstanding anything in those provisions.
+(2B) Approval under subsection (1)(c) and (d) may be granted during the period from 1 April 2015 to 31 March 2019 (both dates inclusive).
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(3) Where the income of any approved person or company, trustee, partner, 1st tier SPV or 2nd tier SPV referred to in subsection (1)(b), (c) or (d) is not exempt from tax under this section, sections 13C, 13CA and 13R shall not apply to that income notwithstanding anything in those provisions.
 
 [27/2009; 29/2010]
 
+[Act 2 of 2016 wef 01/04/2015]
+
 (4) Regulations made under subsection (1) may —
 
-(a) provide for the determination of the amount of income of any approved person or company, trustee or partner referred to in subsection (1)(b) to be exempt from tax;
+(a) provide for the determination of the amount of income of any approved person or company, trustee, partner, 1st tier SPV or 2nd tier SPV referred to in subsection (1)(b), (c) or (d) to be exempt from tax;
 
-(b) provide for the deduction of expenses, allowances and losses of any approved person or company, trustee or partner referred to in subsection (1)(b) otherwise than in accordance with this Act;
+[Act 2 of 2016 wef 01/04/2015]
+
+(b) provide for the deduction of expenses, allowances and losses of any approved person or company, trustee, partner, 1st tier SPV or 2nd tier SPV referred to in subsection (1)(b), (c) or (d) otherwise than in accordance with this Act;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (c) where the approved person is a partner of an approved limited partnership, provide for the recovery of tax from him in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the limited partnership, including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non‑compliance of the condition;
 
-(ca) provide for the recovery of tax from a company or a trustee of a trust fund referred to in subsection (1)(b) in a case where the exemption ought not to have been allowed to the company or trustee due to non-compliance with any condition imposed on the approved master-feeder fund structure;
+(ca) provide for the recovery of tax from a company, trustee, 1st tier SPV or 2nd tier SPV referred to in subsection (1)(b), (c) or (d) in a case where the exemption ought not to have been allowed to the person due to non-compliance with any condition imposed on the approved master-feeder fund structure, approved master-feeder fund-SPV structure or approved master fund-SPV structure, as the case may be;
 
-(cb) provide for the recovery of tax from a partner of a limited partnership referred to in subsection (1)(b) in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the approved master-feeder fund structure, including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non-compliance of the condition; and
+[Act 2 of 2016 wef 01/04/2015]
+
+(cb) provide for the recovery of tax from a partner of a limited partnership referred to in subsection (1)(b), (c) or (d) in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the approved master-feeder fund structure, approved master-feeder fund-SPV structure or approved master fund-SPV structure (as the case may be), including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non-compliance with the condition; and
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (d) make provision generally for giving full effect to or for carrying out the purposes of this section.
 
 [27/2009; 29/2010; 29/2012]
 
 (5) In this section —
+
+“1st tier SPV”, in relation to a master-feeder fund-SPV structure or a master fund-SPV structure, means a special purpose vehicle wholly owned by the master fund of the structure;
+
+[Act 2 of 2016 wef 01/04/2015]
+
+“2nd tier SPV”, in relation to a master-feeder fund-SPV structure or a master fund-SPV structure, means a special purpose vehicle wholly owned by a 1st tier SPV of the structure;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 “approved” means approved by the Minister or such person as he may appoint;
 
@@ -5434,11 +5518,39 @@ except that the Minister may extend the period so specified for such further per
 
 “feeder fund” means a company, trust fund or limited partnership that invests its funds substantially and directly through only one master fund;
 
-“master-feeder fund structure” means one or more feeder funds and the master fund through which the funds of the feeder fund or funds are substantially and directly invested;
+“master-feeder fund structure” means an arrangement comprising one or more feeder funds and the master fund through which the funds of the feeder fund or funds are substantially and directly invested;
+
+[Act 2 of 2016 wef 01/09/2014]
+
+“master-feeder fund-SPV structure” means an arrangement comprising —
+
+(a) one or more feeder funds;
+
+(b) the master fund through which the funds of the feeder fund or funds are substantially and directly invested; and
+
+(c) one or more SPVs;
+
+[Act 2 of 2016 wef 01/04/2015]
+
+“master fund-SPV structure” means an arrangement comprising —
+
+(a) a master fund; and
+
+(b) one or more SPVs;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 “master fund” means a company, trust fund or limited partnership that enables investors to invest funds in one or more underlying investments that are managed by a fund manager;
 
 “real estate investment trust” has the same meaning as in section 43(10);
+
+“special purpose vehicle” or “SPV” —
+
+(a) in relation to a master-feeder fund-SPV structure, means a company whose only activity is the holding of investments of the master and feeder funds of the structure; or
+
+(b) in relation to a master fund-SPV structure, means a company whose only activity is the holding of investments of the master fund of the structure;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 “trust fund” does not include any trust that is a pension or provident fund approved by the Comptroller under section 5, designated unit trust and real estate investment trust.
 
@@ -6114,7 +6226,9 @@ does not exceed $100,000 for each year of assessment.
 
 (i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
 
-(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC or 43ZF or the regulations made thereunder; or
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF or 43ZG or the regulations made thereunder; or
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
 
@@ -6250,7 +6364,9 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be; or
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -6882,7 +6998,9 @@ does not exceed $100,000 for each year of assessment.
 
 (i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
 
-(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC or 43ZF or the regulations made thereunder; or
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF or 43ZG or the regulations made thereunder; or
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
 
@@ -12415,7 +12533,9 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -12937,9 +13057,11 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be.
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be.
 
 [34/2005; 7/2007; 53/2007; 34/2008; 29/2010; 22/2011; 2/2013; 19/2013]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (18) This section shall not apply to —
 
@@ -14564,17 +14686,21 @@ other than shares which are issued pursuant to a stock option or share award sch
 
 (c) both the acquiring company and any one or more acquiring subsidiaries,
 
-incurs or incur capital expenditure during the period from 1st April 2010 to 31st March 2015 (both dates inclusive) for any qualifying acquisition of ordinary shares in another company (referred to in this section as the target company), the acquiring company may claim the deductions specified in subsection (1A), in accordance with this section.
+incurs or incur capital expenditure during the period from 1st April 2010 to 31st March 2020 (both dates inclusive) for any qualifying acquisition of ordinary shares in another company (referred to in this section as the target company), the acquiring company may claim the deductions specified in subsection (1A), in accordance with this section.
 
 [29/2010; 29/2012]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (1A) The deductions for the purposes of subsection (1) are as follows:
 
 (a) a deduction for the capital expenditure referred to in that subsection; and
 
-(b) a deduction of an amount equivalent to twice the amount of transaction costs incurred for qualifying acquisitions made during the period from 17th February 2012 to 31st March 2015 (both dates inclusive).
+(b) a deduction of an amount equivalent to twice the amount of transaction costs incurred for qualifying acquisitions made during the period from 17th February 2012 to 31st March 2020 (both dates inclusive).
 
 [29/2012]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (2) Any claim for deduction under this section shall be made at the time of lodgment of the return of income for the year of assessment relating to the basis period of the acquiring company in which the capital expenditure is incurred or within such further time as the Comptroller may, in his discretion, allow.
 
@@ -14588,45 +14714,120 @@ incurs or incur capital expenditure during the period from 1st April 2010 to 31s
 
 (4) In this section, a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary is any of the following:
 
-(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
+(a) an acquisition made during the period from 1 April 2010 to 31 March 2015 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (b) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (a);
 
-(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+(c) an acquisition made during the period from 1 April 2010 to 31 March 2015 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
 
 (i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
 
 (ii) the date of the acquisition does not fall in the same basis period of the acquiring company as the date of the acquisition referred to in paragraph (a);
 
-(d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c),
+[Act 2 of 2016 wef 01/04/2015]
+
+(d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c) and is before 1 April 2016,
+
+[Act 2 of 2016 wef 01/04/2015]
 
 provided that at the end of that basis period of the acquiring company, such total ownership is more than 50% (in the case of paragraphs (a) and (b)) or 75% or more (in the case of paragraphs (c) and (d)) of the total number of ordinary shares in the target company.
 
 [29/2010; 22/2011; 29/2012]
 
-(5) An acquiring company may elect for its qualifying acquisitions to be, instead of those referred to in subsection (4)(a) and (b) or subsection (4)(c) and (d), acquisitions of ordinary shares in a target company the dates of which fall in a prescribed period and which include an acquisition referred to in subsection (4)(a) or (c), and the provisions of this section shall apply to the qualifying acquisitions so elected subject to such modifications as may be prescribed.
+(4A) In this section, and subject to the applicable condition in subsection (4B) being met, each of the following is also a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary:
 
-[29/2010]
+(a) an acquisition made during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total 20% or more but 50% or less of the total number of ordinary shares in the target company, where —
 
-(6) The election under subsection (5) shall be made by the acquiring company at the time of lodgment of the return of its income for the year of assessment relating to the basis period of the acquiring company in which the date of the acquisition referred to in subsection (4)(a) or (c) falls, or within such further time as the Comptroller may, in his discretion, allow.
+(i) before the date of the acquisition, such total ownership was less than 20% of the total number of ordinary shares in the target company; and
+
+(ii) the date of the acquisition does not fall in the same basis period of the acquiring company as the date of the acquisition referred to in paragraph (c);
+
+(b) any other acquisition made during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (a);
+
+(c) an acquisition made during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
+
+(d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c);
+
+(e) an acquisition made on or after 1 April 2015 but before 1 April 2016 that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+
+(i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company;
+
+(ii) the date of the acquisition does not fall in the same basis period of the acquiring company as the date of the acquisition referred to in paragraph (c); and
+
+(iii) before 1 April 2015 and not earlier than 12 months before the acquisition, the acquiring company or its acquiring subsidiary had made an acquisition of ordinary shares of any amount in the target company;
+
+(f) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (e) and is before 1 April 2016.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(4B) In subsection (4A), the conditions are —
+
+(a) in the case of paragraphs (a) and (b) of that subsection, at the end of that basis period of the acquiring company, the total ownership of ordinary shares in the target company referred to in paragraph (a) of that subsection is between 20% and 50% (both inclusive);
+
+(b) in the case of paragraphs (c) and (d) of that subsection, at the end of that basis period of the acquiring company, the total ownership of ordinary shares in the target company referred to in paragraph (c) of that subsection is more than 50%;
+
+(c) in the case of paragraphs (e) and (f) of that subsection, at the end of that basis period of the acquiring company, the total ownership of ordinary shares in the target company referred to in paragraph (e) of that subsection is 75% or more.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(5) An acquiring company may elect for its qualifying acquisitions to be, instead of those referred to in the provisions in the first column of the following table, acquisitions —
+
+(a) the dates of which fall within a prescribed period; and
+
+(b) which include an acquisition referred to in the provisions set out opposite in the second column of the table,
+
+and the provisions of this section apply to the acquisitions so elected subject to such modifications as may be prescribed:
+
+Original acquisitions
+under:
+
+Elected acquisitions to
+include an acquisition
+under:
+
+subsection (4)(a) and (b), or subsection (4)(c) and (d)
+
+subsection (4)(a) or (c)
+
+subsection (4A)(c) and (d), or subsection (4A)(e) and (f)
+
+subsection (4A)(c) or (e)
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(5A) The election under subsection (5) may only be made for acquisitions made during the period from 1 April 2010 to 31 March 2016 (both dates inclusive).
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(6) The election under subsection (5) shall be made by the acquiring company at the time of lodgment of the return of its income for the year of assessment relating to the basis period of the acquiring company in which the date of the acquisition referred to in subsection (4)(a) or (c) or subsection (4A)(c) or (e), as the case may be, falls, or within such further time as the Comptroller may, in his discretion, allow.
 
 [29/2010; 22/2011]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 ### Deductions allowable in respect of capital expenditure claimed
 
-(7) For the purpose of subsection (1) and subject to subsections (11) and (19) and the regulations made under subsection (24), deductions in respect of capital expenditure for a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary, as the case may be, are to be allowed as follows:
+(7) For the purpose of subsection (1) and subject to subsections (11), (11A), (11B) and (19) and the regulations made under subsection (24), deductions in respect of capital expenditure for a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary, as the case may be, are to be allowed as follows:
 
-(a) to the extent the capital expenditure is not contingent consideration or, if it is contingent consideration, is incurred in the same basis period of the acquiring company as that in which the date of the acquisition of the shares falls, the deduction allowed shall be the amount specified in subsection (8) for each of 5 successive years of assessment (referred to in this section as the 1st, 2nd, 3rd, 4th and 5th years of assessment, respectively), beginning with the year of assessment relating to the basis period of the acquiring company in which the date of the acquisition of the shares falls; and
+(a) to the extent the capital expenditure is not contingent consideration or, if it is contingent consideration, is incurred in the same basis period of the acquiring company as that in which the date of the acquisition of the shares falls, the deduction allowed shall be the amount specified in subsection (8) for acquisitions referred to in subsection (4), and the amount specified in subsection (8A) for acquisitions referred to in subsection (4A), for each of 5 successive years of assessment (referred to in this section as the 1st, 2nd, 3rd, 4th and 5th years of assessment, respectively), beginning with the year of assessment relating to the basis period of the acquiring company in which the date of the acquisition of the shares falls; and
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (b) to the extent the capital expenditure is contingent consideration that is incurred in a basis period of the acquiring company after the basis period of the acquiring company for the 1st year of assessment, the deduction allowed shall be —
 
-(i) where the contingent consideration is incurred in the basis period of the acquiring company for the 2nd, 3rd or 4th year of assessment, the amount specified in subsection (9) for that year of assessment and for each successive year of assessment up to and including the 5th year of assessment; or
+(i) where the contingent consideration is incurred in the basis period of the acquiring company for the 2nd, 3rd or 4th year of assessment, the amount specified in subsection (9) for acquisitions referred to in subsection (4), and the amount specified in subsection (9A) for acquisitions referred to in subsection (4A), for that year of assessment and for each successive year of assessment up to and including the 5th year of assessment; or
 
-(ii) where the contingent consideration is incurred in the basis period of the acquiring company for the 5th year of assessment or a subsequent year of assessment, the amount specified in subsection (10) for that year of assessment.
+[Act 2 of 2016 wef 01/04/2015]
+
+(ii) where the contingent consideration is incurred in the basis period of the acquiring company for the 5th year of assessment or a subsequent year of assessment, the amount specified in subsection (10) for acquisitions referred to in subsection (4), and the amount specified in subsection (10A) for acquisitions referred to in subsection (4A), for that year of assessment.
 
 [29/2010; 22/2011]
 
-(8) Subject to subsections (13) and (19), the amount referred to in subsection (7)(a) shall be calculated in accordance with the formula
+[Act 2 of 2016 wef 01/04/2015]
+
+(8) Subject to subsections (13) and (19), the amount referred to in subsection (7)(a) for an acquisition referred to in subsection (4) shall be calculated in accordance with the formula
 
 where A
 
@@ -14634,7 +14835,17 @@ is the capital expenditure to the extent that it is not contingent consideration
 
 [29/2010; 22/2011]
 
-(9) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) shall be calculated in accordance with the formula
+[Act 2 of 2016 wef 01/04/2015]
+
+(8A) Subject to subsections (13) and (19), the amount referred to in subsection (7)(a) for an acquisition referred to in subsection (4A) is to be calculated in accordance with the formula
+
+where A
+
+is the capital expenditure to the extent that it is not contingent consideration or, if it is contingent consideration, is incurred in the same basis period of the acquiring company as that in which the date of the acquisition of the shares falls.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(9) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) for an acquisition referred to in subsection (4) shall be calculated in accordance with the formula
 
 where B
 
@@ -14660,13 +14871,51 @@ whichever is applicable.
 
 [29/2010; 22/2011]
 
-(10) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(ii) shall be calculated in accordance with the formula
+[Act 2 of 2016 wef 01/04/2015]
+
+(9A) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) for an acquisition referred to in subsection (4A) is to be calculated in accordance with the formula
+
+where B
+
+is the contingent consideration that is incurred in the basis period of the acquiring company for the 2nd, 3rd or 4th year of assessment, whichever is applicable; and
+
+C
+
+is —
+
+(a)
+
+2 (where the contingent consideration is incurred in the basis period of the acquiring company for the 2nd year of assessment);
+
+(b)
+
+3 (where the contingent consideration is incurred in the basis period of the acquiring company for the 3rd year of assessment); or
+
+(c)
+
+4 (where the contingent consideration is incurred in the basis period of the acquiring company for the 4th year of assessment),
+
+whichever is applicable.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(10) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(ii) for an acquisition referred to in subsection (4) shall be calculated in accordance with the formula
 
 where D
 
 is the contingent consideration that is incurred in the basis period of the acquiring company for the 5th year of assessment or the subsequent year of assessment, whichever is applicable.
 
 [29/2010; 22/2011]
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(10A) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(ii) for an acquisition referred to in subsection (4A) is to be calculated in accordance with the formula
+
+where D
+
+is the contingent consideration that is incurred in the basis period of the acquiring company for the 5th year of assessment or the subsequent year of assessment, whichever is applicable.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (11) The following provisions shall apply in determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in one or more target companies whose dates of acquisition fall within one basis period of the acquiring company:
 
@@ -14682,13 +14931,57 @@ the amount by which the aggregate of sub-paragraphs (i) and (ii) exceeds $100 mi
 
 [29/2010; 22/2011]
 
-(12) For the purposes of subsections (8), (9), (10) and (11), the amount of any consideration paid for any qualifying acquisition that comprises shares in the acquiring company, is the market value of the shares in the acquiring company as at the date of the acquisition of the shares and, if it is not possible to determine such value, the net asset value of those shares in the acquiring company at the end of its accounting period immediately before the date of the acquisition of those shares.
+(11A) The following provisions also apply for the purpose of determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in one or more target companies whose dates of acquisition fall within one basis period of the acquiring company:
+
+(a) where the sum of the amounts of “A” referred to in subsection (8A) in respect of all such qualifying acquisitions exceeds $20 million, the amount by which the sum exceeds $20 million is to be disregarded for the purposes of the deduction to be allowed under this section;
+
+(b) where the sum referred to in paragraph (a) does not exceed $20 million but the sum of the following exceeds $20 million:
+
+(i) the sum referred to in paragraph (a);
+
+(ii) the sum of all contingent consideration in respect of all such qualifying acquisitions incurred in the basis period of the acquiring company for any year of assessment subsequent to the 1st year of assessment and in any earlier year of assessment other than the 1st year of assessment,
+
+the amount by which the sum of sub-paragraphs (i) and (ii) exceeds $20 million is to be disregarded for the purposes of the deduction to be allowed under this section.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(11B) Despite subsections (11) and (11A), the following provisions apply in determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in target companies whose dates of acquisition fall within one basis period of the acquiring company, if the qualifying acquisitions in that basis period include at least one acquisition referred to in subsection (4)(a) or (c), and at least one acquisition referred to in subsection (4A)(a), (c) or (e):
+
+(a) where the sum of the following exceeds $5 million:
+
+(i) the amount determined by the formula “0.05 × A” in subsection (8) in respect of those acquisitions which are acquisitions referred to in subsection (4);
+
+(ii) the amount determined by the formula “0.25 × A” in subsection (8A) in respect of those acquisitions which are acquisitions referred to in subsection (4A),
+
+the excess is to be disregarded for the purposes of the deduction to be allowed under this section;
+
+(b) where the sum referred to in paragraph (a) does not exceed $5 million but the sum of the following exceeds $5 million:
+
+(i) the sum referred to in paragraph (a);
+
+(ii) the amount determined by the formula “0.05 × B” in subsection (9) in respect of those acquisitions which are acquisitions referred to in subsection (4);
+
+(iii) the amount determined by the formula “0.25 × B” in subsection (9A) in respect of those acquisitions which are acquisitions referred to in subsection (4A);
+
+(iv) the amount determined by the formula “0.05 × D” in subsection (10) in respect of those acquisitions which are acquisitions referred to in subsection (4);
+
+(v) the amount determined by the formula “0.25 × D” in subsection (10A) in respect of those acquisitions which are acquisitions referred to in subsection (4A),
+
+the excess is to be disregarded for the purposes of the deduction to be allowed under this section.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(12) For the purposes of subsections (8), (8A), (9), (9A), (10), (10A), (11), (11A) and (11B), the amount of any consideration paid for any qualifying acquisition that comprises shares in the acquiring company, is the market value of the shares in the acquiring company as at the date of the acquisition of the shares and, if it is not possible to determine such value, the net asset value of those shares in the acquiring company at the end of its accounting period immediately before the date of the acquisition of those shares.
 
 [29/2010]
 
-(13) Notwithstanding subsections (8), (9) and (10), where any amount of “A”, “B” or “D” referred to in subsections (8), (9) and (10), respectively, that is paid by the acquiring company or the acquiring subsidiary, as the case may be, in respect of any qualifying acquisition is greater than the amount which would have been paid if the acquiring company or the acquiring subsidiary, as the case may be, were unrelated to the shareholders in the target company, the first-mentioned amount shall be substituted with the second-mentioned amount, and any question regarding the quantum of the second-mentioned amount shall be determined by the Comptroller.
+[Act 2 of 2016 wef 01/04/2015]
+
+(13) “”“”“”Despite subsections (8), (8A), (9), (9A), (10) and (10A), where any amount of “A” referred to in subsection (8) or (8A), “B” referred to in subsection (9) or (9A), or “D” referred to in subsection (10) or (10A), that is paid by the acquiring company or the acquiring subsidiary, as the case may be, in respect of any qualifying acquisition is greater than the amount which would have been paid if the acquiring company or the acquiring subsidiary, as the case may be, were unrelated to the shareholders in the target company, the first-mentioned amount shall be substituted with the second-mentioned amount, and any question regarding the quantum of the second-mentioned amount shall be determined by the Comptroller.
 
 [29/2010]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (14) A deduction under this section to an acquiring company shall be made against the balance of its statutory income after the deductions allowed under sections 37(3), 37B and 37G.
 
@@ -14740,107 +15033,145 @@ whichever is the later; and
 
 ### Conditions for deductions
 
-(16) A deduction in respect of a qualifying acquisition shall be made to an acquiring company under this section for any year of assessment only if —
+(16) A deduction under this section for a qualifying acquisition (called the subject acquisition) may be made to an acquiring company for any year of assessment only if —
 
-(a) where it is an acquisition referred to in subsection (4)(a) or (c) —
+(a) where the subject acquisition is one referred to in subsection (4)(a) or (c) or (4A)(c) or (e) —
 
-(i) the acquiring company —
+(i) the acquiring company satisfies the conditions in subsection (16A);
 
-(A) is carrying on a trade or business in Singapore on the date of the acquisition of the shares;
+(ii) where the subject acquisition is made by an acquiring subsidiary, the acquiring subsidiary satisfies the conditions in subsection (16B);
 
-(B) has in its employment at least 3 local employees at all times during the period of 12 months immediately before that date;
+(iii) where the subject acquisition is made by an acquiring subsidiary and, on the date of the acquisition (being a date on or after 17 February 2012), the acquiring subsidiary is indirectly owned by the acquiring company through one or more intermediate companies, every such intermediate company satisfies the conditions in subsection (16C); and
 
-(C) unless otherwise prescribed, is not connected to the target company for at least 2 years immediately before that date; and
+(iv) the target company, or a subsidiary that is —
 
-(D) in a case where the acquiring company is a subsidiary of another company within the meaning of section 5 of the Companies Act (Cap. 50), has a Singapore company as its ultimate holding company on that date;
+(A) if the date of the subject acquisition is before 17 February 2012, wholly owned by the target company directly; or
 
-(ii) where the acquisition is made by the acquiring subsidiary, the acquiring subsidiary —
+(B) if the date of the subject acquisition is on or after 17 February 2012, wholly owned by the target company whether directly or indirectly,
 
-(A) does not carry on a trade or business in Singapore or elsewhere on the date of the acquisition of the shares;
+satisfies the conditions in subsection (16D);
 
-(B) does not claim any deduction for any capital expenditure or transaction costs under this section for that year of assessment or any stamp duty relief under section 15A of the Stamp Duties Act (Cap. 312); and
+(b) where the subject acquisition is one referred to in subsection (4)(b) or (d) or (4A)(d) or (f) —
 
-(C) is on that date wholly owned by the acquiring company —
+(i) the acquiring company satisfies the conditions in subsection (16A);
 
-(CA)
+(ii) where the subject acquisition is made by an acquiring subsidiary, the acquiring subsidiary satisfies the conditions in subsection (16B);
 
-directly, in the case of a qualifying acquisition the date of which is before 17th February 2012; and
+(iii) where the subject acquisition is made by an acquiring subsidiary and, on the date of the acquisition (being a date on or after 17 February 2012), the acquiring subsidiary is indirectly owned by the acquiring company through one or more intermediate companies, every such intermediate company satisfies the conditions in subsection (16C);
 
-(CB)
+(iv) the target company, or a subsidiary that is —
 
-whether directly or indirectly, in the case of a qualifying acquisition the date of which is on or after 17th February 2012;
+(A) if the date of the acquisition is before 17 February 2012, wholly owned by the target company directly; or
 
-(iia) where the acquisition is made by the acquiring subsidiary and, on the date of the acquisition of the shares (being a date on or after 17th February 2012), the acquiring subsidiary is indirectly owned by the acquiring company through one or more intermediate companies, every such intermediate company —
+(B) if the date of the acquisition is on or after 17 February 2012, wholly owned by the target company whether directly or indirectly,
 
-(A) is wholly owned (whether directly or indirectly) by the acquiring company on that date;
+satisfies the conditions in subsection (16D); and
 
-(B) is incorporated for the primary purpose of acquiring and holding shares in other companies;
+(v) the conditions in paragraph (a) are also satisfied in relation to —
 
-(C) does not carry on a trade or business in Singapore or elsewhere on that date; and
+(A) where the subject acquisition is one referred to in subsection (4)(b), a qualifying acquisition referred to in subsection (4)(a);
 
-(D) does not claim any deduction for any capital expenditure or transaction costs under this section for that year of assessment or any stamp duty relief under section 15A of the Stamp Duties Act; and
+(B) where the subject acquisition is one referred to in subsection (4)(d), a qualifying acquisition referred to in subsection (4)(c);
 
-(iii) the target company, or a subsidiary wholly owned by the target company (directly, in the case of a qualifying acquisition the date of which is before 17th February 2012; or whether directly or indirectly, in the case of a qualifying acquisition the date of which is on or after 17th February 2012) —
+(C) where the subject acquisition is one referred to in subsection (4A)(d), a qualifying acquisition referred to in subsection (4A)(c); or
 
-(A) carries on a trade or business on the date of the acquisition of the shares; and
+(D) where the subject acquisition is one referred to in subsection (4A)(f), a qualifying acquisition referred to in subsection (4A)(e);
 
-(B) has in its employment at least 3 employees at all times during the period of 12 months immediately before that date;
+(c) where the subject acquisition is one referred to in subsection (4A)(a) —
 
-(b) where it is an acquisition referred to in subsection (4)(b) or (d) —
+(i) the acquiring company satisfies the conditions in subsection (16A);
 
-(i) the acquiring company —
+(ii) where the subject acquisition is made by an acquiring subsidiary, the acquiring subsidiary satisfies the conditions in subsection (16B);
 
-(A) is carrying on a trade or business in Singapore on the date of the acquisition of the shares;
+(iii) where the subject acquisition is made by an acquiring subsidiary and, on the date of the acquisition, the acquiring subsidiary is indirectly owned by the acquiring company through one or more intermediate companies, every such intermediate company satisfies the conditions in subsection (16C);
 
-(B) has in its employment at least 3 local employees at all times during the period of 12 months immediately before that date;
+(iv) the target company, or a subsidiary that is wholly owned by the target company whether directly or indirectly, satisfies the conditions in subsection (16D); and
 
-(C) unless otherwise prescribed, is not connected to the target company for at least 2 years immediately before that date; and
+(v) the conditions prescribed under subsection (16E) are satisfied; and
 
-(D) in a case where the acquiring company is a subsidiary of another company within the meaning of section 5 of the Companies Act, has a Singapore company as its ultimate holding company on that date;
+(d) where the subject acquisition is one referred to in subsection (4A)(b) —
 
-(ii) where the acquisition is made by the acquiring subsidiary, the acquiring subsidiary —
+(i) the acquiring company satisfies the conditions in subsection (16A);
 
-(A) does not carry on a trade or business in Singapore or elsewhere on the date of the acquisition of the shares;
+(ii) where the subject acquisition is made by an acquiring subsidiary, the acquiring subsidiary satisfies the conditions in subsection (16B);
 
-(B) does not claim any deduction for any capital expenditure or transaction costs under this section for that year of assessment or any stamp duty relief under section 15A of the Stamp Duties Act; and
+(iii) where the subject acquisition is made by an acquiring subsidiary and, on the date of the acquisition, the acquiring subsidiary is indirectly owned by the acquiring company through one or more intermediate companies, every such intermediate company satisfies the conditions in subsection (16C);
 
-(C) is on that date wholly owned by the acquiring company —
+(iv) the target company, or a subsidiary that is wholly owned by the target company whether directly or indirectly, satisfies the conditions in subsection (16D);
 
-(CA)
+(v) the conditions prescribed under subsection (16E) are satisfied; and
 
-directly, in the case of a qualifying acquisition the date of which is before 17th February 2012; and
+(vi) the conditions in paragraph (c) are also satisfied in relation to a qualifying acquisition referred to in subsection (4A)(a).
 
-(CB)
+[Act 2 of 2016 wef 01/04/2015]
 
-whether directly or indirectly, in the case of a qualifying acquisition the date of which is on or after 17th February 2012;
+(16A) The conditions in subsection (16)(a)(i), (b)(i), (c)(i) and (d)(i) are —
 
-(iia) where the acquisition is made by the acquiring subsidiary and, on the date of the acquisition of the shares (being a date on or after 17th February 2012), the acquiring subsidiary is indirectly owned by the acquiring company through one or more intermediate companies, every such intermediate company —
+(a) the acquiring company is carrying on a trade or business in Singapore on the date of the acquisition of the shares;
 
-(A) is wholly owned (whether directly or indirectly) by the acquiring company on that date;
+(b) the acquiring company has in its employment at least 3 local employees at all times during the period of 12 months immediately before that date;
 
-(B) is incorporated for the primary purpose of acquiring and holding shares in other companies;
+(c) unless otherwise prescribed under subsection (24), the acquiring company is not connected to the target company for at least 2 years immediately before that date; and
 
-(C) does not carry on a trade or business in Singapore or elsewhere on that date; and
+(d) in a case where the acquiring company is a subsidiary of another company within the meaning of section 5 of the Companies Act (Cap. 50), the acquiring company has a Singapore company as its ultimate holding company on that date.
 
-(D) does not claim any deduction for any capital expenditure or transaction costs under this section for that year of assessment or any stamp duty relief under section 15A of the Stamp Duties Act;
+[Act 2 of 2016 wef 01/04/2015]
 
-(iii) the target company, or a subsidiary wholly owned by the target company (directly, in the case of a qualifying acquisition the date of which is before 17th February 2012; or whether directly or indirectly, in the case of a qualifying acquisition the date of which is on or after 17th February 2012) —
+(16B) The conditions in subsection (16)(a)(ii), (b)(ii), (c)(ii) and (d)(ii) are —
 
-(A) carries on a trade or business on the date of the acquisition of the shares; and
+(a) the acquiring subsidiary does not carry on a trade or business in Singapore or elsewhere on the date of the acquisition of the shares;
 
-(B) has in its employment at least 3 employees at all times during the period of 12 months immediately before that date; and
+(b) the acquiring subsidiary does not claim any deduction for any capital expenditure or transaction costs under this section for that year of assessment or any stamp duty relief under section 15A of the Stamp Duties Act (Cap. 312); and
 
-(iv) the circumstances specified in paragraph (a) are also satisfied in relation to —
+(c) the acquiring subsidiary is on that date wholly owned by the acquiring company —
 
-(A) in the case of a deduction for a qualifying acquisition referred to in subsection (4)(b), a qualifying acquisition referred to in subsection (4)(a); and
+(i) directly, in the case of subsection (16)(a)(ii) or (b)(ii) where the date of the qualifying acquisition is before 17 February 2012; and
 
-(B) in the case of a deduction for a qualifying acquisition referred to in subsection (4)(d), a qualifying acquisition referred to in subsection (4)(c).
+(ii) whether directly or indirectly, in every other case.
 
-[29/2010; 22/2011; 29/2012]
+[Act 2 of 2016 wef 01/04/2015]
+
+(16C) The conditions in subsection (16)(a)(iii), (b)(iii), (c)(iii) and (d)(iii) are —
+
+(a) the intermediate company is wholly owned (whether directly or indirectly) by the acquiring company on the date of the acquisition of the shares;
+
+(b) the intermediate company is incorporated for the primary purpose of acquiring and holding shares in other companies;
+
+(c) the intermediate company does not carry on a trade or business in Singapore or elsewhere on that date; and
+
+(d) the intermediate company does not claim any deduction for any capital expenditure or transaction costs under this section for that year of assessment or any stamp duty relief under section 15A of the Stamp Duties Act.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(16D) The conditions in subsection (16)(a)(iv), (b)(iv), (c)(iv) and (d)(iv) are —
+
+(a) the target company or the subsidiary carries on a trade or business in Singapore or elsewhere on the date of the acquisition of the shares; and
+
+(b) the target company or the subsidiary has in its employment at least 3 employees at all times during the period of 12 months immediately before that date.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(16E) For the purposes of subsection (16)(c)(v) and (d)(v), the Minister may by regulations prescribe such conditions as the Minister considers necessary to ensure that the acquiring company or acquiring subsidiary is not merely a passive shareholder of the target company, including requiring the company or subsidiary to exert significant influence (within the meaning of FRS 28, or SFRS for Small Entities, as amended from time to time) over the target company.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(16F) In subsection (16E) —
+
+“FRS 28” means the financial reporting standard known as Financial Reporting Standard 28 (Investments in Associates and Joint Ventures) issued by the Accounting Standards Council under Part III of the Accounting Standards Act (Cap. 2B);
+
+“SFRS for Small Entities” means the financial reporting standard known as Singapore Financial Reporting Standard for Small Entities made by the Accounting Standards Council under Part III of the Accounting Standards Act.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (17) No deduction in respect of any qualifying acquisition of ordinary shares in a target company shall be made to the acquiring company for the year of assessment relating to the basis period of the acquiring company in which any of the following events occurs or for any subsequent year:
 
-(a) after the date of the acquisition of the shares, the target company issues additional ordinary shares which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to 50% or less;
+(a) where the qualifying acquisition is one referred to in subsection (4) or (4A)(c), (d), (e) or (f), after the date of the acquisition of the shares, the target company issues additional ordinary shares which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to 50% or less;
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(aa) where the qualifying acquisition is one referred to in subsection (4A)(a) or (b), after the date of the acquisition of the shares, the target company issues additional ordinary shares which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to less than 20%;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (b) the acquiring company —
 
@@ -14848,9 +15179,17 @@ whether directly or indirectly, in the case of a qualifying acquisition the date
 
 (ii) ceases to have at least 3 local employees;
 
-(c) where the qualifying acquisition is one referred to in subsection (4)(a) or (b), the acquiring company or the acquiring subsidiary (as the case may be) divests of its shares in the target company which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to 50% or less, and such divestment occurs in a basis period of the acquiring company other than that for the 1st year of assessment;
+(c) where the qualifying acquisition is one referred to in subsection (4)(a) or (b) or (4A)(c) or (d), the acquiring company or the acquiring subsidiary (as the case may be) divests of its shares in the target company which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to 50% or less, and such divestment occurs in a basis period of the acquiring company other than that for the 1st year of assessment;
 
-(d) where the qualifying acquisition is one referred to in subsection (4)(c) or (d), the acquiring company or the acquiring subsidiary (as the case may be) divests of its shares in the target company which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to a percentage below 75%, and such divestment occurs in a basis period of the acquiring company other than that for the 1st year of assessment;
+[Act 2 of 2016 wef 01/04/2015]
+
+(d) where the qualifying acquisition is one referred to in subsection (4)(c) or (d) or (4A)(e) or (f), the acquiring company or the acquiring subsidiary (as the case may be) divests of its shares in the target company which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to a percentage below 75%, and such divestment occurs in a basis period of the acquiring company other than that for the 1st year of assessment;
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(da) where the qualifying acquisition is one referred to in subsection (4A)(a) or (b), the acquiring company or the acquiring subsidiary (as the case may be) divests its shares in the target company which reduces the total ownership of the acquiring company and its acquiring subsidiaries of the ordinary shares in the target company to any percentage below 20%, and such divestment occurs in a basis period of the acquiring company other than that for the 1st year of assessment;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (e) the acquiring company or, if the acquiring company is a subsidiary of another company within the meaning of section 5 of the Companies Act, its ultimate holding company, ceases to be a Singapore company; or
 
@@ -14878,15 +15217,19 @@ whether directly or indirectly, in the case of a qualifying acquisition the date
 
 (a) a deduction shall only be allowed under this section for; and
 
-(b) references in subsections (7) to (10) to any capital expenditure for a qualifying acquisition shall accordingly be read as references to,
+(b) references in subsections (7) to (10A) to any capital expenditure for a qualifying acquisition shall accordingly be read as references to,
+
+[Act 2 of 2016 wef 01/04/2015]
 
 the capital expenditure in respect of the number of such shares that corresponds to such increase.
 
 [29/2010]
 
-(19A) The Minister or such person as he may appoint may, for any particular qualifying acquisition made on or after 17th February 2012, waive the requirement in subsections (16)(a)(i)(D) and (b)(i)(D) and (17)(e) in relation to the ultimate holding company of the acquiring company, subject to such conditions that the Minister or the person he has appointed may impose.
+(19A) The Minister or such person as he may appoint may, for any particular qualifying acquisition made on or after 17th February 2012, waive the requirement in subsections (16A)(d) and (17)(e) in relation to the ultimate holding company of the acquiring company, subject to such conditions that the Minister or the person he has appointed may impose.
 
 [29/2012]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 ### Carry forward of deductions
 
@@ -14974,7 +15317,7 @@ but exclude a director as defined in section 4 of the Companies Act;
 
 [29/2010]
 
-(27) For the purposes of subsections (13) and (16) —
+(27) For the purposes of subsections (13) and (16A) —
 
 (a) a person is related to another if —
 
@@ -14989,6 +15332,8 @@ but exclude a director as defined in section 4 of the Companies Act;
 (ii) at least 75% of the total number of ordinary shares in each of the 2 companies are beneficially held, directly or indirectly, by a third company.
 
 [29/2010]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (28) For the purposes of subsections (18), (21) and (22) —
 
@@ -15960,7 +16305,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [49/2004]
 
-(3B) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any distribution made out of any income referred to in subsection (2A)(a)(i), (ii), (iii) and (iv) during the period from 18th February 2005 to 31st March 2015 (both dates inclusive) by a trustee of any real estate investment trust to a person (other than an individual) not resident in Singapore —
+(3B) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any distribution made out of any income referred to in subsection (2A)(a)(i), (ii), (iii) and (iv) during the period from 18th February 2005 to 31st March 2020 (both dates inclusive) by a trustee of any real estate investment trust to a person (other than an individual) not resident in Singapore —
 
 (a) who does not have any permanent establishment in Singapore; or
 
@@ -15970,15 +16315,19 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [Act 37 of 2014 wef 27/11/2014]
 
+[Act 2 of 2016 wef 01/04/2015]
+
 (3C) [Deleted by Act 19 of 2013]
 
-(4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
+(4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r), (ra) and (rb) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
 
 (a) an individual not resident in Singapore and whose principal place of business is situated outside Singapore; or
 
 (b) a foreign firm.
 
 [37/2002]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (5) Any individual or foreign firm to which subsection (4) applies may make an irrevocable option to be taxed under subsection (1)(b) by the 15th day of the second month following the month in which the payment of the income is liable to be made to the individual or firm.
 
@@ -16166,11 +16515,13 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (1A) No approval shall be granted under —
 
-(a) subsection (1)(a) on or after 1st April 2015; and
+(a) subsection (1)(a) on or after such date as may be prescribed; and
 
 (b) subsection (1)(b) or (ba) on or after such date as may be prescribed.
 
 [29/2010; 22/2011]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (2) In this section, “insurer” means —
 
@@ -17534,6 +17885,116 @@ or where the Minister otherwise allows such services to be considered “ship br
 
 [22/2011]
 
+### Concessionary rate of tax for income derived from managing approved venture company
+
+43ZG\.—(1) Despite section 43, tax at the rate of 5% is to be levied and paid for each year of assessment upon the management fees and performance bonus derived by an approved fund management company on or after 1 April 2015 from managing approved investments of an approved venture company under section 13H.
+
+(2) The Minister or such person as the Minister may appoint may approve a fund management company for the purposes of subsection (1) at any time between 1 April 2015 and 31 March 2020 (both dates inclusive).
+
+(3) The Minister or appointed person may, when granting the approval, impose such conditions on the fund management company as the Minister or appointed person considers appropriate.
+
+(4) The approval under subsection (2) is for a period specified by the Minister or appointed person which must not exceed 10 years, except that the Minister or appointed person may extend the period for further periods not exceeding 5 years at any one time.
+
+(5) The total period of approval of a fund management company, including —
+
+(a) every extension under subsection (4); and
+
+(b) if the fund management company had been a pioneer service company in respect of the activity of managing investments for an approved venture company under section 13H, its tax relief period for that qualifying activity,
+
+must not in total exceed 15 years.
+
+(6) In determining the amount of income subject to the concessionary rate of tax under subsection (1) —
+
+(a) the allowances under section 19, 19A, 20, 21, 22 or 23 must be taken into account even if no claim for such allowances has been made; and
+
+(b) the Comptroller must determine the manner and extent to which —
+
+(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
+
+(ii) any loss may be deducted under section 37.
+
+(7) In this section —
+
+“fund management company” means a company incorporated in Singapore that is a fund manager;
+
+“investments” has the same meaning as in section 13H(18);
+
+“pioneer service company” has the same meaning as in section 16 of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+
+“tax relief period” means the tax relief period referred to in section 18 of the Economic Expansion Incentives (Relief from Income Tax) Act.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+### Concessionary rate of tax for international growth company
+
+43ZH\.—(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 10% is to be levied and paid upon the income derived by an approved international growth company from carrying on all of its qualifying activities within a basis period, or a part of a basis period, that falls within its approval period, which in total exceeds the base amount referred to in subsection (6).
+
+(2) Subsection (1) does not apply to income from any of the activities mentioned in that subsection that is carried on on a date that falls outside of that activity’s concessionary period.
+
+(3) The Minister or such person as the Minister may appoint may, at any time between 1 April 2015 and 31 March 2020 (both dates inclusive), approve a company as an international growth company for a period not exceeding 5 years; and the approval may be given subject to such conditions as the Minister or appointed person may impose.
+
+(4) When granting the approval, the Minister or appointed person must specify for the international growth company —
+
+(a) the date of its approval and its approval period;
+
+(b) one or more qualifying activities; and
+
+(c) a concessionary period for each of those activities.
+
+(5) The Minister or appointed person may at any time during the period the international growth company remains approved specify for it —
+
+(a) one or more additional qualifying activities; and
+
+(b) a concessionary period for each of those activities.
+
+(6) The base amount referred to in subsection (1) is ascertained in accordance with the following provisions:
+
+(a) where the approved international growth company had, at any time during the period of 3 years immediately before the date of its approval, carried on one or more of the qualifying activities specified for it under subsection (4), the base amount is ascertained by the formula:
+
+where A
+
+is the total net profit before tax as shown in its audited accounts (or such other accounts as the Minister or appointed person may approve for the company) that is derived from carrying on the qualifying activity or activities during that period; and
+
+B
+
+is the actual number of months (a period of less than a month being reckoned as one month) during that period in which the qualifying activity or activities was or were carried out;
+
+(b) where the approved international growth company had not carried on any of those qualifying activities during the period of 3 years immediately before the date of its approval, the base amount is zero;
+
+(c) the Minister or appointed person may specify an amount in substitution for the amount referred to in paragraph (a) or (b).
+
+(7) The base amount determined in accordance with subsection (6) applies for the entire duration of the company’s approval period, unless the Minister or appointed person decides otherwise.
+
+(8) In determining the income of an approved international growth company from carrying on its qualifying activities —
+
+(a) the allowances under section 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 or 23 must be taken into account even though no claim for such allowances has been made; and
+
+(b) the Comptroller must determine the manner and extent to which —
+
+(i) allowances under section 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
+
+(ii) any loss may be deducted under section 37.
+
+(9) In this section —
+
+“approval period”, in relation to an approved international growth company, means the period of its approval as such a company under subsection (3);
+
+“concessionary period”, in relation to a qualifying activity of an approved international growth company, means the concessionary period specified for that activity under subsection (4) or (5);
+
+“international growth company” means a company incorporated and resident in Singapore which carries on, or which intends to carry on, a trade or business which involves —
+
+(a) the export of goods to a country outside Singapore;
+
+(b) the performance of services in a country outside Singapore; or
+
+(c) the performance of services for a person or permanent establishment outside Singapore,
+
+whether or not it also carries on or intends to carry on any other trade or business;
+
+“qualifying activity”, in relation to an approved international growth company, means an activity specified for the company under subsection (4) or (5), being one of the activities prescribed for the purposes of this section in regulations made under this section.
+
+[Act 2 of 2016 wef 01/04/2015]
+
 ## PART XII
 
 DEDUCTION OF TAX AT SOURCE
@@ -17874,11 +18335,13 @@ as that section applies to any interest paid by a person to another person not k
 
 [34/2005; 7/2007; 19/2013]
 
-(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18th February 2005 to 31st March 2015 (both dates inclusive).
+(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18 February 2005 to 31 March 2020 (both dates inclusive).
 
 [34/2005; 29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2015]
 
 (3) For the purpose of subsection (1)(b), the deduction of tax under section 45 shall be at the applicable rate specified under section 43(1) on every dollar of such distribution.
 
@@ -22838,259 +23301,269 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|22 February 2010 (Section 5(b))|
-|257.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|257.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|22 February 2010|
+|258.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|23 February 2010 (Sections 19 to 22, 26, 27, 54(a), (b), (c), (e), (f), (g), 55(a), (b), (c))|
-|258.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|259.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|23 February 2010 (Section 28)|
-|259.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|260.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item 1(20) of the Second Schedule — amendment of Income Tax Act)|
-|260.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
-||Date of First Reading|15 September 2010|
-|||(Bill No. 23/2010 published on 15 September 2010)|
-||Date of Second and Third Readings|18 October 2010|
-||Date of commencement|1 March 2010 (Sections 28(d), 33)|
 |261.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 March 2010 (Sections 28(d), 33)|
+|262.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 April 2010 (Sections 8, 10, 34, 38(a), (b), 47, 54(d), 55(d))|
-|262.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|263.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2010 (Sections 15, 35)|
-|263.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|264.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 April 2010 (Sections 33(a), (b), (d), (e), (h), (i), (j), (o), (p), (f)|
-|264.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
-||Date of First Reading|15 September 2010|
-|||(Bill No. 23/2010 published on 15 September 2010)|
-||Date of Second and Third Readings|18 October 2010|
-||Date of commencement|21 May 2010 (Section 42)|
 |265.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|21 May 2010 (Section 42)|
+|266.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|21 May 2010|
+|267.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|7 July 2010 (Section 9)|
-|266.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|268.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|7 July 2010 (Section 14(b))|
-|267.|**Act 25 of 2010—Estate Agents Act 2010**|
+|269.|**Act 25 of 2010—Estate Agents Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 August 2010|
 |||(Bill No. 19/2010 published on 16 August 2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|22 October 2010 (item 4 of the Third Schedule — amendment of Income Tax Act)|
-|268.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|270.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|22 November 2010|
-|269.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|271.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 January 2011 (Sections 28(a), (c), 43)|
-|270.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 14/2011 published on 17 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|1 January 2011 (Sections 4(a), 6(b), (e), (f), (i), 16(b), 27(a))|
-|271.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 29/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|1 January 2011 (Sections 12, 25(a) to (f), (h), (i))|
 |272.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|19 February 2011 (Section 37)|
-|273.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
-||Date of First Reading|15 September 2010|
-|||(Bill No. 23/2010 published on 15 September 2010)|
-||Date of Second and Third Readings|18 October 2010|
-||Date of commencement|1 March 2011 (Sections 7(b), (c), 44(b), 45(b), 46(b))|
+||Date of commencement|1 January 2011 (Sections 4(a), 6(b), (e), (f), (i), 16(b), 27(a))|
+|273.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 January 2011 (Sections 12, 25(a) to (f), (h), (i))|
 |274.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|19 February 2011 (Section 37)|
+|275.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 March 2011 (Sections 7(b), (c), 44(b), 45(b), 46(b))|
+|276.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2011 (Section 18, 20, 34, 38, 40)|
-|275.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|277.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|25 April 2011 (Section 41)|
-|276.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+|278.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|28 February 2011|
 |||(Bill No. 8/2011 published on 28 February 2011)|
 ||Date of Second and Third Readings|10 March 2011|
 ||Date of commencement|1 May 2011|
-|277.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 14/2011 published on 17 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|1 June 2011 (Sections 10(f), 48, 49, 69(a), 71)|
-|278.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 29/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|1 June 2011 (Sections 4, 5(a), (c), (d), (e), 9)|
 |279.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 June 2011 (Sections 10(f), 48, 49, 69(a), 71)|
+|280.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 June 2011 (Sections 4, 5(a), (c), (d), (e), 9)|
+|281.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|2 June 2011|
+|282.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 September 2011 (Section 16(a))|
-|280.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|283.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 December 2011 (Sections 2, 5, 6(g), 12, 30(j), (k), 32(a), 36(1), 39,42, 43, 45, 46, 47, 50, 51, 52, 55 to 60, 62 to 68(b), 72)|
-|281.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
+|284.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|22 November 2010|
 |||(Bill No. 36/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|11 January 2011|
 ||Date of commencement|1 January 2012|
-|282.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|285.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012 (Sections 6(a), (c), (d), 32(b))|
-|283.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 29/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|17 February 2012 (Sections 3(b), (c), (d), (e), 33(c), (f), (g), (k) to (h), (q), (r), (s), (u), (v), 42, 44)|
-|284.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
-||Date of First Reading|15 October 2012|
-|||(Bill No. 29/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|28 February 2012 (Sections 38, 39)|
-|285.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
-||Date of First Reading|21 November 2011|
-|||(Bill No. 22/2011 published on 21 November 2011)|
-||Date of Second and Third Readings|18 January 2012|
-||Date of commencement|1 March 2012 (section 4 — amendment of Income Tax Act)|
 |286.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|1 March 2012 (Section 20)|
-|287.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
-||Date of commencement|1 April 2012|
-|288.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of commencement|17 February 2012 (Sections 3(b), (c), (d), (e), 33(c), (f), (g), (k) to (h), (q), (r), (s), (u), (v), 42, 44)|
+|287.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|1 April 2012 (Sections 13, 17, 37(b))|
+||Date of commencement|28 February 2012 (Sections 38, 39)|
+|288.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 4 — amendment of Income Tax Act)|
 |289.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
-||Date of commencement|1 June 2012 (Sections 11, 51(d))|
-|290.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
-||Date of commencement|3 December 2012|
+||Date of commencement|1 March 2012 (Section 20)|
+|290.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
+||Date of commencement|1 April 2012|
 |291.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 April 2012 (Sections 13, 17, 37(b))|
+|292.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 June 2012 (Sections 11, 51(d))|
+|293.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
+||Date of commencement|3 December 2012|
+|294.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|18 December 2012 (Sections 3(a), 7, 8, 10(b), 16, 18, 22, 25(g), 26, 29, 31, 48)|
-|292.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|295.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|18 December 2012 (Section 15)|
-|293.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
+|296.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 28/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|16 November 2012|
 ||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
-|294.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+|297.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
-|295.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|298.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|25 February 2013 (Section 29, 50, 53)|
-|296.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|299.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|26 February 2013 (Section 27(b))|
-|297.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+|300.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
-|298.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|301.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 April 2013 (Section 30)|
-|299.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|302.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
-|300.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
-||Date of First Reading|16 September 2013|
-|||(Bill No. 14/2013 published on 16 September 2013)|
-||Date of Second and Third Readings|21 October 2013|
-||Date of commencement|28 June 2013 (Sections 7(b), (c), (d), (i))|
-|301.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
-||Date of First Reading|16 September 2013|
-|||(Bill No. 14/2013 published on 16 September 2013)|
-||Date of Second and Third Readings|21 October 2013|
-||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
-|302.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
-||Date of commencement|23 December 2013|
 |303.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|28 June 2013 (Sections 7(b), (c), (d), (i))|
+|304.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
+|305.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
+||Date of commencement|23 December 2013|
+|306.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 January 2014|
-|304.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+|307.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
 ||(Related amendments made to Act by)||
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
-|305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
+|308.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 March 2014|
-|306.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2014|
-|307.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|309.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|27 November 2014|
-|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|310.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
@@ -23098,13 +23571,20 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 September 2014|
 |||27 November 2014|
 |||1 January 2015|
-|309.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|311.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
 |||1 September 2014|
 |||24 February 2015|
 |||18 March 2015|
+|||1 April 2015|
+|312.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
+|||1 April 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
