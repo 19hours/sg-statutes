@@ -676,7 +676,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 ### Relief from ad valorem stamp duty for acquisition of shares of companies
 
-15A\.—(1) Subject to the provisions of this section and the prescribed conditions being fulfilled, ad valorem stamp duty under Article 3(c) in the First Schedule shall not be chargeable on any instrument executed during the period from 1st April 2010 to 31st March 2015 (both dates inclusive) for the purposes of or in connection with a qualifying acquisition of ordinary shares in a company (referred to in this section as the target company) by a Singapore company (referred to in this section as the acquiring company) or a subsidiary of the Singapore company that satisfies subsection (2) (referred to in this section as the acquiring subsidiary).
+15A\.—(1) Subject to the provisions of this section and the prescribed conditions being fulfilled, ad valorem stamp duty under Article 3(c) in the First Schedule shall not be chargeable on any instrument executed during the period from 1st April 2010 to 31st March 2020 (both dates inclusive) for the purposes of or in connection with a qualifying acquisition of ordinary shares in a company (referred to in this section as the target company) by a Singapore company (referred to in this section as the acquiring company) or a subsidiary of the Singapore company that satisfies subsection (2) (referred to in this section as the acquiring subsidiary).
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (2) For the purposes of subsection (1), the acquiring subsidiary —
 
@@ -686,11 +688,13 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (i) where the date of the acquisition is during the period from 1st April 2010 to 16th February 2012 (both dates inclusive), directly and wholly owned by the acquiring company at the date of the acquisition; and
 
-(ii) where the date of the acquisition is during the period from 17th February 2012 to 31st March 2015 (both dates inclusive), wholly owned (whether directly or indirectly) by the acquiring company at the date of the acquisition.
+(ii) where the date of the acquisition is during the period from 17th February 2012 to 31st March 2020 (both dates inclusive), wholly owned (whether directly or indirectly) by the acquiring company at the date of the acquisition.
+
+[Act 1 of 2013 wef 01/04/2010]
 
 [Act 1 of 2013 wef 22/02/2013]
 
-[Act 1 of 2013 wef 01/04/2010]
+[Act 2 of 2016 wef 01/04/2015]
 
 (2A) No instrument referred to in subsection (1) shall be deemed to be duly stamped unless —
 
@@ -702,13 +706,15 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (3) In this section, a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary is any of the following:
 
-(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
+(a) an acquisition made during the period from 1 April 2010 to 31 March 2015 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
 
 [Act 1 of 2013 wef 01/04/2010]
 
+[Act 2 of 2016 wef 01/04/2015]
+
 (b) [Deleted by Act 23/2011 wef 01/04/2010];
 
-(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+(c) an acquisition made during the period from 1 April 2010 to 31 March 2015 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
 
 (i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
 
@@ -720,9 +726,17 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [Act 1 of 2013 wef 22/02/2013]
 
-(d) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (a) or (c), as the case may be, occurs.
+[Act 2 of 2016 wef 01/04/2015]
+
+(d) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (a);
 
 [23/2011 wef 01/04/2010]
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(e) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (c) occurs and is before 1 April 2016.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (4) For the purposes of subsection (3), the qualifying period shall be determined as follows:
 
@@ -736,23 +750,125 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [Act 1 of 2013 wef 01/04/2010]
 
-(5) [Deleted by Act 23/2011 wef 01/04/2010]
+(5) In this section, each of the following is also a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary:
 
-(6) [Deleted by Act 23/2011 wef 01/04/2010]
+(a) an acquisition made during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total 20% or more but 50% or less of the total number of ordinary shares in the target company where —
 
-(7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
+(i) before the date of the acquisition, such total ownership was less than 20% of the total number of ordinary shares in the target company; and
 
-[23/2011 wef 01/04/2010]
+(ii) in the financial year of the acquiring company in which the date of the acquisition falls, there is no acquisition referred to in paragraph (b);
 
-[Act 1 of 2013 wef 01/04/2010]
+(b) an acquisition made during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
 
-(8) Subject to the rules made under subsection (18), where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to it for each of the following periods shall not exceed $200,000:
+(c) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (a) or (b), as the case may be, occurs;
+
+(d) an acquisition made on or after 1 April 2015 but before 1 April 2016 that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+
+(i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company;
+
+(ii) in the financial year of the acquiring company in which the date of the acquisition falls, there is no acquisition referred to in paragraph (a) or (b); and
+
+(iii) before 1 April 2015 and not earlier than 12 months before the acquisition, the acquiring company or its acquiring subsidiary had made an acquisition of ordinary shares of any amount in the target company;
+
+(e) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (d) occurs, and is before 1 April 2016.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(6) For the purposes of subsection (5)(c) and (e), the qualifying period is determined as follows:
+
+(a) in the first instance, the qualifying period is the financial year of the acquiring company in which the acquisition referred to in subsection (5)(a), (b) or (d) (as the case may be) occurs;
+
+(b) where the other acquisition referred to in subsection (5)(c) or (e) relates to an acquisition in subsection (5)(b) or (d) and the acquisition referred to in subsection (5)(b) (if applicable) occurs before 1 April 2016, the acquiring company may elect, in such form and manner and within such time as the Commissioner may specify (which must be after the financial year referred to in paragraph (a)), to replace the qualifying period referred to in paragraph (a) with a prescribed period (which must be a period within which the acquisition referred to in subsection (5)(b) or (d) (as the case may be) occurs);
+
+(c) where the acquiring company claims a deduction under section 37L of the Income Tax Act (Cap. 134) in connection with the acquisition referred to in subsection (5)(a), (b) or (d) (as the case may be), then the qualifying period is, instead of the period referred to in paragraph (a) or (b) (as the case may be), the same period as that for which acquisitions are qualifying acquisitions for the purposes of its claim under section 37L of that Act.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(7) The maximum amount of relief from duty to be allowed under subsection (1) with respect to all qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company is determined in accordance with subsections (8) to (8F).
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8) Subject to subsection (8A), where the qualifying acquisitions in the financial year —
+
+(a) include an acquisition mentioned in subsection (3)(a) or (c); and
+
+(b) does not include an acquisition mentioned in subsection (5)(a), (b) or (d),
+
+the maximum amount of relief from duty allowed is $200,000.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8A) Where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to the acquiring company with respect to all the acquisitions to which subsection (8) applies for each of the following periods must not exceed $200,000:
 
 (a) the first 12 months of that financial year;
 
 (b) the remaining period of that financial year.
 
-[23/2011 wef 01/04/2010]
+[Act 2 of 2016 wef 01/04/2015]
+
+(8B) Subject to subsection (8C), where the qualifying acquisitions in the financial year —
+
+(a) include an acquisition mentioned in subsection (5)(a), (b) or (d); and
+
+(b) does not include an acquisition mentioned in subsection (3)(a) or (c),
+
+the maximum amount of relief from duty allowed is $40,000.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8C) Where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to the acquiring company with respect to all the acquisitions to which subsection (8B) applies for each of the following periods must not exceed $40,000:
+
+(a) the first 12 months of that financial year;
+
+(b) the remaining period of that financial year.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8D) For the purposes of subsection (8), where subsection (4)(b) or (c) applies, the qualifying acquisitions to which subsection (8) applies are treated as occurring in the financial year of the acquiring company in which the acquisitions referred to in subsection (8)(a) occur.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8E) For the purposes of subsection (8B), where subsection (6)(b) or (c) applies, the qualifying acquisitions to which subsection (8B) applies are treated as occurring in the financial year of the acquiring company in which the acquisitions referred to in subsection (8B)(a) occur.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8F) Where the qualifying acquisitions in the financial year —
+
+(a) include an acquisition mentioned in subsection (3)(a) or (c); and
+
+(b) include an acquisition mentioned in subsection (5)(a), (b) or (d),
+
+the maximum amount of relief from duty allowed is
+
+where A
+
+is the lesser of —
+
+(i)
+
+the total amount of ad valorem stamp duty chargeable on all of those qualifying acquisitions that are acquisitions mentioned in subsection (3); and
+
+(ii)
+
+$200,000, and
+
+B
+
+is the lesser of —
+
+(i)
+
+the total amount of ad valorem stamp duty chargeable on all of those qualifying acquisitions that are acquisitions mentioned in subsection (5); and
+
+(ii)
+
+the balance after deducting A from $40,000 or, if the balance is negative, zero.
+
+[Act 2 of 2016 wef 01/04/2015]
+
+(8G) Subsections (8) to (8F) are subject to the rules made under subsection (18).
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (9) For the purposes of subsection (1), where the acquiring company or the acquiring subsidiary, as the case may be, and the target company are part of the same group of companies on the date of a qualifying acquisition of ordinary shares in the target company by the acquiring company or the acquiring subsidiary, as the case may be, no relief from duty shall be allowed for the instrument in question unless the acquisition would result in an increase in the total number of ordinary shares in the target company held on that date by all the companies in the group, excluding the target company.
 
@@ -760,27 +876,33 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (11) Where an acquiring company or an acquiring subsidiary has paid ad valorem stamp duty on a qualifying acquisition of ordinary shares in a target company (referred to in this subsection as a relevant qualifying acquisition), the acquiring company may apply under section 75 for a refund of the duty so paid in relation to the relevant qualifying acquisition; and section 75 shall apply with the following modifications:
 
-(a) where the qualifying period is the period referred to in subsection (4)(a), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to —
+(a) where the qualifying period is the period referred to in subsection (4)(a) or (6)(a), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to —
 
 (i) the date of the relevant qualifying acquisition; or
 
-(ii) the date of the acquisition referred to in subsection (3)(a) or (c) (as the case may be) that occurred in the same qualifying period as the relevant qualifying acquisition,
+(ii) the date of the acquisition referred to in subsection (3)(a) or (c) or (5)(a), (b) or (d) (as the case may be) that occurred in the same qualifying period as the relevant qualifying acquisition,
 
 whichever is the later;
 
 [Act 30 of 2014 wef 01/01/2015]
 
-(b) where the qualifying period is the period referred to in subsection (4)(b), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to the last day of the financial year that is replaced by the prescribed period elected under subsection (4)(b);
+[Act 2 of 2016 wef 01/04/2015]
+
+(b) where the qualifying period is the period referred to in subsection (4)(b) or (6)(b), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to the last day of the financial year that is replaced by the prescribed period elected under subsection (4)(b) or (6)(b);
 
 [Act 30 of 2014 wef 01/01/2015]
 
-(c) where the qualifying period is the period referred to in subsection (4)(c), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to the date of lodgment of the return of income by the acquiring company under section 37L(6) of the Income Tax Act.
+[Act 2 of 2016 wef 01/04/2015]
+
+(c) where the qualifying period is the period referred to in subsection (4)(c) or (6)(c), the reference to the date of the overpayment in section 75(1)(a) shall be read as a reference to the date of lodgment of the return of income by the acquiring company under section 37L(6) of the Income Tax Act.
 
 [23/2011 wef 01/04/2010]
 
 [Act 30 of 2014 wef 01/01/2015]
 
-(11A) Where, as a result of a change in the qualifying period pursuant to subsection (4)(b) or (c), a qualifying acquisition ceases to be a qualifying acquisition, the ad valorem stamp duty on the instrument for the acquisition shall be payable to the Commissioner in such manner and within such time after such cessation as the Commissioner may specify, together with interest referred to in subsection (13), by —
+[Act 2 of 2016 wef 01/04/2015]
+
+(11A) Where, as a result of a change in the qualifying period pursuant to subsection (4)(b) or (c) or (6)(b) or (c), a qualifying acquisition ceases to be a qualifying acquisition, the ad valorem stamp duty on the instrument for the acquisition shall be payable to the Commissioner in such manner and within such time after such cessation as the Commissioner may specify, together with interest referred to in subsection (13), by —
 
 (a) in the case where the ordinary shares in the target company are acquired by the acquiring company, the acquiring company; and
 
@@ -789,6 +911,8 @@ whichever is the later;
 and shall be recoverable as a debt due to the Government.
 
 [23/2011 wef 01/04/2010]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (12) Where any claim by an acquiring company for relief from duty under this section has been allowed for an instrument and it is subsequently found that —
 
@@ -850,9 +974,11 @@ the claim shall be deemed to have been disallowed and an amount equal to the amo
 
 (18) The Minister may, by rules, make provision for the following:
 
-(a) to modify the provisions of this section in their application to a case where subsection (4)(b) or (c) applies, including deeming the dates of specified acquisitions of ordinary shares in the target company as falling within a specified financial year for the purposes of the application of subsections (7) and (8);
+(a) to modify the provisions of this section in their application to a case where subsection (4)(b) or (c) or (6)(b) or (c) applies, including deeming the dates of specified acquisitions of ordinary shares in the target company as falling within a specified financial year for the purposes of the application of subsections (7) and (8);
 
 [23/2011 wef 01/04/2010]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (b) prescribing the conditions precedent and conditions subsequent for the purpose of claiming relief from duty on any instrument under this section;
 
@@ -866,13 +992,25 @@ the claim shall be deemed to have been disallowed and an amount equal to the amo
 
 (f) generally for giving full effect to or for carrying out the purposes of this section.
 
+(18A) Without affecting the generality of subsection (18)(b), the Minister may, in the case of a qualifying acquisition referred to in subsection (5), prescribe such conditions as the Minister considers necessary to ensure that the acquiring company or acquiring subsidiary is not merely a passive shareholder of the target company, including requiring the company or subsidiary to exert significant influence (within the meaning of FRS 28, or SFRS for Small Entities, as amended from time to time) over the target company.
+
+[Act 2 of 2016 wef 01/04/2015]
+
 (19) In this section —
 
 “financial year”, in relation to a company, means the period in respect of which any profit and loss account of the company laid before it in general meeting is made up, whether that period is a year or not;
 
+“FRS 28” means the financial reporting standard known as Financial Reporting Standard 28 (Investments in Associates and Joint Ventures) made by the Accounting Standards Council under Part III of the Accounting Standards Act (Cap. 2B);
+
+[Act 2 of 2016 wef 01/04/2015]
+
 “group of companies” means 2 or more companies each of which is either a holding company or subsidiary of the other or any of the others;
 
 “holding company” and “subsidiary” have the same meanings as in section 5 of the Companies Act (Cap. 50);
+
+“SFRS for Small Entities” means the financial reporting standard known as Singapore Financial Reporting Standard for Small Entities made by the Accounting Standards Council under Part III of the Accounting Standards Act;
+
+[Act 2 of 2016 wef 01/04/2015]
 
 “Singapore company” means a company which is incorporated in Singapore and resident in Singapore within the meaning of section 2(1) of the Income Tax Act (Cap. 134).
 
@@ -4252,6 +4390,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of First Reading|8 September 2014 (Bill No. 27/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 January 2015|
+|72.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+||Date of First Reading|25 January 2016|
+|||(Bill No. 3/2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
