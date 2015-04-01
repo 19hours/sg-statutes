@@ -128,7 +128,9 @@ An Act to provide for the regulation of public entertainments and meetings.
 
 “specified establishment” means —
 
-(a) any place or premises in respect of which a public house licence is granted under section 74(1)(a) of the Customs Act (Cap. 70); or
+(a) any place or premises in respect of which such liquor licence as may be prescribed is granted under the Liquor Control (Supply and Consumption) Act 2015; or
+
+[Act 5 of 2015 wef 01/04/2015]
 
 (b) an amusement centre, a billiard saloon, a computer games centre or any other similar establishment.
 
@@ -892,6 +894,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|8 September 2014 (Bill No. 29/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 January 2015|
+|17.|**Act 5 of 2015—Liquor Control (Supply and Consumption) Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|30 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
