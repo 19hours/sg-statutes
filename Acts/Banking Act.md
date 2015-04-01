@@ -3754,7 +3754,9 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (a) [Deleted by Act 23/2008 wef 20/10/2008]
 
-(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222); or
+(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act 2015; or
+
+[Act 2 of 2015 wef 01/04/2015]
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108).
 
@@ -4835,6 +4837,10 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|2 January 2014|
 |||(Section 67(1))|
+|36.|**Act 2 of 2015—Pawnbrokers Act 2015**|
+||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
+||Date of Second and Third Readings|19 January 2015|
+||Date of commencement|1 April 2015|
 ## COMPARATIVE TABLE
 
 Banking Act
