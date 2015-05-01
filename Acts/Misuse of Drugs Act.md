@@ -2224,7 +2224,9 @@ CLASS A DRUGS
 
 including any salt or stereoisomeric form of the above compounds, and any preparation or product containing the above compounds, for example:
 
-(1) 1-(1,3-Benzodioxol-5-yl)-2-(dimethylamino)-1-propanone (also known as Bk-MDDMA)
+(1) 1-(1,3-Benzodioxol-5-yl)-2-(dimethylamino)-1-propanone (also known as bk-MDDMA)
+
+[S 254/2015 wef 01/05/2015]
 
 (2) 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)propan-1-one (also known as ethylone)
 
@@ -2240,11 +2242,27 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (8) 1-(1,3-Benzodioxol-5-yl)-2-(pyrrolidin-1-yl)propan-1-one (also known as MDPPP)
 
+(8A) 1-(4-Bromophenyl)-2-(methylamino)propan-1-one (also known as 4-Bromomethcathinone or Brephedrone or 4-BMC)
+
+[S 254/2015 wef 01/05/2015]
+
+(8B) 1-(4-Chlorophenyl)-2-(methylamino)propan-1-one (also known as 4-Chloromethcathinone or Clephedrone or 4-CMC)
+
+[S 254/2015 wef 01/05/2015]
+
 (9) 2-(Dimethylamino)-1-phenylpropan-1-one (also known as metamfepramone or dimethylcathinone)
 
-(10) 1-(Dimethylphenyl)-2-(methylamino)propan-1-one (also known as dimethylmethcathinone)
+(10) 1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-one (also known as 3,4-Dimethylmethcathinone or 3,4-DMMC)
 
-(11) 2-(Ethylamino)-1-(methylphenyl)propan-1-one (also known as methylethcathinone)
+[S 254/2015 wef 01/05/2015]
+
+(10A) 2-(Ethylamino)-1-(4-fluorophenyl)propan-1-one (also known as 4-Fluoroethcathinone or 4-FEC)
+
+[S 254/2015 wef 01/05/2015]
+
+(11) 2-(Ethylamino)-1-(4-methylphenyl)propan-1-one (also known as 4-Methylethcathinone or 4-MEC)
+
+[S 254/2015 wef 01/05/2015]
 
 (12) 2-(Ethylamino)-1-phenylbutan-1-one (also known as N-ethylbuphedrone)
 
@@ -2252,9 +2270,21 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (14) 2-(Ethylamino)-1-phenylpropan-1-one (also known as ethcathinone)
 
-(15) 1-(Fluorophenyl)-2-(methylamino)propan-1-one (also known as fluoromethcathinone)
+(14A) 1-(4-Ethylphenyl)-2-(methylamino)propan-1-one (also known as 4-Ethylmethcathinone or 4-EMC)
 
-(16) 1-(Methoxyphenyl)-2-(methylamino)propan-1-one (also known as methoxymethcathinone)
+[S 254/2015 wef 01/05/2015]
+
+(15) 1-(4-Fluorophenyl)-2-(methylamino)propan-1-one (also known as 4-Fluoromethcathinone or Flephedrone or 4-FMC)
+
+[S 254/2015 wef 01/05/2015]
+
+(15A) 1-(4-Fluorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one (also known as 4-Fluoro-α-PVP)
+
+[S 254/2015 wef 01/05/2015]
+
+(16) 1-(4-Methoxyphenyl)-2-(methylamino)propan-1-one (also known as 4-Methoxymethcathinone or Methedrone or bk-PMMA or PMMC)
+
+[S 254/2015 wef 01/05/2015]
 
 (17) 1-(4-Methoxyphenyl)-2-(pyrrolidin-1-yl)propan-1-one (also known as MOPPP)
 
@@ -2264,7 +2294,9 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (20) 2-(Methylamino)-1-phenylpropan-1-one (also known as methcathinone)
 
-(21) 1-(Methylphenyl)-2-(methylamino)propan-1-one (also known as methylmethcathinone)
+(21) 1-(4-Methylphenyl)-2-(methylamino)propan-1-one (also known as 4-Methylmethcathinone or Mephedrone or 4-MMC)
+
+[S 254/2015 wef 01/05/2015]
 
 (22) 1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)butan-1-one (also known as MPBP)
 
@@ -2292,25 +2324,67 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 18. The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
 
-(1) N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide (also known as APINACA)
+(1) N-(1-Adamantyl)-5-fluoropentyl-1H-indazole-3-carboxamide (also known as 5-Fluoro-APINACA or 5F-AKB48) and its fluoro positional isomers in the pentyl group
+
+[S 254/2015 wef 01/05/2015]
+
+(1A) N-(1-Adamantyl)-5-fluoropentyl-1H-indole-3-carboxamide (also known as 5-Fluoro-APICA or STS-135) and its fluoro positional isomers in the pentyl group
+
+[S 254/2015 wef 01/05/2015]
+
+(1B) N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide (also known as APINACA)
+
+[S 254/2015 wef 01/05/2015]
 
 (2) N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide (also known as APICA)
+
+(2A) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as AB-FUBINACA) and its fluoro positional isomers in the phenyl ring
+
+[S 254/2015 wef 01/05/2015]
+
+(2B) 4-(2-Aminopropyl)benzofuran (also known as 4-APB)
+
+[S 254/2015 wef 01/05/2015]
 
 (3) 5-(2-Aminopropyl)benzofuran (also known as 5-APB)
 
 (4) 6-(2-Aminopropyl)benzofuran (also known as 6-APB or BenzoFury)
 
+(4A) 7-(2-Aminopropyl)benzofuran (also known as 7-APB)
+
+[S 254/2015 wef 01/05/2015]
+
+(4B) 4-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 4-APDB)
+
+[S 254/2015 wef 01/05/2015]
+
 (5) 5-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 5-APDB)
 
 (6) 6-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 6-APDB)
+
+(6A) 7-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 7-APDB)
+
+[S 254/2015 wef 01/05/2015]
+
+(6B) 2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25B-NBOMe)
+
+[S 254/2015 wef 01/05/2015]
 
 (7) 17-Carboxy-16,17-dihydromitragynine
 
 (8) 16-Carboxymitragynine
 
+(8A) 2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25C-NBOMe)
+
+[S 254/2015 wef 01/05/2015]
+
 (9) 17-O-Desmethyl-16,17-dihydromitragynine
 
 (10) 9-O-Desmethylmitragynine
+
+(10A) 3,4-Dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide (also known as AH-7921) and its dichloro positional isomers in the phenyl ring
+
+[S 254/2015 wef 01/05/2015]
 
 (11) 2,3-Dihydro-1H-inden-2-amine (also known as 2-Aminoindane)
 
@@ -2322,6 +2396,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (15) {4-[2,6-Dimethoxy-4-(2-methyloctan-2-yl)phenyl]-6,6-dimethyl-bicyclo[3.1.1]hept-2-en-2-yl}methanol
 
+(15A) 2-(2,5-Dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25H-NBOMe)
+
+[S 254/2015 wef 01/05/2015]
+
 (16) 6,6-Dimethyl-3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1,9-diol
 
 (17) N,N-Dimethyl-1-phenylpropan-2-amine (also known as N,N-dimethylamphetamine)
@@ -2330,11 +2408,17 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (19) 2-Diphenylmethylpiperidine (also known as desoxypipradrol)
 
-(20) [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as XLR-11 or 5-fluoro UR-144)
+(20) [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as XLR-11 or 5-Fluoro-UR-144) and its fluoro positional isomers in the pentyl group
 
-(21) 1-(Fluorophenyl)piperazine
+[S 254/2015 wef 01/05/2015]
 
-(22) 1-(Fluorophenyl)propan-2-amine
+(21) 1-(4-Fluorophenyl)piperazine (also known as 4-Fluorophenylpiperazine or 4-FPP) and its fluoro positional isomers in the phenyl ring
+
+[S 254/2015 wef 01/05/2015]
+
+(22) 1-(4-Fluorophenyl)propan-2-amine (also known as 4-Fluoroamphetamine or 4-FA) and its fluoro positional isomers in the phenyl ring
+
+[S 254/2015 wef 01/05/2015]
 
 (23) 1-Hydroxy-6,6-dimethyl-3-(2-methyloctan-2-yl)-6,6a,7,8,10,10a-hexahydro-9H-benzo[c]chromen-9-one
 
@@ -2346,13 +2430,23 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (27) 7-Hydroxymitragynine
 
+(27A) 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25I-NBOMe)
+
+[S 254/2015 wef 01/05/2015]
+
 (28) 2-(3-Methoxyphenyl)-2-(N-ethylamino)cyclohexanone (also known as methoxetamine)
 
-(29) N-Methyl-1-(fluorophenyl)propan-2-amine
+(29) N-Methyl-1-(4-fluorophenyl)propan-2-amine (also known as 4-Fluoromethamphetamine or 4-FMA) and its fluoro positional isomers in the phenyl ring
 
-(30) N-Methyl-1-(methoxyphenyl)propan-2-amine
+[S 254/2015 wef 01/05/2015]
 
-(31) N-Methyl-1-(methylphenyl)propan-2-amine
+(30) N-Methyl-1-(4-methoxyphenyl)propan-2-amine (also known as 4-Methoxymethamphetamine or para-Methoxymethamphetamine or PMMA) and its methoxy positional isomers in the phenyl ring
+
+[S 254/2015 wef 01/05/2015]
+
+(31) N-Methyl-1-(4-methylphenyl)propan-2-amine (also known as 4-Methylmethamphetamine or 4-MMA) and its methyl positional isomers in the phenyl ring
+
+[S 254/2015 wef 01/05/2015]
 
 (32) (N-Methyl-4-phenylpiperidin-4-yl)propanoate (also known as desmethylprodine)
 
@@ -2367,6 +2461,18 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (37) 5-[3-(1-Naphthoyl)-1H-indol-1-yl]pentanenitrile (also known as AM-2232)
 
 (38) (1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (also known as UR-144)
+
+(38A) Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate (also known as BB-22 or QUCHIC)
+
+[S 254/2015 wef 01/05/2015]
+
+(38B) Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (also known as 5-Fluoro-PB-22 or 5-Fluoro-QUPIC) and its fluoro positional isomers in the pentyl group
+
+[S 254/2015 wef 01/05/2015]
+
+(38C) Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (also known as PB-22 or QUPIC)
+
+[S 254/2015 wef 01/05/2015]
 
 (39) Salvinorin A
 
@@ -3636,37 +3742,43 @@ Temporarily listed drugs
 
 The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
 
-(1) N-(1-Adamantyl)-5-fluoropentyl-1H-indazole-3-carboxamide (also known as 5-Fluoro-APINACA or 5F-AKB48)
+(1) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as MAB-CHMINACA)
 
-(2) N-(1-Adamantyl)-5-fluoropentyl-1H-indole-3-carboxamide (also known as 5-Fluoro-APICA or STS-135)
+(2) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-ADB-PINACA) and its fluoro positional isomers in the pentyl group
 
-(3) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as AB-FUBINACA)
+(3) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as ADB-PINACA)
 
-(4) 4-(2-Aminopropyl)benzofuran (also known as 4-APB)
+(4) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-chloropentyl)-1H-indazole-3-carboxamide (also known as 5-Chloro-AB-PINACA) and its chloro positional isomers in the pentyl group
 
-(5) 7-(2-Aminopropyl)benzofuran (also known as 7-APB)
+(5) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as AB-CHMINACA)
 
-(6) 4-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 4-APDB)
+(6) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-AB-PINACA) and its fluoro positional isomers in the pentyl group
 
-(7) 7-(2-Aminopropyl)-2,3-dihydrobenzofuran (also known as 7-APDB)
+(7) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as AB-PINACA)
 
-(8) 2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25B-NBOMe)
+(8) N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as PX-2) and its fluoro positional isomers in the pentyl group
 
-(9) 2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25C-NBOMe)
+(9) N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (also known as PX-1) and its fluoro positional isomers in the pentyl group
 
-(10) 2-(2,5-Dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25H-NBOMe)
+(10) 1-(1-Benzofuran-5-yl)-N-ethylpropan-2-amine (also known as 5-EAPB) and its 4-yl, 6-yl and 7-yl isomers
 
-(11) 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25I-NBOMe)
+(11) 2-(2,5-Dimethoxyphenyl)ethanamine (also known as 2C-H) and its dimethoxy positional isomers in the phenyl ring
 
-(11A) Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate (also known as BB-22 or QUCHIC)
+(12) 1-(1H-Indol-3-yl)propan-2-amine (also known as α-Methyltryptamine)
 
-[S 572/2014 wef 01/09/2014]
+(13) 1-(1H-Indol-5-yl)propan-2-amine (also known as 5-IT) and its 4-yl, 6-yl and 7-yl isomers
 
-(12) Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (also known as 5-Fluoro-PB-22 or 5-Fluoro-QUPIC)
+(14) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (also known as 2C-I) and its dimethoxy and iodo positional isomers in the phenyl ring
 
-(13) Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (also known as PB-22 or QUPIC)
+(15) N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)prop-2-en-1-amine (also known as 5-MeO-DALT)
 
-[S 323/2014 wef 01/05/2014]
+(16) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as MDMB-CHMINACA)
+
+(17) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as MA-CHMINACA)
+
+(18) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as 5-Fluoro-AMB) and its fluoro positional isomers in the pentyl group
+
+[S 254/2015 wef 01/05/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -3840,6 +3952,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 July 2014|
 |52.|**G.N. No. S 572/2014—Misuse of Drugs Act (Amendment of First, Third and Fifth Schedules) Order 2014**|
 ||Date of commencement|1 September 2014|
+|53.|**G.N. No. S 254/2015—Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2015**|
+||Date of commencement|1 May 2015|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
