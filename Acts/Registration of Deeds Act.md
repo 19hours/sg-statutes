@@ -114,7 +114,9 @@ An Act relating to the registration of deeds.
 
 “land” means —
 
-(a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the use and enjoyment of the proprietor, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
+(a) the surface of any defined parcel of the earth, so much of the subterranean space below the surface and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the use and enjoyment of the proprietor, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
+
+[Act 11 of 2015 wef 08/05/2015]
 
 (b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,
 
@@ -617,3 +619,7 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|6.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
