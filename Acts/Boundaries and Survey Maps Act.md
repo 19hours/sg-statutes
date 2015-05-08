@@ -24,7 +24,7 @@
 
 - [7 Co-ordinated cadastre](#Co-ordinated-cadastre)
 
-- [8 (Repealed)](#Repealed)
+- [8 Bench marks deemed conclusive evidence of height, etc.](#Bench-marks-deemed-conclusive-evidence-of-height-etc)
 
 - [9 Notice to clear boundary line](#Notice-to-clear-boundary-line)
 
@@ -100,6 +100,10 @@ PRELIMINARY
 
 “Authority” means the Singapore Land Authority established under the Singapore Land Authority Act (Cap. 301);
 
+“bench mark” means any survey control mark in Singapore that is used as vertical control to determine the vertical distance between the Singapore Height Datum and a survey point above or below;
+
+[Act 11 of 2015 wef 08/05/2015]
+
 “boundary mark” includes any survey stone, iron pipe, spike, or other survey mark authorised by law for the purpose of marking boundaries;
 
 “cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
@@ -144,9 +148,15 @@ PRELIMINARY
 
 “repealed Act” means the Boundaries and Survey Maps Act (Cap. 25, 1985 Ed.) in force immediately before 16th October 1998;
 
+“Singapore Height Datum” means the fixed datum surface set at 0.000 metres of Singapore’s historical mean sea level;
+
+[Act 11 of 2015 wef 08/05/2015]
+
 “strata title plan” has the same meaning as in the Land Titles (Strata) Act (Cap. 158);
 
-“survey control mark” means any survey mark placed under the supervision of the Chief Surveyor the horizontal position or height of which is determined;
+“survey control mark” means any survey mark placed under the supervision of the Chief Surveyor the horizontal position or vertical distance from the Singapore Height Datum which is determined, and includes a bench mark;
+
+[Act 11 of 2015 wef 08/05/2015]
 
 “survey officer” means any person authorised by the Chief Surveyor to carry out a cadastral survey for any parcel of land;
 
@@ -260,9 +270,11 @@ SURVEY
 
 [37/2004]
 
-Notice to secure attendance for certain purposes
+### Bench marks deemed conclusive evidence of height, etc.
 
-8\. [Repealed by Act 37 of 2004]
+8\. Every bench mark placed under the supervision of the Chief Surveyor in accordance with this Act is conclusive evidence for the purposes of determining the vertical distance between the Singapore Height Datum and any survey point above or below.
+
+[Act 11 of 2015 wef 08/05/2015]
 
 ### Notice to clear boundary line
 
@@ -620,19 +632,14 @@ This Legislative History is provided for the convenience of users of the Boundar
 
 ||||
 |:-|:-|:-|
-|1.|**Act 8 of 1884—Boundaries and Survey Maps Act 1884**|
-||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|21 November 1884|
-|2.|**1985 Revised Edition—Boundaries and Survey Maps Act**|
-||Date of operation|30 March 1987|
-|3.|**Act 35 of 1998—Boundaries and Survey Maps Act 1998**|
+|1.|**Act 35 of 1998—Boundaries and Survey Maps Act 1998**|
 ||Date of First Reading|31 July 1998|
 |||(Bill No. 32/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|4 September 1998|
 ||Date of commencement|16 October 1998|
-|4.|**1999 Revised Edition—Boundaries and Survey Maps Act**|
+|2.|**1999 Revised Edition—Boundaries and Survey Maps Act**|
 ||Date of operation|30 December 1999|
-|5.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+|3.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 March 2001|
 |||(Bill No. 17/2001 published on|
@@ -641,7 +648,7 @@ This Legislative History is provided for the convenience of users of the Boundar
 |||7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
-|6.|**Act 37 of 2004—Land Surveyors (Amendment) Act 2004**|
+|4.|**Act 37 of 2004—Land Surveyors (Amendment) Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|1 September 2004|
 |||(Bill No. 36/2004 published on|
@@ -650,20 +657,24 @@ This Legislative History is provided for the convenience of users of the Boundar
 |||2 September 2004)|
 ||Date of Second and Third Readings|21 September 2004|
 ||Date of commencement|31 March 2005|
-|7.|**2006 Revised Edition—Boundaries and Survey Maps Act**|
+|5.|**2006 Revised Edition—Boundaries and Survey Maps Act**|
 ||Date of operation|1 April 2006|
-|8.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+|6.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 14/2006 published on 19 November 2007)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|2 May 2007 (Sections 8 and 11)|
-|9.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+|7.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
 ||Date of First Reading|15 September 2008|
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
-|10.|**Act 4 of 2012—Evidence (Amendment) Act 2012**|
+|8.|**Act 4 of 2012—Evidence (Amendment) Act 2012**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|16 January 2012 (Bill No. 2/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 August 2012|
+|9.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
