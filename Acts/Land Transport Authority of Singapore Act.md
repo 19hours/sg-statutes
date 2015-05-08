@@ -68,6 +68,8 @@
 
 - [22 Claims out of time](#Claims-out-of-time)
 
+- [22A Disqualification as to certain compensation](#Disqualification-as-to-certain-compensation)
+
 - [23 Claims procedure](#Claims-procedure)
 
 - [24 Claims by minor, etc.](#Claims-by-minor-etc)
@@ -764,6 +766,14 @@ in pursuance of one of the rights to compensation provided for in section 20, se
 
 (5) An extension may be granted by the Compensation Board under subsection (4), with or without conditions, for such period as the Board thinks fit but not in any case exceeding 6 years from the time when the right to compensation first arose.
 
+### Disqualification as to certain compensation
+
+22A\.—(1) If an owner of any land temporary possession of which is or has been taken in the exercise of any power in section 5 of the Rapid Transit Systems Act (Cap. 263A) gives to the Authority any notice under section 7(1) of the Rapid Transit Systems Act in relation to that land within the claim period referred to in section 7A(2)(d) of that Act, the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the land on the date of the notice under section 5 of the Rapid Transit Systems Act, and no other item in the Fourth Schedule.
+
+(2) If an owner of any land temporary possession of which is or has been taken in the exercise of any power in section 9 of the Street Works Act (Cap. 320A) gives to the Authority any notice under section 11(1) of the Street Works Act in relation to that land within the claim period referred to in section 11A(2)(d) of that Act, the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the land on the date of the notice under section 9 of the Street Works Act, and no other item in the Fourth Schedule.
+
+[Act 12 of 2015 wef 08/05/2015]
+
 ### Claims procedure
 
 23\.—(1) Any person who claims to be entitled to compensation under this Act shall serve upon the Authority a written claim setting out such of the following particulars as are applicable to his claim:
@@ -1302,17 +1312,47 @@ Persons who may claim compensation for their respective losses.
 
 Period within which the claim must be served on the Authority or other person.
 
-1.
+1.(a)
 
 The loss due to displacement resulting from the exercise of the Authority’s right under section 5 of the Rapid Transit Systems Act (Cap. 263A) or section 9 of the Street Works Act (Cap. 320A).
 
+(a)(i)
+
 A displacement payment.
+
+(ii)
+
+All reasonable expenses incurred in removing from the land or building, including but not limited to the reasonable cost of renovating alternative premises for occupation during the period of displacement.
+
+(a)
 
 Any person owning a compensatable interest in the land on the date on which the notice is issued under section 5(2) of the Rapid Transit Systems Act or section 9(2) of the Street Works Act, as the case may be.
 
+(a)
+
 Before the expiration of 2 years from the date on which the notice is issued under section 5(2) of the Rapid Transit Systems Act or section 9(2) of the Street Works Act, as the case may be.
 
-2. (a) Structural damage to any building resulting from the construction or operation of the railway or the construction of a road tunnel under the Street Works Act (Cap. 320A).
+(b)
+
+Any other damage to the land or a building resulting from the exercise of any power in section 5 of the Rapid Transit Systems Act or section 9 of the Street Works Act.
+
+(b)(i)
+
+The amount that is, or might be, fairly and reasonably incurred in repairing the damage.
+
+(ii)
+
+The share in the responsibility for the loss or damage attributable to or connected with any power in section 5 of the Rapid Transit Systems Act or section 9 of the Street Works Act.
+
+Same as in item (a) above.
+
+(b)
+
+Before the expiration of 6 years starting from the date on which the railway to which the notice under section 5 of the Rapid Transit Systems Act relates is opened or re opened for use by the public, or the street, road structure or road related facility to which the notice under section 9(2) of the Street Works Act relates is opened or re opened for use by the public.
+
+2.(a)
+
+Structural damage to any building resulting from the construction or operation of the railway or the construction of a road tunnel under the Street Works Act (Cap. 320A).
 
 (a)
 
@@ -1330,9 +1370,13 @@ Before the expiration of 6 years from the date of the opening for public traffic
 
 the loss due to displacement resulting from structural damage mentioned in item (a) above.
 
-(b)
+(b)(i)
 
 A displacement payment.
+
+(ii)
+
+All reasonable expenses incurred in removing from the land or building including but not limited to the reasonable cost of renovating alternative premises for occupation during the period of displacement.
 
 (b)
 
@@ -1350,7 +1394,7 @@ The amount which is, or might be, fairly and reasonably incurred in repairing th
 
 Any person owning a compensatable interest in the land or damaged building.
 
-Before the expiration of one year from the date of completion of the work carried out under section 10 of the Rapid Transit Systems Act or section 29 of the Street Works Act, as the case may be, from which the damage or loss is alleged to have resulted.
+Before the expiration of one year from the date of completion of the work carried out under section 9 of the Rapid Transit Systems Act or section 12 of the Street Works Act, as the case may be, from which the damage or loss is alleged to have resulted.
 
 4.
 
@@ -1362,7 +1406,9 @@ The person on whom the notice under section 10 of the Rapid Transit Systems Act 
 
 Before the expiration of one year from the completion of the alteration and repair.
 
-5. (a) The cost of the removal of any object or structure pursuant to a notice served by the Authority under section 11 of the Rapid Transit Systems Act (Cap. 263A) or section 13 of the Street Works Act (Cap. 320A) and which was erected and maintained without the contravention of any written law.
+5.(a)
+
+The cost of the removal of any object or structure pursuant to a notice served by the Authority under section 11 of the Rapid Transit Systems Act (Cap. 263A) or section 13 of the Street Works Act (Cap. 320A) and which was erected and maintained without the contravention of any written law.
 
 (a)
 
@@ -1407,6 +1453,8 @@ Any person owning a share or interest in the object or structure on the date on 
 (c)
 
 Before the expiration of one year from the date of removal.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 [7/97 wef 01/10/1997]
 
@@ -1617,3 +1665,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|22.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
