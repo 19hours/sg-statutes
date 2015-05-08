@@ -660,7 +660,9 @@ sections 165-176.
 
 “land” means —
 
-(a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
+(a) the surface of any defined parcel of the earth, so much of the subterranean space below and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
+
+[Act 11 of 2015 wef 08/05/2015]
 
 (b) any parcel of airspace or any subterranean space whether or not held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,
 
@@ -1654,7 +1656,9 @@ any person who becomes the proprietor of registered land, whether or not he deal
 
 [Act 8 of 2014 wef 15/08/2014]
 
-(ii) any subsisting easement or public right of way which was in existence at the date on which the land was brought under the provisions of this Act and any right on, above or under any land created before or after 1st March 1994 in favour of a public authority under any statute and any statutory easement implied under sections 98, 99, 101, 102 and 104;
+(ii) any subsisting easement or public right of way which was in existence at the date on which the land was brought under the provisions of this Act and any right on, above or under any land created before or after 1st March 1994 in favour of a public authority under any statute and any statutory easement implied under sections 98, 99, 101, 102 and 104 and section 3C of the State Lands Act (Cap. 314);
+
+[Act 11 of 2015 wef 08/05/2015]
 
 (iii) any statutory obligation as defined in section 142;
 
@@ -2500,7 +2504,9 @@ EASEMENTS
 
 ### Registration necessary for creation of easements
 
-97\.—(1) An easement shall not be acquired over registered land by long-continued user adverse to a proprietor, nor by prescription, nor by any presumption of a lost grant, nor by any implication of law except as may be provided in this Act; but where an easement is intended to be created, the proprietor may execute an instrument of grant in the approved form, or, if the easement is being created incidentally to a transfer or lease, by appropriate words in the transfer or lease.
+97\.—(1) An easement shall not be acquired over registered land by long-continued user adverse to a proprietor, nor by prescription, nor by any presumption of a lost grant, nor by any implication of law except as may be provided in this Act or section 3C of the State Lands Act; but where an easement is intended to be created, the proprietor may execute an instrument of grant in the approved form, or, if the easement is being created incidentally to a transfer or lease, by appropriate words in the transfer or lease.
+
+[Act 11 of 2015 wef 08/05/2015]
 
 (2) An instrument of transfer which reserves out of the land transferred an easement appurtenant to other land of the transferor shall, upon registration, be effective as a regrant of the easement to the transferor without execution of the instrument by the transferee.
 
@@ -4017,6 +4023,10 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of First Reading|20 January 2014 (Bill No. 4/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|15 August 2014|
+|16.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
 ## COMPARATIVE TABLE
 
 Land Titles Act
