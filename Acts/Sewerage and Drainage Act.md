@@ -122,6 +122,20 @@
 
 - [47 Appeal to Minister against notices, orders, directions, etc.](#Appeal-to-Minister-against-notices-orders-directions-etc)
 
+[**Part VIIA COMPENSATION FOR TEMPORARY OCCUPATION OF PREMISES AND OWNER-INITIATED ACQUISITION**](#Part-VIIA)
+
+- [47A Compensation for temporary occupation of premises](#Compensation-for-temporary-occupation-of-premises)
+
+- [47B Time for, and manner of, claiming for compensation](#Time-for-and-manner-of-claiming-for-compensation)
+
+- [47C Disqualification as to certain compensation](#Disqualification-as-to-certain-compensation)
+
+- [47D Bar to other proceedings](#Bar-to-other-proceedings)
+
+- [47E Owners who suffer substantial impairment in rights in land may require their premises to be acquired](#Owners-who-suffer-substantial-impairment-in-rights-in-land-may-require-their-premises-to-be-acquired)
+
+- [47F Owner-initiated acquisition](#Owner-initiated-acquisition)
+
 [**Part VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-VIII)
 
 - [48 Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
@@ -181,6 +195,8 @@
 - [73 Exemption](#Exemption)
 
 - [74 Regulations](#Regulations)
+
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -389,6 +405,10 @@ SEWERAGE
 (d) carry out any works requisite for, or incidental to, the purposes of subsection (1).
 
 [8/2001]
+
+(2A) An authorised officer may enter any premises for the purposes of subsection (1) only after notice in accordance with section 44.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (3) In carrying out any works under this section, the Board shall cause as little damage as possible, and shall make reasonable compensation for any damage done to any premises, street or building affected by those works.
 
@@ -916,9 +936,9 @@ DRAINAGE
 
 [8/2001]
 
-(3) Any authorised officer may enter any premises under section 44 to execute any work necessary for the purposes of subsection (1).
+(3) An authorised officer may enter any premises to execute any work necessary for the purposes of subsection (1) only after notice in accordance with section 44.
 
-[8/2001]
+[Act 12 of 2015 wef 08/05/2015]
 
 (4) In carrying out any works under this section, the Board shall cause as little damage as possible, and shall make reasonable compensation for any damage done to any affected premises or building.
 
@@ -1470,9 +1490,23 @@ the Minister may authorise the Board immediately to execute the work.
 
 [Act 10 of 2012 wef 01/09/2012]
 
-(2) Unless otherwise provided in this Act, any authorised officer shall, before entering any premises under subsection (1), give reasonable notice in writing to the owner or occupier of the premises of his intention to enter any premises under subsection (1).
+(2) Unless otherwise provided in this Act, any authorised officer shall, before entering any premises under subsection (1), give at least 14 days’ written notice of intention to enter to every owner or occupier of the premises.
 
 [8/2001]
+
+[Act 12 of 2015 wef 08/05/2015]
+
+(2A) A notice referred to in subsection (2) must —
+
+(a) state the estimated period, if any, during which the Board intends to temporarily occupy or take possession of the premises;
+
+(b) give a brief description of the works, if any, which are to be carried out in or on the premises;
+
+(c) describe the area or extent of the land and the subterranean space needed for the carrying out of the works referred to in paragraph (b); and
+
+(d) state that the owner or occupier of the premises may serve on the Board a claim of compensation for the items of loss, damage or cost set out in the first column of the Schedule to the extent of the loss, damage or cost suffered or incurred by the owner or occupier of the premises.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (3) Unless the consent of the occupier has been obtained, no person shall enter any dwelling-house in actual occupation under this section without 6 hours’ previous notice to the occupier.
 
@@ -1516,21 +1550,21 @@ without making any previous payment, tender or deposit and doing as little damag
 
 [8/2001]
 
-(2) The Board shall make reasonable compensation —
+(2) However, an authorised officer is not to enter any land for the purposes specified in subsection (1) unless the Board has given at least 7 days’ written notice of intention to enter to every owner and occupier of the land.
 
-(a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as any such temporary occupation is taken or any such temporary damage done; and
+[Act 12 of 2015 wef 08/05/2015]
 
-(b) to the owner for the permanent injury, if any, to the land.
+(3) A notice referred to in subsection (2) must —
 
-[8/2001]
+(a) state the estimated period, if any, during which the Board intends to temporarily occupy or take possession of the land;
 
-[Act 10 of 2012 wef 01/09/2012]
+(b) give a brief description of the works (if any) which are to be carried out in or on the land;
 
-(3) Before the Board makes any use of any land under subsection (1), it shall give 7 days’ notice of its intention to the owner and the occupier of the land.
+(c) describe the area or extent of the land and the subterranean space needed for the carrying out of the works referred to in paragraph (b); and
 
-[46
+(d) state that the owner or occupier of the land may serve on the Board a claim of compensation for the items of loss, damage or cost set out in the first column of the Schedule to the extent of the loss, damage or cost suffered or incurred by the owner or occupier of the land.
 
-[8/2001]
+[Act 12 of 2015 wef 08/05/2015]
 
 ### Penalty for obstructing Board in its duty
 
@@ -1586,9 +1620,158 @@ shall be guilty of an offence.
 
 [Act 10 of 2012 wef 01/09/2012]
 
-(d) a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26 or 30.
+(d) a notice under section 4, 6, 10, 11, 12, 14, 15, 20, 21, 23, 24, 25, 26, 30, 44 or 45.
 
-[48
+[Act 12 of 2015 wef 08/05/2015]
+
+## PART VIIA
+
+COMPENSATION FOR TEMPORARY OCCUPATION OF
+
+
+
+
+PREMISES AND OWNER-INITIATED ACQUISITION
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Compensation for temporary occupation of premises
+
+47A\.—(1) Subject to sections 47B and 47C, every owner and occupier of premises of which temporary possession is taken under section 4, 21, 44 or 45 is entitled to claim compensation for the items of loss, damage or cost set out in the first column of the Schedule to the extent of the loss, damage or cost suffered or incurred by the owner or occupier, as the case may be.
+
+(2) A claim for compensation for an item of loss, damage or cost set out in the first column of the Schedule is to be assessed by the Board —
+
+(a) on the basis of the matters specified opposite in the second column of the Schedule; and
+
+(b) by not taking into consideration any of the matters specified in subsection (3).
+
+(3) No account shall be taken of the following in the assessment of any claim for compensation by any owner or occupier of premises of which temporary possession is taken under section 4, 21, 44 or 45:
+
+(a) the financial loss resulting from the interruption of or interference with any trade or business carried on any premises;
+
+(b) any increase or decrease in the value of the premises to which the compensation relates which is attributable to the purpose for which the premises is occupied and used;
+
+(c) any building, object or structure within those premises which was erected and maintained in the contravention of any written law in force on the date of the notice under section 44(2) or 45(2), as the case may be, relating to those premises;
+
+(d) any building or part of a building within those premises which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act (Cap. 29) within the meaning of that Act.
+
+(4) Upon receiving a claim for compensation from any owner or occupier of premises of which temporary possession is taken under section 4, 21, 44 or 45, the Board is to inquire into that claim and shall, as soon as is possible, pay to the owner or occupier, as the case may be, compensation for such loss, damage or cost arising from the exercise of the powers under that section as is determined in accordance with this section.
+
+(5) To avoid doubt, nothing in this section prevents the Board from restoring premises of which temporary possession is taken under section 4, 21, 44 or 45 to the reasonable satisfaction of the owner or occupier of the premises before returning those premises to the owner or occupier, in lieu of compensation for any item of loss, damage or cost set out in the first column of the Schedule.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Time for, and manner of, claiming for compensation
+
+47B\.—(1) Every claim for compensation under this Part must be in writing.
+
+(2) Subject to subsection (4), if a claim for compensation for an item of loss, damage or cost set out in the first column of the Schedule is not served on the Board before the expiry of the relevant period specified in subsection (3) for that item, the right to claim compensation for that item is barred and any late claim may be disregarded.
+
+(3) The period within which a claim for compensation for an item of loss, damage or cost set out in the first column of the Schedule must be served upon the Board is as follows:
+
+(a) for a claim for loss due to displacement of any person in lawful occupation of the premises on the date of the notice under section 44(2) or 45(2) — 2 years starting from the date of that notice;
+
+(b) for a claim for structural damage to any building resulting from the occupation and use of the premises under section 4, 21, 44 or 45 — 6 years starting from the date those premises are returned;
+
+(c) for a claim for other damage to any premises — 6 years starting from the date those premises are returned;
+
+(d) for a claim for removal of any object or structure which was erected and maintained without the contravention of any written law — one year from the date of removal, or the date of reinstatement or replacement, whichever is applicable.
+
+(4) The Board may extend the period referred to in subsection (3) within which a claim must be served upon it if an application for the extension is made to the Board, either before or after the expiry of that period, and the Board considers —
+
+(a) that the delay in serving the claim was occasioned by mistake of fact or mistake of any matter of law (other than this Act) or by any other reasonable cause; or
+
+(b) that the Board is not materially prejudiced by the delay.
+
+(5) An extension may be granted by the Board under subsection (4) with or without conditions, and for such period as the Board thinks fit, but in no case exceeding 6 years from the time when the right to compensation first arose.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Disqualification as to certain compensation
+
+47C\. If an owner of premises temporary possession of which is or has been taken in accordance with section 4, 21, 44 or 45 gives to the Board any notice under section 47E(1) in relation to those premises within the claim period referred to in section 47F(2)(d), the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the premises on the date of the notice under section 44(2) or 45(2), as the case may be, and no other item in the Schedule.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Bar to other proceedings
+
+47D\. Except as provided in this Part, no action, claim or other proceeding shall lie against the Board, or any authorised officer —
+
+(a) to restrain the doing of anything which is authorised by or under section 4, 21, 44 or 45, or to compel the doing of anything which may be omitted to be done under section 4, 21, 44 or 45; or
+
+(b) to recover damages, compensation or costs for —
+
+(i) damage or disturbance to or loss of or in the value of any land, chattel, trade or business;
+
+(ii) personal disturbance or inconvenience;
+
+(iii) extinguishment, modification or restriction of rights; or
+
+(iv) effecting or complying with any requirement or condition imposed by the Board or authorised officer,
+
+which is authorised by or under section 4, 21, 44 or 45 or arises from any act or omission so authorised.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Owners who suffer substantial impairment in rights in land may require their premises to be acquired
+
+47E\.—(1) The owner of any premises temporary possession of which is or has been taken in accordance with section 4, 21, 44 or 45 may, by notice in writing given to the Board, request the Government to acquire under the Land Acquisition Act (Cap. 152) —
+
+(a) the premises; and
+
+(b) any other premises (if any) of the owner related to the premises in paragraph (a),
+
+if the owner considers that he suffers substantial impairment of his rights in the premises in paragraphs (a) and (b) because of the taking of that temporary possession.
+
+(2) If there is more than one owner of the premises concerned, the notice under this section must be given by all the owners.
+
+(3) Any notice under this section is irrevocable once given to the Board.
+
+(4) For the purposes of this section and section 47F, premises (calledApremises) are related to other premises temporary possession of which is or has been taken in accordance with section 4, 21, 44 or 45 (in this section and section 47F called temporarily occupied premises) if theApremises are the remainder of a parcel of land part of which is the temporarily occupied premises.
+
+(5) In this section and section 47F —
+
+“owner”, in relation to any premises, means —
+
+(a) a person who has the fee simple estate in the premises;
+
+(b) a person who is the grantee or lessee under a State title for the premises;
+
+(c) a person who has become entitled to exercise a power of sale of the premises; or
+
+(d) a person in occupation of the premises under a tenancy the term of which exceeds 7 years;
+
+“parcel of land” means the whole area of land that —
+
+(a) is the subject of a separate certificate of title registered under the Land Titles Act (Cap. 157); or
+
+(b) is a lot in a lawful division of land and capable of being separately held by any owner,
+
+and where a single building is erected on 2 or more such adjoining lands or lots referred to in paragraph (a) or (b), includes the area comprised in those lands or lots, as the case may be.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Owner-initiated acquisition
+
+47F\.—(1) Upon the Board receiving a notice under section 47E in relation to any temporarily occupied premises, and any other premises related to the temporarily occupied premises, the President is to proceed under the Land Acquisition Act to acquire those premises as if those premises were the subject of a notice under section 49 of that Act.
+
+(2) The provisions of sections 49 and 49A of the Land Acquisition Act apply (so far as relevant) to any premises that are the subject of a notice under section 47E with the following exceptions, modifications and adaptations:
+
+(a) any reference in those sections to any land that is the subject of a notice under section 49(1) of the Land Acquisition Act shall be read as a reference to the premises that are the subject of a notice under section 47E;
+
+(b) any reference in those sections to land temporary possession of which is or has been taken under section 42 of the Land Acquisition Act shall be read as a reference to any premises temporary possession of which is or has been taken in accordance with section 4, 21, 44 or 45;
+
+(c) any reference in those sections to an owner of land shall be read as a reference to an owner of premises referred to in section 47E;
+
+(d) any reference in section 49A of the Land Acquisition Act to a claim period for any land temporary possession of which is or has been taken in accordance with a direction under section 42 of the Land Acquisition Act shall be read as a reference to one year starting from either of the following dates:
+
+(i) the date of the notice under section 44(2) or 45(2) (as the case may be) relating to those premises;
+
+(ii) the date of the expiry of the term of temporary possession in a notice under section 44(2) or 45(2) (as the case may be) for the temporary occupation and use of those premises, or the date the premises are returned to the owner if earlier;
+
+(e) such other exceptions, modifications and adaptations as the differences between them necessarily require.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 ## PART VIII
 
@@ -2005,6 +2188,80 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [75
 
+## THE SCHEDULE
+
+Sections 47A, 47B and 47C
+
+COMPENSATION FOR TEMPORARY OCCUPATION OF PREMISES
+
+First column
+
+Item for which compensation
+may be claimed
+
+Second column
+
+Basis on which compensation
+is to be assessed
+
+1.
+
+Loss due to displacement (whether temporary or permanent) of any person in lawful occupation of the premises on the date of the notice under section 44(2) or 45(2), as the case may be.
+
+(a)
+
+The financial loss naturally and reasonably resulting from the displacement of the person from the premises.
+
+(b)
+
+All reasonable expenses incurred by such a person in removing from the premises from which the person is displaced, including (but not limited to) the reasonable cost of renovating alternative premises to be occupied during the displacement.
+
+2.
+
+Any structural damage to any building resulting from the exercise of the right of entry and occupation and use of the premises under section 4, 21, 44 or 45, as the case may be.
+
+(a)
+
+The financial loss naturally and reasonably resulting from the displacement because of the structural damage.
+
+(b)
+
+All reasonable expenses incurred in removing from the building, including (but not limited to) the reasonable cost of renovating alternative premises to be occupied during the displacement.
+
+(c)
+
+The amount which is, or might be, fairly and reasonably incurred in repairing the damage to the building, or in a case where the structural damage is so extensive as to require the removal of the building, the amount which is, or might be, fairly and reasonably incurred in replacing a similar building.
+
+(d)
+
+The share in the responsibility for the loss or damage attributable to or connected with the exercise of the right of entry and occupation and use of the premises under section 4, 21, 44 or 45, as the case may be.
+
+3.
+
+Any other damage to the land or a building resulting from the exercise of the right of entry and occupation and use of the premises under section 4, 21, 44 or 45, as the case may be.
+
+(a)
+
+The amount that is, or might be, fairly and reasonably incurred in repairing the damage.
+
+(b)
+
+The share in the responsibility for the loss or damage attributable to or connected with the exercise of the right of entry and occupation and use thereafter of the premises under section 4, 21, 44 or 45, as the case may be.
+
+4.
+
+The removal of any object or structure within the land as a result of the exercise of the right of entry and occupation of the land under section 4, 21, 44 or 45, as the case may be.
+
+(a)
+
+The cost of reinstating the object or structure or of replacing the same with a similar object or structure.
+
+(b)
+
+The loss sustained by the removal of the object or structure which was erected and maintained without contravention of any written law and is not to be reinstated or replaced with a similar object or structure at the expense of the Board, being an amount which might fairly and reasonably be estimated as the cost of reinstating or replacing the object or structure.
+
+[Act 12 of 2015 wef 08/05/2015]
+
 ## LEGISLATIVE HISTORY
 
 Sewerage and Drainage Act
@@ -2060,6 +2317,10 @@ This Legislative History is provided for the convenience of users of the Sewerag
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
 |||(item (21) in the Schedule)|
+|10.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
