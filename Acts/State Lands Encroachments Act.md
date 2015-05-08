@@ -20,6 +20,8 @@
 
 - [7 Penalties for trespassing](#Penalties-for-trespassing)
 
+- [7A Defence relying on implied easement of support](#Defence-relying-on-implied-easement-of-support)
+
 - [8 Recovery of expenses](#Recovery-of-expenses)
 
 - [9 Forfeiture of abandoned land to State](#Forfeiture-of-abandoned-land-to-State)
@@ -149,6 +151,20 @@ shall be liable for a first offence to a fine not exceeding $200, and, for a sec
 (3) Where an offence under subsection (1) has been committed by a company or an association or body of persons, corporate or unincorporate, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other officer thereof or was purporting to act in such capacity shall also be deemed to be guilty of such offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
 [23/74]
+
+### Defence relying on implied easement of support
+
+7A\.—(1) In any proceedings against a person for an offence under section 7 for erecting or installing any structure in any subterranean space that is State land, or for maintaining, replacing, renewing or restoring any such structure, it is a defence for the person charged to prove, on a balance of probabilities, that —
+
+(a) the person, or the company or association or body of persons of which the person is a director, manager, partner, secretary or other officer, is entitled to exercise rights under the easement of support implied under section 3C of the State Lands Act (Cap. 314);
+
+(b) the erection or installation of the structure, or the maintenance, replacement, renewal or restoration of the structure, as the case may be, is in accordance with section 3C of the State Lands Act; and
+
+(c) the person, or the company or association or body of persons of which the person is a director, manager, partner, secretary or other officer, is authorised by or under the written law for the time being in force relating to planning and use of land to erect or install the structure, or to maintain, replace, renew or restore the structure, as the case may be.
+
+(2) A defence under this section is additional to any other defence available to the defendant apart from this section.
+
+[Act 11 of 2015 wef 08/05/2015]
 
 ### Recovery of expenses
 
@@ -385,3 +401,7 @@ This Legislative History is provided for the convenience of users of the State L
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|22.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
