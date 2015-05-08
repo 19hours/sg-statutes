@@ -988,6 +988,10 @@ EASEMENTS
 
 (4) An order made under subsection (1) shall not bind the land until it has been registered under the Registration of Deeds Act.
 
+(5) To avoid doubt, the reference in subsection (1) to an easement includes a reference to an easement for subjacent support that is implied by section 3C of the State Lands Act (Cap. 314).
+
+[Act 11 of 2015 wef 08/05/2015]
+
 [Act 8 of 2014 wef 15/08/2014]
 
 ## PART VI
@@ -1896,3 +1900,7 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of First Reading|20 January 2014 (Bill No. 4/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|15 August 2014|
+|35.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
