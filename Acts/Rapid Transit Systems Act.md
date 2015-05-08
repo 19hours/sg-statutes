@@ -22,7 +22,9 @@
 
 - [6 Creation of rights in, under or over land](#Creation-of-rights-in-under-or-over-land)
 
-- [7 Obligation of Authority to purchase land](#Obligation-of-Authority-to-purchase-land)
+- [7 Owners who suffer substantial impairment in rights in land may require their land to be acquired](#Owners-who-suffer-substantial-impairment-in-rights-in-land-may-require-their-land-to-be-acquired)
+
+- [7A Owner-initiated acquisition](#Owner-initiated-acquisition)
 
 - [8 Power of entry](#Power-of-entry)
 
@@ -186,7 +188,9 @@ and any associated investigative and engineering studies, but does not include t
 
 “land” includes and may, where the context so requires, have any one or more of the following meanings separately:
 
-(a) land of any tenure and so much of the airspace above the surface as may be reasonably used or enjoyed by any owner thereof, and all substances under the surface, whether or not held apart from the surface;
+(a) land of any tenure and so much of the airspace above the surface as may be reasonably used or enjoyed by any owner thereof, and so much of the subterranean space below the surface as is reasonably necessary for the use and enjoyment of the land, whether or not held apart from the surface;
+
+[Act 11 of 2015 wef 08/05/2015]
 
 (b) the whole or part of any building or other erection or fixture on land;
 
@@ -272,9 +276,11 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 5\.—(1) The Authority or any person authorised by the Authority shall have the right to enter upon and take possession of any land or part thereof not being State land within or adjoining the railway area not being land belonging to or acquired by the Authority and lay and construct any railway on, under or over the land and do all things as are reasonably necessary for the purpose of laying and constructing the railway.
 
-(2) The Authority or a person authorised by the Authority shall not exercise the right conferred by subsection (1) unless the Authority has given not less than 2 months notice of its intention to exercise the right conferred upon that subsection to the occupier of the land and every person having any estate, right, share or interest in the land.
+(2) The Authority or a person authorised by the Authority shall not exercise the right conferred by subsection (1) unless the Authority has given not less than 2 months notice of its intention to exercise the right conferred upon that subsection to every owner and occupier of the land.
 
-(3) A notice under subsection (2) may be given to and shall be deemed to have been received by an occupier if a written notice is affixed to a conspicuous part of the land to be entered.
+[Act 12 of 2015 wef 08/05/2015]
+
+(3) [Deleted by Act 12 of 2015 wef 08/05/2015]
 
 (4) A notice referred to in subsection (2) shall —
 
@@ -312,13 +318,67 @@ PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 (3) Any right referred to in a notice of creation of a right under this section shall be limited to a right conferring such rights and powers as are necessary or convenient for the operation of any railway and for all purposes connected with or incidental to such operation.
 
-### Obligation of Authority to purchase land
+### Owners who suffer substantial impairment in rights in land may require their land to be acquired
 
-7\.—(1) The owner of any land who has been served with a notice under section 5 may, within 2 years from the date of service of such notice, require the Authority to purchase his estate, right, share or interest in the portion of the land affected by the proposed laying and construction of any railway or the whole of his land.
+7\.—(1) The owner of any land temporary possession of which is or has been taken in accordance with section 5 may, by notice in writing given to the Authority, request the Government to acquire under the Land Acquisition Act (Cap. 152) —
 
-(2) The Authority shall thereupon request the President to direct the acquisition of that land and in that case that land may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose and any declaration required under any such law that the land is so needed may be made notwithstanding that compensation is to be paid out of the funds of the Authority.
+(a) the land; and
 
-(3) The declaration referred to in subsection (2) shall have effect as if it were a declaration that the land is needed for a public purpose made in accordance with that written law.
+(b) any other land of the owner related to the land in paragraph (a),
+
+if the owner considers that he suffers substantial impairment of his rights in the lands in paragraphs (a) and (b) because of the taking of that temporary possession.
+
+(2) If there is more than one owner of the land concerned, the notice under this section must be given by all the owners.
+
+(3) Any notice under this section is irrevocable once given to the Authority.
+
+(4) For the purposes of this section and section 7A, land (calledAland) is related to other land temporary possession of which is or has been taken in accordance with section 5 (in this section and section 7A called temporarily occupied land) if theAland is the remainder of a parcel of land part of which is the temporarily occupied land.
+
+(5) In this section and section 7A —
+
+“owner”, in relation to any land, means —
+
+(a) a person who has the fee simple estate in the land;
+
+(b) a person who is the grantee or lessee under a State title for the land;
+
+(c) a person who has become entitled to exercise a power of sale of the land; or
+
+(d) a person in occupation of the land under a tenancy the term of which exceeds 7 years;
+
+“parcel of land” means the whole area of land that —
+
+(a) is the subject of a separate certificate of title registered under the Land Titles Act (Cap. 157); or
+
+(b) is a lot in a lawful division of land and capable of being separately held by any owner,
+
+and where a single building is erected on 2 or more such adjoining lands or lots referred to in paragraph (a) or (b), includes the area comprised in those lands or lots, as the case may be.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Owner-initiated acquisition
+
+7A\.—(1) Upon the Authority receiving a notice under section 7(1) in relation to any temporarily occupied land, and any other land related to the temporarily occupied land, the President is to proceed under the Land Acquisition Act to acquire that land as if those lands were the subject of a notice under section 49 of that Act.
+
+(2) The provisions of sections 49 and 49A of the Land Acquisition Act apply (so far as relevant) to any land that is the subject of a notice under section 7(1) with the following exceptions, modifications and adaptations:
+
+(a) any reference in those sections to any land that is the subject of a notice under section 49(1) of the Land Acquisition Act shall be read as a reference to the land that is the subject of a notice under section 7(1);
+
+(b) any reference in those sections to land temporary possession of which is or has been taken under section 42 of the Land Acquisition Act shall be read as a reference to any land temporary possession of which is or has been taken in accordance with section 5;
+
+(c) any reference in those sections to an owner of land shall be read as a reference to an owner of land referred to in section 7;
+
+(d) any reference in section 49A of the Land Acquisition Act to a claim period for any land temporary possession of which is or has been taken in accordance with a direction under section 42 of the Land Acquisition Act shall be read as a reference to one year starting from either of the following dates:
+
+(i) the date of the notice under section 5 relating to that land;
+
+(ii) the date of the expiry of the term of temporary possession in a notice under section 5 for the temporary occupation of the land, or the date the land is returned to the owner if earlier;
+
+(e) such other exceptions, modifications and adaptations as the differences between them necessarily require.
+
+(3) All compensation for the acquisition under the Land Acquisition Act of any land that is the subject of a notice under section 7 is to be paid out of the funds of the Authority.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 ### Power of entry
 
@@ -1472,6 +1532,14 @@ This Legislative History is provided for the convenience of users of the Rapid T
 ||Date of First Reading|20 January 2014 (Bill No. 5/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|25 March 2014|
+|8.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
+|9.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
 ## COMPARATIVE TABLE
 
 Rapid Transit Systems Act
