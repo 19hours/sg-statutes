@@ -64,7 +64,9 @@ An Act to regulate the sales of separate units of commercial properties in a com
 
 “Controller” means the Controller of Housing appointed under section 3 of the Housing Developers (Control and Licensing) Act [Cap. 130];
 
-“land” includes land of any tenure, any building or part thereof, so much of the air-space above the surface as may be reasonably used or enjoyed by any proprietor, and all substances under the surface, whether or not held apart from the surface, and any estate or interest therein;
+“land” includes land of any tenure, any building or part thereof, so much of the air-space above the surface as may be reasonably used or enjoyed by any proprietor, and so much of the subterranean space below the surface as is reasonably necessary for the use and enjoyment of the land, whether or not held apart from the surface, and any estate or interest therein;
+
+[Act 11 of 2015 wef 08/05/2015]
 
 “lot” means a stratum which is shown as a lot on a strata title plan;
 
@@ -258,3 +260,7 @@ This Legislative History is provided for the convenience of users of the Sale of
 |||(Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
+|7.|**Act 11 of 2015—State Lands (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
