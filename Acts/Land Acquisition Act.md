@@ -106,13 +106,19 @@
 
 - [41 Payment of interest](#Payment-of-interest)
 
-[**Part VI TEMPORARY OCCUPATION OF LAND**](#Part-VI)
+[**Part VI TEMPORARY OCCUPATION AND USE OF LAND**](#Part-VI)
 
-- [42 Temporary occupation of land](#Temporary-occupation-of-land)
+- [42 Temporary occupation of land for public purpose](#Temporary-occupation-of-land-for-public-purpose)
 
-- [43 Power to enter and take possession](#Power-to-enter-and-take-possession)
+- [43 Compensation for temporary occupation of land](#Compensation-for-temporary-occupation-of-land)
 
-- [44 Difference as to condition of land](#Difference-as-to-condition-of-land)
+- [44 Time for, and manner of, claiming for compensation](#Time-for-and-manner-of-claiming-for-compensation)
+
+- [44A Disqualification as to certain compensation](#Disqualification-as-to-certain-compensation)
+
+- [44B Appeal against award of compensation](#Appeal-against-award-of-compensation)
+
+- [44C Bar to other proceedings](#Bar-to-other-proceedings)
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
@@ -124,7 +130,9 @@
 
 - [48 Government not bound to complete acquisition](#Government-not-bound-to-complete-acquisition)
 
-- [49 Acquisition of part of house or building](#Acquisition-of-part-of-house-or-building)
+- [49 Owners who suffer substantial impairment in rights in land may require their land to be acquired](#Owners-who-suffer-substantial-impairment-in-rights-in-land-may-require-their-land-to-be-acquired)
+
+- [49A Owner-initiated acquisition](#Owner-initiated-acquisition)
 
 - [50 Acquisition of whole or any additional portion of land where compensation for severance is payable](#Acquisition-of-whole-or-any-additional-portion-of-land-where-compensation-for-severance-is-payable)
 
@@ -135,6 +143,8 @@
 - [53 Suits to set aside awards under this Act to be barred](#Suits-to-set-aside-awards-under-this-Act-to-be-barred)
 
 - [54 Rules](#Rules)
+
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -178,9 +188,11 @@ PRELIMINARY
 
 [Act 26 of 2014 wef 29/09/2014]
 
-“land” includes any foreshore, and benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
+“land” includes any airspace, subterranean space, foreshore, and benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
 
 [Act 26 of 2014 wef 29/09/2014]
+
+[Act 12 of 2015 wef 08/05/2015]
 
 “management corporation”, in relation to any land comprised in a strata title plan, means the management corporation constituted in respect of that strata title plan under the Land Titles (Strata) Act;
 
@@ -194,11 +206,33 @@ PRELIMINARY
 
 [19/2007 wef 07/05/2007]
 
-“strata title plan” and “subsidiary proprietor” have the same respective meanings as in the Land Titles (Strata) Act.
+“remaining surface land” means any land (and airspace) above which only the airspace, or any land (and subsoil) below which only the subterranean space, is or has been acquired under this Act;
+
+[Act 12 of 2015 wef 08/05/2015]
+
+“severed land”, for an owner of land, means any land remaining after any other part of the owner’s land is severed because of an acquisition under this Act;
+
+[Act 12 of 2015 wef 08/05/2015]
+
+“State title” means any grant, any grant in fee simple or estate in perpetuity, or any State lease (of whatever tenure) whenever issued or granted by or on behalf of the Crown, the State or the East India Company;
+
+[Act 12 of 2015 wef 08/05/2015]
+
+“strata title plan” and “subsidiary proprietor” have the same respective meanings as in the Land Titles (Strata) Act;
 
 [Act 26 of 2014 wef 29/09/2014]
 
 [66/73]
+
+[Act 12 of 2015 wef 08/05/2015]
+
+“subterranean space” means the subsoil below the surface of the earth;
+
+[Act 12 of 2015 wef 08/05/2015]
+
+“temporarily occupied land” means any land temporary possession of which is or has been taken in accordance with a direction under section 42.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (2) For the purposes of this Act, the following persons shall be deemed persons “entitled to act” as and to the extent hereinafter provided:
 
@@ -279,6 +313,10 @@ Declaration of intended acquisition
 (c) for any residential, commercial or industrial purposes,
 
 the President may, by notification published in theGazette, declare the land to be required for the purpose specified in the notification.
+
+(1A) Without prejudice to the generality of subsection (1), the President may under that subsection declare that only so much of airspace above the surface of any land, or only so much of subterranean space below the surface of any land, is needed for any purpose specified in that subsection, instead of the whole of the land.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (2) Such a notification shall state —
 
@@ -764,15 +802,37 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 [66/73]
 
-(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set‑off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.
+(1A) However, where only airspace above the surface of any land, or only subterranean space below the surface of any land, is acquired, then despite subsection (1), the Board must take into consideration the following matters, and no others, in determining the compensation to be awarded for the airspace or subterranean space acquired:
+
+(a) the market value of the airspace or subterranean space acquired —
+
+(i) as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration made under section 5 in respect of the same airspace or subterranean space (as the case may be) or part thereof; or
+
+(ii) as at the date of the publication of the declaration made under section 5, in any other case;
+
+(b) any increase in the value of any other land (such as contiguous, adjacent or surface land, as the case may be) of the person interested likely to accrue from the use to which the airspace or subterranean space acquired will be put;
+
+(c) the damage, if any, sustained by the person interested at the time of the Collector’s taking of possession of the land by reason of severing that airspace or subterranean space from his other land (such as contiguous, adjacent or surface land, as the case may be);
+
+(d) the damage, if any, sustained by the person interested at the time of the Collector’s taking of possession of the airspace or subterranean space (as the case may be) by reason of the acquisition injuriously affecting his other property, whether movable or immovable, in any other manner;
+
+(e) if, in consequence of the acquisition, the person interested is compelled to change his residence or place of business, the reasonable expenses, if any, incidental to that change;
+
+(f) if, in consequence of the acquisition, any reissue of title is necessary, the fees or costs relating to survey, issue and registration of title, stamp duty and such other costs or fees which may reasonably be incurred.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set‑off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, or subsection (1A)(c) or (d) or both, where applicable.
 
 [Act 26 of 2014 wef 07/07/2014]
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (3) [Deleted by Act 19/2007 wef 07/05/2007]
 
 (4) [Deleted by Act 19/2007 wef 07/05/2007]
 
-(5) For the purposes of subsection (1)(a) —
+(5) For the purposes of subsection (1)(a) or (1A)(a) —
 
 (a) [Deleted by Act 19/2007 wef 07/05/2007]
 
@@ -787,6 +847,8 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 [19/2007 wef 07/05/2007]
 
 (f) [Deleted by Act 19/2007 wef 07/05/2007]
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under section 5(1) declaring that that land is needed for the purpose specified in the declaration.
 
@@ -888,27 +950,169 @@ the Collector need not make a written offer of the compensation awarded in accor
 
 ## PART VI
 
-TEMPORARY OCCUPATION OF LAND
+TEMPORARY OCCUPATION AND USE OF LAND
 
-### Temporary occupation of land
+[Act 12 of 2015 wef 08/05/2015]
 
-42\.—(1) Whenever it appears to the President that any land is required for temporary occupation and use for a public purpose, he may direct the Collector to procure the occupation and use of that land for such term as may be determined, not exceeding 3 years from the commencement of the occupation.
+### Temporary occupation of land for public purpose
 
-(2) The Collector shall thereupon give notice in writing to the persons interested in that land of the purpose for which it is needed, and shall for the occupation and use thereof for such term as aforesaid and for the materials, if any, to be taken therefrom pay to them such compensation, either in a gross sum of money or by monthly or other periodical payments, as is agreed upon in writing between him and those persons respectively.
+42\.—(1) Where it appears to the President that any land that is not State land is required for temporary occupation and use for a public purpose, the President may direct the Collector to procure the temporary occupation and use of that land, for such term or terms as may be determined, ordinarily not exceeding a total of 3 continuous years from the start of the occupation.
 
-(3) In case the Collector and the persons interested differ as to the sufficiency of the compensation or the apportionment thereof, the Collector shall refer the difference to the decision of the Board.
+(2) Upon the direction of the President under subsection (1) to procure the temporary occupation and use of any land that is not State land, the Collector or any person authorised by the Collector shall have the right to enter upon and take temporary possession of that land in accordance with the terms of that direction.
 
-### Power to enter and take possession
+(3) However, the Collector or a person authorised by the Collector is not to exercise any right conferred by subsection (2) in respect of any land unless the Collector has given at least one month’s notice of the Collector’s intention to exercise that right to the persons interested in the land, and to every occupier of that land.
 
-43\.—(1) On payment of such compensation or on executing such agreement or on making a reference under section 42, the Collector may enter upon and take possession of the land and use or permit the use thereof in accordance with the terms of the notice under section 42(2).
+(4) A notice referred to in subsection (3) must —
 
-(2) On the expiration of the term, the Collector shall make or tender to the persons interested compensation for the damage, if any, done to the land and not provided for by the agreement and shall restore the land to the persons interested therein.
+(a) state the estimated period, if any, during which the Collector intends to temporarily occupy or take possession of the land;
 
-(3) If the land has become permanently unfit to be used for the purpose for which it was used immediately before the commencement of the term, and if the persons interested so require, the President shall proceed under this Act to acquire the land as if it was needed permanently for a public purpose.
+(b) give a brief description of the works, if any, which are to be carried out in or on that land;
 
-### Difference as to condition of land
+(c) describe the area or extent of the land needed for the carrying out of the works referred to in paragraph (b); and
 
-44\. If the Collector and the persons interested differ as to the condition of the land at the expiration of the term or as to the compensation mentioned in section 43(2) or as to any matter connected with the agreement mentioned in that subsection, the Collector shall refer the difference to the decision of the Board, and on such reference or on a reference under section 42(3), the Commissioner sitting alone shall decide the difference referred.
+(d) state that any person interested in the land may serve on the Collector a claim of compensation for the items of loss, damage or cost set out in the first column of the Schedule to the extent of the loss, damage or cost suffered or incurred by the person interested.
+
+(5) To avoid doubt, a notice under subsection (3) is to be given for each term determined under subsection (1) that land is to be entered upon and taken temporary possession of in accordance with a direction under subsection (1).
+
+(6) The ownership of anything is not altered by reason only that it is placed in, under, over or affixed to any land in exercise of a right conferred upon the Collector by this section.
+
+(7) Unless section 49A(1) applies, the Collector must return all temporarily occupied land to the persons interested no later than —
+
+(a) on the expiry of the term determined under subsection (1) for the temporary occupation and use of that land; or
+
+(b) if more than one term has been so determined under subsection (1) for the temporary occupation and use of that land, on the expiry of the last term so determined.
+
+(8) In this section, a reference to entry on land includes —
+
+(a) digging or boring of a tunnel under the land and erecting any building, object or structure over or under the land;
+
+(b) removing any building, or any object or structure or vegetation from the land;
+
+(c) constructing on the land temporary works, such as the provision of means of access; and
+
+(d) underpinning or strengthening a building.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Compensation for temporary occupation of land
+
+43\.—(1) Subject to sections 44 and 44A, every person interested in temporarily occupied land is entitled to claim compensation for the items of loss, damage or cost set out in the first column of the Schedule to the extent of the loss, damage or cost suffered or incurred by the person interested.
+
+(2) A claim for compensation for an item of loss, damage or cost set out in the first column of the Schedule is to be assessed by the Collector —
+
+(a) on the basis of the matters specified opposite in the second column of the Schedule; and
+
+(b) by not taking into consideration any of the matters specified in subsection (3).
+
+(3) No account shall be taken of the following in the assessment of any claim for compensation by any person interested in temporarily occupied land:
+
+(a) the financial loss resulting from the interruption of or interference with any trade or business carried on any land;
+
+(b) any increase or decrease in the value of the land to which the compensation relates which is attributable to the purpose for which the land is occupied and used;
+
+(c) any building, object or structure within the land which was erected and maintained in contravention of any written law in force on the date of the notice under section 42(3) relating to that land;
+
+(d) any building or part of a building within the land which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act (Cap. 29) within the meaning of that Act.
+
+(4) Upon receiving a claim for compensation from any person interested in temporarily occupied land, the Collector is to inquire into that claim and shall, as soon as is possible —
+
+(a) make an award of compensation for such loss, damage or cost arising from the exercise of the powers under section 42 as is determined in accordance with this section; and
+
+(b) give written notice to the person interested of that award of compensation.
+
+(5) To avoid doubt, nothing in this section prevents the Collector from restoring the temporarily occupied land to the reasonable satisfaction of the persons interested in the land before returning the land to the persons interested, in lieu of compensation for any item of loss, damage or cost set out in the first column of the Schedule.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Time for, and manner of, claiming for compensation
+
+44\.—(1) Every claim for compensation under this Part must be in writing.
+
+(2) Subject to subsection (4), if a claim for compensation for an item of loss, damage or cost set out in the first column of the Schedule is not served on the Collector before the expiry of the period specified in subsection (3) for that item, the right to claim compensation for that item is barred and any late claim may be disregarded.
+
+(3) The period within which a claim for compensation for an item of loss, damage or cost set out in the first column of the Schedule must be served upon the Collector is as follows:
+
+(a) for a claim for loss due to displacement of any person in lawful occupation of the land on the date of a notice under section 42(3) to enter upon and take temporary possession of that land — 2 years starting from the date of the last such notice given to the person for that purpose;
+
+(b) for a claim for structural damage to any building resulting from the temporary occupation and use of the land under section 42 — 6 years starting from the date that land is returned or the date the applicable period referred to in section 42(7) expires, if earlier;
+
+(c) for a claim for other damage to any land — 6 years starting from the date that land is returned or the date the applicable period referred to in section 42(7) expires, if earlier;
+
+(d) for a claim for removal of any object or structure which was erected and maintained without contravention of any written law — one year from the date of removal, or the date of reinstatement or replacement, whichever is applicable.
+
+(4) The Board may extend any period specified in subsection (3) within which a claim must be served upon the Collector if an application for the extension is made to the Board, either before or after the expiry of that period, and the Board considers —
+
+(a) that the delay in serving the claim was occasioned by mistake of fact or mistake of any matter of law (other than this Act) or by any other reasonable cause; or
+
+(b) that the Collector is not materially prejudiced by the delay.
+
+(5) An extension may be granted by the Board under subsection (4) with or without conditions, and for such period as the Board thinks fit, but in no case exceeding 6 years from the time when the right to compensation first arose.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Disqualification as to certain compensation
+
+44A\. If an owner of any temporarily occupied land gives to the Collector any notice under section 49(1) in relation to that land within the claim period as defined in section 49A(9) for temporarily occupied land, the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the land on the date of the last notice under section 42(3), and no other item in the Schedule.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Appeal against award of compensation
+
+44B\.—(1) Any person interested who is aggrieved by an award of compensation made under section 43(4)(a) (in this section called the appellant) may appeal to the Board —
+
+(a) by lodging with the Registrar of the Board, within 28 days after receiving the notice of the award referred to in section 43(4)(b), a written notice of appeal in duplicate;
+
+(b) by depositing or authorising the Collector to deposit with the Accountant‑General within 28 days after receiving the notice of the award referred to in section 43(4)(b), the lower of the following sums if the requirement for a deposit is not waived by the Collector:
+
+(i) a sum equal to one‑third of the amount of the award;
+
+(ii) $5,000; and
+
+(c) by lodging with the Registrar of the Board, within 28 days after receiving from the Collector the grounds of the award referred to in subsection (2), a petition of appeal in duplicate containing a statement of the grounds of appeal.
+
+(2) After a notice of appeal under subsection (1) is lodged, the following steps must be taken:
+
+(a) first, the Registrar of the Board must forthwith forward a copy of the notice of appeal to the Collector;
+
+(b) secondly, the Collector must lodge with the Registrar of the Board the Collector’s grounds of award;
+
+(c) thirdly, the Registrar of the Board must —
+
+(i) deliver or tender a copy of those grounds of award to the appellant; or
+
+(ii) send by registered post a copy of those grounds of award to the appellant.
+
+(3) The decision of the Board on appeal is final.
+
+(4) In determining the amount of compensation for an item of loss, damage or cost set out in the first column of the Schedule, the Board —
+
+(a) must assess compensation on the basis of the matters specified opposite in the second column of the Schedule; and
+
+(b) must not take into consideration any of the matters specified in section 43(3).
+
+(5) Sections 23(3) and (4), 24, 25, 26, 27, 31 and 32 apply (so far as relevant) to an appeal under this section with such prescribed exceptions, modifications and adaptations as the differences between an appeal under this section and an appeal under section 23 require.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Bar to other proceedings
+
+44C\. Except as provided by or under this Part, no action, claim or other proceeding shall lie against the Collector or any person authorised under section 42(3) —
+
+(a) to restrain the doing of anything which is authorised by or under section 42 or to compel the doing of anything which may be omitted to be done under section 42; or
+
+(b) to recover damages, compensation or costs for —
+
+(i) damage or disturbance to or loss of or in the value of any land, chattel, trade or business;
+
+(ii) personal disturbance or inconvenience;
+
+(iii) extinguishment, modification or restriction of rights; or
+
+(iv) effecting or complying with any requirement or condition imposed by the Collector,
+
+which is authorised by or under section 42 or arises from any act or omission so authorised.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 ## PART VII
 
@@ -988,9 +1192,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Government not bound to complete acquisition
 
-48\.—(1) Except in the case provided for in section 43, the Government shall be at liberty to withdraw from the acquisition of any land or any part thereof of which possession has not been taken.
+48\.—(1) Except in the case provided for in sections 49 and 49A, the Government shall be at liberty to withdraw from the acquisition of any land or any part thereof of which possession has not been taken.
 
 [66/73]
+
+[Act 12 of 2015 wef 08/05/2015]
 
 (2) Whenever the Government withdraws from any such acquisition, the Collector shall determine the amount of compensation due for the damage, if any, done to the land under section 3 or 7 and not already paid for under section 4, and shall pay that amount to the person injured and shall pay to the persons interested all such costs as have been reasonably incurred by them by reason or in consequence of the proceedings for acquisition, together with compensation for the damage, if any, which they may have sustained by reason or in consequence of those proceedings.
 
@@ -998,25 +1204,141 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) When the Government has withdrawn from any acquisition, any costs payable by the Government to any person interested under subsection (2) shall, unless their amount is agreed between the Government and the person interested, be taxed by the Registrar of the Supreme Court in accordance with a procedure to be prescribed by Rules of Court for the time being in force.
 
-### Acquisition of part of house or building
+### Owners who suffer substantial impairment in rights in land may require their land to be acquired
 
-49\.—(1) The provisions of this Act shall not be put in force for the purpose of acquiring a part only of any house, manufactory or other building which is reasonably required for the full and unimpaired use of the house, manufactory or other building, if any person interested desires that the whole of the house, manufactory or building be so acquired:
+49\.—(1) The owner of any temporarily occupied land, any remaining surface land or any severed land may, by notice in writing given to the Collector, request the Government to acquire under this Act —
 
-Provided that the person interested may, at any time before the Collector has made an award under section 10, by notice in writing withdraw or modify his expressed desire that the whole of the house, manufactory or building be so acquired.
+(a) the temporarily occupied land, the remaining surface land or the severed land (as the case may be); and
 
-(2) The question whether a part of any house, manufactory or building is reasonably required for the full and unimpaired use of the house, manufactory or building shall, if the parties cannot agree, be referred by the Collector for the determination of the High Court.
+(b) any other land of the owner related to the temporarily occupied land or the remaining surface land in paragraph (a),
 
-(3) If any question arises as to whether any land proposed to be taken under this Act does or does not form part of a house, manufactory or building which is reasonably required for the full and unimpaired use of the house, manufactory or building within the meaning of this section, the Collector shall refer the determination of that question to the High Court, and shall not take possession of the land until after the question has been determined.
+if the owner considers that he suffers substantial impairment of his rights in the lands in paragraphs (a) and (b) because of —
 
-(4) A management corporation for a strata title plan may express any desire under subsection (1) for the whole of the land comprised in the strata title plan to be acquired under this Act, but only if the subsidiary proprietors constituting the management corporation for the strata title plan so agree to the acquisition of the whole of the land by a resolution by consensus referred to in section 85A(5) of the Building Maintenance and Strata Management Act.
+(i) the temporary possession in accordance with a direction under section 42 of the temporarily occupied land;
 
-[Act 26 of 2014 wef 29/09/2014]
+(ii) the acquisition under this Act of the airspace above or the subterranean space below the remaining surface land; or
+
+(iii) the severance arising from the acquisition under this Act of any other part of the owner’s land.
+
+(2) If there is more than one owner of the land concerned, the notice under this section must be given by all the owners.
+
+(3) Any notice under this section is irrevocable once given to the Collector.
+
+(4) For the purposes of this section and section 49A —
+
+(a) land is related to any temporarily occupied land if that land is the remainder of a parcel of land part of which is the temporarily occupied land; and
+
+(b) land is related to any remaining surface land if that land —
+
+(i) is the remainder of a parcel of land part of which is the remaining surface land; and
+
+(ii) is above or below the airspace or subterranean space acquired and the remaining surface land.
+
+(5) In this section and section 49A —
+
+“owner”, in relation to any land, means —
+
+(a) a person who has the fee simple estate in the land;
+
+(b) a person who is the grantee or lessee under a State title for the land;
+
+(c) a person who has become entitled to exercise a power of sale of the land; or
+
+(d) a person in occupation of the land under a tenancy the term of which exceeds 7 years;
+
+“parcel of land” means the whole area of land that —
+
+(a) is the subject of a separate certificate of title registered under the Land Titles Act (Cap. 157); or
+
+(b) is a lot in a lawful division of land and capable of being separately held by any owner,
+
+and where a single building is erected on 2 or more such adjoining lands or lots referred to in paragraph (a) or (b), includes the area comprised in those lands or lots, as the case may be.
+
+[Act 12 of 2015 wef 08/05/2015]
+
+### Owner-initiated acquisition
+
+49A\.—(1) Upon receiving a notice under section 49(1) in relation to any temporarily occupied land, any remaining surface land or any severed land (as the case may be), and any other land related to the temporarily occupied land or the remaining surface land, the Collector is to assess whether the owner of those lands suffers or does not suffer substantial impairment of his rights in those lands because of —
+
+(a) the temporary possession in accordance with a direction under section 42 of the temporarily occupied land;
+
+(b) the acquisition under this Act of the airspace above or the subterranean space below the remaining surface land; or
+
+(c) the severance arising from the acquisition under this Act of any other part of the owner’s land.
+
+(2) The President is to proceed under this Act to acquire the land that is the subject of a notice under section 49(1) as if the land was needed for a public purpose, if the Collector assesses that the owner of the land giving notice suffers substantial impairment of his rights in the land because of any of the circumstances described in subsection (1)(a), (b) or (c).
+
+(3) If there is more than one owner of the land concerned giving notice, it is sufficient if the Collector assesses that any one of those owners suffers substantial impairment of his rights in the land because of any of the circumstances described in subsection (1)(a), (b) or (c).
+
+(4) A fresh notification or other proceedings under section 5, 6 or 8, as the case may be, shall be necessary for the acquisition of the land that is the subject of a notice under section 49(1) and in respect of which subsection (5) does not apply.
+
+(5) However, the President is not to proceed under this section to acquire any land that is the subject of a notice under section 49(1) if —
+
+(a) the notice is not given to the Collector within the claim period applicable to that land; or
+
+(b) the notice is given to the Collector —
+
+(i) for a notice that concerns remaining surface land, after the Collector has made an award under section 10 for the acquisition under this Act of the airspace above or the subterranean space below the remaining surface land; or
+
+(ii) for a notice that concerns severed land, after the Collector has made an award under section 10 for the acquisition under this Act of the other part of the owner’s land so severed.
+
+(6) An owner of any land that is the subject of a notice under section 49(1), may within the prescribed time appeal to the High Court against the Collector’s assessment under subsection (2) or (3) as to —
+
+(a) whether any person giving the notice under section 49(1) in relation to any land is an owner of the land; or
+
+(b) whether the owner of the land suffers or does not suffer substantial impairment of his rights in the land because of any of the circumstances described in subsection (1).
+
+(7) To avoid doubt, the Collector is not prevented from taking possession of the land under this Act by reason only that an appeal to the High Court under subsection (6) in relation to the land is not determined.
+
+(8) For the purposes of this section, an owner of land suffers substantial impairment of his rights in the land if, and only if, the owner of the land or, if the owner is not in occupation of the land, any lawful occupier of the land —
+
+(a) is unable, for a period of one year or longer, to use the land, and any land related thereto, according to —
+
+(i) the zoning and density requirements and other restrictions imposed by or under the Planning Act (Cap. 232); and
+
+(ii) any other restrictive covenants in the State title for the land and the land related thereto (if any); and
+
+(b) is displaced from the land and any land related thereto for a period of one year or longer,
+
+solely by reason of any of the circumstances described in subsection (1)(a), (b) or (c).
+
+(9) In this section —
+
+“claim period” means —
+
+(a) for any temporarily occupied land and land related to that temporarily occupied land — one year starting from either of the following dates:
+
+(i) the date of the last notice under section 42(3) relating to the temporarily occupied land;
+
+(ii) the date of the expiry of the last term of temporary occupation determined under section 42(1) for the temporary occupation and use of the temporarily occupied land, or the date the land is returned to the owner if earlier;
+
+(b) for any land above which only the airspace, or any land below which only the subterranean space, is or has been acquired under section 5 (called the remaining surface land) and land related to that remaining surface land — one year starting from the date of acquisition for that airspace or subterranean space, as the case may be; and
+
+(c) for any land remaining after any other part of the owner’s land is severed because of an acquisition under this Act — one year starting from the date of acquisition for that other land so acquired;
+
+“date of acquisition”, for any land, airspace or subterranean space acquired under this Act, means the date of the publication of the notification under section 5(1) declaring that land, airspace or subterranean space is needed for the purpose specified in that declaration;
+
+“displace”, in relation to a person in occupation of any land, means being compelled to relocate the person’s principal place of residence or business on that land as a result of —
+
+(a) the taking of temporary possession of that land;
+
+(b) the acquisition under this Act of airspace above, or subterranean space below, that land; or
+
+(c) any severance;
+
+“severance” means severing of land acquired under this Act from other land;
+
+“temporary possession”, in relation to land, means temporary possession of the land taken in accordance with a direction under section 42.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 ### Acquisition of whole or any additional portion of land where compensation for severance is payable
 
 50\.—(1) If any claim for compensation is made to a Collector holding an inquiry under section 10 by a person interested or his agent as provided by sections 15 and 33(1)(c), on account of the severing of the land to be acquired from his other land, or if, notwithstanding that no such claim has been made, a Collector holding such an inquiry has certified under his hand that compensation as aforesaid is payable upon the acquisition, it shall be lawful for the President at any time before the Collector has made his award, to order the acquisition of the whole or any additional portion of the land of which the land first sought to be acquired forms a part.
 
-(2) No fresh notification or other proceedings under sections 5, 6 and 8 shall be necessary; but the Collector shall without delay furnish a copy of the order of the President to the person interested and shall thereafter proceed to make his award under section 10.
+(2) No fresh notification or other proceedings under sections 5, 6 and 8 shall be necessary; but the Collector shall without delay furnish a copy of the order of the President to the person interested and shall thereafter proceed to make his award under section 10 as if the whole or any additional portion of the land specified in the order of the President were the subject of the initial notification under section 5.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 ### Defraying of costs
 
@@ -1035,6 +1357,92 @@ Provided that the person interested may, at any time before the Collector has ma
 (2) All such rules shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
 [55
+
+## THE SCHEDULE
+
+Sections 43, 44, 44A and 44B
+
+COMPENSATION FOR TEMPORARY OCCUPATION OF LAND
+
+First column
+
+Item for which compensation
+may be claimed
+
+Second column
+
+Basis on which compensation
+is to be assessed
+
+1.
+
+Loss due to displacement (whether temporary or permanent) of any person in lawful occupation of the land on the date of the notice under section 42(3).
+
+(a)
+
+The financial loss naturally and reasonably resulting from the displacement of the person from the land.
+
+(b)
+
+All reasonable expenses incurred by such a person in removing from the land from which the person is displaced, including (but not limited to) the reasonable cost of renovating alternative premises to be occupied during the displacement.
+
+2.
+
+Any structural damage to any building within the land resulting from the exercise of the right of entry and occupation and use thereafter of the land under section 42.
+
+(a)
+
+The financial loss naturally and reasonably resulting from the displacement because of the structural damage.
+
+(b)
+
+All reasonable expenses incurred in removing from the building, including (but not limited to) the reasonable cost of renovating alternative premises to be occupied during the displacement.
+
+(c)
+
+The amount which is, or might be, fairly and reasonably incurred in repairing the damage to the building, or in a case where the structural damage is so extensive as to require the removal of the building, the amount which is, or might be, fairly and reasonably incurred in replacing a similar building.
+
+(d)
+
+The share in the responsibility for the loss or damage attributable to or connected with the exercise of the right of entry and occupation and use thereafter of the land under section 42.
+
+3.
+
+Any other damage to the land or a building resulting from the exercise of the right of entry and occupation and use thereafter of the land under section 42.
+
+(a)
+
+The financial loss naturally and reasonably resulting from the displacement because of the damage to the land or building.
+
+(b)
+
+All reasonable expenses incurred in removing from the land or building.
+
+(c)
+
+The amount that is, or might be, fairly and reasonably incurred in repairing the damage.
+
+(d)
+
+The share in the responsibility for the loss or damage attributable to or connected with the exercise of the right of entry and occupation and use thereafter of the land under section 42.
+
+4.
+
+The removal of any object or structure within the land as a result of the exercise of the right of entry and occupation of the land under section 42.
+
+(a)
+
+The cost of removing the object or structure, being the cost incurred in moving the object or structure and making good that part of the land from which it is removed.
+
+(b)
+
+The cost of reinstating the object or structure or of replacing the same with a similar object or structure.
+
+(c)
+
+The loss sustained by the removal of the object or structure which was erected and maintained without contravention of any written law and is not to be reinstated or replaced with a similar object or structure at the expense of the Collector, being an amount which might fairly and reasonably be estimated as the cost of reinstating or replacing the object or structure.
+
+[Act 12 of 2015 wef 08/05/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -1136,3 +1544,7 @@ This Legislative History is provided for the convenience of users of the Land Ac
 ||Date of First Reading|7 July 2014 (Bill No. 20/2014 published on 7 July 2014)|
 ||Date of Second and Third Readings|5 August 2014|
 ||Date of commencement|29 September 2014 (sections 2 to 11, 13 to 16, and the Schedule)|
+|21.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
+||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|8 May 2015|
