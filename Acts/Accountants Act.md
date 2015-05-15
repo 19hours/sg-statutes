@@ -36,6 +36,8 @@
 
 - [12 Certificate of registration and record in Register of Public Accountants](#Certificate-of-registration-and-record-in-Register-of-Public-Accountants)
 
+- [12A Electronic transaction system](#Electronic-transaction-system)
+
 - [13 Renewal of registration](#Renewal-of-registration)
 
 - [14 Duty to report change in particulars](#Duty-to-report-change-in-particulars)
@@ -168,7 +170,7 @@
 
 - [70 Transitional provisions relating to Institute of Certified Public Accountants of Singapore](#Transitional-provisions-relating-to-Institute-of-Certified-Public-Accountants-of-Singapore)
 
-[**THE SCHEDULE Constitution and Proceedings of Oversight Committee**](#THE-SCHEDULE)
+[**THE SCHEDULE Constitution and proceedings of Oversight Committee**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -184,7 +186,9 @@ REVISED EDITION 2005
 
 (31st July 2005)
 
-An Act relating to accountants.
+An Act relating to public accountants.
+
+[Act 5 of 2013 wef 01/04/2013]
 
 [1st April 2004]
 
@@ -306,7 +310,11 @@ ADMINISTRATION OF ACT
 
 (a) for the registration of public accountants and the approval of accounting corporations, accounting firms and accounting LLPs and the names thereof under this Act;
 
+[11/2006 wef 06/10/2006]
+
 (b) for the control and regulation of the practice of the profession of accountancy by public accountants, accounting corporations, accounting firms and accounting LLPs; and
+
+[11/2006 wef 06/10/2006]
 
 (c) generally, for the administration of this Act,
 
@@ -368,7 +376,11 @@ and shall carry out such functions subject to the general or special directions 
 
 (i) any complaint against any public accountant, accounting corporation, accounting firm or accounting LLP; or
 
+[11/2006 wef 06/10/2006]
+
 (ii) any information relating to any professional misconduct on the part of any public accountant, accounting corporation, accounting firm or accounting LLP,
+
+[11/2006 wef 06/10/2006]
 
 and, if necessary, institute disciplinary proceedings in accordance with Part VI;
 
@@ -424,7 +436,11 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 (b) the Register of Public Accounting Corporations;
 
+[11/2006 wef 06/10/2006]
+
 (c) the Register of Public Accounting Firms; and
+
+[11/2006 wef 06/10/2006]
 
 (d) the Register of Public Accounting Limited Liability Partnerships.
 
@@ -438,13 +454,19 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 (ii) in the Register of Public Accounting Corporations the name and relevant particulars of every accounting corporation that is approved under this Act or that has had its approval revoked;
 
+[11/2006 wef 06/10/2006]
+
 (iii) in the Register of Public Accounting Firms the name and relevant particulars of every accounting firm that is approved under this Act or that has had its approval revoked; and
+
+[11/2006 wef 06/10/2006]
 
 (iv) in the Register of Public Accounting Limited Liability Partnerships the name and relevant particulars of every accounting LLP that is approved under this Act or that has had its approval revoked;
 
 [11/2006 wef 06/10/2006]
 
 (b) allow any person to inspect the Register of Public Accountants, the Register of Public Accounting Corporations, the Register of Public Accounting Firms or the Register of Public Accounting Limited Liability Partnerships in such manner and on such terms as the Oversight Committee may determine;
+
+[11/2006 wef 06/10/2006]
 
 (c) insert in the appropriate register any change in the names or relevant particulars recorded therein that may have been notified to him or that may otherwise have come to his knowledge; and
 
@@ -536,6 +558,28 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 [Accountants 2001 Ed., s. 15]
 
+### Electronic transaction system
+
+12A\.—(1) The Registrar may —
+
+(a) require or permit any person to carry out any transaction with the Registrar under this Act; and
+
+(b) issue any approval, certificate, notice, determination or other document pursuant or connected to a transaction referred to in paragraph (a),
+
+using the electronic transaction system established under Part VIA of the Accounting and Corporate Regulatory Authority Act (Cap. 2A).
+
+(2) In this section, “transaction”, in relation to the Registrar, means —
+
+(a) the filing or lodging of any document with the Registrar, or the submission, production, delivery, furnishing or sending of any document to the Registrar;
+
+(b) any making of any application, submission or request to the Registrar;
+
+(c) any provision of any undertaking or declaration to the Registrar; and
+
+(d) any extraction, retrieval or accessing of any document, record or information maintained by the Registrar.
+
+[Act 18 of 2014 wef 15/05/2015]
+
 ### Renewal of registration
 
 13\.—(1) Unless the Oversight Committee or the Registrar allows otherwise, a public accountant who desires to renew his certificate of registration upon its expiry shall, not less than one month before the date of the expiry, submit his application for the renewal to the Oversight Committee in such form or manner as the Oversight Committee may require.
@@ -610,6 +654,8 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
+[11/2006 wef 06/10/2006]
+
 ### Approval of accounting corporations
 
 17\.—(1) A public accountant who wishes to have a company or proposed company approved as an accounting corporation may apply to the Oversight Committee for approval of —
@@ -623,6 +669,8 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 (3) Subject to subsection (4) and any other provisions of this Act, the Oversight Committee may, on receiving an application made under this section, approve the company or proposed company concerned as an accounting corporation if and only if —
 
 (a) one of the primary objects of the company or proposed company is to provide public accountancy services;
+
+[11/2006 wef 06/10/2006]
 
 (b) the share capital of the company or proposed company that is paid up or to be paid up is not less than $50,000 or such other sum as may be prescribed;
 
@@ -639,6 +687,8 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 (iii) only natural persons may own any shares of the company or proposed company;
 
 (d) the business of the company or proposed company, so far as it relates to the provision of public accountancy services in Singapore, will be under the control and management of one or more directors of the company who are public accountants ordinarily resident in Singapore; and
+
+[11/2006 wef 06/10/2006]
 
 (e) the company or proposed company is or will be covered by professional indemnity insurance in accordance with section 28 and the prescribed requirements.
 
@@ -663,6 +713,8 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 (b) at least two-thirds, or such other proportion as may be prescribed, of the partners are public accountants, or if the partnership has only 2 partners, one of those partners is a public accountant; and
 
 (c) the business of the partnership, so far as it relates to the supply of public accountancy services in Singapore, will be under the control and management of one or more partners who are public accountants ordinarily resident in Singapore.
+
+[11/2006 wef 06/10/2006]
 
 ### Approval of accounting LLPs
 
@@ -694,7 +746,13 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 (a) is undesirable; or
 
+[11/2006 wef 06/10/2006]
+
+(b) [Deleted by Act 11 of 2006 wef 06/10/2006]
+
 (c) is a name of a kind that the Authority has directed the Oversight Committee not to accept for registration.
+
+[11/2006 wef 06/10/2006]
 
 (2) Notwithstanding section 27 of the Companies Act (Cap. 50), an accounting corporation which is a limited company need not have the word “Limited” or “Berhad” as part of its name and an accounting corporation which is a private company need not have the word “Private” or “Sendirian” as part of its name.
 
@@ -702,11 +760,15 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 (4) The name of an accounting corporation, accounting firm or accounting LLP shall not be changed without the prior approval in writing of the Oversight Committee.
 
+[11/2006 wef 06/10/2006]
+
 (5) Notwithstanding anything in this section, section 27 of the Companies Act or section 19 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005), where the Oversight Committee is satisfied that the name of an accounting corporation, accounting firm or accounting LLP has been approved (whether through inadvertence or otherwise and whether originally or by change of name) in contravention of subsection (1), the Oversight Committee may direct the accounting corporation, accounting firm or accounting LLP to change its name.
 
 [11/2006 wef 06/10/2006]
 
 (6) The accounting corporation, accounting firm or accounting LLP shall comply with the direction of the Oversight Committee under subsection (5) within 6 weeks after the date of the direction or such longer period as the Oversight Committee may allow unless the direction is annulled by the Minister.
+
+[11/2006 wef 06/10/2006]
 
 [Accountants 2001 Ed., s. 20]
 
@@ -762,6 +824,8 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 23\.—(1) An accounting corporation is authorised to do anything that a public accountant can do by law and is required to do all that a public accountant is required to do by law in respect of the provision of public accountancy services by that accounting corporation.
 
+[11/2006 wef 06/10/2006]
+
 (2) Subsection (1) shall not apply to the doing of anything that can only be done by a public accountant as a natural person.
 
 (3) A public accountant who provides public accountancy services as a director or an employee of an accounting corporation shall be subject to the same standards of professional conduct and competence in respect of such services as if he were personally providing the public accountancy services as a public accountant in an accounting firm.
@@ -790,7 +854,11 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 25\.—(1) An act or omission of a public accountant may constitute improper or dishonourable conduct in the discharge of his professional duty even though it is only done or occurs while the public accountant provides public accountancy services through an accounting corporation, an accounting firm or an accounting LLP.
 
+[11/2006 wef 06/10/2006]
+
 (2) The directors of an accounting corporation or the partners of an accounting firm or an accounting LLP who are public accountants shall be jointly liable to disciplinary proceedings under this Act if the business of the accounting corporation, accounting firm or accounting LLP is conducted in a manner which would warrant disciplinary proceedings against it and where such conduct cannot be attributed to the act or omission of any particular public accountant or public accountants.
+
+[11/2006 wef 06/10/2006]
 
 [Accountants 2001 Ed., s. 25]
 
@@ -813,6 +881,8 @@ furnish the Registrar with a true report in writing giving full particulars of t
 (3) In addition to the requirements in subsection (2), every accounting corporation shall in every year, not later than a date specified by the Oversight Committee, send to the Registrar an annual report relating to the accounting corporation in such form as the Oversight Committee may require.
 
 [Accountants 2001 Ed., s. 26]
+
+[11/2006 wef 06/10/2006]
 
 ### Shares of accounting corporation
 
@@ -958,13 +1028,23 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 (a) the approval of the accounting corporation, accounting firm or accounting LLP under this Part has been obtained by fraud or misrepresentation;
 
+[11/2006 wef 06/10/2006]
+
 (b) the accounting corporation, the sole proprietor or any partner of the accounting firm, or any partner of the accounting LLP, as the case may be, has made an arrangement with its or his creditors;
+
+[11/2006 wef 06/10/2006]
 
 (c) the accounting corporation, accounting firm or accounting LLP has ceased to provide public accountancy services in Singapore; or
 
+[11/2006 wef 06/10/2006]
+
 (d) the accounting corporation, accounting firm or accounting LLP is no longer in a position to provide public accountancy services effectively.
 
+[11/2006 wef 06/10/2006]
+
 (5) The Oversight Committee shall, before exercising its powers under subsection (4), notify the accounting corporation, accounting firm or accounting LLP concerned of its intention to take such action and shall give the accounting corporation, accounting firm or accounting LLP an opportunity to submit reasons, within such period as the Oversight Committee may determine, as to why its approval under this Part should not be revoked.
+
+[11/2006 wef 06/10/2006]
 
 (6) Any person who is aggrieved by an order under subsection (4) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
 
@@ -1100,6 +1180,8 @@ DISCIPLINARY PROCEEDINGS
 
 (b) any improper act or conduct on the part of a public accountant, an accounting corporation, an accounting firm or an accounting LLP,
 
+[11/2006 wef 06/10/2006]
+
 shall be made to the Oversight Committee in writing and shall be supported by such statutory declaration as the Oversight Committee may require, except that no statutory declaration shall be required if the complaint or information is made or given by any public officer or officer of the Authority.
 
 (2) The Oversight Committee may require any person making a complaint to deposit with it a reasonable sum not exceeding $1,000 to cover the costs and expenses that may necessarily be incurred by the Oversight Committee in dealing with the complaint.
@@ -1114,19 +1196,27 @@ shall be made to the Oversight Committee in writing and shall be supported by su
 
 (2) The Oversight Committee may also, on its own motion, refer any information concerning any improper or dishonourable act or conduct of a public accountant, an accounting corporation, an accounting firm or an accounting LLP to the Registrar for review.
 
+[11/2006 wef 06/10/2006]
+
 (3) The Oversight Committee need not refer any complaint or information to the Registrar for review where the complaint or information relates to any matter set out in section 15(1) or (4) or 31(1), (2) or (4), and in such a case, the Oversight Committee may take such action as it thinks fit under that section.
 
 (4) The Registrar —
 
 (a) shall review the complaint or information referred to him for the purpose of determining if there are sufficient merits therein to warrant the institution of disciplinary proceedings under this Part against the public accountant, accounting corporation, accounting firm or accounting LLP concerned; and
 
+[11/2006 wef 06/10/2006]
+
 (b) may, for the purpose of conducting such review, enlist the assistance of any public accountant or lay person on the Complaints and Disciplinary Panel.
 
 (5) In reviewing any complaint or information under this section, the Registrar may require the complainant (if any) or the public accountant, accounting corporation, accounting firm or accounting LLP concerned to answer any question or to furnish any document or information that the Registrar considers relevant for the purpose of the review.
 
+[11/2006 wef 06/10/2006]
+
 (6) If the complainant refuses or fails, without reasonable excuse, to furnish any document or information as may be required by the Registrar under subsection (5), the Registrar may dismiss the complaint.
 
 (7) If any public accountant, accounting corporation, accounting firm or accounting LLP refuses or fails, without reasonable excuse, to furnish any document or information as may be required by the Registrar under subsection (5), the public accountant, accounting corporation or accounting firm (as the case may be) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[11/2006 wef 06/10/2006]
 
 (8) On the completion of a review under this section, the Registrar shall —
 
@@ -1139,6 +1229,8 @@ shall be made to the Oversight Committee in writing and shall be supported by su
 (ii) implies a defect in character which makes the public accountant concerned unfit for his profession,
 
 recommend to the Oversight Committee to refer the matter to a Disciplinary Committee for a formal inquiry; and
+
+[11/2006 wef 06/10/2006]
 
 (c) in any other case, recommend to the Oversight Committee to refer the matter to a Complaints Committee for inquiry.
 
@@ -1154,6 +1246,8 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 42\.—(1) The Oversight Committee may, if it thinks fit, direct that a complaint against a public accountant, an accounting corporation, an accounting firm or an accounting LLP be proceeded with at an inquiry of a Complaints Committee or a formal inquiry of a Disciplinary Committee notwithstanding that the complainant may have withdrawn the complaint at any time before or after the appointment of the Complaints Committee or Disciplinary Committee.
 
+[11/2006 wef 06/10/2006]
+
 (2) Where the Oversight Committee has made a direction under subsection (1), the complaint shall be proceeded with as if it had originated as information which the Oversight Committee had, on its own motion, referred to the Registrar for review under section 41(2).
 
 ### Conviction final and conclusive
@@ -1165,6 +1259,8 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 (b) it has been quashed or set aside; or
 
 (c) a pardon has been given in respect of it.
+
+[11/2006 wef 06/10/2006]
 
 ### Constitution of Complaints Committee
 
@@ -1208,13 +1304,19 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (b) a notice inviting the public accountant, accounting corporation, accounting firm or accounting LLP, within such period (not being less than 14 days) as may be specified in the notice, to give to the Complaints Committee any written explanation he or it may wish to offer.
 
+[11/2006 wef 06/10/2006]
+
 (7) The public accountant, accounting corporation, accounting firm or accounting LLP concerned shall not have the right to be heard by the Complaints Committee, whether in person or by counsel, unless the Complaints Committee in its absolute discretion otherwise allows.
+
+[11/2006 wef 06/10/2006]
 
 (8) A Complaints Committee shall inquire into the complaint or information and complete its inquiry not later than 3 months from the date the complaint or information is referred to it.
 
 (9) Where a Complaints Committee is of the opinion that it will not be able to complete its inquiry within the period specified in subsection (8) due to the complexity of the matter or serious difficulties encountered by the Complaints Committee in conducting its inquiry, the Complaints Committee may apply in writing to the Oversight Committee for an extension of time to complete its inquiry and the Oversight Committee may grant such extension of time to the Complaints Committee as it thinks fit.
 
 (10) All information, including such book, document, paper or other records used by a Complaints Committee in the course of its deliberations, shall be confidential and shall not be disclosed to any person including the public accountant, accounting corporation, accounting firm or accounting LLP concerned unless the Complaints Committee in its discretion decides otherwise.
+
+[11/2006 wef 06/10/2006]
 
 (11) The chairman of the Complaints Committee shall record its proceedings in writing and in sufficient detail to enable the Oversight Committee to follow the course of the proceedings.
 
@@ -1236,7 +1338,11 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (3) Where in the course of its inquiry a Complaints Committee receives any information or evidence relating to the conduct of the public accountant, accounting corporation, accounting firm or accounting LLP concerned which may give rise to further proceedings under this Part, the Complaints Committee may, after giving notice to the public accountant, accounting corporation, accounting firm or accounting LLP concerned, decide on its own motion to inquire into that matter and report its findings to the Oversight Committee.
 
+[11/2006 wef 06/10/2006]
+
 (4) Where in the course of its inquiry a Complaints Committee receives any information or evidence relating to the conduct of the public accountant, accounting corporation, accounting firm or accounting LLP concerned which discloses an offence under any written law, the Complaints Committee shall record that information in its report to the Oversight Committee.
+
+[11/2006 wef 06/10/2006]
 
 (5) The Oversight Committee may appoint a legal assessor to advise the Complaints Committee on any matter of law arising in the course of its inquiry.
 
@@ -1246,11 +1352,17 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (a) if it is of the view that no further action should be taken on the complaint or information, dismiss the complaint or information and notify the Oversight Committee, the complainant (if any) and the public accountant, accounting corporation, accounting firm or accounting LLP concerned of the dismissal;
 
+[11/2006 wef 06/10/2006]
+
 (b) if it is of the view that the complaint or information is valid but that no formal inquiry is necessary, recommend to the Oversight Committee to do any of the following:
 
 (i) order that the public accountant, accounting corporation, accounting firm or accounting LLP concerned be issued with a letter of advice;
 
+[11/2006 wef 06/10/2006]
+
 (ii) order that the public accountant, accounting corporation, accounting firm or accounting LLP concerned be warned;
+
+[11/2006 wef 06/10/2006]
 
 (iii) make such other order as the Complaints Committee considers appropriate; and
 
@@ -1268,7 +1380,11 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (2) The Oversight Committee shall notify the public accountant, accounting corporation, accounting firm or accounting LLP concerned and the person who made the complaint of its decision.
 
+[11/2006 wef 06/10/2006]
+
 (3) Any public accountant, accounting corporation, accounting firm or accounting LLP who or which is aggrieved by any order of the Oversight Committee, being an order referred to in subsection (1)(c) or section 47(b), may, within 30 days of being notified of the determination of the Oversight Committee, appeal to the Minister whose decision shall be final.
+
+[11/2006 wef 06/10/2006]
 
 (4) The Minister may make —
 
@@ -1312,9 +1428,15 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 50\.—(1) Before a Disciplinary Committee commences a formal inquiry into any complaint or information referred to it, the Registrar shall serve on the public accountant, accounting corporation, accounting firm or accounting LLP concerned a written notice of the formal inquiry.
 
+[11/2006 wef 06/10/2006]
+
 (2) A formal inquiry shall not be fixed on a date earlier than 14 days after the date of the notice of formal inquiry except with the agreement of the public accountant, accounting corporation, accounting firm or accounting LLP concerned.
 
+[11/2006 wef 06/10/2006]
+
 (3) On application to the Disciplinary Committee, the public accountant, accounting corporation, accounting firm or accounting LLP concerned may request postponement of the formal inquiry, and the Disciplinary Committee may, in its discretion, grant the application and postpone the formal inquiry to such date as it may determine, or refuse the application.
+
+[11/2006 wef 06/10/2006]
 
 ### Procedure of Disciplinary Committee
 
@@ -1334,11 +1456,19 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 (b) the accounting corporation, accounting firm or accounting LLP against which the complaint has been made may be represented by any of its corporate practitioners or partners or be represented by counsel.
 
+[11/2006 wef 06/10/2006]
+
 (7) If the public accountant, accounting corporation, accounting firm or accounting LLP concerned does not appear, the Disciplinary Committee may proceed with the formal inquiry after satisfying itself that the notice referred to in section 50 was duly served on him or it.
+
+[11/2006 wef 06/10/2006]
 
 (8) A Disciplinary Committee may, for the purposes of its formal inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out subpoenas to testify or to produce documents.
 
+[42/2005 wef 01/01/2006]
+
 (9) The subpoenas referred to in subsection (8) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
+
+[42/2005 wef 01/01/2006]
 
 (10) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
@@ -1351,6 +1481,8 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 (14) When an application for an extension of time has been made under subsection (13), the Oversight Committee may grant an extension of time for such period as it thinks fit.
 
 (15) The Oversight Committee may, where it thinks fit, require a Disciplinary Committee to consider further evidence and meet for that purpose except that the public accountant, accounting corporation, accounting firm or accounting LLP concerned shall be given not less than 14 days’ notice of such further meeting of the Disciplinary Committee.
+
+[11/2006 wef 06/10/2006]
 
 (16) The chairman of the Disciplinary Committee shall record its proceedings in writing and in sufficient detail to enable the Oversight Committee to follow the course of the proceedings.
 
@@ -1440,6 +1572,8 @@ the Disciplinary Committee shall report its findings to the Oversight Committee 
 
 [Accountants 2001 Ed., s. 34]
 
+[11/2006 wef 06/10/2006]
+
 ### Revocation of approval, etc., of accounting corporations, accounting firms and accounting LLPs
 
 53\.—(1) If, at the conclusion of a formal inquiry, the Disciplinary Committee is satisfied that —
@@ -1450,49 +1584,81 @@ the Disciplinary Committee shall report its findings to the Oversight Committee 
 
 (b) an accounting corporation, accounting firm or accounting LLP has done or omitted to do something which, if done or omitted to be done by a public accountant, would be regarded as being improper or dishonourable conduct that would bring the profession of public accountancy into disrepute;
 
+[11/2006 wef 06/10/2006]
+
 (c) an accounting corporation, accounting firm or accounting LLP has carried on by itself or by any of its employees any trade, business or calling that detracts from the profession of public accountancy or is in any way incompatible with it, or is employed in any such trade, business or calling;
+
+[11/2006 wef 06/10/2006]
 
 (d) an accounting corporation, accounting firm or accounting LLP has rendered any public accountancy services under a name other than the name approved under section 19;
 
+[11/2006 wef 06/10/2006]
+
 (e) an accounting corporation or accounting LLP has provided public accountancy services without being covered by professional indemnity insurance at all or to the extent required by section 28; or
+
+[11/2006 wef 06/10/2006]
 
 (f) an accounting corporation has contravened or failed to comply with the requirements for accounting corporations in section 26, 27 or 29 or in any of the rules,
 
-the Disciplinary Committee shall report its findings to the Oversight Committee and recommend to the Oversight Committee to take any of the actions referred to in subsection (2) (a) to (f).
+the Disciplinary Committee shall report its findings to the Oversight Committee and recommend to the Oversight Committee to take any of the actions referred to in subsection (2)(a) to (f).
 
 (2) Upon receiving the report and recommendation of the Disciplinary Committee under subsection (1), the Oversight Committee may —
 
 (a) by order revoke the approval granted to the accounting corporation, accounting firm or accounting LLP under Part IV;
 
+[11/2006 wef 06/10/2006]
+
 (b) by order suspend the accounting corporation, accounting firm or accounting LLP from providing public accountancy services for such period not exceeding 2 years as may be specified in the order;
+
+[11/2006 wef 06/10/2006]
 
 (c) by order impose such conditions as are necessary to restrict the provision of public accountancy services by the accounting corporation, accounting firm or accounting LLP in such manner as the Oversight Committee thinks fit for a period not exceeding 2 years;
 
+[11/2006 wef 06/10/2006]
+
 (d) by order impose on the accounting corporation, accounting firm or accounting LLP a penalty not exceeding $100,000;
+
+[11/2006 wef 06/10/2006]
 
 (e) by writing censure the accounting corporation, accounting firm or accounting LLP;
 
+[11/2006 wef 06/10/2006]
+
 (f) by order require the accounting corporation, accounting firm or accounting LLP to give such undertaking as the Disciplinary Committee thinks fit; or
+
+[11/2006 wef 06/10/2006]
 
 (g) make such other order as it thinks just and expedient in the circumstances of the case.
 
 (3) In addition to its powers under subsection (2), the Oversight Committee may order the accounting corporation, accounting firm or accounting LLP concerned to pay to the Authority such sums as it thinks fit in respect of costs and expenses of and incidental to any proceedings against the accounting corporation, accounting firm or accounting LLP under this Part and the High Court shall have jurisdiction to tax such costs and any such order for costs shall be enforceable as if it were ordered in connection with a civil action in the High Court.
 
-(4) Where an accounting corporation, accounting firm or accounting LLP in respect of which an order referred to in subsection (2) (c), (d) or (f) has been made fails to comply with any of the requirements imposed on it by the order or breaches any undertaking given by it pursuant to such order, the Oversight Committee may, if it thinks fit —
+[11/2006 wef 06/10/2006]
+
+(4) Where an accounting corporation, accounting firm or accounting LLP in respect of which an order referred to in subsection (2)(c), (d) or (f) has been made fails to comply with any of the requirements imposed on it by the order or breaches any undertaking given by it pursuant to such order, the Oversight Committee may, if it thinks fit —
 
 (a) by order revoke the approval granted to the accounting corporation, accounting firm or accounting LLP under Part IV; or
 
+[11/2006 wef 06/10/2006]
+
 (b) by order suspend the accounting corporation, accounting firm or accounting LLP from providing public accountancy services for such period not exceeding 12 months as may be specified in the order.
 
-(5) Where the Oversight Committee has made an order referred to in subsection (2) (c), the Oversight Committee may, if it thinks fit having regard to any change in circumstances, by another order revoke the original order or revoke or vary any of the conditions imposed by the original order.
+[11/2006 wef 06/10/2006]
 
-(6) Where the Oversight Committee has, under subsection (5), varied the conditions imposed by an order referred to in subsection (2) (c), the Registrar shall immediately serve on the accounting corporation, accounting firm or accounting LLP concerned a notice of the variation.
+(5) Where the Oversight Committee has made an order referred to in subsection (2)(c), the Oversight Committee may, if it thinks fit having regard to any change in circumstances, by another order revoke the original order or revoke or vary any of the conditions imposed by the original order.
 
-(7) Any penalty referred to in subsection (2) (d) shall be recoverable as a debt due to the Authority from the accounting corporation, accounting firm or accounting LLP concerned.
+(6) Where the Oversight Committee has, under subsection (5), varied the conditions imposed by an order referred to in subsection (2)(c), the Registrar shall immediately serve on the accounting corporation, accounting firm or accounting LLP concerned a notice of the variation.
+
+[11/2006 wef 06/10/2006]
+
+(7) Any penalty referred to in subsection (2)(d) shall be recoverable as a debt due to the Authority from the accounting corporation, accounting firm or accounting LLP concerned.
+
+[11/2006 wef 06/10/2006]
 
 (8) A decision by the Oversight Committee under subsection (2), (3), (4) or (5) shall not take effect —
 
 (a) until the expiration of one month from the date on which the decision has been communicated to the accounting corporation, accounting firm or accounting LLP concerned; or
+
+[11/2006 wef 06/10/2006]
 
 (b) where an appeal against the decision is made to the High Court under section 54, until the appeal has been determined or withdrawn.
 
@@ -1500,9 +1666,13 @@ the Disciplinary Committee shall report its findings to the Oversight Committee 
 
 [Accountants 2001 Ed., s. 35]
 
+[11/2006 wef 06/10/2006]
+
 ### Appeal against disciplinary orders of Oversight Committee
 
 54\.—(1) Any public accountant, accounting corporation, accounting firm or accounting LLP who or which is aggrieved with any decision made by the Oversight Committee under section 52 or 53 may appeal to the High Court within a period of 30 days (or such further period as the Oversight Committee may allow on application in any particular case) after the service of the decision of the Oversight Committee on the public accountant, accounting corporation, accounting firm or accounting LLP, as the case may be.
+
+[11/2006 wef 06/10/2006]
 
 (2) The decision of the High Court on an appeal under subsection (1) shall be final.
 
@@ -1572,7 +1742,11 @@ the public accountant, accounting corporation, accounting firm or accounting LLP
 
 (b) an accounting corporation;
 
+[11/2006 wef 06/10/2006]
+
 (c) an accounting firm; or
+
+[11/2006 wef 06/10/2006]
 
 (d) an accounting LLP.
 
@@ -1604,6 +1778,8 @@ by knowingly making or producing or causing to be made any false or fraudulent d
 
 (b) wilfully makes or causes to be made any falsification in the Register of Public Accountants, the Register of Public Accounting Corporations, the Register of Public Accounting Firms or the Register of Public Accounting Limited Liability Partnerships;
 
+[11/2006 wef 06/10/2006]
+
 (c) forges, alters or counterfeits any certificate of registration as a public accountant issued under this Act;
 
 (d) uses any forged, altered or counterfeit certificate of registration as a public accountant under this Act knowing the certificate to have been forged, altered or counterfeited; or
@@ -1624,23 +1800,35 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) has been convicted of an offence by a court of law and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $5,000.
 
+[11/2006 wef 06/10/2006]
+
 (2) On application made by any person, the Oversight Committee may make an order directing that, as from the date to be specified in the order, no public accountant shall in connection with his practice as such, or no accounting corporation, accounting firm or accounting LLP shall in connection with its provision of public accountancy services, as the case may be, employ or remunerate any person, the subject of the application, who —
 
 (a) has been a party to any act or default of a public accountant in respect of which a complaint has been or might properly have been made against that public accountant under the provisions of this Act; or
 
 (b) has so conducted himself while employed by a public accountant that, had he himself been a public accountant, his conduct might have formed the subject of a complaint under the provisions of this Act against him.
 
+[11/2006 wef 06/10/2006]
+
 (3) Every application under subsection (2) shall be served upon the person in respect of whom it is made and upon his employer or previous employer if his employer or previous employer is a public accountant, an accounting corporation, an accounting firm or an accounting LLP, not less than 10 days before the application is to be heard.
 
+[11/2006 wef 06/10/2006]
+
 (4) Every order made under subsection (2) shall be filed in a file kept for this purpose by the Registrar and such file may be inspected by any public accountant, accounting corporation, accounting firm or accounting LLP without fee.
+
+[11/2006 wef 06/10/2006]
 
 (5) Disciplinary proceedings may be taken against any public accountant, accounting corporation, accounting firm or accounting LLP who or which contravenes subsection (1) or fails to comply with an order made under subsection (2).
 
 [Accountants 2001 Ed., s. 70]
 
+[11/2006 wef 06/10/2006]
+
 ### Offences committed by bodies corporate, etc.
 
 60\.—(1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, partner, manager, secretary or any similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[11/2006 wef 06/10/2006]
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
@@ -1686,9 +1874,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) to prescribe the code of professional conduct and ethics of public accountants, accounting corporations, accounting firms and accounting LLPs;
 
+[11/2006 wef 06/10/2006]
+
 (g) to provide for matters relating to the discipline of public accountants;
 
 (h) to impose restrictions on persons or classes of persons who may become officers of an accounting corporation, accounting firm or accounting LLP;
+
+[11/2006 wef 06/10/2006]
 
 (i) to provide for the exemption of any persons or classes of persons from any provision of Part III or IV; and
 
@@ -1788,7 +1980,7 @@ the Oversight Committee may institute disciplinary proceedings under Part VI aga
 
 Section 4(4) and (5)
 
-Constitution and Proceedings of Oversight Committee
+Constitution and proceedings of Oversight Committee
 
 Appointment of Chairman
 
@@ -1840,7 +2032,7 @@ Accountants Act
 
 (CHAPTER 2)
 
-Unless otherwise stated, the abbreviation used in the cross-references are references to the Singapore Accountants Act (Cap. 2, 2001 Revised Edition). The references are provided for convenience and are not part of the Act.
+Notes:—Unless otherwise stated, the abbreviation used in the cross-references are references to the Singapore Accountants Act (Cap. 2, 2001 Revised Edition). The references are provided for convenience and are not part of the Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -1848,7 +2040,7 @@ Accountants Act
 
 (CHAPTER 2)
 
-This Legislative History is provided for the convenience of users of the Accountants Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Accountants Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1879,3 +2071,7 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of First Reading|15 November 2012 (Bill No. 40/2012 published on 15 November 2012)|
 ||Date of Second and Third Readings|15 January 2013|
 ||Date of commencement|1 April 2013|
+|7.|**Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014**|
+||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
+||Date of Second and Third Readings|14 April 2014|
+||Date of commencement|15 May 2015|
