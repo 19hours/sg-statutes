@@ -56,11 +56,11 @@
 
 - [22 Request for copy of certificate of registration, etc.](#Request-for-copy-of-certificate-of-registration-etc)
 
-- [23 Electronic filing service](#Electronic-filing-service)
+- [23 Electronic transaction system](#Electronic-transaction-system)
 
 - [24 Destruction or transfer of old records](#Destruction-or-transfer-of-old-records)
 
-- [25 Exclusion of liability for errors or omissions](#Exclusion-of-liability-for-errors-or-omissions)
+- [25 (Repealed)](#Repealed)
 
 [**Part IV DUTIES, OFFENCES AND POWERS OF ENFORCEMENT**](#Part-IV)
 
@@ -188,7 +188,7 @@ who have entered into partnership with one another with a view to carrying on bu
 
 “person” includes any corporation, firm, foreign firm and individual;
 
-“prescribed person” means a person, or a person within a class of persons, prescribed by the Minister for the purposes of section 23;
+[Deleted by Act 18 of 2014 wef 15/05/2015]
 
 “register” means any register kept under or by virtue of this Act;
 
@@ -570,7 +570,9 @@ he may cancel the registration of that limited partnership and remove the name o
 
 to be certified by the Registrar.
 
-(2) Any copy or extract, including a copy produced by way of such medium as determined by the Registrar, given under subsection (1) (not being a copy or an extract referred to in section 23(3)) which is certified to be a true copy or an extract under the hand and seal of the Registrar shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+(2) Any copy or extract, including a copy produced by way of such medium as determined by the Registrar, given under subsection (1) which is certified to be a true copy or an extract under the hand and seal of the Registrar shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+
+[Act 18 of 2014 wef 15/05/2015]
 
 (3) A register shall not be open to inspection by the public.
 
@@ -578,19 +580,27 @@ to be certified by the Registrar.
 
 [BR Act, s. 18]
 
-### Electronic filing service
+### Electronic transaction system
 
-23\.—(1) The Registrar may require any document to be lodged under this Act to be filed electronically with the Registrar using the service provided by the Registry of Limited Partnerships whereby documents under this Act may be filed with or submitted to the Registrar electronically.
+23\.—(1) The Registrar may —
 
-(2) Where any document is required to be filed with or submitted to the Registrar electronically by any person using the service referred to in subsection (1), the Registrar may allow the document to be filed or submitted by a prescribed person on behalf of the first-mentioned person, subject to such conditions as may be imposed from time to time by the Registrar on the prescribed person.
+(a) require or permit any person to carry out any transaction with the Registrar under this Act; and
 
-(3) A copy of or an extract from any document electronically filed with or submitted to the Registrar using the service referred to in subsection (1) which is supplied or issued by the Registrar and certified under his hand and seal to be a true copy of or an extract from such document shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+(b) issue any approval, certificate, notice, determination or other document pursuant or connected to a transaction referred to in paragraph (a),
 
-(4) Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall, in any proceedings, be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
+using the electronic transaction system established under Part VIA of the Accounting and Corporate Regulatory Authority Act (Cap. 2A).
 
-(5) Subsections (3) and (4) shall have effect notwithstanding the provisions of any other written law.
+(2) In this section, “transaction”, in relation to the Registrar, means —
 
-[BR Act, s. 20; LLPA, s. 42]
+(a) the filing or lodging of any document with the Registrar, or the submission, production, delivery, furnishing or sending of any document to the Registrar;
+
+(b) any making of any application, submission or request to the Registrar;
+
+(c) any provision of any undertaking or declaration to the Registrar; and
+
+(d) any extraction, retrieval or accessing of any document, record or information maintained by the Registrar.
+
+[Act 18 of 2014 wef 15/05/2015]
 
 ### Destruction or transfer of old records
 
@@ -604,17 +614,7 @@ to be certified by the Registrar.
 
 [Act 25 of 2012 wef 28/03/2013]
 
-### Exclusion of liability for errors or omissions
-
-25\. The Registrar, any public officer or any member, officer, employee or authorised agent of the Authority shall not be liable in respect of any error or omission in a register or in any certificate, certified extract, copy or other document made or issued under this Act or in any information relating to a limited partnership registered under this Act furnished by him, if the error or omission —
-
-(a) is made in good faith and in the ordinary course of the discharge of his duties; or
-
-(b) has occurred or arisen as a result of any defect or breakdown in any electronic filing service or information service of the Authority or in any of the equipment used for such service,
-
-and no court shall entertain any suit or other proceedings or damages in respect of any such matter.
-
-[BR Act, ss. 19, 20(3), 34; LLPA, ss. 41, 42(3), 52]
+25\. [Repealed by Act 18 of 2014 wef 15/05/2015]
 
 ## PART IV
 
@@ -1077,3 +1077,7 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|10 September 2012 (Bill No. 23/2012 published on 10 September 2012)|
 ||Date of Second and Third Readings|15 October 2012|
 ||Date of commencement|28 March 2013|
+|4.|**Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014**|
+||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
+||Date of Second and Third Readings|14 April 2014|
+||Date of commencement|15 May 2015|
