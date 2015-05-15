@@ -100,9 +100,9 @@
 
 - [40 Rectification of register](#Rectification-of-register)
 
-- [41 Information service — exclusion of liability of errors or omissions](#Information-service-—-exclusion-of-liability-of-errors-or-omissions)
+- [41 Electronic transaction system](#Electronic-transaction-system)
 
-- [42 Electronic filing service](#Electronic-filing-service)
+- [42 (Repealed)](#Repealed)
 
 - [43 Inspection](#Inspection)
 
@@ -238,7 +238,7 @@ but does not include —
 
 “partner”, in relation to a limited liability partnership, means any person who has been admitted as a partner in the limited liability partnership in accordance with the limited liability partnership agreement;
 
-“prescribed person” means a person, or a person within a class of persons, prescribed by the Minister;
+[Deleted by Act 18 of 2014 wef 15/05/2015]
 
 “private company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -954,35 +954,29 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 [Companies 1994 Ed., s. 12B]
 
-### Information service — exclusion of liability of errors or omissions
+### Electronic transaction system
 
-41\. Where the Registry of Limited Liability Partnerships furnishes, in any form, information relating to a limited liability partnership registered under this Act to any person, the Authority, any of its members, officers or employees and any authorised agent of the Registry who is involved in the supply of such information shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or however caused, if the error or omission —
+41\.—(1) The Registrar may —
 
-(a) is made in good faith and in the ordinary course of the discharge of the duties of such member, officer, employee or authorised agent; or
+(a) require or permit any person to carry out any transaction with the Registrar under this Act; and
 
-(b) has occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+(b) issue any approval, certificate, notice, determination or other document pursuant or connected to a transaction referred to in paragraph (a),
 
-[BR Act 2004 Ed., s. 19]
+using the electronic transaction system established under Part VIA of the Accounting and Corporate Regulatory Authority Act (Cap. 2A).
 
-### Electronic filing service
+(2) In this section, “transaction”, in relation to the Registrar, means —
 
-42\.—(1) The Registrar may require any document to be lodged under this Act to be filed electronically with the Registrar using the service provided by the Registry of Limited Liability Partnerships whereby documents under this Act may be filed with or submitted to the Registrar electronically.
+(a) the filing or lodging of any document with the Registrar, or the submission, production, delivery, furnishing or sending of any document to the Registrar;
 
-(2) Where any document is required to be filed with or submitted to the Registrar electronically by any person using the service referred to in subsection (1), the Registrar may allow the document to be filed or submitted by a prescribed person on behalf of the first-mentioned person, subject to such conditions as may be imposed from time to time by the Registrar on the prescribed person.
+(b) any making of any application, submission or request to the Registrar;
 
-(3) Where the Registry of Limited Liability Partnerships provides a service whereby documents required under this Act may be filed electronically with the Registrar, the Authority and its members, officers or employees shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or however caused appearing in any document obtained by any person under the service, if the error or omission —
+(c) any provision of any undertaking or declaration to the Registrar; and
 
-(a) is made in good faith and in the ordinary course of the discharge of the duties of such members, officers or employees; or
+(d) any extraction, retrieval or accessing of any document, record or information maintained by the Registrar.
 
-(b) has occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+[Act 18 of 2014 wef 15/05/2015]
 
-(4) A copy of or an extract from any document electronically filed with or submitted to the Registrar using the service referred to in subsection (1) which is supplied or issued by the Registrar and certified under his hand and seal to be a true copy of or extract from such document shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
-
-(5) Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall, in any proceedings, be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
-
-(6) Subsections (4) and (5) shall have effect notwithstanding the provisions of any other written law.
-
-[BR Act 2004 Ed., s. 20]
+42\. [Repealed by Act 18 of 2014 wef 15/05/2015]
 
 ### Inspection
 
@@ -3378,6 +3372,10 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|9.|**Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014**|
+||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
+||Date of Second and Third Readings|14 April 2014|
+||Date of commencement|15 May 2015|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
