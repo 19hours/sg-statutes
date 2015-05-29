@@ -3762,7 +3762,23 @@ is the percentage which the value of equity interests of the second level entity
 
 (b) does not carry out any substantial business activity for a genuine commercial reason;
 
-“relevant day” means the last day of the basis period of the prescribed person relating to the year of assessment referred to in subsection (2), (4) or (6);
+“relevant day” means —
+
+(a) the last day of the basis period of the prescribed person for the year of assessment referred to in subsection (2), (4) or (6) (as the case may be);
+
+(b) if on a day within that basis period the prescribed person becomes an approved person under section 13X(1)(a) the day immediately before the first-mentioned day; or
+
+(c) if on a day within that basis period the prescribed person becomes an approved master fund or approved feeder fund of —
+
+(i) an approved master-feeder fund structure under section 13X(1)(b);
+
+(ii) an approved master-feeder fund-SPV structure under section 13X(1)(c); or
+
+(iii) an approved master fund-SPV structure under section 13X(1)(d),
+
+the day immediately before the first-mentioned day;
+
+[Act 2 of 2016 wef 29/05/2015]
 
 “value” —
 
@@ -5008,7 +5024,13 @@ is the percentage which the value of equity interests of the second level entity
 
 (b) does not carry out any substantial business activity for a genuine commercial reason;
 
-“relevant day” means the last day of the basis period of the approved company relating to the year of assessment referred to in subsection (3) or (5);
+“relevant day” means —
+
+(a) the last day of the basis period of the approved company for the year of assessment referred to in subsection (3) or (5) (as the case may be); or
+
+(b) if within that basis period the approved company ceases to be so approved, the last day it was so approved;
+
+[Act 2 of 2016 wef 29/05/2015]
 
 “value” —
 
@@ -14730,11 +14752,11 @@ incurs or incur capital expenditure during the period from 1st April 2010 to 31s
 
 (d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c) and is before 1 April 2016,
 
-[Act 2 of 2016 wef 01/04/2015]
-
 provided that at the end of that basis period of the acquiring company, such total ownership is more than 50% (in the case of paragraphs (a) and (b)) or 75% or more (in the case of paragraphs (c) and (d)) of the total number of ordinary shares in the target company.
 
 [29/2010; 22/2011; 29/2012]
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (4A) In this section, and subject to the applicable condition in subsection (4B) being met, each of the following is also a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary:
 
@@ -14977,7 +14999,7 @@ the excess is to be disregarded for the purposes of the deduction to be allowed 
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(13) “”“”“”Despite subsections (8), (8A), (9), (9A), (10) and (10A), where any amount of “A” referred to in subsection (8) or (8A), “B” referred to in subsection (9) or (9A), or “D” referred to in subsection (10) or (10A), that is paid by the acquiring company or the acquiring subsidiary, as the case may be, in respect of any qualifying acquisition is greater than the amount which would have been paid if the acquiring company or the acquiring subsidiary, as the case may be, were unrelated to the shareholders in the target company, the first-mentioned amount shall be substituted with the second-mentioned amount, and any question regarding the quantum of the second-mentioned amount shall be determined by the Comptroller.
+(13) Despite subsections (8), (8A), (9), (9A), (10) and (10A), where any amount of “A” referred to in subsection (8) or (8A), “B” referred to in subsection (9) or (9A), or “D” referred to in subsection (10) or (10A), that is paid by the acquiring company or the acquiring subsidiary, as the case may be, in respect of any qualifying acquisition is greater than the amount which would have been paid if the acquiring company or the acquiring subsidiary, as the case may be, were unrelated to the shareholders in the target company, the first-mentioned amount shall be substituted with the second-mentioned amount, and any question regarding the quantum of the second-mentioned amount shall be determined by the Comptroller.
 
 [29/2010]
 
@@ -23571,7 +23593,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 September 2014|
 |||27 November 2014|
 |||1 January 2015|
-|311.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|311.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
+|||1 April 2015|
+|312.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -23579,12 +23607,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||24 February 2015|
 |||18 March 2015|
 |||1 April 2015|
-|312.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2014|
-|||1 April 2015|
+|||29 May 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
