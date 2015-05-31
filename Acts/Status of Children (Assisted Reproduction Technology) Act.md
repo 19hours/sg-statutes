@@ -1,22 +1,20 @@
-**Status of Children (Assisted Reproduction Technology) Act 2013**
+**Status of Children (Assisted Reproduction Technology) Act**
 
-**(No. 16 of 2013)**
+**(CHAPTER 317A)**
 
 **Table of Contents**
 
 [**Long Title**](#Status-of-Children-Assisted-Reproduction-Technology-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
+[**Part 1 PRELIMINARY**](#Part-1)
 
-[**Part I PRELIMINARY**](#Part-I)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 - [3 Application and effect of this Act](#Application-and-effect-of-this-Act)
 
-[**Part II PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY**](#Part-II)
+[**Part 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY**](#Part-2)
 
 - [4 Consent to fertilisation procedure](#Consent-to-fertilisation-procedure)
 
@@ -36,7 +34,7 @@
 
 - [12 Registration of births](#Registration-of-births)
 
-[**Part III MISCELLANEOUS**](#Part-III)
+[**Part 3 MISCELLANEOUS**](#Part-3)
 
 - [13 Regulations](#Regulations)
 
@@ -44,68 +42,35 @@
 
 - [15 Transitional provisions](#Transitional-provisions)
 
-- [16 Related amendment to Evidence Act](#Related-amendment-to-Evidence-Act)
+[**Legislative History**](#Legislative-History)
 
-- [17 Related amendment to Legitimacy Act](#Related-amendment-to-Legitimacy-Act)
+# Status of Children (Assisted Reproduction Technology) Act
 
-- [18 Related amendment to Registration of Births and Deaths Act](#Related-amendment-to-Registration-of-Births-and-Deaths-Act)
+(CHAPTER 317A)
 
-REPUBLIC OF SINGAPORE
+(Original Enactment: Act 16 of 2013)
 
-GOVERNMENT GAZETTE
+REVISED EDITION 2015
 
-ACTS SUPPLEMENT
+(31st May 2015)
 
-Published by Authority
+An Act relating to the legal status of children conceived and born through assisted reproduction technology and for matters connected therewith.
 
-NO. 17]
+[1st October 2014]
 
-Friday, September 13
-
-[2013
-
-The following Act was passed by Parliament on 12th August 2013 and assented to by the President on 3rd September 2013:—
-
-Status of Children
-
-
-
-
-(Assisted Reproduction Technology) Act 2013
-
-(No. 16 of 2013)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-3rd September 2013.
-
-Date of Commencement: 1st October 2014
-
-An Act relating to the legal status of children conceived and born through assisted reproduction technology and for matters connected therewith, and to make related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-## PART I
+## PART 1
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Status of Children (Assisted Reproduction Technology) Act 2013 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Status of Children (Assisted Reproduction Technology) Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “court” means the High Court or a Family Court;
-
-[Act 27 of 2014 wef 01/10/2014]
 
 “de facto partner”, in relation to a gestational mother (whether married or not) at a given point in time, means the man, if any, with whom the gestational mother is living in a relationship as if he were her spouse at that point in time;
 
@@ -125,11 +90,13 @@ PRELIMINARY
 
 “sperm” means live human sperm and includes the cells of the male germ line at any stage of maturity.
 
+[27/2014]
+
 (2) Any reference in this Act to a marriage includes a reference to a void marriage if, at the time of such void marriage, both or either of the parties to the marriage reasonably believed that the marriage was valid.
 
 ### Application and effect of this Act
 
-3\.—(1) This Act shall apply only to a child born on or after the appointed day as a result of a fertilisation procedure (whether done before, on or after the appointed day) and where —
+3\.—(1) This Act shall apply only to a child born on or after 1 October 2014 as a result of a fertilisation procedure (whether done before, on or after 1 October 2014) and where —
 
 (a) the child is born in Singapore; or
 
@@ -153,7 +120,7 @@ PRELIMINARY
 
 (b) no other person is to be treated in law as the mother or the father of the child, as the case may be, for any purpose;
 
-(c) any reference to any relationship between 2 persons in any law or document (whether enacted or made before, on or after the appointed day) shall be construed accordingly; and
+(c) any reference to any relationship between 2 persons in any law or document (whether enacted or made before, on or after 1 October 2014) shall be construed accordingly; and
 
 (d) without prejudice to the generality of paragraph (c) and unless the context otherwise requires, a reference in any written law to “natural parent” or “natural father” in relation to a child to whom this Act applies shall be construed as a reference to the parent or the father of the child, as the case may be, as determined under this Act, and a reference in any written law to “natural child” or “child” shall be construed accordingly.
 
@@ -161,9 +128,9 @@ PRELIMINARY
 
 (5) The application of this Act shall not by itself affect the citizenship of a child.
 
-(6) For the avoidance of doubt, nothing in this Act shall affect any right or remedy that a person may have against any other person in relation to a fertilisation procedure which resulted in the birth of a child.
+(6) To avoid doubt, nothing in this Act shall affect any right or remedy that a person may have against any other person in relation to a fertilisation procedure which resulted in the birth of a child.
 
-## PART II
+## PART 2
 
 PARENTHOOD IN CASES INVOLVING ASSISTED
 
@@ -308,7 +275,7 @@ the court may, in its discretion and upon an application made under section 10, 
 
 the court may, in its discretion and upon an application made under section 10, declare that the de facto partner shall be treated as the father of the child.
 
-(5) For the avoidance of doubt, and without prejudice to section 10(9), a de facto partner to whom this section applies shall not be treated as the father of a child unless the court so declares.
+(5) To avoid doubt, and without prejudice to section 10(9), a de facto partner to whom this section applies shall not be treated as the father of a child unless the court so declares.
 
 ### Parenthood where egg, sperm or embryo used is not intended to be used
 
@@ -338,7 +305,7 @@ the court may, in its discretion and upon an application made under section 10, 
 
 (b) a person claiming to be treated as the parent of a child pursuant to section 6, 7 or 9(2);
 
-(c) a person seeking a declaration by the court that he be treated as the parent of a child pursuant to section 8 or 9(3); and
+(c) a person seeking a declaration by the court that he be treated as the parent of a child pursuant to section 8 or 9(3);
 
 (d) any other person, with the leave of the court.
 
@@ -392,9 +359,9 @@ the court may, in its discretion and upon an application made under section 10, 
 
 ### Registration of births
 
-12\. The birth of a child to whom this Act applies shall be registered or re-registered, as the case may be, under the Registration of Births and Deaths Act (Cap. 267) in accordance with the provisions of that Act and the rules made thereunder.
+12\. The birth of a child to whom this Act applies shall be registered or re-registered, as the case may be, under the Registration of Births and Deaths Act (Cap. 267) in accordance with the provisions of that Act and of its rules.
 
-## PART III
+## PART 3
 
 MISCELLANEOUS
 
@@ -404,7 +371,7 @@ MISCELLANEOUS
 
 ### Family Justice Rules
 
-14\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
+14\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 (Act 27 of 2014) may make Family Justice Rules —
 
 (a) to regulate and prescribe the procedure and practice in respect of proceedings under this Act;
 
@@ -412,13 +379,15 @@ MISCELLANEOUS
 
 (c) to provide for the costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
+[27/2014]
+
 (2) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-[Act 27 of 2014 wef 01/01/2015]
+[27/2014]
 
 ### Transitional provisions
 
-15\.—(1) Notwithstanding section 3 but subject to subsections (2) and (3), where a child was born before the appointed day as a result of a fertilisation procedure, the court may, in its discretion, make an order declaring the parenthood of the child.
+15\.—(1) Despite section 3 but subject to subsections (2) and (3), where a child was born before 1 October 2014 as a result of a fertilisation procedure, the court may, in its discretion, make an order declaring the parenthood of the child.
 
 (2) In making an order under subsection (1), the court —
 
@@ -428,7 +397,7 @@ MISCELLANEOUS
 
 (3) No application under this section shall be made after the expiry of a period of 2 years after —
 
-(a) the appointed day; or
+(a) 1 October 2014; or
 
 (b) the date on which the applicant discovered that the child who was born as a result of the fertilisation procedure was brought about under circumstances described in section 9(1),
 
@@ -436,37 +405,26 @@ whichever is the later.
 
 (4) Section 10 shall apply, with the necessary modifications, to an application made under this section.
 
-### Related amendment to Evidence Act
+## LEGISLATIVE HISTORY
 
-16\. Section 114 of the Evidence Act (Cap. 97, 1997 Ed.) is repealed and the following section substituted therefor:
+Status of Children (Assisted Reproduction Technology) Act
 
-“
+(CHAPTER 317A)
 
-Rebuttable presumption of paternity
+This Legislative History is provided for the convenience of users of the Status of Children (Assisted Reproduction Technology) Act. It is not part of the Act.
 
-114\.—(1) Where any person was born —
-
-(a) during the continuance of a valid marriage between his mother and any man; or
-
-(b) within 280 days after the dissolution of the marriage, the mother remaining unmarried,
-
-it shall be presumed that the person is the legitimate child of that man, unless the contrary is proved.
-
-(2) Subsection (1) shall not apply to a person whose parenthood is determined under the Status of Children (Assisted Reproduction Technology) Act 2013.
-
-”.
-
-### Related amendment to Legitimacy Act
-
-17\. Section 3(1) of the Legitimacy Act (Cap. 162, 1985 Ed.) is amended by inserting, immediately after the word “father”, the words “or mother”.
-
-### Related amendment to Registration of Births and Deaths Act
-
-18\. Section 29 of the Registration of Births and Deaths Act (Cap. 267, 1985 Ed.) is amended by inserting, immediately after subsection (1), the following subsection:
-
-“
-
-(1A) Without prejudice to the generality of subsection (1), the Minister may make rules for the registration or re‑registration, as the case may be, of the birth of a child to whom the Status of Children (Assisted Reproduction Technology) Act 2013 applies, including the particulars of the parents of the child and the legitimation of the child under that Act.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 16 of 2013—Status of Children (Assisted Reproduction Technology) Act 2013**|
+||Date of First Reading|8 July 2013|
+|||(Bill No. 12/2013)|
+||Date of Second and Third Readings|12 August 2013|
+||Date of commencement|1 October 2014|
+|2.|**Act 27 of 2014—Family Justice Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2014|
+|||(Bill No. 21/2014 published on 8 July 2014)|
+||Date of Second and Third Readings|4 August 2014|
+||Date of commencement|1 January 2015|
+|3.|**2015 Revised Edition—Status of Children (Assisted Reproduction Technology) Act (Chapter 317A)**|
+||Date of operation|31 May 2015|
