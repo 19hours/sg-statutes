@@ -1,20 +1,18 @@
-**Protection from Harassment Act 2014**
+**Protection from Harassment Act**
 
-**(No. 17 of 2014)**
+**(CHAPTER 256A)**
 
 **Table of Contents**
 
 [**Long Title**](#Protection-from-Harassment-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
+[**Part 1 PRELIMINARY**](#Part-1)
 
-[**Part I PRELIMINARY**](#Part-I)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II OFFENCES**](#Part-II)
+[**Part 2 OFFENCES**](#Part-2)
 
 - [3 Intentionally causing harassment, alarm or distress](#Intentionally-causing-harassment-alarm-or-distress)
 
@@ -32,7 +30,7 @@
 
 - [10 Contravention of certain orders](#Contravention-of-certain-orders)
 
-[**Part III REMEDIES**](#Part-III)
+[**Part 3 REMEDIES**](#Part-3)
 
 - [11 Action for statutory tort](#Action-for-statutory-tort)
 
@@ -46,7 +44,7 @@
 
 - [16 Knowledge of certain orders presumed](#Knowledge-of-certain-orders-presumed)
 
-[**Part IV GENERAL**](#Part-IV)
+[**Part 4 GENERAL**](#Part-4)
 
 - [17 Application to person outside Singapore](#Application-to-person-outside-Singapore)
 
@@ -58,49 +56,29 @@
 
 - [21 Exemptions](#Exemptions)
 
-- [22 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Protection from Harassment Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 256A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 17 of 2014)
 
-Published by Authority
+REVISED EDITION 2015
 
-NO. 27]
+(31st May 2015)
 
-Friday, September 19
+An Act to protect persons against harassment and unlawful stalking and to create offences, and provide civil remedies related thereto or in relation to false statements of fact.
 
-[2014
+[15th November 2014]
 
-The following Act was passed by Parliament on 13th March 2014 and assented to by the President on 11th April 2014:—
-
-Protection from Harassment Act 2014
-
-(No. 17 of 2014)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-11th April 2014.
-
-Date of Commencement: 15th November 2014
-
-An Act to protect persons against harassment and unlawful stalking and to create offences, and provide civil remedies related thereto or in relation to false statements of fact, and to make consequential amendments to other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-## PART I
+## PART 1
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Protection from Harassment Act 2014 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Protection from Harassment Act.
 
 ### Interpretation
 
@@ -114,7 +92,7 @@ PRELIMINARY
 
 “respondent”, in relation to an action under section 11 or an application for an order under section 12 or 13, in respect of a contravention of a provision of this Act, means the person alleged to have contravened that provision for the purposes of that action or application.
 
-## PART II
+## PART 2
 
 OFFENCES
 
@@ -314,7 +292,7 @@ Y surreptitiously plants a camera in X’s apartment. Unknown to X, the camera c
 
 ### Enhanced penalty for subsequent offence
 
-8\. A person who is convicted (whether before, on or after the date of commencement of this Act) of any offence under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before that date or who is convicted of any offence under section 3, 4, 5, 6 or 7 shall, on a subsequent conviction —
+8\. A person who is convicted (whether before, on or after 15 November 2014) of any offence under the repealed section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before that date or who is convicted of any offence under section 3, 4, 5, 6 or 7 shall, on a subsequent conviction —
 
 (a) for an offence under section 3, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both;
 
@@ -328,7 +306,7 @@ Y surreptitiously plants a camera in X’s apartment. Unknown to X, the camera c
 
 ### Community order
 
-9\. A court shall, upon the conviction of any person for any offence under section 3, 4, 5, 6 or 7, have the power to make a community order under Part XVII of the Criminal Procedure Code (Cap. 68) notwithstanding any provision to the contrary in section 337(1)(h) of that Code.
+9\. A court shall, upon the conviction of any person for any offence under section 3, 4, 5, 6 or 7, have the power to make a community order under Part XVII of the Criminal Procedure Code (Cap. 68) despite any provision to the contrary in section 337(1)(h) of that Code.
 
 ### Contravention of certain orders
 
@@ -340,7 +318,7 @@ Y surreptitiously plants a camera in X’s apartment. Unknown to X, the camera c
 
 (4) A person cannot be convicted of an offence under subsection (1) in respect of any non‑compliance with an order which has been punished as a contempt of court.
 
-## PART III
+## PART 3
 
 REMEDIES
 
@@ -428,7 +406,7 @@ the District Court may make an expedited protection order for all or any of the 
 
 14\.—(1) The common law tort of harassment is, for the avoidance of doubt, hereby declared to be abolished and no civil proceedings shall be brought for the tort of harassment except under this Act.
 
-(2) Nothing in subsection (1) shall prevent the commencement of proceedings for any act or conduct which occurred before the date of commencement of this Act.
+(2) Nothing in subsection (1) shall prevent the commencement of proceedings for any act or conduct which occurred before 15 November 2014.
 
 ### False statements of fact
 
@@ -466,7 +444,7 @@ the District Court may make an expedited protection order for all or any of the 
 
 (c) such later date as the court may specify.
 
-## PART IV
+## PART 4
 
 GENERAL
 
@@ -550,7 +528,7 @@ GENERAL
 
 (d) in relation to proceedings for an order under section 12, 13 or 15, where the name of any party to whom the order is intended to apply is unknown, for that party to be identified by an Internet location address, a website, a username or account, an electronic mail address or any other unique identifier;
 
-(e) to prescribe the persons who may bring proceedings for an order under section 12, 13 or 15 and all other civil proceedings under this Act, on behalf of the victim under section 3, 4, 5, 6 or 7, as the case may be, or any other person making an application under this Act; and
+(e) to prescribe the persons who may bring proceedings for an order under section 12, 13 or 15 and all other civil proceedings under this Act, on behalf of the victim under section 3, 4, 5, 6 or 7, as the case may be, or any other person making an application under this Act;
 
 (f) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings,
 
@@ -572,64 +550,19 @@ and section 80 of the Supreme Court of Judicature Act shall apply to the making 
 
 (3) Every order made under subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Consequential amendments to other written laws
+## LEGISLATIVE HISTORY
 
-22\.—(1) The Criminal Procedure Code (Cap. 68, 2012 Ed.) is amended —
+Protection from Harassment Act
 
-(a) by deleting the words “or under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184)” in section 41(1)(b) and substituting the words “, under section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before the date of commencement of the Protection from Harassment Act 2014 or under section 3, 4, 5 or 6 of the Protection from Harassment Act 2014”;
+(CHAPTER 256A)
 
-(b) by deleting items 50 and 51 of Part II of the Fourth Schedule; and
+This Legislative History is provided for the convenience of users of the Protection from Harassment Act. It is not part of the Act.
 
-(c) by inserting, immediately after Part II of the Fourth Schedule, the following Part:
-
-“
-
-Part III
-
-OFFENCES UNDER PROTECTION FROM
-HARASSMENT ACT 2014
-
-First column
-
-Second column
-
-Third column
-
-Fourth column
-
-Item No.
-
-Section
-
-Offence
-
-Explanatory Note
-
-54.
-
-3
-
-Intentionally causing harassment, alarm or distress
-
-Compoundable by the victim within the meaning of section 3 of the Protection from Harassment Act 2014
-
-55.
-
-5
-
-Fear or provocation of violence
-
-Compoundable by the victim within the meaning of section 5 of the Protection from Harassment Act 2014
-
-56.
-
-7
-
-Unlawful stalking
-
-Compoundable by the victim within the meaning of section 7 of the Protection from Harassment Act 2014
-
-”.
-
-(2) Sections 13A to 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184, 1997 Ed.) are repealed.
-
+||||
+|:-|:-|:-|
+|1.|**Act 17 of 2014—Protection from Harassment Act 2014**|
+||Date of First Reading|3 March 2014 (Bill No. 12/2014)|
+||Date of Second and Third Readings|13 March 2014|
+||Date of commencement|15 November 2014|
+|2.|**2015 Revised Edition—Protection from Harassment Act (Chapter 256A)**|
+||Date of operation|31 May 2015|
