@@ -1,6 +1,6 @@
-**Singapore Institute of Technology Act 2014**
+**Singapore Institute of Technology Act**
 
-**(No. 11 of 2014)**
+**(CHAPTER 299B)**
 
 **Table of Contents**
 
@@ -8,9 +8,7 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,49 +30,29 @@
 
 - [11 Act to prevail over constituent documents, etc.](#Act-to-prevail-over-constituent-documents-etc)
 
-- [12 Consequential amendment to Private Education Act](#Consequential-amendment-to-Private-Education-Act)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Singapore Institute of Technology Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 299B)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 11 of 2014)
 
-Published by Authority
+REVISED EDITION 2015
 
-NO. 12]
+(31st May 2015)
 
-Friday, March 28
-
-[2014
-
-The following Act was passed by Parliament on 17th February 2014 and assented to by the President on 17th March 2014:—
-
-Singapore Institute of Technology Act 2014
-
-(No. 11 of 2014)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-17th March 2014.
-
-Date of Commencement: 28th March 2014
-
-An Act to provide for certain matters relating to the operation of a university known as the Singapore Institute of Technology and to make a consequential amendment to the Private Education Act (Chapter 247A of the 2011 Revised Edition).
+An Act to provide for certain matters relating to the operation of a university known as the Singapore Institute of Technology.
 
 Whereas a company limited by guarantee has been incorporated under the Companies Act (Cap. 50) by the name “Singapore Institute of Technology” having as its objects the establishment, operation, maintenance and promotion of a university in Singapore under the name and style “Singapore Institute of Technology”.
 
 And whereas it is desirable that statutory provision be made in relation to the operation of the Singapore Institute of Technology and certain of the powers of the company.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[28th March 2014]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Institute of Technology Act 2014 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Institute of Technology Act.
 
 ### Interpretation
 
@@ -84,7 +62,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company;
 
-“university company” means the company limited by guarantee incorporated under the Companies Act (Cap. 50) on 15th September 2009 under the name “Singapore Institute of Technology”.
+“university company” means the company limited by guarantee incorporated under the Companies Act (Cap. 50) on 15 September 2009 under the name “Singapore Institute of Technology”.
 
 ### Function of university company
 
@@ -160,7 +138,20 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) Nothing in this Act shall be construed to excuse or exempt the university company from complying with any written law that, apart from this Act, would apply to the university company.
 
-### Consequential amendment to Private Education Act
+## LEGISLATIVE HISTORY
 
-12\. Section 72 of the Private Education Act (Cap. 247A) is amended by inserting, immediately after the words “the Singapore University of Technology and Design” in paragraph (i), the words “, the Singapore Institute of Technology”.
+Singapore Institute of Technology Act
 
+(CHAPTER 299B)
+
+This Legislative History is provided for the convenience of users of the Singapore Institute of Technology Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 11 of 2014—Singapore Institute of Technology Act 2014**|
+||Date of First Reading|20 January 2014|
+|||(Bill No. 7/2014)|
+||Date of Second and Third Readings|17 February 2014|
+||Date of commencement|28 March 2014|
+|2.|**2015 Revised Edition—Singapore Institute of Technology Act (Chapter 299B)**|
+||Date of operation|31 May 2015|
