@@ -76,6 +76,8 @@
 
 - [32 Interference with special event, etc.](#Interference-with-special-event-etc)
 
+- [32A Interception, etc., of unmanned aircraft](#Interception-etc-of-unmanned-aircraft)
+
 - [33 Saving of operation of Part II](#Saving-of-operation-of-Part-II)
 
 [**Part IV POWERS TO PRESERVE AND MAINTAIN PUBLIC ORDER**](#Part-IV)
@@ -620,6 +622,14 @@ SPECIAL EVENTS SECURITY
 
 “prohibited item”, in relation to a special event, means such thing or animal that is stated to be a prohibited item in the notification in respect of the event under section 22;
 
+“prohibited item permit” means a permit of that name granted under section 26(2B) for a specific prohibited item or a class of prohibited items;
+
+[Act 16 of 2015 wef 01/06/2015]
+
+“remotely piloted aircraft” and “remotely piloted aircraft system” have the same respective meanings as assigned in the Air Navigation Act (Cap. 6);
+
+[Act 16 of 2015 wef 01/06/2015]
+
 “search” includes —
 
 (a) a search of a person conducted by quickly running the hands over the person’s outer garments; and
@@ -627,6 +637,14 @@ SPECIAL EVENTS SECURITY
 (b) an examination of anything worn or carried by the person;
 
 “statutory condition of entry”, in relation to a special event, means a condition that is stated in the notification concerning the event under section 22 to be a statutory condition of entry to the special event area;
+
+“unmanned aircraft” means an aircraft that may be flown or used without any individual on board the aircraft to operate it, and excludes a balloon or kite;
+
+[Act 16 of 2015 wef 01/06/2015]
+
+“unmanned aircraft system” means an unmanned aircraft and its associated elements;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 “vehicle” includes an aircraft and a boat;
 
@@ -750,9 +768,41 @@ SPECIAL EVENTS SECURITY
 
 26\.—(1) This section shall apply only if the notification under section 22(2) relating to the special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant must not take into or possess in the special event area a prohibited item.
 
-(2) A person shall not take a prohibited item into, or possess a prohibited item in, a special event area, unless the person has the express permission of a police officer to do so.
+(2) A person shall not take a prohibited item into a special event area, unless the person has the express permission of a police officer to do so.
 
-(3) Any person who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 16 of 2015 wef 01/06/2015]
+
+(2A) A person must not —
+
+(a) without lawful excuse, possess a prohibited item in a special event area; or
+
+(b) use a prohibited item in a way that causes —
+
+(i) the prohibited item or any part of it;
+
+(ii) something contained in or on the prohibited item; or
+
+(iii) something produced by the prohibited item,
+
+to enter the special event area.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(2B) In proceedings for an offence under subsection (3) for failing to comply with subsection (2A) —
+
+(a) it is not necessary for the prosecution to prove that an accused knew or had reason to believe that an area is a special event area; but
+
+(b) it is a defence to a charge for failing to comply with subsection (2A)(b) for the accused to prove, on a balance of probabilities, that —
+
+(i) the accused did not intentionally cause the prohibited item or part of it, or something contained in or on, or produced by, the prohibited item, to enter the special event area, and the entry was not due to any want of reasonable care on the part of the accused; or
+
+(ii) the accused had in force a prohibited item permit from the Commissioner and had, in accordance with that permit, used a prohibited item in a way that caused it, something contained in it or on it or something produced by it, to enter the special event area.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(3) Any person who fails to comply with subsection (2) or (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (4) It shall not be an offence under this section if the person disposes of the prohibited item before entering the special event area.
 
@@ -874,7 +924,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Interference with special event, etc.
 
-32\. If a person in a special event area —
+32\.—(1) If a person in a special event area —
 
 (a) engages in violent behaviour;
 
@@ -883,6 +933,88 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (c) in any other way interferes with the reasonable enjoyment of a special event, or an activity associated with the special event, by someone else,
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(2) If a person (whether in or outside a special event area) operates an unmanned aircraft in a manner —
+
+(a) that disrupts, interferes with, delays or obstructs the conduct of a special event, or any activity associated with the special event; or
+
+(b) that interferes with the reasonable enjoyment of a special event, or an activity associated with the special event,
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(3) In proceedings for an offence under subsection (2) —
+
+(a) it is not necessary for the prosecution to prove that an accused intentionally caused the unmanned aircraft to fly in a manner as described in subsection (2)(a) or (b); but
+
+(b) it is a defence to the charge for the accused to prove, on a balance of probabilities, that the flight was not due to any want of reasonable care on the part of the accused.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+### Interception, etc., of unmanned aircraft
+
+32A\.—(1) Where an authorised person has reason to believe that an unmanned aircraft is being operated in a manner —
+
+(a) that contravenes section 26(2) or (2A) or 32(2); or
+
+(b) that poses a serious and an imminent risk to the security or safety of persons lawfully attending a special event,
+
+the authorised person may, subject to subsection (3), exercise all or any of the powers in subsection (2) in relation to the unmanned aircraft for either purpose:
+
+(i) preventing further contravention of section 26(2) or (2A) or 32(2);
+
+(ii) preventing or stopping any actual or imminent occurrence that endangers or threatens to endanger the security or safety of persons lawfully attending a special event.
+
+(2) For the purposes of subsection (1), the powers that may be exercised by an authorised person in relation to an unmanned aircraft are without warrant —
+
+(a) to direct any person whom the authorised person reasonably believes to be involved in the operation of the unmanned aircraft —
+
+(i) to end the flight of the unmanned aircraft, or land it, safely in the fastest practicable way; or
+
+(ii) to fly the unmanned aircraft in the manner specified by the authorised person;
+
+(b) with such assistance and by such force as is necessary —
+
+(i) to assume control of an unmanned aircraft to fly the aircraft or to end the flight of the aircraft, or land it, safely in the fastest practicable way; or
+
+(ii) to end the flight of the unmanned aircraft in the fastest and safest practicable way; or
+
+(c) to seize the unmanned aircraft and any component of the unmanned aircraft system for that aircraft, or other thing, that the authorised person believes on reasonable grounds —
+
+(i) to be evidential material relevant to an offence under this Part; or
+
+(ii) needs to be seized to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating an offence under this Part.
+
+(3) In authorising any person under subsection (1), the Commissioner may do all or any of the following:
+
+(a) limit the powers in subsection (2) that the authorised person may exercise;
+
+(b) limit when the authorised person may exercise his powers in subsection (2) or any of them;
+
+(c) limit where in Singapore the authorised person may exercise his powers in subsection (2) or any of them;
+
+(d) limit the circumstances in which the authorised person may exercise his powers in subsection (2) or any of them;
+
+(e) limit the offences in respect of which the authorised person may exercise his powers in subsection (2) or any of them.
+
+(4) Any person who, without reasonable excuse, contravenes any direction under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) A Magistrate may, on an application by the Commissioner, make an order authorising the Commissioner to destroy or otherwise dispose of any thing seized under subsection (2)(c) by an authorised person, if the Magistrate is satisfied that —
+
+(a) apart from this section, an authorised person or the Commissioner is required to return the thing to a person; and
+
+(b) the authorised person or the Commissioner cannot, despite making reasonable efforts, locate the person or the person has refused to take possession of that thing.
+
+(6) In this section, “evidential material” means any thing that is relevant to proving a contravention of any provision of this Act or any subsidiary legislation under this Act (whether or not an offence).
+
+(7) In this section, an authorised person is a police officer, or an auxiliary police officer, of or above the rank of sergeant and authorised by the Commissioner to exercise powers under this section.
+
+(8) To avoid doubt, nothing in this section derogates from the provisions of the Criminal Procedure Code (Cap. 68) or section 201B of the Singapore Armed Forces Act (Cap. 295).
+
+[Act 16 of 2015 wef 01/06/2015]
 
 ### Saving of operation of Part II
 
@@ -1182,9 +1314,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
-(a) the form or particulars of application for the issue of a permit;
+(a) the form or particulars of application for the issue of a permit or prohibited item permit;
 
-(b) the conditions subject to which such a permit may be issued;
+[Act 16 of 2015 wef 01/06/2015]
+
+(b) the conditions subject to which such a permit or prohibited item permit may be issued;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (c) the procedure as regards the lodging of an appeal under section 11 and the practice and procedure upon the hearing of such an appeal;
 
@@ -1208,7 +1344,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Application of other laws
 
-48\.—(1) This Act shall have effect notwithstanding any other law relating to the movement of traffic or pedestrians on roads or the use or obstruction of a public place, to public entertainment or to undesirable publications.
+48\.—(1) This Act shall have effect notwithstanding any other law relating to the movement of traffic or pedestrians on roads or the use or obstruction of a public place, to air navigation, to public entertainment or to undesirable publications.
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (2) Notwithstanding subsection (1), nothing in this Act shall affect the common law of trespass and, in particular, the right of a person in, or entitled to, possession of land to request a trespasser to leave the land, and if the trespasser refuses to leave on being requested, to remove the trespasser from the land.
 
@@ -1283,6 +1421,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 March 2012 (Section 32 – Amendment of Public Order Act 2009)|
 |3.|**2012 Revised Edition—Public Order Act (Chapter 257A)**|
 ||Date of operation|31 May 2012|
+|4.|**Act 16 of 2015—Unmanned Aircraft (Public Safety and Security) Act 2015**|
+||Date of First Reading|13 April 2015 (Bill No. 13/2015 published on 13 April 2015)|
+||Date of Second and Third Readings|11 May 2015|
+||Date of commencement|1 June 2015|
 ## COMPARATIVE TABLE
 
 Public Order Act
