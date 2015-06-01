@@ -128,6 +128,10 @@ PRELIMINARY
 
 (c) an immigration officer;
 
+(ca) a forensic specialist acting in accordance with an authorisation under section 65B(1) of the Police Force Act (Cap. 235) to exercise a power under this Act;
+
+[Act 10 of 2015 wef 01/06/2015]
+
 (d) an officer of any law enforcement agency in any case concerning an offence or alleged offence against any law or provision of law which it is the function of that agency to enforce; and
 
 (e) any other person who is duly appointed in writing by the Commissioner of Police as an authorised officer for the purposes of this Act or any provision thereof;
@@ -148,7 +152,27 @@ PRELIMINARY
 
 [45/2002 wef 13/02/2003]
 
-“finger impression” includes thumb impression and palmar impression;
+“finger impression” includes palmar impressions, hand prints, finger prints, foot prints or toe prints;
+
+[Act 10 of 2015 wef 01/06/2015]
+
+“forensic procedure”, in relation to an individual, includes doing one or all of the following in relation to the individual:
+
+(a) taking an impression or cast of a wound from the external parts of the individual’s body other than the parts referred to in section 13A(3);
+
+(b) the taking of physical measurements (whether or not involving marking) for biomechanical analysis of an external part of the body other than the parts referred to in section 13A(3);
+
+(c) removing any article that the individual is wearing, and searching any article so removed;
+
+(d) removing a relevant thing attached physically to those external parts of the individual’s body or taking a sample of that relevant thing;
+
+(e) photographing any relevant thing in the position it is found on the external parts of the individual’s body, or in the individual’s mouth;
+
+[Act 10 of 2015 wef 01/06/2015]
+
+“forensic specialist” means an individual who is appointed under section 65A of the Police Force Act as a forensic specialist;
+
+[Act 10 of 2015 wef 01/06/2015]
 
 “law enforcement agency” means any body or organisation which is prescribed by the Minister to be a law enforcement agency for the purposes of this Act;
 
@@ -434,6 +458,10 @@ TAKING OF FINGER IMPRESSIONS, PHOTOGRAPHS AND PARTICULARS
 
 (a) take or cause to be taken the finger impressions and photographs of any person under arrest who is accused of any crime;
 
+(aa) carry out a forensic procedure on an individual if the authorised officer is also a forensic specialist;
+
+[Act 10 of 2015 wef 01/06/2015]
+
 (b) make or cause to be made a record of the registrable particulars and any other particulars of such person; and
 
 (c) send any finger impression, photograph or record so taken or made to the Registrar for identification and report.
@@ -498,17 +526,23 @@ TAKING OF FINGER IMPRESSIONS, PHOTOGRAPHS AND PARTICULARS
 
 13\.—(1) It shall be the duty of every person under arrest who is accused of a crime and every person who is convicted of a crime or ordered to be banished, expelled or deported —
 
-(a) to submit to the taking of his photograph and his finger impressions; and
+(a) to submit to the taking of his photograph and his finger impressions and to any forensic procedure carried out by an authorised person who is also a forensic specialist; and
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (b) to provide such registrable particulars and other particulars as may be required under this Act.
 
-(2) Where a person to whom subsection (1) applies refuses, without reasonable excuse, to submit to the taking of his photograph or finger impressions or to provide any registrable particulars or other particulars when lawfully required by an authorised officer or by an officer in charge of a prison —
+(2) Where a person to whom subsection (1) applies refuses, without reasonable excuse, to submit to the taking of his photograph or finger impressions, to any forensic procedure carried out by an authorised person who is also a forensic specialist, or to provide any registrable particulars or other particulars when lawfully required by an authorised officer or by an officer in charge of a prison —
 
 (a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
 
-(b) the authorised officer or officer in charge of the prison may, with such assistance as is required, use such force as is reasonably necessary for the purposes of taking the photograph or finger impressions of that person.
+(b) the authorised officer or officer in charge of the prison may, with such assistance as is required, use such force as is reasonably necessary for the purposes of taking the photograph or finger impressions of that person or carrying out the forensic procedure, as the case may be.
 
 [45/2002 wef 13/02/2003]
+
+[Act 10 of 2015 wef 01/06/2015]
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ### Particulars of removal of banishee
 
@@ -528,17 +562,23 @@ TAKING OF FINGER IMPRESSIONS, PHOTOGRAPHS AND PARTICULARS
 
 13\.—(1) It shall be the duty of every person under arrest who is accused of a crime and every person who is convicted of a crime or ordered to be banished, expelled or deported —
 
-(a) to submit to the taking of his photograph and his finger impressions; and
+(a) to submit to the taking of his photograph and his finger impressions and to any forensic procedure carried out by an authorised person who is also a forensic specialist; and
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (b) to provide such registrable particulars and other particulars as may be required under this Act.
 
-(2) Where a person to whom subsection (1) applies refuses, without reasonable excuse, to submit to the taking of his photograph or finger impressions or to provide any registrable particulars or other particulars when lawfully required by an authorised officer or by an officer in charge of a prison —
+(2) Where a person to whom subsection (1) applies refuses, without reasonable excuse, to submit to the taking of his photograph or finger impressions, to any forensic procedure carried out by an authorised person who is also a forensic specialist, or to provide any registrable particulars or other particulars when lawfully required by an authorised officer or by an officer in charge of a prison —
 
 (a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
 
-(b) the authorised officer or officer in charge of the prison may, with such assistance as is required, use such force as is reasonably necessary for the purposes of taking the photograph or finger impressions of that person.
+(b) the authorised officer or officer in charge of the prison may, with such assistance as is required, use such force as is reasonably necessary for the purposes of taking the photograph or finger impressions of that person or carrying out the forensic procedure, as the case may be.
 
 [45/2002 wef 13/02/2003]
+
+[Act 10 of 2015 wef 01/06/2015]
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ## PART IV
 
@@ -560,7 +600,13 @@ TAKING OF BODY SAMPLES
 
 given to the authorised officer in charge of the case after the person concerned or his parent or guardian (as the case may be) has been informed by the authorised officer of the purpose for which a body sample is required from such person and the manner by which such body sample is to be taken from him;
 
-“authorised analyst” means a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part;
+“authorised analyst” means —
+
+(a) a forensic specialist; or
+
+(b) a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part;
+
+[Act 10 of 2015 wef 01/06/2015]
 
 “body sample” means —
 
@@ -580,7 +626,9 @@ given to the authorised officer in charge of the case after the person concerned
 
 “volunteer” means a person who voluntarily gives his consent under section 13D for the taking of a body sample from him.
 
-(2) Subject to subsections (3) and (4), the Minister may prescribe additional types of body samples that may be taken under this Part.
+(2) Subject to subsections (3) and (4), the Minister may prescribe additional types of sample of or from a person’s body that may be taken under this Part.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (3) The additional types of body samples that may be prescribed under subsection (2) shall not include body samples to be obtained from —
 
@@ -1890,3 +1938,7 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|2 January 2011|
 |36.|**G.N. No. S 667/2012—Registration of Criminals Act (Amendment of First Schedule) Order 2012**|
 ||Date of commencement|1 January 2013|
+|37.|**Act 10 of 2015—Police Force (Amendment) Act 2015**|
+||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 June 2015|
