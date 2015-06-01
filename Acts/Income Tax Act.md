@@ -1460,7 +1460,7 @@ which involves novelty or originality;
 
 [23/90]
 
-(20) Any distribution made by a designated unit trust for any year of assessment to any unit holder out of —
+(20) Subject to subsection (20G), any distribution made by a designated unit trust for any year of assessment to any unit holder out of —
 
 (a) gains or profits derived from Singapore or elsewhere from the disposal of securities;
 
@@ -1474,7 +1474,9 @@ which do not form part of the statutory income of the designated unit trust by v
 
 [Act 37 of 2014 wef 01/09/2014]
 
-(20A) Any distribution made by a designated unit trust for any year of assessment to any unit holder out of —
+[Act 2 of 2016 wef 01/06/2015]
+
+(20A) Subject to subsection (20G), any distribution made by a designated unit trust for any year of assessment to any unit holder out of —
 
 (a) gains or profits derived on or after 27th February 2004 from —
 
@@ -1546,6 +1548,114 @@ which do not form part of the statutory income of the designated unit trust by v
 
 [Act 37 of 2014 wef 01/09/2014]
 
+[Act 2 of 2016 wef 01/06/2015]
+
+(20B) If —
+
+(a) the income of the trustee of a unit trust, unit trust scheme or exchange traded fund interest scheme (referred to in this section as the unit trust) did not form part of his statutory income for one or more past years of assessment by reason of section 35(12); and
+
+(b) any of the events set out in the first column of the following table occurs,
+
+then a person to whom this subsection applies shall be treated as having derived, on the date in the second column of the table opposite to that event (referred to in this subsection and subsections (20C), (20E), (20G) and (20H) as the corresponding date), an amount of income that is equal to the prescribed amount of any income referred to in paragraph (a) that has yet to be distributed to any unit holder by the corresponding date:
+
+First column
+
+Second column
+
+Event
+
+Corresponding date
+
+1.
+
+The unit trust is dissolved, and is a designated unit trust for the year of assessment for the basis period in which the dissolution occurred
+
+Date of dissolution
+
+2.
+
+The unit trust is not a designated unit trust within the meaning of section 35 for any year of assessment
+
+Last day of the basis period for the immediately preceding year of assessment
+
+3.
+
+The trustee fails to elect under section 35(12B) for section 35(12) to apply to his income for any year of assessment
+
+Last day of the basis period for the immediately preceding year of assessment
+
+4.
+
+The trustee elects under section 35(12B) for section 35(12) to apply to his income derived in only a part of the basis period for any year of assessment
+
+Last day of that part of the basis period
+
+[Act 37 of 2014 wef 01/06/2015]
+
+[Act 2 of 2016 wef 01/06/2015]
+
+(20C) Subsection (20B) shall not apply if the corresponding date is before 1st June 2015.
+
+[Act 37 of 2014 wef 01/06/2015]
+
+(20D) Subsection (20B) applies to the following persons:
+
+(a) a unit holder who is not an individual and not a foreign investor;
+
+(b) a unit holder who is an individual and not a foreign investor, and who holds the units for the purposes of a trade, profession or business;
+
+(c) a partner who is not an individual and not a foreign investor, of a partnership which is a unit holder;
+
+(d) a partner who is an individual and not a foreign investor, of a partnership in Singapore which is a unit holder.
+
+[Act 37 of 2014 wef 01/06/2015]
+
+(20E) For the purposes of subsection (20B) —
+
+(a) the income referred to in paragraph (a) of that subsection includes the income of the trustee that did not form part of his statutory income for one or more years of assessment by reason of section 35(12) or (12A) in force immediately before 1st September 2014;
+
+(b) the prescribed amount of the income referred to in paragraph (a) of that subsection which is treated as the income of a person referred to in subsection (20D)(a) or (b), is —
+
+(i) the amount of that income that would have been distributed to him in accordance with the terms of the trust deed of the unit trust, had the income been distributed to unit holders on the corresponding date; or
+
+(ii) if it is not possible to ascertain that amount under the terms of the trust deed, such part of that income as the total number of units held by the person bears to the total number of units of the unit trust as of the corresponding date;
+
+(c) the prescribed amount of the income referred to in paragraph (a) of that subsection which is treated as the income of a person referred to in subsection (20D)(c) or (d), is the share of the following amount that the person would have been entitled to as a partner of the partnership:
+
+(i) the amount of that income that would have been distributed in accordance with the terms of the trust deed of the unit trust to the partnership, had the income been distributed to unit holders on the corresponding date; or
+
+(ii) if it is not possible to ascertain that amount under the terms of the trust deed, such part of that income as the total number of units held by the partnership bears to the total number of units of the trust as of the corresponding date; and
+
+(d) where the person referred to in subsection (20D) is an individual resident in Singapore, the prescribed amount of the income referred to in subsection (20B)(a) shall not include the amount of any gains or profits referred to in subsection (20)(a).
+
+[Act 37 of 2014 wef 01/06/2015]
+
+(20F) The trustee of the unit trust to which subsection (20B) applies shall, within such reasonable time after the occurrence of the event mentioned in that subsection as the Comptroller may specify and in such form and manner as the Comptroller may specify, give notice of the occurrence to —
+
+(a) the Comptroller; and
+
+(b) every person referred to in subsection (20D).
+
+[Act 37 of 2014 wef 01/06/2015]
+
+(20G) Where subsection (20B) has applied in relation to a unit trust —
+
+(a) the amount of the income referred to in subsection (20B)(a) that has yet to be distributed to the unit holders of the unit trust by the corresponding date in question is treated, for the purposes of any subsequent application of subsection (20B) in relation to that unit trust, as having been distributed by the unit trust to its unit holders immediately after that corresponding date; and
+
+(b) subsections (20) and (20A) do not apply to any subsequent distribution by the unit trust to its unit holders of any income referred to in paragraph (a).
+
+[Act 2 of 2016 wef 01/06/2015]
+
+(20H) Where —
+
+(a) by reason of the application of subsection (20B) in relation to a unit trust, a person is treated as having derived on the corresponding date in question an amount of income that is equal to the prescribed amount of income referred to in subsection (20B)(a); and
+
+(b) at any time after that corresponding date, the person disposes of units in the unit trust,
+
+then the amount of any gains or profits derived from that disposal that is chargeable with tax under subsection (1)(a) is to be reduced by the amount of the income referred to in subsection (20E)(b)(i) or (ii) or (c)(i) or (ii) (whichever is applicable), that corresponds to the units disposed of.
+
+[Act 2 of 2016 wef 01/06/2015]
+
 (21) Where any distribution made out of gains or profits referred to in subsection (20)(a) is made to a unit holder who is an individual resident in Singapore, the distribution, if made on or after 28th February 1998, shall not be deemed to be income of that unit holder.
 
 [32/95; 31/98]
@@ -1554,7 +1664,7 @@ which do not form part of the statutory income of the designated unit trust by v
 
 [32/95]
 
-(23) In subsections (20), (20A), (21) and (22) —
+(23) In subsections (20), (20A), (20B), (20D), (21) and (22) —
 
 [Deleted by Act 37 of 2014 wef 01/09/2014]
 
@@ -1591,6 +1701,8 @@ which do not form part of the statutory income of the designated unit trust by v
 “securities lending or repurchase arrangement” has the same meaning as in section 10N(12).
 
 [32/95; 31/98; 49/2004; 34/2005; 53/2007]
+
+[Act 37 of 2014 wef 01/06/2015]
 
 (24) For the purposes of subsection (2)(d), the sum standing to the account of any individual in any pension or provident fund or society, other than a pension or provident fund to which section 10C applies, shall be deemed to accrue to the individual on the date he is entitled to the sum upon retirement or on the date he withdraws any sum before his retirement, as the case may be, except that where upon his retirement an individual is entitled to elect under the rules or constitution of the pension or provident fund or society as to the manner and amount of the sum to be withdrawn, only the amount so withdrawn shall be deemed to be income of the individual accruing on the date of withdrawal.
 
@@ -5542,7 +5654,7 @@ arising from funds of the master fund of the structure that are managed in Singa
 
 “master-feeder fund structure” means an arrangement comprising one or more feeder funds and the master fund through which the funds of the feeder fund or funds are substantially and directly invested;
 
-[Act 2 of 2016 wef 01/09/2014]
+[Act 2 of 2016 wef 01/04/2015]
 
 “master-feeder fund-SPV structure” means an arrangement comprising —
 
@@ -14752,11 +14864,11 @@ incurs or incur capital expenditure during the period from 1st April 2010 to 31s
 
 (d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c) and is before 1 April 2016,
 
+[Act 2 of 2016 wef 01/04/2015]
+
 provided that at the end of that basis period of the acquiring company, such total ownership is more than 50% (in the case of paragraphs (a) and (b)) or 75% or more (in the case of paragraphs (c) and (d)) of the total number of ordinary shares in the target company.
 
 [29/2010; 22/2011; 29/2012]
-
-[Act 2 of 2016 wef 01/04/2015]
 
 (4A) In this section, and subject to the applicable condition in subsection (4B) being met, each of the following is also a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary:
 
@@ -17010,8 +17122,6 @@ and those regulations may provide for the deduction of losses otherwise than in 
 [22/2011]
 
 (1B) The reference in subsection (1)(b) to prescribed activities is a reference to activities prescribed in regulations made under this section and specified to each approved qualifying company by the Minister or a person appointed by the Minister.
-
-[Act 39 of 2017 wef 21/05/2010]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved global trading company or an approved qualifying company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -23585,7 +23695,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|27 November 2014|
-|310.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|310.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
+|||1 April 2015|
+|311.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
@@ -23593,12 +23709,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 September 2014|
 |||27 November 2014|
 |||1 January 2015|
-|311.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2014|
-|||1 April 2015|
+|||1 June 2015|
 |312.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
@@ -23608,6 +23719,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||18 March 2015|
 |||1 April 2015|
 |||29 May 2015|
+|||1 June 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
