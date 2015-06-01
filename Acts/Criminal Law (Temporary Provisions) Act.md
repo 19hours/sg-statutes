@@ -976,6 +976,12 @@ All undertakings of whatever nature of —
 
 [S 13/2005 wef 07/01/2005]
 
+29. 
+
+Services provided by forensic specialists (within the meaning of the Police Force Act (Cap. 235)) and fire forensic specialists (within the meaning of the Fire Safety Act (Cap. 109A)).
+
+[Act 10 of 2015 wef 01/06/2015]
+
 Part II
 
 FORM 1
@@ -1427,6 +1433,10 @@ This Legislative History is provided for the convenience of users of the Crimina
 |||(Bill No. 16/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|21 October 2014|
+|57.|**Act 10 of 2015—Police Force (Amendment) Act 2015**|
+||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 June 2015|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
