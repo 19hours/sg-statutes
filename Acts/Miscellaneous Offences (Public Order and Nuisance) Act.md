@@ -118,6 +118,8 @@
 
 - [40 Power of arrest](#Power-of-arrest)
 
+- [41 Regulations](#Regulations)
+
 [**Legislative History**](#Legislative-History)
 
 # Miscellaneous Offences (Public Order and Nuisance) Act
@@ -478,9 +480,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (3) An instrument shall be presumed to be carried with lawful authority if it is carried —
 
-(a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, any auxiliary police force created under any written law or of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
+(a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, any auxiliary police force created under any written law, a forensic specialist or civilian police assistant acting in the course of his duty as such in accordance with the Police Force Act (Cap. 235), or of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
 
 [3/2005 wef 10/06/2005]
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
 
@@ -510,9 +514,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [Act 2 of 2012 wef 01/03/2012]
 
-(3) Nothing in this section shall prohibit or prevent the carrying of any truncheon, handcuffs or specified weapon or equipment by a police officer, an auxiliary police officer, or a member of the Singapore Armed Forces or of any visiting force lawfully present in Singapore under any law relating to visiting forces.
+(3) Nothing in this section shall prohibit or prevent the carrying of any truncheon, handcuffs or specified weapon or equipment by a police officer, an auxiliary police officer, a forensic specialist or civilian police assistant acting in the course of his duty as such in accordance with the Police Force Act, or a member of the Singapore Armed Forces or of any visiting force lawfully present in Singapore under any law relating to visiting forces.
 
 [Act 2 of 2012 wef 01/03/2012]
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (4) A private investigator, security officer or security service provider who is licensed under the Private Security Industry Act 2007 may be authorised to carry or have in his possession in any public place any truncheon, handcuffs or specified weapon or equipment if, and only if —
 
@@ -766,6 +772,12 @@ MISCELLANEOUS
 
 (2) Any animal, conveyance or article concerning by or for which an offence has been committed may be seized and taken to a pound or police station unless given up sooner by order of a Magistrate’s Court, until the charge is decided in due course of law.
 
+### Regulations
+
+41\. The Minister may make regulations for anything that is required, permitted, expedient or necessary for carrying out the purposes and provisions of this Act, including prescribing any offences under this Act as offences that may be compounded if not so prescribed by section 241 of the Criminal Procedure Code (Cap. 68).
+
+[Act 10 of 2015 wef 01/06/2015]
+
 ## LEGISLATIVE HISTORY
 
 Miscellaneous Offences (Public Order and Nuisance) Act
@@ -1011,3 +1023,7 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|30 January 2015|
 ||Date of commencement|1 April 2015|
+|50.|**Act 10 of 2015—Police Force (Amendment) Act 2015**|
+||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 June 2015|
