@@ -76,11 +76,17 @@
 
 - [5 Exemption of aircraft and parts thereof from seizure on patent claims](#Exemption-of-aircraft-and-parts-thereof-from-seizure-on-patent-claims)
 
-[**Division 4  Special powers and prohibited photography**](#Division-4--Special-powers-and-prohibited-photography)
+[**Division 4  Special powers and prohibited activities**](#Division-4--Special-powers-and-prohibited-activities)
 
 - [6 Special powers in case of emergency](#Special-powers-in-case-of-emergency)
 
-- [7 Prohibited carriage and prohibited photography over protected areas](#Prohibited-carriage-and-prohibited-photography-over-protected-areas)
+- [7 Prohibited photography over protected areas](#Prohibited-photography-over-protected-areas)
+
+- [7A Permit needed for certain overflight by unmanned aircraft](#Permit-needed-for-certain-overflight-by-unmanned-aircraft)
+
+- [7B Absolute prohibition of carriage of dangerous materials on unmanned aircraft](#Absolute-prohibition-of-carriage-of-dangerous-materials-on-unmanned-aircraft)
+
+- [7C Discharge from unmanned aircraft](#Discharge-from-unmanned-aircraft)
 
 [**Division 5  Serious risks to aviation safety**](#Division-5--Serious-risks-to-aviation-safety)
 
@@ -204,6 +210,8 @@
 
 - [29F Delegation of Minister’s powers](#Delegation-of-Minister’s-powers)
 
+- [29G Interception, etc., of unmanned aircraft](#Interception-etc-of-unmanned-aircraft)
+
 [**Part IV RESTRICTION ON CLAIMS FOR DAMAGES AND COMPENSATION**](#Part-IV)
 
 - [30 Restriction on claims for damages and compensation](#Restriction-on-claims-for-damages-and-compensation)
@@ -280,9 +288,15 @@ PRELIMINARY
 
 “Authority” means the Civil Aviation Authority of Singapore established under section 4 of the Civil Aviation Authority of Singapore Act (Cap. 41);
 
+“auxiliary police officer” means a person appointed as such under Part IX of the Police Force Act (Cap. 235);
+
+[Act 16 of 2015 wef 01/06/2015]
+
 “aviation-related service” means any equipment, facility, or service (including any air traffic service) operated in support of or in conjunction with the civil aviation system;
 
-“aviation safety instrument” means any licence, permit, certificate, authorisation, approval or other document issued under or by virtue of this Act to, or in respect of, any person, aircraft, aerodrome, aeronautical procedure, aeronautical product, or aviation-related service, but does not include an airport licence within the meaning of the Civil Aviation Authority of Singapore Act;
+“aviation safety instrument” means any licence, permit, certificate, authorisation, approval or other document issued under or by virtue of this Act to, or in respect of, any person, aircraft, aerodrome, aeronautical procedure, aeronautical product, or aviation-related service, but does not include an airport licence within the meaning of the Civil Aviation Authority of Singapore Act or a permit referred to in section 7(3)(b)(ii) or 7A(3)(b)(ii);
+
+[Act 16 of 2015 wef 01/06/2015]
 
 “aviation safety subsidiary legislation” means any order made under section 3 or any regulations made under section 3A;
 
@@ -301,6 +315,14 @@ PRELIMINARY
 (b) the Protocols amending that Convention which Singapore ratifies; and
 
 (c) the Annexes to that Convention relating to international standards and recommended practices, being Annexes adopted in accordance with that Convention;
+
+“command and control link” means the data link between a remotely piloted aircraft and a remote pilot station for the purposes of managing the flight of the remotely piloted aircraft;
+
+[Act 16 of 2015 wef 01/06/2015]
+
+“competent security officer” means any public officer designated as such by the Minister charged with the responsibility for homefront security;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 “conduct” means any act or omission;
 
@@ -348,11 +370,35 @@ PRELIMINARY
 
 “operate”, in relation to an aircraft, means to fly or use the aircraft, or to cause the aircraft to fly, be used, or be in any place, whether or not a person is present with the aircraft;
 
+“operator”, for an unmanned aircraft, means a person engaged in, or offering to engage in, the operation of the unmanned aircraft, and where the unmanned aircraft is a remotely piloted aircraft, includes —
+
+(a) the person who causes the remotely piloted aircraft to fly; and
+
+(b) the remote pilot of the aircraft with duties essential to the operation of the remotely piloted aircraft, such as manipulating the flight controls as appropriate during flight time, if the remote pilot is not the operator;
+
+[Act 16 of 2015 wef 01/06/2015]
+
 “pilot-in-command”, in relation to an aircraft, means —
 
 (a) the pilot designated by the operator of the aircraft as being in command and charged with the safe conduct of a flight using that aircraft; and
 
 (b) if no such person under paragraph (a) is designated, a person who is, for the time being, in charge of the piloting of the aircraft without being under the direction of any other pilot in the aircraft;
+
+“remotely piloted aircraft” means an unmanned aircraft that is operated using a remotely piloted aircraft system;
+
+[Act 16 of 2015 wef 01/06/2015]
+
+“remotely piloted aircraft system” or “RPAS”, for a remotely piloted aircraft, means all of the following components:
+
+(a) the remotely piloted aircraft;
+
+(b) every remote pilot station associated with the remotely piloted aircraft in paragraph (a) containing the equipment used to pilot that aircraft;
+
+(c) the command and control links between the remotely piloted aircraft in paragraph (a) and its remote pilot station or stations and other command;
+
+(d) any other components as specified in the type design to fly that aircraft;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 “safety inspector” means a safety inspector appointed under section 3E and includes the Director-General of Civil Aviation;
 
@@ -373,6 +419,14 @@ PRELIMINARY
 “State of the Operator” means the State in which the operator’s principal place of business is located or, if there is no such place of business, the operator’s permanent residence;
 
 “structure” includes any house, warehouse, office, shop, school and any other building whether permanent or temporary and whether used for the purpose of human habitation or otherwise, and also any wall, fence, platform, staging, gatepost, pillar, paling, frame, hoarding, bridge, cable, wire or any other artificial obstruction raised above ground level;
+
+“unmanned aircraft” means an aircraft that may be flown or used without any individual on board the aircraft to operate it;
+
+[Act 16 of 2015 wef 01/06/2015]
+
+“unmanned aircraft system” means an unmanned aircraft and its associated elements;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 “working day” means any day except Saturday, Sunday or a public holiday.
 
@@ -405,6 +459,10 @@ PRELIMINARY
 (2) Except where an act or omission is required in order to comply with the laws of any foreign country, every holder of an aviation safety instrument who, while outside Singapore and exercising or purporting to exercise the privileges accorded by that instrument, commits an act or omission that would constitute an offence under this Act if it were committed in Singapore, shall be deemed to have committed an offence under this Act and may be proceeded against in Singapore as if the act or omission had occurred within Singapore.
 
 [10/2014]
+
+(2A) A person outside Singapore who operates an unmanned aircraft in a manner which, if the person were in Singapore, would be an offence under section 7, 7A, 7B or 7C, shall be guilty of an offence under section 7, 7A, 7B or 7C, as the case may be.
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (3) Nothing in this section shall be interpreted as requiring a person or aircraft to contravene or be operated in contravention of a law of a foreign country or territory that applies to or in respect of the person or aircraft.
 
@@ -493,9 +551,11 @@ General
 
 ### Orders to give effect to international obligations and regulate air navigation
 
-3\.—(1) The Authority may, with the approval of the Minister, by order published in theGazette, provide for matters necessary or convenient to be prescribed for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of air navigation.
+3\.—(1) The Authority may, with the approval of the Minister, by order published in theGazette, provide for matters necessary or convenient to be prescribed for the control and regulation of aviation in and over Singapore for the safety of air navigation or for public safety or both, and for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of air navigation.
 
 [10/2014]
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1) and without prejudice to any of the provisions of this Act, the Authority may, with the approval of the Minister, by order, make provision —
 
@@ -515,7 +575,9 @@ General
 
 (ga) for regulating the conditions under which noise and vibration may be caused by aircraft on aerodromes;
 
-(gb) [Deleted by Act 10 of 2014]
+(gb) for applying the provisions of this Act or orders made under this section to unmanned aircraft and their operators (indoors or outdoors), design, maintenance and manufacture with such prescribed exceptions, modifications and adaptations as the differences between the manned aircraft and unmanned aircraft require;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (h) generally for securing the safety, efficiency and regularity of air navigation and the safety of aircraft and of persons and property carried in aircraft, for preventing aircraft endangering other persons and property and, in particular, for the detention of aircraft for any of the purposes specified in this paragraph;
 
@@ -525,7 +587,9 @@ General
 
 (k) for regulating the use of the civil air ensign and any other ensign established by the Authority for purposes connected with air navigation;
 
-(l) for prohibiting aircraft from flying over such areas in Singapore as may be specified in the order;
+(l) for prohibiting aircraft from flying over such areas in Singapore as may be specified in the order where necessary or expedient for the safety of air navigation or for public safety;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (la) for prohibiting aircraft of a specified description or origin or registered in a specified country or territory from landing in, flying over or taking off from Singapore, in order to discharge or facilitate the discharge of an obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement;
 
@@ -537,9 +601,11 @@ General
 
 (p) for prescribing the fees to be paid in respect of the issue, validation, renewal, extension or variation of any certificate, licence or other document or the undergoing of any examination or test required by the order and in respect of any other matters in respect of which it appears to the Authority to be expedient for the purpose of the order to charge fees;
 
-(q) for a right to appeal to the Minister against any decisions made by the Authority under the order (whose decision on appeal shall be final) and the procedure for such appeals.
+(q) for a right to appeal to the Minister against any decisions made by the Authority under the order or under section 7C (whose decision on appeal shall be final) and the procedure for such appeals.
 
 [28/2000; 10/2014]
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (3) An order made under this section may make different provisions with respect to different classes of aircraft, aerodromes, persons or property and with respect to different circumstances but shall, so far as practicable, be so framed as not to discriminate in like circumstances between aircraft registered in Singapore operated on charter terms by one air transport undertaking and such aircraft so operated by another such undertaking.
 
@@ -567,7 +633,7 @@ General
 
 ### Regulations for this Part
 
-3A\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing matters necessary or convenient to be prescribed for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of civil aviation, including but not limited to —
+3A\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing matters necessary or convenient to be prescribed for the control and regulation of aviation in and over Singapore for the safety of air navigation or for public safety or both, and for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of civil aviation, including but not limited to —
 
 (a) the design and manufacture of aircraft and aeronautical products;
 
@@ -585,13 +651,23 @@ General
 
 (h) regulation of air navigation services;
 
+(ha) applying the provisions of this Act or regulations made under this section to unmanned aircraft and their operators (indoors or outdoors), design, maintenance and manufacture with such prescribed exceptions, modifications and adaptations as the differences between the manned aircraft and unmanned aircraft require;
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(hb) prohibiting aircraft from flying over such areas in Singapore as may be specified in the regulations where necessary or expedient for the safety of air navigation or for public safety;
+
+[Act 16 of 2015 wef 01/06/2015]
+
 (i) the prohibition of the construction of buildings, structures or objects, the restriction of the dimensions of buildings, structures or objects, and the removal in whole or in part or the marking or lighting of buildings, structures or objects (including trees or other natural obstacles) that constitute or may constitute obstructions, hazards or potential hazards to aircraft flying in the vicinity of an aerodrome, and such other measures as are necessary to ensure the safety of aircraft using an aerodrome or flying in the vicinity of an aerodrome;
 
 (j) the formal proof and authentication of instruments made or issued under this Act or the regulations made under this section;
 
 (k) empowering an officer authorised by the Authority to give or issue directives or instructions to all or any person holding an aviation safety instrument, being directives or instructions with respect to matters affecting the safe navigation and operation, or the maintenance, of aircraft, and providing for the manner in which such directives and instructions are to be notified;
 
-(l) providing for a right to appeal to the Minister against any decisions made by the Authority under the regulations (whose decision on appeal shall be final) and the procedure for such appeals;
+(l) providing for a right to appeal to the Minister against any decisions made by the Authority under the regulations or under section 7C (whose decision on appeal shall be final) and the procedure for such appeals;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (m) standards relating to the establishment and use of airspace;
 
@@ -606,6 +682,8 @@ General
 (r) prescribing such saving and transitional provisions and such incidental, consequential or supplementary provisions as may be necessary or expedient.
 
 [10/2014]
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (2) Without prejudice to the generality of subsection (1), regulations may also provide for or with respect to —
 
@@ -1389,23 +1467,43 @@ to undergo such inspection or monitoring as the Authority considers, on reasonab
 
 ### Power to obtain information
 
-4M\.—(1) For the purpose of finding out whether the provisions of this Act or any applicable aviation safety subsidiary legislation is being complied with, the Director-General of Civil Aviation or a safety inspector, may by notice require any holder of an aviation safety instrument or other person to furnish, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information relating to any matter —
+4M\.—(1) For the purpose of finding out whether the provisions of this Act or any applicable aviation safety subsidiary legislation is being complied with, a safety inspector may by notice require any holder of an aviation safety instrument or other person to furnish, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information relating to any matter —
 
-(a) which the Director-General of Civil Aviation or a safety inspector considers necessary for that purpose; and
+(a) which a safety inspector considers necessary for that purpose; and
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (b) which are within the knowledge of that person or in his custody or under his control.
 
 [10/2014]
 
+[Act 16 of 2015 wef 01/06/2015]
+
 (2) The power to require a person to furnish any document or information under subsection (1) includes the power —
 
-(a) to require that person, or any person who is or was an officer or employee of his, to provide an explanation of the document or information;
+(a) to require that person, or any individual who is or was an officer or employee of that person —
+
+(i) to provide an explanation of the document or information; or
+
+(ii) to attend before a safety inspector for an interview and to answer any question and give a statement about the document or information;
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (b) if the document or information is not furnished, to require that person to state, to the best of his knowledge and belief, where it is; and
 
 (c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Authority in legible form.
 
 [10/2014]
+
+(2A) Where a person is required to attend before a safety inspector for an interview, the safety inspector must —
+
+(a) record the person’s answers or statement at the interview in writing;
+
+(b) read over that written record in paragraph (a) of the person’s answers or statement or, if the person is for any reason unable to understand or communicate in spoken English sufficiently, use an interpreter to inform the person about contents of the written record; and
+
+(c) then require the person to sign that written record.
+
+[Act 16 of 2015 wef 01/06/2015]
 
 (3) Any person who, without reasonable excuse, fails to do anything required of him by notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -1425,9 +1523,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [10/2014]
 
-(6) The Authority, the Director-General of Civil Aviation or any safety inspector, as the case may be, shall be entitled without payment to keep any document or information, or any copy or extract of any document or information, furnished under subsection (1).
+(6) The Authority or any safety inspector, as the case may be, shall be entitled without payment to keep any document or information, or any copy or extract of any document or information, furnished under subsection (1).
 
 [10/2014]
+
+[Act 16 of 2015 wef 01/06/2015]
 
 ### Power of entry to premises, aircraft, etc.
 
@@ -1561,7 +1661,9 @@ who is prescribed by the applicable aviation safety subsidiary legislation for t
 
 Division 4 —
 
-Special powers and prohibited photography
+Special powers and prohibited activities
+
+[Act 16 of 2015 wef 01/06/2015]
 
 ### Special powers in case of emergency
 
@@ -1575,31 +1677,153 @@ Special powers and prohibited photography
 
 (4) No compensation shall be payable under subsection (3) by reason of the operation of a general order under this section prohibiting flying in Singapore or any part of Singapore.
 
-### Prohibited carriage and prohibited photography over protected areas
+### Prohibited photography over protected areas
 
 7\.—(1) The Minister may by order published in theGazettedeclare any area to be a protected area within the meaning of this section.
 
 [7/97]
 
-(2) An aircraft flying over any protected area shall not carry —
+(2) If —
 
-(a) arms or explosives (other than such arms and ammunition therefor as may be permitted by rules made under the Arms and Explosives Act (Cap. 13), and in respect of which all conditions prescribed in such rules are observed), or munitions of war (including gas in any form suitable for warlike purposes), save for the purposes of the provisions of any order made under section 3 relating to signals; or
+(a) an unmanned aircraft has on board equipment for taking photographs when flying; and
 
-(b) photographic apparatus, unless packed in such a manner that it cannot be used in the aircraft, and sealed by the person in charge of the aircraft before the aircraft flies over that protected area; except that this paragraph shall not apply to photographic apparatus allowed to be used by a person in accordance with the terms of a permit issued to him under subsection (3).
+(b) a photograph is taken of the whole or any part of a protected area using that photographic equipment on board the unmanned aircraft,
 
-(3)(a) No person shall take from an aircraft any photograph of a protected area except in accordance with the terms and conditions in such permit as the Authority may see fit to issue to him.
+the operator of the unmanned aircraft, and the person taking the photograph if the person is not the operator, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(b) It may be a term or condition of such permit that any photograph taken under the permit must immediately be submitted for examination to such authority as is specified in the permit.
+[Act 16 of 2015 wef 01/06/2015]
 
-(c) A person who observes all the terms and conditions of a permit shall not be guilty of an offence under section 3 of the Official Secrets Act (Cap. 213) in respect of a photograph taken in accordance with the terms and conditions of the permit.
+(3) In proceedings for an offence under subsection (2) —
 
-(4) It shall be the duty of the person in charge of the aircraft to ensure that any photographic apparatus carried in the aircraft is not used while the aircraft is flying over any protected area, and that the seals with which the apparatus is sealed are not broken within any protected area without the sanction of the Director-General of Customs or his agent.
+(a) it is not necessary for the prosecution to prove that an accused knew or had reason to believe that —
 
-[4/2003]
+(i) the area is a protected area; or
 
-(5) The Director-General of Customs or his agent may seize and develop, without paying compensation, any photographic films or plates carried in the aircraft, which he may reasonably suspect of having been used in contravention of any provision of this Act or of the Official Secrets Act.
+(ii) the unmanned aircraft had on board equipment for taking photographs when flying; but
 
-[4/2003]
+(b) it is a defence to the charge for the accused to prove, on a balance of probabilities, that —
+
+(i) the photograph of the whole or any part of the protected area using photographic equipment on board the unmanned aircraft was not taken intentionally but was taken because of weather conditions or other unavoidable cause; or
+
+(ii) the accused has in force a permit from a competent security officer and had, in accordance with that permit, taken, or caused to be taken, any photograph of the whole or any part of a protected area using photographic equipment on board the unmanned aircraft.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(4) Every offence under this section is an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(5) In this section, a reference to taking a photograph includes a reference to —
+
+(a) making a film or a video-recording; and
+
+(b) making a recording of images for the purpose of broadcasting or live-streaming the images.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+[Act 16 of 2015 wef 01/06/2015]
+
+### Permit needed for certain overflight by unmanned aircraft
+
+7A\.—(1) A person must not operate an unmanned aircraft to fly, at any height, over any part of any protected area declared under section 7.
+
+(2) Every operator of an unmanned aircraft who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) In proceedings for an offence under subsection (2) —
+
+(a) it is not necessary for the prosecution to prove that an accused knew or had reason to believe that the area flown over is a protected area; but
+
+(b) it is a defence to the charge for the accused to prove, on a balance of probabilities, that —
+
+(i) the accused did not intentionally cause the unmanned aircraft to fly over the protected area, and the overflight was not due to any want of reasonable care on the part of the accused; or
+
+(ii) the overflight was authorised by and in accordance with a permit from a competent security officer.
+
+(4) Every offence under this section is an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[Act 16 of 2015 wef 01/06/2015]
+
+### Absolute prohibition of carriage of dangerous materials on unmanned aircraft
+
+7B\.—(1) If —
+
+(a) a person operates an unmanned aircraft to fly indoors or at any height over any area in Singapore; and
+
+(b) the unmanned aircraft carries a prohibited item when so flying,
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) In proceedings for an offence under subsection (1) —
+
+(a) it is not necessary for the prosecution to prove that an accused knew that the unmanned aircraft carried a prohibited item when flying; but
+
+(b) it is a defence to the charge for the accused to prove, on a balance of probabilities, that he did not know, and could not reasonably have been expected to know, that the unmanned aircraft carried a prohibited item when flying.
+
+(3) Every offence under this section is an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+(4) In this section, “prohibited item” means —
+
+(a) any weapon, substance or other thing the possession of which (for any purpose) would constitute an offence under any of the following written laws:
+
+(i) the Arms and Explosives Act (Cap. 13);
+
+(ii) the Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65);
+
+(iii) the Dangerous Fireworks Act (Cap. 72);
+
+(b) any biological agent, biological agent waste or toxin within the meaning of the Biological Agents and Toxins Act (Cap. 24A);
+
+(c) any radioactive material, radioactive substance or radioactive waste within the meaning of the Radiation Protection Act (Cap. 262); or
+
+(d) any other hazardous material (whether gaseous, liquid or solid) that is prescribed, in a notification published in theGazette, by the Minister charged with the responsibility for homefront security to be a prohibited item for the purposes of this section.
+
+[Act 16 of 2015 wef 01/06/2015]
+
+### Discharge from unmanned aircraft
+
+7C\.—(1) If —
+
+(a) a person operates an unmanned aircraft to fly indoors or at any height over any area in Singapore; and
+
+(b) the unmanned aircraft when so flying discharges anything (whether gaseous, liquid or solid),
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+(2) In proceedings for an offence under subsection (1), it is not necessary for the prosecution to prove that an accused knew or had reason to believe that the unmanned aircraft discharged anything while in flight, but it is a defence to the charge if the accused proves, on a balance of probabilities, that —
+
+(a) the accused —
+
+(i) did not intentionally cause the thing to discharge from the unmanned aircraft and the discharge was not due to any want of reasonable care; and
+
+(ii) took all reasonably practicable steps to stop or reduce further discharge of that thing from the unmanned aircraft as soon as practicable after discovering the discharge;
+
+(b) the thing escaped from the unmanned aircraft operated by the accused in consequence of damage, other than intentional damage, to the unmanned aircraft and all reasonable precautions were taken by the accused after the occurrence of the damage or the discovery of the discharge for the purpose of preventing or minimising further discharge from the unmanned aircraft; or
+
+(c) the accused has in force a discharge permit from the Authority and had caused the thing to be discharged from the unmanned aircraft in accordance with that discharge permit.
+
+(3) However, it is not a defence to a charge for an offence under subsection (1) if —
+
+(a) no individual dies or is hurt;
+
+(b) no property is destroyed or damaged; or
+
+(c) no hazard is caused to another aircraft, to anyone or any property,
+
+as a result of anything discharged from an unmanned aircraft in flight.
+
+(4) For the purposes of subsection (2)(b), damage to an unmanned aircraft or to its equipment is intentional damage if the damage arose in circumstances in which the operator of the unmanned aircraft —
+
+(a) acted with intent to cause the damage; or
+
+(b) acted recklessly and with knowledge that damage would probably result.
+
+(5) A person who is refused a discharge permit, or whose discharge permit is cancelled by the Authority, may appeal to the Minister against the Authority’s refusal or cancellation, as the case may be, in the manner prescribed under section 3 or 3A; and the Minister’s decision on appeal is final.
+
+(6) In this section, “discharge”, from an unmanned aircraft, includes dropping from an unmanned aircraft but does not include the discharge of exhaust from an unmanned aircraft during flight.
+
+(7) To avoid doubt, this section does not affect the operation of the Military Manoeuvres Act (Cap. 182).
+
+[Act 16 of 2015 wef 01/06/2015]
 
 Division 5 —
 
@@ -2387,7 +2611,7 @@ AVIATION SECURITY
 
 (g) putting the safety of an aircraft in flight or on the ground, or of passengers, crew, ground personnel or the general public, at an airport or on the premises of a civil aviation facility at risk by communicating false or misleading information;
 
-“auxiliary police officer” means a person appointed as such under Part IX of the Police Force Act (Cap. 235);
+[Deleted by Act 16 of 2015 wef 01/06/2015]
 
 “aviation industry participant” means —
 
@@ -2809,11 +3033,13 @@ and in such case, the National Civil Aviation Security Authority may issue a ver
 
 [10/2014]
 
-(4) The provisions of any order made by the Minister before 1st April 20141in relation to aviation security and in force immediately before that date shall continue in force as if made under this Part until the provision is revoked by regulations on aviation security made under this section.
+(4) The provisions of any order made by the Minister before 1st April 20141in relation to aviation security and in force immediately before that date shall continue in force as if made under this Part, and may from time to time be amended or revoked under this section.
 
 1Date of commencement of the Air Navigation (Amendment) Act 2014 (Act 10 of 2014).
 
 [10/2014]
+
+[Act 16 of 2015 wef 01/06/2015]
 
 ## PART III
 
@@ -3097,9 +3323,17 @@ be deemed to be public officers for the purposes of the Financial Procedure Act 
 
 (a) the Director-General of Civil Aviation, any safety inspector or any officer or employee of the Authority authorised to act for or assist the Authority;
 
-(b) the National Civil Aviation Security Authority, any police officer authorised to act for or assist the National Civil Aviation Security Authority or any aviation security inspector; or
+(b) the National Civil Aviation Security Authority, any police officer authorised to act for or assist the National Civil Aviation Security Authority or any aviation security inspector;
 
-(c) any Inspector under Part IIA or any officer of the AAIB acting under the authority of the Minister or the Chief Inspector of Accidents pursuant to that Part,
+[Act 16 of 2015 wef 01/06/2015]
+
+(c) any Inspector under Part IIA or any officer of the AAIB acting under the authority of the Minister or the Chief Inspector of Accidents pursuant to that Part; or
+
+[Act 16 of 2015 wef 01/06/2015]
+
+(d) an authorised person within the meaning of section 29G,
+
+[Act 16 of 2015 wef 01/06/2015]
 
 in the discharge of his duties under this Act or any subsidiary legislation made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -3138,6 +3372,74 @@ in the discharge of his duties under this Act or any subsidiary legislation made
 (4) In this Act or any subsidiary legislation made under this Act, any reference to the Minister determining an appeal shall include a reference to such Minister of State for his Ministry as is designated by the Minister to hear, in his place, that appeal.
 
 [10/2014]
+
+### Interception, etc., of unmanned aircraft
+
+29G\.—(1) Where an authorised person has reason to believe that an unmanned aircraft is being operated in a manner —
+
+(a) that contravenes any provision of this Act or any aviation safety subsidiary legislation; or
+
+(b) that poses a serious and an imminent risk to safety of the public,
+
+the authorised person may, subject to subsection (3), exercise all or any of the powers in subsection (2) in relation to the unmanned aircraft for either purpose:
+
+(i) preventing further contravention of any provision of this Act or any aviation safety subsidiary legislation;
+
+(ii) preventing or stopping any actual or imminent occurrence that endangers or threatens to endanger the safety of the public.
+
+(2) For the purposes of subsection (1), the powers that may be exercised by an authorised person in relation to an unmanned aircraft are without warrant —
+
+(a) to direct any person whom the authorised person reasonably believes to be involved in the operation of the unmanned aircraft —
+
+(i) to end the flight of the unmanned aircraft, or land it, safely in the fastest practicable way; or
+
+(ii) to fly the unmanned aircraft in the manner specified by the authorised person;
+
+(b) with such assistance and by such force as is necessary —
+
+(i) to assume control of an unmanned aircraft to fly the aircraft or to end the flight of the aircraft, or land it, safely in the fastest practicable way; or
+
+(ii) to end the flight of the unmanned aircraft in the fastest and safest practicable way; or
+
+(c) to seize the unmanned aircraft and any component of the unmanned aircraft system for that aircraft, or other thing, that the authorised person believes on reasonable grounds —
+
+(i) to be evidential material; or
+
+(ii) needs to be seized to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating an offence under this Act or any aviation safety subsidiary legislation.
+
+(3) In authorising any person under subsection (1), the Commissioner of Police or the Authority, as the case may be, may do all or any of the following:
+
+(a) limit the powers in subsection (2) that the authorised person may exercise;
+
+(b) limit when the authorised person may exercise his powers in subsection (2) or any of them;
+
+(c) limit where in Singapore the authorised person may exercise his powers in subsection (2) or any of them;
+
+(d) limit the circumstances in which the authorised person may exercise his powers in subsection (2) or any of them;
+
+(e) limit the offences in respect of which the authorised person may exercise his powers in subsection (2) or any of them.
+
+(4) Any person who, without reasonable excuse, contravenes any direction under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) A Magistrate may, on an application by the Authority, make an order authorising the Authority to destroy or otherwise dispose of any thing seized under subsection (2)(c) by a safety inspector, if the Magistrate is satisfied that —
+
+(a) apart from this section, a safety inspector or the Authority is required to return the thing to a person; and
+
+(b) the safety inspector or the Authority cannot, despite making reasonable efforts, locate the person or the person has refused to take possession of that thing.
+
+(6) In this section, “evidential material” means any thing that is relevant to proving a contravention of any provision of this Act or any aviation safety subsidiary legislation (whether or not an offence).
+
+(7) In this section, an authorised person is —
+
+(a) a police officer, or an auxiliary police officer, of or above the rank of sergeant and authorised by the Commissioner of Police to exercise powers under this section;
+
+(b) a safety inspector authorised by the Authority to exercise powers under this section; or
+
+(c) an individual with the suitable qualifications and experience to properly exercise one or more of the powers in subsection (2) and authorised by the Authority to do so.
+
+(8) To avoid doubt, nothing in this section derogates from the provisions of the Criminal Procedure Code (Cap. 68) or section 201B of the Singapore Armed Forces Act (Cap. 295).
+
+[Act 16 of 2015 wef 01/06/2015]
 
 ## PART IV
 
@@ -3228,6 +3530,10 @@ This Legislative History is provided for the convenience of users of the Air Nav
 ||Date of commencement|1 April 2014|
 |12.|**2014 Revised Edition—Air Navigation Act (Chapter 6)**|
 ||Date of operation|31 July 2014|
+|13.|**Act 16 of 2015—Unmanned Aircraft (Public Safety and Security) Act 2015**|
+||Date of First Reading|13 April 2015 (Bill No. 13/2015 published on 13 April 2015)|
+||Date of Second and Third Readings|11 May 2015|
+||Date of commencement|1 June 2015|
 ## COMPARATIVE TABLE
 
 Air Navigation Act
