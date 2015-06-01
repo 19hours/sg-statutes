@@ -1026,7 +1026,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# wCriminal Procedure Code
+# Criminal Procedure Code
 
 (CHAPTER 68)
 
@@ -1558,11 +1558,13 @@ on receiving information about offences
 
 ### Power to examine witnesses
 
-22\.—(1) In conducting an investigation under this Part, a police officer may examine orally any person who appears to be acquainted with any of the facts and circumstances of the case —
+22\.—(1) In conducting an investigation under this Part, a police officer, or a forensic specialist acting in the course of his duty as such in accordance with the written authorisation of the Commissioner under the Police Force Act (Cap. 235) and the lawful directions of the police officer or law enforcement officer he assists, may examine orally any person who appears to be acquainted with any of the facts and circumstances of the case —
 
 (a) whether before or after that person or anyone else is charged with an offence in connection with the case; and
 
 (b) whether or not that person is to be called as a witness in any inquiry, trial, or other proceeding under this Code in connection with the case.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (2) The person examined shall be bound to state truly what he knows of the facts and circumstances of the case, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
@@ -1758,6 +1760,10 @@ the court may by warrant authorise the person or persons to whom it is issued �
 
 (2) The police officer in subsection (1) shall, if reasonably practicable, conduct the search in person.
 
+(2A) A reference to a police officer in this section includes a reference to a forensic specialist acting in the course of his duty as such in accordance with the written authorisation of the Commissioner under the Police Force Act and the lawful directions of the police officer he assists.
+
+[Act 10 of 2015 wef 01/06/2015]
+
 (3) The provisions of this Code relating to searches pursuant to search warrants shall, with the necessary modifications, apply to a search made under this section.
 
 ### Powers to seize property in certain circumstances
@@ -1824,6 +1830,10 @@ order the release of such property or any part of such property.
 
 (ii) on which the property is suspected to have been used or intended to be used to commit an offence.
 
+(10) A reference to a police officer in this section includes a reference to a forensic specialist acting in the course of his duty as such in accordance with the written authorisation of the Commissioner under the Police Force Act and the lawful directions of the police officer he assists.
+
+[Act 10 of 2015 wef 01/06/2015]
+
 ### Forfeiture of counterfeit coin or counterfeit currency note or bank note, etc.
 
 36\.—(1) Any police officer of or above the rank of sergeant, upon being satisfied that any person has in his possession —
@@ -1868,7 +1878,9 @@ may, without warrant and with or without assistance, enter and search any place 
 
 (5) A person who had acted in good faith under subsection (1) or in compliance with a requirement under subsection (2) shall not be liable in any criminal or civil proceedings for any loss or damage resulting from the act.
 
-(6) In this section and section 40, “authorised person” means a person authorised in writing by the Commissioner of Police for the purposes of this section or section 40 or both.
+(6) In this section and section 40, “authorised person” means a forensic specialist appointed under section 65A of the Police Force Act, or other person, authorised in writing by the Commissioner of Police for the purposes of this section or section 40 or both.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ### Power to access decryption information
 
@@ -17313,3 +17325,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|30 January 2015|
 ||Date of commencement|1 April 2015|
+|19.|**Act 10 of 2015—Police Force (Amendment) Act 2015**|
+||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 June 2015|
