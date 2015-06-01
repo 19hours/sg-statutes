@@ -36,11 +36,13 @@
 
 - [8A Power to board vessel for various purposes](#Power-to-board-vessel-for-various-purposes)
 
-- [8B Power to investigate fire in or on aircraft or vehicle](#Power-to-investigate-fire-in-or-on-aircraft-or-vehicle)
+- [8B Power to enter premises, etc., up to 48 hours after fire](#Power-to-enter-premises-etc-up-to-48-hours-after-fire)
 
 - [8C Powers ancillary to sections 8, 8A and 8B](#Powers-ancillary-to-sections-8-8A-and-8B)
 
 - [8D Exemption of Singapore Armed Forces](#Exemption-of-Singapore-Armed-Forces)
+
+- [8E Fire forensic specialists](#Fire-forensic-specialists)
 
 - [9 Power to fix plate showing position of fire-hydrant](#Power-to-fix-plate-showing-position-of-fire-hydrant)
 
@@ -251,6 +253,10 @@ using engineering tools, methodologies and performance criteria as may be accept
 “Fire Code” means the Code of Practice for Fire Precautions in Buildings published by the Commissioner as amended or remade from time to time, and includes any code, standard, rule, specification or provision adopted under section 55;
 
 [Act 14 of 2013 wef 01/09/2013]
+
+“fire forensic specialist” means an individual who is appointed under section 8E as a fire forensic specialist;
+
+[Act 10 of 2015 wef 01/06/2015]
 
 “fire hazard” means any matter or circumstance which materially increases the likelihood of fire or the danger to life or property that would result from the outbreak of fire and includes —
 
@@ -884,7 +890,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) ascertaining whether there exists in the premises any fire hazard;
 
-(e) determining the cause or causes of any fire which has occurred in such premises;
+(e) [Deleted by Act 10 of 2015 wef 01/06/2015]
 
 (f) ascertaining whether or not any place of public assembly or premises used for purposes of entertainment or recreation are being used to accommodate a larger number of persons than is permitted under any regulations made under this Act;
 
@@ -902,9 +908,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) entry into a place of public entertainment or public assembly, factory, workshop or workplace or premises otherwise used for business purposes;
 
-(b) entry into any premises within 48 hours after a fire has occurred in the premises for the purpose of determining the cause or causes of the fire.
-
-[Act 14 of 2013 wef 01/09/2013]
+(b) [Deleted by Act 10 of 2015 wef 01/06/2015]
 
 ### Power to board vessel for various purposes
 
@@ -914,27 +918,39 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) conducting fire-drills and exercises;
 
-(c) determining the cause or causes of any fire which has occurred on board such vessel;
+(c) [Deleted by Act 10 of 2015 wef 01/06/2015]
 
 (d) performance by the Commissioner or the Force of his or its powers under this Act or any other written law.
 
-(2) Except in respect of the boarding of any vessel within 48 hours after a fire has occurred on board the vessel for the purpose of determining the cause or causes of the fire, the Commissioner or any member of the Force authorised under subsection (1) shall not exercise the right to board any vessel conferred by subsection (1) unless prior reasonable notice in writing has been given to the owner of a vessel.
+(2) The Commissioner or any member of the Force authorised under subsection (1) shall not exercise the right to board any vessel conferred by subsection (1) unless prior reasonable notice in writing has been given to the owner of a vessel.
 
 [Act 14 of 2013 wef 01/09/2013]
 
-### Power to investigate fire in or on aircraft or vehicle
+[Act 10 of 2015 wef 01/06/2015]
 
-8B\. The Commissioner or any member of the Force authorised by him in writing on producing, if so required, an authenticated document showing his authority may, for the purpose of determining the cause or causes of a fire which has occurred in or on any aircraft or vehicle (not including a vessel), do one or both of the following:
+### Power to enter premises, etc., up to 48 hours after fire
 
-(a) seize or detain the aircraft or vehicle;
+8B\.—(1) For the purposes of investigating the cause or origin of any fire which has occurred in or on any aircraft, vessel or vehicle, or in or on any premises, the Commissioner, or a member of the Force or a fire forensic specialist authorised by the Commissioner in writing —
 
-(b) break into the aircraft or vehicle.
+(a) may enter and inspect those premises or any adjacent premises, or may board the aircraft, vessel or vehicle, as the case may be; and
 
-[Act 14 of 2013 wef 01/09/2013]
+(b) may seize or detain the aircraft or vehicle.
+
+(2) The power conferred under subsection (1)(a) on the Commissioner, or a member of the Force or a fire forensic specialist authorised by the Commissioner, may be exercised —
+
+(a) without notice within a period of 48 hours after the fire on the premises, aircraft, vessel or vehicle, as the case may be, has been put out; and
+
+(b) in any other case, only after giving notice in writing of the intended entry to the occupier of the premises or intended boarding to the owner of the aircraft, vessel or vehicle, as the case may be.
+
+(3) However, this section does not authorise the Commissioner, or a member of the Force or a fire forensic specialist, to enter any part of premises, or to board any part of an aircraft, vessel or vehicle, as the case may be, without first producing, if so required, an authenticated document showing his authority to so enter or board.
+
+(4) To avoid doubt, nothing in this section shall limit the powers of any authority to investigate accidents under any written law for the time being in force relating to air navigation or merchant shipping.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ### Powers ancillary to sections 8, 8A and 8B
 
-8C\.—(1) The Commissioner or any member of the Force exercising the powers under section 8, 8A or 8B may (so far as may be reasonably necessary for the purpose to which his exercise of the powers relates) do all or any of the following in the premises, aircraft, vehicle or vessel, as the case may be:
+8C\.—(1) The Commissioner or any member of the Force or fire forensic specialist exercising the powers under section 8, 8A or 8B may (so far as may be reasonably necessary for the purpose to which his exercise of the powers relates) do all or any of the following in the premises, aircraft, vehicle or vessel, as the case may be:
 
 (a) take with him any assistance or equipment;
 
@@ -948,19 +964,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) do any other thing reasonably necessary for carrying out the purpose to which his exercise of the powers relates.
 
-(2) For the purposes of section 8, 8A or 8B or subsection (1)(b), the Commissioner or a member of the Force authorised under section 8, 8A or 8B, as the case may be, may —
+[Act 10 of 2015 wef 01/06/2015]
 
-(a) require the owner or occupier of the premises, or the owner or person having charge of the aircraft, vehicle or vessel, as the case may be, to provide all reasonable assistance to the Commissioner or a member of the Force authorised under section 8, 8A or 8B, as the case may be; and
+(2) For the purposes of section 8, 8A or 8B or subsection (1)(b), the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 8, 8A or 8B, as the case may be, may —
+
+(a) require the owner or occupier of the premises, or the owner or person having charge of the aircraft, vehicle or vessel, as the case may be, to provide all reasonable assistance to the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 8, 8A or 8B, as the case may be; and
 
 (b) if the circumstances so warrant, with such assistance as he thinks necessary, break open any door, window, lock, fastener, hold, compartment, box, container, receptacle or any other thing.
 
+[Act 10 of 2015 wef 01/06/2015]
+
 (3) Any person who fails to comply with any requirement made under subsection (2)(a) shall be guilty of an offence.
 
-(4) Where the Commissioner or a member of the Force seizes any thing under subsection (1)(e), he shall —
+(4) Where the Commissioner, or a member of the Force or a fire forensic specialist seizes any thing under subsection (1)(e), he shall —
 
 (a) immediately give notice in writing of the seizure to the owner of the thing seized or to the agent of such owner; or
 
 (b) if the name and address of the owner or agent of the thing seized are not known, affix a notice prominently at the place where the thing was seized.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (5) Any person aggrieved by the seizure of any thing under subsection (1)(e) may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court.
 
@@ -974,17 +996,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) order payment to be made to the owner of the thing seized of such amount as the Court considers will compensate him for any loss or depreciation resulting from the seizure.
 
-(7) Any thing seized under subsection (1)(e) may be kept or stored at the place where it was seized or may, at the direction of the Commissioner or a member of the Force authorised under section 8, 8A or 8B, be removed to any other place to be kept or stored thereat.
+(7) Any thing seized under subsection (1)(e) may be kept or stored at the place where it was seized or may, at the direction of the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 8, 8A or 8B, be removed to any other place to be kept or stored thereat.
 
-(8) The Commissioner or a member of the Force authorised under section 8, 8A or 8B may mark, seal or label any thing being detained under subsection (1)(e) in such manner as he thinks fit for the purpose of indicating that the thing is under detention and may lock or seal the place (or any part thereof) in which the thing is being detained.
+[Act 10 of 2015 wef 01/06/2015]
 
-(9) Any person who, without the authority of the Commissioner or a member of the Force authorised under section 8, 8A or 8B, as the case may be —
+(8) The Commissioner, or a member of the Force or a fire forensic specialist authorised under section 8, 8A or 8B may mark, seal or label any thing being detained under subsection (1)(e) in such manner as he thinks fit for the purpose of indicating that the thing is under detention and may lock or seal the place (or any part thereof) in which the thing is being detained.
+
+[Act 10 of 2015 wef 01/06/2015]
+
+(9) Any person who, without the authority of the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 8, 8A or 8B, as the case may be —
 
 (a) interferes with, removes or otherwise disposes of any thing seized or detained under section 8, 8A or 8B or tampers with, alters or removes any mark, seal or label placed under subsection (8); or
 
 (b) opens, breaks or otherwise tampers with the lock or seal placed under subsection (8),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 (10) Subsections (4) to (9) shall apply to any aircraft or vehicle seized under section 8B as if they were seized or detained under subsection (1)(e).
 
@@ -997,6 +1025,52 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 8D\. Sections 7 to 8C shall not apply to any aircraft, vehicle or vessel belonging to or exclusively employed in the service of the Singapore Armed Forces or of any visiting force lawfully present in Singapore.
 
 [Act 14 of 2013 wef 01/09/2013]
+
+### Fire forensic specialists
+
+8E\.—(1) The Minister may, in writing, appoint any of the following individuals to be fire forensic specialists to assist the Commissioner, or any member of the Force authorised by the Commissioner under section 8B, exercising in Singapore a power under that section or section 8C:
+
+(a) a Division I, II or III public officer who is not a member of the Force but is employed in the offices of the Force;
+
+(b) an individual (who is not a public officer) with suitable qualifications or experience to properly exercise the powers of a fire forensic specialist.
+
+(2) A fire forensic specialist’s appointment is to be for such period as the Minister decides and, for an individual referred to in subsection (1)(b), is to be on such terms and conditions (including remuneration) as the Minister decides from time to time.
+
+(3) The Minister may, for any reason that appears to the Minister to be sufficient, at any time revoke an individual’s appointment as a fire forensic specialist.
+
+(4) The Commissioner must issue to each fire forensic specialist an identification card, which must be carried at all times by the fire forensic specialist when exercising powers under any provision in this Act.
+
+(5) A fire forensic specialist whose appointment as such ceases must return any identification card issued to him under subsection (4) to the Commissioner.
+
+(6) A fire forensic specialist is not a member of the Force, and an individual referred to in subsection (1)(b) who is appointed as a fire forensic specialist under that subsection does not, by virtue only of that appointment, become an employee or agent of the Government.
+
+(7) A fire forensic specialist is to be issued with such equipment, or such description of equipment, as the Commissioner may determine.
+
+(8) The Commissioner may, in writing, authorise a fire forensic specialist to exercise any of the powers in sections 8B and 8C in aid of any member of the Force or class of such members, as the Commissioner may specify in that authorisation, but the Commissioner cannot authorise under this subsection any fire forensic specialist to arrest any individual.
+
+(9) The Commissioner’s authorisation under subsection (8) for a fire forensic specialist may do any or all of the following:
+
+(a) limit the powers in sections 8B and 8C that the fire forensic specialist may exercise;
+
+(b) limit when the fire forensic specialist may exercise his powers in sections 8B and 8C or any of them;
+
+(c) limit where in Singapore the fire forensic specialist may exercise his powers in sections 8B and 8C or any of them;
+
+(d) limit the circumstances in which the fire forensic specialist may exercise his powers in sections 8B and 8C or any of them;
+
+(e) limit the purposes for which the fire forensic specialist may exercise his powers in sections 8B and 8C or any of them.
+
+(10) A fire forensic specialist who under this section is authorised by the Commissioner to exercise any power under section 8B or 8C to assist the Commissioner or a member of the Force —
+
+(a) must obey all lawful directions (general or specific) of the Commissioner and the member of the Force when exercising such power; and
+
+(b) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224) when exercising such power.
+
+(11) Without prejudice to subsection (10), where any law or written law protects a member of the Force from liability for the member’s acts or omissions, that law or written law shall be taken to operate as if those acts or omissions included the fire forensic specialist’s acts or omissions when acting in the course of his duty as a fire forensic specialist in accordance with the written authorisation of the Commissioner under this Part and the lawful directions of the member of the Force he assists.
+
+(12) To avoid doubt, a fire forensic specialist does not cease to be acting on the direction of a member of the Force by reason only that that member of the Force is not present at all times when the fire forensic specialist exercises any power under section 8B or 8C.
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ### Power to fix plate showing position of fire-hydrant
 
@@ -2772,9 +2846,11 @@ MISCELLANEOUS
 
 [Act 14 of 2013 wef 01/09/2013]
 
-(3) No matter or thing done by the Commissioner or by any public officer or member of the Force shall, if it were done with reasonable care and in good faith for the purpose of carrying out the provisions of this Act, subject him or such person personally liable to any action, liability, claim or demand whatsoever.
+(3) No matter or thing done by the Commissioner or by any public officer, fire forensic specialist or member of the Force shall, if it were done with reasonable care and in good faith for the purpose of carrying out the provisions of this Act, subject him or such person personally liable to any action, liability, claim or demand whatsoever.
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ### Transfer of employees to Force
 
@@ -2979,6 +3055,10 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 1/2013 published on 14 January 2013)|
 ||Date of Second and Third Readings|8 April 2013|
 ||Date of commencement|1 March 2014 (sections 40 and 41(b))|
+|15.|**Act 10 of 2015—Police Force (Amendment) Act 2015**|
+||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 June 2015|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
