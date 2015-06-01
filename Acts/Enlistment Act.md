@@ -176,11 +176,17 @@ not more than 50 years of age;
 
 “Special Constabulary” means the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235);
 
-“subordinate military court” has the same meaning as in the Singapore Armed Forces Act.
+“subordinate military court” has the same meaning as in the Singapore Armed Forces Act;
 
 [13/2003 wef 26/09/2003]
 
 [7/72; 21/74; 19/94]
+
+[Act 10 of 2015 wef 01/06/2015]
+
+“voluntary service”, in relation to the Special Constabulary, includes service as a volunteer ex-NSman within the meaning of the Police Force Act (Cap. 235).
+
+[Act 10 of 2015 wef 01/06/2015]
 
 ## PART II
 
@@ -997,6 +1003,10 @@ This Legislative History is provided for the convenience of users of the Enlistm
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|23.|**Act 10 of 2015—Police Force (Amendment) Act 2015**|
+||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 June 2015|
 ## COMPARATIVE TABLE
 
 Enlistment Act
