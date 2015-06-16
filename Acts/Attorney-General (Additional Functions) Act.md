@@ -157,3 +157,105 @@ Media Development Authority of Singapore.
 
 [S 293/2015 wef 18/05/2015]
 
+6. 
+
+Housing and Development Board.
+
+[S 371/2015 wef 16/06/2015]
+
+7. 
+
+Land Transport Authority of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+8. 
+
+Public Transport Council.
+
+[S 371/2015 wef 16/06/2015]
+
+9. 
+
+Urban Redevelopment Authority.
+
+[S 371/2015 wef 16/06/2015]
+
+10. 
+
+Info-communications Development Authority of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+11. 
+
+National Environment Agency.
+
+[S 371/2015 wef 16/06/2015]
+
+12. 
+
+Central Provident Fund Board.
+
+[S 371/2015 wef 16/06/2015]
+
+13. 
+
+Building and Construction Authority.
+
+[S 371/2015 wef 16/06/2015]
+
+14. 
+
+Maritime and Port Authority of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+15. 
+
+Civil Aviation Authority of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+16. 
+
+Council for Private Education.
+
+[S 371/2015 wef 16/06/2015]
+
+17. 
+
+Health Sciences Authority.
+
+[S 371/2015 wef 16/06/2015]
+
+18. 
+
+Intellectual Property Office of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+19. 
+
+Energy Market Authority of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+20. 
+
+Personal Data Protection Commission.
+
+[S 371/2015 wef 16/06/2015]
+
+21. 
+
+Casino Regulatory Authority of Singapore.
+
+[S 371/2015 wef 16/06/2015]
+
+22. 
+
+National Heritage Board.
+
+[S 371/2015 wef 16/06/2015]
+
