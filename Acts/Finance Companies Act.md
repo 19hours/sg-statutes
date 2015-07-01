@@ -114,9 +114,9 @@
 
 - [39C Approval of transfer](#Approval-of-transfer)
 
-[**Part VII SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS**](#Part-VII)
+[**Part VII SUBMISSION OF FINANCIAL STATEMENTS AND DUTIES OF AUDITORS**](#Part-VII)
 
-- [40 Directors to submit copy of profit and loss account](#Directors-to-submit-copy-of-profit-and-loss-account)
+- [40 Directors to submit copy of financial statements](#Directors-to-submit-copy-of-financial-statements)
 
 - [41 Appointment and duties of auditors](#Appointment-and-duties-of-auditors)
 
@@ -1422,13 +1422,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VII
 
-SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS
+SUBMISSION OF FINANCIAL STATEMENTS AND DUTIES OF AUDITORS
 
-### Directors to submit copy of profit and loss account
+[Act 35 of 2014 wef 01/07/2015]
 
-40\. The directors of a finance company shall submit to the Authority a copy of the profit and loss account and balance-sheet made out under section 201(1) and (3) of the Companies Act (Cap. 50).
+### Directors to submit copy of financial statements
+
+40\. The directors of a finance company shall submit to the Authority a copy of the financial statements made under section 201(1) and (2) of the Companies Act (Cap. 50).
 
 [33/84]
+
+[Act 35 of 2014 wef 01/07/2015]
 
 ### Appointment and duties of auditors
 
@@ -1450,9 +1454,11 @@ and may at any time fix the remuneration to be paid by the finance company to th
 
 [33/84]
 
-(4) The duties of an auditor appointed under subsections (1) and (3) shall be to carry out, for the year in respect of which he is appointed, an audit of the accounts of the finance company and to make a report in accordance with section 207 of the Companies Act.
+(4) The duties of an auditor appointed under subsections (1) and (3) shall be to carry out, for the year in respect of which he is appointed, an audit of the financial statements of the finance company and to make a report in accordance with section 207 of the Companies Act.
 
 [33/84]
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (5) The Authority may impose all or any of the following duties on an auditor in addition to those provided under subsection (4):
 
@@ -1468,9 +1474,11 @@ and the finance company shall remunerate the auditor in respect of the discharge
 
 [33/84]
 
-(6) The auditor’s report made under subsection (4) shall be attached to the balance-sheet and the profit and loss account and a copy thereof together with any reports submitted under subsection (5) shall be transmitted in writing to the Authority.
+(6) The auditor’s report made under subsection (4) shall be attached to the financial statements and a copy thereof together with any reports submitted under subsection (5) shall be transmitted in writing to the Authority.
 
 [33/84]
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (7) If an auditor, in the course of the performance of his duties as an auditor of a finance company, is satisfied that —
 
@@ -1896,6 +1904,10 @@ This Legislative History is provided for the convenience of users of the Finance
 ||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
 ||Date of Second and Third Readings|19 January 2015|
 ||Date of commencement|1 April 2015|
+|24.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
