@@ -1156,19 +1156,25 @@ the Authority shall give notice in writing to the insurer of the date on which t
 
 (i) Ais the spouse, or a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter, or a brother or sister ofB;
 
-(ii) A is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+(vii) Ais a body corporate in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the voting power inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the insurer; and
 
@@ -1656,19 +1662,25 @@ the Authority may, by notice in writing, direct the insurer to discontinue the u
 
 (i) Ais the spouse, or a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter, or a brother or sister ofB;
 
-(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+(vii) Ais a body corporate in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the voting power inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, an insurer; and
 
@@ -2190,19 +2202,25 @@ the Authority shall give notice in writing to the reinsurer of the date on which
 
 (i) Ais the spouse, or a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter, or a brother or sister, ofB;
 
-(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+(vii) Ais a body corporate in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the voting power inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the reinsurer.
 
@@ -7215,6 +7233,10 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|1 January 2014|
+|33.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Insurance Act
