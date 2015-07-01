@@ -2380,15 +2380,13 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 (6) For the purposes of subsection (5), a person is an associate of another person if the first-mentioned person is —
 
-(a) a related corporation of the second-mentioned person;
+(a) a subsidiary of that other person;
 
-(b) a person in accordance with whose directions, instructions or wishes that the second-mentioned person is accustomed or is under an obligation, whether formal or informal, to act in relation to the security referred to in subsection (4);
+(b) a person who is accustomed or is under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to the security referred to in subsection (5); or
 
-(c) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to that security;
+(c) a corporation that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to that security.
 
-(d) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to that security; or
-
-(e) a corporation in accordance with the directions, instructions or wishes of which, or of the directors of which, the second-mentioned person is accustomed or under an obligation, whether formal or informal, to act in relation to that security.
+[Act 35 of 2014 wef 01/07/2015]
 
 (7) A person shall be deemed to have an interest in a security in any one or more of the following circumstances:
 
@@ -3370,19 +3368,25 @@ of an approved exchange without first obtaining the approval of the Authority.
 
 (i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
-(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+(vii) Ais a body corporate in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the votes inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the approved exchange.
 
@@ -4843,19 +4847,25 @@ Matters requiring approval of Authority
 
 (i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
-(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, whether alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+(vii) Ais a body corporate in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the votes inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the licensed trade repository.
 
@@ -6275,19 +6285,25 @@ Matters requiring approval of Authority
 
 (i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
-(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, whether alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+(vii) Ais a body corporate in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the votes inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the approved clearing house.
 
@@ -7757,19 +7773,25 @@ of an approved holding company without first obtaining the approval of the Autho
 
 (i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
-(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+(vii) Ais a body corporate in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the votes inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the approved holding company.
 
@@ -10915,13 +10937,9 @@ Disclosure of Interest in Corporation
 
 (b) in relation to a corporation (other than a company), means any person equivalent to a member of a company.
 
-(5) Section 4 (other than subsection (6)) shall apply for the purpose of determining whether a person has an interest in securities under this Division; and in determining whether a person is deemed to have an interest in securities under section 4(5) for such purpose, a person shall be treated as an associate of another person if the first-mentioned person is —
+(5) For the avoidance of doubt, section 4 shall apply for the purpose of determining whether a person has an interest in securities under this Division.
 
-(a) a subsidiary of the second-mentioned person;
-
-(b) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities; or
-
-(c) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities.
+[Act 35 of 2014 wef 01/07/2015]
 
 (6) For the purposes of sections 133(3)(b)(i), 135(2)(b), 136(1), 137(1) and 137E(6), a person shall conclusively be presumed to have been aware of a fact or occurrence at a particular time —
 
@@ -11380,13 +11398,9 @@ Interest in Trustee-Manager of Business Trust
 
 (3) A reference to a recognised business trust is a reference to a recognised business trust any or all of the units in which are listed for quotation on the official list of a securities exchange, such listing being a primary listing.
 
-(4) Section 4 (other than subsection (6)) shall apply for the purpose of determining whether a person has an interest in securities under this Division; and in determining whether a person is deemed to have an interest in securities under section 4(5) for such purpose, a person shall be treated as an associate of another person if the first-mentioned person is —
+(4) For the avoidance of doubt, section 4 shall apply for the purpose of determining whether a person has an interest in securities under this Division.
 
-(a) a subsidiary of the second-mentioned person;
-
-(b) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities; or
-
-(c) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities.
+[Act 35 of 2014 wef 01/07/2015]
 
 (5) Section 130(6) and (7) shall apply for the purposes of —
 
@@ -11798,13 +11812,9 @@ Trust and Interests in Shares of Responsible Person
 
 (b) in relation to any other real estate investment trust, an entity equivalent to a trustee referred to in paragraph (a).
 
-(3) Section 4 (other than subsection (6)) shall apply for the purpose of determining whether a person has an interest in securities under this Division; and in determining whether a person is deemed to have an interest in securities under section 4(5) for such purpose, a person shall be treated as an associate of another person if the first-mentioned person is —
+(3) For the avoidance of doubt, section 4 shall apply for the purpose of determining whether a person has an interest in securities under this Division.
 
-(a) a subsidiary of the second-mentioned person;
-
-(b) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities; or
-
-(c) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to those securities.
+[Act 35 of 2014 wef 01/07/2015]
 
 (4) Section 130(6) and (7) shall apply for the purposes of —
 
@@ -17409,7 +17419,9 @@ distinguishing between deposits, loans and assumptions of liabilities which are 
 
 (7) Any person who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
-(8) Section 201(4) to (7) and (11) to (16) and section 207(1), (2) and (7) of the Companies Act (Cap. 50), shall, with such adaptations as are necessary, be applicable to every profit and loss account and balance-sheet made out and lodged under subsection (6) as if that profit and loss account and balance-sheet were a profit and loss account and balance-sheet referred to in those sections.
+(8) Sections 201(8), (9) and (10) and (12) to (16) and 207(1), (2) and (7) of the Companies Act (Cap. 50) shall, with such adaptations as are necessary, be applicable to every profit and loss account and balance-sheet made out and lodged under subsection (6) as if that profit and loss account and balance-sheet were financial statements referred to in those sections.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (9) Where —
 
@@ -24968,6 +24980,10 @@ This Legislative History is provided for the convenience of users of the Securit
 |||1 August 2013|
 |||31 October 2013|
 |||1 May 2014|
+|23.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
