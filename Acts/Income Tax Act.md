@@ -154,6 +154,8 @@
 
 - [14K Further or double deduction for overseas investment development expenditure](#Further-or-double-deduction-for-overseas-investment-development-expenditure)
 
+- [14KA Further or double deduction for salary expenditure for employees posted overseas](#Further-or-double-deduction-for-salary-expenditure-for-employees-posted-overseas)
+
 - [14L Further deduction for expenses incurred in relocation or recruitment of overseas talent](#Further-deduction-for-expenses-incurred-in-relocation-or-recruitment-of-overseas-talent)
 
 - [14M Deduction for hotel refurbishment expenditure](#Deduction-for-hotel-refurbishment-expenditure)
@@ -419,6 +421,8 @@
 - [45D Application of section 45 to gains from real property transaction](#Application-of-section-45-to-gains-from-real-property-transaction)
 
 - [45E Application of section 45 to withdrawals by non-citizen SRS members, etc.](#Application-of-section-45-to-withdrawals-by-non-citizen-SRS-members-etc)
+
+- [45EA Approval of deduction of investment from SRS account of non-citizen](#Approval-of-deduction-of-investment-from-SRS-account-of-non-citizen)
 
 - [45F Application of section 45 to income from profession or vocation carried on by non-resident individual, etc.](#Application-of-section-45-to-income-from-profession-or-vocation-carried-on-by-non-resident-individual-etc)
 
@@ -2104,9 +2108,31 @@ shall be considered a withdrawal by the SRS member from his SRS account for the 
 
 [22/2011]
 
-(3D) Where any funds in an SRS account have been used for investment, then all the funds standing in the SRS account shall be considered as having been withdrawn at the same time for the purposes of subsection (3)(a) if, and only if, amounts which the financial product provider declared to the SRS member to be all the gains or profits from the investment, all funds used for the investment and all the proceeds from the sale or liquidation of the investment have been returned to the account and these, together with all funds standing in the SRS account, are withdrawn at the same time.
+(3D) Where any funds in an SRS account have been used for investment, then all the funds standing in the SRS account shall be considered as having been withdrawn at the same time for the purposes of subsection (3)(a) if, and only if, every investment has either been sold or liquidated, or is one which has been deducted from the balance in the SRS account, and —
 
-[22/2011]
+(a) in the case of every investment that has been sold or liquidated, amounts which the financial product provider declared to the SRS member to be all the gains or profits from the investment, all funds used for the investment, and all the proceeds from the sale or liquidation have been returned to the account and these, together with all funds standing in the SRS account, are withdrawn at the same time; and
+
+(b) in the case of every investment which has been deducted from the balance in the SRS account, the date of the deduction is the same as the date on which the withdrawal referred to in paragraph (a) takes place.
+
+[Act 37 of 2014 wef 01/07/2015]
+
+(3E) Where —
+
+(a) an SRS member has used funds in his SRS account for any investment; and
+
+(b) the investment is one which has been deducted from the balance in the SRS account,
+
+then an amount equal to the value of the investment as determined in the manner prescribed by regulations made under subsection (11), shall be considered as having been withdrawn by the SRS member from his SRS account on the date of the deduction for the purposes of subsections (1), (2) and (3).
+
+[Act 37 of 2014 wef 01/07/2015]
+
+(3F) In subsections (3D) and (3E) —
+
+(a) an investment is one which has been deducted from the balance in an SRS account if the SRS operator in question has, in accordance with the regulations made under subsection (11), approved the deduction of the sums representing the investment from the balance in the SRS account; and
+
+(b) the date of the deduction is the date of the approval referred to in paragraph (a).
+
+[Act 37 of 2014 wef 01/07/2015]
 
 (4) Where any contribution made by an SRS member in any year to his SRS account exceeds his SRS contribution cap for that year (referred to in this section as excess contribution) —
 
@@ -2203,6 +2229,16 @@ then —
 (j) generally for giving full effect to or for carrying out the purposes of this section.
 
 [24/2001]
+
+(12A) Without prejudice to the generality of subsections (11) and (12), regulations made under subsection (11) may, for the purposes of subsections (3D), (3E) and (3F) and section 45EA (which relates to collection of tax by an SRS operator for payment to the Comptroller on the value of an investment deducted from an SRS account of a non-citizen) —
+
+(a) provide for the manner and time of valuation of any investment;
+
+(b) enable an SRS operator to approve the deduction of the sums representing an investment from the balance in an SRS account under such circumstances as may be specified, and impose duties on the SRS operator before and after giving the approval; and
+
+(c) for the purposes of section 45EA, prescribe different methods of reckoning the value of an investment under different circumstances.
+
+[Act 37 of 2014 wef 01/07/2015]
 
 (13) This section shall not apply to any SRS member whose SRS account is opened and subsequently closed within the same year.
 
@@ -6370,15 +6406,23 @@ does not exceed $100,000 for each year of assessment.
 
 [26/93; 31/98; 32/99; 22/2011; 29/2012]
 
-(4A) Notwithstanding subsection (4), the Minister or such person as he may appoint may, in any particular case, subject to such conditions as he may impose, allow a deduction of any expenses referred to in subsection (4)(c)(v) provided that they are not also expenses referred to in subsection (4)(c)(i), (ii), (iii) or (iv).
+(4A) Notwithstanding subsection (4), the Minister or such person as he may appoint may, in any particular case, subject to such conditions precedent and conditions subsequent as he may impose, allow a deduction of any expenses referred to in subsection (4)(c)(v) provided that they are not also expenses referred to in subsection (4)(c)(i), (ii), (iii) or (iv).
 
 [22/2011]
 
-(5) [Deleted by Act 19 of 2013]
+[[Act 2 of 2016 wef 01/07/2015]
 
-(6) [Deleted by Act 19 of 2013]
+(5) Despite subsection (4), the Minister or such person as the Minister may appoint may, in any particular case, and subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenses referred to in subsection (4)(d).
 
-(7) [Deleted by Act 19 of 2013]
+[[Act 2 of 2016 wef 01/07/2015]
+
+(6) If the firm or company fails to comply with a condition subsequent imposed under subsection (4A) or (5), the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non compliance.
+
+[[Act 2 of 2016 wef 01/07/2015]
+
+(7) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
+
+[[Act 2 of 2016 wef 01/07/2015]
 
 (8) [Deleted by Act 19 of 2013]
 
@@ -7120,6 +7164,16 @@ does not exceed $100,000 for each year of assessment.
 
 [22/2011; 29/2012]
 
+(2A) The sum of —
+
+(a) the amount of expenditure allowed as a deduction or a further deduction to a firm or company under subsection (1); and
+
+(b) any amount of expenditure allowed as a deduction or a further deduction to the firm or company under section 14KA(1),
+
+must not exceed $1 million for each year of assessment.
+
+[Act 2 of 2016 wef 01/07/2015]
+
 (3) No deduction shall be allowed under this section in respect of —
 
 (a) travelling, accommodation and subsistence expenses or allowances for —
@@ -7142,9 +7196,17 @@ does not exceed $100,000 for each year of assessment.
 
 [29/2012]
 
-(4) [Deleted by Act 19 of 2013]
+(4) Despite subsection (3), the Minister or such person as the Minister may appoint may, in any particular case, and subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenditure referred to in subsection (3)(b).
 
-(5) [Deleted by Act 19 of 2013]
+[Act 2 of 2016 wef 01/07/2015]
+
+(5) If the firm or company fails to comply with a condition subsequent imposed under subsection (4), the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+
+[Act 2 of 2016 wef 01/07/2015]
+
+(5A) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
+
+[Act 2 of 2016 wef 01/07/2015]
 
 (6) Section 14B(10) shall apply, with the necessary modifications, to any firm or company to which a deduction is allowed under subsection (1).
 
@@ -7165,6 +7227,108 @@ does not exceed $100,000 for each year of assessment.
 (8) No approval shall be granted under this section after 31st March 2016.
 
 [22/2011]
+
+### Further or double deduction for salary expenditure for employees posted overseas
+
+14KA\.—(1) Where the Comptroller is satisfied that —
+
+(a) an approved firm or company resident and carrying on business in Singapore has incurred, at any time between 1 July 2015 and 31 March 2020 (both dates inclusive), salary expenditure specified for it under subsection (7) for its employees posted to an overseas establishment of the firm or company; and
+
+(b) the firm or company has satisfied the conditions precedent imposed under subsection (6) for a deduction under this section,
+
+then there is to be allowed to the firm or company —
+
+(i) where such expenditure is allowable as a deduction under section 14, a further deduction of the amount of such expenditure in addition to the deduction allowed under that section; or
+
+(ii) where such expenditure is not allowable as a deduction under section 14, a deduction equal to twice the amount of such expenditure.
+
+(2) No deduction is to be allowed under subsection (1) for salary expenditure that is incurred more than 3 years after either of the following dates:
+
+(a) the date the overseas establishment is incorporated, established or formed;
+
+(b) if the overseas establishment (being a company) is an overseas establishment of the approved firm or company as a result of any shareholding of the approved firm or company in the establishment, but the firm or company did not hold any shares in the overseas establishment on the date of the establishment’s incorporation, the earliest date on which the firm or company acquires any shares in the overseas establishment.
+
+(3) Subject to subsection (4), the amount of salary expenditure allowed as a deduction for a year of assessment under subsection (1) must not exceed the amount specified for the firm or company under subsection (8).
+
+(4) The sum of —
+
+(a) the amount of expenditure allowed as a deduction or a further deduction to a firm or company under subsection (1); and
+
+(b) any amount of expenditure allowed as a deduction or a further deduction to the firm or company under section 14K(1),
+
+must not exceed $1 million for each year of assessment.
+
+(5) The Minister or such person as the Minister may appoint may approve a firm or company for the purposes of claiming a deduction under subsection (1).
+
+(6) When approving a firm or company under subsection (5), the Minister or appointed person may impose conditions precedent and conditions subsequent for a deduction under this section.
+
+(7) When approving a firm or company under subsection (5), the Minister or appointed person must specify the salary expenditure for which the firm or company may be allowed the deduction by reference to —
+
+(a) the employees for whom the expenditure is incurred;
+
+(b) the overseas establishment in which they work;
+
+(c) the work which they carry out in the overseas establishment; and
+
+(d) the period in which the expenditure is incurred.
+
+(8) When approving a firm or company under subsection (5), the Minister or appointed person may also specify the maximum amount of expenditure for which the deduction is allowed.
+
+(9) No approval may be granted under subsection (5) after 31 March 2020.
+
+(10) No deduction may be allowed under subsection (1) in respect of —
+
+(a) any expenditure incurred during the basis period for a year of assessment by a firm or company if —
+
+(i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
+
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF or 43ZG or the regulations made under any of those sections; or
+
+(iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
+
+(b) any expenditure to the extent it is or is to be subsidised by a grant or subsidy from the Government or a statutory board.
+
+(11) Despite subsection (10), the Minister or such person as the Minister may appoint may, in any particular case, subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenditure referred to in subsection (10)(a).
+
+(12) A firm or company is not entitled to a deduction under subsection (1) for any salary expenditure if and to the extent that an overseas establishment of the firm or company has been allowed at any time a deduction for it under any law relating to income tax or tax of a similar character of a country outside Singapore.
+
+(13) Despite anything in this section, where it appears to the Comptroller that in any year of assessment any deduction which has been allowed under this section ought not to have been allowed, the Comptroller may, within the year of assessment or within 4 years after the expiry of that year of assessment, make such assessment or additional assessment upon the firm or company as may be necessary to make good any loss of tax.
+
+(14) If a condition subsequent imposed under subsection (6) is not complied with in respect of any deduction allowed to a firm or company under subsection (1) or part of such deduction, the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+
+(15) If a condition subsequent imposed under subsection (11) is not complied with, the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+
+(16) Where a firm or company has been allowed a deduction under subsection (1) even though it is not entitled to it or a part of it by reason of subsection (12), the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the facts by reason of which the firm or company is not entitled to the deduction or part of it.
+
+(17) If, at any time after a firm or company has been allowed a deduction under subsection (1) for any salary expenditure, the firm or company is reimbursed for any amount of the expenditure, the amount of the deduction that corresponds to the expenditure reimbursed is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the reimbursement.
+
+(18) In this section —
+
+“overseas establishment”, in relation to an approved firm or company, means any of the following:
+
+(a) a branch, representative office, or subsidiary of the firm or company that is established, formed or incorporated in a country outside Singapore;
+
+(b) a partnership of which the firm or company is a partner, that is established or formed in a country outside Singapore;
+
+(c) such other entity as the Minister or appointed person approves as an overseas establishment of the firm or company at the time of the approval of the firm or company under subsection (5);
+
+“salary expenditure”, in relation to an employee of a firm or company, means expenditure comprising wages and salary for the employee, but excludes any bonus, commission, gratuity, leave pay, perquisite, allowance, or any other payment (whether in cash or kind) prescribed under section 7.
+
+(19) In this section, a firm or company is treated as having incurred salary expenditure for its employees posted to an overseas establishment of the firm or company, if —
+
+(a) it directly incurs that amount of expenditure for which it is not reimbursed; or
+
+(b) the overseas establishment directly incurs that amount of expenditure and the firm or company is liable to reimburse the overseas establishment for it, and the incurring of the expenditure and of the liability both occur —
+
+(i) when the firm or company is an approved firm or company resident and carrying on business in Singapore; and
+
+(ii) in the period between 1 July 2015 and 31 March 2020 (both dates inclusive).
+
+(20) In a case referred to in subsection (19)(b), the date on which salary expenditure is treated as incurred for the purposes of subsection (2) is the later of the date it is incurred by the overseas establishment and the date the firm or company incurs the liability to reimburse the overseas establishment.
+
+(21) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
+
+[Act 2 of 2016 wef 01/07/2015]
 
 ### Further deduction for expenses incurred in relocation or recruitment of overseas talent
 
@@ -8762,9 +8926,11 @@ where A is —
 
 [7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007; 34/2008; 22/2011; 19/2013]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14P, 14PA, 14Q, 14S, 14V or 14W.
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14KA, 14M, 14N, 14O, 14P, 14PA, 14Q, 14S, 14V or 14W.
 
 [9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99; 21/2003; 34/2008; 29/2010; 22/2011; 19/2013]
+
+[Act 2 of 2016 wef 01/07/2015]
 
 (2A) Subsection (1)(b) shall not apply to any expenditure which qualifies for deduction under section 14X.
 
@@ -11726,8 +11892,7 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 [27/2009]
 
-### Amalgamated company as qualifying company under
-section 43(6A)
+### Amalgamated company as qualifying company under section 43(6A)
 
 (27) Where all the amalgamating companies cease to exist on the date of amalgamation, and the amalgamated company is a qualifying company for the purpose of section 43(6A) in any year of assessment, then, for that year of assessment —
 
@@ -13725,7 +13890,7 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 (b) the amount of cash payout that may be made to him is the lesser of —
 
-(i) 
+(i) A x B,
 
 where A
 
@@ -17123,6 +17288,8 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (1B) The reference in subsection (1)(b) to prescribed activities is a reference to activities prescribed in regulations made under this section and specified to each approved qualifying company by the Minister or a person appointed by the Minister.
 
+[Act 39 of 2017 wef 27/05/2010]
+
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved global trading company or an approved qualifying company subject to such conditions as the Minister or such person as he may appoint may impose.
 
 [21/2003; 29/2010]
@@ -18431,6 +18598,44 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 [37/2002]
 
+### Approval of deduction of investment from SRS account of non-citizen
+
+45EA\.—(1) This section applies to an investment made using funds from an SRS account of an SRS member who is not a citizen of Singapore.
+
+(2) Before approving the deduction of the investment from the balance in the SRS account, an SRS operator shall comply with subsection (3), unless the Comptroller has waived such compliance by notice in writing to the SRS operator.
+
+(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate specified in section 43(1)(b) on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
+
+(4) In subsection (3), the value of an investment shall be reckoned in accordance with the regulations made under section 10L(11).
+
+(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than that specified in section 43(1)(b), then the reference to the rate specified in section 43(1)(b) in subsection (3) shall be read as a reference to the higher or lower rate.
+
+(6) The amount of tax collected under subsection (3) shall be a debt due from the SRS operator to the Government and shall be recoverable in the manner provided in section 89.
+
+(7) Where an SRS operator fails to collect the tax under subsection (3), the amount not collected shall be a debt due from the SRS operator to the Government and shall be recoverable in the manner provided in section 89.
+
+(8) If the amount of tax which is required to be collected under subsection (3) is not paid to the Comptroller —
+
+(a) by the 15th day of the second month following the month in which the date the SRS operator approves the deduction falls or by such later date as the Comptroller may allow, a sum equal to 5% of such amount of tax shall be payable; and
+
+(b) within 30 days after the time specified in paragraph (a), an additional penalty of 1% of such amount of tax shall be payable for each completed month that the tax remains unpaid, but the total additional penalty under this paragraph shall not exceed 15% of the amount of tax outstanding.
+
+(9) An SRS operator shall, after collecting the tax under subsection (3), give notice in writing of such collection to the Comptroller by the time specified in subsection (8)(a), and if the SRS operator fails to do so, the SRS operator shall be guilty of an offence and shall on conviction pay a penalty equal to 3 times the amount of tax so collected and shall also be liable to a fine not exceeding $10,000.
+
+(10) The Comptroller may —
+
+(a) compound an offence under subsection (9); and
+
+(b) for any good cause remit the whole or any part of the penalty payable under subsection (8).
+
+(11) In this section —
+
+(a) a reference to an SRS operator approving the deduction of an investment from the balance in an SRS account is a reference to the SRS operator approving the deduction of the sums representing the investment from the balance in the SRS account in accordance with the regulations made under section 10L(11); and
+
+(b) a reference to the date of approval by an SRS operator of a deduction of an investment from the balance in an SRS account is a reference to the date the SRS operator approves a deduction of the sums representing the investment from the balance in the SRS account in accordance with those regulations.
+
+[Act 37 of 2014 wef 01/07/2015]
+
 ### Application of section 45 to income from profession or vocation carried on by non-resident individual, etc.
 
 45F\.—(1) Subject to subsection (2), section 45 shall apply in relation to the payment of any income accruing in or derived from Singapore on or after 3rd May 2002 from —
@@ -18633,9 +18838,23 @@ shall, when the income from which the tax has been deducted or when the share re
 
 (1A) [Deleted by Act 19 of 2013]
 
-(2) [Deleted by Act 19 of 2013]
+(2) Any tax which has been collected under section 45EA must, when the income in respect of which the tax has been collected is included in the chargeable income of the SRS member in question, be set off for the purpose of collection against the tax charged on that chargeable income.
 
-(3) [Deleted by Act 19 of 2013]
+[Act 2 of 2016 wef 01/07/2015]
+
+(3) The reference in subsection (2) to income in respect of which tax has been collected is a reference to —
+
+(a) the amount deemed as income of the SRS member under section 10L(3) wholly or partly because of the deduction of any investment from the balance in the SRS account for which the tax has been collected; or
+
+(b) the amount deemed as income of the SRS member under section 10L(6), (7) or (9) (as the case may be), if the deduction of any investment from the balance in the SRS account for which the tax has been collected is made after —
+
+(i) the balance (excluding any life annuity) remaining in the SRS account is deemed withdrawn under section 10L(6) or (7); or
+
+(ii) the sum standing in the SRS account is deemed withdrawn under section 10L(9),
+
+as the case may be.
+
+[Act 2 of 2016 wef 01/07/2015]
 
 (4) [Deleted by Act 19 of 2013]
 
@@ -20063,9 +20282,11 @@ COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 ### Suit for tax by Comptroller
 
-89\.—(1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under section 45, may be sued for by way of a specially endorsed writ of summons.
+89\.—(1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under section 45 or 45EA, may be sued for by way of a specially endorsed writ of summons.
 
 [24/2000; 37/2002; 19/2013]
+
+[Act 37 of 2014 wef 01/07/2015]
 
 (2) The Comptroller may, in his own name, sue for any such tax, interest, penalty or other sum due and shall be entitled to all costs allowed by law against the person liable thereto.
 
@@ -23710,6 +23931,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||27 November 2014|
 |||1 January 2015|
 |||1 June 2015|
+|||1 July 2015|
 |312.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
@@ -23720,6 +23942,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2015|
 |||29 May 2015|
 |||1 June 2015|
+|||1 July 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
