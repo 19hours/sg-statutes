@@ -298,7 +298,9 @@ NEWSPAPER COMPANIES
 
 (8) The directors of a newspaper company shall, on the requisition of the holders of not less than one-quarter of its issued management shares, immediately proceed to convene an extraordinary general meeting of the company to be held as soon as practicable but in any case not later than 2 months after the receipt by the company of the requisition.
 
-(9) Section 210 of the Companies Act (Cap. 50) (other than subsection (1) thereof) shall have effect in relation to the requisition under subsection (8).
+(9) Section 176 of the Companies Act (Cap. 50) (other than subsections (1) and (1A) thereof) shall have effect in relation to the requisition under subsection (8).
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (10) The holders of both the management and the ordinary shares of a newspaper company shall rank pari passu in respect of all dividends declared by the company and in respect of all bonus and rights issues made by the company as well as in the right to return of capital and to participation in all surplus assets of the company in liquidation.
 
@@ -1223,6 +1225,10 @@ This Legislative History is provided for the convenience of users of the Newspap
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|17.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
