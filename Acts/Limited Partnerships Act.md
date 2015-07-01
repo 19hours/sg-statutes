@@ -742,7 +742,9 @@ then the rights of the defaulter under or arising out of any contract, in relati
 
 shall be guilty of an offence.
 
-(2) Any person who knowingly holds out that a business is registered as a limited partnership under this Act shall, where he knows or ought to have known that at the material time the business was not registered as a limited partnership under this Act, be guilty of an offence.
+(2) If any person in any way holds out that a business is registered as a limited partnership under this Act, that person shall, unless at that time the business was duly registered as a limited partnership under this Act, be guilty of an offence.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (3) A person shall be liable on conviction of an offence under subsection (1) or (2) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -1081,3 +1083,7 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
 ||Date of Second and Third Readings|14 April 2014|
 ||Date of commencement|15 May 2015|
+|5.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
