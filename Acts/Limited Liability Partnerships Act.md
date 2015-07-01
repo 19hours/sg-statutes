@@ -866,11 +866,21 @@ notwithstanding that the manager has not been convicted or may not be criminally
 
 (a) any offence in connection with the formation or management of a limited liability partnership; or
 
-(b) any offence under paragraph 94 of the Fifth Schedule,
+(b) any offence under paragraph 93 of the Fifth Schedule,
+
+[Act 35 of 2014 wef 01/07/2015]
 
 the court may make a disqualification order in addition to any other sentence imposed.
 
-(3) A person who is disqualified under subsection (1) or who has had a disqualification order made against him under subsection (2) shall not act as a manager of a limited liability partnership.
+(3) Subject to any leave which the High Court may give pursuant to an application under subsection (5), a person who —
+
+(a) is disqualified under subsection (1); or
+
+(b) has had a disqualification order made against him under subsection (2),
+
+shall not act as a manager of a limited liability partnership during the period of the disqualification or disqualification order.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (4) Where a disqualified person —
 
@@ -878,11 +888,23 @@ the court may make a disqualification order in addition to any other sentence im
 
 (b) has been sentenced to imprisonment, the disqualifications in subsection (3) shall take effect upon conviction and shall continue for a period of 5 years after his release from prison.
 
-(5) An application for leave to act as a manager of a limited liability partnership may be made by a person against whom a disqualification order has been made upon that person giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
+(5) A person who —
 
-(6) On the hearing of any application under this section, the Minister may be represented at the hearing and may oppose the granting of the application.
+(a) is disqualified under subsection (1); or
 
-(7) A person who contravenes a disqualification order under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) has had a disqualification order made against him under subsection (2),
+
+may apply to the High Court for leave to act as a manager of a limited liability partnership during the period of the disqualification or disqualification order, upon giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(6) On the hearing of any application under subsection (5), the Minister may be represented at the hearing and may oppose the granting of the application.
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(7) A person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (8) Without prejudice to section 53, a District Court may make a disqualification order under this section.
 
@@ -890,7 +912,17 @@ the court may make a disqualification order in addition to any other sentence im
 
 ### Disqualification under Companies Act
 
-37\.—(1) A person who is subject to a disqualification or disqualification order under section 149, 149A or 154 of the Companies Act (Cap. 50) shall not act as manager of a limited liability partnership during the period of the disqualification or disqualification order.
+37\.—(1) Subject to any leave which the High Court may give pursuant to an application under subsection (1A), a person who is subject to a disqualification or disqualification order under section 149, 149A or 154 of the Companies Act (Cap. 50) shall not act as manager of a limited liability partnership during the period of the disqualification or disqualification order.
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(1A) A person who is subject to a disqualification or disqualification order under section 149 or 154 of the Companies Act (Cap. 50) may apply to the High Court for leave to act as a manager of a limited liability partnership during the period of the disqualification or disqualification order, upon giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(1B) On the hearing of any application under subsection (1A), the Minister may be represented at the hearing and may oppose the granting of the application.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -938,9 +970,9 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 ### False representation as to registration as limited liability partnership
 
-39\. If any person knowingly holds out that a business is registered as a limited liability partnership under this Act, the person shall, where he knows or ought to have known that at the material time the business was not registered as a limited liability partnership under this Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+39\. If any person in any way holds out that a business is registered as a limited liability partnership under this Act, that person shall, unless at that time the business was duly registered as a limited liability partnership under this Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[Companies 1994 Ed., s. 405]
+[Act 35 of 2014 wef 01/07/2015]
 
 ### Rectification of register
 
@@ -1537,13 +1569,15 @@ Provisions as to information where receiver or manager appointed
 
 (b) there shall, within 14 days after receipt of the notice, or such longer period as may be allowed by the Court or by the receiver, be made out and submitted to the receiver in accordance with paragraph 9 a statement in the prescribed form as to the affairs of the limited liability partnership; and
 
-(c) the receiver shall within one month after receipt of the statement —
+(c) the receiver shall within 30 days after receipt of the statement —
 
 (i) lodge with the Registrar, a copy of the statement and of any comments he sees fit to make thereon;
 
 (ii) send to the limited liability partnership, a copy of any such comments referred to in sub-paragraph (i), or if he does not see fit to make any comment, a notice to that effect; and
 
 (iii) where the receiver is appointed by or on behalf of the holders of debentures of the limited liability partnership send to the trustees, if any, for those holders, a copy of the statement and his comments thereon.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (2) Sub-paragraph (1) shall not apply in relation to the appointment of a receiver or manager to act with an existing receiver or manager or in place of a receiver or manager dying or ceasing to act, except that, where that sub-paragraph applies to a receiver or manager who dies or ceases to act before that sub-paragraph has been fully complied with, the references in sub-paragraph (1)(b) and (c) to the receiver shall (subject to sub-paragraph (3)) include references to his successor and to any continuing receiver or manager.
 
@@ -1579,13 +1613,15 @@ Lodging of accounts of receivers and managers
 
 10.—(1) Every receiver or manager of the property of a limited liability partnership shall —
 
-(a) within one month after the expiration of the period of 6 months from the date of his appointment and of every subsequent period of 6 months and within one month after he ceases to act as receiver or manager, lodge with the Registrar a detailed account in the prescribed form showing —
+(a) within 30 days after the expiration of the period of 6 months from the date of his appointment and of every subsequent period of 6 months and within 30 days after he ceases to act as receiver or manager, lodge with the Registrar a detailed account in the prescribed form showing —
 
 (i) his receipts and his payments during each period of 6 months, or, where he ceases to act as receiver or manager, during the period from the end of the period to which the last preceding account related or from the date of his appointment, as the case may be, up to the date of his so ceasing;
 
 (ii) the aggregate amount of those receipts and payments during all preceding periods since his appointment; and
 
 (iii) where he has been appointed pursuant to the powers contained in any instrument, the amount owing under that instrument at the time of his appointment, in the case of the first account, and at the expiration of every 6 months after his appointment and, where he has ceased to act as receiver or manager at the date of his so ceasing, and his estimate of the total value of all assets of the limited liability partnership which are subject to that instrument; and
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (b) before lodging such account, verify by affidavit all accounts and statements referred to therein.
 
@@ -3376,6 +3412,10 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
 ||Date of Second and Third Readings|14 April 2014|
 ||Date of commencement|15 May 2015|
+|10.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
