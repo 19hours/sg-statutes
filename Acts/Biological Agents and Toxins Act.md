@@ -204,7 +204,7 @@
 
 [**SEVENTH SCHEDULE Biohazard Sign**](#SEVENTH-SCHEDULE-Biohazard-Sign)
 
-[**EIGHTH SCHEDULE Non-Compoundable Offences**](#EIGHTH-SCHEDULE-Non-Compoundable-Offences)
+[**EIGHTH SCHEDULE Non-compoundable Offences**](#EIGHTH-SCHEDULE-Non-compoundable-Offences)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1983,6 +1983,22 @@ Histoplasma capsulatum var. duboisii
 
 Paracoccidioides brasiliensis
 
+4A. 
+
+Coccidioides immitis
+
+[S 396/2015 wef 01/07/2015]
+
+4B. 
+
+Coccidioides posadasii, except for the following attenuated strains:
+
+(a) ∆chs5; and
+
+(b) ∆cts2/∆ard1/∆cts3
+
+[S 396/2015 wef 01/07/2015]
+
 5. 
 
 Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
@@ -2001,6 +2017,10 @@ Arenaviridae
 
 (c) LCM-Lassa complex viruses (except Lassa virus)
 
+(d) Flexal virus
+
+[S 396/2015 wef 01/07/2015]
+
 2. 
 
 Bunyaviridae
@@ -2011,7 +2031,9 @@ Bunyaviridae
 
 (c) Oropouche virus
 
-(d) Hantaviruses (except Hantaan, Seoul and Sin Nombre)
+(d) Hantaviruses
+
+[S 396/2015 wef 01/07/2015]
 
 (e) Bhanja virus
 
@@ -2056,6 +2078,10 @@ Orthomyxoviridae
 (b) Thogoto virus
 
 (c) Influenza A virus subtype H5N1
+
+(d) Influenza A virus subtype H7N9
+
+[S 396/2015 wef 01/07/2015]
 
 6. 
 
@@ -2247,45 +2273,19 @@ Any biological agent that is a constructed or reconstructed replication-competen
 
 [S 573/2009 wef 01/12/2009]
 
-Fungi
-
-1. 
-
-Coccidioides immitis
-
-2. 
-
-Coccidioides posadasii, except for the following attenuated strains:
-
-(a) ∆chs5; and
-
-(b) ∆cts2/∆ard1/∆cts3;
-
-[S 676/2007 wef 01/01/2008]
-
-3. 
-
-Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
-
-[S 573/2009 wef 01/12/2009]
-
 Viruses
 
-1. 
-
-Arenaviridae
-
-(a) Flexal virus
+1. [Deleted by S 396/2015 wef 01/07/2015 wef 01/07/2015]
 
 2. 
 
 Bunyaviridae
 
-(a) Hantaan virus
+(a) [Deleted by S 396/2015 wef 01/07/2015]
 
-(b) Seoul virus
+(b) [Deleted by S 396/2015 wef 01/07/2015]
 
-(c) Sin Nombre virus
+(c) [Deleted by S 396/2015 wef 01/07/2015]
 
 (d) Rift Valley fever virus (except for the vaccine strain MP-12)
 
@@ -2295,7 +2295,13 @@ Bunyaviridae
 
 Coronaviridae
 
-(a) SARS coronavirus
+(a) Middle East Respiratory Syndrome Coronavirus (MERS CoV)
+
+[S 396/2015 wef 01/07/2015]
+
+(b) Severe Acute Respiratory Syndrome Coronavirus (SARS CoV), formerly known as SARS Coronavirus
+
+[S 396/2015 wef 01/07/2015]
 
 4. 
 
@@ -2395,6 +2401,18 @@ Variola minor (Alastrim) virus
 
 [S 573/2009 wef 01/12/2009]
 
+15A. 
+
+Lujo virus
+
+[S 396/2015 wef 01/07/2015]
+
+15B. 
+
+Chapare virus
+
+[S 396/2015 wef 01/07/2015]
+
 16. 
 
 Any biological agent that is a constructed or reconstructed replication-competent form of any biological agent set out in this Schedule.
@@ -2435,7 +2453,9 @@ Fifth Schedule Toxins
 
 2\.Clostridium perfringenstoxins
 
-3\. Staphylococcal Enterotoxin B
+3. Staphylococcal Enterotoxins
+
+[S 396/2015 wef 01/07/2015]
 
 4\. Shigatoxins
 
@@ -2479,15 +2499,11 @@ EIGHTH SCHEDULE
 
 Section 59(1)
 
-Non-Compoundable Offences
+Non-compoundable Offences
 
-The following offences are not compoundable under section 59:
+1. An offence under section 5 or 30 is not compoundable under section 59.
 
-(a) any offence under section 5, 7 or 23;
-
-(b) any offence under any of the provisions of Division 3 of Part III; and
-
-(c) any offence under any of the provisions of Part IV.
+[S 396/2015 wef 01/07/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -2526,3 +2542,5 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of commencement|1 December 2009|
 |8.|**G. N. No. S 541/2011—Biological Agents and Toxins Act (Amendment of First and Fifth Schedules) Order 2011**|
 ||Date of commencement|1 October 2011|
+|9.|**G.N. No. S 396/2015—Biological Agents and Toxins Act (Amendment of First, Second, Fifth and Eighth Schedules) Order 2015**|
+||Date of commencement|1 July 2015|
