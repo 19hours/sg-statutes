@@ -1114,19 +1114,25 @@ of a designated financial institution shall continue to be such a controller unl
 
 (i) Ais the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, ofB;
 
-(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
+(ii) Ais a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes ofB;
 
-(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+[Act 35 of 2014 wef 01/07/2015]
+
+(iii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) Ais a subsidiary ofB;
 
-(vi) Ais a related corporation ofB;
+[Act 35 of 2014 wef 01/07/2015]
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+(vii) Ais a body corporate in whichB, alone or together with other associates ofBas described in paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the voting power inA; or
+
+[Act 35 of 2014 wef 01/07/2015]
+
+(viii) [Deleted by Act 35 of 2014 wef 01/07/2015]
 
 (ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the designated financial institution.
 
@@ -1500,7 +1506,13 @@ Dividends
 
 (a) not later than 3 months after the close of its financial year or within such longer period as the Authority may on application of the bank approve —
 
-(i) a copy of its latest audited annual balance-sheet and profit and loss account together with any notes thereon;
+(i) in the case of —
+
+(A) a bank incorporated in Singapore, a copy of its latest audited financial statements as may be required to be laid at its annual general meeting under section 201 of the Companies Act (Cap. 50); or
+
+(B) a bank incorporated outside Singapore, a copy of its latest audited annual balance-sheet and profit and loss account together with any notes thereon;
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (ii) a copy of the report of the auditors of the bank;
 
@@ -1518,9 +1530,11 @@ Dividends
 
 \*The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26(1).
 
-\*(3) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2)(a)(i), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
+\*(3) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2)(a)(i)(B), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
 
 [23/2001]
+
+[Act 35 of 2014 wef 01/07/2015]
 
 \*The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26(1).
 
@@ -3322,11 +3336,13 @@ and may at any time fix the remuneration to be paid by the bank to that auditor.
 
 (a) to carry out, for the year in respect of which he is appointed, an audit of the accounts of the bank; and
 
-(b) to make a report in accordance with section 207 of the Companies Act —
+(b) to —
 
-(i) in the case of a bank incorporated in Singapore, upon the annual balance-sheet and profit and loss account that are referred to in section 25(1); and
+(i) in the case of a bank incorporated in Singapore, make a report in respect of its latest financial statements or, where the bank is a parent company for which consolidated financial statements are prepared, consolidated financial statements, in accordance with section 207 of the Companies Act; or
 
-(ii) in the case of a bank incorporated outside Singapore, upon the annual balance-sheet and profit and loss account showing the assets and liabilities and profit or loss arising out of the bank’s operations in Singapore.
+(ii) in the case of a bank incorporated outside Singapore, make a report on its latest annual balance sheet and profit and loss account together with any notes thereon showing the assets and liabilities and profit or loss arising out of the bank’s operations in Singapore which complies with section 207 of the Companies Act.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (5) The Authority may impose all or any of the following duties on an auditor in addition to those provided under subsection (4):
 
@@ -3344,9 +3360,11 @@ and may at any time fix the remuneration to be paid by the bank to that auditor.
 
 [2/84]
 
-(7) The auditor’s report made under subsection (4) shall be attached to the balance-sheet and the profit and loss account and a copy thereof together with any report submitted under subsection (5) shall be transmitted in writing to the Authority.
+(7) The auditor’s report made under subsection (4) shall be attached to the balance-sheet and the profit and loss account, the financial statements or the consolidated financial statements, as the case may be, and a copy thereof together with any report submitted under subsection (5) shall be transmitted in writing to the Authority.
 
 [2/84]
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (8) If an auditor, in the course of the performance of his duties as an auditor of a bank, is satisfied that —
 
@@ -3361,6 +3379,10 @@ and may at any time fix the remuneration to be paid by the bank to that auditor.
 he shall immediately report the matter to the Authority.
 
 [2/84]
+
+(9) In this section, “consolidated financial statements” and “financial statements” have the same meanings as in section 209A of the Companies Act.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 ### Clearing House settlements and control over Clearing House
 
@@ -4841,6 +4863,10 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
 ||Date of Second and Third Readings|19 January 2015|
 ||Date of commencement|1 April 2015|
+|37.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Banking Act
