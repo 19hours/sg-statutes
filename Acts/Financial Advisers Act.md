@@ -620,15 +620,13 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 (6) For the purposes of subsection (5), a person is an associate of another person if the first-mentioned person is —
 
-(a) a related corporation of the second-mentioned person;
+(a) a subsidiary of that other person;
 
-(b) a person in accordance with whose directions, instructions or wishes the second-mentioned person is accustomed or is under an obligation, whether formal or informal, to act in relation to the security referred to in subsection (4);
+(b) a person who is accustomed or is under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to the security referred to in subsection (5); or
 
-(c) a person who is accustomed or is under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to that security;
+(c) a corporation that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to that security.
 
-(d) a corporation which is, or the directors of which are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the second-mentioned person in relation to that security; or
-
-(e) a corporation in accordance with the directions, instructions or wishes of which, or of the directors of which, the second-mentioned person is accustomed or under an obligation, whether formal or informal, to act in relation to that security.
+[Act 35 of 2014 wef 01/07/2015]
 
 (7) A person shall be deemed to have an interest in a security in any one or more of the following circumstances:
 
@@ -665,6 +663,10 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 (c) the fact that the exercise of a right conferred by the interest is or is capable of being made subject to restraint or restriction.
 
 [SIA, s. 4; SF Bill, Clause 4]
+
+(12) In subsection (6)(a), “subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50).
+
+[Act 35 of 2014 wef 01/07/2015]
 
 ### Amendment of Schedules
 
@@ -4473,6 +4475,10 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (except sections 65(a) and (b))|
+|16.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
