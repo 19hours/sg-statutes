@@ -220,8 +220,6 @@
 
 - [53 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
-
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
@@ -637,6 +635,24 @@ but does not include any bridge, any decking for a bridge, or any earth retainin
 (f) any employer or employee of the developer or builder.
 
 [47/2007 wef 15/02/2008]
+
+(4A) For the purposes of subsection (4)(b) and (c)(i) —
+
+(a) section 7(5) of the Companies Act (Cap. 50) shall not apply with respect to the determination of whether a person is a substantial shareholder as defined in section 81 of that Act; and
+
+(b) in applying section 7(4A) of the Companies Act to determine whether a person is a substantial shareholder as defined in section 81 of that Act, a person is an associate of another person if the first-mentioned person is —
+
+(i) a corporation that, by virtue of section 6 of that Act, is deemed to be related to that other person;
+
+(ii) a person in accordance with whose directions, instructions or wishes that other person is accustomed or is under an obligation whether formal or informal to act in relation to the share referred to in section 7(4) of that Act;
+
+(iii) a person who is accustomed or is under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to that share;
+
+(iv) a body corporate that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to that share; or
+
+(v) a body corporate in accordance with the directions, instructions or wishes of which, or of a majority of the directors of which, that other person is under an obligation whether formal or informal to act in relation to that share.
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (5) Where —
 
@@ -3824,10 +3840,6 @@ and such building shall be deemed unauthorised for the purposes of this Act.
 
 [54
 
-## THE SCHEDULE
-
-Deleted by Act 47/2007, wef 15/02/2008.
-
 ## LEGISLATIVE HISTORY
 
 Building Control Act
@@ -3951,6 +3963,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Dates of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
 |||28 October 2013 (section 5)|
 |||1 April 2014 (section 4)|
+|23.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
 ## COMPARATIVE TABLE
 
 Building Control Act
