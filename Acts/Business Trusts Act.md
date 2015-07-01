@@ -2128,7 +2128,9 @@ and if so, the report shall contain a statement explaining the effect of the arr
 
 (a) a copy of the auditor’s report thereon; and
 
-(b) the accounts of the trustee-manager prepared in accordance with section 201 of the Companies Act (Cap. 50).
+(b) the financial statements of the trustee-manager prepared in accordance with section 201 of the Companies Act (Cap. 50).
+
+[Act 35 of 2014 wef 01/07/2015]
 
 (2) The trustee-manager of a registered business trust shall, without charge and on a request made by any unitholder of the registered business trust (whether he is or is not entitled to have sent to him copies of the profit and loss accounts and balance sheets) to whom copies of the profit and loss account and balance sheet of the registered business trust (including every document required by this Act to be attached thereto) for the financial year immediately preceding the then current financial year have not been sent, furnish to the unitholder such copies of the profit and loss account and balance sheet, together with a copy of the auditor’s report thereon.
 
@@ -3176,3 +3178,7 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|10.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
