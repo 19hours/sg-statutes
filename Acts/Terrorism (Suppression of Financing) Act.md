@@ -852,7 +852,13 @@ Terrorists and terrorist entities
 
 (k) Muhamad Ali s/o Abdul Rahiman (Singapore citizen) (Date of Birth: 14 January 1965);
 
-(l) Haja Fakkurudeen Usman Ali (Singapore citizen) (Date of Birth: 30 July 1976).
+(l) Haja Fakkurudeen Usman Ali (Singapore citizen) (Date of Birth: 30 July 1976);
+
+[S 436/2015 wef 17/07/2015]
+
+(m) M Arifil Azim Putra Norja’i (Singapore citizen) (Date of Birth: 29 November 1995).
+
+[S 436/2015 wef 17/07/2015]
 
 [S 93/2015 wef 28/02/2015]
 
@@ -1028,6 +1034,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|25 October 2014|
 |13.|**G.N. No. S 93/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2015**|
 ||Date of commencement|28 February 2015|
+|14.|**G.N. No. S 436/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 2) Order 2015**|
+||Date of commencement|17 July 2015|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
