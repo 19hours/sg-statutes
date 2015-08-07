@@ -856,9 +856,15 @@ Terrorists and terrorist entities
 
 [S 436/2015 wef 17/07/2015]
 
-(m) M Arifil Azim Putra Norja’i (Singapore citizen) (Date of Birth: 29 November 1995).
+(m) M Arifil Azim Putra Norja’i (Singapore citizen) (Date of Birth: 29 November 1995);
 
 [S 436/2015 wef 17/07/2015]
+
+[S 484/2015 wef 07/08/2015]
+
+(n) Mustafa bin Sultan Ali (Singapore citizen) (Date of Birth: 1 September 1963).
+
+[S 484/2015 wef 07/08/2015]
 
 [S 93/2015 wef 28/02/2015]
 
@@ -1036,6 +1042,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|28 February 2015|
 |14.|**G.N. No. S 436/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 2) Order 2015**|
 ||Date of commencement|17 July 2015|
+|15.|**G.N. No. S 484/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 3) Order 2015**|
+||Date of commencement|7 August 2015|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
