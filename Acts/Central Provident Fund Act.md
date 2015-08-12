@@ -7247,13 +7247,19 @@ shall be disregarded; and
 
 (22) Inland Revenue Authority of Singapore.
 
-(23) Institute of Southeast Asian Studies.
+(23) [Deleted by Act 23 of 2015 wef 12/08/2015]
+
+[Act 23 of 2015 wef 12/08/2015]
 
 (24) Institute of Technical Education, Singapore.
 
 (25) Intellectual Property Office of Singapore.
 
 (26) International Enterprise Singapore Board.
+
+(26A) ISEAS – Yusof Ishak Institute.
+
+[Act 23 of 2015 wef 12/08/2015]
 
 (27) Jurong Town Corporation.
 
@@ -8343,6 +8349,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
 ||Date of Second and Third Readings|19 January 2015|
 ||Date of commencement|1 April 2015|
+|197.|**Act 23 of 2015—Institute of Southeast Asian Studies (Amendment) Act 2015**|
+||Date of First Reading|11 May 2015 (Bill No. 20/2015 published on 11 May 2015)|
+||Date of Second and Third Readings|14 July 2015|
+||Date of commencement|12 August 2015|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
