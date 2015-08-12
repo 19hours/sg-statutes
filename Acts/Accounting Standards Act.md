@@ -465,14 +465,7 @@ Inland Revenue Authority of Singapore Act
 
 18.
 
-Institute of Southeast Asian Studies
-
-Institute of Southeast Asian Studies Act
-
-
-
-
-(Chapter 141)
+[Deleted by Act 23 of 2015 wef 12/08/2015]
 
 19.
 
@@ -506,6 +499,17 @@ International Enterprise Singapore Board Act
 
 
 (Chapter 143B)
+
+21A.
+
+ISEAS – Yusof Ishak Institute
+
+ISEAS – Yusof Ishak Institute Act
+
+
+
+
+(Chapter 141)
 
 22.
 
@@ -744,6 +748,8 @@ Urban Redevelopment Authority Act
 
 (Chapter 340).
 
+[Act 23 of 2015 wef 12/08/2015]
+
 [S 587/2009 wef 01/12/2009]
 
 [25/2010 wef 22/10/2010]
@@ -793,3 +799,7 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of commencement|22 October 2010|
 |7.|**G. N. No. S 615/2010—Accounting Standards Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|1 November 2010|
+|8.|**Act 23 of 2015—Institute of Southeast Asian Studies (Amendment) Act 2015**|
+||Date of First Reading|11 May 2015 (Bill No. 20/2015 published on 11 May 2015)|
+||Date of Second and Third Readings|14 July 2015|
+||Date of commencement|12 August 2015|
