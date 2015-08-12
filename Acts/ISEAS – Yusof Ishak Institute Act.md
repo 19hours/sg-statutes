@@ -1,4 +1,4 @@
-**Institute of Southeast Asian Studies Act**
+**ISEAS – Yusof Ishak Institute Act**
 
 **(CHAPTER 141)**
 
@@ -42,7 +42,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Institute of Southeast Asian Studies Act
+# ISEAS – Yusof Ishak Institute Act
 
 (CHAPTER 141)
 
@@ -52,39 +52,53 @@ REVISED EDITION 2013
 
 (30th November 2013)
 
-An Act to provide for the establishment of the Institute of Southeast Asian Studies and for matters connected therewith.
+An Act to provide for the establishment of the ISEAS – Yusof Ishak Institute and for matters connected therewith.
+
+[Act 23 of 2015 wef 12/08/2015]
 
 [7th June 1968]
 
 ### Short title
 
-1\. This Act may be cited as the Institute of Southeast Asian Studies Act.
+1\. This Act may be cited as the ISEAS – Yusof Ishak Institute Act.
+
+[Act 23 of 2015 wef 12/08/2015]
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Board of Trustees of the Institute of Southeast Asian Studies constituted under section 4;
+“Board” means the Board of Trustees of the Institute constituted under section 4;
+
+[Act 23 of 2015 wef 12/08/2015]
 
 “Chairman” means the Chairman of the Board appointed under section 4;
 
 “Director” means the Director of the Institute appointed under section 12;
 
+“Institute” means the ISEAS – Yusof Ishak Institute established under section 3;
+
+[Act 23 of 2015 wef 12/08/2015]
+
 “regulations” means regulations made by the Executive Committee under section 14.
 
 ### Establishment of Institute
 
-3\. For the promotion of research on Southeast Asia and on all matters appertaining to Southeast Asia, there shall be established an Institute to be styled “the Institute of Southeast Asian Studies” (referred to in this Act as the Institute).
+3\. For the promotion of research on Southeast Asia and on all matters appertaining to Southeast Asia, there shall be established an Institute to be styled “the ISEAS – Yusof Ishak Institute”.
+
+[Act 23 of 2015 wef 12/08/2015]
 
 ### Constitution of Board of Trustees
 
-4\.—(1) There is hereby constituted a body corporate to be known as the Board of Trustees of the Institute of Southeast Asian Studies, which —
+4\.—(1) There is hereby constituted a body corporate to be known as the Board of Trustees of the Institute, which —
 
 (a) shall have perpetual succession;
 
 (b) shall have a common seal; and
 
 (c) may sue and be sued in its corporate name.
+
+[Act 23 of 2015 wef 12/08/2015]
 
 (2) The Board shall consist of a Chairman and a Deputy Chairman to be appointed by the President and the following other members:
 
@@ -288,9 +302,11 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 ## LEGISLATIVE HISTORY
 
-Institute of Southeast Asian Studies Act
+ISEAS – Yusof Ishak Institute Act
 
 (CHAPTER 141)
+
+formerly known as the Institute of Southeast Asian Studies Act
 
 This Legislative History is provided for the convenience of users of the Institute of Southeast Asian Studies Act. It is not part of the Act.
 
@@ -339,3 +355,7 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of commencement|15 January 2010|
 |10.|**2013 Revised Edition—Institute of Southeast Asian Studies Act (Chapter 141)**|
 ||Date of operation|30 November 2013|
+|11.|**Act 23 of 2015—Institute of Southeast Asian Studies (Amendment) Act 2015**|
+||Date of First Reading|11 May 2015 (Bill No. 20/2015 published on 11 May 2015)|
+||Date of Second and Third Readings|14 July 2015|
+||Date of commencement|12 August 2015|
