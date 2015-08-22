@@ -74,6 +74,8 @@
 
 - [12L Payments to include holidays](#Payments-to-include-holidays)
 
+- [12M No payment under this Part on certain days for employee on leave of absence without pay](#No-payment-under-this-Part-on-certain-days-for-employee-on-leave-of-absence-without-pay)
+
 - [13 Exclusion of certain classes of persons](#Exclusion-of-certain-classes-of-persons)
 
 [**Part IV MISCELLANEOUS**](#Part-IV)
@@ -1082,19 +1084,19 @@ the Government may recover that amount from the woman as a civil debt.
 
 (c) in the case of a female employee —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has served her employer for a period of at least 3 months preceding the day of her confinement; and
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (d) in the case of a self-employed woman —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement.
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months preceding the day of her confinement.
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (1A) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1A) or (1B), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4A), if —
 
@@ -1112,19 +1114,19 @@ the Government may recover that amount from the woman as a civil debt.
 
 (c) in the case of a female employee —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has served her employer for a period of at least 3 months preceding the day of her confinement; and
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (d) in the case of a self-employed woman —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement.
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months preceding the day of her confinement.
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (1B) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1C) or (1D), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4B), if —
 
@@ -1138,19 +1140,19 @@ the Government may recover that amount from the woman as a civil debt.
 
 (c) in the case of a female employee —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has served her employer for a period of at least 3 months preceding the day of her confinement; and
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (d) in the case of a self-employed woman —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement.
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months preceding the day of her confinement.
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (1C) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1E) or (1F), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4C), if —
 
@@ -1168,19 +1170,19 @@ the Government may recover that amount from the woman as a civil debt.
 
 (c) in the case of a female employee —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has served the employer for at least 3 months immediately preceding the day of her confinement; and
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has served her employer for a period of at least 3 months preceding the day of her confinement; and
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (d) in the case of a self-employed woman —
 
-(i) whose confinement occurs before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement; and
+(i) whose confinement occurs before the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement; and
 
-(ii) whose confinement occurs on or after 1st May 2013, or whose confinement occurs before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the day of her confinement.
+(ii) whose confinement occurs on or after the date of commencement of section 16(a) of the Employment (Amendment) Act 2015, or whose confinement occurs before that date but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months preceding the day of her confinement.
 
-[Act 12 of 2013 wef 01/05/2013]
+[Act 27 of 2015 wef 22/08/2015]
 
 (2) Subject to this section and without prejudice to section 9(5B), a woman who is or was a female employee or self-employed woman shall be entitled to payment by the Government under section 9(5A) if and only if —
 
@@ -1820,9 +1822,13 @@ be entitled to claim from the Government any income she would otherwise have der
 
 (b) in the case of a child who is not a citizen of Singapore, the dependant’s pass in respect of the child is issued on or after 1st May 2013;
 
-(c) in the case of a female employee, she has served the employer for at least 3 months immediately preceding the date the application to adopt the child is made, or the date the dependant’s pass in respect of the child is issued, as the case may be;
+(c) in the case of a female employee, she has served the employer for a period of at least 3 months preceding the date the application to adopt the child is made, or the date the dependant’s pass in respect of the child is issued, as the case may be;
 
-(d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the date the application to adopt the child is made, or the date the dependant’s pass in respect of the child is issued, as the case may be;
+[Act 27 of 2015 wef 22/08/2015]
+
+(d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 3 months preceding the date the application to adopt the child is made, or the date the dependant’s pass in respect of the child is issued, as the case may be;
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (e) on the date the application to adopt is made, or the dependant’s pass in respect of the child is issued, as the case may be —
 
@@ -2476,9 +2482,13 @@ be entitled to claim from the Government, the income he would otherwise have der
 
 (iii) is not lawfully married to the child’s natural father at the time the child is conceived or at any time after the child is conceived but before the child’s birth, but becomes lawfully married to the child’s natural father within the period of 12 months commencing on the date of the birth of the child;
 
-(d) in the case of a male employee, he has served the employer for at least 3 months immediately preceding the date of the birth of the child; and
+(d) in the case of a male employee, he has served the employer for a period of at least 3 months preceding the date of the birth of the child; and
 
-(e) in the case of a self-employed man, he has been carrying on his trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding the date of the birth of the child.
+[Act 27 of 2015 wef 22/08/2015]
+
+(e) in the case of a self-employed man, he has been carrying on his trade, business, profession or vocation for a continuous period of at least 3 months preceding the date of the birth of the child.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (2) A male employee who is the adoptive father of a child shall be entitled to absent himself from work on paternity leave and to payment under section 12H(1) and (2), and a self-employed man who is the adoptive father of a child shall be entitled to payment by the Government under section 12H(4), if —
 
@@ -2500,17 +2510,21 @@ be entitled to claim from the Government, the income he would otherwise have der
 
 (c) where the child is not a citizen of Singapore, the adoptive father or his wife, if she is a joint applicant to the adoption, is a citizen of Singapore on the date the dependant’s pass is issued in respect of the child;
 
-(d) in the case of a male employee, he has served the employer for at least 3 months immediately preceding —
+(d) in the case of a male employee, he has served the employer for a period of at least 3 months preceding —
 
 (i) the date the application is made by the employee to adopt the child, where the child is a citizen of Singapore; or
 
 (ii) the date the dependant’s pass in respect of the child is issued, where the child is not a citizen of Singapore; and
 
-(e) in the case of a self-employed man, he has been carrying on his trade, business, profession or vocation for a continuous period of at least 3 months immediately preceding —
+[Act 27 of 2015 wef 22/08/2015]
+
+(e) in the case of a self-employed man, he has been carrying on his trade, business, profession or vocation for a continuous period of at least 3 months preceding —
 
 (i) the date the application is made by the self-employed man to adopt the child, where the child is a citizen of Singapore; or
 
 (ii) the date the dependant’s pass in respect of the child is issued, where the child is not a citizen of Singapore.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (3) Subject to any regulations made under section 20, where a male employee absents himself from work on paternity leave for any period referred to in section 12H(1), the amount of payment he shall be entitled to receive from his employer under section 12H(2) shall not exceed a total of $2,500.
 
@@ -2627,6 +2641,24 @@ he shall be entitled to claim from the Government, in accordance with any regula
 (2) Nothing in this section shall be construed to require an employer to pay an employee an extra day’s salary for a holiday which falls within any of the benefit period referred to in subsection (1).
 
 [Act 12 of 2013 wef 01/05/2013]
+
+### No payment under this Part on certain days for employee on leave of absence without pay
+
+12M\.—(1) No female employee is entitled to any payment under this Part for any day on which the female employee is entitled to be absent from work or receive payment under section 9(1), (1A), (1B), (1C), (1D), (1E) or (1F), if that day falls on a day the female employee takes leave of absence without pay granted by the employer at the female employee’s request.
+
+(2) No employee is entitled to take —
+
+(a) paid adoption leave;
+
+(b) paid childcare leave or paid extended childcare leave;
+
+(c) paid shared parental leave; or
+
+(d) paid paternity leave,
+
+under this Part on a day the employee takes leave of absence without pay granted by the employer at the employee’s request.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 ### Exclusion of certain classes of persons
 
@@ -3197,3 +3229,7 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|21 October 2013 (Bill No. 21/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|12 November 2013|
 ||Date of commencement|1 April 2014|
+|14.|**Act 27 of 2015—Employment (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|17 August 2015|
+||Date of commencement|22 August 2015|
