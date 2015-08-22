@@ -190,7 +190,7 @@
 
 - [76 Length of benefit period](#Length-of-benefit-period)
 
-- [77 Payments to include holidays](#Payments-to-include-holidays)
+- [77 Payments to include holidays, etc.](#Payments-to-include-holidays-etc)
 
 - [78 When payment is to be made](#When-payment-is-to-be-made)
 
@@ -225,6 +225,14 @@
 - [90 Offence](#Offence)
 
 [**Part XI (Repealed)**](#Part-XI)
+
+- [91 (Repealed)](#Repealed)
+
+- [92 (Repealed)](#Repealed)
+
+- [93 (Repealed)](#Repealed)
+
+- [94 (Repealed)](#Repealed)
 
 [**Part XII REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS**](#Part-XII)
 
@@ -265,6 +273,8 @@
 - [105F Power on escape to pursue and arrest](#Power-on-escape-to-pursue-and-arrest)
 
 - [106 Inspecting officer not to reveal secrets](#Inspecting-officer-not-to-reveal-secrets)
+
+- [106A Disposal of documents, articles, etc.](#Disposal-of-documents-articles-etc)
 
 - [107 Offence](#Offence)
 
@@ -390,6 +400,10 @@ PRELIMINARY
 
 \*See section 48(1) of the Employment (Amendment) Act 2008 (Act 32 of 2008).
 
+“authorised officer” means any public officer appointed as an authorised officer under section 3(2);
+
+[Act 27 of 2015 wef 22/08/2015]
+
 “basic rate of pay” means the total amount of money (including wage adjustments and increments) to which an employee is entitled under his contract of service either for working for a period of time, that is, for one hour, one day, one week, one month or for such other period as may be stated or implied in his contract of service, or for each completed piece or task of work but does not include —
 
 (a) additional payments by way of overtime payments;
@@ -480,6 +494,10 @@ PRELIMINARY
 
 “medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174);
 
+“no-pay leave”, for an employee, means leave of absence without pay granted by the employer at the request of the employee;
+
+[Act 27 of 2015 wef 22/08/2015]
+
 “overtime” means the number of hours worked in any one day or in any one week in excess of the limits specified in Part IV;
 
 “place of employment” means any place provided by the employer where work is carried on, for or on behalf of an employer, by an employee;
@@ -556,9 +574,11 @@ Provided that when any person is employed by any one employer partly as a workma
 
 3\.—(1) The Minister may appoint an officer to be styled the Commissioner for Labour (referred to in this Act as the Commissioner) and also one or more officers to be styled Deputy Commissioner for Labour, Principal Assistant Commissioner for Labour or Assistant Commissioner for Labour, who, subject to such limitations as may be prescribed, may perform all duties imposed and exercise all powers conferred on the Commissioner by this Act, and every duty so performed and power so exercised shall be deemed to have been duly performed and exercised for the purposes of this Act.
 
-(2) The Minister may appoint such number of inspecting officers and other officers as he may consider necessary or expedient for the purposes of this Act.
+(2) The Minister may appoint such number of authorised officers, inspecting officers and other officers as he may consider necessary or expedient for the purposes of this Act.
 
 [21/84]
+
+[Act 27 of 2015 wef 22/08/2015]
 
 ### Rules and orders
 
@@ -632,11 +652,13 @@ CONTRACTS OF SERVICE
 
 13\.—(1) An employer shall be deemed to have broken his contract of service with the employee if he fails to pay salary in accordance with Part III.
 
-(2) An employee shall be deemed to have broken his contract of service with the employer if he has been continuously absent from work for more than 2 days —
+(2) An employee is deemed to have broken the employee’s contract of service with the employer if the employee is absent from work for more than 2 days continuously without prior leave from the employer and —
 
-(a) without prior leave from his employer or without reasonable excuse; or
+(a) the employee has no reasonable excuse for the absence; or
 
-(b) without informing or attempting to inform his employer of the excuse for such absence.
+(b) the employee does not inform and does not attempt to inform the employer of the excuse for the absence.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 ### Dismissal
 
@@ -1681,7 +1703,7 @@ AND CHILDCARE LEAVE FOR PARENT
 
 [Act 26 of 2013 wef 01/04/2014]
 
-(1A) Subject to this section, every female employee shall be entitled to receive payment from her employer at her gross rate of pay for any of the following periods (referred to in this Part as the benefit period):
+(1A) Subject to this section and section 77, every female employee shall be entitled to receive payment from her employer at her gross rate of pay for any of the following periods (referred to in this Part as the benefit period):
 
 (a) where subsection (1)(a) applies, the period of 4 weeks referred to in subsection (1)(a)(i) and the first 4 weeks of the period referred to in subsection (1)(a)(ii);
 
@@ -1691,19 +1713,33 @@ AND CHILDCARE LEAVE FOR PARENT
 
 [41/2004]
 
+[Act 27 of 2015 wef 22/08/2015]
+
 (2) A female employee who delivers a child before 1st May 2013, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 1st May 2013, shall not be entitled to any pay during the benefit period if she has served her employer for less than 90 days immediately preceding the day of her confinement.
 
 [Act 12 of 2013 wef 01/05/2013]
 
 (2A) A female employee who delivers a child —
 
-(a) on or after 1st May 2013; or
+(a) on or after 1 May 2013 but before the date of commencement of section 5(c) of the Employment (Amendment) Act 2015; or
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (b) before 1st May 2013 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 1st May 2013,
 
 shall not be entitled to any pay during the benefit period if she has served her employer for less than 3 months immediately preceding the day of her confinement.
 
 [Act 12 of 2013 wef 01/05/2013]
+
+(2B) A female employee who delivers a child —
+
+(a) on or after the date of commencement of section 5(c) of the Employment (Amendment) Act 2015; or
+
+(b) before the date of commencement of section 5(c) of the Employment (Amendment) Act 2015 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after that date,
+
+is not entitled to any pay during the benefit period if she has not served her employer for a period of at least 3 months preceding the day of her confinement.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (3) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled to receive in addition to her gross rate of pay for that day an amount that is equivalent to a day’s pay at the gross rate of pay or to absent herself from work on another day at the end of the benefit period.
 
@@ -1723,15 +1759,19 @@ shall not be entitled to any pay during the benefit period if she has served her
 
 [41/2004]
 
-### Payments to include holidays
+### Payments to include holidays, etc.
 
-77\.—(1) The payment referred to in section 76 shall be paid for every day of the benefit period, including holidays.
+77\.—(1) The payment referred to in section 76 shall be paid for every day of the benefit period, including holidays, but not any day during the benefit period on which the female employee takes no-pay leave.
 
 [21/84]
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (2) Nothing in this section shall be construed to require an employer to pay to a female employee an extra day’s salary for a holiday which falls within the benefit period.
 
 [21/84]
+
+[Act 27 of 2015 wef 22/08/2015]
 
 ### When payment is to be made
 
@@ -1939,6 +1979,10 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 [41/2004]
 
+(5A) Despite subsection (5), no employee is entitled to take paid childcare leave on a day the employee takes no-pay leave.
+
+[Act 27 of 2015 wef 22/08/2015]
+
 (6) If the employment of an employee who is entitled to childcare leave is terminated (whether by resignation or dismissal, upon the completion of his contract of service, or for any other reason) before he has taken the entitlement of childcare leave of 2 days for a relevant period, the employee —
 
 (a) shall cease to be entitled to that leave upon the termination of his employment; and
@@ -1989,29 +2033,43 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 ### Holidays
 
-88\.—(1) Every employee shall be entitled to a paid holiday at his gross rate of pay on such of the days specified in the Schedule to the Holidays Act (Cap. 126) as fall during the time that he is employed, subject to the following:
+88\.—(1) Every employee shall be entitled to a paid holiday at his gross rate of pay on a public holiday that falls during the time that he is employed, subject to the following:
 
-(a) by agreement between the employer and the employee any other day or days may be substituted for any one or more of the days specified in that Schedule;
+(a) by agreement between the employer and the employee any other day or days may be substituted for any one or more public holidays;
 
-(b) if any of the days specified in that Schedule falls on a rest day, the working day next following that rest day shall be a paid holiday; and
+[Act 27 of 2015 wef 22/08/2015]
 
-(c) if any of the days specified in that Schedule falls on a day when the employee is not required to work under his contract of service, the employer may either pay the employee for that holiday at his gross rate of pay or give the employee a day off in substitution for that holiday.
+(b) if any public holiday falls on a rest day, the working day next following that rest day shall be a paid holiday; and
 
-[32/2008]
+[Act 27 of 2015 wef 22/08/2015]
 
-(2) Notwithstanding subsection (1), no employee shall be entitled to holiday pay for any holiday which falls on a day when the employee is on leave of absence without pay granted by the employer at the request of the employee.
-
-[32/2008]
-
-(3) An employee who absents himself from work on the working day immediately preceding or immediately succeeding a holiday or any day substituted therefor under subsection (1) without the prior consent of his employer or without reasonable excuse shall not be entitled to any holiday pay for that holiday.
+(c) if any public holiday falls on a day when the employee is not required to work under his contract of service, the employer may either pay the employee for that holiday at his gross rate of pay or give the employee a day off in substitution for that holiday.
 
 [32/2008]
 
-(4) Notwithstanding subsection (1), any employee may be required by his employer to work on any holiday to which he would otherwise be entitled under that subsection and, in such event, he shall be paid an extra day’s salary at the basic rate of pay for one day’s work in addition to the gross rate of pay for that day and to a travelling allowance, if payable to him under the terms of his agreement with his employer, for one day.
+[Act 27 of 2015 wef 22/08/2015]
+
+[Act 27 of 2015 wef 22/08/2015]
+
+(2) Notwithstanding subsection (1), no employee shall be entitled to holiday pay for any public holiday which falls on a day when the employee is on leave of absence without pay granted by the employer at the request of the employee.
 
 [32/2008]
 
-(4A) Notwithstanding subsections (1) and (4), where an employee who is employed in a managerial or an executive position is required by his employer to work on any holiday to which he would otherwise be entitled under subsection (1), the employee shall be paid the gross rate of pay for that day and may be given the following, in lieu of a day off in substitution for that holiday or an extra day’s salary at the basic rate of pay:
+[Act 27 of 2015 wef 22/08/2015]
+
+(3) An employee who absents himself from work on the working day immediately preceding or immediately succeeding a public holiday or any day substituted therefor under subsection (1) without the prior consent of his employer or without reasonable excuse shall not be entitled to any holiday pay for that holiday.
+
+[32/2008]
+
+[Act 27 of 2015 wef 22/08/2015]
+
+(4) Notwithstanding subsection (1), any employee may be required by his employer to work on any public holiday to which he would otherwise be entitled under that subsection and, in such event, he shall be paid an extra day’s salary at the basic rate of pay for one day’s work in addition to the gross rate of pay for that day and to a travelling allowance, if payable to him under the terms of his agreement with his employer, for one day.
+
+[32/2008]
+
+[Act 27 of 2015 wef 22/08/2015]
+
+(4A) Notwithstanding subsections (1) and (4), where an employee who is employed in a managerial or an executive position is required by his employer to work on any public holiday to which he would otherwise be entitled under subsection (1), the employee shall be paid the gross rate of pay for that day and may be given the following, in lieu of a day off in substitution for that holiday or an extra day’s salary at the basic rate of pay:
 
 (a) part of a day off on a working day comprising such number of hours as may be agreed between the employee and his employer; and
 
@@ -2023,21 +2081,29 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 [Act 26 of 2013 wef 01/04/2014]
 
+[Act 27 of 2015 wef 22/08/2015]
+
 (5) No employee shall, by reason of subsection (4), receive double any housing allowance or food allowance.
 
 [32/2008]
 
 (6) Subsection (4) shall not apply to an employee who is employed by the Government or a statutory body in any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act (Cap. 67), but —
 
-(a) any such employee may, notwithstanding subsection (1), be required by his employer to work on a holiday or part thereof to which he would otherwise be entitled under that subsection; and
+(a) any such employee may, notwithstanding subsection (1), be required by his employer to work on a public holiday or part thereof to which he would otherwise be entitled under that subsection; and
 
-(b) in any such case, he shall be given a day or part of a day off, as the case may be, in substitution for the holiday or part thereof.
+[Act 27 of 2015 wef 22/08/2015]
+
+(b) in any such case, he shall be given a day or part of a day off, as the case may be, in substitution for the public holiday or part thereof.
+
+[32/2008]
+
+[Act 27 of 2015 wef 22/08/2015]
+
+(7) For the purposes of this section if any public holiday falls on a half working day, the gross or basic rate of pay payable shall be that of a full working day.
 
 [32/2008]
 
-(7) For the purposes of this section if any such holiday falls on a half working day, the gross or basic rate of pay payable shall be that of a full working day.
-
-[32/2008]
+[Act 27 of 2015 wef 22/08/2015]
 
 ### Sick leave
 
@@ -2277,7 +2343,9 @@ INSPECTION AND ENQUIRY
 
 (f) to retain for purposes of analysis samples of materials and substances used or handled by employees, except that the employer or his representative shall be notified of any such samples of materials or substances taken or removed for this purpose;
 
-(g) to take such photographs or video recording, as the Commissioner or inspecting officer thinks necessary, of the premises and persons reasonably believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act;
+(g) to take such photographs, or audio or video recording, as the Commissioner or inspecting officer thinks necessary, of the premises and persons reasonably believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act;
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (h) to require any person to produce any article which is relevant to any investigation under this Act and, if necessary, to take into custody any such article.
 
@@ -2374,6 +2442,24 @@ INSPECTION AND ENQUIRY
 ### Inspecting officer not to reveal secrets
 
 106\. No person shall otherwise than in the performance of his duties reveal any manufacturing or commercial secrets which may at any time come to his knowledge in the course of his duty as an inspecting officer.
+
+### Disposal of documents, articles, etc.
+
+106A\.—(1) Any document, article or thing that the Commissioner or an inspecting officer takes possession of under this Part must —
+
+(a) where the document, article or thing is produced in any criminal trial, be dealt with in accordance with section 364 of the Criminal Procedure Code (Cap. 68); and
+
+(b) in any other case, be returned to the owner or reported to a Magistrate.
+
+(2) Where the report of any document, article or thing is made to a Magistrate under subsection (1)(b), the Magistrate may order the document, article or thing —
+
+(a) to be forfeited; or
+
+(b) to be disposed of in such manner as the Magistrate thinks fit.
+
+(3) Nothing in this section is taken to prejudice any right to retain or dispose of property which may exist in law apart from this section.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 ### Offence
 
@@ -2757,9 +2843,17 @@ PROCEDURE AND REGULATIONS
 
 [Act 26 of 2013 wef 01/04/2014]
 
-(h) prescribe penalties for any contravention of the provisions of the regulations made under this section; except that no such penalty shall exceed $5,000 in the case of a first offence or $10,000 in the case of a second or subsequent offence under the same regulation within one year.
+(h) prescribe the administrative penalties for civil contraventions under Part XVA of an amount not exceeding $1,000 for each occasion of a civil contravention, and $2,000 in the case of a second or subsequent occasion of the civil contravention.
 
-[21/84; 32/2008]
+[Act 27 of 2015 wef 22/08/2015]
+
+(2A) The Minister may, in making any regulations under this Act, provide that any contravention of or failure to comply with any of the provisions of the regulations shall be an offence punishable with a fine not exceeding —
+
+(a) $5,000 in the case of a first conviction; and
+
+(b) $10,000 in the case of a second or subsequent conviction for contravening or failing to comply with the same provision within one year after the immediately preceding conviction.
+
+[Act 27 of 2015 wef 22/08/2015]
 
 (3) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
@@ -3230,3 +3324,7 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|30 January 2015|
 ||Date of commencement|1 April 2015|
+|36.|**Act 27 of 2015—Employment (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|17 August 2015|
+||Date of commencement|22 August 2015|
