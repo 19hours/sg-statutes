@@ -1594,23 +1594,23 @@ Section 24(3)(c)
 
 Fare adjustment formula
 
-3.4% + [0.4 cCPI + 0.4 WI + 0.2 EI – 0.5%]
+0.4 cCPI + 0.4 WI + 0.2 EI – 0.5%
 
 where
 
 cCPI
 
-is the change in Core Consumer Price Index between year 2013 and its previous year;
+is the change in Core Consumer Price Index between year 2014 and its previous year;
 
 WI
 
-is the change in National Average Monthly Earnings between year 2013 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36); and
+is the change in National Average Monthly Earnings between year 2014 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36); and
 
 EI
 
-is the change in Energy Index for electricity and fuel between year 2013 and its previous year.
+is the change in Energy Index for electricity and fuel between year 2014 and its previous year.
 
-[S 456/2015 wef 12/11/2014]
+[S 511/2015 wef 25/08/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -1684,6 +1684,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|11 November 2013|
 |18.|**G.N. No. S 456/2015—Public Transport Council Act (Amendment of Third Schedule) Order 2015**|
 ||Date of commencement|12 November 2014|
+|19.|**G.N. No. S 511/2015—Public Transport Council Act (Amendment of Third Schedule) (No. 2) Order 2015**|
+||Date of commencement|25 August 2015|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
