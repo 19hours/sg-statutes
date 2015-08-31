@@ -54,6 +54,8 @@
 
 - [18 Issue of book-entry Government securities](#Issue-of-book-entry-Government-securities)
 
+- [18A Transfers and pledges of book-entry Government securities](#Transfers-and-pledges-of-book-entry-Government-securities)
+
 - [19 Transfers and pledges effected by Authority under book-entry clearing system](#Transfers-and-pledges-effected-by-Authority-under-book-entry-clearing-system)
 
 - [20 Transfers and pledges effected by other means](#Transfers-and-pledges-effected-by-other-means)
@@ -347,6 +349,12 @@ BOOK-ENTRY GOVERNMENT SECURITIES
 (c) otherwise service and maintain book-entry Government securities.
 
 (2) The Authority is authorised to take all action necessary in respect of book-entry Government securities to enable the Authority in its own capacity to perform its obligations as depositary with respect to such securities.
+
+### Transfers and pledges of book-entry Government securities
+
+18A\. A holder of book‑entry Government securities may transfer or pledge the book‑entry Government securities, except where the transfer or pledge is prohibited in, or is not in accordance with, the terms of the issue of the book-entry Government securities.
+
+[Act 15 of 2015 wef 31/08/2015]
 
 ### Transfers and pledges effected by Authority under book-entry clearing system
 
@@ -874,6 +882,10 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of commencement|18 April 2013 (section 6 — amendment of Government Securities Act)|
 |9.|**2014 Revised Edition—Government Securities Act (Chapter 121A)**|
 ||Date of operation|30 April 2014|
+|10.|**Act 15 of 2015—Government Securities (Amendment) Act 2015**|
+||Date of First Reading|13 April 2015 (Bill No. 12/2015 published on 13 April 2015)|
+||Date of Second and Third Readings|11 May 2015|
+||Date of commencement|31 August 2015|
 ## COMPARATIVE TABLE
 
 Government Securities Act
