@@ -274,11 +274,19 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (ii) to provide financial assistance to holders of bus service licences or bus service operator’s licences with the object of improving and expanding the range and reliability of the bus services so provided by all or any of them;
 
-(iii) to procure for or make available to any holder of a bus service licence or a bus service operator’s licence such buses as are necessary for improving and expanding the range and reliability of the bus services so provided by all or any of them; and
+(iii) to procure for or make available to any holder of a bus service licence or a bus service operator’s licence such buses as are necessary for improving and expanding the range and reliability of the bus services so provided by all or any of them;
 
-(iv) to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act;
+[Act 17 of 2015 wef 01/09/2015]
+
+(iv) to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act; and
 
 [Act 17 of 2012 wef 12/09/2012]
+
+[Act 17 of 2015 wef 01/09/2015]
+
+(v) to regulate the provision of third‑party taxi booking services under the Third‑Party Taxi Booking Service Providers Act 2015;
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (h) to regulate the construction of motor vehicles and the conditions under which they may be used on roads in Singapore;
 
@@ -318,9 +326,17 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (iii) the charge imposed pursuant to the Parking Places Act [Cap. 214] for the waiver of requirements imposed by or under that Act in relation to car parks;
 
-(iv) the proposed sums of successful bids for particular index marks and registration numbers for any type or category of vehicle; and
+(iv) the proposed sums of successful bids for particular index marks and registration numbers for any type or category of vehicle;
 
-(v) all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act [Cap. 276] or any rules made thereunder which are not specified in the Second Schedule;
+[Act 17 of 2015 wef 01/09/2015]
+
+(v) all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act [Cap. 276] or any rules made thereunder which are not specified in the Second Schedule; and
+
+[Act 17 of 2015 wef 01/09/2015]
+
+(vi) all composition sums and financial penalties under the Third‑Party Taxi Booking Service Providers Act 2015;
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (s) to act as agent of the Government in vesting of land under the Street Works Act [Cap. 320A];
 
@@ -350,7 +366,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 7\.—(1) Subject to this Act, the Authority may carry on such activities as appear to the Authority to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its functions and duties under this Act or any other written law, and in particular may exercise any of the following powers:
 
-(a) to grant licences or permits for land transport purposes and to supervise and enforce compliance with the provisions of such licences;
+(a) to grant licences or permits, or to register persons, for land transport purposes and to supervise and enforce compliance with such licences, permits or registration;
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (b) to open and break up any road and to take possession of and use any road or portion thereof;
 
@@ -452,13 +470,17 @@ PROVISIONS RELATING TO STAFF
 
 ### Protection from personal liability
 
-10\. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+10\. No liability shall lie personally against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything done or intended to be done in good faith and with reasonable care in the execution or purported execution of this Act.
+
+[Act 17 of 2015 wef 01/09/2015]
 
 ### Public servants and public officers
 
 11\.—(1) All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
-(2) The members, officers and employees of the Authority shall, in relation to their administration, assessment, collection and enforcement of payment of the taxes, fees and charges referred to in section 6(1)(r), be deemed to be public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+(2) The members, officers and employees of the Authority shall, in relation to their administration, assessment, collection and enforcement of payment of the taxes, fees, composition sums, financial penalties and charges referred to in section 6(1)(r), be deemed to be public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+
+[Act 17 of 2015 wef 01/09/2015]
 
 ## PART V
 
@@ -1252,6 +1274,14 @@ under the Parking Places Act [Cap. 214].
 
 [24/2010 wef 01/11/2010]
 
+22. All fees prescribed under section 31(2)(b) of the Third‑Party Taxi Booking Service Providers Act 2015.
+
+[Act 17 of 2015 wef 01/09/2015]
+
+23. All fees prescribed under section 111J of the Road Traffic Act (Cap. 276).
+
+[Act 17 of 2015 wef 01/09/2015]
+
 THIRD SCHEDULE
 
 Section 18
@@ -1568,6 +1598,10 @@ Part II
 
 [S 310/2012 wef 01/07/2012]
 
+2. All provisions of the Third‑Party Taxi Booking Service Providers Act 2015 and any subsidiary legislation made thereunder.
+
+[Act 17 of 2015 wef 01/09/2015]
+
 ## LEGISLATIVE HISTORY
 
 Land Transport Authority of Singapore Act
@@ -1669,3 +1703,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|23.|**Act 17 of 2015—Third-Party Taxi Booking Service Providers Act 2015**|
+||Date of First Reading|13 April 2015 (Bill No. 14/2015 published on 13 April 2015)|
+||Date of Second and Third Readings|11 May 2015|
+||Date of commencement|1 September 2015|
