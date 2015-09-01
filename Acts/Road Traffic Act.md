@@ -4120,13 +4120,33 @@ LICENSING OF TAXI SERVICE OPERATORS
 
 ### Taxi service operator
 
-111A\. For the purpose of this Part, a person operates a taxi service if, in the course of business, he owns more than one taxi and leases all or any of such taxis to individual drivers for the purpose of providing a service whereby —
+111A\.—(1) For the purposes of this Part, a person operates a taxi service if, in the course of business —
 
-(a) the taxis ply for hire or are available for hire from designated taxi stands; or
+(a) the person owns more than one taxi; and
 
-(b) bookings for the use of such taxis are accepted and taxis are assigned to persons making such bookings.
+(b) the person causes or permits individuals to drive taxis owned by that person for one or both of the following purposes:
 
-[1/2003]
+(i) the taxis are for hire for journeys within, or partly within, Singapore;
+
+(ii) the person provides taxi booking services to individuals driving such taxis.
+
+(2) For the purposes of this section, a person provides a taxi booking service if the person does all of the following in the course of business:
+
+(a) facilitate bookings for taxi services;
+
+(b) send information about bookings for taxi services to taxi drivers;
+
+(c) assign bookings for taxi services to taxi drivers;
+
+(d) assign taxis to persons making bookings for taxi services.
+
+(3) In this section —
+
+“business” includes a venture or concern in trade or commerce conducted on a regular, repetitive or continuous basis;
+
+“taxi” means a public service vehicle which is classified as a taxi under the Second Schedule.
+
+[Act 17 of 2015 wef 01/09/2015]
 
 ### Licence required for operating taxi service
 
@@ -4344,25 +4364,37 @@ and shall consider any representation or objection which is duly made.
 
 111H\.—(1) If the Authority is satisfied that any licensee —
 
-(a) has contravened any relevant provision of this Act, any term or condition of his licence or any code of practice, standard of performance or direction issued by the Authority under this Part;
+(a) has contravened any relevant provision of this Act, any term or condition of the licensee’s licence or any code of practice, standard of performance or direction issued by the Authority under this Part;
 
-(b) has failed to secure the compliance by any of his employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with any provision, term, condition, code of practice, standard of performance or direction referred to in paragraph (a); or
+[Act 17 of 2015 wef 01/09/2015]
+
+(b) has failed to secure the compliance by any of the licensee’s employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with any provision, term, condition, code of practice, standard of performance or direction referred to in paragraph (a); or
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (c) has otherwise failed to provide a satisfactory taxi service in respect of safety, continuity, regularity of operation, frequency, punctuality, reasonableness of charges or general efficiency,
 
 the Authority may, subject to the provisions of this section —
 
-(i) issue such written order to the licensee as it considers requisite for the purpose of securing the compliance by the licensee or any of his employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with the provision, term, condition, code of practice or standard of performance or direction referred to in paragraph (a);
+(i) issue such written order to the licensee as it considers requisite for the purpose of securing the compliance by the licensee or any of the licensee’s employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with the provision, term, condition, code of practice or standard of performance or direction referred to in paragraph (a);
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (ii) require the licensee to pay to the Authority, within a specified period, a financial penalty of such amount not exceeding $100,000 as the Authority thinks fit; or
 
-(iii) suspend or cancel the licence being held by the licensee in whole or in part.
+(iii) suspend (for not more than 3 months) or cancel the licence being held by the licensee in whole or in part.
 
 [1/2003]
 
-(2) The Authority shall, before requiring the payment of any financial penalty under subsection (1)(ii) or suspending or cancelling a licence under subsection (1)(iii), give to the licensee notice in writing of its intention to do so and shall in such notice call upon the licensee to show cause within such time as may be specified in the notice as to why he should not be required to pay a financial penalty or why his licence should not be suspended or cancelled, as the case may be.
+[Act 17 of 2015 wef 01/09/2015]
 
-[1/2003]
+(2) The Authority must, before issuing any written order under subsection (1)(i), requiring payment of any financial penalty under subsection (1)(ii), or suspending or cancelling a licence under subsection (1)(iii), give notice to a licensee —
+
+(a) stating that the Authority intends to issue the written order, require payment of the financial penalty, or suspend or cancel the licence; and
+
+(b) requiring the licensee to show cause within such time as may be specified in the notice, why the Authority should not impose the written order, require payment of the financial penalty, or suspend or cancel the licence.
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (3) If the licensee —
 
@@ -4370,21 +4402,19 @@ the Authority may, subject to the provisions of this section —
 
 (b) fails to show sufficient cause,
 
-the Authority shall give notice in writing to the licensee of the date by which the financial penalty shall be paid or from which the suspension or cancellation of his licence is to take effect, as the case may be.
+the Authority shall give notice in writing to the licensee of the date the written order takes effect, the date by which the financial penalty must be paid, or the date the suspension or cancellation of the licence takes effect, as the case may be.
 
 [1/2003]
+
+[Act 17 of 2015 wef 01/09/2015]
 
 (4) Subject to subsection (5), any licensee who is aggrieved by any decision of the Authority under subsection (1) may appeal to the Minister whose decision shall be final.
 
 [1/2003]
 
-(5) An appeal under subsection (4) shall be brought within the following time:
+(5) An appeal under subsection (4) must be brought within 14 days after the date the notice in writing under subsection (3) is given by the Authority to the licensee.
 
-(a) in the case of an appeal from a written order issued under subsection (1)(i), within 14 days from the date on which the written order is served on him; and
-
-(b) in the case of an appeal from the imposition of a financial penalty under subsection (1)(ii) or the suspension or cancellation of a licence under subsection (1)(iii), within 14 days from the date on which the notice in writing is given to him under subsection (3).
-
-[1/2003]
+[Act 17 of 2015 wef 01/09/2015]
 
 ### Recovery of sums payable under this Part
 
@@ -6283,6 +6313,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|4 August 2014 (Bill No. 22/2014 published on 4 August 2014)|
 ||Date of Second and Third Readings|8 September 2014|
 ||Date of commencement|1 February 2015|
+|64.|**Act 17 of 2015—Third-Party Taxi Booking Service Providers Act 2015**|
+||Date of First Reading|13 April 2015 (Bill No. 14/2015 published on 13 April 2015)|
+||Date of Second and Third Readings|11 May 2015|
+||Date of commencement|1 September 2015|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
