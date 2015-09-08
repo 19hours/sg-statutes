@@ -326,6 +326,18 @@ Subject matters
 
 Accidents
 
+1A. 
+
+Accommodation and food service activities
+
+[S 550/2015 wef 08/09/2015]
+
+1B. 
+
+Administrative and support service activities
+
+[S 550/2015 wef 08/09/2015]
+
 2. 
 
 Agriculture
@@ -333,6 +345,12 @@ Agriculture
 3. 
 
 Animal husbandry
+
+3A. 
+
+Assets, liabilities, and financial operations and transactions, of persons
+
+[S 550/2015 wef 08/09/2015]
 
 4. 
 
@@ -346,13 +364,23 @@ Births and deaths
 
 Building
 
+6A. 
+
+Business, employers’ and professional membership organisations, trade unions, religious organisations, political organisations, and other membership organisations representing or promoting particular interests
+
+[S 550/2015 wef 08/09/2015]
+
+6B. 
+
+Business, personal and household services
+
+[S 550/2015 wef 08/09/2015]
+
 7. 
 
 Citizenship
 
-8. 
-
-Commerce
+8. [Deleted by S 550/2015 wef 08/09/2015]
 
 9. 
 
@@ -404,7 +432,9 @@ Finance
 
 20. 
 
-Health
+Health and social services
+
+[S 550/2015 wef 08/09/2015]
 
 21. 
 
@@ -428,7 +458,9 @@ Insurance
 
 25. 
 
-Internal trade
+Investment
+
+[S 550/2015 wef 08/09/2015]
 
 26. 
 
@@ -472,13 +504,37 @@ Population
 
 Power
 
+36A. 
+
+Prices and charges
+
+[S 550/2015 wef 08/09/2015]
+
 37. 
 
 Prisons
 
+37A. 
+
+Professional, scientific and technical activities
+
+[S 550/2015 wef 08/09/2015]
+
+37B. 
+
+Public administration and defence
+
+[S 550/2015 wef 08/09/2015]
+
 38. 
 
 Quarrying
+
+38A. 
+
+Real estate activities
+
+[S 550/2015 wef 08/09/2015]
 
 39. 
 
@@ -502,13 +558,23 @@ Tourism
 
 43. 
 
-Transport
+Transportation and storage
+
+[S 550/2015 wef 08/09/2015]
 
 44. 
 
-Utilities.
+Utilities
 
 [3/2010; S 501/2000; S 151/2010; S 474/2011]
+
+[S 550/2015 wef 08/09/2015]
+
+45. 
+
+Wholesale and retail trade
+
+[S 550/2015 wef 08/09/2015]
 
 SECOND SCHEDULE
 
@@ -540,7 +606,9 @@ Manpower Research and Statistics Department of the Ministry of Manpower.
 
 7. 
 
-Financial Studies and Statistics Division of the Monetary Authority of Singapore.
+Data Governance & Analytics Unit of the Monetary Authority of Singapore.
+
+[S 153/2015 wef 27/03/2015]
 
 8. 
 
@@ -657,6 +725,10 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of operation|31 July 2012|
 |23.|**G.N. No. S 89/2013—Statistics Act (Amendment of Second Schedule) Order 2013**|
 ||Date of commencement|15 February 2013|
+|24.|**G.N. No. S 153/2015—Statistics Act (Amendment of Second Schedule) Order 2015**|
+||Date of commencement|27 March 2015|
+|25.|**G.N. No. S 550/2015—Statistics Act (Amendment of First Schedule) Order 2015**|
+||Date of commencement|8 September 2015|
 ## COMPARATIVE TABLE
 
 Statistics Act
