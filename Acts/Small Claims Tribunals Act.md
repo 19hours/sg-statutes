@@ -194,11 +194,13 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [43/2005 wef 15/02/2006]
 
-(b) any claim in tort in respect of damage caused to any property; and
+(b) any claim in tort in respect of damage caused to any property other than a claim under section 4 of the Community Disputes Resolution Act 2015; and
 
 [17/95]
 
 [43/2005 wef 15/02/2006]
+
+[Act 7 of 2015 wef 01/10/2015]
 
 (c) any claim relating to a dispute arising from any contract for the lease of residential premises that does not exceed 2 years.
 
@@ -964,3 +966,7 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|14.|**Act 7 of 2015—Community Disputes Resolution Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 4/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 October 2015|
