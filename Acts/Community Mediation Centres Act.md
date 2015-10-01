@@ -168,7 +168,9 @@ MEDIATION
 
 (2) Each mediation session shall be conducted by one or more mediators assigned for the purpose by the Director.
 
-(3) Subject to section 15, no dispute shall be accepted for mediation except with the consent of the Director of a Community Mediation Centre who may decline to consent to the acceptance of any dispute for mediation under this Act at the Centre.
+(3) Subject to section 15 and the Community Disputes Resolution Act 2015, no dispute shall be accepted for mediation except with the consent of the Director of a Community Mediation Centre who may decline to consent to the acceptance of any dispute for mediation under this Act at the Centre.
+
+[Act 7 of 2015 wef 01/10/2015]
 
 (4) A mediation session may be terminated at any time by the mediator or by the Director.
 
@@ -186,7 +188,9 @@ MEDIATION
 
 ### Disputes
 
-11\.—(1) Subject to sections 9(3) and 15, any person may refer to a mediator of a Community Mediation Centre for mediation a case concerning a family, social or community dispute that does not involve a seizable offence under any written law.
+11\.—(1) Subject to sections 9(3) and 15 and the Community Disputes Resolution Act 2015, any person may refer to a mediator of a Community Mediation Centre for mediation a case concerning a family, social or community dispute that does not involve a seizable offence under any written law.
+
+[Act 7 of 2015 wef 01/10/2015]
 
 (2) A mediation session may be commenced or continued whether or not the dispute is justiciable before any court, tribunal or body and whether or not the dispute is the subject of any legal proceedings.
 
@@ -428,3 +432,7 @@ This Legislative History is provided for the convenience of users of the Communi
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|9.|**Act 7 of 2015—Community Disputes Resolution Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 4/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|13 March 2015|
+||Date of commencement|1 October 2015|
