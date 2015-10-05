@@ -458,9 +458,7 @@ Radio Modellers Singapore
 
 St John Ambulance Singapore
 
-30. 
-
-Singapore Action Group of Elders
+30. [Deleted by S 584/2015 wef 05/10/2015]
 
 31. 
 
@@ -482,7 +480,9 @@ Singapore Badminton Association
 
 35. 
 
-Singapore Bodybuilding and Fitness Federation
+Singapore Bowling Federation
+
+[S 584/2015 wef 05/10/2015]
 
 36. 
 
@@ -849,6 +849,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|2 July 2013|
 |62.|**G.N. No. S 439/2013—People’s Association Act (Amendment of Schedule) (No. 2) Notification 2013**|
 ||Date of commencement|12 July 2013|
+|63.|**G.N. No. S 584/2015—Peopleâs Association Act (Amendment of Schedule) Notification 2015**|
+||Date of commencement|5 October 2015|
 ## COMPARATIVE TABLE
 
 People’s Association Act
