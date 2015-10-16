@@ -862,9 +862,19 @@ Terrorists and terrorist entities
 
 [S 484/2015 wef 07/08/2015]
 
-(n) Mustafa bin Sultan Ali (Singapore citizen) (Date of Birth: 1 September 1963).
+(n) Mustafa bin Sultan Ali (Singapore citizen) (Date of Birth: 1 September 1963);
 
 [S 484/2015 wef 07/08/2015]
+
+[S 598/2015 wef 16/10/2015]
+
+(o) Muhammad Shamin bin Mohamed Sidek (Singapore citizen) (Date of Birth: 8 September 1986);
+
+[S 598/2015 wef 16/10/2015]
+
+(p) Muhammad Harith Jailani (Singapore citizen) (Date of Birth: 13 December 1996).
+
+[S 598/2015 wef 16/10/2015]
 
 [S 93/2015 wef 28/02/2015]
 
@@ -1044,6 +1054,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|17 July 2015|
 |15.|**G.N. No. S 484/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 3) Order 2015**|
 ||Date of commencement|7 August 2015|
+|16.|**G.N. No. S 598/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 4) Order 2015**|
+||Date of commencement|16 October 2015|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
