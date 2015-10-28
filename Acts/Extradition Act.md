@@ -984,6 +984,16 @@ Contravention of import or export prohibitions relating to precious stones, gold
 
 Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
 
+31. 
+
+The recruitment, transport, transfer, harbouring or receipt, for the purpose of exploitation —
+
+(a) of any individual below the age of 18 years; or
+
+(b) of any other individual, by means of the threat or use of force (or any other form of coercion), abduction, fraud, deception, the abuse of power, the abuse of the position of vulnerability of the individual, or the giving or receipt of money or other benefits to secure the consent of a person having control over that individual.
+
+[S 612/2015 wef 28/10/2015]
+
 Part II
 
 Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
@@ -1338,6 +1348,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
+|16.|**G.N. No. S 612/2015—Extradition Act (Amendment of First Schedule) Notification 2015**|
+||Date of commencement|28 October 2015|
 ## COMPARATIVE TABLE
 
 Extradition Act
