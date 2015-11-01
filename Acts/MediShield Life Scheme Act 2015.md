@@ -128,6 +128,8 @@ Date of Commencement: 10th March 2015 Part 1, section 9, Parts 4, 5, sections 33
 
 Date of Commencement: 31st July 2015 Section 8
 
+Date of Commencement: 1st November 2015 Sections 3 to 7, 10, 31, 32(1), 35 to 38
+
 An Act to provide for the MediShield Life Scheme and matters related thereto, and to make consequential and related amendments to certain other written laws.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -266,17 +268,9 @@ MEDISHIELD LIFE SCHEME
 
 (ii) a parent or both parents of the insured person, subject to any provision in the relevant regulations, if the insured person has not attained 21 years of age at the beginning of the relevant insurance period.
 
-(2) Despite anything in the CPF Act, the Board is entitled to deduct, from the amount standing to a person’s credit in that person’s medisave account, the whole or any part of the premium for the relevant insurance period (including any interest or penalty imposed under section 11(1)(
+(2) Despite anything in the CPF Act, the Board is entitled to deduct, from the amount standing to a person’s credit in that person’s medisave account, the whole or any part of the premium for the relevant insurance period (including any interest or penalty imposed under section 11(1)(a) or 17, as the case may be, in respect of that premium) —
 
-a
-
-) or 17, as the case may be, in respect of that premium) —
-
-(a) payable by that person under subsection (1)(
-
-c
-
-)(i) or (ii); or
+(a) payable by that person under subsection (1)(c)(i) or (ii); or
 
 (b) payable by any other person, in the circumstances prescribed in the relevant regulations.
 
@@ -302,25 +296,13 @@ c
 
 (b) any interest which the person is liable to pay the Government under the terms of the Government grant.
 
-(3) Where a person who has paid in cash any sum towards the premium for any insurance period (called in this section the relevant person), whether for the relevant person or for any other person, dies before the start of that insurance period, and the sum does not exceed such amount as the Minister may, by notification in the
-
-Gazette
-
-, specify —
+(3) Where a person who has paid in cash any sum towards the premium for any insurance period (called in this section the relevant person), whether for the relevant person or for any other person, dies before the start of that insurance period, and the sum does not exceed such amount as the Minister may, by notification in theGazette, specify —
 
 (a) the Board may pay to a proper claimant the whole or any part, as the Board may determine, of the sum; and
 
-(b) the receipt of the proper claimant is a discharge to the Board for the payment to the proper claimant under paragraph (
+(b) the receipt of the proper claimant is a discharge to the Board for the payment to the proper claimant under paragraph (a).
 
-a
-
-).
-
-(4) Subsection (3) does not affect any recourse which any person may have against a proper claimant for an amount paid to the proper claimant under subsection (3)(
-
-a
-
-).
+(4) Subsection (3) does not affect any recourse which any person may have against a proper claimant for an amount paid to the proper claimant under subsection (3)(a).
 
 (5) In this section —
 
@@ -344,17 +326,9 @@ a
 
 6\.—(1) If, on account of any material change in the information available to the Board or the correction of any error, or in any other circumstances prescribed in the relevant regulations, the Board finds that there is any shortfall in any premium paid in respect of any insurance period by or for any person insured or to be insured under the Scheme, the amount of the shortfall is payable, by all or any of the following persons, and in such proportion, as the Board may require:
 
-(a) a person by whom the premium is payable under section 4(1)(
+(a) a person by whom the premium is payable under section 4(1)(c)(i) or (ii);
 
-c
-
-)(i) or (ii);
-
-(b) a person by whom the premium is payable under section 4(2)(
-
-b
-
-).
+(b) a person by whom the premium is payable under section 4(2)(b).
 
 (2) If, on account of any material change in the information available to the Board or the correction of any error, or in any other circumstances prescribed in the relevant regulations, the Board finds that any benefit under the Scheme has been paid in excess of the amount that ought to have been paid under the Scheme, the excess payment is to be repaid to the Fund in accordance with the relevant regulations —
 
@@ -368,11 +342,7 @@ b
 
 (b) included in a health declaration, means declaration or claim application made under the Scheme.
 
-(4) Sections 4(2), 7(2), 32(2) and 34(2)(
-
-e
-
-) and Part 3 apply, with such modifications as may be prescribed in the relevant regulations, to any amount payable under this section as they apply to a premium.
+(4) Sections 4(2), 7(2), 32(2) and 34(2)(e) and Part 3 apply, with such modifications as may be prescribed in the relevant regulations, to any amount payable under this section as they apply to a premium.
 
 ### MediShield Life Fund
 
@@ -380,11 +350,7 @@ e
 
 (2) The MediShield Life Fund comprises —
 
-(a) all premiums (including interest, costs and penalties under sections 11(1)(
-
-a
-
-), 15(3) and 17, respectively) and any other sums paid under the Scheme;
+(a) all premiums (including interest, costs and penalties under sections 11(1)(a), 15(3) and 17, respectively) and any other sums paid under the Scheme;
 
 (b) all premiums under the MediShield Scheme paid on or after the date of commencement of this section;
 
@@ -912,11 +878,7 @@ MISCELLANEOUS
 
 ### Change of address
 
-31\.—(1) Subject to subsection (2), every person who is liable to pay any premium under section 4(1)(
-
-c
-
-)(i) or (ii) must inform the Board in writing of any change in that person’s residential address.
+31\.—(1) Subject to subsection (2), every person who is liable to pay any premium under section 4(1)(c)(i) or (ii) must inform the Board in writing of any change in that person’s residential address.
 
 (2) If a person has changed that person’s residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201), that person is taken to have informed the Board of the change of that residential address in accordance with subsection (1).
 
@@ -1024,11 +986,7 @@ c
 
 (2) Except as provided in subsection (1), the Scheme does not apply to any person who is not a citizen or permanent resident of Singapore.
 
-(3) Section 13(1)(
-
-b
-
-) of the CPF Act continues to apply to withdrawals from a person’s medisave account for the payment of premiums payable for insurance cover under the MediShield Scheme as if that section was not amended by this Act.
+(3) Section 13(1)(b) of the CPF Act continues to apply to withdrawals from a person’s medisave account for the payment of premiums payable for insurance cover under the MediShield Scheme as if that section was not amended by this Act.
 
 (4) Section 16A of the CPF Act continues to apply to premiums payable for a person’s insurance cover under the MediShield Scheme as if that section was not amended by this Act.
 
@@ -1038,17 +996,9 @@ b
 
 36\.—(1) Section 90(1) of the Bankruptcy Act (Cap. 20, 2009 Ed.) is amended —
 
-(a) by deleting the word “and” at the end of paragraph (
+(a) by deleting the word “and” at the end of paragraph (f); and
 
-f
-
-); and
-
-(b) by deleting the full-stop at the end of paragraph (
-
-g
-
-) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
+(b) by deleting the full-stop at the end of paragraph (g) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
 
 “
 
@@ -1058,17 +1008,9 @@ g
 
 (2) Section 127(2) of the Bankruptcy Act is amended —
 
-(a) by deleting the word “or” at the end of paragraph (
+(a) by deleting the word “or” at the end of paragraph (a); and
 
-a
-
-); and
-
-(b) by deleting the full‑stop at the end of paragraph (
-
-b
-
-) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
+(b) by deleting the full‑stop at the end of paragraph (b) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
 
 “
 
@@ -1112,25 +1054,13 @@ Expenses, etc.
 
 ”.
 
-(3) Section 13(1) of the CPF Act is amended by deleting paragraph (
-
-b
-
-) and substituting the following paragraph:
+(3) Section 13(1) of the CPF Act is amended by deleting paragraph (b) and substituting the following paragraph:
 
 “
 
 (b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A and 27B, withdrawals may be made in accordance with —
 
-(i) any regulations made under section 77(1)(
-
-j
-
-) and (
-
-k
-
-); and
+(i) any regulations made under section 77(1)(j) and (k); and
 
 (ii) the MediShield Life Scheme Act 2015; and
 
@@ -1140,41 +1070,13 @@ k
 
 (a) by deleting the words “section 57 or” and substituting the words “section 34 of the MediShield Life Scheme Act 2015 or section”;
 
-(b) by deleting the words “those regulations” in paragraph (
+(b) by deleting the words “those regulations” in paragraph (a) and substituting the words “regulations made under section 77(1)”;
 
-a
+(c) by deleting the words “those regulations” wherever they appear in paragraph (b) and substituting in each case the words “regulations made under section 77(1)”;
 
-) and substituting the words “regulations made under section 77(1)”;
+(d) by deleting the words “premium payable for the member’s insurance under the MediShield Scheme established and maintained by the Board under section 53, or under any medical insurance scheme or other insurance scheme referred to in section 77(1)(k)” in paragraph (c) and substituting the words “premium (including interest and penalties for late payment) and other sums payable for the member’s insurance under the MediShield Life Scheme, or under any medical insurance scheme or other insurance scheme referred to in section 34(2)(j) of the MediShield Life Scheme Act 2015 or section 77(1)(k)”; and
 
-(c) by deleting the words “those regulations” wherever they appear in paragraph (
-
-b
-
-) and substituting in each case the words “regulations made under section 77(1)”;
-
-(d) by deleting the words “premium payable for the member’s insurance under the MediShield Scheme established and maintained by the Board under section 53, or under any medical insurance scheme or other insurance scheme referred to in section 77(1)(
-
-k
-
-)” in paragraph (
-
-c
-
-) and substituting the words “premium (including interest and penalties for late payment) and other sums payable for the member’s insurance under the MediShield Life Scheme, or under any medical insurance scheme or other insurance scheme referred to in section 34(2)(
-
-j
-
-) of the MediShield Life Scheme Act 2015 or section 77(1)(
-
-k
-
-)”; and
-
-(e) by deleting sub-paragraph (i) of paragraph (
-
-c
-
-) and substituting the following sub‑paragraph:
+(e) by deleting sub-paragraph (i) of paragraph (c) and substituting the following sub‑paragraph:
 
 “
 
@@ -1184,11 +1086,7 @@ c
 
 (5) Section 27B of the CPF Act is amended —
 
-(a) by deleting sub‑paragraph (ii) of subsection (6)(
-
-b
-
-) and substituting the following sub‑paragraph:
+(a) by deleting sub‑paragraph (ii) of subsection (6)(b) and substituting the following sub‑paragraph:
 
 “
 
@@ -1200,11 +1098,7 @@ b
 
 ”; and
 
-(b) by deleting sub‑paragraph (ii) of subsection (7)(
-
-b
-
-) and substituting the following sub‑paragraph:
+(b) by deleting sub‑paragraph (ii) of subsection (7)(b) and substituting the following sub‑paragraph:
 
 “
 
@@ -1228,15 +1122,7 @@ b
 
 “
 
-(6) On the request of an insurer administering or operating an insurance scheme referred to in section 34(2)(
-
-j
-
-) of the MediShield Life Scheme Act 2015 or section 77(1)(
-
-k
-
-) for information about a person or the person’s dependant, which the insurer requires to administer or operate the insurance scheme in relation to the person, or the person’s dependant, the Board may disclose to the insurer such information (including any medical information and information relating to the amount standing to the credit of the person in the person’s medisave account) obtained by the Board, in the course of performing the Board’s functions or duties under this Act, for such purpose as the Minister may approve.
+(6) On the request of an insurer administering or operating an insurance scheme referred to in section 34(2)(j) of the MediShield Life Scheme Act 2015 or section 77(1)(k) for information about a person or the person’s dependant, which the insurer requires to administer or operate the insurance scheme in relation to the person, or the person’s dependant, the Board may disclose to the insurer such information (including any medical information and information relating to the amount standing to the credit of the person in the person’s medisave account) obtained by the Board, in the course of performing the Board’s functions or duties under this Act, for such purpose as the Minister may approve.
 
 (7) The insurer may use the information about the person or the person’s dependant obtained under subsection (6) only for the purpose approved by the Minister under that subsection.
 
@@ -1254,15 +1140,7 @@ k
 
 “
 
-“integrated medical insurance plan” has the same meaning as in the regulations made under section 34(2)(
-
-j
-
-) of the MediShield Life Scheme Act 2015 or section 77(1)(
-
-k
-
-) of the Central Provident Fund Act;
+“integrated medical insurance plan” has the same meaning as in the regulations made under section 34(2)(j) of the MediShield Life Scheme Act 2015 or section 77(1)(k) of the Central Provident Fund Act;
 
 ”; and
 
