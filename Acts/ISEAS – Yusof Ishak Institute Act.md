@@ -18,7 +18,7 @@
 
 - [6 Quorum](#Quorum)
 
-- [7 Secretary of Board](#Secretary-of-Board)
+- [7 (Repealed)](#Repealed)
 
 - [8 Power of Board to enter into contracts and to hold property](#Power-of-Board-to-enter-into-contracts-and-to-hold-property)
 
@@ -28,7 +28,9 @@
 
 - [10 Use of common seal](#Use-of-common-seal)
 
-- [11 Grants-in-aid and accounts of Institute](#Grants-in-aid-and-accounts-of-Institute)
+- [11 Grants-in-aid and financial provisions](#Grants-in-aid-and-financial-provisions)
+
+- [11A Annual report](#Annual-report)
 
 - [12 Appointment, powers and duties of Director](#Appointment-powers-and-duties-of-Director)
 
@@ -39,6 +41,12 @@
 - [15 Power to make rules](#Power-to-make-rules)
 
 - [16 Power of Board to accept gifts](#Power-of-Board-to-accept-gifts)
+
+- [17 Public servants](#Public-servants)
+
+- [18 Protection from personal liability](#Protection-from-personal-liability)
+
+[**THE SCHEDULE Financial provisions**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -100,29 +108,19 @@ An Act to provide for the establishment of the ISEAS – Yusof Ishak Institute a
 
 [Act 23 of 2015 wef 12/08/2015]
 
-(2) The Board shall consist of a Chairman and a Deputy Chairman to be appointed by the President and the following other members:
+(2) The Board consists of a Chairman, a Deputy Chairman and 12 other members to be appointed by the Minister.
 
-(a) 4 persons to be appointed by the President;
-
-(b) 4 persons, one each to be appointed by the Singapore International Chamber of Commerce, the Singapore Chinese Chamber of Commerce and Industry, the Singapore Indian Chamber of Commerce and the Singapore Malay Chamber of Commerce;
-
-(c) 2 persons, one each to be appointed by the Lee Foundation and the Shaw Foundation;
-
-(d) 6 persons to be appointed by the President of the National University of Singapore; and
-
-(e) 3 persons to be appointed by the President from among persons nominated by such professional bodies and organisations as the President may consult.
-
-[5/81; 26/2001]
+[Act 23 of 2015 wef 01/11/2015]
 
 (3) The Director shall be an ex‑officio member of the Board.
 
-(4) The Chairman, the Deputy Chairman and other members appointed by the President under subsection (2) shall hold office for a period of up to 3 years, unless the President otherwise directs, and shall be eligible for reappointment:
+(4) The Chairman, the Deputy Chairman and other members appointed by the Minister under subsection (2) shall hold office for a period of up to 3 years, unless the Minister otherwise directs, and shall be eligible for reappointment:
 
-Provided that the President may at any time revoke such an appointment.
+Provided that the Minister may at any time revoke such an appointment.
 
-(5) The members appointed, otherwise than by the President, under subsection (2) shall hold office for a period of 3 years, unless the President otherwise directs, and shall be eligible for reappointment:
+[Act 23 of 2015 wef 01/11/2015]
 
-Provided that the person or body appointing such a member may at any time revoke his appointment.
+(5) [Deleted by Act 23 of 2015 wef 01/11/2015]
 
 (6) Any member of the Board may resign from the Board by giving notice in writing to that effect addressed to the Chairman and as from the date the Chairman receives the notice the member shall cease to be a member.
 
@@ -132,7 +130,9 @@ Provided that the person or body appointing such a member may at any time revoke
 
 (9) Any member absenting himself from 4 consecutive meetings of the Board without having obtained leave of absence from the Board shall be considered as having resigned from the Board.
 
-(10) If a vacancy occurs in the membership of the Board by the death, resignation, revocation of appointment of a member or otherwise, the vacancy shall be filled by the authority appointing that member, and any person so appointed shall hold office for so long as the member in whose place he is appointed would have held office.
+(10) If a vacancy occurs in the membership of the Board by the death, resignation, revocation of appointment of a member or otherwise, the Minister may appoint any person to fill the vacancy, and any person so appointed shall hold office for so long as the member in whose place he is appointed would have held office.
+
+[Act 23 of 2015 wef 01/11/2015]
 
 (11) The Board shall meet at least once a year.
 
@@ -152,17 +152,15 @@ Provided that the person or body appointing such a member may at any time revoke
 
 6\.—(1) Every question before the Board at any meeting shall be decided by a majority of the votes of the members present.
 
-(2) Eight members of the Board shall constitute a quorum at any meeting.
+(2) Five members of the Board shall constitute a quorum at any meeting.
 
 [25/2009]
 
+[Act 23 of 2015 wef 01/11/2015]
+
 (3) The chairman at any meeting shall have an original vote and, in the case of an equality of votes, a casting vote.
 
-### Secretary of Board
-
-7\.—(1) The Executive Secretary of the Institute shall be the Secretary of the Board, and shall attend all meetings of the Board unless excused for good cause by the Chairman.
-
-(2) In the absence of the Secretary, the Chairman may appoint a suitable person to act as clerk for a particular meeting.
+7\. [Repealed by Act 23 of 2015 wef 01/11/2015]
 
 ### Power of Board to enter into contracts and to hold property
 
@@ -190,13 +188,25 @@ Provided that the person or body appointing such a member may at any time revoke
 
 10\. The common seal of the Board shall be in the custody of the Director. It shall not be affixed to any instrument except in the presence of the Chairman or a member of the Board designated by the Chairman and the Director or a member of the Executive Committee designated by the Director, and not until the Chairman or the member of the Board and the Director or the member of the Executive Committee have signed their names to the instrument in token of their presence.
 
-### Grants-in-aid and accounts of Institute
+### Grants-in-aid and financial provisions
 
 11\.—(1) The Minister may from time to time authorise the payment of grants-in-aid to the Institute.
 
 (2) All moneys provided for under subsection (1) may be applied or expended by the Institute for all or any of the purposes of the Institute.
 
-(3) A copy of the accounts of the Institute for each financial year when prepared and audited in accordance with the rules made under section 15 shall as soon as practicable after the completion of the audit be submitted to the Board for approval before being sent to the Minister.
+(3) The financial provisions set out in the Schedule are to have effect with respect to the Institute.
+
+[Act 23 of 2015 wef 01/11/2015]
+
+[Act 23 of 2015 wef 01/11/2015]
+
+### Annual report
+
+11A\.—(1) The Institute must, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Institute during that year.
+
+(2) The Minister must, as soon as practicable, cause a copy of the annual report to be presented to Parliament.
+
+[Act 23 of 2015 wef 01/11/2015]
 
 ### Appointment, powers and duties of Director
 
@@ -300,6 +310,96 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (3) All property, moneys or funds donated for any specific purposes shall be applied and administered in accordance with the purposes for which they have been donated and shall be separately accounted for.
 
+### Public servants
+
+17\. All employees of the Institute are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 23 of 2015 wef 01/11/2015]
+
+### Protection from personal liability
+
+18\. No liability is to lie personally against any member of the Board, employee of the Institute or other person acting under the direction of the Institute who, acting in good faith and with reasonable care, does or omits to do anything in —
+
+(a) the exercise or purported exercise of any power under this Act; or
+
+(b) the performance or purported performance of any function or duty under this Act.
+
+[Act 23 of 2015 wef 01/11/2015]
+
+## THE SCHEDULE
+
+Section 11(3)
+
+Financial provisions
+
+Accounts of Institute
+
+1. The Institute must keep proper accounts and records of its transactions and affairs and must do all things necessary to ensure that —
+
+(a) all payments out of its moneys are correctly made and properly authorised; and
+
+(b) adequate control is maintained over the assets of, or in the custody of, the Institute and over the expenditure incurred by the Institute.
+
+Auditor
+
+2\. The accounts of the Institute must be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
+
+Appointment of auditor
+
+3\. A person does not qualify for appointment as an auditor under paragraph 2 unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
+
+Remuneration of auditor
+
+4\. The remuneration of the auditor is to be paid out of the moneys of the Institute.
+
+Annual financial statements
+
+5\. The Institute must, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who must audit and report on them.
+
+Duties of auditor
+
+6. The auditor must state in the auditor’s report —
+
+(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Institute;
+
+(b) whether proper accounting and other records have been kept, including records of all assets of, or in the custody of, the Institute whether purchased, donated or otherwise;
+
+(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Institute during the financial year were in accordance with the provisions of this Act; and
+
+(d) any other matters arising from the audit as the auditor considers necessary.
+
+Auditor’s report
+
+7.—(1) The auditor must, as soon as practicable after the accounts have been submitted for audit, send a report of the audit to the Institute.
+
+(2) The auditor must submit such periodical and special reports to the Minister and to the Institute as may appear to the auditor to be necessary or as the Minister or the Institute may require.
+
+Powers of auditor
+
+8.—(1) The auditor or any person authorised by the auditor is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Institute.
+
+(2) The auditor or any person authorised by the auditor may make copies of, or take extracts from, any such accounting and other records.
+
+(3) The auditor or any person authorised by the auditor may require any person to furnish such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of the auditor’s functions under this Act.
+
+Penalty for obstructing auditor
+
+9\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor or authorised person under paragraph 8 or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of the auditor’s functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of the day during which the offence continues after conviction.
+
+Presentation of audited financial statements and auditor’s report
+
+10\. The Institute must, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman of the Board, together with a copy of the auditor’s report.
+
+Copy of auditor’s report for Auditor-General
+
+11\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor must be forwarded to the Auditor-General at the same time they are submitted to the Institute.
+
+Presentation to Parliament
+
+12. The Minister must, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+[Act 23 of 2015 wef 01/11/2015]
+
 ## LEGISLATIVE HISTORY
 
 ISEAS – Yusof Ishak Institute Act
@@ -359,3 +459,4 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of First Reading|11 May 2015 (Bill No. 20/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|14 July 2015|
 ||Date of commencement|12 August 2015|
+|||1 November 2015|
