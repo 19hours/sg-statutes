@@ -36,7 +36,7 @@
 
 - [9 Payment of interest on contributions in arrears](#Payment-of-interest-on-contributions-in-arrears)
 
-- [10 Expenses](#Expenses)
+- [10 Expenses, etc.](#Expenses-etc)
 
 - [11 Financial provisions](#Financial-provisions)
 
@@ -212,21 +212,21 @@
 
 - [52 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [53 Establishment of MediShield Scheme](#Establishment-of-MediShield-Scheme)
+- [53 (Repealed)](#Repealed)
 
-- [53A Application to persons below 21 years of age](#Application-to-persons-below-21-years-of-age)
+- [53A (Repealed)](#Repealed)
 
-- [54 Premium](#Premium)
+- [54 (Repealed)](#Repealed)
 
-- [55 General obligation of insured person to furnish information](#General-obligation-of-insured-person-to-furnish-information)
+- [55 (Repealed)](#Repealed)
 
-- [56 Establishment of MediShield Fund](#Establishment-of-MediShield-Fund)
+- [56 (Repealed)](#Repealed)
 
 - [56A Transfer of liabilities under Scheme](#Transfer-of-liabilities-under-Scheme)
 
 - [56B Non-application of Insurance Act](#Non-application-of-Insurance-Act)
 
-- [57 Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
+- [57 (Repealed)](#Repealed)
 
 [**Part VIA WORKFARE INCOME SUPPLEMENT SCHEME**](#Part-VIA)
 
@@ -410,6 +410,10 @@ PRELIMINARY
 
 “medisave account” means a medisave account maintained under section 13;
 
+“MediShield Life Scheme” means the MediShield Life Scheme referred to in section 3 of the MediShield Life Scheme Act 2015;
+
+[Act 4 of 2015 wef 01/11/2015]
+
 “member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund, or for whom any account in the Fund is maintained for any of the purposes of this Act, and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
 
 “minimum sum”, in relation to a member, means the minimum sum referred to in section 15(6)(a) that is applicable to the member;
@@ -490,7 +494,7 @@ PRELIMINARY
 
 [18/2009; 22/2010; 20/2011]
 
-(4) The Minister may, by regulations made under all or any of sections 23, 27Q, 39, 49A, 51, 56A, 57, 57F, and 77(1), prescribe —
+(4) The Minister may, by regulations made under all or any of sections 23, 27Q, 39, 49A, 51, 56A, 57F, and 77(1), prescribe —
 
 (a) the persons to whom subsection (3) applies;
 
@@ -507,6 +511,8 @@ PRELIMINARY
 (ii) a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to any person referred to in paragraph (a) for the purposes of this Act.
 
 [18/2009; 22/2010]
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (5) For the purposes of this Act, a reference to the Board being satisfied that a person lacks capacity within the meaning of section 4 of the Mental Capacity Act shall be construed as including a reference to the Board being satisfied that the person’s lack of capacity is likely to be permanent.
 
@@ -986,11 +992,21 @@ CONTRIBUTIONS TO FUND
 
 [27/92]
 
-### Expenses
+### Expenses, etc.
 
-10\. All expenses incurred by the Board including the cost of auditing the accounts of the Fund as provided for in the Second Schedule shall be defrayed out of the moneys of the Fund.
+10\.—(1) All expenses incurred by the Board including the cost of auditing the accounts of the Fund as provided for in the Second Schedule shall be defrayed out of the moneys of the Fund.
 
-[27/92]
+[Act 4 of 2015 wef 01/11/2015]
+
+(2) Despite anything in this Act or the MediShield Life Scheme Act 2015, no money in the Fund is to be used to make any payment for the purposes of the MediShield Life Scheme Act 2015 or any costs or expenses incurred in the administration of the MediShield Life Scheme, except for —
+
+(a) withdrawals or deductions from a member’s medisave account made in accordance with this Act or the MediShield Life Scheme Act 2015; or
+
+(b) any payment made by the Board, as a defaulter’s agent under section 12 or 13 of the MediShield Life Scheme Act 2015, from moneys payable from the Fund.
+
+[Act 4 of 2015 wef 01/11/2015]
+
+[Act 4 of 2015 wef 01/11/2015]
 
 ### Financial provisions
 
@@ -1018,7 +1034,13 @@ CONTRIBUTIONS TO FUND
 
 (a) an ordinary account from which, apart from subsection (7) and sections 15(2), (3), (4) and (5), 18, 18A, 18B, 18C, 22, 27B, 32 and 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i) or (n);
 
-(b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A, 27B and 54, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
+(b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A and 27B, withdrawals may be made in accordance with —
+
+(i) any regulations made under section 77(1)(j) and (k); and
+
+(ii) the MediShield Life Scheme Act 2015; and
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18, 18A, 18C, 19A, 27B or 45 or in accordance with any regulations made under section 77(1)(n) or (oa).
 
@@ -1756,23 +1778,33 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Withdrawal from medisave account of deceased member
 
-116A\.—(1) Notwithstanding section 24(3A), on or after the death of a member of the Fund, the Board may, subject to such conditions as the Minister may from time to time impose, permit the withdrawal, for one or more of the following purposes, of the whole or any part of the sum standing to the member’s credit in his medisave account, in accordance with any regulations made under section 57 or 77(1):
+116A\.—(1) Notwithstanding section 24(3A), on or after the death of a member of the Fund, the Board may, subject to such conditions as the Minister may from time to time impose, permit the withdrawal, for one or more of the following purposes, of the whole or any part of the sum standing to the member’s credit in his medisave account, in accordance with any regulations made under section 34 of the MediShield Life Scheme Act 2015 or section 77(1):
 
-(a) for such medical, psychiatric or other treatment or services received by the member as may be prescribed by those regulations, if that withdrawal had been authorised —
+(a) for such medical, psychiatric or other treatment or services received by the member as may be prescribed by regulations made under section 77(1), if that withdrawal had been authorised —
 
 (i) before the member’s death, by him or, if he was unable to give the authorisation, by a prescribed person; or
 
 (ii) on or after the member’s death, by a prescribed person;
 
-(b) for such medical, psychiatric or other treatment or services as may be prescribed by those regulations received (whether before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), or to be received, by the member’s spouse, child or parent or by such other person as may be prescribed by those regulations, if that withdrawal had been authorised by the member before his death;
+[Act 4 of 2015 wef 01/11/2015]
 
-(c) for any premium payable for the member’s insurance under the MediShield Scheme established and maintained by the Board under section 53, or under any medical insurance scheme or other insurance scheme referred to in section 77(1)(k), if —
+(b) for such medical, psychiatric or other treatment or services as may be prescribed by regulations made under section 77(1) received (whether before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), or to be received, by the member’s spouse, child or parent or by such other person as may be prescribed by regulations made under section 77(1), if that withdrawal had been authorised by the member before his death;
 
-(i) the member is insured (whether before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), or has applied before his death to be insured (whether such application is made before, on or after the date of commencement of section 8 of the Central Provident Fund (Amendment) Act 2012), under the MediShield Scheme, medical insurance scheme or other insurance scheme, as the case may be; and
+[Act 4 of 2015 wef 01/11/2015]
+
+(c) for any premium (including interest and penalties for late payment) and other sums payable for the member’s insurance under the MediShield Life Scheme, or under any medical insurance scheme or other insurance scheme referred to in section 34(2)(j) of the MediShield Life Scheme Act 2015 or section 77(1)(k), if —
+
+(i) the member is insured under the MediShield Life Scheme, or under any medical insurance scheme or other insurance scheme, as the case may be; and
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (ii) the Board has authorised, whether before or after the member’s death, the withdrawal of any amount standing to his credit in his medisave account for the payment of any such premium.
 
 [Act 23 of 2012 wef 01/08/2013]
+
+[Act 4 of 2015 wef 01/11/2015]
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (2) Where the Board has permitted the withdrawal of any money under subsection (1), section 24(3A) shall not apply to that money.
 
@@ -3272,9 +3304,13 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
 
-(ii) every deduction which the Board is entitled to make under section 27L, 32, 45 or 54 or any regulations made under section 77(1).
+(ii) every deduction which the Board is entitled to make under —
 
-[40/2007; 18/2009]
+(A) section 27L, 32 or 45 or any regulations made under section 77(1); and
+
+(B) the MediShield Life Scheme Act 2015.
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (7) The Board shall make a payment of money standing to the credit of a member of the Fund under subsection (1)(a)(ii) or (3) —
 
@@ -3284,9 +3320,13 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
 
-(ii) every deduction which the Board is entitled to make under section 27L, 32, 45 or 54 or any regulations made under section 77(1).
+(ii) every deduction which the Board is entitled to make under —
 
-[40/2007; 18/2009]
+(A) section 27L, 32 or 45 or any regulations made under section 77(1); and
+
+(B) the MediShield Life Scheme Act 2015.
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (8) The money transferred under subsection (1)(a)(i) or (2) and any interest thereon may be withdrawn in accordance with this Act for such purposes and in such manner as may be prescribed by any regulations made under section 77(1).
 
@@ -4644,93 +4684,25 @@ MEDISHIELD SCHEME
 
 “insured person” means a person who is insured under the Scheme;
 
-“MediShield Fund” means the fund established and maintained by the Board under section 56;
+“MediShield Fund” means the fund established and maintained by the Board under section 56 as in force immediately before the date of commencement of section 37(7) of the MediShield Life Scheme Act 2015;
 
-“Scheme” means the medical insurance scheme called the MediShield Scheme established and maintained by the Board under section 53.
+[Act 4 of 2015 wef 01/11/2015]
+
+“Scheme” means the medical insurance scheme called the MediShield Scheme established and maintained by the Board under section 53 as in force immediately before the date of commencement of section 37(7) of the MediShield Life Scheme Act 2015.
 
 [15/90; 24/2005; 11/2013]
 
-### Establishment of MediShield Scheme
+[Act 4 of 2015 wef 01/11/2015]
 
-53\. The Board may establish and maintain a medical insurance scheme to be known as the MediShield Scheme for the purpose of paying the full or part of the costs incurred by an insured person for the medical treatment or services received by him in an approved hospital at any time during the period he is insured under the Scheme.
+53\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
-[15/90; 57/2007]
+53A\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
-### Application to persons below 21 years of age
+54\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
-53A\.—(1) Subject to subsection (2), on or after the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2013 —
+55\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
-(a) a person below the age of 21 years may do any thing under this Part, or any regulations made under section 57, as if he were of full age; and
-
-(b) the provisions of this Part and any regulations made under section 57 shall apply to a person below the age of 21 years, as if he were of full age.
-
-(2) Any thing done under this Part or any regulations made under section 57, on or after the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2013, by a person below the age of 16 years (or such other age as the Minister may prescribe in place thereof) shall be done with the consent of his parent or guardian.
-
-(3) Where, before the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2013, a person below the age of 21 years did any thing under this Part, or any regulations made under section 57, which would have been validly done if he were of full age, that thing shall be deemed to be and always to have been validly done by him.
-
-(4) This section shall apply subject to any contrary age requirement expressly provided under this Act in respect of —
-
-(a) any thing done under this Part, or any regulations made under section 57; or
-
-(b) any provision of this Part or of any regulations made under section 57.
-
-(5) Section 58 of the Insurance Act (Cap. 142) shall not apply to —
-
-(a) any thing done under this Part, or any regulations made under section 57; or
-
-(b) the application of any provision of this Part and of any regulations made under section 57.
-
-[Act 24 of 2013 wef 01/01/2014]
-
-### Premium
-
-54\.—(1) Every insured person shall pay a premium of such an amount as may be prescribed by regulations made under this Part.
-
-[15/90]
-
-(2) The Board shall be entitled to deduct the amount of premium payable by a member or his dependant who is insured under the Scheme from the amount standing to the credit of that member’s medisave account.
-
-[15/90]
-
-### General obligation of insured person to furnish information
-
-55\.—(1) An insured person or any other person who wishes to join the Scheme shall, when so required by the Board —
-
-(a) furnish to the Board such information as the Board thinks fit regarding that person’s background and health or members of his family; and
-
-(b) undergo such medical examination as the Board thinks fit.
-
-[15/90]
-
-(2) An insured person or any other person who wishes to join the Scheme shall be under a duty to disclose to the Board all material facts, which if known to the Board, would have reasonably affected the decision of the Board to permit that person to join the Scheme or entertain any claim made by the insured person under the Scheme.
-
-[15/90]
-
-(3) An insured person or any other person who wishes to join the Scheme shall be deemed to have —
-
-(a) given his consent to the Board to seek information from any doctor who has attended to him or any hospital where he has received treatment; and
-
-(b) authorised his doctor or the authority of that hospital to give such information to the Board.
-
-[15/90]
-
-### Establishment of MediShield Fund
-
-56\.—(1) The Board shall establish and maintain a fund to be known as the MediShield Fund into which shall be paid all premiums collected under this Part and out of which shall be met all payments to be paid by the Board under the Scheme (including any costs and expenses incurred by the Board in establishing and maintaining the Scheme).
-
-[15/90; 20/2011]
-
-(2) The MediShield Fund shall be controlled and administered by the Board.
-
-[15/90]
-
-(3) The moneys in the MediShield Fund may be invested by the Board in such manner as the Board thinks fit.
-
-[15/90]
-
-(4) Every amount paid by the Board out of the MediShield Fund before 30th December 2011 to defray the costs and expenses incurred by the Board in establishing and maintaining the Scheme shall be deemed to be and always to have been validly paid, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such payment.
-
-[20/2011]
+56\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
 ### Transfer of liabilities under Scheme
 
@@ -4802,25 +4774,7 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 [24/2005]
 
-### Regulations for purposes of this Part
-
-57\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Part and, in particular, such regulations may —
-
-(a) specify the members or class of members or other persons who are entitled to join the Scheme;
-
-(b) prescribe the conditions under which an insured person is entitled to claim the benefits payable under the Scheme;
-
-(c) prescribe the benefits payable to an insured person under the Scheme;
-
-(d) prescribe for the rates of premium payable by insured persons and the manner and time for payment of such premiums;
-
-(e) provide for the refund of any premium and the method or circumstances under which the refund shall be made and at such rates as may be prescribed;
-
-(f) provide for such information, evidence and documents that the Board may require an insured person to furnish for the purposes of this Part; and
-
-(g) provide for all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Part.
-
-[15/90]
+57\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
 ## PART VIA
 
@@ -5046,17 +5000,13 @@ he shall be guilty of an offence.
 
 (5) No refund shall be made of any fee paid under subsection (3).
 
-(6) The Board may, on the request by an insurer administering or operating an insurance scheme referred to in section 77(1)(k), give to the insurer information, in the Board’s possession, on any member or his dependant that the insurer requires for the purpose of administering or operating the insurance scheme, including any medical information and information relating to the amount standing to the credit of the member in his medisave account.
+(6) On the request of an insurer administering or operating an insurance scheme referred to in section 34(2)(j) of the MediShield Life Scheme Act 2015 or section 77(1)(k) for information about a person or the person’s dependant, which the insurer requires to administer or operate the insurance scheme in relation to the person, or the person’s dependant, the Board may disclose to the insurer such information (including any medical information and information relating to the amount standing to the credit of the person in the person’s medisave account) obtained by the Board, in the course of performing the Board’s functions or duties under this Act, for such purpose as the Minister may approve.
 
-[24/2005]
+[Act 4 of 2015 wef 01/11/2015]
 
-(7) The insurer may not use the information given under subsection (6) for any other purpose except —
+(7) The insurer may use the information about the person or the person’s dependant obtained under subsection (6) only for the purpose approved by the Minister under that subsection.
 
-(a) for the purpose of determining whether a member or his dependant is entitled to be insured under the insurance scheme referred to in section 77(1)(k); or
-
-(b) for any other purpose connected with the administration or operation of the insurance scheme.
-
-[34/2001; 24/2005]
+[Act 4 of 2015 wef 01/11/2015]
 
 (8) An insurer who knowingly contravenes subsection (7) shall be guilty of an offence.
 
@@ -5220,9 +5170,11 @@ the court before which the conviction is had may, in addition to the fine prescr
 
 ### Certificate of authorised officer to be evidence
 
-66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Lifelong Income Fund, the Home Protection Fund or the MediShield Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
+66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Lifelong Income Fund or the Home Protection Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
 
 [36/2002; 24/2005; 23/2012]
+
+[Act 4 of 2015 wef 01/11/2015]
 
 ### Certificate of Board
 
@@ -8353,6 +8305,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|11 May 2015 (Bill No. 20/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|14 July 2015|
 ||Date of commencement|12 August 2015|
+|198.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|29 January 2015|
+||Date of commencement|1 November 2015|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
