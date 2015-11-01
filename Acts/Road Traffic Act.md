@@ -2050,21 +2050,31 @@ LICENSING OF DRIVERS
 
 [24/2010 wef 01/11/2010]
 
-(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act.
+(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act, and providing for the circumstances where any points so awarded may be cancelled or disregarded.
 
 [7/90]
 
-(3) The rules made under subsection (2) shall specify the maximum number of points to be awarded against a person before it may be established that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+[Act 28 of 2014 wef 01/11/2015]
+
+(3) The Deputy Commissioner of Police may, under subsection (1), regard a person as not competent to drive a motor vehicle, or establish that it would not be in the interests of public safety for a person to continue to hold a driving licence, if that person is awarded, within a prescribed period, points prescribed for the commission of an offence or offences under this Act that are equal to or in excess of the maximum number of points prescribed (called the revocation threshold).
+
+[Act 28 of 2014 wef 01/11/2015]
+
+(4) The rules made under subsection (2) must —
+
+(a) specify the number of points to be awarded for an offence under this Act, including points that distinguish between different offences under this Act or the circumstances in which any offence is committed or both;
+
+(b) specify when points may be awarded in respect of an offence under this Act, and the circumstances under which points awarded may be cancelled or disregarded for the purposes of subsection (1); and
+
+(c) specify the revocation threshold, the period over which the revocation threshold is calculated, and such other matters as are required to be prescribed for the purposes of this section.
+
+[Act 28 of 2014 wef 01/11/2015]
+
+(5) Where the points awarded against a person under the rules made under subsection (2) reach 50% of the revocation threshold under this section, the Deputy Commissioner of Police shall give notice thereof in writing to the person.
 
 [7/90]
 
-(4) The power conferred upon the Deputy Commissioner of Police by this section to revoke the driving licence of a person may be exercised at such time as the Deputy Commissioner of Police thinks fit after the maximum number of points, referred to in subsection (3), has been awarded against such person.
-
-[7/90]
-
-(5) Where the points awarded against a person under the rules made under subsection (2) reach 50% of the maximum number at which the Deputy Commissioner of Police may revoke the driving licence of such person under this section, the Deputy Commissioner of Police shall give notice thereof in writing to the person.
-
-[7/90]
+[Act 28 of 2014 wef 01/11/2015]
 
 (6) Where a person is disqualified by an order of a court from holding or obtaining a driving licence for such period of time as may be specified in the order, every point awarded against him under the rules made under subsection (2) shall thereupon be cancelled.
 
@@ -2370,13 +2380,27 @@ whichever period is the longer.
 
 [7/90]
 
-(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act.
+(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act, and providing for the circumstances where any points so awarded may be cancelled or disregarded.
 
-(3) The rules made under subsection (2) shall specify the maximum number of points to be awarded against a person before it may be established that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+[Act 28 of 2014 wef 01/11/2015]
 
-(4) The power conferred upon the Deputy Commissioner of Police by this section to suspend the driving licence of a person may be exercised at such time after the maximum number of points, referred to in subsection (3), has been awarded against such person as the Deputy Commissioner of Police thinks fit.
+(3) The Deputy Commissioner of Police may, under subsection (1), regard a person as not competent to drive a motor vehicle, or establish that it would not be in the interests of public safety for a person to continue to hold a driving licence, if that person is awarded, within a prescribed period, points prescribed for the commission of an offence or offences under this Act that are equal to or in excess of the maximum number of points prescribed (called the suspension threshold).
 
-(5) Where the points awarded against a person under the rules made under subsection (2) reach 50% of the maximum number at which the Deputy Commissioner of Police may suspend the driving licence of such person under this section, the Deputy Commissioner of Police shall give notice thereof in writing to the person.
+[Act 28 of 2014 wef 01/11/2015]
+
+(4) The rules made under subsection (2) must —
+
+(a) specify the number of points to be awarded for an offence under this Act, including points that distinguish between different offences under this Act or the circumstances in which any offence is committed or both;
+
+(b) specify when points may be awarded in respect of an offence under this Act, and the circumstances under which points awarded may be cancelled or disregarded for the purposes of subsection (1); and
+
+(c) specify the suspension threshold, the period over which the suspension threshold is calculated, and such other matters as are required to be prescribed for the purposes of this section.
+
+[Act 28 of 2014 wef 01/11/2015]
+
+(5) Where the points awarded against a person under the rules made under subsection (2) reach 50% of the suspension threshold under this section, the Deputy Commissioner of Police shall give notice thereof in writing to the person.
+
+[Act 28 of 2014 wef 01/11/2015]
 
 (6) Where a person is disqualified by an order of a court from holding or obtaining a driving licence for such period of time as may be specified in the order, every point awarded against him under the rules made under subsection (2) shall thereupon be cancelled.
 
@@ -6317,6 +6341,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|13 April 2015 (Bill No. 14/2015 published on 13 April 2015)|
 ||Date of Second and Third Readings|11 May 2015|
 ||Date of commencement|1 September 2015|
+|65.|**Act 28 of 2014—Road Traffic (Amendment) Act 2014**|
+||Date of First Reading|4 August 2014 (Bill No. 22/2014 published on 4 August 2014)|
+||Date of Second and Third Readings|8 September 2014|
+||Date of commencement|1 November 2015|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
