@@ -2696,11 +2696,19 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (e) fifthly, all amounts due in respect of contributions payable during the 12 months immediately before, on or after the date of the bankruptcy order by the bankrupt as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the Income Tax Act (Cap. 134);
 
-(f) sixthly, all remuneration payable to any employee in respect of vacation leave, or in the case of his death, to any other person in his right, accrued in respect of any period before, on or after the date of the bankruptcy order; and
+(f) sixthly, all remuneration payable to any employee in respect of vacation leave, or in the case of his death, to any other person in his right, accrued in respect of any period before, on or after the date of the bankruptcy order;
 
-(g) seventhly, the amount of all taxes assessed and any goods and services tax due under any written law before the date of the bankruptcy order or assessed at any time before the time fixed for the proving of debts has expired.
+[Act 4 of 2015 wef 01/11/2015]
+
+(g) seventhly, the amount of all taxes assessed and any goods and services tax due under any written law before the date of the bankruptcy order or assessed at any time before the time fixed for the proving of debts has expired; and
 
 [42/2005,5/2008]
+
+[Act 4 of 2015 wef 01/11/2015]
+
+(h) eighthly, all premiums (including interest and penalties for late payment) and other sums payable in respect of the bankrupt’s insurance cover under the MediShield Life Scheme referred to in section 3 of the MediShield Life Scheme Act 2015 before the time fixed for the proving of debts has expired.
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the bankrupt or $7,500, whichever is the lesser.
 
@@ -3546,13 +3554,21 @@ as may be specified in the order.
 
 (2) Discharge shall not release the bankrupt from —
 
-(a) any debt due to the Government; or
+(a) any debt due to the Government;
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (b) any debt with which the bankrupt may be chargeable at the suit of —
 
 (i) the Government or any other person for any offence under any written law relating to any branch of the public revenue; or
 
-(ii) the Sheriff or other public officer on a bail bond entered into for the appearance of any person prosecuted for any such offence.
+(ii) the Sheriff or other public officer on a bail bond entered into for the appearance of any person prosecuted for any such offence; and
+
+[Act 4 of 2015 wef 01/11/2015]
+
+(c) a debt in respect of any premium (including interest and penalties for late payment) and other sums due under the MediShield Life Scheme Act 2015.
+
+[Act 4 of 2015 wef 01/11/2015]
 
 (3) A bankrupt may be discharged from any debt referred to in subsection (2) only by a certificate in writing of the Minister.
 
@@ -4390,6 +4406,10 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|23.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|29 January 2015|
+||Date of commencement|1 November 2015|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
