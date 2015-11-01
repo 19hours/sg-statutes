@@ -2932,9 +2932,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
 
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
-
 [Act 39 of 2017 wef 01/04/2014]
+
+[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -6060,9 +6060,13 @@ the difference between 2% of the total remuneration of his employees in that bas
 
 (8) In this section —
 
-“co-payment” means the part of the amount of any claim, after deducting the deductible, which a person insured under the MediShield Scheme or an integrated medical insurance plan has to bear under the Scheme or plan;
+“co-payment” means the part of the amount of any claim, after deducting the deductible, which a person insured under the MediShield Life Scheme or an integrated medical insurance plan has to bear under the Scheme or plan;
 
-“deductible” means the amount of any claim which a person insured under the MediShield Scheme or an integrated medical insurance plan has to bear before the insurer becomes liable to make payment under the Scheme or plan;
+[Act 4 of 2015 wef 01/11/2015]
+
+“deductible” means the amount of any claim which a person insured under the MediShield Life Scheme or an integrated medical insurance plan has to bear before the insurer becomes liable to make payment under the Scheme or plan;
+
+[Act 4 of 2015 wef 01/11/2015]
 
 “general contribution” means any contribution falling within subsection (1)(f) or (fb), as the case may be, which is not —
 
@@ -6074,7 +6078,9 @@ the difference between 2% of the total remuneration of his employees in that bas
 
 “gross rate of pay” has the same meaning as in section 2 of the Employment Act (Cap. 91);
 
-“integrated medical insurance plan” has the same meaning as in the regulations made under section 77(1)(k) of the Central Provident Fund Act;
+“integrated medical insurance plan” has the same meaning as in the regulations made under section 34(2)(j) of the MediShield Life Scheme Act 2015 or section 77(1)(k) of the Central Provident Fund Act;
+
+[Act 4 of 2015 wef 01/11/2015]
 
 “local employee” means a full-time or part-time employee who is a citizen or permanent resident of Singapore;
 
@@ -6094,11 +6100,15 @@ the difference between 2% of the total remuneration of his employees in that bas
 
 “medical treatment” includes all forms of treatment for, and procedures for diagnosing, any physical or mental ailment, infirmity or defect;
 
-“MediShield Scheme” means the MediShield Scheme established and maintained under section 53 of the Central Provident Fund Act;
+[Deleted by Act 4 of 2015 wef 01/11/2015]
+
+“MediShield Life Scheme” means the MediShield Life Scheme referred to in section 3 of the MediShield Life Scheme Act 2015 and includes the MediShield Scheme established and maintained under section 53 of the Central Provident Fund Act as in force immediately before the date of commencement of section 37(7) of the MediShield Life Scheme Act 2015;
+
+[Act 4 of 2015 wef 01/11/2015]
 
 “part-time employee” has the same meaning as in section 66A of the Employment Act;
 
-“qualifying insurance”, in relation to any basis period of an employer, means medical insurance under the MediShield Scheme or an integrated medical insurance plan that is provided by an employer to employees to cover the cost of medical treatment of —
+“qualifying insurance”, in relation to any basis period of an employer, means medical insurance under the MediShield Life Scheme or an integrated medical insurance plan that is provided by an employer to employees to cover the cost of medical treatment of —
 
 (a) at least 20% of the number of local employees who are employed by the employer as at the first day of the basis period; and
 
@@ -6106,9 +6116,13 @@ the difference between 2% of the total remuneration of his employees in that bas
 
 for every calendar month or part thereof in the basis period that the employees are employed by the employer;
 
+[Act 4 of 2015 wef 01/11/2015]
+
 “remuneration” means any wage, salary, leave pay, fee, commission, bonus, gratuity, allowance, other emoluments paid in cash by or on behalf of an employer and contributions to any approved pension or provident fund by any employer which are allowable as deductions under this Act, but does not include any director’s fee, medical expense, cash allowance in lieu of medical expenses and benefit-in-kind;
 
-“rider” means any insurance under which the insurer of the rider is liable to pay in full or in part the deductible or co-payment relating to the MediShield Scheme or an integrated medical insurance plan;
+“rider” means any insurance under which the insurer of the rider is liable to pay in full or in part the deductible or co-payment relating to the MediShield Life Scheme or an integrated medical insurance plan;
+
+[Act 4 of 2015 wef 01/11/2015]
 
 “specified amount”, in relation to any calendar month, means —
 
@@ -17288,7 +17302,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (1B) The reference in subsection (1)(b) to prescribed activities is a reference to activities prescribed in regulations made under this section and specified to each approved qualifying company by the Minister or a person appointed by the Minister.
 
-[Act 39 of 2017 wef 27/05/2010]
+[Act 39 of 2017 wef 21/05/2010]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved global trading company or an approved qualifying company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -17635,8 +17649,6 @@ except that the Minister may extend the period so specified for such further per
 (b) the allowances under section 19, 19A, 20, 21, 22 or 23 (other than allowances made to the lessee under regulations made under section 10D) in respect of finance leasing in any year of assessment shall be deducted against the income from such leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
 
 [Act 2 of 2016 wef 24/02/2015]
-
-(c) where the approved container investment enterprise ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction against the income from such leasing shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
 
 (d) the Comptroller shall determine the manner and extent to which —
 
@@ -18044,11 +18056,11 @@ as an approved company for the purpose of this section from that date;
 
 (l) information technology support services,
 
-[Act 39 of 2017 wef 02/06/2011]
-
 and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsections (4) and (5I);
 
 [Act 2 of 2016 wef 24/02/2015]
+
+[Act 39 of 2017 wef 02/06/2011]
 
 “finance leasing” has the same meaning as in section 13S(20) or 43ZA(7);
 
@@ -21518,9 +21530,9 @@ Cap. 3
 
 13.
 
-MediShield Fund
+MediShield Life Fund
 
-Cap. 36
+Act 4 of 2015
 
 14.
 
@@ -21639,6 +21651,8 @@ Young Men’s Christian Association
 11.
 
 Young Women’s Christian Association.
+
+[S 712/2015 wef 01/11/2015]
 
 [29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; 4/2004; 19/2013; S 148/76; S 38/77; S 217/80; S 41/82; S 158/82; S 183/83; S 137/84; S 138/84; S 217/84; S 26/85; S 79/88; S 379/89; S 380/89; S 381/90; S 382/90; S 383/90; S 317/91; S 562/91; S 210/92; S 412/92; S 259/95; S 33/96; S 67/96; S 302/96; S 372/97; S 372/98; S 267/99; S 485/99; S 220/2003; S 715/2005; S 194/2006]
 
@@ -23654,275 +23668,260 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|22 February 2010 (Section 5(b))|
-|257.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|22 February 2010|
-|258.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|257.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|23 February 2010 (Sections 19 to 22, 26, 27, 54(a), (b), (c), (e), (f), (g), 55(a), (b), (c))|
-|259.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|258.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|23 February 2010 (Section 28)|
-|260.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|259.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item 1(20) of the Second Schedule — amendment of Income Tax Act)|
-|261.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|260.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 March 2010 (Sections 28(d), 33)|
-|262.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|261.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 April 2010 (Sections 8, 10, 34, 38(a), (b), 47, 54(d), 55(d))|
-|263.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|262.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2010 (Sections 15, 35)|
-|264.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|263.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 April 2010 (Sections 33(a), (b), (d), (e), (h), (i), (j), (o), (p), (f)|
-|265.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|264.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|21 May 2010 (Section 42)|
-|266.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|21 May 2010|
-|267.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|265.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|7 July 2010 (Section 9)|
-|268.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|266.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|7 July 2010 (Section 14(b))|
-|269.|**Act 25 of 2010—Estate Agents Act 2010**|
+|267.|**Act 25 of 2010—Estate Agents Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 August 2010|
 |||(Bill No. 19/2010 published on 16 August 2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|22 October 2010 (item 4 of the Third Schedule — amendment of Income Tax Act)|
-|270.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|268.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|22 November 2010|
-|271.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|269.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 January 2011 (Sections 28(a), (c), 43)|
-|272.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|270.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2011 (Sections 4(a), 6(b), (e), (f), (i), 16(b), 27(a))|
-|273.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|271.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 January 2011 (Sections 12, 25(a) to (f), (h), (i))|
-|274.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|272.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|19 February 2011 (Section 37)|
-|275.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+|273.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 March 2011 (Sections 7(b), (c), 44(b), 45(b), 46(b))|
-|276.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|274.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2011 (Section 18, 20, 34, 38, 40)|
-|277.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|275.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|25 April 2011 (Section 41)|
-|278.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+|276.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|28 February 2011|
 |||(Bill No. 8/2011 published on 28 February 2011)|
 ||Date of Second and Third Readings|10 March 2011|
 ||Date of commencement|1 May 2011|
-|279.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|277.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 June 2011 (Sections 10(f), 48, 49, 69(a), 71)|
-|280.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|278.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 June 2011 (Sections 4, 5(a), (c), (d), (e), 9)|
-|281.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|2 June 2011|
-|282.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|279.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 September 2011 (Section 16(a))|
-|283.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|280.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 December 2011 (Sections 2, 5, 6(g), 12, 30(j), (k), 32(a), 36(1), 39,42, 43, 45, 46, 47, 50, 51, 52, 55 to 60, 62 to 68(b), 72)|
-|284.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
+|281.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|22 November 2010|
 |||(Bill No. 36/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|11 January 2011|
 ||Date of commencement|1 January 2012|
-|285.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+|282.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012 (Sections 6(a), (c), (d), 32(b))|
-|286.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|283.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|17 February 2012 (Sections 3(b), (c), (d), (e), 33(c), (f), (g), (k) to (h), (q), (r), (s), (u), (v), 42, 44)|
-|287.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|284.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|28 February 2012 (Sections 38, 39)|
-|288.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|285.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||Date of First Reading|21 November 2011|
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (section 4 — amendment of Income Tax Act)|
-|289.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|286.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 March 2012 (Section 20)|
-|290.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
+|287.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
 ||Date of commencement|1 April 2012|
-|291.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|288.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 April 2012 (Sections 13, 17, 37(b))|
-|292.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|289.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|1 June 2012 (Sections 11, 51(d))|
-|293.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
+|290.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
 ||Date of commencement|3 December 2012|
-|294.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+|291.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|18 December 2012 (Sections 3(a), 7, 8, 10(b), 16, 18, 22, 25(g), 26, 29, 31, 48)|
-|295.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|292.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|18 December 2012 (Section 15)|
-|296.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
+|293.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 28/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|16 November 2012|
 ||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
-|297.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+|294.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
-|298.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|295.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|25 February 2013 (Section 29, 50, 53)|
-|299.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|296.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|26 February 2013 (Section 27(b))|
-|300.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+|297.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
-|301.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|298.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 April 2013 (Section 30)|
-|302.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|299.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
-|303.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|300.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|28 June 2013 (Sections 7(b), (c), (d), (i))|
-|304.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|301.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
-|305.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
+|302.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
 ||Date of commencement|23 December 2013|
-|306.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|303.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 January 2014|
-|307.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+|304.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
 ||(Related amendments made to Act by)||
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
-|308.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
+|305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 March 2014|
-|309.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|306.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|27 November 2014|
-|310.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+|307.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017|
 |||(Bill No. 36/2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|1 April 2014|
 |||1 April 2015|
-|311.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
@@ -23932,7 +23931,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2015|
 |||1 June 2015|
 |||1 July 2015|
-|312.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|309.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -23943,6 +23942,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||29 May 2015|
 |||1 June 2015|
 |||1 July 2015|
+|310.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|29 January 2015|
+||Date of commencement|1 November 2015|
+|311.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
+||Date of commencement|1 November 2015|
 ## COMPARATIVE TABLE
 
 Income Tax Act
