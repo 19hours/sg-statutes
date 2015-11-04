@@ -966,7 +966,9 @@ All undertakings of whatever nature of —
 
 (b) Singapore Customs;
 
-(c) SNP SPrint Pte. Ltd.;
+(c) Toppan Security Printing Pte. Ltd.;
+
+[S 636/2015 wef 04/11/2015]
 
 (d) the CISCO Recall Total Information Management Pte. Ltd.;
 
@@ -1437,6 +1439,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|58.|**G.N. No. S 636/2015—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2015**|
+||Date of commencement|4 November 2015|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
