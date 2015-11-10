@@ -16,9 +16,17 @@
 
 - [5 Other acts endangering or likely to endanger safe navigation](#Other-acts-endangering-or-likely-to-endanger-safe-navigation)
 
-- [6 Offences involving threats](#Offences-involving-threats)
+- [6 Offences involving threats in relation to ships or safe navigation](#Offences-involving-threats-in-relation-to-ships-or-safe-navigation)
 
-- [7 Ancillary offences](#Ancillary-offences)
+- [7 Ancillary offences in relation to ships or safe navigation](#Ancillary-offences-in-relation-to-ships-or-safe-navigation)
+
+- [7A Hijacking of fixed platforms](#Hijacking-of-fixed-platforms)
+
+- [7B Destroying or damaging fixed platforms, etc.](#Destroying-or-damaging-fixed-platforms-etc)
+
+- [7C Offences involving threats in relation to fixed platforms](#Offences-involving-threats-in-relation-to-fixed-platforms)
+
+- [7D Ancillary offences in relation to fixed platforms](#Ancillary-offences-in-relation-to-fixed-platforms)
 
 - [8 Master’s power of delivery](#Master’s-power-of-delivery)
 
@@ -40,7 +48,9 @@ REVISED EDITION 2004
 
 (31st December 2004)
 
-An Act to give effect to the provisions of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10th March 1988 and for purposes connected therewith.
+An Act to give effect to the provisions of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10 March 1988, and the provisions of the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf done in Rome on 10 March 1988, and for purposes connected therewith.
+
+[Act 22 of 2015 wef 10/11/2015]
 
 [3rd May 2004]
 
@@ -66,13 +76,41 @@ An Act to give effect to the provisions of the Convention for the Suppression of
 
 (b) any act done outside Singapore which, if done in Singapore, would constitute an offence referred to in paragraph (a);
 
-“Convention” means the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10th March 1988;
+“Convention” means the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10 March 1988;
+
+[Act 22 of 2015 wef 10/11/2015]
 
 “Convention country” means a country in respect of which the Convention is in force;
 
 “country” includes any territory;
 
+“fixed platform” means any artificial island, installation or structure permanently attached to the seabed for the purpose of exploration or exploitation of resources or for any other economic purpose;
+
+[Act 22 of 2015 wef 10/11/2015]
+
 “naval service” includes military and air force services;
+
+“Protocol” means the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf done in Rome on 10 March 1988;
+
+[Act 22 of 2015 wef 10/11/2015]
+
+“Protocol country” means a Convention country in respect of which the Protocol is in force;
+
+[Act 22 of 2015 wef 10/11/2015]
+
+“relevant fixed platform offence” means —
+
+(a) an offence under section 7A, 7B or 7C;
+
+(b) conspiracy to commit any of those offences;
+
+(c) inciting another to commit any of those offences;
+
+(d) attempting to commit any of those offences; or
+
+(e) aiding, abetting, counselling or procuring the commission of any of those offences;
+
+[Act 22 of 2015 wef 10/11/2015]
 
 “relevant maritime offence” means —
 
@@ -170,7 +208,7 @@ where the destruction, damage or interference is likely to endanger the safe nav
 
 (c) the ship is used in the naval, customs or law enforcement service of Singapore.
 
-### Offences involving threats
+### Offences involving threats in relation to ships or safe navigation
 
 6\.—(1) A person shall be guilty of an offence if —
 
@@ -188,7 +226,9 @@ where the destruction, damage or interference is likely to endanger the safe nav
 
 (4) Section 4(5) shall apply for the purposes of subsection (1) as it applies for the purposes of section 4(1); and section 5(6) shall apply for the purposes of subsection (2) as it applies for the purposes of section 5(1).
 
-### Ancillary offences
+[Act 22 of 2015 wef 10/11/2015]
+
+### Ancillary offences in relation to ships or safe navigation
 
 7\.—(1) Any act of violence done by any person in connection with an offence under section 3, 4 or 5 committed or attempted to be committed by him shall be deemed to have been committed in Singapore and shall constitute an offence punishable under the law in force in Singapore applicable to it, wherever the act of violence was committed, whatever the state in which the ship concerned is registered (if any), and whatever the nationality or citizenship of the person committing or attempting to commit the act.
 
@@ -205,6 +245,92 @@ where the destruction, damage or interference is likely to endanger the safe nav
 (d) but for section 6(4), be an offence under that section,
 
 shall be guilty of an offence.
+
+(4) Any person, whether in Singapore or elsewhere, who abets the commission, whether in Singapore or elsewhere, of any act which is an offence under section 3, 4, 5 or 6 shall be guilty of an offence.
+
+[Act 22 of 2015 wef 10/11/2015]
+
+(5) Any person, whether in Singapore or elsewhere, who attempts to commit an offence under section 3, 4, 5 or 6, and in such attempt does any act towards the commission of the offence, shall be guilty of an offence and shall be punished with imprisonment for a term not exceeding 15 years.
+
+[Act 22 of 2015 wef 10/11/2015]
+
+[Act 22 of 2015 wef 10/11/2015]
+
+### Hijacking of fixed platforms
+
+7A\.—(1) Subject to subsection (2), any person who unlawfully, by the use of force or by threats of any kind, seizes a fixed platform or exercises control of a fixed platform, shall be guilty of an offence, whatever the nationality or citizenship of that person, and whether the fixed platform is in Singapore or elsewhere.
+
+(2) Subsection (1) does not apply to any act committed in relation to a fixed platform used as a naval auxiliary or in customs or law enforcement service, unless —
+
+(a) the person seizing or exercising control of the fixed platform is a citizen of Singapore;
+
+(b) the act is committed in Singapore; or
+
+(c) the fixed platform is used in the naval, customs or law enforcement service of Singapore.
+
+[Act 22 of 2015 wef 10/11/2015]
+
+### Destroying or damaging fixed platforms, etc.
+
+7B\.—(1) Subject to subsection (5), any person who unlawfully and intentionally does any of the following shall be guilty of an offence:
+
+(a) destroys a fixed platform;
+
+(b) damages a fixed platform so as to endanger, or to be likely to endanger, the safety of the fixed platform;
+
+(c) commits on board a fixed platform an act of violence which is likely to endanger the safety of the fixed platform.
+
+(2) Subject to subsection (5), any person who unlawfully and intentionally places, or causes to be placed, on a fixed platform any device or substance which is likely to destroy the fixed platform or is likely so to damage the fixed platform as to endanger the safety of the fixed platform shall be guilty of an offence.
+
+(3) Nothing in subsection (2) is to be construed as limiting the circumstances in which the commission of any act may —
+
+(a) constitute an offence under subsection (1); or
+
+(b) constitute attempting or conspiring to commit or aiding, abetting, counselling, procuring or inciting the commission of the offence.
+
+(4) Except as provided in subsection (5), subsections (1) and (2) apply whether any act referred to in those subsections is committed in Singapore or elsewhere, and whatever the nationality or citizenship of the person committing the act.
+
+(5) Subsections (1) and (2) do not apply to any act committed in relation to a fixed platform used as a naval auxiliary or in customs or law enforcement service, unless —
+
+(a) the person committing the act is a citizen of Singapore;
+
+(b) the act is committed in Singapore; or
+
+(c) the fixed platform is used in the naval, customs or law enforcement service of Singapore.
+
+[Act 22 of 2015 wef 10/11/2015]
+
+### Offences involving threats in relation to fixed platforms
+
+7C\.—(1) A person (“A”) shall be guilty of an offence if —
+
+(a) in order to compel any other person to do or abstain from doing any act, A threatens that A or some other person will do in relation to any fixed platform an act which is an offence under section 7B(1); and
+
+(b) the making of that threat is likely to endanger the safety of the fixed platform.
+
+(2) Except as provided in subsection (3), subsection (1) applies whether any act referred to in subsection (1) is committed in Singapore or elsewhere, and whatever the nationality or citizenship of the person committing the act.
+
+(3) Section 7B(5) applies for the purposes of subsection (1) as it applies for the purposes of section 7B(1).
+
+[Act 22 of 2015 wef 10/11/2015]
+
+### Ancillary offences in relation to fixed platforms
+
+7D\.—(1) Any act of violence done by any person in connection with an offence under section 7A or 7B committed or attempted to be committed by that person is deemed to have been committed in Singapore and constitutes an offence punishable under the law in force in Singapore applicable to it, wherever the act of violence was committed, and whatever the nationality or citizenship of the person committing or attempting to commit the act.
+
+(2) A person in Singapore shall be guilty of an offence if the person abets the commission elsewhere of any act which would —
+
+(a) but for section 7A(2), be an offence under section 7A;
+
+(b) but for section 7B(5), be an offence under section 7B; or
+
+(c) but for section 7C(3), be an offence under section 7C.
+
+(3) Any person, whether in Singapore or elsewhere, who abets the commission, whether in Singapore or elsewhere, of any act which is an offence under section 7A, 7B or 7C shall be guilty of an offence.
+
+(4) Any person, whether in Singapore or elsewhere, who attempts to commit an offence under section 7A, 7B or 7C, and in such attempt does any act towards the commission of the offence, shall be guilty of an offence and shall be punished with imprisonment for a term not exceeding 15 years.
+
+[Act 22 of 2015 wef 10/11/2015]
 
 ### Master’s power of delivery
 
@@ -262,7 +388,9 @@ shall be guilty of an offence.
 
 9\.—(1) Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to be punished with imprisonment for life.
 
-(2) For the avoidance of doubt, subsection (1) shall not apply to any act which constitutes an offence punishable under the law in force in Singapore applicable to it by virtue of section 7(1).
+(2) For the avoidance of doubt, subsection (1) shall not apply to any act which constitutes an offence punishable under the law in force in Singapore applicable to it by virtue of section 7(1) or 7D(1).
+
+[Act 22 of 2015 wef 10/11/2015]
 
 ### Consent for prosecution
 
@@ -282,21 +410,45 @@ but no further steps in the proceedings in relation to the offence shall be take
 
 ### Extradition
 
-11\.—(1) Relevant maritime offences are deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act (Cap. 103).
+11\.—(1) Relevant maritime offences and relevant fixed platform offences are deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act (Cap. 103).
 
-(2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Convention country, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
+[Act 22 of 2015 wef 10/11/2015]
 
-(3) Where the Extradition Act is applied under subsection (2), the Extradition Act shall, subject to subsection (4), have effect as if the only extradition crimes within the meaning of that Act were relevant maritime offences.
+(2) Where no extradition treaty is in force between Singapore and a Protocol country —
 
-(4) Subsection (2) is without prejudice to any other notification made under section 4 of the Extradition Act.
+(a) a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that Protocol country; but
 
-(5) For the purposes of the Extradition Act, any act, wherever committed, which —
+(b) subject to subsection (4), where the Extradition Act is applied under paragraph (a), that Act has effect as if the only extradition crimes within the meaning of that Act were relevant maritime offences and relevant fixed platform offences.
 
-(a) is a relevant maritime offence, or would be such an offence but for section 3(2), 4(5), 5(6) or 6(4) of this Act; and
+[Act 22 of 2015 wef 10/11/2015]
 
-(b) is an offence against the law of any country in the case of which the Extradition Act has been applied by a notification in theGazettemade under section 4 of that Act,
+(3) Where no extradition treaty is in force between Singapore and a Convention country that is not a Protocol country —
 
-shall be deemed to be an offence within the jurisdiction of that country.
+(a) a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that Convention country; but
+
+(b) subject to subsection (4), where the Extradition Act is applied under paragraph (a), that Act has effect as if the only extradition crimes within the meaning of that Act were relevant maritime offences.
+
+[Act 22 of 2015 wef 10/11/2015]
+
+(4) Subsections (2) and (3) are without prejudice to any other notification made under section 4 of the Extradition Act.
+
+[Act 22 of 2015 wef 10/11/2015]
+
+(5) For the purposes of the Extradition Act —
+
+(a) any act, wherever committed, is deemed to be an offence within the jurisdiction of a Protocol country in relation to which the Extradition Act has been applied by a notification in theGazettemade under section 4 of that Act, if that act —
+
+(i) is a relevant maritime offence or relevant fixed platform offence, or would be such an offence but for section 3(2), 4(5), 5(6), 6(4), 7A(2), 7B(5) or 7C(3) of this Act; and
+
+(ii) is an offence against the law of that Protocol country; and
+
+(b) any act, wherever committed, is deemed to be an offence within the jurisdiction of a Convention country that is not a Protocol country in relation to which the Extradition Act has been applied by a notification in theGazettemade under section 4 of that Act, if that act —
+
+(i) is a relevant maritime offence, or would be such an offence but for section 3(2), 4(5), 5(6) or 6(4) of this Act; and
+
+(ii) is an offence against the law of that Convention country.
+
+[Act 22 of 2015 wef 10/11/2015]
 
 ## LEGISLATIVE HISTORY
 
@@ -315,3 +467,7 @@ This Legislative History is provided for the convenience of users of the Maritim
 ||Date of commencement|3 May 2004|
 |2.|**2004 Revised Edition—Maritime Offences Act**|
 ||Date of operation|31 December 2004|
+|3.|**Act 22 of 2015—Maritime Offences (Amendment) Act 2015**|
+||Date of First Reading|11 May 2015 (Bill No. 19/2015 published on 11 May 2015)|
+||Date of Second and Third Readings|14 July 2015|
+||Date of commencement|10 November 2015|
