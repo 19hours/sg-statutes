@@ -994,6 +994,21 @@ In this Schedule, the expression “nuclear material” has the meaning given to
 
 [S 716/2014 wef 25/10/2014]
 
+Part VI
+
+ACTIONS WHICH ALSO CONSTITUTE TERRORIST ACTS
+
+
+
+
+WITH EFFECT FROM 10 NOVEMBER 2015
+
+1\. Any act or omission constituting an offence under section 7(4) or (5), 7A, 7B, 7C or 7D(3) or (4) of the Maritime Offences Act (Cap. 170B).
+
+2. Any act of violence, as defined in section 2 of the Maritime Offences Act, referred to in section 7(1) or 7D(1) of that Act.
+
+[S 652/2015 wef 10/11/2015]
+
 ## LEGISLATIVE HISTORY
 
 Terrorism (Suppression of Financing) Act
@@ -1056,6 +1071,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|7 August 2015|
 |16.|**G.N. No. S 598/2015—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 4) Order 2015**|
 ||Date of commencement|16 October 2015|
+|17.|**G.N. No. S 652/2015—Terrorism (Suppression of Financing) Act (Amendment of Second Schedule) Order 2015**|
+||Date of commencement|10 November 2015|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
