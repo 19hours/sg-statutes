@@ -1806,7 +1806,7 @@ Fenclofenac
 
 Fenetylline; its salts
 
-Fenfluramine; its salts
+Fenfluramine; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
 Fenofibrate
 
@@ -1837,6 +1837,8 @@ Flavomycin; its salts; its esters; their salts
 Flavoxate; its salts
 
 Flecainide; its salts
+
+Flibanserin; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
 Floxuridine
 
@@ -3106,7 +3108,7 @@ Phenprocoumon
 
 Phensuximide
 
-Phentermine; its salts
+Phentermine; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
 Phentolamine; its salts
 
@@ -3496,9 +3498,9 @@ Sertraline; its salts
 
 Sevoflurane
 
-Sibutramine; its salts
+Sibutramine; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
-Sildenafil; its salts
+Sildenafil; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
 Silver sulphadiazine
 
@@ -3674,7 +3676,7 @@ Tacrine; its salts
 
 Tacrolimus; its salts
 
-Tadalafil; its salts
+Tadalafil; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
 Talampicillin; its salts
 
@@ -4008,7 +4010,7 @@ Valsartan
 
 Vancomycin; its salts; its esters; their salts
 
-Vardenafil; its salts; its active derivatives
+Vardenafil; its salts; its esters and ethers; its derivatives, active principles and active derivatives; salts of its derivatives, active principles and active derivatives
 
 Vasopressins, natural and synthetic
 
@@ -4086,6 +4088,8 @@ Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
 
+[S 702/2015 wef 13/11/2015]
+
 [S 39/2013 wef 01/02/2013]
 
 [S 190/2004 wef 14/04/2004]
@@ -4119,180 +4123,228 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill published on 4 November 1938)|
 ||Date of Second and Third Readings|23 November 1938|
 ||Date of commencement|1 December 1939|
-|2.|**Ordinance 8 of 1954—Poisons (Amendment) Ordinance 1954**|
+|2.|**G. N. No. 3805/1939—The Poisons Ordinance, 1938**|
+||Date of commencement|8 December 1939|
+|3.|**G. N. No. S 165/1946—The Poisons Ordinance, 1938**|
+||Date of commencement|11 October 1946|
+|4.|**G. N. No. S 192/1948—The Poisons Ordinance, 1938**|
+||Date of commencement|9 July 1948|
+|5.|**G. N. No. S 536/1950—The Poisons Ordinance, 1938**|
+||Date of commencement|8 December 1950|
+|6.|**G. N. No. S 19/1952—The Poisons Ordinance, 1938**|
+||Date of commencement|18 January 1952|
+|7.|**G. N. No. S 206/1952—The Poisons Ordinance, 1938**|
+||Date of commencement|16 May 1952|
+|8.|**G. N. No. S 32/1954—The Poisons Ordinance, 1938**|
+||Date of commencement|29 January 1954|
+|9.|**Ordinance 8 of 1954—Poisons (Amendment) Ordinance 1954**|
 ||Date of First Reading|13 April 1954|
 |||(Bill published on 15 April 1954)|
 ||Date of Second Reading|18 May 1954|
-||Date of commencement|9 July 1954|
-|3.|**Ordinance 5 of 1956—Poisons (Amendment) Ordinance 1956**|
+||Date of commencement|29 June 1954|
+|10.|**Ordinance 5 of 1956—Poisons (Amendment) Ordinance 1956**|
 ||Date of First Reading|8 February 1956|
 |||(Bill No. 36/1956 published on 22 February 1956)|
 ||Date of Second and Third Readings|7 March 1956|
 ||Date of commencement|29 March 1956|
-|4.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
+|11.|**1955 Revised Edition—Poisons Ordinance (Chapter 146)**|
+||Date of operation|1 July 1956|
+|12.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
 ||Date of First Reading|16 July 1958|
 |||(Bill No. 158/1958 published on 22 July 1958)|
 ||Date of Second and Third Readings|10 September 1958|
 ||Date of commencement|25 September 1958|
-|5.|**1970 Revised Edition—Poisons Act 1970 (Cap. 164)**|
+|13.|**G. N. No. S 328/1955—The Poisons Ordinance, 1938**|
+||Date of commencement|27 October 1955|
+|14.|**G. N. No. S 93/1957—The Poisons Ordinance, 1938**|
+||Date of commencement|5 April 1957|
+|15.|**G. N. No. S 43/1958—The Poisons Ordinance, 1938**|
+||Date of commencement|28 February 1958|
+|16.|**G. N. No. S 121/1958—The Poisons Ordinance, 1938**|
+||Date of commencement|30 May 1958|
+|17.|**G. N. No. S 92/1959—The Poisons Ordinance**|
+||Date of commencement|20 January 1959|
+|18.|**G. N. No. S (N.S) 67/1959—The Singapore Constitution (Modification of Laws) (No. 2) Order, 1959**|
+||Date of commencement|21 August 1959|
+|19.|**G. N. No. S 213/1960—The Poisons Ordinance**|
+||Date of commencement|2 September 1960|
+|20.|**G. N. No. S 219/1961—The Poisons Ordinance**|
+||Date of commencement|22 September 1961|
+|21.|**G. N. Sp. No. S 133/1964—The Poisons (List of Substances) Notification, 1964**|
+||Date of commencement|28 August 1964|
+|22.|**G. N. Sp. No. S 144/1964—The Poisons (List of Substances) (Amendment) Notification, 1964**|
+||Date of commencement|11 September 1964|
+|23.|**G. N. Sp. No. S 153/1964—The Poisons (List of Substances) (Amendment No. 2)Notification, 1964**|
+||Date of commencement|18 September 1964|
+|24.|**G. N. Sp. No. S 211/1965—The Poisons (List of Substances) Notification, 1965**|
+||Date of commencement|17 December 1965|
+|25.|**G. N. No. S 156/1968—The Poisons (List of Substances) (Amendment) Notification, 1968**|
+||Date of commencement|7 June 1968|
+|26.|**G. N. No. S 76/1970—The Poisons (List of Substances) (Amendment) Notification, 1970**|
+||Date of commencement|6 March 1970|
+|27.|**1970 Revised Edition—Poisons Act 1970 (Cap. 164)**|
 ||Date of operation|31 May 1971|
-|6.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
+|28.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
 ||Date of First Reading|7 March 1973|
 |||(Bill No. 16/1973 published on 9 March 1973)|
 ||Date of Second and Third Readings|20 March 1973|
 ||Date of commencement|6 April 1973|
-|7.|**G. N. No. S 353/1973—Poisons (List of Substances) Notification 1973**|
+|29.|**G. N. No. S 353/1973—Poisons (List of Substances) Notification 1973**|
 ||Date of commencement|12 October 1973|
-|8.|**G. N. No. S 16/1974—Poisons (List of Substances) Notification 1974**|
+|30.|**G. N. No. S 16/1974—Poisons (List of Substances) Notification 1974**|
 ||Date of commencement|18 January 1974|
-|9.|**G. N. No. S 363/1974—Poisons (List of Substances) (No. 2) Notification 1974**|
+|31.|**G. N. No. S 363/1974—Poisons (List of Substances) (No. 2) Notification 1974**|
 ||Date of commencement|20 December 1974|
-|10.|**G. N. No. S 18/1975—Poisons (List of Substances) (Amendment) Notification 1975**|
+|32.|**G. N. No. S 18/1975—Poisons (List of Substances) (Amendment) Notification 1975**|
 ||Date of commencement|31 January 1975|
-|11.|**G. N. No. S 233/1976—Poisons (List of Substances) (Amendment) Notification 1976**|
+|33.|**G. N. No. S 233/1976—Poisons (List of Substances) (Amendment) Notification 1976**|
 ||Date of commencement|19 November 1976|
-|12.|**Act 52 of 1975—Medicines Act 1975**|
+|34.|**Act 52 of 1975—Medicines Act 1975**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|3 March 1975|
 |||(Bill No. 12/1975 published on 7 March 1975)|
 ||Date of Third Reading|20 November 1975|
 ||Date of commencement|24 June 1977 (Part VII)|
-|13.|**G. N. No. S 132/1978—Poisons (List of Substances) (Amendment) Notification 1978**|
+|35.|**G. N. No. S 132/1978—Poisons (List of Substances) (Amendment) Notification 1978**|
 ||Date of commencement|9 June 1978|
-|14.|**G. N. No. S 241/1978—Poisons (List of Substances) Notification 1978**|
+|36.|**G. N. No. S 241/1978—Poisons (List of Substances) Notification 1978**|
+||(G.N. No. S 263/1978 — Corrigendum)||
 ||Date of commencement|6 October 1978|
-|15.|**G. N. No. S 2/1980—Poisons (List of Substances) Notification 1980**|
+|37.|**G. N. No. S 2/1980—Poisons (List of Substances) Notification 1980**|
 ||Date of commencement|4 January 1980|
-|16.|**Act 14 of 1980—Poisons (Amendment) Act 1980**|
+|38.|**Act 14 of 1980—Poisons (Amendment) Act 1980**|
 ||Date of First Reading|26 February 1980|
 |||(Bill No. 3/1980 published on 29 February 1980)|
 ||Date of Second and Third Readings|17 March 1980|
 ||Date of commencement|9 May 1980|
-|17.|**G. N. No. S 186/1982—Poisons (List of Substances) Notification 1982**|
+|39.|**G. N. No. S 186/1982—Poisons (List of Substances) Notification 1982**|
 ||Date of commencement|25 June 1982|
-|18.|**G. N. No. S 279/1983—Poisons (List of Substances) Notification 1983**|
+|40.|**G. N. No. S 279/1983—Poisons (List of Substances) Notification 1983**|
 ||Date of commencement|25 November 1983|
-|19.|**G. N. No. S 201/1984—Poisons (List of Substances) (Amendment) Notification 1984**|
+|41.|**G. N. No. S 201/1984—Poisons (List of Substances) (Amendment) Notification 1984**|
 ||Date of commencement|3 August 1984|
-|20.|**G. N. No. S 205/1985—Poisons Act (Amendment of Schedule) Notification 1985**|
+|42.|**G. N. No. S 205/1985—Poisons Act (Amendment of Schedule) Notification 1985**|
 ||Date of commencement|8 August 1985|
-|21.|**G. N. No. S 342/1985—Poisons Act (Amendment of Schedule) (No. 2) Notification 1985**|
+|43.|**G. N. No. S 342/1985—Poisons Act (Amendment of Schedule) (No. 2) Notification 1985**|
 ||Date of commencement|6 December 1985|
-|22.|**G. N. No. S 211/1986—Poisons Act (Amendment of Schedule) Notification 1986**|
+|44.|**G. N. No. S 211/1986—Poisons Act (Amendment of Schedule) Notification 1986**|
 ||Date of commencement|1 October 1986|
-|23.|**1985 Revised Edition—Poisons Act**|
+|45.|**1985 Revised Edition—Poisons Act**|
 ||Date of operation|30 March 1987|
-|24.|**Act 21 of 1987—Poisons (Amendment) Act 1987**|
+|46.|**Act 21 of 1987—Poisons (Amendment) Act 1987**|
 ||Date of First Reading|20 May 1987|
 |||(Bill No. 12/1987 published on 22 May 1987)|
 ||Date of Second and Third Readings|28 July 1987|
 ||Date of commencement|11 September 1987|
-|25.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
+|47.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
 ||Date of commencement|26 February 1988|
-|26.|**G. N. No. S 82/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
+|48.|**G. N. No. S 82/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
 ||Date of commencement|11 April 1988|
-|27.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
+|49.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
 ||Date of commencement|13 January 1989|
-|28.|**1989 Revised Edition—Poisons Act**|
+|50.|**1989 Revised Edition—Poisons Act**|
 ||Date of operation|15 March 1989|
-|29.|**G. N. No. S 361/1989—Poisons Act (Amendment of Schedule) (No. 2) Notification 1989**|
+|51.|**G. N. No. S 361/1989—Poisons Act (Amendment of Schedule) (No. 2) Notification 1989**|
 ||Date of commencement|1 October 1989|
-|30.|**G. N. No. S 55/1990—Poisons Act (Amendment of Schedule) Notification 1990**|
+|52.|**G. N. No. S 55/1990—Poisons Act (Amendment of Schedule) Notification 1990**|
 ||Date of commencement|9 February 1990|
-|31.|**G. N. No. S 51/1991—Poisons Act (Amendment of Schedule) Notification 1991**|
+|53.|**G. N. No. S 51/1991—Poisons Act (Amendment of Schedule) Notification 1991**|
 ||Date of commencement|5 February 1991|
-|32.|**G. N. No. S 475/1991—Poisons Act (Amendment of Schedule) (No. 2) Notification 1991**|
+|54.|**G. N. No. S 475/1991—Poisons Act (Amendment of Schedule) (No. 2) Notification 1991**|
 ||Date of commencement|1 November 1991|
-|33.|**G. N. No. S 541/1991—Poisons Act (Amendment of Schedule) (No. 3) Notification 1991**|
+|55.|**G. N. No. S 541/1991—Poisons Act (Amendment of Schedule) (No. 3) Notification 1991**|
 ||Date of commencement|1 January 1992|
-|34.|**G. N. No. S 9/1993—Poisons Act (Amendment of Schedule) Notification 1993**|
+|56.|**G. N. No. S 9/1993—Poisons Act (Amendment of Schedule) Notification 1993**|
 ||Date of commencement|1 February 1993|
-|35.|**G. N. No. S 172/1993—Poisons Act (Amendment of Schedule) (No. 2) Notification 1993**|
+|57.|**G. N. No. S 172/1993—Poisons Act (Amendment of Schedule) (No. 2) Notification 1993**|
 ||Date of commencement|1 July 1993|
-|36.|**G. N. No. S 12/1994—Poisons Act (Amendment of Schedule) Notification 1994**|
+|58.|**G. N. No. S 12/1994—Poisons Act (Amendment of Schedule) Notification 1994**|
 ||Date of commencement|1 February 1994|
-|37.|**G. N. No. S 147/1994—Poisons Act (Amendment of Schedule) (No. 2) Notification 1994**|
+|59.|**G. N. No. S 147/1994—Poisons Act (Amendment of Schedule) (No. 2) Notification 1994**|
 ||Date of commencement|15 April 1994|
-|38.|**G. N. No. S 399/1994—Poisons Act (Amendment of Schedule) (No. 3) Notification 1994**|
+|60.|**G. N. No. S 399/1994—Poisons Act (Amendment of Schedule) (No. 3) Notification 1994**|
 ||Date of commencement|1 January 1995|
-|39.|**G. N. No. S 449/1994—Poisons Act (Amendment of Schedule) (No. 4) Notification 1994**|
+|61.|**G. N. No. S 449/1994—Poisons Act (Amendment of Schedule) (No. 4) Notification 1994**|
 ||Date of commencement|1 January 1995|
-|40.|**G. N. No. S 465/1994—Poisons Act (Amendment of Schedule) (No. 5) Notification 1994**|
+|62.|**G. N. No. S 465/1994—Poisons Act (Amendment of Schedule) (No. 5) Notification 1994**|
 ||Date of commencement|1 January 1995|
-|41.|**G. N. No. S 10/1995—Poisons Act (Amendment of Schedule) Notification 1995**|
+|63.|**G. N. No. S 10/1995—Poisons Act (Amendment of Schedule) Notification 1995**|
 ||Date of commencement|1 February 1995|
-|42.|**G. N. No. S 132/1995—Poisons Act (Amendment of Schedule) (No. 2) Notification 1995**|
+|64.|**G. N. No. S 132/1995—Poisons Act (Amendment of Schedule) (No. 2) Notification 1995**|
 ||Date of commencement|1 April 1995|
-|43.|**G. N. No. S 190/1995—Poisons Act (Amendment of Schedule) (No. 3) Notification 1995**|
+|65.|**G. N. No. S 190/1995—The Poisons Act (Amendment of Schedule) (No. 3) Notification 1995**|
+||(G.N. No. S 266/1995 — Corrigenda)||
 ||Date of commencement|28 April 1995|
-|44.|**G. N. No. S 267/1995—Poisons Act (Amendment of Schedule) (No. 4) Notification 1995**|
+|66.|**G. N. No. S 267/1995—Poisons Act (Amendment of Schedule) (No. 4) Notification 1995**|
 ||Date of commencement|1 July 1995|
-|45.|**G. N. No. S 416/1995—Poisons Act (Amendment of Schedule) (No. 5) Notification 1995**|
+|67.|**G. N. No. S 416/1995—Poisons Act (Amendment of Schedule) (No. 5) Notification 1995**|
 ||Date of commencement|1 November 1995|
-|46.|**G. N. No. S 227/1996—Poisons Act (Amendment of Schedule) Notification 1996**|
+|68.|**G. N. No. S 227/1996—Poisons Act (Amendment of Schedule) Notification 1996**|
 ||Date of commencement|17 May 1996|
-|47.|**G. N. No. S 236/1996—Poisons Act (Amendment of Schedule) (No. 2) Notification 1996**|
+|69.|**G. N. No. S 236/1996—Poisons Act (Amendment of Schedule) (No. 2) Notification 1996**|
 ||Date of commencement|1 July 1996|
-|48.|**G. N. No. S 511/1997—Poisons Act (Amendment of Schedule) Notification 1997**|
+|70.|**G. N. No. S 511/1997—Poisons Act (Amendment of Schedule) Notification 1997**|
 ||Date of commencement|1 December 1997|
-|49.|**G. N. No. S 456/1998—Poisons Act (Amendment of Schedule) Notification 1998**|
+|71.|**G. N. No. S 456/1998—Poisons Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|28 August 1998|
-|50.|**G. N. No. S 547/1998—Poisons Act (Amendment of Schedule) (No. 2) Notification 1998**|
+|72.|**G. N. No. S 547/1998—Poisons Act (Amendment of Schedule) (No. 2) Notification 1998**|
 ||Date of commencement|1 January 1999|
-|51.|**G. N. No. S 633/1998—Poisons Act (Amendment of Schedule) (No. 3) Notification 1998**|
+|73.|**G. N. No. S 633/1998—Poisons Act (Amendment of Schedule) (No. 3) Notification 1998**|
 ||Date of commencement|1 January 1999|
-|52.|**G. N. No. S 53/1999—Poisons Act (Amendment of Schedule) Notification 1999**|
+|74.|**G. N. No. S 53/1999—Poisons Act (Amendment of Schedule) Notification 1999**|
 ||Date of commencement|1 March 1999|
-|53.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
+|75.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|20 January 1999|
 |||(Bill No. 2/1999 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 April 1999|
-|54.|**G. N. No. S 280/1999—Poisons Act (Amendment of Schedule) (No. 2) Notification 1999**|
+|76.|**G. N. No. S 280/1999—Poisons Act (Amendment of Schedule) (No. 2) Notification 1999**|
 ||Date of commencement|10 June 1999|
-|55.|**1999 Revised Edition—Poisons Act**|
+|77.|**1999 Revised Edition—Poisons Act**|
 ||Date of operation|30 December 1999|
-|56.|**G. N. No. S 67/2000—Poisons Act (Amendment of Schedule) Notification 2000**|
+|78.|**G. N. No. S 67/2000—Poisons Act (Amendment of Schedule) Notification 2000**|
 ||Date of commencement|1 March 2000|
-|57.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+|79.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 January 2001|
 |||(Bill No. 3/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
-|58.|**G. N. No. S 239/2001—Poisons Act (Amendment of Schedule) Notification 2001**|
+|80.|**G. N. No. S 239/2001—Poisons Act (Amendment of Schedule) Notification 2001**|
 ||Date of commencement|1 July 2001|
-|59.|**G. N. No. S 474/2002—Poisons Act (Amendment of Schedule) Notification 2002**|
+|81.|**G. N. No. S 474/2002—Poisons Act (Amendment of Schedule) Notification 2002**|
 ||Date of commencement|16 September 2002|
-|60.|**G. N. No. S 622/2003—Poisons Act (Amendment of Schedule) Notification 2003**|
+|82.|**G. N. No. S 622/2003—Poisons Act (Amendment of Schedule) Notification 2003**|
 ||Date of commencement|1 January 2004|
-|61.|**G. N. No. S 190/2004—Poisons Act (Amendment of Schedule) Notification 2004**|
+|83.|**G. N. No. S 190/2004—Poisons Act (Amendment of Schedule) Notification 2004**|
 ||Date of commencement|14 April 2004|
-|62.|**G. N. No. S 300/2005—Poisons Act (Amendment of Schedule) Notification 2005**|
+|84.|**G. N. No. S 300/2005—Poisons Act (Amendment of Schedule) Notification 2005**|
 ||Date of commencement|1 June 2005|
-|63.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+|85.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|27 February 2007|
 |||(Bill No. 9/2007 published on 28 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
-|64.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+|86.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|27 August 2007|
 |||(Bill No. 36/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|1 September 2008|
-|65.|**G. N. No. S 305/2009—Poisons Act (Amendment of Schedule) Notification 2009**|
+|87.|**G. N. No. S 305/2009—Poisons Act (Amendment of Schedule) Notification 2009**|
 ||Date of commencement|1 July 2009|
-|66.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|88.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|67.|**G. N. No. S 39/2013—Poisons Act (Amendment of Schedule) Notification 2013**|
+|89.|**G. N. No. S 39/2013—Poisons Act (Amendment of Schedule) Notification 2013**|
 ||Date of commencement|1 February 2013|
+|90.|**G.N. No. S 702/2015—Poisons Act (Amendment of Schedule) Notification 2015**|
+||Date of commencement|13 November 2015|
 ## COMPARATIVE TABLE
 
 Poisons Act
