@@ -114,8 +114,6 @@ PRELIMINARY
 
 “Judge of the Supreme Court” includes a Judicial Commissioner;
 
-[Act 42 of 2014 wef 01/01/2015]
-
 “Law Society” means the Law Society of Singapore established under section 36 of the Legal Profession Act (Cap. 161);
 
 “Legal Service Officer” means an officer in the Singapore Legal Service;
@@ -392,11 +390,13 @@ MEMBERSHIP OF ACADEMY
 
 (c) being a foreign lawyer —
 
-(i) is registered by the Attorney-General under section 130I of the Legal Profession Act; or
+(i) is registered under section 36B or 36D of the Legal Profession Act; or
 
-(ii) is granted the approval of the Attorney-General under section 130L of the Legal Profession Act,
+[Act 40 of 2014 wef 18/11/2015]
 
-[8/2011 wef 03/05/2011]
+(ii) is granted approval under section 176(1) of the Legal Profession Act,
+
+[Act 40 of 2014 wef 18/11/2015]
 
 shall become, by virtue of this section and without election, admission or appointment by the Senate, an ordinary member of the Academy unless he is disqualified from being a member under section 16 or his membership has been terminated under section 18.
 
@@ -414,9 +414,9 @@ shall become, by virtue of this section and without election, admission or appoi
 
 [20/2009 wef 09/10/2009]
 
-(ba) being a foreign lawyer referred to in section 14(c), his registration under section 130I of the Legal Profession Act, or his approval under section 130L of that Act, is cancelled;
+(ba) being a foreign lawyer referred to in section 14(c), his registration under section 36B or 36D of the Legal Profession Act (Cap. 161), or his approval under section 176(1) of that Act, is cancelled;
 
-[8/2011 wef 03/05/2011]
+[Act 40 of 2014 wef 18/11/2015]
 
 (c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, he has been dismissed from the Faculty or School, as the case may be, for misconduct in the discharge of his duties;
 
@@ -650,3 +650,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|7 October 2014 (Bill No. 38/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
+|15.|**Act 40 of 2014—Legal Profession (Amendment) Act 2014**|
+||Date of First Reading|7 October 2014|
+|||(Bill No. 36/2014 published on 7 October 2014)|
+||Date of Second and Third Readings|4 November 2014|
+||Date of commencement|18 November 2015|
