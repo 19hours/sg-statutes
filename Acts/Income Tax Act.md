@@ -2814,7 +2814,7 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (ii) that would have taken place in Singapore but for the settlement of the dispute or withdrawal of the claim in question;
 
-[Act 2 of 2016 wef 01/14/2015]
+[Act 2 of 2016 wef 01/04/2015]
 
 (rb) the income derived during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) by an individual who is not resident in Singapore, for providing the services of a mediator for a qualifying mediation —
 
@@ -2822,7 +2822,7 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (ii) that would have taken place in Singapore but for the settlement of the dispute or withdrawal of the claim in question;
 
-[Act 2 of 2016 wef 01/14/2015]
+[Act 2 of 2016 wef 01/04/2015]
 
 (s) sums payable by way of annual bounty out of the public revenue to members of such local forces as the Minister may from time to time by order declare to be a force to which this paragraph shall apply;
 
@@ -3588,7 +3588,7 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 [Act 2 of 2016 wef 24/02/2015]
 
-“mobilisation”, in relation to a ship, means bringing the ship to a state of readiness for use in offshore oil or gas activity, and includes moving the ship to the deployment site, and outfitting and re-engineering the ship to bring it to a state of readiness for use in such activity;
+“mobilisation”, in relation to a ship, means bringing the ship to a state of readiness for use in offshore oil or gas activity, and includes moving the ship to the deployment site, and outfitting and re‑engineering the ship to bring it to a state of readiness for use in such activity;
 
 [Act 2 of 2016 wef 24/02/2015]
 
@@ -3914,17 +3914,17 @@ is the percentage which the value of equity interests of the second level entity
 
 (a) the last day of the basis period of the prescribed person for the year of assessment referred to in subsection (2), (4) or (6) (as the case may be);
 
-(b) if on a day within that basis period the prescribed person becomes an approved person under section 13X(1)(a) the day immediately before the first-mentioned day; or
+(b) if on a day within that basis period the prescribed person becomes an approved person under section 13X(1)(a) the day immediately before the first‑mentioned day; or
 
 (c) if on a day within that basis period the prescribed person becomes an approved master fund or approved feeder fund of —
 
-(i) an approved master-feeder fund structure under section 13X(1)(b);
+(i) an approved master‑feeder fund structure under section 13X(1)(b);
 
-(ii) an approved master-feeder fund-SPV structure under section 13X(1)(c); or
+(ii) an approved master‑feeder fund‑SPV structure under section 13X(1)(c); or
 
-(iii) an approved master fund-SPV structure under section 13X(1)(d),
+(iii) an approved master fund‑SPV structure under section 13X(1)(d),
 
-the day immediately before the first-mentioned day;
+the day immediately before the first‑mentioned day;
 
 [Act 2 of 2016 wef 29/05/2015]
 
@@ -4129,40 +4129,6 @@ to be approved as an approved international shipping enterprise, and the company
 [32/99; 24/2001; 37/2002; 29/2010; 22/2011; 29/2012]
 
 [Act 2 of 2016 wef 24/02/2015]
-
-(7) In this section, “qualifying special purpose vehicle”, in relation to a company referred to in paragraph (b) of the definition of “international shipping enterprise” in subsection (6) or an approved international shipping enterprise (called in this subsection the entity), means —
-
-(a) an approved company —
-
-(i) which is incorporated and resident in Singapore; and
-
-(ii) at least 50% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by —
-
-(A) the entity; or
-
-(B) a company which beneficially owns (whether directly or indirectly) at least 50% of the total number of the issued ordinary shares of the entity;
-
-(b) an approved company —
-
-(i) which is incorporated outside Singapore; and
-
-(ii) at least 25% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by the entity;
-
-(c) an approved partnership —
-
-(i) which is registered or formed outside Singapore; and
-
-(ii) of which the entity is entitled, whether directly or indirectly, to at least 25% of its income;
-
-(d) an approved company —
-
-(i) which is incorporated and resident in Singapore, and at least 50% of the total number of the issued ordinary shares of which are beneficially owned directly by another company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B); or
-
-(ii) which is incorporated outside Singapore, and at least 25% of the total number of the issued ordinary shares of which are beneficially owned directly by another company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B); or
-
-(e) an approved partnership which is registered or formed outside Singapore and one of the partners of which is a company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B), and is entitled to at least 25% of its income.
-
-[Act 2 of 2016 wef 23/02/2010]
 
 ### Exemption of income of foreign trust
 
@@ -5584,7 +5550,7 @@ except that the Minister may extend the period so specified for such further per
 
 ### Exemption of income arising from funds managed by fund manager in Singapore
 
-13X\.—(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the person, master fund, feeder fund, master-feeder fund structure, master-feeder fund-SPV structure or master fund-SPV structure, there shall be exempt from tax such income as the Minister may by regulations prescribe of —
+13X\.—(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the person, master fund, feeder fund, master‑feeder fund structure, master‑feeder fund‑SPV structure or master fund‑SPV structure, there shall be exempt from tax such income as the Minister may by regulations prescribe of —
 
 (a) an approved person arising from funds managed in Singapore by a fund manager;
 
@@ -5596,7 +5562,7 @@ except that the Minister may extend the period so specified for such further per
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(c) in relation to an approved master-feeder fund-SPV structure —
+(c) in relation to an approved master‑feeder fund‑SPV structure —
 
 (i) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund or an approved feeder fund of the structure;
 
@@ -5608,7 +5574,7 @@ arising from funds of the master fund or any feeder fund of the structure that a
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(d) in relation to an approved master fund-SPV structure —
+(d) in relation to an approved master fund‑SPV structure —
 
 (i) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund of the structure;
 
@@ -5654,11 +5620,11 @@ arising from funds of the master fund of the structure that are managed in Singa
 
 (c) where the approved person is a partner of an approved limited partnership, provide for the recovery of tax from him in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the limited partnership, including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non‑compliance of the condition;
 
-(ca) provide for the recovery of tax from a company, trustee, 1st tier SPV or 2nd tier SPV referred to in subsection (1)(b), (c) or (d) in a case where the exemption ought not to have been allowed to the person due to non-compliance with any condition imposed on the approved master-feeder fund structure, approved master-feeder fund-SPV structure or approved master fund-SPV structure, as the case may be;
+(ca) provide for the recovery of tax from a company, trustee, 1st tier SPV or 2nd tier SPV referred to in subsection (1)(b), (c) or (d) in a case where the exemption ought not to have been allowed to the person due to non‑compliance with any condition imposed on the approved master‑feeder fund structure, approved master‑feeder fund‑SPV structure or approved master fund‑SPV structure, as the case may be;
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(cb) provide for the recovery of tax from a partner of a limited partnership referred to in subsection (1)(b), (c) or (d) in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the approved master-feeder fund structure, approved master-feeder fund-SPV structure or approved master fund-SPV structure (as the case may be), including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non-compliance with the condition; and
+(cb) provide for the recovery of tax from a partner of a limited partnership referred to in subsection (1)(b), (c) or (d) in a case where the exemption ought not to have been allowed to that partner due to non‑compliance with any condition imposed on the approved master‑feeder fund structure, approved master‑feeder fund‑SPV structure or approved master fund‑SPV structure (as the case may be), including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non‑compliance with the condition; and
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -5668,11 +5634,11 @@ arising from funds of the master fund of the structure that are managed in Singa
 
 (5) In this section —
 
-“1st tier SPV”, in relation to a master-feeder fund-SPV structure or a master fund-SPV structure, means a special purpose vehicle wholly owned by the master fund of the structure;
+“1st tier SPV”, in relation to a master‑feeder fund‑SPV structure or a master fund‑SPV structure, means a special purpose vehicle wholly owned by the master fund of the structure;
 
 [Act 2 of 2016 wef 01/04/2015]
 
-“2nd tier SPV”, in relation to a master-feeder fund-SPV structure or a master fund-SPV structure, means a special purpose vehicle wholly owned by a 1st tier SPV of the structure;
+“2nd tier SPV”, in relation to a master‑feeder fund‑SPV structure or a master fund‑SPV structure, means a special purpose vehicle wholly owned by a 1st tier SPV of the structure;
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -6424,19 +6390,19 @@ does not exceed $100,000 for each year of assessment.
 
 [22/2011]
 
-[[Act 2 of 2016 wef 01/07/2015]
+[Act 2 of 2016 wef 01/07/2015]
 
 (5) Despite subsection (4), the Minister or such person as the Minister may appoint may, in any particular case, and subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenses referred to in subsection (4)(d).
 
-[[Act 2 of 2016 wef 01/07/2015]
+[Act 2 of 2016 wef 01/07/2015]
 
-(6) If the firm or company fails to comply with a condition subsequent imposed under subsection (4A) or (5), the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non compliance.
+(6) If the firm or company fails to comply with a condition subsequent imposed under subsection (4A) or (5), the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
 
-[[Act 2 of 2016 wef 01/07/2015]
+[Act 2 of 2016 wef 01/07/2015]
 
 (7) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
 
-[[Act 2 of 2016 wef 01/07/2015]
+[Act 2 of 2016 wef 01/07/2015]
 
 (8) [Deleted by Act 19 of 2013]
 
@@ -7210,17 +7176,9 @@ must not exceed $1 million for each year of assessment.
 
 [29/2012]
 
-(4) Despite subsection (3), the Minister or such person as the Minister may appoint may, in any particular case, and subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenditure referred to in subsection (3)(b).
+(4) [Deleted by Act 19 of 2013]
 
-[Act 2 of 2016 wef 01/07/2015]
-
-(5) If the firm or company fails to comply with a condition subsequent imposed under subsection (4), the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
-
-[Act 2 of 2016 wef 01/07/2015]
-
-(5A) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
-
-[Act 2 of 2016 wef 01/07/2015]
+(5) [Deleted by Act 19 of 2013]
 
 (6) Section 14B(10) shall apply, with the necessary modifications, to any firm or company to which a deduction is allowed under subsection (1).
 
@@ -7308,9 +7266,9 @@ must not exceed $1 million for each year of assessment.
 
 (13) Despite anything in this section, where it appears to the Comptroller that in any year of assessment any deduction which has been allowed under this section ought not to have been allowed, the Comptroller may, within the year of assessment or within 4 years after the expiry of that year of assessment, make such assessment or additional assessment upon the firm or company as may be necessary to make good any loss of tax.
 
-(14) If a condition subsequent imposed under subsection (6) is not complied with in respect of any deduction allowed to a firm or company under subsection (1) or part of such deduction, the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+(14) If a condition subsequent imposed under subsection (6) is not complied with in respect of any deduction allowed to a firm or company under subsection (1) or part of such deduction, the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non‑compliance.
 
-(15) If a condition subsequent imposed under subsection (11) is not complied with, the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+(15) If a condition subsequent imposed under subsection (11) is not complied with, the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non‑compliance.
 
 (16) Where a firm or company has been allowed a deduction under subsection (1) even though it is not entitled to it or a part of it by reason of subsection (12), the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the facts by reason of which the firm or company is not entitled to the deduction or part of it.
 
@@ -15033,13 +14991,11 @@ incurs or incur capital expenditure during the period from 1st April 2010 to 31s
 
 (b) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (a);
 
-(c) an acquisition made during the period from 1 April 2010 to 31 March 2015 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
 
 (i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
 
 (ii) the date of the acquisition does not fall in the same basis period of the acquiring company as the date of the acquisition referred to in paragraph (a);
-
-[Act 2 of 2016 wef 01/04/2015]
 
 (d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c) and is before 1 April 2016,
 
@@ -15158,7 +15114,7 @@ is the capital expenditure to the extent that it is not contingent consideration
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(9) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) for an acquisition referred to in subsection (4) shall be calculated in accordance with the formula
+(9) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) shall be calculated in accordance with the formula
 
 where B
 
@@ -15254,7 +15210,7 @@ the amount by which the aggregate of sub-paragraphs (i) and (ii) exceeds $100 mi
 
 (ii) the sum of all contingent consideration in respect of all such qualifying acquisitions incurred in the basis period of the acquiring company for any year of assessment subsequent to the 1st year of assessment and in any earlier year of assessment other than the 1st year of assessment,
 
-the amount by which the sum of sub-paragraphs (i) and (ii) exceeds $20 million is to be disregarded for the purposes of the deduction to be allowed under this section.
+the amount by which the sum of sub‑paragraphs (i) and (ii) exceeds $20 million is to be disregarded for the purposes of the deduction to be allowed under this section.
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -15990,7 +15946,7 @@ Provided that a deduction under this paragraph in respect of that parent or gran
 
 Deduction for voluntary contribution to medisave account
 
-(q) has made a voluntary contribution to the Central Provident Fund up to the amount allowable under the Central Provident Fund Act and has directed an amount of such contribution that is within the medisave contribution ceiling prevailing at the time when the contribution was made, to be paid to his medisave account maintained under the Central Provident Fund Act (referred to in this paragraph as relevant contribution), there shall be allowed a deduction of the amount equal to
+(q) has made a voluntary contribution to the Central Provident Fund up to the amount allowable under the Central Provident Fund Act and has directed an amount of such contribution that, together with the balance in the individual’s medisave account maintained under the Central Provident Fund Act, is within the basic healthcare sum prevailing at the time when the contribution was made, to be paid to the individual’s medisave account (referred to in this paragraph as relevant contribution), there shall be allowed a deduction of the amount equal to
 
 where A
 
@@ -16001,6 +15957,8 @@ B
 is the amount of relevant contribution that is allowed a deduction under paragraph (h).
 
 [26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 30/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011]
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (2A) In the case of an individual resident in Singapore in the year of assessment who was an operationally ready national serviceman and who —
 
@@ -16126,7 +16084,11 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 
 “approved” means approved by the Minister or such person as he may appoint;
 
-“medisave contribution ceiling”, in relation to an individual, means the maximum amount directed by the Minister under section 13(6) of the Central Provident Fund Act;
+[Deleted by Act 2 of 2016 wef 01/01/2016]
+
+“basic healthcare sum”, in relation to an individual, means the maximum amount directed by the Minister under section 13(6) of the Central Provident Fund Act;
+
+[Act 2 of 2016 wef 01/01/2016]
 
 “NOR individual” has the same meaning as in section 13N(7);
 
@@ -16830,11 +16792,11 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (a) subsection (1)(a) on or after such date as may be prescribed; and
 
+[Act 2 of 2016 wef 01/04/2015]
+
 (b) subsection (1)(b) or (ba) on or after such date as may be prescribed.
 
 [29/2010; 22/2011]
-
-[Act 2 of 2016 wef 01/04/2015]
 
 (2) In this section, “insurer” means —
 
@@ -17650,6 +17612,8 @@ except that the Minister may extend the period so specified for such further per
 
 [Act 2 of 2016 wef 24/02/2015]
 
+(c) where the approved container investment enterprise ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction against the income from such leasing shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
+
 (d) the Comptroller shall determine the manner and extent to which —
 
 (i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
@@ -17898,7 +17862,7 @@ unless the Minister otherwise allows.
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(2A) The Minister or appointed person must approve for the company one or more shipping-related support services for the purposes of subsection (1) at the time of granting the approval, and may approve for the company additional shipping-related support services during the period it is approved.
+(2A) The Minister or appointed person must approve for the company one or more shipping‑related support services for the purposes of subsection (1) at the time of granting the approval, and may approve for the company additional shipping‑related support services during the period it is approved.
 
 [Act 2 of 2016 wef 24/02/2015]
 
@@ -17930,11 +17894,11 @@ unless the Minister otherwise allows.
 
 [Act 2 of 2016 wef 24/02/2015]
 
-(5B) The Minister or appointed person must approve for the company one or more shipping-related support services for the purposes of subsection (5C) at the time of granting the extension, and may approve for the company additional shipping-related support services during the extended period of its approval.
+(5B) The Minister or appointed person must approve for the company one or more shipping‑related support services for the purposes of subsection (5C) at the time of granting the extension, and may approve for the company additional shipping‑related support services during the extended period of its approval.
 
 [Act 2 of 2016 wef 24/02/2015]
 
-(5C) Despite section 43, tax at the rate of 10% is levied and must be paid for each year of assessment upon the amount of income in subsection (5D) of an approved company derived on or after the service approval date and during the extended period of its approval under subsection (5A), from providing in or from Singapore any shipping-related support service approved for it under subsection (5B).
+(5C) Despite section 43, tax at the rate of 10% is levied and must be paid for each year of assessment upon the amount of income in subsection (5D) of an approved company derived on or after the service approval date and during the extended period of its approval under subsection (5A), from providing in or from Singapore any shipping‑related support service approved for it under subsection (5B).
 
 [Act 2 of 2016 wef 24/02/2015]
 
@@ -17942,7 +17906,7 @@ unless the Minister otherwise allows.
 
 [Act 2 of 2016 wef 24/02/2015]
 
-(5E) The approved company may, in lieu of subsection (5C), elect for the amount referred to in subsection (5F) of its income derived on or after the service approval date and during the extended period of its approval under subsection (5A), from providing in or from Singapore any shipping-related support service approved for it under subsection (5B), to be taxed at a rate of 10.5%.
+(5E) The approved company may, in lieu of subsection (5C), elect for the amount referred to in subsection (5F) of its income derived on or after the service approval date and during the extended period of its approval under subsection (5A), from providing in or from Singapore any shipping‑related support service approved for it under subsection (5B), to be taxed at a rate of 10.5%.
 
 [Act 2 of 2016 wef 24/02/2015]
 
@@ -17960,7 +17924,7 @@ unless the Minister otherwise allows.
 
 (5I) The base amount referred to in subsection (5D) is determined as follows:
 
-(a) where the approved company had provided one or more of the shipping-related support services approved for it under subsection (5B) at any time during the period of 3 years immediately before the date the extension is granted under subsection (5A), the base amount is ascertained by the following formula:
+(a) where the approved company had provided one or more of the shipping‑related support services approved for it under subsection (5B) at any time during the period of 3 years immediately before the date the extension is granted under subsection (5A), the base amount is ascertained by the following formula:
 
 where A
 
@@ -17970,7 +17934,7 @@ B
 
 is the actual number of months (a period of less than a month being reckoned as one month) during that period in which those services were provided;
 
-(b) where the company had not provided any of the shipping-related support services approved for it under subsection (5B) at any time during the period referred to in paragraph (a), the base amount is zero;
+(b) where the company had not provided any of the shipping‑related support services approved for it under subsection (5B) at any time during the period referred to in paragraph (a), the base amount is zero;
 
 (c) the Minister may in a particular case specify an amount in substitution for the amount referred to in paragraph (a) or (b).
 
@@ -18080,9 +18044,7 @@ and only services provided to an approved related company of that company shall 
 
 (c) whose operations are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of the approved company;
 
-“service approval date”, in relation to any shipping-related support service approved for an approved company under subsection (2A) or (5B), means the date the service is approved for that company under that subsection or, in the case of corporate service to be provided by the company to its approved related company, the date the related company is approved as such;
-
-[Act 2 of 2016 wef 24/02/2015]
+“service approval date”, in relation to any shipping-related support service approved for an approved company under subsection (1), means the date the service is approved for that company under that subsection or, in the case of corporate service to be provided by the company to its approved related company, the date the related company is approved as such;
 
 “ship” includes any dredger, seismic ship or any vessel used for offshore oil and gas activity;
 
@@ -18130,6 +18092,8 @@ and includes the services referred to in subsection (9);
 
 (j) prescribed ship management services;
 
+[Act 2 of 2016 wef 24/02/2015]
+
 (k) freight and logistics services in respect of a ship;
 
 (l) marine insurance;
@@ -18142,8 +18106,6 @@ and includes the services referred to in subsection (9);
 
 (p) maritime research and development;
 
-[Act 2 of 2016 wef 24/02/2015]
-
 “shipping-related support service” means any of the following:
 
 (a) ship broking;
@@ -18152,6 +18114,8 @@ and includes the services referred to in subsection (9);
 
 (c) prescribed ship management services;
 
+[Act 2 of 2016 wef 24/02/2015]
+
 (d) ship agency;
 
 (e) freight forwarding and logistics service;
@@ -18159,8 +18123,6 @@ and includes the services referred to in subsection (9);
 (f) corporate service.
 
 [22/2011]
-
-[Act 2 of 2016 wef 24/02/2015]
 
 (9) In this section, “ship broking” includes —
 
@@ -18320,7 +18282,9 @@ DEDUCTION OF TAX AT SOURCE
 
 (a) deduct therefrom tax —
 
-(i) where the person to be paid is an individual or a Hindu joint family, at the rate of 20%;
+(i) where the person to be paid is an individual or a Hindu joint family, at the rate of 22%;
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (ii) where the person to be paid is any other person, at the rate of 17%; or
 
@@ -18342,9 +18306,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine; and
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 20% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 22% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
 [1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002; 49/2004; 53/2007; 27/2009]
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (3) Where a person fails to make a deduction of tax which he is required to make under subsection (1), any amount which he fails to deduct shall be a debt due from him to the Government and shall be recoverable as such.
 
@@ -18506,9 +18472,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [7/79]
 
-(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 20% on every dollar of the interest.
+(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 22% on every dollar of the interest.
 
 [28/96; 24/2001; 37/2002; 49/2004]
+
+[Act 2 of 2016 wef 01/01/2016]
 
 ### Application of section 45 to distribution by unit trust
 
@@ -18596,7 +18564,9 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 (3) For the purposes of this section, the amount to be deducted under section 45 in respect of withdrawals from the SRS account of an SRS member —
 
-(a) under subsection (1)(a), shall be the amount computed based on the rate specified in section 43(1)(b); and
+(a) under subsection (1)(a), shall be the amount computed based on the rate of 22%; and
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (b) under subsection (1)(b), shall be the total penalty deducted by the SRS operator from the amount so withdrawn from the SRS account.
 
@@ -18606,9 +18576,11 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 [24/2001; 37/2002]
 
-(5) Where a deduction for SRS contributions has been allowed in any year to an SRS member who is not a citizen of Singapore under an assessment made under section 73(1)(b) and within that year the SRS member applies to withdraw an amount up to the amount he has contributed in that year, the SRS operator shall release the amount applied to the SRS member after deducting tax at the rate specified in section 43(1)(b) on every dollar withdrawn.
+(5) Where a deduction for SRS contributions has been allowed in any year to an SRS member who is not a citizen of Singapore under an assessment made under section 73(1)(b) and within that year the SRS member applies to withdraw an amount up to the amount he has contributed in that year, the SRS operator shall release the amount applied to the SRS member after deducting tax at the rate of 22% on every dollar withdrawn.
 
 [37/2002]
+
+[Act 2 of 2016 wef 01/01/2016]
 
 ### Approval of deduction of investment from SRS account of non-citizen
 
@@ -18616,11 +18588,15 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 (2) Before approving the deduction of the investment from the balance in the SRS account, an SRS operator shall comply with subsection (3), unless the Comptroller has waived such compliance by notice in writing to the SRS operator.
 
-(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate specified in section 43(1)(b) on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
+(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate of 22% on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (4) In subsection (3), the value of an investment shall be reckoned in accordance with the regulations made under section 10L(11).
 
-(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than that specified in section 43(1)(b), then the reference to the rate specified in section 43(1)(b) in subsection (3) shall be read as a reference to the higher or lower rate.
+(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than 22%, then the reference to the rate of 22% in subsection (3) is a reference to the higher or lower rate.
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (6) The amount of tax collected under subsection (3) shall be a debt due from the SRS operator to the Government and shall be recoverable in the manner provided in section 89.
 
@@ -23931,7 +23907,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2015|
 |||1 June 2015|
 |||1 July 2015|
-|309.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|309.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
+||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
+||Date of Second and Third Readings|29 January 2015|
+||Date of commencement|1 November 2015|
+|310.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
+||Date of commencement|1 November 2015|
+|311.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -23942,12 +23924,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||29 May 2015|
 |||1 June 2015|
 |||1 July 2015|
-|310.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
-||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
-||Date of Second and Third Readings|29 January 2015|
-||Date of commencement|1 November 2015|
-|311.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
-||Date of commencement|1 November 2015|
+|||1 January 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
