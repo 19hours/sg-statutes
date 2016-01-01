@@ -2202,37 +2202,49 @@ LICENSING OF DRIVERS
 
 ### Recognition of foreign driving licences and driving permits
 
-38\.—(1) Subject to the provisions of this Act, it shall be lawful for any of the following persons who holds a valid foreign driving licence to drive in Singapore, during the period specified in paragraph (a) or (b) (as the case may be), a motor vehicle of the class or description which the foreign driving licence authorises him to drive, notwithstanding that he does not hold a driving licence granted under this Part:
+38\.—(1) Despite not holding a valid driving licence but subject to the provisions of this Act, it shall be lawful for a holder of a valid foreign driving licence to drive in Singapore, for a period of 12 months commencing from the date of his last entry into Singapore, a motor vehicle of the class or description which the foreign driving licence authorises him to drive.
 
-(a) in the case of a person who, on or after the date of commencement of section 4 of the Road Traffic (Amendment) Act 2010, becomes a citizen or permanent resident of Singapore, a period of 3 months commencing from the date on which he is issued with a certificate of citizenship pursuant to the Constitution of the Republic of Singapore or an entry permit pursuant to the Immigration Act (Cap. 133) (as the case may be);
+(2) However, subsection (1) does not apply where the holder of the foreign driving licence —
 
-(b) in the case of a person who —
+(a) is a citizen or permanent resident of Singapore; or
 
-(i) is neither a citizen nor permanent resident of Singapore; and
+(b) is a work pass driver.
 
-(ii) is resident outside Singapore but is temporarily in Singapore,
+(3) If at any time a holder of a valid foreign driving licence becomes —
 
-a period of 12 months commencing from the date of his last entry into Singapore.
+(a) a citizen or permanent resident of Singapore; or
 
-[24/2010 wef 01/11/2010]
+(b) a work pass driver,
 
-(2) It shall be lawful for —
+then subsection (1) shall apply to that holder of a foreign driving licence for the prescribed period instead of the 12‑month period in subsection (1).
+
+(4) Despite not holding a valid driving licence, it shall be lawful for —
 
 (a) a member of a visiting force; or
 
 (b) a member of a civilian component of such visiting force,
 
-who holds a driving permit issued to him by a competent authority of the country of the visiting force to drive in Singapore a motor vehicle belonging to the country of the visiting force which is of the class or description specified in the driving permit, notwithstanding that he does not hold a driving licence granted under this Part.
+who holds a driving permit issued to him by a competent authority of the country of the visiting force to drive in Singapore a motor vehicle belonging to the country of the visiting force which is of the class or description specified in the driving permit.
 
-[1/99]
+(5) In this section —
 
-(3) In this section —
+“civilian component” and “visiting force” have the same respective meanings as in the Visiting Forces Act (Cap. 344);
 
-“permanent resident” means a person who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133);
+“permanent resident of Singapore” means a person who holds a valid entry permit under section 10 of the Immigration Act or a valid re‑entry permit under section 11 of that Act;
 
-“visiting force” and “civilian component” shall have the same meanings as in the Visiting Forces Act (Cap. 344).
+“prescribed period” means the period prescribed, starting from —
 
-[24/2010 wef 01/11/2010]
+(a) for a person referred to in subsection (3)(a), the date on which the person is granted a certificate of citizenship under the Constitution of the Republic of Singapore or an entry permit under the Immigration Act, whichever first happens; or
+
+(b) for a person referred to in subsection (3)(b), the date on which the person is issued with a work pass under the Employment of Foreign Manpower Act (Cap. 91A);
+
+“work pass driver” means the holder of a work pass issued under the Employment of Foreign Manpower Act who drives a motor vehicle carrying passengers or goods or both —
+
+(a) for hire or reward; or
+
+(b) because of or under a contract of employment.
+
+[Act 28 of 2014 wef 01/01/2016]
 
 ### Production of driving licences
 
@@ -2584,9 +2596,11 @@ such provision shall, in relation to the holder of a foreign driving licence, be
 
 [24/2010 wef 01/11/2010]
 
-(4) In this section, “holder of a foreign driving licence” means a person who holds a foreign driving licence and who is allowed by section 38(1) to drive a motor vehicle in Singapore using the foreign driving licence, but does not include any member of any visiting force or a civilian component thereof to whom section 38(2) applies.
+(4) In this section, “holder of a foreign driving licence” means a person who holds a foreign driving licence and who is allowed by section 38(1) or (3) to drive a motor vehicle in Singapore using the foreign driving licence, but does not include any member of any visiting force or a civilian component thereof to whom section 38(4) applies.
 
 [24/2010 wef 01/11/2010]
+
+[Act 28 of 2014 wef 01/01/2016]
 
 ### Rules for purposes of this Part
 
@@ -6345,6 +6359,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|4 August 2014 (Bill No. 22/2014 published on 4 August 2014)|
 ||Date of Second and Third Readings|8 September 2014|
 ||Date of commencement|1 November 2015|
+|66.|**Act 28 of 2014—Road Traffic (Amendment) Act 2014**|
+||Date of First Reading|4 August 2014 (Bill No. 22/2014 published on 4 August 2014)|
+||Date of Second and Third Readings|8 September 2014|
+||Date of commencement|1 January 2016|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
