@@ -5738,17 +5738,15 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of contribution
 
-1. Subject to paragraphs 1A to 7, with effect from 1 January 2015, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1 January 2016, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-(a) where the employee is not more than 60 years of age:
+(a) where the employee is 55 years of age and below:
 
-50 years of age and below
+First column
 
-Above 50 but not more than
-55 years of age
+Second column
 
-Above 55 but not more than
-60 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -5756,39 +5754,9 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
 
 An amount equal to 17% of the Total Wages.
-
-NIL
-
-An amount equal to 16% of the Total Wages.
-
-NIL
-
-An amount equal to 12% of the Total Wages.
 
 NIL
 
@@ -5802,29 +5770,61 @@ An amount equal to the sum of —
 
 An amount equal to 0.6 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of —
-
-(a)
-
-16% of the Total Wages; and
-
-An amount equal to 0.57 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-12% of the Total Wages; and
-
-An amount equal to 0.39 of the difference between the Total Wages and $500.
-
 (b)
 
 0.6 of the difference between the Total Wages and $500.
 
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+37% of the employee’s ordinary wages for the month subject to a maximum of $2,220; and
+
+An amount equal to the sum of —
+
+(a)
+
+20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+
 (b)
 
-0.57 of the difference between the Total Wages and $500.
+37% of the Relevant Additional Wages.
+
+(b)
+
+20% of the Relevant Additional Wages.
+
+(b) where the employee is above 55 but not more than 60 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 13% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+13% of the Total Wages; and
+
+An amount equal to 0.39 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -5836,68 +5836,29 @@ An amount equal to the sum of —
 
 (a)
 
-37% of the employee’s ordinary wages for the month subject to a maximum of $1,850; and
+26% of the employee’s ordinary wages for the month subject to a maximum of $1,560; and
 
 An amount equal to the sum of —
 
 (a)
 
-20% of the employee’s ordinary wages for the month subject to a maximum of $1,000; and
-
-An amount equal to the sum of —
-
-(a)
-
-35% of the employee’s ordinary wages for the month subject to a maximum of $1,750; and
-
-An amount equal to the sum of —
-
-(a)
-
-19% of the employee’s ordinary wages for the month subject to a maximum of $950; and
-
-An amount equal to the sum of —
-
-(a)
-
-25% of the employee’s ordinary wages for the month subject to a maximum of $1,250; and
-
-An amount equal to the sum of —
-
-(a)
-
-13% of the employee’s ordinary wages for the month subject to a maximum of $650; and
+13% of the employee’s ordinary wages for the month subject to a maximum of $780; and
 
 (b)
 
-37% of the Relevant Additional Wages.
-
-(b)
-
-20% of the Relevant Additional Wages.
-
-(b)
-
-35% of the Relevant Additional Wages.
-
-(b)
-
-19% of the Relevant Additional Wages.
-
-(b)
-
-25% of the Relevant Additional Wages.
+26% of the Relevant Additional Wages.
 
 (b)
 
 13% of the Relevant Additional Wages.
 
-(b) where the employee is above 60 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
-Above 60 but not more than
-65 years of age
+First column
 
-Above 65 years of age
+Second column
+
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -5905,25 +5866,63 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
+Exceeding $50 but not exceeding $500
+
+An amount equal to 9% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the Total Wages; and
+
+An amount equal to 0.225 of the difference between the Total Wages and $500.
+
+(b)
+
+0.225 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+16.5% of the employee’s ordinary wages for the month subject to a maximum of $990; and
+
+An amount equal to the sum of —
+
+(a)
+
+7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+
+(b)
+
+16.5% of the Relevant Additional Wages.
+
+(b)
+
+7.5% of the Relevant Additional Wages.
+
+(d) where the employee is above 65 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
 Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
 Exceeding $50 but not exceeding $500
-
-An amount equal to 8.5% of the Total Wages.
-
-NIL
 
 An amount equal to 7.5% of the Total Wages.
 
@@ -5935,21 +5934,9 @@ An amount equal to the sum of —
 
 (a)
 
-8.5% of the Total Wages; and
-
-An amount equal to 0.225 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
 7.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.225 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -5961,33 +5948,13 @@ An amount equal to the sum of —
 
 (a)
 
-16% of the employee’s ordinary wages for the month subject to a maximum of $800; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 An amount equal to the sum of —
 
 (a)
 
-7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
-
-An amount equal to the sum of —
-
-(a)
-
-12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-16% of the Relevant Additional Wages.
-
-(b)
-
-7.5% of the Relevant Additional Wages.
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
@@ -5997,19 +5964,17 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-[S 860/2014 wef 01/01/2015]
+[S 752/2015 wef 01/01/2016]
 
-1A. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1A. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-(a) where the employee is not more than 60 years of age:
+(a) where the employee is 55 years of age and below:
 
-50 years of age and below
+First column
 
-Above 50 but not more than
-55 years of age
+Second column
 
-Above 55 but not more than
-60 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6017,37 +5982,7 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
-
-An amount equal to 4% of the Total Wages.
-
-NIL
-
-An amount equal to 4% of the Total Wages.
-
-NIL
 
 An amount equal to 4% of the Total Wages.
 
@@ -6063,6 +5998,54 @@ An amount equal to the sum of —
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
 
+(b)
+
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $540; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
+(b)
+
+9% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(b) where the employee is above 55 but not more than 60 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 4% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
 An amount equal to the sum of —
 
 (a)
@@ -6070,22 +6053,6 @@ An amount equal to the sum of —
 4% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-4% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6097,37 +6064,13 @@ An amount equal to the sum of —
 
 (a)
 
-9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+9% of the employee’s ordinary wages for the month subject to a maximum of $540; and
 
 An amount equal to the sum of —
 
 (a)
 
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
@@ -6137,28 +6080,13 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b)
+(c) where the employee is above 60 but not more than 65 years of age:
 
-9% of the Relevant Additional Wages.
+First column
 
-(b)
+Second column
 
-5% of the Relevant Additional Wages.
-
-(b)
-
-9% of the Relevant Additional Wages.
-
-(b)
-
-5% of the Relevant Additional Wages.
-
-(b) where the employee is above 60 years of age:
-
-Above 60 but not more than
-65 years of age
-
-Above 65 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6166,25 +6094,7 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
 Exceeding $50 but not exceeding $500
-
-An amount equal to 3.5% of the Total Wages.
-
-NIL
 
 An amount equal to 3.5% of the Total Wages.
 
@@ -6200,6 +6110,54 @@ An amount equal to the sum of —
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
 
+(b)
+
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $510; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
+(b)
+
+8.5% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(d) where the employee is above 65 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 3.5% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
 An amount equal to the sum of —
 
 (a)
@@ -6212,35 +6170,19 @@ An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 0.15 of the difference between the Total Wages and $500.
 
-(b)
-
-0.15 of the difference between the Total Wages and $500.
-
 Exceeding $750
 
 An amount equal to the sum of —
 
 (a)
 
-8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $510; and
 
 An amount equal to the sum of —
 
 (a)
 
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
@@ -6250,27 +6192,17 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b)
+[S 752/2015 wef 01/01/2016]
 
-8.5% of the Relevant Additional Wages.
+1B. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-(b)
+(a) where the employee is 55 years of age and below:
 
-5% of the Relevant Additional Wages.
+First column
 
-[S 860/2014 wef 01/01/2015]
+Second column
 
-1B. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
-
-(a) where the employee is not more than 60 years of age:
-
-50 years of age and below
-
-Above 50 but not more than
-55 years of age
-
-Above 55 but not more than
-60 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6278,37 +6210,63 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
 
 An amount equal to 9% of the Total Wages.
 
 NIL
 
-An amount equal to 9% of the Total Wages.
+Exceeding $500 but not exceeding $750
 
-NIL
+An amount equal to the sum of —
+
+(a)
+
+9% of the Total Wages; and
+
+An amount equal to 0.45 of the difference between the Total Wages and $500.
+
+(b)
+
+0.45 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+24% of the employee’s ordinary wages for the month subject to a maximum of $1,440; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $900; and
+
+(b)
+
+24% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b) where the employee is above 55 but not more than 60 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
 
 An amount equal to 6% of the Total Wages.
 
@@ -6320,33 +6278,9 @@ An amount equal to the sum of —
 
 (a)
 
-9% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
 6% of the Total Wages; and
 
 An amount equal to 0.375 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6358,53 +6292,13 @@ An amount equal to the sum of —
 
 (a)
 
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+18.5% of the employee’s ordinary wages for the month subject to a maximum of $1,110; and
 
 An amount equal to the sum of —
 
 (a)
 
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-24% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-18.5% of the employee’s ordinary wages for the month subject to a maximum of $925; and
-
-An amount equal to the sum of —
-
-(a)
-
-12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-(b)
-
-24% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-24% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 (b)
 
@@ -6414,12 +6308,13 @@ An amount equal to the sum of —
 
 12.5% of the Relevant Additional Wages.
 
-(b) where the employee is above 60 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
-Above 60 but not more than
-65 years of age
+First column
 
-Above 65 years of age
+Second column
+
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6427,25 +6322,7 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
 Exceeding $50 but not exceeding $500
-
-An amount equal to 3.5% of the Total Wages.
-
-NIL
 
 An amount equal to 3.5% of the Total Wages.
 
@@ -6461,6 +6338,54 @@ An amount equal to the sum of —
 
 An amount equal to 0.225 of the difference between the Total Wages and $500.
 
+(b)
+
+0.225 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+11% of the employee’s ordinary wages for the month subject to a maximum of $660; and
+
+An amount equal to the sum of —
+
+(a)
+
+7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+
+(b)
+
+11% of the Relevant Additional Wages.
+
+(b)
+
+7.5% of the Relevant Additional Wages.
+
+(d) where the employee is above 65 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 3.5% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
 An amount equal to the sum of —
 
 (a)
@@ -6468,10 +6393,6 @@ An amount equal to the sum of —
 3.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.225 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6483,33 +6404,13 @@ An amount equal to the sum of —
 
 (a)
 
-11% of the employee’s ordinary wages for the month subject to a maximum of $550; and
+8.5% of the employee’s ordinary wages for the month subject to a maximum of $510; and
 
 An amount equal to the sum of —
 
 (a)
 
-7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
-
-An amount equal to the sum of —
-
-(a)
-
-8.5% of the employee’s ordinary wages for the month subject to a maximum of $425; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-11% of the Relevant Additional Wages.
-
-(b)
-
-7.5% of the Relevant Additional Wages.
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
@@ -6519,19 +6420,17 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-[S 860/2014 wef 01/01/2015]
+[S 752/2015 wef 01/01/2016]
 
-1C. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1C. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-(a) where the employee is not more than 60 years of age:
+(a) where the employee is 55 years of age and below:
 
-50 years of age and below
+First column
 
-Above 50 but not more than
-55 years of age
+Second column
 
-Above 55 but not more than
-60 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6539,39 +6438,9 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
 
 An amount equal to 17% of the Total Wages.
-
-NIL
-
-An amount equal to 16% of the Total Wages.
-
-NIL
-
-An amount equal to 12% of the Total Wages.
 
 NIL
 
@@ -6585,29 +6454,61 @@ An amount equal to the sum of —
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of —
-
-(a)
-
-16% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
-12% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
 (b)
 
 0.15 of the difference between the Total Wages and $500.
 
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+22% of the employee’s ordinary wages for the month subject to a maximum of $1,320; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
 (b)
 
-0.15 of the difference between the Total Wages and $500.
+22% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(b) where the employee is above 55 but not more than 60 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 13% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+13% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6619,68 +6520,29 @@ An amount equal to the sum of —
 
 (a)
 
-22% of the employee’s ordinary wages for the month subject to a maximum of $1,100; and
+18% of the employee’s ordinary wages for the month subject to a maximum of $1,080; and
 
 An amount equal to the sum of —
 
 (a)
 
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-21% of the employee’s ordinary wages for the month subject to a maximum of $1,050; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-17% of the employee’s ordinary wages for the month subject to a maximum of $850; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
-22% of the Relevant Additional Wages.
+18% of the Relevant Additional Wages.
 
 (b)
 
 5% of the Relevant Additional Wages.
 
-(b)
+(c) where the employee is above 60 but not more than 65 years of age:
 
-21% of the Relevant Additional Wages.
+First column
 
-(b)
+Second column
 
-5% of the Relevant Additional Wages.
-
-(b)
-
-17% of the Relevant Additional Wages.
-
-(b)
-
-5% of the Relevant Additional Wages.
-
-(b) where the employee is above 60 years of age:
-
-Above 60 but not more than
-65 years of age
-
-Above 65 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6688,27 +6550,9 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
 Exceeding $50 but not exceeding $500
 
-An amount equal to 8.5% of the Total Wages.
-
-NIL
-
-An amount equal to 7.5% of the Total Wages.
+An amount equal to 9% of the Total Wages.
 
 NIL
 
@@ -6718,9 +6562,57 @@ An amount equal to the sum of —
 
 (a)
 
-8.5% of the Total Wages; and
+9% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
+
+(b)
+
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+14% of the employee’s ordinary wages for the month subject to a maximum of $840; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
+(b)
+
+14% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(d) where the employee is above 65 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 7.5% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
@@ -6734,43 +6626,19 @@ An amount equal to 0.15 of the difference between the Total Wages and $500.
 
 0.15 of the difference between the Total Wages and $500.
 
-(b)
-
-0.15 of the difference between the Total Wages and $500.
-
 Exceeding $750
 
 An amount equal to the sum of —
 
 (a)
 
-13.5% of the employee’s ordinary wages for the month subject to a maximum of $675; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 An amount equal to the sum of —
 
 (a)
 
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-An amount equal to the sum of —
-
-(a)
-
-12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-13.5% of the Relevant Additional Wages.
-
-(b)
-
-5% of the Relevant Additional Wages.
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
@@ -6780,19 +6648,17 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-[S 860/2014 wef 01/01/2015]
+[S 752/2015 wef 01/01/2016]
 
-1D. Subject to paragraphs 1E to 7, with effect from 1 January 2015, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1D. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-(a) where the employee is not more than 60 years of age:
+(a) where the employee is 55 years of age and below:
 
-50 years of age and below
+First column
 
-Above 50 but not more than
-55 years of age
+Second column
 
-Above 55 but not more than
-60 years of age
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6800,39 +6666,9 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
 Exceeding $50 but not exceeding $500
 
 An amount equal to 17% of the Total Wages.
-
-NIL
-
-An amount equal to 16% of the Total Wages.
-
-NIL
-
-An amount equal to 12% of the Total Wages.
 
 NIL
 
@@ -6846,29 +6682,61 @@ An amount equal to the sum of —
 
 An amount equal to 0.45 of the difference between the Total Wages and $500.
 
-An amount equal to the sum of —
+(b)
 
-(a)
+0.45 of the difference between the Total Wages and $500.
 
-16% of the Total Wages; and
-
-An amount equal to 0.45 of the difference between the Total Wages and $500.
+Exceeding $750
 
 An amount equal to the sum of —
 
 (a)
 
-12% of the Total Wages; and
+32% of the employee’s ordinary wages for the month subject to a maximum of $1,920; and
+
+An amount equal to the sum of —
+
+(a)
+
+15% of the employee’s ordinary wages for the month subject to a maximum of $900; and
+
+(b)
+
+32% of the Relevant Additional Wages.
+
+(b)
+
+15% of the Relevant Additional Wages.
+
+(b) where the employee is above 55 but not more than 60 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 13% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+13% of the Total Wages; and
 
 An amount equal to 0.375 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
-
-(b)
-
-0.45 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -6880,68 +6748,29 @@ An amount equal to the sum of —
 
 (a)
 
-32% of the employee’s ordinary wages for the month subject to a maximum of $1,600; and
+25.5% of the employee’s ordinary wages for the month subject to a maximum of $1,530; and
 
 An amount equal to the sum of —
 
 (a)
 
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-31% of the employee’s ordinary wages for the month subject to a maximum of $1,550; and
-
-An amount equal to the sum of —
-
-(a)
-
-15% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-An amount equal to the sum of —
-
-(a)
-
-24.5% of the employee’s ordinary wages for the month subject to a maximum of $1,225; and
-
-An amount equal to the sum of —
-
-(a)
-
-12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 (b)
 
-32% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-31% of the Relevant Additional Wages.
-
-(b)
-
-15% of the Relevant Additional Wages.
-
-(b)
-
-24.5% of the Relevant Additional Wages.
+25.5% of the Relevant Additional Wages.
 
 (b)
 
 12.5% of the Relevant Additional Wages.
 
-(b) where the employee is above 60 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
-Above 60 but not more than
-65 years of age
+First column
 
-Above 65 years of age
+Second column
+
+Third column
 
 Total amount of the employee’s wages for the calendar month
 
@@ -6949,25 +6778,63 @@ Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
+Exceeding $50 but not exceeding $500
+
+An amount equal to 9% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the Total Wages; and
+
+An amount equal to 0.225 of the difference between the Total Wages and $500.
+
+(b)
+
+0.225 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+16.5% of the employee’s ordinary wages for the month subject to a maximum of $990; and
+
+An amount equal to the sum of —
+
+(a)
+
+7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+
+(b)
+
+16.5% of the Relevant Additional Wages.
+
+(b)
+
+7.5% of the Relevant Additional Wages.
+
+(d) where the employee is above 65 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
 Contributions payable by the employer for the calendar month
 
 Amount recoverable from the employee’s wages for the calendar month
 
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
 Exceeding $50 but not exceeding $500
-
-An amount equal to 8.5% of the Total Wages.
-
-NIL
 
 An amount equal to 7.5% of the Total Wages.
 
@@ -6979,21 +6846,9 @@ An amount equal to the sum of —
 
 (a)
 
-8.5% of the Total Wages; and
-
-An amount equal to 0.225 of the difference between the Total Wages and $500.
-
-An amount equal to the sum of —
-
-(a)
-
 7.5% of the Total Wages; and
 
 An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.225 of the difference between the Total Wages and $500.
 
 (b)
 
@@ -7005,33 +6860,13 @@ An amount equal to the sum of —
 
 (a)
 
-16% of the employee’s ordinary wages for the month subject to a maximum of $800; and
+12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
 
 An amount equal to the sum of —
 
 (a)
 
-7.5% of the employee’s ordinary wages for the month subject to a maximum of $375; and
-
-An amount equal to the sum of —
-
-(a)
-
-12.5% of the employee’s ordinary wages for the month subject to a maximum of $625; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $250; and
-
-(b)
-
-16% of the Relevant Additional Wages.
-
-(b)
-
-7.5% of the Relevant Additional Wages.
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
 
 (b)
 
@@ -7041,7 +6876,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-[S 860/2014 wef 01/01/2015]
+[S 752/2015 wef 01/01/2016]
 
 1E\. Subject to paragraphs 1F to 7, where a foreign employee becomes a permanent resident after 1st March 2009 but before 1st March 2011, or where a person becomes a permanent resident after 1st March 2009 but before 1st March 2011 and subsequently becomes an employee, the contributions payable in respect of that employee during the period beginning on 1st March 2011 and ending on the last day of the second anniversary month, shall be in accordance with the rates of contributions set out in paragraphs 1A and 1B.
 
@@ -7101,21 +6936,17 @@ the applicable amount less —
 
 4A. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
 
-(a) for the year beginning 1st January 2011, the amount of ordinary wages for any month which is in excess of —
+(a) for the year 2015, the amount of ordinary wages for any month which is in excess of $5,000 is to be disregarded; and
 
-(i) $4,500 for the months of January to August; and
+(b) for the year 2016 and every subsequent year, the amount of ordinary wages for any month which is in excess of $6,000 is to be disregarded.
 
-(ii) $5,000 for the months of September to December,
-
-shall be disregarded; and
-
-(b) for the year beginning 1st January 2012 and every subsequent year, the amount of ordinary wages for any month which is in excess of $5,000 shall be disregarded.
+[S 752/2015 wef 01/01/2016]
 
 5. For the purpose of this Schedule —
 
-(a) a person is deemed to have attained 50, 55, 60 or 65 years of age on the fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of the person’s birth and the contributions payable in respect of an employee above 50, 55, 60 or 65 years of age are payable from the first day of the month following the month in which the employee attains that age;
+(a) a person is deemed to have attained 55, 60 or 65 years of age on the fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of the person’s birth and the contributions payable in respect of an employee above 55, 60 or 65 years of age are payable from the first day of the month following the month in which the employee attains that age;
 
-[S 860/2014 wef 01/01/2015]
+[S 752/2015 wef 01/01/2016]
 
 (b) the contribution payable by the employer shall be rounded off to the nearest dollar except where the fraction of a dollar is 50 cents, it shall be regarded as a dollar;
 
@@ -7123,11 +6954,9 @@ shall be disregarded; and
 
 (d) “additional wages” means any remuneration other than ordinary wages;
 
-(da) “applicable amount” —
+(da) “applicable amount”, in respect of the year 2016 and every subsequent year, means the sum of $102,000;
 
-(i) in respect of the year beginning 1st January 2011, means the sum of $79,333; and
-
-(ii) in respect of the year beginning 1st January 2012 and every subsequent year, means the sum of $85,000;
+[S 752/2015 wef 01/01/2016]
 
 (db) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
 
@@ -8309,6 +8138,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|29 January 2015|
 ||Date of commencement|1 November 2015|
+|199.|**G.N. No. S 752/2015—Central Provident Fund Act (Amendment of First Schedule) Notification 2015**|
+||Date of commencement|1 January 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
