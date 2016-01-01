@@ -2370,9 +2370,11 @@ Multiplying factor
 
 48.
 
-(2) The compensation payable under this paragraph shall in no case be more than $170,000 or be less than $57,000.
+(2) The compensation payable under this paragraph shall in no case be more than $204,000 or be less than $69,000.
 
 [S 200/2012 wef 01/06/2012]
+
+[S 586/2015 wef 01/01/2016]
 
 2.—(1) Where permanent total incapacity results from the injury, the amount of compensation shall be a lump sum which shall be obtained by multiplying the monthly earnings of the employee by the appropriate factor in the second column of the following Table according to the age on the next birthday of the employee at the time of the accident as specified in the first column thereof:
 
@@ -2598,9 +2600,11 @@ Multiplying factor
 
 72.
 
-(2) The compensation payable under this paragraph shall in no case be more than $218,000 or be less than $73,000.
+(2) The compensation payable under this paragraph shall in no case be more than $262,000 or be less than $88,000.
 
 [S 200/2012 wef 01/06/2012]
+
+[S 586/2015 wef 01/01/2016]
 
 (3) Notwithstanding sub-paragraph (2), where the injured employee is certified by a medical practitioner to have suffered from permanent total incapacity, additional compensation shall be paid amounting to one quarter of the amount which is otherwise payable under this paragraph.
 
@@ -2624,15 +2628,33 @@ Multiplying factor
 
 (a) the cost of medical treatment received by the employee within a period of one year after the happening of the accident causing the injury; or
 
-(b) $30,000 per accident per employee.
+(b) $36,000 per accident per employee.
 
 [S 200/2012 wef 01/06/2012]
 
-(2) For the avoidance of doubt, the cost of medical treatment shall include, but is not limited to, the charges in connection with an emergency medical transport for the conveyance of an employee to receive medical treatment, the fees for medical reports as required for the purpose of this Act, the charges for physiotherapy and occupational and speech therapy, and the cost of medicines and artificial limbs and surgical appliances.
+[S 586/2015 wef 01/01/2016]
 
-[16/90; S 447/95; 5/2008]
+To avoid doubt, the cost of medical treatment includes, but is not limited to —
 
-[S 200/2012 wef 01/06/2012]
+(2)(a) the charges in connection with an emergency medical transport for the conveyance of an injured employee to receive medical treatment;
+
+(b)
+
+the fees for medical reports required for the purposes of this Act;
+
+(c)
+
+the charges for physiotherapy and occupational and speech therapy;
+
+(d)
+
+the charges for case management, psychotherapy for the treatment of post‑traumatic stress disorder, functional capacity evaluation and worksite assessment, required for the purposes of rehabilitating and enabling an injured employee to return to work; and
+
+(e)
+
+the cost of medicines, artificial limbs and surgical appliances.
+
+[S 586/2015 wef 01/01/2016]
 
 FOURTH SCHEDULE
 
@@ -2721,3 +2743,5 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of First Reading|11 November 2013 (Bill No. 27/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 April 2014|
+|16.|**G.N. No. S 586/2015—Work Injury Compensation Act (Amendment of Third Schedule) Order 2015**|
+||Date of commencement|1 January 2016|
