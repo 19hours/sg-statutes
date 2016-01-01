@@ -56,6 +56,8 @@
 
 - [22 Holding out as financial adviser](#Holding-out-as-financial-adviser)
 
+- [22A Regulation of payment, etc., of remuneration](#Regulation-of-payment-etc-of-remuneration)
+
 - [23 Exempt financial advisers and their representatives](#Exempt-financial-advisers-and-their-representatives)
 
 - [23A Annual fees payable by exempt financial advisers and certain representatives](#Annual-fees-payable-by-exempt-financial-advisers-and-certain-representatives)
@@ -124,9 +126,11 @@
 
 - [37 Business conduct requirements for appointed and provisional representatives](#Business-conduct-requirements-for-appointed-and-provisional-representatives)
 
-- [38 (Repealed)](#Repealed)
+[**Division 5  Remuneration**](#Division-5--Remuneration)
 
-- [39 (Repealed)](#Repealed)
+- [38 Remuneration framework for representatives and supervisors](#Remuneration-framework-for-representatives-and-supervisors)
+
+- [39 Independent sales audit unit](#Independent-sales-audit-unit)
 
 - [40 (Repealed)](#Repealed)
 
@@ -165,6 +169,14 @@
 - [54 Offence to destroy, conceal, alter, etc., records](#Offence-to-destroy-conceal-alter-etc-records)
 
 - [55 Safeguarding of records by licensed financial adviser](#Safeguarding-of-records-by-licensed-financial-adviser)
+
+[**Part IVA PROHIBITED BUSINESSES**](#Part-IVA)
+
+- [55A Prohibited businesses of licensed financial advisers in Singapore](#Prohibited-businesses-of-licensed-financial-advisers-in-Singapore)
+
+- [55B Prohibition against acting for financial adviser for prohibited businesses](#Prohibition-against-acting-for-financial-adviser-for-prohibited-businesses)
+
+- [55C Prohibition against representative engaging in employment, etc., outside scope of appointment](#Prohibition-against-representative-engaging-in-employment-etc-outside-scope-of-appointment)
 
 [**Part V POWERS OF AUTHORITY**](#Part-V)
 
@@ -211,6 +223,16 @@
 - [70 Inspection by Authority](#Inspection-by-Authority)
 
 - [70A Confidentiality of inspection reports](#Confidentiality-of-inspection-reports)
+
+[**Division 2A  Inspection Powers of Foreign Regulatory Authority**](#Division-2A--Inspection-Powers-of-Foreign-Regulatory-Authority)
+
+- [70B Application of this Division](#Application-of-this-Division)
+
+- [70C Inspection by foreign regulatory authority](#Inspection-by-foreign-regulatory-authority)
+
+- [70D Duty of specified financial adviser under inspection](#Duty-of-specified-financial-adviser-under-inspection)
+
+- [70E Confidentiality of inspection report by foreign regulatory authority](#Confidentiality-of-inspection-report-by-foreign-regulatory-authority)
 
 [**Division 3  Investigative Powers of Authority**](#Division-3--Investigative-Powers-of-Authority)
 
@@ -354,9 +376,11 @@ REVISED EDITION 2007
 
 (31st March 2007)
 
-An Act to regulate financial advisers and their representatives, and for other purposes relating thereto or connected therewith.
+An Act to regulate financial advisers and their representatives and supervisors, and for other purposes relating thereto or connected therewith.
 
 [2/2005]
+
+[Act 18 of 2015 wef 01/01/2016]
 
 [6th August 2002: Section 105 ;
 
@@ -452,6 +476,14 @@ but does not include such contract or class of contracts as the Authority may pr
 
 “futures exchange” has the same meaning as in section 2(1) of the Securities and Futures Act;
 
+“independent sales audit unit”, in relation to a licensed financial adviser, means a unit of the licensed financial adviser which —
+
+(a) audits the quality of the provision of financial advisory services by representatives of the licensed financial adviser; and
+
+(b) is independent from all units of the licensed financial adviser which provide financial advisory services;
+
+[Act 18 of 2015 wef 01/01/2016]
+
 “investment product” means —
 
 (a) any capital markets product as defined in section 2(1) of the Securities and Futures Act;
@@ -532,7 +564,19 @@ but does not include such contract or class of contracts as the Authority may pr
 
 [1/2009 wef 26/11/2010]
 
+“supervisor”, in relation to a financial adviser, means any person (by whatever name described) who —
+
+(a) is in the direct employment of, is acting for, or has an arrangement with the financial adviser; and
+
+(b) is responsible, whether directly or indirectly, for the supervision or management of the conduct and performance of any representative of the financial adviser or another supervisor;
+
+[Act 18 of 2015 wef 01/01/2016]
+
 “trading in futures contracts” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+“unit” means a group of individuals carrying out a common activity of a licensed financial adviser, each of whom is directly employed by, is acting for, or has an arrangement with the licensed financial adviser;
+
+[Act 18 of 2015 wef 01/01/2016]
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -1162,6 +1206,64 @@ from using the words “life insurance broker” together with the word “repre
 
 [Insurance Intermediaries, s. 13]
 
+### Regulation of payment, etc., of remuneration
+
+22A\.—(1) A licensed financial adviser or an exempt financial adviser, or a representative or supervisor of a licensed financial adviser or an exempt financial adviser must not request or demand payment of, or accept any remuneration, in relation to —
+
+(a) the provision of any financial advisory service in connection with any type of investment product; or
+
+(b) the sale of any type of investment product following the provision of any financial advisory service,
+
+except in accordance with regulations made under section 104 or a written notice issued by the Authority.
+
+(2) A licensed financial adviser or an exempt financial adviser must not pay another licensed financial adviser or exempt financial adviser, or a representative or supervisor of the firstmentioned licensed financial adviser or exempt financial adviser, or of another licensed financial adviser or exempt financial adviser, any remuneration in relation to —
+
+(a) the provision of any financial advisory service in connection with any type of investment product; or
+
+(b) the sale of any type of investment product following the provision of any financial advisory service,
+
+except in accordance with regulations made under section 104 or a written notice issued by the Authority.
+
+(3) The regulations or written notice referred to in subsection (1) or (2) may prescribe or specify the following:
+
+(a) the type and amount of the remuneration which may be payable in any particular period;
+
+(b) how the payment is to be made.
+
+(4) Subsections (1) and (2) apply only to payment of remuneration which accrues —
+
+(a) on or after the date of commencement of section 6 of the Financial Advisers (Amendment) Act 2015 (called in this section the commencement date); and
+
+(b) under any agreement or arrangement whether made before, on or after the commencement date.
+
+(5) Any person required to comply with subsection (1) or (2) must do so despite —
+
+(a) any written law in force on the commencement date or rule of law to the contrary; or
+
+(b) any agreement or arrangement entered into before, on or after the commencement date.
+
+(6) Any person who complies with subsection (1) or (2) is not to be treated as having breached —
+
+(a) any rule of law or written law referred to in subsection (5)(a); or
+
+(b) any agreement or arrangement referred to in subsection (5)(b) which was entered into before the commencement date,
+
+and no such agreement or arrangement is taken to be brought to an end by frustration solely by reason of any act done in compliance with subsection (1) or (2), or any regulation or written notice referred to in that subsection.
+
+(7) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
+
+(8) A written notice issued under this section need not be published in theGazette.
+
+(9) In this section, “remuneration” includes —
+
+(a) any monetary commission, incentive, benefit or reward;
+
+(b) any non-monetary incentive, benefit or reward; and
+
+(c) such other consideration as may be prescribed under section 104 or specified by the Authority by written notice.
+
+[Act 18 of 2015 wef 01/01/2016]
+
 ### Exempt financial advisers and their representatives
 
 23\.—(1) Subject to subsection (10), the following persons shall be exempt from holding a financial adviser’s licence to act as a financial adviser in Singapore in respect of any financial advisory service:
@@ -1314,6 +1416,20 @@ Representatives
 
 (ii) the manner in which the first-mentioned person provides that type of financial advisory service is the same as the manner in which the exempt financial adviser (in his capacity as such exempt financial adviser) provides that type of financial advisory service.
 
+(1A) Without prejudice to subsection (1), a person must not act as a representative or hold himself out as doing so, if the person is concurrently engaged in, whether or not for remuneration —
+
+(a) any employment with another person; or
+
+(b) any business, trade, profession or vocation, whether for himself or another person,
+
+which does not involve the person performing any financial advisory service.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+(1B) Subsection (1A) does not apply if the person complies with the conditions and requirements prescribed under section 104 or specified by the Authority by written notice, when engaging in such employment, business, trade, profession or vocation.
+
+[Act 18 of 2015 wef 01/01/2016]
+
 (2) The Authority may exempt any person or class of persons from subsection (1), subject to such conditions or restrictions as may be imposed by the Authority.
 
 (3) A principal shall not permit any individual to provide any type of financial advisory service on its behalf unless —
@@ -1326,9 +1442,39 @@ Representatives
 
 (ii) the manner in which the individual provides that type of financial advisory service is the same as the manner in which the exempt financial adviser (in his capacity as an exempt financial adviser) provides that type of financial advisory service.
 
+(3A) Without prejudice to subsection (3), a licensed financial adviser in Singapore or an exempt financial adviser in Singapore must not appoint as its appointed representative or provisional representative an individual whom the financial adviser knows or has reasonable grounds to believe, is concurrently engaged in, whether or not for any remuneration —
+
+(a) any employment with any person; or
+
+(b) any business, trade, profession or vocation, whether for himself or another person,
+
+which does not involve the individual performing any financial advisory service.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+(3B) Subsection (3A) does not apply if the licensed financial adviser or exempt financial adviser is satisfied that the criteria prescribed under section 104 or specified by the Authority by written notice for the purposes of this subsection have been satisfied.
+
+[Act 18 of 2015 wef 01/01/2016]
+
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
 (5) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) A person who contravenes subsection (1A) or (3A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $12,500.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+(7) A written notice issued under this section need not be published in theGazette.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+(8) In this section, “financial adviser in Singapore” means —
+
+(a) a financial adviser which is incorporated in Singapore; or
+
+(b) in the case of a financial adviser incorporated outside Singapore, the branches or offices of the financial adviser located within Singapore.
+
+[Act 18 of 2015 wef 01/01/2016]
 
 ### Appointed representative
 
@@ -2138,9 +2284,93 @@ Appointed and Provisional Representatives
 
 [1/2009 wef 26/11/2010]
 
-38\. [Deleted by Act 1/2009 wef 26/11/2010]
+Division 5 —
 
-39\. [Deleted by Act 1/2009 wef 26/11/2010]
+Remuneration
+
+### Remuneration framework for representatives and supervisors
+
+38\.—(1) A licensed financial adviser must establish and maintain a remuneration framework in conformity with subsection (2) for the purpose of —
+
+(a) reviewing and assessing the performance of its representatives and its supervisors; and
+
+(b) determining the remuneration of its representatives and supervisors.
+
+(2) Every remuneration framework in respect of representatives and supervisors of a licensed financial adviser must contain terms consistent with the requirements prescribed under section 104 or specified by the Authority by written notice, from time to time.
+
+(3) A licensed financial adviser must ensure that every agreement or arrangement entered into between the licensed financial adviser and each of its representatives or supervisors on or after the date of commencement of section 10 of the Financial Advisers (Amendment) Act 2015 (called in this section the commencement date) does not contain terms which are inconsistent with the remuneration framework referred to in subsection (1).
+
+(4) A licensed financial adviser must —
+
+(a) review and assess the performance, and determine the remuneration of its representatives and supervisors; and
+
+(b) pay remuneration accruing on or after the commencement date to its representatives and supervisors,
+
+in accordance with the remuneration framework referred to in subsection (1).
+
+(5) This section applies despite —
+
+(a) any written law in force on the commencement date or rule of law to the contrary; or
+
+(b) any agreement or arrangement entered into before, on or after the commencement date.
+
+(6) In carrying out any act in accordance with the remuneration framework referred to in subsection (1), the licensed financial adviser is not to be treated as having —
+
+(a) breached any rule of law or written law referred to in subsection (5)(a); or
+
+(b) breached any agreement or arrangement referred to in subsection (5)(b) entered into before the commencement date,
+
+and no such agreement or arrangement is taken to be brought to an end by frustration solely by reason of any act done in compliance with the remuneration framework or any requirements prescribed or specified under subsection (2).
+
+(7) Any licensed financial adviser which contravenes subsection (1), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
+
+(8) The Authority may by regulations under section 104 prescribe —
+
+(a) the persons to whom this section does not apply; and
+
+(b) the circumstances in which this section does not apply.
+
+(9) A written notice issued under this section need not be published in theGazette.
+
+(10) In this section, “remuneration” includes —
+
+(a) any monetary commission, incentive, benefit or reward;
+
+(b) any non-monetary incentive, benefit or reward; and
+
+(c) such other consideration as may be prescribed under section 104 or specified by the Authority by written notice.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Independent sales audit unit
+
+39\.—(1) A licensed financial adviser must have an independent sales audit unit comprising only individuals who have the qualification or experience and perform the duties prescribed under section 104 or specified by the Authority by written notice.
+
+(2) The licensed financial adviser must ensure that the independent sales audit unit reports only to —
+
+(a) the board of directors and chief executive officer of the licensed financial adviser; or
+
+(b) such other unit of the licensed financial adviser determined by the board of directors or the chief executive officer, which is independent from all units of the licensed financial adviser which provide financial advisory services.
+
+(3) The licensed financial adviser must ensure that the independent sales audit unit —
+
+(a) audits the quality of the financial advisory services provided by the representatives of the licensed financial adviser at such times and in such manner as may be prescribed under section 104 or specified by the Authority by written notice;
+
+(b) carries out such other functions and duties as may be prescribed under section 104 or specified by the Authority by written notice; and
+
+(c) applies the processes, criteria and methods prescribed (if any) under section 104 or specified by the Authority by written notice, in connection with the functions and duties in paragraphs (a) and (b).
+
+(4) Any licensed financial adviser which contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
+
+(5) The Authority may by regulations under section 104 prescribe —
+
+(a) the licensed financial adviser or class of licensed financial advisers to whom this section does not apply; and
+
+(b) the circumstances in which this section does not apply.
+
+(6) A written notice issued under this section need not be published in theGazette.
+
+[Act 18 of 2015 wef 01/01/2016]
 
 40\. [Deleted by Act 1/2009 wef 26/11/2010]
 
@@ -2361,6 +2591,88 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 (2) Any licensed financial adviser which contravenes this section shall be guilty of an offence.
 
 [SF Bill, Clause 112]
+
+## PART IVA
+
+PROHIBITED BUSINESSES
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Prohibited businesses of licensed financial advisers in Singapore
+
+55A\.—(1) A licensed financial adviser in Singapore must not —
+
+(a) carry on any business, whether in Singapore or elsewhere; or
+
+(b) enter into any partnership, joint venture or any other arrangement with any person to carry on any business, whether in Singapore or elsewhere,
+
+except the following:
+
+(i) the business of providing any financial advisory service authorised by its financial adviser’s licence;
+
+(ii) any business, the carrying on of which is regulated or authorised by the Authority under any other written law or would be so regulated or authorised by the Authority if carried on in Singapore;
+
+(iii) such other business as may be prescribed under section 104 or approved by the Authority specially for the licensed financial adviser.
+
+(2) In prescribing or approving any business under subsection (1)(iii), the Authority may prescribe under section 104 or specify by written notice conditions which the licensed financial adviser in Singapore must comply with in relation to the business.
+
+(3) Nothing in this section is to be read as exempting a licensed financial adviser in Singapore from any requirement which the licensed financial adviser is required to comply with under any other written law for the conduct of any activity.
+
+(4) Any licensed financial adviser in Singapore which contravenes this section or fails to comply with any condition imposed or prescribed under this section shall be guilty of an offence.
+
+(5) A written notice issued under this section need not be published in theGazette.
+
+(6) In this section, “financial adviser in Singapore” means —
+
+(a) a financial adviser which is incorporated in Singapore; or
+
+(b) in the case of a financial adviser incorporated outside Singapore, the branches or offices of the financial adviser located within Singapore.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Prohibition against acting for financial adviser for prohibited businesses
+
+55B\.—(1) An appointed representative or a provisional representative of a licensed financial adviser may only act (whether in Singapore or elsewhere) for the licensed financial adviser in respect of —
+
+(a) the business of providing any financial advisory service which the representative is appointed to provide and which is not prescribed under section 104, or specified by the Authority by written notice, to be a prohibited business; or
+
+(b) any business which its principal may conduct under section 55A(1)(ii) or (iii) and which is not prescribed under section 104, or specified by the Authority by written notice, to be a prohibited business.
+
+(2) An appointed representative or a provisional representative of an exempt financial adviser may only act (whether in Singapore or elsewhere) for the exempt financial adviser in respect of —
+
+(a) the business of providing any financial advisory service which the representative is appointed to provide and which is not prescribed under section 104, or specified by the Authority by written notice, to be a prohibited business; or
+
+(b) any other business if —
+
+(i) the principal is satisfied that the conditions prescribed under section 104 for the purposes of this section are fulfilled; and
+
+(ii) the business is not prescribed under section 104, or specified by the Authority by written notice, to be a prohibited business.
+
+(3) Nothing in this section is to be read as exempting an appointed representative or a provisional representative from any requirement which the appointed representative or provisional representative is required to comply with under any other written law for the conduct of any activity.
+
+(4) Any person who contravenes this section shall be guilty of an offence.
+
+(5) For the purposes of this section, a person acts for another in respect of any business whether or not the person does so under a contract of employment with the other.
+
+(6) A written notice issued under this section need not be published in theGazette.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Prohibition against representative engaging in employment, etc., outside scope of appointment
+
+55C\.—(1) Except with the consent of the financial adviser, an appointed representative or a provisional representative of a financial adviser must not engage in, whether or not for remuneration —
+
+(a) any employment with another person; or
+
+(b) any business, trade, profession or vocation, whether for himself or another person.
+
+(2) The financial adviser must not give its consent to the appointed representative or provisional representative unless it is satisfied that the criteria prescribed under section 104 or specified by the Authority by written notice, for the purposes of this section have been satisfied.
+
+(3) Any person who contravenes this section shall be guilty of an offence.
+
+(4) A written notice issued under this section need not be published in theGazette.
+
+[Act 18 of 2015 wef 01/01/2016]
 
 ## PART V
 
@@ -2606,11 +2918,19 @@ if the Authority is satisfied that —
 
 (b) any person exempt under section 23 or 100;
 
-(c) any representative; or
+(c) any representative;
 
 [1/2009 wef 26/11/2010]
 
-(d) any class of the persons referred to in paragraph (a), (b) or (c),
+[Act 18 of 2015 wef 01/01/2016]
+
+(ca) any supervisor of a financial adviser; or
+
+[Act 18 of 2015 wef 01/01/2016]
+
+(d) any class of the persons referred to in paragraph (a), (b), (c) or (ca),
+
+[Act 18 of 2015 wef 01/01/2016]
 
 to comply with such requirements as the Authority may specify in the written directions, or for any other purpose.
 
@@ -2636,9 +2956,15 @@ to comply with such requirements as the Authority may specify in the written dir
 
 in the conduct of his business, including the provision of any financial advisory service to any person outside Singapore and the duties to be undertaken when making recommendations to clients in respect of investment products;
 
+(ia) the standards to be maintained by any supervisor of a financial adviser in the conduct of the supervisor’s functions and duties;
+
+[Act 18 of 2015 wef 01/01/2016]
+
 (ii) the type and frequency of financial returns and other information to be submitted to the Authority;
 
-(iii) the qualifications, experience and training of representatives; or
+(iii) the qualifications (including educational qualifications), experience, expertise or training of representatives, supervisors or officers (including the chief executive officer and any director) of a licensed financial adviser or an exempt financial adviser referred to in section 23;
+
+[Act 18 of 2015 wef 01/01/2016]
 
 (iv) the procedure for the conduct of disciplinary control of licensed financial advisers, exempt financial advisers and their representatives;
 
@@ -3063,6 +3389,146 @@ Inspection Powers of Authority
 (c) where the disclosure was made in an electronic form, he had as soon as practicable after receiving the report taken all reasonable steps to ensure that all electronic copies of the report had been deleted and that the report and all copies thereof in other forms had been surrendered to the Authority.
 
 [1/2009 wef 26/11/2010]
+
+Division 2A —
+
+Inspection Powers of Foreign Regulatory Authority
+
+### Application of this Division
+
+70B\. This Division does not apply to an inspection by a foreign regulatory authority of the books of a specified financial adviser in Singapore if —
+
+(a) the foreign regulatory authority is an AML/CFT authority as defined in section 30X of the Monetary Authority of Singapore Act (Cap. 186) and exercises consolidated supervision authority as defined in that section over that specified financial adviser; and
+
+(b) the inspection is solely for the purposes of such consolidated supervision.
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Inspection by foreign regulatory authority
+
+70C\.—(1) Subject to the provisions of this section, a foreign regulatory authority may, with the prior written approval of the Authority and under conditions of secrecy, conduct an inspection in Singapore of the books of a specified financial adviser in respect of its business of providing any financial advisory service.
+
+(2) Where —
+
+(a) the specified financial adviser is an exempt financial adviser referred to in section 23(1)(a) or (d); and
+
+(b) the foreign regulatory authority has already obtained the approval of the Authority under section 45 of the Banking Act (Cap. 19) or section 150B of the Securities and Futures Act (Cap. 289) to conduct an inspection under that provision,
+
+then the foreign regulatory authority is treated as having obtained the Authority’s written approval under subsection (1).
+
+(3) In deciding whether to grant approval to a foreign regulatory authority under subsection (1), the Authority may have regard to the following considerations:
+
+(a) whether the inspection, and the information to be obtained from the inspection, is required by the foreign regulatory authority to enable the foreign regulatory authority to carry out its regulatory functions;
+
+(b) whether the foreign regulatory authority has regulatory oversight in its jurisdiction of the specified financial adviser;
+
+(c) whether the foreign regulatory authority is prohibited by the laws applicable to it from disclosing information obtained by it from the inspection to any other person;
+
+(d) whether the foreign regulatory authority has provided or is willing to provide similar assistance to the Authority;
+
+(e) such other matters as the Authority may consider relevant.
+
+(4) A foreign regulatory authority which obtained an approval for an inspection under subsection (1) may, with the prior written approval of the Authority, request or appoint any of the following persons to conduct the inspection:
+
+(a) either —
+
+(i) where the specified financial adviser is incorporated outside Singapore, the auditors of the head office of the specified financial adviser; or
+
+(ii) where the specified financial adviser is incorporated in Singapore —
+
+(A) in a case where the specified financial adviser has a parent company, the auditors of the parent company; or
+
+(B) in any other case, the auditors of the specified financial adviser;
+
+(b) such other person as the foreign regulatory authority thinks fit.
+
+(5) Despite subsection (1), the Authority may at any time, whether before, on or after giving written approval for an inspection under subsection (1), impose conditions or restrictions on the foreign regulatory authority relating to any of the following:
+
+(a) the class or classes of information to which the foreign regulatory authority may or may not have access in the course of the inspection;
+
+(b) the conduct of the inspection;
+
+(c) the use or disclosure of any information obtained in the course of the inspection;
+
+(d) such other matters as the Authority thinks fit.
+
+(6) The Authority may, in relation to an inspection by a foreign regulatory authority, at any time, by written notice to the specified financial adviser concerned, impose such conditions or restrictions on the specified financial adviser as it thinks fit, and the specified financial adviser must comply with such conditions or restrictions.
+
+(7) Subsections (5) and (6) apply as if a reference to the foreign regulatory authority includes a reference to the person requested or appointed under subsection (4).
+
+(8) In this section and sections 70B, 70D and 70E —
+
+“foreign regulatory authority” means an authority of a country or territory other than Singapore, which exercises any function that corresponds to a regulatory function of the Authority under the Monetary Authority of Singapore Act (Cap. 186) or any of the written laws set out in the Schedule to that Act;
+
+“parent company”, in relation to a specified financial adviser, means a financial institution of which the specified financial adviser is a subsidiary;
+
+“specified financial adviser” means a licensed financial adviser or an exempt financial adviser referred to in section 23(1)(a), (b), (c), (d), (e) or (f);
+
+“subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50).
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Duty of specified financial adviser under inspection
+
+70D\.—(1) For the purposes of an inspection under section 70C, and subject to subsection (2), the specified financial adviser must —
+
+(a) give the foreign regulatory authority access to such of the books of the specified financial adviser; and
+
+(b) provide such information (including information relating to the internal control systems of the specified financial adviser) and facilities,
+
+as the foreign regulatory authority may require for the inspection.
+
+(2) The specified financial adviser need not give the foreign regulatory authority access to the books of the specified financial adviser, or provide information or facilities, at such times or at such places as would unduly interfere with the proper conduct of the normal daily business of the specified financial adviser.
+
+(3) Subsection (1) has effect despite any obligation of confidentiality or other restrictions on the disclosure of information imposed on the specified financial adviser or any of its officers by any prescribed written law or any requirement imposed under such written law, any rule of law, any contract or any rule of professional conduct.
+
+(4) A specified financial adviser which, without reasonable excuse, refuses or neglects to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
+
+(5) No civil or criminal liability is incurred by a specified financial adviser or any of its officers in respect of any obligation or restriction referred to in subsection (3) for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with subsection (1).
+
+(6) A specified financial adviser which or any of its officers who, with reasonable care and in good faith, does or omits to do any act for the purpose of complying with subsection (1) is not to be treated as being in breach of any obligation or restriction referred to in subsection (3).
+
+[Act 18 of 2015 wef 01/01/2016]
+
+### Confidentiality of inspection report by foreign regulatory authority
+
+70E\.—(1) Except as provided in subsection (2), where a written report has been produced by a foreign regulatory authority in respect of a specified financial adviser following an inspection under section 70C and such report, or any part of it, is provided by the foreign regulatory authority to the specified financial adviser, the specified financial adviser or any of its officers or auditors, must not disclose any part of the report to any person.
+
+(2) Disclosure of the report may be made —
+
+(a) by the specified financial adviser to any officer or auditor of the specified financial adviser solely in connection with the performance of the duties of the officer or auditor in the specified financial adviser;
+
+(b) by any officer or auditor of the specified financial adviser to any other officer or auditor of that specified financial adviser, solely in connection with the performance of their respective duties in that specified financial adviser;
+
+(c) to the Authority, upon the Authority’s request; or
+
+(d) to such other person as the Authority may approve in writing.
+
+(3) In granting any approval under subsection (2)(d), the Authority may impose such conditions or restrictions as the Authority thinks fit on any of the following persons:
+
+(a) the specified financial adviser;
+
+(b) any officer or auditor of the specified financial adviser;
+
+(c) the person to whom disclosure is approved,
+
+and that specified financial adviser, officer, auditor or person (as the case may be) must comply with those conditions or restrictions.
+
+(4) The obligations on an officer or auditor of a specified financial adviser referred to in subsections (1) and (3) continue after the termination or cessation of the employment of such person with, or the appointment of such person by, the specified financial adviser.
+
+(5) Any person who contravenes subsection (1) or fails to comply with any condition or restriction imposed by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(6) Any person to whom the whole or any part of the report is disclosed and who knows or has reasonable grounds for believing that, at the time of the disclosure, the report was disclosed to the person in contravention of subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(7) Where a person is charged with an offence under subsection (6), it is a defence for the person to prove that —
+
+(a) the disclosure was made contrary to the person’s desire;
+
+(b) where the disclosure was made in any written or printed form, the person had, as soon as practicable after receiving the report, surrendered, or taken all reasonable steps to surrender, the report and all copies of the report to the Authority; and
+
+(c) where the disclosure was made in an electronic form, the person had, as soon as practicable after receiving the report, taken all reasonable steps to ensure the deletion of all electronic copies of the report and the surrender of the report and all copies of the report in other forms to the Authority.
+
+[Act 18 of 2015 wef 01/01/2016]
 
 Division 3 —
 
@@ -3860,9 +4326,11 @@ MISCELLANEOUS
 
 “partner” includes a person purporting to act as a partner;
 
-“relevant person” means any licensed financial adviser, exempt financial adviser, representative, or officer or partner of a licensed financial adviser or an exempt financial adviser.
+“relevant person” means any licensed financial adviser, exempt financial adviser, representative, supervisor of a financial adviser, or officer or partner of a licensed financial adviser or an exempt financial adviser.
 
 [1/2009 wef 26/11/2010]
+
+[Act 18 of 2015 wef 01/01/2016]
 
 [SF Bill, Clause 334]
 
@@ -4479,6 +4947,10 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|17.|**Act 18 of 2015—Financial Advisers (Amendment) Act 2015**|
+||Date of First Reading|11 May 2015 (Bill No. 15/2015 published on 11 May 2015)|
+||Date of Second and Third Readings|13 July 2015|
+||Date of commencement|1 January 2016|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
