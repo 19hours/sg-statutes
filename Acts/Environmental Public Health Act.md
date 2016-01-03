@@ -2196,7 +2196,9 @@ then, whether or not any criminal proceedings are instituted against B, A shall 
 
 (4) Subject to the provisions of this Part, an applicant shall be eligible for a cleaning business licence if —
 
-(a) the applicant is a company registered under the Companies Act, a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A), a sole proprietorship or firm registered under the Business Registration Act (Cap. 32), a society registered under the Societies Act (Cap. 311) or an entity having such business or corporate structure as may be prescribed;
+(a) the applicant is a company registered under the Companies Act, a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A), a sole proprietorship or firm registered under the Business Names Registration Act 2014, a society registered under the Societies Act (Cap. 311) or an entity having such business or corporate structure as may be prescribed;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (b) the applicant satisfies the Director-General that —
 
@@ -3328,6 +3330,12 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of First Reading|20 January 2014 (Bill No. 3/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|1 April 2014|
+|20.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
