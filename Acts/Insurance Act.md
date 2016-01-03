@@ -144,7 +144,7 @@
 
 - [35D Carrying on of insurance business by foreign insurer under foreign insurer scheme](#Carrying-on-of-insurance-business-by-foreign-insurer-under-foreign-insurer-scheme)
 
-- [35E Non-application of Business Registration Act and Companies Act](#Non-application-of-Business-Registration-Act-and-Companies-Act)
+- [35E Non-application of Business Names Registration Act 2014 and Companies Act](#Non-application-of-Business-Names-Registration-Act-2014-and-Companies-Act)
 
 - [35F Prohibition against carrying on insurance business in Singapore by foreign insurer under foreign insurer scheme](#Prohibition-against-carrying-on-insurance-business-in-Singapore-by-foreign-insurer-under-foreign-insurer-scheme)
 
@@ -2568,11 +2568,13 @@ the Authority shall give notice in writing to the administrator of the date on w
 
 [41/2001]
 
-### Non-application of Business Registration Act and Companies Act
+### Non-application of Business Names Registration Act 2014 and Companies Act
 
-35E\. The Business Registration Act (Cap. 32) and the Companies Act (Cap. 50) shall not apply to any foreign insurer in respect of the carrying on of insurance business in Singapore by the foreign insurer under any foreign insurer scheme if the foreign insurer is permitted to carry on insurance business in Singapore in accordance with the terms of the foreign insurer scheme.
+35E\. The Business Names Registration Act 2014 and the Companies Act (Cap. 50) shall not apply to any foreign insurer in respect of the carrying on of insurance business in Singapore by the foreign insurer under any foreign insurer scheme if the foreign insurer is permitted to carry on insurance business in Singapore in accordance with the terms of the foreign insurer scheme.
 
 [41/2001]
+
+[Act 29 of 2014 wef 03/01/2016]
 
 ### Prohibition against carrying on insurance business in Singapore by foreign insurer under foreign insurer scheme
 
@@ -7393,6 +7395,12 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|11 May 2015 (Bill No. 16/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|13 July 2015|
 ||Date of commencement|1 January 2016|
+|35.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Insurance Act
