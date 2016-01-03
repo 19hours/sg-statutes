@@ -208,7 +208,9 @@ or who carries on any combination of such activities or services; or
 
 “exempt moneylender” means any moneylender who has been granted an exemption under section 35 or 36 from holding a licence;
 
-“firm” means an unincorporated body of 2 or more individuals, or one or more individuals and one or more corporations, or 2 or more corporations, who have entered into partnership with one another with a view to carrying on business for profit and that is registered under the Business Registration Act (Cap. 32);
+“firm” means an unincorporated body of 2 or more individuals, or one or more individuals and one or more corporations, or 2 or more corporations, who have entered into partnership with one another with a view to carrying on business for profit and that is registered under the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 “interest”, in relation to a loan, means any amount by whatsoever name called in excess of the principal paid or payable to a moneylender in consideration of or otherwise in respect of the loan, but does not include any permitted fee, stamp duty or other fee payable under this Act or any other written law;
 
@@ -1544,3 +1546,9 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 ||Date of First Reading|4 November 2014 (Bill No. 42/2014 published on 4 November 2014)|
 ||Date of Second and Third Readings|19 January 2015|
 ||Date of commencement|1 April 2015|
+|8.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
