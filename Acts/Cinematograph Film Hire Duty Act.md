@@ -162,7 +162,9 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 (b) he is liable to income tax under the Income Tax Act; and
 
-(c) he is registered under the provisions of the Business Registration Act (Cap. 32) or is incorporated under the provisions of the Companies Act (Cap. 50).
+(c) the person is registered under the provisions of the Business Names Registration Act 2014 or is incorporated under the provisions of the Companies Act (Cap. 50).
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (3) Any person other than a registered renter who rents any film shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200 for every day during which the offence is committed in respect of one or more films.
 
@@ -444,6 +446,11 @@ This Legislative History is provided for the convenience of users of the Cinemat
 |||(Bill No. 11/2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|13.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Cinematograph Film Hire Duty Act
