@@ -1049,11 +1049,13 @@ to which Section 36 Applies
 
 (b) by another person in favour of the minor.
 
-4. Where the minor is registered under the Business Registration Act (Cap. 32) to carry on any business (whether as a sole proprietor or in partnership with one or more other persons) —
+4. Where the minor is registered under the Business Names Registration Act 2014 to carry on any business (whether as a sole proprietor or in partnership with one or more other persons) —
 
 (a) any legal proceeding or action arising from or in connection with his carrying on of such business; or
 
-(b) any legal proceeding or action arising from or in connection with his acting as a person responsible for the management of such business (as defined in section 2(1) of that Act).
+(b) [Deleted by Act 29 of 2014 wef 03/01/2016]
+
+[Act 29 of 2014 wef 03/01/2016]
 
 5. Where the minor carries on business in Singapore as a limited partnership registered under the Limited Partnerships Act 2008 (Act 37 of 2008) (whether as a general partner or a limited partner) —
 
@@ -1235,6 +1237,12 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of First Reading|8 September 2014 (Bill No. 23/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|2 February 2015|
+|35.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Civil Law Act
