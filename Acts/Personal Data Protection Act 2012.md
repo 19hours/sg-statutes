@@ -2117,7 +2117,9 @@ a subscription, membership, account, loan or comparable ongoing commercial relat
 
 (g) any message sent to an organisation other than an individual acting in a personal or domestic capacity, for any purpose of the receiving organisation.
 
-2\. In this Schedule, “individual” does not include a sole proprietor registered under the Business Registration Act (Cap. 32).
+2. In this Schedule, “individual” does not include an individual proprietor registered under the Business Names Registration Act 2014.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 NINTH SCHEDULE
 
