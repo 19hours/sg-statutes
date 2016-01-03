@@ -720,7 +720,9 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (b) the person is one of the following:
 
-(i) an individual or a partnership registered as carrying on business under the Business Registration Act (Cap. 32);
+(i) an individual or a partnership registered as carrying on business under the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (ii) a company incorporated under the Companies Act (Cap. 50);
 
@@ -1196,7 +1198,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the Registrar of Public Accountants and any Deputy or Assistant Registrar of Public Accountants appointed under the Accountants Act (Cap. 2);
 
-(b) the Registrar of Businesses and any Deputy or Assistant Registrar of Businesses appointed under the Business Registration Act (Cap. 32);
+(b) the Registrar of Business Names and any Deputy Registrar or Assistant Registrar of Business Names appointed under the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50);
 
@@ -1408,7 +1412,9 @@ Written laws administered and enforced by Authority
 
 1\. Accountants Act (Cap. 2).
 
-2\. Business Registration Act (Cap. 32).
+2. Business Names Registration Act 2014.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 3\. Companies Act (Cap. 50).
 
@@ -1562,6 +1568,12 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
 ||Date of Second and Third Readings|14 April 2014|
 ||Date of commencement|15 May 2015|
+|11.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
