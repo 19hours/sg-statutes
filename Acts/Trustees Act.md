@@ -876,9 +876,11 @@ shall operate to delegate to the person identified in the form as the single don
 
 [45/2004]
 
-(8) The fact that it appears from any power of attorney given under this section, or from any evidence required for the purposes of any such power of attorney or otherwise, that in dealing with any stock or securities the donee of the power is acting in the execution of a trust shall not be deemed for any purpose to affect the Depository (as defined in section 130A of the Companies Act (Cap. 50)), any person in whose books the stock is inscribed or registered or the issuer of the securities with any notice of the trust.
+(8) The fact that it appears from any power of attorney given under this section, or from any evidence required for the purposes of any such power of attorney or otherwise, that in dealing with any stock or securities the donee of the power is acting in the execution of a trust shall not be deemed for any purpose to affect the Depository (as defined in section 81SF of the Securities and Futures Act (Cap. 289)), any person in whose books the stock is inscribed or registered or the issuer of the securities with any notice of the trust.
 
 [45/2004]
+
+[Act 36 of 2014 wef 03/01/2016]
 
 (9) This section shall apply to a personal representative as it applies to a trustee except that subsection (4) shall apply as if it required the notice referred therein to be given to each of the other personal representatives, if any, except any executor who has renounced probate.
 
@@ -2610,6 +2612,11 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of First Reading|21 November 2011 (Bill No. 21/2012 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|31.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 25/2014)|
+||Date of Second and Third Readings|8 October 2015|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Trustees Act
