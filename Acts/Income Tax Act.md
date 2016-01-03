@@ -1886,7 +1886,9 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 whichever is less;
 
-“relevant employer” means any company incorporated or registered under the Companies Act (Cap. 50) or any person registered under the Business Registration Act (Cap. 32);
+“relevant employer” means any company incorporated or registered under the Companies Act (Cap. 50) or any person registered under the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 “specified amount” means —
 
@@ -18306,11 +18308,9 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine; and
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 22% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 20% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
 [1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002; 49/2004; 53/2007; 27/2009]
-
-[Act 2 of 2016 wef 01/01/2016]
 
 (3) Where a person fails to make a deduction of tax which he is required to make under subsection (1), any amount which he fails to deduct shall be a debt due from him to the Government and shall be recoverable as such.
 
@@ -18588,15 +18588,11 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 (2) Before approving the deduction of the investment from the balance in the SRS account, an SRS operator shall comply with subsection (3), unless the Comptroller has waived such compliance by notice in writing to the SRS operator.
 
-(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate of 22% on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
-
-[Act 2 of 2016 wef 01/01/2016]
+(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate specified in section 43(1)(b) on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
 
 (4) In subsection (3), the value of an investment shall be reckoned in accordance with the regulations made under section 10L(11).
 
-(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than 22%, then the reference to the rate of 22% in subsection (3) is a reference to the higher or lower rate.
-
-[Act 2 of 2016 wef 01/01/2016]
+(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than that specified in section 43(1)(b), then the reference to the rate specified in section 43(1)(b) in subsection (3) shall be read as a reference to the higher or lower rate.
 
 (6) The amount of tax collected under subsection (3) shall be a debt due from the SRS operator to the Government and shall be recoverable in the manner provided in section 89.
 
@@ -23925,6 +23921,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 June 2015|
 |||1 July 2015|
 |||1 January 2016|
+|312.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
