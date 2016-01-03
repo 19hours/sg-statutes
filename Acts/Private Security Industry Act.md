@@ -154,7 +154,9 @@ PRELIMINARY
 
 “business entity” includes —
 
-(a) a sole proprietorship or firm registered under the Business Registration Act (Cap. 32);
+(a) a sole proprietorship or firm registered under the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (b) a body corporate incorporated under the Companies Act (Cap. 50); and
 
@@ -1237,3 +1239,9 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 18/2010 published on 16 August 2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|1 November 2010|
+|5.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
