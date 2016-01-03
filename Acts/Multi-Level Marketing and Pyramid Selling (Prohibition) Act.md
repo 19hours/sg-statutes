@@ -12,7 +12,7 @@
 
 - [3 Unlawful to promote or participate in, or hold out that person is promoting or participating in, pyramid selling scheme or arrangement](#Unlawful-to-promote-or-participate-in-or-hold-out-that-person-is-promoting-or-participating-in-pyramid-selling-scheme-or-arrangement)
 
-- [4 Registration of business which is designed to promote pyramid selling scheme or arrangement prohibited](#Registration-of-business-which-is-designed-to-promote-pyramid-selling-scheme-or-arrangement-prohibited)
+- [4 Registration of business designed to promote pyramid selling scheme or arrangement prohibited](#Registration-of-business-designed-to-promote-pyramid-selling-scheme-or-arrangement-prohibited)
 
 - [5 Registration of company which proposes to promote pyramid selling scheme or arrangement prohibited](#Registration-of-company-which-proposes-to-promote-pyramid-selling-scheme-or-arrangement-prohibited)
 
@@ -94,13 +94,13 @@ An Act to prohibit the registration of businesses that are designed to promote m
 
 [19/2000]
 
-### Registration of business which is designed to promote pyramid selling scheme or arrangement prohibited
+### Registration of business designed to promote pyramid selling scheme or arrangement prohibited
 
-4\.—(1) No business which is designed to promote a multi-level marketing scheme or arrangement or a pyramid selling scheme or arrangement shall be registered under any written law relating to the registration of businesses.
+4\.—(1) A person must not apply to be registered under the Business Names Registration Act 2014 under any business name in respect of any business that is designed to promote a multi‑level marketing scheme or arrangement or a pyramid selling scheme or arrangement.
 
-(2) A person who in contravention of subsection (1) obtains registration of a business which is designed to promote a multi-level marketing scheme or arrangement or a pyramid selling scheme or arrangement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 5 years or to both.
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-[19/2000]
+[Act 29 of 2014 wef 03/01/2016]
 
 ### Registration of company which proposes to promote pyramid selling scheme or arrangement prohibited
 
@@ -166,9 +166,11 @@ the court shall, in addition to imposing on that person any other punishment, or
 
 ### Act to prevail
 
-9\. The provisions of this Act shall be without prejudice to the Business Registration Act (Cap. 32) or the Companies Act (Cap. 50) but where there is a conflict between the Business Registration Act and the Companies Act and this Act, the provisions of this Act shall prevail.
+9\. The provisions of this Act shall be without prejudice to the Business Names Registration Act 2014 or the Companies Act (Cap. 50) but where there is a conflict between the Business Names Registration Act 2014 and the Companies Act and this Act, the provisions of this Act shall prevail.
 
 [12
+
+[Act 29 of 2014 wef 03/01/2016]
 
 ### Regulations
 
@@ -207,6 +209,12 @@ This Legislative History is provided for the convenience of users of the Multi-L
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Multi-Level Marketing and Pyramid Selling (Prohibition) Act
