@@ -2322,7 +2322,9 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (a) if it is a company incorporated in Singapore, the address of its registered office in Singapore; or
 
-(b) if it is a foreign company, the address of its registered office in Singapore or the registered address of its agent or, if it does not maintain a place of business in Singapore, its registered office in the place of its incorporation.
+(b) if it is a foreign company, the address of its registered office in Singapore or the registered address of its authorised representative, referred to in section 366(1) of the Companies Act (Cap. 50), or, if it does not maintain a place of business in Singapore, its registered office in the place of its incorporation.
+
+[Act 35 of 2014 wef 03/01/2016]
 
 ### Exemption
 
@@ -2766,6 +2768,10 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|18.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
