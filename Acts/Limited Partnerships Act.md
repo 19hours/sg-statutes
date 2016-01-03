@@ -44,17 +44,31 @@
 
 - [16 Name of limited partnership](#Name-of-limited-partnership)
 
-- [17 Restrictions on registration of name of limited partnership](#Restrictions-on-registration-of-name-of-limited-partnership)
+- [17 Reservation of limited partnership names](#Reservation-of-limited-partnership-names)
 
-- [18 Registration of changes in particulars](#Registration-of-changes-in-particulars)
+- [17A Restrictions on registration of limited partnership names](#Restrictions-on-registration-of-limited-partnership-names)
+
+- [17B Change of limited partnership name](#Change-of-limited-partnership-name)
+
+- [18 Registration of change in particulars](#Registration-of-change-in-particulars)
+
+- [18A Duty of partners and managers to provide information to limited partnership](#Duty-of-partners-and-managers-to-provide-information-to-limited-partnership)
+
+- [18B Request for copy of notice of registration, etc.](#Request-for-copy-of-notice-of-registration-etc)
+
+- [18C Alternate address](#Alternate-address)
 
 - [19 Cessation of business](#Cessation-of-business)
 
 - [20 Appeal](#Appeal)
 
-- [21 Rectification of register](#Rectification-of-register)
+- [21 Rectification by High Court](#Rectification-by-High-Court)
 
-- [22 Request for copy of certificate of registration, etc.](#Request-for-copy-of-certificate-of-registration-etc)
+- [21A Rectification by Registrar on application](#Rectification-by-Registrar-on-application)
+
+- [21B Rectification or updating on Registrar’s initiative](#Rectification-or-updating-on-Registrar’s-initiative)
+
+- [22 (Repealed)](#Repealed)
 
 - [23 Electronic transaction system](#Electronic-transaction-system)
 
@@ -94,11 +108,13 @@
 
 - [40 Service of summons, notices, etc.](#Service-of-summons-notices-etc)
 
+- [40A Service of documents on partner and manager](#Service-of-documents-on-partner-and-manager)
+
 [**Part V MISCELLANEOUS PROVISIONS**](#Part-V)
 
 - [41 Regulations](#Regulations)
 
-- [42 Registration under Business Registration Act](#Registration-under-Business-Registration-Act)
+- [42 Registration under Business Names Registration Act 2014](#Registration-under-Business-Names-Registration-Act-2014)
 
 - [43 Amendment of First and Second Schedules](#Amendment-of-First-and-Second-Schedules)
 
@@ -137,6 +153,10 @@ GENERAL
 2\.—(1) In this Act, unless the context otherwise requires —
 
 “agreed contribution”, in relation to a limited partner, means any contribution (whether in the form of cash, property, services or otherwise) that the limited partner has agreed to make to the firm in his capacity as a partner;
+
+“alternate address” means an alternate address maintained with the Registrar under section 18C that meets the requirements of that section;
+
+[Act 35 of 2014 wef 03/01/2016]
 
 “Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act (Cap. 2A);
 
@@ -178,6 +198,14 @@ who have entered into partnership with one another with a view to carrying on bu
 
 “general partner” means any partner of a firm who is not a limited partner as defined in this Act;
 
+“identification” means —
+
+(a) in the case of an individual issued with an identity card under the National Registration Act (Cap. 201), the number of the individual’s identity card; and
+
+(b) in the case of an individual not issued with an identity card under that Act, particulars of the individual’s passport or such other similar evidence of identity as is acceptable to the Registrar;
+
+[Act 35 of 2014 wef 03/01/2016]
+
 “individual” means a natural person and includes an administrator, executor, a liquidator, trustee, or nominee of any person, guardian or committee having a direct control or management of any business but does not include a corporation;
 
 “inspector” means a person authorised in writing by the Registrar to be an inspector for the purposes of this Act;
@@ -194,9 +222,17 @@ who have entered into partnership with one another with a view to carrying on bu
 
 “Registrar” means the Registrar of Limited Partnerships appointed under section 9 and includes any Deputy Registrar or Assistant Registrar of Limited Partnerships appointed under that section;
 
+“residential address”, in relation to an individual, means the individual’s usual place of residence;
+
+[Act 35 of 2014 wef 03/01/2016]
+
 “resultant firm”, in relation to a limited partnership that has ceased to be a limited partnership because no person remains registered as a limited partner of the limited partnership, means the resulting firm or sole-proprietorship comprising the remaining partners or partner of the former limited partnership.
 
 (2) A person who has a place of business in Singapore shall be deemed to be carrying on business in Singapore for the purposes of this Act.
+
+(3) For the purposes of sections 12(7), 13(2), 14(4), 17(5), 17A(9) and (10) and 20, any reference to the Minister includes a reference to the Minister of State for his Ministry who is authorised by the Minister for the purpose of hearing an appeal under that section.
+
+[Act 35 of 2014 wef 03/01/2016]
 
 [Delaware LP, §. 17-101(2); BR Act, s. 2(1) and (2); LLPA, s. 2(1); UK LPA, s. 3]
 
@@ -354,11 +390,43 @@ REGISTRATION OF LIMITED PARTNERSHIPS
 
 (d) the principal place of business of the proposed limited partnership and any other place where the business is carried on;
 
-(e) the full name, identification (if any), nationality and the usual place of residence of every person who is to be a partner of the proposed limited partnership and, where any of these persons is a corporation, the corporate name, place of incorporation or registration, registration number and registered office of the corporation to which all notices and communications may be addressed;
+(e) the following information of each individual who is to be a partner of the proposed limited partnership:
+
+(i) full name;
+
+(ii) identification;
+
+(iii) nationality; and
+
+(iv) residential address;
+
+[Act 35 of 2014 wef 03/01/2016]
+
+(ea) the following information of each body corporate which is to be a partner of the proposed limited partnership:
+
+(i) the corporate name;
+
+(ii) place of incorporation or registration;
+
+(iii) registration number; and
+
+(iv) registered office of the corporation to which all notices and communications may be addressed;
+
+[Act 35 of 2014 wef 03/01/2016]
 
 (f) in relation to each person who is to be a partner of the proposed limited partnership, whether that person is to be a general partner or a limited partner;
 
-(g) the full name, identification (if any), nationality and the usual place of residence of any local manager appointed under section 28;
+(g) the following information of any individual who is appointed as a local manager under section 28:
+
+(i) full name;
+
+(ii) identification;
+
+(iii) nationality; and
+
+(iv) residential address;
+
+[Act 35 of 2014 wef 03/01/2016]
 
 (h) the term, if any, for which the proposed limited partnership is entered into, and the date of its commencement;
 
@@ -382,11 +450,7 @@ the general partner shall, in addition to the particulars required under subsect
 
 (5) The High Court may, on the application of any person alleged or claiming to be a partner, direct the rectification of the register and decide any question arising under this section.
 
-(6) In this section, “identification” means —
-
-(a) in the case of any person issued with an identity card under the National Registration Act (Cap. 201), the number of his identity card; and
-
-(b) in the case of a person not issued with such an identity card, particulars of his passport or travel document or such other similar evidence of identification as is available, if any.
+(6) [Deleted by Act 35 of 2014 wef 03/01/2016]
 
 [UK LPA, s. 8; BR Act, ss. 6(1), 7; LLPA, s. 15(1) and (4)]
 
@@ -458,65 +522,277 @@ the general partner shall, in addition to the particulars required under subsect
 
 [BR Act, s. 12; LLPA, s. 18]
 
-### Restrictions on registration of name of limited partnership
+### Reservation of limited partnership names
 
-17\.—(1) The Registrar shall refuse to register the name of a limited partnership, or a change of the name of a limited partnership to one, under this Act that in the opinion of the Registrar —
-
-(a) is undesirable;
-
-(b) is identical to a name under which any other limited partnership, person or corporation carries on business;
-
-(c) is identical to a name that is being reserved under this section, section 13 of the Business Registration Act (Cap. 32), section 27 of the Companies Act (Cap. 50) or section 19 of the Limited Liability Partnerships Act (Cap. 163A); or
-
-(d) is a name of a kind that the Minister has, by notification in theGazette, directed the Registrar not to accept for registration.
-
-(2) A person may apply in the prescribed manner to the Registrar for the reservation of a name set out in the application as —
+17\.—(1) A person may, by lodging an application with the Registrar, apply for the reservation of a name set out in the application as —
 
 (a) the name of a proposed limited partnership; or
 
-(b) the name to which the name of a limited partnership is proposed to be changed.
+(b) the name to which a limited partnership proposes to change its name.
 
-(3) Upon receipt of an application under subsection (2) and payment of the prescribed fee, the Registrar may, if he is satisfied that the name to be reserved is not one which may be rejected on any ground referred to in subsection (1)(a), (b), (c) or (d), reserve the name for a period of 2 months from the date of lodgment of the application or such longer period as the Registrar may allow.
+(2) The Registrar may approve an application made under subsection (1) only if the Registrar is satisfied that —
 
-(4) Notwithstanding anything in this section, where the Registrar is satisfied that the name of a limited partnership has been registered under this Act (whether through inadvertence or otherwise and whether originally or by a change of name) —
+(a) the application is made in good faith; and
 
-(a) which is a name referred to in subsection (1)(a), (b) or (d);
+(b) the name to be reserved is one in respect of which a limited partnership may be registered having regard to section 17A(1), (2) and (3).
 
-(b) which so nearly resembles a business name or the name of any other limited partnership, limited liability partnership or corporation as to be likely to be mistaken for it; or
+(3) The Registrar must refuse to approve an application to reserve a name under subsection (1) as the name of a proposed limited partnership if the Registrar is satisfied that —
 
-(c) the use of which has been restrained by an injunction granted under the Trade Marks Act (Cap. 332),
+(a) the name is for a limited partnership that is likely to be used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore; or
 
-the Registrar may direct any general partner of the limited partnership to change the name of the limited partnership, and that person shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+(b) it would be contrary to the national security or interest for the limited partnership to be registered.
 
-(5) Any person may apply, in writing, to the Registrar to direct any general partner of a limited partnership, on a ground referred to in subsection (4)(a) or (b), to change the name of the limited partnership.
+(4) Where an application for a reservation of a name is made under subsection (1), the Registrar must reserve the proposed name of the proposed limited partnership or limited partnership for a period starting at the time the Registrar receives the application and ending —
 
-(6) The Registrar shall not consider any application under subsection (5) to give a direction to change the name of a limited partnership on the ground referred to in subsection (4)(b) unless the Registrar receives the application within 12 months from the date of registration of that name.
+(a) if the Registrar approves the application, 60 days after the date on which the Registrar notifies the applicant that the application has been approved, or such further period of 60 days as the Registrar may, on application made in good faith, extend; or
 
-(7) The Registrar may cancel the registration of any limited partnership if any person fails to comply with a direction given under subsection (4).
+(b) if the Registrar refuses to approve the application, on the date on which the Registrar notifies the applicant of the refusal.
 
-(8) The Registrar may, if he is satisfied that a person who is directed under subsection (4) to change the name of a limited partnership had applied for registration of that name in bad faith, require that person to pay the Registrar such fees as may be prescribed, and such fees shall be recoverable as a debt due to the Government.
+(5) A person aggrieved by a decision of the Registrar —
 
-(9) Any person who is aggrieved by a direction of the Registrar under subsection (4) or a requirement of the Registrar under subsection (8) may, within 30 days of the date of the direction or requirement, appeal to the Minister whose decision shall be final.
+(a) refusing to approve an application under subsection (1); or
 
-(10) For the avoidance of doubt, where the Registrar makes a decision under subsection (4) or the Minister makes a decision under subsection (9), he shall accept as correct any decision of the High Court to grant an injunction referred to in subsection (4)(c).
+(b) refusing an application under subsection (4)(a) to extend the reservation period,
 
-(11) The Minister may make regulations for the purpose of determining the matters referred to in subsections (1) and (4).
+may, within 30 days after being informed of the Registrar’s decision, appeal to the Minister whose decision is final.
 
-[BR Act, s. 13; LLPA, s. 19]
+[Act 35 of 2014 wef 03/01/2016]
 
-### Registration of changes in particulars
+### Restrictions on registration of limited partnership names
 
-18\.—(1) Whenever a change is made or occurs in any of the particulars registered in respect of any limited partnership, a general partner of the limited partnership shall, within 14 days after the change, or such further period as the Registrar may on application allow, lodge with the Registrar a statement specifying the nature and date of the change, and containing such other information as may be prescribed.
+17A\.—(1) Except with the consent of the Minister or as provided in subsection (3), the Registrar must refuse to register a limited partnership under this Act under a name, or to approve a change of name of a limited partnership under section 17B to a name, which, in the opinion of the Registrar —
 
-(2) Where a person has ceased to be a partner or local manager of a limited partnership, that person may lodge with the Registrar a statement under subsection (1) in respect of that change if he has reasonable cause to believe that no general partner of the limited partnership will lodge the statement with the Registrar.
+(a) is undesirable;
 
-(3) Where any person whose residential address is registered under section 11 has changed his residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201) within 14 days of the change, the Registrar shall be deemed to have been informed of the change in compliance with subsection (1).
+(b) is identical to the name of any other limited partnership, a limited liability partnership or a corporation, or to a registered business name;
 
-(4) The Registrar may, in any particular case, require a statement lodged under subsection (1) to be rectified in such manner as the Registrar considers fit.
+(c) is identical to a name that is reserved under section 17, section 16 of the Business Names Registration Act 2014, section 19(4) of the Limited Liability Partnerships Act (Cap. 163A) or section 27(12B) or 378(15) of the Companies Act (Cap. 50); or
 
-(5) Any statement required to be lodged under this section shall be in such medium and form as the Registrar may determine.
+(d) is a name of a kind that the Minister has directed the Registrar, by notification in theGazette, not to accept for registration.
 
-[BR Act, s. 14; LLPA, s. 28]
+(2) In addition to subsection (1), the Registrar must on or after the date of commencement of section 11 of the Statutes (Miscellaneous Amendments) (No. 2) Act 2014, except with the consent of the Minister, refuse to register a limited partnership under a name, or allow a limited partnership to change its name to a name, if —
+
+(a) it is identical to the name of a limited partnership that was cancelled or dissolved —
+
+(i) unless, in a case where the registration of the limited partnership was cancelled under section 14(1) or 19(4), a period of at least one year has passed after the date of cancellation; or
+
+(ii) unless, in a case where notice was lodged with the Registrar that the limited partnership was dissolved under section 19(2), a period of at least one year has passed after the date of dissolution;
+
+(b) it is identical to the business name of a person whose registration and registration of that business name has been cancelled under the Business Names Registration Act 2014 or has ceased under section 22 of that Act, unless a period of at least one year has passed after the date of cancellation or cessation;
+
+(c) it is identical to the name of a company that was dissolved —
+
+(i) unless, in a case where the company was dissolved following its winding up under Part X of the Companies Act, a period of at least 2 years has passed after the date of dissolution; or
+
+(ii) unless, in a case where the company was dissolved following its name being struck off the register kept under the Companies Act under section 344 or 344A of that Act, a period of at least 6 years has passed after the date of dissolution;
+
+(d) it is identical to the name of a foreign company notice of the dissolution of which has been given to the Registrar of Companies under section 377(2) of the Companies Act, unless a period of at least 2 years has passed after the date of dissolution; or
+
+(e) it is identical to the name of a limited liability partnership that was dissolved —
+
+(i) unless, in a case where the limited liability partnership was dissolved following its winding up under section 30 of, and the Fifth Schedule to, the Limited Liability Partnerships Act (Cap. 163A), a period of at least 2 years has passed after the date of dissolution; or
+
+(ii) unless, in a case where the limited liability partnership was dissolved following its name being struck off the register under section 38 of the Limited Liability Partnerships Act, a period of at least 6 years has passed after the date of dissolution.
+
+(3) Despite subsection (1), the Registrar may, on or after the date of commencement of section 11 of the Statutes (Miscellaneous Amendments) (No. 2) Act 2014, register a limited partnership under —
+
+(a) a name that is identical to the name of a foreign company registered under Division 2 of Part XI of the Companies Act —
+
+(i) in respect of which notice was lodged under section 377(1) of the Companies Act that the foreign company has ceased to have a place of business in Singapore or ceased to carry on business in Singapore, if a period of at least 3 months has passed after the date of cessation; and
+
+(ii) the name of which was struck off the register kept under the Companies Act under section 377(8), (9) or (10) of that Act, if a period of at least 6 years has passed after the date the name was so struck off; or
+
+(b) a name that is identical to the name of a limited partnership in respect of which notice was lodged under section 19(1) that the limited partnership has ceased to carry on business, if a period of at least one year has passed after the date of cessation.
+
+(4) Despite this section and section 17B, where the Registrar is satisfied that a limited partnership’s name —
+
+(a) is one that is not permitted to be registered under subsection (1)(a), (b) or (d);
+
+(b) is one that is not permitted to be registered under subsection (2) until the expiry of the relevant period referred to in that subsection;
+
+(c) is one that is permitted to be registered under subsection (3) only after the expiry of the relevant period referred to in that subsection;
+
+(d) so nearly resembles the name of any other limited partnership, any limited liability partnership or corporation or any registered business name, as to be likely to be mistaken for it; or
+
+(e) is one the use of which has been restrained by an injunction granted under the Trade Marks Act (Cap. 332),
+
+the Registrar may direct any general partner of the limited partnership to change the limited partnership’s name, and that person must comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow in any case.
+
+(5) The Registrar’s power under subsection (4) to direct any general partner of a limited partnership to change its name applies regardless of —
+
+(a) whether the limited partnership’s name was registered through inadvertence or otherwise; or
+
+(b) when the limited partnership was registered in respect of the name.
+
+(6) Any person may apply, in writing, to the Registrar to give a direction to any general partner of a limited partnership, on a ground referred to in subsection (4), to change the limited partnership’s name.
+
+(7) The Registrar is not to consider any application under subsection (6) to give a direction to a person on the ground referred to in subsection (4)(d) unless the Registrar receives the application within 12 months after the date the limited partnership was registered in respect of the name, or the date the change of the limited partnership’s name was approved under section 17B.
+
+(8) The Registrar may cancel the registration of a limited partnership if a general partner of the limited partnership fails to comply with a direction given under subsection (4).
+
+(9) A person aggrieved by —
+
+(a) a direction of the Registrar under subsection (4); or
+
+(b) the Registrar’s refusal to give a direction to a person under subsection (4) following an application under subsection (6),
+
+may, within 30 days after being informed of the Registrar’s direction or refusal, as the case may be, appeal to the Minister whose decision is final.
+
+(10) To avoid doubt, where the Registrar makes a direction under subsection (4) or the Minister makes a decision on an appeal under subsection (9), the Registrar or the Minister, as the case may be, must accept as correct any decision of the High Court to grant an injunction referred to in subsection (4)(e).
+
+(11) In this section, “registered business name” has the same meaning as in section 2(1) of the Business Names Registration Act 2014.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+### Change of limited partnership name
+
+17B\.—(1) An application by a limited partnership to change the name under which it was registered is to be lodged with the Registrar.
+
+(2) Upon the approval of the application, the Registrar is to issue to the limited partnership a notice of change of name stating the date of the change.
+
+(3) Any application for a change of a limited partnership name is subject to section 17A.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+### Registration of change in particulars
+
+18\.—(1) A general partner of a limited partnership shall lodge with the Registrar —
+
+(a) within 14 days after the appointment of a new partner of a limited partnership, a statement containing the particulars referred to in section 11(1)(e) or (ea) (as the case may be) of the partner;
+
+(b) within 14 days after the appointment of a new local manager of a limited partnership, a statement containing the particulars referred to in section 11(1)(g);
+
+(c) within 14 days after a partner or local manager ceases to be a partner or local manager of the limited partnership, a statement of that fact;
+
+(d) within 14 days after any change in the particulars of any partner or local manager of the limited partnership that have been lodged with the Registrar under this Act, other than the partner’s or local manager’s residential address, a statement containing the particulars of the change; or
+
+(e) within 14 days after any other change that is made or that occurs in any of the particulars registered in respect of any limited partnership, a statement specifying the nature and date of the change, and containing such other information as may be prescribed.
+
+(2) The Registrar may, on application by a general partner of the limited partnership, extend the period referred to in subsection (1)(a) to (e).
+
+(3) Any person who ceases to be a partner or local manager of a limited partnership may himself lodge with the Registrar the statement referred to in subsection (1)(c) if he has reasonable cause to believe that no general partner of the limited partnership will lodge the statement with the Registrar.
+
+(4) A partner (who is an individual) or a local manager who changes his residential address must lodge with the Registrar a notice of his new residential address within 14 days after the date of change.
+
+(5) Where a partner (who is an individual) or local manager has changed his residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201), the partner or local manager is to be taken to have informed the Registrar of the change of residential address in compliance with subsection (4).
+
+(6) The Registrar may, in any particular case, require a statement lodged under subsection (1) to be rectified in such manner as the Registrar considers fit.
+
+(7) Any statement required to be lodged under this section shall be in such medium and form as the Registrar may determine.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+### Duty of partners and managers to provide information to limited partnership
+
+18A\.—(1) A partner or local manager, as the case may be, shall give every general partner of the limited partnership —
+
+(a) any information a general partner of a limited partnership needs to comply with section 18(1)(a) or (b), as the case may be, as soon as practicable but not later than 14 days after his initial appointment as a partner or local manager unless he has previously given the information to every general partner of the limited partnership in writing; and
+
+(b) any information a general partner of a limited partnership needs to comply with section 18(1)(d) as soon as practicable but not later than 14 days after the date of change to the information referred to in that provision.
+
+(2) Notwithstanding subsection (1), but subject to subsection (3) —
+
+(a) a partner of a limited partnership shall, if requested by a general partner of the limited partnership, give the general partner any information referred to in section 11(1)(e) or (ea); and
+
+(b) a local manager of a limited partnership shall, if requested by a general partner of the limited partnership, give the general partner any information referred to in section 11(1)(g),
+
+for the purpose of enabling the limited partnership to confirm its record of such information or reinstate its record of the information where the original record of the information has been destroyed or lost.
+
+(3) The partner or local manager of a limited partnership referred to in subsection (2) shall furnish the information to a general partner of the limited partnership as soon as practicable but not later than 14 days after receipt of a written request for such information from the general partner.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+### Request for copy of notice of registration, etc.
+
+18B\.—(1) Subject to section 18C, a person may, upon payment of such fee as may be prescribed, require a copy of a notice of registration or a copy of or an extract from any document filed or lodged with the Registrar, to be given or certified by the Registrar.
+
+(2) Any copy or extract given under subsection (1) which is certified to be a true copy or extract by the Registrar is, in any proceedings, admissible in evidence as of equal validity with the original document.
+
+(3) The Registrar is not required to issue under subsection (1) a copy of or an extract from a document forming part of the register where that document has been destroyed under section 24.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+### Alternate address
+
+18C\.—(1) Despite section 18B, the Registrar must not disclose or make available for public inspection the particulars of a partner’s or local manager’s residential address that is lodged with the Registrar under this Act or transmitted to the Registrar by the Commissioner of National Registration under section 8A of the National Registration Act (Cap. 201) if the requirements of subsection (2) are satisfied.
+
+(2) The requirements referred to in subsection (1) are that the partner or local manager referred to in subsection (1) maintains with the Registrar an alternate address that complies with the following conditions:
+
+(a) it is an address at which the partner or local manager can be located;
+
+(b) it is not a post office box number;
+
+(c) it is not the residential address of the partner or local manager; and
+
+(d) it is located in the same jurisdiction as the partner’s or local manager’s residential address.
+
+(3) For the purposes of subsection (2) —
+
+(a) an individual who wishes to maintain an alternate address must lodge an application with the Registrar;
+
+(b) an individual may not maintain more than one alternate address at any one time;
+
+(c) an individual who wishes to cease to maintain an alternate address must lodge a notice of withdrawal with the Registrar; and
+
+(d) an individual who wishes to change his alternate address must lodge a notice of change with the Registrar.
+
+(4) An application to maintain an alternate address, and the lodgment of a notice of withdrawal or change of an alternate address, are subject to the payment of such fees as may be prescribed.
+
+(5) Subsection (1) applies from the time at which the Registrar accepts an application to maintain an alternate address referred to in subsection (3)(a).
+
+(6) A partner or local manager who maintains an alternate address under subsection (2) must ensure that he can be located at that alternate address.
+
+(7) A partner or local manager who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(8) Despite subsection (1), the Registrar may disclose and make available for public inspection the particulars of a partner’s or local manager’s residential address despite the maintenance of an alternate address under subsection (2) if —
+
+(a) communications sent by the Registrar under this Act, or by any officer of the Authority under any ACRA administered Act, to the partner or local manager at his alternate address and requiring a response within a specified period remain unanswered; or
+
+(b) there is evidence to show that service of any document under this Act or under any ACRA administered Act at the alternate address is not effective to bring it to the notice of the partner or local manager.
+
+(9) Before proceeding under subsection (8), the Registrar must give notice to the partner or local manager affected —
+
+(a) stating the grounds on which the Registrar proposes to disclose and make available for public inspection the individual’s residential address; and
+
+(b) specifying a period within which representations may be made before that is done.
+
+(10) The Registrar is to consider the representations received within the specified period.
+
+(11) Where the Registrar discloses and makes available for public inspection the particulars of a partner’s or local manager’s residential address, the Registrar must give notice of that fact to the partner or local manager.
+
+(12) A notice to a partner or local manager under subsection (9) or (11) is to be sent to him at his residential address unless it appears to the Registrar that service at that address may be ineffective to bring it to his notice, in which case it may be sent to any other last known address of the partner or local manager.
+
+(13) Where —
+
+(a) the Registrar discloses and makes available for public inspection the particulars of a partner’s or local manager’s residential address under subsection (8); or
+
+(b) a Registrar appointed under any other ACRA administered Act discloses and makes available for public inspection under that Act the particulars of a partner’s or local manager’s residential address under a provision of that Act equivalent to subsection (8),
+
+that partner or local manager is not, for a period of 3 years after the date on which the residential address is disclosed and made available for public inspection, allowed to maintain an alternate address under subsection (2).
+
+(14) Nothing in this section applies to any information lodged or deemed to be lodged with the Registrar before the date of commencement of section 11 of the Statutes (Miscellaneous Amendments) (No. 2) Act 2014 or prevents such information from being disclosed or from being made available for public inspection or access.
+
+(15) Nothing in this section prevents the residential address of an individual that is lodged with the Registrar under this Act, or is transmitted to the Registrar by the Commissioner of National Registration under section 8A of the National Registration Act from —
+
+(a) being used by the Registrar for the purposes of any communication with the individual;
+
+(b) being disclosed for the purposes of issuing any summons or other legal process against the individual for the purposes of this Act or any other written law;
+
+(c) being disclosed in compliance with the requirement of any court or the provisions of any written law;
+
+(d) being disclosed for the purpose of assisting any public officer or officer of any statutory board in the investigation or prosecution of any offence under any written law; or
+
+(e) being disclosed in such other circumstances as may be prescribed.
+
+(16) Any partner or local manager aggrieved by the decision of the Registrar under subsection (8) may, within 30 days after the date of receiving the notice under subsection (11), appeal to the High Court which may confirm the decision or give such directions in the matter as seem proper or otherwise determine the matter.
+
+(17) For the purposes of this section —
+
+(a) “ACRA administered Act” means the Accounting and Corporate Regulatory Authority Act (Cap. 2A) and any of the written laws specified in the Second Schedule to that Act; and
+
+(b) a partner or a local manager can be located at an address if he may be physically found at the address after reasonable attempts have been made to find him at the address.
+
+[Act 35 of 2014 wef 03/01/2016]
 
 ### Cessation of business
 
@@ -524,7 +800,9 @@ the Registrar may direct any general partner of the limited partnership to chang
 
 (2) Where any limited partnership registered under this Act has been dissolved, a general partner of the limited partnership shall, within 14 days of the dissolution, lodge with the Registrar a notice in such form as the Registrar may determine notifying the Registrar that the limited partnership has been dissolved.
 
-(3) Where the Registrar has reasonable cause to believe that any limited partnership registered under this Act is not carrying on business or has been dissolved, he may send to the limited partnership and all the general partners a notice to the effect that if an answer showing cause to the contrary is not received within one month from the date thereof, the registration of the limited partnership may be cancelled and the name of the limited partnership removed from the register.
+(3) Where the Registrar has reasonable cause to believe that any limited partnership registered under this Act is not carrying on business or has been dissolved, he may send to the limited partnership and all the general partners a notice to the effect that if an answer showing cause to the contrary is not received within one month from the date thereof, the registration of the limited partnership may be cancelled.
+
+[Act 35 of 2014 wef 03/01/2016]
 
 (4) If the Registrar —
 
@@ -532,7 +810,9 @@ the Registrar may direct any general partner of the limited partnership to chang
 
 (b) does not within one month after sending the notice referred to in subsection (3) receive an answer showing cause to the contrary,
 
-he may cancel the registration of that limited partnership and remove the name of the limited partnership from the register.
+he may cancel the registration of that limited partnership.
+
+[Act 35 of 2014 wef 03/01/2016]
 
 (5) The Registrar shall, by notification in theGazette, publish such particulars as he thinks fit in respect of any limited partnership the registration of which has been cancelled under this section.
 
@@ -546,7 +826,7 @@ he may cancel the registration of that limited partnership and remove the name o
 
 [BR Act, s. 22]
 
-### Rectification of register
+### Rectification by High Court
 
 21\.—(1) Where it appears to the High Court, as a result of evidence adduced before it, that any particular recorded in a register is erroneous or defective, the High Court may, by order, direct the Registrar to rectify the register on such terms and conditions as seem to the High Court to be just and expedient.
 
@@ -554,31 +834,67 @@ he may cancel the registration of that limited partnership and remove the name o
 
 (3) An order of the High Court made under subsection (1) may require that a fresh document, showing the rectification, shall be filed by the applicant with the Registrar, together with a copy of the order of the High Court and of the application to the High Court.
 
-(4) Notwithstanding subsections (1) and (3), a general partner or a local manager of a limited partnership may notify the Registrar in the prescribed form of any typographical or clerical error contained in any document relating to the limited partnership lodged with the Registrar.
+(4) [Deleted by Act 35 of 2014 wef 03/01/2016]
 
-(5) The Registrar may, upon receipt of any notification referred to in subsection (4), rectify the register accordingly.
+(5) [Deleted by Act 35 of 2014 wef 03/01/2016]
 
 [BR Act, s. 16; LLPA, s. 40]
 
-### Request for copy of certificate of registration, etc.
+[Act 35 of 2014 wef 03/01/2016]
 
-22\.—(1) Any person may, upon payment of such fees as may be prescribed, require —
+### Rectification by Registrar on application
 
-(a) a copy of a notice of registration or certificate of confirmation of registration issued under section 12; or
+21A\.—(1) Despite section 21, a general partner or a local manager of a limited partnership may lodge a notice with the Registrar of —
 
-(b) a copy of or an extract from any document filed with the Registrar,
+(a) any error contained in any document relating to the limited partnership filed or lodged with the Registrar; or
 
-to be certified by the Registrar.
+(b) any error in the filing or lodgment of any document relating to the limited partnership with the Registrar.
 
-(2) Any copy or extract, including a copy produced by way of such medium as determined by the Registrar, given under subsection (1) which is certified to be a true copy or an extract under the hand and seal of the Registrar shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+(2) The Registrar may, upon receipt of any notification referred to in subsection (1) and if satisfied that —
 
-[Act 18 of 2014 wef 15/05/2015]
+(a) the error referred to in subsection (1)(a) is typographical or clerical in nature; or
 
-(3) A register shall not be open to inspection by the public.
+(b) the error referred to in subsection (1)(b) is, in his opinion, unintended and does not prejudice any person,
 
-(4) The Registrar shall not be required to issue under subsection (1) a copy of or an extract from a document forming part of the register where that document has been destroyed under section 24.
+rectify the register accordingly.
 
-[BR Act, s. 18]
+(3) In rectifying the register under subsection (2), the Registrar must not expunge any document from the register.
+
+(4) The decision made by the Registrar on whether to rectify the register under subsection (2) is final.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+### Rectification or updating on Registrar’s initiative
+
+21B\.—(1) The Registrar may rectify or update any particulars or document contained in a register kept by him, if the Registrar is satisfied that —
+
+(a) there is a defect or an error in the particulars or document arising from any grammatical, typographical or similar mistake; or
+
+(b) there is evidence of a conflict between the particulars of a limited partnership or person and —
+
+(i) other information in the register relating to that limited partnership or person; or
+
+(ii) other information relating to that limited partnership or person obtained from such department or Ministry of the Government, or statutory body or other body corporate as may be prescribed.
+
+(2) Before the Registrar rectifies or updates the register under subsection (1), he shall, except under prescribed circumstances, give written notice to all the general partners of the limited partnership or person whose documents or particulars are to be rectified or updated of the Registrar’s intention to do so, and state therein —
+
+(a) the reasons for and details of the proposed rectification or updating to be made to the register; and
+
+(b) the date by which any written objection to the proposed rectification or updating must be delivered to the Registrar, being a date at least 30 days after the date of the notice.
+
+(3) Any person notified under subsection (2) may deliver to the Registrar, not later than the date specified under subsection (2)(b), a written objection to the proposed rectification or updating of the register.
+
+(4) The Registrar must not rectify or update the register if the Registrar receives a written objection under subsection (3) to the proposed rectification or updating by the date specified under subsection (2)(b), unless the Registrar is satisfied that the objection is frivolous or vexatious or has been withdrawn.
+
+(5) The Registrar may rectify or update the register if the Registrar does not receive a written objection under subsection (3) by the date specified under subsection (2)(b).
+
+(6) The Registrar may include such notation as the Registrar thinks fit in the register for the purposes of providing information relating to any error or defect in any particulars or document in the register, and may remove such notation if the Registrar is satisfied that it no longer serves any useful purpose.
+
+(7) Despite anything in this section, the Registrar may, if the Registrar is satisfied that there is any error or defect in any particulars or document in the register, by notice in writing, request that any general partner or local manager of the limited partnership to which the particulars or document relates take such steps within such time as the Registrar may specify to ensure that the error or defect is rectified.
+
+[Act 35 of 2014 wef 03/01/2016]
+
+22\. [Deleted by Act 35 of 2014 wef 03/01/2016]
 
 ### Electronic transaction system
 
@@ -732,7 +1048,9 @@ then the rights of the defaulter under or arising out of any contract, in relati
 
 33\.—(1) Any person who —
 
-(a) fails to furnish any information required under section 18;
+(a) fails to furnish any information required under section 18 or 18A;
+
+[Act 35 of 2014 wef 03/01/2016]
 
 (b) without lawful excuse, fails to comply with any summons or requisition of the Registrar under section 32;
 
@@ -788,9 +1106,17 @@ whichever is the lower.
 
 37\.—(1) If any person is in default in complying with —
 
-(a) any provision of this Act or of any other law which requires the lodging or filing in any manner with the Registrar of any return, account or other document or the giving of notice to him of any matter; or
+(a) any provision of this Act or of any other law which requires the lodging or filing in any manner with the Registrar of any return, account or other document or the giving of notice to him of any matter;
 
-(b) any request of the Registrar to amend or complete and resubmit any document or to submit a fresh document,
+[Act 35 of 2014 wef 03/01/2016]
+
+(b) any request of the Registrar to amend or complete and resubmit any document or to submit a fresh document; or
+
+[Act 35 of 2014 wef 03/01/2016]
+
+(c) any request of the Registrar under section 21B(7) to rectify any error or defect in any particulars or document in the register,
+
+[Act 35 of 2014 wef 03/01/2016]
 
 and fails to make good the default within 14 days after the service on the person of a notice requiring it to be done, a District Court or Magistrate’s Court may, on application by the Registrar, make an order directing that person or (if that person is a corporation) any officer of the corporation to make good the default within such time as is specified in the order.
 
@@ -856,6 +1182,12 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 [BR Act, s. 36]
 
+### Service of documents on partner and manager
+
+40A\. Any document required to be served under this Act on a partner, who is an individual, or local manager, of a limited partnership shall be sufficiently served if addressed to the partner or local manager and left at or sent by post to his residential address or, if the partner or manager has provided an alternate address under section 18C, his alternate address.
+
+[Act 35 of 2014 wef 03/01/2016]
+
 ## PART V
 
 MISCELLANEOUS PROVISIONS
@@ -876,9 +1208,13 @@ MISCELLANEOUS PROVISIONS
 
 (e) all matters connected with or arising from the restrictions as to the name which may be used by a limited partnership registered under this Act;
 
-(f) modifying the application of this Act or the Business Registration Act (Cap. 32) to a resultant firm during any period of suspension of the limited partnership under section 42(2);
+(f) modifying the application of this Act or the Business Names Registration Act 2014 to a resultant firm during any period of suspension of the limited partnership under section 42(2);
 
-(g) regulating the disclosure of any information kept or maintained in any register under this Act and excluding any document relating to any class of limited partnerships from the operation of section 22(1);
+[Act 29 of 2014 wef 03/01/2016]
+
+(g) regulating the disclosure of any information kept or maintained in any register under this Act and excluding any document relating to any class of limited partnerships from the operation of section 18B(1);
+
+[Act 35 of 2014 wef 03/01/2016]
 
 (h) requiring any class of limited partnerships to maintain any information or records and regulating the access to such information or records, including requiring the limited partnership to provide access to such information or records for any class of persons;
 
@@ -890,35 +1226,51 @@ MISCELLANEOUS PROVISIONS
 
 (l) prescribing the offences which may be compounded under section 35;
 
+(la) the waiver, refund or remission, whether wholly or in part, of any fee or penalty chargeable under this Act;
+
+[Act 35 of 2014 wef 03/01/2016]
+
 (m) prescribing all matters and things which are required or permitted to be prescribed, under or for the purposes of this Act.
 
 (3) In this section, “foreign limited partnership” means a partnership formed, registered or incorporated outside Singapore in which the liability of some but not all of the partners is limited, and having such other features as may be prescribed by the Minister.
 
 [BR Act, s. 37; LLPA, s. 56]
 
-### Registration under Business Registration Act
+### Registration under Business Names Registration Act 2014
 
-42\.—(1) The Business Registration Act shall not apply to any person carrying on business in Singapore as a limited partnership registered under this Act, except during any period when the registration of the limited partnership is suspended under this section.
+42\.—(1) The Business Names Registration Act 2014 shall not apply to any person carrying on business in Singapore as a limited partnership registered under this Act, except during any period when the registration of the limited partnership is suspended under this section.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (2) If a limited partnership registered under this Act ceases to be a limited partnership because no person remains registered under this Act as a limited partner of the limited partnership, the registration of the limited partnership under this Act shall be suspended.
 
-(3) If upon a suspension pursuant to subsection (2), any person who is registered as a general partner of the limited partnership under this Act would be required to be registered under the Business Registration Act (Cap. 32) to carry on business under the name of the resultant firm, then with effect from the date of suspension —
+(3) If upon a suspension pursuant to subsection (2), any person who is registered as a general partner of the limited partnership under this Act would be required to be registered under the Business Names Registration Act 2014 to carry on business under the name of the resultant firm, then with effect from the date of suspension —
 
-(a) that person shall be deemed to be registered under the Business Registration Act as a person carrying on business under the name of the resultant firm; and
+(a) that person shall be deemed to be registered under the Business Names Registration Act 2014 as a person carrying on business under the name of the resultant firm; and
 
-(b) the name of the limited partnership registered under this Act shall be deemed to be registered as the name of the resultant firm under the Business Registration Act.
+[Act 29 of 2014 wef 03/01/2016]
+
+(b) the name of the limited partnership registered under this Act shall be deemed to be registered as the name of the resultant firm under the Business Names Registration Act 2014.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (4) If, while the registration of the limited partnership under this Act is suspended, there are any changes in the resultant firm that cause the firm to satisfy the requirements of section 3(2) (relating to the constitution of a limited partnership), any general partner of the limited partnership may register those changes under section 18, and upon such registration —
 
-(a) the registration of the persons carrying on business under the name of the resultant firm under the Business Registration Act shall cease; and
+(a) the registration of the persons carrying on business under the name of the resultant firm under the Business Names Registration Act 2014 shall cease; and
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (b) the registration of a limited partnership under this Act shall be restored.
 
 (5) If the name of the resultant firm does not comply with section 16(1) (Name of limited partnership), subsection (4)(a) and (b) shall not operate in respect of the resultant firm unless and until a change in the name of the limited partnership has been registered under section 18 to comply with section 16(1).
 
-(6) Upon the restoration of the registration of a limited partnership under subsection (4)(b), the Registrar shall cause the particulars of the resultant firm as registered under the Business Registration Act immediately before the restoration, with the changes to the resultant firm registered pursuant to subsections (4) and (5), to be registered under this Act as the particulars of the limited partnership.
+(6) Upon the restoration of the registration of a limited partnership under subsection (4)(b), the Registrar shall cause the particulars of the resultant firm as registered under the Business Names Registration Act 2014 immediately before the restoration, with the changes to the resultant firm registered pursuant to subsections (4) and (5), to be registered under this Act as the particulars of the limited partnership.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (7) This section shall apply subject to any modification that the Minister may prescribe.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 ### Amendment of First and Second Schedules
 
@@ -1087,3 +1439,14 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|6.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 24/2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|3 January 2016|
+|7.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
