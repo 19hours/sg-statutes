@@ -880,7 +880,9 @@ that person shall be deemed to obstruct an authorised officer or employment insp
 
 (a) where the employer is an individual registered under the National Registration Act (Cap. 201), by reporting the change of his place of residence under section 8 of that Act;
 
-(b) where the employer is a body corporate incorporated under the Companies Act (Cap. 50), a sole proprietorship or a firm registered under the Business Registration Act (Cap. 32) or a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A), by reporting the change of the address of the registered office or place of business under section 143 of the Companies Act, section 14 of the Business Registration Act (Cap. 32) or section 26 of the Limited Liability Partnerships Act (Cap. 163A), as the case may be; or
+(b) where the employer is a body corporate incorporated under the Companies Act (Cap. 50), a sole proprietorship or a firm registered under the Business Names Registration Act 2014 or a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A), by reporting the change of the address of the registered office or place of business under section 143 of the Companies Act, section 20 of the Business Names Registration Act 2014 or section 26 of the Limited Liability Partnerships Act (Cap. 163A), as the case may be; or
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (c) where paragraphs (a) and (b) are not applicable, in writing.
 
@@ -1720,3 +1722,9 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|13 August 2012 (Bill No. 22/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|11 September 2012|
 ||Date of commencement|9 November 2012|
+|11.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
