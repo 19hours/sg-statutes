@@ -656,7 +656,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [36/2008 wef 15/02/2007]
 
-“firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
+“firm” has the same meaning as in section 2(1) of the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 “limited liability partnership” has the same meaning as in the Limited Liability Partnerships Act (Cap. 163A) and includes any similar partnership formed or incorporated outside Singapore;
 
@@ -1544,9 +1546,13 @@ Settlement of policy of life insurance
 
 (a) immovable property situated in Singapore, or any beneficial interest thereof; and
 
-(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act (Cap. 50) or its nominee;
+(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 81SH of the Securities and Futures Act (Cap. 289) or its nominee;
 
-“firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
+[Act 35 of 2014 wef 03/01/2016]
+
+“firm” has the same meaning as in section 2(1) of the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 “private company” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -1780,13 +1786,15 @@ whichever is the higher.
 
 (a) immovable property situated in Singapore, or any beneficial interest thereof; and
 
-(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act (Cap. 50) or its nominee.
+(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 81SH of the Securities and Futures Act or its nominee.
 
 [39/2005]
 
+[Act 35 of 2014 wef 03/01/2016]
+
 ### Directions as to disposal of shares in certain circumstances
 
-33\. Where a disposal of shares in a company by a transferor to a transferee is effected by —
+33\.—(1) Subject to subsection (2), where a disposal of shares in a company by a transferor to a transferee is effected by —
 
 (a) the cancellation of the shares of the transferor in the company; and
 
@@ -1795,6 +1803,12 @@ whichever is the higher.
 such disposal of shares shall be treated as a transfer of shares from the transferor directly to the transferee and ad valorem duty shall be charged on any instrument that, in the opinion of the Commissioner, effects, whether directly or indirectly and whether wholly or partially, any arrangement for the disposal of the shares.
 
 [38/2002]
+
+[Act 35 of 2014 wef 03/01/2016]
+
+(2) Subsection (1) shall not apply to a disposal of shares made for the purpose of effecting an amalgamation of companies under section 215D of the Companies Act (Cap. 50).
+
+[Act 35 of 2014 wef 03/01/2016]
 
 ### Commissioner may disregard certain transactions and dispositions
 
@@ -4395,6 +4409,17 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 3/2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2015|
+|73.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 24/2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|3 January 2016|
+|74.|**Act 29 of 2014—Business Name Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
