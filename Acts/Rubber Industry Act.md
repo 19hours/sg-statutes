@@ -156,7 +156,9 @@ unless he is for the time being the holder of a valid licence granted under this
 
 (c) the Board considers it in the public interest to do so.
 
-(4) No person who is not an incorporated person shall be licensed under this section unless there is in respect of the business a valid certificate of registration of business issued under any written law in force in Singapore relating to the registration of businesses.
+(4) A person who is not an incorporated person may not be licensed under this section unless the person is registered under a registered business name under the Business Names Registration Act 2014.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 (5) Every licensee shall pay such annual licence fee as may be prescribed.
 
@@ -394,3 +396,9 @@ This Legislative History is provided for the convenience of users of the Rubber 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|5.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
