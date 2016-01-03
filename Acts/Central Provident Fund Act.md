@@ -5738,9 +5738,9 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of contribution
 
-1. Subject to paragraphs 1A to 7, with effect from 1 January 2016, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1\. Subject to paragraphs 1A to 7, with effect from 1 January 2016, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-(a) where the employee is 55 years of age and below:
+1.—(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -5796,7 +5796,9 @@ An amount equal to the sum of —
 
 20% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 but not more than 60 years of age:
+(b)
+
+where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -5852,7 +5854,9 @@ An amount equal to the sum of —
 
 13% of the Relevant Additional Wages.
 
-(c) where the employee is above 60 but not more than 65 years of age:
+(c)
+
+where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -5908,7 +5912,9 @@ An amount equal to the sum of —
 
 7.5% of the Relevant Additional Wages.
 
-(d) where the employee is above 65 years of age:
+(d)
+
+where the employee is above 65 years of age:
 
 First column
 
@@ -5966,65 +5972,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1A. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1A\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-(a) where the employee is 55 years of age and below:
-
-First column
-
-Second column
-
-Third column
-
-Total amount of the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 4% of the Total Wages.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-4% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
-
-Exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $540; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
-
-(b)
-
-9% of the Relevant Additional Wages.
-
-(b)
-
-5% of the Relevant Additional Wages.
-
-(b) where the employee is above 55 but not more than 60 years of age:
+1A.—(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6080,7 +6030,67 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(c) where the employee is above 60 but not more than 65 years of age:
+(b)
+
+where the employee is above 55 but not more than 60 years of age:
+
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 4% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+4% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
+
+(b)
+
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $540; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
+(b)
+
+9% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(c)
+
+where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6136,7 +6146,9 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(d) where the employee is above 65 years of age:
+(d)
+
+where the employee is above 65 years of age:
 
 First column
 
@@ -6194,9 +6206,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1B. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1B\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-(a) where the employee is 55 years of age and below:
+1B.—(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6252,7 +6264,9 @@ An amount equal to the sum of —
 
 15% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 but not more than 60 years of age:
+(b)
+
+where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -6308,7 +6322,9 @@ An amount equal to the sum of —
 
 12.5% of the Relevant Additional Wages.
 
-(c) where the employee is above 60 but not more than 65 years of age:
+(c)
+
+where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6364,7 +6380,9 @@ An amount equal to the sum of —
 
 7.5% of the Relevant Additional Wages.
 
-(d) where the employee is above 65 years of age:
+(d)
+
+where the employee is above 65 years of age:
 
 First column
 
@@ -6422,9 +6440,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1C. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1C\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-(a) where the employee is 55 years of age and below:
+1C.—(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6480,7 +6498,9 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 but not more than 60 years of age:
+(b)
+
+where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -6536,7 +6556,9 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(c) where the employee is above 60 but not more than 65 years of age:
+(c)
+
+where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6592,7 +6614,9 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(d) where the employee is above 65 years of age:
+(d)
+
+where the employee is above 65 years of age:
 
 First column
 
@@ -6650,9 +6674,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1D. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1D\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-(a) where the employee is 55 years of age and below:
+1D.—(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6708,7 +6732,9 @@ An amount equal to the sum of —
 
 15% of the Relevant Additional Wages.
 
-(b) where the employee is above 55 but not more than 60 years of age:
+(b)
+
+where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -6764,7 +6790,9 @@ An amount equal to the sum of —
 
 12.5% of the Relevant Additional Wages.
 
-(c) where the employee is above 60 but not more than 65 years of age:
+(c)
+
+where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6820,7 +6848,9 @@ An amount equal to the sum of —
 
 7.5% of the Relevant Additional Wages.
 
-(d) where the employee is above 65 years of age:
+(d)
+
+where the employee is above 65 years of age:
 
 First column
 
@@ -6934,11 +6964,13 @@ the applicable amount less —
 
 (3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
 
-4A. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
+4A\. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
 
-(a) for the year 2015, the amount of ordinary wages for any month which is in excess of $5,000 is to be disregarded; and
+4A.—(a) for the year 2015, the amount of ordinary wages for any month which is in excess of $5,000 is to be disregarded; and
 
-(b) for the year 2016 and every subsequent year, the amount of ordinary wages for any month which is in excess of $6,000 is to be disregarded.
+(b)
+
+for the year 2016 and every subsequent year, the amount of ordinary wages for any month which is in excess of $6,000 is to be disregarded.
 
 [S 752/2015 wef 01/01/2016]
 
@@ -7219,7 +7251,11 @@ Arms and Explosives Act (Cap. 13).
 
 4. 
 
-Business Registration Act (Cap. 32).
+Business Names Registration Act 2014.
+
+4.
+
+[Act 29 of 2014 wef 03/01/2016]
 
 5. 
 
@@ -7312,6 +7348,8 @@ Parking Places Act (Cap. 214).
 27. 
 
 Pawnbrokers Act 2015.
+
+27. 
 
 [Act 2 of 2015 wef 01/04/2015]
 
@@ -8140,6 +8178,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 November 2015|
 |199.|**G.N. No. S 752/2015—Central Provident Fund Act (Amendment of First Schedule) Notification 2015**|
 ||Date of commencement|1 January 2016|
+|200.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
