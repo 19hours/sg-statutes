@@ -456,7 +456,9 @@ and a reference in this Act to a person connected to another person shall be con
 
 “financial year” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
+“firm” has the same meaning as in section 2(1) of the Business Names Registration Act 2014;
+
+[Act 29 of 2014 wef 03/01/2016]
 
 “futures contract” means —
 
@@ -4951,6 +4953,12 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of First Reading|11 May 2015 (Bill No. 15/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|13 July 2015|
 ||Date of commencement|1 January 2016|
+|18.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
