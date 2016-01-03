@@ -1006,13 +1006,17 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Application of Companies Act
 
-23\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act [Cap. 50] shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation, and every such licensed corporation shall —
+23\.—(1) Sections 162, 163 and 197 of the Companies Act [Cap. 50] shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections to an exempt private company shall not include a reference to the licensed corporation, and every such licensed corporation shall —
 
-(a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
+(a) comply with the prohibitions in sections 162 and 163 of the Companies Act as if it were not an exempt private company; and
+
+[Act 36 of 2014 wef 03/01/2016]
 
 (b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197(2) of that Act as if it were not an exempt private company.
 
 [12/2002 wef 13/01/2002]
+
+[Act 36 of 2014 wef 03/01/2016]
 
 (2) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
@@ -1666,3 +1670,8 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
 |||(item (39) in the Second Schedule)|
+|14.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 25/2014)|
+||Date of Second and Third Readings|8 October 2015|
+||Date of commencement|3 January 2016|
