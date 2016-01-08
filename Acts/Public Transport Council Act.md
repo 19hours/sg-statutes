@@ -16,9 +16,19 @@
 
 - [3 Establishment and constitution of Public Transport Council](#Establishment-and-constitution-of-Public-Transport-Council)
 
+- [3A Council is body corporate](#Council-is-body-corporate)
+
 - [4 Functions of Council](#Functions-of-Council)
 
 - [5 Powers of Council](#Powers-of-Council)
+
+- [5A Directions by Minister](#Directions-by-Minister)
+
+- [5B Appointment of committees and delegation](#Appointment-of-committees-and-delegation)
+
+- [5C Appointment of Chief Executive, officers, employees, etc.](#Appointment-of-Chief-Executive-officers-employees-etc)
+
+- [5D Preservation of secrecy](#Preservation-of-secrecy)
 
 - [6 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -31,6 +41,10 @@
 - [9 Grants to Council](#Grants-to-Council)
 
 - [10 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
+
+- [10A Issue of shares, etc.](#Issue-of-shares-etc)
+
+- [10B Power of investment](#Power-of-investment)
 
 - [11 Financial provisions](#Financial-provisions)
 
@@ -196,6 +210,10 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Council and includes any temporary Chairman of the Council;
 
+“Chief Executive” means the Chief Executive of the Council appointed under section 5C and includes any individual acting in that capacity;
+
+[Act 31 of 2015 wef 08/01/2016]
+
 “clearing”, in relation to a ticket payment service, means any arrangement, process, mechanism or facility provided by a person in respect of ticket transactions, by which —
 
 (a) information relating to the terms of those transactions are verified by such person with a view to confirming the authenticity of those transactions; or
@@ -258,25 +276,61 @@ PUBLIC TRANSPORT COUNCIL
 
 (2) The First Schedule shall have effect with respect to the Council, its members and proceedings.
 
+### Council is body corporate
+
+3A\.—(1) The Public Transport Council is re-constituted as a body corporate with perpetual succession, capable of all of the following by that name:
+
+(a) suing and being sued;
+
+(b) acquiring, holding and disposing of movable and immovable property;
+
+(c) doing and suffering all acts and things that a body corporate may by law do and suffer.
+
+(2) The Council must have an official seal, which may from time to time, be broken, changed, altered or made anew as the Council thinks fit.
+
+(3) All deeds and other documents requiring the seal of the Council must be sealed with the official seal of the Council.
+
+(4) Every instrument to which the official seal of the Council is affixed must be signed —
+
+(a) by any 2 members of the Council generally or specially authorised by the Council for the purpose; or
+
+(b) by one member of the Council and the Chief Executive.
+
+(5) All courts, judges and persons acting judicially must take judicial notice of the official seal of the Council affixed to any document and must presume that it was duly affixed.
+
+[Act 31 of 2015 wef 08/01/2016]
+
 ### Functions of Council
 
-4\. The functions of the Council are —
+4\.—(1) The functions of the Council are —
 
-(a) to receive and consider applications for the grant of bus service licences, bus service operator’s licences and ticket payment service licences;
+(a) to set or approve fares and fare pricing policies for bus services, train services and taxi services in Singapore;
 
-(b) to receive and consider applications for the approval of bus, taxi and rapid transit system fares;
+(b) to promote and facilitate the integration of bus fares and train fares to ensure the provision of efficient public passenger transport services and facilities;
 
-(c) to regulate bus services, bus service operators, ticket payment services and bus, taxi and rapid transit system fares;
+(c) to evaluate and recommend to the Government improvements to, or otherwise advise the Government in respect of, bus services, train services and taxi services in Singapore so that they —
 
-(ca) to promote and facilitate the integration of bus and rapid transit system fares to ensure the provision of efficient public passenger transport services and facilities; and
+(i) may satisfy all reasonable passenger demands in Singapore for bus services, train services and taxi services;
 
-(d) to engage in such other activities and to perform such functions as the Minister may permit or assign to it by order published in theGazette.
+(ii) may offer an attractive alternative to private motor vehicle transport, and the extent of such travel, in Singapore;
 
-[29/95; 37/2005; 17/2008]
+(iii) are effectively and efficiently integrated so as to facilitate seamless travel for passengers within and between different modes of land transport and greater mobility within communities in Singapore; and
+
+(iv) provide viable public passenger transport services at a reasonable cost to the community and the Government;
+
+(d) to undertake surveys or other arrangements to obtain public feedback on any matter relating to the provision of bus services, train services and taxi services in Singapore;
+
+(e) to exercise licensing and regulatory functions in respect of the provision of ticket payment services in Singapore; and
+
+(f) to perform such functions as the Minister may, by order published in theGazette, assign.
+
+(2) Nothing in this section is to be construed as imposing on the Council, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+
+[Act 31 of 2015 wef 08/01/2016]
 
 ### Powers of Council
 
-5\. The Council shall have power to do anything for the purpose of discharging its functions under this Act or which is incidental or conducive to the discharge of those functions and, in particular, may —
+5\.—(1) The Council shall have power to do anything for the purpose of discharging its functions under this Act or which is incidental or conducive to the discharge of those functions and, in particular, may —
 
 (a) approve new bus services and adjust or cancel bus services;
 
@@ -284,19 +338,95 @@ PUBLIC TRANSPORT COUNCIL
 
 (b) appoint and employ from time to time and on such terms and conditions as the Council may determine such officers, employees and agents as the Council thinks fit for the effective performance of its functions.
 
-[29/99; 37/2005]
+[Act 31 of 2015 wef 08/01/2016]
+
+(2) The Council must furnish the Minister with information with respect to its property and activities in such manner and at such times as the Minister may require.
+
+[Act 31 of 2015 wef 08/01/2016]
+
+### Directions by Minister
+
+5A\.—(1) The Minister may, after consulting with the Council or otherwise, give to the Council such directions, not inconsistent with the provisions of this Act, as to the performance and exercise by the Council of its functions, duties and powers under this Act or any other written law as the Minister may consider necessary.
+
+(2) The Council must give effect to all directions given under subsection (1).
+
+[Act 31 of 2015 wef 08/01/2016]
+
+### Appointment of committees and delegation
+
+5B\.—(1) The Council may appoint from among its own members or from other persons who are not members such number of committees as it thinks fit for purposes which, in the opinion of the Council, would be better regulated and managed by means of such committees.
+
+(2) The Council may, subject to such conditions or restrictions as it thinks fit, delegate any of the functions, duties or powers of the Council under this Act or any other written law to —
+
+(a) the Chairman or Chief Executive;
+
+(b) any committee appointed under subsection (1); or
+
+(c) any member, officer or employee of the Council.
+
+(3) However, the Council is not authorised by subsection (2) to delegate any of the following powers:
+
+(a) the power of delegation conferred by this section;
+
+(b) the power to make any subsidiary legislation under this Act;
+
+(c) any function, duty or power conferred by any provision in Part V.
+
+(4) Any function, duty or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or person to whom it has been delegated in the name and on behalf of the Council.
+
+(5) No delegation under this section prevents the performance or exercise of any function, duty or power by the Council.
+
+[Act 31 of 2015 wef 08/01/2016]
+
+### Appointment of Chief Executive, officers, employees, etc.
+
+5C\.—(1) The Council must, with the approval of the Minister, appoint a Chief Executive on terms and conditions determined by the Council.
+
+(2) The Chief Executive —
+
+(a) is responsible to the Council for the proper administration and management of the functions, duties and affairs of the Council in accordance with the policy laid down by the Council; and
+
+(b) is not to be removed from office without the consent of the Minister.
+
+(3) Where the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness, or is for any other reason temporarily unable to perform his duties, a person may be appointed by the Council to act in the place of the Chief Executive during any such period of absence from duty.
+
+(4) The Chief Executive may be known by such designation as the Council determines.
+
+(5) The Council may employ on such terms and conditions as the Council may determine other officers and employees necessary for the effective performance of its functions and discharge of its duties under this Act or any other written law.
+
+[Act 31 of 2015 wef 08/01/2016]
+
+### Preservation of secrecy
+
+5D\.—(1) Except for the purpose of the performance of his duties, or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, an individual who is or has been —
+
+(a) a member, an officer, an employee or an agent of the Council;
+
+(b) a member of a committee of the Council; or
+
+(c) an inspector,
+
+must not disclose any information relating to the affairs of the Council or of any other person which has been obtained by the individual in the performance of the individual’s duties or the exercise of the individual’s functions under this Act.
+
+(2) Any individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 31 of 2015 wef 08/01/2016]
 
 ### Protection from personal liability
 
-6\. No suit or legal proceedings shall lie personally against any member, officer or employee of the Council or other person acting under the direction of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+6\. No liability is to lie personally against any member, officer or employee of the Council, committee member or other person acting under the direction of the Council who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
 
-[29/99]
+[Act 31 of 2015 wef 08/01/2016]
 
 ### Public servants
 
-7\. Every member, officer and employee of the Council and every public transport official shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+7\.—(1) Every member, officer and employee of the Council and every public transport official shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
-[29/99; 37/2005]
+[Act 31 of 2015 wef 08/01/2016]
+
+(2) The members, officers and employees of the Council are, in relation to their administration, assessment, collection and enforcement of payment of composition sums under section 26, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to these persons even though they are not or were not in the employment of the Government.
+
+[Act 31 of 2015 wef 08/01/2016]
 
 ## PART III
 
@@ -319,6 +449,24 @@ FINANCIAL PROVISIONS
 (2) Every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Council.
 
 (3) The moneys of the Council shall be applied only in payment or discharge of expenses, obligations and liabilities of the Council and in making any payments that the Council is authorised or required to make.
+
+### Issue of shares, etc.
+
+10A\. As a consequence of —
+
+(a) the vesting of any property, rights or liabilities of the Government in the Council under this Act; or
+
+(b) any capital injection or other investment by the Government in the Council in accordance with any written law,
+
+the Council must issue such shares or other securities to the Minister for Finance as that Minister may, from time to time, direct.
+
+[Act 31 of 2015 wef 08/01/2016]
+
+### Power of investment
+
+10B\. The Council may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[Act 31 of 2015 wef 08/01/2016]
 
 ### Financial provisions
 
@@ -1482,7 +1630,11 @@ Constitution and proceedings of Council
 
 Constitution of Council
 
-1\. The Council shall consist of such members as may be appointed by the Minister.
+1.—(1) The Council shall consist of such members as may be appointed by the Minister.
+
+(2) The Minister may appoint the Chief Executive to be a member of the Council.
+
+[Act 31 of 2015 wef 08/01/2016]
 
 Appointment of Chairman and Deputy Chairman
 
@@ -1686,6 +1838,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|12 November 2014|
 |19.|**G.N. No. S 511/2015—Public Transport Council Act (Amendment of Third Schedule) (No. 2) Order 2015**|
 ||Date of commencement|25 August 2015|
+|20.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 27/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|8 January 2016|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
