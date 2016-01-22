@@ -48,23 +48,9 @@
 
 - [11 Financial provisions](#Financial-provisions)
 
-[**Part IV LICENSING OF BUS SERVICES**](#Part-IV)
+[**Part IV (Repealed)**](#Part-IV)
 
-- [12 Bus service licences](#Bus-service-licences)
-
-- [13 (Repealed)](#Repealed)
-
-- [14 Matters to be considered by Council in granting or renewing bus service licences](#Matters-to-be-considered-by-Council-in-granting-or-renewing-bus-service-licences)
-
-- [15 Conditions of bus service licence](#Conditions-of-bus-service-licence)
-
-[**Part IVA LICENSING OF BUS SERVICE OPERATORS**](#Part-IVA)
-
-- [16 Bus service operator’s licences](#Bus-service-operator’s-licences)
-
-- [17 Matters to be considered by Council in granting or renewing bus service operator’s licences](#Matters-to-be-considered-by-Council-in-granting-or-renewing-bus-service-operator’s-licences)
-
-- [18 Conditions of bus service operator’s licence](#Conditions-of-bus-service-operator’s-licence)
+[**Part IVA (Repealed)**](#Part-IVA)
 
 [**Part IVB LICENSING OF TICKET PAYMENT SERVICES**](#Part-IVB)
 
@@ -98,15 +84,29 @@
 
 - [22I Appeal to Minister](#Appeal-to-Minister)
 
-[**Part V BUS, TAXI AND RAPID TRANSIT SYSTEM FARES**](#Part-V)
+[**Part V BUS FARES, TAXI FARE PRICING POLICIES AND TRAIN FARES**](#Part-V)
 
-- [23 Bus, taxi and rapid transit system fares](#Bus-taxi-and-rapid-transit-system-fares)
+[**Division 1  General**](#Division-1--General)
+
+- [23 Bus, taxi and train fares](#Bus-taxi-and-train-fares)
+
+- [23A Obtaining information for fare setting or reviews, etc.](#Obtaining-information-for-fare-setting-or-reviews-etc)
+
+[**Division 2  Taxi fare pricing policy**](#Division-2--Taxi-fare-pricing-policy)
+
+- [23B Taxi fare pricing policy orders](#Taxi-fare-pricing-policy-orders)
+
+- [23C Lodgment of taxi fares and common pricing schemes](#Lodgment-of-taxi-fares-and-common-pricing-schemes)
+
+[**Division 3  Bus fares and train fares**](#Division-3--Bus-fares-and-train-fares)
 
 - [24 Application for approval of fares](#Application-for-approval-of-fares)
 
-- [24AA Review of bus and rail fares](#Review-of-bus-and-rail-fares)
+- [24AA Unilateral review of fares, etc.](#Unilateral-review-of-fares-etc)
 
-- [24AB Notice and consultation requirements, etc.](#Notice-and-consultation-requirements-etc)
+- [24AB Fare review mechanism](#Fare-review-mechanism)
+
+- [24AC Contribution of proportion of fare increases](#Contribution-of-proportion-of-fare-increases)
 
 [**Part VA PUBLIC TRANSPORT OFFICIALS**](#Part-VA)
 
@@ -138,7 +138,7 @@
 
 - [25 Annual report](#Annual-report)
 
-- [25A Penalty for operation of service without licence](#Penalty-for-operation-of-service-without-licence)
+- [25A Penalty for unauthorised ticket payment service](#Penalty-for-unauthorised-ticket-payment-service)
 
 - [25B Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
@@ -180,9 +180,11 @@ REVISED EDITION 2012
 
 (31st March 2012)
 
-An Act to provide for the establishment of the Public Transport Council to provide for the licensing of bus services, bus service operators and ticket payment services, to regulate bus, taxi and rapid transit system fares and for matters connected therewith.
+An Act to provide for the establishment of the Public Transport Council to provide for the licensing of ticket payment services, to regulate bus fares, taxi fares and train fares and for matters connected therewith.
 
 [29/99; 37/2005]
+
+[Act 31 of 2015 wef 22/01/2016]
 
 [14th August 1987]
 
@@ -200,13 +202,29 @@ PRELIMINARY
 
 “bus” means any motor vehicle registered as a bus under the Road Traffic Act (Cap. 276);
 
-“bus service” means a service that is provided to any person upon the payment of a fare using one or more buses operating on pre-determined timetables and routes;
+“bus fare” means the price payable by a passenger for any bus service involving the carriage of the passenger on a bus;
 
-“bus service licence” means a bus service licence granted under Part IV;
+[Act 31 of 2015 wef 22/01/2016]
 
-“bus service operator” means any person who operates 10 or more bus services;
+“bus operator”, in relation to a bus service, means the person who operates the bus service but does not include —
 
-“bus service operator’s licence” means a bus service operator’s licence granted under Part IVA;
+(a) the Land Transport Authority of Singapore; or
+
+(b) a person who merely arranges for the registration of a bus, drives a bus, or maintains or arranges for the maintenance of a bus;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“bus service” means a service for the carriage of passengers for a fare by buses on roads for journeys wholly or partly within Singapore according to pre-determined routes and timetables with 2 or more bus stopping points within Singapore, but does not include a bus service excluded from this definition by the Minister by order published in theGazette;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“bus service licence” means a licence granted (or deemed granted) under the Bus Services Industry Act 2015 to operate one or more bus services;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+[Deleted by Act 30 of 2015 wef 22/01/2016]
+
+[Deleted by Act 30 of 2015 wef 22/01/2016]
 
 “Chairman” means the Chairman of the Council and includes any temporary Chairman of the Council;
 
@@ -220,9 +238,53 @@ PRELIMINARY
 
 (b) the amount payable to the parties under those transactions is calculated and verified;
 
+“common pricing scheme”, for any fare component for a taxi service, means a contract made between the prescribed taxi industry participants providing the taxi service that provides —
+
+(a) for a common price or price structure for the fare component in relation to that taxi service; and
+
+(b) for periodic reviews of that common price or price structure,
+
+and includes any variation of that contract;
+
+[Act 31 of 2015 wef 22/01/2016]
+
 “Council” means the Public Transport Council established under section 3;
 
-“fare”, in relation to a taxi, means the rate payable for hiring the taxi, and includes any surcharge approved by the Council as being payable for such hire;
+“fare” means any bus fare, taxi fare or train fare;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“invalid ticket” means a ticket that is for a journey on a bus or train operated by a public bus operator or licensed rapid transit system operator for which a ticket is required and —
+
+(a) that is used, or attempted to be used —
+
+(i) for a journey that is not the journey for which the ticket was issued;
+
+(ii) to over-travel the fare that was paid for the journey, without reasonable excuse; or
+
+(iii) by a person who is not the first user of a ticket which is non-transferable;
+
+(b) that has been altered or defaced;
+
+(c) that is counterfeit; or
+
+(d) that is expired;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“Land Transport Authority of Singapore” or “LTA” means the public authority of that name constituted under the Land Transport Authority of Singapore Act (Cap. 158A);
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“licensed” means —
+
+(a) licensed under the Bus Services Industry Act 2015 in the case of a bus operator;
+
+(b) licensed under the Rapid Transit Systems Act (Cap. 263A) in the case of an operator of a rapid transit system; or
+
+(c) licensed under the Road Traffic Act (Cap. 276) in the case of a taxi service operator or a taxi driver;
+
+[Act 31 of 2015 wef 22/01/2016]
 
 “licensee” means a person to whom any licence has been granted under this Act;
 
@@ -234,15 +296,121 @@ PRELIMINARY
 
 (b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act;
 
+“over-travel”, in relation to a fare, means to remain on a bus or train after the place, distance or time covered by the fare paid for the journey has been reached and includes, for a smartcard ticket, tapping out before the completion of the journey or part of the journey;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“paid area” means —
+
+(a) any platform of a railway station that is part of a rapid transit system; and
+
+(b) any area between such a platform and any ticket barrier access or ticket validating machine past which access is gained to the platform;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“passenger” means an individual carried upon a bus, train or taxi, as the case may be, but does not include —
+
+(a) an owner, a driver or fare collector of a bus, train or taxi while carrying out work or on duty in that capacity; or
+
+(b) a public transport official while carrying out work or on duty in that capacity;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“penalty fee” means the penalty fee referred to in section 24C;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“price”, in relation to any fare, includes —
+
+(a) the amount of any rate, fee, levy and charge and any other valuable consideration (however described) for a journey by bus, train or taxi (as the case may be), whether or not it is paid or given to an operator of a bus service, train service, taxi service or a driver of a bus, train or taxi;
+
+(b) the provision of, or arrangements for, a discount, concession, allowance, rebate or credit applying in relation to any amount in paragraph (a); and
+
+(c) in the case of a taxi fare, includes the amount of a taxi booking fee,
+
+but does not include a consideration of a kind prescribed by the Minister by order in theGazettefor the purposes of this definition;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“pricing policy” means the policy for setting any fare, including a policy relating to the level or structure of prices for any fare;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“public bus operator” means a licensed bus operator who is party to a public bus services contract for the provision of bus services specified in that contract, and includes a licensed bus operator holding a Class 1 bus service licence but is not party to such a contract;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“public bus services contract” has the same meaning as in the Bus Services Industry Act 2015;
+
+[Act 31 of 2015 wef 22/01/2016]
+
 “public service vehicle” has the same meaning as in the Road Traffic Act;
 
 “public transport official” means a person appointed by the Council as a public transport official under section 24A;
 
 “rapid transit system” has the same meaning as in the Rapid Transit Systems Act (Cap. 263A);
 
+“registered provider” has the same meaning as in the Third-Party Taxi Booking Service Providers Act 2015 (Act 17 of 2015);
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“smartcard reader” means a device or combination of devices that is capable of electronically reading, recording and processing information from a ticket that is a smartcard, and copying or transferring information from the smartcard and storing and displaying the information in legible form;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“tap in”, where payment of a fare is made using a smartcard, means to present a smartcard ticket to a smartcard reader on starting a journey, or part of a journey, resulting in a response from smartcard reader that the transaction is successful;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“tapping out”, where payment of a fare is made using a smartcard, means to present a smartcard ticket to a smartcard reader on completing a journey, or part of a journey, resulting in a response from the smartcard reader that the transaction is successful;
+
+[Act 31 of 2015 wef 22/01/2016]
+
 “taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act;
 
-“ticket” means any form of authorisation, issued for the conveyance of any passenger on a rapid transit system or on any bus operated by a bus service operator, or both;
+“taxi booking fee” means a fee for a service that —
+
+(a) facilitates bookings for taxi services;
+
+(b) sends information about bookings for taxi services to taxi drivers;
+
+(c) assigns bookings for taxi services to taxi drivers; and
+
+(d) assigns taxis to persons making bookings for taxi services,
+
+whether provided by a licensed taxi service operator or a registered provider;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“taxi industry participant” means —
+
+(a) a licensed taxi service operator; or
+
+(b) a taxi driver licensed under the Road Traffic Act to drive a taxi not owned by a licensed taxi service operator;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“taxi service” means the service of transporting of passengers for a journey within or partly within Singapore for a fare by taxi where the taxi —
+
+(a) plies for hire on roads in Singapore;
+
+(b) is available for hire from designated taxi stands on public roads in Singapore; or
+
+(c) is hired through a booking service provided by a licensed taxi service operator or a registered provider;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“taxi service operator” has the same meaning as in section 111A of the Road Traffic Act;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“ticket” means any form of authorisation, issued for the conveyance of any passenger on a rapid transit system or on any bus operated by a public bus operator, or both;
+
+[Act 31 of 2015 wef 22/01/2016]
 
 “ticket payment service” means —
 
@@ -256,9 +424,23 @@ PRELIMINARY
 
 “ticket payment service licence” means a licence granted under Part IVB;
 
-“ticket transaction” means any record of a fare deduction created by the use of a mode of payment for tickets.
+“ticket transaction” means any record of a fare deduction created by the use of a mode of payment for tickets;
 
 [29/95; 29/99; 28/2001; 37/2005; 2/2007]
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“train” means a train used as part of a rapid transit system the operation of which is licensed under the Rapid Transit Systems Act;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“train fare” means the price payable by a passenger for any service involving the carriage of the passenger on a train operated by a licensed rapid transit system operator;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+“train service” means the service for the transport of passengers by one or more trains on a rapid transit system within Singapore for a fare.
+
+[Act 31 of 2015 wef 22/01/2016]
 
 ## PART II
 
@@ -332,9 +514,11 @@ PUBLIC TRANSPORT COUNCIL
 
 5\.—(1) The Council shall have power to do anything for the purpose of discharging its functions under this Act or which is incidental or conducive to the discharge of those functions and, in particular, may —
 
-(a) approve new bus services and adjust or cancel bus services;
+(a) grant ticket payment service licences and supervise and enforce compliance with the terms of those licences; and
 
-(aa) grant bus service operator’s licences and ticket payment service licences and supervise and enforce compliance with the provisions of such licences; and
+[Act 31 of 2015 wef 22/01/2016]
+
+(aa) [Deleted by Act 31 of 2015 wef 22/01/2016]
 
 (b) appoint and employ from time to time and on such terms and conditions as the Council may determine such officers, employees and agents as the Council thinks fit for the effective performance of its functions.
 
@@ -474,161 +658,11 @@ the Council must issue such shares or other securities to the Minister for Finan
 
 ## PART IV
 
-LICENSING OF BUS SERVICES
-
-### Bus service licences
-
-12\.—(1) No person shall operate any bus service without a bus service licence.
-
-[37/2005]
-
-(2) An application for the grant or renewal of a bus service licence shall be made to the Council in such form or manner as the Council may require and shall be accompanied by such particulars, information and documents as may be specified by the Council.
-
-[37/2005]
-
-(3) Upon receipt of an application under subsection (2), the Council may —
-
-(a) grant or renew the licence permitting the applicant to provide a bus service on such terms and conditions as the Council thinks fit; or
-
-(b) refuse to grant or renew the licence.
-
-[37/2005]
-
-(4) A bus service licence shall be for a period not exceeding 5 years and the fee to be paid by the person to whom any such licence is granted shall be in accordance with a scale of fees to be prescribed by the Council.
-
-[37/2005]
-
-13\. [Repealed by Act 37 of 2005 wef 03/04/2006]
-
-### Matters to be considered by Council in granting or renewing bus service licences
-
-14\. In exercising its discretion to grant, renew or refuse to grant or renew a bus service licence under section 12 and the terms and conditions to impose thereon, the Council shall have regard to —
-
-(a) the financial standing of the applicant and his ability to maintain an adequate, satisfactory, safe and efficient service;
-
-(b) the suitability of the route or routes on which a service is to be provided under the licence;
-
-(c) the extent, if any, to which the needs of the proposed route or routes are already adequately and satisfactorily served by existing transport facilities;
-
-(d) the extent to which the proposed service is necessary or desirable in the public interest; and
-
-(e) the needs of the area as a whole in relation to passenger demand (including the provision of adequate, safe, suitable and efficient services, the elimination of unnecessary or unsatisfactory services and the provision of unremunerative services) and the co-ordination of all forms of passenger transport.
-
-[37/2005]
-
-### Conditions of bus service licence
-
-15\. Without prejudice to the generality of section 12(3), the Council may, in granting or renewing a bus service licence, impose conditions relating to —
-
-(a) the timetable of the bus service and the number of buses to be provided;
-
-(b) the carrying and availability for inspection in vehicles used on the bus service of copies of the timetable and fare-table;
-
-(c) the taking up and setting down of passengers at specified points;
-
-(d) the prevention of racing, cutting in and dangerous competition with other vehicles on the route;
-
-(e) the deposit of such security as may be determined by the Council for the due performance by the licensee of any obligations imposed upon him by the bus service licence or by this Act or any other written law;
-
-(f) the general level of services to be provided by the licensee to members of the public;
-
-(g) the use or installation of integrated ticketing and information systems; and
-
-(h) the provision of route information.
-
-[37/2005]
+[Repealed by Act 30 of 2015 wef 22/01/2016]
 
 ## PART IVA
 
-LICENSING OF BUS SERVICE OPERATORS
-
-### Bus service operator’s licences
-
-16\.—(1) No person shall operate 10 or more bus services without a bus service operator’s licence.
-
-[37/2005]
-
-(2) An application for the grant or renewal of a bus service operator’s licence shall be made to the Council in such form or manner as the Council may require and shall be accompanied by such particulars, information and documents as may be specified by the Council.
-
-[37/2005]
-
-(3) Subject to section 22C, upon receipt of an application under subsection (2), the Council may —
-
-(a) grant or renew the licence permitting the applicant to operate any bus service for such period and on such terms and conditions as the Council thinks fit; or
-
-(b) refuse to grant or renew the licence.
-
-[37/2005]
-
-### Matters to be considered by Council in granting or renewing bus service operator’s licences
-
-17\. In exercising its discretion to grant, renew or refuse to grant or renew a bus service operator’s licence under section 16 and the terms and conditions to impose thereon, the Council shall have regard to —
-
-(a) the financial standing of the applicant;
-
-(b) the ability of the applicant to provide a satisfactory bus service to members of the public in relation to safety, continuity, hours of operation, frequency, reliability, passenger capacity, vehicle quality and general efficiency;
-
-(c) the existence of other bus services;
-
-(d) the demand for bus services; and
-
-(e) any other matter which the Council thinks relevant.
-
-[37/2005]
-
-### Conditions of bus service operator’s licence
-
-18\.—(1) Without prejudice to the generality of section 16(3), the Council may, in granting or renewing a bus service operator’s licence, impose conditions —
-
-(a) requiring the payment to the Council of a fee on the grant or renewal of the licence or periodic fees for the duration of the licence, or both, of such amount as may be prescribed by the Council;
-
-(b) requiring the payment to the Council of a security deposit or performance bond on the grant of the licence, of such amount as may be determined by the Council;
-
-(c) relating to the provision of integrated service information or ticketing systems;
-
-(d) requiring the licensee to do, or not to do, such things as are specified or described in the licence;
-
-(e) relating to the extent, hours and general level of services to be provided by the licensee to members of the public;
-
-(f) relating to the condition and use of the buses managed by the licensee in operating the bus service;
-
-(g) relating to the conduct of the employees, agents and contractors of the licensee;
-
-(h) relating to the forfeiture of security deposit or performance bond for any breach of licence conditions;
-
-(i) if the licensee is a company, requiring the approval of the Council for the appointment, reappointment or removal of any person as the chairman of the board of directors of that company; and
-
-(j) requiring the licensee to submit such data and undergo and pass such audit as the Council may determine for compliance with —
-
-(i) the relevant provisions of this Act;
-
-(ii) the terms and conditions of the licence;
-
-(iii) the codes of practice issued, approved or modified by the Council under section 22E; and
-
-(iv) any direction given by the Council under section 22F.
-
-[37/2005]
-
-(2) For the purpose of subsection (1)(j) —
-
-(a) the audit shall be conducted by —
-
-(i) officers of the Council who have been duly designated by the Council for the purpose; or
-
-(ii) a qualified independent audit team approved by the Council for the purpose;
-
-(b) the Council may require the licensee —
-
-(i) to submit to the Council or to the persons conducting the audit such information as the Council may specify which pertains to the operation of any bus service by the licensee; and
-
-(ii) to allow the persons conducting the audit to carry out on-site collection or verification of any information which pertains to the operation of any bus service by the licensee;
-
-(c) any sample size used by the persons conducting the audit shall be deemed to be reasonable; and
-
-(d) the costs of and incidental to the conduct of the audit shall be borne by the licensee.
-
-[37/2005]
+[Repealed by Act 30 of 2015 wef 22/01/2016]
 
 ## PART IVB
 
@@ -726,7 +760,7 @@ FUEL EQUALISATION FUND
 
 ### Establishment of Fuel Equalisation Fund
 
-22A\.—(1) Every person to whom a bus service operator’s licence or a licence under Part III of the Rapid Transit Systems Act (Cap. 263A) has been granted shall —
+22A\.—(1) Every person to whom Class 1 bus service licence a licence under Part III of the Rapid Transit Systems Act (Cap. 263A) has been granted shall —
 
 (a) establish and maintain a Fuel Equalisation Fund (referred to in this Part as the Fund) for the purpose of mitigating the effects of any increase in fuel price and electricity tariff; and
 
@@ -735,6 +769,8 @@ FUEL EQUALISATION FUND
 [37/2005]
 
 (2) No person referred to in subsection (1) shall withdraw any sum of money from the Fund except with the approval of the Council.
+
+[Act 30 of 2015 wef 22/01/2016]
 
 [37/2005]
 
@@ -778,11 +814,13 @@ GENERAL PROVISIONS RELATING TO LICENCES
 
 ### Constitution of partnership or company to be licensed
 
-22C\.—(1) If the applicant for a licence under Part IVA or IVB is a partnership, all the partners of the partnership must be approved by the Council before the licence may be granted or renewed.
+22C\.—(1) If the applicant for a licence under Part IVB is a partnership, all the partners of the partnership must be approved by the Council before the licence may be granted or renewed.
+
+[Act 30 of 2015 wef 22/01/2016]
 
 [37/2005]
 
-(2) If the applicant for a licence under Part IVA or IVB is a limited liability partnership —
+(2) If the applicant for a licence under Part IVB is a limited liability partnership —
 
 (a) all the partners of the limited liability partnership must be approved by the Council; and
 
@@ -790,9 +828,13 @@ GENERAL PROVISIONS RELATING TO LICENCES
 
 before the licence may be granted or renewed.
 
+[Act 30 of 2015 wef 22/01/2016]
+
 [37/2005]
 
-(3) If the applicant for a licence under Part IVA or IVB is a company, all the directors of the company must be approved by the Council before the licence may be granted or renewed.
+(3) If the applicant for a licence under Part IVB is a company, all the directors of the company must be approved by the Council before the licence may be granted or renewed.
+
+[Act 30 of 2015 wef 22/01/2016]
 
 [37/2005]
 
@@ -800,7 +842,7 @@ before the licence may be granted or renewed.
 
 [37/2005]
 
-(5) Every licensee to whom a licence has been granted under Part IVA or IVB shall inform the Council of —
+(5) Every licensee to whom a licence has been granted under Part IVB shall inform the Council of —
 
 (a) if the licensee is a partnership, the withdrawal by, or the expulsion of, any partner from the partnership;
 
@@ -810,11 +852,13 @@ before the licence may be granted or renewed.
 
 (d) if the licensee is a partnership, limited liability partnership or company, the death of any partner or director.
 
+[Act 30 of 2015 wef 22/01/2016]
+
 [37/2005]
 
 ### Licensee to submit accounts
 
-22D\.—(1) Every licensee to whom a licence has been granted under Part IVA or IVB shall submit —
+22D\.—(1) Every licensee to whom a licence has been granted under Part IVB shall submit —
 
 (a) a copy of the balance-sheet and of the profit and loss account for the financial year which have been respectively audited by the licensee’s auditors (including every document required by law to be annexed or attached thereto) and certified to be a true copy by —
 
@@ -829,6 +873,8 @@ before the licence may be granted or renewed.
 (b) a certified copy of the report of the auditors thereon,
 
 within 3 months after the close of each financial year of the licensee’s undertaking or within such extended period as the Council may approve.
+
+[Act 30 of 2015 wef 22/01/2016]
 
 [37/2005]
 
@@ -860,11 +906,15 @@ within 3 months after the close of each financial year of the licensee’s under
 
 22E\.—(1) The Council may issue or approve and, from time to time, modify codes of practice in connection with —
 
-(a) the operation or provision of any bus service or ticket payment service by licensees;
+(a) the operation or provision of any ticket payment service by licensees;
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (b) the conduct of licensees; and
 
-(c) the preservation and promotion of fair competition amongst operators of bus services or providers of ticket payment services.
+(c) the preservation and promotion of fair competition amongst providers of ticket payment services.
+
+[Act 30 of 2015 wef 22/01/2016]
 
 [37/2005]
 
@@ -884,11 +934,17 @@ within 3 months after the close of each financial year of the licensee’s under
 
 22F\.—(1) The Council may give directions to be observed by licensees for or in respect of the following matters:
 
-(a) the extent, hours and general level of bus services or ticket payment services to be operated or provided by licensees;
+(a) the extent, hours and general level of ticket payment services to be operated or provided by licensees;
 
-(b) the operation or provision of bus services or ticket payment services by licensees;
+[Act 30 of 2015 wef 22/01/2016]
 
-(c) the preservation and promotion of fair competition amongst operators of bus services or providers of ticket payment services; and
+(b) the provision of ticket payment services by licensees;
+
+[Act 30 of 2015 wef 22/01/2016]
+
+(c) the preservation and promotion of fair competition amongst providers of ticket payment services; and
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (d) any other matters affecting the interests of the public in connection with the services provided by licensees.
 
@@ -974,7 +1030,7 @@ the Council shall issue a direction in writing to the licensee requiring the lic
 
 (a) contravenes or fails to secure the compliance by his employees, agents or contractors with —
 
-(i) any condition of a bus service licence or bus service operator’s licence;
+(i) [Deleted by Act 30 of 2015 wef 22/01/2016]
 
 (ii) any condition of a ticket payment service licence; or
 
@@ -982,7 +1038,7 @@ the Council shall issue a direction in writing to the licensee requiring the lic
 
 (b) in the opinion of the Council, fails or is likely to fail to provide and maintain —
 
-(i) an adequate and satisfactory bus service; or
+(i) [Deleted by Act 30 of 2015 wef 22/01/2016]
 
 (ii) an adequate, satisfactory, secure and efficient ticket payment service;
 
@@ -1012,7 +1068,9 @@ the Council may, by notice in writing and without any compensation, do all or an
 
 22I\.—(1) Any licensee aggrieved by —
 
-(a) any refusal by the Council to renew a licence under section 16(3) or 19(3);
+(a) any refusal by the Council to renew a licence under section 19(3);
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (b) any condition imposed by the Council under section 21(1)(e);
 
@@ -1040,69 +1098,269 @@ may, within 14 days of the receipt of the notice relating to the relevant matter
 
 ## PART V
 
-BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
+BUS FARES, TAXI FARE PRICING POLICIES AND TRAIN FARES
 
-### Bus, taxi and rapid transit system fares
+[Act 31 of 2015 wef 22/01/2016]
 
-23\.—(1) Subject to subsection (2), no person shall be entitled to demand and take any bus, taxi or rapid transit system fare that is not approved by the Council under section 24(3) or 24AA(2)(a).
+Division 1 —
 
-[29/95; 29/99; 17/2008]
+General
 
-(2) Subsection (1) shall not prevent any person from demanding or taking a lower fare than that approved by the Council in circumstances not proscribed by the Council.
+### Bus, taxi and train fares
 
-[29/99; 17/2008]
+23\.—(1) A person must not demand or take from a bus passenger, for any bus service involving the carriage of the passenger on a bus and operated by the person, or by the person on behalf of the licensed bus operator of the bus service, a bus fare that —
+
+(a) is more than the maximum price approved under section 24 or 24AA for that bus service;
+
+(b) is inconsistent with any part of the pricing policy set or approved under section 24 or 24AA for that bus service; or
+
+(c) is different from the bus fare last published by the licensed bus operator for that bus service.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(1A) A person must not demand or take from a train passenger, for any train service involving the carriage of the passenger on a train and operated by the person, or by the person on behalf of the licensed rapid transit system operator, a train fare that —
+
+(a) is more than the maximum price approved under section 24 or 24AA for that train service;
+
+(b) is inconsistent with any part of the pricing policy set or approved under section 24 or 24AA for that train service; or
+
+(c) is different from the train fare last published by the licensed rapid transit system operator for that train service.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(2) A person must not demand or take from a taxi passenger for hiring a taxi for the passenger’s journey a taxi fare that —
+
+(a) is inconsistent with any part of the pricing policy set under section 23B for that taxi service; or
+
+(b) is more than the taxi fare last published by the licensed taxi service operator for that taxi service.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(2A) A taxi service operator which offers to the public, or any section of the public, any taxi service for any taxi fare that is inconsistent with any part of the pricing policy set under section 23B for that taxi service shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 31 of 2015 wef 22/01/2016]
 
 (3) If any dispute arises as to the fare calculated according to distance, the dispute may be referred to the Council or to the officer-in-charge of any police station whose decision shall be final, and any certificate issued by the Council or the police officer with regard thereto shall be admissible in evidence.
 
-[29/99]
+(4) Any person who demands or takes or attempts to take any money in contravention of subsection (1), (1A) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(4) Any person who demands or takes or attempts to take any money in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 31 of 2015 wef 22/01/2016]
 
-[29/99; 37/2005; 17/2008]
+(5) For the purposes of this section, where the Council revokes or suspends its approval of any bus fare or train fare under section 24(4) or (5)(a) (called in this section the replaced fare) —
 
-(5) Where the Council has suspended any approval for any bus fare, taxi fare or rapid transit system fare under section 24(5), the bus fare, taxi fare or rapid transit system fare shall, for the duration of the suspension, be deemed not to be an approved fare for the purposes of this section.
+(a) the last revocation revives the bus fare or train fare approved (if any) by the Council previous to it approving the replaced fare, and with effect from the revocation, the bus fare or train fare revived is to be regarded as an approved maximum price for the fare; or
 
-[17/2008]
+(b) for the period of suspension, the bus fare or train fare approved by the Council previous to the suspension of the replaced fare is revived, and for that period, the replaced bus fare or train fare is not to be regarded as an approved maximum price for the fare.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(6) To avoid doubt, subsections (1) and (4) bind —
+
+(a) the Land Transport Authority of Singapore in respect of every public bus services contract it is a party to, or when the Land Transport Authority of Singapore operates a bus service, as if it is the bus operator in that subsection;
+
+(b) every public bus operator providing bus services under a public bus services contract as if it is the bus operator in that subsection; and
+
+(c) every employee of the Land Transport Authority of Singapore or a bus operator referred to in paragraph (b) employed to deliver those bus services.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+[Act 31 of 2015 wef 22/01/2016]
+
+### Obtaining information for fare setting or reviews, etc.
+
+23A\.—(1) In this section, “relevant person” means —
+
+(a) any licensed bus operator;
+
+(b) any licensed rapid transit system operator; or
+
+(c) any taxi industry participant.
+
+(2) The Council may by written notice require a relevant person to furnish, within a reasonable period and in such form and manner as may be specified in the notice, such accounts, financial statements or other documents and information —
+
+(a) which the Council considers necessary to carry out the functions or duties of or assigned to the Council by or under section 23B, 24 or 24AA; and
+
+(b) which are within the knowledge of the relevant person or are in the relevant person’s custody or under the relevant person’s control.
+
+(3) The power to require a relevant person to furnish any accounts, financial statements, document or information under subsection (2) includes the power to require the relevant person, or any person who is or was an officer or employee of the relevant person, to provide an explanation of the accounts, financial statements, document or information.
+
+(4) Any person who, in furnishing any accounts, financial statements, document or information required under subsection (2) —
+
+(a) makes a statement which the person knows to be false or misleading in a material particular; or
+
+(b) recklessly makes a statement which is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) Any person who, without reasonable excuse, refuses to furnish any accounts, financial statements, document or information required under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(6) The Council may by written notice require the LTA to furnish or supply to the Council any particulars or information —
+
+(a) which are obtained by the LTA in the performance of its function under the Bus Services Industry Act 2015; and
+
+(b) which the Council considers necessary to carry out the functions or duties of or assigned to the Council by or under this Part.
+
+(7) Despite the provisions of the Land Transport Authority of Singapore Act (Cap. 158A), the LTA must furnish the particulars and information required under subsection (6) within such time as may be agreed to between the Council and the LTA.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+Division 2 —
+
+Taxi fare pricing policy
+
+### Taxi fare pricing policy orders
+
+23B\.—(1) Subject to subsection (4) and any regulations made under subsection (8), the Council may, by order published in theGazette(called a taxi fare pricing policy order), set the pricing policy for taxi fares for any taxi service.
+
+(2) A taxi fare pricing policy order for a taxi service may set the price-fixing factors for taxi fares in any manner the Council considers appropriate, including —
+
+(a) fixing the components of taxi fares for the taxi service;
+
+(b) fixing the pricing policy or principles that are to be applied in relation to the taxi service provided;
+
+(c) specifying a factor or factors to be applied, and the manner in which such a factor is or factors are to be applied, in setting taxi fares or terms and conditions for the taxi service provided;
+
+(d) fixing the basis on which prices of taxi fares are to be calculated for different taxis, for different types of journeys by taxis, for different passengers or for hiring of taxis in different circumstances;
+
+(e) fixing a price for components of a taxi fare where a common pricing scheme is permitted and there is no common pricing scheme in effect;
+
+(f) fixing a maximum or minimum price or price range, or a maximum rate of increase or decrease or minimum rate of increase or decrease in the price or the maximum and minimum price for taxi fares for the taxi service provided, or other price control formula; and
+
+(g) any other terms the Council considers appropriate.
+
+(3) A taxi fare pricing policy order for a taxi service may —
+
+(a) permit the taxi industry participants, by a common pricing scheme, to vary one or more components of a taxi fare for the taxi service set for that component in the taxi fare pricing policy order; and
+
+(b) require a taxi industry participant to provide information to other taxi industry participants, passengers, prospective passengers or others, or generally publish, or cause to be published, information, relating to its prices of and pricing policies for taxi fares for taxi services provided by the taxi industry participant.
+
+(4) In making a taxi fare pricing policy order, the Council must consider the following factors:
+
+(a) the demand and supply of taxi services;
+
+(b) the standards of quality, reliability and safety of the taxi services, whether those standards are specified by legislation, agreement or otherwise, and any suggested or actual changes to those standards;
+
+(c) the need for greater efficiency in providing passengers responsive, safe, competitive, efficient and accessible taxi services;
+
+(d) such other matters as the Council considers relevant.
+
+(5) A taxi fare pricing policy order under subsection (1) takes effect on a date specified in the order, and —
+
+(a) cannot be varied (except as contemplated by the order); and
+
+(b) cannot be revoked by the Council without making another taxi fare pricing policy order in replacement.
+
+(6) Before the date a taxi fare pricing policy order under subsection (1) comes into effect, the Council must give notice of the making of the order in such manner as will secure adequate publicity for it.
+
+(7) However, failure to comply with subsection (6) in respect of any such order under subsection (1) does not in itself invalidate the order.
+
+(8) The Minister may make regulations prescribing the content, form and procedure that must be followed by the Council in connection with the preparation and making of a taxi fare pricing policy order for the purposes of subsection (1).
+
+[Act 31 of 2015 wef 22/01/2016]
+
+### Lodgment of taxi fares and common pricing schemes
+
+23C\.—(1) Within the prescribed period after a taxi fare pricing policy order is made for any taxi service but before it takes effect for the taxi service, every taxi industry participant providing that taxi service must —
+
+(a) determine the prices of taxi fares for that taxi service if no prices are set by that order; and
+
+(b) lodge with the Council those prices determined, together with any supporting information the Council may require.
+
+(2) Where a taxi fare pricing policy order for a taxi service permits a common pricing scheme to vary one or more components of the taxi fare in the taxi fare pricing policy order, the prescribed taxi industry participants for the common pricing scheme —
+
+(a) may start collective negotiations among themselves to determine the common prices of those components of taxi fares to be charged, or to vary those common prices, and the period during which those prices will apply; and
+
+(b) must lodge with the Council the common pricing scheme with the common prices determined or varied under that scheme and the effective date of those prices, together with any supporting information the Council may require.
+
+(3) The common prices last lodged with the Council under subsection (2)(b) for any component of a taxi fare for taxi services have the effect of varying, from the date specified in the lodgment, any price set by the Council in the taxi fare pricing policy order for that component for those taxi services (even though not agreed to by all the prescribed taxi industry participants providing those taxi services) until the common pricing scheme is terminated.
+
+(4) A group of licensed taxi drivers who drive taxis not owned by a licensed taxi service operator may appoint an association, organisation or a body (whether corporate or unincorporate) recognised by the Council for the purpose of this section to be a bargaining representative to negotiate a common pricing scheme on behalf of the group.
+
+(5) To have effect, a common pricing scheme for any component of a taxi fare —
+
+(a) must be in writing;
+
+(b) must be agreed to by the taxi industry participants prescribed for that component of the taxi fare;
+
+(c) must be made after following the procedure (if prescribed) in connection with the preparation and making; and
+
+(d) must state a process for dispute resolution.
+
+(6) A taxi industry participant may be party to more than one common pricing scheme.
+
+(7) For the purposes of the Third Schedule to the Competition Act (Cap. 50B), every common pricing scheme permitted by a taxi fare pricing policy order is, when made, to be regarded as an agreement made in order to comply with a legal requirement.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+Division 3 —
+
+Bus fares and train fares
 
 ### Application for approval of fares
 
-24\.—(1) An application for the Council’s approval of any bus, taxi or rapid transit system fare shall —
+24\.—(1) An application for the Council’s approval of the price of, or the pricing policy for, any bus fare or train fare, must —
 
 (a) be made in such form and manner as the Council may determine; and
 
 (b) be supported by such documents (including certified copies of any balance-sheet and profit and loss account, and any auditor’s report, relating to the applicant’s undertaking) as the Council may require.
 
-[29/99]
+[Act 31 of 2015 wef 22/01/2016]
 
-(2) In considering any application for approval of any bus, taxi or rapid transit system fare, the Council shall take into account —
+(2) In considering any application for approval of the price of, or the pricing policy for, any bus fare or train fare, the Council must take into account —
 
 (a) the need for the applicant to remain financially viable;
 
-(aa) the need to promote or facilitate the integration of bus and rapid transit system fares or services for the through carriage of passengers provided by licensed bus service operators and licensed rapid transit system operators and other measures designed to facilitate the making by passengers of any journey which involves the use of —
+(b) the requirements imposed by or under section 24AB;
 
-(i) the services of more than one such operator;
+(c) the need for fare concessions to address the interests of certain passengers like the elderly and students;
+
+(d) facilitating integrated and seamless travel by passengers making journeys which involve the use of —
+
+(i) the bus services and train services of more than one bus operator (whether or not a public bus operator) or rapid transit system operator;
 
 (ii) more than one bus service or train service (whether or not operated by the same person); or
 
-(iii) both bus and train services (whether or not operated by the same person); and
+(iii) both bus services and train services (whether or not operated by the same person);
 
-(b) the need for public interest to be safeguarded.
+(e) facilitating the integration of bus fares and train fares;
 
-[29/99; 17/2008]
+(f) the need to optimise the bus and rapid transit system network capacity of buses and trains and to ensure economic, financial and technical viability of the public bus system and the rapid transit system;
 
-(3) The Council may —
+(g) whether increases in bus fares or train fares could cause financial hardship to commuters because there is, or is imminent, a severe economic recession in Singapore or other extenuating circumstances; and
 
-(a) reject the application;
+(h) the need for public interest to be safeguarded.
 
-(b) approve the application, subject to such conditions as the Council thinks fit, including but not limited to any condition described in section 24AA(2)(b); or
+[Act 31 of 2015 wef 22/01/2016]
 
-(c) at any time, revise any bus or rapid transit system fare in accordance with the fare adjustment formula set out in the Third Schedule.
+(3) On receipt of an application under subsection (1), the Council may —
 
-[37/2005; 17/2008]
+(a) refuse the application; or
 
-(4) Subject to subsection (6), the Council may, by order and without compensation, revoke any approval granted under subsection (3)(b) if the Council is satisfied that —
+(b) approve the application subject to such conditions as the Council thinks fit, such as any requirement in section 24AA(5)(b), (c) or (d).
 
-(a) the applicant has failed to comply with any condition imposed by the Council under subsection (3)(b) or section 24AA(2) on that approval;
+[Act 31 of 2015 wef 22/01/2016]
+
+(3A) The Council’s approval under subsection (3) or decision on review under section 24AA may be expressed in one or more of the following terms:
+
+(a) fixing the price or the rate of increase or decrease in the price of bus fares or train fares;
+
+(b) fixing a maximum or minimum price, or a maximum rate of increase in the maximum price, of bus fares or train fares;
+
+(c) fixing an average price for specified bus services or train services, or an average rate of increase or decrease in the average price of bus fares or train fares;
+
+(d) specifying pricing policies or principles for bus fares or train fares, including a policy or principle requiring prospective passengers to be informed in advance of any change in bus fares or train fares;
+
+(e) specifying an amount determined by reference to a general price index, the cost of production, a rate of return on assets employed or any other specified factor;
+
+(f) specifying an amount determined by reference to quantity (such as number of journeys or passengers), location, period or other specified factor relevant to the supply of the bus services or train services;
+
+(g) any other terms the Council considers appropriate.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(4) Subject to subsection (6), the Council may, by order and without compensation, revoke any approval granted under subsection (3)(b) or section 24AA if the Council is satisfied that —
+
+(a) the applicant has failed to comply with any condition imposed by the Council under subsection (3)(b) or requirements in section 24AA(5) on that approval;
 
 (b) the approval had been obtained by fraud or misrepresentation;
 
@@ -1110,9 +1368,9 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (d) it is in the public interest to do so; or
 
-(e) the applicant has refused or failed to comply with an order of the Council made under subsection (5)(b).
+(e) the applicant has refused or failed to comply with an order of the Council made under subsection (5)(b) or subsection (3)(b) or with section 24AC.
 
-[17/2008]
+[Act 31 of 2015 wef 22/01/2016]
 
 (5) Subject to subsection (6), the Council may, in any case in which it considers that no cause of sufficient gravity exists for revoking any approval granted under subsection (3)(b) to an applicant for such approval, by order —
 
@@ -1122,15 +1380,11 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (c) publicly censure the applicant concerned.
 
-[17/2008]
-
 (6) Before exercising any of its powers under subsection (4) or (5), the Council shall —
 
 (a) give to the applicant concerned notice in writing of its intention to do so; and
 
 (b) in such notice, call upon the applicant to show cause within such period as may be specified in the notice as to why the Council should not make any order under subsection (4) or (5), being a period of at least 7 days after the Council informs the applicant concerned of such intention.
-
-[17/2008]
 
 (7) If the applicant —
 
@@ -1140,19 +1394,41 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 as to why the order under subsection (4) or (5), as the case may be, should not be made, the Council shall give notice in writing to the applicant concerned of the Council’s order made under the respective subsection.
 
-[17/2008]
-
 (8) In any proceedings under subsection (4) or (5) in relation to the conviction of an applicant for a criminal offence, the Council shall accept the applicant’s conviction as final and conclusive.
 
-[17/2008]
+(9) Nothing in this section requires —
 
-### Review of bus and rail fares
+(a) the LTA to apply to the Council for approval of bus fares —
 
-24AA\.—(1) The Council may, at any time on its own initiative, review any bus fares and rapid transit system fares approved under section 24 with a view to promoting or facilitating —
+(i) for bus services provided under a public bus services contract (within the meaning of the Bus Services Industry Act 2015) to which the LTA is a party; or
 
-(a) the integration of bus and rapid transit system fares;
+(ii) for bus services provided by the LTA when LTA operates the bus services; or
 
-(b) arrangements for the through carriage of passengers provided by licensed bus service operators and licensed rapid transit system operators; or
+(b) a public bus operator which provides a bus service according to the provisions of a public bus services contract to apply to the Council for approval of bus fares for the bus service specified in that contract.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+### Unilateral review of fares, etc.
+
+24AA\.—(1) The Council may, on its own initiative, review —
+
+(a) the price of, or the pricing policy for —
+
+(i) any bus fare specified in a public bus services contract for any bus service;
+
+(ii) any bus fare approved under section 24 for bus services; or
+
+(iii) any train fare approved under section 24; or
+
+(b) the price of or pricing policy for any fare approved on review under this section.
+
+(2) A review under this section of any fare or fare pricing policy must take into account the matters referred to in section 24(2) and comply with section 24AB.
+
+(3) Without prejudice to the generality of subsection (1), a review under this section of the price of, or the pricing policy for, any bus fare or train fare, may be carried out for the purpose of promoting or facilitating —
+
+(a) the integration of bus fares and train fares;
+
+(b) arrangements for the through-carriage of passengers on bus services and train services provided by licensed bus operators (whether or not public bus operators) and licensed rapid transit system operators, respectively; and
 
 (c) the making by passengers of any journey which involves the use of —
 
@@ -1160,43 +1436,91 @@ as to why the order under subsection (4) or (5), as the case may be, should not 
 
 (ii) more than one bus service or train service (whether or not operated by the same person); or
 
-(iii) both bus and train services (whether or not operated by the same person).
+(iii) both bus services and train services (whether or not operated by the same person).
 
-[17/2008]
+(4) On completing any review under subsection (1) in relation to the price of, or pricing policy for, any bus fare or train fare, the Council may —
 
-(2) On completing any review under subsection (1), the Council may make all or any of the following decisions, if it considers that the decision would be in the interest of the public, and would to any extent promote or facilitate the objectives referred to in subsection (1)(a) or (b) or both:
+(a) add to, delete and substitute, or otherwise modify —
 
-(a) vary its approval of any bus fare or rapid transit system fare;
+(i) any part of its approval under section 24(3) or approval on review under this section; or
 
-(b) modify the conditions for its approval of fares under section 24(3), including imposing any condition that may require —
+(ii) any of the conditions for its approval under section 24(3), or approval on review under this section; or
 
-(i) any licensed bus service operator or licensed rapid transit system operator to enter into an agreement with each other, or with another licensed bus service operator or licensed rapid transit system operator, on such terms and conditions as the Council may specify for the re-allocation of revenues amongst the respective licensed operators for the provision of their services, and to take such steps to ensure that the agreement is given effect to; or
+(b) set the price of or pricing policy for the bus fare to be specified in a public bus services contract for any bus service,
 
-(ii) every licensed bus service operator and licensed rapid transit system operator who have agreed to provide services for the through carriage of passengers provided by them to publish or cause to be published the through fares for those services.
+and the fare or fare pricing policy so added to, substituted or otherwise modified, or set is, for the purposes of this Part, to be regarded as approved under this section.
 
-[17/2008]
+(5) In particular, a decision of the Council under subsection (4) in relation to any bus fare for bus services provided by a public bus operator, or any train fare for train services provided by a licensed rapid transit system operator, may do any of the following:
 
-### Notice and consultation requirements, etc.
+(a) add to the price of the fare for those bus services or train services, the carry-forward amount available to the bus operator of those bus services or the rapid transit system operator of those train services, as the case may be;
 
-24AB\.—(1) No decision under section 24AA(2) may be made by the Council unless the Council has complied with the procedure and other notice and consultation requirements imposed by or under this section.
+(b) require the bus operator or rapid transit system operator concerned and, in the case of bus services provided under public bus services contracts, the LTA, to re-allocate revenues amongst themselves for the provision of their respective services, such as —
 
-[17/2008]
+(i) entering into an agreement with each other, or with the LTA or another bus operator or rapid transit system operator, on such terms and conditions as the Council may specify for the re-allocation of revenues; and
 
-(2) The Council shall, in reviewing the bus fares and rapid transit system fares under section 24AA, comply with such procedures as the Minister may prescribe by regulations.
+(ii) taking such steps to ensure that the agreement is given effect to;
 
-[17/2008]
+(c) require the public bus operator or licensed rapid transit system operator, or the LTA in the case of bus services provided under public bus services contracts, to grant fare concessions —
 
-(3) If the Council proposes to review the bus fares and rapid transit system fares with a view to making a decision under section 24AA(2), the Council shall —
+(i) for any specified class of passengers of buses or trains used to provide those bus services or train services, as the case may be; or
 
-(a) give notice of its proposed review and decision in the prescribed manner; and
+(ii) for bus or train journeys starting at a specified place or area or starting or ending at any specified time;
 
-(b) after giving such notice, consult all licensed bus service operators and licensed rapid transit system operators who would, in the opinion of the Council, be affected by the decision.
+(d) require every public bus operator and licensed rapid transit system operator who agree to provide services for the through-carriage of passengers provided by them to publish, or cause to be published, the through fares for those services.
 
-[17/2008]
+(6) Before making a decision under subsection (5), the Council must —
 
-(4) The Minister may make such regulations as are necessary or expedient to give effect to the provisions of this section.
+(a) give notice of its proposed review under this section in the manner prescribed under subsection (7); and
 
-[17/2008]
+(b) after giving such notice, consult —
+
+(i) the LTA; and
+
+(ii) such licensed bus operator or licensed rapid transit system operator who would in the Council’s opinion be affected by the decision.
+
+(7) The Minister may make regulations prescribing the content, form and procedure to be followed, and the methodology or other matters to be included in connection with the preparation, review and approval of fares or fare pricing policies under this section.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+### Fare review mechanism
+
+24AB\.—(1) When approving under section 24, or approving on review under section 24AA, the price of any bus fare or train fare, the Council must do so only in accordance with the fare adjustment formula set out in the Third Schedule.
+
+(2) Where the bus fare charged by a public bus operator, or the train fare charged by a licensed rapid transit system operator, or the bus fare or train fare approved under section 24, or approved on review under section 24AA, for any year is less than the maximum permitted using the fare adjustment formula set out in the Third Schedule —
+
+(a) no public bus operator or licensed rapid transit system operator is entitled to demand a bus fare or train fare that includes that excess for that year; but
+
+(b) the excess may be claimed (in whole or in part) by the public bus operator or licensed rapid transit system operator concerned when applying for approval of any bus fare or train fare for the subsequent year or years, up to the maximum permitted using that fare adjustment formula.
+
+(3) However, the Council may refuse to add the excess referred to in subsection (2) to any bus fare or train fare with respect to a public bus operator or licensed rapid transit system operator if the bus operator or rapid transit system operator makes no claim under subsection (2)(b) when applying under section 24 for approval of the bus fare or train fare.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+### Contribution of proportion of fare increases
+
+24AC\.—(1) Where the Council —
+
+(a) approved under section 24 an increase in any bus fare for any bus service provided by a public bus operator or in any train fare for any train service; or
+
+(b) approved on review under section 24AA any bus fares or train fares that is an increase in any bus fare for any bus service provided by a public bus operator or in any train fare for any train service,
+
+every public bus operator and every licensed rapid transit system operator providing that bus service or train service, as the case may be, must contribute to the Public Transport Fund an amount set by the Council under this section.
+
+(2) In setting the amount of contribution that a public bus operator or a licensed rapid transit system operator must make under subsection (1), the Council must have regard to the estimated increase in revenue of the public bus operator or licensed rapid transit system operator that is attributable to the increase in fares approved or varied by the Council under section 24 or 24AA, as the case may be.
+
+(3) The Council may set the contribution in one or more of the following terms:
+
+(a) a fixed amount or rate of the estimated increase in revenue that is attributable to the increase in bus fares or train fares approved or revised by the Council under section 24 or 24AA, respectively;
+
+(b) any other terms as the Council considers appropriate.
+
+(4) The contributions that a public bus operator or a licensed rapid transit system operator has to make under subsection (1) must be made within the prescribed period after the effective date of any fare increase so approved or revised under section 24 or 24AA, as the case may be, and thereafter, at the prescribed time in every subsequent year until the Council in writing directs otherwise.
+
+(5) Any unpaid contribution and any penalty or interest imposed under regulations made under section 28(2)(ca) may be recovered as a Government debt in a court of competent jurisdiction.
+
+(6) The Minister may make regulations prescribing the content, form and procedure that must be followed by the Council in connection with the setting of contributions for the purposes of subsection (1).
+
+[Act 31 of 2015 wef 22/01/2016]
 
 ## PART VA
 
@@ -1458,15 +1782,11 @@ MISCELLANEOUS PROVISIONS
 
 [29/99]
 
-### Penalty for operation of service without licence
+### Penalty for unauthorised ticket payment service
 
-25A\. Any person who contravenes section 12(1), 16(1) or 19(1) shall be guilty of an offence and —
+25A\. Any person who contravenes section 19(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
 
-(a) in the case of an offence under section 12(1), shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction; and
-
-(b) in the case of an offence under section 16(1) or 19(1), shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
-
-[37/2005]
+[Act 30 of 2015 wef 22/01/2016]
 
 ### Offences by bodies corporate, etc.
 
@@ -1530,9 +1850,17 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-26\. The Council or any officer authorised by the Council may, in its or his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+26\.—(1) The Council, or any officer of the Council or the LTA authorised by the Council, may, in its or his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
 
-[29/99; 37/2005]
+[Act 31 of 2015 wef 22/01/2016]
+
+(2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(3) All sums collected under this section are to be paid into the Consolidated Fund.
+
+[Act 31 of 2015 wef 22/01/2016]
 
 ### Recovery of sums payable
 
@@ -1546,9 +1874,11 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Moneys recovered or collected by Council
 
-26B\.—(1) All moneys recovered, and fees, charges, security deposits, performance bonds and composition sums collected under this Act, other than licence fees and financial penalties, shall be paid into and form part of the moneys of the Council.
+26B\.—(1) All moneys recovered, and fees, charges, security deposits and performance bonds collected under this Act, other than licence fees and financial penalties, shall be paid into and form part of the moneys of the Council.
 
 [37/2005]
+
+[Act 31 of 2015 wef 22/01/2016]
 
 (2) All licence fees and financial penalties collected under this Act shall be paid into the Consolidated Fund.
 
@@ -1600,11 +1930,25 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) Without prejudice to the generality of subsection (1), the Council may make regulations for all or any of the following purposes:
 
-(a) to prescribe the manner and form in which applications for bus service licences, bus service operator’s licences and ticket payment service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
+(a) to prescribe the manner and form in which applications for ticket payment service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
 
-(b) to prescribe a scale of fees for bus service licences, bus service operator’s licences and ticket payment service licences;
+[Act 30 of 2015 wef 22/01/2016]
 
-(c) to prescribe the manner and form in which applications for the approval of bus, taxi and rapid transit system fares are to be made and the documents to be submitted in support of such applications;
+(b) to prescribe a scale of fees for and ticket payment service licences;
+
+[Act 30 of 2015 wef 22/01/2016]
+
+(c) to prescribe the manner and form in which applications for the approval of bus fares or train fares, or a pricing policy for bus services or train services, are to be made and the documents to be submitted in support of such applications;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(ca) to prescribe the date and manner by which any contribution is payable under section 24AC to the Public Transport Fund, the penalties for the late payment of any such contribution and to impose interest for late payment of any such contribution or penalty;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(cb) to require returns to be made by persons by whom contributions under section 24AC are payable, and the conditions relating to the making of such returns;
+
+[Act 31 of 2015 wef 22/01/2016]
 
 (d) to regulate the procedure of the Council;
 
@@ -1613,6 +1957,14 @@ the officer or member as well as the unincorporated association shall be guilty 
 (f) to control and regulate the conduct of the officers and employees of the Council;
 
 (g) to prescribe the offences under this Act which may be compounded under section 26;
+
+(ga) to prescribe devices for the purposes of section 24CB and the manner of using (including testing) those devices;
+
+[Act 31 of 2015 wef 22/01/2016]
+
+(gb) to prescribe the processes for loading information onto a prescribed device or a prescribed computer system, copying or transferring information between prescribed devices or between a prescribed device and a prescribed computer system, storing of information by a prescribed device or prescribed computer system and producing a printed record of information stored by a prescribed device or prescribed computer system;
+
+[Act 31 of 2015 wef 22/01/2016]
 
 (h) to prescribe anything that is required to be prescribed under this Act.
 
@@ -1842,6 +2194,15 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|13 July 2015 (Bill No. 27/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|8 January 2016|
+|21.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 27/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
+|22.|**Act 30 of 2015—Bus Services Industry Act 2015**|
+||Date of First Reading|13 July 2015|
+|||(Bill No. 26/2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
