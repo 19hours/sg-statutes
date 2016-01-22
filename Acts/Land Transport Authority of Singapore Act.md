@@ -164,9 +164,9 @@ PRELIMINARY
 
 [Act 17 of 2012 wef 12/09/2012]
 
-“bus service licence”, “bus service operator” and “bus service operator’s licence” have the same meanings as in the Public Transport Council Act (Cap. 259B);
+“bus service licence” has the same meaning as in the Bus Services Industry Act 2015;
 
-[Act 17 of 2012 wef 12/09/2012]
+[Act 30 of 2015 wef 22/01/2016]
 
 “Chairman” means the Chairman of the Authority and includes any acting Chairman of the Authority;
 
@@ -270,13 +270,19 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (g) without prejudice to the Public Transport Council Act (Cap. 259B) —
 
-(i) to carry out operational planning for bus services to meet the needs and expectation of the public, including coordinating the routes and scheduling of bus services provided by holders of bus service licences and bus service operator’s licences;
+(i) to carry out operational planning for bus services to meet the needs and expectation of the public, including coordinating the routes and scheduling of bus services provided by holders of bus service licences;
 
-(ii) to provide financial assistance to holders of bus service licences or bus service operator’s licences with the object of improving and expanding the range and reliability of the bus services so provided by all or any of them;
+[Act 30 of 2015 wef 22/01/2016]
 
-(iii) to procure for or make available to any holder of a bus service licence or a bus service operator’s licence such buses as are necessary for improving and expanding the range and reliability of the bus services so provided by all or any of them;
+(ii) to provide financial assistance to holders of bus service licences with the object of improving and expanding the range and reliability of the bus services so provided by all or any of them;
+
+[Act 30 of 2015 wef 22/01/2016]
+
+(iii) to procure for or make available to any holder of a bus service licence such buses as are necessary for improving and expanding the range and reliability of the bus services so provided by all or any of them;
 
 [Act 17 of 2015 wef 01/09/2015]
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (iv) to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act; and
 
@@ -287,6 +293,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 (v) to regulate the provision of third‑party taxi booking services under the Third‑Party Taxi Booking Service Providers Act 2015;
 
 [Act 17 of 2015 wef 01/09/2015]
+
+(ga) to operate any bus service or any bus depot or bus interchange, if there is for any reason no licensee under the Bus Services Industry Act 2015 to operate that bus service, bus depot or bus interchange (as the case may be), having regard to the reasonable requirements of the land transport system in Singapore or the relevant part thereof;
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (h) to regulate the construction of motor vehicles and the conditions under which they may be used on roads in Singapore;
 
@@ -400,9 +410,11 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [11/2007 wef 01/03/2007]
 
-(fd) to provide financial assistance by way of grant, loan or guarantee to any holder of a bus service licence or bus service operator’s licence;
+(fd) to provide financial assistance by way of grant, loan or guarantee to any holder of a bus service licence;
 
 [Act 17 of 2012 wef 12/09/2012]
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (fe) to establish or expand facilities or to assist in the maintenance of facilities (whether by itself or with the co-operation of other persons or bodies as the Authority thinks fit), including but not limited to providing grants, for the purpose of training and education relating to public transport;
 
@@ -434,9 +446,11 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [11/2007 wef 01/03/2007]
 
-(5) Any grant, loan or guarantee given by the Authority before the date of commencement of section 4 of the Land Transport Authority of Singapore (Amendment) Act 2012 to any holder of a bus service licence or bus service operator’s licence, and any security for any such loan, shall not be invalid by reason only that it was given before that date but shall be deemed to have been and to be given as if that section was then in force.
+(5) Any grant, loan or guarantee given by the Authority before the date of commencement of section 4 of the Land Transport Authority of Singapore (Amendment) Act 2012 to any holder of a bus service licence, and any security for any such loan, shall not be invalid by reason only that it was given before that date but shall be deemed to have been and to be given as if that section was then in force.
 
 [Act 17 of 2012 wef 12/09/2012]
+
+[Act 30 of 2015 wef 22/01/2016]
 
 ### Appointment of committees and delegation of powers
 
@@ -550,9 +564,11 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 [Act 17 of 2012 wef 12/09/2012]
 
-(ja) grants, loans or guarantees to any holder of a bus service licence or a bus service operator’s licence for the purpose of improving and expanding the range and reliability of the bus services so provided by the holders of such a licence, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve; and
+(ja) grants, loans or guarantees to any holder of a bus service licence for the purpose of improving and expanding the range and reliability of the bus services so provided by the holders of such a licence, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve; and
 
 [Act 17 of 2012 wef 12/09/2012]
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (k) any other expenditure authorised by the Authority and properly chargeable to revenue account.
 
@@ -634,15 +650,21 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 (h) such proportion as the Minister may approve of the fees, rental or other revenue lawfully received by the Authority for or in connection with the hiring or leasing of buses, bus stops, bus interchanges or terminals or bus parks from the Authority, or for or in connection with the advertising on such buses or at such bus stops, bus interchanges or terminals or bus parks; and
 
-(i) all damages, cost or other moneys lawfully received by the Authority from any holder of a bus service licence or bus service operator’s licence on account of any breach by the holder of such a licence of any term in a grant or loan from or in a lease, contract or other arrangement with the Authority, made in connection with improving and expanding the range and reliability of bus services so provided by the holders of such a licence.
+(i) all damages, cost or other moneys lawfully received by the Authority from any holder of a bus service licence on account of any breach by the holder of such a licence of any term in a grant or loan from or in a lease, contract or other arrangement with the Authority, made in connection with improving and expanding the range and reliability of bus services so provided by the holders of such a licence.
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (2) The moneys in the Bus Service Enhancement Fund may be withdrawn by the Authority only for all or any of the following purposes:
 
-(a) to provide grants or loans to any holder of a bus service licence or a bus service operator’s licence for the purpose of improving and expanding the range and reliability of the bus services so provided by the holders of such a licence, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve;
+(a) to provide grants or loans to any holder of a bus service licence for the purpose of improving and expanding the range and reliability of the bus services so provided by the holders of such a licence, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve;
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (b) to pay all reasonable legal costs incurred by the Authority and all reasonable expenses incurred by the Authority in connection with the collection or attempted collection of any outstanding amounts (including any interest thereon) of any sums due under any loan or grant made out of moneys in the Bus Service Enhancement Fund;
 
-(c) to acquire any property, moveable or immovable, including but not limited to buses, with the object of improving and expanding the range and reliability of the bus services provided by all or any of the holders of bus service licences or bus service operator’s licences;
+(c) to acquire any property, moveable or immovable, including but not limited to buses, with the object of improving and expanding the range and reliability of the bus services provided by all or any of the holders of bus service licences;
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (d) for investments in accordance with section 17 of moneys in the Bus Service Enhancement Fund;
 
@@ -1707,3 +1729,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of First Reading|13 April 2015 (Bill No. 14/2015 published on 13 April 2015)|
 ||Date of Second and Third Readings|11 May 2015|
 ||Date of commencement|1 September 2015|
+|24.|**Act 30 of 2015—Bus Services Industry Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 26/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
