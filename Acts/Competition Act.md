@@ -2898,7 +2898,9 @@ Specified activities
 
 (c) the supply of wastewater management services, including the collection, treatment and disposal of wastewater;
 
-(d) the supply of scheduled bus services by any person licensed and regulated under the Public Transport Council Act (Cap. 259B);
+(d) the supply of bus services by a licensed bus operator under the Bus Services Industry Act 2015;
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (e) the supply of rail services by any person licensed and regulated under the Rapid Transit Systems Act (Cap. 263A); and
 
@@ -3113,3 +3115,7 @@ This Legislative History is provided for the convenience of users of the Competi
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|12.|**Act 30 of 2015—Bus Services Industry Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 26/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
