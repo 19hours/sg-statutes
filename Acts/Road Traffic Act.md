@@ -338,31 +338,7 @@
 
 - [111J Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
-[**Part VB LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS**](#Part-VB)
-
-- [111K Interpretation of this Part](#Interpretation-of-this-Part)
-
-- [111L Operating bus interchange or bus depot without licence](#Operating-bus-interchange-or-bus-depot-without-licence)
-
-- [111M Licence to operate bus interchange or bus depot](#Licence-to-operate-bus-interchange-or-bus-depot)
-
-- [111N Matters to be considered by Authority in granting licence](#Matters-to-be-considered-by-Authority-in-granting-licence)
-
-- [111O Conditions of licence](#Conditions-of-licence)
-
-- [111P Modification of licence conditions](#Modification-of-licence-conditions)
-
-- [111Q Directions affecting licensees](#Directions-affecting-licensees)
-
-- [111QA Codes of practice](#Codes-of-practice)
-
-- [111R Suspension or cancellation of licence, etc.](#Suspension-or-cancellation-of-licence-etc)
-
-- [111S Renewal of licence](#Renewal-of-licence)
-
-- [111T Appeal to Minister](#Appeal-to-Minister)
-
-- [111U Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
+[**Part VB (Repealed)**](#Part-VB)
 
 [**Part VI PROVISIONS AS TO USE OF HIGHWAYS**](#Part-VI)
 
@@ -474,9 +450,11 @@ REVISED EDITION 2004
 
 (31st December 2004)
 
-An Act for the regulation of road traffic and the use of vehicles and the user of roads and the operation of bus interchanges and for other purposes connected therewith.
+An Act for the regulation of road traffic and the use of vehicles and the user of roads and for other purposes connected therewith.
 
 [4/2006 wef 27/02/2006]
+
+[Act 10 of 2017 wef 22/01/2016]
 
 [1st January 1963]
 
@@ -521,6 +499,14 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 (c) includes the rider of a bicycle and any person propelling a tricycle or trishaw or pushing or pulling a cart, and “drive” shall be construed accordingly;
 
 “driving licence” means a licence to drive a motor vehicle granted under the provisions of Part II;
+
+“fare”, in relation to a public service vehicle, includes —
+
+(a) the amount of any rate, fee, levy and charge and any other valuable consideration (however described) for a journey by the public service vehicle; and
+
+(b) the provision of, or arrangements for, a discount, concession, allowance, rebate or credit applying in relation to any amount in paragraph (a);
+
+[Act 31 of 2015 wef 22/01/2016]
 
 “foreign driving licence” means a driving licence or permit (not being a provisional driving licence or permit) issued by a competent authority in another country between which and Singapore there is in force a treaty for the recognition of driving licences or permits issued in the countries which are parties to the treaty;
 
@@ -4468,309 +4454,7 @@ the Authority shall give notice in writing to the licensee of the date the writt
 
 ## PART VB
 
-LICENSING OF BUS INTERCHANGE AND BUS DEPOT OPERATORS
-
-[Act 37 of 2012 wef 01/06/2013]
-
-### Interpretation of this Part
-
-111K\. In this Part, unless the context otherwise requires ––
-
-“bus depot” means any premises with purpose-built facilities for the parking, maintenance or refuelling of buses by bus service operator licensees;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-“bus interchange” means a terminal or station with purpose-built facilities for the commencement or termination of one or more bus services and for the boarding or alighting of bus passengers;
-
-“bus service” means a service that is provided to any person upon the payment of a fare using one or more buses operating on predetermined timetables and routes;
-
-“bus service licensee” means the holder of a bus service licence within the meaning of the Public Transport Council Act (Cap. 259B);
-
-“bus service operator licensee” means the holder of a bus service operator’s licence within the meaning of the Public Transport Council Act;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-“licence” means a licence granted under section 111M;
-
-“licensee” means the holder of a licence.
-
-[4/2006 wef 01/04/2006]
-
-### Operating bus interchange or bus depot without licence
-
-111L\.—(1) No person except the Authority or a licensee shall operate any bus interchange or bus depot.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(2) Any person who operates any bus interchange or bus depot in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(3) Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Part and shall have the power to impose the full penalty or punishment in respect of any such offence.
-
-[4/2006 wef 01/04/2006]
-
-### Licence to operate bus interchange or bus depot
-
-111M\.—(1) Subject to the provisions of this Part, the Authority may, on the application of any person, grant a licence to that person to operate any bus interchange or bus depot for such period as may be specified in the licence.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(2) An application under subsection (1) shall be made to the Authority in such form and manner as the Authority may require.
-
-(3) A licensee shall be authorised under this Act to operate the bus interchange or bus depot specified in the licence for the period specified in the licence unless the licence is earlier revoked, cancelled or suspended under the provisions of this Act.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(4) The fee for a licence to operate any bus interchange or bus depot shall be such amount as may be prescribed.
-
-[4/2006 wef 01/04/2006]
-
-[Act 37 of 2012 wef 01/06/2013]
-
-### Matters to be considered by Authority in granting licence
-
-111N\. In exercising its discretion to grant a licence, the Authority shall have regard to the financial standing of the applicant and his ability to maintain and operate an adequate, satisfactory, safe and efficient bus interchange or bus depot.
-
-[4/2006 wef 01/04/2006]
-
-[Act 37 of 2012 wef 01/06/2013]
-
-### Conditions of licence
-
-111O\.—(1) In granting a licence, the Authority may impose such conditions as it thinks fit, including conditions relating to —
-
-(a) the extent, hours and general level of service of the bus interchange or bus depot that is the subject of the licence;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(b) the maintenance and operation of the bus interchange or bus depot and any equipment therein;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(c) the safety and security of persons using or engaged in any work at the bus interchange or bus depot;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(d) the maximum fee payable to the licensee for the use of the bus interchange that is the subject of the licence by —
-
-(i) any bus service licensee; or
-
-(ii) any operator of any bus service using buses registered whether within or outside Singapore and which ply between Singapore and Malaysia;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(e) the conditions and use of the bus interchange or bus depot by employees, agents, tenants and contractors of the licensee, by bus service licensees and operators of bus services referred to in paragraph (d) and by members of the public; and
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(f) the standards of performance to be complied with by the licensee in the maintenance and operation of the bus interchange or bus depot.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(2) Without prejudice to the generality of subsection (1), conditions included in a licence to operate a bus interchange or bus depot may require the licensee —
-
-(a) to maintain any premises, structure or facility used for the purposes of, or which is otherwise reasonably necessary or incidental to, the smooth operation of the bus interchange or bus depot;
-
-(b) to prepare itself to deal with any plague, epidemic, fire, flood, earthquake or disaster (natural or otherwise) or any public emergency; and
-
-(c) to provide travel information systems and directional signs for the purpose of ensuring integration of the bus interchange with transport services and facilities and developments surrounding the bus interchange operated by the licensee so as to enhance passenger services.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-[4/2006 wef 01/04/2006]
-
-### Modification of licence conditions
-
-111P\.—(1) Subject to this section, the Authority may modify the conditions of a licence.
-
-(2) Before making any modification to the conditions of a licence under subsection (1), the Authority shall give notice to the licensee —
-
-(a) stating that it proposes to make the modification in the manner specified in the notice; and
-
-(b) specifying the time (not being less than 28 days from the date of service of the notice on such licensee) within which the licensee may make written representations to the Authority with respect to the proposed modification.
-
-(3) Upon receipt of any written representation referred to in subsection (2)(b), the Authority shall consider such representation and may —
-
-(a) reject the representation;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(b) amend the proposed modification in such manner as it thinks fit having regard to the representation; or
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(c) withdraw the proposed modification.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(4) Subject to subsection (6), if the Authority rejects any written representation under subsection (3)(a) or amends any proposed modification to the conditions of a licence under subsection (3)(b), the modification as specified in the notice or as amended by the Authority, as the case may be, shall take effect on a date specified in writing by the Authority.
-
-(5) Subject to subsection (6), if no written representation is received by the Authority within the time specified under subsection (2)(b) or if any written representation made under subsection (2)(b) is subsequently withdrawn, the modification as specified in the notice shall take effect on a date specified in writing by the Authority.
-
-(6) Any modification to the conditions of a licence under subsection (4) or (5) shall not take effect —
-
-(a) during the period referred to in section 111T(1); and
-
-(b) where the licensee has appealed against the modification, until the determination of the appeal.
-
-[4/2006 wef 01/04/2006]
-
-### Directions affecting licensees
-
-111Q\.—(1) The Authority may give directions to any licensee on or in respect of the following matters:
-
-(a) the extent, hours and general level of service;
-
-(b) the maintenance and operation of the bus interchange or bus depot and any equipment therein;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(c) the safety and security of persons using or engaged in any work at the bus interchange or bus depot;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(d) the conditions and use of the bus interchange or bus depot by employees, agents, tenants and contractors of the licensee, by bus service licensees and operators of bus services referred to in section 111O(1)(d) and by members of the public; and
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(e) any other matter affecting the interests of the public in connection with the service provided by the licensee.
-
-(2) Any direction given under subsection (1) —
-
-(a) may require the licensee concerned (according to the circumstances of the case) to do, or not to do, such things as are specified or described in the direction;
-
-(b) shall take effect at such time as specified in the direction; and
-
-(c) may be revoked or modified at any time by the Authority.
-
-(3) Before giving any direction to any licensee under subsection (1), the Authority —
-
-(a) shall give notice to the licensee —
-
-(i) informing him of the proposed direction and setting out its effect; and
-
-(ii) specifying the time within which he may make written representations to the Authority with respect to the proposed direction,
-
-unless the Authority, in respect of any particular direction, considers that it is not practicable or desirable that such notice be given; and
-
-(b) shall consider any representation made by the licensee.
-
-(4) Every licensee shall, at his own expense, comply with every direction given to him by the Authority under this section.
-
-[4/2006 wef 01/04/2006]
-
-### Codes of practice
-
-111QA\.—(1) The Authority may issue or approve and from time to time modify codes of practice in connection with —
-
-(a) the maintenance or operation of bus interchanges or bus depots and any equipment relating thereto;
-
-(b) the provision of services at bus interchanges or bus depots;
-
-(c) the conduct of licensees;
-
-(d) the security and safety of persons who use or who are engaged in any work at bus interchanges or bus depots; and
-
-(e) the measures necessary for licensees to deal with any plague, epidemic, fire, flood, earthquake or disaster (natural or otherwise) or any public emergency.
-
-(2) Every licensee shall comply with any code of practice issued or approved by the Authority under subsection (1), except that if any provision in any such code of practice is inconsistent with this Act, that provision shall not have effect to the extent of the inconsistency.
-
-(3) The Authority may, if the circumstances so warrant, exempt any licensee from any provision in any code of practice, whether unconditionally or subject to such conditions as the Authority thinks fit to impose, and whether permanently or for such time as the Authority may specify.
-
-(4) Any code of practice issued or approved by the Authority shall be deemed not to be subsidiary legislation.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-### Suspension or cancellation of licence, etc.
-
-111R\.—(1) Subject to subsection (2), if any licensee —
-
-(a) contravenes, or fails to secure the compliance by his employees, agents or contractors with, any of the conditions of his licence or any direction given by the Authority under section 111Q;
-
-(b) goes into compulsory or voluntary liquidation other than for the purpose of reconstruction or amalgamation;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(c) makes any assignment to or enters into a composition with his creditors; or
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(d) fails to comply with any provision of any code of practice issued or approved by the Authority under section 111QA,
-
-[Act 37 of 2012 wef 01/06/2013]
-
-the Authority may, by notice in writing and without any compensation to the licensee or any other person, do all or any of the following:
-
-(i) rectify the non-compliance and recover the costs of such rectification from the licensee;
-
-(ii) suspend or cancel the licence of the licensee;
-
-(iii) require the licensee to pay, within a specified period, a financial penalty of such amount not exceeding $100,000 as the Authority thinks fit.
-
-(2) The Authority shall, before taking any action under subsection (1), give the licensee notice in writing of its intention to do so and shall call upon the licensee to show cause within such time as may be specified by the Authority as to why such action ought not to be taken.
-
-(3) Any cost recoverable from any licensee under subsection (1)(i) and any financial penalty payable by any licensee under subsection (1)(iii) shall be recoverable as a debt due to the Authority from the licensee, and the licensee’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
-
-[4/2006 wef 01/04/2006]
-
-### Renewal of licence
-
-111S\.—(1) The Authority may, on the application of a licensee, renew the licence on such conditions as it thinks fit.
-
-(2) The fee for any renewal of licence shall be such amount as may be prescribed.
-
-[4/2006 wef 01/04/2006]
-
-### Appeal to Minister
-
-111T\.—(1) Any licensee aggrieved by —
-
-(a) any licence condition imposed by the Authority under section 111O;
-
-(b) any modification to the conditions of his licence under section 111P;
-
-(c) any direction given by the Authority under section 111Q;
-
-(ca) any code of practice issued or approved by the Authority under section 111QA;
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(d) any decision made by the Authority under section 111R(1); or
-
-(e) any refusal of the Authority to renew his licence under section 111S,
-
-may, within 14 days of the receipt of the notice relating to the relevant matter from the Authority, appeal to the Minister.
-
-(2) Subject to section 111P(6) and subsection (3) and unless the Minister otherwise directs, where an appeal is lodged by a licensee under subsection (1) —
-
-(a) the licensee shall comply or continue to comply with any licence condition, direction, code of practice or decision being appealed against; and
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(b) the licence condition, direction, code of practice or decision shall be effective and enforceable against the licensee,
-
-[Act 37 of 2012 wef 01/06/2013]
-
-until the determination of the appeal.
-
-(3) Where the licensee appeals under subsection (1) against any refusal to renew his licence and his licence expires at any time from the date of receipt of the Authority’s notice of refusal to the date of determination of his appeal, the licensee shall be deemed to have a licence to operate the bus interchange or bus depot, in respect of which his licence was first granted, from the date of expiry of his licence to the date of determination of the appeal.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(4) The Minister may determine an appeal under this section by confirming, varying or reversing any decision of the Authority or by amending any licence condition, direction or code of practice affecting the licensee.
-
-[Act 37 of 2012 wef 01/06/2013]
-
-(5) The decision of the Minister in any appeal shall be final.
-
-[4/2006 wef 01/04/2006]
-
-### Rules for purposes of this Part
-
-111U\. The Authority may, with the approval of the Minister, make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect.
-
-[4/2006 wef 01/04/2006]
+[Repealed by Act 30 of 2015 wef 22/01/2016]
 
 ## PART VI
 
@@ -5348,9 +5032,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) any member of any auxiliary police force in uniform;
 
-(c) any employee of the bus service operator or bus interchange operator; or
+(c) any employee of the bus operator holding a Class 1 bus service licence (within the meaning of the Bus Services Industry Act 2015) or bus interchange operator; or
 
-(d) any security officer (within the meaning of the Private Security Industry Act (Cap. 250A)) engaged by the bus service operator or bus interchange operator,
+[Act 30 of 2015 wef 22/01/2016]
+
+(d) any security officer (within the meaning of the Private Security Industry Act (Cap. 250A)) engaged by the bus operator holding a Class 1 bus service licence (within the meaning of the Bus Services Industry Act 2015) or bus interchange operator,
+
+[Act 30 of 2015 wef 22/01/2016]
 
 who is authorised by the Authority in writing to exercise the power to search under this section at or in relation to any omnibus or bus interchange specified in that written authorisation.
 
@@ -6363,6 +6051,20 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|4 August 2014 (Bill No. 22/2014 published on 4 August 2014)|
 ||Date of Second and Third Readings|8 September 2014|
 ||Date of commencement|1 January 2016|
+|67.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 27/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
+|68.|**Act 30 of 2015—Bus Services Industry Act 2015**|
+||Date of First Reading|13 July 2015|
+|||(Bill No. 26/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
+|69.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017|
+|||(Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|22 January 2016|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
