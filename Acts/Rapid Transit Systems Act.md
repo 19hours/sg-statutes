@@ -856,7 +856,9 @@ the Authority may, by notice in writing and without any compensation, do all or 
 
 (i) suspend or cancel the licence of the licensee;
 
-(ii) forfeit the whole or any part of any security deposited with the Authority by the licensee or by its bank pursuant to a bank guarantee;
+(ii) forfeit the whole or any part of any security deposited with the Authority by the licensee or by its bank pursuant to a bank guarantee but not in excess of the maximum amount specified in subsection (1A) if the licence is not cancelled;
+
+[Act 31 of 2015 wef 22/01/2016]
 
 (iii) require the licensee to pay, within a specified period, a financial penalty of such amount as the Authority thinks fit, which in any case shall not exceed the maximum amount specified in subsection (1A).
 
@@ -1540,6 +1542,10 @@ This Legislative History is provided for the convenience of users of the Rapid T
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|10.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 27/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
 ## COMPARATIVE TABLE
 
 Rapid Transit Systems Act
