@@ -280,7 +280,9 @@ PRELIMINARY
 
 “land transport operator” means a person operating —
 
-(a) a bus service under a bus service operator’s licence granted under the Public Transport Council Act (Cap. 259B);
+(a) a bus service under a Class 1 bus service licence granted under the Bus Services Industry Act 2015;
+
+[Act 30 of 2015 wef 22/01/2016]
 
 (b) a rapid transit system within the meaning of the Rapid Transit Systems Act (Cap. 263A);
 
@@ -1773,3 +1775,7 @@ This Legislative History is provided for the convenience of users of the Energy 
 |||1 January 2014 (Division 2 of Part IV)|
 |2.|**2014 Revised Edition—Energy Conservation Act (Chapter 92C)**|
 ||Date of operation|31 May 2014|
+|3.|**Act 30 of 2015—Bus Services Industry Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 26/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|22 January 2016|
