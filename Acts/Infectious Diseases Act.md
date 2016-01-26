@@ -2064,6 +2064,12 @@ Yellow Fever.
 
 [S 614/2008 wef 19/12/2008]
 
+34. 
+
+Zika Virus Infection.
+
+[S 37/2016 wef 26/01/2016]
+
 SECOND SCHEDULE
 
 Section 2
@@ -2311,6 +2317,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|8 August 2014|
 |38.|**G.N. No. S 720/2014—Infectious Diseases Act (Amendment of Sixth Schedule) Notification 2014**|
 ||Date of commencement|30 October 2014|
+|39.|**G.N. No. S 37/2016—Infectious Diseases Act (Amendment of First Schedule) Notification 2016**|
+||Date of commencement|26 January 2016|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
