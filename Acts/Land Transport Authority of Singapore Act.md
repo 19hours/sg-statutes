@@ -1602,7 +1602,7 @@ Part I
 
 6\. All provisions of the Street Works Act [Cap. 320A] and any subsidiary legislation made thereunder.
 
-7. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
+7. Sections 23, 24C (repealed by section 18 of the Public Transport Council (Amendment) Act 2015 (Act 31 of 2015)), 24CA, 24D and 24E of the Public Transport Council Act (Cap. 259B).
 
 [S 590/2004 wef 24/09/2004]
 
@@ -1613,6 +1613,8 @@ Part I
 [S 630/2010 wef 01/11/2010]
 
 [S 310/2012 wef 01/07/2012]
+
+[S 80/2016 wef 29/02/2016]
 
 Part II
 
@@ -1733,3 +1735,5 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of First Reading|13 July 2015 (Bill No. 26/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|22 January 2016|
+|25.|**G. N. No. S 80/2016—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2016**|
+||Date of commencement|29 February 2016|
